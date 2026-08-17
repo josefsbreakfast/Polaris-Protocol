@@ -1,5 +1,5 @@
 # 📊 Immigration Myths and Impacts  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-17  
 *Fact-checking asylum myths, tracing coercive control, and recording community impact.*  
 
 ---
@@ -77,4 +77,4 @@ It combines myth-busting with legal and economic context, situating border narra
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-17_  
