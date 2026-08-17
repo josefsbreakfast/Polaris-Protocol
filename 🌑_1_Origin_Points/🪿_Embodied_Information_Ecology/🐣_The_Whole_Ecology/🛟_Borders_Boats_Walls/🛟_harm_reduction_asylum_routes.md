@@ -1,5 +1,5 @@
 # 🛟 Harm Reduction Asylum Routes  
-**First created:** 2025-09-16 | **Last updated:** 2025-10-19  
+**First created:** 2025-09-16 | **Last updated:** 2026-08-17  
 *Designing and scaling lawful routes as a harm reduction measure, reducing irregular crossings and deaths.*  
 
 ---
@@ -81,4 +81,4 @@ It documents how lawful pathways can be scaled as harm reduction, reducing irreg
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_  
+_Last updated: 2026-08-17_  
