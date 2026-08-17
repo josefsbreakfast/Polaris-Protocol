@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-17 01:06:58 UTC_
+_Generated on 2026-08-17 01:35:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,8 +18,6 @@ _Generated on 2026-08-17 01:06:58 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/)
-        - [`🇪🇺_two_speed_europe.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇪🇺_two_speed_europe.md)
-        - [`🇬🇧_britain_as_global_butler.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_britain_as_global_butler.md)
         - [`🇬🇧_britain_is_queenless_now.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_britain_is_queenless_now.md)
         - [`🇬🇧_why_the_uk_is_in_the_falklands.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_why_the_uk_is_in_the_falklands.md)
         - [`🇮🇱_zionism_is_racism.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇮🇱_zionism_is_racism.md)
@@ -3924,6 +3922,8 @@ _Generated on 2026-08-17 01:06:58 UTC_
         - [`🀄️_to_reveal_our_own_hand.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🀄️_to_reveal_our_own_hand.md)
         - [`🇩🇪_an_act_against_one_is_against_us_all.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇩🇪_an_act_against_one_is_against_us_all.md)
         - [`🇩🇪_you_cant_soothe_germany_twice.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇩🇪_you_cant_soothe_germany_twice.md)
+        - [`🇪🇺_two_speed_europe.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇪🇺_two_speed_europe.md)
+        - [`🇬🇧_britain_as_global_butler.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇬🇧_britain_as_global_butler.md)
       - [**🛰️_Infrastructure_Procurement/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
