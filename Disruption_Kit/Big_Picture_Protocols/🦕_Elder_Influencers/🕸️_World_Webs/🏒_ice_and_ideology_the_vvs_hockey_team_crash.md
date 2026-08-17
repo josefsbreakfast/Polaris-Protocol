@@ -1,5 +1,5 @@
 # 🏒 Ice and Ideology — The VVS Hockey Team Crash  
-**First created:** 2025-11-06 | **Last updated:** 2025-12-08  
+**First created:** 2025-11-06 | **Last updated:** 2026-08-17  
 *The 1950 VVS Moscow crash and the politics of rebuilding history overnight.*  
 
 ---
@@ -51,4 +51,4 @@ It records how disaster management became a rehearsal for denial — rebuilding 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-08_
+_Last updated: 2026-08-17_
