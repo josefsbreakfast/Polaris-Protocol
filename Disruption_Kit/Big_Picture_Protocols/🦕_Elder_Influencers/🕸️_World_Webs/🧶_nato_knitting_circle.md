@@ -1,5 +1,5 @@
 # 🧶 NATO Knitting Circle  
-**First created:** 2025-11-20 | **Last updated:** 2026-05-03  
+**First created:** 2025-11-20 | **Last updated:** 2026-08-17  
 *Why the alliance behaves like an overwhelmed men’s knitting group trying to coordinate under pressure.*
 <!--Updated to clarify that I wasn't calling you "a bunch of hormonal women". Although..-->
 ---
@@ -256,4 +256,4 @@ It maps how alliance behaviour reflects underlying emotional and relational dyna
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-03_
+_Last updated: 2026-08-17_
