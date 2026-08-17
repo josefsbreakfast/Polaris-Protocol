@@ -1,5 +1,5 @@
 # 📈 ID Function Creep  
-**First created:** 2025-10-05 | **Last updated:** 2025-10-19  
+**First created:** 2025-10-05 | **Last updated:** 2026-08-17  
 *When identification expands faster than justification.*  
 
 ---
@@ -58,4 +58,4 @@ It maps the incremental broadening of identification infrastructures and their r
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-10-19_
+_Last updated: 2026-08-17_
