@@ -1,5 +1,5 @@
 # 🔮 The Sensible Adult Archetype  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-17  
 *The cultural figure who emerges after periods of chaos: the boring, steady, reliable adult who restores order — not beloved, not exciting, but symbolically necessary.*
 
 ---
@@ -165,4 +165,4 @@ Pairs with:
 - **🧩 Archetype of the Sensible Man**  
 - **🎴 Tarot of Prime Ministers**
 
-_Last updated: 2025-12-11_
+_Last updated: 2026-08-17_
