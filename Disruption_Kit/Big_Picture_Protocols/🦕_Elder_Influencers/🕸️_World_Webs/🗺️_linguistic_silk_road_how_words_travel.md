@@ -1,5 +1,5 @@
 # 🗺️ Linguistic Silk Road — How Words Travel  
-**First created:** 2025-11-07 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-17  
 *A cultural-linguistic map tracing how trade, empire, and human curiosity turned language into a network rather than a lineage.*  
 
 ---
@@ -124,4 +124,4 @@ It follows etymology as evidence of encounter, showing that every sentence in En
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-12_
+_Last updated: 2026-08-17_
