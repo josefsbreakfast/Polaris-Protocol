@@ -1,5 +1,5 @@
 # 📿 Strength as Gihasta
-**First created:** 2025-11-16 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-17  
 *Rewriting the Strength archetype from domination to relational maintenance.*
 
 ---
@@ -58,4 +58,4 @@ It repositions strength as sustained relational practice rather than domination.
 > - [🔱 God as Plurality]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-17_
