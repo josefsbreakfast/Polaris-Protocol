@@ -1,5 +1,5 @@
 # 🕌 Muslims as Primary Outgroup in Holocaust Mechanism  
-**First created:** 2025-11-12 | **Last updated:** 2026-01-19  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-17  
 *Why contemporary fascist patterning centres Muslims, with antisemitism acting as connective tissue.*  
 
 ---
@@ -55,4 +55,4 @@ It maps the contemporary relocation of Holocaust-adjacent elimination patterns o
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-01-19_
+_Last updated: 2026-08-17_
