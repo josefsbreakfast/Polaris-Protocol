@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-17 16:47:37 UTC_
+_Generated on 2026-08-17 16:51:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,8 +18,6 @@ _Generated on 2026-08-17 16:47:37 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/)
-        - [`🇷🇺_the_end_of_russias_camp_era.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)
-        - [`🌏_brics_bridgework_middle_corridors.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_brics_bridgework_middle_corridors.md)
         - [`🌏_china_soft_ops_vs_russia_hard_ops.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_china_soft_ops_vs_russia_hard_ops.md)
         - [`🌏_from_escalation_to_play.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🌏_from_escalation_to_play.md)
         - [`🍌_racism_as_epistemic_collapse.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🍌_racism_as_epistemic_collapse.md)
@@ -3921,11 +3919,13 @@ _Generated on 2026-08-17 16:47:37 UTC_
         - [`🇬🇧_why_the_uk_is_in_the_falklands.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇬🇧_why_the_uk_is_in_the_falklands.md)
         - [`🇮🇱_zionism_is_racism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇮🇱_zionism_is_racism.md)
         - [`🇷🇺_russias_incursions_timeline.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇷🇺_russias_incursions_timeline.md)
+        - [`🇷🇺_the_end_of_russias_camp_era.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)
         - [`🇷🇺🇬🇧_russia_west_uk_east.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇷🇺🇬🇧_russia_west_uk_east.md)
         - [`🇺🇸_why_the_us_is_willing_to_risk_europe.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇺🇸_why_the_us_is_willing_to_risk_europe.md)
         - [`🇺🇸🇬🇧_us_uk_group_easter_egg_hunt.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇺🇸🇬🇧_us_uk_group_easter_egg_hunt.md)
         - [`🌍_apartheid_algorithm_dependency_theory.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🌍_apartheid_algorithm_dependency_theory.md)
         - [`🌍_when_virtual_minds_govern_a_physical_planet.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🌍_when_virtual_minds_govern_a_physical_planet.md)
+        - [`🌏_brics_bridgework_middle_corridors.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🌏_brics_bridgework_middle_corridors.md)
       - [**🛰️_Infrastructure_Procurement/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
