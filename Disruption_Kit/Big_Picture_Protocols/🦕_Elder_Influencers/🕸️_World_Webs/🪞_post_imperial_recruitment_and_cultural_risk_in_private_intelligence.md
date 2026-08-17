@@ -1,5 +1,5 @@
 # 🪞 Post-Imperial Recruitment and Cultural Risk in Private Intelligence  
-**First created:** 2025-11-03 | **Last updated:** 2025-11-12  
+**First created:** 2025-11-03 | **Last updated:** 2026-08-17  
 *How social networks, imperial nostalgia, and informal recruitment cultures sustain the para-intelligence market.*
 
 ---
@@ -95,4 +95,4 @@ It examines how informal recruitment and inherited ideologies sustain the para-i
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-11-12_
+_Last updated: 2026-08-17_
