@@ -1,5 +1,5 @@
 # 📜 Torah as Structure of Truth  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-17  
 *Torah as cosmic architecture, ethical order, and the obligation to guard truth through speech.*  
 
 ---
@@ -65,4 +65,4 @@ It restores the ethical and cosmological foundations of Jewish responsibility in
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-17_
