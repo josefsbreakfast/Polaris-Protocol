@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-17 17:02:19 UTC_
+_Generated on 2026-08-17 17:05:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,9 +18,6 @@ _Generated on 2026-08-17 17:02:19 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/)
-        - [`🐡_men_exaggerate_object_size_by_six_inches_maritime_edition.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🐡_men_exaggerate_object_size_by_six_inches_maritime_edition.md)
-        - [`🐾_canine_constellation_guardians_at_the_threshold.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🐾_canine_constellation_guardians_at_the_threshold.md)
-        - [`💣_energy_rents_and_strongman_panic.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💣_energy_rents_and_strongman_panic.md)
         - [`💣_energy_rents_timeline.csv`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💣_energy_rents_timeline.csv)
         - [`💰_brics_and_petrol_dollars.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💰_brics_and_petrol_dollars.md)
         - [`💸_russian_overlap_patterns.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/💸_russian_overlap_patterns.md)
@@ -3926,6 +3923,9 @@ _Generated on 2026-08-17 17:02:19 UTC_
         - [`🏚️_the_economics_of_apartheid_and_fascism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🏚️_the_economics_of_apartheid_and_fascism.md)
         - [`🏛️_osa_misclassification_uk_israel_mous_survivor_records.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🏛️_osa_misclassification_uk_israel_mous_survivor_records.md)
         - [`🏜️_negev_from_renewal_to_refusal.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🏜️_negev_from_renewal_to_refusal.md)
+        - [`🐡_men_exaggerate_object_size_by_six_inches_maritime_edition.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🐡_men_exaggerate_object_size_by_six_inches_maritime_edition.md)
+        - [`🐾_canine_constellation_guardians_at_the_threshold.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🐾_canine_constellation_guardians_at_the_threshold.md)
+        - [`💣_energy_rents_and_strongman_panic.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/💣_energy_rents_and_strongman_panic.md)
       - [**🛰️_Infrastructure_Procurement/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
