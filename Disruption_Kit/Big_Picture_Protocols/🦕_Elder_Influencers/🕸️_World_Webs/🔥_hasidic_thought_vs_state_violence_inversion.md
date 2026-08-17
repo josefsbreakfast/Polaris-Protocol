@@ -1,5 +1,5 @@
 # 🔥 Hasidic Thought vs State Violence Inversion  
-**First created:** 2025-11-12 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-17  
 *How resistance-born Hasidic theology is being inverted to sanctify state violence.*
 
 ---
@@ -54,4 +54,4 @@ It examines how a resistance-born theology is being bent into an instrument of p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-17_
