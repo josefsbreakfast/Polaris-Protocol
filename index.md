@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-17 23:16:30 UTC_
+_Generated on 2026-08-17 23:18:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -15,9 +15,6 @@ _Generated on 2026-08-17 23:16:30 UTC_
   - [`graph.json`](.obsidian/graph.json)
   - [`workspace.json`](.obsidian/workspace.json)
 - [**Metadata_Sabotage_Network/**](Metadata_Sabotage_Network/)
-  - [**Governance_And_Containment/**](Metadata_Sabotage_Network/Governance_And_Containment/)
-    - [**㊙_Containment_Contracts/**](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/)
-      - [`🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md`](Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
   - [`README.md`](Metadata_Sabotage_Network/README.md)
 - [**🌑_1_Origin_Points/**](🌑_1_Origin_Points/)
   - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/.🌱_Still_Growing/)
@@ -1007,6 +1004,7 @@ _Generated on 2026-08-17 23:16:30 UTC_
           - [`🔄_reputation_arms_race_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🏯_Governance_And_Containment/㊙_Containment_Contracts/🔄_reputation_arms_race_loop.md)
           - [`🕳️_when_the_censor_is_a_contractor.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🏯_Governance_And_Containment/㊙_Containment_Contracts/🕳️_when_the_censor_is_a_contractor.md)
           - [`🕳️_whistlebridge_correlation_notes.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🏯_Governance_And_Containment/㊙_Containment_Contracts/🕳️_whistlebridge_correlation_notes.md)
+          - [`🕶️_para_intelligence_economy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🏯_Governance_And_Containment/㊙_Containment_Contracts/🕶️_para_intelligence_economy.md)
           - [`🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🏯_Governance_And_Containment/㊙_Containment_Contracts/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)
           - [`🕸️_dragnet_as_default.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🏯_Governance_And_Containment/㊙_Containment_Contracts/🕸️_dragnet_as_default.md)
           - [`🚨_prevent_as_contractual_silence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🏯_Governance_And_Containment/㊙_Containment_Contracts/🚨_prevent_as_contractual_silence.md)
