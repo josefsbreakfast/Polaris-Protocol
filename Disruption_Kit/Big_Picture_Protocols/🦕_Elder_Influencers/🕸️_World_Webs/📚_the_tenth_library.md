@@ -1,5 +1,5 @@
 # 📚 The Tenth Library  
-**First created:** 2025-11-07 | **Last updated:** 2025-12-10  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-17  
 *One of two refusals of the word’s death; the Tenth Library simply shares the book’s life with every one of its visitors.*  
 
 ---
@@ -216,4 +216,4 @@ It describes how a distributed, survivor-led guardianship model can sustain a ti
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-08-17_
