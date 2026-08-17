@@ -1,5 +1,5 @@
 # 🥺 We Are Just a Little Island, Honest  
-**First created:** 2025-11-08 | **Last updated:** 2025-12-13  
+**First created:** 2025-11-08 | **Last updated:** 2026-08-17  
 *An essay on scale, denial, and the myth of British smallness.*  
 
 ---
@@ -67,4 +67,4 @@ It documents the ongoing British habit of claiming smallness as innocence, and r
 
 *Survivor authorship is sovereign.  Containment is never neutral.*
 
-_Last updated: 2025-12-13_
+_Last updated: 2026-08-17_
