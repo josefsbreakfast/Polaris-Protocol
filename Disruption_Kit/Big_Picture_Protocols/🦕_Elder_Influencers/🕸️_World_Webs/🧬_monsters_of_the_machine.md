@@ -1,5 +1,5 @@
 # 🧬 Monsters of the Machine  
-**First created:** 2025-11-04 | **Last updated:** 2025-12-19  
+**First created:** 2025-11-04 | **Last updated:** 2026-08-17  
 *On the unintended children of bureaucracy and code.*  
 
 ---
@@ -80,4 +80,4 @@ It reflects on the human temperament formed by systems of compliance and the sen
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-19_
+_Last updated: 2026-08-17_
