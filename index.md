@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-17 01:03:41 UTC_
+_Generated on 2026-08-17 01:05:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -18,8 +18,6 @@ _Generated on 2026-08-17 01:03:41 UTC_
   - [**Big_Picture_Protocols/**](Disruption_Kit/Big_Picture_Protocols/)
     - [**🦕_Elder_Influencers/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
       - [**🕸️_World_Webs/**](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/)
-        - [`🀄️_to_reveal_our_own_hand.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🀄️_to_reveal_our_own_hand.md)
-        - [`🇩🇪_an_act_against_one_is_against_us_all.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇩🇪_an_act_against_one_is_against_us_all.md)
         - [`🇩🇪_you_cant_soothe_germany_twice.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇩🇪_you_cant_soothe_germany_twice.md)
         - [`🇪🇺_two_speed_europe.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇪🇺_two_speed_europe.md)
         - [`🇬🇧_britain_as_global_butler.md`](Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_britain_as_global_butler.md)
@@ -3924,6 +3922,8 @@ _Generated on 2026-08-17 01:03:41 UTC_
         - [`✈️_the_men_who_grew_up_with_flight_paths.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/✈️_the_men_who_grew_up_with_flight_paths.md)
         - [`✈️_they_always_think_they_are_geniuses.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/✈️_they_always_think_they_are_geniuses.md)
         - [`✨_misinterpretation_risk_in_geopolitical_signalling.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/✨_misinterpretation_risk_in_geopolitical_signalling.md)
+        - [`🀄️_to_reveal_our_own_hand.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🀄️_to_reveal_our_own_hand.md)
+        - [`🇩🇪_an_act_against_one_is_against_us_all.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇩🇪_an_act_against_one_is_against_us_all.md)
       - [**🛰️_Infrastructure_Procurement/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/README.md)
         - [`reverse_colonisation_metadata_law_procurement_timeline.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🛰️_Infrastructure_Procurement/reverse_colonisation_metadata_law_procurement_timeline.png)
