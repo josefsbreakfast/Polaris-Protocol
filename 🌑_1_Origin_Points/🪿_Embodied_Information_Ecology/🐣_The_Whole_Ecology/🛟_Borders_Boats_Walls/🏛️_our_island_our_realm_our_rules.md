@@ -1,5 +1,5 @@
 # 🏛️ Our Island, Our Realm, Our Rules (and Why That Includes Hospitality)  
-**First created:** 2025-12-23 | **Last updated:** 2025-12-23  
+**First created:** 2025-12-23 | **Last updated:** 2026-08-17  
 *Why borders, process, and decency are not opposites.*
 
 ---
@@ -168,4 +168,4 @@ It exists to dismantle the false choice between borders and decency.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2025-12-23_
+_Last updated: 2026-08-17_
