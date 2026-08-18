@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-18 22:44:12 UTC_
+_Generated on 2026-08-18 22:46:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -76,7 +76,6 @@ _Generated on 2026-08-18 22:44:12 UTC_
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🍷_Always_Spiritually_In_Jerusalem/README.md)
     - [**📚_Which_Yisrael/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/README.md)
-      - [`notes.txt`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/notes.txt)
       - [`⚖️_ihra_jda_and_which_yisrael.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/⚖️_ihra_jda_and_which_yisrael.md)
       - [`🌉_philosophical_jerusalem_and_actual_jerusalem.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🌉_philosophical_jerusalem_and_actual_jerusalem.md)
       - [`🌿_palestinians_are_not_a_footnote_to_jewish_self_concept.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🌿_palestinians_are_not_a_footnote_to_jewish_self_concept.md)
