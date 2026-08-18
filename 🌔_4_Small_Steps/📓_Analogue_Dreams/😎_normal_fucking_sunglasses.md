@@ -395,6 +395,39 @@ Sometimes a deliberately stupid object that does one thing extremely well and th
 
 ---
 
+
+## 🍎 Children Need Social Infrastructure, Not A Particular Platform
+
+Children need friendship, play, private communication, information, community, identity development, and increasing independence. None of those needs inherently requires a commercial social-media platform built around behavioural advertising, engagement-maximising recommendation, global discovery, or permanent profiling.
+
+The fact that many children now depend on social media does not prove that this dependency was inevitable. It tells us that social infrastructure grew around the platforms that were allowed to scale.
+
+Where a product creates a foreseeable risk of catastrophic harm, society often imposes age restrictions, product standards, licensing, adult responsibility, liability, or exclusion. The internet should not receive a magical exemption from the question:
+
+> **If this product cannot be made acceptably safe for children, why should children be expected to use this version of it?**
+
+The present problem is harder because dependency already exists. Simply removing social media without replacing the friendship, community, cultural, educational, and communication functions it now carries can create another form of harm.
+
+So *Analogue Dreams* should not end at **take the phone away**. It should ask what alternative growth points could exist:
+
+- libraries and youth spaces that are actually open and funded;
+- local clubs and community infrastructure;
+- non-commercial digital commons;
+- child-specific communications systems;
+- interoperable messaging that does not make refusal of one company socially isolating;
+- hard limits on adult discovery of minors;
+- no behavioural advertising to children;
+- less virality and fewer public popularity metrics;
+- offline and local-first systems that still allow young people meaningful autonomy.
+
+> **Children need social infrastructure. They do not inherently need surveillance-capital social infrastructure.**
+
+Economic context matters too. Platforms do not develop outside the conditions people live in. Economic precarity can make people more vulnerable to coercion and make monetisation strategies that would otherwise be unattractive feel necessary. Pandemic-era growth in paid online sexual content illustrates how quickly a platform market can expand when income disappears elsewhere. That should be analysed carefully without conflating consensual adult sex work with child exploitation.
+
+The broader lesson is that **scale is a design choice too**. When revenue, user growth, dependency, and foreseeable harms all increase together, safety cannot remain an after-the-fact moderation department bolted onto the profitable architecture.
+
+A future-facing system can choose different growth points.
+
 ## ⚖️ Minimum Necessary Observation
 
 There are legitimate reasons to observe.
