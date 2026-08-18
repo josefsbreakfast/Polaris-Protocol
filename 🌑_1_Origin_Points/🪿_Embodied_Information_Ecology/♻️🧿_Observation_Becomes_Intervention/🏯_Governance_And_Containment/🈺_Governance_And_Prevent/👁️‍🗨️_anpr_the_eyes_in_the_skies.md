@@ -494,12 +494,14 @@ anpr, automated number plate recognition, mass surveillance, uk policing, govern
 *👁️‍🗨️ ANPR: The Eyes in the Skies* is a living node of the **Polaris Protocol**.  
 It documents how a routine enforcement technology becomes a mass surveillance regime when scale, data retention, and diffuse accountability outpace oversight capacity.  
 
-> 🏮 Return To:
+> 🏮 Return To:  
 >
-> - [♻️🧿 Observation Becomes Intervention](./README.md) — *1up*
-> - [🪿 Embodied Information Ecology](../README.md) — *2up*
-> - [🌑 Origin Points](../../README.md) — *3up*
-> - [🌌 Polaris Protocol — Root](../../../README.md) — *root*
+> - [🈺 Governance And Prevent](./README.md) — *1up*
+> - [🏯 Governance And Containment](../README.md) — *2up*
+> - [♻️🧿 Observation Becomes Intervention](../../README.md) — *3up*
+> - [🪿 Embodied Information Ecology](../../../README.md) — *4up*
+> - [🌑 Origin Points](../../../../README.md) — *5up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*
 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
