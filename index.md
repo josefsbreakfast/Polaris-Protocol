@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-18 09:59:50 UTC_
+_Generated on 2026-08-18 10:03:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4386,6 +4386,8 @@ _Generated on 2026-08-18 09:59:50 UTC_
     - [`✂️_red_tape_removal.md`](🌔_4_Small_Steps/🐥_Surviving_Bargain_Bin_Mossad/✂️_red_tape_removal.md)
     - [`📲_algorithmic_decisions.md`](🌔_4_Small_Steps/🐥_Surviving_Bargain_Bin_Mossad/📲_algorithmic_decisions.md)
     - [`🥡_bring_food.md`](🌔_4_Small_Steps/🐥_Surviving_Bargain_Bin_Mossad/🥡_bring_food.md)
+  - [**📓_Analogue_Dreams/**](🌔_4_Small_Steps/📓_Analogue_Dreams/)
+    - [`notes.txt`](🌔_4_Small_Steps/📓_Analogue_Dreams/notes.txt)
   - [**🖍️_Art_As_Attack/**](🌔_4_Small_Steps/🖍️_Art_As_Attack/)
     - [`README.md`](🌔_4_Small_Steps/🖍️_Art_As_Attack/README.md)
   - [**🚀_DADA/**](🌔_4_Small_Steps/🚀_DADA/)
