@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-18 18:13:12 UTC_
+_Generated on 2026-08-18 20:20:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -74,6 +74,8 @@ _Generated on 2026-08-18 18:13:12 UTC_
       - [`📿_whole_tree_process_stack.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🌾_Granary_Management/📿_whole_tree_process_stack.md)
     - [**🍷_Always_Spiritually_In_Jerusalem/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🍷_Always_Spiritually_In_Jerusalem/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🍷_Always_Spiritually_In_Jerusalem/README.md)
+    - [**📚_Which_Yisrael/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/)
+      - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/README.md)
     - [**🪬_Beyond_Zionism/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/README.md)
       - [`🍉_as_a_jew_globalise_the_intifada.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/🍉_as_a_jew_globalise_the_intifada.md)
