@@ -1,40 +1,31 @@
+# 📚 Which Yisrael?  
+**First created:** 2026-08-18 | **Last updated:** 2026-08-18  
+*A vocabulary for distinguishing the different things meant by “Israel” — state, land, people, collective, self-object, and the Israel encountered within the self.*
 
-notes:  
+---
 
-…nothing is working device level yay 
-
-atzmi and she b’atzmi are two different things 
-
-📚 Which Yisrael?
-
-First created: 2026-08-18 | Last updated: 2026-08-18
-A vocabulary for distinguishing the different things meant by “Israel” — state, land, people, collective, self-object, and the Israel encountered within the self.
-
-⸻
-
-🛰️ Orientation
+## 🛰️ Orientation
 
 “Israel” is not one object.
 
-Jewish language, theology, history, political discourse, and contemporary identity routinely use Yisrael to point towards substantially different things: a people, a land, a state, a collective, an inheritance, an interior orientation.
+Jewish language, theology, history, political discourse, and contemporary identity routinely use *Yisrael* to point towards substantially different things: a people, a land, a state, a collective, an inheritance, an interior orientation.
 
 These meanings can overlap. They are not interchangeable.
 
-That distinction becomes particularly important when Medinat Yisrael, the modern State of Israel, becomes incorporated into an individual’s developing self-concept. Criticism of a state’s conduct can then be experienced not merely as information about an external political institution, but as information threatening something represented internally as part of the self.
+That distinction becomes particularly important when **Medinat Yisrael**, the modern State of Israel, becomes incorporated into an individual's developing self-concept. Criticism of a state's conduct can then be experienced not merely as information about an external political institution, but as information threatening something represented internally as part of the self.
 
-This node calls that object Atzmi Yisrael.
+This node calls that object **Atzmi Yisrael**.
 
-It distinguishes it from Yisrael she-be’atzmi: the Israel within the self — an interior Jewish ethical, intellectual, spiritual, or covenantal orientation from which external institutions may themselves be judged.
+It distinguishes it from **Yisrael she-be'atzmi**: the Israel within the self — an interior Jewish ethical, intellectual, spiritual, or covenantal orientation from which external institutions may themselves be judged.
 
 The distinction matters because an institution inside the self and a tradition from which the self judges institutions are not the same psychological architecture.
 
-⸻
+---
 
-📚 Which Yisrael?
+## 📚 Which Yisrael?
 
-🇮🇱 Medinat Yisrael — מדינת ישראל
-
-The State of Israel.
+### 🇮🇱 Medinat Yisrael — מדינת ישראל  
+**The State of Israel.**
 
 A modern sovereign political state.
 
@@ -42,13 +33,12 @@ It has governments, ministries, borders, armed forces, intelligence services, co
 
 Medinat Yisrael can therefore be evaluated using the ordinary analytical categories applied to states: law, governance, human rights, military conduct, democratic accountability, foreign relations, corruption, institutional behaviour, and state power.
 
-Whatever other meanings Yisrael may carry, Medinat Yisrael remains a state.
+Whatever other meanings *Yisrael* may carry, **Medinat Yisrael remains a state**.
 
-⸻
+---
 
-🌿 Eretz Yisrael — ארץ ישראל
-
-The Land of Israel.
+### 🌿 Eretz Yisrael — ארץ ישראל  
+**The Land of Israel.**
 
 A geographic, historical, textual, religious, and cultural object whose meanings substantially predate the modern State of Israel.
 
@@ -56,11 +46,10 @@ Eretz Yisrael and Medinat Yisrael overlap geographically and symbolically, but t
 
 A relationship to land is not automatically a position on the boundaries, institutions, governments, or conduct of a contemporary state.
 
-⸻
+---
 
-🕸️ Am Yisrael — עם ישראל
-
-The People of Israel.
+### 🕸️ Am Yisrael — עם ישראל  
+**The People of Israel.**
 
 The Jewish people understood as a people across geography and time.
 
@@ -68,11 +57,10 @@ Am Yisrael cannot be reduced to the citizenry of Medinat Yisrael. Jews living el
 
 Conflating Am Yisrael with Medinat Yisrael risks making the behaviour of a sovereign government representative of Jews who neither elected it nor live under its jurisdiction.
 
-⸻
+---
 
-🌌 Kol Yisrael — כל ישראל
-
-All Israel; the Jewish collective.
+### 🌌 Kol Yisrael — כל ישראל  
+**All Israel; the Jewish collective.**
 
 A language of collective responsibility, relationship, and belonging.
 
@@ -82,35 +70,229 @@ Collective responsibility is not identical to collective culpability.
 
 Nor does Jewish mutual responsibility require that every Jewish person adopt the political priorities of a particular state, government, institution, or movement.
 
-⸻
+---
 
-🧠 Atzmi Yisrael — עצמי ישראל
+## 🧠 Atzmi Yisrael — עצמי ישראל
 
-Israel as self-object: Israel incorporated into the psychological self-concept.
+**Israel-as-self: an external Israel incorporated into the psychological structure of the self.**
 
-Atzmi Yisrael is used here as a Polaris analytical coinage, not as a claim that this is an established traditional category equivalent to Am Yisrael or Eretz Yisrael.
+*Atzmi Yisrael* is a **Polaris analytical coinage**.
 
-It names a particular psychological phenomenon.
+It does not mean simply:
 
-Human beings develop organised representations of themselves: who they are, where they belong, which groups are theirs, what they value, what makes them safe, and which objects carry significance for their sense of continuity.
+> *Israel is important to me.*
 
-For some people, Israel may become incorporated deeply enough into this architecture that information about Israel is processed partly as information about the self.
+Nor does it mean:
 
-This can include associations such as:
+> *I feel culturally, historically, religiously, or politically connected to Israel.*
 
-Jewish self → Jewish peoplehood → collective survival → Israel → safety → moral identity
+It names something more specific.
 
-There is nothing inherently pathological about possessing a strong emotional, familial, religious, historical, or political attachment to Israel.
+**Atzmi Yisrael exists where an external object called “Israel” has become incorporated into the person's self-concept strongly enough that the condition of that object can affect the integrity of the self.**
 
-The problem arises when the differentiation between Medinat Yisrael and Atzmi Yisrael becomes insufficient for morally threatening information about the former to be tolerated without destabilising the latter.
+The direction of incorporation matters:
 
-⸻
+> **Israel → self**
 
-🪞 When The State Becomes A Self-Problem
+An external Israel becomes part of the psychological architecture through which the person understands who they are.
+
+That external object may contain several things at once:
+
+- Medinat Yisrael;
+- ideas about Jewish sovereignty;
+- collective Jewish survival;
+- refuge and safety;
+- Zionism;
+- family or communal narratives;
+- historical responses to persecution or the Shoah;
+- beliefs about Jewish moral or political agency.
+
+These components need not be consciously distinguished.
+
+The important feature is that **Israel has become self-referential**.
+
+Information about Israel can therefore become information about *me*.
+
+---
+
+## 🪞 The Atzmi Yisrael Problem
+
+Atzmi Yisrael is not inherently pathological.
+
+Human self-concepts contain nations, families, communities, religions, institutions, professions, movements, places, and other external objects all the time.
+
+The risk arises when the incorporated object becomes insufficiently differentiated from the self.
+
+A person may then have difficulty holding:
+
+> **I am good.**
+
+alongside:
+
+> **Israel, which is part of how I understand myself, has done something profoundly wrong.**
+
+The external proposition creates an internal contradiction.
+
+This becomes particularly important when **Medinat Yisrael** occupies a substantial part of Atzmi Yisrael.
+
+The proposition:
+
+> **Medinat Yisrael may be committing grave wrongdoing**
+
+can cease to function psychologically as a proposition solely about a foreign state.
+
+Instead:
+
+**Medinat Yisrael is accused of grave wrongdoing**  
+↓  
+**Israel is morally threatened**  
+↓  
+**Atzmi Yisrael is threatened**  
+↓  
+**my own moral identity / safety / belonging is threatened**  
+↓  
+**self-protective cognition activates**
+
+The person may sincerely experience themselves as defending Israel, Jewish people, historical truth, personal morality, or even reality itself.
+
+But some portion of the psychological work may actually be:
+
+> **protect the self from what accepting this information would require the self to reorganise.**
+
+This does not tell us whether any particular political claim is true or false.
+
+It tells us why some claims may become unusually difficult to evaluate as claims about an external object.
+
+---
+
+## 🔮 Yisrael She-be'atzmi — ישראל שבעצמי
+
+**The Yisrael within me: an interior Jewish object from which the external world may be encountered and judged.**
+
+*Yisrael she-be'atzmi* is deliberately **not another name for Atzmi Yisrael**.
+
+The direction is different.
+
+Atzmi Yisrael describes:
+
+> **Israel → self**
+
+Yisrael she-be'atzmi describes:
+
+> **self → Yisrael within**
+
+It names an interior Yisrael: something discovered, cultivated, inherited, interpreted, argued with, and carried within Jewish interior life.
+
+This might include:
+
+- covenant;
+- ethical obligation;
+- Torah and study;
+- wrestling with God;
+- memory;
+- responsibility;
+- Jewish peoplehood;
+- relationship with ancestors and descendants;
+- argument;
+- exile and return;
+- justice;
+- obligation towards the stranger;
+- the continuing question of what it means to become and remain Yisrael.
+
+This node does **not** claim *Yisrael she-be'atzmi* as an established Maimonidean technical term.
+
+It uses the phrase to identify a philosophical and spiritual category whose relationship to Maimonidean, rabbinic, kabbalistic, and other Jewish traditions requires further textual development.
+
+The crucial point is structural:
+
+**Yisrael she-be'atzmi does not require Medinat Yisrael to become part of the self.**
+
+Indeed, it can provide the internal standpoint from which Medinat Yisrael is judged.
+
+---
+
+## 🕯️ These Are Opposite Movements
+
+The similarity of the names can obscure the importance of the distinction.
+
+### 🧠 Atzmi Yisrael
+
+**An external Israel enters the architecture of the self.**
+
+> **Israel → self**
+
+The central question becomes:
+
+> **What happens to me when something happens to Israel?**
+
+If differentiation becomes weak, criticism of Israel can become psychologically self-threatening.
+
+---
+
+### 🔮 Yisrael She-be'atzmi
+
+**The self encounters and develops Yisrael internally.**
+
+> **self → interior Yisrael → external world**
+
+The central question becomes:
+
+> **What does the Yisrael I carry within require of me?**
+
+That interior Yisrael can then become a source of ethical judgement directed outward:
+
+**Yisrael she-be'atzmi**  
+↓  
+**ethical / spiritual / intellectual commitments**  
+↓  
+**standards of judgement**  
+↓  
+**Medinat Yisrael**
+
+The moral condition of Medinat Yisrael therefore does not determine the integrity of Yisrael she-be'atzmi.
+
+Medinat Yisrael can fail its standards.
+
+Indeed, Yisrael she-be'atzmi may require the person to say so.
+
+---
+
+## 🧿 The Critical Distinction
+
+The difference can therefore be compressed to two sentences:
+
+> **Atzmi Yisrael asks what happens when Israel becomes part of the self.**
+
+> **Yisrael she-be'atzmi asks what Yisrael exists within the self when the state is no longer permitted to define it.**
+
+One makes an external object internally constitutive.
+
+The other makes an internal inheritance available for evaluating external objects.
+
+That distinction matters enormously when Medinat Yisrael behaves in ways that create moral conflict.
+
+If the state substantially constitutes Atzmi Yisrael, serious criticism of the state can threaten self-integrity.
+
+If Yisrael she-be'atzmi supplies an ethical standpoint independent of the state, serious criticism of the state can instead become an expression of Jewish integrity.
+
+The first architecture can produce:
+
+> **I must defend Israel in order to preserve something about myself.**
+
+The second can produce:
+
+> **I must judge Israel because of something I refuse to surrender within myself.**
+
+These are not two names for the same attachment.
+
+They describe two fundamentally different relationships between **self and Yisrael**.
+---
+
+## 🪞 When The State Becomes A Self-Problem
 
 Consider the proposition:
 
-Medinat Yisrael may have committed a grave wrong.
+> **Medinat Yisrael may have committed a grave wrong.**
 
 Someone for whom Israel remains principally an external political object can process this as a proposition about a state.
 
@@ -118,47 +300,47 @@ It may be horrifying. It may alter their politics. It may carry grief, anger, fe
 
 But the proposition remains structurally intelligible:
 
-a state with which I have some relationship may have behaved terribly.
+**a state with which I have some relationship may have behaved terribly.**
 
 Where Medinat Yisrael has become strongly fused with Atzmi Yisrael, however, the same proposition can arrive differently:
 
-Israel has done something monstrous
-↓
-something constitutive of my Jewish world is monstrous
-↓
-something constitutive of me is being described as monstrous
-↓
-the self is under threat
+**Israel has done something monstrous**  
+↓  
+**something constitutive of my Jewish world is monstrous**  
+↓  
+**something constitutive of me is being described as monstrous**  
+↓  
+**the self is under threat**
 
 At that point, the disagreement is no longer functioning purely as disagreement about external evidence.
 
 The brain has acquired a self-integrity problem.
 
-⸻
+---
 
-🧿 Explanation Is Not Validation
+## 🧿 Explanation Is Not Validation
 
 This distinction must remain explicit.
 
-Calling something part of a person’s self-concept does not establish that it is:
+Calling something part of a person's self-concept does **not** establish that it is:
 
-* factually correct;
-* morally good;
-* politically legitimate;
-* legally protected from criticism;
-* socially desirable;
-* immutable;
-* or entitled to institutional affirmation.
+- factually correct;
+- morally good;
+- politically legitimate;
+- legally protected from criticism;
+- socially desirable;
+- immutable;
+- or entitled to institutional affirmation.
 
 Human beings can incorporate almost anything into self-concept.
 
-Psychological incorporation describes how a belief or object is represented, not whether the object deserves the status it has acquired.
+Psychological incorporation describes **how a belief or object is represented**, not whether the object deserves the status it has acquired.
 
 An explanation of defensive cognition is therefore not an exoneration of its political consequences.
 
-⸻
+---
 
-⚠️ The Affirmation Problem
+## ⚠️ The Affirmation Problem
 
 This creates a difficult question for institutional approaches to antisemitism.
 
@@ -166,21 +348,21 @@ Frameworks intended to recognise that attacks on Israel can sometimes function a
 
 But another proposition can accidentally become attached:
 
-because hostility towards Israel can sometimes attack Jewish identity, experiencing criticism of Israel as an attack upon Jewish identity confirms that the criticism is antisemitic.
+**because hostility towards Israel can sometimes attack Jewish identity, experiencing criticism of Israel as an attack upon Jewish identity confirms that the criticism is antisemitic.**
 
 Those propositions are not equivalent.
 
-If institutions repeatedly affirm the second relationship without sufficient differentiation, they may inadvertently reinforce Atzmi Yisrael:
+If institutions repeatedly affirm the second relationship without sufficient differentiation, they may inadvertently reinforce **Atzmi Yisrael**:
 
-Israel feels like part of me
-↓
-criticism of Israel feels like an attack upon me
-↓
-institutions recognise attacks upon Jewish identity as antisemitism
-↓
-therefore my experience confirms the classification
-↓
-Israel becomes still harder to differentiate from the protected self
+**Israel feels like part of me**  
+↓  
+**criticism of Israel feels like an attack upon me**  
+↓  
+**institutions recognise attacks upon Jewish identity as antisemitism**  
+↓  
+**therefore my experience confirms the classification**  
+↓  
+**Israel becomes still harder to differentiate from the protected self**
 
 The result can become circular.
 
@@ -188,33 +370,33 @@ This is one possible lens through which to examine disputes surrounding applicat
 
 The analytical question is narrower:
 
-What happens when an antisemitism framework encounters a self-concept in which Medinat Yisrael has already become difficult to distinguish from the Jewish self?
+**What happens when an antisemitism framework encounters a self-concept in which Medinat Yisrael has already become difficult to distinguish from the Jewish self?**
 
-⸻
+---
 
-💥 The Moral-Injury Collision
+## 💥 The Moral-Injury Collision
 
 The structure becomes particularly unstable when allegations against Medinat Yisrael cross from ordinary political criticism into allegations of profound wrongdoing.
 
 The proposition is no longer:
 
-Israel’s tax policy is bad.
+**Israel's tax policy is bad.**
 
 It becomes:
 
-the state may be committing atrocities.
+**the state may be committing atrocities.**
 
-For somebody whose Atzmi Yisrael depends upon Israel occupying a particular moral position — safe haven, protector, Jewish ethical project, proof of survival, perhaps even the most moral version of a state — sufficiently serious contrary evidence creates an unusually expensive cognitive update.
+For somebody whose Atzmi Yisrael depends upon Israel occupying a particular moral position — safe haven, protector, Jewish ethical project, proof of survival, perhaps even *the most moral* version of a state — sufficiently serious contrary evidence creates an unusually expensive cognitive update.
 
 The person has several possible routes.
 
 They can differentiate:
 
-My Jewishness is not the Israeli state.
+**My Jewishness is not the Israeli state.**
 
 They can differentiate governments:
 
-My attachment to Israel does not require allegiance to its present government.
+**My attachment to Israel does not require allegiance to its present government.**
 
 They can revise political commitments.
 
@@ -236,63 +418,63 @@ None of this requires conscious deceit.
 
 A person can sincerely experience themselves as defending reality while simultaneously protecting the architecture through which reality is being interpreted.
 
-⸻
+---
 
-🔮 Yisrael She-be’atzmi — ישראל שבעצמי
+## 🔮 Yisrael She-be'atzmi — ישראל שבעצמי
 
-The Israel within the self.
+**The Israel within the self.**
 
-This node deliberately distinguishes Yisrael she-be’atzmi from Atzmi Yisrael.
+This node deliberately distinguishes *Yisrael she-be'atzmi* from *Atzmi Yisrael*.
 
 They sound adjacent.
 
 They point in importantly different directions.
 
-Atzmi Yisrael: Israel has become incorporated into my self-concept.
+**Atzmi Yisrael:** Israel has become incorporated into my self-concept.
 
-Yisrael she-be’atzmi: there is an Israel I encounter, carry, wrestle with, and cultivate within myself.
+**Yisrael she-be'atzmi:** there is an Israel I encounter, carry, wrestle with, and cultivate within myself.
 
 The second belongs to a different philosophical register.
 
 It may encompass Jewish ethical inheritance, covenant, memory, study, argument, responsibility, spiritual orientation, peoplehood, or the continuing internal work of becoming.
 
-This node does not claim Yisrael she-be’atzmi as an established Maimonidean technical term. Its relationship to Maimonidean and wider Jewish philosophical traditions requires separate textual development.
+This node does **not** claim *Yisrael she-be'atzmi* as an established Maimonidean technical term. Its relationship to Maimonidean and wider Jewish philosophical traditions requires separate textual development.
 
 But the conceptual possibility matters.
 
-Because Yisrael she-be’atzmi need not depend upon Medinat Yisrael remaining morally innocent.
+Because Yisrael she-be'atzmi need not depend upon Medinat Yisrael remaining morally innocent.
 
 It can instead provide somewhere from which Medinat Yisrael can be judged.
 
-⸻
+---
 
-🕯️ Two Architectures
+## 🕯️ Two Architectures
 
 The distinction can be stated simply.
 
-Atzmi Yisrael
+### Atzmi Yisrael
 
-Medinat Yisrael
-↓
-carries identity significance for
-↓
-Atzmi Yisrael
-↓
-whose threatened integrity activates
-↓
-defence of self
+**Medinat Yisrael**  
+↓  
+carries identity significance for  
+↓  
+**Atzmi Yisrael**  
+↓  
+whose threatened integrity activates  
+↓  
+**defence of self**
 
 Here, criticism of the external institution can destabilise the internal object.
 
-Yisrael She-be’atzmi
+### Yisrael She-be'atzmi
 
-Yisrael she-be’atzmi
-↓
-contains ethical / intellectual / spiritual commitments
-↓
-which furnish standards for evaluating
-↓
-Medinat Yisrael
+**Yisrael she-be'atzmi**  
+↓  
+contains ethical / intellectual / spiritual commitments  
+↓  
+which furnish standards for evaluating  
+↓  
+**Medinat Yisrael**
 
 Here, the interior object provides somewhere to stand while criticising the external institution.
 
@@ -302,31 +484,31 @@ One architecture risks making the moral innocence of an institution necessary fo
 
 The other allows inherited identity to become a source from which institutions can be held accountable.
 
-⸻
+---
 
-🪞 Differentiation Is Not Disinheritance
+## 🪞 Differentiation Is Not Disinheritance
 
 The capacity to say:
 
-my country has done wrong
+**my country has done wrong**
 
 does not require ceasing to belong to that country.
 
 The capacity to say:
 
-my community has failed
+**my community has failed**
 
 does not require abandoning community.
 
 The capacity to say:
 
-my religious institution harmed somebody
+**my religious institution harmed somebody**
 
 does not require the destruction of religious identity.
 
 And the capacity to say:
 
-Medinat Yisrael has acted wrongly
+**Medinat Yisrael has acted wrongly**
 
 does not logically require the abandonment of Jewishness, Am Yisrael, Eretz Yisrael, Jewish history, Jewish safety, or any interior relationship with Yisrael.
 
@@ -334,11 +516,11 @@ Psychological differentiation is what makes those propositions capable of coexis
 
 Mature identity does not require everything carrying identity significance to remain morally innocent.
 
-Sometimes continuity depends upon being able to survive the discovery that it isn’t.
+Sometimes continuity depends upon being able to survive the discovery that it isn't.
 
-⸻
+---
 
-🕸️ The Diaspora Boundary
+## 🕸️ The Diaspora Boundary
 
 This vocabulary also protects another distinction.
 
@@ -356,42 +538,42 @@ A Jew cannot be made representative of Israel merely because another Jew experie
 
 This matters particularly because antisemitism has historically been extremely willing to collapse:
 
-Jew
-→ Jewish collective
-→ Israel
-→ Israeli government
-→ Israeli state action
+**Jew**  
+→ **Jewish collective**  
+→ **Israel**  
+→ **Israeli government**  
+→ **Israeli state action**
 
 and then reverse the chain:
 
-Israeli state action
-→ Israel
-→ Jews
+**Israeli state action**  
+→ **Israel**  
+→ **Jews**
 
 The existence of Atzmi Yisrael in some Jewish self-concepts cannot justify that collapse.
 
 If anything, understanding the phenomenon should make the distinctions more important.
 
-⸻
+---
 
-🧭 A Diagnostic Question
+## 🧭 A Diagnostic Question
 
 When “Israel” appears in an argument, ask:
 
-Which Yisrael?
+> **Which Yisrael?**
 
 Is the speaker referring to:
 
-* Medinat Yisrael — the state?
-* Eretz Yisrael — the land?
-* Am Yisrael — the people?
-* Kol Yisrael — the collective?
-* Atzmi Yisrael — Israel incorporated into the self?
-* Yisrael she-be’atzmi — an Israel encountered within the self?
+- Medinat Yisrael — the state?
+- Eretz Yisrael — the land?
+- Am Yisrael — the people?
+- Kol Yisrael — the collective?
+- Atzmi Yisrael — Israel incorporated into the self?
+- Yisrael she-be'atzmi — an Israel encountered within the self?
 
 And when a response appears disproportionately existential, another question becomes available:
 
-Which Yisrael is being defended?
+> **Which Yisrael is being defended?**
 
 Sometimes the stated object and the psychologically threatened object may not be the same.
 
@@ -399,17 +581,17 @@ That is not proof of pathology.
 
 It is an invitation to look more carefully at the architecture.
 
-⸻
+---
 
-🌱 Why This Matters For Kabbalist Futurism
+## 🌱 Why This Matters For Kabbalist Futurism
 
-The modern state does not own the word Yisrael.
+The modern state does not own the word **Yisrael**.
 
 It inherited one meaning among several enormously older ones.
 
 Keeping those meanings differentiated preserves intellectual and spiritual space that disappears when every invocation of Israel is routed immediately through the institutions of Medinat Yisrael.
 
-Kabbalist Futurism therefore has reason to ask not merely what Israel was, or what Israel is, but what forms of Yisrael remain available for Jewish futures.
+Kabbalist Futurism therefore has reason to ask not merely what Israel *was*, or what Israel *is*, but what forms of Yisrael remain available for Jewish futures.
 
 A state may be criticised.
 
@@ -419,37 +601,35 @@ Borders may change.
 
 Political ideologies may be revised.
 
-None of those events exhaust Yisrael.
+None of those events exhaust **Yisrael**.
 
 The interesting question is what remains capable of being carried, interrogated, transformed, argued with, and handed onwards.
 
-⸻
+---
 
-🌌 Constellations
-
+## 🌌 Constellations  
 🔮 🧠 🕸️ 🪞 🌱 — Jewish futurism; self-concept and differentiation; peoplehood, statehood, interiority, and the contested meanings of Yisrael.
 
-✨ Stardust
-
+## ✨ Stardust  
 jewish identity, yisrael, self-concept, self-object, israel, diaspora, peoplehood, statehood, antisemitism, psychological differentiation
 
-⸻
+---
 
-🏮 Footer
+## 🏮 Footer  
 
-📚 Which Yisrael? is a living node of the Polaris Protocol.
-It provides a vocabulary for distinguishing political, collective, geographic, psychological, and interior meanings carried by Yisrael, allowing disagreements about Israel to be analysed without collapsing state, people, identity, and self into a single object.
+*📚 Which Yisrael?* is a living node of the **Polaris Protocol**.  
+It provides a vocabulary for distinguishing political, collective, geographic, psychological, and interior meanings carried by *Yisrael*, allowing disagreements about Israel to be analysed without collapsing state, people, identity, and self into a single object.
 
-📡 Cross-references:
+> 📡 Cross-references:
+>
+> - [☁️ Kabbalist Futurism](../README.md) — *parent cluster for Jewish futurist, philosophical, and interpretive work*
+>
+> 🏮 Return To:
+>
+> - [☁️ Kabbalist Futurism](../README.md) — *1up*
+> - [🌑 Origin Points](../../README.md) — *2up*
+> - [🌌 Polaris Protocol — Root](../../../README.md) — *root*
 
-* ☁️ Kabbalist Futurism — parent cluster for Jewish futurist, philosophical, and interpretive work
+*Survivor authorship is sovereign. Containment is never neutral.*
 
-🏮 Return To:
-
-* ☁️ Kabbalist Futurism — 1up
-* 🌑 Origin Points — 2up
-* 🌌 Polaris Protocol — Root — root
-
-Survivor authorship is sovereign. Containment is never neutral.
-
-Last updated: 2026-08-18
+_Last updated: 2026-08-18_
