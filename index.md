@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-18 10:03:25 UTC_
+_Generated on 2026-08-18 10:09:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -903,6 +903,7 @@ _Generated on 2026-08-18 10:03:25 UTC_
       - [`👗_la_camarilla_de_l_orange.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/👗_la_camarilla_de_l_orange.md)
       - [`📈_$seo.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/📈_$seo.md)
       - [`🕹️_building_safer_sandboxes.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🕹️_building_safer_sandboxes.md)
+      - [`🧿_the_visibility_triangle.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🧿_the_visibility_triangle.md)
     - [**♻️🧿_Observation_Becomes_Intervention/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/.🌱_Still_Growing/notes.txt)
@@ -4388,6 +4389,7 @@ _Generated on 2026-08-18 10:03:25 UTC_
     - [`🥡_bring_food.md`](🌔_4_Small_Steps/🐥_Surviving_Bargain_Bin_Mossad/🥡_bring_food.md)
   - [**📓_Analogue_Dreams/**](🌔_4_Small_Steps/📓_Analogue_Dreams/)
     - [`notes.txt`](🌔_4_Small_Steps/📓_Analogue_Dreams/notes.txt)
+    - [`😎_normal_fucking_sunglasses.md`](🌔_4_Small_Steps/📓_Analogue_Dreams/😎_normal_fucking_sunglasses.md)
   - [**🖍️_Art_As_Attack/**](🌔_4_Small_Steps/🖍️_Art_As_Attack/)
     - [`README.md`](🌔_4_Small_Steps/🖍️_Art_As_Attack/README.md)
   - [**🚀_DADA/**](🌔_4_Small_Steps/🚀_DADA/)
