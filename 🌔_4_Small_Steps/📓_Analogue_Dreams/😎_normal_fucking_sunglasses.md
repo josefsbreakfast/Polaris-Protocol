@@ -8,7 +8,7 @@
 
 In July 2026, privacy company DuckDuckGo and sunglasses maker Knockaround released a real pair of sunglasses under a deliberately stupidly effective name:
 
-**Normal F***ing Sunglasses.**
+_Normal F***ing Sunglasses._
 
 No camera. No microphone. No battery. No AI. No account. No cloud upload. No software update. No notification light. They block the sun.
 
