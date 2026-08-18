@@ -1307,7 +1307,14 @@ It may also be one of the most useful design questions for whatever comes next.
 
 ## 🌌 Constellations
 
-🧿 🕸️ 🦆 🫀 ♻️ — interface mediation; discovery; route resilience; embodied surveillance; feedback and control-point governance.
+🧿 🕸️ 🦆 🫀 ♻️ — interface mediation; discovery; route resilience; embodied surveillance; feedback and control-point governance.  
+
+*Follow the evidence:*  
+
+- [📹: DW News: “Inside Instagram’s Nazi content problem”](https://youtube.com/shorts/yu0Va5cEE1I?is=qUoW0h_Czkt51WH8)  
+- [📹: Vice Asia: “The Horrors of Being a Facebook Moderator | Informer”](https://youtu.be/hpBck-meiDw?is=wpU5bH3BJo352bHq)
+- [📹: Vice: “The Dark Reality of Moderating for Meta | Informer”](https://youtu.be/EZLr6w7C-xY?is=3HpgegnOnZXtjpFn)
+- [📹: Last Week Tonight with John Oliver: “Facebook & Content Moderation”](https://youtu.be/nf7XHR3EVHo?is=oyUYCV0f2d-4JuTE)  
 
 ---
 
