@@ -291,7 +291,14 @@ The satire does not depend on claiming that every smart-glasses product has iden
 
 ## 🌌 Constellations
 
-👀 🪫 🕸️ 🛠️ 📣 — analogue boundaries; accessible refusal; anti-inevitability satire; repairable objects; small-step resistance.
+👀 🪫 🕸️ 🛠️ 📣 — analogue boundaries; accessible refusal; anti-inevitability satire; repairable objects; small-step resistance.  
+
+*Follow the evidence:*  
+
+- [🕶️: Normal F***ing Sunglasses, Knockaround and DuckDuckGo](https://knockaround.com/products/duckduckgo-paso-robles)
+- [🧅: The Onion, press release](http://youtube.com/post/UgkxIOH5uMOua_A7bpbyRvp2YEZSQejNK7xt?si=xZ59dOEu57otsWeK)  
+
+——
 
 ## ✨ Stardust
 
