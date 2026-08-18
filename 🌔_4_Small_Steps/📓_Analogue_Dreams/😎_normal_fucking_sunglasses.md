@@ -1,313 +1,523 @@
 # 😎 Normal Fucking Sunglasses
 **First created:** 2026-08-18 | **Last updated:** 2026-08-18  
-*A small, accessible refusal of the proposition that every object near the human face must become a platform.*
+*Sometimes the privacy feature is that the object does not collect the data in the first place.*
 
 ---
 
 ## 🛰️ Orientation
 
-These are sunglasses.
+In July 2026, privacy company DuckDuckGo and sunglasses maker Knockaround released a real pair of sunglasses under a deliberately stupidly effective name:
 
-They reduce glare. They shade the eyes. They may make the wearer look mysterious, tired, glamorous, hungover, politically unavailable, or all five.
+**Normal F***ing Sunglasses.**
 
-They do not need to identify what the wearer is looking at.
+No camera. No microphone. No battery. No AI. No account. No cloud upload. No software update. No notification light. They block the sun.
 
-They do not need a camera, microphone, account, assistant, companion app, firmware update, cloud service, livestream function, privacy dashboard, or exciting new relationship with venture capital.
+That is the joke.
 
-They are **normal fucking sunglasses**.
+It is also a compact piece of technology policy.
 
-This is not a complete resistance programme. It is not even a complete morning. It is a small refusal: cheap enough to be available to many people who possess some discretionary capital, simple enough to be used by people whose time, mobility, health, safety, or organising capacity is limited, and funny enough to puncture the claim that technological enclosure is simply the natural direction of history.
+The product works because camera-enabled AI glasses have made an ordinary object newly ambiguous. A person looking at somebody wearing glasses can no longer always know whether they are simply being looked at or potentially being recorded. DuckDuckGo's satire takes the industry's usual feature logic and reverses it: **absence of instrumentation becomes the feature.**
 
-Satire is resistance because inevitability hates being made to look silly.
+That is why this belongs in *Analogue Dreams*.
 
----
+The point is not that technology is bad, that smart glasses have no legitimate uses, or that everybody should retreat from digital systems.
 
-## 👀 The Product Demonstration
+The point is simpler:
 
-| Feature | Normal fucking sunglasses |
-|---|---|
-| Shades eyes | Yes |
-| Reduces glare | Yes |
-| Requires an account | No |
-| Records bystanders | No |
-| Needs charging | No |
-| Sends the visual field elsewhere for interpretation | No |
-| Stops working after a software update | An ambitious achievement for two lenses and some hinges |
-| Can be repaired by a person with a tiny screwdriver | Frequently |
-| Core operating system | Sun exists; put glasses on |
-
-Some objects are allowed to be objects.
-
-This should not be a radical proposition. The market has nevertheless arranged matters so that one occasionally has to say it with emphasis.
+> **Not every object becomes better when it becomes a sensor.**
 
 ---
 
-## 🧿 The Small Refusal
+## 🕶️ Why The Joke Lands
 
-The refusal is not:
+The campaign did not arrive into a neutral information environment.
 
-> Technology is bad. Return immediately to cave.
+Meta's camera-enabled AI glasses had already become a visible point of contention around privacy, consent, ambient recording, AI and surveillance. Online critics increasingly described them as **"pervert glasses"**: crude language, but unusually efficient cultural compression.
 
-The refusal is:
+The reaction cannot be understood only as opposition to one pair of glasses.
 
-> I do not consent to every useful object becoming an interface, every interface becoming an account, every account becoming a behavioural record, and every behavioural record becoming somebody else's asset.
+Meta arrives with accumulated institutional history: Facebook and Instagram; behavioural advertising; Cambridge Analytica; contested moderation; human-rights and atrocity-prevention failures; child-safety concerns; repeated arguments over what platforms know, retain, infer, recommend and monetise.
 
-A person choosing ordinary sunglasses retains a small boundary between perception and platform.
+The glasses put that abstract history **on somebody's face**.
 
-The object performs its local function. It does not need to become an intermediary between the wearer, the people around them, and a remote system.
+A privacy policy is difficult to visualise.
 
-That matters even when the individual market effect is tiny. Resistance also operates through norms:
+A camera pointed at you from someone's eyewear is not.
 
-- declining to treat ambient recording as socially inevitable;
-- preserving spaces in which other people are not automatically captured;
-- keeping non-networked alternatives culturally ordinary;
-- refusing the idea that convenience ends the consent discussion;
-- making technological excess available for public ridicule.
+That makes the product emblematic of a much wider grievance: the sense that ordinary life keeps acquiring another layer of observation without the people being observed having meaningfully asked for it.
 
-The joke carries the boundary.
+The public reaction therefore need not mean:
 
----
-
-## 🪫 Accessible Resistance Still Counts
-
-Political cultures often privilege visible, strenuous resistance:
-
-- attending meetings;
-- travelling to demonstrations;
-- sustaining long campaigns;
-- taking professional or legal risks;
-- learning complicated tools;
-- donating large amounts of time.
-
-Those actions matter. They are also inaccessible to many people.
-
-Someone may be disabled, housebound, exhausted, precariously employed, caring for others, heavily monitored, socially isolated, short of time, or unable to accept further exposure. They may nevertheless possess enough capital to make an ordinary consumer choice and enough social reach to explain it.
-
-That is not revolutionary purchasing power. It is still agency.
-
-Small consumer refusals can offer:
-
-- a low-energy action;
-- an everyday privacy boundary;
-- an easy conversation starter;
-- a way to keep a non-platform alternative commercially and culturally visible;
-- participation that does not require the body to perform heroic capacity.
-
-No one should be mocked for doing the small thing available to them because somebody else can do a larger thing.
-
-The correct question is not:
-
-> Is buying sunglasses the revolution?
-
-Obviously not. Please calm down.
-
-The useful question is:
-
-> Does this preserve a boundary, communicate a norm, and remain accessible to someone whose other forms of participation may be constrained?
-
-Sometimes, yes.
-
----
-
-## ⚖️ Capital Is An Access Condition, Not A Moral Halo
-
-This action requires access to sunglasses, money to obtain them if none are already available, and enough consumer choice to refuse the smart version.
-
-That means it is not universal.
-
-The node does not convert purchasing into virtue or poverty into political failure. Nobody owes the movement a new pair of anything. Keeping an existing pair, repairing one, accepting a hand-me-down, buying second-hand, borrowing, or simply declining an unnecessary upgrade all enact the same boundary without producing a fresh transaction.
-
-For people who do possess discretionary capital, however, expenditure is one place where refusal can be made concrete:
-
-- do not pay extra to install extraction where none was needed;
-- support ordinary, durable, repairable products;
-- keep alternatives in circulation;
-- tell retailers and manufacturers why the non-networked option matters;
-- spend the saved money on something more useful, including collective work.
-
-Capital does not absolve anyone from politics.
-
-It does provide another lever.
-
----
-
-## 🩺 Accessibility Is Not The Enemy
-
-Smart glasses and wearable assistants may provide meaningful benefits:
-
-- navigation or environmental description;
-- hands-free communication;
-- translation;
-- memory and prompting support;
-- easier access to information;
-- photography or recording where holding another device is difficult;
-- assistance for people with visual, cognitive, communication, or mobility impairments.
-
-People using those functions are not betraying the resistance. Disabled people are not required to reject useful assistance so that somebody else's critique looks aesthetically pure.
-
-The target is not assistive technology.
-
-The target is the assumption that assistance must be bundled with unnecessary extraction, closed platforms, weak bystander consent, compulsory accounts, remote dependency, or the disappearance of ordinary alternatives.
-
-The appropriate demand is therefore twofold:
-
-1. preserve genuinely non-networked products for people who want them;
-2. build assistive products whose privacy, ownership, offline function, repairability, and user control are worthy of the people relying on them.
-
-Choice is not meaningful if the accessible option requires surrendering the boundary.
-
----
-
-## 📣 Why The Swearing Matters
-
-“Normal sunglasses” is a product category.
-
-“Normal fucking sunglasses” is a refusal of narrative capture.
-
-The swearing identifies the absurdity: an ordinary object has been made to sound like the eccentric alternative because the platform version arrived with better marketing.
-
-Satire reverses that frame.
-
-Instead of asking why somebody would reject AI glasses, it asks:
-
-> Why does a pair of sunglasses need to become a camera-equipped corporate relationship?
-
-Instead of treating maximum computation as sophisticated, it makes functional restraint look sane.
-
-Instead of allowing the future to arrive as branding, it makes the future answer a basic question:
-
-> Did anybody actually ask for this entire fucking stack?
-
-Humour lowers the cost of saying no. It lets a boundary travel through conversation, clothing, photographs, jokes, gifts, and social imitation. It may reach people who will never read a platform-governance paper but immediately understand why sunglasses that simply remain sunglasses are quite appealing.
-
-Ridicule cannot regulate an industry.
-
-It can damage inevitability, and inevitability is one of industry's favourite sales assistants.
-
----
-
-## 🕸️ The Analogue Dream
-
-Analogue does not have to mean nostalgic, anti-scientific, or technologically illiterate.
+> *Nobody wants smart glasses.*
 
 It can mean:
 
-- local function;
-- comprehensible failure;
-- bodily control;
-- minimal data production;
-- independence from remote permission;
-- usefulness that survives loss of signal, account, company, or battery.
-
-The analogue dream is not a fantasy that networks disappear.
-
-It is a world in which networked capability is used deliberately rather than sprayed across every surface because somebody found an investable verb.
-
-Normal fucking sunglasses belong here because they demonstrate proportion:
-
-> A tool should contain enough system to perform its function well.
-
-Not every object needs to become a node.
-
-Not every experience needs to become input.
-
-Not every human field of view is an undeveloped data estate.
+> *For fuck's sake. Does this object need to watch me too?*
 
 ---
 
-## 🛠️ The Extremely Complicated Protocol
+## 🦆 Why DuckDuckGo Is The Obvious Company To Do This
 
-1. Obtain or retain sunglasses appropriate to your needs.
-2. Put them on when useful.
-3. Do not connect them to Wi-Fi.
-4. This instruction should be effortless because they do not contain Wi-Fi.
-5. If asked why, say: “They are normal fucking sunglasses.”
-6. If desired, use the resulting conversation to discuss consent, repairability, ambient recording, platform dependency, or the right of objects to finish their jobs and go home.
+DuckDuckGo is a privacy-oriented technology company best known for search and browsing products designed around a different data bargain from behavioural-surveillance advertising.
 
-Optional extensions:
+It is not a perfect privacy machine. Its search infrastructure has commercial dependencies; it still ranks and mediates information; private search is not anonymity; and DuckDuckGo has itself faced legitimate criticism about the limits of its protections.
 
-- repair an existing pair;
-- choose a durable pair rather than an upgrade cycle;
-- keep a non-smart alternative even if assistive smart glasses are also useful;
-- give ordinary sunglasses as a practical gift;
-- support stronger privacy, bystander-consent, repair, interoperability, and product-longevity rules;
-- redirect the price difference towards community infrastructure.
+That is precisely why the sunglasses are more interesting than a Good Company / Bad Company morality play.
 
-No app installation is required.
+DuckDuckGo's longstanding commercial proposition is substantially:
 
----
+> **A useful information service does not need to know everything about the person using it.**
 
-## 🧯 What This Cannot Do
+Normal F***ing Sunglasses apply the same question to a physical object.
 
-Normal sunglasses cannot:
+What information does a pair of sunglasses need in order to perform its ordinary function?
 
-- dismantle surveillance capitalism;
-- govern AI;
-- enforce privacy law;
-- protect a person from every camera or sensor;
-- substitute for secure communications;
-- replace collective organising;
-- meet every accessibility need;
-- redistribute technological power;
-- make institutional accountability optional.
+Very little.
 
-That is why this sits in **Small Steps**, not **We Have Solved It, Everyone Go Home**.
+They need to sit on a face and reduce sunlight reaching the eyes.
 
-A resistance ecology needs law, standards, labour organising, technical alternatives, public infrastructure, community defence, political education, litigation, research, procurement pressure, and durable collective power.
+The campaign therefore translates **data minimisation** into consumer-product language:
 
-It also needs actions that people can perform on a bad pain day.
+- no camera;
+- no microphone;
+- no cloud;
+- no AI;
+- no charging;
+- seamless offline operation;
+- effectively infinite battery life because there is no battery.
 
-The small step is not the whole staircase.
-
-It is still a step.
+The joke only works because adding collection and computation to ordinary objects has become normal enough that **collects absolutely nothing** can be advertised as though it were an advanced specification.
 
 ---
 
-## 🌊 Connection To The Visibility Triangle
+## 🧪 Try The Duck
 
-[🧿 The Visibility Triangle](../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🧿_the_visibility_triangle.md) maps three control surfaces:
+If DuckDuckGo is unfamiliar, do not start with an argument about whether it is "better."
 
-- interface mediation;
-- search discovery;
-- route resilience.
+Run a small experiment.
 
-*Normal Fucking Sunglasses* acts at the first surface.
+Open DuckDuckGo alongside the search engine you normally use. Pick three relatively unloaded things where you already have some idea what sensible results look like:
 
-It says that mediation is not compulsory merely because it is available. A person can preserve a direct, local tool at the point where platform logic would prefer another interface.
+1. **Something you might buy.**
+2. **Something you already know about.**
+3. **Something you might fact-check.**
 
-The analytical node explains the stack.
+Use the same search terms.
 
-This node puts on sunglasses and declines part of it.
+Look at:
+
+- which adverts appear;
+- how much of the first screen is advertising or platform furniture;
+- which shops or sources are prioritised;
+- whether Wikipedia, universities, museums, primary material or established reference sources appear;
+- whether SEO sludge or fringe material appears;
+- how strongly the results are localised;
+- which result appears first;
+- what disappears when one word in the query changes.
+
+Do not assume that a difference proves profiling, suppression, bias or wrongdoing.
+
+Just notice the first important thing:
+
+> **You are not searching "the internet." You are querying a particular representation of it.**
+
+Different discovery systems can give the same person asking approximately the same question meaningfully different environments to investigate.
+
+That is why privacy, indexing and ranking are separate questions.
 
 ---
 
-## 📚 Source Note
+## 🧿 Privacy Is Not Invisibility
 
-- [Meta AI glasses](https://www.meta.com/ai-glasses/) — official overview of Meta's current AI-glasses portfolio and its camera, audio, display, and conversational-assistant functions.
+DuckDuckGo does not make somebody anonymous.
 
-The satire does not depend on claiming that every smart-glasses product has identical capabilities or practices. It addresses the broader product direction in which eyewear becomes a networked sensing, assistant, and platform interface.
+Neither does a VPN.
+
+Neither does encryption.
+
+Neither does Tor.
+
+These technologies alter different parts of an information relationship. They reduce particular exposures under particular threat models.
+
+There is no sensible universal **invisible on the internet** switch.
+
+A person can still reveal themselves through accounts, devices, payments, communication partners, endpoints, behavioural patterns, operational mistakes or other records. Sophisticated state actors may possess investigative capabilities far beyond those of an ordinary website or advertiser.
+
+The useful question is therefore not:
+
+> **Am I anonymous?**
+
+It is:
+
+> **Anonymous or private from whom, observing what, with which capabilities?**
+
+Privacy technology is about changing observability.
+
+It is not magic.
+
+---
+
+## 🧅 From The Duck To The Onion
+
+DuckDuckGo mainly changes the **discovery and data relationship**.
+
+If somebody wants stronger protection around the network route itself, Tor is an obvious next concept.
+
+Tor routes traffic through multiple relays so that ordinary participants have reduced ability to connect the origin of traffic with its destination. Services using `.onion` addresses can operate within that architecture rather than simply being ordinary websites reached through a Tor exit.
+
+Again: this does not make humans metaphysically invisible.
+
+It changes who can see which part of the journey.
+
+That distinction matters because privacy is currently burdened by a substantial **knowledge tax**. The people most likely to know about threat modelling, Tor, metadata, tracker blocking, burner accounts, encryption and alternative network practices are often:
+
+- journalists;
+- activists;
+- security professionals;
+- people facing stalking or harassment;
+- marginalised communities;
+- sex workers;
+- dissidents;
+- people deliberately concealing illegal activity;
+- and massive fucking nerds.
+
+The existence of privacy tools therefore does not establish that ordinary people possess meaningful access to privacy.
+
+A right that requires specialist technical literacy to exercise is not distributed equally.
+
+---
+
+## 📰 Wrong Onion
+
+And then there is **The Onion**.
+
+Not `.onion`.
+
+*The Onion*: the American satirical publication.
+
+Its promotion of Normal F***ing Sunglasses is almost painfully on-brand because the entire campaign depends on doing what good satire does: removing the respectable vocabulary surrounding a social practice until the underlying behaviour becomes visible again.
+
+Instead of:
+
+> *AI-enabled wearable capture functionality*
+
+the joke asks:
+
+> *Why is the person standing next to me wearing a camera on their face?*
+
+Instead of selling more features, the product advertises the fact that it cannot record you.
+
+Instead of an innovation story, we get a pair of sunglasses.
+
+Satire performs a useful information function here. It **compresses** an enormous governance argument into something culturally legible.
+
+People do not need to have read Shoshana Zuboff, followed congressional hearings, understood ad-tech, or studied Meta's moderation architecture to understand why "Normal Fucking Sunglasses" is funny.
+
+That recognition is itself information.
+
+---
+
+## 📡 Analogue Is A Capability
+
+"Analogue" is often treated as a synonym for obsolete.
+
+That is a mistake.
+
+A non-networked object can possess characteristics that are increasingly valuable precisely because they are absent from networked systems:
+
+- no remote access;
+- no account dependency;
+- no software lifecycle;
+- no telemetry;
+- no cloud retention;
+- no platform moderation;
+- no subscription;
+- no data breach containing information that was never collected;
+- no ambiguity about whether the device is recording.
+
+None of those properties makes analogue technology universally superior.
+
+A paper map cannot dynamically reroute around a motorway closure. A notebook cannot automatically synchronise across devices. Ordinary sunglasses cannot translate a sign, provide visual assistance, take a photograph or answer a question.
+
+The point is not **analogue good, digital bad**.
+
+It is:
+
+> **Non-collection, local operation and technological simplicity are capabilities too.**
+
+Design should count them.
+
+---
+
+## 🪶 The Right Not To Generate The Data
+
+Privacy discussions often begin too late.
+
+They ask:
+
+- Who may access the data?
+- How long should it be retained?
+- Can it be encrypted?
+- Can it be anonymised?
+- Can the user opt out?
+- Can the government obtain it?
+
+All useful questions.
+
+But there is an earlier one:
+
+> **Did this data need to exist?**
+
+If the answer is no, non-collection can outperform extraordinarily sophisticated downstream governance.
+
+Data that does not exist:
+
+- cannot leak;
+- cannot be sold;
+- cannot be subpoenaed;
+- cannot be breached;
+- cannot be repurposed;
+- cannot be misclassified;
+- cannot be used to train something later under changed terms;
+- does not require a future institution to remember why it was supposed to be protected.
+
+This is not appropriate for every system. Some functions genuinely require information.
+
+But **necessity should be demonstrated rather than assumed**.
+
+Normal Fucking Sunglasses make the principle funny enough to remember:
+
+> **The safest database is occasionally no fucking database.**
+
+---
+
+## 🫀 Surveillance Is Experienced By Bodies
+
+There is another reason the joke reaches beyond abstract privacy doctrine.
+
+Humans are mammals.
+
+We are sensitive to gaze, pursuit, proximity, attention, concealment, social dominance and whether another agent can observe us. Being watched is not experienced only as a data-processing operation.
+
+Context changes everything.
+
+Observation by a trusted friend is not necessarily experienced like observation by a stranger. A visible security camera is not identical to covert recording. A camera somebody can leave behind is different from one embedded in an environment they cannot avoid.
+
+Prior experience matters too.
+
+For somebody who has experienced stalking, racist harassment, political targeting, outing, policing, sexual exploitation or other forms of interpersonal threat, additional observability may carry a different bodily meaning from that experienced by somebody who has rarely had information about them weaponised.
+
+That does not mean every camera is inherently harmful or every nervous system reacts identically.
+
+It means:
+
+> **Surveillance policy is eventually metabolised by bodies.**
+
+No amount of interface copy can completely turn an unwanted observer into a neutral abstraction.
+
+---
+
+## 🧬 Privacy Practices Are Often Adaptations
+
+This matters especially when unusual privacy behaviour is treated as suspicious.
+
+Marginalised communities have been building alternative information practices for decades because dominant systems have not always been safe for them.
+
+Black and diaspora internet cultures, queer communities, sex workers, journalists, dissidents, abuse survivors and political activists have all developed combinations of:
+
+- pseudonyms;
+- coded language;
+- trusted networks;
+- private groups;
+- platform migration;
+- alternative payment or contact systems;
+- selective visibility;
+- offline verification;
+- compartmentalisation;
+- encrypted communication.
+
+Some people also use those techniques to commit crimes.
+
+That does not make the techniques themselves evidence of criminality.
+
+A crucial distinction is:
+
+> **Deviation from the default information architecture can indicate harm. It can also indicate adaptation to harm.**
+
+Regulation that cannot distinguish those possibilities can destroy safety infrastructure while believing it is removing risk.
+
+Sex-worker safety provides an obvious example: online screening, community warning systems and controlled advertising can themselves be harm-reduction tools. Removing a digital layer does not necessarily remove the underlying activity. Sometimes it merely moves the activity somewhere less visible and less safe.
+
+The cybernetic question is therefore not simply:
+
+> *Did we remove the thing we disliked?*
+
+It is:
+
+> **Where did the behaviour go next?**
+
+---
+
+## ❤️‍🩹 Rehabilitated Tech Starts Here
+
+This gives analogue practice a future-facing role.
+
+The future does not have to mean maximum instrumentation.
+
+Communities already living under hostile information conditions can possess valuable design knowledge about:
+
+- selective visibility;
+- minimised disclosure;
+- trusted intermediaries;
+- local storage;
+- compartmentalisation;
+- graceful offline operation;
+- systems that forget;
+- meaningful pseudonymity;
+- human verification;
+- refusing unnecessary collection.
+
+That knowledge should not be romanticised. Marginalised people should not have to become security engineers simply to participate safely in ordinary life.
+
+But where adaptations already exist, designers and policymakers can learn from them.
+
+The question for **Rehabilitated Tech** becomes:
+
+> **What would technology look like if we designed around human limits rather than extraction limits?**
+
+Sometimes the answer will be better cryptography.
+
+Sometimes better governance.
+
+Sometimes a different network architecture.
+
+Sometimes a deliberately stupid object that does one thing extremely well and then leaves you alone.
+
+---
+
+## ⚖️ Minimum Necessary Observation
+
+There are legitimate reasons to observe.
+
+Hospitals monitor patients. Aircraft contain sensors. Fraud systems identify anomalous transactions. Public spaces may require proportionate security measures. Intelligence services need situational awareness. Some assistive technologies become extraordinarily useful precisely because they can perceive the environment around their user.
+
+The serious alternative to surveillance maximalism is therefore not universal blindness.
+
+It is **proportionality**.
+
+For any observing system, ask:
+
+1. What legitimate function requires observation?
+2. What is the minimum information required for that function?
+3. Does processing need to leave the device?
+4. Does the information need to persist?
+5. Who can access it?
+6. Can the observed person understand that observation is occurring?
+7. Can they meaningfully refuse or leave?
+8. What happens when the data is wrong, breached, repurposed or demanded by another actor?
+9. Does the claimed benefit actually materialise?
+10. When does the observation stop?
+
+That changes the design target.
+
+> **Do not optimise for the maximum amount of surveillance humans can be made to tolerate. Optimise for the minimum observation necessary to perform the legitimate function.**
+
+---
+
+## 😎 Satire Is Resistance, But It Is Not The Whole Resistance Package
+
+Buying sunglasses will not regulate Meta.
+
+It will not reform advertising markets.
+
+It will not protect a child from exploitation, stop a government from abusing surveillance powers, secure an activist's communications, or redesign the internet.
+
+That is fine.
+
+Not every act has to do everything.
+
+Accessible resistance matters because people possess different amounts of time, money, health, technical literacy, institutional power and personal safety.
+
+Someone may not be able to audit an algorithm or campaign for federal privacy legislation.
+
+They may be able to:
+
+- choose a privacy-oriented service;
+- disable an unnecessary feature;
+- use an analogue alternative;
+- support organisations doing serious privacy work;
+- learn one piece of threat modelling;
+- make surveillance socially embarrassing;
+- wear the fucking sunglasses.
+
+Satire can change the cultural environment in which harder governance becomes possible.
+
+Mockery is not regulation.
+
+But legitimacy matters, and ridiculous systems become harder to defend once everybody is laughing at the ridiculous bit.
+
+---
+
+## 🧿 The Small Step
+
+The practical lesson is not **buy this particular product**.
+
+It is a habit of mind:
+
+> **Before adding technology, ask what problem the technology is solving.**
+
+Then ask:
+
+> **What new information does the solution create, and does that information need to exist?**
+
+If the benefit is worth the observation, design the observation properly.
+
+If it is not:
+
+leave the object alone.
+
+Sometimes glasses can just be glasses.
 
 ---
 
 ## 🌌 Constellations
 
-👀 🪫 🕸️ 🛠️ 📣 — analogue boundaries; accessible refusal; anti-inevitability satire; repairable objects; small-step resistance.
+😎 🦆 🧅 🫀 ❤️‍🩹 — analogue privacy; data minimisation; selective observability; embodied surveillance; rehabilitated technology.
+
+*Follow the evidence:*
+
+- [🧿 The Visibility Triangle](../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🧿_the_visibility_triangle.md) — *the wider interface, discovery, route, telemetry and governance model*
+- [❤️‍🩹 Rehabilitated Tech](../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/) — *future-facing technology designed around human needs and limits*
+- [🕶️ Normal F***ing Sunglasses — Knockaround](https://knockaround.com/products/duckduckgo-paso-robles) — *the actual joke, embodied*
+- [📰 The Onion promotion](http://youtube.com/post/UgkxIOH5uMOua_A7bpbyRvp2YEZSQejNK7xt?si=xZ59dOEu57otsWeK) — *satire completing the loop*
+
+---
+
+## 📚 Source Notes
+
+- DuckDuckGo and Knockaround launched the real **Normal F***ing Sunglasses** campaign on 2026-07-30 as deliberately camera-free, AI-free eyewear.
+- Contemporary reporting described the first run as selling out within a week.
+- DuckDuckGo's own campaign language explicitly positioned the product against privacy risks from camera-enabled smart glasses.
+- The campaign is evidence of a culturally legible privacy backlash; it is not evidence that every purchaser shares the same politics or rejects smart-glasses technology in general.
+- Claims about broader technology companies, surveillance, marginalised communities and regulation should be evaluated at the level of the specific system and evidence rather than inferred from the satire alone.
+
+---
 
 ## ✨ Stardust
 
-small steps, analogue technology, accessible resistance, consumer refusal, platform mediation, ambient recording, disability justice, repairability, satire, technological boundaries
+analogue technology, privacy, surveillance, data minimisation, ambient computing, smart glasses, duckduckgo, tor, embodied information, rehabilitated tech
 
 ---
 
 ## 🏮 Footer
 
-*Normal Fucking Sunglasses* is a living node of the **Polaris Protocol**. It records a low-energy, materially accessible form of resistance to compulsory platformisation while locating that action inside a much larger ecology of collective, legal, technical, and political work.
+*Normal Fucking Sunglasses* is a living node of the **Polaris Protocol**. It uses a deliberately ordinary object to examine data minimisation, surveillance saturation, analogue capability and the possibility of designing information systems around minimum necessary observation rather than maximum extractive capacity.
 
 > 🏮 Return To:
 >
 > - [📓 Analogue Dreams](./README.md) — *1up*
-> - [🌔 Small Steps](../README.md) — *2up*
-> - [🌌 Polaris Protocol — Root](../../README.md) — *root*
+> - [🌔 Small Steps](../../README.md) — *2up*
+> - [🌌 Polaris Protocol — Root](../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
