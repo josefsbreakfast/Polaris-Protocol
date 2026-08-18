@@ -448,7 +448,7 @@ It is **saturation**.
 
 Flock Safety's automatic licence-plate-reader controversy provides a useful miniature of this legitimacy shift.
 
-Flock CEO Garrett Langley described [DeFlock](../../♻️🧿_Observation_Becomes_Intervention/🏯_Governance_And_Containment/🈺_Governance_And_Prevent/👁️‍🗨️_anpr_the_eyes_in_the_skies.md) — a project mapping Flock cameras — as a **“terroristic organization”** and compared it with Antifa. In 2026, amid substantial public backlash, he apologised for that characterisation and acknowledged legitimate privacy criticism.
+Flock CEO Garrett Langley described [DeFlock](../♻️🧿_Observation_Becomes_Intervention/🏯_Governance_And_Containment/🈺_Governance_And_Prevent/👁️‍🗨️_anpr_the_eyes_in_the_skies.md) — a project mapping Flock cameras — as a **“terroristic organization”** and compared it with Antifa. In 2026, amid substantial public backlash, he apologised for that characterisation and acknowledged legitimate privacy criticism.
 
 The rhetorical movement is extraordinary:
 
