@@ -1,0 +1,23 @@
+📚_Which_Yisrael/
+│
+├── README.md
+│
+├── 🕯️_a_note_before_we_begin.md
+│
+├── 🏛️_the_arguments_are_older_than_the_state.md
+├── 🔖_why_zionism_has_ten_definitions.md
+│
+├── ⚖️_ihra_jda_and_which_yisrael.md
+├── 🪞_why_jews_can_read_the_same_sentence_differently.md
+├── 🗯️_what_jews_are_actually_arguing_about.md
+├── 🫱_how_not_to_flatten_jewish_plurality.md
+│
+├── 🧠_when_medina_becomes_self.md
+├── 🔮_yisrael_shebeatzmi.md
+├── 📖_the_long_way_to_no.md
+│
+├── 🥚_ashkenormativity_and_allied_problems.md
+│
+├── 🌿_palestinians_are_not_a_footnote_to_jewish_self_concept.md
+├── 🏠_when_a_philosophical_homeland_is_someone_elses_home.md
+└── 🌉_philosophical_jerusalem_and_actual_jerusalem.md
