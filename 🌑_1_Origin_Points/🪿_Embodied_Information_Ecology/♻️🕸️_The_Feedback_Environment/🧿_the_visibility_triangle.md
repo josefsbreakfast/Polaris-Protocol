@@ -185,6 +185,132 @@ So:
 
 International platform governance requires language competence, cultural competence, context, and appeal. Translation alone is not understanding. Human language is not arranged for the convenience of database joins.
 
+
+<details>
+<summary><strong>🩹 Content moderation has a human body</strong></summary>
+
+Automated moderation does not eliminate human moderation.
+
+Eventually, somebody has to look.
+
+Content moderators may spend working days reviewing material involving murder, suicide, torture, sexual violence, child sexual abuse, hate speech, terrorism, animal abuse, exploitation, and other material that most people would actively avoid seeing once — never mind repeatedly, at production-line scale.
+
+That work protects everybody else from having to encounter much of it.
+
+The protection has a human cost.
+
+Research on content moderators has documented substantial psychological burden associated with repeated exposure to disturbing material, including psychological distress, intrusive thoughts, avoidance, hypervigilance, anxiety, depression, changes in worldview, sleep disruption, and symptoms consistent with secondary traumatic stress or post-traumatic stress.
+
+This should change how the job itself is governed.
+
+A content moderator reviewing extreme violence or child sexual abuse material should not be conceptualised as an ordinary low-paid back-office worker who happens to have access to an employee wellbeing app.
+
+They are performing **psychologically hazardous safety work**.
+
+The comparison is not exact, but the principle is familiar from emergency medicine, policing, forensic work, social work, child protection, war-crimes investigation, and other occupations involving unavoidable repeated contact with traumatic material:
+
+> **If exposure is necessary to perform a socially valuable function, the institution creating the exposure acquires obligations to the exposed worker.**
+
+Those obligations should include serious consideration of:
+
+- **higher compensation reflecting occupational hazard**, rather than locating the work wherever labour is cheapest;
+- **hard limits on continuous and cumulative exposure** to the most disturbing material;
+- protected recovery and decompression time that is not counted against productivity;
+- rotation away from high-trauma queues rather than indefinite repeated exposure;
+- adequate staffing so safety is not traded against impossible throughput targets;
+- meaningful control over workload and the ability to stop when a worker is becoming overwhelmed;
+- specialist, confidential mental-health care sufficiently independent that seeking help cannot quietly become an employment penalty;
+- paid psychological-injury and sickness leave;
+- long-term follow-up after employment ends, because the consequences of exposure do not necessarily end with the final shift;
+- informed preparation for the material workers will encounter rather than deliberately sanitised recruitment;
+- protection for workers who report unsafe conditions;
+- effective freedom of association and union representation;
+- independent occupational-health monitoring;
+- transparent reporting of psychological injury rates;
+- and clear responsibility throughout subcontracting chains, so outsourcing moderation does not outsource the duty of care.
+
+Counselling is useful.
+
+**Counselling is not a substitute for reducing the hazard.**
+
+A company cannot reasonably expose workers to an unnecessarily high volume of traumatic material, impose aggressive productivity targets, provide a wellness session, and call the occupational-health problem solved.
+
+Nor should outsourcing erase responsibility.
+
+If Platform A creates the moderation requirement, designs the rules, determines the throughput, benefits commercially from the cleaned platform, and hires Contractor B in a lower-wage jurisdiction to employ Moderator C, the human cost has not somehow ceased to belong to the system because another company appears on C's payslip.
+
+That is another control-point question:
+
+> **Who creates the exposure, who controls the conditions of exposure, who profits from the work, and who carries the injury afterwards?**
+
+### 💰 Compensation is part of safety
+
+There is an uncomfortable political economy here.
+
+Content moderation is frequently described as an unavoidable cost of operating a platform.
+
+But the worker absorbing the psychological cost may be several contractual layers away from the company capturing the platform's enormous financial value.
+
+That creates the possibility of an ugly optimisation:
+
+**users generate harmful material → platform requires human review → traumatic exposure is unavoidable → work is outsourced → labour cost falls → psychological externality remains with the worker**.
+
+If the work is genuinely necessary, its true cost should be visible in the economics of the service.
+
+That means compensation should reflect not merely the technical skill required to make a moderation decision, but the **occupational burden of repeatedly witnessing material from which the rest of the platform is being protected**.
+
+Otherwise the business model contains a hidden subsidy:
+
+> **somebody else's nervous system.**
+
+### 🧠 The moderator is part of the safety architecture
+
+Human moderators are often introduced as the corrective layer when automated systems cannot understand context.
+
+But human judgment is not an infinitely renewable computational resource.
+
+A platform cannot sustainably solve machine uncertainty by feeding the worst material on the internet into progressively larger numbers of poorly protected humans.
+
+So the design question becomes:
+
+> **How do we minimise harmful exposure to moderators while preserving the human judgment that safety systems genuinely require?**
+
+That can include:
+
+- reducing unnecessary visual exposure;
+- blurring or muting material until additional detail is genuinely required;
+- avoiding unnecessary repeated replay;
+- automatically matching and triaging already-known illegal material where appropriate;
+- varying tasks and exposure types;
+- limiting exposure duration;
+- preserving enough context to make a decision without requiring gratuitous exposure;
+- and designing escalation systems around psychological safety rather than throughput alone.
+
+The moderator should not become the shock absorber for every failure elsewhere in the platform.
+
+### ⚖️ Worker protection is platform governance
+
+The occupational conditions of moderators are not a side issue to platform safety.
+
+They tell us what the platform considers an acceptable human cost of producing a usable information environment.
+
+If users are protected from traumatic material by transferring concentrated exposure onto a less visible workforce, then the safety system has not removed the harm.
+
+It has **redistributed it**.
+
+That redistribution may sometimes be unavoidable: somebody genuinely does have to investigate horrific material.
+
+But where it is necessary, the ethical response is not invisibility.
+
+It is:
+
+> **recognise the hazard, minimise the exposure, share the burden, pay appropriately, protect the worker, and remain responsible for the consequences.**
+
+A safer internet should not require a disposable class of people to look at hell on everybody else's behalf.
+
+</details>
+
+
 ---
 
 ## 🧪 Foreseeability Is Only The First Test
@@ -448,7 +574,7 @@ It is **saturation**.
 
 Flock Safety's automatic licence-plate-reader controversy provides a useful miniature of this legitimacy shift.
 
-Flock CEO Garrett Langley described [DeFlock](../♻️🧿_Observation_Becomes_Intervention/🏯_Governance_And_Containment/🈺_Governance_And_Prevent/👁️‍🗨️_anpr_the_eyes_in_the_skies.md) — a project mapping Flock cameras — as a **“terroristic organization”** and compared it with Antifa. In 2026, amid substantial public backlash, he apologised for that characterisation and acknowledged legitimate privacy criticism.
+Flock CEO Garrett Langley described DeFlock — a project mapping Flock cameras — as a **“terroristic organization”** and compared it with Antifa. In 2026, amid substantial public backlash, he apologised for that characterisation and acknowledged legitimate privacy criticism.
 
 The rhetorical movement is extraordinary:
 
@@ -529,6 +655,18 @@ This matters because it separates two questions that are often fused:
 and
 
 > **What information relationship is created while they search for it?**
+
+
+### Content moderation, occupational trauma, and workers' rights
+
+- [Middlesex University: New study reveals impact of moderating harmful online content](https://www.mdx.ac.uk/news/2025/4/content-moderators/) — research on content moderators reporting psychological distress, low wellbeing, and repeated exposure to hate speech, humiliation, and child sexual abuse material.
+- [Spence et al.: Content Moderator Mental Health and Associations with Workplace Conditions](https://pmc.ncbi.nlm.nih.gov/articles/PMC12024403/) — peer-reviewed research examining psychological distress among content moderators and the relationship between mental health, exposure, and working conditions.
+- [International Labour Organization: The Artificial Intelligence Illusion — How Invisible Workers Fuel Automated Systems](https://www.ilo.org/resource/article/artificial-intelligence-illusion-how-invisible-workers-fuel-automated) — discussion of hidden digital labour, repeated exposure to graphic violence, hate speech and child exploitation, and associated risks including PTSD and depression.
+- [International Labour Organization: Psychosocial risks and mental health at work](https://www.ilo.org/topics-and-sectors/safety-and-health-work/psychosocial-risks-and-mental-health-work) — general occupational-health framework for psychosocial hazards, workload, low control, organisational conditions, and employer responsibility for mental as well as physical safety.
+- [Impact Fund: Content Moderators' Safe Workplace Litigation / Scola v. Facebook](https://www.impactfund.org/social-justice-blog/scola-v-facebook) — account of the US litigation that produced a $52 million settlement and workplace protections for thousands of Facebook content moderators employed through vendors.
+- [The Guardian: Facebook to pay $52m for failing to protect moderators from psychological trauma](https://www.theguardian.com/technology/2020/may/12/facebook-settlement-mental-health-moderators) — contemporary reporting on the US settlement, PTSD-related claims, compensation, and workplace-safety provisions.
+- [Reuters: Meta contractor dismissed threats to moderators by Ethiopia rebels, court documents say](https://www.reuters.com/world/africa/meta-contractor-dismissed-threats-moderators-by-ethiopia-rebels-court-documents-2024-12-15/) — reporting on Kenyan moderators' working conditions, unionisation dispute, threats linked to their moderation work, and allegations that safety concerns were inadequately addressed.
+- [ILO: Global case studies of social dialogue on AI and algorithmic management](https://www.ilo.org/media/710401/download) — includes the development of collective organisation among content moderators in Nairobi and places content-moderation labour within wider questions of psychosocial risk and worker representation.
 
 ### DuckDuckGo is not the Good Company in a morality play
 
