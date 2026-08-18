@@ -105,27 +105,41 @@ When an information platform reaches population scale, **content governance beco
 </details>
 
 <details>
-<summary><strong>🧒 Child exploitation: the safety question is not “does Meta moderate?”</strong></summary>
+<summary><strong>🍎 Child exploitation: the safety question is not “does Meta moderate?”</strong></summary>
 
-Meta does have substantial child-safety and content-enforcement systems. It has used automated detection, account-network disruption, photo matching, reporting systems, and other interventions for years. Meta also publishes enforcement statistics and argues that it proactively detects large amounts of child sexual exploitation material.
+Meta has substantial child-safety and content-enforcement machinery: automated detection, account-network disruption, photo matching, reporting systems, and other interventions. The existence of that machinery does **not** settle the safety question.
 
-At the same time, Facebook and Instagram have faced sustained regulatory, congressional, journalistic, and legal scrutiny over whether children remain exposed to grooming, sexual exploitation, predatory networks, and other serious harms.
+Facebook and Instagram have faced sustained regulatory, congressional, journalistic, and legal scrutiny over children's exposure to grooming, sexual exploitation, predatory networks, and other serious harms. When a company has years of warnings, enormous technical capacity, enormous revenue, and repeated evidence of foreseeable harm, pointing to the existence of moderation systems is not enough.
 
-The useful Polaris question is therefore not:
+The sharper Polaris question is:
 
-> **Does Meta do anything about child sexual exploitation?**
+> **If a product creates a foreseeable risk of catastrophic harm to children, what burden should it have to meet before children are allowed to use it at all?**
 
-It plainly does.
+We already accept versions of that principle elsewhere. Children face strong restrictions around alcohol, tobacco, gambling, pornography, hazardous work, driving, and other products or environments where the risk profile is considered incompatible with ordinary unrestricted childhood access. Social media should not receive an automatic exemption simply because it became popular quickly.
 
-The better questions are:
+That opens a harder set of questions:
 
-- Which harms remain foreseeable?
+- Which harms remain foreseeable after years of warning?
 - Where in the system do they occur?
 - Which interventions are technically available?
-- Which interventions are actually deployed?
+- Which obvious interventions were delayed, weakened, or not deployed?
 - What does the company measure as success?
 - Does enforcement produce safety, or merely more enforcement events?
-- What happens when safety goals conflict with growth, engagement, discovery, or advertising incentives?
+- What happens when child safety conflicts with growth, engagement, discovery, advertising, or user-acquisition incentives?
+- At what point does repeated failure stop being a moderation problem and become a governance problem?
+- If the product cannot meet an adequate child-safety standard, why is preservation of the existing product architecture treated as the non-negotiable starting condition?
+
+The public does not have to believe that no determined abuser will ever evade a safeguard. The legitimacy problem is that platform scale, revenue, and dependency can increase while severe exploitation remains foreseeable and safety does not appear commensurate with the scale of the system.
+
+Children need friendship, play, communication, information, identity development, and community. They do **not** inherently need those needs delivered through behavioural advertising, global adult discovery, engagement-maximising recommendation, or permanent commercial profiling.
+
+Once society allows dependency to form, simply removing the platform can also create harm. The future-facing systems question is therefore:
+
+> **What if we built alternative digital and analogue social infrastructure around what children actually need, rather than assuming the current surveillance-capital platform model is inevitable?**
+
+That could include stronger age segmentation, non-commercial youth spaces, interoperable messaging, limits on adult discovery and recommendation, no behavioural advertising to minors, safer community infrastructure, libraries and youth spaces, and digital systems designed around development rather than extraction.
+
+> **Children need social infrastructure. They do not inherently need surveillance-capital social infrastructure.**
 
 </details>
 
@@ -929,7 +943,28 @@ But the responsibility is attached to the part of the system they can actually o
 
 ---
 
-## 🧒 Child Exploitation As A Control-Point Stress Test
+
+### 💰 Scale, precarity, and the harmful configuration
+
+The public may accept that no safeguarding system can prevent every determined abuser from getting through. What becomes much harder to justify is a system in which companies become vastly richer, platforms become more socially indispensable, user populations expand, and severe exploitation risks scale with them while safety remains a downstream moderation problem.
+
+This is not only about one company. It is a recurring pattern:
+
+> **scale first → dependency forms → harms scale → the company becomes infrastructurally important → regulation becomes harder → the existing architecture is treated as inevitable.**
+
+It was not inevitable at the earlier branching points.
+
+Economic precarity matters here too. Markets can turn vulnerability into supply. The pandemic-era expansion of OnlyFans is a useful adjacent example **without collapsing consensual adult sex work into child exploitation**: the platform became strongly associated with paid sexual content during a period when many people, disproportionately including women, queer people, and existing sex workers, had lost income or safer in-person ways of earning. For some adults, online sex work increased autonomy or safety; for others, economic pressure, coercive intermediaries, and exploitative management arrangements created new risks.
+
+The systems question is not whether sexual labour is inherently exploitative. It is:
+
+> **When vulnerability supplies a profitable platform market, who captures the revenue and who carries the bodily, reputational, coercive, and legal risk?**
+
+Poverty and inequality can create exploitable conditions, but they should not be reduced to a single causal story. Economic vulnerability, platform scale, contact surfaces, weak governance, and profitable intermediation can interact.
+
+This is why **“the harmful configuration happened to win the market”** is not the same thing as **“the harmful configuration was necessary.”**
+
+## 🍎 Child Exploitation As A Control-Point Stress Test
 
 Child sexual exploitation is especially useful for demonstrating why this matters because the underlying harm is extremely serious while the possible interventions have radically different implications for privacy and security.
 
