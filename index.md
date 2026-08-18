@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-18 22:21:23 UTC_
+_Generated on 2026-08-18 22:23:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -90,6 +90,7 @@ _Generated on 2026-08-18 22:21:23 UTC_
       - [`🥚_ashkenormativity_and_allied_problems.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🥚_ashkenormativity_and_allied_problems.md)
       - [`🧠_when_medina_becomes_self.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🧠_when_medina_becomes_self.md)
       - [`🪞_why_jews_can_read_the_same_sentence_differently.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🪞_why_jews_can_read_the_same_sentence_differently.md)
+      - [`🪬_one_can_never_speak_for_all.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🪬_one_can_never_speak_for_all.md)
       - [`🫱_how_not_to_flatten_jewish_plurality.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🫱_how_not_to_flatten_jewish_plurality.md)
     - [**🪬_Beyond_Zionism/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/README.md)
