@@ -165,6 +165,24 @@ It tells us why some claims may become unusually difficult to evaluate as claims
 
 ---
 
+## 🕯️ These Are Opposite Movements
+
+The similarity of the names can obscure the importance of the distinction.
+
+### 🧠 Atzmi Yisrael
+
+**An external Israel enters the architecture of the self.**
+
+> **Israel → self**
+
+The central question becomes:
+
+> **What happens to me when something happens to Israel?**
+
+If differentiation becomes weak, criticism of Israel can become psychologically self-threatening.
+
+---
+
 ## 🔮 Yisrael She-be'atzmi — ישראל שבעצמי
 
 **The Yisrael within me: an interior Jewish object from which the external world may be encountered and judged.**
@@ -210,51 +228,6 @@ The crucial point is structural:
 Indeed, it can provide the internal standpoint from which Medinat Yisrael is judged.
 
 ---
-
-## 🕯️ These Are Opposite Movements
-
-The similarity of the names can obscure the importance of the distinction.
-
-### 🧠 Atzmi Yisrael
-
-**An external Israel enters the architecture of the self.**
-
-> **Israel → self**
-
-The central question becomes:
-
-> **What happens to me when something happens to Israel?**
-
-If differentiation becomes weak, criticism of Israel can become psychologically self-threatening.
-
----
-
-### 🔮 Yisrael She-be'atzmi
-
-**The self encounters and develops Yisrael internally.**
-
-> **self → interior Yisrael → external world**
-
-The central question becomes:
-
-> **What does the Yisrael I carry within require of me?**
-
-That interior Yisrael can then become a source of ethical judgement directed outward:
-
-**Yisrael she-be'atzmi**  
-↓  
-**ethical / spiritual / intellectual commitments**  
-↓  
-**standards of judgement**  
-↓  
-**Medinat Yisrael**
-
-The moral condition of Medinat Yisrael therefore does not determine the integrity of Yisrael she-be'atzmi.
-
-Medinat Yisrael can fail its standards.
-
-Indeed, Yisrael she-be'atzmi may require the person to say so.
-
 ---
 
 ## 🧿 The Critical Distinction
