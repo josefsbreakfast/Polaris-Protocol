@@ -229,7 +229,14 @@ That keeps the analysis useful without mistaking a dashboard for God.
 
 ## 🌌 Constellations
 
-🧿 🛠️ 🦆 🕸️ 🌊 — interface mediation; search discovery; resilient routing; feedback visibility; attribution discipline.
+🧿 🛠️ 🦆 🕸️ 🌊 — interface mediation; search discovery; resilient routing; feedback visibility; attribution discipline.  
+
+*Follow the evidence:*  
+
+- [🕶️: Normal F***ing Sunglasses, Knockaround and DuckDuckGo](https://knockaround.com/products/duckduckgo-paso-robles)
+- [🧅: The Onion, press release](http://youtube.com/post/UgkxIOH5uMOua_A7bpbyRvp2YEZSQejNK7xt?si=xZ59dOEu57otsWeK)  
+
+---
 
 ## ✨ Stardust
 
