@@ -1,0 +1,1 @@
+🪬_one_can_never_speak_for_all.md
