@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-18 20:46:58 UTC_
+_Generated on 2026-08-18 20:57:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -77,6 +77,20 @@ _Generated on 2026-08-18 20:46:58 UTC_
     - [**📚_Which_Yisrael/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/notes.txt)
+      - [`⚖️_ihra_jda_and_which_yisrael.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/⚖️_ihra_jda_and_which_yisrael.md)
+      - [`🌉_philosophical_jerusalem_and_actual_jerusalem.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🌉_philosophical_jerusalem_and_actual_jerusalem.md)
+      - [`🌿_palestinians_are_not_a_footnote_to_jewish_self_concept.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🌿_palestinians_are_not_a_footnote_to_jewish_self_concept.md)
+      - [`🏛️_the_arguments_are_older_than_the_state.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🏛️_the_arguments_are_older_than_the_state.md)
+      - [`🏠_when_a_philosophical_homeland_is_someone_elses_home.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🏠_when_a_philosophical_homeland_is_someone_elses_home.md)
+      - [`📖_the_long_way_to_no.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/📖_the_long_way_to_no.md)
+      - [`🔖_why_zionism_has_ten_definitions.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🔖_why_zionism_has_ten_definitions.md)
+      - [`🔮_yisrael_shebeatzmi.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🔮_yisrael_shebeatzmi.md)
+      - [`🕯️_a_note_before_we_begin.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🕯️_a_note_before_we_begin.md)
+      - [`🗯️_what_jews_are_actually_arguing_about.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🗯️_what_jews_are_actually_arguing_about.md)
+      - [`🥚_ashkenormativity_and_allied_problems.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🥚_ashkenormativity_and_allied_problems.md)
+      - [`🧠_when_medina_becomes_self.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🧠_when_medina_becomes_self.md)
+      - [`🪞_why_jews_can_read_the_same_sentence_differently.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🪞_why_jews_can_read_the_same_sentence_differently.md)
+      - [`🫱_how_not_to_flatten_jewish_plurality.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🫱_how_not_to_flatten_jewish_plurality.md)
     - [**🪬_Beyond_Zionism/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/README.md)
       - [`🍉_as_a_jew_globalise_the_intifada.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/🍉_as_a_jew_globalise_the_intifada.md)
