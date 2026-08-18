@@ -630,7 +630,442 @@ It does something smaller and more practical:
 
 > **For the purposes of this analysis, tell us which Yisrael you mean.**
 
-The interesting question is what remains capable of being carried, interrogated, transformed, argued with, and handed onwards.
+The interesting question is what remains capable of being carried, interrogated, transformed, argued with, and handed onwards.  
+
+——  
+
+## 🕯️ A Note Before We Begin
+
+This cluster is being written because it needs to be written.
+
+That does not mean it is finished.
+
+It does not mean this is the perfect vocabulary, the definitive account of Jewish relationships with Yisrael, or a framework that speaks for every Jewish person.
+
+It does not.
+
+Jewish arguments about Yisrael, land, peoplehood, exile, return, sovereignty, Zionism, diaspora, covenant, political authority, and Jewish collective life are old. They contain profound disagreements between and within Jewish communities, traditions, classes, generations, geographies, and political movements.
+
+The contemporary argument did not begin in 2023.
+
+It did not begin in 1948.
+
+Nor did Jewish disagreement suddenly appear when Zionism did.
+
+This cluster is entering a conversation that was already complicated before the modern State of Israel existed.
+
+It will therefore be imperfect.
+
+In particular, this version should not be treated as having successfully resolved several problems that require considerably more work.
+
+It does not yet centre Palestinian experience as fully as the subject requires.
+
+It does not yet decentre Ashkenormative accounts of Jewish history, identity, Zionism, anti-Zionism, diaspora, and relationship with land as fully as it should.
+
+It does not represent every Jewish relationship with Israel, Palestine, Zionism, diaspora, religion, peoplehood, or Jewish political life.
+
+And the two analytical terms proposed in this cluster — **Atzmi Yisrael** and **Yisrael she-be'atzmi** — are working vocabulary, not established categories that Polaris has discovered sitting neatly in the literature.
+
+We are offering terms because we need terms with which to think.
+
+They can be challenged.
+
+They can be improved.
+
+They may eventually need to be replaced.
+
+That is allowed.
+
+---
+
+### 🌿 Palestinian Life Is Not Context For A Jewish Thought Experiment
+
+There is also a more serious limitation that needs stating at the beginning.
+
+Much of this cluster concerns Jewish interiority: what *Yisrael* means, how Jewish identity develops, why Jews understand Zionism differently, how Medinat Yisrael can become incorporated into self-concept, and what alternative relationships with Yisrael exist within Jewish thought.
+
+Those are legitimate questions.
+
+But Palestinians are not supporting characters in a Jewish philosophical argument.
+
+The consequences of Zionism and Israeli state formation are not confined to what those processes have meant psychologically, politically, or spiritually for Jews.
+
+They have been experienced materially by Palestinians through displacement, dispossession, exile, military rule, occupation, settlement, restrictions on movement, violence, loss of land and home, and struggles over political and collective rights.
+
+There is therefore something inherently uncomfortable about spending thousands of words asking:
+
+> **What does Israel mean to us?**
+
+while another necessary question is:
+
+> **What has the attempt to make particular meanings of Israel materially real meant for the people already living there?**
+
+That discomfort should remain visible.
+
+A European Jewish argument about whether Jewish personhood is located in a state, a land, a people, a text, a covenant, a political project, an interior Yisrael, or somewhere else cannot be permitted to make Palestinian life secondary to the sophistication of the argument.
+
+If this cluster ever becomes extraordinarily nuanced about Jewish interiority while treating Palestinian dispossession as a paragraph of historical context, it has failed.
+
+---
+
+### 🕸️ Jewish Plurality Is Also Larger Than This Version
+
+There is another danger.
+
+A discussion of Zionism conducted principally through European Jewish intellectual history can reproduce **Ashkenormativity** even while attempting to complicate Jewish identity.
+
+Mizrahi, Sephardi, Maghrebi, Middle Eastern, North African, Ethiopian, Indian, Central Asian, and other Jewish histories cannot simply be appended later as variations upon an implicitly Ashkenazi baseline.
+
+Their relationships with land, Arab societies, colonialism, European power, migration, Zionism, Israeli state formation, language, religion, diaspora, and Jewish peoplehood have their own histories.
+
+Those histories may complicate categories used elsewhere in this cluster.
+
+Good.
+
+The categories should be capable of being complicated.
+
+---
+
+### 🧭 Complexity Is Not A Reason To Say Nothing
+
+There is an obvious alternative to publishing an imperfect account of a difficult subject:
+
+keep waiting.
+
+Wait until every historical argument has been resolved.
+
+Wait until every Jewish experience is adequately represented.
+
+Wait until Palestinian experience has been incorporated perfectly.
+
+Wait until the terminology cannot possibly be misunderstood.
+
+Wait until the author has read everything.
+
+At that point, nobody writes anything.
+
+So this cluster adopts a different rule:
+
+> **Say what can presently be said carefully. Mark what remains incomplete. Preserve disagreement. Correct errors. Add missing voices. Revise the architecture when the evidence requires it.**
+
+Publication is not a declaration of completion.
+
+It is a commitment to continued revision.
+
+---
+
+## 🗺️ Starting Nodes
+
+The first nodes underneath **Which Yisrael?** should establish enough history, psychology, political context, and material grounding for the vocabulary to become useful.
+
+### 🧭 `zionism_is_not_one_sentence.md`
+
+A brief history of the Zionist movement and its internal plurality.
+
+Why did substantially secular political movements nevertheless reach for inherited Jewish language — Zion, Jerusalem, Eretz Yisrael, Hebrew, return?
+
+How did political, cultural, socialist, revisionist, religious and other Zionisms understand the project differently?
+
+And how does that history help explain why contemporary Jews can use the word **Zionism** while apparently defining entirely different things?
+
+---
+
+### 🔖 `why_zionism_has_ten_definitions.md`
+
+If *Yisrael* itself can refer to land, people, state, collective survival, political sovereignty, religious inheritance or something carried within the self, then **Zionism inherits that semantic instability**.
+
+Two Jews can sincerely call themselves Zionists while attaching the word to materially different propositions.
+
+Two Jews can also sincerely reject Zionism while rejecting different things.
+
+This node asks what people actually mean when they use the label.
+
+---
+
+### 🏛️ `the_arguments_are_older_than_the_state.md`
+
+Jewish disagreement over Yisrael did not begin with contemporary Israeli politics.
+
+Nor did it begin in 1948.
+
+This node provides a route through older arguments about land, exile, return, sovereignty, covenant, diaspora, political authority, messianism, peoplehood, Jerusalem and Jewish collective life.
+
+The purpose is not to produce one authoritative genealogy.
+
+It is to prevent contemporary political categories from being projected backwards as though Jews had spent two thousand years waiting to agree with Twitter.
+
+---
+
+### ⚖️ `ihra_jda_and_which_yisrael.md`
+
+Why can Jewish readers genuinely interpret the same antisemitism framework differently?
+
+What does IHRA actually say?
+
+What problems was the Jerusalem Declaration on Antisemitism attempting to solve?
+
+What does JDA clarify?
+
+What does it leave unresolved?
+
+And what happens when a framework intended to identify antisemitism encounters Jews whose relationships between **self, Am Yisrael, Eretz Yisrael and Medinat Yisrael** are themselves different?
+
+The JDA may provide a better traffic system across the disagreement.
+
+It cannot decide Jewish ontology for Jews.
+
+---
+
+### 🪞 `why_jews_can_read_the_same_sentence_differently.md`
+
+The same political statement can arrive at different psychological objects.
+
+One person hears criticism of a government.
+
+Another hears an attack upon Jewish collective safety.
+
+Another hears rejection of Jewish peoplehood.
+
+Another hears criticism of a nationalist ideology they themselves reject.
+
+Another hears an antisemitic trope wrapped in political vocabulary.
+
+Sometimes one of them is simply wrong.
+
+But sometimes disagreement about the sentence cannot be understood until we establish **which Yisrael each person believes the sentence concerns**.
+
+---
+
+### 🧠 `when_medina_becomes_self.md`
+
+The deeper **Atzmi Yisrael** node.
+
+How does Medinat Yisrael become incorporated into self-concept?
+
+What roles are played by communal education, persecution, the Shoah, narratives of refuge, Jewish vulnerability, family history, collective survival, political sovereignty and representations of Israel as an unusually moral or exemplary state?
+
+And what happens when evidence about the actual conduct of Medinat Yisrael becomes incompatible with the Israel represented within the self?
+
+---
+
+### 🔮 `yisrael_shebeatzmi.md`
+
+The deeper interior-Yisrael node.
+
+What forms of Yisrael remain when Medinat Yisrael is not permitted to monopolise the category?
+
+Covenant.
+
+Argument.
+
+Study.
+
+Memory.
+
+Ethical obligation.
+
+Wrestling.
+
+Peoplehood.
+
+Relationship with ancestors and descendants.
+
+Jerusalem as interior as well as geographic orientation.
+
+This node should engage great Jewish thinkers across time without pretending they all meant the same thing.
+
+Its question is not:
+
+> **What must Israel do for me to remain Jewish?**
+
+It is:
+
+> **What does the Yisrael within me require me to do?**
+
+---
+
+### 🪓 `the_long_way_to_no.md`
+
+Why can Jewish rejection of Zionism or of Medinat Yisrael as the proper locus of Jewish political identity become extremely categorical?
+
+Sometimes strong rejection follows shallow certainty.
+
+Sometimes it follows the opposite.
+
+A person may move through:
+
+**inheritance**  
+→ **discomfort**  
+→ **investigation**  
+→ **Palestinian testimony**  
+→ **historical confrontation**  
+→ **communal conflict**  
+→ **moral reconstruction**  
+→ **a settled no**
+
+The strength of the conclusion does not tell us how little thought preceded it.
+
+Sometimes categorical language appears because carefully qualified positions have repeatedly been absorbed into political categories the speaker explicitly rejects.
+
+There comes a point at which:
+
+> **No. I said no.**
+
+becomes boundary maintenance.
+
+---
+
+### 🗯️ `what_jews_are_actually_arguing_about.md`
+
+An unpacking of familiar intra-Jewish sniping.
+
+> *You have abandoned your people.*
+
+> *You have made a state into an idol.*
+
+> *Diaspora privilege.*
+
+> *Zionism only means Jewish self-determination.*
+
+> *Not in my name.*
+
+> *Why should Jews be the only people denied a state?*
+
+Rather than treating these only as political slogans, ask:
+
+> **Which Yisrael does this argument presuppose?**
+
+Often the participants are fighting several levels below the sentence they actually said.
+
+---
+
+### 🫱 `how_not_to_flatten_jewish_plurality.md`
+
+A practical node for non-Jewish participation.
+
+Jewish plurality does not require outsiders to locate **the Jew who agrees with them** and use that person as authentication.
+
+Nor does respecting Jewish experience require treating every Jewish political claim as authoritative.
+
+Listen.
+
+Distinguish.
+
+Do not manufacture an authenticity contest between Jews.
+
+Do not turn attachment to Israel into an assumption of foreign allegiance.
+
+Do not turn rejection of Zionism into evidence of deficient Jewishness.
+
+Do not outsource political judgement to identity.
+
+And accept that sometimes Jewish people genuinely disagree.
+
+---
+
+### 🌿 `palestinians_are_not_a_footnote_to_jewish_self_concept.md`
+
+A necessary corrective running through the entire cluster.
+
+Palestinian land, homes, movement, political rights, family life, safety, memory and survival cannot become scenery behind a Jewish argument about Jewish identity.
+
+The question:
+
+> **What does Israel mean to Jews?**
+
+must remain in contact with:
+
+> **What have different attempts to make those meanings politically and territorially real meant for Palestinians?**
+
+Otherwise Jewish interiority becomes another mechanism by which Palestinian material reality disappears.
+
+---
+
+### 🏠 `when_a_philosophical_homeland_is_someone_elses_home.md`
+
+Ideas about homeland can be theological, historical, emotional and philosophical.
+
+Homes are also physical things.
+
+They have doors.
+
+People sleep in them.
+
+Families inherit them.
+
+Children grow up in them.
+
+Once a philosophical homeland becomes a territorial political programme, the analysis has to ask who already lives there, what happens to their rights, who controls land, who controls movement, who possesses coercive power, and who is required to move.
+
+This is one place where the cluster must encounter arguments about **settler colonialism** directly rather than treating them as vocabulary problems.
+
+---
+
+### 🌉 `philosophical_jerusalem_and_actual_jerusalem.md`
+
+Jerusalem demonstrates the problem unusually clearly.
+
+Jerusalem can be prayer.
+
+Jerusalem can be text.
+
+Jerusalem can be memory.
+
+Jerusalem can be longing.
+
+Jerusalem can be mystical geography.
+
+Jerusalem can be an imagined destination.
+
+Jerusalem can also be an actual city in which actual people live.
+
+The philosophical Jerusalem and the material Jerusalem are related.
+
+They are not interchangeable.
+
+Metaphor does not acquire property deeds merely by becoming sacred.
+
+---
+
+## 🧿 Cluster Rule
+
+Throughout this cluster, preserve two propositions simultaneously:
+
+> **Jewish relationships with Yisrael are genuinely plural, historically deep, psychologically consequential, and worthy of serious examination.**
+
+and:
+
+> **Jewish interiority cannot be allowed to erase Palestinian exterior reality.**
+
+Neither proposition cancels the other.
+
+The difficulty of holding them together is part of why this cluster exists.
+
+---
+
+## 🌱 Revision Is Part Of The Method
+
+This is a starting block.
+
+Nodes can move.
+
+Terms can change.
+
+Missing histories can be added.
+
+Palestinian scholarship and testimony should alter the analysis.
+
+Non-Ashkenazi Jewish histories should alter the analysis.
+
+Jewish disagreement should alter the analysis.
+
+Criticism should alter the analysis when it identifies something the architecture has got wrong.
+
+The goal is not to produce the final Jewish answer to Israel.
+
+There has never been one.
+
+The goal is to build enough vocabulary that we can stop pretending there is.
 
 ---
 
