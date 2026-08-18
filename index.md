@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-18 14:21:30 UTC_
+_Generated on 2026-08-18 15:03:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -178,6 +178,7 @@ _Generated on 2026-08-18 14:21:30 UTC_
     - [`🗄️_when_the_offices_show_the_system_violence.md`](🌑_1_Origin_Points/🍌_Why_Kafka/🗄️_when_the_offices_show_the_system_violence.md)
     - [`🧭_why_polaris_protocol.md`](🌑_1_Origin_Points/🍌_Why_Kafka/🧭_why_polaris_protocol.md)
   - [**🍔_Burger_Basics/**](🌑_1_Origin_Points/🍔_Burger_Basics/)
+    - [`README.md`](🌑_1_Origin_Points/🍔_Burger_Basics/README.md)
     - [`notes.txt`](🌑_1_Origin_Points/🍔_Burger_Basics/notes.txt)
   - [**🧄_Exousiología/**](🌑_1_Origin_Points/🧄_Exousiología/)
     - [**🌍_Comparative_Systems/**](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/)
