@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-18 14:18:49 UTC_
+_Generated on 2026-08-18 14:21:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -898,7 +898,6 @@ _Generated on 2026-08-18 14:18:49 UTC_
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/.🌱_Still_Growing/notes.txt)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/README.md)
-      - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/notes.txt)
       - [`🎮_p1_is_practising.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎮_p1_is_practising.md)
       - [`👗_la_camarilla_de_l_orange.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/👗_la_camarilla_de_l_orange.md)
       - [`📈_$seo.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/📈_$seo.md)
