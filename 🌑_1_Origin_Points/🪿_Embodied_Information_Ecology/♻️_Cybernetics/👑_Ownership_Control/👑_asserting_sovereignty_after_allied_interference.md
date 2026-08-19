@@ -1,5 +1,5 @@
 # 👑 Asserting Sovereignty After Allied Interference
-**First created:** 2025-10-26 | **Last updated:** 2026-08-15  
+**First created:** 2025-10-26 | **Last updated:** 2026-08-19  
 *How a state can reassert lawful control when an ally's activity inside its jurisdiction exceeds authorised cooperation, breaches domestic law, or harms people under its protection.*
 
 ---
@@ -401,11 +401,12 @@ Within **👑 Ownership Control**, it treats sovereignty as both a legal status 
 >
 > 🏮 Return To:
 >
-> - [👑 Ownership Control](./)
-> - [♻️ Cybernetics](../)
-> - [🪿 Embodied Information Ecology](../../)
-> - [🌑 Origin Points](../../../)
+> - [👑 Ownership & Control](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-15_
+_Last updated: 2026-08-19_
