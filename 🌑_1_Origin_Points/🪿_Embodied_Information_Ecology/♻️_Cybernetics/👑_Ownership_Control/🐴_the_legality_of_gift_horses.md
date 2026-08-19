@@ -1,5 +1,5 @@
 # 🐴 The Legality of Gift Horses
-**First created:** 2026-05-28 | **Last updated:** 2026-08-16  
+**First created:** 2026-05-28 | **Last updated:** 2026-08-19  
 *How convenience-framed digital reform can carry infrastructure-level constitutional consequences.*
 
 ---
@@ -357,7 +357,15 @@ It examines how convenience-framed public-sector technology can carry constituti
 > - [👑 Ownership Control](./) — *ownership, control, accountability, and dependency across consequential infrastructure*
 > - [♻️ Cybernetics](../) — *feedback, control, system behaviour, and governing infrastructures*
 > - [🪿 Embodied Information Ecology](../../) — *the wider ecology through which information systems become material conditions of access, agency, and institutional power*
+>   
+> 🏮 Return To:
+>
+> - [👑 Ownership & Control](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-19_
