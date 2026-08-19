@@ -1,5 +1,5 @@
 # 👑 Ownership & Control
-**First created:** 2025-10-13 | **Last updated:** 2026-08-14  
+**First created:** 2025-10-13 | **Last updated:** 2026-08-19  
 *Where remit fractures, custody diffuses, and operational power actually determines outcomes.*
 
 ---
@@ -28,6 +28,27 @@ Here we track:
 
 This cluster is structural, not rhetorical.
 
+### 🚧 Migration & Improvement Status
+
+**Ownership & Control is also a legacy convergence cluster.**
+
+A substantial part of its present collection was developed, linked, or grouped under an earlier Polaris folder architecture. As the archive transitions into the newer **Embodied Information Ecology → Cybernetics** structure, this directory is being maintained as a working continuity layer rather than being broken apart prematurely.
+
+Accordingly:
+
+- the present location of a node does not necessarily represent its final routing;
+- some nodes retain conceptual or relative links inherited from the former folder system;
+- neighbouring clusters and parent relationships are still being reconciled;
+- cross-links may remain provisional while destination paths are confirmed;
+- index entries may change as nodes receive final routing;
+- and maintenance, link repair, deduplication, and final moves remain ongoing improvement works.
+
+This is deliberate archive maintenance rather than evidence of conceptual equivalence between every node presently collected here.
+
+Where legacy placement preserves useful context, it should remain visible until the replacement route and its cross-links are secure.
+
+**Move carefully; preserve the graph.**
+
 ---
 
 ## 🧭 What This Cluster Tracks
@@ -43,7 +64,9 @@ The emphasis is on **mechanism**: identifying where effective control sits, how 
 
 ---
 
-## 🗂️ Node Index — Categorised by Function
+## 🗂️ Node Index — Current Working Arrangement
+
+> **Migration note:** This index describes the cluster as presently maintained. Categories are navigational rather than claims of permanent or exclusive classification. Nodes may move, acquire additional parentage, or be cross-linked into neighbouring clusters as the new architecture settles.
 
 ### I. 🧱 Custody & Structural Power Architecture
 *Where authority sits and insulation is constructed.*
@@ -54,6 +77,7 @@ The emphasis is on **mechanism**: identifying where effective control sits, how 
 - [👑 Soft Power Accountability Gap](./👑_soft_power_accountability_gap.md)
 - [👑 Asserting Sovereignty After Allied Interference](./👑_asserting_sovereignty_after_allied_interference.md)
 - [🧬 Distributed Complicity in Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md)
+- [🐴 The Legality of Gift Horses](./🐴_the_legality_of_gift_horses.md)
 
 ### II. ⚖️ Accountability & Acknowledgement Design
 *How systems manage exposure, acknowledgement, and repair.*
@@ -62,7 +86,6 @@ The emphasis is on **mechanism**: identifying where effective control sits, how 
 - [⚖️ Acknowledgement Tradeoffs in Data Fixing](./⚖️_acknowledgement_tradeoffs_in_data_fixing.md)
 - [💰 Sometimes Donors Save the Day](./💰_sometimes_donors_save_the_day.md)
 - [💰 Who Benefits from Cover-Up](./💰_who_benefits_from_cover_up.md)
-- [🪡 Oversight Repair Kit](./🪡_oversight_repair_kit.md)
 
 ### III. 🏛️ Institutional Drift & Legitimacy Stress
 *Where public authority erodes under custodial asymmetry.*
@@ -70,7 +93,6 @@ The emphasis is on **mechanism**: identifying where effective control sits, how 
 - [✈️ Who Wants These Creeps in Charge?](./✈️_who_wants_these_creeps_in_charge.md)
 - [✈️ Genocides and Paedophiles](./✈️_genocides_and_paedophiles.md)
 - [🌒 The No-Win Box](./🌒_the_no_win_box.md)
-- [🌅 Rise of Institutional Integrity](./🌅_rise_of_institutional_integrity.md)
 - [🍉 British Democracy Needs You](./🍉_british_democracy_needs_you.md)
 - [🐼 The Metropolitan Rabble](./🐼_the_metropolitan_rabble.md)
 
@@ -95,9 +117,8 @@ The emphasis is on **mechanism**: identifying where effective control sits, how 
 - [🌳 The Lads Are Not Pro Countryside](./🌳_the_lads_are_not_pro_countryside.md)
 
 ### VII. 🧬 Systems Integrity & Epistemic Infrastructure
-*Where knowledge, data, and system health intersect.*
+*Where knowledge, data, AI infrastructure, and system health intersect.*
 
-- [👁️ Restoring Epistemic Integrity](./👁️_restoring_epistemic_integrity.md)
 - [📚 Memory, Market & Machinery of Data Exhaust](./📚_memory_market_machinery_of_data_exhaust.md)
 - [🦎 Algorithmic Autotomy](./🦎_algorithmic_autotomy.md)
 - [🦠 Systemic Porosity](./🦠_systemic_porosity.md)
@@ -108,7 +129,6 @@ The emphasis is on **mechanism**: identifying where effective control sits, how 
 ### VIII. 🫀 Harm Threshold & Containment Outcomes
 *Where restriction, delay, or technical logic produces real-world consequences.*
 
-- [🫀 AI Black Box Inquests](./🫀_ai_black_box_inquests.md)
 - [🫀 Genocide by Containment](./🫀_genocide_by_containment.md)
 - [🪦 CECOT as Rights Void Facility](./🪦_cecot_as_rights_void_facility.md)
 
@@ -122,7 +142,8 @@ The emphasis is on **mechanism**: identifying where effective control sits, how 
 ## 🧰 Tools & Working Assets
 
 `bottleneck_mapping_log_template.csv`  
-`panic_deleting_evidence.png`
+`panic_deleting_evidence.png`  
+`notes.txt`
 
 Use the bottleneck log to document:
 
@@ -130,6 +151,8 @@ Use the bottleneck log to document:
 - escalation failures;
 - responsibility or liability diffusion;
 - and decision choke points over time.
+
+Working assets are retained alongside the cluster where they support migration, analysis, provenance, or maintenance. Their presence does not necessarily imply permanent archival placement.
 
 Patterns can reveal structure.
 
@@ -147,7 +170,29 @@ The cluster is particularly useful where formal remit does not adequately descri
 
 Where another framework more adequately explains the phenomenon, route or cross-link accordingly.
 
-During migration from the former filing architecture, existing links and neighbouring clusters should be treated as provisional until their new locations have been confirmed.
+### During the architecture transition
+
+Do not move a legacy node merely because a newer destination appears conceptually cleaner.
+
+Before final movement:
+
+1. identify its strongest current and prospective relationships;
+2. preserve or replace meaningful inbound and outbound links;
+3. confirm the destination README can explain why the node belongs there;
+4. distinguish **final routing** from useful **cross-linking**;
+5. update neighbouring indexes where the move changes navigation;
+6. only then retire the legacy route.
+
+The objective is not a cosmetically perfect folder tree.
+
+It is a **survivable knowledge graph**.
+
+Until migration and maintenance are complete, existing locations and links should therefore be read as a mixture of:
+
+- legacy architecture;
+- confirmed new routing;
+- provisional staging;
+- and intentional cross-cluster overlap.
 
 ---
 
@@ -169,6 +214,8 @@ process custody, operational control, mandate collision, custodial capture, owne
 
 It documents where operational power sits, how responsibility and custody become distributed, and how those arrangements can shape outcomes differently from formal rules or institutional remits.
 
+This README also records the cluster's transitional status between the former Polaris filing architecture and the developing Embodied Information Ecology / Cybernetics structure. Maintenance, final routing, and cross-link reconciliation remain ongoing improvement works; continuity should be preserved while that work proceeds.
+
 > 📡 Cross-references:
 >
 > - [♻️ Cybernetics](../README.md) — *parent domain for feedback, regulation, adaptation, and recursive system behaviour*
@@ -183,4 +230,4 @@ It documents where operational power sits, how responsibility and custody become
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-08-19_
