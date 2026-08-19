@@ -1,5 +1,5 @@
 # 🔎 Confidence Labels And Source Rules
-**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-19  
 *Keeping event, effect, pattern, attribution, sponsorship, source quality, recovery, and legal significance separate enough to remain useful when the evidence changes.*
 
 ---
@@ -893,13 +893,17 @@ ACCESS BROKER
 ↓
 CONTRACTOR / PROXY
 ↓
+TASK ORIGINATOR / COMMISSIONER
+↓
+PAYER / PROCUREMENT ROUTE
+↓
 BUYER / CUSTOMER
 ↓
 STATE AFFILIATION
 ↓
 STATE DIRECTION
 ↓
-FINAL BENEFICIARY
+END USER / FINAL BENEFICIARY
 ```
 
 Confidence should attach separately to each material layer.
@@ -1023,6 +1027,73 @@ The chronology of the access chain matters.
 
 ---
 
+## 💰 Commissioner, Payer, Customer And Beneficiary Are Separate Propositions
+
+A cyber operation may contain several relationships that look similar from a distance and do different evidentiary work.
+
+Record separately:
+
+```text
+TASK ORIGINATOR:
+who generated the requirement?
+
+COMMISSIONER:
+who asked for an outcome?
+
+PAYER:
+who transferred money, access, infrastructure or another benefit?
+
+PROCUREMENT ROUTE:
+how did the capability enter the chain?
+
+CUSTOMER:
+who purchased the service, access or data?
+
+END USER:
+who used the resulting access, intelligence or disruption?
+
+FINAL BENEFICIARY:
+who ultimately gained from the result?
+```
+
+One entity may occupy several positions.
+
+Several entities may occupy one position at different times.
+
+Payment can provide powerful evidence of demand and relationship. It does not automatically prove:
+
+- detailed operational control;
+- knowledge of every subcontractor;
+- approval of every technique;
+- intent regarding every downstream effect;
+- or state direction.
+
+The opposite error is equally serious.
+
+Delegation does not make the commissioning relationship disappear merely because the commissioner did not choose the malware, meet the operator, or anticipate the full effect.
+
+Therefore preserve:
+
+```text
+COMMISSIONING
+≠
+COMPLETE OPERATIONAL CONTROL
+```
+
+and:
+
+```text
+NO COMPLETE OPERATIONAL CONTROL
+≠
+NO RELATIONSHIP OR RESPONSIBILITY
+```
+
+The evidentiary question is not merely whether money changed hands.
+
+It is what proposition the financial or procurement evidence actually supports.
+
+---
+
 ## 🪞 Historical Comparators Are Mechanisms, Not Findings
 
 Other states and cyber ecosystems can demonstrate that:
@@ -1043,6 +1114,63 @@ another state has used criminal-style cyber activity
 →
 criminal/state overlap is analytically possible
 ```
+
+### Worked Comparison — Mabna And Medusa
+
+The 18 August 2026 United States Department of Justice announcement concerning the Mabna Institute supports several specific propositions.
+
+DOJ alleges that Mabna:
+
+- conducted a long-running cyber-theft campaign;
+- worked for the IRGC and other Iranian government and university clients;
+- employed, contracted and affiliated itself with hackers-for-hire and other contract personnel;
+- and stole academic data, intellectual property and email material from a large international victim pool.
+
+For the proposition:
+
+```text
+THE UNITED STATES GOVERNMENT HAS PUBLICLY ATTRIBUTED
+SPECIFIED MABNA ACTIVITY TO IRGC-LINKED TASKING
+```
+
+the public-government-attribution status is:
+
+```text
+🟢 ESTABLISHED
+```
+
+That does not mean every allegation has been adjudicated, every operator knew the ultimate client, or every Iranian cyber incident uses the same structure.
+
+The Medusa advisory supplies the necessary competing comparison.
+
+CISA, FBI and HHS describe Medusa as a ransomware ecosystem using affiliates and initial-access brokers. That supports:
+
+```text
+BROKERS + AFFILIATES + DISTRIBUTED ACCESS
+CAN EXIST IN A CONVENTIONAL CRIMINAL ECOSYSTEM
+```
+
+It does not support:
+
+```text
+MEDUSA IS STATE-DIRECTED
+```
+
+or:
+
+```text
+AN AMBIGUOUS INCIDENT USING INTERMEDIARIES
+IS PROBABLY IRANIAN
+```
+
+The durable finding is structural:
+
+> Intermediary complexity can obscure tasking. It cannot identify the tasking by itself.
+
+- [United States Department of Justice — 17 Mabna Institute members charged](https://www.justice.gov/opa/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary)
+- [CISA, FBI and HHS — StopRansomware advisory on Medusa](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a)
+
+---
 
 not:
 
@@ -2042,6 +2170,121 @@ It is not the whole attribution.
 
 ---
 
+## 📣 Publicity And Narrative Use Need Their Own Confidence Labels
+
+The entity that compromises a system may not be the entity that decides to publicise it.
+
+The entity that publicises an operation may not be the entity that writes, approves, amplifies or benefits from the accompanying political story.
+
+Record separately:
+
+```text
+INTRUSION OPERATOR:
+PUBLICISING ACTOR:
+PUBLICITY CHANNEL:
+NARRATIVE FRAME:
+INTENDED AUDIENCE:
+AMPLIFYING NETWORK:
+CLAIMED EFFECT:
+INDEPENDENTLY ESTABLISHED EFFECT:
+```
+
+Each is a proposition requiring evidence.
+
+Microsoft has documented Iranian cyber-enabled influence operations in which opportunistic targeting, destructive activity, publicity and misleading or exaggerated effect claims interacted.
+
+That establishes the mechanism as real.
+
+It does not establish that the mechanism selected or framed a particular incident in this pack.
+
+- [Microsoft Threat Intelligence — Iranian cyber-enabled influence operations](https://www.microsoft.com/en-us/security/security-insider/threat-landscape/iran-surges-cyber-enabled-influence-operations-in-support-of-hamas)
+
+Use:
+
+```text
+NARRATIVE MECHANISM:
+🟢 ESTABLISHED AS HISTORICAL CAPABILITY
+
+USE IN THIS INCIDENT:
+⚪ OPEN
+```
+
+where that is what the evidence supports.
+
+---
+
+## 🎭 Institutional Legitimacy Is An Audience Hypothesis, Not A Victim Property
+
+The pack may test whether an actor selected or publicised targets partly because some audiences would be slower to defend them.
+
+That is a legitimate strategic hypothesis.
+
+It must not become a disguised moral score assigned by the analyst.
+
+Do not record:
+
+```text
+VICTIM LEGITIMACY:
+LOW
+```
+
+as though legitimacy were objective, universal and stable.
+
+Prefer:
+
+```text
+AUDIENCE:
+EVIDENCE OF PRE-EXISTING REPUTATIONAL CONTEST:
+RELEVANT POLITICAL FRAME:
+EVIDENCE THE ACTOR USED THAT FRAME:
+EVIDENCE OF DIFFERENTIAL SOLIDARITY:
+CONFIDENCE:
+LIMIT:
+```
+
+The proposed mechanism is:
+
+```text
+target or access selected for publicity
+→ existing grievance activated
+→ sympathy for the victim reduced
+→ collective response becomes slower or more divided
+```
+
+Call this **denial of solidarity** where the evidence supports the analytical frame.
+
+Do not infer it merely because:
+
+- the victim is a bank, fossil-fuel company, defence contractor or large technology company;
+- the organisation has faced public criticism;
+- an anti-corporate narrative is imaginable;
+- or some readers dislike the victim.
+
+Evidence that would strengthen the hypothesis includes:
+
+- actor messaging explicitly invoking the reputational grievance;
+- systematic differences between concealed and publicised victims;
+- repeated selection of targets combining strategic value with narratively useful controversy;
+- audience-specific amplification;
+- or a measurable gap between independently established effects and politically framed claims.
+
+Evidence that would weaken it includes:
+
+- no relationship between publicity choices and target reputation;
+- indiscriminate target disclosure;
+- targets with high public sympathy receiving the same narrative treatment;
+- straightforward monetisation explaining the publicity better;
+- or visible civilian harm producing immediate solidarity against the attacker.
+
+Water systems and hospitals are important constraints.
+
+They may convert an abstract geopolitical operation into direct local hostility. A hypothesis that cannot accommodate that reversal is not a useful hypothesis.
+
+- [Mandiant / Google Cloud — suspected Iranian influence operation](https://cloud.google.com/blog/topics/threat-intelligence/suspected-iranian-influence-operation)
+- [Microsoft Threat Intelligence — Iranian cyber-enabled influence operations](https://www.microsoft.com/en-us/security/security-insider/threat-landscape/iran-surges-cyber-enabled-influence-operations-in-support-of-hamas)
+
+---
+
 ## 🧱 Every Material Claim Needs A Limit
 
 Use:
@@ -2589,11 +2832,22 @@ TOOLING / INFRASTRUCTURE:
 CRIMINAL / ACCESS INTERMEDIARY:
 ACCESS BROKER:
 CONTRACTOR / PROXY:
+TASK ORIGINATOR / COMMISSIONER:
+PAYER / PROCUREMENT ROUTE:
 BUYER / CUSTOMER:
 STATE AFFILIATION:
 STATE RELATIONSHIP TYPE:
 STATE DIRECTION:
+END USER:
 FINAL BENEFICIARY:
+
+PUBLICISING ACTOR:
+PUBLICITY CHANNEL:
+NARRATIVE FRAME:
+INTENDED AUDIENCE:
+CLAIMED EFFECT:
+INDEPENDENTLY ESTABLISHED EFFECT:
+EVIDENCE OF DIFFERENTIAL SOLIDARITY:
 
 PUBLIC GOVERNMENT ATTRIBUTION:
 INTERNAL / INTELLIGENCE POSITION:
@@ -2733,12 +2987,32 @@ Examples include:
 - no service interruption;
 - no lateral movement detected;
 - no shared infrastructure identified;
+- no public evidence of a state customer or commissioner;
+- monetisation behaviour fitting ordinary cybercrime more strongly than strategic tasking;
+- no evidence that the actor used an available political narrative;
+- no demonstrated relationship between target reputation and publicity choice;
 - a proposed attribution specifically ruled out;
 - or a claimed effect disproved.
 
 A negative finding can narrow the hypothesis space.
 
 It should not disappear merely because it is less dramatic.
+
+Record the source and scope of the negative finding.
+
+```text
+NO PUBLIC EVIDENCE FOUND
+```
+
+means that the reviewed public record did not establish the proposition by the evidence cutoff.
+
+It does not mean:
+
+```text
+THE RELATIONSHIP DOES NOT EXIST
+```
+
+Where criminal sale, extortion or access-broker behaviour provides a stronger positive explanation, say that separately. A stronger rival explanation is more informative than a decorative absence.
 
 ---
 
@@ -3006,11 +3280,25 @@ separate effect from attribution
 ↓
 separate operator from intermediary
 ↓
-separate intermediary from customer
+separate intermediary from commissioner
 ↓
-separate customer from beneficiary
+separate commissioner from payer
+↓
+separate payer from customer
+↓
+separate customer from end user
+↓
+separate end user from beneficiary
 ↓
 separate state affiliation from state direction
+↓
+separate intrusion from publicity
+↓
+separate publicity from narrative authorship
+↓
+separate narrative availability from evidenced narrative use
+↓
+identify the audience before assessing differential solidarity
 ↓
 separate attribution from relationship confidence
 ↓
@@ -3063,7 +3351,7 @@ That is the discipline.
 
 ## ✨ Stardust
 
-cyber attribution, confidence labels, source provenance, corroboration, traffic lights, pattern recognition, proxy operations, evidentiary limits, review status
+cyber attribution, confidence labels, source provenance, commissioning chains, contractor ecosystems, cyber-enabled influence, audience analysis, pattern recognition, evidentiary limits, review status
 
 ---
 
@@ -3088,4 +3376,4 @@ It defines the evidentiary, provenance, confidence, relationship, attribution, c
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-19_
