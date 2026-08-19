@@ -1,6 +1,6 @@
 # 🦠 AI UK Due Diligence & Autoimmunity Map
 
-**First created:** 2026-05-08 \| **Last updated:** 2026-08-19\
+**First created:** 2026-05-08 | **Last updated:** 2026-08-19  
 *AI infrastructure, inherited behavioural patterns, and the limits of
 piecemeal sovereignty in highly networked systems.*
 
@@ -388,11 +388,11 @@ that increasingly shape digital public life.
 >
 > 🏮 Return To:
 >
-> -   [👑 Ownership & Control](./README.md)
-> -   [🌀 Systems & Governance](../README.md)\
-> -   [🧠 Big Picture Protocols](../../README.md)
-> -   [🪄 Disruption Kit](../../../README.md)
-> -   [🌌 Polaris Protocol - Root](../../../../README.md)
+> - [👑 Ownership & Control](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
