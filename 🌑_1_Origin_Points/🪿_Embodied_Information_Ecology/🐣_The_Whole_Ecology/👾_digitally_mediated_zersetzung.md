@@ -352,6 +352,140 @@ Digitally mediated Zersetzung therefore asks us to investigate both **command** 
 
 ---
 
+## 🧮 Nobody Audits the Composite
+
+One of the central governance problems in digitally mediated Zersetzung is the difference between **auditing a processing activity** and **auditing the cumulative condition produced around a person**.
+
+Modern data-governance systems are not devoid of audit. Data protection law, DPIAs, records of processing, information-governance controls, algorithmic transparency standards, internal audit, sectoral regulators and judicial review all provide forms of scrutiny. In the UK, the Information Commissioner’s Office explicitly frames DPIAs as processes for systematically identifying and minimising the data-protection risks of a **project or plan**, while its audit framework examines organisational compliance across areas such as lawful basis, data sharing, records, security and risk management. The UK Algorithmic Transparency Recording Standard similarly requires public bodies within scope to record individual algorithmic tools, their uses, associated risks, mitigations and relevant impact assessments.
+
+These are meaningful safeguards.
+
+They nevertheless reveal a possible **unit-of-analysis problem**.
+
+The thing being audited is commonly a processing operation, project, tool, organisation, decision pathway or defined risk. The person may encounter many such systems simultaneously or sequentially. If the important harm exists primarily in the **interaction between them**, each component can appear tolerable in isolation while their cumulative output becomes intolerable.
+
+This is a research proposition, not a claim that existing audit systems never consider cumulative effects. The question is whether governance structures reliably identify harms that are **distributed across organisational, technical and legal boundaries** and therefore belong wholly to no single controller, platform, regulator, department or audit mandate.
+
+### Formal status can survive functional collapse
+
+A particularly important consequence is that formal-status indicators can remain apparently normal while practical freedom deteriorates.
+
+```text
+formal record                    functional condition
+-------------                    --------------------
+free                             unable to participate normally
+housed                            effectively confined to the home
+connected                        relationships difficult to sustain
+entitled to services             access repeatedly fails or exhausts
+employed / employable            professional functioning degraded
+able to complain                 correction consumes available capacity
+visible to institutions          progressively less legible as a person
+```
+
+The point is not that every discrepancy is caused by data processing. Illness, poverty, discrimination, inaccessible environments, ordinary institutional failure and many other processes can produce similar gaps. The analytic question is narrower: **when digitally mediated decisions or informational states contribute materially to the discrepancy, where is the cumulative effect audited?**
+
+A system may therefore correctly record a series of nouns while failing to test the verbs.
+
+```text
+home          → can the person leave and return safely?
+account       → can the person actually communicate?
+entitlement   → can the person successfully obtain the service?
+complaint     → can an error be corrected before its consequences propagate?
+relationship → can trust and contact actually be maintained?
+legal liberty → can the person exercise meaningful freedom in practice?
+```
+
+This produces the possibility of **formal-status preservation alongside catastrophic functional loss**.
+
+For digitally mediated Zersetzung, that distinction is crucial. A person does not need to be formally excluded from society for the practical conditions of participation to be progressively dismantled. Nor does a database need to contain the field `incarcerated = true` for somebody’s available life-space to become radically constricted.
+
+### The person-shaped output
+
+Consider a simplified multi-system sequence:
+
+```text
+System A produces an adverse classification
+        ↓
+System B relies on information derived from A
+        ↓
+Organisation C observes the consequences produced by A + B
+        ↓
+C interprets those consequences as new information about the person
+        ↓
+System D incorporates C's assessment
+        ↓
+access / opportunity / trust decreases
+        ↓
+the person spends increasing resources contesting A–D
+        ↓
+exhaustion, withdrawal, reduced participation
+        ↓
+those changes become further observable signals
+        ↺
+```
+
+A may be auditable. B may be auditable. C may be acting within its own procedures. D may possess a lawful basis for processing. None of those facts answers the system-level question:
+
+> **What condition has the interaction between A, B, C and D produced around the human being?**
+
+This is the **person-shaped output** problem.
+
+The phrase is intentionally awkward. It resists a common abstraction in which institutions can account meticulously for databases, systems, purposes and decisions while the cumulative human configuration becomes nobody's explicit object of governance.
+
+### Local correctness does not guarantee global safety
+
+Cybernetically, this resembles a familiar systems problem: properties of the whole cannot always be inferred from properties of the components.
+
+A locally defensible decision can contribute to a globally destructive trajectory. Several organisations can each possess internally coherent reasons for action while the interaction between their outputs produces escalating exclusion. Conversely, one erroneous upstream signal can be repeatedly consumed downstream until **propagation acquires the appearance of corroboration**.
+
+This means audit has at least two possible levels:
+
+1. **component audit** — was this processing, tool, disclosure, decision or policy lawful, accurate, proportionate, secure and procedurally fair?
+2. **composite audit** — what cumulative condition has the interaction of consequential systems produced for the affected person or population?
+
+The first is indispensable. It does not automatically answer the second.
+
+### Why this matters for Zersetzung-like effects
+
+Historical Zersetzung solved the integration problem organisationally: the MfS could observe different parts of the target's life and deliberately combine measures.
+
+Digitally mediated environments create another possibility. Integration can occur **through data propagation, institutional coupling and feedback**, even where responsibility remains fragmented.
+
+That gives rise to a disturbing but testable hypothesis:
+
+> **A contemporary system may reproduce some functional properties of integrated repression while preserving fragmented accountability.**
+
+The stronger version of this claim requires evidence. Researchers would need to establish the relevant data flows, consequential reliance, temporal sequence, mechanisms of propagation and availability or failure of correction. Functional similarity alone cannot establish deliberate repression.
+
+But neither should the absence of a central command structure end the inquiry. If governance only asks which component individually caused the final condition, distributed harms may remain permanently below the threshold of recognition.
+
+### Audit questions for the composite
+
+A composite-impact review would ask questions conventional incident-by-incident review may not:
+
+- What consequential information about this person is circulating across systems, and what is its provenance?
+- Which organisations or tools have relied on outputs produced elsewhere?
+- Has the same underlying allegation, classification or inference been independently verified, or merely repeated?
+- Do corrections propagate as effectively as adverse information?
+- Have technically separate decisions produced a common functional effect on access, mobility, work, relationships, communication or care?
+- Is contesting one process creating adverse signals or burdens in another?
+- Has cumulative administrative work itself become materially disabling?
+- Are apparent indicators of instability partly downstream products of previous interventions?
+- Which institution, if any, has responsibility for assessing the **whole trajectory** rather than its own event?
+- Is there a route to repair the downstream environment after an upstream record is corrected?
+
+The final question is especially important.
+
+Deleting or correcting a source record may not undo decisions already made from it. A meaningful remedy may therefore require **propagated correction**, downstream notification, reconsideration of consequential decisions, and assessment of the social or material environment that the original information helped create.
+
+In other words:
+
+> **repairing the datum is not always the same thing as repairing the damage.**
+
+This turns the audit problem into a direct bridge between digitally mediated Zersetzung, data governance, administrative justice and rehabilitated technology.
+
+---
+
 ## 🛡️ Democratic Relevance
 
 The concept is not useful only for analysing formally authoritarian states.
@@ -400,6 +534,10 @@ Questions for development include:
 10. At what point does functional disintegration approach the conditions described in social-death literature?
 11. Which democratic oversight bodies are structurally capable of seeing cumulative effects that cross organisational mandates?
 12. What forms of remedy can restore not merely an individual record, but the **downstream environment created by that record**?
+13. Who audits the composite when consequential processing spans multiple controllers, contractors, platforms or public bodies?
+14. How can governance distinguish nominal availability of liberty, services or connection from their practical usability?
+15. What methodology could measure the **person-shaped output** of interacting data processes without creating another intrusive surveillance layer?
+16. When an upstream record is corrected, what obligations should exist to identify and repair downstream consequential reliance?
 
 ---
 
@@ -430,6 +568,15 @@ Questions for development include:
 
 - **Hager, Anselm, and Krzysztof Krakowski.** “Does State Repression Spark Protests? Evidence from Secret Police Surveillance in Communist Poland.” *American Political Science Review* 116(2) (2022): 564–579. Uses formerly classified surveillance data to examine the effects of surveillance on resistance and behaviour.
 - **Deibert, Ronald J.** Work on the political consequences of commercial surveillance and targeted digital intrusion, including Citizen Lab's research programme, provides important evidence for the connection between digital compromise, civil society and coercive power.
+
+### Data governance, audit and algorithmic accountability
+
+- **Information Commissioner's Office (ICO).** *Data Protection Audit Framework.* Organisational audit framework covering accountability measures including records of processing and lawful basis, contracts and data sharing, risks and DPIAs, records management, security, and breach response. Useful here as evidence of the established strength—and bounded organisational structure—of contemporary data-protection accountability.
+- **Information Commissioner's Office (ICO).** *What is a DPIA?* Defines a DPIA as a process for systematically analysing, identifying and minimising the data-protection risks of a project or plan. This is a primary reference for the distinction developed in this node between project/process-level assessment and the proposed problem of cross-system cumulative impact.
+- **UK Government / Department for Science, Innovation and Technology.** *Algorithmic Transparency Recording Standard (ATRS), version 2.1* and accompanying guidance. Requires disclosure of information about individual algorithmic tools, including uses, risks, mitigations and impact assessments. Useful for examining contemporary attempts to make consequential public-sector algorithmic systems visible and auditable.
+- **European Data Protection Board (EDPB).** Guidance and templates concerning Data Protection Impact Assessments under Article 35 GDPR. Establishes high-risk processing, systematic evaluation, profiling and significant effects as recognised subjects of data-protection risk assessment.
+
+**Polaris research proposition:** these frameworks establish substantial component- and processing-level accountability. They do not, by themselves, establish that a reliable governance mechanism exists for reconstructing the cumulative *person-shaped output* produced when multiple lawful or separately governed systems interact across institutional boundaries. That proposition requires further comparative research.
 
 ### Social death
 
