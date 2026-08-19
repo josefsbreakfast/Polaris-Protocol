@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-19 00:07:31 UTC_
+_Generated on 2026-08-19 00:33:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1492,6 +1492,7 @@ _Generated on 2026-08-19 00:07:31 UTC_
         - [`🩸_jura_sanguinis_et_soli_protofascism_risk.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/🛟_Borders_Boats_Walls/🩸_jura_sanguinis_et_soli_protofascism_risk.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/notes.txt)
+      - [`👾_digitally_mediated_zersetzung.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/👾_digitally_mediated_zersetzung.md)
     - [**🕸️_Information_Environments/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/.🌱_Still_Growing/notes.txt)
