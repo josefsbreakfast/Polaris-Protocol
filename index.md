@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-19 17:01:26 UTC_
+_Generated on 2026-08-19 21:43:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1493,6 +1493,7 @@ _Generated on 2026-08-19 17:01:26 UTC_
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/notes.txt)
       - [`👾_digitally_mediated_zersetzung.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/👾_digitally_mediated_zersetzung.md)
+      - [`🦎_the_human_tamagotchi_effect.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/🦎_the_human_tamagotchi_effect.md)
     - [**🕸️_Information_Environments/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/.🌱_Still_Growing/notes.txt)
