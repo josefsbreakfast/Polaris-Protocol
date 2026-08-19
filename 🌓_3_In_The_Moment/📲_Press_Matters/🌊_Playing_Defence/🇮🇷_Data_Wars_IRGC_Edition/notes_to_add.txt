@@ -1,40 +1,612 @@
-update 2026-08-16 am:  
+DATA WARS: IRGC EDITION — PLANNED CONTENT, ANALYSIS AND UPDATES
+Prepared: 2026-08-19
+Target folder: 🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/
 
-There is one credible new development worth adding.
+PURPOSE
 
-🇫🇷 France — government administration / national tax infrastructure. France’s Finance Ministry confirmed on 13–14 August 2026 that an attacker breached the Directorate General of Public Finances (DGFiP), the national tax authority, and extracted taxpayer data. The intrusion itself occurred in late June but only became public after an actor using the name ZeroBytes advertised stolen material on a cybercrime forum on 12 August. French authorities say access was terminated during a routine check in June, but they did not initially detect the data exfiltration.  
+This is the working editorial plan for the next pack-wide update.
 
-The operational effect is currently confidentiality loss rather than demonstrated service disruption. More than 600,000 detailed taxpayer/business records appear in the material offered for sale; reporting describes addresses, phone numbers, income information, tax rates and household information among the exposed fields. The attacker has claimed much broader access and continuing access to other DGFiP systems, but those claims have not been independently established.  
+It records:
 
-Attribution confidence: 🟠 probable financially motivated criminal intrusion; state sponsorship ⚪ open but unsupported. The attacker openly offered the database for sale, reportedly described use of stolen credentials and an MFA bypass, and offered access to the compromised environment. That provides a straightforward cybercriminal explanation. There is presently no public evidence connecting the operation to Iran, the IRGC, an Iranian proxy, or wartime tasking.  
+- genuinely new developments to add;
+- analytical arguments to distribute across the existing nodes;
+- timeline, CSV and XLSX changes that must stay synchronised;
+- sources requiring verification or canonicalisation;
+- cross-links and README changes;
+- claims that must remain hypotheses rather than findings;
+- material already present that should be refined rather than duplicated.
 
-Methodologically, it overlaps with techniques Iranian actors also use—particularly credential theft, identity abuse, VPN access and exploitation of weak authentication—but those techniques are far too generic to carry attribution weight. CISA’s established Iranian reporting documents brute-force and credential-access operations, so the method fits but the victimology + monetisation behaviour currently fit ordinary criminal intrusion better.  
+The pack’s existing evidentiary discipline remains controlling:
 
-The more interesting pattern change is on the French side. This is not an isolated French-government compromise: Le Monde notes a February breach involving the database of bank accounts opened in France and a 31 July Education Ministry disclosure affecting a significant number of employees. That creates a developing French public-administration exposure cluster, although there is currently no evidence that the incidents share an operator or sponsor.  
+incident
+≠ effect
+≠ operator
+≠ customer
+≠ state relationship
+≠ common campaign
+≠ legal conclusion
 
-Since 28 February 2026, I would therefore update the picture this way:
 
-IRAN-RELEVANT DISRUPTION
-water / OT
-→ repeated operational effects
-→ Iranian-linked assessment remains plausible and materially distinct
-PUBLIC-ADMINISTRATION EXPOSURE
-US municipalities → ransomware / service disruption
-France → repeated government data compromise
-→ increasing pattern confidence
-→ common sponsor NOT established
-CRIMINAL / SHARED-VULNERABILITY ACTIVITY
-Cl0p / enterprise platforms / extortion
-→ substantial cross-sector reach
-→ currently stronger criminal explanation
-COMMON IRANIAN CAMPAIGN
-→ still not supported across the whole incident set
+============================================================
+1. PRIORITY UPDATE STREAMS
+============================================================
 
-The French breach therefore widens the wartime attack-surface pattern without strengthening Iranian attribution. The U.S. water/OT line remains the anomaly with the strongest combination of physical effects, repeated technique, strategic timing and prior Iranian-linked precedent. CISA’s July advisory still explicitly describes Iranian-affiliated actors targeting internet-exposed PLCs with disruptive intent.  
+PRIORITY A — NEW CORE / ADJACENT / CONTEXT RECORDS
 
-I found no newer credible water, energy, defence, transport, telecom, healthcare or systemically important banking incident published on 15–16 August that clears the notification threshold.
+1. France: DGFiP / national tax-authority data breach
 
----
+- Date of intrusion: late June 2026.
+- Public disclosure / criminal advertisement: 12–14 August 2026.
+- Affected function: national tax administration and taxpayer/business records.
+- Demonstrated effect: confidentiality loss; no demonstrated tax-service outage.
+- Publicly supported scale: more than 600,000 detailed records reported; preserve the distinction between supported scale and the actor’s broader claims.
+- Claimed actor / seller: ZeroBytes.
+- Leading explanation: financially motivated criminal intrusion.
+- Iran / IRGC relationship: no public evidence found; open but unsupported.
+- Pack treatment: likely Core because a national public-administration system was compromised, while explicitly recording that inclusion does not strengthen Iranian attribution.
+- Pattern use: add to the developing French public-administration exposure cluster without claiming a common operator or sponsor.
 
-updates 2025-08-19:  
+2. Canada: Health Sciences Centre Winnipeg / CancerCare Manitoba ransomware
 
+- Discovery date: 10 August 2026.
+- Material update by 17 August: facilities-maintenance network remained affected.
+- Affected physical-support systems: central HVAC monitoring and ID-card / physical-access administration.
+- Operational position: systems continued under local monitoring; clinical care reportedly unaffected.
+- Data position: no initial indication that personal health or financial information was accessed, subject to later correction.
+- Leading explanation: criminal ransomware.
+- Specific operator / sponsor: open.
+- Iran / IRGC relationship: no public evidence found.
+- Pack treatment: Core or carefully labelled Adjacent/Core boundary record because the incident reached hospital facility-management and physical-access systems, not merely office IT.
+- Pattern use: strengthens the cross-sector cyber-to-physical exposure finding while weakening any lazy inference that cyber-to-physical effects imply a common Iranian sponsor.
+
+3. Connecticut: water-sector preparedness and inventory gap
+
+- Date: 17 August 2026 disclosure.
+- Connecticut reported no attempted or successful local attacks.
+- The state intelligence centre circulated indicators and mitigation advice to utilities.
+- State officials reportedly could not enumerate how many water systems used the exposed PLC equipment because no component-level inventory existed.
+- Pack treatment: Context, not a cyber incident.
+- Analytical use: resilience and asset-inventory failure; defending exposed OT is harder when the state cannot readily identify where it is installed.
+- Attribution use: a state official’s Iran-linked assessment is a proposition about official position, not a new formal attribution of the whole campaign.
+
+4. Mabna Institute: 18 August DOJ attribution development
+
+- Treat as a Context / Attribution Development record, not a newly launched wartime incident.
+- Record that the underlying campaign dates back to at least 2013.
+- Record the newly unsealed superseding indictment and the expanded public charging / attribution action.
+- Preserve DOJ’s stated victim counts and 31 TB figure only after checking the primary document directly.
+- Operational character: espionage, credential theft and acquisition of academic data / intellectual property, not service outage or physical disruption.
+- Attribution proposition: DOJ attributes part of the campaign to work conducted on behalf of the IRGC.
+- Structural significance: public evidence for a blended ecosystem containing state requirements, contractor/intermediary structures, employees, contractors and hackers-for-hire.
+- Limit: this strengthens confidence that Iran has used contractor-mediated operations. It does not upgrade Cl0p, Medusa, municipal ransomware, hospital ransomware, French administration breaches, port/logistics events or the US water wave to Iranian attribution.
+
+5. Medusa advisory update
+
+- Date: 18 August 2026.
+- Treat as Context / competing-explanation evidence rather than a new pack incident unless a separately qualifying incident is identified.
+- Add the CISA/FBI/HHS discussion of affiliate structures and initial-access brokers.
+- Analytical use: distributed operators, brokers and intermediaries occur in conventional ransomware markets too.
+- Governing inference: organisational complexity may obscure attribution, but complexity is not evidence of state sponsorship.
+
+
+PRIORITY B — NEW ANALYTICAL MODEL: CORPORATE LEGITIMACY AS ATTACK SURFACE
+
+Working hypothesis:
+
+Iran does not need Western publics to admire the Iranian state. It may benefit if target selection and narrative framing reduce the solidarity available to the victim.
+
+Core formulation:
+
+technical access
+→ target selection
+→ decision to conceal, exploit or publicise
+→ narrative framing
+→ differential public sympathy
+→ political effect
+
+Key concepts to add:
+
+- “Denial of solidarity” rather than conversion to pro-Iranian sentiment.
+- Corporate legitimacy is unevenly distributed.
+- Fossil-fuel, defence, surveillance, monopoly, private-equity, tax, labour, healthcare-cost or Palestine-related reputational baggage may change the political cost of attacking or embarrassing an institution.
+- This does not legitimise the attack. It changes the anticipated audience response.
+- The strategically useful reaction may be neither support nor approval, but hesitation: “cyberattacks are bad, but…”.
+- Iranian information operations already provide a mechanism comparator: cyber activity, hacktivist identities, amplification and narrative effects can be used together.
+- Opportunistic access and strategic victimology can coexist: acquire access broadly, then decide which access to exploit, retain, sell, destroy or publicise.
+- Publicity selection matters as much as intrusion selection. The actor may publicise socially unsympathetic victims while concealing access that would provoke immediate civilian hostility.
+
+Testable dataset questions:
+
+- How socially sympathetic is the affected institution to the relevant audience?
+- Was the operation publicised, concealed or discovered by the victim?
+- Who publicised it?
+- What political narrative accompanied the disclosure or claim?
+- Was an Israel/Palestine, anti-corporate, anti-war, anti-surveillance or anti-elite narrative available?
+- Did the actor claim more damage than independent evidence established?
+- Did the operation produce physical harm or obvious civilian suffering?
+- Did the target combine high strategic value with low public sympathy?
+- Which audience appears to have been addressed?
+- Did target legitimacy affect official, media or public willingness to rally around the victim?
+
+Important falsifiers / constraints:
+
+- Water, hospitals, emergency communications and visible harm to children can destroy the solidarity-denial advantage and produce direct hostility toward the attacker.
+- If Iran-linked targeting does not cluster by legitimacy, publicity choice or narrative compatibility, the hypothesis weakens.
+- A socially unpopular victim does not establish strategic selection.
+- Presence on a boycott list does not establish Iranian tasking.
+- Genuine Western grievances can be exploited without being invented by Iran.
+- Iran’s repression of Iranians and domestic internet shutdowns remain relevant context; accurate identification of Western grievances does not make the Iranian state benign.
+
+
+PRIORITY C — COMMISSIONING CHAINS, MONEY AND RISK EXTERNALISATION
+
+Principal teaching model:
+
+someone wants an outcome
+→ money, access or tasking changes hands
+→ an intermediary chooses a method
+→ an access broker or subcontractor may enter
+→ an operator acts
+→ effects travel beyond the original brief
+→ responsibility becomes diffuse
+
+Add the following distinctions:
+
+- Commissioning does not imply operational control.
+- Intended outcome is not the same as foreseeable ecosystem support.
+- A legitimate-looking commission can finance wages, tooling, infrastructure, training, access inventories and relationships later used for other customers or crimes.
+- A contractor can serve state, corporate, university, political and criminal demand without those categories forming a clean organisational membrane.
+- Financial relationships may reveal who generated demand, who paid, what outcome was valued, when access was purchased, whether several customers existed, and who benefits from maintaining the capability.
+- “Follow the money” is part of the control diagram, not a grubby appendix to the technical story.
+
+Risk-governance formulation:
+
+visible organisational risk may fall
+
+while
+
+operator autonomy rises
+criminal capability rises
+information leakage rises
+secondary-market access rises
+downstream harm rises
+accountability distance rises
+
+Name this as risk externalisation or risk displacement through delegation.
+
+Add the selective-impunity feedback loop:
+
+use questionable capability
+→ capability creates wider harm
+→ investigation threatens to expose the original purchaser
+→ incentives favour under-enforcement, compartmentalisation or minimisation
+→ ecosystem gains relative impunity
+→ capability becomes easier to buy
+→ more customers use it
+
+Working principle:
+
+Selective impunity changes the market price of misconduct.
+
+Comparative material:
+
+- Mabna as the Iran-specific public-evidence anchor.
+- Medusa / ransomware affiliate markets as the necessary non-state comparator.
+- I-Soon as a comparative contractor-market case, clearly labelled Chinese and non-Iranian.
+- “Move fast and break things” as a cultural comparator: when migrated from one’s own software into intelligence, policing, political conflict, cybersecurity or reputation management, the thing broken is somebody else’s infrastructure, rights, safety or life.
+
+Do not overstate:
+
+- A payment does not automatically prove state direction.
+- Use of an intermediary does not automatically prove concealment.
+- A commissioner may genuinely not have intended downstream offences.
+- Lack of intent does not automatically eliminate foreseeability, ecosystem support or governance responsibility.
+
+
+PRIORITY D — HORMUZ, WATER RISK AND RHETORICAL CORNER-BUILDING
+
+Most of this material is already present. Refine and connect it; do not duplicate it wholesale.
+
+Preserve these propositions separately:
+
+- Trump publicly asserted US control of the Strait of Hormuz.
+- Trump publicly said he would declare the strait US territory.
+- Subsequent reporting attributed a “joke” explanation to an unnamed White House official.
+- The reported joke explanation weakens the claim that a developed annexation policy existed.
+- It is not a presidential retraction and does not erase the information effect of the original statement.
+
+Analytical addition:
+
+- “Rhetorical corner-building”: public sovereignty claims can turn a navigation/security negotiation into a contest over ownership, humiliation and surrender.
+- The language may narrow compromise space while revealing the form of “victory” the US president wants to claim.
+- Iranian negotiators may distinguish non-negotiable Iranian sovereignty from negotiable international navigation or security guarantees, creating a face-saving exit without conceding territory.
+- The rhetoric supplies Iran with an anti-colonial narrative whether or not it becomes policy.
+
+Water-risk governance addition:
+
+- Keep two explicit conditionals: if the water incidents are ultimately established as Iranian retaliation, and if the administration knowingly accepted increased domestic infrastructure risk while escalating over Hormuz.
+- Do not compress those conditions into “Trump knowingly chose attacks on American water systems.”
+- Ask instead: what civilian consequences were foreseeable, what mitigations were available, and how much additional domestic risk was accepted in pursuit of war aims?
+- Contrast symbolic sovereignty at the top with pumps, pressure, drinking water and local operators at the bottom.
+- This governance question remains relevant even if the final operator attribution changes.
+
+
+============================================================
+2. NODE-BY-NODE EDITORIAL PLAN
+============================================================
+
+README.md
+
+- Update Last updated to 2026-08-19 after the pack pass.
+- Update the record count and XLSX/CSV description after new rows are added.
+- Add France DGFiP, Manitoba healthcare facilities, Connecticut preparedness and Mabna attribution development to the current pack picture.
+- Add the legitimacy / denial-of-solidarity hypothesis as an explicitly testable analytical line, not a pack finding.
+- Add commissioning chain / financial relationship as part of the attribution stack.
+- Expand the ecosystem summary to distinguish Iran-linked contractor evidence from criminal affiliate-market evidence.
+- Update Pack Map summaries only where node functions materially change.
+- Update cross-domain evidence trail and sources list.
+- Preserve the existing Hormuz correction; add rhetorical corner-building and domestic-risk pricing in compact form.
+- Ensure the README does not imply that every newly added incident is Iran-related merely because it sits in this pack.
+
+🧭_what_this_pack_is_tracking.md
+
+- Add “publicity choice / narrative use” to the tracking perimeter.
+- Add the new legitimacy and audience fields as optional analytical fields.
+- Add commissioning-chain questions: who generated demand, who paid, who selected the objective, who acquired access, who operated, who used the result?
+- Add the distinction between incident inclusion and Iran-attribution contribution.
+- Add France, Manitoba and Connecticut as worked routing examples: Core, Core/boundary, and Context respectively.
+- Add Mabna as an attribution-development example rather than a new wartime attack.
+- Extend the negative-findings rule so that “no public Iran evidence” is preserved as useful information.
+
+⏱️_timeline_of_essential_infrastructure_attacks.md
+
+- Add dated entries for France DGFiP, Manitoba HSC/CancerCare, Connecticut preparedness, Mabna indictment and the Medusa advisory update.
+- Decide and state whether Manitoba enters as Core or Adjacent; use the same decision everywhere.
+- Add a short pattern update through 18–19 August.
+- Add a new subsection on the difference between cross-sector cyber-to-physical recurrence and common sponsorship.
+- Add a commissioning-chain / customer-use field to the new-entry template if it is not already adequately captured.
+- Add publicity/narrative and victim-legitimacy fields as optional hypothesis-testing fields, not compulsory factual classifications.
+- Propagate source, review, confidence and negative-finding changes.
+- Do not rewrite historical attribution; append changes visibly.
+
+📊_iran_war_essential_infrastructure_cyber_timeline.csv
+
+- Add rows matching every new timeline record.
+- Preserve all 40 existing fields and field order.
+- Use separate rows where one date contains an incident and a later attribution/context development.
+- Add “no public Iran evidence” to the appropriate negative-findings / attribution fields for France and Manitoba.
+- Record Connecticut as Context with no local incident.
+- Record Mabna as Attribution Development / Context with historical campaign dates preserved.
+- Review whether the new legitimacy/publicity questions require new columns. Prefer optional columns only if they can be coded consistently; otherwise keep them in a separate Pattern Watch sheet or future schema proposal.
+- Remove tracking parameters from source URLs where canonical URLs are available.
+
+📊_iran_war_essential_infrastructure_cyber_timeline.xlsx
+
+- Rebuild from the final CSV so both files contain identical records and field values.
+- Update formula ranges, counts, validation lists, filters and frozen panes.
+- Update summary totals and pattern-status counts.
+- Add or extend Pattern Watch to cover:
+  - cyber-to-physical exposure across different threat ecosystems;
+  - contractor/intermediary evidence;
+  - criminal affiliate/broker competing explanations;
+  - publicity/narrative selection;
+  - target legitimacy / denial-of-solidarity hypothesis;
+  - asset-inventory and manual-fallback resilience gaps.
+- Update Method & Scope with the new hypothesis limits.
+- Verify that formulas recalculate and no cached summary remains at 25 records.
+
+📚_sources_and_evidence_register.md
+
+- Add canonical primary and independent sources for France DGFiP.
+- Add Shared Health as the primary source for Manitoba, plus independent local reporting for operational context.
+- Add Connecticut reporting as a context/resilience source.
+- Add the DOJ Mabna indictment/press release as the primary attribution source.
+- Add the CISA/FBI/HHS Medusa advisory as the primary criminal-ecosystem comparator.
+- Add Mandiant/Google Cloud and Microsoft material for Iranian influence/cyber-enabled narrative mechanisms.
+- Add CSIS only as analysis, not as a substitute for primary attribution evidence.
+- Add the I-Soon/AP comparator under a clearly separated comparative-evidence heading.
+- Add Iran internet-shutdown research only if the final legitimacy section uses it.
+- Canonicalise all URLs and remove utm_source=chatgpt.com.
+- Remove duplicate note-derived citations and record dependent republications as dependent.
+- Check every source against the claim it is being asked to support.
+
+🧬_one_war_many_threat_ecosystems.md
+
+- Add France public administration as a new ecosystem or extend the government-administration ecosystem.
+- Add Manitoba to healthcare ransomware, with facility-management / physical-support depth recorded.
+- Add Mabna as a confirmed Iranian contractor-mediated espionage ecosystem distinct from the water/OT ecosystem.
+- Add Medusa as a criminal affiliate/broker comparator.
+- Make the structural point that similar intermediary architecture can appear in state-tasked and purely criminal ecosystems.
+- Add the rule: shared organisational complexity does not establish a shared sponsor.
+- Update Current Assessment and ecosystem map.
+
+🧅_the_operator_may_not_know_the_customer.md
+
+- Make this the principal in-pack home for the commissioning chain.
+- Add Mabna as a concrete Iran-specific case of mixed clients, contractor structures and IRGC-linked tasking.
+- Add Medusa as the counterexample showing brokers/affiliates without demonstrated state sponsorship.
+- Add “the commissioner may not control the method” alongside “the operator may not know the customer.”
+- Add intended outcome versus foreseeable ecosystem support.
+- Add financial questions to the evidence checklist.
+- Add risk externalisation through delegation.
+- Preserve the possibility that the customer enters after the original breach.
+- Avoid importing the full external Polaris theory branch into this node; keep the treatment tied to cyber tasking and access markets.
+
+🌊_riding_every_wave.md
+
+- Add Mabna and Medusa to the worked ecosystem comparison.
+- Distinguish state requirement, state-linked contractor work, aligned opportunism, criminal affiliate activity and background crime.
+- Add the possibility that broad opportunistic access is later strategically selected for exploitation or publicity.
+- Add publicity as a later-stage wave: intrusion and narrative use may have different organisers.
+- Add the legitimacy hypothesis as one possible selection mechanism, clearly labelled for testing.
+- Update the mid-August wave assessment through 18 August.
+
+🕸️_attribution_is_not_a_light_switch.md
+
+- Add the Mabna development to the live attribution record.
+- Show why a confirmed historical contractor model raises confidence in the existence of that model without attributing unrelated current incidents.
+- Add customer, commissioner, payer and end-user propositions as separate attribution objects.
+- Add Medusa to the rival-explanation architecture.
+- Add the rule that contractor complexity can support several incompatible explanations.
+- Update sources and the working rule if necessary.
+
+🔎_confidence_labels_and_source_rules.md
+
+- Add a worked example using Mabna versus Medusa:
+  - confirmed government attribution for a specified Mabna campaign;
+  - confirmed affiliate/broker model for Medusa;
+  - no inference from either structure to unrelated incidents.
+- Add confidence fields for commissioner/payer/end user if not already sufficiently represented.
+- Add publicity/narrative claims to the proposition-specific confidence framework.
+- Add target-legitimacy coding cautions: legitimacy is audience-dependent, time-dependent and not a factual property of the victim.
+- Add negative findings for “monetisation behaviour fits crime better” and “no public state-tasking evidence.”
+- Keep source hierarchy and provenance rules unchanged except for examples.
+
+📰_how_to_report_without_overclaiming.md
+
+- Add a newsroom example for France: national tax data breach with criminal sale behaviour; no Iran evidence.
+- Add a Manitoba example separating hospital clinical continuity from facility-management disruption.
+- Add a Mabna example distinguishing historical campaign activity from a new wartime attack.
+- Add language for commissioning chains: “worked for,” “on behalf of,” “contracted by,” “benefited,” “directed” and “controlled” are not synonyms.
+- Add a short section on reporting audience/legitimacy hypotheses without converting them into motive findings.
+- Preserve and lightly refine the existing Hormuz joke/retraction example rather than creating another duplicate section.
+
+🚰_when_cyber_reaches_the_machinery.md
+
+- Add Manitoba as a cross-sector example: facility HVAC monitoring and physical-access administration reached by ransomware, with clinical systems reportedly unaffected.
+- Use it to separate loss of central monitoring from loss of local control.
+- Add Connecticut’s inability to enumerate exposed PLC deployments as an asset-inventory problem.
+- Add “cannot inventory the machinery” to the resilience / remote-access / old-equipment analysis.
+- Do not imply that Manitoba shares the water campaign’s operator or sponsor.
+- Update cyber-to-physical pattern language: repeated structural exposure, heterogeneous threat ecosystems.
+
+🏥_health_education_and_admin_are_not_soft_extras.md
+
+- Add a Manitoba worked section or extend the healthcare case material.
+- Separate clinical care, facility management, HVAC monitoring, ID-card issuance, physical access and data confidentiality.
+- Add France DGFiP under administration/data integrity/confidentiality, not health.
+- Add Mabna under education and research/IP espionage, making clear the campaign is historical and the attribution development is new.
+- Add recovery clocks for facility systems, identity/access systems, clinical continuity and person-centred consequences.
+- Add Medusa’s public-sector/hospital exposure as context, not automatic linkage to Manitoba.
+
+🏗️_what_counts_as_state_infrastructure.md
+
+- Add national tax administration as a clear public-function example even where availability was not lost.
+- Add hospital facility-management and physical-access systems as infrastructure supporting protected medical functions.
+- Clarify that confidentiality loss can be an infrastructure incident without an outage.
+- Add component inventory as part of knowing the state’s real infrastructure perimeter.
+- Add the contractor/commissioning distinction only briefly and cross-link to the operator/customer node.
+
+📉_small_disruptions_can_make_a_campaign.md
+
+- Add central-monitoring loss with successful local fallback as an example of a contained but real operational effect.
+- Add Connecticut’s inventory gap as evidence that resilience cannot be inferred from absence of reported local incidents.
+- Add the legitimacy hypothesis at campaign level: small attacks may accumulate politically differently depending on who is harmed and how the event is narrated.
+- Add the constraint that visible civilian harm can reverse any attempted denial-of-solidarity effect.
+- Preserve the strong separation between pattern confidence and common-sponsor confidence.
+
+🏦_banks_are_part_of_the_battlespace.md
+
+- Add the narrow financial-analysis teaching point: payment flows, procurement and customer relationships can reveal tasking and capability maintenance.
+- Do not convert this into a claim that banks themselves commissioned the incidents.
+- Add French tax data only if discussing downstream fraud, identity abuse or financial coercion; avoid forcing it into the banking incident set.
+- Add “who paid whom, for what, and when?” to the financial evidence questions.
+- Add capability-market subsidy and externalised social costs as hypotheses requiring evidence.
+
+⛴️_do_ports_count.md
+
+- No major incident addition currently required.
+- Add Mabna/Medusa only if needed for the operator/customer distinction; otherwise cross-link rather than bloat.
+- Recheck CEVA language against the updated ecosystem model.
+- Preserve the finding that logistics disruption does not automatically become a port incident.
+
+🇺🇸_potential_impacts_on_americans.md
+
+- Add domestic risk pricing: escalation decisions should include foreseeable water/OT consequences and available mitigations.
+- Preserve the two conditionals around Iranian attribution and knowing acceptance of risk.
+- Add the contrast between national sovereignty rhetoric and local pumps/operators.
+- Add denial of solidarity as a political-risk mechanism: unpopular corporate victims may receive less public support, while water and hospital harm may produce immediate backlash.
+- Add the governance question without alleging that the administration selected or desired domestic attacks.
+- Update executive-confidence and local-operator sections.
+
+🗺️_who_iran_sees_as_inside_the_war.md
+
+- Existing Hormuz treatment already covers the statement and joke report.
+- Add a concise rhetorical corner-building analysis.
+- Add the possible distinction between Iranian sovereignty and negotiable navigation/security arrangements.
+- Add audience segmentation: target map, narrative map and attribution map are separate.
+- Do not infer an unpublished Iranian target list from reputational alignment.
+- Update the source note only after verifying whether Iran’s rhetoric changed after 14 August.
+
+🇬🇧_britain_is_advertising_an_exploitable_seam.md
+
+- No Britain-specific incident addition is currently supported by the pasted notes.
+- Add only a brief commissioning-risk point if useful: outsourcing an aggressive capability can reduce visibility without reducing system risk.
+- Add financial/procurement trails to the proposed incident-owner and reconciliation functions.
+- Cross-link to Mabna/Medusa as comparative structures rather than treating them as evidence about Britain.
+- Preserve the citizen-protection and fragmented-responsibility focus.
+
+👾_cyber_war_crimes.md
+
+- Add no automatic legal conclusion from France, Manitoba, Connecticut, Mabna or Medusa.
+- Add Manitoba as a reminder that medical protection analysis depends on the affected function, foreseeable consequences, distinction, proportionality and precautions, not the sector label alone.
+- Add commissioning/control distinctions to individual and state responsibility discussion.
+- Preserve the separation between ecosystem financing/governance responsibility and criminal liability.
+- Add the risk-governance question only as policy context, not as a legal finding.
+
+📚 / README / FOOTER CROSS-LINK PROPAGATION
+
+- Add purposeful links among:
+  - operator/customer;
+  - threat ecosystems;
+  - riding waves;
+  - attribution;
+  - reporting rules;
+  - health/admin;
+  - machinery;
+  - small disruptions;
+  - banks/financial evidence;
+  - sources register;
+  - timeline.
+- Check every Footer against House Style.
+- Preserve Return To routing where already present.
+- Update Last updated dates only on files actually changed.
+
+
+============================================================
+3. PROPOSED DATA / SCHEMA QUESTIONS
+============================================================
+
+Do not add fields merely because they are interesting. Add them only if they can be coded consistently.
+
+Candidate fields:
+
+- Publicity status: concealed / victim-disclosed / government-disclosed / actor-claimed / commercially advertised / mixed.
+- Publicising actor: victim / government / media / attacker / intermediary.
+- Narrative frame: none observed / anti-Israel / pro-Palestinian / anti-corporate / anti-war / criminal monetisation / sovereignty / other.
+- Intended audience: domestic Iranian / target-country public / regional / technical community / criminal market / unknown.
+- Victim-legitimacy hypothesis: high sympathy / contested / low sympathy / audience-dependent / not assessed.
+- Damage-claim gap: claimed effect versus independently established effect.
+- Commissioner / payer confidence.
+- End-user / beneficiary confidence.
+- Asset-inventory status.
+
+Preferred implementation:
+
+- Keep objective and sourceable fields in the canonical CSV.
+- Keep interpretive, audience-dependent fields in the XLSX Pattern Watch sheet until coding rules are stable.
+- Record “not assessed” rather than forcing a legitimacy score.
+- Never code an organisation as objectively deserving or undeserving of protection.
+
+
+============================================================
+4. SOURCE AND VERIFICATION TASKS
+============================================================
+
+Before drafting factual updates:
+
+- Verify every 13–19 August development against current primary sources.
+- Check whether any later correction, attribution, recovery update or victim statement has appeared.
+- Use official affected-body statements for operational effect where available.
+- Use DOJ/CISA/FBI/HHS documents for government attribution and threat-ecosystem propositions.
+- Use Reuters/AP/major independent reporting for context and claims not contained in official releases.
+- Treat actor claims as claims even where the actor has a historically established affiliation.
+- Preserve publication date separately from incident date.
+- Record dependent republication chains.
+- Remove ChatGPT tracking parameters from URLs.
+- Do not rely on the pasted note language as a source.
+- Recheck all exact victim counts, record counts and claimed data volumes.
+- Check whether “17 Mabna members,” victim totals and “31 TB” are stated in the newly unsealed 2026 document or inherited from earlier charging material.
+- Check whether France confirmed more than 600,000 records or whether that figure comes from independent reporting/attacker material.
+- Check Manitoba’s latest recovery, clinical-impact and data-access position.
+- Check Connecticut’s exact wording on Iran linkage and equipment inventory.
+- Check whether the 18 August Medusa update is substantively new or a refreshed advisory date.
+- Check whether Iranian official rhetoric after the Hormuz remark supports the proposed face-saving / territorial-response analysis.
+- Check current water-wave attribution status before changing any traffic light.
+
+
+============================================================
+5. MATERIAL ALREADY PRESENT — REFINE, DO NOT DUPLICATE
+============================================================
+
+The current pack already contains substantial treatment of:
+
+- Trump’s Hormuz territorial statement;
+- the reported White House “joke” explanation;
+- the fact that the explanation is not a presidential retraction;
+- public attribution versus private assessment;
+- criminal operators versus later customers;
+- access brokers and purchased access;
+- contractor/proxy layers;
+- manual fallback as both resilience and evidence;
+- cyber-to-physical water effects;
+- Cl0p/shared-software competing explanations;
+- heterogeneous threat ecosystems;
+- person-centred recovery;
+- small disruptions accumulating into campaign effects;
+- the need to preserve negative findings.
+
+The next pass should therefore add new evidence, sharpen the commissioning and legitimacy models, and update examples. It should not create parallel duplicate explanations under new headings.
+
+The pasted working notes also contain duplicate Manitoba and Mabna sections. Consolidate each into one verified update.
+
+
+============================================================
+6. OUT-OF-PACK FOLLOW-UPS
+============================================================
+
+The pasted notes propose additions to nodes outside this folder:
+
+- 🧬_distributed_complicity_in_modern_warfare.md
+- 🦠_systemic_porosity.md
+- 🧨_we_are_already_paying_the_cost.md
+- 🧭_reflexive_risk.md
+
+Do not silently edit or rewrite those nodes during the Data Wars pass without their current files and routing context.
+
+Record for later:
+
+- distributed complicity: commissioning does not imply control; intended outcome versus foreseeable ecosystem support;
+- systemic porosity: state/corporate/criminal contractor markets crossing institutional membranes;
+- already paying the cost: public externalisation of incident response, insurance, hardening, policing, fraud and service disruption;
+- reflexive risk: ask whether aggressive delegation reduced risk or merely moved it into a less visible part of the system.
+
+
+============================================================
+7. FINAL PACK-WIDE QUALITY CONTROL
+============================================================
+
+- Preserve survivor voice: forensic clarity with bite; do not institutionalise the life out of it.
+- Use House Style v1.8 and the Protocol Integrity SOP.
+- Clean conversion debris, escaped pipes, forced line breaks and malformed separators.
+- Keep H1/H2/H3 hierarchy correct.
+- Confirm First created and Last updated dates.
+- Confirm Constellations, Stardust and Footer blocks.
+- Preserve the sovereignty line unchanged.
+- Check relative links and Return To routing.
+- Check filename/emoji compliance without renaming established files unnecessarily.
+- Flag identifiable entities and ensure their inclusion is evidentially necessary.
+- Separate fact, official position, actor claim, reporting, inference and hypothesis.
+- Ensure corrections propagate through timeline, CSV, XLSX, README, sources register and affected analytical nodes.
+- Confirm the CSV and XLSX contain the same final record set.
+- Confirm README counts and descriptions match the finished artifacts.
+- Preserve attribution history rather than overwriting it.
+- Preserve rival explanations and negative findings.
+- End with a dead-link and canonical-source pass.
+
+
+WORKING EDITORIAL PRINCIPLE
+
+The next update should make the pack more capable of asking:
+
+Who generated the demand?
+Who acquired the access?
+Who operated?
+Who paid?
+Who selected the target?
+Who decided to publicise it?
+Which audience was being addressed?
+Who absorbed the downstream cost?
+Did delegation reduce risk — or merely move it somewhere the commissioner could no longer see?
+
+Those questions deepen the analysis without turning every wartime incident into an Iranian operation.
