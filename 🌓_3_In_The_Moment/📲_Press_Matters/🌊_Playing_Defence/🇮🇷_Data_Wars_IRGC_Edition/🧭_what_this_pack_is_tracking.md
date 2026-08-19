@@ -1,14 +1,14 @@
-# 🧭 What This Pack Is Tracking  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
-*Defining the perimeter of a live wartime cyber timeline without pretending that attribution is cleaner than it is.*  
+# 🧭 What This Pack Is Tracking
+**First created:** 2026-08-01 | **Last updated:** 2026-08-19
+*Defining the perimeter of a live wartime cyber timeline without pretending that attribution is cleaner than it is.*
 
 ---
 
-## 🛰️ Orientation  
+## 🛰️ Orientation
 
 This pack tracks cyber incidents affecting the systems through which states continue to function during the Iran war.
 
-It also tracks the cluster, attribution, policy, rhetoric and stakeholder
+It also tracks the cluster, attribution, commissioning, publicity, narrative, policy, rhetoric and stakeholder
 developments needed to interpret those incidents without turning context into
 proof.
 
@@ -36,9 +36,23 @@ That difference matters.
 
 A cyber incident becomes more strategically serious when the attacker is no longer merely interfering with information about a system, but gaining access to the machinery through which the system operates.
 
+The pack also records an increasingly important later stage:
+
+```text
+access obtained
+→ target or effect selected
+→ operation concealed or publicised
+→ narrative attached
+→ audience response shaped
+```
+
+The actor conducting the intrusion may not be the actor selecting the publicity, writing the message, amplifying the claim, paying for the access, or using the result.
+
+Those relationships must remain separate.
+
 ---
 
-## 🎯 The Tracking Perimeter  
+## 🎯 The Tracking Perimeter
 
 An incident belongs in this pack where it affects, or credibly threatens to affect, one or more of the following:
 
@@ -82,14 +96,14 @@ State dependence does not automatically transform a civilian object into a milit
 
 ---
 
-## 🚦 Four Routing Outcomes  
+## 🚦 Four Routing Outcomes
 
 Not every relevant development should be promoted into the same evidentiary
 category.
 
 The pack therefore uses four routing outcomes.
 
-### 1. Core Timeline Incident  
+### 1. Core Timeline Incident
 
 Use where there is credible evidence of an actual cyber incident affecting an
 essential function, system or operational dependency.
@@ -103,7 +117,7 @@ Examples include:
 - forced fallback;
 - or a verified effect on an essential-sector provider.
 
-### 2. Adjacent Watch Event  
+### 2. Adjacent Watch Event
 
 Use where the target or exposure is strategically relevant but the threshold
 for an essential-infrastructure incident has not yet been met.
@@ -116,7 +130,7 @@ Examples include:
 - a claim that has not been corroborated;
 - or evidence of exposure without evidence of operational consequence.
 
-### 3. Context Event  
+### 3. Context Event
 
 Use for developments that change motive, exposure, interpretation or likely
 consequence without themselves being cyber incidents.
@@ -130,7 +144,7 @@ Examples include:
 - a presidential territorial statement and subsequent backtrack;
 - or a material change in public, allied or executive confidence.
 
-### 4. Excluded Or Rejected  
+### 4. Excluded Or Rejected
 
 Use where the evidence does not clear the pack's minimum threshold, the event is
 duplicated, the claim is false, the incident is unrelated, or the source chain
@@ -155,7 +169,79 @@ This preserves weak signals without quietly upgrading them.
 
 ---
 
-## 🌍 Which Countries Are In Scope  
+## 🧪 Current Routing Examples
+
+The August additions show why routing and attribution must remain separate.
+
+### France — DGFiP Taxpayer-Data Breach
+
+```text
+ROUTING:
+CORE
+
+WHY:
+confirmed compromise of a national tax-administration system
+and extraction of state-held taxpayer data
+
+IRAN CONTRIBUTION:
+none currently established
+
+LEADING EXPLANATION:
+criminal monetisation
+```
+
+The incident belongs because the public function and confidentiality effect clear the perimeter. Inclusion does not strengthen Iranian attribution.
+
+### Canada — HSC Winnipeg And CancerCare Manitoba
+
+```text
+ROUTING:
+CORE
+
+WHY:
+ransomware reached hospital facilities-maintenance systems,
+including central HVAC monitoring and ID-card administration
+
+LIMIT:
+local system operation and clinical care reportedly continued
+
+IRAN CONTRIBUTION:
+none currently established
+```
+
+This is a cyber-to-physical dependency incident inside a criminal ransomware explanation, not evidence that all cyber-to-physical incidents share one sponsor.
+
+### Connecticut — Water-Sector Preparedness And Inventory Gap
+
+```text
+ROUTING:
+CONTEXT
+
+WHY:
+mitigation and resilience development;
+no attempted or successful Connecticut incident reported
+```
+
+The component-inventory gap matters to defence. It does not become an attack merely because it reveals exposure.
+
+### Mabna Institute — Superseding Charging Action
+
+```text
+ROUTING:
+CONTEXT / ATTRIBUTION DEVELOPMENT
+
+NEW EVENT:
+expanded public charging and attribution record on 18 August 2026
+
+UNDERLYING ACTIVITY:
+historical campaign dating from 2013–2017
+```
+
+Mabna strengthens the public evidence that Iranian state requirements can move through contractors, hackers-for-hire and mixed client structures. It does not convert a historical campaign into a new wartime attack or attribute neighbouring incidents to Iran.
+
+---
+
+## 🌍 Which Countries Are In Scope
 
 The United States and Israel are the central direct belligerents.
 
@@ -193,7 +279,7 @@ The cyber timeline should reflect the operational map Iran may be using without 
 
 ---
 
-## 🧩 What Counts As A Relevant Incident  
+## 🧩 What Counts As A Relevant Incident
 
 The pack includes more than successful destructive attacks.
 
@@ -230,7 +316,7 @@ The pack therefore records operational effect, not only total failure.
 
 ---
 
-## 🚰 The Control Layer Gets Extra Weight  
+## 🚰 The Control Layer Gets Extra Weight
 
 Cyber incidents affecting essential infrastructure should not all be weighted equally.
 
@@ -286,7 +372,7 @@ That distinction becomes particularly important for civilian water and wastewate
 
 ---
 
-## 🕸️ Attribution Is Graded  
+## 🕸️ Attribution Is Graded
 
 This pack does not divide incidents into only two categories:
 
@@ -312,9 +398,15 @@ It should also distinguish between different attribution questions:
 ```text
 who operated the intrusion?
 who supplied access?
+who generated the requirement?
 who commissioned the task?
+who paid or supplied infrastructure?
+who purchased the access or data?
+who used the result?
 who benefited?
 who directed it?
+who decided to publicise it?
+who wrote or amplified the accompanying narrative?
 who can legally be held responsible?
 ```
 
@@ -334,7 +426,7 @@ Both propositions can be true at once.
 
 ---
 
-## ⚖️ Legal Significance Is Also Graded  
+## ⚖️ Legal Significance Is Also Graded
 
 The pack should not wait for a final legal classification before recording why an incident matters.
 
@@ -390,7 +482,7 @@ For deeper treatment, see:
 
 ---
 
-## 📉 Why Small Incidents Matter  
+## 📉 Why Small Incidents Matter
 
 Waiting for one dramatic collapse is an outdated model of cyber defence.
 
@@ -436,7 +528,7 @@ That is still a campaign effect even where no single incident looks like a missi
 
 ---
 
-## 🧬 Clustering Matters More Than Spectacle  
+## 🧬 Clustering Matters More Than Spectacle
 
 A single intrusion may be opportunistic.
 
@@ -479,11 +571,11 @@ But it can determine when apparently isolated events should stop being analysed 
 
 ---
 
-## 🧬 One War Can Contain Several Threat Ecosystems  
+## 🧬 One War Can Contain Several Threat Ecosystems
 
 The pack does not assume that the wartime cluster has one organising actor.
 
-By 16 August, the evidence supports several overlapping ecosystems:
+By 19 August, the evidence supports several overlapping ecosystems:
 
 ```text
 IRAN-FACING OT ACTIVITY
@@ -500,37 +592,68 @@ LOGISTICS DISRUPTION
 
 LOCAL-GOVERNMENT / ADMINISTRATIVE DISRUPTION
 → recurring municipal effects with mixed and often criminal explanations
+
+FRENCH PUBLIC-ADMINISTRATION EXPOSURE
+→ DGFiP taxpayer-data extraction and wider state-system concerns;
+  criminal monetisation currently fits better than Iranian tasking
+
+HEALTHCARE FACILITIES RANSOMWARE
+→ Manitoba ransomware reaches HVAC monitoring and access administration;
+  clinical care continues; operator and sponsor remain open
+
+CONFIRMED IRANIAN CONTRACTOR-MEDIATED ESPIONAGE MODEL
+→ Mabna charging record documents specified IRGC and other client tasking;
+  historical campaign, not a new current-war attack
+
+CRIMINAL AFFILIATE / ACCESS-BROKER MODEL
+→ Medusa advisory confirms brokers and affiliates in ransomware markets;
+  intermediary complexity does not itself indicate state sponsorship
 ```
 
 The U.S. water wave is anchored by the FBI/EPA finding that malicious actors
 accessed internet-facing PLCs, changed network and password configurations and
 caused loss of monitoring, control and—in parts of the wave—physical-process
-effects.  
+effects.
 [FBI and EPA — *Malicious Cyber Actors Targeting Water and Wastewater Sector
 PLCs*](https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions)
 
 The Iran-facing assessment for the Minnesota core was later strengthened by a
 reported APT IRAN/CyberAv3ngers responsibility claim. The claim remains a claim;
 it does not substitute for forensic corroboration or formal public
-attribution.  
+attribution.
 [KSTP — *Iran-linked group claims responsibility for Minnesota water
 attacks*](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
 
 The Cl0p comparator is anchored by Reuters reporting of a mass data-extortion
 claim involving nearly fifty companies. The reported organising mechanism was
 scalable exploitation of shared enterprise software rather than demonstrated
-strategic selection of every victim.  
+strategic selection of every victim.
 [Reuters — *Hacking group claims mass data theft from Shell, Philips, GE,
 Fiserv and dozens of others*](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
 
 CEVA is retained as adjacent logistics evidence because shipment delays and
 delivery-data exposure were reported, while port operation, maritime control
-and Iranian direction were not demonstrated.  
+and Iranian direction were not demonstrated.
 [TechCrunch — *CEVA Logistics breach ripples across banks and
 retailers*](https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/)
 
 These ecosystems can produce one cumulative burden on defenders without
 forming one common campaign.
+
+They can also produce superficially similar organisational diagrams.
+
+```text
+commissioner
+→ contractor
+→ broker
+→ operator
+```
+
+may describe a state-tasked structure in one record and a criminal service market in another.
+
+The diagram is a question about organisation.
+
+It is not an attribution finding.
 
 The pack therefore records four confidence judgements separately:
 
@@ -546,7 +669,7 @@ sponsorship.
 
 ---
 
-## 🧅 Why The Operator May Not Know The Customer  
+## 🧅 Why The Operator May Not Know The Customer
 
 Cyber operations can be assembled through layers.
 
@@ -583,14 +706,40 @@ It is part of the wider ecology through which states, intelligence-linked actors
 
 That means identifying the operator may still leave the strategic question unresolved.
 
+The 18 August Mabna charging action gives this model a concrete Iran-specific evidence anchor.
+
+The United States Department of Justice alleges that Mabna worked for the IRGC and other Iranian government and university clients while employing, contracting and affiliating itself with hackers-for-hire and other personnel.
+
+The federal Medusa advisory gives the necessary competing anchor: criminal ransomware ecosystems also use affiliates and initial-access brokers.
+
+Therefore record:
+
+```text
+TASK ORIGINATOR / COMMISSIONER:
+PAYER / PROCUREMENT ROUTE:
+ACCESS BROKER:
+TECHNICAL OPERATOR:
+BUYER / CUSTOMER:
+END USER:
+FINAL BENEFICIARY:
+OPERATIONAL CONTROL:
+```
+
+Commissioning does not automatically prove complete control over method or downstream effect.
+
+Lack of complete control does not prove that no commissioning relationship existed.
+
+- [United States Department of Justice — 17 Mabna Institute members charged](https://www.justice.gov/opa/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary)
+- [CISA, FBI and HHS — StopRansomware advisory on Medusa](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a)
+
 ---
 
-## 🤐 Silence Can Advertise The Vulnerability  
+## 🤐 Silence Can Advertise The Vulnerability
 
 A blanket posture of:
 
-> We can neither confirm nor deny.  
-> We are not discussing the incident.  
+> We can neither confirm nor deny.
+> We are not discussing the incident.
 > We do not comment on operational matters.
 
 may protect some investigations.
@@ -650,7 +799,7 @@ That distinction belongs inside cyber defence analysis.
 
 ---
 
-## 🔎 What The Pack Is Looking For  
+## 🔎 What The Pack Is Looking For
 
 The timeline should not merely collect dramatic headlines.
 
@@ -668,6 +817,13 @@ It should look for:
 - cross-sector timing;
 - geographically distributed incidents with similar effects;
 - evidence of proxy or criminal reuse;
+- evidence that access was acquired broadly and selected strategically later;
+- whether an incident was concealed, victim-disclosed, actor-claimed, government-disclosed, or advertised for sale;
+- who decided to publicise the operation;
+- whether claimed effects exceeded independently established effects;
+- what political or commercial narrative accompanied publicity;
+- which audience appeared to be addressed;
+- whether target reputation affected the solidarity available to the victim;
 - changes in operational effect;
 - and changes in attribution language.
 
@@ -688,7 +844,7 @@ The point is not to force every incident into one theory.
 
 The point is to notice when several incidents begin to form a pattern that cannot be seen from one headline alone.
 
-The pack now tracks five linked objects:
+The pack now tracks six linked objects:
 
 ```text
 INCIDENT
@@ -703,6 +859,10 @@ ATTRIBUTION DEVELOPMENT
 CONTEXT DEVELOPMENT
 → threats, rhetoric, basing, policy and adversary response
 
+PUBLICITY / NARRATIVE DEVELOPMENT
+→ who publicised the event, how effects were framed,
+  which audience was addressed and whether the message changed
+
 STAKEHOLDER CONSEQUENCE
 → who carries the service, economic, military, political or alliance effect
 ```
@@ -711,9 +871,47 @@ Those objects may share a date.
 
 They should not be forced into one row if doing so destroys the distinction.
 
+### Legitimacy And Denial Of Solidarity
+
+The pack may test whether some operations are selected or publicised because a target's existing reputation makes collective defence less automatic.
+
+The proposed mechanism is **denial of solidarity**:
+
+```text
+existing grievance
+→ narratively compatible target or incident
+→ public hesitation
+→ weaker solidarity with the victim
+→ political advantage without admiration for the attacker
+```
+
+This is a hypothesis about audience response.
+
+It is not a moral classification of the victim.
+
+Record where supportable:
+
+```text
+RELEVANT AUDIENCE:
+PRE-EXISTING REPUTATIONAL CONTEST:
+ACTOR MESSAGING:
+PUBLICITY CHOICE:
+EVIDENCE OF AUDIENCE SEGMENTATION:
+EVIDENCE OF DIFFERENTIAL SOLIDARITY:
+CONFIDENCE:
+LIMIT:
+```
+
+Do not infer the mechanism merely because the victim is a bank, fossil-fuel company, defence contractor, technology company, healthcare conglomerate or organisation named in a political campaign.
+
+Water, hospitals, emergency communications and visible civilian harm are essential tests of the theory. They may produce the opposite effect: immediate solidarity against the attacker.
+
+- [Mandiant / Google Cloud — suspected Iranian influence operation](https://cloud.google.com/blog/topics/threat-intelligence/suspected-iranian-influence-operation)
+- [Microsoft Threat Intelligence — Iranian cyber-enabled influence operations](https://www.microsoft.com/en-us/security/security-insider/threat-landscape/iran-surges-cyber-enabled-influence-operations-in-support-of-hamas)
+
 ---
 
-## 🚫 What This Pack Does Not Claim  
+## 🚫 What This Pack Does Not Claim
 
 This pack does not claim that:
 
@@ -723,6 +921,12 @@ This pack does not claim that:
 - similarity of method proves common sponsorship;
 - timing proves causation;
 - clustering proves coordination;
+- inclusion in this pack strengthens Iranian attribution;
+- the use of contractors or access brokers proves state sponsorship;
+- payment proves complete operational control;
+- an available anti-corporate or pro-Palestinian narrative proves target-selection motive;
+- a victim has one objective and stable legitimacy score;
+- publicity by one actor proves that actor conducted the intrusion;
 - public silence proves hidden attribution;
 - absence of public attribution means intelligence agencies know nothing;
 - an attack on civilian infrastructure is automatically a war crime;
@@ -735,7 +939,7 @@ The purpose is to preserve evidence, uncertainty, operational effect, legal sign
 
 ---
 
-## 📰 Reporting Standard  
+## 📰 Reporting Standard
 
 Each incident should be recorded with:
 
@@ -758,6 +962,23 @@ OFFICIAL ATTRIBUTION:
 OTHER ATTRIBUTION:
 CONFIDENCE:
 IRAN RELEVANCE:
+
+TECHNICAL OPERATOR:
+ACCESS BROKER / INTERMEDIARY:
+TASK ORIGINATOR / COMMISSIONER:
+PAYER / PROCUREMENT ROUTE:
+BUYER / CUSTOMER:
+END USER / FINAL BENEFICIARY:
+OPERATIONAL CONTROL:
+
+PUBLICISING ACTOR:
+PUBLICITY CHANNEL:
+NARRATIVE FRAME:
+INTENDED AUDIENCE:
+CLAIMED EFFECT:
+INDEPENDENTLY ESTABLISHED EFFECT:
+EVIDENCE OF DIFFERENTIAL SOLIDARITY:
+
 ORGANISING MECHANISM:
 PATTERN CONFIDENCE:
 ORGANISING-MECHANISM CONFIDENCE:
@@ -768,6 +989,7 @@ RIVAL EXPLANATIONS:
 STAKEHOLDER EFFECT:
 SOURCES:
 SOURCE PROVENANCE:
+NEGATIVE FINDINGS:
 LAST REVIEWED:
 CORRECTION STATUS:
 ```
@@ -799,7 +1021,27 @@ Ten articles may still trace back to one advisory, one vendor report, or one unv
 
 The source chain matters.
 
-### Cross-Domain Source Rule  
+Negative findings matter too.
+
+Record explicitly where the reviewed public evidence shows:
+
+- no Iran or IRGC relationship;
+- no demonstrated state customer;
+- criminal monetisation fits better;
+- no physical-process change;
+- local operation or clinical care continued;
+- no actor claim was independently validated;
+- or no evidence connects publicity choice to target reputation.
+
+```text
+NO PUBLIC EVIDENCE FOUND
+```
+
+means that the reviewed public record did not establish the proposition by the evidence cutoff.
+
+It does not mean the relationship has been disproved.
+
+### Cross-Domain Source Rule
 
 Where possible, material claims should be supported across different source
 functions rather than by repeating one report through several outlets.
@@ -839,7 +1081,7 @@ It means the pack can see which part of the claim each source actually knows.
 
 ---
 
-## 🧭 How To Read The Timeline  
+## 🧭 How To Read The Timeline
 
 The timeline is provisional.
 
@@ -868,19 +1110,19 @@ It is a record of what happened, what was claimed, what was established, what ch
 
 ---
 
-## 🌌 Constellations  
+## 🌌 Constellations
 
 🇮🇷 🧭 🕸️ 🚰 📉 — Iran war analysis; scope control; graded attribution; operational technology; cumulative disruption.
 
-## ✨ Stardust  
+## ✨ Stardust
 
-iran, irgc, cyber warfare, critical infrastructure, attribution, operational technology, inclusion rules, threat ecosystems, source provenance, clustering
+iran, irgc, cyber warfare, critical infrastructure, attribution, commissioning chains, publicity, audience analysis, operational technology, inclusion rules
 
 ---
 
-## 🏮 Footer  
+## 🏮 Footer
 
-*🧭 What This Pack Is Tracking* is a living node of the **Polaris Protocol**.  
+*🧭 What This Pack Is Tracking* is a living node of the **Polaris Protocol**.
 It defines the evidentiary perimeter, inclusion rules, escalation indicators, and interpretive limits for the wider *🇮🇷 Data Wars: IRGC Edition* pack.
 
 > 📡 Cross-references:
@@ -896,7 +1138,16 @@ It defines the evidentiary perimeter, inclusion rules, escalation indicators, an
 > - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *organising mechanisms and confidence axes across the wider cluster*
 > - [🇺🇸 Potential Impacts On Americans](./🇺🇸_potential_impacts_on_americans.md) — *stakeholder consequences across services, politics, defence, technology and alliances*
 > - [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) — *evidence grading, provenance and update discipline*
+> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *canonical source routes, dependency notes and review limits*  
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-19_
