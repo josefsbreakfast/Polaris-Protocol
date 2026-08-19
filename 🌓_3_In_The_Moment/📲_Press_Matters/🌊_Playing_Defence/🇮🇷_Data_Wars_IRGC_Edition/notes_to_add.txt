@@ -1,3 +1,50 @@
+📚_sources_and_evidence_register.md
+Establish and verify the new source base first: DGFiP, Manitoba, Connecticut, Mabna, Medusa, influence operations, and comparative contractor markets.
+🔎_confidence_labels_and_source_rules.md
+Set the rules for commissioner, payer, operator, customer, beneficiary, publicity, and legitimacy hypotheses.
+📰_how_to_report_without_overclaiming.md
+Translate those rules into durable language before drafting factual additions elsewhere.
+🧭_what_this_pack_is_tracking.md
+Update the pack perimeter, routing decisions, optional analytical questions, and negative-findings rules.
+🧅_the_operator_may_not_know_the_customer.md
+Build the principal commissioning-chain analysis: Mabna, Medusa, payment, delegation, control, and downstream risk.
+🕸️_attribution_is_not_a_light_switch.md
+Propagate the expanded attribution stack and the new Mabna attribution development.
+🧬_one_war_many_threat_ecosystems.md
+Re-map the ecosystems once the operator/customer and attribution rules are stable.
+🌊_riding_every_wave.md
+Add later-stage strategic selection, publicity, narrative use, and the legitimacy hypothesis.
+🚰_when_cyber_reaches_the_machinery.md
+Add Manitoba’s facilities systems and Connecticut’s OT inventory gap.
+🏥_health_education_and_admin_are_not_soft_extras.md
+Add Manitoba, DGFiP, Mabna’s education/research targeting, and separate recovery clocks.
+🏗️_what_counts_as_state_infrastructure.md
+Consolidate the implications for tax administration, hospital facilities, confidentiality loss, and asset inventories.
+📉_small_disruptions_can_make_a_campaign.md
+Update campaign accumulation, contained physical-system effects, and the political limits of denial of solidarity.
+🏦_banks_are_part_of_the_battlespace.md
+Add financial tracing, capability-market subsidy, and “who paid whom, for what, and when?”
+🇺🇸_potential_impacts_on_americans.md
+Add domestic risk pricing, water/Hormuz conditionals, local burden, and differential public solidarity.
+🗺️_who_iran_sees_as_inside_the_war.md
+Refine the existing Hormuz material with rhetorical corner-building and possible face-saving architecture.
+🇬🇧_britain_is_advertising_an_exploitable_seam.md
+Add only the narrow outsourcing, procurement-trail, and displaced-risk implications.
+⛴️_do_ports_count.md
+Give it a light consistency pass after the ecosystem model is settled; no major new incident presently belongs here.
+👾_cyber_war_crimes.md
+Update last, among the analytical nodes, so the legal distinctions reflect the finished factual and attribution analysis without outrunning it.
+⏱️_timeline_of_essential_infrastructure_attacks.md
+Add the final verified incident/context records and the new pattern assessment.
+📊_iran_war_essential_infrastructure_cyber_timeline.csv
+Mirror the completed timeline records exactly.
+📊_iran_war_essential_infrastructure_cyber_timeline.xlsx
+Rebuild from the final CSV and update formulas, summaries, Pattern Watch, and Method & Scope.
+README.md
+Do this last. Update counts, current assessment, pack map, sources, cross-links, and the concise synthesis only after every underlying node and dataset is stable.
+
+---
+
 DATA WARS: IRGC EDITION — PLANNED CONTENT, ANALYSIS AND UPDATES
 Prepared: 2026-08-19
 Target folder: 🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/
