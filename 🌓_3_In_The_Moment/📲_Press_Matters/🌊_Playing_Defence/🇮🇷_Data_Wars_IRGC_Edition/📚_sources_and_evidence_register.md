@@ -1,5 +1,5 @@
 # 📚 Sources And Evidence Register
-**First created:** 2026-08-16 | **Last updated:** 2026-08-16  
+**First created:** 2026-08-16 | **Last updated:** 2026-08-19  
 *A consolidated provenance register for the sources carried through the Data Wars: IRGC Edition pack, its working chat, and `notes_to_add.txt`.*
 
 ---
@@ -17,7 +17,7 @@ It draws from:
 - the source links recorded in `notes_to_add.txt`;
 - and source material surfaced during the updating conversation.
 
-The register currently contains **88 canonical URLs across 50 domains**.
+The register currently contains **102 canonical URLs across 56 domains**.
 
 Tracking-parameter variants and mechanically duplicated forms have been collapsed into one canonical entry. Distinct articles from the same outlet remain separate.
 
@@ -97,6 +97,7 @@ A source retained because it may support later research, comparison, correction,
 
 - [Michigan Department of Environment, Great Lakes and Energy — drinking-water cybersecurity](https://www.michigan.gov/egle/about/organization/drinking-water-and-environmental-health/drinking-water/cybersecurity) — *state guidance and Michigan incident context*
 - [Reuters — Minnesota officials disclose coordinated attack on more than 30 local water systems](https://www.reuters.com/legal/litigation/minnesota-it-officials-disclose-coordinated-cyberattack-more-than-30-local-water-2026-07-28) — *state-level incident disclosure reported independently*
+- [CT Insider — Connecticut warns utilities after attacks in other states](https://www.ctinsider.com/connecticut/article/connecticut-water-systems-cyberattack-controller-22374980.php) — *17 August preparedness disclosure, absence of reported Connecticut incidents, mitigation distribution and the state's lack of a central component-level inventory; context evidence rather than a new attack record*
 
 ### Intelligence, Attribution And Actor-Claim Routes
 
@@ -136,6 +137,13 @@ A source retained because it may support later research, comparison, correction,
 - [Fox Carolina — AnMed Facebook page appears compromised](https://www.foxcarolina.com/2026/08/11/anmed-facebook-page-appears-hacked-amid-ongoing-cyberattack) — *local reporting on the actor claim and social-media access*
 - [WYFF4 — AnMed response to unauthorised ransom posts](https://www.wyff4.com/article/anmed-response-cyberattack-facebook-post-hackers/73406207) — *affected-operator response carried through local reporting*
 
+### Health Sciences Centre Winnipeg And CancerCare Manitoba
+
+- [Shared Health — ransomware incident affecting HSC and CancerCare Manitoba facilities-maintenance systems](https://sharedhealthmb.ca/news-releases/2026-08-14-ransomware-incident-update/) — *primary affected-authority account: discovery on 10 August, central HVAC-monitoring effects, local monitoring, ID-card limitations, additional physical security, continued clinical care and the initial data-access finding*
+- [CityNews Winnipeg / Canadian Press — recovery position one week after discovery](https://winnipeg.citynews.ca/2026/08/17/health-sciences-centre-winnipeg-ransomware-attack-update/) — *17 August recovery-status reporting derived substantially from Shared Health; useful for persistence and public communication, not an independent forensic source*
+
+The available evidence supports a ransomware incident reaching hospital facility-management and physical-access administration. It does not currently identify a specific operator, customer, state sponsor or Iran relationship.
+
 ---
 
 ## 🏛️ Government, Public Safety And State Administration
@@ -159,6 +167,15 @@ A source retained because it may support later research, comparison, correction,
 - [The Guardian — Department for Education and police-data breaches](https://www.theguardian.com/technology/2026/jul/29/department-for-education-police-hackers-cybercrime) — *United Kingdom government and policing-data incident reporting*
 - [NCSC — advice following Middle East escalation](https://www.ncsc.gov.uk/news/ncsc-advises-uk-organisations-take-action-following-conflict-in-middle-east) — *official United Kingdom threat-posture assessment*
 - [NCSC — hostile states linked to three-quarters of managed critical-infrastructure incidents](https://www.ncsc.gov.uk/news/ncsc-ceo-hostile-states-linked-to-three-quarters-of-cyber-attacks) — *aggregate threat-environment marker; not evidence of Iran's share*
+
+### France — Directorate General Of Public Finances
+
+- [Reuters — French Finance Ministry confirms taxpayer-data theft](https://www.reuters.com/legal/litigation/french-taxpayers-data-stolen-cyber-attack-french-finance-ministry-says-2026-08-14/) — *initial ministry-confirmation route: public-administration intrusion and extraction of individual and professional taxpayer data; the early account did not settle the final scale*
+- [Reuters — France announces wider government-security response after the tax-agency breach](https://www.reuters.com/world/france-use-ai-tools-test-cybsecurity-vulnerabilities-after-tax-agency-hacking-2026-08-18/) — *later government-response and approximately 700,000-affected context; also records a further breach under assessment*
+- [Le Monde — French taxpayer data advertised after the June intrusion](https://www.lemonde.fr/en/pixels/article/2026/08/14/french-taxpayers-data-stolen-in-hack-of-finance-ministry_6756510_13.html) — *independent reporting on the disclosure route, the ZeroBytes sale claim, the detailed-record set and the wider French public-administration exposure context*
+- [The Register — DGFiP disputes the attacker's continuing-access claim](https://www.theregister.com/security/2026/08/14/french-tax-authority-admits-data-heist-after-crook-touts-2m-records/5287885) — *specialist reporting that preserves the alleged stolen-credential/MFA-bypass account, the actor's two-million-record claim and DGFiP's narrower confirmed position*
+
+The supported proposition is that DGFiP systems were accessed and taxpayer data was extracted. The actor's claimed two-million-record scale, continuing access and sale terms remain actor-derived claims unless separately confirmed. Public evidence presently favours a criminal monetisation route and does not establish Iranian or other state tasking.
 
 ---
 
@@ -196,6 +213,32 @@ A source retained because it may support later research, comparison, correction,
 - [PTC — Windchill and FlexPLM remote-code-execution advisory](https://www.ptc.com/en/about/trust-center/advisory-center/active-advisories/windchill-flexplm-rce-vulnerability) — *primary vendor advisory and shared-vulnerability mechanism*
 - [CISA — Karakurt data-extortion group](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-152a) — *criminal-extortion background*
 - [United States Department of Justice — FBI testimony on Genesis Market](https://www.justice.gov/ola/media/1379826/dl?inline=) — *criminal access-market and service-ecosystem background*
+- [CISA, FBI and HHS — StopRansomware advisory on Medusa](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a) — *primary government description of Medusa's affiliate model, recruitment of initial-access brokers and public-sector victim exposure; criminal-ecosystem comparator rather than evidence of state sponsorship*
+
+---
+
+## 🧅 Contractors, Customers And Cyber-Enabled Influence
+
+### Mabna Institute And IRGC-Linked Tasking
+
+- [United States Department of Justice — 17 Mabna Institute members charged](https://www.justice.gov/opa/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary) — *18 August 2026 superseding-charge announcement; victim counts, more than 31 TB of stolen academic data and intellectual property, IRGC and other Iranian-client tasking, and the use of employees, contractors, hackers-for-hire and affiliated personnel*
+- [United States District Court / DOJ — superseding indictment](https://www.justice.gov/usao-sdny/media/1458201/dl) — *primary charging document for the allegations, defendants, conspiracy structure and victim scope; allegations remain allegations until adjudicated*
+- [United States Department of Justice archive — original 2018 Mabna charges](https://www.justice.gov/archives/opa/pr/nine-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary) — *historical attribution and continuity route; establishes that the campaign and core 31-TB finding were not newly generated by the 2026 wartime context*
+
+The 2026 release materially expands the public charging record. It does not convert the underlying 2013–2017 activity into a new wartime attack, and it does not attribute unrelated ransomware, logistics, water or public-administration incidents to Mabna or the IRGC.
+
+### Iranian Influence And Publicity Mechanisms
+
+- [Mandiant / Google Cloud — suspected Iranian influence operation](https://cloud.google.com/blog/topics/threat-intelligence/suspected-iranian-influence-operation) — *2018 technical-research route for an Iran-origin influence network targeting several regional audiences with anti-Israel, pro-Palestinian and other issue-specific narratives*
+- [Microsoft Threat Intelligence — Iran's cyber-enabled influence operations supporting Hamas](https://www.microsoft.com/en-us/security/security-insider/threat-landscape/iran-surges-cyber-enabled-influence-operations-in-support-of-hamas) — *primary vendor-research route for opportunistic targeting, destructive activity, hacktivist identities, publicity and misleading or exaggerated effect claims*
+
+These sources support the existence of Iranian cyber-enabled influence mechanisms. They do not prove that victim legitimacy, anti-corporate sentiment or denial of solidarity selected any particular 2026 target. That remains a hypothesis to be tested against target, publicity, audience and effect data.
+
+### Comparative Contractor Market — I-Soon
+
+- [Associated Press — inside the I-Soon contractor market](https://apnews.com/article/6276e8662ddf6f2c1afbae994d8b3aa2) — *comparative reporting on state demand, private contractors, competitive procurement, relationship cultivation, subcontracting, payment pressure and insecure commercial capability markets*
+
+I-Soon is a Chinese comparative case. It demonstrates a possible contractor-market mechanism; it is not evidence about Iranian authorship, the Mabna defendants, or any incident in this timeline.
 
 ---
 
@@ -338,6 +381,39 @@ FBI, CISA, EPA, NSA and partner pages may reproduce or summarise one coordinated
 
 Cross-agency publication can be institutionally important without becoming several independent technical demonstrations.
 
+### Manitoba Healthcare-Facilities Incident
+
+```text
+Shared Health incident update
+→ CityNews / Canadian Press recovery report
+```
+
+The later report usefully dates the continuing recovery position. Its operational description substantially depends on the affected authority and should not be counted as independent forensic corroboration.
+
+### France DGFiP Breach
+
+```text
+DGFiP / Finance Ministry statements
+→ Reuters, Le Monde and specialist reporting
+
+ZeroBytes forum claim
+→ reported scale, access and sale assertions
+```
+
+Reporting can independently establish what officials and the alleged actor said. Repetition of the same ministry statement or forum advertisement does not independently demonstrate the final victim count, technical access route, continuing access, sale, customer or sponsor.
+
+### Mabna Institute
+
+```text
+superseding indictment
+→ DOJ 2026 announcement
+
+original 2018 indictment and announcement
+→ historical campaign baseline
+```
+
+The 2026 charging action is a genuine attribution-history development. Much of the underlying campaign description and data-volume evidence predates the current war and must not be presented as a newly discovered 2026 intrusion wave.
+
 ---
 
 ## ✅ Verification And Maintenance Status
@@ -358,15 +434,17 @@ REVIEW LIMIT
 what has not been independently checked or cannot be inferred
 ```
 
-At creation:
+At the 19 August review:
 
-- 88 canonical URLs were recovered;
-- 50 domains were represented;
+- 102 canonical URLs were preserved;
+- 56 domains were represented;
 - tracking parameters were removed where they did not identify distinct content;
 - duplicate AP and republication routes were preserved where their circulation history matters;
 - spreadsheet suffix artefacts such as `,Tier` were removed;
 - named but unlinked sources were retained separately;
-- and source presence was not converted into evidentiary endorsement.
+- source presence was not converted into evidentiary endorsement;
+- new incident, attribution, mechanism and comparative sources were separated by function;
+- and actor-derived scale or access claims were kept distinct from affected-authority findings.
 
 Future updates should:
 
@@ -399,12 +477,16 @@ Future updates should:
 - [FreightWaves — CEVA logistics disruption](https://www.freightwaves.com/news/cyberattack-on-ceva-logistics-warehouses-in-europe-impacts-retailers)
 - [The Guardian — original Hormuz territorial statement](https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory)
 - [Anadolu Agency — reported White House joke explanation](https://www.aa.com.tr/en/americas/trump-was-joking-about-declaring-strait-of-hormuz-us-territory-us-media/4027928)
+- [Shared Health — Manitoba healthcare-facilities ransomware update](https://sharedhealthmb.ca/news-releases/2026-08-14-ransomware-incident-update/)
+- [Reuters — French Finance Ministry confirms DGFiP taxpayer-data theft](https://www.reuters.com/legal/litigation/french-taxpayers-data-stolen-cyber-attack-french-finance-ministry-says-2026-08-14/)
+- [DOJ — Mabna Institute superseding charging announcement](https://www.justice.gov/opa/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary)
+- [CISA, FBI and HHS — Medusa ransomware ecosystem](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a)
 
 ---
 
 ## ✨ Stardust
 
-source provenance, evidence register, cyber attribution, critical infrastructure, source dependency, actor claims, technical advisories, independent reporting, correction history, cross-domain sourcing
+source provenance, evidence register, cyber attribution, critical infrastructure, source dependency, actor claims, contractor ecosystems, cyber-enabled influence, technical advisories, correction history
 
 ---
 
@@ -422,4 +504,4 @@ source provenance, evidence register, cyber attribution, critical infrastructure
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-19_
