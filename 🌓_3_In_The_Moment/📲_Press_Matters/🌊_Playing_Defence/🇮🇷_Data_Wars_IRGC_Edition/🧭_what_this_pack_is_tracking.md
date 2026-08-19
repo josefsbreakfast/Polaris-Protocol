@@ -1,5 +1,5 @@
 # 🧭 What This Pack Is Tracking
-**First created:** 2026-08-01 | **Last updated:** 2026-08-19
+**First created:** 2026-08-01 | **Last updated:** 2026-08-19  
 *Defining the perimeter of a live wartime cyber timeline without pretending that attribution is cleaner than it is.*
 
 ---
