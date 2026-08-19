@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-19 00:04:03 UTC_
+_Generated on 2026-08-19 00:07:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -8641,7 +8641,6 @@ _Generated on 2026-08-19 00:04:03 UTC_
             - [`IMG_7334.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_7334.png)
             - [`IMG_7339.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260701_July_2026/IMG_7339.png)
           - [**20260801_Aug_2026/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/)
-            - [`20260718.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/20260718.md)
             - [`20260801.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/20260801.md)
             - [`20260802.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/20260802.md)
             - [`20260803.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/20260803.md)
@@ -8653,6 +8652,7 @@ _Generated on 2026-08-19 00:04:03 UTC_
             - [`20260810.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/20260810.md)
             - [`20260811.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/20260811.md)
             - [`20260814.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/20260814.md)
+            - [`20260818.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/20260818.md)
             - [`20260819.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/20260819.md)
             - [`IMG_7363.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_7363.png)
             - [`IMG_7364.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_7364.png)
