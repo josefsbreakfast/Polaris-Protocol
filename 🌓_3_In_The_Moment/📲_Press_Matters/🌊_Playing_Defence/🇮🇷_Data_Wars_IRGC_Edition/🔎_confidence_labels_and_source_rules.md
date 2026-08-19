@@ -3373,6 +3373,14 @@ It defines the evidentiary, provenance, confidence, relationship, attribution, c
 > - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *public reporting, source chains, corrections, and language discipline*
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate IHL, state-responsibility, and individual-criminal-responsibility analysis*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology, confidence movement, and pattern status*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
