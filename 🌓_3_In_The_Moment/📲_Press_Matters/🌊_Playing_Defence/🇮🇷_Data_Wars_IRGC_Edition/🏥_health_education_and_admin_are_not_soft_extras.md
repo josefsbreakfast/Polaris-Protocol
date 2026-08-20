@@ -1,10 +1,10 @@
-# 🏥 Health, Education And Admin Are Not Soft Extras  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
-*Civilian systems are not peripheral to the state. They are how the state recognises people, allocates rights, preserves continuity, and keeps ordinary life from collapsing.*  
+# 🏥 Health, Education And Admin Are Not Soft Extras
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20
+*Civilian systems are not peripheral to the state. They are how the state recognises people, allocates rights, preserves continuity, and keeps ordinary life from collapsing.*
 
 ---
 
-## 🛰️ Orientation  
+## 🛰️ Orientation
 
 Health, education, and public administration are often treated as softer targets than energy, water, transport, or defence.
 
@@ -42,7 +42,7 @@ That is a different measure of resilience.
 
 ---
 
-## 🧭 Availability Is Only One Part Of The Incident  
+## 🧭 Availability Is Only One Part Of The Incident
 
 A civilian system can remain technically available while still being seriously compromised.
 
@@ -74,13 +74,28 @@ A justice system may remain operational while confidence in evidence or case rec
 
 The absence of total shutdown does not mean the state function remained intact.
 
+Nor does continuity prove that the cost was small.
+
+Services may remain open because staff absorb the incident through:
+
+- handwritten records;
+- repeated identity checks;
+- manual triage;
+- telephone workarounds;
+- duplicated entry;
+- delayed reconciliation;
+- postponed decisions;
+- and exceptional overtime.
+
+That labour is part of the incident effect. So is the unequal burden placed on people who cannot safely wait, travel elsewhere, repeat their history, or navigate an improvised process.
+
 ---
 
-## 🧱 Four Different Things Can Break  
+## 🧱 Four Different Things Can Break
 
 For these sectors, cyber incidents should be assessed across at least four dimensions.
 
-### Availability  
+### Availability
 
 Can the institution access the system and continue performing its function?
 
@@ -92,7 +107,7 @@ Examples include:
 - court files unavailable;
 - or staff unable to access case-management systems.
 
-### Integrity  
+### Integrity
 
 Can the institution trust the information it sees?
 
@@ -106,7 +121,7 @@ Examples include:
 - unexplained amendments;
 - or uncertainty about whether a record remains authoritative.
 
-### Confidentiality  
+### Confidentiality
 
 Has information escaped the people and institutions entitled to hold it?
 
@@ -118,7 +133,7 @@ Examples include:
 - student records leaked;
 - or administrative files removed from state custody.
 
-### Continuing Person-Centred Harm  
+### Continuing Person-Centred Harm
 
 Does the individual remain exposed after technical recovery?
 
@@ -139,7 +154,7 @@ They should not be collapsed.
 
 ---
 
-## 🏥 Health Is Essential Infrastructure  
+## 🏥 Health Is Essential Infrastructure
 
 Healthcare depends on more than hospital buildings.
 
@@ -178,7 +193,7 @@ Degradation is enough.
 
 ---
 
-## 🩺 A Record Can Be Available And Still Be Unsafe  
+## 🩺 A Record Can Be Available And Still Be Unsafe
 
 Health systems create a particularly important integrity problem.
 
@@ -214,7 +229,7 @@ The pack should therefore treat demonstrated or credible record-integrity compro
 
 ---
 
-## 💊 Medical Supply Is Part Of The System  
+## 💊 Medical Supply Is Part Of The System
 
 The healthcare system also depends on private and contracted supply.
 
@@ -243,7 +258,7 @@ The dependency matters more than the ownership label.
 
 ---
 
-## 🧬 Health Data Has Continuing Value  
+## 🧬 Health Data Has Continuing Value
 
 Health data is unusually sensitive.
 
@@ -276,7 +291,7 @@ That is why a health-sector breach cannot be measured only through downtime.
 
 ---
 
-## 🎓 Education Is Not A Soft Sector  
+## 🎓 Education Is Not A Soft Sector
 
 Education systems hold vast amounts of personal and institutional data.
 
@@ -320,7 +335,7 @@ They are therefore part of the infrastructure through which the state allocates 
 
 ---
 
-## 📜 Qualifications And Status Depend On Trusted Records  
+## 📜 Qualifications And Status Depend On Trusted Records
 
 Education infrastructure does more than store information.
 
@@ -355,7 +370,7 @@ Where that chain becomes unreliable, the impact may continue long after the tech
 
 ---
 
-## 🧒 Safeguarding Data Is A Direct Risk Surface  
+## 🧒 Safeguarding Data Is A Direct Risk Surface
 
 Safeguarding information can contain:
 
@@ -385,7 +400,7 @@ That makes safeguarding records part of essential security infrastructure.
 
 ---
 
-## 🏢 Administration Is How The State Acts  
+## 🏢 Administration Is How The State Acts
 
 Government administration is often dismissed as bureaucracy.
 
@@ -418,7 +433,7 @@ They are how state power becomes real.
 
 ---
 
-## 🪪 Identity Is Infrastructure Too  
+## 🪪 Identity Is Infrastructure Too
 
 Administrative systems depend upon the ability to establish who a record belongs to.
 
@@ -459,7 +474,7 @@ It can also be harder to correct.
 
 ---
 
-## 🧩 One Person Can Exist In Many Systems  
+## 🧩 One Person Can Exist In Many Systems
 
 The same person may appear simultaneously in:
 
@@ -510,7 +525,7 @@ Its decision can still be contaminated by compromised upstream information.
 
 ---
 
-## 🔗 Administrative Dependencies Are Data Dependencies  
+## 🔗 Administrative Dependencies Are Data Dependencies
 
 Water may depend on electricity.
 
@@ -546,7 +561,7 @@ This matters because a cyber incident can propagate through institutional trust 
 
 ---
 
-## ⚖️ Justice And Policing Records Matter  
+## ⚖️ Justice And Policing Records Matter
 
 Justice infrastructure includes:
 
@@ -574,7 +589,7 @@ That is still strategic degradation.
 
 ---
 
-## 🧾 Provenance Matters  
+## 🧾 Provenance Matters
 
 For justice and administration in particular, it may not be enough for information to exist.
 
@@ -613,7 +628,7 @@ Cyber resilience therefore includes preservation of provenance.
 
 ---
 
-## 🔀 Conflicting Records Are An Infrastructure Problem  
+## 🔀 Conflicting Records Are An Infrastructure Problem
 
 A particularly difficult failure occurs where several systems contain information about the same person but no longer agree.
 
@@ -651,7 +666,7 @@ That is a resilience problem even before attribution is known.
 
 ---
 
-## 🧍 The Person Can Remain Inside The Incident  
+## 🧍 The Person Can Remain Inside The Incident
 
 Institutions often measure recovery through:
 
@@ -679,11 +694,11 @@ A cyber defence model that protects the institution but abandons the person has 
 
 ---
 
-## 🩹 Technical Recovery And Human Recovery Are Different  
+## 🩹 Technical Recovery And Human Recovery Are Different
 
 For these sectors, recovery should be recorded on at least two tracks.
 
-### Technical Recovery  
+### Technical Recovery
 
 Questions include:
 
@@ -694,7 +709,7 @@ Questions include:
 - are records accessible;
 - and has normal processing resumed?
 
-### Person-Centred Recovery  
+### Person-Centred Recovery
 
 Questions include:
 
@@ -705,6 +720,10 @@ Questions include:
 - have downstream institutions been notified;
 - can they challenge decisions based on compromised information;
 - and is there a protection pathway if the data is later exploited?
+
+The record should also ask who carried continuity while systems were impaired.
+
+A service can remain nominally available because clinicians, teachers, caseworkers, administrators, families, and affected people perform additional work. That is evidence of resilience. It is also a cost, a capacity limit, and sometimes a safety risk.
 
 These timelines may be very different.
 
@@ -722,7 +741,7 @@ SERVER RESTORED
 
 ---
 
-## 🧵 Fragmented Records Create Fragmented Responsibility  
+## 🧵 Fragmented Records Create Fragmented Responsibility
 
 Health, education, police, courts, local government, regulators, and central departments often hold different parts of the same person's history.
 
@@ -747,7 +766,7 @@ For the state, it is split into categories.
 
 ---
 
-## 🧭 The State Needs An Incident Owner  
+## 🧭 The State Needs An Incident Owner
 
 Cross-institution incidents create a basic governance question:
 
@@ -780,7 +799,7 @@ It requires the state to be capable of combining enough information to understan
 
 ---
 
-## 🤐 Silence Can Become A Second Failure  
+## 🤐 Silence Can Become A Second Failure
 
 A public body may need to protect an investigation or sensitive operational information.
 
@@ -810,7 +829,7 @@ A state response therefore needs a citizen-protection pathway as well as a techn
 
 ---
 
-## 🕳️ Data Can Keep Working For The Attacker  
+## 🕳️ Data Can Keep Working For The Attacker
 
 An outage ends when service returns.
 
@@ -845,7 +864,7 @@ Both belong inside the incident model.
 
 ---
 
-## 🧅 The Original Intrusion And Later Harm May Have Different Actors  
+## 🧅 The Original Intrusion And Later Harm May Have Different Actors
 
 The actor who obtains the data does not need to be the actor who later uses it.
 
@@ -1052,7 +1071,64 @@ Sources:
 
 ---
 
-## 🇮🇷 Why These Sectors Matter In The Iran War  
+## 🇫🇷 France — Public Data Can Remain Operationally Dangerous After Access Is Closed
+
+France's 2026 public-finance incidents show why administrative data exposure should not be treated as a minor privacy annex to the operational record.
+
+In February, the Direction générale des Finances publiques disclosed unlawful access to FICOBA, the national bank-account register. The ministry said an attacker had used the credentials of an authorised official to consult and extract data relating to an estimated 1.2 million accounts. The affected fields included bank details, account-holder identity, and address. Access was restricted, affected users were to be notified, and banks were alerted to the risk of fraud.
+
+In August, the finance ministry disclosed a separate intrusion affecting tax data relating to approximately 700,000 taxpayers. Reporting described the material as having been offered for sale and identified a criminal-data-theft explanation. A further body of compromised material was still being assessed when the government announced additional cybersecurity testing.
+
+The reviewed record does **not** establish:
+
+- that the February and August incidents had one operator;
+- that either incident was Iranian or Iran-directed;
+- that every accessed record was later misused;
+- or that repeated exposure alone proves a coordinated campaign.
+
+It does establish the importance of separating several questions:
+
+```text
+UNLAWFUL ACCESS CONFIRMED?
+↓
+DATA CONSULTED OR EXTRACTED?
+↓
+WHICH RECORDS AND WHICH PEOPLE?
+↓
+ACCESS CLOSED?
+↓
+DATA STILL AVAILABLE TO AN OUTSIDE ACTOR?
+↓
+FRAUD, IMPERSONATION, SALE, OR TARGETING OBSERVED?
+↓
+CORRECTION, NOTIFICATION, AND PROTECTION COMPLETE?
+```
+
+Closing access protects the system from the same route of entry.
+
+It does not recall copied data.
+
+Nor does it resolve whether exposed information will be combined with other records, used to impersonate the state, or deployed against the people represented in the database.
+
+The administrative incident therefore has at least three clocks:
+
+```text
+ACCESS-CONTAINMENT CLOCK
+
+INSTITUTIONAL-RECOVERY CLOCK
+
+PERSON-CENTRED RISK CLOCK
+```
+
+Sources:
+
+- [French Ministry of Finance: unlawful access to FICOBA](https://presse.economie.gouv.fr/acces-illegitimes-au-fichier-national-des-comptes-bancaires-ficoba/)
+- [Reuters: French taxpayers' data stolen in finance-ministry cyberattack](https://www.reuters.com/legal/litigation/french-taxpayers-data-stolen-cyber-attack-french-finance-ministry-says-2026-08-14/)
+- [Reuters: France announces further cybersecurity testing after tax-agency hacking](https://www.reuters.com/world/france-use-ai-tools-test-cybsecurity-vulnerabilities-after-tax-agency-hacking-2026-08-18/)
+
+---
+
+## 🇮🇷 Why These Sectors Matter In The Iran War
 
 Health, education, and administration offer strategic value because they combine:
 
@@ -1092,7 +1168,7 @@ That is strategic degradation too.
 
 ---
 
-## ⚖️ Civilian Function Does Not Resolve The Legal Question  
+## ⚖️ Civilian Function Does Not Resolve The Legal Question
 
 Health, education, administrative, and justice systems are predominantly civilian systems.
 
@@ -1135,7 +1211,7 @@ The technical timeline should preserve the facts needed to ask them without pre-
 
 ---
 
-## 🕸️ Attribution Still Has Several Layers  
+## 🕸️ Attribution Still Has Several Layers
 
 An incident can be serious before the sponsor is known.
 
@@ -1167,7 +1243,7 @@ The timeline needs enough flexibility to preserve those distinctions.
 
 ---
 
-## 🧬 What Would Make A Civilian-System Cluster Matter  
+## 🧬 What Would Make A Civilian-System Cluster Matter
 
 A pattern deserves closer attention where incidents show repeated overlap in:
 
@@ -1220,7 +1296,7 @@ Both are more informative than counting breaches in isolation.
 
 ---
 
-## 🔎 What Should Be Recorded  
+## 🔎 What Should Be Recorded
 
 Each incident should record:
 
@@ -1232,6 +1308,9 @@ AFFECTED BODY:
 PUBLIC FUNCTION:
 SYSTEM / RECORD TYPE:
 SERVICE AVAILABILITY:
+CONTINUITY WORKAROUND:
+STAFF / FAMILY / USER BURDEN:
+HIGH-DEPENDENCY USERS:
 RECORD AVAILABILITY:
 RECORD INTEGRITY:
 DATA CONFIDENTIALITY:
@@ -1241,6 +1320,9 @@ IDENTITY / MATCHING IMPACT:
 SAFEGUARDING IMPACT:
 RIGHTS / CARE / LEGAL-PROCESS IMPACT:
 INDIVIDUAL RISK:
+DOWNSTREAM MISUSE OBSERVED:
+NOTIFICATION / PROTECTION:
+CORRECTION / REMEDY:
 SHARED IDENTITY / CONTRACTOR DEPENDENCY:
 UPSTREAM RECORD DEPENDENCY:
 DOWNSTREAM INSTITUTIONAL EFFECT:
@@ -1280,7 +1362,7 @@ where the exposed people, compromised records, or downstream decisions remain un
 
 ---
 
-## 🚨 What Would Change The Trend  
+## 🚨 What Would Change The Trend
 
 A pattern in health, education, justice, or administration should be treated as escalating where there is credible evidence of:
 
@@ -1338,7 +1420,7 @@ Those are different forms of escalation.
 
 ---
 
-## 🚫 What This Node Does Not Claim  
+## 🚫 What This Node Does Not Claim
 
 This node does not claim that:
 
@@ -1346,6 +1428,9 @@ This node does not claim that:
 - every administrative outage is hostile activity;
 - every conflicting record is evidence of cyber interference;
 - every exposed person will suffer further harm;
+- every data exposure proves later fraud, coercion, or targeting;
+- a service that remained open was unaffected;
+- manual continuity imposed no additional human or safety cost;
 - every fragmented response reflects deliberate concealment;
 - every downstream error was caused by the original incident;
 - every shared contractor indicates a common campaign;
@@ -1369,7 +1454,7 @@ They are where the state meets the person.
 
 ---
 
-## 🧭 Working Rule  
+## 🧭 Working Rule
 
 The working rule is:
 
@@ -1395,21 +1480,21 @@ That is the real measure of the incident.
 
 ---
 
-## 🌌 Constellations  
+## 🌌 Constellations
 
-🏥 🎓 🏢 ⚖️ 🧍 🪪 🧾 — health; education; administration; justice; person-centred risk; identity; authoritative records.
-
----
-
-## ✨ Stardust  
-
-health infrastructure, education systems, public administration, safeguarding data, justice systems, personal data, civilian infrastructure, state capacity, record integrity, identity infrastructure, authoritative records, communications provenance, coercive messaging, person-centred recovery, data dependencies, international humanitarian law
+🏥 🎓 🏢 ⚖️ 🧍 🪪 🧾 — health; education; administration; justice; person-centred risk; identity; authoritative records; continuity burden; downstream harm.
 
 ---
 
-## 🏮 Footer  
+## ✨ Stardust
 
-*🏥 Health, Education And Admin Are Not Soft Extras* is a living node of the **Polaris Protocol**.  
+health infrastructure, education systems, public administration, safeguarding data, justice systems, personal data, civilian infrastructure, state capacity, record integrity, identity infrastructure, authoritative records, communications provenance, coercive messaging, person-centred recovery, continuity burden, downstream misuse, data dependencies, international humanitarian law
+
+---
+
+## 🏮 Footer
+
+*🏥 Health, Education And Admin Are Not Soft Extras* is a living node of the **Polaris Protocol**.
 It explains why civilian systems, authoritative public records, identity infrastructure, and person-centred data belong inside essential-infrastructure cyber analysis, including where technical recovery occurs before institutional or human recovery is complete.
 
 > 📡 Cross-references:
@@ -1421,6 +1506,8 @@ It explains why civilian systems, authoritative public records, identity infrast
 > - [🏦 Banks Are Part Of The Battlespace](./🏦_banks_are_part_of_the_battlespace.md) — *financial infrastructure, shared dependencies, and layered recovery*
 > - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *layered acquisition, data transfer, and later exploitation*
 > - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *graded attribution and uncertainty*
+> - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *claim-level wording and proposition control*
+> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *source provenance, independence, and evidence audit trail*
 > - [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) — *fragmented response as adversary-facing weakness*
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
@@ -1428,4 +1515,4 @@ It explains why civilian systems, authoritative public records, identity infrast
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-20_
