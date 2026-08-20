@@ -891,21 +891,29 @@ It tells us something about why particular strategic objectives may make sense t
 
 ## 👑 Achaemenid Persia: War Was Larger Than The Battlefield
 
-The Achaemenid Empire is useful precisely because reducing Persian power to individual battles misses much of the imperial machinery.
+The Achaemenid Empire is a useful starting point precisely because reducing Persian warfare to battles misses much of the imperial machinery.
 
-The empire governed enormous distances and highly diverse populations.
+The empire governed enormous distances and extraordinarily diverse populations.
 
-Military power existed alongside:
+Military power therefore existed alongside:
 
 - diplomacy;
-- provincial administration;
+- negotiated submission;
 - local elites;
-- taxation and tribute;
+- tribute;
 - communications networks;
-- intelligence and reporting;
-- roads;
-- logistics;
+- intelligence;
+- imperial roads;
+- logistical organisation;
 - and political accommodation.
+
+Not every problem required annihilating an opponent.
+
+Sometimes the useful outcome was getting somebody to accept the political relationship.
+
+Sometimes it was isolating an opponent.
+
+Sometimes it was preserving enough local administration that the empire did not have to rebuild everything it had just conquered.
 
 The teaching point is not:
 
@@ -915,61 +923,121 @@ They did not.
 
 It is:
 
-> **Iranian history contains very old examples of power being exercised through political, informational, logistical and military systems simultaneously.**
+> **Iranian history contains very old examples of power being understood as something exercised through political, informational, logistical and military systems simultaneously.**
+
+Readers interested in this period should look particularly at the relationship between Achaemenid campaigning, imperial administration and diplomacy rather than reading only accounts of Marathon and Thermopylae.
+
+The Greeks are not the only people in the story.
 
 ### 📚 Start Here
 
 - **[Encyclopaedia Iranica — Achaemenid Dynasty: The Empire](https://www.iranicaonline.org/articles/achaemenid-dynasty/achaemenid-dynasty-ii-the-empire/)** — administration, satrapies, commerce, roads and the problem of governing enormous imperial distances.
-- **[Encyclopaedia Iranica — Achaemenid Royal Communication](https://www.iranicaonline.org/articles/achaemenid-royal-communication/)** — information, orders, political communication and governmental control.
+- **[Encyclopaedia Iranica — Achaemenid Royal Communication](https://www.iranicaonline.org/articles/achaemenid-royal-communication/)** — useful specifically for thinking about information, orders, political communication and governmental control.
 - **Pierre Briant, *From Cyrus to Alexander: A History of the Persian Empire*** — substantial scholarly treatment of Achaemenid political and imperial history.
+- **The Cambridge History of Iran, Vol. 2: *The Median and Achaemenian Periods*** — broader scholarly reference for Achaemenid political, military and administrative history.
+
+### 🎥 Watch / Listen
+
+For audiovisual orientation, look for university or museum lectures on:
+
+- Achaemenid imperial administration;
+- Persian diplomacy beyond the Greek sources;
+- the Royal Road and imperial communications;
+- and Achaemenid military logistics.
+
+Prefer talks where the speaker explicitly discusses the source problem: much of the surviving narrative material was written by Greek authors with their own political and literary agendas.
 
 ---
 
 ## 🐎 Parthia: Don't Fight Rome The Way Rome Wants You To
 
+The Parthian example is considerably more concrete.
+
 At Carrhae in 53 BCE, a much smaller Parthian force under Surena catastrophically defeated the Roman army of Marcus Licinius Crassus.
 
-The important thing is not merely that Rome lost.
+The interesting thing is not merely that Rome lost.
 
 It is **how the problem was solved**.
 
-Surena relied heavily upon mobile horse archers alongside heavily armoured cavalry.
+Roman legionaries were extraordinarily effective at the kind of fighting for which Roman armies had been organised.
+
+So the Parthians did not obligingly provide it.
+
+Surena relied heavily upon highly mobile horse archers and armoured cavalry.
 
 The Romans expected the missile attack eventually to exhaust itself.
 
-Surena had brought a large mobile ammunition supply carried by camels.
+Surena had brought an enormous mobile ammunition supply carried by camels.
 
 The arrows kept coming.
 
-The famous Parthian ability to fire while withdrawing became almost a visual metaphor for the wider problem:
+When Roman forces attempted to force the engagement they wanted, Parthian units could withdraw, manoeuvre and attack again.
+
+Feigned retreat could turn pursuit into exposure.
+
+The famous "Parthian shot" — firing backwards while withdrawing on horseback — became almost a visual metaphor for the wider problem:
 
 > **retreating does not necessarily mean losing.**
 
-The Parthian achievement was an alignment of:
+At Carrhae, the apparently stronger force repeatedly encountered a battlefield whose logic it had misunderstood.
+
+The Parthian achievement was not magic.
+
+It was an excellent alignment of:
 
 **terrain + mobility + logistics + weapons + adversary expectations.**
 
+That is worth remembering whenever a technologically or materially stronger state assumes that superiority in its preferred domain means control of the interaction.
+
 ### 📚 Start Here
 
-- **[Encyclopaedia Iranica — Carrhae](https://www.iranicaonline.org/articles/carrhae-harran-town-in-mesopotamia-where-in-may-53-b/)** — scholarly account of Surena's campaign, cavalry, ammunition logistics and Roman defeat.
-- **[Encyclopaedia Iranica — Orodes II](https://www.iranicaonline.org/articles/orodes-ii/)** — additional discussion of Parthian warfare and Surena.
-- **Plutarch, *Life of Crassus*** — indispensable ancient narrative source, but not neutral CCTV footage.
+- **[Encyclopaedia Iranica — Carrhae](https://www.iranicaonline.org/articles/carrhae-harran-town-in-mesopotamia-where-in-may-53-b/)** — detailed scholarly treatment of the 53 BCE battle, including Surena's use of cavalry, logistics, manoeuvre and the Roman failure to impose close combat.
+- **[Encyclopaedia Iranica — Orodes II](https://www.iranicaonline.org/articles/orodes-ii/)** — useful additional discussion of Parthian warfare, cavalry composition and Surena's logistics.
+- **Plutarch, *Life of Crassus*** — indispensable ancient narrative source, but read as an ancient literary source rather than neutral CCTV footage.
+- **Nikolaus L. Overtoom — “The Parthians' Unique Mode of Warfare: a Tradition of Parthian Militarism and the Battle of Carrhae”** — useful academic treatment of Carrhae as part of a wider Parthian military tradition rather than an isolated tactical trick.
 
 Then ask:
 
 > **Which side successfully imposed its preferred form of warfare on the other?**
 
+### 🎥 Watch / Listen
+
+Useful search terms:
+
+- **Battle of Carrhae university lecture**
+- **Surena Parthian warfare lecture**
+- **Parthian cavalry military history**
+- **Rome and Parthia Carrhae scholarly talk**
+
+Prefer lectures that discuss logistics and operational design, not only the entertaining fact that Crassus had a very bad afternoon.
+
 ---
 
 ## 🏜️ Safavid Iran: Sometimes The Country Is Part Of The Weapon
+
+Safavid conflict with the Ottoman Empire gives us another useful problem.
+
+The Ottomans could bring formidable military power eastwards.
+
+Iran possessed something else:
+
+**space.**
 
 The Safavids learned painfully at Chaldiran in 1514 what could happen when cavalry confronted Ottoman firearms and artillery under conditions favourable to the Ottoman army.
 
 Subsequent Safavid strategy changed.
 
-Under Shah Tahmasp I, avoiding the opponent's preferred decisive engagement could itself become strategy.
+Under Shah Tahmasp I in particular, avoiding the opponent's preferred decisive engagement could itself become strategy.
 
-Delay, scorched earth, attacks upon logistics and strategic depth made repeated Ottoman incursions difficult to sustain.
+Retreat, denial of supplies, evacuation, scorched-earth measures and the exploitation of strategic depth could make an invasion progressively more expensive and less sustainable.
+
+Again, the lesson is not:
+
+> **Persians always retreat cleverly.**
+
+That would be silly.
+
+The useful lesson is that when an opponent possesses superior conventional force, **refusing the decisive encounter can be rational**.
 
 Time can become a weapon.
 
@@ -977,22 +1045,42 @@ Distance can become a weapon.
 
 Logistics can become a weapon.
 
+The attacker's requirement to produce a politically meaningful victory can itself become a vulnerability.
+
 ### 📚 Start Here
 
-- **[Encyclopaedia Iranica — Chaldiran](https://www.iranicaonline.org/articles/calderan-battle/)** — the 1514 Safavid defeat and Ottoman military advantages.
-- **[Encyclopaedia Iranica — Peace of Amasya](https://www.iranicaonline.org/articles/amasya-peace/)** — Safavid delay and scorched-earth tactics, Ottoman supply problems and the eventual settlement.
+- **[Encyclopaedia Iranica — Chaldiran](https://www.iranicaonline.org/articles/calderan-battle/)** — the 1514 Safavid defeat and the importance of Ottoman firearms, artillery and logistics.
+- **[Encyclopaedia Iranica — Peace of Amasya](https://www.iranicaonline.org/articles/amasya-peace/)** — particularly useful on subsequent Safavid tactics of delay and scorched earth, Ottoman supply problems and the eventual 1555 settlement.
+- **Roger Savory, *Iran Under the Safavids*** — useful book-length introduction to Safavid political and military history.
 
 Then ask:
 
 > **What happens when denying somebody victory is easier than defeating their army?**
 
+### 🎥 Watch / Listen
+
+Useful search topics include:
+
+- **Shah Tahmasp Ottoman Safavid warfare**
+- **Battle of Chaldiran lecture**
+- **Safavid strategic depth**
+- **Ottoman Safavid frontier warfare**
+
+Look for material that treats logistics and geography as part of the military problem rather than presenting every war as a succession of heroic battlefield set pieces.
+
 ---
 
 ## ⚖️ Qajar Iran: What Do You Learn From Losing Territory?
 
+By the nineteenth century, Iranian strategic problems looked different again.
+
+Iran repeatedly operated in an environment shaped by stronger external powers, particularly Russia and Britain.
+
 Qajar Iran confronted expanding Russian power in the Caucasus and persistent British involvement in Iranian affairs.
 
 The Russo-Persian wars ended with major territorial losses.
+
+The Treaties of Gulistan and Turkmenchay became part of a political memory in which stronger foreign powers could impose deeply unfavourable outcomes upon Iran.
 
 Military weakness did not eliminate strategy.
 
@@ -1000,12 +1088,36 @@ It changed what strategy had to accomplish.
 
 Diplomatic balancing, concessions, resistance, external alignment, internal reform and attempts to preserve autonomy all became parts of the survival problem.
 
+The results were frequently unhappy.
+
+Iran lost territory.
+
+Foreign powers interfered extensively in Iranian political and economic life.
+
 Strategic cultures remember humiliation as well as victory.
+
+A country repeatedly subjected to intervention by stronger powers has historical reasons to think intensely about:
+
+> **How do you retain freedom of action when somebody else has more conventional power than you do?**
 
 ### 📚 Start Here
 
-- **[Encyclopaedia Iranica — Treaty of Golestan](https://www.iranicaonline.org/articles/golestan-treaty/)** — the first Russo-Persian War and territorial settlement.
-- **The Cambridge History of Iran** — broader Qajar military, diplomatic and foreign-intervention context.
+- **[Encyclopaedia Iranica — Treaty of Golestan](https://www.iranicaonline.org/articles/golestan-treaty/)** — background to the first Russo-Persian War and the territorial settlement imposed afterwards.
+- **The Cambridge History of Iran, Vol. 7: *From Nadir Shah to the Islamic Republic*** — broad scholarly treatment of Qajar and later Iranian history.
+- **Abbas Amanat, *Iran: A Modern History*** — useful large-scale modern history placing Qajar vulnerability, foreign intervention and later political memory into a longer arc.
+
+### 🎥 Watch / Listen
+
+Useful search topics:
+
+- **Russo-Persian wars lecture**
+- **Treaty of Gulistan Iran**
+- **Treaty of Turkmenchay lecture**
+- **Qajar Iran Russia Britain Great Game**
+
+Then ask:
+
+> **What strategic habits develop when conventional weakness repeatedly constrains political choice?**
 
 ---
 
@@ -1015,14 +1127,32 @@ Iran declared neutrality during the Second World War.
 
 Britain and the Soviet Union invaded anyway in August 1941.
 
-The episode supplies another historical problem:
+The strategic reasons included protection of oil interests and, increasingly, the need for a supply route through Iran to the Soviet Union.
+
+Reza Shah abdicated shortly afterwards.
+
+The episode is useful because it supplies another historical problem:
 
 > **What does a state learn when declaring itself outside somebody else's war does not stop stronger powers deciding that its territory and infrastructure are strategically necessary?**
 
+That does not mechanically produce twenty-first-century Iranian doctrine.
+
+It becomes part of the archive from which later Iranian understandings of sovereignty, foreign intervention and strategic vulnerability emerge.
+
 ### 📚 Start Here
 
-- **[Encyclopaedia Iranica — Anglo-Iranian Relations: Pahlavi Period](https://www.iranicaonline.org/articles/anglo-iranian-relations-iii/)** — Iranian neutrality and the Anglo-Soviet invasion.
-- **[Encyclopaedia Iranica — Azerbaijan: History from 1941 to 1947](https://www.iranicaonline.org/articles/azerbaijan-v/)** — occupation and the Allied supply route through Iran.
+- **[Encyclopaedia Iranica — Anglo-Iranian Relations: Pahlavi Period](https://www.iranicaonline.org/articles/anglo-iranian-relations-iii/)** — clear overview of Iranian neutrality and the Anglo-Soviet invasion of 1941.
+- **[Encyclopaedia Iranica — Azerbaijan: History from 1941 to 1947](https://www.iranicaonline.org/articles/azerbaijan-v/)** — useful detail on the occupation and the scale of the Allied supply route through Iran.
+- **Abbas Amanat, *Iran: A Modern History*** — broader context for the Pahlavi state, foreign pressure and Iranian political memory.
+
+### 🎥 Watch / Listen
+
+Useful search terms:
+
+- **Anglo-Soviet invasion of Iran 1941 lecture**
+- **Persian Corridor documentary**
+- **Iran neutrality Second World War**
+- **Reza Shah 1941 invasion**
 
 ---
 
@@ -1032,7 +1162,11 @@ The overthrow of Prime Minister Mohammad Mossadegh in 1953 should be read carefu
 
 The historical record includes substantial documentation of American and British covert involvement.
 
-Whatever arguments readers encounter about Iranian actors and domestic political dynamics, one point is difficult to sustain:
+The U.S. government's own published *Foreign Relations of the United States* collection includes documentation on the planning and implementation of Operation TPAJAX.
+
+President Eisenhower's diary subsequently referred explicitly to the American role in bringing about Mossadegh's removal and restoring the Shah's position.
+
+Whatever interpretation a reader ultimately adopts about Iranian actors, domestic political dynamics and the relative importance of different participants, one point is difficult to sustain:
 
 > **Iranian perceptions of foreign interference appeared from nowhere.**
 
@@ -1040,10 +1174,27 @@ They did not.
 
 ### 📚 Start Here
 
-- **[U.S. State Department — *Foreign Relations of the United States, 1952–1954, Iran, 1951–1954*](https://history.state.gov/historicaldocuments/frus1951-54Iran)** — primary-document collection including Operation TPAJAX.
-- **[U.S. State Department — Eisenhower diary editorial note](https://history.state.gov/historicaldocuments/frus1951-54Iran/d328)** — primary-source trail concerning Eisenhower's description of American involvement.
+- **[U.S. State Department Office of the Historian — *Foreign Relations of the United States, 1952–1954, Iran, 1951–1954*](https://history.state.gov/historicaldocuments/frus1951-54Iran)** — primary-document collection including the planning and implementation of Operation TPAJAX.
+- **[U.S. State Department Office of the Historian — Eisenhower diary editorial note](https://history.state.gov/historicaldocuments/frus1951-54Iran/d328)** — useful primary-source trail concerning Eisenhower's own description of American involvement.
+- **Ervand Abrahamian, *The Coup: 1953, the CIA, and the Roots of Modern U.S.-Iranian Relations*** — influential scholarly interpretation of the coup and its political-economic context.
+- **Mark J. Gasiorowski and Malcolm Byrne (eds.), *Mohammad Mosaddeq and the 1953 Coup in Iran*** — useful collection for engaging competing historical interpretations.
+
+Do not stop with one account.
+
+1953 remains historiographically and politically contested in important respects.
 
 Read the documents.
+
+### 🎥 Watch / Listen
+
+Useful search topics:
+
+- **Mossadegh 1953 university lecture**
+- **Operation Ajax archival lecture**
+- **1953 Iran coup historian talk**
+- **FRUS Iran 1953 documents**
+
+Prefer historians who distinguish documented evidence from later myth-making on all sides.
 
 ---
 
@@ -1051,18 +1202,38 @@ Read the documents.
 
 For contemporary Iranian military doctrine, the Iran–Iraq War is vastly more important than Carrhae.
 
-Iran experienced invasion, enormous casualties, attacks on cities, chemical warfare, economic pressure, international isolation, and the perception that much of the outside world was willing to tolerate Iraqi aggression when strategically convenient.
+The 1980–1988 war was catastrophic.
 
-Modern Iranian doctrine was profoundly shaped by that experience.
+Iran experienced:
 
-The strategic problem became:
+- invasion;
+- enormous casualties;
+- attacks on cities;
+- chemical warfare;
+- economic pressure;
+- international isolation;
+- and the perception that much of the outside world was willing to tolerate Iraqi aggression when strategically convenient.
+
+Modern Iranian military doctrine was profoundly shaped by that experience.
+
+The lesson was not simply:
+
+> **build a better conventional army.**
+
+Iran could not safely assume that it would possess technological superiority, uncontested air power, dependable allies or uncomplicated access to foreign weapons.
+
+So the strategic problem became:
 
 > **How does Iran deter or survive an opponent that may be richer, technologically superior and conventionally stronger?**
 
+That question sits much closer to contemporary IRGC doctrine.
+
 ### 📚 Start Here
 
-- **[Michael Connell — *Iran's Military Doctrine*, The Iran Primer](https://iranprimer.usip.org/sites/default/files/Iran_s%20Military%20Doctrine.pdf)** — the Iran–Iraq War as formative experience and Iranian adaptation to technologically superior adversaries.
-- **[RAND — *The Future of Warfare*, Volume 3](https://www.rand.org/content/dam/rand/pubs/research_reports/RR2800/RR2849z3/RAND_RR2849z3.pdf)** — broader treatment of asymmetric strategies used to offset stronger conventional capabilities.
+- **[Michael Connell — *Iran's Military Doctrine*, The Iran Primer](https://iranprimer.usip.org/sites/default/files/Iran_s%20Military%20Doctrine.pdf)** — particularly useful because it explicitly identifies the Iran–Iraq War as formative for contemporary doctrine and discusses Iranian adaptation to technologically superior adversaries.
+- **[RAND — *The Future of Warfare*, Volume 3](https://www.rand.org/content/dam/rand/pubs/research_reports/RR2800/RR2849z3/RAND_RR2849z3.pdf)** — broader comparative treatment of Iran's development of asymmetric strategies to offset stronger U.S. and allied conventional capabilities.
+- **Pierre Razoux, *The Iran-Iraq War*** — major modern military history of the conflict.
+- **Williamson Murray and Kevin M. Woods, *The Iran-Iraq War: A Military and Strategic History*** — detailed strategic and operational history.
 
 Spend disproportionate time here if the objective is understanding modern Iranian military behaviour.
 
@@ -1070,15 +1241,28 @@ Ancient history provides comparison.
 
 The Iran–Iraq War provides institutional memory within living organisations.
 
+### 🎥 Watch / Listen
+
+Useful search topics:
+
+- **Iran-Iraq War military history lecture**
+- **Tanker War lecture**
+- **War of the Cities Iran Iraq**
+- **chemical warfare Iran Iraq historian**
+- **Operation Praying Mantis lecture**
+- **Iranian military doctrine Iran-Iraq War**
+
 ---
 
 ## 🕸️ Modern Iran: Make Superiority Expensive
 
-Modern Iranian doctrine has invested heavily in asymmetric approaches involving combinations of:
+Modern Iranian doctrine has consequently invested heavily in asymmetric approaches.
+
+Those include combinations of:
 
 - missiles;
 - drones;
-- maritime disruption;
+- maritime harassment and disruption;
 - partners and proxies;
 - dispersed forces;
 - strategic depth;
@@ -1092,21 +1276,44 @@ The objective does not necessarily have to be:
 
 > **defeat the United States in a conventional war.**
 
+That would be an extraordinarily demanding objective.
+
 A more achievable objective can be:
 
 > **make the cost of continuing exceed the political value of continuing.**
 
-That makes the adversary's **political willingness to continue** part of the battlespace.
+Modern assessments of Iranian doctrine explicitly describe the importance of asymmetric warfare, attrition, strategic depth and psychological effects against technologically superior adversaries.
+
+The adversary's political willingness to continue fighting is therefore part of the battlespace.
+
+That matters enormously for understanding limited cyber disruption.
 
 ### 📚 Start Here
 
 - **[Michael Connell — *Iran's Military Doctrine*](https://iranprimer.usip.org/sites/default/files/Iran_s%20Military%20Doctrine.pdf)** — modern Iranian asymmetric doctrine, strategic depth, adaptation and psychological cost.
-- **[U.S. Army — *Iran Quick Reference Guide*](https://oe.t2com.army.mil/site-content/OEE/Iran%20LZ/Iran%20Quick%20Reference%20Guide.pdf)** — an American military interpretation of Iranian hybrid and asymmetric warfare; read it as such.
-- **[RAND — *The Future of Warfare*, Volume 3](https://www.rand.org/content/dam/rand/pubs/research_reports/RR2800/RR2849z3/RAND_RR2849z3.pdf)** — comparative discussion of asymmetric strategies.
+- **[U.S. Army — *Iran Quick Reference Guide*](https://oe.t2com.army.mil/site-content/OEE/Iran%20LZ/Iran%20Quick%20Reference%20Guide.pdf)** — a U.S. military interpretation of Iranian hybrid and asymmetric warfare. Read it as an American military assessment, not as a neutral Iranian doctrinal text.
+- **[RAND — *The Future of Warfare*, Volume 3](https://www.rand.org/content/dam/rand/pubs/research_reports/RR2800/RR2849z3/RAND_RR2849z3.pdf)** — useful comparative discussion of asymmetric strategies developed by states unable to match U.S. conventional power directly.
+- **[The Iran Primer — Military Doctrine](https://iranprimer.usip.org/resource/military-doctrine)** — accessible entry point into doctrine, deterrence and asymmetric strategy.
+- **[CSIS — Beyond Hacktivism: Iran's Coordinated Cyber Threat Landscape](https://www.csis.org/blogs/strategic-technologies-blog/beyond-hacktivism-irans-coordinated-cyber-threat-landscape)** — useful modern cyber-focused discussion of the relationship between state-linked actors, hacktivist identities and broader Iranian strategy.
+- **[Microsoft Threat Intelligence — Iran surges cyber-enabled influence operations](https://www.microsoft.com/en-us/security/security-insider/threat-landscape/iran-surges-cyber-enabled-influence-operations-in-support-of-hamas)** — useful for understanding cyber operations and influence activity as overlapping instruments rather than separate boxes.
+
+### 🎥 Watch / Listen
+
+Useful search topics:
+
+- **Iranian asymmetric warfare lecture**
+- **IRGC doctrine lecture**
+- **Iran cyber strategy university lecture**
+- **Iran strategic culture military doctrine**
+- **Iran hybrid warfare scholarly talk**
+
+For modern doctrine, prefer talks by military historians, Iran specialists and cyber-threat researchers who distinguish **state policy, IRGC activity, proxy behaviour and criminal ecosystems** rather than flattening them together.
 
 ---
 
 ## 🧠 The Adversary Is Also A System To Be Learned
+
+This brings us back to the orange.
 
 If an adversary is materially stronger than you, information about **how that adversary makes decisions** becomes extremely valuable.
 
@@ -1128,7 +1335,7 @@ That is not merely propaganda.
 
 It is strategic reconnaissance of a political system.
 
-A small cyber operation can generate:
+A small cyber operation can therefore generate several kinds of information simultaneously:
 
 **technical resilience + institutional coordination + political thresholds + media behaviour + public psychology + escalation tolerance**
 
@@ -1142,17 +1349,32 @@ It can also learn from the press conference afterwards.
 
 Suppose an actor interferes with a water system but causes limited damage.
 
-The material effect may be small.
+The immediate material effect may be small.
 
 The informational return may not be.
 
-The operation can reveal how quickly operators notice, whether manual fallback works, when federal agencies become involved, whether incidents are correlated nationally, whether Congress asks questions, whether the President comments, whether the public becomes frightened, and whether the incident changes military decision-making.
+The operation may reveal:
+
+- how quickly operators notice;
+- whether manual fallback works;
+- when federal agencies become involved;
+- whether incidents are correlated nationally;
+- what technical indicators defenders expose publicly;
+- whether governors become involved;
+- whether Congress asks questions;
+- whether the President comments;
+- whether the public becomes frightened;
+- and whether the incident changes military decision-making.
 
 If the actor repeats the process, it receives another observation.
 
 Then another.
 
 Then another.
+
+This is why leaving repeated coercive probes unanswered is not necessarily neutral.
+
+The danger is not merely that an attacker may repeat them.
 
 > **Each repetition can teach the attacker more precisely where the defender's technical, political and psychological thresholds actually lie.**
 
@@ -1172,11 +1394,35 @@ He needed to understand what Roman infantry required in order to exercise its ad
 
 That is the transferable strategic principle.
 
-A modern weaker power does not necessarily need to outspend, out-fly, out-compute or outgun the United States.
+A modern weaker power does not necessarily need to:
 
-It can ask:
+**outspend the United States;**
 
-> **What happens if we make the systems upon which American superiority depends politically, economically or psychologically expensive to use?**
+**out-fly the United States;**
+
+**out-compute the United States;**
+
+or
+
+**outgun the United States.**
+
+It can look for systems upon which American superiority depends and ask:
+
+> **What happens if we make those systems politically, economically or psychologically expensive to use?**
+
+That might mean shipping.
+
+It might mean energy prices.
+
+It might mean allied basing.
+
+It might mean insurance.
+
+It might mean infrastructure.
+
+It might mean public tolerance.
+
+It might mean forcing political leaders repeatedly to choose between two unpleasant options.
 
 The weapon is not necessarily the thing that explodes.
 
@@ -1188,21 +1434,31 @@ Sometimes the weapon is **the decision you force the opponent to make**.
 
 None of this is uniquely Persian.
 
+That is important.
+
 Britain learns war partly through an island, maritime and imperial strategic history.
 
 Russia inherits strategic memories involving enormous land borders, invasion, depth and catastrophic continental warfare.
 
-The United States inherits continental security, industrial scale, expeditionary warfare, technological superiority and the political memory of Pearl Harbor and 9/11.
+The United States inherits continental security, industrial scale, expeditionary warfare, technological superiority and the profound political memory of attacks including Pearl Harbor and 9/11.
 
-Israel, China, France, Japan, Ukraine and others have their own strategic archives.
+Israel has its own strategic archive concerning territorial vulnerability, mobilisation, deterrence and repeated regional war.
+
+China has another.
+
+France has another.
+
+Japan has another.
+
+Ukraine has another.
 
 Everyone learns war locally.
 
 Those histories do not mechanically determine present behaviour.
 
-They influence which problems institutions notice first, which solutions feel familiar, which analogies officers reach for, and which failures they are particularly determined not to repeat.
+They influence which problems institutions notice first, which solutions feel familiar, which historical analogies officers reach for, and which failures they are particularly determined not to repeat.
 
-The mistake is not looking at strategic culture.
+The analytical mistake is therefore not looking at strategic culture.
 
 The mistake is treating strategic culture as fate.
 
@@ -1210,15 +1466,31 @@ The mistake is treating strategic culture as fate.
 
 ## 🧭 History Gives Us Priors, Not Attribution
 
-If an operation involves deception, strategic patience, asymmetric cost, psychological pressure, ambiguous attribution, exploitation of superior-power vulnerabilities, or manipulation of expectations, we cannot say:
+This distinction needs protecting.
+
+If an operation involves:
+
+- deception;
+- strategic patience;
+- asymmetric cost;
+- psychological pressure;
+- ambiguous attribution;
+- exploitation of superior-power vulnerabilities;
+- or deliberate manipulation of an opponent's expectations,
+
+we cannot say:
 
 > **Aha. Very Persian. Therefore Iran.**
 
 Absolutely not.
 
-Other states and criminal organisations use these techniques too.
+Other states use all of those techniques.
 
-Historical comparison instead asks:
+Criminal organisations use several of them.
+
+Human beings discovered deception considerably before the invention of Iran.
+
+Historical comparison instead tells us:
 
 > **Would this objective make strategic sense inside the military and political tradition of the actor we are considering?**
 
@@ -1234,9 +1506,125 @@ Do not swap one for the other.
 
 ---
 
+## 📚 Historical Rabbit Holes
+
+Readers do not need to become historians of Iran to understand the cyber campaign.
+
+But if the strategic behaviour feels unfamiliar, several historical routes are worth exploring.
+
+### 👑 Achaemenid Empire
+
+Look beyond the Greco-Persian Wars themselves.
+
+Read about:
+
+- imperial administration;
+- the Royal Road;
+- satrapal government;
+- Persian diplomacy;
+- Cyrus and negotiated rule;
+- and how an enormous heterogeneous empire moved information, people and resources.
+
+Then ask:
+
+> **What does military power look like when governing information and distance is itself a strategic problem?**
+
+### 🐎 Parthia And Rome
+
+Start with:
+
+- the Battle of Carrhae;
+- Surena;
+- Crassus;
+- Parthian horse archery;
+- the Parthian shot;
+- cataphracts;
+- mobile ammunition supply;
+- and later Roman adaptation to Parthian warfare.
+
+Then ask:
+
+> **Which side successfully imposed its preferred form of warfare on the other?**
+
+### 🏜️ Safavid–Ottoman Warfare
+
+Look particularly at **Shah Tahmasp I** and Ottoman invasions of Safavid Iran.
+
+Read about:
+
+- strategic depth;
+- scorched-earth tactics;
+- logistics;
+- refusal of decisive battle;
+- Ottoman supply problems;
+- and the Peace of Amasya.
+
+Then ask:
+
+> **What happens when denying somebody victory is easier than defeating their army?**
+
+### ⚖️ Qajar Iran And The Great Powers
+
+Look at:
+
+- the Russo-Persian wars;
+- the Treaties of Gulistan and Turkmenchay;
+- Anglo-Russian competition;
+- the Constitutional Revolution;
+- foreign concessions;
+- and the Anglo-Russian Convention of 1907.
+
+Then ask:
+
+> **What strategic habits develop when conventional weakness repeatedly constrains political choice?**
+
+### 🌍 Iran During The World Wars
+
+Iran's experience during both world wars is worth reading precisely because declared neutrality did not guarantee territorial security.
+
+The **Anglo-Soviet invasion of Iran in 1941** is an especially useful historical reference point.
+
+Ask what a state learns when:
+
+> **we are neutral**
+
+does not prevent stronger powers deciding that its territory and infrastructure are strategically necessary.
+
+### 🕵️ 1953
+
+Read the history of the overthrow of Mohammad Mossadegh carefully and from more than one source.
+
+The U.S. government has published historical material concerning **TPAJAX**, while modern scholarship provides important argument about British, American and Iranian roles.
+
+Whatever interpretation a reader ultimately adopts, 1953 matters because **Iranian perceptions of foreign interference are not constructed from nothing**.
+
+### 🩸 Iran–Iraq War
+
+For contemporary doctrine, spend disproportionate time here.
+
+Read about:
+
+- the Iraqi invasion;
+- Khuzestan;
+- the defence of Iranian territory;
+- the War of the Cities;
+- chemical weapons;
+- the Tanker War;
+- Operation Praying Mantis;
+- international support structures;
+- and the eventual ceasefire.
+
+Then read modern Iranian doctrine.
+
+The connection becomes considerably easier to see.
+
+---
+
 ## 🎥 If You Prefer Watching Or Listening
 
 Good historical orientation does not have to begin with an academic monograph.
+
+But audiovisual material varies enormously in quality.
 
 Prefer:
 
@@ -1258,8 +1646,12 @@ Useful search topics include:
 - **Iran–Iraq War military history**
 - **Iranian asymmetric warfare**
 - **IRGC military doctrine**
+- **Iranian cyber strategy**
+- **Iranian information operations**
 
-Be cautious with videos promising to explain:
+For the modern period, recorded talks and interviews with scholars should be read alongside the written doctrinal material above rather than replacing it.
+
+Be particularly cautious with videos promising to explain:
 
 > **THE PERSIAN WAY OF WAR**
 
@@ -1268,6 +1660,54 @@ in twelve minutes over dramatic music.
 We are trying to understand strategic history.
 
 We are not selecting a civilisation bonus in *Age of Empires*.
+
+---
+
+## 🔎 Sources And Starting Points
+
+- **[Encyclopaedia Iranica — “Carrhae”](https://www.iranicaonline.org/articles/carrhae-harran-town-in-mesopotamia-where-in-may-53-b/)** — detailed scholarly treatment of the 53 BCE battle, including Surena's use of cavalry, logistics, manoeuvre and the Roman failure to impose close combat.
+- **[Encyclopaedia Iranica — “Orodes II”](https://www.iranicaonline.org/articles/orodes-ii/)** — additional context on Parthian military organisation and Surena.
+- **[Encyclopaedia Iranica — “Chaldiran”](https://www.iranicaonline.org/articles/calderan-battle/)** — useful for the Safavid encounter with Ottoman firearms, artillery and logistics.
+- **[Encyclopaedia Iranica — “Peace of Amasya”](https://www.iranicaonline.org/articles/amasya-peace/)** — useful for Safavid delay, scorched-earth tactics, Ottoman supply difficulties and the eventual settlement.
+- **[Encyclopaedia Iranica — “Treaty of Golestan”](https://www.iranicaonline.org/articles/golestan-treaty/)** — background to Qajar territorial loss after the Russo-Persian war.
+- **[Encyclopaedia Iranica — “Anglo-Iranian Relations: Pahlavi Period”](https://www.iranicaonline.org/articles/anglo-iranian-relations-iii/)** — useful on Iranian neutrality and the Anglo-Soviet invasion of 1941.
+- **[U.S. State Department — *Foreign Relations of the United States, 1952–1954, Iran, 1951–1954*](https://history.state.gov/historicaldocuments/frus1951-54Iran)** — primary documentary trail concerning the 1953 coup and Operation TPAJAX.
+- **[U.S. State Department — Eisenhower diary editorial note](https://history.state.gov/historicaldocuments/frus1951-54Iran/d328)** — useful primary-source trail concerning Eisenhower's description of the U.S. role.
+- **[Michael Connell — *Iran's Military Doctrine*, The Iran Primer](https://iranprimer.usip.org/sites/default/files/Iran_s%20Military%20Doctrine.pdf)** — particularly useful for the modern end of the comparison: the Iran–Iraq War as formative experience, adaptation from subsequent conflicts, asymmetric warfare, strategic depth and attempts to impose psychological and political costs on technologically superior adversaries.
+- **[The Iran Primer — Military Doctrine](https://iranprimer.usip.org/resource/military-doctrine)** — accessible overview of Iranian deterrence and asymmetric military strategy.
+- **[RAND — *The Future of Warfare*, Volume 3](https://www.rand.org/content/dam/rand/pubs/research_reports/RR2800/RR2849z3/RAND_RR2849z3.pdf)** — broader comparative treatment of Iran's asymmetric approaches to conventionally superior opponents.
+- **[CSIS — Beyond Hacktivism: Iran's Coordinated Cyber Threat Landscape](https://www.csis.org/blogs/strategic-technologies-blog/beyond-hacktivism-irans-coordinated-cyber-threat-landscape)** — modern discussion of state-linked, hacktivist and proxy-like cyber activity.
+- **[Microsoft Threat Intelligence — Iran surges cyber-enabled influence operations](https://www.microsoft.com/en-us/security/security-insider/threat-landscape/iran-surges-cyber-enabled-influence-operations-in-support-of-hamas)** — useful for the overlap between cyber activity and information operations.
+- **Pierre Briant — *From Cyrus to Alexander: A History of the Persian Empire*** — substantial introduction to Achaemenid imperial structures, politics and strategy.
+- **The Cambridge History of Iran** — useful multi-volume scholarly reference across the periods discussed here.
+- **Roger Savory — *Iran Under the Safavids*** — useful book-length Safavid overview.
+- **Abbas Amanat — *Iran: A Modern History*** — broad modern history useful for Qajar, Pahlavi and foreign-intervention context.
+- **Ervand Abrahamian — *The Coup: 1953, the CIA, and the Roots of Modern U.S.-Iranian Relations*** — influential interpretation of the 1953 coup.
+- **Mark J. Gasiorowski and Malcolm Byrne (eds.) — *Mohammad Mosaddeq and the 1953 Coup in Iran*** — useful for competing interpretations and documentary context.
+- **Pierre Razoux — *The Iran-Iraq War*** — major modern military history of the 1980–1988 conflict.
+- **Williamson Murray and Kevin M. Woods — *The Iran-Iraq War: A Military and Strategic History*** — detailed strategic and operational study.
+- **Nikolaus L. Overtoom — “The Parthians' Unique Mode of Warfare: a Tradition of Parthian Militarism and the Battle of Carrhae”** — useful academic treatment of Parthian warfare as a wider military tradition rather than a single clever afternoon.
+
+### 🧿 Source Cautions
+
+Historical comparison is only as good as the source handling underneath it.
+
+A few cautions matter:
+
+- much of the surviving narrative evidence for ancient Persian and Parthian warfare comes through Greek and Roman writers;
+- those writers are indispensable, but they are not neutral observers;
+- modern military assessments of Iran often reflect the threat models and institutional assumptions of the organisations producing them;
+- Iranian state accounts carry their own political and institutional incentives;
+- retrospective strategic narratives tend to make doctrine look more coherent than it was while events were actually unfolding;
+- and no historical resemblance substitutes for modern attribution evidence.
+
+The correct use of this history is:
+
+> **Does this help us understand why an objective might make strategic sense?**
+
+Not:
+
+> **Does this historical analogy prove who touched the keyboard?**
 
 ---
 
