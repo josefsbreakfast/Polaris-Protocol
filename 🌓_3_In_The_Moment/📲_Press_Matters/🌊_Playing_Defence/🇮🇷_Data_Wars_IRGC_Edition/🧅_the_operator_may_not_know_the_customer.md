@@ -1,5 +1,5 @@
 # 🧅 The Operator May Not Know The Customer
-**First created:** 2026-08-01 | **Last updated:** 2026-08-20
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
 *The person carrying out the task may know only the layer directly above them — and the damage may not be visible until the layers are peeled back.*
 
 ---
@@ -1356,6 +1356,14 @@ It maps the layered labour, commissioning, procurement, recruitment, access, acq
 > - [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) — *recording provenance and confidence at the layer actually evidenced*
 > - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *language that preserves the difference between access, operation, direction and benefit*
 > - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *source provenance and claim-level evidence logging*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
