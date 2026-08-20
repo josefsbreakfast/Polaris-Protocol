@@ -1,5 +1,5 @@
 # 🌊 Riding Every Wave
-**First created:** 2026-08-14 | **Last updated:** 2026-08-20
+**First created:** 2026-08-14 | **Last updated:** 2026-08-20  
 *How state campaigns, aligned actors, shared vulnerabilities, criminal follow-on and ordinary opportunism can overlap without sharing a command structure.*
 
 ---
@@ -901,6 +901,14 @@ It preserves causal, technical, market, commissioning and downstream-use relatio
 > - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *language for downstream, linked, aligned and directed activity*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *incident-level chronology in which different campaign waves can be recorded separately*
 > - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *cumulative pressure across distributed incidents*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
