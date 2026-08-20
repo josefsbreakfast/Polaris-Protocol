@@ -1,5 +1,5 @@
 # 🔎 Confidence Labels And Source Rules
-**First created:** 2026-08-01 | **Last updated:** 2026-08-19  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
 *Keeping event, effect, pattern, attribution, sponsorship, source quality, recovery, and legal significance separate enough to remain useful when the evidence changes.*
 
 ---
@@ -3384,4 +3384,4 @@ It defines the evidentiary, provenance, confidence, relationship, attribution, c
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-19_
+_Last updated: 2026-08-20_
