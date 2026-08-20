@@ -1,5 +1,5 @@
 # ⛴️ Do Ports Count?  
-**First created:** 2026-08-12 | **Last updated:** 2026-08-16  
+**First created:** 2026-08-12 | **Last updated:** 2026-08-20  
 *Why a cyber incident at a port belongs in an essential-state-infrastructure watch even when the cranes keep moving.*
 
 ---
@@ -19,14 +19,14 @@ commerce and state continuity.
 
 A port can simultaneously be:
 
--   a commercial workplace,
--   a transport node,
--   a customs boundary,
--   a logistics database,
--   a fuel and commodity gateway,
--   a military-supporting facility,
--   and one of the places where disruption elsewhere becomes visible in
-    the physical world.
+- a commercial workplace,
+- a transport node,
+- a customs boundary,
+- a logistics database,
+- a fuel and commodity gateway,
+- a military-supporting facility,
+- and one of the places where disruption elsewhere becomes visible in
+  the physical world.
 
 That makes ports relevant to an infrastructure-disruption watch even
 where attribution remains completely open.
@@ -51,15 +51,15 @@ Modern ports are also information systems.
 
 Cargo has to be:
 
--   identified,
--   authorised,
--   manifested,
--   inspected,
--   released,
--   routed,
--   collected,
--   billed,
--   and reconciled.
+- identified,
+- authorised,
+- manifested,
+- inspected,
+- released,
+- routed,
+- collected,
+- billed,
+- and reconciled.
 
 Vehicles need gate instructions. Customs authorities need records.
 Shipping lines need manifests. Terminal operators need scheduling
@@ -89,11 +89,11 @@ operational categories.
 
 Examples include compromise of:
 
--   email,
--   payroll,
--   ordinary office networks,
--   public websites,
--   peripheral corporate systems.
+- email,
+- payroll,
+- ordinary office networks,
+- public websites,
+- peripheral corporate systems.
 
 These incidents matter, but may have little immediate effect on
 transport continuity.
@@ -102,14 +102,14 @@ transport continuity.
 
 This includes interference with:
 
--   gate processing,
--   cargo-management systems,
--   manifests,
--   terminal scheduling,
--   customs interfaces,
--   truck appointments,
--   container-location records,
--   access-control systems.
+- gate processing,
+- cargo-management systems,
+- manifests,
+- terminal scheduling,
+- customs interfaces,
+- truck appointments,
+- container-location records,
+- access-control systems.
 
 The machinery itself may remain intact while throughput deteriorates.
 
@@ -120,15 +120,15 @@ This is already an **essential-infrastructure effect**.
 The highest-consequence category includes demonstrated interference with
 systems controlling or supporting:
 
--   cranes,
--   fuel handling,
--   electrical distribution,
--   navigation,
--   signalling,
--   industrial machinery,
--   pumps,
--   hazardous-material processes,
--   or safety systems.
+- cranes,
+- fuel handling,
+- electrical distribution,
+- navigation,
+- signalling,
+- industrial machinery,
+- pumps,
+- hazardous-material processes,
+- or safety systems.
 
 That is a materially different claim and should require materially
 stronger evidence.
@@ -137,6 +137,48 @@ A report saying that a port's *systems were down* does **not** establish
 that its industrial-control systems were compromised.
 
 Polaris should keep that distinction stubbornly intact.
+
+---
+
+## 🔧 Common Machinery Can Join Ports To A Wider Threat Surface  
+
+On 19 August, United States agencies warned of an active threat to Siemens
+S7-series programmable logic controllers across several critical-infrastructure
+sectors. The advisory described possible read-and-write access, disruption,
+safety incidents, downtime, equipment damage and cascading effects. It did not
+attribute the active threat to Iran.  
+[CISA and partners — *Defending Against an Active Threat to Siemens S7 Series
+PLCs*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-231a)
+
+Ports were not thereby established as victims.
+
+The warning matters because the functions found around ports can include the
+same kinds of industrial control and automation used elsewhere:
+
+- electrical distribution;
+- pumps and drainage;
+- fuel handling;
+- cranes and conveyor systems;
+- gates and access control;
+- refrigeration;
+- environmental monitoring;
+- and hazardous-material processes.
+
+Common product exposure can therefore connect a port to a wider defensive
+problem without proving a common incident or sponsor.
+
+```text
+SAME PRODUCT FAMILY
+≠
+SAME CONFIGURATION
+≠
+SAME COMPROMISE
+≠
+SAME OPERATOR
+```
+
+For port analysis, record the product, function, network exposure and observed
+effect separately.
 
 ---
 
@@ -154,14 +196,14 @@ An attacker does not necessarily need to close a port completely.
 
 Partial degradation can create:
 
--   queues,
--   missed sailings,
--   storage congestion,
--   demurrage costs,
--   disrupted manufacturing inputs,
--   delayed exports,
--   shortages downstream,
--   and uncertainty about whether further disruption is coming.
+- queues,
+- missed sailings,
+- storage congestion,
+- demurrage costs,
+- disrupted manufacturing inputs,
+- delayed exports,
+- shortages downstream,
+- and uncertainty about whether further disruption is coming.
 
 That last effect matters.
 
@@ -203,14 +245,14 @@ continues.
 
 The relevant questions are therefore:
 
--   What functions moved to manual operation?
--   What proportion of normal throughput remained possible?
--   How long could the fallback operate?
--   Were records complete enough to reconcile afterwards?
--   Did queues or cargo accumulation develop?
--   Were customs, security or safety processes degraded?
--   Did neighbouring ports or transport networks absorb displaced
-    traffic?
+- What functions moved to manual operation?
+- What proportion of normal throughput remained possible?
+- How long could the fallback operate?
+- Were records complete enough to reconcile afterwards?
+- Did queues or cargo accumulation develop?
+- Were customs, security or safety processes degraded?
+- Did neighbouring ports or transport networks absorb displaced
+  traffic?
 
 A successful workaround changes the **severity assessment**.
 
@@ -225,18 +267,18 @@ not necessarily correspond to technical boundaries.
 
 A port may interact with:
 
--   shipping companies,
--   customs agencies,
--   freight forwarders,
--   railway operators,
--   road hauliers,
--   fuel suppliers,
--   warehouses,
--   defence contractors,
--   telecommunications providers,
--   banks,
--   insurers,
--   and industrial operators.
+- shipping companies,
+- customs agencies,
+- freight forwarders,
+- railway operators,
+- road hauliers,
+- fuel suppliers,
+- warehouses,
+- defence contractors,
+- telecommunications providers,
+- banks,
+- insurers,
+- and industrial operators.
 
 This creates two analytically important possibilities.
 
@@ -265,7 +307,7 @@ That distinction is essential when reconstructing campaigns.
 
 ## ✈️ CEVA — Logistics Disruption Does Not Automatically Become A Port Incident
 
-The July--August 2026 CEVA Logistics incident is a useful boundary
+The July–August 2026 CEVA Logistics incident is a useful boundary
 correction.
 
 A cyberattack affected contract-logistics operations at eight European
@@ -374,14 +416,21 @@ Sources:
 The August 2026 North Carolina State Ports incident is useful precisely
 because it demonstrates the boundary problem.
 
-Public reporting described disruption across the Port of Wilmington,
-Port of Morehead City and Charlotte Inland Port, including effects on
-gate and cargo-processing functions and use of manual procedures while
-systems were restored.
+The attack was detected on 4 August and affected the authority's IT systems at
+the Port of Wilmington, Port of Morehead City and Charlotte Inland Port. The
+authority activated its contingency plan, delayed gate opening in Wilmington
+and moved gate processing to manual operation. Normal schedules later resumed
+while manual processing and restoration continued. The cited reporting carried
+no public attribution and no indication at that stage that sensitive data was
+compromised.  
+[WECT — *Cyberattack disrupts operations at North Carolina ports in Wilmington,
+Morehead City and Charlotte*](https://www.wect.com/2026/08/05/cyberattack-disrupts-operations-nc-ports-wilmington-morehead-city-charlotte/)  
+[The Record — *Cyberattack on North Carolina Ports contained as Coast Guard and
+state officials investigate*](https://therecord.media/cyberattack-north-carolina-ports)
 
 On presently available evidence, that supports classification as:
 
-> **transport infrastructure --- operational IT disruption**
+> **transport infrastructure — operational IT disruption**
 
 It does **not**, without additional evidence, support:
 
@@ -397,6 +446,19 @@ The incident belongs in the dataset because the **affected function
 qualifies**, not because the suspected perpetrator does.
 
 That is an important methodological safeguard for this cluster.
+
+The current evidence supports:
+
+```text
+DIRECT PORT IT COMPROMISE: ESTABLISHED
+OPERATIONAL LOGISTICS EFFECT: ESTABLISHED
+MANUAL FALLBACK: ESTABLISHED
+VESSEL ACTIVITY DISRUPTION: NOT ESTABLISHED
+PORT OT COMPROMISE: NOT ESTABLISHED
+SENSITIVE-DATA COMPROMISE: NOT INDICATED IN CITED REPORTING
+ACTOR OR SPONSOR: OPEN
+IRAN CONNECTION: NO PUBLIC EVIDENCE IDENTIFIED
+```
 
 ---
 
@@ -434,6 +496,52 @@ Therefore:
 
 That equation should probably be nailed to the door.
 
+The wartime context nevertheless matters. On 6 August, Reuters reported a
+Saudi assessment of possible attacks by Iranian-aligned forces against civilian
+and economic infrastructure including energy facilities, ports and airports.
+That reporting raises the contextual relevance of later Gulf port incidents. It
+does not establish a cyber campaign, prove the reported plan or attribute an
+unrelated port outage.  
+[Reuters — *Saudi Arabia expects imminent attacks from north and south, senior
+official says*](https://www.reuters.com/world/middle-east/saudi-arabia-expects-imminent-attacks-north-south-senior-official-says-2026-08-06/)
+
+---
+
+## ⚖️ Strategic Importance Is Not Automatic Targetability  
+
+A port may support both civilian commerce and military logistics.
+
+That does not turn the whole port, every tenant, every database, every worker or
+every connected supply chain into one military objective.
+
+International humanitarian law requires distinction between civilian objects
+and military objectives. A civilian or dual-use object may qualify as a military
+objective only where the applicable criteria are met; precautions,
+proportionality and civilian protection remain relevant. The legal analysis is
+specific to the object, its use, the operation and the expected effects.  
+[ICRC — *IHL and the escalating conflict in the Middle East*](https://www.icrc.org/en/article/faq-ihl-and-escalating-conflict-middle-east)  
+[ICRC — *Conduct of hostilities*](https://casebook.icrc.org/law/conduct-hostilities)
+
+The analytical distinctions are:
+
+```text
+PORT COUNTS AS ESSENTIAL INFRASTRUCTURE
+≠
+WHOLE PORT IS A MILITARY OBJECTIVE
+
+PORT SUPPORTS SOME MILITARY LOGISTICS
+≠
+EVERY CIVILIAN FUNCTION LOSES PROTECTION
+
+PORT CYBER INCIDENT OCCURS DURING WAR
+≠
+THE OPERATION HAS AN ARMED-CONFLICT NEXUS
+```
+
+Essentialness answers why disruption matters.
+
+It does not answer whether an attack was lawful.
+
 ---
 
 ## 🔬 What Would Make A Port Incident More Interesting?
@@ -445,21 +553,21 @@ features appear.
 
 Watch especially for:
 
--   several ports affected within a compressed period;
--   recurrence against the same operator after restoration;
--   common remote-access infrastructure;
--   similar initial-access techniques;
--   targeting of customs or cargo-management systems;
--   simultaneous disruption of rail, trucking or warehousing;
--   activity against fuel terminals;
--   compromise of maritime telecommunications;
--   evidence of reconnaissance predating hostilities;
--   destructive activity where extortion would have been easier;
--   attackers declining obvious opportunities for financial gain;
--   targeting corresponding unusually closely with military or
-    diplomatic developments;
--   or infrastructure access being obtained through criminal
-    intermediaries.
+- several ports affected within a compressed period;
+- recurrence against the same operator after restoration;
+- common remote-access infrastructure;
+- similar initial-access techniques;
+- targeting of customs or cargo-management systems;
+- simultaneous disruption of rail, trucking or warehousing;
+- activity against fuel terminals;
+- compromise of maritime telecommunications;
+- evidence of reconnaissance predating hostilities;
+- destructive activity where extortion would have been easier;
+- attackers declining obvious opportunities for financial gain;
+- targeting corresponding unusually closely with military or
+  diplomatic developments;
+- or infrastructure access being obtained through criminal
+  intermediaries.
 
 None individually proves state sponsorship.
 
@@ -471,7 +579,7 @@ Together, they can change the prior probability.
 
 The neatest intelligence diagram has:
 
-``` text
+```text
 STATE
   ↓
 OPERATOR
@@ -483,7 +591,7 @@ The internet has declined to cooperate.
 
 A more realistic chain may contain:
 
-``` text
+```text
 state interest
       ↓
 tasking / tolerated objective
@@ -525,10 +633,19 @@ supply chains.**
 
 Each entry should distinguish:
 
+**Event type:** cyber / kinetic / physical-safety / technical failure / open  
 **Sector:** transport / maritime logistics  
+**Affected object:** authority / terminal / tenant / warehouse / vessel / vendor / shared platform  
+**Function affected:** gates / cargo / customs / fuel / rail / road / navigation / safety / administration  
 **Layer:** corporate IT / operational IT / OT  
 **Operational effect:** none / degraded / manual fallback / partial
 closure / closure / physical-process effect  
+**Normal throughput:** known / estimated / unknown  
+**Fallback throughput:** known / estimated / unknown  
+**Backlog or dwell effect:** none / suspected / demonstrated  
+**Product or shared dependency:** identified / suspected / unknown  
+**Military-logistics use:** established / alleged / not identified  
+**Legal-analysis status:** not assessed / civilian object / dual-use question / military-objective analysis required  
 **Attribution:** confirmed / probable / suspected / claimed / open  
 **Iran connection:** established / plausible but unsupported / no
 evidence found  
@@ -541,9 +658,17 @@ And, for incidents connected only indirectly to maritime trade:
 ```text
 PORT RELATIONSHIP:
 DIRECT PORT COMPROMISE:
+PORT FACILITY / TENANT / VENDOR AFFECTED:
+FUNCTION AFFECTED:
+IT / OPERATIONAL IT / OT LAYER:
 PORT OPERATIONAL EFFECT:
+MANUAL FALLBACK AND CAPACITY:
+BACKLOG / DWELL / QUEUE EFFECT:
 WAREHOUSE / LOGISTICS EFFECT:
 SECOND-ORDER PORT EFFECT:
+SHARED PRODUCT / PROVIDER:
+MILITARY-LOGISTICS EVIDENCE:
+ARMED-CONFLICT NEXUS:
 EVIDENCE LINKING THE EFFECTS:
 ```
 
@@ -557,6 +682,30 @@ and
 > terminal spreadsheet.
 
 Both are surprisingly efficient ways of losing the plot.
+
+---
+
+## 🚫 What This Node Does Not Claim  
+
+This node does not claim that:
+
+- every cyber incident affecting a port is strategically directed;
+- the North Carolina attack involved operational technology;
+- the North Carolina attack has been attributed to Iran;
+- the Siemens S7 warning establishes compromise of any port;
+- a reported threat against Gulf ports proves that an operation occurred;
+- a wartime port incident automatically has an armed-conflict nexus;
+- military cargo passing through part of a port removes civilian protection from
+  the whole facility;
+- a logistics company incident is automatically a port incident;
+- or successful manual fallback means there was no operational effect.
+
+Ports belong in the watch because their functions carry state, civilian and
+supply-chain consequence.
+
+Inclusion widens the sensor.
+
+It does not lower the proof threshold.
 
 ---
 
@@ -590,8 +739,8 @@ That is why ports count.
 
 ## 🌌 Constellations
 
-⛴️ 🌊 🕸️ 🧿 🛠️ --- maritime logistics; infrastructure interdependence;
-cyber-to-physical propagation; attribution discipline.  
+⛴️ 🌊 🕸️ 🧿 🛠️ ⚖️ — maritime logistics; infrastructure interdependence;
+cyber-to-physical propagation; attribution discipline; dual-use analysis.  
 
 ---
 
@@ -600,25 +749,28 @@ cyber-to-physical propagation; attribution discipline.
 critical infrastructure, ports, maritime transport, logistics,
 warehouses, cyber disruption, operational technology, supply chains,
 port relationships, second-order effects, attribution, iran,
-infrastructure coercion
+infrastructure coercion, North Carolina Ports, manual fallback, Siemens S7,
+dual-use infrastructure, military logistics
 
 ---
 
 ## 🏮 Footer
 
-*Do Ports Count?* is a living node of the **Polaris Protocol**.  
+*⛴️ Do Ports Count?* is a living node of the **Polaris Protocol**.  
 It defines why maritime logistics belongs within essential-state-infrastructure monitoring while preserving the distinction between ordinary IT compromise, operational disruption, OT interference and state attribution.  
 Its purpose is to widen the sensor without lowering the evidentiary threshold.
 
 > 📡 Cross-references:
 >
-> -   [⏱️ Timeline of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) --- *incident chronology and attribution tracking*
-> -   [🏗️ What Counts as State Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) --- *functional boundaries for inclusion in the watch*
-> -   [🕸️ Attribution Is Not a Light Switch](./🕸️_attribution_is_not_a_light_switch.md) --- *confidence gradients and competing explanations*
-> -   [🧅 The Operator May Not Know the Customer](./🧅_the_operator_may_not_know_the_customer.md) --- *intermediaries, proxies, affiliates and obscured tasking*
-> -   [🚰 When Cyber Reaches the Machinery](./🚰_when_cyber_reaches_the_machinery.md) --- *distinguishing information-system disruption from physical-process effects*
-> -   [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) --- *keeping logistics, criminal and Iran-linked waves analytically separate*
+> - [⏱️ Timeline of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *incident chronology and attribution tracking*
+> - [🏗️ What Counts as State Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) — *functional boundaries for inclusion in the watch*
+> - [🕸️ Attribution Is Not a Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *confidence gradients and competing explanations*
+> - [🧅 The Operator May Not Know the Customer](./🧅_the_operator_may_not_know_the_customer.md) — *intermediaries, proxies, affiliates and obscured tasking*
+> - [🚰 When Cyber Reaches the Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *distinguishing information-system disruption from physical-process effects*
+> - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *keeping logistics, criminal and Iran-linked waves analytically separate*
+> - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *armed-conflict nexus, civilian objects and legal classification*
+> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *the pack's source ledger and evidence-status record*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-20_
