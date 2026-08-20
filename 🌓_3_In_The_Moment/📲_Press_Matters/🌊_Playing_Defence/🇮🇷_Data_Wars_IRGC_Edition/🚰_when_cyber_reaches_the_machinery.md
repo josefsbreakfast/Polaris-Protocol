@@ -1,10 +1,10 @@
-# 🚰 When Cyber Reaches The Machinery  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-15  
-*The threshold changes when a cyber incident begins reaching the systems that monitor, control, or physically alter water, energy, fuel, transport, or other essential processes.*  
+# 🚰 When Cyber Reaches The Machinery
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20
+*The threshold changes when a cyber incident begins reaching the systems that monitor, control, or physically alter water, energy, fuel, transport, or other essential processes.*
 
 ---
 
-## 🛰️ Orientation  
+## 🛰️ Orientation
 
 A stolen database and a manipulated pump are both cyber incidents.
 
@@ -47,7 +47,7 @@ They should be recorded separately.
 
 ---
 
-## 🏭 Information Technology Is Not The Whole System  
+## 🏭 Information Technology Is Not The Whole System
 
 Most public discussion of cybersecurity focuses on information technology:
 
@@ -101,7 +101,7 @@ But the existence of that route does not establish how far along it the attacker
 
 ---
 
-## 🪜 The Depth-Of-Access Ladder  
+## 🪜 The Depth-Of-Access Ladder
 
 The phrase:
 
@@ -151,7 +151,65 @@ That makes movement deeper into operational systems visible without converting c
 
 ---
 
-## 👁️ Loss Of View Is Not The Same As Loss Of Control  
+## 🧪 Access, Capability, Action, And Effect Are Separate Columns
+
+Depth of access is only one axis.
+
+The record must also distinguish what the actor could do from what the actor actually did.
+
+```text
+ACCESS
+→ what environment or interface was reached?
+
+CAPABILITY
+→ what functions did the access technically permit?
+
+ACTION
+→ what command, write, configuration change, or manipulation was observed?
+
+PROCESS RESPONSE
+→ what did the machinery or controlled process do?
+
+SERVICE EFFECT
+→ what changed for the utility, operator, dependent service, or public?
+
+HUMAN CONSEQUENCE
+→ who absorbed danger, labour, delay, deprivation, or physical harm?
+```
+
+These columns may stop at different points.
+
+For example:
+
+```text
+tool supports read and write access
+≠
+write command observed at this facility
+
+write command observed
+≠
+physical process changed
+
+physical process changed
+≠
+civilian harm occurred
+
+service maintained
+≠
+no operational or human cost
+```
+
+Capability evidence is strategically important.
+
+It must not be rewritten as completed action.
+
+Observed action is operationally important.
+
+It must not be inflated into a consequence the evidence does not show.
+
+---
+
+## 👁️ Loss Of View Is Not The Same As Loss Of Control
 
 Operational incidents should distinguish between several different forms of degradation.
 
@@ -199,7 +257,7 @@ The physical service may continue while the operator's confidence in the control
 
 ---
 
-## 🚰 Water Is The Clearest Warning  
+## 🚰 Water Is The Clearest Warning
 
 Water and wastewater systems are especially important because many are:
 
@@ -233,7 +291,7 @@ It can also show that the normal digital control environment has become unreliab
 
 ---
 
-## 🇺🇸 The July Water Wave Crossed The Machinery Threshold  
+## 🇺🇸 The July–August Water Wave Crossed The Machinery Threshold
 
 The July 2026 U.S. water incidents are no longer describable merely as:
 
@@ -248,7 +306,7 @@ programmable logic controllers. The attackers remotely accessed devices and
 changed IP addresses and passwords. That caused loss of monitoring and control
 functionality. Across the affected systems, the FBI also recorded loss of view,
 loss of function, modified PLC project files, ladder-logic discrepancies, loss
-of water pressure and flooding.  
+of water pressure and flooding.
 [FBI and EPA — *Malicious Cyber Actors Targeting Water and Wastewater Sector
 Internet-Facing Programmable Logic Controllers, Causing Operational
 Disruptions*](https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions)
@@ -309,46 +367,46 @@ should be projected onto every other victim.
 
 ---
 
-## 🧭 Technical Confidence Is Higher Than Attribution Confidence  
+## 🧭 Technical Confidence Is Higher Than Attribution Confidence
 
 The machinery finding and the actor finding are not at the same evidentiary
 stage.
 
-### 1. Federal Technical Finding — Confirmed  
+### 1. Federal Technical Finding — Confirmed
 
 The FBI/EPA alert confirms malicious remote access, configuration changes and
 operational effects across the multi-state wave.
 
-### 2. Prior Iran-Linked Threat Pattern — Confirmed Context  
+### 2. Prior Iran-Linked Threat Pattern — Confirmed Context
 
 Eight days earlier, CISA, the FBI, NSA, EPA and international partners warned
 that Iranian-affiliated actors were exploiting internet-connected PLCs with the
 intent to cause disruption. That advisory is strong evidence of an active and
 relevant threat pattern. It is not, by itself, attribution of every later
-incident using similar equipment.  
+incident using similar equipment.
 [CISA and partners — *Iranian-Affiliated Cyber Actors Exploit Programmable
 Logic Controllers*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a)
 
-### 3. Reported Investigative Assessment — Iran Likely  
+### 3. Reported Investigative Assessment — Iran Likely
 
 The Washington Post reported that U.S. intelligence agencies assessed Iran was
 likely behind the coordinated Minnesota attacks, while also reporting that the
 agencies had not reached a definitive conclusion. Reuters separately reported
-that no U.S. agency had formally attributed the attacks publicly.  
+that no U.S. agency had formally attributed the attacks publicly.
 [Washington Post — *U.S. spy agencies suspect Iran launched cyberattack on
-Minnesota water facilities*](https://www.washingtonpost.com/national-security/2026/07/30/us-spy-agencies-suspect-iran-launched-cyberattack-minnesota-water-facilities/)  
+Minnesota water facilities*](https://www.washingtonpost.com/national-security/2026/07/30/us-spy-agencies-suspect-iran-launched-cyberattack-minnesota-water-facilities/)
 [Reuters — *Trump says Iran not to blame for Minnesota cyber
 attack*](https://www.reuters.com/world/us/trump-says-iran-not-blame-minnesota-cyber-attack-2026-07-31/)
 
-### 4. Actor Claim — Material New Evidence, Not Independent Proof  
+### 4. Actor Claim — Material New Evidence, Not Independent Proof
 
 On 12 August, APT IRAN reportedly stated that the Minnesota operation was
 conducted with CyberAv3ngers and that the groups took direct responsibility.
 KSTP reported the Telegram statement through Threat Beat at Auburn University's
 McCrary Institute. U.S. government reporting has previously described
-CyberAv3ngers as affiliated with the IRGC Cyber-Electronic Command.  
+CyberAv3ngers as affiliated with the IRGC Cyber-Electronic Command.
 [KSTP — *Hacking group linked to Iran claims responsibility for cyberattack on
-Minnesota water systems*](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)  
+Minnesota water systems*](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
 [CISA — *IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple
 Sectors*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
 
@@ -370,7 +428,7 @@ OT MANIPULATION:              CONFIRMED
 MULTI-STATE OPERATIONAL WAVE: CONFIRMED
 MINNESOTA IRAN-LINKED CASE:   STRENGTHENED / PROBABLE
 ACTOR RESPONSIBILITY CLAIM:   CONFIRMED AS A CLAIM
-FORMAL PUBLIC ATTRIBUTION:    NOT YET ISSUED
+FORMAL PUBLIC ATTRIBUTION:    NOT PUBLICLY ISSUED THROUGH 19 AUGUST
 COMMON ACTOR FOR EVERY SITE:  NOT ESTABLISHED
 ```
 
@@ -381,7 +439,65 @@ picture changes.
 
 ---
 
-## 🚰 The Water-Control Question  
+## 🛡️ 19 August 2026 — Active Siemens Threat And Capability Development
+
+A new joint advisory from the NSA, CISA, FBI, Department of Energy, and Environmental Protection Agency expanded the machinery picture.
+
+The agencies warned of an active threat to Siemens S7 Series programmable logic controllers across critical manufacturing, energy, water and wastewater, chemical, food and agriculture, and commercial facilities.
+
+The advisory described actors:
+
+- scanning for exposed or poorly protected PLCs;
+- using AI assistance to develop exploitation scripts;
+- using public industrial-automation libraries to obtain read/write access;
+- accessing memory, configuration data, and ladder logic;
+- testing and refining capabilities against particular PLC models;
+- and preparing for possible future operational effects.
+
+It also warned that organisations may not realise that third-party service providers or system integrators retain remote access to their PLCs.
+
+[NSA, CISA, FBI, DOE and EPA — *Defending Against an Active Threat to Siemens S7 Series PLCs*](https://media.defense.gov/2026/Aug/18/2003983494/-1/-1/1/CSA_ACTIVE_THREAT_TO_SIEMENS_S7_SERIES_PLCS.PDF)
+
+The advisory changes several technical findings:
+
+```text
+ACTIVE THREAT TO SIEMENS S7 PLCs:
+🟢 CONFIRMED BY JOINT FEDERAL WARNING
+
+RECONNAISSANCE AND CAPABILITY DEVELOPMENT:
+🟢 CONFIRMED AS THE ASSESSED ACTIVITY PATTERN
+
+READ / WRITE TOOL CAPABILITY:
+🟢 DESCRIBED
+
+PREPARATION FOR POSSIBLE OPERATIONAL EFFECTS:
+🟡 AGENCY ASSESSMENT
+
+WRITE ACTION AT EVERY IDENTIFIED FACILITY:
+NOT ESTABLISHED
+
+PHYSICAL EFFECT AT EVERY TARGET:
+NOT ESTABLISHED
+
+OPERATOR OF THE RECENT LOCAL WATER INCIDENTS:
+NOT NAMED BY THE ADVISORY
+
+FORMAL IRAN ATTRIBUTION FOR THOSE INCIDENTS:
+NOT PUBLICLY ISSUED THROUGH 19 AUGUST
+```
+
+Reuters separately reported that federal officials had stopped short of formally linking Iran to the recent local water attacks.
+[Reuters — *US warns Siemens devices can be hacked amid fears Iran is breaching water plants*](https://www.reuters.com/world/us-warns-siemens-devices-can-be-hacked-amid-fears-iran-is-breaching-water-plants-2026-08-19/)
+
+This is exactly why capability, action, effect, and attribution require separate columns.
+
+The threat moved deeper.
+
+The public evidence did not move every incident to the same depth.
+
+---
+
+## 🚰 The Water-Control Question
 
 For water incidents, the pack should resist collapsing everything into:
 
@@ -431,7 +547,7 @@ The timeline should preserve what is actually known.
 
 ---
 
-## 🧯 Manual Operation Is Still Operational Harm  
+## 🧯 Manual Operation Is Still Operational Harm
 
 Public reporting often treats manual fallback as proof that nothing serious happened.
 
@@ -477,7 +593,41 @@ Both facts belong in the record.
 
 ---
 
-## 🧪 Manual Fallback Should Be Measured  
+## 🧍 Manual Fallback Moves Risk Into People
+
+“The service continued” can conceal who kept it continuing.
+
+Manual fallback may transfer system risk into:
+
+- operators called out at short notice;
+- staff working longer or overnight shifts;
+- engineers travelling to remote sites;
+- people making safety-critical decisions with incomplete telemetry;
+- neighbouring services absorbing diverted work;
+- disabled, ill, elderly, or isolated people less able to tolerate delay or uncertainty;
+- and households expected to manage boil-water notices, pressure loss, interruption, or contaminated trust.
+
+The body becomes part of the redundancy plan.
+
+That may be necessary.
+
+It is not costless.
+
+A resilience assessment should therefore ask both:
+
+```text
+DID THE SERVICE CONTINUE?
+
+and
+
+WHO ABSORBED THE WORK, RISK, DELAY, AND UNCERTAINTY REQUIRED TO KEEP IT CONTINUING?
+```
+
+If continuity depends on exceptional human effort, that effort is part of the operational effect.
+
+---
+
+## 🧪 Manual Fallback Should Be Measured
 
 Where information is available, machinery-linked incidents should record:
 
@@ -490,6 +640,11 @@ NORMAL AUTOMATION RESTORED:
 NORMAL REMOTE CONTROL RESTORED:
 TIME TO RESTORE:
 ADDITIONAL STAFF REQUIRED:
+SHIFT EXTENSION / FATIGUE:
+REMOTE SITE ATTENDANCE:
+SAFETY-CRITICAL DECISIONS UNDER DEGRADED VISIBILITY:
+PUBLIC ADVISORY OR BEHAVIOUR CHANGE REQUIRED:
+DISPROPORTIONATE EFFECT ON HIGH-DEPENDENCY USERS:
 ```
 
 This prevents:
@@ -506,7 +661,7 @@ It does not erase the intrusion that tested it.
 
 ---
 
-## ⚡ Energy And Control Systems  
+## ⚡ Energy And Control Systems
 
 Energy infrastructure creates similar risks.
 
@@ -552,7 +707,7 @@ PHYSICAL EFFECT
 
 ---
 
-## 📡 Remote Access Creates A Repeated Weakness  
+## 📡 Remote Access Creates A Repeated Weakness
 
 Operational systems are often connected remotely for legitimate reasons:
 
@@ -588,7 +743,7 @@ The physical system may be secure in one sense while remaining reachable through
 
 ---
 
-## 🧅 Access To Machinery Can Change Hands  
+## 🧅 Access To Machinery Can Change Hands
 
 The person who first reaches an operational system may not be the actor who ultimately uses that access.
 
@@ -601,8 +756,10 @@ exposed remote interface
 → retained access
 → access broker
 → intermediary
-→ later customer
-→ operational tasking
+→ commissioner or later customer
+→ payer or procurement route
+→ hands-on operator or end user
+→ operational tasking or later exploitation
 ```
 
 Or:
@@ -626,14 +783,24 @@ The first operator may want:
 
 A later actor may recognise strategic value in the same access.
 
+The commissioner may request a result without choosing the exploit, meeting the broker, or controlling the operator’s method.
+
+That does not prove command.
+
+It also does not erase the commissioning, payment, foreseeability, or downstream-use questions.
+
 That means the pack should distinguish where possible:
 
 ```text
 INITIAL ACCESS:
 INITIAL OPERATOR:
 ACCESS TRANSFER:
+REQUIREMENT GENERATOR:
+COMMISSIONER:
+PAYER / PROCUREMENT ROUTE:
 LATER OPERATOR:
 LATER CUSTOMER:
+END USER:
 FOLLOW-ON USE:
 ```
 
@@ -641,7 +808,7 @@ The machinery may acquire strategic significance after the original breach.
 
 ---
 
-## 🧱 Old Equipment Changes The Defence Problem  
+## 🧱 Old Equipment Changes The Defence Problem
 
 Industrial systems are often designed to last for decades.
 
@@ -677,7 +844,7 @@ It requires:
 
 ---
 
-## 🧬 Shared Technology Can Join Separate Incidents  
+## 🧬 Shared Technology Can Join Separate Incidents
 
 One machinery-linked incident may be local.
 
@@ -726,7 +893,7 @@ It is not attribution by itself.
 
 ---
 
-## 🏘️ Local Systems Can Be Strategic Targets  
+## 🏘️ Local Systems Can Be Strategic Targets
 
 A small local utility may look insignificant.
 
@@ -756,7 +923,7 @@ The strategic message may be:
 
 ---
 
-## 🔗 Machinery Depends On Other Machinery  
+## 🔗 Machinery Depends On Other Machinery
 
 Operational systems should not be analysed as isolated sectors.
 
@@ -808,23 +975,23 @@ A cross-sector campaign may emerge through dependencies rather than identical in
 
 ---
 
-## 🧪 Safety, Availability, And Integrity  
+## 🧪 Safety, Availability, And Integrity
 
 Operational technology creates three overlapping risks.
 
-### Availability  
+### Availability
 
 Can the system continue operating?
 
 Examples include shutdown, lockout, loss of remote control, or inability to access the interface.
 
-### Integrity  
+### Integrity
 
 Can operators trust what the system is doing and reporting?
 
 Examples include altered settings, manipulated sensor readings, false alarms, hidden changes, or uncertainty about whether the equipment remains in the intended state.
 
-### Safety  
+### Safety
 
 Can the physical process operate without creating danger?
 
@@ -838,7 +1005,42 @@ Operators may have to stop trusting automation before the public sees any visibl
 
 ---
 
-## 🕳️ The Attack May Be A Test  
+## 🛑 Protective Controls Are Their Own Evidentiary Layer
+
+The system controlling an ordinary process is not always the same system protecting it from unsafe operation.
+
+Facilities may rely on:
+
+- alarms;
+- hard limits;
+- interlocks;
+- emergency shutdown systems;
+- pressure-relief mechanisms;
+- independent safety controllers;
+- or human verification before dangerous changes take effect.
+
+Compromise of a process controller does not automatically prove compromise of the protective layer.
+
+Equally, the fact that a safeguard prevented harm does not make the attempted or completed manipulation trivial.
+
+Record separately:
+
+```text
+PROCESS CONTROL AFFECTED:
+PROTECTIVE CONTROL REACHED:
+INTERLOCK OVERRIDDEN OR ALTERED:
+ALARM RELIABLE:
+SAFETY SYSTEM ACTIVATED:
+SAFETY SYSTEM SUCCESSFUL:
+HUMAN INTERVENTION REQUIRED:
+RESIDUAL UNCERTAINTY:
+```
+
+The difference between changing the machinery and defeating the machinery’s defences may determine whether a disruptive incident becomes a safety event.
+
+---
+
+## 🕳️ The Attack May Be A Test
 
 Not every intrusion is intended to cause immediate damage.
 
@@ -868,7 +1070,7 @@ A weak or fragmented response can therefore provide useful intelligence even whe
 
 ---
 
-## 🤐 Silence Can Reveal The Response Threshold  
+## 🤐 Silence Can Reveal The Response Threshold
 
 Where a state refuses to say whether it recognises the incident, whether systems are linked, or who owns the response, it may protect operational detail.
 
@@ -890,7 +1092,7 @@ The state needs a way to protect sensitive information without pretending that t
 
 ---
 
-## 🌊 Civilian Water Changes The Legal Question Too  
+## 🌊 Civilian Water Changes The Legal Question Too
 
 Water infrastructure is not only technically important.
 
@@ -934,7 +1136,7 @@ They should not be collapsed.
 
 ---
 
-## ⚖️ Essential Does Not Mean Targetable  
+## ⚖️ Essential Does Not Mean Targetable
 
 The fact that water, energy, telecommunications, transport, or another system is essential to the functioning of a state does not by itself make that system a lawful military target.
 
@@ -968,7 +1170,7 @@ The technical record should therefore preserve enough detail for the legal quest
 
 ---
 
-## 🇮🇷 Why This Matters In The Iran War  
+## 🇮🇷 Why This Matters In The Iran War
 
 Iranian and Iran-linked cyber activity has long included interest in:
 
@@ -1010,7 +1212,7 @@ That movement matters even before catastrophe.
 
 ---
 
-## 🔎 What Should Be Recorded  
+## 🔎 What Should Be Recorded
 
 Each machinery-linked incident should record:
 
@@ -1023,12 +1225,16 @@ SYSTEM TYPE:
 SYSTEM / CONTROLLER FAMILY:
 ENTRY POINT:
 REMOTE OR LOCAL ACCESS:
+THIRD-PARTY PROVIDER / INTEGRATOR ACCESS:
 DEPTH-OF-ACCESS LEVEL:
 IT ACCESS:
 OT VISIBILITY:
 HMI / CONTROL INTERFACE ACCESS:
 CONTROLLER / CONFIGURATION ACCESS:
 COMMAND CAPABILITY:
+READ CAPABILITY:
+WRITE CAPABILITY:
+OBSERVED COMMAND OR WRITE ACTION:
 WHAT WAS ALTERED:
 CONFIGURATION CHANGE:
 PROJECT / LOGIC FILE CHANGE:
@@ -1040,7 +1246,10 @@ FLOODING / RELEASE EFFECT:
 MANUAL FALLBACK REQUIRED:
 MANUAL FALLBACK SUCCESSFUL:
 SAFETY IMPACT:
+SAFETY INTERLOCK / PROTECTIVE CONTROL STATUS:
 SERVICE IMPACT:
+HUMAN CONSEQUENCE:
+EXCEPTIONAL LABOUR / FATIGUE COST:
 UPSTREAM DEPENDENCIES:
 DOWNSTREAM EFFECTS:
 SHARED CONTRACTOR OR TECHNOLOGY:
@@ -1048,6 +1257,12 @@ CIVILIAN / MILITARY / DUAL-USE STATUS:
 IHL REVIEW NEEDED:
 ATTRIBUTION:
 ACTOR CLAIM:
+INITIAL OPERATOR:
+ACCESS TRANSFER:
+REQUIREMENT GENERATOR:
+COMMISSIONER:
+PAYER / PROCUREMENT ROUTE:
+END USER / LATER BENEFICIARY:
 REPORTED INVESTIGATIVE ASSESSMENT:
 FORMAL PUBLIC ATTRIBUTION:
 CONFIDENCE:
@@ -1078,7 +1293,7 @@ Do not reduce a forced manual fallback to “no disruption.”
 
 ---
 
-## 🚨 What Would Change The Trend  
+## 🚨 What Would Change The Trend
 
 A machinery-linked pattern should be treated as escalating where there is credible evidence of:
 
@@ -1086,13 +1301,16 @@ A machinery-linked pattern should be treated as escalating where there is credib
 - movement from OT visibility into control access;
 - movement from interface access into controller configuration;
 - movement from access into command execution;
+- repeated capability development or pre-positioning against specific controller families;
 - confirmed physical-process manipulation;
+- attempted or successful interference with alarms, interlocks, emergency shutdown, or other protective controls;
 - repeated manual fallback across several utilities;
 - repeated compromise of the same controller family;
 - geographic spread;
 - cross-sector operational effects;
 - attacks against water or other systems indispensable to civilian life;
 - persistent access retained for later use;
+- access transfer, procurement, or later customer use involving operational systems;
 - or stronger evidence connecting previously separate incidents to a common operator or sponsor.
 
 The trend can therefore worsen without one spectacular outage.
@@ -1125,7 +1343,7 @@ Those are different forms of escalation.
 
 ---
 
-## 🚫 What This Node Does Not Claim  
+## 🚫 What This Node Does Not Claim
 
 This node does not claim that:
 
@@ -1135,7 +1353,12 @@ This node does not claim that:
 - shared technology proves shared sponsorship;
 - HMI access proves controller manipulation;
 - controller access proves physical effect;
+- a tool’s read/write capability proves that a write occurred at a particular facility;
+- an active threat warning proves every exposed controller was compromised;
+- capability development identifies the operator of every resulting incident;
 - access automatically proves destructive intent;
+- service continuity proves there was no exceptional labour, risk, or human cost;
+- every commissioner controls the technical method;
 - every civilian infrastructure incident during wartime violates international humanitarian law;
 - or every cyber operation affecting water constitutes a war crime.
 
@@ -1153,11 +1376,15 @@ And then:
 
 ---
 
-## 🧭 Working Rule  
+## 🧭 Working Rule
 
 The working rule is:
 
 > Treat demonstrated movement from information systems towards physical control as a meaningful escalation indicator, while recording each level of access separately and refusing to infer physical manipulation from access alone.
+
+For each depth, separate:
+
+> access → capability → observed action → process response → service effect → human consequence.
 
 Record:
 
@@ -1165,10 +1392,13 @@ Record:
 - what they could control;
 - what they changed;
 - what the machinery did;
+- whether alarms, interlocks, or protective controls remained trustworthy;
 - what operators could still see;
 - what operators could still control;
 - whether manual fallback was required;
 - whether the fallback worked;
+- who absorbed the exceptional labour, risk, delay, or uncertainty;
+- whether access changed hands or a later customer commissioned its use;
 - which technology recurs elsewhere;
 - which systems depend upon the affected machinery;
 - what physical or civilian effect followed;
@@ -1182,32 +1412,34 @@ That is where cyber reaches the machinery.
 
 ---
 
-## 🌌 Constellations  
+## 🌌 Constellations
 
-🚰 ⚡ 🏭 🧯 📡 🪜 ⚖️ — water; energy; operational technology; manual fallback; remote access; depth of control; civilian protection.
+🚰 ⚡ 🏭 🧯 📡 🪜 🛑 🧍 ⚖️ — water; energy; operational technology; manual fallback; remote access; depth of control; protective systems; human consequence; civilian protection.
 
-## ✨ Stardust  
+## ✨ Stardust
 
-operational technology, industrial control systems, programmable logic controllers, water systems, water control, energy infrastructure, manual operation, physical disruption, cyber escalation, HMI, SCADA, controller access, physical process, civilian infrastructure, international humanitarian law, MicroLogix, loss of view, configuration change, pressure loss, flooding, CyberAv3ngers, APT IRAN
+operational technology, industrial control systems, programmable logic controllers, water systems, water control, energy infrastructure, manual operation, human fallback, operator fatigue, physical disruption, cyber escalation, HMI, SCADA, controller access, read capability, write capability, observed action, process response, safety interlocks, protective controls, capability development, pre-positioning, access transfer, commissioner, procurement route, physical process, civilian infrastructure, international humanitarian law, MicroLogix, Siemens S7, loss of view, configuration change, pressure loss, flooding, CyberAv3ngers, APT IRAN
 
 ---
 
-## 🏮 Footer  
+## 🏮 Footer
 
-*🚰 When Cyber Reaches The Machinery* is a living node of the **Polaris Protocol**.  
-It identifies and grades the threshold at which cyber activity moves from information systems into the monitoring, control, manipulation, or physical effects of the machinery beneath ordinary life.
+*🚰 When Cyber Reaches The Machinery* is a living node of the **Polaris Protocol**.
+It identifies and grades the threshold at which cyber activity moves from information systems into the monitoring, control, manipulation, protective systems, physical effects, and human fallback labour of the machinery beneath ordinary life.
 
 > 📡 Cross-references:
 >
 > - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *root orientation and pack map*
 > - [🏗️ What Counts As State Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) — *functional infrastructure perimeter, dependencies, and civilian status*
 > - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *cumulative operational pressure, clustering, and depth of escalation*
+> - [🌊 Riding Every Wave](./🌊_riding_every_wave.md) — *access markets, commissioned outcomes, and later exploitation across successive waves*
 > - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *graded attribution and uncertainty*
 > - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *access brokerage, layered tasking, and later operational use*
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
 > - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating the Iran-facing OT wave from simultaneous criminal and administrative incidents*
+> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *claim-level evidence, provenance, and source independence*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-15*
+_Last updated: 2026-08-20_
