@@ -1,5 +1,5 @@
 # 🗺️ Who Iran Sees As Inside The War  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
 *The operational coalition map is wider than the formal list of belligerents.*  
 
 ---
@@ -113,6 +113,17 @@ the wave—loss of pressure and flooding.
 Sectors*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)  
 [FBI and EPA — *Malicious Cyber Actors Targeting Water and Wastewater Sector
 PLCs*](https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions)
+
+The claim still does not settle the public attribution position. On 19 August,
+Reuters reported that federal officials had stopped short of formally linking
+Iran to the recent local-water attacks. A new joint federal advisory issued the
+same day described an active threat to Siemens S7-series PLCs across water,
+energy, manufacturing and other critical sectors, but did not attribute that
+active threat to Iran.  
+[Reuters — *U.S. warns Siemens devices can be hacked amid fears Iran is
+breaching water plants*](https://www.reuters.com/world/us-warns-siemens-devices-can-be-hacked-amid-fears-iran-is-breaching-water-plants-2026-08-19/)  
+[CISA and partners — *Defending Against an Active Threat to Siemens S7 Series
+PLCs*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-231a)
 
 The claim does not independently prove authorship, state direction or one
 operator across every affected state.
@@ -645,6 +656,11 @@ This tiering is analytical.
 
 It is not an official IRGC list.
 
+Historical espionage, data theft or technical access does not by itself move a
+country into a higher war-map tier. Promotion requires current evidence of
+perceived participation, explicit threat, operational enabling or wartime
+selection logic.
+
 ---
 
 ## ⚠️ There Is No Single Published IRGC List  
@@ -675,6 +691,88 @@ It should instead say:
 > Iran's operational threat map appears to widen where states provide basing, interception, logistics, intelligence, maritime protection, or other support that materially enables or protects the opposing campaign.
 
 And where Iran makes the threat explicit, that distinction should be recorded.
+
+---
+
+## 🧭 The War Map, Intelligence Map And Access Map Are Different  
+
+The 18 August Mabna Institute charges make another boundary visible.
+
+The U.S. Department of Justice alleges that seventeen members of the Iran-based
+company participated in a long-running cyber-theft campaign against:
+
+- 144 United States universities;
+- 178 foreign universities;
+- at least 42 United States private-sector companies;
+- at least 11 foreign companies;
+- at least five United States federal or state agencies;
+- and at least two non-governmental organisations.
+
+The department says more than 31 terabytes of academic data and intellectual
+property were stolen and that many intrusions were conducted for the IRGC or
+other Iranian government and university clients. It also describes employees,
+contractors, hackers-for-hire and other affiliated personnel operating inside
+the same commercial and state-facing ecosystem. The charges are allegations;
+the defendants are presumed innocent unless proven guilty.  
+[U.S. Department of Justice — *17 Iranians Charged With Conducting Massive
+Cyber Theft Campaign on Behalf of the IRGC and Other Iranian Entities*](https://www.justice.gov/opa/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary)
+
+This is relevant to Iranian cyber reach.
+
+It is not a current list of countries or institutions Iran regards as wartime
+participants. The university campaign began in approximately 2013 and continued
+through at least December 2017. Its publicly alleged objective was research,
+academic data, intellectual property and other proprietary information—not a
+2026 retaliation declaration.
+
+The same discipline applies to the 19 August Siemens advisory. An active threat
+to a widely deployed PLC family shows that many systems may be technically
+reachable or worth pre-positioning against. It does not identify which actor
+obtained access, which customer may ultimately use it or which countries Iran
+regards as inside the war.
+
+The pack therefore needs at least three maps:
+
+```text
+WAR MAP
+→ states and systems perceived as attacking, enabling or constraining Iran
+
+INTELLIGENCE MAP
+→ institutions holding knowledge, research, credentials or data worth taking
+
+ACCESS MAP
+→ systems that are technically reachable, reusable or worth holding in reserve
+```
+
+A fourth map sits beside them:
+
+```text
+ATTRIBUTION MAP
+→ evidence connecting an operation to an operator, sponsor, customer or tasking
+```
+
+These maps can overlap.
+
+They cannot be substituted for one another.
+
+```text
+Iranian interest in university research
+≠
+Iran sees the university as a belligerent
+
+Iran-linked precedent against a PLC family
+≠
+Iran conducted every later compromise of that family
+
+technical access inside a coalition country
+≠
+the accessed system was selected for wartime retaliation
+```
+
+This node maps perceived participation and declared coercive reach.
+
+It does not turn the whole history of Iranian espionage, criminal contracting or
+technical access into one expanding enemy list.
 
 ---
 
@@ -822,6 +920,9 @@ Each country should be assessed using the same frame:
 
 ```text
 COUNTRY:
+MAP TYPE — WAR / INTELLIGENCE / ACCESS / ATTRIBUTION:
+SOURCE OF INCLUSION:
+SOURCE TYPE — IRANIAN STATE / IRGC / ACTOR CLAIM / INFERENCE:
 IRANIAN PERCEPTION OF INVOLVEMENT:
 PUBLIC MILITARY ROLE:
 BASING OR LOGISTICS ROLE:
@@ -837,6 +938,8 @@ ADVERSARY RESPONSE:
 KNOWN CYBER INCIDENTS SINCE 28 FEBRUARY 2026:
 ATTRIBUTION STATUS:
 FORMAL PUBLIC ATTRIBUTION:
+ACCESS ESTABLISHED / CLAIMED / SUSPECTED:
+WARTIME SELECTION ESTABLISHED / CLAIMED / INFERRED:
 ESSENTIAL INFRASTRUCTURE EXPOSURE:
 OT / CONTROL-SYSTEM EXPOSURE:
 CROSS-SECTOR DEPENDENCIES:
@@ -890,6 +993,18 @@ This node draws on the source set established when the node was created, includi
 - Reuters reporting on the competing Iranian claim of management and control of
   the strait.
 
+### Added on 2026-08-20
+
+- U.S. Department of Justice superseding charges concerning seventeen alleged
+  Mabna Institute members, the historical global victim set, IRGC and other
+  Iranian-client tasking, and the blended employee, contractor and
+  hacker-for-hire structure. The charges remain allegations.
+- CISA and partner-agency warning of an active threat to Siemens S7-series PLCs
+  across several critical-infrastructure sectors. The advisory does not
+  attribute that active threat to Iran.
+- Reuters reporting that federal officials had still stopped short of formally
+  linking Iran to the recent United States local-water attacks.
+
 The map should be reviewed whenever:
 
 - a country authorises new basing;
@@ -898,6 +1013,10 @@ The map should be reviewed whenever:
 - a maritime coalition changes;
 - Iran issues a new warning;
 - Iran identifies a new civilian or economic sector as possible retaliation leverage;
+- an actor claim is adopted, rejected or contradicted by an Iranian state body;
+- access is established without evidence of wartime target selection;
+- a historical intelligence operation is incorrectly presented as current
+  belligerency evidence;
 - a truce begins or collapses;
 - a proxy force receives new tasking;
 - or a cyber incident materially alters the exposure assessment.
@@ -906,11 +1025,11 @@ The map should be reviewed whenever:
 
 ## 🌌 Constellations  
 
-🇮🇷 🗺️ 🇺🇸 🇮🇱 🇬🇧 🌊 🚰 ⚖️ — Iran war analysis; coalition mapping; direct belligerents; enabling states; Gulf infrastructure; water systems; legal perimeter.
+🇮🇷 🗺️ 🇺🇸 🇮🇱 🇬🇧 🌊 🚰 🧭 ⚖️ — Iran war analysis; coalition mapping; direct belligerents; enabling states; Gulf infrastructure; water systems; intelligence and access maps; legal perimeter.
 
 ## ✨ Stardust  
 
-iran, irgc, war map, coalition, belligerents, basing, defensive support, gulf, europe, cyber targeting, critical infrastructure, water infrastructure, energy infrastructure, operational technology, proxy operations, Minnesota, CyberAv3ngers, APT IRAN, Strait of Hormuz, territorial rhetoric, signalling, policy backtrack
+iran, irgc, war map, intelligence map, access map, attribution map, coalition, belligerents, basing, defensive support, gulf, europe, cyber targeting, critical infrastructure, water infrastructure, energy infrastructure, operational technology, proxy operations, Minnesota, CyberAv3ngers, APT IRAN, Mabna Institute, Siemens S7, Strait of Hormuz, territorial rhetoric, signalling, policy backtrack
 
 ---
 
@@ -929,7 +1048,9 @@ It maps the wider operational coalition that may shape Iranian and Iran-linked c
 > - [🏗️ What Counts As State Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) — *functional infrastructure perimeter*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *incident chronology*
 > - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *keeping declared Iran-linked retaliation separate from simultaneous criminal and opportunistic activity*
+> - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *contractors, intermediaries, access sellers and tasking-layer uncertainty*
+> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *the pack's source ledger and evidence-status record*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-16*
+_Last updated: 2026-08-20_
