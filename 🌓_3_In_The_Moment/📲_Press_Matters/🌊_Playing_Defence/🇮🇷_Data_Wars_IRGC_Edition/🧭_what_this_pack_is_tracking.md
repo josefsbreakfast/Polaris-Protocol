@@ -1,5 +1,5 @@
 # 🧭 What This Pack Is Tracking
-**First created:** 2026-08-01 | **Last updated:** 2026-08-19  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
 *Defining the perimeter of a live wartime cyber timeline without pretending that attribution is cleaner than it is.*
 
 ---
@@ -1150,4 +1150,4 @@ It defines the evidentiary perimeter, inclusion rules, escalation indicators, an
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-19_
+_Last updated: 2026-08-20_
