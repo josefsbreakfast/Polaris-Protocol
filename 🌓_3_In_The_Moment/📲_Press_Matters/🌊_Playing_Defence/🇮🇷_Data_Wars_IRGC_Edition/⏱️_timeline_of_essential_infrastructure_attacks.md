@@ -2657,6 +2657,14 @@ It provides the chronological evidentiary spine for the *🇮🇷 Data Wars: IRG
 > - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *reporting discipline under evolving attribution*
 > - [📊 Timeline CSV](./📊_iran_war_essential_infrastructure_cyber_timeline.csv) — *structured working dataset*
 > - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *source provenance, claim support, and evidentiary limits*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
