@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-20 04:02:50 UTC_
+_Generated on 2026-08-20 04:06:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3481,6 +3481,7 @@ _Generated on 2026-08-20 04:02:50 UTC_
         - [`🪖_morale_is_not_automatically_propaganda.md`](🌓_3_In_The_Moment/📲_Press_Matters/.🌱_Still_Growing/⚓️_Under_The_Sea/🪖_morale_is_not_automatically_propaganda.md)
       - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/.🌱_Still_Growing/notes.txt)
     - [**🇵🇸_Palestine_Factchecking/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/)
+      - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/README.md)
       - [`notes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/notes.md)
     - [**🌊_Playing_Defence/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/)
       - [**✈️_World_War_Epstein/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/)
