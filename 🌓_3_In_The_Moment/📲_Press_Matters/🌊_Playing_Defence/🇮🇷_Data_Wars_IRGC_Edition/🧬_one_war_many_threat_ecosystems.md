@@ -1,5 +1,5 @@
 # 🧬 One War, Many Threat Ecosystems
-**First created:** 2026-08-15 | **Last updated:** 2026-08-20
+**First created:** 2026-08-15 | **Last updated:** 2026-08-20  
 *How one wartime attack surface can contain state-linked operations, criminal campaigns, shared-vulnerability waves, copycats and unresolved incidents without one common command structure.*
 
 ---
@@ -864,6 +864,14 @@ It distinguishes the shared wartime attack surface from the separate actor, acce
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *incident and attribution chronology across the widening war*
 > - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *depth of operational-technology access and physical effect*
 > - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *cumulative pressure without one spectacular outage*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
