@@ -1,5 +1,5 @@
 # ⏱️ Timeline Of Essential Infrastructure Attacks  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
 *A provisional open-source chronology of cyber incidents affecting essential state infrastructure during the Iran war.*
 
 ---
@@ -16,13 +16,13 @@ It is not a list of war crimes.
 
 Some incidents are:
 
--   officially attributed to Iranian or Iran-linked actors;
--   assessed as probable or suspected;
--   claimed by actors without independent confirmation;
--   attributed to criminal or proxy operators whose ultimate customer
+- officially attributed to Iranian or Iran-linked actors;
+- assessed as probable or suspected;
+- claimed by actors without independent confirmation;
+- attributed to criminal or proxy operators whose ultimate customer
     remains unclear;
--   unattributed;
--   or included because they affected essential state infrastructure
+- unattributed;
+- or included because they affected essential state infrastructure
     during the war window and remain analytically relevant.
 
 Inclusion does **not** mean that Iran carried out the incident.
@@ -35,7 +35,7 @@ They do not establish causation by themselves.
 
 Each entry should therefore preserve several different questions:
 
-``` text
+```text
 DID THE INCIDENT HAPPEN?
 
 WHAT DID IT AFFECT?
@@ -58,7 +58,7 @@ WHAT REMAINS UNKNOWN?
 The answers may have different confidence levels.
 
 The baseline used here is **28 February 2026**, marking the beginning of
-the US--Israeli military campaign against Iran for the purposes of this
+the US–Israeli military campaign against Iran for the purposes of this
 pack.
 
 ---
@@ -67,7 +67,7 @@ pack.
 
 The timeline records:
 
-``` text
+```text
 date
 → country
 → sector
@@ -145,7 +145,7 @@ These can diverge.
 
 For example:
 
-``` text
+```text
 INCIDENT:
 🟢 CONFIRMED
 
@@ -197,7 +197,7 @@ It does not colour the entire incident.
 
 Use:
 
-``` text
+```text
 🟢 ESTABLISHED / CONFIRMED
 
 The proposition is strongly supported
@@ -229,7 +229,7 @@ the proposition or inclusion.
 
 Therefore:
 
-``` text
+```text
 INCIDENT:
 🟢 CONFIRMED
 
@@ -248,7 +248,7 @@ Actor claims remain separate from confidence.
 
 Use:
 
-``` text
+```text
 CLAIM STATUS:
 📣 ACTOR-CLAIMED
 
@@ -266,31 +266,31 @@ It does not establish that the claimant caused the incident.
 
 Where information is missing, distinguish:
 
-``` text
+```text
 UNKNOWN
 ```
 
 The answer has not been established.
 
-``` text
+```text
 NOT PUBLIC
 ```
 
 The information may exist but is not publicly available.
 
-``` text
+```text
 NO EVIDENCE FOUND
 ```
 
 A search was conducted but no supporting public evidence was located.
 
-``` text
+```text
 WITHHELD / NCND
 ```
 
 The relevant authority declined to confirm or deny.
 
-``` text
+```text
 NOT APPLICABLE
 ```
 
@@ -304,7 +304,7 @@ These statuses should not be collapsed into one blank field.
 
 Use:
 
-``` text
+```text
 ⚪ ISOLATED
 No meaningful recurrence established.
 
@@ -324,13 +324,13 @@ It does not describe attribution confidence.
 
 Therefore:
 
-``` text
+```text
 🔴 ESTABLISHED CAMPAIGN PATTERN
 ```
 
 can coexist with:
 
-``` text
+```text
 IRANIAN ATTRIBUTION:
 UNRESOLVED
 ```
@@ -342,7 +342,7 @@ UNRESOLVED
 Where operational technology is involved, record how far the evidence
 reaches.
 
-``` text
+```text
 LEVEL 0 — EXTERNAL RECONNAISSANCE
 
 LEVEL 1 — IT / ADMINISTRATIVE ACCESS
@@ -364,7 +364,7 @@ Do not infer Level 6 or 7 from evidence establishing only Level 2 or 3.
 
 Likewise:
 
-``` text
+```text
 LOSS OF VIEW
 ≠
 LOSS OF CONTROL
@@ -380,13 +380,59 @@ The timeline should record the deepest publicly supported level.
 
 ## 📌 Current Chronology
 
+### Event-Type Rule
+
+This chronology records more than attacks. Each new entry should identify what kind of event changed the public record:
+
+```text
+INCIDENT
+→ a reported compromise, disruption, theft, manipulation, or other operation
+
+ACTOR CLAIM
+→ a statement of responsibility requiring separate validation
+
+ATTRIBUTION UPDATE
+→ a change in an official, intelligence, investigative, or public assessment
+
+DEFENSIVE ADVISORY
+→ a warning about exposure or active threat; not proof that an incident occurred
+
+CHARGING / ENFORCEMENT EVENT
+→ an allegation or legal action; not a conviction and not automatically a wartime event
+
+PREPAREDNESS / GOVERNANCE EVENT
+→ a mitigation, response, inventory, ownership, or accountability development
+```
+
+The event type must not inherit the evidentiary status of another category.
+
+So:
+
+```text
+WARNING
+≠
+COMPROMISE
+
+CLAIM
+≠
+ATTRIBUTION
+
+CHARGE
+≠
+PROOF
+
+PREPAREDNESS RESPONSE
+≠
+NEW ATTACK
+```
+
 ## 2026-02-28
 
 ### 🇺🇸 United States / 🇮🇱 Israel / 🇮🇷 Iran
 
 ### Context
 
-War baseline: beginning of the US--Israeli military campaign against
+War baseline: beginning of the US–Israeli military campaign against
 Iran for the purposes of this pack.
 
 This is the comparison point for subsequent cyber activity.
@@ -450,7 +496,7 @@ cyber-risk position against which later incidents can be compared.
 
 ### Sources
 
--   NCSC --- *NCSC advises UK organisations to take action following
+- NCSC — *NCSC advises UK organisations to take action following
     conflict in Middle East*
 
 ---
@@ -529,7 +575,7 @@ direction of the specific operation.
 
 ### Sources
 
--   CERT-EU Cyber Brief 2026-04
+- CERT-EU Cyber Brief 2026-04
 
 ---
 
@@ -552,7 +598,7 @@ manufacturing and shipments.
 
 Stryker's Irish operations were also affected.
 
-Handala claimed the attack as retaliation for US--Israeli strikes.
+Handala claimed the attack as retaliation for US–Israeli strikes.
 
 ### Operational effect
 
@@ -585,8 +631,8 @@ This does **not** establish an IHL violation or war crime.
 
 ### Sources
 
--   Reuters, 11 March 2026
--   CERT-EU Cyber Brief 2026-04
+- Reuters, 11 March 2026
+- CERT-EU Cyber Brief 2026-04
 
 ---
 
@@ -631,7 +677,7 @@ False-flag indicators, opportunistic intrusion, or another actor.
 
 ### Sources
 
--   CERT-EU Cyber Brief 2026-04
+- CERT-EU Cyber Brief 2026-04
 
 ---
 
@@ -674,7 +720,7 @@ Timing alone does not establish Iran relevance.
 
 ### Sources
 
--   CERT-EU Cyber Brief 2026-04
+- CERT-EU Cyber Brief 2026-04
 
 ---
 
@@ -715,7 +761,7 @@ No public Iran attribution.
 
 ### Sources
 
--   CERT-EU Cyber Brief 2026-04
+- CERT-EU Cyber Brief 2026-04
 
 ---
 
@@ -751,7 +797,7 @@ No public Iran attribution.
 
 ### Sources
 
--   CERT-EU Cyber Brief 2026-04
+- CERT-EU Cyber Brief 2026-04
 
 ---
 
@@ -798,7 +844,7 @@ in a direct belligerent state.
 
 ### Sources
 
--   TechCrunch, 26 May 2026
+- TechCrunch, 26 May 2026
 
 ---
 
@@ -837,7 +883,7 @@ hostile-state environment in which Iran-war incidents occur.
 
 ### Sources
 
--   NCSC, 17 June 2026
+- NCSC, 17 June 2026
 
 ---
 
@@ -848,7 +894,7 @@ observations of a developing campaign picture.
 
 The crucial distinction is:
 
-``` text
+```text
 PATTERN CONFIDENCE
 ≠
 IRAN ATTRIBUTION CONFIDENCE
@@ -856,9 +902,9 @@ IRAN ATTRIBUTION CONFIDENCE
 
 ---
 
-## 2026-07-26 --- 2026-07-27
+## 2026-07-26 — 2026-07-27
 
-### 🇺🇸 United States --- Minnesota
+### 🇺🇸 United States — Minnesota
 
 ### Sector
 
@@ -876,13 +922,13 @@ infrastructure.
 
 Reported effects across the developing campaign included:
 
--   operator lockouts;
--   changes to network or controller settings;
--   communications disruption;
--   pressure loss;
--   flooding;
--   temporary shutdowns;
--   and movement to manual operation.
+- operator lockouts;
+- changes to network or controller settings;
+- communications disruption;
+- pressure loss;
+- flooding;
+- temporary shutdowns;
+- and movement to manual operation.
 
 ### Operational depth
 
@@ -945,16 +991,16 @@ This status does **not** mean a war crime has been established.
 
 ### Rival explanations
 
--   opportunistic exploitation of exposed controllers;
--   criminal activity;
--   hacktivist activity;
--   copycat use of known Iranian methods;
--   or a mixture of operators.
+- opportunistic exploitation of exposed controllers;
+- criminal activity;
+- hacktivist activity;
+- copycat use of known Iranian methods;
+- or a mixture of operators.
 
 ### Sources
 
--   Reuters, 28 July 2026
--   Reuters, 30 July 2026
+- Reuters, 28 July 2026
+- Reuters, 30 July 2026
 
 ---
 
@@ -1023,13 +1069,13 @@ exposed state-held personal data.
 
 ### Sources
 
--   The Guardian, 29 July 2026
+- The Guardian, 29 July 2026
 
 ---
 
 ## 2026-07-30
 
-### 🇺🇸 United States --- multi-state
+### 🇺🇸 United States — multi-state
 
 ### Sector
 
@@ -1067,13 +1113,13 @@ been publicly established at publication.
 
 The analytical unit widened from:
 
-``` text
+```text
 Minnesota incident cluster
 ```
 
 to:
 
-``` text
+```text
 multi-state US water / wastewater OT campaign
 ```
 
@@ -1086,14 +1132,14 @@ Common target technology does not by itself establish a common sponsor.
 
 ### Sources
 
--   Reuters, 30 July 2026
--   Reuters, 31 July 2026
+- Reuters, 30 July 2026
+- Reuters, 31 July 2026
 
 ---
 
-## 2026-08-04 --- 2026-08-07
+## 2026-08-04 — 2026-08-07
 
-### 🇺🇸 United States --- widening multi-state water campaign
+### 🇺🇸 United States — widening multi-state water campaign
 
 ### Sector
 
@@ -1114,12 +1160,12 @@ Michigan subsequently confirmed multiple affected systems.
 
 The developing national picture included:
 
--   controller or network-setting changes;
--   operator lockouts;
--   forced manual intervention;
--   temporary shutdowns;
--   pressure disruption;
--   and flooding at some facilities.
+- controller or network-setting changes;
+- operator lockouts;
+- forced manual intervention;
+- temporary shutdowns;
+- pressure disruption;
+- and flooding at some facilities.
 
 The effects were not uniform across every system.
 
@@ -1160,7 +1206,7 @@ incident.
 
 The evidence now combines:
 
-``` text
+```text
 repeated target class
 +
 repeated OT / PLC exposure
@@ -1195,18 +1241,18 @@ interest in exposed industrial controllers.
 
 The legal question depends upon:
 
--   armed-conflict nexus;
--   actual target;
--   civilian or military function;
--   operational effect;
--   foreseeable civilian consequences;
--   attribution;
--   state responsibility;
--   and, separately, evidence of individual criminal responsibility.
+- armed-conflict nexus;
+- actual target;
+- civilian or military function;
+- operational effect;
+- foreseeable civilian consequences;
+- attribution;
+- state responsibility;
+- and, separately, evidence of individual criminal responsibility.
 
 Therefore:
 
-``` text
+```text
 WATER CAMPAIGN ESTABLISHED
 ≠
 IRANIAN RESPONSIBILITY ESTABLISHED
@@ -1220,11 +1266,11 @@ WAR CRIME ESTABLISHED
 
 Still include:
 
--   opportunistic criminal exploitation;
--   hacktivist activity;
--   multiple unrelated actors exploiting the same exposed technology;
--   copycat operations;
--   and deliberate imitation or misdirection.
+- opportunistic criminal exploitation;
+- hacktivist activity;
+- multiple unrelated actors exploiting the same exposed technology;
+- copycat operations;
+- and deliberate imitation or misdirection.
 
 ### Trend change since 28 February 2026
 
@@ -1249,9 +1295,9 @@ It remains weaker than:
 
 ---
 
-## 2026-07-30 --- Attribution Assessment Strengthens
+## 2026-07-30 — Attribution Assessment Strengthens
 
-### 🇺🇸 United States --- Minnesota
+### 🇺🇸 United States — Minnesota
 
 ### What changed
 
@@ -1269,7 +1315,7 @@ Iranian-affiliated activity.
 
 ### Attribution source type
 
-``` text
+```text
 REPORTED INVESTIGATIVE ASSESSMENT
 +
 STATE / FUSION-CENTRE-LINKED INFORMATION
@@ -1286,13 +1332,13 @@ investigation.
 
 This is stronger than:
 
-``` text
+```text
 method resembles earlier Iranian activity
 ```
 
 but remains weaker than:
 
-``` text
+```text
 FBI / CISA / NSA / EPA formally attribute the July Minnesota cluster to Iran
 ```
 
@@ -1306,15 +1352,15 @@ Those alternatives remain part of the record.
 
 ### Sources
 
--   New York Times reporting, 30 July 2026, citing US and state
+- New York Times reporting, 30 July 2026, citing US and state
     officials
--   WIRED, 30 July 2026, reporting a WaterISAC communication based on
+- WIRED, 30 July 2026, reporting a WaterISAC communication based on
     Minnesota Fusion Center information
--   Minnesota IT Services, 28 July 2026
+- Minnesota IT Services, 28 July 2026
 
 ---
 
-## 2026-07-31 --- Presidential Position Diverges
+## 2026-07-31 — Presidential Position Diverges
 
 ### 🇺🇸 United States
 
@@ -1323,13 +1369,13 @@ the Minnesota cyberattack.
 
 This should be recorded as:
 
-``` text
+```text
 POLITICAL PUBLIC POSITION
 ```
 
 not as:
 
-``` text
+```text
 FORMAL TECHNICAL OR LAW-ENFORCEMENT ATTRIBUTION
 ```
 
@@ -1337,13 +1383,13 @@ FORMAL TECHNICAL OR LAW-ENFORCEMENT ATTRIBUTION
 
 The public record now contained a visible disagreement between:
 
-``` text
+```text
 reported investigative / intelligence assessment
 ```
 
 and:
 
-``` text
+```text
 presidential public position
 ```
 
@@ -1355,7 +1401,7 @@ This is a high-value attribution-governance event.
 
 It demonstrates why the timeline must preserve:
 
-``` text
+```text
 WHO BELIEVES WHAT
 +
 ON WHAT BASIS
@@ -1370,9 +1416,9 @@ field.
 
 ---
 
-## 2026-08-01 --- 2026-08-07 --- Reported Intelligence Assessment Becomes Materially Stronger
+## 2026-08-01 — 2026-08-07 — Reported Intelligence Assessment Becomes Materially Stronger
 
-### 🇺🇸 United States --- widening water campaign
+### 🇺🇸 United States — widening water campaign
 
 As the known footprint widened beyond Minnesota, high-quality reporting
 described US intelligence agencies as assessing Iranian responsibility
@@ -1385,7 +1431,7 @@ were highly likely responsible.
 
 ### Attribution source type
 
-``` text
+```text
 REPORTED INTELLIGENCE ASSESSMENT
 ```
 
@@ -1402,14 +1448,14 @@ Still materially inconsistent with the reported intelligence assessment.
 
 The pack should therefore move from:
 
-``` text
+```text
 IRANIAN INVOLVEMENT:
 SUSPECTED / DEVELOPING
 ```
 
 toward:
 
-``` text
+```text
 MINNESOTA / CORE WATER WAVE:
 🟡 PROBABLE IRANIAN / IRAN-LINKED RESPONSIBILITY
 based on reported investigative and intelligence assessments
@@ -1429,7 +1475,7 @@ sponsor.
 
 ---
 
-## 🌊 2026-08-06 onward --- Criminal Activity Does Not Collapse The State Question
+## 🌊 2026-08-06 onward — Criminal Activity Does Not Collapse The State Question
 
 The same wartime environment also contains strongly evidenced criminal
 campaigns against US essential and systemically important organisations.
@@ -1443,7 +1489,7 @@ central water wave.
 
 It demonstrates a different point:
 
-``` text
+```text
 WAR
 → MORE HOSTILE STATE ACTIVITY
 
@@ -1464,9 +1510,9 @@ See [🌊 Riding Every Wave](./🌊_riding_every_wave.md).
 
 ---
 
-## 🏥 2026-07-26 onward --- AnMed Healthcare Disruption And Extortion
+## 🏥 2026-07-26 onward — AnMed Healthcare Disruption And Extortion
 
-### 🇺🇸 United States --- South Carolina and Georgia
+### 🇺🇸 United States — South Carolina and Georgia
 
 AnMed identified a malware-related cyber incident on 26 July. The
 health system initially closed most of its facilities, postponed some
@@ -1488,7 +1534,7 @@ access and coercive conduct.
 It does not establish that every claimed data category or volume was
 actually taken.
 
-``` text
+```text
 HEALTHCARE DISRUPTION:
 🟢 ESTABLISHED
 
@@ -1510,15 +1556,15 @@ least part of the wider healthcare and essential-services noise.
 
 Sources:
 
--   [AnMed recovery and service updates reported by HIPAA Journal](https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/)
--   [The Record: ransomware group hijacks AnMed's Facebook page during recovery](https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response)
--   [WYFF4: AnMed response to unauthorised ransom posts](https://www.wyff4.com/article/anmed-response-cyberattack-facebook-post-hackers/73406207)
+- [AnMed recovery and service updates reported by HIPAA Journal](https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/)
+- [The Record: ransomware group hijacks AnMed's Facebook page during recovery](https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response)
+- [WYFF4: AnMed response to unauthorised ransom posts](https://www.wyff4.com/article/anmed-response-cyberattack-facebook-post-hackers/73406207)
 
 ---
 
-## 🚚 2026-07-29 onward --- CEVA Logistics Warehouse Disruption
+## 🚚 2026-07-29 onward — CEVA Logistics Warehouse Disruption
 
-### 🇪🇺 Europe --- private transport and logistics
+### 🇪🇺 Europe — private transport and logistics
 
 A cyberattack beginning around 29 July affected contract-logistics
 operations at eight CEVA Logistics warehouses in Europe. Public
@@ -1534,12 +1580,12 @@ watch.
 
 It does not currently establish:
 
--   compromise of port-control systems;
--   compromise of transport operational technology;
--   deliberate targeting of military logistics;
--   or an Iranian connection.
+- compromise of port-control systems;
+- compromise of transport operational technology;
+- deliberate targeting of military logistics;
+- or an Iranian connection.
 
-``` text
+```text
 OPERATIONAL LOGISTICS EFFECT:
 🟢 ESTABLISHED
 
@@ -1559,15 +1605,15 @@ essential supply chains.
 
 Sources:
 
--   [CEVA account and affected-customer reporting via TechCrunch](https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/)
--   [FreightWaves: shipment delays across eight European warehouses](https://www.freightwaves.com/news/cyberattack-on-ceva-logistics-warehouses-in-europe-impacts-retailers)
--   [SecurityWeek: CEVA contract-logistics operations disrupted](https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/)
+- [CEVA account and affected-customer reporting via TechCrunch](https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/)
+- [FreightWaves: shipment delays across eight European warehouses](https://www.freightwaves.com/news/cyberattack-on-ceva-logistics-warehouses-in-europe-impacts-retailers)
+- [SecurityWeek: CEVA contract-logistics operations disrupted](https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/)
 
 ---
 
-## 🏛️ 2026-08-07 --- 2026-08-11 --- Suisun City Public-Safety And Administrative Disruption
+## 🏛️ 2026-08-07 — 2026-08-11 — Suisun City Public-Safety And Administrative Disruption
 
-### 🇺🇸 United States --- California
+### 🇺🇸 United States — California
 
 Malicious software compromised Suisun City's IT systems on 7 August.
 The city shut down its network to contain the incident and preserve
@@ -1586,7 +1632,7 @@ open attribution and towards a criminal-extortion explanation.
 
 It does not yet establish a named ransomware family or operator.
 
-``` text
+```text
 PUBLIC-SAFETY / ADMINISTRATIVE DISRUPTION:
 🟢 ESTABLISHED
 
@@ -1602,14 +1648,14 @@ IRAN CONNECTION:
 
 Sources:
 
--   [San Francisco Chronicle: initial cyberattack and emergency declaration](https://www.sfchronicle.com/bayarea/article/cyberattack-suisun-city-22380837.php)
--   [San Francisco Chronicle: city council considers perpetrator demand](https://www.sfchronicle.com/bayarea/article/suisun-city-cyberattack-demand-22384401.php)
+- [San Francisco Chronicle: initial cyberattack and emergency declaration](https://www.sfchronicle.com/bayarea/article/cyberattack-suisun-city-22380837.php)
+- [San Francisco Chronicle: city council considers perpetrator demand](https://www.sfchronicle.com/bayarea/article/suisun-city-cyberattack-demand-22384401.php)
 
 ---
 
-## 🏘️ 2026-08-12 --- Darlington County Systems Taken Offline
+## 🏘️ 2026-08-12 — Darlington County Systems Taken Offline
 
-### 🇺🇸 United States --- South Carolina
+### 🇺🇸 United States — South Carolina
 
 Darlington County disclosed a cybersecurity incident affecting computer
 systems and limiting some county services. Officials took systems
@@ -1623,7 +1669,7 @@ functions were unavailable or operating at reduced capacity.
 No actor, malware family, ransomware demand, initial-access route, or
 data theft had been publicly identified in the reviewed reporting.
 
-``` text
+```text
 INCIDENT AND SERVICE EFFECT:
 🟢 ESTABLISHED
 
@@ -1641,13 +1687,13 @@ It does not establish that the incidents share an operator or sponsor.
 
 Sources:
 
--   [Darlington County statement reported by News and Press](https://www.newsandpress.net/darlington-county-issues-statement-on-cybersecurity-incident/)
--   [WMBF: limited services while emergency communications remained operational](https://www.wmbfnews.com/2026/08/12/cybersecurity-incident-limits-some-services-darlington-county/)
--   [WPDE: county investigation and service effects](https://wpde.com/news/local/darlington-co-investigating-cybersecurity-incident-affecting-some-services-county-computer-systems-darlington-county-administrator-marion-charles-stewart-iii-911-communications-center)
+- [Darlington County statement reported by News and Press](https://www.newsandpress.net/darlington-county-issues-statement-on-cybersecurity-incident/)
+- [WMBF: limited services while emergency communications remained operational](https://www.wmbfnews.com/2026/08/12/cybersecurity-incident-limits-some-services-darlington-county/)
+- [WPDE: county investigation and service effects](https://wpde.com/news/local/darlington-co-investigating-cybersecurity-incident-affecting-some-services-county-computer-systems-darlington-county-administrator-marion-charles-stewart-iii-911-communications-center)
 
 ---
 
-## 📣 2026-08-12 --- 2026-08-15 --- APT IRAN And CyberAv3ngers Claim Minnesota
+## 📣 2026-08-12 — 2026-08-15 — APT IRAN And CyberAv3ngers Claim Minnesota
 
 An account using the name **APT IRAN** reportedly said on Telegram that
 the Minnesota water operation had been conducted jointly with
@@ -1668,7 +1714,7 @@ associated it with attacks on internet-connected PLCs.
 That prior relationship does not independently prove current authorship
 or current state direction.
 
-``` text
+```text
 ACTOR CLAIM:
 📣 ESTABLISHED AS A CLAIM
 
@@ -1687,7 +1733,7 @@ NOT PUBLIC / NOT ESTABLISHED IN THE REVIEWED RECORD
 
 The attribution history now reads:
 
-``` text
+```text
 investigation open
 → Iranian involvement suspected
 → reported investigative / intelligence assessment favours Iran
@@ -1697,14 +1743,14 @@ investigation open
 
 Sources:
 
--   [KSTP: APT IRAN and CyberAv3ngers claim the Minnesota attacks](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
--   [McCrary Institute Threat Beat briefing](https://www.linkedin.com/pulse/cyber-briefing-81226-au-mccrary-institute-7cfre)
--   [CISA and partners: prior attribution of IRGC-affiliated PLC activity](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
--   [CISA: 2026 Iranian-affiliated PLC exploitation advisory](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a)
+- [KSTP: APT IRAN and CyberAv3ngers claim the Minnesota attacks](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
+- [McCrary Institute Threat Beat briefing](https://www.linkedin.com/pulse/cyber-briefing-81226-au-mccrary-institute-7cfre)
+- [CISA and partners: prior attribution of IRGC-affiliated PLC activity](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
+- [CISA: 2026 Iranian-affiliated PLC exploitation advisory](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a)
 
 ---
 
-## 🧬 2026-08-13 --- Cl0p Windchill / FlexPLM Mass Extortion Campaign
+## 🧬 2026-08-13 — Cl0p Windchill / FlexPLM Mass Extortion Campaign
 
 Cl0p claimed data theft from nearly 50 organisations, including Shell,
 Philips, GE, and Fiserv. Affected organisations reported different
@@ -1722,7 +1768,7 @@ This is a strong comparator for the wider timeline.
 One shared technical opportunity can generate a cross-sector victim
 list without deliberate selection of every victim by strategic sector.
 
-``` text
+```text
 CL0P CAMPAIGN:
 🟢 ESTABLISHED AS A MASS-EXTORTION CAMPAIGN
 
@@ -1744,7 +1790,7 @@ selection.
 
 But the present evidence supports:
 
-``` text
+```text
 shared vulnerability
 → scalable criminal access
 → cross-sector extortion
@@ -1752,23 +1798,263 @@ shared vulnerability
 
 more strongly than:
 
-``` text
+```text
 Iranian strategic selection
 → coordinated state-disruption campaign
 ```
 
 Sources:
 
--   [Reuters: Cl0p claims mass data theft from Shell, Philips, GE, Fiserv and others](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
--   [PTC active advisory for the Windchill and FlexPLM remote-code execution vulnerability](https://www.ptc.com/en/about/trust-center/advisory-center/active-advisories/windchill-flexplm-rce-vulnerability)
+- [Reuters: Cl0p claims mass data theft from Shell, Philips, GE, Fiserv and others](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
+- [PTC active advisory for the Windchill and FlexPLM remote-code execution vulnerability](https://www.ptc.com/en/about/trust-center/advisory-center/active-advisories/windchill-flexplm-rce-vulnerability)
 
 ---
 
-## 🧭 Pattern Shift By 15 August 2026
+## 2026-08-13 — 2026-08-18 — France Tax-Administration Breach And Response
+
+### 🇫🇷 France
+
+### Event type
+
+Incident disclosure followed by a preparedness and governance response.
+
+### Sector
+
+National tax administration / public finance / government data.
+
+### Affected body
+
+Direction générale des Finances publiques, the French national tax authority.
+
+### What happened
+
+The French Finance Ministry confirmed that an attacker had obtained illegitimate access to a tax-authority system in late June and had consulted and extracted data concerning individuals and businesses.
+
+The breach became public after an actor using the name **ZeroBytes** advertised stolen material in August. Later government reporting put the affected population at about 700,000 taxpayers.
+
+On 18 August, France announced a wider vulnerability-testing and security response. The head of the tax authority also disclosed that another data breach detected on 17 August remained under assessment.
+
+### Effect
+
+```text
+CONFIDENTIALITY LOSS:
+🟢 CONFIRMED
+
+SERVICE DISRUPTION:
+NOT ESTABLISHED
+
+RECORD MANIPULATION:
+NOT ESTABLISHED
+
+PERSON-CENTRED RECOVERY:
+ONGOING
+```
+
+The absence of a demonstrated service outage does not make the incident minor. Tax and household data can create downstream risks involving fraud, impersonation, coercion, discrimination, and loss of trust in public records.
+
+### Attribution
+
+The sale of data and access provides a strong financially motivated criminal explanation.
+
+```text
+CRIMINAL MOTIVE:
+🟡 PROBABLE
+
+IRAN / IRGC CONNECTION:
+⚪ NO EVIDENCE FOUND
+
+COMMON OPERATOR WITH THE US WATER CAMPAIGN:
+⚪ NO EVIDENCE FOUND
+```
+
+The incident belongs in the chronology because national tax infrastructure is state infrastructure and because it forms part of a developing French public-administration exposure cluster. It does not currently strengthen a common Iranian-campaign hypothesis.
+
+### Sources
+
+- [Reuters: France confirms taxpayer-data theft](https://www.reuters.com/legal/litigation/french-taxpayers-data-stolen-cyber-attack-french-finance-ministry-says-2026-08-14/) — *ministry confirmation and the early evidentiary boundary on scale*
+- [Reuters: France announces a wider security response](https://www.reuters.com/world/france-use-ai-tools-test-cybsecurity-vulnerabilities-after-tax-agency-hacking-2026-08-18/) — *affected population, response measures, and a further breach under assessment*
+- [Le Monde: French taxpayers' data stolen](https://www.lemonde.fr/en/pixels/article/2026/08/14/french-taxpayers-data-stolen-in-hack-of-finance-ministry_6756510_13.html) — *data fields, disclosure history, and actor claims*
+
+---
+
+## 2026-08-17 — Connecticut Water-Sector Preparedness Disclosure
+
+### 🇺🇸 United States — Connecticut
+
+### Event type
+
+Preparedness and governance event.
+
+### What changed
+
+Connecticut authorities described distributing federal mitigation guidance to community water systems after attacks in other states.
+
+No Connecticut water-system attack was reported in the source.
+
+The state also disclosed that it did not maintain a central inventory showing which local systems used the affected controller classes. That is important because an authority cannot reliably patch, isolate, replace, or fund equipment it cannot see at component level.
+
+```text
+CONNECTICUT INCIDENT:
+⚪ NONE REPORTED
+
+DEFENSIVE RESPONSE:
+🟢 CONFIRMED
+
+CENTRAL COMPONENT INVENTORY:
+NOT HELD / NOT AVAILABLE TO THE STATE IN THE REPORTED FORM
+
+IRAN ATTRIBUTION:
+NOT APPLICABLE TO A NEW CONNECTICUT INCIDENT
+```
+
+This is not an attack entry. It is evidence about the response architecture surrounding the campaign.
+
+### Source
+
+- [CT Insider: Connecticut warns water utilities after attacks in other states](https://www.ctinsider.com/connecticut/article/connecticut-water-systems-cyberattack-controller-22374980.php) — *preparedness distribution, no reported state incident, and the inventory gap*
+
+---
+
+## 2026-08-18 — Mabna Institute Superseding Charges
+
+### 🇺🇸 United States / 🇮🇷 Iran
+
+### Event type
+
+Charging and attribution-history event.
+
+### What happened
+
+The US Department of Justice announced a superseding indictment charging 17 alleged members of the Iran-based Mabna Institute.
+
+The charging announcement describes a campaign beginning in 2013 and continuing through at least 2017. It alleges intrusions affecting:
+
+- 144 US universities;
+- 178 foreign universities;
+- at least 42 US private-sector companies;
+- at least 11 foreign private-sector companies;
+- at least five US federal and state government agencies;
+- and at least two non-governmental organisations.
+
+The government alleges theft of more than 31 terabytes of academic data and intellectual property and says the university spearphishing campaign was conducted on behalf of the IRGC.
+
+### Evidentiary status
+
+```text
+CHARGING EVENT:
+🟢 CONFIRMED
+
+ALLEGATIONS:
+FORMALLY PLEADED / NOT PROVED BY THE ANNOUNCEMENT
+
+HISTORICAL IRGC TASKING ALLEGATION:
+🟢 CONFIRMED AS A US GOVERNMENT ALLEGATION
+
+NEW 2026 WARTIME ATTACK:
+❌ NOT ESTABLISHED
+
+CONNECTION TO WATER, RANSOMWARE, LOGISTICS OR FRENCH TAX INCIDENTS:
+⚪ NO EVIDENCE FOUND
+```
+
+This event matters because it documents the alleged use of employees, contractors, hackers-for-hire, and affiliated personnel for different Iranian governmental and private customers.
+
+It does not permit the timeline to relabel historical espionage and data theft as a new wartime attack, or to attribute unrelated 2026 incidents to Mabna.
+
+### Source
+
+- [US Department of Justice: 17 Mabna Institute members charged](https://www.justice.gov/opa/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary) — *charging announcement, alleged victim counts, data volume, dates, and IRGC tasking allegation*
+
+---
+
+## 2026-08-19 — Active Threat To Siemens S7-Series Controllers
+
+### 🇺🇸 United States — cross-sector critical infrastructure
+
+### Event type
+
+Defensive advisory and threat-surface expansion.
+
+### What changed
+
+CISA, the NSA, FBI, Department of Energy, EPA, and other federal partners warned of an **active threat** to Siemens S7-series programmable logic controllers across manufacturing, energy, water and wastewater, chemical, and food and agriculture facilities.
+
+The advisory described the possibility of read-and-write access and consequences including disruption of critical processes, safety incidents, downtime, equipment damage, sensitive-data compromise, and cascading effects.
+
+### Evidentiary boundary
+
+The warning materially broadens the known technology and sector risk perimeter.
+
+It does not establish that every exposed Siemens device was compromised, that the potential effects occurred, or that the active threat was Iranian.
+
+```text
+ACTIVE THREAT:
+🟢 OFFICIALLY WARNED
+
+SPECIFIC COMPLETED INCIDENT:
+NOT ESTABLISHED BY THE ADVISORY ALONE
+
+ACTUAL SAFETY OR EQUIPMENT DAMAGE:
+NOT ESTABLISHED BY THE ADVISORY ALONE
+
+IRAN ATTRIBUTION:
+⚪ NOT MADE IN THE ADVISORY
+```
+
+This changes the timeline from a narrow Rockwell water-controller problem into a broader shared-machinery warning. It does not turn a defensive advisory into a new attack count.
+
+### Sources
+
+- [CISA: defending against an active threat to Siemens S7-series PLCs](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-231a) — *official multi-agency warning, potential access, effects, sectors, and mitigations*
+- [Reuters: US warning concerning Siemens devices](https://www.reuters.com/world/us-warns-siemens-devices-can-be-hacked-amid-fears-iran-is-breaching-water-plants-2026-08-19/) — *relationship to the water campaign and continuing absence of formal Iran attribution*
+
+---
+
+## 2026-08-19 — Public Executive Attribution Remains Unresolved
+
+### 🇺🇸 United States
+
+### Event type
+
+Attribution-governance update.
+
+### What changed
+
+Nothing resolved publicly.
+
+Federal officials continued to stop short of formally attributing the recent local water-system attacks to Iran. President Trump had publicly rejected Iranian involvement on 31 July and instead blamed Minnesota without presenting evidence.
+
+By 19 August, that divergence had remained unresolved in public for **19 days — nearly three weeks**.
+
+```text
+REPORTED INVESTIGATIVE / INTELLIGENCE ASSESSMENT:
+IRANIAN INVOLVEMENT FAVOURED
+
+ACTOR CLAIM:
+APT IRAN / CYBERAV3NGERS CLAIM RECORDED
+
+FORMAL FEDERAL ATTRIBUTION:
+⚪ STILL ABSENT
+
+PRESIDENTIAL POSITION:
+PUBLICLY DIVERGENT SINCE 2026-07-31
+```
+
+Duration is not proof of Iranian responsibility.
+
+It is evidence of an extended public executive-level uncertainty during an active domestic critical-infrastructure investigation. That uncertainty affects public warning, accountability, alliance signalling, and the ability of local operators to understand whether they are facing opportunistic intrusion, organised criminal activity, proxy action, or state-linked wartime coercion.
+
+### Source
+
+- [Reuters: federal officials still stop short of formally linking Iran to the water attacks](https://www.reuters.com/world/us-warns-siemens-devices-can-be-hacked-amid-fears-iran-is-breaching-water-plants-2026-08-19/) — *status of the public attribution and the earlier presidential position*
+
+---
+
+## 🧭 Pattern Shift By 20 August 2026
 
 The timeline now supports a more differentiated finding:
 
-``` text
+```text
 WATER / OT
 → repeated physical-control interference
 → Iran-linked core-wave assessment strengthened
@@ -1788,11 +2074,24 @@ TRANSPORT / LOGISTICS
 ENTERPRISE ENGINEERING SYSTEMS
 → cross-sector data extortion
 → common-vulnerability criminal mechanism strongly favoured
+
+PUBLIC ADMINISTRATION / TAX DATA
+→ large confirmed French confidentiality breach
+→ further public-sector breach under assessment
+→ criminal monetisation currently favoured; Iran link unsupported
+
+DEFENSIVE POSTURE
+→ state mitigation distribution and inventory gaps exposed
+→ active-threat warning expands from Rockwell water PLCs to Siemens S7 controllers across sectors
+
+IRGC-LINKED CONTRACTOR HISTORY
+→ Mabna charging record materially expanded
+→ historical espionage and data theft; not a new wartime attack
 ```
 
 Therefore:
 
-``` text
+```text
 CROSS-SECTOR PATTERN CONFIDENCE:
 INCREASING
 
@@ -1807,6 +2106,10 @@ activity against the same class of technology, reported investigative
 and intelligence assessments, and now an explicit responsibility claim
 from an actor ecosystem with an established IRGC relationship.
 
+The 19 August Siemens advisory broadens the **defensive technology perimeter**. It does not broaden the **attributed victim set**. That distinction is now central to reading the next phase of the campaign.
+
+The French tax breach expands the public-administration and data-confidentiality record. Its apparent monetisation and absence of an Iran link make it a comparator, not inherited evidence for the water attribution.
+
 The comparator incidents matter precisely because they show why that
 evidence cannot be inherited by every disruption elsewhere.
 
@@ -1814,19 +2117,19 @@ evidence cannot be inherited by every disruption elsewhere.
 
 The public record currently supports several different observations.
 
-## 1. Iranian and Iran-linked activity is not confined to defence networks
+### 1. Iranian and Iran-linked activity is not confined to defence networks
 
 Recorded or reported activity during the war window has touched:
 
--   healthcare;
--   government;
--   defence;
--   telecommunications;
--   transport;
--   scientific infrastructure;
--   and operational technology.
+- healthcare;
+- government;
+- defence;
+- telecommunications;
+- transport;
+- scientific infrastructure;
+- and operational technology.
 
-## 2. Essential civilian infrastructure is inside the cyber-risk perimeter
+### 2. Essential civilian infrastructure is inside the cyber-risk perimeter
 
 The strongest current example is water.
 
@@ -1834,7 +2137,7 @@ The important development is not a spectacular nationwide outage.
 
 It is:
 
-``` text
+```text
 many local systems
 +
 shared technological weakness
@@ -1846,7 +2149,7 @@ real operational effects
 geographic spread
 ```
 
-## 3. Pattern confidence can outrun attribution confidence
+### 3. Pattern confidence can outrun attribution confidence
 
 The US water campaign now demonstrates why these must be recorded
 separately.
@@ -1854,14 +2157,14 @@ separately.
 A repeated campaign can be evident before the public record establishes
 its ultimate sponsor.
 
-## 4. Small operational effects matter
+### 4. Small operational effects matter
 
 Manual intervention, short shutdowns, loss of pressure, lockouts,
 flooding, unavailable systems, extended recovery and data exposure
 should not disappear merely because national services continue
 functioning.
 
-## 5. Criminal branding does not necessarily resolve sponsorship
+### 5. Criminal branding does not necessarily resolve sponsorship
 
 Some incidents are plainly consistent with ordinary cybercrime.
 
@@ -1870,13 +2173,13 @@ criminal operators.
 
 The timeline should preserve the distinction between:
 
-``` text
+```text
 WHO PERFORMED THE TECHNICAL ACTION
 ```
 
 and:
 
-``` text
+```text
 WHO ULTIMATELY REQUESTED / DIRECTED / BENEFITED FROM IT
 ```
 
@@ -1889,19 +2192,19 @@ without inventing an answer to the second question.
 The trend should be upgraded again where credible evidence shows one or
 more of the following:
 
--   movement from access into repeated physical-process manipulation;
--   confirmed contamination or safety effects;
--   simultaneous attacks across water and energy;
--   movement from local utilities into major regional infrastructure;
--   common infrastructure linking incidents previously treated
+- movement from access into repeated physical-process manipulation;
+- confirmed contamination or safety effects;
+- simultaneous attacks across water and energy;
+- movement from local utilities into major regional infrastructure;
+- common infrastructure linking incidents previously treated
     separately;
--   confirmed reuse of the same operational tooling;
--   coordinated attacks across several coalition countries;
--   repeated healthcare disruption;
--   disruption to systemically important banking or payment
+- confirmed reuse of the same operational tooling;
+- coordinated attacks across several coalition countries;
+- repeated healthcare disruption;
+- disruption to systemically important banking or payment
     infrastructure;
--   confirmed state direction;
--   or official attribution linking previously separate clusters.
+- confirmed state direction;
+- or official attribution linking previously separate clusters.
 
 The absence of one spectacular outage should not prevent recognition of
 a campaign.
@@ -1919,7 +2222,7 @@ It should not decide them casually.
 
 Use:
 
-``` text
+```text
 IHL REVIEW:
 
 NOT INDICATED
@@ -1936,19 +2239,21 @@ It does not establish unlawfulness.
 
 For cyber incidents:
 
-``` text
+```text
 CYBER INCIDENT
+≠
+CYBER OPERATION REGULATED BY IHL
 ≠
 CYBERATTACK FOR IHL PURPOSES
 ≠
-UNLAWFUL ATTACK
+IHL VIOLATION
 ≠
-WAR CRIME
+PROSECUTABLE WAR CRIME
 ```
 
 Attribution creates additional layers:
 
-``` text
+```text
 TECHNICAL OPERATOR
 ≠
 ORGANISATIONAL AFFILIATION
@@ -1972,34 +2277,34 @@ The present dataset remains uneven.
 
 It currently contains stronger public-source coverage for:
 
--   the United States;
--   the United Kingdom;
--   Israel;
--   and parts of wider Europe.
+- the United States;
+- the United Kingdom;
+- Israel;
+- and parts of wider Europe.
 
 It contains little or no structured coverage yet for:
 
--   Gulf and regional partner states;
--   Canada as a separate category;
--   other allied or partner states;
--   privately disclosed incidents;
--   incidents suppressed for operational or commercial reasons;
--   locally reported OT incidents that never reach national media;
--   incidents reported in languages not yet systematically reviewed;
--   and cases where personal harm continued after technical recovery.
+- Gulf and regional partner states;
+- Canada as a separate category;
+- other allied or partner states;
+- privately disclosed incidents;
+- incidents suppressed for operational or commercial reasons;
+- locally reported OT incidents that never reach national media;
+- incidents reported in languages not yet systematically reviewed;
+- and cases where personal harm continued after technical recovery.
 
 Absence from this timeline is not evidence that no incident occurred.
 
 It may reflect:
 
--   no public disclosure;
--   weak reporting;
--   delayed attribution;
--   language barriers;
--   fragmented local records;
--   classification;
--   commercial confidentiality;
--   or a decision by the affected institution not to publish details.
+- no public disclosure;
+- weak reporting;
+- delayed attribution;
+- language barriers;
+- fragmented local records;
+- classification;
+- commercial confidentiality;
+- or a decision by the affected institution not to publish details.
 
 The timeline should therefore describe the **visible public record**,
 not pretend to represent the total universe of incidents.
@@ -2014,7 +2319,7 @@ Where the assessment changes, preserve the movement.
 
 For example:
 
-``` text
+```text
 2026-07-26
 UNATTRIBUTED / INVESTIGATION OPEN
 
@@ -2038,11 +2343,18 @@ APT IRAN / CYBERAV3NGERS RESPONSIBILITY CLAIM REPORTED
 2026-08-15
 CLAIM KNOWN TO FBI / MINNESOTA AUTHORITIES BUT NOT PUBLICLY VALIDATED;
 FORMAL FEDERAL ATTRIBUTION STILL ABSENT
+
+↓
+
+2026-08-19
+SIEMENS ACTIVE-THREAT WARNING BROADENS THE DEFENSIVE PERIMETER;
+FORMAL ATTRIBUTION OF THE RECENT WATER CAMPAIGN REMAINS ABSENT;
+PUBLIC EXECUTIVE DIVERGENCE HAS PERSISTED FOR 19 DAYS
 ```
 
 Use:
 
-``` text
+```text
 PREVIOUS STATUS:
 NEW STATUS:
 WHAT CHANGED:
@@ -2052,13 +2364,13 @@ DATE REVIEWED:
 
 This allows readers to distinguish:
 
-``` text
+```text
 WHAT WAS KNOWN THEN
 ```
 
 from:
 
-``` text
+```text
 WHAT IS KNOWN NOW
 ```
 
@@ -2070,18 +2382,18 @@ That distinction is essential in a live wartime chronology.
 
 An entry should be updated where:
 
--   an official attribution is made;
--   technical evidence strengthens or weakens a suspected link;
--   an actor claim is disproved;
--   operational impact changes;
--   physical consequences become known;
--   stolen data is published or reused;
--   record manipulation is discovered;
--   another incident reveals a common provider or technology;
--   the pattern classification changes;
--   an IHL assessment changes;
--   a correction is issued;
--   or a rival explanation becomes stronger.
+- an official attribution is made;
+- technical evidence strengthens or weakens a suspected link;
+- an actor claim is disproved;
+- operational impact changes;
+- physical consequences become known;
+- stolen data is published or reused;
+- record manipulation is discovered;
+- another incident reveals a common provider or technology;
+- the pattern classification changes;
+- an IHL assessment changes;
+- a correction is issued;
+- or a rival explanation becomes stronger.
 
 Entries should be downgraded or removed where the evidence no longer
 supports inclusion.
@@ -2096,7 +2408,7 @@ They are not a failure of it.
 
 The incident record should preserve enough structure to distinguish:
 
-``` text
+```text
 event
 ≠
 effect
@@ -2116,8 +2428,9 @@ legal conclusion
 
 Use:
 
-``` text
+```text
 DATE:
+EVENT TYPE:
 COUNTRY:
 SECTOR:
 AFFECTED BODY:
@@ -2226,7 +2539,7 @@ Not every field will be known.
 Where information is genuinely missing, use the appropriate explicit
 status:
 
-``` text
+```text
 UNKNOWN
 NOT PUBLIC
 NO EVIDENCE FOUND
@@ -2238,7 +2551,7 @@ Do not fill an evidentiary gap through inference.
 
 For campaign relationships, remember:
 
-``` text
+```text
 PATTERN ESTABLISHED
 ≠
 COMMON OPERATOR ESTABLISHED
@@ -2273,37 +2586,37 @@ The reporting rule is:
 
 Therefore:
 
-``` text
+```text
 INCIDENT CONFIRMED
 ```
 
 does not mean:
 
-``` text
+```text
 ATTRIBUTION CONFIRMED
 ```
 
 and:
 
-``` text
+```text
 PATTERN CONFIRMED
 ```
 
 does not mean:
 
-``` text
+```text
 COMMON SPONSOR CONFIRMED
 ```
 
 and:
 
-``` text
+```text
 CIVILIAN INFRASTRUCTURE AFFECTED
 ```
 
 does not mean:
 
-``` text
+```text
 WAR CRIME CONFIRMED
 ```
 
@@ -2314,18 +2627,13 @@ visible.
 
 ## 🌌 Constellations
 
-⏱️ 🇮🇷 🏗️ 🕸️ 📉 🚰 👾 --- chronology; Iran war; essential infrastructure;
-attribution; cumulative disruption; operational technology; legal
-review.
+⏱️ 🏗️ 🕸️ 🚰 👾 — chronology; essential infrastructure; attribution; operational technology; legal review.
 
 ---
 
 ## ✨ Stardust
 
-timeline, iran, irgc, cyber incidents, critical infrastructure,
-attribution, operational technology, water, wastewater, public data,
-banking, health, transport, campaign pattern, industrial control
-systems, war crimes, international humanitarian law
+cyber conflict timeline, essential infrastructure, operational technology, water systems, public administration, attribution, campaign analysis, Siemens S7, Mabna Institute, Iran war
 
 ---
 
@@ -2336,19 +2644,20 @@ It provides the chronological evidentiary spine for the *🇮🇷 Data Wars: IRG
 
 > 📡 Cross-references:
 >
-> -   [🇮🇷 Data Wars: IRGC Edition](./README.md) --- *root orientation and pack map*
-> -   [🧭 What This Pack Is Tracking](./🧭_what_this_pack_is_tracking.md) --- *scope and inclusion rules*
-> -   [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) --- *graded attribution*
-> -   [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) --- *source and confidence method*
-> -   [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) --- *pattern analysis*
-> -   [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) --- *OT depth, control access, and physical-process effects*
-> -   [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) --- *layered tasking and ultimate sponsorship*
-> -   [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) --- *civilian functions, data integrity, and person-centred recovery*
-> -   [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) --- *institutional ownership, fragmented response, and protection pathways*
-> -   [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) --- *IHL routing for cyber operations affecting civilian and specially protected infrastructure*
-> -   [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) --- *reporting discipline under evolving attribution*
-> -   [📊 Timeline CSV](./📊_iran_war_essential_infrastructure_cyber_timeline.csv) --- *structured working dataset*
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *root orientation and pack map*
+> - [🧭 What This Pack Is Tracking](./🧭_what_this_pack_is_tracking.md) — *scope and inclusion rules*
+> - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *graded attribution*
+> - [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) — *source and confidence method*
+> - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *pattern analysis*
+> - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *OT depth, control access, and physical-process effects*
+> - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *layered tasking and ultimate sponsorship*
+> - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *civilian functions, data integrity, and person-centred recovery*
+> - [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) — *institutional ownership, fragmented response, and protection pathways*
+> - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *IHL routing for cyber operations affecting civilian and specially protected infrastructure*
+> - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *reporting discipline under evolving attribution*
+> - [📊 Timeline CSV](./📊_iran_war_essential_infrastructure_cyber_timeline.csv) — *structured working dataset*
+> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *source provenance, claim support, and evidentiary limits*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-20_
