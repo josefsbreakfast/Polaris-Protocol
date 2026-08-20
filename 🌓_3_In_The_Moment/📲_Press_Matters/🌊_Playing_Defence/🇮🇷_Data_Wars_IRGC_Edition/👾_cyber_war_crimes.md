@@ -1,5 +1,5 @@
 # 👾 Cyber War Crimes  
-**First created:** 2026-08-07 | **Last updated:** 2026-08-16  
+**First created:** 2026-08-07 | **Last updated:** 2026-08-20  
 *Cyber operations do not sit outside the laws of war merely because the weapon is code rather than explosives.*
 
 ---
@@ -15,12 +15,18 @@ Several separate questions have to be kept apart:
 ```text
 CYBER INCIDENT
 ≠
+CYBER OPERATION REGULATED BY IHL
+≠
 CYBERATTACK FOR IHL PURPOSES
 ≠
-UNLAWFUL ATTACK
+IHL VIOLATION
 ≠
-WAR CRIME
-≠
+PROSECUTABLE WAR CRIME
+```
+
+Two responsibility tracks then branch from the facts:
+
+```text
 STATE RESPONSIBILITY
 ≠
 INDIVIDUAL CRIMINAL RESPONSIBILITY
@@ -670,6 +676,131 @@ The two tracks may overlap.
 
 They do not depend upon one another in sequence.
 
+The International Criminal Court's **Elements of Crimes** is a useful discipline here: criminal responsibility requires the relevant jurisdictional, material and mental elements, not merely a serious incident or a persuasive geopolitical narrative.
+
+That produces a longer evidentiary chain:
+
+```text
+ACCESS
+→ OPERATION
+→ ACTUAL OR EXPECTED EFFECT
+→ ARMED-CONFLICT NEXUS
+→ PROTECTED PERSON OR OBJECT
+→ APPLICABLE RULE
+→ BREACH
+→ RESPONSIBLE ACTOR
+→ REQUIRED MENTAL ELEMENT
+→ MODE OF LIABILITY
+→ JURISDICTION
+→ PROSECUTABLE WAR-CRIME CASE
+```
+
+Every arrow needs evidence.
+
+A failure at one stage does not make the underlying harm unreal. It limits the legal conclusion that can presently be sustained.
+
+---
+
+## 🧪 Applying The Test To The Current Record  
+
+The current public record contains three different kinds of evidence. They must not be treated as interchangeable.
+
+### Water And Wastewater Incidents  
+
+US authorities have described malicious access to internet-facing programmable logic controllers across multiple states, with configuration changes, loss of monitoring or control, and some operational effects including loss of pressure or flooding.
+
+That establishes more than abstract capability. It establishes a class of incidents with real operational consequences.
+
+It does **not**, on the public record available on 20 August 2026, establish all of the following:
+
+- one common operator across every incident;
+- direction by Iran or the IRGC;
+- a complete armed-conflict nexus for each operation;
+- the purpose, expected effects, and knowledge of a particular individual;
+- a violation of a specific IHL rule in every affected system;
+- or the elements of a prosecutable war crime.
+
+An actor using the names **APT IRAN** and **CyberAv3ngers** claimed responsibility for the Minnesota incident. Earlier US government reporting describes CyberAv3ngers as IRGC-affiliated. The new claim is evidence that the claim was made; it is not, by itself, proof of authorship, state direction, or responsibility for the wider multistate pattern.
+
+Federal officials continued to stop short of formally attributing the recent local-water incidents to Iran as of 19 August.
+
+The responsible public formulation is therefore:
+
+> The reported interference with civilian water infrastructure has operational effects capable of engaging IHL analysis. The present public record does not establish Iranian state responsibility or individual war-crime liability.
+
+### Siemens S7 Active-Threat Warning  
+
+The US Cybersecurity and Infrastructure Security Agency warned on 19 August of an active threat to Siemens S7-series programmable logic controllers used across critical sectors. It described the potential for read-and-write access, disruption, safety incidents, equipment damage, downtime, and cascading effects.
+
+That warning materially changes the **risk** picture.
+
+It does not establish that every exposed device was compromised, that every compromise became an IHL attack, that the threatened effects occurred, or that Iran was responsible. CISA did not attribute the active threat to Iran in the advisory.
+
+So:
+
+```text
+ACTIVE THREAT
+≠
+COMPLETED OPERATION
+≠
+ATTACK
+≠
+VIOLATION
+≠
+WAR CRIME
+```
+
+### Mabna Institute Charges  
+
+The US Department of Justice announced charges against 17 alleged Mabna Institute members on 18 August. The allegations concern a historical campaign, beginning in 2013 and continuing through at least 2017, involving credential theft, unauthorised access, and the theft of academic, research, and proprietary data. Prosecutors allege that part of the university campaign was conducted on behalf of the IRGC.
+
+Those allegations are relevant to Iran-linked tasking, contractor ecosystems, and the evidentiary difference between operator and customer.
+
+They are not proof of a new wartime attack. Nor should espionage or data theft automatically be relabelled as an IHL attack or war crime.
+
+The case is a useful negative control:
+
+```text
+SERIOUS CYBERCRIME ALLEGATION
+AND ALLEGED IRGC TASKING
+≠
+CURRENT WARTIME CYBERATTACK
+≠
+WAR CRIME
+```
+
+---
+
+## 🧮 Current Public-Evidence Position  
+
+```text
+WATER OPERATIONAL EFFECTS:          ESTABLISHED IN SOME INCIDENTS
+WIDER MULTISTATE COMMON OPERATOR:   NOT PUBLICLY ESTABLISHED
+MINNESOTA ACTOR CLAIM:              RECORDED, NOT INDEPENDENTLY DISPOSITIVE
+CURRENT IRAN ATTRIBUTION:           UNRESOLVED PUBLICLY
+SIEMENS ACTIVE THREAT:              OFFICIALLY WARNED
+SIEMENS THREAT ATTRIBUTED TO IRAN:  NO
+ARMED-CONFLICT NEXUS:               REQUIRES INCIDENT-SPECIFIC ANALYSIS
+IHL ATTACK THRESHOLD:               EFFECT- AND POSITION-DEPENDENT
+IHL VIOLATION:                      REQUIRES FURTHER FACTUAL AND LEGAL FINDINGS
+INDIVIDUAL WAR-CRIME LIABILITY:     NOT ESTABLISHED ON THE PUBLIC RECORD
+```
+
+This is not a finding that no violation occurred.
+
+It is a finding about what the available public evidence can presently carry.
+
+### Source Anchors  
+
+- [FBI: malicious actors targeting water and wastewater PLCs](https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions) — operational effects and response guidance;
+- [CISA: active threat to Siemens S7-series PLCs](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-231a) — capability and risk, without attribution to Iran;
+- [CISA: CyberAv3ngers advisory](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a) — earlier US government characterisation of the actor as IRGC-affiliated;
+- [KSTP: APT IRAN/CyberAv3ngers claim concerning Minnesota water systems](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/) — evidence of the public claim, not independent proof of authorship;
+- [Reuters: US warning and unresolved attribution](https://www.reuters.com/world/us-warns-siemens-devices-can-be-hacked-amid-fears-iran-is-breaching-water-plants-2026-08-19/) — federal officials had not formally attributed the recent water incidents to Iran;
+- [US Department of Justice: Mabna Institute charges](https://www.justice.gov/opa/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary) — allegations, dates, victims, and asserted IRGC tasking;
+- [ICRC position paper on IHL and cyber operations](https://international-review.icrc.org/articles/ihl-and-cyber-operations-during-armed-conflicts-913) — attack threshold, civilian data, and the ICRC's stated position;
+- [ICC Elements of Crimes](https://www.icc-cpi.int/publications/core-legal-texts/elements-crimes) — jurisdictional, material, and mental elements for individual criminal responsibility.
+
 ---
 
 ## 🔐 Public Attribution Creates A Practical Catch-22  
@@ -832,6 +963,12 @@ This node does not claim that:
 - every serious data operation necessarily qualifies as an attack;
 - every Iran-linked actor is state-directed;
 - every Iran-linked operation is legally attributable to Iran;
+- an actor claim proves authorship or state direction;
+- wartime timing by itself proves an armed-conflict nexus;
+- access, pre-positioning, or an active-threat warning proves a completed attack;
+- operational disruption by itself proves a war crime;
+- an indictment proves the allegations it contains;
+- historical espionage or data theft is automatically an IHL attack;
 - state responsibility requires proof of one universal direction-or-control test;
 - every unlawful state operation produces individual criminal liability;
 - individual war-crime responsibility depends upon establishing state responsibility;
@@ -848,11 +985,13 @@ Where an incident may raise serious IHL issues, record:
 ```text
 DATE:
 COUNTRY:
+ARMED CONFLICT:
 ARMED-CONFLICT NEXUS:
 SECTOR:
 AFFECTED OBJECT / SYSTEM:
 TECHNICAL OPERATION:
 DEPTH OF ACCESS:
+EXPECTED EFFECT:
 PHYSICAL EFFECT:
 SERVICE EFFECT:
 CIVILIAN EFFECT:
@@ -863,6 +1002,7 @@ EXPECTED REVERBERATING EFFECTS:
 PRECAUTION QUESTIONS:
 IHL RULE ENGAGED:
 IHL ISSUE:
+ATTACK THRESHOLD:
 LEGAL STATUS:
 TECHNICAL OPERATOR:
 ORGANISATIONAL LINK:
@@ -872,7 +1012,11 @@ PUBLIC STATE ATTRIBUTION:
 STATE RESPONSIBILITY STATUS:
 IDENTIFIED INDIVIDUAL / ACTOR:
 POSSIBLE MODE OF LIABILITY:
+REQUIRED MENTAL ELEMENT:
+JURISDICTION:
 INDIVIDUAL RESPONSIBILITY STATUS:
+EVIDENCE GAPS:
+PUBLIC LABEL:
 CONFIDENCE:
 RIVAL INTERPRETATIONS:
 SOURCES:
@@ -946,13 +1090,13 @@ Preserve the evidence.
 
 ## 🌌 Constellations  
 
-👾 ⚖️ 🚰 🏥 🕸️ 🧅 🧍 — cyber conflict; international humanitarian law; water; medical systems; attribution; layered tasking; individual responsibility.  
+👾 ⚖️ 🚰 🏥 🕸️ 🧅 🏗️ — cyber conflict; international humanitarian law; water; medical systems; attribution; layered tasking; protected and dual-use infrastructure.  
 
 ---
 
 ## ✨ Stardust  
 
-cyber war crimes, international humanitarian law, cyber warfare, civilian infrastructure, water systems, hospitals, distinction, proportionality, precautions, direct participation in hostilities, attribution, state responsibility, individual criminal responsibility, civilian data, loss of functionality, IRGC, Iran war
+cyber war crimes, international humanitarian law, cyber warfare, civilian infrastructure, water systems, hospitals, distinction, proportionality, precautions, direct participation in hostilities, attribution, state responsibility, individual criminal responsibility, civilian data, loss of functionality, Siemens S7, programmable logic controllers, CyberAv3ngers, Mabna Institute, IRGC, Iran war
 
 ---
 
@@ -969,10 +1113,13 @@ It provides the basic legal-routing framework for assessing when wartime cyber a
 > - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *civilian systems, health protections, and person-centred effects*
 > - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *technical attribution, state attribution, and responsibility*
 > - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *layered tasking and responsibility chains*
+> - [🗺️ Who Iran Sees As Inside The War](./🗺️_who_iran_sees_as_inside_the_war.md) — *armed-conflict, intelligence, access, and attribution maps*
+> - [⛴️ Do Ports Count?](./⛴️_do_ports_count.md) — *dual-use systems, shared machinery, and maritime dependencies*
 > - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *legal and attribution language under uncertainty*
 > - [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) — *source, confidence, limits, and review status*
+> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *source provenance and claim support*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-20_
