@@ -1,0 +1,15 @@
+gap analysis after updates:  
+
+Yes — a short finishing pass remains. The obvious gaps are:
+
+* Manitoba is the main factual omission. It appears in several analytical nodes and the source register, but not in the timeline, CSV/XLSX, README, healthcare node, machinery node, or threat-ecosystems map. Adding it would take the register to at least 32 records.
+* Medusa needs an explicit routing decision. It works well as the criminal affiliate/access-broker comparator, but has not propagated into the README, ecosystem map, attribution node, or reporting node. It only needs a timeline row if the 18 August advisory was substantively new.
+* The denial-of-solidarity hypothesis stopped halfway. It is developed in 🧭_what_this_pack_is_tracking.md, but should be briefly carried into 🌊_riding_every_wave.md, 📉_small_disruptions_can_make_a_campaign.md, 🇺🇸_potential_impacts_on_americans.md, and the README.
+* “Rhetorical corner-building” is present in substance but not named. 🗺️_who_iran_sees_as_inside_the_war.md already explains how Hormuz language hardens positions and makes compromise resemble surrender. A short named formulation would complete the planned analysis.
+* Selective impunity remains largely unpropagated. Risk externalisation is present, but the loop explaining how concealed commissioners can subsidise capability and weaken enforcement never made it properly into the pack.
+* The source register needs the 20 August evidence pass. It still lacks the Siemens S7 advisory and continuing 19-day federal attribution gap, and remains dated 19 August.
+* One genuinely broken internal link exists:
+    🗺️_who_iran_sees_as_inside_the_war.md links to absent ⚖️_when_attribution_controls_the_public_war_crime_claim.md. It should either link to 👾_cyber_war_crimes.md or become a real node.
+* Minor House Style drift: 14 nodes exceed the prescribed 2–5 Constellation emojis and/or 5–10 Stardust terms. No substantive damage, just indexing exuberance getting slightly out of hand.
+
+Everything else important is aligned: the 31-record CSV/XLSX parity, README count, France, Connecticut, Mabna, Cl0p, Siemens, the water attribution history, and the nearly three weeks of executive uncertainty. So: one missing incident, one comparator decision, three analytical propagation jobs, one dead link, then cosmetic trimming.
