@@ -1,5 +1,5 @@
 # 🏗️ What Counts As State Infrastructure
-**First created:** 2026-08-01 | **Last updated:** 2026-08-20
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
 *The test is what the system does, not whether the organisation running it is formally part of the state.*
 
 ---
@@ -1418,6 +1418,14 @@ It defines the functional perimeter for incidents included in the *🇮🇷 Data
 > - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *civilian systems as state function*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
 > - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating essential-function effects from shared-vulnerability and criminal exposure patterns*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
