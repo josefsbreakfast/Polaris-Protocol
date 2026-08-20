@@ -1,10 +1,10 @@
-# 🏗️ What Counts As State Infrastructure  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
-*The test is what the system does, not whether the organisation running it is formally part of the state.*  
+# 🏗️ What Counts As State Infrastructure
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20
+*The test is what the system does, not whether the organisation running it is formally part of the state.*
 
 ---
 
-## 🛰️ Orientation  
+## 🛰️ Orientation
 
 This pack uses a functional definition of state infrastructure.
 
@@ -63,7 +63,7 @@ Functional inclusion and legal targetability are separate questions.
 
 ---
 
-## 🧭 The Functional Test  
+## 🧭 The Functional Test
 
 A system belongs inside this pack where one or more of the following is true:
 
@@ -105,9 +105,69 @@ WHAT THE PHYSICAL SYSTEM DOES?
 
 Where the answer is yes, the incident deserves additional analytical weight.
 
+The functional test is strongest when it asks six questions:
+
+```text
+WHAT PUBLIC OR ESSENTIAL FUNCTION DOES THE SYSTEM PERFORM?
+↓
+WHO AND WHAT DEPEND ON IT?
+↓
+HOW DEEPLY DID THE INCIDENT REACH?
+↓
+WHAT ALTERNATIVE CAPACITY EXISTED?
+↓
+WHO ABSORBED THE FALLBACK?
+↓
+WHAT MATERIAL CONSEQUENCE FOLLOWED?
+```
+
+This prevents size, ownership, sector label, and dramatic timing from doing analytical work that belongs to evidence.
+
+A large company may sit outside the perimeter where no essential function was affected.
+
+A small contractor may sit inside it where several public services cannot operate safely without its software, access, records, or specialist labour.
+
+The perimeter is therefore relational.
+
+It follows the dependency between the system and the function.
+
 ---
 
-## ⚖️ State Infrastructure Is Not A Legal Target Category  
+## 🧩 Infrastructure Is More Than Machinery
+
+Some infrastructure moves water, electricity, fuel, people, or goods.
+
+Some infrastructure allows the state to know, decide, coordinate, pay, authenticate, and respond.
+
+The pack should therefore distinguish at least four forms:
+
+```text
+PHYSICAL INFRASTRUCTURE
+→ plant, pumps, power, transport, buildings
+
+INFORMATION INFRASTRUCTURE
+→ records, identity, telemetry, provenance
+
+DECISION INFRASTRUCTURE
+→ eligibility, authorisation, dispatch, legal process
+
+COORDINATION INFRASTRUCTURE
+→ communications, suppliers, staff, incident ownership
+```
+
+These layers interact.
+
+A pump may remain physically intact while its controller becomes untrusted.
+
+A hospital may remain open while central monitoring, access control, or patient records require manual workarounds.
+
+A benefit may remain legally due while the administrative system cannot authorise payment.
+
+The absence of damaged machinery does not establish the absence of infrastructure harm.
+
+---
+
+## ⚖️ State Infrastructure Is Not A Legal Target Category
 
 The phrase **state infrastructure** is used functionally in this pack.
 
@@ -160,7 +220,7 @@ The fact that disruption would hurt the state is not itself enough to establish 
 
 ---
 
-## 🚰 Water And Wastewater  
+## 🚰 Water And Wastewater
 
 Water is one of the clearest examples of essential civilian infrastructure.
 
@@ -214,7 +274,7 @@ It is also:
 
 ---
 
-## 🚰 Water Has A Control Layer  
+## 🚰 Water Has A Control Layer
 
 Water systems demonstrate why administrative IT and operational technology should not be treated as interchangeable.
 
@@ -261,7 +321,7 @@ It is how far into the delivery process the intrusion reached.
 
 ---
 
-## 🌊 Water Can Be Indispensable In More Than One Sense  
+## 🌊 Water Can Be Indispensable In More Than One Sense
 
 Water is not merely economically useful.
 
@@ -289,7 +349,7 @@ They should not be collapsed together.
 
 ---
 
-## ⚡ Energy And Industrial Control  
+## ⚡ Energy And Industrial Control
 
 Energy infrastructure includes more than national electricity generation.
 
@@ -328,7 +388,7 @@ So may the ability to manipulate rather than destroy.
 
 ---
 
-## 🔗 Essential Systems Depend On Each Other  
+## 🔗 Essential Systems Depend On Each Other
 
 The pack should not analyse sectors as sealed boxes.
 
@@ -375,7 +435,7 @@ Several interdependent failures may become a state-resilience problem.
 
 ---
 
-## 🏥 Health And Medical Supply  
+## 🏥 Health And Medical Supply
 
 Health infrastructure includes:
 
@@ -416,7 +476,61 @@ The fact that a hospital remains open does not mean normal care continues.
 
 ---
 
-## 🎓 Education And Public Records  
+## 🏨 The Hospital Building Is Part Of The Care System
+
+Health infrastructure does not stop at clinical applications or medical devices.
+
+It also includes facility systems that keep the care environment usable and secure, including:
+
+- heating, ventilation, and cooling;
+- environmental monitoring;
+- access control and identity cards;
+- alarms and physical security;
+- lifts and internal movement;
+- power and backup generation;
+- water and medical gases;
+- and the staff who monitor or operate those systems locally when central control is unavailable.
+
+The August 2026 ransomware incident affecting parts of Health Sciences Centre Winnipeg and CancerCare Manitoba's facility-maintenance environment is a useful boundary case.
+
+Shared Health reported that central HVAC monitoring was affected, although the systems continued operating and were monitored locally. The security office was closed, new or altered access cards could not be processed through an affected system, existing cards continued working, and additional security personnel were deployed. Patient care and clinical operations were reported as continuing.
+
+That establishes:
+
+```text
+RANSOMWARE INCIDENT:
+🟢 ESTABLISHED
+
+FACILITY-MAINTENANCE SYSTEM EFFECT:
+🟢 ESTABLISHED
+
+CENTRAL HVAC MONITORING AFFECTED:
+🟢 ESTABLISHED
+
+LOCAL MONITORING / ADDITIONAL SECURITY REQUIRED:
+🟢 ESTABLISHED
+
+CLINICAL SERVICE DISRUPTION:
+NOT ESTABLISHED IN THE REVIEWED UPDATE
+
+PERSONAL OR HEALTH-DATA ACCESS:
+NOT DETERMINED; INITIAL REVIEW INDICATED NONE
+
+IRAN CONNECTION:
+⚪ NO EVIDENCE FOUND
+```
+
+The infrastructure lesson does not depend on claiming that patient care stopped.
+
+It is that central monitoring, building access, and environmental control are functional dependencies of care. Continuity achieved through local monitoring and additional personnel demonstrates resilience while also revealing the labour and capacity required to replace the affected digital layer.
+
+Source:
+
+- [Shared Health: ransomware incident affecting HSC and CancerCare Manitoba facility-maintenance systems](https://sharedhealthmb.ca/news-releases/2026-08-14-ransomware-incident-update/)
+
+---
+
+## 🎓 Education And Public Records
 
 Education is often treated as a soft sector.
 
@@ -463,7 +577,7 @@ A person cannot restore a previous identity because the institution restored its
 
 ---
 
-## 🏦 Banks, Payments, And Financial Confidence  
+## 🏦 Banks, Payments, And Financial Confidence
 
 Banks are often private companies.
 
@@ -503,7 +617,7 @@ This is why the pack tracks systemically important banking rather than every fin
 
 ---
 
-## 🚆 Transport And Logistics  
+## 🚆 Transport And Logistics
 
 Transport infrastructure includes:
 
@@ -752,7 +866,7 @@ Sources:
 
 ---
 
-## 📡 Telecommunications And State Connectivity  
+## 📡 Telecommunications And State Connectivity
 
 Telecommunications infrastructure includes:
 
@@ -785,7 +899,7 @@ It is a dependency layer beneath the modern state.
 
 ---
 
-## 🛡️ Defence And Security Systems  
+## 🛡️ Defence And Security Systems
 
 Defence infrastructure includes obvious military systems:
 
@@ -826,7 +940,7 @@ Legal targeting analysis must go further.
 
 ---
 
-## 🏢 Government Administration, Policing, And Justice  
+## 🏢 Government Administration, Policing, And Justice
 
 State administration includes:
 
@@ -870,7 +984,7 @@ Compromise can therefore produce direct personal harm as well as institutional d
 
 ---
 
-## 🧾 Contractors And Outsourced Systems  
+## 🧾 Contractors And Outsourced Systems
 
 A government may outsource delivery.
 
@@ -908,9 +1022,33 @@ It is:
 
 > What public function becomes unavailable, unsafe, unreliable, controllable, or exposed if this contractor fails?
 
+The record should map roles rather than compress every participant into **the organisation**:
+
+```text
+PUBLIC AUTHORITY / FUNCTION OWNER:
+COMMISSIONER / PAYER:
+SERVICE OPERATOR:
+TECHNICAL OPERATOR:
+CONTRACTOR / SUPPLIER:
+ACCESS PROVIDER:
+END USER / BENEFICIARY:
+```
+
+Those roles may belong to one body.
+
+They may also be distributed across several institutions that hold different evidence, duties, permissions, and incentives.
+
+An operator may know how access was used without knowing the ultimate customer.
+
+A commissioner may know the desired outcome without controlling the operational method.
+
+A public authority may remain responsible for continuity and protection even where the technical system is privately operated.
+
+Mapping the relationship is therefore part of defining the infrastructure.
+
 ---
 
-## 🕸️ Contractors Can Join Sectors Together  
+## 🕸️ Contractors Can Join Sectors Together
 
 A contractor may serve several institutions or sectors at once.
 
@@ -948,7 +1086,7 @@ It is not automatic proof of a common campaign.
 
 ---
 
-## 🧍 People Are Part Of The Infrastructure  
+## 🧍 People Are Part Of The Infrastructure
 
 State systems are often discussed as though the data inside them is secondary to the machinery.
 
@@ -985,9 +1123,22 @@ The effects may continue through:
 
 A state that restores the service but abandons the people exposed by the breach has restored only part of the infrastructure.
 
+People also carry fallback.
+
+When a system moves to manual operation, the cost may be absorbed by:
+
+- clinicians and patients;
+- engineers and operators;
+- teachers, students, and families;
+- caseworkers and claimants;
+- security staff and visitors;
+- or communities asked to tolerate delay, uncertainty, travel, repeated disclosure, or reduced service.
+
+The pack should record that burden, especially where high-dependency users cannot safely wait or substitute another service.
+
 ---
 
-## 🤐 Silence Can Become An Infrastructure Failure  
+## 🤐 Silence Can Become An Infrastructure Failure
 
 The response system is also part of state infrastructure.
 
@@ -1020,7 +1171,7 @@ It is part of it.
 
 ---
 
-## 🧬 Infrastructure Significance Can Emerge Through Clustering  
+## 🧬 Infrastructure Significance Can Emerge Through Clustering
 
 Not every incident looks significant on its own.
 
@@ -1050,9 +1201,55 @@ No individual event needs to collapse the state.
 
 Infrastructure significance can emerge from accumulation.
 
+But two propositions must remain separate:
+
+```text
+THE INCIDENTS COLLECTIVELY CREATE AN INFRASTRUCTURE PROBLEM
+≠
+THE INCIDENTS SHARE ONE OPERATOR, CUSTOMER, OR SPONSOR
+```
+
+Clustering can strengthen confidence in cumulative effect before it strengthens attribution.
+
+The first conclusion requires evidence about dependencies and consequences.
+
+The second requires evidence about provenance, technique, infrastructure, tasking, relationships, or other actor linkage.
+
 ---
 
-## 🚫 What Does Not Automatically Belong  
+## 🪞 Public Sympathy Is Not The Perimeter
+
+Corporate legitimacy and public sympathy can affect how an incident is narrated, claimed, or politically received.
+
+They do not decide whether a system is infrastructure.
+
+A disliked company may operate a function on which water, energy, health, transport, payments, or defence depends.
+
+A popular company may suffer a serious breach without any essential public function being affected.
+
+The pack should therefore resist both shortcuts:
+
+```text
+UNPOPULAR VICTIM
+=
+NOT IMPORTANT
+```
+
+and:
+
+```text
+PROMINENT OR SYMPATHETIC VICTIM
+=
+ESSENTIAL INFRASTRUCTURE
+```
+
+Reputation may belong in the information-operations analysis.
+
+Function, dependency, substitutability, and consequence belong in the infrastructure classification.
+
+---
+
+## 🚫 What Does Not Automatically Belong
 
 Not every cyber incident belongs in this pack.
 
@@ -1067,6 +1264,19 @@ An incident may remain outside where:
 Pure website defacement may not qualify.
 
 A stolen logo or embarrassing message may matter politically but not constitute infrastructure disruption.
+
+Nor do the following automatically establish inclusion:
+
+- a famous corporate name;
+- an actor's claim of strategic importance;
+- hostile rhetoric;
+- wartime timing;
+- an organisation appearing in an important sector;
+- or the possibility that some undisclosed customer may have been affected.
+
+Those facts may justify scrutiny.
+
+The perimeter still requires a supported relationship between the affected system and a material public, social, operational, physical, data, or decision consequence.
 
 The inclusion test should ask:
 
@@ -1083,7 +1293,7 @@ If those questions cannot be answered, the incident may not belong here.
 
 ---
 
-## 📋 Infrastructure Record Template  
+## 📋 Infrastructure Record Template
 
 Where useful, the pack should record infrastructure significance using:
 
@@ -1091,21 +1301,45 @@ Where useful, the pack should record infrastructure significance using:
 SECTOR:
 PUBLIC FUNCTION:
 OWNERSHIP:
-OPERATOR:
+PUBLIC AUTHORITY / FUNCTION OWNER:
+COMMISSIONER / PAYER:
+SERVICE OPERATOR:
+TECHNICAL OPERATOR:
+CONTRACTOR / SUPPLIER:
+ACCESS PROVIDER:
+END USER / BENEFICIARY:
+HIGH-DEPENDENCY USERS:
 SYSTEM LAYER:
+INFRASTRUCTURE FORM — PHYSICAL / INFORMATION / DECISION / COORDINATION:
 ESSENTIAL DEPENDENCY:
 UPSTREAM DEPENDENCIES:
 DOWNSTREAM DEPENDENCIES:
+GEOGRAPHIC REACH:
+EXPECTED DURATION:
+SUBSTITUTABILITY:
+ALTERNATIVE CAPACITY:
 OPERATIONAL EFFECT:
 PHYSICAL EFFECT:
+DATA EFFECT:
+DECISION EFFECT:
+COORDINATION EFFECT:
 MANUAL FALLBACK:
+FALLBACK OWNER:
+HUMAN / CAPACITY BURDEN:
 SHARED CONTRACTOR OR TECHNOLOGY:
 LOGISTICS PERIMETER LEVEL:
 AFFECTED GOODS / SERVICES:
-ALTERNATIVE CAPACITY:
 DOWNSTREAM ESSENTIAL-SERVICE EFFECT:
 CIVILIAN / MILITARY / DUAL-USE STATUS:
+CLAIMED ACTOR:
+OFFICIAL ATTRIBUTION:
+OTHER ATTRIBUTION:
+COMMISSIONING / CUSTOMER EVIDENCE:
+CONFIDENCE BY PROPOSITION:
+RIVAL EXPLANATIONS:
 IHL REVIEW NEEDED:
+SOURCES:
+LAST REVIEWED:
 ```
 
 This helps prevent several different questions being collapsed into one.
@@ -1126,7 +1360,7 @@ Each proposition needs its own evidence.
 
 ---
 
-## 🧭 Working Rule  
+## 🧭 Working Rule
 
 The working rule is:
 
@@ -1138,27 +1372,35 @@ It is also narrower than including every large company or every cyberattack.
 
 The perimeter follows consequence.
 
+Map the function.
+
+Map the dependency.
+
+Map the roles.
+
+Record how deep the incident reached, what alternative capacity existed, and who absorbed continuity.
+
 And where the system is civilian:
 
 > Do not confuse strategic importance with loss of legal protection.
 
 ---
 
-## 🌌 Constellations  
+## 🌌 Constellations
 
-🏗️ 🚰 ⚡ 🏥 🏦 🕸️ ⚖️ — essential infrastructure; water; energy; health; banking; shared dependencies; civilian protection.  
-
----
-
-## ✨ Stardust  
-
-state infrastructure, critical infrastructure, essential services, public contractors, water, energy, health, education, banking, transport, logistics, supply chains, telecommunications, government data, operational technology, industrial control systems, public function, civilian infrastructure, international humanitarian law
+🏗️ 🚰 ⚡ 🏥 🏦 🕸️ ⚖️ — essential infrastructure; water; energy; health; banking; shared dependencies; functional roles; civilian protection.
 
 ---
 
-## 🏮 Footer  
+## ✨ Stardust
 
-*🏗️ What Counts As State Infrastructure* is a living node of the **Polaris Protocol**.  
+state infrastructure, critical infrastructure, essential services, public contractors, water, energy, health, hospital facility systems, education, banking, transport, logistics, supply chains, telecommunications, government data, operational technology, industrial control systems, public function, dependency, substitutability, manual fallback, functional roles, commissioning, civilian infrastructure, international humanitarian law
+
+---
+
+## 🏮 Footer
+
+*🏗️ What Counts As State Infrastructure* is a living node of the **Polaris Protocol**.
 It defines the functional perimeter for incidents included in the *🇮🇷 Data Wars: IRGC Edition* timeline while keeping essential state function separate from lawful military targetability.
 
 > 📡 Cross-references:
@@ -1168,6 +1410,10 @@ It defines the functional perimeter for incidents included in the *🇮🇷 Data
 > - [🗺️ Who Iran Sees As Inside The War](./🗺️_who_iran_sees_as_inside_the_war.md) — *threat exposure without collapsing it into legal targetability*
 > - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *how limited incidents accumulate*
 > - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *operational technology, control systems, and physical effects*
+> - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *operator, intermediary, commissioner, payer, and customer separation*
+> - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *claim-level attribution and graded confidence*
+> - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *reporting the effect without upgrading the actor claim*
+> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *source provenance and evidence audit trail*
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *civilian systems as state function*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
@@ -1175,4 +1421,4 @@ It defines the functional perimeter for incidents included in the *🇮🇷 Data
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-20_
