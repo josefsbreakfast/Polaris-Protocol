@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-20 04:12:58 UTC_
+_Generated on 2026-08-20 04:14:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3483,6 +3483,8 @@ _Generated on 2026-08-20 04:12:58 UTC_
     - [**🇵🇸_Palestine_Factchecking/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/)
       - [**⚖️_Law/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/⚖️_Law/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/⚖️_Law/README.md)
+      - [**🌍_Global_Powers/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/)
+        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/README.md)
       - [**🌾_Start_Here/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌾_Start_Here/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌾_Start_Here/README.md)
         - [`⚖️_factchecking_principles.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌾_Start_Here/⚖️_factchecking_principles.md)
@@ -3496,6 +3498,8 @@ _Generated on 2026-08-20 04:12:58 UTC_
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/📊_Statistics/README.md)
       - [**🧵_Identity_And_Language/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🧵_Identity_And_Language/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🧵_Identity_And_Language/README.md)
+      - [**🧿_Ethics/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🧿_Ethics/)
+        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🧿_Ethics/README.md)
       - [**🫒_History/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🫒_History/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🫒_History/README.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/README.md)
