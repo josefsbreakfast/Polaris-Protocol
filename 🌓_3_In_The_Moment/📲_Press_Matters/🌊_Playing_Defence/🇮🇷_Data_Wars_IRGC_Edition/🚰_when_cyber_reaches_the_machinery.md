@@ -1,5 +1,5 @@
 # 🚰 When Cyber Reaches The Machinery
-**First created:** 2026-08-01 | **Last updated:** 2026-08-20
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
 *The threshold changes when a cyber incident begins reaching the systems that monitor, control, or physically alter water, energy, fuel, transport, or other essential processes.*
 
 ---
@@ -1439,6 +1439,14 @@ It identifies and grades the threshold at which cyber activity moves from inform
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
 > - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating the Iran-facing OT wave from simultaneous criminal and administrative incidents*
 > - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *claim-level evidence, provenance, and source independence*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
