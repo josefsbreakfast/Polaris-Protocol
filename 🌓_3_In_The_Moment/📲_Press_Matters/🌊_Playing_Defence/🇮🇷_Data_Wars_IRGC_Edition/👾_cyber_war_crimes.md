@@ -1119,6 +1119,14 @@ It provides the basic legal-routing framework for assessing when wartime cyber a
 > - [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) — *source, confidence, limits, and review status*
 > - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *source provenance and claim support*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
