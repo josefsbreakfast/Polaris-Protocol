@@ -1,5 +1,5 @@
 # 📚 Sources And Evidence Register
-**First created:** 2026-08-16 | **Last updated:** 2026-08-19  
+**First created:** 2026-08-16 | **Last updated:** 2026-08-20  
 *A consolidated provenance register for the sources carried through the Data Wars: IRGC Edition pack, its working chat, and `notes_to_add.txt`.*
 
 ---
@@ -512,4 +512,4 @@ source provenance, evidence register, cyber attribution, critical infrastructure
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-19_
+_Last updated: 2026-08-20_
