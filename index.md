@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-20 04:01:23 UTC_
+_Generated on 2026-08-20 04:02:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3480,8 +3480,8 @@ _Generated on 2026-08-20 04:01:23 UTC_
         - [`🧿_the_british_d_notice_reflex.md`](🌓_3_In_The_Moment/📲_Press_Matters/.🌱_Still_Growing/⚓️_Under_The_Sea/🧿_the_british_d_notice_reflex.md)
         - [`🪖_morale_is_not_automatically_propaganda.md`](🌓_3_In_The_Moment/📲_Press_Matters/.🌱_Still_Growing/⚓️_Under_The_Sea/🪖_morale_is_not_automatically_propaganda.md)
       - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/.🌱_Still_Growing/notes.txt)
-    - [**🇵🇸_Palestine_Factchucking/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchucking/)
-      - [`notes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchucking/notes.md)
+    - [**🇵🇸_Palestine_Factchecking/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/)
+      - [`notes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/notes.md)
     - [**🌊_Playing_Defence/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/)
       - [**✈️_World_War_Epstein/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/README.md)
