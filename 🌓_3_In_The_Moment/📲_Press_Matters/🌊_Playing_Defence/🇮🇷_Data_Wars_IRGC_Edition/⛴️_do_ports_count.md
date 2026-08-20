@@ -770,6 +770,14 @@ Its purpose is to widen the sensor without lowering the evidentiary threshold.
 > - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *keeping logistics, criminal and Iran-linked waves analytically separate*
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *armed-conflict nexus, civilian objects and legal classification*
 > - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *the pack's source ledger and evidence-status record*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
