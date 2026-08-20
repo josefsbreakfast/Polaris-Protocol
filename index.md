@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-20 21:07:28 UTC_
+_Generated on 2026-08-20 21:18:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3505,6 +3505,7 @@ _Generated on 2026-08-20 21:07:28 UTC_
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🪿_Embodying_The_Information_Ecology/README.md)
       - [**🫒_History/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🫒_History/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🫒_History/README.md)
+        - [`❓_why_are_israel_and_palestine_fighting.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🫒_History/❓_why_are_israel_and_palestine_fighting.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/README.md)
       - [`notes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/notes.md)
     - [**🌊_Playing_Defence/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/)
