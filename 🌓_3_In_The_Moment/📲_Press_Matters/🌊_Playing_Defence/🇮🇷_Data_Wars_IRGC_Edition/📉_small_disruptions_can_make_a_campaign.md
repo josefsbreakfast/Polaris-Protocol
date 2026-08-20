@@ -1,5 +1,5 @@
 # 📉 Small Disruptions Can Make A Campaign
-**First created:** 2026-08-01 | **Last updated:** 2026-08-20
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
 *Strategic effect can emerge through accumulation, ambiguity, repeated friction, and distributed operational pressure rather than one spectacular collapse.*
 
 ---
@@ -1098,6 +1098,14 @@ It explains how repeated, limited, distributed, and deniable incidents can accum
 > - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *service continuity, exposed data, and person-centred recovery*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
 > - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating common effect, common mechanism, common operator, and common sponsorship*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
