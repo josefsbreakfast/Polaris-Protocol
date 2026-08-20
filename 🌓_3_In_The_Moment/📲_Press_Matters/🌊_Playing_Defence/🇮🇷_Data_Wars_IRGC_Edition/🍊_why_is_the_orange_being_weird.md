@@ -2051,6 +2051,14 @@ iran, cyber conflict, critical infrastructure, water, attribution, escalation ma
 > - [Small Disruptions Can Make a Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *distributed effects and cumulative coercion*
 > - [When Cyber Reaches the Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *distinguishing information-system compromise from physical-process effects*
 > - [Banks Are Part of the Battlespace](./🏦_banks_are_part_of_the_battlespace.md) — *financial infrastructure as strategic infrastructure*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
