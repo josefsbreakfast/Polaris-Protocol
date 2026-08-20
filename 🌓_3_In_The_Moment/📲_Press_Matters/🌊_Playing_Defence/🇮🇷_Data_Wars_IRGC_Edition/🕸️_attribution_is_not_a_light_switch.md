@@ -1,5 +1,5 @@
 # 🕸️ Attribution Is Not A Light Switch
-**First created:** 2026-08-01 | **Last updated:** 2026-08-20
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
 *Cyber attribution is usually graded, delayed, contested, politically managed, and legally consequential in different ways at different thresholds.*
 
 ---
@@ -1509,6 +1509,14 @@ It defines how this pack attaches confidence to specific claims while separating
 > - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *newsroom discipline under uncertainty*
 > - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *provenance chains, source function, and claim-level evidence logging*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
