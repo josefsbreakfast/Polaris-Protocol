@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-20 21:24:25 UTC_
+_Generated on 2026-08-20 21:25:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3507,6 +3507,7 @@ _Generated on 2026-08-20 21:24:25 UTC_
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🫒_History/README.md)
         - [`❓_can_you_explain_the_israel_palestine_conflict_simply.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🫒_History/❓_can_you_explain_the_israel_palestine_conflict_simply.md)
         - [`❓_why_are_israel_and_palestine_fighting.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🫒_History/❓_why_are_israel_and_palestine_fighting.md)
+        - [`❓_why_are_israel_and_palestine_fighting_REVISED.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🫒_History/❓_why_are_israel_and_palestine_fighting_REVISED.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/README.md)
       - [`notes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/notes.md)
     - [**🌊_Playing_Defence/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/)
