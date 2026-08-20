@@ -852,6 +852,14 @@ It maps how the Iran war may affect different American constituencies through es
 > - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *language for claims, confidence, competing explanations and corrections*
 > - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *separating access, operation, sponsorship and public attribution*
 > - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *the pack's source ledger and evidence-status record*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
