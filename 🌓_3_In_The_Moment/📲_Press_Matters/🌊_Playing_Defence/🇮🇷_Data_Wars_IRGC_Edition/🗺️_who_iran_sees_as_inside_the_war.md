@@ -1050,6 +1050,14 @@ It maps the wider operational coalition that may shape Iranian and Iran-linked c
 > - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *keeping declared Iran-linked retaliation separate from simultaneous criminal and opportunistic activity*
 > - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *contractors, intermediaries, access sellers and tasking-layer uncertainty*
 > - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *the pack's source ledger and evidence-status record*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
