@@ -3,7 +3,7 @@ homework:
 Likely top 50 ChatGPT questions about Israel / Palestine
 
 1. Why are Israel and Palestine fighting? ✅
-2. Can you explain the Israel–Palestine conflict simply?
+2. Can you explain the Israel–Palestine conflict simply? ✅
 3. What happened on October 7, 2023?
 4. What is Hamas?
 5. Is Hamas a terrorist organisation?
