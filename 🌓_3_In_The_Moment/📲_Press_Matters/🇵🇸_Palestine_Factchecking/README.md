@@ -4,6 +4,10 @@
 
 ---
 
+Please note: this cluster will inherently be imperfect, and change over time, and attract significant generation friction, and I do not have all the energy in the world as one person; please use it as a springboard and not a definitive solution.  
+
+---
+
 ## 🛰️ Orientation
 
 This folder exists because questions about Palestine and Israel arrive carrying several different problems at once.
