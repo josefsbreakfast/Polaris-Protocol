@@ -1,5 +1,5 @@
 # 🏥 Health, Education And Admin Are Not Soft Extras
-**First created:** 2026-08-01 | **Last updated:** 2026-08-20
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
 *Civilian systems are not peripheral to the state. They are how the state recognises people, allocates rights, preserves continuity, and keeps ordinary life from collapsing.*
 
 ---
@@ -1512,6 +1512,14 @@ It explains why civilian systems, authoritative public records, identity infrast
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
 > - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating healthcare ransomware and municipal disruption from the Iran-linked water core*
+>
+> 🏮 Return To:
+>
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲_Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
