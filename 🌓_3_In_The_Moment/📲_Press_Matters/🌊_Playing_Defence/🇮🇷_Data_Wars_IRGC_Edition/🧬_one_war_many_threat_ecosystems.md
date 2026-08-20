@@ -1,5 +1,5 @@
 # 🧬 One War, Many Threat Ecosystems
-**First created:** 2026-08-15 | **Last updated:** 2026-08-15  
+**First created:** 2026-08-15 | **Last updated:** 2026-08-20
 *How one wartime attack surface can contain state-linked operations, criminal campaigns, shared-vulnerability waves, copycats and unresolved incidents without one common command structure.*
 
 ---
@@ -72,6 +72,10 @@ It can include:
 ```text
 vulnerable systems
 +
+requirement generators
++
+commissioners
++
 initial-access actors
 +
 affiliates
@@ -79,6 +83,10 @@ affiliates
 brokers
 +
 customers
++
+payment or procurement routes
++
+end users and later beneficiaries
 +
 publicity
 +
@@ -102,13 +110,14 @@ after access changes hands.
 
 | Ecosystem | Present organising mechanism | Attribution position | Iran relationship | Critical limit |
 |---|---|---|---|---|
-| Minnesota / core water OT wave | repeated targeting of exposed operational technology; relevant prior actor history | 🟡 probable Iran-linked responsibility | strengthened by reported assessments and APT IRAN/CyberAv3ngers claim | no formal public attribution or public forensic validation of the claim |
+| Minnesota / core water OT wave | repeated targeting of exposed operational technology; relevant prior actor history | 🟡 probable Iran-linked responsibility | strengthened by reported assessments and APT IRAN/CyberAv3ngers claim | no formal public attribution or public forensic validation of the claim through 19 August |
 | Wider US water recurrence | shared target class, exposed PLCs and recurring operational effects | mixed; potentially several operators | incident-specific ⚪/🟠/🟡 | core-wave attribution cannot be inherited by every state or utility |
 | AnMed healthcare disruption | ransomware and extortion ecosystem | 🟡 probable The Gentlemen / criminal activity | ⚪ no evidence found | claimed data volume and categories remain unverified |
 | US local-government disruption | recurring exposure of unevenly defended municipal systems | heterogeneous or unresolved | ⚪ no evidence found for reviewed new incidents | recurrence does not establish one operator |
 | CEVA logistics incident | unattributed compromise of private warehouse systems | ⚪ open | ⚪ no evidence found | no port-control, OT or military-logistics compromise established |
 | Cl0p / Windchill / FlexPLM wave | probable exploitation of shared enterprise software for data extortion | 🟡 probable criminal mass-exploitation campaign | ⚪ no evidence found | strategically interesting victims do not prove strategic selection |
 | UNC6671 / BlackFile-related finance targeting | vishing, identity compromise and criminal extortion | 🟢 established criminal campaign pattern | ⚪ no public Iran evidence | not every named target was confirmed compromised; no systemic market outage |
+| French tax and financial-administration exposure | repeated compromise of sensitive government-held financial, tax and property data | mixed criminal and unresolved incidents; operator continuity not established | ⚪ no public Iran evidence | recurrence within one administrative environment does not prove one campaign or customer |
 
 The matrix shows why **pattern confidence** and **common-sponsor
 confidence** can move in different directions.
@@ -121,6 +130,9 @@ ONE COMMON OPERATOR:
 NOT ESTABLISHED
 
 ONE COMMON CUSTOMER:
+NOT ESTABLISHED
+
+ONE COMMON COMMISSIONER:
 NOT ESTABLISHED
 
 ONE COMMON STATE SPONSOR:
@@ -146,6 +158,7 @@ The relevant evidence includes:
   exploitation to an IRGC-affiliated advanced persistent threat;
 - a July 2026 government advisory on Iranian-affiliated exploitation of
   internet-connected PLCs;
+- a 19 August joint federal advisory confirming an active threat to Siemens S7 Series PLCs across water and other critical-infrastructure sectors, while not naming the operator of the recent local water incidents;
 - reported investigative and intelligence assessments favouring an
   Iranian explanation;
 - and a subsequent responsibility claim from APT IRAN and
@@ -171,7 +184,7 @@ The correct result is:
 MINNESOTA / CORE WAVE:
 🟡 PROBABLE IRAN-LINKED RESPONSIBILITY
 
-PRIOR CYBERAV3NGERS--IRGC RELATIONSHIP:
+PRIOR CYBERAV3NGERS–IRGC RELATIONSHIP:
 🟢 ESTABLISHED
 
 CURRENT ACTOR CLAIM:
@@ -181,8 +194,12 @@ CURRENT IRGC DIRECTION:
 NOT PUBLICLY ESTABLISHED BY THE CLAIM
 
 FORMAL PUBLIC FEDERAL ATTRIBUTION:
-NOT IDENTIFIED
+NOT IDENTIFIED THROUGH 19 AUGUST
 ```
+
+The 19 August advisory strengthens the active-threat and target-class findings.
+
+It does not, by itself, strengthen the proposition that a particular named actor conducted the Minnesota intrusions.
 
 Sources:
 
@@ -190,6 +207,8 @@ Sources:
 - [CISA and partners: prior IRGC-affiliated PLC exploitation](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
 - [CISA: 2026 Iranian-affiliated PLC exploitation advisory](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a)
 - [FBI: malicious actors targeting water-sector internet-facing PLCs](https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions)
+- [NSA, CISA, FBI, DOE and EPA: active threat to Siemens S7 Series PLCs](https://media.defense.gov/2026/Aug/18/2003983494/-1/-1/1/CSA_ACTIVE_THREAT_TO_SIEMENS_S7_SERIES_PLCS.PDF)
+- [Reuters: new PLC warning without formal Iran attribution for the recent local water incidents](https://www.reuters.com/world/us-warns-siemens-devices-can-be-hacked-amid-fears-iran-is-breaching-water-plants-2026-08-19/)
 - [Reuters: Trump rejects Iranian responsibility while investigation continues](https://www.reuters.com/world/us/trump-says-iran-not-blame-minnesota-cyber-attack-2026-07-31/)
 
 ---
@@ -457,8 +476,7 @@ Sources:
 The UNC6671 / BlackFile-related vishing and extortion activity targeted
 dozens of organisations, including important financial-sector bodies.
 
-The campaign used high-volume voice phishing, identity and single-sign-
-on compromise, cloud access and data theft for extortion.
+The campaign used high-volume voice phishing, identity and single-sign-on compromise, cloud access and data theft for extortion.
 
 The strongest current explanation is financially motivated cybercrime.
 
@@ -485,6 +503,53 @@ Sources:
 
 - [Google Threat Intelligence: BlackFile-related vishing and extortion](https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/)
 - [Reuters: major US financial firms among organisations targeted](https://www.reuters.com/world/hackers-targeted-us-private-equity-other-firms-including-blackstone-cme-data-2026-08-06/)
+
+---
+
+## 🇫🇷 Ecosystem Eight — French Tax And Financial-Administration Exposure
+
+France now has a distinct public-administration exposure cluster centred on government-held financial and taxpayer data.
+
+In February, the Finance Ministry disclosed illegitimate access to FICOBA, the national register of bank accounts. The attacker used credentials belonging to an authorised public official and accessed data relating to approximately 1.2 million accounts.
+
+In August, the ministry confirmed a separate intrusion into the Directorate General of Public Finances. The access occurred earlier in the summer and became public after data was advertised for sale by an actor using the name ZeroBytes. Subsequent government reporting placed the affected population at approximately 700,000 taxpayers and disclosed further compromised material still being assessed.
+
+This supports a French administrative-exposure ecosystem because the incidents concern:
+
+- sensitive data held by the state;
+- legitimate or stolen-identity access routes;
+- systems connecting public bodies and authorised users;
+- delayed detection or delayed public discovery;
+- and high downstream phishing, identity, financial, and coercion risk.
+
+It does not establish one operator across the incidents.
+
+The August sale behaviour provides a strong criminal explanation for that breach.
+
+It does not retrospectively attribute the February access or prove that every later disclosure belongs to the same campaign.
+
+```text
+REPEATED FRENCH FINANCIAL / TAX ADMINISTRATION EXPOSURE:
+🟢 ESTABLISHED
+
+AUGUST DGFiP DATA-THEFT AND SALE MOTIVE:
+🟡 PROBABLE CRIMINAL ACTIVITY
+
+COMMON OPERATOR ACROSS THE 2026 INCIDENTS:
+⚪ OPEN
+
+COMMON CUSTOMER OR COMMISSIONER:
+⚪ OPEN
+
+IRAN CONNECTION:
+⚪ NO PUBLIC EVIDENCE FOUND
+```
+
+Sources:
+
+- [French Economy and Finance Ministry: illegitimate access to FICOBA](https://presse.economie.gouv.fr/?p=171314)
+- [Reuters: French taxpayers’ data stolen in Finance Ministry cyberattack](https://www.reuters.com/legal/litigation/french-taxpayers-data-stolen-cyber-attack-french-finance-ministry-says-2026-08-14/)
+- [Reuters: French government response and further DGFiP breach disclosure](https://www.reuters.com/world/france-use-ai-tools-test-cybsecurity-vulnerabilities-after-tax-agency-hacking-2026-08-18/)
 
 ---
 
@@ -529,6 +594,50 @@ It is not a universal attribution label.
 
 ---
 
+## 🔗 Ecosystems Can Touch Without Becoming One
+
+Two ecosystems may interact at one layer while remaining separate at others.
+
+Possible touchpoints include:
+
+```text
+TECHNICAL
+→ shared product, vulnerability, hosting, tool, or access route
+
+LABOUR
+→ one operator, affiliate, contractor, or broker works across several networks
+
+MARKET
+→ access, credentials, data, tooling, or services change hands
+
+COMMISSIONING
+→ one customer or commissioner purchases outcomes from several providers
+
+TEMPORAL
+→ one wave creates publicity, defender overload, or opportunity for another
+
+NARRATIVE
+→ a persona claims, reframes, exaggerates, or amplifies an operation conducted elsewhere
+
+DOWNSTREAM USE
+→ a later actor exploits data or access obtained by someone else
+
+GOVERNANCE
+→ the same fragmented defensive seam exposes several institutions to different actors
+```
+
+A market link does not prove shared tasking.
+
+A shared commissioner does not prove a shared hands-on operator.
+
+A shared operator does not prove the same customer for every job.
+
+A later beneficiary does not inherit responsibility for the original intrusion without evidence of commissioning, direction, control, adoption, or another legally relevant connection.
+
+The record should therefore state the relationship that joins two incidents rather than declaring that the incidents “are linked” and leaving the verb undefined.
+
+---
+
 ## 🪜 When Separate Ecosystems May Legitimately Be Joined
 
 Separate waves should move towards a common campaign assessment where
@@ -539,7 +648,8 @@ credible evidence establishes one or more of the following:
 - hard-to-imitate tooling or artefacts;
 - operator overlap;
 - recovered tasking;
-- financial or communications links;
+- financial or communications links tied to a particular requirement, target, access, effect, or publication decision;
+- a common commissioner, procurement route, or end user;
 - access transfer between actors;
 - common victim-selection logic surviving denominator analysis;
 - coordinated timing around operational objectives;
@@ -559,6 +669,10 @@ COMMON CUSTOMER
 
 COMMON CUSTOMER
 ≠
+COMMON COMMISSIONER
+
+COMMON COMMISSIONER
+≠
 COMMON STATE DIRECTION
 ```
 
@@ -566,7 +680,7 @@ The arrow has to earn every step.
 
 ---
 
-## ⚠️ The Two Flattening Errors
+## ⚠️ Three Flattening Errors
 
 ### Everybody Works For Tehran
 
@@ -587,6 +701,30 @@ same Iranian command structure
 ```
 
 The missing evidence disappears inside the urgency.
+
+### Shared Technology Means Shared Command
+
+This error takes:
+
+```text
+same vulnerable product
++
+same access route
++
+similar effect
+```
+
+and produces:
+
+```text
+same operator
+→ same customer
+→ same campaign
+```
+
+Shared infrastructure may describe the attack surface more reliably than the attacker.
+
+The denominator has to be tested before the victim list is treated as strategic selection.
 
 ### Criminal Activity Means There Was No State Wave
 
@@ -617,6 +755,7 @@ CONFIRMED INCIDENTS:
 SUSPECTED RELATED INCIDENTS:
 
 ORGANISING MECHANISM:
+RELATIONSHIP TYPE:
 COMMON TECHNOLOGY:
 COMMON VULNERABILITY:
 COMMON PROVIDER:
@@ -626,7 +765,15 @@ REPEATED EFFECTS:
 COMMON OPERATOR CONFIDENCE:
 COMMON TASKING CONFIDENCE:
 COMMON CUSTOMER CONFIDENCE:
+COMMON COMMISSIONER CONFIDENCE:
+COMMON PAYER / PROCUREMENT ROUTE CONFIDENCE:
+COMMON END USER CONFIDENCE:
 COMMON SPONSOR CONFIDENCE:
+
+ACCESS TRANSFER EVIDENCE:
+PAYMENT OR PROCUREMENT EVIDENCE:
+PUBLICITY / AMPLIFICATION RELATIONSHIP:
+DOWNSTREAM USE:
 
 IRAN RELATIONSHIP:
 IRAN-WAR RELEVANCE:
@@ -652,7 +799,7 @@ a shared sponsor.
 
 ## 🧭 Current Assessment
 
-By 15 August 2026, the public record supports:
+By 20 August 2026, the public record supports:
 
 ```text
 ONE WIDENING WARTIME ATTACK SURFACE:
@@ -664,7 +811,18 @@ SEVERAL OVERLAPPING THREAT ECOSYSTEMS:
 IRAN-LINKED MINNESOTA / CORE WATER WAVE:
 🟡 PROBABLE
 
+ACTIVE MULTISECTOR PLC THREAT:
+🟢 ESTABLISHED BY JOINT FEDERAL WARNING;
+OPERATOR OF THE RECENT WATER INCIDENTS NOT NAMED BY THAT WARNING
+
+REPEATED FRENCH TAX / FINANCIAL-ADMINISTRATION EXPOSURE:
+🟢 ESTABLISHED;
+COMMON OPERATOR NOT ESTABLISHED
+
 COMMON IRANIAN SPONSORSHIP ACROSS ALL REVIEWED SECTORS:
+⚪ NOT ESTABLISHED
+
+COMMON CUSTOMER OR COMMISSIONER ACROSS ALL REVIEWED SECTORS:
 ⚪ NOT ESTABLISHED
 ```
 
@@ -682,23 +840,26 @@ The archive has to be capable of telling them apart.
 ---
 
 ## 🌌 Constellations
-🧬 🌊 🕸️ 🧿 🪆 🚰 🏛️ — threat ecosystems; overlapping waves; layered attribution; organising mechanisms; nested campaigns; operational technology; institutional exposure.
+🧬 🌊 🕸️ 🧿 🪆 🚰 🏛️ 💰 — threat ecosystems; overlapping waves; layered attribution; organising mechanisms; commissioning and access markets; nested campaigns; operational technology; institutional exposure.
 
 ## ✨ Stardust
-cyber conflict, threat ecosystems, iran war, irgc, operational technology, ransomware, shared vulnerabilities, access brokers, criminal extortion, local government, logistics, campaign attribution, organising mechanisms, common sponsorship
+cyber conflict, threat ecosystems, iran war, irgc, operational technology, ransomware, shared vulnerabilities, access brokers, criminal extortion, commissioner, customer, procurement route, downstream use, narrative amplification, local government, public administration, logistics, campaign attribution, organising mechanisms, common sponsorship, denominator analysis
 
 ---
 
 ## 🏮 Footer
 
-*🧬 One War, Many Threat Ecosystems* is a living node of the **Polaris Protocol**.  
-It distinguishes the shared wartime attack surface from the separate actor, access, incentive and vulnerability ecosystems operating within it, allowing cross-sector patterns to remain visible without converting them automatically into one campaign or sponsor.
+*🧬 One War, Many Threat Ecosystems* is a living node of the **Polaris Protocol**.
+It distinguishes the shared wartime attack surface from the separate actor, access, commissioning, incentive, publicity and vulnerability ecosystems operating within it, allowing cross-sector patterns and real points of contact to remain visible without converting them automatically into one campaign or sponsor.
 
 > 📡 Cross-references:
 >
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *root orientation and pack map*
 > - [🌊 Riding Every Wave](./🌊_riding_every_wave.md) — *causal, technical, strategic and organisational relationships between successive waves*
 > - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *graded attribution and the current Minnesota responsibility claim*
+> - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *commissioning, procurement, access transfer and layered operational roles*
 > - [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) — *confidence, provenance, organising mechanisms and campaign records*
+> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *claim-level evidence and provenance chains*
 > - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *publication language for mixed campaigns and actor claims*
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *incident and attribution chronology across the widening war*
 > - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *depth of operational-technology access and physical effect*
@@ -706,4 +867,4 @@ It distinguishes the shared wartime attack surface from the separate actor, acce
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-15_
+_Last updated: 2026-08-20_
