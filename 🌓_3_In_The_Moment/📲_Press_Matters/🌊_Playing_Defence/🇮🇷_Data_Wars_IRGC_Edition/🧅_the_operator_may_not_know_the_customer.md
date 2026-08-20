@@ -1,10 +1,10 @@
-# 🧅 The Operator May Not Know The Customer  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-16  
-*The person carrying out the task may know only the layer directly above them — and the damage may not be visible until the layers are peeled back.*  
+# 🧅 The Operator May Not Know The Customer
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20
+*The person carrying out the task may know only the layer directly above them — and the damage may not be visible until the layers are peeled back.*
 
 ---
 
-## 🛰️ Orientation  
+## 🛰️ Orientation
 
 Cyber operations are often described as though a state selects an operator, gives them a complete mission, and receives the result.
 
@@ -23,8 +23,9 @@ recruit
 → small task
 → criminal intermediary
 → access broker
-→ contractor or proxy
-→ state customer
+→ contractor
+→ commissioner or customer
+→ end user or beneficiary
 ```
 
 Each layer may see only the layer next to it.
@@ -75,9 +76,25 @@ The visible operator may therefore be real without being the whole explanation.
 
 The visible damage may also be real without being the whole consequence.
 
+There is a second warning hidden inside the title.
+
+The commissioner may not know the operator either.
+
+Someone may ask for an outcome, pay an intermediary, and deliberately avoid learning how the result will be produced.
+
+That can create genuine ignorance.
+
+It can also create a system in which ignorance is purchased as part of the service.
+
+The fact that a commissioner did not select the malware, meet the access broker, or anticipate every downstream effect does not prove that no commissioning relationship existed.
+
+Equally, the fact that someone paid does not prove that they controlled every operational decision.
+
+The pack must preserve both limits.
+
 ---
 
-## 🧅 Why The Onion Matters  
+## 🧅 Why The Onion Matters
 
 The onion is not just a metaphor for secrecy.
 
@@ -125,7 +142,7 @@ without pretending that every onion contains the same thing.
 
 ---
 
-## 🪜 Recruitment Can Begin Below The Threshold Of Alarm  
+## 🪜 Recruitment Can Begin Below The Threshold Of Alarm
 
 People are not always recruited into cyber operations by being asked to commit a spectacular attack.
 
@@ -166,7 +183,7 @@ It gives the recruit a moral explanation before they are given enough informatio
 
 ---
 
-## 🕳️ The Funnel Can Work Like Grooming  
+## 🕳️ The Funnel Can Work Like Grooming
 
 The recruitment funnel can resemble grooming because commitment is built in stages.
 
@@ -210,7 +227,7 @@ It needs enough compliance to complete the next task.
 
 ---
 
-## 🎭 Several Labels Can Be True At Once  
+## 🎭 Several Labels Can Be True At Once
 
 Public reporting often asks whether an actor is:
 
@@ -251,10 +268,14 @@ The useful questions are therefore not only:
 
 They are also:
 
+- Who generated the requirement?
+- Who commissioned the outcome?
 - Who selected the target?
 - Who supplied the access?
 - Who found the vulnerability?
 - Who paid?
+- What did the payment purchase?
+- Who controlled the procurement relationship?
 - Who sold the result?
 - Who handled the stolen material?
 - Who provided follow-on tasking?
@@ -262,6 +283,7 @@ They are also:
 - Who protected the operators?
 - Who benefited from the exposure?
 - Who used the information afterwards?
+- Who decided whether the operation should be concealed or publicised?
 - And who knew what at each stage?
 
 The customer may enter the chain late.
@@ -270,7 +292,7 @@ That still matters.
 
 ---
 
-## 🛒 Access Can Be Bought After The Breach  
+## 🛒 Access Can Be Bought After The Breach
 
 A state does not always need to commission the original intrusion.
 
@@ -330,7 +352,7 @@ They should be recorded separately.
 
 ---
 
-## 🚰 Access To Machinery Can Be Resold Too  
+## 🚰 Access To Machinery Can Be Resold Too
 
 The access-broker problem becomes more serious where the system is not merely informational.
 
@@ -390,7 +412,7 @@ It does complicate the attribution chain.
 
 ---
 
-## 🧠 Partial Knowledge Is A Feature  
+## 🧠 Partial Knowledge Is A Feature
 
 Compartmentalisation is not evidence that no wider strategy exists.
 
@@ -444,7 +466,7 @@ It tells us the onion has more layers.
 
 ---
 
-## 🔁 The Customer May Change  
+## 🔁 The Customer May Change
 
 One of the most important complications is that the final customer may not be present at the beginning.
 
@@ -499,7 +521,7 @@ where the evidence allows.
 
 ---
 
-## 🧍 The Target May Be A Person, Not Merely A System  
+## 🧍 The Target May Be A Person, Not Merely A System
 
 Traditional cyber defence often treats the institution as the primary victim.
 
@@ -551,7 +573,7 @@ The network can then outsource the rest to ordinary social cruelty.
 
 ---
 
-## 🧨 Domestic Participation Can Extend The Attack  
+## 🧨 Domestic Participation Can Extend The Attack
 
 Foreign information operations do not need to perform every stage themselves.
 
@@ -593,7 +615,7 @@ The cumulative harm becomes visible only when the layers are read together.
 
 ---
 
-## 🇮🇷 What This Means For Iran Analysis  
+## 🇮🇷 What This Means For Iran Analysis
 
 Iranian state and state-aligned activity has long been understood as capable of operating through overlapping:
 
@@ -652,7 +674,167 @@ The pack should keep those claims separate.
 
 ---
 
-## 🧬 The Layers Need Names Before They Can Be Tested  
+## 💰 The Commissioning Chain
+
+The visible intrusion is not necessarily where the operation began.
+
+A fuller commissioning chain may look like this:
+
+```text
+REQUIREMENT
+→ COMMISSIONER
+→ PAYER OR PROCUREMENT ROUTE
+→ INTERMEDIARY
+→ ACCESS BROKER OR OPERATOR
+→ EFFECT
+→ END USER OR LATER BENEFICIARY
+```
+
+Not every case contains every layer.
+
+But the distinctions matter because four different questions are often collapsed into one:
+
+```text
+intended outcome
+≠
+chosen method
+
+chosen method
+≠
+foreseeable ecosystem support
+
+foreseeable ecosystem support
+≠
+every downstream effect
+```
+
+A commissioner may ask for credentials, documents, disruption, access, or a public spectacle without selecting the exploit or knowing the hands-on operator.
+
+An operator may obtain access first and seek a buyer later.
+
+An intermediary may translate a political or intelligence requirement into a commercial task while shielding both ends from one another.
+
+The customer may therefore enter before the breach, during it, or after the access has already been obtained.
+
+That timing changes the claim:
+
+- commissioning before access may support prior tasking;
+- purchasing access after compromise supports acquisition, not necessarily original direction;
+- paying for a result may support a commercial relationship without proving operational control;
+- repeated purchasing from the same ecosystem may show sustained demand even where individual commands remain hidden.
+
+Ignorance can be genuine.
+
+It can also be an engineered feature of procurement.
+
+The analytical question is not only whether the commissioner knew the operator.
+
+It is also what the commissioner requested, paid for, could reasonably foresee, and did with the result.
+
+---
+
+## 🧬 Mabna Makes The Hybrid Model Concrete
+
+The Mabna Institute allegations provide a concrete Iranian example of state demand, commercial structure, and distributed labour occupying the same ecosystem.
+
+In August 2026, the U.S. Department of Justice charged 17 alleged members of Mabna Institute and described a historical cyber-theft campaign dating from 2013. The department alleged that Mabna personnel included employees, contractors, and hackers-for-hire, and that many intrusions were conducted for the IRGC as well as other Iranian government and university clients.
+[U.S. Department of Justice — *17 Iranians charged with conducting massive cyber theft campaign on behalf of the Islamic Revolutionary Guard Corps*](https://www.justice.gov/opa/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary)
+
+The new event here is the 2026 charging and attribution development.
+
+It is not evidence of a new attack in the present conflict, and it does not attribute any unresolved incident in this pack.
+
+Its analytical value is narrower and stronger:
+
+- one provider can serve several customers;
+- state requirements can move through a commercial organisation;
+- employees, contractors, and hackers-for-hire can coexist inside one campaign;
+- a customer relationship does not by itself show who selected every target or controlled every method;
+- and the same technical capability can acquire different legal and strategic meanings according to tasking, knowledge, control, and use.
+
+This is why “Iranian,” “IRGC-linked,” “contractor,” “criminal,” and “commercial” should not be treated as mutually exclusive labels.
+
+They answer different questions.
+
+---
+
+## 🕸️ Medusa Shows Why Complexity Is Not State Sponsorship
+
+The Medusa ransomware ecosystem is a useful criminal comparator.
+
+U.S. authorities describe a structure involving affiliates and initial-access brokers: different actors may obtain access, conduct intrusion activity, deploy ransomware, negotiate, or monetise the result.
+[CISA, FBI and HHS — *Medusa Ransomware*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a)
+
+That structure demonstrates the analytical problem without answering the Iran question.
+
+Multiple layers can obscure who did what.
+
+They do not, by themselves, prove a state customer.
+
+A brokered or affiliate model should therefore trigger role separation and financial inquiry, not an automatic geopolitical attribution.
+
+---
+
+## 📉 Delegation Can Externalise Risk
+
+Delegation can reduce the visible risk carried by a commissioner while increasing risk elsewhere.
+
+The commissioner may gain:
+
+- distance from the intrusion;
+- fewer direct technical signatures;
+- plausible uncertainty about personnel or method;
+- and a procurement record that describes an outcome rather than an offence.
+
+The ecosystem may absorb:
+
+- operator autonomy;
+- reusable capability;
+- data leakage;
+- secondary sales;
+- uncontrolled publicity;
+- harm to people outside the stated target;
+- and a longer chain of actors able to deny responsibility.
+
+The familiar defence is: that is not what I asked for.
+
+Sometimes that distinction is real.
+
+But a narrow instruction does not automatically erase foreseeable support for the market that makes the wider conduct possible.
+
+Nor does it resolve what happened after access, data, or capability was delivered.
+
+Financial evidence matters here because it can reveal demand even when operational messages are unavailable:
+
+- who paid;
+- through which entity or intermediary;
+- for access, data, disruption, or publicity;
+- before or after the compromise;
+- on a one-off or recurring basis;
+- and whether the payment was tied to a particular target, sector, geography, or outcome.
+
+Money can establish relationship, timing, and demand.
+
+It does not automatically establish command.
+
+---
+
+## 🧪 Comparative Mechanism — I-Soon
+
+The leaked I-Soon material is a Chinese, non-Iranian comparator.
+
+Reporting on the leak described a commercial hacking contractor seeking and performing work for Chinese government customers, while navigating procurement, competition, internal incentives, and the resale value of access and data.
+[Associated Press — *A Chinese firm hacked foreign governments and companies, leaked documents show*](https://apnews.com/article/6276e8662ddf6f2c1afbae994d8b3aa2)
+
+The comparison is about mechanism, not attribution.
+
+It shows how government demand can coexist with commercial pressure, contractor initiative, uncertain task boundaries, and capability offered across more than one opportunity.
+
+It does not show that Iranian structures are identical, or that any incident in this pack used the same model.
+
+---
+
+## 🧬 The Layers Need Names Before They Can Be Tested
 
 “Operator” and “customer” are not enough on their own.
 
@@ -661,6 +843,15 @@ A live incident may contain several distinguishable roles:
 ```text
 INITIAL-ACCESS ACTOR
 → first obtains credentials, exposure or foothold
+
+REQUIREMENT GENERATOR / TASK ORIGINATOR
+→ identifies the information, access, effect or target of interest
+
+COMMISSIONER
+→ turns the requirement into a request, purchase or authorised task
+
+PAYER / PROCUREMENT ROUTE
+→ funds or administratively enables the work, directly or through an intermediary
 
 ACCESS BROKER
 → packages, advertises, transfers or sells access
@@ -683,8 +874,17 @@ TARGET SELECTOR
 CUSTOMER / TASKER
 → requests, purchases or directs the result
 
+OPERATIONAL CONTROLLER
+→ selects or controls the method, timing, scope or conduct of the operation
+
+END USER
+→ receives, exploits or acts on the access, data or effect
+
 BENEFICIARY
 → gains strategic, political, intelligence or financial value
+
+PUBLICITY SELECTOR
+→ decides whether, when and how the operation is claimed or publicised
 
 AMPLIFIER
 → spreads the material or threat after compromise
@@ -702,12 +902,12 @@ It prevents one visible name from being assigned every invisible function.
 
 ---
 
-## 🇮🇷 APT IRAN And CyberAv3ngers — What The Claim Changes  
+## 🇮🇷 APT IRAN And CyberAv3ngers — What The Claim Changes
 
 On 12 August 2026, APT IRAN reportedly stated that the Minnesota water attacks
 were conducted with CyberAv3ngers and that the groups took direct
 responsibility. KSTP reported the Telegram statement through Threat Beat at
-Auburn University's McCrary Institute.  
+Auburn University's McCrary Institute.
 [KSTP — *Iran-linked group claims responsibility for Minnesota water
 attacks*](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
 
@@ -718,11 +918,11 @@ It does not make every layer identical.
 
 The U.S. government separately identifies CyberAv3ngers as affiliated with the
 IRGC Cyber-Electronic Command and links named IRGC-CEC officials to malicious
-activity against industrial-control and critical-infrastructure systems.  
+activity against industrial-control and critical-infrastructure systems.
 [CISA — *IRGC-Affiliated Cyber Actors Exploit PLCs in Multiple
-Sectors*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)  
+Sectors*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
 [U.S. Treasury — *Sanctions actors responsible for malicious cyber activities
-on critical infrastructure*](https://home.treasury.gov/news/press-releases/jy2072)  
+on critical infrastructure*](https://home.treasury.gov/news/press-releases/jy2072)
 [Rewards for Justice — *CyberAv3ngers*](https://rewardsforjustice.net/rewards/cyberav3ngers/)
 
 That historical affiliation evidence is strong.
@@ -781,7 +981,7 @@ therefore did not know
 
 ---
 
-## 🛒 Access Brokerage Is An Observed Market, Not A Decorative Hypothesis  
+## 🛒 Access Brokerage Is An Observed Market, Not A Decorative Hypothesis
 
 The layered model does not depend on proving that an access broker participated
 in the Minnesota incidents.
@@ -793,10 +993,10 @@ CISA describes intrusion brokers selling access to compromised systems to
 other cybercriminals. Its remote-access guidance likewise warns that initial
 access brokers may sell network access created through remote-management
 software. The FBI has described Genesis Market as a prolific initial-access
-broker that made stolen credentials searchable and usable by later criminals.  
-[CISA — *Karakurt Data Extortion Group*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-152a)  
+broker that made stolen credentials searchable and usable by later criminals.
+[CISA — *Karakurt Data Extortion Group*](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-152a)
 [CISA, NSA and partners — *Guide to Securing Remote Access
-Software*](https://www.cisa.gov/sites/default/files/2023-06/guide_to_securing_remote_access_software_final_508c_v3.pdf)  
+Software*](https://www.cisa.gov/sites/default/files/2023-06/guide_to_securing_remote_access_software_final_508c_v3.pdf)
 [U.S. Department of Justice — FBI testimony on Genesis Market and the
 cybercrime service ecosystem](https://www.justice.gov/ola/media/1379826/dl?inline=)
 
@@ -814,7 +1014,7 @@ Their participation in a particular incident must still be proved.
 
 ---
 
-## 🧬 Cl0p Shows Why Shared Victims Do Not Prove Shared Strategic Selection  
+## 🧬 Cl0p Shows Why Shared Victims Do Not Prove Shared Strategic Selection
 
 The August Cl0p claims provide a useful comparator.
 
@@ -822,7 +1022,7 @@ Cl0p named nearly fifty companies across energy, health technology, industrial
 engineering and finance. Reuters reported that the group typically exploits
 widely deployed software at scale for data extortion rather than necessarily
 selecting every company for its individual strategic identity. The claimed
-theft volumes were not independently verified.  
+theft volumes were not independently verified.
 [Reuters — *Hacking group claims mass data theft from Shell, Philips, GE,
 Fiserv and dozens of others*](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
 
@@ -856,7 +1056,7 @@ That later-use hypothesis requires later-use evidence.
 
 ---
 
-## ⚖️ Layered Tasking Complicates Legal Responsibility  
+## ⚖️ Layered Tasking Complicates Legal Responsibility
 
 The onion also matters legally.
 
@@ -914,7 +1114,7 @@ The technically visible operator may be only the outer skin.
 
 ---
 
-## 🕸️ Attribution Should Record The Layer Being Attributed  
+## 🕸️ Attribution Should Record The Layer Being Attributed
 
 The pack should avoid writing simply:
 
@@ -927,6 +1127,9 @@ where the evidence actually supports something narrower.
 A better model is:
 
 ```text
+REQUIREMENT GENERATOR:
+COMMISSIONER:
+PAYER / PROCUREMENT ROUTE:
 INITIAL-ACCESS ACTOR:
 ACCESS BROKER:
 OPERATOR:
@@ -936,7 +1139,10 @@ INTERMEDIARY:
 ACCESS SOURCE:
 TARGET SELECTOR:
 CUSTOMER:
+OPERATIONAL CONTROLLER:
+END USER:
 BENEFICIARY:
+PUBLICITY SELECTOR:
 AMPLIFIER:
 STATE LINK:
 STATE DIRECTION:
@@ -976,11 +1182,12 @@ That structure prevents the strongest hypothesis from silently replacing the evi
 
 ---
 
-## 🔎 What Evidence Would Help  
+## 🔎 What Evidence Would Help
 
 Confidence increases where investigators can identify:
 
 - payment flows;
+- procurement records or commercial cover;
 - communications between layers;
 - repeated intermediaries;
 - shared hosting or infrastructure;
@@ -991,6 +1198,9 @@ Confidence increases where investigators can identify:
 - common operational timing;
 - repeated resale patterns;
 - follow-on access by known operators;
+- evidence that the commission preceded or followed the compromise;
+- instructions describing an outcome while leaving the method open;
+- records showing who controlled scope, timing, method, or publication;
 - or later use of stolen material by identifiable state or proxy actors.
 
 Useful questions include:
@@ -1001,12 +1211,21 @@ WHO DISCOVERED THE VULNERABILITY?
 WHO KEPT PERSISTENCE?
 WHO SOLD OR SHARED IT?
 WHO RECEIVED IT?
+WHO GENERATED THE REQUIREMENT?
+WHO COMMISSIONED THE OUTCOME?
 WHO PAID?
+THROUGH WHICH ENTITY OR INTERMEDIARY?
+WHAT DID THE PAYMENT PURCHASE?
+WAS THE COMMISSION BEFORE OR AFTER ACCESS?
+WERE THERE SEVERAL CUSTOMERS OR END USERS?
 WHO SELECTED THE TARGET?
+WHO CONTROLLED METHOD, TIMING AND SCOPE?
 WHO PROVIDED FOLLOW-ON TASKING?
+WHO DECIDED WHETHER TO CONCEAL OR PUBLICISE?
 WHO PUBLISHED IT?
 WHO AMPLIFIED IT?
 WHO USED IT AGAINST THE TARGET?
+WHO REUSED OR RESOLD THE ACCESS OR DATA?
 WHO CHANGED THE PHYSICAL PROCESS?
 WHO BENEFITED?
 ```
@@ -1028,7 +1247,7 @@ WHAT REMAINS UNKNOWN:
 
 ---
 
-## 🧪 What Would Show The Onion Is Deeper Than It First Appeared  
+## 🧪 What Would Show The Onion Is Deeper Than It First Appeared
 
 A later development deserves special attention where it reveals that an apparently isolated incident had additional layers.
 
@@ -1059,7 +1278,7 @@ because the new evidence may alter the understood architecture of the operation 
 
 ---
 
-## ⚠️ What This Node Does Not Claim  
+## ⚠️ What This Node Does Not Claim
 
 This node does not claim that:
 
@@ -1070,6 +1289,11 @@ This node does not claim that:
 - every domestic act of harassment is coordinated;
 - every operational-technology breach is intended for wartime use;
 - every decentralised network has one hidden commander;
+- every commissioner controls the method;
+- every payer knows every downstream offence;
+- a financial link alone proves direction or operational control;
+- intermediaries or layered procurement prove state sponsorship;
+- lack of intent for every downstream effect eliminates foreseeable support for the capability market;
 - or every onion, once peeled, reveals the IRGC at the centre.
 
 It argues for a wider evidentiary frame.
@@ -1084,11 +1308,13 @@ The task is to peel carefully.
 
 ---
 
-## 🧭 Working Rule  
+## 🧭 Working Rule
 
 The practical rule for this pack is:
 
 > Record the operator, intermediary, access source, buyer, beneficiary, later user, and state link separately wherever the evidence allows.
+
+Where the record supports it, also name the requirement generator, commissioner, payer or procurement route, target selector, operational controller, end user, and publicity selector.
 
 Do not collapse them into one actor.
 
@@ -1102,20 +1328,20 @@ That is how the onion becomes visible.
 
 ---
 
-## 🌌 Constellations  
+## 🌌 Constellations
 
-🧅 🕸️ 🎭 🚰 ⚖️ — layered tasking; attribution; proxy overlap; operational access; legal responsibility; person-centred harm.
+🧅 🕸️ 🎭 💰 🚰 ⚖️ — layered tasking; commissioning; procurement; attribution; proxy overlap; operational access; legal responsibility; person-centred harm.
 
-## ✨ Stardust  
+## ✨ Stardust
 
-operator, customer, access broker, proxy, cybercrime, compartmentalisation, state tasking, access resale, layered attribution, state responsibility
+operator, customer, commissioner, requirement generator, procurement, payer, access broker, proxy, cybercrime, compartmentalisation, state tasking, access resale, capability market, risk externalisation, layered attribution, state responsibility
 
 ---
 
-## 🏮 Footer  
+## 🏮 Footer
 
-*🧅 The Operator May Not Know The Customer* is a living node of the **Polaris Protocol**.  
-It maps the layered labour, recruitment, access, acquisition, resale, exploitation, and responsibility chains through which a cyber operation may serve a customer invisible to the person carrying out the first task.
+*🧅 The Operator May Not Know The Customer* is a living node of the **Polaris Protocol**.
+It maps the layered labour, commissioning, procurement, recruitment, access, acquisition, resale, exploitation, and responsibility chains through which an operator and customer may remain invisible to one another while still contributing to the same result.
 
 > 📡 Cross-references:
 >
@@ -1128,7 +1354,9 @@ It maps the layered labour, recruitment, access, acquisition, resale, exploitati
 > - [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) — *fragmented response as adversary-facing weakness*
 > - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *distinguishing shared access mechanisms, operators, customers and strategic campaigns*
 > - [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) — *recording provenance and confidence at the layer actually evidenced*
+> - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *language that preserves the difference between access, operation, direction and benefit*
+> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *source provenance and claim-level evidence logging*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-20_
