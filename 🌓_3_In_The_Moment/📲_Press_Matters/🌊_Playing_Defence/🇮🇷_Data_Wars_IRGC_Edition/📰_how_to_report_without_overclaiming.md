@@ -1,5 +1,5 @@
 # 📰 How To Report Without Overclaiming  
-**First created:** 2026-08-01 | **Last updated:** 2026-08-19  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
 *Preserve the event, the source, the evidentiary layer, the confidence, the limit, the rival explanation, and what would change the assessment.*  
 
 ---
@@ -2196,4 +2196,4 @@ It provides a newsroom and research method for reporting essential-infrastructur
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-19_
+_Last updated: 2026-08-20_
