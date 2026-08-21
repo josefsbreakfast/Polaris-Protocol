@@ -1,6 +1,6 @@
 # 🇮🇷 Guys, You Are In A War. Remember?
 **First created:** 2026-08-21 | **Last updated:** 2026-08-21  
-*Why security posture has to reflect the threat environment you are actually operating in — without turning the existence of a vulnerability into an attribution claim.*
+*Why security posture has to reflect the threat environment you are actually operating in — including multiple capable foreign intelligence collectors — without turning vulnerability into attribution.*
 
 ---
 
@@ -23,6 +23,20 @@ And somewhere outside the frame sits the rather important question:
 > **Guys. You are in a war. Remember?**
 
 Or, more precisely: you are operating in an environment of acute interstate confrontation in which hostile intelligence collection and cyber activity should already form part of the defensive threat model.
+
+And Iran is not the only state with an intelligence service.
+
+Russia exists.
+
+China exists.
+
+Other capable state and non-state collectors exist.
+
+Their interests do not have to be identical. Their intelligence requirements do not have to be coordinated. Their operations do not have to form one giant conspiracy.
+
+They merely have to find the United States interesting.
+
+This is not an especially demanding hypothetical.
 
 That changes how security weaknesses should be evaluated.
 
@@ -118,6 +132,108 @@ The entire purpose of defensive security is to make exploitation difficult **bef
 
 ---
 
+## 🌏 Iran Is Not The Entire Threat Model
+
+The title says Iran because this node emerges from a particular current conflict and connects directly into the wider Iran Data Wars cluster.
+
+The security principle is broader.
+
+The United States operates in an intelligence environment containing multiple sophisticated foreign collectors.
+
+China has intelligence requirements concerning American political, military, technological and strategic decision-making.
+
+Russia has intelligence requirements concerning American political, military, technological and strategic decision-making.
+
+Iran has intelligence requirements concerning American political, military, technological and strategic decision-making.
+
+Those requirements can overlap.
+
+That does not mean the states are operating one unified intelligence programme.
+
+```text
+overlapping strategic interests
+        ≠
+shared collection operation
+```
+
+Nor does the existence of several plausible collectors allow an analyst to simply select whichever one makes the best story.
+
+The point is much more basic.
+
+If you identify a potentially serious security weakness near senior US decision-making, your threat model cannot consist solely of:
+
+```text
+WHO AT THE WHITE HOUSE
+TOLD THE NEWSPAPER?
+```
+
+That may be one investigative question.
+
+It is not the entire counterintelligence question.
+
+---
+
+## ☎️ Please Notice The Foreign Intelligence Services
+
+This is where the framing becomes faintly absurd.
+
+Imagine an institution discovers that sensitive information may have escaped.
+
+Its analytical model becomes:
+
+```text
+sensitive information
+        ↓
+American insider
+        ↓
+American journalist
+        ↓
+publication
+```
+
+Meanwhile the actual information environment contains capable foreign intelligence services whose literal professional purpose includes obtaining information that governments would prefer them not to have.
+
+Metaphorically:
+
+```text
+IRAN     RUSSIA     CHINA
+
+        HELLO?
+
+WE ALSO COLLECT INTELLIGENCE.
+
+CAN YOU PLEASE FUCKING NOTICE US SENPAI.
+```
+
+This is not an argument that any of them obtained the information.
+
+It is an argument that **counterintelligence cannot disappear from the threat model merely because a domestic leak investigation provides a more familiar narrative.**
+
+The two questions are different:
+
+```text
+DOMESTIC LEAK QUESTION
+
+Did an authorised person deliberately disclose
+information to an unauthorised recipient?
+```
+
+versus:
+
+```text
+COUNTERINTELLIGENCE QUESTION
+
+Could an unauthorised actor have obtained,
+observed, intercepted, reconstructed or otherwise
+acquired useful information from this environment?
+```
+
+An investigation may need to ask both.
+
+Answering the first does not automatically answer the second.
+
+---
+
 ## 🧿 Threat Modelling Is Not Attribution
 
 This distinction needs to be nailed to the wall.
@@ -190,7 +306,7 @@ These are not interchangeable.
 
 Evidence supporting one rung does not automatically establish the next.
 
-A state possessing sophisticated cyber capability does not prove that it conducted a particular intrusion.
+A state possessing sophisticated cyber or intelligence capability does not prove that it conducted a particular operation.
 
 A person representing a potentially vulnerable access route does not prove that route was exploited.
 
@@ -409,7 +525,9 @@ This node sits beside the Iran Data Wars material for a reason.
 
 Iranian state-linked cyber and intelligence capabilities, strategic objectives and targeting behaviour are relevant to assessing the threat environment surrounding US national-security infrastructure during acute confrontation.
 
-That does **not** license filling evidential gaps with Iran.
+So are other relevant foreign-intelligence threats.
+
+That does **not** license filling evidential gaps with Iran, Russia, China, or anybody else.
 
 The correct analytical structure is:
 
@@ -430,7 +548,7 @@ known threat environment
         ↓
 something weird happened
         ↓
-IRAN
+IRAN / RUSSIA / CHINA
 ```
 
 Please do not do the second one.
@@ -448,8 +566,9 @@ When a security irregularity occurs during a period of acute interstate confront
 Useful questions include:
 
 - What foreign-intelligence threat assessments applied to this institution at the relevant time?
-- Had the assessed threat level changed because of military or political developments?
-- What information would foreign intelligence services plausibly have wanted?
+- Had the assessed threat environment changed because of military or political developments?
+- Which foreign actors had plausible collection requirements against the relevant institution or decision-making environment?
+- What information would those actors plausibly have wanted?
 - Which people, systems and relationships could expose that information?
 - Were normal personnel-security requirements completed?
 - If not, what compensating controls existed?
@@ -457,6 +576,7 @@ Useful questions include:
 - Was access limited according to need-to-know?
 - Were technical compromise and credential compromise investigated?
 - Was the possibility of aggregation or inferential disclosure considered?
+- Did investigators examine possible unauthorised acquisition as well as deliberate domestic disclosure?
 - What evidence, if any, exists of actual exploitation?
 - What evidence supports attribution to any particular actor?
 - Which claims are established facts, which are assessments, and which remain hypotheses?
@@ -473,13 +593,19 @@ This is ultimately not a complicated proposition.
 
 If you are operating during an acute confrontation with a capable foreign state, you should expect that state to have intelligence requirements.
 
+If you are the United States, you should also remember that **more than one foreign intelligence service is interested in you at any given time**.
+
 You should expect collection attempts.
 
 You should expect cyber activity.
 
+You should expect human intelligence activity.
+
 You should expect information to be assembled from multiple sources.
 
 You should expect people and devices close to senior decision-making to be interesting targets.
+
+You should expect different collectors to pursue overlapping information for entirely different reasons.
 
 None of that tells you who conducted a particular operation.
 
@@ -489,7 +615,21 @@ None of it establishes that any particular person has done anything wrong.
 
 It simply changes the standard against which your defensive posture should be judged.
 
-Because the correct time to remember that adversaries collect intelligence is preferably **before** discovering an unexplained information-security problem.
+Because the correct time to remember that foreign intelligence services exist is preferably **before** discovering an unexplained information-security problem.
+
+Iran.
+
+Russia.
+
+China.
+
+Potentially others.
+
+They do not need to be coordinating.
+
+They do not need to be responsible for the incident you are investigating.
+
+They merely need to be included in the threat model appropriate to the evidence and circumstances.
 
 Guys.
 
@@ -499,25 +639,27 @@ Guys.
 
 ## 🌌 Constellations
 
-🇮🇷 🌊 🕸️ 📱 🧿 — wartime threat modelling; foreign intelligence collection; cyber exposure; personnel security; attribution discipline.
+🇮🇷 🌊 🕸️ 📱 🧿 — wartime threat modelling; foreign intelligence collection; counterintelligence; cyber exposure; attribution discipline.
 
 ## ✨ Stardust
 
-information security, threat modelling, iran, foreign intelligence, cyber operations, personnel security, attack surface, aggregation risk, attribution, wartime security
+information security, threat modelling, iran, russia, china, foreign intelligence, counterintelligence, cyber operations, attack surface, attribution
 
 ---
 
 ## 🏮 Footer
 
 *🇮🇷 Guys, You Are In A War. Remember?* is a living node of the **Polaris Protocol**.  
-It situates personnel and information-security failures within the external threat environment in which they occur, while preserving the evidential boundary between identifying a vulnerability, assessing a plausible threat and attributing actual exploitation.
+It situates personnel and information-security failures within the external threat environment in which they occur, including the existence of multiple capable foreign intelligence collectors, while preserving the evidential boundary between identifying a vulnerability, assessing a plausible threat and attributing actual exploitation.
 
 > 📡 Cross-references:
 >
 > - [☎️ The Call Is Coming From Inside The House](./☎️_the_call_is_coming_from_inside_the_house.md) — *distinguishing deliberate leaks from wider information-exposure pathways*
+> - [🪪 Clearance Is Not A Lanyard](./🪪_clearance_is_not_a_lanyard.md) — *personnel assurance, vetting and access-control distinctions*
 > - [📱 The Phone Is Part Of The Security Boundary](./📱_the_phone_is_part_of_the_security_boundary.md) — *devices, accounts and communications as security surfaces*
 > - [🧩 A Plus B Plus C Equals Classified](./🧩_a_plus_b_plus_c_equals_classified.md) — *aggregation and inferential disclosure*
 > - [🕸️ You Do Not Need A Leaker](./🕸️_you_do_not_need_a_leaker.md) — *information compromise without deliberate disclosure*
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting questions that distinguish threat assessment from attribution*
 > - [🇮🇷 Data Wars — IRGC Edition](../🇮🇷_Data_Wars_IRGC_Edition/) — *wider Iran conflict, cyber-threat and essential-infrastructure analysis*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
