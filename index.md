@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-21 00:51:48 UTC_
+_Generated on 2026-08-21 00:58:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3554,6 +3554,18 @@ _Generated on 2026-08-21 00:51:48 UTC_
         - [`🧭_what_this_pack_is_tracking.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧭_what_this_pack_is_tracking.md)
       - [**🏛️_White_House_Snitches/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/notes.txt)
+        - [`☎️_the_call_is_coming_from_inside_the_house.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/☎️_the_call_is_coming_from_inside_the_house.md)
+        - [`🇮🇷_guys_you_are_in_a_war_remember.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🇮🇷_guys_you_are_in_a_war_remember.md)
+        - [`🍯_honeypots_are_not_magic.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🍯_honeypots_are_not_magic.md)
+        - [`👀_access_is_more_than_opening_the_document.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/👀_access_is_more_than_opening_the_document.md)
+        - [`📞_metadata_can_tell_the_story.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/📞_metadata_can_tell_the_story.md)
+        - [`📱_the_phone_is_part_of_the_security_boundary.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/📱_the_phone_is_part_of_the_security_boundary.md)
+        - [`🕸️_you_do_not_need_a_leaker.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🕸️_you_do_not_need_a_leaker.md)
+        - [`🥸_insider_threat_does_not_mean_spy.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🥸_insider_threat_does_not_mean_spy.md)
+        - [`🦠_porosity_is_a_security_failure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🦠_porosity_is_a_security_failure.md)
+        - [`🧅_compartmentation_exists_for_a_reason.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🧅_compartmentation_exists_for_a_reason.md)
+        - [`🧩_a_plus_b_plus_c_equals_classified.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🧩_a_plus_b_plus_c_equals_classified.md)
+        - [`🪪_clearance_is_not_a_lanyard.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🪪_clearance_is_not_a_lanyard.md)
       - [**🏝️_Chagos_Complexities/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/notes.txt)
         - [`🌊_neighbours_to_indian_ocean.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/🌊_neighbours_to_indian_ocean.md)
