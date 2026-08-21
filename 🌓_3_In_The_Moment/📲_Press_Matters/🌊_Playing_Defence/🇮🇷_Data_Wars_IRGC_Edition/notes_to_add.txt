@@ -1,3 +1,37 @@
+20260821:  
+
+There is one credible new development worth flagging: the U.S. government has escalated its assessment of the industrial-control threat from a run of water-system compromises to an active, broader capability-development and pre-positioning campaign across multiple critical-infrastructure sectors.
+
+United States — water, energy, critical manufacturing, chemical/food infrastructure, with Defence Industrial Base exposure. On 19 August 2026, NSA, CISA, FBI, DOE and EPA jointly warned of an active threat targeting Siemens S7-series PLCs. The agencies say actors are scanning U.S. installations, exploiting weakly protected or internet-facing controllers, and using AI-assisted scripts built around publicly available industrial-automation libraries. Crucially, the advisory says observed read/write activity may serve reconnaissance, capability testing or pre-positioning for later effects, and assesses the pattern as likely intended to prepare the ability to cause operational disruption.  
+
+Operational impact: no new Siemens-linked major outage is publicly confirmed in the advisory itself. That distinction matters. The immediate development is capability preparation rather than a newly disclosed spectacular effect. But successful exploitation could manipulate processes, cause downtime or equipment damage, affect safety systems and produce cascading effects. The government explicitly identifies energy and water/wastewater among the most-targeted sectors and notes that the same PLC family also appears in the Defence Industrial Base.  
+
+Attribution confidence: moderate for Iranian relevance, low for attributing this specific Siemens activity directly to Iran. The 19 August advisory deliberately calls the actors simply “threat actors”; it does not attribute them to Iran. Reuters places it in the context of the suspected Iranian water campaign, while federal officials still have not formally attributed the late-July/August water attacks. Earlier U.S. guidance has, however, explicitly identified Iranian-affiliated actors exploiting PLCs across U.S. critical infrastructure, and historic IRGC-affiliated CyberAv3ngers operations show a strong precedent for opportunistically attacking exposed industrial controllers.  
+
+The competing explanation therefore remains substantial: this could include Iranian state or affiliated operators, pro-Iran hacktivists, criminals copying available tradecraft, or multiple populations simultaneously exploiting the same badly exposed hardware. The new advisory actually makes that ambiguity more important because AI-assisted tooling and public libraries materially lower the skill threshold. A technique becoming easier to reproduce makes technical resemblance less probative of sponsorship, not more.  
+
+What changes the trend since 28 February 2026 is the shape of the activity. The sequence has moved from wartime warnings and Iranian-linked disruption in several infrastructure sectors, through the 27 July onward water wave—where FBI/EPA initially documented incidents in at least seven states, including loss of monitoring/control and degraded water operations—to a 19 August assessment explicitly describing persistent reconnaissance, model-specific capability refinement, adaptation to defensive measures and preparation for future write operations.  
+
+That makes this more interesting than merely “another vulnerable PLC.” The pattern increasingly resembles:
+
+find exposed industrial machinery → learn the installed environment → automate/refine exploitation → retain or test read/write capability → preserve the option to create effects later.
+
+That is highly compatible with Iranian wartime incentives—particularly learning U.S. thresholds and preserving distributed coercive options against a conventionally stronger adversary—but it is not uniquely Iranian behaviour and does not establish attribution.
+
+The other thing I would mark in the timeline is the vendor shift. On 30 July, FBI/EPA said their observed disruptive water incidents involved specific Rockwell/Allen-Bradley PLCs. The 19 August warning centres on Siemens S7, while explicitly saying the ongoing PLC targeting is broader than Siemens. That weakens any interpretation of the July wave as one quirky exploit against one device family and strengthens the interpretation of a generalised search for exposed OT across the American infrastructure estate.  
+
+I did not find a comparably well-supported new development in healthcare, education, telecoms, transport, government administration or systemically important banking in the latest reporting that meets the threshold for this watch. Recent ransomware and healthcare warnings exist, but at present they look like the continuing criminal background rather than evidence of a meaningful Iran-war-related pattern shift.
+
+https://www.fbi.gov/investigate/cyber/alerts/2026/defending-against-an-active-threat-to-siemens-s7-series-plcs
+
+https://www.reuters.com/world/us-warns-siemens-devices-can-be-hacked-amid-fears-iran-is-breaching-water-plants-2026-08-19/
+
+
+
+
+
+---  
+
 gap analysis after updates:  
 
 Yes — a short finishing pass remains. The obvious gaps are:
