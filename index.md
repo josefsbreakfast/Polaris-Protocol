@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-21 15:15:18 UTC_
+_Generated on 2026-08-21 15:19:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -194,6 +194,7 @@ _Generated on 2026-08-21 15:15:18 UTC_
     - [`🍳_why_josefs_breakfast.md`](🌑_1_Origin_Points/🍌_Why_Kafka/🍳_why_josefs_breakfast.md)
     - [`🏢_when_the_court_is_hidden_in_the_apartment_block.md`](🌑_1_Origin_Points/🍌_Why_Kafka/🏢_when_the_court_is_hidden_in_the_apartment_block.md)
     - [`🗄️_when_the_offices_show_the_system_violence.md`](🌑_1_Origin_Points/🍌_Why_Kafka/🗄️_when_the_offices_show_the_system_violence.md)
+    - [`🥛_why_people_cannot_be_beaten_like_eggs_into_breakfast.md`](🌑_1_Origin_Points/🍌_Why_Kafka/🥛_why_people_cannot_be_beaten_like_eggs_into_breakfast.md)
     - [`🧭_why_polaris_protocol.md`](🌑_1_Origin_Points/🍌_Why_Kafka/🧭_why_polaris_protocol.md)
   - [**🍔_Burger_Basics/**](🌑_1_Origin_Points/🍔_Burger_Basics/)
     - [`README.md`](🌑_1_Origin_Points/🍔_Burger_Basics/README.md)
