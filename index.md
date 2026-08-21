@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-20 22:22:49 UTC_
+_Generated on 2026-08-21 00:50:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3552,6 +3552,8 @@ _Generated on 2026-08-20 22:22:49 UTC_
         - [`🧅_the_operator_may_not_know_the_customer.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧅_the_operator_may_not_know_the_customer.md)
         - [`🧬_one_war_many_threat_ecosystems.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧬_one_war_many_threat_ecosystems.md)
         - [`🧭_what_this_pack_is_tracking.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧭_what_this_pack_is_tracking.md)
+      - [**🏛️_White_House_Snitches/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/notes.txt)
       - [**🏝️_Chagos_Complexities/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/notes.txt)
         - [`🌊_neighbours_to_indian_ocean.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/🌊_neighbours_to_indian_ocean.md)
