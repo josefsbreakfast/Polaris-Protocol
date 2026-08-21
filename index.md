@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-21 02:32:09 UTC_
+_Generated on 2026-08-21 02:35:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3554,7 +3554,6 @@ _Generated on 2026-08-21 02:32:09 UTC_
         - [`🧭_what_this_pack_is_tracking.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧭_what_this_pack_is_tracking.md)
       - [**🏛️_White_House_Snitches/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/README.md)
-        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/notes.txt)
         - [`☎️_the_call_is_coming_from_inside_the_house.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/☎️_the_call_is_coming_from_inside_the_house.md)
         - [`✍️_questions_journalists_should_actually_ask.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/✍️_questions_journalists_should_actually_ask.md)
         - [`🇮🇷_guys_you_are_in_a_war_remember.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🇮🇷_guys_you_are_in_a_war_remember.md)
@@ -8850,6 +8849,15 @@ _Generated on 2026-08-21 02:32:09 UTC_
             - [`IMG_9599.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9599.png)
             - [`IMG_9610.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9610.png)
             - [`IMG_9628.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9628.png)
+            - [`IMG_9654.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9654.png)
+            - [`IMG_9656.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9656.png)
+            - [`IMG_9657.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9657.png)
+            - [`IMG_9658.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9658.png)
+            - [`IMG_9659.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9659.png)
+            - [`IMG_9660.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9660.png)
+            - [`IMG_9661.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9661.png)
+            - [`IMG_9662.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9662.png)
+            - [`IMG_9663.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9663.png)
           - [`20250828_racialisation_hijack.PNG`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
           - [`20251028_forcible_conversion_hijack.PNG`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
           - [`20251028_sexualised_hijack.PNG`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251028_sexualised_hijack.PNG)
