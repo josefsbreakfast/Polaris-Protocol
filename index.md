@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-21 01:37:59 UTC_
+_Generated on 2026-08-21 01:39:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3554,7 +3554,6 @@ _Generated on 2026-08-21 01:37:59 UTC_
         - [`🧭_what_this_pack_is_tracking.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧭_what_this_pack_is_tracking.md)
       - [**🏛️_White_House_Snitches/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/README.md)
-        - [`_useful_old_school_defence_expertise.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/_useful_old_school_defence_expertise.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/notes.txt)
         - [`☎️_the_call_is_coming_from_inside_the_house.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/☎️_the_call_is_coming_from_inside_the_house.md)
         - [`✍️_questions_journalists_should_actually_ask.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/✍️_questions_journalists_should_actually_ask.md)
@@ -3564,6 +3563,7 @@ _Generated on 2026-08-21 01:37:59 UTC_
         - [`📞_metadata_can_tell_the_story.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/📞_metadata_can_tell_the_story.md)
         - [`📱_the_phone_is_part_of_the_security_boundary.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/📱_the_phone_is_part_of_the_security_boundary.md)
         - [`🕸️_you_do_not_need_a_leaker.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🕸️_you_do_not_need_a_leaker.md)
+        - [`🛡️_useful_old_school_defence_expertise.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🛡️_useful_old_school_defence_expertise.md)
         - [`🥸_insider_threat_does_not_mean_spy.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🥸_insider_threat_does_not_mean_spy.md)
         - [`🦑_security_language_for_normal_people.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🦑_security_language_for_normal_people.md)
         - [`🦠_porosity_is_a_security_failure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🦠_porosity_is_a_security_failure.md)
