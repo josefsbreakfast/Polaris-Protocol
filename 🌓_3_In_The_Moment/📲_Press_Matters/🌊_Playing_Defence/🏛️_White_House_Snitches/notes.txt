@@ -3,47 +3,27 @@ my guys you do not need “a snitch” for a leak omfg.
 
 ——-
 
-YES. The folder wants to begin as “press literacy for security failures that are more complicated than SOMEONE SNITCHED.”
+README.md
 
-Given the Polaris requirement that nodes stay modular and use Constellations/Stardust for semantic routing, I’d make this a cluster rather than one enormous security explainer.  
+🦑_security_language_for_normal_people.md
+☎️_the_call_is_coming_from_inside_the_house.md
 
-🏛️ white_house_snitches/ — first-pass node map
+🪪_clearance_is_not_a_lanyard.md
+👀_access_is_more_than_opening_the_document.md
+📱_the_phone_is_part_of_the_security_boundary.md
+🧬_the_attack_surface_has_more_than_one_strand.md
+🧅_compartmentation_exists_for_a_reason.md
 
-* ☎️ the_call_is_coming_from_inside_the_house.md
-    Orientation node. The central distinction: information compromise ≠ deliberate disclosure. Introduce deliberate leaking, accidental disclosure, technical compromise, insider threat, aggregation/inference, and ordinary institutional porosity.
-    Key question: Before looking for “the leaker”, have you established that leaking is what happened?
-* 🪪 clearance_is_not_a_lanyard.md
-    What vetting/clearance actually does and—crucially—what it doesn’t do. Personnel assurance, access decisions, continuing obligations, reporting requirements, risk assessment. Avoid the press shorthand where “has clearance” means Government Says Good Person™.
-* 📱 the_phone_is_part_of_the_security_boundary.md
-    The one I think you’re particularly reaching for. Devices, accounts, communications channels, backups/cloud services, authentication, metadata, physical possession. Someone can be entirely loyal while an inadequately controlled endpoint creates exposure.
-* 🕸️ you_do_not_need_a_leaker.md
-    Your core proposition as its own node. Threat pathways requiring no deliberate human disclosure whatsoever. Compromise, inadvertent exposure, observation, credential theft, metadata and inference all belong here.
-* 🧩 a_plus_b_plus_c_equals_classified.md
-    Aggregation risk. Individual facts can be innocuous or lower sensitivity while their combination reveals something substantially more sensitive. Extremely useful press-literacy node because journalists themselves routinely perform precisely this kind of reconstruction.
-* 👀 access_is_more_than_opening_the_document.md
-    Seeing screens, overhearing conversations, attending meetings, receiving calendars, knowing movements, being copied into communications, physical proximity and privileged contextual knowledge. “She wasn’t sent classified documents” does not answer the entire access question.
-* 🧅 compartmentation_exists_for_a_reason.md
-    Need-to-know, compartmentation and blast-radius reduction. Security designed around the proposition that individual controls eventually fail rather than assuming perfect humans.
-* 🦠 porosity_is_a_security_failure.md
-    The systemic node. When enough interfaces are uncontrolled, attribution to a single disclosure route becomes increasingly difficult. Security analysis therefore asks about the architecture of exposure, not merely culprit identification.
-* 🕵️ insider_threat_does_not_mean_spy.md
-    Particularly important terminological correction. Insider-risk programmes aren’t exclusively about malicious spies. Negligence, coercion, compromised credentials, inappropriate access, unusual behaviour and inadvertent disclosure can all matter without turning somebody into Mata Hari.
-* 🪤 honeypots_are_not_magic.md
-    Counterintelligence literacy for journalists. Recruitment, elicitation, social engineering, cultivation, coercion and exploitation of existing relationships. Also: attractive person near important official ≠ honeypot. Evidence thresholds matter.
-* 📞 metadata_can_tell_the_story.md
-    You don’t necessarily need the conversation. Who communicated with whom, when, from where, how often, surrounding events and changes in patterns can themselves expose sensitive relationships or operations.
-* 🪜 the_attack_surface_is_human_and_technical.md
-    Kill the artificial “cyber versus human” distinction. People use endpoints; endpoints contain accounts; accounts expose networks; networks contain people. Modern security failures happily move between those layers.
-* ❓ questions_journalists_should_actually_ask.md
-    The practical payoff. Instead of only “Who leaked it?”:
-    Who had access? What kind? What devices and channels were permitted? What clearance/access was required? Was it completed? Were compensating controls imposed? What information could be inferred without accessing the protected material directly? Has technical compromise been excluded? What audit records exist?
+🧩_a_plus_b_plus_c_equals_classified.md
+📞_metadata_can_tell_the_story.md
+🕸️_you_do_not_need_a_leaker.md
+🥸_insider_threat_does_not_mean_spy.md
+🍯_honeypots_are_not_magic.md
 
-And then I would absolutely give the cluster a tiny glossary:
+🦠_porosity_is_a_security_failure.md
+🇮🇷_guys_you_are_in_a_war_remember.md
+_useful_old_school_defence_expertise.md
 
-leak ≠ breach ≠ compromise ≠ exposure ≠ intrusion ≠ insider threat ≠ espionage ≠ unauthorised disclosure.
+✍️_questions_journalists_should_actually_ask.md
 
-Because half the reporting problem starts when those become interchangeable synonyms.
-
-Most importantly, this lets 🏛️ White House Snitches remain funny while the actual content underneath it is annoyingly rigorous. That’s very Polaris: the survivor-voice rules explicitly permit humour and bite alongside forensic function rather than requiring institutional beige.  
-
-And I think ☎️_the_call_is_coming_from_inside_the_house.md has to be first. It is simply ordained.
+notes.txt
