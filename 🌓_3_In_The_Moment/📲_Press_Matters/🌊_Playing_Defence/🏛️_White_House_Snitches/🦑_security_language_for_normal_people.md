@@ -1,11 +1,11 @@
 # 🦑 Security Language For Normal People
 
-**First created:** 2026-08-21 \| **Last updated:** 2026-08-21\
+**First created:** 2026-08-21 | **Last updated:** 2026-08-21
 *A plain-language guide to the security words that get collapsed into
 "leak", "hack", "spy", and other nouns that quietly claim more evidence
 than we actually have.*
 
-------------------------------------------------------------------------
+---
 
 ## 🛰️ Orientation
 
@@ -32,14 +32,14 @@ If information appears somewhere unexpected, we may know an **outcome**.
 
 We may not yet know:
 
--   the mechanism;
--   the pathway;
--   the actor;
--   the intent;
--   whether anybody deliberately disclosed anything;
--   whether a technical system was compromised;
--   whether an external actor exploited the exposure;
--   or who, if anybody, should ultimately be blamed.
+- the mechanism;
+- the pathway;
+- the actor;
+- the intent;
+- whether anybody deliberately disclosed anything;
+- whether a technical system was compromised;
+- whether an external actor exploited the exposure;
+- or who, if anybody, should ultimately be blamed.
 
 This node is therefore not an attempt to turn journalists into
 counterintelligence officers.
@@ -51,13 +51,13 @@ The governing rule is simple:
 > **Words are evidence labels. Do not promote the evidence by changing
 > the noun.**
 
-------------------------------------------------------------------------
+---
 
 ## 🧠 Start With The Evidential Ladder
 
 Before the glossary, keep this distinction available:
 
-``` text
+```text
 something could happen
         ↓
 there is reason to consider it plausible
@@ -77,7 +77,7 @@ Those are different evidential states.
 
 So are these:
 
-``` text
+```text
 EXPOSURE
     ≠
 COMPROMISE
@@ -102,7 +102,7 @@ ATTRIBUTION
 A great deal of bad security commentary consists of climbing this ladder
 without noticing.
 
-------------------------------------------------------------------------
+---
 
 ## 💧 Leak
 
@@ -111,7 +111,7 @@ to information deliberately provided it outside the authorised channel.
 
 Simplified:
 
-``` text
+```text
 person knows information
         ↓
 person intentionally discloses it
@@ -133,18 +133,18 @@ If the mechanism has not been established, "leak" may be premature.
 
 ### Better language when the mechanism is unknown
 
--   "the information became public";
--   "the information was disclosed";
--   "the information appeared outside the expected security
+- "the information became public";
+- "the information was disclosed";
+- "the information appeared outside the expected security
     environment";
--   "investigators are examining how the information became available."
+- "investigators are examining how the information became available."
 
 See:
 
 [☎️ The Call Is Coming From Inside The
 House](./☎️_the_call_is_coming_from_inside_the_house.md).
 
-------------------------------------------------------------------------
+---
 
 ## 📤 Unauthorised Disclosure
 
@@ -156,14 +156,14 @@ That category is broader and more useful than casually shouting
 
 Depending upon the facts, an unauthorised disclosure may be:
 
--   deliberate;
--   accidental;
--   negligent;
--   oral;
--   written;
--   digital;
--   physical;
--   or produced through inappropriate handling.
+- deliberate;
+- accidental;
+- negligent;
+- oral;
+- written;
+- digital;
+- physical;
+- or produced through inappropriate handling.
 
 The useful question is:
 
@@ -172,7 +172,7 @@ The useful question is:
 
 Do not infer the final answer from the label.
 
-------------------------------------------------------------------------
+---
 
 ## 👀 Exposure
 
@@ -186,7 +186,7 @@ opportunity.
 
 For example:
 
-``` text
+```text
 sensitive material visible
 to an unauthorised person
 ```
@@ -195,7 +195,7 @@ may constitute an exposure.
 
 It does not automatically establish:
 
-``` text
+```text
 unauthorised person
 noticed it
         ↓
@@ -215,7 +215,7 @@ This distinction matters because:
 
 Security exists partly to prevent the opportunity becoming the incident.
 
-------------------------------------------------------------------------
+---
 
 ## 🧨 Compromise
 
@@ -225,12 +225,12 @@ treated as securely controlled in the expected way.
 
 Examples might include:
 
--   compromised credentials;
--   a compromised account;
--   a compromised endpoint;
--   compromised classified material;
--   a compromised source;
--   a compromised security procedure.
+- compromised credentials;
+- a compromised account;
+- a compromised endpoint;
+- compromised classified material;
+- a compromised source;
+- a compromised security procedure.
 
 But even this word needs specificity.
 
@@ -242,18 +242,18 @@ conversation.
 
 It might mean anything from:
 
--   vulnerable to pressure;
--   subject to a conflict;
--   technically surveilled;
--   manipulated;
--   knowingly cooperating with somebody;
--   or merely "I don't trust them."
+- vulnerable to pressure;
+- subject to a conflict;
+- technically surveilled;
+- manipulated;
+- knowingly cooperating with somebody;
+- or merely "I don't trust them."
 
 Those are not interchangeable.
 
 Name the actual condition wherever possible.
 
-------------------------------------------------------------------------
+---
 
 ## 🚨 Breach
 
@@ -262,11 +262,11 @@ requirement or control.
 
 Depending on context, that might mean:
 
--   unauthorised access;
--   unauthorised disclosure;
--   loss of protected information;
--   violation of a security procedure;
--   or compromise of a technical system.
+- unauthorised access;
+- unauthorised disclosure;
+- loss of protected information;
+- violation of a security procedure;
+- or compromise of a technical system.
 
 But "breach" should not become a magical word meaning:
 
@@ -274,17 +274,17 @@ But "breach" should not become a magical word meaning:
 
 If reporting says there was a breach, ask:
 
--   Which boundary was breached?
--   Which control failed?
--   What became accessible?
--   Was access actually obtained?
--   Was information taken?
--   Is the term being used technically, legally, organisationally, or
+- Which boundary was breached?
+- Which control failed?
+- What became accessible?
+- Was access actually obtained?
+- Was information taken?
+- Is the term being used technically, legally, organisationally, or
     colloquially?
 
 The noun does not answer those questions for you.
 
-------------------------------------------------------------------------
+---
 
 ## 🕳️ Vulnerability
 
@@ -292,27 +292,27 @@ A **vulnerability** is a weakness that could potentially be exploited.
 
 That weakness may be:
 
--   technical;
--   procedural;
--   organisational;
--   physical;
--   human;
--   social;
--   or some combination.
+- technical;
+- procedural;
+- organisational;
+- physical;
+- human;
+- social;
+- or some combination.
 
 Examples include:
 
--   excessive permissions;
--   poor authentication;
--   unmanaged devices;
--   weak physical controls;
--   inadequate separation of duties;
--   incomplete personnel assurance;
--   poorly designed procedures.
+- excessive permissions;
+- poor authentication;
+- unmanaged devices;
+- weak physical controls;
+- inadequate separation of duties;
+- incomplete personnel assurance;
+- poorly designed procedures.
 
 A vulnerability is not evidence that exploitation occurred.
 
-``` text
+```text
 vulnerability exists
         ≠
 vulnerability was exploited
@@ -320,7 +320,7 @@ vulnerability was exploited
 
 But:
 
-``` text
+```text
 no proven exploitation
         ≠
 vulnerability does not matter
@@ -328,7 +328,7 @@ vulnerability does not matter
 
 This is one of the most important distinctions in preventive security.
 
-------------------------------------------------------------------------
+---
 
 ## 🛠️ Exploit / Exploitation
 
@@ -340,16 +340,16 @@ advantage of a particular weakness.
 In broader security analysis, exploitation can also describe taking
 advantage of:
 
--   access;
--   relationships;
--   predictable behaviour;
--   organisational weaknesses;
--   information asymmetries;
--   or personal circumstances.
+- access;
+- relationships;
+- predictable behaviour;
+- organisational weaknesses;
+- information asymmetries;
+- or personal circumstances.
 
 Keep the level of claim clear.
 
-``` text
+```text
 vulnerability
         ↓
 possible exploitation
@@ -361,7 +361,7 @@ evidence of successful exploitation
 
 Do not jump from the first box to the last.
 
-------------------------------------------------------------------------
+---
 
 ## 🖥️ Intrusion
 
@@ -373,11 +373,11 @@ with the phone."
 
 Evidence might support:
 
--   suspicious activity;
--   attempted access;
--   successful unauthorised access;
--   persistence;
--   data acquisition.
+- suspicious activity;
+- attempted access;
+- successful unauthorised access;
+- persistence;
+- data acquisition.
 
 Those are different findings.
 
@@ -385,7 +385,7 @@ Those are different findings.
 
 Which brings us to---
 
-------------------------------------------------------------------------
+---
 
 ## 🪓 Hack
 
@@ -394,16 +394,16 @@ technically different things sound identical.
 
 It may refer to:
 
--   credential theft;
--   account takeover;
--   malware;
--   exploitation of a software vulnerability;
--   social engineering;
--   unauthorised access;
--   device compromise;
--   data theft;
--   website defacement;
--   or merely unexpected technical behaviour.
+- credential theft;
+- account takeover;
+- malware;
+- exploitation of a software vulnerability;
+- social engineering;
+- unauthorised access;
+- device compromise;
+- data theft;
+- website defacement;
+- or merely unexpected technical behaviour.
 
 If you know the mechanism, **name the mechanism**.
 
@@ -415,7 +415,7 @@ If you do not, say what is actually known.
 Security language becomes clearer remarkably quickly once the word
 **hack** is denied unlimited employment.
 
-------------------------------------------------------------------------
+---
 
 ## 🥸 Insider Risk / Insider Threat
 
@@ -436,21 +436,21 @@ That is too narrow.
 
 Insider-associated harm can involve:
 
--   malicious activity;
--   deliberate leaking;
--   fraud;
--   sabotage;
--   negligence;
--   mistakes;
--   excessive access;
--   compromised credentials;
--   coercion;
--   social engineering;
--   or exploitation of the insider by somebody else.
+- malicious activity;
+- deliberate leaking;
+- fraud;
+- sabotage;
+- negligence;
+- mistakes;
+- excessive access;
+- compromised credentials;
+- coercion;
+- social engineering;
+- or exploitation of the insider by somebody else.
 
 So:
 
-``` text
+```text
 insider risk
         ≠
 malicious insider
@@ -460,7 +460,7 @@ spy
 
 A person can even be simultaneously:
 
-``` text
+```text
 an insider security risk
 +
 the victim of an outside actor
@@ -471,7 +471,7 @@ See:
 [🥸 Insider Threat Does Not Mean
 Spy](./🥸_insider_threat_does_not_mean_spy.md).
 
-------------------------------------------------------------------------
+---
 
 ## 🛰️ Intelligence Collection
 
@@ -483,17 +483,17 @@ carrying classified documents.
 
 Collection can draw upon many kinds of sources, including:
 
--   human reporting;
--   technical collection;
--   cyber activity;
--   imagery;
--   signals;
--   open-source material;
--   public records;
--   commercial information;
--   metadata;
--   observation;
--   and combinations of otherwise unremarkable facts.
+- human reporting;
+- technical collection;
+- cyber activity;
+- imagery;
+- signals;
+- open-source material;
+- public records;
+- commercial information;
+- metadata;
+- observation;
+- and combinations of otherwise unremarkable facts.
 
 This matters because:
 
@@ -506,7 +506,7 @@ And:
 The collector may simply be observing, acquiring, combining or
 inferring.
 
-------------------------------------------------------------------------
+---
 
 ## 🕵️ Espionage
 
@@ -520,31 +520,31 @@ In reporting on an individual, alleging espionage is serious.
 
 Do not turn:
 
-``` text
+```text
 person had access
 ```
 
 into:
 
-``` text
+```text
 person was vulnerable
 ```
 
 into:
 
-``` text
+```text
 person may have been targeted
 ```
 
 into:
 
-``` text
+```text
 person was compromised
 ```
 
 into:
 
-``` text
+```text
 person was spying
 ```
 
@@ -555,7 +555,7 @@ distinctions.
 
 It does not become timid.
 
-------------------------------------------------------------------------
+---
 
 ## 🗣️ Elicitation
 
@@ -583,7 +583,7 @@ The point is:
 > **You may understand the value of the information you hold differently
 > from the person trying to obtain it.**
 
-------------------------------------------------------------------------
+---
 
 ## 🤝 Recruitment
 
@@ -595,20 +595,20 @@ assistance or information.
 
 Do not use **recruited** when what you actually mean is:
 
--   approached;
--   befriended;
--   cultivated;
--   targeted;
--   manipulated;
--   elicited from;
--   surveilled;
--   or technically compromised.
+- approached;
+- befriended;
+- cultivated;
+- targeted;
+- manipulated;
+- elicited from;
+- surveilled;
+- or technically compromised.
 
 Those may all be security-relevant.
 
 They are not synonyms.
 
-------------------------------------------------------------------------
+---
 
 ## 🍯 Honeypot
 
@@ -642,7 +642,7 @@ See:
 
 [🍯 Honeypots Are Not Magic](./🍯_honeypots_are_not_magic.md).
 
-------------------------------------------------------------------------
+---
 
 ## 👤 Asset / Source / Agent
 
@@ -657,11 +657,11 @@ A **source** provides information.
 
 That does not automatically tell you:
 
--   whether they know they are providing intelligence;
--   whether they are formally recruited;
--   whether they are paid;
--   whether they act repeatedly;
--   or whether they understand the ultimate recipient.
+- whether they know they are providing intelligence;
+- whether they are formally recruited;
+- whether they are paid;
+- whether they act repeatedly;
+- or whether they understand the ultimate recipient.
 
 ### Asset
 
@@ -697,7 +697,7 @@ Again:
 
 Do not use spy-film vocabulary as an evidentiary shortcut.
 
-------------------------------------------------------------------------
+---
 
 ## 🪪 Clearance
 
@@ -707,30 +707,30 @@ classified information.
 
 It is not:
 
-``` text
+```text
 GOOD PERSON CERTIFICATE
 ```
 
 Nor does holding a clearance ordinarily mean:
 
-``` text
+```text
 ACCESS TO EVERYTHING
 ```
 
 Clearance interacts with:
 
--   role;
--   authorisation;
--   need-to-know;
--   compartmentation;
--   system permissions;
--   physical access;
--   continuing security obligations;
--   and other controls.
+- role;
+- authorisation;
+- need-to-know;
+- compartmentation;
+- system permissions;
+- physical access;
+- continuing security obligations;
+- and other controls.
 
 Likewise:
 
-``` text
+```text
 no completed clearance
         ≠
 spy
@@ -738,17 +738,17 @@ spy
 
 The relevant questions are:
 
--   What assurance was required?
--   What had been completed?
--   What access existed?
--   What interim controls applied?
--   What remained unassessed?
+- What assurance was required?
+- What had been completed?
+- What access existed?
+- What interim controls applied?
+- What remained unassessed?
 
 See:
 
 [🪪 Clearance Is Not A Lanyard](./🪪_clearance_is_not_a_lanyard.md).
 
-------------------------------------------------------------------------
+---
 
 ## 👁️ Access
 
@@ -756,15 +756,15 @@ See:
 
 Someone can have:
 
--   formal access;
--   technical access;
--   physical access;
--   contextual access;
--   observational access;
--   indirect access;
--   temporary access;
--   excessive access;
--   or access to fragments from which something else can be inferred.
+- formal access;
+- technical access;
+- physical access;
+- contextual access;
+- observational access;
+- indirect access;
+- temporary access;
+- excessive access;
+- or access to fragments from which something else can be inferred.
 
 This matters because:
 
@@ -784,7 +784,7 @@ See:
 [👀 Access Is More Than Opening The
 Document](./👀_access_is_more_than_opening_the_document.md).
 
-------------------------------------------------------------------------
+---
 
 ## 🔐 Need-To-Know
 
@@ -798,7 +798,7 @@ This reduces unnecessary exposure.
 
 It also limits the consequences when something else goes wrong.
 
-``` text
+```text
 CLEARED
         ≠
 NEEDS EVERYTHING
@@ -808,7 +808,7 @@ Need-to-know is not necessarily a judgment on the person's character.
 
 It is a way of reducing the attack surface.
 
-------------------------------------------------------------------------
+---
 
 ## 🧅 Compartmentation
 
@@ -817,7 +817,7 @@ one area does not automatically provide access to another.
 
 Think:
 
-``` text
+```text
 one failure
         ↓
 limited damage
@@ -825,7 +825,7 @@ limited damage
 
 rather than:
 
-``` text
+```text
 one failure
         ↓
 welcome to absolutely everything
@@ -841,7 +841,7 @@ See:
 [🧅 Compartmentation Exists For A
 Reason](./🧅_compartmentation_exists_for_a_reason.md).
 
-------------------------------------------------------------------------
+---
 
 ## 📞 Metadata
 
@@ -849,31 +849,31 @@ Reason](./🧅_compartmentation_exists_for_a_reason.md).
 
 Depending upon the system, it can include things such as:
 
--   who communicated;
--   when;
--   how often;
--   duration;
--   account identifiers;
--   device information;
--   routing information;
--   file properties;
--   or other contextual records.
+- who communicated;
+- when;
+- how often;
+- duration;
+- account identifiers;
+- device information;
+- routing information;
+- file properties;
+- or other contextual records.
 
 Metadata is not automatically trivial merely because it is not message
 content.
 
 Patterns can reveal:
 
--   relationships;
--   routines;
--   changes in behaviour;
--   organisational structure;
--   unusual activity;
--   or associations worth further investigation.
+- relationships;
+- routines;
+- changes in behaviour;
+- organisational structure;
+- unusual activity;
+- or associations worth further investigation.
 
 But metadata also requires interpretation.
 
-``` text
+```text
 pattern
         ≠
 proven explanation for pattern
@@ -883,14 +883,14 @@ See:
 
 [📞 Metadata Can Tell The Story](./📞_metadata_can_tell_the_story.md).
 
-------------------------------------------------------------------------
+---
 
 ## 🧩 Aggregation
 
 **Aggregation** is what happens when individually limited pieces of
 information become substantially more revealing when combined.
 
-``` text
+```text
 A + B + C + existing context
         =
 something nobody explicitly disclosed
@@ -907,7 +907,7 @@ See:
 [🧩 A Plus B Plus C Equals
 Classified](./🧩_a_plus_b_plus_c_equals_classified.md).
 
-------------------------------------------------------------------------
+---
 
 ## 🎯 Attribution
 
@@ -919,7 +919,7 @@ happened.
 
 For example:
 
-``` text
+```text
 account behaved abnormally
         ↓
 evidence of unauthorised access
@@ -936,11 +936,11 @@ Those steps may require different evidence.
 And even where an operation is attributed to infrastructure or operators
 associated with a state, further questions can remain about:
 
--   direction;
--   sponsorship;
--   customer;
--   intent;
--   and the role of particular individuals.
+- direction;
+- sponsorship;
+- customer;
+- intent;
+- and the role of particular individuals.
 
 The crucial rule:
 
@@ -951,7 +951,7 @@ All three may inform an assessment.
 
 None independently proves it.
 
-------------------------------------------------------------------------
+---
 
 ## 🧿 Threat Assessment
 
@@ -960,7 +960,7 @@ protected.
 
 It can consider:
 
-``` text
+```text
 asset
 +
 adversary / hazard
@@ -990,7 +990,7 @@ That is different from attribution, which asks:
 
 So:
 
-``` text
+```text
 FOREIGN INTELLIGENCE SERVICE
 IS A RELEVANT THREAT
         ≠
@@ -1003,7 +1003,7 @@ See:
 [🇮🇷 Guys, You Are In A War,
 Remember](./🇮🇷_guys_you_are_in_a_war_remember.md).
 
-------------------------------------------------------------------------
+---
 
 ## 🧬 Attack Surface
 
@@ -1013,7 +1013,7 @@ accessed or exploited.
 
 For modern political institutions, that can include:
 
-``` text
+```text
 devices
 +
 accounts
@@ -1046,7 +1046,7 @@ See:
 [🧬 The Attack Surface Has More Than One
 Strand](./🧬_the_attack_surface_has_more_than_one_strand.md).
 
-------------------------------------------------------------------------
+---
 
 ## 🦠 Porosity
 
@@ -1058,7 +1058,7 @@ One mistake may be an incident.
 
 Repeatedly unclear interfaces can indicate an architectural problem.
 
-``` text
+```text
 many weak boundaries
 +
 many informal pathways
@@ -1079,67 +1079,67 @@ See:
 [🦠 Porosity Is A Security
 Failure](./🦠_porosity_is_a_security_failure.md).
 
-------------------------------------------------------------------------
+---
 
 ## ⚖️ The Words That Most Need Keeping Apart
 
 If you remember nothing else, keep these:
 
-``` text
+```text
 INFORMATION BECAME PUBLIC
         ≠
 LEAK PROVEN
 ```
 
-``` text
+```text
 VULNERABILITY
         ≠
 EXPLOITATION
 ```
 
-``` text
+```text
 EXPOSURE
         ≠
 COMPROMISE
 ```
 
-``` text
+```text
 COMPROMISE
         ≠
 MALICIOUS COOPERATION
 ```
 
-``` text
+```text
 INSIDER RISK
         ≠
 SPY
 ```
 
-``` text
+```text
 TARGETED
         ≠
 RECRUITED
 ```
 
-``` text
+```text
 CAPABILITY
         ≠
 ATTRIBUTION
 ```
 
-``` text
+```text
 CLEARANCE
         ≠
 ACCESS TO EVERYTHING
 ```
 
-``` text
+```text
 NO CLEARANCE
         ≠
 ESPIONAGE
 ```
 
-``` text
+```text
 FOREIGN INTELLIGENCE THREAT
         ≠
 FOREIGN INTELLIGENCE CULPRIT
@@ -1147,7 +1147,7 @@ FOREIGN INTELLIGENCE CULPRIT
 
 And perhaps most importantly:
 
-``` text
+```text
 WE DO NOT YET KNOW
         ≠
 NOTHING HAPPENED
@@ -1155,12 +1155,12 @@ NOTHING HAPPENED
 
 It also does not mean:
 
-``` text
+```text
 WE MAY INSERT WHICHEVER
 SPY FILM PLOT WE LIKE
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 📰 A Small Translation Table For Journalists
 
@@ -1202,7 +1202,7 @@ Precision does not make the story less interesting.
 Usually it reveals that the actual story is **more interesting than the
 shorthand**.
 
-------------------------------------------------------------------------
+---
 
 ## 🏛️ The Actual Lesson
 
@@ -1235,25 +1235,20 @@ The useful discipline is less exciting and considerably more powerful:
 
 Security is complicated enough without making the vocabulary lie.
 
-------------------------------------------------------------------------
+---
 
-## 🌌 Constellations
+## 🌌 Constellations  
+🦑 ☎️ 🪪 🧿 🕸️ — security literacy; evidential discipline; personnel assurance; threat assessment; information exposure.
 
-🦑 ☎️ 🪪 🧿 🕸️ --- security literacy; evidential discipline; personnel
-assurance; threat assessment; information exposure.
+## ✨ Stardust  
+information security, security language, threat assessment, information exposure, personnel security, insider risk, counterintelligence, attribution, press literacy
 
-## ✨ Stardust
-
-information security, security language, threat assessment, information
-exposure, personnel security, insider risk, counterintelligence,
-attribution, press literacy
-
-------------------------------------------------------------------------
+---
 
 ## 🏮 Footer
 
 *🦑 Security Language For Normal People* is a living node of the
-**Polaris Protocol**.\
+**Polaris Protocol**.
 It provides a plain-language vocabulary for reporting and reasoning
 about information-security, personnel-security and counterintelligence
 questions without silently converting possibilities into established
@@ -1261,40 +1256,40 @@ mechanisms or allegations.
 
 > 📡 Cross-references:
 >
-> -   [☎️ The Call Is Coming From Inside The
->     House](./☎️_the_call_is_coming_from_inside_the_house.md) --- *why
+> - [☎️ The Call Is Coming From Inside The
+>     House](./☎️_the_call_is_coming_from_inside_the_house.md) — *why
 >     an observed information outcome does not establish a deliberate
 >     leak mechanism*
-> -   [🪪 Clearance Is Not A
->     Lanyard](./🪪_clearance_is_not_a_lanyard.md) --- *clearance,
+> - [🪪 Clearance Is Not A
+>     Lanyard](./🪪_clearance_is_not_a_lanyard.md) — *clearance,
 >     personnel assurance, access and compensating controls*
-> -   [👀 Access Is More Than Opening The
->     Document](./👀_access_is_more_than_opening_the_document.md) ---
+> - [👀 Access Is More Than Opening The
+>     Document](./👀_access_is_more_than_opening_the_document.md) —
 >     *direct, indirect, physical, contextual and inferential access*
-> -   [🧬 The Attack Surface Has More Than One
->     Strand](./🧬_the_attack_surface_has_more_than_one_strand.md) ---
+> - [🧬 The Attack Surface Has More Than One
+>     Strand](./🧬_the_attack_surface_has_more_than_one_strand.md) —
 >     *human, technical, physical, social and organisational security
 >     surfaces*
-> -   [🧩 A Plus B Plus C Equals
->     Classified](./🧩_a_plus_b_plus_c_equals_classified.md) ---
+> - [🧩 A Plus B Plus C Equals
+>     Classified](./🧩_a_plus_b_plus_c_equals_classified.md) —
 >     *aggregation and inferential disclosure*
-> -   [📞 Metadata Can Tell The
->     Story](./📞_metadata_can_tell_the_story.md) --- *patterns and
+> - [📞 Metadata Can Tell The
+>     Story](./📞_metadata_can_tell_the_story.md) — *patterns and
 >     contextual information beyond message content*
-> -   [🥸 Insider Threat Does Not Mean
->     Spy](./🥸_insider_threat_does_not_mean_spy.md) ---
+> - [🥸 Insider Threat Does Not Mean
+>     Spy](./🥸_insider_threat_does_not_mean_spy.md) —
 >     *insider-associated risk without premature espionage allegations*
-> -   [🦠 Porosity Is A Security
->     Failure](./🦠_porosity_is_a_security_failure.md) --- *systemic
+> - [🦠 Porosity Is A Security
+>     Failure](./🦠_porosity_is_a_security_failure.md) — *systemic
 >     exposure architecture beyond individual culpability*
-> -   [🇮🇷 Guys, You Are In A War,
->     Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) --- *threat
+> - [🇮🇷 Guys, You Are In A War,
+>     Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) — *threat
 >     assessment versus attribution in an active international security
 >     environment*
-> -   [✍️ Questions Journalists Should Actually
->     Ask](./✍️_questions_journalists_should_actually_ask.md) ---
+> - [✍️ Questions Journalists Should Actually
+>     Ask](./✍️_questions_journalists_should_actually_ask.md) —
 >     *practical reporting prompts for preserving these distinctions*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-21*
+_Last updated: 2026-08-21_

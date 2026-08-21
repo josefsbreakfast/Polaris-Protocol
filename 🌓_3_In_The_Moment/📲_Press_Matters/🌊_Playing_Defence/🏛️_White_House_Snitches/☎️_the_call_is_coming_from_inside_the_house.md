@@ -1,10 +1,10 @@
 # ☎️ The Call Is Coming From Inside The House
 
-**First created:** 2026-08-21 \| **Last updated:** 2026-08-21\
+**First created:** 2026-08-21 | **Last updated:** 2026-08-21
 *Why "who leaked it?" is only one of several possible explanations for
 information escaping a supposedly secure environment.*
 
-------------------------------------------------------------------------
+---
 
 ## 🛰️ Orientation
 
@@ -49,7 +49,7 @@ They are not the same question.
 
 More fundamentally:
 
-``` text
+```text
 INFORMATION GOT OUT
         ≠
 SOMEBODY LEAKED IT
@@ -61,7 +61,7 @@ The second proposes a **mechanism**.
 
 Do not quietly turn one into the other.
 
-------------------------------------------------------------------------
+---
 
 ## ☎️ Before We Decide Where The Call Is Coming From
 
@@ -91,7 +91,7 @@ before establishing whether it was a phone call.
 
 That distinction matters.
 
-``` text
+```text
 THE INFORMATION
 IS OUTSIDE THE HOUSE
 
@@ -103,7 +103,7 @@ DELIBERATELY PUT IT THERE
 
 And even if some part of the exposure pathway does originate inside:
 
-``` text
+```text
 inside access
         ≠
 deliberate disclosure
@@ -125,7 +125,7 @@ Those are progressively different propositions.
 
 Each requires evidence.
 
-------------------------------------------------------------------------
+---
 
 ## 🧠 Outcome Is Not Mechanism
 
@@ -153,7 +153,7 @@ That is another question again.
 
 Do not collapse them.
 
-``` text
+```text
 OUTCOME
     ≠
 MECHANISM
@@ -175,13 +175,13 @@ That is fine.
 The problem begins when uncertainty is made to disappear by choosing a
 familiar noun.
 
-------------------------------------------------------------------------
+---
 
 ## ☎️ The Comforting Theory Of Naughty Dave
 
 The traditional leak narrative has an appealingly simple architecture:
 
-``` text
+```text
 protected information
         ↓
 authorised person
@@ -206,7 +206,7 @@ for every unexplained information escape.**
 
 Because the actual architecture might instead look like:
 
-``` text
+```text
 sensitive environment
         ↓
 person / device / account / meeting / calendar
@@ -224,7 +224,7 @@ Dave may be innocent.
 
 **Dave may be completely unnecessary to the causal model.**
 
-------------------------------------------------------------------------
+---
 
 ## 🕸️ You Do Not Need A Leaker
 
@@ -232,7 +232,7 @@ Consider several simplified possibilities.
 
 ### Deliberate Disclosure
 
-``` text
+```text
 Official → Journalist
 ```
 
@@ -243,7 +243,7 @@ somebody who is not authorised to receive it.
 
 ### Accidental Disclosure
 
-``` text
+```text
 Official → insecure handling → unintended recipient
 ```
 
@@ -251,7 +251,7 @@ The information escapes, but there is no intention to leak it.
 
 ### Technical Compromise
 
-``` text
+```text
 Official → compromised device/account → outside actor
 ```
 
@@ -261,7 +261,7 @@ The information still escapes.
 
 ### Environmental Exposure
 
-``` text
+```text
 meeting / screen / document / conversation
                     ↓
               observable person
@@ -272,7 +272,7 @@ otherwise encounter something they should not.
 
 ### Aggregation
 
-``` text
+```text
 A + B + C + context → sensitive conclusion
 ```
 
@@ -282,7 +282,7 @@ Someone else reconstructs it.
 
 ### Multiple Independent Fragments
 
-``` text
+```text
 Source A ─┐
 Source B ─┼─→ outside observer → conclusion
 OSINT    ─┤
@@ -308,7 +308,7 @@ It is:
 That is why **"who leaked?" should not silently become "how was this
 compromised?"**
 
-------------------------------------------------------------------------
+---
 
 ## 🪪 Vetting Is Not A Magic Trust Certificate
 
@@ -332,13 +332,13 @@ surrounding their access have been identified and appropriately managed.
 Depending on the system and role, that wider security picture can
 include matters such as:
 
--   what information the person may access;
--   what systems they may use;
--   what devices or communications arrangements are permitted;
--   what reporting obligations apply;
--   what outside contacts or circumstances require assessment;
--   what continuing security requirements accompany the role;
--   and what restrictions or compensating controls are necessary.
+- what information the person may access;
+- what systems they may use;
+- what devices or communications arrangements are permitted;
+- what reporting obligations apply;
+- what outside contacts or circumstances require assessment;
+- what continuing security requirements accompany the role;
+- and what restrictions or compensating controls are necessary.
 
 This creates an important distinction.
 
@@ -365,13 +365,13 @@ A functioning assurance system gives investigators a baseline.
 
 It helps establish:
 
--   who should have had access;
--   what access they should have had;
--   which systems and devices were authorised;
--   what restrictions applied;
--   which exceptions existed;
--   what should have been logged;
--   and which pathways should, in theory, have been impossible.
+- who should have had access;
+- what access they should have had;
+- which systems and devices were authorised;
+- what restrictions applied;
+- which exceptions existed;
+- what should have been logged;
+- and which pathways should, in theory, have been impossible.
 
 If those controls were unclear, bypassed or poorly documented, later
 reconstruction becomes harder.
@@ -379,7 +379,7 @@ reconstruction becomes harder.
 > **Security assurance is partly what gives you the map you need when
 > something goes wrong.**
 
-------------------------------------------------------------------------
+---
 
 ## 👀 "Who Knew?" Is More Complicated Than It Sounds
 
@@ -391,25 +391,25 @@ But knowing is not binary.
 
 Someone may:
 
--   know the proposition explicitly;
--   know one part of it;
--   see a relevant document without possessing it;
--   overhear a fragment of a conversation;
--   know who entered a meeting;
--   know when somebody travelled;
--   notice a sudden change in routine;
--   know which issue senior officials suddenly became interested in;
--   possess two of the three facts necessary to infer the rest.
+- know the proposition explicitly;
+- know one part of it;
+- see a relevant document without possessing it;
+- overhear a fragment of a conversation;
+- know who entered a meeting;
+- know when somebody travelled;
+- notice a sudden change in routine;
+- know which issue senior officials suddenly became interested in;
+- possess two of the three facts necessary to infer the rest.
 
 So:
 
-``` text
+```text
 WHO HAD THE DOCUMENT?
 ```
 
 is a narrower question than:
 
-``` text
+```text
 WHO HAD ACCESS TO INFORMATION
 FROM WHICH THE RELEVANT FACT
 COULD BE LEARNED OR INFERRED?
@@ -417,7 +417,7 @@ COULD BE LEARNED OR INFERRED?
 
 Access is more than opening the document.
 
-------------------------------------------------------------------------
+---
 
 ## 📱 Your Phone Is Part Of The Problem
 
@@ -473,14 +473,14 @@ It is also:
 
 Those are profoundly different propositions.
 
-``` text
+```text
 PERSON DID NOT DISCLOSE INFORMATION
         ≠
 PERSON'S INFORMATION ENVIRONMENT
 WAS NOT EXPOSED
 ```
 
-------------------------------------------------------------------------
+---
 
 ## 🧩 A + B + C = Oh, Fuck
 
@@ -498,17 +498,17 @@ Imagine that no single source reveals proposition **X**.
 
 Instead:
 
--   Person One reveals **A**.
--   A public schedule reveals **B**.
--   Person Two confirms **C**.
--   Somebody notices that **D** suddenly stopped happening.
--   An outside observer already understands the institutional context.
+- Person One reveals **A**.
+- A public schedule reveals **B**.
+- Person Two confirms **C**.
+- Somebody notices that **D** suddenly stopped happening.
+- An outside observer already understands the institutional context.
 
 No participant necessarily says **X**.
 
 The observer calculates:
 
-``` text
+```text
 A + B + C + D = probably X
 ```
 
@@ -532,7 +532,7 @@ may therefore contain a rather fundamental problem.
 
 They worked it out.
 
-------------------------------------------------------------------------
+---
 
 ## 🧅 Security Assumes Things Will Fail
 
@@ -562,16 +562,16 @@ from becoming a catastrophic one.
 
 That is the logic behind concepts such as:
 
--   defence in depth;
--   least privilege;
--   need to know;
--   compartmentation;
--   endpoint security;
--   access logging;
--   authentication;
--   personnel assurance;
--   monitoring;
--   and incident response.
+- defence in depth;
+- least privilege;
+- need to know;
+- compartmentation;
+- endpoint security;
+- access logging;
+- authentication;
+- personnel assurance;
+- monitoring;
+- and incident response.
 
 Security therefore asks not merely whether a control failed.
 
@@ -584,14 +584,14 @@ the only security problem.
 
 The architecture is.
 
-------------------------------------------------------------------------
+---
 
 ## 🥸 Inside Does Not Mean Malicious
 
 Even where an exposure pathway runs through somebody inside an
 institution, another distinction remains necessary:
 
-``` text
+```text
 INSIDER
         ≠
 MALICIOUS INSIDER
@@ -601,18 +601,18 @@ SPY
 
 An insider-associated security failure could involve:
 
--   deliberate leaking;
--   accidental disclosure;
--   negligence;
--   excessive privilege;
--   compromised credentials;
--   a compromised endpoint;
--   social engineering;
--   elicitation;
--   coercion;
--   changing personal circumstances;
--   grievance;
--   or entirely legitimate activity interacting badly with weak
+- deliberate leaking;
+- accidental disclosure;
+- negligence;
+- excessive privilege;
+- compromised credentials;
+- a compromised endpoint;
+- social engineering;
+- elicitation;
+- coercion;
+- changing personal circumstances;
+- grievance;
+- or entirely legitimate activity interacting badly with weak
     controls.
 
 The person may be responsible for the problem.
@@ -621,7 +621,7 @@ They may also be the victim of somebody else's operation.
 
 Those possibilities require different evidence and different responses.
 
-------------------------------------------------------------------------
+---
 
 ## 🌍 There Is Also An Outside Of The House
 
@@ -629,7 +629,7 @@ Political reporting can become strangely closed-system.
 
 A White House story becomes a story about:
 
-``` text
+```text
 White House person
         ↓
 other White House person
@@ -650,15 +650,15 @@ different motives and capabilities.
 
 Those can include:
 
--   journalists;
--   political opponents;
--   activists;
--   criminals;
--   private intelligence actors;
--   hostile individuals;
--   foreign intelligence services;
--   proxies and intermediaries;
--   and other governments.
+- journalists;
+- political opponents;
+- activists;
+- criminals;
+- private intelligence actors;
+- hostile individuals;
+- foreign intelligence services;
+- proxies and intermediaries;
+- and other governments.
 
 The existence of any such actor does **not** establish their involvement
 in a particular incident.
@@ -682,7 +682,7 @@ See:
 [🇮🇷 Guys, You Are In A War,
 Remember](./🇮🇷_guys_you_are_in_a_war_remember.md).
 
-------------------------------------------------------------------------
+---
 
 ## 🦠 The Porosity Problem
 
@@ -692,7 +692,7 @@ Information does not exist only in documents.
 
 It exists in:
 
-``` text
+```text
 people
 meetings
 devices
@@ -713,13 +713,13 @@ inferred.
 
 Eventually the useful analytical object may cease to be:
 
-``` text
+```text
 WHO LEAKED?
 ```
 
 and become:
 
-``` text
+```text
 WHAT WAS THE EXPOSURE ARCHITECTURE?
 ```
 
@@ -733,7 +733,7 @@ The other investigates security.
 
 A competent incident investigation may need to do both.
 
-------------------------------------------------------------------------
+---
 
 ## 🔍 Finding Naughty Dave Does Not Necessarily Solve The Problem
 
@@ -749,14 +749,14 @@ One question has now been answered.
 
 But several others remain available:
 
--   Was Dave the only pathway?
--   Why could Dave access the information?
--   Was that access appropriate?
--   What controls should have constrained it?
--   Could the information have escaped independently?
--   Could another actor already have acquired it?
--   Did the incident reveal other weak interfaces?
--   Does removing Dave actually prevent recurrence?
+- Was Dave the only pathway?
+- Why could Dave access the information?
+- Was that access appropriate?
+- What controls should have constrained it?
+- Could the information have escaped independently?
+- Could another actor already have acquired it?
+- Did the incident reveal other weak interfaces?
+- Does removing Dave actually prevent recurrence?
 
 This produces a useful test:
 
@@ -770,7 +770,7 @@ If the answer is yes:
 Finding a culpable person can resolve a personnel problem while leaving
 the underlying exposure architecture intact.
 
-------------------------------------------------------------------------
+---
 
 ## 🕵️ Leak Investigation ≠ Security Investigation ≠ Counterintelligence Investigation
 
@@ -780,7 +780,7 @@ They are not interchangeable.
 
 ### Leak / Culpability Investigation
 
-``` text
+```text
 Who deliberately disclosed information?
 What rule or law was breached?
 What evidence establishes responsibility?
@@ -788,7 +788,7 @@ What evidence establishes responsibility?
 
 ### Security Investigation
 
-``` text
+```text
 What information escaped?
 Which pathways existed?
 Which controls failed?
@@ -798,7 +798,7 @@ How can recurrence be prevented?
 
 ### Counterintelligence Investigation
 
-``` text
+```text
 Did an external intelligence actor target,
 acquire, exploit or attempt to exploit
 the relevant environment?
@@ -808,7 +808,7 @@ Evidence developed in one inquiry may matter enormously to another.
 
 But solving one does not automatically solve the others.
 
-``` text
+```text
 DOMESTIC LEAKER IDENTIFIED
         ≠
 ALL EXPOSURE PATHWAYS IDENTIFIED
@@ -821,7 +821,7 @@ matters.
 
 The question defines the search space.
 
-------------------------------------------------------------------------
+---
 
 ## 📰 What The Press Should Ask
 
@@ -832,28 +832,28 @@ They need to avoid assuming it.
 
 Useful questions include:
 
--   What evidence establishes that this was a deliberate unauthorised
+- What evidence establishes that this was a deliberate unauthorised
     disclosure?
--   Which people had direct, indirect, technical, physical or contextual
+- Which people had direct, indirect, technical, physical or contextual
     access?
--   What *kind* of access did they have?
--   What clearance or vetting was normally required?
--   Had those requirements actually been completed?
--   If not, what interim or compensating controls existed?
--   What devices and communications systems were authorised?
--   Were personal devices or accounts capable of interacting with the
+- What *kind* of access did they have?
+- What clearance or vetting was normally required?
+- Had those requirements actually been completed?
+- If not, what interim or compensating controls existed?
+- What devices and communications systems were authorised?
+- Were personal devices or accounts capable of interacting with the
     environment?
--   Has technical compromise been investigated?
--   What access and audit logs exist?
--   Could metadata have exposed relevant patterns?
--   Could the information have been reconstructed from several
+- Has technical compromise been investigated?
+- What access and audit logs exist?
+- Could metadata have exposed relevant patterns?
+- Could the information have been reconstructed from several
     separately available facts?
--   What physical or observational access existed?
--   Which outside actors had plausible collection requirements?
--   Which exposure pathways have actually been investigated?
--   Has the organisation identified the exposure pathway, or merely
+- What physical or observational access existed?
+- Which outside actors had plausible collection requirements?
+- Which exposure pathways have actually been investigated?
+- Has the organisation identified the exposure pathway, or merely
     identified people who knew the information?
--   Most importantly: **if the alleged leaker disappeared tomorrow,
+- Most importantly: **if the alleged leaker disappeared tomorrow,
     would the same security failure still be possible?**
 
 That final question is particularly useful.
@@ -863,7 +863,7 @@ security problem.
 
 You have merely fired Dave.
 
-------------------------------------------------------------------------
+---
 
 ## ⚖️ Do Not Turn Uncertainty Into Espionage Allegations
 
@@ -883,7 +883,7 @@ evidence.
 
 Security analysis should preserve the distinctions:
 
-``` text
+```text
 possible pathway
         ↓
 evidence supporting pathway
@@ -917,7 +917,7 @@ discussed.
 
 It also makes genuine security criticism considerably harder to dismiss.
 
-------------------------------------------------------------------------
+---
 
 ## 🏛️ The Actual Lesson
 
@@ -968,28 +968,20 @@ Because if it doesn't:
 
 > **the call was never the whole fucking problem.**
 
-------------------------------------------------------------------------
+---
 
-## 🌌 Constellations
+## 🌌 Constellations  
+☎️ 🕸️ 🪪 🧩 🦠 — information exposure; leak attribution; personnel assurance; aggregation risk; institutional porosity.
 
-☎️ 🕸️ 🪪 👀 📱 🧩 📞 🥸 🧅 🦠 🇮🇷 --- information exposure; leak
-attribution; personnel assurance; access; endpoints; aggregation;
-metadata; insider risk; compartmentation; institutional porosity;
-hostile collection.
+## ✨ Stardust  
+information security, personnel security, unauthorised disclosure, insider risk, aggregation risk, compartmentation, counterintelligence, attribution, press literacy
 
-## ✨ Stardust
-
-information security, personnel security, security clearance,
-unauthorised disclosure, insider risk, attack surface, aggregation risk,
-compartmentation, endpoint security, information exposure,
-counterintelligence, attribution, metadata, press literacy
-
-------------------------------------------------------------------------
+---
 
 ## 🏮 Footer
 
 *☎️ The Call Is Coming From Inside The House* is a living node of the
-**Polaris Protocol**.\
+**Polaris Protocol**.
 It provides an introductory threat model for distinguishing deliberate
 leaking from the wider set of pathways through which sensitive
 information can become exposed, compromised or inferable. It is intended
@@ -998,44 +990,44 @@ institutions.
 
 > 📡 Cross-references:
 >
-> -   [🦑 Security Language For Normal
->     People](./🦑_security_language_for_normal_people.md) ---
+> - [🦑 Security Language For Normal
+>     People](./🦑_security_language_for_normal_people.md) —
 >     *plain-language distinctions between exposure, compromise,
 >     disclosure, insider threat, espionage and attribution*
-> -   [🪪 Clearance Is Not A
->     Lanyard](./🪪_clearance_is_not_a_lanyard.md) --- *personnel
+> - [🪪 Clearance Is Not A
+>     Lanyard](./🪪_clearance_is_not_a_lanyard.md) — *personnel
 >     assurance, vetting and access-control distinctions*
-> -   [👀 Access Is More Than Opening The
->     Document](./👀_access_is_more_than_opening_the_document.md) ---
+> - [👀 Access Is More Than Opening The
+>     Document](./👀_access_is_more_than_opening_the_document.md) —
 >     *direct, indirect, physical and contextual access*
-> -   [📱 The Phone Is Part Of The Security
->     Boundary](./📱_the_phone_is_part_of_the_security_boundary.md) ---
+> - [📱 The Phone Is Part Of The Security
+>     Boundary](./📱_the_phone_is_part_of_the_security_boundary.md) —
 >     *devices, accounts and communications as exposure surfaces*
-> -   [🧩 A Plus B Plus C Equals
->     Classified](./🧩_a_plus_b_plus_c_equals_classified.md) ---
+> - [🧩 A Plus B Plus C Equals
+>     Classified](./🧩_a_plus_b_plus_c_equals_classified.md) —
 >     *aggregation and inferential disclosure*
-> -   [📞 Metadata Can Tell The
->     Story](./📞_metadata_can_tell_the_story.md) --- *intelligence
+> - [📞 Metadata Can Tell The
+>     Story](./📞_metadata_can_tell_the_story.md) — *intelligence
 >     value in relationships, timing and patterns*
-> -   [🕸️ You Do Not Need A Leaker](./🕸️_you_do_not_need_a_leaker.md)
->     --- *non-deliberate pathways to information compromise*
-> -   [🥸 Insider Threat Does Not Mean
->     Spy](./🥸_insider_threat_does_not_mean_spy.md) ---
+> - [🕸️ You Do Not Need A Leaker](./🕸️_you_do_not_need_a_leaker.md)
+>     — *non-deliberate pathways to information compromise*
+> - [🥸 Insider Threat Does Not Mean
+>     Spy](./🥸_insider_threat_does_not_mean_spy.md) —
 >     *insider-associated risk without premature allegations of
 >     espionage*
-> -   [🧅 Compartmentation Exists For A
->     Reason](./🧅_compartmentation_exists_for_a_reason.md) ---
+> - [🧅 Compartmentation Exists For A
+>     Reason](./🧅_compartmentation_exists_for_a_reason.md) —
 >     *limiting the consequences of inevitable failures*
-> -   [🦠 Porosity Is A Security
->     Failure](./🦠_porosity_is_a_security_failure.md) --- *systemic
+> - [🦠 Porosity Is A Security
+>     Failure](./🦠_porosity_is_a_security_failure.md) — *systemic
 >     exposure architecture beyond individual culpability*
-> -   [🇮🇷 Guys, You Are In A War,
->     Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) --- *the
+> - [🇮🇷 Guys, You Are In A War,
+>     Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) — *the
 >     contemporary external threat and collection environment*
-> -   [✍️ Questions Journalists Should Actually
->     Ask](./✍️_questions_journalists_should_actually_ask.md) ---
+> - [✍️ Questions Journalists Should Actually
+>     Ask](./✍️_questions_journalists_should_actually_ask.md) —
 >     *practical reporting prompts for security incidents*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-21*
+_Last updated: 2026-08-21_
