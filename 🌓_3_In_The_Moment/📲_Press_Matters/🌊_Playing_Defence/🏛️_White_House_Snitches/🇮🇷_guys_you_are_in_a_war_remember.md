@@ -1,4 +1,4 @@
-# 🇮🇷 Guys, You Are In A War. Remember?
+﻿# 🇮🇷 Guys, You Are In A War. Remember?
 **First created:** 2026-08-21 | **Last updated:** 2026-08-21  
 *Why security posture has to reflect the threat environment you are actually operating in — including multiple capable foreign intelligence collectors — without turning vulnerability into attribution.*
 
@@ -22,7 +22,9 @@ And somewhere outside the frame sits the rather important question:
 
 > **Guys. You are in a war. Remember?**
 
-Or, more precisely: you are operating in an environment of acute interstate confrontation in which hostile intelligence collection and cyber activity should already form part of the defensive threat model.
+Or, more precisely: as of August 2026, the United States is not merely operating amid abstract geopolitical tension with Iran. US forces have conducted strikes against Iranian territory, and official US intelligence reporting describes Iran as being in active conflict with the United States.
+
+That makes the omission of the external collection environment particularly strange.
 
 And Iran is not the only state with an intelligence service.
 
@@ -87,6 +89,42 @@ You cannot sensibly evaluate one while pretending the others do not exist.
 
 ---
 
+## 🌊 You Bombed A Sovereign State
+
+This is not a metaphorical use of **war**.
+
+The United States has used military force against targets on Iranian territory. Public US government material in 2026 refers to Operation Epic Fury, retaliatory strikes against Iran and continuing US operations and pressure against Iran.
+
+Whatever legal, political or strategic description individual actors prefer for particular phases of that confrontation, the security consequence is uncomplicated:
+
+> **Iran has exceptionally strong reasons to want to understand American intentions, capabilities, decision-making and next moves.**
+
+That proposition does not require sympathy for Iran.
+
+It does not require approval of Iranian conduct.
+
+It does not establish Iranian responsibility for any particular security incident.
+
+It requires only noticing the environment the United States itself helped create.
+
+If you conduct military operations against another sovereign state, it would be extraordinary to build the security posture around senior decision-making as though that state's intelligence services might not take an interest.
+
+```text
+US MILITARY ACTION AGAINST IRAN
+        +
+IRANIAN INTELLIGENCE REQUIREMENTS
+        +
+HIGH-VALUE US DECISION-MAKING ENVIRONMENT
+        ↓
+COUNTERINTELLIGENCE RELEVANCE
+```
+
+Not attribution.
+
+Relevance.
+
+---
+
 ## 🌊 War Changes The Baseline
 
 Periods of military confrontation produce intelligence requirements.
@@ -140,6 +178,8 @@ The security principle is broader.
 
 The United States operates in an intelligence environment containing multiple sophisticated foreign collectors.
 
+The US Intelligence Community's own 2026 public threat assessment identifies China, Russia, Iran and North Korea among the state cyber threats to US networks and critical infrastructure, while describing China and Russia as particularly persistent threats and Iran as retaining intent to target the United States and its allies through cyber operations.
+
 China has intelligence requirements concerning American political, military, technological and strategic decision-making.
 
 Russia has intelligence requirements concerning American political, military, technological and strategic decision-making.
@@ -147,6 +187,8 @@ Russia has intelligence requirements concerning American political, military, te
 Iran has intelligence requirements concerning American political, military, technological and strategic decision-making.
 
 Those requirements can overlap.
+
+Their relationships can also include selective cooperation. But selective cooperation is not the same thing as a single command structure, identical interests or one unified intelligence operation.
 
 That does not mean the states are operating one unified intelligence programme.
 
@@ -157,6 +199,8 @@ shared collection operation
 ```
 
 Nor does the existence of several plausible collectors allow an analyst to simply select whichever one makes the best story.
+
+And the actors should not be flattened into one interchangeable **Iran–Russia–China axis**. Different states have different intelligence requirements, capabilities, relationships, constraints and incentives. Threat modelling becomes worse, not better, when a geopolitical label replaces actor-specific analysis.
 
 The point is much more basic.
 
@@ -231,6 +275,68 @@ acquired useful information from this environment?
 An investigation may need to ask both.
 
 Answering the first does not automatically answer the second.
+
+---
+
+## 👱 Counterintelligence By Vibes Is Still Counterintelligence By Vibes
+
+There is another reason the external threat environment can disappear from view.
+
+People carry cultural pictures of what a foreign-intelligence threat is supposed to look like.
+
+That can produce two opposite errors.
+
+```text
+LOOKS FOREIGN
+        ↓
+OVER-SUSPICION
+
+LOOKS FAMILIAR / "ALL-AMERICAN"
+        ↓
+UNDER-SUSPICION
+```
+
+Both are bad security.
+
+A blonde American woman does not become a plausible foreign agent because she is blonde, American or a woman.
+
+Nor does she become security-assured by those characteristics.
+
+Likewise, somebody who looks, sounds or is perceived as Iranian, Russian, Chinese, Arab, Muslim, foreign or otherwise culturally unfamiliar does not become suspicious by category.
+
+The entire point of professional security processes is to replace racialised, gendered and cultural intuition with evidence and assurance.
+
+```text
+FAMILIARITY
+        ≠
+ASSURANCE
+
+FOREIGNNESS
+        ≠
+THREAT
+
+DEMOGRAPHIC STEREOTYPE
+        ≠
+COUNTERINTELLIGENCE ASSESSMENT
+```
+
+This matters because hostile intelligence collection has never required the person nearest the target to resemble a public stereotype of the hostile state.
+
+Sometimes the person is knowingly cooperative.
+
+Sometimes they are manipulated.
+
+Sometimes their account or device is the relevant surface.
+
+Sometimes they are merely observable.
+
+Sometimes there is no human cooperation at all.
+
+If your security model depends on recognising the villain by appearance, you do not have a security model.
+
+You have casting.
+
+See [🍯 Honeypots Are Not Magic](./🍯_honeypots_are_not_magic.md).
 
 ---
 
@@ -559,6 +665,52 @@ That is pointing dramatically at the map.
 
 ---
 
+## 🕶️ Public Framing Is Not Necessarily The Whole Investigation
+
+There is one important restraint on criticism of public reporting.
+
+The public story may not reproduce the entire security or counterintelligence investigation.
+
+Agencies can have legitimate reasons not to disclose:
+
+- investigative hypotheses;
+- collection capabilities;
+- known vulnerabilities;
+- counterintelligence concerns;
+- technical indicators;
+- sources and methods;
+- or confidence in an attribution still being tested.
+
+It is therefore possible for public discussion to remain framed around a domestic leak inquiry while additional possibilities are being examined elsewhere.
+
+But that possibility should remain a possibility.
+
+```text
+PUBLIC REPORTING OMITS X
+        ≠
+GOVERNMENT FAILED TO CONSIDER X
+```
+
+Equally:
+
+```text
+GOVERNMENT MAY HAVE CONSIDERED X
+        ≠
+JOURNALISTS SHOULD NEVER ASK ABOUT X
+```
+
+The press can ask whether technical compromise, foreign collection, aggregation and other acquisition pathways were examined without demanding disclosure of operationally sensitive details.
+
+And absent evidence, it should not invent a secret instruction from the FBI, CIA, NSA, DHS or anybody else to explain why the public framing looks the way it does.
+
+The disciplined formulation is simply:
+
+> **We do not know whether the public leak narrative exhausts the government's internal threat model.**
+
+That uncertainty is itself a reason to ask better questions.
+
+---
+
 ## 📰 Questions Journalists Should Actually Ask
 
 When a security irregularity occurs during a period of acute interstate confrontation, reporting should distinguish **risk questions** from **attribution questions**.
@@ -566,8 +718,10 @@ When a security irregularity occurs during a period of acute interstate confront
 Useful questions include:
 
 - What foreign-intelligence threat assessments applied to this institution at the relevant time?
+- How did direct US–Iran military confrontation alter the relevant threat model?
 - Had the assessed threat environment changed because of military or political developments?
 - Which foreign actors had plausible collection requirements against the relevant institution or decision-making environment?
+- Are Iran, Russia, China and other actors being assessed separately rather than collapsed into one geopolitical category?
 - What information would those actors plausibly have wanted?
 - Which people, systems and relationships could expose that information?
 - Were normal personnel-security requirements completed?
@@ -615,6 +769,8 @@ None of it establishes that any particular person has done anything wrong.
 
 It simply changes the standard against which your defensive posture should be judged.
 
+And in the US–Iran case, this is not merely a theoretical background condition. The United States has itself conducted military operations against Iran, while its own Intelligence Community publicly identifies Iran as an active cyber and intelligence threat and describes the wider state threat environment as including China and Russia as persistent collectors.
+
 Because the correct time to remember that foreign intelligence services exist is preferably **before** discovering an unexplained information-security problem.
 
 Iran.
@@ -622,6 +778,8 @@ Iran.
 Russia.
 
 China.
+
+North Korea.
 
 Potentially others.
 
@@ -643,14 +801,14 @@ Guys.
 
 ## ✨ Stardust
 
-information security, threat modelling, iran, russia, china, foreign intelligence, counterintelligence, cyber operations, attack surface, attribution
+information security, threat modelling, iran, russia, china, north korea, foreign intelligence, counterintelligence, cyber operations, attack surface, attribution, racialised threat perception
 
 ---
 
 ## 🏮 Footer
 
 *🇮🇷 Guys, You Are In A War. Remember?* is a living node of the **Polaris Protocol**.  
-It situates personnel and information-security failures within the external threat environment in which they occur, including the existence of multiple capable foreign intelligence collectors, while preserving the evidential boundary between identifying a vulnerability, assessing a plausible threat and attributing actual exploitation.
+It situates personnel and information-security failures within the external threat environment in which they occur, including direct US–Iran military confrontation and the existence of multiple capable foreign intelligence collectors, while preserving the evidential boundary between identifying a vulnerability, assessing a plausible threat and attributing actual exploitation.
 
 > 📡 Cross-references:
 >
@@ -659,8 +817,17 @@ It situates personnel and information-security failures within the external thre
 > - [📱 The Phone Is Part Of The Security Boundary](./📱_the_phone_is_part_of_the_security_boundary.md) — *devices, accounts and communications as security surfaces*
 > - [🧩 A Plus B Plus C Equals Classified](./🧩_a_plus_b_plus_c_equals_classified.md) — *aggregation and inferential disclosure*
 > - [🕸️ You Do Not Need A Leaker](./🕸️_you_do_not_need_a_leaker.md) — *information compromise without deliberate disclosure*
+> - [🍯 Honeypots Are Not Magic](./🍯_honeypots_are_not_magic.md) — *why targeting, technical exploitation and occupational proximity do not require the cinematic seduction-and-recruitment model*
+> - [🦠 Porosity Is A Security Failure](./🦠_porosity_is_a_security_failure.md) — *why the external threat environment changes the significance of weak seams and unmanaged exceptions*
+> - [🛡️ Useful Old-School Defence Expertise](./🛡️_useful_old_school_defence_expertise.md) — *defensive expertise for translating the threat environment into practical assurance*
 > - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting questions that distinguish threat assessment from attribution*
 > - [🇮🇷 Data Wars — IRGC Edition](../🇮🇷_Data_Wars_IRGC_Edition/) — *wider Iran conflict, cyber-threat and essential-infrastructure analysis*
+
+### 📚 Current-context sources
+
+- Office of the Director of National Intelligence, *2026 Annual Threat Assessment of the U.S. Intelligence Community* — public assessment of China, Russia, Iran, North Korea and cyber threats to US networks; also describes Iran as in active conflict with the United States at the time of publication.
+- The White House, 8 July 2026 — public description of US retaliatory strikes against Iran.
+- The White House, 28 July 2026 — public update describing continuing US operations and pressure against Iran.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
