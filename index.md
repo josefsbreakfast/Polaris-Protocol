@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-21 00:58:47 UTC_
+_Generated on 2026-08-21 01:00:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3565,6 +3565,7 @@ _Generated on 2026-08-21 00:58:47 UTC_
         - [`🦠_porosity_is_a_security_failure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🦠_porosity_is_a_security_failure.md)
         - [`🧅_compartmentation_exists_for_a_reason.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🧅_compartmentation_exists_for_a_reason.md)
         - [`🧩_a_plus_b_plus_c_equals_classified.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🧩_a_plus_b_plus_c_equals_classified.md)
+        - [`🧬_the_attack_surface_has_more_than_one_strand.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🧬_the_attack_surface_has_more_than_one_strand.md)
         - [`🪪_clearance_is_not_a_lanyard.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🪪_clearance_is_not_a_lanyard.md)
       - [**🏝️_Chagos_Complexities/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/notes.txt)
