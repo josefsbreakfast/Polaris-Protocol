@@ -1,562 +1,538 @@
-# 🌱 Foundations Of Containment  
-**First created:** 2026-05-13 | **Last updated:** 2026-05-28  
-*Core conceptual grammar for how systems construct, maintain, justify, normalise, and reproduce containment across institutional, emotional, ecological, symbolic, and governance systems.*  
+# 🌱 Foundations Of Containment
+**First created:** 2026-05-27 | **Last updated:** 2026-08-22  
+*Foundational systems grammar for understanding containment: what it is, why it arises, how it regulates pressure, how it learns or hardens, and where its limits lie.*
 
 ---
 
-> “Containment is not only about walls.  
-> It is about how systems attempt to remain survivable under pressure.”  
+> “Containment is not one mechanism.  
+> It is a family of ways systems regulate instability, exchange, pressure, and continuity.”
 
 ---
 
-## 🛰️ Orientation  
+## 🛰️ Orientation
 
-**Foundations Of Containment** establishes the conceptual grammar underlying the wider **🌸 Containment Studies** cluster.
+**Foundations Of Containment** provides the core analytical grammar for **🌸 Containment Studies**.
 
-It examines containment as:
-- a governance reflex,
-- a survival strategy,
-- a coordination mechanism,
-- an organisational technology,
-- a psychological adaptation,
-- and a symbolic ordering system.
+The folder begins from a simple premise:
 
-The cluster studies how systems:
-- regulate instability,
-- distribute pressure,
-- preserve continuity,
-- manage complexity,
-- justify restriction,
-- and maintain governability under changing conditions.
+> systems regulate instability in order to remain systems.
 
-Containment is approached here not as a singular political doctrine, but as:
-> a recurring structural pattern appearing across:
-- states,
-- institutions,
-- platforms,
-- bureaucracies,
-- infrastructures,
-- cultures,
+That regulation may involve:
+- boundaries,
+- filtering,
+- pacing,
+- buffering,
+- pressure distribution,
+- restriction,
+- selective exchange,
+- feedback,
+- adaptation,
+- or temporary closure.
+
+Containment is therefore broader than:
+- imprisonment,
+- suppression,
+- censorship,
+- emergency powers,
+- institutional control,
+- or coercion.
+
+Those may all be forms of containment.
+
+But containment also appears in:
+- cells,
+- ecosystems,
+- infrastructure,
+- information systems,
 - organisations,
-- families,
-- bodies,
-- and emotional systems.
+- relationships,
+- care systems,
+- and ordinary forms of coordination.
 
-This cluster therefore operates as:
-> the root systems grammar for containment analysis across the wider archive.
+The foundational task is not to assume that containment is:
+- good,
+- bad,
+- protective,
+- coercive,
+- adaptive,
+- or pathological.
+
+It is to ask:
+
+> what is being regulated, through what structure, under what pressure, with what consequences, and with what capacity for correction?
 
 ---
 
-# 🧭 How To Read This Cluster  
+## 🧭 The Foundational Grammar
 
-This cluster is designed progressively.
+The nodes in this folder form a progressive analytical sequence.
 
-The nodes move from:
-- foundational definitions,
-toward:
-- systemic dynamics,
-- governance mechanics,
-- psychological internalisation,
-- and recursive failure systems.
+They are not eleven unrelated essays.
 
-The overall reading flow roughly follows:
+Together, they ask:
 
 ```text
-Core Definitions
+What is containment?
         ↓
-Pressure & Stability Dynamics
+How is a boundary formed?
         ↓
-Governance & Legibility
+What pressure is being regulated?
         ↓
-Time & Emergency Systems
+Why did containment arise?
         ↓
-Internalisation & Identity
+Is it protective or coercive?
         ↓
-Recursion, Scale & Failure
+Where does the pressure go?
+        ↓
+Can consequences return as feedback?
+        ↓
+Can the system adapt?
+        ↓
+Does containment reproduce itself?
+        ↓
+How does containment fail?
+        ↓
+Where are its scope and limits?
 ```
 
-Readers do not need to approach the cluster linearly.
+Each node owns one part of that grammar.
 
-However, the sections are grouped to gradually build:
-- conceptual vocabulary,
-- systems literacy,
-- governance analysis,
-- and adaptive containment theory.
-
----
-
-# 🌱 1. Core Definitions  
-
-*Foundational concepts establishing what containment is, why systems create it, and how legitimacy shapes stabilisation structures.*
+The aim is to keep foundational concepts:
+- distinct enough to remain analytically useful,
+- connected enough to describe whole systems,
+- and portable enough to apply across different scales.
 
 ---
 
-## 🌱 [What Is Containment?](./🌱_what_is_containment.md)  
+## 🌑 What Is Containment
 
-Defines containment as a systemic process for managing:
-- instability,
-- uncertainty,
+[🌑 What Is Containment](./🌑_what_is_containment.md) provides the primary definition.
+
+It establishes containment as a family of regulatory processes through which systems attempt to:
+- preserve coherence,
+- manage instability,
+- regulate exchange,
+- reduce overload,
+- or maintain continuity.
+
+This is the entry point for the folder.
+
+Its primary question is:
+
+> **what do we mean when we call something containment?**
+
+---
+
+## 🧱 Boundary And Membrane
+
+[🧱 Boundary And Membrane](./🧱_boundary_and_membrane.md) establishes the basic structural form through which containment becomes possible.
+
+It distinguishes:
+- boundary,
+- barrier,
+- wall,
+- membrane,
+- permeability,
+- selectivity,
+- channels,
+- and interfaces.
+
+Its central proposition is:
+
+> **containment does not require closure; it requires some capacity to regulate passage.**
+
+Its primary question is:
+
+> **how does a system distinguish and regulate exchange between inside, outside, and across?**
+
+---
+
+## 🌊 Stability And Overflow
+
+[🌊 Stability And Overflow](./🌊_stability_and_overflow.md) establishes the relationship between:
+- load,
+- capacity,
+- buffering,
+- metabolisation,
+- accumulation,
+- release,
+- leakage,
 - overflow,
-- contradiction,
-- and perceived threat.
+- and rupture.
 
-Introduces containment as:
-- boundary formation,
-- pressure regulation,
-- behavioural coordination,
-- symbolic ordering,
-- and governability production.
+It rejects the idea that stability means stillness.
 
-Establishes the archive’s baseline definition of containment.
+Its central proposition is:
 
----
+> **living stability is the capacity to process movement and pressure without losing viability.**
 
-## 🌱 [Boundary And Membrane](./🌱_boundary_and_membrane.md)  
+Its primary question is:
 
-Examines the distinction between:
-- rigid enclosure,
-- adaptive boundaries,
-- permeable membranes,
-- and living regulatory systems.
-
-Explores how healthy systems regulate exchange without collapsing into:
-- total openness,
-or:
-- total closure.
-
-Introduces the recurring contrast:
-> walls versus membranes.
+> **what is the system trying to regulate, and what happens when available capacity is exceeded?**
 
 ---
 
-## 🌱 [Why Systems Contain](./🌱_why_systems_contain.md)  
+## 🫀 Containment As Survival Reflex
 
-Explores the incentives driving containment formation.
+[🫀 Containment As Survival Reflex](./🫀_containment_as_survival_reflex.md) examines why systems repeatedly reach for containment under perceived threat.
 
-Includes:
-- crisis coordination,
-- legitimacy preservation,
-- fear management,
-- institutional continuity,
-- predictability,
-- and survivability pressures.
-
-Examines why containment frequently appears rational and necessary from within stressed systems.
-
----
-
-## 🌱 [Protective Vs Coercive Containment](./🌱_protective_vs_coercive_containment.md)  
-
-Distinguishes between containment that:
-- protects,
-- stabilises,
-- and distributes pressure safely,
-
-versus containment that:
-- extracts,
-- suppresses,
-- immobilises,
-- or concentrates vulnerability.
-
-Examines how systems often move between these poles over time.
-
----
-
-## 🌱 [Containment And Legitimacy](./🌱_containment_and_legitimacy.md)  
-
-Explores the relationship between:
-- governability,
-- legitimacy,
-- compliance,
-- trust,
-- and social endurance.
-
-Examines:
-- when containment is tolerated,
-- when it becomes contested,
-- and how legitimacy shapes perceived acceptability of restriction and enforcement.
-
-Acts as a major bridge node between:
-> 🌸 Containment Studies  
-and  
-> 🧄 Exousiología.
-
----
-
-# 🌊 2. Pressure, Stability & Flow Dynamics  
-
-*How systems metabolise instability, distribute pressure, and respond to overload conditions.*
-
----
-
-## 🌱 [Stability And Overflow](./🌱_stability_and_overflow.md)  
-
-Studies how systems respond to:
-- excess,
-- unpredictability,
+It treats containment as a recurring response to:
 - overload,
+- uncertainty,
+- coordination failure,
+- rapid change,
 - contradiction,
-- and accumulation pressure.
+- and threatened continuity.
 
-Examines:
+Its central proposition is:
+
+> **compression can often be activated faster than adaptation.**
+
+Its primary question is:
+
+> **why does instability make containment attractive?**
+
+---
+
+## ⚖️ Protective Vs Coercive Containment
+
+[⚖️ Protective Vs Coercive Containment](./⚖️_protective_vs_coercive_containment.md) establishes the foundational normative distinction.
+
+Not all containment is coercive.
+
+Not all containment described as protective remains protective.
+
+The node asks how to distinguish regulation that:
+- preserves viable boundaries,
+- protects against genuine hazards,
+- creates survivable conditions,
+- or supports recovery
+
+from containment that increasingly depends upon:
+- imposed restriction,
+- asymmetric burden,
+- domination,
+- enclosure,
+- or suppression of legitimate exit and correction.
+
+Its primary question is:
+
+> **what distinguishes protective regulation from coercive enclosure?**
+
+---
+
+## 🕸️ Pressure Distribution
+
+[🕸️ Pressure Distribution](./🕸️_pressure_distribution.md) asks where systemic load goes once it is regulated.
+
+It establishes a grammar of:
+- absorption,
+- diffusion,
+- redistribution,
+- transfer,
+- concentration,
+- externalisation,
+- pressure sinks,
+- and sacrifice zones.
+
+Its central proposition is:
+
+> **containment does not make pressure disappear; it changes where, how, and by whom pressure is carried.**
+
+Its primary question is:
+
+> **who or what is carrying the stability of the rest of the system?**
+
+---
+
+## ♻️ Containment And Feedback
+
+[♻️ Containment And Feedback](./♻️_containment_and_feedback.md) examines whether information about the consequences of containment can return into the system.
+
+It distinguishes:
+- signal,
+- feedback,
+- uptake,
+- correction,
+- sensing,
+- recognition,
+- feedback delay,
+- and feedback blindness.
+
+Its central proposition is:
+
+> **a containment system remains corrigible only while information about its effects can return to somewhere capable of changing it.**
+
+Its primary question is:
+
+> **can the system perceive what its containment is doing?**
+
+---
+
+## 🪲 Adaptive Vs Rigid Systems
+
+[🪲 Adaptive Vs Rigid Systems](./🪲_adaptive_vs_rigid_systems.md) asks whether containment arrangements can change when conditions change.
+
+It distinguishes:
+- adjustment,
+- adaptation,
+- transformation,
+- rigidity,
+- resilience,
+- optimisation,
+- slack,
+- redundancy,
+- reversibility,
+- and recovery capacity.
+
+Its central proposition is:
+
+> **adaptation is the capacity to change containment while preserving viability; rigidity is the loss or refusal of that capacity.**
+
+Its primary question is:
+
+> **can the system change what it is doing when its existing containment no longer fits reality?**
+
+---
+
+## 🧬 Recursive Containment
+
+[🧬 Recursive Containment](./🧬_recursive_containment.md) examines how containment can generate conditions that call forth further containment.
+
+The node develops the transition from:
+- containment as response,
+to:
+- containment as self-reproducing system dynamic.
+
+Its primary question is:
+
+> **when does containment begin producing the instability, blindness, dependency, or pressure used to justify more containment?**
+
+---
+
+## 🦖 Containment Failure Modes
+
+[🦖 Containment Failure Modes](./🦖_containment_failure_modes.md) examines how containment ceases to perform its stabilising function.
+
+Failure may involve:
+- brittleness,
+- overload,
 - leakage,
 - rupture,
-- suppression,
-- buffering,
-- and overflow dynamics.
+- exhausted pressure sinks,
+- loss of legitimacy,
+- coordination failure,
+- or inability to maintain the containment structure itself.
 
-Asks:
-> what kinds of instability systems can metabolise,
-> and what kinds they attempt to suppress.
+Its primary question is:
 
----
-
-## 🌱 [Pressure Distribution](./🌱_pressure_distribution.md)  
-
-Examines how systems:
-- allocate instability,
-- distribute burden,
-- conceal maintenance labour,
-- and externalise overload.
-
-Studies:
-- hidden load-bearing structures,
-- sacrifice concentration,
-- emotional labour,
-- and legitimacy through pressure allocation.
-
-Introduces the recurring question:
-> who absorbs systemic strain?
+> **how does containment become non-viable?**
 
 ---
 
-## 🌱 [Containment As Survival Reflex](./🌱_containment_as_survival_reflex.md)  
+## 🐙 Scope And Limits Of Containment
 
-Examines containment as:
-- a biological,
-- psychological,
-- institutional,
-- and civilisational survival mechanism.
+[🐙 Scope And Limits Of Containment](./🐙_scope_and_limits_of_containment.md) examines what containment may legitimately or functionally encompass.
 
-Explores:
-- overload response,
-- boundary hardening,
-- emergency coordination,
-- and chronic defensive activation.
+It provides the grammar for:
+- mandate,
+- proportionality,
+- duration,
+- jurisdiction,
+- expansion,
+- exception,
+- review,
+- rollback,
+- and termination.
 
-Asks:
-> when survival reflexes preserve continuity,
-> and when they become permanently destabilising.
+Its primary question is:
+
+> **how far may containment extend, for how long, and under what conditions must it stop?**
 
 ---
 
-## 🌱 [Adaptive Vs Rigid Systems](./🌱_adaptive_vs_rigid_systems.md)  
+## 🧩 Reading The Nodes Together
 
-Explores how systems respond differently to:
-- pressure,
-- contradiction,
-- instability,
-- and environmental change.
+The foundational nodes can be used sequentially, but they also function as a diagnostic matrix.
 
-Distinguishes between:
-- adaptive metabolisation systems,
-and:
-- rigid suppression systems.
+A containment system can be examined by asking:
 
-Studies:
-- feedback,
+| Dimension | Foundational question |
+|---|---|
+| definition | what is being contained or regulated? |
+| structure | what boundary or membrane performs the regulation? |
+| pressure | what load, instability, or overflow is being managed? |
+| activation | why did the containment response arise? |
+| normativity | is the containment protective, coercive, or changing between the two? |
+| distribution | where do pressure and costs go? |
+| feedback | can consequences return as usable information? |
+| adaptation | can the system revise itself when conditions change? |
+| recursion | does containment generate conditions for more containment? |
+| failure | how does the containment arrangement cease to function? |
+| scope | what are its mandate, duration, jurisdiction, and stopping conditions? |
+
+This allows the same grammar to be used across:
+- biological systems,
+- ecological systems,
+- technical systems,
+- institutions,
+- organisations,
+- governance,
+- social systems,
+- and interpersonal or embodied environments
+
+without pretending those systems are identical.
+
+The comparison is structural.
+
+The scale, stakes, agency, legitimacy, and consequences must still be analysed on their own terms.
+
+---
+
+## 🌌 Neighbouring Origin Points
+
+Containment Studies is designed to remain analytically distinct from, while interoperating with, neighbouring Origin Points.
+
+### 🧄 Exousiología
+
+[🧄 Exousiología](../../🧄_Exousiología/README.md) develops a grammar of authority centred on:
+- legitimacy,
+- stewardship,
+- corrigibility,
+- revocability,
+- survivable burden-sharing,
 - resilience,
-- brittleness,
-- and survivability across time.
+- and long-horizon livability.
 
----
+The relationship can be stated simply:
 
-# ⚖️ 3. Governance, Legibility & Complexity  
+> **Containment Studies describes how systems regulate instability and what follows from those regulatory choices. Exousiología asks what legitimate authority should be permitted to do with that power.**
 
-*How systems operationalise containment through visibility, abstraction, proceduralisation, and administrative coordination.*
+Several foundational concepts deliberately touch:
 
----
+- **♻️ Containment And Feedback** ↔ **🐍 Non-Closure Principle**
+- **🕸️ Pressure Distribution** ↔ **🕸️ Justice As Load-Bearing**
+- **🪲 Adaptive Vs Rigid Systems** ↔ **🪲 Resilience Over Optimisation**
+- **🐙 Scope And Limits Of Containment** ↔ **🐙 Scope And Limits**
+- **🦖 Containment Failure Modes** ↔ **🦖 Failure And Revocability**
 
-## 🌱 [Governability And Complexity](./🌱_governability_and_complexity.md)  
+The overlap is connective rather than duplicative.
 
-Examines how systems compress complexity into:
-- manageable,
-- governable,
-- administratively survivable forms.
+### 🪿 Embodied Information Ecology
 
-Explores:
-- simplification,
-- proceduralisation,
-- ambiguity reduction,
-- and complexity management under scale pressure.
-
----
-
-## 🌱 [Containment And Visibility](./🌱_containment_and_visibility.md)  
-
-Studies how systems regulate:
-- visibility,
-- perception,
+[🪿 Embodied Information Ecology](../../🪿_Embodied_Information_Ecology/README.md) examines how information behaves in lived systems through:
+- embodiment,
+- sensing,
+- feedback,
+- environment,
 - attention,
-- and public reality.
+- cybernetics,
+- and information ecology.
 
-Explores:
-- symbolic acknowledgement,
-- narrative pacing,
-- visibility suppression,
-- and perceptual governance systems.
+Its relationship to Containment Studies is observational and ecological.
 
----
+> **Containment Studies asks how systems regulate instability. Embodied Information Ecology examines the information environments through which those systems sense, respond, learn, and become shaped by their surroundings.**
 
-## 🌱 [Legibility And Management](./🌱_legibility_and_management.md)  
+This is especially relevant to:
+- feedback,
+- sensing,
+- permeability,
+- adaptation,
+- and recursive system behaviour.
 
-Examines how systems render reality:
-- measurable,
-- categorisable,
-- administratively actionable,
-- and governable.
+Containment Studies does not replace those analyses.
 
-Studies:
-- metrics,
-- procedural abstraction,
-- behavioural adaptation,
-- and management through visibility infrastructures.
+It provides a containment grammar through which some of their system dynamics can be described.
 
 ---
 
-# ⏳ 4. Time, Crisis & Emergency Systems  
+## 🧭 Using The Foundations
 
-*How systems govern through pacing, delay, emergency temporality, and procedural duration.*
+The Foundations are intended as reusable analytical infrastructure.
 
----
+A later Containment Studies node does not need to rebuild the entire theory each time.
 
-## 🌱 [Containment And Time](./🌱_containment_and_time.md)  
+It can instead ask which foundational dynamics are active.
 
-Explores:
-- pacing,
-- delay,
-- urgency,
-- waiting,
-- procedural duration,
-- and temporal pressure distribution.
+For example:
 
-Examines how systems govern through:
-> tempo itself.
+```text
+boundary hardening
+        +
+pressure externalisation
+        +
+feedback blindness
+        +
+low adaptive capacity
+        ↓
+possible recursive containment
+```
 
----
+Or:
 
-## 🌱 [Temporary Measures And Permanent Systems](./🌱_temporary_measures_and_permanent_systems.md)  
+```text
+temporary restriction
+        +
+clear scope
+        +
+distributed burden
+        +
+working feedback
+        +
+reversibility
+        ↓
+potentially protective containment
+```
 
-Studies how:
-- emergency systems,
-- crisis infrastructures,
-- and temporary restrictions
+The point is not to turn complex systems into formulas.
 
-become:
-- permanent governance architecture.
-
-Explores:
-- exception creep,
-- procedural permanence,
-- institutional dependency,
-- and chronic emergency systems.
-
----
-
-# 🧠 5. Internalisation, Symbolism & Identity  
-
-*How containment migrates inward into identity, emotion, symbolism, behaviour, and self-governance systems.*
-
----
-
-## 🌱 [Internalised Containment](./🌱_internalised_containment.md)  
-
-Examines how systems become embedded within:
-- self-regulation,
-- anticipatory compliance,
-- emotional management,
-- and behavioural adaptation.
-
-Explores:
-- self-monitoring,
-- navigational behaviour,
-- professionalism,
-- and survival-oriented identity formation.
+It is to provide enough shared grammar that different cases can be compared without flattening their differences.
 
 ---
 
-## 🌱 [Symbolic Containment](./🌱_symbolic_containment.md)  
+## 🔍 Foundational Questions
 
-Studies how systems stabilise themselves through:
-- ritual,
-- aesthetics,
-- narrative,
-- emotional choreography,
-- and symbolic legitimacy.
+When approaching a containment system, ask:
 
-Explores:
-- performative continuity,
-- symbolic reassurance,
-- composure culture,
-- and containment through meaning systems.
-
----
-
-## 🌱 [Containment And Identity](./🌱_containment_and_identity.md)  
-
-Examines how identities function as:
-- governance infrastructure,
-- behavioural regulation systems,
-- symbolic boundary structures,
-- and belonging architectures.
-
-Studies:
-- identity policing,
-- conditional belonging,
-- symbolic loyalty,
-- and adaptive versus rigid affiliation systems.
+- What is being contained, regulated, filtered, paced, or bounded?
+- What boundary makes that regulation possible?
+- What pressure or instability is the system responding to?
+- Is the activating threat actual, perceived, or both?
+- What function is containment intended to preserve?
+- Is the containment protective, coercive, or moving between those forms?
+- Where does the pressure go?
+- Who or what bears the cost of stability?
+- What consequences remain visible to the system?
+- What consequences have moved beyond its accounting boundary?
+- Can corrective information reach somewhere capable of acting upon it?
+- Can the system revise its containment when conditions change?
+- Is containment generating conditions that justify further containment?
+- What happens when the arrangement exceeds its own capacity?
+- What are the scope, review, rollback, and termination conditions?
 
 ---
 
-# 🔁 6. Recursion, Scale & Systemic Failure  
+## 🌌 Constellations
 
-*How containment systems reproduce themselves, destabilise under scale, and generate recursive instability loops.*
+🌑 🧱 🕸️ ♻️ 🪲 — definition, boundary regulation, pressure distribution, corrective feedback, and adaptive capacity as the core grammar of containment.
 
----
+## ✨ Stardust
 
-## 🌱 [Recursive Containment](./🌱_recursive_containment.md)  
-
-Examines how containment systems generate:
-- secondary containment systems,
-- defensive expansion,
-- procedural layering,
-- and recursive stabilisation loops.
-
-Explores how:
-> attempts to contain instability often generate further instability requiring additional containment.
+containment studies, systems regulation, boundaries, stability, pressure distribution, feedback, adaptation, recursion, failure, scope
 
 ---
 
-## 🌱 [Containment And Scale](./🌱_containment_and_scale.md)  
+## 🏮 Footer
 
-Studies how containment changes across:
-- scale,
-- complexity,
-- coordination density,
-- and infrastructural expansion.
-
-Explores:
-- abstraction,
-- procedural distance,
-- feedback delay,
-- and large-scale governability pressures.
-
----
-
-## 🌱 [Containment And Sacrifice Zones](./🌱_containment_and_sacrifice_zones.md)  
-
-Examines how systems preserve stability through:
-- uneven pressure distribution,
-- concentrated instability,
-- hidden extraction,
-- and designated absorbable populations or environments.
-
-Studies:
-- sacrifice systems,
-- expendability,
-- emotional load-bearing,
-- and peripheralisation dynamics.
-
----
-
-## 🌱 [Containment Failure Modes](./🌱_containment_failure_modes.md)  
-
-Explores how containment systems:
-- rigidify,
-- overexpand,
-- suppress feedback,
-- lose legitimacy,
-- and destabilise themselves over time.
-
-Studies:
-- brittleness,
-- recursive overcontainment,
-- symbolic exhaustion,
-- pressure accumulation,
-- and adaptive collapse.
-
----
-
-# 🌸 Core Questions  
-
-This cluster repeatedly asks:
-
-- What kinds of instability do systems tolerate?
-- What kinds do they suppress?
-- When do boundaries become prisons?
-- When does openness become collapse?
-- What distinguishes adaptive containment from coercive enclosure?
-- Who absorbs the cost of stability?
-- How does legitimacy alter survivability?
-- What happens when systems prioritise governability over livability?
-- Why do containment systems become recursive?
-- How do systems metabolise instability without collapsing into rigidity?
-
----
-
-# 🌉 Transitional Framing  
-
-This cluster establishes a recurring archive principle:
-
-> systems under pressure frequently prioritise governability before legitimacy.
-
-This helps explain why:
-- emergency systems persist,
-- temporary restrictions calcify,
-- surveillance expands during instability,
-- symbolic management intensifies,
-- and containment systems often survive long after crises end.
-
-At the same time, the cluster recognises:
-> some degree of containment is necessary for any living system.
-
-The question is therefore not:
-> whether containment exists,
-
-but:
-- how it functions,
-- who it protects,
-- who absorbs its costs,
-- how adaptive it remains,
-- and whether it preserves livability across time.
-
----
-
-## 🌌 Constellations  
-
-🌱 🌸 🌊 ⚖️ 🧠 🔁 🌿 🧄  
-*Boundaries, legitimacy, overflow, adaptation, symbolic governance, recursive systems, and the ecology of survivable stability.*
-
----
-
-## 🏮 Footer  
-
-*🌱 Foundations Of Containment* establishes the conceptual grammar underlying containment systems across institutional, emotional, ecological, political, symbolic, and governance environments.
-
-It provides the root analytical architecture for:
-- adaptive stabilisation,
-- coercive containment,
-- symbolic regulation,
-- recursive governance,
-- legitimacy under pressure,
-- and survivability across complexity systems.
+*🌱 Foundations Of Containment* is a living node of the **Polaris Protocol**.  
+It provides the core systems grammar for Containment Studies, organising containment around definition, boundary structure, pressure and capacity, survival response, normative distinction, load distribution, feedback, adaptation, recursion, failure, and scope. The folder is designed as reusable analytical infrastructure rather than a catalogue of isolated containment phenomena.
 
 > 📡 Cross-references:
 >
-> - [🌸 Containment Studies](../README.md) — root cluster for containment analysis  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — relational legitimacy, stewardship, and adaptive governance systems  
-> - [🌀 Systems & Governance] — institutional pacing, complexity management, and governance coordination systems  
+> - [🌸 Containment Studies](../README.md) — *parent framework for analysing containment across embodied, institutional, ecological, informational, and governance systems*
+> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *neighbouring authority grammar centred on legitimacy, corrigibility, revocability, resilience, and survivable burden-sharing*
+> - [🪿 Embodied Information Ecology](../../🪿_Embodied_Information_Ecology/README.md) — *neighbouring information-ecology framework for sensing, embodiment, feedback, cybernetics, and lived system environments*
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+*Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-05-28_
+_Last updated: 2026-08-22_
