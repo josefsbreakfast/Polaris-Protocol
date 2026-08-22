@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-22 21:14:00 UTC_
+_Generated on 2026-08-22 23:59:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4793,6 +4793,7 @@ _Generated on 2026-08-22 21:14:00 UTC_
     - [`README.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/README.md)
     - [`notes.txt`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/notes.txt)
     - [`🌦️_cloudbusting_the_future_we_never_built.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🌦️_cloudbusting_the_future_we_never_built.md)
+    - [`💸_making_harm_too_expensive_to_continue.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/💸_making_harm_too_expensive_to_continue.md)
     - [`🦾_the_power_of_strong_foundations.md`](🌕_5_Long_Strategies/💸_Business_Is_Tooling/🦾_the_power_of_strong_foundations.md)
   - [`README.md`](🌕_5_Long_Strategies/README.md)
 - [**🌖_6_Learning_The_Skies/**](🌖_6_Learning_The_Skies/)
