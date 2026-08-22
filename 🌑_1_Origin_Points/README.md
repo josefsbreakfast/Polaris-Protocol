@@ -58,7 +58,7 @@ Representative clusters:
 > I have been in love once before
 > Maybe one day, the world will need a puppeteer no more.”
 >
-> — Circe, singing to the idiot Odessyus.
+> — Circe, singing to the idiot Odysseus.
 > *There Are Other Ways*, Epic: The Musical.
 >
 > This was a multiclass-theatre-nerd-driven *Tiktok* project, starting in 2021, with busiest release period 2022 – 2024.
