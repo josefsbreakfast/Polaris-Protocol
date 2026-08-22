@@ -2,6 +2,8 @@
 **First created:** 2026-08-22 | **Last updated:** 2026-08-22
 *Rehabilitating technical culture by refusing the hierarchies, prestige games, and inherited measures that made technology smaller than it needed to be.*
 
+---
+
 ## 🛰️ Orientation
 
 > **#WomenInSTEM? The girls, the gays, and the theys do not need your imperial metrics.**
@@ -14,7 +16,9 @@ It is not a diversity brochure for institutions that first narrowed technical au
 
 Technology is a human inheritance. So are mathematics, engineering, computation, systems thinking, making, repairing, explaining, experimenting, breaking things carefully, and putting them back together better.
 
-Nobody gets permanent ownership because they successfully turned competence into a status aesthetic.
+Nobody gets permanent ownership because they successfully turned competence into a status aesthetic.  
+
+---
 
 ## 🧿 The Problem Is Not Admission
 
@@ -35,7 +39,9 @@ If a technical culture rewards opacity over explanation, prestige over usefulnes
 
 Representation matters.
 
-So does **what everyone is being represented inside**.
+So does **what everyone is being represented inside**.  
+
+---
 
 ## 🦑 Take It Back
 
@@ -55,7 +61,9 @@ It means recovering the parts worth having:
 
 The point is not to become better at performing somebody else's version of technical authority.
 
-The point is to build a better one.
+The point is to build a better one.  
+
+---
 
 ## 🔬 A Different Measure of Technical Seriousness
 
@@ -75,7 +83,9 @@ It also means the newcomer should be able to understand why the problem matters.
 
 Those are not competing requirements.
 
-Making difficult things legible is itself a technical skill.
+Making difficult things legible is itself a technical skill.  
+
+---
 
 ## 🛠️ Rehabilitation, Not Respectability
 
@@ -96,7 +106,9 @@ The more interesting demonstration is that people traditionally treated as perip
 
 Not better *for a woman*.
 
-Better.
+Better.  
+
+---
 
 ## 🌐 For The Normies Too
 
@@ -116,7 +128,9 @@ That is removing unnecessary toll booths from knowledge.
 
 Experts remain necessary. Specialist knowledge remains necessary. Precision remains necessary.
 
-Mystification does not.
+Mystification does not.  
+
+---
 
 ## ⚖️ Refuse The Imperial Metric
 
@@ -140,13 +154,19 @@ Sometimes the most technically serious response to a metric is not to score high
 
 It is to demonstrate that the metric is shit.
 
+---
+
 ## 🌌 Constellations
 
-🦾 🧠 ⚖️ 🛠️ 🧿 — rehabilitated technical culture; accessible expertise; anti-gatekeeping systems design; measurement and prestige critique.
+🦾 🧠 ⚖️ 🛠️ 🧿 — rehabilitated technical culture; accessible expertise; anti-gatekeeping systems design; measurement and prestige critique.  
+
+---
 
 ## ✨ Stardust
 
 technology, technical culture, systems thinking, accessibility, expertise, gatekeeping, prestige systems, measurement, women in stem, rehabilitated tech
+
+---
 
 ## 🏮 Footer
 
