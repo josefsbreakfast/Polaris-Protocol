@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-22 02:44:32 UTC_
+_Generated on 2026-08-22 02:48:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -125,8 +125,10 @@ _Generated on 2026-08-22 02:44:32 UTC_
     - [**🌱_Foundations_Of_Containment/**](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/)
       - [`README.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/notes.txt)
+      - [`⚖️_protective_vs_coercive_containment.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/⚖️_protective_vs_coercive_containment.md)
+      - [`🌊_stability_and_overflow.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌊_stability_and_overflow.md)
+      - [`🌑_what_is_containment.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌑_what_is_containment.md)
       - [`🌱_adaptive_vs_rigid_systems.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_adaptive_vs_rigid_systems.md)
-      - [`🌱_boundary_and_membrane.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_boundary_and_membrane.md)
       - [`🌱_containment_and_identity.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_identity.md)
       - [`🌱_containment_and_legitimacy.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_legitimacy.md)
       - [`🌱_containment_and_sacrifice_zones.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_sacrifice_zones.md)
@@ -137,14 +139,12 @@ _Generated on 2026-08-22 02:44:32 UTC_
       - [`🌱_governability_and_complexity.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_governability_and_complexity.md)
       - [`🌱_internalised_containment.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_internalised_containment.md)
       - [`🌱_legibility_and_management.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_legibility_and_management.md)
-      - [`🌱_pressure_distribution.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_pressure_distribution.md)
-      - [`🌱_protective_vs_coercive_containment.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_protective_vs_coercive_containment.md)
       - [`🌱_recursive_containment.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_recursive_containment.md)
-      - [`🌱_stability_and_overflow.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_stability_and_overflow.md)
       - [`🌱_symbolic_containment.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_symbolic_containment.md)
       - [`🌱_temporary_measures_and_permanent_systems.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_temporary_measures_and_permanent_systems.md)
-      - [`🌱_what_is_containment.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_what_is_containment.md)
       - [`🌱_why_systems_contain.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_why_systems_contain.md)
+      - [`🕸️_pressure_distribution.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🕸️_pressure_distribution.md)
+      - [`🧱_boundary_and_membrane.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🧱_boundary_and_membrane.md)
       - [`🫀_containment_as_survival_reflex.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🫀_containment_as_survival_reflex.md)
     - [**🌿_Ecologies_Of_Containment/**](🌑_1_Origin_Points/🌸_Containment_Studies/🌿_Ecologies_Of_Containment/)
       - [`README.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌿_Ecologies_Of_Containment/README.md)
