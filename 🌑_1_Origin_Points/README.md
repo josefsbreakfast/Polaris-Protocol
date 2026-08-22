@@ -1,5 +1,5 @@
 # 🌑 Origin Points  
-**First created:** 2026-05-21 | **Last updated:** 2026-05-21  
+**First created:** 2026-05-21 | **Last updated:** 2026-08-22  
 *Foundational frameworks, governance architectures, and conceptual orientation systems.*
 
 ---
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧭 Orientation  
+## 🛰️ Orientation  
 
 Origin Points contains the foundational conceptual architecture of Polaris.
 
@@ -47,6 +47,23 @@ Representative clusters:
 - 🧄 Exousiología
 - 🌸 Containment Studies
 - 🌀 System Governance
+
+*Origin Points* maps the world that is and the world which has been, so that we might step towards the world that is to come.  
+
+> “There are many ways of persuasion
+> There are many modes of control
+> Maybe showing one act of kindness
+> Leads to kinder souls down the road
+> I remember actions of passion
+> I have been in love once before
+> Maybe one day, the world will need a puppeteer no more.”
+>
+> — Circe, singing to the idiot Odessyus.
+> *There Are Other Ways*, Epic: The Musical.
+>
+> This was a multiclass-theatre-nerd-driven *Tiktok* project, starting in 2021, with busiest release period 2022 – 2024.
+>
+> …glad you made your own boy version, I guess? Where is all the sex?  
 
 ---
 
@@ -110,4 +127,4 @@ It provides the foundational conceptual frameworks underpinning the archive’s 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-21_
+_Last updated: 2026-08-22_
