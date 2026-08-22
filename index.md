@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-22 02:42:55 UTC_
+_Generated on 2026-08-22 02:44:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -133,7 +133,6 @@ _Generated on 2026-08-22 02:42:55 UTC_
       - [`🌱_containment_and_scale.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_scale.md)
       - [`🌱_containment_and_time.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_time.md)
       - [`🌱_containment_and_visibility.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_and_visibility.md)
-      - [`🌱_containment_as_survival_reflex.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_as_survival_reflex.md)
       - [`🌱_containment_failure_modes.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_containment_failure_modes.md)
       - [`🌱_governability_and_complexity.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_governability_and_complexity.md)
       - [`🌱_internalised_containment.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_internalised_containment.md)
@@ -146,6 +145,7 @@ _Generated on 2026-08-22 02:42:55 UTC_
       - [`🌱_temporary_measures_and_permanent_systems.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_temporary_measures_and_permanent_systems.md)
       - [`🌱_what_is_containment.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_what_is_containment.md)
       - [`🌱_why_systems_contain.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🌱_why_systems_contain.md)
+      - [`🫀_containment_as_survival_reflex.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌱_Foundations_Of_Containment/🫀_containment_as_survival_reflex.md)
     - [**🌿_Ecologies_Of_Containment/**](🌑_1_Origin_Points/🌸_Containment_Studies/🌿_Ecologies_Of_Containment/)
       - [`README.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🌿_Ecologies_Of_Containment/README.md)
     - [**🎣_Containment_Dynamics/**](🌑_1_Origin_Points/🌸_Containment_Studies/🎣_Containment_Dynamics/)
