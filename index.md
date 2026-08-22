@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-22 18:09:11 UTC_
+_Generated on 2026-08-22 18:25:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4754,6 +4754,8 @@ _Generated on 2026-08-22 18:09:11 UTC_
       - [`🧬_neural_network_remodelling_gynaecology.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🧬_neural_network_remodelling_gynaecology.md)
       - [`🩰_crafting_datacentre_balance.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🩰_crafting_datacentre_balance.md)
       - [`🩸_ai_in_violence_prevention.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🩸_ai_in_violence_prevention.md)
+    - [**🦑_Take_It_Back/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🦑_Take_It_Back/)
+      - [`README.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🦑_Take_It_Back/README.md)
     - [`README.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/README.md)
     - [`💎_therapeutic_sandbox.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/💎_therapeutic_sandbox.md)
     - [`💧_sludgy_solutions.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/💧_sludgy_solutions.md)
