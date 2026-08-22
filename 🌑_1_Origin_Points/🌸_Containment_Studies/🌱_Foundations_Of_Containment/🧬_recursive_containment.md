@@ -1,351 +1,718 @@
-# 🌱 Recursive Containment  
-**First created:** 2026-05-27 | **Last updated:** 2026-05-28  
-*Examining how containment systems generate secondary containment systems, reproduce instability through stabilisation attempts, and recursively reorganise themselves around their own defensive responses.*  
+# 🧬 Recursive Containment
+**First created:** 2026-05-27 | **Last updated:** 2026-08-22  
+*Examining how the consequences of containment can become inputs into the justification, design, or intensification of subsequent containment.*
 
 ---
 
-> “Containment systems often become trapped not merely by instability,  
-> but by the secondary systems created to manage the instability they previously produced.”  
+> “Containment becomes recursive when the response changes the problem, and the changed problem is used to justify more of the response.”
 
 ---
 
-## 🛰️ Orientation  
+## 🛰️ Orientation
 
-Containment systems rarely operate in isolation.
+Containment is an intervention into a system.
 
-Attempts to:
-- regulate instability,
-- preserve governability,
-- suppress pressure,
-- or maintain legitimacy
+It changes:
+- pressure,
+- behaviour,
+- incentives,
+- boundaries,
+- visibility,
+- information flows,
+- relationships,
+- capacity,
+- and expectations.
 
-often generate:
-- new pressures,
-- secondary adaptations,
-- behavioural responses,
-- and additional containment systems.
+The next condition encountered by the system is therefore not independent of what the system has already done.
 
-This creates:
-> recursive containment.
+Sometimes this produces useful adaptation.
 
-Recursive containment occurs when:
-- containment systems generate conditions requiring further containment,
-- stabilisation efforts reproduce instability,
-- or systems increasingly organise themselves around managing the consequences of previous containment strategies.
+Sometimes containment alters its environment in ways that generate:
+- new pressure,
+- new vulnerabilities,
+- new defensive behaviour,
+- new blind spots,
+- or new forms of instability.
 
-This node examines:
-- how containment reproduces itself,
-- why defensive systems tend to expand over time,
-- and how recursive stabilisation may gradually transform governance, identity, behaviour, perception, and institutional life.
+Those consequences may then contribute to further containment.
 
-It asks:
-> when containment remains adaptive,
-> and when systems become trapped inside self-reinforcing defensive loops.
+A minimal recursive sequence is:
+
+```text
+instability
+    ↓
+containment
+    ↓
+consequences of containment
+    ↓
+new or intensified instability
+    ↓
+further containment
+    ↺
+```
+
+This does not require the original threat to have been imaginary.
+
+A genuine threat may trigger a necessary containment response whose secondary consequences later become part of a recursive dynamic.
+
+The foundational problem is therefore not:
+
+> containment only recurs when the original containment was unjustified.
+
+It is:
+
+> an initially functional response can become recursively dysfunctional when its own consequences begin generating the conditions for further containment.
 
 ---
 
-## 🌱 Containment Produces Secondary Effects  
+## 🧬 What Makes Containment Recursive?
 
-No containment system acts cleanly upon reality.
+Repetition is not enough.
 
-All containment generates:
-- side effects,
-- adaptation pressures,
-- workaround behaviour,
-- displaced instability,
-- and secondary coordination problems.
+A containment measure may remain in place for years without being recursive in the sense used here.
+
+Recursion requires a causal return.
+
+Three elements are needed:
+
+1. **containment changes system conditions;**
+2. **those changed conditions produce new signals, pressures, behaviours, or vulnerabilities;**
+3. **those consequences contribute to subsequent containment.**
+
+A simple form is:
+
+```text
+C₁
+↓
+changes environment
+↓
+produces consequence P₁
+↓
+P₁ enters next containment decision
+↓
+C₂
+```
+
+The process may then continue:
+
+```text
+C₂ → P₂ → C₃ → P₃ → C₄ ...
+```
+
+Several related dynamics should be distinguished:
+
+- **repetition** — the same containment occurs again;
+- **escalation** — containment becomes more intensive or extensive;
+- **recursion** — consequences of containment feed into subsequent containment;
+- **cascade** — recursive effects spread into connected systems.
+
+Recursion may involve escalation, but does not require it.
+
+A system may recursively reproduce the same form of containment without visibly intensifying it.
+
+The defining feature is:
+
+> containment has become part of the causal environment producing the next containment decision.
+
+---
+
+## 🔁 The Recursive Loop
+
+A general recursive containment loop can be represented as:
+
+```text
+perceived instability
+        ↓
+containment response
+        ↓
+pressure / displacement / behavioural adaptation
+        ↓
+new observable condition
+        ↓
+condition interpreted through existing threat model
+        ↓
+further containment
+        ↺
+```
+
+Each stage may involve mechanisms established elsewhere in the Foundations.
+
+Containment may:
+- harden or redirect boundaries,
+- concentrate pressure,
+- externalise costs,
+- reduce useful feedback,
+- consume adaptive capacity,
+- or increase accumulated load.
+
+Those consequences matter here when they return as inputs into what happens next.
 
 For example:
-- surveillance may generate secrecy,
-- moderation may generate coded language,
-- bureaucracy may generate workaround cultures,
-- reputational management may suppress feedback,
-- and emergency systems may normalise chronic urgency.
 
-These secondary effects often:
-- require additional management structures,
-- produce new instability,
-- and increase systemic complexity over time.
+```text
+containment
+    ↓
+pressure concentrated elsewhere
+    ↓
+receiving structure becomes unstable
+    ↓
+instability becomes visible
+    ↓
+new containment response
+```
 
-This creates:
-> containment expansion through feedback recursion.
+Or:
 
----
+```text
+containment
+    ↓
+feedback channels narrow
+    ↓
+system receives poorer information
+    ↓
+model fit deteriorates
+    ↓
+stronger containment based on poorer information
+```
 
-## 🧱 Defensive Expansion  
+Recursive containment is therefore not a separate substance layered on top of ordinary containment.
 
-Containment systems frequently respond to instability through:
-- expansion,
-- layering,
-- procedural multiplication,
-- and increased regulation.
+It is:
 
-This may include:
-- additional monitoring,
-- new compliance systems,
-- expanded procedural oversight,
-- symbolic reassurance mechanisms,
-- behavioural management structures,
-- or intensified visibility control.
-
-Initially:
-- these systems may preserve coordination.
-
-However:
-> each new containment layer also generates new maintenance demands and adaptation pressures.
-
-Over time:
-- systems may become increasingly occupied with managing:
-  - the consequences of prior containment measures themselves.
-
-At that stage:
-> containment becomes infrastructurally self-reproductive.
+> a causal pattern created when containment begins feeding its own consequences back into subsequent regulation.
 
 ---
 
-## 🌊 Suppression And Leakage  
+## 🪞 Containment Can Produce Its Own Evidence
 
-Recursive containment often emerges through:
-> suppression cycles.
+Containment changes the behaviour of what it acts upon.
 
-When systems:
-- suppress feedback,
-- minimise contradiction,
-- delay adaptation,
-- or conceal instability,
+People, organisations, ecosystems, technical systems, and other adaptive structures may respond through:
+- avoidance,
+- concealment,
+- resistance,
+- withdrawal,
+- workarounds,
+- migration,
+- redundancy-seeking,
+- informal channels,
+- defensive behaviour,
+- or attempts to recover lost capacity.
 
-pressure rarely disappears entirely.
+These responses may be entirely predictable consequences of the containment environment.
 
-Instead:
-- instability reappears elsewhere.
+They may also create genuine new risks.
 
-This may occur through:
-- leaks,
-- burnout,
-- symbolic fragmentation,
-- procedural overload,
-- informal resistance,
-- emotional collapse,
-- workaround behaviour,
-- or reputational rupture.
+The containing system may then observe those behaviours as evidence that:
+- risk has increased,
+- compliance has decreased,
+- monitoring must expand,
+- boundaries require hardening,
+- exceptional measures must continue,
+- or the original threat model was correct.
 
-Systems then respond to these secondary instabilities through:
-- further containment.
+This produces a particularly important recursive mechanism:
 
-This creates:
-> recursive suppression loops.
+> **the response to containment can become evidence used to validate containment.**
 
-For example:
+The difficulty is not necessarily that the new evidence is false.
 
-| Initial Instability | Containment Response | Secondary Instability |
-|---|---|---|
-| dissent | surveillance | secrecy |
-| overload | procedural expansion | bureaucracy fatigue |
-| legitimacy erosion | narrative management | distrust |
-| uncertainty | rigid categorisation | complexity blindness |
-| emotional distress | composure enforcement | burnout |
+The difficulty is causal discrimination.
 
----
+A system must be able to ask:
 
-## ⚖️ Recursive Governability  
+> how much of the condition we are now observing existed independently, and how much has been produced or reshaped by our own intervention?
 
-Recursive containment often shifts systems toward:
-> management of management itself.
+Without that distinction, containment may progressively lose the ability to separate:
+- exogenous threat,
+from:
+- containment-generated behaviour.
 
-Institutions increasingly devote resources toward:
-- monitoring coordination systems,
-- managing visibility systems,
-- stabilising symbolic legitimacy,
-- maintaining procedural infrastructure,
-- and regulating secondary adaptation behaviour.
-
-At this stage:
-> systems may become more internally occupied than externally responsive.
-
-This may produce:
-- procedural saturation,
-- strategic blindness,
-- administrative exhaustion,
-- and declining adaptability despite increasing governance activity.
-
-Importantly:
-> increasing management complexity does not necessarily increase systemic understanding.
-
-Sometimes:
-- systems become more administratively dense while becoming less connected to embodied reality.
+A system may then become increasingly certain of a model that its own actions are helping to produce.
 
 ---
 
-## 🧠 Psychological Recursive Containment  
+## ♻️ Feedback Reversal
 
-Humans also develop recursive containment structures psychologically.
+Feedback can correct containment.
 
-People may:
-- monitor their own monitoring,
-- regulate emotional regulation itself,
-- anticipate anticipated reactions,
-- or continually self-adjust in response to perceived instability.
+But feedback can also become amplifying.
 
-This may create:
-- hypervigilance,
-- chronic self-surveillance,
-- compulsive self-management,
-- emotional recursion,
-- identity fragmentation,
-- and exhaustion through continual anticipatory adaptation.
+A corrective loop may look like:
 
-For example:
-- fear of emotional instability may produce emotional suppression,
-- emotional suppression may increase pressure accumulation,
-- accumulated pressure increases fear of instability further,
-- leading to intensified self-monitoring again.
+```text
+containment
+    ↓
+harm or mismatch
+    ↓
+signal
+    ↓
+revision
+```
 
-At that stage:
-> containment becomes recursively self-reinforcing internally.
+Recursive containment may instead produce:
 
----
+```text
+containment
+    ↓
+harm / resistance / instability
+    ↓
+signal
+    ↓
+signal interpreted as need for control
+    ↓
+stronger containment
+```
 
-## 🔁 Recursive Legitimacy Systems  
+The feedback loop has not disappeared.
 
-Containment systems often generate:
-> recursive legitimacy crises.
+Its function has changed.
 
-For example:
-- declining trust may trigger symbolic management,
-- symbolic management may increase perceptions of unreality,
-- unreality weakens trust further,
-- weakening trust increases pressure for narrative management again.
+Instead of using consequence-information to revise the containment model, the system uses the consequence as evidence for intensifying it.
 
-Similarly:
-- procedural expansion may reduce flexibility,
-- reduced flexibility weakens responsiveness,
-- weak responsiveness erodes legitimacy,
-- legitimacy erosion triggers further procedural hardening.
+This is one form of positive feedback:
 
-This creates:
-> recursive stabilisation failure.
+> **containment-generated consequences amplify the conditions producing further containment.**
 
-At extreme levels:
-- systems become trapped inside escalating defensive coordination structures.
+This does not mean every amplifying feedback loop is pathological.
 
----
+Some systems genuinely require escalating responses to escalating threats.
 
-## 🌿 Adaptive Versus Recursive Containment  
+The recursive question is more precise:
 
-Not all recursive dynamics are destructive.
+> is the system responding to an independently worsening condition, or to a condition partly worsened by the containment response itself?
 
-Living systems often depend upon:
-- feedback loops,
-- adaptive correction,
-- cyclical regulation,
-- and iterative coordination.
-
-Adaptive recursion generally:
-- remains revisable,
-- integrates feedback,
-- preserves permeability,
-- and allows systems to reorganise rather than endlessly layer containment.
-
-Recursive overcontainment often:
-- suppresses feedback,
-- accumulates defensive infrastructure,
-- increases symbolic management,
-- and reorganises systems around preservation of containment itself.
-
-This creates a recurring distinction:
-
-| Adaptive Recursive Systems | Recursive Containment Systems |
-|---|---|
-| feedback integration | feedback suppression |
-| iterative adaptation | defensive layering |
-| permeability | enclosure expansion |
-| adaptive revision | procedural accumulation |
-| distributed correction | centralised management |
-| survivability-oriented | self-preservation-oriented |
-
-This forms a direct bridge toward:
-- 🌱 Containment Failure Modes,
-and:
-- 🧄 Exousiología’s emphasis on adaptive stewardship and metabolisation over defensive accumulation.
+That distinction depends upon the feedback architecture developed in **♻️ Containment And Feedback**.
 
 ---
 
-## 🌋 Recursive Collapse  
+## 🕸️ Pressure Returns
 
-Recursive containment systems often fail through:
-> saturation.
+Containment may temporarily preserve central stability by moving pressure elsewhere.
 
-Over time:
-- containment layers multiply,
-- complexity increases,
-- maintenance burdens accumulate,
-- symbolic legitimacy weakens,
-- and systems lose adaptive flexibility.
+Pressure can be:
+- transferred,
+- concentrated,
+- buffered,
+- or externalised
 
-At that stage:
-- institutions may remain highly active while becoming strategically exhausted,
-- populations may experience chronic navigational fatigue,
-- and governance systems may prioritise self-maintenance over embodied responsiveness.
+onto another:
+- population,
+- institution,
+- territory,
+- ecosystem,
+- generation,
+- or subsystem.
 
-Importantly:
-> recursive collapse often appears as:
+This may work for a time.
+
+But the receiving structure has its own capacity.
+
+If that capacity becomes depleted, externalised pressure may return through:
+- service failure,
+- infrastructural breakdown,
+- ecological instability,
+- shortages,
+- resistance,
 - exhaustion,
-- procedural overload,
-- symbolic unreality,
-- and inability to metabolise ordinary instability without escalating defensive coordination.
+- distrust,
+- or renewed demand upon the centre.
 
-This creates one of the archive’s recurring concerns:
+A recursive pattern may then appear:
 
-> how do systems stabilise instability without endlessly generating further systems of containment around the consequences of previous containment?
+```text
+containment
+    ↓
+pressure externalised
+    ↓
+external carrier depleted
+    ↓
+instability returns
+    ↓
+more containment
+```
 
----
+The returning pressure may be interpreted as a new external problem.
 
-## 🔍 Key Questions  
+But:
 
-- What is recursive containment?
-- How do containment systems generate secondary instability?
-- Why do defensive systems expand over time?
-- What happens when systems manage management itself?
-- How does suppression generate leakage?
-- Why does increased regulation sometimes reduce adaptability?
-- What forms of self-monitoring become recursively exhausting?
-- How do legitimacy systems become trapped in defensive loops?
-- What distinguishes adaptive feedback from recursive overcontainment?
-- Can systems metabolise instability without endlessly multiplying containment layers?
+> **recursive systems may repeatedly encounter their own displaced costs as though they were new external threats.**
 
----
+This does not mean all returning instability is internally generated.
 
-## 🌌 Constellations  
+It means that causal accounting must include the effects of previous pressure distribution.
 
-🌱 🔁 🌊 🧱 ⚖️ 🧠 🌿  
-*Recursive governance, defensive expansion, procedural saturation, symbolic recursion, and containment self-reproduction systems.*
+The underlying mechanics of load allocation belong to **🕸️ Pressure Distribution**.
 
----
-
-## ✨ Stardust  
-
-recursive containment, feedback loops, defensive expansion, procedural saturation, symbolic management, legitimacy crisis, self-monitoring, recursive governance, overcontainment, adaptive systems
+Here, the concern is what happens when those costs return to the containment loop.
 
 ---
 
-## 🏮 Footer  
+## 🧱 Recursive Boundary Hardening
 
-*🌱 Recursive Containment* examines how containment systems reproduce secondary containment structures, generate self-reinforcing instability loops, and reorganise governance, identity, behaviour, and legitimacy around defensive continuity systems.
+Boundaries also participate in recursive dynamics.
 
-It studies:
-- recursive governance,
-- defensive layering,
-- suppression cycles,
-- symbolic recursion,
-- and the tension between adaptive feedback systems and self-reproducing overcontainment structures.
+A containment boundary may alter the behaviour of those attempting to cross, avoid, or operate around it.
 
-> 📡 Cross-references:  
->  
-> - [🌱 Containment And Scale](./🌱_containment_and_scale.md) — *abstraction, procedural distance, and large-scale coordination pressures*  
-> - [🌱 Containment And Sacrifice Zones](./🌱_containment_and_sacrifice_zones.md) — *instability concentration, expendability systems, and hidden extraction structures*  
-> - [🌱 Containment Failure Modes](./🌱_containment_failure_modes.md) — *rigidity collapse, overcontainment, and adaptive failure dynamics*  
-> - [🧄 Exousiología](../../🧄_Exousiología/README.md) — *stewardship, adaptive revision, and metabolisation-oriented governance systems*  
+This can create an adaptive sequence:
 
-*Survivor authorship is sovereign. Containment is never neutral.*  
+```text
+boundary
+   ↓
+circumvention
+   ↓
+boundary hardening
+   ↓
+more sophisticated circumvention
+   ↓
+further hardening
+```
 
-_Last updated: 2026-05-28_
+The same pattern can appear in:
+- biological defence,
+- cybersecurity,
+- institutional regulation,
+- policing,
+- borders,
+- fraud prevention,
+- platform governance,
+- and other adversarial or semi-adversarial systems.
+
+The important point is structural:
+
+> **containment and the contained system may co-adapt.**
+
+Each response changes the environment of the other.
+
+This can create an arms-race dynamic in which:
+- barriers become more complex,
+- circumvention becomes more complex,
+- monitoring expands,
+- behavioural adaptation accelerates,
+- and the cost of maintaining distinction rises.
+
+Neither side must be irrational for recursion to emerge.
+
+Recursive containment may arise precisely because each actor is adapting sensibly to the other's previous move.
+
+The boundary mechanics themselves belong to **🧱 Boundary And Membrane**.
+
+This node asks what happens when boundary adaptation repeatedly generates the conditions for further boundary adaptation.
+
+---
+
+## 🪲 Rigidity Accelerates Recursion
+
+Adaptive systems can recognise that their own interventions have changed the environment.
+
+They may revise:
+- assumptions,
+- thresholds,
+- boundaries,
+- allocation,
+- or the containment mechanism itself.
+
+Rigid systems are less able to do so.
+
+A rigid sequence may look like:
+
+```text
+poor fit
+   ↓
+containment
+   ↓
+worsening consequences
+   ↓
+same model retained
+   ↓
+stronger containment
+```
+
+In this pattern:
+
+> **rigidity converts consequences into confirmation.**
+
+The system does not necessarily fail to observe what happened.
+
+It may observe the consequences accurately while interpreting them through an unchanged model.
+
+This makes recursive escalation more likely because:
+- the intervention remains outside the causal explanation,
+- alternative models receive less weight,
+- and increased pressure appears to confirm the need for increased control.
+
+Rigidity is not required for recursion.
+
+Adaptive adversarial systems may also enter recursive cycles.
+
+But low adaptive capacity makes it harder to interrupt a loop once containment-generated consequences begin feeding back into subsequent decisions.
+
+The underlying distinction between revisable and rigid regulation belongs to **🪲 Adaptive Vs Rigid Systems**.
+
+---
+
+## 🌀 When Containment Becomes A System Objective
+
+Containment usually begins as a means.
+
+A system attempts to protect:
+- safety,
+- continuity,
+- health,
+- infrastructure,
+- coordination,
+- legitimacy,
+- or another underlying function.
+
+The original relationship may be:
+
+```text
+containment
+    ↓
+protect function X
+```
+
+But containment itself requires:
+- infrastructure,
+- staffing,
+- procedures,
+- budgets,
+- expertise,
+- monitoring,
+- maintenance,
+- authority,
+- and institutional coordination.
+
+Over time, preserving those capacities can become an operational requirement.
+
+The sequence may shift:
+
+```text
+protect X
+    ↓
+build containment
+    ↓
+containment develops dependencies
+    ↓
+protect containment capacity
+```
+
+At that point:
+
+> **the system may begin preserving the containment apparatus as though preserving it were identical to preserving the original function.**
+
+This does not require conspiracy or conscious institutional self-interest.
+
+Infrastructure creates path dependence.
+
+People learn roles.
+
+Budgets acquire assumptions.
+
+Metrics are built around existing procedures.
+
+Expertise becomes specialised.
+
+Other capacities may be dismantled because the containment structure is expected to continue.
+
+Containment can therefore become part of the system whose stability must now be maintained.
+
+The original means becomes one of the objects of preservation.
+
+---
+
+## 🧿 Self-Sealing Explanations
+
+Recursive containment may also become epistemically self-sealing.
+
+A self-sealing model interprets substantially different outcomes as confirmation of the same underlying explanation.
+
+For example:
+
+```text
+compliance
+    ↓
+containment is working
+
+resistance
+    ↓
+containment is necessary
+
+absence of visible harm
+    ↓
+containment prevented harm
+
+visible harm
+    ↓
+threat is more severe than expected
+```
+
+The problem is not that any one of these interpretations must be false.
+
+The problem arises when:
+
+```text
+Outcome A → confirms model
+Outcome B → confirms model
+Outcome C → confirms model
+```
+
+and no plausible observation can meaningfully weaken the model.
+
+At that point:
+
+> **the containment model has lost discriminating power.**
+
+A model that explains every possible outcome in its own favour cannot reliably distinguish:
+- success from failure,
+- external threat from intervention effect,
+- necessary escalation from self-generated demand,
+- or correction from confirmation.
+
+This is the systems diagnosis.
+
+The normative requirement that authority remain open to contradiction and revision belongs to Exousiología’s **🐍 Non-Closure Principle**.
+
+---
+
+## 🚨 Recursion Is Not Yet Failure
+
+Recursive containment is a dynamic.
+
+It is not itself proof that a system has failed.
+
+A recursive containment system may remain:
+- operational,
+- powerful,
+- stable-looking,
+- internally coherent,
+- and effective at reproducing its own regulatory arrangements.
+
+It may persist for:
+- years,
+- decades,
+- or longer.
+
+Recursive processes may even improve some forms of short-term control.
+
+But recursion can progressively alter the conditions of viability.
+
+It may:
+- consume slack,
+- increase maintenance costs,
+- exhaust pressure sinks,
+- narrow adaptive options,
+- intensify adversarial adaptation,
+- obscure causal origins,
+- increase dependency on containment infrastructure,
+- or make rollback progressively more difficult.
+
+This creates a distinction:
+
+> **recursion describes how containment reproduces itself; failure describes the point at which containment can no longer perform the function required of it.**
+
+The two may interact strongly.
+
+They should not be collapsed.
+
+The morphology of breakdown belongs to **🦖 Containment Failure Modes**.
+
+---
+
+## 🔓 Breaking Recursive Containment
+
+Recursive loops are not necessarily permanent.
+
+They can be interrupted when systems regain the ability to recognise themselves as part of the causal environment they are attempting to regulate.
+
+This may require the capacity to:
+- distinguish endogenous from exogenous pressure,
+- restore corrective feedback,
+- redraw accounting boundaries,
+- redistribute load,
+- revise the threat model,
+- reopen suppressed alternatives,
+- permit rollback,
+- recover adaptive capacity,
+- or remove containment that is generating more instability than it resolves.
+
+A minimal interruption looks like:
+
+```text
+consequence
+    ↓
+recognised as partly containment-generated
+    ↓
+model revised
+    ↓
+response changes
+```
+
+Breaking recursion does not require assuming that all pressure was self-generated.
+
+It requires a system to ask:
+
+> what part of the current condition is being produced by the thing we are doing to manage it?
+
+That question reintroduces causal discrimination.
+
+It creates room for:
+- correction,
+- adaptation,
+- de-escalation,
+- redesign,
+- or more appropriately targeted containment.
+
+The foundational principle is:
+
+> **breaking recursion requires the system to recognise itself as part of the causal environment it is attempting to regulate.**
+
+---
+
+## 🔍 Key Questions
+
+- What changed after containment was introduced?
+- Which new pressures or behaviours are consequences of the containment environment?
+- Are those consequences entering subsequent containment decisions?
+- Is the system repeating containment, escalating it, or recursively reproducing it?
+- Can it distinguish external threat from containment-generated effects?
+- Is resistance or circumvention partly an adaptation to the boundary itself?
+- Are returning pressures being recognised as displaced costs or treated as new external threats?
+- Does corrective feedback produce revision or further control?
+- Has rigidity converted consequence into confirmation?
+- Are the containing and contained systems co-adapting?
+- Has maintaining the containment apparatus become a system objective in its own right?
+- What observation could meaningfully weaken the current containment model?
+- Has the model become self-sealing?
+- Is recursion consuming slack, redundancy, or recovery capacity?
+- What would allow the system to recognise its own role in producing the next condition?
+- What would interrupt the loop without denying genuine underlying threats?
+
+---
+
+## 🌌 Constellations
+
+🧬 ♻️ 🕸️ 🪲 🧿 — causal return, amplifying feedback, returning pressure, rigidity, and self-sealing containment models.
+
+## ✨ Stardust
+
+recursive containment, feedback loops, escalation, causal return, pressure return, boundary hardening, path dependence, self-sealing systems, positive feedback, adaptive systems
+
+---
+
+## 🏮 Footer
+
+*🧬 Recursive Containment* is a living node of the **Polaris Protocol**.  
+It explains how the consequences of containment can return as inputs into the justification, design, or intensification of subsequent containment. The node distinguishes recursion from repetition, escalation, cascade, and failure, while locating recursive dynamics in feedback reversal, returning pressure, co-adaptive boundary hardening, rigidity, path dependence, and self-sealing explanation.
+
+> 📡 Cross-references:
+>
+> - [♻️ Containment And Feedback](./♻️_containment_and_feedback.md) — *how consequence-information returns and when feedback becomes corrective or amplifying*
+> - [🕸️ Pressure Distribution](./🕸️_pressure_distribution.md) — *how displaced or externalised pressure can later return to the containing system*
+> - [🪲 Adaptive Vs Rigid Systems](./🪲_adaptive_vs_rigid_systems.md) — *why revisability can interrupt recursive loops and rigidity can intensify them*
+> - [🦖 Containment Failure Modes](./🦖_containment_failure_modes.md) — *how recursive containment can contribute to brittleness, overload, and eventual loss of stabilising function*
+> - [🐍 Non-Closure Principle](../../🧄_Exousiología/🌱_Core_Principles/🐍_non_closure_principle.md) — *why authority must remain open to contradiction rather than allowing its explanatory model to become self-sealing*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-08-22_
