@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 09:58:29 UTC_
+_Generated on 2026-08-23 12:03:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4983,6 +4983,8 @@ _Generated on 2026-08-23 09:58:29 UTC_
     - [`notes.txt`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/notes.txt)
     - [`⚪️_notes_for_white_readers.md`](🌖_6_Learning_The_Skies/🐓_איז_נישט_קיין_קליינע_זאַך/⚪️_notes_for_white_readers.md)
   - [**🐣_Ugly_Ducklings/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/)
+    - [**00_⛩️_Gateways_To_Investigation/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/00_⛩️_Gateways_To_Investigation/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/00_⛩️_Gateways_To_Investigation/README.md)
     - [**🦚_01_Beginnings/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🦚_01_Beginnings/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🦚_01_Beginnings/README.md)
       - [`👺_the_noh_face_market.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🦚_01_Beginnings/👺_the_noh_face_market.md)
