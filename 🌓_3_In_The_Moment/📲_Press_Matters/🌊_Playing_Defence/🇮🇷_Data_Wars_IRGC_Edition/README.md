@@ -1,5 +1,5 @@
 # 🇮🇷 Data Wars: IRGC Edition
-**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
+**First created:** 2026-08-01 | **Last updated:** 2026-08-23  
 *Tracking essential-infrastructure cyber disruption across the widening Iran war without turning wartime proximity, actor branding, or political convenience into proof.*
 
 ---
@@ -569,6 +569,7 @@ For reporting:
 - [📰: Business Insider: “Hackers are targeting US water systems. Here’s what that means.”](https://www.businessinsider.com/hackers-target-us-water-utilities-cyberattacks-explained-2026-8)
 - [📰: Reuters: “Trump says Iran not to blame for Minnesota cyberattack”](https://www.reuters.com/world/us/trump-says-iran-not-blame-minnesota-cyber-attack-2026-07-31/)  
 - [🏛️: EPA: “EPA, FBI, CISA, NSA Issue Joint Cybersecurity Advisory to Water System Regarding Iranian-Affiliated Cyber Attacks”](https://www.epa.gov/newsreleases/epa-fbi-cisa-nsa-issue-joint-cybersecurity-advisory-water-system-regarding-iranian)  
+- [📰: BBC: “Cyber attack shut down small power plant”](https://www.bbc.co.uk/news/articles/ce9793g34yvo)  
 
 ---
 
@@ -600,4 +601,4 @@ It provides the orientation, scope, attribution discipline, legal caution, and r
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-20_
+_Last updated: 2026-08-23_
