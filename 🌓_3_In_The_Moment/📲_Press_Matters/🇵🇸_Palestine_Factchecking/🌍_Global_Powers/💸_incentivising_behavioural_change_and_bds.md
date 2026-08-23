@@ -1,41 +1,26 @@
-# 💸 Incentivising Behavioural Change and BDS  
+# 💸 Incentivising Behavioural Change and BDS
 **First created:** 2026-08-23 | **Last updated:** 2026-08-23  
-*If boycott and divestment are supposed to change behaviour, target selection has to be organised around leverage, substitutability, timing and outcomes — not simply which company currently carries the most political heat.*
+*If boycott and divestment are supposed to change behaviour, target selection has to be organised around leverage, substitutability, timing, safeguards and outcomes — not simply which company currently carries the most political heat.*
 
 ---
 
 ## 🛰️ Orientation
 
-If the purpose of boycott, divestment and sanctions is behavioural change, then campaign strategy cannot stop at identifying objectionable relationships.
+If the purpose of BDS is behavioural change, campaign strategy cannot stop at identifying objectionable relationships.
 
 It has to ask:
 
 > **Where can pressure actually change something?**
 
-That produces a different set of questions from:
+A company can be an entirely legitimate target while being a poor **immediate** leverage point.
 
-> *Which company is worst?*
-> *Which company is most famous?*
-> *Which company is easiest to explain?*
-> *Which company currently attracts the most press?*
+Another relationship can receive little press while being comparatively easy to change.
 
-Those questions may matter.
-
-They are not the same as identifying the strongest available intervention.
-
-A company can be an entirely legitimate target and still be a poor **immediate** leverage point.
-
-Another relationship can receive comparatively little public attention while being much easier to change.
-
-A serious divestment strategy therefore needs more than a list of objectionable companies.
-
-It needs an **intervention portfolio**.
+A serious strategy therefore needs an **intervention portfolio**.
 
 ---
 
 ## 🎯 Start With Behaviour, Not Company
-
-The order matters.
 
 ```mermaid
 flowchart LR
@@ -43,11 +28,11 @@ flowchart LR
     --> B[Identify relationships sustaining it]
     --> C[Identify possible leverage points]
     --> D[Compare intervention characteristics]
-    --> E[Choose appropriate pressure]
+    --> E[Choose pressure]
     --> F[Measure behavioural effect]
 ```
 
-The weaker version runs backwards:
+Not:
 
 ```mermaid
 flowchart LR
@@ -55,90 +40,66 @@ flowchart LR
     --> B[Company becomes campaign]
     --> C[Attention concentrates]
     --> D[Removing company becomes objective]
-    --> E[Original behavioural outcome becomes secondary]
+    --> E[Original outcome becomes secondary]
 ```
 
-The company is supposed to be a **leverage point**.
+The company is the leverage point.
 
-It should not automatically become the purpose of the intervention.
+Not the purpose.
 
 ---
 
-## 🧭 What Makes A Useful Target?
+## 🧭 Target Assessment
 
-Potential targets can be evaluated across several dimensions.
+Evaluate:
 
 ### Relationship
-
-How directly does the relevant commercial relationship contribute to, enable, normalise or economically sustain the conduct being challenged?
+How closely is the relationship connected to the conduct?
 
 ### Leverage
-
-How much behavioural effect could withdrawal, substitution or pressure plausibly produce?
+What decision can pressure plausibly alter?
 
 ### Substitutability
-
-Can the product or service be obtained elsewhere without unacceptable consequences?
+Is another product, supplier or system available?
 
 ### Switching Cost
+What does exit actually require?
 
-How expensive is exit?
-
-This includes far more than the headline contract price.
-
-### Time To Change
-
-Can the relationship change:
-
-* today;
-* at the next purchase;
-* this financial year;
-* at contract expiry;
-* after a replacement system has been built;
-* only after wider regulatory change?
+### Time Horizon
+Can change occur now, next year, or only after years of preparation?
 
 ### Collateral Effects
-
 Who else bears the cost?
 
-Patients?
-
-Workers?
-
-Service users?
-
-Public institutions?
-
-Smaller suppliers?
-
 ### Organising Readiness
+Has someone already built the exit route?
 
-Has somebody already done the work required to make withdrawal possible?
+### Lock-In Risk
+Does delay make later exit more expensive?
 
-### Measurement
+### Measurability
+What observable change counts as success?
 
-How would anyone know whether the intervention worked?
+### Off-Ramp
+What changed behaviour permits pressure to decrease?
 
 ---
 
-## 🧮 A Campaign Is An Allocation Problem
+## 🧮 Campaign Capacity Is Finite
 
-Campaign capacity is finite.
+Campaigns allocate scarce:
 
-So are:
+- attention;
+- clinician time;
+- legal expertise;
+- procurement expertise;
+- investigative labour;
+- media bandwidth;
+- political capital;
+- money;
+- volunteer capacity.
 
-* public attention;
-* clinician time;
-* legal expertise;
-* investigative capacity;
-* media bandwidth;
-* procurement expertise;
-* political capital;
-* volunteer labour;
-* institutional goodwill;
-* money.
-
-Choosing one target therefore carries an **opportunity cost**.
+Choosing one target therefore carries an opportunity cost.
 
 ```mermaid
 flowchart TD
@@ -147,184 +108,126 @@ flowchart TD
     A --> B[Target A]
     A --> C[Target B]
     A --> D[Target C]
-    A --> E[Structural work]
+    A --> E[Build future exit capacity]
 
-    B --> F[Expected behavioural return]
-    C --> G[Expected behavioural return]
-    D --> H[Expected behavioural return]
-    E --> I[Future intervention capacity]
+    B --> F[Behavioural return]
+    C --> G[Behavioural return]
+    D --> H[Behavioural return]
+    E --> I[Future leverage]
 ```
-
-That does not require reducing political organising to an equation.
-
-It means acknowledging that spending six months making one relationship politically legible may mean not spending those six months developing three alternative interventions.
 
 ---
 
-## 💊 Teva: What Happens When Someone Builds The Exit Ramp
+## 💊 Teva: An Exit Ramp Partly Built Already
 
-The medicine-focused boycott work around Teva is useful because clinicians and campaigners have already undertaken part of the difficult implementation work.
+The significance of the clinician-developed alternatives work is not merely that substitutes exist.
 
-The relevant question is not simply:
+It is that part of the campaign infrastructure has already been built.
 
-> *Do we approve of Teva?*
+People have already done work to:
 
-It is:
+- identify Teva products;
+- identify alternative manufacturers;
+- identify therapeutically plausible alternatives;
+- preserve clinical exceptions;
+- distinguish where substitution is easy from where it is inappropriate.
 
-> **Where can purchasing or prescribing move safely away from Teva without compromising patient care?**
-
-That requires considerably more work.
-
-Campaign materials have mapped particular medicines against alternative manufacturers or therapeutic alternatives.
-
-The resulting structure is approximately:
+That lowers the marginal effort required to create real procurement change.
 
 ```mermaid
 flowchart TD
     A[Identify Teva product]
-    --> B[Identify alternative supply]
+    --> B[Alternative already mapped]
     --> C{Clinically appropriate?}
 
-    C -->|Yes| D[Substitution becomes possible]
-    C -->|No| E[Use clinically appropriate Teva product]
+    C -->|Yes| D[Substitution feasible]
+    C -->|No| E[Use clinically appropriate product]
 
     D --> F[Purchasing relationship changes]
     E --> G[Patient safety preserved]
 ```
 
-This is an important model because it preserves the hierarchy of objectives.
+The patient remains more important than the boycott.
 
-**The patient does not become collateral damage for the boycott.**
-
-Where substitution is safe and practicable, purchasing can change.
-
-Where it is not, clinical need wins.
-
-That is a much more sophisticated form of intervention than simply producing a blacklist.
+That is good campaign design.
 
 ---
 
-## 🩺 Professional Knowledge Changes The Feasible Set
+## 🩺 Professional Knowledge Expands The Feasible Set
 
-A campaign becomes more powerful when people who understand the relevant system help design the intervention.
-
-Clinicians know:
-
-* which medicines are genuinely interchangeable;
-* where generic alternatives exist;
-* where formulation matters;
-* where supply is fragile;
-* where changing manufacturer is trivial;
-* where changing treatment would be clinically inappropriate.
-
-Procurement professionals know different things.
-
-Pharmacists know different things.
-
-Patients know different things.
-
-Lawyers know different things.
-
-Supply-chain specialists know different things.
-
-The campaign's feasible options expand when those forms of knowledge are combined.
+Clinicians, pharmacists, procurement professionals, lawyers, patients and supply-chain specialists each see different constraints.
 
 ```mermaid
 flowchart LR
     A[Political objective]
-    --> B[Professional knowledge]
+    --> B[Domain expertise]
     --> C[Operational alternatives]
-    --> D[Safer intervention]
-    --> E[Greater probability of durable change]
+    --> D[Lower switching barriers]
+    --> E[More realistic behavioural change]
 ```
 
-This is one reason professional organising matters.
-
-It turns objection into infrastructure.
+The campaign gets stronger when objection becomes infrastructure.
 
 ---
 
-## 💾 Palantir: A Different Intervention Horizon
+## 💾 Palantir: A Different Clock
 
-Palantir presents a different kind of problem.
+Embedded enterprise software involves:
 
-The point here is **not**:
-
-> *Palantir should therefore remain in the NHS.*
-
-Nor:
-
-> *There is nothing concerning about Palantir.*
-
-Nor:
-
-> *Always buy from Palantir.*
-
-The point is that deeply integrated enterprise software creates a very different exit problem from a substitutable medicine purchase.
-
-Once an organisation has invested in:
-
-* implementation;
-* integration;
-* interfaces;
-* data migration;
-* staff training;
-* workflow redesign;
-* governance;
-* technical support;
-* interoperability;
-
-the incumbent acquires structural advantages.
+- integration;
+- interfaces;
+- migration;
+- staff training;
+- workflow redesign;
+- support;
+- governance;
+- interoperability;
+- sunk cost.
 
 ```mermaid
 flowchart TD
-    A[Supplier wins initial contract]
-    --> B[System integration]
-    --> C[Training + workflow adaptation]
-    --> D[Data / interface dependency]
-    --> E[Switching cost increases]
-    --> F[Incumbent advantage at next procurement]
+    A[Supplier wins contract]
+    --> B[Integration]
+    --> C[Workflow adapts]
+    --> D[Dependency increases]
+    --> E[Switching cost rises]
+    --> F[Incumbent advantage]
     --> G[Further integration]
-    --> E
+    --> D
 ```
 
-This is **path dependence**.
+This is path dependence.
 
-And path dependence matters for campaigning.
+It does **not** mean:
+
+> *leave Palantir in the NHS forever.*
+
+It means:
+
+> **if you want a credible exit, build the exit before the next procurement forces the decision.**
 
 ---
 
-## 🪤 Lock-In Changes What "Leave" Means
+## 🪤 Lock-In Changes The Campaign
 
-A campaign against an embedded software supplier may require considerably more than persuading an institution to dislike the supplier.
+A software exit may require:
 
-The institution may need:
+- a replacement supplier;
+- migration funding;
+- interoperable systems;
+- technical capacity;
+- contract planning;
+- retraining;
+- public-sector capability;
+- data-governance redesign.
 
-* a replacement vendor;
-* an interoperable replacement;
-* migration funding;
-* migration time;
-* retraining;
-* contractual planning;
-* technical capacity;
-* governance arrangements;
-* assurance that essential services will continue.
+Without this, an institution can arrive at the next procurement and conclude that the incumbent is still cheapest precisely because the institution has already spent years becoming dependent on it.
 
-Without that work, the organisation can reach the next procurement round and discover that the incumbent is still the cheapest or least disruptive option precisely because so much has already been built around it.
-
-That creates a nasty paradox:
-
-> **the longer an exit is postponed, the more expensive exit may become.**
-
-The appropriate response is not to abandon the campaign.
-
-It is to start building the exit route **before the exit is required**.
+The longer exit is postponed, the more expensive exit may become.
 
 ---
 
 ## ⏱️ Different Targets Need Different Clocks
-
-A useful BDS portfolio therefore contains multiple intervention horizons.
 
 ```mermaid
 flowchart TD
@@ -334,32 +237,25 @@ flowchart TD
     A --> C[Medium term]
     A --> D[Long term]
 
-    B --> B1[Substitute existing purchases]
-    B --> B2[Change discretionary procurement]
-    B --> B3[Use already mapped alternatives]
+    B --> B1[Existing safe substitution]
+    B --> B2[Discretionary procurement]
 
     C --> C1[Contract renewal]
     C --> C2[Supplier diversification]
-    C --> C3[Investment / financing decisions]
+    C --> C3[Financing / investment change]
 
-    D --> D1[Replace infrastructure]
+    D --> D1[Infrastructure replacement]
     D --> D2[Reduce vendor dependency]
     D --> D3[Build sovereign / alternative capacity]
 ```
 
-These categories should reinforce each other.
+The rational strategy is:
 
-Immediate wins demonstrate that change is possible.
-
-Medium-term campaigns exploit predictable decision points.
-
-Long-term work prevents today's dependencies becoming tomorrow's excuse for inaction.
+**take available substitutions now; organise around predictable contract points; build hard exits before they are needed.**
 
 ---
 
-## 🚫 "Teva Now" Does Not Mean "Palantir Forever"
-
-This false binary is worth killing explicitly.
+## 🚫 Teva Now Does Not Mean Palantir Forever
 
 ```text
 Teva may contain immediately substitutable procurement
@@ -370,73 +266,63 @@ Palantir should remain indefinitely
 And:
 
 ```text
-Palantir may require long-term exit planning
+Palantir may need long-term exit preparation
 ≠
-do nothing about Palantir now
+Palantir should receive no pressure now
 ```
 
-The sensible position can be:
-
-> **Take safe, actionable substitutions now while simultaneously building the contractual, technical and institutional capacity required for harder exits later.**
-
-That is not inconsistency.
-
-It is sequencing.
+This is sequencing, not ideological inconsistency.
 
 ---
 
 ## 📰 Salience Is Not Strategy
 
-Palantir has several characteristics that make it unusually easy to turn into a public symbol.
+Palantir is unusually easy to turn into a public symbol.
 
 It is:
 
-* enormous;
-* technologically consequential;
-* associated publicly with intelligence and defence;
-* politically controversial;
-* involved in major public-sector infrastructure;
-* attached to recognisable personalities;
-* unusually legible as a corporate antagonist.
+- enormous;
+- politically controversial;
+- connected publicly with defence and intelligence;
+- deeply embedded in public-sector discussion;
+- associated with recognisable personalities;
+- easy to narrate.
 
 That makes it an excellent **conversation object**.
 
-It does not automatically make it the intervention with the greatest marginal return.
-
-```mermaid
-flowchart LR
-    A[Public salience]
-    --> B[Media coverage]
-    --> C[Political attention]
-    --> D[Campaign attention]
-
-    E[Actual substitutability]
-    --> F[Potential behavioural leverage]
-
-    D -. not necessarily equal .-> F
-```
-
-This distinction is important.
-
-**Attention is a resource. It is not an outcome.**
+It does not automatically make it the highest-return immediate campaign target.
 
 ---
 
-## 🕸️ When A Company Becomes An Attention Sink
+## 🧽 Palantir As An Institutionally Absorptive Target
 
-A sufficiently salient company can become an **absorptive target**.
+There is another dimension beyond simple salience.
 
-Criticism from different political directions converges on it.
+A large technology supplier deeply integrated into government, defence, military or intelligence-adjacent systems may be able to sustain enormous reputational criticism because its **institutional utility protects the relationship**.
 
-Campaigners discuss it.
+```mermaid
+flowchart TD
+    A[High public controversy]
+    --> B[Reputational pressure]
 
-Journalists investigate it.
+    C[Deep institutional integration]
+    --> D[Strategic utility]
 
-Politicians criticise it.
+    B --> E[Company absorbs criticism]
+    D --> E
 
-Institutions review it.
+    E --> F{Does institutional relationship change?}
+    F -->|No| G[Criticism persists alongside integration]
+    F -->|Yes| H[Exit / restructuring]
+```
 
-The company can become the place where multiple anxieties about an entire system are deposited.
+That gives the target a peculiar robustness.
+
+Criticism can become extremely loud while the institutional relationship remains extremely durable.
+
+---
+
+## 🕸️ The Attention-Sink Problem
 
 ```mermaid
 flowchart TD
@@ -456,364 +342,233 @@ flowchart TD
     F --> P
     G --> P
 
-    P --> H[One highly legible controversy]
+    P --> H[One legible controversy]
 ```
 
-That can be useful.
+This is useful because the company opens conversations that otherwise remain abstract.
 
-It can make difficult structural questions discussable.
-
-It can also distort the map.
+It is risky because **one company can begin standing in for several different systems problems**.
 
 ---
 
-## 🌀 The Selective-Sacrifice Risk
+## 🌀 Selective-Sacrifice Risk
 
-Suppose the campaign eventually succeeds.
+Suppose Palantir leaves.
 
-Palantir leaves.
+Then ask:
 
-That could be a meaningful outcome.
+- Who replaces it?
+- Does the data architecture change?
+- Does procurement governance change?
+- Does US dependency change?
+- Do information-sharing assumptions change?
+- Does revolving-door governance change?
+- Does the underlying conduct motivating the campaign change?
 
-But then ask:
+If the answer is:
 
-* Who replaces it?
-* What happens to the data architecture?
-* What happens to procurement governance?
-* What happens to US dependency?
-* What happens to information-sharing arrangements?
-* What happens to the revolving-door problem?
-* What happens to the underlying military or foreign-policy relationships?
-* What happens to the conduct that originally motivated the campaign?
+> *same system, different supplier*
 
-If most answers are:
-
-> *substantially the same thing, through someone else*
-
-then the campaign has removed a supplier without necessarily correcting the system.
-
-```mermaid
-flowchart LR
-    A[Systemic concern]
-    --> B[Palantir becomes target]
-    --> C[Pressure concentrates]
-    --> D[Palantir removed]
-    --> E[Replacement supplier]
-    --> F[Underlying architecture persists]
-```
-
-This is where target strategy intersects with **selective sacrifice**.
-
-The sacrifice can be real.
-
-The correction can still be shallow.
+then removing the supplier may be worthwhile without being sufficient.
 
 ---
 
-## 🧿 "CIA-Linked" Is A Conversation Starter, Not An Argument
+## 🧿 Intelligence Associations Need Specific Analysis
 
-The intelligence and defence relationships around major technology companies deserve scrutiny.
+“CIA-linked” can open a conversation.
 
-But simply saying:
+It does not finish one.
 
-> *CIA-linked*
+Britain already maintains extensive intelligence and defence relationships with the United States.
 
-does not complete the analysis.
+So ask:
 
-Britain already participates in deep intelligence relationships with the United States, including through longstanding UK–US intelligence cooperation.
+- What information can the supplier access?
+- Under whose jurisdiction?
+- What remains sovereign?
+- What is compartmented?
+- What happens under political deterioration?
+- How portable is the data?
+- What capability has Britain outsourced?
+- What is the exit mechanism?
+- What specific risk follows from this arrangement?
 
-So the useful questions are more specific:
-
-* What information is accessible?
-* Under whose jurisdiction?
-* Under what contractual terms?
-* What is technically compartmented?
-* What is legally compartmented?
-* What dependencies have been created?
-* What happens if political relations deteriorate?
-* What sovereign capability has been lost?
-* What is the exit mechanism?
-* What does the supplier itself control?
-* What does the state control?
-* Which risks arise from the particular arrangement rather than simply from association with American intelligence?
-
-Those are serious questions.
-
-They are considerably more useful than spooky adjectives.
+Those are stronger questions than association alone.
 
 ---
 
-## 🇬🇧 The Better Palantir Conversation Is Bigger Than Palantir
+## 🇬🇧 The Bigger Data-Sovereignty Question
 
-The controversy provides an opportunity to ask something Britain should probably ask periodically anyway:
+The useful conversation is:
 
-> **Are our information-sharing and data-dependency arrangements still appropriate for the world we are entering?**
+> **Are Britain's information-sharing and technology dependencies still optimally structured for the geopolitical environment we are entering?**
 
-That includes relationships with:
+That can include:
 
-* the United States;
-* European partners;
-* defence alliances;
-* commercial technology suppliers;
-* cloud providers;
-* intelligence partners;
-* international research infrastructure.
+- the US;
+- European partners;
+- defence alliances;
+- cloud providers;
+- intelligence partners;
+- commercial software;
+- research infrastructure.
 
-The question is not necessarily whether Britain should withdraw from these relationships.
+The relevant balance is among:
 
-It is whether the current balance between:
+**sharing, interoperability, sovereignty, resilience and compartmentation.**
 
-**sharing, interoperability, sovereignty, resilience and compartmentation**
-
-still makes sense.
-
-That is a legitimate strategic conversation regardless of anyone's position on BDS.
-
----
-
-## 🧬 Campaigns Can Produce Useful Questions Without Being The Final Answer
-
-This matters because campaign value is not binary.
-
-A campaign may fail to achieve its primary objective while still:
-
-* exposing procurement practices;
-* revealing dependencies;
-* generating public expertise;
-* changing institutional language;
-* producing alternative suppliers;
-* making future intervention easier;
-* forcing governance questions into mainstream discussion.
-
-Palantir scrutiny has helped make questions about:
-
-* revolving doors;
-* public-sector technology;
-* data sovereignty;
-* procurement;
-* defence-tech relationships;
-* vendor dependency
-
-more publicly legible.
-
-That is useful.
-
-It still does not answer:
-
-> **Why this company, at this intensity, relative to other available interventions?**
-
-Both propositions can be true.
+This remains a worthwhile conversation even if Palantir eventually disappears from it.
 
 ---
 
 ## 📉 Marginal Campaign Return
 
-A useful concept here is **marginal campaign return**.
-
-Suppose another hundred hours of organising could be spent on:
-
-**A.** a famous infrastructure supplier whose exit requires several years;
-
-or
-
-**B.** a procurement category where alternatives already exist and purchasing decisions can change next month.
-
-There is no universal answer.
-
-But there should at least be a question.
+Ask what the **next unit of organising effort** can accomplish.
 
 ```mermaid
 flowchart TD
     A[Additional campaign effort]
-    --> B{Where does it go?}
+    --> B{Where?}
 
-    B --> C[High-salience / low-immediate-substitutability target]
-    B --> D[Lower-salience / high-substitutability target]
+    B --> C[High-salience / low-immediate-substitutability]
+    B --> D[Lower-salience / high-substitutability]
 
-    C --> E[Long-term pressure + capacity building]
-    D --> F[Potential immediate material change]
+    C --> E[Long-term pressure + exit building]
+    D --> F[Potential near-term material change]
 ```
 
-Campaign movements need both.
+Both may be necessary.
 
-What they should avoid is allocating effort solely according to which target generates the strongest emotional or media response.
+The error is allowing attention alone to allocate strategy.
 
 ---
 
-## 🧠 The Symbol Is Not The System
+## 🧰 Build Exit Ramps
 
-This is where campaign design becomes vulnerable to **means–ends inversion**.
+Campaign infrastructure can include:
 
-```mermaid
-flowchart TD
-    A[Protect civilians / change conduct]
-    --> B[Identify economic leverage]
-    --> C[Select company]
-    --> D[Company becomes symbol]
-    --> E[Defeating symbol becomes objective]
-    --> F[Original outcome becomes harder to see]
-```
-
-Symbols are useful.
-
-Humans organise around legible things.
-
-“Change the international political economy sustaining this conduct” is not a particularly convenient placard.
-
-A company name is.
-
-The problem begins when the simplification required for mobilisation becomes the analytical model used for strategy.
-
----
-
-## 🧰 Build Exit Ramps Before Demanding Exit
-
-One of the most constructive things a campaign can do is build the conditions that make compliance easier.
-
-That can include:
-
-* alternative supplier databases;
-* procurement guidance;
-* contract mapping;
-* model ethical-procurement clauses;
-* clinical substitution guidance;
-* interoperability requirements;
-* open standards;
-* migration plans;
-* financing alternatives;
-* legal analysis;
-* shareholder resolutions;
-* professional guidance;
-* public-sector replacement capacity.
+- alternative supplier databases;
+- clinical substitution guides;
+- contract mapping;
+- ethical procurement clauses;
+- migration plans;
+- interoperability standards;
+- financing alternatives;
+- legal analysis;
+- public replacement capacity;
+- professional guidance.
 
 ```mermaid
 flowchart LR
     A[Demand change]
-    --> B[Identify barriers to change]
+    --> B[Identify exit barriers]
     --> C[Build alternatives]
     --> D[Reduce switching cost]
-    --> E[Increase probability of exit]
+    --> E[Increase probability of change]
 ```
 
-This changes the campaign from:
-
-> *Why haven't you left?*
-
-toward:
-
-> **Here is how leaving becomes possible.**
-
-Both pressure and infrastructure matter.
+Pressure and replacement capacity work better together.
 
 ---
 
-## 🏢 Give Institutions A Usable Reason To Change
+## 🏢 Give Institutions A Usable Reason To Move
 
-Organisations contain people who may privately agree with a campaign while lacking institutional authority to act on moral preference alone.
+External concern can become internally actionable through:
 
-Pressure can change the internal decision environment.
-
-A procurement team may be able to say:
-
-* reputational exposure has increased;
-* supply risk has increased;
-* insurance has become more difficult;
-* customer confidence is affected;
-* staff retention is affected;
-* investors are concerned;
-* contractual risk has changed;
-* alternative suppliers now exist.
-
-That converts an external ethical objection into an **institutionally legible cost**.
+- reputational cost;
+- customer pressure;
+- staff pressure;
+- financing;
+- insurance;
+- legal exposure;
+- alternative supply;
+- contractual risk.
 
 ```mermaid
 flowchart TD
     A[External ethical objection]
-    --> B[Campaign pressure]
-    --> C[Institutionally legible consequences]
-    --> D[Internal business case for change]
+    --> B[Campaign]
+    --> C[Institutionally legible consequence]
+    --> D[Internal case for change]
     --> E[Changed behaviour]
 ```
 
-That is not an accidental side effect.
-
-It is often the mechanism.
+That translation is often the real mechanism.
 
 ---
 
 ## 💥 Direct Action And Leverage
 
-Some direct-action tactics also make more sense when viewed through this lens.
+A limited physical intervention may create a larger economic consequence through:
 
-A superficial physical intervention can create disproportionately large institutional consequences.
+- remediation;
+- inspection;
+- shutdown;
+- contractual interruption;
+- insurance;
+- publicity.
 
-For example:
+That does not settle the separate questions of legality, violence, intimidation or proportionality.
 
-```mermaid
-flowchart LR
-    A[Limited physical disruption]
-    --> B[Inspection / remediation]
-    --> C[Operational interruption]
-    --> D[Financial / contractual cost]
-    --> E[Cost of relationship increases]
-```
+Those need their own taxonomy.
 
-This does not settle whether a particular intervention is lawful, proportionate or violent.
-
-Those questions require their own analysis.
-
-The narrower point is that the intended target of an intervention may be **the institution's cost calculation**, rather than the physical object itself.
-
-Campaign strategy should be analysed at the level where its intended leverage operates.
+The campaign analysis should simply identify **where the intended leverage operates**.
 
 ---
 
-## 🩸 Do Not Make Other People Pay For Your Leverage
+## 🩸 Do Not Externalise Campaign Costs Downward
 
-Behavioural intervention needs safeguards.
+Pressure should reach decision-makers rather than merely harming people with less power.
 
-A campaign that externalises its own costs onto vulnerable people can reproduce exactly the problem it claims to oppose.
+Ask about:
 
-In healthcare, this means patient safety.
+- patients;
+- workers;
+- civilians;
+- disabled people;
+- low-income consumers;
+- service users;
+- small suppliers.
 
-Elsewhere it can mean:
+A campaign reproduces the problem it opposes if it simply externalises its own costs onto the vulnerable.
 
-* workers;
-* civilians;
-* disabled people;
-* low-income consumers;
-* small suppliers;
-* communities dependent on essential infrastructure.
+---
 
-The appropriate question is not simply:
+## ⚠️ Failure Modes
 
-> *Can we create pain?*
+### Symbol Capture
+The target becomes more important than the outcome.
 
-It is:
+### Salience Allocation
+Press interest determines strategy.
 
-> **Can we make the relevant decision-maker experience the cost of continuing without simply transferring that cost onto someone with less power?**
+### No Off-Ramp
+The campaign cannot define changed behaviour that would reduce pressure.
 
-That is much harder.
+### Non-Substitutability
+The target cannot realistically be exited without unacceptable consequences.
 
-It is also much better campaign design.
+### Lock-In Delay
+Years of campaigning occur without building replacement capacity.
+
+### Collateralisation
+Patients, workers or civilians absorb the cost.
+
+### Impossible Compliance
+There is no practical route for the institution to satisfy the demand.
+
+### Absorptive Targeting
+A highly robust actor consumes enormous criticism while the surrounding system changes very little.
+
+### Selective Sacrifice
+Removing one company becomes sufficient proof that the problem has been addressed.
+
+### Heat Without Transmission
+Publicity increases; relevant decision incentives do not.
 
 ---
 
 ## 📊 Measure Outcomes, Not Heat
-
-A campaign dashboard should not stop at:
-
-```text
-mentions
-headlines
-protests
-viral posts
-political statements
-```
-
-Those are intermediate signals.
-
-The harder measures are:
 
 ```mermaid
 flowchart TD
@@ -822,94 +577,53 @@ flowchart TD
     --> C[Investment changed?]
     --> D[Contract changed?]
     --> E[Alternative capacity created?]
-    --> F[Relevant conduct became costlier?]
+    --> F[Conduct became costlier?]
     --> G[Behaviour changed?]
     --> H[Harm reduced?]
 ```
 
-Not every campaign can demonstrate the entire causal chain.
+Headlines are signals.
 
-But remembering the chain prevents attention from becoming a substitute for effectiveness.
+They are not the end of the causal chain.
 
 ---
 
-## 🧮 A Simple Target Matrix
+## 🧮 Target Matrix
 
-A useful campaign assessment can therefore ask:
-
-| Dimension            | Question                                                |
-| -------------------- | ------------------------------------------------------- |
-| **Relationship**     | How closely is the target connected to the conduct?     |
-| **Substitutability** | Is there a viable alternative?                          |
-| **Switching cost**   | What does exit actually require?                        |
-| **Time horizon**     | When could change realistically occur?                  |
-| **Leverage**         | What behaviour could the intervention alter?            |
-| **Collateral risk**  | Who else bears the cost?                                |
-| **Readiness**        | Has an exit route already been built?                   |
-| **Lock-in risk**     | Does delay make future exit harder?                     |
-| **Measurability**    | What observable change would count as success?          |
-| **Off-ramp**         | What changed behaviour would justify reducing pressure? |
-
-This does not decide political priorities automatically.
-
-It makes the reasoning inspectable.
+| Dimension | Question |
+|---|---|
+| Relationship | How closely is the target connected to the conduct? |
+| Substitutability | Is there a viable alternative? |
+| Switching cost | What does exit actually require? |
+| Time horizon | When could change realistically occur? |
+| Leverage | What behaviour could change? |
+| Collateral risk | Who else bears the cost? |
+| Readiness | Has the exit route already been built? |
+| Lock-in risk | Does delay make future exit harder? |
+| Absorptive capacity | Can the target simply withstand the criticism? |
+| Measurability | What observable result counts as success? |
+| Off-ramp | What change permits pressure to adapt or end? |
 
 ---
 
 ## 🌱 A Portfolio, Not A Purity Test
 
-The strongest version of BDS does not need every participant to pursue the same company at the same moment.
+A mature strategy can combine:
 
-It can contain:
+- immediate substitution;
+- procurement intervention;
+- divestment;
+- infrastructure exit;
+- regulation;
+- professional organising;
+- public education;
+- replacement-capacity building.
 
-### Immediate substitution
-
-Act where alternatives already exist.
-
-### Procurement intervention
-
-Prepare for identifiable purchasing and renewal windows.
-
-### Divestment
-
-Change financing and ownership relationships where leverage exists.
-
-### Infrastructure strategy
-
-Build the capacity required to exit deeply embedded suppliers.
-
-### Regulation
-
-Change the rules governing what institutions are permitted or required to consider.
-
-### Professional organising
-
-Use domain expertise to identify interventions that outsiders would miss.
-
-### Public education
-
-Make less visible economic relationships legible enough to organise around.
-
-These are complementary.
+The campaign does not need one company to carry the entire political meaning of the problem.
 
 ---
 
 ## 🪫 Do Not Burn Every Campaign To Feed One
-
-A movement can accidentally consume its own intervention capacity.
-
-If one target monopolises:
-
-* press attention;
-* political argument;
-* research;
-* legal support;
-* activist labour;
-* professional expertise;
-
-then other campaigns may become harder to sustain.
-
-That matters even if the dominant campaign is completely justified.
 
 The question is not:
 
@@ -917,17 +631,13 @@ The question is not:
 
 It is:
 
-> **How much of the available attention should this target absorb relative to the other routes to the same objective?**
+> **How much of the available attention should this target absorb relative to other routes to the same objective?**
 
-A strategy that cannot answer that question risks allowing salience to allocate its resources for it.
+A movement that cannot answer that risks allowing salience to set strategy by default.
 
 ---
 
-## ♻️ Keep Returning To The Feedback Loop
-
-The campaign began because an outcome was considered intolerable.
-
-So keep the outcome in view.
+## ♻️ Keep Returning To The Outcome
 
 ```mermaid
 flowchart TD
@@ -940,84 +650,46 @@ flowchart TD
     E -->|No| F[Reassess intervention]
     F --> B
 
-    E -->|Yes| G[Assess whether harm decreases]
-    G --> H{Desired outcome reached?}
+    E -->|Yes| G[Did harm reduce?]
+    G --> H{Objective reached?}
 
     H -->|No| F
-    H -->|Yes| I[Pressure can adapt or end]
+    H -->|Yes| I[Pressure adapts / ends]
 ```
 
-That is what makes the campaign a feedback mechanism rather than an identity.
-
-Failure is information.
-
-Success is information.
-
-Changed conditions are information.
-
-The intervention should be capable of adapting to all three.
-
----
-
-## 🎯 The Strategic Principle
-
-BDS does not become more serious by identifying the maximum possible number of companies to condemn.
-
-It becomes more serious when it gets better at connecting:
-
-**conduct → relationship → leverage → intervention → behavioural change.**
-
-The target should remain subordinate to the outcome.
-
-The famous company is not automatically the best company.
-
-The hardest company is not automatically the most important company.
-
-The easiest company is not automatically the most important company either.
-
-Different relationships operate on different clocks.
-
-So organise on different clocks.
-
-**Take the available substitution now.
-Prepare for the procurement window next year.
-Build the infrastructure required for the exit five years from now.**
-
-And keep asking why.
-
-Because the objective was never supposed to be winning the boycott.
-
-It was supposed to be making the boycott unnecessary.
+The campaign should remain capable of learning.
 
 ---
 
 ## 🌌 Constellations
 
-💸 🎯 ♻️ 🩺 🪤 — behavioural incentives; campaign portfolios; procurement; substitutability; lock-in; strategic divestment.
+💸 🎯 ♻️ 🪤 🧽 — campaign portfolios; substitutability; lock-in; absorptive targets; behavioural leverage.
 
 ## ✨ Stardust
 
-palestine, bds, behavioural change, campaign strategy, procurement, substitutability, switching costs, vendor lock-in, divestment, negative feedback
+palestine, bds, behavioural change, campaign strategy, procurement, substitutability, switching costs, vendor lock-in, absorptive targets, divestment
 
 ---
 
 ## 🏮 Footer
 
-*💸 Incentivising Behavioural Change and BDS* is a living node of the **Polaris Protocol**.
-It develops an applied framework for choosing, sequencing and evaluating economic-pressure interventions according to their capacity to alter behaviour, while distinguishing immediate substitution from the longer work required to unwind embedded institutional dependencies.
+*💸 Incentivising Behavioural Change and BDS* is a living node of the **Polaris Protocol**.  
+It develops an applied framework for choosing, sequencing and evaluating economic-pressure interventions according to their ability to alter behaviour, while distinguishing immediately executable substitutions from the longer work required to unwind embedded and criticism-resistant institutional dependencies.
 
 > 📡 Cross-references:
 >
-> * [🎯 What Was BDS Supposed To Do?](./🎯_what_was_bds_supposed_to_do.md) — *the originating behavioural logic of boycott, divestment and sanctions and its subsequent narrative transformation*
-> * [🌀 Absorption and Selective Sacrifice](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🌀_absorption_and_selective_sacrifice.md) — *how corrective pressure can concentrate on an absorptive target without propagating through the wider system*
-> * [💸 Making Harm Too Expensive To Continue](../../../../../🌕_5_Long_Strategies/💸_Business_Is_Tooling/💸_making_harm_too_expensive_to_continue.md) — *generalising behavioural deincentivisation beyond the Palestine case*
+> - [🎯 What Was BDS Supposed To Do?](./🎯_what_was_bds_supposed_to_do.md) — *the originating behavioural logic of boycott, divestment and sanctions*
+> - [🌀 Absorption and Selective Sacrifice](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🌀_absorption_and_selective_sacrifice.md) — *absorptive targets, bounded accountability and selective sacrifice*
+> - [💸 Making Harm Too Expensive To Continue](../../../../../🌕_5_Long_Strategies/💸_Business_Is_Tooling/💸_making_harm_too_expensive_to_continue.md) — *general long-term design of economic negative feedback*
 >
 > 🏮 Return To:
 >
-> * [🌍 Global Powers](./) — *1up*
-> * [🇵🇸 Palestine Factchecking](../..) — *3up*
-> * [🌌 Polaris Protocol - Root](../../../../../README.md) — *root*
+> - [🌍 Global Powers](./README.md) — *1up*
+> - [🇵🇸 Palestine Factchecking](../README.md) — *3up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌗 In The Moment](../../../README.md) — *3up*
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-23*
+_Last updated: 2026-08-23_
