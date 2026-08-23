@@ -1,6 +1,6 @@
 # ☔️ Digital Quicksand 101
 
-**First created:** 2025-12-27 \| **Last updated:** 2026-08-19\
+**First created:** 2025-12-27 \| **Last updated:** 2026-08-23  
 *Why complex digital and institutional systems can produce persistent
 instability that is difficult to diagnose or resolve.*
 
@@ -305,4 +305,4 @@ from interacting systems under sustained pressure.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-19*
+*Last updated: 2026-08-23*
