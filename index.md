@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 19:06:08 UTC_
+_Generated on 2026-08-23 19:06:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -699,7 +699,6 @@ _Generated on 2026-08-23 19:06:08 UTC_
         - [`🦑_toxic_systems_dont_need_monsters.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🦑_toxic_systems_dont_need_monsters.md)
         - [`🦕_post_modern_fellow_travellers.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🦕_post_modern_fellow_travellers.md)
         - [`🦠_toxic_legitimacy_cycles.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🦠_toxic_legitimacy_cycles.md)
-        - [`🧀_swiss_cheese_multi_agency_failure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧀_swiss_cheese_multi_agency_failure.md)
         - [`🧊_the_freeze_sector_wide_silence_handling_pattern.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧊_the_freeze_sector_wide_silence_handling_pattern.md)
         - [`🧠_bureaucratic_fast_thinking_and_reputational_harm.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧠_bureaucratic_fast_thinking_and_reputational_harm.md)
         - [`🧠_multilock_overlapping_covertion.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧠_multilock_overlapping_covertion.md)
@@ -5064,6 +5063,7 @@ _Generated on 2026-08-23 19:06:08 UTC_
           - [**🌀_System_Governance/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
             - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
             - [`🏚️_seven_layers_of_safeguard_breakdown.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏚️_seven_layers_of_safeguard_breakdown.md)
+            - [`🧀_swiss_cheese_multi_agency_failure.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🧀_swiss_cheese_multi_agency_failure.md)
           - [**🐍_Ouroborotic_Violence/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
             - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
           - [**🦕_Elder_Influencers/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
