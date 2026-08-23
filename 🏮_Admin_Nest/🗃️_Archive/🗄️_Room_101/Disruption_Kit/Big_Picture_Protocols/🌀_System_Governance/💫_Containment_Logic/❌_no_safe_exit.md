@@ -1,5 +1,5 @@
 # ❌ No-Safe-Exit Conditions — How Systems Trap People Through Structure, Not Chains  
-**First created:** 2025-11-22 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-22 | **Last updated:** 2026-08-23  
 *Most people don’t stay in harmful systems because they agree. They stay because the architecture makes leaving feel fatal.*  
 
 ---
@@ -253,12 +253,12 @@ It explains how systems trap individuals through reputational, emotional, social
 
 > 📡 Cross-references:
 > 
-> - [🧨 Trauma-Driven Compliance — When the Nervous System Says “Yes” to Stay Alive](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🧨_trauma_driven_compliance.md)  
-> - [🧬 Multi-Year Pipeline Architecture — How Systems Prepare a Person Before They Recruit Them](./🧬_multi_year_pipeline_architecture.md)  
+> - [🧨 Trauma-Driven Compliance — When the Nervous System Says “Yes” to Stay Alive]  
+> - [🧬 Multi-Year Pipeline Architecture — How Systems Prepare a Person Before They Recruit Them]  
 > - [*Pending:* 🧭 Timeline of Capture]  
-> - [🧩 Systemic Abuse Logic — Harm as Procedure, Not Accident](./🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md)  
-> - [🧠 Emotional Targeting — How Professional Bookers Find the Soft Spots](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/🧠_emotional_targeting.md)  
+> - [🧩 Systemic Abuse Logic — Harm as Procedure, Not Accident]  
+> - [🧠 Emotional Targeting — How Professional Bookers Find the Soft Spots]  
 
 *Survivor authorship is sovereign. If leaving feels dangerous, that is evidence of the system — not of you.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-08-23_
