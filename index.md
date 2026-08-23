@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 19:06:57 UTC_
+_Generated on 2026-08-23 19:22:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -699,6 +699,7 @@ _Generated on 2026-08-23 19:06:57 UTC_
         - [`🦑_toxic_systems_dont_need_monsters.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🦑_toxic_systems_dont_need_monsters.md)
         - [`🦕_post_modern_fellow_travellers.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🦕_post_modern_fellow_travellers.md)
         - [`🦠_toxic_legitimacy_cycles.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🦠_toxic_legitimacy_cycles.md)
+        - [`🧀_when_process_holes_align.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧀_when_process_holes_align.md)
         - [`🧊_the_freeze_sector_wide_silence_handling_pattern.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧊_the_freeze_sector_wide_silence_handling_pattern.md)
         - [`🧠_bureaucratic_fast_thinking_and_reputational_harm.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧠_bureaucratic_fast_thinking_and_reputational_harm.md)
         - [`🧠_multilock_overlapping_covertion.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧠_multilock_overlapping_covertion.md)
@@ -715,7 +716,6 @@ _Generated on 2026-08-23 19:06:57 UTC_
         - [`🧩_lepore_continuum.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_lepore_continuum.md)
         - [`🧩_perpetrator_competence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_perpetrator_competence.md)
         - [`🧩_risk_vector_inversions_in_authoritarian_systems.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_risk_vector_inversions_in_authoritarian_systems.md)
-        - [`🧩_swiss_cheese_failures_when_process_holes_align.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_swiss_cheese_failures_when_process_holes_align.md)
         - [`🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md)
         - [`🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md)
         - [`🧬_harm_without_perpetrators_the_architecture_failure_model.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧬_harm_without_perpetrators_the_architecture_failure_model.md)
