@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 01:09:42 UTC_
+_Generated on 2026-08-23 01:22:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -186,6 +186,8 @@ _Generated on 2026-08-23 01:09:42 UTC_
     - [`🥛_why_people_cannot_be_beaten_like_eggs_into_breakfast.md`](🌑_1_Origin_Points/🍌_Why_Kafka/🥛_why_people_cannot_be_beaten_like_eggs_into_breakfast.md)
     - [`🧭_why_polaris_protocol.md`](🌑_1_Origin_Points/🍌_Why_Kafka/🧭_why_polaris_protocol.md)
   - [**🍔_Burger_Basics/**](🌑_1_Origin_Points/🍔_Burger_Basics/)
+    - [**📲_Tech_Sovereignity/**](🌑_1_Origin_Points/🍔_Burger_Basics/📲_Tech_Sovereignity/)
+      - [`README.md`](🌑_1_Origin_Points/🍔_Burger_Basics/📲_Tech_Sovereignity/README.md)
     - [`README.md`](🌑_1_Origin_Points/🍔_Burger_Basics/README.md)
   - [**🧄_Exousiología/**](🌑_1_Origin_Points/🧄_Exousiología/)
     - [**🌍_Comparative_Systems/**](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/)
