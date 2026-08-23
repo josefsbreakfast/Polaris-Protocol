@@ -663,7 +663,33 @@ The campaign should remain capable of learning.
 
 ## 🌌 Constellations
 
-💸 🎯 ♻️ 🪤 🧽 — campaign portfolios; substitutability; lock-in; absorptive targets; behavioural leverage.
+💸 🎯 ♻️ 🪤 🧽 — campaign portfolios; substitutability; lock-in; absorptive targets; behavioural leverage.  
+
+*Follow the evidence:*  
+
+### 🇵🇸 BDS Movement
+- [BDS Movement](https://bdsmovement.net/) — Palestinian-led boycott, divestment and sanctions movement; useful for the movement’s stated objectives, campaign logic, target guidance and strategic framing.
+- [What Is BDS?](https://bdsmovement.net/what-bds) — overview of the movement’s aims, origins and relationship to the South African anti-apartheid precedent.
+
+### 💊 Boycott Teva
+- [Boycott Teva](https://boycottteva.org/) — medicine-focused campaign materials, including practical work around identifying Teva products and possible alternatives.
+
+### 🩺 Medact
+- [Medact](https://www.medact.org/) — UK health-worker organisation working across health justice, militarism, economic justice and related structural issues.
+- [Medact — Palestine](https://www.medact.org/project/palestine/) — Palestine-specific health-worker campaigning, resources and organising, including material on BDS and NHS procurement.
+
+### 🩻 Doctors Against Genocide
+- [Doctors Against Genocide](https://www.doctorsagainstgenocide.org/) — international coalition of healthcare professionals working on atrocity prevention, medical ethics, advocacy and protection of healthcare workers and systems.
+
+### ✡️ Jewish Voice for Peace — Health Advisory Council
+- [Jewish Voice for Peace — Health Advisory Council](https://www.jewishvoiceforpeace.org/health-advisory-council/) — JVP network of physicians, nurses, mental-health workers, public-health professionals and other health workers addressing health, healthcare and human rights in Palestine/Israel.
+- [JVP Health Advisory Council](https://www.jvphealth.org/) — dedicated JVP-HAC site, including healthcare-focused resources, campaigns and events.
+
+### 🧭 Research Pathways
+- **Medical and professional boycotts of apartheid South Africa** — historical precedent to develop with primary medical-association and professional-body sources.
+- **Anti-apartheid professional non-cooperation** — comparative material on the use of institutional, academic, medical, trade-union and professional pressure as part of wider behavioural and economic deincentivisation.
+
+---
 
 ## ✨ Stardust
 
@@ -679,15 +705,15 @@ It develops an applied framework for choosing, sequencing and evaluating economi
 > 📡 Cross-references:
 >
 > - [🎯 What Was BDS Supposed To Do?](./🎯_what_was_bds_supposed_to_do.md) — *the originating behavioural logic of boycott, divestment and sanctions*
-> - [🌀 Absorption and Selective Sacrifice](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🌀_absorption_and_selective_sacrifice.md) — *absorptive targets, bounded accountability and selective sacrifice*
-> - [💸 Making Harm Too Expensive To Continue](../../../../../🌕_5_Long_Strategies/💸_Business_Is_Tooling/💸_making_harm_too_expensive_to_continue.md) — *general long-term design of economic negative feedback*
+> - [🌀 Absorption and Selective Sacrifice](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🌀_absorption_and_selective_sacrifice.md) — *absorptive targets, bounded accountability and selective sacrifice*
+> - [💸 Making Harm Too Expensive To Continue](../../../../🌕_5_Long_Strategies/💸_Business_Is_Tooling/💸_making_harm_too_expensive_to_continue.md) — *general long-term design of economic negative feedback*
 >
 > 🏮 Return To:
 >
 > - [🌍 Global Powers](./README.md) — *1up*
-> - [🇵🇸 Palestine Factchecking](../README.md) — *3up*
+> - [🇵🇸 Palestine Factchecking](../README.md) — *2up*
 > - [📲 Press Matters](../../README.md) — *3up*
-> - [🌗 In The Moment](../../../README.md) — *3up*
+> - [🌗 In The Moment](../../../README.md) — *4up*
 > - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
