@@ -53,6 +53,44 @@ Everything else important is aligned: the 31-record CSV/XLSX parity, README coun
 - [📰: The Telegraph: “Iranian hackers shut down UK power plant”](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)  
 - [📰: The Times: “Iranian hackers forced UK energy facility to shut for four days”](https://www.thetimes.com/uk/defence/article/iranian-hackers-forced-uk-energy-facility-to-shut-for-four-days-q7tdg8dct)  
 
-
 ---  
+
+20260823:  
+
+There is one credible new development that crosses the notification threshold.
+
+United Kingdom — energy. A cyberattack disclosed on 23 August 2026 forced a small-scale British power generator offline for four days in July. The facility has not been identified publicly. UK officials say the site was too small to threaten the wider electricity system, and there was no national grid-level impact. The government nonetheless briefed energy-sector chief executives and issued guidance after the incident.  
+
+Operational impact: this was not just reconnaissance or a website outage. The attackers achieved enough access to stop physical energy-generation operations for four days. Staff had to restore the facility before it could resume operation. That makes it materially more significant than most of the Iran-war-adjacent DDoS and defacement activity seen since 28 February.  
+
+Attribution confidence: moderate, not confirmed. Multiple reports describe the attackers as Iran-linked, and the incident is being treated in that context by British officials. But the NCSC has not publicly issued a formal technical attribution naming Iran, the IRGC or a specific Iranian group. That distinction matters. The current public evidence supports “suspected Iran-linked activity” more strongly than “confirmed Iranian state operation.”  
+
+Competing explanations remain live: an Iran-aligned hacktivist group acting independently; an operator borrowing Iranian-associated ICS tradecraft; a criminal intrusion subsequently interpreted through the war context; or a contractor/proxy relationship in which the operator and ultimate sponsor are different. There is also no public technical detail yet tying the attack specifically to CyberAv3ngers, although the timing and operational style overlap with the wider PLC-targeting pattern.
+
+The incident does fit known Iranian methods and wartime incentives unusually well. Iran-linked actors have a documented history of opportunistically targeting exposed industrial-control equipment, and current U.S. advisories assess Iranian-affiliated actors as deliberately seeking PLC access capable of causing disruption. The UK’s own earlier warning said Iran-linked actors retained cyber capability and that British organisations should prepare for ICS-related activity during the conflict.  
+
+The strongest strategic interpretation at present is demonstrative disruption rather than maximum damage. The plant was small, the attack produced a real operational shutdown, but there is no evidence the attackers attempted to create cascading grid failure. One possibility reportedly under examination is that the objective was to demonstrate the ability to penetrate and disable British energy infrastructure.  
+
+How this changes the trend since 28 February 2026
+
+This is a meaningful geographic and sectoral expansion.
+
+Until now, the strongest wartime operational-disruption cluster outside Israel was concentrated in the United States, particularly water/wastewater and PLC-targeting activity. The UK incident adds:
+
+U.S. water/industrial-control disruption → broader U.S. PLC pre-positioning → UK energy-generation disruption.
+
+That makes the pattern harder to describe as merely one badly secured American water-device ecosystem.
+
+It now looks more consistent with a broader search for reachable Western operational technology where relatively small intrusions can produce disproportionate political signalling.
+
+The timing matters as well. The British incident occurred in July, around the same period as the U.S. water-system wave, but became public only on 23 August. That clustering does not prove coordination, but it strengthens the case for treating the July infrastructure activity as a cross-sector wartime pattern rather than isolated local cybercrime.  
+
+I did not find another newly disclosed incident today in government administration, defence, healthcare, education, transport, telecommunications or systemically important banking with comparable operational effect and sufficiently credible sourcing to justify a separate alert.
+
+- [The Guardian: “Iran-linked hackers shut down UK power generator for four days”](https://www.theguardian.com/technology/2026/aug/23/iran-linked-hackers-uk-power-generator-cyber-attack)
+- [BBC News: “Iran-linked hackers 'shut down UK power generator'”](https://www.bbc.co.uk/news/articles/cly33k2r3d2o)
+- [The Telegraph: “Iranian hackers shut down British power generator”](https://www.telegraph.co.uk/business/2026/08/23/iranian-hackers-shut-down-british-power-generator/)
+- [NCSC: “UK organisations urged to bolster cyber resilience amid Iran conflict”](https://www.ncsc.gov.uk/news/uk-organisations-urged-bolster-cyber-resilience-amid-iran-conflict)
+- [FBI: “Defending Against an Active Threat to Siemens S7 Series PLCs”](https://www.fbi.gov/investigate/cyber/alerts/2026/defending-against-an-active-threat-to-siemens-s7-series-plcs)
+
 
