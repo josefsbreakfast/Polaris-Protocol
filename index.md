@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 21:49:48 UTC_
+_Generated on 2026-08-23 21:51:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -662,7 +662,6 @@ _Generated on 2026-08-23 21:49:48 UTC_
         - [`📚_suppressed_safe_collection.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📚_suppressed_safe_collection.md)
         - [`📚_venus_in_furs_witchfinder_litmus_paper.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📚_venus_in_furs_witchfinder_litmus_paper.md)
         - [`📜_precrime_governance_uk.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📜_precrime_governance_uk.md)
-        - [`📜_when_containment_becomes_identity.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📜_when_containment_becomes_identity.md)
         - [`📠_the_72_hour_comedy_of_compliance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📠_the_72_hour_comedy_of_compliance.md)
         - [`📡_curated_reality_in_westminster.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📡_curated_reality_in_westminster.md)
         - [`📡_institutional_risk_posture_diagnostics.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📡_institutional_risk_posture_diagnostics.md)
@@ -5062,6 +5061,7 @@ _Generated on 2026-08-23 21:49:48 UTC_
             - [**💫_Containment_Logic/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
               - [`❌_no_safe_exit.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❌_no_safe_exit.md)
               - [`🏚️_seven_layers_of_safeguard_breakdown.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)
+              - [`📜_when_containment_becomes_identity.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📜_when_containment_becomes_identity.md)
               - [`🧀_swiss_cheese_multi_agency_failure.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧀_swiss_cheese_multi_agency_failure.md)
               - [`🪆_containment_logic_as_witch_logic.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪆_containment_logic_as_witch_logic.md)
             - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
