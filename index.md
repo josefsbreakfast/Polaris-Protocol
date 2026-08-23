@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 00:08:53 UTC_
+_Generated on 2026-08-23 00:10:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3482,6 +3482,8 @@ _Generated on 2026-08-23 00:08:53 UTC_
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/⚖️_Law/README.md)
       - [**🌍_Global_Powers/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/README.md)
+        - [`🎯_what_was_bds_supposed_to_do.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/🎯_what_was_bds_supposed_to_do.md)
+        - [`💸_incentivising_behavioural_change_and_bds.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/💸_incentivising_behavioural_change_and_bds.md)
       - [**🌾_Start_Here/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌾_Start_Here/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌾_Start_Here/README.md)
         - [`⚖️_factchecking_principles.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌾_Start_Here/⚖️_factchecking_principles.md)
