@@ -581,8 +581,8 @@ It develops a cybernetic framework for distinguishing visible accountability fro
 
 > 📡 Cross-references:
 >
-> - [🎯 What Was BDS Supposed To Do?](../../../../🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/🎯_what_was_bds_supposed_to_do.md) — *case analysis of intended behavioural feedback and subsequent narrative transformation*
-> - [💸 Making Harm Too Expensive To Continue](../../../../🌕_5_Long_Strategies/💸_Business_Is_Tooling/💸_making_harm_too_expensive_to_continue.md) — *designing economic feedback that reaches the decision point rather than terminating at symbolic accountability*
+> - [🎯 What Was BDS Supposed To Do?](../../../🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/🎯_what_was_bds_supposed_to_do.md) — *case analysis of intended behavioural feedback and subsequent narrative transformation*
+> - [💸 Making Harm Too Expensive To Continue](../../../🌕_5_Long_Strategies/💸_Business_Is_Tooling/💸_making_harm_too_expensive_to_continue.md) — *designing economic feedback that reaches the decision point rather than terminating at symbolic accountability*
 >
 > 🏮 Return To:
 >
