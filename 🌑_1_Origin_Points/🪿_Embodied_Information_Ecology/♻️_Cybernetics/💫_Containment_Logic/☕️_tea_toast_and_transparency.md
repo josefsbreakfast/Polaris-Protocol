@@ -1,6 +1,6 @@
 # ☕️ Tea, Toast, and Transparency
 
-**First created:** 2025-11-02 \| **Last updated:** 2026-08-19\
+**First created:** 2025-11-02 \| **Last updated:** 2026-08-23  
 *How tea operates in British public life as both a cultural stabiliser
 and a way of softening moments of tension.*
 
@@ -222,4 +222,4 @@ shaping both perception and response.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-19*
+*Last updated: 2026-08-23*
