@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 12:08:44 UTC_
+_Generated on 2026-08-23 12:13:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4991,14 +4991,20 @@ _Generated on 2026-08-23 12:08:44 UTC_
       - [`🦤_taxidermied_politics.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/01_🦚_Beginnings/🦤_taxidermied_politics.md)
       - [`🪶_the_feather_plucking_machine.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/01_🦚_Beginnings/🪶_the_feather_plucking_machine.md)
       - [`🪺_harvest_ethics.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/01_🦚_Beginnings/🪺_harvest_ethics.md)
-    - [**🧮_05_The_Keepers_Ledgers/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🧮_05_The_Keepers_Ledgers/)
-      - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🧮_05_The_Keepers_Ledgers/README.md)
-    - [**🧺_04_Where_The_Feathers_Go/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🧺_04_Where_The_Feathers_Go/)
-      - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🧺_04_Where_The_Feathers_Go/README.md)
-    - [**🪶_03_Those_Are_Very_Nice_Feathers/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🪶_03_Those_Are_Very_Nice_Feathers/)
-      - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🪶_03_Those_Are_Very_Nice_Feathers/README.md)
-    - [**🪿_02_The_Wrong_Bird/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🪿_02_The_Wrong_Bird/)
-      - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/🪿_02_The_Wrong_Bird/README.md)
+    - [**02_🪿_The_Wrong_Bird/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/02_🪿_The_Wrong_Bird/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/02_🪿_The_Wrong_Bird/README.md)
+    - [**03_🪶_Those_Are_Very_Nice_Feathers_Deary/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/03_🪶_Those_Are_Very_Nice_Feathers_Deary/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/03_🪶_Those_Are_Very_Nice_Feathers_Deary/README.md)
+    - [**04_🧺_Where_Do_The_Feathers_Go/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/04_🧺_Where_Do_The_Feathers_Go/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/04_🧺_Where_Do_The_Feathers_Go/README.md)
+    - [**05_🧮_The_Keepers_Ledgers/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/05_🧮_The_Keepers_Ledgers/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/05_🧮_The_Keepers_Ledgers/README.md)
+    - [**06_🕸️_The_Keepers_Know_Each_Other/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/06_🕸️_The_Keepers_Know_Each_Other/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/06_🕸️_The_Keepers_Know_Each_Other/README.md)
+    - [**07_🦚_Making_Peacocks/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/07_🦚_Making_Peacocks/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/07_🦚_Making_Peacocks/README.md)
+    - [**08_❄️_Demeter_Brings_Winter/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/08_❄️_Demeter_Brings_Winter/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/08_❄️_Demeter_Brings_Winter/README.md)
     - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md)
     - [`notes.txt`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/notes.txt)
   - [**💾_Those_Young_Bastards/**](🌖_6_Learning_The_Skies/💾_Those_Young_Bastards/)
