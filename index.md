@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 14:34:17 UTC_
+_Generated on 2026-08-23 14:35:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5001,8 +5001,8 @@ _Generated on 2026-08-23 14:34:17 UTC_
       - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/05_🧮_The_Keepers_Ledgers/README.md)
     - [**06_🕸️_The_Keepers_Know_Each_Other/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/06_🕸️_The_Keepers_Know_Each_Other/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/06_🕸️_The_Keepers_Know_Each_Other/README.md)
-    - [**07_🦚_Making_Peacocks/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/07_🦚_Making_Peacocks/)
-      - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/07_🦚_Making_Peacocks/README.md)
+    - [**07_🦚_Bedazzling_Peacocks/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/07_🦚_Bedazzling_Peacocks/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/07_🦚_Bedazzling_Peacocks/README.md)
     - [**08_❄️_Demeter_Brings_Winter/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/08_❄️_Demeter_Brings_Winter/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/08_❄️_Demeter_Brings_Winter/README.md)
     - [**09_🦢_Caution_Swans_Aggressive/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/09_🦢_Caution_Swans_Aggressive/)
