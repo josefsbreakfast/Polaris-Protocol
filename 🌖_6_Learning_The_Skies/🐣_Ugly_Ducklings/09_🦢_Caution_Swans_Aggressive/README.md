@@ -554,6 +554,8 @@ An institution acting on an obsolete vulnerability model can:
 
 The swan does not become a duckling again because the database has not refreshed.
 
+Nor should accurate reclassification depend on the swan becoming sufficiently formidable to force the update. The Keeper has a duty to review stale models because stale models produce bad decisions.
+
 ---
 
 ## 🪖 Operationally Important Taxonomy
