@@ -1,5 +1,5 @@
 # 🏚️ Seven Layers of Safeguard Breakdown  
-**First created:** 2025-11-18 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-18 | **Last updated:** 2026-08-23  
 *A structural diagnostic map of the sequential failures required for unethical, coercive, or harmful data and behavioural practices to become possible inside an institution.*  
 
 ---
@@ -214,13 +214,13 @@ This node is a direct companion to:
 > 📡 Cross-references:
 > 
 > - [*Pending:* 🏚️ Full-Stack Institutional Failure]  
-> - [🏚️ Authoritarian Drift in Behavioural Research](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🏚️_authoritarian_drift_in_behavioural_research.md)  
+> - [🏚️ Authoritarian Drift in Behavioural Research]  
 > - [*Pending:* Stress Induction Ethics]  
 > - [*Pending:* Trauma Telemetry Misinterpretation]  
-> - [💥 Risk Vector Inversions](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/💥_risk_vector_inversions.md)  
-> - [📣 PR Simulation Breakdown](../📚_Narrative_Management/📣_pr_simulation_breakdown.md)  
+> - [💥 Risk Vector Inversions]  
+> - [📣 PR Simulation Breakdown]  
 
 It forms the core diagnostic architecture for *why bad ideas happen*  
 and how institutions lose moral gravity long before they lose legitimacy.  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-08-23_
