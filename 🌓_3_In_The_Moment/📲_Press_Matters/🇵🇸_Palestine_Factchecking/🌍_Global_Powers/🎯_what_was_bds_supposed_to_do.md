@@ -1,6 +1,6 @@
-# 🎯 What Was BDS Supposed To Do?
+# 🎯 What Was BDS Supposed To Do?  
 **First created:** 2026-08-23 | **Last updated:** 2026-08-23  
-*Recovering boycott, divestment and sanctions as an attempted mechanism for behavioural change rather than a ritual of punishment.*
+*Recovering boycott, divestment and sanctions as an attempted mechanism for behavioural change rather than treating economic pressure primarily as ritual punishment.*
 
 ---
 
@@ -8,27 +8,23 @@
 
 Before asking whether a campaign worked, it is worth remembering what it was trying to do.
 
-Boycott, divestment and sanctions are frequently metabolised in public discussion as punishment:
+Boycott, divestment and sanctions are frequently metabolised in public discussion as:
 
 > *You have done something bad, therefore we will make you suffer.*
 
-That is not a very useful account of the underlying mechanism.
+That framing loses the mechanism.
 
-The Palestinian civil-society BDS call issued in 2005 explicitly sought sustained international pressure until specified political and legal conditions changed. It drew directly on the precedent of international pressure against apartheid South Africa and framed boycott, divestment and sanctions as tools for changing the conditions under which continued occupation and denial of Palestinian rights remained politically and economically sustainable.
+The more useful model is:
 
-In other words:
+> **conduct considered harmful continues → participation in that conduct becomes materially costlier → incentives change → behaviour becomes less attractive to continue.**
 
-**the point was supposed to be behavioural change.**
+The target is not suffering.
 
-Not punishment as an end in itself.
-
-That distinction matters.
+The target is **behaviour**.
 
 ---
 
 ## 🎯 Start With The Desired Outcome
-
-The simplest model is:
 
 ```mermaid
 flowchart LR
@@ -40,31 +36,15 @@ flowchart LR
     --> F[Pressure can reduce]
 ```
 
-The target of the intervention is not suffering.
+That final step matters.
 
-The target is the behaviour.
+A pressure campaign designed around behavioural change should contain an **off-ramp**.
 
-That means the relevant question is not:
-
-> **Did the target suffer enough?**
-
-It is:
-
-> **Did continuing the behaviour become harder, costlier or less attractive?**
-
-This is a basic but important distinction.
+If relevant behaviour changes, the rationale for maintaining exactly the same pressure should also change.
 
 ---
 
-## ♻️ BDS As Negative Feedback
-
-BDS can usefully be understood as an attempted **negative-feedback mechanism**.
-
-A political system produces an outcome.
-
-That outcome generates a corrective signal.
-
-Civil society then attempts to connect the signal to material consequences.
+## ♻️ BDS As Attempted Negative Feedback
 
 ```mermaid
 flowchart TD
@@ -84,21 +64,19 @@ flowchart TD
 
     E --> F{Behaviour changes?}
 
-    F -->|Yes| G[Pressure has an off-ramp]
-    F -->|No| H[Pressure continues or escalates]
+    F -->|Yes| G[Pressure adapts or reduces]
+    F -->|No| H[Pressure continues / strategy reassessed]
 ```
 
-The 2005 Palestinian call itself used the language of sustained measures **until** its stated demands were met. The contemporary BDS movement likewise describes the campaign as nonviolent pressure intended to secure compliance with international law.
+The useful analytical question is therefore:
 
-The existence of an **until** matters.
-
-It means the intervention contains a proposed condition for behavioural change.
+> **Did continuing the relevant conduct become harder, costlier or less attractive?**
 
 ---
 
 ## 💢 Punishment Is A Different Model
 
-Punishment can be retrospective.
+Punishment can be retrospective:
 
 ```text
 you did X
@@ -106,41 +84,69 @@ you did X
 you deserve Y
 ```
 
-Behavioural pressure is conditional and prospective.
+Behavioural pressure is conditional:
 
 ```text
 you are continuing X
 ↓
-continuing X incurs increasing cost
+continuing X incurs additional cost
 ↓
 change X
 ↓
-the rationale for that pressure changes
+the intervention can change too
 ```
 
-The two can coexist emotionally.
+People may emotionally experience their own participation as punitive.
 
-People taking part in a boycott may be furious.
+They may be furious.
 
 They may want accountability.
 
-They may describe what they are doing as punishment.
+That does not make punishment the best description of the intervention's underlying design.
 
-That does not establish that punishment is the most useful analytical description of the campaign mechanism.
+---
+
+## 🕯️ 2005 And 2023 Are Different Moments
+
+The longer Palestinian BDS movement predates the acute mobilisation that followed October 2023.
+
+Those periods should not be collapsed.
+
+The longer movement concerns sustained Palestinian demands around occupation, settlement, rights and international pressure.
+
+The acute 2023–24 period produced a more immediate question across professions and institutions:
+
+> **What can we actually change from where we are, now, that might create some negative feedback against further civilian destruction?**
+
+That generated accelerated organising around:
+
+- procurement;
+- medicines;
+- investment;
+- banking;
+- arms supply;
+- university relationships;
+- professional bodies;
+- cultural institutions;
+- sanctions and embargoes.
+
+The acute mobilisation did not invent the underlying tool.
+
+It intensified the search for **immediately actionable leverage**.
 
 ---
 
 ## 🩸 Anger Is Not Necessarily The Objective
 
-People have visceral responses to watching civilians being killed.
+People respond viscerally to images and accounts of civilian death.
 
-That is not peculiar to Palestine.
+That occurs across conflicts.
 
-People watching Russian attacks on Ukrainian civilians may demand sanctions against Russia without possessing an animating hatred of Russian people.
+Someone can react angrily to civilians being killed in Ukraine without hating Russians.
 
-People can condemn attacks that kill Iranian civilians without supporting the IRGC.
+Someone can oppose attacks killing Iranian civilians without supporting the IRGC.
 
-The same distinction should be available here.
+Likewise:
 
 ```mermaid
 flowchart LR
@@ -150,45 +156,43 @@ flowchart LR
     --> D[Economic or political pressure]
 ```
 
-The emotional register may be anger.
+The emotional register may be fury.
 
 The political objective can still be:
 
-**make the conduct stop.**
+> **make the conduct stop.**
 
-Conflating affect with objective produces bad analysis.
-
----
-
-## 🧿 What The 2005 Call Actually Asked For
-
-The original Palestinian civil-society call did not emerge in 2023.
-
-It was issued in July 2005 by a broad collection of Palestinian civil-society organisations, including unions, professional associations, refugee networks and other organisations. Its stated demands concerned occupation and colonisation, equality for Palestinian citizens of Israel, and Palestinian refugee rights.
-
-The movement itself explicitly cites the anti-apartheid struggle in South Africa as an inspiration.
-
-That history matters because the acute organising that followed the destruction in Gaza after October 2023 did not invent the underlying tool.
-
-It intensified an existing strategy.
-
-The question became immediate:
-
-> **What relationships within our own professions, institutions, companies and governments can we actually change?**
-
-That is a very different question from:
-
-> **Who would we most enjoy punishing?**
+Affect and objective should not be treated as identical.
 
 ---
 
-## 🧑‍⚕️ When Moral Objection Becomes Operational
+## 🧑‍⚕️ The Professional Organising Ecology
 
-Healthcare organising is particularly revealing because clinicians cannot simply treat political purity as the overriding objective.
+One important feature of the post-2023 period was that the work did not belong to one monolithic organisation.
 
-The patient remains in the loop.
+Different groups contributed different forms of professional infrastructure.
 
-That creates a demanding form of boycott design:
+Relevant source pathways include:
+
+- **BDS Movement / Palestinian BDS National Committee** — movement objectives and target logic;
+- **Boycott Teva** — medicines, manufacturers and practical substitution work;
+- **Medact** — health-professional organising and ethical/political framing;
+- **Doctors Against Genocide** — clinician-led organising around civilian protection and atrocity prevention;
+- **Jewish Voice for Peace health-professional networks / HAC** — Jewish participation in healthcare solidarity work;
+- student and clinician networks operating nationally and internationally;
+- historical professional-boycott precedents, including anti-apartheid organising.
+
+The important point is not that all of these organisations are identical.
+
+They are not.
+
+It is that a broad political objective gets translated into **profession-specific action by people who understand the systems they are trying to alter**.
+
+---
+
+## 💊 When Moral Objection Becomes Operational
+
+Medicine makes this particularly visible because the patient remains in the loop.
 
 ```mermaid
 flowchart TD
@@ -204,198 +208,117 @@ flowchart TD
     F --> H[Patient safety remains overriding constraint]
 ```
 
-That is not a very good architecture for indiscriminate punishment.
+That is not an architecture optimised for indiscriminate punishment.
 
-It is much closer to **targeted withdrawal under professional safeguards**.
-
-Campaign infrastructure around medicines has included clinicians doing the boring work that makes such choices possible: identifying products, manufacturers and potential alternatives rather than simply telling patients or healthcare workers to fend for themselves.
-
-That work matters because political pressure becomes much more actionable when someone has already built the exit route.
+It is targeted withdrawal under professional safeguards.
 
 ---
 
-## 💊 Why The Teva Example Matters
+## 🩺 The Teva Work Is Existing Campaign Capital
 
-A pharmaceutical boycott illustrates the difference between symbolic opposition and executable change.
+The significance of medicine-alternative work is not merely that alternatives exist.
 
-If a medicine:
+It is that clinicians and organisers have already invested effort in:
 
-- has another suitable manufacturer;
-- has a clinically acceptable alternative;
-- can be substituted without compromising patient safety;
-- and falls within an institution's purchasing discretion;
+- identifying products;
+- mapping manufacturers;
+- locating possible alternatives;
+- distinguishing straightforward substitution from clinically complex change;
+- preserving patient-safety exceptions;
+- making the intervention usable by people inside healthcare.
 
-then an ethical procurement preference may potentially be implemented relatively quickly.
+That changes the **marginal cost of further action**.
 
-If there is no safe alternative, the clinical decision remains the clinical decision.
-
-The interesting feature is therefore not merely the choice of company.
-
-It is the creation of **substitution capacity**.
+A campaign where the exit map already exists is different from one where an institution still has to invent the exit from scratch.
 
 ```mermaid
 flowchart LR
-    A[Political objection]
-    --> B[Map commercial relationship]
-    --> C[Map substitutes]
-    --> D[Preserve clinical exceptions]
-    --> E[Make changed purchasing feasible]
+    A[Political objective]
+    --> B[Professional mapping]
+    --> C[Substitution infrastructure]
+    --> D[Lower implementation barrier]
+    --> E[Potentially faster material change]
 ```
 
-That is intervention design.
+This is accumulated organisational capital.
+
+It should be treated as such.
 
 ---
 
-## 🩺 This Is Also Professional Ethics
+## 🩺 Professional Boycott Has Historical Precedent
 
-There is a longer history of professions using institutional non-cooperation, boycotts and sanctions in response to systems regarded as seriously unethical.
+The use of professional non-cooperation as political and ethical pressure did not begin with Palestine.
 
-The Palestinian BDS call itself explicitly invoked the South African anti-apartheid precedent.
+The anti-apartheid movement provides an obvious comparative research pathway.
 
-That comparison should be used carefully.
+Medical bodies, universities, sporting organisations, unions and other professional institutions all faced debates over whether continued institutional cooperation helped normalise or sustain apartheid South Africa.
 
-The situations are not identical.
+The precise medical-association history should be sourced carefully rather than treated as folklore.
 
-The useful point is narrower:
+But the analytical precedent is important:
 
-> **Professional boycott as a mechanism of ethical and institutional pressure did not begin with Palestine.**
+> **professional communities have previously treated institutional participation itself as ethically consequential.**
 
-Doctors, universities, unions, churches, sporting organisations and other professional or civic bodies have previously treated continued institutional participation as something capable of carrying ethical consequences.
+This matters because “medicine has become political” is often presented as though the phenomenon were novel.
 
-For healthcare workers, this is especially unsurprising.
+It is not.
 
-Medicine already asks practitioners to think about:
+The useful historical questions are:
 
-- civilian protection;
-- medical neutrality;
-- complicity;
-- access to treatment;
-- discrimination;
-- professional duties during war;
-- the treatment of prisoners;
-- the destruction or obstruction of healthcare systems.
+- Which medical bodies participated?
+- What forms did non-cooperation take?
+- What arguments were made in favour?
+- What arguments were made against?
+- Were individuals or institutions targeted?
+- What safeguards were used?
+- How did medical-professional pressure interact with wider anti-apartheid sanctions?
 
-Organisations such as Doctors Against Genocide emerged after 2023 specifically around healthcare professionals attempting to connect mass-atrocity prevention, medical ethics and civilian protection.
-
-Again: the intervention may be politically controversial.
-
-The existence of the intervention is not conceptually bizarre.
-
----
-
-## 🕯️ The Acute 2023 Question
-
-After October 2023, many people were no longer asking only:
-
-> *What position do I hold on Israel and Palestine?*
-
-They were asking:
-
-> **What can I do, from where I am, that might create some immediate pressure against further civilian destruction?**
-
-Those are different questions.
-
-The latter generates:
-
-- workplace organising;
-- procurement scrutiny;
-- shareholder pressure;
-- divestment campaigns;
-- medical supply mapping;
-- academic organising;
-- cultural boycott;
-- arms-company campaigning;
-- banking campaigns;
-- lobbying for sanctions or embargoes.
-
-The shared intuition is fairly simple:
-
-```text
-if governments will not create sufficient negative feedback,
-civil society will try to create some.
-```
-
-The scale and effectiveness of that feedback are separate questions.
-
----
-
-## 📉 It Did Not Achieve The Larger Immediate Objective
-
-It is also important not to romanticise the result.
-
-The acute organising sought, among other things, to contribute to pressure capable of protecting Palestinian civilians and changing the trajectory of events in Gaza.
-
-The catastrophic level of civilian death, destruction and displacement demonstrates that civil-society economic pressure did not achieve that larger protective objective at anything approaching the required speed.
-
-That should produce analysis rather than ritual.
-
-What worked?
-
-What failed?
-
-What was too slow?
-
-What was mis-targeted?
-
-Where did governments or companies absorb the pressure?
-
-Where was substitution possible?
-
-Where had existing dependency already made withdrawal extremely expensive?
-
-Where did the campaign become better at generating attention than changing behaviour?
-
-Those are questions for improvement, not reasons to forget what the intervention was trying to do.
+This should eventually become a sourced comparative section or linked fact-check.
 
 ---
 
 ## 🪞 How Behavioural Pressure Became Punishment
 
-One of the most consequential narrative transformations around BDS has been the movement from:
+A major narrative transformation is:
 
 ```text
 pressure intended to alter conduct
 ```
 
-toward:
+becoming:
 
 ```text
 punishment directed at Israel / Israelis / Jews
 ```
 
-Those categories should not be casually merged.
+Those categories are not interchangeable.
 
-The BDS National Committee says its institutional boycott framework does not call for boycotting individuals merely because they are Israeli and describes its platform as opposing racism, including antisemitism.
+Antisemitism can occur within pro-Palestinian campaigning.
 
-That claim does not mean that every person acting under a BDS banner behaves impeccably.
-
-No political movement receives that exemption.
-
-Antisemitic people can support Palestinian causes.
-
-Antisemitic rhetoric can occur in boycott spaces.
-
-Individuals can choose targets badly.
+Individuals can target Jews.
 
 Direct action can become threatening.
 
-Jewish people can reasonably experience particular acts as intimidating.
+Targets can be chosen badly.
 
-None of those propositions establishes that **economic pressure directed at conduct or institutional complicity is inherently intimidation of Jews**.
+Nothing about the existence of a political campaign makes its participants incapable of racism.
 
-That requires another step of analysis.
+But none of that establishes:
+
+> **economic pressure directed at specified conduct or institutional relationships is inherently intimidation of Jews.**
+
+That requires further evidence.
 
 ---
 
-## ✡️ Jewish Fear Is Real Information — But It Is Not The Whole Analysis
+## ✡️ Historical Fear Is Real Information
 
-Historic boycotts of Jews are part of Jewish collective memory for extremely good reasons.
+Historic economic exclusion of Jews is part of Jewish collective memory for very good reasons.
 
-Economic exclusion was one component of much larger structures of antisemitic persecution.
+That can make boycott rhetoric frightening.
 
-That historical memory can make contemporary boycott language frightening.
-
-The fear should not be mocked.
+The fear should be taken seriously.
 
 But:
 
@@ -403,19 +326,17 @@ But:
 
 and
 
-> **this contemporary intervention has the same target, mechanism and objective**
+> **this contemporary action has the same target, mechanism and purpose**
 
 are different claims.
 
-The first describes an embodied historical response.
+The first concerns perception and historical memory.
 
-The second requires evidence.
+The second requires analysis.
 
 ---
 
-## 🎯 Conduct-Targeted Pressure Versus Identity-Targeted Intimidation
-
-A useful distinction is:
+## 🎯 Identity-Targeted Intimidation Versus Conduct-Targeted Pressure
 
 ```mermaid
 flowchart TD
@@ -426,382 +347,242 @@ flowchart TD
     B -->|Specific conduct / institution / contract| D[Conduct-targeted pressure]
 
     C --> E[Potential antisemitic intimidation]
-    D --> F[Assess conduct, proportionality, legality and actual effects]
+    D --> F[Assess legality / proportionality / effects separately]
 ```
 
-This is not a magic decision tree.
-
-Political rhetoric can blur categories.
-
-A company can be targeted for pretextual reasons.
-
-An institution can be both Jewish and politically active.
-
-Context matters.
-
-But the first analytical question should not simply be:
-
-> **Does Israel appear somewhere in the story?**
-
-It should be:
+Useful questions include:
 
 - Who is being targeted?
-- What relationship makes them a target?
-- What behaviour is the intervention attempting to change?
-- Is Jewish identity itself being assigned culpability?
-- Would the target cease to be targeted if the relevant conduct or relationship changed?
+- Why this target?
+- What conduct or relationship establishes relevance?
+- Is Jewish identity itself assigned culpability?
+- Would the target cease to be targeted if the relevant conduct changed?
+- Is a Jewish communal institution being targeted because it is Jewish, or because of some independently specified institutional conduct?
+- Are Jews with no relationship to the conduct being made proxies for Israel?
 
-That last question is particularly useful.
+These are better questions than:
+
+> *Does Israel appear somewhere in the story?*
 
 ---
 
-## 🏘️ Settlements Make The Distinction Visible
+## 🏘️ Settlement-Linked Economic Pressure
 
-Consider economic activity linked to settlements in occupied territory.
+If someone opposes violent settlement activity and settlement expansion, an attempt to reduce the commercial viability of settlement-linked activity is not automatically a threat to that person **as a Jew**.
 
-A person may oppose settler violence and oppose continued settlement expansion.
-
-If a campaign then tries to make settlement-linked commerce less profitable, it does not automatically follow that the campaign is threatening that person **as a Jew**.
-
-The mechanism may simply be:
+The mechanism may be:
 
 ```mermaid
 flowchart LR
     A[Settlement-linked economic activity]
     --> B[Revenue / commercial viability]
-    --> C[Campaign targets economic participation]
+    --> C[Campaign targets participation]
     --> D[Participation becomes less attractive]
-    --> E[Pressure for changed behaviour]
+    --> E[Pressure for behavioural change]
 ```
 
-If Jews are targeted regardless of whether they have any relationship to the conduct, that is another matter.
+Whether a specific campaign is lawful, proportionate or appropriately targeted remains open to analysis.
 
-The distinction is not complicated.
-
-It merely becomes politically inconvenient surprisingly often.
+The point is simply that **conduct-targeted economic pressure and identity-targeted intimidation are analytically separable**.
 
 ---
 
-## 🏢 Companies Need Reasons Too
+## 🏢 Companies Need Institutionally Usable Reasons
 
-One under-discussed feature of economic campaigning is that companies operate inside their own constraint systems.
+Companies and public bodies operate inside constraint systems.
 
-A board cannot necessarily say:
-
-> *We have decided that this feels morally horrible, so we are terminating everything immediately.*
-
-There may be:
+Decision-makers may face:
 
 - contracts;
-- fiduciary obligations;
-- shareholder pressure;
+- shareholder expectations;
 - procurement rules;
-- underwriting conditions;
+- litigation risk;
+- political pressure;
+- underwriting;
 - financing;
-- political exposure;
-- supply dependencies;
-- litigation risk.
+- supply dependence.
 
-Campaign pressure can alter that internal calculation.
+Campaigning can alter the internal calculation.
 
 ```mermaid
 flowchart TD
     A[Existing commercial relationship]
-    --> B[Profitable / institutionally convenient]
+    --> B[Profitable / convenient]
 
     C[Campaign pressure]
     --> D[Reputational cost]
     C --> E[Operational cost]
-    C --> F[Insurance / underwriting cost]
-    C --> G[Investor pressure]
-    C --> H[Customer pressure]
+    C --> F[Investor / customer pressure]
+    C --> G[Contractual or underwriting friction]
 
-    D --> I[Commercial calculation changes]
-    E --> I
-    F --> I
-    G --> I
-    H --> I
+    D --> H[Internal calculation changes]
+    E --> H
+    F --> H
+    G --> H
 
-    I --> J{Relationship still worth maintaining?}
+    H --> I{Relationship still worth maintaining?}
 ```
 
-This is one reason superficially strange-looking direct action can make sense as economic intervention.
-
-The aim may be to create **a reason that can travel through the institution**.
+This is why protest can seek to produce **institutionally legible consequences** rather than moral conversion.
 
 ---
 
 ## 🎨 Why Paint Can Be About A Spreadsheet
 
-Throwing paint on a building is visually dramatic.
+A superficial physical intervention can be intended to create:
 
-Its actual intended mechanism may be considerably more boring.
-
-A superficial intervention can potentially generate:
-
-- remediation costs;
+- remediation;
+- inspection;
 - temporary closure;
-- safety inspection;
-- disrupted operations;
+- operational delay;
 - insurance consequences;
-- contractual delays;
-- adverse publicity.
+- reputational cost;
+- contractual disruption.
 
-That does not decide whether the act is lawful.
+The economic leverage can be much larger than the physical act itself.
 
-It does not decide whether it should legally count as violence.
+That does **not** determine whether a particular act is:
 
-It does not establish that nobody was frightened or harmed.
+- legal;
+- proportionate;
+- violent;
+- intimidating;
+- safe.
 
 Those are separate questions.
 
-But analysing direct action requires distinguishing:
+The useful analytical distinction is between:
 
-**what an intervention looks like**
+**what an intervention physically looks like**
 
-from
+and
 
-**what leverage it was designed to produce.**
+**what institutional consequence it is designed to trigger.**
 
-Sometimes the paint is there because the spreadsheet is the actual battlefield.
-
----
-
-## ⚖️ Direct Action, Violence And Intimidation Need Separate Analysis
-
-There is a wider conversation to be had about:
-
-- property damage;
-- sabotage;
-- trespass;
-- intimidation;
-- threats;
-- violence against people;
-- economic coercion;
-- protest;
-- proportionality;
-- criminalisation.
-
-This node does not need to settle that entire debate.
-
-Its narrower point is methodological:
-
-```text
-unlawful
-≠ automatically violent against people
-
-politically confrontational
-≠ automatically identity-targeted
-
-economically coercive
-≠ automatically punitive in purpose
-
-Israel-related
-≠ automatically antisemitic
-```
-
-Each additional classification requires evidence.
+The direct-action classification problem belongs in its own node.
 
 ---
 
-## 🕸️ When One Target Eats The Campaign
+## 📉 The Larger Immediate Objective Was Not Achieved
 
-Once boycott is understood as behavioural intervention, target selection becomes critically important.
+The post-2023 mobilisation sought, among other things, to create enough pressure to contribute to civilian protection and behavioural change.
 
-A campaign can drift from:
+Whatever successes occurred at individual institutions, the wider protective objective was plainly not achieved at the required speed.
 
-```text
-What behaviour can we alter?
-```
+That should generate analysis rather than ritual.
 
-toward:
+Ask:
 
-```text
-Which company symbolises everything we oppose?
-```
+- What changed?
+- What did not?
+- Which campaigns were too slow?
+- Which relationships were already too embedded?
+- Where had alternatives already been built?
+- Where did attention substitute for leverage?
+- Where was criticism absorbed?
+- Where did campaigns accidentally strengthen incumbency by waiting until exit was extremely expensive?
 
-That is a dangerous substitution.
-
-```mermaid
-flowchart TD
-    A[Distributed problem]
-    --> B[Multiple potential leverage points]
-
-    B --> C[Highly salient company]
-    B --> D[Less visible actionable relationships]
-    B --> E[Long-term structural dependencies]
-
-    C --> F[Media attention concentrates]
-    F --> G[Campaign attention concentrates]
-    G --> H[Removing company becomes synonymous with success]
-
-    D -. neglected .-> I[Short-term opportunities]
-    E -. poorly developed .-> J[Long-term exit capacity]
-```
-
-This is where BDS connects to the wider problem of **absorption and selective sacrifice**.
-
-A spectacular corporate target can absorb an extraordinary amount of opposition.
-
-Removing it may be worthwhile.
-
-But if substantially the same underlying conduct continues through other relationships, the original intervention has not yet succeeded.
+Failure is information.
 
 ---
 
-## 💊 Teva And 💾 Palantir Are Different Problems
+## 🧭 Campaign Off-Ramps Matter
 
-This creates an important distinction between **moral relevance** and **campaign horizon**.
+If behavioural change is genuinely the objective, campaigns need answers to:
 
-Suppose one relationship has:
+- What exact behaviour is being challenged?
+- What change would count as material progress?
+- What would justify reducing pressure?
+- What would justify ending a boycott?
+- Is the demand directed at present conduct, or has the target category become permanent?
+- Can companies or institutions realistically comply?
+- Is there an exit from the intervention other than disappearance?
 
-- identified substitutes;
-- relatively low switching costs;
-- professional guidance already developed;
-- purchasing decisions capable of changing comparatively quickly.
+Without off-ramps, conditional economic pressure can drift toward permanent identity-based exclusion.
 
-Suppose another involves:
-
-- major infrastructure;
-- integration work;
-- data migration;
-- staff training;
-- interoperability;
-- sunk costs;
-- vendor dependency;
-- long procurement cycles.
-
-The answer is not:
-
-> *Only campaign against the easy one.*
-
-Nor is it:
-
-> *Talk exclusively about the enormous famous one.*
-
-The rational answer is:
-
-```mermaid
-flowchart LR
-    A[Campaign portfolio]
-
-    A --> B[Immediate substitution]
-    A --> C[Medium-term contractual exit]
-    A --> D[Long-term infrastructure replacement]
-
-    B --> E[Act where change is already feasible]
-    C --> F[Organise around procurement windows]
-    D --> G[Build replacement capacity before exit is required]
-```
-
-That is a strategy.
+That would be a different mechanism.
 
 ---
 
-## 🧭 What Was The Point?
+## ⚠️ Failure Modes
 
-The point was not supposed to be:
+BDS-style behavioural campaigns can fail through:
 
-- finding the most evil-looking company;
-- demonstrating ideological purity;
-- permanently punishing people for national identity;
-- making Jewish people frightened;
-- producing the most dramatic possible protest image;
-- winning a discourse war.
+- **symbol capture** — the company becomes more important than the outcome;
+- **salience substitution** — attention determines target selection;
+- **non-substitutable targeting** — pressure cannot realistically alter purchasing;
+- **collateralisation** — patients, workers or civilians bear the campaign's costs;
+- **no off-ramp** — changed behaviour cannot actually end the intervention;
+- **impossible compliance** — demands cannot be operationalised;
+- **no causal pathway** — nobody can explain how pressure reaches the decision point;
+- **incumbency strengthening** — delay increases lock-in;
+- **identity slippage** — conduct-targeted pressure becomes identity-targeted hostility;
+- **heat mistaken for leverage** — publicity becomes the principal performance metric.
 
-The point was to create **material reasons for behaviour to change**.
-
-That means the campaign should continuously return to its output.
-
----
-
-## 🔬 Questions Worth Asking Now
-
-After more than two decades of BDS organising, and after the acute escalation of mobilisation following 2023:
-
-- What behaviours were particular campaigns intended to change?
-- Which interventions actually altered procurement or investment?
-- Which targets were substitutable?
-- Which were already locked into infrastructure?
-- Which campaigns produced alternative capacity rather than merely objection?
-- Where did reputational pressure change corporate decisions?
-- Where did pressure generate enormous attention but little changed behaviour?
-- Which campaigns created viable off-ramps?
-- Which campaigns became symbolic targets detached from the original objective?
-- Where did establishment criticism converge on a company that could absorb the hit?
-- Which less glamorous interventions may have produced better marginal returns?
-- How should short-, medium- and long-term campaigns interact?
-- How can civilian, worker and patient harms created by intervention be minimised?
-- What would count as success?
-- What conditions should end a boycott?
-- Most importantly: **did the behaviour change?**
+These are strategic problems, not reasons to abandon behavioural pressure as a category.
 
 ---
 
-## 🌱 Improvement Is Not Betrayal
+## 🔬 The Core Evaluation
 
-Looking critically at campaign design is not an argument against the objective.
+Do not ask only:
 
-It is the opposite.
+> **Did somebody pay?**
 
-If the purpose was to help protect Palestinian civilians and create meaningful pressure for rights and compliance with international law, then ineffective strategy should not acquire sacred status merely because considerable effort has already gone into it.
+Ask:
 
-The campaign is a tool.
+> **Did the behaviour change?**
 
-Palestinians are not there to justify the continued existence of the tool.
+And if not:
 
-That means asking what produces the strongest useful feedback now.
-
-And changing the intervention when necessary.
+> **What does that failure tell us about the intervention?**
 
 ---
 
 ## 📚 Source Pathways
 
-The following organisations and resources are useful for tracing different parts of the ecology rather than treating BDS as a single homogeneous actor:
+- BDS Movement / Palestinian BDS National Committee
+- Boycott Teva
+- Medact
+- Doctors Against Genocide
+- Jewish Voice for Peace health-professional organising / HAC
+- historical anti-apartheid medical and professional boycott material
+- Palestinian and international professional associations involved in post-2023 organising
 
-- **BDS Movement / Palestinian BDS National Committee** — original call, movement objectives, targeting principles and strategic campaign guidance.
-- **Boycott Teva** — practical medicine-focused boycott and substitution work.
-- **Medact** — health-professional organising around militarism, Palestine and professional ethics.
-- **Doctors Against Genocide** — international healthcare-worker organising around atrocity prevention, civilian protection and medical ethics.
-- **Jewish Voice for Peace / health-professional organising** — useful for tracing Jewish participation in healthcare solidarity campaigning and for resisting the analytical collapse of Jewish identity into Israeli state policy.
-- **South African anti-apartheid professional-boycott history** — comparative precedent for understanding professional non-cooperation as institutional pressure rather than merely interpersonal punishment.
+These sources perform different evidentiary jobs.
 
-These sources should not be treated as interchangeable or neutral authorities.
-
-They document what different organisers say they are trying to do.
-
-That is necessary evidence when fact-checking claims about the purpose of a campaign.
+They should not be flattened into one authority.
 
 ---
 
 ## 🌌 Constellations
 
-🎯 ♻️ 💸 🩺 🕸️ — boycott strategy; behavioural feedback; professional ethics; target selection; narrative transformation.
+🎯 ♻️ 💸 🩺 ✡️ — BDS; behavioural feedback; professional ethics; historical memory; campaign evaluation.
 
 ## ✨ Stardust
 
-palestine, bds, boycott, divestment, sanctions, behavioural change, negative feedback, professional ethics, procurement, antisemitism, campaign strategy
+palestine, bds, boycott, divestment, sanctions, behavioural change, negative feedback, professional ethics, antisemitism, procurement, campaign history
 
 ---
 
 ## 🏮 Footer
 
 *🎯 What Was BDS Supposed To Do?* is a living node of the **Polaris Protocol**.  
-It reconstructs boycott, divestment and sanctions as an attempted mechanism for changing behaviour and examines how that mechanism can be obscured when economic pressure is interpreted primarily through the language of punishment, identity or symbolic corporate targeting.
+It reconstructs boycott, divestment and sanctions as attempted behavioural feedback, distinguishes that mechanism from punishment and identity-targeted intimidation, and preserves the professional and historical contexts required to evaluate the campaign on its intended terms.
 
 > 📡 Cross-references:
 >
-> - [🌍 Global Powers](./) — *international power, economic relationships and external leverage around Palestine*
-> - [💸 Incentivising Behavioural Change and BDS](./💸_incentivising_behavioural_change_and_bds.md) — *applied campaign design, substitutability, target selection and intervention horizons*
-> - [🌀 Absorption and Selective Sacrifice](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🌀_absorption_and_selective_sacrifice.md) — *how systems receive corrective pressure while containing its capacity to propagate*
-> - [💸 Making Harm Too Expensive To Continue](../../../../../🌕_5_Long_Strategies/💸_Business_Is_Tooling/💸_making_harm_too_expensive_to_continue.md) — *general theory of constructing durable economic negative feedback around harmful conduct*
+> - [💸 Incentivising Behavioural Change and BDS](./💸_incentivising_behavioural_change_and_bds.md) — *applied campaign design, substitutability, timing and exit conditions*
+> - [🌀 Absorption and Selective Sacrifice](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🌀_absorption_and_selective_sacrifice.md) — *how corrective pressure can be absorbed before reaching underlying structures*
+> - [💸 Making Harm Too Expensive To Continue](../../../../../🌕_5_Long_Strategies/💸_Business_Is_Tooling/💸_making_harm_too_expensive_to_continue.md) — *general long-strategy framework for changing harmful economic incentives*
 >
 > 🏮 Return To:
 >
-> - [🌍 Global Powers](./) — *1up*
-> - [🇵🇸 Palestine Factchecking](../..) — *3up*
-> - [🌌 Polaris Protocol - Root](../../../../../README.md) — *root*
+> - [🌍 Global Powers](./README.md) — *1up*
+> - [🇵🇸 Palestine Factchecking](../README.md) — *3up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌗 In The Moment](../../../README.md) — *3up*
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
