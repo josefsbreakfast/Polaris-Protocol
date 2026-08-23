@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-22 23:59:25 UTC_
+_Generated on 2026-08-23 00:08:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -903,6 +903,7 @@ _Generated on 2026-08-22 23:59:25 UTC_
         - [`🫀_ai_black_box_inquests.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🫀_ai_black_box_inquests.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
+      - [`🌀_absorption_and_selective_sacrifice.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🌀_absorption_and_selective_sacrifice.md)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/.🌱_Still_Growing/notes.txt)
