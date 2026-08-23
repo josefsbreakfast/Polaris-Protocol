@@ -540,7 +540,31 @@ Systems do not have to obey narrative structure.
 
 ## 🌌 Constellations
 
-🌀 ♻️ 🧿 🕸️ 🪫 — feedback architecture; criticism absorption; selective accountability; narrative closure; systemic preservation.
+🌀 ♻️ 🧿 🕸️ 🪫 — feedback architecture; criticism absorption; selective accountability; narrative closure; systemic preservation.  
+
+*Follow the evidence:*  
+
+### 🇵🇸 BDS Movement
+- [BDS Movement](https://bdsmovement.net/) — Palestinian-led boycott, divestment and sanctions movement; useful for the movement’s stated objectives, campaign logic, target guidance and strategic framing.
+- [What Is BDS?](https://bdsmovement.net/what-bds) — overview of the movement’s aims, origins and relationship to the South African anti-apartheid precedent.
+
+### 💊 Boycott Teva
+- [Boycott Teva](https://boycottteva.org/) — medicine-focused campaign materials, including practical work around identifying Teva products and possible alternatives.
+
+### 🩺 Medact
+- [Medact](https://www.medact.org/) — UK health-worker organisation working across health justice, militarism, economic justice and related structural issues.
+- [Medact — Palestine](https://www.medact.org/project/palestine/) — Palestine-specific health-worker campaigning, resources and organising, including material on BDS and NHS procurement.
+
+### 🩻 Doctors Against Genocide
+- [Doctors Against Genocide](https://www.doctorsagainstgenocide.org/) — international coalition of healthcare professionals working on atrocity prevention, medical ethics, advocacy and protection of healthcare workers and systems.
+
+### ✡️ Jewish Voice for Peace — Health Advisory Council
+- [Jewish Voice for Peace — Health Advisory Council](https://www.jewishvoiceforpeace.org/health-advisory-council/) — JVP network of physicians, nurses, mental-health workers, public-health professionals and other health workers addressing health, healthcare and human rights in Palestine/Israel.
+- [JVP Health Advisory Council](https://www.jvphealth.org/) — dedicated JVP-HAC site, including healthcare-focused resources, campaigns and events.
+
+### 🧭 Research Pathways
+- **Medical and professional boycotts of apartheid South Africa** — historical precedent to develop with primary medical-association and professional-body sources.
+- **Anti-apartheid professional non-cooperation** — comparative material on the use of institutional, academic, medical, trade-union and professional pressure as part of wider behavioural and economic deincentivisation.
 
 ---
 
