@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 21:51:37 UTC_
+_Generated on 2026-08-23 21:52:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -719,7 +719,6 @@ _Generated on 2026-08-23 21:51:37 UTC_
         - [`🧬_harm_without_perpetrators_the_architecture_failure_model.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧬_harm_without_perpetrators_the_architecture_failure_model.md)
         - [`🧬_how_gossip_shapes_risk_flags.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧬_how_gossip_shapes_risk_flags.md)
         - [`🧬_multi_year_pipeline_architecture.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧬_multi_year_pipeline_architecture.md)
-        - [`🧬_two_sided_dependency.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧬_two_sided_dependency.md)
         - [`🧭_are_we_fascist_yet.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧭_are_we_fascist_yet.md)
         - [`🧭_data_slip_to_narrative_spiral.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧭_data_slip_to_narrative_spiral.md)
         - [`🧭_leadership_management_and_moral_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧭_leadership_management_and_moral_containment.md)
@@ -5063,6 +5062,7 @@ _Generated on 2026-08-23 21:51:37 UTC_
               - [`🏚️_seven_layers_of_safeguard_breakdown.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)
               - [`📜_when_containment_becomes_identity.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📜_when_containment_becomes_identity.md)
               - [`🧀_swiss_cheese_multi_agency_failure.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧀_swiss_cheese_multi_agency_failure.md)
+              - [`🧬_two_sided_dependency.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧬_two_sided_dependency.md)
               - [`🪆_containment_logic_as_witch_logic.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪆_containment_logic_as_witch_logic.md)
             - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
           - [**🐍_Ouroborotic_Violence/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
