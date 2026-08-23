@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 01:24:34 UTC_
+_Generated on 2026-08-23 01:27:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -188,6 +188,7 @@ _Generated on 2026-08-23 01:24:34 UTC_
   - [**🍔_Burger_Basics/**](🌑_1_Origin_Points/🍔_Burger_Basics/)
     - [**📲_Tech_Sovereignity/**](🌑_1_Origin_Points/🍔_Burger_Basics/📲_Tech_Sovereignity/)
       - [`README.md`](🌑_1_Origin_Points/🍔_Burger_Basics/📲_Tech_Sovereignity/README.md)
+      - [`📲_is_your_phone_your_sovereign_space.md`](🌑_1_Origin_Points/🍔_Burger_Basics/📲_Tech_Sovereignity/📲_is_your_phone_your_sovereign_space.md)
     - [`README.md`](🌑_1_Origin_Points/🍔_Burger_Basics/README.md)
   - [**🧄_Exousiología/**](🌑_1_Origin_Points/🧄_Exousiología/)
     - [**🌍_Comparative_Systems/**](🌑_1_Origin_Points/🧄_Exousiología/🌍_Comparative_Systems/)
