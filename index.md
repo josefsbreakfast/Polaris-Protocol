@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 21:44:33 UTC_
+_Generated on 2026-08-23 21:49:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -622,7 +622,6 @@ _Generated on 2026-08-23 21:44:33 UTC_
         - [`⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/⚡_escalation_triggers_when_hr_fails_and_oversight_must_act.md)
         - [`✂️_engineered_disjuncture_of_allies.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/✂️_engineered_disjuncture_of_allies.md)
         - [`✈_containment_by_crash_risk_management_and_symbolic_deletion.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/✈_containment_by_crash_risk_management_and_symbolic_deletion.md)
-        - [`❌_no_safe_exit_conditions_how_systems_trap_people_through_structure_not_chains.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/❌_no_safe_exit_conditions_how_systems_trap_people_through_structure_not_chains.md)
         - [`❓_override_question_as_silence_breaker.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/❓_override_question_as_silence_breaker.md)
         - [`⭕️_erosion_of_legitimacy_loops.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/⭕️_erosion_of_legitimacy_loops.md)
         - [`🃏_the_fool_card_and_machine_innocence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🃏_the_fool_card_and_machine_innocence.md)
@@ -5061,6 +5060,7 @@ _Generated on 2026-08-23 21:44:33 UTC_
         - [**Big_Picture_Protocols/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/)
           - [**🌀_System_Governance/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
             - [**💫_Containment_Logic/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
+              - [`❌_no_safe_exit.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❌_no_safe_exit.md)
               - [`🏚️_seven_layers_of_safeguard_breakdown.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)
               - [`🧀_swiss_cheese_multi_agency_failure.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧀_swiss_cheese_multi_agency_failure.md)
               - [`🪆_containment_logic_as_witch_logic.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪆_containment_logic_as_witch_logic.md)
