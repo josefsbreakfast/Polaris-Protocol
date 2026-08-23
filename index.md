@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 22:30:34 UTC_
+_Generated on 2026-08-23 23:13:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -655,6 +655,7 @@ _Generated on 2026-08-23 22:30:34 UTC_
         - [`💰_genocide_as_authoritarian_spv.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/💰_genocide_as_authoritarian_spv.md)
         - [`💰_impunity_scandal_as_authoritarian_spv.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/💰_impunity_scandal_as_authoritarian_spv.md)
         - [`💰_migration_as_spv.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/💰_migration_as_spv.md)
+        - [`💸_containment_economics.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/💸_containment_economics.md)
         - [`📈_polished_authoritarianism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📈_polished_authoritarianism.md)
         - [`📋_loop_tickbox_vs_cognitive_load.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📋_loop_tickbox_vs_cognitive_load.md)
         - [`📋_tick_box_compliance_as_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📋_tick_box_compliance_as_containment.md)
@@ -705,7 +706,6 @@ _Generated on 2026-08-23 22:30:34 UTC_
         - [`🧠_smart_women_get_surveillance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧠_smart_women_get_surveillance.md)
         - [`🧩_asymmetric_democratic_policing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_asymmetric_democratic_policing.md)
         - [`🧩_colonial_scripts_in_modern_bureaucracies.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_colonial_scripts_in_modern_bureaucracies.md)
-        - [`🧩_containment_economics.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_containment_economics.md)
         - [`🧩_counter_extraction_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_counter_extraction_loop.md)
         - [`🧩_cross_group_solidarity.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_cross_group_solidarity.md)
         - [`🧩_diaspora_instability_patterns.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_diaspora_instability_patterns.md)
