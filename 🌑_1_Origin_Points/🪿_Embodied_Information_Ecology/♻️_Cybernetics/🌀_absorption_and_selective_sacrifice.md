@@ -1,6 +1,5 @@
 # 🌀 Absorption and Selective Sacrifice
-
-**First created:** 2026-08-23 | **Last updated:** 2026-08-23
+**First created:** 2026-08-23 | **Last updated:** 2026-08-23  
 *How systems can receive corrective pressure, visibly respond to it, and nevertheless prevent the correction from reaching the structures reproducing the original problem.*
 
 ---
@@ -11,13 +10,11 @@ Systems do not have to ignore criticism in order to resist change.
 
 Sometimes the more durable response is to **receive the signal, process it, produce a visible response, and prevent the correction from propagating any further than necessary**.
 
-This matters because the resulting system can look responsive.
-
-Someone is criticised.
-Something is investigated.
-A company loses a contract.
-An official resigns.
-A policy is amended.
+Someone is criticised.  
+Something is investigated.  
+A company loses a contract.  
+An official resigns.  
+A policy changes.  
 A regulator intervenes.
 
 The feedback loop appears to be functioning.
@@ -32,86 +29,82 @@ If not, accountability may have functioned partly as **absorption**.
 
 At its most developed, this can produce **selective sacrifice**: one sufficiently implicated component becomes expendable, allowing the wider system to demonstrate responsiveness while substantially preserving its underlying relationships, incentives, dependencies or distributions of power.
 
-The sacrifice may be completely deserved.
+The sacrifice may be entirely deserved.
 
 That is precisely why it can work.
 
 ---
 
-## 🌀 Receiving Feedback Is Not the Same as Correcting
+## ♻️ Receiving Feedback Is Not The Same As Correcting
 
-In a simple corrective system, evidence of a harmful outcome should feed back into the processes producing it.
+A simple corrective system looks something like:
 
 ```mermaid
 flowchart LR
-    A[System behaviour] --> B[Harmful outcome]
-    B --> C[Corrective signal]
-    C --> D[System receives feedback]
-    D --> E[Underlying behaviour changes]
-    E --> F[Reduced harm]
+    A[System behaviour]
+    --> B[Harmful outcome]
+    --> C[Corrective signal]
+    --> D[System receives feedback]
+    --> E[Underlying behaviour changes]
+    --> F[Reduced harm]
     F -. new information .-> A
 ```
 
-Political and institutional systems are considerably messier.
-
-A corrective signal may enter the system without reaching the mechanism responsible for producing the outcome.
+Political, institutional and commercial systems are messier.
 
 ```mermaid
 flowchart LR
-    A[System behaviour] --> B[Harm]
-    B --> C[Criticism / protest / evidence]
-    C --> D[Institutional response]
-    D --> E[Visible corrective action]
-    E --> F[Public signal of responsiveness]
+    A[System behaviour]
+    --> B[Harm]
+    --> C[Criticism / protest / evidence]
+    --> D[Institutional response]
+    --> E[Visible corrective action]
+    --> F[Public signal of responsiveness]
 
-    D -. limited transmission .-> G[Underlying incentives]
+    D -. weak transmission .-> G[Underlying incentives]
     G --> A
 ```
 
-The presence of **E** is therefore not evidence that **G** changed.
-
-That distinction is easy to lose.
+The presence of **visible action** is not evidence that the reproducing mechanism changed.
 
 ---
 
-## 📡 Signal, Transmission and Absorption
+## 📡 Signal, Transmission, Correction
 
-A useful distinction can be made between three stages.
+Three stages need separating.
 
 ### Signal
 
-Information that something is wrong enters the environment.
+Information that something is wrong becomes available.
 
-This might take the form of:
+It may arrive through:
 
-* investigative reporting;
-* litigation;
-* protest;
-* boycott;
-* regulatory findings;
-* whistleblowing;
-* electoral pressure;
-* market pressure;
-* professional criticism;
-* internal governance concerns.
+- litigation;
+- journalism;
+- protest;
+- boycott;
+- whistleblowing;
+- elections;
+- professional criticism;
+- market pressure;
+- regulatory findings;
+- internal governance.
 
 ### Transmission
 
-The signal reaches actors capable of altering the processes responsible for the problem.
+The signal reaches actors or structures capable of altering the process producing the harm.
 
 ### Correction
 
-Those processes actually change sufficiently to affect the outcome.
+The relevant behaviour, incentive or dependency actually changes.
 
-A system can therefore possess extremely high **signal visibility** while maintaining extremely low **corrective transmission**.
-
-Indeed, highly visible responses can sometimes assist this process by creating the impression that transmission has already occurred.
+A system can therefore possess very high **signal visibility** and very low **corrective transmission**.
 
 ---
 
 ## 🧽 Criticism Absorption
 
-**Criticism absorption** describes the capacity of a system or component to receive substantial corrective pressure without transmitting proportionate change into the structures around it.
+**Criticism absorption** is the capacity to receive substantial corrective pressure without transmitting proportionate change through the surrounding system.
 
 ```mermaid
 flowchart TD
@@ -131,7 +124,6 @@ flowchart TD
     E --> F[Visible response]
 
     F --> G{Does correction propagate?}
-
     G -->|Yes| H[Structural change]
     G -->|No| I[System remains substantially intact]
 
@@ -142,20 +134,23 @@ An **absorptive target** is particularly capable of performing this function.
 
 It may be:
 
-* highly recognisable;
-* already controversial;
-* narratively simple;
-* institutionally separable;
-* sufficiently large to withstand reputational damage;
-* sufficiently expendable that losing it does not threaten the wider architecture.
+- highly recognisable;
+- already controversial;
+- narratively simple;
+- politically legible;
+- institutionally separable;
+- robust enough to withstand reputational damage;
+- or useful enough that criticism does not materially threaten its place inside the system.
 
-This makes it extremely convenient as the place where diffuse criticism becomes concentrated.
+That last category matters.
+
+Some targets do not merely **take the hit** because they are expendable.
+
+They can take the hit because their institutional integration makes them unusually criticism-resistant.
 
 ---
 
 ## 🎯 Selective Salience
-
-Before selective sacrifice can occur, there is often **selective salience**.
 
 Imagine an original problem implicating several actors:
 
@@ -176,14 +171,12 @@ flowchart TD
 
 An intervening event can change the information environment.
 
-A legal ruling, investigation, disclosure, political intervention or media event may make one component considerably easier to discuss than the others.
-
 ```mermaid
 flowchart TD
     X[Original problem] --> A[Actor A]
     X --> B[Actor B]
 
-    L[Intervening event] --> A
+    L[Legal / political / media event] --> A
 
     A --> M[High institutional salience]
     B --> N[Low institutional salience]
@@ -192,11 +185,49 @@ flowchart TD
     N --> Q[Comparatively little scrutiny]
 ```
 
-Nothing about this pattern alone establishes deliberate protection of B.
+Nothing about this pattern alone proves that B is being deliberately protected.
 
-It does, however, create an analytical question:
+It does create a legitimate analytical question:
 
 > **Why did the accountability environment diverge?**
+
+---
+
+## 🧮 The Accountability Set
+
+Before the intervening event:
+
+```text
+{ A, B, C, institutional process, incentive structure }
+```
+
+After public processing:
+
+```text
+{ A }
+```
+
+The analytical problem is the contraction.
+
+Sometimes the contraction is justified.
+
+Perhaps:
+
+- evidence exonerates the others;
+- jurisdiction reaches only A;
+- responsibility genuinely concentrates in A;
+- the legal event materially changes the evidential position.
+
+But sometimes the contraction reflects:
+
+- institutional convenience;
+- legal tractability;
+- political acceptability;
+- media legibility;
+- commercial dependency;
+- reputational management;
+- unequal power;
+- or the availability of an actor capable of absorbing the load.
 
 ---
 
@@ -204,25 +235,21 @@ It does, however, create an analytical question:
 
 Salience and legitimacy are not identical.
 
-A subject can be widely known while remaining institutionally difficult to criticise.
+An actor may be widely known while remaining institutionally difficult to criticise.
 
-After an intervening event, criticism that previously carried professional, political or reputational risk may become acceptable.
+After a legal ruling, disclosure, political shift or major journalistic event, criticism of one actor may enter the range of establishment-permissible positions.
 
 This produces **selective legitimation**:
 
-> criticism of one component enters the range of institutionally permissible positions while comparable criticism of adjacent components does not.
+> criticism of one component becomes institutionally safe while comparable criticism of adjacent components remains costly or marginal.
 
-The change may be entirely justified by new evidence.
+The question then becomes:
 
-But once again, the relevant systems question is what happens next.
-
-Does the new permission to criticise A expand scrutiny?
-
-Or does A become the boundary at which scrutiny stops?
+**does permission to criticise A expand the accountability set, or define its boundary?**
 
 ---
 
-## 🧿 From Salience to Sacrifice
+## 🩸 Selective Sacrifice
 
 The possible progression is:
 
@@ -238,45 +265,25 @@ flowchart LR
     --> H[Systemic preservation]
 ```
 
-These stages should not be assumed merely because one follows another chronologically.
+At that point, accountability can perform a paradoxical function:
 
-They are diagnostic categories.
-
-But where the full sequence occurs, accountability can perform a paradoxical function:
-
-> **the punishment of one component helps establish the legitimacy of the system containing it.**
-
-The system can point to the sacrifice as evidence that its accountability mechanisms work.
+> **punishing one component can help restore the legitimacy of the system containing it.**
 
 ---
 
-## 🩸 The Sacrifice Can Be Guilty
+## 🪞 Scapegoating Is Not Selective Sacrifice
 
-Selective sacrifice should not be confused with scapegoating.
-
-A scapegoat may be blamed for something it did not do, or assigned responsibility grossly disproportionate to its role.
+A scapegoat may be falsely blamed or assigned wildly disproportionate responsibility.
 
 A selectively sacrificed actor may be **completely culpable**.
 
-The problem is not:
+That is why the relevant question is not:
 
 > *Why was A criticised?*
 
 It is:
 
 > **Why did accountability stop at A?**
-
-This is an important distinction because genuine wrongdoing makes an actor particularly effective as a sacrificial target.
-
-There is no need to manufacture the case.
-
-The wrongdoing can be exposed accurately, condemned appropriately and sanctioned legitimately.
-
-The systems failure occurs if the resulting accountability is then allowed to stand in for examination of the processes, actors and incentives that enabled the same outcome.
-
----
-
-## 🪞 Scapegoating Versus Selective Sacrifice
 
 ```mermaid
 flowchart TD
@@ -285,73 +292,56 @@ flowchart TD
     P --> S[Scapegoating]
     P --> SS[Selective sacrifice]
 
-    S --> S1[Responsibility displaced]
+    S --> S1[Responsibility distorted]
     S1 --> S2[Target may be innocent or disproportionately blamed]
 
     SS --> SS1[Real responsibility identified]
     SS1 --> SS2[Accountability concentrated]
-    SS2 --> SS3[Further responsibility remains insufficiently examined]
+    SS2 --> SS3[Further responsibility insufficiently examined]
 
     S2 --> R[System protected]
     SS3 --> R
 ```
 
-Both mechanisms can protect systems.
-
-They do so differently.
-
-**Scapegoating distorts responsibility.**
-
-**Selective sacrifice can accurately identify responsibility while artificially limiting its scope.**
-
-The latter can therefore be considerably harder to recognise.
+Selective sacrifice can therefore be harder to detect than scapegoating because the criticism itself may be completely accurate.
 
 ---
 
-## 🧮 The Accountability Set
+## 🧪 Abstract Worked Example
 
-Another way of describing the problem is through an **accountability set**.
-
-At the beginning of an event, the plausible accountability set might be:
+A useful diagnostic model is:
 
 ```text
-{ A, B, C, institutional process, incentive structure }
+Group X seeks action against Company A and Company B.
+
+A legal event changes the public legitimacy of criticism.
+
+Company A becomes increasingly criticised by establishment actors.
+
+Company B does not.
+
+A is subsequently treated as the principal accountability object.
 ```
 
-After public and institutional processing, it may become:
+The analysis should not leap straight to:
 
-```text
-{ A }
-```
+> *B is being protected.*
 
-The analytical task is to explain the contraction.
+Instead ask:
 
-Sometimes there will be an excellent reason.
+- Did the legal event genuinely distinguish A from B?
+- Did evidence concerning B change?
+- Did jurisdiction differ?
+- Was A simply more narratively legible?
+- Did B remain commercially or politically harder to challenge?
+- Did criticism of A create an appearance that the broader issue had now been addressed?
+- Could removing A leave the underlying system almost unchanged?
 
-Sometimes evidence exonerates B and C.
-
-Sometimes jurisdiction only permits action against A.
-
-Sometimes responsibility genuinely was concentrated in A.
-
-But sometimes the contraction reflects:
-
-* institutional convenience;
-* legal tractability;
-* media legibility;
-* political acceptability;
-* commercial dependency;
-* reputational management;
-* existing distributions of power;
-* the availability of an actor capable of taking the hit.
-
-The contraction itself is therefore worth documenting.
+That is the selective-sacrifice test in miniature.
 
 ---
 
 ## 🪫 Means–Ends Inversion
-
-Absorption becomes particularly effective when the target of an intervention gradually replaces the purpose of the intervention.
 
 Initially:
 
@@ -360,49 +350,32 @@ flowchart LR
     A[Undesirable outcome]
     --> B[Need behavioural change]
     --> C[Target chosen as leverage point]
-    --> D[Pressure on target]
+    --> D[Pressure]
     --> E[Behaviour changes]
     --> F[Outcome improves]
 ```
 
-But the process can invert:
+But:
 
 ```mermaid
 flowchart LR
     A[Undesirable outcome]
     --> B[Target chosen]
     --> C[Target becomes symbol]
-    --> D[Removing target becomes campaign objective]
+    --> D[Removing target becomes objective]
     --> E[Target removed]
     --> F[Victory declared]
 
-    F -. forgotten question .-> G[Did the undesirable outcome change?]
+    F -. forgotten question .-> G[Did the original outcome change?]
 ```
 
-The means has become the end.
-
-This is especially likely where the target is:
-
-* memorable;
-* morally legible;
-* personally identifiable;
-* commercially famous;
-* visually dramatic;
-* already culturally associated with wrongdoing.
-
-Success becomes easier to narrate.
-
-Whether the system changed becomes harder to measure.
+The means becomes the end.
 
 ---
 
 ## 🕸️ No Conspiracy Required
 
-Absorption and selective sacrifice do not require a committee deciding:
-
-> *Let us sacrifice A so nobody notices B.*
-
-Complex systems can generate the same outcome through distributed incentives.
+Distributed systems can produce concentrated accountability without anyone centrally planning it.
 
 ```mermaid
 flowchart TD
@@ -411,54 +384,46 @@ flowchart TD
     I[Institutions want bounded liability] --> A
     C[Campaigners need recognisable target] --> A
     L[Law makes some actors easier to pursue] --> A
-    E[Existing dependencies make others costly to challenge] --> A
+    E[Dependencies make others costly to challenge] --> A
 
     A --> T[One target dominates]
 ```
 
-Every participant may have a locally intelligible reason for what they are doing.
+Every participant may have a locally reasonable explanation.
 
-The aggregate result can nevertheless be:
+The emergent result can still be:
 
-**concentrated accountability and distributed protection.**
-
-This is why systems analysis cannot stop at establishing individual intention.
-
-Emergent outcomes matter.
+> **concentrated accountability and distributed protection.**
 
 ---
 
 ## 🧬 Why Systems Do This
 
-Deep correction is expensive.
+Deep correction can require:
 
-It can require:
-
-* admitting previous decisions were wrong;
-* redistributing resources;
-* abandoning sunk costs;
-* changing procurement;
-* exposing additional liability;
-* altering professional incentives;
-* challenging powerful constituencies;
-* surrendering institutional prestige;
-* accepting uncertainty during transition.
+- admitting previous decisions were wrong;
+- abandoning sunk costs;
+- changing procurement;
+- redistributing resources;
+- exposing additional liability;
+- challenging powerful constituencies;
+- accepting transition risk;
+- surrendering prestige;
+- rebuilding institutional capacity.
 
 Selective correction is cheaper.
 
-The system gets to demonstrate movement without necessarily undertaking reconstruction.
+The distinction is whether the intervention becomes:
 
-This does not make every limited intervention cynical.
+**a step through the problem**
 
-Incremental change can be real change.
+or
 
-The distinction is whether the intervention becomes **a step through the problem** or **the point at which the problem is declared solved**.
+**the point at which the problem is declared solved.**
 
 ---
 
-## ♻️ The Self-Preserving Feedback Loop
-
-There is therefore a pathological feedback architecture in which criticism itself becomes useful to system preservation.
+## ♻️ Accountability Can Become Part Of System Preservation
 
 ```mermaid
 flowchart TD
@@ -471,7 +436,7 @@ flowchart TD
     --> A
 ```
 
-The extraordinary feature of this loop is that **accountability is present**.
+The extraordinary feature is that **accountability is genuinely present**.
 
 It simply does not reach far enough.
 
@@ -483,35 +448,31 @@ It has learned to metabolise it.
 
 ## 🔬 Diagnostic Questions
 
-When a conspicuous accountability event occurs, useful questions include:
+- What was the original harm?
+- What was the original accountability set?
+- What changed the salience of particular actors?
+- What criticism became newly legitimate?
+- What remained difficult to say?
+- Was the criticised actor genuinely responsible?
+- What responsibility remained elsewhere?
+- Did incentives change?
+- Did contracts change?
+- Did dependencies change?
+- Did governance change?
+- Could a substitute actor reproduce substantially the same outcome?
+- Did removing one actor become synonymous with solving the problem?
+- Who benefits from drawing the accountability boundary here?
+- What would deeper corrective transmission have required?
 
-* What was the original harm being addressed?
-* What actors and structures were initially implicated?
-* What was the original accountability set?
-* Which component became most publicly salient?
-* What changed its salience?
-* Which forms of criticism became newly legitimate?
-* Which adjacent criticisms did not?
-* Was the sanctioned actor genuinely responsible?
-* What responsibility remained elsewhere?
-* Did sanctioning the actor change underlying incentives?
-* Did dependencies, contracts, ownership or governance structures change?
-* Could substantially the same outcome be reproduced through another actor?
-* Has removing the target become synonymous with solving the problem?
-* Who benefits from defining the accountability boundary here?
-* Is this an intermediate correction or the termination of scrutiny?
-
-The final question is the simplest:
+And:
 
 > **Could the system reproduce substantially the same harm tomorrow using different people or organisations?**
 
-If the answer is yes, the correction probably has not reached the deepest relevant layer.
+If yes, the correction probably has not reached the deepest relevant layer.
 
 ---
 
-## 🧭 Correction Versus Performance of Correction
-
-The distinction can be compressed:
+## 🧭 Correction Versus Performance Of Correction
 
 ```mermaid
 flowchart TD
@@ -530,36 +491,32 @@ flowchart TD
     D3 --> D4[Outcome changes]
 ```
 
-The two branches are not mutually exclusive.
+The two branches can coexist.
 
-A highly visible sanction can accompany profound structural reform.
-
-The warning is simply that **visibility is not a proxy for depth**.
+Visibility is simply not a proxy for depth.
 
 ---
 
-## 🌊 What To Follow
-
-The object of analysis should therefore remain the **flow**, not merely the actor.
+## 🌊 Follow The Flow
 
 Follow:
 
-**the money.
-the contract.
-the incentive.
-the dependency.
-the information.
-the authority.
-the replacement.
+**the money.  
+the contract.  
+the incentive.  
+the dependency.  
+the information.  
+the authority.  
+the replacement.  
 the outcome.**
 
-If A disappears and all eight routes simply reconnect through B, very little has been corrected.
+If A disappears and all eight routes reconnect through B, the correction has probably been shallow.
 
 ---
 
-## 🧠 The Larger Information-Ecology Problem
+## 🧠 The Information-Ecology Problem
 
-Within an embodied information ecology, this matters because people encounter systems through salient events.
+People encounter systems through salient events.
 
 A resignation feels like accountability.
 
@@ -567,83 +524,49 @@ A cancelled contract feels like change.
 
 A prosecution feels like correction.
 
-A corporate scandal feels like exposure.
+Those perceptions are not irrational.
 
-Those perceptions are not irrational. They are responses to genuine events.
+They are responses to real events.
 
-But a system can contain many genuine events without changing its governing dynamics.
+But systems can contain many real accountability events without materially changing their governing dynamics.
 
-The informational environment therefore affects not only **what people know**, but **where they believe causality and responsibility terminate**.
+Selective sacrifice is powerful partly because it produces narrative closure:
 
-Selective sacrifice is powerful partly because it gives an information ecology a satisfying ending.
+**problem → villain → consequence → ending.**
 
-There was a problem.
-
-There was a villain.
-
-There was a consequence.
-
-The story is complete.
-
-Systems, unfortunately, do not have to obey narrative structure.
-
----
-
-## 🌀 A Different Definition of Success
-
-Corrective interventions should ultimately be evaluated against the outcome that generated them.
-
-Not:
-
-> **Did somebody pay?**
-
-But:
-
-> **Did something change?**
-
-Not:
-
-> **Was criticism heard?**
-
-But:
-
-> **Where did it travel?**
-
-Not:
-
-> **Was an actor removed?**
-
-But:
-
-> **Can the system still reproduce the same result?**
-
-This makes accountability harder to narrate.
-
-It also makes it considerably harder to fake.
+Systems do not have to obey narrative structure.
 
 ---
 
 ## 🌌 Constellations
 
-🌀 🧿 ♻️ 🪫 🕸️ — feedback architecture; criticism absorption; selective accountability; systemic preservation; information ecology.
+🌀 ♻️ 🧿 🕸️ 🪫 — feedback architecture; criticism absorption; selective accountability; narrative closure; systemic preservation.
+
+---
 
 ## ✨ Stardust
 
-systems theory, feedback, negative feedback, criticism absorption, selective salience, selective legitimation, asymmetric accountability, selective sacrifice, systemic preservation, means ends inversion
+systems theory, feedback, criticism absorption, selective salience, selective legitimation, asymmetric accountability, selective sacrifice, systemic preservation, means ends inversion
 
 ---
 
 ## 🏮 Footer
 
-*🌀 Absorption and Selective Sacrifice* is a living node of the **Polaris Protocol**.
-It develops a systems framework for distinguishing visible responsiveness from corrective transmission, with particular attention to the ways accountability can become concentrated in individual actors while the structures capable of reproducing the original harm remain intact.
+*🌀 Absorption and Selective Sacrifice* is a living node of the **Polaris Protocol**.  
+It develops a cybernetic framework for distinguishing visible accountability from corrective transmission and for identifying circumstances in which one legitimate accountability target can absorb pressure that would otherwise propagate through a wider system.
 
 > 📡 Cross-references:
 >
-> * [🪿 Embodied Information Ecology](./) — *the wider ecology in which signals, interpretation, salience and institutional responses interact*
-> * [🎯 What Was BDS Supposed To Do?](../../../🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/🎯_what_was_bds_supposed_to_do.md) — *case analysis of intended feedback, behavioural leverage and subsequent narrative transformation*
-> * [💸 Making Harm Too Expensive To Continue](../../../🌕_5_Long_Strategies/💸_Business_Is_Tooling/💸_making_harm_too_expensive_to_continue.md) — *designing economic systems in which harmful conduct generates meaningful corrective costs*
+> - [🎯 What Was BDS Supposed To Do?](../../../../🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/🎯_what_was_bds_supposed_to_do.md) — *case analysis of intended behavioural feedback and subsequent narrative transformation*
+> - [💸 Making Harm Too Expensive To Continue](../../../../🌕_5_Long_Strategies/💸_Business_Is_Tooling/💸_making_harm_too_expensive_to_continue.md) — *designing economic feedback that reaches the decision point rather than terminating at symbolic accountability*
+>
+> 🏮 Return To:
+>
+> - [♻️ Cybernetics](./README.md) — *1up*
+> - [🪿 Embodied Information Ecology](../README.md) — *2up*
+> - [🌑 Origin Points](../../README.md) — *3up*
+> - [🌌 Polaris Protocol - Root](../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-23*
+_Last updated: 2026-08-23_
