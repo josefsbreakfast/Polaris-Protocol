@@ -1,5 +1,5 @@
 # ⚗️ Data Contamination Chain  
-**First created:** 2025-11-07 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-23  
 *How an early misclassification of personal data can propagate through reuse, creating long-term integrity and compliance risks.*  
 
 ---
@@ -161,4 +161,4 @@ It examines how early-stage classification decisions can propagate through compl
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-08-23_
