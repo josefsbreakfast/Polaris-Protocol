@@ -1,6 +1,5 @@
-# 💸 Incentivising Behavioural Change and BDS
-
-**First created:** 2026-08-23 | **Last updated:** 2026-08-23
+# 💸 Incentivising Behavioural Change and BDS  
+**First created:** 2026-08-23 | **Last updated:** 2026-08-23  
 *If boycott and divestment are supposed to change behaviour, target selection has to be organised around leverage, substitutability, timing and outcomes — not simply which company currently carries the most political heat.*
 
 ---
