@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 18:30:18 UTC_
+_Generated on 2026-08-23 19:06:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -640,7 +640,6 @@ _Generated on 2026-08-23 18:30:18 UTC_
         - [`🌌_institutional_pattern_recognition.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌌_institutional_pattern_recognition.md)
         - [`🎩_organisational_civility_as_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🎩_organisational_civility_as_containment.md)
         - [`🏚️_cultural_drift_toward_coercive_logic.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🏚️_cultural_drift_toward_coercive_logic.md)
-        - [`🏚️_seven_layers_of_safeguard_breakdown.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)
         - [`🏛️_institutional_posture_collapse.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🏛️_institutional_posture_collapse.md)
         - [`🏛️_state_drift_and_crisis_adoption.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🏛️_state_drift_and_crisis_adoption.md)
         - [`🏛️_the_boringing_uk_2010_2025.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🏛️_the_boringing_uk_2010_2025.md)
@@ -5064,6 +5063,7 @@ _Generated on 2026-08-23 18:30:18 UTC_
         - [**Big_Picture_Protocols/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/)
           - [**🌀_System_Governance/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
             - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
+            - [`🏚️_seven_layers_of_safeguard_breakdown.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/🏚️_seven_layers_of_safeguard_breakdown.md)
           - [**🐍_Ouroborotic_Violence/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
             - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
           - [**🦕_Elder_Influencers/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
