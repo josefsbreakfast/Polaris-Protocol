@@ -87,10 +87,9 @@ The timing matters as well. The British incident occurred in July, around the sa
 
 I did not find another newly disclosed incident today in government administration, defence, healthcare, education, transport, telecommunications or systemically important banking with comparable operational effect and sufficiently credible sourcing to justify a separate alert.
 
-- [The Guardian: “Iran-linked hackers shut down UK power generator for four days”](https://www.theguardian.com/technology/2026/aug/23/iran-linked-hackers-uk-power-generator-cyber-attack)
-- [BBC News: “Iran-linked hackers 'shut down UK power generator'”](https://www.bbc.co.uk/news/articles/cly33k2r3d2o)
-- [The Telegraph: “Iranian hackers shut down British power generator”](https://www.telegraph.co.uk/business/2026/08/23/iranian-hackers-shut-down-british-power-generator/)
-- [NCSC: “UK organisations urged to bolster cyber resilience amid Iran conflict”](https://www.ncsc.gov.uk/news/uk-organisations-urged-bolster-cyber-resilience-amid-iran-conflict)
-- [FBI: “Defending Against an Active Threat to Siemens S7 Series PLCs”](https://www.fbi.gov/investigate/cyber/alerts/2026/defending-against-an-active-threat-to-siemens-s7-series-plcs)
-
-
+- [📰: The Guardian: “Iran-linked hackers shut down UK power generator for four days”](https://www.theguardian.com/technology/2026/aug/23/iran-linked-hackers-uk-power-generator-cyber-attack)
+- [📰: BBC News: “Iran-linked hackers 'shut down UK power generator'”](https://www.bbc.co.uk/news/articles/cly33k2r3d2o)
+- [📰: The Telegraph: “Iranian hackers shut down British power generator”](https://www.telegraph.co.uk/business/2026/08/23/iranian-hackers-shut-down-british-power-generator/)
+- [📄: NCSC: “UK organisations urged to bolster cyber resilience amid Iran conflict”](https://www.ncsc.gov.uk/news/uk-organisations-urged-bolster-cyber-resilience-amid-iran-conflict)
+- [📄: FBI: “Defending Against an Active Threat to Siemens S7 Series PLCs”](https://www.fbi.gov/investigate/cyber/alerts/2026/defending-against-an-active-threat-to-siemens-s7-series-plcs)
+– [📲: Cybersec Misplays: “Iran is escalating who (its) attacking and demonstrating more of (its) capabilities. Iran shut down a UK power plant for 4 days. Same summer they hit water systems in 12 US states.”](https://vm.tiktok.com/ZN8NRsd5V/)  
