@@ -1,5 +1,5 @@
 # 🪨 May Their Names Never Be Erased  
-**First created:** 2025-10-07 | **Last updated:** 2026-08-16  
+**First created:** 2025-10-07 | **Last updated:** 2026-08-23  
 *A living memorial dataset: holding reference lists of those murdered in Gaza, affirming their lives when even the number of dead is contested.*  
 
 > ## ⚠️ Caution: These lists are targeted for erasure during maintenance.
@@ -40,6 +40,11 @@ Primary dataset:
 
 🐍 🩸 🍉 🕯️ 🧿 — This node sits within the Ouroborotic Violence constellation, where recursion and denialism meet witness and archival ethics.  
 
+*Follow the evidence:*  
+
+- [📰: Haartez: “Behind the Numbers
+The Truth About Gaza's Death List”](https://www.haaretz.com/gaza/2026-02-24/ty-article-static/.premium/behind-the-numbers-the-truth-about-gazas-death-list/0000019c-756b-d759-a7bf-fffba5a50000)  
+
 ---
 
 ## ✨ Stardust  
@@ -61,4 +66,4 @@ It preserves public reference datasets documenting those killed in Gaza, ensurin
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-23_
