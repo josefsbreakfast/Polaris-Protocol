@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 21:39:17 UTC_
+_Generated on 2026-08-23 21:44:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -629,7 +629,7 @@ _Generated on 2026-08-23 21:39:17 UTC_
         - [`🇬🇧_diet_authoritarianism_uk_homebrew.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🇬🇧_diet_authoritarianism_uk_homebrew.md)
         - [`🇬🇧_the_uk_and_existential_delusions.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🇬🇧_the_uk_and_existential_delusions.md)
         - [`🌀_ambiguity_as_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_ambiguity_as_containment.md)
-        - [`🌀_behavioural_containment_when_governance_becomes_psychology.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_behavioural_containment_when_governance_becomes_psychology.md)
+        - [`🌀_behavioural_containment_and_unfalsifiable_suspicion.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_behavioural_containment_and_unfalsifiable_suspicion.md)
         - [`🌀_fall_of_institutional_integrity.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_fall_of_institutional_integrity.md)
         - [`🌀_managed_transition_vs_revolution.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_managed_transition_vs_revolution.md)
         - [`🌀_parallel_channels.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_parallel_channels.md)
