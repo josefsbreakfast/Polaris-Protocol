@@ -16,7 +16,7 @@
 
 ## 🛰️ Orientation
 
-[🦚 Making Peacocks](../07_🦚_Making_Peacocks/README.md) follows distributed inputs toward concentrated performance, prestige, and dependency.
+[🦚 Bedazzling Peacocks](../07_🦚_Bedazzling_Peacocks/README.md) follows distributed inputs toward concentrated performance, prestige, and dependency.
 
 This chapter turns back toward the person from whom something has gone missing.
 
@@ -336,7 +336,7 @@ Scarcity can make it legible.
 
 ## 🦚 Winter Tests The Peacock
 
-[🦚 Making Peacocks](../07_🦚_Making_Peacocks/README.md) distinguishes capacity-building from recurrent substitution.
+[🦚 Bedazzling Peacocks](../07_🦚_Bedazzling_Peacocks/README.md) distinguishes capacity-building from recurrent substitution.
 
 Winter tests that distinction.
 
@@ -400,13 +400,11 @@ The problem has merely moved down the path.
 
 ---
 
-## 🕯️ Search Changes The Searcher
+## 🕯️ The Search Should Not Depend On Demeter Becoming An Investigator
 
-Demeter’s search is not passive.
+Demeter may inevitably learn while searching. That is not the remedy.
 
-She learns.
-
-The person trying to reconstruct what happened may gradually learn:
+The institutional failure is that she has been required to reconstruct a fragmented event in the first place. A competent system should be able to determine:
 - which institution holds which record,
 - where remits divide,
 - which interfaces matter,
@@ -416,25 +414,11 @@ The person trying to reconstruct what happened may gradually learn:
 - which systems preserve audit trails,
 - and which actors possess the authority to answer questions others cannot.
 
-None of this makes the original loss desirable.
+Those are capabilities an investigator or oversight body should be able to bring to the problem without requiring Demeter to acquire them through attrition.
 
-It means the search changes the person's relationship to the terrain.
+The source's chronology and evidence can matter. But the duty to obtain inaccessible records, reconcile remits, compel disclosure, test provenance, and produce a person-shaped account belongs with institutions that possess the lawful authority to do so.
 
-At the beginning, the question may be:
-
-> Where did it go?
-
-Later:
-
-> Who could know?
-
-Later still:
-
-> Which evidence would establish that?
-
-The search becomes more precise.
-
-The person becomes harder to fob off with an answer to a different question.
+> **Demeter's persistence is evidence of an unresolved search. It is not a substitute for an investigation.**
 
 ---
 
@@ -687,7 +671,7 @@ The node also considers what institutions learn when ordinary productivity, trus
 > - [⛩️ Gateways To Investigation](../00_⛩️_Gateways_To_Investigation/README.md) — *the evidentiary threshold between open reconstruction and questions requiring lawful investigative authority*  
 > - [🧮 The Keepers' Ledgers](../05_🧮_The_Keepers_Ledgers/README.md) — *how distributed records may preserve the visible consequences of rupture while failing to represent its cause*  
 > - [🕸️ The Keepers Know Each Other](../06_🕸️_The_Keepers_Know_Each_Other/README.md) — *fragmented knowledge, divided remit, and why person-shaped explanations can disappear between organisations*  
-> - [🦚 Making Peacocks](../07_🦚_Making_Peacocks/README.md) — *receiver dependency, concentrated attribution, and what scarcity reveals about hidden support architectures*  
+> - [🦚 Bedazzling Peacocks](../07_🦚_Bedazzling_Peacocks/README.md) — *receiver dependency, concentrated attribution, and what scarcity reveals about hidden support architectures*  
 > - [🦢 Caution Swans Aggressive](../09_🦢_Caution_Swans_Aggressive/README.md) — *the next stage: what happens when the supposedly manageable bird is no longer small, uncertain, or easy to handle*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
