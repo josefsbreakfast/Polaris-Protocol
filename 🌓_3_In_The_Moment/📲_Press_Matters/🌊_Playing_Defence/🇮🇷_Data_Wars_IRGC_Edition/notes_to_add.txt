@@ -51,6 +51,7 @@ Everything else important is aligned: the 31-record CSV/XLSX parity, README coun
 - 20260823:  
 - [📰: BBC: “Cyber attack shut down small power plant”](https://www.bbc.co.uk/news/articles/ce9793g34yvo)  
 - [📰: The Telegraph: “Iranian hackers shut down UK power plant”](https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/)  
+- [📰: The Times: “Iranian hackers forced UK energy facility to shut for four days”](https://www.thetimes.com/uk/defence/article/iranian-hackers-forced-uk-energy-facility-to-shut-for-four-days-q7tdg8dct)  
 
 
 ---  
