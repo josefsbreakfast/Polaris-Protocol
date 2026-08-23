@@ -1,5 +1,5 @@
 # ✈ Containment by Crash — Risk Management and Symbolic Deletion  
-**First created:** 2025-11-06 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-06 | **Last updated:** 2026-08-23  
 *Disaster as the reset function of authoritarian infrastructure.*  
 
 ---
@@ -52,4 +52,4 @@ It documents how engineered accidents act as a cleansing mechanism for systems t
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-08-23_
