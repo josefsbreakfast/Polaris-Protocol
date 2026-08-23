@@ -1,10 +1,9 @@
-# ☔️ Article 8 & 9 Pressure Pathways --- When Lawful Systems Begin to Feel Coercive
-
-**First created:** 2025-10-13 \| **Last updated:** 2026-08-19\
+# ☔️ Article 8 & 9 Pressure Pathways --- When Lawful Systems Begin to Feel Coercive  
+**First created:** 2025-10-13 | **Last updated:** 2026-08-23  
 *How overlapping "lawful" processes can cumulatively narrow the lived
 space for privacy, belief, and dissent.*
 
-------------------------------------------------------------------------
+---
 
 ## 🛰️ Orientation
 
@@ -28,7 +27,7 @@ It is something quieter:
 
 > **A shift from private interiority to continuous interpretability.**
 
-------------------------------------------------------------------------
+---
 
 ## ✨ How Compression Emerges
 
@@ -259,4 +258,4 @@ prohibition.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-19*
+*Last updated: 2026-08-23*
