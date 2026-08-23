@@ -1,5 +1,5 @@
 # 🪆 Containment Logic as Witch Logic  
-**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-16 | **Last updated:** 2026-08-23  
 *How modern institutional containment behaviours mirror the structure of historical witch trials — converting uncertainty, discomfort, and systemic fear into suspicion of the survivor.*  
 
 ---
@@ -204,11 +204,11 @@ containment logic, witch trials, institutional fear, risk posture, survivor misr
 
 > 📡 Cross-references:  
 > 
-> - [🧙‍♀️ Witch Logic Diagnostic](Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)  
+> - [🧙‍♀️ Witch Logic Diagnostic]  
 > - [*Pending:* 🧿 Survivor Credibility Loops]  
-> - [🕯️ Survivor Visibility and Risk Aversion](./🕯️_survivor_visibility_and_risk_aversion.md)  
-> - [🪢 Hygienic Cut](./🪢_hygienic_cut.md)  
+> - [🕯️ Survivor Visibility and Risk Aversion]  
+> - [🪢 Hygienic Cut]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-08-23_
