@@ -1,4 +1,4 @@
-# 🌀 Absorption and Selective Sacrifice
+# 🌀 Absorption and Selective Sacrifice  
 **First created:** 2026-08-23 | **Last updated:** 2026-08-23  
 *How systems can receive corrective pressure, visibly respond to it, and nevertheless prevent the correction from reaching the structures reproducing the original problem.*
 
