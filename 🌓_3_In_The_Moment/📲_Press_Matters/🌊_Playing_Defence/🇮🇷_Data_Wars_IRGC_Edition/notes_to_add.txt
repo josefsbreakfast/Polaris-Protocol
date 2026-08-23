@@ -47,3 +47,9 @@ Yes — a short finishing pass remains. The obvious gaps are:
 * Minor House Style drift: 14 nodes exceed the prescribed 2–5 Constellation emojis and/or 5–10 Stardust terms. No substantive damage, just indexing exuberance getting slightly out of hand.
 
 Everything else important is aligned: the 31-record CSV/XLSX parity, README count, France, Connecticut, Mabna, Cl0p, Siemens, the water attribution history, and the nearly three weeks of executive uncertainty. So: one missing incident, one comparator decision, three analytical propagation jobs, one dead link, then cosmetic trimming.
+
+- 20260823:  
+- [📰: BBC: “Cyber attack shut down small power plant”](https://www.bbc.co.uk/news/articles/ce9793g34yvo)  
+
+---  
+
