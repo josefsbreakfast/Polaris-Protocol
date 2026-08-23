@@ -1,52 +1,38 @@
 # 💸 Making Harm Too Expensive To Continue
-
-**First created:** 2026-08-23 | **Last updated:** 2026-08-23
+**First created:** 2026-08-23 | **Last updated:** 2026-08-23  
 *How long-term economic strategy can turn externalised harm into real cost, making exploitation, abuse and destructive conduct progressively less attractive to continue.*
 
 ---
 
 ## 🛰️ Orientation
 
-A large amount of harmful behaviour remains economically rational because the people making the decision are not required to bear the full cost of the harm they produce.
+A large amount of harmful behaviour remains economically rational because the actor making the decision does not bear the full cost.
 
-The damage is externalised.
-
-Workers bear it.
-Children bear it.
-Civilians bear it.
-Patients bear it.
-Communities bear it.
-Future governments bear it.
+Workers bear it.  
+Children bear it.  
+Civilians bear it.  
+Communities bear it.  
+Governments later bear it.  
 The environment bears it.
 
 The balance sheet often does not.
-
-This creates a recurring systems problem:
 
 ```mermaid
 flowchart LR
     A[Profitable activity]
     --> B[Externalised harm]
     --> C[Others absorb the cost]
-    --> D[Activity remains profitable]
+    --> D[Activity remains attractive]
     --> A
 ```
 
-If the harmful conduct remains cheaper than the alternatives, moral criticism alone may not be enough to change it.
-
-Long-term deincentivisation therefore asks a fairly unsentimental question:
+Long-term deincentivisation therefore asks:
 
 > **How do we make the harmful option stop being the economically easy option?**
-
-That does not require every problem to be solved through markets.
-
-It means recognising that where commercial incentives are helping reproduce harm, changing those incentives is one legitimate route to changing the behaviour.
 
 ---
 
 ## ♻️ Harm Needs A Return Path
-
-A functioning corrective system needs consequences to travel back toward the point at which the relevant decision is being made.
 
 ```mermaid
 flowchart TD
@@ -58,7 +44,7 @@ flowchart TD
     --> F[Future decision changes]
 ```
 
-Without the return path:
+Without that return path:
 
 ```mermaid
 flowchart LR
@@ -70,62 +56,50 @@ flowchart LR
     C --> E[Everyone else]
 ```
 
-The problem is not simply that harmful people make harmful choices.
-
-The system can make harmful choices **locally rational**.
+The system can make harmful conduct locally rational.
 
 That is a design problem.
 
 ---
 
-## 💸 Externalisation Is A Subsidy
+## 💸 Externalisation Functions Like A Subsidy
 
-If a company receives the financial benefit of an activity while somebody else bears much of its human, environmental or geopolitical cost, the activity is effectively being subsidised by those who absorb the damage.
+When one actor receives the benefit while someone else carries the damage, the activity is effectively being subsidised by those absorbing the cost.
 
-That subsidy may never appear in a public budget.
+Examples can include:
 
-It can still be enormous.
+- dangerous labour;
+- forced labour;
+- child labour;
+- pollution;
+- unsafe extraction;
+- carbon emissions;
+- corruption;
+- conflict exposure;
+- fragile supply chains;
+- destruction of public infrastructure;
+- inadequate redundancy.
 
-Examples include:
+The strategic question becomes:
 
-* dangerous labour conditions;
-* forced labour;
-* child labour;
-* environmental contamination;
-* carbon emissions;
-* unsafe extraction;
-* weak redundancy;
-* conflict exposure;
-* corruption;
-* fragile supply chains;
-* destruction of public infrastructure.
-
-The intervention question then becomes:
-
-> **How much of that currently externalised cost can be made institutionally visible and economically consequential?**
+> **How can those currently externalised costs become economically consequential to the actor making the decision?**
 
 ---
 
 ## 🧮 Change The Cost Function
 
-A simplistic system might reward only:
+A more realistic accounting of activity includes:
 
 ```text
-revenue - direct private cost = desirable activity
-```
-
-A more realistic system needs to account for:
-
-```text
-direct cost
+direct private cost
 +
 labour risk
 +
 legal risk
 +
-environmental harm
-+
 human-rights exposure
++
+environmental harm
 +
 reputational risk
 +
@@ -136,37 +110,26 @@ geopolitical exposure
 future remediation
 ```
 
-The strategic objective is not to make every activity infinitely expensive.
+The goal is not to make all enterprise prohibitively expensive.
 
-It is to stop systematically pricing serious harm at or near zero.
-
-```mermaid
-flowchart LR
-    A[Harmful conduct]
-    --> B[Previously cheap]
-    --> C[Costs internalised]
-    --> D[Relative attractiveness falls]
-    --> E[Alternative conduct becomes more competitive]
-```
+It is to stop pricing severe harm at effectively zero.
 
 ---
 
-## 🕸️ One Pressure Point Is Rarely Enough
-
-Long-term behavioural change is usually more durable when multiple systems return the signal.
+## 🕸️ Distributed Negative Feedback
 
 ```mermaid
 flowchart TD
     A[Harmful conduct]
 
-    A --> B[Procurement consequences]
-    A --> C[Insurance consequences]
-    A --> D[Financing consequences]
-    A --> E[Regulatory consequences]
-    A --> F[Investor consequences]
-    A --> G[Consumer consequences]
-    A --> H[Reputational consequences]
-    A --> I[Contractual consequences]
+    A --> B[Procurement]
+    A --> C[Insurance]
+    A --> D[Financing]
+    A --> E[Regulation]
+    A --> F[Investment]
+    A --> G[Consumer pressure]
+    A --> H[Reputation]
+    A --> I[Contracting]
 
     B --> J[Cost of continuing increases]
     C --> J
@@ -177,384 +140,318 @@ flowchart TD
     H --> J
     I --> J
 
-    J --> K[Behavioural adaptation]
+    J --> K[Behaviour adapts]
 ```
 
-This matters because a company can often absorb one form of pressure.
+One pressure point can often be absorbed.
 
-It is harder to absorb many independent systems reaching the same conclusion.
+Multiple independent systems returning the same signal are harder to ignore.
+
+---
+
+## ⚖️ Law Is Part Of The Transmission Architecture
+
+Moral information does not automatically become an organisational decision.
+
+Law and governance determine whether it can travel.
+
+Relevant structures include:
+
+- procurement rules;
+- fiduciary duties;
+- insurance conditions;
+- due-diligence requirements;
+- disclosure;
+- liability;
+- contracting;
+- sanctions regimes;
+- environmental law;
+- labour standards;
+- anti-corruption rules.
+
+These determine whether someone inside an institution can say:
+
+> *This relationship now creates a legally, commercially or governance-relevant reason to change course.*
+
+That translation is crucial.
 
 ---
 
 ## 🏢 Procurement Is Governance
 
-Public and institutional procurement is often treated as administrative plumbing.
+Procurement systems encode values whether they admit it or not.
 
-It is much more than that.
+If the hierarchy is:
 
-Every procurement system contains implicit judgments about what matters.
+**lowest headline cost + incumbent convenience**
 
-If price and incumbent convenience dominate every other consideration, then the system rewards suppliers that can make the cheapest offer even where some of that cheapness depends on externalised harm.
+then harms excluded from that calculation become structurally easy to ignore.
 
-Procurement can instead incorporate:
+Procurement can also value:
 
-* labour standards;
-* environmental standards;
-* human-rights due diligence;
-* resilience;
-* supply-chain transparency;
-* security;
-* interoperability;
-* conflict exposure;
-* ethical sourcing;
-* exit capacity.
+- resilience;
+- labour standards;
+- human-rights due diligence;
+- environmental performance;
+- strategic security;
+- interoperability;
+- transparency;
+- exit capacity;
+- diversified supply.
 
-That does not mean every purchasing officer becomes a foreign-policy ministry.
+The purchasing system does not have to become a foreign ministry.
 
-It means **the purchasing system stops pretending that price is the only real thing in the room**.
+It merely has to stop pretending price is the only material variable.
 
 ---
 
-## 🪤 Lowest Cost Can Be The Most Expensive Option
+## 🧱 Resilience Is Not Waste
 
-Short-term efficiency can conceal long-term cost.
+Systems optimised exclusively for normal-time efficiency tend to remove buffers.
 
 ```mermaid
 flowchart TD
-    A[Cheapest immediate supplier]
-    --> B[Maximum efficiency]
-    --> C[Low redundancy]
-    --> D[High dependency]
-    --> E[Shock]
-    --> F[Expensive failure]
-```
-
-A more resilient system may look inefficient during normal operation because it pays for:
-
-* spare capacity;
-* multiple suppliers;
-* domestic capability;
-* inventories;
-* interoperability;
-* contingency planning;
-* conservative leverage;
-* staffing buffers.
-
-Then the crisis arrives.
-
-Those apparent inefficiencies become **stability infrastructure**.
-
----
-
-## 🧱 Resilience Has A Price Because Failure Has A Price
-
-Modern economic systems often reward the removal of slack.
-
-Unused capacity is called waste.
-
-Inventory is called inefficiency.
-
-Redundant supply is called unnecessary duplication.
-
-Extra staffing is called cost.
-
-Until something fails.
-
-Then the absence of all four becomes vastly more expensive than maintaining them would have been.
-
-```mermaid
-flowchart LR
-    A[Optimise for maximum normal-time efficiency]
-    --> B[Remove buffers]
-    --> C[System becomes brittle]
-    --> D[Shock arrives]
+    A[Maximum normal-time efficiency]
+    --> B[Remove redundancy]
+    --> C[Increase dependency]
+    --> D[Shock]
     --> E[Failure propagates]
     --> F[Socialised cost]
 ```
 
-The same logic appears in finance, healthcare, logistics, energy, infrastructure and defence.
+What looked inefficient beforehand:
 
-A healthy system therefore has to price **survivability**, not merely throughput.
+- spare capacity;
+- diversified suppliers;
+- inventory;
+- domestic capability;
+- staff buffers;
+- conservative leverage;
+
+may actually have been **stability infrastructure**.
 
 ---
 
 ## 🧬 Exploitation Can Recurse
 
-Unchecked accumulation can generate its own reinforcing loop.
-
 ```mermaid
 flowchart TD
     A[Economic advantage]
     --> B[Greater concentration]
-    --> C[Greater political / market influence]
+    --> C[Greater influence]
     --> D[Weaker constraint]
-    --> E[Greater ability to extract advantage]
+    --> E[Greater capacity to extract advantage]
     --> A
 ```
 
-This is one reason systems built around profit-seeking need counterweights even if one is entirely comfortable with markets and private enterprise.
-
-The relevant claim is not:
+The claim is not:
 
 > *profit is evil.*
 
 It is:
 
-> **advantage can recursively increase the ability to preserve and enlarge advantage.**
+> **advantage can increase the ability to preserve and enlarge advantage.**
 
-A stable system needs mechanisms that interrupt that recursion.
+A healthy system needs counterweights.
 
 ---
 
 ## ♻️ Countervailing Feedback
 
-The counter-model looks more like:
-
 ```mermaid
 flowchart TD
-    A[Concentration / harmful extraction increases]
+    A[Concentration / extraction rises]
     --> B[Threshold crossed]
-    --> C[Countervailing mechanism activates]
+    --> C[Countervailing mechanism]
     --> D[Cost / constraint increases]
-    --> E[Concentration or extraction moderates]
+    --> E[Extraction moderates]
     --> F[System returns toward viable range]
 ```
 
-Possible counterweights include:
+Possible mechanisms:
 
-* competition law;
-* labour power;
-* progressive taxation;
-* corporate governance;
-* public procurement;
-* regulation;
-* supply-chain standards;
-* anti-corruption rules;
-* public ownership in selected sectors;
-* disclosure requirements;
-* investor duties;
-* professional standards.
+- competition law;
+- labour power;
+- taxation;
+- corporate governance;
+- procurement;
+- regulation;
+- supply-chain standards;
+- anti-corruption controls;
+- disclosure;
+- public-sector capacity.
 
-This is not necessarily revolution.
-
-It is feedback engineering.
+This can be understood as **maintenance**, not merely restraint.
 
 ---
 
-## 🧒 The Congo Question
+## 🧒 Extractive Supply Chains And The Dependence Claim
 
-Extractive supply chains provide one of the clearest examples of the problem.
+The DRC and mineral supply chains provide a particularly sharp example.
 
-Western economies benefit heavily from globally distributed mineral supply chains.
+The question is not:
 
-Some of those chains have repeatedly involved severe labour exploitation, dangerous extraction and child labour, including in the Democratic Republic of the Congo.
+> *Could modern technology exist without severe labour exploitation?*
 
-The important systems question is not:
+It could.
 
-> *Could modern technology exist without abuse in the Congo?*
+The more interesting question is:
 
-Of course it could.
+> **Who would bear the cost of making the supply chain less exploitative?**
 
-The better question is:
+Potentially:
 
-> **Who would bear the cost of removing the abuse from the supply chain?**
+- mining companies;
+- commodity traders;
+- manufacturers;
+- technology firms;
+- investors;
+- consumers;
+- governments.
 
-Possibilities include:
-
-* mining companies;
-* commodity traders;
-* manufacturers;
-* technology companies;
-* investors;
-* consumers;
-* governments.
-
-The reason reform can appear economically impossible is often that existing arrangements allow somebody else to bear the cost.
+A great deal of alleged economic necessity is actually argument about **who is permitted to continue externalising cost**.
 
 ---
 
-## 💎 "Necessary" Often Means "Cheap For Us"
+## 💎 Adapted To Exploitation Is Not The Same As Dependent On Exploitation
 
-This produces a recurring rhetorical transformation:
+This distinction deserves to be explicit.
+
+A system can become deeply:
+
+- adapted to;
+- invested in;
+- institutionally organised around;
+- politically habituated to;
+
+an exploitative arrangement.
+
+That does not prove the system literally requires the exploitation to survive.
 
 ```text
-this arrangement lowers our cost
+this arrangement makes important things cheaper for us
 ```
 
-becomes:
+can quietly become:
 
 ```text
-our economy depends on this arrangement
+our system depends upon this arrangement
 ```
 
-which becomes:
+and then:
 
 ```text
-changing this arrangement threatens economic survival
+changing it threatens collapse
 ```
 
-Those are increasingly strong claims.
+Those are progressively stronger claims.
 
-They are not interchangeable.
+Transition can require:
 
-A system may be **adapted to exploitation** without being fundamentally dependent on exploitation.
+- higher prices;
+- lower margins;
+- different suppliers;
+- redistribution;
+- slower growth;
+- alternative infrastructure.
 
-Removing the exploitation can require:
+Those are costs.
 
-* higher prices;
-* lower margins;
-* different suppliers;
-* slower growth;
-* investment in alternatives;
-* redistribution;
-* stronger regulation.
-
-That is transition cost.
-
-Transition cost is not proof of impossibility.
+They are not proof of impossibility.
 
 ---
 
 ## 📈 Shareholder Return Is Not A Law Of Physics
 
-One difficult governance problem appears when corporate structures treat maximising shareholder return as the overwhelmingly dominant measure of competent management.
+If reducing serious harm lowers returns slightly, governance structures determine whether directors can treat that trade-off as legitimate.
 
-Then a decision such as:
-
-> *we could reduce severe labour exploitation, but doing so would slightly reduce margins*
-
-can become institutionally harder to justify than:
-
-> *we will preserve the harmful relationship because it is profitable.*
-
-That is not an inevitable requirement of economic activity.
-
-It is a governance choice.
-
-Different systems can permit or require directors to consider:
-
-* workers;
-* long-term resilience;
-* communities;
-* environmental effects;
-* strategic risk;
-* human-rights exposure;
-* future liabilities.
-
-The question is not whether profit ceases to matter.
-
-It is whether **maximum short-term return gets automatic priority over every other value**.
-
----
-
-## 💰 Maybe Do Not Make All The Money
-
-There is an extremely boring proposition hiding underneath a surprising amount of political conflict:
-
-> **Sometimes the socially optimal return is lower than the maximum extractable return.**
-
-This should not be revolutionary.
-
-Yet it can feel revolutionary inside systems that have normalised optimisation toward maximum private extraction.
-
-A firm can remain profitable while:
-
-* paying workers more;
-* accepting safer suppliers;
-* maintaining redundancy;
-* reducing exploitation;
-* complying with stronger environmental standards;
-* paying more tax;
-* holding more capital;
-* accepting slower growth.
-
-The relevant comparison is not:
+The choice is not necessarily:
 
 ```text
-maximum possible return
+maximum shareholder return
 vs
 economic collapse
 ```
 
-There is quite a lot of civilisation in between.
+There is a very large policy space between them.
+
+A firm can remain profitable while accepting:
+
+- safer supply;
+- stronger labour standards;
+- more redundancy;
+- higher tax;
+- environmental compliance;
+- slower growth;
+- stronger reserves.
+
+Sometimes the socially optimal return is simply lower than the maximum extractable return.
 
 ---
 
 ## 🧿 Reform Can Feel Like Existential Threat
 
-This helps explain why modest reforms can provoke extraordinary resistance.
-
-If a system's institutions, professional identities and expectations have developed around particular assumptions, changing those assumptions can feel like an attack on reality itself.
-
 ```mermaid
 flowchart LR
     A[Existing arrangement]
-    --> B[Institutions adapt around it]
+    --> B[Institutions adapt]
     --> C[Arrangement becomes normal]
     --> D[Normal becomes necessary]
     --> E[Alternative feels threatening]
 ```
 
-The emotional intensity of that response does not establish that the alternative is actually unworkable.
+The intensity of the reaction does not establish that the alternative is actually impossible.
 
-Sometimes it establishes how completely the incumbent arrangement has been naturalised.
+It can reveal how thoroughly the incumbent arrangement has become naturalised.
 
 ---
 
-## 🌍 Apartheid South Africa And The Politics Of Necessity
+## 🌍 South Africa And The Politics Of Necessity
 
-Apartheid South Africa provides a useful historical comparison if used carefully.
+Apartheid South Africa is useful here as a **bounded comparison**, not an equivalence machine.
 
-The point is not that every contemporary case is equivalent to South African apartheid.
+The question is how systems behave when an unjust arrangement has become woven into:
 
-The useful question is how political and economic systems react when an unjust arrangement has become deeply integrated into:
+- trade;
+- investment;
+- strategic assumptions;
+- diplomacy;
+- corporate relationships;
+- security thinking.
 
-* investment;
-* strategic planning;
-* trade;
-* diplomacy;
-* corporate relationships;
-* security thinking;
-* elite assumptions.
+A future sourced expansion should examine:
 
-For many years, significant Western political and economic interests treated continuity in South Africa as entangled with broader stability and strategic necessity.
+- contemporary Western arguments for maintaining economic relationships;
+- claims about instability and strategic necessity;
+- professional and commercial boycott;
+- what economic adaptation actually looked like through and after transition.
 
-Apartheid nevertheless ended.
+The important theoretical point is:
 
-The world economy did not end with it.
+> **deep integration into an arrangement is not proof that no alternative arrangement can function.**
 
-Businesses continued to exist.
-
-Trade continued.
-
-Institutions adapted.
-
-The distribution of power and cost changed.
-
-That is precisely the distinction worth preserving.
+The end of an incumbent political-economic arrangement may redistribute costs and power without producing the catastrophe predicted by its defenders.
 
 ---
 
 ## 🧭 Dependence Or Habituation?
 
-When institutions claim that an unjust arrangement cannot be changed, ask:
+Ask:
 
-* Is the arrangement genuinely indispensable?
-* Or has the system simply built a large amount around it?
-* Who benefits from continuity?
-* Who pays for change?
-* Who currently pays for the absence of change?
-* Which risks are transition risks?
-* Which risks already exist because the arrangement persists?
-* If designing the system from scratch today, would we choose the same dependency?
+- Is this genuinely indispensable?
+- Or has a great deal simply been built around it?
+- Who benefits from continuity?
+- Who pays for transition?
+- Who currently pays for the lack of transition?
+- Which risks are produced by change?
+- Which risks are already produced by staying?
+- If designing the system from scratch now, would we choose the same arrangement?
 
-That last question is often particularly revealing.
+That final question cuts through a lot of sunk-cost mysticism.
 
 ---
 
 ## 🏗️ Sunk Cost Is Not Strategy
-
-Systems frequently defend existing arrangements because enormous effort has already been invested in them.
 
 ```mermaid
 flowchart LR
@@ -567,90 +464,101 @@ flowchart LR
     --> C
 ```
 
-This is path dependence.
+Path dependence can appear in:
 
-It can occur in:
+- software;
+- energy;
+- healthcare;
+- defence;
+- supply chains;
+- finance;
+- transport;
+- alliances.
 
-* software;
-* military alliances;
-* energy infrastructure;
-* supply chains;
-* healthcare;
-* transport;
-* finance;
-* industrial policy.
+The fact that exit is now expensive may simply mean exit planning should have begun earlier.
 
-The fact that exit is now expensive does not establish that continued dependency is optimal.
+---
 
-It may establish that **exit planning should have begun earlier**.
+## 🌍 Allied Risk Accumulation
+
+A related strategic problem appears when states continue adding:
+
+- fiscal exposure;
+- diplomatic exposure;
+- legal exposure;
+- reputational exposure;
+- information-sharing exposure;
+- defence commitments;
+- industrial dependency;
+
+to preserve an established arrangement.
+
+At some point, the relevant question becomes:
+
+> **Are we still defending an advantageous arrangement, or defending previous investment in the arrangement?**
+
+States can become path-dependent too.
+
+This is especially important where preserving one foreign-policy relationship requires continually adding new cost elsewhere.
+
+The detailed contemporary casework belongs in a separate `🌍_Global_Powers` node.
+
+But the long-strategy principle belongs here:
+
+> **periodically recalculate the total exposure rather than treating previous commitment as proof that further commitment is rational.**
 
 ---
 
 ## 🔁 Revolution Does Not Remove The Boring Work
 
-There is a reason systemic problems generate revolutionary desire.
+A new system still needs:
 
-When problems appear everywhere, rebuilding everything can sound simpler than repairing each part.
-
-But a new system still needs:
-
-* procurement;
-* accounting;
-* tax;
-* labour law;
-* contracts;
-* enforcement;
-* logistics;
-* regulators;
-* governance;
-* dispute resolution;
-* standards;
-* anti-corruption controls.
-
-The boring work survives the revolution.
+- procurement;
+- accounting;
+- labour rules;
+- taxation;
+- enforcement;
+- contracts;
+- logistics;
+- regulation;
+- dispute resolution;
+- anti-corruption controls.
 
 ```mermaid
 flowchart TD
-    A[Existing system has many failures]
+    A[Existing system has distributed failures]
     --> B{Response}
 
-    B --> C[Reform system]
-    B --> D[Replace system]
+    B --> C[Reform]
+    B --> D[Replacement]
 
-    C --> E[Institutional design work]
+    C --> E[Institutional engineering]
     D --> E
 ```
 
-That does not make revolutionary change meaningless.
+Revolution does not eliminate the point-change work.
 
-It means **system replacement is not a substitute for institutional engineering**.
+It changes the conditions under which that work occurs.
 
 ---
 
-## 🪜 Lots Of Small Changes Can Be Structural
+## 🪜 Distributed Reform Can Still Be Structural
 
-A structural transformation does not have to arrive as one dramatic rupture.
-
-It can emerge from many point interventions that collectively alter what behaviour is rewarded.
+Lots of boring interventions can collectively alter what behaviour is rewarded.
 
 For example:
 
-* competition rules;
-* labour protections;
-* procurement standards;
-* tax structures;
-* supply-chain due diligence;
-* stronger anti-corruption controls;
-* revolving-door restrictions;
-* environmental liability;
-* better public capacity;
-* interoperability requirements;
-* resilience standards;
-* corporate-governance reform.
-
-Each can look dull in isolation.
-
-Together they can materially change the operating environment.
+- competition rules;
+- labour protections;
+- procurement reform;
+- corporate-governance reform;
+- tax;
+- due diligence;
+- anti-corruption rules;
+- environmental liability;
+- public capacity;
+- interoperability;
+- resilience standards.
 
 ```mermaid
 flowchart TD
@@ -671,109 +579,65 @@ That is structural change through distributed feedback.
 
 ---
 
-## 📉 Preventing The Next Crisis Is Less Exciting Than Surviving It
+## 📉 Financial Stability Is Part Of The Same Problem
 
-The same reforms that reduce exploitation can also improve stability.
+The same systems that externalise human harm can externalise financial risk.
 
-Systems with:
+High leverage, low redundancy, concentration and short-term optimisation may appear efficient until a shock arrives.
 
-* diversified suppliers;
-* less leverage;
-* better labour conditions;
-* less corruption;
-* stronger regulation;
-* better public capacity;
-* more realistic risk pricing;
+Mechanisms that moderate extraction can therefore also improve:
 
-are often better able to absorb shocks.
+- resilience;
+- shock absorption;
+- supply continuity;
+- institutional trust;
+- public fiscal stability.
 
-This matters because societies repeatedly spend enormous amounts rescuing systems after risks that were treated as inconvenient abstractions become real.
+Preventing a crisis is less visually impressive than surviving one.
 
-The cheapest crisis is often the one whose feedback mechanisms prevented it.
-
-That is difficult to celebrate because nothing spectacular happens.
-
-Which is rather the point.
-
----
-
-## 🪤 Do Not Confuse Efficiency With Extraction
-
-An efficient system should produce useful outcomes with acceptable resource use.
-
-That is not identical to:
-
-> *extract the maximum possible private return from every available relationship.*
-
-A system can be highly extractive and extremely fragile.
-
-It can appear successful because the fragility has not yet been tested.
-
-This suggests a more serious definition of efficiency:
-
-```text
-useful output
-+
-resilience
-+
-human sustainability
-+
-strategic survivability
--
-externalised harm
-```
-
-The exact weights are political choices.
-
-Pretending there are no weights is also a political choice.
+That is usually a feature.
 
 ---
 
 ## 🧠 The System's Tolerated Imagination
 
-There is a deeper cultural problem beneath economic design.
+Economic systems do more than organise transactions.
 
-A system does not only organise transactions.
+They also shape what participants understand as:
 
-It helps organise what participants understand as:
+- realistic;
+- ambitious;
+- radical;
+- irresponsible;
+- innovative;
+- threatening.
 
-* realistic;
-* ambitious;
-* irresponsible;
-* innovative;
-* radical;
-* threatening.
+A billionaire reorganising markets can be celebrated as revolutionary.
 
-That means relatively modest departures from profit maximisation can feel more destabilising than highly disruptive behaviour conducted in pursuit of profit.
+A proposal that companies accept slightly lower returns to avoid severe exploitation can be treated as dangerously radical.
 
-A billionaire reorganising an industry can be celebrated as a revolutionary.
+That asymmetry is analytically interesting.
 
-A proposal that firms accept slightly lower returns to avoid severe human exploitation can be described as economically dangerous.
-
-That asymmetry is worth noticing.
-
-It suggests that economic systems constrain not only behaviour.
-
-They can constrain **the imagination of acceptable behaviour**.
+It suggests that systems constrain not only behaviour but **the imagination of acceptable behaviour**.
 
 ---
 
-## 🌀 Disruption Within The Allowed Range
+## 🌀 Bounded Disruption
 
-This creates the distinction between:
+There is a distinction between:
 
-**innovation within the system**
+**innovation inside the operating logic**
 
 and
 
-**disruption of the system's governing assumptions**.
+**disruption of the operating logic itself**.
 
 ```mermaid
 flowchart TD
     A[Existing economic logic]
 
     A --> B[New product]
-    A --> C[New company]
+    A --> C[New firm]
     A --> D[New market]
     A --> E[New technology]
 
@@ -782,44 +646,56 @@ flowchart TD
     D --> F
     E --> F
 
-    F --> G[Underlying allocation of power remains recognisable]
+    F --> G[Underlying power relations remain recognisable]
 ```
 
-A person can therefore be genuinely innovative and still remain entirely within the system's tolerated imagination.
+That does not make the innovation fake.
 
-That is not an insult.
+It means “revolutionary” is often being used to mean:
 
-It is a classification.
+> **extreme novelty within the tolerated imagination of the system.**
+
+This is the bridge toward the separate Fisher/capitalist-realism work.
 
 ---
 
-## ♻️ Corrective Systems Need To Be Able To Irritate Power
+## 🧠 Desire And The Limits Of Post-System Imagination
 
-A feedback mechanism that activates only when it does not materially inconvenience powerful actors is not much of a feedback mechanism.
+The deeper Fisher question should be developed elsewhere rather than swallowed by this node:
 
-Useful correction will sometimes:
+> **If an economic system helps organise desire itself, how easily can people imagine what they would want outside its assumptions?**
 
-* reduce profits;
-* constrain discretion;
-* force diversification;
-* redistribute resources;
-* require disclosure;
-* increase redundancy;
-* change ownership;
-* create liability;
-* make previously cheap behaviour more expensive.
+That matters because a reform can feel existentially threatening not because it destroys material life, but because it disrupts categories through which people understand:
 
-That discomfort is not proof that the intervention is excessive.
+- success;
+- security;
+- ambition;
+- ownership;
+- status;
+- rationality.
 
-Sometimes it is evidence that the signal has finally reached the decision point.
+That later node can develop **bounded disruption**, capitalist realism and the way supposedly revolutionary business culture may remain deeply system-conforming.
+
+---
+
+## ⚠️ Failure Modes Of Deincentivisation
+
+Long-term behavioural strategy can fail through:
+
+- **cost displacement** — vulnerable people absorb the intervention;
+- **symbolic substitution** — one visible actor is changed while underlying incentives persist;
+- **no viable alternative** — the harmful option remains structurally easiest;
+- **weak transmission** — criticism never becomes a cost at the decision point;
+- **regulatory capture** — corrective institutions become aligned with those they constrain;
+- **path dependence** — delay makes future change more expensive;
+- **permanent punishment** — interventions lose defined behavioural off-ramps;
+- **single-channel dependence** — one boycott, sanction or regulation is expected to carry the whole correction;
+- **false necessity** — existing adaptation is described as structural impossibility;
+- **short-term optimisation** — marginal returns are preserved at the expense of larger future instability.
 
 ---
 
 ## 🌱 Long-Term Deincentivisation
-
-A mature strategy therefore does not wait for each new scandal and then improvise punishment.
-
-It builds standing mechanisms through which harmful behaviour reliably generates increasing friction.
 
 ```mermaid
 flowchart TD
@@ -834,92 +710,84 @@ flowchart TD
     F --> D
 
     E -->|No| G[Behaviour changes]
+    G --> H[Pressure can reduce / system rebalances]
 ```
 
 The objective is not permanent escalation.
 
-It is to create a system in which escalation becomes unnecessary because predictable consequences already exist.
+It is to build a system where predictable correction makes escalation increasingly unnecessary.
 
 ---
 
 ## 🎯 The Strategic Goal
 
-The long-term goal is not:
+Not:
 
 > *make bad companies suffer.*
 
-It is:
+But:
 
 > **make harmful conduct a worse strategy.**
 
-That requires changing more than reputation.
+That means working on:
 
-It means working on:
-
-**prices.
-contracts.
-insurance.
-finance.
-procurement.
-governance.
-labour power.
-regulation.
-supply chains.
-replacement capacity.
+**prices.  
+contracts.  
+insurance.  
+finance.  
+procurement.  
+governance.  
+labour power.  
+regulation.  
+supply chains.  
+replacement capacity.  
 risk.**
-
-When those structures align, ethical behaviour becomes easier to choose because the system stops rewarding the alternative quite so aggressively.
 
 ---
 
 ## 🧮 A Useful Test
 
-For any proposed intervention, ask:
-
-1. What behaviour is producing the harm?
-2. Who makes the relevant decision?
-3. Who currently benefits?
-4. Who currently bears the cost?
+1. What behaviour produces the harm?
+2. Who makes the decision?
+3. Who benefits?
+4. Who bears the cost?
 5. Why does continuing remain rational?
-6. What feedback could reach the decision-maker?
-7. Can the harm be incorporated into procurement, financing, insurance or regulatory cost?
+6. What feedback can reach the decision-maker?
+7. What rules determine whether the feedback is institutionally usable?
 8. What alternative behaviour exists?
-9. What would make that alternative easier?
-10. What collateral effects would the intervention produce?
-11. What should happen if behaviour changes?
-12. Can the system still reproduce the same harm through another route?
+9. What would make the alternative easier?
+10. Who bears the intervention's collateral cost?
+11. What changed behaviour should reduce the pressure?
+12. Can the system reproduce the same harm through another route?
+13. Are we defending genuine necessity or accumulated habituation?
+14. If starting from scratch, would we build the same dependency?
 
-If number twelve is yes, keep going.
+If twelve is yes, keep going.
 
 ---
 
 ## 🏛️ Reform Is Stability Work
 
-There is a tendency to frame regulation and redistribution as limitations imposed on a functioning economy.
+Regulation and countervailing institutions are often described as restrictions on a functioning economy.
 
-A different interpretation is possible.
+They can also be understood as maintenance.
 
-They can be **maintenance systems**.
+Dynamic systems generate:
 
-Markets, firms and financial systems are dynamic.
+- innovation;
+- concentration;
+- bubbles;
+- rents;
+- dependencies;
+- externalities.
 
-They produce innovation.
+Feedback keeps dynamism from consuming its own substrate.
 
-They also produce concentration, externalities, bubbles, rent extraction and dependencies.
-
-Countervailing institutions are not necessarily hostile to that dynamism.
-
-They are part of what keeps the dynamism from eating the substrate on which it depends.
-
-In that sense:
-
-> **regulation is not always the opposite of markets. Sometimes it is what allows markets to remain politically and materially survivable.**
+> **Regulation is not always the opposite of markets. Sometimes it is part of what makes markets survivable.**
 
 ---
 
 ## 💥 Cutting Off The Nose To Save The Face
-
-Systems sometimes preserve a short-term distribution of advantage by increasing their own long-term vulnerability.
 
 ```mermaid
 flowchart LR
@@ -930,65 +798,50 @@ flowchart LR
     --> E[Much greater social cost]
 ```
 
-This is one of the stranger recurring features of political economy.
+Societies repeatedly spend enormous resources preserving arrangements because changing them would cost powerful actors money now.
 
-Societies can spend extraordinary resources defending arrangements whose principal advantage is that changing them would cost somebody powerful money now.
-
-Then everybody pays considerably more later.
-
-A surprisingly large amount of systemic reform can therefore be summarised as:
-
-> **please stop cutting off the nose to save the face.**
+Then everybody pays more later.
 
 ---
 
 ## 💸 Maybe The Men Cannot Make All The Money For Ten Minutes
 
-There is a less formal formulation.
+Many of the reforms discussed here do not require abolishing commerce or prohibiting profit.
 
-Many interventions discussed in this node do not require:
+Sometimes they require an actor who could extract **100** to accept **93** because the additional **7** produces severe costs borne by somebody with much less power.
 
-* abolishing commerce;
-* ending private ownership;
-* prohibiting profit;
-* destroying markets;
-* making everyone materially equal.
+That should be inside the imaginable range of a functioning economy.
 
-Sometimes they require an actor who could extract **100** to accept **93** because extracting the additional **7** produces costs borne by somebody with much less power.
-
-That should be within the imaginable range of a functioning society.
-
-If it is not, the problem may be larger than the proposed regulation.
+If it is not, the problem is probably not the proposed regulation.
 
 ---
 
 ## 🌌 Constellations
 
-💸 ♻️ 🧬 🪤 🪜 — externalised harm; economic feedback; recursive concentration; resilience; distributed reform; long-term behavioural change.
+💸 ♻️ 🧬 🪤 🧠 — externalities; economic feedback; recursive concentration; habituated dependency; bounded disruption; long-term reform.
 
 ## ✨ Stardust
 
-political economy, economic incentives, externalities, behavioural change, negative feedback, regulation, procurement, resilience, corporate governance, supply chains, reform
+political economy, economic incentives, externalities, negative feedback, regulation, procurement, resilience, corporate governance, supply chains, path dependence, bounded disruption
 
 ---
 
 ## 🏮 Footer
 
-*💸 Making Harm Too Expensive To Continue* is a living node of the **Polaris Protocol**.
-It develops a long-strategy framework for converting externalised human, environmental and systemic harm into consequential feedback, so that harmful conduct becomes progressively less attractive rather than remaining profitable because somebody else carries the cost.
+*💸 Making Harm Too Expensive To Continue* is a living node of the **Polaris Protocol**.  
+It develops a long-strategy framework for converting externalised human, environmental and systemic harm into consequential feedback, while distinguishing genuine dependency from institutional habituation and treating reform as both behavioural intervention and stability infrastructure.
 
 > 📡 Cross-references:
 >
-> * [💸 Business Is Tooling](./) — *commercial systems, corporate behaviour and the use of business architecture as a governance tool*
-> * [💸 Incentivising Behavioural Change and BDS](../../🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/💸_incentivising_behavioural_change_and_bds.md) — *applied case work on target selection, substitutability, procurement horizons and behavioural leverage*
-> * [🌀 Absorption and Selective Sacrifice](../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🌀_absorption_and_selective_sacrifice.md) — *how corrective signals can be visibly processed without changing the structures reproducing the original harm*
+> - [💸 Incentivising Behavioural Change and BDS](../../🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/💸_incentivising_behavioural_change_and_bds.md) — *applied case work on leverage, substitutability, target salience and campaign horizons*
+> - [🌀 Absorption and Selective Sacrifice](../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🌀_absorption_and_selective_sacrifice.md) — *how corrective signals can be processed without reaching the structures reproducing the original harm*
 >
 > 🏮 Return To:
 >
-> * [💸 Business Is Tooling](./) — *1up*
-> * [🌕 Long Strategies](../) — *2up*
-> * [🌌 Polaris Protocol - Root](../../README.md) — *root*
+> - [💸 Business Is Tooling](./) — *1up*
+> - [🌕 Long Strategies](../) — *2up*
+> - [🌌 Polaris Protocol - Root](../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-23*
+_Last updated: 2026-08-23_
