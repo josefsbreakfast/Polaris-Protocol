@@ -1,5 +1,5 @@
 # ⚖️ The Architecture of Complicity
-**First created:** 2025-11-07 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-07 | **Last updated:** 2026-08-24  
 *How accountability can flow downward when sponsorship ownership is structurally fragmented.*
 
 ---
@@ -268,6 +268,7 @@ It examines how jurisdictional design and ownership fragmentation can shape wher
 > - [👑 Soft Power Accountability Gap](./👑_soft_power_accountability_gap.md) — *accountability where influence exceeds formal control*
 > - [👑 Asserting Sovereignty After Allied Interference](./👑_asserting_sovereignty_after_allied_interference.md) — *custody and accountability across allied relationships*
 > - [🧬 Distributed Complicity in Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md) — *distributed participation and responsibility in contemporary conflict*
+> - [🐴 The Legality of Gift Horses](./🐴_the_legality_of_gift_horses.md)  
 >
 > 🏮 Return To:
 >
@@ -279,4 +280,4 @@ It examines how jurisdictional design and ownership fragmentation can shape wher
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-08-24_
