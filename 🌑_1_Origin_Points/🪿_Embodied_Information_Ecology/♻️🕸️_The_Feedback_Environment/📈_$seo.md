@@ -1,10 +1,10 @@
-# 📈 $SEO
-
+# 📈 $SEO  
 **First created:** 2026-08-14 | **Last updated:** 2026-08-24  
 *How interventions in information systems can leak into markets, and
 market behaviour can leak back into information systems.*
 
 ---
+
 ## 🛰️ Orientation
 
 Search systems and markets are usually analysed as separate
@@ -32,6 +32,7 @@ useful question is:
 The answer is often a feedback loop.
 
 ---
+
 ## 🧿 The Basic Coupling
 
 A simplified route from information systems into markets can look like:
@@ -53,6 +54,7 @@ But once systems are coupled, an intervention does not have to remain
 inside the domain in which it began.
 
 ---
+
 ## 🕸️ SEO → Markets
 
 A sufficiently large change in search visibility can matter economically
@@ -81,6 +83,7 @@ The stronger the claimed market consequence, the more intermediate edges
 must be demonstrated.
 
 ---
+
 ## 📈 Markets → SEO
 
 The reverse direction can be easier to overlook.
@@ -112,6 +115,7 @@ The important distinction is:
 > become an information-generating event.**
 
 ---
+
 ## 🔖 Semantic Collision As A Transmission Channel
 
 The coupling becomes especially interesting when one token identifies
@@ -154,6 +158,7 @@ the ticker, semantic collision becomes a possible transmission channel
 between financial and information systems.
 
 ---
+
 ## 🧮 Suppression Can Create Instrumentation
 
 One of the more counter-intuitive failure modes of information control
@@ -190,6 +195,7 @@ They may start preserving:
 A transient anomaly can thereby create a durable observational practice.
 
 ---
+
 ## 🌀 Path-Of-Least-Resistance Substitution
 
 Actors do not necessarily respond to a stimulus in the domain where the
@@ -224,6 +230,7 @@ This is one reason cybernetic analysis should distinguish **intent**,
 **observable output**.
 
 ---
+
 ## 🔄 Feedback
 
 Once the two directions are combined, a loop becomes possible:
@@ -247,6 +254,7 @@ Each participant may simply react to the local state visible to them.
 That is precisely why emergent effects can be difficult to attribute.
 
 ---
+
 ## ⚖️ Causation Is Not Correlation
 
 This model is useful only if it resists turning coincidence into
@@ -284,6 +292,7 @@ Useful evidence may include:
 - evidence that the proposed intermediate mechanism actually occurred.
 
 ---
+
 ## 🛠️ Diagnostic Questions
 
 When information and market systems appear to interact, ask:
@@ -325,6 +334,7 @@ When information and market systems appear to interact, ask:
     happen constantly.
 
 ---
+
 ## 🧊 A Deliberately Ridiculous Teaching Case
 
 Imagine that a word simultaneously describes:
@@ -357,6 +367,7 @@ tomorrow's control observation.
 > **Complex systems are bastards. Keep the baseline.**
 
 ---
+
 ### 📊 An observation window: YETI Holdings
 
 The teaching case became useful enough to preserve a real market
@@ -422,6 +433,7 @@ contemporaneous observation rather than a threshold selected
 retrospectively to fit the later movement.
 
 ---
+
 ## 🧿 Governance Implication
 
 Interventions should be evaluated not only by whether they can alter the
@@ -446,6 +458,7 @@ An actor may begin by attempting to reduce information.
 It may end by creating observers who know exactly where to look.
 
 ---
+
 ## 🎛️ Control Surfaces: Effectiveness, Traceability And Distance
 
 The existence of a technically conceivable pathway does not make it a
@@ -504,6 +517,7 @@ and consumers.
 system.**
 
 ---
+
 ## 🧮 The Control-Surface Trade-Off
 
 For defensive analysis, an intervention can be considered across
@@ -529,6 +543,7 @@ and replace it with:
 actors → observable outputs → evidence.**
 
 ---
+
 ## 🪼 Economic Information Operations As A Defence Problem
 
 The same difficulty that makes indirect economic influence unreliable
@@ -567,6 +582,7 @@ architecture of the system rather than from a perfectly untraceable
 technical weapon.**
 
 ---
+
 ## 🦴 Spongy-Bone Defence
 
 A resilient defence model should be able to respond to **stress before
@@ -602,6 +618,7 @@ transmitting that stress, and low confidence about the initiating actor.
 Those confidence levels should not be collapsed into one binary switch.
 
 ---
+
 ## ⚖️ Attribution Is Not Permission To Defend
 
 Two symmetrical errors should be avoided.
@@ -632,6 +649,7 @@ correspondingly stronger attribution.
 > resilient.**
 
 ---
+
 ## 🌊 Small Inputs, Large Endogenous Effects
 
 Indirect influence becomes strategically interesting where a system
@@ -657,6 +675,7 @@ That question belongs in economic security as much as in conventional
 cyber defence.
 
 ---
+
 ## 🛰️ Information Infrastructure Is Economic Infrastructure
 
 Cyber-defence doctrine has an obvious relationship with banks, payment
@@ -682,6 +701,7 @@ webpage, platform, company or trade.
 It is the **pathway through which pressure propagates**.
 
 ---
+
 ## 🛡️ Defence Questions
 
 For cyber and economic-security analysis, add:
@@ -720,6 +740,7 @@ No individual observer necessarily sees the whole chain.
 information fusion produces omniscience.**
 
 ---
+
 ## 🏦 High-Connectivity Actors And Automated Risk Propagation
 
 Large downstream effects do not necessarily imply proportionately large
@@ -809,6 +830,7 @@ generate broad synchronised-looking effects without requiring broad
 synchronised intent.
 
 ---
+
 ## 🧿 Risk Criteria As An Alternative Hypothesis
 
 Whenever an economic response appears unusually large, the defensive
@@ -842,6 +864,7 @@ records.
 The visible outcome alone cannot distinguish them.
 
 ---
+
 ## 🕸️ Connectivity Can Matter More Than Power
 
 This produces a broader cybernetic principle.
@@ -883,6 +906,7 @@ It is the same spongy-bone problem at a different scale: find the load
 path before deciding who applied the force.
 
 ---
+
 ## 🧬 Semantic Lineage, Entity Resolution And Self-Reinforcing Error
 
 A highly connected automated system cannot be governed responsibly if it
@@ -923,6 +947,7 @@ It is a **lineage and propagation** question.
 > resolved. Then show me every downstream system that inherited it.**
 
 ---
+
 ## 🕸️ When Automation Amplifies A Small Semantic Error
 
 In a highly connected institution, a very small upstream error can
@@ -966,6 +991,7 @@ This is a provenance problem, a model-governance problem and a
 cybernetic feedback problem at the same time.
 
 ---
+
 ## 🔬 Amplification Increases The Governance Obligation
 
 Automation is not a defence against responsibility.
@@ -1001,6 +1027,7 @@ The scale of possible downstream consequence changes the standard of
 governance required upstream.
 
 ---
+
 ## 🧿 "Automation Did It" Is Not An Adequate Endpoint
 
 There is an important temporal distinction.
@@ -1031,6 +1058,7 @@ association whose meaning changed somewhere upstream, or whose identity
 was never resolved correctly in the first place.
 
 ---
+
 ## 🧭 Product Coupling And Hidden Dependencies
 
 The relevant risk may not originate inside the institution itself.
@@ -1064,6 +1092,7 @@ A product can become operationally consequential long before senior
 decision-makers understand its semantic assumptions.
 
 ---
+
 ## 🛠️ Audit Questions For High-Amplification Systems
 
 When an automated classification appears capable of producing broad
@@ -1099,8 +1128,11 @@ That distinction can determine whether a risk system is detecting
 reality or recursively observing itself.
 
 ---
+
 ## 🌌 Constellations  
 📈 🕸️ 🧮 🔖 🌀 — information-market coupling; semantic collision; feedback loops; anomaly detection; distributed instrumentation.
+
+---
 
 ## ✨ Stardust
 
@@ -1109,6 +1141,7 @@ collision, seo, feedback loops, anomaly detection, instrumentation,
 causation
 
 ---
+
 ## 🏮 Footer
 
 *📈 $SEO* is a living node of the **Polaris Protocol**.
@@ -1119,12 +1152,9 @@ the distinction between observation, inference and attribution.
 
 > 📡 Cross-references:
 >
-> -   [🕸️ Information Ecosystems](../) — *wider routing context for
->     attention, amplification and information behaviour*
-> -   [🧭 How To Read The System](../) — *mechanism-first analysis and
->     evidentiary separation*
-> -   [🧱 Dependency As Attack Surface](../) — *how shared
->     infrastructure can transmit effects without requiring a single  controlling actor*
+> -   [🕸️ Information Ecosystems](../) — *wider routing context for attention, amplification and information behaviour*
+> -   [🧭 How To Read The System](../) — *mechanism-first analysis and evidentiary separation*
+> -   [🧱 Dependency As Attack Surface](../) — *how shared infrastructure can transmit effects without requiring a single controlling actor*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
