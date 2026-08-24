@@ -1,5 +1,5 @@
 # 👑 Soft Power Accountability Gap  
-**First created:** 2025-11-02 | **Last updated:** 2026-08-16  
+**First created:** 2025-11-02 | **Last updated:** 2026-08-24  
 *Influence without custodial consequence in Britain’s constitutional architecture.*
 
 ---
@@ -269,7 +269,8 @@ It examines how symbolic influence operates within constitutional design — and
 > - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md)  
 > - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md)  
 > - [👑 Asserting Sovereignty After Allied Interference](./👑_asserting_sovereignty_after_allied_interference.md)  
-> - [🧬 Distributed Complicity in Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md)  
+> - [🧬 Distributed Complicity in Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md)
+> - [🐴 The Legality of Gift Horses](./🐴_the_legality_of_gift_horses.md)  
 >  
 > 🏮 Return To:
 >
@@ -282,4 +283,4 @@ It examines how symbolic influence operates within constitutional design — and
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-24_
