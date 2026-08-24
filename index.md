@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-24 16:04:08 UTC_
+_Generated on 2026-08-24 16:06:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5063,6 +5063,7 @@ _Generated on 2026-08-24 16:04:08 UTC_
         - [**Big_Picture_Protocols/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/)
           - [**🌀_System_Governance/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
             - [**💫_Containment_Logic/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
+              - [`_risk_vector_inversions_in_authoritarian_systems.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/_risk_vector_inversions_in_authoritarian_systems.md.txt)
               - [`❌_no_safe_exit.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❌_no_safe_exit.md)
               - [`🏚️_seven_layers_of_safeguard_breakdown.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)
               - [`📜_when_containment_becomes_identity.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📜_when_containment_becomes_identity.md)
@@ -9641,6 +9642,9 @@ _Generated on 2026-08-24 16:04:08 UTC_
         - [`🪞_i_know_why_youre_all_so_invested_now.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🪞_i_know_why_youre_all_so_invested_now.md)
         - [`🪻_take_me_home.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🪻_take_me_home.md)
         - [`🫁_i_cannot_expand.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🫁_i_cannot_expand.md)
+      - [**🌸_Containment_Studies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/)
+        - [**🌱_Foundations_Of_Containment/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/)
+          - [`Notes.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/Notes.txt)
       - [**🏮_Admin_Kit/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/)
         - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/README.md)
         - [`🌌_constellation_tracker.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🌌_constellation_tracker.md)
