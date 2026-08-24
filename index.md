@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-24 15:10:21 UTC_
+_Generated on 2026-08-24 15:39:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -713,7 +713,6 @@ _Generated on 2026-08-24 15:10:21 UTC_
         - [`🧩_institutional_defence_playbook_data_exhaust.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_institutional_defence_playbook_data_exhaust.md)
         - [`🧩_lepore_continuum.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_lepore_continuum.md)
         - [`🧩_perpetrator_competence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_perpetrator_competence.md)
-        - [`🧩_risk_vector_inversions_in_authoritarian_systems.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_risk_vector_inversions_in_authoritarian_systems.md)
         - [`🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md)
         - [`🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md)
         - [`🧬_harm_without_perpetrators_the_architecture_failure_model.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧬_harm_without_perpetrators_the_architecture_failure_model.md)
