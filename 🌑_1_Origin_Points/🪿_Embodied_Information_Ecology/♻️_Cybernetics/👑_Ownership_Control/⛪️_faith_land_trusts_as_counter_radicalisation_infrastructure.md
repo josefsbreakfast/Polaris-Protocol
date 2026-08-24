@@ -1,5 +1,5 @@
 # ⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure
-**First created:** 2025-10-08 | **Last updated:** 2026-08-14  
+**First created:** 2025-10-08 | **Last updated:** 2026-08-24  
 *When institutional use ends, who carries the building — and what story does continued stewardship tell?*
 
 ---
@@ -637,4 +637,4 @@ The node treats counter-radicalisation as a design hypothesis rather than an est
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-08-24_
