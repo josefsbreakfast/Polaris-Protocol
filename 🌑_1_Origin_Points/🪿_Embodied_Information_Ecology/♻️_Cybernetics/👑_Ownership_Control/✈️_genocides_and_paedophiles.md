@@ -126,7 +126,7 @@ flowchart TD
     D[Institution]
     E[External Partner]
     F[Other Jurisdiction]
-    G[Policy / Executive Layer]
+    G[Policy or Executive Layer]
     H[Integrated Accountability Question]
 
     A --> B
@@ -208,7 +208,7 @@ A recurring structural possibility is that accountability becomes concentrated a
 flowchart TD
     A[Distributed Harm or Enabling Environment]
     B[Multiple Possible Responsibility Layers]
-    C[Jurisdiction / Evidence / Mandate Filters]
+    C[Jurisdiction or Evidence or Mandate Filters]
     D[Most Legally Reachable Actors]
     E[Formal Accountability]
 
@@ -261,7 +261,7 @@ flowchart LR
     C[Regulator]
     D[Inquiry]
     E[Safeguarding]
-    F[International / Cross-Border Process]
+    F[International or Cross-Border Process]
     G[Integrated Picture]
 
     A --> G
@@ -370,7 +370,7 @@ the system may create its own attrition.
 ```text
 witness has information
 → repeated disclosure demands
-→ time / trauma / procedural burden
+→ time or trauma or procedural burden
 → reduced capacity to continue
 → less information available
 ```
@@ -606,11 +606,11 @@ A healthy accountability system learns.
 
 ```mermaid
 flowchart TD
-    A[Harm / Allegation]
+    A[Harm or Allegation]
     B[Evidence and Testimony]
     C[Investigation]
-    D[Finding / Decision]
-    E[Remedy / Sanction / Reform]
+    D[Finding or Decision]
+    E[Remedy or Sanction or Reform]
     F[Institutional Learning]
     G[Changed Governance]
     H[Future Harm Prevention]
