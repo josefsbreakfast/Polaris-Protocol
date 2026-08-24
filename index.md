@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-24 18:58:47 UTC_
+_Generated on 2026-08-24 19:01:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -636,7 +636,6 @@ _Generated on 2026-08-24 18:58:47 UTC_
         - [`🌀_surveillance_as_self_fulfilling_cycle.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_surveillance_as_self_fulfilling_cycle.md)
         - [`🌀_systemic_coercion_in_federated_governance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_systemic_coercion_in_federated_governance.md)
         - [`🌀_when_system_behaviour_stops_making_sense.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌀_when_system_behaviour_stops_making_sense.md)
-        - [`🌌_institutional_pattern_recognition.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🌌_institutional_pattern_recognition.md)
         - [`🎩_organisational_civility_as_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🎩_organisational_civility_as_containment.md)
         - [`🏚️_cultural_drift_toward_coercive_logic.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🏚️_cultural_drift_toward_coercive_logic.md)
         - [`🏛️_institutional_posture_collapse.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🏛️_institutional_posture_collapse.md)
@@ -5075,6 +5074,7 @@ _Generated on 2026-08-24 18:58:47 UTC_
             - [**💫_Containment_Logic/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
               - [`_risk_vector_inversions_in_authoritarian_systems.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/_risk_vector_inversions_in_authoritarian_systems.md.txt)
               - [`❌_no_safe_exit.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❌_no_safe_exit.md)
+              - [`🌌_institutional_pattern_recognition.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌌_institutional_pattern_recognition.md)
               - [`🏚️_seven_layers_of_safeguard_breakdown.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)
               - [`📜_when_containment_becomes_identity.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📜_when_containment_becomes_identity.md)
               - [`🧀_swiss_cheese_multi_agency_failure.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧀_swiss_cheese_multi_agency_failure.md)
