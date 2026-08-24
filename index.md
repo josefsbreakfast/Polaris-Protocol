@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-24 16:54:43 UTC_
+_Generated on 2026-08-24 17:01:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2394,6 +2394,12 @@ _Generated on 2026-08-24 16:54:43 UTC_
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/.🌱_Still_Growing/notes.txt)
       - [**🕰️_Chronos_Or_Kairos/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/)
+        - [**⚓️_Temporal_Orientation/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/⚓️_Temporal_Orientation/)
+          - [**⏰_Time_Warfare/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/⚓️_Temporal_Orientation/⏰_Time_Warfare/)
+            - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/⚓️_Temporal_Orientation/⏰_Time_Warfare/README.md)
+          - [**🐇_White_Rabbit_Handling/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/⚓️_Temporal_Orientation/🐇_White_Rabbit_Handling/)
+            - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/⚓️_Temporal_Orientation/🐇_White_Rabbit_Handling/README.md)
+          - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/⚓️_Temporal_Orientation/README.md)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/README.md)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/notes.txt)
         - [`⏳_chronos_as_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/⏳_chronos_as_containment.md)
