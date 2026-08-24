@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-24 16:06:39 UTC_
+_Generated on 2026-08-24 16:08:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -9645,6 +9645,29 @@ _Generated on 2026-08-24 16:06:39 UTC_
       - [**🌸_Containment_Studies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/)
         - [**🌱_Foundations_Of_Containment/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/)
           - [`Notes.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/Notes.txt)
+          - [`_boundary_and_membrane.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_boundary_and_membrane.md.txt)
+          - [`_containment_and_identity.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_containment_and_identity.md.txt)
+          - [`_containment_and_legitimacy.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_containment_and_legitimacy.md.txt)
+          - [`_containment_and_sacrifice_zones.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_containment_and_sacrifice_zones.md.txt)
+          - [`_containment_and_scale.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_containment_and_scale.md.txt)
+          - [`_containment_and_time.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_containment_and_time.md.txt)
+          - [`_containment_and_visibility.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_containment_and_visibility.md.txt)
+          - [`_containment_as_survival_reflex.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_containment_as_survival_reflex.md.txt)
+          - [`_containment_failure_modes.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_containment_failure_modes.md.txt)
+          - [`_governability_and_complexity.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_governability_and_complexity.md.txt)
+          - [`_internalised_containment.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_internalised_containment.md.txt)
+          - [`_legibility_and_management.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_legibility_and_management.md.txt)
+          - [`_legibility_and_recognition.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_legibility_and_recognition.md.txt)
+          - [`_pressure_distribution.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_pressure_distribution.md.txt)
+          - [`_protective_vs_coercive_containment.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_protective_vs_coercive_containment.md.txt)
+          - [`_recursive_containment.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_recursive_containment.md.txt)
+          - [`_shape_of_power.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_shape_of_power.md.txt)
+          - [`_source_and_legitimacy.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_source_and_legitimacy.md.txt)
+          - [`_stability_and_overflow.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_stability_and_overflow.md.txt)
+          - [`_symbolic_containment.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_symbolic_containment.md.txt)
+          - [`_temporary_measures_and_permanent_systems.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_temporary_measures_and_permanent_systems.md.txt)
+          - [`_what_is_containment.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_what_is_containment.md.txt)
+          - [`_why_systems_contain.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/_why_systems_contain.md.txt)
       - [**🏮_Admin_Kit/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/)
         - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/README.md)
         - [`🌌_constellation_tracker.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🌌_constellation_tracker.md)
