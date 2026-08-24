@@ -1,5 +1,5 @@
 # 🏛️ R.A.A.C. — Ruins and Architectural Committee
-**First created:** 2025-10-22 | **Last updated:** 2026-08-14  
+**First created:** 2025-10-22 | **Last updated:** 2026-08-24  
 *Minutes from the committee on collapse — and a custody-of-process autopsy.*
 
 ---
@@ -1114,7 +1114,7 @@ And its central administrative question remains:
 > 📡 Cross-references:
 >
 > - [✈️ Worker Positioning & Safety Culture](./✈️_worker_positioning_and_safety_culture.md) — *when the people closest to risk are not the people controlling intervention*
-> - [⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure](./⛪️_faith_land_trusts_as_counter-radicalisation_infrastructure.md) — *custodial transition and the built environment*
+> - [⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure](./⛪️_faith_land_trusts_as_counter_radicalisation_infrastructure.md) — *custodial transition and the built environment*
 > - [🕳️ The Pothole Problem](./🕳️_the_pothole_problem.md) — *visible maintenance as governance telemetry*
 > - [🌳 The Lads Are Not Pro-Countryside](./🌳_the_lads_are_not_pro_countryside.md) — *distributed custody across physical systems*
 > - [🎺 Echo Punk — The Acoustic Afterlife of Derelict Structures](../../🪄_Expression_Of_Norms/🎶_Banned_Broadcasts_Cooperative/🎺_echo_punk.md)
@@ -1129,4 +1129,4 @@ And its central administrative question remains:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-08-24_
