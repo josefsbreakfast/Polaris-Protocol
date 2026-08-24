@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-23 23:16:25 UTC_
+_Generated on 2026-08-24 00:01:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3890,6 +3890,8 @@ _Generated on 2026-08-23 23:16:25 UTC_
       - [`🛠️_what_mps_and_journalists_should_ask.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/🛠️_what_mps_and_journalists_should_ask.md)
       - [`🛰️_info_brokers_sans_states.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/🛰️_info_brokers_sans_states.md)
       - [`🧱_gov_email_is_not_a_bunker.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/🧱_gov_email_is_not_a_bunker.md)
+    - [**📰_Responsible_Reporting/**](🌓_3_In_The_Moment/📲_Press_Matters/📰_Responsible_Reporting/)
+      - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/📰_Responsible_Reporting/README.md)
     - [**🔊_Turn_The_Public_Up/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/)
       - [**🍿_Historical_Democratic_Actions/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/)
         - [**🌳_Freedom_Farming_Food/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/)
