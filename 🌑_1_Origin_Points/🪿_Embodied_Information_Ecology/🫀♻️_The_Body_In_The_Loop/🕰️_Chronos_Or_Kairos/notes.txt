@@ -1,9 +1,8 @@
 
 
-Yes. That naming is better.
-
 🕰️_Chronos_Or_Kairos/
-├── 🐇_Temporal_Orientation/
+├── 🕰️_Chronos_Or_Kairos/
+├── ⚓️_Temporal_Orientation/
 │   ├── README.md
 │   │
 │   ├── ⏰_Time_Warfare/
