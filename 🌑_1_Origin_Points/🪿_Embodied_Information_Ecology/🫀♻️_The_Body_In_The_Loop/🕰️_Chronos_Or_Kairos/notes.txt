@@ -1,0 +1,33 @@
+
+
+Yes. That naming is better.
+
+🕰️_Chronos_Or_Kairos/
+├── 🐇_Temporal_Orientation/
+│   ├── README.md
+│   │
+│   ├── ⏰_Time_Warfare/
+│   │   └── README.md
+│   │
+│   └── 🐇_White_Rabbit_Handling/
+│       └── README.md
+
+Particularly 🐇_White_Rabbit_Handling. Embodied Orientation was academically accurate but too passive and too narrow. White Rabbit Handling immediately introduces the problem we’ve discovered: something has presented itself as temporally significant; now what?
+
+It accommodates both internal regulation and epistemic judgement. Do I follow? Is this genuinely urgent? Is the rabbit informed, frightened, manipulated, or manipulating? Does pursuit reduce uncertainty or multiply it? Am I learning something about the environment, or merely synchronising myself with someone else’s alarm? At what point does investigation itself begin reorganising my temporal orientation?
+
+And opposite it, ⏰_Time_Warfare can remain comparatively hard-edged: actors deliberately manipulating rhythm, sequence, anticipation, deadlines, anniversaries, historical position, synchronisation and future expectation.
+
+So the parent becomes the neutral theoretical bridge:
+
+Temporal Orientation: how agents locate themselves relative to past, present, anticipated future and significant moments.
+
+Then the two children ask almost beautifully complementary questions:
+
+⏰ Time Warfare: What can someone do to your sense of time?
+
+🐇 White Rabbit Handling: What do you do when something starts fucking with the clock?
+
+And crucially, White Rabbit Handling doesn’t presuppose hostility. Sometimes the rabbit is right. That’s why simply teaching people to ignore anomalous temporal signals would be as maladaptive as teaching them to chase every one.
+
+That’s the balance problem.
