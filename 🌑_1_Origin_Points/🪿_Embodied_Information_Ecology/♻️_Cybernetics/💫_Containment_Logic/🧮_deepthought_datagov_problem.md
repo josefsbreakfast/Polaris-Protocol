@@ -320,7 +320,9 @@ It is the second machine’s relationship to the people living inside it.
 
 Earth is inhabited.
 
-Its residents do not understand that their lives form part of somebody else’s computational project.
+Its residents do not understand that their lives form part of somebody else’s computational project.  
+
+(Although, as the Briti-… *Vogons* remind them, they have had the requisite ability to appeal the process.)  
 
 Modern governance creates a related problem when:
 
