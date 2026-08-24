@@ -1,5 +1,5 @@
 # 👑 Asserting Sovereignty After Allied Interference
-**First created:** 2025-10-26 | **Last updated:** 2026-08-19  
+**First created:** 2025-10-26 | **Last updated:** 2026-08-24  
 *How a state can reassert lawful control when an ally's activity inside its jurisdiction exceeds authorised cooperation, breaches domestic law, or harms people under its protection.*
 
 ---
@@ -395,9 +395,12 @@ Within **👑 Ownership Control**, it treats sovereignty as both a legal status 
 
 > 📡 Cross-references:
 >
-> - [👑 Ownership Control](./) — *ownership, access, dependency, accountability, and the practical capacity to revoke control*
-> - [♻️ Cybernetics](../) — *control, feedback, system boundaries, and the mechanisms through which authority becomes operational*
-> - [🪿 Embodied Information Ecology](../../) — *the wider ecology connecting information systems, institutional power, access, and material consequence*
+> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *operational insulation and the structures that can sustain it*
+> - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *shared exposure and distributed incentives against disclosure*
+> - [👑 Soft Power Accountability Gap](./👑_soft_power_accountability_gap.md) — *accountability where influence exceeds formal control*
+> - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md)  
+> - [🧬 Distributed Complicity in Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md) — *distributed participation and responsibility in contemporary conflict*
+> - [🐴 The Legality of Gift Horses](./🐴_the_legality_of_gift_horses.md)  
 >
 > 🏮 Return To:
 >
@@ -409,4 +412,4 @@ Within **👑 Ownership Control**, it treats sovereignty as both a legal status 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-19_
+_Last updated: 2026-08-24_
