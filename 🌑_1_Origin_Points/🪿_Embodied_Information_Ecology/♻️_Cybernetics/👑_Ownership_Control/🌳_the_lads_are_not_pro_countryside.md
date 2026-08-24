@@ -1,5 +1,5 @@
 # 🌳 The Lads Are Not Pro-Countryside
-**First created:** 2025-10-08 | **Last updated:** 2026-08-14  
+**First created:** 2025-10-08 | **Last updated:** 2026-08-24  
 *Loving the picture is not the same thing as maintaining the landscape.*
 
 ---
@@ -800,6 +800,7 @@ And its governing question is:
 > - [🏛️ R.A.A.C. — Ruins and Architectural Committee](./🏛️_raac_ruins_squad.md) — *maintenance custody and physical systems*
 > - [⛪️ Faith Land Trusts as Counter-Radicalisation Infrastructure](./⛪️_faith_land_trusts_as_counter-radicalisation_infrastructure.md) — *custodianship and community-scale ownership*
 > - [🕳️ The Pothole Problem](./🕳️_the_pothole_problem.md) — *maintenance as governance telemetry*
+> - [🌳 Freedom Farming Food](../../../../🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/README.md)  
 >
 > 🏮 Return To:
 >
@@ -811,4 +812,4 @@ And its governing question is:
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-08-24_
