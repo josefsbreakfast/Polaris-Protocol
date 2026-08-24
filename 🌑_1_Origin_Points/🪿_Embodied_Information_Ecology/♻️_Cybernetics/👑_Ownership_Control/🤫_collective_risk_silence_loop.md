@@ -1,5 +1,5 @@
 # 🤫 Collective Risk Silence Loop  
-**First created:** 2025-11-12 | **Last updated:** 2026-08-16  
+**First created:** 2025-11-12 | **Last updated:** 2026-08-24  
 *How shared exposure and fragmented ownership produce sector-wide silence without coordination.*
 
 ---
@@ -301,11 +301,12 @@ It describes how sector-wide silence stabilises when exposure is shared but cons
 
 > 📡 Cross-references:
 > 
-> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — practical impunity produced by fragmented consequence.  
-> - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md) — how participation accumulates across limited roles.  
-> - [👑 Soft Power Accountability Gap](./👑_soft_power_accountability_gap.md) — influence that exceeds its attached accountability.  
-> - [👑 Asserting Sovereignty After Allied Interference](./👑_asserting_sovereignty_after_allied_interference.md) — restoring decision authority across friendly-state entanglement.  
-> - [🧬 Distributed Complicity in Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md) — responsibility and knowledge distributed through operational chains.  
+> - [🛡️ Constructed Immunity](./🛡️_constructed_immunity.md) — *practical impunity produced by fragmented consequence*  
+> - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md) — *how participation accumulates across limited roles*  
+> - [👑 Soft Power Accountability Gap](./👑_soft_power_accountability_gap.md) — *influence that exceeds its attached accountability*  
+> - [👑 Asserting Sovereignty After Allied Interference](./👑_asserting_sovereignty_after_allied_interference.md) — *restoring decision authority across friendly-state entanglement*  
+> - [🧬 Distributed Complicity in Modern Warfare](./🧬_distributed_complicity_in_modern_warfare.md) — *responsibility and knowledge distributed through operational chains*  
+> - [🐴 The Legality of Gift Horses](./🐴_the_legality_of_gift_horses.md)  
 >  
 > 🏮 Return To:
 >
@@ -318,4 +319,4 @@ It describes how sector-wide silence stabilises when exposure is shared but cons
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-16_
+_Last updated: 2026-08-24_
