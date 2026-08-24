@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-24 17:09:29 UTC_
+_Generated on 2026-08-24 17:11:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3899,6 +3899,7 @@ _Generated on 2026-08-24 17:09:29 UTC_
       - [**🕯️_Rising_Black_Deaths_In_Public/**](🌓_3_In_The_Moment/📲_Press_Matters/📰_Responsible_Reporting/🕯️_Rising_Black_Deaths_In_Public/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/📰_Responsible_Reporting/🕯️_Rising_Black_Deaths_In_Public/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/📰_Responsible_Reporting/🕯️_Rising_Black_Deaths_In_Public/notes.txt)
+        - [`⚪️_why_is_a_white_lady_writing_this.md`](🌓_3_In_The_Moment/📲_Press_Matters/📰_Responsible_Reporting/🕯️_Rising_Black_Deaths_In_Public/⚪️_why_is_a_white_lady_writing_this.md)
         - [`📊_set_case_study_evidence_register_2010_to_2026_V1.2.xlsx`](🌓_3_In_The_Moment/📲_Press_Matters/📰_Responsible_Reporting/🕯️_Rising_Black_Deaths_In_Public/📊_set_case_study_evidence_register_2010_to_2026_V1.2.xlsx)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/📰_Responsible_Reporting/README.md)
     - [**🔊_Turn_The_Public_Up/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/)
