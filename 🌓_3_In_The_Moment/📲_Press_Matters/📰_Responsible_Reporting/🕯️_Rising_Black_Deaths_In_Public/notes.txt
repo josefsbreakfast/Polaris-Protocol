@@ -1,0 +1,18 @@
+this is complex in its literature and associated knowledge gaps; please use expertise wherever possible and treat specialist labour with the respect it deserves.  
+
+🌓_3_In_The_Moment/
+└── 📲_Press_Matters/
+    └── 📰_Responsible_Reporting/
+        └── 🕯️_Rising_Black_Deaths_In_Public/
+            ├── README.md
+            ├── 🕯️_when_the_image_has_a_history.md
+            ├── 🔎_investigate_without_prejudging.md
+            ├── 🧾_follow_the_case_to_disposition.md
+            ├── 📊_the_aggregate_question.md
+            ├── 🩺_if_it_is_suicide_the_story_changes.md
+            ├── 🫥_premature_closure.md
+            ├── 📣_sensationalism_is_not_scrutiny.md
+            ├── 🫂_reassurance_requires_evidence.md
+            ├── 📹_visibility_detection_and_intervention.md
+            ├── 🧭_what_good_reporting_would_ask.md
+            └── 📚_sources_and_further_reading.md
