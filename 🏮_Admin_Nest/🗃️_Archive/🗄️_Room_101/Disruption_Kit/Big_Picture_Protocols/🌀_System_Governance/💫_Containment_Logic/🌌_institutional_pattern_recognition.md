@@ -212,10 +212,10 @@ It explains how institutions recognise behavioural anomalies not through surveil
 
 > 📡 **Cross-references:**
 >
-> - [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md)  
-> - [🐍 Venomous Pattern Mapping](../../../Survivor_Tools/🐍_venomous_pattern_mapping.md)  
-> - [🪶 Pattern Tracking Protocols](../../../../🦆_Digital_Disruption/🛰️_OSINT_Field_Operations/🪶_pattern_tracking_protocols.md)  
-> - [🧩 The Recognition Event: When You Realise You’re Not Imagining It](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_the_recognition_event.md)  
+> - [🧠 The Continuum of Authoritarian Drift]  
+> - [🐍 Venomous Pattern Mapping]  
+> - [🪶 Pattern Tracking Protocols]  
+> - [🧩 The Recognition Event: When You Realise You’re Not Imagining It]  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
