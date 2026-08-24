@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-24 19:03:20 UTC_
+_Generated on 2026-08-24 19:05:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5071,13 +5071,13 @@ _Generated on 2026-08-24 19:03:20 UTC_
         - [**Big_Picture_Protocols/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/)
           - [**🌀_System_Governance/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/)
             - [**💫_Containment_Logic/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/)
-              - [`_risk_vector_inversions_in_authoritarian_systems.md.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/_risk_vector_inversions_in_authoritarian_systems.md.txt)
               - [`❌_no_safe_exit.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/❌_no_safe_exit.md)
               - [`🌌_institutional_pattern_recognition.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🌌_institutional_pattern_recognition.md)
               - [`🏚️_seven_layers_of_safeguard_breakdown.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🏚️_seven_layers_of_safeguard_breakdown.md)
               - [`📜_when_containment_becomes_identity.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📜_when_containment_becomes_identity.md)
               - [`📡_institutional_risk_posture_diagnostics.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/📡_institutional_risk_posture_diagnostics.md)
               - [`🧀_swiss_cheese_multi_agency_failure.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧀_swiss_cheese_multi_agency_failure.md)
+              - [`🧩_risk_vector_inversions_in_authoritarian_systems.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🧩_risk_vector_inversions_in_authoritarian_systems.md)
               - [`🪆_containment_logic_as_witch_logic.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/🪆_containment_logic_as_witch_logic.md)
             - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/README.md)
           - [**🐍_Ouroborotic_Violence/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
