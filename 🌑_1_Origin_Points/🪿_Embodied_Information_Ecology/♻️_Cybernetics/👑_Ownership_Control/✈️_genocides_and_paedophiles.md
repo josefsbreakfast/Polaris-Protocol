@@ -1,5 +1,5 @@
 # ✈️ Genocides and Paedophiles
-**First created:** 2025-12-20 | **Last updated:** 2026-08-14  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-24  
 *What very different high-harm cases can reveal about accountability architecture when exposure spreads upward and outward.*
 
 ---
@@ -706,6 +706,7 @@ The node asks what happens to accountability systems when exposure expands acros
 
 > 📡 Cross-references:
 >
+> - [✈️ World War Epstein](../../../../🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/README.md)  
 > - [⚖️ The Architecture of Complicity](./⚖️_architecture_of_complicity.md) — *how distributed enablement can exceed the reach of individual proceedings*
 > - [✈️ Who Wants These Creeps in Charge?](./✈️_who_wants_these_creeps_in_charge.md) — *how dependency and replacement cost can introduce accountability friction*
 > - [✈️ Worker Positioning & Safety Culture](./✈️_worker_positioning_and_safety_culture.md) — *how information can exist without effective escalation authority*
@@ -724,4 +725,4 @@ The node asks what happens to accountability systems when exposure expands acros
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-08-24_
