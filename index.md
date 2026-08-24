@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-24 17:17:48 UTC_
+_Generated on 2026-08-24 18:58:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -716,7 +716,7 @@ _Generated on 2026-08-24 17:17:48 UTC_
         - [`🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md)
         - [`🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md)
         - [`🧬_harm_without_perpetrators_the_architecture_failure_model.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧬_harm_without_perpetrators_the_architecture_failure_model.md)
-        - [`🧬_how_gossip_shapes_risk_flags.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧬_how_gossip_shapes_risk_flags.md)
+        - [`🧬_how_gossip_shapes_risk_response.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧬_how_gossip_shapes_risk_response.md)
         - [`🧬_multi_year_pipeline_architecture.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧬_multi_year_pipeline_architecture.md)
         - [`🧭_are_we_fascist_yet.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧭_are_we_fascist_yet.md)
         - [`🧭_data_slip_to_narrative_spiral.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧭_data_slip_to_narrative_spiral.md)
