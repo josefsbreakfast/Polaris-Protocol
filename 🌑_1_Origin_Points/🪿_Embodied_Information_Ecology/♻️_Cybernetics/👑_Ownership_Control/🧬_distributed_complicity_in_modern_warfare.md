@@ -1,5 +1,5 @@
 # 🧬 Distributed Complicity in Modern Warfare  
-**First created:** 2025-12-20 | **Last updated:** 2026-08-17  
+**First created:** 2025-12-20 | **Last updated:** 2026-08-24  
 *How contemporary conflict fragments agency, redistributes responsibility, and creates custody gaps in ethical accountability.*
 
 ---
@@ -292,7 +292,8 @@ It analyses how responsibility can fragment across modern conflict systems, crea
 > - [🤫 Collective Risk Silence Loop](./🤫_collective_risk_silence_loop.md) — *how distributed caution becomes self-confirming silence*  
 > - [👑 Soft Power Accountability Gap](./👑_soft_power_accountability_gap.md) — *prestige influence and segmented accountability*  
 > - [👑 Asserting Sovereignty After Allied Interference](./👑_asserting_sovereignty_after_allied_interference.md) — *governance response where allied activity crosses domestic boundaries*  
-> - [✈️ Worker Positioning & Safety Culture](./✈️_worker_positioning_and_safety_culture.md) — *escalation and mandate design*  
+> - [✈️ Worker Positioning & Safety Culture](./✈️_worker_positioning_and_safety_culture.md) — *escalation and mandate design*
+> - [🐴 The Legality of Gift Horses](./🐴_the_legality_of_gift_horses.md)  
 >   
 > 🏮 Return To:
 >
@@ -304,4 +305,4 @@ It analyses how responsibility can fragment across modern conflict systems, crea
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-17_
+_Last updated: 2026-08-24_
