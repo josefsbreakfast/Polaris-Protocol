@@ -1,5 +1,5 @@
 # 🛡️ What Defence Planners Should Model  
-**First created:** 2026-06-21 | **Last updated:** 2026-06-21  
+**First created:** 2026-06-21 | **Last updated:** 2026-08-25  
 *How defence planners should model legal-risk calendars, elite exposure, metadata leakage, attribution lag, and brittle escalation as practical planning variables.*
 
 ---
@@ -411,7 +411,7 @@ defence planning, legal-risk calendar, chain dependency, association leakage, at
 
 ## 🏮 Footer  
 
-*What Defence Planners Should Model* is a living node of the **Polaris Protocol**.  
+*🛡️ What Defence Planners Should Model* is a living node of the **Polaris Protocol**.  
 It turns the `✈️_World_War_Epstein` cluster into practical planning questions for defence, diplomacy, attribution, base exposure, legal-risk calendars, and adversary behaviour.
 
 It does not ask planners to believe a theory.
@@ -430,4 +430,4 @@ It asks them to model brittleness.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-21_
+_Last updated: 2026-08-25_
