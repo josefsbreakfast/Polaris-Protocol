@@ -12,3 +12,31 @@
 
 
 ---
+
+ what good human judgement should become when machines perform more of the informational labour.
+
+🥀 The Audrey II Problem — brief node plan
+
+README.md — The intellectual centre. Establish the paradox: more data can improve observation without making human relationships proportionately more predictable. Introduce administrative narcissism, but also the constructive alternative: automation should create a cognitive dividend. If machines do retrieval, linkage and routine synthesis, institutions should deliberately preserve human time for interpretation, uncertainty and judgement. Core doctrine: automate retrieval; preserve interpretation; budget for doubt.
+
+🧠 human_relationships_are_not_stable_variables.md — The object keeps moving. Loyalty, fear, attraction, solidarity, dependency, courage and political belief change with context and time. Distinguish legitimate probabilistic analysis from treating dynamic human states as durable attributes. Introduce the operator’s role: machine detects change; human asks what changed, why, and whether the old model still applies.
+
+🕸️ relationships_are_not_interchangeable.md — A relationship is not a slot. Two apparently similar relationships can have radically different functions because of history, trust, humour, obligation, recognition, complementary skills and circumstance. Particularly important for any model imagining that one contact can substitute for another. Network position ≠ relational function.
+
+🪞 surface_matches_and_missing_substance.md — The dashboard can see resemblance better than meaning. This is where our new automation argument gets very concrete. A machine may brilliantly establish frequency, proximity, mutual contacts, demographics and behavioural similarity while remaining unable to answer “what is this relationship?” Explore proxy matching and the interpretative remainder. The machine has done useful work; that is precisely why the operator should now have time to examine what the machine cannot establish.
+
+🔁 feedback_loops_and_confirmation_bias.md — Humans can inherit the machine’s frame. Automation bias, anchoring and recursive inference: the suggested interpretation becomes the starting assumption for subsequent human reasoning. Contrast human in the loop with human exercising independent judgement. Design question: does the interface encourage challenge, alternatives and disconfirmation, or merely approval?
+
+🧮 scoring_prejudice_as_risk.md — A clean score can hide a dirty judgement. Class, racism, sectarianism, sexism, disability prejudice, political conformity, community gossip and institutional reputation can enter through labels, proxies, training data and operator judgement. Automation may make inherited prejudice look objective. Human review therefore needs to interrogate how the score came to exist, not merely whether it looks plausible.
+
+📉 model_decay_and_stale_intelligence.md — Yesterday’s person is not today’s person. Relationships end; politics changes; circumstances move; old intelligence survives. Explore temporal decay, confidence degradation, expiry and mandatory revalidation. This is another distinctly human task: asking whether technically accurate historical information remains meaningful now.
+
+🧬 merged_records_and_category_errors.md — The represented person can drift away from the real one. Conflation, duplicate identities, inherited labels, incorrect graph edges, category mistakes and derived records. Crucially, automation can propagate one mistake at enormous scale. Human attention should concentrate on provenance, contradiction and correction precisely because machines have removed much of the clerical burden.
+
+🪓 administrative_failure_becoming_coercion.md — Bad abstraction acquires material force. Move from epistemic error to consequences: an imperfect representation starts determining access, travel, scrutiny, reputation, relationships, opportunities or policing. This is where the required quality of judgement should rise sharply with consequence. Automation can triage broadly; coercion demands narrow, considered justification.
+
+🕳️ the_database_that_cannot_admit_it_is_wrong.md — Administrative narcissism. Bring everything together. More data have not abolished uncertainty, but institutional investment makes admitting limitation increasingly difficult. The system begins defending its representation of reality against reality itself. Contrast that with a mature automated institution: scores can fall, categories expire, operators can override, models can be abandoned, uncertainty can remain unresolved, and saying “we don’t know” counts as competent judgement.
+
+⸻
+
+machine observes → human interprets → machine proposes → human challenges → system remembers → human recontextualises → machine scales → human checks provenance → consequence approaches → human judgement becomes more, not less, important.
