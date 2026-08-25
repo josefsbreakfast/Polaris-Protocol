@@ -1,5 +1,5 @@
 # 📱 The Phone Is Part Of The Security Boundary
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
 *Why trusting the person does not secure the devices, accounts, credentials and information environment attached to them.*
 
 ---
@@ -626,7 +626,9 @@ And that is why:
 ---
 
 ## 🌌 Constellations  
-📱 👀 🪪 🧬 🧅 — endpoint security; access mapping; personnel assurance; attack surfaces; containment.
+📱 👀 🪪 🧬 🧅 — endpoint security; access mapping; personnel assurance; attack surfaces; containment.  
+
+---
 
 ## ✨ Stardust  
 information security, endpoint security, account security, authentication, personnel security, metadata, information exposure, defence in depth
@@ -636,7 +638,9 @@ information security, endpoint security, account security, authentication, perso
 ## 🏮 Footer  
 
 *📱 The Phone Is Part Of The Security Boundary* is a living node of the **Polaris Protocol**.  
-It explains why devices, accounts, credentials and connected services form part of the security environment surrounding sensitive personnel without treating technical exposure as evidence of deliberate cooperation. Within the White House Snitches cluster, it extends the access model from the human role into the technical interfaces attached to it and prepares the wider attack-surface and compartmentation analysis.
+
+It explains why devices, accounts, credentials and connected services form part of the security environment surrounding sensitive personnel without treating technical exposure as evidence of deliberate cooperation.  
+Within the White House Snitches cluster, it extends the access model from the human role into the technical interfaces attached to it and prepares the wider attack-surface and compartmentation analysis.
 
 > 📡 Cross-references:
 >
@@ -646,8 +650,16 @@ It explains why devices, accounts, credentials and connected services form part 
 > - [📞 Metadata Can Tell The Story](./📞_metadata_can_tell_the_story.md) — *relationships, timing and patterns as information beyond message content*  
 > - [🧅 Compartmentation Exists For A Reason](./🧅_compartmentation_exists_for_a_reason.md) — *limiting the blast radius when an endpoint or another individual control fails*  
 > - [☎️ The Call Is Coming From Inside The House](./☎️_the_call_is_coming_from_inside_the_house.md) — *why an information outcome does not establish deliberate human disclosure*  
-> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *practical reporting questions for distinguishing people, devices and exposure pathways*  
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *practical reporting questions for distinguishing people, devices and exposure pathways*
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
