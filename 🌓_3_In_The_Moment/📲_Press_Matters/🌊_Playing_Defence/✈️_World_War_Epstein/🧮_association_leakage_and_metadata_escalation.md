@@ -1,5 +1,5 @@
 # 🧮 Association Leakage And Metadata Escalation  
-**First created:** 2026-06-21 | **Last updated:** 2026-06-21  
+**First created:** 2026-06-21 | **Last updated:** 2026-08-25  
 *How weak data associations, legal-risk metadata, and AI-indexed linkage can produce strategic movement in brittle systems.*  
 
 ---
@@ -261,7 +261,7 @@ metadata, association leakage, legal risk, ai indexing, due diligence, shared da
 
 ## 🏮 Footer  
 
-*Association Leakage And Metadata Escalation* is a living node of the **Polaris Protocol**.  
+*🧮 Association Leakage And Metadata Escalation* is a living node of the **Polaris Protocol**.  
 It defines the technical mechanism used by the `✈️_World_War_Epstein` cluster to distinguish direct coordination from metadata-driven movement, shared-system panic, and brittle escalation.  
 It exists to keep the wider analysis disciplined: serious enough to track, careful enough not to overclaim.
 
@@ -273,4 +273,4 @@ It exists to keep the wider analysis disciplined: serious enough to track, caref
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-21_
+_Last updated: 2026-08-25_
