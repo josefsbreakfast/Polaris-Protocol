@@ -1006,6 +1006,14 @@ Within the White House Snitches cluster, it provides the preventive-security bri
 > - [🍯 Honeypots Are Not Magic](./🍯_honeypots_are_not_magic.md) — *targeting and exploitation without spy-film assumptions*
 > - [🇮🇷 Guys, You Are In A War, Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) — *why defensive posture must account for the external collection environment without collapsing threat into attribution*
 > - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting questions that distinguish legitimate security scrutiny from accusation*
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
