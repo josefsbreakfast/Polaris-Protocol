@@ -1,5 +1,5 @@
 ﻿# 🦠 Porosity Is A Security Failure
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
 *Why a security boundary that exists on paper but repeatedly permits uncontrolled crossing is not functioning as a boundary.*
 
 ---
@@ -702,6 +702,8 @@ And when exceptions, interfaces and workarounds repeatedly defeat that boundary:
 ## 🌌 Constellations  
 🦠 🧬 🧅 🪪 🛡️ — institutional porosity; sociotechnical seams; compartmentation; assurance exceptions; defensive governance.
 
+---
+
 ## ✨ Stardust  
 information security, institutional porosity, security boundaries, access control, exception management, compartmentation, attack surface, governance, defence in depth
 
@@ -722,8 +724,16 @@ It distinguishes isolated security incidents from the institutional condition in
 > - [🥸 Insider Threat Does Not Mean Spy](./🥸_insider_threat_does_not_mean_spy.md) — *why individual conduct and institutionally created exposure conditions require separate analysis*  
 > - [🇮🇷 Guys, You Are In A War, Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) — *the external adversarial environment against which institutional porosity becomes strategically significant*  
 > - [🛡️ Useful Old-School Defence Expertise](./🛡️_useful_old_school_defence_expertise.md) — *how institutional memory and contemporary technical expertise can help identify and close recurring security seams*  
-> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *practical reporting prompts for distinguishing a discrete breach from a porous security condition*  
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *practical reporting prompts for distinguishing a discrete breach from a porous security condition*
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
