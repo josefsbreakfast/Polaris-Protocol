@@ -1,5 +1,5 @@
 # 🧬 The Attack Surface Has More Than One Strand
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
 *Why sensitive political environments have human, technical, social, physical, organisational and informational attack surfaces — and why the dangerous parts often sit between them.*
 
 ---
@@ -764,6 +764,8 @@ And:
 ## 🌌 Constellations  
 🧬 📱 👀 🦠 🧅 — sociotechnical security; endpoints; access mapping; institutional porosity; defence in depth.
 
+---
+
 ## ✨ Stardust  
 attack surface, information security, sociotechnical systems, personnel security, supply-chain risk, access control, aggregation risk, threat modelling, defence in depth
 
@@ -772,7 +774,9 @@ attack surface, information security, sociotechnical systems, personnel security
 ## 🏮 Footer  
 
 *🧬 The Attack Surface Has More Than One Strand* is a living node of the **Polaris Protocol**.  
-It expands the security boundary beyond individual people and devices into the technical, human, social, physical, organisational, supply-chain and informational interfaces of a sensitive institution. Within the White House Snitches cluster, it synthesises the preceding access and endpoint nodes before the cluster turns to compartmentation, aggregation, insider risk and institutional porosity.
+
+It expands the security boundary beyond individual people and devices into the technical, human, social, physical, organisational, supply-chain and informational interfaces of a sensitive institution.  
+Within the White House Snitches cluster, it synthesises the preceding access and endpoint nodes before the cluster turns to compartmentation, aggregation, insider risk and institutional porosity.
 
 > 📡 Cross-references:
 >
@@ -783,8 +787,16 @@ It expands the security boundary beyond individual people and devices into the t
 > - [🧩 A Plus B Plus C Equals Classified](./🧩_a_plus_b_plus_c_equals_classified.md) — *aggregation and the composition of individually limited information pathways*  
 > - [📞 Metadata Can Tell The Story](./📞_metadata_can_tell_the_story.md) — *informational value carried by relationships, timing and patterns*  
 > - [🇮🇷 Guys, You Are In A War, Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) — *the external threat environment against which attack surfaces should be assessed*  
-> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting prompts for distinguishing plausible pathways from evidenced mechanisms*  
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting prompts for distinguishing plausible pathways from evidenced mechanisms*
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
