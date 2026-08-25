@@ -1,17 +1,12 @@
-# 🪪 Clearance Is Not A Lanyard
-
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21
-*Security clearance is not a ceremonial declaration that somebody is a
-Good Person. It is one part of the institutional machinery for deciding
-whether, how, and under what controls somebody can safely occupy a
-sensitive information environment.*
+# 🪪 Clearance Is Not A Lanyard  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
+*Security clearance is not a ceremonial declaration that somebody is a Good Person. It is one part of the institutional machinery for deciding whether, how, and under what controls somebody can safely occupy a sensitive information environment.*
 
 ---
 
 ## 🛰️ Orientation
 
-There is a deeply unhelpful way of talking about security clearance
-which makes the entire process sound vaguely medieval.
+There is a deeply unhelpful way of talking about security clearance which makes the entire process sound vaguely medieval.
 
 Somebody is investigated.
 
@@ -19,11 +14,9 @@ People ask questions about their life.
 
 A government agency reaches a decision.
 
-The person is either admitted to the Kingdom of Trustworthy People or
-cast into the wilderness.
+The person is either admitted to the Kingdom of Trustworthy People or cast into the wilderness.
 
-Under this model, discovering that somebody did not possess an expected
-clearance immediately sounds accusatory:
+Under this model, discovering that somebody did not possess an expected clearance immediately sounds accusatory:
 
 > **Why don't you trust her?**
 
@@ -37,23 +30,17 @@ This is the whole fucking point of clearance.
 
 The surrounding cluster has already established two things.
 
-From [☎️ The Call Is Coming From Inside The
-House](./☎️_the_call_is_coming_from_inside_the_house.md):
+From [☎️ The Call Is Coming From Inside The House](./☎️_the_call_is_coming_from_inside_the_house.md):
 
-> **Information got out** does not automatically establish **somebody
-> deliberately leaked it**.
+> **Information got out** does not automatically establish **somebody deliberately leaked it**.
 
-From [🦑 Security Language For Normal
-People](./🦑_security_language_for_normal_people.md):
+From [🦑 Security Language For Normal People](./🦑_security_language_for_normal_people.md):
 
-> **Risk, exposure, compromise, deliberate disclosure, espionage and
-> attribution are not interchangeable evidential claims.**
+> **Risk, exposure, compromise, deliberate disclosure, espionage and attribution are not interchangeable evidential claims.**
 
-This node asks the preventive question that comes before either of those
-problems:
+This node asks the preventive question that comes before either of those problems:
 
-> **What was supposed to make this access acceptably secure before
-> anything went wrong?**
+> **What was supposed to make this access acceptably secure before anything went wrong?**
 
 Security vetting is not supposed to answer only:
 
@@ -61,8 +48,7 @@ Security vetting is not supposed to answer only:
 
 It contributes to a much broader question:
 
-> **What risks arise from giving this person this access in this
-> environment, and what controls are required to manage them?**
+> **What risks arise from giving this person this access in this environment, and what controls are required to manage them?**
 
 That is not a witch hunt.
 
@@ -72,8 +58,7 @@ That is security.
 
 ## 🪪 Clearance Is Not A Lanyard
 
-A clearance should not be imagined as a particularly difficult-to-obtain
-staff badge.
+A clearance should not be imagined as a particularly difficult-to-obtain staff badge.
 
 ```text
 NO CLEARANCE
@@ -87,12 +72,9 @@ GOOD PERSON
 
 No.
 
-Nor does possessing a clearance mean somebody can automatically access
-every piece of information at or below some classification level.
+Nor does possessing a clearance mean somebody can automatically access every piece of information at or below some classification level.
 
-Exact terminology and procedures vary between jurisdictions and
-institutions, but the underlying security architecture generally has to
-distinguish several related questions.
+Exact terminology and procedures vary between jurisdictions and institutions, but the underlying security architecture generally has to distinguish several related questions.
 
 ```text
 VETTING
@@ -119,8 +101,7 @@ Those questions interact.
 
 They are not synonyms.
 
-Clearance is therefore not a lanyard that transforms every room behind
-the security desk into an all-access buffet.
+Clearance is therefore not a lanyard that transforms every room behind the security desk into an all-access buffet.
 
 It is one component in a larger system of assurance and control.
 
@@ -128,13 +109,11 @@ It is one component in a larger system of assurance and control.
 
 ## 🧿 Vetting Is Risk Assessment, Not Moral Judgment
 
-The language of **trustworthiness** can obscure what security systems
-are actually trying to accomplish.
+The language of **trustworthiness** can obscure what security systems are actually trying to accomplish.
 
 Risk can exist without wrongdoing.
 
-A person may be entirely loyal and nevertheless have circumstances
-relevant to security management.
+A person may be entirely loyal and nevertheless have circumstances relevant to security management.
 
 A person may also be perfectly trustworthy while:
 
@@ -151,8 +130,7 @@ None of these propositions means:
 
 > **SPY.**
 
-Security systems exist precisely because **good intentions are not a
-sufficient security control**.
+Security systems exist precisely because **good intentions are not a sufficient security control**.
 
 This is the distinction the public conversation repeatedly loses:
 
@@ -169,11 +147,9 @@ say:
 
 Fine.
 
-That tells us something about their personal judgment.
+That tells us something about their personal judgement.
 
-It does not establish that the institution has completed the process by
-which it determines and documents whether the risks associated with the
-person's role and access are acceptably controlled.
+It does not establish that the institution has completed the process by which it determines and documents whether the risks associated with the person's role and access are acceptably controlled.
 
 Personal confidence may be genuine.
 
@@ -235,23 +211,19 @@ Change the access.
 
 Change the devices.
 
-The risk picture can change even though the human being has not suddenly
-undergone a dramatic moral transformation.
+The risk picture can change even though the human being has not suddenly undergone a dramatic moral transformation.
 
-That is why vetting cannot sensibly be reduced to a one-time declaration
-about someone's character.
+That is why vetting cannot sensibly be reduced to a one-time declaration about someone's character.
 
 ---
 
 ## 📋 The Process Creates A Security Baseline
 
-There is another important function of personnel-security processes
-which disappears when clearance is treated as a badge.
+There is another important function of personnel-security processes which disappears when clearance is treated as a badge.
 
 **Assessment produces institutional knowledge.**
 
-A functioning assurance process should leave the organisation better
-able to understand things such as:
+A functioning assurance process should leave the organisation better able to understand things such as:
 
 - what access the role should possess;
 - what systems and devices are authorised;
@@ -293,8 +265,7 @@ Which pathways should, in theory, have been impossible?
 
 The security process therefore does not merely assess a person.
 
-> **It helps create the map investigators need when something goes
-> wrong.**
+> **It helps create the map investigators need when something goes wrong.**
 
 ---
 
@@ -302,16 +273,13 @@ The security process therefore does not merely assess a person.
 
 This gives us a useful concept:
 
-> **An assurance gap exists when the institution cannot demonstrate that
-> a security question which should have been assessed was actually
-> assessed and appropriately managed.**
+> **An assurance gap exists when the institution cannot demonstrate that a security question, which *should* have been assessed, was actually assessed and appropriately managed.**
 
 An assurance gap is not proof of compromise.
 
 It is not proof that a vulnerability was exploited.
 
-It certainly is not proof that the person concerned knowingly cooperated
-with anybody.
+It certainly is not proof that the person concerned knowingly cooperated with anybody.
 
 ```text
 ASSURANCE GAP
@@ -336,9 +304,7 @@ NO REASON TO CARE ABOUT
 THE ASSURANCE GAP
 ```
 
-Preventive security exists precisely because institutions are not
-supposed to wait until after a successful compromise before becoming
-interested in whether their controls made sense.
+Preventive security exists precisely because institutions are not supposed to wait until after a successful compromise before becoming interested in whether their controls made sense.
 
 The question is not:
 
@@ -346,15 +312,13 @@ The question is not:
 
 The prior question is:
 
-> **Can the institution demonstrate that the risk was properly
-> understood and controlled?**
+> **Can the institution demonstrate that the risk was properly understood and controlled?**
 
 ---
 
 ## 🕸️ The Missing-Clearance Question
 
-Suppose reporting establishes that somebody occupied a sensitive role
-without a clearance normally expected for that role.
+Suppose reporting establishes that somebody occupied a sensitive role without a clearance normally expected for that role.
 
 What can we conclude?
 
@@ -421,13 +385,11 @@ That is where the interesting reporting begins.
 
 ## 🪜 Interim Access Is A Control Problem, Not A Magic Phrase
 
-There may be perfectly legitimate explanations for somebody performing
-duties before every ordinary security process has concluded.
+There may be perfectly legitimate explanations for somebody performing duties before every ordinary security process has concluded.
 
 Governments still have to function.
 
-Different systems can provide temporary, interim, restricted or
-otherwise specially controlled arrangements.
+Different systems can provide temporary, interim, restricted or otherwise specially controlled arrangements.
 
 That possibility matters.
 
@@ -479,11 +441,9 @@ The next questions are:
 
 > With what review?
 
-A compensating control only counts as a compensating control if it
-actually existed.
+A compensating control only counts as a compensating control if it actually existed.
 
-And a control that existed on paper is not necessarily a control that
-was consistently enforced.
+And a control that existed on paper is not necessarily a control that was consistently enforced.
 
 ---
 
@@ -542,19 +502,15 @@ But several can produce intelligence value.
 
 The useful question is therefore:
 
-> **What information environment did the role actually expose the person
-> to?**
+> **What information environment did the role actually expose the person to?**
 
-See [👀 Access Is More Than Opening The
-Document](./👀_access_is_more_than_opening_the_document.md) for the full
-access model.
+See [👀 Access Is More Than Opening The Document](./👀_access_is_more_than_opening_the_document.md) for the full access model.
 
 ---
 
 ## 📱 The Person Comes With An Attack Surface
 
-A senior official does not walk into a sensitive environment as an
-isolated biological organism.
+A senior official does not walk into a sensitive environment as an isolated biological organism.
 
 They arrive with an information ecosystem.
 
@@ -607,24 +563,17 @@ whole information environment is secure
 
 A person's intentions cannot patch their phone.
 
-This node does not need to turn into an endpoint-security manual. The
-larger point is simply that **vetting the human does not magically
-secure every interface attached to the human**.
+This node does not need to turn into an endpoint-security manual. The larger point is simply that **vetting the human does not magically secure every interface attached to the human**.
 
-See [📱 The Phone Is Part Of The Security
-Boundary](./📱_the_phone_is_part_of_the_security_boundary.md) and [🧬
-The Attack Surface Has More Than One
-Strand](./🧬_the_attack_surface_has_more_than_one_strand.md).
+See [📱 The Phone Is Part Of The Security Boundary](./📱_the_phone_is_part_of_the_security_boundary.md) and [🧬 The Attack Surface Has More Than One Strand](./🧬_the_attack_surface_has_more_than_one_strand.md).
 
 ---
 
 ## 🧅 Clearance Is One Layer Of The Onion
 
-Even a properly cleared person should not necessarily have access to
-everything.
+Even a properly cleared person should not necessarily have access to everything.
 
-This is where need-to-know, compartmentation, least privilege and
-role-based access become important.
+This is where need-to-know, compartmentation, least privilege and role-based access become important.
 
 A conceptual security stack might look something like:
 
@@ -652,8 +601,7 @@ It illustrates the point.
 
 A security architecture should not depend upon:
 
-> **Well, we've vetted Susan, so Susan can wander around everything
-> now.**
+> **Well, we've vetted Susan, so Susan can wander around everything now.**
 
 Limiting access reduces the consequences of:
 
@@ -665,27 +613,21 @@ Limiting access reduces the consequences of:
 - inappropriate curiosity;
 - and simple human fallibility.
 
-> **Clearance is one control in a security architecture. It is not the
-> architecture.**
+> **Clearance is one control in a security architecture. It is not the architecture.**
 
-See [🧅 Compartmentation Exists For A
-Reason](./🧅_compartmentation_exists_for_a_reason.md).
+See [🧅 Compartmentation Exists For A Reason](./🧅_compartmentation_exists_for_a_reason.md).
 
 ---
 
 ## 🇮🇷 Now Put The Threat Back In The Threat Model
 
-The significance of an assurance gap depends partly upon the external
-environment.
+The significance of an assurance gap depends partly upon the external environment.
 
-If foreign intelligence services have substantial reason to collect
-against an institution, then inadequately characterised access deserves
-greater attention.
+If foreign intelligence services have substantial reason to collect against an institution, then inadequately characterised access deserves greater attention.
 
 That does not mean a foreign intelligence service exploited it.
 
-It means the defensive system should have been designed on the
-assumption that somebody **might try**.
+It means the defensive system should have been designed on the assumption that somebody **might try**.
 
 This distinction remains essential:
 
@@ -707,27 +649,21 @@ foreign operation
 knowing cooperation by the target
 ```
 
-You can take foreign-intelligence threats seriously without accusing
-everybody in Washington of being Mata Hari.
+You can take foreign-intelligence threats seriously without accusing everybody in Washington of being Mata Hari.
 
-Indeed, that is rather the point of having professional security
-institutions instead of witch hunts.
+Indeed, that is rather the point of having professional security institutions instead of witch hunts.
 
-The wider strategic context belongs in [🇮🇷 Guys, You Are In A War,
-Remember](./🇮🇷_guys_you_are_in_a_war_remember.md).
+The wider strategic context belongs in [🇮🇷 Guys, You Are In A War, Remember](./🇮🇷_guys_you_are_in_a_war_remember.md).
 
 ---
 
 ## 🍯 Security Also Protects The Person
 
-There is another reason the **witch hunt** framing gets the purpose of
-security backwards.
+There is another reason the **witch hunt** framing gets the purpose of security backwards.
 
-Proper security processes do not merely protect institutions **from**
-personnel.
+Proper security processes do not merely protect institutions **from** personnel.
 
-They can also protect personnel **from people who may target them
-because of their access**.
+They can also protect personnel **from people who may target them because of their access**.
 
 Good security can help by:
 
@@ -740,20 +676,15 @@ Good security can help by:
 - providing institutional support when targeting occurs;
 - and documenting what controls were in place.
 
-A person does not have to be untrustworthy to deserve protection from
-people who might target them.
+A person does not have to be untrustworthy to deserve protection from people who might target them.
 
 In fact:
 
-> **Being important enough to require vetting can also mean being
-> important enough to require protection.**
+> **Being important enough to require vetting can also mean being important enough to require protection.**
 
-Foreign intelligence services, criminals and other hostile actors do not
-restrict themselves to people who have already decided to betray their
-organisation.
+Foreign intelligence services, criminals and other hostile actors do not restrict themselves to people who have already decided to betray their organisation.
 
-They can target people who are loyal, useful, reachable and close to
-something interesting.
+They can target people who are loyal, useful, reachable and close to something interesting.
 
 Being targeted does not mean cooperating.
 
@@ -769,15 +700,13 @@ See [🍯 Honeypots Are Not Magic](./🍯_honeypots_are_not_magic.md).
 
 ## 🥸 Insider Risk Does Not Mean Spy
 
-The same conceptual problem appears around the phrase **insider
-threat**.
+The same conceptual problem appears around the phrase **insider threat**.
 
 To a general audience, it can sound like:
 
 > **WE THINK THIS EMPLOYEE IS SECRETLY WORKING FOR MOSCOW.**
 
-But insider-risk management has to contemplate a much wider range of
-possibilities.
+But insider-risk management has to contemplate a much wider range of possibilities.
 
 An insider can create exposure through:
 
@@ -801,8 +730,7 @@ and
 
 Those propositions are not contradictory.
 
-For the fuller distinction, see [🥸 Insider Threat Does Not Mean
-Spy](./🥸_insider_threat_does_not_mean_spy.md).
+For the fuller distinction, see [🥸 Insider Threat Does Not Mean Spy](./🥸_insider_threat_does_not_mean_spy.md).
 
 ---
 
@@ -832,20 +760,15 @@ Document exceptions.
 Review residual risk.
 ```
 
-The legitimacy of security vetting depends substantially upon that
-distinction.
+The legitimacy of security vetting depends substantially upon that distinction.
 
-Requirements should attach to **roles, access and identifiable security
-risks**, not political convenience or personal dislike.
+Requirements should attach to **roles, access and identifiable security risks**, not political convenience or personal dislike.
 
-And the same standards should apply whether the individual concerned is
-popular, unpopular, politically useful, politically inconvenient,
-charismatic, irritating or someone's favourite aide.
+And the same standards should apply whether the individual concerned is popular, unpopular, politically useful, politically inconvenient, charismatic, irritating or someone's favourite aide.
 
 A useful governance test is therefore:
 
-> **Would you expect the same security requirement to be applied to
-> somebody you liked?**
+> **Would you expect the same security requirement to be applied to somebody you liked?**
 
 If yes, asking whether it was followed is not persecution.
 
@@ -857,9 +780,7 @@ It is oversight.
 
 This is where accountability needs to move back up the hierarchy.
 
-If a person occupied a sensitive role without completing the process
-normally expected for that role, the story should not automatically
-become:
+If a person occupied a sensitive role without completing the process normally expected for that role, the story should not automatically become:
 
 > **WHAT IS WRONG WITH THIS AIDE?**
 
@@ -886,29 +807,23 @@ Ask:
 
 This distinction matters.
 
-The individual may have had no power at all over the institution's
-decision to waive, delay or modify its ordinary security process.
+The individual may have had no power at all over the institution's decision to waive, delay or modify its ordinary security process.
 
-If the institution chose the exception, then the institution should be
-able to explain the security reasoning behind it.
+If the institution chose the exception, then the institution should be able to explain the security reasoning behind it.
 
-Personal trust cannot substitute itself for institutional architecture
-merely by being sincere.
+Personal trust cannot substitute itself for institutional architecture merely by being sincere.
 
 ---
 
 ## 🔍 Why This Matters After Something Goes Wrong
 
-Now return to the problem in [☎️ The Call Is Coming From Inside The
-House](./☎️_the_call_is_coming_from_inside_the_house.md).
+Now return to the problem in [☎️ The Call Is Coming From Inside The House](./☎️_the_call_is_coming_from_inside_the_house.md).
 
 Suppose sensitive information later appears somewhere unexpected.
 
-A functioning personnel-assurance and access-control system gives
-investigators a baseline from which to reconstruct the incident.
+A functioning personnel-assurance and access-control system gives investigators a baseline from which to reconstruct the incident.
 
-If the expected process was incomplete, unclear or poorly controlled,
-investigators may instead confront questions like:
+If the expected process was incomplete, unclear or poorly controlled, investigators may instead confront questions like:
 
 ```text
 WHO SHOULD HAVE KNOWN?
@@ -935,24 +850,19 @@ It does **not** mean:
 
 It means:
 
-> **the institution may have made reconstruction harder by weakening its
-> own assurance baseline.**
+> **the institution may have made reconstruction harder by weakening its own assurance baseline.**
 
-That is why clearance questions remain relevant even when no evidence
-establishes misconduct by the individual.
+That is why clearance questions remain relevant even when no evidence establishes misconduct by the individual.
 
 The security issue is not merely whether somebody behaved badly.
 
-It is whether the institution can explain the environment in which
-access occurred.
+It is whether the institution can explain the environment in which access occurred.
 
 ---
 
 ## ✍️ Questions Journalists Should Actually Ask
 
-If reporting suggests that somebody worked in a sensitive environment
-without an expected clearance, journalists should resist both
-sensationalism and reassurance-by-vibes.
+If reporting suggests that somebody worked in a sensitive environment without an expected clearance, journalists should resist both sensationalism and reassurance-by-vibes.
 
 ### Requirement
 
@@ -1019,9 +929,7 @@ It is not proof that somebody is safe.
 
 And lacking one is not proof that somebody is dangerous.
 
-The point is to make sensitive access occur inside an **assessed and
-controlled security environment** rather than depending upon everybody's
-personal confidence that the people involved seem trustworthy.
+The point is to make sensitive access occur inside an **assessed and controlled security environment** rather than depending upon everybody's personal confidence that the people involved seem trustworthy.
 
 Because:
 
@@ -1059,12 +967,9 @@ That distinction is not pedantry.
 
 It is why the system exists.
 
-The institution does not need to believe somebody is a spy before it
-applies security controls.
+The institution does not need to believe somebody is a spy before it applies security controls.
 
-It should not have to wait for a leak, intrusion, compromise or foreign
-operation before deciding that understanding sensitive access might have
-been useful.
+It should not have to wait for a leak, intrusion, compromise or foreign operation before deciding that understanding sensitive access might have been useful.
 
 That is not a witch hunt.
 
@@ -1075,6 +980,8 @@ That is not a witch hunt.
 ## 🌌 Constellations  
 🪪 🧿 👀 📱 🧅 — personnel assurance; institutional risk management; access architecture; endpoint exposure; layered security.
 
+---
+
 ## ✨ Stardust  
 personnel security, security clearance, vetting, security assurance, access control, need to know, compensating controls, insider risk, counterintelligence, threat modelling
 
@@ -1082,54 +989,24 @@ personnel security, security clearance, vetting, security assurance, access cont
 
 ## 🏮 Footer
 
-*🪪 Clearance Is Not A Lanyard* is a living node of the **Polaris
-Protocol**.
-It distinguishes personnel-security assurance from moral judgment and
-explains why incomplete vetting, exceptional access and compensating
-controls are legitimate institutional-security questions without
-constituting allegations of disloyalty, compromise or espionage. Within
-the White House Snitches cluster, it provides the preventive-security
-bridge between incident reasoning and the wider access, endpoint,
-compartmentation and threat-model nodes.
+*🪪 Clearance Is Not A Lanyard* is a living node of the **Polaris Protocol**.  
+
+It distinguishes personnel-security assurance from moral judgement an explains why incomplete vetting, exceptional access and compensating controls are legitimate institutional-security questions without constituting allegations of disloyalty, compromise or espionage.  
+Within the White House Snitches cluster, it provides the preventive-security bridge between incident reasoning and the wider access, endpoint, compartmentation and threat-model nodes.
 
 > 📡 Cross-references:
 >
-> - [☎️ The Call Is Coming From Inside The
->     House](./☎️_the_call_is_coming_from_inside_the_house.md) —
->     *distinguishing an observed information outcome from the mechanism
->     by which it occurred*
-> - [🦑 Security Language For Normal
->     People](./🦑_security_language_for_normal_people.md) —
->     *plain-language distinctions between risk, exposure, compromise,
->     espionage and attribution*
-> - [👀 Access Is More Than Opening The
->     Document](./👀_access_is_more_than_opening_the_document.md) —
->     *formal, technical, physical, observational and contextual access*
-> - [📱 The Phone Is Part Of The Security
->     Boundary](./📱_the_phone_is_part_of_the_security_boundary.md) —
->     *devices, accounts and communications as exposure surfaces*
-> - [🧬 The Attack Surface Has More Than One
->     Strand](./🧬_the_attack_surface_has_more_than_one_strand.md) —
->     *human, technical, physical and organisational security surfaces*
-> - [🧅 Compartmentation Exists For A
->     Reason](./🧅_compartmentation_exists_for_a_reason.md) —
->     *limiting access and containing the consequences of inevitable
->     failure*
-> - [🥸 Insider Threat Does Not Mean
->     Spy](./🥸_insider_threat_does_not_mean_spy.md) —
->     *insider-associated risk without premature allegations of
->     espionage*
-> - [🍯 Honeypots Are Not Magic](./🍯_honeypots_are_not_magic.md) —
->     *targeting and exploitation without spy-film assumptions*
-> - [🇮🇷 Guys, You Are In A War,
->     Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) — *why
->     defensive posture must account for the external collection
->     environment without collapsing threat into attribution*
-> - [✍️ Questions Journalists Should Actually
->     Ask](./✍️_questions_journalists_should_actually_ask.md) —
->     *reporting questions that distinguish legitimate security scrutiny
->     from accusation*
+> - [☎️ The Call Is Coming From Inside The House](./☎️_the_call_is_coming_from_inside_the_house.md) — *distinguishing an observed information outcome from the mechanism by which it occurred*
+> - [🦑 Security Language For Normal People](./🦑_security_language_for_normal_people.md) — *plain-language distinctions between risk, exposure, compromise, espionage and attribution*
+> - [👀 Access Is More Than Opening The Document](./👀_access_is_more_than_opening_the_document.md) — *formal, technical, physical, observational and contextual access*
+> - [📱 The Phone Is Part Of The Security Boundary](./📱_the_phone_is_part_of_the_security_boundary.md) — *devices, accounts and communications as exposure surfaces*
+> - [🧬 The Attack Surface Has More Than One Strand](./🧬_the_attack_surface_has_more_than_one_strand.md) — *human, technical, physical and organisational security surfaces*
+> - [🧅 Compartmentation Exists For A Reason](./🧅_compartmentation_exists_for_a_reason.md) — *limiting access and containing the consequences of inevitable failure*
+> - [🥸 Insider Threat Does Not Mean Spy](./🥸_insider_threat_does_not_mean_spy.md) — *insider-associated risk without premature allegations of espionage*
+> - [🍯 Honeypots Are Not Magic](./🍯_honeypots_are_not_magic.md) — *targeting and exploitation without spy-film assumptions*
+> - [🇮🇷 Guys, You Are In A War, Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) — *why defensive posture must account for the external collection environment without collapsing threat into attribution*
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting questions that distinguish legitimate security scrutiny from accusation*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
