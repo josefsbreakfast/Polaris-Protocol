@@ -1,5 +1,5 @@
 ﻿# 🏛️ White House Snitches
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
 *A security-literacy cluster for reporting information exposure without assuming that every unexplained disclosure requires a conscious human snitch.*
 
 ---
@@ -723,7 +723,9 @@ And if you spend the entire investigation looking for one, you may miss the secu
 ---
 
 ## 🌌 Constellations  
-☎️ 🕸️ 🦠 🇮🇷 🛡️ — information exposure; mechanism-first investigation; institutional porosity; adversarial threat modelling; defensive security literacy.
+☎️ 🕸️ 🦠 🇮🇷 🛡️ — information exposure; mechanism-first investigation; institutional porosity; adversarial threat modelling; defensive security literacy.  
+
+---
 
 ## ✨ Stardust  
 information security, security reporting, information exposure, personnel assurance, attack surface, aggregation risk, insider threat, institutional porosity, counterintelligence, attribution
@@ -742,8 +744,15 @@ It provides security-literacy scaffolding for distinguishing deliberate unauthor
 > - [🦠 Porosity Is A Security Failure](./🦠_porosity_is_a_security_failure.md) — *institutional conditions that can persist after an individual incident is resolved*  
 > - [🇮🇷 Guys, You Are In A War. Remember?](./🇮🇷_guys_you_are_in_a_war_remember.md) — *external threat context without unsupported attribution*  
 > - [🛡️ Useful Old-School Defence Expertise](./🛡️_useful_old_school_defence_expertise.md) — *translation of durable defensive knowledge into contemporary information systems*  
-> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *practical reporting workflow for the entire cluster*  
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *practical reporting workflow for the entire cluster*
+>   
+> 🏮 Return To:
+>
+> - [🌊 Playing Defence](../README.md)  
+> - [📲 Press Matters](../../README.md)  
+> - [🌗 In The Moment](../../../README.md)  
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
