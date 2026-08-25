@@ -1,9 +1,6 @@
-# 🦑 Security Language For Normal People
-
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21
-*A plain-language guide to the security words that get collapsed into
-"leak", "hack", "spy", and other nouns that quietly claim more evidence
-than we actually have.*
+# 🦑 Security Language For Normal People  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
+*A plain-language guide to the security words that get collapsed into "leak", "hack", "spy", and other nouns that quietly claim more evidence than we actually have.*  
 
 ---
 
@@ -11,8 +8,7 @@ than we actually have.*
 
 Security reporting has a vocabulary problem.
 
-Something strange happens around sensitive information and, within
-approximately twelve seconds, everybody is using one of four words:
+Something strange happens around sensitive information and, within approximately twelve seconds, everybody is using one of four words:
 
 > **leak**
 
@@ -24,9 +20,7 @@ approximately twelve seconds, everybody is using one of four words:
 
 Unfortunately, those words do not all mean the same thing.
 
-Worse, choosing the wrong one can quietly smuggle an entire theory of
-the incident into the reporting before the underlying facts have been
-established.
+Worse, choosing the wrong one can quietly smuggle an entire theory of the incident into the reporting before the underlying facts have been established.
 
 If information appears somewhere unexpected, we may know an **outcome**.
 
@@ -41,15 +35,13 @@ We may not yet know:
 - whether an external actor exploited the exposure;
 - or who, if anybody, should ultimately be blamed.
 
-This node is therefore not an attempt to turn journalists into
-counterintelligence officers.
+This node is therefore not an attempt to turn journalists into counterintelligence officers.
 
 It is a translation sheet.
 
 The governing rule is simple:
 
-> **Words are evidence labels. Do not promote the evidence by changing
-> the noun.**
+> **Words are evidence labels. Do not promote the evidence by changing the noun.**
 
 ---
 
@@ -106,8 +98,7 @@ without noticing.
 
 ## 💧 Leak
 
-In ordinary reporting, **leak** usually means that somebody with access
-to information deliberately provided it outside the authorised channel.
+In ordinary reporting, **leak** usually means that somebody with access to information deliberately provided it outside the authorised channel.
 
 Simplified:
 
@@ -141,18 +132,15 @@ If the mechanism has not been established, "leak" may be premature.
 
 See:
 
-[☎️ The Call Is Coming From Inside The
-House](./☎️_the_call_is_coming_from_inside_the_house.md).
+[☎️ The Call Is Coming From Inside The House](./☎️_the_call_is_coming_from_inside_the_house.md).
 
 ---
 
 ## 📤 Unauthorised Disclosure
 
-An **unauthorised disclosure** is information being communicated or made
-available without the required authorisation.
+An **unauthorised disclosure** is information being communicated or made available without the required authorisation.
 
-That category is broader and more useful than casually shouting
-**LEAK**.
+That category is broader and more useful than casually shouting **LEAK**.
 
 Depending upon the facts, an unauthorised disclosure may be:
 
@@ -167,8 +155,7 @@ Depending upon the facts, an unauthorised disclosure may be:
 
 The useful question is:
 
-> **What was disclosed, to whom, through what pathway, and with what
-> evidence of intent?**
+> **What was disclosed, to whom, through what pathway, and with what evidence of intent?**
 
 Do not infer the final answer from the label.
 
@@ -178,11 +165,9 @@ Do not infer the final answer from the label.
 
 **Exposure** is the broadest useful word in this folder.
 
-Information is exposed when it becomes accessible, observable or
-inferable outside the controls that were supposed to constrain it.
+Information is exposed when it becomes accessible, observable or inferable outside the controls that were supposed to constrain it.
 
-Exposure does not necessarily mean anybody actually exploited the
-opportunity.
+Exposure does not necessarily mean anybody actually exploited the opportunity.
 
 For example:
 
@@ -210,8 +195,7 @@ passed it onwards
 
 This distinction matters because:
 
-> **A vulnerability or exposure can be serious even when successful
-> exploitation has not been demonstrated.**
+> **A vulnerability or exposure can be serious even when successful exploitation has not been demonstrated.**
 
 Security exists partly to prevent the opportunity becoming the incident.
 
@@ -219,9 +203,7 @@ Security exists partly to prevent the opportunity becoming the incident.
 
 ## 🧨 Compromise
 
-**Compromise** generally indicates that a person, account, device,
-system, credential, process or body of information can no longer be
-treated as securely controlled in the expected way.
+**Compromise** generally indicates that a person, account, device, system, credential, process or body of information can no longer be treated as securely controlled in the expected way.
 
 Examples might include:
 
@@ -234,11 +216,9 @@ Examples might include:
 
 But even this word needs specificity.
 
-> **What exactly is believed to be compromised, and what evidence
-> establishes that?**
+> **What exactly is believed to be compromised, and what evidence establishes that?**
 
-"Compromised person" can also be particularly slippery in political
-conversation.
+"Compromised person" can also be particularly slippery in political conversation.
 
 It might mean anything from:
 
@@ -257,8 +237,7 @@ Name the actual condition wherever possible.
 
 ## 🚨 Breach
 
-**Breach** usually describes a violation of a security boundary,
-requirement or control.
+**Breach** usually describes a violation of a security boundary, requirement or control.
 
 Depending on context, that might mean:
 
@@ -334,11 +313,9 @@ This is one of the most important distinctions in preventive security.
 
 To **exploit** a vulnerability is to use it to achieve some result.
 
-In technical security, an exploit may refer to a method that takes
-advantage of a particular weakness.
+In technical security, an exploit may refer to a method that takes advantage of a particular weakness.
 
-In broader security analysis, exploitation can also describe taking
-advantage of:
+In broader security analysis, exploitation can also describe taking advantage of:
 
 - access;
 - relationships;
@@ -365,11 +342,9 @@ Do not jump from the first box to the last.
 
 ## 🖥️ Intrusion
 
-An **intrusion** generally means unauthorised entry into a system,
-network, account, environment or protected space.
+An **intrusion** generally means unauthorised entry into a system, network, account, environment or protected space.
 
-A technical intrusion is more specific than "something weird happened
-with the phone."
+A technical intrusion is more specific than "something weird happened with the phone."
 
 Evidence might support:
 
@@ -389,8 +364,7 @@ Which brings us to---
 
 ## 🪓 Hack
 
-**Hack** is an extremely useful word if your goal is to make five
-technically different things sound identical.
+**Hack** is an extremely useful word if your goal is to make five technically different things sound identical.
 
 It may refer to:
 
@@ -409,26 +383,20 @@ If you know the mechanism, **name the mechanism**.
 
 If you do not, say what is actually known.
 
-> "The account was accessed without authorisation" is better than
+> "The account was accessed without authorisation" is better than  
 > "hackers hacked the account" if that is all the evidence supports.
 
-Security language becomes clearer remarkably quickly once the word
-**hack** is denied unlimited employment.
+Security language becomes clearer remarkably quickly once the word **hack** is denied unlimited employment.
 
 ---
 
 ## 🥸 Insider Risk / Insider Threat
 
-An **insider** is somebody whose legitimate relationship with an
-organisation gives them some degree of trusted access, knowledge or
-proximity.
+An **insider** is somebody whose legitimate relationship with an organisation gives them some degree of trusted access, knowledge or proximity.
 
-An **insider risk** is the possibility that this position could
-contribute to harm.
+An **insider risk** is the possibility that this position could contribute to harm.
 
-An **insider threat** generally refers to the security threat associated
-with insiders, but public discussion often hears the phrase and
-immediately translates it into:
+An **insider threat** generally refers to the security threat associated with insiders, but public discussion often hears the phrase and immediately translates it into:
 
 > **SECRET TRAITOR**
 
@@ -468,18 +436,15 @@ the victim of an outside actor
 
 See:
 
-[🥸 Insider Threat Does Not Mean
-Spy](./🥸_insider_threat_does_not_mean_spy.md).
+[🥸 Insider Threat Does Not Mean Spy](./🥸_insider_threat_does_not_mean_spy.md).
 
 ---
 
 ## 🛰️ Intelligence Collection
 
-**Intelligence collection** is the acquisition of information for
-intelligence purposes.
+**Intelligence collection** is the acquisition of information for intelligence purposes.
 
-That information does not have to arrive through a recruited spy
-carrying classified documents.
+That information does not have to arrive through a recruited spy carrying classified documents.
 
 Collection can draw upon many kinds of sources, including:
 
@@ -503,18 +468,15 @@ And:
 
 > **Collection does not require the target to knowingly cooperate.**
 
-The collector may simply be observing, acquiring, combining or
-inferring.
+The collector may simply be observing, acquiring, combining or inferring.
 
 ---
 
 ## 🕵️ Espionage
 
-**Espionage** is a substantially stronger and more specific concept than
-"security risk".
+**Espionage** is a substantially stronger and more specific concept than "security risk".
 
-At the broadest level, it concerns obtaining sensitive or protected
-information through clandestine intelligence activity.
+At the broadest level, it concerns obtaining sensitive or protected information through clandestine intelligence activity.
 
 In reporting on an individual, alleging espionage is serious.
 
@@ -550,8 +512,7 @@ person was spying
 
 without evidence supporting every necessary step.
 
-Security analysis becomes **more** useful when it preserves these
-distinctions.
+Security analysis becomes **more** useful when it preserves these distinctions.
 
 It does not become timid.
 
@@ -559,20 +520,15 @@ It does not become timid.
 
 ## 🗣️ Elicitation
 
-**Elicitation** is obtaining useful information through interaction
-without necessarily asking an obvious direct question.
+**Elicitation** is obtaining useful information through interaction without necessarily asking an obvious direct question.
 
-At a high level, this can involve conversation designed to encourage
-somebody to reveal information, context or confirmation.
+At a high level, this can involve conversation designed to encourage somebody to reveal information, context or confirmation.
 
-The person providing the information may not understand its
-significance.
+The person providing the information may not understand its significance.
 
-They may not realise that information is being systematically gathered
-at all.
+They may not realise that information is being systematically gathered at all.
 
-This is one reason security training sometimes contains rules that feel
-strangely cautious about apparently ordinary conversations.
+This is one reason security training sometimes contains rules that feel strangely cautious about apparently ordinary conversations.
 
 The point is not:
 
@@ -580,8 +536,7 @@ The point is not:
 
 The point is:
 
-> **You may understand the value of the information you hold differently
-> from the person trying to obtain it.**
+> **You may understand the value of the information you hold differently from the person trying to obtain it.**
 
 ---
 
@@ -589,9 +544,7 @@ The point is:
 
 **Recruitment** is a much stronger proposition.
 
-In intelligence language, it generally implies that somebody has been
-brought into some form of knowing or managed relationship to provide
-assistance or information.
+In intelligence language, it generally implies that somebody has been brought into some form of knowing or managed relationship to provide assistance or information.
 
 Do not use **recruited** when what you actually mean is:
 
@@ -612,9 +565,7 @@ They are not synonyms.
 
 ## 🍯 Honeypot
 
-A **honeypot** or **honey trap**, in the human-intelligence sense,
-generally refers to the deliberate use of romantic or sexual attraction
-as part of an intelligence or influence operation.
+A **honeypot** or **honey trap**, in the human-intelligence sense, generally refers to the deliberate use of romantic or sexual attraction as part of an intelligence or influence operation.
 
 It is not:
 
@@ -628,15 +579,11 @@ Nor:
 
 > woman standing next to politician.
 
-Actual security analysis requires evidence of deliberate cultivation or
-operational purpose.
+Actual security analysis requires evidence of deliberate cultivation or operational purpose.
 
-More importantly, intelligence exploitation does not require sex or
-romance at all.
+More importantly, intelligence exploitation does not require sex or romance at all.
 
-Friendship, professional relationships, ego, ideology, money, grievance,
-access, coercion, technical surveillance and simple human sociability
-can all matter.
+Friendship, professional relationships, ego, ideology, money, grievance, access, coercion, technical surveillance and simple human sociability can all matter.
 
 See:
 
@@ -646,8 +593,7 @@ See:
 
 ## 👤 Asset / Source / Agent
 
-These words are often used loosely, and terminology varies between
-organisations and contexts.
+These words are often used loosely, and terminology varies between organisations and contexts.
 
 That is precisely why journalists should be careful.
 
@@ -665,11 +611,9 @@ That does not automatically tell you:
 
 ### Asset
 
-**Asset** is used in several ways across intelligence, security and
-popular culture.
+**Asset** is used in several ways across intelligence, security and popular culture.
 
-It can imply a person or capability considered useful to an intelligence
-organisation, but public usage is inconsistent.
+It can imply a person or capability considered useful to an intelligence organisation, but public usage is inconsistent.
 
 If you mean:
 
@@ -685,11 +629,9 @@ do **not** quietly upgrade them into an "asset".
 
 ### Agent
 
-**Agent** is another word with jurisdictional and institutional
-ambiguity.
+**Agent** is another word with jurisdictional and institutional ambiguity.
 
-It may refer to somebody acting on behalf of another actor; in American
-everyday usage it can also mean an officer of an agency such as the FBI.
+It may refer to somebody acting on behalf of another actor; in American everyday usage it can also mean an officer of an agency such as the FBI.
 
 Again:
 
@@ -701,9 +643,7 @@ Do not use spy-film vocabulary as an evidentiary shortcut.
 
 ## 🪪 Clearance
 
-A **security clearance** is part of a system for determining and
-managing eligibility for access to particular categories of sensitive or
-classified information.
+A **security clearance** is part of a system for determining and managing eligibility for access to particular categories of sensitive or classified information.
 
 It is not:
 
@@ -768,29 +708,23 @@ Someone can have:
 
 This matters because:
 
-> **"She did not have access to that document" does not necessarily
-> answer whether she could know, observe or infer the relevant
-> information.**
+> **"She did not have access to that document" does not necessarily answer whether she could know, observe or infer the relevant information.**
 
 Equally:
 
-> **Being physically near sensitive activity does not establish that
-> somebody actually acquired sensitive information.**
+> **Being physically near sensitive activity does not establish that somebody actually acquired sensitive information.**
 
 Again: pathway first, evidence second.
 
 See:
 
-[👀 Access Is More Than Opening The
-Document](./👀_access_is_more_than_opening_the_document.md).
+[👀 Access Is More Than Opening The Document](./👀_access_is_more_than_opening_the_document.md).
 
 ---
 
 ## 🔐 Need-To-Know
 
-**Need-to-know** is the principle that being generally trusted or
-cleared does not automatically entitle somebody to every piece of
-sensitive information.
+**Need-to-know** is the principle that being generally trusted or cleared does not automatically entitle somebody to every piece of sensitive information.
 
 Access should be related to what they require for their function.
 
@@ -812,8 +746,7 @@ It is a way of reducing the attack surface.
 
 ## 🧅 Compartmentation
 
-**Compartmentation** separates sensitive information so that access to
-one area does not automatically provide access to another.
+**Compartmentation** separates sensitive information so that access to one area does not automatically provide access to another.
 
 Think:
 
@@ -833,13 +766,11 @@ welcome to absolutely everything
 
 Compartmentation is one expression of a broader security principle:
 
-> **Assume individual controls will eventually fail and design the
-> system so that one failure does not become universal exposure.**
+> **Assume individual controls will eventually fail and design the system so that one failure does not become universal exposure.**
 
 See:
 
-[🧅 Compartmentation Exists For A
-Reason](./🧅_compartmentation_exists_for_a_reason.md).
+[🧅 Compartmentation Exists For A Reason](./🧅_compartmentation_exists_for_a_reason.md).
 
 ---
 
@@ -859,8 +790,7 @@ Depending upon the system, it can include things such as:
 - file properties;
 - or other contextual records.
 
-Metadata is not automatically trivial merely because it is not message
-content.
+Metadata is not automatically trivial merely because it is not message content.
 
 Patterns can reveal:
 
@@ -887,8 +817,7 @@ See:
 
 ## 🧩 Aggregation
 
-**Aggregation** is what happens when individually limited pieces of
-information become substantially more revealing when combined.
+**Aggregation** is what happens when individually limited pieces of information become substantially more revealing when combined.
 
 ```text
 A + B + C + existing context
@@ -896,9 +825,7 @@ A + B + C + existing context
 something nobody explicitly disclosed
 ```
 
-This is particularly important in political and national-security
-reporting because journalists, researchers, intelligence services and
-ordinary observers can all combine information from multiple sources.
+This is particularly important in political and national-security reporting because journalists, researchers, intelligence services and ordinary observers can all combine information from multiple sources.
 
 The collector does not begin with an empty brain.
 
@@ -911,11 +838,9 @@ Classified](./🧩_a_plus_b_plus_c_equals_classified.md).
 
 ## 🎯 Attribution
 
-**Attribution** is the process of determining who is responsible for an
-action or operation.
+**Attribution** is the process of determining who is responsible for an action or operation.
 
-It is often substantially harder than establishing that something
-happened.
+It is often substantially harder than establishing that something happened.
 
 For example:
 
@@ -933,8 +858,7 @@ assessment of responsible actor
 
 Those steps may require different evidence.
 
-And even where an operation is attributed to infrastructure or operators
-associated with a state, further questions can remain about:
+And even where an operation is attributed to infrastructure or operators associated with a state, further questions can remain about:
 
 - direction;
 - sponsorship;
@@ -944,7 +868,8 @@ associated with a state, further questions can remain about:
 
 The crucial rule:
 
-> **Capability is not attribution. Motive is not attribution.
+> **Capability is not attribution.
+> Motive is not attribution.  
 > Opportunity is not attribution.**
 
 All three may inform an assessment.
@@ -955,8 +880,7 @@ None independently proves it.
 
 ## 🧿 Threat Assessment
 
-A **threat assessment** asks what could plausibly harm the thing being
-protected.
+A **threat assessment** asks what could plausibly harm the thing being protected.
 
 It can consider:
 
@@ -1000,16 +924,13 @@ CAUSED THIS INCIDENT
 
 See:
 
-[🇮🇷 Guys, You Are In A War,
-Remember](./🇮🇷_guys_you_are_in_a_war_remember.md).
+[🇮🇷 Guys, You Are In A War, Remember](./🇮🇷_guys_you_are_in_a_war_remember.md).
 
 ---
 
 ## 🧬 Attack Surface
 
-The **attack surface** is the collection of pathways through which a
-system, person or organisation might be reached, influenced, observed,
-accessed or exploited.
+The **attack surface** is the collection of pathways through which a system, person or organisation might be reached, influenced, observed, accessed or exploited.
 
 For modern political institutions, that can include:
 
@@ -1043,16 +964,13 @@ The point is that:
 
 See:
 
-[🧬 The Attack Surface Has More Than One
-Strand](./🧬_the_attack_surface_has_more_than_one_strand.md).
+[🧬 The Attack Surface Has More Than One Strand](./🧬_the_attack_surface_has_more_than_one_strand.md).
 
 ---
 
 ## 🦠 Porosity
 
-**Porosity** is useful Polaris shorthand for an environment containing
-multiple poorly controlled pathways through which information, access or
-influence can move.
+**Porosity** is useful Polaris shorthand for an environment containing multiple poorly controlled pathways through which information, access or influence can move.
 
 One mistake may be an incident.
 
@@ -1070,14 +988,11 @@ porous environment
 
 Porosity does not tell you who exploited anything.
 
-It tells you that there may be too many routes available for
-investigators to sensibly treat one suspected person as the whole
-security model.
+It tells you that there may be too many routes available for investigators to sensibly treat one suspected person as the whole security model.
 
 See:
 
-[🦠 Porosity Is A Security
-Failure](./🦠_porosity_is_a_security_failure.md).
+[🦠 Porosity Is A Security Failure](./🦠_porosity_is_a_security_failure.md).
 
 ---
 
@@ -1199,8 +1114,7 @@ SPY FILM PLOT WE LIKE
 
 Precision does not make the story less interesting.
 
-Usually it reveals that the actual story is **more interesting than the
-shorthand**.
+Usually it reveals that the actual story is **more interesting than the shorthand**.
 
 ---
 
@@ -1210,18 +1124,13 @@ Security language should help us distinguish hypotheses.
 
 It should not conceal them.
 
-If you call every unexplained information escape a **leak**, you have
-already chosen a human disclosure mechanism.
+If you call every unexplained information escape a **leak**, you have already chosen a human disclosure mechanism.
 
-If you call every strange technical event a **hack**, you may have
-claimed a technical mechanism you cannot establish.
+If you call every strange technical event a **hack**, you may have claimed a technical mechanism you cannot establish.
 
-If you call every insider-associated risk a **spy**, you have
-transformed security analysis into accusation.
+If you call every insider-associated risk a **spy**, you have transformed security analysis into accusation.
 
-And if you call every capable foreign intelligence service the
-perpetrator of every unexplained incident, you have simply replaced one
-lazy threat model with another.
+And if you call every capable foreign intelligence service the perpetrator of every unexplained incident, you have simply replaced one lazy threat model with another.
 
 The useful discipline is less exciting and considerably more powerful:
 
@@ -1238,7 +1147,9 @@ Security is complicated enough without making the vocabulary lie.
 ---
 
 ## 🌌 Constellations  
-🦑 ☎️ 🪪 🧿 🕸️ — security literacy; evidential discipline; personnel assurance; threat assessment; information exposure.
+🦑 ☎️ 🪪 🧿 🕸️ — security literacy; evidential discipline; personnel assurance; threat assessment; information exposure.  
+
+---
 
 ## ✨ Stardust  
 information security, security language, threat assessment, information exposure, personnel security, insider risk, counterintelligence, attribution, press literacy
@@ -1247,49 +1158,31 @@ information security, security language, threat assessment, information exposure
 
 ## 🏮 Footer
 
-*🦑 Security Language For Normal People* is a living node of the
-**Polaris Protocol**.
-It provides a plain-language vocabulary for reporting and reasoning
-about information-security, personnel-security and counterintelligence
-questions without silently converting possibilities into established
-mechanisms or allegations.
+*🦑 Security Language For Normal People* is a living node of the **Polaris Protocol**.  
+
+It provides a plain-language vocabulary for reporting and reasoning about information-security, personnel-security, and counterintelligence questions, without silently converting possibilities into established mechanisms or allegations.
 
 > 📡 Cross-references:
 >
-> - [☎️ The Call Is Coming From Inside The
->     House](./☎️_the_call_is_coming_from_inside_the_house.md) — *why
->     an observed information outcome does not establish a deliberate
->     leak mechanism*
-> - [🪪 Clearance Is Not A
->     Lanyard](./🪪_clearance_is_not_a_lanyard.md) — *clearance,
->     personnel assurance, access and compensating controls*
-> - [👀 Access Is More Than Opening The
->     Document](./👀_access_is_more_than_opening_the_document.md) —
->     *direct, indirect, physical, contextual and inferential access*
-> - [🧬 The Attack Surface Has More Than One
->     Strand](./🧬_the_attack_surface_has_more_than_one_strand.md) —
->     *human, technical, physical, social and organisational security
->     surfaces*
-> - [🧩 A Plus B Plus C Equals
->     Classified](./🧩_a_plus_b_plus_c_equals_classified.md) —
->     *aggregation and inferential disclosure*
-> - [📞 Metadata Can Tell The
->     Story](./📞_metadata_can_tell_the_story.md) — *patterns and
->     contextual information beyond message content*
-> - [🥸 Insider Threat Does Not Mean
->     Spy](./🥸_insider_threat_does_not_mean_spy.md) —
->     *insider-associated risk without premature espionage allegations*
-> - [🦠 Porosity Is A Security
->     Failure](./🦠_porosity_is_a_security_failure.md) — *systemic
->     exposure architecture beyond individual culpability*
-> - [🇮🇷 Guys, You Are In A War,
->     Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) — *threat
->     assessment versus attribution in an active international security
->     environment*
-> - [✍️ Questions Journalists Should Actually
->     Ask](./✍️_questions_journalists_should_actually_ask.md) —
->     *practical reporting prompts for preserving these distinctions*
+> - [☎️ The Call Is Coming From Inside The House](./☎️_the_call_is_coming_from_inside_the_house.md) — *why an observed information outcome does not establish a deliberate leak mechanism*
+> - [🪪 Clearance Is Not A Lanyard](./🪪_clearance_is_not_a_lanyard.md) — *clearance, personnel assurance, access and compensating controls*
+> - [👀 Access Is More Than Opening The Document](./👀_access_is_more_than_opening_the_document.md) — *direct, indirect, physical, contextual and inferential access*
+> - [🧬 The Attack Surface Has More Than One Strand](./🧬_the_attack_surface_has_more_than_one_strand.md) — *human, technical, physical, social and organisational security surfaces*
+> - [🧩 A Plus B Plus C Equals Classified](./🧩_a_plus_b_plus_c_equals_classified.md) — *aggregation and inferential disclosure*
+> - [📞 Metadata Can Tell The Story](./📞_metadata_can_tell_the_story.md) — *patterns and contextual information beyond message content*
+> - [🥸 Insider Threat Does Not Mean Spy](./🥸_insider_threat_does_not_mean_spy.md) — *insider-associated risk without premature espionage allegations*
+> - [🦠 Porosity Is A Security Failure](./🦠_porosity_is_a_security_failure.md) — *systemic exposure architecture beyond individual culpability*
+> - [🇮🇷 Guys, You Are In A War, Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) — *threat assessment versus attribution in an active international security environment*
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *practical reporting prompts for preserving these distinctions*
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
