@@ -1,5 +1,5 @@
 ﻿# 🕸️ You Do Not Need A Leaker
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
 *Why sensitive information appearing outside a protected environment does not, by itself, establish deliberate human disclosure.*
 
 ---
@@ -605,7 +605,9 @@ Not because the headline supplied it for you.
 ---
 
 ## 🌌 Constellations  
-🕸️ 🧩 📞 🥸 ⚖️ — exposure mechanisms; aggregation; metadata; insider risk; evidential discipline.
+🕸️ 🧩 📞 🥸 ⚖️ — exposure mechanisms; aggregation; metadata; insider risk; evidential discipline.  
+
+---
 
 ## ✨ Stardust  
 information security, unauthorised disclosure, information exposure, technical compromise, aggregation risk, metadata, insider risk, attribution, incident investigation
@@ -615,7 +617,9 @@ information security, unauthorised disclosure, information exposure, technical c
 ## 🏮 Footer  
 
 *🕸️ You Do Not Need A Leaker* is a living node of the **Polaris Protocol**.  
-It distinguishes the outcome of sensitive information becoming externally available from the mechanism that produced that outcome. Within the White House Snitches cluster, it synthesises aggregation, metadata, endpoint and observational pathways before the folder turns to insider-risk and exploitation language, while retaining deliberate disclosure as a real hypothesis that must be established rather than assumed.
+
+It distinguishes the outcome of sensitive information becoming externally available from the mechanism that produced that outcome.  
+Within the White House Snitches cluster, it synthesises aggregation, metadata, endpoint and observational pathways before the folder turns to insider-risk and exploitation language, while retaining deliberate disclosure as a real hypothesis that must be established rather than assumed.
 
 > 📡 Cross-references:
 >
@@ -626,8 +630,16 @@ It distinguishes the outcome of sensitive information becoming externally availa
 > - [🧬 The Attack Surface Has More Than One Strand](./🧬_the_attack_surface_has_more_than_one_strand.md) — *the wider sociotechnical system in which several exposure mechanisms can interact*  
 > - [🧅 Compartmentation Exists For A Reason](./🧅_compartmentation_exists_for_a_reason.md) — *why identifying a responsible person does not remove the need to examine architectural blast radius and containment*  
 > - [🥸 Insider Threat Does Not Mean Spy](./🥸_insider_threat_does_not_mean_spy.md) — *the distinction between insider-associated risk, error, compromise, deliberate misuse and espionage*  
-> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *practical reporting prompts for establishing mechanism before attribution*  
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *practical reporting prompts for establishing mechanism before attribution*
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
