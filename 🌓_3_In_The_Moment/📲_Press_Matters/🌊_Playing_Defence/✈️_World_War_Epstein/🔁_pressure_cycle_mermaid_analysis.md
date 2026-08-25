@@ -370,7 +370,15 @@ It maps recurrence.
 > - [🧮 Association Leakage And Metadata Escalation](./🧮_association_leakage_and_metadata_escalation.md) — *technical mechanism for weak-signal movement*  
 > - [🧬 Shared Risk Calendar And Chain Dependency](./🧬_shared_risk_calendar_and_chain_dependency.md) — *legal calendars as strategic pressure points*  
 > - [🧯 What Journalists Should Check Next](./🧯_what_journalists_should_check_next.md) — *press-facing verification checklist*  
-> - [🛡️ What Defence Planners Should Model](./🛡️_what_defence_planners_should_model.md) — *planning model for brittleness and exposure*  
+> - [🛡️ What Defence Planners Should Model](./🛡️_what_defence_planners_should_model.md) — *planning model for brittleness and exposure*
+>
+> 🏮 Return To:
+>
+> - [✈️ World War Epstein](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
