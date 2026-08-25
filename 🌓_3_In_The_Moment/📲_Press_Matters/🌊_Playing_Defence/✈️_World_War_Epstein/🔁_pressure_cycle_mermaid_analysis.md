@@ -1,5 +1,5 @@
 # 🔁 Pressure Cycle Mermaid Analysis  
-**First created:** 2026-06-22 | **Last updated:** 2026-06-22  
+**First created:** 2026-06-22 | **Last updated:** 2026-08-25  
 *A visual analysis node showing how legal exposure, disclosure pressure, state activation, defence compression, attribution lag, and legitimacy fallout cycle through the `✈️_World_War_Epstein` cluster.*
 
 ---
@@ -354,7 +354,7 @@ pressure cycle, mermaid, Track A, Track B, Track C, Track D, legal calendar, att
 
 ## 🏮 Footer  
 
-*Pressure Cycle Mermaid Analysis* is a living node of the **Polaris Protocol**.  
+*🔁 Pressure Cycle Mermaid Analysis* is a living node of the **Polaris Protocol**.  
 It turns the Track A / B / C / D quick-reference CSV into a visual cycle model for analysis, reporting, and defence planning.
 
 It does not claim causation.
@@ -374,4 +374,4 @@ It maps recurrence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-22_
+_Last updated: 2026-08-25_
