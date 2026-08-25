@@ -1,5 +1,5 @@
 ﻿# 🧅 Compartmentation Exists For A Reason
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
 *Why competent security assumes that people, devices and controls will eventually fail — and designs the system so that one failure does not become every failure.*
 
 ---
@@ -638,7 +638,9 @@ That is why compartmentation exists.
 ---
 
 ## 🌌 Constellations  
-🧅 🪪 📱 🧬 🦠 — compartmentation; personnel assurance; endpoint failure; attack surfaces; institutional porosity.
+🧅 🪪 📱 🧬 🦠 — compartmentation; personnel assurance; endpoint failure; attack surfaces; institutional porosity.  
+
+---
 
 ## ✨ Stardust  
 information security, compartmentation, need to know, least privilege, defence in depth, access control, blast radius, aggregation risk, security assurance
@@ -648,7 +650,9 @@ information security, compartmentation, need to know, least privilege, defence i
 ## 🏮 Footer  
 
 *🧅 Compartmentation Exists For A Reason* is a living node of the **Polaris Protocol**.  
-It explains compartmentation as containment architecture: a way of limiting unnecessary access, reducing aggregation risk and constraining the blast radius when people, endpoints or individual controls fail. Within the White House Snitches cluster, it completes the access-and-architecture block before the folder moves into specific information pathways, insider risk and institutional porosity.
+
+It explains compartmentation as containment architecture: a way of limiting unnecessary access, reducing aggregation risk and constraining the blast radius when people, endpoints or individual controls fail.  
+Within the White House Snitches cluster, it completes the access-and-architecture block before the folder moves into specific information pathways, insider risk and institutional porosity.
 
 > 📡 Cross-references:
 >
@@ -659,8 +663,16 @@ It explains compartmentation as containment architecture: a way of limiting unne
 > - [🧩 A Plus B Plus C Equals Classified](./🧩_a_plus_b_plus_c_equals_classified.md) — *aggregation risk and the composition of individually limited information fragments*  
 > - [🥸 Insider Threat Does Not Mean Spy](./🥸_insider_threat_does_not_mean_spy.md) — *human-associated security risk without collapsing error, compromise and malicious intent*  
 > - [🦠 Porosity Is A Security Failure](./🦠_porosity_is_a_security_failure.md) — *what happens when nominal security boundaries are repeatedly weakened or bypassed*  
-> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting prompts for testing whether layered controls actually contained the incident*  
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting prompts for testing whether layered controls actually contained the incident*
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
