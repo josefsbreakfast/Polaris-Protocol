@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-25 14:33:52 UTC_
+_Generated on 2026-08-25 17:40:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5071,6 +5071,10 @@ _Generated on 2026-08-25 14:33:52 UTC_
         - [`🪞_echoes_and_the_ring_of_power.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/✨_Letters/🪞_echoes_and_the_ring_of_power.md)
         - [`🪬_displacement_writing.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/✨_Letters/🪬_displacement_writing.md)
         - [`🪻_why_them.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/✨_Letters/🪻_why_them.md)
+      - [**🌌_Polaris_vs_Books/**](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/)
+        - [**🌳_FotR/**](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/🌳_FotR/)
+          - [`20260825_prologue.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/🌳_FotR/20260825_prologue.md)
+          - [`README.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/🌳_FotR/README.md)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/README.md)
       - [`🚀_beyond_duel_use.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🚀_beyond_duel_use.md)
     - [**🗄️_Room_101/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/)
