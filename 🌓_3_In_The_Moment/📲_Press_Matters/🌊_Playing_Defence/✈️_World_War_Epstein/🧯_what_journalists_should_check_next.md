@@ -1,5 +1,5 @@
 # 🧯 What Journalists Should Check Next  
-**First created:** 2026-06-21 | **Last updated:** 2026-06-21  
+**First created:** 2026-06-21 | **Last updated:** 2026-08-25  
 *Practical verification questions for reporting on legal-disclosure pressure, elite exposure, defence comms, and brittle escalation without overclaiming.*
 
 ---
@@ -362,7 +362,7 @@ journalism, reporting checklist, Epstein files, Mandelson, Andrew comparator, Ak
 
 ## 🏮 Footer  
 
-*What Journalists Should Check Next* is a living node of the **Polaris Protocol**.  
+*🧯 What Journalists Should Check Next* is a living node of the **Polaris Protocol**.  
 It turns the `✈️_World_War_Epstein` cluster into practical reporting questions.
 
 It does not ask journalists to believe the pattern.
@@ -381,4 +381,4 @@ It asks them to check it properly.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-21_
+_Last updated: 2026-08-25_
