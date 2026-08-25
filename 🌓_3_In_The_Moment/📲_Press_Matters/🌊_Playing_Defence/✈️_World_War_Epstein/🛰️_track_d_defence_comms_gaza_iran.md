@@ -1,5 +1,5 @@
 # 🛰️ Track D — Defence Comms Gaza Iran  
-**First created:** 2026-06-21 | **Last updated:** 2026-06-21  
+**First created:** 2026-06-21 | **Last updated:** 2026-08-25  
 *Defence posture, public comms, Gaza ceasefire context, Iran escalation, Russia movement, Akrotiri attribution, and allied-reaction anomalies for the `✈️_World_War_Epstein` cluster.*
 
 ---
@@ -462,7 +462,7 @@ defence comms, Gaza ceasefire, Iran escalation, Operation Epic Fury, Akrotiri, R
 
 ## 🏮 Footer  
 
-*Track D — Defence Comms Gaza Iran* is a living node of the **Polaris Protocol**.  
+*🛰️ Track D — Defence Comms Gaza Iran* is a living node of the **Polaris Protocol**.  
 It tracks the defence, diplomacy, attribution, public-comms, Gaza, Iran, Russia, China, and allied-reaction layer of the `✈️_World_War_Epstein` cluster.
 
 It should be read beside Track A, Track B, and Track C.
@@ -483,4 +483,4 @@ It maps symptoms, posture, and brittleness.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-21_
+_Last updated: 2026-08-25_
