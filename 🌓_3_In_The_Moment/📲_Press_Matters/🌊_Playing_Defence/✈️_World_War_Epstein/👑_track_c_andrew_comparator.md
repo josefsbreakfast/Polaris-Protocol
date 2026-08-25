@@ -338,7 +338,15 @@ It tests whether the pattern is Mandelson-specific, Epstein-general, royal/media
 > - [🗓️ Track A Epstein Release Calendar](./🗓️_track_a_epstein_release_calendar.md) — *broad Epstein disclosure and oversight pressure*  
 > - [📲 Track B Mandelson State System Risk](./📲_track_b_mandelson_state_system_risk.md) — *Mandelson-specific state-system exposure*  
 > - [🛰️ Track D Defence Comms Gaza Iran](./🛰️_track_d_defence_comms_gaza_iran.md) — *defence and comms anomaly calendar*  
-> - [🧮 Association Leakage And Metadata Escalation](./🧮_association_leakage_and_metadata_escalation.md) — *technical mechanism for weak-signal movement*  
+> - [🧮 Association Leakage And Metadata Escalation](./🧮_association_leakage_and_metadata_escalation.md) — *technical mechanism for weak-signal movement*
+>
+> 🏮 Return To:
+>
+> - [✈️ World War Epstein](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
