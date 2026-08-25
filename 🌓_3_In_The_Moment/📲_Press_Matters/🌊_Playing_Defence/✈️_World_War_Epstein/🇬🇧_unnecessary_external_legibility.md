@@ -533,10 +533,17 @@ defence policy, national security, secrecy, transparency, external legibility, a
 
 > 📡 Cross-references:
 >
-> - [🌊 Playing Defence](../) — *wider analysis of defence behaviour, security posture and strategic signalling*
-> - [✈️ World War Epstein](./) — *tracking the interaction between contemporary defence behaviour, institutional legibility and political governance*
-> - [⚖️ Legal State Governance](../../../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/) — *accountability, lawful authority and governance constraints*
-> - [💫 Containment Logic](../../../../../Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/💫_Containment_Logic/) — *feedback, boundary and containment analysis*
+> - [🇷🇺 Why Russia Moved Oddly For Russia](./🇷🇺_why_russia_moved_oddly_for_russia.md)  
+> - [🇨🇳 China As Control Case](./🇨🇳_china_as_control_case.md)  
+> - [🇬🇧 Akrotiri Attribution And UK Exposure](./🇬🇧_akrotiri_attribution_and_uk_exposure.md)  
+>
+> 🏮 Return To:
+>
+> - [✈️ World War Epstein](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
