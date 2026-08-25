@@ -468,7 +468,15 @@ The restraint is the signal.
 > - [🧮 Association Leakage And Metadata Escalation](./🧮_association_leakage_and_metadata_escalation.md) — *technical mechanism for weak-signal movement*  
 > - [🧬 Shared Risk Calendar And Chain Dependency](./🧬_shared_risk_calendar_and_chain_dependency.md) — *legal calendars as strategic pressure points*  
 > - [🇨🇳 China As Control Case](./🇨🇳_china_as_control_case.md) — *contrast with ordinary strategic-partner behaviour*  
-> - [🇬🇧 Akrotiri Attribution And UK Exposure](./🇬🇧_akrotiri_attribution_and_uk_exposure.md) — *UK attribution and base-exposure case note*  
+> - [🇬🇧 Akrotiri Attribution And UK Exposure](./🇬🇧_akrotiri_attribution_and_uk_exposure.md) — *UK attribution and base-exposure case note*
+>
+> 🏮 Return To:
+>
+> - [✈️ World War Epstein](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
