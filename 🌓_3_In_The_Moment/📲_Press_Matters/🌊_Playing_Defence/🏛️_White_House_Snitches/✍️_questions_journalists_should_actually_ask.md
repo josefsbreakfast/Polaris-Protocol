@@ -1,5 +1,5 @@
 ﻿# ✍️ Questions Journalists Should Actually Ask
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
 *A practical reporting checklist for separating access, vulnerability, mechanism, intent and attribution when a political security story starts collapsing into “who leaked?”*
 
 ---
@@ -744,7 +744,9 @@ And please, for the love of every exhausted security professional watching the s
 ---
 
 ## 🌌 Constellations  
-✍️ ☎️ 🪪 🕸️ 🛡️ — security reporting; access and assurance; mechanism testing; attribution discipline; defensive accountability.
+✍️ ☎️ 🪪 🕸️ 🛡️ — security reporting; access and assurance; mechanism testing; attribution discipline; defensive accountability.  
+
+---
 
 ## ✨ Stardust  
 journalism, information security, security reporting, counterintelligence, access control, personnel assurance, incident investigation, attribution, evidential discipline
@@ -753,7 +755,8 @@ journalism, information security, security reporting, counterintelligence, acces
 
 ## 🏮 Footer  
 
-*✍️ Questions Journalists Should Actually Ask* is a living node of the **Polaris Protocol**.  
+*✍️ Questions Journalists Should Actually Ask* is a living node of the **Polaris Protocol**.   
+
 It converts the White House Snitches cluster into a practical reporting workflow for distinguishing information outcomes, access, assurance, technical and human mechanisms, external threat context, evidential confidence and attribution. It is intended as a desk-side checklist: enough security literacy to ask better questions without pretending journalism and counterintelligence are the same profession.
 
 > 📡 Cross-references:
@@ -770,8 +773,16 @@ It converts the White House Snitches cluster into a practical reporting workflow
 > - [🍯 Honeypots Are Not Magic](./🍯_honeypots_are_not_magic.md) — *why occupational proximity and human exploitation should not be reduced to a cinematic seduction narrative*  
 > - [🦠 Porosity Is A Security Failure](./🦠_porosity_is_a_security_failure.md) — *how recurring exceptions and weak seams turn a discrete incident into an institutional security condition*  
 > - [🇮🇷 Guys, You Are In A War. Remember?](./🇮🇷_guys_you_are_in_a_war_remember.md) — *the external threat environment and the boundary between threat modelling and attribution*  
-> - [🛡️ Useful Old-School Defence Expertise](./🛡️_useful_old_school_defence_expertise.md) — *the institutional and technical expertise needed to turn identified risk into actual defensive control*  
+> - [🛡️ Useful Old-School Defence Expertise](./🛡️_useful_old_school_defence_expertise.md) — *the institutional and technical expertise needed to turn identified risk into actual defensive control*
+> 
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
