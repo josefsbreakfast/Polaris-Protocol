@@ -1,5 +1,5 @@
 # 👑 Track C — Andrew Comparator  
-**First created:** 2026-06-21 | **Last updated:** 2026-06-21  
+**First created:** 2026-06-21 | **Last updated:** 2026-08-25  
 *Using Andrew-related Epstein dates as a comparator for royal, trade-envoy, government-information, and state-system exposure.*
 
 ---
@@ -324,7 +324,7 @@ Andrew Mountbatten-Windsor, Prince Andrew, Epstein files, trade envoy, misconduc
 
 ## 🏮 Footer  
 
-*Track C — Andrew Comparator* is a living node of the **Polaris Protocol**.  
+*👑 Track C — Andrew Comparator* is a living node of the **Polaris Protocol**.  
 It provides the comparator track for the `✈️_World_War_Epstein` cluster.
 
 It should be read beside Track A, Track B, and Track D.
@@ -342,4 +342,4 @@ It tests whether the pattern is Mandelson-specific, Epstein-general, royal/media
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-21_
+_Last updated: 2026-08-25_
