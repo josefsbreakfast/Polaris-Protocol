@@ -479,7 +479,15 @@ It maps symptoms, posture, and brittleness.
 > - [🧮 Association Leakage And Metadata Escalation](./🧮_association_leakage_and_metadata_escalation.md) — *technical mechanism for weak-signal movement*  
 > - [🇷🇺 Why Russia Moved Oddly For Russia](./🇷🇺_why_russia_moved_oddly_for_russia.md) — *Russia-specific anomaly note*  
 > - [🇨🇳 China As Control Case](./🇨🇳_china_as_control_case.md) — *ordinary strategic-partner comparison*  
-> - [🇬🇧 Akrotiri Attribution And UK Exposure](./🇬🇧_akrotiri_attribution_and_uk_exposure.md) — *UK base exposure and attribution node*  
+> - [🇬🇧 Akrotiri Attribution And UK Exposure](./🇬🇧_akrotiri_attribution_and_uk_exposure.md) — *UK base exposure and attribution node*
+>
+> 🏮 Return To:
+>
+> - [✈️ World War Epstein](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
