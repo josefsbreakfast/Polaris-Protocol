@@ -1,5 +1,5 @@
 # 🇬🇧 Akrotiri Attribution And UK Exposure  
-**First created:** 2026-06-21 | **Last updated:** 2026-06-21  
+**First created:** 2026-06-21 | **Last updated:** 2026-08-25  
 *RAF Akrotiri, attribution lag, UK base exposure, Cyprus sovereignty pressure, and why “who launched the drone?” matters for defence planning.*
 
 ---
@@ -390,7 +390,7 @@ RAF Akrotiri, Cyprus, UK bases, Iranian-made drone, Hezbollah, IRGC, attribution
 
 ## 🏮 Footer  
 
-*Akrotiri Attribution And UK Exposure* is a living node of the **Polaris Protocol**.  
+*🇬🇧 Akrotiri Attribution And UK Exposure* is a living node of the **Polaris Protocol**.  
 It tracks RAF Akrotiri as a UK exposure point inside the `✈️_World_War_Epstein` cluster.
 
 It should be read as a case note on attribution and alliance geography.
@@ -408,4 +408,4 @@ Not a proof claim.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-21_
+_Last updated: 2026-08-25_
