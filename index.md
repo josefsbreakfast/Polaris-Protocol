@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-24 23:36:47 UTC_
+_Generated on 2026-08-25 01:31:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -895,6 +895,8 @@ _Generated on 2026-08-24 23:36:47 UTC_
         - [`🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🩹_loop_triad_tickbox_containment_fatigue_patch_repair.md)
         - [`🪡_oversight_repair_kit.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🪡_oversight_repair_kit.md)
         - [`🫀_ai_black_box_inquests.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Governance_Repair_Shop/🫀_ai_black_box_inquests.md)
+      - [**🧬_Start_Here/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Start_Here/)
+        - [`🪭_austen_cybernetics_101.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Start_Here/🪭_austen_cybernetics_101.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
       - [`🌀_absorption_and_selective_sacrifice.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🌀_absorption_and_selective_sacrifice.md)
