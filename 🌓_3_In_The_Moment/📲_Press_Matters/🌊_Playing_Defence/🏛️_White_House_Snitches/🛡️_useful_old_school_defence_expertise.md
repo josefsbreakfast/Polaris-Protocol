@@ -1,5 +1,5 @@
 ﻿# 🛡️ Useful Old-School Defence Expertise
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
 *How older defence, intelligence and protective-security knowledge can be translated for an Information Age problem without pretending the technology never changed.*
 
 ---
@@ -887,6 +887,7 @@ defence, information security, counterintelligence, institutional memory, defenc
 ## 🏮 Footer
 
 *🛡️ Useful Old-School Defence Expertise* is a living node of the **Polaris Protocol**.  
+
 It recovers durable principles from older defence, intelligence, counterintelligence and protective-security practice and translates them into an Information Age environment of connected endpoints, cloud systems, metadata, relationship graphs and machine-scale aggregation. Within the White House Snitches cluster, it provides the constructive turn: the technologies are new in important ways, but governments do not need to rediscover adversarial security from first principles.
 
 > 📡 Cross-references:
@@ -899,8 +900,16 @@ It recovers durable principles from older defence, intelligence, counterintellig
 > - [📞 Metadata Can Tell The Story](./📞_metadata_can_tell_the_story.md) — *traffic-analysis logic translated into contemporary communication environments*  
 > - [🦠 Porosity Is A Security Failure](./🦠_porosity_is_a_security_failure.md) — *why modern security failures often live at the joins between individually managed systems*  
 > - [🇮🇷 Guys, You Are In A War. Remember?](./🇮🇷_guys_you_are_in_a_war_remember.md) — *the adversarial environment against which defensive assumptions should be tested*  
-> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *a public-facing translation of the security distinctions journalists need to report these incidents competently*  
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *a public-facing translation of the security distinctions journalists need to report these incidents competently*
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
