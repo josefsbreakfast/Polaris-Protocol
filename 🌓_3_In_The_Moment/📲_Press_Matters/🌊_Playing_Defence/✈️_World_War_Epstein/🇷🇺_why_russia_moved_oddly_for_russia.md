@@ -1,5 +1,5 @@
 # 🇷🇺 Why Russia Moved Oddly For Russia  
-**First created:** 2026-06-21 | **Last updated:** 2026-06-21  
+**First created:** 2026-06-21 | **Last updated:** 2026-08-25  
 *Russia’s early, semi-visible, oddly restrained movement around Israel / Iran as a signal of foreknowledge risk, exposure management, or shared dependency.*
 
 ---
@@ -453,7 +453,7 @@ Russia, Kremlin, Ukraine, Israel, Iran, embassy evacuation, RWZ016, RA-64516, fo
 
 ## 🏮 Footer  
 
-*Why Russia Moved Oddly For Russia* is a living node of the **Polaris Protocol**.  
+*🇷🇺 Why Russia Moved Oddly For Russia* is a living node of the **Polaris Protocol**.  
 It tracks the Russia-specific anomaly inside the `✈️_World_War_Epstein` cluster.
 
 It should be read as an anomaly note, not a proof claim.
@@ -472,4 +472,4 @@ The restraint is the signal.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-21_
+_Last updated: 2026-08-25_
