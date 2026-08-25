@@ -1,5 +1,5 @@
 # 🇨🇳 China As Control Case  
-**First created:** 2026-06-21 | **Last updated:** 2026-06-21  
+**First created:** 2026-06-21 | **Last updated:** 2026-08-25  
 *Why China’s later, more conventional Iran-facing behaviour helps distinguish ordinary strategic-partner response from Russia’s stranger early sensitivity.*
 
 ---
@@ -330,7 +330,7 @@ China, Iran, strategic partner, control case, Russia anomaly, Gulf shipping, oil
 
 ## 🏮 Footer  
 
-*China As Control Case* is a living node of the **Polaris Protocol**.  
+*🇨🇳 China As Control Case* is a living node of the **Polaris Protocol**.  
 It provides the comparison case for the `✈️_World_War_Epstein` cluster.
 
 It should be read beside the Russia anomaly node and Track D.
@@ -350,4 +350,4 @@ That difference is the point.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-21_
+_Last updated: 2026-08-25_
