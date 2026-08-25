@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-25 14:15:01 UTC_
+_Generated on 2026-08-25 14:20:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4561,7 +4561,6 @@ _Generated on 2026-08-25 14:15:01 UTC_
           - [`notes.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌍_Regime_And_State_Capability_Studies/notes.md)
         - [**🌡️_When_The_Pot_Gets_Too_Small/**](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/)
           - [`README.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/README.md)
-          - [`notes.txt`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/notes.txt)
           - [`⚔️_war_sanctions_and_external_shock.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/⚔️_war_sanctions_and_external_shock.md)
           - [`🌪️_the_system_under_pressure.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/🌪️_the_system_under_pressure.md)
           - [`🎯_category_expansion_and_false_positives.md`](🌔_4_Small_Steps/🚀_DADA/💾_Capabilities/🥀_Little_Database_Of_Horrors/🌡️_When_The_Pot_Gets_Too_Small/🎯_category_expansion_and_false_positives.md)
