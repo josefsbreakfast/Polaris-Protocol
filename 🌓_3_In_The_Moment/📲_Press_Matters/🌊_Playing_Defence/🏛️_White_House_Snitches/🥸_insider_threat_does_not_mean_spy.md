@@ -1,5 +1,5 @@
 ﻿# 🥸 Insider Threat Does Not Mean Spy
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
 *Why being inside a security boundary describes access and position — not motive, allegiance or guilt.*
 
 ---
@@ -669,7 +669,9 @@ And remember:
 ---
 
 ## 🌌 Constellations  
-🥸 🪪 👀 🕸️ 🍯 — insider risk; personnel assurance; access; non-leaker mechanisms; exploitation.
+🥸 🪪 👀 🕸️ 🍯 — insider risk; personnel assurance; access; non-leaker mechanisms; exploitation.  
+
+---
 
 ## ✨ Stardust  
 insider threat, insider risk, personnel security, security clearance, access control, occupational proximity, executive assistants, feminised labour, technical compromise, espionage, evidential discipline
@@ -679,7 +681,9 @@ insider threat, insider risk, personnel security, security clearance, access con
 ## 🏮 Footer  
 
 *🥸 Insider Threat Does Not Mean Spy* is a living node of the **Polaris Protocol**.  
-It separates legitimate insider status from error, compromise, deliberate misuse and espionage, while examining how institutional architecture and the gendered interpretation of support work can obscure the actual security significance of occupational access. Within the White House Snitches cluster, it moves the mechanisms block from information pathways into human-associated risk before the folder turns to exploitation and the mythology of the honeypot.
+
+It separates legitimate insider status from error, compromise, deliberate misuse and espionage, while examining how institutional architecture and the gendered interpretation of support work can obscure the actual security significance of occupational access.  
+Within the White House Snitches cluster, it moves the mechanisms block from information pathways into human-associated risk before the folder turns to exploitation and the mythology of the honeypot.
 
 > 📡 Cross-references:
 >
@@ -689,8 +693,16 @@ It separates legitimate insider status from error, compromise, deliberate misuse
 > - [🧅 Compartmentation Exists For A Reason](./🧅_compartmentation_exists_for_a_reason.md) — *why ordinary human failure should be contained rather than allowed to become institution-wide exposure*  
 > - [🕸️ You Do Not Need A Leaker](./🕸️_you_do_not_need_a_leaker.md) — *why insider access does not by itself establish deliberate insider disclosure as the mechanism*  
 > - [🍯 Honeypots Are Not Magic](./🍯_honeypots_are_not_magic.md) — *targeting, exploitation and access beyond the cinematic seduction-and-recruitment model*  
-> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting prompts for separating access, targeting, compromise, intent and espionage*  
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting prompts for separating access, targeting, compromise, intent and espionage*
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
