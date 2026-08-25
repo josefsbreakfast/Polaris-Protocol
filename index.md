@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-25 21:55:57 UTC_
+_Generated on 2026-08-25 21:58:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3517,10 +3517,10 @@ _Generated on 2026-08-25 21:55:57 UTC_
     - [**🌊_Playing_Defence/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/)
       - [**✈️_World_War_Epstein/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/README.md)
-        - [`uk_labour_defence_policy_chronology_2024_2026.xlsx`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/uk_labour_defence_policy_chronology_2024_2026.xlsx)
         - [`✂️_world_war_epstein_tracks_quick_reference.csv`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/✂️_world_war_epstein_tracks_quick_reference.csv)
         - [`🇨🇳_china_as_control_case.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🇨🇳_china_as_control_case.md)
         - [`🇬🇧_akrotiri_attribution_and_uk_exposure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🇬🇧_akrotiri_attribution_and_uk_exposure.md)
+        - [`🇬🇧_labour_defence_policy_chronology_2024_2026.xlsx`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🇬🇧_labour_defence_policy_chronology_2024_2026.xlsx)
         - [`🇬🇧_unnecessary_external_legibility.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🇬🇧_unnecessary_external_legibility.md)
         - [`🇷🇺_why_russia_moved_oddly_for_russia.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/🇷🇺_why_russia_moved_oddly_for_russia.md)
         - [`👑_track_c_andrew_comparator.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/👑_track_c_andrew_comparator.md)
