@@ -1,5 +1,5 @@
 # 👀 Access Is More Than Opening The Document
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
 *Why sensitive access is a map of permissions, proximity, observation and inference — not a yes/no question about who physically opened a file.*
 
 ---
@@ -605,7 +605,9 @@ And if you want to understand who could know something:
 ---
 
 ## 🌌 Constellations  
-👀 🪪 📱 🧩 🧅 — access mapping; personnel assurance; endpoint exposure; inferential access; compartmentation.
+👀 🪪 📱 🧩 🧅 — access mapping; personnel assurance; endpoint exposure; inferential access; compartmentation.  
+
+---
 
 ## ✨ Stardust  
 information security, access control, personnel security, need to know, observational access, contextual access, inferential access, aggregation risk
@@ -615,7 +617,8 @@ information security, access control, personnel security, need to know, observat
 ## 🏮 Footer  
 
 *👀 Access Is More Than Opening The Document* is a living node of the **Polaris Protocol**.  
-It maps access as a multidimensional security property spanning formal permissions, technical systems, physical proximity, observation and inference. Within the White House Snitches cluster, it bridges personnel assurance into the endpoint, attack-surface and compartmentation nodes without treating possible access as evidence of acquisition, disclosure or malicious intent.
+
+It maps access as a multidimensional security property spanning formal permissions, technical systems, physical proximity, observation and inference. Within the White House Snitches cluster, it bridges personnel assurance into the endpoint, attack-surface and compartmentation nodes without treating possible access as evidence of acquisition, disclosure or malicious intent.  
 
 > 📡 Cross-references:
 >
@@ -625,8 +628,16 @@ It maps access as a multidimensional security property spanning formal permissio
 > - [🧩 A Plus B Plus C Equals Classified](./🧩_a_plus_b_plus_c_equals_classified.md) — *aggregation and the reconstruction of sensitive conclusions from individually limited fragments*  
 > - [📞 Metadata Can Tell The Story](./📞_metadata_can_tell_the_story.md) — *relationships, timing and patterns as information independently of content*  
 > - [🧅 Compartmentation Exists For A Reason](./🧅_compartmentation_exists_for_a_reason.md) — *limiting unnecessary access and containing the consequences of failure*  
-> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *practical reporting prompts for distinguishing formal access from the wider exposure environment*  
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *practical reporting prompts for distinguishing formal access from the wider exposure environment*
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
