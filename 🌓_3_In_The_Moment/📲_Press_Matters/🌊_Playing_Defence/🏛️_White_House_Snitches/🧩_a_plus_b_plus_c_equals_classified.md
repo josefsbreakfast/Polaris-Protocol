@@ -1,5 +1,5 @@
 ﻿# 🧩 A Plus B Plus C Equals Classified
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
 *Why individually limited facts can combine into a sensitive inference even when nobody directly discloses the final proposition.*
 
 ---
@@ -591,6 +591,8 @@ And it is why the appearance of a sensitive conclusion outside an institution do
 ## 🌌 Constellations  
 🧩 👀 📞 🧅 🕸️ — aggregation risk; contextual access; metadata inference; compartmentation; non-leaker pathways.
 
+---
+
 ## ✨ Stardust  
 information security, aggregation risk, inference, access control, metadata, contextual knowledge, compartmentation, information exposure
 
@@ -599,7 +601,9 @@ information security, aggregation risk, inference, access control, metadata, con
 ## 🏮 Footer  
 
 *🧩 A Plus B Plus C Equals Classified* is a living node of the **Polaris Protocol**.  
-It explains aggregation and inferential exposure: how individually limited, public, administrative or contextual fragments can combine into a sensitive conclusion without direct disclosure of the final proposition. Within the White House Snitches cluster, it begins the mechanisms block by connecting access architecture to metadata, reconstruction and non-leaker pathways while preserving the distinction between sensitive inference and formal classification.
+
+It explains aggregation and inferential exposure: how individually limited, public, administrative or contextual fragments can combine into a sensitive conclusion without direct disclosure of the final proposition.  
+Within the White House Snitches cluster, it begins the mechanisms block by connecting access architecture to metadata, reconstruction and non-leaker pathways while preserving the distinction between sensitive inference and formal classification.
 
 > 📡 Cross-references:
 >
@@ -608,8 +612,16 @@ It explains aggregation and inferential exposure: how individually limited, publ
 > - [📞 Metadata Can Tell The Story](./📞_metadata_can_tell_the_story.md) — *how relationships, timing and behavioural structure can contribute information without revealing content*  
 > - [🕸️ You Do Not Need A Leaker](./🕸️_you_do_not_need_a_leaker.md) — *why reconstruction is one of several mechanisms by which sensitive information can become available without direct deliberate disclosure*  
 > - [☎️ The Call Is Coming From Inside The House](./☎️_the_call_is_coming_from_inside_the_house.md) — *the cluster-level distinction between an information outcome and the mechanism that produced it*  
-> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting prompts for testing whether a sensitive proposition was disclosed directly or assembled from component information*  
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting prompts for testing whether a sensitive proposition was disclosed directly or assembled from component information*
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
