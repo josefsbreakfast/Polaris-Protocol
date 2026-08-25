@@ -1,5 +1,5 @@
 ﻿# 🇮🇷 Guys, You Are In A War. Remember?
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
 *Why security posture has to reflect the threat environment you are actually operating in — including multiple capable foreign intelligence collectors — without turning vulnerability into attribution.*
 
 ---
@@ -797,7 +797,15 @@ Guys.
 
 ## 🌌 Constellations
 
-🇮🇷 🌊 🕸️ 📱 🧿 — wartime threat modelling; foreign intelligence collection; counterintelligence; cyber exposure; attribution discipline.
+🇮🇷 🌊 🕸️ 📱 🧿 — wartime threat modelling; foreign intelligence collection; counterintelligence; cyber exposure; attribution discipline.  
+
+*Follow the evidence:*  
+
+- Office of the Director of National Intelligence, *2026 Annual Threat Assessment of the U.S. Intelligence Community* — public assessment of China, Russia, Iran, North Korea and cyber threats to US networks; also describes Iran as in active conflict with the United States at the time of publication.
+- The White House, 8 July 2026 — public description of US retaliatory strikes against Iran.
+- The White House, 28 July 2026 — public update describing continuing US operations and pressure against Iran.
+
+---
 
 ## ✨ Stardust
 
@@ -822,13 +830,15 @@ It situates personnel and information-security failures within the external thre
 > - [🛡️ Useful Old-School Defence Expertise](./🛡️_useful_old_school_defence_expertise.md) — *defensive expertise for translating the threat environment into practical assurance*
 > - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting questions that distinguish threat assessment from attribution*
 > - [🇮🇷 Data Wars — IRGC Edition](../🇮🇷_Data_Wars_IRGC_Edition/) — *wider Iran conflict, cyber-threat and essential-infrastructure analysis*
-
-### 📚 Current-context sources
-
-- Office of the Director of National Intelligence, *2026 Annual Threat Assessment of the U.S. Intelligence Community* — public assessment of China, Russia, Iran, North Korea and cyber threats to US networks; also describes Iran as in active conflict with the United States at the time of publication.
-- The White House, 8 July 2026 — public description of US retaliatory strikes against Iran.
-- The White House, 28 July 2026 — public update describing continuing US operations and pressure against Iran.
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
