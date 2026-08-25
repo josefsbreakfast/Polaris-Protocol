@@ -1,15 +1,12 @@
-# ☎️ The Call Is Coming From Inside The House
-
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21
-*Why "who leaked it?" is only one of several possible explanations for
-information escaping a supposedly secure environment.*
+# ☎️ The Call Is Coming From Inside The House  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
+*Why "who leaked it?" is only one of several possible explanations for information escaping a supposedly secure environment.*  
 
 ---
 
 ## 🛰️ Orientation
 
-When sensitive information appears somewhere it should not, there is an
-extremely tempting story:
+When sensitive information appears somewhere it should not, there is an extremely tempting story:
 
 **Someone leaked it. Find the leaker.**
 
@@ -17,23 +14,13 @@ Sometimes that is exactly what happened.
 
 Sometimes it is not.
 
-Information can leave a secure environment because somebody deliberately
-disclosed it. It can also become exposed because a device was
-compromised, an account was inadequately protected, somebody had
-inappropriate access, a conversation was overheard, metadata revealed a
-pattern, security controls were inconsistently applied, or several
-individually unremarkable pieces of information were assembled by
-somebody outside the system.
+Information can leave a secure environment because somebody deliberately disclosed it. It can also become exposed because a device was compromised, an account was inadequately protected, somebody had inappropriate access, a conversation was overheard, metadata revealed a pattern, security controls were inconsistently applied, or several individually unremarkable pieces of information were assembled by somebody outside the system.
 
 Those are different security problems.
 
-Treating all of them as **"a leak"** can therefore produce a
-particularly unfortunate investigation: an organisation becomes
-extremely good at hunting for a person who may not exist while leaving
-the pathway by which the information escaped completely intact.
+Treating all of them as **"a leak"** can therefore produce a particularly unfortunate investigation: an organisation becomes extremely good at hunting for a person who may not exist, while leaving the pathway by which the information escaped completely intact.
 
-This folder exists because journalists need enough security literacy to
-ask the second question.
+This folder exists because journalists need enough security literacy to ask the second question.
 
 Not merely:
 
@@ -75,13 +62,11 @@ And then comes the revelation:
 
 > **The call is coming from inside the house.**
 
-There is just one problem with importing that structure into information
-security.
+There is just one problem with importing that structure into information security.
 
 In the film, somebody has already established that there **is a call**.
 
-In an information incident, that is often precisely what remains
-uncertain.
+In an information incident, that is often precisely what remains uncertain.
 
 Everybody can end up shouting:
 
@@ -165,15 +150,13 @@ INTENT
 ATTRIBUTION
 ```
 
-A journalist may possess strong evidence for the first proposition and
-very little evidence for the others.
+A journalist may possess strong evidence for the first proposition and very little evidence for the others.
 
 That is fine.
 
 **Uncertainty is an evidential state, not a reporting failure.**
 
-The problem begins when uncertainty is made to disappear by choosing a
-familiar noun.
+The problem begins when uncertainty is made to disappear by choosing a familiar noun.
 
 ---
 
@@ -191,18 +174,15 @@ deliberate disclosure
 unauthorised recipient
 ```
 
-Find the authorised person who made the disclosure and you have found
-the failure.
+Find the authorised person who made the disclosure and you have found the failure.
 
 Call him Naughty Dave.
 
 Naughty Dave certainly exists as a category of security problem.
 Governments really do experience deliberate unauthorised disclosures.
-Insider threats really do exist. People really do mishandle information
-intentionally.
+Insider threats really do exist. People really do mishandle information intentionally.
 
-The problem begins when **Naughty Dave becomes the default explanation
-for every unexplained information escape.**
+The problem begins when **Naughty Dave becomes the default explanation for every unexplained information escape.**
 
 Because the actual architecture might instead look like:
 
@@ -238,8 +218,7 @@ Official → Journalist
 
 The classic leak.
 
-Someone knows protected information and intentionally communicates it to
-somebody who is not authorised to receive it.
+Someone knows protected information and intentionally communicates it to somebody who is not authorised to receive it.
 
 ### Accidental Disclosure
 
@@ -312,25 +291,19 @@ compromised?"**
 
 ## 🪪 Vetting Is Not A Magic Trust Certificate
 
-Security clearance is frequently described in public discussion as
-though the government has performed an elaborate ceremony and declared:
+Security clearance is frequently described in public discussion as though the government has performed an elaborate ceremony and declared:
 
 > THIS PERSON IS GOOD.
 
 That is not a useful mental model.
 
-Vetting and clearance processes form part of a wider personnel-security
-system intended to assess and manage risks associated with giving people
-access to sensitive environments and information.
+Vetting and clearance processes form part of a wider personnel-security system intended to assess and manage risks associated with giving people access to sensitive environments and information.
 
 And that wider environment matters.
 
-A security system may need to consider not merely whether someone
-*intends* to betray an organisation, but whether relevant risks
-surrounding their access have been identified and appropriately managed.
+A security system may need to consider not merely whether someone *intends* to betray an organisation, but whether relevant risks surrounding their access have been identified and appropriately managed.
 
-Depending on the system and role, that wider security picture can
-include matters such as:
+Depending on the system and role, that wider security picture can include matters such as:
 
 - what information the person may access;
 - what systems they may use;
@@ -344,14 +317,11 @@ This creates an important distinction.
 
 **An uncleared or incompletely vetted person is not thereby a spy.**
 
-Nor does the absence of a completed clearance automatically establish
-that appropriate security controls were absent.
+Nor does the absence of a completed clearance automatically establish that appropriate security controls were absent.
 
-Interim arrangements, restricted access, escorts, separately managed
-devices or other compensating controls may exist.
+Interim arrangements, restricted access, escorts, separately managed devices or other compensating controls may exist.
 
-But if the ordinary assurance process has not been completed,
-journalists have an entirely legitimate next question:
+But if the ordinary assurance process has not been completed, journalists have an entirely legitimate next question:
 
 > **What controls were actually in place instead?**
 
@@ -373,8 +343,7 @@ It helps establish:
 - what should have been logged;
 - and which pathways should, in theory, have been impossible.
 
-If those controls were unclear, bypassed or poorly documented, later
-reconstruction becomes harder.
+If those controls were unclear, bypassed or poorly documented, later reconstruction becomes harder.
 
 > **Security assurance is partly what gives you the map you need when
 > something goes wrong.**
@@ -443,12 +412,9 @@ And physical environments.
 
 And other human beings standing next to them.
 
-This is why assessing access solely by asking whether somebody was
-formally handed a particular classified document can miss enormous
-portions of the security boundary.
+This is why assessing access solely by asking whether somebody was formally handed a particular classified document can miss enormous portions of the security boundary.
 
-An inadequately secured endpoint can expose information without its
-owner deliberately communicating anything.
+An inadequately secured endpoint can expose information without its owner deliberately communicating anything.
 
 An account can expose relationships.
 
@@ -484,15 +450,13 @@ WAS NOT EXPOSED
 
 ## 🧩 A + B + C = Oh, Fuck
 
-There is another reason the hunt for a single leaker can become
-misleading.
+There is another reason the hunt for a single leaker can become misleading.
 
 Humans are quite good at inference.
 
 Journalists are professionally encouraged to be good at it.
 
-Intelligence services have also, historically, shown some enthusiasm for
-the activity.
+Intelligence services have also, historically, shown some enthusiasm for the activity.
 
 Imagine that no single source reveals proposition **X**.
 
@@ -512,15 +476,11 @@ The observer calculates:
 A + B + C + D = probably X
 ```
 
-That is an information-security problem even though the final sensitive
-proposition was never directly disclosed.
+That is an information-security problem even though the final sensitive proposition was never directly disclosed.
 
-It is also why compartmentation, need-to-know rules and access controls
-exist.
+It is also why compartmentation, need-to-know rules and access controls exist.
 
-Security cannot depend upon every individual fragment remaining
-meaningless when combined with every other fragment available to the
-outside world.
+Security cannot depend upon every individual fragment remaining meaningless when combined with every other fragment available to the outside world.
 
 An investigation built entirely around:
 
@@ -536,8 +496,7 @@ They worked it out.
 
 ## 🧅 Security Assumes Things Will Fail
 
-A robust security architecture does not require belief in perfect
-humans.
+A robust security architecture does not require belief in perfect humans.
 
 People make mistakes.
 
@@ -557,8 +516,7 @@ Someone eventually says something in the wrong room.
 
 Someone eventually leaves something somewhere stupid.
 
-The purpose of layered controls is partly to prevent a single failure
-from becoming a catastrophic one.
+The purpose of layered controls is partly to prevent a single failure from becoming a catastrophic one.
 
 That is the logic behind concepts such as:
 
@@ -579,8 +537,7 @@ It asks:
 
 **What happened after it failed?**
 
-If one ordinary human mistake can expose everything, the human is not
-the only security problem.
+If one ordinary human mistake can expose everything, the human is not the only security problem.
 
 The architecture is.
 
@@ -588,8 +545,7 @@ The architecture is.
 
 ## 🥸 Inside Does Not Mean Malicious
 
-Even where an exposure pathway runs through somebody inside an
-institution, another distinction remains necessary:
+Even where an exposure pathway runs through somebody inside an institution, another distinction remains necessary:
 
 ```text
 INSIDER
@@ -612,8 +568,7 @@ An insider-associated security failure could involve:
 - coercion;
 - changing personal circumstances;
 - grievance;
-- or entirely legitimate activity interacting badly with weak
-    controls.
+- or entirely legitimate activity interacting badly with weak controls.
 
 The person may be responsible for the problem.
 
@@ -641,12 +596,9 @@ political drama
 
 Sometimes that is the correct model.
 
-But the White House does not exist in a hermetically sealed American
-social network.
+But the White House does not exist in a hermetically sealed American social network.
 
-A sensitive political environment exists inside a much larger
-information environment containing potential collectors with very
-different motives and capabilities.
+A sensitive political environment exists inside a much larger information environment containing potential collectors with very different motives and capabilities.
 
 Those can include:
 
@@ -670,17 +622,13 @@ But the defensive question remains legitimate:
 > **Who might plausibly want this information, and which available
 > pathways could they realistically exploit?**
 
-An investigation that assumes only Americans deliberately talking to
-other Americans can explain an information loss has artificially
-truncated its own threat model.
+An investigation that assumes only Americans deliberately talking to other Americans can explain an information loss has artificially truncated its own threat model.
 
-In periods of acute interstate confrontation, that omission becomes
-particularly difficult to justify.
+In periods of acute interstate confrontation, that omission becomes particularly difficult to justify.
 
 See:
 
-[🇮🇷 Guys, You Are In A War,
-Remember](./🇮🇷_guys_you_are_in_a_war_remember.md).
+[🇮🇷 Guys, You Are In A War, Remember](./🇮🇷_guys_you_are_in_a_war_remember.md).
 
 ---
 
@@ -707,9 +655,7 @@ behaviour
 patterns
 ```
 
-The larger and more interconnected the environment becomes, the more
-potential pathways exist through which information can move or be
-inferred.
+The larger and more interconnected the environment becomes, the more potential pathways exist through which information can move or be inferred.
 
 Eventually the useful analytical object may cease to be:
 
@@ -767,8 +713,7 @@ If the answer is yes:
 
 **Dave was not your entire security problem.**
 
-Finding a culpable person can resolve a personnel problem while leaving
-the underlying exposure architecture intact.
+Finding a culpable person can resolve a personnel problem while leaving the underlying exposure architecture intact.
 
 ---
 
@@ -816,8 +761,7 @@ ALL EXPOSURE PATHWAYS IDENTIFIED
 FOREIGN COLLECTION EXCLUDED
 ```
 
-That is why the language used at the beginning of an investigation
-matters.
+That is why the language used at the beginning of an investigation matters.
 
 The question defines the search space.
 
@@ -825,8 +769,7 @@ The question defines the search space.
 
 ## 📰 What The Press Should Ask
 
-When officials say they are **"looking for the leaker,"** journalists do
-not need to reject that explanation.
+When officials say they are **"looking for the leaker,"** journalists do not need to reject that explanation.
 
 They need to avoid assuming it.
 
@@ -869,17 +812,11 @@ You have merely fired Dave.
 
 There is an equal and opposite failure mode.
 
-Recognising that an inadequately controlled person, device or
-relationship could create security exposure does **not** establish that
-the person concerned is malicious, compromised, recruited by a foreign
-service or knowingly providing information to anybody.
+Recognising that an inadequately controlled person, device or relationship could create security exposure does **not** establish that the person concerned is malicious, compromised, recruited by a foreign service or knowingly providing information to anybody.
 
-Likewise, recognising that a foreign government possesses motive and
-capability does not establish that it conducted the particular operation
-being discussed.
+Likewise, recognising that a foreign government possesses motive and capability does not establish that it conducted the particular operation being discussed.
 
-Those are substantially stronger claims requiring substantially stronger
-evidence.
+Those are substantially stronger claims requiring substantially stronger evidence.
 
 Security analysis should preserve the distinctions:
 
@@ -909,11 +846,9 @@ by replacing it with:
 
 That is the same analytical error wearing a more exciting hat.
 
-> **Expanding the threat model should increase analytical caution, not
-> decrease it.**
+> **Expanding the threat model should increase analytical caution, not decrease it.**
 
-That distinction protects both analytical accuracy and the people being
-discussed.
+That distinction protects both analytical accuracy and the people being discussed.
 
 It also makes genuine security criticism considerably harder to dismiss.
 
@@ -925,9 +860,7 @@ Sometimes there really is a snitch.
 
 Find them.
 
-But security cannot begin from the comforting assumption that
-information only moves when a human being consciously carries it from
-**Inside** to **Outside**.
+But security cannot begin from the comforting assumption that information only moves when a human being consciously carries it from **Inside** to **Outside**.
 
 Modern sensitive environments are networks of humans and machines.
 
@@ -945,8 +878,7 @@ Fine.
 
 **Prove it.**
 
-But before turning an information-security incident into an Agatha
-Christie novel, establish what actually requires explanation.
+But before turning an information-security incident into an Agatha Christie novel, establish what actually requires explanation.
 
 What information escaped?
 
@@ -958,11 +890,9 @@ Which controls should have prevented those pathways?
 
 Which controls actually existed?
 
-What evidence distinguishes deliberate disclosure from compromise,
-inference or some other form of exposure?
+What evidence distinguishes deliberate disclosure from compromise, inference or some other form of exposure?
 
-And if you remove your suspected leaker from the diagram, does the
-security problem disappear?
+And if you remove your suspected leaker from the diagram, does the security problem disappear?
 
 Because if it doesn't:
 
@@ -971,7 +901,9 @@ Because if it doesn't:
 ---
 
 ## 🌌 Constellations  
-☎️ 🕸️ 🪪 🧩 🦠 — information exposure; leak attribution; personnel assurance; aggregation risk; institutional porosity.
+☎️ 🕸️ 🪪 🧩 🦠 — information exposure; leak attribution; personnel assurance; aggregation risk; institutional porosity.  
+
+---
 
 ## ✨ Stardust  
 information security, personnel security, unauthorised disclosure, insider risk, aggregation risk, compartmentation, counterintelligence, attribution, press literacy
@@ -980,54 +912,25 @@ information security, personnel security, unauthorised disclosure, insider risk,
 
 ## 🏮 Footer
 
-*☎️ The Call Is Coming From Inside The House* is a living node of the
-**Polaris Protocol**.
-It provides an introductory threat model for distinguishing deliberate
-leaking from the wider set of pathways through which sensitive
-information can become exposed, compromised or inferable. It is intended
-particularly as security-literacy scaffolding for reporting on political
-institutions.
+*☎️ The Call Is Coming From Inside The House* is a living node of the **Polaris Protocol**.  
+
+It provides an introductory threat model for distinguishing deliberate leaking from the wider set of pathways through which sensitive information can become exposed, compromised or inferable. It is intended particularly as security-literacy scaffolding for reporting on political institutions.
 
 > 📡 Cross-references:
 >
-> - [🦑 Security Language For Normal
->     People](./🦑_security_language_for_normal_people.md) —
->     *plain-language distinctions between exposure, compromise,
->     disclosure, insider threat, espionage and attribution*
-> - [🪪 Clearance Is Not A
->     Lanyard](./🪪_clearance_is_not_a_lanyard.md) — *personnel
->     assurance, vetting and access-control distinctions*
-> - [👀 Access Is More Than Opening The
->     Document](./👀_access_is_more_than_opening_the_document.md) —
->     *direct, indirect, physical and contextual access*
-> - [📱 The Phone Is Part Of The Security
->     Boundary](./📱_the_phone_is_part_of_the_security_boundary.md) —
->     *devices, accounts and communications as exposure surfaces*
-> - [🧩 A Plus B Plus C Equals
->     Classified](./🧩_a_plus_b_plus_c_equals_classified.md) —
->     *aggregation and inferential disclosure*
-> - [📞 Metadata Can Tell The
->     Story](./📞_metadata_can_tell_the_story.md) — *intelligence
->     value in relationships, timing and patterns*
-> - [🕸️ You Do Not Need A Leaker](./🕸️_you_do_not_need_a_leaker.md)
->     — *non-deliberate pathways to information compromise*
-> - [🥸 Insider Threat Does Not Mean
->     Spy](./🥸_insider_threat_does_not_mean_spy.md) —
->     *insider-associated risk without premature allegations of
->     espionage*
-> - [🧅 Compartmentation Exists For A
->     Reason](./🧅_compartmentation_exists_for_a_reason.md) —
->     *limiting the consequences of inevitable failures*
-> - [🦠 Porosity Is A Security
->     Failure](./🦠_porosity_is_a_security_failure.md) — *systemic
->     exposure architecture beyond individual culpability*
-> - [🇮🇷 Guys, You Are In A War,
->     Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) — *the
->     contemporary external threat and collection environment*
-> - [✍️ Questions Journalists Should Actually
->     Ask](./✍️_questions_journalists_should_actually_ask.md) —
->     *practical reporting prompts for security incidents*
+> - [🦑 Security Language For Normal People](./🦑_security_language_for_normal_people.md) — *plain-language distinctions between exposure, compromise, disclosure, insider threat, espionage and attribution*
+> - [🪪 Clearance Is Not A Lanyard](./🪪_clearance_is_not_a_lanyard.md) — *personnel assurance, vetting and access-control distinctions*
+> - [👀 Access Is More Than Opening The Document](./👀_access_is_more_than_opening_the_document.md) — *direct, indirect, physical and contextual access*
+> - [📱 The Phone Is Part Of The Security Boundary](./📱_the_phone_is_part_of_the_security_boundary.md) — *devices, accounts and communications as exposure surfaces*
+> - [🧩 A Plus B Plus C Equals Classified](./🧩_a_plus_b_plus_c_equals_classified.md) — *aggregation and inferential disclosure*
+> - [📞 Metadata Can Tell The Story](./📞_metadata_can_tell_the_story.md) — *intelligence value in relationships, timing and patterns*
+> - [🕸️ You Do Not Need A Leaker](./🕸️_you_do_not_need_a_leaker.md) — *non-deliberate pathways to information compromise*
+> - [🥸 Insider Threat Does Not Mean Spy](./🥸_insider_threat_does_not_mean_spy.md) — *insider-associated risk without premature allegations of espionage*
+> - [🧅 Compartmentation Exists For A Reason](./🧅_compartmentation_exists_for_a_reason.md) — *limiting the consequences of inevitable failures*
+> - [🦠 Porosity Is A Security Failure](./🦠_porosity_is_a_security_failure.md) — *systemic exposure architecture beyond individual culpability*
+> - [🇮🇷 Guys, You Are In A War, Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) — *the contemporary external threat and collection environment*
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *practical reporting prompts for security incidents*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
