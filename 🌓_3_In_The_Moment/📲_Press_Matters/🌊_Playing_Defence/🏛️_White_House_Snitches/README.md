@@ -735,7 +735,9 @@ information security, security reporting, information exposure, personnel assura
 ## 🏮 Footer  
 
 *🏛️ White House Snitches* is a living cluster of the **Polaris Protocol**.  
-It provides security-literacy scaffolding for distinguishing deliberate unauthorised disclosure from the wider set of human, technical, physical, informational and institutional pathways through which sensitive information can become exposed or inferable. The cluster is structured to move from terminology and access through mechanism, porosity, adversarial context and defensive response, ending in a practical reporting checklist.
+
+It provides security-literacy scaffolding for distinguishing deliberate unauthorised disclosure from the wider set of human, technical, physical, informational and institutional pathways through which sensitive information can become exposed or inferable.  
+The cluster is structured to move from terminology and access through mechanism, porosity, adversarial context and defensive response, ending in a practical reporting checklist.
 
 > 📡 Cross-references:
 >
