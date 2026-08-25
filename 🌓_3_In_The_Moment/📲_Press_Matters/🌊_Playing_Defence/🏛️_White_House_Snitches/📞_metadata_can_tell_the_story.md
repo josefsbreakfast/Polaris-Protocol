@@ -1,5 +1,5 @@
 ﻿# 📞 Metadata Can Tell The Story
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
 *Why the structure around communications and activity can reveal relationships, routines and change even when the underlying content remains unknown.*
 
 ---
@@ -626,7 +626,9 @@ Or, more simply:
 ---
 
 ## 🌌 Constellations  
-📞 🧩 📱 🕸️ ⚖️ — metadata; aggregation; endpoint exposure; non-leaker pathways; evidential discipline.
+📞 🧩 📱 🕸️ ⚖️ — metadata; aggregation; endpoint exposure; non-leaker pathways; evidential discipline.  
+
+---
 
 ## ✨ Stardust  
 metadata, information security, communications patterns, traffic analysis, aggregation risk, contextual inference, correlation, evidential discipline
@@ -636,7 +638,9 @@ metadata, information security, communications patterns, traffic analysis, aggre
 ## 🏮 Footer  
 
 *📞 Metadata Can Tell The Story* is a living node of the **Polaris Protocol**.  
-It explains how relationships, timing, frequency, sequence and deviation can carry information independently of message content while preserving the distinction between observed pattern and inferred explanation. Within the White House Snitches cluster, it develops the aggregation mechanism before the folder moves into non-leaker pathways and insider-risk language.
+
+It explains how relationships, timing, frequency, sequence and deviation can carry information independently of message content while preserving the distinction between observed pattern and inferred explanation.  
+Within the White House Snitches cluster, it develops the aggregation mechanism before the folder moves into non-leaker pathways and insider-risk language.
 
 > 📡 Cross-references:
 >
@@ -646,8 +650,16 @@ It explains how relationships, timing, frequency, sequence and deviation can car
 > - [🧬 The Attack Surface Has More Than One Strand](./🧬_the_attack_surface_has_more_than_one_strand.md) — *metadata as one informational strand inside a wider sociotechnical security surface*  
 > - [🕸️ You Do Not Need A Leaker](./🕸️_you_do_not_need_a_leaker.md) — *why reconstruction from structure and context is one possible alternative to direct deliberate disclosure*  
 > - [☎️ The Call Is Coming From Inside The House](./☎️_the_call_is_coming_from_inside_the_house.md) — *the cluster-level distinction between an information outcome and the mechanism responsible for it*  
-> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting prompts for separating what records show from what analysts infer*  
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting prompts for separating what records show from what analysts infer*
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
