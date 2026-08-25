@@ -1,5 +1,5 @@
 # 📲 Track B — Mandelson State-System Risk  
-**First created:** 2026-06-21 | **Last updated:** 2026-06-21  
+**First created:** 2026-06-21 | **Last updated:** 2026-08-25  
 *How Mandelson-specific legal, parliamentary, appointment, and diplomatic exposure turns broad Epstein pressure into UK state-system risk.*
 
 ---
@@ -373,7 +373,7 @@ Mandelson, Humble Address, Epstein files, UK ambassador, Cabinet Office, FCDO, N
 
 ## 🏮 Footer  
 
-*Track B — Mandelson State-System Risk* is a living node of the **Polaris Protocol**.  
+*📲 Track B — Mandelson State-System Risk* is a living node of the **Polaris Protocol**.  
 It tracks Mandelson-specific legal, parliamentary, appointment, and diplomatic exposure within the `✈️_World_War_Epstein` cluster.
 
 It should be read after Track A and before Track C / Track D.
@@ -391,4 +391,4 @@ It maps pressure.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-21_
+_Last updated: 2026-08-25_
