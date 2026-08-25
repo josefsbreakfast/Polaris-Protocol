@@ -269,7 +269,15 @@ It exists to keep the wider analysis disciplined: serious enough to track, caref
 >
 > - [🧬 Shared Risk Calendar And Chain Dependency](./🧬_shared_risk_calendar_and_chain_dependency.md) — *companion node on how legal deadlines become strategic pressure points*  
 > - [🛰️ Track D Defence Comms Gaza Iran](./🛰️_track_d_defence_comms_gaza_iran.md) — *timeline node for military posture, attribution, ceasefire, and public comms anomalies*  
-> - [🧯 What Journalists Should Check Next](./🧯_what_journalists_should_check_next.md) — *practical verification questions for press-facing inquiry*  
+> - [🧯 What Journalists Should Check Next](./🧯_what_journalists_should_check_next.md) — *practical verification questions for press-facing inquiry*
+>
+> 🏮 Return To:
+>
+> - [✈️ World War Epstein](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
