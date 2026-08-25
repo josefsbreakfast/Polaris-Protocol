@@ -1,5 +1,5 @@
 ﻿# 🍯 Honeypots Are Not Magic
-**First created:** 2026-08-21 | **Last updated:** 2026-08-21  
+**First created:** 2026-08-21 | **Last updated:** 2026-08-25  
 *Why counterintelligence cannot be reduced to attractive strangers, seduction and knowingly recruited spies — and why ordinary access can matter without making the person who holds it suspicious.*
 
 ---
@@ -746,7 +746,9 @@ Do not wait for somebody to arrive wearing a fur coat and carrying a poisoned li
 ---
 
 ## 🌌 Constellations  
-🍯 🥸 👩‍💼 📱 🪪 — exploitation; insider risk; gendered labour; endpoint security; personnel assurance.
+🍯 🥸 👩‍💼 📱 🪪 — exploitation; insider risk; gendered labour; endpoint security; personnel assurance.  
+
+---
 
 ## ✨ Stardust  
 honeypot, counterintelligence, human intelligence, targeting, recruitment, exploitation, occupational proximity, executive assistants, feminised labour, personnel security, endpoint security, evidential discipline
@@ -756,7 +758,9 @@ honeypot, counterintelligence, human intelligence, targeting, recruitment, explo
 ## 🏮 Footer  
 
 *🍯 Honeypots Are Not Magic* is a living node of the **Polaris Protocol**.  
-It separates the cinematic seduction-and-recruitment model from the wider set of human, technical, occupational and informational pathways through which access can become useful to an outside actor. Within the White House Snitches cluster, it completes the mechanisms-and-people block by connecting insider risk to gendered support work, technical exposure, contextual access and evidence-led counterintelligence analysis.
+
+It separates the cinematic seduction-and-recruitment model from the wider set of human, technical, occupational and informational pathways through which access can become useful to an outside actor.  
+Within the White House Snitches cluster, it completes the mechanisms-and-people block by connecting insider risk to gendered support work, technical exposure, contextual access and evidence-led counterintelligence analysis.  
 
 > 📡 Cross-references:
 >
@@ -767,8 +771,16 @@ It separates the cinematic seduction-and-recruitment model from the wider set of
 > - [🧩 A Plus B Plus C Equals Classified](./🧩_a_plus_b_plus_c_equals_classified.md) — *how ordinary fragments and contextual knowledge can compose into a sensitive inference*  
 > - [🪪 Clearance Is Not A Lanyard](./🪪_clearance_is_not_a_lanyard.md) — *personnel assurance as structured risk management rather than vibes-based trust*  
 > - [🇮🇷 Guys, You Are In A War, Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) — *the external threat environment against which collection pathways should be considered*  
-> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting prompts for separating occupational proximity, targeting, exploitation, cooperation and espionage*  
+> - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *reporting prompts for separating occupational proximity, targeting, exploitation, cooperation and espionage*
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-25_
