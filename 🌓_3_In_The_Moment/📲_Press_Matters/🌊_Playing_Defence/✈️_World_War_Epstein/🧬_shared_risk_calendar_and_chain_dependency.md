@@ -1,5 +1,5 @@
 # 🧬 Shared Risk Calendar And Chain Dependency  
-**First created:** 2026-06-21 | **Last updated:** 2026-06-21  
+**First created:** 2026-06-21 | **Last updated:** 2026-08-25  
 *How legal deadlines, disclosure tranches, arrests, redaction fights, and elite exposure can become defence-risk signals in brittle systems.*  
 
 ---
@@ -436,7 +436,7 @@ shared risk calendar, chain dependency, legal exposure, elite networks, defence 
 
 ## 🏮 Footer  
 
-*Shared Risk Calendar And Chain Dependency* is a living node of the **Polaris Protocol**.  
+*🧬 Shared Risk Calendar And Chain Dependency* is a living node of the **Polaris Protocol**.  
 It defines the calendar-and-dependency model used by the `✈️_World_War_Epstein` cluster: not scandal as gossip, but elite legal exposure as a possible defence-planning variable.
 
 > 📡 Cross-references:
@@ -448,4 +448,4 @@ It defines the calendar-and-dependency model used by the `✈️_World_War_Epste
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-21_
+_Last updated: 2026-08-25_
