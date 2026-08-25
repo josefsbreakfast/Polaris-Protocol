@@ -1,5 +1,5 @@
 # ✈️ World War Epstein  
-**First created:** 2026-06-21 | **Last updated:** 2026-06-21  
+**First created:** 2026-06-21 | **Last updated:** 2026-08-25  
 *A press-facing and defence-facing cluster on elite legal exposure, disclosure calendars, metadata leakage, and brittle escalation.*  
 
 ---
@@ -300,7 +300,7 @@ World War Epstein, Epstein files, Mandelson, Humble Address, legal exposure, met
 
 ## 🏮 Footer  
 
-*World War Epstein* is a living cluster of the **Polaris Protocol**.  
+*✈️ World War Epstein* is a living cluster of the **Polaris Protocol**.  
 It tracks how elite legal exposure, shared databases, metadata leakage, disclosure calendars, foreign leverage, and defence systems may interact during live escalation.
 
 It is not a conspiracy board.
@@ -309,4 +309,4 @@ It is a brittleness map.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-21_
+_Last updated: 2026-08-25_
