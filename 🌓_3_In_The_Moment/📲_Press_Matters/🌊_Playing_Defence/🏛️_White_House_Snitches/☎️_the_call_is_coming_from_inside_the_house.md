@@ -930,6 +930,14 @@ It provides an introductory threat model for distinguishing deliberate leaking f
 > - [🦠 Porosity Is A Security Failure](./🦠_porosity_is_a_security_failure.md) — *systemic exposure architecture beyond individual culpability*
 > - [🇮🇷 Guys, You Are In A War, Remember](./🇮🇷_guys_you_are_in_a_war_remember.md) — *the contemporary external threat and collection environment*
 > - [✍️ Questions Journalists Should Actually Ask](./✍️_questions_journalists_should_actually_ask.md) — *practical reporting prompts for security incidents*
+>   
+> 🏮 Return To:
+>
+> - [🏛️ White House Snitches](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
