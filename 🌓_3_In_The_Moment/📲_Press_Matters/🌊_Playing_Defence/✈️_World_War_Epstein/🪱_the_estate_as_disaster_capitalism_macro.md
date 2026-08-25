@@ -1,5 +1,5 @@
 # 🪱 The Estate As Disaster Capitalism Macro  
-**First created:** 2026-06-22 | **Last updated:** 2026-06-22  
+**First created:** 2026-06-22 | **Last updated:** 2026-08-25  
 *How an unresolved harm archive can behave like a self-propagating extraction engine when pumped through AI, legal systems, media markets, elite panic, and reputation infrastructure.*
 
 ---
@@ -856,7 +856,7 @@ Epstein estate, disaster capitalism, harm archive, AI indexing, association grap
 
 ## 🏮 Footer  
 
-*The Estate As Disaster Capitalism Macro* is a living node of the **Polaris Protocol**.  
+*🪱 The Estate As Disaster Capitalism Macro* is a living node of the **Polaris Protocol**.  
 It adds the extraction-loop analysis to the `✈️_World_War_Epstein` cluster: not scandal as gossip, but unresolved harm as active infrastructure.
 
 It argues for accountable closure rather than permanent monetisation.
@@ -873,4 +873,4 @@ The worm must be stopped without burying the evidence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-22_
+_Last updated: 2026-08-25_
