@@ -321,7 +321,15 @@ It is the pressure map.
 > - [🧬 Shared Risk Calendar And Chain Dependency](./🧬_shared_risk_calendar_and_chain_dependency.md) — *how legal calendars become defence-risk signals*  
 > - [📲 Track B Mandelson State System Risk](./📲_track_b_mandelson_state_system_risk.md) — *Mandelson-specific state-system exposure*  
 > - [👑 Track C Andrew Comparator](./👑_track_c_andrew_comparator.md) — *Andrew as comparator track*  
-> - [🛰️ Track D Defence Comms Gaza Iran](./🛰️_track_d_defence_comms_gaza_iran.md) — *defence and comms anomaly calendar*  
+> - [🛰️ Track D Defence Comms Gaza Iran](./🛰️_track_d_defence_comms_gaza_iran.md) — *defence and comms anomaly calendar*
+>
+> 🏮 Return To:
+>
+> - [✈️ World War Epstein](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
