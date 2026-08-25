@@ -1,5 +1,5 @@
 # 🗓️ Track A — Epstein Release Calendar  
-**First created:** 2026-06-21 | **Last updated:** 2026-06-21  
+**First created:** 2026-06-21 | **Last updated:** 2026-08-25  
 *Broad Epstein-file disclosure, oversight, tranche, redaction, and congressional-pressure dates for the `✈️_World_War_Epstein` cluster.*
 
 ---
@@ -306,7 +306,7 @@ Epstein files, DOJ disclosures, House Oversight, release calendar, redactions, c
 
 ## 🏮 Footer  
 
-*Track A — Epstein Release Calendar* is a living node of the **Polaris Protocol**.  
+*🗓️ Track A — Epstein Release Calendar* is a living node of the **Polaris Protocol**.  
 It establishes the broad Epstein disclosure and oversight calendar used by the `✈️_World_War_Epstein` cluster.
 
 It should be read alongside Track B, Track C, and Track D.
@@ -325,4 +325,4 @@ It is the pressure map.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-21_
+_Last updated: 2026-08-25_
