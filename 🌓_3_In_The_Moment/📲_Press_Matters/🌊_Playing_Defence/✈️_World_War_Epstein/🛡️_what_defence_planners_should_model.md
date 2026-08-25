@@ -426,7 +426,15 @@ It asks them to model brittleness.
 > - [🇬🇧 Akrotiri Attribution And UK Exposure](./🇬🇧_akrotiri_attribution_and_uk_exposure.md) — *UK base exposure and attribution note*  
 > - [🇷🇺 Why Russia Moved Oddly For Russia](./🇷🇺_why_russia_moved_oddly_for_russia.md) — *Russia-specific anomaly note*  
 > - [🇨🇳 China As Control Case](./🇨🇳_china_as_control_case.md) — *ordinary strategic-partner comparison*  
-> - [🧯 What Journalists Should Check Next](./🧯_what_journalists_should_check_next.md) — *press-facing verification checklist*  
+> - [🧯 What Journalists Should Check Next](./🧯_what_journalists_should_check_next.md) — *press-facing verification checklist*
+>
+> 🏮 Return To:
+>
+> - [✈️ World War Epstein](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌗 In The Moment](../../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
