@@ -406,6 +406,290 @@ A distribution system capable of serving thousands of narrow taxonomies does not
 
 It needs to help different women find the correct folder.
 
+
+---
+
+## 🧿 The Investor Finds A Useful Thing And Must Be Supervised
+
+There is, annoyingly, genuinely useful information in here for investors.
+
+If attraction, identification, fandom and positive sentiment are distributed across niches rather than arranged on one universal ladder, then the commercial lesson is not:
+
+> Find the single man women like most.
+
+It is:
+
+> Different people can produce different kinds of unusually strong attachment in different audience segments.
+
+That is a diversification problem.
+
+Someone can be **kind of hot to a lot of people**.
+
+Someone else can be **thermonuclear to a niche**.
+
+Those profiles can average out to something that looks deceptively similar while describing completely different distributions.
+
+The mean has eaten the interesting information.
+
+For technical organisations this matters because the obvious response is otherwise to manufacture **rockstars, but in tech**: identify the most conventionally charismatic, prestigious or aesthetically legible technical figure and push that person everywhere.
+
+That simply rebuilds the leaderboard.
+
+A better interpretation is portfolio-shaped:
+
+- broad appeal and niche intensity are different properties;
+- different technical people may resonate with different audiences;
+- unusual specialist traits can create stronger attachment precisely because they are unusual;
+- the trait reducing broad appeal may be the same trait producing extreme niche appeal;
+- institutions can expose a wider range of real technical personalities without forcing them toward one optimised archetype;
+- and audiences previously treated as peripheral may contain substantial latent interest.
+
+This is useful.
+
+It is also approximately where everyone needs to remember:
+
+> **These are human beings.**
+
+---
+
+## 🧮 Do Not Turn Validation Into A Slot Machine
+
+The minute something emotionally rewarding becomes a visible comparative metric, the system changes.
+
+Before the dashboard:
+
+> Apparently some women really like my particular flavour of nerd.
+
+Potentially delightful information.
+
+After the dashboard:
+
+> My niche-intensity coefficient increased 4.7% this quarter.
+
+Now there is:
+
+- history;
+- trajectory;
+- comparison;
+- percentiles;
+- competitors;
+- targets;
+- incentives;
+- and the possibility of **number go up** becoming psychologically meaningful.
+
+The original model was supposed to explain why a universal hierarchy loses information.
+
+Do not respond by constructing a more elaborate universal hierarchy.
+
+Do not take:
+
+> You may have a highly receptive niche.
+
+and turn it into:
+
+> **Female Fandom Penetration: 73rd percentile.**
+
+Once validation becomes measurable, organisations can accidentally create a behavioural control surface.
+
+Once the control surface produces commercially useful behaviour, somebody will eventually ask whether it can be optimised.
+
+That question requires boundaries before it requires a growth team.
+
+---
+
+## 🕹️ Why Pickup Artistry Can Look Rational And Still Be Shitty
+
+Pickup artistry provides a useful warning because its surface logic can resemble experimentation.
+
+Observe responses.
+
+Change an input.
+
+Notice patterns.
+
+Practise.
+
+Learn.
+
+None of those actions is inherently sinister.
+
+The ethical break appears when the objective changes from:
+
+> Become better at meeting people and finding reciprocal attraction.
+
+to:
+
+> Discover which interventions reliably move another person's behaviour toward the outcome I want.
+
+That distinction separates **matching** from **capture**.
+
+A multidimensional attraction model can be liberating because it says:
+
+> You do not need universal approval. Become legible to people who genuinely like your particular configuration and look for reciprocal fit.
+
+A manipulative optimisation model asks instead:
+
+> Which sequence of inputs increases conversion?
+
+The fact that an intervention changes behaviour does not create permission to use it.
+
+A technique can be behaviourally effective and ethically unacceptable at the same time.
+
+That is not a bug in the ethical analysis.
+
+It is the reason ethical analysis exists.
+
+---
+
+## 🧪 Human Guinea Pigs Require Consent
+
+There is a second boundary here.
+
+Ordinary social interaction contains uncertainty. People try jokes, invitations, clothes, ways of explaining themselves and different approaches to conversation. Nobody needs an ethics committee before flirting.
+
+Systematically treating unsuspecting people as experimental subjects is different.
+
+The relevant historical reference is the **Nuremberg Code**, not the Nuremberg Laws. The Nuremberg Laws were Nazi racial laws. The Nuremberg Code emerged from the post-war Doctors' Trial and placed voluntary consent at the foundation of ethical human experimentation.
+
+Modern research ethics contains much more machinery, but the underlying warning is useful well outside medicine:
+
+> **A human response is not merely a datapoint available for optimisation.**
+
+If an organisation is deliberately testing interventions intended to alter attention, insecurity, attachment, disclosure, persistence, spending or other psychologically meaningful behaviour, then **it worked** is not sufficient governance.
+
+Questions about consent, deception, foreseeable harm, privacy, withdrawal, proportionality and power arrive before the victory lap.
+
+The more intimate the variable, the more important that becomes.
+
+---
+
+## 💰 Capital Has An Interest. It Does Not Get The Only Vote
+
+This is where the investor lesson needs its second half.
+
+Imagine an organisation discovers that comparative rankings increase engagement.
+
+The data scientist can determine whether the effect is statistically detectable.
+
+The growth team can measure retention.
+
+Finance can model revenue.
+
+Behavioural researchers may be able to explain the mechanism.
+
+None of those findings independently answers:
+
+> **Should we deliberately exploit this mechanism?**
+
+Some stakeholders also have a direct capital interest in the answer being yes.
+
+That does not make them evil.
+
+It does mean the decision environment needs people whose job is not simply to maximise the same objective function.
+
+Depending on the system and the population affected, that can mean listening to:
+
+- research-ethics expertise;
+- privacy and data-governance specialists;
+- safeguarding expertise;
+- human-factors researchers;
+- relevant clinical or psychological expertise;
+- legal and compliance teams;
+- affected communities and user representatives;
+- independent reviewers;
+- and people with genuine authority to stop or constrain an experiment.
+
+These roles are not interchangeable.
+
+A lawyer can identify legal duties and exposure without answering every ethical question.
+
+A compliance process can establish whether specified rules were followed without proving that the underlying intervention is humane.
+
+An affected community can identify harms invisible to the people building the metric.
+
+Independent review matters precisely when the people benefiting from an intervention also control the decision about whether it continues.
+
+The useful governance question is therefore not merely:
+
+> Did we consult stakeholders?
+
+It is:
+
+> **Which stakeholders have epistemic authority over which boundaries, what power do they have when capital wants the boundary moved, and can anyone actually say no?**
+
+---
+
+## 🛑 Boundaries Need Architecture
+
+A boundary that survives only while one conscientious employee is willing to argue with somebody controlling the money is not much of a boundary.
+
+Where behavioural optimisation can materially affect people, useful control architecture can include:
+
+- documented red lines;
+- predefined harm criteria;
+- meaningful consent appropriate to the intervention;
+- independent review;
+- escalation routes outside the commercial reporting chain;
+- auditability;
+- privacy protections;
+- explicit limits on sensitive inference;
+- stop-work or pause authority;
+- and review of what happens when the revenue-producing result conflicts with the ethically preferable result.
+
+This is not an argument against learning from audiences.
+
+It is an argument against confusing **learning about people** with **permission to operate on people**.
+
+The distinction becomes especially important when the information concerns attraction, loneliness, belonging, status, sexuality, insecurity, fandom or other sources of powerful human validation.
+
+These variables are commercially interesting because they are psychologically meaningful.
+
+That is also why they deserve care.
+
+---
+
+## 🫀 Please Remember They Are Humans Though
+
+There is a version of this entire node that a sufficiently enthusiastic organisation could read as:
+
+> Fantastic. Female audiences are segmented. Specialist technical personalities may have underdeveloped constituencies. We can diversify sentiment, deepen audience identification and improve engagement.
+
+Yes.
+
+That information is genuinely in here.
+
+The next sentence is:
+
+> **Please remember they are humans though.**
+
+The women are not an addressable behavioural substrate.
+
+The technical people are not interchangeable engagement assets.
+
+A fandom is not merely a sentiment reservoir.
+
+A niche is not permission to engineer dependency.
+
+A person discovering that other people find their weird specialist self attractive does not need that discovery converted into a live competitive dashboard.
+
+And an investor learning that more diverse public-facing technical personalities may reach more diverse audiences has learned something useful **without acquiring ownership of everybody's nervous systems**.
+
+The point of understanding embodied information ecology is not to become better at manipulating embodied creatures.
+
+It is to remember that information lands somewhere.
+
+In bodies.
+
+In histories.
+
+In relationships.
+
+In people who can be delighted, embarrassed, frightened, flattered, attached, exploited, exhausted or changed by what an information system does.
+
+Optimisation does not make that disappear.
+
+It makes remembering it more important.
+
 ---
 
 ## 🫀 Information Is Experienced
