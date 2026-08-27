@@ -200,6 +200,42 @@ It is a pattern to watch.
 - Did UK editors explicitly explain why the statement was being treated as routine rather than escalatory?
 - Does the same communications pattern recur across other Burnham government defence announcements?
 
+--- 
+
+## 🇬🇧 UK Response: Departmental Acknowledgement, Limited Political Salience
+
+As of the evening of **27 August 2026**, this node has not identified a prominent public response from **No. 10, the Prime Minister, the Foreign Secretary, or the FCDO** specifically addressing Russia's statement that British military facilities and equipment could be targeted in Ukraine **“and beyond.”**
+
+This should **not** be recorded as complete UK government silence.
+
+Contemporary reporting records a response from the **Ministry of Defence**, which reiterated British support for Ukraine and dismissed Moscow's threats. The observable distinction is therefore between **departmental response** and **high-salience political response**.
+
+That distinction matters because the Russian statement followed a conspicuously high-level British signalling sequence: the Prime Minister's Kyiv visit, public declarations of continued support, and the announcement concerning classified information intended to facilitate Ukrainian production of SCALP/Storm Shadow capability.
+
+The resulting sequence is therefore provisionally observable as:
+
+**high-salience British commitment → explicit Russian coercive response → comparatively low-salience British political acknowledgement**
+
+This does **not** establish that the latter was coordinated, advised, deliberately suppressed, or intended as strategic de-amplification. Nor does the absence of an identified senior political statement establish that no private diplomatic, military, intelligence, or governmental response occurred.
+
+It does, however, create a useful **Caution Swan**.
+
+If the British posture is deliberately to deny Russian coercive signalling political amplification, that may represent a coherent deterrence or strategic-communications choice. If so, the second-order question is whether sufficiently restrained public signalling remains externally distinguishable from **habituation, inattention, or failure to register escalation**.
+
+That question becomes particularly important where Britain has itself chosen unusually legible public signalling immediately beforehand.
+
+### 🦢 Observation status
+
+**Observed:** Russia publicly threatened British military facilities/equipment in Ukraine and beyond.
+
+**Observed:** the Ministry of Defence responded, according to contemporary reporting.
+
+**Not identified as of 27 August:** a dedicated, prominent No. 10/PM/FCDO political response to the new formulation of the threat.
+
+**Unknown:** whether the relative lack of political and media salience is deliberate, coordinated, advised, coincidental, or simply the product of ordinary editorial and governmental judgement.
+
+**Watch point:** subsequent No. 10, FCDO, Defence Secretary or other senior-minister response may materially change this observation and should be appended rather than retroactively erased.
+
 ---
 
 ## 📚 Source Trail
