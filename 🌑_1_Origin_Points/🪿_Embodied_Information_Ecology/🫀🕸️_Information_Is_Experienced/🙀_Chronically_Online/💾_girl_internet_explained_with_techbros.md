@@ -532,6 +532,14 @@ You all could have had this.
 
 You all, in some cases quite literally, chose violence.  
 
+> “We need young women.”
+> 
+> “Excellent. Shall we allow them access to the candidate’s actual personality, peculiar interests, longstanding friendships and recognizable human characteristics?”
+> 
+> “No. He will perform a TikTok trend six weeks after it peaked.”
+
+Do *not* get me started.  
+
 ---
 
 ## 🌌 Constellations
