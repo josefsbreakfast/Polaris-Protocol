@@ -155,3 +155,7 @@ Taken together, these developments strengthen one conclusion considerably: the p
 - https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/
 - https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/
 
+20260827:  
+
+- https://www.theguardian.com/business/2026/aug/27/uk-airports-operator-cyber-attack-customer-data-accessed
+
