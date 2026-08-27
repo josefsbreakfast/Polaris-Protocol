@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-26 17:01:43 UTC_
+_Generated on 2026-08-27 02:11:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5077,7 +5077,7 @@ _Generated on 2026-08-26 17:01:43 UTC_
         - [`🪻_why_them.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/✨_Letters/🪻_why_them.md)
       - [**🌌_Polaris_vs_Books/**](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/)
         - [**🌳_FotR/**](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/🌳_FotR/)
-          - [`20260825_prologue.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/🌳_FotR/20260825_prologue.md)
+          - [`20260825_epilogue.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/🌳_FotR/20260825_epilogue.md)
           - [`20260826_prologue.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/🌳_FotR/20260826_prologue.md)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/🌳_FotR/README.md)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/README.md)
