@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-27 19:10:04 UTC_
+_Generated on 2026-08-27 19:16:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2585,6 +2585,8 @@ _Generated on 2026-08-27 19:10:04 UTC_
       - [`🧱_structural_reversion_ghost.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🧱_structural_reversion_ghost.md)
       - [`🧽_subtle_sanitizer_fork.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🍽️_Fork_Taxonomy/🧽_subtle_sanitizer_fork.md)
     - [**🎞️_Haunted_Artefacts_Catalogue/**](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/)
+      - [**🦢_Caution_Swans/**](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🦢_Caution_Swans/)
+        - [`notes.txt`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🦢_Caution_Swans/notes.txt)
       - [`README.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/README.md)
       - [`🌙_sleep_sabotage.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🌙_sleep_sabotage.md)
       - [`🎶_she_knows_loop.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🎶_she_knows_loop.md)
