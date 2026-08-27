@@ -10,7 +10,11 @@ This is an **observation node, not an attribution claim**.
 
 On 24 August 2026, Prime Minister Andy Burnham made Kyiv his first international visit as Prime Minister. The visit deliberately communicated unusually high British political commitment: the government described Britain as “100% behind” Ukraine, Burnham chaired a Coalition of the Willing meeting, and the UK announced that MBDA could release classified information on British components for SCALP so that local assembly could be established in Ukraine.
 
-During the same visit, Burnham also joined Ukrainian soldiers in an informal guitar performance inside the mobile recording studio of Cultural Forces, a Ukrainian military and artistic unit operating around the front line, hospitals and rehabilitation centres.
+During the same visit, Burnham also joined Ukrainian soldiers in an informal guitar performance inside the mobile recording studio of Cultural Forces, a Ukrainian military and artistic unit operating around the front line, hospitals and rehabilitation centres.  
+
+None of this is inherently bad, but is ordinarily seen as deliberate signalling.  
+
+In addition, the second-order effects can appear paradoxical, until one maps our own behaviour under similar circumstances; presenting the leader as embattled may at times rally greater support, and over-familiarity can be seen as alike to wearing a white dress as a guest at a wedding.  
 
 Three days later, Russia publicly warned that British military facilities and equipment in Ukraine **and beyond** could be targeted in response to Ukrainian strikes using British weapons.
 
@@ -22,7 +26,7 @@ That combination is worth preserving as a caution swan because it raises a secon
 
 ---
 
-## 👻 Apparitional Object
+## 🎞️ Apparitional Object
 
 The object is not the guitar alone.
 
