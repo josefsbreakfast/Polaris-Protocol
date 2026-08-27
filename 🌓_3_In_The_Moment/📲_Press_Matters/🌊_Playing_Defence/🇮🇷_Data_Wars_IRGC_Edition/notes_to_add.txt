@@ -93,3 +93,65 @@ I did not find another newly disclosed incident today in government administrati
 - [📄: NCSC: “UK organisations urged to bolster cyber resilience amid Iran conflict”](https://www.ncsc.gov.uk/news/uk-organisations-urged-bolster-cyber-resilience-amid-iran-conflict)
 - [📄: FBI: “Defending Against an Active Threat to Siemens S7 Series PLCs”](https://www.fbi.gov/investigate/cyber/alerts/2026/defending-against-an-active-threat-to-siemens-s7-series-plcs)
 – [📲: Cybersec Misplays: “Iran is escalating who (its) attacking and demonstrating more of (its) capabilities. Iran shut down a UK power plant for 4 days. Same summer they hit water systems in 12 US states.”](https://vm.tiktok.com/ZN8NRsd5V/)  
+
+20260827:  
+
+“There are two credible new developments, both in the U.S. water/industrial-control ecosystem. The first is the more important pattern shift.
+
+🇺🇸 United States — water and wastewater
+
+On 26 August 2026, CISA publicly quantified the July campaign for the first time: it observed malicious cyber activity against more than 100 internet-exposed water and wastewater systems, commonly reaching PLCs connected directly through cellular modems. Until this disclosure, the public picture was a collection of incidents across individual states; this establishes that the campaign was substantially broader.  
+
+Operational impact: most systems did not suffer major interruption to water supplies, but the intrusions produced outages and operational disruption during incident response. In previously described cases, attackers were able to modify PLC behaviour, including interference with shutdown processes and alarms, creating the possibility of unsafe conditions without operators being warned normally.  
+
+Timing: the malicious activity occurred principally during July 2026; the new development is CISA’s 26 August disclosure of its true scale. CISA says the activity involved more than 100 exposed systems rather than merely the comparatively small group of utilities that had individually become public.  
+
+Attribution confidence: moderate, still short of formal public attribution. Reporting citing senior U.S. officials says American intelligence considers Iran likely responsible for much of the opportunistic water campaign, in retaliation for the U.S.–Israel war against Iran. Federal agencies have nevertheless stopped short of publicly attributing this entire July cluster to Tehran. That remains an important distinction.  
+
+The competing explanations remain significant because the targeting mechanism is unusually reproducible. Internet-facing PLCs, cellular-modem exposure, default or weak access controls, public device information and increasingly accessible automation tooling all allow independent criminals, hacktivists and state-linked actors to converge on similar victims. Iran-linked operators have a well-established history of opportunistically attacking exposed PLCs, so the campaign fits known methods extremely well; it is just not an Iranian fingerprint in itself.  
+
+How this changes the trend since 28 February: substantially. The useful model is no longer:
+
+several water utilities were hacked.
+
+It is now:
+
+a wartime campaign systematically encountered more than 100 exposed OT systems across one American essential-services sector.
+
+That makes scale and search behaviour more important than individual outages. Even where operational effects remain small, an actor probing a hundred-plus systems gains information about hardware populations, defensive responses, local resilience, escalation thresholds and which exposed configurations reliably produce access. The July wave therefore looks considerably more like sector-wide reconnaissance/disruption opportunity hunting than a handful of unusually unlucky towns.  
+
+⸻
+
+🇺🇸 United States — water-sector technology supply chain
+
+A separate incident disclosed on 26 August adds another layer. The FBI is investigating a breach of Micro-Comm, a Kansas company that makes PLC and supervisory-control technology used by wastewater facilities. Micro-Comm discovered the intrusion on 31 July. The ransomware group Barracuda subsequently published what it claimed were roughly 850,000 files / 644 GB of data on 6 August.  
+
+Operational impact: there is currently no evidence that the breach itself compromised a water utility’s operations. Micro-Comm says customer passwords, credentials and information enabling its own remote access to devices were not stolen, and sensitive material in the affected files was encrypted. However, the leaked file listing reportedly contained references to government customers, a U.S. military facility, employee information and product diagrams. Around 200 Micro-Comm SCADAview CSX systems are independently estimated to be internet-accessible.  
+
+Attribution confidence: high that this is presently being treated as ordinary cybercrime; very low for Iranian involvement. Barracuda describes itself as financially motivated, and Micro-Comm says the FBI characterised the intrusion as opportunistic rather than specifically targeted. The company explicitly says it does not believe this breach is related to the contemporary water-system attacks. There is presently no credible public evidence contradicting that assessment.  
+
+That makes the competing explanation especially useful: criminal rather than state-directed intrusion is currently the leading one.
+
+But it still belongs in this watch because it demonstrates why criminal and wartime threat environments cannot be analysed as completely separate layers. A ransomware crew compromising an industrial-control vendor can expose customer identities, architecture and product information that may later be useful to entirely different operators. Reuters quotes a SentinelOne researcher making essentially this point: publication of the files does not mean water systems were compromised, but the information could assist future attackers.  
+
+Fit with Iranian methods: not presently as an Iranian operation. The downstream opportunity, however, fits the same strategic environment. Iranian-affiliated actors are already known to search opportunistically for exposed PLC infrastructure rather than needing bespoke zero-days against every victim. Any unrelated criminal activity that makes the industrial ecosystem more legible can therefore unintentionally lower the cost of subsequent state, proxy or hacktivist targeting.
+
+Trend since 28 February: this adds a supply-chain layer to the existing picture:
+
+exposed utility PLCs
+→ 100+ systems probed directly
+
+plus, separately:
+
+industrial-control supplier compromised by ransomware
+→ customer/product information leaked
+→ potentially greater future legibility of the same ecosystem
+
+Those arrows should not currently be joined into a claim that Iran commissioned Barracuda. The available evidence says the opposite. The important systems point is that criminal exploitation can create infrastructure intelligence that another actor may later consume without the original criminal ever knowing who benefits.  
+
+Taken together, these developments strengthen one conclusion considerably: the present infrastructure problem is not just a sequence of spectacular cyberattacks. It is an ecology of exposed operational technology, mass reconnaissance, state-linked coercive activity, ordinary cybercrime and vendor information leakage in which several actor populations can exploit the same structural weaknesses for completely different reasons.”
+
+- https://www.reuters.com/world/hack-water-sector-supplier-draws-fbi-scrutiny-iran-linked-cyber-concerns-grow-2026-08-26/
+- https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/
+- https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/
+
