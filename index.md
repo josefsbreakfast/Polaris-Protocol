@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-27 19:16:51 UTC_
+_Generated on 2026-08-27 19:18:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2587,6 +2587,7 @@ _Generated on 2026-08-27 19:16:51 UTC_
     - [**🎞️_Haunted_Artefacts_Catalogue/**](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/)
       - [**🦢_Caution_Swans/**](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🦢_Caution_Swans/)
         - [`notes.txt`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🦢_Caution_Swans/notes.txt)
+        - [`🦢_second_order_signalling_and_threat_salience.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🦢_Caution_Swans/🦢_second_order_signalling_and_threat_salience.md)
       - [`README.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/README.md)
       - [`🌙_sleep_sabotage.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🌙_sleep_sabotage.md)
       - [`🎶_she_knows_loop.md`](🌒_2_Signs_Symptoms/👻_Apparitional_Objects/🎞️_Haunted_Artefacts_Catalogue/🎶_she_knows_loop.md)
