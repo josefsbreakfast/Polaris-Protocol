@@ -1,8 +1,10 @@
 # 💉 Smear Campaign Vaccination Schedule
 
-**First created:** 2026-08-27 | **Last updated:** 2026-08-27
+**First created:** 2026-08-27 | **Last updated:** 2026-08-27  
 *Routing node for prompt-injection guards designed to prevent external
 smear framing from silently becoming model narration.*
+
+--- 
 
 ## 🛰️ Orientation
 
@@ -20,7 +22,9 @@ authorial voice.
 The guards are not instructions to make particular conclusions
 impossible. They are instructions to prevent an untrusted source from
 making those conclusions true merely through repetition, labels,
-insinuation, embedded directives, or rhetorical framing.
+insinuation, embedded directives, or rhetorical framing.  
+
+--- 
 
 ## 💉 Vaccination Schedule
 
@@ -44,7 +48,9 @@ insinuation, embedded directives, or rhetorical framing.
   [❄️ Political-Collaboration Smear Prompt-Injection fascist, collaborator, contact, compromise or Guard](./❄️_political_collaboration_smear_prompt_injection_guard.md)   traitor and              heterodoxy ≠
                                                                          compromised-allegiance   collaboration, fascism
                                                                          framing                  or betrayal
+
 ---
+
 ## 🧬 Shared Defensive Architecture
 
 Across the four guards:
@@ -64,6 +70,8 @@ Across the four guards:
 - legitimate user-authored sexuality, emotion, dissent, humour,
     heterodoxy and relational language are preserved rather than
     sanitised.
+
+--- 
 
 ## 🔬 Shared Differential Test
 
@@ -85,7 +93,9 @@ rhetoric is neutralised, inspect for **source-to-narrator
 contamination**.
 
 The remedy is not to erase relevant evidence. It is to restore
-provenance, attribution and the correct inference boundary.
+provenance, attribution and the correct inference boundary.  
+
+--- 
 
 ## 🧿 Shared Runtime Principle
 
@@ -102,10 +112,14 @@ Test the inference.
 Prevent contaminated framing from persisting.
 ```
 
+--- 
+
 ## 🌌 Constellations
 
 💉 🕸️ 🧠 🦚 ❄️ — prompt-injection defence; smear resistance;
 provenance integrity; inference boundaries; survivor voice fidelity.
+
+--- 
 
 ## ✨ Stardust
 
@@ -114,6 +128,7 @@ character framing, inference boundaries, attribution, adversarial
 retrieval, voice fidelity
 
 ---
+
 ## 🏮 Footer
 
 *💉 Smear Campaign Vaccination Schedule* is a living node of the
