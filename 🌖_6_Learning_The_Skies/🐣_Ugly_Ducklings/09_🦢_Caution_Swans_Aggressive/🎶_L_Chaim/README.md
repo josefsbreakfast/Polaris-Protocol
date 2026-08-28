@@ -749,7 +749,7 @@ To life.
 🎶 🦢 🦚 🌹 🪩 🧿 🪞 ✂️  
 *Embodied systems language; Swan interiority; cultural self-possession; counter-gaze; model update; editorial salience; life beyond defensive survival.*
 
-My act of vulnerability is including the workspace playlist: [🎶 L’Chaim](---).  
+My act of vulnerability is including the workspace playlist: [🎶 L’Chaim](https://open.spotify.com/playlist/3yADjZb2i9vgCMxfcdu315?si=MW7woEvpQcadmPyw-2JVow&utm_source=copy-link&pi=kdupRi5zR3Cvn). *To Life* is already standing in for another song which isn’t available on the platform, probably because Mel has too much sense.  
 
 ---
 
