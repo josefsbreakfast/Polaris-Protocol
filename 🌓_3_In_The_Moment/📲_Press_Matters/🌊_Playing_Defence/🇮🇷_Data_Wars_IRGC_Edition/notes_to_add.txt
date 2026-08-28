@@ -159,3 +159,57 @@ Taken together, these developments strengthen one conclusion considerably: the p
 
 - https://www.theguardian.com/business/2026/aug/27/uk-airports-operator-cyber-attack-customer-data-accessed
 
+20260828:  
+
+“One credible new development is worth flagging today, but it points away from Iran-specific attribution rather than toward it.
+
+🇺🇸 United States — government, energy, telecommunications, healthcare and other critical infrastructure
+
+On 26 August 2026, the U.S. Justice Department and FBI disrupted two platforms, QScan and QTRouter, operated by the China-linked group QTFY. The FBI says QTFY has targeted U.S. government agencies, power companies, telecommunications providers and major hospital systems, while DOJ identifies victims including NASA, the Federal Reserve, the Departments of Energy, Justice and Health and Human Services, and NIH.  
+
+Operational impact: this is not a newly disclosed physical outage like the July water attacks or the British generator shutdown. The disruption instead disabled infrastructure used for intrusion and concealment. QScan automatically scanned and infected thousands of internet-connected devices; QTRouter combined those compromised devices with commercial proxies and VPS infrastructure so subsequent attacks could appear to originate locally rather than from China. DOJ says the domain seizures rendered both platforms inoperable.  
+
+Attribution confidence: high for the QTFY campaign. U.S. authorities describe QTFY as a PRC state-sponsored group linked to Nanjing Xinjiuwei Network Technology and say it sold hacking services to customers including China’s Ministry of State Security and People’s Liberation Army. The FBI explicitly describes QTFY as operating inside a hackers-for-hire + government-client ecosystem.  
+
+Competing explanation relevance: this matters directly to the current Iran-infrastructure watch because it provides another documented actor population targeting overlapping U.S. essential sectors at the same time. It therefore raises the cost of treating an unattributed intrusion into water, energy, government or telecom infrastructure as presumptively Iranian merely because the Iran war creates an obvious motive.
+
+The ecosystem is also strikingly similar to the Iranian contractor problem already emerging from the MOIS/Mabna disclosures:
+
+government customer → nominally private hacking company → scanning/exploitation infrastructure → compromised third-party devices → obscured attack origin.
+
+The important difference is that this particular network is publicly tied to China, not Iran.  
+
+How this changes the trend since 28 February
+
+It does not strengthen the case that the July U.S. water campaign, Siemens probing or UK generator shutdown were Iranian.
+
+It strengthens a different conclusion:
+
+The wartime critical-infrastructure environment now contains multiple state-linked and commercialised hacking ecosystems exploiting many of the same structural weaknesses at once.
+
+That makes attribution by timing, target sector or superficial tradecraft increasingly unreliable.
+
+The developing picture is now at least:
+
+Iran-linked / suspected-Iran activity
+→ exposed PLCs
+→ water and energy disruption / reconnaissance
+
+alongside:
+
+China-linked hacker-for-hire infrastructure
+→ automated internet scanning
+→ compromised routers / cameras / IoT
+→ concealed access into government, energy, telecom and healthcare targets
+
+alongside ordinary ransomware and criminal supplier compromises.
+
+So the meaningful pattern shift is actor-density and attribution contamination: more than one state-linked ecosystem is simultaneously hunting the same broad infrastructure estate, while contractors and compromised third-party devices obscure who is actually behind the keyboard and where the operation originated.  
+
+I found no comparably credible newly disclosed Iran-linked physical disruption on 27–28 August beyond the incidents already tracked. The QTFY disclosure is worth keeping because it materially strengthens the competing-actor model rather than the Iran-attribution case.
+
+U.S. Department of Justice — QScan/QTRouter disruption and QTFY critical-infrastructure targeting⁠￼
+FBI — QTFY botnet disruption and hackers-for-hire network⁠￼”
+
+- https://www.justice.gov/opa/pr/justice-department-and-fbi-seize-platforms-operated-and-used-china-state-sponsored-hackers
+- https://www.fbi.gov/video-repository/fbi-and-doj-announce-botnet-disruption-082626.mp4/view
