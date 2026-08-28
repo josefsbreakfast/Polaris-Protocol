@@ -336,6 +336,508 @@ Different salience.
 
 ---
 
+## 🦚 Monica Is A Morni
+
+The sibling **L'Chaim** node *Phullā̃ De Painde* uses **ਮੋਰਨੀ / morni / peahen** as a relational metaphor.
+
+The useful information is not merely:
+
+> beautiful woman.
+
+The peahen becomes partly legible through what happens to the peacock.
+
+A supposedly formidable man can remain formidable and still become:
+- distracted,
+- vulnerable,
+- emotionally compromised,
+- spectacular,
+- irrational,
+- or willing to rearrange his ordinary behaviour around a woman.
+
+That does not automatically tell us what the woman intended.
+
+It tells us that **the behaviour of the peacock is also data**.
+
+Monica Lewinsky makes this an extraordinarily useful cultural question.
+
+The inherited scandal frame concentrated enormous attention on the younger woman:
+
+```text
+MONICA
+
+→ sexuality
+→ scandal
+→ impropriety
+→ notoriety
+→ what kind of woman does this?
+```
+
+But rotate the gaze:
+
+```text
+MONICA
+        ↓
+PRESIDENT OF THE UNITED STATES
+behaves in an extraordinarily consequential way
+        ↓
+the behaviour of the peacock
+also contains information
+```
+
+The point is not to romanticise the relationship.
+
+Nor is it to infer Lewinsky's internal experience from the behaviour of another person.
+
+The point is about **where explanatory attention was placed**.
+
+A much younger female intern became one of the principal cultural objects through which the scandal was processed, despite the other participant possessing almost incomparably greater political, institutional, social, and communicative power.
+
+The Morni lens asks:
+
+> **Why did so much of the culture treat the extraordinary behaviour of a powerful man as information primarily about the woman?**
+
+Or, in the less technical version:
+
+> **The peacock is on fucking fire. Why are we still interrogating the peahen?**
+
+That is a gaze problem.
+
+---
+
+## 🪶 The Peacock Is Data Too
+
+This is the bridge between the two **L'Chaim** roses.
+
+In *Phullā̃ De Painde*, the former Ugly Duckling has difficulty incorporating a particular category of information:
+
+```text
+people behave differently around me
+→ perhaps I affect people
+→ perhaps the effect is not negative
+→ perhaps admiration / attraction / desire
+   can make another person vulnerable
+```
+
+Negative power is easier to believe because it preserves the old model.
+
+Positive or relational power can require a much larger update.
+
+The Lewinsky cultural archive shows a darker version of the same representational asymmetry.
+
+A woman can become intensely scrutinised because a powerful man behaves consequentially around her.
+
+Then the scrutiny itself can be used to make **her** seem like the unusual object.
+
+```text
+powerful man's behaviour
+→ attention to woman
+→ woman becomes spectacle
+→ spectacle treated as evidence
+   that woman was always the interesting anomaly
+```
+
+That loop hides something obvious.
+
+**His behaviour is information too.**
+
+This does not convert desire into innocence.
+
+It does not remove responsibility from either participant.
+
+It does not establish what anybody privately felt.
+
+It simply refuses an information architecture in which the woman becomes the sole explanatory object while the powerful man's conduct is treated as atmospheric background.
+
+Monica is a **morni** here as a cultural and relational rose:
+
+not a claim about her essence,
+
+but a way of noticing that the peahen was made hyper-visible while the culture repeatedly failed to ask what the peacock's display revealed about the peacock.
+
+---
+
+## 🌹 Stunna Like Monica Lewinsky
+
+This makes the song's treatment of Monica considerably more interesting.
+
+The inherited cultural classifier could render her name approximately as:
+
+```text
+Monica Lewinsky
+→ scandal
+→ humiliation
+→ cautionary tale
+→ female notoriety
+```
+
+The song does not rehabilitate her by trying to remove the notoriety.
+
+It changes its value.
+
+```text
+Monica Lewinsky
+→ stunna
+→ history
+→ female genealogy
+→ somebody worth invoking
+```
+
+That is extremely **L'Chaim**.
+
+The old representation remains available.
+
+The song does not pretend the archive never existed.
+
+Instead:
+
+> **you do not control what her name signifies anymore.**
+
+And once Monica is read beside **morni**, the inversion becomes even cleaner.
+
+The older gaze asks:
+
+> What was it about this woman that produced such scandal?
+
+The counter-gaze notices:
+
+> One of the most powerful men in the world behaved in extraordinarily consequential ways around this woman.
+
+Then:
+
+> Why was *she* made culturally strange?
+
+The peahen does not need to apologise for the display of the peacock.
+
+Sometimes the better model is simply:
+
+```text
+woman exists at full resolution
+
+→ powerful man has an experience
+
+→ powerful man's experience
+   is not automatically evidence
+   of a defect in the woman
+```
+
+This should not be revolutionary information.
+
+Apparently it remains useful.
+
+---
+
+## 🧊 That Stone Cold, Hot-Girl Feeling
+
+Then comes one of the song's most compressed Swan lines:
+
+> **“That stone cold, hot-girl feeling”**
+
+The wording matters because **hot girl** alone would be too simple.
+
+The song has just assembled a genealogy of women culturally processed through scandal, sexuality, excess, notoriety, instability, and public spectacle.
+
+It does not answer that history by making femininity softer.
+
+It gives us:
+
+```text
+stone cold
++
+hot girl
+```
+
+That is an unusually efficient description of the Swan state.
+
+```text
+desirable
++
+formidable
+
+visible
++
+self-possessed
+
+capable of producing vulnerability
++
+not available for vulnerability on demand
+
+pretty
++
+do not fuck with
+```
+
+The old classifier tends to want these states separated.
+
+A woman can be:
+- desirable or threatening,
+- beautiful or difficult,
+- vulnerable or powerful,
+- sexually legible or self-governing,
+- damaged or glamorous.
+
+The lyric refuses the split.
+
+She can be hot **and** stone cold.
+
+The apparent contradiction is the information.
+
+---
+
+## 🦢 Pretty. Also Do Not Fuck With.
+
+This is almost embarrassingly close to the governing Swan metaphor.
+
+A swan is visually coded as:
+- beautiful,
+- graceful,
+- elegant,
+- ornamental,
+- serene.
+
+It is also an animal around which sensible people learn boundaries.
+
+The mistake is assuming that beauty should imply harmlessness.
+
+The same representational mistake appears in gendered form when female desirability is treated as requiring:
+- accommodation,
+- softness,
+- availability,
+- gratitude for attention,
+- emotional accessibility,
+- or reduced defensive capacity.
+
+**Stone cold, hot-girl feeling** rejects that bargain in five words.
+
+The Swan can recognise:
+
+> I am desirable.
+
+without concluding:
+
+> therefore you are entitled to me.
+
+She can recognise:
+
+> I affect people.
+
+without concluding:
+
+> therefore their reactions define me.
+
+She can recognise:
+
+> people are looking.
+
+without returning automatically to:
+
+> something must be wrong.
+
+This is precisely the developmental territory of **L'Chaim**.
+
+The bird has not become less formidable.
+
+She has acquired another interpretation of the plumage.
+
+---
+
+## 🪨 The Armour Does Not Cancel The Hot Girl
+
+There is another reason **stone cold** belongs beside the Ugly Duckling architecture.
+
+The Swan did not necessarily arrive at self-possession through an environment that rewarded softness.
+
+Hardness may have history.
+
+```text
+attention predicted danger
+→ vigilance
+
+misrepresentation predicted consequence
+→ correction
+
+vulnerability predicted exploitation
+→ armour
+
+quiet signals failed
+→ stronger display
+```
+
+Then the organism changes.
+
+The armour may remain.
+
+But something new becomes possible:
+
+```text
+armour
+≠
+absence of desirability
+
+defence
+≠
+absence of pleasure
+
+hardness
+≠
+failure of femininity
+
+survival adaptation
+≠
+complete identity
+```
+
+The lyric does not demand that the woman discard the hardness before she is permitted the **hot-girl feeling**.
+
+That matters.
+
+A conventional recovery story can quietly reproduce the old demand:
+
+> Become safe enough for everybody else to perceive you as feminine again.
+
+The Swan answer is:
+
+> **No. The armour can come too.**
+
+L'Chaim is not life after every defensive adaptation has disappeared.
+
+It is life becoming possible while the organism remains recognisably the organism that survived.
+
+---
+
+## 🦚 Morni, Again
+
+And this loops directly back to Monica as **morni**.
+
+The old cultural frame could process the peahen primarily through the disruption surrounding her.
+
+The counter-gaze notices something else:
+
+```text
+woman
+→ desirable
+
+woman
+→ consequential to powerful man
+
+woman
+→ made culturally hyper-visible
+
+old conclusion:
+there must be something wrong with the woman
+```
+
+But **stone cold, hot-girl feeling** permits another update:
+
+```text
+perhaps being desirable
+is not an admission of guilt
+
+perhaps producing desire
+is not the same as producing misconduct
+
+perhaps another person's loss of composure
+is information about them too
+
+perhaps the peahen
+does not owe us an apology
+for the peacock's display
+```
+
+That is why the line belongs so closely beside **“stunna like Monica Lewinsky.”**
+
+The song is not merely saying:
+
+> Monica was treated badly.
+
+It is doing something culturally more disruptive.
+
+It places her inside an aspirational female vocabulary:
+
+```text
+Monica
+→ stunna
+
+female notoriety
+→ history
+
+hardness
++
+desirability
+→ hot-girl feeling
+```
+
+The inherited cautionary object becomes part of the Swan's genealogy.
+
+And crucially, she does not have to become harmless first.
+
+---
+
+## 🫦 The Hot Girl Updates Her Own Model
+
+There is a final inward-facing piece.
+
+The Keepers are not the only ones capable of retaining an obsolete representation.
+
+The Swan can have an old ledger too.
+
+If the inherited internal model says:
+
+```text
+attention
+→ scrutiny
+
+other people's strong reactions
+→ danger
+
+sexual visibility
+→ vulnerability
+
+being difficult
+→ being undesirable
+```
+
+then **stone cold, hot-girl feeling** represents a substantial model update.
+
+Not:
+
+> I have finally become acceptable.
+
+But:
+
+> **Wait. These things were never mutually exclusive.**
+
+```text
+I can be difficult
+and desirable.
+
+I can be defended
+and wanted.
+
+I can be conspicuous
+and self-governing.
+
+I can be looked at
+without becoming an object.
+
+I can be stone cold
+and still know exactly
+what the fucking plumage is doing.
+```
+
+That is not merely confidence.
+
+It is a correction to the classifier.
+
+The Swan has looked at the Swan Data.
+
+Apparently:
+
+**hot girl.**
+
+Extraordinary.
+
+---
+
 ## 🪩 The Dominatrix Problem
 
 The visual register matters too.
