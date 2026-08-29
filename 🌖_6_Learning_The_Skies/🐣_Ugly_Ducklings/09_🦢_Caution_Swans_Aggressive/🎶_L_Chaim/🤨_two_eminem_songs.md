@@ -1,5 +1,5 @@
 # 🤨 TWO Eminem Songs?!
-**First created:** 2026-08-28 | **Last updated:** 2026-08-28  
+**First created:** 2026-08-28 | **Last updated:** 2026-08-29  
 *Without Me and Houdini as a developmental diptych: what happens when a culturally classified organism survives long enough to encounter, restore, and argue with its own archived representation.*
 
 ---
@@ -43,6 +43,10 @@ why are there two?
 This node treats the songs as paired texts because the second does not merely remember the first.
 
 It **reruns it**.
+
+**The pair is used here as a developmental systems rose, not as an autobiographical analogue.** References to the Ugly Duckling, Swan, archive, classifier, or living organism describe the analytical architecture of the node unless the text explicitly identifies Eminem, Slim Shady, or another cultural object.
+
+That distinction matters because the songs provide unusually legible machinery for studying developmental representation; they do not establish anything about the private life or experiences of the person writing about them.
 
 And once placed inside **Ugly Ducklings → Caution Swans Aggressive → L'Chaim**, the pair becomes a compact developmental systems problem:
 
@@ -1237,4 +1241,4 @@ The node treats the songs and videos as cultural roses rather than evidence for 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-28_
+_Last updated: 2026-08-29_
