@@ -1498,3 +1498,126 @@ It examines how more than three centuries of Romanov rule became usable historic
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-08-29_
+
+<!--  
+
+## 📚 Outstanding Research Queue
+
+### Existing material to integrate
+
+- [ ] Deep-read Joe Colleyshaw rather than relying only on the existing summary.
+- [ ] Map the Romanov sections of *Russia — My History* ruler by ruler.
+- [ ] Pull existing research already collected elsewhere in Polaris before duplicating work.
+
+### Romanov rehabilitation timeline
+
+- [ ] Build a detailed chronology covering:
+  - late Soviet period;
+  - recovery / identification of the imperial remains;
+  - 1991 excavation;
+  - 1998 reburial;
+  - 2000 canonisation;
+  - 2007 discovery of the second grave;
+  - subsequent forensic / Church disputes;
+  - early Putin period;
+  - 2010s;
+  - post-Crimea;
+  - post-2022;
+  - current period.
+
+- [ ] Establish what changes under Yeltsin versus Putin.
+
+- [ ] Identify which processes are:
+  - state-led;
+  - Church-led;
+  - academic;
+  - commercial;
+  - popular;
+  - museum / heritage-led.
+
+### Russian voices
+
+- [ ] Add Russian scholarship on contemporary Romanov memory.
+- [ ] Add Russian-language sources where possible.
+- [ ] Research polling concerning:
+  - monarchy;
+  - Romanovs;
+  - Nicholas II.
+- [ ] Look for:
+  - oral histories;
+  - museum reception;
+  - popular responses;
+  - generational differences;
+  - regional differences.
+
+### Orthodoxy
+
+- [ ] Research Nicholas II's canonisation in detail.
+- [ ] Preserve the distinction between:
+  - political judgement;
+  - passion-bearer status.
+- [ ] Map restoration / reburial / memorialisation of the imperial family.
+- [ ] Establish the Church's position on the remains over time.
+
+### Cultural baseline
+
+- [ ] Examine school curricula and textbooks.
+- [ ] Examine major television / film portrayals.
+- [ ] Examine museums and imperial heritage tourism.
+- [ ] Examine monuments and commemorations.
+- [ ] Establish baseline prevalence of Peter I references.
+- [ ] Establish baseline prevalence of other Romanov rulers.
+- [ ] Track what contemporary representations:
+  - omit;
+  - condemn;
+  - rehabilitate;
+  - sentimentalise.
+
+### Political reuse
+
+- [ ] Examine presidential references to Romanov rulers over time.
+- [ ] Compare Putin with other Russian state institutions.
+
+- [ ] Ask:
+  > Is this Putin's repertoire, or Russia's?
+
+- [ ] Test whether internal Romanov memory increasingly appears in externally directed Russian communication.
+- [ ] Do not assume that progression before establishing it.
+
+### Romanov / Soviet relationship
+
+- [ ] Look for evidence that Romanov and Soviet memories are:
+  - deliberately reconciled;
+  - institutionally combined;
+  - merely coexisting;
+  - selectively deployed according to context.
+
+- [ ] Feed findings into:
+  - `👻_the_soviet_ghost_in_the_room.md`;
+  - `🧬_which_russia_is_speaking.md`.
+
+### Questions worth carrying into the next pass
+
+- [ ] When does Romanov rehabilitation become politically significant rather than simply historical recovery?
+- [ ] Which Romanovs are most frequently invoked, and by whom?
+- [ ] Which Romanovs are conspicuously *not* useful?
+- [ ] Does the pattern differ between:
+  - Kremlin rhetoric;
+  - Church rhetoric;
+  - military rhetoric;
+  - museums / education;
+  - popular culture?
+- [ ] Can we demonstrate a chronological movement from:
+  - recovery;
+  - → normalisation;
+  - → selective political reuse;
+  - → external strategic signalling?
+- [ ] Which parts of this process predate Putin?
+- [ ] Which parts substantially accelerate under Putin?
+- [ ] Which parts substantially accelerate after 2014?
+- [ ] Which parts substantially accelerate after 2022?
+- [ ] What do Russian audiences themselves report hearing in these references?
+- [ ] Most importantly:
+  > What is normal Russian historical culture, and what is actually an unusual signal?  
+
+  -->
