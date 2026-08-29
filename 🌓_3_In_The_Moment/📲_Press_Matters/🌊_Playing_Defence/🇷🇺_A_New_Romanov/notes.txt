@@ -1,3 +1,41 @@
+🇷🇺_A_New_Romanov/
+│
+├── README.md
+│
+├── 👑_peter_the_first.md
+├── 🏛️_the_romanov_memory.md
+├── 🪩_where_the_romanov_analogy_breaks.md
+├── ☭_the_soviet_ghost_in_the_room.md
+├── 🧬_which_russia_is_speaking.md
+│
+├── 🌀_influential_communication.md
+├── 🗺️_internal_and_external_russia.md
+├── 🛰️_audience_architecture.md
+├── 🇺🇸_washington_is_not_london.md
+│
+├── ⏱️_uk_russia_signal_timeline.md
+├── 🇬🇧_what_is_britain_signalling.md
+├── 📰_what_the_press_thinks_is_happening.md
+├── 🧠_what_the_security_people_think_is_happening.md
+│
+├── 🦠_the_data_barons_and_national_security.md
+├── 💾_the_data_state.md
+├── 🕸️_the_men_around_the_machine.md
+├── 🧾_epstein_as_accidental_topology.md
+├── 💸_emergency_is_a_market_condition.md
+├── 🧪_asset_accelerationism_and_defence.md
+├── 🌐_when_private_infrastructure_becomes_state_power.md
+├── ⚖️_emergency_power_and_governance.md
+│
+├── ⚓_deterrence_without_a_destination.md
+├── ☢️_trident_and_path_dependence.md
+├── 🌾_what_diplomacy_buys.md
+├── 🥣_the_weetabix_test.md
+├── 🤝_after_russia_stops.md
+│
+└── 🧪_predictions_and_falsification.md
+
+
 # 🇷🇺 A New Romanov? — Folder Skeleton, Working Notes, and Source Register
 **Working date:** 2026-08-29
 
