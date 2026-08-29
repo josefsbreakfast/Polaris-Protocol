@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-29 14:52:10 UTC_
+_Generated on 2026-08-29 14:56:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3582,6 +3582,7 @@ _Generated on 2026-08-29 14:52:10 UTC_
         - [`🧬_one_war_many_threat_ecosystems.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧬_one_war_many_threat_ecosystems.md)
         - [`🧭_what_this_pack_is_tracking.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧭_what_this_pack_is_tracking.md)
       - [**🇷🇺_A_New_Romanov/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/)
+        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/notes.txt)
         - [`⏱️_uk_russia_signal_timeline.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/⏱️_uk_russia_signal_timeline.md)
         - [`☢️_trident_and_path_dependence.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/☢️_trident_and_path_dependence.md)
