@@ -1,6 +1,10 @@
 # ✈️ The NEETs, Their Data, and Your Stagnant GDP
-**First created:** 2026-08-28 | **Last updated:** 2026-08-28  
+**First created:** 2026-08-28 | **Last updated:** 2026-08-29  
 *An Ugly Ducklings hypothesis about participation-depleted populations, informational extraction, data sovereignty, and the possibility that some private productivity gains have been purchased with uncounted losses elsewhere in the human economy.*
+
+> **Reading note — analytical figure, not autobiography**
+>
+> The bird, Peter, Paul, and first-person states used in diagrams or compressed examples are analytical devices. They do not by themselves constitute autobiographical claims, allegations about particular actors, or evidence that any proposed mechanism occurred in a specific real-world case. Where the node moves from observation to hypothesis, it says so; causal, legal, and attribution claims require their own evidence.
 
 ---
 
@@ -91,7 +95,7 @@ There are people cycling through unstable work.
 
 There are people doing large amounts of unpaid care, creative production, digital participation, defensive administration, or informal work which conventional measures only partially recognise.
 
-There are people whose capacity to participate has become substantially smaller than the plausible counterfactual of what they might otherwise have done.
+There are people whose observed participation has fallen substantially, including cases where researchers or the individuals concerned may reasonably ask what participation might have looked like under different conditions.
 
 For this node, **NEET-like** or **participation-depleted** therefore describes an analytical territory rather than a new official category.
 
@@ -135,9 +139,11 @@ From the dashboard:
 
 > disengaged person.
 
-From inside the bird:
+As a modelled interior state:
 
 > Every fucking door keeps hurting me.
+
+That sentence represents a possible position inside the model. It is not, by itself, an autobiographical claim.
 
 These are not the same description.
 
@@ -406,7 +412,7 @@ Questions about copyright, data protection, consent, provenance, compensation, f
 
 Economically, however, they repeatedly return us to one awkward question:
 
-> **If the informational ecology was valuable enough to help produce an extraordinarily valuable asset, where was the value of the original input recorded?**
+> **If human-produced informational inputs were valuable enough to help produce an extraordinarily valuable asset, where was the value of the original input recorded?**
 
 This does not establish that every input was unlawfully acquired.
 
@@ -414,11 +420,15 @@ It does not establish that every contributor is owed the same form of compensati
 
 It does establish that **availability and economic valuelessness are not synonyms**.
 
+That economic observation alone does not establish ownership, infringement, compensable contribution, individual entitlement, or causal harm. Those require separate legal and empirical analysis.
+
 The fact that an input was easy to acquire does not mean it was economically irrelevant.
 
 ---
 
 ## 🕸️ Surveillance Capitalism Eats Its Workers Too
+
+**The heading states the hypothesis at maximum rhetorical compression. The section below states the narrower testable claim.**
 
 The familiar critique of surveillance capitalism concerns privacy, autonomy, consent, manipulation, and power.
 
@@ -624,7 +634,7 @@ Peter's depletion may later be booked as:
 
 Then policymakers ask why Peter is not contributing enough.
 
-Peter may reasonably respond:
+In the accounting metaphor, Peter may reasonably respond:
 
 > **You already spent me.**
 
@@ -706,6 +716,8 @@ concentrated informational power
 This is a systems comparison.
 
 It is not a claim that the systems are historically or ideologically identical.
+
+The comparison should therefore be tested at the level of mechanisms — information concentration, correction failure, elite insulation, surveillance, allocation, and legitimacy — rather than by treating ideological labels as interchangeable.
 
 ---
 
@@ -1044,8 +1056,8 @@ The node does not propose a universal explanation for NEET status, economic inac
 >
 > - [🐣 Ugly Ducklings](../README.md) — *developmental vulnerability, selective extraction, distributed information, and trajectory loss across the wider sequence*
 > - [🦢 Caution Swans Aggressive](./) — *model lag, defensive adaptation, and what happens when inherited representations encounter organisms capable of answering back*
-> - [🦚 ਫੁੱਲਾਂ ਦੇ ਪੈਂਦੇ / Phullā̃ De Painde / When The Flowers Fall](./🎶_L_Chaim/🦚_ਫੁੱਲਾਂ_ਦੇ_ਪੈਂਦੇ.md) — *the interior Swan perspective: attention, vulnerability, cultural legibility, and the difficult update from threat to recognition*
+> - [🦚 ਫੁੱਲਾਂ ਦੇ ਪੈਂਦੇ / Phullā̃ De Painde / When The Flowers Fall](./🎶_L_Chaim/🦚_ਫੁੱਲਾਂ_ਦੇ_ਪੈਂਦੇ.md) — *modelled Swan interiority; threat-weighted attention, cultural legibility, and the possibility of distinguishing threat from other meanings without presuming what ambiguous attention signifies*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-28_
+_Last updated: 2026-08-29_
