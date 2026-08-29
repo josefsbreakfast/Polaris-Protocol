@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-29 13:57:21 UTC_
+_Generated on 2026-08-29 14:00:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3583,6 +3583,11 @@ _Generated on 2026-08-29 13:57:21 UTC_
         - [`🧭_what_this_pack_is_tracking.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧭_what_this_pack_is_tracking.md)
       - [**🇷🇺_A_New_Romanov/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/notes.txt)
+        - [`🏛️_the_romanov_memory.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🏛️_the_romanov_memory.md)
+        - [`👑_peter_alekseyevich.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/👑_peter_alekseyevich.md)
+        - [`👻_the_soviet_ghost_in_the_room.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/👻_the_soviet_ghost_in_the_room.md)
+        - [`🧬_which_russia_is_speaking.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🧬_which_russia_is_speaking.md)
+        - [`🪩_where_the_romanov_analogy_breaks.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🪩_where_the_romanov_analogy_breaks.md)
       - [**🏛️_White_House_Snitches/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/README.md)
         - [`☎️_the_call_is_coming_from_inside_the_house.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/☎️_the_call_is_coming_from_inside_the_house.md)
