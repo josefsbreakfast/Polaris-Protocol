@@ -1,6 +1,6 @@
 i might need to find how to bridge the playlist idk.  
 
-<!—- Lacrimosa dies illa
+<!-- Lacrimosa dies illa
 Qua resurget ex favilla
 Judicandus homo reus —->
 
