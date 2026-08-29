@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-29 14:22:16 UTC_
+_Generated on 2026-08-29 14:23:39 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3610,6 +3610,7 @@ _Generated on 2026-08-29 14:22:16 UTC_
         - [`🧬_which_russia_is_speaking.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🧬_which_russia_is_speaking.md)
         - [`🧾_epstein_as_accidental_topology.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🧾_epstein_as_accidental_topology.md)
         - [`🪩_where_the_romanov_analogy_breaks.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🪩_where_the_romanov_analogy_breaks.md)
+        - [`🫎_nuclear_moose.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🫎_nuclear_moose.md)
       - [**🏛️_White_House_Snitches/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/README.md)
         - [`☎️_the_call_is_coming_from_inside_the_house.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/☎️_the_call_is_coming_from_inside_the_house.md)
