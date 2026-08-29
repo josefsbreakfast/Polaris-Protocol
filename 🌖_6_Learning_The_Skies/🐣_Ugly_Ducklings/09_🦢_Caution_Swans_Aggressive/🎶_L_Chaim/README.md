@@ -13,6 +13,8 @@
 > The songs and cultural objects in this folder are **analytical roses, not depositions**. Symbolic fit is not empirical proof. Perceived attention is not proof of attention; attention is not proof of attraction, hostility, surveillance, or intent; and another person's behaviour is not proof of the Swan's desirability, culpability, power, or private experience.
 >
 > Read the layer being analysed: **artefact → cultural rose → analytical model → evidence**, without collapsing those layers into one another.
+>
+> For some men, nothing is sacred ground, which is exactly why the music must be ours.  
 
 ---
 
