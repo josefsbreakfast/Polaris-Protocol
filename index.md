@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-29 01:47:09 UTC_
+_Generated on 2026-08-29 01:52:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5044,7 +5044,6 @@ _Generated on 2026-08-29 01:47:09 UTC_
       - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/07_🦚_Bedazzling_Peacocks/README.md)
     - [**08_❄️_Demeter_Brings_Winter/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/08_❄️_Demeter_Brings_Winter/)
       - [`README.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/08_❄️_Demeter_Brings_Winter/README.md)
-      - [`✈️_the_neets_problem.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/08_❄️_Demeter_Brings_Winter/✈️_the_neets_problem.md)
       - [`✈️_the_neets_their_data_and_your_stagnant_gdp.md`](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/08_❄️_Demeter_Brings_Winter/✈️_the_neets_their_data_and_your_stagnant_gdp.md)
     - [**09_🦢_Caution_Swans_Aggressive/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/09_🦢_Caution_Swans_Aggressive/)
       - [**🎶_L_Chaim/**](🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/09_🦢_Caution_Swans_Aggressive/🎶_L_Chaim/)
