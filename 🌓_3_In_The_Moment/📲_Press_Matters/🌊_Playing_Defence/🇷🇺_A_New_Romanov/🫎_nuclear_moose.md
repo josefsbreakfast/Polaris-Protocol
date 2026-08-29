@@ -227,3 +227,91 @@
   - if soft-power relationships remain intact;
   - if target states do not diversify or harden;
   - then the "rhetorical victory / strategic weakening" comparison becomes weaker.
+
+## Unfortunately, Britain Should Work More Closely With Canada
+
+- The comparison produces an inconvenient strategic conclusion:
+  - deeper UK–Canada cooperation makes considerable sense.
+
+- Canada is useful to Britain as:
+  - a NATO ally;
+  - a Five Eyes partner;
+  - an Arctic power;
+  - a North Atlantic partner;
+  - a large energy / natural-resource producer;
+  - a technologically capable middle power;
+  - a state currently having to think seriously about economic coercion,
+    sovereignty and asymmetric dependence.
+
+- Britain and Canada therefore have overlapping interests around:
+  - Arctic security;
+  - North Atlantic security;
+  - intelligence;
+  - cyber;
+  - critical infrastructure;
+  - energy security;
+  - supply-chain resilience;
+  - economic security;
+  - defence-industrial cooperation;
+  - diversification of strategic dependencies.
+
+- Canada is particularly interesting as a comparative middle-power case:
+  - materially weaker than the United States;
+  - deeply economically integrated with it;
+  - nevertheless possessing meaningful leverage;
+  - unable simply to remove the larger power from its strategic environment.
+
+- Britain faces a different but structurally useful problem with Russia:
+  - Russia is geographically unavoidable within European security;
+  - it possesses considerably greater nuclear and military capacity;
+  - Britain nevertheless retains substantial independent and allied leverage.
+
+- Shared strategic question:
+  > How does a middle power preserve sovereign room for manoeuvre when
+  > confronted by coercion from a materially larger state?
+
+- Canadian experience may therefore be useful for thinking about:
+  - dependency without helplessness;
+  - diversification;
+  - calibrated retaliation;
+  - preservation of long-term leverage;
+  - alliance-building;
+  - economic resilience;
+  - refusing symbolic humiliation without allowing anger to dictate policy.
+
+- Important distinction:
+  > Having leverage does not require immediately using every lever available.
+
+- Britain can potentially learn from Canada's need to distinguish:
+  - satisfying retaliation;
+  from:
+  - strategically useful retaliation.
+
+- Conversely, Britain offers Canada:
+  - another major intelligence relationship;
+  - European security connectivity;
+  - nuclear deterrence;
+  - defence-industrial capability;
+  - maritime capability;
+  - additional strategic relationships beyond Washington.
+
+- This makes UK–Canada cooperation potentially useful not merely because
+  both states are traditional allies, but because both increasingly need
+  strategies for maintaining sovereign agency inside systems dominated by
+  substantially larger powers.
+
+- Wider cluster implication:
+  > Resilience is partly the ability to retain choices.
+
+- Unfortunately:
+  - this means the Canadians have made themselves strategically useful.
+
+- More unfortunately:
+  - they achieved this while apparently developing distributed
+    cervid-based deterrence without informing Britain.
+
+- Current bilateral position:
+  > cooperation should therefore be strengthened.
+
+- Outstanding British diplomatic demand:
+  > show us the fucking moose.
