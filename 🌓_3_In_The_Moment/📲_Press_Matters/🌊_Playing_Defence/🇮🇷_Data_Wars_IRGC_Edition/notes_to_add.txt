@@ -213,3 +213,53 @@ FBI — QTFY botnet disruption and hackers-for-hire network⁠￼”
 
 - https://www.justice.gov/opa/pr/justice-department-and-fbi-seize-platforms-operated-and-used-china-state-sponsored-hackers
 - https://www.fbi.gov/video-repository/fbi-and-doj-announce-botnet-disruption-082626.mp4/view
+
+20260829:  
+
+There is one credible new incident worth adding today, and one Iran-linked development that is better treated as a watch signal rather than a confirmed infrastructure incident.
+
+🇺🇸 United States — federal government / law enforcement
+
+The U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives confirmed a cyberattack on a standalone system containing information about targets of ATF investigations. Senior Justice Department officials classified it as a “major incident,” which under federal rules means the breach could create significant harm to national security, government operations, or civil liberties and requires congressional notification. The affected environment was disconnected, and ATF says its enterprise network, eForms, case-management and laboratory systems were not affected.  
+
+Operational impact: no mission-wide outage is reported. The immediate risk is investigative compromise rather than service disruption: sensitive data about subjects of federal investigations sat on the affected system. ATF has not yet said whether files were exfiltrated or how many investigations may be implicated.  
+
+Timing: the incident became public on 26–27 August 2026. Qilin, a prolific ransomware-as-a-service operation, listed ATF on its leak site around the same time.  
+
+Attribution confidence: low-to-moderate for Qilin, very low for any Iranian connection. Qilin claimed responsibility but initially supplied no proof sample or technical details, and ATF itself has not attributed the breach to the group. Reporting describes Qilin as a Russian-speaking or Russia-associated criminal ransomware ecosystem rather than an Iranian state actor.  
+
+The competing explanations therefore remain important: a Qilin affiliate may have performed the intrusion directly; an initial-access broker may have sold the access; the gang may be exaggerating the scope; or a different actor may ultimately sit behind the intrusion. The ransomware-as-a-service model itself makes the final operator harder to infer from the brand appearing on the leak site.
+
+This does not fit known Iranian methods strongly enough to treat it as Iran-adjacent on attribution grounds. The reason it matters to this watch is structural: another U.S. federal system containing sensitive operational data has been successfully penetrated during the same period in which state-linked Chinese, suspected Iranian and ordinary criminal operators are all hunting overlapping parts of the American state and infrastructure estate.
+
+How this changes the trend since 28 February
+
+The meaningful shift is not “Iran is now attacking ATF.”
+
+It is:
+
+state-linked espionage + wartime infrastructure probing + ransomware-as-a-service are increasingly occupying the same institutional attack surface.
+
+The current picture now includes:
+
+suspected Iranian / Iran-linked activity
+→ exposed PLCs and industrial systems
+→ water and energy disruption / reconnaissance
+
+China-linked contractor activity
+→ government, energy, telecom, healthcare and defence access
+
+criminal ransomware ecosystems
+→ federal law-enforcement systems and infrastructure suppliers
+
+That actor density matters because it makes timing and target sector alone progressively less useful for attribution. A breach occurring during the Iran war may still be ordinary criminal activity, while a criminal-looking operator may in other cases be serving a state customer. The ATF incident is therefore useful chiefly as another warning against forcing every contemporary infrastructure compromise into a single Iran-shaped explanation.
+
+🇮🇷 Iran-linked watch signal — Tortoiseshell
+
+Separately, researchers reported on 26 August that Iran-linked espionage group Tortoiseshell / UNC1549 / Nimbus Manticore has added a reverse-SSH tunnelling capability and a new C++ backdoor. Infrastructure discovered during the investigation used country-themed subdomains referencing the UK, Belgium, Canada, Australia, Japan, Saudi Arabia and the UAE. The group has previously targeted defence, aerospace, aviation, IT-service and military organisations.  
+
+This is not yet a confirmed new essential-infrastructure compromise. The country-labelled infrastructure could represent staging conventions rather than actual victims, and researchers have not tied all of those servers to matching malware samples. So I would not count it alongside the water, power or ATF incidents.
+
+It is nevertheless a credible watch signal because it suggests an Iran-linked actor with an established defence/aerospace focus is maintaining redundant persistence tooling and potentially widening geographic preparation beyond its traditional Middle East/U.S. base.  
+
+Overall, today’s update strengthens the mixed-ecosystem model, not the Iran-attribution case: several state-linked and criminal populations are now demonstrably operating against overlapping government and critical-infrastructure environments, which raises the evidentiary bar for attributing any single incident from target, timing or superficial technique alone.
