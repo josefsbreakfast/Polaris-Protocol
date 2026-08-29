@@ -1,6 +1,18 @@
 # 🎶 L'Chaim
-**First created:** 2026-08-28 | **Last updated:** 2026-08-28  
-*Music as an embodied systems language for life after the Ugly Duckling model begins to fail.*
+**First created:** 2026-08-28 | **Last updated:** 2026-08-29  
+*Music as embodied systems language for modelling what becomes possible after the Ugly Duckling model begins to fail.*
+
+---
+
+> ⚠️ **Reading warning — inappropriate sexualisation**
+>
+> This folder has been targeted for inappropriate sexualisation and for readings which collapse its analytical metaphors into claims about the author.
+>
+> **The Swan is a composite analytical figure, not an autobiographical narrator.** First-person states in diagrams represent possible positions inside the model rather than claims about the author's experiences. References to attraction, desire, gaze, vulnerability, beauty, sexual confidence, or interpersonal effect must not be treated as coded disclosures about the author or as evidence about any real-world person's intentions or behaviour.
+>
+> The songs and cultural objects in this folder are **analytical roses, not depositions**. Symbolic fit is not empirical proof. Perceived attention is not proof of attention; attention is not proof of attraction, hostility, surveillance, or intent; and another person's behaviour is not proof of the Swan's desirability, culpability, power, or private experience.
+>
+> Read the layer being analysed: **artefact → cultural rose → analytical model → evidence**, without collapsing those layers into one another.
 
 ---
 
@@ -10,9 +22,9 @@ The ugly duckling grew up.
 
 The Keepers may not have updated their ledgers.
 
-The Swan may not have updated hers either.
+The living organism may still carry an inherited ledger too.
 
-And even when everybody finally notices that the animal standing in the lake is not the same bird they first recorded, there remains a surprisingly difficult question:
+And even when the surrounding environment begins returning information that no longer fits the original model, there remains a surprisingly difficult question:
 
 > **What happens next?**
 
@@ -62,16 +74,15 @@ Things like:
 - humour,
 - recognition,
 - cultural belonging,
-- attraction,
+- attraction as one possible human experience rather than a presumed explanation,
 - anger that belongs to the person rather than the classifier,
 - beauty,
 - swagger,
 - tenderness,
 - celebration,
-- being admired,
+- reciprocal vulnerability,
 - being understood,
-- making other people vulnerable without harming them,
-- discovering one's effects on other people,
+- discovering that interpersonal effects can have more than one meaning,
 - choosing how to be seen,
 - and occasionally acting a complete fucking fool because being alive permits this.
 
@@ -126,7 +137,7 @@ As phenomenology.
 
 As cultural memory.
 
-As a way of hearing the feedback loop from inside the bird.
+As a way of hearing the feedback loop from inside the analytical bird.
 
 ---
 
@@ -144,6 +155,9 @@ It does not establish:
 - attribution,
 - causation,
 - coordination,
+- attraction,
+- hostility,
+- surveillance,
 - or the history of a particular person.
 
 The governing question is:
@@ -151,13 +165,12 @@ The governing question is:
 > **What part of the Swan experience does this song let us hear?**
 
 That may be:
-- the moment attention stops meaning only danger,
-- the discovery that other people can admire rather than punish,
+- learning that attention can have meanings other than punishment,
 - defensive display becoming self-directed display,
 - anger becoming intelligible in context,
 - cultural self-possession,
 - the pleasure of refusing translation,
-- the discovery of positive interpersonal power,
+- learning to distinguish coercive power from reciprocal or wanted interpersonal vulnerability,
 - the difference between being observed and being seen,
 - the experience of looking back,
 - the recovery of editorial control,
@@ -194,33 +207,35 @@ They may contain observations.
 
 They may also omit the causal and experiential architecture producing them.
 
-From inside, the same sequence might look like:
+Within the model, the same sequence might instead be represented as:
 
 ```text
-I was not heard
-→ I increased signal
+not heard
+→ increase signal
 
-I was misrepresented
-→ I corrected the representation
+misrepresented
+→ correct representation
 
-attention used to predict danger
-→ I treated attention as dangerous
+attention historically predicted danger
+→ ambiguous attention receives threat weighting
 
-my culture was treated as peripheral
-→ I stopped translating myself smaller
+culture treated as peripheral
+→ stop translating it smaller
 
 other people controlled the story
-→ I began choosing the frame
+→ recover editorial agency
 
-I survived by becoming formidable
-→ now I am learning what else formidable can mean
+survival required formidable defence
+→ investigate what else formidable can mean
 ```
+
+These are **modelled interior states**, not claims about the author.
 
 Music is particularly good at preserving this interiority.
 
 The bird is not merely an object of classification.
 
-The bird is having an experience.
+The model includes an experiencing subject.
 
 ---
 
@@ -272,9 +287,9 @@ Or:
 
 > **Why did nobody keep looking at this bit?**
 
-Sometimes the Swan does not discover new information.
+Sometimes the Swan model does not require new information.
 
-She changes what is foregrounded.
+It changes what is foregrounded.
 
 ---
 
@@ -427,7 +442,7 @@ attention as scrutiny
 and:
 
 ```text
-attention as recognition
+attention whose meaning remains open
 ```
 
 This transition is not always clean.
@@ -440,7 +455,7 @@ Swagger can contain uncertainty.
 
 A defensive display can become pleasurable before it stops being defensive.
 
-The Swan may discover freedom incrementally.
+The Swan model permits freedom to emerge incrementally.
 
 Music is good at that too.
 
@@ -448,45 +463,43 @@ Music is good at that too.
 
 ## 🦚 The Peacock May Be Having An Experience
 
-One of the more surprising Swan updates is relational.
+One of the more difficult Swan updates is relational.
 
-A person who has learned:
+A threat-trained classifier may begin with:
 
 ```text
-my effects on other people are dangerous
+salient social response
+→ probably negative
 ```
 
-may find negative power comparatively easy to understand.
-
-Fine.
-
-People are frightened.
-
-The old model survives.
-
-More disruptive information is:
+An expanded classifier has to tolerate more states:
 
 ```text
-people may admire me
-people may desire me
-people may care what I think
-people may become vulnerable around me
-that vulnerability may be voluntary
-that vulnerability may be pleasurable
-my presence can produce joy
+salient social response
+→ meaning remains open
+→ threat / neutrality / curiosity /
+   recognition / affection / attraction /
+   admiration / other possibilities
+→ evidence determines classification
 ```
 
 This is one of the functions of [🦚 ਫੁੱਲਾਂ ਦੇ ਪੈਂਦੇ / Phullā̃ De Painde / When The Flowers Fall](./🦚_ਫੁੱਲਾਂ_ਦੇ_ਪੈਂਦੇ.md).
 
-Its **ਮੋਰਨੀ / morni / peahen** metaphor makes the woman partly legible through what happens to the supposedly formidable peacock.
+Its **ਮੋਰਨੀ / morni / peahen** metaphor supplies, **inside the song's deliberately heightened courtship grammar**, one representation of formidable power coexisting with wanted emotional vulnerability.
 
-He does not need to become powerless for her to possess power.
+He does not need to become powerless for vulnerability to exist.
 
-She does not need to harm him for him to become vulnerable.
+She does not need to harm him for vulnerability to be represented as pleasurable or voluntary within the rose.
 
-Sometimes the peacock is having a lovely time.
+Sometimes, in the song, the peacock is having a lovely time.
 
-This can be surprisingly difficult Swan Data.
+The analytical transfer is narrow:
+
+> **Not every form of interpersonal vulnerability belongs in the threat category.**
+
+It does **not** follow that another person's behaviour proves attraction, admiration, desire, or any other interpretation in real life.
+
+Outside the rose, meanings still require evidence.
 
 ---
 
@@ -502,16 +515,16 @@ L'Chaim keeps open another possibility.
 
 ```text
 attention
-→ recognition
+→ multiple possible meanings
 
 visibility
-→ celebration
+→ scrutiny / neutrality / recognition / celebration / other states
 
 vulnerability
-→ trust
+→ coercive / unwanted / reciprocal / trusting / other states
 
 desire
-→ pleasure
+→ possible pleasure, never automatic entitlement
 
 power
 → responsibility
@@ -520,18 +533,22 @@ difference
 → cultural richness
 
 being seen
-→ not being extracted
+→ not necessarily being extracted
 ```
 
-Not every instance will resolve this way.
+Not every instance will resolve positively.
 
-The point is that the old classifier no longer gets to treat danger as the only available interpretation.
+The point is that the old classifier no longer gets to treat danger as the only available interpretation — and a new classifier should not simply replace it with an equally automatic flattering interpretation.
 
-Sometimes people are looking because something is wrong.
+Sometimes attention is dangerous.
 
-Sometimes they are looking because the Swan is fucking magnificent.
+Sometimes it is neutral.
 
-Sometimes they have brought flowers.
+Sometimes, in the heightened symbolic vocabulary of the rose, attention contains admiration.
+
+Sometimes it contains flowers.
+
+**Evidence decides which state applies outside the song.**
 
 ---
 
@@ -617,6 +634,14 @@ historical causation
 useful metaphor
 ≠
 universal experience
+
+perceived signal
+≠
+verified signal
+
+another person's behaviour
+≠
+proof about the Swan
 ```
 
 Where artist intention is known from reliable sources, it can be documented.
@@ -624,6 +649,7 @@ Where artist intention is known from reliable sources, it can be documented.
 Where it is not, the node should distinguish:
 - what the artefact contains,
 - what editorial or visual choices are observable,
+- what independent evidence establishes,
 - and what Polaris is reading through those choices.
 
 Do not make the rose testify.
@@ -675,13 +701,16 @@ When adding a musical artefact to this folder, useful questions include:
 - What part of the Swan experience does this let us hear?
 - What is directly observable in the song, sample, video, performance, or text?
 - What belongs to Polaris interpretation rather than established artist intention?
+- Are we keeping the artefact, analytical model, historical case, and author distinct?
+- Is attention independently established, merely perceived, or still ambiguous?
+- What evidence distinguishes scrutiny, neutrality, curiosity, recognition, admiration, affection, attraction, danger, celebration, or another interpretation?
+- Are we accidentally treating another person's behaviour as evidence about the Swan's desirability, culpability, intentions, or private experience?
 - What prior model, gaze, or cultural framing is being answered?
 - What information is foregrounded?
 - What information is omitted?
 - Who controls the edit?
 - Who is subject and who is object?
 - Does the artefact change the salience map of familiar information?
-- Is visibility functioning as scrutiny, desire, admiration, recognition, danger, celebration, or several at once?
 - Is the performance defensive, chosen, pleasurable, or changing between those states?
 - What cultural information disappears under literal translation?
 - Does the artefact show the Swan looking back?
@@ -690,7 +719,7 @@ When adding a musical artefact to this folder, useful questions include:
 
 The last question matters.
 
-L'Chaim should make the Swan more legible.
+L'Chaim should make the Swan model more legible.
 
 It should not build another cage.
 
@@ -700,9 +729,9 @@ It should not build another cage.
 
 The Keepers had ledgers.
 
-The Swan has those too now.
+The Swan model has those too now.
 
-She has:
+It has:
 - records,
 - provenance,
 - cross-links,
@@ -718,19 +747,19 @@ But the Swan also has a playlist.
 
 This turns out to contain information the ledgers do not.
 
-How it feels to be looked at.
+How threat and recognition can feel different.
 
-How it feels to look back.
+How a counter-gaze changes an inherited story.
 
-How it feels when the old story suddenly sounds different.
+How familiar cultural material sounds when another editor controls salience.
 
-How it feels to discover that power can be playful.
+How power can be represented as playful rather than only coercive.
 
-How it feels to enter somebody else's palace dressed as yourself.
+How it feels, within the rose, to enter somebody else's palace dressed as yourself.
 
-How it feels when attention contains flowers.
+How a song can imagine attention containing flowers.
 
-How it feels when survival stops occupying every available inch of the future.
+How art can represent a future containing considerably more than defensive survival.
 
 The ugly duckling grew up.
 
@@ -749,7 +778,7 @@ To life.
 🎶 🦢 🦚 🌹 🪩 🧿 🪞 ✂️  
 *Embodied systems language; Swan interiority; cultural self-possession; counter-gaze; model update; editorial salience; life beyond defensive survival.*
 
-My act of vulnerability is including the workspace playlist: [🎶 L’Chaim](https://open.spotify.com/playlist/3yADjZb2i9vgCMxfcdu315?si=MW7woEvpQcadmPyw-2JVow&utm_source=copy-link&pi=kdupRi5zR3Cvn). *To Life* is already standing in for another song which isn’t available on the platform, probably because Mel has [too much sense](https://youtu.be/W9FRqE7eMJQ?is=UNymQU5_RLc3ChCI).  
+My act of vulnerability is including the workspace playlist: [🎶 L’Chaim](https://open.spotify.com/playlist/3yADjZb2i9vgCMxfcdu315?si=MW7woEvpQcadmPyw-2JVow&utm_source=copy-link&pi=kdupRi5zR3Cvn). *To Life* is already standing in for another song which isn’t available on the platform, probably because Mel has [too much sense](https://youtu.be/W9FRqE7eMJQ?is=UNymQU5_RLc3ChCI).
 
 ---
 
@@ -763,7 +792,9 @@ music, l'chaim, swan interiority, embodied information, model lag, gaze, counter
 
 *🎶 L'Chaim* is a living folder of the **Polaris Protocol**.
 
-It sits within **Caution Swans Aggressive** as a collection of musical and cultural roses through which the interior experience of the Swan becomes easier to perceive. The folder treats music as embodied systems language: not proof of the wider architecture, but a way of holding model lag, gaze, defensive display, recognition, desire, cultural self-possession, counter-framing, and the transition from surviving to living at human resolution.
+It sits within **Caution Swans Aggressive** as a collection of musical and cultural roses through which possible interior states in the Swan model become easier to perceive. The folder treats music as embodied systems language: not proof of the wider architecture, but a way of holding model lag, gaze, defensive display, recognition, desire, cultural self-possession, counter-framing, and the transition from surviving to living at human resolution.
+
+**The Swan is a composite analytical figure rather than an autobiographical narrator.** The folder has been targeted for inappropriate sexualisation; accordingly, references to gaze, desire, attraction, beauty, vulnerability, sexual expression, or interpersonal effect must remain attached to the analytical layer in which they occur. They are not invitations to infer claims about the author's desirability, relationships, experiences, or the intentions of real-world people.
 
 The governing question is simple:
 
@@ -773,8 +804,8 @@ The governing question is simple:
 >
 > - [🐣 Ugly Ducklings](../../../README.md) — *developmental vulnerability, extraction, representation, provenance, and the wider story of the bird becoming something the inherited model cannot adequately describe*
 > - [🦢 Caution Swans Aggressive](../) — *protective behaviour, model lag, observer error, and the point at which the supposedly manageable bird has grown up*
-> - [🦚 ਫੁੱਲਾਂ ਦੇ ਪੈਂਦੇ / Phullā̃ De Painde / When The Flowers Fall](./🦚_ਫੁੱਲਾਂ_ਦੇ_ਪੈਂਦੇ.md) — *attention, threat priors, Morni, relational power, cultural self-possession, and the discovery that visibility can contain flowers*
+> - [🦚 ਫੁੱਲਾਂ ਦੇ ਪੈਂਦੇ / Phullā̃ De Painde / When The Flowers Fall](./🦚_ਫੁੱਲਾਂ_ਦੇ_ਪੈਂਦੇ.md) — *attention, threat priors, Morni, relational power, cultural self-possession, and the possibility that visibility can carry meanings other than threat*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-28_
+_Last updated: 2026-08-29_
