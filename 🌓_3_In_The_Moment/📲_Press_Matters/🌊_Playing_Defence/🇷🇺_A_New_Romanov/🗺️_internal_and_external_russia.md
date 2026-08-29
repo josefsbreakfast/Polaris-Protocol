@@ -1,102 +1,181 @@
-# 🛰️_audience_architecture.md
+# 🗺️_internal_and_external_russia.md
 
 - Purpose:
-  - create the reusable analytical framework for every significant Russian signal logged elsewhere in the cluster.
 
-- Core concept:
-  > The named recipient of a communication is not necessarily its only audience.
+  - separate the different political audiences Russian communication may need to satisfy simultaneously;
 
-- For every significant communication record:
+  - prevent external-policy analysis from ignoring domestic political function.
 
-  1. Who is explicitly addressed?
-  2. Who is expected to overhear?
-  3. Who might be intended to interpret it differently?
-  4. What behaviour should stop?
-  5. What behaviour should begin?
-  6. What consequence accompanies non-compliance?
-  7. What benefit accompanies compliance?
-  8. Why this communication channel?
-  9. Why this speaker?
-  10. Why this timing?
-  11. Which channels remain deliberately open?
-  12. What does the communication mean domestically?
+- Core proposition:
 
-- Add:
-  - historical register:
-    - Petrine?
-    - Romanov?
-    - Soviet?
-    - post-Soviet?
-    - contemporary security-state?
-  - emotional / status register:
-    - threat?
-    - humiliation?
-    - recognition?
-    - prestige?
-    - reassurance?
-    - grievance?
-  - material register:
-    - military?
-    - economic?
-    - infrastructure?
-    - diplomatic?
+  > The same Russian action can have one function abroad and another at home.
 
-- Speaker selection matters:
-  - Putin;
-  - Kremlin;
-  - Foreign Ministry;
-  - Defence Ministry;
-  - intelligence / security officials;
-  - ambassadors;
-  - military commanders;
-  - intermediaries.
+- External audiences to track:
 
-- Channel selection matters:
-  - public speech;
-  - press statement;
-  - diplomatic note;
-  - intelligence contact;
-  - summit;
-  - military activity;
-  - media interview;
-  - private channel subsequently publicised.
+  - Ukraine;
 
-- Timing matters:
-  - what happened immediately before?
-  - what happened immediately afterwards?
-  - what other communications occurred simultaneously?
-  - was a diplomatic channel preserved while public rhetoric escalated?
+  - Washington;
 
-- Include a simple analytical template:
+  - London;
 
-  SIGNAL:
-  AUDIENCE:
-  OVERHEARING AUDIENCE:
-  CHANNEL:
-  HISTORICAL REGISTER:
-  REQUESTED BEHAVIOUR:
-  THREAT / COST:
-  OFFER / OFF-RAMP:
-  DOMESTIC FUNCTION:
-  OBSERVED RESPONSE:
-  ALTERNATIVE EXPLANATION:
-  CONFIDENCE:
+  - Berlin;
 
-- Important:
-  - allow:
-    > unknown.
-  - do not fill every box because the framework provides a box.
+  - Paris;
 
-- Prospective-analysis rule:
-  - record interpretation before outcome where possible.
-  - then compare:
-    - intended effect;
-    - predicted response;
-    - actual response.
+  - Warsaw;
 
-- Central test:
-  > Does audience analysis improve prediction beyond simply reading the literal words?
+  - Baltic governments;
 
+  - NATO;
 
----
+  - EU;
 
+  - China;
+
+  - Global South;
+
+  - international business / capital;
+
+  - other states watching how Russia is treated.
+
+- Internal audiences to track:
+
+  - general Russian public;
+
+  - military;
+
+  - security establishment;
+
+  - political elites;
+
+  - business elites;
+
+  - nationalist constituencies;
+
+  - Orthodox constituencies;
+
+  - regional governments;
+
+  - families affected by war.
+
+- Do not assume:
+
+  - "Russia says X"
+
+  means:
+
+  - every Russian audience is supposed to understand X identically.
+
+- Example communication problem:
+
+  - externally:
+
+    > Stop enabling these strikes.
+
+  - internally:
+
+    > Russia will not tolerate attacks without responding.
+
+  - internationally:
+
+    > States assisting Ukraine may incur costs.
+
+  - potentially diplomatically:
+
+    > Change the behaviour and escalation can still stop.
+
+- Threat and reassurance can coexist:
+
+  - threat toward one audience;
+
+  - reassurance toward another;
+
+  - demonstration of resolve domestically;
+
+  - preservation of an off-ramp privately.
+
+- Link to historical repertoires:
+
+  - Romanov / imperial language may perform:
+
+    - prestige;
+
+    - continuity;
+
+    - great-power status.
+
+  - Soviet language may perform:
+
+    - endurance;
+
+    - encirclement;
+
+    - sacrifice;
+
+    - mobilisation.
+
+  - post-Soviet language may perform:
+
+    - restoration after humiliation.
+
+  - different combinations may be useful to different audiences.
+
+- Domestic survivability of diplomacy:
+
+  - eventual settlement has to be narratable inside Russia.
+
+  - potentially destabilising narratives:
+
+    - humiliation;
+
+    - emasculation;
+
+    - unconditional defeat;
+
+    - surrender;
+
+    - collapse of great-power status.
+
+  - potentially more survivable narratives:
+
+    - negotiated settlement;
+
+    - recognised Russian status;
+
+    - negotiation among consequential states;
+
+    - defence of defined interests;
+
+    - return to diplomacy / commerce.
+
+- Important distinction:
+
+  > This is not about giving Putin a propaganda victory.
+
+  - it is about recognising that agreements have to be politically implementable by the governments expected to observe them.
+
+- Useful question:
+
+  > Could the same diplomatic outcome be materially identical but politically survivable or unsurvivable depending on how it is narrated?
+
+- Watch:
+
+  - domestic speeches;
+
+  - foreign-policy speeches;
+
+  - military statements;
+
+  - state-media presentation;
+
+  - different translations;
+
+  - messages intended principally for foreign audiences;
+
+  - discrepancies between domestic and external framing.
+
+- Link forward:
+
+  - once we accept multiple audiences, we need a repeatable method for identifying them.
+
+--
