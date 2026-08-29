@@ -1,96 +1,101 @@
-# 🇺🇸_washington_is_not_london.md
+# 🛰️_audience_architecture.md
 
 - Purpose:
-  - first major live case study for the audience-architecture hypothesis;
-  - test whether Russia is treating different Western states as meaningfully different political objects.
+  - create the reusable analytical framework for every significant Russian signal logged elsewhere in the cluster.
 
-- Starting proposition:
-  > "The West" may be too coarse a unit of analysis.
+- Core concept:
+  > The named recipient of a communication is not necessarily its only audience.
 
-- Current sequence already identified:
-  - 25 August 2026:
-    - CIA Director John Ratcliffe travels to Moscow.
-  - unusual high-level intelligence contact remains possible.
-  - reported discussion includes:
-    - possible Russian operations against NATO;
-    - Russia / Iran.
-  - Trump subsequently publicly downplays:
-    - the Moscow visit;
-    - likelihood of Putin attacking NATO.
-  - Russia also rejects the NATO-attack framing.
-  - 27 August:
-    - Russia sharply warns Britain over Ukrainian use of British Storm Shadow capability;
-    - British military facilities inside and outside Ukraine are brought explicitly into the threat environment.
+- For every significant communication record:
 
-- Immediate analytical question:
-  > Why can Moscow apparently sustain one kind of communication with Washington while communicating very differently toward London?
+  1. Who is explicitly addressed?
+  2. Who is expected to overhear?
+  3. Who might be intended to interpret it differently?
+  4. What behaviour should stop?
+  5. What behaviour should begin?
+  6. What consequence accompanies non-compliance?
+  7. What benefit accompanies compliance?
+  8. Why this communication channel?
+  9. Why this speaker?
+  10. Why this timing?
+  11. Which channels remain deliberately open?
+  12. What does the communication mean domestically?
 
-- Candidate interpretation to TEST:
+- Add:
+  - historical register:
+    - Petrine?
+    - Romanov?
+    - Soviet?
+    - post-Soviet?
+    - contemporary security-state?
+  - emotional / status register:
+    - threat?
+    - humiliation?
+    - recognition?
+    - prestige?
+    - reassurance?
+    - grievance?
+  - material register:
+    - military?
+    - economic?
+    - infrastructure?
+    - diplomatic?
 
-  - Washington:
-    - nuclear peer;
-    - strategic interlocutor;
-    - intelligence channel;
-    - great-power negotiation;
-    - NATO escalation management.
+- Speaker selection matters:
+  - Putin;
+  - Kremlin;
+  - Foreign Ministry;
+  - Defence Ministry;
+  - intelligence / security officials;
+  - ambassadors;
+  - military commanders;
+  - intermediaries.
 
-  - London:
-    - consequential European military actor;
-    - major Ukrainian supporter;
-    - provider / enabler of particular strike capability;
-    - actor whose behaviour Moscow wants directly changed.
+- Channel selection matters:
+  - public speech;
+  - press statement;
+  - diplomatic note;
+  - intelligence contact;
+  - summit;
+  - military activity;
+  - media interview;
+  - private channel subsequently publicised.
 
-  - NATO:
-    - collective military structure;
-    - system Russia seeks to deter;
-    - possible escalation boundary Russia may simultaneously wish to avoid crossing uncontrollably.
+- Timing matters:
+  - what happened immediately before?
+  - what happened immediately afterwards?
+  - what other communications occurred simultaneously?
+  - was a diplomatic channel preserved while public rhetoric escalated?
 
-- Do NOT conclude:
-  - Washington and Moscow are aligned.
-  - Putin trusts Washington.
-  - the CIA visit establishes an American-Russian settlement.
-  - Britain is uniquely targeted.
-  - Russia intends imminently to strike Britain.
-  - preserved channels prove peaceful intent.
+- Include a simple analytical template:
 
-- Instead ask:
-  - what behaviour is being requested from Washington?
-  - what behaviour is being requested from Britain?
-  - what costs are attached to each?
-  - what channels remain available?
-  - who receives public threats?
-  - who receives private contact?
-  - what is subsequently disclosed?
-  - does that pattern recur?
+  SIGNAL:
+  AUDIENCE:
+  OVERHEARING AUDIENCE:
+  CHANNEL:
+  HISTORICAL REGISTER:
+  REQUESTED BEHAVIOUR:
+  THREAT / COST:
+  OFFER / OFF-RAMP:
+  DOMESTIC FUNCTION:
+  OBSERVED RESPONSE:
+  ALTERNATIVE EXPLANATION:
+  CONFIDENCE:
 
-- Bring Peter / historical frame back carefully:
-  - if status recognition matters:
-    - does Moscow treat Washington primarily as a peer-level strategic interlocutor?
-    - does Britain occupy a different but historically meaningful position?
-  - do not force this interpretation if ordinary military explanations suffice.
+- Important:
+  - allow:
+    > unknown.
+  - do not fill every box because the framework provides a box.
 
-- Important alternative explanation:
-  - Britain may simply receive different rhetoric because Britain is providing the specific capability Russia is objecting to.
-  - that explanation may be sufficient.
-  - audience differentiation becomes interesting if the pattern persists across unrelated episodes.
+- Prospective-analysis rule:
+  - record interpretation before outcome where possible.
+  - then compare:
+    - intended effect;
+    - predicted response;
+    - actual response.
 
-- Prospective tests:
-  - does Russia continue intelligence / diplomatic contact with Washington?
-  - does rhetoric toward Britain remain disproportionately coercive?
-  - are Germany / France / Poland treated differently again?
-  - does Russia attach different off-ramps to different states?
-  - does later diplomacy reproduce the hierarchy implied by earlier communication?
+- Central test:
+  > Does audience analysis improve prediction beyond simply reading the literal words?
 
-- Connection to wider cluster:
-  - feed events into:
-    - `⏱️_uk_russia_signal_timeline.md`
-  - compare public interpretation in:
-    - `📰_what_the_press_thinks_is_happening.md`
-  - compare later specialist interpretation in:
-    - `🧠_what_the_security_people_think_is_happening.md`
 
-- Strong working line:
-  > If Moscow is differentiating among Western audiences, analysing everything as a single conversation between "Russia" and "the West" destroys information.
-
-- Stronger falsifiable version:
-  > Washington is not London. The question is whether Russia's behaviour consistently demonstrates that it knows the difference.
+---
