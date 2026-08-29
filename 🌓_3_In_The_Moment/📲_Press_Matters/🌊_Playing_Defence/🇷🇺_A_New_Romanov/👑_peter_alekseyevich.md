@@ -1240,3 +1240,126 @@ It tests Peter I as a specific historical and cultural repertoire within contemp
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-08-29_
+
+<!-- notes for next pass:  
+
+## 📚 Unfinished Research / Verification
+
+### Peter and contemporary Russian signalling
+
+- [ ] Pull Putin's June 2022 Peter I remarks from the best available primary Russian transcript.
+- [ ] Preserve the original Russian wording around "returning" / "taking back" territory.
+- [ ] Compare authoritative English translations where the semantics matter.
+- [ ] Establish the baseline frequency and context of Petrine references in contemporary Russian official communication.
+- [ ] Compare contemporary Russian state presentation of Peter with Western defence presentation of Peter.
+- [ ] Track future Putin / Kremlin Petrine references prospectively.
+- [ ] Separate:
+  - Putin-specific signalling;
+  - broader Kremlin political culture;
+  - longer-running Russian institutional / government trends.
+
+### Western defence / strategic literature
+
+- [ ] Pull the full Patrick Sanders / RUSI passage and surrounding context rather than relying on the isolated Peter-the-Great line.
+- [ ] Retrieve and integrate the relevant Michael Hikari Cecire / RUSI argument on imperial strategic culture.
+- [ ] Integrate Daniel Shultz / NATO Defense College on historical narrative as active statecraft.
+- [ ] Integrate Clint Reach / NDU as a broader structural and historical counterweight.
+
+### Peter Alekseyevich himself
+
+- [ ] Source Peter's diplomatic reforms in more depth.
+- [ ] Develop the Grand Embassy section without reducing it to Great Man tourism.
+- [ ] Source Baltic access as:
+  - military infrastructure;
+  - maritime infrastructure;
+  - commercial infrastructure;
+  - diplomatic access.
+- [ ] Develop St Petersburg as:
+  - port;
+  - capital;
+  - trade node;
+  - communications node;
+  - geopolitical project;
+  - symbolic project.
+- [ ] Establish the pre-Petrine baseline for Russian diplomatic, commercial, technical and European engagement.
+- [ ] Compare Peter's reforms with institutions and trajectories already developing before his reign.
+- [ ] Track achievement alongside cost:
+  - coercion;
+  - extraction;
+  - taxation;
+  - forced labour;
+  - military burden;
+  - institutional resistance;
+  - failures as well as successes.
+
+### Russian historiography
+
+- [ ] Add Russian scholarship / historiography rather than constructing Peter primarily through Western strategic and historical literature.
+- [ ] Ask how Peter is taught, remembered and argued over within Russia.
+- [ ] Distinguish:
+  - academic historiography;
+  - state presentation;
+  - popular cultural memory;
+  - Putin-era political reuse.
+
+### Naming / Orthodox culture
+
+- [ ] Verify and source the Orthodox saint-name discussion more deeply.
+- [ ] Distinguish:
+  - ordinary Orthodox naming practice;
+  - Peter's particular namesake;
+  - later symbolic associations;
+  - retrospective interpretation.
+- [ ] Do not imply that Peter's parents encoded his future political character in his name without evidence.
+- [ ] Develop the patronymic point as a cultural-reading device rather than evidence of political intent.
+
+### Masculinity
+
+- [ ] Test the masculinity analysis against Russian scholarship.
+- [ ] Avoid constructing "Russian masculinity" entirely from Western readings of Putin's public imagery.
+- [ ] Investigate culturally specific associations between:
+  - masculinity;
+  - paternal authority;
+  - provision;
+  - endurance;
+  - military competence;
+  - lineage;
+  - protection;
+  - national strength.
+- [ ] Separate:
+  - Russian cultural patterns;
+  - Putin's personal political performance;
+  - generic authoritarian hypermasculinity.
+
+### Comparative history
+
+- [ ] Develop Elizabeth I as a translation device rather than a historical equivalence.
+- [ ] Be explicit about the chronological gap and radically different institutions.
+- [ ] Test whether another British / Western ruler provides a better comparison for:
+  - inherited comparative weakness;
+  - state-capacity transformation;
+  - maritime expansion;
+  - commercial development;
+  - international recognition.
+- [ ] Preserve the useful part of the Elizabeth comparison:
+  - "Elizabethan" and "Petrine" as ruler-names becoming shorthand for transformations much larger than the individual ruler.
+
+### The bigger analytical test
+
+- [ ] Establish what counts as normal Russian historical rhetoric before identifying something as unusually marked.
+- [ ] Ask whether the Peter framework predicts or clarifies anything prospectively.
+- [ ] Record counterevidence.
+- [ ] Do not retrofit ordinary Russian behaviour into the Peter framework after events occur.
+- [ ] Test whether:
+  - conquest;
+  - modernisation;
+  - maritime access;
+  - recognition;
+  - prestige;
+  - diplomatic engagement;
+  - technological catch-up
+  actually recur together in contemporary Petrine signalling.
+
+- [ ] If they do not, narrow or abandon the hypothesis.
+
+-->
