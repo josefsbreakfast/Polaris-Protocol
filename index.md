@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-29 14:03:42 UTC_
+_Generated on 2026-08-29 14:08:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3583,9 +3583,17 @@ _Generated on 2026-08-29 14:03:42 UTC_
         - [`🧭_what_this_pack_is_tracking.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧭_what_this_pack_is_tracking.md)
       - [**🇷🇺_A_New_Romanov/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/notes.txt)
+        - [`⏱️_uk_russia_signal_timeline.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/⏱️_uk_russia_signal_timeline.md)
+        - [`🇬🇧_what_is_britain_signalling.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🇬🇧_what_is_britain_signalling.md)
+        - [`🇺🇸_washington_is_not_london.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🇺🇸_washington_is_not_london.md)
+        - [`🌀_influential_communication.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🌀_influential_communication.md)
         - [`🏛️_the_romanov_memory.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🏛️_the_romanov_memory.md)
         - [`👑_peter_alekseyevich.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/👑_peter_alekseyevich.md)
         - [`👻_the_soviet_ghost_in_the_room.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/👻_the_soviet_ghost_in_the_room.md)
+        - [`📰_what_the_press_thinks_is_happening.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/📰_what_the_press_thinks_is_happening.md)
+        - [`🗺️_internal_and_external_russia.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🗺️_internal_and_external_russia.md)
+        - [`🛰️_audience_architecture.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🛰️_audience_architecture.md)
+        - [`🧠_what_the_security_people_think_is_happening.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🧠_what_the_security_people_think_is_happening.md)
         - [`🧬_which_russia_is_speaking.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🧬_which_russia_is_speaking.md)
         - [`🪩_where_the_romanov_analogy_breaks.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/🪩_where_the_romanov_analogy_breaks.md)
       - [**🏛️_White_House_Snitches/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/)
