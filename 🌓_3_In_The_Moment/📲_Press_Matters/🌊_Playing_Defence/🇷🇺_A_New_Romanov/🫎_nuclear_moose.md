@@ -316,4 +316,6 @@
 - Outstanding British diplomatic demand:
   > show us the fucking moose.
 
-- “Canadian geese with orange hair, muscular hands and machine guns patrol Lake Ontario in President Donald Trump's latest AI -slop fever dream.” update maybe they’re into being cucked by Canada idk man 
+- “Canadian geese with orange hair, muscular hands and machine guns patrol Lake Ontario in President Donald Trump's latest AI -slop fever dream.” update maybe they’re into being cucked by Canada idk man
+- you copied their wildlife Mounties clip, and you retained the birds named after them.
+- just admit the humiliation kink bro
