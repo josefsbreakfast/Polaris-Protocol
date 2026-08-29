@@ -1,5 +1,9 @@
 i might need to find how to bridge the playlist idk.  
 
+<!—- Lacrimosa dies illa
+Qua resurget ex favilla
+Judicandus homo reus —->
+
 - - - 
 
 # 🎶 On The Temptation To Bite, *Resurget Ex Favilla*
