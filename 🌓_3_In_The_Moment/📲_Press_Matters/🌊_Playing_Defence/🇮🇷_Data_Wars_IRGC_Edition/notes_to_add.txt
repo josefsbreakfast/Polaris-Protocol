@@ -263,3 +263,60 @@ This is not yet a confirmed new essential-infrastructure compromise. The country
 It is nevertheless a credible watch signal because it suggests an Iran-linked actor with an established defence/aerospace focus is maintaining redundant persistence tooling and potentially widening geographic preparation beyond its traditional Middle East/U.S. base.  
 
 Overall, today’s update strengthens the mixed-ecosystem model, not the Iran-attribution case: several state-linked and criminal populations are now demonstrably operating against overlapping government and critical-infrastructure environments, which raises the evidentiary bar for attributing any single incident from target, timing or superficial technique alone.
+
+20260830:  
+
+“Two developments are worth adding today. Neither increases confidence in Iranian attribution; both make the mixed-actor / overlapping-infrastructure picture stronger.
+
+🇬🇧 United Kingdom — transport / airports
+
+A cyberattack on Manchester Airports Group, disclosed on 27 August 2026, compromised data belonging to about 8.7 million customers across Manchester, London Stansted and East Midlands airports. The stolen material includes email addresses, phone numbers, vehicle registrations and postcodes associated with airport Wi‑Fi, parking, lounge and Fast Track services. MAG says flight operations, passenger safety and aviation security were not affected, and no bank or payment details were stored in the compromised system.  
+
+Operational impact: low at the aviation-operations layer, high at the data-exposure layer. The incident did not disrupt flights, but it penetrated the digital estate of the UK’s largest airport operator during peak summer travel and temporarily affected some customer-facing booking functionality. A ransom demand was reportedly made and not paid.  
+
+Attribution confidence: very low. No responsible group has been publicly identified by MAG or UK authorities. Current reporting supports criminal extortion more strongly than state-directed activity, but the perpetrator remains unknown. There is no credible public evidence tying this incident to Iran.
+
+Competing explanations: ordinary ransomware/extortion; a sophisticated financially motivated intrusion; an access-broker compromise later monetised by another group; or, less likely on current evidence, a state-linked intrusion disguised as crime. The ICO reportedly asked MAG not to disclose the attackers’ identity or ransom details while the investigation continues.  
+
+Fit with Iranian methods / wartime incentives: weak on present evidence. Airports are strategically relevant transport infrastructure and could obviously interest a wartime adversary, but this attack did not target aviation operations or safety systems. The available facts look more like data theft and extortion than coercive state disruption.
+
+Trend since 28 February: this adds transport infrastructure to the list of major UK essential-service environments suffering significant cyber compromise during the war period, but it does not extend the physical-disruption pattern established by the July power-generator case. Its main analytical value is as another warning that strategically significant sectors are being penetrated by actors whose motives may have nothing to do with Iran.  
+
+⸻
+
+🇩🇪 Germany — state government / administration
+
+The more consequential development is Berlin.
+
+Berlin’s state government is now publicly treating its August network compromise as an extortion attack, with the Rhysida ransomware group claiming responsibility on 28 August 2026. Berlin says data left the network of the Senate Department for Mobility, Transport, Climate Protection and Environment between 7 and 12 August. Two departments were disconnected from the state network on 14 August while the incident was contained.  
+
+Operational impact: this did cause state-service disruption. While affected departments were isolated, housing-benefit applications and payments could not be processed. All Senate departments were reconnected by 23 August. Berlin says the infrastructure for the 20 September state election was not affected.  
+
+Data impact: Rhysida claims it stole 5.79 TB including contracts, emails, phone numbers, passwords and classified material. That figure and the exact contents remain attacker claims, not independently verified totals from Berlin. Berlin has confirmed data exfiltration but is still assessing scope.  
+
+Attribution confidence: moderate for Rhysida, low for any state sponsor, very low for Iran. Rhysida is a long-running ransomware operation generally associated with Russian-speaking or Eastern-European cybercrime. Berlin itself has not publicly named the attackers. There is currently no credible evidence of Iranian tasking.
+
+Competing explanations: straightforward double-extortion ransomware is the leading explanation. A criminal affiliate, access broker or subcontracted operator could complicate the exact chain of responsibility, but nothing public currently requires a state-sponsorship explanation.
+
+Fit with Iranian methods / wartime incentives: poor fit for Iranian attribution. The target—state administration, transport policy, environmental administration and potentially sensitive government records—would be strategically interesting to many states. But the ransomware monetisation model and Rhysida’s established victimology fit ordinary cybercrime better.
+
+Trend since 28 February: this is more important than the UK airport breach because it demonstrates actual degradation of government administrative services, not merely data loss. It also sharpens the attribution problem: during the same period that suspected Iran-linked actors are probing operational technology, unrelated ransomware crews are independently disabling public services inside allied states.  
+
+The current pattern therefore looks less like one coherent Iran-centric campaign and more like a crowded wartime attack surface:
+
+suspected Iran-linked OT activity
+→ water / energy / coercive infrastructure effects
+
+other state-linked ecosystems
+→ government / telecom / energy / healthcare access
+
+criminal ransomware and extortion
+→ airports / state administration / suppliers / federal systems
+
+That density matters. As more actors converge on the same sectors, target choice and timing become weaker attribution signals, while operational behaviour, tasking evidence, financial flows and infrastructure reuse become more important.”
+
+- https://www.manchesterairport.co.uk/help/data-security-incident/
+- https://www.reuters.com/world/berlin-city-government-says-it-wont-submit-extortion-after-pre-election-2026-08-28/
+- https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html
+
+--- 
