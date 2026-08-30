@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-30 18:24:35 UTC_
+_Generated on 2026-08-30 18:35:01 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3584,8 +3584,6 @@ _Generated on 2026-08-30 18:24:35 UTC_
       - [**🇷🇺_A_New_Romanov/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/notes.txt)
-        - [`the_data_barons_and_national_security.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/the_data_barons_and_national_security.md)
-        - [`the_data_state.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/the_data_state.md)
         - [`⏱️_uk_russia_signal_timeline.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/⏱️_uk_russia_signal_timeline.md)
         - [`☢️_trident_and_path_dependence.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/☢️_trident_and_path_dependence.md)
         - [`⚓_deterrence_without_a_destination.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇷🇺_A_New_Romanov/⚓_deterrence_without_a_destination.md)
