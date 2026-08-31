@@ -280,7 +280,47 @@ Who gets Parliament and who gets Number 10 North?
 
 Who gets to decide that everybody can already reach London?
 
-Once one begins asking those questions, the private Bayeux viewing stops looking like a tiny celebrity anecdote and begins sitting much more comfortably inside the wider information ecology: not because it proves some grand hidden intention on the part of the visitor, but because arrangements themselves contain information about where power sits and how access travels through it.
+Once one begins asking those questions, the private Bayeux viewing stops looking like a tiny celebrity anecdote and begins sitting much more comfortably inside the wider information ecology: not because it proves some grand hidden intention on the part of the visitor, but because arrangements themselves contain information about where power sits and how access travels through it.  
+
+--- 
+
+## 👀 On Media Surveillance
+
+There is another layer to the timing which is worth separating from the question of whether the private viewing itself was intended as spectacle, because by the time most of us encountered the story, the relevant spectacle was no longer simply Peter Thiel looking at the Bayeux Tapestry. It was **the media looking at Peter Thiel looking at the Bayeux Tapestry**, and choosing to make that act of looking available for everybody else to observe.
+
+This is not an argument that the story should not have been reported. Quite the opposite: there are legitimate questions about conservation capacity, exceptional access to national collections, institutional relationships, donor privilege and what precisely somebody's friendship network can make possible inside a publicly accountable museum. The point is that reporting is itself an allocation of attention, particularly when the underlying event occurred on 18 August but the resulting article was published on 31 August, by which point London was experiencing the main day of the sixtieth-anniversary Notting Hill Carnival. The coincidence therefore belongs less to the original appointment than to the **observed information space in which the appointment subsequently became news**.
+
+This produces a rather extraordinary collection of fabrics.
+
+The most obvious modern image of billionaires taking over a museum remains The Carters' *APESHIT*, in which expensive fabrics, extraordinary wealth, motorcades, Black bodies and canonical European art are deliberately assembled into a maximal spectacle whose relationship to viewership cannot be separated from the histories of France and the United States, the movement and sale of Black people as human cargo, the Black body as something historically displayed and inspected, and the ability of Beyoncé and Jay-Z to seize control of precisely that gaze. As discussed above, this is fundamentally different from a wealthy white man receiving private access to Bayeux; the comparison works because the differences do so much of the analytical work.
+
+Notting Hill Carnival introduces another register again. Here are fabrics, feathers, music, bodies and extraordinary visual production occupying the streets of London rather than the controlled interior of the museum, during the sixtieth anniversary of an institution inseparable from Caribbean migration, Black British culture, racial conflict and the contest over who is permitted to occupy public space and under what description. Unlike the private museum appointment, its spectacular quality is not produced by excluding the public from the room. The crowd is part of the work.
+
+And on the main day of that spectacle, the culture pages offer another object for looking: one Extremely Serious Man™️, privately admitted to look at one extremely old and politically important piece of embroidered fabric.
+
+Again, fine. Report it. I am plainly sufficiently interested that I have now written several hundred lines about the fucking thing.
+
+But **where the gaze settles is information**.
+
+This becomes particularly important in the British context because media attention does not simply record what happened; over time, it helps determine which kinds of behaviour become legible as *power*, which become *culture*, which become *spectacle*, which become *heritage*, which become *security*, and which become background noise despite involving considerably larger numbers of people. A billionaire quietly entering a closed museum can therefore acquire enormous symbolic density precisely because the act is unusual and the individual already sits inside a network understood as powerful, while hundreds of thousands of people occupying streets through music, costume and collective cultural production can become so familiar within the annual media calendar that the extraordinary scale of what they are doing is partially normalised.
+
+There is a seam here which also appears elsewhere in the repo, including around the recent announcement of the inquest into the death of Prof. Jason Arday: the question is not always whether something has been reported, nor whether any particular journalist was wrong to report it, but **what the media apparatus has learned to watch closely enough to recognise as consequential**. Surveillance in this sense need not mean covert state surveillance. A newspaper is also an observing system; editors, reporters, photographers and audiences distribute attention across an environment, and the resulting pattern can tell us something about the observer as well as the observed.
+
+This is particularly useful when several forms of spectacle coexist. Carnival asks what happens when culture occupies the street and makes itself impossible not to see. *APESHIT* asks what happens when people historically subjected to the gaze take command of the museum, the camera and the conditions under which they will be looked at. The Bayeux story asks something quieter: what happens when exceptional access is intended, or at least arranged, for very few eyes, but the fact of that exceptional looking becomes interesting enough that another observing institution turns its gaze upon it.
+
+Peter Thiel did not need to invite the public into the room for the room to become public information.
+
+Which returns us to one of the recurring problems of privacy and power. A powerful person can have very considerable control over access to himself without having complete control over the **meaning generated when other people observe the traces of that access**. One can choose the appointment; one cannot entirely choose whether museum staff find it noteworthy, whether a journalist considers it reportable, what else is happening when the report appears, or which existing pieces of cultural imagery an audience uses to understand what it has seen.
+
+Sometimes that imagery is William the Conqueror.
+
+Sometimes it is *APESHIT*.
+
+Sometimes half of West London is outside wearing feathers.
+
+This does not make those things equivalent. It makes their simultaneous availability to the British imagination interesting.
+
+The useful question, then, is not simply *why were we told that Peter Thiel saw the Bayeux Tapestry?* It is also: **what kind of spectacle does Britain recognise when it sees one, who becomes most intensely visible within that field, and what does the distribution of attention tell us about the people doing the looking?**
 
 ---
 
@@ -308,7 +348,9 @@ For now, however:
 
 Very nice embroidery, Peter.
 
-Yes. We have noticed.
+Yes. We have noticed.  
+
+The Hobbits can still see you taking up room in the Shire.  
 
 ---
 
