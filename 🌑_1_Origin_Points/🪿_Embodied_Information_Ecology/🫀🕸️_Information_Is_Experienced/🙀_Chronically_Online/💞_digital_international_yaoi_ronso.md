@@ -7,3 +7,6 @@
 
 - detangling objectification as requiring sexual desire by default:
 - https://journals.sagepub.com/doi/abs/10.1177/10608265241281721
+
+- fanfic as related to queer theory:
+- https://stax.strath.ac.uk/concern/theses/db78tc655
