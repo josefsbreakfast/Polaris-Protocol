@@ -10,3 +10,7 @@
 
 - fanfic as related to queer theory:
 - https://stax.strath.ac.uk/concern/theses/db78tc655
+
+- fandom as soft power:
+- https://wp.nyu.edu/steinhardt-appsych_opus/gender-in-fandom/
+- 
