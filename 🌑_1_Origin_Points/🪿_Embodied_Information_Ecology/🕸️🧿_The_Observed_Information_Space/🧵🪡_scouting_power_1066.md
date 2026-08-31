@@ -40,4 +40,6 @@ This is a draft, as I avoid confronting the ten different trains of thought afte
 
 - I will split the reading into two parts, as I feel the ambiguity is half the point, but there are two ways to read this, and both are worth baring in mind for a man who, understandably - we are fantastic, looked at the British Isles and thought, “quite pretty… wouldn’t mind a bit of that”. We also feel The Shire is a quality place, hence our general response to anything which seems a bit too much like it came from the elves.
 
+- But Mr Thiel is A Very Serious Man™️, so we will be dispensing some Very Serious Feedback™️.
+
 - 
