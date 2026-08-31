@@ -24,7 +24,7 @@ This is a draft, as I avoid confronting the ten different trains of thought afte
 
 - As background context, Peter Thiel has very much not been projecting his messaging over the last 10 to 20 years towards the same audience who read this point most legibly.
 - This is The Serious One TM from the Paypal Mafia. The closest power equivalence, although extremely different in *almost evrything*, would be Elon Musk.  
-<!-- Hence  my genuine shook that this yaoi appears not only not to exist, but that grok has not spontaneously spat that out for ... the greater glory of The West?-->
+<!-- Hence  my genuine shook that this yaoi appears not only not to exist, but that grok has not spontaneously spat that out for ... the greater glory of The West? First amendment, friend; what can one do? ¯\_ (ツ)_/¯ -->
 
 - The Bayeux Tapestry, for international readers, is incredibly famous in the UK, as it marks the Norman Conquest, which starts to establish British power in a manner which proiduces structures and forms of governance which are recognisable today. It ordinarily lives in Normandy, in France. It is on its holidays here at the British Museum, inside the country for the first time in nearly a millenium, because the conquerors were French. (Hence, we use *colour*, for example.).
 
