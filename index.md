@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-08-31 14:18:33 UTC_
+_Generated on 2026-08-31 16:07:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2499,6 +2499,7 @@ _Generated on 2026-08-31 14:18:33 UTC_
         - [`🍌_cats_umbrellas_and_democracy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🍌_cats_umbrellas_and_democracy.md)
         - [`🎮_fake_gamer_girl_protocol.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🎮_fake_gamer_girl_protocol.md)
         - [`👚_big_on_the_internet_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/👚_big_on_the_internet_loop.md)
+        - [`💞_digital_international_yaoi_ronso.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/💞_digital_international_yaoi_ronso.md)
         - [`💾_girl_internet_explained_with_techbros.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/💾_girl_internet_explained_with_techbros.md)
         - [`💾_what_its_like_being_a_child_of_the_90s_programmer_class.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/💾_what_its_like_being_a_child_of_the_90s_programmer_class.md)
         - [`📼_pris_is_still_subverting_patriarchy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/📼_pris_is_still_subverting_patriarchy.md)
