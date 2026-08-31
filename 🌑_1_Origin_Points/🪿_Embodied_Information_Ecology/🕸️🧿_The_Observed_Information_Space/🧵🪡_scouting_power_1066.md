@@ -1,4 +1,4 @@
-# 🧵🪡 Scouting Power, 1066
+# 🧵🪡 Scouting Power: 1066
 **First created:** 2026-08-31 | **Last updated:** 2026-08-31  
 *On Bayeux, access, old power, new power, and what can be learned from watching somebody look.*
 
@@ -315,6 +315,9 @@ Yes. We have noticed.
 ## 🌌 Constellations
 
 🧵 🪡 🧿 🕸️ 🚆 — observed information; access and scarcity; embodied spectatorship; cultural geography; transport as access infrastructure; old and new power becoming mutually legible.
+
+*Follow the evidence:*  
+- [📲: Tom Nicholas, Slow News Day](https://vm.tiktok.com/ZN8FpgV5D/)  
 
 ---
 
