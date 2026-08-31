@@ -164,7 +164,9 @@ This becomes particularly interesting when we remember how *forward* Thiel could
 
 The young man needs a newspaper.
 
-The older man gets the room.
+The older man gets the room.  
+
+This is an act in a fundamentally different register, to The Carters announcing, in halls which have been made through the exploitation of people who inhabit bodies like theirs, that “we are the art in its true form, not the goods to be traded for your extraction and profit”.  
 
 ---
 
