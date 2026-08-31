@@ -1,4 +1,6 @@
-🧵🪡_scouting_power_1066.md. 
+🧵🪡_scouting_power_1066.md - drafting  
+
+----
 
 This is a draft, as I avoid confronting the ten different trains of thought after Gordon Brown threw the casual, “well of course, reunification” ball. Fucking hell. I’d almost forgotten about Russia for ten minutes.  
 
@@ -42,4 +44,17 @@ This is a draft, as I avoid confronting the ten different trains of thought afte
 
 - But Mr Thiel is A Very Serious Man™️, so we will be dispensing some Very Serious Feedback™️.
 
-- 
+There are two ways to read the messaging, or if we wish to be technical: there are two initial obvious forks, with an additional "it was cool, though", and a possibility that we are seeing a longstanding pattern of enjoyment of irony.
+
+The initial choice one has to make, is whether Mr Thiel, or he as an extension of his business profile, is "too American", or "European enough". If you wanted the indicator of power and potential future fiscal choices, we are almost certainly being invited to comment upon this. [[inc GmbH reinvestment, move to Argentina dressed as economic choice, whilst remaining legible to same political stakeholders internationally]]  
+
+If one considers the man "too American", the private appointment with the Bayeux Tapestry can read as a flex of American financial dominance, or as an observance of what can be taken from current investiture of British power. With no existing donation history, and a finite lux hour capacity, a private viewing can be seen as unnecessary taking from the total capacity of the Museum, during a one-in-a-lifetime event; unlike the depiction of Halley's comet rendered in the Bayeux Tapestry, the view cannot be enjoyed freely for all, and the ability for others to view becomes eclipsed when private viewings are given -- this is why these appointments are usually reserved for research or limited viewings for larger sponsors who have pre-emptively invested significantly in the capability of the Museum's schedule of works. The ability to command enough attention that the opportunity is offered, especially when the same nexus of power can become reputationally damaging to the Museum upon future US DOJ updates on the Epstein caseload, and can be damaging for potential complicity with the current iteration of ICE in the US and the escalation of Palestinian genocide in Palestine and the State of Israel, is the soft power. It is not a small thing, to be able to be offered or considered for that viewing. "Even" if offered primarily through friendships via the board, this represents the elite networking that can apparently move mountains when sufficiently interested in doing so, but has been apparently unable to do much to feed and educate the most deprived citizens of this country by the same hands, subject to an economic crash caused largely by bad bets, by those same elites.  
+
+In such a mode of viewing the viewing, one can see the analogies of sudden invasion, of imposition of new land laws, of disinvestature of established power. But apparently Mr Thiel does not prefer easy legibility, so let us consider him as "European enough". Perhaps he has suddenly remembered his roots, after all. During extraordinary times, extraordinary things become possible. The complexity of the Bayeux Tapestry is not something Britain stores in its, "it's complicated" folder. Indeed, despite being a French conquest of the archipelago, we often see the event as plainly British, and the families conquering at that time set a lineage that becomes even clearer once slaveholding families are "compensated" in 1837. (Again, it is amazing how much we can borrow on the national debt, once we are sufficiently motivated to; our relationship with moving human beings around against their will or choice is at least somewehat consistent in nature.) Through this lens, this can be as a strange kneel to power, in recognition of the cultureal importance of the object, deferring power to it by spectacle of one's own exceptionalism being accommodated.  
+
+This produces the more interesting and more irony-friendly reading. 
+
+
+The Bayeux Tapestry was a monumental piece of artwork. It is also cartoonish, a giant embroidered comic book strip depicting a war won to advertise a new king. It is not "high brow" in its raw content, but acquires it by age, proximity to power, and graduation of status over time. This is not unlike Peter Thiel's own journey through power, and the entire branding of everyone close by has spoken to that push towards being considered seriously by traditional power. 
+
+There will always be a goldrush over new infrastructure, and nothing sound be allowed to take from the collective without appropriate scrutiny, but if what the gentlemen in Big Tech are looking for is a nod from Old Power, please can it be given -- they have been very clearly requesting it. 
