@@ -1,4 +1,6 @@
-🧵🪡_scouting_power_1066.md
+🧵🪡_scouting_power_1066.md. 
+
+This is a draft, as I avoid confronting the ten different trains of thought after Gordon Brown threw the casual, “well of course, reunification” ball. Fucking hell. I’d almost forgotten about Russia for ten minutes.  
 
 - https://www.theguardian.com/culture/2026/aug/31/british-museum-hosted-palantir-founder-peter-thiel-private-viewing-bayeux-tapestry.
 
@@ -28,4 +30,6 @@
 
 - So, firstly: a private viewing, even to a major donor of many decades, would still be quite a flex.
 
-- Enough people obviously felt a particular way (Museums is drama central, and one would hope for loud opinions from those whose job it is to protect and preserve cultural artifacts, quite frankly), 
+- Enough people obviously felt a particular way (Museums is drama central, and one would hope for loud opinions from those whose job it is to protect and preserve cultural artifacts, quite frankly), that the Guardian became aware. I have not yet checked Times/Telegraph, such is my wtf is this.
+  
+- There is much to discuss.  
