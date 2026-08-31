@@ -35,3 +35,9 @@ This is a draft, as I avoid confronting the ten different trains of thought afte
 - Enough people obviously felt a particular way (Museums is drama central, and one would hope for loud opinions from those whose job it is to protect and preserve cultural artifacts, quite frankly), that the Guardian became aware. I have not yet checked Times/Telegraph, such is my wtf is this.
   
 - There is much to discuss.  
+
+- Well done for recognising soft power, incidentally. Glad you’re all catching on.
+
+- I will split the reading into two parts, as I feel the ambiguity is half the point, but there are two ways to read this, and both are worth baring in mind for a man who, understandably - we are fantastic, looked at the British Isles and thought, “quite pretty… wouldn’t mind a bit of that”. We also feel The Shire is a quality place, hence our general response to anything which seems a bit too much like it came from the elves.
+
+- 
