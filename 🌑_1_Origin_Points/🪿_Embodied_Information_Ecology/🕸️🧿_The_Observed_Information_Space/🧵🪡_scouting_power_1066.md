@@ -448,9 +448,19 @@ And that is exactly the moment at which governance is supposed to be easiest.
 
 Britain does not particularly lack rules.
 
-It lacks friction which remains equally solid when somebody important leans on it.
+It lacks friction which remains equally solid when somebody important leans on it.  
 
----
+---  
+
+## 💞 So Why Continue to Joke About The ThielXMusk Yaoi, When One Understands The Objectification At Play?  
+
+Mr Mandelson, a close contact, it seems, of both Mr Thiel and Mr Osbourne, gave an interview after there was reasonable Parlimentary objection to the DOJ disclosures and the appointment of the then Lord Mandelson as Ambassador to the United States, a reasonably coveted and exclusive position within the FCDO. This was prior to the UK Government’s disclosures arounfd the diplomacy arrangements around Mr Andrew Mountbatten-Windsor, another one of the lads apparantly with special interests in the tech and defence industries, as well as hanging around on overseas beaches with rich financiers.  
+
+One might point, quite rightly, to the reputational problems caused to Western governments by by, if not these men as individuals, the social and business networks they were within and moved through. One may express disguist with the idea, therefore, of placing any of them near a subject of objectification of men which places emphasis on female desire. I am not maintaining that the act is sacricant, or that it lie irreproachable.  
+
+But as the man appears to enjoy being the centre of attention whilst claiming otherwise (we can all choose *not* to be the talk of the culture section), and maintains a financila portfolio which has made himself wealthy by the observation of publics in a way that the French government 
+
+--- 
 
 ## 🌌 Constellations
 
