@@ -16,6 +16,8 @@ This is a draft, as I avoid confronting the ten different trains of thought afte
 
 - None of this takes away from the wider conversation. There is a lot to discuss, and really the fact that the media are being handed this to *do the job of journalism in a liberal democracy* is really quite an indictment of our media priorities and strategy.
 
+- This comments of presentation and form, not whatever the fuck the governance actually shows.  
+
 - Tl;dr: thank G-ds this is starting to look like we give a fuck about wat we spend our money on and are applying some rigour to the thing. Much still to do.  
 
 - Anyway: Bayeux.
