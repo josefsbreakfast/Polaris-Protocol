@@ -1,6 +1,5 @@
 # 🧵🪡 Scouting Power, 1066
-
-**First created:** 2026-08-31 | **Last updated:** 2026-08-31
+**First created:** 2026-08-31 | **Last updated:** 2026-08-31  
 *On Bayeux, access, old power, new power, and what can be learned from watching somebody look.*
 
 ---
