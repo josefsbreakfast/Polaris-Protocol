@@ -352,6 +352,104 @@ Yes. We have noticed.
 
 The Hobbits can still see you taking up room in the Shire.  
 
+--- 
+
+## 🧽 On British Porosity Of Law And Order
+
+There is a wider British problem sitting underneath this which is probably more important than whether Peter Thiel got to look at some embroidery, because the recurring institutional failure is not generally that nobody knows what rules are supposed to exist. Britain is very good at writing rules. We are exceptionally good at producing inquiries after the fact, generating recommendations, creating safeguarding policies, tightening access protocols, adding governance boards, producing new acronyms and then explaining, with great seriousness, that lessons have been learned.
+
+The problem is that the system remains remarkably **porous around status**.
+
+This is one of the things the Savile case should have made culturally unforgettable. The important lesson was never simply *famous man bad*, nor even *institutions failed to stop one particularly manipulative individual*. It was that celebrity, usefulness, fundraising, informal relationships, institutional familiarity and the assumption that somebody senior must surely know what they are doing can combine to make ordinary boundaries strangely permeable. Access which would look exceptional if granted to an unknown person can begin to feel socially ordinary once the individual involved is famous, rich, useful, connected, entertaining, philanthropic, politically important, or simply treated by enough other powerful people as someone who belongs.
+
+This is the bit Britain repeatedly seems not to retain.
+
+We keep asking, after scandals, *how did this happen?* as though the answer will always be found in a secret room containing one villain and one spectacularly corrupt official, when much of the actual machinery is considerably more banal. Someone knew him. Someone vouched for him. Someone thought it would be embarrassing to say no. Someone assumed somebody else had already checked. Someone decided the normal rule was probably a little too rigid for this particular circumstance. Someone senior was aware, which became a substitute for asking whether senior awareness constituted a reason.
+
+The problem is therefore not always absence of law, policy or procedure. It is the ease with which **social permission can bleed through formal boundaries**.
+
+That is what I mean by porosity.
+
+A rule may remain perfectly intact on paper while becoming soft in practice around the right person. The institution can continue to insist that everybody is subject to the same governance regime while simultaneously producing a series of individually defensible exceptions, each one small enough to appear harmless and each one made easier by the fact that the beneficiary already carries enough status to make refusal feel abnormal.
+
+This does not require corruption in the cinematic sense.
+
+Indeed, the more worrying version often requires almost nobody to think they are doing anything wrong.
+
+A friend can arrange something.
+
+A donor can ask.
+
+A board member can suggest.
+
+A minister can call.
+
+A celebrity can be recognised.
+
+A contractor can be treated as unusually important.
+
+A person with enough prestige can become somebody for whom the organisation begins solving the problem of access rather than applying the ordinary question of whether access is necessary.
+
+That distinction matters.
+
+The governance question is not *is Peter Thiel dangerous because he looked at the Bayeux Tapestry?* That would be ridiculous. Nor is it that everybody with a reputational complication should be prevented from entering a museum, which would become both unworkable and rather boring.
+
+The useful question is much smaller:
+
+**why did the exception exist?**
+
+Who authorised it?
+
+What institutional purpose did it serve?
+
+What criterion was being applied?
+
+Would the same reasoning survive if the individual's name were removed from the paper?
+
+And if the answer is simply *well, somebody knew him and it seemed like a nice thing to do*, that may be an entirely satisfactory explanation at the level of friendship while remaining a revealing one at the level of institutional governance.
+
+The timing does not help, because the wider reputational field around Epstein remains unresolved enough that British institutions ought to be unusually alive to the distinction between **allegation against an individual** and **risk created by proximity to an unfinished disclosure environment**. Those are not the same thing, and it would be irresponsible to collapse them; but equally, one does not need to accuse every person appearing anywhere near that network of criminality in order to understand why institutions should be cautious about creating unnecessary forms of exceptional intimacy, privilege or visible endorsement while the factual record remains politically and legally contested.
+
+This is where Britain has a repeated problem of learning the wrong lesson.
+
+After Savile, the lesson should not have been *be suspicious of strange celebrities*. After Epstein, the lesson should not be *never speak to rich men with complicated social networks*. After every safeguarding inquiry, the lesson should not be *invent another category of obviously dangerous person and watch for that exact costume next time*.
+
+The lesson is that **status changes how institutions behave**, and therefore status itself has to be treated as a risk factor in governance.
+
+The more useful, connected, wealthy, famous, politically sensitive or institutionally valuable somebody is, the more conscious an organisation should become of the possibility that ordinary friction is being removed around them without anybody explicitly deciding to remove it.
+
+That is almost the inverse of what often happens.
+
+Instead, status arrives carrying its own solvent.
+
+The queue becomes shorter.
+
+The introduction becomes easier.
+
+The exception feels less exceptional.
+
+The boundary which would be obvious around an ordinary stranger becomes negotiable around somebody who is already socially authenticated by other powerful people.
+
+And then, if something later goes wrong, Britain convenes another inquiry to discover how so many people failed to notice the door had been left open.
+
+This is why the Bayeux viewing is useful precisely because, as far as we know, nothing terrible happened.
+
+It is a low-stakes demonstration of the mechanism.
+
+A prestigious person is offered access which ordinary people do not have, through relationships which appear capable of bypassing the ordinary public route, inside an institution which had already reportedly considered how that access might be perceived.
+
+The light goes on.
+
+The door opens.
+
+Everyone involved can plausibly believe the whole thing is harmless.
+
+And that is exactly the moment at which governance is supposed to be easiest.
+
+Britain does not particularly lack rules.
+
+It lacks friction which remains equally solid when somebody important leans on it.
+
 ---
 
 ## 🌌 Constellations
