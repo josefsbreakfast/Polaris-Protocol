@@ -486,6 +486,12 @@ I appreciate Mr Thiel wouldn’t be desperate to be associated with the “widen
 
 Stanford can write its complaint accordingly.  
 
+He could, of course, keep his new underwater lair to himself. This is a possibility. Unfortunately to do so would be burning potential revenue, because who would not want to book the underwater Victorian glass ballroom for weddings, bar mitzvahs, and corporate events?  
+
+Accelerationism may be tempting to find the limits of a numbers-only system. Unfortunately, the world does tend to have better aesthetics with DEI.  
+
+Do you want the underwater cities, or not? Show some fucking dedication to the project.  
+
 --- 
 
 ## 🌌 Constellations
