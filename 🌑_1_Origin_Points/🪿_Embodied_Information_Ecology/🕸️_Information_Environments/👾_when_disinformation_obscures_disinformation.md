@@ -1019,3 +1019,218 @@ CONTENT DISTRACTS BECAUSE THE ENVIRONMENT REWARDS IT
 The scope guard here is particularly important: 👾 should not become “everything we know about Ceuta.” Ceuta is the teaching case. The reusable object is the distinction between designed distraction, opportunistic distraction and emergent distraction — and the investigative discipline required to keep looking at infrastructure when spectacle arrives.
 
 
+Yes. There is now enough independent legacy-media coverage to substantially strengthen 👾, and some of it improves the mechanism rather than merely duplicating the Guardian.
+
+The most useful find is that the Ceuta information story was being documented before Sánchez’s 31 August attribution, by Reuters, AP, El País, Le Monde and Euronews. That gives us a much firmer chronology.
+
+Strong additions for the Ceuta spine
+
+* Reuters, 31 July — “Social media rumours, economic hardship fuel migrant surge into Ceuta”
+    * This is extremely useful because it was written while the crossing was happening.
+    * Reuters interviewed a 16-year-old Moroccan who said he and his cousin decided to travel to Ceuta after seeing Instagram videos of successful crossings.
+    * It reports Spain’s claim that smugglers exploited the July Supreme Court judgment and explicitly separates:
+        * online rumours;
+        * migrant decision-making;
+        * economic conditions;
+        * uncertainty over Moroccan border enforcement.
+    * This gives 👾 contemporaneous evidence for information → embodied decision, without needing Sánchez’s later attribution claims.  
+    * Reuters: “Social media rumours, economic hardship fuel migrant surge into Ceuta”⁠￼
+* Reuters, 31 July — mass-crossing report
+    * Separate Reuters reporting documented the physical scale while events were ongoing: more than 49,000 had crossed by the time of publication and Spain said most were already returning.
+    * Useful for keeping the physical event chronology independent of later disinformation narratives.  
+    * Reuters: “Spain says migrants are returning from Ceuta after 57 die in border rush”⁠￼
+* AP Fact Focus — “Migrant crossing in Spain’s Ceuta breeds unsubstantiated claims”
+    * Very useful structurally because AP treated Ceuta specifically as a misinformation/fact-checking event, rather than only migration news.
+    * This gives us an independent major-wire basis for the claim that the crisis rapidly accumulated false or unsupported narratives about Spanish migration policy.  
+    * Associated Press: “Migrant crossing in Spain’s Ceuta breeds unsubstantiated claims”⁠￼
+* El País, 11 August — “Los bulos que propiciaron la avalancha migratoria hacia Ceuta: ‘La puerta está abierta’”
+    * This is probably one of the best additions.
+    * El País examined the specific misinformation environment:
+        * Instagram;
+        * TikTok;
+        * “the door is open” claims;
+        * distortion of the Spanish Supreme Court decision.
+    * It cites analysis by Moroccan computer engineer Maruán L. Alaui concluding that social-media falsehoods helped trigger the movement.
+    * It also preserves other physical variables — low tide and unusual Moroccan security-force inactivity — rather than turning the whole event into a single-cause “social media did it” story.  
+    * El País: “Los bulos que propiciaron la avalancha migratoria hacia Ceuta: ‘La puerta está abierta’”⁠￼
+
+That gives us a very strong pre-attribution sequence:
+
+31 July Reuters → 1 August Le Monde → 7 August Guardian/411 → 11 August El País → 31 August Sánchez/Reuters/FT/Le Monde/Euronews.
+
+Le Monde adds something particularly interesting
+
+Le Monde, 1 August was already treating the crossing as an event being immediately captured by an international reactionary information environment. It reports Italian and Spanish far-right exploitation, false claims by Italian foreign minister Antonio Tajani that Spain had granted citizenship to more than 500,000 irregular migrants, Trump attacking Spain’s migration policy, and Israeli officials including Ben-Gvir and UN ambassador Danny Danon publicly using Ceuta to attack Sánchez.  
+
+That is excellent for 👾 because it demonstrates that Ben-Gvir was already participating in the Ceuta attention environment on 1 August.
+
+Not secretly. Not inferentially.
+
+He publicly used the event to attack Sánchez, sarcastically suggesting Spain should take Gazans wishing to emigrate.  
+
+That creates a much more grounded bridge between the two strands:
+
+Ben-Gvir did not need to be part of whatever Sánchez later meant by “Israel-linked networks” for us to establish that he was already opportunistically using Ceuta as a political information object.
+
+That is materially stronger than our earlier argument.
+
+* Le Monde: “Afflux de migrants à Ceuta : l’Espagne face à une crise inédite et sous le feu de la droite mondiale”⁠￼
+
+Le Monde then covered Sánchez again on 31 August, including his dismissal of Moroccan-government responsibility.  
+
+Euronews gives us an actual intervention loop
+
+Euronews is useful beyond merely repeating Sánchez.
+
+* 4 August: it reported that viral social-media rumours about an open border had helped drive people towards Ceuta.  
+* 11 August: it reported that the EU was coordinating fact-checkers with Meta and TikTok specifically to prevent another online-fuelled Ceuta crisis.  
+* 31 August: it independently reported Sánchez’s Russia/Israel/international-far-right allegations.  
+
+That gives us something which belongs particularly well in the wider Embodied Information Ecology constellation:
+
+misinformation → people move → state/EU observes information effect → EU changes its information-governance response → platforms/fact-checkers become intervention infrastructure.
+
+That latter piece might eventually deserve a ♻️🧿 or ♻️🕸️ cross-link, even though 👾 itself stays 🕸️.
+
+Reuters and FT on the 31 August attribution are importantly different
+
+Reuters independently reports Sánchez accusing Russian- and Israeli-linked networks, alongside the far right, of disseminating misleading information around Ceuta. It attributes the investigative basis to the EEAS and records both Russian and Israeli denials.  
+
+* Reuters: “Spanish PM blames Russia, Israel for disinformation in Ceuta migrant crisis”⁠￼
+
+But the Financial Times is actually more valuable analytically, because it introduces a major evidentiary restraint. According to the FT:
+
+* the EU had identified Russian disinformation activity after the crisis began;
+* it had not established that Russia encouraged the original migration wave;
+* and it had not confirmed Israeli involvement;
+* Sánchez himself supplied no concrete public evidence for the Israel allegation in the remarks reported.  
+
+That is exactly what 👾 needs to stop itself collapsing amplification into causation.
+
+* Financial Times: “Spain’s Sánchez accuses Russia and Israel of inflaming migrant crisis”⁠￼
+
+I would therefore give FT a prominent little “attribution brake” box:
+
+Spanish political attribution is not identical to publicly demonstrated EU attribution.
+
+And there is a separate Israeli influence-infrastructure story immediately beforehand
+
+This one is potentially very useful, but we need a thick firewall around it:
+
+It is contextual evidence about available Israeli information-operation infrastructure. It is NOT evidence that the same infrastructure participated in Ceuta.
+
+On 26 August, the Guardian reported that an Israeli-government-funded influence campaign had created a purported US thinktank, the “Hanover Institute for Public Policy,” publishing enormous quantities of quasi-academic material designed partly to influence what AI chatbots return about Israel. The US firm Piro Inc registered the material under FARA as work distributed for the Israeli government. The wider contracting chain reportedly involved Havas Media and several US firms.  
+
+Some particularly relevant details:
+
+* 124 reports / more than 560,000 words in nine days;
+* content engineered to appear authoritative to AI systems;
+* Piro advertising “AI Story Optimization”;
+* contractual language concerning “GPT framing results”;
+* an Israeli-government funding/contracting chain involving third-party commercial firms;
+* US contractors working under foreign-agent registrations.  
+
+And this wasn’t only retrospectively surfaced by the Guardian. Jerusalem Post reported on 17 August that US Justice Department filings showed a $1m Israeli-government-linked media campaign targeting Americans, involving Piro, Havas Media Germany and Israel’s government advertising agency LaPam.  
+
+* Jerusalem Post: “US filings detail Israeli government-linked $1 million media campaign targeting Americans”⁠￼
+* The Guardian: “Fake US thinktank set up and funded by Israel sought to game AI for propaganda”⁠￼
+
+This substantially improves the 🇺🇸 awkward-commercial-layer section of 👾.
+
+We can now say, with evidence:
+
+Separate reporting immediately before Sánchez’s Ceuta allegation demonstrates that Israeli government information campaigns were already being implemented through multinational advertising and US commercial communications infrastructure.
+
+We cannot say:
+
+therefore those firms were the “Israel-linked networks” Sánchez meant.
+
+That second arrow remains completely unproven.
+
+But the contextual governance problem we were laughing about is suddenly not hypothetical at all:
+
+foreign government → European intermediary → US private communications firms → AI/search/social information environment
+
+is an independently documented structure.  
+
+🇺🇸 FIRST AMENDMENT has acquired footnotes.
+
+What I have not found
+
+I have not found Reuters or AP independently covering the specific 31 August Ben-Gvir conveyor-belt AI video in the searches so far. That strand remains better sourced through Roya, YPA and the earlier Al Jazeera/Guardian reporting demonstrating the broader August sequence.
+
+That’s fine for 👾 because Ben-Gvir’s clip is the attention object, not the evidentiary basis for the Ceuta attribution. I would avoid pretending it has the same legacy-media corroboration as the Ceuta story.
+
+Revised source architecture for 👾
+
+I’d now build its evidence in layers:
+
+A. Original crisis / rumours
+
+* Reuters, 31 July.
+* AP Fact Focus.
+* El País, 11 August.
+* Euronews, 4 August.
+
+B. Immediate political appropriation
+
+* Le Monde, 1 August.
+    * Particularly important because it already records:
+        * Trump;
+        * Meloni/Tajani;
+        * Ben-Gvir;
+        * Danny Danon
+        * using Ceuta politically.
+
+C. Russian amplification
+
+* Guardian/411, 7 August.
+    * 4.5m-post analysis;
+    * Rybar;
+    * Pravda;
+    * multilingual relay infrastructure.
+
+D. Information-governance response
+
+* Euronews, 11 August.
+    * EU + Meta + TikTok fact-check coordination.
+
+E. Israeli influence infrastructure — context, NOT Ceuta attribution
+
+* Jerusalem Post, 17 August.
+* Guardian, 26 August.
+    * FARA;
+    * Piro;
+    * Havas;
+    * LaPam;
+    * AI/GPT framing.
+    * Explicit firewall: no demonstrated Ceuta connection.
+
+F. Sánchez attribution
+
+* Guardian, 31 August.
+* Reuters, 31 August.
+* Le Monde, 31 August.
+* Euronews, 31 August.
+* FT, 31 August.
+
+G. Attribution brake
+
+* FT especially:
+    * Russia post-event amplification supported;
+    * original-wave causation unsupported;
+    * Israeli component not independently confirmed by the EU evidence reported publicly.  
+
+And there is one conceptual upgrade I would absolutely make to the planned node now.
+
+We had:
+
+an already-running outrage machine can supply distraction exactly when another story becomes inconvenient.
+
+We can now add:
+
+The Ceuta crisis itself had already become a shared political information object before the later attribution dispute: international far-right figures, Trump officials and Israeli officials were publicly competing to define what Ceuta meant almost immediately after the crossing.
+
+That makes 👾 much less speculative. The opportunism is observable before we ever reach 31 August.  
+
+And that, frankly, is a much better node.
