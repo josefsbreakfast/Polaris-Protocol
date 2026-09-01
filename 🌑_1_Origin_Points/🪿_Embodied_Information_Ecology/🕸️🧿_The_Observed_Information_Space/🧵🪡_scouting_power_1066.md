@@ -1,5 +1,5 @@
 # 🧵🪡 Scouting Power: 1066
-**First created:** 2026-08-31 | **Last updated:** 2026-08-31  
+**First created:** 2026-08-31 | **Last updated:** 2026-09-01  
 *On Bayeux, access, old power, new power, and what can be learned from watching somebody look.*
 
 ---
@@ -464,7 +464,27 @@ But as the man appears to enjoy being the centre of attention whilst claiming ot
 
 In response to a man who is still extolling the virtues of *netteté, clarté, sûreté*, ironic objectification remains one of the few wyas in which one may respond back.  
 
-If one is a rich man, and one truly cares about one’s privacy and safety, perhaps one ought to consider how one places one’s body in an ecosystem of information and observation, rather than repeatedly give the *demos* reason to recall other French cultural artefacts; if one is truly concerned about Thea risk posed by an unruly, ungovernable public, perhaps do not give them every reason imaginable to start remembering words like, *liberté, égalité, fraternité*.  
+If one is a rich man, and one truly cares about one’s privacy and safety, perhaps one ought to consider how one places one’s body in an ecosystem of information and observation, rather than repeatedly give the *demos* reason to recall other French cultural artefacts; if one is truly concerned about the risk posed by an unruly, ungovernable public, perhaps do not give them every reason imaginable to start remembering words like, *liberté, égalité, fraternité*.  
+
+## Cooler Shit Peter Thiel Could Do With His Wealth And Access, Thiel-Branded. 
+
+I’m not going to make all the obvious arguments for all the things which could buy the soft power status of easing burdens on the populations most impacted by your business activities, or at least not directly.  
+
+Back up near Lindesfarne - very Tolkien-coded, incidentally - a significant munitions and weapons industry existed.  
+
+In this place, the current legacy of Lord Armstrong is “the world’s first smart house”, alongside a public-good park laced with Victorian-era engineering, a place of remarkable conservation.  
+
+The legacy is such that, yes, local people do feel *a little precious* about the new ownership of the Armstrong Works, still featuring as a prominent landmark in both the song and the historic run taking the same route, the *Blaydon Races*.  
+
+We know and are taught the full legacy, but weaving good grace into the landscape produces a similar outcome to the *Nobel Peace Prize*, again, named for a man who wished to rewrite history.  
+
+I am forever suprised, for a man who does so much business in the UK, that he has never apparantly considered buying and restoring Whitley Park. There is already a work of underwater living space, thanks to the completely mad hat contributions to engineering which inevitably led both our countries of origin to believe they could take on the world, and in the process drew out a multi year and million-man battle of European imperialism.  
+
+I have previously costed the restoration work before. It isn’t even “billionaire wealth” insane; it is “incredibly wealthy” insane.  
+
+I appreciate Mr Thiel wouldn’t be desperate to be associated with the “widening participation in STEM” initiative for visitors to a custom-build of the possibilities of futurism. Presumably someone else could take the strenuous work of admitting that STEM is not purely the domain of white men out of his hands.  
+
+Stanford can write its complaint accordingly.  
 
 --- 
 
@@ -496,4 +516,4 @@ The node does not treat observation as proof of hidden intention; rather, it tre
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-31*
+*Last updated: 2026-09-01*
