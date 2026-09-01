@@ -1,859 +1,1760 @@
+# 🫒 The Body Is Not the Explanation
 
-Yep. I’d keep them as two deliberately adjacent notesets, because otherwise the extremely vivid Ben-Gvir material will eat the Ceuta/network story inside our own analysis — which would rather prove the point.
-
-1. 🕸️_the_body_is_not_the_explanation.md
-
-* Core question
-    * What is Ben-Gvir’s “Palestinians need to lose weight” / “prisoners were getting fat” rhetoric actually doing?
-    * What material history disappears when Palestinian bodily condition is presented as an individual problem of excessive consumption?
-* Immediate propaganda object
-    * August 2026 sequence includes:
-        * real footage celebrating construction of gallows for Palestinian prisoners;
-        * real prison footage in which detainees describe deprivation;
-        * Ben-Gvir publicly defending deliberately harsh/minimal prison conditions;
-        * AI propaganda depicting Palestinians moving through a mechanised conveyor-belt/factory process and emerging emaciated;
-        * slogan/political claim: “We promised and delivered.”
-    * Palestinians are initially depicted through exaggerated appetite/food imagery.
-    * Their subsequent emaciation is presented as successful policy output.
-    * The body therefore becomes a visual performance indicator for punitive governance.
-    * Important distinction:
-        * hunger is not represented as harm;
-        * hunger/weight loss is represented as correction.
-* Propaganda transformation
-    * Structure:
-        * Palestinian appetite → excess;
-        * excess → moral/political problem;
-        * state deprivation → discipline;
-        * emaciation → evidence of successful intervention.
-    * This individualises a structurally produced condition.
-    * Viewer is encouraged to ask:
-        * “Why were they eating so much?”
-    * rather than:
-        * “Who controls the conditions under which Palestinians can obtain, produce and distribute food?”
-* The body is downstream
-    * Bodily weight/nutrition is the visible endpoint of numerous upstream systems:
-        * land access;
-        * water access;
-        * agricultural production;
-        * fishing access;
-        * agricultural inputs;
-        * imports and exports;
-        * movement restrictions;
-        * market access;
-        * employment/income;
-        * humanitarian access;
-        * cooking fuel;
-        * prison ration policy.
-    * Therefore:
-        * the body is evidence about the system; the body is not itself the explanation.
-* Longer food-sovereignty context
-    * Visualizing Palestine documents a much longer history of constraints on Palestinian food sovereignty.
-    * Relevant mechanisms include:
-        * loss/expropriation of agricultural land;
-        * Palestinian agricultural resources located within Israeli-controlled Area C;
-        * separation-barrier effects on farmers’ access to land;
-        * Israeli control over water allocation and infrastructure;
-        * restrictions affecting Palestinian agricultural markets;
-        * restrictions on Gaza fishing;
-        * attacks/damage affecting farmers, fishers, crops and agricultural infrastructure;
-        * restrictions affecting particular plants/crops and agricultural production.
-    * This means political control over Palestinian food cannot be reduced to post-2023 emergency conditions.
-* Food security ≠ food sovereignty
-    * WFP answers an immediate question:
-        * Can people obtain adequate food now?
-    * Current WFP figures supplied:
-        * 1.4 million people in Gaza facing crisis-or-worse acute food insecurity;
-        * around 1.5 million people reached by WFP each month;
-        * only one in five children receiving an adequate diet;
-        * adults skipping meals so children can eat;
-        * fruit, vegetables and protein consumed less than weekly by many families;
-        * roughly 80% unemployment;
-        * humanitarian and commercial inflows still below need;
-        * up to 90% potentially facing high acute food insecurity by year-end if current assistance is not sustained.
-    * Food arriving therefore does not establish:
-        * adequate nutrition;
-        * affordability;
-        * dietary diversity;
-        * resilience;
-        * autonomous food production;
-        * food sovereignty.
-* Al-Shabaka / Fathi Nimer — political economy
-    * Food sovereignty asks a different question:
-        * Who controls the system through which people feed themselves?
-    * Nimer situates Palestinian agriculture historically within a resistance economy.
-    * Agricultural autonomy can reduce vulnerability to political coercion because people have greater capacity to survive without depending upon systems controlled by an adversary.
-    * Relevant historical examples:
-        * agricultural cooperatives;
-        * First Intifada “victory gardens”;
-        * household/neighbourhood food production;
-        * agricultural solidarity networks.
-    * Nimer argues that de-development and dependency have weakened these capacities.
-    * Relevant mechanisms:
-        * fragmentation;
-        * land/resource control;
-        * Paris Protocol;
-        * movement restrictions;
-        * dependence upon Israeli labour markets;
-        * declining agricultural share of the economy;
-        * dependence upon controlled imports/exports.
-    * Important formulation:
-        * nominal economic autonomy without control over critical dependencies is not autonomy.
-* Mushroom farm as miniature systems case
-    * Palestinian mushroom enterprise attempted to compete with Israeli products.
-    * Production depended upon imported spores.
-    * Imported inputs passed through Israeli-controlled infrastructure.
-    * Delays made inputs unusable and contributed to the project’s collapse.
-    * Therefore:
-        * successful entrepreneurship downstream could not overcome control of the upstream dependency.
-    * Useful systems lesson:
-        * control the bottleneck and you can control an apparently independent system.
-* Strategic inefficiency
-    * Nimer’s wheat example challenges conventional market optimisation.
-    * Imported wheat may be cheaper.
-    * Locally produced wheat may nevertheless possess enormous resilience value.
-    * Two different optimisation questions:
-        * market: what is cheapest?
-        * sovereignty: who can stop us obtaining it?
-    * Cheapest supply chain ≠ safest supply chain.
-* Food sovereignty under active violence
-    * Important limit from Nimer:
-        * food sovereignty is not a substitute for stopping bombardment, destruction and coercion.
-    * Agroecology cannot compensate indefinitely for destroyed/inaccessible agricultural land.
-    * Avoid turning resilience into:
-        * “Palestinians should simply become more resilient.”
-    * Better:
-        * resilience can reduce vulnerability to coercion; it cannot substitute for ending coercion.
-* Arts/media representation
-    * Palestinian cultural representation of food frequently connects:
-        * land;
-        * knowledge;
-        * memory;
-        * agriculture;
-        * community;
-        * continuity;
-        * sovereignty.
-    * Foragers provides a particularly useful example through za’atar and ‘akkoub gathering.
-    * Hannah Boast’s work places this within an environmental turn in Palestinian arts/solidarity.
-    * Important caution:
-        * do not romanticise Palestinians into an essentially rural/peasant identity;
-        * Palestinian urban histories and food systems matter too.
-* Competing representational grammars
-    * Palestinian food/land representation:
-        * food → land → knowledge → community → continuity → sovereignty
-    * Humanitarian representation:
-        * food system → deprivation → measured human consequences
-    * Ben-Gvir propaganda:
-        * food → excess → Palestinian body → state processing → deprivation → success
-    * His imagery effectively reverses the causal direction.
-    * Structural deprivation disappears.
-    * The supposedly defective Palestinian body becomes the explanation.
-* Central line
-    * The body becomes the dashboard for a food system whose controls, dependencies and coercive levers sit upstream.
-* Possible ending
-    * Debunking “Palestinians need to lose weight” therefore requires more than demonstrating that Palestinians are hungry.
-    * It requires refusing the propaganda’s unit of analysis.
-    * The relevant object is not the supposedly overfed individual.
-    * It is the political economy determining who gets to grow, catch, transport, purchase, prepare and eat food.
-
-⸻
-
-2. 🕸️_when_disinformation_obscures_disinformation.md
-
-* Core question
-    * What happens when spectacular propaganda consumes attention at exactly the moment a much harder story about information infrastructure requires scrutiny?
-    * Specifically:
-        * Ben-Gvir’s spectacular August propaganda;
-        * Sánchez’s allegations concerning Israel-linked networks and the Ceuta information environment.
-* Start with evidentiary discipline
-    * Do not claim:
-        * Ben-Gvir made the 31 August video because Sánchez made the Ceuta allegation;
-        * Israeli state authorities ordered the Ceuta information operation;
-        * Ben-Gvir’s propaganda and the Ceuta networks share command.
-    * Current evidence does not establish those arrows.
-    * Preserve:
-        * association ≠ causation;
-        * systematic ≠ coordinated;
-        * Israel-linked ≠ Israeli-state-directed.
-* Ceuta’s first information problem
-    * A misleading/false interpretation of Spanish migration law circulated online.
-    * People were led to believe reaching Ceuta in particular circumstances would prevent their return.
-    * Information therefore potentially changed physical migration decisions.
-    * Important original chain:
-        * legal information;
-        * distorted interpretation;
-        * circulation;
-        * perceived opportunity;
-        * human movement;
-        * border crisis.
-* Organic movement versus subsequent amplification
-    * Earlier 7 August Guardian reporting is critical.
-    * 411 analysed roughly 4.5 million posts.
-    * Migrant-side discussion appeared substantially distributed/organic.
-    * Russia-linked accounts subsequently amplified far-right narratives surrounding the event.
-    * Russian amplification therefore should not be rewritten into:
-        * Russia caused the original crossing.
-    * Better:
-        * an event existed;
-        * politically useful narratives developed around it;
-        * standing amplification infrastructure identified and accelerated them.
-* The standing-infrastructure problem
-    * This connects with riding every wave.
-    * Information operations do not necessarily need to manufacture events.
-    * Standing networks can wait for useful events to emerge.
-    * Different actors can exploit the same informational object for unrelated reasons:
-        * traffickers → opportunity;
-        * influencers → engagement;
-        * far right → anti-migration mobilisation;
-        * foreign influence infrastructure → political division;
-        * opposition → government failure narrative.
-    * Shared usefulness does not require shared command.
-* 31 August escalation
-    * Sánchez publicly attributes parts of the surrounding disinformation environment to:
-        * Russia-linked networks;
-        * Israel-linked networks;
-        * international far-right networks.
-    * He reportedly preserves an important distinction:
-        * network linkage does not necessarily imply direct state operation.
-    * The Russian component has a visible earlier evidentiary trail.
-    * The Israel-linked component presently needs considerably more investigation.
-* The question we actually need answered
-    * What does “Israel-linked” mean operationally?
-    * Possible questions:
-        * which accounts?
-        * which companies?
-        * which contractors?
-        * which platforms?
-        * which owners?
-        * which clients?
-        * which financial relationships?
-        * what propagation behaviour?
-        * what languages?
-        * what timing?
-        * what degree of coordination?
-        * what attribution confidence?
-        * state, commercial, ideological or mixed?
-    * The underlying EEAS material therefore matters much more than the political shorthand.
-* Then Ben-Gvir generates an extraordinary competing information object
-    * August already contains a running propaganda sequence:
-        * real gallows construction footage;
-        * real prison/deprivation footage;
-        * spectacular AI starvation propaganda.
-    * Therefore the propaganda machine clearly predates Sánchez’s 31 August remarks.
-    * That weakens any simple deliberate-diversion theory.
-    * But it does not eliminate opportunistic distraction.
-* Origin ≠ subsequent use
-    * Something does not need to be created as a distraction to become useful as one.
-    * Distinguish:
-        * designed distraction — content commissioned specifically to divert attention;
-        * opportunistic distraction — existing/new content amplified because it becomes useful after another development;
-        * emergent distraction — ordinary operation of the attention system overwhelms the quieter story without anybody needing to coordinate it.
-* Why the spectacular object wins
-    * “Ben-Gvir publishes grotesque AI concentration-camp/starvation propaganda” is:
-        * visual;
-        * immediate;
-        * morally legible;
-        * emotionally provocative;
-        * easily clipped;
-        * easily reposted;
-        * easily condemned;
-        * understandable without technical expertise.
-    * “What precisely did EEAS identify when it described Israel-linked networks participating in the Ceuta information environment?” requires:
-        * network analysis;
-        * attribution methodology;
-        * corporate research;
-        * financial research;
-        * platform knowledge;
-        * chronology;
-        * careful confidence language.
-    * Attention economics therefore strongly favours the first object.
-* The perversity
-    * Everyone can spend days debating:
-        * whether the AI imagery resembles concentration camps;
-        * whether Ben-Gvir is trolling;
-        * whether the prisoners were actually overweight;
-        * whether the video crossed some new moral line;
-        * whether AI companies should permit such imagery.
-    * Meanwhile:
-        * what were the Israel-linked Ceuta networks?
-    * The propaganda itself becomes the easier object of investigation than the infrastructure potentially distributing propaganda/disinformation.
-* Disinformation obscuring disinformation
-    * First-order problem:
-        * misleading information and propaganda.
-    * Second-order problem:
-        * attention generated by spectacular misleading/propaganda material crowds out investigation of the infrastructure producing and circulating information operations.
-    * Hence:
-        * the content becomes more visible than the system that makes the content consequential.
-* Ben-Gvir doesn’t need the memo
-    * Existing domestic incentives already reward:
-        * outrage;
-        * punitive signalling;
-        * election attention;
-        * virality;
-        * dehumanising spectacle.
-    * Therefore:
-        * nobody necessarily needs to say POST ATROCITY SLOP NOW.
-    * An actor optimising for his own political environment can independently produce something useful to a completely different information-management problem.
-* Partially opportunistic
-    * Best current formulation.
-    * Existing propaganda production:
-        * already operating.
-    * External inconvenient story:
-        * appears.
-    * Existing/high-salience output:
-        * becomes newly useful.
-    * Possible selective amplification:
-        * increases its distraction value.
-    * No need to invent a common origin.
-* American/private-infrastructure question
-    * A further complication arises if relevant infrastructure includes US-based:
-        * platforms;
-        * AI services;
-        * advertising systems;
-        * contractors;
-        * analytics;
-        * investors;
-        * companies.
-    * Traditional foreign-information-warfare ontology works comparatively neatly for Russia.
-    * Commercial infrastructure creates a murkier category:
-        * private actor;
-        * commercial service;
-        * protected speech;
-        * customer activity;
-        * geopolitical consequence.
-    * Strategically important information effects need not arise from a conventional state command structure.
-* The deeper architecture
-    * Stop asking only:
-        * Who pressed the button?
-    * Also ask:
-        * Why does the system continually provide so many actors with buttons?
-    * Relevant standing infrastructure may allow actors with completely different motivations to:
-        * find the same event;
-        * select useful interpretations;
-        * amplify them;
-        * profit politically/commercially;
-        * generate further material for amplification.
-* Central analytical distinction
-    * coordination is one mechanism of convergence; incentives are another.
-    * Actors can converge upon the same outcome because:
-        * their incentives independently point toward it.
-    * This is why distributed systems can produce effects resembling coordination without proving central direction.
-* Central line
-    * An outrage machine does not have to be commissioned as a diversion to become useful as one.
-* Sharper secondary line
-    * The peacock can obscure the wiring without knowing the wiring is being investigated.
-* Possible ending
-    * The analytical danger is becoming so absorbed in adjudicating each spectacular content object that investigation never reaches the infrastructure beneath it.
-    * The question is therefore not merely:
-        * “Is this propaganda?”
-    * It is:
-        * “What information system produced, selected, distributed and rewarded it — and what else became harder to see while we were looking at it?”
-
-- - -  
-
-Yes. I’d make this a tight debunking + upstream-systems node, rather than letting it become the entire history of Palestinian food sovereignty. The olive gets us from Ben-Gvir’s body rhetoric back upstream to land, production and control.
-
-<div>
-
-🫒 Title / metadata
-
-* # 🫒 The Body Is Not the Explanation
-* Path:
-    * 🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🫒_the_body_is_not_the_explanation.md
-* First created: 2026-09-01
-* Last updated: 2026-09-01
-* Scope line:
-    * Ben-Gvir’s propaganda makes Palestinian body weight appear to explain food consumption; this node follows the information upstream into the political, agricultural and infrastructural systems governing access to food.
-* Keep the primary route firmly 🕸️_Information_Environments.
-    * The node is principally about how an explanatory frame is constructed by selecting one visible output—the body—and suppressing information about the system producing it.
-
-</div>
-<div>
-
-🛰️ Orientation — The body is being offered as an explanation
-
-* Open on the August 2026 propaganda sequence rather than immediately beginning in 1948.
-* Ben-Gvir’s recurring claim:
-    * Palestinian prisoners were supposedly overfed;
-    * prisoners previously entered thin and left “obese”;
-    * reducing food is consequently presented as discipline, deterrence and successful policy.
-* 31 August AI video makes this logic visually explicit:
-    * Palestinians represented as large/overfed and preoccupied with food;
-    * bodies enter a mechanised conveyor/factory system;
-    * bodies emerge visibly emaciated;
-    * deprivation is presented as the successful output;
-    * political slogan: “We promised and delivered.”
-* Establish the node’s problem:
-    * the propaganda tells the viewer to explain food through the Palestinian body;
-    * specifically through appetite, consumption and weight.
-* Counter-question:
-    * What happens when we move one causal step upstream?
-* Working thesis:
-    * Palestinian bodily condition is an output of a food environment, not an adequate explanation of that environment.
-
-Sources
-
-* Roya News: “Ben-Gvir posts, then deletes AI video celebrating starvation of Palestinian detainees”⁠￼
-* Yemen Press Agency coverage of the AI video⁠￼
-* Al Jazeera: earlier August AI starvation propaganda⁠￼
-* The Guardian: Ben-Gvir at the gallows construction site⁠￼
-
-</div>
-<div>
-
-🏭 The body as policy dashboard
-
-* Analyse the conveyor belt as an information object.
-* It compresses an enormous causal system into:
-    * Palestinian → eats excessively → state intervenes → Palestinian becomes thin → policy works.
-* Emaciation becomes the visual KPI.
-* The state does not appear to have caused hunger.
-* Instead, the state appears to have corrected improper consumption.
-* This is the critical information operation inside the image:
-    * downstream condition is substituted for upstream explanation.
-* The factory metaphor is especially revealing:
-    * people become interchangeable inputs;
-    * state policy becomes a production process;
-    * changed bodily condition becomes manufactured output.
-* Connect to the preceding real footage:
-    * actual gallows infrastructure;
-    * actual prisoners and prison conditions;
-    * synthetic factory imagery.
-* Possible formulation:
-    * The AI does not invent the policy logic. It industrialises its representation.
-
-</div>
-<div>
-
-🍞 What happens when we look upstream?
-
-* Introduce the causal stack that the propaganda removes.
-* A person’s nutritional state can depend upon:
-    * availability of food;
-    * affordability;
-    * dietary diversity;
-    * income and employment;
-    * access to agricultural land;
-    * water;
-    * fisheries;
-    * agricultural inputs;
-    * ability to reach crops;
-    * ability to transport produce;
-    * market access;
-    * imports and exports;
-    * border access;
-    * cooking fuel;
-    * humanitarian access;
-    * in detention, the ration supplied by the detaining authority.
-* These are not interchangeable mechanisms.
-* Their significance is that body weight alone tells the reader almost nothing about which upstream conditions produced it.
-* Core line:
-    * The body can record the consequences of a food system without explaining the food system.
-
-</div>
-<div>
-
-🌾 Food security is not food sovereignty
-
-* Establish the conceptual distinction before introducing the historical evidence.
-
-Food security
-
-* Immediate question:
-    * Can people obtain enough appropriate food?
-* Necessary for measuring current deprivation and responding to hunger.
-
-Food sovereignty
-
-* Different question:
-    * Who possesses meaningful control over how food is produced, obtained and distributed?
-* Use the definition carried by Visualizing Palestine from La Via Campesina:
-    * peoples’ right to healthy and culturally appropriate food produced sustainably;
-    * and to define their own food and agricultural systems.
-* The distinction prevents a common analytical mistake:
-    * humanitarian food entering a territory does not itself establish food sovereignty.
-* A population can simultaneously:
-    * receive large amounts of humanitarian food;
-    * remain food insecure;
-    * and possess very limited control over the systems determining future access to food.
-
-Sources
-
-* Visualizing Palestine: “Food Sovereignty”⁠￼
-* Visualizing Palestine’s underlying source table supplied with the visual, including UNCTAD, OCHA, WFP, Al Mezan, B’Tselem, HRW, Gisha and other sources.
-
-</div>
-<div>
-
-🫒 Before the present hunger — food as a governed environment
-
-* Use Visualizing Palestine here as the historical/infrastructural map.
-* Do not imply every policy has the same purpose or legal character.
-* Show instead that Palestinian food production and acquisition have long been affected by political controls operating at multiple points in the system.
-
-Land
-
-* Nakba-era loss of Palestinian agricultural land.
-* Area C:
-    * substantial Palestinian agricultural resources under complete Israeli control.
-* Separation barrier:
-    * farmers separated from agricultural land;
-    * permits required in some areas for access.
-
-Water
-
-* Israeli control over significant water allocation and infrastructure affecting Palestinian agriculture in the West Bank.
-* Demolition/restriction of Palestinian water infrastructure included in the supplied source set.
-
-Movement and markets
-
-* Checkpoints, roadblocks and other restrictions:
-    * increase transport time;
-    * increase costs;
-    * particularly damage perishable agricultural products;
-    * interfere with access to agricultural services and markets.
-
-Fishing
-
-* Gaza fishing-zone restrictions.
-* Attacks/arrests/seizure of equipment documented in the supplied material.
-* Reduced fishing access affects:
-    * livelihoods;
-    * local protein supply;
-    * nutritional conditions.
-
-Crops, gathering and agricultural practice
-
-* Include selected illustrative cases rather than the entire Visualizing Palestine database:
-    * za’atar;
-    * sage;
-    * ‘akkoub;
-    * olives;
-    * strawberries;
-    * wheat.
-* Their usefulness is to show that “food” is not merely something appearing on a supermarket shelf:
-    * it has land;
-    * ecology;
-    * labour;
-    * culture;
-    * transport;
-    * law;
-    * markets
-    * upstream of consumption.
-
-</div>
-<div>
-
-🍄 The mushroom farm — autonomy with somebody else controlling the bottleneck
-
-* Use Nimer’s Amoro mushroom example as a compact systems case.
-* Palestinian mushroom production attempts to compete with Israeli products.
-* Production requires imported spores/compost.
-* Necessary imports pass through Israeli-controlled infrastructure.
-* Nimer reports delays that caused essential inputs to expire and contributed to the farm’s closure.
-* Mechanism:
-    * apparent entrepreneurial independence;
-    * critical upstream dependency remains externally controlled;
-    * control of bottleneck defeats downstream autonomy.
-* Key line:
-    * Nominal economic autonomy without control over critical dependencies is not autonomy.
-* This prevents the node becoming simply a list of restrictions: it gives the reader a miniature causal model.
-
-Source
-
-* Al-Shabaka — Fathi Nimer: “Food Sovereignty in a Palestinian Economy of Resistance”⁠￼
-
-</div>
-<div>
-
-🌱 Food sovereignty as resistance to dependency
-
-* Develop Nimer’s distinction between conventional food-security policy and food sovereignty.
-* Historical resistance-economy material:
-    * agricultural cooperatives;
-    * First Intifada victory gardens;
-    * household and neighbourhood production;
-    * solidarity networks;
-    * agricultural self-sufficiency as political as well as economic capacity.
-* Nimer’s important causal proposition:
-    * greater food/livelihood autonomy creates greater room to act without fear of hunger.
-* De-development argument:
-    * fragmentation;
-    * resource restrictions;
-    * movement restrictions;
-    * labour dependency;
-    * weakened agriculture;
-    * dependence on controlled trade.
-* Do not turn this into romantic autarky.
-* Nimer explicitly acknowledges:
-    * locally produced strategic food may cost more;
-    * sovereignty/resilience can have value that ordinary market prices do not capture.
-* Wheat is useful:
-    * cheapest source ≠ most resilient source.
-* Diagnostic:
-    * “What does it cost?” is not the same question as “Who can stop you getting it?”
-
-</div>
-<div>
-
-🧱 Food sovereignty cannot stop a bomb
-
-* Keep Nimer’s limitation because it prevents victim-responsibilisation.
-* Food sovereignty is not a cure-all under warfare.
-* Agricultural resilience cannot compensate indefinitely for:
-    * bombardment;
-    * destroyed agricultural zones;
-    * inaccessible land;
-    * destroyed infrastructure.
-* Do not produce:
-    * “Palestinians should become sufficiently resilient to survive coercion.”
-* Instead:
-    * resilience can reduce the effectiveness of dependency as coercion; it cannot substitute for ending the coercive conditions themselves.
-* This distinction also separates:
-    * immediate humanitarian survival;
-    * long-term restoration of autonomous food systems.
-
-</div>
-<div>
-
-🥖 The present tense — WFP
-
-* Bring the argument firmly back into 2026.
-* WFP currently reports:
-    * 1.4 million people in Gaza facing high levels of acute food insecurity;
-    * roughly 1.5 million reached by WFP every month;
-    * US$426 million required for Gaza/West Bank operations July–December 2026.
-* More than nine months into the fragile ceasefire:
-    * two thirds of Gaza’s population remains at crisis-or-worse acute food insecurity.
-* Without sustained assistance:
-    * WFP warns up to 90% could face high acute food insecurity by year-end.
-* Dietary quality:
-    * only one in five children receives an adequate diet;
-    * adults skip meals so children can eat;
-    * many families consume fruit, vegetables and protein less than once per week.
-* Economic access:
-    * roughly 80% unemployment;
-    * availability therefore does not equal affordability.
-* System dependence:
-    * WFP supports bakeries;
-    * community kitchens;
-    * flour;
-    * food parcels;
-    * nutrition programmes;
-    * cash assistance.
-* Humanitarian/commercial inflows remain below need.
-* WFP explicitly links lasting recovery to:
-    * restored livelihoods;
-    * functioning markets;
-    * services;
-    * access;
-    * economic opportunity.
-
-Source
-
-* World Food Programme: Palestine Emergency⁠￼
-
-</div>
-<div>
-
-🥣 Being fed is not the same as being able to feed yourself
-
-* Use WFP + Nimer together.
-* Essential distinction:
-    * humanitarian assistance prevents hunger downstream; food sovereignty asks whether the upstream dependency can be changed.
-* WFP reaching 1.5 million people is evidence of essential humanitarian capacity.
-* It is simultaneously evidence of the extraordinary scale of continuing dependency.
-* Avoid framing humanitarian aid itself as the problem.
-* Problem:
-    * humanitarian substitution cannot by itself restore autonomous agricultural/economic capacity.
-* Long-term recovery therefore requires more than maintaining calorie flows:
-    * livelihoods;
-    * local markets;
-    * agriculture;
-    * water;
-    * transport;
-    * production;
-    * storage;
-    * trade;
-    * purchasing power.
-* Possible line:
-    * Keeping someone alive through an externally maintained food pipeline is necessary. It is not the same thing as restoring their ability to feed themselves.
-
-</div>
-<div>
-
-🎬 Food and sovereignty in Palestinian arts/media
-
-* Introduce the supplied arts/media material here rather than making it decorative.
-* Hannah Boast identifies an environmental turn in Palestinian art and solidarity concerned with:
-    * food;
-    * environment;
-    * cultivation;
-    * land;
-    * sovereignty.
-* Jumana Manna’s Foragers (Al-yad al-khadra):
-    * za’atar and ‘akkoub;
-    * gathering;
-    * ecological knowledge;
-    * criminalisation/restriction;
-    * relationships between food, land and Palestinian continuity.
-* Useful representational grammar:
-    * food → land → knowledge → community → continuity → sovereignty
-* Preserve Boast’s caution:
-    * environmental/agricultural representations can essentialise Palestinians as inherently rural;
-    * this can obscure Palestinian urban histories.
-* This is important because the node should not answer Ben-Gvir’s caricature with another caricature.
-
-Source
-
-* Hannah Boast, “Planting Palestine: Food, environment, and the arts of solidarity”, Environment and Planning E: Nature and Space (2025), DOI 10.1177/25148486251360896.
-* Use the uploaded article as the basis for this section rather than extrapolating beyond its argument.
-
-</div>
-<div>
-
-🪞 Two completely different explanations of food
-
-* Bring the sources into direct comparison.
-
-Palestinian food-sovereignty / arts frame
-
-* Food reveals:
-    * relationships to land;
-    * agricultural knowledge;
-    * ecological conditions;
-    * community;
-    * markets;
-    * autonomy;
-    * political power.
-
-WFP humanitarian frame
-
-* Food reveals:
-    * availability;
-    * affordability;
-    * dietary adequacy;
-    * malnutrition;
-    * livelihoods;
-    * infrastructure;
-    * access.
-
-Ben-Gvir propaganda frame
-
-* Food reveals:
-    * Palestinian appetite.
-* The upstream system disappears.
-* Result:
-    * structural food insecurity becomes personal excess;
-    * deprivation becomes correction;
-    * weight loss becomes proof of governance.
-* Core comparison:
-    * Food-sovereignty analysis: Who controls the conditions under which this person can feed themselves?
-    * Humanitarian analysis: Can this person obtain an adequate diet?
-    * Propaganda: Look how much this person supposedly wants to eat.
-
-</div>
-<div>
-
-🧿 The information trick — make the output explain its own cause
-
-* This should be the section that firmly justifies placement in 🕸️_Information_Environments.
-* The propaganda does not merely contain a false factual proposition.
-* It changes the reader’s causal field of view.
-* Available information becomes:
-    * body;
-    * appetite;
-    * weight;
-    * punitive intervention.
-* Information made absent:
-    * land;
-    * water;
-    * production;
-    * markets;
-    * income;
-    * movement;
-    * borders;
-    * agricultural destruction;
-    * humanitarian dependency.
-* Therefore the informational mechanism is:
-    * select a highly visible downstream output → remove upstream causal information → invite the audience to treat the output as its own explanation.
-* This is broader than Palestine and can become a reusable Embodied Information Ecology diagnostic.
-
-</div>
-<div>
-
-🛠️ Diagnostic tool — Walk upstream
-
-* Short reusable reader tool.
-* When a body is being offered as evidence of an individual’s moral or behavioural failure, ask:
-    * What material input produced the visible condition?
-    * Who controls that input?
-    * What infrastructure delivers it?
-    * What alternatives are available?
-    * What determines affordability?
-    * What determines access?
-    * What has been removed from the causal frame?
-    * Is the body being treated as evidence about a system or as a substitute for analysing the system?
-* Then:
-    * walk upstream until the controls become visible.
-
-</div>
-<div>
-
-🌌 Constellations
-
-* Suggested:
-    * 🫀 🕸️ 🫒 🌱 🧿
-* Line:
-    * bodily outputs; information framing; food sovereignty; material dependency; making upstream controls legible.
-* Cross-link later to:
-    * 👾_when_disinformation_obscures_disinformation.md
-        * because this node establishes what the Ben-Gvir propaganda obscures internally;
-        * 👾 establishes what attention to the propaganda may obscure externally.
-
-</div>
-<div>
-
-✨ Stardust
-
-* Suggested:
-    * food sovereignty, food security, information environments, palestine, agriculture, dependency, hunger, propaganda, embodied information, ben-gvir
-
-</div>
-<div>
-
-🏮 Footer
-
-* Situate it as an information-environment diagnostic rather than a comprehensive Palestine food-history node.
-* Something approximately:
-    * 🫒 The Body Is Not the Explanation examines how bodily condition can be made to substitute for analysis of the material systems producing it.
-    * The Palestinian food-sovereignty case demonstrates how propaganda can shift explanation downstream—from land, water, markets, infrastructure and political control onto appetite and body weight—making the governed body appear responsible for the conditions imposed upon it.
-* Cross-references:
-    * 👾_when_disinformation_obscures_disinformation.md — attention/distraction layer;
-    * appropriate Food Sovereignty / Embodied Information Ecology nodes as they emerge.
-* Preserve standard sovereignty line.  
-
-</div>
-<div>
-
-📚 Source spine
-
-* World Food Programme: “Palestine Emergency”⁠￼
-* current 2026 food insecurity, nutrition, aid dependency, livelihoods and recovery.
-* Visualizing Palestine: “Food Sovereignty”⁠￼
-* historical/infrastructural map and underlying source collection.
-* Al-Shabaka — Fathi Nimer: “Food Sovereignty in a Palestinian Economy of Resistance”⁠￼
-* food security versus sovereignty; resistance economy; de-development; agricultural dependency; mushroom-farm and strategic-crop cases.
-* Hannah Boast, “Planting Palestine: Food, environment, and the arts of solidarity” (2025).
-    * Palestinian arts/environment/food-sovereignty representation and Foragers; use the supplied article directly for detailed drafting.
-* Roya News: Ben-Gvir AI starvation/conveyor-belt video⁠￼
-* primary contemporary propaganda object and description.
-* Yemen Press Agency: coverage of Ben-Gvir’s AI starvation video⁠￼
-* alternative description/context for the 31 August video.
-* Al Jazeera: 10 August Ben-Gvir AI starvation propaganda⁠￼
-* establishes that AI starvation propaganda predates the 31 August clip.
-* The Guardian: 20 August gallows-site footage⁠￼
-* places synthetic imagery alongside the month’s real-world punitive-policy spectacle.
-
-</div>
-
-The important scope guard is: this node does not need to prove the entire history of Israeli food policy. It needs enough of that history to demonstrate why “look at the Palestinian body” is an informationally defective causal explanation. That keeps 🫒 sharp rather than turning it into the archive’s general food-sovereignty megafile.
+**First created:** 2026-09-01 | **Last updated:** 2026-09-01
+*How body-focused propaganda turns the visible consequences of a governed food system into an explanation for that system — and why food security, food sovereignty, infrastructure and political economy have to be put back upstream.*
+
+---
+
+## 🛰️ Orientation — The body is being offered as an explanation
+
+In August 2026, Israeli national security minister Itamar Ben-Gvir repeatedly used Palestinian bodies as political evidence.
+
+The argument was crude enough to sound ridiculous.
+
+Palestinian prisoners were supposedly:
+
+* eating too much;
+* becoming fat;
+* being treated too comfortably;
+* and therefore requiring harsher conditions.
+
+By the end of the month, the argument had been turned into an AI-generated visual system.
+
+Palestinian detainees were depicted entering a mechanised process on conveyor belts.
+
+Food appeared as desire.
+
+The bodies entering the process were represented as overfed or excessive.
+
+The bodies emerging from it were emaciated.
+
+The deterioration was presented as success.
+
+The accompanying political message was essentially:
+
+> **We promised. We delivered.**
+
+The image tells the audience where to look.
+
+At the body.
+
+And then it tells the audience what the body means.
+
+```text
+PALESTINIAN BODY
+↓
+TOO MUCH FOOD
+↓
+EXCESS
+↓
+STATE INTERVENTION
+↓
+WEIGHT LOSS
+↓
+POLICY SUCCESS
+```
+
+That is the information manoeuvre.
+
+The body is being made to explain the conditions imposed upon it.
+
+This node refuses that causal direction.
+
+> **The body is an output of the system.
+> The body is not the explanation of the system.**
+
+---
+
+## ⚠️ Content sensitivity — Hunger is not scenery
+
+This node discusses:
+
+* Palestinian prisoners;
+* starvation;
+* food deprivation;
+* acute food insecurity;
+* malnutrition;
+* emaciation;
+* prison conditions;
+* agricultural destruction;
+* water restrictions;
+* land loss;
+* movement restrictions;
+* dehumanising AI imagery;
+* execution infrastructure;
+* and political propaganda that presents bodily deterioration as a successful outcome.
+
+The human body should not become decorative evidence.
+
+There is no need to repeatedly reproduce degrading AI imagery once its analytical function has been established.
+
+Nor should contemporary Palestinian hunger be converted into a series of shocking statistics detached from the people living through it.
+
+The central question is not:
+
+> **How terrible does the body look?**
+
+It is:
+
+> **What upstream systems determine what can enter that body, in what quantity, at what cost, and under whose control?**
+
+---
+
+## 🏭 The body as dashboard
+
+The 31 August AI video turns the Palestinian body into a policy dashboard.
+
+The visual mechanism is industrial.
+
+People become inputs.
+
+Deprivation becomes processing.
+
+Emaciation becomes output.
+
+```text
+BODY A
+↓
+STATE PROCESS
+↓
+BODY B
+```
+
+The imagined success of the intervention is visible on the body itself.
+
+No further explanation appears necessary.
+
+There is:
+
+* no land;
+* no water system;
+* no border;
+* no agricultural economy;
+* no market;
+* no prison ration policy;
+* no blockade;
+* no humanitarian system;
+* no unemployment;
+* no damaged infrastructure;
+* no food supply chain.
+
+Only:
+
+```text
+THEY WERE FAT
+↓
+WE MADE THEM THIN
+↓
+IT WORKED
+```
+
+The visual trick is therefore not merely dehumanisation.
+
+It is **causal compression**.
+
+An enormous political economy is removed from the frame.
+
+The downstream bodily result is left behind.
+
+And then the downstream result is presented as if it explains why the upstream intervention was necessary.
+
+---
+
+## 🧨 Appetite becomes guilt
+
+The food imagery matters.
+
+The propaganda does not merely show prisoners losing weight.
+
+It represents Palestinian desire for food as part of the defect being corrected.
+
+Food becomes:
+
+* appetite;
+* excess;
+* entitlement;
+* indulgence;
+* weakness;
+* undeserved comfort.
+
+That converts deprivation into discipline.
+
+If the audience first accepts:
+
+> **they consume too much**
+
+then:
+
+> **we give them less**
+
+can be presented as moderation rather than deprivation.
+
+And:
+
+> **they become emaciated**
+
+can be presented as successful correction rather than bodily harm.
+
+The rhetorical sequence is therefore:
+
+```text
+APPETITE
+↓
+EXCESS
+↓
+MORAL DEFECT
+↓
+DEPRIVATION
+↓
+DISCIPLINE
+```
+
+This is why simply responding:
+
+> **No, they are actually hungry**
+
+is necessary but incomplete.
+
+The more important correction is:
+
+> **Why has the Palestinian body been made the unit of explanation at all?**
+
+---
+
+## 🍞 Walk one step upstream
+
+Body weight and nutritional status can be affected by:
+
+* calories;
+* dietary diversity;
+* protein intake;
+* fresh fruit and vegetables;
+* water;
+* income;
+* employment;
+* market prices;
+* transport;
+* food storage;
+* cooking fuel;
+* agricultural production;
+* access to farmland;
+* access to fishing waters;
+* imports;
+* exports;
+* humanitarian access;
+* border restrictions;
+* military destruction;
+* prison rations;
+* health;
+* displacement;
+* sanitation;
+* and the ability to reach food physically.
+
+The body therefore contains information.
+
+But it does not identify which upstream mechanism produced the condition.
+
+```text
+VISIBLE BODY
+≠
+VISIBLE CAUSAL SYSTEM
+```
+
+A thinner body might reflect:
+
+* deliberate dieting;
+* illness;
+* poverty;
+* detention;
+* famine;
+* altered food quality;
+* displacement;
+* food scarcity;
+* reduced income;
+* malabsorption;
+* or deliberate deprivation.
+
+The body alone cannot tell you which.
+
+That is why:
+
+> **The body can record the consequences of a food system without explaining the food system.**
+
+---
+
+## 🌾 Food security and food sovereignty are not the same question
+
+The distinction between **food security** and **food sovereignty** is essential.
+
+### Food security asks:
+
+> **Can people obtain enough appropriate food?**
+
+This is the immediate humanitarian question.
+
+It matters enormously.
+
+People cannot eat sovereignty.
+
+If people are hungry today, they need food today.
+
+### Food sovereignty asks:
+
+> **Who controls the system through which people are able to feed themselves?**
+
+This introduces:
+
+* land;
+* water;
+* seeds;
+* crops;
+* labour;
+* markets;
+* local production;
+* transport;
+* fishing;
+* agricultural knowledge;
+* ecological conditions;
+* trade;
+* political power;
+* and community control.
+
+Visualizing Palestine uses the La Via Campesina definition of food sovereignty:
+
+> the right of peoples to healthy and culturally appropriate food produced through ecologically sound and sustainable methods, and the right to define their own food and agriculture systems.
+
+That is a different problem from simply asking whether enough calories entered a territory this week.
+
+---
+
+## 🥣 Being fed is not the same as being able to feed yourself
+
+A population can simultaneously:
+
+* receive enormous quantities of humanitarian food;
+* remain food insecure;
+* possess poor dietary diversity;
+* depend upon externally maintained supply routes;
+* have damaged agricultural infrastructure;
+* have weak purchasing power;
+* and possess little control over the conditions determining future access to food.
+
+Those things are not contradictory.
+
+Humanitarian assistance can be essential.
+
+Dependency can also be real.
+
+This distinction matters because otherwise a grotesque political argument becomes possible:
+
+```text
+AID ENTERS
+↓
+PEOPLE EAT
+↓
+THEREFORE FOOD SYSTEM IS FINE
+```
+
+No.
+
+Food assistance answers an immediate downstream emergency.
+
+It does not automatically restore:
+
+* agricultural production;
+* livelihoods;
+* markets;
+* land access;
+* water access;
+* trade autonomy;
+* economic resilience;
+* or political sovereignty over food.
+
+> **Keeping somebody alive through an externally maintained food pipeline is necessary.
+> It is not the same thing as restoring their ability to feed themselves.**
+
+---
+
+## 🥖 The current WFP baseline
+
+The World Food Programme's 2026 Palestine emergency reporting makes the current material conditions clear.
+
+More than nine months into what WFP describes as an extremely fragile ceasefire:
+
+* **1.4 million people in Gaza** — around two thirds of the population — face crisis or worse levels of acute food insecurity;
+* WFP reaches roughly **1.5 million people in Gaza each month**;
+* **US$426 million** is needed for operations in Gaza and the West Bank from July to December 2026;
+* around **80 percent of people in Gaza remain unemployed**;
+* only **one in five children** receives an adequate diet;
+* many adults skip meals so their children can eat;
+* many families consume fruit, vegetables and protein less than once a week;
+* humanitarian and commercial inflows remain below the levels WFP says are needed;
+* fuel, spare parts and equipment shortages continue to affect humanitarian operations and markets.
+
+WFP also warns that if current humanitarian food assistance is not sustained:
+
+> **up to 90 percent of Gaza's population could face high levels of acute food insecurity by the end of 2026.**
+
+This is not compatible with an explanatory frame in which Palestinian food consumption is fundamentally a story of bodily excess.
+
+---
+
+## 🥘 The food arriving is not nutritionally interchangeable
+
+WFP's reporting also prevents another simplification.
+
+Food quantity is not identical to diet quality.
+
+WFP reports:
+
+* poor dietary diversity;
+* limited fresh produce;
+* limited protein;
+* adults sacrificing meals;
+* children without adequate diets;
+* continuing nutrition intervention for pregnant and breastfeeding women and young children.
+
+This distinction matters because a food system can provide enough bulk calories to reduce one headline measure while still producing:
+
+* nutritional deficiency;
+* poor child development;
+* vulnerability;
+* dependence;
+* and degraded health.
+
+Therefore:
+
+```text
+CALORIES PRESENT
+≠
+ADEQUATE DIET
+```
+
+And:
+
+```text
+FOOD AID PRESENT
+≠
+FOOD SOVEREIGNTY
+```
+
+---
+
+## 🛒 Affordability is part of access
+
+WFP also describes an economic problem.
+
+Food can physically exist in a market while remaining inaccessible to people who cannot afford it.
+
+With unemployment around 80 percent in Gaza, the relevant question is not only:
+
+> **Is food present?**
+
+It is:
+
+> **Can households buy it?**
+
+That gives another causal layer:
+
+```text
+FOOD EXISTS
+↓
+PRICE
+↓
+INCOME
+↓
+PURCHASING POWER
+↓
+ACTUAL DIET
+```
+
+The body again sits downstream.
+
+If income collapses, the body changes.
+
+The body did not cause the unemployment.
+
+---
+
+## 🧱 Humanitarian access is infrastructure
+
+WFP describes:
+
+* food parcels;
+* wheat flour;
+* bread;
+* hot meals;
+* cash assistance;
+* community kitchens;
+* nutrition programmes;
+* bakeries;
+* temporary learning spaces;
+* logistics;
+* fuel;
+* road access;
+* specialised machinery.
+
+This is not merely charity.
+
+It is infrastructure keeping a food system functioning after ordinary systems have been damaged or rendered inadequate.
+
+WFP reports:
+
+* around 250,000 hot meals produced by community kitchens every day;
+* 28 supported bakeries;
+* around 130,000 bread bundles produced per day;
+* cash transfers to 100,000 families;
+* nutrition services for more than 320,000 pregnant and breastfeeding women and young children;
+* fortified snacks for more than 300,000 children.
+
+A humanitarian food system operating at that scale is itself evidence that ordinary food autonomy has been deeply disrupted.
+
+---
+
+## 🌱 Recovery means reducing dependency, not merely extending emergency supply
+
+WFP explicitly says:
+
+> **Recovery cannot wait in Gaza.**
+
+It identifies:
+
+* livelihoods;
+* local markets;
+* cash-based initiatives;
+* services;
+* employment;
+* access;
+* economic opportunity
+
+as necessary for lasting recovery.
+
+That is important.
+
+A humanitarian organisation focused on immediate food access nevertheless reaches the same structural point:
+
+> **People eventually need the capacity to feed themselves.**
+
+That requires restoring systems upstream of the body.
+
+---
+
+## 🫒 Food sovereignty — follow the infrastructure further upstream
+
+Visualizing Palestine's food-sovereignty project documents a much longer history in which Palestinian food production is affected by control over:
+
+* land;
+* water;
+* movement;
+* fishing;
+* crops;
+* imports;
+* exports;
+* markets;
+* permits;
+* agricultural infrastructure;
+* and settlement expansion.
+
+The importance of this material is not that every policy is legally identical.
+
+It is not.
+
+Nor do all restrictions have identical purposes.
+
+They do not.
+
+The useful pattern is that **food repeatedly appears downstream of political control over the systems required to produce it.**
+
+---
+
+## 🌳 Land
+
+Land is the first food infrastructure.
+
+Visualizing Palestine's historical framing begins with the Nakba and the loss of Palestinian agricultural land.
+
+Its source material then tracks later restrictions affecting Palestinian farming in the West Bank and Gaza.
+
+Area C is especially important.
+
+The Visualizing Palestine source material cites UNCTAD describing Israeli control over a large proportion of West Bank agricultural resources, including fertile and grazing land.
+
+Agriculture therefore cannot be analysed as merely:
+
+```text
+FARMER
++
+SEED
+=
+FOOD
+```
+
+It is also:
+
+```text
+WHO CONTROLS THE LAND?
+
+WHO CAN REACH IT?
+
+WHO CAN BUILD ON IT?
+
+WHO CAN IRRIGATE IT?
+
+WHO CAN PREVENT ITS CONFISCATION?
+```
+
+---
+
+## 💧 Water
+
+Food sovereignty is impossible without water sovereignty.
+
+The Visualizing Palestine material cites UNCTAD describing Israeli control over water allocation and veto power over Palestinian:
+
+* drilling;
+* rehabilitation;
+* and investment in water infrastructure.
+
+Its source set also documents demolition of Palestinian water, sanitation and hygiene structures in the West Bank.
+
+So even before food enters a body, the causal chain may begin with:
+
+```text
+WATER ACCESS
+↓
+AGRICULTURAL VIABILITY
+↓
+CROP YIELD
+↓
+MARKET SUPPLY
+↓
+HOUSEHOLD FOOD
+↓
+BODY
+```
+
+Again:
+
+> **The body is several systems downstream.**
+
+---
+
+## 🚏 Movement
+
+Food has to move.
+
+Farmers have to move.
+
+Agricultural workers have to move.
+
+Veterinary services have to move.
+
+Inputs have to move.
+
+Produce has to reach markets.
+
+Visualizing Palestine cites UNCTAD describing mobility restrictions as particularly harmful to agriculture.
+
+Checkpoints, roadblocks and barriers can produce:
+
+* additional transport costs;
+* time delays;
+* damaged perishable goods;
+* disrupted veterinary services;
+* delayed agricultural services;
+* weaker market access.
+
+A tomato is not merely a tomato.
+
+It has a logistics system.
+
+---
+
+## 🎣 Fish
+
+Protein also has geography.
+
+The Visualizing Palestine source material cites Al Mezan documenting attacks on Gaza fishers and restrictions affecting access to fishing waters.
+
+UNCTAD similarly documented severe contraction of the fishing industry and consequences for livelihoods and nutrition.
+
+That gives a particularly clean causal chain:
+
+```text
+RESTRICTED FISHING ACCESS
+↓
+LOWER CATCH
+↓
+LOWER INCOME + LOWER LOCAL PROTEIN SUPPLY
+↓
+FOOD INSECURITY
+↓
+NUTRITIONAL EFFECT
+```
+
+A body eating less fish does not explain why the fishing boat could not sail further.
+
+---
+
+## 🌿 Za'atar, sage and 'akkoub
+
+Food is also culture.
+
+Visualizing Palestine's source material includes restrictions affecting foraging for:
+
+* za'atar;
+* sage;
+* 'akkoub.
+
+These foods matter because they sit at the intersection of:
+
+* ecology;
+* law;
+* culture;
+* memory;
+* food practice;
+* and land.
+
+This is exactly why Jumana Manna's *Foragers* becomes analytically useful later.
+
+A food system is not just caloric delivery.
+
+It is also the relationship between people and the environments from which food comes.
+
+---
+
+## 🫒 Olives
+
+Olives are similarly difficult to reduce to commodity value alone.
+
+They can represent:
+
+* livelihood;
+* long-term cultivation;
+* land continuity;
+* family inheritance;
+* ecological knowledge;
+* local economy;
+* and cultural memory.
+
+The Visualizing Palestine material documents damage to olive trees and harvests by both state and settler violence.
+
+Destroying a mature olive tree therefore affects more than this year's calorie count.
+
+It changes:
+
+* future production;
+* land use;
+* income;
+* continuity;
+* and attachment to place.
+
+Food systems have memory too.
+
+---
+
+## 🍓 Strawberries and markets
+
+A crop can be successfully grown and still fail as livelihood if the grower cannot reach a market.
+
+Visualizing Palestine cites Gisha's reporting on Gaza-grown strawberries.
+
+Production expanded when limited access to West Bank markets improved.
+
+But continuing restrictions meant surplus could become severe financial loss.
+
+That gives another useful distinction:
+
+```text
+CAN PRODUCE
+≠
+CAN SELL
+```
+
+Food sovereignty therefore includes more than the capacity to grow food.
+
+It includes the capacity to move it through an economy.
+
+---
+
+## 🍄 The mushroom farm — independence with somebody else controlling the bottleneck
+
+Fathi Nimer's Al-Shabaka policy brief gives a nearly perfect miniature example.
+
+A Palestinian mushroom operation was promoted as entrepreneurial economic development.
+
+The farm attempted to challenge Israeli dominance in the Palestinian mushroom market.
+
+But production depended upon imported material containing mushroom spores.
+
+Those imports passed through Israeli-controlled infrastructure.
+
+Nimer describes progressive delays at Ashdod port.
+
+The inputs deteriorated.
+
+Storage costs accumulated.
+
+The business eventually shut down.
+
+The lesson is bigger than mushrooms.
+
+```text
+DOWNSTREAM ENTREPRENEURIAL AUTONOMY
+↓
+CRITICAL UPSTREAM DEPENDENCY
+↓
+BOTTLENECK CONTROLLED ELSEWHERE
+↓
+AUTONOMY FAILS
+```
+
+> **Nominal economic autonomy without control over critical dependencies is not autonomy.**
+
+---
+
+## 🌱 Resistance economy — food as political capacity
+
+Nimer places Palestinian food sovereignty within a longer history of **resistance economy**.
+
+Agricultural cooperatives and local production were not merely methods of feeding people.
+
+They were also methods of reducing vulnerability to coercion.
+
+His examples include:
+
+* agricultural cooperatives;
+* neighbourhood production;
+* household production;
+* First Intifada victory gardens;
+* seed distribution;
+* tree planting;
+* local solidarity networks.
+
+The political proposition is straightforward.
+
+If people possess independent means of livelihood and food production, they have greater capacity to act politically without immediately risking hunger.
+
+Nimer describes food sovereignty as creating:
+
+> more space for resistance and to act without fear of hunger.
+
+That sentence matters enormously.
+
+It reveals why food systems are political systems.
+
+---
+
+## ♻️ Dependency can govern behaviour
+
+If access to:
+
+* work;
+* markets;
+* food;
+* water;
+* movement;
+* imports;
+* exports
+
+depends upon another authority's approval, that dependency has behavioural consequences.
+
+The mechanism can be:
+
+```text
+POLITICAL / ECONOMIC DEPENDENCY
+↓
+RISK OF LOSING LIVELIHOOD
+↓
+RISK OF HUNGER
+↓
+NARROWER RANGE OF POSSIBLE ACTION
+```
+
+Food sovereignty therefore does not only concern nutrition.
+
+It concerns **action capacity**.
+
+A household capable of feeding itself possesses a different political relationship to closure than one whose food arrives entirely through externally controlled systems.
+
+---
+
+## 🏗️ De-development
+
+Nimer argues that Palestinian economic dependency cannot be understood simply as underdevelopment.
+
+He places it within a process of **de-development**:
+
+* fragmentation;
+* restricted movement;
+* resource control;
+* land expropriation;
+* labour dependency;
+* weakened agriculture;
+* constrained trade;
+* and the political-economic arrangements institutionalised after Oslo.
+
+His argument is explicitly political.
+
+It should be presented as such.
+
+But the analytical distinction remains valuable:
+
+```text
+ECONOMY FAILED TO DEVELOP
+```
+
+is different from:
+
+```text
+ECONOMIC CAPACITY WAS SYSTEMATICALLY
+CONSTRAINED OR MADE DEPENDENT
+```
+
+Those produce different policy questions.
+
+---
+
+## 🌾 Wheat — the cheapest food is not necessarily the safest food
+
+Nimer's discussion of strategic crops is particularly useful.
+
+Under conventional market logic:
+
+> buy the cheapest wheat.
+
+Under sovereignty logic:
+
+> ask who controls whether the wheat arrives.
+
+Those are different optimisation problems.
+
+```text
+MARKET OPTIMISATION:
+WHAT COSTS LEAST?
+
+RESILIENCE OPTIMISATION:
+WHAT CAN WE STILL ACCESS DURING CRISIS?
+
+SOVEREIGNTY OPTIMISATION:
+WHO CAN DENY US THE SUPPLY?
+```
+
+Locally produced wheat can therefore be economically more expensive while being politically more valuable.
+
+> **The cheapest supply chain is not necessarily the most sovereign supply chain.**
+
+---
+
+## 🧮 Markets do not automatically price political vulnerability
+
+This is another important information failure.
+
+A market price can capture:
+
+* labour;
+* fuel;
+* transport;
+* inputs;
+* demand;
+* scarcity.
+
+It may not adequately capture:
+
+* closure risk;
+* blockade risk;
+* political dependency;
+* strategic resilience;
+* future denial of access;
+* loss of local knowledge;
+* agricultural abandonment;
+* community survival.
+
+A cheaper imported crop may therefore look efficient right up until the import route closes.
+
+The spreadsheet was not necessarily wrong.
+
+It was measuring the wrong thing.
+
+---
+
+## 🐐 Agriculture is also adaptation
+
+Nimer's recommendations extend beyond simply producing more food.
+
+He discusses:
+
+* water-efficient agriculture;
+* high-density trellising;
+* waste streams;
+* biogas;
+* fertiliser production;
+* Indigenous flora;
+* goats and camels;
+* traditional farming knowledge;
+* mist capture;
+* strategic stockpiles;
+* cooperatives;
+* local trade networks.
+
+The underlying principle is:
+
+> **Reduce dependence upon inputs whose supply can be interrupted.**
+
+This is resilience engineering applied to food.
+
+---
+
+## 🧱 But food sovereignty cannot stop a bomb
+
+This limitation matters.
+
+Nimer explicitly acknowledges the limits of food-sovereignty approaches under active bombardment and destruction.
+
+Regenerative agriculture cannot regenerate soil that is repeatedly bombed.
+
+A rooftop garden cannot substitute for an agricultural zone that has been destroyed.
+
+A cooperative cannot solve military access restrictions by becoming sufficiently community-minded.
+
+Therefore:
+
+```text
+RESILIENCE
+≠
+INVULNERABILITY
+```
+
+And:
+
+```text
+FOOD SOVEREIGNTY
+≠
+SUBSTITUTE FOR STOPPING COERCION
+```
+
+The correct conclusion is not:
+
+> **Palestinians should simply become more resilient.**
+
+It is:
+
+> **Resilience can reduce vulnerability to coercion.
+> It cannot substitute for ending the coercive conditions themselves.**
+
+---
+
+## 🎬 Food is already represented in Palestinian arts and media
+
+The political meaning of Palestinian food is not confined to policy papers.
+
+Hannah Boast's 2025 article, *Planting Palestine: Food, environment, and the arts of solidarity*, describes an environmental turn in contemporary Palestinian arts and solidarity practices.
+
+Food becomes a way of representing:
+
+* land;
+* environment;
+* memory;
+* cultivation;
+* dispossession;
+* ecology;
+* and political belonging.
+
+Jumana Manna's 2022 film *Foragers (Al-yad al-khadra)* is particularly useful.
+
+It follows Palestinian foragers gathering wild plants including:
+
+* za'atar;
+* 'akkoub.
+
+The apparently ordinary act of picking food becomes politically legible through:
+
+* environmental regulation;
+* restrictions;
+* land relations;
+* ecological knowledge;
+* cultural practice;
+* and sovereignty.
+
+The food is not merely eaten.
+
+It carries history.
+
+---
+
+## 🌿 Food as knowledge
+
+*Foragers* offers almost the opposite representational grammar from Ben-Gvir's AI propaganda.
+
+### In the food-sovereignty / Palestinian arts frame
+
+```text
+FOOD
+↓
+LAND
+↓
+KNOWLEDGE
+↓
+MEMORY
+↓
+COMMUNITY
+↓
+CONTINUITY
+```
+
+### In Ben-Gvir's propaganda
+
+```text
+FOOD
+↓
+APPETITE
+↓
+EXCESS
+↓
+PALESTINIAN BODY
+↓
+STATE CORRECTION
+↓
+DEPRIVATION
+```
+
+The difference is not aesthetic.
+
+It is causal.
+
+One asks what relationships make food possible.
+
+The other reduces food to the supposed defect of the person eating it.
+
+---
+
+## ⚠️ Do not romanticise the Palestinian peasant
+
+Boast also supplies an important caution.
+
+Agrarian and environmental representation can create its own distortion if Palestinians become represented only as:
+
+* farmers;
+* peasants;
+* traditional foragers;
+* rural stewards.
+
+Palestinian history is also:
+
+* urban;
+* commercial;
+* industrial;
+* professional;
+* diasporic;
+* modern;
+* technologically adaptive.
+
+Food sovereignty should not become an authenticity test.
+
+A Palestinian does not become more legitimate because they can identify an heirloom wheat variety.
+
+That would merely replace one imposed representation with another.
+
+The point is political control over food systems.
+
+Not pastoral purity.
+
+---
+
+## 🪞 Three ways of seeing food
+
+The assembled material now gives us three radically different informational frames.
+
+### Humanitarian frame
+
+WFP asks:
+
+> **Can people obtain adequate food now?**
+
+Relevant measurements include:
+
+* acute food insecurity;
+* malnutrition;
+* dietary adequacy;
+* affordability;
+* humanitarian supply;
+* livelihoods;
+* market recovery.
+
+### Food-sovereignty frame
+
+Visualizing Palestine, La Via Campesina and Nimer ask:
+
+> **Who controls how people feed themselves?**
+
+Relevant structures include:
+
+* land;
+* water;
+* farming;
+* fishing;
+* movement;
+* markets;
+* trade;
+* inputs;
+* ecology;
+* cooperatives;
+* political economy.
+
+### Ben-Gvir propaganda frame
+
+The propaganda asks:
+
+> **Why are these Palestinians eating so much?**
+
+That is the informational collapse.
+
+Everything upstream disappears.
+
+---
+
+## 🧿 The trick is to make the output explain its own cause
+
+This is why this node belongs primarily in **Information Environments**.
+
+The central mechanism is not merely hunger.
+
+It is not merely embodiment.
+
+It is the manipulation of the **available causal frame**.
+
+The propagandist selects:
+
+* weight;
+* appetite;
+* bodily appearance.
+
+The propagandist removes:
+
+* land;
+* water;
+* markets;
+* employment;
+* production;
+* borders;
+* prison policy;
+* humanitarian dependency;
+* military destruction;
+* political economy.
+
+Then the audience is invited to make a causal inference from the information that remains.
+
+```text
+SELECT VISIBLE DOWNSTREAM OUTPUT
+↓
+REMOVE UPSTREAM CAUSAL INFORMATION
+↓
+PRESENT OUTPUT AS SELF-EXPLANATORY
+↓
+JUSTIFY INTERVENTION AGAINST OUTPUT
+```
+
+This is a reusable information-environment pattern.
+
+---
+
+## 🧠 The causal-field problem
+
+A claim does not need to contain an explicit false statement to mislead.
+
+It can also mislead by controlling **which causes are available to think with**.
+
+Imagine two frames.
+
+### Frame A
+
+```text
+PRISONER IS FAT
+```
+
+Possible inference:
+
+```text
+PRISONER IS OVERFED
+```
+
+### Frame B
+
+```text
+PRISONER BODY
++
+PRISON DIET
++
+PRISON POLICY
++
+HEALTH
++
+DETENTION LENGTH
++
+PRE-DETENTION CONDITION
++
+FOOD QUALITY
++
+ACTIVITY
+```
+
+Now the body is no longer self-explanatory.
+
+Information architecture changes inference.
+
+That is the point.
+
+---
+
+## 🔍 Absence is information too
+
+What is omitted from a representation matters.
+
+In the AI propaganda, absent information includes:
+
+* who controls the food;
+* who controls prison conditions;
+* whether detainees can choose what they eat;
+* what nutritional standard applies;
+* what health consequences follow;
+* what the wider Palestinian food-security situation is;
+* what policies shaped it.
+
+The missing information is not visually neutral.
+
+It determines what explanation remains available.
+
+Therefore:
+
+> **Absence can be an active part of the informational frame.**
+
+---
+
+## 🫀 The body is a sensor
+
+There is nevertheless an embodied lesson.
+
+Bodies record systems.
+
+They record:
+
+* nutrition;
+* deprivation;
+* heat;
+* work;
+* stress;
+* disease;
+* pain;
+* sleep;
+* pollution;
+* violence.
+
+The body can therefore be treated as a sensor.
+
+But sensors require interpretation.
+
+A reading without system context can be misread.
+
+```text
+BODY
+=
+MEASUREMENT SURFACE
+
+NOT
+
+BODY
+=
+COMPLETE CAUSAL MODEL
+```
+
+That distinction deserves preserving across Embodied Information Ecology.
+
+---
+
+## 🛠️ Diagnostic tool — Walk upstream
+
+When a body is being offered as evidence of personal, moral or behavioural failure, ask:
+
+### 1. What is the visible output?
+
+* weight?
+* exhaustion?
+* agitation?
+* illness?
+* injury?
+* malnutrition?
+* behaviour?
+
+### 2. What material inputs can produce it?
+
+* food;
+* water;
+* sleep;
+* housing;
+* medication;
+* environment;
+* income;
+* physical safety;
+* labour;
+* detention conditions.
+
+### 3. Who controls those inputs?
+
+* individual?
+* employer?
+* state?
+* market?
+* prison?
+* landlord?
+* military?
+* institution?
+* platform?
+
+### 4. What infrastructure delivers them?
+
+* supply chain;
+* healthcare;
+* food system;
+* transport;
+* water network;
+* welfare;
+* logistics;
+* border;
+* prison system.
+
+### 5. Which upstream variables have disappeared from the story?
+
+### 6. Is the body being used as:
+
+```text
+EVIDENCE ABOUT A SYSTEM
+```
+
+or:
+
+```text
+A SUBSTITUTE FOR ANALYSING THE SYSTEM?
+```
+
+Then:
+
+> **Walk upstream until the controls become visible.**
+
+---
+
+## 🌊 From humanitarian relief to structural leverage
+
+The distinction has practical consequences.
+
+If the problem is framed as:
+
+> **hungry body**
+
+the intervention becomes:
+
+> **deliver food.**
+
+Necessary.
+
+If the problem is framed as:
+
+> **food insecurity**
+
+the intervention expands to:
+
+* food;
+* cash;
+* markets;
+* nutrition;
+* transport;
+* livelihoods.
+
+If the problem is framed as:
+
+> **food sovereignty**
+
+the intervention expands further to:
+
+* land;
+* water;
+* agriculture;
+* fishing;
+* trade;
+* local production;
+* storage;
+* cooperatives;
+* ecological resilience;
+* political control.
+
+If the problem is framed as:
+
+> **coercive control over the conditions of food access**
+
+the question becomes:
+
+> **What makes that control possible, and what would reduce its political usefulness?**
+
+The causal frame determines the intervention.
+
+---
+
+## 🧭 From outrage to leverage
+
+Ben-Gvir's propaganda can absorb enormous attention.
+
+That attention is understandable.
+
+But disgust should not become the endpoint.
+
+The useful sequence is:
+
+```text
+DOCUMENT THE PROPAGANDA
+↓
+IDENTIFY ITS CLAIM
+↓
+DEBUNK THE FALSE FRAME
+↓
+RESTORE THE MISSING SYSTEM
+↓
+IDENTIFY THE CONTROL POINTS
+↓
+ASK WHAT CHANGES THE INCENTIVES
+```
+
+Questions include:
+
+* What policies govern Palestinian food access?
+* Which restrictions are militarily imposed?
+* Which are administrative?
+* Which are economic?
+* Which are humanitarian?
+* Which dependencies are externally controlled?
+* Which systems could be restored?
+* Which systems require protection?
+* Which systems require political change?
+* Which actors profit from dependency?
+* Which actors can change the cost of maintaining it?
+
+The body should return us to the system.
+
+Not replace it.
+
+---
+
+## 🪿 Information-environment rule — Do not let the output hide the controls
+
+A recurring information failure looks like this:
+
+```text
+SYSTEM
+↓
+PRODUCES CONDITION
+↓
+CONDITION BECOMES VISIBLE
+↓
+VISIBLE CONDITION IS DETACHED FROM SYSTEM
+↓
+CONDITION IS BLAMED ON PERSON
+↓
+PERSON BECOMES TARGET OF FURTHER INTERVENTION
+```
+
+This is not unique to food.
+
+It can appear whenever institutions use downstream human outcomes as evidence that the people experiencing them are themselves the problem.
+
+That is why the reusable rule is:
+
+> **When the person is being offered as the explanation, inspect the infrastructure first.**
+
+---
+
+## 🧿 What this node does not claim
+
+This node does **not** claim that:
+
+* every Israeli food or agricultural policy has the same legal basis, purpose or effect;
+* every Palestinian experience of food insecurity is identical;
+* humanitarian food assistance is harmful simply because dependency exists;
+* food sovereignty can replace emergency humanitarian relief;
+* food sovereignty can protect people from bombardment;
+* every historical restriction documented by advocacy organisations should be treated as uncontested without examining its original source;
+* Palestinian identity is essentially agrarian;
+* Palestinian legitimacy depends upon farming or traditional foodways;
+* every change in Palestinian body weight is caused by Israeli policy;
+* body weight alone establishes starvation;
+* every Ben-Gvir statement represents all Israeli political opinion;
+* AI propaganda itself caused Palestinian food insecurity;
+* or the representation of an emaciated body proves every upstream causal claim made in this node.
+
+---
+
+## 🧿 What the evidence does support
+
+The source set supports the narrower propositions that:
+
+* Ben-Gvir has repeatedly used Palestinian prisoner food and bodily condition as political messaging;
+* the August 2026 propaganda sequence predates the 31 August conveyor-belt video;
+* the 31 August video explicitly represents deprivation and emaciation as successful political output;
+* WFP currently documents severe acute food insecurity and poor dietary adequacy in Gaza;
+* WFP describes unemployment, weak purchasing power, damaged livelihoods and continuing dependence upon humanitarian support;
+* WFP distinguishes emergency food assistance from longer-term livelihood and market recovery;
+* food sovereignty is conceptually broader than immediate food security;
+* the Visualizing Palestine material documents a long history of political restrictions affecting Palestinian land, water, fishing, agricultural production, movement and markets;
+* Nimer argues that food sovereignty can reduce political vulnerability by increasing economic and agricultural autonomy;
+* Nimer also explicitly recognises the limits of food sovereignty under active warfare;
+* Palestinian arts and media have represented food and foraging as relationships among land, ecology, memory and political belonging;
+* and body-focused propaganda can remove those upstream systems from view by making bodily condition appear self-explanatory.
+
+---
+
+## 🖤 Closing — The body is where the system becomes visible
+
+A food system eventually reaches a body.
+
+Land becomes grain.
+
+Water becomes crops.
+
+Fishing access becomes protein.
+
+Movement becomes market supply.
+
+Income becomes purchasing power.
+
+Fuel becomes cooked food.
+
+Humanitarian access becomes bread.
+
+Prison policy becomes a ration.
+
+All of those systems can resolve into:
+
+* weight;
+* hunger;
+* growth;
+* fatigue;
+* illness;
+* malnutrition;
+* survival.
+
+That makes the body extraordinarily important.
+
+But importance is not the same as causation.
+
+The body is where the system becomes visible.
+
+It is not where the system begins.
+
+That is precisely why propaganda likes the body.
+
+The body is easy to photograph.
+
+The water allocation regime is not.
+
+The body is easy to mock.
+
+The customs arrangement is not.
+
+The body is easy to blame.
+
+The supply chain is not.
+
+The body can therefore become a convenient screen onto which a whole political economy is projected and then erased.
+
+The correct response is not to stop looking at bodies.
+
+It is to understand what bodies can and cannot tell us.
+
+> **The body is evidence.
+> The body is an outcome.
+> The body is a record of material conditions.
+> The body is not the explanation.**
+
+When a political actor points at a body and tells you that the body explains itself:
+
+**walk upstream.**
+
+---
+
+## 📚 Sources
+
+### Ben-Gvir — AI propaganda, deprivation and punitive spectacle
+
+* [Yemen Press Agency: reporting on Ben-Gvir's 31 August AI prisoner-starvation video](https://en.ypagency.net/403780)
+* [Roya News: “Ben-Gvir posts then deletes AI video celebrating starvation of Palestinian detainees”](https://en.royanews.tv/news/73187/Ben-Gvir-posts-then-deletes-AI-video-celebrating-starvation-of-Palestinian-detainees)
+* [Al Jazeera: “Ben-Gvir posts AI video of starving Palestinian ahead of elections”](https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections)
+* [The Guardian: “Israel's Ben-Gvir posts video of gallows site for hanging Palestinians”](https://www.theguardian.com/world/2026/aug/20/israel-ben-gvir-video-gallows-site-hanging-palestinians)
+
+### Current humanitarian food-security baseline
+
+* [World Food Programme: “State of Palestine Emergency”](https://www.wfp.org/emergencies/palestine-emergency)
+* [World Food Programme: “Palestine”](https://www.wfp.org/countries/palestine)
+
+### Food sovereignty and political economy
+
+* [Visualizing Palestine: “Food Sovereignty”](https://visualizingpalestine.org/visual/food-sovereignty/)
+* [Al-Shabaka — Fathi Nimer: “Food Sovereignty in a Palestinian Economy of Resistance”](https://al-shabaka.org/briefs/food-sovereignty-in-a-palestinian-economy-of-resistance/)
+
+### Arts, environment and food representation
+
+* Hannah Boast, **“Planting Palestine: Food, environment, and the arts of solidarity,”** *Environment and Planning E: Nature and Space* (2025), DOI: `10.1177/25148486251360896`.
+* Jumana Manna, *Foragers / Al-yad al-khadra* (2022), discussed in Boast's article.
+
+### Underlying sources supplied through the Visualizing Palestine food-sovereignty dataset
+
+* [United Nations Conference on Trade and Development: *The Besieged Palestinian Agricultural Sector*](https://unctad.org/system/files/official-document/gdsapp2015d1_en.pdf)
+* [OCHA / ReliefWeb: *Displacement and Insecurity in Area C of the West Bank*](https://reliefweb.int/report/occupied-palestinian-territory/displacement-and-insecurity-area-c-west-bank)
+* [Al Mezan Center for Human Rights: *The Gaza Bantustan—Israeli Apartheid in the Gaza Strip*](https://www.mezan.org/en/uploads/files/16381763051929.pdf)
+* [B'Tselem: “Tanks on your doorstep: Israeli military training part of daily life in northern Jordan Valley”](https://www.btselem.org/video/20180302_tanks_on_your_doorstep#full)
+* [OCHA: *Protection of Civilians Report | 5–18 October 2021*](https://www.ochaopt.org/poc/5-18-october-2021)
+* [World Food Programme: Palestine country material](https://www.wfp.org/countries/palestine)
+* [RAND Corporation: *The Public Health Impacts of Gaza's Water Crisis: Analysis and Policy Options*](https://www.rand.org/pubs/research_reports/RR2515.html)
+* [OCHA: West Bank demolition and displacement data](https://app.powerbi.com/view?r=eyJrIjoiMmJkZGRhYWQtODk0MS00MWJkLWI2NTktMDg1NGJlMGNiY2Y3IiwidCI6IjBmOWUzNWRiLTU0NGYtNGY2MC1iZGNjLTVlYTQxNmU2ZGM3MCIsImMiOjh9)
+* [Mondoweiss — Jonathan Cook: “In age of forest fires, Israel's law against Palestinian goats proves self-inflicted wound for Zionism”](https://mondoweiss.net/2017/12/israels-palestinian-inflicted/)
+* Haaretz — Amiram Cohen: “Israeli Arab Farmers Brought Into State Quota System for First Time.”
+* [Oxfam: *The Dairy Sector in the Gaza Strip*](https://policy-practice.oxfam.org/resources/the-dairy-sector-in-the-gaza-strip-620176/)
+* [Al Jazeera — Zena Al Tahhan: “UN slams Israel for ‘de-development’ of Palestine”](https://www.aljazeera.com/features/2017/9/12/un-slams-israel-for-de-development-of-palestine)
+* [Undark — Shira Rubin: “For Israelis and Palestinians, a Battle Over a Humble Plant”](https://undark.org/2020/02/10/akoub-israel/)
+* [Palestine In-Between: “Criminal Foods”](https://palestineinbetween.com/Criminal-Foods)
+* [Leah Temper: *Creating Facts on the Ground: Agriculture in Israel and Palestine (1882–2000)*](https://www.historiaagraria.com/FILE/articulos/48leah.pdf)
+* Human Rights Watch: *A Threshold Crossed: Israeli Authorities and the Crimes of Apartheid and Persecution.*
+* [Human Rights Watch: *Separate and Unequal: Israel's Discriminatory Treatment of Palestinians in the Occupied Palestinian Territories*](https://www.hrw.org/report/2010/12/19/separate-and-unequal/israels-discriminatory-treatment-palestinians-occupied)
+* [Gisha: “Ahead of strawberry season in Gaza: The ongoing ban on sales in Israel could result in severe losses for strawberry growers”](https://gisha.org/en/ahead-of-strawberry-season-in-gaza-the-ongoing-ban-on-sales-in-israel-could-result-in-severe-losses-for-strawberry-growers/)
+* United Nations / OCHA: *Humanitarian situation in the Gaza Strip — Fast facts.*
+* [Forensic Architecture: “Herbicidal Warfare in Gaza”](https://forensic-architecture.org/investigation/herbicidal-warfare-in-gaza)
+* [The Ecologist — Cesar Chelala: “Destruction of Palestinian olive trees is a monstrous crime”](https://theecologist.org/2015/nov/07/destruction-palestinian-olive-trees-monstrous-crime)
+* Israel–Palestine Seed Conservancy: Project 4196 Annual Report, 2008.
+* [972 Magazine — Joshua Leifer: “Seeds of resistance: The woman fighting occupation with agriculture”](https://www.972mag.com/seeds-of-resistance-the-woman-fighting-occupation-through-agriculture/)
+* Al-Monitor — Tessa Fox: “Palestinians determined to reopen West Bank mushroom farm.”
+* [The Oakland Institute: “Jadu'i: The Lost Watermelon of Jenin”](https://www.oaklandinstitute.org/jadui)
+
+---
+
+## 🌌 Constellations
+
+🫒 🕸️ 🌱 🫀 🧿 — food sovereignty; causal framing; governed environments; embodied outputs; making upstream controls visible.
+
+---
+
+## ✨ Stardust
+
+food sovereignty, food security, palestine, hunger, propaganda, information environments, agriculture, dependency, de-development, embodied information
+
+---
+
+## 🏮 Footer
+
+*🫒 The Body Is Not the Explanation* is a living node of the **Polaris Protocol**.
+It examines how bodily condition can be made to substitute for analysis of the systems producing it. The Palestinian food-sovereignty case demonstrates how propaganda can shift explanation downstream — from land, water, agriculture, markets, movement, political economy and institutional control onto appetite and body weight — making the governed body appear responsible for the conditions imposed upon it.
+
+> 📡 Cross-references:
+>
+> * [👾 When Disinformation Obscures Disinformation](./👾_when_disinformation_obscures_disinformation.md) — *how spectacular propaganda can consume attention while slower questions about information infrastructure remain unresolved*
+> * [🕸️ Information Environments](./) — *parent cluster for context, prominence, availability, circulation and causal framing*
+> * [🪿 Embodied Information Ecology](../) — *parent framework separating informational structure from embodiment, observation and feedback before testing their interfaces*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+*Last updated: 2026-09-01*
