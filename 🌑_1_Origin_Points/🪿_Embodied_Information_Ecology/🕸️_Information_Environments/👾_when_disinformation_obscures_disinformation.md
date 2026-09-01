@@ -2258,6 +2258,13 @@ It examines how spectacular information objects can displace attention from the 
 > - [🫒 The Body Is Not the Explanation](./🫒_the_body_is_not_the_explanation.md) — *how body-focused propaganda obscures the systems governing Palestinian food access and material conditions*  
 > - [🕸️ Information Environments](./) — *parent cluster for circulation, provenance, prominence, discoverability and contextual information architecture*  
 > - [🪿 Embodied Information Ecology](../) — *parent framework separating informational, embodied, observational and feedback mechanisms before testing their interfaces*
+>  
+> 🏮 Return To:
+>
+> - [🕸️ Information Environments](./README.md) — *1up*  
+> - [🪿 Embodied Information Ecology](../README.md) — *2up*  
+> - [🌗 In The Moment](../../README.md) — *3up* 
+> - [🌌 Polaris Protocol - Root](../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
