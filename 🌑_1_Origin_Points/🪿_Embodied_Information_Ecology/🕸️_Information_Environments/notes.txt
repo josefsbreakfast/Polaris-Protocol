@@ -3,3 +3,17 @@ move here:
 (majority, check by folder:) Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance  
 
 (split between here and 🫀🕸️ Information Is Experienced:) Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers  
+
+- - -  
+
+🕸️_Information_Environments/
+├── 🕸️_the_body_is_not_the_explanation.md
+│   Ben-Gvir's "lose weight" rhetoric, prison deprivation,
+│   WFP food insecurity, food sovereignty, and the upstream controls
+│   hidden by an individual-body morality tale.
+│
+└── 🕸️_when_disinformation_obscures_disinformation.md
+    How spectacular propaganda can consume attention around a slower
+    investigation into information infrastructure, without requiring
+    the spectacle to have been commissioned as a diversion.
+
