@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-01 13:20:02 UTC_
+_Generated on 2026-09-01 13:25:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -8883,7 +8883,6 @@ _Generated on 2026-09-01 13:20:02 UTC_
             - [`IMG_0747.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_0747.png)
             - [`IMG_0748.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_0748.png)
             - [`IMG_0749.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_0749.png)
-            - [`IMG_0802.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_0802.png)
             - [`IMG_7363.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_7363.png)
             - [`IMG_7364.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_7364.png)
             - [`IMG_7365.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_7365.png)
@@ -9051,6 +9050,8 @@ _Generated on 2026-09-01 13:20:02 UTC_
             - [`IMG_9791.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9791.png)
             - [`IMG_9795.jpeg`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9795.jpeg)
             - [`IMG_9796.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260801_Aug_2026/IMG_9796.png)
+          - [**20260901_Sep_2026/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260901_Sep_2026/)
+            - [`gpt_bbc_link_failure_camden_crew.png`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20260901_Sep_2026/gpt_bbc_link_failure_camden_crew.png)
           - [`20250828_racialisation_hijack.PNG`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20250828_racialisation_hijack.PNG)
           - [`20251028_forcible_conversion_hijack.PNG`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251028_forcible_conversion_hijack.PNG)
           - [`20251028_sexualised_hijack.PNG`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Field_Logs/20251028_sexualised_hijack.PNG)
