@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-01 11:15:58 UTC_
+_Generated on 2026-09-01 11:19:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2222,6 +2222,8 @@ _Generated on 2026-09-01 11:15:58 UTC_
         - [`🪶_folk_accountability.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪶_folk_accountability.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
+      - [`👾_when_disinformation_obscures_disinformation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/👾_when_disinformation_obscures_disinformation.md)
+      - [`🫒_the_body_is_not_the_explanation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🫒_the_body_is_not_the_explanation.md)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/.🌱_Still_Growing/notes.txt)
