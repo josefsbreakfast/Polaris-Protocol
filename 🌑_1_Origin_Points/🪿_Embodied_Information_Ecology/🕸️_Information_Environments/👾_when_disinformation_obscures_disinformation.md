@@ -1,1236 +1,2114 @@
-👾_when_disinformation_obscures_disinformation.md
-Yep. I’d keep them as two deliberately adjacent notesets, because otherwise the extremely vivid Ben-Gvir material will eat the Ceuta/network story inside our own analysis — which would rather prove the point.
+👾 When Disinformation Obscures Disinformation
 
-1. 🕸️_the_body_is_not_the_explanation.md
-
-* Core question
-    * What is Ben-Gvir’s “Palestinians need to lose weight” / “prisoners were getting fat” rhetoric actually doing?
-    * What material history disappears when Palestinian bodily condition is presented as an individual problem of excessive consumption?
-* Immediate propaganda object
-    * August 2026 sequence includes:
-        * real footage celebrating construction of gallows for Palestinian prisoners;
-        * real prison footage in which detainees describe deprivation;
-        * Ben-Gvir publicly defending deliberately harsh/minimal prison conditions;
-        * AI propaganda depicting Palestinians moving through a mechanised conveyor-belt/factory process and emerging emaciated;
-        * slogan/political claim: “We promised and delivered.”
-    * Palestinians are initially depicted through exaggerated appetite/food imagery.
-    * Their subsequent emaciation is presented as successful policy output.
-    * The body therefore becomes a visual performance indicator for punitive governance.
-    * Important distinction:
-        * hunger is not represented as harm;
-        * hunger/weight loss is represented as correction.
-* Propaganda transformation
-    * Structure:
-        * Palestinian appetite → excess;
-        * excess → moral/political problem;
-        * state deprivation → discipline;
-        * emaciation → evidence of successful intervention.
-    * This individualises a structurally produced condition.
-    * Viewer is encouraged to ask:
-        * “Why were they eating so much?”
-    * rather than:
-        * “Who controls the conditions under which Palestinians can obtain, produce and distribute food?”
-* The body is downstream
-    * Bodily weight/nutrition is the visible endpoint of numerous upstream systems:
-        * land access;
-        * water access;
-        * agricultural production;
-        * fishing access;
-        * agricultural inputs;
-        * imports and exports;
-        * movement restrictions;
-        * market access;
-        * employment/income;
-        * humanitarian access;
-        * cooking fuel;
-        * prison ration policy.
-    * Therefore:
-        * the body is evidence about the system; the body is not itself the explanation.
-* Longer food-sovereignty context
-    * Visualizing Palestine documents a much longer history of constraints on Palestinian food sovereignty.
-    * Relevant mechanisms include:
-        * loss/expropriation of agricultural land;
-        * Palestinian agricultural resources located within Israeli-controlled Area C;
-        * separation-barrier effects on farmers’ access to land;
-        * Israeli control over water allocation and infrastructure;
-        * restrictions affecting Palestinian agricultural markets;
-        * restrictions on Gaza fishing;
-        * attacks/damage affecting farmers, fishers, crops and agricultural infrastructure;
-        * restrictions affecting particular plants/crops and agricultural production.
-    * This means political control over Palestinian food cannot be reduced to post-2023 emergency conditions.
-* Food security ≠ food sovereignty
-    * WFP answers an immediate question:
-        * Can people obtain adequate food now?
-    * Current WFP figures supplied:
-        * 1.4 million people in Gaza facing crisis-or-worse acute food insecurity;
-        * around 1.5 million people reached by WFP each month;
-        * only one in five children receiving an adequate diet;
-        * adults skipping meals so children can eat;
-        * fruit, vegetables and protein consumed less than weekly by many families;
-        * roughly 80% unemployment;
-        * humanitarian and commercial inflows still below need;
-        * up to 90% potentially facing high acute food insecurity by year-end if current assistance is not sustained.
-    * Food arriving therefore does not establish:
-        * adequate nutrition;
-        * affordability;
-        * dietary diversity;
-        * resilience;
-        * autonomous food production;
-        * food sovereignty.
-* Al-Shabaka / Fathi Nimer — political economy
-    * Food sovereignty asks a different question:
-        * Who controls the system through which people feed themselves?
-    * Nimer situates Palestinian agriculture historically within a resistance economy.
-    * Agricultural autonomy can reduce vulnerability to political coercion because people have greater capacity to survive without depending upon systems controlled by an adversary.
-    * Relevant historical examples:
-        * agricultural cooperatives;
-        * First Intifada “victory gardens”;
-        * household/neighbourhood food production;
-        * agricultural solidarity networks.
-    * Nimer argues that de-development and dependency have weakened these capacities.
-    * Relevant mechanisms:
-        * fragmentation;
-        * land/resource control;
-        * Paris Protocol;
-        * movement restrictions;
-        * dependence upon Israeli labour markets;
-        * declining agricultural share of the economy;
-        * dependence upon controlled imports/exports.
-    * Important formulation:
-        * nominal economic autonomy without control over critical dependencies is not autonomy.
-* Mushroom farm as miniature systems case
-    * Palestinian mushroom enterprise attempted to compete with Israeli products.
-    * Production depended upon imported spores.
-    * Imported inputs passed through Israeli-controlled infrastructure.
-    * Delays made inputs unusable and contributed to the project’s collapse.
-    * Therefore:
-        * successful entrepreneurship downstream could not overcome control of the upstream dependency.
-    * Useful systems lesson:
-        * control the bottleneck and you can control an apparently independent system.
-* Strategic inefficiency
-    * Nimer’s wheat example challenges conventional market optimisation.
-    * Imported wheat may be cheaper.
-    * Locally produced wheat may nevertheless possess enormous resilience value.
-    * Two different optimisation questions:
-        * market: what is cheapest?
-        * sovereignty: who can stop us obtaining it?
-    * Cheapest supply chain ≠ safest supply chain.
-* Food sovereignty under active violence
-    * Important limit from Nimer:
-        * food sovereignty is not a substitute for stopping bombardment, destruction and coercion.
-    * Agroecology cannot compensate indefinitely for destroyed/inaccessible agricultural land.
-    * Avoid turning resilience into:
-        * “Palestinians should simply become more resilient.”
-    * Better:
-        * resilience can reduce vulnerability to coercion; it cannot substitute for ending coercion.
-* Arts/media representation
-    * Palestinian cultural representation of food frequently connects:
-        * land;
-        * knowledge;
-        * memory;
-        * agriculture;
-        * community;
-        * continuity;
-        * sovereignty.
-    * Foragers provides a particularly useful example through za’atar and ‘akkoub gathering.
-    * Hannah Boast’s work places this within an environmental turn in Palestinian arts/solidarity.
-    * Important caution:
-        * do not romanticise Palestinians into an essentially rural/peasant identity;
-        * Palestinian urban histories and food systems matter too.
-* Competing representational grammars
-    * Palestinian food/land representation:
-        * food → land → knowledge → community → continuity → sovereignty
-    * Humanitarian representation:
-        * food system → deprivation → measured human consequences
-    * Ben-Gvir propaganda:
-        * food → excess → Palestinian body → state processing → deprivation → success
-    * His imagery effectively reverses the causal direction.
-    * Structural deprivation disappears.
-    * The supposedly defective Palestinian body becomes the explanation.
-* Central line
-    * The body becomes the dashboard for a food system whose controls, dependencies and coercive levers sit upstream.
-* Possible ending
-    * Debunking “Palestinians need to lose weight” therefore requires more than demonstrating that Palestinians are hungry.
-    * It requires refusing the propaganda’s unit of analysis.
-    * The relevant object is not the supposedly overfed individual.
-    * It is the political economy determining who gets to grow, catch, transport, purchase, prepare and eat food.
+First created: 2026-09-01 | Last updated: 2026-09-01
+How spectacular propaganda captures attention from the infrastructures that produce, route and amplify information — and why an information environment can generate distraction without anyone having to commission one.
 
 ⸻
 
-2. 🕸️_when_disinformation_obscures_disinformation.md
+🛰️ Orientation — The louder story is not necessarily the larger one
 
-* Core question
-    * What happens when spectacular propaganda consumes attention at exactly the moment a much harder story about information infrastructure requires scrutiny?
-    * Specifically:
-        * Ben-Gvir’s spectacular August propaganda;
-        * Sánchez’s allegations concerning Israel-linked networks and the Ceuta information environment.
-* Start with evidentiary discipline
-    * Do not claim:
-        * Ben-Gvir made the 31 August video because Sánchez made the Ceuta allegation;
-        * Israeli state authorities ordered the Ceuta information operation;
-        * Ben-Gvir’s propaganda and the Ceuta networks share command.
-    * Current evidence does not establish those arrows.
-    * Preserve:
-        * association ≠ causation;
-        * systematic ≠ coordinated;
-        * Israel-linked ≠ Israeli-state-directed.
-* Ceuta’s first information problem
-    * A misleading/false interpretation of Spanish migration law circulated online.
-    * People were led to believe reaching Ceuta in particular circumstances would prevent their return.
-    * Information therefore potentially changed physical migration decisions.
-    * Important original chain:
-        * legal information;
-        * distorted interpretation;
-        * circulation;
-        * perceived opportunity;
-        * human movement;
-        * border crisis.
-* Organic movement versus subsequent amplification
-    * Earlier 7 August Guardian reporting is critical.
-    * 411 analysed roughly 4.5 million posts.
-    * Migrant-side discussion appeared substantially distributed/organic.
-    * Russia-linked accounts subsequently amplified far-right narratives surrounding the event.
-    * Russian amplification therefore should not be rewritten into:
-        * Russia caused the original crossing.
-    * Better:
-        * an event existed;
-        * politically useful narratives developed around it;
-        * standing amplification infrastructure identified and accelerated them.
-* The standing-infrastructure problem
-    * This connects with riding every wave.
-    * Information operations do not necessarily need to manufacture events.
-    * Standing networks can wait for useful events to emerge.
-    * Different actors can exploit the same informational object for unrelated reasons:
-        * traffickers → opportunity;
-        * influencers → engagement;
-        * far right → anti-migration mobilisation;
-        * foreign influence infrastructure → political division;
-        * opposition → government failure narrative.
-    * Shared usefulness does not require shared command.
-* 31 August escalation
-    * Sánchez publicly attributes parts of the surrounding disinformation environment to:
-        * Russia-linked networks;
-        * Israel-linked networks;
-        * international far-right networks.
-    * He reportedly preserves an important distinction:
-        * network linkage does not necessarily imply direct state operation.
-    * The Russian component has a visible earlier evidentiary trail.
-    * The Israel-linked component presently needs considerably more investigation.
-* The question we actually need answered
-    * What does “Israel-linked” mean operationally?
-    * Possible questions:
-        * which accounts?
-        * which companies?
-        * which contractors?
-        * which platforms?
-        * which owners?
-        * which clients?
-        * which financial relationships?
-        * what propagation behaviour?
-        * what languages?
-        * what timing?
-        * what degree of coordination?
-        * what attribution confidence?
-        * state, commercial, ideological or mixed?
-    * The underlying EEAS material therefore matters much more than the political shorthand.
-* Then Ben-Gvir generates an extraordinary competing information object
-    * August already contains a running propaganda sequence:
-        * real gallows construction footage;
-        * real prison/deprivation footage;
-        * spectacular AI starvation propaganda.
-    * Therefore the propaganda machine clearly predates Sánchez’s 31 August remarks.
-    * That weakens any simple deliberate-diversion theory.
-    * But it does not eliminate opportunistic distraction.
-* Origin ≠ subsequent use
-    * Something does not need to be created as a distraction to become useful as one.
-    * Distinguish:
-        * designed distraction — content commissioned specifically to divert attention;
-        * opportunistic distraction — existing/new content amplified because it becomes useful after another development;
-        * emergent distraction — ordinary operation of the attention system overwhelms the quieter story without anybody needing to coordinate it.
-* Why the spectacular object wins
-    * “Ben-Gvir publishes grotesque AI concentration-camp/starvation propaganda” is:
-        * visual;
-        * immediate;
-        * morally legible;
-        * emotionally provocative;
-        * easily clipped;
-        * easily reposted;
-        * easily condemned;
-        * understandable without technical expertise.
-    * “What precisely did EEAS identify when it described Israel-linked networks participating in the Ceuta information environment?” requires:
-        * network analysis;
-        * attribution methodology;
-        * corporate research;
-        * financial research;
-        * platform knowledge;
-        * chronology;
-        * careful confidence language.
-    * Attention economics therefore strongly favours the first object.
-* The perversity
-    * Everyone can spend days debating:
-        * whether the AI imagery resembles concentration camps;
-        * whether Ben-Gvir is trolling;
-        * whether the prisoners were actually overweight;
-        * whether the video crossed some new moral line;
-        * whether AI companies should permit such imagery.
-    * Meanwhile:
-        * what were the Israel-linked Ceuta networks?
-    * The propaganda itself becomes the easier object of investigation than the infrastructure potentially distributing propaganda/disinformation.
-* Disinformation obscuring disinformation
-    * First-order problem:
-        * misleading information and propaganda.
-    * Second-order problem:
-        * attention generated by spectacular misleading/propaganda material crowds out investigation of the infrastructure producing and circulating information operations.
-    * Hence:
-        * the content becomes more visible than the system that makes the content consequential.
-* Ben-Gvir doesn’t need the memo
-    * Existing domestic incentives already reward:
-        * outrage;
-        * punitive signalling;
-        * election attention;
-        * virality;
-        * dehumanising spectacle.
-    * Therefore:
-        * nobody necessarily needs to say POST ATROCITY SLOP NOW.
-    * An actor optimising for his own political environment can independently produce something useful to a completely different information-management problem.
-* Partially opportunistic
-    * Best current formulation.
-    * Existing propaganda production:
-        * already operating.
-    * External inconvenient story:
-        * appears.
-    * Existing/high-salience output:
-        * becomes newly useful.
-    * Possible selective amplification:
-        * increases its distraction value.
-    * No need to invent a common origin.
-* American/private-infrastructure question
-    * A further complication arises if relevant infrastructure includes US-based:
-        * platforms;
-        * AI services;
-        * advertising systems;
-        * contractors;
-        * analytics;
-        * investors;
-        * companies.
-    * Traditional foreign-information-warfare ontology works comparatively neatly for Russia.
-    * Commercial infrastructure creates a murkier category:
-        * private actor;
-        * commercial service;
-        * protected speech;
-        * customer activity;
-        * geopolitical consequence.
-    * Strategically important information effects need not arise from a conventional state command structure.
-* The deeper architecture
-    * Stop asking only:
-        * Who pressed the button?
-    * Also ask:
-        * Why does the system continually provide so many actors with buttons?
-    * Relevant standing infrastructure may allow actors with completely different motivations to:
-        * find the same event;
-        * select useful interpretations;
-        * amplify them;
-        * profit politically/commercially;
-        * generate further material for amplification.
-* Central analytical distinction
-    * coordination is one mechanism of convergence; incentives are another.
-    * Actors can converge upon the same outcome because:
-        * their incentives independently point toward it.
-    * This is why distributed systems can produce effects resembling coordination without proving central direction.
-* Central line
-    * An outrage machine does not have to be commissioned as a diversion to become useful as one.
-* Sharper secondary line
-    * The peacock can obscure the wiring without knowing the wiring is being investigated.
-* Possible ending
-    * The analytical danger is becoming so absorbed in adjudicating each spectacular content object that investigation never reaches the infrastructure beneath it.
-    * The question is therefore not merely:
-        * “Is this propaganda?”
-    * It is:
-        * “What information system produced, selected, distributed and rewarded it — and what else became harder to see while we were looking at it?”
+At the end of August 2026, several information stories collided.
 
-Yes. This one should be narrower than a general Ceuta-disinformation node. Its distinctive job is the second-order problem: when a spectacular information object becomes easier to argue about than the information infrastructure that was just becoming visible.
+The first concerned Ceuta.
 
-<div>
+On 31 August, Spanish prime minister Pedro Sánchez said that Russia-linked and Israel-linked social-media activity had spread or amplified disinformation surrounding the catastrophic migration crisis at Spain’s border with Morocco.
 
-👾 Title / metadata
+That allegation did not arrive from nowhere.
 
-* # 👾 When Disinformation Obscures Disinformation
-* Path:
-    * 🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/👾_when_disinformation_obscures_disinformation.md
-* First created: 2026-09-01
-* Last updated: 2026-09-01
-* Scope line:
-    * How spectacular propaganda can capture attention around an emerging investigation into disinformation infrastructure — without requiring the spectacular content to have been created as a deliberate diversion.
-* Keep primary route:
-    * 🕸️_Information_Environments
-* Reason:
-    * central mechanism is about prominence, circulation, context and comparative visibility within an information environment.
-    * Do not upgrade to ♻️🕸️ unless the eventual node actually demonstrates that audience response/metrics feed back into subsequent selection or production.
+Earlier reporting had already documented:
 
-</div>
-<div>
+* misleading social-media claims about whether migrants reaching Ceuta could remain in Spain;
+* rapid circulation of videos showing successful crossings;
+* migrant-to-migrant logistical communication;
+* exploitation of the crisis by far-right political actors;
+* and identifiable Russia-linked amplification networks promoting narratives of invasion, governmental betrayal and migration as deliberate attack.
 
-🛰️ Orientation — There are two information stories here
+But Sánchez’s later allegation introduced a harder question:
 
-* Open with the collision on 31 August 2026.
-* Story one:
-    * Spanish PM Pedro Sánchez says Morocco should not be blamed for the Ceuta mass crossing.
-    * He says fake news was circulated by social-media accounts associated with:
-        * Russia;
-        * Israel;
-        * the international far right.
-    * This is a significant allegation about information infrastructure operating around a major European migration crisis.  
-* Story two:
-    * Ben-Gvir publishes spectacular AI propaganda depicting Palestinian prisoners being deprived of food and becoming emaciated.
-    * The video is circulated with the claim “We Promised and Delivered.”  
-* Both are information stories.
-* But they demand radically different kinds of attention.
-* One asks:
-    * Who is operating or participating in transnational influence infrastructure?
-* The other asks:
-    * What the fuck did this politician just post?
-* That asymmetry is the node.
+What exactly was the information infrastructure around Ceuta, who participated in it, and what can actually be attributed to whom?
 
-</div>
-<div>
+The second story concerned Itamar Ben-Gvir.
 
-🇪🇸 Ceuta — begin with what actually happened
+On the same day, Israel’s national security minister briefly circulated an AI-generated video depicting Palestinian detainees entering a mechanised system on conveyor belts and emerging emaciated.
 
-* Keep the chronology clean.
-* Late July / early August:
-    * tens of thousands of people cross or attempt to cross from Morocco into Ceuta.
-    * Guardian’s later report gives about 70,000 entrants and as many as 141 deaths.  
-* Sánchez rejects speculation that the Moroccan government engineered the crossing.
-* His stated explanation instead includes:
-    * criminal gangs;
-    * misinformation concerning a Spanish Supreme Court ruling;
-    * false claims that people entering Ceuta by swimming could not be returned to Morocco.  
-* Important:
-    * migration-related disinformation is therefore part of the crisis itself, not merely commentary produced afterward.
+Roya News described the imagery as dehumanising and concentration-camp-style. The prisoners are represented through bodily caricature: food appears in thought bubbles; deprivation becomes an industrial process; emaciation becomes proof of political delivery.
 
-</div>
-<div>
+That story asks a dramatically cheaper question:
 
-📱 First information environment — people deciding whether to cross
+What the fuck did this politician just post?
 
-* Earlier Guardian reporting on the 411 analysis gives an important evidentiary distinction.
-* Social media contained substantial peer-to-peer logistical discussion among potential migrants.
-* Much of it appeared:
-    * organic;
-    * distributed;
-    * generated by small anonymous-looking accounts;
-    * rather than attributable to one identifiable recruiter.  
-* Rumours included claims that the border was open.
-* Other material offered practical information about reaching Ceuta.  
-* Therefore:
-    * information conditions may have altered physical behaviour;
-    * but distributed coordination among migrants must not automatically be redescribed as foreign information warfare.
-* Useful distinction:
-    * people coordinating through an information environment
-    * is not equivalent to
-    * someone centrally coordinating those people.
+Both questions matter.
 
-</div>
-<div>
+But they do not cost the information environment the same amount of attention.
 
-🐙 Second information environment — everybody rides the event
+One requires:
 
-* Once the crossing existed, another information system became active.
-* 411 analysed roughly 4.5 million social-media posts.
-* Guardian reports that Russia-linked accounts promoted far-right interpretations after the crossings.
-* Narratives framed events as:
-    * a deliberate assault;
-    * government complicity;
-    * an “invasion” frame;
-    * sometimes accompanied by Islamophobic or antisemitic conspiracy material.  
-* Material was reproduced rapidly across seven languages.
-* Guardian reports more than 720,000 views in six hours for the examined narratives.  
-* One identified source was Rybar.
-* Repeater accounts included accounts associated with the Pravda network.  
-* Key analytical discipline:
-    * Russia-linked amplification of the crisis is not evidence that Russia created the original migrant movement.
-* Separate:
-    * precipitating information;
-    * migrant peer-to-peer communication;
-    * opportunistic narrative selection;
-    * foreign amplification;
-    * far-right mobilisation.
+* account mapping;
+* chronology;
+* platform data;
+* provenance;
+* attribution;
+* funding;
+* network analysis;
+* confidence labels;
+* and patience.
 
-</div>
-<div>
+The other requires a functioning pair of eyes.
 
-🛣️ The information superhighway
+That asymmetry is the subject of this node.
 
-* This should be a major conceptual section.
-* 411’s researchers describe something more interesting than individual bad posts:
-    * standing amplification infrastructure.
-* Their metaphor:
-    * a highly specific “information superhighway.”  
-* Certain pieces of content appear able to enter privileged amplification pathways.
-* The important object therefore becomes:
-    * not merely the lie;
-    * but the infrastructure that determines which lie gets reach.
-* 411 explicitly warns that the machinery matters beyond this individual crisis because the relay networks remain available for the next event.  
-* This links directly to the existing Polaris concept:
-    * riding every wave.
-* Standing infrastructure does not need to manufacture every crisis.
-* It can:
-    * wait;
-    * detect;
-    * select;
-    * frame;
-    * amplify.
-* Useful line:
-    * The wave does not have to belong to you for you to ride it.
+⸻
 
-</div>
-<div>
+⚠️ Content sensitivity — Do not reproduce the mechanism unnecessarily
 
-🧩 Many actors can use the same event without sharing a command structure
+This node discusses:
 
-* Use Ceuta to resist simplistic coordination ontology.
-* The same crisis can become informationally useful to:
-    * migrants seeking practical information;
-    * criminal gangs;
-    * engagement-seeking accounts;
-    * domestic far-right movements;
-    * political opposition;
-    * Russian influence networks;
-    * potentially other foreign or commercial actors.
-* Their interests need not be identical.
-* Their infrastructure need not be identical.
-* Their actions can nevertheless converge on:
-    * increased visibility;
-    * increased uncertainty;
-    * polarisation;
-    * pressure on government;
-    * anti-migration narratives.
-* Key line:
-    * Shared usefulness does not establish shared command.
-* Secondary:
-    * coordination is one mechanism of convergence; incentives are another.
+* deaths during migration;
+* migration demonisation;
+* racialised invasion narratives;
+* Palestinian prisoners;
+* food deprivation and starvation;
+* dehumanising AI depictions of Palestinians;
+* execution infrastructure;
+* concentration-camp visual grammar;
+* colonial demonisation;
+* Black British public life;
+* media scrutiny;
+* and the cultural reclamation of imposed monstrous imagery.
 
-</div>
-<div>
+These examples carry pre-existing histories.
 
-🧿 31 August — a new attribution problem appears
+They should not be collapsed into one another.
 
-* Sánchez’s 31 August statement materially expands the story.
-* He says fake news was produced through accounts associated with:
-    * Russia;
-    * Israel;
-    * the international far right.  
-* Israel’s foreign minister Gideon Sa’ar rejects the allegation as a lie.
-* The Kremlin also rejects Russian involvement.  
-* This creates an obvious investigative question:
-    * What precisely does “associated with Israel” mean?
-* Do not silently convert it into:
-    * Israeli government operation;
-    * Israeli intelligence operation;
-    * Israeli military operation.
-* The supplied Guardian report does not establish those claims.
-* Likewise:
-    * “associated with Russia” needs to be decomposed into the specific networks and evidence.
-* The earlier 411 reporting provides substantially more detail for the Russia-linked amplification than the 31 August article provides for the Israel-linked component.  
+Palestinian histories are not Caribbean histories.
 
-</div>
-<div>
+The Holocaust is not interchangeable with colonial slavery.
 
-🔬 The story that now needs investigation
+Ceuta is not Gaza.
 
-* This is where the reader should naturally want to leave the spectacular content behind and investigate infrastructure.
-* Questions raised by “Israel-linked”:
-    * Which accounts?
-    * Which platforms?
-    * What linking criterion?
-    * Ownership?
-    * Employees?
-    * Customers?
-    * Contractors?
-    * Political affiliation?
-    * Funding?
-    * Shared infrastructure?
-    * Coordinated behaviour?
-    * Shared narratives?
-    * Timing?
-    * Language clusters?
-    * Automated activity?
-    * Commercial influence services?
-    * State connection?
-    * Confidence level?
-* Also:
-    * Was the Israel-linked activity about encouraging crossings?
-    * Amplifying far-right reaction?
-    * Attacking Sánchez?
-    * Migration politics more broadly?
-    * Something else?
-* The currently supplied sources do not answer those questions.
-* That absence should be explicit rather than patched with inference.
-* This creates a natural TODO / needs sourcing block for later investigation.
+Notting Hill Carnival is not a convenient decorative metaphor for somebody else’s suffering.
 
-</div>
-<div>
+The analytical comparison concerns information relationships:
 
-🎪 Then a much easier object arrives
+WHO REPRESENTS WHOM?
+WHO SUPPLIES THE CATEGORY?
+WHO CONTROLS CONTEXT?
+WHO CONTROLS CIRCULATION?
+WHO GETS TO EXPLAIN THE IMAGE?
+WHO GETS TO REFUSE ITS MEANING?
 
-* On 31 August, Ben-Gvir’s AI prison propaganda supplies an extraordinarily high-salience competing object.
-* YPA describes:
-    * artificial courtroom imagery;
-    * food imagery;
-    * removal of provisions;
-    * deterioration in physical condition;
-    * eventual emaciation.  
-* Roya News independently reports the video and its deletion.  
-* It is:
-    * grotesque;
-    * visual;
-    * immediate;
-    * comprehensible without technical knowledge;
-    * emotionally activating;
-    * highly shareable.
-* It therefore presents almost the opposite cognitive demand to investigating a transnational influence network.
+There is also no analytical virtue in forcing readers repeatedly to consume degrading imagery merely to establish that degradation exists.
 
-</div>
-<div>
+Do not make people consume the dehumanisation over and over again in order to prove that dehumanisation happened.
 
-🧠 Unequal attention costs
+Description is often sufficient.
 
-* Compare what is required to understand each story.
+The information mechanism is the object.
 
-Ben-Gvir AI propaganda
+The people represented by it remain people.
 
-* Watch video.
-* Understand visual metaphor.
-* Identify starvation/deprivation.
-* Experience disgust/outrage.
-* Share.
-* Condemn.
+⸻
 
-Ceuta influence infrastructure
+🇪🇸 Ceuta — Information was already inside the event
 
-* Establish chronology.
-* Obtain platform data.
-* Identify accounts.
-* Establish linkages.
-* Distinguish:
-    * organic behaviour;
-    * coordination;
-    * automation;
-    * commercial amplification;
-    * ideological affinity;
-    * state direction.
-* Examine:
-    * ownership;
-    * financing;
-    * contractors;
-    * propagation patterns;
-    * cross-language reproduction;
-    * timing.
-* Assign confidence carefully.
-* Therefore:
-    * the more spectacular story is dramatically cheaper to process.
-* Information environments reward this asymmetry.
+The Ceuta crisis cannot be reduced to:
 
-</div>
-<div>
+DISINFORMATION
+→
+MIGRATION
 
-⏳ But the chronology blocks the easy conspiracy theory
+The available reporting describes a more complicated environment.
 
-* Essential section.
-* Ben-Gvir’s AI starvation propaganda did not begin on 31 August.
-* Al Jazeera reported another AI starvation video from Ben-Gvir on 10 August, weeks before Sánchez’s statement.  
-* On 20 August, Guardian reported real footage of Ben-Gvir at a gallows site intended for executions of Palestinian prisoners.  
-* YPA also places the 31 August AI video within a continuing series of prison-condition publicity.  
-* Therefore:
-    * current evidence does not support:
-        * “Ben-Gvir invented the starvation propaganda to distract from Ceuta.”
-* Kill that hypothesis cleanly.
-* The propaganda/outage machine is demonstrably already running.
+El País documented misleading social-media material that distorted a Spanish Supreme Court judgment concerning immediate returns at sea.
 
-</div>
-<div>
+A much simpler interpretation travelled:
 
-👾 Origin is not use
+The door is open.
 
-* Now introduce the node’s actual proposition.
-* A piece of information can acquire a function it did not originally possess.
-* Separate three mechanisms.
+Videos of successful crossings then supplied something more persuasive than an abstract rumour.
+
+They supplied visible evidence.
+
+A potential traveller no longer had to decide whether an anonymous claim about Spanish law was credible.
+
+They could see other people crossing.
+
+That changes the information environment.
+
+LEGAL EVENT
+↓
+MISINTERPRETATION / MISREPRESENTATION
+↓
+SOCIAL-MEDIA CIRCULATION
+↓
+SOME PEOPLE ATTEMPT CROSSING
+↓
+SUCCESSFUL CROSSINGS BECOME VISIBLE
+↓
+VISIBLE SUCCESS BECOMES NEW INFORMATION
+↓
+MORE PEOPLE UPDATE THEIR ASSESSMENT
+
+But even this is insufficient.
+
+El País also identified material conditions, including low tide and the unusual inhibition of Moroccan security forces during decisive hours, as contributing to the border’s temporary permeability.
+
+The physical event therefore cannot be explained by the information environment alone.
+
+That distinction is essential.
+
+Information can materially change behaviour without being the sole cause of an event.
+
+⸻
+
+📱 Migrants communicating with migrants is not automatically an influence operation
+
+People considering migration also communicated with one another.
+
+They discussed:
+
+* routes;
+* border conditions;
+* whether another crossing might occur;
+* meeting points;
+* successful journeys;
+* transport;
+* prices;
+* swimming;
+* police;
+* and practical logistics.
+
+This is information circulation.
+
+It is also human agency.
+
+People moving across borders are capable of possessing:
+
+* accurate information;
+* inaccurate information;
+* rumours;
+* peer networks;
+* tactical knowledge;
+* logistical knowledge;
+* hopes;
+* fears;
+* incentives;
+* and plans.
+
+That means:
+
+PEOPLE COORDINATING THROUGH AN INFORMATION ENVIRONMENT
+≠
+SOMEONE CENTRALLY COORDINATING THOSE PEOPLE
+
+This distinction becomes particularly important once states, intelligence-linked actors and organised political networks enter the analysis.
+
+If every instance of distributed coordination is retrospectively treated as evidence of foreign command, the migrants themselves disappear from the explanatory model.
+
+Do not remove human agency merely because information warfare also exists.
+
+⸻
+
+🐙 The wave does not have to belong to you
+
+By 7 August, the Guardian was reporting analysis by counter-disinformation organisation 411 identifying substantial Russia-linked amplification after the Ceuta influx.
+
+The reported material pushed familiar far-right frames:
+
+* invasion;
+* governmental complicity;
+* loss of sovereignty;
+* migration as deliberate attack;
+* political betrayal.
+
+Accounts linked to Russian military or influence infrastructure reached large audiences.
+
+The Guardian’s reporting also identified Pravda-linked channels and described researchers’ concern about standing relay infrastructure capable of attaching itself rapidly to future crises.
+
+This produces a critical distinction:
+
+CREATE THE EVENT
+≠
+AMPLIFY THE EVENT
+≠
+FRAME THE EVENT
+≠
+BENEFIT FROM THE EVENT
+
+An actor does not have to manufacture the original event.
+
+It can wait.
+
+Something happens.
+
+The actor recognises utility.
+
+The actor rides the wave.
+
+That is enough.
+
+⸻
+
+🛣️ The machinery may matter more than the individual lie
+
+The Guardian’s 411 reporting makes the most important analytical move in the Ceuta material.
+
+The concern is not merely:
+
+This account said something false.
+
+It is that relay machinery already exists.
+
+That machinery can:
+
+* notice;
+* select;
+* translate;
+* repeat;
+* reframe;
+* cross-post;
+* amplify;
+* and push content towards audiences already primed to receive it.
+
+The informational object therefore becomes larger than any single post.
+
+EVENT
+↓
+SELECTION
+↓
+FRAMING
+↓
+RELAY
+↓
+TRANSLATION
+↓
+AMPLIFICATION
+↓
+DISCOVERABILITY
+↓
+POLITICAL INTERPRETATION
+
+The individual story eventually disappears.
+
+The infrastructure remains.
+
+That is why the next crisis does not have to share the same origin.
+
+It only has to be compatible with the network’s political usefulness.
+
+The machinery can survive the story.
+
+⸻
+
+🪆 Shared usefulness is not shared command
+
+The Ceuta crisis became useful to many different actors.
+
+Those actors did not necessarily share:
+
+* command;
+* infrastructure;
+* funding;
+* ideology;
+* objectives;
+* or knowledge of one another.
+
+The event could simultaneously be useful to:
+
+* migrants seeking practical information;
+* people selling migration services;
+* domestic Spanish political actors;
+* European far-right movements;
+* Russian influence networks;
+* Israeli political actors;
+* media organisations;
+* engagement-seeking accounts;
+* platform businesses;
+* governments;
+* and researchers studying all of the above.
+
+Their outputs may nevertheless converge.
+
+SHARED COMMAND
+→
+CAN PRODUCE CONVERGENT OUTPUTS
+BUT
+CONVERGENT OUTPUTS
+↛
+SHARED COMMAND
+
+Coordination is one mechanism.
+
+Compatible incentives are another.
+
+Imitation is another.
+
+Opportunism is another.
+
+Platform reward structures are another.
+
+This is precisely why information-environment analysis requires more discipline than:
+
+These people all benefited, therefore they were all working together.
+
+No.
+
+Sometimes everybody simply discovers the same wave.
+
+⸻
+
+🌍 Ceuta becomes a political object
+
+By early August, Ceuta had already escaped the local information environment.
+
+International right-wing and reactionary political actors were using the crisis to tell larger stories about:
+
+* migration;
+* European weakness;
+* borders;
+* sovereignty;
+* demographic threat;
+* and political betrayal.
+
+Ben-Gvir himself had already entered that wider political information environment.
+
+This matters later.
+
+It means that when Sánchez made his Israel-linked disinformation allegation at the end of August, Ben-Gvir’s political interest in Ceuta did not have to be inferred from a hypothetical secret operation.
+
+He had already found the crisis publicly useful.
+
+That establishes:
+
+POLITICAL INTEREST
+
+It does not establish:
+
+OPERATIONAL INVOLVEMENT
+
+Those are different evidentiary categories.
+
+Keep them different.
+
+⸻
+
+🧿 31 August — Sánchez changes the attribution problem
+
+On 31 August, Sánchez publicly attributed disinformation surrounding Ceuta to networks or social-media activity linked to:
+
+* Russia;
+* Israel;
+* and the international far right.
+
+Russia and Israel rejected the allegation.
+
+The Russia component had some prior public evidentiary architecture.
+
+The Guardian/411 reporting had already identified particular Russia-linked relay structures and post-event amplification.
+
+The Israeli component was less publicly developed.
+
+That means the correct analytical response is not:
+
+Israel did it.
+
+Nor is it:
+
+Sánchez made it up.
+
+It is:
+
+What precisely does the attribution mean, and where is the evidentiary chain?
+
+⸻
+
+🔬 “Israel-linked” is not a mechanism
+
+An attribution label can conceal enormous variation.
+
+“Israel-linked” might refer to:
+
+* official state accounts;
+* state-funded communications;
+* government contractors;
+* private influence companies;
+* political organisations;
+* ideological networks;
+* commercial infrastructure;
+* individual activists;
+* accounts operated from Israel;
+* accounts with Israeli clients;
+* or accounts simply expressing pro-Israeli politics.
+
+Those are not interchangeable.
+
+The same applies to labels such as:
+
+* Russia-linked;
+* Iran-linked;
+* China-linked;
+* government-linked;
+* intelligence-linked;
+* extremist-linked.
+
+The suffix -linked is not an explanatory mechanism.
+
+It is the beginning of an attribution question.
+
+⸻
+
+🛑 Attribution brake — The public evidence is asymmetric
+
+Financial Times reporting on Sánchez’s allegation provides an important restraint.
+
+The FT reported that EU analysis had identified Russian disinformation activity after the crisis began, but had not established that Russia encouraged the original migration wave.
+
+It also reported that the EU had not independently confirmed the alleged Israeli involvement on the evidence then available publicly.
+
+Therefore:
+
+RUSSIA-LINKED ACTORS AMPLIFIED
+FAR-RIGHT CEUTA NARRATIVES
+
+has supporting reporting.
+
+But:
+
+RUSSIA CAUSED THE CEUTA CROSSING
+
+does not follow.
+
+Similarly:
+
+SÁNCHEZ ALLEGED ISRAEL-LINKED
+DISINFORMATION AROUND CEUTA
+
+is established.
+
+But:
+
+PUBLIC EVIDENCE CURRENTLY IDENTIFIES
+THE ISRAEL-LINKED NETWORK,
+ITS OPERATORS,
+ITS FUNDING,
+AND ITS COMMAND STRUCTURE
+
+is not established by the source set assembled here.
+
+Do not fill the arrow.
+
+⸻
+
+🔦 Follow the quieter story
+
+Sánchez’s allegation therefore opens an investigation.
+
+It does not finish one.
+
+Useful questions include:
+
+* Which accounts?
+* Which platforms?
+* Which posts?
+* Which languages?
+* Which audiences?
+* Which dates?
+* What was false?
+* What was merely inflammatory?
+* What was amplified?
+* What was original?
+* What was copied?
+* What was translated?
+* Was activity directed towards prospective migrants?
+* Was it directed towards Spanish voters?
+* Was it directed towards European far-right audiences?
+* Was it directed towards international audiences?
+* What linking criterion produced “Israel-linked”?
+* Who owned the relevant infrastructure?
+* Who paid for activity?
+* Was automation involved?
+* Were contractors involved?
+* Were influence-for-hire companies involved?
+* Was state direction demonstrated?
+* Was ideological affinity sufficient?
+* Were the same accounts already operating in other political environments?
+* Which claims are high confidence?
+* Which are medium confidence?
+* Which remain allegations?
+
+The absence of public answers is not permission to manufacture them.
+
+The missing information is itself part of the story.
+
+⸻
+
+🇺🇸 The commercial information layer
+
+Separate August reporting makes one part of the wider governance problem much less hypothetical.
+
+It does not establish a Ceuta connection.
+
+That firewall matters.
+
+US foreign-agent filings reported by the Jerusalem Post described communications work undertaken by New York-based Piro Inc. for Havas Media Germany on behalf of Israel’s Government Advertising Agency, LaPam.
+
+Separate Guardian reporting on 26 August described an Israeli-government-funded information campaign involving the purported Hanover Institute for Public Policy and efforts to shape material encountered by generative AI systems.
+
+The Guardian reported a chain involving government funding, communications contractors and large-scale production of pseudo-academic digital content designed for discoverability and machine retrieval.
+
+Again:
+
+None of this demonstrates that those firms or projects participated in Ceuta.
+
+It demonstrates something different.
+
+Modern state information activity can move through commercial supply chains.
+
+STATE
+↓
+ADVERTISING / COMMUNICATIONS CONTRACT
+↓
+PRIVATE COMPANY
+↓
+SUBCONTRACTOR / CONTENT OPERATION
+↓
+DIGITAL INFORMATION
+↓
+SEARCH / SOCIAL / AI ENVIRONMENT
+↓
+PUBLIC
+
+This makes the traditional conceptual split between:
+
+STATE PROPAGANDA
+
+and:
+
+PRIVATE COMMERCIAL SPEECH
+
+considerably less tidy.
+
+The information market itself can become geopolitical infrastructure.
+
+Capitalism has, regrettably, discovered propaganda-as-a-service.
+
+⸻
+
+🪆 Russia is cognitively easier
+
+Russia-linked information operations fit a well-developed Western conceptual category.
+
+There are familiar:
+
+* influence networks;
+* sanctions regimes;
+* state-media relationships;
+* intelligence assessments;
+* proxy structures;
+* doctrine;
+* and historical examples.
+
+A Russia-linked relay network therefore looks like information warfare.
+
+Everyone knows which filing cabinet to put it in.
+
+Commercial influence systems are messier.
+
+So are:
+
+* contractors;
+* advertising firms;
+* political consultancies;
+* AI optimisation;
+* ideologically aligned influencers;
+* privately owned platforms;
+* foreign-agent registrations;
+* and information services sold across borders.
+
+That creates two opposite analytical dangers.
+
+Danger one
+
+Only recognise information warfare when somebody has organised it politely enough to resemble the Kremlin.
+
+Danger two
+
+Call every transnational political communications network an intelligence operation.
+
+Both are mistakes.
+
+Different infrastructure requires different attribution methods.
+
+⸻
+
+🎪 Then the spectacular object arrives
+
+On 31 August, Ben-Gvir circulated an AI-generated video depicting Palestinian detainees in an industrialised process of bodily deprivation.
+
+Roya News describes groups of prisoners moving on conveyor belts into facilities, accompanied by food-related thought bubbles, and emerging as emaciated and distressed figures.
+
+The video’s caption presented the transformation as delivery on a political promise.
+
+The representational logic is brutally efficient.
+
+PALESTINIAN PRISONER
+↓
+BODY PRESENTED AS EXCESSIVE
+↓
+FOOD PRESENTED AS DESIRE / DEFECT
+↓
+MECHANISED DEPRIVATION
+↓
+EMACIATED BODY
+↓
+POLITICAL SUCCESS
+
+The propagandist supplies:
+
+* the represented population;
+* the category;
+* the explanation;
+* the transformation;
+* the moral frame;
+* and the intended reaction.
+
+There is almost nothing left for the audience to investigate.
+
+Only to react.
+
+⸻
+
+🧨 The image is doing political work
+
+The video does not merely advocate harsher prison conditions.
+
+It turns the Palestinian body into the reason harsher conditions are warranted.
+
+The implied argument is approximately:
+
+THEY HAVE TOO MUCH
+↓
+THEY WANT TOO MUCH
+↓
+THEIR BODIES PROVE EXCESS
+↓
+DEPRIVATION CORRECTS THE EXCESS
+
+That is a classic representational move.
+
+Political conditions disappear.
+
+Infrastructure disappears.
+
+Policy disappears.
+
+History disappears.
+
+The body remains.
+
+And then the body is presented as if it explains itself.
+
+⸻
+
+🫒 The body is not the explanation
+
+The body-focused argument is treated separately in:
+
+🫒 The Body Is Not the Explanation
+
+But it matters here because the information operation depends upon removing context.
+
+Palestinian food access is not simply a function of appetite.
+
+Visualizing Palestine’s food-sovereignty work collates evidence concerning restrictions affecting:
+
+* agricultural land;
+* water;
+* fishing;
+* mobility;
+* markets;
+* imports;
+* exports;
+* crop production;
+* access to farmland;
+* and Palestinian agricultural livelihoods.
+
+Al-Shabaka’s Fathi Nimer approaches the issue through the political economy of food sovereignty, de-development, agricultural dependency, land fragmentation and constrained economic autonomy.
+
+The organisations have explicit political frameworks.
+
+Those frameworks should be visible rather than silently presented as neutral institutional consensus.
+
+But the material they assemble points towards the question that body-centred propaganda removes:
+
+Who controls the material conditions under which food can be produced, transported, purchased, imported, harvested and eaten?
+
+The body records outcomes.
+
+It does not explain the system that produced them.
+
+⸻
+
+🍞 The contemporary food-security baseline
+
+The World Food Programme’s current Palestine emergency reporting makes the surrounding context materially unavoidable.
+
+As of its 2026 reporting, WFP says approximately:
+
+* 1.4 million people in Gaza face crisis or worse levels of acute food insecurity;
+* around 1.5 million people are reached with WFP assistance each month;
+* diets remain severely inadequate;
+* only around one in five children receives an adequate diet;
+* many adults skip meals so children can eat;
+* fruit, vegetables and protein remain infrequent for many households;
+* and continued humanitarian food assistance remains necessary to prevent deterioration.
+
+The propagandistic joke about Palestinian bodies therefore sits inside an environment of documented food insecurity.
+
+This does not mean every historical claim about Palestinian food sovereignty is thereby proven by WFP.
+
+It means that contemporary deprivation is not an invented backdrop.
+
+And it makes the information manoeuvre clearer.
+
+SYSTEMS GOVERNING FOOD ACCESS
+↓
+DISAPPEAR FROM FRAME
+BODY
+↓
+BECOMES THE FRAME
+
+⸻
+
+⏳ The chronology kills the easy conspiracy theory
+
+There is an extremely tempting story available.
+
+On 31 August:
+
+SÁNCHEZ
+→
+ISRAEL-LINKED DISINFORMATION ALLEGATION
+
+and:
+
+BEN-GVIR
+→
+SPECTACULAR AI PROPAGANDA
+
+Therefore:
+
+BEN-GVIR VIDEO
+=
+DELIBERATE CEUTA DISTRACTION
+
+No.
+
+The chronology does not support that conclusion.
+
+Al Jazeera reported on 10 August that Ben-Gvir was already using AI-generated starvation imagery involving a Palestinian prisoner as part of a campaign promoting harsher treatment of Palestinians ahead of elections.
+
+On 20 August, the Guardian reported Ben-Gvir publicising construction of a gallows complex for executions of Palestinians convicted under the proposed death-penalty regime.
+
+The 31 August video therefore belongs to an already-running communications pattern.
+
+That pattern includes:
+
+* prisoners;
+* deprivation;
+* food;
+* punishment;
+* execution;
+* bodily degradation;
+* and spectacular demonstrations of punitive state power.
+
+So:
+
+The propaganda campaign demonstrably predates Sánchez’s 31 August allegation.
+
+Good.
+
+Kill the bad hypothesis.
+
+The better mechanism is more interesting.
+
+⸻
+
+👾 Origin is not function
+
+Information can acquire uses it did not originally possess.
+
+A piece of content can be created for one purpose and later become useful for another.
+
+That gives us at least three distraction mechanisms.
 
 Designed distraction
 
-* Content is deliberately created or released for the purpose of diverting attention from another story.
-* Requires evidence of intention/timing/coordination.
-* Not established here.
+INCONVENIENT INFORMATION
+↓
+ACTOR DELIBERATELY CREATES / RELEASES CONTENT
+↓
+PURPOSE = REDIRECT ATTENTION
+
+This requires evidence of intent.
+
+It is not established here.
 
 Opportunistic distraction
 
-* Content already exists, is already planned, or arises independently.
-* Another inconvenient story appears.
-* Actors discover that the content is useful for:
-    * changing subject;
-    * occupying attention;
-    * rallying supporters;
-    * forcing opponents to respond.
-* Does not require the original content to have been commissioned for that purpose.
+CAMPAIGN / CONTENT PRACTICE ALREADY EXISTS
+↓
+INFORMATION ENVIRONMENT CHANGES
+↓
+ANOTHER STORY BECOMES INCONVENIENT
+↓
+EXISTING CONTENT BECOMES ADDITIONALLY USEFUL
+
+No bespoke diversion needs to be commissioned.
 
 Emergent distraction
 
-* Nobody needs consciously to deploy anything.
-* Platform/media/audience incentives independently favour:
-    * novelty;
-    * spectacle;
-    * outrage;
-    * visual extremity.
-* The spectacular object therefore crowds out the slower investigation as an emergent property of the information environment.
-* This three-part distinction is probably the node’s most reusable contribution.
+SPECTACULAR OBJECT ENTERS ENVIRONMENT
+↓
+PLATFORMS + MEDIA + AUDIENCES REWARD SALIENCE
+↓
+ATTENTION FLOWS TOWARDS CHEAPER OBJECT
+↓
+SLOWER INVESTIGATION LOSES PROMINENCE
 
-</div>
-<div>
+No actor needs to consciously intend the attention shift at all.
+
+The environment can produce it.
+
+⸻
 
 🦚 Partially opportunistic
 
-* Use the wording we arrived at:
-    * partially opportunistic.
-* Mechanism:
-    * standing propaganda production;
-    * pre-existing political incentives;
-    * spectacular new output;
-    * inconvenient external story;
-    * output becomes additionally useful in the changed environment.
-* No need for:
-    * common authorship;
-    * explicit coordination;
-    * a memo;
-    * a diversion order.
-* Keep epistemic levels separate:
-    * possible function;
-    * observed attention effect;
-    * demonstrated intentional deployment.
-* Do not collapse them.
+The defensible description of the 31 August collision is therefore:
 
-</div>
-<div>
+partially opportunistic.
 
-🪞 Disinformation becomes the distraction from disinformation
+An existing propaganda practice is already operating.
 
-* First-order object:
-    * the false/misleading/provocative content.
-* Second-order object:
-    * the infrastructure selecting, distributing and amplifying information.
-* The paradox:
-    * outrageous content invites enormous scrutiny;
-    * infrastructure remains comparatively boring and difficult;
-    * therefore discussion of the content can consume the investigative capacity required to understand the system.
-* Useful formulation:
-    * the content becomes more visible than the machinery that makes content consequential.
-* Hence the title:
-    * when disinformation obscures disinformation.
+Ben-Gvir already has a political interest in Ceuta.
 
-</div>
-<div>
+A difficult Israel-linked attribution story becomes internationally visible.
+
+A spectacular object from the existing propaganda practice appears in the same information environment.
+
+That object can be politically useful without having been invented for that purpose.
+
+Keep three different claims separate:
+
+CONTENT COULD FUNCTION AS DISTRACTION
+CONTENT OBSERVABLY ABSORBS ATTENTION
+CONTENT WAS INTENTIONALLY DEPLOYED
+TO DISTRACT FROM SPECIFIC STORY
+
+They are not synonyms.
+
+⸻
+
+🧠 Attention has processing costs
+
+Compare the work demanded of an audience.
+
+Ben-Gvir’s AI video
+
+You need to:
+
+* see it;
+* recognise the prisoners;
+* recognise the food imagery;
+* recognise the emaciation;
+* react.
+
+Seconds.
+
+The Ceuta attribution problem
+
+You need to:
+
+* reconstruct chronology;
+* identify accounts;
+* obtain platform records;
+* distinguish organic from coordinated behaviour;
+* distinguish migrant networks from influence networks;
+* map amplification;
+* establish provenance;
+* identify operators;
+* identify customers;
+* identify funding;
+* examine contractors;
+* compare language clusters;
+* distinguish causation from post-event amplification;
+* distinguish state direction from ideological affinity;
+* distinguish political usefulness from operational control;
+* assign confidence.
+
+Weeks.
+
+Months.
+
+Possibly longer.
+
+The information environment rewards the difference.
+
+⸻
 
 🎣 The attention honeypot
 
-* Carefully distinguish this from an intentionally constructed honeypot.
-* Spectacular propaganda behaves like an attention honeypot:
-    * morally urgent;
-    * emotionally sticky;
-    * endlessly debatable;
-    * highly quotable;
-    * constantly regenerating secondary commentary.
-* Analysts can spend all available time determining:
-    * whether the video is “really” genocidal;
-    * whether it is satire;
-    * whether prisoners were previously overweight;
-    * whether AI makes it different;
-    * whether deletion matters;
-    * whether Ben-Gvir is merely trolling.
-* Meanwhile:
-    * What were the Israel-linked Ceuta accounts?
-* That question quietly disappears below the fold.
-* Important:
-    * honeypot-like effect does not establish honeypot design.
+Spectacular propaganda can therefore behave like an attention honeypot without being deliberately engineered as one.
 
-</div>
-<div>
+Ben-Gvir’s material invites endless argument:
+
+* Is this genocidal rhetoric?
+* Is it trolling?
+* Is AI propaganda different from conventional propaganda?
+* What historical imagery does it evoke?
+* Why was it deleted?
+* What did Ben-Gvir mean?
+* Are prison conditions justified?
+* Is comparison to concentration camps appropriate?
+* Is the video offensive?
+* Is outrage amplifying it?
+* Should platforms remove it?
+
+These questions can consume enormous analytical capacity.
+
+Meanwhile:
+
+Which Israel-linked accounts did Sánchez mean?
+
+becomes oddly quiet.
+
+Effect is not proof of design.
+
+But effect is still part of the information environment.
+
+⸻
+
+🕸️ Disinformation can obscure disinformation
+
+That produces the second-order problem.
+
+First-order disinformation analysis asks:
+
+What does the false or manipulative content say?
+
+Second-order information-environment analysis asks:
+
+What infrastructure determines whether the content is seen, repeated, believed, retrieved, translated, recommended or encountered instead of something else?
+
+The first produces excellent screenshots.
+
+The second produces:
+
+* spreadsheets;
+* graphs;
+* contracts;
+* registration documents;
+* account histories;
+* timestamps;
+* corporate records;
+* propagation models;
+* and probabilistic attribution.
+
+Guess which one television prefers.
+
+The grotesque object becomes visible.
+
+The infrastructure remains boring.
+
+And so:
+
+Disinformation itself can become the distraction from investigating disinformation.
+
+No conspiracy is required.
+
+Attention is finite.
+
+⸻
 
 🏗️ Infrastructure is harder to photograph
 
-* A useful visual-information point.
-* Ben-Gvir gives the information environment:
-    * a face;
-    * a video;
-    * emaciated bodies;
-    * a slogan;
-    * a villain.
-* Network infrastructure gives journalists:
-    * account graphs;
-    * timestamps;
-    * company registrations;
-    * propagation patterns;
-    * contracts;
-    * financial links;
-    * API/platform relationships;
-    * probabilistic attribution.
-* One photographs beautifully.
-* The other requires investigation.
-* Therefore:
-    * visibility is not proportional to systemic importance.
-* This is a strong Embodied Information Ecology principle beyond this case.
+A spectacular political video supplies:
 
-</div>
-<div>
+* a villain;
+* victims;
+* bodies;
+* movement;
+* a slogan;
+* conflict;
+* emotional clarity.
 
-🇺🇸 The awkward commercial layer
+An influence-infrastructure story supplies:
 
-* Keep this as a question set, unless later research establishes specific companies.
-* If relevant information infrastructure is operated through US commercial systems, traditional foreign-information-warfare categories become awkward.
-* Possible layers:
-    * platforms;
-    * cloud services;
-    * advertising;
-    * AI-generation tools;
-    * analytics;
-    * influence contractors;
-    * venture-backed companies;
-    * communications infrastructure.
-* Questions:
-    * When does commercial amplification become a national-security issue?
-    * What if the provider is American but the customer is foreign?
-    * What if the provider claims neutrality?
-    * What if the relevant activity is protected speech?
-    * What if no single company understands the aggregate effect?
-* Do not imply US companies participated in the Ceuta operation without evidence.
-* This section is conceptual scaffolding for later sourcing.
-* The joke underneath it remains useful:
-    * free-market infrastructure can make geopolitical attribution profoundly untidy.
+* account IDs;
+* timestamps;
+* contractor relationships;
+* corporate ownership;
+* network edges;
+* platform APIs;
+* invoices;
+* foreign-agent filings;
+* language clusters;
+* and attribution caveats.
 
-</div>
-<div>
+One becomes a headline immediately.
 
-🪆 Russia is ontologically easier
+The other becomes an investigation.
 
-* Russia-linked influence operations fit an existing conceptual box:
-    * foreign state;
-    * known propaganda infrastructure;
-    * identified networks;
-    * sanctions;
-    * intelligence links;
-    * recognisable strategic objectives.
-* Guardian’s 7 August reporting can name:
-    * Rybar;
-    * Pravda-linked repeaters;
-    * identifiable amplification behaviour.  
-* That makes the question cognitively manageable:
-    * Russia conducts information warfare.
-* Israel-linked, commercial, ideological and platform-mediated relationships may prove much less tidy.
-* The analytical danger:
-    * only recognising information warfare when it looks like the Russian model.
-* Possible line:
-    * The ontology of the threat should not depend upon whether somebody was considerate enough to organise it like the Kremlin.
+Visibility is not proportional to systemic importance.
 
-</div>
-<div>
+⸻
 
-🕸️ No leaker needed; no mastermind needed
+♻️ The system notices the information environment
 
-* Connect to existing Polaris systems thinking.
-* Complex information effects can arise from:
-    * standing infrastructure;
-    * compatible incentives;
-    * rapid imitation;
-    * platform affordances;
-    * commercially available services;
-    * opportunistic amplification.
-* Therefore:
-    * do not demand a single command node before treating the system as consequential.
-* But equally:
-    * do not infer coordination merely because outputs align.
-* Hold both:
-    * distributed systems can produce strategically coherent effects;
-    * strategically coherent effects do not prove central command.
+The Ceuta case also produced institutional response.
 
-</div>
-<div>
+Euronews reported on 11 August that the European Commission was coordinating a voluntary mechanism involving fact-checkers, Meta and TikTok following the spread of false claims associated with the deadly crossings.
 
-🔦 The investigation rule — follow the quieter story
+That gives us a secondary feedback loop:
 
-* Build a reusable diagnostic.
-* When an extraordinarily vivid information object appears beside a slower infrastructure story, ask:
-    * What were we investigating immediately before this?
-    * What new questions had just become available?
-    * Which story is cheaper to report?
-    * Which story produces better images?
-    * Which story generates immediate partisan reactions?
-    * Which story requires specialist investigation?
-    * Has the vivid object changed the evidentiary situation?
-    * Or merely changed what everyone is looking at?
-* Then:
-    * keep one analytical thread attached to the quieter story.
-* This is not conspiracy thinking.
-* It is attention hygiene.
+INFORMATION CIRCULATES
+↓
+PEOPLE ACT
+↓
+PHYSICAL CONSEQUENCES BECOME VISIBLE
+↓
+INFORMATION ENVIRONMENT BECOMES OBJECT OF GOVERNANCE
+↓
+PLATFORMS + INSTITUTIONS CHANGE PRACTICE
+↓
+INFORMATION CONDITIONS CHANGE AGAIN
 
-</div>
-<div>
+That feedback mechanism is not the primary routing object of this node.
 
-⚠️ What this node does NOT claim
+The primary mechanism remains informational structure, salience, circulation and displacement.
 
-* Put this prominently near the end.
-* It does not claim:
-    * Ben-Gvir created the AI video for Sánchez;
-    * Israel ordered a Ceuta operation;
-    * Russia caused the migrant crossing;
-    * Israel and Russia coordinated;
-    * far-right actors, migrants and foreign networks shared command;
-    * US technology companies participated;
-    * every attention shift is deliberate.
-* It does claim:
-    * multiple information processes operated around Ceuta;
-    * Russia-linked amplification has been documented in the supplied reporting;
-    * Sánchez subsequently alleged Israel-linked activity as well;
-    * the precise basis for the Israel-linked attribution needs further evidence;
-    * Ben-Gvir’s spectacular propaganda campaign demonstrably predates 31 August;
-    * existing propaganda can nevertheless become opportunistically useful when another story becomes inconvenient;
-    * attention systems can create distraction effects without a centrally designed distraction operation.
+But it matters as a cross-link:
 
-</div>
-<div>
+Once an information environment becomes consequential enough to govern, governance itself becomes another input into the environment.
 
-🧠 Core model
+⸻
 
-* Compact diagram for the eventual node:
+🕸️ No mastermind required
 
-EVENT
-  ↓
-multiple actors discover informational utility
-  ↓
-standing networks select / frame / amplify
-  ↓
-infrastructure itself becomes an investigative story
-  ↓
-spectacular new information object appears
-  ↓
-attention migrates toward the cheaper / hotter object
-  ↓
-infrastructure investigation loses prominence
+Complex information effects can emerge from combinations of:
 
-* Important:
-    * this diagram describes attention displacement.
-    * It does not itself establish deliberate diversion.
+* standing infrastructure;
+* political incentives;
+* opportunistic amplification;
+* ideological affinity;
+* commercial services;
+* platform affordances;
+* imitation;
+* audience behaviour;
+* media selection;
+* algorithmic prominence;
+* and ordinary human curiosity.
 
-</div>
-<div>
+Therefore:
 
-🧰 Reusable taxonomy
+A strategically useful information effect does not require a single strategic author.
 
-* End the analytical body with a little Polaris tool:
+And:
 
-CONTENT CREATED TO DISTRACT
-→ designed distraction
-CONTENT USED BECAUSE IT DISTRACTS
-→ opportunistic distraction
-CONTENT DISTRACTS BECAUSE THE ENVIRONMENT REWARDS IT
-→ emergent distraction
+A strategically coherent information effect does not prove central coordination.
 
-* Then:
-    * Do not infer the first merely because you can observe the third.
-* And:
-    * Do not rule out the second merely because the content predates the inconvenient event.
+These are complementary rules.
 
-</div>
-<div>
+One prevents us from ignoring distributed systems because no mastermind appears.
+
+The other prevents us from inventing a mastermind because the distributed system looks coherent.
+
+⸻
+
+🔦 Follow the quieter story
+
+When a spectacular information object appears beside a slower infrastructure story, ask:
+
+* What were we examining immediately before this appeared?
+* What questions had just become available?
+* Which story is cheaper to understand?
+* Which produces better images?
+* Which generates immediate partisan argument?
+* Which requires specialist expertise?
+* Which requires documents rather than clips?
+* Which requires attribution rather than condemnation?
+* Which requires waiting?
+* Has the spectacular object changed the evidence?
+* Or has it changed what everybody is looking at?
+
+Then keep one thread attached to the quieter story.
+
+This is not proof that somebody designed a diversion.
+
+It is simply good information hygiene.
+
+⸻
+
+🖤 But representation itself has a history
+
+There is a further problem.
+
+The information environment does not begin every morning from zero.
+
+Images accumulate histories.
+
+Categories accumulate histories.
+
+Words accumulate histories.
+
+Communities remember what has been said about them.
+
+That matters when analysing dehumanisation.
+
+The answer to hostile representation is not always:
+
+reject the image and become invisible.
+
+Sometimes the represented community seizes the image.
+
+Sometimes it exaggerates it.
+
+Sometimes it puts the image on.
+
+Sometimes it dances in it.
+
+⸻
+
+⛓️ Jab Jab — The imposed monster is not necessarily yours to keep
+
+A contemporary British example is Jab Jab at Notting Hill Carnival.
+
+Patta describes Notting Hill Carnival as rooted in West Indian solidarity, resistance and celebration, and describes J’Ouvert as part of a tradition involving mockery and reclamation from slave masters.
+
+It identifies Grenadian Jab Jab as a living diasporic practice involving:
+
+* blackened bodies;
+* horns;
+* chains;
+* and deliberately provocative imagery.
+
+Grenadians in London continue that tradition at Notting Hill.
+
+BLAM UK makes the representational argument even more explicit.
+
+Its account describes “Jab” — devil — as an imposed colonial category that was deliberately reclaimed.
+
+The mechanism it describes is beautifully simple:
+
+YOU CALL US DEVILS
+↓
+WE TAKE THE DEVIL
+↓
+WE AMPLIFY THE IMAGE
+↓
+WE PERFORM IT OURSELVES
+↓
+YOUR CATEGORY STOPS BELONGING ONLY TO YOU
+
+This is not passive representation.
+
+It is counter-authorship.
+
+⸻
+
+🎭 Who gets to explain the monster?
+
+Compare the information relationships.
+
+Dehumanising propaganda
+
+POWERFUL ACTOR
+↓
+REPRESENTS OTHER PEOPLE
+↓
+ASSIGNS CATEGORY
+↓
+ASSIGNS MEANING
+↓
+CIRCULATES IMAGE
+↓
+AUDIENCE INVITED TO ACCEPT INTERPRETATION
+
+Resistant masquerade
+
+HOSTILE CATEGORY ALREADY EXISTS
+↓
+TARGETED COMMUNITY SEIZES IT
+↓
+PERFORMS / EXAGGERATES / TRANSFORMS IT
+↓
+SUPPLIES ITS OWN CONTEXT
+↓
+ORIGINAL INTERPRETIVE AUTHORITY DESTABILISED
+
+The important distinction is not:
+
+BAD IMAGE
+versus
+GOOD IMAGE
+
+It is:
+
+WHO MADE THE REPRESENTATION?
+WHO SUPPLIES ITS HISTORY?
+WHO GETS TO DEFINE WHAT THE BODY MEANS?
+
+⸻
+
+🇬🇧 Jab Jab is not an antique example
+
+This matters because Jab Jab is not being retrieved from a museum case for rhetorical convenience.
+
+Patta describes its continuing London practice.
+
+British GQ’s 2026 Carnival coverage documents Grenadian Jab Jabs moving through contemporary Notting Hill Carnival.
+
+The Financial Times’ 60th-anniversary history of Carnival similarly places masquerade and “playing mas” within histories of resistance, satire and cultural survival.
+
+The practice is alive.
+
+The argument is alive.
+
+And, unfortunately, so are many of the representational conditions that make the argument intelligible.
+
+⸻
+
+🚓 The information environment around Carnival matters too
+
+Notting Hill Carnival is one of Europe’s largest public festivals.
+
+The Metropolitan Police described the mood during the 2026 event as overwhelmingly positive and celebratory, while also reporting arrests and deploying substantial policing infrastructure.
+
+ITV’s post-event headline simultaneously demonstrates the tension:
+
+Carnival passed “largely without incident” — despite hundreds of arrests.
+
+The arrests are real.
+
+Serious offences should not be erased.
+
+But the representational question remains:
+
+What becomes the recurring informational shorthand for the event?
+
+For a huge public gathering, arrest numbers are one possible fact.
+
+So are:
+
+* attendance;
+* music;
+* costume;
+* family participation;
+* economic activity;
+* diasporic history;
+* artistic production;
+* food;
+* sound systems;
+* intergenerational transmission;
+* and the fact that most attendees went home without committing a crime.
+
+Selection produces meaning.
+
+If year after year the dominant external frame becomes:
+
+BLACK PUBLIC GATHERING
+↓
+POLICE
+↓
+ARRESTS
+↓
+DANGER
+
+then the information environment does more than report individual offences.
+
+It reproduces an association.
+
+⸻
+
+🧿 Black presence as a question requiring explanation
+
+This is where another apparently separate 2026 media story becomes relevant.
+
+The Spectator published sustained criticism of Professor Jason Arday and Cambridge.
+
+Its 8 August leading article, Cambridge has fallen, treated the controversy around Arday as evidence of wider institutional decline.
+
+Arday subsequently died.
+
+His death is now the subject of an open coroner’s investigation.
+
+On 26 August, senior coroner Dr Julian Morris said that reports gave him reason to suspect an unnatural death and therefore required him to open an investigation.
+
+That is a procedural and evidentiary statement.
+
+It is not a finding that:
+
+* Cambridge caused Arday’s death;
+* journalists caused Arday’s death;
+* any individual caused Arday’s death;
+* his death was unlawful;
+* or a particular causal account has been established.
+
+The inquest remains ongoing.
+
+Keep the arrow empty.
+
+⸻
+
+⚖️ The coroner is still asking the question
+
+That makes the surrounding information environment unusually sensitive.
+
+The responsible formulation is:
+
+ARDAY WAS SUBJECT TO INTENSE PUBLIC SCRUTINY
+↓
+ARDAY DIED
+↓
+CORONER HAS OPENED INVESTIGATION
+↓
+CAUSE / RESPONSIBILITY REMAIN TO BE ESTABLISHED
+
+Not:
+
+SCRUTINY
+↓
+CAUSED DEATH
+
+Not:
+
+CAMBRIDGE
+↓
+CAUSED DEATH
+
+Not:
+
+PRESS
+↓
+CAUSED DEATH
+
+The whole point of an inquest is that facts which remain unresolved should not be converted into confident narrative because the narrative feels politically satisfying.
+
+That standard applies to everybody.
+
+⸻
+
+📰 Then the target set widens
+
+On 31 August, while that coronial process remained open, the Spectator published Andrew Gilligan’s:
+
+Simon Woolley is not fit to lead a Cambridge college.
+
+Woolley is another prominent Black British figure embedded in Cambridge institutional life: a peer and principal of Homerton College.
+
+Gilligan’s article explicitly connects Woolley to Arday.
+
+It opens by attacking Woolley’s rhetoric about Arday’s death and then argues that Woolley’s conduct is evidence that “unsuitable appointments at Cambridge did not begin with Jason Arday.”
+
+The article therefore does not merely happen to criticise another Black Cambridge figure in the same week.
+
+It makes the connection itself.
+
+The editorial frame expands:
+
+QUESTIONS ABOUT ARDAY
+↓
+QUESTIONS ABOUT CAMBRIDGE
+↓
+QUESTIONS ABOUT WOOLLEY
+↓
+QUESTIONS ABOUT WHETHER ANOTHER
+PROMINENT BLACK FIGURE BELONGS
+IN CAMBRIDGE LEADERSHIP
+
+Individual criticisms can be examined on their merits.
+
+But information environments also accumulate patterns.
+
+⸻
+
+📻 Editorial memory matters
+
+Gilligan’s authorship adds a further layer.
+
+Andrew Gilligan was the BBC journalist whose 2003 Today programme reporting, based substantially on information from weapons expert Dr David Kelly, triggered the enormous dispute between the BBC and the Blair government over the Iraq weapons dossier.
+
+Kelly was subsequently publicly identified.
+
+He later died.
+
+The Hutton inquiry examined the surrounding sequence in extraordinary detail.
+
+Gilligan gave evidence.
+
+During the inquiry he acknowledged errors in his reporting and said that on one occasion he had not reported Kelly’s words as carefully and accurately as he should have.
+
+Hutton ultimately rejected important parts of Gilligan’s original reporting.
+
+This history does not establish that Gilligan caused Kelly’s death.
+
+It does not disqualify Gilligan from journalism.
+
+It does not make the Kelly and Arday cases equivalent.
+
+It does, however, make editorial judgment a legitimate question.
+
+A journalist who has personally occupied such a consequential position in a British inquiry involving:
+
+* source handling;
+* press reporting;
+* institutional confrontation;
+* public identification;
+* intense scrutiny;
+* and a subsequent death
+
+is not an editor’s context-free choice for an aggressively personalised intervention into another controversy surrounding a recently deceased academic while the coroner is still establishing the facts.
+
+That is not a causal accusation.
+
+It is an editorial observation.
+
+History is information too.
+
+⸻
+
+🧱 One article is not the whole environment
+
+The argument here is not:
+
+WHITE JOURNALIST
++
+BLACK SUBJECT
+=
+RACISM
+
+That would be analytically useless.
+
+Nor is it:
+
+CRITICISM OF BLACK PUBLIC FIGURE
+=
+DEHUMANISATION
+
+Also useless.
+
+The question is cumulative.
+
+What happens when a media environment repeatedly asks variations of:
+
+* Does this Black academic really deserve his position?
+* Was this Black achievement really earned?
+* Is this Black institutional presence legitimate?
+* Is this Black political leader suitable?
+* Is this Black crowd dangerous?
+* Is this Black festival disorderly?
+* Is this Black cultural expression threatening?
+* Why are these people here?
+
+Each individual story may contain facts.
+
+Each may possess its own editorial rationale.
+
+But repeated selection can still produce a broader informational grammar:
+
+BLACK PRESENCE
+↓
+SCRUTINY OF LEGITIMACY
+
+That grammar has history.
+
+And people living inside it can read it.
+
+⸻
+
+🖤 You cannot keep making the devil and complain when the devil dances
+
+This is where Jab Jab stops being a decorative cultural aside and becomes analytically devastating.
+
+A society does not get to spend centuries producing racialised categories of:
+
+* savagery;
+* danger;
+* wildness;
+* disorder;
+* devilry;
+* criminality;
+* illegitimate presence
+
+and then act astonished when descendants of the people placed inside those categories inherit the image, seize it, invert it and laugh.
+
+BLAM describes exactly that representational move.
+
+The devil is imposed.
+
+The devil is seized.
+
+The devil is exaggerated.
+
+The devil becomes theatre.
+
+The chains become props.
+
+The body that was supposed to signify degradation becomes deliberately spectacular.
+
+And the original insult starts looking rather stupid.
+
+⸻
+
+🔁 Hostile interpretation can renew resistant meaning
+
+There is a particularly vicious irony here.
+
+Imagine an observer who encounters Jab Jab without understanding its history and reacts:
+
+Look at these frightening Black men dressed as devils.
+
+The observer thinks they are describing the performance.
+
+Instead, they may be reproducing the category the performance exists to ridicule.
+
+That creates a cultural recursion:
+
+RACIALISED DEMONISATION
+↓
+RESISTANT CULTURE RECLAIMS DEMONIC IMAGE
+↓
+HOSTILE OBSERVER SEES RECLAIMED IMAGE
+↓
+HOSTILE OBSERVER REPEATS DEMONISING FRAME
+↓
+RECLAIMED IMAGE REMAINS LEGIBLE
+
+The hostile interpretation supplies fresh evidence for the continued cultural usefulness of the resistant form.
+
+Every fresh cry of:
+
+Devil!
+
+makes Jab Jab slightly more contemporary.
+
+⸻
+
+🪩 Reclamation can also be fun
+
+There is another feature of this that sterile political analysis often misses.
+
+Resistance does not have to remain miserable in order to count as resistance.
+
+Communities can turn imposed categories into:
+
+* music;
+* costume;
+* dance;
+* satire;
+* pleasure;
+* spectacle;
+* memory;
+* flirting;
+* family tradition;
+* street theatre;
+* and an excellent Bank Holiday.
+
+That matters.
+
+An oppressor may control the original insult.
+
+They do not automatically control its descendants.
+
+Sometimes historical survival looks like an archive.
+
+Sometimes it looks like a court judgment.
+
+Sometimes it looks like thousands of people dancing behind a sound system.
+
+⸻
+
+🧠 The information-environment lesson
+
+This returns us to the same question raised by Ben-Gvir’s propaganda.
+
+The problem is not simply whether bodies are visible.
+
+The problem is who gets to explain them.
+
+Ben-Gvir’s propaganda
+
+POWER
+↓
+CREATES IMAGE OF PALESTINIAN BODY
+↓
+SUPPLIES MEANING
+↓
+BODY BECOMES JUSTIFICATION
+
+Racialised coverage
+
+INSTITUTION / MEDIA
+↓
+SELECTS PARTICULAR FEATURES OF BLACK PUBLIC LIFE
+↓
+REPETITION CREATES ASSOCIATION
+↓
+ASSOCIATION BECOMES DEFAULT FRAME
+
+Jab Jab
+
+COMMUNITY
+↓
+INHERITS HOSTILE IMAGE
+↓
+SEIZES IMAGE
+↓
+SUPPLIES OWN HISTORY
+↓
+PERFORMS OWN MEANING
+
+The body is not inherently emancipatory.
+
+The body is not inherently dehumanising.
+
+The information relationship matters.
+
+⸻
+
+🧿 Representation has ownership problems
+
+This suggests four questions for any politically charged representation:
+
+1. WHO IS REPRESENTING?
+2. WHO IS BEING REPRESENTED?
+3. WHO SUPPLIES THE INTERPRETIVE FRAME?
+4. CAN THE REPRESENTED PEOPLE CONTEST,
+   REWRITE OR REFUSE THAT FRAME?
+
+A fifth follows:
+
+5. WHICH VERSION HAS THE GREATER
+   DISTRIBUTION INFRASTRUCTURE?
+
+Because authorship without reach can still lose to propaganda with a budget.
+
+⸻
+
+🧨 Dehumanisation is not informationally free
+
+Dehumanising rhetoric has downstream costs.
+
+It can:
+
+* narrow the range of imaginable policy;
+* make punitive treatment emotionally cheaper;
+* turn structural conditions into personal defects;
+* make groups appear interchangeable;
+* encourage audiences to process populations as categories rather than people;
+* make cruelty easier to narrate as correction;
+* and create cultural forms of resistance that outlive the original propagandist.
+
+The propagandist does not get to control every downstream interpretation.
+
+That is part of the risk.
+
+If you manufacture monsters, the represented people may eventually inherit the costume.
+
+And once they do, you may no longer own what the monster means.
+
+⸻
+
+🌊 The deeper distraction
+
+There is one more scale change.
+
+Ben-Gvir’s individual videos invite endless debate about:
+
+* his personality;
+* his rhetoric;
+* his taste;
+* his offensiveness;
+* his extremism;
+* his electoral incentives.
+
+Those questions are legitimate.
+
+But they can themselves become another layer of distraction.
+
+Because the larger question is not:
+
+Why is this particular man saying something grotesque today?
+
+It is:
+
+What political, legal, economic and international conditions make the underlying conduct possible, rewarding or sustainable?
+
+Likewise, the ultimate question about Palestinian deprivation is not whether one politician’s representation of Palestinian bodies is accurate.
+
+The body is not the explanation.
+
+And the ultimate question about mass atrocity is not whether every individual piece of propaganda can be perfectly categorised.
+
+The policy question is larger:
+
+What can actually stop the destruction, deprivation and killing, and what changes the incentives of the institutions capable of continuing them?
+
+An outrage machine can consume infinite attention while the underlying machinery keeps operating.
+
+⸻
+
+🧭 From outrage to leverage
+
+That produces a useful analytical discipline.
+
+When encountering spectacular dehumanising propaganda:
+
+First
+
+Document it.
+
+Second
+
+Identify what claim it is making.
+
+Third
+
+Debunk factual distortions where necessary.
+
+Fourth
+
+Identify the material system hidden by the representation.
+
+Fifth
+
+Ask what infrastructure amplified the propaganda.
+
+Sixth
+
+Ask what other information object lost attention when this one became salient.
+
+Seventh
+
+Return to leverage.
+
+WHAT POLICY ENABLES THIS?
+WHAT MONEY ENABLES THIS?
+WHAT INSTITUTION ENABLES THIS?
+WHAT LAW ENABLES THIS?
+WHAT PLATFORM ENABLES THIS?
+WHAT INTERNATIONAL RELATIONSHIP ENABLES THIS?
+WHAT INCENTIVE REWARDS THIS?
+WHAT WOULD MAKE CONTINUATION MORE COSTLY?
+
+Do not allow disgust to become the endpoint.
+
+Outrage is information.
+
+It is not strategy.
+
+⸻
+
+🪿 Information environments do not merely contain stories
+
+An information environment determines:
+
+* what becomes visible;
+* what becomes prominent;
+* what becomes searchable;
+* what becomes retrievable;
+* what becomes believable;
+* what becomes emotionally cheap;
+* what requires expertise;
+* what receives imagery;
+* what receives context;
+* what is remembered;
+* what is forgotten;
+* and what gets displaced by the next object.
+
+Therefore the most important information object is not always the loudest one.
+
+Sometimes the loud object exists because somebody designed it to distract.
+
+Sometimes somebody discovers that it is useful as a distraction.
+
+Sometimes nobody designs the distraction at all.
+
+The environment does the work.
+
+⸻
+
+🧰 Distraction taxonomy
+
+CONTENT CREATED TO REDIRECT ATTENTION
+→ DESIGNED DISTRACTION
+EXISTING CONTENT DEPLOYED / EXPLOITED
+BECAUSE REDIRECTION IS USEFUL
+→ OPPORTUNISTIC DISTRACTION
+CONTENT ABSORBS ATTENTION BECAUSE
+THE INFORMATION ENVIRONMENT REWARDS
+SALIENCE, SIMPLICITY OR OUTRAGE
+→ EMERGENT DISTRACTION
+
+Never infer the first merely because the third can be observed.
+
+Never rule out the second merely because the content existed beforehand.
+
+⸻
+
+🧪 Evidence ladder
+
+When evaluating a possible distraction:
+
+LEVEL 1
+Content exists.
+LEVEL 2
+Content is salient.
+LEVEL 3
+Attention measurably shifts.
+LEVEL 4
+Actor benefits from the shift.
+LEVEL 5
+Actor recognises the benefit.
+LEVEL 6
+Actor deliberately exploits the shift.
+LEVEL 7
+Actor planned the content for that purpose.
+
+Do not jump from:
+
+LEVEL 2
+
+to:
+
+LEVEL 7
+
+because the timing feels suspicious.
+
+But do not pretend:
+
+LEVEL 3–6
+
+are analytically meaningless merely because Level 7 cannot be proven.
+
+⸻
+
+🔦 Follow-the-quieter-story protocol
+
+When outrage erupts:
+
+1. RECORD THE OUTRAGE OBJECT.
+2. IDENTIFY ITS CLAIM.
+3. IDENTIFY ITS SOURCE.
+4. IDENTIFY ITS DISTRIBUTION PATH.
+5. CHECK WHAT STORY PRECEDED IT.
+6. CHECK WHETHER THAT STORY REQUIRED
+   SLOWER INVESTIGATION.
+7. PRESERVE THE EARLIER QUESTION.
+8. DO NOT INFER INTENT WITHOUT EVIDENCE.
+9. DO NOT LET ABSENCE OF PROVEN INTENT
+   ERASE OBSERVABLE ATTENTION EFFECTS.
+10. RETURN TO THE SYSTEM,
+    NOT JUST THE SPECTACLE.
+
+⸻
+
+🧿 What this node does not claim
+
+This node does not claim that:
+
+* Ben-Gvir created the 31 August AI video to distract from Ceuta;
+* Ben-Gvir operated the Israel-linked networks alleged by Sánchez;
+* the Israeli government caused the Ceuta crossing;
+* Russia caused the Ceuta crossing;
+* Russia and Israel coordinated around Ceuta;
+* migrant peer-to-peer communication was a foreign influence operation;
+* Piro, Havas, LaPam or the Hanover Institute project participated in Ceuta;
+* American technology companies participated in the alleged Ceuta operation;
+* every politically useful attention shift is deliberately engineered;
+* every coherent information effect has a mastermind;
+* every criticism of a Black public figure is racist;
+* every report of crime at Notting Hill Carnival is racialised;
+* criticism of Jason Arday or Simon Woolley is inherently illegitimate;
+* Andrew Gilligan caused David Kelly’s death;
+* Andrew Gilligan, the Spectator, Cambridge or any other identified person or institution caused Jason Arday’s death;
+* the ongoing Arday inquest has established such causation;
+* Palestinian, Caribbean, Jewish, Roma, migrant and Black British histories are equivalent;
+* Jab Jab exists merely as a response to contemporary British media;
+* or resistant representation automatically defeats hostile representation.
+
+⸻
+
+🧿 What the evidence does support
+
+The source set supports the narrower propositions that:
+
+* misleading information circulated around the Ceuta crossings;
+* successful crossings themselves became new information capable of affecting subsequent decisions;
+* migrant peer networks participated in information exchange;
+* material border conditions also mattered;
+* Russia-linked networks amplified far-right narratives after the crisis began;
+* standing amplification infrastructure is a significant concern independent of the origin of the Ceuta event;
+* Sánchez subsequently alleged Russia-linked and Israel-linked disinformation;
+* the publicly reported evidentiary basis for the Israeli attribution remains less developed than the documented Russia-linked amplification;
+* separate contemporary reporting establishes Israeli-government-funded transnational communications and AI-influence activity, without establishing a Ceuta connection;
+* Ben-Gvir had an already-running campaign using deprivation and punitive spectacle involving Palestinian prisoners before 31 August;
+* the 31 August AI video therefore cannot responsibly be treated as proven bespoke Ceuta diversion;
+* existing propaganda can nevertheless become opportunistically or emergently useful in another information context;
+* contemporary Palestinian food insecurity is extensively documented;
+* Palestinian food sovereignty literature places food access within wider systems of land, water, movement, markets and political economy;
+* Jab Jab remains a living Caribbean and Black British cultural practice;
+* contemporary Black British sources explicitly understand Jab Jab as reclamation of imposed colonial demonisation;
+* Notting Hill Carnival remains simultaneously a mass cultural event and an object of intensive policing and crime-focused media representation;
+* Jason Arday’s death is currently subject to an open coronial investigation;
+* causal responsibility for that death should therefore not be invented;
+* the Spectator subsequently published an Andrew Gilligan article attacking Simon Woolley’s fitness to lead Homerton College and explicitly connecting Woolley to Arday;
+* Gilligan’s documented history in the Kelly/Hutton sequence makes the editorial choice contextually notable without establishing any causal analogy between the deaths.
+
+⸻
+
+🖤 Closing — You do not own the monster forever
+
+The information environment remembers.
+
+It remembers:
+
+* which bodies were made suspicious;
+* which crowds were made threatening;
+* which people were asked to prove they belonged;
+* which populations were represented as excessive;
+* which people were reduced to appetite;
+* which people were reduced to invasion;
+* which people were reduced to criminality;
+* which people were called devils.
+
+Those categories do not simply disappear when the newspaper is recycled or the post leaves the timeline.
+
+People remember them too.
+
+Sometimes they document them.
+
+Sometimes they organise against them.
+
+Sometimes they build counter-institutions.
+
+Sometimes they reclaim the word.
+
+Sometimes they put horns on.
+
+Sometimes they cover themselves in black paint.
+
+Sometimes they pick up the chains.
+
+Sometimes they turn the sound system up.
+
+And sometimes the descendants of people you tried to dehumanise laugh at the category in the streets where they now live.
+
+That is not a failure of historical memory.
+
+It is historical memory functioning perfectly well.
+
+If you keep supplying the monster, you cannot complain when the people you tried to put inside it inherit the costume, change its meaning, and laugh at you.
+
+And that returns us to the central information question.
+
+Not:
+
+What does the body look like?
+
+Not:
+
+What outrageous thing did somebody post today?
+
+Not even:
+
+Who is the monster?
+
+But:
+
+Who got to construct the representation, who supplied its meaning, what infrastructure made that meaning travel — and what disappeared from view while everybody was looking?
+
+⸻
+
+📚 Sources
+
+Ceuta — migration, rumours and the information environment
+
+* El País: “Los bulos que propiciaron la avalancha migratoria hacia Ceuta: ‘La puerta está abierta’”
+* Euronews: “EU coordinates fact-checkers with Meta and TikTok to avoid another online-fuelled Ceuta crisis”
+* The Guardian: “Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds”
+* The Guardian: “Morocco not to blame for Ceuta border breach, says Spanish PM”
+* Reuters: “Spanish PM blames Russia, Israel for disinformation in Ceuta migrant crisis”
+* Financial Times: “Spain’s Sánchez accuses Russia and Israel of inflaming migrant crisis”
+* Al Jazeera: “Spain’s Sanchez says Russia, Israel spread disinformation on Ceuta crisis”
+
+Israeli information infrastructure — contextual, no demonstrated Ceuta connection
+
+* The Guardian: “Fake US thinktank set up and funded by Israel sought to game AI for propaganda”
+* The Jerusalem Post: “US filings detail Israeli government-linked $1 million media campaign targeting Americans”
+
+Ben-Gvir — deprivation and punitive spectacle
+
+* Al Jazeera: “Ben-Gvir posts AI video of starving Palestinian ahead of elections”
+* The Guardian: “Israel’s Ben-Gvir posts video of gallows site for hanging Palestinians”
+* Roya News: “Ben-Gvir posts then deletes AI video celebrating starvation of Palestinian detainees”
+* Yemen Press Agency: reporting on Ben-Gvir’s 31 August AI prisoner video
+
+Palestinian food access and food sovereignty
+
+* World Food Programme: “State of Palestine Emergency”
+* Visualizing Palestine: “Palestinian Food Sovereignty”
+* Al-Shabaka — Fathi Nimer: “Food Sovereignty in a Palestinian Economy of Resistance”
+
+Jab Jab, Carnival and reclamation
+
+* BLAM UK: “Debunking the Myth of the ‘Evil’ Jab Jab”
+* Patta — Nicolas-Tyrell Scott: “The context and meaning of Notting Hill Carnival”
+* British GQ: “For the guys at Notting Hill Carnival, it’s all about the big shorts”
+* Financial Times: “Sixty years of Notting Hill Carnival”
+* Metropolitan Police: “UPDATE: Notting Hill Carnival policing operation”
+* ITV News: “Police say Carnival passed ‘largely without incident’ – despite 636 arrests”
+
+Cambridge, Jason Arday and Simon Woolley
+
+* The Spectator: “Cambridge has fallen”
+* The Spectator — Andrew Gilligan: “Simon Woolley is not fit to lead a Cambridge college”
+* Associated Press: “Inquest opens into death of ex-Cambridge University professor Jason Arday”
+* The Guardian: “Ghent professors challenged expertise of Jason Arday’s plagiarism accuser”
+
+Andrew Gilligan, David Kelly and the Hutton inquiry
+
+* The Guardian: “Gilligan admits to ‘slip of the tongue’”
+* The Guardian: “Gilligan sorry for ‘outing’ Kelly”
+* The Guardian: “Gilligan accused over Kelly description”
+* The Guardian: “Gilligan: my mistakes”
+* The Guardian: “Hutton report: summary of conclusions”
+
+⸻
 
 🌌 Constellations
 
-* Suggested:
-    * 🕸️ 👾 🐙 🧿 🛣️
-* Themes:
-    * information environments;
-    * disinformation;
-    * distributed actors;
-    * observability;
-    * amplification infrastructure.
-* Cross-link:
-    * 🫒_the_body_is_not_the_explanation.md
-        * 🫒 asks what the propaganda hides inside its own explanatory frame;
-        * 👾 asks what scrutiny of the propaganda may cause the wider information environment to stop looking at.
-* Strong cross-links to existing:
-    * riding_every_wave;
-    * attribution / confidence-label material;
-    * operator_may_not_know_customer;
-    * many_threat_ecosystems;
-    * information-superhighway / amplification work where appropriate.
+👾 🕸️ 🐙 🖤 🧿 — disinformation infrastructure; attention displacement; opportunistic amplification; representational ownership; cultural reclamation.
 
-</div>
-<div>
+⸻
 
 ✨ Stardust
 
-* Suggested:
-    * disinformation, information environments, ceuta, spain, russia, israel, far right, amplification, attention, propaganda, attribution, opportunism, information infrastructure, migration
+information environments, disinformation, propaganda, attention, amplification, attribution, dehumanisation, representational ownership, ceuta, jab jab
 
-</div>
-<div>
+⸻
 
 🏮 Footer
 
-* Keep it framed as a reusable information-environment node:
-    * 👾 When Disinformation Obscures Disinformation examines how a spectacular information object can displace attention from investigation of the infrastructure through which information becomes consequential.
-    * The Ceuta case demonstrates why designed, opportunistic and emergent distraction must be distinguished: the same attention effect can arise through very different causal mechanisms.
-* Final line candidate:
-    * Sometimes the important question is not whether the monster was released to distract you. It is what you stopped examining when everybody turned to look at the monster.
+👾 When Disinformation Obscures Disinformation is a living node of the Polaris Protocol.
+It examines how spectacular information objects can displace attention from the slower infrastructure through which information becomes consequential, while preserving the distinction between designed diversion, opportunistic use and emergent attention effects. It also tracks the longer representational problem: information environments do not merely determine what people see, but who is permitted to supply the meaning of the people being seen.
 
-</div>
-<div>
+📡 Cross-references:
 
-📚 Source spine
+* 🫒 The Body Is Not the Explanation — how body-focused propaganda obscures the systems governing Palestinian food access and material conditions
+* 🕸️ Information Environments — parent cluster for circulation, provenance, prominence, discoverability and contextual information architecture
+* 🪿 Embodied Information Ecology — parent framework separating informational, embodied, observational and feedback mechanisms before testing their interfaces
 
-* The Guardian: “Morocco not to blame for Ceuta border breach, says Spanish PM”⁠￼
-* 31 August Sánchez statement;
-* Morocco attribution;
-* criminal-gang / Supreme Court rumour explanation;
-* allegation concerning Russia-, Israel- and international-far-right-associated accounts;
-* Israeli and Russian denials.
-* The Guardian: “Russia-linked accounts spread far-right narrative online during Ceuta migration crisis, analysis finds”⁠￼
-* 411 analysis;
-* approximately 4.5m posts examined;
-* organic peer-to-peer migrant logistics;
-* Russia-linked amplification;
-* Rybar;
-* Pravda-linked repeaters;
-* rapid multilingual amplification;
-* “information superhighway” / standing-relay-network concept.
-* Yemen Press Agency: “Following abuse of female detainees, Ben-Gvir posts AI video mocking Palestinian prisoner starvation”⁠￼
-* 31 August AI propaganda;
-* “We Promised and Delivered”;
-* progression toward emaciation;
-* relationship to preceding prison-condition publicity.
-* Roya News: “Ben-Gvir posts then deletes AI video celebrating starvation of Palestinian detainees”⁠￼
-* alternative reporting on the 31 August propaganda object and its deletion.
-* Al Jazeera: “Ben-Gvir posts AI video of starving Palestinian ahead of elections”⁠￼
-* 10 August precedent;
-* important for establishing that the AI-starvation propaganda campaign predates Sánchez’s 31 August allegation.
-* The Guardian: “Israel’s Ben-Gvir posts video of gallows site for hanging Palestinians”⁠￼
-* 20 August real-world punitive spectacle;
-* further evidence that the 31 August material belongs to an already-running communications pattern rather than appearing ex nihilo in response to Ceuta.
+Survivor authorship is sovereign. Containment is never neutral.
 
-</div>
-
-The scope guard here is particularly important: 👾 should not become “everything we know about Ceuta.” Ceuta is the teaching case. The reusable object is the distinction between designed distraction, opportunistic distraction and emergent distraction — and the investigative discipline required to keep looking at infrastructure when spectacle arrives.
-
-
-Yes. There is now enough independent legacy-media coverage to substantially strengthen 👾, and some of it improves the mechanism rather than merely duplicating the Guardian.
-
-The most useful find is that the Ceuta information story was being documented before Sánchez’s 31 August attribution, by Reuters, AP, El País, Le Monde and Euronews. That gives us a much firmer chronology.
-
-Strong additions for the Ceuta spine
-
-* Reuters, 31 July — “Social media rumours, economic hardship fuel migrant surge into Ceuta”
-    * This is extremely useful because it was written while the crossing was happening.
-    * Reuters interviewed a 16-year-old Moroccan who said he and his cousin decided to travel to Ceuta after seeing Instagram videos of successful crossings.
-    * It reports Spain’s claim that smugglers exploited the July Supreme Court judgment and explicitly separates:
-        * online rumours;
-        * migrant decision-making;
-        * economic conditions;
-        * uncertainty over Moroccan border enforcement.
-    * This gives 👾 contemporaneous evidence for information → embodied decision, without needing Sánchez’s later attribution claims.  
-    * Reuters: “Social media rumours, economic hardship fuel migrant surge into Ceuta”⁠￼
-* Reuters, 31 July — mass-crossing report
-    * Separate Reuters reporting documented the physical scale while events were ongoing: more than 49,000 had crossed by the time of publication and Spain said most were already returning.
-    * Useful for keeping the physical event chronology independent of later disinformation narratives.  
-    * Reuters: “Spain says migrants are returning from Ceuta after 57 die in border rush”⁠￼
-* AP Fact Focus — “Migrant crossing in Spain’s Ceuta breeds unsubstantiated claims”
-    * Very useful structurally because AP treated Ceuta specifically as a misinformation/fact-checking event, rather than only migration news.
-    * This gives us an independent major-wire basis for the claim that the crisis rapidly accumulated false or unsupported narratives about Spanish migration policy.  
-    * Associated Press: “Migrant crossing in Spain’s Ceuta breeds unsubstantiated claims”⁠￼
-* El País, 11 August — “Los bulos que propiciaron la avalancha migratoria hacia Ceuta: ‘La puerta está abierta’”
-    * This is probably one of the best additions.
-    * El País examined the specific misinformation environment:
-        * Instagram;
-        * TikTok;
-        * “the door is open” claims;
-        * distortion of the Spanish Supreme Court decision.
-    * It cites analysis by Moroccan computer engineer Maruán L. Alaui concluding that social-media falsehoods helped trigger the movement.
-    * It also preserves other physical variables — low tide and unusual Moroccan security-force inactivity — rather than turning the whole event into a single-cause “social media did it” story.  
-    * El País: “Los bulos que propiciaron la avalancha migratoria hacia Ceuta: ‘La puerta está abierta’”⁠￼
-
-That gives us a very strong pre-attribution sequence:
-
-31 July Reuters → 1 August Le Monde → 7 August Guardian/411 → 11 August El País → 31 August Sánchez/Reuters/FT/Le Monde/Euronews.
-
-Le Monde adds something particularly interesting
-
-Le Monde, 1 August was already treating the crossing as an event being immediately captured by an international reactionary information environment. It reports Italian and Spanish far-right exploitation, false claims by Italian foreign minister Antonio Tajani that Spain had granted citizenship to more than 500,000 irregular migrants, Trump attacking Spain’s migration policy, and Israeli officials including Ben-Gvir and UN ambassador Danny Danon publicly using Ceuta to attack Sánchez.  
-
-That is excellent for 👾 because it demonstrates that Ben-Gvir was already participating in the Ceuta attention environment on 1 August.
-
-Not secretly. Not inferentially.
-
-He publicly used the event to attack Sánchez, sarcastically suggesting Spain should take Gazans wishing to emigrate.  
-
-That creates a much more grounded bridge between the two strands:
-
-Ben-Gvir did not need to be part of whatever Sánchez later meant by “Israel-linked networks” for us to establish that he was already opportunistically using Ceuta as a political information object.
-
-That is materially stronger than our earlier argument.
-
-* Le Monde: “Afflux de migrants à Ceuta : l’Espagne face à une crise inédite et sous le feu de la droite mondiale”⁠￼
-
-Le Monde then covered Sánchez again on 31 August, including his dismissal of Moroccan-government responsibility.  
-
-Euronews gives us an actual intervention loop
-
-Euronews is useful beyond merely repeating Sánchez.
-
-* 4 August: it reported that viral social-media rumours about an open border had helped drive people towards Ceuta.  
-* 11 August: it reported that the EU was coordinating fact-checkers with Meta and TikTok specifically to prevent another online-fuelled Ceuta crisis.  
-* 31 August: it independently reported Sánchez’s Russia/Israel/international-far-right allegations.  
-
-That gives us something which belongs particularly well in the wider Embodied Information Ecology constellation:
-
-misinformation → people move → state/EU observes information effect → EU changes its information-governance response → platforms/fact-checkers become intervention infrastructure.
-
-That latter piece might eventually deserve a ♻️🧿 or ♻️🕸️ cross-link, even though 👾 itself stays 🕸️.
-
-Reuters and FT on the 31 August attribution are importantly different
-
-Reuters independently reports Sánchez accusing Russian- and Israeli-linked networks, alongside the far right, of disseminating misleading information around Ceuta. It attributes the investigative basis to the EEAS and records both Russian and Israeli denials.  
-
-* Reuters: “Spanish PM blames Russia, Israel for disinformation in Ceuta migrant crisis”⁠￼
-
-But the Financial Times is actually more valuable analytically, because it introduces a major evidentiary restraint. According to the FT:
-
-* the EU had identified Russian disinformation activity after the crisis began;
-* it had not established that Russia encouraged the original migration wave;
-* and it had not confirmed Israeli involvement;
-* Sánchez himself supplied no concrete public evidence for the Israel allegation in the remarks reported.  
-
-That is exactly what 👾 needs to stop itself collapsing amplification into causation.
-
-* Financial Times: “Spain’s Sánchez accuses Russia and Israel of inflaming migrant crisis”⁠￼
-
-I would therefore give FT a prominent little “attribution brake” box:
-
-Spanish political attribution is not identical to publicly demonstrated EU attribution.
-
-And there is a separate Israeli influence-infrastructure story immediately beforehand
-
-This one is potentially very useful, but we need a thick firewall around it:
-
-It is contextual evidence about available Israeli information-operation infrastructure. It is NOT evidence that the same infrastructure participated in Ceuta.
-
-On 26 August, the Guardian reported that an Israeli-government-funded influence campaign had created a purported US thinktank, the “Hanover Institute for Public Policy,” publishing enormous quantities of quasi-academic material designed partly to influence what AI chatbots return about Israel. The US firm Piro Inc registered the material under FARA as work distributed for the Israeli government. The wider contracting chain reportedly involved Havas Media and several US firms.  
-
-Some particularly relevant details:
-
-* 124 reports / more than 560,000 words in nine days;
-* content engineered to appear authoritative to AI systems;
-* Piro advertising “AI Story Optimization”;
-* contractual language concerning “GPT framing results”;
-* an Israeli-government funding/contracting chain involving third-party commercial firms;
-* US contractors working under foreign-agent registrations.  
-
-And this wasn’t only retrospectively surfaced by the Guardian. Jerusalem Post reported on 17 August that US Justice Department filings showed a $1m Israeli-government-linked media campaign targeting Americans, involving Piro, Havas Media Germany and Israel’s government advertising agency LaPam.  
-
-* Jerusalem Post: “US filings detail Israeli government-linked $1 million media campaign targeting Americans”⁠￼
-* The Guardian: “Fake US thinktank set up and funded by Israel sought to game AI for propaganda”⁠￼
-
-This substantially improves the 🇺🇸 awkward-commercial-layer section of 👾.
-
-We can now say, with evidence:
-
-Separate reporting immediately before Sánchez’s Ceuta allegation demonstrates that Israeli government information campaigns were already being implemented through multinational advertising and US commercial communications infrastructure.
-
-We cannot say:
-
-therefore those firms were the “Israel-linked networks” Sánchez meant.
-
-That second arrow remains completely unproven.
-
-But the contextual governance problem we were laughing about is suddenly not hypothetical at all:
-
-foreign government → European intermediary → US private communications firms → AI/search/social information environment
-
-is an independently documented structure.  
-
-🇺🇸 FIRST AMENDMENT has acquired footnotes.
-
-What I have not found
-
-I have not found Reuters or AP independently covering the specific 31 August Ben-Gvir conveyor-belt AI video in the searches so far. That strand remains better sourced through Roya, YPA and the earlier Al Jazeera/Guardian reporting demonstrating the broader August sequence.
-
-That’s fine for 👾 because Ben-Gvir’s clip is the attention object, not the evidentiary basis for the Ceuta attribution. I would avoid pretending it has the same legacy-media corroboration as the Ceuta story.
-
-Revised source architecture for 👾
-
-I’d now build its evidence in layers:
-
-A. Original crisis / rumours
-
-* Reuters, 31 July.
-* AP Fact Focus.
-* El País, 11 August.
-* Euronews, 4 August.
-
-B. Immediate political appropriation
-
-* Le Monde, 1 August.
-    * Particularly important because it already records:
-        * Trump;
-        * Meloni/Tajani;
-        * Ben-Gvir;
-        * Danny Danon
-        * using Ceuta politically.
-
-C. Russian amplification
-
-* Guardian/411, 7 August.
-    * 4.5m-post analysis;
-    * Rybar;
-    * Pravda;
-    * multilingual relay infrastructure.
-
-D. Information-governance response
-
-* Euronews, 11 August.
-    * EU + Meta + TikTok fact-check coordination.
-
-E. Israeli influence infrastructure — context, NOT Ceuta attribution
-
-* Jerusalem Post, 17 August.
-* Guardian, 26 August.
-    * FARA;
-    * Piro;
-    * Havas;
-    * LaPam;
-    * AI/GPT framing.
-    * Explicit firewall: no demonstrated Ceuta connection.
-
-F. Sánchez attribution
-
-* Guardian, 31 August.
-* Reuters, 31 August.
-* Le Monde, 31 August.
-* Euronews, 31 August.
-* FT, 31 August.
-
-G. Attribution brake
-
-* FT especially:
-    * Russia post-event amplification supported;
-    * original-wave causation unsupported;
-    * Israeli component not independently confirmed by the EU evidence reported publicly.  
-
-And there is one conceptual upgrade I would absolutely make to the planned node now.
-
-We had:
-
-an already-running outrage machine can supply distraction exactly when another story becomes inconvenient.
-
-We can now add:
-
-The Ceuta crisis itself had already become a shared political information object before the later attribution dispute: international far-right figures, Trump officials and Israeli officials were publicly competing to define what Ceuta meant almost immediately after the crossing.
-
-That makes 👾 much less speculative. The opportunism is observable before we ever reach 31 August.  
-
-And that, frankly, is a much better node.
+Last updated: 2026-09-01
