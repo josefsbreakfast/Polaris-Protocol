@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-01 13:25:51 UTC_
+_Generated on 2026-09-01 14:30:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3942,6 +3942,8 @@ _Generated on 2026-09-01 13:25:51 UTC_
       - [**🤑_Hot_Money_Politics/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤑_Hot_Money_Politics/)
         - [`hot_money_politics_cluster_skeleton_and_remits.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤑_Hot_Money_Politics/hot_money_politics_cluster_skeleton_and_remits.txt)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🤑_Hot_Money_Politics/notes.txt)
+      - [**🥀_Weedkiller_For_LDHs/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🥀_Weedkiller_For_LDHs/)
+        - [`notes.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🥀_Weedkiller_For_LDHs/notes.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/README.md)
     - [**💌_Visible_Ink/**](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/README.md)
