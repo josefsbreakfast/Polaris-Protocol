@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-01 21:13:58 UTC_
+_Generated on 2026-09-01 22:51:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -179,6 +179,7 @@ _Generated on 2026-09-01 21:13:58 UTC_
       - [`🪺_not_every_boundary_is_a_cage.md`](🌑_1_Origin_Points/🌸_Containment_Studies/🪨_Containment_Infrastructures/🪺_not_every_boundary_is_a_cage.md)
     - [`README.md`](🌑_1_Origin_Points/🌸_Containment_Studies/README.md)
   - [**🍌_Why_Kafka/**](🌑_1_Origin_Points/🍌_Why_Kafka/)
+    - [`☔_on_the_confederacy_of_uncles.md`](🌑_1_Origin_Points/🍌_Why_Kafka/☔_on_the_confederacy_of_uncles.md)
     - [`♻️_why_the_cycle_of_violence_is_repetitive.md`](🌑_1_Origin_Points/🍌_Why_Kafka/♻️_why_the_cycle_of_violence_is_repetitive.md)
     - [`🍳_why_josefs_breakfast.md`](🌑_1_Origin_Points/🍌_Why_Kafka/🍳_why_josefs_breakfast.md)
     - [`🏢_when_the_court_is_hidden_in_the_apartment_block.md`](🌑_1_Origin_Points/🍌_Why_Kafka/🏢_when_the_court_is_hidden_in_the_apartment_block.md)
