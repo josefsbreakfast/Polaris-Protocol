@@ -46,7 +46,7 @@ Daddy has to show his working.
 
 ---
 
-## ♻️ The Cybernetic Problem
+## ♻️ The Basic Cybernetic Problem
 
 A protest movement is an information system.
 
@@ -185,7 +185,7 @@ Arrests.
 
 Incident records.
 
-Vehicle information where lawfully available.
+Vehicle information where lawfully available. (Or, simply, available with minimal challenge.). 
 
 Public-order intelligence.
 
@@ -561,7 +561,7 @@ Participants cannot necessarily tell which is which.
 
 And that produces a powerful behavioural phenomenon:
 
-# nobody knows where the perimeter is.
+**nobody actually knows where the perimeter is.**  
 
 People stop attending particular meetings.
 
@@ -631,7 +631,7 @@ Participants modify themselves.
 
 ---
 
-## 🧢 Big Daddy Has a Comparator Problem
+## 🧢 Oh, No! Big Daddy Has a Comparator Problem
 
 And here is where the thought experiment stops being comfortable.
 
@@ -1139,7 +1139,7 @@ It is a demand that policy account for ecological effects rather than modelling 
 
 ## 🕷️ State-Created Vulnerability, Third-Party Exploitation
 
-There is another layer between ordinary containment and deliberate state Zersetzung.
+There is another layer between a more mundane, albeit distressing, version of digital containment, and deliberate digitally-led Zersetzung.
 
 Once a population becomes unusually:
 
