@@ -2907,6 +2907,10 @@ No cap. 🧢
 ## 🌌 Constellations  
 ♻️ 🪿 🧿 🕸️ 🧢 — cybernetics; embodied information ecology; classification feedback; comparative threat modelling; network containment; emergent control.  
 
+> “Why did you do it in *that* voice?”
+>
+> Life is survived by laughing.  
+
 ---
 
 ## ✨ Stardust  
