@@ -631,7 +631,7 @@ Participants modify themselves.
 
 ---
 
-## 🧢 Oh, No! Big Daddy Has a Comparator Problem
+## 👀 Oh, No! Big Daddy Has a Comparator Problem
 
 And here is where the thought experiment stops being comfortable.
 
@@ -982,7 +982,7 @@ It may be an operational-design failure before it.
 
 ---
 
-## 📡 External Lead: Hypothesis, Not Finding
+## 🦅 External Lead: Hypothesis, Not Finding
 
 One possible explanation for an apparently poor fit between a strategy and the domestic legitimacy environment is that significant strategic pressure originated outside the institution ultimately implementing it.
 
@@ -1190,7 +1190,7 @@ The resulting experience can be coherent, cumulative and absolutely fucking horr
 
 ---
 
-## 🕵️ CHIS Governance and the Agent X Warning
+## ⚖️ CHIS Governance and the Agent X Warning
 
 Human intelligence makes this problem even more uncomfortable.
 
@@ -1419,7 +1419,7 @@ The designer may genuinely have little experiential access to the failure mode.
 
 ---
 
-## 📹 Flock and the Terrorism Category Error
+## 🐦‍⬛ Flock and the Terrorism Category Error
 
 The Flock Safety controversy provides a useful small-scale example of how system-builders can begin to experience opposition to their system as opposition to safety itself.
 
@@ -1518,7 +1518,7 @@ When those categories collapse, the system begins treating criticism of its mean
 
 ---
 
-## 🚦The Public Is an Error Signal
+## 🚦 The Public Is an Error Signal
 
 The wider Flock debate also demonstrates why public opposition cannot simply be classified as irrational resistance to useful technology.
 
@@ -1717,7 +1717,7 @@ The permanent question is:
 And the moment institutions become unwilling to hear that question, the error signal has already begun to fail.
 
 
-## 👉👈🥺 Big Daddy’s Big Scary Whiteboard
+## 📊🥺 Big Daddy’s Big Scary Whiteboard
 
 The maximum-pressure model now looks like this:
 
@@ -1833,9 +1833,6 @@ This is **control without a single controller**.
 Which is considerably more cybernetic than conspiracy.
 
 ---
-
-
-
 
 ## 📚 Arendt: Momentum Looks Different From Inside the Control Room
 
@@ -1972,7 +1969,7 @@ The political mistake begins when the people experiencing **capability** assume 
 
 ---
 
-## ♻️ Arendt Meets Zuboff
+## 🚀 Arendt Meets Zuboff
 
 This is where Arendt and Zuboff become more useful together than separately.
 
@@ -2044,7 +2041,7 @@ That is the conceptual bridge.
 
 ---
 
-## 🗺️ China, Big Brother and the Comparator Test
+## 🇨🇳 China, Big Brother and the Comparator Test
 
 The China comparison needs the same discipline as every other comparator in this node.
 
@@ -2148,7 +2145,7 @@ If ordinary political participation becomes increasingly constrained through sur
 
 ---
 
-## 🧢 The China-Hawk Consistency Test
+## 🦅 The China-Hawk Consistency Test
 
 This produces an especially useful challenge for people simultaneously arguing for:
 
@@ -2188,7 +2185,7 @@ It is elementary systems engineering.
 
 ---
 
-## 🪞 Can the System Tolerate Losing the Argument?
+## 🤔 Can the System Tolerate Losing the Argument?
 
 One particularly useful democratic test follows from Arendt's persuasion problem.
 
@@ -2241,11 +2238,13 @@ And perhaps the most important question in the entire node:
 
 There is a useful conceptual bridge here from Shoshana Zuboff.
 
-In her 2015 essay *Big Other: Surveillance Capitalism and the Prospects of an Information Civilization*, Zuboff names **Big Other** as the distributed architecture of computer mediation through which surveillance capitalism extracts, computes and acts upon behavioural information.[^zuboffbigother]
+In her 2015 essay *Big Other: Surveillance Capitalism and the Prospects of an Information Civilization*, Zuboff names **Big Other** as the distributed architecture of computer mediation through which surveillance capitalism extracts, computes and acts upon behavioural information.[^zuboffbigother].  
+
+This argument becomes the underpinning for *Chapter 13: Big Other and the Rise of Instrumentarian Power* in her 2019 work, *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*.  
 
 Her argument is economic rather than national-security institutional analysis, and the distinction matters.
 
-Zuboff is describing surveillance capitalism: an accumulation logic in which human experience is rendered into behavioural data, prediction and intervention.
+Zuboff is describing surveillance capitalism: an accumulation logic in which human experience is rendered into behavioural data, prediction, and intervention.
 
 Big Daddy NATO is a different thought experiment.
 
@@ -2257,7 +2256,7 @@ The digital apparatus is not merely a telescope pointed at human behaviour.
 
 It becomes part of the environment that can modify that behaviour.
 
-Her 2015 formulation describes Big Other as a global architecture built from computer mediation, producing mechanisms of extraction and control and markets in behavioural prediction and modification.[^zuboffbigother]
+Her formulation describes Big Other as a global architecture built from computer mediation, producing mechanisms of extraction and control and markets in behavioural prediction and modification.[^zuboffbigother]
 
 A short version of the conceptual move is:
 
@@ -2696,6 +2695,7 @@ It is attempting to regulate the target's **ability to perceive and navigate the
 
 That is why the evidential threshold for describing something as digital Zersetzung should be correspondingly high.
 
+---
 
 ## 🧿 Diagnostic Questions
 
@@ -2900,10 +2900,14 @@ No cap. 🧢
 [^floridaflock]: Reuters, “Florida bans highway license-plate readers as backlash over surveillance spreads,” 3 September 2026. Florida ordered the removal of automated licence-plate readers from state highways amid privacy and surveillance concerns.
 [^dallasflock]: Dallas Police Department, “Statement on Flock Camera Grant Funding,” 1 September 2026. DPD said 321 cameras supported through affected state grant funding would be cancelled effective 15 September while more than 300 would remain in operation.
 
-[^flock2025]: Thomas Brewster, *Forbes*, “AI Startup Flock Thinks It Can Eliminate All Crime In America,” 3 September 2025. The report describes DeFlock as a crowdsourced camera-mapping and organising project, then separately discusses vandalism, theft and threats by other anti-Flock actors. That separation is important: opposition to the same technology does not establish organisational responsibility for another actor's conduct.
+[^flock2025]: Thomas Brewster, *Forbes*, “AI Startup Flock Thinks It Can Eliminate All Crime In America,” 3 September 2025. The report describes DeFlock as a crowdsourced camera-mapping and organising project, then separately discusses vandalism, theft and threats by other anti-Flock actors. That separation is important: opposition to the same technology does not establish organisational responsibility for another actor's conduct.  
+
+—--
 
 ## 🌌 Constellations  
-♻️ 🪿 🧿 🕸️ 🧢 — cybernetics; embodied information ecology; classification feedback; comparative threat modelling; network containment; emergent control.
+♻️ 🪿 🧿 🕸️ 🧢 — cybernetics; embodied information ecology; classification feedback; comparative threat modelling; network containment; emergent control.  
+
+---
 
 ## ✨ Stardust  
 cybernetics, embodied information ecology, protest movements, extreme right-wing terrorism, security convergence, comparative threat modelling, classification bias, network topology, legibility, coercibility, zersetzung, epistemic sabotage, adversarial feedback, policing legitimacy, public trust, CHIS governance, third-party exploitation, liaison failure, surveillance capitalism, Big Other, behavioural modification, instrumentarian power, Hannah Arendt, totalitarianism, propaganda, masses, mob, imperialism, China, Hong Kong, Joshua Wong, democratic feedback, Flock Safety, surveillance cameras, consent, compliance, conformity, elite momentum, class asymmetry, liberal democracy
@@ -2917,9 +2921,8 @@ It models the maximum theoretical containment surface created when public-order,
 
 > 📡 Cross-references:
 >
-> - [♻️ Cybernetics](./) — *parent cluster for feedback, control and adaptive-system analysis*  
-> - [🪿 Embodied Information Ecology](../) — *how information environments produce material and behavioural effects*  
-> - [Big Picture Protocols](../../../) — *systemic analysis and pattern-mapping infrastructure*
+> - [♻️ Cybernetics](./README.md) — *parent cluster for feedback, control and adaptive-system analysis*  
+> - [🪿 Embodied Information Ecology](../README.md) — *how information environments produce material and behavioural effects*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
