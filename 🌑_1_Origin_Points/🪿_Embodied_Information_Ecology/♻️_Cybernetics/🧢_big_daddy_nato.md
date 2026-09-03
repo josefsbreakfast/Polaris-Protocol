@@ -1306,6 +1306,417 @@ The underlying system does not improve.
 Do not shoot the error signal and congratulate yourself because the graph went down.
 
 
+
+## 🧢 Momentum, Hype and the View From Inside the Machine
+
+There is a mundane reason the people building surveillance and security systems may fail to perceive the political problem they are creating.
+
+**The system can feel good from inside the system.**
+
+This does not require secret authoritarian intent.
+
+It can emerge from status, professional incentives, class position, institutional trust and the simple psychological force of momentum.
+
+The people designing or purchasing the apparatus may experience:
+
+```text
+deployment ↑
+detections ↑
+interoperability ↑
+successful-use stories ↑
+investment ↑
+institutional demand ↑
+```
+
+and reasonably perceive:
+
+```text
+CAPABILITY ↑
+```
+
+The project acquires momentum.
+
+The people closest to it see more evidence that it works.
+
+That evidence generates enthusiasm.
+
+Enthusiasm generates further deployment.
+
+```text
+build system
+    ↓
+system generates measurable outputs
+    ↓
+outputs demonstrate utility
+    ↓
+utility justifies expansion
+    ↓
+expansion generates more outputs
+    ↺
+```
+
+This is a hype loop as much as a technical loop.
+
+Arendt's distinction between **elite, mob and masses** is useful precisely here.
+
+The existence of elite enthusiasm — even accompanied by a politically noisy constituency attracted to the project's momentum — does not demonstrate that the masses have been persuaded.
+
+The people inside the control room can therefore experience genuine momentum while substantially misunderstanding the political environment outside it.
+
+---
+
+## 💰 Surveillance Does Not Land Evenly
+
+Class and institutional position also change what surveillance feels like.
+
+A wealthy technology executive, senior defence official, major investor or otherwise institutionally privileged person may live in an intensely datafied environment while experiencing relatively little of its coercive edge.
+
+They may have:
+
+- lawyers;
+- private property;
+- private transport;
+- private security;
+- institutional access;
+- professional credibility;
+- political contacts;
+- resources to challenge errors;
+- and a social position that causes institutions initially to classify them as credible and low-risk.
+
+Their experience can therefore resemble:
+
+```text
+SYSTEM SEES ME
+      ↓
+system broadly understands who I am
+      ↓
+mistakes are corrigible
+      ↓
+surveillance feels abstract / useful
+```
+
+Another person's experience may be:
+
+```text
+SYSTEM SEES ME
+      ↓
+context collapses
+      ↓
+classification is wrong
+      ↓
+classification travels
+      ↓
+decision occurs elsewhere
+      ↓
+I cannot discover or correct it
+```
+
+The same surveillance capability can therefore produce radically different lived experiences.
+
+This is another reason consent cannot be inferred from the comfort of the people designing the system.
+
+The designer may genuinely have little experiential access to the failure mode.
+
+---
+
+## 📹 Flock and the Terrorism Category Error
+
+The Flock Safety controversy provides a useful small-scale example of how system-builders can begin to experience opposition to their system as opposition to safety itself.
+
+**DeFlock itself is an awareness, mapping and organising platform.**
+
+It crowdsources the locations of Flock automated licence-plate-reader cameras, makes that surveillance infrastructure visible to the public, and helps local grassroots groups organise against deployments.[^flockterror]
+
+That distinction is important.
+
+DeFlock is not an organisation whose stated function is to damage cameras, and physical attacks on Flock infrastructure should not be silently attributed to the platform. *Forbes* separately reports vandalism and theft of cameras and physical threats against Flock employees; those are analytically distinct acts by actors who should not simply be collapsed into DeFlock because they share opposition to surveillance.[^flock2025]
+
+In other words:
+
+```text
+DEFLOCK
+mapping
++
+awareness
++
+public information
++
+political organising
+≠
+physical attack on infrastructure
+```
+
+In 2026, *Forbes* reported that Flock CEO Garrett Langley had previously described DeFlock as a “terroristic organization.” He subsequently apologised, acknowledged the activists were non-violent, and accepted that organisations critical of his company could nevertheless be doing legitimate work.[^flockterror]
+
+That makes the episode more analytically useful, not less.
+
+The category slide was not merely:
+
+```text
+vandalism
+→ terrorism
+```
+
+It risked becoming:
+
+```text
+awareness / mapping / political opposition
+        ↓
+associated in the surrounding environment
+with separate acts of vandalism
+        ↓
+threat category expands
+        ↓
+“terroristic”
+```
+
+The importance of the episode is therefore not simply that one CEO used an overheated word.
+
+It is the classification pathway the mistake illustrates:
+
+```text
+OUR SYSTEM
+=
+crime prevention
+=
+public safety
+=
+good
+```
+
+can become:
+
+```text
+OPPOSITION TO OUR SYSTEM
+=
+obstruction of safety
+=
+threat
+=
+extremism
+=
+“terroristic”
+```
+
+That is precisely the category slide a liberal security system needs to resist.
+
+Vandalism remains vandalism.
+
+Criminal damage can remain criminal damage.
+
+Political opposition remains political opposition.
+
+**Mapping surveillance infrastructure remains mapping surveillance infrastructure.**
+
+Terrorism has its own legal and analytical thresholds.
+
+Destroying or damaging a surveillance camera does not automatically become terrorism merely because the owner regards the infrastructure as important to public safety.
+
+And an awareness platform does not become responsible for separate physical acts merely because some people who oppose the same surveillance system also commit them.
+
+When those categories collapse, the system begins treating criticism of its means as hostility to its ends — and association becomes a substitute for attribution.
+
+---
+
+## 🚦The Public Is an Error Signal
+
+The wider Flock debate also demonstrates why public opposition cannot simply be classified as irrational resistance to useful technology.
+
+In September 2026 Florida moved to remove automated licence-plate readers from state highways amid a broader political backlash concerning surveillance and data privacy.[^floridaflock]
+
+Dallas separately announced that 321 Flock cameras funded through affected Texas state grants would be cancelled after a state funding directive, while retaining more than 300 others.[^dallasflock]
+
+Those decisions do not establish that Flock technology has no legitimate policing value.
+
+They establish something more politically useful:
+
+> **the public argument is live.**
+
+Different communities and governments are weighing investigative utility against privacy, misuse, proportionality and the acceptable scale of surveillance.
+
+That disagreement is democratic information.
+
+A system-builder who interprets opposition as evidence that opponents are dangerous risks **shooting the error signal**.
+
+```text
+SYSTEM EXPANDS
+      ↓
+public objects
+      ↓
+objection classified as threat / ignorance
+      ↓
+objection discounted
+      ↓
+system expands
+      ↓
+remaining opposition looks increasingly deviant
+      ↺
+```
+
+The healthier loop is:
+
+```text
+SYSTEM EXPANDS
+      ↓
+public objects
+      ↓
+objection treated as information
+      ↓
+policy / safeguards / deployment reconsidered
+      ↓
+system adapts
+      ↺
+```
+
+The second loop is what liberal-democratic governance is supposed to be good at.
+
+---
+
+## 🧮 Consent, Compliance and Conformity
+
+The Arendt–Zuboff synthesis therefore needs three separate outputs.
+
+### Consent
+
+> **I remain meaningfully capable of political refusal and accept the arrangement.**
+
+### Compliance
+
+> **I act because a legitimate rule or authority requires it.**
+
+### Conformity
+
+> **I behave this way because the environment has made alternatives too costly, risky, difficult or invisible.**
+
+A liberal democracy will always contain some of all three.
+
+Law itself requires compliance.
+
+The warning arises when **conformity becomes legible to the system as consent**.
+
+```text
+people remain unconvinced
+        ↓
+cost of dissent rises
+        ↓
+visible behaviour changes
+        ↓
+system measures behavioural change
+        ↓
+“public acceptance”
+        ↓
+confidence in strategy increases
+        ↓
+more behavioural intervention
+        ↺
+```
+
+This is the cybernetic pathology.
+
+The system removes some of the behaviour that would have informed its operators that consent was absent.
+
+It then interprets the disappearance of that behaviour as evidence that consent has increased.
+
+**Behavioural conformity is not political consent.**
+
+---
+
+## 🪞 The Wrong Variable
+
+This gives the men in the control room an epistemological problem rather than requiring us to imagine them all as consciously hostile to liberal democracy.
+
+Their instruments may genuinely tell them:
+
+```text
+behavioural objective achieved
+```
+
+What the instruments may not tell them is:
+
+```text
+population persuaded
+```
+
+Arendt helps explain why that distinction matters politically.
+
+The masses are not automatically carried by the momentum that can attract elites and the mob.
+
+They have to be won.
+
+Zuboff helps explain how contemporary computational power can partially obscure the failure to win them, because behavioural modification can produce observable regularity without producing political conviction.
+
+The combined proposition is therefore:
+
+> **Instrumentarian power can deprive elites of the political error signal that would otherwise tell them they have momentum without consent.**
+
+That is the bridge.
+
+Arendt identifies the political limit of coercion under constitutional conditions: terror cannot simply substitute for the problem of mass adherence.
+
+Zuboff identifies a technological development that complicates that limit: increasingly fine-grained systems can shape conduct without requiring either spectacular state violence or genuine persuasion.
+
+The danger is not merely greater coercive capacity.
+
+It is that **behavioural compliance becomes highly legible while the absence of political consent becomes progressively less legible**.
+
+The system may be working perfectly according to the variable it measures.
+
+It may simply be measuring the wrong fucking variable.
+
+---
+
+## ⚖️ A Live Liberal-Democracy Question
+
+None of this requires a declaration that the United Kingdom, United States or another contemporary democracy has already become totalitarian.
+
+That would flatten both Arendt and the institutional differences the node is trying to examine.
+
+The useful question should remain live:
+
+> **How, under what conditions, and with what safeguards do surveillance, prediction, classification and behavioural-governance systems support or undermine liberal democracy?**
+
+The same capability can do both.
+
+A system may support liberal democracy when it:
+
+```text
+protects people from violence
+protects political participation
+operates under law
+remains proportionate
+is independently reviewed
+permits meaningful challenge
+corrects errors
+preserves pluralism
+```
+
+The same capability may undermine liberal democracy when it:
+
+```text
+makes dissent a threat signal
+makes refusal suspicious
+renders classifications unchallengeable
+converts political opposition into risk management
+makes association prohibitively costly
+mistakes conformity for consent
+optimises away democratic feedback
+```
+
+Those are not immutable properties of a camera, database, model or intelligence technique.
+
+They are questions of **governance**.
+
+So the objective is not to settle the argument once and for all.
+
+A liberal democracy should maintain the argument.
+
+The permanent question is:
+
+> **Is this system helping citizens remain free political agents, or increasingly rendering them easier objects of administration?**
+
+And the moment institutions become unwilling to hear that question, the error signal has already begun to fail.
+
+
 ## 🧢 Big Daddy's Evil Whiteboard
 
 The maximum-pressure model now looks like this:
@@ -1422,6 +1833,587 @@ This is **control without a single controller**.
 Which is considerably more cybernetic than conspiracy.
 
 ---
+
+
+
+
+## 📚 Arendt: Momentum Looks Different From Inside the Control Room
+
+Zuboff is not the only useful conceptual companion here.
+
+Hannah Arendt's *The Origins of Totalitarianism* approaches the problem from a very different historical and political direction.
+
+The book's three large movements — **Antisemitism, Imperialism, Totalitarianism** — matter as architecture. Arendt is not presenting totalitarianism as a political technology that simply materialises from nowhere. She traces histories of antisemitism, the contradictions and expansions of imperial power, transformations in class and political representation, statelessness and the erosion of rights before arriving at totalitarian movements.[^arendtorigins]
+
+That structure should not be turned into a crude substitution exercise.
+
+Arendt's account of European antisemitism is historically specific. It cannot simply be renamed “racism” and applied unchanged to the present.
+
+A contemporary comparative analysis may need to examine antisemitism alongside — rather than interchangeably with — Islamophobia, anti-Black racism, racialisation, nationalism and the production of different kinds of internal enemy.
+
+The method travels more safely than a one-to-one substitution.
+
+The same applies to imperialism.
+
+A particularly useful question running through Arendt's architecture concerns how political systems sustain contradictory claims: universal rights and unequal rule; constitutional equality and imperial domination; citizenship for some and radically weaker political standing for others.
+
+For Big Daddy, the transferable question is:
+
+> **What contradictions does a liberal state have to manage in order to remain liberal while exercising enormous power?**
+
+---
+
+## 🧿 Arendt's Mob Is Not Her Masses
+
+Terminology matters here.
+
+For Arendt, **the mob and the masses are not interchangeable categories**.
+
+Her *mob* belongs to a particular historical analysis of class society, bourgeois politics and imperialism.
+
+Her *masses* become politically important through the breakdown of established class and party structures and through atomisation: people no longer adequately organised or represented through the political structures that previously mediated interests.[^arendtorigins]
+
+So when chapter 11, “The Totalitarian Movement,” turns to “Totalitarian Propaganda,” Arendt opens with a distinction:
+
+> “Only the mob and the elite can be attracted by the momentum of totalitarianism itself.”
+
+She then says that the masses must instead be won through propaganda.[^arendtorigins]
+
+That is not:
+
+```text
+elite
+versus
+ordinary people / mob
+```
+
+It is closer to:
+
+```text
+ELITE
+   +
+MOB
+(Arendt's specific historical category)
+        ↓
+may be attracted by the movement's momentum
+
+MASSES
+(also a specific analytical category)
+        ↓
+must be won
+        ↓
+propaganda / plausibility / persuasion
+```
+
+Nor should **masses** casually be translated as “ordinary people.”
+
+Doing so loses the importance of atomisation, political disorganisation and the breakdown of class and party representation in Arendt's argument.
+
+The distinction matters before borrowing anything else from the passage.
+
+---
+
+## 📣 The Persuasion Problem
+
+Arendt's next move is particularly useful for Big Daddy.
+
+Under constitutional government and freedom of opinion, a movement seeking power cannot rely upon terror without limit. It must compete for adherents and present an account that remains plausible to people who still have access to other sources of information.[^arendtorigins]
+
+That produces a recognisably democratic constraint:
+
+```text
+public has competing information
+        ↓
+political actor makes claim
+        ↓
+claim must remain plausible
+        ↓
+people must be persuaded
+        ↓
+adherence is not automatic
+```
+
+This is where **momentum looks different from inside the control room**.
+
+A defence, intelligence, policing or technology professional may look at:
+
+```text
+more sensors
++
+better interoperability
++
+larger datasets
++
+faster classification
++
+predictive systems
++
+greater information sharing
+```
+
+and perceive:
+
+```text
+CAPABILITY ↑
+```
+
+Someone situated primarily on the other side of those systems may perceive:
+
+```text
+ABILITY TO REMAIN UNOBSERVED
+OR POLITICALLY ILLEGIBLE ↓
+```
+
+Neither perception requires stupidity or bad faith.
+
+They occupy different positions inside the machine.
+
+The political mistake begins when the people experiencing **capability** assume that everyone else should experience the same development as **progress**.
+
+---
+
+## ♻️ Arendt Meets Zuboff
+
+This is where Arendt and Zuboff become more useful together than separately.
+
+Very schematically:
+
+```text
+ARENDTIAN PROBLEM
+
+public retains competing information
+        ↓
+political movement must appear plausible
+        ↓
+masses must be won
+        ↓
+PERSUASION
+```
+
+Zuboff describes a different form of power:
+
+```text
+BIG OTHER
+
+render behaviour
+        ↓
+compute / predict
+        ↓
+modify behavioural environment
+        ↓
+BEHAVIOURAL ACTUATION
+```
+
+The important contemporary question is therefore not whether Zuboff's instrumentarian power **is** Arendtian totalitarianism.
+
+Zuboff's distinction from totalitarian power is one reason she is useful here.
+
+The better question is:
+
+> **What happens when political persuasion is increasingly supplemented by systems capable of behavioural actuation?**
+
+A government may still need legitimacy.
+
+It may still need elections.
+
+It may still need courts.
+
+It may still need to persuade people.
+
+But it may simultaneously possess increasingly sophisticated ways to alter the practical environment in which behaviour occurs.
+
+```text
+PERSUASION
+      +
+CLASSIFICATION
+      +
+FRICTION
+      +
+INCENTIVES
+      +
+ACCESS
+      +
+PREDICTION
+      +
+BEHAVIOURAL ACTUATION
+```
+
+The citizen does not necessarily have to change belief for behaviour to change.
+
+That is the conceptual bridge.
+
+---
+
+## 🗺️ China, Big Brother and the Comparator Test
+
+The China comparison needs the same discipline as every other comparator in this node.
+
+Western political rhetoric frequently presents extensive Chinese state surveillance and the suppression of political opposition as evidence of a fundamental difference between authoritarian governance and liberal democracy.
+
+There are real institutional differences.
+
+The purpose of the comparator is not to erase them.
+
+It is to make people specifying those differences **show their working**.
+
+Hong Kong provides an unusually stark contemporary example.
+
+Joshua Wong, one of the most internationally recognisable figures associated with Hong Kong's 2014 Umbrella Movement, pleaded guilty in September 2026 to collusion with foreign forces under Hong Kong's national security law in a case concerning international advocacy and efforts to obtain foreign pressure and sanctions.[^wong2026]
+
+The legal and political interpretation of that conduct is deeply contested.
+
+A Chinese or Hong Kong national-security framing can describe foreign lobbying and sanctions advocacy as conduct implicating sovereignty and national security.
+
+A liberal-democratic framing can regard international advocacy by an opposition activist seeking to preserve political freedoms as legitimate political activity.
+
+The analytical value lies precisely in that disagreement.
+
+```text
+political mobilisation
+        ↓
+international advocacy / foreign contacts
+        ↓
+STATE A:
+protected or tolerable political activity
+
+STATE B:
+foreign-collusion / national-security concern
+```
+
+The boundary is political as well as legal.
+
+So if a Western security argument says:
+
+> **We require greater surveillance, integration and coercive capability because authoritarian powers such as China represent a fundamentally different political model,**
+
+the follow-up is reasonable:
+
+> **Which differences are we spending money and accepting security burdens to defend?**
+
+Then measure them.
+
+---
+
+## ⚖️ The Lived-Experience Test
+
+The question is not:
+
+> **Are China and Western democracies secretly identical?**
+
+No.
+
+The useful question is:
+
+> **What remains substantively different in the lived experience of political citizenship, and can the state demonstrate that difference?**
+
+Possible comparator variables include:
+
+```text
+freedom to organise
+
+freedom to oppose government policy
+
+freedom to associate internationally
+
+ability to advocate internationally
+
+ability to challenge security classification
+
+transparency of legal thresholds
+
+independent judicial review
+
+information available to an accused person
+
+practical consequences of peaceful dissent
+
+ability of opposition movements to alter policy
+
+ability to refuse surveillance infrastructure
+
+ability to remain politically illegible
+
+whether association itself becomes a threat signal
+```
+
+The comparison should include differences, not merely similarities.
+
+If independent courts, enforceable rights, meaningful disclosure, political pluralism and genuine avenues for challenge constrain Western systems in ways unavailable elsewhere, those are important distinctions.
+
+But:
+
+> **“We are a democracy” is the conclusion to be demonstrated, not a substitute for demonstrating it.**
+
+If ordinary political participation becomes increasingly constrained through surveillance, classification, friction and behavioural intervention, institutions should be able to explain what operational protections prevent those capacities from producing authoritarian functional effects by different technical means.
+
+---
+
+## 🧢 The China-Hawk Consistency Test
+
+This produces an especially useful challenge for people simultaneously arguing for:
+
+1. substantial defence expenditure to counter China because its political model presents a strategic threat; and
+2. increasingly expansive domestic surveillance and containment because political disorder presents a security threat.
+
+Those positions are not inherently contradictory.
+
+But they create a burden of explanation.
+
+```text
+CHINA IS A STRATEGIC THREAT
+because important features of its
+political / security model are unacceptable
+        ↓
+therefore
+        ↓
+IDENTIFY THOSE FEATURES
+        ↓
+then test proposed domestic security architecture
+against the same variables
+```
+
+If the proposed defence of liberal democracy reproduces the functional consequences it identifies as objectionable elsewhere, the contradiction needs resolving.
+
+The question becomes:
+
+> **What exactly are we defending?**
+
+And:
+
+> **How does the architecture being built to defend it preserve the thing being defended?**
+
+That is not anti-defence.
+
+It is elementary systems engineering.
+
+---
+
+## 🪞 Can the System Tolerate Losing the Argument?
+
+One particularly useful democratic test follows from Arendt's persuasion problem.
+
+Can the security architecture tolerate the possibility that government loses the political argument?
+
+Can citizens remain unconvinced?
+
+Can they organise around that disagreement?
+
+Can they communicate it?
+
+Can they build institutions around it?
+
+Can they associate internationally?
+
+Can they eventually persuade enough other people to change government policy?
+
+If the answer remains yes, disagreement is still functioning as democratic information.
+
+If disagreement increasingly becomes something to be:
+
+```text
+predicted
+classified
+frictioned
+optimised
+contained
+```
+
+then the system has begun treating political feedback as an engineering problem.
+
+That does not automatically make it totalitarian.
+
+It does mean the democratic system should notice what it is doing.
+
+Because the question is no longer merely:
+
+> **Can government persuade citizens?**
+
+It is also:
+
+> **Can citizens refuse behavioural optimisation?**
+
+And perhaps the most important question in the entire node:
+
+> **Does disagreement remain an error signal the government has to interpret, or has disagreement itself become the error the system is trying to eliminate?**
+
+
+## 🛰️ Zuboff's Big Other
+
+There is a useful conceptual bridge here from Shoshana Zuboff.
+
+In her 2015 essay *Big Other: Surveillance Capitalism and the Prospects of an Information Civilization*, Zuboff names **Big Other** as the distributed architecture of computer mediation through which surveillance capitalism extracts, computes and acts upon behavioural information.[^zuboffbigother]
+
+Her argument is economic rather than national-security institutional analysis, and the distinction matters.
+
+Zuboff is describing surveillance capitalism: an accumulation logic in which human experience is rendered into behavioural data, prediction and intervention.
+
+Big Daddy NATO is a different thought experiment.
+
+But the systems resemblance is useful.
+
+Zuboff's Big Other joins **knowing** and **doing**.
+
+The digital apparatus is not merely a telescope pointed at human behaviour.
+
+It becomes part of the environment that can modify that behaviour.
+
+Her 2015 formulation describes Big Other as a global architecture built from computer mediation, producing mechanisms of extraction and control and markets in behavioural prediction and modification.[^zuboffbigother]
+
+A short version of the conceptual move is:
+
+> **measurement is no longer passive once the measuring system can intervene in the thing being measured.**
+
+That is exactly the transition this node has been tracing.
+
+```text
+OBSERVE
+   ↓
+RENDER AS DATA
+   ↓
+COMPUTE / CLASSIFY
+   ↓
+PREDICT
+   ↓
+INTERVENE
+   ↓
+BEHAVIOUR CHANGES
+   ↓
+NEW DATA
+   ↺
+```
+
+The apparatus becomes cybernetic because sensing and actuation occur inside the same loop.
+
+---
+
+## 🧠 From Engineering Souls to Engineering Behaviour
+
+Zuboff's particularly useful contribution is that modern behavioural power does not need to resemble an older ideological project aimed at remaking the inner person.
+
+It can work at the level of behaviour.
+
+The system does not necessarily require:
+
+> **Believe this.**
+
+It can instead aim for:
+
+> **Do this. Avoid that. Go here. Stop there. Click this. Do not associate with them.**
+
+That distinction belongs directly beside the Big Daddy model.
+
+A digitally mediated control system can exert enormous influence without achieving ideological conversion.
+
+It may be enough to alter:
+
+- incentives;
+- access;
+- visibility;
+- timing;
+- friction;
+- perceived risk;
+- available options;
+- network structure;
+- expectations about consequences.
+
+The person may continue to believe exactly what they believed yesterday.
+
+Their behavioural envelope has changed.
+
+That is the important transition.
+
+```text
+IDEOLOGICAL CONTROL
+change what the person believes
+        ↓
+change behaviour
+```
+
+versus:
+
+```text
+INSTRUMENTARIAN / CYBERNETIC CONTROL
+change the informational environment
+        ↓
+change available choices / incentives / expectations
+        ↓
+change behaviour
+```
+
+Zuboff's surveillance-capitalism argument provides the commercial version of this architecture.
+
+The Big Daddy NATO thought experiment asks what happens when similar capacities for sensing, prediction, classification and intervention become relevant to security governance.
+
+The two should not be collapsed into one another.
+
+But they illuminate the same technological fact:
+
+> **a ubiquitous digital apparatus can become both sensor and actuator.**
+
+---
+
+## 🧿 Big Other Is Not Big Daddy
+
+The naming overlap is useful enough that the distinction deserves to be explicit.
+
+**Big Other** is Zuboff's concept.
+
+**Big Daddy NATO** is this node's satirical systems model.
+
+They are not synonyms.
+
+```text
+BIG OTHER
+surveillance-capitalist
+computer-mediated architecture
+        ↓
+behavioural data
+prediction
+modification
+markets
+```
+
+```text
+BIG DADDY NATO
+hypothetical security-governance architecture
+        ↓
+classification
+institutional interoperability
+friction
+containment
+behavioural adaptation
+```
+
+The conceptual bridge is the feedback structure:
+
+```text
+KNOWING
+   +
+DOING
+   ↓
+BEHAVIOURAL MODIFICATION
+   ↓
+NEW KNOWLEDGE
+   ↺
+```
+
+Once a digital system can render behaviour, compute upon it and modify the environment in response, the distinction between **information system** and **control system** begins to collapse.
+
+That is why Zuboff belongs here.
+
+She gives us a language for the moment when ubiquitous computation stops merely documenting the social world and starts participating in its production.
+
+And that is also why the evidential discipline elsewhere in this node remains essential.
+
+The existence of a technological capacity for behavioural modification does not establish that any particular adverse event was intentionally produced through it.
+
+Capacity is not deployment.
+
+Deployment is not targeting.
+
+Targeting is not orchestration.
+
+Those steps require their own evidence.
 
 
 ## 🕳️ When Containment Becomes Something Else
@@ -1857,6 +2849,17 @@ No cap. 🧢
 ---
 
 ## 📚 Sources
+- [Forbes: “AI Startup Flock Thinks It Can Eliminate All Crime In America” (3 September 2025)](https://www.forbes.com/sites/thomasbrewster/2025/09/03/ai-startup-flock-thinks-it-can-eliminate-all-crime-in-america/)
+
+- [Forbes: “Flock CEO Apologizes For Calling Activists ‘Terrorists’” (17 July 2026)](https://www.forbes.com/sites/thomasbrewster/2026/07/17/flock-ceo-sorry-for-labelling-activists-terrorists/)
+- [Reuters: “Florida bans highway license-plate readers as backlash over surveillance spreads” (3 September 2026)](https://www.reuters.com/legal/government/florida-bans-highway-license-plate-readers-backlash-over-surveillance-spreads-2026-09-03/)
+- [Dallas Police Department: “Statement on Flock Camera Grant Funding” (1 September 2026)](https://dpdbeat.com/2026/09/01/statement-on-flock-camera-grant-funding/)
+- [Library of Congress: “Totalitarianism, the Inversion of Politics” — Hannah Arendt Papers](https://www.loc.gov/collections/hannah-arendt-papers/articles-and-essays/totalitarianism-the-inversion-of-politics/)
+
+- [Hannah Arendt: *The Origins of Totalitarianism* — Internet Archive edition](https://archive.org/details/originsoftotalit0000aren)
+- [Reuters: “Hong Kong activist Joshua Wong pleads guilty to collusion with foreign entities” (2 September 2026)](https://www.reuters.com/world/hong-kong-activist-joshua-wong-pleads-guilty-collusion-with-foreign-entities-2026-09-02/)
+
+- [Shoshana Zuboff: “Big Other: Surveillance Capitalism and the Prospects of an Information Civilization”](https://journals.sagepub.com/doi/10.1057/jit.2015.5)
 
 - [Home Affairs Committee: “Policing priorities”](https://publications.parliament.uk/pa/cm5803/cmselect/cmhaff/635/summary.html)
 - [Metropolitan Police: “Baroness Casey Review — Final Report”](https://www.met.police.uk/SysSiteAssets/media/downloads/met/about-us/baroness-casey-review/update-march-2023/baroness-casey-review-march-2023a.pdf)
@@ -1885,11 +2888,25 @@ No cap. 🧢
 [^mi5agentx]: MI5 Director General statement, 16 July 2026, acknowledging incorrect evidence in proceedings concerning Agent X and apologising to the courts and Beth.
 [^agentxstatement]: Home Secretary written statement, 16 July 2026, reporting the Deputy Investigatory Powers Commissioner's conclusion that MI5 had ultimately misled the High Court, IPT, IPC and associated Special Advocates concerning Agent X evidence.
 
+
+[^zuboffbigother]: Shoshana Zuboff, “Big Other: Surveillance Capitalism and the Prospects of an Information Civilization,” *Journal of Information Technology* 30 (2015): 75–89. Zuboff describes Big Other as a distributed architecture of computer mediation constituted through mechanisms of extraction, commodification and control, producing markets in behavioural prediction and modification.
+
+
+[^arendtorigins]: Hannah Arendt, *The Origins of Totalitarianism*, especially Part One (“Antisemitism”), Part Two (“Imperialism”), and Part Three (“Totalitarianism”), including chapter 11, “The Totalitarian Movement.” The node preserves Arendt's distinction between “mob” and “masses” rather than treating them as synonyms.
+[^wong2026]: Reuters, “Hong Kong activist Joshua Wong pleads guilty to collusion with foreign entities,” 2 September 2026. Wong pleaded guilty under Hong Kong's national security law; at the time of the report he had not yet been sentenced in that proceeding.
+
+
+[^flockterror]: Thomas Brewster, *Forbes*, “Flock CEO Apologizes For Calling Activists ‘Terrorists’,” 17 July 2026. The report describes DeFlock as a non-violent anti-surveillance organisation that maps Flock cameras and supports grassroots opposition to deployments, and records Garrett Langley's apology for previously calling it “terroristic.”
+[^floridaflock]: Reuters, “Florida bans highway license-plate readers as backlash over surveillance spreads,” 3 September 2026. Florida ordered the removal of automated licence-plate readers from state highways amid privacy and surveillance concerns.
+[^dallasflock]: Dallas Police Department, “Statement on Flock Camera Grant Funding,” 1 September 2026. DPD said 321 cameras supported through affected state grant funding would be cancelled effective 15 September while more than 300 would remain in operation.
+
+[^flock2025]: Thomas Brewster, *Forbes*, “AI Startup Flock Thinks It Can Eliminate All Crime In America,” 3 September 2025. The report describes DeFlock as a crowdsourced camera-mapping and organising project, then separately discusses vandalism, theft and threats by other anti-Flock actors. That separation is important: opposition to the same technology does not establish organisational responsibility for another actor's conduct.
+
 ## 🌌 Constellations  
 ♻️ 🪿 🧿 🕸️ 🧢 — cybernetics; embodied information ecology; classification feedback; comparative threat modelling; network containment; emergent control.
 
 ## ✨ Stardust  
-cybernetics, embodied information ecology, protest movements, extreme right-wing terrorism, security convergence, comparative threat modelling, classification bias, network topology, legibility, coercibility, zersetzung, epistemic sabotage, adversarial feedback, policing legitimacy, public trust, CHIS governance, third-party exploitation, liaison failure
+cybernetics, embodied information ecology, protest movements, extreme right-wing terrorism, security convergence, comparative threat modelling, classification bias, network topology, legibility, coercibility, zersetzung, epistemic sabotage, adversarial feedback, policing legitimacy, public trust, CHIS governance, third-party exploitation, liaison failure, surveillance capitalism, Big Other, behavioural modification, instrumentarian power, Hannah Arendt, totalitarianism, propaganda, masses, mob, imperialism, China, Hong Kong, Joshua Wong, democratic feedback, Flock Safety, surveillance cameras, consent, compliance, conformity, elite momentum, class asymmetry, liberal democracy
 
 ---
 
