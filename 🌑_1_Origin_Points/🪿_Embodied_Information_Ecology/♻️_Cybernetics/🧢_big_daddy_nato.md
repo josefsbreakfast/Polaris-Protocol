@@ -1717,7 +1717,7 @@ The permanent question is:
 And the moment institutions become unwilling to hear that question, the error signal has already begun to fail.
 
 
-## 🧢 Big Daddy's Evil Whiteboard
+## 👉👈🥺 Big Daddy’s Big Scary Whiteboard
 
 The maximum-pressure model now looks like this:
 
