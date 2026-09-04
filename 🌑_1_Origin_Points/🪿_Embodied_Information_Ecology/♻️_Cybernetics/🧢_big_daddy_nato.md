@@ -1,5 +1,5 @@
 # 🧢 Big Daddy NATO
-**First created:** 2026-09-03 | **Last updated:** 2026-09-03  
+**First created:** 2026-09-03 | **Last updated:** 2026-09-04  
 *No cap: a maximum-pressure thought experiment about what happens when a democratic security system decides a transnational protest ecology is an existential problem — and why the comparator matters.*
 
 ---
