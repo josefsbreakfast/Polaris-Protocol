@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-04 19:05:40 UTC_
+_Generated on 2026-09-04 19:19:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -902,6 +902,7 @@ _Generated on 2026-09-04 19:05:40 UTC_
         - [`🪭_austen_cybernetics_102.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Start_Here/🪭_austen_cybernetics_102.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`big_daddy_nato_updated_2026-09-04.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/big_daddy_nato_updated_2026-09-04.md)
+      - [`big_daddy_nato_v3_2026-09-04.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/big_daddy_nato_v3_2026-09-04.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/notes.txt)
       - [`🌀_absorption_and_selective_sacrifice.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🌀_absorption_and_selective_sacrifice.md)
       - [`📥_ai_vs_work.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/📥_ai_vs_work.md)
