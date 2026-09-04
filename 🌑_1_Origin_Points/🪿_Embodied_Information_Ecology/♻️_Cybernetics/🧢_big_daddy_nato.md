@@ -3277,4 +3277,10 @@ From *Flatline Constructs*:
 
 “…the allegiances of Fisher’s intellectual practice were not to the institution and its quasi-rural distribution of degrees… but to the forces of an active power struggle over one of the most precious and contested resources in reality: time itself.” - foreword, Adam Jones   
 
-“
+And Mr Vance, we can be even more ’THE DAEMONS!” than you, sir:  
+
+When. in “The Ecstasy of Communication” Baudrillard announces the arrival of “the ’proteinic’ era of networks, […] the narcissitic and protean era of connections, contact, contiguity, feedback and generalised interface that goes with the universe of communication” (EC, 127), he is very obviously describing an era dominated by the same “cybernetic and informational” processes. From his first book, *The System of Objects*, to *For a Critique of the Political Economy of the Sign*, to his latest work, Baudrillard has been obsessed with cybernetics and its implications (33). As Scott Bukatman tirelessly points out(34), Baudrillard’s subject is a terminal, both at the end of an exhausted Western line, and an input-output node on the network, ”a switching centre for all the networks of influence.” Rather than criticising this “self-regulating, selfsame, self-reproducing system”(35) from the point of view of a utopia yet to come - in the manner of dialectical Marxism - Baudrillard simulates a primitive perspective, comparing the dull white magic of humanist technoscience with the black magics of symbolic exchange.(36)”  
+
+So which rooms do you feel this “dark presence” in, Mr Vance? Do spill.  
+
+
