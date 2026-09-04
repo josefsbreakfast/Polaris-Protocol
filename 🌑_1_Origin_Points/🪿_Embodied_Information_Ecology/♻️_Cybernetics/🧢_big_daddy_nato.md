@@ -2942,6 +2942,12 @@ _Last updated: 2026-09-04_
 
 for addition once whatever digital friction is going on calms down:  
 
+please note this is not the end point and this is partially “will anything save rn”.
+
+my particular interest here is actually Fisher’s PhD thesis work and how that weaves into his later work, particular in “Flatline Constructs”.  
+
+—--
+
 Yes — I’d make it a self-contained div/section you can drop in manually. Something like:
 
 <div class="analysis">
