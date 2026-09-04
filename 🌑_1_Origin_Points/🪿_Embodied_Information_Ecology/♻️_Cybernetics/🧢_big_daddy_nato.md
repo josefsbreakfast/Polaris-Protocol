@@ -1,5 +1,5 @@
 # 🧢 Big Daddy NATO
-**First created:** 2026-09-03 | **Last updated:** 2026-09-03  
+**First created:** 2026-09-03 | **Last updated:** 2026-09-04  
 *No cap: a maximum-pressure thought experiment about what happens when a democratic security system decides a transnational protest ecology is an existential problem — and why the comparator matters.*
 
 ---
@@ -1305,7 +1305,7 @@ The underlying system does not improve.
 
 Do not shoot the error signal and congratulate yourself because the graph went down.
 
-
+---
 
 ## 🧢 Momentum, Hype and the View From Inside the Machine
 
@@ -1651,7 +1651,9 @@ The combined proposition is therefore:
 
 That is the bridge.
 
-Arendt identifies the political limit of coercion under constitutional conditions: terror cannot simply substitute for the problem of mass adherence.
+Arendt identifies the political limit of coercion under constitutional conditions: terror cannot simply substitute for the problem of mass adherence.  
+
+*A note for the North Americans in particular: due to the 20th century in all its glory, “terror” has a perfectly legitimate meaning of “state terror”, which is Arendt’s context.*  
 
 Zuboff identifies a technological development that complicates that limit: increasingly fine-grained systems can shape conduct without requiring either spectacular state violence or genuine persuasion.
 
@@ -2930,4 +2932,4 @@ It models the maximum theoretical containment surface created when public-order,
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-03_
+_Last updated: 2026-09-04_
