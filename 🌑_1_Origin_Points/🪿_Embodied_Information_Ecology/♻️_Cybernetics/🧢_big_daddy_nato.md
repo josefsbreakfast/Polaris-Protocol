@@ -1653,7 +1653,7 @@ That is the bridge.
 
 Arendt identifies the political limit of coercion under constitutional conditions: terror cannot simply substitute for the problem of mass adherence.  
 
-*A note for the North Americans in particular: due to the 20th century in all its glory, “terror” has a perfectly legitimate meaning of “state terror”, which is Arendt’s context.*  
+*A note for the North Americans in particular: due to the 20th century in all its glory, “terror” has a perfectly legitimate meaning of “state terror”, which is Arendt’s context. Your closest analogues may be to look at state actions towards groups who may not immediately identify with; most Europeans have historical references of repression of people who have little physical difference to themselves, so the cognitive dissonance via abstraction is less available as an emotional defence to the possibility of non-rational violence enacted against them.*  
 
 Zuboff identifies a technological development that complicates that limit: increasingly fine-grained systems can shape conduct without requiring either spectacular state violence or genuine persuasion.
 
