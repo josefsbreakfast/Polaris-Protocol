@@ -2911,7 +2911,11 @@ No cap. 🧢
 
 > “Why did you do it in *that* voice?”
 >
-> Life is survived by laughing.  
+> Life is survived by laughing.
+
+*Follow the evidence:*  
+
+- [📹: “Ex Police Chief Breaks Down How Sarah Everard's Killer Was Caught”, from The Crime Agents](https://youtu.be/xkVcfxOcFMw?is=bIjIcCtZ1sdv2cAo) – *Neil Basu and Andy Hughes speak well to how this case fundamentally impacted public trust, and the impact on Met police, as individual people navigating such a change, at that time in response*  
 
 ---
 
