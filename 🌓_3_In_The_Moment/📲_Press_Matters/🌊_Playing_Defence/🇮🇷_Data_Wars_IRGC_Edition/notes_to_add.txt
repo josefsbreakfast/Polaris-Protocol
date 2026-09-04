@@ -409,3 +409,34 @@ unattributed or criminal intrusion
 That strengthens the argument that healthcare is becoming a crowded wartime attack surface, rather than showing a single coherent Iranian campaign. Different operators are attacking different dependencies—manufacturing, remote monitoring, hospital administration and sensitive data—for different reasons.
 
 I did not find a comparably credible new cyber-induced state-service outage in energy, water, transport, telecommunications, government administration, defence, education or systemically important banking since the previous check. The two German grid incidents reported this week are important infrastructure attacks, but current evidence describes physical sabotage involving incendiary/short-circuit devices, not cyber operations, so I have not folded them into this cyber watch.”
+
+---  
+
+20260904:  
+
+“There is one credible new development worth adding.
+
+🇺🇸 United States — healthcare / hospital operations
+
+Luminis Health in Maryland is dealing with a cyberattack affecting systems across its network, including Anne Arundel Medical Center in Annapolis and Doctors Community Medical Center in Lanham. The incident was publicly disclosed on 1 September 2026, and by 3 September its operational effects were clearer: some systems remained unavailable, non-critical ambulances were being diverted from both hospitals, and at least some treatments had been cancelled or delayed.  
+
+Operational impact: moderate and clinically meaningful. This has moved beyond a patient-portal outage. Maryland’s emergency-department monitoring system showed non-critical ambulance diversions continuing on 3 September, while local reporting documented cancelled treatment and a delayed radiation appointment for a cancer patient. MyChart and other patient-facing systems were also affected. Emergency care has not been reported as fully unavailable, but the attack is now demonstrably altering patient routing and treatment delivery.  
+
+Attribution confidence: currently very low. Luminis has not identified the attacker, disclosed an intrusion vector, or confirmed ransomware, data theft, or extortion. No credible group has yet established responsibility publicly. That leaves ordinary ransomware, an access-broker/affiliate operation, espionage, another state-linked actor, and an Iran-linked operation all technically possible, but there is presently no evidence that favours Iran.  
+
+Fit with Iranian methods / wartime incentives: strategically plausible, evidentially weak. U.S. healthcare and medical supply chains have already appeared in Iran-linked wartime activity, so disruption to hospital operations would fit a broader coercive logic. But unlike exposed-PLC attacks or the earlier Stryker case, nothing public so far connects this incident to known Iranian infrastructure, tradecraft or personas. Target attractiveness is not attribution.
+
+How this changes the trend since 28 February
+
+The healthcare strand is becoming more operationally significant:
+
+Stryker — Iran-linked medical-device disruption
+→ Boston Scientific — unattributed manufacturing / cardiac-monitoring disruption
+→ Nutex — likely criminal hospital-data extortion
+→ Luminis — unattributed cyberattack causing ambulance diversions and treatment disruption.
+
+That is a meaningful shift from healthcare organisations being penetrated toward cyber incidents repeatedly interfering with actual care delivery and its supporting supply chain, while attribution remains heterogeneous.
+
+The pattern therefore supports the broader model we have been developing: healthcare has become a crowded wartime attack surface occupied simultaneously by state-linked actors, unattributed operators and ransomware ecosystems, rather than evidence of one coherent Iranian campaign.
+
+I did not find another newly reported cyber incident in energy, water, transport, telecommunications, defence, education, government administration or systemically important banking that clears the threshold for a separate alert today.”
