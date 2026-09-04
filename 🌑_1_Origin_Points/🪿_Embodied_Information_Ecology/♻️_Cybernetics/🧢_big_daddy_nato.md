@@ -3273,3 +3273,8 @@ He has built a control system that cannot reliably detect its own loss of legiti
 </div>
 ```
 
+From *Flatline Constructs*:  
+
+“…the allegiances of Fisher’s intellectual practice were not to the institution and its quasi-rural distribution of degrees… but to the forces of an active power struggle over one of the most precious and contested resources in reality: time itself.” - foreword, Adam Jones   
+
+“
