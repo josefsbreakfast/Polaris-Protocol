@@ -1,10 +1,3 @@
-🌱_Thanks_Algorithm/
-├── README.md
-├── 🌱_misogyny_is_in_the_roots.md
-├── 👠_you_are_not_getting_the_same_feed.md
-├── 🥃_the_manosphere_ecosystem.md
-├── 🌱_he_only_wanted_dating_advice.md
-├── 📈_how_the_feed_changes_the_ecology.md
-├── 🕸️_from_online_grievance_to_offline_harm.md
-├── 🧠_radicalisation_is_not_a_sentencing_factor.md
-└── 📲_online_safety_and_platforms.md
+### `🧠_radicalisation_is_not_a_sentencing_factor.md`
+
+**If the concern is a pathway toward violence, recognising misogyny only after an offence answers a different question.** Distinguish upstream prevention and risk recognition from downstream criminal-law aggravation. Use the 2026 petition as the live example: sex-based aggravated offences may materially improve the response to crimes already committed, while the petition also asks about anti-feminist radicalisation, online abuse, training and prevention. Hand the detailed legal analysis over to `🧾_Petition_GC/`.
