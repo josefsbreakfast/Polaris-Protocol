@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-05 03:27:46 UTC_
+_Generated on 2026-09-05 03:41:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3672,7 +3672,13 @@ _Generated on 2026-09-05 03:27:46 UTC_
         - [**🌱_Thanks_Algorithm/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🌱_Thanks_Algorithm/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🌱_Thanks_Algorithm/notes.txt)
         - [**📖_Previously_On_The_Internet/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/notes.txt)
+          - [`🌸_guide_to_online_feminisms.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🌸_guide_to_online_feminisms.md)
+          - [`💾_guide_to_girl_internet.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/💾_guide_to_girl_internet.md)
+          - [`💾_women_have_always_been_online.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/💾_women_have_always_been_online.md)
+          - [`📚_definitions_and_registers.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/📚_definitions_and_registers.md)
+          - [`🪞_the_backlash_was_also_networked.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🪞_the_backlash_was_also_networked.md)
         - [**🛸_LOOK_UP/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/notes.txt)
         - [**🧾_Petition_GC/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/)
