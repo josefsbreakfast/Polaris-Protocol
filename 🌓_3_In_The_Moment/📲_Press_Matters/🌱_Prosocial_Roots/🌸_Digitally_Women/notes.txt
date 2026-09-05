@@ -433,3 +433,120 @@ So we’re no longer talking about seven things. From the screenshots alone, I c
 And there are some very obvious 🌸 Digitally Women source constellations in there: Xenofeminism; Violence IRL; Males Online; Chronically Online; Body Politic; coercive nudging; digital exposure; networked sexual harm; algorithmic listening; AI ethics; surveillance/intimacy; safer sandboxes; feedback environments; and rehabilitated technology.
 
 That is the fwoosh queue I would work from.
+
+
+Yes. Given everything we’ve now surfaced, I’d make 🌸_Digitally_Women broader than the first draft. The original petition/legal nodes still belong, but they should sit inside a cluster that has foundations, radicalisation/ecology, institutional plumbing, live-policy casework, and press tools rather than making the petition the whole architecture. Your current notes already contain the first-pass legal/debate structure and excavation material.  
+
+🌓_3_In_The_Moment/
+└── 📲_Press_Matters/
+    └── 🌱_Prosocial_Roots/
+        └── 🌸_Digitally_Women/
+            │
+            ├── README.md
+            │
+            │   ── FOUNDATIONS / LANGUAGE ─────────────────────────
+            │
+            ├── 📚_definitions_and_registers.md
+            ├── 💾_women_have_always_been_online.md
+            ├── 🌊_women_movements_and_digital_mobilisation.md
+            ├── 🪬_xenofeminism_and_the_engineered_body.md
+            │
+            │   ── MISOGYNY / ONLINE ECOLOGY ──────────────────────
+            │
+            ├── 🌱_misogyny_is_in_the_roots.md
+            ├── 🥃_the_manosphere_ecosystem.md
+            ├── 🌱_he_only_wanted_dating_advice.md
+            ├── 🕸️_from_online_grievance_to_offline_harm.md
+            ├── 🧠_radicalisation_is_not_a_sentencing_factor.md
+            ├── 📲_online_safety_and_platforms.md
+            │
+            │   ── BEFORE THE OFFENCE ──────────────────────────────
+            │
+            ├── 🌱_before_the_offence.md
+            ├── 👁️_misogyny_as_a_risk_signal.md
+            ├── 🔗_information_has_to_travel.md
+            ├── 🧩_pattern_recognition_not_incident_processing.md
+            ├── 🏫_schools_colleges_and_universities.md
+            ├── 🩸_survivor_support_and_reporting.md
+            │
+            │   ── INSTITUTIONAL MEMORY / SAFEGUARDING ────────────
+            │
+            ├── ♻️_why_are_we_recommending_this_again.md
+            ├── 🧠_did_the_safeguard_survive_the_next_case.md
+            ├── 🕸️_everyone_had_a_piece.md
+            ├── 📦_recommendation_decay.md
+            ├── ⚖️_status_reputation_and_safeguarding.md
+            ├── 🧭_institutional_learning_or_crisis_absorption.md
+            │
+            │   ── HATE-CRIME / PETITION CASE STUDY ───────────────
+            │
+            ├── ⚖️_what_the_law_actually_does.md
+            ├── 🕳️_the_section_66_gap.md
+            ├── 📣_stirring_up_misogyny.md
+            ├── 🧾_what_the_petition_actually_asked_for.md
+            ├── 🗂️_how_government_translated_the_petition.md
+            ├── 🕵️_where_is_macdonald.md
+            ├── 🧭_what_macdonald_was_asked_to_test.md
+            ├── 🏛️_westminster_hall_7_september_2026.md
+            │
+            │   ── PRESS / PRACTICAL TOOLS ────────────────────────
+            │
+            ├── 🗣️_questions_for_journalists.md
+            ├── 📰_language_for_press_and_politicians.md
+            ├── 🧮_claims_check.md
+            └── 🔖_source_map.md
+
+A few of these feel especially important now.
+
+📚_definitions_and_registers.md should probably be one of the first things we write. It can explicitly map misogyny / sex-based hostility / manosphere / anti-feminism / incel ideology / online VAWG / radicalisation / coercive control / stalking / hate crime / stirring up hatred / harmful content / safeguarding / risk signal. The point is not to decide which term is “correct”; it is to show which vocabulary does which job.
+
+💾_women_have_always_been_online.md becomes the historical digital spine. It can cross-link into 👾_Debugging_The_Men rather than retelling all of women’s movement history, and concentrate on what networked technology changed: organising, counter-mobilisation, harassment, documentation, visibility, platform power, algorithmic amplification, movement memory and backlash.
+
+🌱_misogyny_is_in_the_roots.md is probably now a core conceptual node. That’s where we establish the recurring appearance of misogyny across manosphere, incel, some far-right and other violent-radicalisation ecosystems, without collapsing all of those phenomena into one another.
+
+🌱_he_only_wanted_dating_advice.md earns its joke title because Tate/red-pill/PUA material demonstrates the importance of the apparently non-extremist entrance ramp: money, fitness, confidence, women, status, dating → grievance worldview → progressively harder material.
+
+Then the safeguarding set is the big addition.
+
+♻️_why_are_we_recommending_this_again.md could become viciously useful. That is where the post-2020 Met work, older VAWG/safeguarding recommendations, later scandal inquiries and current Epstein-downstream investigations can be compared at the level of recurring recommendation types rather than scandal chronology.
+
+And its companion:
+
+🧠_did_the_safeguard_survive_the_next_case.md
+
+That asks the harder implementation question:
+
+recommendation made
+→ accepted
+→ owner assigned
+→ procedure changed
+→ staff trained
+→ data collected
+→ audited
+→ next relevant case arrives
+→ did institutional behaviour actually change?
+
+I also now think the petition needs two separate nodes we didn’t have originally:
+
+🧾_what_the_petition_actually_asked_for.md and 🗂️_how_government_translated_the_petition.md.
+
+Because that distinction has become analytically important. The petition speaks in public/social language: misogyny, anti-feminist groups, radicalisation, young people, survivors, online abuse. Government responds by translating those demands into the machinery it possesses: sex-based hostility, aggravated offences, Online Safety Act duties, VAWG strategy, Macdonald review, police/CPS systems.
+
+Neither vocabulary is inherently wrong. The translation itself is worth showing.
+
+And I’d keep Macdonald as two nodes now:
+
+🕵️_where_is_macdonald.md = tiny timeline/status node.
+
+🧭_what_macdonald_was_asked_to_test.md = substantive remit: thresholds, stirring-up/incitement, harassment, guidance, police training, CPS practice, implementation and fit-for-purpose questions.
+
+That stops the wonderfully obnoxious “hello? report?” node from having to carry several thousand words of public-order architecture.
+
+The root README.md can then say, in essence:
+
+🌸 Digitally Women studies what happens when gendered hostility, digitally mediated behaviour and real-world violence move across systems whose terminology, evidence thresholds and institutional responsibilities do not line up neatly.
+
+It is interested both in harm and in prevention: how misogyny travels through online cultures; how institutions recognise patterns before offences; how survivor information becomes—or fails to become—usable intelligence; and whether safeguards survive long enough to change the next case.
+
+That now feels like a cluster capable of absorbing the petition and everything we just excavated without becoming “Westminster Hall, but with thirty files.”
+
