@@ -1,11 +1,358 @@
+Yes. I think we have now argued this mini-cluster into a fairly stable shape. I’d use eight substantive nodes + README. That is enough to orient a reader properly without Previously_On_The_Internet itself becoming another entire internet.
+
 📖_Previously_On_The_Internet/
+│
+├── README.md
+│
+├── 📚_definitions_and_registers.md
+├── 💾_guide_to_girl_internet.md
+├── 🌸_guide_to_online_feminisms.md
+├── 💾_women_have_always_been_online.md
+├── 🪞_the_backlash_was_also_networked.md
+├── 🕹️_cyberfeminism_before_the_algorithm.md
+├── 🪬_xenofeminism_and_the_engineered_body.md
+├── 🌞_we_could_build_nicer_things.md
+└── 🧭_how_we_got_to_here.md
 
-│   ├── README.md
+README.md
 
-│   ├── 📚_definitions_and_registers.md
+Job: Explain why this history exists inside 🌸 Digitally Women and route readers through it.
 
-│   ├── 💾_women_have_always_been_online.md
+This should be short. Its central warning is that several histories are easily collapsed into one:
 
-│   ├── 🌊_women_movements_and_digital_mobilisation.md
+* women using and making digital culture;
+* feminist organising through digital technologies;
+* feminist technological thought;
+* online misogyny and antifeminist countermobilisation;
+* platformisation and algorithmic amplification.
 
-│   └── 🪬_xenofeminism_and_the_engineered_body.md
+They interact, but they are not one history.
+
+It should also explain that we are deliberately not reproducing the full political history here. 👾_Debugging_The_Men/ already contains much of the stronger offline chronology of women’s movements, revelations, institutional responses and backlash. Cross-link it.
+
+Question answered: What do I need to understand before reading the rest of Digitally Women?
+
+⸻
+
+📚_definitions_and_registers.md
+
+Job: Translation layer for the entire 🌸 cluster.
+
+Not just definitions. For each major term:
+
+working definition → who tends to use it → what it captures → what it does not necessarily imply → neighbouring terms
+
+Likely entries include:
+
+* misogyny;
+* sexism;
+* sex-based hostility;
+* anti-feminism;
+* manosphere;
+* red pill;
+* incel;
+* pickup-artist / PUA;
+* online VAWG;
+* tech-facilitated abuse;
+* coercive control;
+* harassment;
+* stalking;
+* radicalisation;
+* extremism;
+* extremist misogyny;
+* hate crime;
+* aggravated offence;
+* stirring up hatred;
+* harmful content;
+* illegal content;
+* recommender/amplification systems;
+* safeguarding;
+* risk signal / indicator.
+
+Crucially, it establishes our principle:
+
+Don’t force one vocabulary to do every job.
+
+Government, criminal law, researchers, journalists, platforms, feminist movements and people experiencing harm may describe overlapping portions of the same ecology differently.
+
+This should cross-link heavily to Guide to Girl Internet and Guide to Online Feminisms, because neither cultural literacy nor feminist political vocabulary should be forced into a government-policy glossary.
+
+Question answered: When everybody uses different words, are they actually talking about the same thing?
+
+⸻
+
+💾_guide_to_girl_internet.md
+
+Job: Teach outsiders how to read female-coded and women-heavy digital cultures without treating them as incomprehensible fluff.
+
+This is where we can cover things like:
+
+* fandom and AO3;
+* Tumblr and its descendants;
+* stan cultures;
+* BookTok/Bookternet;
+* beauty and fashion networks;
+* gossip as information exchange;
+* screenshots and receipts;
+* relationship discourse;
+* group-chat epistemology;
+* parasocial relationships;
+* memes and ironic registers;
+* creator/influencer culture;
+* Girl Internet;
+* differences between participation, performance and sincere belief.
+
+The important analytical point is that apparently frivolous spaces are still information environments. They produce norms, identities, collective knowledge, political mobilisation, mutual aid, social sanctions and occasionally extremely sophisticated distributed investigations.
+
+We already have 💾_girl_internet_explained... visible in 🙀_Chronically_Online/, so that is an obvious existing node to fwoosh and cross-link rather than duplicate.
+
+Question answered: What are the women actually doing online?
+
+⸻
+
+🌸_guide_to_online_feminisms.md
+
+Job: Prevent “online feminism” from becoming a fictitious single political actor.
+
+This is the reader’s field guide to the different feminist traditions and coalitions that appear online, how they disagree, and how platforms alter those disagreements.
+
+It can orient readers around liberal, radical, socialist/materialist, Black/intersectional, queer, trans, disability, sex-worker-led/sex-positive and other feminist traditions without trying to adjudicate all of feminist theory in one node.
+
+Then layer in the digitally distinctive features:
+
+* hashtags;
+* testimony aggregation;
+* decentralised organising;
+* international coalition;
+* call-outs;
+* counterpublics;
+* virality;
+* context collapse;
+* platform incentives;
+* movement fragmentation;
+* countermobilisation.
+
+For the larger offline political chronology, point into:
+
+🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/
+
+That material already appears to contain Pussyhats, institutional revelation, legitimacy crises, chains of silence, predation and related historical material. No need to write it twice.
+
+Question answered: When somebody says “feminists online”, whom exactly do they mean?
+
+⸻
+
+💾_women_have_always_been_online.md
+
+Job: Correct the historical framing.
+
+Women didn’t suddenly arrive on an otherwise naturally male internet and begin experiencing online harm.
+
+The node should follow women as builders, programmers, users, moderators, writers, artists, fans, gamers, sex workers, activists, researchers, community organisers and creators across successive digital architectures.
+
+The useful chronology is technological rather than merely event-based:
+
+early networks/forums
+→ web communities
+→ blogs
+→ social networking
+→ smartphones
+→ platform consolidation
+→ algorithmic feeds
+→ creator economy
+→ generative AI.
+
+At every transition ask:
+
+What became easier? What became harder? What became visible? Who gained power? Who acquired access to whom?
+
+Dickwolves belongs somewhere in this historical neighbourhood once we find the existing Polaris node. It is useful precisely because pre-GamerGate online gender conflict helps prevent GamerGate from being treated as Year Zero.
+
+Question answered: How did changing internet architecture change women’s participation, power and exposure?
+
+⸻
+
+🪞_the_backlash_was_also_networked.md
+
+Job: Supply the historical bridge into 🌱_Thanks_Algorithm/.
+
+Women and feminist movements gained new capacities from networked communication.
+
+Their opponents did too.
+
+This is where we can trace earlier online gender conflict, rape-joke/free-speech battles, harassment cultures, gaming-community boundary policing, anti-feminist communities and grievance formation through things such as Dickwolves and GamerGate, and toward later manosphere/red-pill/incel ecosystems.
+
+It should be careful about lineage: these aren’t all the same movement and we shouldn’t manufacture a neat deterministic genealogy.
+
+The point is about affordances and recurring political dynamics:
+
+networked feminist mobilisation
+↕
+networked antifeminist countermobilisation.
+
+Then hand directly to:
+
+../🌱_Thanks_Algorithm/
+
+for Tate, manosphere, recommender systems, radicalisation and contemporary online→offline pathways.
+
+Question answered: If women could organise online, what happened when misogynists learned to organise there too?
+
+⸻
+
+🕹️_cyberfeminism_before_the_algorithm.md
+
+Job: Restore feminist technological imagination to the history.
+
+Long before today’s debates about recommender systems and Online Safety Act duties, feminist thinkers and digital communities were already asking what networked technologies might do to:
+
+* sex;
+* gender;
+* bodies;
+* identity;
+* labour;
+* hierarchy;
+* reproduction;
+* community;
+* knowledge;
+* power.
+
+This is the intellectual/history node for cyberfeminism and its surrounding digital cultures.
+
+It stops our history becoming:
+
+technology happened → women were harmed → government regulation followed.
+
+Women were also experimenting with what digital technologies might make possible.
+
+Question answered: Before we started asking how to make platforms less harmful, what did feminists imagine technology could actually become?
+
+⸻
+
+🪬_xenofeminism_and_the_engineered_body.md
+
+Job: Take one particularly useful later technological-feminist tradition seriously enough to explain it.
+
+We already have:
+
+🪬_xenofeminism_link_note.md
+Xenofeminism Link Note — Reclaiming the Engineered Body
+
+in the existing Polaris ecology.
+
+So this should cross-link rather than overwrite it.
+
+The useful concepts for Digitally Women are things like anti-naturalism, technological appropriation, autonomy, engineered bodies and the possibility of deliberately altering systems rather than treating existing arrangements as inevitable.
+
+It also creates a bridge between the historical/intellectual material and Polaris’s existing embodiment work.
+
+Question answered: What if technological mediation of bodies and gender is not inherently the problem—and the question is who controls the engineering?
+
+⸻
+
+🌞_we_could_build_nicer_things.md
+
+Job: Make the constructive lineage impossible to miss.
+
+This is important enough that I would resist turning it into the cyberfeminism node’s final section.
+
+Bring together:
+
+* cyberfeminist inheritance;
+* xenofeminism;
+* solarpunk;
+* feminist HCI;
+* feminist STS;
+* design justice;
+* accessibility;
+* community technology;
+* mutual-aid infrastructures;
+* care-centred design;
+* queer technological experimentation;
+* rehabilitative/therapeutic technology;
+* alternative platform/community governance.
+
+The argument is deliberately simple:
+
+The choice is not between today’s harmful technologies and no technology.
+
+Systems can be built around different assumptions about bodies, relationships, autonomy, safety, accessibility, community and power.
+
+That gives us the obvious cross-link to:
+
+🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/
+
+including 💎_therapeutic_sandbox.md.
+
+This is where solarpunk cyberfeminism exists, guys! becomes analytically useful rather than merely a cry of despair at contemporary platform design.
+
+Question answered: Fine. What does the less-shit technological future look like?
+
+⸻
+
+🧭_how_we_got_to_here.md
+
+Job: Synthesis and handoff.
+
+This should probably be the shortest substantive node in the folder. Mostly chronology, diagrams and links.
+
+Something like:
+
+women build and inhabit network cultures
+              ↓
+new forms of community and expression
+              ↓
+feminist organising exploits network effects
+              ↕
+antifeminist countermobilisation does too
+              ↓
+platform consolidation changes distribution
+              ↓
+engagement/recommendation systems reshape exposure
+              ↓
+grievance communities become increasingly networked
+              ↓
+online/offline distinction becomes less useful
+              ↓
+misogyny / manosphere / radicalisation /
+VAWG / safeguarding begin colliding as policy problems
+              ↓
+2026
+
+But it should also show the other branch:
+
+cyberfeminism
+      ↓
+feminist technological thought
+      ↓
+xenofeminism / feminist design / solarpunk / STS
+      ↓
+alternative technological futures
+
+Because there are two histories arriving in 2026: the history of digitally mediated gendered harm, and the history of trying to build something better.
+
+End with:
+
+Continue → ../🌱_Thanks_Algorithm/
+
+for the contemporary misogyny/manosphere/radicalisation ecology.
+
+Question answered: Right. So how did all of those histories produce the mess we’re discussing now?
+
+⸻
+
+The mini-cluster’s argument
+
+Read in order, it now does something quite neat:
+
+📚 What do these words mean?
+→ 💾 What is Girl Internet?
+→ 🌸 Which feminisms are we talking about?
+→ 💾 Women were here all along.
+→ 🪞 So was the backlash.
+→ 🕹️ But feminists were imagining technology differently too.
+→ 🪬 Including technologically remaking supposedly “natural” arrangements.
+→ 🌞 And we could still build nicer things.
+→ 🧭 Okay: now you understand how we got here.
+
+That feels like the right historical/intellectual foundation for the much nastier material waiting next door in 🌱_Thanks_Algorithm/.
