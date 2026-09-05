@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-05 21:42:35 UTC_
+_Generated on 2026-09-05 21:53:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3694,7 +3694,6 @@ _Generated on 2026-09-05 21:42:35 UTC_
           - [`🧠_radicalisation_is_not_a_sentencing_factor.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🌱_Thanks_Algorithm/🧠_radicalisation_is_not_a_sentencing_factor.md)
         - [**📖_Previously_On_The_Internet/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/notes.txt)
           - [`🌞_we_could_build_nicer_things.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🌞_we_could_build_nicer_things.md)
           - [`🌸_guide_to_online_feminisms.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🌸_guide_to_online_feminisms.md)
           - [`🐇_rabbitholes_for_the_boys.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🐇_rabbitholes_for_the_boys.md)
