@@ -106,23 +106,23 @@ The purpose here is violence prevention and accurate description, not competitiv
 
 ### 🟢 Places You Should Recognise
 
-| Place           | What it is                                                                                             | Why it appears here                                                                                            |
+| Place  | What it is  | Why it appears her  |
 |---|---|---|
-| **TikTok**      | Short-form video/social platform with highly personalised recommendation systems.                      | Major site of youth culture, creator influence, gender discourse and political/social information.             |
-| **YouTube**     | Video platform spanning entertainment, education, commentary and creator ecosystems.                   | Long important to influencer cultures, recommendation debates and political media.                             |
-| **Reddit**      | Large network of topic-based communities called subreddits.                                            | Different communities can develop dramatically different norms and political cultures.                         |
-| **X / Twitter** | Public-facing social network organised heavily around posts, replies, reposts and networked attention. | Particularly important to journalism, politics, pile-ons and discourse formation.                              |
-| **Discord**     | Server/channel-based communication platform commonly used by gaming, fandom and interest communities.  | More enclosed communities can develop alongside highly public platforms.                                       |
-| **Telegram**    | Messaging/broadcast platform supporting groups and channels.                                           | Frequently appears in discussions of platform migration and political or extremist communities.                |
-| **4chan**       | Anonymous imageboard divided into separate boards with different subjects and cultures.                | Hugely influential in meme, trolling and political internet history. **4chan is not one political community.** |
+| **TikTok**  | Short-form video/social platform with highly personalised recommendation systems.  | Major site of youth culture, creator influence, gender discourse and political/social information.  |
+| **YouTube**  | Video platform spanning entertainment, education, commentary and creator ecosystems.  | Long important to influencer cultures, recommendation debates and political media.  |
+| **Reddit**  | Large network of topic-based communities called subreddits.  | Different communities can develop dramatically different norms and political cultures.  |
+| **X / Twitter** | Public-facing social network organised heavily around posts, replies, reposts and networked attention. | Particularly important to journalism, politics, pile-ons and discourse formation.   |
+| **Discord**  | Server/channel-based communication platform commonly used by gaming, fandom and interest communities.  | More enclosed communities can develop alongside highly public platforms.  |
+| **Telegram**  | Messaging/broadcast platform supporting groups and channels.  | Frequently appears in discussions of platform migration and political or extremist communities.  |
+| **4chan**  | Anonymous imageboard divided into separate boards with different subjects and cultures.  | Hugely influential in meme, trolling and political internet history. **4chan is not one political community.**  |
 
 ### 🟢 People You Will Probably Encounter
 
-| Figure   | Why they appear in this map  | Do not flatten  |
+| Figure  | Why they appear in this map  | Do not flatten  |
 |---|---|---|
 | **Andrew Tate**  | Contemporary reference point for manosphere/manfluencer culture, particularly where wealth, masculinity, dating, status and misogynistic gender ideas intersect with audiences of boys and young men. | Tate is not “the manosphere”.  |
-| **Jordan Peterson** | Relevant to online conversations about masculinity, self-help, hierarchy, gender roles and male grievance in a more intellectualised register.  | Peterson ≠ Tate; disagreement with his politics ≠ classification as an incel influencer.  |
-| **Joe Rogan**  | Useful for understanding enormous podcast audiences, long-form creator media and the movement of ideas between subcultures and mainstream attention.  | Audience/distribution role ≠ endorsement of every guest or idea circulating through the ecosystem. |
+| **Jordan Peterson**  | Relevant to online conversations about masculinity, self-help, hierarchy, gender roles and male grievance in a more intellectualised register.  | Peterson ≠ Tate; disagreement with his politics ≠ classification as an incel influencer.  |
+| **Joe Rogan**  | Useful for understanding enormous podcast audiences, long-form creator media and the movement of ideas between subcultures and mainstream attention.  | Audience/distribution role ≠ endorsement of every guest or idea circulating through the ecosystem.  |
 
 ---
 
@@ -168,29 +168,29 @@ The important question is:
 
 | Type | Term  | Working definition | Don’t flatten  |
 |---|---|---|---|
-| 🧨   | **Brigading**                            | Mobilising users from one community toward another target or community.                                                            | Similar opinions appearing simultaneously do not prove coordination.                           |
-| 🧨   | **Sockpuppet**                           | A false or additional online identity used to disguise who is speaking or create an appearance of independent participation.       | Not every anonymous account is a sockpuppet.                                                   |
-| 🧨   | **Astroturfing**                         | Activity designed to create the appearance of organic grassroots support or opposition.                                            | Genuine grassroots mobilisation can also be highly organised.                                  |
-| 🧨   | **Sealioning**                           | Persistent, ostensibly polite questioning performed in bad faith to exhaust, derail or demand endless justification from a target. | Asking difficult questions is not inherently sealioning.                                       |
-| 🧨   | **Concern trolling**                     | Criticism or disruption presented as sympathetic concern for the target or cause.                                                  | Sincere internal criticism exists.                                                             |
-| 💬   | **Dogwhistle**                           | Language carrying an additional meaning recognisable to a particular audience while remaining more innocuous to outsiders.         | Not every ambiguous phrase is coded speech.                                                    |
-| 💬   | **Shadowban**                            | Internet term for reduced visibility imposed without an obvious account ban.                                                       | Users frequently infer shadowbanning from ordinary changes in reach; platform mechanisms vary. |
-| 🧨   | **Deplatforming**                        | Removal or restriction of a speaker or community from a platform or service.                                                       | Does not necessarily eliminate the community; migration matters.                               |
-| 💬   | **Rabbit hole**                          | Metaphor for increasingly deep or specialised content exposure or participation.                                                   | Not a technical synonym for radicalisation.                                                    |
-| 💬   | **Echo chamber**                         | Environment in which similar views are repeatedly reinforced and contrary views are limited or discounted.                         | Real networks are often messier than the metaphor suggests.                                    |
-| 💬   | **Irony poisoning**                      | Internet shorthand for prolonged ironic engagement blurring the boundary between parody and sincere belief.                        | Difficult to establish from individual posts alone.                                            |
-| 💬   | **“Just asking questions” / JAQing off** | Performing neutral inquiry while repeatedly advancing insinuations without owning the underlying claim.                            | Genuine questions remain legal and useful; please continue asking them.                        |
+| 🧨   | **Brigading**  | Mobilising users from one community toward another target or community.  | Similar opinions appearing simultaneously do not prove coordination.  |
+| 🧨   | **Sockpuppet**  | A false or additional online identity used to disguise who is speaking or create an appearance of independent participation.       | Not every anonymous account is a sockpuppet.  |
+| 🧨   | **Astroturfing**  | Activity designed to create the appearance of organic grassroots support or opposition.  | Genuine grassroots mobilisation can also be highly organised.  |
+| 🧨   | **Sealioning**  | Persistent, ostensibly polite questioning performed in bad faith to exhaust, derail or demand endless justification from a target. | Asking difficult questions is not inherently sealioning.  |
+| 🧨   | **Concern trolling**  | Criticism or disruption presented as sympathetic concern for the target or cause.  | Sincere internal criticism exists.  |
+| 💬   | **Dogwhistle**  | Language carrying an additional meaning recognisable to a particular audience while remaining more innocuous to outsiders.  | Not every ambiguous phrase is coded speech.  |
+| 💬   | **Shadowban**  | Internet term for reduced visibility imposed without an obvious account ban.  | Users frequently infer shadowbanning from ordinary changes in reach; platform mechanisms vary.  |
+| 🧨   | **Deplatforming**  | Removal or restriction of a speaker or community from a platform or service.  | Does not necessarily eliminate the community; migration matters.  |
+| 💬   | **Rabbit hole**   | Metaphor for increasingly deep or specialised content exposure or participation.  | Not a technical synonym for radicalisation.   |
+| 💬   | **Echo chamber**  | Environment in which similar views are repeatedly reinforced and contrary views are limited or discounted.  | Real networks are often messier than the metaphor suggests.  |
+| 💬   | **Irony poisoning**  | Internet shorthand for prolonged ironic engagement blurring the boundary between parody and sincere belief.  | Difficult to establish from individual posts alone.  |
+| 💬   | **“Just asking questions” / JAQing off** | Performing neutral inquiry while repeatedly advancing insinuations without owning the underlying claim.  | Genuine questions remain legal and useful; please continue asking them.  |
 
 ### 🔵 Communities, Histories and Figures
 
-| Entry                           | Why you need it                                                                                                                                                                                                                                                                                                                        |
+| Entry  | Why you need it  |
 |---|---|
-| **/pol/**                       | 4chan’s “Politically Incorrect” board. Particularly relevant to far-right, racist, antisemitic and political meme cultures. Do not use `/pol/` as shorthand for all of 4chan.                                                                                                                                                          |
-| **GamerGate**                   | Mid-2010s controversy/movement centred nominally on games journalism but inseparable from major disputes about feminism, harassment, women in gaming and networked online politics. An important bridge in the history leading from earlier internet culture wars into later political ecosystems.                                     |
-| **PUA / pickup artist culture** | Communities and commercial advice cultures concerned with techniques for attracting or having sex with women. Historically important to parts of the manosphere genealogy.                                                                                                                                                             |
-| **MRA / men’s rights activism** | Advocacy organised around perceived legal, cultural or social disadvantages experienced by men. Contains heterogeneous politics and should not automatically be treated as synonymous with misogyny or incel ideology.                                                                                                                 |
-| **Blackpill**                   | In incel/manosphere contexts, a fatalistic worldview emphasising supposedly immutable biological or appearance-based determinants of sexual or social success.                                                                                                                                                                         |
-| **Milo Yiannopoulos**           | British provocateur important to understanding the mid-2010s intersection of trolling, anti-feminism, GamerGate-era culture war, Breitbart and the emerging online right. He is historically a different kind of figure from Tate’s contemporary manfluencer model. His renewed 2026 news relevance makes that genealogy useful again. |
+| **/pol/**  | 4chan’s “Politically Incorrect” board. Particularly relevant to far-right, racist, antisemitic and political meme cultures. Do not use `/pol/` as shorthand for all of 4chan.  |
+| **GamerGate**  | Mid-2010s controversy/movement centred nominally on games journalism but inseparable from major disputes about feminism, harassment, women in gaming and networked online politics. An important bridge in the history leading from earlier internet culture wars into later political ecosystems.  |
+| **PUA / pickup artist culture** | Communities and commercial advice cultures concerned with techniques for attracting or having sex with women. Historically important to parts of the manosphere genealogy.  |
+| **MRA / men’s rights activism** | Advocacy organised around perceived legal, cultural or social disadvantages experienced by men. Contains heterogeneous politics and should not automatically be treated as synonymous with misogyny or incel ideology.  |
+| **Blackpill**  | In incel/manosphere contexts, a fatalistic worldview emphasising supposedly immutable biological or appearance-based determinants of sexual or social success.  |
+| **Milo Yiannopoulos**  | British provocateur important to understanding the mid-2010s intersection of trolling, anti-feminism, GamerGate-era culture war, Breitbart and the emerging online right. He is historically a different kind of figure from Tate’s contemporary manfluencer model. His renewed 2026 news relevance makes that genealogy useful again. |
 
 ---
 
@@ -200,7 +200,7 @@ The important question is:
 
 These terms need more than a dictionary definition because they make claims about **mechanism**.
 
-| Concept                       | Working use                                                                                                                                                                   | Precision note                                                                                       |
+| Concept  | Working use  | Precision note  |
 |---|---|---|
 | **Networked misogyny**        | Misogyny produced, circulated or reinforced through interconnected users, communities, media and platforms.                                                                   | “Networked” does not necessarily mean centrally coordinated.                                         |
 | **Participatory misogyny**    | Misogynistic meaning or targeting produced collectively through participation rather than one speaker acting alone.                                                           | Participants may contribute very different amounts and kinds of conduct.                             |
