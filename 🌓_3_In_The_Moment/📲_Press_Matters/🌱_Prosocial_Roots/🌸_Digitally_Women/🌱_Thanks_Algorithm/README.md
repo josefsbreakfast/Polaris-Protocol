@@ -1,9 +1,3 @@
-├── README.md
-├── 🌱_misogyny_is_in_the_roots.md
-├── 👠_you_are_not_getting_the_same_feed.md
-├── 🥃_the_manosphere_ecosystem.md
-├── 🌱_he_only_wanted_dating_advice.md
-├── 📈_how_the_feed_changes_the_ecology.md
-├── 🕸️_from_online_grievance_to_offline_harm.md
-├── 🧠_radicalisation_is_not_a_sentencing_factor.md
-└── 📲_online_safety_and_platforms.md
+### `README.md`
+
+**The map of the problem.** Introduce *Thanks, Algorithm!* as the part of Digitally Women concerned with how misogynistic ideas circulate, acquire audiences, overlap with broader grievance and radicalisation ecosystems, and sometimes contribute to offline harm. Establish the perpetrator-behaviour frame: the concern is anti-woman hatred, gender hierarchy and violence, including misogynistic targeting of trans and gender-diverse people. Make clear that algorithms matter, but are only one actor in an ecology containing people, communities, creators, commercial incentives and pre-existing social prejudice. Route readers through the nodes.
