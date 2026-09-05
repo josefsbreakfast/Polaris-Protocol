@@ -3,7 +3,7 @@
 The problem before somebody commits the aggravated offence. Start with the petition's concern about anti-feminist groups and online radicalisation, then examine the unresolved Law Commission recommendation to extend stirring-up offences to sex or gender, including its concern about extremist misogynist/incel ideology. Distinguish ordinary—even repellent—misogynistic speech from the much higher criminal threshold for stirring up hatred. Cross-link heavily to 🌱_Thanks_Algorithm/: the microphone, audience and recommender system are an information ecology, not automatically a criminal offence.
 
 
-YES. That is actually useful rather than just funny.
+
 
 Inside `📣_men_with_microphones.md`:
 
