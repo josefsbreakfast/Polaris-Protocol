@@ -1,6 +1,39 @@
 🌸_Digitally_Women/
 │
 ├── README.md
+├── 🗣️_explain_this_in_500_words_or_less.md
+├── notes.txt
+│
+├── 📖_Previously_On_The_Internet/
+│   └── history, terminology, women's movements,
+│       cyber/xenofeminism, where this all came from
+│
+├── 🌱_Thanks_Algorithm/
+│   └── misogyny, manosphere, Tate/red-pill/PUA,
+│       amplification, radicalisation, online → offline
+│
+├── 🛸_LOOK_UP/
+│   └── warning signs, risk signals, pattern recognition,
+│       reporting, information-sharing, early intervention
+│
+├── ♻️_Re_Recommendations/
+│   └── inquiries, safeguarding recommendations,
+│       implementation failure, institutional memory,
+│       "haven't we recommended this already?"
+│
+├── 🧾_Petition_GC/
+│   └── petition 746640, legislation, s66, stirring-up,
+│       government translation, Macdonald, Monday's debate
+│
+└── ⚡_Lightning_Round_Press/
+    └── journalist/politician tools, questions, claims,
+        terminology, sources, quick briefing
+
+- - - 
+
+🌸_Digitally_Women/
+│
+├── README.md
 │
 ├── ⚖️_what_the_law_actually_does.md
 ├── 🕳️_the_section_66_gap.md
