@@ -1,5 +1,5 @@
-# 📚 Definitions & Registers
-**First created:** 2026-09-05 | **Last updated:** 2026-09-05
+# 📚 Definitions & Registers  
+**First created:** 2026-09-05 | **Last updated:** 2026-09-05  
 *A searchable, printable, grab-and-go field guide for translating between internet culture, feminist analysis, journalism, policy, safeguarding and law.*
 
 ---
