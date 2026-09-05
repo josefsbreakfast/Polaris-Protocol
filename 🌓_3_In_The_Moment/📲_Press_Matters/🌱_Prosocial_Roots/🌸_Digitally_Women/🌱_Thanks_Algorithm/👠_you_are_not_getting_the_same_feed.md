@@ -1,10 +1,3 @@
-🌱_Thanks_Algorithm/
-├── README.md
-├── 🌱_misogyny_is_in_the_roots.md
-├── 👠_you_are_not_getting_the_same_feed.md
-├── 🥃_the_manosphere_ecosystem.md
-├── 🌱_he_only_wanted_dating_advice.md
-├── 📈_how_the_feed_changes_the_ecology.md
-├── 🕸️_from_online_grievance_to_offline_harm.md
-├── 🧠_radicalisation_is_not_a_sentencing_factor.md
-└── 📲_online_safety_and_platforms.md
+### `👠_you_are_not_getting_the_same_feed.md`
+
+**Women keep explaining this because other people genuinely aren't experiencing the same environment.** Explore the epistemic gap between people routinely exposed to misogyny, sexual threat, coercive behaviour and gendered harassment and those—often men—who encounter much less of it. Include both literal personalised feeds and differences in lived experience. Explain why women's collective testimony can reveal patterns invisible from another vantage point, and why policy and journalism should not confuse *“I haven't seen this”* with *“this isn't happening.”*
