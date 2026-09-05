@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-05 18:17:18 UTC_
+_Generated on 2026-09-05 18:18:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -911,6 +911,7 @@ _Generated on 2026-09-05 18:17:18 UTC_
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/README.md)
       - [`🌹_digital_romeo_spy_stories.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🌹_digital_romeo_spy_stories.md)
       - [`🎮_p1_is_practising.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎮_p1_is_practising.md)
+      - [`🐺_dickwolves_survivors_guild.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🐺_dickwolves_survivors_guild.md)
       - [`👗_la_camarilla_de_l_orange.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/👗_la_camarilla_de_l_orange.md)
       - [`📈_$seo.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/📈_$seo.md)
       - [`📥_chattering_chatbots.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/📥_chattering_chatbots.md)
@@ -1281,7 +1282,6 @@ _Generated on 2026-09-05 18:17:18 UTC_
         - [`🎻_clash_of_forks.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🎻_clash_of_forks.md)
         - [`🐍_snake_bites_and_stolen_voices.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_snake_bites_and_stolen_voices.md)
         - [`🐍_trauma_commodification.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_trauma_commodification.md)
-        - [`🐺_dickwolves_survivors_guild.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐺_dickwolves_survivors_guild.md)
         - [`📛_pathway_fit_error.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📛_pathway_fit_error.md)
         - [`📜_if_and_the_ethics_of_staying_intact.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📜_if_and_the_ethics_of_staying_intact.md)
         - [`📧_it_could_have_been_an_email.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🐦‍🔥_Trauma_Psychology_Medical_Misuse/📧_it_could_have_been_an_email.md)
