@@ -1,10 +1,3 @@
-🌱_Thanks_Algorithm/
-├── README.md
-├── 🌱_misogyny_is_in_the_roots.md
-├── 👠_you_are_not_getting_the_same_feed.md
-├── 🥃_the_manosphere_ecosystem.md
-├── 🌱_he_only_wanted_dating_advice.md
-├── 📈_how_the_feed_changes_the_ecology.md
-├── 🕸️_from_online_grievance_to_offline_harm.md
-├── 🧠_radicalisation_is_not_a_sentencing_factor.md
-└── 📲_online_safety_and_platforms.md
+### `🥃_the_manosphere_ecosystem.md`
+
+**There isn't one Manosphere™ and there isn't one pipeline.** Provide a usable map of overlapping PUA, red-pill, incel, men's-rights, masculinity/self-improvement, influencer and adjacent grievance cultures, including Tate-style content. Distinguish their beliefs and audiences while identifying shared concepts, migrations and points of contact. Cross-link heavily to `🥃_Males_Online/`. The goal is to give policy and press enough cultural literacy to stop treating every male-coded online community as either harmless self-help or interchangeable extremism.
