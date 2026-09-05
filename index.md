@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-05 16:36:30 UTC_
+_Generated on 2026-09-05 16:49:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3697,6 +3697,7 @@ _Generated on 2026-09-05 16:36:30 UTC_
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/notes.txt)
           - [`🌞_we_could_build_nicer_things.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🌞_we_could_build_nicer_things.md)
           - [`🌸_guide_to_online_feminisms.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🌸_guide_to_online_feminisms.md)
+          - [`🐇_rabbitholes_for_the_boys.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🐇_rabbitholes_for_the_boys.md)
           - [`💾_guide_to_girl_internet.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/💾_guide_to_girl_internet.md)
           - [`💾_women_have_always_been_online.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/💾_women_have_always_been_online.md)
           - [`📚_definitions_and_registers.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/📚_definitions_and_registers.md)
