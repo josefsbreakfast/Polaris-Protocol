@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-05 15:27:30 UTC_
+_Generated on 2026-09-05 15:31:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3692,7 +3692,15 @@ _Generated on 2026-09-05 15:27:30 UTC_
           - [`🪞_the_backlash_was_also_networked.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🪞_the_backlash_was_also_networked.md)
           - [`🪬_xenofeminism_and_the_engineered_body.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🪬_xenofeminism_and_the_engineered_body.md)
         - [**🛸_LOOK_UP/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/notes.txt)
+          - [`🌱_before_the_offence.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/🌱_before_the_offence.md)
+          - [`🏫_schools_colleges_and_universities.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/🏫_schools_colleges_and_universities.md)
+          - [`👁️_misogyny_as_a_risk_signal.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/👁️_misogyny_as_a_risk_signal.md)
+          - [`🔗_information_has_to_travel.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/🔗_information_has_to_travel.md)
+          - [`🛸_the_warning_signs_are_visible_from_space.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/🛸_the_warning_signs_are_visible_from_space.md)
+          - [`🧩_pattern_recognition_not_incident_processing.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/🧩_pattern_recognition_not_incident_processing.md)
+          - [`🩸_survivor_support_and_reporting.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/🩸_survivor_support_and_reporting.md)
         - [**🧾_Petition_GC/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/notes.txt)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/README.md)
