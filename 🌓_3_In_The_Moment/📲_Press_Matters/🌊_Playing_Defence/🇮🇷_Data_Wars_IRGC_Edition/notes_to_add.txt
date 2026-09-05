@@ -440,3 +440,48 @@ That is a meaningful shift from healthcare organisations being penetrated toward
 The pattern therefore supports the broader model we have been developing: healthcare has become a crowded wartime attack surface occupied simultaneously by state-linked actors, unattributed operators and ransomware ecosystems, rather than evidence of one coherent Iranian campaign.
 
 I did not find another newly reported cyber incident in energy, water, transport, telecommunications, defence, education, government administration or systemically important banking that clears the threshold for a separate alert today.”
+
+20260905:  
+
+“There is one meaningful pattern shift worth flagging: credible reporting now indicates that the Iran-linked U.S. infrastructure campaign has broadened beyond the water/PLC cluster into telecommunications and energy targeting.
+
+🇺🇸 United States — telecommunications, energy and water
+
+NBC News reporting published 2 September 2026, subsequently corroborated in coverage by The National, says Iranian government-linked hackers have increased attempts in recent weeks to compromise U.S. systems capable of affecting electricity, telecommunications and other critical infrastructure. The reported activity remains concentrated on internet-exposed automated/control systems, and the newly reported attempts have not produced major operational disruption so far.  
+
+Operational impact: currently limited for this newly reported tranche. This is principally attempted access/reconnaissance rather than a newly confirmed blackout or telecom outage. That matters because the significance is in target expansion, not spectacular effect.
+
+Attribution confidence: moderate-to-high at campaign level, lower for individual intrusions. The reporting describes the activity as Iranian government-linked and cites people with access to U.S. government and industry threat information. It also sits on top of the April federal attribution of disruptive PLC exploitation to Iran-affiliated actors. But there is not yet a new CISA/FBI technical advisory publicly tying every September telecom or energy attempt to a named Iranian unit.  
+
+Competing explanations remain important. Internet-facing OT and automation systems are attractive to criminals, hacktivists and other states as well. The use of relatively simple exploitation against weak credentials, old equipment and unnecessarily exposed devices means technical similarity alone is becoming less useful for attribution. The same weaknesses can be discovered independently by several actor populations.  
+
+The activity nevertheless fits known Iranian methods and current wartime incentives very closely. The recurring pattern is opportunistic exploitation of poorly defended infrastructure rather than expensive bespoke intrusion: identify reachable control systems, test whether they can be manipulated, and retain ambiguity about how much destructive capability exists behind the access. That is consistent with the earlier Iran-affiliated water/PLC campaign and with Tehran’s incentive to impose domestic defensive costs on the United States without needing to match U.S. conventional military power.  
+
+How this changes the trend since 28 February
+
+This is the important part.
+
+The progression now looks like:
+
+March–April: confirmed Iran-linked disruptive activity against exposed industrial control systems
+→ July: large water-sector wave, eventually exceeding 100 exposed systems
+→ August: Siemens-oriented reconnaissance/capability development and UK energy disruption
+→ late August / early September: reported expansion into U.S. energy + telecommunications + water simultaneously.
+
+Telecommunications is the notable addition. It suggests the campaign is no longer best understood simply as:
+
+Iranian actors like vulnerable PLCs.
+
+A better working model is becoming:
+
+Iranian-linked operators are searching across multiple essential-service sectors for inexpensive, internet-reachable systems through which they can generate disruption, reconnaissance value or coercive leverage.
+
+That is a genuine cross-sector pattern shift even though the newest attempts have not caused major outages.
+
+It also raises an analytical question worth watching: whether telecom targeting uses the same OT/PLC logic or represents a separate access campaign against carrier-network infrastructure. Telecom systems do not map neatly onto the water-sector PLC architecture seen earlier. If subsequent technical reporting shows different tooling or operators, we may be looking at several Iranian units pursuing a shared strategic objective rather than one expanding threat group.
+
+I found no separate newly confirmed cyber-induced outage in healthcare, government administration, defence, education, transport, banking, water or energy since the previous check that clears the threshold for another alert. The German power-grid incidents remain physical sabotage rather than cyber and are therefore still outside this watch.  
+
+The National — Iran's cyber attack strategy is 'perfect weapon' against US⁠￼”
+
+- https://www.thenationalnews.com/future/technology/2026/09/02/iran-cyberattack-hack-us-infrastructure/
