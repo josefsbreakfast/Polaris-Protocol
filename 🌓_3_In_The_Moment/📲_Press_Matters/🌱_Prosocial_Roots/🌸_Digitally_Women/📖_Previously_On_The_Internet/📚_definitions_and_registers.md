@@ -475,14 +475,14 @@ Podcasts, videos, archived posts, interviews and other internet-native material 
 
 They should, however, be labelled according to what they can establish.
 
-| Source type                                   | Best used for                                                                                      | Do not automatically treat it as                                    |
+| Source type | Best used for  | Do not automatically treat it as  |
 |---|---|---|
-| **Podcast episode / creator interview**       | What a speaker said; self-presentation; rhetoric; audience framing; contemporary cultural language | Independent verification that the speaker’s factual claims are true |
-| **Archived post / forum thread**              | Primary evidence of language, memes, community norms or a particular interaction                   | Evidence that every member of the community shared the same view    |
-| **Video / livestream**                        | Performance, rhetoric, audience interaction and the circulation of ideas                           | A representative sample of a whole movement                         |
-| **First-person interview / oral history**     | Lived experience, chronology, movement memory and leads for further research                       | Complete documentary reconstruction by itself                       |
-| **Independent podcast journalism**            | Reporting, interviews, documentary leads and specialist investigation                              | A substitute for checking the underlying documents where available  |
-| **Mainstream broadcast / podcast journalism** | Contemporary reporting, interviews and public framing                                              | Automatically superior to specialist or independent reporting       |
+| **Podcast episode / creator interview**  | What a speaker said; self-presentation; rhetoric; audience framing; contemporary cultural language | Independent verification that the speaker’s factual claims are true |
+| **Archived post / forum thread**  | Primary evidence of language, memes, community norms or a particular interaction  | Evidence that every member of the community shared the same view  |
+| **Video / livestream**  | Performance, rhetoric, audience interaction and the circulation of ideas  | A representative sample of a whole movement  |
+| **First-person interview / oral history**  | Lived experience, chronology, movement memory and leads for further research  | Complete documentary reconstruction by itself  |
+| **Independent podcast journalism**  | Reporting, interviews, documentary leads and specialist investigation  | A substitute for checking the underlying documents where available  |
+| **Mainstream broadcast / podcast journalism**  | Contemporary reporting, interviews and public framing   | Automatically superior to specialist or independent reporting  |
 
 #### Source handling rule
 
@@ -534,6 +534,8 @@ Where a secondary source summarises legislation, **follow the footnote back to t
 ## 🌌 Constellations
 
 📚 💾 🕹️ 🌸 🪩 — internet literacy; register translation; online feminist history; networked culture; policy and press orientation.
+
+---
 
 ## ✨ Stardust
 
