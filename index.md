@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-05 17:28:02 UTC_
+_Generated on 2026-09-05 17:41:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -319,7 +319,6 @@ _Generated on 2026-09-05 17:28:02 UTC_
         - [`🧬_successor_firms_scl_cambridge_analytica.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🧬_successor_firms_scl_cambridge_analytica.md)
         - [`🧱_high_conflict_tolerance_actors_in_governance_systems.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🧱_high_conflict_tolerance_actors_in_governance_systems.md)
         - [`🧱_system_literate_actors_and_fatigue_curve_failure.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🧱_system_literate_actors_and_fatigue_curve_failure.md)
-        - [`🧵_community_vulnerability_and_early_canaries.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🧵_community_vulnerability_and_early_canaries.md)
         - [`🩰_how_to_dance_en_pointe.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🩰_how_to_dance_en_pointe.md)
         - [`🪖_ukraine_v_russia_genocide_claim_timeline.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🪖_ukraine_v_russia_genocide_claim_timeline.md)
         - [`🪞_erosion_of_duty_of_care.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/👁️‍🗨️_Witness_Historical_Casefiles/🪞_erosion_of_duty_of_care.md)
@@ -1467,6 +1466,7 @@ _Generated on 2026-09-05 17:28:02 UTC_
         - [`🫥_over_safety_as_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🧠_HM_Dept_Coercive_Nudges/🫥_over_safety_as_containment.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/notes.txt)
+      - [`🧵_community_vulnerability_and_early_canaries.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🧵_community_vulnerability_and_early_canaries.md)
     - [**🐣_The_Whole_Ecology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/.🌱_Still_Growing/notes.txt)
