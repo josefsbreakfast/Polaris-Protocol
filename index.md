@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-05 15:47:23 UTC_
+_Generated on 2026-09-05 15:49:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3669,6 +3669,12 @@ _Generated on 2026-09-05 15:47:23 UTC_
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/notes.txt)
           - [`♻️_as_per_my_last_review.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/♻️_as_per_my_last_review.md)
+          - [`♻️_why_are_we_recommending_this_again.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/♻️_why_are_we_recommending_this_again.md)
+          - [`⚖️_status_reputation_and_safeguarding.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/⚖️_status_reputation_and_safeguarding.md)
+          - [`📦_recommendation_decay.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/📦_recommendation_decay.md)
+          - [`🕸️_everyone_had_a_piece.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/🕸️_everyone_had_a_piece.md)
+          - [`🧠_did_the_safeguard_survive_the_next_case.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/🧠_did_the_safeguard_survive_the_next_case.md)
+          - [`🧭_institutional_learning_or_crisis_absorption.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/🧭_institutional_learning_or_crisis_absorption.md)
         - [**⚡_Lightning_Round_Press/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/⚡_Lightning_Round_Press/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/⚡_Lightning_Round_Press/notes.txt)
         - [**🌱_Thanks_Algorithm/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🌱_Thanks_Algorithm/)
