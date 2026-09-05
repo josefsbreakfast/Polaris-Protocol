@@ -5,9 +5,9 @@ The problem before somebody commits the aggravated offence. Start with the petit
 
 
 
-Inside `📣_men_with_microphones.md`:
+Inside `📣_men_with_microphones.md`, include H2 div:  
 
-## 🥺 but what if she means ***my*** microphone?
+## 🥺 But what if she means ***my*** microphone?
 
 And that section can do the **speech-threshold / scope clarification** in accessible language.
 
