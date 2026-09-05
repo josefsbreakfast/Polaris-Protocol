@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-05 23:34:44 UTC_
+_Generated on 2026-09-05 23:45:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4903,7 +4903,6 @@ _Generated on 2026-09-05 23:34:44 UTC_
     - [**🤖_AI_Beyond_AI/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/)
       - [`README.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/README.md)
       - [`🐧_ai_as_conservator_assistant.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🐧_ai_as_conservator_assistant.md)
-      - [`🐧_ai_as_conservator_assistant_final.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🐧_ai_as_conservator_assistant_final.md)
       - [`😻_gateways_through_womens_health.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/😻_gateways_through_womens_health.md)
       - [`🧬_neural_network_remodelling_gynaecology.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🧬_neural_network_remodelling_gynaecology.md)
       - [`🩰_crafting_datacentre_balance.md`](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🩰_crafting_datacentre_balance.md)
