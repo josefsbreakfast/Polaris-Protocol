@@ -14,3 +14,293 @@
 ├── 🕵️_where_is_macdonald.md
 ├── 🗣️_questions_for_journalists.md
 └── 🏛️_westminster_hall_7_september_2026.md
+
+- - -  
+
+Yes — you caught me halfway through actually architecting the cluster before we got distracted naming the beast. 😭
+
+What I was going to suggest was:
+
+🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/
+
+Then make this a proper reusable briefing cluster, not merely a node about Monday. Something roughly like:
+
+🌸_Digitally_Women/
+│
+├── README.md
+│
+├── ⚖️_what_the_law_actually_does.md
+├── 🕳️_the_section_66_gap.md
+├── 📣_stirring_up_misogyny.md
+├── 🧠_radicalisation_is_not_a_sentencing_factor.md
+├── 🌱_before_the_offence.md
+├── 🔗_information_has_to_travel.md
+├── 📲_online_safety_and_platforms.md
+├── 🏫_schools_colleges_and_universities.md
+├── 🩸_survivor_support_and_reporting.md
+├── 🕵️_where_is_macdonald.md
+├── 🗣️_questions_for_journalists.md
+└── 🏛️_westminster_hall_7_september_2026.md
+
+Although I’d refine the emojis against the palette before finalising.  
+
+The README can establish the core distinction we’ve already identified:
+
+Misogyny can enter public policy at several different points. Criminal law can recognise hostility after an offence has occurred. Prevention policy has the harder job of recognising what misogynistic behaviour, networks and escalation may mean before somebody reaches sentencing.
+
+Then the nodes divide the problem rather than repeating the Commons Library briefing.
+
+⚖️_what_the_law_actually_does.md becomes the clean technical explainer: no single hate-crime offence; Crime and Disorder Act architecture; section 145; specified offences; higher maxima; what “sex” being added actually means. Crucially, it prevents press shorthand like “misogyny is now a hate crime” from silently swallowing all the qualifications.
+
+🕳️_the_section_66_gap.md isolates the weird bit. Sex enters one part of hate-crime architecture but not the general section 66 sentencing mechanism. That deserves its own little briefing because otherwise it will disappear inside legislative plumbing.
+
+📣_stirring_up_misogyny.md gets Law Commission recommendation 23, incel/extremist misogynist ideology, the Public Order Act distinction, and the lack of a government response. This is where the petition’s concern about anti-feminist groups has its clearest legal-policy counterpart.
+
+🧠_radicalisation_is_not_a_sentencing_factor.md is where we can be more analytical. Government itself talks about online misogyny as a root cause of real-world violence. If that’s the model, then waiting until an offence exists and asking whether hostility aggravated it is necessarily only one intervention point.
+
+🌱_before_the_offence.md then maps the actual prosocial intervention chain:
+
+behaviour / ideology / fixation
+        ↓
+disclosure or reporting
+        ↓
+recording and evidence capture
+        ↓
+pattern recognition
+        ↓
+risk assessment
+        ↓
+information sharing
+        ↓
+safeguarding / disruption / intervention
+        ↓
+investigation and prosecution where appropriate
+        ↓
+survivor support
+        ↓
+institutional learning
+
+That is probably the intellectual centre of the cluster.
+
+And then 🔗_information_has_to_travel.md gets the recurring Polaris plumbing problem: having good policy somewhere in the state is not the same as having the relevant information available at the decision point. Police, CPS, schools/universities, safeguarding systems, Ofcom/platform processes and specialist VAWG structures can each be individually competent while the overall system still loses the pattern between them.
+
+The Macdonald node should be deliberately tiny and obnoxiously useful:
+
+Commissioned: November 2025.
+Report delivered: May 2026.
+Government said: June 2026, publication and response “shortly.”
+Current question: hello? 👀
+
+Then Monday gets its own live node rather than becoming the cluster itself. We can go into the debate with the research brief already decomposed and record what MPs actually address, what government answers, and what remains missing.
+
+Finally, 🗣️_questions_for_journalists.md makes the whole thing genuinely useful under 📲_Press_Matters: perhaps 10–15 questions which can be answered from the briefing or put directly to ministers/MPs rather than another essay explaining that misogyny is bad.
+
+And because this is now 🌸 Digitally Women, we have plenty of room later for adjacent cases where the digital environment, institutional response and women’s safety collide. It doesn’t become obsolete when Westminster Hall adjourns.
+
+Structurally I’d use current House Style rather than the older bare template: Constellations + Stardust + full footer on each substantive node.  
+
+That was basically where I was going before we discovered the considerably more important matter of giving it a ridiculous name.
+
+- - - 
+
+## E-petition 746640 — misogyny / hate crime debate handoff
+
+- **Petition:** E-petition 746640, calling for government action on crimes motivated by misogyny.
+- **Closed:** 2 June 2026.
+- **Signatures:** 114,927.
+- **Westminster Hall debate:** Monday 7 September 2026.
+- **Lead:** Tony Vaughan MP, on behalf of the Petitions Committee.
+
+### What the petition asks for
+
+- Amend the Sentencing Act 2020 so crimes motivated by misogyny are recorded/treated as hate crimes.
+- Introduce tougher laws addressing online abuse.
+- Fund training for police and prosecutors.
+- Provide support for survivors, including in education.
+- Address anti-feminist hate groups and the online radicalisation of young people.
+- Petitioners explicitly connect misogyny, harassment, assault, online abuse and environments in which violence against women and girls can develop.
+
+### Government response — 11 March 2026
+
+Government pointed principally to three strands:
+
+- **Crime and Policing Act 2026:** section 145 will add **sex** to the characteristics covered by aggravated offences under the Crime and Disorder Act 1998.
+- **Independent Review of Public Order and Hate Crime:** commissioned after the October 2025 Heaton Park Synagogue attack and conducted by Lord Macdonald of River Glaven.
+- **VAWG strategy:** *Freedom from Violence and Abuse*, published December 2025, including prevention/early intervention, perpetrator pursuit and survivor support.
+
+### Important legal distinction: there is no single offence of "hate crime"
+
+Current hate-crime architecture operates through several different mechanisms.
+
+#### 1. Crime and Disorder Act 1998 aggravated offences
+
+Sections 28–32 provide aggravated versions of specified offences, including:
+
+- assault;
+- criminal damage;
+- certain public-order offences;
+- harassment and stalking.
+
+Section 145 of the Crime and Policing Act 2026 — **not yet in force** — extends these aggravated offences to hostility based on:
+
+- disability;
+- sexual orientation;
+- transgender identity;
+- **sex**.
+
+This is a substantive change: where applicable, the aggravated offence can carry a higher statutory maximum than the basic offence.
+
+### 2. The Section 66 sentencing gap
+
+- Section 66 of the Sentencing Code provides a broader sentencing-aggravation mechanism for hate motivation in circumstances not covered by the specific aggravated offences.
+- **Sex/gender was not added to section 66 by the Crime and Policing Act 2026.**
+- Therefore the general section 66 aggravated-sentencing mechanism **does not apply simply because an offence was motivated by misogyny**.
+- This means the 2026 reform is narrower than saying generally that "misogyny has become a hate crime".
+
+Potential question for debate:
+
+> Why was sex added to the specified Crime and Disorder Act aggravated offences but not incorporated into the wider section 66 sentencing framework?
+
+### 3. Stirring up hatred remains unresolved
+
+- Public Order Act 1986 offences currently address stirring up hatred on grounds including race, religion and sexual orientation.
+- There is **no equivalent stirring-up offence covering sex/gender or misogyny**.
+- In its hate-crime review, the Law Commission recommended extending stirring-up legislation to sex or gender.
+- Recommendation 23 specifically discussed extremist misogynist/"incel" ideology and its potential relationship with serious criminal offending.
+- According to the Commons Library brief, government has **not formally responded to recommendation 23** and has not indicated an intention to legislate for it.
+
+This is particularly relevant because the petition specifically raises:
+
+> anti-feminist hate groups targeting and radicalising young people online.
+
+### 4. Potential policy mismatch: downstream aggravation vs upstream prevention
+
+The government's VAWG strategy itself recognises:
+
+- entrenched sexist attitudes;
+- misogynistic online content;
+- violent pornography;
+- difficulties for parents/teachers countering harmful material;
+- an online culture potentially normalising abuse and control;
+- these factors as possible **"online root causes" of real-world violence**.
+
+That produces an important analytical distinction:
+
+**Current/new criminal-law intervention:**
+
+misogynistic hostility
+→ specified criminal offence occurs
+→ hostility established
+→ aggravated offence / increased maximum penalty
+
+**Problem described by the petition and VAWG strategy:**
+
+misogynistic information environment
+→ normalisation / radicalisation
+→ behavioural change
+→ escalating risk
+→ harassment / abuse / violence
+
+The first intervention does not necessarily solve the second problem.
+
+### 5. Online Safety Act / Ofcom
+
+- Government also relies upon the Online Safety Act 2023.
+- In-scope platforms have duties concerning illegal content and protection of children from harmful/age-inappropriate content.
+- Ofcom can enforce those duties.
+- Ofcom has issued:
+  - illegal-content guidance;
+  - guidance concerning protection of women and girls from online harms.
+
+Questions remain about the boundary between:
+
+- platform safety regulation;
+- lawful but misogynistic/radicalising material;
+- extremist ideological ecosystems;
+- criminal "stirring up" thresholds;
+- safeguarding and early intervention.
+
+### 6. Macdonald review — major outstanding item
+
+- Home Secretary commissioned Lord Macdonald of River Glaven, former DPP, to review public-order and hate-crime legislation in November 2025.
+- Terms of reference ask whether the framework remains "fit for purpose" and whether thresholds and safeguards are appropriate/effective.
+- The terms do **not specifically mention misogyny**.
+- Dan Jarvis told Parliament in June 2026 that:
+  - Macdonald submitted his final report in **May 2026**;
+  - government was reviewing it;
+  - government would publish the report and formal response **"shortly"**.
+- As of the research brief / current discussion, publication remains outstanding.
+
+**Very obvious question for the 7 September debate:**
+
+> Where is the Macdonald report, and does it contain findings relevant to misogyny, sex-based hostility, online radicalisation or the Law Commission's outstanding recommendations?
+
+### 7. VAWG strategy
+
+*Freedom from Violence and Abuse* establishes a ten-year ambition to halve VAWG through three main objectives:
+
+1. prevention and early intervention;
+2. "relentless pursuit of perpetrators", including a National Centre for VAWG and Public Protection;
+3. support for people affected by violence and abuse.
+
+The prevention strand specifically encompasses:
+
+- online VAWG;
+- misogyny;
+- schools;
+- colleges;
+- universities.
+
+### 8. Things worth listening for in Monday's debate
+
+- Section 66 Sentencing Code gap.
+- Law Commission recommendation 23.
+- Stirring-up hatred offences and misogynistic/incel ideology.
+- Publication of the Macdonald review.
+- Difference between legislating for **"sex"** and addressing **"misogyny"** as the phenomenon identified by the petition.
+- Police and CPS training accompanying section 145.
+- Recording/data collection: will misogynistic motivation actually become visible in criminal-justice datasets?
+- Survivor support and whether new funding accompanies the legal change.
+- Universities/schools and safeguarding.
+- Online radicalisation and anti-feminist networks.
+- Ofcom/Online Safety Act limitations.
+- Whether policy addresses misogyny primarily **after an offence occurs**, or also as a potential precursor/risk signal.
+- Information-sharing between policing, safeguarding, education, online-safety and VAWG systems.
+- How effectiveness of the reforms will actually be measured.
+
+### Core analytical question
+
+The Crime and Policing Act reform is meaningful, particularly for assault, harassment and stalking.
+
+But the broader question remains:
+
+> Has government created a sufficiently joined-up system for recognising, recording, interrupting and responding to misogynistic hostility and radicalisation — or principally improved the criminal-law response once particular offences have already occurred?
+
+---
+
+## HTTP links
+
+- UK Parliament petition:
+  https://petition.parliament.uk/petitions/746640
+
+- House of Commons Library research briefing:
+  https://commonslibrary.parliament.uk/research-briefings/cbp-11073/
+
+- Petitions Committee announcement / debate information:
+  https://committees.parliament.uk/committee/326/petitions-committee/news/217572/mps-will-debate-a-petition-relating-to-crimes-motivated-by-misogyny-and-hate-crime-law/
+
+- UK Parliament — Commons business, 7–11 September 2026:
+  https://www.parliament.uk/business/news/2026/september-2026/coming-up-in-the-commons-7-11-september/
+
+- UK Parliament Live:
+  https://parliamentlive.tv/
+
+- UK Parliament YouTube:
+  https://www.youtube.com/@UKParliament
+
+- Ofcom — Online Safety:
+  https://www.ofcom.org.uk/online-safety
+
+- Government VAWG strategy — *Freedom from Violence and Abuse*:
+  https://www.gov.uk/government/publications/violence-against-women-and-girls-strategy
+
