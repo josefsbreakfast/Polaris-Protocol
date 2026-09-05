@@ -1,9 +1,5 @@
-🛸_LOOK_UP/
-├── README.md
-├── 🛸_the_warning_signs_are_visible_from_space.md
-├── 🌱_before_the_offence.md
-├── 👁️_misogyny_as_a_risk_signal.md
-├── 🔗_information_has_to_travel.md
-├── 🧩_pattern_recognition_not_incident_processing.md
-├── 🏫_schools_colleges_and_universities.md
-└── 🩸_survivor_support_and_reporting.md
+### `🩸_survivor_support_and_reporting.md`
+
+**The person experiencing the pattern may be the first person who can actually describe it.** Examine reporting systems, credibility, repeat disclosure, trauma-aware processes, practical support and what happens to information after somebody reports. Survivor support isn't an optional kindness attached to enforcement: inaccessible, unsafe or futile reporting systems also deprive institutions of information necessary for prevention and pattern recognition.
+
+This is also where we can explicitly resist the tendency to make women repeatedly provide **unpaid institutional pattern-recognition services** while each new recipient treats their account as a fresh anecdote.
