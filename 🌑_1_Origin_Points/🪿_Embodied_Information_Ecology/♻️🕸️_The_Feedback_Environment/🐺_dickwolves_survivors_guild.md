@@ -217,8 +217,9 @@ It preserves a survivor-led account of how a joke became a community alignment t
 
 > 📡 Cross-references:
 >
-> - [🧵 Community Vulnerability and Early Canaries]() — *how marginalised communities reveal observation, classification, and containment mechanisms before wider normalisation.*
->  
+> - [🧵 Community Vulnerability and Early Canaries](../♻️🧿_Observation_Becomes_Intervention/🧵_community_vulnerability_and_early_canaries.md) — *how marginalised communities reveal observation, classification, and containment mechanisms before wider normalisation.*
+> - [🪞 The Backlash Was Also Networked](../../../🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🪞_the_backlash_was_also_networked.md)
+> - 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
