@@ -1,6 +1,5 @@
 # 📚 Definitions & Registers
-
-**First created:** 2026-09-05 | **Last updated:** 2026-09-05
+**First created:** 2026-09-05 | **Last updated:** 2026-09-05  
 *A searchable, printable, grab-and-go field guide for translating between internet culture, feminist analysis, journalism, policy, safeguarding and law.*
 
 ---
@@ -60,11 +59,11 @@ The purpose here is violence prevention and accurate description, not competitiv
 | Marker | Entry type                           |
 |---|---|
 | 👤     | person or public figure              |
-| 🏚️ p l | atform, place or community           |
+| 🏚️     | platform, place or community           |
 | 🧨     | behaviour or tactic                  |
 | 💬     | internet vernacular                  |
 | 🧠     | research or analytical language      |
-| ⚖️ l e | gal, policy or safeguarding language |
+| ⚖️     | legal, policy or safeguarding language |
 
 ---
 
@@ -119,11 +118,11 @@ The purpose here is violence prevention and accurate description, not competitiv
 
 ### 🟢 People You Will Probably Encounter
 
-| Figure              | Why they appear in this map                                                                                                                                                                           | Do not flatten                                                                                     |
+| Figure   | Why they appear in this map  | Do not flatten  |
 |---|---|---|
-| **Andrew Tate**     | Contemporary reference point for manosphere/manfluencer culture, particularly where wealth, masculinity, dating, status and misogynistic gender ideas intersect with audiences of boys and young men. | Tate is not “the manosphere”.                                                                      |
-| **Jordan Peterson** | Relevant to online conversations about masculinity, self-help, hierarchy, gender roles and male grievance in a more intellectualised register.                                                        | Peterson ≠ Tate; disagreement with his politics ≠ classification as an incel influencer.           |
-| **Joe Rogan**       | Useful for understanding enormous podcast audiences, long-form creator media and the movement of ideas between subcultures and mainstream attention.                                                  | Audience/distribution role ≠ endorsement of every guest or idea circulating through the ecosystem. |
+| **Andrew Tate**  | Contemporary reference point for manosphere/manfluencer culture, particularly where wealth, masculinity, dating, status and misogynistic gender ideas intersect with audiences of boys and young men. | Tate is not “the manosphere”.  |
+| **Jordan Peterson** | Relevant to online conversations about masculinity, self-help, hierarchy, gender roles and male grievance in a more intellectualised register.  | Peterson ≠ Tate; disagreement with his politics ≠ classification as an incel influencer.  |
+| **Joe Rogan**  | Useful for understanding enormous podcast audiences, long-form creator media and the movement of ideas between subcultures and mainstream attention.  | Audience/distribution role ≠ endorsement of every guest or idea circulating through the ecosystem. |
 
 ---
 
@@ -141,18 +140,18 @@ The important question is:
 
 > **What is the swarm actually being mobilised to do?**
 
-| Form                             | What happens                                                                                                 | Why the distinction matters                                                  |
+| Form  | What happens  | Why the distinction matters  |
 |---|---|---|
-| **Comment/reply swarming**       | Large numbers flood replies, mentions, comments or DMs.                                                      | Can overwhelm a target while remaining largely inside the original platform. |
-| **Report swarming**              | Many users report an account or content.                                                                     | Platform moderation infrastructure itself may become part of the contest.    |
-| **Contact swarming**             | People contact an employer, university, client, family member, regulator, venue or other third party.        | The activity has escaped the original conversation.                          |
-| **Review/reputation swarming**   | Coordinated or concentrated reviews, ratings, complaints or reputational attacks.                            | Can create professional or commercial consequences.                          |
-| **Cross-platform swarming**      | Targeting follows somebody from one service to another.                                                      | Persistence becomes part of the behaviour.                                   |
-| **Doxxing-enabled swarming**     | Personal information is circulated to facilitate further targeting.                                          | Increases the possible attack surface substantially.                         |
-| **Threat/intimidation swarming** | Multiple participants send threats, sexualised abuse or intimidating material.                               | Scale can alter both impact and risk assessment.                             |
-| **Institutional weaponisation**  | Participants make complaints or reports intended to cause coercive consequences through third parties.       | Institutions can become unwilling participants in harassment.                |
-| **SWATting**                     | False emergency reports are made to provoke a police or other emergency response at a target’s location.     | This can create immediate physical danger.                                   |
-| **Offline swarming**             | Online mobilisation contributes to physical attendance, confrontation, stalking or other embodied targeting. | The online/offline distinction has now become particularly unhelpful.        |
+| **Comment/reply swarming**  | Large numbers flood replies, mentions, comments or DMs.  | Can overwhelm a target while remaining largely inside the original platform. |
+| **Report swarming**  | Many users report an account or content.  | Platform moderation infrastructure itself may become part of the contest  |
+| **Contact swarming**  | People contact an employer, university, client, family member, regulator, venue or other third party.  | The activity has escaped the original conversation.  |
+| **Review/reputation swarming**  | Coordinated or concentrated reviews, ratings, complaints or reputational attacks.  | Can create professional or commercial consequences.  |
+| **Cross-platform swarming**  | Targeting follows somebody from one service to another.  | Persistence becomes part of the behaviour.  |
+| **Doxxing-enabled swarming**  | Personal information is circulated to facilitate further targeting.  | Increases the possible attack surface substantially.  |
+| **Threat/intimidation swarming** | Multiple participants send threats, sexualised abuse or intimidating material.  | Scale can alter both impact and risk assessment.  |
+| **Institutional weaponisation**  | Participants make complaints or reports intended to cause coercive consequences through third parties.  | Institutions can become unwilling participants in harassment.  |
+| **SWATting**  | False emergency reports are made to provoke a police or other emergency response at a target’s location.  | This can create immediate physical danger.  |
+| **Offline swarming**  | Online mobilisation contributes to physical attendance, confrontation, stalking or other embodied targeting. | The online/offline distinction has now become particularly unhelpful.  |
 
 #### Dogpile, Brigade, Swarm
 
@@ -167,7 +166,7 @@ The important question is:
 
 ### 🔵 Behaviour, Tactics and Internet Dialect
 
-| Type | Term                                     | Working definition                                                                                                                 | Don’t flatten                                                                                  |
+| Type | Term  | Working definition | Don’t flatten  |
 |---|---|---|---|
 | 🧨   | **Brigading**                            | Mobilising users from one community toward another target or community.                                                            | Similar opinions appearing simultaneously do not prove coordination.                           |
 | 🧨   | **Sockpuppet**                           | A false or additional online identity used to disguise who is speaking or create an appearance of independent participation.       | Not every anonymous account is a sockpuppet.                                                   |
