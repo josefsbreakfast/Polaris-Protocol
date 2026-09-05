@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-05 16:28:55 UTC_
+_Generated on 2026-09-05 16:31:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3714,6 +3714,7 @@ _Generated on 2026-09-05 16:28:55 UTC_
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/notes.txt)
           - [`⚖️_what_the_law_actually_does.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/⚖️_what_the_law_actually_does.md)
           - [`🏛️_westminster_hall_7_september_2026.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/🏛️_westminster_hall_7_september_2026.md)
+          - [`💄_the_camden_crew_and_vawg.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/💄_the_camden_crew_and_vawg.md)
           - [`📣_men_with_microphones.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/📣_men_with_microphones.md)
           - [`🔖_what_the_petition_actually_asked_for.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/🔖_what_the_petition_actually_asked_for.md)
           - [`🕯️_where_is_macdonald.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/🕯️_where_is_macdonald.md)
