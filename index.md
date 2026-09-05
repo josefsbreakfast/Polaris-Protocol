@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-05 15:15:18 UTC_
+_Generated on 2026-09-05 15:19:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3670,7 +3670,15 @@ _Generated on 2026-09-05 15:15:18 UTC_
         - [**⚡_Lightning_Round_Press/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/⚡_Lightning_Round_Press/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/⚡_Lightning_Round_Press/notes.txt)
         - [**🌱_Thanks_Algorithm/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🌱_Thanks_Algorithm/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🌱_Thanks_Algorithm/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🌱_Thanks_Algorithm/notes.txt)
+          - [`🌱_he_only_wanted_dating_advice.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🌱_Thanks_Algorithm/🌱_he_only_wanted_dating_advice.md)
+          - [`🌱_misogyny_is_in_the_roots.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🌱_Thanks_Algorithm/🌱_misogyny_is_in_the_roots.md)
+          - [`👠_you_are_not_getting_the_same_feed.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🌱_Thanks_Algorithm/👠_you_are_not_getting_the_same_feed.md)
+          - [`📲_online_safety_and_platforms.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🌱_Thanks_Algorithm/📲_online_safety_and_platforms.md)
+          - [`🕸️_from_online_grievance_to_offline_harm.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🌱_Thanks_Algorithm/🕸️_from_online_grievance_to_offline_harm.md)
+          - [`🥃_the_manosphere_ecosystem.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🌱_Thanks_Algorithm/🥃_the_manosphere_ecosystem.md)
+          - [`🧠_radicalisation_is_not_a_sentencing_factor.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🌱_Thanks_Algorithm/🧠_radicalisation_is_not_a_sentencing_factor.md)
         - [**📖_Previously_On_The_Internet/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/notes.txt)
