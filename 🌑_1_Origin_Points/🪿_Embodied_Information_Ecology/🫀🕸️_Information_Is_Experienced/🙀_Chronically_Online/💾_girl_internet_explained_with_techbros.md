@@ -1,5 +1,5 @@
 # 💾 Girl Internet Explained With Techbros
-**First created:** 2026-08-27 | **Last updated:** 2026-08-27  
+**First created:** 2026-08-27 | **Last updated:** 2026-09-05  
 *A translation layer for understanding female online information ecologies through familiar technology, market, network, and platform concepts.*
 
 ---
@@ -378,7 +378,7 @@ It is what happens when **archival culture and transformative culture occupy the
 
 ---
 
-## 💰 Kindle And The Long Tail
+## 📚 Kindle And The Long Tail
 
 Kindle demonstrates something simpler and economically important.
 
@@ -619,7 +619,7 @@ It is:
 
 ---
 
-## 🛑 Boundaries Need Architecture
+## 🧨 Boundaries Need Architecture
 
 A boundary that survives only while one conscientious employee is willing to argue with somebody controlling the money is not much of a boundary.
 
@@ -847,8 +847,8 @@ It uses familiar technology and network concepts as an orientation layer for und
 >
 > - [🫀🕸️ Information Is Experienced](../) — *parent cluster for information as embodied, situated experience*
 > - [🙀 Chronically Online](./) — *host cluster for internet-native information ecologies and platform cultures*
-> - [🪿 Embodied Information Ecology](../../../) — *wider framework for how information is encountered through bodies, histories and environments*
+> - [🪿 Embodied Information Ecology](../../) — *wider framework for how information is encountered through bodies, histories and environments*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-27_
+_Last updated: 2026-09-05_
