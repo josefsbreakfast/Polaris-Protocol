@@ -72,185 +72,34 @@ The purpose here is violence prevention and accurate description, not competitiv
 
 ### 🟢 Minimum Viable Internet Literacy
 
-<table style="width:97%;">
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 26%" />
-<col style="width: 22%" />
-<col style="width: 27%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Type</th>
-<th style="text-align: left;">Term</th>
-<th style="text-align: left;">Working definition</th>
-<th style="text-align: left;">Useful distinction</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">💬</td>
-<td style="text-align: left;"><strong>Algorithm / “the algorithm”</strong></td>
-<td style="text-align: left;">Internet shorthand for the systems influencing what content somebody is shown.</td>
-<td style="text-align: left;">Usually not one algorithm. Ranking, recommendation, moderation, advertising and user behaviour can all contribute.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">💬</td>
-<td style="text-align: left;"><strong>Feed</strong></td>
-<td style="text-align: left;">Stream of content presented to a user.</td>
-<td style="text-align: left;">May be chronological, recommended, followed-account based, or some mixture.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">💬</td>
-<td style="text-align: left;"><strong>FYP / For You Page</strong></td>
-<td style="text-align: left;">TikTok’s personalised recommendation feed; sometimes used loosely for recommended feeds generally.</td>
-<td style="text-align: left;">Not synonymous with “the internet”. Two users may receive radically different material.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">💬</td>
-<td style="text-align: left;"><strong>Viral</strong></td>
-<td style="text-align: left;">Content spreading rapidly or reaching an unusually large audience.</td>
-<td style="text-align: left;">Says little about <em>why</em> it spread.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">💬</td>
-<td style="text-align: left;"><strong>Engagement</strong></td>
-<td style="text-align: left;">Interactions such as views, likes, comments, shares, saves or clicks.</td>
-<td style="text-align: left;">Hostile engagement is still engagement.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">👤</td>
-<td style="text-align: left;"><strong>Creator / influencer</strong></td>
-<td style="text-align: left;">Someone producing content for an online audience, often with a recognisable public persona.</td>
-<td style="text-align: left;">Influence can exist without celebrity-sized reach.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">💬</td>
-<td style="text-align: left;"><strong>Meme</strong></td>
-<td style="text-align: left;">A unit of culture — often an image, phrase, joke or format — copied and modified through circulation.</td>
-<td style="text-align: left;">Memes can carry politics without looking like political communications.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">🧨</td>
-<td style="text-align: left;"><strong>Trolling</strong></td>
-<td style="text-align: left;">Provocative or disruptive online behaviour intended to elicit reactions, derail conversation or entertain the troll or audience.</td>
-<td style="text-align: left;">“I was trolling” does not tell us whether the underlying belief was sincere.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">🧨</td>
-<td style="text-align: left;"><strong>Doxxing / doxing</strong></td>
-<td style="text-align: left;">Obtaining, exposing or distributing identifying or personal information about somebody, commonly to facilitate targeting, intimidation or harassment.</td>
-<td style="text-align: left;">Not every reference to publicly available information is usefully described as doxxing. Purpose, aggregation, context and targeting matter.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">🧨</td>
-<td style="text-align: left;"><strong>Dogpile / pile-on</strong></td>
-<td style="text-align: left;">A large concentration of responses directed at one person or post, often hostile.</td>
-<td style="text-align: left;">Does not by itself establish coordination.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">💬</td>
-<td style="text-align: left;"><strong>Receipts</strong></td>
-<td style="text-align: left;">Screenshots, messages, archived posts or other material offered as evidence that something happened.</td>
-<td style="text-align: left;">“Receipts” are evidence in the everyday sense; their legal or evidential significance is a separate question.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">💬</td>
-<td style="text-align: left;"><strong>Ragebait</strong></td>
-<td style="text-align: left;">Content designed or optimised to provoke anger and therefore attention or engagement.</td>
-<td style="text-align: left;">The creator need not believe every proposition being performed.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">💬</td>
-<td style="text-align: left;"><strong>Shitposting</strong></td>
-<td style="text-align: left;">Deliberately low-quality, absurd, provocative or context-heavy posting, often for humour or disruption.</td>
-<td style="text-align: left;">Can be apolitical, political, ironic, sincere — or all four before lunch.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">🧠</td>
-<td style="text-align: left;"><strong>Parasocial relationship</strong></td>
-<td style="text-align: left;">A one-sided sense of social or emotional connection with a media figure, celebrity, creator or similar persona.</td>
-<td style="text-align: left;">Not inherently unhealthy and not synonymous with fandom.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">🧠</td>
-<td style="text-align: left;"><strong>Misogyny</strong></td>
-<td style="text-align: left;">Hostility toward, degradation of, control over or enforcement of hierarchy against women or femininity.</td>
-<td style="text-align: left;">Related to sexism, but not identical in every analytical or legal register.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">🧠</td>
-<td style="text-align: left;"><strong>Sexism</strong></td>
-<td style="text-align: left;">Prejudice, discrimination, stereotyping or unequal treatment on the basis of sex or gender.</td>
-<td style="text-align: left;">Misogyny often describes a more specifically anti-woman or hierarchy-enforcing phenomenon.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">🧠</td>
-<td style="text-align: left;"><strong>Anti-feminism</strong></td>
-<td style="text-align: left;">Opposition to feminism, feminist movements or particular feminist goals.</td>
-<td style="text-align: left;">Anti-feminism is not automatically misogyny, though the two can overlap.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">🧠</td>
-<td style="text-align: left;"><strong>Manosphere</strong></td>
-<td style="text-align: left;">Umbrella term for overlapping male-oriented online communities concerned with masculinity, dating, gender relations and/or male grievance.</td>
-<td style="text-align: left;">Not one ideology, platform or organisation.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">🧠</td>
-<td style="text-align: left;"><strong>Incel</strong></td>
-<td style="text-align: left;">Derived from “involuntary celibate”; now also associated with particular online subcultures and ideological communities.</td>
-<td style="text-align: left;">Do not use it merely as a synonym for lonely man, virgin, misogynist or person you dislike.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">💬</td>
-<td style="text-align: left;"><strong>Red pill / red-pilled</strong></td>
-<td style="text-align: left;">Metaphor, derived from <em>The Matrix</em>, for believing one has awakened to a hidden truth; in manosphere contexts often applied to particular beliefs about sex, gender and relationships.</td>
-<td style="text-align: left;">Used in political subcultures beyond the manosphere.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">💬</td>
-<td style="text-align: left;"><strong>Tradwife</strong></td>
-<td style="text-align: left;">Internet term for a woman publicly embracing or performing a highly traditional wife/mother gender role, often as lifestyle content.</td>
-<td style="text-align: left;">Aesthetic domesticity, religious conservatism, commercial influencing and political ideology can overlap but are not identical.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">⚖️ *<br />
-</td>
-<td style="text-align: left;">*VAWG** V i</td>
-<td style="text-align: left;">olence against W o women and girls: a major UK policy and safeguarding category covering multiple forms of gendered violence and abuse.</td>
-<td style="text-align: left;">men are people, not merely a government acronym.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">⚖️ *<br />
-</td>
-<td style="text-align: left;">*Safeguarding** S y</td>
-<td style="text-align: left;">stems and I t practices intended to protect people from abuse, exploitation and other forms of harm.</td>
-<td style="text-align: left;">does not begin only once criminal liability is obvious.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">⚖️ *<br />
-</td>
-<td style="text-align: left;">*Coercive A p control**</td>
-<td style="text-align: left;">attern of L e controlling or coercive behaviour within relevant intimate or family relationships; also used more broadly in abuse analysis.</td>
-<td style="text-align: left;">gal definitions and evidential requirements matter when describing an offence.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">⚖️ *<br />
-</td>
-<td style="text-align: left;">*Stalking** R e</td>
-<td style="text-align: left;">peated or N o persistent unwanted behaviour that can cause fear, alarm or distress and may create serious safety concerns.</td>
-<td style="text-align: left;">t simply “looking at someone’s social media a lot”.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">⚖️ *<br />
-</td>
-<td style="text-align: left;">*Harassment** R e</td>
-<td style="text-align: left;">peated unwanted p S conduct capable of causing alarm or distress; legal and everyday meanings can differ.</td>
-<td style="text-align: left;">ecify the conduct rather than relying on the label alone.</td>
-</tr>
-</tbody>
-</table>
+| Type | Term | Working definition | Useful distinction |
+|---|---|---|---|
+| 💬 | **Algorithm / “the algorithm”** | Internet shorthand for the systems influencing what content somebody is shown. | Usually not one algorithm. Ranking, recommendation, moderation, advertising and user behaviour can all contribute. |
+| 💬 | **Feed** | Stream of content presented to a user. | May be chronological, recommended, followed-account based, or some mixture. |
+| 💬 | **FYP / For You Page** | TikTok's personalised recommendation feed; sometimes used loosely for recommended feeds generally. | Not synonymous with “the internet”. Two users may receive radically different material. |
+| 💬 | **Viral** | Content spreading rapidly or reaching an unusually large audience. | Says little about *why* it spread. |
+| 💬 | **Engagement** | Interactions such as views, likes, comments, shares, saves or clicks. | Hostile engagement is still engagement. |
+| 👤 | **Creator / influencer** | Someone producing content for an online audience, often with a recognisable public persona. | Influence can exist without celebrity-sized reach. |
+| 💬 | **Meme** | A unit of culture — often an image, phrase, joke or format — copied and modified through circulation. | Memes can carry politics without looking like political communications. |
+| 🧨 | **Trolling** | Provocative or disruptive online behaviour intended to elicit reactions, derail conversation or entertain the troll or audience. | “I was trolling” does not tell us whether the underlying belief was sincere. |
+| 🧨 | **Doxxing / doxing** | Obtaining, exposing or distributing identifying or personal information about somebody, commonly to facilitate targeting, intimidation or harassment. | Not every reference to publicly available information is usefully described as doxxing. Purpose, aggregation, context and targeting matter. |
+| 🧨 | **Dogpile / pile-on** | A large concentration of responses directed at one person or post, often hostile. | Does not by itself establish coordination. |
+| 💬 | **Receipts** | Screenshots, messages, archived posts or other material offered as evidence that something happened. | “Receipts” are evidence in the everyday sense; their legal or evidential significance is a separate question. |
+| 💬 | **Ragebait** | Content designed or optimised to provoke anger and therefore attention or engagement. | The creator need not believe every proposition being performed. |
+| 💬 | **Shitposting** | Deliberately low-quality, absurd, provocative or context-heavy posting, often for humour or disruption. | Can be apolitical, political, ironic, sincere — or all four before lunch. |
+| 🧠 | **Parasocial relationship** | A one-sided sense of social or emotional connection with a media figure, celebrity, creator or similar persona. | Not inherently unhealthy and not synonymous with fandom. |
+| 🧠 | **Misogyny** | Hostility toward, degradation of, control over or enforcement of hierarchy against women or femininity. | Related to sexism, but not identical in every analytical or legal register. |
+| 🧠 | **Sexism** | Prejudice, discrimination, stereotyping or unequal treatment on the basis of sex or gender. | Misogyny often describes a more specifically anti-woman or hierarchy-enforcing phenomenon. |
+| 🧠 | **Anti-feminism** | Opposition to feminism, feminist movements or particular feminist goals. | Anti-feminism is not automatically misogyny, though the two can overlap. |
+| 🧠 | **Manosphere** | Umbrella term for overlapping male-oriented online communities concerned with masculinity, dating, gender relations and/or male grievance. | Not one ideology, platform or organisation. |
+| 🧠 | **Incel** | Derived from “involuntary celibate”; now also associated with particular online subcultures and ideological communities. | Do not use it merely as a synonym for lonely man, virgin, misogynist or person you dislike. |
+| 💬 | **Red pill / red-pilled** | Metaphor, derived from *The Matrix*, for believing one has awakened to a hidden truth; in manosphere contexts often applied to particular beliefs about sex, gender and relationships. | Used in political subcultures beyond the manosphere. |
+| 💬 | **Tradwife** | Internet term for a woman publicly embracing or performing a highly traditional wife/mother gender role, often as lifestyle content. | Aesthetic domesticity, religious conservatism, commercial influencing and political ideology can overlap but are not identical. |
+| ⚖️ | **VAWG** | Violence against women and girls: a major UK policy and safeguarding category covering multiple forms of gendered violence and abuse. | Women are people, not merely a government acronym. |
+| ⚖️ | **Safeguarding** | Systems and practices intended to protect people from abuse, exploitation and other forms of harm. | It does not begin only once criminal liability is obvious. |
+| ⚖️ | **Coercive control** | A pattern of controlling or coercive behaviour within relevant intimate or family relationships; also used more broadly in abuse analysis. | Legal definitions and evidential requirements matter when describing an offence. |
+| ⚖️ | **Stalking** | Repeated or persistent unwanted behaviour that can cause fear, alarm or distress and may create serious safety concerns. | Not simply “looking at someone's social media a lot”. |
+| ⚖️ | **Harassment** | Repeated unwanted conduct capable of causing alarm or distress; legal and everyday meanings can differ. | Specify the conduct rather than relying on the label alone. |
 
 ### 🟢 Places You Should Recognise
 
