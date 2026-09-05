@@ -845,6 +845,7 @@ It uses familiar technology and network concepts as an orientation layer for und
 
 > 📡 Cross-references:
 >
+> - [💾 Guide to Girl Internet](../../../../🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/💾_guide_to_girl_internet.md) - *sans techbros*. 
 > - [🫀🕸️ Information Is Experienced](../) — *parent cluster for information as embodied, situated experience*
 > - [🙀 Chronically Online](./) — *host cluster for internet-native information ecologies and platform cultures*
 > - [🪿 Embodied Information Ecology](../../) — *wider framework for how information is encountered through bodies, histories and environments*
