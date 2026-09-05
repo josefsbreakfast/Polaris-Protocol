@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-05 03:05:09 UTC_
+_Generated on 2026-09-05 03:07:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3665,7 +3665,9 @@ _Generated on 2026-09-05 03:05:09 UTC_
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/README.md)
     - [**🌱_Prosocial_Roots/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/)
       - [**🌸_Digitally_Women/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/)
+        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/notes.txt)
+        - [`🗣️_explain_this_in_500_words_or_less.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🗣️_explain_this_in_500_words_or_less.md)
       - [**🍉_Palestine_As_Rhizome/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/)
         - [**⚖️_Universal_Until_Tested/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/⚖️_Universal_Until_Tested/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/⚖️_Universal_Until_Tested/README.md)
