@@ -1,10 +1,5 @@
-🌱_Thanks_Algorithm/
-├── README.md
-├── 🌱_misogyny_is_in_the_roots.md
-├── 👠_you_are_not_getting_the_same_feed.md
-├── 🥃_the_manosphere_ecosystem.md
-├── 🌱_he_only_wanted_dating_advice.md
-├── 📈_how_the_feed_changes_the_ecology.md
-├── 🕸️_from_online_grievance_to_offline_harm.md
-├── 🧠_radicalisation_is_not_a_sentencing_factor.md
-└── 📲_online_safety_and_platforms.md
+### `📲_online_safety_and_platforms.md`
+
+**What can we reasonably ask platforms and regulators to do?** Map the intervention surface: recommendation and amplification, discovery, moderation, illegal/harmful content distinctions, children's protections, reporting systems, safety-by-design, research/data access and regulatory duties. Cover the Online Safety Act/Ofcom material relevant to the petition, but also identify the boundary of platform intervention: platforms can alter an information environment; they cannot independently solve misogyny, loneliness, fascism, abusive relationships, safeguarding failures or criminal violence.
+
+---
