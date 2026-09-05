@@ -1,9 +1,7 @@
-🛸_LOOK_UP/
-├── README.md
-├── 🛸_the_warning_signs_are_visible_from_space.md
-├── 🌱_before_the_offence.md
-├── 👁️_misogyny_as_a_risk_signal.md
-├── 🔗_information_has_to_travel.md
-├── 🧩_pattern_recognition_not_incident_processing.md
-├── 🏫_schools_colleges_and_universities.md
-└── 🩸_survivor_support_and_reporting.md
+### `🌱_before_the_offence.md`
+
+**Safeguarding starts earlier than sentencing.** Map the upstream intervention chain:
+
+> behaviour → disclosure/reporting → recording → assessment → safeguarding/referral → intervention → investigation/prosecution where appropriate.
+
+Clarify that “before the offence” does **not** mean predicting crimes from thoughts or punishing people for lawful beliefs. It means recognising behaviour and circumstances relevant to established safeguarding and violence-prevention practice before the most serious outcome occurs. This is where stalking, coercive control, harassment, escalating threats and other behavioural precursors become especially important.
