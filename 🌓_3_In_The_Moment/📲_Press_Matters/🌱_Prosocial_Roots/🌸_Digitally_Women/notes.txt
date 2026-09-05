@@ -304,3 +304,132 @@ But the broader question remains:
 - Government VAWG strategy — *Freedom from Violence and Abuse*:
   https://www.gov.uk/government/publications/violence-against-women-and-girls-strategy
 
+- - -  
+
+Yes. Combining all 17 screenshots you’ve shown in the two batches, plus the nodes visible in their previews, this is the complete photo-derived fwoosh list. I’m preserving ... wherever GitHub truncates the actual filename rather than inventing the missing text.
+
+🌑 1_Origin_Points/🪿_Embodied_Information_Ecology/
+
+🫀 Embodiment/🐝_Body_Politic/
+
+* 🐝_Body_Politic/ — folder
+* 🔥_femme_firewall_fatale.md
+    * Femme Firewall Fatale — The Panic at Female Intelligence
+* 🧃_why_nice_guys_were_never_the_problem.md
+    * Why “Nice Guys” Were Never the Problem
+* 🦆_she_weighs_the_same_as_a_duck.md
+    * She Weighs the Same as a Duck
+* 🩸_surveillance_induced_intimacy_breach.md
+    * Surveillance-Induced Intimacy Breach
+
+♻️👁️ Observation_Becomes_Intervention/
+
+* ♻️👁️_Observation_Becomes_Intervention/ — folder
+
+🦜 Trauma_Psychology_Medical_Misuse/
+
+* 🦜_Trauma_Psychology_Medical_Misuse/ — folder
+* 🪬_xenofeminism_link_note.md
+    * Xenofeminism Link Note — Reclaiming the Engineered Body
+
+🧠 HM_Dept_Coercive_Nudges/
+
+* 🧠_HM_Dept_Coercive_Nudges/ — folder
+* 💕_ethics_of_nudging_vs_desire.md
+    * Ethics of Nudging vs Desire
+* 🦚_cve_pornography_unit.md
+    * CVE Pornography Unit
+* 🧠_nudges_to_stepford_wives.md
+    * Gendered Susceptibility to Nudges (The Stepford Surface)
+* 😐_over_safety_as_containment.md
+    * Over-Safety as Containment
+
+🫀🕸️ Information_Is_Experienced/
+
+* 🫀🕸️_Information_Is_Experienced/ — folder
+
+💔 Violence_IRL/
+
+* 💔_Violence_IRL/ — folder
+* README.md
+    * When Violence Becomes IRL
+* 💄_the_gendered_exposur...
+* 🕯️_memorial_voice_lives_l...
+* 🕸️_digitally_networked_se...
+* 🧨_marriage_camps_legali...
+
+🙀 Chronically_Online/
+
+* 🙀_Chronically_Online/ — folder
+* README.md
+* 🛳️_boaty_mcboatface.md
+* 🌑_what_may_04_does_to...
+* 🍌_cats_umbrellas_and_de...
+* 🎮_fake_gamer_girl_proto...
+* 👚_big_on_the_internet_lo...
+* 💕_digital_international_ya...
+* 💾_girl_internet_explained...
+* 💾_what_its_like_being_a_...
+* 📼_pris_is_still_subverting...
+* 🔮_astrology_projected.md
+* 🕸️_algorithmic_hearing_is...
+* 🤖_general_issue_robots.md
+* 🦊🐀_in_defence_of_furri...
+* 🧄_would_you_like_to_join...
+* 🧠_ai_ethicswash.md
+* 🧪_acid_accelerationism.md
+
+♻️🕸️ The_Feedback_Environment/
+
+* ♻️🕸️_The_Feedback_Environment/ — folder
+* 🌱_Still_Growing/ — subfolder
+* README.md
+* 🌹_digital_romeo_spy_stor...
+* 🎮_p1_is_practising.md
+* 👗_la_camarilla_de_l_oran...
+* 📈_$seo.md
+* 📥_chattering_chatbots.md
+* 🕹️_building_safer_sandbo...
+* 👁️_the_visibility_triangle.md
+
+🐣 The_Whole_Ecology/
+
+* 🐣_The_Whole_Ecology/ — folder
+* 🦎_the_human_tamagotchi_effect.md
+    * The Human Tamagotchi Effect
+
+⸻
+
+🌓 3_In_The_Moment/
+
+🥃 Males_Online/
+
+* 🥃_Males_Online/ — folder
+* 🌹_Demonstrating_High_V.../ — subfolder
+* README.md
+* notes.txt
+* 🎬_dennis_system_as_pua...
+* 🐀_male_coded_pseudosci...
+* 💊_red_pill.md
+* 🦚_the_peacocks_tail.md
+* 🦆_uniform_spectacle.md
+* 🪬_masculinity_in_crisis.md
+* 🪬_pua_to_far_right_pipeli...
+
+⸻
+
+🌕 5_Long_Strategies/
+
+❤️‍🩹 Rehabilitated_Tech/
+
+* ❤️‍🩹_Rehabilitated_Tech/ — folder
+* 💎_therapeutic_sandbox.md
+    * Therapeutic Sandbox — AI-Assisted Boundary Rehabilitation
+
+⸻
+
+So we’re no longer talking about seven things. From the screenshots alone, I count at least 14 relevant folders/subfolders and 46 visible files/nodes (including READMEs/notes.txt), with several filenames truncated by GitHub.
+
+And there are some very obvious 🌸 Digitally Women source constellations in there: Xenofeminism; Violence IRL; Males Online; Chronically Online; Body Politic; coercive nudging; digital exposure; networked sexual harm; algorithmic listening; AI ethics; surveillance/intimacy; safer sandboxes; feedback environments; and rehabilitated technology.
+
+That is the fwoosh queue I would work from.
