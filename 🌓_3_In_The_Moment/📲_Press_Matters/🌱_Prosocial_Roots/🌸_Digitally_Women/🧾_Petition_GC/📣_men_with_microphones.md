@@ -46,3 +46,7 @@ So the joke becomes a very serviceable policy explainer:
 **🥺 but what if she means *my* microphone?**
 
 *You may keep the microphone, sir. We are discussing what you are doing with it.*
+
+- - - 
+
+https://www.lyrics.com/lyric-lf/7314277/Sarah+Hester+Ross/Stop+Giving+Men+Microphones
