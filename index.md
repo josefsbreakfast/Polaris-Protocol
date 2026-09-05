@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-05 03:43:44 UTC_
+_Generated on 2026-09-05 03:45:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3680,6 +3680,7 @@ _Generated on 2026-09-05 03:43:44 UTC_
           - [`💾_women_have_always_been_online.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/💾_women_have_always_been_online.md)
           - [`📚_definitions_and_registers.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/📚_definitions_and_registers.md)
           - [`🕹️_cyberfeminism_before_the_algorithm.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🕹️_cyberfeminism_before_the_algorithm.md)
+          - [`🧭_how_we_got_to_here.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🧭_how_we_got_to_here.md)
           - [`🪞_the_backlash_was_also_networked.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🪞_the_backlash_was_also_networked.md)
           - [`🪬_xenofeminism_and_the_engineered_body.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🪬_xenofeminism_and_the_engineered_body.md)
         - [**🛸_LOOK_UP/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/)
