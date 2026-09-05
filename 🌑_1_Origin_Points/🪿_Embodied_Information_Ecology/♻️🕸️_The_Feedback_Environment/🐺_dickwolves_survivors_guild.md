@@ -212,14 +212,20 @@ dickwolves, survivor testimony, nerd culture, gaming communities, networked back
 
 ## 🏮 Footer
 
-*Dickwolves Survivors Guild* is a living node of the **Polaris Protocol**.  
+*🐺 Dickwolves Survivors Guild* is a living node of the **Polaris Protocol**.  
 It preserves a survivor-led account of how a joke became a community alignment test, how institutional scale magnified the response, and how the resulting patterns help explain later networked gender conflict without pretending that history is a single-file causal chain.
 
 > 📡 Cross-references:
 >
 > - [🧵 Community Vulnerability and Early Canaries](../♻️🧿_Observation_Becomes_Intervention/🧵_community_vulnerability_and_early_canaries.md) — *how marginalised communities reveal observation, classification, and containment mechanisms before wider normalisation.*
 > - [🪞 The Backlash Was Also Networked](../../../🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/📖_Previously_On_The_Internet/🪞_the_backlash_was_also_networked.md)
-> - 
+>
+> 🏮 Return To:
+>
+> - [♻️🕸️ The Feedback Environment](./README.md) — *1up*  
+> - [🪿 Embodied Information Ecology](../README.md) — *2up*  
+> - [🌑 Origin Points](../../README.md) — *3up*  
+> - [🌌 Polaris Protocol - Root](../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
