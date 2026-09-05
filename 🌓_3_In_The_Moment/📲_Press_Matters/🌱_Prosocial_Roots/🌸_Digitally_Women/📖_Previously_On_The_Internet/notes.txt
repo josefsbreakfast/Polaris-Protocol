@@ -1,0 +1,11 @@
+📖_Previously_On_The_Internet/
+
+│   ├── README.md
+
+│   ├── 📚_definitions_and_registers.md
+
+│   ├── 💾_women_have_always_been_online.md
+
+│   ├── 🌊_women_movements_and_digital_mobilisation.md
+
+│   └── 🪬_xenofeminism_and_the_engineered_body.md
