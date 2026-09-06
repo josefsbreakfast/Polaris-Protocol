@@ -1,5 +1,5 @@
 # 📖 Previously On The Internet
-**First created:** 2026-09-05 | **Last updated:** 2026-09-05  
+**First created:** 2026-09-05 | **Last updated:** 2026-09-07  
 *A route into the internet history underneath contemporary debates about women, misogyny, platforms, algorithms and technological power.*
 
 ---
@@ -580,7 +580,14 @@ It exists to make the historical substrate beneath contemporary digital politics
 > - [🪬 Xenofeminism and the Engineered Body](./🪬_xenofeminism_and_the_engineered_body.md) — *bodies, medicine, nature and technological intervention*
 > - [🌞 We Could Build Nicer Things](./🌞_we_could_build_nicer_things.md) — *constructive technological alternatives*
 > - [🧭 How We Got to Here](./🧭_how_we_got_to_here.md) — *capstone and route map*
+> 🏮 Return To:
+>
+> - [🌸 Digitally Women](../README.md) — *1up*
+> - [🌱 Prosocial Roots](../../README.md) — *2up*
+> - [📲 Press Matters](../../../README.md) — *3up*
+> - [🌓 In The Moment](../../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-05_
+_Last updated: 2026-09-07_
