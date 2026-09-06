@@ -3828,8 +3828,14 @@ It models the maximum theoretical containment surface created when public-order,
 
 > 📡 Cross-references:
 >
-> - [♻️ Cybernetics](./) — *parent cluster for feedback, control and adaptive-system analysis*  
-> - [🪿 Embodied Information Ecology](../) — *how information environments produce material and behavioural effects*  
+> - [👾 Digitally Mediated Zersetzung](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/👾_digitally_mediated_zersetzung.md)
+>   
+> 🏮 Return To:
+>
+> - [♻️ Cybernetics](./README.md) — *1up*
+> - [🪿 Embodied Information Ecology](../README.md) — *2up*
+> - [🌑 Origin Points](../../../README.md) — *3up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
