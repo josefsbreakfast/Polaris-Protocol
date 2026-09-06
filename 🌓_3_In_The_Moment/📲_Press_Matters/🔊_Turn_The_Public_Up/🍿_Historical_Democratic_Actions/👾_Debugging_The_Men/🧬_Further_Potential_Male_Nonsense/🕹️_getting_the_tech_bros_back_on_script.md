@@ -2,6 +2,8 @@
 **First created:** 2025-11-16 | **Last updated:** 2025-12-12  
 *A coordination protocol for redirecting extremely wealthy, extremely online men back toward reality, professionalism, and the shared nerd mission, before they embarrass us on main again.*  
 
+<!-- ELON G-DAMNIT WHERE IS THAT YAOI?! YOU SAID "FIRST AMENDMENT, FRIEND!"--> 
+
 ---
 
 ## 🛰️ Orientation  
