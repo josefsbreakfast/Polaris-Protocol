@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-06 04:40:39 UTC_
+_Generated on 2026-09-06 04:42:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3678,7 +3678,6 @@ _Generated on 2026-09-06 04:40:39 UTC_
           - [`🧭_institutional_learning_or_crisis_absorption.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/🧭_institutional_learning_or_crisis_absorption.md)
         - [**⚡_Lightning_Round_Press/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/⚡_Lightning_Round_Press/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/⚡_Lightning_Round_Press/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/⚡_Lightning_Round_Press/notes.txt)
           - [`🏮_claims_check.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/⚡_Lightning_Round_Press/🏮_claims_check.md)
           - [`📰_language_for_press_and_politicians.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/⚡_Lightning_Round_Press/📰_language_for_press_and_politicians.md)
           - [`🔖_source_map.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/⚡_Lightning_Round_Press/🔖_source_map.md)
