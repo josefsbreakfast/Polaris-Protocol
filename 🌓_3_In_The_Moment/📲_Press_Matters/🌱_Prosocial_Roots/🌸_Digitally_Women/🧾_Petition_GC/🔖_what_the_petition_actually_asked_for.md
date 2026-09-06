@@ -90,8 +90,7 @@ These are related.
 
 They are not interchangeable.
 
-A reform that answers one should not quietly acquire credit for
-answering all of them.
+A reform that answers one should not quietly acquire credit for answering all of them. **Petitioners asked for a system response, not a game of policy telephone.**
 
 ---
 
@@ -144,8 +143,7 @@ forms of:
 -   harassment;
 -   stalking.
 
-The aggravated versions can carry higher maximum sentences than their
-basic equivalents.
+The aggravated versions can carry higher maximum sentences than their basic equivalents. That is practically significant for offence types already central to many VAWG patterns — particularly assault, harassment and stalking — where the evidence supports the statutory hostility test.
 
 But **sex was not added to section 66 of the Sentencing Code**.
 
@@ -414,9 +412,13 @@ It wants safer environments:
 -   online;
 -   particularly for young people.
 
-Government's VAWG strategy substantially shares this preventive framing.
-It emphasises prevention and early intervention, healthy relationships
-and consent, online VAWG and misogyny.
+Government's VAWG strategy substantially shares this preventive framing. Its ten-year architecture is organised around three primary objectives:
+
+- **prevention and early intervention**, with particular attention to online VAWG and misogyny and action in schools, colleges and universities;
+- **relentless pursuit of perpetrators**, including the National Centre for VAWG and Public Protection;
+- **support for those affected by violence and abuse**.
+
+Its diagnosis is broader than a generic concern about unpleasant posts. The strategy identifies misogynistic online content, easy access to violent pornography, and inadequate tools for parents and teachers as part of the contemporary problem, and describes these influences as contributing to a culture that normalises abuse and control.
 
 The Online Safety Act architecture also addresses important parts of the
 digital environment, particularly illegal content and children's
@@ -534,8 +536,7 @@ The analytical question is:
 
 > **What survives the translation?**
 
-See [🧮 How Government Translated the
-Petition](./🧮_how_government_translated_the_petition.md).
+This node keeps that comparison deliberately anchored to the petition's asks. The fuller institutional translation — what government selected, omitted, bundled together or routed elsewhere — belongs in [🧮 How Government Translated the Petition](./🧮_how_government_translated_the_petition.md).
 
 ---
 
@@ -701,10 +702,10 @@ losing the pattern between them.
 -   What funded training will police and prosecutors receive?
 -   What survivor support is being funded or delivered in schools,
     colleges and universities?
--   How will Ofcom/platform work connect to education, safeguarding and
-    criminal justice?
--   What evidence will government use to determine whether these
-    interventions reduce misogynistic offending and harm?
+-   How will Ofcom/platform work connect to education, safeguarding and criminal justice?
+-   What information-sharing arrangements join policing, safeguarding, education, online-safety and VAWG systems when the same pattern crosses institutional boundaries?
+-   What evidence and outcome measures will government use to determine whether these interventions actually reduce misogynistic offending, victimisation and upstream harm?
+-   Who is responsible for noticing when individually lawful or sub-threshold signals become a cross-system safeguarding problem?
 -   And, because government itself put it into the answer: **where is
     the Macdonald report?**
 
