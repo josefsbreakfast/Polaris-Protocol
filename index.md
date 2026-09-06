@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-06 13:44:53 UTC_
+_Generated on 2026-09-06 13:47:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3170,9 +3170,6 @@ _Generated on 2026-09-06 13:44:53 UTC_
           - [`🧟‍♀️_frankenstack_explainer_for_survivors.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_for_survivors.md)
           - [`🧟‍♀️_frankenstack_explainer_neurodivergent.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_neurodivergent.md)
           - [`🧬_data_twinning_exploitation_in_frankenstacks.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧬_data_twinning_exploitation_in_frankenstacks.md)
-        - [`🕳️_the_leverage_economy.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🕳️_the_leverage_economy.md)
-        - [`🕸️_harm_containment.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🕸️_harm_containment.md)
-        - [`🥱_how_cover_ups_actually_happen.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🥱_how_cover_ups_actually_happen.md)
         - [`🦤_predation_logic_vulnerability_power_targeting.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🦤_predation_logic_vulnerability_power_targeting.md)
         - [`🧨_the_expectation_of_scandal.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧨_the_expectation_of_scandal.md)
         - [`🧭_how_to_read_institutional_actors.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧭_how_to_read_institutional_actors.md)
@@ -4078,6 +4075,9 @@ _Generated on 2026-09-06 13:44:53 UTC_
           - [`🔥_pink_pussyhats_the_backlash_cycle.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔥_pink_pussyhats_the_backlash_cycle.md)
           - [`🔮_post_legitimacy_landscape_2026_2030.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔮_post_legitimacy_landscape_2026_2030.md)
           - [`🕯️_the_moment_people_let_go.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🕯️_the_moment_people_let_go.md)
+          - [`🕳️_the_leverage_economy.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🕳️_the_leverage_economy.md)
+          - [`🕸️_harm_containment.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🕸️_harm_containment.md)
+          - [`🥱_how_cover_ups_actually_happen.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🥱_how_cover_ups_actually_happen.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/README.md)
       - [**🪳🕶️_Mera_Naam_Cockroach_Hai/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/)
         - [**🌑_The_System_Becomes_Intolerable/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/)
