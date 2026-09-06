@@ -8,7 +8,7 @@ The actual place remains a South Atlantic community with self-government, sovere
 
 ---
 
-## Respect Line
+## ✨ Respect Line
 
 This node is not laughing at the Falkland Islands.
 
@@ -34,7 +34,7 @@ The cocktail flag remains under supervision.
 
 ---
 
-## Why You Are Here
+## 🗺️ Why You Are Here
 
 The Falkland Islands are stop seven on the Flag It Yourself postcard route.
 
@@ -67,7 +67,7 @@ Send a proper postcard.
 
 ---
 
-## First Postcard: Where Actually Is It?
+## 🌊 First Postcard: Where Actually Is It?
 
 The Falkland Islands are in the South Atlantic.
 
@@ -91,7 +91,7 @@ It means the contestant may not point at the map and say “we’ll just keep it
 
 ---
 
-## Name Note: Falklands / Malvinas
+## 🏝️ Name Note: Falklands / Malvinas
 
 The islands are known in English as the Falkland Islands and in Argentina and Spanish-language contexts as Islas Malvinas.
 
@@ -109,7 +109,7 @@ If your territorial analysis begins with “well obviously everyone should call 
 
 ---
 
-## Before The Modern Dispute
+## 🐋 Before The Modern Dispute
 
 The history of the Falkland Islands includes European sightings, competing claims, French, British, Spanish, and Argentine connections, settlement attempts, imperial rivalry, and long disagreement over sovereignty.
 
@@ -140,7 +140,7 @@ That is refusal to read.
 
 ---
 
-## 1982 Is Real, But It Is Not A Universal Analogy
+## 🪖 1982 Is Real, But It Is Not A Universal Analogy
 
 The 1982 Falklands War matters.
 
@@ -176,7 +176,7 @@ If contestants invoke it, they must do so with care.
 
 ---
 
-## How It Became An Overseas Territory
+## 🧭 How It Became An Overseas Territory
 
 The Falkland Islands are a British Overseas Territory.
 
@@ -202,7 +202,7 @@ The situation needs at least seven.
 
 ---
 
-## What The Craic Is Now
+## 💫 What The Craic Is Now
 
 The Falkland Islands are self-governing internally.
 
@@ -263,7 +263,7 @@ Please keep your causation inside the marked lanes.
 
 ---
 
-## Self-Determination Is Not A Prop Either
+## 📮 Self-Determination Is Not A Prop Either
 
 Contestants may be tempted to use the Falklands as the cleanest possible example of local consent.
 
@@ -295,7 +295,7 @@ The Islanders are not a rhetorical prop for Chagos, Gibraltar, or any other argu
 
 ---
 
-## People Are Not Scenery
+## 🫂 People Are Not Scenery
 
 The Falkland Islands are not a stage set for British war memory.
 
@@ -318,7 +318,7 @@ This may take some time.
 
 ---
 
-## Economy, Fisheries, And Oil
+## 💸 Economy, Fisheries, And Oil
 
 The Falkland Islands are not only sheep and war memory.
 
@@ -372,7 +372,7 @@ A bad argument throws them all into one bucket and paints the bucket red, white,
 
 ---
 
-## Weather, Distance, And Defence Are Material
+## 🛟 Weather, Distance, And Defence Are Material
 
 The Falklands are remote.
 
@@ -412,7 +412,7 @@ It means the islands sit in a wider working geography whose infrastructure costs
 
 ---
 
-## The Free Antivirus Test
+## 💉 The Free Antivirus Test
 
 Contestants doing alliance politics must complete one additional exercise.
 
@@ -444,7 +444,7 @@ Please return to logistics.
 
 ---
 
-## Wildlife / Habitat Postcard
+## 🐧 Wildlife / Habitat Postcard
 
 The Falkland Islands are ecologically rich.
 
@@ -477,7 +477,7 @@ They have enough to do.
 
 ---
 
-## Penguins Are Not A Mandate
+## 🐧🐧🐧 Penguins Are Not A Mandate
 
 Penguins may appear in campaign imagery, tourism material, documentaries, childhood memory, and the inner emotional weather of British people who like cold birds.
 
@@ -499,7 +499,7 @@ Respect it.
 
 ---
 
-## Rockhopper Penguin Advisory
+## 🪨🐧 Rockhopper Penguin Advisory
 
 Special attention should be paid to the southern rockhopper penguin.
 
@@ -527,7 +527,7 @@ Show some respect.
 
 ---
 
-## Landmines, Memory, And Care
+## ⚓ Landmines, Memory, And Care
 
 The Falklands also carry the material memory of war.
 
@@ -555,7 +555,7 @@ If you are standing somewhere shaped by conflict, behave as if the dead are not 
 
 ---
 
-## Get Some Good Photos Too
+## 📸 Get Some Good Photos Too
 
 Contestants must return with at least one respectful Falklands postcard set.
 
@@ -573,7 +573,7 @@ If the contestant cannot produce one decent human-context note after visiting th
 
 ---
 
-## Cocktail Flag Warning
+## 🚩 Cocktail Flag Warning
 
 The cocktail flag may not be placed:
 
@@ -605,7 +605,7 @@ The Falklands are not obliged to be impressed.
 
 ---
 
-## Contestant Field Questions
+## 🌿 Contestant Field Questions
 
 Before leaving the Falkland Islands, contestants must answer:
 
@@ -635,7 +635,7 @@ If question twenty-one is answered “yes,” the contestant must return to the 
 
 ---
 
-## What This Stop Teaches
+## 🇫🇰 What This Stop Teaches
 
 The Falkland Islands teach that self-determination, sovereignty dispute, war memory, defence commitment, local life, resource politics, and wildlife can all be real at the same time.
 
