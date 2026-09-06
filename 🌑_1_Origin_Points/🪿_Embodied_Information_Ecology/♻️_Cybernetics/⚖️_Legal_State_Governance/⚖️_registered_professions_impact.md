@@ -1,5 +1,5 @@
 # ⚖️ Registered Professions Impact  
-**First created:** 2025-09-26 | **Last updated:** 2026-08-13  
+**First created:** 2025-09-26 | **Last updated:** 2026-09-06  
 *How manufactured provenance disproportionately affects registered professionals in healthcare, law, education, and social work.*  
 
 ---
@@ -66,7 +66,7 @@ Combatants Law" (domestic IL law).
 ## 🌌 Constellations  
 ⚖️ 🧠 💷 🧬 — This node exposes how systemic metadata sabotage disproportionately harms regulated professions.
 
-**Media references:**  
+*Follow the evidence:*  
 - 
 - [WMA Declaration of Geneva (Medical Oath, Common Modern Form, English.)](https://www.wma.net/policies-post/wma-declaration-of-geneva/)  
 - *The Doctors’ Association UK: Misinformation Complaints*  
@@ -83,8 +83,8 @@ Combatants Law" (domestic IL law).
 - [Contemporanious coverage of Hind Rajab Foundation prosecution cases: "Legal noose tightens: Israeli commanders, politicians, 1,000 soldiers could face ICC action"](https://www.aa.com.tr/en/middle-east/legal-noose-tightens-israeli-commanders-politicians-1-000-soldiers-could-face-icc-action/3413175#), Anadolu Ajansı.
 - [Policy Paper: “Medicide” in Gaza and International Law:
 Time for Banning the Bombing of Hospitals](https://www.palestine-studies.org/sites/default/files/attachments/policypapers/Nicola%20Perugini%20-%20Neve%20Gordon%20ENG%20094.pdf), Institute for Palestine Studies. *Note: paper has been subject of takedowns elsewhere; evidence removal from institutional profiles; metadata suggests previous targetting.*  
-- [ITV News covers detention of Palestinian doctors from Gaza](https://vm.tiktok.com/ZNRAhqqyE/), via TikTok.  
-
+- [ITV News covers detention of Palestinian doctors from Gaza](https://vm.tiktok.com/ZNRAhqqyE/), via TikTok.
+- [📹: Dash Dobrofsky // TikTok: “US Ambassador to Israel lashes out at UK Government over Foreign Secretary's Gaza video”](https://vm.tiktok.com/ZN8Yo96U3/) – *Mike Huckabee accusing wor Ed of things Mike Huckabee has zero lived experience of, in the name of denying Palestinian people medicines like basic painkillers and anaesthesia; sir, he is our Foreign Secretary, and only we can talk to him like that*  
 
 ---
 
@@ -110,4 +110,4 @@ It analyses the systemic risks posed to registered professions when provenance i
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-13_
+_Last updated: 2026-09-06_
