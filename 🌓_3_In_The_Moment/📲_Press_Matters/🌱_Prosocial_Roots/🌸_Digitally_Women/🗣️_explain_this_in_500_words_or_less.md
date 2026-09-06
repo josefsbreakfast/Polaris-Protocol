@@ -1,5 +1,5 @@
 # 🗣️ Explain This in 500 Words or Less
-**First created:** 2026-09-06 | **Last updated:** 2026-09-06  
+**First created:** 2026-09-06 | **Last updated:** 2026-09-07  
 *The short version, because nobody should need to read an archive before they understand the point.*
 
 ---
@@ -120,7 +120,8 @@ It compresses the branch's central argument without replacing the evidence, lega
 > - [🌱 Prosocial Roots](../README.md) — *1up*
 > - [📲 Press Matters](../../README.md) — *2up*
 > - [🌓 In The Moment](../../../README.md) — *3up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-06_
+_Last updated: 2026-09-07_
