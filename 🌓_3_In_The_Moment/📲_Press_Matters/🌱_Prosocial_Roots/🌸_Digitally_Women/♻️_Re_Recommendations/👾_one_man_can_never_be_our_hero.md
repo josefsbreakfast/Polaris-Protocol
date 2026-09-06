@@ -133,6 +133,8 @@ It is:
 
 > **What gendered harms should a government claiming exceptional expertise in VAWG reasonably have anticipated from the policies it supported?**
 
+All of this could be said of any conflict zone. To ignore credible concerns of specific issues, history, and events, is a very particular choice.  
+
 ---
 
 ## 📺 When Statecraft Enters The Survivor’s Living Room
