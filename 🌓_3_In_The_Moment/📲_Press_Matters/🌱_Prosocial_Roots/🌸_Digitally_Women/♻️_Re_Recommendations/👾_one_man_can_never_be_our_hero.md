@@ -283,7 +283,18 @@ That is not an argument that men cannot help women, govern well, or contribute e
 
 Women, girls and others exposed to gendered violence need institutions capable of protecting us when the person at the top gets the balance wrong — including when he is clever, experienced, well-intentioned and convinced that he understands.
 
-**One man can never be our hero because no one man should ever have to be.**
+One man can never be our hero because no one man should ever *have* to be.  
+
+Moreover, a man who consents to grasp at Jewish femininity to demonise Palestinian men, never had adequate plans for how to *be* such a hero.  
+
+As much as I am still deeply frustrated with Jewish masculinities, I will gladly take the awkward growing of more emancipatory possibilities where they so exist, even where they annoy me, even when I disagree on so much, even where we are arguing like chickens, because this is at least a place where honesty may actually grow.  
+
+Let us turn a page, and look for more sustainable routes to equity and justice.  
+> “From the ashes, we will rise.”
+>
+> - Naji al-Ali
+>
+>  🐦‍🔥
 
 ---
 
@@ -310,7 +321,9 @@ The evidential rule throughout is straightforward: **do not convert leadership r
 
 ## 🌌 Constellations
 
-👾 ♻️ 🕯️ ⚖️ 🧿 — recurring recommendations; VAWG governance; survivor credibility; powerful actors; institutional protection; political judgment.
+👾 ♻️ 🕯️ ⚖️ 🧿 — recurring recommendations; VAWG governance; survivor credibility; powerful actors; institutional protection; political judgment.  
+
+---  
 
 ## ✨ Stardust
 
