@@ -580,6 +580,7 @@ It exists to make the historical substrate beneath contemporary digital politics
 > - [🪬 Xenofeminism and the Engineered Body](./🪬_xenofeminism_and_the_engineered_body.md) — *bodies, medicine, nature and technological intervention*
 > - [🌞 We Could Build Nicer Things](./🌞_we_could_build_nicer_things.md) — *constructive technological alternatives*
 > - [🧭 How We Got to Here](./🧭_how_we_got_to_here.md) — *capstone and route map*
+>  
 > 🏮 Return To:
 >
 > - [🌸 Digitally Women](../README.md) — *1up*
