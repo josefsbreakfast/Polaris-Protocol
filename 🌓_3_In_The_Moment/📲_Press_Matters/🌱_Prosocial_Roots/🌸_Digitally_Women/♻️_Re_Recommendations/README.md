@@ -1,5 +1,5 @@
-# ♻️ Re: Recommendations
-
+# ♻️ Re: Recommendations  
+**First created:** 2026-09-06 | **Last updated:** 2026-09-06  
 *When institutions keep being told recognisably similar things after serious failures, what happened between recommendation and recurrence?*
 
 ---
@@ -845,6 +845,29 @@ Because the purpose of a recommendation is not to improve the institution's resp
 
 > **It is to change what happens before the next one becomes a scandal.**
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+---
+
+## 🏮 Footer  
+
+*♻️ Re: Recommendations* is a living research cluster of the **Polaris Protocol**.  
+It traces recurring recommendations across VAWG, safeguarding and policing reviews beyond publication, distinguishing non-implementation, partial implementation, integration failure, recommendation decay, status-contingent failure and durable institutional learning.  
+Its purpose is to make the space between recommendation and recurrence inspectable.
+
+> 📡 Cross-references:
+>
+> - [♻️ As Per My Last Review](./♻️_as_per_my_last_review.md) — *primary-source recommendation crosswalk and evidential spine of the cluster*  
+> - [♻️ Why Are We Recommending This Again?](./♻️_why_are_we_recommending_this_again.md) — *diagnostic framework for interpreting recommendation recurrence*  
+> - [🧠 Did the Safeguard Survive the Next Case?](./🧠_did_the_safeguard_survive_the_next_case.md) — *implementation and operational-capability stress test*  
+> - [🧭 Institutional Learning or Crisis Absorption?](./🧭_institutional_learning_or_crisis_absorption.md) — *capstone test for distinguishing durable learning from successful crisis response*  
+> - [🛸 LOOK UP](../🛸_LOOK_UP/) — *upstream safeguarding architecture for warning signs, information movement and pattern recognition*  
+>
+> 🏮 Return To:
+>
+> - [🌸 Digitally Women](../README.md) — *1up*  
+> - [🌱 Prosocial Roots](../../README.md) — *2up*  
+> - [📲 Press Matters](../../../README.md) — *3up*  
+> - [🌓 In The Moment](../../../../README.md) — *4up*
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
 
 _Last updated: 2026-09-06_
