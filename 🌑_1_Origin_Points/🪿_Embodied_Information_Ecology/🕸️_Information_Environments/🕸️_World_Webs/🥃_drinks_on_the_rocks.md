@@ -346,7 +346,15 @@ It examines how signalling between close allies can produce unintended friction 
 > 📡 Cross-references:
 > 
 > - [🇬🇧 Why the UK Is in the Falklands](./🇬🇧_why_the_uk_is_in_the_falklands.md) — *foundational context for sovereignty, South Atlantic posture, BAT and Sea Lion*
-> - [🇫🇰 Falkland Islands](../../🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/🇫🇰_falkland_islands.md) — *pick up your postcard - UK politicians only*  
+> - [🇫🇰 Falkland Islands](../../🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/🇫🇰_falkland_islands.md) — *pick up your postcard - UK politicians only*
+>
+> 🏮 Return To:
+>
+> - [🕸️ World Webs](./README.md) — *1up*  
+> - [🕸️ Information Environments](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol - Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
