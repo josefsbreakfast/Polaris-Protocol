@@ -84,7 +84,7 @@ Then use the folders below according to the question you actually have.
 ├── 🗣️ EXPLAIN THIS IN 500 WORDS OR LESS
 │      → WHAT IS THIS WHOLE BRANCH ARGUING?
 │
-├── 📚 DEFINITIONS & REGISTERS
+├── 📖 PREVIOUSLY ON THE INTERNET  
 │      → WHAT DO THESE WORDS ACTUALLY MEAN?
 │
 ├── 🧾 PETITION GC
@@ -130,7 +130,7 @@ This protects both analysis and people.
 
 ---
 
-## 🧾 [Petition GC](./🧾_Petition_GC/)
+## [🧾 Petition GC](./🧾_Petition_GC/README.md)
 
 ### The live parliamentary layer
 
@@ -174,7 +174,7 @@ And case law, statutory architecture and policy choices travel beyond whichever 
 
 ---
 
-## 🛸 [LOOK UP](./🛸_LOOK_UP/)
+## [🛸 LOOK UP](./🛸_LOOK_UP/README.md)
 
 ### The before-the-offence layer
 
@@ -216,7 +216,7 @@ And then:
 
 ---
 
-## ♻️ [Re: Recommendations](./♻️_Re_Recommendations/)
+## [♻️ Re: Recommendations](./♻️_Re_Recommendations/README.md)
 
 ### The institutional-memory layer
 
@@ -253,7 +253,7 @@ The `/data/` layer preserves the repeatable research methodology underneath the 
 
 ---
 
-## ⚡ [Lightning Round Press](./⚡_Lightning_Round_Press/)
+## [⚡ Lightning Round Press](./⚡_Lightning_Round_Press/README.md)
 
 ### The deadline layer
 
@@ -289,9 +289,11 @@ If you have enough time to understand the argument rather than merely file the c
 A recurring failure in public discussion is to divide the world into:
 
 ```text
-LEGAL
-/
-NOTHING TO DO
+’LEGAL’  
+
+OR  
+
+‘NOTHING TO DO’  
 ```
 
 That is not how safeguarding works.
@@ -626,29 +628,35 @@ Read [🗣️ Explain This in 500 Words or Less](./🗣️_explain_this_in_500_w
 
 ### “I am covering the 7 September debate.”
 
-Go to [🧾 Petition GC](./🧾_Petition_GC/).
+Go to [🧾 Petition GC](./🧾_Petition_GC/README.md).
 
 ### “I want to understand what could happen before an offence.”
 
-Go to [🛸 LOOK UP](./🛸_LOOK_UP/).
+Go to [🛸 LOOK UP](./🛸_LOOK_UP/README.md).
 
 ### “Why does every review seem to recommend the same thing?”
 
-Go to [♻️ Re: Recommendations](./♻️_Re_Recommendations/).
+Go to [♻️ Re: Recommendations](./♻️_Re_Recommendations/README.md).
 
 ### “What does this terminology actually mean?”
 
-Go to [📚 Definitions & Registers](./📚_Definitions_Registers/).
+Go to [📚 Definitions & Registers](./📖_Previously_On_The_Internet/📚_definitions_and_registers.md).
 
 ### “I am filing in twenty minutes.”
 
-Go directly to [⚡ Lightning Round Press](./⚡_Lightning_Round_Press/).
+Go directly to [⚡ Lightning Round Press](./⚡_Lightning_Round_Press/README.md).  
+
+### “How did the internet even get like this?”  
+
+Go to [📖 Previously On The Internet](./📖_Previously_On_The_Internet/README.md).  
 
 ---
 
 ## 🌌 Constellations
 
 🌸 🛸 ♻️ 🕸️ ⚖️ — digital misogyny; before-the-offence safeguarding; institutional learning; information architecture; proportionate intervention.
+
+--- 
 
 ## ✨ Stardust
 
@@ -659,24 +667,27 @@ misogyny, violence against women and girls, safeguarding, online harms, pattern 
 ## 🏮 Footer
 
 *🌸 Digitally Women* is a living research branch of the **Polaris Protocol**.  
+
 It examines misogyny and digital information environments as problems spanning culture, safeguarding, law, institutions and system design, with particular attention to what can be noticed before serious harm and whether existing safeguards survive implementation.  
+
 The branch is designed to support both deep research and rapid public-interest scrutiny without collapsing risk into criminality or association into causation.
 
 > 📡 Cross-references:
 >
 > - [🗣️ Explain This in 500 Words or Less](./🗣️_explain_this_in_500_words_or_less.md) — *short-form front door to the branch*
-> - [🧾 Petition GC](./🧾_Petition_GC/) — *live parliamentary, legal and policy context*
-> - [🛸 LOOK UP](./🛸_LOOK_UP/) — *warning signs, early intervention and information movement*
-> - [♻️ Re: Recommendations](./♻️_Re_Recommendations/) — *recurring safeguards, implementation and institutional learning*
-> - [📚 Definitions & Registers](./📚_Definitions_Registers/) — *terminology and analytical distinctions*
-> - [⚡ Lightning Round Press](./⚡_Lightning_Round_Press/) — *deadline claims, language, questions and source routing*
+> - [🧾 Petition GC](./🧾_Petition_GC/README.md) — *live parliamentary, legal and policy context*
+> - [🛸 LOOK UP](./🛸_LOOK_UP/README.md) — *warning signs, early intervention and information movement*
+> - [♻️ Re: Recommendations](./♻️_Re_Recommendations/README.md) — *recurring safeguards, implementation and institutional learning*
+> - [📚 Definitions & Registers](./📚_Definitions_Registers/README.md) — *terminology and analytical distinctions*
+> - [⚡ Lightning Round Press](./⚡_Lightning_Round_Press/README.md) — *deadline claims, language, questions and source routing*
 >
 > 🏮 Return To:
 >
 > - [🌱 Prosocial Roots](../README.md) — *1up*
 > - [📲 Press Matters](../../README.md) — *2up*
 > - [🌓 In The Moment](../../../README.md) — *3up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-06_
+_Last updated: 2026-09-07_
