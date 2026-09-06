@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-06 13:16:45 UTC_
+_Generated on 2026-09-06 13:32:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3170,9 +3170,6 @@ _Generated on 2026-09-06 13:16:45 UTC_
           - [`🧟‍♀️_frankenstack_explainer_for_survivors.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_for_survivors.md)
           - [`🧟‍♀️_frankenstack_explainer_neurodivergent.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_neurodivergent.md)
           - [`🧬_data_twinning_exploitation_in_frankenstacks.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧬_data_twinning_exploitation_in_frankenstacks.md)
-        - [`README.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/README.md)
-        - [`⚖️_institutions_2022_2025.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_institutions_2022_2025.md)
-        - [`⚖️_reputation_after_revelation.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_reputation_after_revelation.md)
         - [`🌍_crisis_absorption_logic.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🌍_crisis_absorption_logic.md)
         - [`🌪️_the_legitamacy_crisis_era_2023_2025.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🌪️_the_legitamacy_crisis_era_2023_2025.md)
         - [`🐈‍⬛_diy_pussy_hat_archive.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐈‍⬛_diy_pussy_hat_archive.md)
@@ -4077,6 +4074,10 @@ _Generated on 2026-09-06 13:16:45 UTC_
           - [`🧬_why_it_is_easier_not_to_see_or_hear_or_speak.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🧬_why_it_is_easier_not_to_see_or_hear_or_speak.md)
           - [`🩸_when_words_start_failing.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🩸_when_words_start_failing.md)
           - [`🫀_a_question_of_questions.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🫀_a_question_of_questions.md)
+        - [**👾_Debugging_The_Men/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/README.md)
+          - [`⚖️_institutions_2022_2025.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_institutions_2022_2025.md)
+          - [`⚖️_reputation_after_revelation.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_reputation_after_revelation.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/README.md)
       - [**🪳🕶️_Mera_Naam_Cockroach_Hai/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/)
         - [**🌑_The_System_Becomes_Intolerable/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/)
