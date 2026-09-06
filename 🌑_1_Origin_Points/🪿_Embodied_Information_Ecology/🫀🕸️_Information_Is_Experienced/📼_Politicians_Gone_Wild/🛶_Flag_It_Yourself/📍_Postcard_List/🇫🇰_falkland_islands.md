@@ -696,7 +696,6 @@ Several were asked to stop treating penguins as constitutional witnesses.
 
 > 📡 Cross-references:
 >
-> - [🇬🇧 Why the UK Is in the Falklands](../../../../🕸️_Information_Environments/🕸️_World_Webs/🇬🇧_why_the_uk_is_in_the_falklands.md) — *foundational sovereignty, history and South Atlantic systems context*  
 > - [🥃 Drinks on the Rocks](../../../../🕸️_Information_Environments/🕸️_World_Webs/🥃_drinks_on_the_rocks.md) — *US signalling and alliance burden-sharing analysis*
 >
 > 🏮 Return To:
