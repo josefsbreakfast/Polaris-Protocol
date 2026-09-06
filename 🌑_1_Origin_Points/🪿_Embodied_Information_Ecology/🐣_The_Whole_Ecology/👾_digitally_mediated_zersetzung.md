@@ -635,6 +635,7 @@ digital authoritarianism, digital repression, zersetzung, transnational repressi
 > - [♻️🕸️ The Feedback Environment](../♻️🕸️_The_Feedback_Environment/README.md) — *feedback, coupling and intervention across sociotechnical systems*
 > - [🫀🕸️ Information Is Experienced](../🫀🕸️_Information_Is_Experienced/README.md) — *how informational conditions become embodied consequences*
 > - [❤️‍🩹 Rehabilitated Tech](../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/README.md) — *designing technological systems with meaningful routes of repair and human agency*
+> - [🧢 Big Daddy NATO](../♻️_Cybernetics/🧢_big_daddy_nato.md) — *theoretical example of Zersetzung-like effects*  
 >
 > 🏮 Return To:
 >
