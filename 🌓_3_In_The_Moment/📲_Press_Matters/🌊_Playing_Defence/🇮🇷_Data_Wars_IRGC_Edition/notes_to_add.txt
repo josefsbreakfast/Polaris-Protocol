@@ -485,3 +485,50 @@ I found no separate newly confirmed cyber-induced outage in healthcare, governme
 The National — Iran's cyber attack strategy is 'perfect weapon' against US⁠￼”
 
 - https://www.thenationalnews.com/future/technology/2026/09/02/iran-cyberattack-hack-us-infrastructure/
+
+20260906:  
+
+- “There is one credible escalation worth adding. It is a development in an incident already on the watch, but it materially changes the risk picture.
+
+🇩🇪 Germany — state government / administration, with possible critical-infrastructure exposure
+
+Berlin confirmed on 4–5 September 2026 that the data stolen from two state-government departments has now actually been published by the Rhysida ransomware group. This moves the incident from attempted extortion and claimed exfiltration into a confirmed public data leak. Berlin has established a central crisis unit to assess the material and notify affected people and organisations.  
+
+Operational impact: the original intrusion had already caused real administrative disruption after the affected departments were disconnected from Berlin’s state network on 14 August, temporarily preventing housing-benefit applications and payments. The new impact is secondary but potentially longer-lived: sensitive state data is now outside government control and available for exploitation by other actors.  
+
+The precise contents remain under forensic review. Rhysida claims roughly 5.79 TB / 1.44 million files, including contracts, credentials and infrastructure-related material; Berlin has not independently confirmed those quantities or every claimed category. One report says the claimed dataset includes thousands of infrastructure files and material concerning Berlin water-supply vulnerabilities, but that portion should remain marked attacker-claim / not yet independently verified.  
+
+Attribution confidence: moderate-to-high for Rhysida as the extortion actor; very low for Iran. Rhysida is generally treated by researchers as a Russian-speaking/Eastern European ransomware ecosystem. There is no credible evidence at present of Iranian sponsorship, Iranian tasking, or Iranian operational involvement.  
+
+Competing explanation: ordinary financially motivated ransomware remains overwhelmingly the best-supported explanation. As usual with ransomware-as-a-service, an affiliate or access broker may sit between the intrusion and the Rhysida brand, so the precise operator chain is not necessarily identical to the leak-site identity.
+
+Fit with Iranian methods / wartime incentives: weak as an attribution case, but relevant to the wartime ecosystem. If the leaked material genuinely includes credentials, infrastructure documentation or vulnerability assessments, unrelated criminal activity may have created a dataset useful to intelligence services or later infrastructure attackers without any need for prior coordination. That distinction is important: criminal compromise can generate strategic intelligence that another actor subsequently exploits.
+
+How this changes the trend since 28 February
+
+The pattern is becoming less about simultaneous attacks alone and more about cross-actor reuse of compromised infrastructure information:
+
+criminal ransomware → government network compromise → administrative disruption → sensitive state/infrastructure data publicly released
+
+alongside
+
+state-linked operators → reconnaissance and targeting of essential-service systems.
+
+Those two strands need not share a sponsor to reinforce one another.
+
+That matters more now because direct U.S.–Iran hostilities escalated sharply again on 5–6 September, including Iranian missile attacks on U.S. naval vessels and U.S. strikes on Iranian oil tankers.   The strategic incentive for Iranian operators to exploit cheaply available Western infrastructure intelligence has therefore increased, even though there is presently no evidence that Iran has accessed or used the Berlin leak.
+
+I found no separate newly confirmed cyber-induced outage since the last check in water, energy, telecommunications, healthcare, defence, education, transport or systemically important banking that clears the threshold for another alert. The current change is therefore Berlin’s transition from extortion threat to confirmed data publication, rather than a new Iran-attributed infrastructure strike.”
+
+- https://www.reuters.com/world/berlin-launches-crisis-response-after-hackers-publish-stolen-data-2026-09-05/  
+- https://www.reuters.com/world/berlin-city-government-says-it-wont-submit-extortion-after-pre-election-2026-08-28/
+- https://www.igorslab.de/en/leakwatch-cw-36-2026-berlin-administrative-data-dark-web-dlss-5-leaks/
+- https://www.reuters.com/world/middle-east/explosions-heard-near-irans-kharg-island-gulf-origin-unknown-fars-news-says-2026-09-05/
+- https://www.cloudsek.com/knowledge-base/countries-most-targeted-by-cyberattacks  
+- https://www.cloudsek.com/knowledge-base/top-apt-groups-dominated
+- https://www.jdsupra.com/legalnews/berlin-refused-the-ransom-before-the-5956078/  
+- https://www.techtimes.com/articles/326186/20260901/berlins-seven-day-ransomware-isolation-gap-let-rhysida-steal-critical-infrastructure-data.htm
+- https://www.jpost.com/international/article-907648
+- https://www.jpost.com/international/islamic-terrorism/article-906279
+- https://www.jpost.com/middle-east/iran-news/article-907621
+- 
