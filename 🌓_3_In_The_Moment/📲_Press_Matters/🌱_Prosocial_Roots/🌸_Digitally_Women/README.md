@@ -1,5 +1,5 @@
 # 🌸 Digitally Women
-**First created:** 2026-09-06 | **Last updated:** 2026-09-06  
+**First created:** 2026-09-06 | **Last updated:** 2026-09-07  
 *Misogyny, digital environments and the institutional systems that are supposed to notice risk before the warning signs become an evidential exhibit.*
 
 ---
@@ -102,7 +102,7 @@ Then use the folders below according to the question you actually have.
 
 ---
 
-## 📚 [Definitions & Registers](./📚_Definitions_Registers/)
+## [📖 Previously On The Internet](./📖_Previously_On_The_Internet/README.md)
 
 ### The language layer
 
