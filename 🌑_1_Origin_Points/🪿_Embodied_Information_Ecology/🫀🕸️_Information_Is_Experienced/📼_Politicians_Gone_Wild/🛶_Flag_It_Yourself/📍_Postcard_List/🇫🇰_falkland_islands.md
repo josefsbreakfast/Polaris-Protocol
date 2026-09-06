@@ -1,6 +1,10 @@
 # 🇫🇰 Falkland Islands  
-SATIRE. SATIRE. SATIRE.  
-Postcard stop for contestants who thought “the Falklands” meant one war, one flag, one argument, and done, rather than a South Atlantic community with self-government, sovereignty dispute, 1982 memory, fisheries, sheep, weather, minefield history, albatrosses, seals, and an unreasonable quantity of penguins, including rockhoppers, who are clearly bringing main-character cliff energy.
+**First created:** 2026-06-01 | **Last updated:** 2026-09-06  
+*Satirical postcard stop for contestants who thought “the Falklands” meant one war, one flag, one argument, and done.*  
+
+---  
+
+The actual place remains a South Atlantic community with self-government, sovereignty dispute, 1982 memory, fisheries, sheep, weather, military logistics, albatrosses, seals, and an unreasonable quantity of penguins, including rockhoppers, who are clearly bringing main-character cliff energy.
 
 ---
 
@@ -221,6 +225,42 @@ If the contestant can only hold one of those facts, they are not ready for the S
 
 Please issue them a biscuit and ask them to sit facing the weather.
 
+### September 2026 update: apparently everyone has rediscovered the map
+
+The current round of attention is not merely a replay of 1982.
+
+Three things have converged:
+
+- on **31 August 2026**, President Donald Trump said the United States was reviewing its position on the Falklands;  
+- the **Sea Lion** oil development has moved beyond indefinite prospecting after Final Investment Decisions in December 2025;  
+- on **3–4 September 2026**, President Javier Milei escalated Argentina's legal and political response, including new measures and sanctions proceedings concerning 45 people and legal entities connected to hydrocarbon activity.  
+
+Argentina's underlying sovereignty claim is not new.
+
+It is longstanding and constitutionally embedded.
+
+The thing that changes is the **temperature**.
+
+Contestants therefore may not write:
+
+> "Argentina suddenly remembered the Falklands."
+
+No.
+
+Argentina did not forget.
+
+Nor may contestants write:
+
+> "Oil explains everything."
+
+Also no.
+
+Oil has made the present dispute more economically immediate.
+
+That is different from demonstrating that every American, British or Argentine move has been caused by Sea Lion.
+
+Please keep your causation inside the marked lanes.
+
 ---
 
 ## Self-Determination Is Not A Prop Either
@@ -282,9 +322,17 @@ This may take some time.
 
 The Falkland Islands are not only sheep and war memory.
 
-The modern economy includes fisheries, agriculture, tourism, public services, and resource questions, including oil exploration and development debates.
+The modern economy includes fisheries, agriculture, tourism, public services, and now a substantially more concrete oil-development question.
 
 Fisheries are especially significant.
+
+On **10 December 2025**, the Falkland Islands Government recorded Final Investment Decisions for phases 1 and 2 of the northern Sea Lion development area.
+
+This means the oil paragraph can no longer live indefinitely in the comfortable drawer labelled:
+
+> "interesting prospect, perhaps one day."
+
+It is now a live commercial and political issue.
 
 This matters because sovereignty disputes are not only about flags and memory.
 
@@ -347,6 +395,52 @@ If Britain says it will defend the Falkland Islands, then Britain must understan
 The South Atlantic is not impressed by phrases like “standing firm.”
 
 The South Atlantic would like to see the shipping plan.
+
+And, inconveniently for slogan-based geopolitics, Britain already has one.
+
+Current UK defence material places **British Forces South Atlantic Islands** at Mount Pleasant Complex and remote stations, gives the command responsibilities extending to South Georgia and the South Sandwich Islands and UK military activity on Ascension, and describes East Cove Port as the primary maritime logistics node for British Forces in the South Atlantic.
+
+The UK National Security Strategy goes further: it says Overseas Territories provide strategically located bases supporting capabilities for Britain **and its allies**, and expressly links South Atlantic military presence with support to the UK's scientific presence in the British Antarctic Territory.
+
+This does not turn the Falklands into:
+
+> "NATO's secret Antarctic aircraft carrier."
+
+Please confiscate the marker pen.
+
+It means the islands sit in a wider working geography whose infrastructure costs money and does things even when nobody is making a reel about it.
+
+---
+
+## The Free Antivirus Test
+
+Contestants doing alliance politics must complete one additional exercise.
+
+Look at a permanent allied base and ask:
+
+> Who pays for this when I am not looking at it?
+
+If Britain maintains runways, ports, personnel, communications, maritime familiarity and contingency capacity because Britain has sovereign responsibilities in the South Atlantic, an ally can receive some strategic benefit without commissioning every component itself.
+
+This is not magic.
+
+It is not free.
+
+It is **somebody else's defence budget**.
+
+Nor does it prove that America would have to replace every British capability if the political arrangement changed.
+
+That is a planning question, not an established fact.
+
+But contestants proposing clever geopolitical rearrangements must now answer:
+
+> What does Tuesday's duty roster look like afterwards?
+
+Failure to answer does not automatically invalidate the policy.
+
+It merely indicates that the contestant has attempted to uninstall the antivirus without first checking what it was doing.
+
+Please return to logistics.
 
 ---
 
@@ -531,9 +625,13 @@ Before leaving the Falkland Islands, contestants must answer:
 14. Why are penguins not a mandate?
 15. What is one conservation or biosecurity issue the contestant noticed?
 16. What did the contestant not touch, feed, chase, politicise, memorialise badly, or decorate with a cocktail flag?
-17. Did any Islander, veteran, official, conservation worker, penguin, seal, albatross, customs officer, fishery manager, rockhopper chaos delegate, or weather system complain?
+17. What changed when Sea Lion passed Final Investment Decision?
+18. Why is Argentina's permanent sovereignty claim different from a rise in political temperature?
+19. What did the United States actually say on 31 August 2026: policy reversal, or review?
+20. Why can somebody else's defence budget look free to an ally?
+21. Did any Islander, veteran, official, conservation worker, penguin, seal, albatross, customs officer, fishery manager, rockhopper chaos delegate, or weather system complain?
 
-If question seventeen is answered “yes,” the contestant must return to the Local Consent Clause and stop using “1982” until they can say “logistics.”
+If question twenty-one is answered “yes,” the contestant must return to the Local Consent Clause and stop using “1982” until they can say “logistics.”
 
 ---
 
@@ -557,11 +655,34 @@ Do not ruin it by asking a rockhopper penguin to validate your foreign policy.
 
 ---
 
-## Footer
+## 🌌 Constellations  
 
-Falkland Islands is a postcard node inside 📍 Postcard List, part of 🛶 Flag It Yourself.
+🗺️ 🏝️ 🐧 🥃 💸 — postcard satire; local consent; South Atlantic logistics; sovereignty complexity; alliance-cost reality check  
 
-It exists because “British Overseas Territory” is not one culture, one history, one politics, one habitat, or one reusable Falklands analogy.
+---
+
+## 🔖 Sources  
+
+- [Reuters: “Trump says he is reviewing US position on Falkland Islands”](https://www.reuters.com/world/americas/trump-says-reviewing-us-position-falkland-islands-2026-08-31/)  
+- [Falkland Islands Government: “FIG Notes Final Investment Decisions for Sea Lion Development Programme”](https://www.gov.fk/press/fig-notes-final-investment-decisions-for-sea-lion-development-programme/)  
+- [Argentina.gob.ar: “Comunicado Oficial Número 157”](https://www.argentina.gob.ar/noticias/comunicado-oficial-numero-157)  
+- [Argentina.gob.ar: “Comunicado Oficial Número 158”](https://www.argentina.gob.ar/noticias/comunicado-oficial-numero-158)  
+- [UK Government: “Integrated Global Defence Network”](https://www.gov.uk/government/publications/permanent-joint-operating-bases-pjobs/fd)  
+- [UK Government: “National Security Strategy 2025”](https://www.gov.uk/government/publications/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world-html)  
+
+---
+
+## ✨ Stardust  
+
+falkland islands, satire, overseas territories, self determination, argentina, sea lion, south atlantic logistics, alliance burden sharing, penguins, flag it yourself  
+
+---
+
+## 🏮 Footer
+
+*🇫🇰 Falkland Islands* is a postcard node inside **📍 Postcard List**, part of **🛶 Flag It Yourself**.
+
+It exists because “British Overseas Territory” is not one culture, one history, one politics, one habitat, or one reusable Falklands analogy. The September 2026 update also makes the contestant price the infrastructure before attempting clever alliance surgery.
 
 No politicians were harmed.
 
@@ -569,11 +690,19 @@ Several were asked to stop treating penguins as constitutional witnesses.
 
 > 📡 Cross-references:
 >
-> - 📍 Postcard List — territory-by-territory reminders that map-dots are places  
-> - 🛶 Flag It Yourself — parent satire format for map-brain, maritime nostalgia, and cocktail-flag sovereignty theatre  
-> - 🌿 Get Some Good Photos Too — habitat-awareness node for the contestant nature-photo obligation  
-> - 🗺️ The Sun Never Sets On Your To-Do List — the itinerary for contestants attempting the global map-feelings route  
+> - [🇬🇧 Why the UK Is in the Falklands](../../../../🕸️_Information_Environments/🕸️_World_Webs/🇬🇧_why_the_uk_is_in_the_falklands.md) — *foundational sovereignty, history and South Atlantic systems context*  
+> - [🥃 Drinks on the Rocks](../../../../🕸️_Information_Environments/🕸️_World_Webs/🥃_drinks_on_the_rocks.md) — *US signalling and alliance burden-sharing analysis*
+>
+> 🏮 Return To:
+>
+> - [📍 Postcard List](./README.md) — *1up*  
+> - [🛶 Flag It Yourself](../README.md) — *2up*  
+> - [📼 Politicians Gone Wild](../../README.md) — *3up*  
+> - [🫀🕸️ Information Is Experienced](../../../README.md) — *4up*
+> - [🪿 Embodied Information Ecology](../../../../README.md) — *5up*
+> - [🌑 Origin Points](../../../../../README.md) — *6up*
+> - [🌌 Polaris Protocol - Root](../../../../../../README.md) — *root*  
 
-Survivor authorship is sovereign. Containment is never neutral.
+*Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-0
+_Last updated: 2026-09-06_
