@@ -84,7 +84,7 @@ None of those automatically imply misogyny or extremism.
 The problem appears when pain is converted into hierarchy, monetised,
 given a misogynistic explanation, or used as recruitment material.
 
-See [🥃 Males Online](../../../🥃_Males_Online/README.md) for the wider
+See [🥃 Males Online](../../../../🥃_Males_Online/README.md) for the wider
 distinction between distress, behaviour, entitlement, ideology and
 recruitment.
 
@@ -154,11 +154,11 @@ Relevant inherited behaviours include:
 -   comfort-building;
 -   future-faking.
 
-The existing behaviour clinic in [🌹 Demonstrating High Value](../../../🥃_Males_Online/🌹_Demonstrating_High_Value/README.md) is the appropriate place for detailed treatment.
+The existing behaviour clinic in [🌹 Demonstrating High Value](../../../../🥃_Males_Online/🌹_Demonstrating_High_Value/README.md) is the appropriate place for detailed treatment.
 
-[🌹 Negging](../../../🥃_Males_Online/🌹_Demonstrating_High_Value/🌹_negging.md) situates insult-as-flirtation within PUA/manosphere status destabilisation.
+[🌹 Negging](../../../../🥃_Males_Online/🌹_Demonstrating_High_Value/🌹_negging.md) situates insult-as-flirtation within PUA/manosphere status destabilisation.
 
-[🧤 Kino Escalation](../../../🥃_Males_Online/🌹_Demonstrating_High_Value/🧤_kino_escalation.md) distinguishes ordinary mutual touch from taught escalation built around testing, minimising, normalising and incrementally increasing access.
+[🧤 Kino Escalation](../../../../🥃_Males_Online/🌹_Demonstrating_High_Value/🧤_kino_escalation.md) distinguishes ordinary mutual touch from taught escalation built around testing, minimising, normalising and incrementally increasing access.
 
 PUA is not the whole manosphere.
 
@@ -505,7 +505,7 @@ Cultural transmission can happen through:
 Concepts and behaviours can become detached from their original
 subculture.
 
-This is why [🌹 Demonstrating High Value](../../../🥃_Males_Online/🌹_Demonstrating_High_Value/README.md) is organised as a behaviour clinic rather than as a complete history of manosphere ideology.
+This is why [🌹 Demonstrating High Value](../../../../🥃_Males_Online/🌹_Demonstrating_High_Value/README.md) is organised as a behaviour clinic rather than as a complete history of manosphere ideology.
 
 The behaviour can still be examined on its own terms.
 
@@ -888,7 +888,7 @@ Men can leave grievance cultures through:
 -   better myths;
 -   ordinary dignity.
 
-The [🌹 Demonstrating High Value](../../../🥃_Males_Online/🌹_Demonstrating_High_Value/README.md) behaviour clinic deliberately includes recovery and exit material for people recognising scripts in themselves.
+The [🌹 Demonstrating High Value](../../../../🥃_Males_Online/🌹_Demonstrating_High_Value/README.md) behaviour clinic deliberately includes recovery and exit material for people recognising scripts in themselves.
 
 The aim is not:
 
@@ -988,12 +988,12 @@ Its function is to make overlap visible while preserving the distinctions requir
 > 📡 Cross-references:
 >
 > -   [🌱 Misogyny Is in the Roots](./🌱_misogyny_is_in_the_roots.md) — *the cultural substrate available before ideological cultivation and recommendation*  
-> -   [👠 You Are Not Getting the Same Feed](./👠_you_are_not_getting_the_same_feed.md) — *differential exposure across personalised and socially situated information environments*
-> -   [🐇 Rabbitholes for the Boys](../📖_Previously_On_The_Internet/🐇_rabbitholes_for_the_boys.md) — *multiple pathways through male-coded digital cultures rather than one deterministic funnel*
-> -   [🪞 The Backlash Was Also Networked](../📖_Previously_On_The_Internet/🪞_the_backlash_was_also_networked.md) — *historical context for networked anti-feminist countermobilisation*
-> -   [🥃 Males Online](../../../🥃_Males_Online/README.md) — *distinguishing male distress, unskilled behaviour, entitlement, ideology and recruitment*
-> -   [🌹 Demonstrating High Value](../../../🥃_Males_Online/🌹_Demonstrating_High_Value/README.md) — *behaviour clinic for PUA/manosphere-derived status and escalation scripts*
-> -   [👾 Debugging The Men](../../../.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/) — *temporary in-place historical cross-link pending migration; legitimacy, safeguarding and democratic-accountability context*
+> -   [👠 You Are Not Getting the Same Feed](./👠_you_are_not_getting_the_same_feed.md) — *differential exposure across personalised and socially situated information environments*  
+> -   [🐇 Rabbitholes for the Boys](../📖_Previously_On_The_Internet/🐇_rabbitholes_for_the_boys.md) — *multiple pathways through male-coded digital cultures rather than one deterministic funnel*  
+> -   [🪞 The Backlash Was Also Networked](../📖_Previously_On_The_Internet/🪞_the_backlash_was_also_networked.md) — *historical context for networked anti-feminist countermobilisation*  
+> -   [🥃 Males Online](../../../../🥃_Males_Online/README.md) — *distinguishing male distress, unskilled behaviour, entitlement, ideology and recruitment*  
+> -   [🌹 Demonstrating High Value](../../../🥃_Males_Online/../🌹_Demonstrating_High_Value/README.md) — *behaviour clinic for PUA/manosphere-derived status and escalation scripts*  
+> -   [👾 Debugging The Men](../../../🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/README.md) — *temporary in-place historical cross-link pending migration; legitimacy, safeguarding and democratic-accountability context*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
