@@ -334,7 +334,9 @@ This means the oil paragraph can no longer live indefinitely in the comfortable 
 
 > "interesting prospect, perhaps one day."
 
-It is now a live commercial and political issue.
+It is now a live commercial and political issue.  
+
+Sea Lion is operated by Navitas Petroleum, with a 65% interest, alongside Rockhopper Exploration at 35%.  
 
 This matters because sovereignty disputes are not only about flags and memory.
 
