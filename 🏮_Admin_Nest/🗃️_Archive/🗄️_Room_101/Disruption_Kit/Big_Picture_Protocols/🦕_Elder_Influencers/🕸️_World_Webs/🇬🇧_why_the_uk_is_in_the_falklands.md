@@ -1,5 +1,5 @@
 # 🇬🇧 Why the UK Is in the Falklands  
-**First created:** 2026-04-24 | **Last updated:** 2026-08-17  
+**First created:** 2026-04-24 | **Last updated:** 2026-09-06  
 *History, population, sovereignty, ecology, and the wider strategic system shaping British control of the Falkland Islands.*  
 
 ---
@@ -239,8 +239,8 @@ It provides structured context for understanding a sovereignty dispute shaped by
 
 > 📡 Cross-references:
 > 
-> - [🥃 Drinks on the Rocks](./🥃_drinks_on_the_rocks.md) — *resource and territorial tension*  
+> - [🥃 Drinks on the Rocks]— *resource and territorial tension*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-17_  
+_Last updated: 2026-09-06_  
