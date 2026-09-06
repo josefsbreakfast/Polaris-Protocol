@@ -3828,7 +3828,7 @@ It models the maximum theoretical containment surface created when public-order,
 
 > 📡 Cross-references:
 >
-> - [👾 Digitally Mediated Zersetzung](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/👾_digitally_mediated_zersetzung.md)
+> - [👾 Digitally Mediated Zersetzung](../🐣_The_Whole_Ecology/👾_digitally_mediated_zersetzung.md)
 >   
 > 🏮 Return To:
 >
