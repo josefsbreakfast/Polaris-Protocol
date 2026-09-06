@@ -1,5 +1,5 @@
 # 🇫🇰 Falkland Islands  
-**First created:** 2026-06-01 | **Last updated:** 2026-09-06  
+**First created:** 2026-06-04 | **Last updated:** 2026-09-06  
 *Satirical postcard stop for contestants who thought “the Falklands” meant one war, one flag, one argument, and done.*  
 
 ---  
