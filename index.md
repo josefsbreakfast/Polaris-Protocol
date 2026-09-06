@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-06 13:04:47 UTC_
+_Generated on 2026-09-06 13:08:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1990,7 +1990,6 @@ _Generated on 2026-09-06 13:04:47 UTC_
         - [`🇪🇺_two_speed_europe.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇪🇺_two_speed_europe.md)
         - [`🇬🇧_britain_as_global_butler.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇬🇧_britain_as_global_butler.md)
         - [`🇬🇧_britain_is_queenless_now.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇬🇧_britain_is_queenless_now.md)
-        - [`🇬🇧_why_the_uk_is_in_the_falklands.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇬🇧_why_the_uk_is_in_the_falklands.md)
         - [`🇮🇱_zionism_is_racism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇮🇱_zionism_is_racism.md)
         - [`🇷🇺_russias_incursions_timeline.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇷🇺_russias_incursions_timeline.md)
         - [`🇷🇺_the_end_of_russias_camp_era.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)
@@ -5248,6 +5247,8 @@ _Generated on 2026-09-06 13:04:47 UTC_
           - [**🐍_Ouroborotic_Violence/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/)
             - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🐍_Ouroborotic_Violence/README.md)
           - [**🦕_Elder_Influencers/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/)
+            - [**🕸️_World_Webs/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/)
+              - [`🇬🇧_why_the_uk_is_in_the_falklands.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/🕸️_World_Webs/🇬🇧_why_the_uk_is_in_the_falklands.md)
             - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🦕_Elder_Influencers/README.md)
           - [**🪄_Expression_Of_Norms/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/)
             - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/Disruption_Kit/Big_Picture_Protocols/🪄_Expression_Of_Norms/README.md)
