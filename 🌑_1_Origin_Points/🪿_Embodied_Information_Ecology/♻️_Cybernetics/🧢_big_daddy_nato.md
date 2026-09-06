@@ -1,5 +1,5 @@
 # 🧢 Big Daddy NATO
-**First created:** 2026-09-03 | **Last updated:** 2026-09-04  
+**First created:** 2026-09-03 | **Last updated:** 2026-09-06  
 *No cap: a maximum-pressure thought experiment about what happens when a democratic security system decides a transnational protest ecology is an existential problem — and why the comparator matters.*
 
 ---
@@ -1305,7 +1305,7 @@ The underlying system does not improve.
 
 Do not shoot the error signal and congratulate yourself because the graph went down.
 
-
+---
 
 ## 🧢 Momentum, Hype and the View From Inside the Machine
 
@@ -1716,6 +1716,7 @@ The permanent question is:
 
 And the moment institutions become unwilling to hear that question, the error signal has already begun to fail.
 
+---
 
 ## 📊🥺 Big Daddy’s Big Scary Whiteboard
 
@@ -1833,9 +1834,6 @@ This is **control without a single controller**.
 Which is considerably more cybernetic than conspiracy.
 
 ---
-
-
-
 
 ## 📚 Arendt: Momentum Looks Different From Inside the Control Room
 
@@ -2236,6 +2234,7 @@ And perhaps the most important question in the entire node:
 
 > **Does disagreement remain an error signal the government has to interpret, or has disagreement itself become the error the system is trying to eliminate?**
 
+---
 
 ## 🛰️ Zuboff's Big Other
 
@@ -2415,6 +2414,7 @@ Targeting is not orchestration.
 
 Those steps require their own evidence.
 
+---
 
 ## 🧠 Everybody Is Inside the Flatline
 
@@ -3590,6 +3590,7 @@ It is attempting to regulate the target's **ability to perceive and navigate the
 
 That is why the evidential threshold for describing something as digital Zersetzung should be correspondingly high.
 
+---
 
 ## 🧿 Diagnostic Questions
 
@@ -3808,8 +3809,12 @@ No cap. 🧢
 
 [^flock2025]: Thomas Brewster, *Forbes*, “AI Startup Flock Thinks It Can Eliminate All Crime In America,” 3 September 2025. The report describes DeFlock as a crowdsourced camera-mapping and organising project, then separately discusses vandalism, theft and threats by other anti-Flock actors. That separation is important: opposition to the same technology does not establish organisational responsibility for another actor's conduct.
 
+---
+
 ## 🌌 Constellations  
 ♻️ 🪿 🧿 🕸️ 🧢 — cybernetics; embodied information ecology; classification feedback; comparative threat modelling; network containment; emergent control.
+
+---
 
 ## ✨ Stardust  
 cybernetics, embodied information ecology, protest movements, extreme right-wing terrorism, security convergence, comparative threat modelling, classification bias, network topology, legibility, coercibility, zersetzung, epistemic sabotage, adversarial feedback, policing legitimacy, public trust, CHIS governance, third-party exploitation, liaison failure, surveillance capitalism, Big Other, behavioural modification, instrumentarian power, Hannah Arendt, totalitarianism, propaganda, masses, mob, imperialism, China, Hong Kong, Joshua Wong, democratic feedback, Flock Safety, surveillance cameras, consent, compliance, conformity, elite momentum, class asymmetry, liberal democracy, Flatline Constructs, Gothic materialism, agency-without-subjectivity, embodied cognition, common-mode failure, epistemic redundancy, cognitive warfare, human factors, defence-in-depth, diverse representation, OKRs, Goodhart's law, controlled fusion, baseline drift
@@ -3828,4 +3833,4 @@ It models the maximum theoretical containment surface created when public-order,
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-04_
+_Last updated: 2026-09-06_
