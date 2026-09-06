@@ -84,7 +84,7 @@ Combatants Law" (domestic IL law).
 - [Policy Paper: “Medicide” in Gaza and International Law:
 Time for Banning the Bombing of Hospitals](https://www.palestine-studies.org/sites/default/files/attachments/policypapers/Nicola%20Perugini%20-%20Neve%20Gordon%20ENG%20094.pdf), Institute for Palestine Studies. *Note: paper has been subject of takedowns elsewhere; evidence removal from institutional profiles; metadata suggests previous targetting.*  
 - [ITV News covers detention of Palestinian doctors from Gaza](https://vm.tiktok.com/ZNRAhqqyE/), via TikTok.
-- [📹: Dash Dobrofsky // TikTok: “US Ambassador to Israel lashes out at UK Government over Foreign Secretary's Gaza video”](https://vm.tiktok.com/ZN8Yo96U3/) – *Mike Huckabee accusing wor Ed of things Mike Huckabee has zero lived experience of, in the name of denying Palestinian people medicines like basic painkillers and anaesthesia; sir, he is our Foreign Secretary, and only we can talk to him like that*  
+- [📹: Dash Dobrofsky // TikTok: “US Ambassador to Israel lashes out at UK Government over Foreign Secretary's Gaza video”](https://vm.tiktok.com/ZN8Yo96U3/) – *Mike Huckabee accusing wor Ed of things Mike Huckabee has zero lived experience of, in the name of denying Palestinian people medicines like basic painkillers and anaesthesia; sir, he is our Foreign Secretary, and only we can talk to him like that – [but it is water off a duck’s back](https://vm.tiktok.com/ZN8You5oC/), if you’re looking to intimidate him*  
 
 ---
 
