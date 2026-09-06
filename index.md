@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-06 03:33:13 UTC_
+_Generated on 2026-09-06 03:41:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3666,8 +3666,9 @@ _Generated on 2026-09-06 03:33:13 UTC_
     - [**🌱_Prosocial_Roots/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/)
       - [**🌸_Digitally_Women/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/)
         - [**♻️_Re_Recommendations/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/)
+          - [**data/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/data/)
+            - [`repeatable_prompt_llm_natural_language.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/data/repeatable_prompt_llm_natural_language.md)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/notes.txt)
           - [`♻️_as_per_my_last_review.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/♻️_as_per_my_last_review.md)
           - [`♻️_why_are_we_recommending_this_again.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/♻️_why_are_we_recommending_this_again.md)
           - [`⚖️_status_reputation_and_safeguarding.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/♻️_Re_Recommendations/⚖️_status_reputation_and_safeguarding.md)
