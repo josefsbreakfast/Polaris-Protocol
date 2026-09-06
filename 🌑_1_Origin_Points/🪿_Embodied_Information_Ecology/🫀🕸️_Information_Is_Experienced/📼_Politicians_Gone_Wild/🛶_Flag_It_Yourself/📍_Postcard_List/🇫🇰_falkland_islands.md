@@ -4,7 +4,9 @@
 
 ---  
 
-The actual place remains a South Atlantic community with self-government, sovereignty dispute, 1982 memory, fisheries, sheep, weather, military logistics, albatrosses, seals, and an unreasonable quantity of penguins, including rockhoppers, who are clearly bringing main-character cliff energy.
+The actual place remains a South Atlantic community with self-government, sovereignty dispute, 1982 memory, fisheries, sheep, weather, military logistics, albatrosses, seals, and an unreasonable quantity of penguins, including rockhoppers, who are clearly bringing main-character cliff energy.  
+
+Mainland folks: we absolutely *will* be disowning you, if you embarrass yourselves. Please behave.  
 
 ---
 
@@ -659,16 +661,20 @@ Do not ruin it by asking a rockhopper penguin to validate your foreign policy.
 
 🗺️ 🏝️ 🐧 🥃 💸 — postcard satire; local consent; South Atlantic logistics; sovereignty complexity; alliance-cost reality check  
 
----
+*Follow the evidence:*  
 
-## 🔖 Sources  
-
-- [Reuters: “Trump says he is reviewing US position on Falkland Islands”](https://www.reuters.com/world/americas/trump-says-reviewing-us-position-falkland-islands-2026-08-31/)  
-- [Falkland Islands Government: “FIG Notes Final Investment Decisions for Sea Lion Development Programme”](https://www.gov.fk/press/fig-notes-final-investment-decisions-for-sea-lion-development-programme/)  
-- [Argentina.gob.ar: “Comunicado Oficial Número 157”](https://www.argentina.gob.ar/noticias/comunicado-oficial-numero-157)  
-- [Argentina.gob.ar: “Comunicado Oficial Número 158”](https://www.argentina.gob.ar/noticias/comunicado-oficial-numero-158)  
-- [UK Government: “Integrated Global Defence Network”](https://www.gov.uk/government/publications/permanent-joint-operating-bases-pjobs/fd)  
-- [UK Government: “National Security Strategy 2025”](https://www.gov.uk/government/publications/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world-html)  
+- [🐧: Birds of the World: Western Rockhopper Penguin](https://birdsoftheworld.org/bow/species/rocpen2/cur/introduction)  
+- [🐧: ASOC: Southern Rockhopper Penguin](https://www.asoc.org/learn/rockhopper-penguins/)
+- [🌊: Falklands Conservation (NGO)](https://falklandsconservation.com/)
+- [🐺: NatGeo: "New clues may explain the mysterious origins of the Falklands wolf"](https://www.nationalgeographic.com/animals/article/falkland-islands-wolf-fox-origin-people)  
+- [📰 The Express: "Russia finds massive oil and gas reserves in British territory, sparking drilling fears"](https://www.express.co.uk/news/world/1898366/russia-oil-gas-reserves-british-antarctic-territory)
+- [📰 The Telegraph: "Russia finds vast oil and gas reserves in British Antarctic territory "](https://www.telegraph.co.uk/business/2024/05/11/russia-uncovers-oil-and-gas-reserves-british-antarctic/)  
+- [📰 Reuters: “Trump says he is reviewing US position on Falkland Islands”](https://www.reuters.com/world/americas/trump-says-reviewing-us-position-falkland-islands-2026-08-31/)  
+- [📑 Falkland Islands Government: “FIG Notes Final Investment Decisions for Sea Lion Development Programme”](https://www.gov.fk/press/fig-notes-final-investment-decisions-for-sea-lion-development-programme/)  
+- [📑 Argentina.gob.ar: “Comunicado Oficial Número 157”](https://www.argentina.gob.ar/noticias/comunicado-oficial-numero-157)  
+- [📑 Argentina.gob.ar: “Comunicado Oficial Número 158”](https://www.argentina.gob.ar/noticias/comunicado-oficial-numero-158)  
+- [📑 UK Government: “Integrated Global Defence Network”](https://www.gov.uk/government/publications/permanent-joint-operating-bases-pjobs/fd)  
+- [📑 UK Government: “National Security Strategy 2025”](https://www.gov.uk/government/publications/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world-html)  
 
 ---
 
