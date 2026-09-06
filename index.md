@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-06 13:58:17 UTC_
+_Generated on 2026-09-06 14:01:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3156,15 +3156,6 @@ _Generated on 2026-09-06 13:58:17 UTC_
       - [`🧩_the_whiteness_of_suspicion.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/Git_Intake_Drawer/🧩_the_whiteness_of_suspicion.md)
       - [`🧪_voice_convergence_forensics_hinge.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/Git_Intake_Drawer/🧪_voice_convergence_forensics_hinge.md)
     - [**🍿_Historical_Democratic_Actions/**](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/)
-      - [**👾_Debugging_The_Men/**](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
-        - [**🧬_Further_Potential_Male_Nonsense/**](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/)
-          - [`🕹️_getting_the_tech_bros_back_on_script.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🕹️_getting_the_tech_bros_back_on_script.md)
-          - [`🗺️_power_mapping_frankenstack_ecosystem.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🗺️_power_mapping_frankenstack_ecosystem.md)
-          - [`🛠️_neutralising_frankenstacks_next_steps.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🛠️_neutralising_frankenstacks_next_steps.md)
-          - [`🧟‍♀️_frankenstack_anti_me_too_engine.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_anti_me_too_engine.md)
-          - [`🧟‍♀️_frankenstack_explainer_for_survivors.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_for_survivors.md)
-          - [`🧟‍♀️_frankenstack_explainer_neurodivergent.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_neurodivergent.md)
-          - [`🧬_data_twinning_exploitation_in_frankenstacks.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧬_data_twinning_exploitation_in_frankenstacks.md)
       - [**💔_Against_The_Wall/**](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/)
         - [`README.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/README.md)
         - [`🍉_whats_to_fear_with_a_keffiyah.md`](🌓_3_In_The_Moment/.🌱_Still_Growing/🍿_Historical_Democratic_Actions/💔_Against_The_Wall/🍉_whats_to_fear_with_a_keffiyah.md)
@@ -4055,6 +4046,13 @@ _Generated on 2026-09-06 13:58:17 UTC_
             - [`🎲_the_campaign_is_collapsing_we_need_to_rewrite_the_lore.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🎲_the_campaign_is_collapsing_we_need_to_rewrite_the_lore.md)
             - [`🏛️_neutralising_frankenstacks_civil_service_guidance.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🏛️_neutralising_frankenstacks_civil_service_guidance.md)
             - [`🔥_wife_material.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🔥_wife_material.md)
+            - [`🕹️_getting_the_tech_bros_back_on_script.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🕹️_getting_the_tech_bros_back_on_script.md)
+            - [`🗺️_power_mapping_frankenstack_ecosystem.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🗺️_power_mapping_frankenstack_ecosystem.md)
+            - [`🛠️_neutralising_frankenstacks_next_steps.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🛠️_neutralising_frankenstacks_next_steps.md)
+            - [`🧟‍♀️_frankenstack_anti_me_too_engine.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_anti_me_too_engine.md)
+            - [`🧟‍♀️_frankenstack_explainer_for_survivors.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_for_survivors.md)
+            - [`🧟‍♀️_frankenstack_explainer_neurodivergent.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_neurodivergent.md)
+            - [`🧬_data_twinning_exploitation_in_frankenstacks.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧬_data_twinning_exploitation_in_frankenstacks.md)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/README.md)
           - [`⚖️_institutions_2022_2025.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_institutions_2022_2025.md)
           - [`⚖️_reputation_after_revelation.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_reputation_after_revelation.md)
