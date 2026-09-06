@@ -1,6 +1,6 @@
 # 📣 Men With Microphones
 
-**First created:** 2026-09-06 \| **Last updated:** 2026-09-06\
+**First created:** 2026-09-06 \| **Last updated:** 2026-09-06  
 *Speech, reach, recommendation and the point at which one man with a
 microphone becomes a systems question.*
 
@@ -10,7 +10,7 @@ microphone becomes a systems question.*
 
 The working joke for this node is beautifully simple:
 
-> **Stop giving men microphones.**
+> **[Stop giving men microphones.](https://youtu.be/713dLh2kNsc?is=DQ_PpHA7_jv4a1_R)**
 
 The policy proposal requires some refinement.
 
