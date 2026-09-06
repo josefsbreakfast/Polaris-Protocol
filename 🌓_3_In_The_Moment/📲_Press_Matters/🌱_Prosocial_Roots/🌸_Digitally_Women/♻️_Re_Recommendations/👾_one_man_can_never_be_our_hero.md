@@ -91,13 +91,13 @@ The lesson from CSE should have travelled considerably further than CSE: **do no
 
 ---
 
-## 🕯️ Jewish Women Are Not Israel
+## 🕯️🕯️ Jewish Women Are Not A State  
 
 There is another layer to this history for Jewish women after 7 October 2023.
 
 The sexual violence committed against Israelis was real and deserves investigation, recognition and justice. Nothing about concern for Palestinian women requires minimising violence against Israeli women.
 
-But Jewish women are not interchangeable with Israel, and Israeli women’s violated bodies are not political property.
+But Jewish women are not interchangeable with the State of Israel, and Israeli women’s violated bodies are not political property.
 
 Where sexual violence against Israeli women becomes part of the moral language used to justify or sustain war, Jewish survivors elsewhere can find themselves involuntarily folded into that narrative. A government can simultaneously tell Jewish women that sexual violence against women like them is of enormous moral significance while supporting actions whose foreseeable consequences place another population of women and girls at extraordinary risk.
 
@@ -107,7 +107,9 @@ The rhetorical question for later corpus work is therefore precise:
 
 > **How often, and in what contexts, did British political language after 7 October personify or feminise Israel while Palestinian women remained linguistically submerged within the category of civilians?**
 
-That should be answered by collecting the speeches and statements rather than assumed in advance.
+That should be answered by collecting the speeches and statements rather than assumed in advance. 
+
+> “I am not your Jewish womanhood to save, to protect, or to use 1000 lb payloads to ‘defend’.”  
 
 ---
 
