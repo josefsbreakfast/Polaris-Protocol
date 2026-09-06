@@ -85,7 +85,7 @@ The signal appears:
 
 ## 🪖 Falklands Sensitivity  
 
-As outlined in Node 1, the Falklands are shaped by:
+The Falklands are shaped by:
 
 - the legacy of the Falklands War  
 - deterrence logic  
@@ -177,6 +177,152 @@ It does establish that the wider British territorial architecture has recognised
 So the missing question is:
 
 > Before applying pressure to one of the political arrangements sustaining an allied capability, has Washington priced what that arrangement is already doing?
+
+### NATO is not the mechanism
+
+This is an **alliance-externality argument**, not an Article 5 argument.
+
+The Falkland Islands fall outside NATO's treaty geography for Article 5. British capabilities maintained there can still have allied value without the islands themselves being covered by the collective-defence guarantee.
+
+---
+
+## 🧊 BAT, Antarctica, And The Wider South Atlantic System
+
+The Falklands should not be treated as an isolated pair of islands floating somewhere inconveniently far south.
+
+They sit within a wider British South Atlantic and Antarctic geography that includes:
+
+- the Falkland Islands;
+- South Georgia and the South Sandwich Islands;
+- Ascension Island further north;
+- the British Antarctic Territory;
+- associated maritime spaces, air and sea routes, scientific programmes, logistics and military responsibilities.
+
+These places have **different constitutional, administrative and legal arrangements**.
+
+They are not one territory.
+
+Nor should the argument become:
+
+> "The Falklands defend BAT."
+
+That is too crude.
+
+The more useful point is infrastructural.
+
+Britain already possesses an unusually deep institutional relationship with the South Atlantic and Antarctic approaches. Its sovereignty and responsibilities in different parts of that geography give it reasons to maintain knowledge, logistics, personnel, infrastructure and presence which can serve more than one function.
+
+The **UK National Security Strategy 2025** makes that relationship unusually explicit. It says the Overseas Territories provide the UK **and its allies** with strategically located bases supporting security capabilities, and links continued British military presence in Ascension, the Falklands and South Georgia and the South Sandwich Islands with support for the UK's scientific presence in the British Antarctic Territory and the Antarctic Treaty system.
+
+That does not make all of this one operational system.
+
+It does mean changes to one part of the network should not automatically be analysed as though everything around it were disconnected.
+
+### Antarctic Treaty guardrails
+
+Antarctica operates under the **Antarctic Treaty System**, which creates a very different legal and strategic environment from the Falklands.
+
+The Antarctic Treaty reserves Antarctica for peaceful purposes. Measures of a military nature, including military bases, fortifications, manoeuvres and weapons testing, are prohibited.
+
+That does **not** amount to a total prohibition on military personnel or equipment being present. The Treaty expressly permits their use for scientific research or other peaceful purposes.
+
+The **Protocol on Environmental Protection to the Antarctic Treaty** goes further on resources. Article 7 prohibits activities relating to Antarctic mineral resources except for scientific research.
+
+There is also a persistent 2048 myth worth killing carefully.
+
+The Environmental Protocol does **not** simply expire in 2048.
+
+Neither the Treaty nor the Protocol has a termination date. From 2048, a review conference can be requested under the Protocol's specified procedures. That is very different from Antarctica automatically opening for mining when a calendar flips over.
+
+So:
+
+> Antarctic resources may matter to long-term strategic imagination without presently being available for ordinary commercial exploitation.
+
+Scientific and geological knowledge can therefore be strategically interesting without turning every survey into a mining operation.
+
+### Russia: real activity, narrower conclusion
+
+Russia has a longstanding Antarctic scientific presence and has conducted geological and geophysical surveying.
+
+That activity has attracted British political scrutiny.
+
+In **May 2024**, the UK government told Parliament that Russia describes the work as scientific research and that the government had **no evidence of drilling or extraction**. It said the UK would continue monitoring Russian activity and remained committed to the prohibition on Antarctic mineral-resource activity.
+
+Parliamentary scrutiny subsequently became more pointed.
+
+The **Environmental Audit Committee** examined reports concerning Russian seismic surveying and possible hydrocarbon resources, raising questions about whether the nature and purpose of such activity were compatible with the spirit and requirements of the Antarctic Treaty system.
+
+That concern is legitimate.
+
+It is not the same as evidence that Russia is currently extracting Antarctic hydrocarbons.
+
+There is a second Russian thread as well: **governance friction**.
+
+The UK has criticised Russian obstruction within the **Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR)**, including obstruction affecting conservation measures and marine protected areas.
+
+That matters because strategic competition in Antarctica need not begin with tanks or drilling rigs.
+
+It can also appear as:
+
+- scientific and geological information gathering;
+- fishing interests;
+- institutional obstruction;
+- disagreement over conservation governance;
+- resistance to consensus;
+- and attempts to preserve future optionality.
+
+But the evidential lanes still matter.
+
+Current material supports:
+
+- Russian scientific, geological and geophysical activity in Antarctica;
+- British governmental monitoring;
+- British parliamentary concern about the purpose and implications of some surveying;
+- Russian friction with the UK and others inside Antarctic governance institutions.
+
+It does **not** presently establish:
+
+- Russian commercial resource extraction in Antarctica;
+- an imminent Russian Antarctic resource grab;
+- military seizure of Antarctic territory;
+- or that British forces in the Falklands are deployed specifically to prevent Russian expansion.
+
+The useful research question is therefore:
+
+> What Russian scientific, geological, maritime and resource-related activity is occurring around Antarctica, how is Britain interpreting it, and what does that mean for the value of maintaining South Atlantic knowledge and infrastructure?
+
+That question is interesting enough without dressing it as a conclusion.
+
+### Why this belongs in the antivirus problem
+
+BAT sharpens the underlying systems point.
+
+British activity in the South Atlantic is generated by several overlapping but legally distinct reasons:
+
+- responsibility for British Overseas Territories;
+- defence and deterrence;
+- maritime activity;
+- logistics;
+- environmental governance;
+- Antarctic science;
+- treaty participation;
+- long-term regional knowledge.
+
+That makes the infrastructure unusually easy to undervalue from outside.
+
+A runway maintained for one sovereign requirement may support another activity.
+
+A ship familiar with one set of waters may contribute to wider regional awareness.
+
+A logistics chain built because Britain has its own obligations may also make allied or scientific activity easier.
+
+None of this means every British asset is dual-purpose, or that Washington would inherit every task if British posture changed.
+
+It means the system should be **mapped before anyone assumes a component is strategically disposable**.
+
+That is the antivirus problem in its fuller form:
+
+> The quiet value of established infrastructure is often distributed across several functions. You may not discover all of them until you remove the political reason somebody had for maintaining it.
 
 ---
 
@@ -329,12 +475,18 @@ If it becomes a hostage situation, I'm sure that the lawyers can probably find a
 - [UK Government: “National Security Strategy 2025”](https://www.gov.uk/government/publications/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world-html)  
 - [UK Government: “Integrated Global Defence Network”](https://www.gov.uk/government/publications/permanent-joint-operating-bases-pjobs/fd)  
 - [UK Government: “KHM East Cove Port”](https://www.gov.uk/government/groups/qhm-east-cove-port)  
+- [NATO: “The North Atlantic Treaty”](https://www.nato.int/cps/en/natohq/official_texts_17120.htm)  
+- [Antarctic Treaty Secretariat: “The Antarctic Treaty”](https://www.ats.aq/e/antarctictreaty.html)  
+- [Antarctic Treaty Secretariat: “Environmental Protocol”](https://www.ats.aq/e/protocol.html)  
+- [UK Parliament: “Antarctica: Russia — HL4614”](https://questions-statements.parliament.uk/written-questions/detail/2024-05-13/HL4614/)  
+- [House of Commons Environmental Audit Committee: “The UK and the Antarctic Environment”](https://publications.parliament.uk/pa/cm5901/cmselect/cmenvaud/499/report.html)  
+- [UK Parliament: “Antarctic: Marine Protected Areas — 46092”](https://questions-statements.parliament.uk/written-questions/detail/2025-04-17/46092/)  
 - [Reuters: “Milei finds unity in pushback against Falkland Islands oil project”](https://www.reuters.com/business/energy/milei-finds-unity-pushback-against-falkland-islands-oil-project-2026-09-05/)  
 
 ---
 
 ## ✨ Stardust  
-uk us relations, diplomatic signalling, alliance strain, falklands, burden sharing, defence externalities, south atlantic, strategic ambiguity, miscalibration  
+uk us relations, diplomatic signalling, alliance strain, falklands, burden sharing, defence externalities, south atlantic, british antarctic territory, antarctic treaty system, russia antarctica, strategic ambiguity, miscalibration  
 
 ---
 
@@ -345,8 +497,7 @@ It examines how signalling between close allies can produce unintended friction 
 
 > 📡 Cross-references:
 > 
-> - [🇬🇧 Why the UK Is in the Falklands](./🇬🇧_why_the_uk_is_in_the_falklands.md) — *foundational context for sovereignty, South Atlantic posture, BAT and Sea Lion*
-> - [🇫🇰 Falkland Islands](../../🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/🇫🇰_falkland_islands.md) — *pick up your postcard - UK politicians only*
+> > - [🇫🇰 Falkland Islands](../../🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/🇫🇰_falkland_islands.md) — *pick up your postcard - UK politicians only*
 >
 > 🏮 Return To:
 >
