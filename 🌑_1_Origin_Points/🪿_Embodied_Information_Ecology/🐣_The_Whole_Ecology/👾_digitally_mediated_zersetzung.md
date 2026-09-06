@@ -1,5 +1,5 @@
 # 👾 Digitally Mediated Zersetzung
-**First created:** 2026-08-19 | **Last updated:** 2026-08-19  
+**First created:** 2026-08-19 | **Last updated:** 2026-09-06  
 *A proposed analytic term for Zersetzung-like processes whose cumulative effects are produced, propagated, amplified, or coordinated through contemporary digital systems.*
 
 ---
@@ -617,7 +617,9 @@ The concept earns its usefulness only if those distinctions remain intact.
 ---
 
 ## 🌌 Constellations
-👾 🕸️ ♻️ 🫥 🧿 — digital repression; feedback environments; social disintegration; embodied information; evidential discipline.
+👾 🕸️ ♻️ 🫥 🧿 — digital repression; feedback environments; social disintegration; embodied information; evidential discipline.  
+
+---
 
 ## ✨ Stardust
 digital authoritarianism, digital repression, zersetzung, transnational repression, authoritarian surveillance, social death, cumulative harm, feedback systems, institutional coupling, social isolation
@@ -626,21 +628,21 @@ digital authoritarianism, digital repression, zersetzung, transnational repressi
 
 ## 🏮 Footer
 
-*Digitally Mediated Zersetzung* is a living node of the **Polaris Protocol**. It develops a proposed analytic category for examining cumulative Zersetzung-like effects in digitally mediated environments while maintaining strict distinctions between observable consequence, mechanism, attribution, coordination and intent. It is intended as a research scaffold: a place to test whether contemporary repression scholarship adequately captures the system-level disintegration of social agency across information, institutions, relationships and bodies.
+*👾 Digitally Mediated Zersetzung* is a living node of the **Polaris Protocol**. It develops a proposed analytic category for examining cumulative Zersetzung-like effects in digitally mediated environments while maintaining strict distinctions between observable consequence, mechanism, attribution, coordination and intent. It is intended as a research scaffold: a place to test whether contemporary repression scholarship adequately captures the system-level disintegration of social agency across information, institutions, relationships and bodies.
 
 > 📡 Cross-references:
->
-> - [🪿 Embodied Information Ecology](../README.md) — *information as lived, social and bodily environment*
+>  
 > - [♻️🕸️ The Feedback Environment](../♻️🕸️_The_Feedback_Environment/README.md) — *feedback, coupling and intervention across sociotechnical systems*
 > - [🫀🕸️ Information Is Experienced](../🫀🕸️_Information_Is_Experienced/README.md) — *how informational conditions become embodied consequences*
-> - [❤️‍🩹 Rehabilitated Tech](../../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/README.md) — *designing technological systems with meaningful routes of repair and human agency*
+> - [❤️‍🩹 Rehabilitated Tech](../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/README.md) — *designing technological systems with meaningful routes of repair and human agency*
 >
 > 🏮 Return To:
 >
-> - [🪿 Embodied Information Ecology](../README.md) — *1up*
-> - [🌑 Origin Points](../../../README.md) — *2up*
-> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+> - [🐣 The Whole Ecology](./README.md) — *1up*
+> - [🪿 Embodied Information Ecology](../README.md) — *2up*  
+> - [🌑 Origin Points](../../README.md) — *3up*  
+> - [🌌 Polaris Protocol — Root](../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-19_
+_Last updated: 2026-09-06_
