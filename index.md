@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-06 01:57:45 UTC_
+_Generated on 2026-09-06 02:05:05 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3716,7 +3716,6 @@ _Generated on 2026-09-06 01:57:45 UTC_
           - [`🩸_survivor_support_and_reporting.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/🩸_survivor_support_and_reporting.md)
         - [**🧾_Petition_GC/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/README.md)
-          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/notes.txt)
           - [`⚖️_what_the_law_actually_does.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/⚖️_what_the_law_actually_does.md)
           - [`🏛️_westminster_hall_7_september_2026.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/🏛️_westminster_hall_7_september_2026.md)
           - [`💄_the_camden_crew_and_vawg.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/💄_the_camden_crew_and_vawg.md)
