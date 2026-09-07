@@ -991,6 +991,15 @@ It supplies the historical bridge between women’s networked participation and 
 > - [📚 Definitions & Registers](./📚_definitions_and_registers.md) — *searchable vocabulary for internet culture, harassment, misogyny and network behaviour*
 > - [🐺 Dickwolves Survivors Guild](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🐺_dickwolves_survivors_guild.md) — *the survivor-led pre-GamerGate historical casefile*
 > - [🌱 Thanks, Algorithm](../🌱_Thanks_Algorithm/) — *the contemporary hand-off: manosphere ecosystems, recommendation, radicalisation and online-to-offline pathways*
+>  
+> 🏮 Return To:
+>
+> - [📖 Previously On The Internet](./README.md) — *1up*
+> - [🌸 Digitally Women](../README.md) — *2up*
+> - [🌱 Prosocial Roots](../../README.md) — *3up*
+> - [📲 Press Matters](../../../README.md) — *4up*
+> - [🌓 In The Moment](../../../../README.md) — *5up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
