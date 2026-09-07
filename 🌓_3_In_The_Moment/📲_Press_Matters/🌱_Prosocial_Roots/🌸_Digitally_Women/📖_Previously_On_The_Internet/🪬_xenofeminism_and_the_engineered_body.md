@@ -1,5 +1,5 @@
 # 🪬 Xenofeminism and the Engineered Body
-**First created:** 2026-09-05 | **Last updated:** 2026-09-05  
+**First created:** 2026-09-05 | **Last updated:** 2026-09-07  
 *If nature is not destiny, who gets to alter bodies, how, and under whose authority?*
 
 ---
@@ -1161,4 +1161,4 @@ It examines bodily transformation as a problem of autonomy, expertise, infrastru
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-05_
+_Last updated: 2026-09-07_
