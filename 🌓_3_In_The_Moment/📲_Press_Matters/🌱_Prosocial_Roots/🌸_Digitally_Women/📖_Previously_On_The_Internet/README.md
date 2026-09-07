@@ -468,14 +468,14 @@ This cluster sits inside a much larger information ecology.
 
 Useful routes include:
 
-- `🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🙀_Chronically_Online/💾_girl_internet_explained_with_techbros.md` — an earlier Girl Internet explainer;
-- `🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🧵_community_vulnerability_and_early_canaries.md` — how vulnerable communities can function as early-warning environments;
-- `🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🐺_dickwolves_survivors_guild.md` — a pre-GamerGate historical case;
-- `../🌱_Thanks_Algorithm/` — contemporary algorithmic amplification, manosphere dynamics and online-to-offline pathways;
-- `🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/` — constructive technological experiments and long strategies;
-- `🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/💎_therapeutic_sandbox.md` — bounded AI architecture organised around rehearsal and autonomy;
-- `🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/😻_gateways_through_womens_health.md` — women's health as a gateway domain for computational systems biology;
-- `🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🧬_neural_network_remodelling_gynaecology.md` — AI-assisted comprehension of dynamic biological systems.
+- [💾 Girl Internet Explained With Techbros](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🙀_Chronically_Online/💾_girl_internet_explained_with_techbros.md) — an earlier Girl Internet explainer;
+- [🧵 Community Vulnerability And Early Canaries](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🧵_community_vulnerability_and_early_canaries.md) — how vulnerable communities can function as early-warning environments;
+- [🐺 Dickwolves Survivors Guild](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🐺_dickwolves_survivors_guild.md) — a pre-GamerGate historical case;
+- [🌱 Thanks, Algorithm!](../🌱_Thanks_Algorithm/README.md) — contemporary algorithmic amplification, manosphere dynamics and online-to-offline pathways;
+- [❤️‍🩹 Rehabilitated Tech](../../../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/README.md) — constructive technological experiments and long strategies;
+- [💎 Therapeutic Sandbox](../../../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/💎_therapeutic_sandbox.md) — bounded AI architecture organised around rehearsal and autonomy;
+- [😻 Gateways Through Women's Health](../../../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/😻_gateways_through_womens_health.md) — women's health as a gateway domain for computational systems biology;
+- [🧬 Neural Network Remodelling: Gynaecology](../../../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🧬_neural_network_remodelling_gynaecology.md) — AI-assisted comprehension of dynamic biological systems.
 
 ---
 
@@ -556,6 +556,8 @@ And once the current configuration stops looking inevitable, another question be
 
 ## 🌌 Constellations
 📖 📚 💾 🌸 🪞 🐇 🕹️ 🪬 🌞 🧭 — internet history; women online; feminist cultures; networked backlash; gendered pipelines; cyberfeminism; embodiment; constructive technology.
+
+---
 
 ## ✨ Stardust
 women online, internet history, girl internet, online feminisms, gamergate, dickwolves, manosphere, algorithms, cyberfeminism, xenofeminism, feminist technology, design justice, disability justice, solarpunk, rehabilitated technology
