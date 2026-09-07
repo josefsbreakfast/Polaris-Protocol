@@ -1002,6 +1002,15 @@ It serves as the capstone and route map for `📖_Previously_On_The_Internet/`, 
 > - `🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🐺_dickwolves_survivors_guild.md` — *a pre-GamerGate historical case*
 > - `🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🧵_community_vulnerability_and_early_canaries.md` — *community vulnerability, observation and early-warning dynamics*
 > - `🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/` — *constructive technological experiments and long strategies*
+>  
+> 🏮 Return To:
+>
+> - [📖 Previously On The Internet](./README.md) — *1up*
+> - [🌸 Digitally Women](../README.md) — *2up*
+> - [🌱 Prosocial Roots](../../README.md) — *3up*
+> - [📲 Press Matters](../../../README.md) — *4up*
+> - [🌓 In The Moment](../../../../README.md) — *5up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
