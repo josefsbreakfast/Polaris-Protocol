@@ -5,8 +5,9 @@
 > **Status:** Research infrastructure / media evidence register  
 > **Cluster:** `🪖_Training_Debrief`  
 > **Purpose:** Track contemporary reporting and commentary on the 2026 Army training reductions, Defence affordability, readiness, ministerial responsibility and the surrounding political narrative.
+
 ---
-### 🧭 What This File Is
+## 🧭 What This File Is
 This file records current reporting after the underlying policy and parliamentary chronology has been established.
 It is designed to ask:
 - What did journalists report?
@@ -196,6 +197,7 @@ Track:
 A story disappearing is not proof the underlying problem disappeared.
 ---
 ## 🧾 Standard Media Entry
+
 ```yaml
 media_item:
   date:
@@ -267,10 +269,10 @@ media_item:
 
 ---
 
-🧠 Framing Taxonomy
+## 🧠 Framing Taxonomy
 
 Use consistent tags so we can compare outlets later.
-
+```yaml
 framing_tags:
   - "budget_cut"
   - "readiness_risk"
@@ -288,6 +290,7 @@ framing_tags:
   - "competence"
   - "fiscal_credibility"
   - "culture_war"
+```
 
 This lets us ask later:
 
@@ -297,10 +300,10 @@ That would be genuinely interesting.
 
 ---
 
-🪖 Forces Voice Register
+## 🪖 Forces Voice Register
 
 Maintain a specific register for quoted military voices.
-
+```yaml
 military_voice:
   date:
   publication:
@@ -318,22 +321,23 @@ military_voice:
   proposed_solution:
   evidence_basis:
   notes:
+```
 
 Do not assume:
 
-* senior rank = greater truth;
-* anonymous source = unreliable;
-* named source = independent;
-* retired officer = current institutional view.
+- senior rank = greater truth;
+- anonymous source = unreliable;
+- named source = independent;
+- retired officer = current institutional view.
 
 Record the voice rather than flattening it.
 
 ---
 
-🧮 Claim Ledger
+## 🧮 Claim Ledger
 
 For claims repeated across reporting, maintain a ledger.
-
+```yaml
 claim:
   proposition:
   first_seen:
@@ -344,25 +348,26 @@ claim:
   disputed_by: []
   current_status:
   confidence:
+```
 
 Priority examples:
 
-* “Army required to save approximately £30m.”
-* “Most non-essential collective training suspended.”
-* “Activities above approximately 90 personnel affected.”
-* “Operational/deployment training protected.”
-* “Navy/RAF reductions smaller or different.”
-* “Measure temporary.”
-* “Synthetic training intended to substitute.”
-* “Readiness risk accepted.”
-* “Army Command opposed decision.”
+- “Army required to save approximately £30m.”
+- “Most non-essential collective training suspended.”
+- “Activities above approximately 90 personnel affected.”
+- “Operational/deployment training protected.”
+- “Navy/RAF reductions smaller or different.”
+- “Measure temporary.”
+- “Synthetic training intended to substitute.”
+- “Readiness risk accepted.”
+- “Army Command opposed decision.”
 
 This will stop ten articles from becoming ten sources for one leaked claim.
 
 ---
 
-🏛️ Government Response Tracker
-
+## 🏛️ Government Response Tracker
+```yaml
 government_response:
   date:
   speaker_or_department:
@@ -374,6 +379,7 @@ government_response:
   changed_from_previous_position:
   unanswered_points:
   source:
+```
 
 Track shifts like:
 
@@ -401,19 +407,19 @@ Language change can itself be useful evidence.
 
 ---
 
-💷 Money Framing
+## 💷 Money Framing
 
 Track how the £30m is contextualised.
 
 Questions:
 
-* Is £30m presented as large?
-* Small?
-* Compared with total Defence spending?
-* Compared with Dreadnought?
-* Compared with training reform?
-* Compared with AI/synthetic training?
-* Compared with estate or personnel spending?
+- Is £30m presented as large?
+- Small?
+- Compared with total Defence spending?
+- Compared with Dreadnought?
+- Compared with training reform?
+- Compared with AI/synthetic training?
+- Compared with estate or personnel spending?
 
 Do not automatically endorse media comparisons.
 
@@ -421,24 +427,25 @@ Record them.
 
 ---
 
-📰 Headline / Body Divergence
+## 📰 Headline / Body Divergence
 
 Where useful, record whether the headline overstates or simplifies the actual reporting.
-
+```yaml
 headline_check:
   headline_claim:
   body_claim:
   divergence:
   significance:
+```
 
 Particularly relevant for inflammatory Defence coverage.
 
 ---
 
-🔄 News-Cycle Evolution
+## 🔄 News-Cycle Evolution
 
 Maintain a compact map.
-
+```yaml
 story_phase:
   phase:
     date_range:
@@ -449,6 +456,7 @@ story_phase:
     political_position:
     forces_position:
     unresolved:
+```
 
 Suggested phases:
 
@@ -461,10 +469,10 @@ Suggested phases:
 
 ---
 
-🧩 Prior Commitments Crosswalk
+## 🧩 Prior Commitments Crosswalk
 
 For every important report, ask what prior public commitments it does or does not mention.
-
+```yaml
 context_crosswalk:
   media_item:
   prior_commitments:
@@ -472,23 +480,24 @@ context_crosswalk:
       commitment:
       mentioned_in_reporting:
       relevance:
+```
 
 Priority:
 
-* SDR 2025 warfighting readiness;
-* collective-training commitments;
-* live/synthetic training balance;
-* DIP implementation;
-* prior parliamentary assurances.
+- SDR 2025 warfighting readiness;
+- collective-training commitments;
+- live/synthetic training balance;
+- DIP implementation;
+- prior parliamentary assurances.
 
 This is where the media analysis becomes genuinely useful rather than merely descriptive.
 
 ---
 
-🎭 Political Framing Register
+## 🎭 Political Framing Register
 
 Track political actors separately from factual reporting.
-
+```yaml
 political_frame:
   actor:
   party:
@@ -500,6 +509,7 @@ political_frame:
   proposed_action:
   consistency_with_prior_position:
   notes:
+```
 
 This lets us distinguish:
 
@@ -511,12 +521,12 @@ politician uses Army concern to attack government.
 
 ---
 
-🧠 Omission Register
+## 🧠 Omission Register
 
 Sometimes what reporting leaves out is analytically useful.
 
 Track cautiously:
-
+```yaml
 omission:
   media_item:
   relevant_context_missing:
@@ -527,56 +537,57 @@ omission:
     - "lack_of_specialist_knowledge"
     - "timing"
     - "unknown"
+```
 
 Do not treat omission as evidence of deliberate suppression without further evidence.
 
 Priority omissions to watch:
 
-* prior parliamentary questions;
-* SDR commitments;
-* Iraq/Afghanistan training lessons;
-* service-specific differences;
-* distinction between collective and individual training;
-* RDEL/CDEL;
-* Interflex/training-estate pressure;
-* actual readiness assessment.
+- prior parliamentary questions;
+- SDR commitments;
+- Iraq/Afghanistan training lessons;
+- service-specific differences;
+- distinction between collective and individual training;
+- RDEL/CDEL;
+- Interflex/training-estate pressure;
+- actual readiness assessment.
 
 ---
 
-🔎 Searches To Run
+## 🔎 Searches To Run
 
-Current Case
+### Current Case
 
-* “British Army collective training cuts September 2026”
-* “Army £30m training savings”
-* “Army exercises suspended save money”
-* “British Army training readiness criticism”
-* “forces reaction Army training cuts”
-* “senior officers Army training cuts”
-* “Army collective training 90 personnel”
-* “RAF Navy Army training reductions”
+- “British Army collective training cuts September 2026”
+- “Army £30m training savings”
+- “Army exercises suspended save money”
+- “British Army training readiness criticism”
+- “forces reaction Army training cuts”
+- “senior officers Army training cuts”
+- “Army collective training 90 personnel”
+- “RAF Navy Army training reductions”
 
-Political / Media
+### Political / Media
 
-* “John Healey Army training cuts”
-* “Wes Streeting Army training”
-* “Andy Burnham Army training cuts”
-* “Treasury Defence training cuts”
-* “Kemi Badenoch Army training”
+- “John Healey Army training cuts”
+- “Wes Streeting Army training”
+- “Andy Burnham Army training cuts”
+- “Treasury Defence training cuts”
+- “Kemi Badenoch Army training”
 
-Outlet-Specific
+### Outlet-Specific
 
-* site:thetimes.com British Army training
-* site:telegraph.co.uk British Army training
-* site:forcesnews.com Army training
-* site:bbc.co.uk Army training Defence
-* site:reuters.com UK Army training
-* site:theguardian.com Army training MOD
+- site:thetimes.com British Army training
+- site:telegraph.co.uk British Army training
+- site:forcesnews.com Army training
+- site:bbc.co.uk Army training Defence
+- site:reuters.com UK Army training
+- site:theguardian.com Army training MOD
 
 ---
 
-🤖 Machine-Readable Research Specification
-
+## 🤖 Machine-Readable Research Specification
+```yaml
 current_reporting_research:
   project: "Polaris"
   cluster: "Training Debrief"
@@ -671,27 +682,28 @@ current_reporting_research:
     - "framing comparison"
     - "prior commitment crosswalk"
     - "unresolved media claims"
+```
 
 ---
 
-🧿 Questions To Carry Forward
+## 🧿 Questions To Carry Forward
 
 When populated, this file should let later nodes ask:
 
-* Did forces-facing reporting recognise a serious readiness issue before the wider press did?
-* Did mainstream reporting understand the distinction between collective and individual training?
-* Did political reporting accurately identify who made the decision?
-* Did the government rely on “modernisation” language as a substantive explanation or merely a communications frame?
-* Were prior parliamentary warnings remembered?
-* Was SDR 2025 meaningfully connected to the story?
-* Did the right-of-centre press pursue the Army story consistently?
-* How did favourable coverage of Healey interact with scrutiny of the Defence settlement he previously oversaw?
-* Did the story generate enough sustained scrutiny to establish the decision chain?
-* Which factual claims remain sourced only to anonymous briefings?
+- Did forces-facing reporting recognise a serious readiness issue before the wider press did?
+- Did mainstream reporting understand the distinction between collective and individual training?
+- Did political reporting accurately identify who made the decision?
+- Did the government rely on “modernisation” language as a substantive explanation or merely a communications frame?
+- Were prior parliamentary warnings remembered?
+- Was SDR 2025 meaningfully connected to the story?
+- Did the right-of-centre press pursue the Army story consistently?
+- How did favourable coverage of Healey interact with scrutiny of the Defence settlement he previously oversaw?
+- Did the story generate enough sustained scrutiny to establish the decision chain?
+- Which factual claims remain sourced only to anonymous briefings?
 
 ---
 
-🪖 Working Principle
+## 🪖 Working Principle
 
 The media does not merely tell us what happened.
 
