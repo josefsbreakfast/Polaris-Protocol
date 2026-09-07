@@ -1,6 +1,5 @@
 # 🐇 Rabbitholes For The Boys
-
-**First created:** 2026-09-05 | **Last updated:** 2026-09-05  
+**First created:** 2026-09-05 | **Last updated:** 2026-09-07  
 *How ordinary male interests, commercial attention systems and deliberately constructed influence funnels can lead men and boys into very different information environments.*
 
 ---
@@ -632,4 +631,4 @@ It maps how ordinary male interests can intersect with commercial funnels, platf
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-05_
+_Last updated: 2026-09-07_
