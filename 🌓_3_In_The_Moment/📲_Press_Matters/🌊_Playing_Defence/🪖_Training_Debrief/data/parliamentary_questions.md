@@ -1,4 +1,4 @@
-# ❄️ Parliamentary Questions
+# 🏛️ Parliamentary Questions
 **First created:** 2026-09-07 | **Last updated:** 2026-09-08  
 *Governance chronology for parliamentary scrutiny of training, readiness, affordability and ministerial awareness.*
 
@@ -720,7 +720,7 @@ It is to reconstruct the route by which an operational concern became — or fai
 
 ## 🌌 Constellations
 
-❄️ 🪖 💷 🧾 🔬 🔁 — parliamentary scrutiny; Defence readiness; affordability; ministerial awareness; public governance trail.
+🏛️ ❄️ 🪖 💷 🧾 🔬 🔁 — parliamentary scrutiny; Defence readiness; affordability; ministerial awareness; public governance trail.
 
 ---
 
@@ -732,7 +732,7 @@ parliamentary questions, british defence, army training, collective training, de
 
 ## 🏮 Footer
 
-*❄️ Parliamentary Questions* is a living research-infrastructure node of the **Polaris Protocol**.  
+*🏛️ Parliamentary Questions* is a living research-infrastructure node of the **Polaris Protocol**.  
 It reconstructs the public governance trail without converting parliamentary salience into unsupported claims about personal knowledge or decision authorship.
 
 > 📡 Cross-references:
