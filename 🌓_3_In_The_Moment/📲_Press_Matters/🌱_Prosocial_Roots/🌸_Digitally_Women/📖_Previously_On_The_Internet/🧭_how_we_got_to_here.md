@@ -1,5 +1,5 @@
 # 🧭 How We Got to Here
-**First created:** 2026-09-05 | **Last updated:** 2026-09-05  
+**First created:** 2026-09-05 | **Last updated:** 2026-09-07  
 *A route map through the technological, cultural and feminist histories underneath the contemporary internet.*
 
 ---
@@ -1005,4 +1005,4 @@ It serves as the capstone and route map for `📖_Previously_On_The_Internet/`, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-05_
+_Last updated: 2026-09-07_
