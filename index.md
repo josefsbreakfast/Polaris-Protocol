@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-07 23:17:51 UTC_
+_Generated on 2026-09-07 23:20:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3631,8 +3631,6 @@ _Generated on 2026-09-07 23:17:51 UTC_
           - [`source_bank.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/source_bank.md)
           - [`strategic_reviews.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/strategic_reviews.md)
           - [`timeline.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/timeline.md)
-        - [`GAP_ANALYSIS.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/GAP_ANALYSIS.md)
-        - [`QA_RESULTS.json`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/QA_RESULTS.json)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/README.md)
         - [`REPAIR_LOG.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/REPAIR_LOG.md)
         - [`Training_Debrief_silent_truncation_audit_2026-09-07.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/Training_Debrief_silent_truncation_audit_2026-09-07.md)
@@ -9941,6 +9939,8 @@ _Generated on 2026-09-07 23:17:51 UTC_
           - [**🪖_Training_Debrief/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/)
             - [`DATA_QA_RESULTS.json`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/DATA_QA_RESULTS.json)
             - [`DATA_REPAIR_LOG.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/DATA_REPAIR_LOG.md)
+            - [`GAP_ANALYSIS.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/GAP_ANALYSIS.md)
+            - [`QA_RESULTS.json`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/QA_RESULTS.json)
       - [**🛰️_Metadata_Sabotage_Network/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/)
         - [**🔎_Evidence_And_Anomalies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
