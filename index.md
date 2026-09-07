@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-07 23:16:53 UTC_
+_Generated on 2026-09-07 23:17:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3625,7 +3625,6 @@ _Generated on 2026-09-07 23:16:53 UTC_
         - [`🪖_morale_for_islanders.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🪖_morale_for_islanders.md)
       - [**🪖_Training_Debrief/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/)
         - [**data/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/)
-          - [`DATA_REPAIR_LOG.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/DATA_REPAIR_LOG.md)
           - [`current_reporting.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/current_reporting.md)
           - [`open_questions.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/open_questions.md)
           - [`parliamentary_questions.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/parliamentary_questions.md)
@@ -9941,6 +9940,7 @@ _Generated on 2026-09-07 23:16:53 UTC_
         - [**🌊_Playing_Defence/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/)
           - [**🪖_Training_Debrief/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/)
             - [`DATA_QA_RESULTS.json`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/DATA_QA_RESULTS.json)
+            - [`DATA_REPAIR_LOG.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/DATA_REPAIR_LOG.md)
       - [**🛰️_Metadata_Sabotage_Network/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/)
         - [**🔎_Evidence_And_Anomalies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
