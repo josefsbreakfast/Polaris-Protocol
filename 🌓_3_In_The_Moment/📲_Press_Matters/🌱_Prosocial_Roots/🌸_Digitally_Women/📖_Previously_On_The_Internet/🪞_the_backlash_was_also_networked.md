@@ -1,6 +1,5 @@
-# 🪞 The Backlash Was Also Networked
-
-**First created:** 2026-09-05 | **Last updated:** 2026-09-05  
+# 🪞 The Backlash Was Also Networked  
+**First created:** 2026-09-05 | **Last updated:** 2026-09-07  
 *If women could organise online, what happened when misogynists learned to organise there too?*
 
 ---
@@ -995,4 +994,4 @@ It supplies the historical bridge between women’s networked participation and 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-05_
+_Last updated: 2026-09-07_
