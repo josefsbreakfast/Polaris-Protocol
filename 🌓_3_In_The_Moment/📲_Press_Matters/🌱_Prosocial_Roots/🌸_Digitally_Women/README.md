@@ -678,7 +678,7 @@ The branch is designed to support both deep research and rapid public-interest s
 > - [🧾 Petition GC](./🧾_Petition_GC/README.md) — *live parliamentary, legal and policy context*
 > - [🛸 LOOK UP](./🛸_LOOK_UP/README.md) — *warning signs, early intervention and information movement*
 > - [♻️ Re: Recommendations](./♻️_Re_Recommendations/README.md) — *recurring safeguards, implementation and institutional learning*
-> - [📚 Definitions & Registers](./📚_Definitions_Registers/README.md) — *terminology and analytical distinctions*
+> - [📖 Previously On The Internet](./📖_Previously_On_The_Internet/README.md) — *terminology and analytical distinctions*
 > - [⚡ Lightning Round Press](./⚡_Lightning_Round_Press/README.md) — *deadline claims, language, questions and source routing*
 >
 > 🏮 Return To:
