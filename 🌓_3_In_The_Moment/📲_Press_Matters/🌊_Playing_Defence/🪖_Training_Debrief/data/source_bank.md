@@ -1,4 +1,7 @@
 # 🗃️ Source Bank
+**First created:** 2026-09-07 | **Last updated:** 2026-09-07  
+*Living evidential register for provenance, source classes, search methodology and outstanding research requirements.*
+
 
 > **Status:** Research infrastructure / living source register  
 > **Cluster:** `🪖_Training_Debrief`  
@@ -6,7 +9,7 @@
 
 ---
 
-## 🧭 What This File Is
+### 🧭 What This File Is
 
 This is not a claim to exhaustive coverage.
 
@@ -28,7 +31,7 @@ A contemporary newspaper report, a parliamentary answer, an MOD publication, an 
 
 ---
 
-## 🤖 Open Admission: Machine-Assisted Research
+### 🤖 Open Admission: Machine-Assisted Research
 
 Parts of the research supporting this cluster are being conducted using machine-assisted search, retrieval, classification and synthesis.
 
@@ -66,11 +69,11 @@ Where practicable, important claims should be checked against the strongest avai
 
 ---
 
-# 📚 Source Register
+## 📚 Source Register
 
-## 1. Core Books and Long-Form Works
+### 1. Core Books and Long-Form Works
 
-### Simon Akam — *The Changing of the Guard: The British Army Since 9/11*
+#### Simon Akam — *The Changing of the Guard: The British Army Since 9/11*
 
 **Status:** In use  
 **Source type:** Book / long-form investigative history  
@@ -96,7 +99,7 @@ Where practicable, important claims should be checked against the strongest avai
 
 ---
 
-## 2. Primary Government and MOD Sources
+### 2. Primary Government and MOD Sources
 
 To include:
 
@@ -117,7 +120,7 @@ To include:
 
 ---
 
-## 3. Parliament
+### 3. Parliament
 
 To include:
 
@@ -136,7 +139,7 @@ Priority current item:
 
 ---
 
-## 4. Audit and Independent Scrutiny
+### 4. Audit and Independent Scrutiny
 
 Priority bodies:
 
@@ -159,7 +162,7 @@ Priority subjects:
 
 ---
 
-## 5. Professional / Think-Tank Research
+### 5. Professional / Think-Tank Research
 
 Priority institutions:
 
@@ -188,7 +191,7 @@ Priority subjects:
 
 ---
 
-## 6. Military Medicine, Rehabilitation and Human Factors
+### 6. Military Medicine, Rehabilitation and Human Factors
 
 To include literature concerning:
 
@@ -210,7 +213,7 @@ To include literature concerning:
 
 ---
 
-## 7. Contemporary Forces / Defence Media
+### 7. Contemporary Forces / Defence Media
 
 Maintain separately because forces-facing reporting may surface concerns, terminology and professional reactions absent from general political coverage.
 
@@ -233,7 +236,7 @@ Record where possible:
 
 ---
 
-## 8. Mainstream Media
+### 8. Mainstream Media
 
 Known/relevant publications include:
 
@@ -255,7 +258,7 @@ Do not automatically treat repeated media claims as independent confirmation whe
 
 ---
 
-## 9. Iraq / Afghanistan Lessons Sources
+### 9. Iraq / Afghanistan Lessons Sources
 
 Locate where possible:
 
@@ -270,7 +273,7 @@ Locate where possible:
 
 ---
 
-## 10. Law, Governance and Transparency
+### 10. Law, Governance and Transparency
 
 Relevant sources include:
 
@@ -286,7 +289,7 @@ Relevant sources include:
 
 ---
 
-## 11. Cultural / Interpretive Sources
+### 11. Cultural / Interpretive Sources
 
 These sources are not evidence for military capability or historical causation merely because they depict historical events.
 
@@ -301,9 +304,9 @@ Current examples:
 
 ---
 
-# 🔎 Sources Still Required
+## 🔎 Sources Still Required
 
-## Immediate
+### Immediate
 
 - [ ] Exact primary record of current Army training decision.
 - [ ] Exact £30m provenance.
@@ -316,7 +319,7 @@ Current examples:
 - [ ] Relevant SDR 2025 commitments.
 - [ ] Relevant DIP 2026 commitments.
 
-## Historical
+### Historical
 
 - [ ] Strategic-review corpus.
 - [ ] Army 2020 material.
@@ -326,7 +329,7 @@ Current examples:
 - [ ] OPTAG/BATUS reform sources independent of Akam.
 - [ ] Historical collective-training expenditure where available.
 
-## Analytical Literature
+### Analytical Literature
 
 - [ ] Collective training effectiveness.
 - [ ] Training frequency and skill decay.
@@ -341,7 +344,7 @@ Current examples:
 
 ---
 
-# 🤖 Machine-Readable Research Specification
+## 🤖 Machine-Readable Research Specification
 
 ```yaml
 research_specification:
@@ -524,3 +527,39 @@ For every substantial claim, ask:
 The purpose is not to eliminate interpretation.
 
 The purpose is to make it possible to tell where the evidence ends and the interpretation begins.
+
+---
+
+## 🌌 Constellations
+🗃️ 📚 🔎 🧾 🧠 — provenance; source hierarchy; retrieval; evidence hygiene; research method.
+
+---
+
+## ✨ Stardust
+research provenance, source hierarchy, defence research, source hygiene, machine-assisted research, primary sources, evidence register, retrieval methodology
+
+---
+
+## 🏮 Footer
+
+*🗃️ Source Bank* is a living research-infrastructure node of the **Polaris Protocol**.  
+Living evidential register for provenance, source classes, search methodology and outstanding research requirements.
+
+> 📡 Cross-references:
+>
+> - [📋 Strategic Reviews](./strategic_reviews.md) — *longitudinal policy corpus*
+> - [📰 Current Reporting](./current_reporting.md) — *contemporary reporting and claim ledger*
+> - [❓ Open Questions](./open_questions.md) — *research gaps generated by the evidence base*
+> - [🔬 Tests and Investigations](../🔬_tests_and_investigations.md) — *evidence needed to discriminate between explanations*
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](../README.md) — *1up*
+> - [🌊 Playing Defence](../../README.md) — *2up*
+> - [📲 Press Matters](../../../README.md) — *3up*
+> - [🌓 In The Moment](../../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-07_

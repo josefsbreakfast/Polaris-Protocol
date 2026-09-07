@@ -1,4 +1,7 @@
 # 📋 Strategic Reviews
+**First created:** 2026-09-07 | **Last updated:** 2026-09-07  
+*Longitudinal policy record separating strategic intent from implementation and operational reality.*
+
 
 > **Status:** Research infrastructure / longitudinal policy record  
 > **Cluster:** `🪖_Training_Debrief`  
@@ -6,7 +9,7 @@
 
 ---
 
-## 🧭 What This File Is
+### 🧭 What This File Is
 
 This file is a longitudinal record of British defence planning.
 
@@ -44,9 +47,9 @@ It is:
 
 ---
 
-# ⚠️ Methodological Notes
+## ⚠️ Methodological Notes
 
-## Reviews Are Not Outcomes
+### Reviews Are Not Outcomes
 
 A strategic review establishes what government said it intended to do at a particular point.
 
@@ -66,7 +69,7 @@ Each review should therefore be paired with implementation evidence where possib
 
 ---
 
-## 📸 Reviews Are Strategic Snapshots
+### 📸 Reviews Are Strategic Snapshots
 
 Reviews should be read in their contemporary environment.
 
@@ -89,7 +92,7 @@ That is analytically different from a force model that was inadequately resource
 
 ---
 
-## 🪆 Inheritance Matters
+### 🪆 Inheritance Matters
 
 Every review inherits:
 
@@ -108,9 +111,9 @@ Record important inherited constraints rather than assigning every contemporary 
 
 ---
 
-# 🗓️ Review Corpus
+## 🗓️ Review Corpus
 
-## 1. Post-1945 Background
+### 1. Post-1945 Background
 
 Brief contextual section only.
 
@@ -130,7 +133,7 @@ Cover enough to understand:
 
 ---
 
-## 2. 1981 Defence Review / Nott Review
+### 2. 1981 Defence Review / Nott Review
 
 Record:
 
@@ -148,7 +151,7 @@ Important retrospective question:
 
 ---
 
-## 3. Falklands Aftermath
+### 3. Falklands Aftermath
 
 Not necessarily a formal strategic review in the same sense.
 
@@ -164,7 +167,7 @@ Use as a bridge examining:
 
 ---
 
-## 4. Options for Change — 1990
+### 4. Options for Change — 1990
 
 Priority questions:
 
@@ -179,7 +182,7 @@ Priority questions:
 
 ---
 
-## 5. Front Line First — 1994
+### 5. Front Line First — 1994
 
 Examine:
 
@@ -197,7 +200,7 @@ Potential recurring Polaris question:
 
 ---
 
-## 6. Strategic Defence Review — 1998
+### 6. Strategic Defence Review — 1998
 
 Major node within the dataset.
 
@@ -224,7 +227,7 @@ Extract:
 
 Then record:
 
-### What happened next?
+#### What happened next?
 
 - Kosovo;
 - Sierra Leone;
@@ -238,7 +241,7 @@ Question:
 
 ---
 
-## 7. SDR New Chapter — 2002
+### 7. SDR New Chapter — 2002
 
 Post-9/11 adjustment.
 
@@ -256,7 +259,7 @@ Extract changes concerning:
 
 ---
 
-## 8. Delivering Security in a Changing World — 2003/2004
+### 8. Delivering Security in a Changing World — 2003/2004
 
 Examine:
 
@@ -271,7 +274,7 @@ Examine:
 
 ---
 
-## 9. Iraq / Afghanistan Operational Adaptation — 2003–2010
+### 9. Iraq / Afghanistan Operational Adaptation — 2003–2010
 
 This section sits between formal reviews.
 
@@ -295,7 +298,7 @@ Use Akam here, but chase primary material independently.
 
 ---
 
-## 10. SDSR 2010
+### 10. SDSR 2010
 
 Critical austerity-era review.
 
@@ -323,7 +326,7 @@ Special attention:
 
 ---
 
-## 11. Army 2020
+### 11. Army 2020
 
 Treat separately because of its importance to the current Army.
 
@@ -348,7 +351,7 @@ Ask:
 
 ---
 
-## 12. SDSR 2015
+### 12. SDSR 2015
 
 Extract:
 
@@ -373,7 +376,7 @@ Compare the threat environment with 2010.
 
 ---
 
-## 13. Modernising Defence Programme — 2018
+### 13. Modernising Defence Programme — 2018
 
 Examine:
 
@@ -390,7 +393,7 @@ Examine:
 
 ---
 
-## 14. Integrated Review — 2021
+### 14. Integrated Review — 2021
 
 Extract:
 
@@ -419,7 +422,7 @@ Do not assume the answer before reviewing the evidence.
 
 ---
 
-## 15. Defence Command Paper — 2021
+### 15. Defence Command Paper — 2021
 
 Separate the defence implementation plan from the wider Integrated Review.
 
@@ -438,7 +441,7 @@ Track:
 
 ---
 
-## 16. Ukraine Shock — 2022 onwards
+### 16. Ukraine Shock — 2022 onwards
 
 Not a review itself.
 
@@ -464,7 +467,7 @@ Question:
 
 ---
 
-## 17. Integrated Review Refresh — 2023
+### 17. Integrated Review Refresh — 2023
 
 Extract:
 
@@ -480,7 +483,7 @@ Extract:
 
 ---
 
-## 18. Defence Command Paper Refresh — 2023
+### 18. Defence Command Paper Refresh — 2023
 
 Track Defence-specific response:
 
@@ -497,7 +500,7 @@ Track Defence-specific response:
 
 ---
 
-## 19. Strategic Defence Review — 2025
+### 19. Strategic Defence Review — 2025
 
 Major current baseline.
 
@@ -536,7 +539,7 @@ Particular current relevance:
 
 ---
 
-## 20. Defence Investment Plan — 2026
+### 20. Defence Investment Plan — 2026
 
 Treat as the resourcing/implementation companion to SDR 2025.
 
@@ -560,7 +563,7 @@ Then compare directly with the current £30m training decision.
 
 ---
 
-## 21. 2026 Training Decision
+### 21. 2026 Training Decision
 
 The endpoint of this longitudinal file, not the whole story.
 
@@ -582,7 +585,7 @@ Then ask:
 
 ---
 
-# 📊 Standard Extraction Template
+## 📊 Standard Extraction Template
 
 Use the same template for every substantial review.
 
@@ -710,11 +713,11 @@ review:
 
 ---
 
-# 🔬 Cross-Review Comparison
+## 🔬 Cross-Review Comparison
 
 Once individual reviews are populated, compare recurring variables.
 
-## Personnel
+### Personnel
 
 Track:
 
@@ -728,7 +731,7 @@ Track:
 
 ---
 
-## Training
+### Training
 
 Track:
 
@@ -744,7 +747,7 @@ Track:
 
 ---
 
-## Readiness
+### Readiness
 
 Do not accept the word **ready** without asking:
 
@@ -762,7 +765,7 @@ Record:
 
 ---
 
-## Strategic Assumptions
+### Strategic Assumptions
 
 Track recurring assumptions concerning:
 
@@ -779,7 +782,7 @@ Track recurring assumptions concerning:
 
 ---
 
-## 💷 Money
+### 💷 Money
 
 Distinguish where possible:
 
@@ -804,7 +807,7 @@ It is:
 
 ---
 
-# 🔁 Recurring Recommendations
+## 🔁 Recurring Recommendations
 
 Create a crosswalk for recommendations or problems that appear repeatedly.
 
@@ -848,7 +851,7 @@ from:
 
 ---
 
-# 🧠 Assumption Ledger
+## 🧠 Assumption Ledger
 
 Maintain a separate comparison of assumptions because failed assumptions may matter more than failed programmes.
 
@@ -879,7 +882,7 @@ Questions include:
 
 ---
 
-# 🩻 Implementation Gap
+## 🩻 Implementation Gap
 
 For each major commitment:
 
@@ -910,7 +913,7 @@ when the interesting fact is that **A never happened**.
 
 ---
 
-# 🤖 Machine-Readable Research Instructions
+## 🤖 Machine-Readable Research Instructions
 
 ```yaml
 research_instruction:
@@ -977,7 +980,7 @@ research_instruction:
 
 ---
 
-# 🧿 Questions to Carry Forward
+## 🧿 Questions to Carry Forward
 
 The finished dataset should allow later nodes to ask:
 
@@ -996,10 +999,45 @@ The finished dataset should allow later nodes to ask:
 
 ---
 
-# 🪖 Working Principle
+## 🪖 Working Principle
 
 The purpose of this file is not to prove that Britain has spent thirty years getting Defence wrong.
 
 It is to establish something more useful:
 
 > **What Britain thought it was building, what it actually built, what happened when that force met reality, what it learned, and whether those lessons survived the next financial settlement.**
+
+---
+
+## 🌌 Constellations
+📋 🧭 🪖 💷 🔁 — strategic reviews; force design; resources; implementation; recurring recommendations.
+
+---
+
+## ✨ Stardust
+uk defence policy, strategic reviews, force design, defence spending, readiness, implementation gaps, strategic assumptions, recurring recommendations
+
+---
+
+## 🏮 Footer
+
+*📋 Strategic Reviews* is a living research-infrastructure node of the **Polaris Protocol**.  
+Longitudinal policy record separating strategic intent from implementation and operational reality.
+
+> 📡 Cross-references:
+>
+> - [⏱️ Timeline](./timeline.md) — *tests strategic intent against implementation and events*
+> - [🗃️ Source Bank](./source_bank.md) — *provenance and source requirements for the review corpus*
+> - [🔭 What Does Ready Actually Look Like?](../🔭_what_does_ready_actually_look_like.md) — *functional test for review commitments about readiness*
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](../README.md) — *1up*
+> - [🌊 Playing Defence](../../README.md) — *2up*
+> - [📲 Press Matters](../../../README.md) — *3up*
+> - [🌓 In The Moment](../../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-07_

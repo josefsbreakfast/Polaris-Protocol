@@ -1,17 +1,12 @@
-Absolutely. This one should be a media-evidence log, not a scrapbook of headlines.
-
-The core question is:
-
-How was the training decision framed, by whom, on what evidence, with what omissions, and how did that framing compare with the policy record already established elsewhere?
-
-I’d plan data/current_reporting.md like this:
-
 # 📰 Current Reporting
+**First created:** 2026-09-07 | **Last updated:** 2026-09-07  
+*Media-evidence register tracing claims, sourcing, framing and government responses around the 2026 training dispute.*
+
 > **Status:** Research infrastructure / media evidence register  
 > **Cluster:** `🪖_Training_Debrief`  
 > **Purpose:** Track contemporary reporting and commentary on the 2026 Army training reductions, Defence affordability, readiness, ministerial responsibility and the surrounding political narrative.
 ---
-## 🧭 What This File Is
+### 🧭 What This File Is
 This file records current reporting after the underlying policy and parliamentary chronology has been established.
 It is designed to ask:
 - What did journalists report?
@@ -33,7 +28,7 @@ It is designed to ask:
 The purpose is not to determine which newspaper is politically "correct".
 It is to reconstruct the information environment around the decision.
 ---
-# ⚠️ Reporting Is Evidence Of Reporting
+## ⚠️ Reporting Is Evidence Of Reporting
 A newspaper article can establish that:
 - a claim was made;
 - a source said something;
@@ -46,8 +41,8 @@ Where possible:
 should be traced.
 Repeated publication of the same originating claim should not be treated as independent corroboration.
 ---
-# 🧱 Source Classes
-## 1. Forces / Defence-Specialist Reporting
+## 🧱 Source Classes
+### 1. Forces / Defence-Specialist Reporting
 Priority because this may surface professional reaction that general political reporting misses.
 Include:
 - Forces News;
@@ -65,7 +60,7 @@ Track especially:
 - institutional frustration;
 - specific descriptions of what activity is being cancelled.
 ---
-## 2. Mainstream National Press
+### 2. Mainstream National Press
 Priority publications include:
 - *The Times*;
 - *The Telegraph*;
@@ -83,7 +78,7 @@ Track:
 - service reaction;
 - whether training is treated as a capability issue or simple savings story.
 ---
-## 3. Right / Centre-Right Press
+### 3. Right / Centre-Right Press
 Maintain a specific comparison because this cluster has already identified a potentially interesting tonal shift.
 Track:
 - *The Times*;
@@ -97,7 +92,7 @@ Questions:
 - Does criticism disappear once political personnel change?
 Do not infer coordination solely from similar tone.
 ---
-## 4. Broadcast / Video Reporting
+### 4. Broadcast / Video Reporting
 Include:
 - BBC;
 - Sky;
@@ -113,7 +108,7 @@ Record where visual framing materially matters:
 - ministerial interviews;
 - maps/graphics.
 ---
-## 5. Commentary / Opinion
+### 5. Commentary / Opinion
 Keep separate from reported fact.
 Include:
 - editorials;
@@ -130,8 +125,8 @@ Use for:
 - competing interpretations.
 Do not merge opinion with sourced reporting.
 ---
-# 🗓️ Current Reporting Chronology
-## Pre-Decision / Pre-Disclosure
+## 🗓️ Current Reporting Chronology
+### Pre-Decision / Pre-Disclosure
 Track reporting before the September story that concerned:
 - Defence affordability;
 - exercise reductions;
@@ -145,7 +140,7 @@ Track reporting before the September story that concerned:
 - procurement pressure.
 This matters because the September story may not have emerged from nowhere.
 ---
-## Initial Disclosure
+### Initial Disclosure
 For the first substantial report on the £30m training decision, capture:
 - publication date/time;
 - outlet;
@@ -162,7 +157,7 @@ For the first substantial report on the £30m training decision, capture:
 - readiness implications.
 This becomes the baseline media event.
 ---
-## First 24 Hours
+### First 24 Hours
 Track:
 - who follows;
 - who independently confirms;
@@ -172,7 +167,7 @@ Track:
 - who criticises;
 - whether government responds differently across outlets.
 ---
-## Days 2–7
+### Days 2–7
 Track whether the story evolves toward:
 - Army morale;
 - readiness;
@@ -187,7 +182,7 @@ Track whether the story evolves toward:
 - parliamentary scrutiny.
 This tells us whether the story has depth or merely churn.
 ---
-## Longer Tail
+### Longer Tail
 Track:
 - letters;
 - editorials;
@@ -200,7 +195,7 @@ Track:
 - disappearance of the story.
 A story disappearing is not proof the underlying problem disappeared.
 ---
-# 🧾 Standard Media Entry
+## 🧾 Standard Media Entry
 ```yaml
 media_item:
   date:
@@ -268,7 +263,9 @@ media_item:
     level:
     notes:
 
-⸻
+```
+
+---
 
 🧠 Framing Taxonomy
 
@@ -298,7 +295,7 @@ Did forces media overwhelmingly frame this as readiness while political media fr
 
 That would be genuinely interesting.
 
-⸻
+---
 
 🪖 Forces Voice Register
 
@@ -331,7 +328,7 @@ Do not assume:
 
 Record the voice rather than flattening it.
 
-⸻
+---
 
 🧮 Claim Ledger
 
@@ -362,7 +359,7 @@ Priority examples:
 
 This will stop ten articles from becoming ten sources for one leaked claim.
 
-⸻
+---
 
 🏛️ Government Response Tracker
 
@@ -402,7 +399,7 @@ if they occur.
 
 Language change can itself be useful evidence.
 
-⸻
+---
 
 💷 Money Framing
 
@@ -422,7 +419,7 @@ Do not automatically endorse media comparisons.
 
 Record them.
 
-⸻
+---
 
 📰 Headline / Body Divergence
 
@@ -436,7 +433,7 @@ headline_check:
 
 Particularly relevant for inflammatory Defence coverage.
 
-⸻
+---
 
 🔄 News-Cycle Evolution
 
@@ -462,7 +459,7 @@ Suggested phases:
 5. Scrutiny
 6. Resolution / disappearance
 
-⸻
+---
 
 🧩 Prior Commitments Crosswalk
 
@@ -486,7 +483,7 @@ Priority:
 
 This is where the media analysis becomes genuinely useful rather than merely descriptive.
 
-⸻
+---
 
 🎭 Political Framing Register
 
@@ -512,7 +509,7 @@ from
 
 politician uses Army concern to attack government.
 
-⸻
+---
 
 🧠 Omission Register
 
@@ -544,7 +541,7 @@ Priority omissions to watch:
 * Interflex/training-estate pressure;
 * actual readiness assessment.
 
-⸻
+---
 
 🔎 Searches To Run
 
@@ -576,7 +573,7 @@ Outlet-Specific
 * site:reuters.com UK Army training
 * site:theguardian.com Army training MOD
 
-⸻
+---
 
 🤖 Machine-Readable Research Specification
 
@@ -675,7 +672,7 @@ current_reporting_research:
     - "prior commitment crosswalk"
     - "unresolved media claims"
 
-⸻
+---
 
 🧿 Questions To Carry Forward
 
@@ -692,7 +689,7 @@ When populated, this file should let later nodes ask:
 * Did the story generate enough sustained scrutiny to establish the decision chain?
 * Which factual claims remain sourced only to anonymous briefings?
 
-⸻
+---
 
 🪖 Working Principle
 
@@ -702,7 +699,37 @@ It tells us:
 
 what became visible, when it became visible, who was permitted to define it first, and which parts of the underlying system the public was given enough information to understand.
 
-The bit I think will be especially fruitful is the **claim ledger + prior-commitment crosswalk**.
-That lets us do something better than “The Times said X and Forces News said Y.” We can show:
-**Here is the claim entering the media ecosystem → here is its apparent original sourcing → here is what government had already told Parliament → here is what SDR/DIP had already promised → here is how each outlet framed the discrepancy.**
-That should give us a very clean picture of whether the current story is being treated as a genuine readiness problem or merely as another two-day Westminster flap.
+---
+
+## 🌌 Constellations
+📰 🪖 🔎 🧾 🔁 — media evidence; claim provenance; forces voice; framing; government response.
+
+---
+
+## ✨ Stardust
+defence media, army training, media framing, claim provenance, readiness reporting, government response, forces voice, news chronology
+
+---
+
+## 🏮 Footer
+
+*📰 Current Reporting* is a living research-infrastructure node of the **Polaris Protocol**.  
+Media-evidence register tracing claims, sourcing, framing and government responses around the 2026 training dispute.
+
+> 📡 Cross-references:
+>
+> - [🏛️ Parliamentary Questions](./parliamentary_questions.md) — *compares media claims with the prior public governance record*
+> - [🗃️ Source Bank](./source_bank.md) — *tracks source provenance and shared-origin risk*
+> - [🪟 Transparency and Earned Loyalty](../🪟_transparency_and_earned_loyalty.md) — *bounded public explanation and trust*
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](../README.md) — *1up*
+> - [🌊 Playing Defence](../../README.md) — *2up*
+> - [📲 Press Matters](../../../README.md) — *3up*
+> - [🌓 In The Moment](../../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-07_

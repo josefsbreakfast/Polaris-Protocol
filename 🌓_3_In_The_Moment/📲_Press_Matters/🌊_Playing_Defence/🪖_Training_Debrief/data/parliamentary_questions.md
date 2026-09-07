@@ -1,4 +1,7 @@
 # 🏛️ Parliamentary Questions
+**First created:** 2026-09-07 | **Last updated:** 2026-09-07  
+*Governance chronology tracking parliamentary scrutiny, departmental answers and the public ministerial record.*
+
 
 > **Status:** Research infrastructure / governance chronology  
 > **Cluster:** `🪖_Training_Debrief`  
@@ -6,7 +9,7 @@
 
 ---
 
-## 🧭 What This File Is
+### 🧭 What This File Is
 
 This file records parliamentary questions, answers, statements and committee interventions relevant to the current training dispute and its wider policy context.
 
@@ -33,7 +36,7 @@ The purpose is to reconstruct the public governance trail.
 
 ---
 
-# 🎯 Priority Questions
+## 🎯 Priority Questions
 
 The immediate priorities are:
 
@@ -55,11 +58,11 @@ The immediate priorities are:
 
 ---
 
-# 🧱 Source Types
+## 🧱 Source Types
 
 Include:
 
-## Written Parliamentary Questions
+### Written Parliamentary Questions
 
 Record:
 
@@ -78,7 +81,7 @@ These will probably form the largest part of this file.
 
 ---
 
-## Oral Questions
+### Oral Questions
 
 Include where relevant:
 
@@ -92,7 +95,7 @@ Useful where ministers are pressed beyond written departmental language.
 
 ---
 
-## Ministerial Statements
+### Ministerial Statements
 
 Include:
 
@@ -104,7 +107,7 @@ Include:
 
 ---
 
-## Select Committees
+### Select Committees
 
 Priority:
 
@@ -122,13 +125,13 @@ Include:
 
 ---
 
-# 🗓️ Core Chronology
+## 🗓️ Core Chronology
 
-## Late 2025 — Early Warning
+### Late 2025 — Early Warning
 
 Priority known material:
 
-### November 2025
+#### November 2025
 
 James Cartlidge asks whether Defence had discussed reducing training across:
 
@@ -150,7 +153,7 @@ Follow-up research:
 
 ---
 
-### Late November / December 2025
+#### Late November / December 2025
 
 Cartlidge follows up explicitly on:
 
@@ -172,7 +175,7 @@ Questions:
 
 ---
 
-## Early / Mid 2026 — Affordability Becomes More Visible
+### Early / Mid 2026 — Affordability Becomes More Visible
 
 Search for parliamentary material concerning:
 
@@ -188,7 +191,7 @@ Search for parliamentary material concerning:
 
 ---
 
-## 16 June 2026 — Service-by-Service Training Question
+### 16 June 2026 — Service-by-Service Training Question
 
 Priority item.
 
@@ -213,7 +216,7 @@ This is potentially a key pivot in the public chronology.
 
 ---
 
-## 30 June 2026 — Defence Investment Plan
+### 30 June 2026 — Defence Investment Plan
 
 Parliamentary material to capture:
 
@@ -232,7 +235,7 @@ Especially important:
 
 ---
 
-## July–August 2026 — Implementation / Pressure
+### July–August 2026 — Implementation / Pressure
 
 Search for:
 
@@ -255,7 +258,7 @@ Also capture ministerial changes and handovers where relevant.
 
 ---
 
-## September 2026 — Current Training Decision
+### September 2026 — Current Training Decision
 
 Record:
 
@@ -274,7 +277,7 @@ This section should eventually become high-resolution and date-specific.
 
 ---
 
-# 👥 Actor Register
+## 👥 Actor Register
 
 Maintain an actor table.
 
@@ -311,7 +314,7 @@ Important rule:
 
 Office establishes responsibility for a portfolio, not personal knowledge of every underlying decision.
 
-⸻
+---
 
 🔗 Question → Answer → Follow-Up Chains
 
@@ -349,7 +352,7 @@ question becomes more specific → answer remains general → issue later materi
 
 That pattern is evidence of scrutiny chronology, not automatically evidence of deception.
 
-⸻
+---
 
 🎯 Directness of Answer
 
@@ -382,7 +385,7 @@ Possible answer patterns:
 
 Those are very different governance signals.
 
-⸻
+---
 
 🧠 Knowledge and Awareness Ladder
 
@@ -418,7 +421,7 @@ Public evidence of Healey personally receiving the specific £30m proposal is / 
 
 Much stronger.
 
-⸻
+---
 
 💷 Treasury / MOD Interface
 
@@ -450,7 +453,7 @@ Did MOD state that additional Treasury support had been requested or refused?
 
 Do not infer a Treasury refusal without evidence.
 
-⸻
+---
 
 🪖 Service-by-Service Comparison
 
@@ -483,7 +486,7 @@ This matters because the current story appears to affect the Army differently.
 
 We need to know whether Parliament had already identified that asymmetry.
 
-⸻
+---
 
 📋 SDR / DIP Commitments Crosswalk
 
@@ -516,7 +519,7 @@ This does not prove contradiction automatically.
 
 It flags the need for explanation.
 
-⸻
+---
 
 🔬 Questions Parliament Has Not Yet Asked
 
@@ -539,7 +542,7 @@ Examples:
 
 Absence matters because it helps shape open_questions.md and 🚑_immediate_management.md.
 
-⸻
+---
 
 📰 Parliament / Media Interaction
 
@@ -560,7 +563,7 @@ parliament_media_link:
 
 This will be particularly useful for September 2026.
 
-⸻
+---
 
 🤖 Machine-Readable Research Specification
 
@@ -690,13 +693,13 @@ A parliamentary answer establishes a departmental public position.
 
 It does not automatically establish the personal knowledge of every relevant minister.
 
-⸻
+---
 
 Minister answered ≠ minister made the decision
 
 Responsibility for answering Parliament and responsibility for originating a policy are different.
 
-⸻
+---
 
 Question asked ≠ allegation established
 
@@ -704,7 +707,7 @@ MPs can ask questions on incomplete information.
 
 Questions are evidence of salience and scrutiny, not proof of their premise.
 
-⸻
+---
 
 General answer ≠ concealment
 
@@ -719,7 +722,7 @@ A general answer may be:
 
 Further evidence is required.
 
-⸻
+---
 
 Repeated questions matter
 
@@ -727,7 +730,7 @@ A sequence of increasingly precise questions can establish that an issue was rep
 
 That is analytically different from proving what happened behind closed doors.
 
-⸻
+---
 
 🪖 End-State
 
@@ -750,3 +753,38 @@ That is the level of precision we want.
 The objective is not to build a prosecution chronology.
 
 It is to reconstruct the route by which an operational concern became — or failed to become — a political decision problem.
+
+---
+
+## 🌌 Constellations
+🏛️ 🧾 🪖 💷 🔎 — parliamentary scrutiny; ministerial record; training; affordability; public accountability.
+
+---
+
+## ✨ Stardust
+uk parliament, defence scrutiny, parliamentary questions, military training, readiness, defence affordability, ministerial awareness, governance chronology
+
+---
+
+## 🏮 Footer
+
+*🏛️ Parliamentary Questions* is a living research-infrastructure node of the **Polaris Protocol**.  
+Governance chronology tracking parliamentary scrutiny, departmental answers and the public ministerial record.
+
+> 📡 Cross-references:
+>
+> - [⏱️ Timeline](./timeline.md) — *places scrutiny within the wider decision chronology*
+> - [❓ Open Questions](./open_questions.md) — *routes unanswered governance questions*
+> - [💷 Thirty Million Pounds](../💷_thirty_million_pounds.md) — *forensic reconstruction of the current savings decision*
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](../README.md) — *1up*
+> - [🌊 Playing Defence](../../README.md) — *2up*
+> - [📲 Press Matters](../../../README.md) — *3up*
+> - [🌓 In The Moment](../../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-07_

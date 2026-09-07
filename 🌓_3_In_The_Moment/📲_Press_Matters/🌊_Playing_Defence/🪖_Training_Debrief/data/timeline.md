@@ -1,13 +1,12 @@
-Oh yes. This is where the architecture starts paying rent. strategic_reviews.md gives us the policy spine; timeline.md can then interleave what government planned with what reality subsequently did to the plan.
-
-I’d structure the planning like this:
-
 # ⏱️ Timeline
+**First created:** 2026-09-07 | **Last updated:** 2026-09-07  
+*Dated evidence register connecting strategy, force design, resources, training, operations, feedback and governance.*
+
 > **Status:** Research infrastructure / chronological evidence register  
 > **Cluster:** `🪖_Training_Debrief`  
 > **Purpose:** Build a dated chronology connecting British strategic planning, force structure, training, operations, funding, institutional learning and the 2026 Army collective-training dispute.
 ---
-## 🧭 What This File Is
+### 🧭 What This File Is
 This is not simply a chronology of British wars or Defence Secretaries.
 It tracks several interacting timelines:
 - **strategic intent** — what Britain said it needed its Armed Forces to do;
@@ -22,7 +21,7 @@ It tracks several interacting timelines:
 The purpose is to make sequence visible.
 > **What was known, what had already been promised, what happened next, what changed in response, and how long did that response take?**
 ---
-# ⚠️ Chronology Is Not Causation
+## ⚠️ Chronology Is Not Causation
 Events appearing beside one another do not establish that one caused the other.
 For example:
 **Review → personnel reduction → readiness problem**
@@ -34,23 +33,23 @@ The timeline should therefore distinguish:
 - chronological proximity;
 - Polaris questions or hypotheses requiring further investigation.
 ---
-# 🧱 Timeline Layers
+## 🧱 Timeline Layers
 Every entry should be assigned one or more layers.
-## 🧭 Strategy
+### 🧭 Strategy
 - strategic reviews;
 - defence command papers;
 - national-security strategies;
 - major doctrinal changes;
 - NATO commitments;
 - changes in strategic assumptions.
-## 🪖 Force
+### 🪖 Force
 - personnel targets;
 - unit restructuring;
 - reserve reforms;
 - formation changes;
 - mobilisation changes;
 - recruitment/retention changes.
-## 🏋️ Training
+### 🏋️ Training
 - collective-training policy;
 - OPTAG;
 - BATUS;
@@ -60,21 +59,21 @@ Every entry should be assigned one or more layers.
 - major exercise changes;
 - training expenditure;
 - cancellations/reductions.
-## ⚔️ Operations
+### ⚔️ Operations
 - major deployments;
 - wars;
 - peacekeeping;
 - enduring commitments;
 - operational tempo;
 - significant force-generation demands.
-## 💷 Money
+### 💷 Money
 - spending settlements;
 - savings exercises;
 - affordability crises;
 - major investment programmes;
 - major procurement commitments;
 - Treasury interventions where evidenced.
-## 🏚️ Estate / Support
+### 🏚️ Estate / Support
 - estate reductions;
 - accommodation;
 - logistics;
@@ -82,7 +81,7 @@ Every entry should be assigned one or more layers.
 - medical capability;
 - stockpiles;
 - enabling infrastructure.
-## 🔁 Feedback / Lessons
+### 🔁 Feedback / Lessons
 - lessons reports;
 - inquiries;
 - operational adaptation;
@@ -90,13 +89,13 @@ Every entry should be assigned one or more layers.
 - audit findings;
 - recommendations;
 - evidence of lessons being implemented or lost.
-## 🏛️ Governance
+### 🏛️ Governance
 - parliamentary questions;
 - committee interventions;
 - ministerial changes where substantively relevant;
 - significant FOI disclosures;
 - accountability events.
-## 🌍 External Environment
+### 🌍 External Environment
 - collapse of Soviet Union;
 - Balkans;
 - 9/11;
@@ -106,8 +105,8 @@ Every entry should be assigned one or more layers.
 - full-scale invasion of Ukraine;
 - other shocks materially changing UK assumptions.
 ---
-# 📍 Historical Periods
-## 1945–1979 — Background
+## 📍 Historical Periods
+### 1945–1979 — Background
 Keep deliberately concise.
 Anchor:
 - post-war demobilisation;
@@ -121,7 +120,7 @@ Anchor:
 Purpose:
 **What sort of Armed Forces existed before the sequence we actually want to study?**
 ---
-## 1980–1989 — Falklands and Late Cold War
+### 1980–1989 — Falklands and Late Cold War
 Priority events:
 - Nott Review;
 - announced capability changes;
@@ -132,7 +131,7 @@ Priority events:
 This gives us an early example of:
 > **planned force change meeting strategic surprise.**
 ---
-## 1990–2000 — Peace Dividend and Expeditionary Reorientation
+### 1990–2000 — Peace Dividend and Expeditionary Reorientation
 Include:
 - collapse of Soviet Union;
 - Options for Change;
@@ -151,7 +150,7 @@ Track particularly:
 - expeditionary assumptions;
 - concurrent commitments.
 ---
-## 2001–2009 — 9/11, Afghanistan and Iraq
+### 2001–2009 — 9/11, Afghanistan and Iraq
 This should be extremely detailed.
 Include:
 - 9/11;
@@ -179,7 +178,7 @@ Include:
 This is where we can begin seeing:
 **operational problem → feedback → money suddenly appears → adaptation.**
 ---
-## 2010–2014 — Lessons, Austerity and Force Reduction
+### 2010–2014 — Lessons, Austerity and Force Reduction
 Include:
 - Brown report chronology;
 - Barry lessons work;
@@ -196,7 +195,7 @@ Include:
 This period is likely crucial because:
 > **lessons from sustained war and fiscal retrenchment occur simultaneously.**
 ---
-## 2015–2019 — Russia Returns / Modernisation
+### 2015–2019 — Russia Returns / Modernisation
 Include:
 - SDSR 2015;
 - Joint Force 2025;
@@ -209,7 +208,7 @@ Include:
 - procurement affordability;
 - NATO adaptation.
 ---
-## 2020–2021 — Integrated Review / Future Soldier
+### 2020–2021 — Integrated Review / Future Soldier
 Include:
 - pandemic where Defence-relevant;
 - Integrated Review;
@@ -222,7 +221,7 @@ Include:
 - NATO assumptions;
 - training/readiness commitments.
 ---
-## 2022–2024 — Ukraine and the Return of Mass
+### 2022–2024 — Ukraine and the Return of Mass
 Include:
 - Russian full-scale invasion;
 - UK support to Ukraine;
@@ -243,7 +242,7 @@ Especially track instances where the language changes toward:
 - **mobilisation**;
 - **industrial capacity**.
 ---
-## 2025 — Strategic Reset
+### 2025 — Strategic Reset
 Include:
 - government Defence commitments;
 - SDR 2025;
@@ -258,7 +257,7 @@ Include:
 - technology.
 This becomes the immediate policy baseline against which 2026 is assessed.
 ---
-## 2026 — Investment Meets Affordability
+### 2026 — Investment Meets Affordability
 This should eventually become almost day-level where useful.
 Include:
 - Defence Investment Plan;
@@ -277,7 +276,7 @@ Include:
 - parliamentary reaction;
 - any reversal, mitigation or restoration.
 ---
-# 🧾 Standard Timeline Entry
+## 🧾 Standard Timeline Entry
 Use a consistent format.
 ```yaml
 event:
@@ -325,7 +324,9 @@ event:
     notes:
   follow_up: []
 
-⸻
+```
+
+---
 
 🔗 Decision Chains
 
@@ -353,7 +354,7 @@ decision_chain:
 
 This gives 💷_thirty_million_pounds.md a ready-made evidence spine later.
 
-⸻
+---
 
 🔁 Recommendation → Implementation → Rediscovery
 
@@ -390,7 +391,7 @@ problem identified → fix designed → fix implemented → pressure returns →
 
 without assuming in advance that this is what happened.
 
-⸻
+---
 
 🧠 Assumption Changes
 
@@ -417,7 +418,7 @@ assumption_event:
 
 This could become one of the most useful parts of the whole dataset.
 
-⸻
+---
 
 🪖 Training-Specific Timeline
 
@@ -444,7 +445,7 @@ The eventual question:
 
 What has Britain believed collective training is worth at different points in the threat cycle?
 
-⸻
+---
 
 💷 Spending / Capability Timeline
 
@@ -472,7 +473,7 @@ Where possible distinguish:
 
 This prevents nonsense comparisons.
 
-⸻
+---
 
 🩸 Human Consequences
 
@@ -500,7 +501,7 @@ paper → money → paper → equipment → paper
 
 while the people actually carrying the risk disappear.
 
-⸻
+---
 
 📰 Media Layer
 
@@ -540,7 +541,7 @@ when the public learned that it happened.
 
 That distinction is going to matter enormously.
 
-⸻
+---
 
 🏛️ Political Responsibility Timeline
 
@@ -568,7 +569,7 @@ Only include changes where they help establish who could reasonably have partici
 
 Holding office is not evidence that somebody personally knew about a particular matter.
 
-⸻
+---
 
 🤖 Machine-Readable Research Specification
 
@@ -642,7 +643,7 @@ timeline_research:
     - "2026 decision chain"
     - "research gaps"
 
-⸻
+---
 
 🕳️ Known Gaps
 
@@ -658,7 +659,7 @@ gap:
 
 An unanswered question after substantial searching is itself useful research information.
 
-⸻
+---
 
 🧿 End-State
 
@@ -676,8 +677,38 @@ And most importantly:
 
 When Britain learned something the expensive way, what happened to that knowledge afterwards?
 
->> the first proper cybernetic machinery into `/data/`**.
-`strategic_reviews.md` tells us what the system *said*.
-`timeline.md` tells us what the system *did and encountered*.
-Later, `⚙️_the_feedback_machine.md` can compare those two and ask:
-**Did reality actually get back into the decision-making loop before the next decision was made?**
+---
+
+## 🌌 Constellations
+⏱️ 🪖 🔁 🏛️ 🌍 — chronology; implementation; operational feedback; governance; strategic shocks.
+
+---
+
+## ✨ Stardust
+uk defence chronology, military training, force design, readiness, implementation, operational learning, defence governance, strategic assumptions
+
+---
+
+## 🏮 Footer
+
+*⏱️ Timeline* is a living research-infrastructure node of the **Polaris Protocol**.  
+Dated evidence register connecting strategy, force design, resources, training, operations, feedback and governance.
+
+> 📡 Cross-references:
+>
+> - [📋 Strategic Reviews](./strategic_reviews.md) — *policy commitments and assumptions placed against subsequent events*
+> - [🏛️ Parliamentary Questions](./parliamentary_questions.md) — *dated public scrutiny and departmental responses*
+> - [📰 Current Reporting](./current_reporting.md) — *public-disclosure chronology and media claims*
+> - [⚙️ The Feedback Machine](../⚙️_the_feedback_machine.md) — *whether operational reality returns to decision-makers as usable feedback*
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](../README.md) — *1up*
+> - [🌊 Playing Defence](../../README.md) — *2up*
+> - [📲 Press Matters](../../../README.md) — *3up*
+> - [🌓 In The Moment](../../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-07_

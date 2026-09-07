@@ -1,0 +1,68 @@
+{
+  "timeline": {
+    "bytes": 18888,
+    "fences": 2,
+    "h1": 1,
+    "footer": true,
+    "balanced_fences": true,
+    "constellations": true,
+    "stardust": true,
+    "crossrefs": true,
+    "breadcrumbs": true
+  },
+  "strategic_reviews": {
+    "bytes": 22094,
+    "fences": 10,
+    "h1": 1,
+    "footer": true,
+    "balanced_fences": true,
+    "constellations": true,
+    "stardust": true,
+    "crossrefs": true,
+    "breadcrumbs": true
+  },
+  "parliamentary_questions": {
+    "bytes": 19410,
+    "fences": 2,
+    "h1": 1,
+    "footer": true,
+    "balanced_fences": true,
+    "constellations": true,
+    "stardust": true,
+    "crossrefs": true,
+    "breadcrumbs": true
+  },
+  "current_reporting": {
+    "bytes": 19146,
+    "fences": 2,
+    "h1": 1,
+    "footer": true,
+    "balanced_fences": true,
+    "constellations": true,
+    "stardust": true,
+    "crossrefs": true,
+    "breadcrumbs": true
+  },
+  "source_bank": {
+    "bytes": 16873,
+    "fences": 2,
+    "h1": 1,
+    "footer": true,
+    "balanced_fences": true,
+    "constellations": true,
+    "stardust": true,
+    "crossrefs": true,
+    "breadcrumbs": true
+  },
+  "open_questions": {
+    "bytes": 25450,
+    "fences": 2,
+    "h1": 1,
+    "footer": true,
+    "balanced_fences": true,
+    "constellations": true,
+    "stardust": true,
+    "crossrefs": true,
+    "breadcrumbs": true
+  }
+}

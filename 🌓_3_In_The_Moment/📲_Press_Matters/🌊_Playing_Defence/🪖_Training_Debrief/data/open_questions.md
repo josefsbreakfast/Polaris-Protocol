@@ -1,13 +1,12 @@
-Yes. This one should be the research triage board, not another notes dump. Its job is to tell us what we still do not know, how important that gap is, what kind of evidence could answer it, and when to stop pretending a public answer is likely.
-
-I’d plan data/open_questions.md like this:
-
 # ❓ Open Questions
+**First created:** 2026-09-07 | **Last updated:** 2026-09-07  
+*Prioritised uncertainty register separating public-record gaps, expert questions, institutional clarification and appropriate security boundaries.*
+
 > **Status:** Research infrastructure / unresolved evidence register  
 > **Cluster:** `🪖_Training_Debrief`  
 > **Purpose:** Track unresolved questions, classify what kind of evidence could answer them, prevent speculation from hardening into fact, and identify which gaps materially affect later assessment or recommendations.
 ---
-## 🧭 What This File Is
+### 🧭 What This File Is
 This file is the cluster's active uncertainty register.
 It records questions that remain unresolved after reviewing:
 - the source bank;
@@ -28,7 +27,7 @@ Sometimes:
 > **the public record does not establish the answer**
 is itself the correct finding.
 ---
-# ⚠️ Core Rule
+## ⚠️ Core Rule
 Do not convert:
 > "We have not found evidence that X happened"
 into:
@@ -39,8 +38,8 @@ into:
 > "X is what happened."
 This file exists partly to stop plausible inference becoming accidental fact.
 ---
-# 🗂️ Question Classes
-## A. Answerable From Public Record
+## 🗂️ Question Classes
+### A. Answerable From Public Record
 Questions where the required information should plausibly exist in:
 - GOV.UK;
 - Parliament;
@@ -64,7 +63,7 @@ Examples:
 - What was the published Army strength at relevant dates?
 - What public explanation has MOD given for the September training reductions?
 ---
-## B. Requires Expert Scholarship
+### B. Requires Expert Scholarship
 Questions where factual material may be public but interpretation requires specialist literature.
 Priority areas:
 - collective-training effectiveness;
@@ -89,7 +88,7 @@ Examples:
 - What kinds of readiness measures best predict actual operational performance?
 - When does repeated theatre-specific expertise become maladaptive overfitting?
 ---
-## C. Requires Government / Institutional Clarification
+### C. Requires Government / Institutional Clarification
 Questions that cannot safely be answered from the public record alone because they concern internal decisions, briefings, risk acceptance or unpublished analysis.
 Potential respondents include:
 - MOD;
@@ -117,7 +116,7 @@ These are prime candidates for:
 - future interviews;
 - official review.
 ---
-## D. Probably Not Knowable Publicly
+### D. Probably Not Knowable Publicly
 Questions where disclosure would plausibly reveal:
 - classified readiness information;
 - operational vulnerabilities;
@@ -139,8 +138,8 @@ The analytical response should be:
 > **Publicly unavailable / appropriately restricted**
 rather than speculative reconstruction.
 ---
-# 🎯 Priority: Current £30m Case
-## Decision Origin
+## 🎯 Priority: Current £30m Case
+### Decision Origin
 - [ ] When was the requirement to find approximately £30m first identified?
 - [ ] Was £30m the original savings requirement or the eventual total?
 - [ ] Which command or budget holder owned the problem?
@@ -149,7 +148,7 @@ rather than speculative reconstruction.
 - [ ] Was the decision intended as temporary from the outset?
 **Likely class:** Government clarification / public record partly available.
 ---
-## Alternatives Considered
+### Alternatives Considered
 - [ ] What other savings options were considered?
 - [ ] Were contracts reviewed?
 - [ ] Were procurement schedules reviewed?
@@ -161,7 +160,7 @@ rather than speculative reconstruction.
 - [ ] Were savings distributed across services before the Army-specific measure?
 **Likely class:** Government clarification.
 ---
-## Training Scope
+### Training Scope
 - [ ] What exact activities are affected?
 - [ ] What does "non-essential" mean operationally?
 - [ ] What size threshold applies?
@@ -173,7 +172,7 @@ rather than speculative reconstruction.
 - [ ] How long is the restriction expected to last?
 **Likely class:** Public record + MOD clarification.
 ---
-## Readiness Consequences
+### Readiness Consequences
 - [ ] What readiness assessment was conducted?
 - [ ] Which capabilities are expected to degrade?
 - [ ] How quickly would degradation occur?
@@ -183,8 +182,8 @@ rather than speculative reconstruction.
 - [ ] Are deployment-ready formations genuinely insulated from downstream effects?
 **Likely class:** Expert scholarship + some government clarification.
 ---
-# 👥 Ministerial Awareness
-## John Healey
+## 👥 Ministerial Awareness
+### John Healey
 - [ ] When did he first become aware of the underlying Defence affordability problem?
 - [ ] Did he know specifically that collective training was vulnerable?
 - [ ] Did he know of the £30m requirement before leaving Defence?
@@ -193,7 +192,7 @@ rather than speculative reconstruction.
 - [ ] What relevant knowledge did he carry into the Treasury?
 **Important:** Do not infer personal knowledge from office alone.
 ---
-## Wes Streeting
+### Wes Streeting
 - [ ] When was he first briefed?
 - [ ] Was the decision effectively complete before he arrived?
 - [ ] Did he formally approve, inherit, modify or merely implement it?
@@ -201,19 +200,19 @@ rather than speculative reconstruction.
 - [ ] What readiness advice has he received?
 - [ ] Has he commissioned a review?
 ---
-## Andy Burnham
+### Andy Burnham
 - [ ] When did the Prime Minister become aware?
 - [ ] Was the issue escalated to No.10 before media reporting?
 - [ ] Does No.10 consider the decision compatible with SDR commitments?
 - [ ] Has the PM requested mitigation or review?
 ---
-## Al Carns / Other Defence Ministers
+### Al Carns / Other Defence Ministers
 - [ ] What did Armed Forces ministers know?
 - [ ] What parliamentary answers were given under their authority?
 - [ ] Did they receive earlier warnings about training affordability?
 - [ ] What role, if any, did they have in escalation?
 ---
-# 🪖 Army Command Questions
+## 🪖 Army Command Questions
 - [ ] What does Army Command consider the minimum credible collective-training programme?
 - [ ] Which activities would Army leadership cut first if forced to save money?
 - [ ] Which activities would they protect at almost any cost?
@@ -225,7 +224,7 @@ rather than speculative reconstruction.
 - [ ] Which reforms could be achieved with little new money?
 - [ ] Which apparently cheap changes would impose hidden capability costs?
 ---
-# ⚓ Royal Navy Questions
+## ⚓ Royal Navy Questions
 - [ ] What training pressures has the Navy faced during the same period?
 - [ ] Were Navy reductions materially smaller?
 - [ ] If so, why?
@@ -234,14 +233,14 @@ rather than speculative reconstruction.
 - [ ] What training / personnel bottlenecks matter most?
 - [ ] Which capabilities should be more joint?
 ---
-# ✈️ RAF Questions
+## ✈️ RAF Questions
 - [ ] What equivalent training changes has the RAF experienced?
 - [ ] How does simulator use alter the live/synthetic balance?
 - [ ] Which aircrew and groundcrew skills require live collective practice?
 - [ ] What training is contractually embedded and therefore less flexible?
 - [ ] Are RAF reductions smaller because of different cost structures, strategic priority, or other reasons?
 ---
-# 🔗 Joint / Inter-Service Questions
+## 🔗 Joint / Inter-Service Questions
 - [ ] Which training capabilities should be genuinely joint?
 - [ ] Which are currently duplicated unnecessarily?
 - [ ] Which apparent duplication is actually resilience?
@@ -251,7 +250,7 @@ rather than speculative reconstruction.
 - [ ] What does actual tri-service interoperability require in training terms?
 - [ ] Which assumptions do the services make about one another that should be tested?
 ---
-# 🔭 "What Does Ready Look Like?" Questions
+## 🔭 "What Does Ready Look Like?" Questions
 - [ ] What functional outputs does government expect from the Armed Forces?
 - [ ] At what notice?
 - [ ] At what scale?
@@ -268,7 +267,7 @@ rather than speculative reconstruction.
 - [ ] What reserve mobilisation is assumed?
 - [ ] What evidence would demonstrate that these outputs actually exist?
 ---
-# 🧾 Blank-Cheque Exercise Questions
+## 🧾 Blank-Cheque Exercise Questions
 For each service:
 - [ ] What would an unconstrained training system look like?
 - [ ] What personnel structure would support it?
@@ -284,7 +283,7 @@ For each service:
 - [ ] What does ideal / good / minimum credible cost?
 - [ ] What decisions must be taken by 2030 to preserve capability in 2050–2076?
 ---
-# ⚙️ Feedback / Institutional Learning Questions
+## ⚙️ Feedback / Institutional Learning Questions
 - [ ] How are lessons formally transmitted from operations into training?
 - [ ] How quickly can training establishments change programmes?
 - [ ] Who can veto those changes?
@@ -297,7 +296,7 @@ For each service:
 - [ ] How often do strategic reviews rediscover earlier recommendations?
 - [ ] What is the average feedback latency between operational problem and institutional correction?
 ---
-# 🪟 Transparency / Public Trust Questions
+## 🪟 Transparency / Public Trust Questions
 - [ ] Which lessons documents remain unpublished?
 - [ ] Which were eventually released through FOI?
 - [ ] How often has embarrassment been alleged as a reason for resistance to disclosure?
@@ -308,7 +307,7 @@ For each service:
 - [ ] Does secrecy create a sample in which failures become more visible than competence?
 - [ ] How could MOD safely provide more evidence of professional learning?
 ---
-# 🩸 Human Consequences Questions
+## 🩸 Human Consequences Questions
 - [ ] What is the long-term burden of catastrophic combat injury?
 - [ ] What does Defence spend on rehabilitation and prosthetic provision?
 - [ ] How have survival rates changed?
@@ -319,7 +318,7 @@ For each service:
 - [ ] What happens to institutional knowledge when injured or medically discharged personnel leave?
 - [ ] How are veterans' lessons reintegrated into training and doctrine?
 ---
-# 🦾 Dual-Use / Rehabilitation Technology Questions
+## 🦾 Dual-Use / Rehabilitation Technology Questions
 - [ ] Which Defence-funded rehabilitation technologies later reach civilian systems?
 - [ ] Which do not?
 - [ ] What technology-transfer mechanisms exist?
@@ -327,7 +326,7 @@ For each service:
 - [ ] What benefit-sharing or civilian-access pathways follow?
 - [ ] Does "dual use" operate symmetrically between civilian and military systems?
 ---
-# 💷 Money / Budget Architecture Questions
+## 💷 Money / Budget Architecture Questions
 - [ ] Which Army training expenditure sits within flexible operating budgets?
 - [ ] Which competing programmes are contractually or politically protected?
 - [ ] How much discretion does Army Command actually possess?
@@ -339,7 +338,7 @@ For each service:
 - [ ] What would restoring the activity actually cost?
 - [ ] Would delayed training create higher future costs?
 ---
-# 📰 Media Questions
+## 📰 Media Questions
 - [ ] Which outlet first reported the current decision?
 - [ ] Which claims came from the same underlying source?
 - [ ] What did Forces News independently establish?
@@ -353,7 +352,7 @@ For each service:
 - [ ] Did reporting explain SDR/DIP context?
 - [ ] What important context was consistently omitted?
 ---
-# 📚 Strategic Review Questions
+## 📚 Strategic Review Questions
 These should be generated from `strategic_reviews.md` rather than guessed in advance.
 Likely examples:
 - [ ] Which recurring recommendations appear across reviews?
@@ -365,7 +364,7 @@ Likely examples:
 - [ ] Did technology repeatedly function as an assumed substitute for personnel or mass?
 - [ ] Which enabling capabilities were repeatedly reduced because they did not appear "front line"?
 ---
-# 📏 Prioritisation
+## 📏 Prioritisation
 Every open question should receive a priority.
 ```yaml
 priority:
@@ -380,7 +379,9 @@ priority:
   low: >
     Interesting but not required for the main assessment.
 
-⸻
+```
+
+---
 
 🧪 Research Status
 
@@ -397,7 +398,7 @@ research_status:
   - "probably_not_publicly_answerable"
   - "closed_no_longer_relevant"
 
-⸻
+---
 
 🧾 Standard Question Record
 
@@ -439,7 +440,7 @@ open_question:
   linked_nodes: []
   last_reviewed:
 
-⸻
+---
 
 🚦 Question Dashboard
 
@@ -450,7 +451,7 @@ ID	Question	Category	Priority	Status	Current confidence
 
 This gives us a quick view without reading the whole file.
 
-⸻
+---
 
 🔐 Security Boundary
 
@@ -472,7 +473,7 @@ This level of detail is neither required for the public-interest question nor ap
 
 The cluster is interested in governance and functional readiness, not adversary-useful targeting information.
 
-⸻
+---
 
 🤖 Machine-Readable Research Specification
 
@@ -562,7 +563,7 @@ open_questions_research:
     it, how important it is, and whether the cluster can reach a responsible
     assessment without it.
 
-⸻
+---
 
 🧿 A Useful Discipline
 
@@ -589,4 +590,38 @@ from:
 
 “no, the public does not need the exact classified readiness state of a named formation to have a legitimate conversation about whether collective training matters.”
 
-And once these five /data/ files are populated, we should have enough evidential structure to write 🩺_presenting_complaint.md without letting either today’s outrage or today’s jokes determine the diagnosis.
+---
+
+## 🌌 Constellations
+❓ 🔎 🧠 🏛️ 🔐 — uncertainty; research triage; expert interpretation; institutional clarification; security boundaries.
+
+---
+
+## ✨ Stardust
+research gaps, uncertainty register, military readiness, defence governance, expert evidence, government clarification, security boundaries, research triage
+
+---
+
+## 🏮 Footer
+
+*❓ Open Questions* is a living research-infrastructure node of the **Polaris Protocol**.  
+Prioritised uncertainty register separating public-record gaps, expert questions, institutional clarification and appropriate security boundaries.
+
+> 📡 Cross-references:
+>
+> - [🗃️ Source Bank](./source_bank.md) — *available evidence and outstanding source requirements*
+> - [🏛️ Parliamentary Questions](./parliamentary_questions.md) — *questions that require public governance clarification*
+> - [🧠 Assessment and Differential](../🧠_assessment_and_differential.md) — *keeps unresolved possibilities from hardening into diagnosis*
+> - [🚑 Immediate Management](../🚑_immediate_management.md) — *routes critical unknowns into immediate scrutiny*
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](../README.md) — *1up*
+> - [🌊 Playing Defence](../../README.md) — *2up*
+> - [📲 Press Matters](../../../README.md) — *3up*
+> - [🌓 In The Moment](../../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-07_
