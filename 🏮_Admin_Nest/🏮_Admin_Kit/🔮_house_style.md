@@ -1,6 +1,6 @@
 # 🔮 House Style  
-**Version:** 1.8  
-**First created:** 2025-08-08 | **Last updated:** 2026-05-25  
+**Version:** 1.9  
+**First created:** 2025-08-08 | **Last updated:** 2026-09-07  
 *Standard Formatting & Style Guide for Polaris Protocol*  
 
 ---
@@ -192,7 +192,7 @@ Every file must contain:
 
 ## 6. **Constellations Block**  
 
-Every file includes a **Constellations** section before the Footer.
+Every file includes a **Constellations** section before the Stardust block.
 
 ### Purpose  
 
@@ -204,31 +204,26 @@ The Constellations block:
 
 Optional media references may appear here.
 
----
-
 ### Required Structure  
 
 ```markdown
 ## 🌌 Constellations
+🪞 ✂️ 🧩 🧠 🧿 — diagnostic register; narrative fracture mapping; containment visibility analysis.
+
+---
 ```
 
 ### Format  
 
 - 2–5 emojis from the Visual Palette.  
-- One short explanatory line.
-
-### Example  
-
-```markdown
-## 🌌 Constellations  
-🪞 ✂️ 🧩 🧠 🧿 — diagnostic register; narrative fracture mapping; containment visibility analysis.
-```
+- One short explanatory line.  
+- Follow the Constellations block with a horizontal rule (`---`) before Stardust.
 
 ---
 
 ## 7. **Stardust Block**  
 
-Every file includes a Stardust block immediately before the Footer.
+Every file includes a Stardust block after Constellations and immediately before the Footer.
 
 ### Purpose  
 
@@ -239,12 +234,13 @@ The Stardust block functions as:
 - search support,
 - and navigation infrastructure.
 
----
-
 ### Required Structure  
 
 ```markdown
 ## ✨ Stardust
+containment, narrative governance, visibility management, british systems culture, institutional pacing
+
+---
 ```
 
 ### Format Rules  
@@ -253,14 +249,8 @@ The Stardust block functions as:
 - No emojis.  
 - Comma-separated only.  
 - Usually 5–10 entries.  
-- Ordered from broad thematic → specific technical.
-
-### Example  
-
-```markdown
-## ✨ Stardust  
-containment, narrative governance, visibility management, british systems culture, institutional pacing
-```
+- Ordered from broad thematic → specific technical.  
+- Follow the Stardust block with a horizontal rule (`---`) before the Footer.
 
 ---
 
@@ -294,6 +284,13 @@ Written in documentary or archival voice.
 >
 > - [Related Node or Folder](../path/) — *short functional description*  
 > - [Related Node or Folder](../path/) — *short functional description*  
+>  
+> 🏮 Return To:
+>
+> - [Immediate Parent](./README.md) — *1up*  
+> - [Parent Cluster](../README.md) — *2up*  
+> - [Higher Cluster](../../README.md) — *3up*  
+> - [🌌 Polaris Protocol — Root](../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
@@ -309,6 +306,11 @@ _Last updated: YYYY-MM-DD_
   - `## 🏮 Footer`
 - Footer must contain at least one cross-reference block.  
 - Cross-references should explain function — not merely repeat filenames.  
+- After cross-references, include a `🏮 Return To:` breadcrumb appendix.  
+- Breadcrumbs are structural navigation rather than semantic cross-links.  
+- Breadcrumbs should begin with the immediate parent and climb through each relevant ancestor to the Polaris Protocol root.  
+- Label breadcrumb depth as `1up`, `2up`, `3up`, and so on; label the repository root as `root`.  
+- Use relative README paths for breadcrumb destinations.  
 - The sovereignty line should remain unchanged unless a project explicitly defines an alternative.  
 - `_Last updated:_` line must appear at the absolute end of the file.
 
@@ -399,4 +401,4 @@ This document functions as the canonical formatting and organisational reference
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-25_
+_Last updated: 2026-09-07_
