@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-07 17:23:26 UTC_
+_Generated on 2026-09-07 17:35:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3624,9 +3624,28 @@ _Generated on 2026-09-07 17:23:26 UTC_
         - [`🧿_safe_detail_no_fog.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🧿_safe_detail_no_fog.md)
         - [`🪖_morale_for_islanders.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🪖_morale_for_islanders.md)
       - [**🪖_Training_Debrief/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/)
+        - [**data/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/)
+          - [`current_reporting.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/current_reporting.md)
+          - [`open_questions.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/open_questions.md)
+          - [`parliamentary_questions.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/parliamentary_questions.md)
+          - [`source_bank.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/source_bank.md)
+          - [`strategic_reviews.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/strategic_reviews.md)
+          - [`timeline.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/timeline.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/notes.txt)
+        - [`⚙️_the_feedback_machine.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/⚙️_the_feedback_machine.md)
+        - [`💊_long_term_management.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/💊_long_term_management.md)
+        - [`💷_thirty_million_pounds.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/💷_thirty_million_pounds.md)
+        - [`📋_history_of_presenting_complaint.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/📋_history_of_presenting_complaint.md)
+        - [`🔬_tests_and_investigations.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/🔬_tests_and_investigations.md)
+        - [`🔭_what_does_ready_actually_look_like.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/🔭_what_does_ready_actually_look_like.md)
+        - [`🚑_immediate_management.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/🚑_immediate_management.md)
+        - [`🛡️_prevention_and_resilience.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/🛡️_prevention_and_resilience.md)
+        - [`🧠_assessment_and_differential.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/🧠_assessment_and_differential.md)
+        - [`🧾_the_blank_cheque_exercise.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/🧾_the_blank_cheque_exercise.md)
         - [`🩺_presenting_complaint.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/🩺_presenting_complaint.md)
+        - [`🪖_what_training_is_for.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/🪖_what_training_is_for.md)
+        - [`🪟_transparency_and_earned_loyalty.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/🪟_transparency_and_earned_loyalty.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/README.md)
     - [**🌱_Prosocial_Roots/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/)
       - [**🌸_Digitally_Women/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/)
