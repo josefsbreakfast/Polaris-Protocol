@@ -628,6 +628,15 @@ It maps how ordinary male interests can intersect with commercial funnels, platf
 > - [🪞 The Backlash Was Also Networked](./🪞_the_backlash_was_also_networked.md) — *historical networked backlash*
 > - [🌱 Thanks, Algorithm](../🌱_Thanks_Algorithm/) — *misogyny, manosphere ecosystems and platform distribution*
 > - [🛸 LOOK UP](../🛸_LOOK_UP/) — *early warning, risk signals and information movement*
+>  
+> 🏮 Return To:
+>
+> - [📖 Previously On The Internet](./README.md) — *1up*
+> - [🌸 Digitally Women](../README.md) — *2up*
+> - [🌱 Prosocial Roots](../../README.md) — *3up*
+> - [📲 Press Matters](../../../README.md) — *4up*
+> - [🌓 In The Moment](../../../../README.md) — *5up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
