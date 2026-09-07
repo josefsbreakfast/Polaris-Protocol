@@ -1,6 +1,5 @@
-# 💾 Women Have Always Been Online
-
-**First created:** 2026-09-05 | **Last updated:** 2026-09-05  
+# 💾 Women Have Always Been Online  
+**First created:** 2026-09-05 | **Last updated:** 2026-09-07  
 *Women did not arrive late to the internet. The history keeps forgetting where they were.*
 
 ---
@@ -599,4 +598,4 @@ It traces women’s participation across successive digital architectures and as
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-05_
+_Last updated: 2026-09-07_
