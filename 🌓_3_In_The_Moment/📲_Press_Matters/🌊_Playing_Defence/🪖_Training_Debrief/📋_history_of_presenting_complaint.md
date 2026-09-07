@@ -1,8 +1,11 @@
-# 📋 History of Presenting Complaint
-**First created:** 2026-09-07 | **Last updated:** 2026-09-07
-*A longitudinal history of British force design, operational learning, affordability pressure and the recurring problem of sustaining readiness through strategic change.*
+# 📋 History of Presenting Complaint  
+**First created:** 2026-09-07 | **Last updated:** 2026-09-08  
+*A longitudinal history of British force design, operational learning, affordability pressure and the recurring problem of sustaining readiness through strategic change.*  
+
 ---
-## 📋 History of presenting complaint
+
+## 📋 History of presenting complaint  
+
 The September 2026 Army collective-training dispute is not an isolated event.
 It sits at the end of a much longer sequence in which Britain has repeatedly:
 1. reassessed the strategic environment;
@@ -831,4 +834,4 @@ It places the current training dispute inside the longer history of British forc
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-07_
+_Last updated: 2026-09-08_
