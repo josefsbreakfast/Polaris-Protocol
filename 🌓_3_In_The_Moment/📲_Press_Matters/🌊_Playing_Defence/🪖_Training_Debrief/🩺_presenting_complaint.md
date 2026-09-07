@@ -1,8 +1,7 @@
 # 🩺 Presenting Complaint
+**First created:** 2026-09-07 | **Last updated:** 2026-09-07
+*The immediate Army collective-training dispute: what is reported, what remains uncertain, and why a small saving raises a larger readiness question.*
 
-**Status:** Working analysis  
-**Cluster:** `🪖_Training_Debrief`  
-**Path:** `🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/🩺_presenting_complaint.md`
 
 ---
 
@@ -405,42 +404,38 @@ Everyone needs to focus for ten minutes.
 
 ---
 
-## 📡 Next
-
-Continue to:
-
-- `📋_history_of_presenting_complaint.md` — how Britain arrived here;
-- `🔬_tests_and_investigations.md` — what must be established;
-- `🧠_assessment_and_differential.md` — competing systemic explanations;
-- `💷_thirty_million_pounds.md` — reconstruction of the current decision;
-- `🪖_what_training_is_for.md` — evidence on collective competence and preparation;
-- `⚙️_the_feedback_machine.md` — how operational reality should travel through Defence;
-- `🔭_what_does_ready_actually_look_like.md` — functional definition of readiness.
-
----
-
-## 📚 Initial sources
-
-- Simon Akam, *The Changing of the Guard: The British Army Since 9/11*.
-- [The Times: “British Army ordered to suspend major war games to save money”](https://www.thetimes.com/uk/defence/article/british-army-training-suspended-money-d7tzxljrl).
-- [Forces News: “Army shifts training focus in order to concentrate on counter-drone warfare”](https://www.forcesnews.com/services/army/army-shifts-training-focus-order-concentrate-counter-drone-warfare).
-- [Forces News: “Defence Secretary launches AI battle lab to help British Army prepare for modern warfare”](https://www.forcesnews.com/services/army/defence-secretary-launches-ai-battle-lab-help-british-army-prepare-modern-warfare).
-- [GOV.UK: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad).
-
-Further evidential material should be drawn through the cluster's `/data/` layer rather than silently added to this node.
-
 ---
 
 ## 🌌 Constellations
-
 🪖 ⚙️ 💷 🩺 🔬 🩸 — collective training; readiness; force generation; Defence affordability; institutional learning; occupational risk.
 
 ---
 
 ## ✨ Stardust
-
 British Army, collective training, readiness, £30 million, Defence affordability, SDR 2025, force generation, military training, synthetic training, operational risk, institutional learning
 
 ---
 
-*The presenting complaint is not the diagnosis.*
+## 🏮 Footer
+
+*🩺 Presenting Complaint* is a living node of the **Polaris Protocol**.  
+It records the immediate September 2026 complaint and separates the reported training reduction from the larger diagnosis still to be established.
+
+> 📡 Cross-references:
+>
+> - [🪖 What Training Is For](./🪖_what_training_is_for.md) — *collective competence and the function of training*
+> - [⚙️ The Feedback Machine](./⚙️_the_feedback_machine.md) — *institutional learning and signal transmission*
+> - [🔭 What Does Ready Actually Look Like](./🔭_what_does_ready_actually_look_like.md) — *functional readiness outputs*
+> - [💷 Thirty Million Pounds](./💷_thirty_million_pounds.md) — *the immediate affordability decision*
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-07_

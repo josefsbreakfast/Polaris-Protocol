@@ -75,7 +75,7 @@ Nor:
 
 ---
 
-# 🎯 1. Readiness is an output
+## 🎯 1. Readiness is an output
 
 A Defence budget is not readiness.
 
@@ -99,7 +99,7 @@ That is the output.
 
 ---
 
-# 🧩 2. Readiness is a system property
+## 🧩 2. Readiness is a system property
 
 At a deliberately simplified level:
 
@@ -143,7 +143,7 @@ Which means:
 
 ---
 
-# 🧠 3. Readiness therefore needs multiple professional lenses
+## 🧠 3. Readiness therefore needs multiple professional lenses
 
 An engineer may see:
 
@@ -194,7 +194,7 @@ The readiness picture is produced by:
 
 ---
 
-# 🧭 4. Specialisation is necessary
+## 🧭 4. Specialisation is necessary
 
 The answer is not to create senior leaders with no specialism.
 
@@ -227,7 +227,7 @@ The question is:
 
 ---
 
-# ⚖️ 5. Counter-specialisation is governance
+## ⚖️ 5. Counter-specialisation is governance
 
 A useful rule:
 
@@ -251,7 +251,7 @@ It is preventing one person's professional instinct from quietly becoming:
 
 ---
 
-# 🛩️ 6. The catalogue problem
+## 🛩️ 6. The catalogue problem
 
 Some capability is easy to see.
 
@@ -296,7 +296,7 @@ That makes readiness particularly vulnerable inside organisations whose stronges
 
 ---
 
-# 🪖 7. Perishable capability still counts as capability
+## 🪖 7. Perishable capability still counts as capability
 
 Suppose Britain buys:
 
@@ -334,7 +334,7 @@ That asymmetry matters.
 
 ---
 
-# 🫙 8. You cannot put readiness on the shelf
+## 🫙 8. You cannot put readiness on the shelf
 
 A missile can remain in inventory.
 
@@ -366,7 +366,7 @@ Because readiness is perishable by design.
 
 ---
 
-# 📉 9. Decay should be part of the readiness model
+## 📉 9. Decay should be part of the readiness model
 
 For each capability ask:
 
@@ -392,7 +392,7 @@ The relevant question becomes:
 
 ---
 
-# 🎯 10. Start with the task
+## 🎯 10. Start with the task
 
 Before discussing force size, ask:
 
@@ -422,7 +422,7 @@ That is precisely why the list matters.
 
 ---
 
-# 🗺️ 11. Strategy must become executable
+## 🗺️ 11. Strategy must become executable
 
 A political commitment is not yet military capability.
 
@@ -456,7 +456,7 @@ It would be preferable if government did so first.
 
 ---
 
-# 📐 12. Every readiness requirement needs dimensions
+## 📐 12. Every readiness requirement needs dimensions
 
 For each task specify:
 
@@ -496,7 +496,7 @@ remains too vague to govern.
 
 ---
 
-# 🪜 13. Define the organisational level
+## 🪜 13. Define the organisational level
 
 Readiness can exist at several layers.
 
@@ -528,7 +528,7 @@ A system can be ready at one layer and unready at another.
 
 ---
 
-# 🪖 14. Individual competence does not aggregate automatically
+## 🪖 14. Individual competence does not aggregate automatically
 
 Suppose:
 
@@ -559,7 +559,7 @@ That relationship has to be practised.
 
 ---
 
-# ⚓ 15. Platform ownership is not availability
+## ⚓ 15. Platform ownership is not availability
 
 The same principle applies at sea.
 
@@ -590,7 +590,7 @@ The output is:
 
 ---
 
-# ✈️ 16. Aircraft count is not usable air power
+## ✈️ 16. Aircraft count is not usable air power
 
 Likewise:
 
@@ -612,7 +612,7 @@ The functional question is:
 
 ---
 
-# 🔗 17. Build the dependency graph
+## 🔗 17. Build the dependency graph
 
 For every major task:
 
@@ -643,7 +643,7 @@ That question often tells us more than the headline force number.
 
 ---
 
-# ⏱️ 18. Readiness contains time
+## ⏱️ 18. Readiness contains time
 
 A force deployable in:
 
@@ -675,7 +675,7 @@ Time is capability.
 
 ---
 
-# ⌛ 19. Available eventually is a different capability
+## ⌛ 19. Available eventually is a different capability
 
 Suppose Britain can generate a formation after:
 
@@ -697,7 +697,7 @@ It means:
 
 ---
 
-# 📆 20. Attach a clock
+## 📆 20. Attach a clock
 
 A useful readiness framework might distinguish:
 
@@ -726,7 +726,7 @@ to:
 
 ---
 
-# ⌛ 21. Duration matters too
+## ⌛ 21. Duration matters too
 
 Another common mistake is asking whether the force can:
 
@@ -754,7 +754,7 @@ A force prepared for an excellent first week may still be poorly prepared for a 
 
 ---
 
-# 🔁 22. The second force matters
+## 🔁 22. The second force matters
 
 If the first formation deploys:
 
@@ -774,7 +774,7 @@ It includes:
 
 ---
 
-# 🧯 23. Regeneration is readiness
+## 🧯 23. Regeneration is readiness
 
 Therefore:
 
@@ -798,7 +798,7 @@ readiness is consumable.
 
 ---
 
-# 🧑‍🏫 24. Instructor capacity is readiness
+## 🎓 24. Instructor capacity is readiness
 
 If Britain needs to expand the force, the limiting variable may not be:
 
@@ -822,7 +822,7 @@ A country cannot mobilise trained capability faster than its force-generation sy
 
 ---
 
-# 🏚️ 25. Estate is readiness
+## 🏚️ 25. Estate is readiness
 
 A unit may exist.
 
@@ -850,7 +850,7 @@ Not:
 
 ---
 
-# 🧰 26. Maintenance is readiness
+## 🧰 26. Maintenance is readiness
 
 Sophisticated equipment without maintenance depth is:
 
@@ -869,7 +869,7 @@ The glamorous platform cannot escape the workshop.
 
 ---
 
-# 📦 27. Stockpiles are readiness
+## 📦 27. Stockpiles are readiness
 
 Ask:
 
@@ -891,7 +891,7 @@ But Defence itself must know whether:
 
 ---
 
-# 🏭 28. Production is readiness too
+## 🏭 28. Production is readiness too
 
 Stockpiles answer:
 
@@ -915,7 +915,7 @@ A large stockpile without replenishment eventually becomes a countdown.
 
 ---
 
-# 🩺 29. Medical readiness is operational readiness
+## 🩺 29. Medical readiness is operational readiness
 
 A credible force requires:
 
@@ -936,7 +936,7 @@ It is part of the fighting system.
 
 ---
 
-# 🩸 30. Casualty assumptions belong in force planning
+## 🩸 30. Casualty assumptions belong in force planning
 
 For every serious force plan:
 
@@ -955,7 +955,7 @@ The arithmetic cannot remain undone.
 
 ---
 
-# 🧑‍🔧 31. Personnel establishment is not readiness
+## 🔧 31. Personnel establishment is not readiness
 
 A headline establishment does not tell us:
 
@@ -982,7 +982,7 @@ Readiness therefore needs:
 
 ---
 
-# 🏠 32. Retention is readiness
+## 🏠 32. Retention is readiness
 
 If a specialist takes:
 
@@ -998,7 +998,7 @@ People policy is not separate from military capability.
 
 ---
 
-# 🤝 33. Allied readiness is real readiness
+## 🤝 33. Allied readiness is real readiness
 
 Britain's strategy is deliberately alliance-heavy.
 
@@ -1021,7 +1021,7 @@ It is an operational relationship.
 
 ---
 
-# 🌐 34. NATO membership is not interoperability
+## 🌐 34. NATO membership is not interoperability
 
 Two NATO forces do not automatically have:
 
@@ -1040,7 +1040,7 @@ Not something treaties automatically produce.
 
 ---
 
-# 🧩 35. Joint readiness matters
+## 🧩 35. Joint readiness matters
 
 Britain increasingly describes an integrated force.
 
@@ -1065,7 +1065,7 @@ integration remains partly theoretical.
 
 ---
 
-# 📡 36. Communications are readiness
+## 📡 36. Communications are readiness
 
 A force which cannot communicate under:
 
@@ -1086,7 +1086,7 @@ A network which works only in peacetime conditions is not sufficient evidence of
 
 ---
 
-# 🧠 37. Command itself must be ready
+## 🧠 37. Command itself must be ready
 
 Headquarters need:
 
@@ -1106,7 +1106,7 @@ Not:
 
 ---
 
-# 🧪 38. Exercises should break things
+## 🧪 38. Exercises should break things
 
 A useful exercise may deliberately:
 
@@ -1125,7 +1125,7 @@ It is to discover whether:
 
 ---
 
-# 🛡️ 39. Readiness includes degraded operation
+## 🛡️ 39. Readiness includes degraded operation
 
 Perfect conditions should not define the standard.
 
@@ -1151,7 +1151,7 @@ It does not immediately become:
 
 ---
 
-# 🪜 40. Use a functional readiness ladder
+## 🪜 40. Use a functional readiness ladder
 
 ### Level 5 — resilient
 
@@ -1183,7 +1183,7 @@ The framework should not.
 
 ---
 
-# 🎯 41. Objectives before indicators
+## 🎯 41. Objectives before indicators
 
 Start with:
 
@@ -1210,7 +1210,7 @@ Not before.
 
 ---
 
-# 📊 42. KPIs are evidence, not capability
+## 📊 42. KPIs are evidence, not capability
 
 Useful indicators may include:
 
@@ -1236,7 +1236,7 @@ A green metric can coexist with a broken system if the wrong thing is being meas
 
 ---
 
-# 💷 43. Spending is an input
+## 💷 43. Spending is an input
 
 Likewise:
 
@@ -1261,7 +1261,7 @@ the investment case is incomplete.
 
 ---
 
-# 🛒 44. Procurement needs operational endpoints
+## 🛒 44. Procurement needs operational endpoints
 
 Instead of:
 
@@ -1291,7 +1291,7 @@ Procurement should not measure procurement.
 
 ---
 
-# 🪖 45. Training needs operational endpoints too
+## 🪖 45. Training needs operational endpoints too
 
 Instead of:
 
@@ -1321,7 +1321,7 @@ Activity is not output.
 
 ---
 
-# ⚖️ 46. This is where senior incentives matter
+## ⚖️ 46. This is where senior incentives matter
 
 The post-2025 Defence architecture deliberately strengthens CDS authority.
 
@@ -1343,7 +1343,7 @@ A strong centre is only as intelligent as the signals it receives.
 
 ---
 
-# 🧭 47. The current CDS has three stated priorities
+## 🧭 47. The current CDS has three stated priorities
 
 Sir Richard Knighton has publicly framed his priorities around:
 
@@ -1388,7 +1388,7 @@ The governance system needs to make those tensions visible.
 
 ---
 
-# 🪞 48. Do not infer preference from biography
+## 🪞 48. Do not infer preference from biography
 
 Knighton's engineering, RAF and capability background does **not** establish that he undervalues:
 
@@ -1412,7 +1412,7 @@ Not a personality diagnosis.
 
 ---
 
-# 🪖 49. VCDS is an important counterweight
+## 🪖 49. VCDS is an important counterweight
 
 The current Vice Chief of the Defence Staff, General Dame Sharon Nesmith, is an Army officer.
 
@@ -1441,7 +1441,7 @@ The better question is:
 
 ---
 
-# 🔀 50. Service Chiefs are sensors as well as commanders
+## 🔀 50. Service Chiefs are sensors as well as commanders
 
 The new structure puts Service Chiefs under CDS command.
 
@@ -1475,7 +1475,7 @@ Not:
 
 ---
 
-# 🧠 51. Disagreement is readiness information
+## 🧠 51. Disagreement is readiness information
 
 If CDS, VCDS and a Service Chief disagree about readiness:
 
@@ -1499,7 +1499,7 @@ is much more worrying.
 
 ---
 
-# 🛡️ 52. Somebody needs permission to confiscate the catalogue
+## 🛡️ 52. Somebody needs permission to confiscate the catalogue
 
 Every senior specialist should have people around them authorised to say:
 
@@ -1523,7 +1523,7 @@ Like shiny things all you want.
 
 ---
 
-# 🧠 53. Austerity can survive inside people's heads
+## 🧠 53. Austerity can survive inside people's heads
 
 There is another readiness problem.
 
@@ -1551,7 +1551,7 @@ The requirement is then compressed before ministers ever see it.
 
 ---
 
-# 🧾 54. Do not pre-austerise professional advice
+## 🧾 54. Do not pre-austerise professional advice
 
 A genuine Defence reset therefore requires permission from civilian leadership:
 
@@ -1577,7 +1577,7 @@ That is one purpose of:
 
 ---
 
-# 🤝 55. Permission requires backing
+## 🤝 55. Permission requires backing
 
 This cannot be rhetorical.
 
@@ -1605,7 +1605,7 @@ But:
 
 ---
 
-# 🧠 56. Readiness needs a protected negative channel
+## 🧠 56. Readiness needs a protected negative channel
 
 Senior governance should preserve a route for saying:
 
@@ -1640,7 +1640,7 @@ becomes part of readiness architecture.
 
 ---
 
-# 📐 57. Define the minimum credible state
+## 📐 57. Define the minimum credible state
 
 For each major function distinguish:
 
@@ -1666,7 +1666,7 @@ It identifies:
 
 ---
 
-# 🧮 58. Then show the political choice
+## 🧮 58. Then show the political choice
 
 A mature submission should say:
 
@@ -1688,7 +1688,7 @@ The political system has made a choice with the military consequence visible.
 
 ---
 
-# 🧪 59. Readiness must be demonstrated
+## 🧪 59. Readiness must be demonstrated
 
 A force should periodically prove major functions through:
 
@@ -1711,7 +1711,7 @@ the stronger the evidence.
 
 ---
 
-# 🪖 60. Collective training is both production and measurement
+## 🪖 60. Collective training is both production and measurement
 
 A large exercise does two things.
 
@@ -1739,7 +1739,7 @@ That is why training should not be treated simply as discretionary activity.
 
 ---
 
-# 🩻 61. Near misses are evidence
+## 🩻 61. Near misses are evidence
 
 Suppose an exercise succeeds only because:
 
@@ -1760,7 +1760,7 @@ Readiness evidence should include:
 
 ---
 
-# 🧯 62. Workarounds are readiness debt
+## 🧯 62. Workarounds are readiness debt
 
 If personnel repeatedly compensate for:
 
@@ -1782,7 +1782,7 @@ the longer the broken system can look functional.
 
 ---
 
-# 🧠 63. Ask the people doing the job
+## 🧠 63. Ask the people doing the job
 
 Central data is not enough.
 
@@ -1814,7 +1814,7 @@ Those are readiness questions.
 
 ---
 
-# 📐 64. Combine quantitative and qualitative evidence
+## 📐 64. Combine quantitative and qualitative evidence
 
 Quantitative evidence can tell us:
 
@@ -1844,7 +1844,7 @@ should govern alone.
 
 ---
 
-# 🔬 65. Evidence hierarchy
+## 🔬 65. Evidence hierarchy
 
 ### Strong evidence
 
@@ -1878,7 +1878,7 @@ The question is always:
 
 ---
 
-# ⏳ 66. Evidence decays too
+## ⏳ 66. Evidence decays too
 
 A capability demonstrated:
 
@@ -1902,7 +1902,7 @@ Evidence itself has a shelf life.
 
 ---
 
-# 🧪 67. “Untested” is a legitimate status
+## 🧪 67. “Untested” is a legitimate status
 
 One useful readiness label is:
 
@@ -1922,7 +1922,7 @@ Do not manufacture confidence because the dashboard requires a colour.
 
 ---
 
-# 🔁 68. Retest after major change
+## 🔁 68. Retest after major change
 
 Retest when:
 
@@ -1937,7 +1937,7 @@ Do not assume old evidence automatically validates the new system.
 
 ---
 
-# 🔀 69. Define concurrency
+## 🔀 69. Define concurrency
 
 Can Britain do:
 
@@ -1967,7 +1967,7 @@ Reality may reveal:
 
 ---
 
-# 🌧️ 70. The Tuesday roster test
+## 🌧️ 70. The Tuesday roster test
 
 Every readiness claim eventually faces:
 
@@ -1999,7 +1999,7 @@ That is resilience.
 
 ---
 
-# 📉 71. Readiness debt
+## 📉 71. Readiness debt
 
 Operational commitments can consume:
 
@@ -2025,7 +2025,7 @@ Readiness therefore needs a balance sheet as well as a snapshot.
 
 ---
 
-# 🔁 72. Recovery time should be measured
+## 🔁 72. Recovery time should be measured
 
 After deployment or major exercise:
 
@@ -2045,7 +2045,7 @@ A force kept permanently at nominal high readiness without recovery can eventual
 
 ---
 
-# 🚚 73. Movement is capability
+## 🚚 73. Movement is capability
 
 Being ready in barracks is insufficient if the force cannot reach the task.
 
@@ -2067,7 +2067,7 @@ That is why it is useful.
 
 ---
 
-# 🏠 74. Domestic commitments consume real capacity
+## 🏠 74. Domestic commitments consume real capacity
 
 Military support to domestic emergencies may be valuable.
 
@@ -2087,7 +2087,7 @@ Supporting government requires opportunity-cost visibility.
 
 ---
 
-# 🎯 75. Readiness must match ambition
+## 🎯 75. Readiness must match ambition
 
 The governing equation is:
 
@@ -2122,7 +2122,7 @@ What should not happen is:
 
 ---
 
-# 💷 76. Only now should money enter
+## 💷 76. Only now should money enter
 
 Once Britain has defined:
 
@@ -2161,7 +2161,7 @@ It is not strategy.
 
 ---
 
-# 📊 77. A readiness dashboard
+## 📊 77. A readiness dashboard
 
 For each major function:
 
@@ -2220,7 +2220,7 @@ That is much closer to a readiness dashboard.
 
 ---
 
-# 🚦 78. Give colours actual meanings
+## 🚦 78. Give colours actual meanings
 
 If Defence wants red, amber and green:
 
@@ -2246,7 +2246,7 @@ Then:
 
 ---
 
-# 🧠 79. Show confidence separately
+## 🧠 79. Show confidence separately
 
 Do not turn uncertain evidence into fake precision.
 
@@ -2268,7 +2268,7 @@ Now the reader knows:
 
 ---
 
-# 🪟 80. Some readiness evidence can be public
+## 🪟 80. Some readiness evidence can be public
 
 Specific formation readiness may legitimately remain classified.
 
@@ -2294,7 +2294,7 @@ That is bounded transparency.
 
 ---
 
-# 🧿 81. Public claims need receipts
+## 🧿 81. Public claims need receipts
 
 If government says:
 
@@ -2323,7 +2323,7 @@ is circular.
 
 ---
 
-# 🧾 82. A readiness statement template
+## 🧾 82. A readiness statement template
 
 For each major function:
 
@@ -2360,7 +2360,7 @@ has an operational meaning.
 
 ---
 
-# 💷 83. Apply this to the £30 million case
+## 💷 83. Apply this to the £30 million case
 
 The current Army training dispute should therefore not be framed only as:
 
@@ -2392,7 +2392,7 @@ into:
 
 ---
 
-# ⚙️ 84. The feedback machine needs the output definition
+## ⚙️ 84. The feedback machine needs the output definition
 
 `⚙️_the_feedback_machine.md`
 
@@ -2416,7 +2416,7 @@ the feedback loop remains open.
 
 ---
 
-# 🧾 85. The blank cheque needs it too
+## 🧾 85. The blank cheque needs it too
 
 `🧾_the_blank_cheque_exercise.md`
 
@@ -2442,7 +2442,7 @@ Only then:
 
 ---
 
-# 🧠 86. The reset is partly psychological
+## 🧠 86. The reset is partly psychological
 
 Britain can increase Defence spending and still fail to reset Defence if the people inside it continue behaving as though:
 
@@ -2464,7 +2464,7 @@ But it must receive the uncompressed signal first.
 
 ---
 
-# 🤝 87. That responsibility runs both ways
+## 🤝 87. That responsibility runs both ways
 
 Military leadership owes ministers:
 
@@ -2490,7 +2490,7 @@ Both sides owe the system:
 
 ---
 
-# 🧭 88. The governance test
+## 🧭 88. The governance test
 
 For every readiness shortfall ask:
 
@@ -2511,7 +2511,7 @@ This makes accountability structural rather than theatrical.
 
 ---
 
-# 🛡️ Working principles
+## 🛡️ Working principles
 
 1. **Readiness is a functional output, not an input.**
 2. **Define the mission before defining the metric.**
@@ -2536,7 +2536,7 @@ This makes accountability structural rather than theatrical.
 
 ---
 
-# 🔭 The core test
+## 🔭 The core test
 
 For every major military commitment Britain should be able to answer:
 
@@ -2582,7 +2582,7 @@ It is that:
 
 ---
 
-# 🧈 Working Rule
+## 🧈 Working Rule
 
 Start with:
 
@@ -2644,67 +2644,42 @@ See also:
 
 ---
 
-## 📡 Cross-links
-
-- [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — *recovering the professional requirement before affordability compresses it*
-- [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — *collective competence as both readiness generation and evidence*
-- [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — *whether negative readiness signals reach people with authority intact*
-- [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — *the live test of translating financial savings into readiness consequences*
-- [`🪟_transparency_and_earned_loyalty.md`](./🪟_transparency_and_earned_loyalty.md) — *what aggregate readiness information can safely become public*
-- [`💊_long_term_management.md`](./💊_long_term_management.md) — *building the force-generation system over decades*
-- [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — *graceful degradation, redundancy and regeneration*
-- [`🧠_assessment_and_differential.md`](./🧠_assessment_and_differential.md) — *distinguishing affordability, architecture, professional skew and other possible causes*
-- [`🔬_tests_and_investigations.md`](./🔬_tests_and_investigations.md) — *what evidence is required before diagnosing the current problem*
-- [`data/strategic_reviews.md`](./data/strategic_reviews.md) — *how successive reviews define tasks and readiness*
-- [`data/current_reporting.md`](./data/current_reporting.md) — *contemporary readiness claims and evidence*
-- [`data/open_questions.md`](./data/open_questions.md) — *unresolved readiness variables*
-
-### 🧭 Breadcrumbs
-
-`🌊_Playing_Defence`  
-→ `🪖_Training_Debrief`  
-→ `🔭_what_does_ready_actually_look_like.md`
-
 ---
 
 ## 🌌 Constellations
-
 🔭 🪖 ⚙️ 🧠 📦 🩺 🤝 🏭 — readiness; functional outputs; CDS; VCDS; professional specialisation; counter-specialisation; force generation; collective training; sustainment; regeneration; evidence.
 
+---
 
 ## ✨ Stardust
-
 British military readiness, UK defence readiness, Chief of Defence Staff, Richard Knighton, Sharon Nesmith, Vice Chief of Defence Staff, Military Strategic Headquarters, Defence Reform, professional military judgement, functional readiness, force generation, collective training, NATO readiness, logistics, sustainment, mobilisation, regeneration, equipment availability, military medicine, defence industry, readiness metrics, OKRs, KPIs, institutional incentives, austerity, capability planning
 
 ---
 
 ## 🏮 Footer
 
-*Training Debrief* is a living analytical cluster of the **Polaris Protocol**.
+*🔭 What Does Ready Actually Look Like?* is a living node of the **Polaris Protocol**.  
+It defines readiness as a system property and asks what military function must exist, at what notice, scale, duration and regenerative depth.
 
-This node treats readiness as a system property.
-
-A budget cannot be ready.
-
-A tank cannot be ready in isolation.
-
-An AI programme cannot be ready in isolation.
-
-A recruitment figure cannot be ready.
-
-And no single professional specialism — however valuable — can define readiness alone.
-
-The force is ready when people, equipment, collective competence, command, logistics, medicine, allies, industry and regeneration can produce the required military function on the required clock.
-
-A genuine Defence reset therefore needs more than money.
-
-It needs senior professionals to have permission to tell government what the function actually requires before they begin negotiating against the answer they expect to receive.
-
-> **Define the job.  
-> Preserve the signal.  
-> Test the function.  
-> Then make the trade-off.**
+> 📡 Cross-references:
+>
+> - [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — *recovering the professional requirement before affordability compresses it*
+> - [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — *collective competence as both readiness generation and evidence*
+> - [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — *whether negative readiness signals reach people with authority intact*
+> - [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — *the live test of translating financial savings into readiness consequences*
+> - [`🪟_transparency_and_earned_loyalty.md`](./🪟_transparency_and_earned_loyalty.md) — *what aggregate readiness information can safely become public*
+> - [`💊_long_term_management.md`](./💊_long_term_management.md) — *building the force-generation system over decades*
+> - [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — *graceful degradation, redundancy and regeneration*
+> - [`🧠_assessment_and_differential.md`](./🧠_assessment_and_differential.md) — *distinguishing affordability, architecture, professional skew and other possible causes*
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-07*
+_Last updated: 2026-09-07_

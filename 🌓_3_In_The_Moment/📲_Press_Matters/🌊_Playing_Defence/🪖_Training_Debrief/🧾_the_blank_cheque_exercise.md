@@ -49,7 +49,7 @@ The purpose is diagnostic.
 
 ---
 
-# 🎯 1. The question
+## 🎯 1. The question
 
 Ask each service:
 
@@ -71,7 +71,7 @@ That last question may be especially useful.
 
 ---
 
-# 🧠 2. This is not a spending bid
+## 🧠 2. This is not a spending bid
 
 The exercise should not begin:
 
@@ -106,7 +106,7 @@ Not to:
 
 ---
 
-# 🧮 3. Why temporarily remove money?
+## 🧮 3. Why temporarily remove money?
 
 Because price affects imagination.
 
@@ -142,7 +142,7 @@ That preserves the capability consequence.
 
 ---
 
-# 🪞 4. Why temporarily remove embarrassment?
+## 🪞 4. Why temporarily remove embarrassment?
 
 Because institutions accumulate sunk decisions.
 
@@ -169,7 +169,7 @@ The future force does not care which makes everyone feel nicer.
 
 ---
 
-# 🏛️ 5. Why temporarily remove politics?
+## ❄️ 5. Why temporarily remove politics?
 
 Because some capability questions become distorted by:
 
@@ -194,7 +194,7 @@ That produces an actual political decision rather than a requirement pre-shaped 
 
 ---
 
-# 🔭 6. Start in 2076
+## 🔭 6. Start in 2076
 
 The exercise should not begin with:
 
@@ -233,7 +233,7 @@ Those are much more durable than:
 
 ---
 
-# ⏳ 7. Then work backwards
+## ⏳ 7. Then work backwards
 
 Use four clocks.
 
@@ -266,7 +266,7 @@ This prevents the five-year plan becoming:
 
 ---
 
-# 🪖 8. Ask the Army
+## 🪖 8. Ask the Army
 
 The Army should be asked to design the force it believes is required to meet the strategic tasks government gives it.
 
@@ -334,7 +334,7 @@ Then ask:
 
 ---
 
-# ⚓ 9. Ask the Royal Navy
+## ⚓ 9. Ask the Royal Navy
 
 The Royal Navy submission should similarly begin with functions.
 
@@ -364,7 +364,7 @@ Ships existing on paper are not the same as ships available.
 
 ---
 
-# ✈️ 10. Ask the RAF
+## ✈️ 10. Ask the RAF
 
 For the RAF:
 
@@ -400,7 +400,7 @@ The function is:
 
 ---
 
-# 🛰️ 11. Ask Strategic Command too
+## 🛰️ 11. Ask Strategic Command too
 
 The three-service framing is useful.
 
@@ -424,7 +424,7 @@ Otherwise the exercise risks reproducing the same service silos it is supposed t
 
 ---
 
-# 🤝 12. Then make them ask each other for things
+## 🤝 12. Then make them ask each other for things
 
 This is where it becomes fun.
 
@@ -458,7 +458,7 @@ You have found a strategic dependency before war did.
 
 ---
 
-# 🧩 13. Build the dependency matrix
+## 🧩 13. Build the dependency matrix
 
 For example:
 
@@ -478,7 +478,7 @@ The point is to expose:
 
 ---
 
-# 🧠 14. Compare the answers before reconciling them
+## 🧠 14. Compare the answers before reconciling them
 
 Do not immediately force consensus.
 
@@ -510,7 +510,7 @@ The blank cheque exercise is partly designed to find:
 
 ---
 
-# 🪟 15. Publish disagreement where safe
+## 🪟 15. Publish disagreement where safe
 
 A public version might say:
 
@@ -530,7 +530,7 @@ The alternative—pretending everybody independently wanted precisely the final 
 
 ---
 
-# 🔀 16. Ask what should actually be joint
+## 🔀 16. Ask what should actually be joint
 
 For every capability appearing in multiple submissions, ask:
 
@@ -564,7 +564,7 @@ The test is functional.
 
 ---
 
-# 🧱 17. Redundancy may be deliberate
+## 🧱 17. Redundancy may be deliberate
 
 Suppose all three services maintain apparently similar capability.
 
@@ -593,7 +593,7 @@ Do not eliminate resilience because two spreadsheet rows look similar.
 
 ---
 
-# 🛠️ 18. Ask what should **not** be joint
+## 🛠️ 18. Ask what should **not** be joint
 
 This matters equally.
 
@@ -613,7 +613,7 @@ Integration by design is not centralisation by reflex.
 
 ---
 
-# 🪖 19. Design the ideal training system separately
+## 🪖 19. Design the ideal training system separately
 
 Each service should submit:
 
@@ -644,7 +644,7 @@ This avoids training becoming:
 
 ---
 
-# 🧑‍🏫 20. Ask instructors separately
+## 🎓 20. Ask instructors separately
 
 Do not ask only senior command what ideal training requires.
 
@@ -664,7 +664,7 @@ That wording may produce useful answers.
 
 ---
 
-# 🪖 21. Ask junior personnel separately too
+## 🪖 21. Ask junior personnel separately too
 
 The exercise should contain structured input from people who:
 
@@ -684,7 +684,7 @@ The system needs both.
 
 ---
 
-# 🛠️ 22. Ask engineers
+## 🛠️ 22. Ask engineers
 
 Engineers should be asked:
 
@@ -702,7 +702,7 @@ This may produce more useful future-force insight than:
 
 ---
 
-# 🩺 23. Ask Defence Medical Services
+## 🩺 23. Ask Defence Medical Services
 
 Their blank-cheque submission should include:
 
@@ -725,7 +725,7 @@ A force design which assumes casualties but does not design the medical system t
 
 ---
 
-# 🦿 24. Ask rehabilitation specialists
+## 🦿 24. Ask rehabilitation specialists
 
 A future-force exercise should ask:
 
@@ -751,7 +751,7 @@ It should include:
 
 ---
 
-# 🏭 25. Ask industry what can actually scale
+## 🏭 25. Ask industry what can actually scale
 
 Now invite industry.
 
@@ -783,7 +783,7 @@ The strategically useful question may be:
 
 ---
 
-# 🧰 26. Ask maintainers before buying more things
+## 🧰 26. Ask maintainers before buying more things
 
 A platform which cannot be maintained is a temporary capability.
 
@@ -808,7 +808,7 @@ Not museum inventory.
 
 ---
 
-# 🗺️ 27. Ask the estate
+## 🗺️ 27. Ask the estate
 
 Well.
 
@@ -832,7 +832,7 @@ It is PowerPoint.
 
 ---
 
-# 🏠 28. Housing belongs in force design
+## 🏠 28. Housing belongs in force design
 
 If the proposed personnel model requires:
 
@@ -854,7 +854,7 @@ The two variables interact.
 
 ---
 
-# 👨‍👩‍👧 29. Ask families indirectly
+## 🏠 29. Ask families indirectly
 
 Not:
 
@@ -878,7 +878,7 @@ family policy is part of the architecture.
 
 ---
 
-# 🎓 30. Ask where the workforce comes from
+## 🎓 30. Ask where the workforce comes from
 
 The ideal force requires:
 
@@ -915,7 +915,7 @@ It is where the people come from.
 
 ---
 
-# 🧪 31. The “Tuesday roster” test
+## 🧪 31. The “Tuesday roster” test
 
 For every proposed capability:
 
@@ -947,7 +947,7 @@ it does not work.
 
 ---
 
-# 🌧️ 32. Then make Tuesday unpleasant
+## 🌧️ 32. Then make Tuesday unpleasant
 
 Now add:
 
@@ -969,7 +969,7 @@ the first disruption creates failure.
 
 ---
 
-# 🎲 33. Build alternative futures
+## 🎲 33. Build alternative futures
 
 Do not design one ideal war.
 
@@ -1007,7 +1007,7 @@ Those deserve particular attention.
 
 ---
 
-# 🧠 34. Hunt assumptions
+## 🧠 34. Hunt assumptions
 
 Every submission should contain:
 
@@ -1034,7 +1034,7 @@ That is where resilience begins.
 
 ---
 
-# 📉 35. Require a failure version
+## 📉 35. Require a failure version
 
 Each service should submit:
 
@@ -1053,7 +1053,7 @@ A plan whose authors cannot describe failure has not been stress-tested.
 
 ---
 
-# 🪞 36. Ask what they would stop
+## 🪞 36. Ask what they would stop
 
 This may be the hardest section.
 
@@ -1079,7 +1079,7 @@ Otherwise it is simply expansion planning.
 
 ---
 
-# 🧯 37. Ask what the institution is firefighting
+## 🧯 37. Ask what the institution is firefighting
 
 Another question:
 
@@ -1101,7 +1101,7 @@ not:
 
 ---
 
-# 🔄 38. Ask what must be unlearned
+## 🔄 38. Ask what must be unlearned
 
 A future force cannot only add capability.
 
@@ -1120,7 +1120,7 @@ That belongs inside future-force design.
 
 ---
 
-# 🧠 39. Invite internal disagreement deliberately
+## 🧠 39. Invite internal disagreement deliberately
 
 Do not request:
 
@@ -1144,7 +1144,7 @@ It is compression.
 
 ---
 
-# 🗳️ 40. Minority reports are allowed
+## 🗳️ 40. Minority reports are allowed
 
 If a significant professional minority believes:
 
@@ -1164,7 +1164,7 @@ This makes future adaptation dramatically easier.
 
 ---
 
-# 🔭 41. The ideal force needs an ideal readiness state
+## 🔭 41. The ideal force needs an ideal readiness state
 
 Do not merely specify:
 
@@ -1192,7 +1192,7 @@ from becoming a catalogue.
 
 ---
 
-# ⏱️ 42. Add regeneration
+## ⏱️ 42. Add regeneration
 
 Now ask:
 
@@ -1213,7 +1213,7 @@ The blank cheque force must include:
 
 ---
 
-# 🪖 43. Mobilisation is not “find more people”
+## 🪖 43. Mobilisation is not “find more people”
 
 The mobilisation submission should specify:
 
@@ -1236,7 +1236,7 @@ Therefore mobilisation planning must ask:
 
 ---
 
-# 💷 44. Now calculate the terrifying number
+## 💷 44. Now calculate the terrifying number
 
 Only after all of this:
 
@@ -1267,7 +1267,7 @@ Now Britain knows the actual gap.
 
 ---
 
-# 🧮 45. Produce three cost lines
+## 🧮 45. Produce three cost lines
 
 For every major capability proposal:
 
@@ -1287,7 +1287,7 @@ That final line is crucial.
 
 ---
 
-# 🛡️ 46. Minimum credible does not mean cheapest imaginable
+## 🛡️ 46. Minimum credible does not mean cheapest imaginable
 
 A useful minimum credible force should still have:
 
@@ -1317,7 +1317,7 @@ It is:
 
 ---
 
-# 🧠 47. Show what each reduction buys
+## 🧠 47. Show what each reduction buys
 
 Now begin reducing the ideal force.
 
@@ -1344,7 +1344,7 @@ Rather than:
 
 ---
 
-# 🪜 48. Build capability ladders
+## 🪜 48. Build capability ladders
 
 For example:
 
@@ -1374,7 +1374,7 @@ Now political leaders can see:
 
 ---
 
-# 💰 49. Put Treasury in the second room
+## 💰 49. Put Treasury in the second room
 
 Treasury should absolutely participate.
 
@@ -1404,7 +1404,7 @@ That is much healthier than Defence guessing Treasury's answer before submitting
 
 ---
 
-# 🏦 50. Treasury should challenge cost, not invent military need
+## 🏦 50. Treasury should challenge cost, not invent military need
 
 Treasury should ask:
 
@@ -1435,7 +1435,7 @@ unless strategy genuinely changed.
 
 ---
 
-# 🏛️ 51. Ministers choose the trade-off
+## ❄️ 51. Ministers choose the trade-off
 
 At the end:
 
@@ -1460,7 +1460,7 @@ Each part of government should contribute its actual expertise.
 
 ---
 
-# 🧾 52. Parliament should see the bounded version
+## 🧾 52. Parliament should see the bounded version
 
 A useful public output could show:
 
@@ -1490,7 +1490,7 @@ Both can be true without answering the actual question.
 
 ---
 
-# 🧠 53. The embarrassment amnesty
+## 🧠 53. The embarrassment amnesty
 
 For the exercise to work, participants need temporary permission to say:
 
@@ -1518,7 +1518,7 @@ Just enough institutional safety to tell the truth about the architecture.
 
 ---
 
-# 🛒 54. The procurement confession booth
+## 🛒 54. The procurement confession booth
 
 Ask each service:
 
@@ -1528,7 +1528,7 @@ That question is probably worth several billion pounds by itself.
 
 ---
 
-# 🧑‍🏫 55. The training confession booth
+## 🎓 55. The training confession booth
 
 Ask:
 
@@ -1546,7 +1546,7 @@ Then design the training system backwards from competence.
 
 ---
 
-# ⚙️ 56. The bureaucracy confession booth
+## ⚙️ 56. The bureaucracy confession booth
 
 Ask:
 
@@ -1578,7 +1578,7 @@ The blank cheque is also permission to remove institutional sludge.
 
 ---
 
-# 🧑‍🔧 57. Find the people you dislike who are right
+## 🔧 57. Find the people you dislike who are right
 
 This exercise should deliberately include:
 
@@ -1604,7 +1604,7 @@ Competence first.
 
 ---
 
-# 🧠 58. Professional humility is data acquisition
+## 🧠 58. Professional humility is data acquisition
 
 Leadership humility here is not:
 
@@ -1628,7 +1628,7 @@ That is institutional learning.
 
 ---
 
-# 📜 59. Re-open previous reviews
+## 📜 59. Re-open previous reviews
 
 Before finalising the ideal force, take:
 
@@ -1655,7 +1655,7 @@ Do not pay to rediscover the same requirement again.
 
 ---
 
-# 🔬 60. Test the ideal force against history
+## 🔬 60. Test the ideal force against history
 
 Ask whether the proposed architecture would have handled:
 
@@ -1677,7 +1677,7 @@ That protects against self-congratulation.
 
 ---
 
-# 🔭 61. Test it against things which did not happen
+## 🔭 61. Test it against things which did not happen
 
 Preparedness is also about unrealised contingencies.
 
@@ -1695,7 +1695,7 @@ The ideal system should not depend on:
 
 ---
 
-# 🌍 62. Ask allies for their view
+## 🌍 62. Ask allies for their view
 
 Once Britain has drafted its desired architecture:
 
@@ -1717,7 +1717,7 @@ Any large discrepancy deserves attention.
 
 ---
 
-# 🤝 63. Ask what Britain assumes allies will provide
+## 🤝 63. Ask what Britain assumes allies will provide
 
 Then reverse it.
 
@@ -1742,7 +1742,7 @@ from:
 
 ---
 
-# 🧱 64. Ask where redundancy matters most
+## 🧱 64. Ask where redundancy matters most
 
 A useful blank-cheque force probably does not maximise everything.
 
@@ -1767,7 +1767,7 @@ That is resilience engineering.
 
 ---
 
-# 📉 65. Calculate option value
+## 📉 65. Calculate option value
 
 Some capacity may appear underused in peacetime.
 
@@ -1797,7 +1797,7 @@ Price:
 
 ---
 
-# 📊 66. Then build the five-year plan
+## 📊 66. Then build the five-year plan
 
 After the fifty-year architecture and affordability negotiation:
 
@@ -1831,7 +1831,7 @@ But the principle is:
 
 ---
 
-# 🧭 67. Every programme needs an owner
+## 🧭 67. Every programme needs an owner
 
 For each major intervention:
 
@@ -1850,7 +1850,7 @@ Britain has several of those already.
 
 ---
 
-# 🎯 68. OKRs before KPIs
+## 🎯 68. OKRs before KPIs
 
 The implementation should begin with objectives.
 
@@ -1879,7 +1879,7 @@ become proof that the brigade can do the thing.
 
 ---
 
-# 🧪 69. Retest the design
+## 🧪 69. Retest the design
 
 The blank-cheque exercise should not happen once.
 
@@ -1907,7 +1907,7 @@ The blank cheque is part of the feedback machine.
 
 ---
 
-# 🔁 70. Repeat after major shocks
+## 🔁 70. Repeat after major shocks
 
 Run the exercise again after:
 
@@ -1925,7 +1925,7 @@ A useful strategy process must be allowed to update.
 
 ---
 
-# 💷 71. What happens if the ideal is unaffordable?
+## 💷 71. What happens if the ideal is unaffordable?
 
 Probably:
 
@@ -1969,7 +1969,7 @@ That is where strategic incoherence begins.
 
 ---
 
-# 🧮 72. Strategy has to balance
+## 🧮 72. Strategy has to balance
 
 The final equation is simple even when the arithmetic is not.
 
@@ -2005,7 +2005,7 @@ It cannot repeal it.
 
 ---
 
-# 🔭 73. The output is not “give Defence what it wants”
+## 🔭 73. The output is not “give Defence what it wants”
 
 The purpose is to give ministers a better choice.
 
@@ -2029,7 +2029,7 @@ if the requirement was pre-compressed until it matched the funding.
 
 ---
 
-# 🪟 74. Publish enough to make the choice visible
+## 🪟 74. Publish enough to make the choice visible
 
 The public should not receive the detailed military plan.
 
@@ -2055,7 +2055,7 @@ Bounded transparency can preserve security without pretending no trade-off exist
 
 ---
 
-# 🪖 75. The £30 million counterfactual
+## 🪖 75. The £30 million counterfactual
 
 The current training dispute gives us a tiny version of the blank-cheque test.
 
@@ -2079,7 +2079,7 @@ Sometimes a deliberately unrealistic question produces the cleanest real-world a
 
 ---
 
-# 🧠 76. The deeper reason for doing this
+## 🧠 76. The deeper reason for doing this
 
 Fifteen years of:
 
@@ -2116,7 +2116,7 @@ Britain needs both.
 
 ---
 
-# 🧾 The exercise brief
+## 🧾 The exercise brief
 
 Each service and major joint function should answer:
 
@@ -2152,7 +2152,7 @@ Then:
 
 ---
 
-# 🧠 The rules
+## 🧠 The rules
 
 ### Rule 1
 
@@ -2204,7 +2204,7 @@ Every final compromise must state the residual risk.
 
 ---
 
-# 🪄 The trick
+## 🪄 The trick
 
 The blank cheque never actually exists.
 
@@ -2229,7 +2229,7 @@ And now the country can make an informed choice.
 
 ---
 
-# 🧈 Working rule
+## 🧈 Working rule
 
 > **Do not begin by asking what Defence can afford.**
 
@@ -2257,58 +2257,42 @@ That last sentence is where strategy begins.
 
 ---
 
-## 📡 Cross-links
-
-- [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — *defining the functional outputs before building the force*
-- [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — *designing the training architecture around actual competence*
-- [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — *the live small-scale counterfactual*
-- [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — *preserving disagreement, requirement signals and adaptation*
-- [`💊_long_term_management.md`](./💊_long_term_management.md) — *turning the ideal architecture into multi-decade force generation*
-- [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — *designing redundancy, option value and regeneration*
-- [`🪟_transparency_and_earned_loyalty.md`](./🪟_transparency_and_earned_loyalty.md) — *publishing a bounded version of the eventual trade-off*
-- [`🔬_tests_and_investigations.md`](./🔬_tests_and_investigations.md) — *the evidence needed before choosing interventions*
-- [`data/strategic_reviews.md`](./data/strategic_reviews.md) — *what previous planning exercises already identified*
-- [`data/open_questions.md`](./data/open_questions.md) — *gaps the exercise should attempt to close*
-
-### 🧭 Breadcrumbs
-
-`🌊_Playing_Defence`  
-→ `🪖_Training_Debrief`  
-→ `🧾_the_blank_cheque_exercise.md`
-
 ---
 
 ## 🌌 Constellations
-
 🧾 🔭 🪖 ⚓ ✈️ 🛰️ 💷 🧠 — blank cheque; force design; strategic requirements; Army; Navy; RAF; joint command; readiness; affordability; resilience; accepted risk.
 
+---
 
 ## ✨ Stardust
-
 blank cheque exercise, British defence planning, force design, Army force structure, Royal Navy force design, RAF force design, Strategic Command, joint force, minimum credible force, defence affordability, force generation, mobilisation, military training, defence estate, industrial capacity, readiness, capability planning, Treasury, accepted risk
 
 ---
 
 ## 🏮 Footer
 
-*Training Debrief* is a living analytical cluster of the **Polaris Protocol**.
+*🧾 The Blank Cheque Exercise* is a living node of the **Polaris Protocol**.  
+It temporarily removes affordability and political constraint to recover the underlying military requirement before conscious trade-offs are made.
 
-The blank cheque is not a proposal to hand Defence unlimited money.
-
-It is permission to answer one question before affordability distorts it:
-
-> **What system would actually do the job?**
-
-Once that answer exists, cost and politics return.
-
-They should.
-
-Then Britain can decide what it is willing to buy, what it is willing to stop doing, and what risk it is knowingly willing to carry.
-
-> **Take the budget off the table for ten minutes.  
-> Find the requirement.  
-> Then put the money back and make the adults choose.**
+> 📡 Cross-references:
+>
+> - [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — *defining the functional outputs before building the force*
+> - [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — *designing the training architecture around actual competence*
+> - [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — *the live small-scale counterfactual*
+> - [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — *preserving disagreement, requirement signals and adaptation*
+> - [`💊_long_term_management.md`](./💊_long_term_management.md) — *turning the ideal architecture into multi-decade force generation*
+> - [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — *designing redundancy, option value and regeneration*
+> - [`🪟_transparency_and_earned_loyalty.md`](./🪟_transparency_and_earned_loyalty.md) — *publishing a bounded version of the eventual trade-off*
+> - [`🔬_tests_and_investigations.md`](./🔬_tests_and_investigations.md) — *the evidence needed before choosing interventions*
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-07*
+_Last updated: 2026-09-07_

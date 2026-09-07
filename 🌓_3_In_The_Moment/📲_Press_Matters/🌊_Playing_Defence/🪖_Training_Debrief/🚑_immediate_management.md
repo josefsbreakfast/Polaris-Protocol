@@ -1,6 +1,3 @@
-This is the **“patient is currently bleeding; we can investigate the chronic disease while somebody applies pressure”** node. The current allocation of levers is unusually clean: Streeting now holds overall Defence responsibility including the budget, resource allocation and SDR/DIP implementation; Healey is Chancellor; Burnham is Prime Minister. ([GOV.UK][1]) And because the reported restriction is roughly £30m and affects major collective exercises while deployment/quick-response training is protected, there is room for a proportionate review rather than immediately detonating the entire Defence settlement. ([The Times][2])
-
-````markdown
 # 🚑 Immediate Management
 **First created:** 2026-09-07 | **Last updated:** 2026-09-07  
 *What government, Defence and Army leadership can do now about the reported collective-training reduction without waiting for another strategic review.*
@@ -41,7 +38,7 @@ The immediate objective should therefore be:
 
 ---
 
-# 🩸 First principle: stabilise before redesigning the whole patient
+## 🩸 First principle: stabilise before redesigning the whole patient
 
 Do not respond to a £30 million training dispute by commissioning a five-year philosophical review while the exercises disappear from the calendar.
 
@@ -78,9 +75,10 @@ One stream keeps the force functioning.
 
 The other establishes why the problem occurred.
 
+```
 ---
 
-# ⏱️ 1. Put a short clock on the review
+## ⏱️ 1. Put a short clock on the review
 
 This does not need another grand Defence review.
 
@@ -118,7 +116,7 @@ That is enough for immediate ministerial decision-making.
 
 ---
 
-# 🪖 2. Triage the training, rather than treating it as one category
+## 🪖 2. Triage the training, rather than treating it as one category
 
 Not all exercises have equal value.
 
@@ -155,7 +153,7 @@ do not call it non-essential merely because the invoice is movable.
 
 ---
 
-# 🧠 3. Streeting: establish the clinical picture
+## 🧠 3. Streeting: establish the clinical picture
 
 As Defence Secretary, Wes Streeting now owns the departmental response.
 
@@ -266,7 +264,7 @@ Call it one.
 
 ---
 
-# 💷 4. Healey: perform the Treasury counterfactual
+## 💷 4. Healey: perform the Treasury counterfactual
 
 John Healey now occupies a particularly useful position.
 
@@ -327,7 +325,7 @@ The objective is:
 
 ---
 
-# 🧾 5. Do not confuse Treasury control with Treasury micro-management
+## 🧾 5. Do not confuse Treasury control with Treasury micro-management
 
 This distinction needs to remain clean.
 
@@ -357,7 +355,7 @@ That determines the appropriate intervention.
 
 ---
 
-# 🌹 6. Burnham: force the strategic reconciliation
+## 🌹 6. Burnham: force the strategic reconciliation
 
 The Prime Minister does not need to decide which battalion trains on which range.
 
@@ -396,7 +394,7 @@ The strategic review should not exist in one room while the financial consequenc
 
 ---
 
-# 🪖 7. Army leadership: make the operational consequence legible
+## 🪖 7. Army leadership: make the operational consequence legible
 
 Army leadership has a different job.
 
@@ -440,7 +438,7 @@ Someone has to translate.
 
 ---
 
-# 🧮 8. Restore selectively before restoring blindly
+## 🧮 8. Restore selectively before restoring blindly
 
 If additional money can be made available quickly, do not simply recreate the original calendar without review.
 
@@ -470,7 +468,7 @@ Do not waste the opportunity.
 
 ---
 
-# 💉 9. Protect the highest-risk omissions first
+## 💉 9. Protect the highest-risk omissions first
 
 If full restoration is impossible, prioritise activity where cancellation produces the greatest risk.
 
@@ -504,7 +502,7 @@ Not:
 
 ---
 
-# 📅 10. Put recovery training on the calendar now
+## 📅 10. Put recovery training on the calendar now
 
 Postponement creates hidden debt.
 
@@ -542,7 +540,7 @@ There should not be a fourth category:
 
 ---
 
-# 🏚️ 11. Reserve estate capacity for recovery
+## 🏚️ 11. Reserve estate capacity for recovery
 
 Money alone cannot restore training if the training estate is full.
 
@@ -562,7 +560,7 @@ the money has arrived too late.
 
 ---
 
-# 🤝 12. Ask allies what can be shared
+## 🤝 12. Ask allies what can be shared
 
 Britain does not train in strategic isolation.
 
@@ -588,7 +586,7 @@ Use the alliance.
 
 ---
 
-# 🤖 13. Use synthetic training where it actually works
+## 🤖 13. Use synthetic training where it actually works
 
 This is an obvious mitigation option.
 
@@ -628,7 +626,7 @@ The rule is:
 
 ---
 
-# 📦 14. Review commercially movable expenditure too
+## 📦 14. Review commercially movable expenditure too
 
 Before assuming all existing contracts are immovable:
 
@@ -666,7 +664,7 @@ That is a fair procurement-governance question.
 
 ---
 
-# 🧱 15. Do not raid maintenance to save training
+## 🧱 15. Do not raid maintenance to save training
 
 Immediate fixes can create worse pathology.
 
@@ -694,7 +692,7 @@ What capability does **that** reduction remove?
 
 ---
 
-# 👥 16. Do not make personnel absorb the difference invisibly
+## 🧩 16. Do not make personnel absorb the difference invisibly
 
 This deserves an explicit red line.
 
@@ -725,7 +723,7 @@ If personnel are the bridging mechanism, record the cost.
 
 ---
 
-# 🦴 17. Protect the physical-risk principle
+## 🦴 17. Protect the physical-risk principle
 
 There is a reason training deserves unusually serious treatment.
 
@@ -751,7 +749,7 @@ That should not make it strategically silent.
 
 ---
 
-# 📢 18. Communicate the decision like adults
+## 📢 18. Communicate the decision like adults
 
 The public explanation should not become:
 
@@ -794,7 +792,7 @@ Not managed ignorance.
 
 ---
 
-# 🪟 19. Give Parliament a proper answer
+## 🪟 19. Give Parliament a proper answer
 
 The parliamentary record matters because questions about reductions to training activity predate the September reporting.
 
@@ -827,7 +825,7 @@ A clear chronology will do more for trust than another round of:
 
 ---
 
-# 📊 20. Publish a bounded recovery metric
+## 📊 20. Publish a bounded recovery metric
 
 Do not publish sensitive readiness data.
 
@@ -854,7 +852,7 @@ That makes government communication testable.
 
 ---
 
-# 🧭 21. One named owner for the immediate problem
+## 🧭 21. One named owner for the immediate problem
 
 The current issue crosses:
 
@@ -881,7 +879,7 @@ Named ownership.
 
 ---
 
-# 🔁 22. Add an automatic review trigger
+## 🔁 22. Add an automatic review trigger
 
 If training falls below an agreed readiness floor, the issue should escalate automatically.
 
@@ -912,7 +910,7 @@ into governance.
 
 ---
 
-# 🧠 23. Ask one counterfactual before approving any cancellation
+## 🧠 23. Ask one counterfactual before approving any cancellation
 
 The question is extremely simple:
 
@@ -930,7 +928,7 @@ then the saving needs a very strong justification.
 
 ---
 
-# 🛠️ 24. Practical actor map
+## 🛠️ 24. Practical actor map
 
 ## 🧠 Wes Streeting — Defence Secretary
 
@@ -996,7 +994,7 @@ Its question:
 
 ---
 
-## 🏛️ MOD
+## ❄️ MOD
 
 Immediate tasks:
 
@@ -1029,7 +1027,7 @@ Its question:
 
 ---
 
-# 🩹 25. Minimum viable immediate package
+## 🩹 25. Minimum viable immediate package
 
 If government wanted the least dramatic credible intervention, it could do this:
 
@@ -1048,7 +1046,7 @@ It is competent incident management.
 
 ---
 
-# 🚫 26. Things not to do
+## 🚫 26. Things not to do
 
 ### Do not announce another giant review
 
@@ -1090,7 +1088,7 @@ That is what training was for.
 
 ---
 
-# 🧯 27. The political opportunity
+## 🧯 27. The political opportunity
 
 There is an obvious temptation for every political actor to treat this as a defensive communications problem.
 
@@ -1122,7 +1120,7 @@ Everyone needs to do the work.
 
 ---
 
-# 🪜 28. Immediate management should create better long-term evidence
+## 🪜 28. Immediate management should create better long-term evidence
 
 Every temporary intervention should generate information for the later nodes.
 
@@ -1150,7 +1148,7 @@ It is:
 
 ---
 
-# 🩺 Immediate management summary
+## 🩺 Immediate management summary
 
 ### Problem
 
@@ -1188,7 +1186,7 @@ Chancellor and Prime Minister where Defence requirements and available resources
 
 ---
 
-# 🌱 The larger principle
+## 🌱 The larger principle
 
 Immediate management does not require deciding whether Britain historically spends:
 
@@ -1220,73 +1218,42 @@ That is occupational responsibility.
 
 ---
 
-## 📡 Carry Forward
-
-This node feeds into:
-
-* [`💊_long_term_management.md`](./💊_long_term_management.md) — redesigning the underlying system rather than repeatedly treating crises;
-* [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — automatic protections against recurring readiness degradation;
-* [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — reconstructing the immediate financial decision;
-* [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — establishing unconstrained requirements before prioritisation;
-* [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — defining what the intervention is trying to preserve;
-* [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — turning this incident into institutional learning;
-* [`data/parliamentary_questions.md`](./data/parliamentary_questions.md) — reconstructing ministerial knowledge and accountability;
-* [`data/open_questions.md`](./data/open_questions.md) — unresolved evidence;
-* [`data/current_reporting.md`](./data/current_reporting.md) — tracking how the decision and any reversal are publicly described.
-
----
-
-## 📚 Initial sources
-
-* [GOV.UK: “The Rt Hon Wes Streeting MP”](https://www.gov.uk/government/people/wes-streeting)
-* [GOV.UK: “Chancellor takes axe to delays holding back growth”](https://www.gov.uk/government/news/chancellor-takes-axe-to-delays-holding-back-growth)
-* [The Times: “British Army ordered to suspend major war games to save money”](https://www.thetimes.com/uk/defence/article/british-army-training-suspended-money-d7tzxljrl)
-* [GOV.UK: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad)
-* [GOV.UK: *Defence Investment Plan*](https://www.gov.uk/government/publications/defence-investment-plan)
-* [National Audit Office: *Investigation into military support for Ukraine*](https://www.nao.org.uk/press-releases/investigation-into-military-support-for-ukraine/)
-
-Further evidential work should be drawn from:
-
-* `data/parliamentary_questions.md`;
-* `data/timeline.md`;
-* `data/current_reporting.md`;
-* `data/source_bank.md`;
-* `data/open_questions.md`.
-
 ---
 
 ## 🌌 Constellations
-
 🚑 🪖 💷 🧠 ⚙️ 🏚️ 🔭 — immediate stabilisation; Army collective training; Treasury; Defence governance; readiness; recovery; institutional learning.
 
 ---
 
 ## ✨ Stardust
-
 british army training, wes streeting, john healey, andy burnham, treasury, ministry of defence, army command, collective training, defence readiness, training cuts, defence budget, military exercises, readiness recovery, warfighting readiness
 
 ---
 
 ## 🏮 Footer
 
-*Training Debrief* is a living analytical cluster of the **Polaris Protocol**.
+*🚑 Immediate Management* is a living node of the **Polaris Protocol**.  
+It sets out immediate stabilisation, review and recovery options for the current collective-training disruption.
 
-This node addresses the immediate September 2026 collective-training problem as a manageable Defence incident: protect critical competence, establish the real financial trade-off, recover what can be recovered, redesign what should be redesigned, and make residual risk visible to the people authorised to accept it.
-
-It does not require publishing operational vulnerabilities.
-
-It requires government to show that the people carrying military risk are not also carrying unexamined administrative risk.
-
-> **Stop the bleed. Find the cause. Then fix the system that let it happen.**
+> 📡 Cross-references:
+>
+> - [`💊_long_term_management.md`](./💊_long_term_management.md) — *redesigning the underlying system rather than repeatedly treating crises*
+> - [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — *automatic protections against recurring readiness degradation*
+> - [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — *reconstructing the immediate financial decision*
+> - [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — *establishing unconstrained requirements before prioritisation*
+> - [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — *defining what the intervention is trying to preserve*
+> - [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — *turning this incident into institutional learning*
+> - [`data/parliamentary_questions.md`](./data/parliamentary_questions.md) — *reconstructing ministerial knowledge and accountability*
+> - [`data/open_questions.md`](./data/open_questions.md) — *unresolved evidence*
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-07*
-
-```
-
-The strongest bit for me is the political opportunity section because this genuinely **does not require anybody to perform ritual defeat**. Streeting can review an inherited situation, Healey can behave like a Chancellor who understands Defence because he literally just ran it, Burnham can join strategy to implementation, and Army leadership can demonstrate professional prioritisation rather than simply demanding its entire wishlist. That is a much easier route out than everybody spending a week insisting nothing happened.
-```
-
-[1]: https://www.gov.uk/government/people/wes-streeting?utm_source=chatgpt.com "The Rt Hon Wes Streeting MP - GOV.UK"
-[2]: https://www.thetimes.com/uk/defence/article/british-army-training-suspended-money-d7tzxljrl?utm_source=chatgpt.com "British Army ordered to suspend major war games to save money"
+_Last updated: 2026-09-07_

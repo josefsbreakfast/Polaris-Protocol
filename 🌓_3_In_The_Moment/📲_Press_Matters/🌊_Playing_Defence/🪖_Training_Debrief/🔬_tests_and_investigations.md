@@ -63,7 +63,7 @@ This node is the investigation request.
 
 ---
 
-# 🩸 1. Confirm the presenting complaint
+## 🩸 1. Confirm the presenting complaint
 
 Before investigating causes, establish precisely what has happened.
 
@@ -100,7 +100,7 @@ And:
 
 ---
 
-# 🧾 2. Reconstruct the decision chain
+## 🧾 2. Reconstruct the decision chain
 
 This is the first major investigation.
 
@@ -158,7 +158,7 @@ Those may be three different people.
 
 ---
 
-# 🧿 3. Establish who could reasonably have known what, when
+## 🧿 3. Establish who could reasonably have known what, when
 
 The current political chronology needs particular care.
 
@@ -205,7 +205,7 @@ Government does not stop governing.
 
 ---
 
-# 💷 4. Identify the actual financial constraint
+## 💷 4. Identify the actual financial constraint
 
 “Defence needs to save money” is insufficiently precise.
 
@@ -241,7 +241,7 @@ that also materially changes the assessment.
 
 ---
 
-# 🧮 5. Test whether flexibility became a liability
+## 🧮 5. Test whether flexibility became a liability
 
 Training has a dangerous accounting characteristic.
 
@@ -275,7 +275,7 @@ Those are not the same optimisation problem.
 
 ---
 
-# 🪖 6. Establish the Army's actual training requirement
+## 🪖 6. Establish the Army's actual training requirement
 
 Before asking whether training is adequate, define adequate.
 
@@ -312,7 +312,7 @@ The baseline itself may already be inadequate.
 
 ---
 
-# 🧠 7. Ask what training is trying to produce
+## 🧠 7. Ask what training is trying to produce
 
 This cluster should resist measuring activity before defining the functional output.
 
@@ -347,7 +347,7 @@ Otherwise Defence risks producing beautiful dashboards describing a force that c
 
 ---
 
-# 🔭 8. What does “ready” actually mean?
+## 🔭 8. What does “ready” actually mean?
 
 This requires several layers.
 
@@ -401,7 +401,7 @@ A force can be capable of deploying once without being capable of sustaining a w
 
 ---
 
-# 🏋️ 9. Measure collective competence, not attendance
+## 🏋️ 9. Measure collective competence, not attendance
 
 A training metric such as:
 
@@ -439,7 +439,7 @@ Provided somebody then fixes them.
 
 ---
 
-# ⚙️ 10. Test the feedback loop
+## ⚙️ 10. Test the feedback loop
 
 Akam's Iraq and Afghanistan material gives us a useful benchmark.
 
@@ -485,7 +485,7 @@ The feedback machine is only as fast as its slowest compulsory gate.
 
 ---
 
-# 🧑‍🏫 11. Instructor capacity
+## 🎓 11. Instructor capacity
 
 A training system requires trainers.
 
@@ -522,7 +522,7 @@ Therefore ask:
 
 ---
 
-# 👥 12. Personnel: establishment is not availability
+## 🧩 12. Personnel: establishment is not availability
 
 Headline Army numbers are not sufficient.
 
@@ -549,7 +549,7 @@ A nominal soldier is not automatically available capability.
 
 ---
 
-# 🏚️ 13. Estate: owned is not usable
+## 🏚️ 13. Estate: owned is not usable
 
 Map:
 
@@ -580,7 +580,7 @@ The same principle applies to training estate.
 
 ---
 
-# 🚚 14. Logistics must be inside the exercise
+## 🚚 14. Logistics must be inside the exercise
 
 A formation is not ready merely because the fighting elements can manoeuvre.
 
@@ -607,7 +607,7 @@ The Tuesday-roster question applies:
 
 ---
 
-# 🩸 15. Medical capability and casualty assumptions
+## 🩸 15. Medical capability and casualty assumptions
 
 Afghanistan created particular expectations around casualty evacuation.
 
@@ -631,7 +631,7 @@ It is to establish whether current training reflects the casualty environment De
 
 ---
 
-# 🚁 16. Equipment availability during training
+## 🚁 16. Equipment availability during training
 
 Owning equipment is different from being able to train with it.
 
@@ -657,7 +657,7 @@ The explanation matters.
 
 ---
 
-# 🤖 17. Synthetic versus live training
+## 🤖 17. Synthetic versus live training
 
 Do not frame this as:
 
@@ -704,7 +704,7 @@ The second is an accounting question.
 
 ---
 
-# 🌐 18. Service-by-service comparison
+## 🌐 18. Service-by-service comparison
 
 The Army should not be investigated in isolation.
 
@@ -739,7 +739,7 @@ Investigate the mechanism.
 
 ---
 
-# 🧩 19. Joint training
+## 🧩 19. Joint training
 
 If Defence intends to be **integrated by design**, then service-specific readiness is not enough.
 
@@ -761,7 +761,7 @@ You cannot integrate three forces for the first time after somebody starts shoot
 
 ---
 
-# 🤝 20. NATO and allied training
+## 🤝 20. NATO and allied training
 
 Britain's force model is explicitly alliance-dependent.
 
@@ -791,7 +791,7 @@ It is credible allied warfighting capability.
 
 ---
 
-# 🗺️ 21. Commitments versus force capacity
+## 🗺️ 21. Commitments versus force capacity
 
 Build a public-domain commitments map.
 
@@ -834,7 +834,7 @@ That does not make it administratively unimportant.
 
 ---
 
-# 📋 22. The Tuesday-roster test
+## 📋 22. The Tuesday-roster test
 
 Every strategic ambition eventually becomes a roster.
 
@@ -861,7 +861,7 @@ If nobody can answer that, the policy is not yet a force plan.
 
 ---
 
-# 🧾 23. The blank-cheque investigation
+## 🧾 23. The blank-cheque investigation
 
 There is another test worth conducting separately from affordability.
 
@@ -907,7 +907,7 @@ Otherwise:
 
 ---
 
-# 🔭 24. Future-force questions
+## 🔭 24. Future-force questions
 
 The investigation should not assume the current Army structure is the correct structure plus insufficient money.
 
@@ -937,7 +937,7 @@ It is:
 
 ---
 
-# 🧠 25. Ask the awkward personnel question
+## 🧠 25. Ask the awkward personnel question
 
 Every large organisation contains people who:
 
@@ -973,7 +973,7 @@ Sometimes the person being a pain in the arse has found the fault.
 
 ---
 
-# 🪟 26. Test whether bad news can travel upwards
+## 🪟 26. Test whether bad news can travel upwards
 
 This may be one of the most important investigations.
 
@@ -1020,7 +1020,7 @@ It is:
 
 ---
 
-# 🧈 27. Measure the friction
+## 🧈 27. Measure the friction
 
 The desired system is not one with no governance.
 
@@ -1065,7 +1065,7 @@ Make the fucking glove fit.
 
 ---
 
-# 📊 28. KPIs come after objectives
+## 📊 28. KPIs come after objectives
 
 Do not begin with:
 
@@ -1100,7 +1100,7 @@ we may be measuring administrative survival rather than military capability.
 
 ---
 
-# 🧪 29. Useful evidence sources
+## 🧪 29. Useful evidence sources
 
 This investigation should preferentially use material already in the public domain.
 
@@ -1167,7 +1167,7 @@ It is not a truth score.
 
 ---
 
-# 🚧 30. What this investigation does **not** require
+## 🚧 30. What this investigation does **not** require
 
 We do not need:
 
@@ -1200,7 +1200,7 @@ The public does not need the war plan to ask whether government has funded the t
 
 ---
 
-# ⚠️ 31. Absence of public evidence is not evidence of absence
+## ⚠️ 31. Absence of public evidence is not evidence of absence
 
 Several investigation outcomes will remain uncertain.
 
@@ -1236,7 +1236,7 @@ Then decide whether the missing information belongs in:
 
 ---
 
-# 🗂️ 32. Investigation matrix
+## 🗂️ 32. Investigation matrix
 
 The cluster should eventually be able to populate something like this:
 
@@ -1261,7 +1261,7 @@ That is the point.
 
 ---
 
-# 🩻 33. What would materially change the diagnosis?
+## 🩻 33. What would materially change the diagnosis?
 
 Several findings would substantially alter the eventual assessment.
 
@@ -1313,7 +1313,7 @@ Otherwise it is not an investigation.
 
 ---
 
-# 🧭 34. The question underneath all the questions
+## 🧭 34. The question underneath all the questions
 
 Ultimately:
 
@@ -1380,47 +1380,42 @@ And do not spend another thirty years commissioning reviews which correctly iden
 
 ---
 
-## 📡 Carry Forward
-
-This node feeds directly into:
-
-* [`🧠_assessment_and_differential.md`](./🧠_assessment_and_differential.md) — competing explanations once the evidence is assembled;
-* [`🚑_immediate_management.md`](./🚑_immediate_management.md) — what can be done about the current disruption;
-* [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — discovering unconstrained requirements before reintroducing affordability;
-* [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — defining functional outputs;
-* [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — testing whether information survives institutional transmission;
-* [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — evidence on collective competence and skill retention;
-* [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — reconstructing the immediate affordability decision;
-* [`data/open_questions.md`](./data/open_questions.md) — live evidential gaps;
-* [`data/parliamentary_questions.md`](./data/parliamentary_questions.md) — current governance chain;
-* [`data/source_bank.md`](./data/source_bank.md) — evidence base.
-
 ---
 
 ## 🌌 Constellations
-
 🔬 🪖 ⚙️ 💷 🔭 🏚️ 🧠 — Army training; readiness measurement; force generation; Defence affordability; estate; personnel; institutional feedback; future force design.
 
 ---
 
 ## ✨ Stardust
-
 british army training, collective training, readiness, force generation, defence affordability, army estate, military personnel, synthetic training, live training, nato interoperability, defence investment plan, strategic defence review, army readiness, military exercises, defence feedback loops
 
 ---
 
 ## 🏮 Footer
 
-*Training Debrief* is a living analytical cluster of the **Polaris Protocol**.
+*🔬 Tests And Investigations* is a living node of the **Polaris Protocol**.  
+It defines the evidence required before the cluster assigns causes, responsibility or capability consequences.
 
-It examines the current British Army collective-training dispute as a governance, readiness, force-generation and institutional-learning problem rather than treating one reported £30 million saving as a self-explanatory event.
-
-The public-interest objective is bounded scrutiny: enough information to determine whether published Defence policy and actual force generation remain coherent, without seeking operational detail whose disclosure would itself degrade security.
-
-> **The investigation is not asking for the war plan.**
+> 📡 Cross-references:
 >
-> **It is asking whether the people expected to execute one are being given the opportunity to practise.**
+> - [`🧠_assessment_and_differential.md`](./🧠_assessment_and_differential.md) — *competing explanations once the evidence is assembled*
+> - [`🚑_immediate_management.md`](./🚑_immediate_management.md) — *what can be done about the current disruption*
+> - [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — *discovering unconstrained requirements before reintroducing affordability*
+> - [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — *defining functional outputs*
+> - [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — *testing whether information survives institutional transmission*
+> - [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — *evidence on collective competence and skill retention*
+> - [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — *reconstructing the immediate affordability decision*
+> - [`data/open_questions.md`](./data/open_questions.md) — *live evidential gaps*
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-07*
+_Last updated: 2026-09-07_

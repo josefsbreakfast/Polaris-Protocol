@@ -1,6 +1,3 @@
-This one should feel more **preventive medicine / resilience engineering** than long-term management: the last node rebuilt the organism; this one installs the things that stop the next shock from knocking it over. It also fits the existing Polaris line that strategic surprise is not exotic—Britain is already dealing with ambiguous, distributed threats that do not arrive in neat conventional categories. 
-
-````markdown id="pj4n6c"
 # 🛡️ Prevention And Resilience
 **First created:** 2026-09-07 | **Last updated:** 2026-09-07  
 *How Britain stops presenting with the same readiness problem every few years: spare capacity, adaptability, redundancy, institutional memory and systems built to survive strategic surprise.*
@@ -43,7 +40,7 @@ That is resilience.
 
 ---
 
-# 🧬 1. Resilience is not the absence of failure
+## 🧬 1. Resilience is not the absence of failure
 
 A resilient system still experiences:
 
@@ -72,7 +69,7 @@ Defence needs all three.
 
 ---
 
-# 🧱 2. Stop optimising every reserve out of the system
+## 🧱 2. Stop optimising every reserve out of the system
 
 Highly efficient systems look attractive during normal conditions.
 
@@ -104,7 +101,7 @@ It is:
 
 ---
 
-# 🌳 3. Spare capacity should be deliberate
+## 🌳 3. Spare capacity should be deliberate
 
 Slack should exist where failure would otherwise propagate.
 
@@ -136,7 +133,7 @@ The correct design question is therefore:
 
 ---
 
-# ⏱️ 4. Measure regeneration time
+## ⏱️ 4. Measure regeneration time
 
 One of the most useful resilience metrics is:
 
@@ -164,7 +161,7 @@ the stronger the argument for redundancy.
 
 ---
 
-# 🧩 5. Redundancy is not automatically waste
+## 🧩 5. Redundancy is not automatically waste
 
 Public administration often dislikes duplication.
 
@@ -195,7 +192,7 @@ Do not remove the second because the spreadsheet cannot distinguish them.
 
 ---
 
-# 🔗 6. Find single points of failure
+## 🔗 6. Find single points of failure
 
 Every major Defence capability should have a simple resilience question attached:
 
@@ -225,7 +222,7 @@ Why?
 
 ---
 
-# 🧵 7. Map dependencies, not just assets
+## 🧵 7. Map dependencies, not just assets
 
 Platforms are visible.
 
@@ -263,7 +260,7 @@ The visible object is not necessarily the critical node.
 
 ---
 
-# 🪢 8. Build around graceful degradation
+## 🪢 8. Build around graceful degradation
 
 Not every system can remain at 100% during crisis.
 
@@ -296,7 +293,7 @@ That is much safer than discovering degraded operation live.
 
 ---
 
-# 🪜 9. Define minimum readiness floors
+## 🪜 9. Define minimum readiness floors
 
 If training, staffing, estate or equipment falls below a defined functional threshold, automatic action should follow.
 
@@ -321,7 +318,7 @@ The existence of the governance mechanism does not.
 
 ---
 
-# 💷 10. Protect preventative capability from annual raids
+## 💷 10. Protect preventative capability from annual raids
 
 Some budget lines are repeatedly tempting because cutting them produces immediate savings while consequences arrive later.
 
@@ -348,7 +345,7 @@ the decision should trigger a higher evidential threshold.
 
 ---
 
-# 🧮 11. Add resilience accounting
+## 🧮 11. Add resilience accounting
 
 Standard accounting asks:
 
@@ -385,7 +382,7 @@ Defence should not pretend resilience becomes economically irrational merely bec
 
 ---
 
-# 🧪 12. Stress-test budgets, not only forces
+## 🧪 12. Stress-test budgets, not only forces
 
 Military exercises test forces.
 
@@ -417,7 +414,7 @@ This would reveal whether current budget architecture remains functional under s
 
 ---
 
-# 🪖 13. Exercise mobilisation before mobilisation
+## 🪖 13. Exercise mobilisation before mobilisation
 
 Mobilisation planning should not live as an elegant document waiting for emergency.
 
@@ -443,7 +440,7 @@ That is cheaper.
 
 ---
 
-# 🧑‍🏫 14. Maintain instructor depth before demand spikes
+## 🎓 14. Maintain instructor depth before demand spikes
 
 Training demand increases sharply when force expansion begins.
 
@@ -462,7 +459,7 @@ Do not discover during mobilisation that everybody capable of teaching is alread
 
 ---
 
-# 🧠 15. Institutional memory should survive staff turnover
+## 🧠 15. Institutional memory should survive staff turnover
 
 A resilient institution cannot depend upon:
 
@@ -490,7 +487,7 @@ It is to preserve the **why**.
 
 ---
 
-# 📚 16. Every major decision should retain its reasoning
+## 📚 16. Every major decision should retain its reasoning
 
 Future officials should be able to find:
 
@@ -513,7 +510,7 @@ That makes later review far weaker.
 
 ---
 
-# 🔁 17. Build lessons into normal operations
+## 🔁 17. Build lessons into normal operations
 
 Lessons systems should not activate only after catastrophe.
 
@@ -543,7 +540,7 @@ A lesson is learned when behaviour changes.
 
 ---
 
-# ⚙️ 18. Retest fixes
+## ⚙️ 18. Retest fixes
 
 This is one of the most neglected steps in institutional learning.
 
@@ -574,7 +571,7 @@ It is administrative optimism.
 
 ---
 
-# 🧈 19. Make negative feedback easy to transmit
+## 🧈 19. Make negative feedback easy to transmit
 
 Healthy systems make bad news cheap to report.
 
@@ -601,7 +598,7 @@ The feedback needs to move like fucking butter.
 
 ---
 
-# 🧿 20. Distinguish dissent from disobedience
+## 🧿 20. Distinguish dissent from disobedience
 
 Military hierarchy is necessary.
 
@@ -621,7 +618,7 @@ It also makes later accountability clearer.
 
 ---
 
-# 🪟 21. Make uncertainty visible
+## 🪟 21. Make uncertainty visible
 
 Plans often become politically dangerous when uncertainty disappears during briefing.
 
@@ -651,7 +648,7 @@ But decision-makers need to know:
 
 ---
 
-# 🎲 22. Keep an assumptions register
+## 🎲 22. Keep an assumptions register
 
 Major strategy should record assumptions such as:
 
@@ -672,7 +669,7 @@ This is particularly important because past operational success can make assumpt
 
 ---
 
-# 🧨 23. Hunt for assumptions likely to fail together
+## 🧨 23. Hunt for assumptions likely to fail together
 
 Strategic planning often tests one variable at a time.
 
@@ -698,7 +695,7 @@ That is where resilience gets real.
 
 ---
 
-# 🌩️ 24. Plan for strategic surprise explicitly
+## 🌩️ 24. Plan for strategic surprise explicitly
 
 Strategic surprise does not mean:
 
@@ -721,7 +718,7 @@ It should preserve enough adaptive capacity that prediction failure is survivabl
 
 ---
 
-# 🌀 25. Optimise for adaptability, not perfect forecasting
+## 🌀 25. Optimise for adaptability, not perfect forecasting
 
 No review written in 2026 can specify precisely what Britain will need in 2046.
 
@@ -745,7 +742,7 @@ It is:
 
 ---
 
-# 🧰 26. Preserve generalist capacity alongside specialists
+## 🧰 26. Preserve generalist capacity alongside specialists
 
 Future Defence will need deep specialists.
 
@@ -769,7 +766,7 @@ Someone needs to know how the boxes connect.
 
 ---
 
-# 🧩 27. Do not overfit to the last war
+## 🧩 27. Do not overfit to the last war
 
 Afghanistan produced highly useful adaptations.
 
@@ -805,7 +802,7 @@ That distinction helps prevent future overfitting.
 
 ---
 
-# 🌍 28. Use allies as resilience, not dependency camouflage
+## 🌍 28. Use allies as resilience, not dependency camouflage
 
 Alliances create genuine redundancy.
 
@@ -827,7 +824,7 @@ Not when it is merely assumed.
 
 ---
 
-# 🪢 29. Avoid correlated allied failure
+## 🪢 29. Avoid correlated allied failure
 
 NATO states may share:
 
@@ -851,7 +848,7 @@ Alliance resilience therefore needs some diversity.
 
 ---
 
-# 🏭 30. Industrial redundancy needs realistic economics
+## 🏭 30. Industrial redundancy needs realistic economics
 
 Britain cannot maintain a spare factory for everything.
 
@@ -872,7 +869,7 @@ Treat them accordingly.
 
 ---
 
-# 🔧 31. Repair capacity matters as much as replacement
+## 🔧 31. Repair capacity matters as much as replacement
 
 Resilience is not only:
 
@@ -895,7 +892,7 @@ A repaired platform can return capability much faster than a replacement platfor
 
 ---
 
-# 🩻 32. Medical resilience needs surge capacity too
+## 🩻 32. Medical resilience needs surge capacity too
 
 High-intensity conflict can produce sudden medical demand.
 
@@ -915,7 +912,7 @@ Not treated as the part we solve after casualties appear.
 
 ---
 
-# 🦿 33. Rehabilitation capacity preserves human capability
+## 🦿 33. Rehabilitation capacity preserves human capability
 
 Rehabilitation is also resilience.
 
@@ -936,7 +933,7 @@ That is what preparedness means.
 
 ---
 
-# 👥 34. Personnel resilience requires sustainable tempo
+## 🧩 34. Personnel resilience requires sustainable tempo
 
 The force cannot use human beings as infinite elastic.
 
@@ -960,7 +957,7 @@ That is delayed failure.
 
 ---
 
-# 🏡 35. Family resilience is force resilience
+## 🏡 35. Family resilience is force resilience
 
 If families cannot absorb:
 
@@ -978,7 +975,7 @@ It is part of the reserve that keeps experienced capability inside the force.
 
 ---
 
-# 🔄 36. Build succession before the expert leaves
+## 🔄 36. Build succession before the expert leaves
 
 For scarce roles:
 
@@ -996,7 +993,7 @@ to remain a plausible administrative event.
 
 ---
 
-# 🧪 37. Run red teams against force generation
+## 🧪 37. Run red teams against force generation
 
 Red-teaming should not only ask:
 
@@ -1021,7 +1018,7 @@ This is institutional threat modelling.
 
 ---
 
-# 📉 38. Treat trends before thresholds
+## 📉 38. Treat trends before thresholds
 
 Waiting until readiness formally fails is late.
 
@@ -1040,7 +1037,7 @@ The useful intervention point is:
 
 ---
 
-# 🚦 39. Create amber conditions with consequences
+## 🚦 39. Create amber conditions with consequences
 
 Organisations often have:
 
@@ -1069,7 +1066,7 @@ Not:
 
 ---
 
-# 🧾 40. Build readiness debt into the ledger
+## 🧾 40. Build readiness debt into the ledger
 
 Cancelled maintenance creates maintenance debt.
 
@@ -1095,7 +1092,7 @@ This would make repeated borrowing from future readiness much harder to hide.
 
 ---
 
-# 💳 41. Do not let temporary measures become permanent by inertia
+## 💳 41. Do not let temporary measures become permanent by inertia
 
 Many systems accumulate:
 
@@ -1120,7 +1117,7 @@ Temporary policy should not acquire immortality through administrative forgetful
 
 ---
 
-# 🔭 42. Preserve strategic option value
+## 🔭 42. Preserve strategic option value
 
 Some capability is worth maintaining because it keeps future choices open.
 
@@ -1141,7 +1138,7 @@ Before irreversible decisions:
 
 ---
 
-# 🌲 43. Prefer reversible decisions under uncertainty
+## 🌲 43. Prefer reversible decisions under uncertainty
 
 Where uncertainty is high, reversible decisions are often valuable.
 
@@ -1161,7 +1158,7 @@ But irreversibility deserves an explicit premium.
 
 ---
 
-# 🪖 44. Exercise the boring failures
+## 🪖 44. Exercise the boring failures
 
 Exercises naturally gravitate toward:
 
@@ -1184,7 +1181,7 @@ The enemy does not need to destroy capability you have already disabled administ
 
 ---
 
-# 🧯 45. Separate crisis heroism from institutional health
+## 🧯 45. Separate crisis heroism from institutional health
 
 A system can appear excellent because individuals repeatedly save it.
 
@@ -1204,7 +1201,7 @@ It should also trigger investigation into whether the crisis was avoidable.
 
 ---
 
-# 🧠 46. Learn from near-misses
+## 🧠 46. Learn from near-misses
 
 Defence should treat:
 
@@ -1227,7 +1224,7 @@ Waiting for actual catastrophe wastes free evidence.
 
 ---
 
-# 🪟 47. Public scrutiny can increase resilience
+## 🪟 47. Public scrutiny can increase resilience
 
 Secrecy is necessary in Defence.
 
@@ -1261,7 +1258,7 @@ The point is:
 
 ---
 
-# 🧿 48. Bounded transparency should be designed in
+## 🧿 48. Bounded transparency should be designed in
 
 The existing Polaris rule applies:
 
@@ -1289,7 +1286,7 @@ Not ambient.
 
 ---
 
-# 📜 49. Make review recommendations decay-resistant
+## 📜 49. Make review recommendations decay-resistant
 
 For each major review recommendation:
 
@@ -1319,7 +1316,7 @@ This prevents the institutional trick where every new review rediscovers the pre
 
 ---
 
-# ⏳ 50. Give lessons a half-life check
+## ⏳ 50. Give lessons a half-life check
 
 Every few years, ask:
 
@@ -1341,7 +1338,7 @@ Distinguish them.
 
 ---
 
-# 🎲 51. Keep multiple futures alive
+## 🎲 51. Keep multiple futures alive
 
 Strategic planning should avoid one forecast becoming doctrine.
 
@@ -1377,7 +1374,7 @@ Those often deserve resilience priority.
 
 ---
 
-# 🧭 52. Build no-regrets capability
+## 🧭 52. Build no-regrets capability
 
 Some investments retain value under many scenarios.
 
@@ -1398,7 +1395,7 @@ But they are useful across a much wider range of futures.
 
 ---
 
-# 🌐 53. Protect civilian infrastructure interfaces
+## 🌐 53. Protect civilian infrastructure interfaces
 
 Modern military resilience depends upon civilian systems:
 
@@ -1422,7 +1419,7 @@ This should be mapped with appropriate public and private partners.
 
 ---
 
-# 🧵 54. Civil resilience and military resilience overlap
+## 🧵 54. Civil resilience and military resilience overlap
 
 The same infrastructure can support:
 
@@ -1447,7 +1444,7 @@ It means recognising shared physical systems.
 
 ---
 
-# 🛡️ 55. Resilience against political change
+## 🛡️ 55. Resilience against political change
 
 A forty-year capability cannot depend upon one party remaining in office.
 
@@ -1468,7 +1465,7 @@ It is preventing every election from resetting strategic memory to zero.
 
 ---
 
-# 🧱 56. Make resilience boring enough to survive governments
+## 🧱 56. Make resilience boring enough to survive governments
 
 The strongest systems often look uninteresting.
 
@@ -1492,7 +1489,7 @@ That is a legitimate strategic achievement.
 
 ---
 
-# 🧠 57. Define resilience outputs
+## 🧠 57. Define resilience outputs
 
 Useful outcomes might include:
 
@@ -1534,7 +1531,7 @@ These are stronger measures than:
 
 ---
 
-# 📊 58. Create a resilience scorecard carefully
+## 📊 58. Create a resilience scorecard carefully
 
 A scorecard should never pretend a complicated military can be collapsed into one magic number.
 
@@ -1556,7 +1553,7 @@ Not gamified bureaucracy.
 
 ---
 
-# 🚨 59. Pre-agree escalation routes
+## 🦚 59. Pre-agree escalation routes
 
 When readiness pressure emerges, institutions should already know:
 
@@ -1572,7 +1569,7 @@ That creates both delay and blame confusion.
 
 ---
 
-# 🧮 60. Pre-agree the sacrifice hierarchy
+## 🧮 60. Pre-agree the sacrifice hierarchy
 
 This sounds grim.
 
@@ -1599,7 +1596,7 @@ That is not strategy.
 
 ---
 
-# 🧠 61. Keep one question permanently open
+## 🧠 61. Keep one question permanently open
 
 Every major Defence planning cycle should ask:
 
@@ -1615,7 +1612,7 @@ It is a guard against assumptions becoming invisible.
 
 ---
 
-# 🔮 62. Future surprise is unavoidable
+## 🔮 62. Future surprise is unavoidable
 
 By 2076, Britain will have encountered events none of us can specify today.
 
@@ -1637,7 +1634,7 @@ It means:
 
 ---
 
-# 🩺 Relapse-prevention plan
+## 🩺 Relapse-prevention plan
 
 ## Every year
 
@@ -1675,7 +1672,7 @@ It means:
 
 ---
 
-# 🛡️ Resilience principles
+## 🛡️ Resilience principles
 
 A future British force should be designed so that:
 
@@ -1692,7 +1689,7 @@ A future British force should be designed so that:
 
 ---
 
-# 🧠 The deeper prevention principle
+## 🧠 The deeper prevention principle
 
 The goal is not to build a Defence system which never breaks.
 
@@ -1712,7 +1709,7 @@ and:
 
 ---
 
-# 🌱 The gardening problem
+## 🌱 The gardening problem
 
 A resilient system looks expensive right up until the day it is needed.
 
@@ -1736,52 +1733,42 @@ Prevention is mostly the discipline of remembering that healthy systems require 
 
 ---
 
-## 📡 Carry Forward
-
-This node connects to:
-
-* [`💊_long_term_management.md`](./💊_long_term_management.md) — rebuilding the underlying force-generation system;
-* [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — institutional cybernetics and negative feedback;
-* [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — why competence needs repeated rehearsal;
-* [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — identifying unconstrained resilience requirements;
-* [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — functional readiness outputs;
-* [`🪟_transparency_and_earned_loyalty.md`](./🪟_transparency_and_earned_loyalty.md) — public scrutiny and institutional trust;
-* [`data/strategic_reviews.md`](./data/strategic_reviews.md) — recurring recommendations and unfinished implementation;
-* [`data/timeline.md`](./data/timeline.md) — strategic shocks and adaptation;
-* [`data/open_questions.md`](./data/open_questions.md) — unresolved resilience questions.
-
 ---
 
 ## 🌌 Constellations
-
 🛡️ 🌳 ⚙️ 🧠 🏚️ 🏭 🩻 🔭 — resilience; redundancy; spare capacity; institutional memory; strategic surprise; force regeneration; civil-military infrastructure; adaptive Defence.
 
 ---
 
 ## ✨ Stardust
-
 defence resilience, british army readiness, strategic surprise, force generation, redundancy, spare capacity, military mobilisation, institutional memory, lessons learned, defence estate, industrial resilience, training debt, readiness debt, military adaptability, defence planning
 
 ---
 
 ## 🏮 Footer
 
-*Training Debrief* is a living analytical cluster of the **Polaris Protocol**.
+*🛡️ Prevention And Resilience* is a living node of the **Polaris Protocol**.  
+It identifies the redundancy, option value, learning capacity and reserve required to make future strategic error less damaging.
 
-This node treats readiness resilience as a design problem: Britain cannot eliminate strategic surprise, but it can reduce the chance that one unexpected pressure collapses the systems required to generate military capability.
-
-The objective is not perfect prediction.
-
-It is preserving enough reserve, redundancy, learning capacity and institutional memory that being wrong does not become fatal.
-
-> **You do not build resilience because you know exactly what will happen.
-> You build it because you know you do not.**
+> 📡 Cross-references:
+>
+> - [`💊_long_term_management.md`](./💊_long_term_management.md) — *rebuilding the underlying force-generation system*
+> - [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — *institutional cybernetics and negative feedback*
+> - [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — *why competence needs repeated rehearsal*
+> - [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — *identifying unconstrained resilience requirements*
+> - [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — *functional readiness outputs*
+> - [`🪟_transparency_and_earned_loyalty.md`](./🪟_transparency_and_earned_loyalty.md) — *public scrutiny and institutional trust*
+> - [`data/strategic_reviews.md`](./data/strategic_reviews.md) — *recurring recommendations and unfinished implementation*
+> - [`data/timeline.md`](./data/timeline.md) — *strategic shocks and adaptation*
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-07*
-
-```
-
-The bit I most want to preserve here is **“make being partly wrong cheaper.”** That is basically the entire 50-year resilience problem in one line: you cannot know what 2076 requires, so the serious task is preserving option value, regeneration capacity and institutional learning rather than trying to guess the exact future correctly.
-```
+_Last updated: 2026-09-07_

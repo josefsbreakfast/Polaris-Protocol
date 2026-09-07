@@ -45,7 +45,7 @@ And collective competence is one of the things Britain is actually purchasing wh
 
 ---
 
-# 🧩 1. Capability is relational
+## 🧩 1. Capability is relational
 
 Consider a simplified formation.
 
@@ -88,7 +88,7 @@ Not necessarily:
 
 ---
 
-# 🧠 2. Knowing your job is not the same as knowing each other
+## 🧠 2. Knowing your job is not the same as knowing each other
 
 An individual can know:
 
@@ -121,7 +121,7 @@ You acquire it partly by doing the thing together.
 
 ---
 
-# 🧠 3. Tacit knowledge matters
+## 🧠 3. Tacit knowledge matters
 
 Some military knowledge can be written down.
 
@@ -143,7 +143,7 @@ It is where much of real military competence lives.
 
 ---
 
-# 🧵 4. Collective competence is a network property
+## 🧵 4. Collective competence is a network property
 
 This is why collective training should not be understood merely as:
 
@@ -177,7 +177,7 @@ That makes collective training a capability-generation activity.
 
 ---
 
-# 🪢 5. Cohesion is partly operational
+## 🪢 5. Cohesion is partly operational
 
 Cohesion is often discussed as morale.
 
@@ -204,7 +204,7 @@ That matters.
 
 ---
 
-# 🤝 6. Trust needs evidence
+## 🤝 6. Trust needs evidence
 
 Military personnel are asked to trust other people with extraordinary consequences.
 
@@ -228,7 +228,7 @@ And evidence-based trust is stronger than:
 
 ---
 
-# 🏋️ 7. Training converts nominal strength into usable strength
+## 🏋️ 7. Training converts nominal strength into usable strength
 
 A force may have:
 
@@ -264,7 +264,7 @@ and:
 
 ---
 
-# 🎼 8. The orchestra problem
+## 🎼 8. The orchestra problem
 
 A useful civilian analogy is an orchestra.
 
@@ -298,7 +298,7 @@ You cannot purchase excellent individual musicians and assume you have thereby p
 
 ---
 
-# 🪖 9. Scale changes the problem
+## 🪖 9. Scale changes the problem
 
 Training at:
 
@@ -338,7 +338,7 @@ It has to be tested.
 
 ---
 
-# 🚚 10. Logistics becomes real when everybody moves
+## 🚚 10. Logistics becomes real when everybody moves
 
 A classroom can teach logistics.
 
@@ -367,7 +367,7 @@ A formation which can fight for six hours but cannot sustain itself is not fully
 
 ---
 
-# 📡 11. Communications need collective rehearsal
+## 📡 11. Communications need collective rehearsal
 
 Communications systems are especially vulnerable to theoretical competence.
 
@@ -393,7 +393,7 @@ That is capability testing.
 
 ---
 
-# 🧭 12. Command is also a practised skill
+## 🧭 12. Command is also a practised skill
 
 Commanders do not merely need knowledge of doctrine.
 
@@ -414,7 +414,7 @@ That creates shared expectations around:
 
 ---
 
-# 🧪 13. Training is partly an experiment
+## 🧪 13. Training is partly an experiment
 
 Training is often described as preparation.
 
@@ -447,7 +447,7 @@ Provided somebody then fixes them.
 
 ---
 
-# ⚙️ 14. Training is a sensor inside the feedback machine
+## ⚙️ 14. Training is a sensor inside the feedback machine
 
 This connects directly to:
 
@@ -473,7 +473,7 @@ It loses one of the mechanisms by which it discovers:
 
 ---
 
-# 📚 15. Akam: training after operational failure
+## 📚 15. Akam: training after operational failure
 
 Simon Akam's *The Changing of the Guard* provides an unusually useful account of the British Army's attempts to improve training during Iraq and Afghanistan.
 
@@ -491,7 +491,7 @@ That is training as adaptation.
 
 ---
 
-# 🧑‍🏫 16. OPTAG: the instructor system matters
+## 🎓 16. OPTAG: the instructor system matters
 
 Akam's account of OPTAG describes a training organisation which, at points, had problems including:
 
@@ -510,7 +510,7 @@ the next cohort does not inherit it.
 
 ---
 
-# ⚡ 17. Theatre → instructor → next cohort
+## ⚡ 17. Theatre → instructor → next cohort
 
 At its healthiest, Akam's account contains remarkably short feedback loops.
 
@@ -540,7 +540,7 @@ It is acting as:
 
 ---
 
-# 🏚️ 18. Representative environments matter
+## 🏚️ 18. Representative environments matter
 
 Akam also describes efforts to improve the physical environments used for preparation.
 
@@ -567,7 +567,7 @@ It means training realism should be sufficient to expose the behaviours and prob
 
 ---
 
-# 🏜️ 19. BATUS: realism evolves
+## 🏜️ 19. BATUS: realism evolves
 
 Akam's account of reforms at BATUS is useful for the same reason.
 
@@ -597,7 +597,7 @@ It is:
 
 ---
 
-# 🤖 20. Technology has always belonged inside training
+## 🤖 20. Technology has always belonged inside training
 
 This matters for the current simulation debate.
 
@@ -635,7 +635,7 @@ Modernisation and collective training are not opposites.
 
 ---
 
-# 🖥️ 21. What simulation is good at
+## 🖥️ 21. What simulation is good at
 
 Synthetic training can be extremely useful for:
 
@@ -659,7 +659,7 @@ That is valuable.
 
 ---
 
-# 🌧️ 22. What the physical world refuses to simulate politely
+## 🌧️ 22. What the physical world refuses to simulate politely
 
 Live training introduces forms of friction which are difficult to reproduce completely.
 
@@ -688,7 +688,7 @@ That is partly why it remains useful.
 
 ---
 
-# 🧠 23. Simulation and live training generate different information
+## 🧠 23. Simulation and live training generate different information
 
 This distinction is important.
 
@@ -729,7 +729,7 @@ live training traditional
 
 ---
 
-# 📜 24. The 2025 Strategic Defence Review gets this broadly right
+## 📜 24. The 2025 Strategic Defence Review gets this broadly right
 
 The 2025 Strategic Defence Review explicitly treats training as a strategic and institutional priority in restoring Army readiness.
 
@@ -751,7 +751,7 @@ It is:
 
 ---
 
-# 🔬 25. Substitution needs evidence
+## 🔬 25. Substitution needs evidence
 
 Suppose an exercise previously required:
 
@@ -783,7 +783,7 @@ Technology should earn the right to replace an existing training function by dem
 
 ---
 
-# 🧠 26. Stress inoculation is a training objective
+## 🧠 26. Stress inoculation is a training objective
 
 Some training deliberately exposes personnel to:
 
@@ -809,7 +809,7 @@ That is stress inoculation.
 
 ---
 
-# 🔥 27. Stress must be calibrated
+## 🔥 27. Stress must be calibrated
 
 Akam's OPTAG material also gives us the counterpoint.
 
@@ -844,7 +844,7 @@ The relevant question is:
 
 ---
 
-# 🎯 28. Stress inoculation is not trauma production
+## 🎯 28. Stress inoculation is not trauma production
 
 This boundary matters.
 
@@ -870,7 +870,7 @@ Training people for danger does not remove the duty to train them intelligently.
 
 ---
 
-# ⏳ 29. Skills decay
+## ⏳ 29. Skills decay
 
 Military competence is not acquired once.
 
@@ -899,7 +899,7 @@ Readiness has a maintenance requirement.
 
 ---
 
-# 📉 30. Training debt
+## 📉 30. Training debt
 
 This gives us the concept of:
 
@@ -938,7 +938,7 @@ exercise cancelled
 
 ---
 
-# ⌛ 31. Different capabilities decay at different rates
+## ⌛ 31. Different capabilities decay at different rates
 
 A useful future training system should know:
 
@@ -967,7 +967,7 @@ may simply mean:
 
 ---
 
-# 🔁 32. Repetition produces automaticity
+## 🔁 32. Repetition produces automaticity
 
 Under severe pressure, cognitive capacity narrows.
 
@@ -992,7 +992,7 @@ That is particularly valuable when:
 
 ---
 
-# 🧠 33. But automaticity creates another problem
+## 🧠 33. But automaticity creates another problem
 
 A behaviour which becomes automatic can survive after the environment which produced it disappears.
 
@@ -1012,7 +1012,7 @@ This is the paradox:
 
 ---
 
-# 🔄 34. Unlearning is training too
+## 🔄 34. Unlearning is training too
 
 Akam's Brecon example makes this unusually vivid.
 
@@ -1036,7 +1036,7 @@ The point is:
 
 ---
 
-# 🧬 35. Doctrine lives in bodies
+## 🧬 35. Doctrine lives in bodies
 
 This is one reason written doctrine is insufficient.
 
@@ -1065,7 +1065,7 @@ Doctrine becomes capability when it reaches behaviour.
 
 ---
 
-# 🧠 36. Overfitting is a military-learning problem
+## 🧠 36. Overfitting is a military-learning problem
 
 Machine-learning language is useful here.
 
@@ -1091,7 +1091,7 @@ from:
 
 ---
 
-# 🧩 37. Mechanism versus context
+## 🧩 37. Mechanism versus context
 
 For example:
 
@@ -1125,7 +1125,7 @@ Update the context continuously.
 
 ---
 
-# 🎲 38. Variation protects against overfitting
+## 🎲 38. Variation protects against overfitting
 
 Training should therefore expose personnel to variation.
 
@@ -1153,7 +1153,7 @@ It is:
 
 ---
 
-# 🧨 39. Surprise should happen in training
+## 🧨 39. Surprise should happen in training
 
 If participants always know:
 
@@ -1174,7 +1174,7 @@ Which is rather relevant to warfare.
 
 ---
 
-# 🌐 40. Allied competence also needs rehearsal
+## 🌐 40. Allied competence also needs rehearsal
 
 Britain's current strategy is explicitly NATO-first.
 
@@ -1198,7 +1198,7 @@ It is created partly by repeated practice.
 
 ---
 
-# 🤝 41. Familiarity reduces allied friction
+## 🤝 41. Familiarity reduces allied friction
 
 Allied exercises let people learn:
 
@@ -1223,7 +1223,7 @@ Military interoperability is the work required to make that commitment executabl
 
 ---
 
-# 🧱 42. Joint competence also requires practice
+## 🧱 42. Joint competence also requires practice
 
 The same applies inside Britain.
 
@@ -1246,7 +1246,7 @@ You cannot sensibly plan to:
 
 ---
 
-# 🧠 43. RUSI: collective competence is not optional decoration
+## 🧠 43. RUSI: collective competence is not optional decoration
 
 RUSI's 2026 paper:
 
@@ -1283,7 +1283,7 @@ It is:
 
 ---
 
-# 🧯 44. Mobilisation makes the training problem larger
+## 🧯 44. Mobilisation makes the training problem larger
 
 If Britain ever needs to expand the force quickly:
 
@@ -1306,7 +1306,7 @@ That is why training infrastructure belongs inside mobilisation planning.
 
 ---
 
-# 🧑‍🏫 45. Instructor capacity is mobilisation capacity
+## 🎓 45. Instructor capacity is mobilisation capacity
 
 This is an important inversion.
 
@@ -1328,7 +1328,7 @@ It includes the institution's ability to scale.
 
 ---
 
-# 🏚️ 46. Training estate is also mobilisation infrastructure
+## 🏚️ 46. Training estate is also mobilisation infrastructure
 
 The same applies to:
 
@@ -1353,7 +1353,7 @@ It is part of the force-generation system.
 
 ---
 
-# 🇺🇦 47. Operation Interflex demonstrates the capacity problem
+## 🇺🇦 47. Operation Interflex demonstrates the capacity problem
 
 British training support for Ukraine is strategically valuable.
 
@@ -1375,7 +1375,7 @@ That is precisely why capacity planning matters.
 
 ---
 
-# 🛡️ 48. Training creates survivability
+## 🛡️ 48. Training creates survivability
 
 The National Audit Office's work on Operation Interflex provides another useful datapoint.
 
@@ -1393,7 +1393,7 @@ That matters when evaluating its value.
 
 ---
 
-# 🩸 49. The casualty prevented has no invoice
+## 🩸 49. The casualty prevented has no invoice
 
 This returns us to one of the central problems in this cluster.
 
@@ -1415,7 +1415,7 @@ But not economically worthless.
 
 ---
 
-# 🦿 50. Training and rehabilitation belong in one moral accounting
+## 🦿 50. Training and rehabilitation belong in one moral accounting
 
 Where training fails to prevent harm—or where harm could not reasonably have been prevented—the state may acquire long-term obligations involving:
 
@@ -1442,7 +1442,7 @@ The cost of preparation and the consequences of inadequate preparation should no
 
 ---
 
-# 🩻 51. Derek Derenalagi and making risk visible
+## 🩻 51. Derek Derenalagi and making risk visible
 
 Akam's account of Derek Derenalagi is powerful precisely because it makes an abstract category human.
 
@@ -1472,7 +1472,7 @@ The accounting acquired a body.
 
 ---
 
-# 💷 52. Cost and value are different variables
+## 💷 52. Cost and value are different variables
 
 Suppose an exercise costs:
 
@@ -1506,7 +1506,7 @@ That is why the current dispute cannot be analysed from the cash figure alone.
 
 ---
 
-# 🧮 53. Training has option value
+## 🧮 53. Training has option value
 
 Training can create capacity which is never used in combat.
 
@@ -1535,7 +1535,7 @@ Preventative capability is easy to undervalue because its best outcome is often 
 
 ---
 
-# 🪟 54. “Non-essential” requires a time horizon
+## 🪟 54. “Non-essential” requires a time horizon
 
 One reason the current language matters is the phrase:
 
@@ -1567,7 +1567,7 @@ Therefore:
 
 ---
 
-# 📆 55. A calendar is not a capability model
+## 📆 55. A calendar is not a capability model
 
 Exercises appearing on a schedule can make them look like:
 
@@ -1596,7 +1596,7 @@ The calendar is merely the visible surface of the capability-generation system.
 
 ---
 
-# 🔭 56. Training should be designed backwards from readiness
+## 🔭 56. Training should be designed backwards from readiness
 
 The sequence should therefore be:
 
@@ -1629,7 +1629,7 @@ But we should at least know which one we are doing.
 
 ---
 
-# 🧪 57. Training needs outcomes, not attendance metrics
+## 🧪 57. Training needs outcomes, not attendance metrics
 
 Useful measures include:
 
@@ -1657,7 +1657,7 @@ It does not tell us:
 
 ---
 
-# 🧠 58. Training failure can be evidence of training success
+## 🧠 58. Training failure can be evidence of training success
 
 This is counterintuitive enough to state plainly.
 
@@ -1685,7 +1685,7 @@ Not merely smooth performance.
 
 ---
 
-# 🚨 59. Do not train the dashboard
+## 🦚 59. Do not train the dashboard
 
 If careers, funding or reputation depend too heavily on:
 
@@ -1712,7 +1712,7 @@ That is Goodhart's law in camouflage.
 
 ---
 
-# 🧿 60. The question is not “how much training?”
+## 🧿 60. The question is not “how much training?”
 
 There is no universal answer.
 
@@ -1743,7 +1743,7 @@ The better questions are:
 
 ---
 
-# ⚖️ 61. Training can legitimately be deprioritised
+## ⚖️ 61. Training can legitimately be deprioritised
 
 This node should not turn into:
 
@@ -1770,7 +1770,7 @@ It is:
 
 ---
 
-# 🧠 62. The September 2026 question
+## 🧠 62. The September 2026 question
 
 That brings us back to the presenting complaint.
 
@@ -1790,7 +1790,7 @@ That is the capability question.
 
 ---
 
-# 🧱 63. Flexible does not mean expendable
+## 🧱 63. Flexible does not mean expendable
 
 Training is particularly vulnerable because it can often be cancelled quickly.
 
@@ -1814,7 +1814,7 @@ Hence the recurring question:
 
 ---
 
-# 🧠 64. The deeper capability model
+## 🧠 64. The deeper capability model
 
 Training performs several functions simultaneously.
 
@@ -1870,7 +1870,7 @@ That is considerably more than:
 
 ---
 
-# ⚙️ 65. Training is part of the military's learning architecture
+## ⚙️ 65. Training is part of the military's learning architecture
 
 This is why the cluster treats training and feedback as inseparable.
 
@@ -1892,7 +1892,7 @@ Training is one of the mechanisms by which institutional knowledge becomes embod
 
 ---
 
-# 🪖 66. The capability statement
+## 🪖 66. The capability statement
 
 The central proposition of this node is therefore:
 
@@ -1910,7 +1910,7 @@ Training helps create the system.
 
 ---
 
-# 🧠 67. The counterfactual test
+## 🧠 67. The counterfactual test
 
 Whenever training is proposed for reduction, ask:
 
@@ -1942,7 +1942,7 @@ A serious training system should know what its activities are for.
 
 ---
 
-# 🔭 68. What Britain is actually buying
+## 🔭 68. What Britain is actually buying
 
 When Britain pays for collective training, it may be buying:
 
@@ -1974,7 +1974,7 @@ That is why:
 
 ---
 
-# 🛡️ Working principles
+## 🛡️ Working principles
 
 1. **Individual competence does not automatically produce collective competence.**
 2. **Collective competence requires repeated shared practice.**
@@ -1991,7 +1991,7 @@ That is why:
 
 ---
 
-# 🧾 Questions for the current dispute
+## 🧾 Questions for the current dispute
 
 For every affected category of collective training, establish:
 
@@ -2021,74 +2021,42 @@ be translated into:
 
 ---
 
-## 📡 Carry Forward
-
-This node connects directly to:
-
-- [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — how training receives and transmits operational learning;
-- [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — defining the capability training is intended to produce;
-- [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — translating the current saving back into capability;
-- [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — establishing unconstrained training requirements before affordability;
-- [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — preserving training capacity, redundancy and institutional memory;
-- [`💊_long_term_management.md`](./💊_long_term_management.md) — instructors, estate, personnel and force-generation reform;
-- [`🔬_tests_and_investigations.md`](./🔬_tests_and_investigations.md) — evidence needed to establish the actual training requirement;
-- [`data/strategic_reviews.md`](./data/strategic_reviews.md) — how training requirements have evolved across reviews;
-- [`data/current_reporting.md`](./data/current_reporting.md) — claims about current training transformation;
-- [`data/source_bank.md`](./data/source_bank.md) — underlying evidence.
-
----
-
-## 📚 Initial sources
-
-- Simon Akam, *The Changing of the Guard: The British Army Since 9/11* (Scribe, 2021).
-- RUSI, Nick Reynolds and Paul O'Neill CBE, *Mobilisation and Training for War: Preparing to Break Glass* (2026).
-- UK Government, *Strategic Defence Review 2025: Making Britain Safer — secure at home, strong abroad*.
-- National Audit Office, *Investigation into military support for Ukraine*.
-- National Audit Office, *Support to High Intensity Operations*.
-- RUSI material on realistic training, readiness and safety constraints.
-- Contemporary Army / MOD material on synthetic training, counter-drone training and training modernisation.
-
-See:
-
-- `data/source_bank.md`
-- `data/strategic_reviews.md`
-- `data/timeline.md`
-- `data/current_reporting.md`
-
-for full citations and evidence notes.
-
 ---
 
 ## 🌌 Constellations
-
-🪖 🧠 ⚙️ 🧑‍🏫 🧩 🤖 🔁 🩸 — collective competence; tacit knowledge; cohesion; training realism; simulation; stress inoculation; skill decay; overfitting; unlearning; force generation.
+🪖 🧠 ⚙️ 🎓 🧩 🤖 🔁 🩸 — collective competence; tacit knowledge; cohesion; training realism; simulation; stress inoculation; skill decay; overfitting; unlearning; force generation.
 
 ---
 
 ## ✨ Stardust
-
 british army collective training, military readiness, collective competence, tacit knowledge, unit cohesion, live exercises, synthetic training, military simulation, stress inoculation, skill decay, training debt, OPTAG, BATUS, Simon Akam, RUSI, mobilisation, unlearning, military overfitting, NATO interoperability
 
 ---
 
 ## 🏮 Footer
 
-*Training Debrief* is a living analytical cluster of the **Polaris Protocol**.
+*🪖 What Training Is For* is a living node of the **Polaris Protocol**.  
+It treats collective training as part of military capability: the machinery that creates, integrates, tests, maintains and updates collective competence.
 
-This node treats collective training as part of military capability rather than as an optional activity surrounding it.
-
-It does not assume that every exercise must survive every spending pressure.
-
-It asks the more useful question:
-
-> **What function does the exercise produce, what happens when it disappears, and how do we know?**
-
-A force does not become ready because its people are individually qualified, its equipment exists, or its doctrine has been published.
-
-Those things have to function together.
-
-> **The orchestra still has to rehearse.**
+> 📡 Cross-references:
+>
+> - [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — *how training receives and transmits operational learning*
+> - [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — *defining the capability training is intended to produce*
+> - [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — *translating the current saving back into capability*
+> - [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — *establishing unconstrained training requirements before affordability*
+> - [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — *preserving training capacity, redundancy and institutional memory*
+> - [`💊_long_term_management.md`](./💊_long_term_management.md) — *instructors, estate, personnel and force-generation reform*
+> - [`🔬_tests_and_investigations.md`](./🔬_tests_and_investigations.md) — *evidence needed to establish the actual training requirement*
+> - [`data/strategic_reviews.md`](./data/strategic_reviews.md) — *how training requirements have evolved across reviews*
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-07*
+_Last updated: 2026-09-07_

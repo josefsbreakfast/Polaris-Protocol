@@ -1,8 +1,3 @@
-This one wants to be the **“stop running Defence like an annual emergency department attendance”** node. The core distinction from `🛡️_prevention_and_resilience.md` should be that this is about rebuilding the **whole force-generation organism over decades**, whereas prevention is about designing safeguards so it does not relapse into the same crisis pattern.
-
-The existing Polaris material already gives us two strong anchors: force generation is a distinct problem surface in its own right, not merely a subset of “defence spending,”  and recruitment works best when people can see meaningful, technically interesting routes into public-service work rather than being sold generic glory. 
-
-````markdown
 # 💊 Long-Term Management
 **First created:** 2026-09-07 | **Last updated:** 2026-09-07  
 *Five-to-fifty-year reform of British force generation: people, training, estate, equipment, medicine, industry and institutional knowledge.*
@@ -53,7 +48,7 @@ It also has to outlive governments.
 
 ---
 
-# 🧬 Force generation is the patient
+## 🧬 Force generation is the patient
 
 The visible military is not the whole military system.
 
@@ -96,7 +91,7 @@ The long-term management plan therefore has to treat these things as one system.
 
 ---
 
-# 🗓️ 1. Use several clocks at once
+## 🗓️ 1. Use several clocks at once
 
 Defence planning becomes distorted when everything is forced into one electoral or spending-review cycle.
 
@@ -128,7 +123,7 @@ The five-year plan should not become:
 
 ---
 
-# 🩺 2. Begin with functional requirements
+## 🩺 2. Begin with functional requirements
 
 Before choosing future force numbers, ask:
 
@@ -164,7 +159,7 @@ That is backwards.
 
 ---
 
-# 👥 3. People are not interchangeable units
+## 🧩 3. People are not interchangeable units
 
 A personnel number tells us very little by itself.
 
@@ -195,7 +190,7 @@ Ten vacancies in one rare trade may matter more than hundreds elsewhere.
 
 ---
 
-# 🎖️ 4. Recruitment begins long before application
+## 🎖️ 4. Recruitment begins long before application
 
 Recruitment is often treated as:
 
@@ -240,7 +235,7 @@ It may be exactly the workforce future Defence needs.
 
 ---
 
-# 🧰 5. Build multiple entry routes
+## 🧰 5. Build multiple entry routes
 
 A twenty-first-century force should not assume every useful person fits one standard career pattern.
 
@@ -266,7 +261,7 @@ It is to widen the routes through which relevant expertise can enter and remain 
 
 ---
 
-# 🪜 6. Recruitment without retention is expensive theatre
+## 🪜 6. Recruitment without retention is expensive theatre
 
 A system which recruits people successfully and then loses them unnecessarily is paying repeatedly for the same capability.
 
@@ -294,7 +289,7 @@ That does not mean institutions should deliberately manufacture unnecessary hard
 
 ---
 
-# 🏠 7. Service families are part of force generation
+## 🏠 7. Service families are part of force generation
 
 A deployable person does not exist in a vacuum.
 
@@ -323,7 +318,7 @@ It is part of the system that allows experienced people to stay.
 
 ---
 
-# 🧑‍🏫 8. Make instruction prestigious
+## 🎓 8. Make instruction prestigious
 
 Akam's OPTAG history gives a clear lesson:
 
@@ -348,7 +343,7 @@ It is the real career.
 
 ---
 
-# 🔁 9. Build an instructor reserve
+## 🔁 9. Build an instructor reserve
 
 High-intensity conflict could rapidly increase training demand.
 
@@ -376,7 +371,7 @@ That is mobilisation planning for knowledge.
 
 ---
 
-# 🧠 10. Treat institutional memory as capability
+## 🧠 10. Treat institutional memory as capability
 
 Experienced people carry information that databases do not fully capture.
 
@@ -424,7 +419,7 @@ It is archaeology.
 
 ---
 
-# ⚙️ 11. Preserve negative knowledge
+## ⚙️ 11. Preserve negative knowledge
 
 Institutions are good at recording:
 
@@ -456,7 +451,7 @@ This prevents institutional amnesia from masquerading as innovation.
 
 ---
 
-# 🏚️ 12. Treat estate as operational infrastructure
+## 🏚️ 12. Treat estate as operational infrastructure
 
 The Defence estate needs to be managed according to function, not merely ownership.
 
@@ -480,7 +475,7 @@ must not be treated as synonyms.
 
 ---
 
-# 🏗️ 13. Build estate for the force Britain wants next
+## 🏗️ 13. Build estate for the force Britain wants next
 
 Training areas designed around previous wars may not automatically support future requirements.
 
@@ -510,7 +505,7 @@ Not simply land value.
 
 ---
 
-# 🔧 14. Equipment availability is part of training policy
+## 🔧 14. Equipment availability is part of training policy
 
 A formation cannot build competence on equipment that exists only on paper.
 
@@ -537,7 +532,7 @@ That is a very different question.
 
 ---
 
-# 🔄 15. Design procurement around lifecycle capability
+## 🔄 15. Design procurement around lifecycle capability
 
 The purchase price is only one part of the cost.
 
@@ -565,7 +560,7 @@ rather than:
 
 ---
 
-# 🤖 16. Modernisation should reduce burden somewhere real
+## 🤖 16. Modernisation should reduce burden somewhere real
 
 Technology should solve identifiable problems.
 
@@ -593,7 +588,7 @@ we have not finished the business case.
 
 ---
 
-# 🪖 17. Live and synthetic training should be designed together
+## 🪖 17. Live and synthetic training should be designed together
 
 Long-term training architecture should stop treating:
 
@@ -634,7 +629,7 @@ Not replace whichever one is expensive that year.
 
 ---
 
-# 🩻 18. Military medicine belongs in force design
+## 🩻 18. Military medicine belongs in force design
 
 Medicine is not something that begins after the soldier is injured.
 
@@ -668,7 +663,7 @@ and:
 
 ---
 
-# 🩸 19. Prepare medicine for the war being planned
+## 🩸 19. Prepare medicine for the war being planned
 
 Future medical planning should test assumptions about:
 
@@ -688,7 +683,7 @@ If future Defence planning anticipates prolonged high-intensity warfare, medical
 
 ---
 
-# 🦿 20. Rehabilitation technology is Defence technology
+## 🦿 20. Rehabilitation technology is Defence technology
 
 Defence innovation is usually discussed through:
 
@@ -721,7 +716,7 @@ It must also ask:
 
 ---
 
-# ♿ 21. Injury creates a long-term state obligation
+## ♿ 21. Injury creates a long-term state obligation
 
 A service-related catastrophic injury may create decades of need.
 
@@ -751,7 +746,7 @@ That obligation belongs inside the true cost of Defence.
 
 ---
 
-# 🎖️ 22. Veterans policy is part of recruitment credibility
+## 🎖️ 22. Veterans policy is part of recruitment credibility
 
 Potential recruits observe what happens to people after service.
 
@@ -784,7 +779,7 @@ They are not substitute healthcare.
 
 ---
 
-# 🧭 23. Build a lifelong service pathway
+## 🧭 23. Build a lifelong service pathway
 
 The boundary between:
 
@@ -818,7 +813,7 @@ Leaving uniform should not mean institutional knowledge disappears over the hori
 
 ---
 
-# 🏭 24. Industrial capacity is readiness
+## 🏭 24. Industrial capacity is readiness
 
 War consumes things.
 
@@ -847,7 +842,7 @@ A force that can fight magnificently for three weeks and then cannot replace any
 
 ---
 
-# 🧱 25. Retain strategic industrial options
+## 🧱 25. Retain strategic industrial options
 
 Not everything needs sovereign production.
 
@@ -871,7 +866,7 @@ It is an argument for knowing where the fucking dependencies are.
 
 ---
 
-# 🏭 26. Design surge before the emergency
+## 🏭 26. Design surge before the emergency
 
 Industrial mobilisation cannot begin with:
 
@@ -896,7 +891,7 @@ It is to understand:
 
 ---
 
-# 🎓 27. Skills policy is Defence policy
+## 🎓 27. Skills policy is Defence policy
 
 Many future Defence shortages will also be national shortages.
 
@@ -927,7 +922,7 @@ It is recognising where the workforce actually comes from.
 
 ---
 
-# 🌍 28. Use regional industrial memory
+## 🌍 28. Use regional industrial memory
 
 Britain still contains communities shaped by:
 
@@ -960,7 +955,7 @@ That is a stronger political settlement than pretending Defence exists somewhere
 
 ---
 
-# 🤝 29. Alliance capacity should be planned deliberately
+## 🤝 29. Alliance capacity should be planned deliberately
 
 Britain does not need to be the world's perfect generalist military.
 
@@ -985,7 +980,7 @@ It may also reveal where apparent duplication is actually resilience.
 
 ---
 
-# 🧩 30. Joint does not automatically mean better
+## 🧩 30. Joint does not automatically mean better
 
 There is a recurring administrative temptation:
 
@@ -1017,7 +1012,7 @@ should not become:
 
 ---
 
-# 📚 31. Institutional knowledge needs an owner
+## 📚 31. Institutional knowledge needs an owner
 
 Lessons cannot simply belong to:
 
@@ -1050,7 +1045,7 @@ Without that, the institutional memory problem remains unsolved.
 
 ---
 
-# 🔁 32. Review implementation, not only policy
+## 🔁 32. Review implementation, not only policy
 
 Britain is not short of defence reviews.
 
@@ -1071,7 +1066,7 @@ Not simply the stationery.
 
 ---
 
-# 🧠 33. Preserve dissent
+## 🧠 33. Preserve dissent
 
 Long-term institutional learning requires people who can say:
 
@@ -1109,7 +1104,7 @@ from:
 
 ---
 
-# 🧈 34. Make feedback move like fucking butter
+## 🧈 34. Make feedback move like fucking butter
 
 The desired future loop is:
 
@@ -1143,7 +1138,7 @@ But unnecessary delay is also risk.
 
 ---
 
-# 📊 35. Use OKRs before KPIs
+## 📊 35. Use OKRs before KPIs
 
 The force needs objectives first.
 
@@ -1174,7 +1169,7 @@ can coexist beautifully with:
 
 ---
 
-# 💷 36. Price capability honestly
+## 💷 36. Price capability honestly
 
 Budgets should increasingly distinguish:
 
@@ -1212,7 +1207,7 @@ That makes trade-offs more intelligible.
 
 ---
 
-# 🪙 37. Protect preventative expenditure from invisibility
+## 🪙 37. Protect preventative expenditure from invisibility
 
 Prevention suffers from a political problem.
 
@@ -1239,7 +1234,7 @@ Otherwise visible purchases systematically defeat invisible avoided failures.
 
 ---
 
-# 🧾 38. Build the five-year reset
+## 🧾 38. Build the five-year reset
 
 The first five-year phase should be practical.
 
@@ -1292,7 +1287,7 @@ This should produce an **honest five-year implementation plan**, not merely anot
 
 ---
 
-# 🗓️ 39. Ten-to-twenty-five-year programme
+## 🗓️ 39. Ten-to-twenty-five-year programme
 
 The middle horizon should tackle structural problems that cannot be solved immediately.
 
@@ -1320,7 +1315,7 @@ Not:
 
 ---
 
-# 🔭 40. Fifty-year resilience
+## 🔭 40. Fifty-year resilience
 
 By 2076, nobody drafting this node should assume Britain will:
 
@@ -1351,7 +1346,7 @@ Not one particular tank.
 
 ---
 
-# 🪴 41. Build slack deliberately
+## 🪴 41. Build slack deliberately
 
 Efficiency systems tend to treat unused capacity as waste.
 
@@ -1383,7 +1378,7 @@ It is:
 
 ---
 
-# 🚒 42. Stop designing around perpetual firefighting
+## 🚒 42. Stop designing around perpetual firefighting
 
 A system in chronic crisis becomes very good at crisis response.
 
@@ -1407,7 +1402,7 @@ Not only heroic recovery.
 
 ---
 
-# 🧠 43. Leadership needs humility as capability
+## 🧠 43. Leadership needs humility as capability
 
 A serious reset cannot depend upon everyone protecting:
 
@@ -1433,7 +1428,7 @@ It is an information-gathering strategy.
 
 ---
 
-# 🪖 44. Raise the fucking bar
+## 🪖 44. Raise the fucking bar
 
 Senior military leadership carries a signalling function.
 
@@ -1460,7 +1455,7 @@ If preparation is treated as administrative background, the organisation will ev
 
 ---
 
-# 🪟 45. Make enough competence visible to earn trust
+## 🪟 45. Make enough competence visible to earn trust
 
 Defence necessarily keeps secrets.
 
@@ -1489,7 +1484,7 @@ The public should be able to understand the system sufficiently to judge whether
 
 ---
 
-# 🪖 46. Loyalty is earned through treatment, not demanded through symbolism
+## 🪖 46. Loyalty is earned through treatment, not demanded through symbolism
 
 A state cannot reasonably ask:
 
@@ -1515,7 +1510,7 @@ People stay in institutions they believe will still be there when the difficult 
 
 ---
 
-# 🩻 47. Measure the whole patient
+## 🩻 47. Measure the whole patient
 
 A future force-generation dashboard should connect:
 
@@ -1542,7 +1537,7 @@ They are one organism.
 
 ---
 
-# 🧪 48. Five-year diagnostic review cycle
+## 🧪 48. Five-year diagnostic review cycle
 
 Every five years, government should be able to answer:
 
@@ -1592,7 +1587,7 @@ Not simply a new list of things to buy.
 
 ---
 
-# 🪜 49. Reform sequence
+## 🪜 49. Reform sequence
 
 The order matters.
 
@@ -1626,7 +1621,7 @@ The novelty is wearing off.
 
 ---
 
-# 💊 Long-term management plan
+## 💊 Long-term management plan
 
 ## Years 0–5: repair
 
@@ -1671,7 +1666,7 @@ The novelty is wearing off.
 
 ---
 
-# 🧿 Long-term success criteria
+## 🧿 Long-term success criteria
 
 By the end of this process Britain should be able to answer:
 
@@ -1703,7 +1698,7 @@ And most importantly:
 
 ---
 
-# 🏥 The final clinical principle
+## 🏥 The final clinical principle
 
 The Armed Forces are often discussed as platforms.
 
@@ -1743,50 +1738,42 @@ the problem is larger than the spreadsheet.
 
 ---
 
-## 📡 Carry Forward
-
-This node feeds into:
-
-* [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — safeguards against recurrent degradation;
-* [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — defining unconstrained requirements before prioritisation;
-* [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — functional readiness outputs;
-* [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — institutional learning and feedback;
-* [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — how collective competence is generated;
-* [`🏚️_estate`](./data/source_bank.md) — evidence on training infrastructure;
-* [`data/strategic_reviews.md`](./data/strategic_reviews.md) — recurring recommendations and implementation;
-* [`data/open_questions.md`](./data/open_questions.md) — unresolved long-term design questions.
-
 ---
 
 ## 🌌 Constellations
-
-💊 🪖 🧑‍🏫 🏚️ 🩻 🦿 🏭 ⚙️ 🔭 — force generation; recruitment; retention; training; military medicine; rehabilitation; veterans; industrial capacity; institutional learning; long-term resilience.
+💊 🪖 🎓 🏚️ 🩻 🦿 🏭 ⚙️ 🔭 — force generation; recruitment; retention; training; military medicine; rehabilitation; veterans; industrial capacity; institutional learning; long-term resilience.
 
 ---
 
 ## ✨ Stardust
-
 british defence, force generation, british army, military recruitment, retention, instructors, training estate, defence equipment, military medicine, rehabilitation, veterans, defence industry, industrial mobilisation, institutional memory, readiness, strategic defence review, long term defence planning
 
 ---
 
 ## 🏮 Footer
 
-*Training Debrief* is a living analytical cluster of the **Polaris Protocol**.
+*💊 Long-Term Management* is a living node of the **Polaris Protocol**.  
+It treats long-term Defence reform as reconstruction of a regenerative force-generation system rather than a sequence of isolated spending lines.
 
-This node treats long-term Defence reform as the reconstruction of a regenerative system: people, training, estate, equipment, medicine, industry and knowledge must repeatedly generate usable military capability rather than survive as separate budget lines.
-
-The objective is not a permanently larger military.
-
-It is a military whose size, obligations, preparation and support systems actually agree with one another.
-
-> **Stop treating every recurrence as a new emergency. Build the organism that can survive the stress.**
+> 📡 Cross-references:
+>
+> - [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — *safeguards against recurrent degradation*
+> - [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — *defining unconstrained requirements before prioritisation*
+> - [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — *functional readiness outputs*
+> - [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — *institutional learning and feedback*
+> - [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — *how collective competence is generated*
+> - [`🏚️_estate`](./data/source_bank.md) — *evidence on training infrastructure*
+> - [`data/strategic_reviews.md`](./data/strategic_reviews.md) — *recurring recommendations and implementation*
+> - [`data/open_questions.md`](./data/open_questions.md) — *unresolved long-term design questions*
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-07*
-
-```
-
-I’ve deliberately made the **medicine → rehabilitation → veterans** sequence part of force generation rather than a moral appendix. That feels important here: if Defence counts the pre-injury human as capability but moves the injured human into a completely different conceptual ledger afterwards, its costing model is already lying about what military activity actually requires.
-```
+_Last updated: 2026-09-07_

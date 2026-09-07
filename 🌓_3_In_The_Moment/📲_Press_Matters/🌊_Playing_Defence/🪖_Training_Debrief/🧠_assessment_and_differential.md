@@ -41,7 +41,7 @@ None should be convicted because they were standing nearest the budget when the 
 
 ---
 
-# 🩻 Provisional assessment
+## 🩻 Provisional assessment
 
 The evidence currently supports a cautious systemic assessment:
 
@@ -68,7 +68,7 @@ Because treating a systems problem as one bad decision by one person is an excel
 
 ---
 
-# 🧬 The working differential
+## 🧬 The working differential
 
 At present, seven explanations deserve serious testing:
 
@@ -94,3 +94,46 @@ flowchart TD
     F --> G["Flexible activity absorbs shock"]
     G --> H["Collective training reduced"]
     H --> I["Readiness risk"]
+
+```
+
+---
+
+## 🧩 Recovery status
+
+The supplied source ends during the opening differential diagram. The remainder of the drafted node was not present in the uploaded file, so this house-style pass does not reconstruct it from memory or outside material. See [`GAP_ANALYSIS.md`](./GAP_ANALYSIS.md).
+
+---
+
+## 🌌 Constellations
+🧠 🪖 💷 ⚙️ 🔭 — differential diagnosis; training; affordability; force generation; institutional feedback.
+
+---
+
+## ✨ Stardust
+british defence, army training, differential diagnosis, defence affordability, force generation, readiness, institutional feedback
+
+---
+
+## 🏮 Footer
+
+*Assessment And Differential* is a recovery-incomplete node of the **Polaris Protocol**.  
+The surviving fragment is preserved without silently inventing the missing analysis.
+
+> 📡 Cross-references:
+>
+> - [🔬 Tests And Investigations](./🔬_tests_and_investigations.md) — *evidence required before diagnosis*  
+> - [🩺 Presenting Complaint](./🩺_presenting_complaint.md) — *the immediate complaint being assessed*  
+> - [🧩 Gap Analysis](./GAP_ANALYSIS.md) — *recovery and coverage status*  
+>  
+> 🏮 Return To:
+>
+> - [🪖 Training Debrief](./README.md) — *1up*  
+> - [🌊 Playing Defence](../README.md) — *2up*  
+> - [📲 Press Matters](../../README.md) — *3up*  
+> - [🌓 In The Moment](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-07_
