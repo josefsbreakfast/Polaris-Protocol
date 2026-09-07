@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-07 22:31:34 UTC_
+_Generated on 2026-09-07 22:41:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3632,7 +3632,9 @@ _Generated on 2026-09-07 22:31:34 UTC_
           - [`strategic_reviews.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/strategic_reviews.md)
           - [`timeline.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/timeline.md)
         - [`GAP_ANALYSIS.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/GAP_ANALYSIS.md)
+        - [`QA_RESULTS.json`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/QA_RESULTS.json)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/README.md)
+        - [`REPAIR_LOG.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/REPAIR_LOG.md)
         - [`Training_Debrief_silent_truncation_audit_2026-09-07.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/Training_Debrief_silent_truncation_audit_2026-09-07.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/notes.txt)
         - [`⚙️_the_feedback_machine.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/⚙️_the_feedback_machine.md)
