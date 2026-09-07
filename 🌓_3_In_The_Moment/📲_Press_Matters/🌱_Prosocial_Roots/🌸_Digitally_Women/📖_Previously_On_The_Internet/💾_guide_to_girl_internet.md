@@ -1,6 +1,5 @@
-# 💾 Guide to Girl Internet
-
-**First created:** 2026-09-05 | **Last updated:** 2026-09-05  
+# 💾 Guide to Girl Internet  
+**First created:** 2026-09-05 | **Last updated:** 2026-09-07  
 *A field guide to female-coded and women-heavy digital cultures for people who keep mistaking the interface for the information system.*
 
 ---
@@ -1178,4 +1177,4 @@ It provides an orientation layer for reading female-coded and women-heavy digita
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-05_
+_Last updated: 2026-09-07_
