@@ -69,13 +69,12 @@ flowchart LR
     H --> K
     I --> K
     J --> K
-````
+```
 
 One stream keeps the force functioning.
 
 The other establishes why the problem occurred.
 
-```
 ---
 
 ## ⏱️ 1. Put a short clock on the review
@@ -1217,6 +1216,43 @@ That is not militarism.
 That is occupational responsibility.
 
 ---
+
+---
+
+---
+
+## 📡 Carry Forward
+
+This node feeds into:
+
+* [`💊_long_term_management.md`](./💊_long_term_management.md) — redesigning the underlying system rather than repeatedly treating crises;
+* [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — automatic protections against recurring readiness degradation;
+* [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — reconstructing the immediate financial decision;
+* [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — establishing unconstrained requirements before prioritisation;
+* [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — defining what the intervention is trying to preserve;
+* [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — turning this incident into institutional learning;
+* [`data/parliamentary_questions.md`](./data/parliamentary_questions.md) — reconstructing ministerial knowledge and accountability;
+* [`data/open_questions.md`](./data/open_questions.md) — unresolved evidence;
+* [`data/current_reporting.md`](./data/current_reporting.md) — tracking how the decision and any reversal are publicly described.
+
+---
+
+## 📚 Initial sources
+
+* [GOV.UK: “The Rt Hon Wes Streeting MP”](https://www.gov.uk/government/people/wes-streeting)
+* [GOV.UK: “Chancellor takes axe to delays holding back growth”](https://www.gov.uk/government/news/chancellor-takes-axe-to-delays-holding-back-growth)
+* [The Times: “British Army ordered to suspend major war games to save money”](https://www.thetimes.com/uk/defence/article/british-army-training-suspended-money-d7tzxljrl)
+* [GOV.UK: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad)
+* [GOV.UK: *Defence Investment Plan*](https://www.gov.uk/government/publications/defence-investment-plan)
+* [National Audit Office: *Investigation into military support for Ukraine*](https://www.nao.org.uk/press-releases/investigation-into-military-support-for-ukraine/)
+
+Further evidential work should be drawn from:
+
+* `data/parliamentary_questions.md`;
+* `data/timeline.md`;
+* `data/current_reporting.md`;
+* `data/source_bank.md`;
+* `data/open_questions.md`.
 
 ---
 

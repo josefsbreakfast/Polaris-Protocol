@@ -1735,6 +1735,24 @@ Prevention is mostly the discipline of remembering that healthy systems require 
 
 ---
 
+---
+
+## 📡 Carry Forward
+
+This node connects to:
+
+* [`💊_long_term_management.md`](./💊_long_term_management.md) — rebuilding the underlying force-generation system;
+* [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — institutional cybernetics and negative feedback;
+* [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — why competence needs repeated rehearsal;
+* [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — identifying unconstrained resilience requirements;
+* [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — functional readiness outputs;
+* [`🪟_transparency_and_earned_loyalty.md`](./🪟_transparency_and_earned_loyalty.md) — public scrutiny and institutional trust;
+* [`data/strategic_reviews.md`](./data/strategic_reviews.md) — recurring recommendations and unfinished implementation;
+* [`data/timeline.md`](./data/timeline.md) — strategic shocks and adaptation;
+* [`data/open_questions.md`](./data/open_questions.md) — unresolved resilience questions.
+
+---
+
 ## 🌌 Constellations
 🛡️ 🌳 ⚙️ 🧠 🏚️ 🏭 🩻 🔭 — resilience; redundancy; spare capacity; institutional memory; strategic surprise; force regeneration; civil-military infrastructure; adaptive Defence.
 

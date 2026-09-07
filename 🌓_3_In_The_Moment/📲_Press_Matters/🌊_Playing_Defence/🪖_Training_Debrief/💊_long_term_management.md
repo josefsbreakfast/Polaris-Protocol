@@ -1740,6 +1740,23 @@ the problem is larger than the spreadsheet.
 
 ---
 
+---
+
+## 📡 Carry Forward
+
+This node feeds into:
+
+* [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — safeguards against recurrent degradation;
+* [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — defining unconstrained requirements before prioritisation;
+* [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — functional readiness outputs;
+* [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — institutional learning and feedback;
+* [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — how collective competence is generated;
+* [`🏚️_estate`](./data/source_bank.md) — evidence on training infrastructure;
+* [`data/strategic_reviews.md`](./data/strategic_reviews.md) — recurring recommendations and implementation;
+* [`data/open_questions.md`](./data/open_questions.md) — unresolved long-term design questions.
+
+---
+
 ## 🌌 Constellations
 💊 🪖 🎓 🏚️ 🩻 🦿 🏭 ⚙️ 🔭 — force generation; recruitment; retention; training; military medicine; rehabilitation; veterans; industrial capacity; institutional learning; long-term resilience.
 

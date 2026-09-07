@@ -1457,6 +1457,41 @@ And the scale comparison is fair only in the form used above: the £8.4bn Dreadn
 
 ---
 
+---
+
+## 📡 Carry Forward
+
+This node connects directly to:
+
+- [🪖 What Training Is For](./🪖_what_training_is_for.md) — *establishing what capability the affected training produces*
+- [⚙️ The Feedback Machine](./⚙️_the_feedback_machine.md) — *tracing the warning and reassessment loop*
+- [🪟 Transparency And Earned Loyalty](./🪟_transparency_and_earned_loyalty.md) — *what government can safely explain*
+- [🧾 The Blank Cheque Exercise](./🧾_the_blank_cheque_exercise.md) — *establishing requirements before affordability*
+- [🔭 What Does Ready Actually Look Like?](./🔭_what_does_ready_actually_look_like.md) — *determining actual capability consequence*
+- [🚑 Immediate Management](./🚑_immediate_management.md) — *what ministers and Defence can do now*
+- [🔬 Tests And Investigations](./🔬_tests_and_investigations.md) — *evidential requirements*
+- [data/parliamentary_questions.md](./data/parliamentary_questions.md) — *detailed scrutiny chronology*
+- [data/current_reporting.md](./data/current_reporting.md) — *contemporary reporting*
+- [data/timeline.md](./data/timeline.md) — *broader chronology*
+- [data/source_bank.md](./data/source_bank.md) — *source register*
+
+---
+
+## 📚 Sources
+
+- [The Times: “British Army ordered to suspend major war games to save money”](https://www.thetimes.com/uk/defence/article/british-army-training-suspended-money-d7tzxljrl)
+- [Forces News: “Army shifts training focus in order to concentrate on counter-drone warfare”](https://www.forcesnews.com/services/army/army-shifts-training-focus-order-concentrate-counter-drone-warfare)
+- [UK Parliament: “Armed Forces: Training — Question 94241”](https://questions-statements.parliament.uk/written-questions/detail/2025-11-25/94241)
+- [UK Parliament: “Armed Forces: Training — Question 94240”](https://questions-statements.parliament.uk/written-questions/detail/2025-11-25/94240)
+- [UK Parliament: “Armed Forces: Training — Question 10213”](https://questions-statements.parliament.uk/written-questions/detail/2026-06-16/10213)
+- [GOV.UK: “The Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad”](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad)
+- [GOV.UK: “Defence Investment Plan”](https://www.gov.uk/government/publications/defence-investment-plan)
+- [GOV.UK: “Major £8.4bn investment advances UK nuclear deterrent and backs British industry”](https://www.gov.uk/government/news/major-84bn-investment-advances-uk-nuclear-deterrent-and-backs-british-industry)
+
+Additional appointment, funding-explainer and AI-training references from the working draft should be normalised into [`data/source_bank.md`](./data/source_bank.md) during the provenance pass rather than reconstructed from damaged citation wrappers here.
+
+---
+
 ## 🌌 Constellations
 🪖 ⚙️ 🔭 💷 🧠 — training; readiness; force generation; Defence governance; institutional learning.
 

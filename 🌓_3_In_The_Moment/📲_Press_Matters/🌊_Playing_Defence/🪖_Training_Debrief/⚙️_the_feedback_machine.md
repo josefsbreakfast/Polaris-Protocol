@@ -2109,6 +2109,42 @@ Make the feedback move like fucking butter.
 
 ---
 
+---
+
+## 📡 Carry Forward
+
+This node connects directly to:
+
+* [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — training as rehearsal, sensor and adaptation mechanism;
+* [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — how capability became a financial saving;
+* [`🪟_transparency_and_earned_loyalty.md`](./🪟_transparency_and_earned_loyalty.md) — external feedback, scrutiny and public trust;
+* [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — allowing unconstrained professional requirements to reach political decision-makers before affordability is reapplied;
+* [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — the output signal against which adaptation must be tested;
+* [`🔬_tests_and_investigations.md`](./🔬_tests_and_investigations.md) — locating current information gaps;
+* [`🧠_assessment_and_differential.md`](./🧠_assessment_and_differential.md) — distinguishing feedback failure from other causes;
+* [`data/strategic_reviews.md`](./data/strategic_reviews.md) — repeated lessons and implementation;
+* [`data/parliamentary_questions.md`](./data/parliamentary_questions.md) — what information reached political oversight and when;
+* [`data/open_questions.md`](./data/open_questions.md) — signals which remain unresolved.
+
+---
+
+## 📚 Initial sources
+
+* Simon Akam, *The Changing of the Guard: The British Army Since 9/11* (Scribe, 2021).
+* [The Guardian: “Defence chiefs gag damning Iraq invasion findings”](https://www.theguardian.com/uk/2010/may/27/defence-chiefs-gag-iraq-invasion-report)
+* [GOV.UK: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad)
+* [RUSI: “Mobilisation and Training for War: Preparing to Break Glass”](https://www.rusi.org/explore-our-research/publications/occasional-papers/mobilisation-and-training-war-preparing-break-glass)
+* [National Audit Office: *Investigation into military support for Ukraine*](https://www.nao.org.uk/reports/investigation-into-military-support-for-ukraine/)
+
+See also:
+
+* `data/source_bank.md`
+* `data/strategic_reviews.md`
+* `data/timeline.md`
+* `data/open_questions.md`
+
+---
+
 ## 🌌 Constellations
 ⚙️ 🪖 🧠 🎓 💷 🧾 🪟 🔁 — cybernetics; institutional learning; military training; lessons; doctrine; procurement; Treasury; accountability; feedback.
 

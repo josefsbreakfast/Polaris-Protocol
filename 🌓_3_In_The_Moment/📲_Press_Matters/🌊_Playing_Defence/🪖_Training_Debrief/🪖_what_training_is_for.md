@@ -2023,6 +2023,46 @@ be translated into:
 
 ---
 
+---
+
+## 📡 Carry Forward
+
+This node connects directly to:
+
+- [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — how training receives and transmits operational learning;
+- [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — defining the capability training is intended to produce;
+- [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — translating the current saving back into capability;
+- [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — establishing unconstrained training requirements before affordability;
+- [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — preserving training capacity, redundancy and institutional memory;
+- [`💊_long_term_management.md`](./💊_long_term_management.md) — instructors, estate, personnel and force-generation reform;
+- [`🔬_tests_and_investigations.md`](./🔬_tests_and_investigations.md) — evidence needed to establish the actual training requirement;
+- [`data/strategic_reviews.md`](./data/strategic_reviews.md) — how training requirements have evolved across reviews;
+- [`data/current_reporting.md`](./data/current_reporting.md) — claims about current training transformation;
+- [`data/source_bank.md`](./data/source_bank.md) — underlying evidence.
+
+---
+
+## 📚 Initial sources
+
+- Simon Akam, *The Changing of the Guard: The British Army Since 9/11* (Scribe, 2021).
+- RUSI, Nick Reynolds and Paul O'Neill CBE, *Mobilisation and Training for War: Preparing to Break Glass* (2026).
+- UK Government, *Strategic Defence Review 2025: Making Britain Safer — secure at home, strong abroad*.
+- National Audit Office, *Investigation into military support for Ukraine*.
+- National Audit Office, *Support to High Intensity Operations*.
+- RUSI material on realistic training, readiness and safety constraints.
+- Contemporary Army / MOD material on synthetic training, counter-drone training and training modernisation.
+
+See:
+
+- `data/source_bank.md`
+- `data/strategic_reviews.md`
+- `data/timeline.md`
+- `data/current_reporting.md`
+
+for full citations and evidence notes.
+
+---
+
 ## 🌌 Constellations
 🪖 🧠 ⚙️ 🎓 🧩 🤖 🔁 🩸 — collective competence; tacit knowledge; cohesion; training realism; simulation; stress inoculation; skill decay; overfitting; unlearning; force generation.
 

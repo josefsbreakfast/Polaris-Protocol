@@ -1382,6 +1382,25 @@ And do not spend another thirty years commissioning reviews which correctly iden
 
 ---
 
+---
+
+## 📡 Carry Forward
+
+This node feeds directly into:
+
+* [`🧠_assessment_and_differential.md`](./🧠_assessment_and_differential.md) — competing explanations once the evidence is assembled;
+* [`🚑_immediate_management.md`](./🚑_immediate_management.md) — what can be done about the current disruption;
+* [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — discovering unconstrained requirements before reintroducing affordability;
+* [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — defining functional outputs;
+* [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — testing whether information survives institutional transmission;
+* [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — evidence on collective competence and skill retention;
+* [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — reconstructing the immediate affordability decision;
+* [`data/open_questions.md`](./data/open_questions.md) — live evidential gaps;
+* [`data/parliamentary_questions.md`](./data/parliamentary_questions.md) — current governance chain;
+* [`data/source_bank.md`](./data/source_bank.md) — evidence base.
+
+---
+
 ## 🌌 Constellations
 🔬 🪖 ⚙️ 💷 🔭 🏚️ 🧠 — Army training; readiness measurement; force generation; Defence affordability; estate; personnel; institutional feedback; future force design.
 
