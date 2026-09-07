@@ -554,6 +554,15 @@ It provides a shared vocabulary for moving between internet culture, feminist an
 > - [🛸 LOOK UP](../🛸_LOOK_UP/) — *risk signals, pattern recognition, reporting and information movement*
 > - [🧾 Petition GC](../🧾_Petition_GC/) — *translation between public demands, government policy and hate-crime law*
 > - [♻️ Re: Recommendations](../♻️_Re_Recommendations/) — *institutional memory, recurring safeguards and implementation*
+>  
+> 🏮 Return To:
+>
+> - [📖 Previously On The Internet](./README.md) — *1up*
+> - [🌸 Digitally Women](../README.md) — *2up*
+> - [🌱 Prosocial Roots](../../README.md) — *3up*
+> - [📲 Press Matters](../../../README.md) — *4up*
+> - [🌓 In The Moment](../../../../README.md) — *5up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
