@@ -468,7 +468,7 @@ This cluster sits inside a much larger information ecology.
 
 Useful routes include:
 
-- [💾 Girl Internet Explained With Techbros](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🙀_Chronically_Online/💾_girl_internet_explained_with_techbros.md) — an earlier Girl Internet explainer;
+- [💾 Girl Internet Explained With Techbros](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/💾_girl_internet_explained_with_techbros.md) — an earlier Girl Internet explainer;
 - [🧵 Community Vulnerability And Early Canaries](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🧵_community_vulnerability_and_early_canaries.md) — how vulnerable communities can function as early-warning environments;
 - [🐺 Dickwolves Survivors Guild](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🐺_dickwolves_survivors_guild.md) — a pre-GamerGate historical case;
 - [🌱 Thanks, Algorithm!](../🌱_Thanks_Algorithm/README.md) — contemporary algorithmic amplification, manosphere dynamics and online-to-offline pathways;
