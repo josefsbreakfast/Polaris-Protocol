@@ -924,6 +924,8 @@ That knowledge is useful for something.
 ## 🌌 Constellations
 🌞 🕹️ 🪬 ♿ ❤️‍🩹 — constructive technological politics; cyberfeminist inheritance; antinaturalism; accessibility; rehabilitated technology.
 
+---
+
 ## ✨ Stardust
 solarpunk, cyberfeminism, feminist hci, feminist sts, design justice, accessibility, community technology, mutual aid, rehabilitated technology, care-centred design
 
@@ -931,17 +933,26 @@ solarpunk, cyberfeminism, feminist hci, feminist sts, design justice, accessibil
 
 ## 🏮 Footer
 
-*We Could Build Nicer Things* is a living node of the **Polaris Protocol**.  
+*🌞 We Could Build Nicer Things* is a living node of the **Polaris Protocol**.  
 It provides the constructive hand-off from feminist technological critique into design, governance and experimentation. Its central claim is deliberately uncomplicated: harmful technological systems are designed systems, and different assumptions, objectives and distributions of power can produce different technological arrangements.
 
 > 📡 Cross-references:
 >
 > - [🕹️ Cyberfeminism Before the Algorithm](./🕹️_cyberfeminism_before_the_algorithm.md) — *the longer feminist history of technological possibility*
 > - [🪬 Xenofeminism and the Engineered Body](./🪬_xenofeminism_and_the_engineered_body.md) — *antinaturalism, bodily technology and the politics of deliberate transformation*
-> - `🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/` — *constructive technological experiments and long strategies*
-> - `🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/💎_therapeutic_sandbox.md` — *bounded AI architecture organised around rehearsal and autonomy*
-> - `🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/😻_gateways_through_womens_health.md` — *women's health as a gateway domain for computational systems biology*
-> - `🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🧬_neural_network_remodelling_gynaecology.md` — *AI-assisted comprehension of dynamic biological systems*
+> - [❤️‍🩹 Rehabilitated Tech](../../../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/README.md) — *constructive technological experiments and long strategies*
+> - [💎 Therapeutic Sandbox](../../../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/💎_therapeutic_sandbox.md) — *bounded AI architecture organised around rehearsal and autonomy*
+> - [😻 Gateways Through Women’s Health](../../../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/😻_gateways_through_womens_health.md) — *women's health as a gateway domain for computational systems biology*
+> - [🧬 Neural Network Remodelling: Gynaecology](../../../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🧬_neural_network_remodelling_gynaecology.md) — *AI-assisted comprehension of dynamic biological systems*
+>  
+> 🏮 Return To:
+>
+> - [📖 Previously On The Internet](./README.md) — *1up*
+> - [🌸 Digitally Women](../README.md) — *2up*
+> - [🌱 Prosocial Roots](../../README.md) — *3up*
+> - [📲 Press Matters](../../../README.md) — *4up*
+> - [🌓 In The Moment](../../../../README.md) — *5up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
