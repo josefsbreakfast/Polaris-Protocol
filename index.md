@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-07 17:20:32 UTC_
+_Generated on 2026-09-07 17:23:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3624,7 +3624,9 @@ _Generated on 2026-09-07 17:20:32 UTC_
         - [`🧿_safe_detail_no_fog.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🧿_safe_detail_no_fog.md)
         - [`🪖_morale_for_islanders.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🪖_morale_for_islanders.md)
       - [**🪖_Training_Debrief/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/)
+        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/notes.txt)
+        - [`🩺_presenting_complaint.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/🩺_presenting_complaint.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/README.md)
     - [**🌱_Prosocial_Roots/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/)
       - [**🌸_Digitally_Women/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/)
