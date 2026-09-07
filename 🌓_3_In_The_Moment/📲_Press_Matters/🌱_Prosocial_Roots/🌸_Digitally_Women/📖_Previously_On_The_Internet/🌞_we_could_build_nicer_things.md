@@ -1,5 +1,5 @@
 # 🌞 We Could Build Nicer Things
-**First created:** 2026-09-05 | **Last updated:** 2026-09-05  
+**First created:** 2026-09-05 | **Last updated:** 2026-09-07  
 *The present technological settlement is not the only technological settlement available to us.*
 
 ---
@@ -945,4 +945,4 @@ It provides the constructive hand-off from feminist technological critique into 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-05_
+_Last updated: 2026-09-07_
