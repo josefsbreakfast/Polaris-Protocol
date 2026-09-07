@@ -23,6 +23,63 @@
 
 - - - 
 
+* README.md
+    * Orientation to the cluster, central thesis, clinical structure, scope and key questions.
+    * Explains why a £30m training decision opens onto readiness, institutional learning, public trust and long-term force design.
+* 🩺_presenting_complaint.md
+    * The immediate Army collective-training cut and forces reaction.
+    * What has reportedly stopped, what remains protected, why personnel are concerned, and what is not yet known.
+* 📋_history_of_presenting_complaint.md
+    * How Britain got here: post-war force changes, Falklands, Balkans, 9/11, Iraq/Afghanistan, austerity, Army 2020, Ukraine, SDRs and current readiness policy.
+    * Tracks what reviews recommended, what changed, what did not, and which lessons repeatedly returned.
+* 🔬_tests_and_investigations.md
+    * What evidence is needed before diagnosing the problem.
+    * Decision chain, training requirements, personnel, estate, equipment, service comparisons, readiness measures and future-planning questions.
+* 🧠_assessment_and_differential.md
+    * Provisional systemic diagnosis without prematurely blaming Treasury, ministers or Army Command.
+    * Tests competing explanations: affordability, budgeting architecture, modernisation, accumulated hollowing-out, competing commitments, poor feedback and bad prioritisation.
+* 🚑_immediate_management.md
+    * What can be done about the present training problem now.
+    * Practical routes for Streeting, Healey, Burnham, Treasury, MOD and Army leadership to review, mitigate, fund or redesign the decision.
+* 💊_long_term_management.md
+    * Five-to-fifty-year reform of force generation rather than repeated crisis management.
+    * People, instructors, recruitment, retention, estate, equipment, medicine, rehabilitation, veterans, industrial capacity and institutional knowledge.
+* 🛡️_prevention_and_resilience.md
+    * How to stop Britain presenting with the same readiness problem every few years.
+    * Builds adaptability, spare capacity, learning systems, redundancy, institutional memory and resilience against future strategic surprise.
+* ⚙️_the_feedback_machine.md
+    * Cybernetic core of the cluster.
+    * How front-line experience should travel through training, doctrine, command, procurement, MOD, ministers and Treasury—and where feedback gets delayed, distorted or suppressed.
+* 🪖_what_training_is_for.md
+    * Why collective training is a capability rather than an optional activity.
+    * Akam, RUSI and later evidence on tacit knowledge, cohesion, live exercises, simulation, stress inoculation, skill decay, overfitting and unlearning.
+* 💷_thirty_million_pounds.md
+    * Narrow reconstruction of the live £30m case.
+    * Who knew what when, why Army training was selected, what alternatives existed, what other spending was protected, and who accepted the readiness risk.
+* 🪟_transparency_and_earned_loyalty.md
+    * MOD secrecy, embarrassment, FOI, Brown/Stirrup, Chilcot and public trust.
+    * Core argument: loyalty cannot simply be demanded; Defence needs enough safe transparency for the public to see competence, learning and accountability.
+* 🧾_the_blank_cheque_exercise.md
+    * Ask each service what it would build if money, politics and embarrassment temporarily disappeared as constraints.
+    * Ideal force, desired training system, cross-service asks, joint-command opportunities, internal disagreements, costs and minimum credible alternatives.
+* 🔭_what_does_ready_actually_look_like.md
+    * Define readiness by functional outputs before KPIs or spending.
+    * What must Britain actually be able to do, at what scale, for how long, with what people, allies, logistics and support—and what evidence proves that capability exists.
+* data/timeline.md
+    * Dated chronology of reforms, wars, reviews, parliamentary interventions, funding decisions and the current training episode.
+* data/strategic_reviews.md
+    * Structured notes on major Defence/Strategic Reviews, their assumptions, promises, force models and implementation gaps.
+* data/parliamentary_questions.md
+    * Relevant written/oral questions, answers and ministerial statements, especially training, readiness and affordability.
+* data/current_reporting.md
+    * Contemporary forces press, mainstream reporting, commentary and source reactions to the training decision.
+* data/source_bank.md
+    * Akam, RUSI, RAND, NAO, parliamentary material, doctrine, academic literature and other reusable references.
+* data/open_questions.md
+    * Live research queue: unresolved facts, evidence gaps, people to identify, comparisons to test and claims not yet safe to make.
+
+- - - 
+
 
 
 🪖_Training_Debrief/notes.txt  
