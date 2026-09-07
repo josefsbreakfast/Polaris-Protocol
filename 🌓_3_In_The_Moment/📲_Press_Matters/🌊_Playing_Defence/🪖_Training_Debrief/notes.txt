@@ -80,6 +80,92 @@
 
 - - - 
 
+“Yes. I did a quick verification pass as well, because we have a mixture of things actually cited/discussed, media we explicitly named, government material, and sources we’ve said we want to bring in later. I would seed data/source_bank.md roughly like this.
+
+Core source already being used
+
+* Scribe: *The Changing of the Guard: The British Army Since 9/11* — Simon Akam (2021)⁠￼ — Our principal book source so far: OPTAG, BATUS, Wesley, Derenalagi, Iraq/Afghanistan adaptation, Brown/Stirrup, institutional accountability and lessons processes.
+* The passages we’ve discussed from Akam include the Ben Barry tactical lessons work and Lt Gen Chris Brown’s joint/higher-level Iraq lessons report. These should eventually be chased back to the underlying reports rather than relying solely on Akam’s account.
+
+Current Army-training reporting
+
+* The Times: “British Army ordered to suspend major war games to save money”⁠￼ — Key current report: £30m saving, restrictions on larger collective activity, deployment/readiness exemptions, criticism from Defence sources, and smaller Navy/RAF reductions.  
+* The Times letters: “Army training and the future of the Falklands”⁠￼ — Useful evidence of the defence argument moving into the letters/public-discussion ecosystem.  
+* Forces News / forces-specialist reporting — explicitly discussed as an important source class for the reaction from serving/forces-facing audiences. We should do a dedicated collection pass rather than pretend we’ve already assembled the exact articles.
+* The Telegraph — explicitly discussed as part of the contemporary Conservative/right-of-centre press comparison; again, exact relevant pieces should go into current_reporting.md when we do the media pass.
+* The Times more generally — also relevant to our separate observation about the changing presentation of Healey and the government.
+
+Current MOD / government policy
+
+* MOD: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*⁠￼ — Essential. It explicitly says training should be a strategic and institutional priority, discusses collective training, simulation and continued live firing, NATO-first training, reserves, whole-force approaches and warfighting readiness. That makes it particularly important against the present training story.  
+* MOD: Strategic Defence Review collection⁠￼ — Terms of reference, evidence process, statements and associated implementation material.
+* MOD/HM Treasury: *The Defence Investment Plan* (30 June 2026)⁠￼ — £298bn four-year investment framework and the current government’s translation of SDR ambitions into investment.
+* HM Treasury/MOD: Defence Investment Plan funding explainer⁠￼ — Useful for disentangling the actual funding settlement from headline numbers.
+* MOD: “£15 billion new funding boost to transform Armed Forces and keep the UK safe”⁠￼ — Contemporary government presentation of readiness, technology and investment.
+* MOD: “British Army to increase lethality over the next decade…”⁠￼ — Particularly useful for contrasting the tenfold-lethality/technology ambition with constraints on collective training.
+* MOD: “AI battle lab to prepare British Army for modern warfare”⁠￼ — The £2bn, 15-year AI/analytics/virtual-environment training contract we’ve been discussing as the obvious comparator to physical collective-training expenditure.  
+* DE&S: Corporate Plan 2025–26⁠￼ — Procurement/operating-model context and useful material for the equipment-versus-force-generation side of the argument.
+
+Iraq, lessons learned and accountability
+
+* The Guardian — Richard Norton-Taylor: “Defence chiefs gag damning Iraq invasion findings” (27 May 2010)⁠￼ — The contemporary report Akam discusses concerning Chris Brown’s study and its suppression/non-publication.  
+* The Iraq Inquiry / Chilcot Report — explicitly central to today’s discussion: strategic decision-making, civil-military relationships, planning, preparedness, equipment and institutional learning. This needs its own proper source extraction rather than merely being cited generically.
+* Lt Gen Chris Brown’s Iraq lessons report — primary-source target.
+* Ben Barry’s Army-level Iraq lessons work — primary-source target.
+* Jock Stirrup’s later account/response — Akam gives the 2018 explanation we’ve discussed; we should locate its primary source if available.
+* Michael Bimmler’s FOI work concerning the Brown report — useful case study for 🪟_transparency_and_earned_loyalty.md.
+
+Parliamentary material
+
+* James Cartlidge’s 16 June parliamentary question concerning reductions to Army, RAF and Royal Navy training — explicitly identified in our working notes and needs to go into parliamentary_questions.md with the exact question, answer and dates.
+* Defence Committee material — identified as a likely source family for readiness, force generation, procurement and personnel.
+* Public Accounts Committee material — especially procurement and Defence affordability.
+* Hansard / written parliamentary questions generally — for reconstructing the decision chronology rather than relying on press accounts.
+
+Transparency / constitutional architecture
+
+* Freedom of Information Act 2000 — central to the Brown/Bimmler story and our argument about embarrassment versus legitimate secrecy.
+* Official Secrets legislation — for the actual boundary between information legitimately withheld for security reasons and information merely institutionally uncomfortable.
+* Ministerial Code / Civil Service Code / conflicts-of-interest and transparency architecture — relevant to the wider point we’ve made about public expectations of transparent government since the late 1990s.
+* Armed Forces Act / UK military law and doctrine on lawful commands — relevant to the later public-legitimacy discussion about separating political responsibility for strategic objectives from military responsibility for lawful professional execution.
+* Rome Statute / international humanitarian and criminal law — secondary here, but relevant to why “government ordered us to do it” cannot be treated as an unlimited defence.
+
+Research bodies we’ve explicitly identified for the evidence pass
+
+* RUSI⁠￼ — Already singled out as probably one of our richest source bases: Army readiness, mass, collective training, mobilisation, reserves, NATO, lessons from Ukraine and force generation. And, yes, apparently capable of peak paper titles out of the gate.
+* RAND⁠￼ — Explicitly identified for collective training, readiness measurement, force generation, organisational learning, personnel, mobilisation and sustainment.
+* National Audit Office⁠￼ — Defence Equipment Plan/DIP, estate, affordability, procurement, personnel and readiness-related scrutiny.
+* IISS — identified as useful for force structure and strategic comparison.
+* King’s College London / King’s Centre for Military Health Research and defence scholarship — organisational adaptation plus the human/medical consequences side.
+* NATO doctrine and the NATO Defence Planning Process — particularly useful for distinguishing declared force goals, assigned capabilities and actual readiness.
+* Military medicine / rehabilitation literature — Derenalagi leads into prosthetics, rehabilitation, long-term injury burden, return-to-duty and the state’s lifetime obligations.
+* Human factors / military psychology literature — team cognition, stress inoculation, skill decay, training transfer, embodied learning and unlearning.
+* High-reliability organisations / resilience engineering / organisational-learning literature — for the cybernetic framework: leading versus lagging indicators, feedback, near misses, institutional learning and prevention.
+
+Historical policy sources we know we’ll need
+
+We have repeatedly referred to the sequence rather than yet naming every document, so strategic_reviews.md should eventually collect the primary texts for Options for Change; Front Line First; the 1998 Strategic Defence Review; subsequent Iraq/Afghanistan-era planning; SDSR 2010; Army 2020; SDSR 2015; Integrated Review 2021; Integrated Review Refresh 2023; SDR 2025; and the 2026 Defence Investment Plan.
+
+Those are what allow us to run the really useful longitudinal test:
+
+What did government say the forces needed to do → what force did it promise → what did it fund → what actually materialised?
+
+Cultural/media texts we’ve explicitly used analytically
+
+* Christopher Nolan, Dunkirk (2017) — the mole, Bolton/Winnant, Mr Dawson, Peter, George, the Moonstone, civilian mobilisation, exposure and “we’re going to get the lads” as British cultural memory.
+* Phyllida Lloyd, The Iron Lady (2011) — specifically the Belgrano decision sequence as a cinematic representation of political authority, briefing, decision and ownership. We have been very explicitly treating this as analysis of the film, not using it as historical evidence for the Falklands.
+* Churchill, “We Shall Fight on the Beaches” speech (4 June 1940) — relevant to the cultural genealogy of resistance, territorial belonging and the distinction between internal criticism and external threat.
+* Milo Edwards — mentioned for the comic distillation of the Dunkirk/“go and get the lads” cultural instinct. We would need to identify the exact performance/episode before citing it in Polaris.
+
+And then I would put one dirty great marker at the bottom of the source bank:
+
+SOURCE HYGIENE: Akam, contemporary journalism, official documents, parliamentary records, academic research, our systems analysis and cultural interpretation are different evidential categories. Do not allow a good synthesis to blur which one is supporting which claim.
+
+Because this cluster is going to become fat, and keeping those provenance layers visible is what will let us be adventurous analytically without accidentally turning “Chloe and GPT think this is an interesting systems explanation” into “RUSI has demonstrated this empirically.””
+
+can’t believe we’re not going to explain all policy using me and a dodgy calculator but okay.  
+
+- - - 
 
 
 🪖_Training_Debrief/notes.txt  
