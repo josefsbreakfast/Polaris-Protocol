@@ -1,0 +1,29 @@
+{
+  "source_bank.md": {
+    "h1": 1,
+    "h2": 9,
+    "h3": 14,
+    "balanced_fences": true,
+    "no_unicode_debris": true,
+    "terminal_order": true,
+    "updated": true
+  },
+  "strategic_reviews.md": {
+    "h1": 1,
+    "h2": 14,
+    "h3": 29,
+    "balanced_fences": true,
+    "no_unicode_debris": true,
+    "terminal_order": true,
+    "updated": true
+  },
+  "timeline.md": {
+    "h1": 1,
+    "h2": 19,
+    "h3": 19,
+    "balanced_fences": true,
+    "no_unicode_debris": true,
+    "terminal_order": true,
+    "updated": true
+  }
+}
