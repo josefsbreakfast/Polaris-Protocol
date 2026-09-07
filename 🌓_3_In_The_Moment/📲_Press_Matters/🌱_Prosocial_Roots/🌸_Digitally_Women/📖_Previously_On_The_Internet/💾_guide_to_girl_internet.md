@@ -386,8 +386,8 @@ is an institutional information-management problem wearing a social label.
 
 Cross-link:
 
-- [🛸 LOOK UP](../🛸_LOOK_UP/) — *risk signals, reporting and information movement*
-- [♻️ Re: Recommendations](../♻️_Re_Recommendations/) — *institutional memory and repeated safeguarding failures*
+- [🛸 LOOK UP](../🛸_LOOK_UP/README.md) — *risk signals, reporting and information movement*
+- [♻️ Re: Recommendations](../♻️_Re_Recommendations/README.md) — *institutional memory and repeated safeguarding failures*
 
 ---
 
@@ -890,7 +890,7 @@ Creators are often part of an information-distribution system.
 
 See:
 
-- [🌱 Thanks, Algorithm](../🌱_Thanks_Algorithm/) — *creator ecosystems, manosphere content and algorithmic distribution*
+- [🌱 Thanks, Algorithm](../🌱_Thanks_Algorithm/README.md) — *creator ecosystems, manosphere content and algorithmic distribution*
 
 ---
 
@@ -1039,7 +1039,7 @@ Useful rule:
 See:
 
 - [📚 Definitions & Registers](./📚_definitions_and_registers.md) — *receipts, doxxing, swarming and evidential language*
-- [🛸 LOOK UP](../🛸_LOOK_UP/) — *pattern recognition and information movement*
+- [🛸 LOOK UP](../🛸_LOOK_UP/README.md) — *pattern recognition and information movement*
 
 ---
 
@@ -1174,6 +1174,15 @@ It provides an orientation layer for reading female-coded and women-heavy digita
 > - [🪬 Xenofeminism And The Engineered Body](./🪬_xenofeminism_and_the_engineered_body.md) — *technology, embodiment and deliberate redesign*
 > - [💾 Girl Internet Explained With Techbros](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/💾_girl_internet_explained_with_techbros.md) — *the existing infrastructure-translation layer*
 > - [🧵 Community Vulnerability and Early Canaries](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🧵_community_vulnerability_and_early_canaries.md) — *how marginalised communities can encounter and document system failures early*
+>  
+> 🏮 Return To:
+>
+> - [📖 Previously On The Internet](./README.md) — *1up*
+> - [🌸 Digitally Women](../README.md) — *2up*
+> - [🌱 Prosocial Roots](../../README.md) — *3up*
+> - [📲 Press Matters](../../../README.md) — *4up*
+> - [🌓 In The Moment](../../../../README.md) — *5up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
