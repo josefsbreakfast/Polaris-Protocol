@@ -1,5 +1,5 @@
 # 📚 Definitions & Registers  
-**First created:** 2026-09-05 | **Last updated:** 2026-09-05  
+**First created:** 2026-09-05 | **Last updated:** 2026-09-07  
 *A searchable, printable, grab-and-go field guide for translating between internet culture, feminist analysis, journalism, policy, safeguarding and law.*
 
 ---
@@ -557,4 +557,4 @@ It provides a shared vocabulary for moving between internet culture, feminist an
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-05_
+_Last updated: 2026-09-07_
