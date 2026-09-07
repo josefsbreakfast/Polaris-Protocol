@@ -1,5 +1,5 @@
-# 🧬 Neural Network Remodelling Gynaecology
-**First created:** 2026-05-11 | **Last updated:** 2026-09-06  
+# 🧬 Neural Network Remodelling: Gynaecology
+**First created:** 2026-05-11 | **Last updated:** 2026-09-07  
 *Computational modelling proposals for adaptive reproductive tissue systems, signalling ecologies, spatial organisation, mechanobiology, and dynamic biological inference.*
 
 ---
@@ -811,4 +811,4 @@ It explores computational architectures for modelling adaptive reproductive tiss
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-06_
+_Last updated: 2026-09-07_
