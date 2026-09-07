@@ -53,7 +53,9 @@ British defence planning repeatedly has to reconcile several things which do not
 Strategic reviews are attempts to make those things coherent.
 They are not evidence that coherence was subsequently achieved.
 The House of Commons Library notes that governments inherit force numbers, capabilities and long-term procurement commitments from predecessors, and that major equipment programmes may take years or decades to deliver. Reviews therefore operate inside inherited constraints rather than designing the Armed Forces from a blank sheet.  
-[House of Commons Library: *A brief guide to previous British defence reviews*](https://commonslibrary.parliament.uk/research-briefings/cbp-7313/)
+
+[House of Commons Library: *A brief guide to previous British defence reviews*](https://commonslibrary.parliament.uk/research-briefings/cbp-7313/)  
+
 That distinction matters throughout this history.
 
 > **Review published ≠ force delivered.**
