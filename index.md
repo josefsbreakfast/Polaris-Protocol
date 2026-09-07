@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-07 22:28:05 UTC_
+_Generated on 2026-09-07 22:31:34 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3633,6 +3633,7 @@ _Generated on 2026-09-07 22:28:05 UTC_
           - [`timeline.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/timeline.md)
         - [`GAP_ANALYSIS.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/GAP_ANALYSIS.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/README.md)
+        - [`Training_Debrief_silent_truncation_audit_2026-09-07.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/Training_Debrief_silent_truncation_audit_2026-09-07.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/notes.txt)
         - [`⚙️_the_feedback_machine.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/⚙️_the_feedback_machine.md)
         - [`💊_long_term_management.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/💊_long_term_management.md)
