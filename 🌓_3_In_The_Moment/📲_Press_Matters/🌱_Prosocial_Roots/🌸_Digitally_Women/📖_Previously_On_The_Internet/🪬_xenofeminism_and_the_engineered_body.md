@@ -1158,6 +1158,15 @@ It examines bodily transformation as a problem of autonomy, expertise, infrastru
 > - [🌞 We Could Build Nicer Things](./🌞_we_could_build_nicer_things.md) — *constructive hand-off from engineered bodies to deliberately designed systems*
 > - [💾 Women Have Always Been Online](./💾_women_have_always_been_online.md) — *technological chronology of women's participation, power and exposure*
 > - [♻️🧿 Observation Becomes Intervention](../../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/) — *classification and observation as active feedback processes*
+>  
+> 🏮 Return To:
+>
+> - [📖 Previously On The Internet](./README.md) — *1up*
+> - [🌸 Digitally Women](../README.md) — *2up*
+> - [🌱 Prosocial Roots](../../README.md) — *3up*
+> - [📲 Press Matters](../../../README.md) — *4up*
+> - [🌓 In The Moment](../../../../README.md) — *5up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
