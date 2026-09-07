@@ -31,7 +31,9 @@ The useful historical question is therefore not:
 > **Which government ruined Defence?**
 It is:
 > **What did Britain think its Armed Forces needed to do, what force did it build for that purpose, what happened when that force met reality, what did it learn, and did those lessons survive the next strategic or financial settlement?**
+
 ---
+
 ## 🧭 The recurring tension
 British defence planning repeatedly has to reconcile several things which do not naturally remain in balance:
 - political ambition;
@@ -51,7 +53,9 @@ The House of Commons Library notes that governments inherit force numbers, capab
 [House of Commons Library: *A brief guide to previous British defence reviews*](https://commonslibrary.parliament.uk/research-briefings/cbp-7313/)
 That distinction matters throughout this history.
 > **Review published ≠ force delivered.**
+
 ---
+
 ## 1. 🌍 Before the current problem: what sort of force was Britain maintaining?
 The post-1945 Armed Forces were shaped heavily by:
 - NATO;
@@ -73,7 +77,9 @@ For much of the Cold War, substantial parts of British force design therefore re
 Those assumptions did not make planning simple.
 But they supplied a relatively stable strategic reference point.
 The end of the Cold War removed much of that reference point.
+
 ---
+
 ## 2. ⚓ 1981–1982: plans meet the Falklands
 The 1981 Defence Review associated with Defence Secretary John Nott was principally an attempt to bring the Defence programme and equipment commitments into line with available resources.
 Shortly afterwards, Argentina invaded the Falkland Islands.
@@ -90,7 +96,9 @@ can itself become strategically important.
 The Falklands subsequently acquired a much larger place in British cultural memory than in the technical history of Defence reviews, but for this cluster its significance is narrower:
 > **strategic surprise can arrive during the implementation window of apparently rational force restructuring.**
 This is an early example of why assumptions, warning time and reversibility matter.
+
 ---
+
 ## 3. 🧊 1990: Options for Change and the peace dividend
 The collapse of the Soviet threat created the possibility of substantial reductions.
 `Options for Change` in 1990 sought smaller Armed Forces for a different strategic environment.
@@ -105,7 +113,9 @@ It was:
 That distinction recurs repeatedly in later reviews.
 The difficult question is therefore always:
 > **What enabling systems have to remain intact for a smaller force genuinely to remain better trained, flexible and usable?**
+
 ---
+
 ## 4. 🕊️ The 1990s: the supposedly peaceful decade was rather busy
 The immediate post-Cold-War environment did not produce an absence of military activity.
 British forces operated in or around:
@@ -127,7 +137,9 @@ Instead of preparing principally for one enormous NATO confrontation in Central 
 This produces one of the first important historical warnings for the present cluster:
 > **A fall in one category of threat does not necessarily produce a proportional fall in military workload.**
 The workload may instead change shape.
+
 ---
+
 ## 5. 🧩 1994: Front Line First and the problem of deciding what counts as support
 The 1994 Defence Costs Study, commonly associated with **Front Line First**, sought further efficiencies.
 It also accelerated greater tri-service organisation and joint structures.
@@ -151,7 +163,9 @@ This cluster will repeatedly test the distinction between:
 **nominal front-line strength**
 and
 **the enabling system required to make that strength usable.**
+
 ---
+
 ## 6. 🧭 1998: the Strategic Defence Review and expeditionary Britain
 The 1998 Strategic Defence Review attempted to construct a force appropriate to the post-Cold-War environment.
 It emphasised flexible, expeditionary Armed Forces able to operate at distance from the United Kingdom.
@@ -168,7 +182,9 @@ It needed forces capable of:
 - operating with allies;
 - responding to less geographically predictable crises.
 Then came 9/11.
+
 ---
+
 ## 7. 🏙️ 2001: 9/11 and another strategic reset
 The attacks of 11 September 2001 altered the international security environment again.
 Britain's post-Cold-War expeditionary model was now used in a much more demanding sequence of operations.
@@ -190,7 +206,9 @@ The answer depends upon:
 - medical support;
 - logistics;
 - institutional learning.
+
 ---
+
 ## 8. 🇮🇶 Iraq and 🇦🇫 Afghanistan: the operational learning machine accelerates
 This is where Simon Akam's *The Changing of the Guard: The British Army Since 9/11* becomes particularly useful.
 The Army's experience in Iraq and Afghanistan generated extensive adaptation in:
@@ -203,7 +221,9 @@ The Army's experience in Iraq and Afghanistan generated extensive adaptation in:
 - operational feedback.
 The important point for the present cluster is not simply that mistakes occurred.
 It is that **the Army demonstrated substantial capacity to learn when operational consequences made the need for learning unavoidable.**
+
 ---
+
 ## 🥾 OPTAG
 Akam describes the reform of the Operational Training and Advisory Group.
 Problems included:
@@ -220,7 +240,9 @@ One especially striking example involves training being paused while current inf
 The feedback loop was extraordinarily short:
 > **theatre → instructor → trainee.**
 That is healthy organisational learning.
+
 ---
+
 ## 🏚️ Representative infrastructure
 Akam also describes the move away from inadequate approximations toward more realistic training environments.
 Improved facilities were developed at locations including:
