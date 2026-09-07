@@ -1262,6 +1262,8 @@ Mainstream politics may simply not have been introduced to all of it yet.
 
 🕹️ 🧬 🦾 ♿ 🪬 — cyberfeminist history; technologically mediated bodies; disability justice; antinaturalism; feminist technological futures.
 
+---  
+
 ## ✨ Stardust
 
 cyberfeminism, feminist technology, embodiment, disability justice, posthumanism, transhumanism, antinaturalism, sex work, technological governance, xenofeminism
@@ -1281,6 +1283,15 @@ It restores the longer feminist history of technological politics before contemp
 > - [🪬 Xenofeminism and the Engineered Body](./🪬_xenofeminism_and_the_engineered_body.md) — *antinaturalism, techno-materialism and deliberate transformation*
 > - [🌞 We Could Build Nicer Things](./🌞_we_could_build_nicer_things.md) — *constructive technological politics beyond harm reduction*
 > - [♻️🧿 Observation Becomes Intervention](../../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/) — *feedback effects produced by classification, observation and institutional response*
+>  
+> 🏮 Return To:
+>
+> - [📖 Previously On The Internet](./README.md) — *1up*
+> - [🌸 Digitally Women](../README.md) — *2up*
+> - [🌱 Prosocial Roots](../../README.md) — *3up*
+> - [📲 Press Matters](../../../README.md) — *4up*
+> - [🌓 In The Moment](../../../../README.md) — *5up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
