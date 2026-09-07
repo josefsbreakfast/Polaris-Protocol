@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 History of presenting complaint  
+## 📋 History of the Presenting Complaint  
 
 The September 2026 Army collective-training dispute is not an isolated event.
 It sits at the end of a much longer sequence in which Britain has repeatedly:
@@ -34,8 +34,10 @@ It is:
 
 ---
 
-## 🧭 The recurring tension
+## 🧭 The Recurring Tension  
+
 British defence planning repeatedly has to reconcile several things which do not naturally remain in balance:
+
 - political ambition;
 - strategic obligations;
 - personnel;
@@ -47,16 +49,19 @@ British defence planning repeatedly has to reconcile several things which do not
 - technology;
 - alliances;
 - money.
+
 Strategic reviews are attempts to make those things coherent.
 They are not evidence that coherence was subsequently achieved.
 The House of Commons Library notes that governments inherit force numbers, capabilities and long-term procurement commitments from predecessors, and that major equipment programmes may take years or decades to deliver. Reviews therefore operate inside inherited constraints rather than designing the Armed Forces from a blank sheet.  
 [House of Commons Library: *A brief guide to previous British defence reviews*](https://commonslibrary.parliament.uk/research-briefings/cbp-7313/)
 That distinction matters throughout this history.
+
 > **Review published ≠ force delivered.**
 
 ---
 
-## 1. 🌍 Before the current problem: what sort of force was Britain maintaining?
+## 1. 🌍 Before the Current Problem: What Sort of Force Was Britain Maintaining?
+
 The post-1945 Armed Forces were shaped heavily by:
 - NATO;
 - the Cold War;
@@ -68,56 +73,78 @@ The post-1945 Armed Forces were shaped heavily by:
 - maritime obligations;
 - overseas commitments;
 - alliance warfare.
+
 For much of the Cold War, substantial parts of British force design therefore rested on relatively legible assumptions about:
 - where a major European conflict might occur;
 - who the principal adversary was;
 - which allies would participate;
 - what major formations were required;
 - which infrastructure supported them.
+
 Those assumptions did not make planning simple.
+
 But they supplied a relatively stable strategic reference point.
+
 The end of the Cold War removed much of that reference point.
 
 ---
 
-## 2. ⚓ 1981–1982: plans meet the Falklands
-The 1981 Defence Review associated with Defence Secretary John Nott was principally an attempt to bring the Defence programme and equipment commitments into line with available resources.
+## 2. ⚓ 1981–1982: Plans Meet The Falklands
+
+The 1981 Defence Review associated with Defence Secretary John Nott was principally an attempt to bring the Defence programme and equipment commitments into line with available resources.  
+
 Shortly afterwards, Argentina invaded the Falkland Islands.
+
 The resulting conflict became one of Britain's most obvious modern examples of a strategic planning assumption encountering an unexpected operational demand.
+
 This episode should not be reduced to:
+
 > **Nott review bad; Falklands proved it.**
+
 The more useful lesson is structural.
 Military capability cannot always be regenerated immediately after a political decision determines that it is no longer required.
+
 The interval between:
 > **we intend to remove this capability**
 and
 > **we no longer possess this capability**
 can itself become strategically important.
+> 
 The Falklands subsequently acquired a much larger place in British cultural memory than in the technical history of Defence reviews, but for this cluster its significance is narrower:
 > **strategic surprise can arrive during the implementation window of apparently rational force restructuring.**
+
 This is an early example of why assumptions, warning time and reversibility matter.
 
 ---
 
-## 3. 🧊 1990: Options for Change and the peace dividend
+## 3. 🧊 1990: Options for Change and the Peace Dividend
+
 The collapse of the Soviet threat created the possibility of substantial reductions.
 `Options for Change` in 1990 sought smaller Armed Forces for a different strategic environment.
+
 The MOD later summarised the aim as creating:
 > smaller forces, better equipped, properly trained and housed, motivated, flexible and mobile.
+
 [MOD Records Appraisal Report 2020](https://www.gov.uk/government/publications/ministry-of-defence-records-appraisal-report-2020/mod-appraisal-report-2020-accessible-version)
+
 This is worth remembering.
 The stated objective was not simply:
 > **smaller military.**
+
 It was:
 > **smaller but sufficiently capable military.**
+
 That distinction recurs repeatedly in later reviews.
+
 The difficult question is therefore always:
 > **What enabling systems have to remain intact for a smaller force genuinely to remain better trained, flexible and usable?**
 
 ---
 
-## 4. 🕊️ The 1990s: the supposedly peaceful decade was rather busy
-The immediate post-Cold-War environment did not produce an absence of military activity.
+## 4. 🕊️ The 1990s: The Supposedly Peaceful Decade Was Rather Busy
+
+The immediate post-Cold-War environment did not produce an absence of military activity.  
+
 British forces operated in or around:
 - the Gulf;
 - the Balkans;
@@ -125,7 +152,9 @@ British forces operated in or around:
 - Kosovo;
 - Sierra Leone;
 - continuing commitments elsewhere.
+
 The nature of demand changed.
+
 Instead of preparing principally for one enormous NATO confrontation in Central Europe, the Armed Forces increasingly needed:
 - expeditionary capability;
 - joint operations;
@@ -134,13 +163,16 @@ Instead of preparing principally for one enormous NATO confrontation in Central 
 - coalition interoperability;
 - logistics over distance;
 - rapidly configurable forces.
+
 This produces one of the first important historical warnings for the present cluster:
 > **A fall in one category of threat does not necessarily produce a proportional fall in military workload.**
+
 The workload may instead change shape.
 
 ---
 
-## 5. 🧩 1994: Front Line First and the problem of deciding what counts as support
+## 5. 🧩 1994: Front Line First and the Problem of Deciding What Counts as Support
+
 The 1994 Defence Costs Study, commonly associated with **Front Line First**, sought further efficiencies.
 It also accelerated greater tri-service organisation and joint structures.
 The MOD's own later institutional history identifies the reforms as important to the development of:
@@ -664,7 +696,7 @@ Several patterns are sufficiently plausible to investigate, but not yet sufficie
 
 ---
 
-## 1. Strategic requirements change faster than institutions
+### 1. Strategic requirements change faster than institutions
 Britain has repeatedly moved between:
 - continental deterrence;
 - expeditionary operations;
@@ -682,7 +714,7 @@ Institutional adaptation therefore has to be continuous.
 
 ---
 
-## 2. Operational pressure accelerates learning
+### 2. Operational pressure accelerates learning
 
 Iraq and Afghanistan show that:
 - deficiencies can become extremely visible during conflict;
@@ -695,7 +727,7 @@ It also raises an uncomfortable question:
 
 ---
 
-## 3. Successful adaptation can itself become a future constraint
+### 3. Successful adaptation can itself become a future constraint
 
 Afghanistan-specific competence demonstrates that:
 > **being extremely good at yesterday's war does not guarantee preparedness for tomorrow's.**
@@ -704,7 +736,7 @@ Therefore training cannot be treated as a one-time investment.
 
 ---
 
-## 4. Enabling systems are vulnerable to being mistaken for overhead
+### 4. Enabling systems are vulnerable to being mistaken for overhead
 
 Training, estate, instructors, logistics, reserves and support functions may appear less tangible than:
 - platforms;
@@ -716,7 +748,7 @@ But platforms without enabling systems are nominal capability.
 
 ---
 
-## 5. Smaller forces demand more from force generation, not necessarily less
+### 5. Smaller forces demand more from force generation, not necessarily less
 
 Reducing personnel does not automatically reduce the complexity of Britain's commitments.
 A smaller force asked to maintain high readiness may depend more heavily upon:
@@ -730,7 +762,7 @@ The sustainability of the system matters as much as headline strength.
 
 ---
 
-## 6. Reviews repeatedly recognise many of these problems
+### 6. Reviews repeatedly recognise many of these problems
 
 The historical story is not simply:
 > **government never understood Defence.**
@@ -777,7 +809,7 @@ The /data/ work needs to establish:
 
 ---
 
-🧈 The information problem
+## 🧈 The information problem
 
 There is another historical pattern running alongside money and force structure.
 
@@ -810,7 +842,7 @@ The feedback needs to move like fucking butter.
 
 ---
 
-🩻 Historical provisional assessment
+## 🩻 Historical provisional assessment
 
 The current training dispute emerges from an Armed Forces system which has spent several decades adapting repeatedly to strategic change while also being subjected to recurring affordability pressure and force restructuring.
 
@@ -849,7 +881,7 @@ The next task is to investigate which.
 
 ---
 
-🔬 Questions carried forward
+## 🔬 Questions carried forward
 
 The history generates several specific questions for later nodes:
 
@@ -868,7 +900,7 @@ The history generates several specific questions for later nodes:
 
 ---
 
-📡 Next
+## 📡 Next
 
 Continue to:
 
