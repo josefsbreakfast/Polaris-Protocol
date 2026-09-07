@@ -1,3 +1,30 @@
+🪖_Training_Debrief/
+├── README.md
+├── 🩺_presenting_complaint.md
+├── 📋_history_of_presenting_complaint.md
+├── 🔬_tests_and_investigations.md
+├── 🧠_assessment_and_differential.md
+├── 🚑_immediate_management.md
+├── 💊_long_term_management.md
+├── 🛡️_prevention_and_resilience.md
+├── ⚙️_the_feedback_machine.md
+├── 🪖_what_training_is_for.md
+├── 💷_thirty_million_pounds.md
+├── 🪟_transparency_and_earned_loyalty.md
+├── 🧾_the_blank_cheque_exercise.md
+├── 🔭_what_does_ready_actually_look_like.md
+└── data/
+    ├── timeline.md
+    ├── strategic_reviews.md
+    ├── parliamentary_questions.md
+    ├── current_reporting.md
+    ├── source_bank.md
+    └── open_questions.md
+
+- - - 
+
+
+
 🪖_Training_Debrief/notes.txt  
 
 - - -  
