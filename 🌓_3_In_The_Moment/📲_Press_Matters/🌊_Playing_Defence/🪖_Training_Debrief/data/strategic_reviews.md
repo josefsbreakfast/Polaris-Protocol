@@ -1,7 +1,6 @@
 # 📋 Strategic Reviews
-**First created:** 2026-09-07 | **Last updated:** 2026-09-07  
-*Longitudinal policy record separating strategic intent from implementation and operational reality.*
-
+**First created:** 2026-09-07 | **Last updated:** 2026-09-08  
+*Longitudinal policy record of British strategic assumptions, force design, resources, implementation and recurring lessons.*
 
 > **Status:** Research infrastructure / longitudinal policy record  
 > **Cluster:** `🪖_Training_Debrief`  
@@ -9,7 +8,7 @@
 
 ---
 
-### 🧭 What This File Is
+## 🧭 What This File Is
 
 This file is a longitudinal record of British defence planning.
 
@@ -26,22 +25,7 @@ It asks, repeatedly:
 9. What was actually implemented?
 10. What happened before the next review?
 
-The purpose is not to determine which political party was "best for Defence".
-
-Different governments inherited different:
-
-- threats;
-- fiscal conditions;
-- military commitments;
-- equipment programmes;
-- alliances;
-- industrial constraints;
-- personnel problems;
-- consequences of previous decisions.
-
-The useful comparison is therefore not simply spending.
-
-It is:
+The useful comparison is:
 
 > **strategy → required functions → force design → resources → implementation → operational reality → feedback → next review**
 
@@ -53,59 +37,23 @@ It is:
 
 A strategic review establishes what government said it intended to do at a particular point.
 
-It does not establish that:
-
-- funding subsequently arrived;
-- programmes were delivered;
-- personnel targets were achieved;
-- training occurred at the intended level;
-- equipment became operational;
-- strategic assumptions remained valid;
-- ministers followed the review;
-- the services agreed internally;
-- the next government retained the policy.
+It does not establish that funding subsequently arrived, programmes were delivered, personnel targets were achieved, training occurred at the intended level, equipment became operational, strategic assumptions remained valid, ministers followed the review, the services agreed internally, or the next government retained the policy.
 
 Each review should therefore be paired with implementation evidence where possible.
-
----
 
 ### 📸 Reviews Are Strategic Snapshots
 
 Reviews should be read in their contemporary environment.
 
-Record:
-
-- threat assumptions;
-- economic assumptions;
-- alliance assumptions;
-- technological expectations;
-- anticipated operations;
-- lessons from recent conflicts;
-- assumptions about warning time;
-- assumptions about mobilisation;
-- assumptions about allies;
-- assumptions about industrial capacity.
+Record threat, economic, alliance and technological assumptions; anticipated operations; lessons from recent conflicts; warning time; mobilisation; allies; and industrial capacity.
 
 A force model can look irrational later because its assumptions failed.
 
 That is analytically different from a force model that was inadequately resourced even on its own assumptions.
 
----
-
 ### 🪆 Inheritance Matters
 
-Every review inherits:
-
-- previous force reductions;
-- existing contracts;
-- personnel;
-- estate;
-- equipment;
-- doctrine;
-- training infrastructure;
-- operational commitments;
-- procurement liabilities;
-- political promises.
+Every review inherits previous force reductions, contracts, personnel, estate, equipment, doctrine, training infrastructure, operational commitments, procurement liabilities and political promises.
 
 Record important inherited constraints rather than assigning every contemporary condition to the government publishing the review.
 
@@ -115,117 +63,31 @@ Record important inherited constraints rather than assigning every contemporary 
 
 ### 1. Post-1945 Background
 
-Brief contextual section only.
-
-Cover enough to understand:
-
-- post-war demobilisation;
-- Cold War posture;
-- NATO;
-- British Army of the Rhine;
-- nuclear deterrence;
-- imperial withdrawal;
-- Northern Ireland;
-- expeditionary capability;
-- service roles immediately before the late-Cold-War transition.
-
-**Do not turn this into a complete history of British defence since 1945.**
-
----
+Brief contextual section only: post-war demobilisation; Cold War posture; NATO; BAOR; nuclear deterrence; imperial withdrawal; Northern Ireland; expeditionary capability; service roles before the late-Cold-War transition.
 
 ### 2. 1981 Defence Review / Nott Review
 
-Record:
-
-- strategic context;
-- intended force changes;
-- Navy implications;
-- Army implications;
-- RAF implications;
-- Falklands relevance;
-- implementation status when Argentina invaded.
-
-Important retrospective question:
+Record strategic context, intended force changes, service implications, Falklands relevance and implementation status when Argentina invaded.
 
 > What does the Falklands demonstrate about the interval between announcing a force change and actually losing the capability?
 
----
-
 ### 3. Falklands Aftermath
 
-Not necessarily a formal strategic review in the same sense.
-
-Use as a bridge examining:
-
-- reversal/modification of previous plans;
-- expeditionary assumptions;
-- maritime and air requirements;
-- logistics;
-- amphibious capability;
-- political effects;
-- lessons subsequently embedded into force planning.
-
----
+Use as a bridge examining reversal or modification of previous plans, expeditionary assumptions, maritime and air requirements, logistics, amphibious capability, political effects and lessons subsequently embedded into force planning.
 
 ### 4. Options for Change — 1990
 
-Priority questions:
-
-- What did the "peace dividend" assume?
-- What threat disappeared?
-- What commitments remained?
-- What happened to force size?
-- What happened to the Army?
-- What happened to bases and infrastructure?
-- How much warning time was assumed?
-- What happened shortly afterwards in actual operations?
-
----
+Ask what the peace dividend assumed, what threat disappeared, what commitments remained, what happened to force size and infrastructure, how much warning time was assumed, and what happened shortly afterwards operationally.
 
 ### 5. Front Line First — 1994
 
-Examine:
-
-- efficiency rationale;
-- front-line versus support distinction;
-- personnel;
-- headquarters/support functions;
-- estate;
-- training implications;
-- whether removing "support" subsequently affected usable front-line capability.
-
-Potential recurring Polaris question:
+Examine efficiency rationale, front-line versus support distinctions, personnel, headquarters/support functions, estate, training implications and whether removing “support” affected usable front-line capability.
 
 > **What counts as front line when the front line cannot function without the thing being cut?**
 
----
-
 ### 6. Strategic Defence Review — 1998
 
-Major node within the dataset.
-
-Extract:
-
-- foreign-policy assumptions;
-- expeditionary warfare;
-- NATO;
-- Europe;
-- Joint Rapid Reaction Forces;
-- personnel;
-- Army;
-- Navy;
-- RAF;
-- logistics;
-- medical capability;
-- reserves;
-- procurement;
-- estate;
-- training;
-- readiness;
-- Defence diplomacy;
-- industrial implications.
-
-Then record:
+Extract foreign-policy assumptions, expeditionary warfare, NATO, Europe, Joint Rapid Reaction Forces, personnel, services, logistics, medical capability, reserves, procurement, estate, training, readiness, Defence diplomacy and industrial implications.
 
 #### What happened next?
 
@@ -235,359 +97,85 @@ Then record:
 - Afghanistan;
 - Iraq.
 
-Question:
-
-> How well did the force envisaged in 1998 correspond to the demand subsequently placed upon it?
-
----
+Ask how well the force envisaged in 1998 corresponded to subsequent demand.
 
 ### 7. SDR New Chapter — 2002
 
-Post-9/11 adjustment.
-
-Extract changes concerning:
-
-- terrorism;
-- expeditionary operations;
-- intelligence;
-- networked warfare;
-- rapid deployment;
-- homeland defence;
-- resilience;
-- technology;
-- US/NATO interoperability.
-
----
+Extract changes concerning terrorism, expeditionary operations, intelligence, networked warfare, rapid deployment, homeland defence, resilience, technology and US/NATO interoperability.
 
 ### 8. Delivering Security in a Changing World — 2003/2004
 
-Examine:
-
-- lessons being drawn from early post-9/11 operations;
-- force restructuring;
-- personnel;
-- equipment;
-- readiness;
-- deployability;
-- concurrent-operation assumptions;
-- Army restructuring.
-
----
+Examine early post-9/11 lessons, restructuring, personnel, equipment, readiness, deployability, concurrent-operation assumptions and Army restructuring.
 
 ### 9. Iraq / Afghanistan Operational Adaptation — 2003–2010
 
-This section sits between formal reviews.
-
-Include:
-
-- OPTAG;
-- BATUS;
-- training transformation;
-- Urgent Operational Requirements;
-- counter-IED adaptation;
-- protected mobility;
-- operational feedback;
-- instructor currency;
-- theatre-specific expertise;
-- casualty evacuation;
-- medical capability;
-- overfitting to COIN;
-- lessons processes.
+Include OPTAG, BATUS, training transformation, UORs, counter-IED adaptation, protected mobility, operational feedback, instructor currency, theatre-specific expertise, casualty evacuation, medical capability, overfitting to COIN and lessons processes.
 
 Use Akam here, but chase primary material independently.
 
----
-
 ### 10. SDSR 2010
 
-Critical austerity-era review.
-
-Extract:
-
-- fiscal context;
-- inherited affordability problem;
-- National Security Strategy assumptions;
-- Future Force 2020;
-- personnel reductions;
-- Army;
-- Navy;
-- RAF;
-- equipment;
-- estate;
-- readiness;
-- reserves;
-- training;
-- concurrent-operation assumptions;
-- ten-year warning / strategic-warning assumptions where applicable.
-
-Special attention:
-
-> What capability was deliberately accepted as unavailable temporarily because government expected sufficient warning to regenerate it?
-
----
+Extract fiscal context, inherited affordability problem, National Security Strategy assumptions, Future Force 2020, service reductions, equipment, estate, readiness, reserves, training, concurrent-operation assumptions and warning-time assumptions.
 
 ### 11. Army 2020
 
-Treat separately because of its importance to the current Army.
-
-Extract:
-
-- regular Army target;
-- reserve target;
-- Regular/Reserve balance;
-- Reaction Force;
-- Adaptable Force;
-- Force Troops;
-- recruitment assumptions;
-- reserve mobilisation assumptions;
-- collective training;
-- readiness;
-- estate;
-- implementation difficulties.
-
-Ask:
+Extract Regular/Reserve targets and balance, Reaction Force, Adaptable Force, Force Troops, recruitment and reserve mobilisation assumptions, collective training, readiness, estate and implementation difficulties.
 
 > Did the personnel model required to make Army 2020 work actually materialise?
 
----
-
 ### 12. SDSR 2015
 
-Extract:
-
-- post-Crimea strategic environment;
-- terrorism;
-- Russia;
-- Joint Force 2025;
-- Army structure;
-- personnel;
-- readiness;
-- equipment;
-- maritime;
-- air;
-- cyber;
-- intelligence;
-- nuclear;
-- reserves;
-- estate;
-- affordability.
-
-Compare the threat environment with 2010.
-
----
+Extract the post-Crimea environment, terrorism, Russia, Joint Force 2025, force structure, personnel, readiness, equipment, cyber, intelligence, nuclear, reserves, estate and affordability.
 
 ### 13. Modernising Defence Programme — 2018
 
-Examine:
-
-- changing threat assessment;
-- Russia;
-- cyber;
-- space;
-- technology;
-- affordability;
-- modernisation;
-- lethality;
-- readiness;
-- implementation.
-
----
+Examine threat assessment, Russia, cyber, space, technology, affordability, modernisation, lethality, readiness and implementation.
 
 ### 14. Integrated Review — 2021
 
-Extract:
-
-- "Global Britain";
-- Indo-Pacific tilt;
-- Russia;
-- China;
-- NATO;
-- cyber;
-- space;
-- nuclear;
-- technology;
-- Army reductions;
-- Future Soldier;
-- industrial strategy;
-- readiness;
-- resilience;
-- personnel;
-- training.
-
-Key tension to examine:
+Extract Global Britain, Indo-Pacific tilt, Russia, China, NATO, cyber, space, nuclear, technology, Army reductions, Future Soldier, industrial strategy, readiness, resilience, personnel and training.
 
 > Were ambitions expanding while conventional mass was contracting?
 
 Do not assume the answer before reviewing the evidence.
 
----
-
 ### 15. Defence Command Paper — 2021
 
-Separate the defence implementation plan from the wider Integrated Review.
-
-Track:
-
-- force structure;
-- Army numbers;
-- equipment;
-- Future Soldier;
-- digital transformation;
-- training;
-- estate;
-- reserves;
-- mobilisation;
-- readiness.
-
----
+Track force structure, Army numbers, equipment, Future Soldier, digital transformation, training, estate, reserves, mobilisation and readiness.
 
 ### 16. Ukraine Shock — 2022 onwards
 
-Not a review itself.
-
-Record the strategic shock:
-
-- Russian full-scale invasion;
-- ammunition consumption;
-- industrial capacity;
-- stockpiles;
-- mass;
-- mobilisation;
-- drones;
-- electronic warfare;
-- air defence;
-- logistics;
-- training;
-- NATO reinforcement;
-- assumptions about prolonged high-intensity warfare.
-
-Question:
-
-> Which previous British assumptions became harder to sustain after February 2022?
-
----
+Record ammunition consumption, industrial capacity, stockpiles, mass, mobilisation, drones, EW, air defence, logistics, training, NATO reinforcement and assumptions about prolonged high-intensity warfare.
 
 ### 17. Integrated Review Refresh — 2023
 
-Extract:
-
-- changes from 2021;
-- Russia;
-- China;
-- Euro-Atlantic priority;
-- economic security;
-- resilience;
-- industrial capacity;
-- alliances;
-- Defence implications.
-
----
+Extract changes from 2021 concerning Russia, China, Euro-Atlantic priority, economic security, resilience, industrial capacity, alliances and Defence implications.
 
 ### 18. Defence Command Paper Refresh — 2023
 
-Track Defence-specific response:
-
-- readiness;
-- warfighting;
-- personnel;
-- reserves;
-- stockpiles;
-- technology;
-- productivity;
-- training;
-- estate;
-- industrial capacity.
-
----
+Track readiness, warfighting, personnel, reserves, stockpiles, technology, productivity, training, estate and industrial capacity.
 
 ### 19. Strategic Defence Review — 2025
 
-Major current baseline.
-
-Extract in detail:
-
-- threat assessment;
-- NATO-first posture;
-- warfighting readiness;
-- force structure;
-- Army;
-- Navy;
-- RAF;
-- nuclear;
-- cyber;
-- space;
-- AI/autonomy;
-- personnel;
-- recruitment;
-- retention;
-- reserves;
-- mobilisation;
-- training;
-- collective training;
-- simulation;
-- live firing;
-- estate;
-- logistics;
-- medical capability;
-- industrial base;
-- innovation;
-- spending assumptions.
-
-Particular current relevance:
+Extract threat assessment, NATO-first posture, warfighting readiness, force structure, services, nuclear, cyber, space, AI/autonomy, personnel, reserves, mobilisation, training, collective training, simulation, live firing, estate, logistics, medical capability, industrial base, innovation and spending assumptions.
 
 > What did SDR 2025 explicitly say Britain needed to do about training and readiness?
-
----
 
 ### 20. Defence Investment Plan — 2026
 
 Treat as the resourcing/implementation companion to SDR 2025.
 
-Extract:
-
-- spending envelope;
-- RDEL/CDEL distinctions where relevant;
-- major programmes;
-- protected programmes;
-- nuclear expenditure;
-- Army investment;
-- training investment;
-- estate;
-- personnel;
-- technology;
-- industrial investment;
-- affordability assumptions;
-- implementation timetable.
-
-Then compare directly with the current £30m training decision.
-
----
+Extract spending envelope, RDEL/CDEL distinctions where relevant, major and protected programmes, nuclear expenditure, Army and training investment, estate, personnel, technology, industry, affordability assumptions and implementation timetable.
 
 ### 21. 2026 Training Decision
 
-The endpoint of this longitudinal file, not the whole story.
-
-Record:
-
-- reported £30m Army saving;
-- collective-training restrictions;
-- exemptions;
-- Navy/RAF comparison;
-- parliamentary chronology;
-- ministerial chronology;
-- forces reaction;
-- MOD explanation;
-- relationship to SDR/DIP commitments.
-
-Then ask:
+Record the reported £30m Army saving, collective-training restrictions, exemptions, Navy/RAF comparison, parliamentary and ministerial chronology, forces reaction, MOD explanation and relationship to SDR/DIP commitments.
 
 > Is this decision consistent with the force-generation model established by the preceding review and investment plan?
 
 ---
 
 ## 📊 Standard Extraction Template
-
-Use the same template for every substantial review.
 
 ```yaml
 review:
@@ -598,14 +186,11 @@ review:
   defence_secretary:
   chancellor:
   strategic_context:
-
   threat_assessment:
     primary_threats: []
     secondary_threats: []
     uncertainty_identified: []
-
   strategic_objectives: []
-
   operational_assumptions:
     likely_operations: []
     concurrency:
@@ -617,38 +202,11 @@ review:
     industrial_capacity:
     technology:
     other: []
-
   force_design:
-    army:
-      personnel:
-      structure:
-      readiness:
-      reserves:
-      training:
-      equipment:
-    royal_navy:
-      personnel:
-      structure:
-      readiness:
-      reserves:
-      training:
-      equipment:
-    royal_air_force:
-      personnel:
-      structure:
-      readiness:
-      reserves:
-      training:
-      equipment:
-    joint:
-      logistics:
-      medical:
-      intelligence:
-      cyber:
-      space:
-      special_forces:
-      command_and_control:
-
+    army: {personnel:, structure:, readiness:, reserves:, training:, equipment:}
+    royal_navy: {personnel:, structure:, readiness:, reserves:, training:, equipment:}
+    royal_air_force: {personnel:, structure:, readiness:, reserves:, training:, equipment:}
+    joint: {logistics:, medical:, intelligence:, cyber:, space:, special_forces:, command_and_control:}
   enabling_systems:
     estate:
     recruitment:
@@ -659,7 +217,6 @@ review:
     stockpiles:
     maintenance:
     infrastructure:
-
   financial_model:
     spending_commitment:
     savings_required:
@@ -667,7 +224,6 @@ review:
     operating_assumptions:
     affordability_risks:
     protected_programmes:
-
   training:
     explicit_priority:
     collective_training:
@@ -679,7 +235,6 @@ review:
     training_estate:
     instructor_capacity:
     lessons_process:
-
   implementation:
     intended_timeline:
     implemented:
@@ -687,25 +242,19 @@ review:
     not_implemented:
     superseded:
     implementation_evidence: []
-
-  subsequent_events:
-    - event:
-      relevance:
-
+  subsequent_events: []
   evaluation:
     assumptions_that_held: []
     assumptions_that_failed: []
     identified_implementation_gaps: []
     later_reviews_revisited: []
     open_questions: []
-
   sources:
     primary: []
     audit_and_scrutiny: []
     scholarship: []
     contemporary_media: []
     retrospective: []
-
   confidence:
     overall:
     notes:
@@ -715,37 +264,13 @@ review:
 
 ## 🔬 Cross-Review Comparison
 
-Once individual reviews are populated, compare recurring variables.
-
 ### Personnel
 
-Track:
-
-- regular Army strength;
-- reserve strength;
-- Navy personnel;
-- RAF personnel;
-- recruitment;
-- retention;
-- trained strength versus headline strength.
-
----
+Track regular and reserve strength, Navy and RAF personnel, recruitment, retention, and trained strength versus headline strength.
 
 ### Training
 
-Track:
-
-- collective-training commitments;
-- exercise scale;
-- live training;
-- synthetic training;
-- joint training;
-- NATO/allied training;
-- training estate;
-- instructor capacity;
-- training expenditure where available.
-
----
+Track collective-training commitments, exercise scale, live and synthetic training, joint and allied training, estate, instructor capacity and expenditure where available.
 
 ### Readiness
 
@@ -753,63 +278,25 @@ Do not accept the word **ready** without asking:
 
 > Ready to do what?
 
-Record:
-
-- task;
-- scale;
-- notice;
-- duration;
-- concurrency;
-- sustainment requirement;
-- allied dependencies.
-
----
+Record task, scale, notice, duration, concurrency, sustainment requirement and allied dependencies.
 
 ### Strategic Assumptions
 
-Track recurring assumptions concerning:
-
-- warning time;
-- US support;
-- NATO;
-- air superiority;
-- maritime superiority;
-- industrial mobilisation;
-- stockpiles;
-- technological substitution;
-- reserve availability;
-- conflict duration.
-
----
+Track warning time, US support, NATO, air and maritime superiority, industrial mobilisation, stockpiles, technological substitution, reserve availability and conflict duration.
 
 ### 💷 Money
 
-Distinguish where possible:
+Distinguish headline spending, capital, operating expenditure, nuclear, equipment, personnel, estate, training, committed expenditure and discretionary/flexible expenditure.
 
-- headline Defence spending;
-- capital;
-- operating expenditure;
-- nuclear;
-- equipment;
-- personnel;
-- estate;
-- training;
-- committed expenditure;
-- discretionary/flexible expenditure.
-
-The question is not merely:
-
-**Did Defence spending rise?**
+The question is not merely **Did Defence spending rise?**
 
 It is:
 
-**What capability was the spending supposed to produce, and did it?**
+> **What capability was the spending supposed to produce, and did it?**
 
 ---
 
 ## 🔁 Recurring Recommendations
-
-Create a crosswalk for recommendations or problems that appear repeatedly.
 
 ```yaml
 recurring_issue:
@@ -822,40 +309,11 @@ recurring_issue:
   evidence:
 ```
 
-Potential categories:
-
-- personnel shortages;
-- recruitment;
-- retention;
-- reserves;
-- readiness;
-- collective training;
-- estate;
-- procurement;
-- stockpiles;
-- industrial capacity;
-- interoperability;
-- logistics;
-- medical capability;
-- strategic clarity;
-- affordability;
-- lessons learned.
-
-This section should allow us to distinguish:
-
-> **a newly discovered problem**
-
-from:
-
-> **a problem government has repeatedly rediscovered.**
+Potential categories include personnel shortages, recruitment, retention, reserves, readiness, collective training, estate, procurement, stockpiles, industrial capacity, interoperability, logistics, medical capability, strategic clarity, affordability and lessons learned.
 
 ---
 
 ## 🧠 Assumption Ledger
-
-Maintain a separate comparison of assumptions because failed assumptions may matter more than failed programmes.
-
-Examples:
 
 ```yaml
 assumption:
@@ -868,23 +326,11 @@ assumption:
   status_2026:
 ```
 
-Questions include:
-
-- How much strategic warning was expected?
-- How quickly could capability be regenerated?
-- How dependable was US support assumed to be?
-- How much conflict could occur concurrently?
-- How long was a major conflict expected to last?
-- How quickly could industry expand?
-- How available would reserves be?
-- How far could technology substitute for mass?
-- What degree of air/maritime superiority was assumed?
+Questions include warning time, regeneration speed, US support, concurrency, conflict duration, industrial expansion, reserve availability, technological substitution and air/maritime superiority.
 
 ---
 
 ## 🩻 Implementation Gap
-
-For each major commitment:
 
 ```yaml
 implementation_gap:
@@ -901,15 +347,7 @@ implementation_gap:
   confidence:
 ```
 
-This is important because the cluster should not accidentally compare:
-
-**promise A**
-
-with:
-
-**promise B**
-
-when the interesting fact is that **A never happened**.
+The cluster should not accidentally compare **promise A** with **promise B** when the interesting fact is that **A never happened**.
 
 ---
 
@@ -921,13 +359,11 @@ research_instruction:
     Construct a longitudinal evidence-based comparison of major UK defence
     reviews and associated implementation from the late Cold War to 2026,
     with extended post-1945 context where necessary.
-
   primary_question: >
     How have changes in British strategic objectives, force design, funding,
     personnel, training and readiness interacted over time, and which
     recurring problems or assumptions help explain the 2026 Army
     collective-training dispute?
-
   rules:
     - "Do not treat policy announcement as implementation."
     - "Do not treat headline spending as equivalent to usable capability."
@@ -940,7 +376,6 @@ research_instruction:
     - "Preserve uncertainty where evidence does not establish an outcome."
     - "Do not assume all three services experienced policy changes equally."
     - "Pay particular attention to enabling capabilities that may disappear inside headline force numbers."
-
   comparison_dimensions:
     - "strategic objectives"
     - "threat assessment"
@@ -962,7 +397,6 @@ research_instruction:
     - "technology"
     - "funding"
     - "implementation"
-
   priority_output:
     - "review-by-review extraction"
     - "chronology"
@@ -971,7 +405,6 @@ research_instruction:
     - "implementation-gap register"
     - "training/readiness comparison"
     - "unresolved research questions"
-
   stop_condition: >
     Do not force a single causal explanation for the 2026 training decision.
     Identify the strongest supported longitudinal patterns and preserve
@@ -1010,26 +443,30 @@ It is to establish something more useful:
 ---
 
 ## 🌌 Constellations
-📋 🧭 🪖 💷 🔁 — strategic reviews; force design; resources; implementation; recurring recommendations.
+
+📋 🪖 🔭 💷 🔁 🧠 — strategic reviews; force design; readiness; funding; implementation; recurring assumptions.
 
 ---
 
 ## ✨ Stardust
-uk defence policy, strategic reviews, force design, defence spending, readiness, implementation gaps, strategic assumptions, recurring recommendations
+
+british defence reviews, strategic defence review, force design, readiness, collective training, army 2020, integrated review, defence investment plan, implementation gaps, strategic assumptions
 
 ---
 
 ## 🏮 Footer
 
 *📋 Strategic Reviews* is a living research-infrastructure node of the **Polaris Protocol**.  
-Longitudinal policy record separating strategic intent from implementation and operational reality.
+It tracks what Britain said it needed, what force it planned, what assumptions supported that plan, and what survived implementation.
 
 > 📡 Cross-references:
 >
-> - [⏱️ Timeline](./timeline.md) — *tests strategic intent against implementation and events*
-> - [🗃️ Source Bank](./source_bank.md) — *provenance and source requirements for the review corpus*
-> - [🔭 What Does Ready Actually Look Like?](../🔭_what_does_ready_actually_look_like.md) — *functional test for review commitments about readiness*
->  
+> - [⏱️ Timeline](./timeline.md) — *what the system subsequently did and encountered*
+> - [🗃️ Source Bank](./source_bank.md) — *source provenance*
+> - [🏛️ Parliamentary Questions](./parliamentary_questions.md) — *public governance trail*
+> - [⚙️ The Feedback Machine](../⚙️_the_feedback_machine.md) — *whether operational reality reaches later decisions*
+> - [📋 History of Presenting Complaint](../📋_history_of_presenting_complaint.md) — *narrative historical synthesis*
+>
 > 🏮 Return To:
 >
 > - [🪖 Training Debrief](../README.md) — *1up*
@@ -1040,4 +477,4 @@ Longitudinal policy record separating strategic intent from implementation and o
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-07_
+_Last updated: 2026-09-08_

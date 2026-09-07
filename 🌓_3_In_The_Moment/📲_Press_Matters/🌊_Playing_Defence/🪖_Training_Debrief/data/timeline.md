@@ -1,14 +1,19 @@
 # ⏱️ Timeline
-**First created:** 2026-09-07 | **Last updated:** 2026-09-07  
-*Dated evidence register connecting strategy, force design, resources, training, operations, feedback and governance.*
+**First created:** 2026-09-07 | **Last updated:** 2026-09-08  
+*Chronological evidence register connecting strategy, force design, training, operations, resources, feedback and governance.*
 
 > **Status:** Research infrastructure / chronological evidence register  
 > **Cluster:** `🪖_Training_Debrief`  
 > **Purpose:** Build a dated chronology connecting British strategic planning, force structure, training, operations, funding, institutional learning and the 2026 Army collective-training dispute.
+
 ---
-### 🧭 What This File Is
+
+## 🧭 What This File Is
+
 This is not simply a chronology of British wars or Defence Secretaries.
+
 It tracks several interacting timelines:
+
 - **strategic intent** — what Britain said it needed its Armed Forces to do;
 - **force design** — what personnel, formations and capabilities were planned;
 - **resources** — what money, estate, equipment and support were available;
@@ -18,38 +23,45 @@ It tracks several interacting timelines:
 - **implementation** — whether announced reforms actually occurred;
 - **politics** — relevant ministerial, parliamentary and Treasury decisions;
 - **external shocks** — events that changed the assumptions underpinning previous plans.
-The purpose is to make sequence visible.
+
 > **What was known, what had already been promised, what happened next, what changed in response, and how long did that response take?**
+
 ---
+
 ## ⚠️ Chronology Is Not Causation
+
 Events appearing beside one another do not establish that one caused the other.
-For example:
-**Review → personnel reduction → readiness problem**
+
+> **Review → personnel reduction → readiness problem**
+
 does not by itself establish that the review caused the later readiness problem.
-The timeline should therefore distinguish:
-- documented causal relationships;
-- contemporary claims about causation;
-- later assessments;
-- chronological proximity;
-- Polaris questions or hypotheses requiring further investigation.
+
+Distinguish documented causal relationships, contemporary claims, later assessments, chronological proximity and Polaris hypotheses requiring further investigation.
+
 ---
+
 ## 🧱 Timeline Layers
-Every entry should be assigned one or more layers.
+
 ### 🧭 Strategy
+
 - strategic reviews;
 - defence command papers;
 - national-security strategies;
 - major doctrinal changes;
 - NATO commitments;
 - changes in strategic assumptions.
+
 ### 🪖 Force
+
 - personnel targets;
 - unit restructuring;
 - reserve reforms;
 - formation changes;
 - mobilisation changes;
 - recruitment/retention changes.
+
 ### 🏋️ Training
+
 - collective-training policy;
 - OPTAG;
 - BATUS;
@@ -59,21 +71,27 @@ Every entry should be assigned one or more layers.
 - major exercise changes;
 - training expenditure;
 - cancellations/reductions.
+
 ### ⚔️ Operations
+
 - major deployments;
 - wars;
 - peacekeeping;
 - enduring commitments;
 - operational tempo;
 - significant force-generation demands.
+
 ### 💷 Money
+
 - spending settlements;
 - savings exercises;
 - affordability crises;
 - major investment programmes;
 - major procurement commitments;
 - Treasury interventions where evidenced.
+
 ### 🏚️ Estate / Support
+
 - estate reductions;
 - accommodation;
 - logistics;
@@ -81,7 +99,9 @@ Every entry should be assigned one or more layers.
 - medical capability;
 - stockpiles;
 - enabling infrastructure.
+
 ### 🔁 Feedback / Lessons
+
 - lessons reports;
 - inquiries;
 - operational adaptation;
@@ -89,13 +109,17 @@ Every entry should be assigned one or more layers.
 - audit findings;
 - recommendations;
 - evidence of lessons being implemented or lost.
+
 ### 🏛️ Governance
+
 - parliamentary questions;
 - committee interventions;
 - ministerial changes where substantively relevant;
 - significant FOI disclosures;
 - accountability events.
+
 ### 🌍 External Environment
+
 - collapse of Soviet Union;
 - Balkans;
 - 9/11;
@@ -104,180 +128,65 @@ Every entry should be assigned one or more layers.
 - Crimea;
 - full-scale invasion of Ukraine;
 - other shocks materially changing UK assumptions.
+
 ---
+
 ## 📍 Historical Periods
+
 ### 1945–1979 — Background
-Keep deliberately concise.
-Anchor:
-- post-war demobilisation;
-- NATO formation;
-- Cold War;
-- BAOR;
-- imperial withdrawal;
-- nuclear posture;
-- Northern Ireland;
-- changing expeditionary requirements.
-Purpose:
-**What sort of Armed Forces existed before the sequence we actually want to study?**
----
+
+Keep deliberately concise: post-war demobilisation, NATO formation, Cold War, BAOR, imperial withdrawal, nuclear posture, Northern Ireland and changing expeditionary requirements.
+
 ### 1980–1989 — Falklands and Late Cold War
-Priority events:
-- Nott Review;
-- announced capability changes;
-- Falklands invasion;
-- Falklands War;
-- post-war policy response;
-- continuing NATO/BAOR commitments.
-This gives us an early example of:
+
+Priority events: Nott Review, announced capability changes, Falklands invasion and war, post-war policy response, continuing NATO/BAOR commitments.
+
 > **planned force change meeting strategic surprise.**
----
+
 ### 1990–2000 — Peace Dividend and Expeditionary Reorientation
-Include:
-- collapse of Soviet Union;
-- Options for Change;
-- Gulf War;
-- Balkans;
-- Front Line First;
-- Bosnia;
-- SDR 1998;
-- Kosovo;
-- Sierra Leone where chronologically appropriate;
-- FOI Act 2000.
-Track particularly:
-- personnel;
-- estate;
-- support functions;
-- expeditionary assumptions;
-- concurrent commitments.
----
+
+Include collapse of Soviet Union, Options for Change, Gulf War, Balkans, Front Line First, Bosnia, SDR 1998, Kosovo, Sierra Leone where chronologically appropriate, and FOI Act 2000.
+
 ### 2001–2009 — 9/11, Afghanistan and Iraq
+
 This should be extremely detailed.
-Include:
-- 9/11;
-- Article 5;
-- Afghanistan deployment;
-- SDR New Chapter;
-- Iraq planning;
-- Iraq invasion;
-- concurrent Iraq/Afghanistan demands;
-- Basra;
-- Helmand;
-- equipment problems;
-- UORs;
-- casualties;
-- OPTAG reform;
-- BATUS reform;
-- Andrew Kennett;
-- Richard Wesley;
-- Derek Derenalagi;
-- representative training infrastructure;
-- instructor reform;
-- theatre feedback;
-- Operation Integrity;
-- training investment.
-This is where we can begin seeing:
-**operational problem → feedback → money suddenly appears → adaptation.**
----
+
+Include 9/11, Article 5, Afghanistan, SDR New Chapter, Iraq planning and invasion, Basra, Helmand, UORs, casualties, OPTAG and BATUS reform, Andrew Kennett, Richard Wesley, Derek Derenalagi, representative training infrastructure, instructor reform, theatre feedback, Operation Integrity and training investment.
+
+> **operational problem → feedback → money suddenly appears → adaptation**
+
 ### 2010–2014 — Lessons, Austerity and Force Reduction
-Include:
-- Brown report chronology;
-- Barry lessons work;
-- Guardian disclosure;
-- Brown departure;
-- SDSR 2010;
-- Future Force 2020;
-- Army 2020;
-- regular/reserve restructuring;
-- Afghanistan drawdown;
-- Libya;
-- Brecon retraining / Afghanistan overfitting examples;
-- Crimea 2014.
-This period is likely crucial because:
-> **lessons from sustained war and fiscal retrenchment occur simultaneously.**
----
+
+Include Brown report chronology, Barry lessons work, Guardian disclosure, Brown departure, SDSR 2010, Future Force 2020, Army 2020, regular/reserve restructuring, Afghanistan drawdown, Libya, Brecon retraining/Afghanistan overfitting examples, and Crimea 2014.
+
 ### 2015–2019 — Russia Returns / Modernisation
-Include:
-- SDSR 2015;
-- Joint Force 2025;
-- Army 2020 implementation evidence;
-- recruitment/retention;
-- Chilcot publication;
-- Modernising Defence Programme;
-- readiness reporting;
-- estate;
-- procurement affordability;
-- NATO adaptation.
----
+
+Include SDSR 2015, Joint Force 2025, Army 2020 implementation evidence, recruitment/retention, Chilcot, Modernising Defence Programme, readiness reporting, estate, procurement affordability and NATO adaptation.
+
 ### 2020–2021 — Integrated Review / Future Soldier
-Include:
-- pandemic where Defence-relevant;
-- Integrated Review;
-- Defence Command Paper;
-- Future Soldier;
-- Army personnel changes;
-- technology/digitalisation;
-- cyber/space;
-- Indo-Pacific;
-- NATO assumptions;
-- training/readiness commitments.
----
+
+Include pandemic where Defence-relevant, Integrated Review, Defence Command Paper, Future Soldier, Army personnel changes, technology/digitalisation, cyber/space, Indo-Pacific, NATO assumptions and training/readiness commitments.
+
 ### 2022–2024 — Ukraine and the Return of Mass
-Include:
-- Russian full-scale invasion;
-- UK support to Ukraine;
-- Operation Interflex;
-- ammunition/stockpile concerns;
-- industrial capacity;
-- lessons concerning drones/EW;
-- NATO reinforcement;
-- IR Refresh 2023;
-- DCP Refresh 2023;
-- readiness warnings;
-- personnel/recruitment issues;
-- training implications.
-Especially track instances where the language changes toward:
-- **warfighting**;
-- **readiness**;
-- **resilience**;
-- **mobilisation**;
-- **industrial capacity**.
----
+
+Include Russia's full-scale invasion, UK support, Operation Interflex, ammunition/stockpile concerns, industrial capacity, drones/EW, NATO reinforcement, IR Refresh 2023, DCP Refresh 2023, readiness warnings, personnel/recruitment and training implications.
+
+Track especially the return of **warfighting**, **readiness**, **resilience**, **mobilisation** and **industrial capacity** language.
+
 ### 2025 — Strategic Reset
-Include:
-- government Defence commitments;
-- SDR 2025;
-- NATO-first posture;
-- warfighting-readiness commitments;
-- collective-training recommendations;
-- live/synthetic training;
-- personnel;
-- reserves;
-- estate;
-- industry;
-- technology.
-This becomes the immediate policy baseline against which 2026 is assessed.
----
+
+Include government Defence commitments, SDR 2025, NATO-first posture, warfighting readiness, collective training, live/synthetic balance, personnel, reserves, estate, industry and technology.
+
 ### 2026 — Investment Meets Affordability
+
 This should eventually become almost day-level where useful.
-Include:
-- Defence Investment Plan;
-- major investment announcements;
-- Dreadnought commitment;
-- AI/synthetic-training announcements;
-- parliamentary questions about service training;
-- affordability reporting;
-- ministerial changes relevant to decision chain;
-- reported £30m Army requirement;
-- collective-training restrictions;
-- Navy/RAF comparison;
-- Forces reaction;
-- mainstream reporting;
-- MOD response;
-- parliamentary reaction;
-- any reversal, mitigation or restoration.
+
+Include DIP, major investments, Dreadnought, AI/synthetic-training announcements, service-training PQs, affordability reporting, ministerial changes, reported £30m Army requirement, collective-training restrictions, Navy/RAF comparison, forces reaction, mainstream reporting, MOD response, parliamentary reaction, and any reversal or mitigation.
+
 ---
+
 ## 🧾 Standard Timeline Entry
-Use a consistent format.
+
 ```yaml
 event:
   date:
@@ -285,22 +194,9 @@ event:
     end:
     precision: "day | month | year | approximate"
   title:
-  layers:
-    - "strategy"
-    - "force"
-    - "training"
-    - "operations"
-    - "money"
-    - "estate_support"
-    - "feedback"
-    - "governance"
-    - "external_environment"
+  layers: []
   actors: []
-  services:
-    - "Army"
-    - "Royal Navy"
-    - "Royal Air Force"
-    - "Joint"
+  services: []
   description:
   contemporary_context:
   significance_to_cluster:
@@ -323,17 +219,13 @@ event:
     level:
     notes:
   follow_up: []
-
 ```
 
 ---
 
-🔗 Decision Chains
+## 🔗 Decision Chains
 
-For especially important episodes, add a decision-chain object.
-
-The 2026 case is the obvious one.
-
+```yaml
 decision_chain:
   issue: "2026 Army collective-training reduction"
   stages:
@@ -351,17 +243,15 @@ decision_chain:
     - "Who was informed?"
     - "What alternatives were considered?"
     - "Who accepted the readiness risk?"
+```
 
-This gives 💷_thirty_million_pounds.md a ready-made evidence spine later.
+This gives `💷_thirty_million_pounds.md` a ready-made evidence spine.
 
 ---
 
-🔁 Recommendation → Implementation → Rediscovery
+## 🔁 Recommendation → Implementation → Rediscovery
 
-This is where the timeline can build directly on strategic_reviews.md.
-
-Whenever possible, link:
-
+```yaml
 policy_loop:
   issue:
   identified:
@@ -384,75 +274,43 @@ policy_loop:
     date:
     source:
   current_status:
+```
 
-That lets us identify the really interesting pattern:
+This permits:
 
-problem identified → fix designed → fix implemented → pressure returns → capability erodes → problem rediscovered
+> **problem identified → fix designed → fix implemented → pressure returns → capability erodes → problem rediscovered**
 
-without assuming in advance that this is what happened.
+to be tested rather than assumed.
 
 ---
 
-🧠 Assumption Changes
+## 🧠 Assumption Changes
 
-Pull assumptions from strategic_reviews.md into chronological form.
+Track when an assumption is introduced, repeated, challenged, falsified, abandoned, or quietly retained despite contrary evidence.
 
-Track moments when an assumption is:
-
-* introduced;
-* repeated;
-* challenged;
-* falsified;
-* abandoned;
-* quietly retained despite contrary evidence.
-
-Examples:
-
+```yaml
 assumption_event:
   date:
-  assumption: "Sufficient strategic warning will exist to regenerate capability."
+  assumption:
   event_type: "introduced | retained | challenged | falsified | modified | abandoned"
   source:
   evidence:
   consequence:
-
-This could become one of the most useful parts of the whole dataset.
-
----
-
-🪖 Training-Specific Timeline
-
-Maintain a filtered chronology inside the larger chronology.
-
-Track:
-
-* training doctrine;
-* training budgets where known;
-* exercise frequency;
-* exercise scale;
-* BATUS;
-* OPTAG;
-* training estate;
-* live-fire policy;
-* simulation;
-* instructor capacity;
-* lessons integration;
-* NATO exercises;
-* Ukraine training;
-* collective-training reductions.
-
-The eventual question:
-
-What has Britain believed collective training is worth at different points in the threat cycle?
+```
 
 ---
 
-💷 Spending / Capability Timeline
+## 🪖 Training-Specific Timeline
 
-Do not merely record spending announcements.
+Track training doctrine, budgets where known, exercise frequency and scale, BATUS, OPTAG, estate, live-fire policy, simulation, instructor capacity, lessons integration, NATO exercises, Ukraine training and collective-training reductions.
 
-Record:
+> **What has Britain believed collective training is worth at different points in the threat cycle?**
 
+---
+
+## 💷 Spending / Capability Timeline
+
+```yaml
 resource_event:
   date:
   amount:
@@ -462,61 +320,29 @@ resource_event:
   intended_output:
   implementation:
   source:
+```
 
-Where possible distinguish:
-
-* nominal versus real terms;
-* capital versus operating expenditure;
-* committed versus discretionary expenditure;
-* programme cost versus annual expenditure;
-* announced versus actually spent.
-
-This prevents nonsense comparisons.
+Distinguish nominal versus real terms, capital versus operating expenditure, committed versus discretionary expenditure, programme cost versus annual expenditure, and announced versus actually spent.
 
 ---
 
-🩸 Human Consequences
+## 🩸 Human Consequences
 
-Where relevant and supportable, record human outcomes alongside institutional decisions.
-
-Not as emotional decoration.
-
-As part of the system.
-
-Potential entries:
-
-* casualty patterns;
-* catastrophic injuries;
-* training-related adaptation;
-* rehabilitation changes;
-* medical improvements;
-* personnel overstretch;
-* deployment frequency.
+Record human outcomes where relevant and supportable: casualty patterns, catastrophic injuries, training-related adaptation, rehabilitation changes, medical improvements, personnel overstretch and deployment frequency.
 
 Do not imply an individual casualty was caused by a particular training or policy deficiency without evidence.
 
-The purpose is to prevent the timeline becoming:
+The point is to stop the timeline becoming:
 
-paper → money → paper → equipment → paper
+> paper → money → paper → equipment → paper
 
-while the people actually carrying the risk disappear.
+while the people carrying the risk disappear.
 
 ---
 
-📰 Media Layer
+## 📰 Media Layer
 
-Record major reporting where it materially changes or reveals the public chronology.
-
-Examples:
-
-* disclosure of suppressed lessons work;
-* significant serving-source leaks;
-* major readiness reporting;
-* revelations about affordability;
-* current training reporting.
-
-For each:
-
+```yaml
 media_event:
   date:
   publication:
@@ -530,49 +356,32 @@ media_event:
   subsequent_confirmation:
   government_response:
   significance:
+```
 
-This lets us distinguish:
-
-when something happened
-
-from:
-
-when the public learned that it happened.
-
-That distinction is going to matter enormously.
+Distinguish **when something happened** from **when the public learned it happened**.
 
 ---
 
-🏛️ Political Responsibility Timeline
+## 🏛️ Political Responsibility Timeline
 
-For periods where responsibility matters, record offices rather than merely personalities.
-
+```yaml
 office_holder:
   office:
   person:
   start:
   end:
   relevant_decisions: []
+```
 
-Priority offices:
-
-* Prime Minister;
-* Chancellor;
-* Defence Secretary;
-* Armed Forces Minister;
-* CDS;
-* CGS;
-* Permanent Secretary;
-* relevant service chiefs.
-
-Only include changes where they help establish who could reasonably have participated in, received or inherited a decision.
+Priority offices: Prime Minister, Chancellor, Defence Secretary, Armed Forces Minister, CDS, CGS, Permanent Secretary and relevant service chiefs.
 
 Holding office is not evidence that somebody personally knew about a particular matter.
 
 ---
 
-🤖 Machine-Readable Research Specification
+## 🤖 Machine-Readable Research Specification
 
+```yaml
 timeline_research:
   project: "Polaris"
   cluster: "Training Debrief"
@@ -619,15 +428,6 @@ timeline_research:
     - "Track strategic assumptions when subsequent events test them."
     - "Preserve service differences."
     - "Include human consequences where evidentially supportable."
-  priority_questions:
-    - "When were major readiness problems first identified?"
-    - "How quickly did operational feedback produce policy change?"
-    - "How long did implemented reforms survive?"
-    - "Which recommendations recur across decades?"
-    - "Which strategic assumptions repeatedly underpin force reductions?"
-    - "When did training become vulnerable to affordability pressure?"
-    - "When did government rhetoric move back toward warfighting readiness?"
-    - "How did the 2026 training decision emerge from the preceding policy and financial settlement?"
   prohibited_shortcuts:
     - "Review published therefore policy implemented."
     - "Budget increased therefore capability increased."
@@ -642,65 +442,79 @@ timeline_research:
     - "assumption-change chronology"
     - "2026 decision chain"
     - "research gaps"
+```
 
 ---
 
-🕳️ Known Gaps
+## 🕳️ Known Gaps
 
-Maintain these during construction.
-
+```yaml
 gap:
   period:
   question:
   importance:
   searches_attempted: []
   sources_checked: []
-  status: "open | partially answered | answered | probably unavailable publicly"
+  status: "open | partially_answered | answered | probably_unavailable_publicly"
+```
 
 An unanswered question after substantial searching is itself useful research information.
 
 ---
 
-🧿 End-State
+## 🧿 End-State
 
 When populated, this file should let us move horizontally and vertically.
 
 Horizontally:
 
-What was happening across strategy, money, operations and training in March 2010?
+> **What was happening across strategy, money, operations and training in March 2010?**
 
 Vertically:
 
-Follow collective training from Iraq through Army 2020, Ukraine, SDR 2025 and the 2026 reduction.
+> **Follow collective training from Iraq through Army 2020, Ukraine, SDR 2025 and the 2026 reduction.**
 
 And most importantly:
 
-When Britain learned something the expensive way, what happened to that knowledge afterwards?
+> **When Britain learned something the expensive way, what happened to that knowledge afterwards?**
+
+This is the first proper cybernetic machinery inside `/data/`.
+
+`strategic_reviews.md` tells us what the system *said*.
+
+`timeline.md` tells us what the system *did and encountered*.
+
+Later, `⚙️_the_feedback_machine.md` can compare those two and ask:
+
+> **Did reality actually get back into the decision-making loop before the next decision was made?**
 
 ---
 
 ## 🌌 Constellations
-⏱️ 🪖 🔁 🏛️ 🌍 — chronology; implementation; operational feedback; governance; strategic shocks.
+
+⏱️ 🪖 🧭 💷 🔁 🧠 — chronology; training; strategy; resources; feedback; institutional learning.
 
 ---
 
 ## ✨ Stardust
-uk defence chronology, military training, force design, readiness, implementation, operational learning, defence governance, strategic assumptions
+
+british defence timeline, army training, strategic reviews, force design, defence spending, operational lessons, institutional learning, readiness, collective training, defence governance
 
 ---
 
 ## 🏮 Footer
 
 *⏱️ Timeline* is a living research-infrastructure node of the **Polaris Protocol**.  
-Dated evidence register connecting strategy, force design, resources, training, operations, feedback and governance.
+It connects what Defence said, what it built, what it encountered, what it changed, and what happened to those lessons afterwards.
 
 > 📡 Cross-references:
 >
-> - [📋 Strategic Reviews](./strategic_reviews.md) — *policy commitments and assumptions placed against subsequent events*
-> - [🏛️ Parliamentary Questions](./parliamentary_questions.md) — *dated public scrutiny and departmental responses*
-> - [📰 Current Reporting](./current_reporting.md) — *public-disclosure chronology and media claims*
-> - [⚙️ The Feedback Machine](../⚙️_the_feedback_machine.md) — *whether operational reality returns to decision-makers as usable feedback*
->  
+> - [📋 Strategic Reviews](./strategic_reviews.md) — *the policy spine against which events are tested*
+> - [🏛️ Parliamentary Questions](./parliamentary_questions.md) — *the public governance chronology*
+> - [📰 Current Reporting](./current_reporting.md) — *event date versus public-disclosure date*
+> - [⚙️ The Feedback Machine](../⚙️_the_feedback_machine.md) — *testing whether reality reaches later decisions*
+> - [💷 Thirty Million Pounds](../💷_thirty_million_pounds.md) — *high-resolution reconstruction of the 2026 decision*
+>
 > 🏮 Return To:
 >
 > - [🪖 Training Debrief](../README.md) — *1up*
@@ -711,4 +525,4 @@ Dated evidence register connecting strategy, force design, resources, training, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-07_
+_Last updated: 2026-09-08_
