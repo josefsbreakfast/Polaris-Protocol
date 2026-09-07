@@ -7,6 +7,7 @@
 ## 📋 History of the Presenting Complaint  
 
 The September 2026 Army collective-training dispute is not an isolated event.
+
 It sits at the end of a much longer sequence in which Britain has repeatedly:
 1. reassessed the strategic environment;
 2. redesigned its Armed Forces around a new set of assumptions;
@@ -16,7 +17,11 @@ It sits at the end of a much longer sequence in which Britain has repeatedly:
 6. identified lessons;
 7. entered another period of fiscal or political pressure;
 8. reviewed Defence again.
-This does not mean Britain has spent the entire post-war period making the same mistake.
+
+*Rinse and repeat.*  
+
+This does not mean Britain has spent the entire post-war period making the same mistake.  
+
 Different governments faced different:
 - threats;
 - alliances;
@@ -27,9 +32,13 @@ Different governments faced different:
 - wars;
 - personnel problems;
 - industrial constraints.
-The useful historical question is therefore not:
-> **Which government ruined Defence?**
+
+The useful historical question is therefore not:  
+
+> **Which government ruined Defence?**  
+
 It is:
+
 > **What did Britain think its Armed Forces needed to do, what force did it build for that purpose, what happened when that force met reality, what did it learn, and did those lessons survive the next strategic or financial settlement?**
 
 ---
@@ -50,9 +59,13 @@ British defence planning repeatedly has to reconcile several things which do not
 - alliances;
 - money.
 
-Strategic reviews are attempts to make those things coherent.
-They are not evidence that coherence was subsequently achieved.
-The House of Commons Library notes that governments inherit force numbers, capabilities and long-term procurement commitments from predecessors, and that major equipment programmes may take years or decades to deliver. Reviews therefore operate inside inherited constraints rather than designing the Armed Forces from a blank sheet.  
+Strategic reviews are attempts to make those things coherent.  
+
+They are not evidence that coherence was subsequently achieved.  
+
+The House of Commons Library notes that governments inherit force numbers, capabilities and long-term procurement commitments from predecessors, and that major equipment programmes may take years or decades to deliver.  
+
+Reviews therefore operate inside inherited constraints rather than designing the Armed Forces from a blank sheet.  
 
 [House of Commons Library: *A brief guide to previous British defence reviews*](https://commonslibrary.parliament.uk/research-briefings/cbp-7313/)  
 
