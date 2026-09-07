@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-07 23:24:08 UTC_
+_Generated on 2026-09-07 23:26:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -9939,6 +9939,7 @@ _Generated on 2026-09-07 23:24:08 UTC_
             - [`GAP_ANALYSIS.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/GAP_ANALYSIS.md)
             - [`QA_RESULTS.json`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/QA_RESULTS.json)
             - [`REPAIR_LOG.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/REPAIR_LOG.md)
+            - [`STRUCTURAL_QA.json`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/STRUCTURAL_QA.json)
             - [`Training_Debrief_silent_truncation_audit_2026-09-07.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/Training_Debrief_silent_truncation_audit_2026-09-07.md)
             - [`notes.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/notes.txt)
       - [**🛰️_Metadata_Sabotage_Network/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/)
