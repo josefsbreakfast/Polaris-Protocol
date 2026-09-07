@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-07 23:22:35 UTC_
+_Generated on 2026-09-07 23:24:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3632,7 +3632,6 @@ _Generated on 2026-09-07 23:22:35 UTC_
           - [`strategic_reviews.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/strategic_reviews.md)
           - [`timeline.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/timeline.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/README.md)
-        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/notes.txt)
         - [`⚙️_the_feedback_machine.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/⚙️_the_feedback_machine.md)
         - [`💊_long_term_management.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/💊_long_term_management.md)
         - [`💷_thirty_million_pounds.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/💷_thirty_million_pounds.md)
@@ -9941,6 +9940,7 @@ _Generated on 2026-09-07 23:22:35 UTC_
             - [`QA_RESULTS.json`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/QA_RESULTS.json)
             - [`REPAIR_LOG.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/REPAIR_LOG.md)
             - [`Training_Debrief_silent_truncation_audit_2026-09-07.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/Training_Debrief_silent_truncation_audit_2026-09-07.md)
+            - [`notes.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/notes.txt)
       - [**🛰️_Metadata_Sabotage_Network/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/)
         - [**🔎_Evidence_And_Anomalies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
