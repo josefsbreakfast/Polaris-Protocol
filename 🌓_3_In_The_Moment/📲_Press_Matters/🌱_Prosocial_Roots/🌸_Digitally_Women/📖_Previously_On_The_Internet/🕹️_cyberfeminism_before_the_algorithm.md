@@ -1,5 +1,5 @@
 # 🕹️ Cyberfeminism Before the Algorithm
-**First created:** 2026-09-05 | **Last updated:** 2026-09-05  
+**First created:** 2026-09-05 | **Last updated:** 2026-09-07  
 *Before feminist technology politics became dominated by platform harms and algorithmic safety, it was already asking what bodies, identities, relationships and worlds technology might make possible.*
 
 ---
@@ -1284,4 +1284,4 @@ It restores the longer feminist history of technological politics before contemp
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-05_
+_Last updated: 2026-09-07_
