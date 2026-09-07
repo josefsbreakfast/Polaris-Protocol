@@ -792,7 +792,7 @@ systems biology, computational biology, gynaecology, endometriosis, graph neural
 
 ## 🏮 Footer
 
-*🧬 Neural Network Remodelling Gynaecology* is a living node of the **Polaris Protocol**.  
+*🧬 Neural Network Remodelling: Gynaecology* is a living node of the **Polaris Protocol**.  
 It explores computational architectures for modelling adaptive reproductive tissue while preserving a strict separation between measurement, inference, mechanistic hypothesis, and biological validation.
 
 > 📡 Cross-references:
