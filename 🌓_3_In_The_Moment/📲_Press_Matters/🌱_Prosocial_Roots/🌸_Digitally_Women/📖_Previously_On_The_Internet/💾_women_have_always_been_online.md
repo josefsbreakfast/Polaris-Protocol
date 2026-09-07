@@ -595,6 +595,15 @@ It traces women’s participation across successive digital architectures and as
 > - [🕹️ Cyberfeminism Before The Algorithm](./🕹️_cyberfeminism_before_the_algorithm.md) — *feminist technological imagination*
 > - [🌞 We Could Build Nicer Things](./🌞_we_could_build_nicer_things.md) — *constructive technological futures*
 > - [🧵 Community Vulnerability and Early Canaries](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🧵_community_vulnerability_and_early_canaries.md) — *how marginal communities can encounter system failures early*
+>  
+> 🏮 Return To:
+>
+> - [📖 Previously On The Internet](./README.md) — *1up*
+> - [🌸 Digitally Women](../README.md) — *2up*
+> - [🌱 Prosocial Roots](../../README.md) — *3up*
+> - [📲 Press Matters](../../../README.md) — *4up*
+> - [🌓 In The Moment](../../../../README.md) — *5up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
