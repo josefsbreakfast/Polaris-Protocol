@@ -1,5 +1,5 @@
 # 📚 Definitions & Registers  
-**First created:** 2026-09-05 | **Last updated:** 2026-09-07  
+**First created:** 2026-09-05 | **Last updated:** 2026-09-08  
 *A searchable, printable, grab-and-go field guide for translating between internet culture, feminist analysis, journalism, policy, safeguarding and law.*
 
 ---
@@ -179,7 +179,7 @@ The important question is:
 | 💬 | **Rabbit hole** | Metaphor for increasingly deep or specialised content exposure or participation. | Not a technical synonym for radicalisation. |
 | 💬 | **Echo chamber** | Environment in which similar views are repeatedly reinforced and contrary views are limited or discounted. | Real networks are often messier than the metaphor suggests. |
 | 💬 | **Irony poisoning** | Internet shorthand for prolonged ironic engagement blurring the boundary between parody and sincere belief. | Difficult to establish from individual posts alone. |
-| 💬 | **“Just asking questions” / JAQing off** | Performing neutral inquiry while repeatedly advancing insinuations without owning the underlying claim. | Genuine questions remain legal and useful; please continue asking them. |
+| 💬 | **“[Just asking questions](https://youtu.be/elRxbGJuCw8?is=GgqycmINGWR96sbJ)” / JAQing off** | Performing neutral inquiry while repeatedly advancing insinuations without owning the underlying claim. | Genuine questions remain legal and useful; please continue asking them. |
 
 ### 🔵 Communities, Histories and Figures
 
@@ -566,4 +566,4 @@ It provides a shared vocabulary for moving between internet culture, feminist an
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-07_
+_Last updated: 2026-09-08_
