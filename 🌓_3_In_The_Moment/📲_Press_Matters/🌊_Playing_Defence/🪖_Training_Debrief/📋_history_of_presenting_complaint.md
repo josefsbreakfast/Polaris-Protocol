@@ -387,31 +387,46 @@ That is different from demonstrating that it can replace all of it.
 
 ---
 
-## 9. 🩸 Training becomes visibly connected to casualties
+## 9. 🩸 Training Becomes Visibly Connected To Casualties  
 
-The story of Derek Derenalagi is important here, but it must be used carefully.
-Derenalagi suffered catastrophic injuries in Afghanistan in 2007, losing both legs.
-Akam describes Richard Wesley bringing him to a meeting concerning funding for more representative training facilities.
-The significance is not:
+The story of Derek Derenalagi is important here, but it must be used carefully.  
+
+Derenalagi suffered catastrophic injuries in Afghanistan in 2007, and as a result now uses prosthetic legs on both sides.  
+
+The precise details are rather profound.  
+
+Akam describes Richard Wesley bringing him to a meeting concerning funding for more representative training facilities.  
+
+The significance is not:  
+
 > **better facilities would definitely have prevented Derenalagi's injury.**
-The evidence does not establish that.
-The significance is that the human category of risk became impossible to leave outside the room.
-A budget request for training infrastructure can look like:
+
+The evidence does not establish that.  
+
+The significance is that the human category of risk became impossible to leave outside the room.  
+
+A budget request for training infrastructure can look like:  
+
 > **£20 million versus £0.**
-But the underlying problem contains:
+
+But the underlying problem contains:  
+
 - injury;
 - death;
 - rehabilitation;
 - lifelong state obligations;
 - operational effectiveness.
-The history therefore reinforces one of this cluster's central propositions:
+
+The history therefore reinforces one of this cluster's central propositions:  
+
 > **training expenditure partly purchases risk reduction, and successful prevention is intrinsically difficult to count.**
 
 ---
 
 ## 10. 🔁 The Army gets very good at Afghanistan — which creates another problem  
 
-Akam's argument becomes especially useful when the Army begins leaving the conflict environment for which it had become highly adapted.
+Akam's argument becomes especially useful when the Army begins leaving the conflict environment for which it had become highly adapted.  
+
 Afghanistan encouraged rational habits built around conditions including:  
 
 - coalition air superiority;
@@ -426,7 +441,8 @@ At Brecon, Akam records instructors confronting experienced Iraq/Afghanistan per
 
 The Afghanistan-conditioned reflex was to stop and organise evacuation.  
 
-In a different war, where helicopters may not arrive and stopping the attack may create more casualties, personnel needed to learn another response.
+In a different war, where helicopters may not arrive and stopping the attack may create more casualties, personnel needed to learn another response.  
+
 Hence the memorable instruction:  
 
 > **“Fucking leave him and come back for him.”**  
@@ -542,6 +558,7 @@ Government subsequently described the programme as seeking:
 - battle-winning Armed Forces;
 - a smaller, more professional MOD;
 - a realistic approach to affordability.
+
 [GOV.UK: *2010 to 2015 government policy: armed forces and Ministry of Defence reform*](https://www.gov.uk/government/publications/2010-to-2015-government-policy-armed-forces-and-ministry-of-defence-reform/2010-to-2015-government-policy-armed-forces-and-ministry-of-defence-reform)
 
 The difficulty is obvious.
@@ -946,79 +963,102 @@ Several patterns are sufficiently plausible to investigate, but not yet sufficie
 
 ### 1. Strategic requirements change faster than institutions  
 
-Britain has repeatedly moved between:
+Britain has repeatedly moved between:  
+
 - continental deterrence;
 - expeditionary operations;
 - counter-insurgency;
 - state competition;
 - NATO reinforcement;
 - high-intensity warfare.
-Each transition requires different mixes of:
+
+Each transition requires different mixes of:  
+
 - people;
 - training;
 - equipment;
 - doctrine;
 - infrastructure.
+- 
 Institutional adaptation therefore has to be continuous.
 
 ### 2. Operational pressure accelerates learning
 
-Iraq and Afghanistan show that:
+Iraq and Afghanistan show that:  
+
 - deficiencies can become extremely visible during conflict;
 - resources can suddenly become available;
 - feedback loops can shorten dramatically;
 - training can transform rapidly.
-This is positive evidence about military adaptability.
-It also raises an uncomfortable question:
+
+This is positive evidence about military adaptability.  
+
+It also raises an uncomfortable question:  
+
 > **Does Britain sometimes require operational harm before preparedness becomes politically valuable enough to fund?**
 
 ### 3. Successful adaptation can itself become a future constraint
 
-Afghanistan-specific competence demonstrates that:
+Afghanistan-specific competence demonstrates that:  
+
 > **being extremely good at yesterday's war does not guarantee preparedness for tomorrow's.**
-Expertise may need to be deliberately unlearned or recalibrated.
+> 
+Expertise may need to be deliberately unlearned or recalibrated.  
+
 Therefore training cannot be treated as a one-time investment.
 
 ### 4. Enabling systems are vulnerable to being mistaken for overhead
 
-Training, estate, instructors, logistics, reserves and support functions may appear less tangible than:
+Training, estate, instructors, logistics, reserves and support functions may appear less tangible than:  
+
 - platforms;
 - ships;
 - aircraft;
 - vehicles;
 - missiles.
+
 But platforms without enabling systems are nominal capability.
 
 ### 5. Smaller forces demand more from force generation, not necessarily less
 
-Reducing personnel does not automatically reduce the complexity of Britain's commitments.
-A smaller force asked to maintain high readiness may depend more heavily upon:
+Reducing personnel does not automatically reduce the complexity of Britain's commitments.  
+
+A smaller force asked to maintain high readiness may depend more heavily upon:  
+
 - training;
 - retention;
 - reserves;
 - maintenance;
 - rapid regeneration;
 - allied integration.
-The sustainability of the system matters as much as headline strength.
+
+The sustainability of the system matters as much as headline strength.  
 
 ### 6. Reviews repeatedly recognise many of these problems
 
-The historical story is not simply:
+The historical story is not simply:  
+
 > **government never understood Defence.**
-Reviews repeatedly identify genuine problems.
-They repeatedly contain:
+
+Reviews repeatedly identify genuine problems.  
+
+They repeatedly contain:  
+
 - sophisticated threat assessment;
 - sensible reforms;
 - adaptation;
 - attempts at integration;
 - new technology;
 - improved training.
-The harder question is:
+
+The harder question is:  
+
 > **What survives implementation and the next affordability cycle?**
 
 ## ⚙️ The possible recurring loop
 
-The history presently suggests a pattern worth testing:
+The history presently suggests a pattern worth testing:  
+
 ```mermaid
 flowchart TD
     A["Strategic environment changes"] --> B["Review identifies new requirements"]
@@ -1031,18 +1071,17 @@ flowchart TD
     H --> I["Immediate pressure recedes"]
     I --> J["New fiscal or strategic pressure"]
     J --> A
-
 ```
 
 This is not yet a diagnosis.
 
 The /data/ work needs to establish:
 
-* which loops actually occurred;
-* which recommendations genuinely repeated;
-* which reforms survived;
-* which reforms were abandoned;
-* why.
+- which loops actually occurred;
+- which recommendations genuinely repeated;
+- which reforms survived;
+- which reforms were abandoned;
+- why.
 
 ---
 
@@ -1052,22 +1091,22 @@ There is another historical pattern running alongside money and force structure.
 
 Information has to travel between:
 
-* people experiencing operations;
-* instructors;
-* training establishments;
-* commanders;
-* service chiefs;
-* MOD officials;
-* ministers;
-* Treasury;
-* Parliament;
-* the public.
+- people experiencing operations;
+- instructors;
+- training establishments;
+- commanders;
+- service chiefs;
+- MOD officials;
+- ministers;
+- Treasury;
+- Parliament;
+- the public.
 
 The Iraq lessons process suggests that this transmission can become harder as evidence approaches questions of:
 
-* strategic responsibility;
-* institutional reputation;
-* political accountability.
+- strategic responsibility;
+- institutional reputation;
+- political accountability.
 
 The challenge is therefore not merely gathering lessons.
 
@@ -1089,30 +1128,30 @@ It supports something more complicated.
 
 Britain has repeatedly demonstrated that it understands the importance of:
 
-* realistic preparation;
-* operational learning;
-* joint working;
-* adaptable forces;
-* modernisation;
-* readiness.
+- realistic preparation;
+- operational learning;
+- joint working;
+- adaptable forces;
+- modernisation;
+- readiness.
 
 It has also repeatedly faced difficulty sustaining all of:
 
-* ambition;
-* force size;
-* training;
-* equipment;
-* infrastructure;
-* personnel;
-* financial affordability
+- ambition;
+- force size;
+- training;
+- equipment;
+- infrastructure;
+- personnel;
+- financial affordability
 
 at the same time.
 
 The present £30 million dispute may therefore represent either:
 
-* a temporary and rational adaptation within that system;
-* another manifestation of a recurring implementation problem;
-* or both.
+- a temporary and rational adaptation within that system;
+- another manifestation of a recurring implementation problem;
+- or both.
 
 The next task is to investigate which.
 
@@ -1122,68 +1161,18 @@ The next task is to investigate which.
 
 The history generates several specific questions for later nodes:
 
-* Which strategic-review recommendations concerning training repeatedly recur?
-* Which were implemented?
-* Which later disappeared?
-* What happened to Army collective-training capacity after Afghanistan?
-* How did Army 2020 affect force-generation assumptions?
-* What impact has Operation Interflex had on domestic training capacity?
-* Which estate constraints predate the current savings requirement?
-* How much can synthetic training genuinely replace?
-* What did SDR 2025 assume would happen to live collective training?
-* How did the 2026 spending settlement translate those assumptions into resources?
-* When did Parliament first become aware that training might be reduced?
-* Who formally accepted any resulting readiness risk?
-
----
-
-## 📡 Next
-
-Continue to:
-
-* 🔬_tests_and_investigations.md — what evidence would establish the problem;
-* 🪖_what_training_is_for.md — why collective competence requires repeated practice;
-* ⚙️_the_feedback_machine.md — how lessons move through the institution;
-* 🪟_transparency_and_earned_loyalty.md — Brown, Stirrup, FOI and public trust;
-* 💷_thirty_million_pounds.md — the immediate 2026 decision;
-* 🔭_what_does_ready_actually_look_like.md — designing from functional outputs rather than budget lines.
-
----
-
-📚 Initial source bank
-
-* Simon Akam, The Changing of the Guard: The British Army Since 9/11.
-* House of Commons Library: A brief guide to previous British defence reviews
-* MOD: Records Appraisal Report 2020
-* GOV.UK: 2010 to 2015 government policy: armed forces and Ministry of Defence reform
-* GOV.UK: “Army 2020: Defining the Future of the British Army”
-* GOV.UK: “Army 2020: transforming the British Army for the future”
-* GOV.UK: The Integrated Review 2021
-* GOV.UK: Defence Secretary oral statement on the Defence Command Paper
-* National Audit Office: Investigation into military support for Ukraine
-* RUSI: “A Bureaucratic Approach to Safety is Weakening the British Army’s Training”
-* GOV.UK: Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad
-* GOV.UK: Strategic Defence Review oral statement
-* The Guardian: Richard Norton-Taylor, “Defence chiefs gag damning Iraq invasion findings”
-
-Further detail should be added from:
-
-* data/strategic_reviews.md;
-* data/timeline.md;
-* data/parliamentary_questions.md;
-* data/source_bank.md.
-
----
-
-🌌 Constellations
-
-📋 🪖 ⚙️ 💷 🏋️ 🪟 🇺🇦 — Defence reviews; Army reform; Iraq and Afghanistan; austerity; training; Ukraine; warfighting readiness; institutional learning.
-
----
-
-✨ Stardust
-
-British defence reviews, British Army, Options for Change, Front Line First, Strategic Defence Review, Iraq, Afghanistan, OPTAG, BATUS, SDSR 2010, Army 2020, Integrated Review, Ukraine, Operation Interflex, SDR 2025, warfighting readiness, collective training
+- Which strategic-review recommendations concerning training repeatedly recur?
+- Which were implemented?
+- Which later disappeared?
+- What happened to Army collective-training capacity after Afghanistan?
+- How did Army 2020 affect force-generation assumptions?
+- What impact has Operation Interflex had on domestic training capacity?
+- Which estate constraints predate the current savings requirement?
+- How much can synthetic training genuinely replace?
+- What did SDR 2025 assume would happen to live collective training?
+- How did the 2026 spending settlement translate those assumptions into resources?
+- When did Parliament first become aware that training might be reduced?
+- Who formally accepted any resulting readiness risk?
 
 ---
 
@@ -1193,13 +1182,31 @@ It tells us which questions Britain has already paid to learn how to ask.
 
 ---
 
-## 🌌 Constellations
-🪖 ⚙️ 🔭 💷 🧠 — training; readiness; force generation; Defence governance; institutional learning.
+🌌 Constellations
+
+📋 🪖 ⚙️ 💷 🏋️ 🪟 🇺🇦 — Defence reviews; Army reform; Iraq and Afghanistan; austerity; training; Ukraine; warfighting readiness; institutional learning.
+
+*Follow the evidence:*  
+
+- [Simon Akam, The Changing of the Guard: The British Army Since 9/11.]()
+- [House of Commons Library: A brief guide to previous British defence reviews]()
+- [MOD: Records Appraisal Report 2020]()
+- [GOV.UK: 2010 to 2015 government policy: armed forces and Ministry of Defence reform]()
+- [GOV.UK: “Army 2020: Defining the Future of the British Army”]()
+- [GOV.UK: “Army 2020: transforming the British Army for the future”]()
+- [GOV.UK: The Integrated Review 2021]()
+- [GOV.UK: Defence Secretary oral statement on the Defence Command Paper]()
+- [National Audit Office: Investigation into military support for Ukraine]()
+- [RUSI: “A Bureaucratic Approach to Safety is Weakening the British Army’s Training”]()
+- [GOV.UK: Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad]()
+- [GOV.UK: Strategic Defence Review oral statement]()
+- [The Guardian: Richard Norton-Taylor, “Defence chiefs gag damning Iraq invasion findings”]()
 
 ---
 
-## ✨ Stardust
-british defence, army training, readiness, force generation, defence governance, institutional learning
+✨ Stardust
+
+British defence reviews, British Army, Options for Change, Front Line First, Strategic Defence Review, Iraq, Afghanistan, OPTAG, BATUS, SDSR 2010, Army 2020, Integrated Review, Ukraine, Operation Interflex, SDR 2025, warfighting readiness, collective training  
 
 ---
 
@@ -1210,6 +1217,12 @@ It places the current training dispute inside the longer history of British forc
 
 > 📡 Cross-references:
 >
+> * 🔬_tests_and_investigations.md — what evidence would establish the problem;
+* 🪖_what_training_is_for.md — why collective competence requires repeated practice;
+* ⚙️_the_feedback_machine.md — how lessons move through the institution;
+* 🪟_transparency_and_earned_loyalty.md — Brown, Stirrup, FOI and public trust;
+* 💷_thirty_million_pounds.md — the immediate 2026 decision;
+* 🔭_what_does_ready_actually_look_like.md — designing from functional outputs rather than budget lines.
 > - [🪖 What Training Is For](./🪖_what_training_is_for.md) — *collective competence and the function of training*
 > - [⚙️ The Feedback Machine](./⚙️_the_feedback_machine.md) — *institutional learning and signal transmission*
 > - [🔭 What Does Ready Actually Look Like](./🔭_what_does_ready_actually_look_like.md) — *functional readiness outputs*
