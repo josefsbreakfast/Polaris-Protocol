@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-08 22:44:42 UTC_
+_Generated on 2026-09-08 22:46:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4072,6 +4072,8 @@ _Generated on 2026-09-08 22:44:42 UTC_
             - [` 🪨_male_survivor_silence.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐦‍🔥_Surviving/ 🪨_male_survivor_silence.md)
             - [`📦_posthumous_truth.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐦‍🔥_Surviving/📦_posthumous_truth.md)
           - [**🚀_Timelines/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/)
+            - [` 🌪️_the_legitamacy_crisis_era_2023_2025.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/ 🌪️_the_legitamacy_crisis_era_2023_2025.md)
+            - [` 🔥_pink_pussyhats_the_backlash_cycle.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/ 🔥_pink_pussyhats_the_backlash_cycle.md)
             - [` 🔮_post_legitimacy_landscape_2026_2030.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/ 🔮_post_legitimacy_landscape_2026_2030.md)
             - [` 🩸_the_long_fuse_2010_2017.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/ 🩸_the_long_fuse_2010_2017.md)
             - [` 🩻_the_structural_revelation_2018_2022.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/ 🩻_the_structural_revelation_2018_2022.md)
@@ -4092,9 +4094,7 @@ _Generated on 2026-09-08 22:44:42 UTC_
           - [`⚖️_institutions_2022_2025.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_institutions_2022_2025.md)
           - [`⚖️_reputation_after_revelation.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_reputation_after_revelation.md)
           - [`🌍_crisis_absorption_logic.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🌍_crisis_absorption_logic.md)
-          - [`🌪️_the_legitamacy_crisis_era_2023_2025.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🌪️_the_legitamacy_crisis_era_2023_2025.md)
           - [`🔗_chains_of_silence.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔗_chains_of_silence.md)
-          - [`🔥_pink_pussyhats_the_backlash_cycle.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔥_pink_pussyhats_the_backlash_cycle.md)
           - [`🕳️_the_leverage_economy.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🕳️_the_leverage_economy.md)
           - [`🕸️_harm_containment.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🕸️_harm_containment.md)
           - [`🥱_how_cover_ups_actually_happen.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🥱_how_cover_ups_actually_happen.md)
