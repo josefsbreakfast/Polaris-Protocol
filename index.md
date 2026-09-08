@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-08 22:28:22 UTC_
+_Generated on 2026-09-08 22:29:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -9933,9 +9933,6 @@ _Generated on 2026-09-08 22:28:22 UTC_
         - [`🧿_intake_drawer_balancing_harms.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🏮_Admin_Kit/🧿_intake_drawer_balancing_harms.md)
       - [**📲_Press_Matters/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/)
         - [**🌊_Playing_Defence/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/)
-          - [**🍿_Historical_Democratic_Actions/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🍿_Historical_Democratic_Actions/)
-            - [**👾_Debugging_The_Men/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
-              - [`🦤_predation_logic_vulnerability_power_targeting.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🦤_predation_logic_vulnerability_power_targeting.md)
           - [**🪖_Training_Debrief/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/)
             - [`DATA_QA_RESULTS.json`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/DATA_QA_RESULTS.json)
             - [`DATA_REPAIR_LOG.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/DATA_REPAIR_LOG.md)
@@ -9945,6 +9942,9 @@ _Generated on 2026-09-08 22:28:22 UTC_
             - [`STRUCTURAL_QA.json`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/STRUCTURAL_QA.json)
             - [`Training_Debrief_silent_truncation_audit_2026-09-07.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/Training_Debrief_silent_truncation_audit_2026-09-07.md)
             - [`notes.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/notes.txt)
+        - [**🍿_Historical_Democratic_Actions/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/)
+          - [**👾_Debugging_The_Men/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
+            - [`🦤_predation_logic_vulnerability_power_targeting.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🦤_predation_logic_vulnerability_power_targeting.md)
       - [**🛰️_Metadata_Sabotage_Network/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/)
         - [**🔎_Evidence_And_Anomalies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
