@@ -262,7 +262,7 @@ It is:
 
 > **What does the documented relationship establish, what institutional function did it have, and did anybody possess information that should have changed safeguarding or accountability decisions?**
 
-This material should cross-link particularly heavily into `♻️_Re_Recommendations/`.
+This material should cross-link particularly heavily into [♻️ Re: Recommendations](../♻️_Re_Recommendations/README.md).
 
 ### 🔴 Legal and Policy Translation
 
@@ -381,7 +381,7 @@ For press, parliamentary and policy use, some familiar words carry more evidenti
 | **Manosphere analysis** | Some communities attach useful or sympathetic advice to narratives of female inferiority, entitlement, grievance or gender hierarchy. |
 | **Prevention** | The initial need and the ideological answer sold to somebody are two different things. |
 
-See `../🌱_Thanks_Algorithm/🌱_he_only_wanted_dating_advice.md`.
+See [🌱 He Only Wanted Dating Advice](../🌱_Thanks_Algorithm/🌱_he_only_wanted_dating_advice.md).
 
 ### 📣 “Man Has Acquired Microphone”
 
@@ -393,7 +393,7 @@ See `../🌱_Thanks_Algorithm/🌱_he_only_wanted_dating_advice.md`.
 | **Policy** | Speech, platform governance and potential harms may involve different regulatory thresholds. |
 | **Criminal law** | Having appalling opinions into a microphone is not synonymous with committing a stirring-up-hatred offence. |
 
-See `../🧾_Petition_GC/📣_men_with_microphones.md`.
+See [📣 Men With Microphones](../🧾_Petition_GC/📣_men_with_microphones.md).
 
 ---
 
@@ -543,7 +543,8 @@ internet culture, internet slang, misogyny, manosphere, online harassment, swarm
 
 ## 🏮 Footer
 
-*📚 Definitions & Registers* is a living reference node of the **Polaris Protocol**.
+*📚 Definitions & Registers* is a living reference node of the **Polaris Protocol**.  
+
 It provides a shared vocabulary for moving between internet culture, feminist analysis, journalism, policy, safeguarding and law without pretending those registers are interchangeable. It is designed to remain useful under deadline: searchable on screen, printable for briefing packs, and consultable from a newsroom, committee room or Chamber.
 
 > 📡 Cross-references:
