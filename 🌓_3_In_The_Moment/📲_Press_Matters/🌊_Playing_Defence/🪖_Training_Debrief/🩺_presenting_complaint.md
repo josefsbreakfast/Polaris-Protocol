@@ -120,7 +120,7 @@ Personnel need repeated opportunities to discover:
 - how rapidly mistakes propagate;
 - what another person is likely to do without requiring lengthy explanation.
 
-Simulation, AI and virtual training may materially improve this process.
+Simulation, AI, and virtual training may materially improve this process.
 
 They can create repetitions, expose personnel to varied scenarios, improve decision training and reduce some costs.
 
@@ -128,7 +128,7 @@ The relevant question is not whether modern training technology is useful.
 
 It plainly can be.
 
-The question is whether technology is being used to **augment collective competence or financially substitute for activities whose important functions it cannot reproduce**.
+The question is whether technology is being used to augment collective competence, or financially substitute for activities whose important functions it cannot reproduce.
 
 That requires evidence rather than assumption.
 
@@ -259,7 +259,7 @@ They should not be answered by political instinct.
 
 ---
 
-## 🧠 Do Nnot Diagnose From The Doorway
+## 🧠 Resist Doorway Diagnosis  
 
 Several explanations remain possible.
 
@@ -383,7 +383,7 @@ It is not enough to convict anybody.
 
 ## 🛒 The Grocery List  
 
-Before buying another magic bean, announcing another transformational programme or surviving another two-day Westminster scandal, establish:
+Before buying another magic bean, announcing another transformational programme, or surviving another two-day Westminster scandal, establish:
 
 - What are we deploying for?
 - What obligations have we accumulated?
