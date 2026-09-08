@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-08 22:40:48 UTC_
+_Generated on 2026-09-08 22:41:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4065,6 +4065,7 @@ _Generated on 2026-09-08 22:40:48 UTC_
         - [**👾_Debugging_The_Men/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
           - [**🐉_Societal_Responses/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/)
             - [` 🕯️_the_moment_people_let_go.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/ 🕯️_the_moment_people_let_go.md)
+            - [` 🧨_the_expectation_of_scandal.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/ 🧨_the_expectation_of_scandal.md)
             - [` 🫤_why_elite_denials_dont_work_anymore.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/ 🫤_why_elite_denials_dont_work_anymore.md)
           - [**🐦‍🔥_Surviving/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐦‍🔥_Surviving/)
             - [` 🐈‍⬛_diy_pussy_hat_archive.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐦‍🔥_Surviving/ 🐈‍⬛_diy_pussy_hat_archive.md)
@@ -4097,7 +4098,6 @@ _Generated on 2026-09-08 22:40:48 UTC_
           - [`🕳️_the_leverage_economy.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🕳️_the_leverage_economy.md)
           - [`🕸️_harm_containment.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🕸️_harm_containment.md)
           - [`🥱_how_cover_ups_actually_happen.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🥱_how_cover_ups_actually_happen.md)
-          - [`🧨_the_expectation_of_scandal.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧨_the_expectation_of_scandal.md)
           - [`🧭_how_to_read_institutional_actors.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧭_how_to_read_institutional_actors.md)
           - [`🧱_predation_logic.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧱_predation_logic.md)
           - [`🩸_moral_parasitism.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🩸_moral_parasitism.md)
