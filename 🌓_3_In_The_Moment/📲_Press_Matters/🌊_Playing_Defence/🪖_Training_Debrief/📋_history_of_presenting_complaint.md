@@ -102,7 +102,7 @@ The end of the Cold War, and the transformation of European power in the afterma
 
 History did continue outside of Europe, however, and as we come into a new world, many are catching up world history and context which had been previously downplayed not only in reference to establishment defence thought, but also as a wider post-imperial continuity of centring Britain as the imperial core.  
 
-In brief: we were and are still adjusting our cultural perspective, moving on from being The British Empire™️, and as the behaviours were passed on intragenerationally and our society is shaped around imperialism which is no longer the same shape as it was, adjusting to the new world continues over time.  
+Put frankly: we were and are still adjusting our cultural perspective, moving on from being The British Empire™️, and as the behaviours were passed on intragenerationally and our society is shaped around imperialism which is no longer the same shape as it was, adjusting to the new world continues over time.  
 
 ---
 
