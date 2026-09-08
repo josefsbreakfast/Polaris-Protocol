@@ -1,5 +1,5 @@
 # 🇫🇰 Falkland Islands  
-**First created:** 2026-06-04 | **Last updated:** 2026-09-06  
+**First created:** 2026-06-04 | **Last updated:** 2026-09-08  
 *Satirical postcard stop for contestants who thought “the Falklands” meant one war, one flag, one argument, and done.*  
 
 ---  
@@ -676,7 +676,8 @@ Do not ruin it by asking a rockhopper penguin to validate your foreign policy.
 - [📑 Argentina.gob.ar: “Comunicado Oficial Número 157”](https://www.argentina.gob.ar/noticias/comunicado-oficial-numero-157)  
 - [📑 Argentina.gob.ar: “Comunicado Oficial Número 158”](https://www.argentina.gob.ar/noticias/comunicado-oficial-numero-158)  
 - [📑 UK Government: “Integrated Global Defence Network”](https://www.gov.uk/government/publications/permanent-joint-operating-bases-pjobs/fd)  
-- [📑 UK Government: “National Security Strategy 2025”](https://www.gov.uk/government/publications/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world-html)  
+- [📑 UK Government: “National Security Strategy 2025”](https://www.gov.uk/government/publications/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world-html)
+- [📰: The Guardian: “Argentina says it will file criminal charges against energy company in Falklands row”](https://www.theguardian.com/uk-news/2026/sep/08/argentina-criminal-charges-navitas-petroleum-falkland-islands-drilling)  
 
 ---
 
@@ -712,4 +713,4 @@ Several were asked to stop treating penguins as constitutional witnesses.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-06_
+_Last updated: 2026-09-08_
