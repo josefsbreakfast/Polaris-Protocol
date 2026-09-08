@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-08 22:58:20 UTC_
+_Generated on 2026-09-08 23:00:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4085,10 +4085,10 @@ _Generated on 2026-09-08 22:58:20 UTC_
             - [`📦_posthumous_truth.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐦‍🔥_Surviving/📦_posthumous_truth.md)
           - [**🚀_Timelines/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/)
             - [` 🌪️_the_legitamacy_crisis_era_2023_2025.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/ 🌪️_the_legitamacy_crisis_era_2023_2025.md)
-            - [` 🔥_pink_pussyhats_the_backlash_cycle.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/ 🔥_pink_pussyhats_the_backlash_cycle.md)
             - [` 🔮_post_legitimacy_landscape_2026_2030.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/ 🔮_post_legitimacy_landscape_2026_2030.md)
             - [` 🩸_the_long_fuse_2010_2017.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/ 🩸_the_long_fuse_2010_2017.md)
             - [` 🩻_the_structural_revelation_2018_2022.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/ 🩻_the_structural_revelation_2018_2022.md)
+            - [`🔥_pussyhat_backlash.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/🔥_pussyhat_backlash.md)
           - [**🧬_Further_Potential_Male_Nonsense/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/)
             - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/README.md)
             - [`🎒_frankenstack_support_pack.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🎒_frankenstack_support_pack.md)
