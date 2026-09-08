@@ -1,9 +1,8 @@
-# 🩸 The Long Fuse (2010--2017)
+# 🩸 The Long Fuse — 2010–2017
 
-**First created:** 2025-11-12 | **Last updated:** 2026-09-08  
-*The accumulating conditions, information environments, institutional
-failures, and cultural conflicts that lowered the threshold for the 2017
-MeToo disclosure cascade.*
+**First created:** 2025-11-12 | **Last updated:** 2026-09-09
+
+*The accumulating conditions, information environments, institutional failures, and cultural conflicts that lowered the threshold for the 2017 MeToo disclosure cascade.*
 
 ---
 
@@ -11,38 +10,35 @@ MeToo disclosure cascade.*
 
 MeToo did not arrive from nowhere in 2017.
 
-Across the preceding years, survivor testimony accumulated;
-institutional failures became harder to explain as isolated mistakes;
-social media allowed people to compare experiences laterally; older
-arguments about political correctness and equality were translated into
-new internet culture-war vocabularies; and different populations began
-acquiring radically different understandings of the same online events.
+Across the preceding years, survivor testimony accumulated; institutional failures became harder to explain as isolated mistakes; social media allowed people to compare experiences laterally; older arguments about political correctness and equality were translated into new internet culture-war vocabularies; and different populations began acquiring radically different understandings of the same online events.
 
-This node traces that **long fuse**.
-
-The claim is not that MeToo was historically inevitable, nor that every
-event below belonged to one coordinated project. It is that several
-pressures increasingly became interoperable:
-
--   survivor testimony accumulated across sectors;
--   repeated scandals weakened confidence in institutional
-    self-correction;
--   digital networks made pattern recognition easier;
--   online harassment produced specialised threat knowledge among
-    targeted groups;
--   anti-PC and later anti-SJW rhetoric provided a reusable language for
-    interpreting equality claims as coercion;
--   grievance communities, provocateurs, political actors, platforms,
-    and ordinary users could participate in the same conflict ecology
-    without sharing the same information or intentions;
--   and by 2017, the distance between **private knowing** and **public
-    pattern recognition** had narrowed dramatically.
+The claim is not that MeToo was historically inevitable, nor that every event belonged to one coordinated project.
 
 The fuse was not one wire.
 
 It was a bundle.
 
 ---
+
+## 🧭 Timeline Function
+
+This node holds the **preconditions** rather than the rupture itself.
+
+Its core distinctions are:
+
+- distributed knowledge is not absence of knowledge
+- novel public recognition is not novel emergence
+- roots are not platforms
+- content is not exposure
+- exposure is not belief
+- belief is not participation
+- participation is not action
+- participant is not organiser
+- pattern recognition is not narrative capture
+
+The detailed analysis should retain the existing refreshed sections on anti-PC genealogy, transgression as authenticity, Gamergate and asymmetric exposure, target-conditioned threat literacy, partitioned participation, Cosby, Savile, lateral survivor networks, institutional saturation, the respectable translation layer, and the 2017 disclosure threshold.  
+
+--- 
 
 ## ✨ Key Features
 
@@ -980,60 +976,52 @@ These distinctions make the history more precise, not less serious.
 
 ---
 
+## 🚀 Handoff to 2017
+
+By 2017, the important change was not simply:
+
+> private → public
+
+It was:
+
+> **isolated experience → comparable experience → visible pattern → collective interpretation**
+
+The next node zooms into the rupture itself: mass public refusal, the Women's March, MeToo, and the backlash environment that followed.
+
+---
+
 ## 🌌 Constellations
 
-🩸 🧠 🕸️ 🔥 🧭 --- disclosure thresholds, asymmetric information,
-networked grievance, backlash formation, and historical pattern
-recognition.
+🩸 🧠 🕸️ 🔥 🧭 — disclosure thresholds, asymmetric information, networked grievance, backlash formation, historical pattern recognition.
 
 ---
 
 ## ✨ Stardust
 
-metoo origins, long fuse, institutional failure, anti-pc, gamergate,
-target-conditioned threat literacy, partitioned participation, survivor
-networks, asymmetric exposure, disclosure cascade
+metoo origins, long fuse, institutional failure, anti pc, gamergate, target conditioned threat literacy, partitioned participation, survivor networks, asymmetric exposure, disclosure cascade
 
 ---
 
 ## 🏮 Footer
 
-*🩸 The Long Fuse (2010--2017)* is a living node of the **Polaris
-Protocol**.
-It traces the preconditions that lowered the threshold for the 2017
-MeToo disclosure cascade, with particular attention to fragmented
-institutional knowledge, lateral survivor networks, anti-PC and anti-SJW
-discourse, asymmetric online exposure, and the different histories
-produced when targets and participants encounter different parts of the
-same networked event.
+*🩸 The Long Fuse — 2010–2017* is a living node of the **Polaris Protocol**.
 
 > 📡 Cross-references:
 >
-> -   [🔥 Pink Pussyhats --- The Backlash
->     Cycle](./🔥_pink_pussyhats_the_backlash_cycle.md) --- *tracks the
->     public mobilisation and backlash cycle surrounding the 2016--2018
->     rupture*
-> -   [🩻 The Structural Revelation
->     (2018--2022)](./🩻_the_structural_revelation_2018_2022.md) ---
->     *continues the chronology from disclosure cascade into structural
->     recognition and institutional response*
-> -   [🪨 Male Survivor Silence](./🪨_male_survivor_silence.md) ---
->     *holds the fuller analysis of male survivorhood, disclosure
->     barriers, and patriarchal silencing*
-> -   [👾 Debugging The Men](./README.md) --- *parent diagnostic cluster
->     for post-scandal democratic literacy and reproducible
->     accountability failures*
->
-> 🏮 Return To:
->
-> -   [👾 Debugging The Men](./README.md) --- *1up*
-> -   [🍿 Historical Democratic Actions](../README.md) --- *2up*
-> -   [🔊 Turn The Public Up](../../README.md) --- *3up*
-> -   [📲 Press Matters](../../../README.md) --- *4up*
-> -   [🌓 In The Moment](../../../../README.md) --- *5up*
-> -   [🌌 Polaris Protocol --- Root](../../../../../README.md) ---
->     *root*
+> - [🔥 Pussyhat Backlash — 2017–2018](./🔥_pussyhat_backlash.md)
+> - [🩻 The Structural Revelation — 2018–2022](./🩻_the_structural_revelation_2018_2022.md)
+> - [🐉 Surviving](../🐉_Surviving/README.md)
+
+### 🏮 Return To:
+
+- [🚀 Timelines](./README.md) — 1up
+- [👾 Debugging The Men](../README.md) — 2up
+- [🍿 Historical Democratic Actions](../../README.md) — 3up
+- [🔊 Turn The Public Up](../../../README.md) — 4up
+- [📲 Press Matters](../../../../README.md) — 5up
+- [🌓 In The Moment](../../../../../README.md) — 6up
+- [Polaris](../../../../../../README.md) — root
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-08*
+_Last updated: 2026-09-09_
