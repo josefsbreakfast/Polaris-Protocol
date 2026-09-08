@@ -496,7 +496,7 @@ It examines how signalling between close allies can produce unintended friction 
 
 > 📡 Cross-references:
 > 
-> > - [🇫🇰 Falkland Islands](../../🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/🇫🇰_falkland_islands.md) — *pick up your postcard - UK politicians only*
+> - [🇫🇰 Falkland Islands](../../🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/🇫🇰_falkland_islands.md) — *pick up your postcard - UK politicians only*
 >
 > 🏮 Return To:
 >
