@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-08 22:35:19 UTC_
+_Generated on 2026-09-08 22:37:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4063,6 +4063,9 @@ _Generated on 2026-09-08 22:35:19 UTC_
           - [`🩸_when_words_start_failing.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🩸_when_words_start_failing.md)
           - [`🫀_a_question_of_questions.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🫀_a_question_of_questions.md)
         - [**👾_Debugging_The_Men/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
+          - [**🐦‍🔥_Surviving/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐦‍🔥_Surviving/)
+            - [` 🐈‍⬛_diy_pussy_hat_archive.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐦‍🔥_Surviving/ 🐈‍⬛_diy_pussy_hat_archive.md)
+            - [` 🪨_male_survivor_silence.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐦‍🔥_Surviving/ 🪨_male_survivor_silence.md)
           - [**🚀_Timelines/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/)
             - [` 🩸_the_long_fuse_2010_2017.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/ 🩸_the_long_fuse_2010_2017.md)
             - [` 🩻_the_structural_revelation_2018_2022.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🚀_Timelines/ 🩻_the_structural_revelation_2018_2022.md)
@@ -4084,7 +4087,6 @@ _Generated on 2026-09-08 22:35:19 UTC_
           - [`⚖️_reputation_after_revelation.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_reputation_after_revelation.md)
           - [`🌍_crisis_absorption_logic.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🌍_crisis_absorption_logic.md)
           - [`🌪️_the_legitamacy_crisis_era_2023_2025.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🌪️_the_legitamacy_crisis_era_2023_2025.md)
-          - [`🐈‍⬛_diy_pussy_hat_archive.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐈‍⬛_diy_pussy_hat_archive.md)
           - [`📦_posthumous_truth.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/📦_posthumous_truth.md)
           - [`🔗_chains_of_silence.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔗_chains_of_silence.md)
           - [`🔥_pink_pussyhats_the_backlash_cycle.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🔥_pink_pussyhats_the_backlash_cycle.md)
@@ -4097,7 +4099,6 @@ _Generated on 2026-09-08 22:35:19 UTC_
           - [`🧭_how_to_read_institutional_actors.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧭_how_to_read_institutional_actors.md)
           - [`🧱_predation_logic.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧱_predation_logic.md)
           - [`🩸_moral_parasitism.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🩸_moral_parasitism.md)
-          - [`🪨_male_survivor_silence.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🪨_male_survivor_silence.md)
           - [`🫤_why_elite_denials_dont_work_anymore.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🫤_why_elite_denials_dont_work_anymore.md)
           - [`🫧_the_bleurgh_principle.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🫧_the_bleurgh_principle.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/README.md)
