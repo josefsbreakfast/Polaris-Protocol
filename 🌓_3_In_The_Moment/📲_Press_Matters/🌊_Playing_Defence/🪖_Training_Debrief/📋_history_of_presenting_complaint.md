@@ -110,24 +110,29 @@ Put frankly: we were and are still adjusting our cultural perspective, moving on
 
 The 1981 Defence Review associated with Defence Secretary John Nott was principally an attempt to bring the Defence programme and equipment commitments into line with available resources.  
 
-Shortly afterwards, Argentina invaded the Falkland Islands.
+Shortly afterwards, Argentina invaded the Falkland Islands.  
 
-The resulting conflict became one of Britain's most obvious modern examples of a strategic planning assumption encountering an unexpected operational demand.
+If you would like links to follow for Argentina’s case, see [🇫🇰 Falkland Islands](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/🇫🇰_falkland_islands.md) as a postcard stop, on the satirical trek around British Overseas Territories that I would *never ever* really send politicians on.   
 
-This episode should not be reduced to:
+The resulting conflict became one of Britain's most obvious modern examples of a strategic planning assumption encountering an unexpected operational demand.  
+
+This episode should not be reduced to:  
 
 > **Nott review bad; Falklands proved it.**
 
-The more useful lesson is structural.
-Military capability cannot always be regenerated immediately after a political decision determines that it is no longer required.
+The more useful lesson is structural.  
+
+Military capability cannot always be regenerated immediately after a political decision determines that it is no longer required.  
 
 The interval between:
 > **we intend to remove this capability**
 and
 > **we no longer possess this capability**
-can itself become strategically important.
-> 
-The Falklands subsequently acquired a much larger place in British cultural memory than in the technical history of Defence reviews, but for this cluster its significance is narrower:
+can itself become strategically important.  
+
+
+The Falklands subsequently acquired a much larger place in British cultural memory than in the technical history of Defence reviews, but for this cluster its significance is narrower:  
+
 > **strategic surprise can arrive during the implementation window of apparently rational force restructuring.**
 
 This is an early example of why assumptions, warning time and reversibility matter.
