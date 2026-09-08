@@ -85,7 +85,7 @@ The purpose here is violence prevention and accurate description, not competitiv
 | 🧨 | **Dogpile / pile-on** | A large concentration of responses directed at one person or post, often hostile. | Does not by itself establish coordination. |
 | 💬 | **Receipts** | Screenshots, messages, archived posts or other material offered as evidence that something happened. | “Receipts” are evidence in the everyday sense; their legal or evidential significance is a separate question. |
 | 💬 | **Ragebait** | Content designed or optimised to provoke anger and therefore attention or engagement. | The creator need not believe every proposition being performed. |
-| 💬 | **Shitposting** | Deliberately low-quality, absurd, provocative or context-heavy posting, often for humour or disruption. | Can be apolitical, political, ironic, sincere — or all four before lunch. |
+| 💬 | **[Shitposting](https://www.youtube.com/watch?v=CmzyGNXxwdo)** | Deliberately low-quality, absurd, provocative or context-heavy posting, often for humour or disruption. | Can be apolitical, political, ironic, sincere — or all four before lunch. |
 | 🧠 | **Parasocial relationship** | A one-sided sense of social or emotional connection with a media figure, celebrity, creator or similar persona. | Not inherently unhealthy and not synonymous with fandom. |
 | 🧠 | **Misogyny** | Hostility toward, degradation of, control over or enforcement of hierarchy against women or femininity. | Related to sexism, but not identical in every analytical or legal register. |
 | 🧠 | **Sexism** | Prejudice, discrimination, stereotyping or unequal treatment on the basis of sex or gender. | Misogyny often describes a more specifically anti-woman or hierarchy-enforcing phenomenon. |
@@ -120,7 +120,7 @@ The purpose here is violence prevention and accurate description, not competitiv
 
 | Figure | Why they appear in this map | Do not flatten |
 | --- | --- | --- |
-| **Andrew Tate** | Contemporary reference point for manosphere/manfluencer culture, particularly where wealth, masculinity, dating, status and misogynistic gender ideas intersect with audiences of boys and young men. | Tate is not “the manosphere”. |
+| **[Andrew Tate](https://youtu.be/y6_TOFy3k6k?si=ODrylRrKYDNNDTgQ)** | Contemporary reference point for manosphere/manfluencer culture, particularly where wealth, masculinity, dating, status and misogynistic gender ideas intersect with audiences of boys and young men. | Tate is not “the manosphere”. |
 | **Jordan Peterson** | Relevant to online conversations about masculinity, self-help, hierarchy, gender roles and male grievance in a more intellectualised register. | Peterson ≠ Tate; disagreement with his politics ≠ classification as an incel influencer. |
 | **Joe Rogan** | Useful for understanding enormous podcast audiences, long-form creator media and the movement of ideas between subcultures and mainstream attention. | Audience/distribution role ≠ endorsement of every guest or idea circulating through the ecosystem. |
 
@@ -150,7 +150,7 @@ The important question is:
 | **Doxxing-enabled swarming** | Personal information is circulated to facilitate further targeting. | Increases the possible attack surface substantially. |
 | **Threat/intimidation swarming** | Multiple participants send threats, sexualised abuse or intimidating material. | Scale can alter both impact and risk assessment. |
 | **Institutional weaponisation** | Participants make complaints or reports intended to cause coercive consequences through third parties. | Institutions can become unwilling participants in harassment. |
-| **SWATting** | False emergency reports are made to provoke a police or other emergency response at a target’s location. | This can create immediate physical danger. |
+| **[SWATting](https://youtu.be/-ziLjOPCQwg?si=0mBw08G-TpNY2kcf)** | False emergency reports are made to provoke a police or other emergency response at a target’s location. | This can create immediate physical danger. |
 | **Offline swarming** | Online mobilisation contributes to physical attendance, confrontation, stalking or other embodied targeting. | The online/offline distinction has now become particularly unhelpful. |
 
 #### Dogpile, Brigade, Swarm
@@ -173,7 +173,7 @@ The important question is:
 | 🧨 | **Astroturfing** | Activity designed to create the appearance of organic grassroots support or opposition. | Genuine grassroots mobilisation can also be highly organised. |
 | 🧨 | **Sealioning** | Persistent, ostensibly polite questioning performed in bad faith to exhaust, derail or demand endless justification from a target. | Asking difficult questions is not inherently sealioning. |
 | 🧨 | **Concern trolling** | Criticism or disruption presented as sympathetic concern for the target or cause. | Sincere internal criticism exists. |
-| 💬 | **Dogwhistle** | Language carrying an additional meaning recognisable to a particular audience while remaining more innocuous to outsiders. | Not every ambiguous phrase is coded speech. |
+| 💬 | **[Dogwhistle](https://youtu.be/PMgti20MZhU?si=U-2IbNKlMQ0UhJnU)** | Language carrying an additional meaning recognisable to a particular audience while remaining more innocuous to outsiders. | Not every ambiguous phrase is coded speech. |
 | 💬 | **Shadowban** | Internet term for reduced visibility imposed without an obvious account ban. | Users frequently infer shadowbanning from ordinary changes in reach; platform mechanisms vary. |
 | 🧨 | **Deplatforming** | Removal or restriction of a speaker or community from a platform or service. | Does not necessarily eliminate the community; migration matters. |
 | 💬 | **Rabbit hole** | Metaphor for increasingly deep or specialised content exposure or participation. | Not a technical synonym for radicalisation. |
