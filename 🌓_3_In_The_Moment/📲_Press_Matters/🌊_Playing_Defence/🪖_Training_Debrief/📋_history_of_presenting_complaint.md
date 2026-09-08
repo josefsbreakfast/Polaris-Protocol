@@ -195,61 +195,87 @@ The workload may instead change shape.
 
 ## 5. 🧩 1994: Front Line First and the Problem of Deciding What Counts as Support
 
-The 1994 Defence Costs Study, commonly associated with **Front Line First**, sought further efficiencies.
-It also accelerated greater tri-service organisation and joint structures.
-The MOD's own later institutional history identifies the reforms as important to the development of:
+The 1994 Defence Costs Study, commonly associated with **Front Line First**, sought further efficiencies.  
+
+It also accelerated greater tri-service organisation and joint structures.  
+
+The MOD's own later institutional history identifies the reforms as important to the development of:  
+
 - integrated Head Office structures;
 - Permanent Joint Headquarters;
 - Joint Staff College;
 - Defence Estates;
 - greater use of agencies and contracting.
-[MOD: Records Appraisal Report 2020](https://www.gov.uk/government/publications/ministry-of-defence-records-appraisal-report-2020/mod-appraisal-report-2020-accessible-version)
+
+[MOD: Records Appraisal Report 2020](https://www.gov.uk/government/publications/ministry-of-defence-records-appraisal-report-2020/mod-appraisal-report-2020-accessible-version)  
+
 There is an important conceptual question here which recurs throughout later Defence reform:
+
 > **What counts as front line?**
-A battalion looks like front-line capability.
-An instructor may not.
-A training area may not.
-A logistics organisation may not.
-An estate-maintenance function may not.
-A procurement specialist may not.
-But removing enough supposedly peripheral capability eventually alters whether the visible front-line asset can function.
-This cluster will repeatedly test the distinction between:
-**nominal front-line strength**
-and
+
+A battalion looks like front-line capability.  
+An instructor may not.  
+A training area may not.  
+A logistics organisation may not.  
+An estate-maintenance function may not.  
+A procurement specialist may not.  
+But removing enough supposedly peripheral capability eventually alters whether the visible front-line asset can function.  
+
+This cluster will repeatedly test the distinction between:  
+**nominal front-line strength** 
+and  
 **the enabling system required to make that strength usable.**
 
 ---
 
-## 6. 🧭 1998: the Strategic Defence Review and expeditionary Britain
-The 1998 Strategic Defence Review attempted to construct a force appropriate to the post-Cold-War environment.
-It emphasised flexible, expeditionary Armed Forces able to operate at distance from the United Kingdom.
-The period also accelerated joint working across Defence.
-Later MOD accounts identify the review with further joint organisations, including the Defence Logistics Organisation and Joint Helicopter Command.
+## 6. 🧭 1998: The Strategic Defence Review and Expeditionary Britain
+
+The 1998 Strategic Defence Review attempted to construct a force appropriate to the post-Cold-War environment.  
+
+It emphasised flexible, expeditionary Armed Forces able to operate at distance from the United Kingdom.  
+
+The period also accelerated joint working across Defence.  
+
+Later MOD accounts identify the review with further joint organisations, including the Defence Logistics Organisation and Joint Helicopter Command.  
+
 [House of Commons Library: *A brief guide to previous British defence reviews*](https://commonslibrary.parliament.uk/research-briefings/cbp-7313/)  
-[MOD: Records Appraisal Report 2020](https://www.gov.uk/government/publications/ministry-of-defence-records-appraisal-report-2020/mod-appraisal-report-2020-accessible-version)
-The strategic proposition was broadly:
-> Britain no longer needed simply to maintain the Cold-War force in miniature.
-It needed forces capable of:
+
+[MOD: Records Appraisal Report 2020](https://www.gov.uk/government/publications/ministry-of-defence-records-appraisal-report-2020/mod-appraisal-report-2020-accessible-version)  
+
+The strategic proposition was broadly:  
+
+> Britain no longer needed simply to maintain the Cold-War force in miniature.  
+
+It needed forces capable of:  
+
 - deploying;
 - sustaining operations;
 - working jointly;
 - operating with allies;
 - responding to less geographically predictable crises.
-Then came 9/11.
+
+Then came that fateful day in September.
 
 ---
 
-## 7. 🏙️ 2001: 9/11 and another strategic reset
+## 7. 🏙️ 2001: 9/11 and Another Strategic Reset  
+
 The attacks of 11 September 2001 altered the international security environment again.
-Britain's post-Cold-War expeditionary model was now used in a much more demanding sequence of operations.
-The UK entered Afghanistan.
-It later entered Iraq.
-Instead of occasional expeditionary intervention, the Armed Forces entered a period of sustained operational demand.
-This matters because force design is not tested only by:
-> **Can the force perform this operation?**
-It is also tested by:
+Britain's post-Cold-War expeditionary model was now used in a much more demanding sequence of operations.  
+
+The UK entered Afghanistan.  
+
+It later entered Iraq.  
+
+Instead of occasional expeditionary intervention, the Armed Forces entered a period of sustained operational demand.  
+
+This matters because force design is not tested only by:  
+> **Can the force perform this operation?**  
+It is also tested by:  
 > **Can the force keep performing operations at this intensity without degrading the people and systems underneath it?**
-The answer depends upon:
+
+The answer depends upon:  
+
 - deployment frequency;
 - personnel;
 - families;
@@ -263,24 +289,32 @@ The answer depends upon:
 
 ---
 
-## 8. 🇮🇶 Iraq and 🇦🇫 Afghanistan: the operational learning machine accelerates
-This is where Simon Akam's *The Changing of the Guard: The British Army Since 9/11* becomes particularly useful.
-The Army's experience in Iraq and Afghanistan generated extensive adaptation in:
+## 8. 🇮🇶 Iraq and 🇦🇫 Afghanistan: The Operational Learning Machine Accelerates  
+
+This is where Simon Akam's *The Changing of the Guard: The British Army Since 9/11* becomes particularly useful.  
+
+The Army's experience in Iraq and Afghanistan generated extensive adaptation in:  
+
 - training;
 - equipment;
 - doctrine;
 - infrastructure;
 - medical response;
 - counter-IED work;
-- operational feedback.
-The important point for the present cluster is not simply that mistakes occurred.
+- operational feedback.  
+
+The important point for the present cluster is not simply that mistakes occurred.  
+
 It is that **the Army demonstrated substantial capacity to learn when operational consequences made the need for learning unavoidable.**
 
 ---
 
-## 🥾 OPTAG
-Akam describes the reform of the Operational Training and Advisory Group.
-Problems included:
+## 🥾 OPTAG  
+
+Akam describes the reform of the Operational Training and Advisory Group.  
+
+Problems included:  
+
 - compressed preparation periods;
 - insufficient theatre-specific experience among some instructors;
 - limited institutional prestige;
@@ -290,46 +324,66 @@ Reform sought:
 - greater theatre currency;
 - more realistic environments;
 - rapid incorporation of lessons from deployed forces.
-One especially striking example involves training being paused while current information was obtained directly from Afghanistan and then passed immediately to the next cohort.
+  
+One especially striking example involves training being paused while current information was obtained directly from Afghanistan and then passed immediately to the next cohort.  
+
 The feedback loop was extraordinarily short:
-> **theatre → instructor → trainee.**
-That is healthy organisational learning.
+
+>  **theatre → instructor → trainee.**
+
+That is healthy organisational learning.  
 
 ---
 
-## 🏚️ Representative infrastructure  
+## 🏚️ Representative Infrastructure  
 
-Akam also describes the move away from inadequate approximations toward more realistic training environments.
-Improved facilities were developed at locations including:
+Akam also describes the move away from inadequate approximations toward more realistic training environments.  
+
+Improved facilities were developed at locations including:  
+
 - Lydd/Hythe;
 - Longcross;
 - Thetford.
+
 The point was not aesthetic realism.
-It was functional realism.
+It was functional realism.  
+
 Personnel needed repeated exposure to environments sufficiently similar to those they might encounter operationally that useful behaviour could become rehearsed.
-This demonstrates a wider principle:
+
+This demonstrates a wider principle:  
+
 > **training infrastructure is itself military capability.**
-Owning land is not enough.
-The land has to permit the right kind of practice.
+
+Owning land is not enough.  
+
+The land has to permit the right kind of practice.  
 
 ---
 
 ## 🛸 BATUS
 
-Training at BATUS also evolved.
-Akam describes increasingly realistic combinations of:
+Training at BATUS also evolved.  
+
+Akam describes increasingly realistic combinations of:  
+
 - villages;
 - dismounted fighting;
 - drones;
 - casualties;
 - different enemy formations;
-- unpredictable sequences.
-The technological point is particularly important now.
-**Drones entering training are not a post-Ukraine discovery.**
-Technology was already being integrated into physical collective training because the objective was to make the physical exercise more representative.
-This is relevant to current discussion of AI, VR and synthetic training.
-Historically, new technology has often improved collective training.
-That is different from demonstrating that it can replace all of it.
+- unpredictable sequences.  
+
+The technological point is particularly important now.  
+
+**Drones entering training are not a post-Ukraine discovery.**  
+
+Technology was already being integrated into physical collective training because the objective was to make the physical exercise more representative.  
+
+This is relevant to current discussion of AI, VR and synthetic training.  
+
+Historically, new technology has often improved collective training.  
+
+That is different from demonstrating that it can replace all of it.  
 
 ---
 
