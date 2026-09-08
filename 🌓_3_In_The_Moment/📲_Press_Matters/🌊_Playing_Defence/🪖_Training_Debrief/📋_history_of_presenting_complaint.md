@@ -1188,19 +1188,19 @@ It tells us which questions Britain has already paid to learn how to ask.
 
 *Follow the evidence:*  
 
-- [Simon Akam, The Changing of the Guard: The British Army Since 9/11.]()
-- [House of Commons Library: A brief guide to previous British defence reviews]()
-- [MOD: Records Appraisal Report 2020]()
-- [GOV.UK: 2010 to 2015 government policy: armed forces and Ministry of Defence reform]()
-- [GOV.UK: “Army 2020: Defining the Future of the British Army”]()
-- [GOV.UK: “Army 2020: transforming the British Army for the future”]()
-- [GOV.UK: The Integrated Review 2021]()
-- [GOV.UK: Defence Secretary oral statement on the Defence Command Paper]()
-- [National Audit Office: Investigation into military support for Ukraine]()
-- [RUSI: “A Bureaucratic Approach to Safety is Weakening the British Army’s Training”]()
-- [GOV.UK: Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad]()
-- [GOV.UK: Strategic Defence Review oral statement]()
-- [The Guardian: Richard Norton-Taylor, “Defence chiefs gag damning Iraq invasion findings”]()
+- [📖: Simon Akam, The Changing of the Guard: The British Army Since 9/11.]()
+- [📄: House of Commons Library: A brief guide to previous British defence reviews]()
+- [📄: MOD: Records Appraisal Report 2020]()
+- [📄: GOV.UK: 2010 to 2015 government policy: armed forces and Ministry of Defence reform]()
+- [📄: GOV.UK: “Army 2020: Defining the Future of the British Army”]()
+- [📄: GOV.UK: “Army 2020: transforming the British Army for the future”]()
+- [📄: GOV.UK: The Integrated Review 2021]()
+- [📄: GOV.UK: Defence Secretary oral statement on the Defence Command Paper]()
+- [📄: National Audit Office: Investigation into military support for Ukraine]()
+- [📄: RUSI: “A Bureaucratic Approach to Safety is Weakening the British Army’s Training”]()
+- [📄: GOV.UK: Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad]()
+- [📄: GOV.UK: Strategic Defence Review oral statement]()
+- [📰: The Guardian: Richard Norton-Taylor, “Defence chiefs gag damning Iraq invasion findings”]()
 
 ---
 
@@ -1213,20 +1213,17 @@ British defence reviews, British Army, Options for Change, Front Line First, Str
 ## 🏮 Footer
 
 *📋 History of Presenting Complaint* is a living node of the **Polaris Protocol**.  
+
 It places the current training dispute inside the longer history of British force redesign, operational adaptation, strategic review and affordability pressure.
 
 > 📡 Cross-references:
 >
-> * 🔬_tests_and_investigations.md — what evidence would establish the problem;
-* 🪖_what_training_is_for.md — why collective competence requires repeated practice;
-* ⚙️_the_feedback_machine.md — how lessons move through the institution;
-* 🪟_transparency_and_earned_loyalty.md — Brown, Stirrup, FOI and public trust;
-* 💷_thirty_million_pounds.md — the immediate 2026 decision;
-* 🔭_what_does_ready_actually_look_like.md — designing from functional outputs rather than budget lines.
-> - [🪖 What Training Is For](./🪖_what_training_is_for.md) — *collective competence and the function of training*
-> - [⚙️ The Feedback Machine](./⚙️_the_feedback_machine.md) — *institutional learning and signal transmission*
-> - [🔭 What Does Ready Actually Look Like](./🔭_what_does_ready_actually_look_like.md) — *functional readiness outputs*
-> - [💷 Thirty Million Pounds](./💷_thirty_million_pounds.md) — *the immediate affordability decision*
+> - [🔬 Tests And Investigations](./🔬_tests_and_investigations.md) — *what evidence would establish the problem*  
+> - [🪖 What Training Is For](./🪖_what_training_is_for.md) — *collective competence and the function of training*  
+> - [⚙️ The Feedback Machine](./⚙️_the_feedback_machine.md) — *institutional learning and signal transmission*  
+> - [🪟 Transparency And Earned Loyalty](./🪟_transparency_and_earned_loyalty.md) — *Brown, Stirrup, FOI and public trust*  
+> - [💷 Thirty Million Pounds](./💷_thirty_million_pounds.md) — *the immediate affordability decision*  
+> - [🔭 What Does Ready Actually Look Like](./🔭_what_does_ready_actually_look_like.md) — *functional readiness outputs*  
 >  
 > 🏮 Return To:
 >
