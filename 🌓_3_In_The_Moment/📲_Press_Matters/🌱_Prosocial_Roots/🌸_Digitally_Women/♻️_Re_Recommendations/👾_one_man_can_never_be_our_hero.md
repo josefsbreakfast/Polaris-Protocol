@@ -1,6 +1,6 @@
 # 👾 One Man Can Never Be Our Hero
 **First created:** 2026-09-06 | **Last updated:** 2026-09-08  
-*What Keir Starmer’s record on violence against women and girls can teach us about the danger of making women’s safety dependent on the judgment of powerful individuals.*
+*What Keir Starmer’s record on violence against women and girls can teach us about the danger of making women’s safety dependent on the judgement of powerful individuals.*
 
 ---
 
