@@ -1,10 +1,12 @@
-# 🩻 The Structural Revelation (2018–2022)
+# 🩻 The Structural Revelation (2018–2022)  
+**First created:** 2025-11-12 | **Last updated:** 2026-09-08  
+*How the post-MeToo disclosure environment changed public pattern-recognition, institutional incentives, male responses, backlash politics, and the perceived cost of previously survivable secrets.*  
 
-**First created:** 2025-11-12 | **Last updated:** 2026-09-08
+---  
 
-*How the post-MeToo disclosure environment changed public pattern-recognition, institutional incentives, male responses, backlash politics, and the perceived cost of previously survivable secrets.*
-
-<!-- KAFKA QUOTE TO BE REINSERTED BY AUTHOR -->
+> *"You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet."*  
+> 
+> *Franz Kafka*  
 
 ---
 
