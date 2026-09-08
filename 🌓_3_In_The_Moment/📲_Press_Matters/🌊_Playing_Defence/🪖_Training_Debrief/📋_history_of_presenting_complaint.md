@@ -309,7 +309,7 @@ It is that **the Army demonstrated substantial capacity to learn when operationa
 
 ---
 
-### 🥾 OPTAG  
+### 8.1 🥾 OPTAG  
 
 Akam describes the reform of the Operational Training and Advisory Group.  
 
@@ -335,7 +335,7 @@ That is healthy organisational learning.
 
 ---
 
-### 🏚️ Representative Infrastructure  
+### 8.2 🏚️ Representative Infrastructure  
 
 Akam also describes the move away from inadequate approximations toward more realistic training environments.  
 
@@ -360,7 +360,7 @@ The land has to permit the right kind of practice.
 
 ---
 
-### 🛸 BATUS
+### 8.3 🛸 BATUS
 
 Training at BATUS also evolved.  
 
@@ -409,76 +409,124 @@ The history therefore reinforces one of this cluster's central propositions:
 
 ---
 
-## 10. 🔁 The Army gets very good at Afghanistan — which creates another problem
+## 10. 🔁 The Army gets very good at Afghanistan — which creates another problem  
+
 Akam's argument becomes especially useful when the Army begins leaving the conflict environment for which it had become highly adapted.
-Afghanistan encouraged rational habits built around conditions including:
+Afghanistan encouraged rational habits built around conditions including:  
+
 - coalition air superiority;
 - sophisticated casualty evacuation;
 - pervasive IED risk;
 - counter-insurgency;
 - strong emphasis on casualty minimisation.
-Those habits could become problematic in another type of war.
-At Brecon, Akam records instructors confronting experienced Iraq/Afghanistan personnel whose casualty response had become deeply automatic.
-The Afghanistan-conditioned reflex was to stop and organise evacuation.
+
+Those habits could become problematic in another type of war.   
+
+At Brecon, Akam records instructors confronting experienced Iraq/Afghanistan personnel whose casualty response had become deeply automatic.  
+
+The Afghanistan-conditioned reflex was to stop and organise evacuation.  
+
 In a different war, where helicopters may not arrive and stopping the attack may create more casualties, personnel needed to learn another response.
-Hence the memorable instruction:
-> **“Fucking leave him and come back for him!”**
-The profanity matters because it communicates how deeply the previous behaviour had been learned.
-This supplies an important lesson for 2026:
-> **unlearning is training too.**
-Experienced soldiers cannot always be updated simply by receiving new information.
-Automatic responses sometimes have to be deliberately changed through practice.
+Hence the memorable instruction:  
+
+> **“Fucking leave him and come back for him.”**  
+
+The profanity matters because it communicates how deeply the previous behaviour had been learned.  
+
+This supplies an important lesson for 2026:  
+
+> **unlearning is training too.**  
+
+Experienced soldiers cannot always be updated simply by receiving new information.  
+
+Automatic responses sometimes have to be deliberately changed through practice.  
 
 ---
 
-## 11. 🧠 Tactical learning succeeds; strategic learning becomes more complicated
-Akam's wider criticism is that the Army's operational and training systems changed dramatically while senior institutional accountability was much less visibly transformed.
-This is where the Ben Barry and Chris Brown lessons processes become relevant.
-Lt Gen Chris Brown's joint study of higher-level strategic issues reportedly reached a first draft by early 2010.
-Akam describes criticism within it concerning strategic direction, including the observation that the last Chief of the Defence Staff directive concerning Iraq dated from 2005.
-The report then entered increasingly restricted circulation and went through repeated revision.
-Brown's impression, as Akam describes it, was essentially that nobody wanted to be left holding responsibility when blame was distributed across Whitehall.
-Contemporary reporting made the dispute public:
-- [The Guardian: Richard Norton-Taylor, “Defence chiefs gag damning Iraq invasion findings”](https://www.theguardian.com/uk/2010/may/27/defence-chiefs-gag-iraq-report)
-Jock Stirrup later disputed the interpretation that the report was rejected simply because it was embarrassing.
-Akam records Stirrup arguing that it had methodological weaknesses, particularly that tactical perspectives were sometimes used without sufficient treatment of strategic objectives and that some analysis became personal opinion.
-Both propositions can matter.
-There may have been institutional discomfort with criticism.
-There may also have been legitimate disagreement about the quality and level of analysis.
-The deeper systems problem is potentially:
+## 11. 🧠 Tactical learning succeeds; strategic learning becomes more complicated  
+
+Akam's wider criticism is that the Army's operational and training systems changed dramatically while senior institutional accountability was much less visibly transformed.  
+
+This is where the Ben Barry and Chris Brown lessons processes become relevant.  
+
+Lt Gen Chris Brown's joint study of higher-level strategic issues reportedly reached a first draft by early 2010.  
+
+Akam describes criticism within it concerning strategic direction, including the observation that the last Chief of the Defence Staff directive concerning Iraq dated from 2005.  
+
+The report then entered increasingly restricted circulation and went through repeated revision.  
+
+Brown's impression, as Akam describes it, was essentially that nobody wanted to be left holding responsibility when blame was distributed across Whitehall.  
+
+Contemporary reporting made the dispute public:  
+
+- [The Guardian: Richard Norton-Taylor, “Defence chiefs gag damning Iraq invasion findings”](https://www.theguardian.com/uk/2010/may/27/defence-chiefs-gag-iraq-report)  
+
+Jock Stirrup later disputed the interpretation that the report was rejected simply because it was embarrassing.  
+
+Akam records Stirrup arguing that it had methodological weaknesses, particularly that tactical perspectives were sometimes used without sufficient treatment of strategic objectives and that some analysis became personal opinion.  
+
+Both propositions can matter.  
+
+There may have been institutional discomfort with criticism.  
+
+There may also have been legitimate disagreement about the quality and level of analysis.  
+
+The deeper systems problem is potentially:  
+
 > **How does tactical experience become valid strategic evidence?**
-If the bottom says:
-> **strategy does not understand what happened**
+
+If the bottom says:  
+
+> **strategy does not understand what happened**  
+
 while the top says:
-> **tactical analysis does not understand strategy**
+
+> **tactical analysis does not understand strategy**  
+
 then Defence requires a better translation layer.
 
 ---
 
 ## 12. 🪟 FOI and the problem of institutional embarrassment
 
-The Brown material also became public partly because of Freedom of Information processes.
-That matters beyond Iraq.
-Defence possesses unusually strong legitimate reasons for withholding information.
-Operational plans, vulnerabilities, intelligence and classified capability should not simply be made public.
-But this creates an institutional trust problem if:
+The Brown material also became public partly because of Freedom of Information processes.  
+
+That matters beyond Iraq.  
+
+Defence possesses unusually strong legitimate reasons for withholding information.  
+
+Operational plans, vulnerabilities, intelligence and classified capability should not simply be made public.  
+
+But this creates an institutional trust problem if:  
+
 > **security sensitivity**
-and
-> **reputational discomfort**
-become difficult for outsiders to distinguish.
-A military institution asking the public to accept necessary secrecy therefore has an unusually strong interest in demonstrating transparency where disclosure is safe.
-The long-term lesson is not:
-> **publish everything.**
-It is:
+
+and  
+
+> **reputational discomfort**  
+
+become difficult for outsiders to distinguish.  
+
+A military institution asking the public to accept necessary secrecy therefore has an unusually strong interest in demonstrating transparency where disclosure is safe.  
+
+The long-term lesson is not:  
+
+> **publish everything.**  
+
+It is:  
+
 > **make the boundary between necessary secrecy and institutional embarrassment credible.**
-This becomes important later because intangible Defence expenditure — including training — may depend heavily upon public willingness to trust professional military judgement.
+
+This becomes important later because intangible Defence expenditure — including training — may depend heavily upon public willingness to trust professional military judgement.  
 
 ---
 
 ## 13. 💷 2010: operational lessons meet austerity
 
-This is one of the most important conjunctions in the entire history.
-By 2010 Britain had accumulated:
+This is one of the most important conjunctions in the entire history.  
+
+By 2010 Britain had accumulated:  
+
 - nearly a decade of Afghanistan;
 - Iraq;
 - extensive operational adaptation;
@@ -486,69 +534,99 @@ By 2010 Britain had accumulated:
 - training lessons;
 - casualty experience;
 - major financial pressure following the global financial crisis.
-The 2010 Strategic Defence and Security Review therefore attempted to reform Defence while addressing affordability.
-Government subsequently described the programme as seeking:
+
+The 2010 Strategic Defence and Security Review therefore attempted to reform Defence while addressing affordability.  
+
+Government subsequently described the programme as seeking:  
+
 - battle-winning Armed Forces;
 - a smaller, more professional MOD;
 - a realistic approach to affordability.
 [GOV.UK: *2010 to 2015 government policy: armed forces and Ministry of Defence reform*](https://www.gov.uk/government/publications/2010-to-2015-government-policy-armed-forces-and-ministry-of-defence-reform/2010-to-2015-government-policy-armed-forces-and-ministry-of-defence-reform)
+
 The difficulty is obvious.
-The institution was simultaneously being asked to:
-**retain lessons from sustained war**
-and
-**become substantially cheaper.**
-This does not automatically mean every reduction was wrong.
-It means implementation should be examined carefully for whether capability was genuinely redesigned or merely compressed.
+
+The institution was simultaneously being asked to:  
+
+**retain lessons from sustained war**  
+
+and  
+
+**become substantially cheaper.**  
+
+This does not automatically mean every reduction was wrong.  
+
+It means implementation should be examined carefully for whether capability was genuinely redesigned or merely compressed.  
 
 ---
 
 ## 14. 🪖 Army 2020: smaller, integrated, adaptable
 
-Army 2020 followed the 2010 review.
-The planned structure envisaged a smaller Regular Army integrated more closely with an expanded Reserve.
-Government described the future force as:
+Army 2020 followed the 2010 review.  
+
+The planned structure envisaged a smaller Regular Army integrated more closely with an expanded Reserve.  
+
+Government described the future force as:  
+
 > a fully integrated Regular and Reserve force of 120,000 by 2020.
-It was intended to shift from sustained campaigning toward contingency.
-[GOV.UK: “Army 2020: Defining the Future of the British Army”](https://www.gov.uk/government/news/093-2012-army-2020-defining-the-future-of-the-british-army)  
-[GOV.UK: “Army 2020: transforming the British Army for the future”](https://www.gov.uk/government/news/army-2020-transforming-the-british-army-for-the-future)
-This was not simply a numerical reduction.
-It was a different force-generation model.
-Its success therefore depended upon things including:
+
+It was intended to shift from sustained campaigning toward contingency.  
+
+[GOV.UK: “Army 2020: Defining the Future of the British Army”](https://www.gov.uk/government/news/093-2012-army-2020-defining-the-future-of-the-british-army)    
+
+[GOV.UK: “Army 2020: transforming the British Army for the future”](https://www.gov.uk/government/news/army-2020-transforming-the-british-army-for-the-future)  
+
+This was not simply a numerical reduction.  
+
+It was a different force-generation model.  
+
+Its success therefore depended upon things including:  
+
 - reserve recruitment;
 - reserve integration;
 - readiness;
 - training;
 - personnel availability;
-- mobilisation assumptions.
-That distinction matters.
+- mobilisation assumptions.  
+
+That distinction matters.  
+
 A force may retain the same nominal total only if every component of the new manpower model actually materialises as planned.
 
 ---
 
 ## 15. 🇷🇺 2014: Crimea changes the weather
 
-Russia's seizure of Crimea in 2014 made the European security environment look significantly different from the one surrounding the 2010 SDSR.
+Russia's seizure of Crimea in 2014 made the European security environment look significantly different from the one surrounding the 2010 SDSR.  
 
-The post-Cold-War assumption that high-intensity state warfare in Europe had become remote was becoming increasingly difficult to maintain.
+The post-Cold-War assumption that high-intensity state warfare in Europe had become remote was becoming increasingly difficult to maintain.  
 
-This does not mean Britain's expeditionary experience suddenly became irrelevant.
+This does not mean Britain's expeditionary experience suddenly became irrelevant.  
+
 It means the force now had to retain or rebuild competence for a different category of conflict while carrying the institutional legacy of the previous one.
 
 ---
 
 ## 16. 📑 SDSR 2015 and the return of state competition
 
-The 2015 review responded to:
+The 2015 review responded to:  
+
 - Russia;
 - terrorism;
 - instability;
 - cyber threats;
-- changing alliance demands.
-Once again, strategic ambition and force capacity had to be reconciled.
-The important question for this cluster is not merely whether headline Defence spending increased.
-It is:
+- changing alliance demands.  
+
+Once again, strategic ambition and force capacity had to be reconciled.  
+
+The important question for this cluster is not merely whether headline Defence spending increased.  
+
+It is:  
+
 > **Was the force-generation system underneath the headline capability becoming more robust?**
-That requires later evidence concerning:
+
+That requires later evidence concerning:  
+
 - personnel;
 - readiness;
 - estate;
@@ -559,9 +637,12 @@ That requires later evidence concerning:
 
 ---
 
-## 17. 🧱 The estate problem accumulates quietly
-Training capability also depends upon physical infrastructure.
-Training land that technically exists may still be constrained by:
+## 17. 🧱 The estate problem accumulates quietly  
+
+Training capability also depends upon physical infrastructure.  
+
+Training land that technically exists may still be constrained by:  
+
 - availability;
 - maintenance;
 - safety;
@@ -569,45 +650,63 @@ Training land that technically exists may still be constrained by:
 - competing users;
 - deterioration;
 - infrastructure condition.
-The same is true of accommodation and supporting estate.
-This becomes increasingly important because a smaller force does not automatically need proportionally less training infrastructure.
+
+The same is true of accommodation and supporting estate.  
+
+This becomes increasingly important because a smaller force does not automatically need proportionally less training infrastructure.  
+
 Indeed, if the force is expected to generate high readiness from fewer personnel, access to high-quality training may become more important.
 
 ---
 
 ## 18. 🌐 2021: Integrated Review and the technological turn
 
-The 2021 Integrated Review described a more competitive international system shaped by:
+The 2021 Integrated Review described a more competitive international system shaped by:  
+
 - state competition;
 - technology;
 - cyber;
 - space;
 - China;
 - Russia;
-- new domains.
+- new domains.  
+
 The accompanying Defence Command Paper explicitly argued against protecting old capabilities simply because they had previously succeeded.
-It warned that sentimentality combined with:
-> over-ambition and under-resourcing
-could create harder consequences later and risk service personnel.
-[GOV.UK: *The Integrated Review 2021*](https://www.gov.uk/government/collections/the-integrated-review-2021)  
-[GOV.UK: Defence Secretary oral statement on the Defence Command Paper](https://www.gov.uk/government/speeches/defence-secretary-oral-statement-on-the-defence-command-paper)
-This is an important argument.
-Modernisation is necessary.
-The question is how modernisation is validated.
-A technology programme should not become strategically valuable merely because:
+It warned that sentimentality combined with:  
+
+> over-ambition and under-resourcing   
+
+could create harder consequences later and risk service personnel.  
+
+[GOV.UK: *The Integrated Review 2021*](https://www.gov.uk/government/collections/the-integrated-review-2021)   
+
+[GOV.UK: Defence Secretary oral statement on the Defence Command Paper](https://www.gov.uk/government/speeches/defence-secretary-oral-statement-on-the-defence-command-paper)  
+
+This is an important argument.  
+
+Modernisation is necessary.  
+
+The question is how modernisation is validated.  
+
+A technology programme should not become strategically valuable merely because:  
+
 - it is new;
 - it is digital;
 - it contains AI;
-- it promises efficiency.
-The relevant test remains:
+- it promises efficiency.  
+
+The relevant test remains:  
+
 > **Which functional military output does this improve?**
 
 ---
 
 ## 19. 🇺🇦 2022: Ukraine breaks several comfortable assumptions
 
-Russia's full-scale invasion of Ukraine brought high-intensity state warfare back into Europe on a scale Western governments had not experienced for decades.
-It highlighted the continuing importance of:
+Russia's full-scale invasion of Ukraine brought high-intensity state warfare back into Europe on a scale Western governments had not experienced for decades.  
+
+It highlighted the continuing importance of:  
+
 - mass;
 - artillery;
 - ammunition;
@@ -619,87 +718,133 @@ It highlighted the continuing importance of:
 - training;
 - mobilisation;
 - casualty replacement;
-- endurance.
-The war did not demonstrate that technology was unimportant.
-Quite the opposite.
-It demonstrated that **new technology and traditional military requirements coexist**.
-Drones did not abolish artillery.
-AI did not abolish logistics.
-Simulation did not abolish physical operations.
+- endurance.  
+
+The war did not demonstrate that technology was unimportant.  
+
+Quite the opposite.  
+
+It demonstrated that **new technology and traditional military requirements coexist**.  
+
+Drones did not abolish artillery.  
+
+AI did not abolish logistics.  
+
+Simulation did not abolish physical operations.  
+
 Modern warfare layered new dependencies onto old ones.
 
 ---
 
 ## 20. 🇺🇦 Operation Interflex: useful activity creates another capacity problem
 
-Britain's training of Ukrainian personnel through Operation Interflex is an important example of the difference between a capability problem and a blame problem.
-Training Ukrainians is strategically valuable.
-It also consumes training capacity.
-The National Audit Office found that British Army units bidding for training sites in 2023 were rejected **eight times more frequently than in 2019** because facilities were unavailable.
-At the same time, 89% of one tranche of Ukrainian trainees said the training left them better prepared to survive on the battlefield.
-[National Audit Office: *Investigation into military support for Ukraine*](https://www.nao.org.uk/press-releases/investigation-into-military-support-for-ukraine/)
-That is not evidence that Interflex is a mistake.
-It is evidence that:
+Britain's training of Ukrainian personnel through Operation Interflex is an important example of the difference between a capability problem and a blame problem.  
+
+Training Ukrainians is strategically valuable.  
+
+It also consumes training capacity.  
+
+The National Audit Office found that British Army units bidding for training sites in 2023 were rejected **eight times more frequently than in 2019** because facilities were unavailable.  
+
+At the same time, 89% of one tranche of Ukrainian trainees said the training left them better prepared to survive on the battlefield.   
+
+[National Audit Office: *Investigation into military support for Ukraine*](https://www.nao.org.uk/press-releases/investigation-into-military-support-for-ukraine/)  
+
+That is not evidence that Interflex is a mistake.  
+
+It is evidence that:  
+
 > **useful strategic commitments still consume finite force-generation capacity.**
+
 This is precisely why nominal assets and usable systems have to be distinguished.
 
 ---
 
 ## 21. 🔄 2023: the Integrated Review Refresh admits the world changed faster than expected
 
-Following the invasion of Ukraine, the government refreshed the 2021 Integrated Review.
-The House of Commons Library notes that the 2023 Refresh concluded that the transition toward a:
-> multipolar, fragmented and contested world
-had happened more quickly and definitively than anticipated.
-[House of Commons Library: *A brief guide to previous British defence reviews*](https://commonslibrary.parliament.uk/research-briefings/cbp-7313/)
-This is an excellent example of the kind of adaptation this cluster is interested in.
-An assumption changed.
-The strategic document changed with it.
-The remaining question is:
+Following the invasion of Ukraine, the government refreshed the 2021 Integrated Review.  
+
+The House of Commons Library notes that the 2023 Refresh concluded that the transition toward a:  
+
+> multipolar, fragmented and contested world  
+
+had happened more quickly and definitively than anticipated.  
+
+[House of Commons Library: *A brief guide to previous British defence reviews*](https://commonslibrary.parliament.uk/research-briefings/cbp-7313/)  
+
+This is an excellent example of the kind of adaptation this cluster is interested in.  
+
+An assumption changed.  
+
+The strategic document changed with it.  
+
+The remaining question is:  
+
 > **How quickly did the force-generation system underneath the document change too?**
 
 ---
 
 ## 22. 🏋️ 2024: concerns about training scale already exist
 
-Before the current £30 million controversy, training itself was already being debated.
-RUSI published criticism in 2024 arguing that an excessively bureaucratic safety regime was restricting realistic Army training at scale.
-The argument was controversial but relevant: insufficient realism in training could itself create operational risk.
-[RUSI: “A Bureaucratic Approach to Safety is Weakening the British Army’s Training”](https://www.rusi.org/explore-our-research/publications/commentary/bureaucratic-approach-safety-weakening-british-armys-training)
-The important point is not whether every RUSI recommendation should be adopted.
-It is that:
+Before the current £30 million controversy, training itself was already being debated.  
+
+RUSI published criticism in 2024 arguing that an excessively bureaucratic safety regime was restricting realistic Army training at scale.  
+
+The argument was controversial but relevant: insufficient realism in training could itself create operational risk.  
+
+[RUSI: “A Bureaucratic Approach to Safety is Weakening the British Army’s Training”](https://www.rusi.org/explore-our-research/publications/commentary/bureaucratic-approach-safety-weakening-british-armys-training)  
+
+The important point is not whether every RUSI recommendation should be adopted.  
+
+It is that:  
+
 > **the quality and scale of collective training were already subjects of professional concern before the September 2026 financial restriction.**
 
 ---
 
 ## 23. 🛡️ 2025: warfighting readiness becomes explicit policy
 
-The 2025 Strategic Defence Review is the immediate policy baseline for the current dispute.
-It describes a strategic environment involving:
+The 2025 Strategic Defence Review is the immediate policy baseline for the current dispute.  
+
+It describes a strategic environment involving:  
+
 - war in Europe;
 - Russian aggression;
 - nuclear risks;
 - cyber attack;
 - rapidly changing technology;
 - potentially high-intensity and prolonged conflict.
-Its central response is a move toward:
+
+Its central response is a move toward:  
+
 > **warfighting readiness.**
-The review also calls for a more integrated force and a NATO-first approach.
-[GOV.UK: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad)
-John Healey's statement introducing the review acknowledged directly that:
+
+The review also calls for a more integrated force and a NATO-first approach.  
+
+[GOV.UK: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad)  
+
+John Healey's statement introducing the review acknowledged directly that:  
+
 > for too long, the Army had been asked to do more with less.
-[GOV.UK: Strategic Defence Review oral statement](https://www.gov.uk/government/speeches/strategic-defence-review-oral-statement)
-This makes the present training problem especially important.
-The current government did not inherit a strategic framework which regarded training and readiness as marginal.
+
+[GOV.UK: Strategic Defence Review oral statement](https://www.gov.uk/government/speeches/strategic-defence-review-oral-statement)  
+
+This makes the present training problem especially important.  
+
+The current government did not inherit a strategic framework which regarded training and readiness as marginal.  
+
 Its own review identified them as central.
 
 ---
 
 ## 24. 🪖 What SDR 2025 actually says about training
 
-The review is particularly useful because it does not describe training as a peripheral administrative activity.
-It says training must become a **strategic and institutional priority** for restoring Army readiness at all levels.
-It also explicitly supports:
+The review is particularly useful because it does not describe training as a peripheral administrative activity.  
+
+It says training must become a **strategic and institutional priority** for restoring Army readiness at all levels.  
+
+It also explicitly supports:  
+
 - individual training;
 - collective training;
 - NATO-oriented training;
@@ -707,40 +852,61 @@ It also explicitly supports:
 - rapid incorporation of operational lessons;
 - integrated training;
 - live firing.
-The review advocates a common virtual training environment and argues that sufficiently capable synthetic systems may reduce reliance on live activity.
-But it also says live firing remains essential to assuring Army fighting capability.
-That nuance matters.
-The policy is not:
+
+The review advocates a common virtual training environment and argues that sufficiently capable synthetic systems may reduce reliance on live activity.  
+
+But it also says live firing remains essential to assuring Army fighting capability.  
+
+That nuance matters.  
+
+The policy is not:  
+
 > **old physical training versus clever digital training.**
-It is:
+
+It is:  
+
 > **use technology aggressively while retaining the live activity needed to validate real fighting capability.**
+
 The present dispute therefore turns partly upon where that boundary actually lies.
 
 ---
 
 ## 25. 🧠 The review also identifies the feedback problem
 
-SDR 2025 says training and education must adapt to:
+SDR 2025 says training and education must adapt to:  
+
 - operational lessons;
 - innovation;
 - research.
-It calls for policy changes intended to let those delivering training revise courses more rapidly.
-That is effectively a recognition of the problem Akam documents during Iraq and Afghanistan:
+
+It calls for policy changes intended to let those delivering training revise courses more rapidly.  
+
+That is effectively a recognition of the problem Akam documents during Iraq and Afghanistan:  
+
 > **the institution needs short feedback loops between operational experience and preparation.**
-There is therefore substantial continuity between:
-**Akam's description of healthy theatre-to-instructor feedback**
-and
-**the 2025 review's aspiration for adaptive training.**
+
+There is therefore substantial continuity between:  
+
+**Akam's description of healthy theatre-to-instructor feedback**  
+
+and  
+
+**the 2025 review's aspiration for adaptive training.**  
+
 The challenge is implementation.
 
 ---
 
 ## 26. 🧩 Integrated by design
 
-The review also argues that Defence must move beyond merely being joint toward being:
+The review also argues that Defence must move beyond merely being joint toward being:  
+
 > **integrated by design.**
-This matters for the Training Debrief because the current issue should not ultimately be treated as only an Army question.
-The longer planning problem concerns:
+
+This matters for the Training Debrief because the current issue should not ultimately be treated as only an Army question.  
+
+The longer planning problem concerns:  
+
 - Army;
 - Royal Navy;
 - Royal Air Force;
@@ -749,19 +915,27 @@ The longer planning problem concerns:
 - industry;
 - allies;
 - civilian expertise.
-The question becomes:
+
+The question becomes:  
+
 > **What functions should remain service-specific, what should genuinely be joint, and what should be integrated from the beginning rather than bolted together later?**
 
 ---
 
 ## 27. 💷 2026: strategic ambition meets affordability again
 
-The Defence Investment Plan attempted to translate the 2025 strategic framework into spending and programmes.
-Meanwhile, Parliament had already begun asking questions about training reductions.
-By September 2026, reporting emerged that the Army had been required to produce approximately £30 million in savings and that major collective-training activity was being reduced or reprioritised.
-This creates the current presenting contradiction:
+The Defence Investment Plan attempted to translate the 2025 strategic framework into spending and programmes.  
+
+Meanwhile, Parliament had already begun asking questions about training reductions.  
+
+By September 2026, reporting emerged that the Army had been required to produce approximately £30 million in savings and that major collective-training activity was being reduced or reprioritised.  
+
+This creates the current presenting contradiction:  
+
 > **Britain has recently declared that it must restore warfighting readiness and make training a strategic priority, while a comparatively small affordability problem has nevertheless reached collective Army training.**
-That does not prove the policy is incoherent.
+
+That does not prove the policy is incoherent.  
+
 It establishes the question the rest of this cluster must answer.
 
 ---
@@ -770,9 +944,8 @@ It establishes the question the rest of this cluster must answer.
 
 Several patterns are sufficiently plausible to investigate, but not yet sufficiently established to treat as final diagnoses.
 
----
+### 1. Strategic requirements change faster than institutions  
 
-### 1. Strategic requirements change faster than institutions
 Britain has repeatedly moved between:
 - continental deterrence;
 - expeditionary operations;
@@ -788,8 +961,6 @@ Each transition requires different mixes of:
 - infrastructure.
 Institutional adaptation therefore has to be continuous.
 
----
-
 ### 2. Operational pressure accelerates learning
 
 Iraq and Afghanistan show that:
@@ -801,16 +972,12 @@ This is positive evidence about military adaptability.
 It also raises an uncomfortable question:
 > **Does Britain sometimes require operational harm before preparedness becomes politically valuable enough to fund?**
 
----
-
 ### 3. Successful adaptation can itself become a future constraint
 
 Afghanistan-specific competence demonstrates that:
 > **being extremely good at yesterday's war does not guarantee preparedness for tomorrow's.**
 Expertise may need to be deliberately unlearned or recalibrated.
 Therefore training cannot be treated as a one-time investment.
-
----
 
 ### 4. Enabling systems are vulnerable to being mistaken for overhead
 
@@ -821,8 +988,6 @@ Training, estate, instructors, logistics, reserves and support functions may app
 - vehicles;
 - missiles.
 But platforms without enabling systems are nominal capability.
-
----
 
 ### 5. Smaller forces demand more from force generation, not necessarily less
 
@@ -835,8 +1000,6 @@ A smaller force asked to maintain high readiness may depend more heavily upon:
 - rapid regeneration;
 - allied integration.
 The sustainability of the system matters as much as headline strength.
-
----
 
 ### 6. Reviews repeatedly recognise many of these problems
 
@@ -852,8 +1015,6 @@ They repeatedly contain:
 - improved training.
 The harder question is:
 > **What survives implementation and the next affordability cycle?**
-
----
 
 ## ⚙️ The possible recurring loop
 
