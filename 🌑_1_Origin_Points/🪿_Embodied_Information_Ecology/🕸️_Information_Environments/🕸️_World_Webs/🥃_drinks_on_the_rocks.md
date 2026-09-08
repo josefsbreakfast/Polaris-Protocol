@@ -1,5 +1,5 @@
 # 🥃 Drinks on the Rocks  
-**First created:** 2026-04-24 | **Last updated:** 2026-09-06  
+**First created:** 2026-04-24 | **Last updated:** 2026-09-08  
 *Why recent US signalling is difficult to interpret from a UK perspective.*  
 *Tldr: we are extremely confused about what you are doing and why.*
 <!--I am /extremely/ close to putting reels of lyrics from Hamilton in this. Upon a serious note, this is just a little bit confusing in terms of signalling, to us. It's a bit unclear what the point is supposed to be.-->
@@ -467,21 +467,20 @@ If it becomes a hostage situation, I'm sure that the lawyers can probably find a
 ## 🌌 Constellations  
 🧭 ⚖️ 🧠 🥃 💸 — alliance signalling diagnostic; diplomatic miscalibration; burden-sharing externalities; invisible infrastructure  
 
----
+*Follow the evidence:*  
 
-## 🔖 Sources  
-
-- [Reuters: “Trump says he is reviewing US position on Falkland Islands”](https://www.reuters.com/world/americas/trump-says-reviewing-us-position-falkland-islands-2026-08-31/)  
-- [UK Government: “National Security Strategy 2025”](https://www.gov.uk/government/publications/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world-html)  
-- [UK Government: “Integrated Global Defence Network”](https://www.gov.uk/government/publications/permanent-joint-operating-bases-pjobs/fd)  
-- [UK Government: “KHM East Cove Port”](https://www.gov.uk/government/groups/qhm-east-cove-port)  
-- [NATO: “The North Atlantic Treaty”](https://www.nato.int/cps/en/natohq/official_texts_17120.htm)  
+- [📰: The Guardian: “Argentina says it will file criminal charges against energy company in Falklands row”](https://www.theguardian.com/uk-news/2026/sep/08/argentina-criminal-charges-navitas-petroleum-falkland-islands-drilling)  
+- [📰: Reuters: “Trump says he is reviewing US position on Falkland Islands”](https://www.reuters.com/world/americas/trump-says-reviewing-us-position-falkland-islands-2026-08-31/)  
+- [📑: UK Government: “National Security Strategy 2025”](https://www.gov.uk/government/publications/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world/national-security-strategy-2025-security-for-the-british-people-in-a-dangerous-world-html)  
+- [📑: UK Government: “Integrated Global Defence Network”](https://www.gov.uk/government/publications/permanent-joint-operating-bases-pjobs/fd)  
+- [📑: UK Government: “KHM East Cove Port”](https://www.gov.uk/government/groups/qhm-east-cove-port)  
+- [📑: NATO: “The North Atlantic Treaty”](https://www.nato.int/cps/en/natohq/official_texts_17120.htm)  
 - [Antarctic Treaty Secretariat: “The Antarctic Treaty”](https://www.ats.aq/e/antarctictreaty.html)  
-- [Antarctic Treaty Secretariat: “Environmental Protocol”](https://www.ats.aq/e/protocol.html)  
+- [📑: Antarctic Treaty Secretariat: “Environmental Protocol”](https://www.ats.aq/e/protocol.html)  
 - [UK Parliament: “Antarctica: Russia — HL4614”](https://questions-statements.parliament.uk/written-questions/detail/2024-05-13/HL4614/)  
-- [House of Commons Environmental Audit Committee: “The UK and the Antarctic Environment”](https://publications.parliament.uk/pa/cm5901/cmselect/cmenvaud/499/report.html)  
-- [UK Parliament: “Antarctic: Marine Protected Areas — 46092”](https://questions-statements.parliament.uk/written-questions/detail/2025-04-17/46092/)  
-- [Reuters: “Milei finds unity in pushback against Falkland Islands oil project”](https://www.reuters.com/business/energy/milei-finds-unity-pushback-against-falkland-islands-oil-project-2026-09-05/)  
+- [📑: House of Commons Environmental Audit Committee: “The UK and the Antarctic Environment”](https://publications.parliament.uk/pa/cm5901/cmselect/cmenvaud/499/report.html)  
+- [📑: UK Parliament: “Antarctic: Marine Protected Areas — 46092”](https://questions-statements.parliament.uk/written-questions/detail/2025-04-17/46092/)  
+- [📰: Reuters: “Milei finds unity in pushback against Falkland Islands oil project”](https://www.reuters.com/business/energy/milei-finds-unity-pushback-against-falkland-islands-oil-project-2026-09-05/)  
 
 ---
 
@@ -509,4 +508,4 @@ It examines how signalling between close allies can produce unintended friction 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-09-06_
+_Last updated: 2026-09-08_
