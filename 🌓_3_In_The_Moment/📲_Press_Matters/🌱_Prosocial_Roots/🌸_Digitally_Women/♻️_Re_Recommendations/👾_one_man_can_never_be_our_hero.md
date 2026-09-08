@@ -1,5 +1,5 @@
 # 👾 One Man Can Never Be Our Hero
-**First created:** 2026-09-06 | **Last updated:** 2026-09-06  
+**First created:** 2026-09-06 | **Last updated:** 2026-09-08  
 *What Keir Starmer’s record on violence against women and girls can teach us about the danger of making women’s safety dependent on the judgment of powerful individuals.*
 
 ---
@@ -87,7 +87,27 @@ This is why an essentially reactive model of protection becomes dangerous.
 
 If the operating principle is *maintain the relationship until the evidence becomes overwhelming*, the person possessing the most power may also possess the greatest capacity to prevent the evidence becoming overwhelming.
 
-The lesson from CSE should have travelled considerably further than CSE: **do not require vulnerable people to defeat the credibility advantages of powerful actors before protection becomes available.**
+The lesson from CSE should have travelled considerably further than CSE: **do not require vulnerable people to defeat the credibility advantages of powerful actors before protection becomes available.**  
+
+---
+
+## 🌹 Masculinities In Leftist Spaces  
+
+Firstly: conservative men are not magically exonerated, here. You can get that idea right out of your heads.  
+
+Nominally progressive spaces, however, have specific ways in which harmful expressions of masculinity, and violence rooted in fear of femininity, show up. The particular cognitive biases and interpersonal dynamics which obstruct harm prevention are also unique to the spaces in which that harm is found.  
+
+There are also errors of judgement which repeat across spaces. Predatory behaviour also tends to manifest most insidiously in individual perpetrators who have high social dynamism, and are able to "hide in plain sight". Understanding how that leads to cognitive blindness, or an inability to recognise danger in others' actions and behaviour, is important for preventing any future harms and reducing risk.  
+
+For an example of how we know that there was, somewhere in the Labour Party, a background behaviour of normalised instrumentation of women, one does not need to go to any contentious series of events, misogynistically driven coverage, or treatment of individual Labour MPs, Ministers, or members.  
+
+One can simply read the reflections of women present at the time, of the "Blair's Babes" photograph.  
+
+Ignore the tabloid headline for a moment (very obviously distracting), metaphorically punch a wall, and look at the actual recollections.  
+
+Women could not necessarily find the language for *why*, but they report having wanted the photograph to be one of that mass intake of women, not necessarily a photograph of 101 accessories to make an already powerful and well-connected man appear "progressive".  
+
+This is not about who said, "we could..."; this is about the environments in which we live, where women did not feel they could or should object to smiling for a man and his vanity.  
 
 ---
 
@@ -237,7 +257,7 @@ The problem begins when **the safety of people who bear a risk is made dependent
 
 No Prime Minister can acquire the embodied experience of having been socialised and persistently assessed as female simply by studying VAWG policy. Expertise helps. Listening helps. Survivor involvement helps. Institutional memory helps.
 
-None is a substitute for structures that continue working when individual judgment fails.
+None is a substitute for structures that continue working when individual judgement fails.
 
 This matters particularly in 2026, as authoritarian politics and organised far-right movements create increasingly visible threats across borders. A protection architecture built around the expectation that the responsible man at the top will eventually recognise that things have gone too far is a poor architecture for an environment in which powerful men may themselves be producing, enabling or normalising the danger.
 
@@ -294,6 +314,7 @@ Moreover, a man who consents to grasp at Jewish femininity to demonise Palestini
 As much as I am still deeply frustrated with Jewish masculinities, I will gladly take the awkward growing of more emancipatory possibilities where they so exist, even where they annoy me, even when I disagree on so much, even where we are arguing like chickens, because this is at least a place where honesty may actually grow.  
 
 Let us turn a page, and look for more sustainable routes to equity and justice.  
+
 > “From the ashes, we will rise.”
 >
 > - Naji al-Ali
@@ -325,7 +346,12 @@ The evidential rule throughout is straightforward: **do not convert leadership r
 
 ## 🌌 Constellations
 
-👾 ♻️ 🕯️ ⚖️ 🧿 — recurring recommendations; VAWG governance; survivor credibility; powerful actors; institutional protection; political judgment.  
+👾 ♻️ 🕯️ ⚖️ 🧿 — recurring recommendations; VAWG governance; survivor credibility; powerful actors; institutional protection; political judgement.  
+
+*Follow the evidence:*  
+
+- [📰: Daily Mail: "Blair's Babes? We looked more like his sheep when he muscled in on OUR photo, says Harriet Harman"](https://www.dailymail.com/news/article-13753639/Blairs-Babes-looked-like-sheep-muscled-photo-says-Harriet-Harman.html)  
+- [📰: The Telegraph: "‘Blair Babes’ did not want PM in the photo, Harriet Harman reveals"](https://www.telegraph.co.uk/politics/2024/08/18/blair-babes-not-want-tony-blair-in-photo-harriet-harman/)  
 
 ---  
 
@@ -347,4 +373,4 @@ violence against women and girls, survivor protection, keir starmer, institution
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-06_
+_Last updated: 2026-09-08_
