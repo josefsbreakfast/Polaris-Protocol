@@ -1,5 +1,5 @@
 # 🕹️ Cyberfeminism Before the Algorithm
-**First created:** 2026-09-05 | **Last updated:** 2026-09-07  
+**First created:** 2026-09-05 | **Last updated:** 2026-09-08  
 *Before feminist technology politics became dominated by platform harms and algorithmic safety, it was already asking what bodies, identities, relationships and worlds technology might make possible.*
 
 ---
@@ -164,7 +164,7 @@ This is a recurring problem anywhere people must become institutionally legible 
 - access;
 - permission.
 
-See the wider Polaris work on [Observation Becomes Intervention](../../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/) for the general feedback problem.
+See the wider Polaris work on [♻️🧿 Observation Becomes Intervention](../../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/) for the general feedback problem.
 
 ---
 
@@ -1295,4 +1295,4 @@ It restores the longer feminist history of technological politics before contemp
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-07_
+_Last updated: 2026-09-08_
