@@ -309,7 +309,7 @@ It is that **the Army demonstrated substantial capacity to learn when operationa
 
 ---
 
-## 🥾 OPTAG  
+### 🥾 OPTAG  
 
 Akam describes the reform of the Operational Training and Advisory Group.  
 
@@ -335,7 +335,7 @@ That is healthy organisational learning.
 
 ---
 
-## 🏚️ Representative Infrastructure  
+### 🏚️ Representative Infrastructure  
 
 Akam also describes the move away from inadequate approximations toward more realistic training environments.  
 
@@ -360,7 +360,7 @@ The land has to permit the right kind of practice.
 
 ---
 
-## 🛸 BATUS
+### 🛸 BATUS
 
 Training at BATUS also evolved.  
 
