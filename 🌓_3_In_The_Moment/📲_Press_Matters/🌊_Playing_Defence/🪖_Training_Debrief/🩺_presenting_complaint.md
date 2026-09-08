@@ -1,15 +1,14 @@
-# 🩺 Presenting Complaint
-**First created:** 2026-09-07 | **Last updated:** 2026-09-07
-*The immediate Army collective-training dispute: what is reported, what remains uncertain, and why a small saving raises a larger readiness question.*
-
+# 🩺 Presenting Complaint  
+**First created:** 2026-09-07 | **Last updated:** 2026-09-08  
+*The immediate Army collective-training dispute: what is reported, what remains uncertain, and why a small saving raises a larger readiness question.*  
 
 ---
 
-## 🩺 Presenting complaint
+## 🩺 Presenting Complaint
 
-In September 2026, reporting indicated that the British Army had been required to find approximately **£30 million in savings**, with major collective-training activity involving UK-based units among the expenditure being curtailed.
+In September 2026, reporting indicated that the British Army had been required to find approximately **£30 million in savings**, with major collective-training activity involving UK-based units among the expenditure being curtailed.  
 
-*The Times* reported restrictions affecting major exercises involving more than approximately 90 personnel, while units preparing for deployment, held at readiness or performing rapid-response functions would continue training. The Royal Navy and Royal Air Force were also reported to be making reductions, but on a smaller or differently structured basis.
+*The Times* reported restrictions affecting major exercises involving more than approximately 90 personnel, while units preparing for deployment, held at readiness or performing rapid-response functions would continue training. The Royal Navy and Royal Air Force were also reported to be making reductions, but on a smaller or differently structured basis.  
 
 - [The Times: “British Army ordered to suspend major war games to save money”](https://www.thetimes.com/uk/defence/article/british-army-training-suspended-money-d7tzxljrl)
 
@@ -19,7 +18,7 @@ An Army spokesperson told Forces News that training was continuing while activit
 
 > readiness, deployability and operational effectiveness.
 
-The Army also pointed to a **£2 billion, 15-year programme to transform training**, including greater use of AI, analytics and virtual environments. Forces News separately reported increased emphasis on counter-drone warfare and lessons derived from Ukraine.
+The Army also pointed to a **£2 billion, 15-year programme to transform training**, including greater use of AI, analytics and virtual environments. Forces News separately reported increased emphasis on counter-drone warfare and lessons derived from Ukraine.  
 
 - [Forces News: “Army shifts training focus in order to concentrate on counter-drone warfare”](https://www.forcesnews.com/services/army/army-shifts-training-focus-order-concentrate-counter-drone-warfare)
 
@@ -45,7 +44,7 @@ The more useful question is:
 
 ---
 
-## 🪖 Why this is not merely a £30 million story
+## 🪖 This Is Not Only About The £30 Million Story  
 
 Thirty million pounds is simultaneously:
 
@@ -86,7 +85,7 @@ Absent events are difficult to count.
 
 ---
 
-## 🧠 Individual competence is not collective competence
+## 🧠 Individual Competence Is Not Collective Competence  
 
 An Army is not simply a collection of individually trained people carrying functioning equipment.
 
@@ -135,7 +134,7 @@ That requires evidence rather than assumption.
 
 ---
 
-## 📚 This complaint has a history
+## 📚 This Complaint Has A Long History  
 
 The current decision does not arrive in an institution with no memory of training failure.
 
@@ -170,11 +169,11 @@ The immediate training dispute should therefore be considered against the longer
 
 That history is examined separately in:
 
-`📋_history_of_presenting_complaint.md`
+[📋 History of Presenting Complaint](./📋_history_of_presenting_complaint.md)  
 
 ---
 
-## 💷 Flexible does not mean expendable
+## 💷 Flexible Does Not Mean Expendable  
 
 One possible structural problem requires investigation.
 
@@ -215,7 +214,7 @@ It establishes that the question deserves investigation.
 
 ---
 
-## ⚠️ What is currently established
+## ⚠️ What Is Currently Established  
 
 Public reporting presently supports a relatively narrow set of propositions.
 
@@ -233,7 +232,7 @@ What the current public record does **not yet establish clearly** is the complet
 
 ---
 
-## 🔬 What remains unknown
+## 🔬 What Remains Unknown  
 
 At presentation, important questions remain unresolved:
 
@@ -260,7 +259,7 @@ They should not be answered by political instinct.
 
 ---
 
-## 🧠 Do not diagnose from the doorway
+## 🧠 Do Nnot Diagnose From The Doorway
 
 Several explanations remain possible.
 
@@ -289,7 +288,7 @@ Those propositions require evidence.
 
 ---
 
-## 🩸 Why the threshold for evidence should nevertheless be high
+## 🩸 Why The Threshold For Evidence Should Nevertheless Be High
 
 The burden of poor preparation is not distributed evenly through the Defence system.
 
@@ -322,7 +321,7 @@ But civilian control creates responsibility.
 
 ---
 
-## 🔥 The wider presenting problem
+## 🔥 The Wider Presenting Problem
 
 The immediate symptom is a training reduction.
 
@@ -368,11 +367,13 @@ Only after that can spending figures meaningfully tell us whether the system is 
 
 ---
 
-## 🧿 Presenting assessment
+## 🧿 Presenting Assessment
 
 At this stage, the narrowest defensible formulation is:
 
-> **A wider Defence affordability problem has been translated into a comparatively small but operationally sensitive reduction or reprioritisation of British Army collective training. Public reporting and the Army's own explanation do not yet establish who selected that trade-off, what alternatives were considered, precisely what capability is affected, how effectively modernised training can mitigate the loss, or who formally accepted the resulting readiness risk.**
+> **A wider Defence affordability problem has been translated into a comparatively small but operationally sensitive reduction or reprioritisation of British Army collective training.  
+>   
+> Public reporting and the Army's own explanation do not yet establish who selected that trade-off, what alternatives were considered, precisely what capability is affected, how effectively modernised training can mitigate the loss, or who formally accepted the resulting readiness risk.**
 
 That is enough to investigate.
 
@@ -380,7 +381,7 @@ It is not enough to convict anybody.
 
 ---
 
-## 🛒 The grocery list
+## 🛒 The Grocery List  
 
 Before buying another magic bean, announcing another transformational programme or surviving another two-day Westminster scandal, establish:
 
@@ -400,42 +401,20 @@ Before buying another magic bean, announcing another transformational programme 
 
 **Mother is doing the grocery list.**
 
-Everyone needs to focus for ten minutes.
-
----
-
----
-
----
-
-## 📡 Next
-
-Continue to:
-
-- `📋_history_of_presenting_complaint.md` — how Britain arrived here;
-- `🔬_tests_and_investigations.md` — what must be established;
-- `🧠_assessment_and_differential.md` — competing systemic explanations;
-- `💷_thirty_million_pounds.md` — reconstruction of the current decision;
-- `🪖_what_training_is_for.md` — evidence on collective competence and preparation;
-- `⚙️_the_feedback_machine.md` — how operational reality should travel through Defence;
-- `🔭_what_does_ready_actually_look_like.md` — functional definition of readiness.
-
----
-
-## 📚 Initial sources
-
-- Simon Akam, *The Changing of the Guard: The British Army Since 9/11*.
-- [The Times: “British Army ordered to suspend major war games to save money”](https://www.thetimes.com/uk/defence/article/british-army-training-suspended-money-d7tzxljrl).
-- [Forces News: “Army shifts training focus in order to concentrate on counter-drone warfare”](https://www.forcesnews.com/services/army/army-shifts-training-focus-order-concentrate-counter-drone-warfare).
-- [Forces News: “Defence Secretary launches AI battle lab to help British Army prepare for modern warfare”](https://www.forcesnews.com/services/army/defence-secretary-launches-ai-battle-lab-help-british-army-prepare-modern-warfare).
-- [GOV.UK: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad).
-
-Further evidential material should be drawn through the cluster's `/data/` layer rather than silently added to this node.
+Everyone needs to focus for ten minutes.  
 
 ---
 
 ## 🌌 Constellations
-🪖 ⚙️ 💷 🩺 🔬 🩸 — collective training; readiness; force generation; Defence affordability; institutional learning; occupational risk.
+🪖 ⚙️ 💷 🩺 🔬 🩸 — collective training; readiness; force generation; Defence affordability; institutional learning; occupational risk.  
+
+*Follow the evidence:*  
+
+- Simon Akam, *The Changing of the Guard: The British Army Since 9/11*.  
+- [The Times: “British Army ordered to suspend major war games to save money”](https://www.thetimes.com/uk/defence/article/british-army-training-suspended-money-d7tzxljrl).  
+- [Forces News: “Army shifts training focus in order to concentrate on counter-drone warfare”](https://www.forcesnews.com/services/army/army-shifts-training-focus-order-concentrate-counter-drone-warfare).  
+- [Forces News: “Defence Secretary launches AI battle lab to help British Army prepare for modern warfare”](https://www.forcesnews.com/services/army/defence-secretary-launches-ai-battle-lab-help-british-army-prepare-modern-warfare).  
+- [GOV.UK: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad).  
 
 ---
 
@@ -451,10 +430,13 @@ It records the immediate September 2026 complaint and separates the reported tra
 
 > 📡 Cross-references:
 >
-> - [🪖 What Training Is For](./🪖_what_training_is_for.md) — *collective competence and the function of training*
-> - [⚙️ The Feedback Machine](./⚙️_the_feedback_machine.md) — *institutional learning and signal transmission*
-> - [🔭 What Does Ready Actually Look Like](./🔭_what_does_ready_actually_look_like.md) — *functional readiness outputs*
-> - [💷 Thirty Million Pounds](./💷_thirty_million_pounds.md) — *the immediate affordability decision*
+> - [📋 History of Presenting Complaint](📋_history_of_presenting_complaint.md) — *how Britain arrived here*  
+> - [🔬 Tests And Investigations](🔬_tests_and_investigations.md) — *what must be established*  
+> - [🧠 Assessment And Differential](🧠_assessment_and_differential.md) — *competing systemic explanations*  
+> - [💷 Thirty Million Pounds](./💷_thirty_million_pounds.md) — *the immediate affordability decision*  
+> - [🪖 What Training Is For](./🪖_what_training_is_for.md) — *collective competence and the function of training*  
+> - [⚙️ The Feedback Machine](./⚙️_the_feedback_machine.md) — *institutional learning and signal transmission*  
+> - [🔭 What Does Ready Actually Look Like](./🔭_what_does_ready_actually_look_like.md) — *functional readiness outputs*  
 >  
 > 🏮 Return To:
 >
@@ -466,4 +448,4 @@ It records the immediate September 2026 complaint and separates the reported tra
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-07_
+_Last updated: 2026-09-08_
