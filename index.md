@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-09 17:33:24 UTC_
+_Generated on 2026-09-09 17:34:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3602,7 +3602,6 @@ _Generated on 2026-09-09 17:33:24 UTC_
         - [`🧬_the_attack_surface_has_more_than_one_strand.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🧬_the_attack_surface_has_more_than_one_strand.md)
         - [`🪪_clearance_is_not_a_lanyard.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🪪_clearance_is_not_a_lanyard.md)
       - [**🏝️_Chagos_Complexities/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/)
-        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/notes.txt)
         - [`🌊_neighbours_to_indian_ocean.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/🌊_neighbours_to_indian_ocean.md)
         - [`🏝️_chagos_vs_diego_garcia_naming_frame.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/🏝️_chagos_vs_diego_garcia_naming_frame.md)
         - [`📰_past_press_pressure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/📰_past_press_pressure.md)
@@ -3625,6 +3624,8 @@ _Generated on 2026-09-09 17:33:24 UTC_
         - [`🧿_safe_detail_no_fog.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🧿_safe_detail_no_fog.md)
         - [`🪖_morale_for_islanders.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🪖_morale_for_islanders.md)
       - [**🦑_America_Leave_Her_Alone/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/)
+        - [**🏝️_Chagos_Complexities/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🏝️_Chagos_Complexities/)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🏝️_Chagos_Complexities/notes.txt)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/notes.txt)
       - [**🪖_Training_Debrief/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/)
         - [**data/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/)
