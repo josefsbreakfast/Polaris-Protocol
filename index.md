@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-09 17:19:02 UTC_
+_Generated on 2026-09-09 17:33:24 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3624,6 +3624,8 @@ _Generated on 2026-09-09 17:19:02 UTC_
         - [`🧮_krill_not_doris_media_edition.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🧮_krill_not_doris_media_edition.md)
         - [`🧿_safe_detail_no_fog.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🧿_safe_detail_no_fog.md)
         - [`🪖_morale_for_islanders.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🪖_morale_for_islanders.md)
+      - [**🦑_America_Leave_Her_Alone/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/notes.txt)
       - [**🪖_Training_Debrief/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/)
         - [**data/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/)
           - [`current_reporting.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/current_reporting.md)
