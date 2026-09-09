@@ -1,8 +1,6 @@
-# 🔥 Pussyhat Backlash — 2017–2018
-
-**First created:** 2025-11-12 | **Last updated:** 2026-09-09
-
-*The Women's March, MeToo disclosure cascade, and the heterogeneous backlash that formed around changing expectations of gender, power, speech, reputation, and accountability.*
+# 🔥 Pussyhat Backlash — 2017–2018  
+**First created:** 2025-11-12 | **Last updated:** 2026-09-09  
+*The Women's March, MeToo disclosure cascade, and the heterogeneous backlash that formed around changing expectations of gender, power, speech, reputation, and accountability.*  
 
 ---
 
@@ -241,14 +239,14 @@ It provides the hinge between the conditions mapped in **🩸 The Long Fuse** an
 
 ### 🏮 Return To:
 
-- [🚀 Timelines](./README.md) — 1up
-- [👾 Debugging The Men](../README.md) — 2up
-- [🍿 Historical Democratic Actions](../../README.md) — 3up
-- [🔊 Turn The Public Up](../../../README.md) — 4up
-- [📲 Press Matters](../../../../README.md) — 5up
-- [🌓 In The Moment](../../../../../README.md) — 6up
-- [Polaris](../../../../../../README.md) — root
+- [🚀 Timelines](./README.md) — *1up*
+- [👾 Debugging The Men](../README.md) — *2up*
+- [🍿 Historical Democratic Actions](../../README.md) — *3up*
+- [🔊 Turn The Public Up](../../../README.md) — *4up*
+- [📲 Press Matters](../../../../README.md) — *5up*
+- [🌓 In The Moment](../../../../../README.md) — *6up*
+- [Polaris](../../../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated:_ 2026-09-09
+_Last updated: 2026-09-09_
