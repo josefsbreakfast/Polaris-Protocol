@@ -1,5 +1,5 @@
 # 🥃 Drinks on the Rocks  
-**First created:** 2026-04-24 | **Last updated:** 2026-09-08  
+**First created:** 2026-04-24 | **Last updated:** 2026-09-09  
 *Why recent US signalling is difficult to interpret from a UK perspective.*  
 *Tldr: we are extremely confused about what you are doing and why.*
 <!--I am /extremely/ close to putting reels of lyrics from Hamilton in this. Upon a serious note, this is just a little bit confusing in terms of signalling, to us. It's a bit unclear what the point is supposed to be.-->
@@ -496,7 +496,7 @@ It examines how signalling between close allies can produce unintended friction 
 
 > 📡 Cross-references:
 > 
-> - [🇫🇰 Falkland Islands](../../🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/🇫🇰_falkland_islands.md) — *pick up your postcard - UK politicians only*
+> - [🇫🇰 Falkland Islands](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📼_Politicians_Gone_Wild/🛶_Flag_It_Yourself/📍_Postcard_List/🇫🇰_falkland_islands.md) — *pick up your postcard - UK politicians only*
 >
 > 🏮 Return To:
 >
@@ -508,4 +508,4 @@ It examines how signalling between close allies can produce unintended friction 
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-09-08_
+_Last updated: 2026-09-09_
