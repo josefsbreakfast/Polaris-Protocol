@@ -694,14 +694,17 @@ I feel far safer behind the Jewish men standing up for international law, than a
 - [🇬🇧: Ed Miliband MP, Foreign Secretary, UK (statement, non-Hansard)](https://vm.tiktok.com/ZN82XeGa9/)
 - [🇬🇧: Alex Sobel MP: “Yesterday's announcement banning trade with illegal Israeli settlements is a significant and welcome step forward, and one I have long advocated for. Yet there is much more to do.”](https://vm.tiktok.com/ZN82XD89d/)
 - [🏴󠁧󠁢󠁳󠁣󠁴󠁿 (🇬🇧): Humza Yousaf, Former First Minister: “I welcome the UK Foreign Secretary's statement on illegal Israeli settlements as a positive step in the right direction. Banning goods from settlements, and some restrictions on services is good but we need the UK Government to go further.”](https://vm.tiktok.com/ZN82Xr6B4/)
-- [📲: Naked Politics:”Reactions to the U.K. committing to sanctions on the illegal Israeli settlements in The West Bank.”](https://vm.tiktok.com/ZN82XbQTt/)
+- [🇬🇧: PoliticsJOE: “Landmark intervention by the PM”](https://vm.tiktok.com/ZN82X7Qsu/)  
+- [📲: Naked Politics:”Reactions to the U.K. committing to sanctions on the illegal Israeli settlements in The West Bank.”]([https://vm.tiktok.com/ZN82XbQTt/)
 - [📹: The Daily T, with Camilla and Tim (from The Telegraph): “I'm an outlier at The Telegraph with my views on Israel”](https://vm.tiktok.com/ZN82Xm654/)  
 - [📹: BBC Radio 4: “Emily Thornberry, Labour Chair of the Foreign Affairs Select Committee, explains why the government is planning to ban goods and services from Israeli settlements in the illegally occupied West Bank.”](https://vm.tiktok.com/ZN82X8SDW/)  
 - [📹: Alexander Dragonetti, speaking to Ed Miliband: “Why has the UK banned trade with Israeli settlements and accused settlers of ‘ethnic cleansing’?”](https://vm.tiktok.com/ZN82X8SDW/)  
 - [📰: Times of Israel: “Failing to act in the West Bank or in the West, Israel brought UK’s sanctions upon itself”](https://www.timesofisrael.com/failing-to-act-in-the-west-bank-or-in-the-west-israel-brought-uks-flawed-sanctions-upon-itself/) – *even marked as “analysis”, the strength of the headline can be compared to own-country media in the diaspora*  
 - [📰: Times of Israel: “As settler violence surges, some ask whether Israel can’t crack down, or simply won’t”](https://www.timesofisrael.com/as-settler-violence-surges-some-ask-whether-israel-cant-crack-down-or-simply-wont/)
 - [📰: Haaretz: “Scope of U.K. Settlement Trade Ban Will Depend on Next Israeli Government, Senior British Source Says”](https://www.haaretz.com/world-news/europe/2026-09-09/ty-article/.premium/uk-settlement-ban-scope-depends-on-next-israeli-govts-actions-source-says/000001a0-8614-dd7e-abb2-9f3d2f1c0000) – *picking apart the technicalities and how the risk matrix is judged as the UK recognises the ICJ 2024 judgement on the legality of the occupation*
-- [📰: Haaretz: “Israel, Welcome to the Sanctions Era: U.K. Heralds New Reality That Won't End With Netanyahu”](https://www.haaretz.com/israel-news/israel-security/2026-09-09/ty-article/.premium/u-k-heralds-new-reality-that-wont-end-with-netanyahu/000001a0-82c4-d3bd-adf3-92e5b1ba0000)  
+- [📰: Haaretz: “Israel, Welcome to the Sanctions Era: U.K. Heralds New Reality That Won't End With Netanyahu”](https://www.haaretz.com/israel-news/israel-security/2026-09-09/ty-article/.premium/u-k-heralds-new-reality-that-wont-end-with-netanyahu/000001a0-82c4-d3bd-adf3-92e5b1ba0000)
+- [📹: Jewish News: “putting British Jewish lives at risk? We sat down with Foreign Secretary Ed Miliband after sanctions imposed oners our questians Israeli settlements and asked him…”](https://vm.tiktok.com/ZN82XanHS/) – *”…Are you putting Jewish lives at risk by doing this? And after speaking to the JLC, Board of Deputies and Chief Rabbi among others, why did you ignore their advice?”*
+
 
 --- 
 
