@@ -699,7 +699,7 @@ Several were asked to stop treating penguins as constitutional witnesses.
 
 > 📡 Cross-references:
 >
-> - [🥃 Drinks on the Rocks](../../../../../🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🪨🐧_Off_The_Rockhoppers/🥃_drinks_on_the_rocks.md) — *US signalling and alliance burden-sharing analysis*
+> - [🥃 Drinks on the Rocks](../../../../../../🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🪨🐧_Off_The_Rockhoppers/🥃_drinks_on_the_rocks.md) — *US signalling and alliance burden-sharing analysis*
 >
 > 🏮 Return To:
 >
