@@ -1,5 +1,5 @@
 # 🇫🇰 Falkland Islands  
-**First created:** 2026-06-04 | **Last updated:** 2026-09-08  
+**First created:** 2026-06-04 | **Last updated:** 2026-09-09  
 *Satirical postcard stop for contestants who thought “the Falklands” meant one war, one flag, one argument, and done.*  
 
 ---  
@@ -699,7 +699,7 @@ Several were asked to stop treating penguins as constitutional witnesses.
 
 > 📡 Cross-references:
 >
-> - [🥃 Drinks on the Rocks](../../../../🕸️_Information_Environments/🕸️_World_Webs/🥃_drinks_on_the_rocks.md) — *US signalling and alliance burden-sharing analysis*
+> - [🥃 Drinks on the Rocks](../../../../../🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🪨🐧_Off_The_Rockhoppers/🥃_drinks_on_the_rocks.md) — *US signalling and alliance burden-sharing analysis*
 >
 > 🏮 Return To:
 >
@@ -713,4 +713,4 @@ Several were asked to stop treating penguins as constitutional witnesses.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-08_
+_Last updated: 2026-09-09_
