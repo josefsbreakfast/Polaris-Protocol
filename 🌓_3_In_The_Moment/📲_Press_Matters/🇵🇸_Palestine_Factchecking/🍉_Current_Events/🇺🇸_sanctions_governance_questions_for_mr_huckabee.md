@@ -567,11 +567,9 @@ Evidence capable of strengthening the financial-crime concern would include:
 -   false geographic-origin declarations;
 -   beneficial-ownership concealment;
 -   suspicious charitable pass-through structures;
--   criminal or civil findings involving settlement-finance
-    intermediaries;
+-   criminal or civil findings involving settlement-finance intermediaries;
 -   SAR-derived evidence released lawfully by competent authorities;
--   documented overlap between known illicit-finance networks and
-    settlement-finance counterparties.
+-   documented overlap between known illicit-finance networks and settlement-finance counterparties.
 
 Until then, keep the categories separate.
 
@@ -584,11 +582,9 @@ This node does not claim:
 -   that Jews control finance;
 -   that Zionists operate a single coordinated financial network;
 -   that every Israeli or settlement-linked transaction is suspicious;
--   that charities working in Israel or the occupied Palestinian
-    territory are presumptively criminal;
+-   that charities working in Israel or the occupied Palestinian territory are presumptively criminal;
 -   that Epstein's money financed settlements;
--   that Trump administration officials are personally profiting from
-    settlement activity;
+-   that Trump administration officials are personally profiting from settlement activity;
 -   that Florida law has no potential consequences for British entities;
 -   that the September measures will have no economic effect.
 
@@ -622,7 +618,11 @@ If the concern is that coordinated allied action could make settlement finance h
 
 That would at least we could discuss you actual concerns, then.  
 
-Finally, quite frankly, I am reticent to take advice about the conduct and dignity of a Jewish man from, respectfully, an administration who championed a "Board of Peace", which has remained incapable of getting anaesthesia for children undergoing traumatic amputation as a result of aerial payload and UXO, despite the fact the only physical barriers are the border crossing and the armed occupation soldiers. The occupation is illegal under international law; if this is what you are *really* seeking to challenge, say so. You need not attack a Jewish man's ability to do his work as an elected representative and, by extension of your remarks, undermine rhetorically his ability to act as a leader within his wider community.  
+Finally, quite frankly, I am reticent to take advice about the conduct and dignity of a Jewish man from, respectfully, an administration who championed a "Board of Peace" which has remained incapable of getting anaesthesia for children undergoing traumatic amputation as a result of aerial payload and UXO, despite the fact the only physical barriers are the border crossing and the armed occupation soldiers.  
+
+The occupation is illegal under international law; if this is what you are *really* seeking to challenge, say so.  
+
+You need not attack a Jewish man's ability to do his work as an elected representative and, by extension of your remarks, undermine rhetorically his ability to act as a leader within his wider community.  
 
 I feel far safer behind the Jewish men standing up for international law, than an Ambassador who does not have effective enough staffing around him, that he neglects to come prepared on the sanctions law he references in interview.  
 
