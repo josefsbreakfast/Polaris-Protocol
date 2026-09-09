@@ -1,8 +1,6 @@
-# 🔮 The Post-Legitimacy Landscape — 2026–2030
-
-**First created:** 2025-11-13 | **Last updated:** 2026-09-09
-
-*Scenario work for what may follow when institutional credibility becomes more conditional, information authority fragments, and publics and institutions adapt to repeated legitimacy shocks.*
+# 🔮 The Post-Legitimacy Landscape — 2026–2030  
+**First created:** 2025-11-13 | **Last updated:** 2026-09-09  
+*Scenario work for what may follow when institutional credibility becomes more conditional, information authority fragments, and publics and institutions adapt to repeated legitimacy shocks.*  
 
 ---
 
@@ -290,9 +288,9 @@ It maps plausible trajectories from the legitimacy pressures described elsewhere
 
 > 📡 Cross-references:
 >
-> - [🌪️ The Legitimacy Crisis — 2023–2025](./🌪️_the_legitimacy_crisis_2023_2025.md)
-> - [🐉 Societal Responses](../🐉_Societal_Responses/README.md)
-> - [♻️ Stuck Cybernetics](../♻️_Stuck_Cybernetics/README.md)
+> - [🌪️ The Legitimacy Crisis — 2023–2025](./🌪️_the_legitimacy_crisis_2023_2025.md)  
+> - [🐉 Societal Responses](../🐉_Societal_Responses/README.md)  
+> - [♻️ Stuck Cybernetics](../♻️_Stuck_Cybernetics/README.md)  
 
 ### 🏮 Return To:
 
@@ -306,4 +304,4 @@ It maps plausible trajectories from the legitimacy pressures described elsewhere
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated:_ 2026-09-09
+_Last updated: 2026-09-09_
