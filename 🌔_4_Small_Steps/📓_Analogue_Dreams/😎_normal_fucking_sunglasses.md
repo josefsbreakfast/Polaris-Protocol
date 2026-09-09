@@ -1,5 +1,5 @@
 # 😎 Normal Fucking Sunglasses
-**First created:** 2026-08-18 | **Last updated:** 2026-08-18  
+**First created:** 2026-08-18 | **Last updated:** 2026-09-09  
 *Sometimes the privacy feature is that the object does not collect the data in the first place.*
 
 ---
@@ -546,6 +546,10 @@ analogue technology, privacy, surveillance, data minimisation, ambient computing
 
 *Normal Fucking Sunglasses* is a living node of the **Polaris Protocol**. It uses a deliberately ordinary object to examine data minimisation, surveillance saturation, analogue capability and the possibility of designing information systems around minimum necessary observation rather than maximum extractive capacity.
 
+> 📡 Cross-references:
+>
+> – [🧿 The Visibility Triangle](../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🧿_the_visibility_triangle.md) – *uses Meta glasses as part of a worked example of how surveillance can layer, and layer across the decisions trees of actual human beings*  
+>
 > 🏮 Return To:
 >
 > - [📓 Analogue Dreams](./README.md) — *1up*
@@ -554,4 +558,4 @@ analogue technology, privacy, surveillance, data minimisation, ambient computing
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-18_
+_Last updated: 2026-09-09_
