@@ -1466,8 +1466,12 @@ information ecology, surveillance capitalism, platform governance, content moder
 
 ## 🏮 Footer
 
-*The Visibility Triangle* is a living node of the **Polaris Protocol**. It provides a layered model for interpreting how information is encountered, discovered, routed, observed, and governed without collapsing telemetry into readership, moderation into safety, privacy into invisibility, or inference into attribution. It also develops a future-facing control-point approach: map the communication chain first, then decide where responsibility and proportionate intervention can actually work.
+*🧿 The Visibility Triangle* is a living node of the **Polaris Protocol**. It provides a layered model for interpreting how information is encountered, discovered, routed, observed, and governed without collapsing telemetry into readership, moderation into safety, privacy into invisibility, or inference into attribution. It also develops a future-facing control-point approach: map the communication chain first, then decide where responsibility and proportionate intervention can actually work.
 
+> 📡 Cross-references:
+>
+> - [😎 Normal Fucking Sunglasses](../../../🌔_4_Small_Steps/📓_Analogue_Dreams/😎_normal_fucking_sunglasses.md) – *some normal fucking sunglasses*  
+>  
 > 🏮 Return To:
 >
 > - [♻️🕸️ The Feedback Environment](./README.md) — *1up*
