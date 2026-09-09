@@ -1,8 +1,6 @@
-# 🌪️ The Legitimacy Crisis — 2023–2025
-
-**First created:** 2025-11-12 | **Last updated:** 2026-09-09
-
-*How accumulated scandal, austerity, public-service strain, political instability, fragmented media, and repeated institutional failure made credibility increasingly conditional for parts of the public.*
+# 🌪️ The Legitimacy Crisis — 2023–2025  
+**First created:** 2025-11-12 | **Last updated:** 2026-09-09  
+*How accumulated scandal, austerity, public-service strain, political instability, fragmented media, and repeated institutional failure made credibility increasingly conditional for parts of the public.*  
 
 ---
 
@@ -290,21 +288,21 @@ It describes a period in which accumulated failures made institutional credibili
 
 > 📡 Cross-references:
 >
-> - [🩻 The Structural Revelation — 2018–2022](./🩻_the_structural_revelation_2018_2022.md)
-> - [🔮 The Post-Legitimacy Landscape — 2026–2030](./🔮_post_legitimacy_landscape_2026_2030.md)
-> - [🐉 Societal Responses](../🐉_Societal_Responses/README.md)
-> - [♻️ Stuck Cybernetics](../♻️_Stuck_Cybernetics/README.md)
+> - [🩻 The Structural Revelation — 2018–2022](./🩻_the_structural_revelation_2018_2022.md)  
+> - [🔮 The Post-Legitimacy Landscape — 2026–2030](./🔮_post_legitimacy_landscape_2026_2030.md)  
+> - [🐉 Societal Responses](../🐉_Societal_Responses/README.md)  
+> - [♻️ Stuck Cybernetics](../♻️_Stuck_Cybernetics/README.md)  
 
 ### 🏮 Return To:
 
-- [🚀 Timelines](./README.md) — 1up
-- [👾 Debugging The Men](../README.md) — 2up
-- [🍿 Historical Democratic Actions](../../README.md) — 3up
-- [🔊 Turn The Public Up](../../../README.md) — 4up
-- [📲 Press Matters](../../../../README.md) — 5up
-- [🌓 In The Moment](../../../../../README.md) — 6up
-- [Polaris](../../../../../../README.md) — root
+- [🚀 Timelines](./README.md) — *1up*  
+- [👾 Debugging The Men](../README.md) — *2up*  
+- [🍿 Historical Democratic Actions](../../README.md) — *3up*  
+- [🔊 Turn The Public Up](../../../README.md) — *4up*  
+- [📲 Press Matters](../../../../README.md) — *5up*  
+- [🌓 In The Moment](../../../../../README.md) — *6up*  
+- [Polaris](../../../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated:_ 2026-09-09
+_Last updated: 2026-09-09_
