@@ -4,7 +4,9 @@
 
 *How the post-MeToo disclosure environment changed public pattern recognition, institutional incentives, survivor visibility, policing legitimacy, network literacy, and the perceived cost of previously survivable secrets.*
 
-<!-- KAFKA QUOTE TO BE REINSERTED BY AUTHOR -->
+> *"You do not need to leave your room.  > Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet."*  
+> 
+> *Franz Kafka*  
 
 ---
 
