@@ -616,7 +616,7 @@ If the concern is that coordinated allied action could make settlement finance h
 
 **say that.**
 
-That would at least we could discuss you actual concerns, then.  
+That way, at least we could discuss your actual concerns.  
 
 Finally, quite frankly, I am reticent to take advice about the conduct and dignity of a Jewish man from, respectfully, an administration who championed a "Board of Peace" which has remained incapable of getting anaesthesia for children undergoing traumatic amputation as a result of aerial payload and UXO, despite the fact the only physical barriers are the border crossing and the armed occupation soldiers.  
 
@@ -628,7 +628,7 @@ I feel far safer behind the Jewish men standing up for international law, than a
 
 > "My homeland is not a suitcase, and I am no traveller."
 >
-> - Mahmoud Darwish
+> — Mahmoud Darwish
 
 --- 
 
