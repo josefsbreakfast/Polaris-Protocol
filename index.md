@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-09 18:03:03 UTC_
+_Generated on 2026-09-09 18:31:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3613,6 +3613,10 @@ _Generated on 2026-09-09 18:03:03 UTC_
         - [`🧿_safe_detail_no_fog.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🧿_safe_detail_no_fog.md)
         - [`🪖_morale_for_islanders.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦐_Krill_Wars/🪖_morale_for_islanders.md)
       - [**🦑_America_Leave_Her_Alone/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/)
+        - [**🌙_Under_Darkest_Skies/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🌙_Under_Darkest_Skies/)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🌙_Under_Darkest_Skies/notes.txt)
+        - [**🍋_Still_Missing_Trees/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🍋_Still_Missing_Trees/)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🍋_Still_Missing_Trees/notes.txt)
         - [**🏝️_Chagos_Complexities/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🏝️_Chagos_Complexities/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🏝️_Chagos_Complexities/notes.txt)
           - [`🌊_neighbours_to_indian_ocean.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🏝️_Chagos_Complexities/🌊_neighbours_to_indian_ocean.md)
@@ -3624,6 +3628,10 @@ _Generated on 2026-09-09 18:03:03 UTC_
           - [`🛰️_jurisdictional_wrapper_not_just_a_base.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🏝️_Chagos_Complexities/🛰️_jurisdictional_wrapper_not_just_a_base.md)
           - [`🧩_who_has_interests_here.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🏝️_Chagos_Complexities/🧩_who_has_interests_here.md)
           - [`🧭_why_chagos_gets_weird_fast.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🏝️_Chagos_Complexities/🧭_why_chagos_gets_weird_fast.md)
+        - [**🥭_To_Make_Musical_Sentences/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🥭_To_Make_Musical_Sentences/)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🥭_To_Make_Musical_Sentences/notes.txt)
+        - [**🪨_Wettest_Of_Rocks/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🪨_Wettest_Of_Rocks/)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🪨_Wettest_Of_Rocks/notes.txt)
         - [**🪨🐧_Off_The_Rockhoppers/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🪨🐧_Off_The_Rockhoppers/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🪨🐧_Off_The_Rockhoppers/notes.txt)
           - [`🥃_drinks_on_the_rocks.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🪨🐧_Off_The_Rockhoppers/🥃_drinks_on_the_rocks.md)
