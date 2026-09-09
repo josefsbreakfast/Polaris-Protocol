@@ -1173,7 +1173,11 @@ It is not a prediction.
 It maps competing trajectories from an evidence cutoff of September 2026 and should be revised whenever later evidence changes the weighting.
 
 > 📡 Cross-references:
->  - [🌪️ The Legitimacy Crisis Era --- 2023–2026](./🌪️_the_legitamacy_crisis_era_2023_2025.md) - [🩻 The Structural Revelation --- 2018–2022](./🩻_the_structural_revelation_2018_2022.md) - [🔥 Pussyhat Backlash — 2017–2018](./🔥_pussyhat_backlash.md) - [🩸 The Long Fuse — 2010–2017](./🩸_the_long_fuse_2010_2017.md)
+>
+> - [🌪️ The Legitimacy Crisis — 2023–2025](./🌪️_the_legitimacy_crisis_2023_2025.md)
+> - [🩻 The Structural Revelation — 2018–2022](./🩻_the_structural_revelation_2018_2022.md)
+> - [🔥 Pussyhat Backlash — 2017–2018](./🔥_pussyhat_backlash.md)
+> - [🩸 The Long Fuse — 2010–2017](./🩸_the_long_fuse_2010_2017.md)
 
 ### 🏮 Return To:
 
