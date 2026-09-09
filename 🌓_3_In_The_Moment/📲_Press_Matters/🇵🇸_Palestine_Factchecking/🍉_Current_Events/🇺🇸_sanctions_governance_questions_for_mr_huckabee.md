@@ -620,7 +620,15 @@ If the concern is that coordinated allied action could make settlement finance h
 
 **say that.**
 
-That would at least we could discuss you actual concerns, then.
+That would at least we could discuss you actual concerns, then.  
+
+Finally, quite frankly, I am reticent to take advice about the conduct and dignity of a Jewish man from, respectfully, an administration who championed a "Board of Peace", which has remained incapable of getting anaesthesia for children undergoing traumatic amputation as a result of aerial payload and UXO, despite the fact the only physical barriers are the border crossing and the armed occupation soldiers. The occupation is illegal under international law; if this is what you are *really* seeking to challenge, say so. You need not attack a Jewish man's ability to do his work as an elected representative and, by extension of your remarks, undermine rhetorically his ability to act as a leader within his wider community.  
+
+I feel far safer behind the Jewish men standing up for international law, than an Ambassador who does not have effective enough staffing around him, that he neglects to come prepared on the sanctions law he references in interview.  
+
+> "My homeland is not a suitcase, and I am no traveller."
+>
+> - Mahmoud Darwish
 
 --- 
 
