@@ -688,10 +688,15 @@ I feel far safer behind the Jewish men standing up for international law, than a
 
 *Follow the evidence:*  
 
+*(Please note that I have chosen in this moment to first focus on the statements of the Palestinian Ambassador and the Foreign Secretary, and then due to what I see people read Polaris for, I have selected voices around that apparent representation. Thus yes, British policy and media voices have been centred, with comparison to anglophone Israeli media reporting to show diaspora/Medinat contrast. This does not necessarily represent my own views, but that of an approximate audience, in view of what I see as a British Jew living in the UK.)*  
+
 - [🇵🇸: Palestinian Ambassador to the UK, Husam Zomlot](https://vm.tiktok.com/ZN82XJRdD/) – *“Today marks a turning point in UK-Palestine relations — from recognition to action, from condemnation to consequence. This is my message following the historic announcement by the Rt Hon Ed Miliband in the British Parliament earlier today.”*
 - [🇬🇧: Ed Miliband MP, Foreign Secretary, UK (statement, non-Hansard)](https://vm.tiktok.com/ZN82XeGa9/)
 - [🇬🇧: Alex Sobel MP: “Yesterday's announcement banning trade with illegal Israeli settlements is a significant and welcome step forward, and one I have long advocated for. Yet there is much more to do.”](https://vm.tiktok.com/ZN82XD89d/)
 - [🏴󠁧󠁢󠁳󠁣󠁴󠁿 (🇬🇧): Humza Yousaf, Former First Minister: “I welcome the UK Foreign Secretary's statement on illegal Israeli settlements as a positive step in the right direction. Banning goods from settlements, and some restrictions on services is good but we need the UK Government to go further.”](https://vm.tiktok.com/ZN82Xr6B4/)
+- [📲: Naked Politics:”Reactions to the U.K. committing to sanctions on the illegal Israeli settlements in The West Bank.”](https://vm.tiktok.com/ZN82XbQTt/)
+- [📹: The Daily T, with Camilla and Tim (from The Telegraph): “I'm an outlier at The Telegraph with my views on Israel”](https://vm.tiktok.com/ZN82Xm654/)  
+- [📹: BBC Radio 4: “Emily Thornberry, Labour Chair of the Foreign Affairs Select Committee, explains why the government is planning to ban goods and services from Israeli settlements in the illegally occupied West Bank.”](https://vm.tiktok.com/ZN82X8SDW/)  
 - [📹: Alexander Dragonetti, speaking to Ed Miliband: “Why has the UK banned trade with Israeli settlements and accused settlers of ‘ethnic cleansing’?”](https://vm.tiktok.com/ZN82X8SDW/)  
 - [📰: Times of Israel: “Failing to act in the West Bank or in the West, Israel brought UK’s sanctions upon itself”](https://www.timesofisrael.com/failing-to-act-in-the-west-bank-or-in-the-west-israel-brought-uks-flawed-sanctions-upon-itself/) – *even marked as “analysis”, the strength of the headline can be compared to own-country media in the diaspora*  
 - [📰: Times of Israel: “As settler violence surges, some ask whether Israel can’t crack down, or simply won’t”](https://www.timesofisrael.com/as-settler-violence-surges-some-ask-whether-israel-cant-crack-down-or-simply-wont/)
