@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-09 17:51:31 UTC_
+_Generated on 2026-09-09 17:54:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2038,7 +2038,6 @@ _Generated on 2026-09-09 17:51:31 UTC_
         - [`🗺️_vibe_map_of_post_war_europe.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🗺️_vibe_map_of_post_war_europe.md)
         - [`🚀_escalation_vs_play_timeline.csv`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🚀_escalation_vs_play_timeline.csv)
         - [`🛰️_ally_productivity_paradox.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🛰️_ally_productivity_paradox.md)
-        - [`🥃_drinks_on_the_rocks.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🥃_drinks_on_the_rocks.md)
         - [`🥸_oss_117_and_the_operational_cost_of_cultural_ignorance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🥸_oss_117_and_the_operational_cost_of_cultural_ignorance.md)
         - [`🥺_we_are_just_a_little_island_honest.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🥺_we_are_just_a_little_island_honest.md)
         - [`🦁_iran_as_geostrategic_chokepoint.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🦁_iran_as_geostrategic_chokepoint.md)
@@ -3628,6 +3627,7 @@ _Generated on 2026-09-09 17:51:31 UTC_
         - [**🪨🐧_Off_The_Rockhoppers/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🪨🐧_Off_The_Rockhoppers/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🪨🐧_Off_The_Rockhoppers/notes.txt)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/notes.txt)
+        - [`🥃_drinks_on_the_rocks.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🥃_drinks_on_the_rocks.md)
       - [**🪖_Training_Debrief/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/)
         - [**data/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/)
           - [`current_reporting.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/current_reporting.md)
