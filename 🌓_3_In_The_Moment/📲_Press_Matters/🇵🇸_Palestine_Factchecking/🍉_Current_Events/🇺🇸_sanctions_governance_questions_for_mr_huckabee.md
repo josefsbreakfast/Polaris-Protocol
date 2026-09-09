@@ -816,7 +816,9 @@ I feel far safer behind the Jewish men standing up for international law, than a
 - [📰: Haaretz: “Israel, Welcome to the Sanctions Era: U.K. Heralds New Reality That Won't End With Netanyahu”](https://www.haaretz.com/israel-news/israel-security/2026-09-09/ty-article/.premium/u-k-heralds-new-reality-that-wont-end-with-netanyahu/000001a0-82c4-d3bd-adf3-92e5b1ba0000)
 - [📹: Jewish News: “putting British Jewish lives at risk? We sat down with Foreign Secretary Ed Miliband after sanctions imposed oners our questians Israeli settlements and asked him…”](https://vm.tiktok.com/ZN82XanHS/) – *”…Are you putting Jewish lives at risk by doing this? And after speaking to the JLC, Board of Deputies and Chief Rabbi among others, why did you ignore their advice?”*
 - [📹: The Canary: “Trade Ban timed to fight Zack Polanski”](https://vm.tiktok.com/ZN82X5grU/)  
-– [📹: Stop Rosebank:”…If approved, Rosebank could send £200 million to Israeli energy giant Delek Group, known to operate in illegal settlements in the West Bank and ENTS, supply fuel to the Israeli military via subsidiary Delek Israel…”](https://vm.tiktok.com/ZN82XgoMK/)  
+– [📹: Stop Rosebank:”…If approved, Rosebank could send £200 million to Israeli energy giant Delek Group, known to operate in illegal settlements in the West Bank and ENTS, supply fuel to the Israeli military via subsidiary Delek Israel…”](https://vm.tiktok.com/ZN82XgoMK/)
+- [📰: The Guardian: “Senior UK rabbis come out in support of sanctions on Israeli settlements”](https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements) – *a range of quotes from rabbinate are included*  
+- [⏮️: The Independent, July 2026: “Prominent Israeli figures call for UK to ban trade with settlements in occupied West Bank”](https://www.independent.co.uk/bulletin/news/israel-uk-trade-west-bank-settlements-b3013738.html)  
 
 
 --- 
