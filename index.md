@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-09 17:34:30 UTC_
+_Generated on 2026-09-09 17:35:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3602,7 +3602,6 @@ _Generated on 2026-09-09 17:34:30 UTC_
         - [`🧬_the_attack_surface_has_more_than_one_strand.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🧬_the_attack_surface_has_more_than_one_strand.md)
         - [`🪪_clearance_is_not_a_lanyard.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏛️_White_House_Snitches/🪪_clearance_is_not_a_lanyard.md)
       - [**🏝️_Chagos_Complexities/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/)
-        - [`🌊_neighbours_to_indian_ocean.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/🌊_neighbours_to_indian_ocean.md)
         - [`🏝️_chagos_vs_diego_garcia_naming_frame.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/🏝️_chagos_vs_diego_garcia_naming_frame.md)
         - [`📰_past_press_pressure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/📰_past_press_pressure.md)
         - [`🗺️_quick_reference_map.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🏝️_Chagos_Complexities/🗺️_quick_reference_map.md)
@@ -3627,6 +3626,7 @@ _Generated on 2026-09-09 17:34:30 UTC_
         - [**🏝️_Chagos_Complexities/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🏝️_Chagos_Complexities/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🏝️_Chagos_Complexities/notes.txt)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/notes.txt)
+        - [`🌊_neighbours_to_indian_ocean.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🌊_neighbours_to_indian_ocean.md)
       - [**🪖_Training_Debrief/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/)
         - [**data/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/)
           - [`current_reporting.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/current_reporting.md)
