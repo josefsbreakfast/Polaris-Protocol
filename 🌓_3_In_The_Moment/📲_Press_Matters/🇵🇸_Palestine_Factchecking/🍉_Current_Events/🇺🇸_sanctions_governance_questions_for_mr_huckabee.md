@@ -545,6 +545,128 @@ If the economic consequences are as serious as suggested, the answers should be 
 27. Is the concern that allied settlement restrictions could establish a precedent subsequently adopted by a larger European market?
 28. If the objection is political rather than economic, why warn British businesses of enormous economic consequences without publishing the transmission mechanism?
 
+- - -  
+
+## 🛢️🥀 Is this partly about Rosebank?
+
+There is now a concrete corporate chain worth testing against the
+settlement measures.
+
+**Rosebank** is a major UK Continental Shelf oil and gas development
+north-west of Shetland. Ithaca Energy currently holds a **20%
+non-operated interest** in the field; the remaining 80% is held by
+operator Adura. Ithaca's 2025 annual report states that **Delek Group**,
+through wholly owned DKL Energy Limited, owns **50.5% of Ithaca Energy**
+and is treated as a controlling shareholder under the UK Listing Rules.
+
+Delek Group is also not an arbitrary Israeli company selected because it
+happens to sit above a British energy producer. It has appeared in the
+**OHCHR database of business enterprises involved in listed activities
+related to Israeli settlements in the occupied Palestinian territory**.
+That makes the ownership chain directly relevant to the question this
+node has been asking throughout: what, precisely, is capable of
+transmitting the effect of settlement measures into a larger British,
+American or international economic interest?
+
+The chain is therefore:
+
+``` mermaid
+flowchart TD
+    UK["🍉 UK settlement measures"]
+    DG["🇮🇱 Delek Group<br/>OHCHR settlement-business database<br/>50.5% of Ithaca Energy"]
+    IE["🇬🇧 Ithaca Energy plc<br/>UK North Sea producer"]
+    RB["🛢️ Rosebank<br/>20% Ithaca interest"]
+    AD["🌊 Adura<br/>80% / operator"]
+    US["🇺🇸 US pressure<br/>develop the North Sea"]
+
+    DG -->|"controlling shareholding"| IE
+    IE -->|"20% working interest"| RB
+    AD -->|"80% working interest"| RB
+    US -.->|"political pressure"| RB
+    UK -.-> Q{"🔬 Do the settlement measures<br/>capture Delek Group or a relevant<br/>transaction, service or financial relationship?"}
+    DG --> Q
+    Q -->|"If no"| N["No demonstrated Rosebank transmission"]
+    Q -->|"If yes"| T["Test financing, banking,<br/>contracting, investment,<br/>governance and compliance effects"]
+    T -.-> IE
+```
+
+### 🧮 What this does --- and does not --- establish
+
+This is **not yet evidence that the British settlement measures affect
+Rosebank**.
+
+It is evidence that there is a plausible and unusually concrete
+transmission route worth checking.
+
+The arithmetic is useful only as orientation. Delek's 50.5% shareholding
+in Ithaca multiplied by Ithaca's 20% Rosebank interest gives an
+approximate **10.1% look-through economic exposure**. That is not the
+same thing as saying Delek directly owns 10.1% of Rosebank: the legal
+asset belongs within the corporate structure, Ithaca has governance
+arrangements intended to preserve its operational independence, and the
+economic consequences of any restriction would depend on the exact
+measure applied.
+
+The more important fact is the corporate connection itself:
+
+> **A company identified in the UN settlement-business database is the
+> controlling shareholder of a major British North Sea producer which
+> holds a material interest in Rosebank.**
+
+That deserves testing before anyone either declares Rosebank irrelevant
+or assumes that it explains the American reaction.
+
+### 🔎 Questions to answer
+
+1.  Is Delek Group itself, or any relevant subsidiary or transaction,
+    within the intended scope of the new UK settlement measures?
+2.  Does inclusion in the OHCHR settlement-business database have any
+    direct role in the UK's designation or due-diligence methodology, or
+    is a separate evidentiary test required?
+3.  Could restrictions on services connected with settlement activity
+    affect banking, insurance, professional services, capital markets,
+    dividends, financing or other transactions involving Delek Group?
+4.  If Delek were affected, what legal separation exists between Delek
+    and Ithaca for sanctions, contracting and financing purposes?
+5.  Could an effect at Delek level transmit to Ithaca through capital
+    allocation, shareholder rights, refinancing, dividends, board
+    appointments or market valuation without directly restricting
+    Rosebank itself?
+6.  Are Rosebank project finance, insurance, suppliers or counterparties
+    exposed to Delek at all, or solely to Ithaca and Adura?
+7.  Have the UK government, OFSI, Department for Energy Security and Net
+    Zero, North Sea Transition Authority, Ithaca or Delek assessed this
+    interaction?
+8.  Have American officials raising both settlement sanctions and North
+    Sea development been briefed on the Delek--Ithaca--Rosebank
+    ownership chain?
+9.  If Rosebank is part of the feared economic consequence, why has that
+    mechanism not been stated publicly?
+
+### 🎯 The useful hypothesis
+
+For now, the defensible formulation is:
+
+> 🔎 **Candidate transmission mechanism:** Delek Group, which appears in
+> the OHCHR settlement-business database, controls approximately half of
+> Ithaca Energy; Ithaca owns 20% of Rosebank. Determine whether the UK's
+> settlement measures touch Delek Group or relevant transactions and, if
+> so, whether any resulting compliance, financing, governance or
+> investment effects can transmit through Ithaca to Rosebank.
+
+This may turn out to be irrelevant.
+
+It may turn out to be a modest compliance issue rather than a material
+energy issue.
+
+Or it may identify one of the larger economic interests sitting behind
+warnings whose publicly stated justification has so far been remarkably
+vague.
+
+The point is not to choose among those possibilities in advance.
+
+The point is that **this one can actually be tested.**
+
 --- 
 
 ## 🎯 What would change the assessment?
@@ -679,6 +801,23 @@ I feel far safer behind the Jewish men standing up for international law, than a
 -   [US Senate Committee on Finance: "Wyden Releases New Report on Failure of Wall Street Banks to Blow the Whistle on Jeffrey Epstein's Sex Trafficking and Money Laundering Schemes"](https://www.finance.senate.gov/ranking-members-news/wyden-releases-new-report-on-failure-of-wall-street-banks-to-blow-the-whistle-on-jeffrey-epsteins-sex-trafficking-and-money-laundering-schemes)
 -   [Jewish Telegraphic Agency: "Checks, charities and conversion classes: What the Epstein files show about Jeffrey Epstein's Jewish world"](https://www.jta.org/2026/02/26/united-states/checks-charities-and-conversion-classes-what-the-epstein-files-show-about-jeffrey-epsteins-jewish-world)
 -   [Al Jazeera: "What were Jeffrey Epstein's links to Israel?"](https://www.aljazeera.com/news/2026/2/9/what-were-jeffrey-epsteins-links-to-israel)
+
+### Rosebank oilfield  
+
+-   [Ithaca Energy:
+    "Rosebank"](https://www.ithacaenergy.com/assets/rosebank)
+-   [Ithaca Energy: "Annual Report and Accounts
+    2025"](https://investors.ithacaenergy.com/sites/ithaca-ir/files/2026-04/2025-annual-report-interactive-pdf.pdf)
+-   [Delek Group: corporate website --- Ithaca Energy and Rosebank
+    holdings](https://delek-group.com/)
+-   [OHCHR: 2025 communication describing Delek Group's inclusion in the
+    OHCHR settlement-business database and its relationship with Ithaca
+    Energy](https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=30590)
+-   [GOV.UK / UK Parliament: "Israeli settlements are illegal under
+    international law... businesses \[are advised\] against economic and
+    financial activity in illegal
+    settlements"](https://questions-statements.parliament.uk/written-questions/detail/2026-08-25/901107)
+
 
 --- 
 
