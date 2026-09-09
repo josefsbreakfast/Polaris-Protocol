@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-09 17:54:57 UTC_
+_Generated on 2026-09-09 17:57:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3626,8 +3626,8 @@ _Generated on 2026-09-09 17:54:57 UTC_
           - [`🧭_why_chagos_gets_weird_fast.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🏝️_Chagos_Complexities/🧭_why_chagos_gets_weird_fast.md)
         - [**🪨🐧_Off_The_Rockhoppers/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🪨🐧_Off_The_Rockhoppers/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🪨🐧_Off_The_Rockhoppers/notes.txt)
+          - [`🥃_drinks_on_the_rocks.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🪨🐧_Off_The_Rockhoppers/🥃_drinks_on_the_rocks.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/notes.txt)
-        - [`🥃_drinks_on_the_rocks.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🦑_America_Leave_Her_Alone/🥃_drinks_on_the_rocks.md)
       - [**🪖_Training_Debrief/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/)
         - [**data/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/)
           - [`current_reporting.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/data/current_reporting.md)
