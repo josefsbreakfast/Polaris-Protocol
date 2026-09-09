@@ -1,0 +1,10 @@
+[I have omitted the adjective and the plural noun I was about to write.]  
+
+
+🌊_Playing_Defence/
+└── 🦑_America_Leave_Her_Alone/
+    ├── README.md
+    ├── 🏝️_Chagos_Complexities/
+    ├── 🇫🇰_...Falklands / South Atlantic...
+    ├── 🛢️_...North Sea / Rosebank...
+    └── ...
