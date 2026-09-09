@@ -704,6 +704,8 @@ I feel far safer behind the Jewish men standing up for international law, than a
 - [📰: Haaretz: “Scope of U.K. Settlement Trade Ban Will Depend on Next Israeli Government, Senior British Source Says”](https://www.haaretz.com/world-news/europe/2026-09-09/ty-article/.premium/uk-settlement-ban-scope-depends-on-next-israeli-govts-actions-source-says/000001a0-8614-dd7e-abb2-9f3d2f1c0000) – *picking apart the technicalities and how the risk matrix is judged as the UK recognises the ICJ 2024 judgement on the legality of the occupation*
 - [📰: Haaretz: “Israel, Welcome to the Sanctions Era: U.K. Heralds New Reality That Won't End With Netanyahu”](https://www.haaretz.com/israel-news/israel-security/2026-09-09/ty-article/.premium/u-k-heralds-new-reality-that-wont-end-with-netanyahu/000001a0-82c4-d3bd-adf3-92e5b1ba0000)
 - [📹: Jewish News: “putting British Jewish lives at risk? We sat down with Foreign Secretary Ed Miliband after sanctions imposed oners our questians Israeli settlements and asked him…”](https://vm.tiktok.com/ZN82XanHS/) – *”…Are you putting Jewish lives at risk by doing this? And after speaking to the JLC, Board of Deputies and Chief Rabbi among others, why did you ignore their advice?”*
+- [📹: The Canary: “Trade Ban timed to fight
+Zack Polanski”](https://vm.tiktok.com/ZN82X5grU/)  
 
 
 --- 
