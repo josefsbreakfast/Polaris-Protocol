@@ -1,6 +1,6 @@
 # 🕸️ Harm Containment
 
-**First created:** 2026-09-11 | **Last updated:** 2026-09-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-11  
 *When institutions reduce the visibility or immediate incidence of harm by making other people organise themselves around an unresolved hazard.*
 
 ---
