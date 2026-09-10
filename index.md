@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-10 23:40:13 UTC_
+_Generated on 2026-09-10 23:45:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4096,7 +4096,6 @@ _Generated on 2026-09-10 23:40:13 UTC_
         - [**👾_Debugging_The_Men/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
           - [**♻️_Stuck_Cybernetics/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/)
             - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/README.md)
-            - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/notes.txt)
             - [`⚖️_reputation_after_revelation.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/⚖️_reputation_after_revelation.md)
             - [`🌍_crisis_absorption_logic.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🌍_crisis_absorption_logic.md)
             - [`🔗_chains_of_silence.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🔗_chains_of_silence.md)
