@@ -1,5 +1,5 @@
 # 🇺🇸 Sanctions Questions for Mr Huckabee  
-**First created:** 2026-09-09 | **Last updated:** 2026-09-09  
+**First created:** 2026-09-09 | **Last updated:** 2026-09-10  
 *What exactly is the American economic dependency threatened by targeted restrictions on illegal Israeli settlements in the occupied West Bank?*
 
 --- 
@@ -819,7 +819,8 @@ I feel far safer behind the Jewish men standing up for international law, than a
 – [📹: Stop Rosebank:”…If approved, Rosebank could send £200 million to Israeli energy giant Delek Group, known to operate in illegal settlements in the West Bank and ENTS, supply fuel to the Israeli military via subsidiary Delek Israel…”](https://vm.tiktok.com/ZN82XgoMK/)
 - [📰: The Guardian: “Senior UK rabbis come out in support of sanctions on Israeli settlements”](https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements) – *a range of quotes from rabbinate are included*  
 - [⏮️: The Independent, July 2026: “Prominent Israeli figures call for UK to ban trade with settlements in occupied West Bank”](https://www.independent.co.uk/bulletin/news/israel-uk-trade-west-bank-settlements-b3013738.html)
-- [📰: The Times of Israel: “Trump, briefed in advance, didn’t ask UK to wait with settlement sanctions”](https://www.timesofisrael.com/trump-briefed-in-advance-didnt-ask-uk-to-wait-with-settlement-sanctions-official/)  
+- [📰: The Times of Israel: “Trump, briefed in advance, didn’t ask UK to wait with settlement sanctions”](https://www.timesofisrael.com/trump-briefed-in-advance-didnt-ask-uk-to-wait-with-settlement-sanctions-official/)
+- [📰: Em Hilton, for The Guardian: “The UK’s sanctions on Israeli settlements are a great victory – but must be only the beginning”](https://www.theguardian.com/commentisfree/2026/sep/10/uk-sanctions-israel-settlements-activists-palestine-movement) – *the co-founder of Na’amod: UK Jews Against Israeli Occupation, and the policy director at Diaspora Alliance*  
 
 
 --- 
@@ -852,4 +853,4 @@ It records and tests economic, legal and financial claims made in response to ta
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-09_
+_Last updated: 2026-09-10_
