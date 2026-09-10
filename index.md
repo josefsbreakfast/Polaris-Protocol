@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-10 20:58:10 UTC_
+_Generated on 2026-09-10 21:03:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4104,7 +4104,7 @@ _Generated on 2026-09-10 20:58:10 UTC_
             - [`🕳️_the_leverage_economy.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🕳️_the_leverage_economy.md)
             - [`🕸️_harm_containment.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🕸️_harm_containment.md)
             - [`🥱_how_cover_ups_actually_happen.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🥱_how_cover_ups_actually_happen.md)
-            - [`🧭_how_to_read_institutional_actors.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🧭_how_to_read_institutional_actors.md)
+            - [`🧭_who_knew_what_and_who_could_act.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🧭_who_knew_what_and_who_could_act.md)
             - [`🧱_predation_logic.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🧱_predation_logic.md)
             - [`🩸_moral_parasitism.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🩸_moral_parasitism.md)
             - [`🫧_the_bleurgh_principle.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🫧_the_bleurgh_principle.md)
