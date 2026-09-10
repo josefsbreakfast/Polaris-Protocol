@@ -797,3 +797,19 @@ For the main spine, though: green light. We now have primary or near-primary anc
 - [UK Government: “Update on the government response to the Humble Address motion”](https://www.gov.uk/government/publications/update-on-the-government-response-to-the-humble-address-motion)
 - [House of Commons Foreign Affairs Committee: “The appointment of Lord Mandelson as Ambassador to the United States”](https://publications.parliament.uk/pa/cm5902/cmselect/cmfaff/504/report.html)
 - [UK Government: “PM statement on the appointment of Peter Mandelson: 20 April 2026”](https://www.gov.uk/government/speeches/pm-statement-on-the-appointment-of-peter-mandelson-20-april-2026)
+
+Yes. That framing works, and I think it is the right ethical distinction.
+
+You are not making a historical claim that the founding relationships on Pitcairn were coercive. You are making a reader-position disclosure: the origin story contains a severe asymmetry of power, isolation, dependency, and a tiny closed population, and for readers with lived experience of sexual violence, that configuration may resemble other contexts in which consent has been compromised.
+
+So the note can say, in substance:
+
+The historical record does not allow us to determine the consent dynamics of every relationship involved in Pitcairn’s settlement, and this analysis does not claim to speak over Pitcairn Islanders about their own history. But the combination of isolation, dependency, gender imbalance and concentrated power is recognisable to many survivors as a configuration in which coercion can occur. That resemblance is worth acknowledging without converting possibility into fact.
+
+That preserves all three things we need at once: respect for the community’s own history, evidential restraint, and survivor-facing honesty.
+
+And I think that is actually more useful than trying to force a source to prove an unknowable proposition. Sometimes the responsible move is to mark the boundary clearly:
+
+historical fact here; structural resemblance here; survivor response here.
+
+That is enough.
