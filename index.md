@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-10 15:30:41 UTC_
+_Generated on 2026-09-10 16:39:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2510,6 +2510,7 @@ _Generated on 2026-09-10 15:30:41 UTC_
         - [`🌑_what_may_04_does_to_the_internet.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🌑_what_may_04_does_to_the_internet.md)
         - [`🍌_cats_umbrellas_and_democracy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🍌_cats_umbrellas_and_democracy.md)
         - [`🎮_fake_gamer_girl_protocol.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🎮_fake_gamer_girl_protocol.md)
+        - [`🐙_how_darpa_lost_containment_of_tentacle_porn.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🐙_how_darpa_lost_containment_of_tentacle_porn.md)
         - [`👚_big_on_the_internet_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/👚_big_on_the_internet_loop.md)
         - [`💞_digital_international_yaoi_ronso.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/💞_digital_international_yaoi_ronso.md)
         - [`💾_girl_internet_explained_with_techbros.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/💾_girl_internet_explained_with_techbros.md)
