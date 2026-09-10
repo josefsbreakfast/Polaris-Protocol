@@ -1,6 +1,6 @@
 # ⚖️ Reputation After Revelation
 
-**First created:** 2026-09-11 | **Last updated:** 2026-09-11  
+**First created:** 2025-11-13 | **Last updated:** 2026-09-11  
 *What institutions can legitimately do about reputation after serious failure has been revealed — and why trustworthy correction is a stronger reputational strategy than denial, minimisation, or performance.*
 
 ---
