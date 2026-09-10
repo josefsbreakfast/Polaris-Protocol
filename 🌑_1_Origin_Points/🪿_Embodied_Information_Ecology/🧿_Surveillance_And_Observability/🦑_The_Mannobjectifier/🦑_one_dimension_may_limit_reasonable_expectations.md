@@ -1,5 +1,5 @@
-# 🦑 One Dimension May Limit Reasonable Expectations
-**First created:** 2026-09-10 | **Last updated:** 2026-09-10  
+# 🦑 One Dimension May Limit Reasonable Expectations  
+**First created:** 2026-09-10 | **Last updated:** 2026-09-10   
 *Technical documentation for a product that can estimate one thing and would very much like you to remember that this is not the same as knowing everything else.*
 
 ---
@@ -379,7 +379,13 @@ Your support ticket has been closed.
 ---
 
 ## 🌌 Constellations  
-📏 🧿 👓 🪞 🦑 — proxy measurement; uncertainty; embodied observability; classification; objectification; inference limits.
+📏 🧿 👓 🪞 🦑 — proxy measurement; uncertainty; embodied observability; classification; objectification; inference limits.  
+
+*Follow the evidence:*  
+
+- [📰: The Mary Sue: “‘I’m about to be catching print all summer’: Woman goes to the gym. Then she learns how to ‘catch print’”](https://www.themarysue.com/catching-print-at-gym/)  
+
+--- 
 
 ## ✨ Stardust  
 measurement, proxy variables, computer vision, uncertainty, confidence intervals, biometric inference, body measurement, catching print, objectification, observability, classification, proxy creep, measurement error, garment interference, surveillance satire
