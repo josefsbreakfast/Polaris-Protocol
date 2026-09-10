@@ -1,6 +1,6 @@
 # 🔗 Chains of Silence
 
-**First created:** 2026-09-11 | **Last updated:** 2026-09-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-11  
 *How warnings can exist throughout a system without ever assembling into an actionable institutional signal.*
 
 ---
