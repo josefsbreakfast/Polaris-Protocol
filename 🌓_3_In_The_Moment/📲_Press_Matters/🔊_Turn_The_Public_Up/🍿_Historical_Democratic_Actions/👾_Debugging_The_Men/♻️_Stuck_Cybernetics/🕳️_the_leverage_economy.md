@@ -1,6 +1,6 @@
 # 🕳️ The Leverage Economy
 
-**First created:** 2026-09-11 | **Last updated:** 2026-09-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-11  
 *Why accountability becomes expensive when capability, access, status, knowledge, relationships, or institutional survival concentrate around particular people.*
 
 ---
