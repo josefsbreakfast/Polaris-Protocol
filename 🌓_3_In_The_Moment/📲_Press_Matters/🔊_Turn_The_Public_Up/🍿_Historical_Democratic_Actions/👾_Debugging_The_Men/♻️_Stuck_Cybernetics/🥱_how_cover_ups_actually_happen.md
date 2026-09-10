@@ -1,6 +1,6 @@
 # 🥱 How Cover-Ups Actually Happen
 
-**First created:** 2026-09-11 | **Last updated:** 2026-09-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-11  
 *How concealment can emerge from coordination, fragmentation, defensive procedure, narrowing, delay, and institutional self-protection.*
 
 ---
