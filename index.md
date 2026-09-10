@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-10 21:06:17 UTC_
+_Generated on 2026-09-10 21:08:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3446,13 +3446,6 @@ _Generated on 2026-09-10 21:06:17 UTC_
     - [`📮_answers_on_a_postcard.md`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/📮_answers_on_a_postcard.md)
     - [`📮_the_polaris_mail_box.md`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/📮_the_polaris_mail_box.md)
     - [`🛒_the_data_drift_wedding_registry.md`](🌓_3_In_The_Moment/🌌_Polaris_Specific_Memeing/🛒_the_data_drift_wedding_registry.md)
-  - [**🏮_Admin_Nest/**](🌓_3_In_The_Moment/🏮_Admin_Nest/)
-    - [**🗃️_Archive/**](🌓_3_In_The_Moment/🏮_Admin_Nest/🗃️_Archive/)
-      - [**🗄️_Room_101/**](🌓_3_In_The_Moment/🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/)
-        - [**📲_Press_Matters/**](🌓_3_In_The_Moment/🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/)
-          - [**🍿_Historical_Democratic_Actions/**](🌓_3_In_The_Moment/🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/)
-            - [**👾_Debugging_The_Men/**](🌓_3_In_The_Moment/🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
-              - [`⚖️_institutions_2022_2025.md`](🌓_3_In_The_Moment/🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_institutions_2022_2025.md)
   - [**🐈‍⬛_Antifacist_Propaganda_Machine/**](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/)
     - [`README.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/README.md)
     - [`🌱_plantseer_data_mining_coop.md`](🌓_3_In_The_Moment/🐈‍⬛_Antifacist_Propaganda_Machine/🌱_plantseer_data_mining_coop.md)
@@ -9994,6 +9987,7 @@ _Generated on 2026-09-10 21:06:17 UTC_
             - [`notes.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/notes.txt)
         - [**🍿_Historical_Democratic_Actions/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/)
           - [**👾_Debugging_The_Men/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
+            - [`⚖️_institutions_2022_2025.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_institutions_2022_2025.md)
             - [`🦤_predation_logic_vulnerability_power_targeting.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🦤_predation_logic_vulnerability_power_targeting.md)
       - [**🛰️_Metadata_Sabotage_Network/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/)
         - [**🔎_Evidence_And_Anomalies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
