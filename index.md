@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-10 20:42:03 UTC_
+_Generated on 2026-09-10 20:43:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4095,6 +4095,7 @@ _Generated on 2026-09-10 20:42:03 UTC_
           - [`🫀_a_question_of_questions.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🫀_a_question_of_questions.md)
         - [**👾_Debugging_The_Men/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
           - [**♻️_Stuck_Cybernetics/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/)
+            - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/README.md)
             - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/notes.txt)
             - [`⚖️_institutions_2022_2025.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/⚖️_institutions_2022_2025.md)
             - [`⚖️_reputation_after_revelation.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/⚖️_reputation_after_revelation.md)
