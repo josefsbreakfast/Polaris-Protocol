@@ -813,3 +813,38 @@ And I think that is actually more useful than trying to force a source to prove 
 historical fact here; structural resemblance here; survivor response here.
 
 That is enough.
+
+- - - 
+
+After the historical spine, our next step was Step 3: make the node-by-node disposition table before rewriting anything.
+
+We wanted to take every existing file in ♻️_Stuck_Cybernetics and classify it as keep / rebuild / merge / retire-repurpose, now using the new cluster thesis and historical spine as the tests.
+
+Our provisional map was:
+
+Node	Provisional decision
+🧱 predation_logic.md	Keep — light integration only
+🔗 chains_of_silence.md	Rebuild
+🥱 how_cover_ups_actually_happen.md	Rebuild + narrow
+🧭 how_to_read_institutional_actors.md	Major repurpose
+🕳️ the_leverage_economy.md	Heavy rebuild
+🫧 the_bleurgh_principle.md	Keep title, rebuild mechanism
+🕸️ harm_containment.md	Keep concept, recalibrate
+⚖️ institutions_2022_2025.md	Retire/replace with the longer historical spine
+⚖️ reputation_after_revelation.md	Rebuild as the repair/corrective node
+🌍 crisis_absorption_logic.md	Test for merge/retirement
+🩸 moral_parasitism.md	Test for merge/retirement
+
+The important thing is that these were provisional decisions made before we’d completed the historical work. Now we have the stronger thesis, Pitcairn, Savile → IICSA → CSE → pandemic measurement → policing/VAWG → 2026 arc, and the connection to ♻️_Re_Recommendations.
+
+So I think the immediate job is:
+
+Go through those eleven files one by one and confirm or change each disposition.
+
+Then, once we’ve locked the architecture, we start rewriting from the upstream end:
+
+🧱 Predation Logic → 🔗 Chains of Silence → 🧭 knowledge/authority → 🥱 Cover-ups → 🫧 BLEURGH → 🕳️ dependency/leverage → 🕸️ containment → ⚖️ historical recurrence → ⚖️ repair.
+
+That way we don’t spend three hours lovingly renovating a node and then discover it should have been taken round the back and merged with another one. 😌
+
+- - - 
