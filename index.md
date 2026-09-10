@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-10 21:08:22 UTC_
+_Generated on 2026-09-10 21:10:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4110,6 +4110,7 @@ _Generated on 2026-09-10 21:08:22 UTC_
           - [**🐉_Societal_Responses/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/)
             - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/README.md)
             - [`🕯️_the_threshold_of_belief.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/🕯️_the_threshold_of_belief.md)
+            - [`🚀_timelining_british_responses_to_cse.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/🚀_timelining_british_responses_to_cse.md)
             - [`🧨_the_expectation_of_scandal.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/🧨_the_expectation_of_scandal.md)
             - [`🫤_why_elite_denials_dont_work_anymore.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/🫤_why_elite_denials_dont_work_anymore.md)
           - [**🐦‍🔥_Surviving/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐦‍🔥_Surviving/)
