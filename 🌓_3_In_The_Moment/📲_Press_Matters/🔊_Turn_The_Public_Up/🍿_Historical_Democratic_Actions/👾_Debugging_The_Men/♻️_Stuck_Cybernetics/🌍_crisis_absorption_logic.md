@@ -1,6 +1,6 @@
 # 🌍 Crisis Absorption Logic
 
-**First created:** 2026-09-11 | **Last updated:** 2026-09-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-11  
 *How institutions can absorb the lessons of one failure just long enough for the next crisis to consume the attention, capacity, ownership, and political energy required to finish the repair.*
 
 ---
