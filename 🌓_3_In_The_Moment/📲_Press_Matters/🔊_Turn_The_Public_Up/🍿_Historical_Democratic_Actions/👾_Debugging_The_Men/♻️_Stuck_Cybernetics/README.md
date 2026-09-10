@@ -1,5 +1,5 @@
 # ♻️ Stuck Cybernetics
-**First created:** 2026-09-11 | **Last updated:** 2026-09-11  
+**First created:** 2026-09-10 | **Last updated:** 2026-09-11  
 *Why institutions can receive corrective information, recognise failure, generate reform, and still fail to produce durable changed behaviour.*
 
 ---
