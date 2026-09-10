@@ -1,281 +1,851 @@
-# 🕸️ Harm Containment  
-### *What You Actually Do About Abusive Behaviour When Institutions Fail*  
-**First created:** 2025-11-16 | **Last updated:** 2025-11-16  
+# 🕸️ Harm Containment
 
-> *“When the people meant to protect you won’t act,  
-you are forced to learn what protection really means.”*
+**First created:** 2026-09-11 | **Last updated:** 2026-09-11  
+*When institutions reduce the visibility or immediate incidence of harm by making other people organise themselves around an unresolved hazard.*
 
 ---
 
-## 🛰️ Orientation  
-**Harm Containment** describes what survivors — and bystanders, supporters, friends, unclear allies — *actually do* when institutions refuse to intervene against abusive, coercive, predatory, or violent behaviour.
+## 🛰️ Orientation
 
-It is not justice.  
-It is not closure.  
-It is not resolution.
+Containment is not the same thing as correction.
 
-It is the painful reality of:
+Sometimes containment is exactly what safety requires.
 
-> **reducing risk with whatever tools you have  
-in a system that leaves you exposed.**
+Separate people. Restrict access. Change duties. Add supervision. Move somebody out of immediate danger. Preserve evidence. Put temporary controls around an uncertain situation while facts are established.
 
-This node explains:
+Those are legitimate protective actions.
 
-- the psychology of harm-containment  
-- the types of strategies people use in real life  
-- why containment ≠ coping  
-- how containment decisions are shaped by fear, safety, disability, money, time, and exhaustion  
-- why survivors make the choices they do  
-- how to understand these strategies without judgement  
+The problem begins when the temporary safety measure becomes the institution's durable solution.
 
-Harm containment is a survival architecture — built under duress.
+```text
+hazard remains
+      ↓
+people adapt around hazard
+      ↓
+immediate incidents may fall
+      ↓
+institution sees reduced visible disruption
+      ↓
+pressure for structural correction falls
+```
 
----
+The system can therefore become **more stable without becoming safer**.
 
-# 1. The Trigger: When the System Refuses to Hold the Line  
-Harm containment begins at the moment a survivor realises:
+> **Harm containment describes arrangements in which the burden of managing an unresolved hazard is transferred onto the people exposed to it, the people protecting them, or the surrounding organisation.**
 
-- “The institution won’t protect me.”  
-- “They won’t remove him.”  
-- “They will not intervene.”  
-- “No one is coming.”  
-- “If anything, they’re making it worse.”  
+The distinction to keep in view throughout this node is:
 
-This is a moment of profound moral injury.
+```text
+CONTAIN THE HARM
+while correction is underway
 
-It forces a shift from:
+versus
 
-- **asking for help** → **planning for safety**  
-- **reporting** → **risk-mapping**  
-- **trust** → **triage**
-
-This is not what anyone *wants* to do.  
-It is what is left.
+CONTAIN THE PEOPLE
+so correction can be avoided
+```
 
 ---
 
-# 2. The Body Leads: Fear Becomes an Intelligence System  
-When institutions fail, the body becomes the primary risk sensor.
+## 🕸️ Containment is often locally sensible
 
-Survivors rely on:
+This mechanism is difficult precisely because the individual adaptations may be reasonable.
 
-- hypervigilance  
-- pattern recognition  
-- gut-level risk detection  
-- trauma-informed intuition  
-- the ability to read behaviour very quickly  
-- emotional radar developed from past harm  
+People learn:
 
-This is not paranoia.  
-It is **forced adaptation**.
+> Don't be alone with him.
 
-Survivors become experts in:
+> Put two people on that shift.
 
-- assessing proximity  
-- managing triggers  
-- reading micro-expressions  
-- anticipating escalation  
-- detecting cues of grooming  
-- noticing shifts in behaviour  
-- understanding power dynamics in real time  
+> Don't send juniors there.
 
-They shouldn’t have to.  
-They do because the alternative is danger.
+> Keep the door open.
 
----
+> Tell me if you're going to that meeting.
 
-# 3. The Practical Toolkit: How Containment Actually Works  
-Survivors and supporters use a wide set of strategies, often unconsciously.
+> Move her to another team.
 
-### ✔ Spatial containment  
-- avoiding spaces the person uses  
-- altering routes  
-- avoiding events or buildings  
-- limiting exposure to shared environments  
+> Make sure somebody else is present.
 
-### ✔ Relational containment  
-- cutting contact  
-- blocking access  
-- reducing shared circles  
-- limiting shared information streams  
-- refusing to be alone with the person  
+These actions can reduce immediate risk.
 
-### ✔ Digital containment  
-- privacy tightening  
-- deleting connections  
-- minimising digital footprints  
-- avoiding online visibility  
-- protecting metadata  
+They can also reveal that the institution already possesses informal knowledge of a hazard it has not formally resolved.
 
-### ✔ Emotional containment  
-- avoiding conversations that risk retraumatisation  
-- minimising opportunities for manipulation  
-- refusing engagement with the abuser’s narrative  
-- keeping distance from their supporters  
+```text
+formal safeguard weak
+        ↓
+local people compensate
+        ↓
+local risk falls
+        ↓
+compensation becomes normal
+        ↓
+formal safeguard remains weak
+```
 
-### ✔ Community containment  
-- informing trusted people  
-- building quiet protective networks  
-- warning others discreetly  
-- letting someone know where you are  
-- having backup people  
-
-### ✔ Strategic withdrawal  
-- removing yourself from the institution  
-- reducing vulnerability  
-- disengaging from unsafe systems  
-- relocating socially or physically  
-
-None of this is “overreacting.”  
-It is survival strategy when formal protections have collapsed.
+The workaround becomes part of the operating system.
 
 ---
 
-# 4. Why People Stay Silent — and Why That Is Valid  
-Containment often involves **not speaking**, not because silence is consent, but because:
+## 🧯 Emergency containment is not the problem
 
-- disclosure increases danger  
-- institutions retaliate  
-- abusers retaliate  
-- the survivor is tired  
-- the survivor is disabled  
-- the survivor has no energy  
-- the survivor knows no one will act  
-- the survivor is economically trapped  
-- the survivor is emotionally depleted  
-- the survivor has been harmed by reporting before  
+A useful safeguarding sequence can look like:
 
-Silence is not complicity.  
-Silence is **harm reduction** in unsafe systems.
+```text
+possible hazard identified
+        ↓
+immediate protective containment
+        ↓
+fact-finding
+        ↓
+risk assessment
+        ↓
+corrective decision
+        ↓
+containment removed or redesigned
+        ↓
+later review
+```
 
----
+Containment is doing its proper job here.
 
-# 5. Moral Injury: When You Know What You Should Never Have Had to Learn  
-Survivors often experience:
+It buys safety and time while the institution establishes what needs to change.
 
-- shame  
-- exhaustion  
-- disgust  
-- anger  
-- grief  
-- disillusionment  
-- feeling “contaminated” by the abuser’s existence  
-- feeling abandoned  
-- feeling forced into adulthood too quickly  
+The warning sign is a broken sequence:
 
-The hardest injury is:
+```text
+possible hazard identified
+        ↓
+protective workaround
+        ↓
+workaround succeeds well enough
+        ↓
+...
+```
 
-> **being made responsible for your own safety  
-because the system refused to be responsible for you.**
+No owner.
 
-This is not a failure of the survivor.  
-It is a failure of the institution.
+No corrective endpoint.
 
----
+No review date.
 
-# 6. The Survivor’s Dilemma: Safety vs Credibility  
-Containment forces impossible choices:
+No test of whether the underlying hazard remains.
 
-- do you stay silent to stay safe?  
-- do you speak and risk retaliation?  
-- do you remove yourself and lose opportunities?  
-- do you remain visible and risk further targeting?  
-
-Every option has a cost.  
-There is no “good” choice — only **less harm**.
+That is **containment drift**.
 
 ---
 
-# 7. The Long Horizon: How Survivors Build Distance Over Time  
-Containment is not short-term.  
-It evolves:
+## 🔄 Containment drift
 
-### Immediate  
-- shutting down exposure  
-- stabilising  
-- creating immediate buffers  
+Containment drift occurs when a temporary adaptation becomes an accepted operating condition.
 
-### Medium-term  
-- avoiding re-traumatisation  
-- learning new patterns  
-- strengthening networks  
-- building safer routines  
+It can happen because:
 
-### Long-term  
-- making peace with the fact that justice will not come  
-- refusing to carry shame  
-- integrating the experience  
-- building a life that does not centre the abuser  
-- creating safety in community, not institutions  
+- the workaround appears effective;
+- formal intervention is difficult;
+- evidence remains uncertain;
+- the hazardous actor is valuable;
+- staff turnover obscures why the workaround began;
+- nobody owns the underlying problem;
+- a later crisis consumes attention;
+- people become accustomed to compensating.
 
-This is the quiet resilience that institutions never acknowledge.
+Eventually:
 
----
+```text
+"temporary precaution"
+        ↓
+"how we handle this"
+        ↓
+"how things work here"
+```
 
-# 8. Why Harm Containment Is Not Justice  
-Containment:
+At that point the institution may no longer recognise the workaround as evidence of unresolved risk.
 
-- prevents escalation  
-- reduces exposure  
-- protects the survivor  
-- limits damage  
-
-But it does not:
-
-- remove the abuser  
-- restore trust  
-- produce accountability  
-- stop the behaviour  
-- repair the wound  
-
-This is why survivors often feel:
-
-- cheated  
-- unprotected  
-- invisible  
-- forced into choices  
-- still in danger  
-- morally abandoned  
-
-Containment is a **stopgap**, not a solution.  
-But until institutions change, it is the only viable tool survivors have.
+It has become culture.
 
 ---
 
-# 9. When Containment Becomes Collective  
-Sometimes a single survivor’s strategies spread:
+## 🌫️ Shadow safeguarding
 
-- friends adapt around them  
-- colleagues warn each other  
-- students avoid certain staff  
-- victims find one another  
-- communities build shared safety practices  
+`🔗 Chains of Silence` describes **shadow knowledge**: informal information that helps people navigate danger without necessarily entering the formal institutional picture.
 
-This becomes **collective containment**, which institutions interpret as:
+The parallel here is **shadow safeguarding**.
 
-- “rumours”  
-- “overreactions”  
-- “misunderstandings”  
+Shadow safeguarding is protection performed through unofficial social adaptation.
 
-When in reality, it is a community performing the safeguarding the institution refused to do.
+Examples include:
+
+- warning newcomers;
+- arranging informal chaperones;
+- quietly changing assignments;
+- sharing private lists of unsafe people or spaces;
+- making sure somebody gets home;
+- avoiding particular supervisors;
+- keeping vulnerable people away from particular environments.
+
+These behaviours can be compassionate and highly effective.
+
+They are also labour.
+
+And they can conceal the extent to which the formal safeguarding system is failing.
+
+> **A community should not have to become exceptionally good at informal safeguarding because the institution is bad at formal safeguarding.**
 
 ---
 
-## 🌌 Constellations  
-🛡️ 🔗 ⚠️ 🕳️ — survivor logic, silence networks, cover-ups, leverage structures.
+## 🧍 Who moves?
 
-## ✨ Stardust  
-risk mapping, emotional triage, institutional abandonment, retraumatisation avoidance, survivor infrastructure
+One of the fastest ways to understand containment is to ask:
 
-## 🏮 Footer  
-*Harm Containment* is a living node of the Polaris Protocol.  
-It details the survival strategies individuals and communities use when institutions refuse to act against abusive behaviour, and when safety must be created from the outside in.
+> **Who has to change their behaviour?**
+
+When a hazard appears, does the institution move:
+
+```text
+THE HAZARD
+```
+
+or:
+
+```text
+THE PERSON AT RISK?
+```
+
+Does it:
+
+- restrict the person generating the risk;
+- change their access;
+- change their role;
+- increase supervision around them;
+
+or does it:
+
+- relocate the complainant;
+- alter the survivor's shifts;
+- tell juniors to avoid somebody;
+- require women to travel in pairs;
+- exclude vulnerable people from opportunities;
+- move the person who reported?
+
+Sometimes moving the person at risk is their preferred or safest immediate option.
+
+That choice should remain available.
+
+The governance question is whether **their adaptation has become the institution's substitute for addressing the hazard**.
+
+---
+
+## 💸 Somebody pays for safety
+
+Containment has costs.
+
+They may include:
+
+- lost opportunities;
+- reduced working hours;
+- extra supervision;
+- additional staffing;
+- emotional labour;
+- travel changes;
+- social exclusion;
+- career disruption;
+- reduced access;
+- vigilance;
+- staff burnout;
+- informal care work.
+
+Those costs often disappear from formal institutional accounting.
+
+```text
+hazard remains
+      ↓
+others compensate
+      ↓
+institution records continuity
+      ↓
+cost of safety appears low
+```
+
+But the cost has not disappeared.
+
+It has been transferred.
+
+This is why `🕸️ Harm Containment` crosshatches directly with `🕳️ The Leverage Economy`.
+
+The apparently valuable actor remains affordable partly because other people subsidise their continued presence.
+
+---
+
+## 🕳️ Leverage makes containment attractive
+
+Suppose removing or restricting an actor would threaten:
+
+- essential capability;
+- revenue;
+- relationships;
+- staffing;
+- political access;
+- specialist knowledge;
+- institutional reputation.
+
+The system now faces two possible costs:
+
+```text
+COST A
+intervene against high-leverage actor
+
+COST B
+make lower-leverage people adapt
+```
+
+If Cost B is dispersed across many people, it may look institutionally cheaper.
+
+That does not mean anybody consciously performs this calculation.
+
+The architecture can perform it.
+
+> **Containment is often what happens when the institution preserves the expensive part of the system and makes the cheaper parts bend around it.**
+
+---
+
+## ⚖️ Risk transfer is not risk reduction
+
+This distinction should be explicit.
+
+Suppose a junior worker is moved away from a concerning supervisor.
+
+Their immediate risk may fall.
+
+But if the supervisor retains the same access to other junior workers:
+
+```text
+individual risk ↓
+
+system hazard unchanged
+```
+
+The institution has transferred exposure rather than removed the hazard.
+
+Likewise:
+
+- moving a pupil;
+- transferring a patient;
+- relocating an employee;
+- changing one person's duties;
+
+may solve one immediate problem while leaving the system vulnerable.
+
+A good containment plan therefore asks:
+
+> **Who becomes exposed next?**
+
+---
+
+## 🧮 The containment ledger
+
+For any protective adaptation, record both sides.
+
+| Containment measure | Immediate benefit | Who bears cost? | Hazard changed? | Review point |
+|---|---|---|---|---|
+| separate parties | immediate exposure reduced | both / one party | maybe not | date |
+| add supervision | additional protection | staff / budget | maybe not | date |
+| move complainant | immediate separation | complainant | usually not | date |
+| restrict subject access | exposure reduced | subject / institution | potentially | date |
+| change rota | local exposure reduced | team | usually not | date |
+
+This stops the institution from treating:
+
+> **something changed**
+
+as equivalent to:
+
+> **the hazard changed**.
+
+---
+
+## 🧩 Informal adaptation is evidence
+
+When people repeatedly build the same workaround, treat the workaround as information.
+
+For example:
+
+```text
+multiple people independently avoid X
+        ↓
+do not conclude only:
+people dislike X
+
+ask:
+what environmental information
+is this behaviour encoding?
+```
+
+Informal adaptations are not automatically proof that the underlying allegation is true.
+
+But they can be evidence that the formal system is missing a persistent perception of risk.
+
+That makes them relevant to institutional learning.
+
+---
+
+## 🧭 Map containment like any other decision
+
+Use the method in `🧭 Who Knew What and Who Could Act?`
+
+Ask:
+
+### Knowledge
+
+What risk was known when the containment measure began?
+
+### Authority
+
+Who could impose a structural correction?
+
+### Responsibility
+
+Who owned the underlying hazard?
+
+### Capability
+
+Could the institution realistically change the arrangement?
+
+### Action
+
+What containment was chosen?
+
+### Cost
+
+Who had to adapt?
+
+### Duration
+
+Was it temporary?
+
+### Exit
+
+What condition would end the containment?
+
+### Residual risk
+
+Who remained exposed?
+
+This converts an apparently practical workaround into an auditable governance decision.
+
+---
+
+## 🫧 BLEURGH and containment
+
+`🫧 The BLEURGH Principle` asks what happens when the cost of correcting harm becomes a problem the institution itself wants to manage.
+
+Containment is one possible answer.
+
+```text
+correction is expensive
+        ↓
+institution needs immediate stability
+        ↓
+local adaptations reduce visible risk
+        ↓
+stability returns
+        ↓
+urgency of correction falls
+```
+
+The institution may never explicitly decide:
+
+> We prefer containment to correction.
+
+It may simply keep renewing the workaround.
+
+That is why temporary measures need owners, review dates, and exit conditions.
+
+---
+
+## 🥱 Containment can become concealment
+
+Containment and cover-up are not synonyms.
+
+A safeguarding restriction may be entirely proper.
+
+But containment can create concealment-like effects when:
+
+- fewer incidents become visible;
+- complainants leave;
+- staff stop formally reporting because they already know the workaround;
+- the hazardous actor's record remains clean;
+- informal warnings replace documented concerns;
+- transfers break the connection between cases.
+
+Then the institution's own adaptive behaviour makes the original problem harder to reconstruct.
+
+This is where `🕸️ Harm Containment` meets `🥱 How Cover-Ups Actually Happen`.
+
+The relevant question is:
+
+> **Did the containment preserve evidence and institutional visibility, or did it make the hazard less legible?**
+
+---
+
+## 🪞 Reputation can reward successful containment
+
+Containment can produce a superficially attractive outcome:
+
+- fewer complaints;
+- fewer visible incidents;
+- less conflict;
+- less press attention;
+- greater operational continuity.
+
+If those become the measures of institutional success, the system can receive positive feedback for keeping the hazard quiet.
+
+```text
+containment
+    ↓
+visible disruption falls
+    ↓
+institution appears improved
+    ↓
+containment reinforced
+```
+
+This is a dangerous feedback loop.
+
+The correct metric is not merely whether disruption fell.
+
+It is whether underlying safety improved.
+
+---
+
+## 🧱 The survivor becomes infrastructure
+
+This is one of the ugliest versions of containment.
+
+A person harmed by the system may be expected to:
+
+- identify danger;
+- explain it repeatedly;
+- preserve records;
+- warn others;
+- navigate multiple agencies;
+- monitor the hazardous actor;
+- chase referrals;
+- correct institutional misunderstandings;
+- provide the institutional memory of what happened.
+
+The institution has effectively outsourced its feedback system to the person already carrying the harm.
+
+```text
+system fails to learn
+      ↓
+survivor remembers
+      ↓
+system asks survivor again
+      ↓
+survivor becomes memory + sensor + alarm
+```
+
+That is not a durable safeguarding architecture.
+
+> **Survivor expertise can inform institutional learning. Survivors should not have to function as the institution's missing control system.**
+
+---
+
+## 🪢 Communities can become containment systems too
+
+The same pattern can occur beyond formal organisations.
+
+Families, neighbourhoods, professional communities, religious communities, online communities, and small populations may develop elaborate ways of managing known hazards.
+
+People know:
+
+- who not to leave children with;
+- whose behaviour needs watching;
+- which room not to enter alone;
+- which stories are not discussed publicly;
+- who will quietly intervene.
+
+These arrangements can preserve community continuity.
+
+They can also distribute the cost of unresolved harm across generations.
+
+The analytical point is not:
+
+> community adaptation is bad.
+
+It is:
+
+> **What has the community been required to adapt around, and why has that burden persisted?**
+
+---
+
+## 🏝️ Pitcairn — when continuity itself becomes part of the problem
+
+The 2004 Pitcairn sexual-offence trials make the tension unusually visible.
+
+The island's tiny population meant that convictions and imprisonment were discussed alongside the practical continuation of community life. Some convicted men were part of the limited pool of able-bodied labour required for essential functions, including operating the longboat that connected the island with visiting ships.
+
+That created a real continuity problem.
+
+It did not erase the need for accountability.
+
+The eventual response had to accommodate the island's unusual circumstances while allowing criminal sentences and governance changes to proceed.
+
+For this node, the transferable point is:
+
+> **A community can become so adapted around existing people and power arrangements that correcting harm appears to threaten the community itself.**
+
+That does not make correction unnecessary.
+
+It makes the accumulated dependency visible.
+
+Pitcairn should not be treated as a universal analogy, and its history should not be spoken over from outside. It is useful here because the structural problem was unusually explicit: accountability, safeguarding, operational continuity, community identity, and survival were discussed in the same institutional problem.
+
+---
+
+## 🌱 Containment can be compassionate and still need replacing
+
+A useful distinction:
+
+```text
+GOOD IMMEDIATE CONTAINMENT
+protects people while preserving
+the route to correction
+
+BAD DURABLE CONTAINMENT
+protects system continuity by making
+people permanently adapt to the hazard
+```
+
+The first is part of safeguarding.
+
+The second is a substitute for safeguarding.
+
+The difference is visible in:
+
+- ownership;
+- duration;
+- review;
+- evidence preservation;
+- burden distribution;
+- residual-risk assessment;
+- structural follow-through.
+
+---
+
+## 🔧 Designing containment with an exit
+
+Every temporary containment measure should answer:
+
+```text
+WHY?
+What immediate risk is being controlled?
+
+WHO OWNS IT?
+Who is responsible for the underlying problem?
+
+WHO PAYS?
+Whose behaviour, work, access, or life changes?
+
+UNTIL WHEN?
+What is the review date?
+
+EXIT CONDITION?
+What must happen before containment ends?
+
+RESIDUAL RISK?
+Who remains exposed?
+
+EVIDENCE?
+How is the underlying concern preserved?
+
+CORRECTION?
+What structural process runs in parallel?
+```
+
+If the institution cannot answer those questions, the workaround is at risk of becoming permanent.
+
+---
+
+## 🔁 Corrective containment
+
+Containment can also be designed to reduce future dependency.
+
+For example:
+
+```text
+immediate separation
+        +
+independent investigation
+        +
+cross-training
+        +
+succession
+        +
+access redesign
+        +
+record preservation
+        ↓
+temporary containment creates
+space for structural correction
+```
+
+That is a much stronger system than simply maintaining the workaround indefinitely.
+
+The goal is not zero containment.
+
+It is containment that **points toward its own obsolescence**.
+
+---
+
+## ♻️ Crosshatch — Re: Recommendations
+
+This node has a strong relationship with `🌸 Digitally Women/♻️ Re: Recommendations`.
+
+Many recommendations produce visible safeguards:
+
+- additional supervision;
+- reporting routes;
+- staff training;
+- risk assessments;
+- information-sharing;
+- referral pathways;
+- specialist teams;
+- revised policies.
+
+The important question is whether those reforms remove hazards or merely improve the institution's ability to live around them.
+
+Ask:
+
+- Who bears the ongoing burden?
+- Did complainants or vulnerable groups lose access or opportunity?
+- Did the subject of concern face proportionate restrictions?
+- Were temporary measures reviewed?
+- Was residual risk assigned?
+- Did informal workarounds persist after formal reform?
+- Did staff still rely on warnings outside the official system?
+- Did the next comparable case require the same compensatory labour?
+- Did apparent complaint reduction reflect safety or reduced visibility?
+- Did the reform survive staffing, budget, leadership, and crisis pressure?
+
+The recurrence taxonomy helps distinguish:
+
+- non-implementation;
+- partial implementation;
+- uneven implementation;
+- integration failure;
+- downstream migration;
+- status-contingent failure;
+- recommendation decay;
+- new failure;
+- unclear.
+
+A reform may work for one survivor while transferring the hazard elsewhere.
+
+That is not the same thing as system correction.
+
+---
+
+## 🚀 Crosshatch — British responses to CSE
+
+`🐉_Societal_Responses/🚀_timelining_british_responses_to_cse.md` provides the historical evidence spine.
+
+This node should not presume that every historical safeguarding failure was a containment failure.
+
+Instead, the timeline lets us ask:
+
+- Were victims or vulnerable populations expected to adapt?
+- Did informal knowledge substitute for formal action?
+- Were perpetrators, institutions, or environments structurally changed?
+- Did recommendations reduce the burden on those at risk?
+- Did later cases reveal continued shadow safeguarding?
+- Did a local solution simply move the problem elsewhere?
+
+The historical evidence tells us what happened.
+
+`🕸️ Harm Containment` provides one mechanism to test.
+
+`♻️ Re: Recommendations` asks whether later reforms actually changed it.
+
+---
+
+## 🔀 Routing the next questions
+
+```text
+🕳️ THE LEVERAGE ECONOMY
+Why is structural correction expensive?
+        ↓
+🫧 THE BLEURGH PRINCIPLE
+Has consequence management displaced
+harm correction?
+        ↓
+🕸️ HARM CONTAINMENT
+Who is now adapting around
+the unresolved hazard?
+        ↓
+        ├── temporary + owned + reviewed
+        │        ↓
+        │   corrective containment
+        │
+        └── durable + externalised
+                 ↓
+            hazard remains
+                 ↓
+🌍 CRISIS ABSORPTION / ♻️ RE: RECOMMENDATIONS
+Does the workaround survive long enough
+to become the new institutional baseline?
+```
+
+The core diagnostic is deliberately simple:
+
+> **Who or what changed?**
+
+If everyone except the hazard had to change, the system probably has more work to do.
+
+---
+
+## ✨ Stardust
+
+harm containment, containment drift, shadow safeguarding, risk transfer, externalised costs, workarounds, safeguarding, survivor labour, institutional adaptation, residual risk, corrective containment
+
+---
+
+## 🌌 Constellations
+
+🕸️ 🫧 🕳️ 🔗 🧭 🥱 🌍 ♻️
+
+Containment; safeguarding; adaptation; risk transfer; institutional learning; externalised costs; repair.
+
+---
+
+## 🏮 Footer
+
+*🕸️ Harm Containment* is a living node of the **Polaris Protocol**.
+
+It distinguishes legitimate temporary safeguarding from systems that achieve stability by transferring the burden of an unresolved hazard onto survivors, vulnerable people, colleagues, communities, or the surrounding institution.
 
 > 📡 Cross-references:
-> - [🔗 Chains of Silence](../🦕_Elder_Influencers/🔗_chains_of_silence.md) — silence structures  
-> - [⚠️ How Cover-Ups Actually Happen](../🦕_Elder_Influencers/⚠️_how_cover_ups_actually_happen.md) — concealment dynamics  
-> - [🕳️ The Leverage Economy](../🦕_Elder_Influencers/🕳️_the_leverage_economy.md) — compromised individuals as institutional tools  
+>
+> - [🔗 Chains of Silence](./🔗_chains_of_silence.md) — *shadow knowledge and the informal information systems that develop around unresolved hazards*
+> - [🧭 Who Knew What and Who Could Act?](./🧭_who_knew_what_and_who_could_act.md) — *mapping ownership, authority, capability, and residual risk*
+> - [🥱 How Cover-Ups Actually Happen](./🥱_how_cover_ups_actually_happen.md) — *when containment reduces institutional visibility and contributes to concealment*
+> - [🕳️ The Leverage Economy](./🕳️_the_leverage_economy.md) — *why institutions may preserve expensive actors while externalising the cost of safety*
+> - [🫧 The BLEURGH Principle](./🫧_the_bleurgh_principle.md) — *when consequence management begins displacing harm correction*
+> - [🌍 Crisis Absorption Logic](./🌍_crisis_absorption_logic.md) — *how unresolved corrective work can be displaced by later crises*
+> - [🚀 Timelining British Responses to CSE](../🐉_Societal_Responses/🚀_timelining_british_responses_to_cse.md) — *historical evidence spine for British safeguarding response*
+> - `🌸_Digitally_Women/♻️_Re_Recommendations/` — *testing whether reforms removed hazards, reduced burden transfer, and persisted under later stress*
+>
+> 🏮 Return To:
+>
+> - [♻️ Stuck Cybernetics](./README.md) — *1up*
+> - [👾 Debugging The Men](../README.md) — *2up*
+> - [🍿 Historical Democratic Actions](../../README.md) — *3up*
+> - [🔊 Turn The Public Up](../../../README.md) — *4up*
+> - [📲 Press Matters](../../../../README.md) — *5up*
+> - [🌓 In The Moment](../../../../../README.md) — *6up*
+> - [🌌 Polaris Protocol — Root](../../../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2025-11-16_
+_Last updated: 2026-09-11_
