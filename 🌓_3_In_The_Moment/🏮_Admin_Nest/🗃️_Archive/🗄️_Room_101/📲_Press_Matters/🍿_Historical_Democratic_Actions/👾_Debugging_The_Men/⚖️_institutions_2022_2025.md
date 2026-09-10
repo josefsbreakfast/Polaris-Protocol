@@ -265,9 +265,9 @@ bureaucratic fear, reputational collapse, safeguarding drift, institutional exha
 It maps how safeguarding behaviours changed under legitimacy collapse, and how fear, exhaustion, and reputational crisis reshaped institutional responses to harm.
 
 > 📡 Cross-references:
-> - [🧨 The Expectation of Scandal](../🍿_Historical_Democratic_Actions/🧨_expectation_of_scandal.md) — public pattern recognition  
-> - [⚠️ How Cover-Ups Actually Happen](../🦕_Elder_Influencers/⚠️_how_cover_ups_actually_happen.md) — concealment architecture  
-> - [🌪️ Legitimacy Crisis Era](../🍿_Historical_Democratic_Actions/🌪️_legitimacy_crisis_era.md) — structural collapse  
+> - [🧨 The Expectation of Scandal] — public pattern recognition  
+> - [⚠️ How Cover-Ups Actually Happen] — concealment architecture  
+> - [🌪️ Legitimacy Crisis Era] — structural collapse  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
