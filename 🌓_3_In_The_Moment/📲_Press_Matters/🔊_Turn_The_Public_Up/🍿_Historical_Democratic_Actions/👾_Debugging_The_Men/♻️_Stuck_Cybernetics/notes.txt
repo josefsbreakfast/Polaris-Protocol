@@ -1,3 +1,8 @@
+nailing down sources on all this appears particularly tricky so this is why I’m forcing it so many times to recurse on the known facts and as balanced an interpretation as possible.  
+
+- - - 
+
+
 Yes. I think ♻️_Stuck_Cybernetics should become the institutional failure-theory cluster: not “institutions are bad,” and not merely “cover-ups happen,” but how corrective information enters a system, gets distorted or absorbed, and fails to become durable changed behaviour.
 
 That gives it a much cleaner relationship to ♻️_Re_Recommendations, which already does the empirical implementation work. Re: Recommendations asks where the safeguard chain failed. Stuck Cybernetics asks what kinds of institutional dynamics make that failure recur.  
@@ -675,3 +680,120 @@ A functioning corrective system has to remain capable of acting even when acting
 Otherwise the system is not controlling harm.
 
 It is controlling how much harm it can absorb without having to change itself.
+
+- - - 
+
+Yes. The structure is good, but I would tighten six things before we draft the historical node.
+
+First, Pitcairn needs a proper primary/legal spine rather than relying mainly on retrospective summaries. We have enough leads now: the Pitcairn Supreme Court/Court of Appeal judgments, the 2006 Privy Council judgment, the New Zealand Pitcairn Trials Act 2002, plus Kathy Marks and contemporaneous reporting for the social context. I would specifically verify the claims about longboat dependency, community viability, the “close the island” fear, and what institutional reconfiguration actually followed imprisonment. That is the case where our cybernetic argument is strongest, so it should also be the case where the sourcing is hardest to knock over.
+
+Second, Savile/post-Savile needs one clean source chain showing that this was not a single scandal but a cascade of institutional reviews and recommendations. We should pin the NHS/Lampard material, the BBC review material, and any relevant government response. The conceptual claim should be: multiple organisations identified concrete failure mechanisms and changed procedures. We should avoid implying that “Savile was never dealt with” when the more interesting point is that the reforms did not eliminate the wider failure family.
+
+Third, IICSA is already very solid. We can safely state that the final report appeared on 20 October 2022, drew on 15 investigations and 19 investigation reports, and that the Inquiry made 107 recommendations to 33 specified institutions over its lifetime, with 20 concluding recommendations in the final report. IICSA itself explicitly says that information about known or suspected child sexual abuse held within institutions must be acted on regardless of cultural, religious, educational or societal norms.  
+
+Fourth, the CSE/grooming-gang politics section needs especially careful wording. The Home Office 2020 review said the ethnicity evidence was limited and poor quality; the later national audit still said in 2026 that a definitive national ethnic profile could not be produced because the data remained inadequate, while also recognising that some local areas did show Asian-ethnicity disproportionality. That gives us a strong, non-evasive formulation: real local patterns can coexist with inadequate national data; neither racial denial nor racial totalisation is justified.  
+
+Fifth, the pandemic measurement section is fine conceptually but should stay narrow. ONS explicitly says the telephone Crime Survey could not include detailed sexual-offence questions for safeguarding and ethical reasons, so police-recorded data had to be treated with caution. It also notes that recorded sexual offences rose sharply once restrictions eased. So the safe claim is not “rape statistics vanished”; it is the pandemic disrupted one important measurement instrument and complicated interpretation of already-imperfect police data.  
+
+Sixth, the 2025–26 elite-scandal section needs a very strict chronology and attribution pass. We should separate:
+
+* what was known before Mandelson’s appointment;
+* what UK Security Vetting recommended;
+* who had authority to override or mitigate that advice;
+* what Starmer knew and when;
+* what emerged later;
+* what process changes followed.
+
+That is precisely the kind of case where chronology can otherwise get mistaken for personal intent.
+
+I’d also add one explicit methodological rule to the spine:
+
+Do not treat recurrence as proof of non-action. Classify the recurrence.
+
+That means every era should ask whether the later problem represented:
+non-implementation, partial implementation, local variation, downstream migration, integration failure, status-contingent failure, recommendation decay, or genuinely new failure.
+
+That language already exists in ♻️ Re: Recommendations and should become the diagnostic vocabulary underneath the history.  
+
+So: yes, a few sources and clarifications are still needed, but no major conceptual rewrite is required. The spine itself holds. The remaining work is mostly turning broad historical claims into properly evidenced hinges.
+
+- - -  
+
+Yes. We’ve now got a much better source spine, and—usefully—it actually strengthens the argument rather than forcing us to retreat from it.
+
+For Pitcairn, we can now get off Wikipedia almost entirely. The legal spine is the New Zealand Pitcairn Trials Act 2002 plus Christian and Others v The Queen [2006] UKPC 47, which confirms that the convictions had been upheld and that the appeal concerned, among other things, the validity of the applicable laws and whether prosecution amounted to abuse of process. The Privy Council material is especially useful for the sovereignty/jurisdiction issue; Lord Hope explicitly described the case as raising fundamental questions about the rule of law in remote communities and the responsibilities of the colonial power exercising authority over them.  
+
+For the social-system continuity argument, Kathy Marks’s contemporaneous Independent reporting is excellent. It directly records women describing the prosecutions as a supposed British plot to imprison the island’s able-bodied men and “close” Pitcairn, the island’s dependence on men for road work and longboats, family pressure on some complainants, and Olive Christian’s claim that imprisoning the men could effectively finish the settlement. That supports our point that some residents experienced accountability as an existential threat to the island’s existing operating configuration.   The important qualification remains: those fears explain resistance; they do not establish that the prosecutions were illegitimate or that the feared collapse would necessarily have followed.
+
+For Savile, we now have a strong official chain. The Department of Health says 44 NHS reports were published in total. Kate Lampard’s 2015 lessons-learned exercise drew across the investigations and made 14 recommendations concerning areas including access, volunteering, safeguarding, complaints and governance. Government accepted 13 in principle, and NHS trusts were required to review their own practice against them and report on plans and progress.   The BBC also commissioned the Dame Janet Smith Review in 2012; its final report appeared in February 2016 and made recommendations intended to apply the lessons from the Savile and Stuart Hall years to contemporary BBC practice.  
+
+That gives us a defensible formulation for the node:
+
+Post-Savile Britain did not lack review activity or institutional response. The research question is how far the identified safeguards became durable capabilities across institutions and over time.
+
+For IICSA, the sourcing is extremely strong. The statutory final report was published on 20 October 2022. Across its work, the Inquiry made 107 recommendations to 33 specified state and non-state institutions; the final report contained 20 concluding recommendations, six reiterated from earlier work.   More importantly for Stuck Cybernetics, IICSA describes exactly the kind of non-action we are modelling: disclosures or records existed but were not reported to relevant authorities; senior leaders sometimes failed to report abuse; perpetrators could retain access; reputation and embarrassment sometimes displaced concern for children; and confusing procedures or subjective credibility judgements could also prevent reporting.  
+
+That is close to a primary-source statement of the cluster thesis:
+
+information existed → institutional processing failed → protective action did not reliably follow.
+
+And the post-IICSA chronology gives us a useful example of slow but real correction. IICSA recommended mandatory reporting in 2022; government committed to pursue it in 2023; consultation followed; and the Crime and Policing Act 2026 now implements key IICSA measures including a statutory reporting duty for specified roles and an offence of obstructing such a report.   That is perfect evidence for why we must not write “nothing happened.”
+
+The CSE/grooming-gang section is now particularly strong. The 2026 Casey national audit almost writes our passage for us. It describes a repeating cycle over at least a decade of scandal, public outrage and bursts of government activity without sustained enough improvement; says recurring reviews repeatedly raise information-sharing, training, victim-risk recognition and perpetrator-data problems; and finds that national perpetrator ethnicity data are still insufficient, with ethnicity unrecorded for roughly two-thirds of perpetrators in the data examined. At the same time, it found local evidence in three police-force areas showing disproportionate numbers of Asian-background suspects in group-based CSE and said that warranted further examination.  
+
+So our language can be very exact:
+
+The evidence does not support either pretending ethnicity is irrelevant or treating local disproportionality as a definitive national ethnic profile. The persistent failure to collect adequate national data leaves a vacuum in which both minimisation and racialised overgeneralisation can flourish.
+
+Casey herself explicitly links incomplete/unreliable data to erosion of institutional trust and exploitation by actors seeking to sow division.  
+
+The pandemic measurement point is also nailed down now. The face-to-face Crime Survey for England and Wales was suspended in March 2020. The telephone replacement omitted sensitive self-completion questions on sexual assault, partner abuse and childhood abuse because of confidentiality, safeguarding and ethical constraints; face-to-face data collection resumed in October 2021, initially with reduced samples.   So our sentence should be:
+
+The pandemic temporarily removed an important survey-based measure of sexual and domestic violence at precisely the point when social conditions and reporting behaviour were themselves being disrupted.
+
+Not “rape wasn’t recorded.”
+
+For policing/VAWG, the Casey Review gives a solid post-Everard institutional marker. It was commissioned after Sarah Everard’s murder and other serious incidents, ran from 2022 to March 2023, and examined standards, culture, vetting, recruitment, training and public trust. Its final report found racism, misogyny and homophobia embedded in organisational culture and said systems and practices could allow discrimination and abuse to recur.   Angiolini Part 1 followed in February 2024, and government accepted all of its recommendations.  
+
+Operation Soteria gives us the essential control case against pure pessimism. The National Operating Model was rolled out across all police forces and rape prosecutors, and by 2024–25 all forces had formally adopted it; later inspection still emphasised that formal adoption and substantial training did not mean embedding was instantaneous.   That is exactly the distinction Re: Recommendations is built around:
+
+implemented ≠ uniformly embedded ≠ durably effective.
+
+Finally, the Mandelson/Epstein chronology now has very good parliamentary and government sourcing, and we should use those instead of commentary. The Foreign Affairs Committee’s July 2026 report records that UK Security Vetting had recommended that Mandelson should not receive Developed Vetting; FCDO officials nevertheless granted it. The relevant summary reached the Cabinet Office Permanent Secretary in March 2026 and the Prime Minister on 14 April.   Starmer told the Commons on 20 April that he had first learned of the adverse UKSV recommendation on 14 April, said the information had not previously been passed to ministers or the former Cabinet Secretary, and described subsequent process changes, including preventing appointments being announced before security vetting is complete.  
+
+That makes the cybernetic question very precise and does not require us to infer motive:
+
+A specialist risk signal existed. The institutional architecture allowed another part of the system to reach a different decision without the adverse recommendation reaching the political decision-makers later reviewing the appointment. Why? What authority sat where? What information travelled? What changed afterwards?
+
+That is extraordinarily useful material for 🧭 who knew what and who could act, ⚖️ status/reputation, and the historical spine.
+
+One correction to my earlier sketch: the Casey national CSE audit is a January 2026 publication, not something we should casually label merely “later 2026” without the date.  
+
+So I think our source pack is now strong enough to draft. The only area where I would still keep a 🔎 research marker is the deeper claim about sexual coercion/violence in Pitcairn’s original 1790 settlement formation. We have excellent material for the modern trials and the colonial-jurisdiction problem, but I would separately source the Bounty/Tahitian-women history before making that historical-origin inference explicit.
+
+For the main spine, though: green light. We now have primary or near-primary anchors for every major hinge we wanted.
+
+- - - 
+
+- [New Zealand Legislation: “Pitcairn Trials Act 2002”](https://www.legislation.govt.nz/act/public/2002/0083/latest/DLM170244.html)
+- [Judicial Committee of the Privy Council: “Christian and Others v The Queen [2006] UKPC 47”](https://www.bailii.org/uk/cases/UKPC/2006/47.html)
+- [The Independent: “Growing up on Pitcairn: ‘We all thought sex was like food on table’”](https://www.independent.co.uk/news/world/australasia/growing-up-on-pitcairn-we-all-thought-sex-was-like-food-on-table-547980.html)
+- [UK Government: “The NHS Savile investigations”](https://www.gov.uk/government/news/the-nhs-savile-investigations)
+- [BBC: “The Dame Janet Smith Review Report”](https://downloads.bbc.co.uk/aboutthebbc/insidethebbc/reports/pdf/bbc_djs_review_report_december_2016.pdf)
+- [Independent Inquiry into Child Sexual Abuse: “Final Report”](https://www.iicsa.org.uk/final-report)
+- [Independent Inquiry into Child Sexual Abuse: “Reporting child sexual abuse”](https://www.iicsa.org.uk/reports-recommendations/publications/inquiry/final-report/ii-inquirys-conclusions-and-recommendations-change/part-f-identifying-and-reporting-child-sexual-abuse/f4-reporting-child-sexual-abuse.html)
+- [Independent Inquiry into Child Sexual Abuse: “Identifying and reporting child sexual abuse”](https://www.iicsa.org.uk/reports-recommendations/publications/inquiry/final-report/ii-inquirys-conclusions-and-recommendations-change/part-k-summary-inquirys-recommendations/k5-identifying-and-reporting-child-sexual-abuse.html)
+- [Independent Inquiry into Child Sexual Abuse: “Recommendations to better protect children from sexual abuse”](https://www.iicsa.org.uk/reports-recommendations/publications/inquiry/final-report/ii-inquirys-conclusions-and-recommendations-change/part-k-summary-inquirys-recommendations/k10-recommendations-better-protect-children-sexual-abuse.html)
+- [Home Office: “Group-based child sexual exploitation: characteristics of offending”](https://www.gov.uk/government/publications/group-based-child-sexual-exploitation-characteristics-of-offending)
+- [UK Government: “National audit on group-based child sexual exploitation and abuse”](https://www.gov.uk/government/publications/national-audit-on-group-based-child-sexual-exploitation-and-abuse/national-audit-on-group-based-child-sexual-exploitation-and-abuse-accessible)
+- [Office for National Statistics: “Comparability between the Telephone-operated Crime Survey for England and Wales and the face-to-face Crime Survey for England and Wales”](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/methodologies/comparabilitybetweenthetelephoneoperatedcrimesurveyforenglandandwalesandthefacetofacecrimesurveyforenglandandwales)
+- [Office for National Statistics: “Crime in England and Wales: year ending June 2021”](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingjune2021)
+- [Metropolitan Police: “Baroness Casey Review”](https://www.met.police.uk/police-forces/metropolitan-police/areas/about-us/about-the-met/bcr/baroness-casey-review/)
+- [Metropolitan Police: “The Leven Review”](https://www.met.police.uk/police-forces/metropolitan-police/areas/notices/the-leven-review/)
+- [UK Government: “Angiolini Inquiry Part 1 Report”](https://www.gov.uk/government/publications/angiolini-inquiry-part-1-report)
+- [UK Government: “Angiolini Inquiry”](https://www.gov.uk/government/collections/angiolini-inquiry)
+- [UK Government: “Improved service to victims of rape”](https://www.gov.uk/government/news/improved-service-to-victims-of-rape)
+- [Foreign, Commonwealth & Development Office: “FCDO statement: HMA Washington”](https://www.gov.uk/government/news/fcdo-statement-hma-washington)
+- [UK Government: “Update on the government response to the Humble Address motion”](https://www.gov.uk/government/publications/update-on-the-government-response-to-the-humble-address-motion)
+- [House of Commons Foreign Affairs Committee: “The appointment of Lord Mandelson as Ambassador to the United States”](https://publications.parliament.uk/pa/cm5902/cmselect/cmfaff/504/report.html)
+- [UK Government: “PM statement on the appointment of Peter Mandelson: 20 April 2026”](https://www.gov.uk/government/speeches/pm-statement-on-the-appointment-of-peter-mandelson-20-april-2026)
