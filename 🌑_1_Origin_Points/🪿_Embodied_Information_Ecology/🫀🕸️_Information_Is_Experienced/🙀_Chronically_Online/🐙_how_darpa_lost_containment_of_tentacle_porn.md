@@ -1,6 +1,7 @@
 # 🐙 Tentacles, Internet Literacy, Cultural Translation and Cybernetics — Rough Notes
 
-- aka: Elon. Where is the first amendment case for tentacle porn? No yaoi, no tentacles.. is bro even a nerd bc I am starting to doubt bro has ever actually been online.  
+- aka: Elon. Where is the first amendment case for tentacle porn? No yaoi, no tentacles.. is bro even a nerd bc I am starting to doubt bro has ever actually been online.
+- tech bros pretending they’re all so professional is still deeply funny to me.  
 
 - Status: captured discussion notes, not yet a researched node.
 - Likely home:
@@ -983,3 +984,12 @@
 - Communities make richer culture when outside attention does not arrive as punishment.
 - The internet did not have to become this harmful.
 - Its incentives can be changed.
+- DARPA helped produce a network designed to route information around obstruction. Users then developed cultural behaviours that route meaning around social obstruction:
+
+* Edgelording tests where the current boundary is by deliberately approaching or crossing it.
+* Shitposting packages material as absurdity, making it cheap and pleasurable to reproduce.
+* Ironic detachment provides plausible deniability: I circulated it, but I did not necessarily endorse, desire or even take it seriously.
+* Escalation rewards each participant for producing a stranger, more shocking or more elaborate variation.
+* Repetition converts an obscure sexual object into common cultural vocabulary.
+* Context collapse eventually delivers the joke to people who lack the originating community’s interpretive framework.
+* Commercial platforms mistake attention for approval and amplify the material further.
