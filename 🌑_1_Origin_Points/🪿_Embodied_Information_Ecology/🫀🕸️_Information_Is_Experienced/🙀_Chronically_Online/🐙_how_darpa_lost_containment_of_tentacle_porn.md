@@ -1,5 +1,7 @@
 # 🐙 Tentacles, Internet Literacy, Cultural Translation and Cybernetics — Rough Notes
 
+- aka: Elon. Where is the first amendment case for tentacle porn? No yaoi, no tentacles.. is bro even a nerd bc I am starting to doubt bro has ever actually been online.  
+
 - Status: captured discussion notes, not yet a researched node.
 - Likely home:
   - `Chronically Online`
