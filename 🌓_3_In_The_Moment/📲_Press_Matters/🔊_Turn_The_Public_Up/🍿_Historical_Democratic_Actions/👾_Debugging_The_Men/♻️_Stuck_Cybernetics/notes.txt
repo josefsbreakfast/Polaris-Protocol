@@ -236,3 +236,68 @@ And the key proposition I’d put at the top of the eventual README is now very 
 A system has not learned merely because it received the signal. It has learned when the signal changes behaviour, the changed behaviour survives time and pressure, and the next person does not have to rediscover the same failure from scratch.
 
 That is what I think we should build.
+
+- - - 
+
+Yes. I’d do it in this order, because it prevents us from polishing nodes that later turn out to need merging or retirement.
+
+1. Define the cluster thesis first. Write a short internal brief for ♻️_Stuck_Cybernetics: the cluster is about how corrective information enters institutions, fails to propagate into durable changed behaviour, and gets distorted by dependency, fragmentation, status, reputation, crisis, or maintenance failure. Keep the relationship to ♻️_Re_Recommendations explicit: Stuck Cybernetics explains the pathology; Re: Recommendations tests the repair.  
+2. Build the historical spine before touching the legacy timeline nodes. We research and outline the longer UK arc: Pitcairn as an early/overseas-territory worked case; Savile and post-Savile safeguarding reckoning; IICSA; CSE/grooming failures and politicisation; policing/VAWG review cycles; pandemic-era measurement complications; later elite-sexual-abuse legitimacy shocks. The aim is not “Britain learned nothing,” but why known failures kept recurring in altered forms.
+3. Create a node-by-node disposition table. For every existing file, assign one of four statuses: keep / rebuild / merge / retire-repurpose. We already have a likely draft:
+    * 🧱 predation_logic — keep, light integration only.  
+    * 🔗 chains_of_silence — rebuild.
+    * 🥱 how_cover_ups_actually_happen — rebuild and narrow.
+    * 🧭 how_to_read_institutional_actors — major repurpose.
+    * 🕳️ the_leverage_economy — heavy rebuild.
+    * 🫧 the_bleurgh_principle — keep title, rebuild mechanism.
+    * 🕸️ harm_containment — keep concept, recalibrate.
+    * ⚖️ institutions_2022_2025 — retire/replace with longer historical node.
+    * ⚖️ reputation_after_revelation — rebuild as repair/corrective architecture.
+    * 🌍 crisis_absorption_logic + 🩸 moral_parasitism — test for merge/retirement because they overlap and over-attribute intent.  
+4. Start with the upstream mechanics. Do 🧱 Predation Logic first only as an integration check, then rebuild 🔗 Chains of Silence. The new 🔗 should focus on distributed non-action, fragmented ownership, local rationality, and failure of assembly, linking directly to 🕸️ Everyone Had a Piece.  ⁠￼
+5. Then rebuild the information/authority node. Replace the old behavioural-vibes taxonomy in 🧭_how_to_read_institutional_actors.md with something like 🧭_who_knew_what_and_who_could_act.md. Its core questions become: who had what information, when, what authority did they have, what dependencies constrained them, and who owned the next action. This avoids inferring knowledge from eye contact, tone, nervousness, etc.  
+6. Then rebuild the concealment node. 🥱_how_cover_ups_actually_happen.md should distinguish deliberate concealment from defensive bureaucracy, lawful confidentiality, poor documentation, silo failure, delay, and reputational closure. Its job is to show how micro-decisions can aggregate into concealment without requiring a mastermind.  
+7. Then do the institutional pivot. Rebuild 🫧_the_bleurgh_principle.md around the moment when the system shifts from solving the underlying harm to managing the consequences of acknowledging it. Keep the name; change the mechanism.  
+8. Then tackle dependency and indispensability. Rebuild 🕳️_the_leverage_economy.md around the cost of accountability when institutions depend on the person implicated. This is where Pitcairn belongs as a worked example: accountability threatened labour, governance, transport, and perceived community viability. The lesson becomes: dependency may be real; dependency is not a veto.  ⁠￼
+9. Then rebuild 🕸️ Harm Containment. Separate survivor-side containment, community containment, institutional containment, and actual justice. Preserve threat literacy, but avoid treating bodily intuition as infallible. The node should ask: when the hazard remains, who absorbs the cost of keeping everyone else safe?  ⁠￼
+10. Replace the short 2022–2025 timeline with the longer historical node. This is where we write the UK institutional-history spine properly. Likely new title: something in the family of ⚖️_the_long_failure_to_learn.md. This is where Savile, IICSA, Pitcairn, grooming/CSE, recurring recommendations, later scandals, and the distinction between reform and durable learning all connect. The old node is too short and too totalising to salvage as-is.  ⁠￼
+11. Rebuild ⚖️ Reputation After Revelation as the positive-control node. Its job becomes: once failure is established, what does responsible repair require? Named owners, chronology, preserved records, implementation, independent verification, next-case testing, maintenance, status resilience, correction of earlier errors. This should cross-link heavily to ♻️_Re_Recommendations.  ⁠￼
+12. Only then decide what to do with 🌍 and 🩸. Compare them against the stronger 🧭 Institutional Learning or Crisis Absorption? node. If they are mostly duplicative, merge or retire them. If a distinct node survives, redefine it around agenda displacement / political opportunity / crisis bandwidth, not presumed cynical state intent.  
+13. Run a cluster-wide duplication pass. Check that each node has one job:
+
+* 🧱 opportunity;
+* 🔗 distributed silence/non-action;
+* 🧭 knowledge + authority;
+* 🥱 aggregation into concealment;
+* 🫧 pivot to self-protection;
+* 🕳️ dependency/accountability cost;
+* 🕸️ containment when hazard remains;
+* ⚖️ historical recurrence;
+* ⚖️ repair and durable correction.
+
+14. Repair all cross-links and breadcrumbs. Only after filenames and merges are settled. Otherwise we create link debt twice.
+15. Generate the README last. The README should explain the full machine, give a recommended reading route, distinguish this cluster from 🐉_Societal_Responses and ♻️_Re_Recommendations, and probably carry the core loop:
+
+harm / warning
+      ↓
+institution receives signal
+      ↓
+signal is fragmented, softened, delayed or absorbed
+      ↓
+correction becomes costly
+      ↓
+system protects equilibrium
+      ↓
+review / recommendation
+      ↓
+partial or temporary change
+      ↓
+memory / capability decays
+      ↓
+next case
+      ↓
+same family of failure reappears
+
+16. Finish with one integrity pass across the whole folder. No Pandoc. Check dates, H1/H2 structure, filenames, duplicate concepts, errant slashes/dashes, stale paths, unsupported absolutes, and whether every strong empirical claim is either sourced or clearly marked as analytical inference.
+
+The best immediate next step is Step 2: build the historical spine, because that will determine what replaces ⚖️_institutions_2022_2025.md and give the rest of the cluster a factual backbone.
