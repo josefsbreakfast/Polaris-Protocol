@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-10 21:32:45 UTC_
+_Generated on 2026-09-10 21:45:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4105,7 +4105,6 @@ _Generated on 2026-09-10 21:32:45 UTC_
             - [`🥱_how_cover_ups_actually_happen.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🥱_how_cover_ups_actually_happen.md)
             - [`🧭_who_knew_what_and_who_could_act.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🧭_who_knew_what_and_who_could_act.md)
             - [`🧱_predation_logic.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🧱_predation_logic.md)
-            - [`🩸_moral_parasitism.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🩸_moral_parasitism.md)
             - [`🫧_the_bleurgh_principle.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/♻️_Stuck_Cybernetics/🫧_the_bleurgh_principle.md)
           - [**🐉_Societal_Responses/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/)
             - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/README.md)
@@ -9990,6 +9989,7 @@ _Generated on 2026-09-10 21:32:45 UTC_
           - [**👾_Debugging_The_Men/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/)
             - [`⚖️_institutions_2022_2025.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_institutions_2022_2025.md)
             - [`🦤_predation_logic_vulnerability_power_targeting.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🦤_predation_logic_vulnerability_power_targeting.md)
+            - [`🩸_moral_parasitism.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🩸_moral_parasitism.md)
       - [**🛰️_Metadata_Sabotage_Network/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/)
         - [**🔎_Evidence_And_Anomalies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
