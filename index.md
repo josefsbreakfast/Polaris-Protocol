@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-10 14:19:09 UTC_
+_Generated on 2026-09-10 14:48:51 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2235,6 +2235,10 @@ _Generated on 2026-09-10 14:19:09 UTC_
     - [**🧿_Surveillance_And_Observability/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/.🌱_Still_Growing/notes.txt)
+      - [**🦑_The_Mannobjectifier/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/🦑_The_Mannobjectifier/)
+        - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/🦑_The_Mannobjectifier/README.md)
+        - [`💉_full_flu_shot.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/🦑_The_Mannobjectifier/💉_full_flu_shot.md)
+        - [`🦑_one_dimension_may_limit_reasonable_expectations.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/🦑_The_Mannobjectifier/🦑_one_dimension_may_limit_reasonable_expectations.md)
       - [**🧿_Watch_The_Watchers/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/🧿_Watch_The_Watchers/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/🧿_Watch_The_Watchers/README.md)
         - [`handover_theatre.png`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/🧿_Watch_The_Watchers/handover_theatre.png)
