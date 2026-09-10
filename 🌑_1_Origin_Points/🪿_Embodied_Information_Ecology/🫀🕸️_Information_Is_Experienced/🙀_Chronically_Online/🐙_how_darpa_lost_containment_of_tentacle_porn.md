@@ -1,7 +1,10 @@
 # 🐙 Tentacles, Internet Literacy, Cultural Translation and Cybernetics — Rough Notes
 
 - aka: Elon. Where is the first amendment case for tentacle porn? No yaoi, no tentacles.. is bro even a nerd bc I am starting to doubt bro has ever actually been online.
-- tech bros pretending they’re all so professional is still deeply funny to me.  
+- Tech bros pretending they’re all so professional is still deeply funny to me.
+-  Tech leadership performs polished corporate professionalism while deriving its authority, wealth and cultural fluency from an internet substantially built by porn, piracy, fandom, shitposting, obsessive hobbyists and people arguing about anime at 3 a.m.
+-  You cannot claim the mantle of internet edgelord while presenting no credible tentacle jurisprudence.
+-  Normies, all of you.  
 
 - Status: captured discussion notes, not yet a researched node.
 - Likely home:
