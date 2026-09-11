@@ -1,6 +1,6 @@
 # 🧭 Who Knew What and Who Could Act?
 
-**First created:** 2026-09-11 | **Last updated:** 2026-09-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-11  
 *Reconstructing institutional knowledge, authority, responsibility, capability, and action without turning hindsight into mind-reading.*
 
 ---
