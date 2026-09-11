@@ -1,5 +1,5 @@
 # 🇺🇸 Sanctions Questions for Mr Huckabee  
-**First created:** 2026-09-09 | **Last updated:** 2026-09-10  
+**First created:** 2026-09-09 | **Last updated:** 2026-09-11  
 *What exactly is the American economic dependency threatened by targeted restrictions on illegal Israeli settlements in the occupied West Bank?*
 
 --- 
@@ -820,7 +820,8 @@ I feel far safer behind the Jewish men standing up for international law, than a
 - [📰: The Guardian: “Senior UK rabbis come out in support of sanctions on Israeli settlements”](https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements) – *a range of quotes from rabbinate are included*  
 - [⏮️: The Independent, July 2026: “Prominent Israeli figures call for UK to ban trade with settlements in occupied West Bank”](https://www.independent.co.uk/bulletin/news/israel-uk-trade-west-bank-settlements-b3013738.html)
 - [📰: The Times of Israel: “Trump, briefed in advance, didn’t ask UK to wait with settlement sanctions”](https://www.timesofisrael.com/trump-briefed-in-advance-didnt-ask-uk-to-wait-with-settlement-sanctions-official/)
-- [📰: Em Hilton, for The Guardian: “The UK’s sanctions on Israeli settlements are a great victory – but must be only the beginning”](https://www.theguardian.com/commentisfree/2026/sep/10/uk-sanctions-israel-settlements-activists-palestine-movement) – *the co-founder of Na’amod: UK Jews Against Israeli Occupation, and the policy director at Diaspora Alliance*  
+- [📰: Em Hilton, for The Guardian: “The UK’s sanctions on Israeli settlements are a great victory – but must be only the beginning”](https://www.theguardian.com/commentisfree/2026/sep/10/uk-sanctions-israel-settlements-activists-palestine-movement) – *the co-founder of Na’amod: UK Jews Against Israeli Occupation, and the policy director at Diaspora Alliance*
+- [📹: MEE “Tensions between Britain and Israel are escalating after the UK imposed sanctions on illegal Israeli settlements and banned settlement goods.”](https://vm.tiktok.com/ZN82TB4G7/) – *you would have thought this was an arms ban; how bad are those economies rn? Remember: there is always an option here which is to treat Palestinians as real human people. This is why sanctions are happening.*  
 
 
 --- 
