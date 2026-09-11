@@ -1,5 +1,5 @@
 # 🩺 Presenting Complaint  
-**First created:** 2026-09-07 | **Last updated:** 2026-09-08  
+**First created:** 2026-09-07 | **Last updated:** 2026-09-11  
 *The immediate Army collective-training dispute: what is reported, what remains uncertain, and why a small saving raises a larger readiness question.*  
 
 ---
@@ -20,7 +20,10 @@ An Army spokesperson told Forces News that training was continuing while activit
 
 The Army also pointed to a **£2 billion, 15-year programme to transform training**, including greater use of AI, analytics and virtual environments. Forces News separately reported increased emphasis on counter-drone warfare and lessons derived from Ukraine.  
 
+That programme can be established independently of the immediate reporting. On 10 July 2026, the Ministry of Defence announced a **15-year, £2 billion Army Collective Training Service contract** as part of the Army's Collective Training Transformation Programme. The MOD said the new system would use AI, advanced analytics and virtual environments, with an ambition to train up to 60,000 soldiers a year.
+
 - [Forces News: “Army shifts training focus in order to concentrate on counter-drone warfare”](https://www.forcesnews.com/services/army/army-shifts-training-focus-order-concentrate-counter-drone-warfare)
+- [GOV.UK: “AI battle lab to prepare British Army for modern warfare”](https://www.gov.uk/government/news/ai-battle-lab-to-prepare-british-army-for-modern-warfare)
 
 These accounts are not necessarily mutually exclusive.
 
@@ -54,6 +57,8 @@ Thirty million pounds is simultaneously:
 
 The price of an activity and the value of that activity are different things.
 
+The scale matters. The MOD's July 2026 announcement placed the new training contract inside a **£298 billion Defence Investment Plan over four years**. £30 million is therefore small in aggregate Defence terms. That does not tell us whether it is small within the relevant Army budget, nor whether the money could lawfully or practically have been moved from another programme.
+
 A collective exercise may purchase:
 
 - command practice;
@@ -68,6 +73,10 @@ A collective exercise may purchase:
 - trust built through repeated shared activity.
 
 Many of these outputs have no simple market price.
+
+The list above is partly a research programme rather than a closed finding. British military material already establishes that collective training progresses through sections, platoons, companies, battlegroups and brigades; that combined-arms training integrates different arms and services; and that, because combat skills fade, training needs to be **progressive and frequent**. The remaining outputs — including cohesion, trust, error discovery and the operational value of repeated shared practice — should be evidenced separately through the cluster's research layer.
+
+- [GOV.UK / MOD: *Environmental Appraisal of the Need for Military Training*](https://assets.publishing.service.gov.uk/media/5a7901f640f0b676f4a7d22f/ea_need_for_militarytraining_august_2007.pdf)
 
 A tank has a price.
 
@@ -102,6 +111,8 @@ Military activity requires people to operate as:
 - supporting arms;
 - joint and allied formations.
 
+This is not simply an intuitive distinction. MOD material on military training describes collective training as progressive: lower-level activity builds toward unit, battlegroup and formation training, with combined-arms activity bringing combat arms, combat support and combat-service-support elements together. It states explicitly that combat skills fade and that training therefore needs to be progressive and frequent.
+
 Collective competence therefore contains knowledge which is:
 
 - procedural;
@@ -128,7 +139,13 @@ The relevant question is not whether modern training technology is useful.
 
 It plainly can be.
 
-The question is whether technology is being used to augment collective competence, or financially substitute for activities whose important functions it cannot reproduce.
+The 2025 Strategic Defence Review itself adopts an augmentation model. It says advanced simulation can make training more effective and efficient, while also stating that live firing over long distances remains essential to assuring the Army's fighting capability. The Review further says that:
+
+> **Training must be a strategic and institutional priority to restore the Army's readiness to fight at all levels.**
+
+That matters because it prevents a false choice between being "for" modernised training and being "for" live or collective training. Government policy already assumes that both have functions.
+
+The question is therefore whether technology is being used to augment collective competence, or financially substitute for activities whose important functions it cannot reproduce.
 
 That requires evidence rather than assumption.
 
@@ -154,7 +171,7 @@ The British Armed Forces have spent the period since the end of the Cold War rep
 - the return of NATO-first planning;
 - renewed emphasis on high-intensity and potentially prolonged warfare.
 
-The 2025 Strategic Defence Review explicitly places **warfighting readiness** at the centre of British defence planning.
+The 2025 Strategic Defence Review explicitly places **warfighting readiness** at the centre of British defence planning. It says training must be a strategic and institutional priority, identifies NATO's exercise programme as a basis for UK training and education, and argues for virtual environments to supplement live activity while retaining live firing as essential to fighting capability.
 
 - [GOV.UK: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad)
 
@@ -198,6 +215,8 @@ Exercises can be:
 
 That makes training potentially attractive when an organisation needs immediate in-year savings.
 
+This remains a **structural hypothesis**, not an established explanation for the September 2026 decision. It requires examination of the Army's delegated budget, relevant spending categories, contractual commitments, in-year financial controls and the alternatives actually considered by Army Command, MOD and ministers.
+
 But this creates an important distinction:
 
 > **Was collective training reduced because it was the least strategically valuable expenditure available, or because it was one of the easiest expenditures to stop?**
@@ -227,6 +246,10 @@ Training connected directly to deployment, readiness and rapid-response requirem
 The Army is simultaneously changing training in response to lessons from Ukraine and investing substantially in synthetic, AI-assisted and modernised training.
 
 There is visible concern within the wider Defence ecosystem that reducing collective activity may have readiness consequences.
+
+That concern predates the September 2026 dispute. In its 2024 *Ready for War?* report, the House of Commons Defence Committee concluded that overstretch had negatively affected high-intensity warfighting readiness and argued that large exercises help the UK understand readiness and practise operating with NATO allies. It warned against depriving the Armed Forces of the time, resources and training needed for high-intensity prolonged war.
+
+- [UK Parliament: “Call for focus on High-Intensity Warfighting to Increase Deterrence”](https://committees.parliament.uk/committee/24/defence-committee/news/199770/)
 
 What the current public record does **not yet establish clearly** is the complete decision chain.
 
@@ -292,6 +315,8 @@ Those propositions require evidence.
 
 The burden of poor preparation is not distributed evenly through the Defence system.
 
+The causal relationship between particular training reductions and operational harm must not be assumed. It should be tested through doctrine, service inquiries, operational lessons, safety investigations and evidence from personnel. The reason to test it rigorously is that the potential consequences are physical as well as financial.
+
 Political leaders determine strategic objectives.
 
 Senior commanders allocate military capability.
@@ -349,6 +374,8 @@ That includes:
 - institutional learning;
 - money.
 
+This systemic framing is consistent with the Strategic Defence Review's treatment of warfighting readiness across personnel, training, reserves, infrastructure, industry, mobilisation, NATO integration and national resilience. Readiness is therefore not reducible to whether equipment exists on an inventory.
+
 The diagnostic sequence therefore begins with function.
 
 Not:
@@ -364,6 +391,36 @@ Then:
 > **What system is required to produce that capability reliably?**
 
 Only after that can spending figures meaningfully tell us whether the system is overfunded, underfunded or badly configured.
+
+---
+
+## 🔎 Claims Carried Forward For Research
+
+This node now rests on several propositions which are established strongly enough to use:
+
+- the Army was reported to be seeking approximately £30 million in savings;
+- some major collective activity was being curtailed while deployment, readiness and rapid-response training was protected;
+- the Army has not stopped training;
+- the Army is simultaneously undertaking a major collective-training transformation programme;
+- MOD material treats collective competence as progressive and describes military skills as subject to fade;
+- the 2025 Strategic Defence Review describes training as a strategic and institutional priority;
+- the same Review supports advanced simulation while retaining live firing as essential to fighting capability;
+- concern about UK high-intensity readiness predates the September 2026 dispute.
+
+Several propositions remain open and must not silently harden into fact:
+
+- the precise origin of the £30 million requirement;
+- the complete list of activities cancelled, delayed or redesigned;
+- the duration of the restriction;
+- whether training was selected because it was strategically least valuable or financially easiest to alter;
+- what other savings were considered;
+- whether money could practically have been transferred from other programmes;
+- how much of the affected capability can be mitigated by synthetic or redesigned training;
+- how collective-training reductions translate into measurable readiness loss;
+- how preparation decisions translate into operational or safety risk;
+- who assessed and formally accepted any resulting readiness risk.
+
+These questions belong in the evidence layer and the linked investigation nodes.
 
 ---
 
@@ -414,7 +471,11 @@ Everyone needs to focus for ten minutes.
 - [The Times: “British Army ordered to suspend major war games to save money”](https://www.thetimes.com/uk/defence/article/british-army-training-suspended-money-d7tzxljrl).  
 - [Forces News: “Army shifts training focus in order to concentrate on counter-drone warfare”](https://www.forcesnews.com/services/army/army-shifts-training-focus-order-concentrate-counter-drone-warfare).  
 - [Forces News: “Defence Secretary launches AI battle lab to help British Army prepare for modern warfare”](https://www.forcesnews.com/services/army/defence-secretary-launches-ai-battle-lab-help-british-army-prepare-modern-warfare).  
+- [GOV.UK: “AI battle lab to prepare British Army for modern warfare”](https://www.gov.uk/government/news/ai-battle-lab-to-prepare-british-army-for-modern-warfare).  
 - [GOV.UK: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad).  
+- [GOV.UK / MOD: *Environmental Appraisal of the Need for Military Training*](https://assets.publishing.service.gov.uk/media/5a7901f640f0b676f4a7d22f/ea_need_for_militarytraining_august_2007.pdf).  
+- [UK Parliament: “Call for focus on High-Intensity Warfighting to Increase Deterrence”](https://committees.parliament.uk/committee/24/defence-committee/news/199770/).  
+- [UK Parliament: *Ready for War?*](https://committees.parliament.uk/work/7654/armed-forces-readiness/publications/reports-responses/).  
 
 ---
 
@@ -448,4 +509,4 @@ It records the immediate September 2026 complaint and separates the reported tra
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-08_
+_Last updated: 2026-09-11_
