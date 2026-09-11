@@ -824,6 +824,8 @@ I feel far safer behind the Jewish men standing up for international law, than a
 - [📹: MEE “Tensions between Britain and Israel are escalating after the UK imposed sanctions on illegal Israeli settlements and banned settlement goods.”](https://vm.tiktok.com/ZN82TB4G7/) – *you would have thought this was an arms ban; how bad are those economies rn? Remember: there is always an option here which is to treat Palestinians as real human people. This is why sanctions are happening. Israeli politicians suddenly discovering colonialism when it isn’t them is precious*
 - [📹: Jupiterbaal, via TikTok: “Israel Is Losing the Narrative”](https://vm.tiktok.com/ZN82TAMuV/) – *concerning the breaking of the Western self-image, and the potential impacts on Israeli elections*  
 - [📹: BBC: “BBC Internatiohal Editor Jeremy Bowen gives Newscast his reactions to Foreign Secretary Ed Milibands choice of words.”](https://vm.tiktok.com/ZN82TB7xD/)
+- [📹: Declassified: “Britain 1S poteng Sanctions of Israel's
+illegal settlements, but what about UK nationals who live on them? Labour's Sam Rushworth asks Foreign Secretary Ed Miliband if he will take action against them.”](https://vm.tiktok.com/ZN82T6jtb/)  
 
 
 --- 
