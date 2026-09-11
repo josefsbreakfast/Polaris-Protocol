@@ -1,6 +1,6 @@
 # 🫧 The BLEURGH Principle
 
-**First created:** 2026-09-11 | **Last updated:** 2026-09-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-11  
 *The point at which correcting harm starts to become managing the consequences of admitting, investigating, or correcting harm.*
 
 ---
