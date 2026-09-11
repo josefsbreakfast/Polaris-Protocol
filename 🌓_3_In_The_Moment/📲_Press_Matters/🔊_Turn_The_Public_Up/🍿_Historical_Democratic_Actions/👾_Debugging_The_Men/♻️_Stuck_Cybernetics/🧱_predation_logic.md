@@ -1,6 +1,6 @@
 # 🧱 Predation Logic
 
-**First created:** 2026-09-11 | **Last updated:** 2026-09-11  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-11  
 *How environments make predation easier to initiate, repeat, normalise, and defend against correction.*
 
 ---
