@@ -822,7 +822,8 @@ I feel far safer behind the Jewish men standing up for international law, than a
 - [📰: The Times of Israel: “Trump, briefed in advance, didn’t ask UK to wait with settlement sanctions”](https://www.timesofisrael.com/trump-briefed-in-advance-didnt-ask-uk-to-wait-with-settlement-sanctions-official/)
 - [📰: Em Hilton, for The Guardian: “The UK’s sanctions on Israeli settlements are a great victory – but must be only the beginning”](https://www.theguardian.com/commentisfree/2026/sep/10/uk-sanctions-israel-settlements-activists-palestine-movement) – *the co-founder of Na’amod: UK Jews Against Israeli Occupation, and the policy director at Diaspora Alliance*
 - [📹: MEE “Tensions between Britain and Israel are escalating after the UK imposed sanctions on illegal Israeli settlements and banned settlement goods.”](https://vm.tiktok.com/ZN82TB4G7/) – *you would have thought this was an arms ban; how bad are those economies rn? Remember: there is always an option here which is to treat Palestinians as real human people. This is why sanctions are happening. Israeli politicians suddenly discovering colonialism when it isn’t them is precious*
-- [📹: Jupiterbaal, via TikTok: “Israel Is Losing the Narrative”](https://vm.tiktok.com/ZN82TAMuV/)  
+- [📹: Jupiterbaal, via TikTok: “Israel Is Losing the Narrative”](https://vm.tiktok.com/ZN82TAMuV/) – *concerning the breaking of the Western self-image, and the potential impacts on Israeli elections*  
+- [📹: BBC: “BBC Internatiohal Editor Jeremy Bowen gives Newscast his reactions to Foreign Secretary Ed Milibands choice of words.”](https://vm.tiktok.com/ZN82TB7xD/)
 
 
 --- 
