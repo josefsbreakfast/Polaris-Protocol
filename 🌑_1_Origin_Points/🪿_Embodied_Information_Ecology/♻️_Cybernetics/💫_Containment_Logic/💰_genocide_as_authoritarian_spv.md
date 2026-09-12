@@ -1,5 +1,5 @@
 # 💰 Genocide as Authoritarian SPV  
-**First created:** 2025-12-24 | **Last updated:** 2026-08-14  
+**First created:** 2025-12-24 | **Last updated:** 2026-09-12  
 *How mass violence functions as a liability-laundering vehicle for imperial and authoritarian power.*
 
 ---
@@ -12,6 +12,8 @@ The harm is real.
 The victims are real.
 
 What is analysed here is how **responsibility is displaced**, not how suffering is imagined.
+
+**Genocide is a specific legal term.** This node does not independently determine whether a particular situation satisfies that definition; it applies its structural model to established findings or carefully attributed allegations, while using *mass atrocity* for the wider category.
 
 ---
 
@@ -74,6 +76,12 @@ You are likely observing genocide functioning as an SPV when:
 
 ---
 
+## 📚 Source and Legal Anchor
+
+- [United Nations: “Definitions of Genocide and Related Crimes”](https://www.un.org/en/genocide-prevention/definition)
+
+---
+
 ## 🌌 Constellations  
 ⚖️ 🧱 💣 🧠 💰 — mass violence, governance insulation, moral displacement.
 
@@ -86,14 +94,22 @@ genocide, imperial violence, liability laundering, delegated brutality, authorit
 
 ## 🏮 Footer  
 
-*💰 Genocide as Authoritarian SPV* is a living node of the Polaris Protocol.  
+*💰 Genocide as Authoritarian SPV* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It analyses how mass atrocity is structurally absorbed by power systems to preserve elite insulation.
 
 > 📡 Cross-references:
 > 
-> - [💰 Elite Authoritarianism and SPVs](./💰_elite_authoritarianism_and_spvs.md)  
-> - [💰 Migration as SPV](./💰_migration_as_spv.md)  
+> - [💰 Elite Authoritarianism and SPVs](./💰_elite_authoritarianism_and_spvs.md) — *the foundational model of liability isolation within governance.*  
+> - [💰 Migration as SPV](./💰_migration_as_spv.md) — *how standing emergency and outsourced enforcement normalise exceptional powers.*  
+> - [🫀 Genocide by Containment](./🫀_genocide_by_containment.md) — *the harm threshold at which restrictive systems produce group-destructive outcomes.*
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-12_

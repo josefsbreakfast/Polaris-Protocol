@@ -1,5 +1,5 @@
 # 💰 Impunity Scandal as Authoritarian SPV  
-**First created:** 2025-12-24 | **Last updated:** 2026-08-14  
+**First created:** 2025-12-24 | **Last updated:** 2026-09-12  
 *How scandals themselves are used to contain, defer, and neutralise elite accountability.*
 
 ---
@@ -67,14 +67,21 @@ elite impunity, scandal containment, liability laundering, authoritarian spvs, p
 
 ## 🏮 Footer  
 
-*💰 Impunity Scandal as Authoritarian SPV* is a living node of the Polaris Protocol.  
+*💰 Impunity Scandal as Authoritarian SPV* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It analyses how exposure itself is used to prevent consequence.
 
-> 📡 Cross-references:  
+> 📡 Cross-references:
+>
+> - [💰 Elite Authoritarianism and SPVs](./💰_elite_authoritarianism_and_spvs.md) — *the foundational model of liability isolation within governance.*  
+> - [💰 Genocide as Authoritarian SPV](./💰_genocide_as_authoritarian_spv.md) — *the extension of liability containment into mass-atrocity governance.*  
 
-> - [💰 Elite Authoritarianism and SPVs](./💰_elite_authoritarianism_and_spvs.md)  
-> - [💰 Genocide as Authoritarian SPV](./💰_genocide_as_authoritarian_spv.md)  
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-12_

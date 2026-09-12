@@ -1,5 +1,5 @@
 # 💸 Containment Economics  
-**First created:** 2025-10-24 | **Last updated:** 2026-08-24  
+**First created:** 2025-10-24 | **Last updated:** 2026-09-12  
 *How institutional incentives turn short-term risk management into long-term economic, cultural and human depletion.*
 
 ---
@@ -818,21 +818,19 @@ That does not make it economically sound.
 
 ## 🌌 Constellations
 
-💸 🕸️ 🧩 🧬 🪶 🌀 ⚖️ ❌ 🪼 🧀
-
-Containment incentives, institutional economics, displaced costs, extractive systems, cultural value, human capacity, performance metrics, distributed governance, structural dependency and long-term repair.
+💸 🕸️ 🧩 ⚖️ 🪼 — containment incentives, displaced costs, distributed governance, structural dependency and long-term repair.
 
 ---
 
 ## ✨ Stardust
 
-containment economics, no-villain dystopia, institutional incentives, displaced costs, short-term optimisation, performance metrics, KPI governance, reputational management, cultural extraction, creative labour, human infrastructure, systemic autophagy, public sector accountability, strategic vulnerability, professional burnout, long-term resilience, structural dependency, institutional repair, survivor authorship, Polaris Protocol
+containment economics, institutional incentives, displaced costs, short-term optimisation, performance metrics, reputational management, cultural extraction, professional burnout, long-term resilience, institutional repair
 
 ---
 
 ## 🏮 Footer
 
-*💸 Containment Economics* is a living node of the Polaris Protocol.
+*💸 Containment Economics* is a living node of **Containment Logic**, within the **Polaris Protocol**.
 
 It examines how institutions can preserve immediate performance, reputational stability or financial position by transferring the costs of unresolved harm onto individuals, other organisations and the future.
 
@@ -847,6 +845,13 @@ It examines how institutions can preserve immediate performance, reputational st
 > - [🧀 When Process Holes Align](./🧀_when_process_holes_align.md) — cumulative institutional failures and the transfer of risk across organisational boundaries.
 > - [💸 Making Harm Too Expensive to Continue](../../../../🌕_5_Long_Strategies/💸_Business_Is_Tooling/💸_making_harm_too_expensive_to_continue.md) — restructuring incentives so harmful arrangements cease to be economically attractive.
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-24_
+_Last updated: 2026-09-12_

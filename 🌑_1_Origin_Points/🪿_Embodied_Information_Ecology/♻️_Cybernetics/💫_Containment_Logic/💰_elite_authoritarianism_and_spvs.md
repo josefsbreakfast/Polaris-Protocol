@@ -1,5 +1,5 @@
 # 💰 Elite Authoritarianism and SPVs  
-**First created:** 2025-12-24 | **Last updated:** 2026-08-14  
+**First created:** 2025-12-24 | **Last updated:** 2026-09-12  
 *How extremist outcomes emerge from habitual elite risk-management rather than ideology or coordination.*
 
 ---
@@ -27,7 +27,7 @@ Extremism without self-image.
 
 ## 🧠 The Psychological Substrate  
 
-Elite systems reliably exhibit:
+Elite systems can exhibit:
 - moral disengagement through abstraction  
 - responsibility diffusion  
 - instrumental reasoning over ethical reasoning  
@@ -92,15 +92,22 @@ elite authoritarianism, spv logic, liability laundering, managerial extremism, e
 
 ## 🏮 Footer  
 
-*💰 Elite Authoritarianism and SPVs* is a living node of the Polaris Protocol.  
+*💰 Elite Authoritarianism and SPVs* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It provides the foundational analytic lens for understanding how extremist outcomes emerge from ordinary elite behaviour.
 
 > 📡 Cross-references:
 > 
-> - [💰 Genocide as Authoritarian SPV](./💰_genocide_as_authoritarian_spv.md)  
-> - [💰 Migration as SPV](./💰_migration_as_spv.md)  
-> - [💰 Impunity Scandal as Authoritarian SPV](./💰_impunity_scandal_as_authoritarian_spv.md)  
+> - [💰 Genocide as Authoritarian SPV](./💰_genocide_as_authoritarian_spv.md) — *how delegated atrocity can function as a legal and reputational firebreak.*  
+> - [💰 Migration as SPV](./💰_migration_as_spv.md) — *how standing emergency and outsourced enforcement normalise exceptional powers.*  
+> - [💰 Impunity Scandal as Authoritarian SPV](./💰_impunity_scandal_as_authoritarian_spv.md) — *how exposure and inquiry can become containers that defer consequence.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-12_

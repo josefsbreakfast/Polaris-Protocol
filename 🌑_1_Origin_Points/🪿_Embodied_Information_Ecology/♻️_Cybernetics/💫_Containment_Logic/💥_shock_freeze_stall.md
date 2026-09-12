@@ -1,5 +1,5 @@
-# 💥 How Emotional Shock Distorts Institutional Decision-Making
-**First created:** 2025-11-14 | **Last updated:** 2026-08-14  
+# 💥 Shock–Freeze–Stall — How Emotional Shock Distorts Institutional Decision-Making
+**First created:** 2025-11-14 | **Last updated:** 2026-09-12  
 *Why emotional shock inside institutions leads to paralysis, poor decisions, and fragmented communication.*
 
 ---
@@ -70,7 +70,7 @@ Shock explains why survivors move faster than institutions.
 ---
 
 ## 🌌 Constellations  
-Freeze–Fog–Correction · Institutional Reflexes · Survivor Voice
+💥 🧠 🧩 🛰️ — shock, cognitive paralysis, institutional reflexes and survivor timing.
 
 ---
 
@@ -80,4 +80,22 @@ emotional shock, governance distortion, cognitive paralysis, organisational beha
 ---
 
 ## 🏮 Footer  
-*How Emotional Shock Distorts Institutional Decision-Making* explains why shock is the first — and most disruptive — stage of institutional response.
+*💥 Shock–Freeze–Stall — How Emotional Shock Distorts Institutional Decision-Making* is a living node of **Containment Logic**, within the **Polaris Protocol**.
+
+It explains how shock can distort institutional communication and decision-making before ordinary procedural capacity returns.
+
+> 📡 Cross-references:
+>
+> - [💥 Institutional Panic Dynamics](./💥_institutional_panic_dynamics.md) — *how individual and team shock can expand into organisation-wide panic.*
+> - [⚖️ Operational Dilemma: Fix It vs Chain of Command](./⚖️_operational_dilemma_fixit_vs_chain_of_command.md) — *the decisions facing staff when urgency collides with formal authority.*
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-12_

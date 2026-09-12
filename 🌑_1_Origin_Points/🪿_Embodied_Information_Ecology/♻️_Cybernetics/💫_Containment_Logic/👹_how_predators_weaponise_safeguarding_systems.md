@@ -1,5 +1,5 @@
 # 👹 How Predators Weaponise Safeguarding Systems  
-**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-12  
 *How high-status abusers manipulate safeguarding processes intended to protect the vulnerable.*  
 
 ---
@@ -112,7 +112,7 @@ Institutions gratefully accept the performance.
 
 ---
 
-### 4. **Why Institutions Always Fall For It**  
+### 4. **Why Institutions Can Fall For It**  
 
 #### **a) Credibility Bias**  
 Senior men simply *sound* more trustworthy to institutions.
@@ -173,7 +173,7 @@ Opacity protects manipulators.
 Predators don’t need to be clever.  
 They just need to be positioned near the controls.
 
-The architecture will persecute the target on its own.
+The architecture can continue escalating against the target without further intervention from the initiating actor.
 
 ---
 
@@ -188,9 +188,22 @@ safeguarding, predators, prevent, risk inversion, metadata, concern flags, insti
 ---
 
 ## 🏮 Footer  
-*👹 How Predators Weaponise Safeguarding Systems* is a living node of the Polaris Protocol.  
-It documents how safeguarding pathways — designed to protect — are routinely manipulated by high-status abusers to suppress dissent, invert credibility, and isolate whistleblowers.
+*👹 How Predators Weaponise Safeguarding Systems* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
+It documents how safeguarding pathways designed to protect can be manipulated by high-status abusers to suppress dissent, invert credibility and isolate whistleblowers.
+
+> 📡 Cross-references:
+>
+> - [🌀 Behavioural Containment and Unfalsifiable Suspicion](./🌀_behavioural_containment_and_unfalsifiable_suspicion.md) — *how concern can become a circular classification that no response is allowed to disprove.*
+> - [🌀 Ambiguity as Containment](./🌀_ambiguity_as_containment.md) — *how vague thresholds and fragmented responsibility enable manipulation.*
+> - [🐢 Behavioural Proxies All the Way Down](./🐢_behavioural_proxies_all_the_way_down.md) — *how simplified behavioural signals become substitutes for evidence of identity, intent and risk.*
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-12_

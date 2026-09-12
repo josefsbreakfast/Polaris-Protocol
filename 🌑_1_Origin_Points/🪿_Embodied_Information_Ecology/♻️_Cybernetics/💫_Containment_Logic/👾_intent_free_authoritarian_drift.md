@@ -1,15 +1,15 @@
 # 👾 Intent-Free Authoritarian Drift
-**First created:** 2025-11-18 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-18 | **Last updated:** 2026-09-12  
 *How collapsing systems, behavioural governance, and institutional fear create authoritarian outcomes without authoritarian intent.*  
 
 ---
 
-## Orientation
+## 🧭 Orientation
 This note explains how authoritarian-style behaviour can emerge in democratic institutions even when no individual or organisation intends it. Authoritarian drift happens when structural pressure, poor system design, and fear-based decision-making produce outcomes that restrict freedom, suppress expression, and increase surveillance. PREVENT, austerity, and behavioural nudging intensify this drift by encouraging anticipatory suspicion and over-escalation.
 
 ---
 
-## Key Features
+## ✨ Key Features
 - Authoritarian effects can arise without central planning.
 - Fear, liability, and system fragility drive escalation.
 - Behavioural governance suppresses expression and dissent.
@@ -41,15 +41,15 @@ These survival behaviours look authoritarian because they narrow permissible beh
 ## Behavioural governance as a drift accelerant
 Nudging and behavioural monitoring promote subtle forms of control. In stable systems, this may be a minor concern. In collapsing ones, behavioural governance becomes a tool for maintaining order without capacity. The result is pressure on individuals to self-silence, flatten affect, and avoid anything that could be misread as a risk.
 
-## How PREVENT amplifies the drift
-PREVENT introduces anticipatory suspicion—looking for early signs of potential harm. When layered onto austerity, understaffing, or institutional anxiety, this logic magnifies:
+## How PREVENT Can Amplify the Drift
+Prevent is formally intended to stop people from becoming terrorists or supporting terrorism through early intervention. This node examines how anticipatory risk logic can nevertheless magnify the following problems when layered onto austerity, understaffing or institutional anxiety:
 - misinterpretation
 - distrust
 - escalation
 - surveillance
 - suppression of emotion
 - suppression of political thought
-PREVENT acts as a gateway for authoritarian-style practices because it normalises early intervention based on subjective impressions.
+In poorly governed settings, Prevent-style early intervention can become a gateway for authoritarian effects where subjective impressions are treated as evidence rather than prompts for careful assessment.
 
 ## Why intent is not required
 Authoritarian drift does not depend on:
@@ -88,14 +88,40 @@ If drift is not recognised, systems continue to tighten around vulnerable people
 
 ---
 
-## Footer
-*👾 Intent-Free Authoritarian Drift* is part of the Governance & Prevent cluster. It documents how authoritarian effects can arise unintentionally from structural dysfunction, behavioural governance, and institutional fear.
+## 📚 Source and Policy Anchor
 
-> Cross-references:
+- [GOV.UK: “Prevent Duty Guidance: England and Wales (2023)”](https://www.gov.uk/government/publications/prevent-duty-guidance)
+
+---
+
+## 🌌 Constellations
+
+👾 🧠 🧿 🌀 ⚖️ — authoritarian effects, institutional fear, behavioural governance, systemic drift and democratic safeguards.
+
+---
+
+## ✨ Stardust
+
+authoritarian drift, intent-free harm, behavioural governance, prevent, institutional fear, system failure, democratic safeguards
+
+---
+
+## 🏮 Footer
+*👾 Intent-Free Authoritarian Drift* is a living node of **Containment Logic**, within the **Polaris Protocol**. It documents how authoritarian effects can arise unintentionally from structural dysfunction, behavioural governance and institutional fear.
+
+> 📡 Cross-references:
 > 
-> - PREVENT as National Behaviour Dampener
-> - PREVENT’s Frankenstack Architecture
-> - Predictive Logic Without Predictive Infrastructure
-> - Opportunistic Escalation in Collapsing Systems
+> - [🌀 Surveillance as Self-Fulfilling Cycle](./🌀_surveillance_as_self_fulfilling_cycle.md) — *how monitoring can produce the behaviour later interpreted as justification for more monitoring.*
+> - [🏚️ Cultural Drift Toward Coercive Logic](./🏚️_cultural_drift_toward_coercive_logic.md) — *how ordinary norms can harden into coercive organisational culture.*
+> - [🌀 When System Behaviour Stops Making Sense](./🌀_when_system_behaviour_stops_making_sense.md) — *the phenomenology and warning signs of institutional drift.*
 
-_Last updated: 2026-08-14_
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-12_
