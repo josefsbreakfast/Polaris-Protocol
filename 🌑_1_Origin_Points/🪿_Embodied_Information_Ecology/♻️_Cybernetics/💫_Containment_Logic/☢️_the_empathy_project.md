@@ -1,5 +1,5 @@
 # ☢️ The Empathy Project  
-**First created:** 2025-11-10 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-10 | **Last updated:** 2026-09-12  
 *From wartime research environments to contemporary affective computing — how institutions structure and manage unconventional forms of cognition.*  
 
 ---
@@ -82,7 +82,7 @@ but recur across complex research environments.
 
 Following major scientific or technological breakthroughs, individuals involved may respond in different ways.
 
-Historical accounts of figures such as :contentReference[oaicite:0]{index=0}, :contentReference[oaicite:1]{index=1}, and :contentReference[oaicite:2]{index=2} illustrate a range of post-project positions:
+Historical accounts of people involved in major scientific and technological programmes illustrate a range of post-project positions:
 
 - ethical reflection,  
 - continued advocacy,  
@@ -102,7 +102,7 @@ Research that falls outside mainstream scientific or institutional frameworks ha
 - reputational challenge,  
 - or exclusion from formal research ecosystems.  
 
-The case of :contentReference[oaicite:3]{index=3} is often cited in discussions of contested or marginalised research.
+Histories of contested or marginalised research are often invoked in discussions about where legitimate boundary-testing ends and insufficiently governed experimentation begins.
 
 Interpretations of such cases vary widely,  
 and they are best understood as **boundary examples**, rather than direct parallels.
@@ -167,6 +167,13 @@ Too little may increase risk.
 
 ---
 
+## 📚 Sources
+
+- [National Park Service: “Manhattan Project Science at Los Alamos”](https://www.nps.gov/articles/000/manhattan-project-science-at-los-alamos.htm) — *historical account of the Los Alamos research programme and scientific organisation*  
+- [MIT Media Lab: “When AI Recognizes Emotion, with Rosalind Picard”](https://www.media.mit.edu/articles/when-ai-recognizes-emotion-with-rosalind-picard/) — *orientation to affective computing and its attempt to narrow the emotional gap between people and machines*  
+
+---
+
 ## 🌌 Constellations  
 ☢️ 🧠 💥 ⚖️ 🤖 — research governance; cognitive diversity; institutional constraint  
 
@@ -178,15 +185,23 @@ manhattan project, research governance, affective computing, institutional struc
 ---
 
 ## 🏮 Footer  
-*☢️ The Empathy Project* is a living node of the **Polaris Protocol**.  
+*☢️ The Empathy Project* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It examines how institutions organise, enable, and constrain unconventional forms of research and cognition across different historical and technological contexts.  
 
 > 📡 Cross-references:
 > 
-> - [📚 Library as Algorithmic Interface](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📚_library_as_algorithmic_interface.md)  
-> - [🤖 Algorithmic Conscience](../📚_Narrative_Management/🤖_algorithmic_conscience.md)  
-> - [⚖️ The Teaching Hospital Loophole](../🧪_Development_Experimentation/⚖️_the_teaching_hospital_loophole.md)  
+> - [📚 Library as Algorithmic Interface](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/📚_library_as_algorithmic_interface.md) — *how knowledge environments organise access, inference and memory*  
+> - [🤖 Algorithmic Conscience](../📚_Narrative_Management/🤖_algorithmic_conscience.md) — *machine-mediated judgment and institutional moral reasoning*  
+> - [⚖️ The Teaching Hospital Loophole](../🧪_Development_Experimentation/⚖️_the_teaching_hospital_loophole.md) — *research governance where care, training and experimentation overlap*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

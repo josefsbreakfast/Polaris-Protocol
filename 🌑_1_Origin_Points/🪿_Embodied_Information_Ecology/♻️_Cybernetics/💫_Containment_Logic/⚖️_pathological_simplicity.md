@@ -1,5 +1,5 @@
 # ⚖️ Pathological Simplicity — When Algorithms Misread Human Complexity  
-**First created:** 2025-10-16 | **Last updated:** 2026-08-23  
+**First created:** 2025-10-16 | **Last updated:** 2026-09-12  
 *How systems optimised for measurement can struggle to represent and respond to context-dependent human behaviour.*  
 
 ---
@@ -121,15 +121,23 @@ algorithmic systems, data governance, complexity, proxies, optimisation, human j
 
 ## 🏮 Footer  
 
-*⚖️ Pathological Simplicity — When Algorithms Misread Human Complexity* is a living analytical node of the **Polaris Protocol**.  
+*⚖️ Pathological Simplicity — When Algorithms Misread Human Complexity* is a living analytical node of **Containment Logic**, within the **Polaris Protocol**.  
 It examines how measurement-driven systems interact with context-dependent human behaviour, and the implications for governance and decision-making.  
 
 > 📡 Cross-references:
 > 
-> - [🧠 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md)  
-> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md)  
-> - [🧪 Development & Experimentation](../../🌀_System_Governance/🧪_Development_Experimentation/README.md)  
+> - [🧠 HM Dept Coercive Nudges](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/README.md) — *behavioural governance and institutional influence*  
+> - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of systems that classify, monitor and intervene*  
+> - [🧪 Development & Experimentation](../../🌀_System_Governance/🧪_Development_Experimentation/README.md) — *testing environments where simplified models meet human complexity*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

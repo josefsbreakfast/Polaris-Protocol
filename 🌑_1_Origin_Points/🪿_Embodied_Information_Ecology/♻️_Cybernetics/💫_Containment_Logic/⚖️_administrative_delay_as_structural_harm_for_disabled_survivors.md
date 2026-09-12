@@ -1,5 +1,5 @@
 # ⚖️ Administrative Delay as Structural Harm for Disabled Survivors  
-**First created:** 2025-11-22 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-22 | **Last updated:** 2026-09-12  
 *How administrative delay can produce significant harm when individuals are highly dependent on timely care and accurate classification.*  
 
 ---
@@ -133,15 +133,23 @@ administrative delay, structural harm, disability, data accuracy, healthcare acc
 
 ## 🏮 Footer  
 
-*⚖️ Administrative Delay as Structural Harm for Disabled Survivors* is a living node of the **Polaris Protocol**.  
+*⚖️ Administrative Delay as Structural Harm for Disabled Survivors* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It examines how administrative processes and data systems can interact to produce harm in high-dependency contexts.  
 
 > 📡 Cross-references:
 > 
-> - [🔥 Data Risks](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/README.md)  
-> - [🐍 Trauma Commodification](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_trauma_commodification.md)  
-> - [🐌 Delays Are Violence](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md)  
+> - [🔥 Data Risks](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/README.md) — *how inaccurate, inaccessible or poorly governed data creates downstream harm*  
+> - [🐍 Trauma Commodification](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🐍_trauma_commodification.md) — *institutional extraction from survivor experience*  
+> - [🐌 Delays Are Violence](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/🐌_delays_are_violence.md) — *delay as an active mechanism of cumulative harm*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

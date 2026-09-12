@@ -1,5 +1,5 @@
 # ⚔️ Culture War Risk Logic in UK Public Institutions  
-**First created:** 2025-11-16 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-12  
 *How culture war narratives can influence institutional behaviour, shaping risk perception, decision-making, and governance priorities.*  
 
 ---
@@ -200,16 +200,24 @@ culture war, institutional behaviour, risk perception, governance, media influen
 ---
 
 ## 🏮 Footer  
-*⚔️ Culture War Risk Logic in UK Public Institutions* is part of the **Polaris Protocol**.  
+*⚔️ Culture War Risk Logic in UK Public Institutions* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It examines how external narratives can influence institutional behaviour, particularly under conditions of heightened scrutiny and uncertainty.  
 
 > 📡 Cross-references:
 > 
-> - [🧯 PREVENT As Political Atomisation Engine](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧯_prevent_as_a_political_atomisation_engine.md)  
-> - [📛 Bureaucratic Memory Failure & Identity Contamination](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📛_bureaucratic_memory_failure.md)  
-> - [📡 Cross-System Metadata Echo Chains](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_cross_system_metadata_echo_chains.md)  
-> - [🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md)  
+> - [🧯 PREVENT As Political Atomisation Engine](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧯_prevent_as_a_political_atomisation_engine.md) — *political fragmentation through risk governance*  
+> - [📛 Bureaucratic Memory Failure & Identity Contamination](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📛_bureaucratic_memory_failure.md) — *how institutional records preserve and propagate distorted classifications*  
+> - [📡 Cross-System Metadata Echo Chains](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/📡_cross_system_metadata_echo_chains.md) — *classification effects travelling across institutional boundaries*  
+> - [🗃️ Safeguarding Logic Mission Creep & Identity-Pathologising](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🗃️_safeguarding_logic_mission_creep_and_identity_pathologising.md) — *protective frameworks expanding into identity governance*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

@@ -1,5 +1,5 @@
 # ⚖️ Autonomy vs Containment Dial  
-**First created:** 2025-10-06 | **Last updated:** 2026-08-23  
+**First created:** 2025-10-06 | **Last updated:** 2026-09-12  
 *Why autonomy, protection and institutional control cannot be reduced to a single governance dial, and how legitimate constraint must be distinguished from coercive containment.*
 
 ---
@@ -438,9 +438,7 @@ It may simply be labelled from the wrong side.
 
 ## 🌌 Constellations
 
-⚖️ 🕸️ 🌀 🧬 ❌ 🪼 🧀
-
-Personal autonomy, institutional discretion, protective constraint, information rights, distributed governance, structural dependency, proportionality, independent review and safe exit.
+⚖️ 🕸️ 🌀 🧬 🪼 — personal autonomy; institutional discretion; protective constraint; distributed governance; structural dependency; independent review; safe exit.
 
 ---
 
@@ -452,7 +450,7 @@ autonomy versus containment, personal autonomy, institutional autonomy, protecti
 
 ## 🏮 Footer
 
-*⚖️ Autonomy vs Containment Dial* is a living node of the Polaris Protocol.
+*⚖️ Autonomy vs Containment Dial* is a living node of **Containment Logic**, within the **Polaris Protocol**.
 
 It examines how autonomy, protection and institutional control interact across governance systems, and why meaningful freedom depends on identifying whose power is constrained, whose choices remain available and whether restrictive arrangements can be challenged.
 
@@ -465,7 +463,15 @@ It examines how autonomy, protection and institutional control interact across g
 > - [🪼 Beyond Containment](./🪼_beyond_containment.md) — moving from stabilisation towards accountability, resolution and repair.
 > - [⚖️ Procedural Correctness as Safeguard](./⚖️_procedural_correctness_as_safeguard.md) — lawful process as a limit on institutional discretion.
 > - [🧀 When Process Holes Align](./🧀_when_process_holes_align.md) — cumulative failure across multiple governance layers.
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

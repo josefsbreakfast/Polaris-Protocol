@@ -1,5 +1,5 @@
 # ⚖️ Metadata Integrity  
-**First created:** 2025-10-31 | **Last updated:** 2026-08-23  
+**First created:** 2025-10-31 | **Last updated:** 2026-09-12  
 *Architectures of oversight, error, and self-correction in data-driven governance systems.*  
 
 ---
@@ -63,7 +63,7 @@ This includes examining:
 
 ## 🌌 Constellations  
 
-⚖️ 🛰️ 🧠 📈 📊 📥 📠 — governance · cognition · automation · feedback · data flow  
+⚖️ 🛰️ 🧠 📈 📊 — governance; cognition; automation; feedback; data flow.  
 
 ---
 
@@ -75,17 +75,27 @@ metadata integrity · data governance · procedural systems · classification ·
 
 ## 🏮 Footer  
 
-*⚖️ Metadata Integrity* forms a core structural cluster within the **Polaris Protocol**.  
+*⚖️ Metadata Integrity* is a core structural node of **Containment Logic**, within the **Polaris Protocol**.  
 It connects technical data practices with governance outcomes, focusing on how systems maintain—or fail to maintain—accuracy and accountability over time.  
 
 > 📡 Cross-references:
 > 
-> - [*Pending:* 📊 Crown-Service Flag and Metadata Drift]  
-> - [🌋 Escalation Drift in Complex Datasets](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌋_escalation_drift_in_complex_datasets.md)  
-> - [📥 Entry-Point Abuse in Automated Datasets](../../../..Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📥_entry_point_abuse_in_automated_datasets.md)  
-> - [🧠 Cognitive Feedback and Bureaucratic Amplification](./🧠_cognitive_feedback_and_bureaucratic_amplification.md)  
-> - [📠 The 72-Hour Comedy of Compliance](./📠_the_72_hour_comedy_of_compliance.md)  
+> - *Pending: 📊 Crown-Service Flag and Metadata Drift* — *planned analysis of institutional flags and classification persistence*  
+> - [🌋 Escalation Drift in Complex Datasets](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🌋_escalation_drift_in_complex_datasets.md) — *risk classifications intensifying as data moves between systems*  
+> - [📥 Entry-Point Abuse in Automated Datasets](../../../../Metadata_Sabotage_Network/Structural_Analysis/👾_Breakpoints_And_Glitches/📥_entry_point_abuse_in_automated_datasets.md) — *how compromised inputs contaminate later automated decisions*  
+> - [🧠 Cognitive Feedback and Bureaucratic Amplification](./🧠_cognitive_feedback_and_bureaucratic_amplification.md) — *institutional interpretations reinforcing their own metadata*  
+> - [📠 The 72-Hour Comedy of Compliance](./📠_the_72_hour_comedy_of_compliance.md) — *formal responsiveness without durable correction*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 > *Integrity is not a file format. It is a process of continuous correction.*  
 
-_Last updated: 2026-08-23_
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-09-12_

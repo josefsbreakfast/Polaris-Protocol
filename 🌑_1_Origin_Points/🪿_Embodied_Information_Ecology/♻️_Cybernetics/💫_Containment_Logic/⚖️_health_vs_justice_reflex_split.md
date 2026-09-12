@@ -1,5 +1,5 @@
 # ⚖️ Health vs Justice Reflex Split  
-**First created:** 2025-11-22 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-22 | **Last updated:** 2026-09-12  
 *A comparative governance node examining how healthcare and justice systems may respond differently to emerging risk—and how this divergence can affect multi-agency outcomes.*  
 
 ---
@@ -27,7 +27,7 @@ This node describes those differences as a **“reflex split”**—a recurring 
 
 ## 🧿 Analysis  
 
-## 1. Two Distinct Response Tendencies  
+### 1. Two Distinct Response Tendencies  
 
 In simplified terms:
 
@@ -41,15 +41,15 @@ These tendencies reflect different core functions:
 
 ---
 
-## 2. Healthcare: Precautionary Escalation  
+### 2. Healthcare: Precautionary Escalation  
 
-### Common Drivers  
+#### Common Drivers  
 - duty of care  
 - safeguarding responsibilities  
 - clinical risk management  
 - organisational learning from past failures  
 
-### Typical Effects  
+#### Typical Effects  
 - early escalation or referral  
 - precautionary decision-making  
 - extensive documentation  
@@ -59,15 +59,15 @@ These tendencies reflect different core functions:
 
 ---
 
-## 3. Justice: Procedural Caution  
+### 3. Justice: Procedural Caution  
 
-### Common Drivers  
+#### Common Drivers  
 - evidentiary thresholds  
 - legal liability  
 - due process requirements  
 - constraints on disclosure  
 
-### Typical Effects  
+#### Typical Effects  
 - measured or delayed responses  
 - reliance on formal procedure  
 - limited public communication  
@@ -77,21 +77,21 @@ These tendencies reflect different core functions:
 
 ---
 
-## 4. Interaction Effects in Multi-Agency Contexts  
+### 4. Interaction Effects in Multi-Agency Contexts  
 
-### A. Escalation–Caution Mismatch  
+#### A. Escalation–Caution Mismatch  
 Urgent communication from healthcare may be interpreted by justice actors as requiring careful verification,  
 leading to slower or more formal responses.
 
 ---
 
-### B. Delay–Escalation Feedback  
+#### B. Delay–Escalation Feedback  
 Delayed responses from justice systems may be interpreted by healthcare actors as increased risk,  
 leading to further escalation.
 
 ---
 
-### C. Reinforcing Misinterpretation  
+#### C. Reinforcing Misinterpretation  
 Each system may interpret the other’s behaviour through its own framework:
 
 - precaution seen as overreaction,  
@@ -103,7 +103,7 @@ This can create:
 
 ---
 
-## 5. Potential Impacts  
+### 5. Potential Impacts  
 
 Where misalignment persists, possible effects include:
 
@@ -121,7 +121,7 @@ The impact is often most acute for individuals who are:
 
 ---
 
-## 6. Structural Compatibility Issue  
+### 6. Structural Compatibility Issue  
 
 Both response styles are internally rational:
 
@@ -132,7 +132,7 @@ These evaluation frameworks do not always align in real-time decision-making.
 
 ---
 
-## 7. Reducing the Gap  
+### 7. Reducing the Gap  
 
 Potential approaches include:
 
@@ -158,14 +158,24 @@ healthcare systems, justice systems, safeguarding, risk response, multi-agency w
 
 ## 🏮 Footer  
 
-*⚖️ Health vs Justice Reflex Split* is a living node of the **Polaris Protocol**.  
+*⚖️ Health vs Justice Reflex Split* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It examines how differing institutional mandates can produce contrasting responses to risk, particularly in multi-agency contexts.  
 
 > 📡 Cross-references:
 > 
-> - [🧭 Justice Data Ecosystem Map (2020–2025)](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧭_justice_data_ecosystem_map_2020_2025.md)  
-> - [⚖️ The Teaching Hospital Loophole](../🧪_Development_Experimentation/⚖️_the_teaching_hospital_loophole.md)  
-> - [⚖️ Courts as Sites of Harm](../⚖️_Legal_State_Governance/⚖️_courts_as_sites_of_harm.md)  
-> - [🩺 Governing Doctors in the UK](../💫_Containment_Logic/🩺_governing_doctors_in_uk.md)  
+> - [🧭 Justice Data Ecosystem Map (2020–2025)](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧬_Structural_Mapping/🧭_justice_data_ecosystem_map_2020_2025.md) — *information flows and institutional dependencies across the justice system*  
+> - [⚖️ The Teaching Hospital Loophole](../🧪_Development_Experimentation/⚖️_the_teaching_hospital_loophole.md) — *overlap between care, training, research and institutional authority*  
+> - [⚖️ Courts as Sites of Harm](../⚖️_Legal_State_Governance/⚖️_courts_as_sites_of_harm.md) — *procedural environments that may reproduce or intensify harm*  
+> - [🩺 Governing Doctors in the UK](./🩺_governing_doctors_in_uk.md) — *professional regulation and institutional control in healthcare*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
-_Last updated: 2026-08-23_
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-09-12_

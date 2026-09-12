@@ -1,5 +1,5 @@
 # ⚖️ Containment & Cut-Through in the Legal Profession  
-**First created:** 2025-10-11 | **Last updated:** 2026-08-23  
+**First created:** 2025-10-11 | **Last updated:** 2026-09-12  
 *How professional, economic, and procedural pressures can constrain legal advocacy—and the lawful mechanisms that sustain independent practice.*  
 
 ---
@@ -132,7 +132,7 @@ within appropriate ethical boundaries can:
 
 ---
 
-## 🏛️ 3. Structural Role of the Legal Profession  
+### 🏛️ 3. Structural Role of the Legal Profession  
 
 An independent legal profession contributes to:
 
@@ -162,15 +162,23 @@ legal profession, professional ethics, advocacy, rule of law, confidentiality, i
 
 ## 🏮 Footer  
 
-*⚖️ Containment & Cut-Through in the Legal Profession* is a living node of the **Polaris Protocol**.  
+*⚖️ Containment & Cut-Through in the Legal Profession* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It examines how legal practice operates under pressure, and how professional independence can be maintained within established legal frameworks.  
 
 > 📡 Cross-references:
 > 
-> - [📜 Statutes — Parliamentary Procedures](../../🦕_Elder_Influencers/📜_Statutes/README.md)  
-> - [📰 DSMA Notices & Atrocity-Risk Reporting](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/📰_dsma_notices_and_atrocity_risk_reporting.md)  
-> - [⚖️ Legal Hooks for Muted Books](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md)  
+> - [📜 Statutes — Parliamentary Procedures](../../🦕_Elder_Influencers/📜_Statutes/README.md) — *legislative and procedural routes through which legal constraints are formalised*  
+> - [📰 DSMA Notices & Atrocity-Risk Reporting](../../🪄_Expression_Of_Norms/📺_Money_Talks_Media/📰_dsma_notices_and_atrocity_risk_reporting.md) — *professional judgment where security claims intersect with public-interest reporting*  
+> - [⚖️ Legal Hooks for Muted Books](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_legal_hooks_for_muted_books.md) — *legal mechanisms for protecting suppressed memory and publication*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

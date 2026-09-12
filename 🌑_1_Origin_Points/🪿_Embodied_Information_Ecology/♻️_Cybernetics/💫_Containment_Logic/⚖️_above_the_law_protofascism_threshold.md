@@ -1,5 +1,5 @@
 # ⚖️ Above the Law — Protofascism Threshold  
-**First created:** 2025-11-09 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-09 | **Last updated:** 2026-09-12  
 *An analytical model for examining how concentrations of economic power may affect legal accountability and democratic governance.*  
 
 ---
@@ -160,16 +160,24 @@ governance, accountability, regulatory systems, economic power, oversight, data 
 
 ## 🏮 Footer  
 
-*⚖️ Above the Law — Protofascism Threshold* is a living node of the **Polaris Protocol**.  
+*⚖️ Above the Law — Protofascism Threshold* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It provides an analytical framework for examining how concentrations of power may interact with legal and democratic systems.  
 
 > 📡 Cross-references:
 > 
-> - [🧭 Are We Fascist Yet?](./🧭_are_we_fascist_yet.md)  
-> - [🐝 Post-Protofascist Reconstruction](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🐝_post_protofascist_reconstruction.md)  
-> - [👾 Intent-Free Authoritarian Drift](./👾_intent_free_authoritarian_drift.md)  
-> - [🏛️ The Boringing (UK 2010–2025)](./🏛️_the_boringing_uk_2010_2025.md)  
+> - [🧭 Are We Fascist Yet?](./🧭_are_we_fascist_yet.md) — *diagnostic thresholds for authoritarian and fascist system change*  
+> - [🐝 Post-Protofascist Reconstruction](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🐝_post_protofascist_reconstruction.md) — *repair after institutional capture and asymmetric accountability*  
+> - [👾 Intent-Free Authoritarian Drift](./👾_intent_free_authoritarian_drift.md) — *authoritarian outcomes emerging without a singular directing intent*  
+> - [🏛️ The Boringing (UK 2010–2025)](./🏛️_the_boringing_uk_2010_2025.md) — *administrative normalisation of democratic decline*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

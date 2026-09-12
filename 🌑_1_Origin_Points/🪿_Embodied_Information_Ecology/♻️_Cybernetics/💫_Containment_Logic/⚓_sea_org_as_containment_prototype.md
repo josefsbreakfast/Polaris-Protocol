@@ -1,5 +1,5 @@
 # ⚓ Sea Org as Containment Prototype  
-**First created:** 2025-11-07 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-07 | **Last updated:** 2026-09-12  
 *How maritime isolation and organisational structure can combine to produce highly controlled environments.*  
 
 ---
@@ -132,9 +132,20 @@ but a way of describing **how certain structural features may operate together**
 
 ---
 
+## 📚 Sources
+
+The organisation’s own account and external scholarship describe its history and commitments from materially different perspectives. They are included together so that institutional self-description is not mistaken for independent assessment.
+
+- [Church of Scientology: “What Is the Sea Organization?”](https://www.scientology.org/faq/church-management/what-is-the-sea-organization.html) — *the organisation’s account of its establishment, purpose and maritime history*  
+- [Stephen A. Kent: “Scientology — Is This a Religion?”](https://archiv.ub.uni-marburg.de/ep/0004/article/view/3754) — *scholarly analysis of Scientology and the Sea Org’s internal social structure*  
+- [Phil Lord: “The Eternal Commitment: Scientology’s Billion-Year Contract”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3297379) — *legal and organisational analysis of the Sea Org commitment*  
+- [J. Gordon Melton: “A Contemporary Ordered Religious Community: The Sea Organization”](https://cesnur.net/wp-content/uploads/2018/04/tjoc_2_2_3_melton.pdf) — *a contrasting scholarly account of recruitment, communal life and organisational discipline*  
+
+---
+
 ## 🌌 Constellations  
 
-⚓ 🌊 🧠 🕳️ 🧭 ⏳ — isolation environments; organisational structure; control dynamics  
+⚓ 🌊 🧠 🕳️ 🧭 — isolation environments; organisational structure; control dynamics  
 
 ---
 
@@ -146,14 +157,22 @@ sea org, maritime environments, organisational control, jurisdictional complexit
 
 ## 🏮 Footer  
 
-*⚓ Sea Org as Containment Prototype* is a living node of the **Polaris Protocol**.  
+*⚓ Sea Org as Containment Prototype* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It uses a maritime organisational model as a case study for understanding how isolation, structure, and information environments can interact.  
 
 > 📡 Cross-references:
 > 
-> - [🪸 Floating Commons — Humane Sovereignty at Sea](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪸_floating_commons_humane_sovereignty_at_sea.md)  
-> - [🧬 Exit, Exploitation, and Immortality — The Thiel Paradox](../../🦕_Elder_Influencers/🕸️_World_Webs/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md)  
+> - [🪸 Floating Commons — Humane Sovereignty at Sea](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🪸_floating_commons_humane_sovereignty_at_sea.md) — *a humane counter-architecture for maritime sovereignty*  
+> - [🧬 Exit, Exploitation, and Immortality — The Thiel Paradox](../../🦕_Elder_Influencers/🕸️_World_Webs/🧬_exit_exploitation_and_immortality_the_thiel_paradox.md) — *exit ideology, private power and jurisdictional escape*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

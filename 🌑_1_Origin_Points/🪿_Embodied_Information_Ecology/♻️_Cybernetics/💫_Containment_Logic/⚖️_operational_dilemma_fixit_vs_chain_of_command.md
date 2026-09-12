@@ -1,6 +1,5 @@
-# ⚖️ Operational Dilemma: Fix It vs Chain of Command
-
-**First created:** 2025-09-05 | **Last updated:** 2026-08-23  
+# ⚖️ Operational Dilemma: Fix It vs Chain of Command  
+**First created:** 2025-09-05 | **Last updated:** 2026-09-12  
 *How institutions should respond when an urgent problem requires action, but formal authority, independent oversight and responsibility for correction are distributed across different people or organisations.*
 
 ---
@@ -898,7 +897,7 @@ operational governance, chain of command, remediation, escalation, interim prote
 
 ## 🏮 Footer
 
-*⚖️ Operational Dilemma: Fix It vs Chain of Command* is a living node of the **Polaris Protocol**.
+*⚖️ Operational Dilemma: Fix It vs Chain of Command* is a living node of **Containment Logic**, within the **Polaris Protocol**.
 
 It examines how institutions should respond when urgent protection, formal authority, independent scrutiny and responsibility for correction do not sit with the same person or organisation.
 
@@ -910,7 +909,15 @@ It examines how institutions should respond when urgent protection, formal autho
 > - [🔬 Lost Checks and Balances](./🔬_lost_checks_and_balances.md) — *how the disappearance of dissenting expertise and independent scrutiny makes operational correction harder to initiate.*
 > - [⚖️ PSED Protection Logic](./⚖️_psed_protection_logic.md) — *the equality and accessibility implications of escalation pathways that work differently across affected groups.*
 > - [🐼 Due Diligence and Operational Capacity in Policing](./🐼_due_diligence_and_operational_capacity_in_policing.md) — *the next operational layer: whether professionals have sufficient time, authority, reliable information and support to recognise and act on problems.*
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_
