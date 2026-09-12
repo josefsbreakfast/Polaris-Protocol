@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-12 20:29:44 UTC_
+_Generated on 2026-09-12 21:25:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -657,6 +657,7 @@ _Generated on 2026-09-12 20:29:44 UTC_
         - [`📈_polished_authoritarianism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📈_polished_authoritarianism.md)
         - [`📋_loop_tickbox_vs_cognitive_load.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📋_loop_tickbox_vs_cognitive_load.md)
         - [`📋_tick_box_compliance_as_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📋_tick_box_compliance_as_containment.md)
+        - [`📚_memory_market_machinery_of_data_exhaust.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📚_memory_market_machinery_of_data_exhaust.md)
         - [`📚_meta_silence_optimisation_of_ignorance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📚_meta_silence_optimisation_of_ignorance.md)
         - [`📚_reflex_to_hide_the_book.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📚_reflex_to_hide_the_book.md)
         - [`📚_suppressed_safe_collection.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/📚_suppressed_safe_collection.md)
@@ -675,6 +676,7 @@ _Generated on 2026-09-12 20:29:44 UTC_
         - [`🔬_lost_checks_and_balances.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🔬_lost_checks_and_balances.md)
         - [`🔮_the_great_divination_machine.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🔮_the_great_divination_machine.md)
         - [`🔺_the_alignment_triangle.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🔺_the_alignment_triangle.md)
+        - [`🕊️_positive_drift.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🕊️_positive_drift.md)
         - [`🕯️_survivor_visibility_and_risk_aversion.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🕯️_survivor_visibility_and_risk_aversion.md)
         - [`🕳️_never_really_leaving_child_abuse_britain_and_the_non_escape.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🕳️_never_really_leaving_child_abuse_britain_and_the_non_escape.md)
         - [`🕳️_the_grievance_sinkhole.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🕳️_the_grievance_sinkhole.md)
@@ -693,14 +695,17 @@ _Generated on 2026-09-12 20:29:44 UTC_
         - [`🤖_mr_meeseeks_and_the_shutdown_resistance_problem.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🤖_mr_meeseeks_and_the_shutdown_resistance_problem.md)
         - [`🦁_circle_of_security_life.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🦁_circle_of_security_life.md)
         - [`🦁_we_are_citizens_not_datasets.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🦁_we_are_citizens_not_datasets.md)
+        - [`🦎_algorithmic_autotomy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🦎_algorithmic_autotomy.md)
         - [`🦑_toxic_systems_dont_need_monsters.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🦑_toxic_systems_dont_need_monsters.md)
         - [`🦕_post_modern_fellow_travellers.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🦕_post_modern_fellow_travellers.md)
+        - [`🦠_systemic_porosity.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🦠_systemic_porosity.md)
         - [`🦠_toxic_legitimacy_cycles.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🦠_toxic_legitimacy_cycles.md)
         - [`🧀_when_process_holes_align.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧀_when_process_holes_align.md)
         - [`🧊_the_freeze_sector_wide_silence_handling_pattern.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧊_the_freeze_sector_wide_silence_handling_pattern.md)
         - [`🧠_bureaucratic_fast_thinking_and_reputational_harm.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧠_bureaucratic_fast_thinking_and_reputational_harm.md)
         - [`🧠_multilock_overlapping_covertion.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧠_multilock_overlapping_covertion.md)
         - [`🧠_smart_women_get_surveillance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧠_smart_women_get_surveillance.md)
+        - [`🧨_we_are_already_paying_the_cost.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧨_we_are_already_paying_the_cost.md)
         - [`🧩_asymmetric_democratic_policing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_asymmetric_democratic_policing.md)
         - [`🧩_colonial_scripts_in_modern_bureaucracies.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_colonial_scripts_in_modern_bureaucracies.md)
         - [`🧩_counter_extraction_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_counter_extraction_loop.md)
@@ -720,6 +725,7 @@ _Generated on 2026-09-12 20:29:44 UTC_
         - [`🧭_data_slip_to_narrative_spiral.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧭_data_slip_to_narrative_spiral.md)
         - [`🧭_leadership_management_and_moral_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧭_leadership_management_and_moral_containment.md)
         - [`🧭_pension_funds_as_containment_instruments.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧭_pension_funds_as_containment_instruments.md)
+        - [`🧭_reflexive_risk.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧭_reflexive_risk.md)
         - [`🧭_regulating_the_regulators_oversight_of_oversight.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧭_regulating_the_regulators_oversight_of_oversight.md)
         - [`🧮_deepthought_datagov_problem.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧮_deepthought_datagov_problem.md)
         - [`🧮_optimisation_and_the_fascism_of_efficiency.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧮_optimisation_and_the_fascism_of_efficiency.md)
@@ -735,8 +741,10 @@ _Generated on 2026-09-12 20:29:44 UTC_
         - [`🪞_ethical_censorship_continuum.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🪞_ethical_censorship_continuum.md)
         - [`🪞_the_muu_class.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🪞_the_muu_class.md)
         - [`🪢_hygienic_cut.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🪢_hygienic_cut.md)
+        - [`🪦_cecot_as_rights_void_facility.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🪦_cecot_as_rights_void_facility.md)
         - [`🪦_the_protagonist_problem.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🪦_the_protagonist_problem.md)
         - [`🪼_beyond_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🪼_beyond_containment.md)
+        - [`🫀_genocide_by_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🫀_genocide_by_containment.md)
         - [`🫀_pixels_do_not_touch.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🫀_pixels_do_not_touch.md)
         - [`🫒_occupation_as_containment_regime.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🫒_occupation_as_containment_regime.md)
         - [`🫥_when_you_dont_want_to_be_seen_touching_it.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🫥_when_you_dont_want_to_be_seen_touching_it.md)
