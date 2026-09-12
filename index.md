@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-12 20:07:22 UTC_
+_Generated on 2026-09-12 20:08:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2525,8 +2525,8 @@ _Generated on 2026-09-12 20:07:22 UTC_
         - [`🧄_would_you_like_to_join_a_cult.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🧄_would_you_like_to_join_a_cult.md)
         - [`🧠_ai_ethicswash.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🧠_ai_ethicswash.md)
         - [`🧪_acid_accelerationism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🧪_acid_accelerationism.md)
-      - [**🫖_Very_British_FAscisms/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🫖_Very_British_FAscisms/)
-        - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🫖_Very_British_FAscisms/notes.txt)
+      - [**🫖_Very_British_Fascisms/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🫖_Very_British_Fascisms/)
+        - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🫖_Very_British_Fascisms/notes.txt)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/notes.txt)
       - [`🪓_kissingers_little_leninist.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🪓_kissingers_little_leninist.md)
