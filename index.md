@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-11 02:10:46 UTC_
+_Generated on 2026-09-12 05:05:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2223,7 +2223,9 @@ _Generated on 2026-09-11 02:10:46 UTC_
         - [`🪶_folk_accountability.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪶_folk_accountability.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
+      - [`🎶_british_political_history_audio_edition.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🎶_british_political_history_audio_edition.md)
       - [`👾_when_disinformation_obscures_disinformation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/👾_when_disinformation_obscures_disinformation.md)
+      - [`📺_funding_britishness.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📺_funding_britishness.md)
       - [`🫒_the_body_is_not_the_explanation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🫒_the_body_is_not_the_explanation.md)
     - [**🕸️🧿_The_Observed_Information_Space/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/.🌱_Still_Growing/)
