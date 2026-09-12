@@ -1,5 +1,5 @@
 # ⭕️ Erosion of Legitimacy Loops  
-**First created:** 2025‑11‑02 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-02 | **Last updated:** 2026-09-12  
 *How scandal feedback becomes a system of governance.*  
 
 ---
@@ -95,7 +95,7 @@ Erosion loops do not destroy governance — they preserve it in cynical form. To
 
 ## 🌌 Constellations  
 
-📉 Legitimacy Decay · 🧩 Accountability Failures · 🕳️ Social Memory of Impunity · 🧱 Trickle‑Down Impunity · 🪶 Tea, Toast & Transparency  
+📉 🧩 🕳️ 🧱 🪶 — legitimacy decay, accountability failure, social memory, impunity and civic repair.
 
 ---
 
@@ -107,16 +107,23 @@ trust decay, legitimacy erosion, scandal feedback, governance psychology, politi
 
 ## 🏮 Footer  
 
-*⭕️ Erosion of Legitimacy Loops* is a living node of the **Polaris Protocol** that maps how scandal‑driven feedback loops transform episodic crises into a self‑sustaining mechanism of governance, gradually wearing down public trust while preserving institutional power.  
+*⭕️ Erosion of Legitimacy Loops* is a living node of **Containment Logic**, within the **Polaris Protocol**. It maps how scandal‑driven feedback loops transform episodic crises into a self‑sustaining mechanism of governance, gradually wearing down public trust while preserving institutional power.  
 
 > 📡 Cross‑references:  
 > 
-> - [*Pending:* 🧩 accountability_failures_and_public_trust.md] — *emotional fatigue link*  
+> - *Pending: 🧩 Accountability Failures and Public Trust* — *a planned route into emotional fatigue and institutional credibility.*  
 > - [🕳️ Social Memory of Impunity — When Cover-Ups Become Cultural Reflex](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🕳️_social_memory_of_impunity.md) — *repetition as memory*  
-> - [*Pending:* 🧱 trickle_down_impunity.md] — *behavioural contagion*  
-> - [*Pending:* 🪶 tea_toast_and_transparency.md] — *inquiry satire*  
-> - [*Pending:* 📗 legitimacy_restoration_index.md] — *policy metric*  
+> - *Pending: 🧱 Trickle-Down Impunity* — *a planned route into behavioural contagion across hierarchies.*  
+> - [☕️ Tea, Toast and Transparency](./☕️_tea_toast_and_transparency.md) — *inquiry satire examining ritual hospitality without adequate disclosure.*  
+> - *Pending: 📗 Legitimacy Restoration Index* — *a planned policy metric for institutional recovery.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

@@ -1,5 +1,5 @@
 # ✂️ Engineered Disjuncture of Allies  
-**First created:** 2025-11-04 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-04 | **Last updated:** 2026-09-12  
 *How conflict is designed to look spontaneous so that containment appears necessary.*  
 
 ---
@@ -104,7 +104,7 @@ divide and conquer, reflexive control, containment, mediation, ignorance, invers
 
 ## 🏮 Footer
 
-*✂️ Engineered Disjuncture of Allies* is a living node of the Polaris Protocol.
+*✂️ Engineered Disjuncture of Allies* is a living node of **Containment Logic**, within the **Polaris Protocol**.
 It documents how systems manufacture conflict to legitimise intervention, and how ignorance sustains containment.
 
 > 📡 Cross-references:
@@ -112,6 +112,13 @@ It documents how systems manufacture conflict to legitimise intervention, and ho
 > - [🧨 Containment Scripts](../Disruption_Kit/Containment_Scripts/README.md) — *suppression architectures and manipulation methods*  
 > - [🧠 Big Picture Protocols](../Disruption_Kit/Big_Picture_Protocols/README.md) — *systemic analysis of control dynamics*  
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

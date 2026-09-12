@@ -1,5 +1,5 @@
 # ❌ Dependency, Identity and No Safe Exit  
-**First created:** 2025-11-12 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-12 | **Last updated:** 2026-09-12  
 *How dependency narrows practical choice, prolonged containment compresses identity, and systems preserve themselves by making exit more dangerous than continued participation.*
 
 ---
@@ -544,7 +544,7 @@ Several modest constraints can combine until the formal exit becomes practically
 
 ---
 
-## 🚨 Threat, Anticipation and Evidence
+## 🦚 Threat, Anticipation and Evidence
 
 Exit barriers can involve different kinds of risk.
 
@@ -875,9 +875,7 @@ See [🧀 When Process Holes Align](./🧀_when_process_holes_align.md) for the 
 
 ## 🌌 Constellations
 
-❌ 🧬 📜 🕸️ ⚖️ 🌀 🪆 🛟 🪼 🧀
-
-Structural dependency, identity compression, no-safe-exit conditions, unequal power, institutional incentives, information control, continuity of support, post-containment repair and survivor sovereignty.
+❌ 🧬 🕸️ ⚖️ 🛟 — dependency, identity compression, unequal power, safe exit and repair.
 
 ---
 
@@ -889,7 +887,7 @@ dependency and containment, no safe exit, structural captivity, identity compres
 
 ## 🏮 Footer
 
-*❌ Dependency, Identity and No Safe Exit* is a living node of the Polaris Protocol.
+*❌ Dependency, Identity and No Safe Exit* is a living node of **Containment Logic**, within the **Polaris Protocol**.
 
 It combines the analysis previously developed in *🧬 Two-Sided Dependency*, *📜 When Containment Becomes Identity* and *❌ No-Safe-Exit Conditions*, examining how unequal dependency preserves harmful arrangements, how prolonged containment compresses identity, and why meaningful exit requires material safety rather than permission alone.
 
@@ -904,6 +902,13 @@ It combines the analysis previously developed in *🧬 Two-Sided Dependency*, *�
 > - [🧭 Regulating the Regulators: Oversight of Oversight](./🧭_regulating_the_regulators_oversight_of_oversight.md) — independent scrutiny where internal routes cannot safely resolve the issue.
 > - [🧀 When Process Holes Align](./🧀_when_process_holes_align.md) — cumulative failure across connected institutional safeguards.
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

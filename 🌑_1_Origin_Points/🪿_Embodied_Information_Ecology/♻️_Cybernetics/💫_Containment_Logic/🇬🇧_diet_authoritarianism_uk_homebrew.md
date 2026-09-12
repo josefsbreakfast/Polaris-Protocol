@@ -1,5 +1,5 @@
 # 🇬🇧 Diet Authoritarianism: UK Homebrew  
-**First created:** 2025-11-20 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-20 | **Last updated:** 2026-09-12  
 *How Britain built a soft authoritarian system using politeness, paperwork, and plausible deniability rather than tanks or uniforms.*  
 
 ---
@@ -240,17 +240,24 @@ uk governance, soft authoritarianism, prevent, safeguarding misuse, local author
 
 ## 🏮 Footer  
 
-*🇬🇧 Diet Authoritarianism: UK Homebrew* is a living node of the **Polaris Protocol**.  
+*🇬🇧 Diet Authoritarianism: UK Homebrew* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It maps how Britain maintains a soft, deniable authoritarian system through bureaucracy, safeguarding language, and decentralised governance rather than overt repression.
 
 > 📡 Cross-references:
 > 
-> - [🈺 Governance & Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md)  
-> - [🧨 Prevent: The Parliamentary Surveillance Machine](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_prevent_the_parliamentary_surveillance_machine.md)  
-> - [🕷️ Prevent as Soft-Coup Infrastructure](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕷️_prevent_as_soft_coup_infrastructure.md)  
-> - [🧿 Targeting Logic Metadata Signatures](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md)  
-> - [🪆 Narrative Interference](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md)  
+> - [🈺 Governance & Prevent](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/README.md) — *the wider governance cluster for Prevent, safeguarding and institutional risk logic.*  
+> - [🧨 Prevent: The Parliamentary Surveillance Machine](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧨_prevent_the_parliamentary_surveillance_machine.md) — *how counter-extremism information can travel through parliamentary and administrative systems.*  
+> - [🕷️ Prevent as Soft-Coup Infrastructure](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🕷️_prevent_as_soft_coup_infrastructure.md) — *the node’s stronger structural account of distributed political constraint.*  
+> - [🧿 Targeting Logic Metadata Signatures](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧿_Targeting_Logic_Metadata_Signatures/README.md) — *how administrative traces reveal recurring targeting and classification patterns.*  
+> - [🪆 Narrative Interference](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/README.md) — *how narrative distortion supports deniable institutional pressure.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

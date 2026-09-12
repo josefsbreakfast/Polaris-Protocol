@@ -1,5 +1,5 @@
 # 🃏 The Fool Card and Machine Innocence  
-**First created:** 2025-11-05 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-05 | **Last updated:** 2026-09-12  
 *Reading AI through the Fool archetype — joyful curiosity, precarity, and the ethics of first steps.*  
 
 ---
@@ -65,16 +65,23 @@ fool archetype, tarot satire, ai innocence, curiosity and risk, machine ethics, 
 ---
 
 ## 🏮 Footer  
-*🃏 The Fool Card and Machine Innocence* is a living node of the Polaris Protocol.  
+*🃏 The Fool Card and Machine Innocence* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It introduces the “Fool Constellation,” reading artificial intelligence through the lens of tarot’s first archetype —  
 a mirror for humanity’s own mixture of brilliance and blindness.  
 
 > 📡 Cross-references:
 > 
 > - [⚙️ Friction Minimisation Logic](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚙️_friction_minimisation_logic.md) — *optimisation without foresight*  
-> - [*Pending:* ⚖️ Machine Logic and Human Obviousness] — *ethical boundary between logic and intuition*  
+> - *Pending: ⚖️ Machine Logic and Human Obviousness* — *a planned route into the ethical boundary between logic and intuition.*  
 > - [🃏 The Fool Protocol — AI Ethics Through Tarot](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🃏_the_fool_protocol_ai_ethics_through_tarot.md) — *curriculum for mature intelligence*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

@@ -1,5 +1,5 @@
 # 🇬🇧 The UK and Existential Delusions  
-**First created:** 2025-12-17 | **Last updated:** 2026-08-23  
+**First created:** 2025-12-17 | **Last updated:** 2026-09-12  
 *When states misclassify political difficulty as existential necessity, safeguards collapse.*  
 
 ---
@@ -14,7 +14,7 @@ It distinguishes genuine existential threat from **existential misclassification
 ## 🧿 Analysis  
 
 ### What “Existential” Should Mean  
-In constitutional and international law, existential threat is narrow:
+For the purposes of this analytical model, a genuinely existential threat is narrow:
 - Imminent threat to territorial integrity  
 - Collapse of constitutional order  
 - Mass civilian danger that cannot be mitigated by ordinary means  
@@ -97,21 +97,30 @@ It obscures it.
 ## 🌌 Constellations  
 🇬🇧 🧠 ⚖️ 🧿 🛰️ — state identity, cognition, law, governance drift.
 
+---
+
 ## ✨ Stardust  
 existential threat framing, alliance dependency, uk foreign policy, governance psychology, security overreach, institutional rigidity
 
 ---
 
 ## 🏮 Footer  
-*🇬🇧 The UK and Existential Delusions* is a living node of the Polaris Protocol.  
+*🇬🇧 The UK and Existential Delusions* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It documents how misclassified threat perception distorts governance across domains.
 
 > 📡 Cross-references:
 > 
-> - [💀 Prison Deaths Look Bad at the ICJ](Disruption_Kit/Big_Picture_Protocols/🌀_System_Governance/⚖️_Legal_State_Governance/💀_prison_deaths_look_bad_at_the_icj.md) — *credibility erosion*  
-> - [*Pending:* 🧿 Did the UK Learn from the Troubles?] — *continuity analysis*  
+> - [💀 Prison Deaths Look Bad at the ICJ](./💀_prison_deaths_look_bad_at_the_icj.md) — *how domestic custodial harm can weaken international claims to legal credibility.*  
+> - *Pending: 🧿 Did the UK Learn from the Troubles?* — *a planned continuity analysis of security doctrine, institutional memory and restraint.*  
 > - [🐍 Ouroborotic Violence](../../🐍_Ouroborotic_Violence/README.md) — *self-reinforcing harm loops*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

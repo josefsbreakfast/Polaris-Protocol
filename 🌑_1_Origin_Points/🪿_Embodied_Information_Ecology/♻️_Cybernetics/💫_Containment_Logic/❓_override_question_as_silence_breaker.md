@@ -1,5 +1,5 @@
 # ❓ Override Question as Silence Breaker  
-**First created:** 2025-09-23 | **Last updated:** 2026-08-23  
+**First created:** 2025-09-23 | **Last updated:** 2026-09-12  
 *Professional overrides as both a safeguard and a diagnostic signal of systemic silence.*  
 
 ---
@@ -72,14 +72,21 @@ override logic, type 1 perception, institutional silence, survivor intuition, fo
 
 ## 🏮 Footer  
 
-*❓ Override Question as Silence Breaker* is a living node of the Polaris Protocol.  
+*❓ Override Question as Silence Breaker* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It situates professional override as both a safeguard and a probe for forensic silence.
 
 > 📡 Cross-references:
 > 
-> - [📚 Forensic Silence](../📚_Narrative_Management/📚_forensic_silence.md) - *Active narrative gaps where records were scrubbed — the hole itself becomes evidence*  
-> - [🧠 Intuition as Skill](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md) - *Type 1 recognition as a trainable, bounded skill — from safeguarding overrides to psychic theatre*  
+> - [📚 Forensic Silence](../📚_Narrative_Management/📚_forensic_silence.md) — *active narrative gaps where records were scrubbed or withheld and the absence itself becomes an audit signal.*  
+> - [🧠 Intuition as Skill](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧠_intuition_as_skill.md) — *Type 1 recognition as a trainable, bounded skill, from safeguarding overrides to psychic theatre.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_
