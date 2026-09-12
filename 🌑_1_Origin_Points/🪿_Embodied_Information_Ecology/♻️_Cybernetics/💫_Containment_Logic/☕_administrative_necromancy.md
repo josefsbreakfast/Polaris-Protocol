@@ -1,4 +1,4 @@
-# ☕ # ☕ Administrative Necromancy --- How British Bureaucracy Waits Problems to Death
+# ☕ Administrative Necromancy --- How British Bureaucracy Waits Problems to Death
 
 **First created:** 2025-10-30 \| **Last updated:** 2026-08-23  
 *When in doubt, adjourn until reality expires.*
