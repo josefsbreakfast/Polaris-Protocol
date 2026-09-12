@@ -1,5 +1,5 @@
 # 🇺🇸 Sanctions Questions for Mr Huckabee  
-**First created:** 2026-09-09 | **Last updated:** 2026-09-11  
+**First created:** 2026-09-09 | **Last updated:** 2026-09-12  
 *What exactly is the American economic dependency threatened by targeted restrictions on illegal Israeli settlements in the occupied West Bank?*
 
 --- 
@@ -826,7 +826,8 @@ I feel far safer behind the Jewish men standing up for international law, than a
 - [📹: BBC: “BBC Internatiohal Editor Jeremy Bowen gives Newscast his reactions to Foreign Secretary Ed Milibands choice of words.”](https://vm.tiktok.com/ZN82TB7xD/)
 - [📹: Declassified: “Britain 1S poteng Sanctions of Israel's illegal settlements, but what about UK nationals who live on them? Labour's Sam Rushworth asks Foreign Secretary Ed Miliband if he will take action against them.”](https://vm.tiktok.com/ZN82T6jtb/)
 - [📹: The Daily T, on Jewish discomfort](https://vm.tiktok.com/ZN82TKhea/) – * *There is a really interesting conversation that you could build on this, in respect to British Palestinian discomfort looks like, because we do have a number of people who are essentially exiled in this country or whose families have essentially been exiled, as well as the discomfort of people who have been racialised by having a strongly anti-Palestinian narrative, but even if you truly just wanted to focus on Jewish discomfort, we can have a whole conversation around how the Talmud actually responds to this; there is discomfort which is positive and negative, and we need to be clear which one are actually talking about, because the root of the conversation in the objections raised by organisations like the BOD and JLC was actually about precursor behaviour of violence, and the risk of violence towards the Jews in this country, not simply our discomfort. The current government of Israel has previously been very open in its allegiance that building with the people who are most likely to represent a physical risk to us.*
-- [📹: MEE: “Israel's response to the UK's decision to impose sanctions is ‘weak’, said Daniel Levy.”](https://vm.tiktok.com/ZN82Tckwc/)  
+- [📹: MEE: “Israel's response to the UK's decision to impose sanctions is ‘weak’, said Daniel Levy.”](https://vm.tiktok.com/ZN82Tckwc/)
+- [📰: The New Arab: “UK to expand settlement sanctions to occupied Golan Heights, East Jerusalem”](https://www.newarab.com/news/uk-expanding-settlement-sanctions-golan-heights-e-jerusalem)  
 
 
 --- 
@@ -859,4 +860,4 @@ It records and tests economic, legal and financial claims made in response to ta
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-10_
+_Last updated: 2026-09-12_
