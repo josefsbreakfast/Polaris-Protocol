@@ -1,5 +1,5 @@
 # 🌀 Ambiguity as Containment  
-**First created:** 2025-09-14 | **Last updated:** 2026-08-23  
+**First created:** 2025-09-14 | **Last updated:** 2026-09-12  
 *How unclear rules, undisclosed thresholds, fragmented responsibilities and inaccessible explanations can restrict autonomy without an explicit prohibition.*
 
 ---
@@ -303,7 +303,7 @@ See [🌀 Behavioural Containment and Unfalsifiable Suspicion](./🌀_behavioura
 
 ---
 
-## 🏛️ Where Ambiguity Can Arise
+## ❄️ Where Ambiguity Can Arise
 
 ### Safeguarding
 
@@ -624,21 +624,19 @@ It is the transfer of uncertainty from the institution that controls the process
 
 ## 🌌 Constellations
 
-🌀 🕸️ ⚖️ 🧩 🧬 ❌ 🪼 🧀
-
-Institutional opacity, unclear thresholds, distributed responsibility, cognitive burden, information asymmetry, behavioural reframing, procedural safeguards and safe exit.
+🌀 🕸️ ⚖️ 🧩 ❌ — institutional opacity, unclear thresholds, distributed responsibility, procedural safeguards and safe exit.
 
 ---
 
 ## ✨ Stardust
 
-ambiguity as containment, bureaucratic fog, unclear rules, undisclosed thresholds, institutional opacity, information asymmetry, procedural uncertainty, safeguarding ambiguity, professional discretion, confidentiality, self-restriction, behavioural containment, distributed governance, record correction, independent review, inaccessible exit, survivor autonomy, cumulative safeguard failure, Polaris Protocol
+ambiguity as containment, bureaucratic fog, unclear rules, undisclosed thresholds, institutional opacity, information asymmetry, procedural uncertainty, behavioural containment, independent review, survivor autonomy
 
 ---
 
 ## 🏮 Footer
 
-*🌀 Ambiguity as Containment* is a living node of the Polaris Protocol.
+*🌀 Ambiguity as Containment* is a living node of **Containment Logic**, within the **Polaris Protocol**.
 
 It examines how unclear institutional rules, inaccessible explanations and fragmented responsibility can restrict meaningful autonomy without requiring an explicit prohibition or a single central decision-maker.
 
@@ -652,6 +650,13 @@ It examines how unclear institutional rules, inaccessible explanations and fragm
 > - [⚖️ Procedural Correctness as Safeguard](./⚖️_procedural_correctness_as_safeguard.md) — clear and accountable procedures as protection against arbitrary decision-making.
 > - [🧀 When Process Holes Align](./🧀_when_process_holes_align.md) — how unclear information and fragmented responsibility accumulate across institutional boundaries.
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

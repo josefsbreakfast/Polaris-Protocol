@@ -1,5 +1,5 @@
 # 🌀 Self-Consuming Cycles — When Systems Eat Their Own Ethics  
-**First created:** 2025-10-25 | **Last updated:** 2026-08-23  
+**First created:** 2025-10-25 | **Last updated:** 2026-09-12  
 *How bureaucratic, psychological, and technological structures metabolise critique into fuel.*  
 
 ---
@@ -27,7 +27,7 @@ This node provides a shared vocabulary to spot and document such loops throughou
 | **Therapeutic containment loop** | Harm named → routed into therapy → system unchanged → new case proves service “needed” | [🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪖_collateral_shame.md), [🧬 Survivor Tools](../../../Survivor_Tools/README.md) | The symptom it treats |
 | **Visibility-suppression loop** | Data exposed → flagged → hidden → suppression logged as moderation success | [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md), [🛰️ Metadata Sabotage Network](../../../../Metadata_Sabotage_Network/README.md) | Its own corrective |
 | **Innovation-risk loop** | Tech failure → ethics board → new grant → same structure rebuilt | [🧠 Machine Learning as Moral Re-education](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧠_machine_learning_as_moral_reeducation.md), [🌀 Docility Engine](../../🪄_Expression_Of_Norms/🧠_HM_Dept_Coercive_Nudges/🌀_docility_engine.md) | Its own critique |
-| **Mutual-aid fatigue loop** | Community overextends → burnout → institutional praise → renewed extraction | [⚖️ Redress Models and Limits](../⚖️_Legal_State_Governance/⚖️_redress_models_and_limits.md), [*Pending:* 🪞 Community Ombuds Node] | Its own care impulse |
+| **Mutual-aid fatigue loop** | Community overextends → burnout → institutional praise → renewed extraction | [⚖️ Redress Models and Limits](../⚖️_Legal_State_Governance/⚖️_redress_models_and_limits.md); *pending: 🪞 Community Ombuds Node* | Its own care impulse |
 | **Narrative-control loop** | Leak → PR containment → inquiry → leaks about inquiry → reputation rebuilt | [🎈 Intentional Leak Hypothesis](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🎈_intentional_leak_hypothesis.md), [🌂 Leak Archive Protocol](../../../../Metadata_Sabotage_Network/Structural_Analysis/🧼_System_Leakage_Signatures/🌂_leak_archive_protocol.md) | Its own exposure |
 
 ---
@@ -71,19 +71,28 @@ self-consumption, institutional shame, recursive ethics, moral fatigue, feedback
 ---
 
 ## 🏮 Footer
-*🌀 Self-Consuming Cycles — when systems eat their own ethics*  
-is a meta-node of the **Polaris Protocol**.  
+*🌀 Self-Consuming Cycles — When Systems Eat Their Own Ethics*  
+is a meta-node of **Containment Logic**, within the **Polaris Protocol**.  
 It traces how accountability mechanisms convert into self-sustaining rituals,  
 and offers methods to name and interrupt repetition.  
 
 > 📡 Cross-references:
 > 
-> - [🩸 Operation Shande](../📚_Narrative_Management/🩸_operation_shande.md)  
-> - [🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪖_collateral_shame.md)  
-> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
-> - [🍌 The Self-Eating System: Simulated Authenticity and Cultural Cannibalism](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍌_self_eating_system.md)  
-> - [🐍 PREVENT as a Self-Eating Snake (Early Detection Drift)](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐍_prevent_as_a_self_eating_snake.md)  
+> - [🩸 Operation Shande](../📚_Narrative_Management/🩸_operation_shande.md) — *an administrative shame loop in which exposure is converted into reputational repair.*  
+> - [🪖 Collateral Shame: Moral Injury, Veterans, & the Counterinsurgency Age](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🪖_collateral_shame.md) — *how institutional injury is displaced into individual moral burden.*  
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *how attempts to suppress information can become evidence of the underlying pattern.*  
+> - [🍌 The Self-Eating System: Simulated Authenticity and Cultural Cannibalism](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🍌_self_eating_system.md) — *the cultural form of recursive extraction and performed authenticity.*  
+> - [🐍 PREVENT as a Self-Eating Snake (Early Detection Drift)](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🐍_prevent_as_a_self_eating_snake.md) — *how early-intervention logic can reproduce the risks it claims to prevent.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Recognition is not enough; the loop breaks only when the appetite for its own virtue runs out.*
 
-_Last updated: 2026-08-23_
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-12_

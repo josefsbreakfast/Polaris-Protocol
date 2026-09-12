@@ -1,5 +1,5 @@
 # 🌀 The Fall of Institutional Integrity  
-**First created:** 2025-11-02 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-02 | **Last updated:** 2026-09-12  
 *A structural autopsy of how democratic institutions decay — and how it always starts in language.*  
 
 ---
@@ -76,7 +76,7 @@ institutional decay, authoritarian drift, euphemism, capture, collapse, semantic
 
 ## 🏮 Footer  
 
-*🌀 The Fall of Institutional Integrity* is a diagnostic node of the Polaris Protocol.  
+*🌀 The Fall of Institutional Integrity* is a diagnostic node of **Containment Logic**, within the **Polaris Protocol**.  
 It documents the structural and linguistic processes through which democratic systems corrode, setting the stage for repair.  
 
 > 📡 Cross-references:
@@ -85,6 +85,13 @@ It documents the structural and linguistic processes through which democratic sy
 > - [⚖️ Linguistic Integrity as Security Risk](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/⚖️_linguistic_integrity_as_security_risk.md) — *policy relevance*  
 > - [🌅 Rise of Institutional Integrity](../👑_Ownership_Control/🌅_rise_of_institutional_integrity.md) — *reconstruction pathway*  
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

@@ -1,5 +1,5 @@
 # 🌀 Surveillance as Self-Fulfilling Cycle  
-**First created:** 2025-10-23 | **Last updated:** 2026-08-23  
+**First created:** 2025-10-23 | **Last updated:** 2026-09-12  
 *How the logic of protection manufactures its own evidence.*  
 
 ---
@@ -59,19 +59,31 @@ Shows how behavioural analytics, “risk” scoring, and compliance metrics crea
 
 ---
 
+## ✨ Stardust
+surveillance, feedback loops, behavioural analytics, risk scoring, self-fulfilling suspicion, oversight, institutional trust
+
+---
+
 ## 🏮 Footer  
 *🌀 Surveillance as Self-Fulfilling Cycle* is a living node of the Polaris Protocol.  
 It traces how protective logic becomes predatory logic when metrics replace trust.  
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Authorisation and Oversight](../⚖️_Legal_State_Governance/⚖️_authorisation_and_oversight.md)
+> - [⚖️ Authorisation and Oversight](../⚖️_Legal_State_Governance/⚖️_authorisation_and_oversight.md) — *the legal and governance controls that should constrain surveillance powers.*
 > - [⚖️ IPCO Audit Cycle](../⚖️_Legal_State_Governance/⚖️_ipco_audit_cycle.md) — *oversight rhythms as ritual*
-> - [👾 Intent-Free Authoritarian Drift](../💫_Containment_Logic/👾_intent_free_authoritarian_drift.md) - *how this can happen without any intent to do so at all (we can all accidentally nudge the machine off its plinth*
-> - [➿ Fork Loop Disruptors](../../../Survivor_Tools/➿_fork_loop_disruptors.md)  
-> - [🌀 Loop Interruption](../../../🏮_AntiContainment_Clauses/🌀_loop_interruption.md)
-> - [🌀 Loop Mapping Station](../../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md)  
+> - [👾 Intent-Free Authoritarian Drift](./👾_intent_free_authoritarian_drift.md) — *how cumulative decisions can nudge a system towards authoritarian effects without a single authorial intent.*
+> - [➿ Fork Loop Disruptors](../../../Survivor_Tools/➿_fork_loop_disruptors.md) — *practical interventions for breaking recursive escalation.*  
+> - [🌀 Loop Interruption](../../../🏮_AntiContainment_Clauses/🌀_loop_interruption.md) — *an anti-containment safeguard for stopping self-reinforcing processes.*
+> - [🌀 Loop Mapping Station](../../../../🦆_Digital_Disruption/🧨_Counter_Nudge_Playbook/🌀_loop_mapping_station.md) — *a tool for tracing feedback, escalation and possible interruption points.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

@@ -1,5 +1,5 @@
 # 🌀 Managed Transition vs Revolution  
-**First created:** 2025-09-27 | **Last updated:** 2026-08-23  
+**First created:** 2025-09-27 | **Last updated:** 2026-09-12  
 *Why blocked reform manufactures rupture — and why survivors resist “revolutionary purity”.*  
 
 ---
@@ -98,17 +98,24 @@ managed transition, revolution, reform blockage, rupture dynamics, survivor poli
 
 ## 🏮 Footer  
 
-*🌀 Managed Transition vs Revolution* is a living node of the Polaris Protocol.  
+*🌀 Managed Transition vs Revolution* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It maps how blocked reform produces rupture, and why survivors resist narratives that erase the risks of upheaval.
 
 > 📡 Cross-references:
 > 
-> - [🗑️ Orthopaedic Anarchism (Why Millennials Can’t Throw Bins)](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md)
-> - [⚖️ Navigating Elder Spaces for Transparency](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_navigating_elder_spaces_for_transparency.md)
-> - [🧨 Where Revolutions Actually Come From](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧨_where_revolutions_actually_come_from.md)
-> - [⚖️ Transitional Change vs Rapid Revolutionary Shock](../../🦕_Elder_Influencers/🕸️_World_Webs/⚖️_transitional_change_vs_rapid_revolutionary_shock.md)
-> - [🥖 Food, Taxation, and Revolution](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🥖_food_taxation_and_revolution.md)  
+> - [🗑️ Orthopaedic Anarchism (Why Millennials Can’t Throw Bins)](../../🫀_Our_Hearts_Our_Minds/🐝_Body_Politic/🗑️_orthopaedic_anarchism_why_millennials_cant_throw_bins.md) — *the embodied limits placed on romanticised accounts of revolt.*
+> - [⚖️ Navigating Elder Spaces for Transparency](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/⚖️_navigating_elder_spaces_for_transparency.md) — *how reform can be pursued through institutions without surrendering scrutiny.*
+> - [🧨 Where Revolutions Actually Come From](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🧨_where_revolutions_actually_come_from.md) — *the material and political conditions that convert blocked reform into rupture.*
+> - [⚖️ Transitional Change vs Rapid Revolutionary Shock](../../🦕_Elder_Influencers/🕸️_World_Webs/⚖️_transitional_change_vs_rapid_revolutionary_shock.md) — *a direct comparison of managed change and abrupt systemic replacement.*
+> - [🥖 Food, Taxation, and Revolution](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🌳_Freedom_Farming_Food/🥖_food_taxation_and_revolution.md) — *how material scarcity and fiscal pressure shape revolutionary thresholds.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

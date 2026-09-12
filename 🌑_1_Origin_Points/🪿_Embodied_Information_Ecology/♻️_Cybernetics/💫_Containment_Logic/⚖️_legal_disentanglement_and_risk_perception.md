@@ -1,5 +1,5 @@
 # ⚖️ Legal Disentanglement and Risk Perception  
-**First created:** 2025-11-12 | **Last updated:** 2026-08-24  
+**First created:** 2025-11-12 | **Last updated:** 2026-09-12  
 *How linked records, overlapping responsibilities and perceived legal exposure can make institutional classifications easier to preserve than to examine, correct or safely unwind.*
 
 ---
@@ -955,21 +955,19 @@ See [🪼 Beyond Containment](./🪼_beyond_containment.md) for the transition f
 
 ## 🌌 Constellations
 
-⚖️ 🕸️ 🧬 🐢 🧠 🌀 🧮 📡 🧀 🪼
-
-Data lineage, controllership, institutional risk perception, linked records, correction propagation, automated decisions, legal uncertainty and consequential remedy.
+⚖️ 🕸️ 🧬 🌀 🪼 — data lineage, controllership, linked records, legal uncertainty and consequential remedy.
 
 ---
 
 ## ✨ Stardust
 
-legal disentanglement, risk perception, data controllership, joint controllers, processors, linked records, data lineage, accuracy principle, rectification, professional opinion, derived inference, correction propagation, data sharing, automated decision-making, DPIA, legal risk aversion, responsibility diffusion, behavioural proxies, downstream decisions, institutional accountability, survivor authorship, Polaris Protocol
+legal disentanglement, risk perception, data controllership, linked records, data lineage, accuracy principle, rectification, correction propagation, automated decision-making, institutional accountability
 
 ---
 
 ## 🏮 Footer
 
-*⚖️ Legal Disentanglement and Risk Perception* is a living node of the Polaris Protocol.
+*⚖️ Legal Disentanglement and Risk Perception* is a living node of **Containment Logic**, within the **Polaris Protocol**.
 
 It examines how personal information moves through connected institutions, how legal and reputational uncertainty can discourage correction, and why substantive disentanglement must address source records, transformed classifications and downstream decisions together.
 
@@ -987,6 +985,13 @@ It examines how personal information moves through connected institutions, how l
 > - [🧀 When Process Holes Align](./🧀_when_process_holes_align.md) — cumulative failure across multiple institutional safeguards.
 > - [🪼 Beyond Containment](./🪼_beyond_containment.md) — substantive correction, remedy and restoration beyond administrative closure.
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-24_
+_Last updated: 2026-09-12_

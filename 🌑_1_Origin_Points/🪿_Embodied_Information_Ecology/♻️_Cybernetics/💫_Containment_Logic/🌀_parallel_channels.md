@@ -1,5 +1,5 @@
 # 🌀 Parallel Channels  
-**First created:** 2025-09-14 | **Last updated:** 2026-08-23  
+**First created:** 2025-09-14 | **Last updated:** 2026-09-12  
 *Duplication of process where survivors are bounced between contradictory pathways — a containment treadmill.*  
 
 ---
@@ -18,7 +18,7 @@ But all channels lead back to the same stuck point.
 
 ---
 
-## 🏛️ Containment Treadmill  
+## ❄️ Containment Treadmill  
 
 | **Path A** | **Path B** | **Outcome** |
 |-----------|------------|-------------|
@@ -66,17 +66,24 @@ parallel process, contradictory systems, intake failure, bounced complaints, ins
 
 ## 🏮 Footer  
 
-*🌀 Parallel Channels* is a living node of the Polaris Protocol.  
+*🌀 Parallel Channels* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It maps how survivors are trapped in duplicated intake pathways that lead nowhere — containment through contradiction.
 
 > 📡 Cross-references:
 > 
-> - [🧟‍♀️ Frankenstack Bytes](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/README.md)
-> - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md)
-> - [🪼 Frankenstack Social Field Effects](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🪼_frankenstack_social_field_effects.md)
-> - [🗺️ Frankenstack Power Mapping: Incentives, Turbulence, Responsibility](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🗺️_power_mapping_frankenstack_ecosystem.md)
-> - [🧟‍♀️ Frankenstack: Neurodivergent-Friendly Explainer](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_neurodivergent.md)  
+> - [🧟‍♀️ Frankenstack Bytes](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/README.md) — *the wider cluster for interacting technical, administrative and social systems.*
+> - [🧟‍♀️ The Frankenstack Problem](../🧪_Development_Experimentation/🧟‍♀️_the_frankenstack_problem.md) — *how layered systems produce duplicated routes and unclear responsibility.*
+> - [🪼 Frankenstack Social Field Effects](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/🧟‍♀️_Frankenstack_Bytes/🪼_frankenstack_social_field_effects.md) — *the interpersonal consequences of fragmented institutional pathways.*
+> - [🗺️ Frankenstack Power Mapping: Incentives, Turbulence, Responsibility](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🗺️_power_mapping_frankenstack_ecosystem.md) — *a map of power, incentives and responsibility across the ecosystem.*
+> - [🧟‍♀️ Frankenstack: Neurodivergent-Friendly Explainer](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🧬_Further_Potential_Male_Nonsense/🧟‍♀️_frankenstack_explainer_neurodivergent.md) — *an accessible explanation of the same multi-system dynamics.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

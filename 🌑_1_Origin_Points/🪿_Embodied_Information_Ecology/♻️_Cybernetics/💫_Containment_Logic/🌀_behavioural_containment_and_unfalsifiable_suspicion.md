@@ -1,5 +1,5 @@
 # 🌀 Behavioural Containment and Unfalsifiable Suspicion  
-**First created:** 2025-11-11 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-11 | **Last updated:** 2026-09-12  
 *How institutions can reframe governance concerns as behavioural problems, and how suspicion becomes dangerous when no possible response is allowed to disprove it.*
 
 ---
@@ -213,7 +213,7 @@ When the same behaviour is always read in the least charitable direction, the as
 
 ---
 
-## 🏛️ How the Original Governance Issue Disappears
+## ❄️ How the Original Governance Issue Disappears
 
 Consider a hypothetical sequence:
 
@@ -694,21 +694,19 @@ If that question cannot be answered, the behavioural narrative may have become m
 
 ## 🌌 Constellations
 
-🌀 🪆 ⚖️ 🕸️ 🧬 🧩 ❌ 🪼 🧀
-
-Behavioural containment, psychological framing, circular suspicion, survivor credibility, evidential standards, institutional accountability, communication differences, safeguarding integrity and independent review.
+🌀 🪆 ⚖️ 🧬 🧀 — behavioural containment, circular suspicion, evidential standards, survivor credibility and safeguard integrity.
 
 ---
 
 ## ✨ Stardust
 
-behavioural containment, unfalsifiable suspicion, witch logic, circular reasoning, psychological framing, survivor credibility, diagnostic drift, behavioural labelling, safeguarding misuse, professional judgement, institutional accountability, complaint displacement, documentary distortion, disability discrimination, neurodivergent communication, information sharing, independent review, evidential integrity, procedural fairness, survivor authorship, Polaris Protocol
+behavioural containment, unfalsifiable suspicion, circular reasoning, psychological framing, survivor credibility, safeguarding misuse, disability discrimination, independent review, evidential integrity, procedural fairness
 
 ---
 
 ## 🏮 Footer
 
-*🌀 Behavioural Containment and Unfalsifiable Suspicion* is a living node of the Polaris Protocol.
+*🌀 Behavioural Containment and Unfalsifiable Suspicion* is a living node of **Containment Logic**, within the **Polaris Protocol**.
 
 It combines the analysis previously developed in *🌀 Behavioural Containment — When Governance Becomes Psychology* and *🪆 Containment Logic as Witch Logic*, examining how institutional concerns can be redirected towards a person’s behaviour and preserved through suspicion that cannot be meaningfully challenged.
 
@@ -723,6 +721,13 @@ It combines the analysis previously developed in *🌀 Behavioural Containment �
 > - [⚖️ PSED Protection Logic](./⚖️_psed_protection_logic.md) — the relationship between equality considerations, disability and institutional decision-making.
 > - [🧀 When Process Holes Align](./🧀_when_process_holes_align.md) — the accumulation of institutional errors across connected systems.
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

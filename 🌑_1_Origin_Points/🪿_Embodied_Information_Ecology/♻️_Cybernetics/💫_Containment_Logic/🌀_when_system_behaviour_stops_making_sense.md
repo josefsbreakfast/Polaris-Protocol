@@ -1,5 +1,5 @@
 # 🌀 When System Behaviour Stops Making Sense: Cognitive Dissonance in Drift  
-**First created:** 2025-11-19 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-19 | **Last updated:** 2026-09-12  
 *The eerie psychological, bureaucratic, and political moment when institutions begin behaving irrationally, inconsistently, or self-defeatingly — and why this is one of the most reliable indicators of authoritarian drift.*  
 
 ---
@@ -176,20 +176,39 @@ Your clarity is not a liability — it is insight.
 
 ---
 
+## 🌌 Constellations
+
+🌀 🧠 🧩 🧭 🧱 — cognitive dissonance, institutional drift, pattern recognition, democratic warning and normalisation.
+
+---
+
+## ✨ Stardust
+
+institutional drift, cognitive dissonance, system incoherence, democratic erosion, pattern recognition, early warning, normalisation
+
+---
+
 ## 🏮 Footer  
-*🌀 When System Behaviour Stops Making Sense: Cognitive Dissonance in Drift* is part of Polaris’ Democratic Drift Phenomenology cluster.  
+*🌀 When System Behaviour Stops Making Sense: Cognitive Dissonance in Drift* is a living node of **Containment Logic**, within the **Polaris Protocol**, and part of its Democratic Drift Phenomenology cluster.  
 It validates the uncanny recognition that institutions are no longer behaving rationally, and reframes that recognition as a form of structural intelligence rather than personal anxiety.
 
 
 > 📡 Cross-references:
 > 
-> - [🧩 The Recognition Event: When You Realise You’re Not Imagining It](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_the_recognition_event.md)  
-- [*Pending:* 🚫 when_no_one_steps_in]  
-- [⚡ Why Some People Become Systemic Lightning Rods](../../🦕_Elder_Influencers/🕊️_Just_Boxes/⚡_why_some_people_become_systemic_lightning_rods.md)  
-- [🗂️ When Institutions Start Treating You as a Category, Not a Person](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md)  
-- [🧭 How Authoritarian Drift Feels From the Inside](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_how_authoritarian_drift_feels_from_the_inside.md)  
-- [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md)  
+> - [🧩 The Recognition Event: When You Realise You’re Not Imagining It](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧩_the_recognition_event.md) — *the moment accumulated anomalies become a legible structural pattern.*  
+> - *Pending: 🚫 When No One Steps In* — *a planned route into collective non-intervention and distributed responsibility.*  
+> - [⚡ Why Some People Become Systemic Lightning Rods](../../🦕_Elder_Influencers/🕊️_Just_Boxes/⚡_why_some_people_become_systemic_lightning_rods.md) — *why certain people encounter and expose institutional contradictions first.*  
+> - [🗂️ When Institutions Start Treating You as a Category, Not a Person](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🗂️_when_institutions_start_treating_you_as_a_category_not_a_person.md) — *how categorical processing displaces individual evidence and context.*  
+> - [🧭 How Authoritarian Drift Feels From the Inside](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🧭_how_authoritarian_drift_feels_from_the_inside.md) — *the lived phenomenology of institutional inconsistency and narrowing choice.*  
+> - [🧠 The Continuum of Authoritarian Drift](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🧠_the_continuum_of_authoritarian_drift.md) — *the broader spectrum connecting administrative drift to authoritarian effects.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_
