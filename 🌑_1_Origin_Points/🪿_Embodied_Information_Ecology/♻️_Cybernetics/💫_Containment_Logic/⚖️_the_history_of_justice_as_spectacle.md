@@ -1,5 +1,5 @@
 # ⚖️ The History of Justice as Spectacle  
-**First created:** 2025-10-14 | **Last updated:** 2026-08-23  
+**First created:** 2025-10-14 | **Last updated:** 2026-09-12  
 *How punishment has been staged, witnessed, and interpreted—and how visibility can shape perceptions of justice.*  
 
 ---
@@ -194,16 +194,23 @@ justice visibility, public punishment, media trials, accountability, exposure, l
 
 ## 🏮 Footer  
 
-*⚖️ The History of Justice as Spectacle* is a living node of the **Polaris Protocol**.  
+*⚖️ The History of Justice as Spectacle* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It traces how visibility has shaped the communication, perception, and stabilisation of justice across historical and contemporary systems.  
 
 > 📡 Cross-references:
 > 
-> - [💣 Austerity as Time Collapse](./💣_austerity_as_time_collapse.md)  
-> - [🐪 Trojan Horse — Benign Masks for Malignancies](../../../Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/🐪_trojan_horse.md)  
-> - [🔄 Reputation Arms-Race Loop](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🔄_reputation_arms_race_loop.md)  
-> - [🕸️ The Capacity of Cross-Linking](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕸️_networking_as_a_tool_of_novelty.md)  
+> - [💣 Austerity as Time Collapse](./💣_austerity_as_time_collapse.md) — *how institutional depletion changes the time, visibility and accessibility of justice.*  
+> - [🐪 Trojan Horse — Benign Masks for Malignancies](../../../Containment_Scripts/Suppression_Modes/🔖_Suppressive_Syntax/🐪_trojan_horse.md) — *how protective language can conceal coercive or suppressive functions.*  
+> - [🔄 Reputation Arms-Race Loop](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🔄_reputation_arms_race_loop.md) — *how public legitimacy contests intensify reciprocal narrative control.*  
+> - [🕸️ The Capacity of Cross-Linking](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🕸️_networking_as_a_tool_of_novelty.md) — *how distributed connection can restore context that spectacle flattens.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

@@ -1,5 +1,5 @@
 # ⚡ Escalation Triggers — When HR Fails and Oversight Must Act  
-**First created:** 2025-10-26 | **Last updated:** 2026-08-23  
+**First created:** 2025-10-26 | **Last updated:** 2026-09-12  
 *Indicative thresholds at which a misclassified “HR issue” may require escalation into protective-security or governance handling.*  
 
 ---
@@ -120,16 +120,23 @@ escalation signals, governance thresholds, HR limitations, oversight pathways, m
 
 ## 🏮 Footer  
 
-*⚡ Escalation Triggers — When HR Fails and Oversight Must Act* is a diagnostic node of the Polaris Protocol.  
+*⚡ Escalation Triggers — When HR Fails and Oversight Must Act* is a diagnostic node of **Containment Logic**, within the **Polaris Protocol**.  
 It maps common signals indicating when incidents may require escalation beyond HR into broader governance, legal, or security frameworks.  
 
 > 📡 Cross-references:
 > 
-> - [🌀 Containment Under Observation](../../🦕_Elder_Influencers/📜_Statutes/🌀_containment_under_observation.md)  
-> - [*Pending:* 🧿 Oversight Paralysis — When Allies Breach the Firewall]  
-> - [🧩 Ideal Whitehall Response Sequence](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧩_ideal_whitehall_response_sequence.md)  
-> - [👑 Asserting Sovereignty After Allied Interference](../👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md)  
+> - [🌀 Containment Under Observation](../../🦕_Elder_Influencers/📜_Statutes/🌀_containment_under_observation.md) — *the oversight conditions under which containment becomes observable and reviewable.*  
+> - *Pending: 🧿 Oversight Paralysis — When Allies Breach the Firewall* — *a planned route into institutional paralysis after trusted safeguards fail.*  
+> - [🧩 Ideal Whitehall Response Sequence](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧩_ideal_whitehall_response_sequence.md) — *a model escalation pathway for coordinated public-sector response.*  
+> - [👑 Asserting Sovereignty After Allied Interference](../👑_Ownership_Control/👑_asserting_sovereignty_after_allied_interference.md) — *the ownership response when allied or trusted actors exceed their mandate.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

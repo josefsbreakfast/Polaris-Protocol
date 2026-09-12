@@ -1,5 +1,5 @@
 # ⚖️ Respectability Containment in Professional Ethics  
-**First created:** 2025-11-07 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-07 | **Last updated:** 2026-09-12  
 *How professional norms of ethics and civility can shape, constrain, or limit dissent within institutional settings.*  
 
 ---
@@ -34,7 +34,7 @@ This node examines how those dynamics can emerge, particularly in high-stakes or
 
 ## 🧠 Pattern Analysis  
 
-### 1️⃣ Tone as a gatekeeping mechanism  
+### 1. Tone as a gatekeeping mechanism  
 
 Expectations around civility and composure can:
 
@@ -47,7 +47,7 @@ In some contexts:
 
 ---
 
-### 2️⃣ Professional credibility and alignment  
+### 2. Professional credibility and alignment  
 
 Individuals who operate within recognised norms of:
 
@@ -66,7 +66,7 @@ may face increased scrutiny of tone rather than content.
 
 ---
 
-### 3️⃣ Reframing of dissent  
+### 3. Reframing of dissent  
 
 Concerns that disrupt institutional narratives may be reframed as:
 
@@ -81,7 +81,7 @@ but it can:
 
 ---
 
-### 4️⃣ Ethics as representation vs practice  
+### 4. Ethics as representation vs practice  
 
 Professional environments often emphasise:
 
@@ -100,7 +100,7 @@ they may function more as:
 
 ---
 
-### 5️⃣ Respectability and access  
+### 5. Respectability and access  
 
 Perceptions of professionalism can influence:
 
@@ -138,14 +138,21 @@ professional ethics, respectability, institutional culture, dissent, tone, credi
 
 ## 🏮 Footer  
 
-*⚖️ Respectability Containment in Professional Ethics* examines how expectations of professionalism interact with dissent, and how ethical frameworks can shape what is heard within institutions.  
+*⚖️ Respectability Containment in Professional Ethics* is a living node of **Containment Logic**, within the **Polaris Protocol**. It examines how expectations of professionalism interact with dissent, and how ethical frameworks can shape what is heard within institutions.  
 When tone becomes the threshold, substance can become secondary.  
 
 > 📡 Cross-references:
 > 
-> - [*Pending:* 🧱 Ideological Loyalty as Pyramid Scheme](../../../../Polaris_Nest/Git_Intake_Drawer/🧱_ideological_loyalty_as_pyramid_scheme.md)  
-> - [🪞 Conditional Whiteness and Twinning as Containment](./🪞_conditional_whiteness_and_twinning_as_containment.md)  
+> - *Pending: 🧱 Ideological Loyalty as Pyramid Scheme* — *a planned route into the way professional belonging can become contingent on ideological conformity.*  
+> - [🪞 Conditional Whiteness and Twinning as Containment](./🪞_conditional_whiteness_and_twinning_as_containment.md) — *how conditional inclusion and imposed similarity can discipline dissent.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

@@ -1,5 +1,5 @@
 # ⚖️ Power, Play, and Containment — The Economics of Structured Desire  
-**First created:** 2025-10-18  |  **Last updated:** 2026-08-23  
+**First created:** 2025-10-18 | **Last updated:** 2026-09-12  
 *How systems of control and obligation shape behaviour, performance, and the ways people negotiate power.*  
 
 ---
@@ -212,18 +212,25 @@ power, contracts, containment, social behaviour, labour, consent, control, struc
 ---
 
 ## 🏮 Footer  
-*⚖️ Power, Play, and Containment — The Economics of Structured Desire* is a living node of the **Polaris Protocol**.  
+*⚖️ Power, Play, and Containment — The Economics of Structured Desire* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It examines how formal systems of control influence behaviour, interaction, and the negotiation of power across social contexts.  
 
 > 📡 Cross-references:
 > 
-> - [🫀 Pixels Do Not Touch](./🫀_pixels_do_not_touch.md)  
-> - [🏛️ The Boringing (UK 2010–2025)](./🏛️_the_boringing_uk_2010_2025.md)
-> - [🍑 Desire Without Shame](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍑_desire_without_shame.md)
-> - [🥀 The Politics of Male Loneliness](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🥀_the_politics_of_male_loneliness.md)
-> - [🌿 Ecological Ethics of Algorithmic Design](../../🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🌿_ecological_ethics_of_algorithmic_design.md)
-> - [💞 Hacking Hope](../../../../🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/README.md)  
+> - [🫀 Pixels Do Not Touch](./🫀_pixels_do_not_touch.md) — *the embodied boundary between mediated contact and physical relation.*  
+> - [🏛️ The Boringing (UK 2010–2025)](./🏛️_the_boringing_uk_2010_2025.md) — *the political conditions that flatten play, possibility and public imagination.*
+> - [🍑 Desire Without Shame](../../🫀_Our_Hearts_Our_Minds/🌱_Human_Principles/🍑_desire_without_shame.md) — *a counter-architecture for desire grounded in dignity and consent.*
+> - [🥀 The Politics of Male Loneliness](../../🫀_Our_Hearts_Our_Minds/🐦‍🔥_Trauma_Psychology_Medical_Misuse/🥀_the_politics_of_male_loneliness.md) — *how unmet relational needs can be recruited into political and market systems.*
+> - [🌿 Ecological Ethics of Algorithmic Design](../../🫀_Our_Hearts_Our_Minds/🧬_Algorithmic_Endocrinology/🌿_ecological_ethics_of_algorithmic_design.md) — *design principles for systems that shape attention, interaction and desire.*
+> - [💞 Hacking Hope](../../../../🦆_Digital_Disruption/🐝_All_In_Commons/💞_Hacking_Hope/README.md) — *collective practices for reopening agency where systems narrow possibility.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

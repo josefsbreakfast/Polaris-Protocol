@@ -1,5 +1,5 @@
 # ⚖️ Professional Influence & Bureaucratic Capture  
-**First created:** 2025-10-31 | **Last updated:** 2026-08-23  
+**First created:** 2025-10-31 | **Last updated:** 2026-09-12  
 *How credentials and credibility systems can allow institutional bias to be reinforced through formal process.*
 
 ---
@@ -35,7 +35,7 @@ Under these conditions, institutional processes may unintentionally reproduce:
 
 ## 🧠 Pattern Analysis  
 
-### 1️⃣ Credential as proxy for reliability  
+### 1. Credential as proxy for reliability  
 Professional qualifications often act as shorthand for expertise.  
 
 In practice, this can mean that:
@@ -47,7 +47,7 @@ In complex cases, the distinction between:
 
 ---
 
-### 2️⃣ Bureaucratic relay  
+### 2. Bureaucratic relay  
 
 Institutional decisions frequently reference prior assessments:
 
@@ -63,7 +63,7 @@ This creates a pattern where:
 
 ---
 
-### 3️⃣ Reinforcement effects  
+### 3. Reinforcement effects  
 
 When a claim is endorsed by multiple actors, it gains perceived legitimacy.
 
@@ -78,7 +78,7 @@ The strength of the endorsement may reflect:
 
 ---
 
-### 4️⃣ Cultural normalisation  
+### 4. Cultural normalisation  
 
 Professional environments often prioritise:
 
@@ -137,7 +137,7 @@ professional authority · credential influence · bureaucratic reinforcement · 
 
 ## 🏮 Footer  
 
-*⚖️ Professional Influence & Bureaucratic Capture* examines how reliance on professional authority can shape institutional decision-making, and how systems can drift from verification toward reinforcement.
+*⚖️ Professional Influence & Bureaucratic Capture* is a living node of **Containment Logic**, within the **Polaris Protocol**. It examines how reliance on professional authority can shape institutional decision-making, and how systems can drift from verification toward reinforcement.
 *When credibility is assumed, scrutiny becomes optional.*  
 
 > 📡 Cross-references:
@@ -146,6 +146,13 @@ professional authority · credential influence · bureaucratic reinforcement · 
 > - [⚖️ Operatic Capture & Risks](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_operatic_capture_and_risks.md) — *escalation through accumulated endorsement*  
 > - [🧠 Cognitive Feedback and Bureaucratic Amplification](./🧠_cognitive_feedback_and_bureaucratic_amplification.md) — *belief reinforced through repetition*  
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

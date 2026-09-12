@@ -1,6 +1,6 @@
 # ⚖️ PSED Protection Logic
 
-**First created:** 2025-11-18 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-18 | **Last updated:** 2026-09-12  
 *How the Public Sector Equality Duty should protect affected groups through informed decision-making, and how selective analysis turns an equality safeguard into another institutional blind spot.*
 
 ---
@@ -727,7 +727,7 @@ public sector equality duty, equality act, protected characteristics, due regard
 
 ## 🏮 Footer
 
-*⚖️ PSED Protection Logic* is a living node of the **Polaris Protocol**.
+*⚖️ PSED Protection Logic* is a living node of **Containment Logic**, within the **Polaris Protocol**.
 
 It examines how equality duties should inform public decision-making, and how selective recognition of affected groups can transform a protective legal safeguard into another mechanism of institutional exclusion.
 
@@ -739,6 +739,13 @@ It examines how equality duties should inform public decision-making, and how se
 > - [🐼 Due Diligence and Operational Capacity in Policing](./🐼_due_diligence_and_operational_capacity_in_policing.md) — *the operational conditions necessary for equality safeguards to function within policing, risk classification and multi-agency decision-making.*
 > - [🧭 Regulating the Regulators: Oversight of Oversight](./🧭_regulating_the_regulators_oversight_of_oversight.md) — *why independent scrutiny matters when institutions claim equality compliance without adequately examining their own assumptions.*
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

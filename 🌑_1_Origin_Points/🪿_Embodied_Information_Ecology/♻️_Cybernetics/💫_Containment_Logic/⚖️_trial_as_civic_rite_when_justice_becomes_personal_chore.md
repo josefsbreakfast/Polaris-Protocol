@@ -1,5 +1,5 @@
 # ⚖️ The Trial as Civic Rite — When Justice Becomes a Personal Chore  
-**First created:** 2025-11-07 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-07 | **Last updated:** 2026-09-12  
 *How institutional failure can convert ordinary people into ongoing witnesses, advocates, and archivists of their own harm.*  
 
 ---
@@ -155,16 +155,23 @@ justice process, repetition, institutional delay, civic burden, advocacy emergen
 
 ## 🏮 Footer  
 
-*⚖️ The Trial as Civic Rite — When Justice Becomes a Personal Chore* is a living node of the **Polaris Protocol**.  
+*⚖️ The Trial as Civic Rite — When Justice Becomes a Personal Chore* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It examines how unresolved processes can shift the burden of justice onto individuals, and how repetition can signal institutional failure rather than personal escalation.  
 
 > 📡 Cross-references:
 > 
-> - [⚖️ The History of Justice as Spectacle](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/⚖️_the_history_of_justice_as_spectacle.md)  
-> - [⚖️ Legal Disentanglement & Risk Perception](../../🌀_System_Governance/💫_Containment_Logic/⚖️_legal_disentanglement_and_risk_perception.md)  
-> - [💣 Austerity as Time Collapse](../../🌀_System_Governance/💫_Containment_Logic/💣_austerity_as_time_collapse.md)  
-> - [📚 The Streisand Effect of Justice — Irving v Lipstadt](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_the_streisand_effect_of_justice_irving_v_lipstadt.md)  
+> - [⚖️ The History of Justice as Spectacle](./⚖️_the_history_of_justice_as_spectacle.md) — *the historical relationship between public visibility, legitimacy and judicial authority.*  
+> - [⚖️ Legal Disentanglement & Risk Perception](./⚖️_legal_disentanglement_and_risk_perception.md) — *how legal framing can separate genuine risk from institutional projection.*  
+> - [💣 Austerity as Time Collapse](./💣_austerity_as_time_collapse.md) — *how depleted public capacity transfers delay and procedural labour onto individuals.*  
+> - [📚 The Streisand Effect of Justice — Irving v Lipstadt](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/📚_the_streisand_effect_of_justice_irving_v_lipstadt.md) — *how attempts to control a legal narrative can widen scrutiny and evidential visibility.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

@@ -1,5 +1,5 @@
 # ⚗️ Data Contamination Chain  
-**First created:** 2025-11-07 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-07 | **Last updated:** 2026-09-12  
 *How an early misclassification of personal data can propagate through reuse, creating long-term integrity and compliance risks.*  
 
 ---
@@ -134,8 +134,6 @@ even if the original classification was flawed.
 
 ---
 
----
-
 ## 🌌 Constellations  
 
 🧿 ⚖️ 🧬 🛰️ — data governance, legal risk, provenance, systemic diagnostics  
@@ -150,15 +148,22 @@ data integrity, dataset reuse, provenance risk, misclassification, delegated due
 
 ## 🏮 Footer  
 
-*⚗️ Data Contamination Chain* is a living node of the Polaris Protocol.  
+*⚗️ Data Contamination Chain* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It examines how early-stage classification decisions can propagate through complex data ecosystems, creating long-term governance and compliance risks.  
 
 > 📡 Cross-references:
 > 
-> - [🕸️ Voice Lineage and Dataset Chain](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🕸️_voice_lineage_and_dataset_chain.md)  
-> - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md)  
-> - [🗣️ How to Detect if Your Voice Has Been Used in a Dataset](../../../Survivor_Tools/📱_Digital_But_Make_It_Secure/🗣️_how_to_detect_if_your_voice_has_been_used_in_a_dataset.md)  
+> - [🕸️ Voice Lineage and Dataset Chain](../../../../Metadata_Sabotage_Network/🔥_Data_Risks/🧟‍♀️_Residual_Shadows/🕸️_voice_lineage_and_dataset_chain.md) — *how source material and derived data travel through training and reuse chains.*  
+> - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *how contractual arrangements can preserve or obscure responsibility across the chain.*  
+> - [🗣️ How to Detect if Your Voice Has Been Used in a Dataset](../../../Survivor_Tools/📱_Digital_But_Make_It_Secure/🗣️_how_to_detect_if_your_voice_has_been_used_in_a_dataset.md) — *a practical route for investigating possible dataset inclusion.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

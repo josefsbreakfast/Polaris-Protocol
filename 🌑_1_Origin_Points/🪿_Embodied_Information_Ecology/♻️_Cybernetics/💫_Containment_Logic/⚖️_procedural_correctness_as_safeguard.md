@@ -1,6 +1,6 @@
 # ⚖️ Procedural Correctness as Safeguard
 
-**First created:** 2025-11-16 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-12  
 *When procedural discipline protects lawful decision-making, when it becomes defensive obstruction, and how to distinguish a functioning safeguard from a formally correct failure.*
 
 ---
@@ -504,7 +504,7 @@ procedural fairness, lawful authority, institutional governance, defensive forma
 
 ## 🏮 Footer
 
-*⚖️ Procedural Correctness as Safeguard* is a living node of the **Polaris Protocol**.
+*⚖️ Procedural Correctness as Safeguard* is a living node of **Containment Logic**, within the **Polaris Protocol**.
 
 It examines the boundary between procedural discipline that constrains institutional power and procedural rigidity that preserves defensibility while leaving foreseeable harm unresolved.
 
@@ -516,6 +516,13 @@ It examines the boundary between procedural discipline that constrains instituti
 > - [🐼 Due Diligence and Operational Capacity in Policing](./🐼_due_diligence_and_operational_capacity_in_policing.md) — *why safeguards depend on adequate professional capacity, accurate information and practical conditions for intervention.*
 > - [🧭 Regulating the Regulators: Oversight of Oversight](./🧭_regulating_the_regulators_oversight_of_oversight.md) — *the importance of genuinely independent scrutiny when formal review structures become circular or institutionally captured.*
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_
