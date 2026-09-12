@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-12 22:34:13 UTC_
+_Generated on 2026-09-12 22:42:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -593,7 +593,6 @@ _Generated on 2026-09-12 22:34:13 UTC_
         - [`🫀_genocide_by_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/👑_Ownership_Control/🫀_genocide_by_containment.md)
       - [**💫_Containment_Logic/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/README.md)
-        - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/notes.txt)
         - [`☔️_compressed_privacy_and_freedom_of_thought.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/☔️_compressed_privacy_and_freedom_of_thought.md)
         - [`☔️_digital_quicksand_101.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/☔️_digital_quicksand_101.md)
         - [`☕_administrative_necromancy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/☕_administrative_necromancy.md)
