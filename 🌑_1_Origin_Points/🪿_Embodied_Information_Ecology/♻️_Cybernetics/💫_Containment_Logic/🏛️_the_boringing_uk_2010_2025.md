@@ -1,5 +1,5 @@
 # 🏛️ The Boringing (UK 2010–2025)  
-**First created:** 2025-11-04 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-04 | **Last updated:** 2026-09-12  
 *Chronicle of how monotony became a governance strategy.*  
 
 ---
@@ -58,14 +58,21 @@ austerity, bureaucracy, boredom, political psychology, affective governance, pan
 
 ## 🏮 Footer  
 
-*🏛️ The Boringing (UK 2010–2025)* is a living node of the Polaris Protocol.  
+*🏛️ The Boringing (UK 2010–2025)* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It documents monotony as an instrument of power and traces how bureaucratic calm became a form of suppression.  
 
 > 📡 Cross-references:
 > 
-> - [🦇 How Many Words to Fell an Industry] — *linguistic collapse as parallel decay*  
+> - *Pending: 🦇 How Many Words to Fell an Industry* — *a planned route into linguistic collapse as a parallel form of institutional decay.*  
+> - [⚖️ Power, Play, and Containment](./⚖️_power_play_and_containment.md) — *how narrowed possibility restructures desire, play and social power.*
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-12_

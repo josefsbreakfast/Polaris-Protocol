@@ -1,6 +1,6 @@
 # 🐼 Due Diligence and Operational Capacity in Policing
 
-**First created:** 2025-10-11 | **Last updated:** 2026-08-23  
+**First created:** 2025-10-11 | **Last updated:** 2026-09-12  
 *Why effective police safeguards depend on accurate information, professional judgment, adequate capacity and independent correction—not simply the existence of policies, databases or oversight bodies.*
 
 ---
@@ -1106,13 +1106,13 @@ The issue is whether the organisation has built conditions in which lawful, care
 
 ## ✨ Stardust
 
-policing, due diligence, operational capacity, police information, data accuracy, law enforcement processing, victims and witnesses, safeguarding, complaints, independent oversight, workload, sensitive information, multi-agency governance
+policing, due diligence, operational capacity, police information, data accuracy, law enforcement processing, safeguarding, complaints, independent oversight, multi-agency governance
 
 ---
 
 ## 🏮 Footer
 
-*🐼 Due Diligence and Operational Capacity in Policing* is a living node of the **Polaris Protocol**.
+*🐼 Due Diligence and Operational Capacity in Policing* is a living node of **Containment Logic**, within the **Polaris Protocol**.
 
 It examines how formal police safeguards depend on workable operational conditions, accurate information, meaningful supervision and practical routes for identifying and correcting institutional error.
 
@@ -1125,6 +1125,13 @@ It examines how formal police safeguards depend on workable operational conditio
 > - [🧭 Regulating the Regulators: Oversight of Oversight](./🧭_regulating_the_regulators_oversight_of_oversight.md) — *the limits of regulatory scrutiny when oversight bodies depend on incomplete records, filtered complaints or fragmented jurisdictions.*
 > - [⚖️ Operational Dilemma: Fix It vs Chain of Command](./⚖️_operational_dilemma_fixit_vs_chain_of_command.md) — *how professionals can respond when immediate protection, formal escalation and responsibility for correction sit in different parts of the system.*
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-12_

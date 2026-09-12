@@ -1,5 +1,5 @@
 # 🏛️ State Drift & Crisis Adoption  
-**First created:** 2025-12-26 | **Last updated:** 2026-08-14  
+**First created:** 2025-12-26 | **Last updated:** 2026-09-12  
 *Why governments say "yes".*  
 
 ---
@@ -196,16 +196,39 @@ Yet the character of governance alters.
 
 ---
 
+## 🌌 Constellations
+
+🏛️ 🛰️ 🧠 ⚖️ 🔮 — state drift, infrastructure adoption, crisis procurement, distributed responsibility and path dependence.
+
+---
+
+## ✨ Stardust
+
+state drift, crisis adoption, infrastructure procurement, path dependence, fragmented responsibility, delivery politics, institutional exhaustion
+
+---
+
 ## 🏮 Footer  
+
+*🏛️ State Drift & Crisis Adoption* is a living node of **Containment Logic**, within the **Polaris Protocol**.
+
+It examines how crisis, inherited infrastructure and fragmented responsibility can produce major changes in governance without a single decisive moment of consent.
 
 > 📡 Cross‑references:  
 >
-> - [🔺 The Alignment Triangle](./🔺_the_alignment_triangle.md)  
-> - [🧠 Ideology Without Conspiracy](./🧠_ideology_without_conspiracy.md)  
-> - [🔮 Palantir as Infrastructure](../🛰️_Infrastructure_Procurement/🔮_palantir_as_infrastructure.md)  
-> - [🔥 Rights as Friction](../⚖️_Legal_State_Governance/🔥_rights_as_friction.md)  
-> - [🛡️ Securitisation & Fragile Governance](./💫_Containment_Logic/🛡️_securitisation_and_fragile_governance.md)  
+> - [🔺 The Alignment Triangle](./🔺_the_alignment_triangle.md) — *how institutional, political and commercial incentives converge.*  
+> - [🧠 Ideology Without Conspiracy](./🧠_ideology_without_conspiracy.md) — *how coordinated effects can emerge from shared assumptions rather than central direction.*  
+> - [🔮 Palantir as Infrastructure](../🛰️_Infrastructure_Procurement/🔮_palantir_as_infrastructure.md) — *a case study in infrastructure adoption and dependency.*  
+> - [🔥 Rights as Friction](../⚖️_Legal_State_Governance/🔥_rights_as_friction.md) — *how rights safeguards can be recoded as obstacles to delivery.*  
+> - [🛡️ Securitisation & Fragile Governance](./🛡️_securitisation_and_fragile_governance.md) — *how crisis framing accelerates brittle forms of institutional adoption.*  
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-12_

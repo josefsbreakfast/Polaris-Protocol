@@ -1,12 +1,12 @@
 # 🐼 De-arresting and Palestine Protest Policing  
-**First created:** 2026-01-04 | **Last updated:** 2026-08-14  
+**First created:** 2026-01-04 | **Last updated:** 2026-09-12  
 *How “arrest → de-arrest” functions as micro-containment at the edge of Article 11.*
 
 ---
 
 ## 🛰️ Orientation
 
-Over the past year, UK police forces have increasingly used a practice described operationally as **“de-arresting at the scene”** during Palestine solidarity protests. Individuals are arrested, physically removed or restrained, and then released minutes later without charge, often at or near the protest site.
+Reports and recordings from Palestine solidarity protests have raised questions about a practice described operationally as **“de-arresting at the scene”**. In the incidents examined by this node, individuals are arrested, physically removed or restrained, and then released minutes later without charge, often at or near the protest site.
 
 This node examines that practice not as an isolated procedural quirk, but as a **patterned interference with peaceful assembly** that sits at the edge of legality. It argues that repeated “arrest → de-arrest” sequences function as **targeted micro-containment**, evolved from earlier mass-containment tactics, and increasingly vulnerable under **Article 11 ECHR** when viewed in aggregate.
 
@@ -59,7 +59,8 @@ An arrest — however brief — is a **serious interference** with that right.
 
 European and UK courts focus not on duration alone, but on:
 - **proportionality**
-- **least intrusive means**
+- **necessity and proportionality**
+- **practical alternatives to arrest**
 - **deterrent / chilling effects**
 - **pattern and context**
 
@@ -67,8 +68,8 @@ Key cases underline this approach:
 
 - **Oya Ataman v Turkey** — states must show tolerance toward peaceful assemblies  
 - **Austin v United Kingdom** — coercive containment tolerated only in narrow, neutral, last-resort contexts  
-- **Ziegler v United Kingdom** — courts must actively balance protest rights against interference  
-- **[Kudrevičius v Lithuania** — systemic practice matters more than isolated events  
+- **DPP v Ziegler** — domestic courts must conduct the required proportionality assessment where Convention rights are engaged  
+- **Kudrevičius and Others v Lithuania** — context, conduct and proportionality matter when restrictions on assembly are assessed  
 
 Short duration does **not** immunise the state if the **cumulative effect chills participation**.
 
@@ -131,7 +132,7 @@ FOI can surface:
 - custody authorisation refusals  
 - public-order arrest outcomes by protest theme  
 
-Article 11 analysis *expects* this kind of aggregation.
+Article 11 analysis can make this kind of context and aggregation relevant.
 
 Pattern converts discretion into policy.
 
@@ -142,8 +143,8 @@ Pattern converts discretion into policy.
 If arrest is **necessary**,  
 why is detention not?
 
-If detention is **not necessary**,  
-why was arrest?
+If detention becomes **unnecessary without new information or changed circumstances**,  
+what made arrest necessary?
 
 That contradiction sits at the heart of this practice — and becomes harder to defend the more often it appears.
 
@@ -154,6 +155,8 @@ That contradiction sits at the heart of this practice — and becomes harder to 
 
 *Further reading / media:*  
 - ["Bumping into the PM": What does it mean to be de-arrested?](https://www.bbc.co.uk/news/blogs-magazine-monitor-29784497), BBC.  
+- [PACE Code G: statutory power of arrest by police officers](https://www.gov.uk/government/publications/pace-code-g-2012), GOV.UK.  
+- [Director of Public Prosecutions v Ziegler and others](https://www.supremecourt.uk/cases/uksc-2019-0106), UK Supreme Court.  
 
 ---
 
@@ -164,18 +167,25 @@ article 11, protest policing, dearresting, palestine protests, pace necessity, m
 
 ## 🏮 Footer
 
-*De-arresting and Palestine Protest Policing* is a living node of the **Polaris Protocol**.  
+*🐼 De-arresting and Palestine Protest Policing* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It documents an emerging policing pattern at the intersection of public order law, political sensitivity, and rights-based governance.
 
 > 📡 Cross-references:
 > 
-> - [🐼 Policing an Unknown](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🐼_policing_an_unknown.md)  
-> - [🎭 The Whiteness Baseline Problem](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎭_the_whiteness_baseline_problem.md)  
-> - [🐼 The Metropolitan Rabble](../👑_Ownership_Control/🐼_the_metropolitan_rabble.md)  
-> - [🧭 Dispatch Ethics: Who Gets to Send the Message](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧭_dispatch_ethics.md)
+> - [🐼 Policing an Unknown](../../🦕_Elder_Influencers/🍿_Historical_Democratic_Actions/🍉_Fulfilling_CPPCG_Protecting_IHL/🐼_policing_an_unknown.md) — *decision-making under uncertainty in politically sensitive public-order contexts.*  
+> - [🎭 The Whiteness Baseline Problem](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/🎭_the_whiteness_baseline_problem.md) — *how unstated social baselines distort perceived risk and acceptable conduct.*  
+> - [🐼 The Metropolitan Rabble](../👑_Ownership_Control/🐼_the_metropolitan_rabble.md) — *the ownership and accountability context surrounding metropolitan protest policing.*  
+> - [🧭 Dispatch Ethics: Who Gets to Send the Message](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈸_Dispatch_And_Training/🧭_dispatch_ethics.md) — *how authority and legitimacy are assigned within operational communications.*
 > - [✈️ Just Arrest Them](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/✈️_just_arrest_them.md) – *and yet...*
 > - [👹 Coercive Engineers — Intentional Radicalisation and the Normality Trap](../../🐍_Ouroborotic_Violence/🪬_Radicalisation_Extremism/👹_coercive_engineers_intentional_radicalisation.md)  
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-12_

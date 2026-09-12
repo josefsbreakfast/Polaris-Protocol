@@ -1,5 +1,5 @@
 # 🏛️ Yet Another Commission as Containment  
-**First created:** 2025-11-04 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-04 | **Last updated:** 2026-09-12  
 *A meditation on inquiry as deferral: how the British Empire perfected the commission as a containment device.*
 
 ---
@@ -59,7 +59,7 @@ empire, inquiry, containment, moral laundering, british state, commissions, supp
 
 ## 🏮 Footer  
 
-*🏛️ Another Commission as Containment* is a living node of the Polaris Protocol.  
+*🏛️ Yet Another Commission as Containment* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It analyses how the British imperial habit of inquiry operates as a mechanism of delay, dilution, and self-preservation.  
 
 > 📡 Cross-references:
@@ -67,6 +67,13 @@ It analyses how the British imperial habit of inquiry operates as a mechanism of
 > - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) — *structural analysis of bureaucratic containment*  
 > - [🪞 Containment Détente as Temporal Governance](../../../../Containment_Studies/💞_Containment_Theory/🪞_containment_detente_as_temporal_governance.md) — *parallel on time management and state delay*  
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-12_

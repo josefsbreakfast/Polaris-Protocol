@@ -1,5 +1,5 @@
 # 🎩 Organisational Civility as Containment — How Etiquette Replaces Ethics  
-**First created:** 2025-11-22 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-22 | **Last updated:** 2026-09-12  
 *Civility is never neutral. In abusive or compromised systems, it becomes a weapon that suppresses truth, protects power, and punishes moral clarity.*  
 
 ---
@@ -42,7 +42,7 @@ Civility is deployed to shut clarity down.
 
 ## 🧿 Analysis / Content  
 
-### 1️⃣ **Civility Polices Emotion, Not Harm**  
+### 1. **Civility Polices Emotion, Not Harm**  
 When institutions demand “civility,” they rarely mean:
 
 - fairness  
@@ -65,7 +65,7 @@ while perpetrators get privacy and patience.
 
 ---
 
-### 2️⃣ **Civility Reverses Victim and Offender Roles**  
+### 2. **Civility Reverses Victim and Offender Roles**  
 In organisational civility frameworks:
 
 - speaking becomes aggression  
@@ -87,7 +87,7 @@ This is reputational inversion through etiquette.
 
 ---
 
-### 3️⃣ **Civility Is a Loyalty Test**  
+### 3. **Civility Is a Loyalty Test**  
 Institutions watch how someone performs civility in situations of injustice.
 
 What they want to know is:
@@ -116,7 +116,7 @@ Civility is the system’s social sorting mechanism.
 
 ---
 
-### 4️⃣ **Civility as Administrative Violence**  
+### 4. **Civility as Administrative Violence**  
 Civility frameworks weaponise bureaucracy:
 
 - “please moderate your tone”  
@@ -142,7 +142,7 @@ and a **noose** for truth-tellers.
 
 ---
 
-### 5️⃣ **Why Moral Clarity Is Seen as “Rude”**  
+### 5. **Why Moral Clarity Is Seen as “Rude”**  
 Because clarity undermines the institution’s narrative.
 
 Authoritarian or compromised systems rely on:
@@ -165,7 +165,7 @@ Moral clarity is treated as impolite because it disrupts power.
 
 ---
 
-### 6️⃣ **The Civility Trap for Survivors**  
+### 6. **The Civility Trap for Survivors**  
 Survivors often fall into the civility trap because they want:
 
 - to be believed  
@@ -187,7 +187,7 @@ Civility becomes a form of **self-silencing**.
 
 ---
 
-### 7️⃣ **How Civility Maintains Institutional Power**  
+### 7. **How Civility Maintains Institutional Power**  
 Civility enables:
 
 - delay  
@@ -205,7 +205,7 @@ This is the goal.
 
 ---
 
-### 8️⃣ **Counter-Strategies: Humane, Not Polite**  
+### 8. **Counter-Strategies: Humane, Not Polite**  
 To resist civility containment:
 
 - choose clarity over decorum  
@@ -222,27 +222,33 @@ Clarity is the opposite of violence.
 ---
 
 ## 🌌 Constellations  
-🛎️ 🧠 🧩 🛰️ ✂️ 🎭  
-*tone policing, etiquette governance, loyalty sorting, administrative violence, narrative inversion.*
+🛎️ 🧠 🧩 ✂️ 🎭 — tone policing, etiquette governance, loyalty sorting, administrative violence and narrative inversion.
 
 ---
 
 ## ✨ Stardust  
-politeness-as-weapon, civility smokescreen, discipline-by-decorum, diplomacy trap, tone containment, ethics eclipsed by etiquette.
+politeness as weapon, civility smokescreen, discipline by decorum, diplomacy trap, tone containment, ethics eclipsed by etiquette
 
 ---
 
 ## 🏮 Footer  
-*🎩 Organisational Civility as Containment* is a governance-analysis node of the Polaris Protocol.  
+*🎩 Organisational Civility as Containment* is a governance-analysis node of **Containment Logic**, within the **Polaris Protocol**.  
 It documents how institutions wield etiquette to silence truth, protect power, and shame those who name harm.  
 
 > 📡 Cross-references:
 > 
-> - 🎭 Sanctions as Loyalty Test  
-> - 🧠 Shame Economics  
-> - 🧳 Instrumental Elevation Loop  
-> - 🧩 Systemic Abuse Logic  
+> - [⚖️ Respectability Containment in Professional Ethics](./⚖️_respectability_containment_in_professional_ethics.md) — *how professional norms determine whose dissent remains audible.*  
+> - [⚖️ Professional Influence and Bureaucratic Capture](./⚖️_professional_influence_and_bureaucratic_capture.md) — *how status and assumed credibility can displace scrutiny.*  
+> - *Pending: 🧠 Shame Economics* — *a planned route into shame as an institutional incentive and disciplinary resource.*  
+> - *Pending: 🧩 Systemic Abuse Logic* — *a planned route into abuse maintained through distributed organisational routines.*  
 
-*Survivor authorship is sovereign. Civility protects power — not people.*
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
-_Last updated: 2026-08-14_
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-12_

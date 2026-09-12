@@ -1,5 +1,5 @@
 # 🐢 Behavioural Proxies All the Way Down  
-**First created:** 2025-12-20 | **Last updated:** 2026-08-24  
+**First created:** 2025-12-20 | **Last updated:** 2026-09-12  
 *How behavioural signals become substitutes for identity, intent and risk, and why the infrastructure built to improve governance can also make coercive power easier to exercise.*
 
 ---
@@ -1095,21 +1095,19 @@ See [🧀 When Process Holes Align](./🧀_when_process_holes_align.md) for the 
 
 ## 🌌 Constellations
 
-🐢 🧠 🧬 🌌 📡 ⚖️ 🧩 🔮 🧮 🌀 🕸️ 🧀
-
-Behavioural proxies, institutional classification, surveillance infrastructure, protective friction, calibration drift, risk-vector inversion, solidarity, identity assumptions, human judgement and accountable governance.
+🐢 🧠 🧬 ⚖️ 🌀 — behavioural proxies, institutional classification, identity assumptions, human judgement and accountable governance.
 
 ---
 
 ## ✨ Stardust
 
-behavioural proxies, risk classification, proxy inference, surveillance infrastructure, authoritarian potential, governance catch-22, protective friction, identity-linked classification, discriminatory proxies, risk-vector inversion, calibration drift, false positives, false negatives, base rates, institutional pattern recognition, informal risk flags, solidarity, survivor credibility, data governance, independent oversight, survivor authorship, Polaris Protocol
+behavioural proxies, risk classification, proxy inference, surveillance infrastructure, protective friction, discriminatory proxies, calibration drift, false positives, data governance, independent oversight
 
 ---
 
 ## 🏮 Footer
 
-*🐢 Behavioural Proxies All the Way Down* is a living node of the Polaris Protocol.
+*🐢 Behavioural Proxies All the Way Down* is a living node of **Containment Logic**, within the **Polaris Protocol**.
 
 It incorporates the structural analysis previously developed in *🧩 Risk Vector Inversions in Authoritarian Systems*, examining how behavioural signals become institutional risk classifications, how identity-linked assumptions fail, and why the infrastructure intended to improve governance can also make coercive power easier to exercise.
 
@@ -1126,6 +1124,13 @@ It incorporates the structural analysis previously developed in *🧩 Risk Vecto
 > - [🕸️ Macro Containment Architecture](./🕸️_macro_containment_architecture.md) — the distributed systems through which classifications can circulate.
 > - [🧀 When Process Holes Align](./🧀_when_process_holes_align.md) — cumulative failure across connected institutional safeguards.
 
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-24_
+_Last updated: 2026-09-12_

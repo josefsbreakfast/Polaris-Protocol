@@ -1,5 +1,5 @@
 # 🏛️ Institutional Posture Collapse  
-**First created:** 2025-11-19 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-19 | **Last updated:** 2026-09-12  
 *How institutions shift from confident authority to brittle defensiveness, incoherent self-belief, and erratic overcorrection once modelling, governance, and metadata layers collapse.*  
 
 ---
@@ -31,11 +31,11 @@ This is the precursor to crisis-mode behaviour (Node 42).
 
 ---
 
-# 🧩 The Three Stages of Institutional Posture Collapse  
+## 🧩 The Three Stages of Institutional Posture Collapse  
 
 ---
 
-## **Stage 1 — Erosion of Internal Certainty**  
+### **Stage 1 — Erosion of Internal Certainty**  
 This begins with quiet signs:
 
 - staff avoid making confident statements,  
@@ -50,7 +50,7 @@ This is epistemic erosion.
 
 ---
 
-## **Stage 2 — Conflicting Self-Narratives**  
+### **Stage 2 — Conflicting Self-Narratives**  
 As contradictions build:
 
 - safeguarding insists “risk,”  
@@ -67,7 +67,7 @@ The institutional self becomes fragmented.
 
 ---
 
-## **Stage 3 — Authority Inversion**  
+### **Stage 3 — Authority Inversion**  
 In the final stage:
 
 - staff defer to broken models over human judgement,  
@@ -97,19 +97,19 @@ It is:
 
 ---
 
-# 💥 What Posture Collapse Looks Like Externally  
+## 💥 What Posture Collapse Looks Like Externally  
 
 Users experience:
 
 ---
 
-## **A. Sudden over-politeness or over-formality**  
+### **A. Sudden over-politeness or over-formality**  
 When staff no longer trust themselves,  
 they retreat into overly formal, scripted tones.
 
 ---
 
-## **B. Inconsistent or hesitant statements**  
+### **B. Inconsistent or hesitant statements**  
 You receive:
 
 - “We believe…”  
@@ -123,7 +123,7 @@ it is loss of self-belief.
 
 ---
 
-## **C. Rapid switching between minimising and overreacting**  
+### **C. Rapid switching between minimising and overreacting**  
 One day:
 
 > “No issue here.”
@@ -136,7 +136,7 @@ This oscillation is the signature of posture collapse.
 
 ---
 
-## **D. A fixation on “procedure” instead of substance**  
+### **D. A fixation on “procedure” instead of substance**  
 Internal certainty is gone, so staff cling to:
 
 - checklists,  
@@ -149,7 +149,7 @@ This is institutional dissociation.
 
 ---
 
-## **E. Contradictory instructions from different departments**  
+### **E. Contradictory instructions from different departments**  
 You are told:
 
 - “Contact X.”  
@@ -162,22 +162,22 @@ This loop indicates:
 
 ---
 
-# 🔍 Why Posture Collapse Happens  
+## 🔍 Why Posture Collapse Happens  
 
-### ✔ The institution no longer trusts its own data.  
-### ✔ The model outputs nonsense (signal collapse).  
-### ✔ Ghost personas contradict real behaviour.  
-### ✔ Safeguards no longer function coherently.  
-### ✔ Staff do not understand the technical systems.  
-### ✔ Governance is overwhelmed and panicking.  
-### ✔ PR is in denial.  
-### ✔ Leadership is dependent on dashboards that lie.
+- The institution no longer trusts its own data.  
+- The model outputs nonsense (signal collapse).  
+- Ghost personas contradict real behaviour.  
+- Safeguards no longer function coherently.  
+- Staff do not understand the technical systems.  
+- Governance is overwhelmed and panicking.  
+- PR is in denial.  
+- Leadership is dependent on dashboards that lie.
 
 The institution becomes a body without a spine.
 
 ---
 
-# 📉 Consequences for Institutional Behaviour  
+## 📉 Consequences for Institutional Behaviour  
 
 Posture collapse produces:
 
@@ -204,7 +204,7 @@ Once it collapses → the institution behaves like a traumatised person:
 
 ---
 
-# 🧠 Key Insight  
+## 🧠 Key Insight  
 > **Institutional posture collapses when the institution realises privately  
 > that its systems no longer describe reality —  
 > but it has to continue pretending they do.**
@@ -213,17 +213,40 @@ This is the moment before crisis-mode behaviour begins.
 
 ---
 
-# 🌌 Constellations  
-Institutional_Drift · Signal_Collapse · Governance_Failure · Vendor_Ecosystem · Transparency_Warfare  
+## 🌌 Constellations  
+🏛️ 📉 🧠 🧩 🛰️ — institutional drift, signal collapse, governance failure, vendor dependency and defensive posture.
 
 ---
 
-# 🏮 Footer  
-This node links directly to:
+## ✨ Stardust
 
-- **Full-Stack Institutional Failure**,  
-- **Seven Layers of Safeguard Breakdown**,  
-- **Next: Crisis-Mode Behaviours (Institutional Fight/Flight/Fawn/Freeze)**.
+institutional posture, signal collapse, governance failure, defensive communication, procedural paralysis, metadata failure, authority inversion
+
+---
+
+## 🏮 Footer  
+
+*🏛️ Institutional Posture Collapse* is a living node of **Containment Logic**, within the **Polaris Protocol**.
+
+It maps the point at which an institution can no longer reconcile its internal model with observable reality and begins substituting defensive posture for coherent authority.
+
+> 📡 Cross-references:
+>
+> - *Pending: Full-Stack Institutional Failure* — *a planned route into collapse across technical, informational and governance layers.*
+> - *Pending: Seven Layers of Safeguard Breakdown* — *a planned model of cumulative protective failure.*
+> - *Pending: Crisis-Mode Behaviours* — *a planned continuation into institutional fight, flight, fawn and freeze responses.*
+> - [🌀 The Fall of Institutional Integrity](./🌀_fall_of_institutional_integrity.md) — *the broader structural and linguistic decay that precedes posture collapse.*
 
 It forms the first chapter of the *institutional psychology* cluster  
 that closes the Polaris collapse arc.
+
+🏮 Return To:
+- [💫 Containment Logic](./README.md) — *1up*
+- [♻️ Cybernetics](../README.md) — *2up*
+- [🪿 Embodied Information Ecology](../../README.md) — *3up*
+- [🌑 Origin Points](../../../README.md) — *4up*
+- [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-12_
