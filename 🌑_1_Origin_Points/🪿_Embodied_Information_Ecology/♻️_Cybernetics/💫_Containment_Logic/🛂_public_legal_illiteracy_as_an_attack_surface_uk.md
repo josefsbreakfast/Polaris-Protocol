@@ -1,5 +1,5 @@
 # 🛂 Public Legal Illiteracy as an Attack Surface (UK)  
-**First created:** 2025-12-12 | **Last updated:** 2026-08-14  
+**First created:** 2025-12-12 | **Last updated:** 2026-09-13  
 *How confusion about law, rights, and governance becomes a vector for manipulation.*
 
 ---
@@ -142,6 +142,15 @@ It documents how confusion about law and rights is repeatedly exploited — and 
 > - [⚖️ Harm Reduction vs Adversarial Governance](../⚖️_Legal_State_Governance/⚖️_harm_reduction_vs_adversarial_governance.md) — *false binaries*  
 > - [💼 Narrative Capture & Linguistic Power](../📚_Narrative_Management/💼_narrative_capture_and_linguistic_power.md) — *framing power*  
 
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

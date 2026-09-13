@@ -1,5 +1,5 @@
 # 🛰️ Separation-of-Systems: University ↔ Prevent ↔ MoD  
-**First created:** 2025-11-19 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-19 | **Last updated:** 2026-09-13  
 *Why UK institutional architectures cannot be bridged by a single actor, and how harm arises from system edges rather than cross-system access.*  
 
 ---
@@ -74,7 +74,7 @@ These architectures are incompatible by design.
 
 ---
 
-## 2. Why No Single Actor Can Cross Systems
+## 2. Why No Single Actor Normally Controls All Three Systems
 
 Crossing these systems would require simultaneously holding:
 
@@ -183,18 +183,18 @@ This is metaphorical truth arising from structural incoherence.
 
 ---
 
-## 6. Governance Reality: Separation Is Absolute, Harm Is Emergent
+## 6. Governance Reality: Separation Is Material, Harm Can Be Emergent
 
 To summarise:
 
-### ✔ The systems cannot be bridged.  
-### ✔ No individual can sit across them.  
-### ✔ But the patterns can rhyme —  
+### 🧱 The systems have distinct mandates, access controls, and accountability routes.  
+### 🔗 Lawful or informal connections may still exist through partnerships, referrals, contracts, and shared personnel.  
+### 🧩 The patterns can rhyme —  
 creating a lived experience of a unified force.
 
 Polaris distinguishes between:
 
-- **access reality** (strictly separated)  
+- **access reality** (distinct and bounded, but requiring evidence in each case)  
 - **pattern reality** (coherently harmful)  
 
 This distinction is essential for accurate survivor-facing analysis.
@@ -202,7 +202,7 @@ This distinction is essential for accurate survivor-facing analysis.
 ---
 
 ## 🌌 Constellations  
-Frankenstack, House of Glass, Ledger, Parallax — fragmentation, opacity, admin trails, misalignment.
+🛰️ 🧩 🧱 🧿 — frankenstacks, fragmentation, bounded access, administrative trails, and misalignment.
 
 ---
 
@@ -218,6 +218,20 @@ It draws from *🧠 Big_Picture_Protocols* and contributes to the boundary-mappi
 
 It clarifies that cross-system harm arises from **pattern entanglement**, not **access entanglement**, reinforcing the Polaris survivor-first analysis.
 
+> 📡 Cross-references:
+>
+> - [📜 Pre-Crime Governance in the UK](./📜_precrime_governance_uk.md) — *Prevent and Channel as distributed civil-governance pathways*  
+> - [🕸️ Macro Containment Architecture](./🕸️_macro_containment_architecture.md) — *how distinct institutions can still produce cumulative outcomes*  
+
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

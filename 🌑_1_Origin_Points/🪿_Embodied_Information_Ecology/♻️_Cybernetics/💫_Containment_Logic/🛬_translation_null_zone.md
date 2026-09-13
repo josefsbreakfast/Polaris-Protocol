@@ -1,5 +1,5 @@
 # 🛬 Translation Null Zone  
-**First created:** 2025-08-09 | **Last updated:** 2026-08-14  
+**First created:** 2025-08-09 | **Last updated:** 2026-09-13  
 *Language registers that evade machine translation and create camouflage zones.*  
 
 ---
@@ -89,6 +89,15 @@ It explores how archaic, poetic, or minority registers generate camouflage in ma
 > - [🪞 Illusion of Choice](../🧪_Development_Experimentation/🪞_the_illusion_of_choice.md) - *On false autonomy, consent under duress, and the systemic use of coercive freedom*  
 > - [⚖️ Soft Law Governance](../⚖️_Legal_State_Governance/⚖️_soft_law_governance.md) - *Guidance, codes of practice, and memoranda that act as law without oversight or consent*  
 
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_ 
+_Last updated: 2026-09-13_

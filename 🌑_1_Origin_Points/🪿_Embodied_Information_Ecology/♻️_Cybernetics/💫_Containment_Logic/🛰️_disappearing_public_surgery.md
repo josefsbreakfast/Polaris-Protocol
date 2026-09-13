@@ -1,5 +1,5 @@
 # 🛰️ Risk Logic & the Disappearing Public Surgery  
-**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-13  
 *How security cultures have replaced access cultures in representative democracy.*  
 
 ---
@@ -58,8 +58,7 @@ In practice, it creates a cascade of civic silencing:
 Risk logic therefore functions as a **containment structure**:  
 it protects institutions from discomfort at the cost of democratic legitimacy.
 
-The disappearance of public surgeries is not just an administrative shift —  
-it is a **structural diminishment of political hearing**.
+Where public surgeries disappear or become materially inaccessible, the change is not just administrative—it is a **structural diminishment of political hearing**.
 
 ---
 
@@ -76,15 +75,22 @@ risk logic, surgeries, civic access, exclusion, governance, securitisation, publ
 ## 🏮 Footer  
 
 *🛰️ Risk Logic & the Disappearing Public Surgery* is a living node of the Polaris Protocol.  
-It documents how security frameworks have silently replaced the public’s right to direct political hearing.
+It documents how security and risk frameworks can narrow direct political hearing when access routes become difficult, screened, or absent.
 
 > 📡 Cross-references:
 > 
-> - [🧩 The Politic Is No Longer Heard]  
-> - [🎛 Algorithmic Hearing as False Accountability]  
-> - [🪢 Re-Embodied Dialogue & Civic Presence]  
-> - [🌀 Systems & Governance]  
+> - [🚨 Absence of Intervention as Early Warning](./🚨_absence_of_intervention_as_early_warning.md) — *non-intervention as a possible structural signal*  
+> - [📱 Digital Literacy as Democratic Infrastructure](./📱_digital_literacy_as_democratic_infrastructure.md) — *civic access to digitally mediated institutions*  
+
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

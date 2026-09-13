@@ -1,5 +1,5 @@
 # 🚨 Crisis-Mode Behaviours (Institutional Fight / Flight / Fawn / Freeze)  
-**First created:** 2025-11-18 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-18 | **Last updated:** 2026-09-13  
 *How institutions behave once posture collapses — shifting into primitive defensive patterns that mirror human trauma responses: fight, flight, fawn, and freeze.*  
 
 ---
@@ -27,7 +27,7 @@ This node maps each mode, its triggers, and its external signatures.
 
 ---
 
-# 🧩 The Four Crisis Modes  
+## 🧩 The Four Crisis Modes  
 
 Each mode emerges when the institution feels:
 
@@ -39,7 +39,7 @@ Each mode emerges when the institution feels:
 
 ---
 
-# 🔥 **1. FIGHT Mode**  
+## 🔥 **1. FIGHT Mode**  
 *“Push back, escalate, defend the system.”*
 
 ### Triggers  
@@ -68,7 +68,7 @@ because it cannot perform competence.
 
 ---
 
-# 🏃 **2. FLIGHT Mode**  
+## ⚡ **2. FLIGHT Mode**  
 *“Delay, disappear, avoid, stonewall.”*
 
 ### Triggers  
@@ -95,7 +95,7 @@ and is running from accountability.
 
 ---
 
-# 🫱 **3. FAWN Mode**  
+## 🪶 **3. FAWN Mode**  
 *“People-pleasing, over-apologising, hyper-polite collapse.”*
 
 ### Triggers  
@@ -122,7 +122,7 @@ to avoid triggering scrutiny.
 
 ---
 
-# ❄️ **4. FREEZE Mode**  
+## ❄️ **4. FREEZE Mode**  
 *“Procedural paralysis.”*
 
 ### Triggers  
@@ -150,7 +150,7 @@ The institution is overwhelmed and dissociating.
 
 ---
 
-# 💥 Crisis Mode Cycling  
+## 💥 Crisis Mode Cycling  
 Institutions often rotate between modes:
 
 ### fight → freeze → fawn → flight → fight  
@@ -171,7 +171,7 @@ It also signals that:
 
 ---
 
-# 📉 Consequences for the User  
+## 📉 Consequences for the User  
 During crisis mode, the institution may:
 
 - misinterpret your tone,  
@@ -188,7 +188,7 @@ All of this is about collapse.
 
 ---
 
-# 📉 Consequences for the Institution  
+## 📉 Consequences for the Institution  
 Crisis mode creates:
 
 - reputational damage,  
@@ -213,7 +213,7 @@ but only once the panic stops.
 
 ---
 
-# 🧠 Key Insight  
+## 🧠 Key Insight  
 > **Crisis-mode behaviours do not reveal institutional strength or malice.  
 > They reveal helplessness.  
 >  
@@ -225,19 +225,37 @@ lets you predict institutional behaviour with eerie accuracy.
 
 ---
 
-# 🌌 Constellations  
-Institutional_Drift · Panic_Dynamics · Signal_Collapse · Governance_Failure · Synthetic_Personae  
+## 🌌 Constellations  
+🚨 🧠 ❄️ 🧩 — institutional crisis modes, panic dynamics, signal collapse, and governance failure.  
 
 ---
 
-# 🏮 Footer  
-This node forms the second chapter of the *institutional psychology* cluster  
-that concludes the Polaris collapse arc.  
+## ✨ Stardust
+institutional crisis, fight flight fawn freeze, panic dynamics, governance failure, signal collapse, defensive behaviour, survivor impact
+
+---
+
+---
+
+## 🏮 Footer  
+*🚨 Crisis-Mode Behaviours* is a living node of the **Polaris Protocol**.  
+It maps fight, flight, fawn, and freeze as organisational metaphors for defensive behaviour, not clinical diagnoses of institutions or staff.  
 
 > 📡 Cross-references:
 >
 > - [🕶️ Whistleblowing and Entrapment in the Para-Intelligence Economy](../../../../Metadata_Sabotage_Network/Governance_And_Containment/㊙_Containment_Contracts/🕶️_whistleblowing_and_entrapment_in_the_para_intelligence_economy.md)  
 > - [🐐 Old-School Scapegoating](../🌀_System_Governance/📚_Narrative_Management/🐐_old_school_scapegoating.md)  
-> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md)  
+> - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *overreaction as a prompt for further scrutiny*  
 
-_Last updated: 2026-08-14_
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-09-13_

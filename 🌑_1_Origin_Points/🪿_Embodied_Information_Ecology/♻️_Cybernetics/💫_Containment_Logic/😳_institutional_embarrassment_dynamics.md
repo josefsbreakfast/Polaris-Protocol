@@ -1,5 +1,5 @@
 # 😳 Institutional Embarrassment Dynamics  
-**First created:** 2025-11-14 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-14 | **Last updated:** 2026-09-13  
 *Why organisations hesitate, contort, or delay when internal harm is revealed — and how embarrassment becomes a structural force shaping governance behaviour.*  
 
 ---
@@ -114,7 +114,7 @@ Embarrassment-driven behaviour can feel like:
 - hostility  
 - disbelief  
 
-But inside the system, the behaviour is self-protective, not targeted.
+Inside the system, the behaviour may be self-protective rather than targeted; that distinction requires evidence.
 
 The institution is embarrassed about **itself**, not about the individual.
 
@@ -140,7 +140,7 @@ but once processed, it often accelerates repair.
 ---
 
 ## 6. Why Understanding Embarrassment Helps Survivors  
-Knowing that silence = embarrassment, not dismissal, can:
+Considering embarrassment as one possible explanation for silence can:
 
 - stabilise expectations  
 - reduce panic  
@@ -148,12 +148,12 @@ Knowing that silence = embarrassment, not dismissal, can:
 - contextualise inconsistent communication  
 - help time escalation appropriately  
 
-It allows survivors to see organisational behaviour as **human**, not hostile.
+It allows survivors to test organisational behaviour as **human and defensive** without being required to dismiss evidence of hostility.
 
 ---
 
 ## 🌌 Constellations  
-Silence-Harm · Freeze–Fog–Correction · Systems Governance · Survivor Voice  
+😳 🔇 😶‍🌫️ 🧠 — embarrassment, silence-harm, freeze–fog–correction, and survivor interpretation.  
 
 ---
 
@@ -166,4 +166,20 @@ embarrassment dynamics, organisational shame, governance delay, identity rupture
 *😳 Institutional Embarrassment Dynamics* describes the emotional mechanics behind organisational hesitation and delay.  
 It reframes embarrassment as a structural force — predictable, temporary, and resolvable.
 
-_Last updated: 2026-08-14_
+> 📡 Cross-references:
+>
+> - [😶‍🌫️ Institutional Freeze–Fog–Correction Cycle](./😶‍🌫️_institutional_freeze_fog_correction_cycle.md) — *the wider sequence in which embarrassment may operate*  
+> - [🔇 Silence-Harm & Acknowledgment Delay](./🔇_silence_harm_and_acknowledgment_delay.md) — *the consequences of non-response regardless of its cause*  
+
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-09-13_

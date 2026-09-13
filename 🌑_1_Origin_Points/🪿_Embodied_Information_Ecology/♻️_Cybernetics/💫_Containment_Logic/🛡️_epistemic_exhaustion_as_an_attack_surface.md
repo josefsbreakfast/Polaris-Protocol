@@ -1,5 +1,5 @@
 # 🛡️ Epistemic Exhaustion as an Attack Surface  
-**First created:** 2025-12-14 | **Last updated:** 2026-08-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-09-13  
 *How population-level burnout collapses verification capacity and becomes a low-cost national security vulnerability.*  
 
 ---
@@ -166,8 +166,17 @@ It documents how population-level burnout undermines verification capacity and c
 > - [🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash](../🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md) — *origin conditions*  
 > - [📱 Digital Literacy as Democratic Infrastructure](./📱_digital_literacy_as_democratic_infrastructure.md) — *civic resilience layer*  
 > - [🧠 Cognitive Immunology](../../🦕_Elder_Influencers/🕸️_World_Webs/🧠_cognitive_immunology.md) — *fatigue as a control vector*  
-> - [🦉 Language As Attack Surface](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/README.md)  
+> - [🦉 Language As Attack Surface](../../../../🦆_Digital_Disruption/🦉_Language_As_Attack_Surface/README.md) — *linguistic ambiguity as a security and interpretation surface*  
+
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_
