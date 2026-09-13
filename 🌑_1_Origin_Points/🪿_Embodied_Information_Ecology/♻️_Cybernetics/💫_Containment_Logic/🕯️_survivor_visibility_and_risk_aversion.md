@@ -1,5 +1,5 @@
 # 🕯️ Survivor Visibility and Risk Aversion  
-**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-13  
 *Why institutions become wary, cautious, or avoidant when a survivor’s clarity, accuracy, or visibility intersects with a coercive actor — and how risk aversion shapes the survivor’s experience of being seen.*  
 
 ---
@@ -43,7 +43,7 @@ This node maps why institutions behave cautiously when survivors appear “very 
 
 ## 🧿 Analysis  
 
-### 1️⃣ What Is “Survivor Visibility”?  
+### 🕯️ What Is “Survivor Visibility”?  
 A survivor becomes visible when they show:
 
 - clear documentation  
@@ -64,7 +64,7 @@ But in the presence of a coercive actor, it becomes dangerous for staff.
 
 ---
 
-### 2️⃣ Why Visibility Triggers Risk Aversion  
+### ⚠️ Why Visibility Can Trigger Risk Aversion  
 Risk aversion amplifies when a survivor is both:
 
 - *highly visible*, and  
@@ -93,7 +93,7 @@ Thus the survivor feels:
 
 ---
 
-### 3️⃣ The “Seen but Untouchable” Paradox  
+### 🧿 The “Seen but Untouchable” Paradox  
 Survivors in this stage describe:
 
 - “Everyone knows what’s going on.”  
@@ -112,7 +112,7 @@ It is the system trying not to contaminate the eventual outcome.
 
 ---
 
-### 4️⃣ Visibility vs Vulnerability  
+### ⚖️ Visibility vs Vulnerability  
 Visibility increases vulnerability when:
 
 - staff are frightened of retaliation  
@@ -129,7 +129,7 @@ A highly visible survivor becomes a **lightning rod**, drawing risk assessment t
 
 ---
 
-### 5️⃣ Why Staff Appear Cold or Distant  
+### ❄️ Why Staff May Appear Cold or Distant  
 This behaviour is common when risk aversion is active:
 
 - staff minimise informal communication  
@@ -146,7 +146,7 @@ but because **the risk environment is**.
 
 ---
 
-### 6️⃣ Post-Cut Shift: When Visibility Becomes Safety  
+### ✂️ Post-Cut Shift: When Visibility Becomes Safety  
 Once the **hygienic cut** occurs:
 
 - visibility stops being dangerous  
@@ -163,7 +163,7 @@ Visibility transforms from liability → strength.
 
 ---
 
-### 7️⃣ Survivor Guidance: Interpreting the Silence  
+### 🧭 Survivor Guidance: Interpreting the Silence  
 When an institution becomes cautious around a visible survivor, interpret through this lens:
 
 - silence ≠ disbelief  
@@ -173,17 +173,16 @@ When an institution becomes cautious around a visible survivor, interpret throug
 - invisibility of support ≠ absence of support  
 - risk aversion ≠ doubt  
 
-Most often, it means:
+One possible explanation is:
 
 > “They are waiting for the environment to be safe enough to help properly.”
 
-This does not reduce the pain of being in limbo  
-— but it correctly assigns responsibility to the system, not the survivor.
+This does not reduce the pain of being in limbo. It offers a systems hypothesis to test, not an instruction to discount evidence of disbelief, rejection, or indifference.
 
 ---
 
 ## 🌌 Constellations  
-🕯️ 🧿 🧠 🪢 – visibility, risk aversion, institutional fear, survivor dynamics.
+🕯️ 🧿 🧠 🪢 — visibility, risk aversion, institutional fear, survivor dynamics.
 
 ---
 
@@ -196,13 +195,20 @@ survivor visibility, risk aversion, institutional behaviour, procedural fear, co
 
 *🕯️ Survivor Visibility and Risk Aversion* is a Polaris survivor-systems node explaining why institutions behave cautiously around visible survivors when coercive actors are present — and how this dynamic resolves once procedural safety is restored.
 
-Pairs with:
+> 📡 Cross-references:
+>
+> - [🔍 Institutional Freeze Patterns](./🔍_institutional_freeze_patterns.md) — *alternative explanations for delayed or formalised response*  
+> - [🔇 Silence-Harm & Acknowledgment Delay](./🔇_silence_harm_and_acknowledgment_delay.md) — *secondary harm created while institutions remain silent*  
 
-- **🪢 Hygienic Cut**  
-- **🔍 Institutional Freeze Patterns**  
-- **⚖️ Procedural Correctness as Safeguard**  
-- **🧙‍♀️ Witch Logic Diagnostic**
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

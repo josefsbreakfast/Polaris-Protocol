@@ -1,5 +1,5 @@
 # 📚 Venus in Furs as Witchfinder Litmus Paper  
-**First created:** 2025-10-24 | **Last updated:** 2026-08-14  
+**First created:** 2025-10-24 | **Last updated:** 2026-09-13  
 *How moral reflexes betray algorithmic repression.*
 
 ---
@@ -48,15 +48,14 @@ The problem was never sin; it was **entropy**.
 4. Interpretation: the steeper the defensive curve, the greater the latent witch-hunt potential.  
 
 The method is playful, but the data are serious.  
-Moral discomfort is a **leading indicator of authoritarian drift**.
+Moral discomfort is treated here as a **diagnostic prompt for possible authoritarian drift**, not proof of it.
 
 ---
 
 ## 4. ECHR and the Mask of Respectability  
 
-The European Convention on Human Rights currently functions as a **containment shield** for such reflexes.  
-Without it, moral panic would flow unimpeded from gossip column to policy paper.  
-Those seeking to dismantle rights frameworks imagine liberation from constraint; in practice, they remove the last circuit-breaker between embarrassment and persecution.  
+The European Convention on Human Rights can function as a **containment shield** against such reflexes through protections for private life, freedom of thought and expression, and the requirement that interferences be lawful, necessary, and proportionate.  
+Weakening those constraints would remove important circuit-breakers between embarrassment, moral panic, and coercive policy.  
 
 The Convention protects not only speech but **the capacity to think without institutional adrenaline**.  
 
@@ -126,15 +125,21 @@ Every regime that dismantles its legal inhibitors believes it is asserting sover
 In reality, it is revealing its **lack of self-regulation**.  
 
 The Convention’s real utility is diagnostic.  
-Watch who demands its abolition and you will see who fears exposure most.  
+Watch how abolition is justified and what forms of state action its advocates wish to free from review.  
 It stops them from being *outed* — not only for misconduct, but for the fragility of their moral control systems.  
 Without that barrier, the witch-finder reflex would fire unimpeded, and the bonfires would simply change medium.  
 
 ---
 
+## 📚 Legal Anchor
+
+- [European Court of Human Rights: “European Convention on Human Rights”](https://www.echr.coe.int/documents/d/echr/convention_eng) — *Articles 8, 9 and 10 on private life, thought and expression*  
+
+---
+
 ## 🌌 Constellations  
 
-🪄 Expression of Norms • 🔥 The Witchings of Europe • 🧬 Algorithmic Endocrinology • 🌀 System Governance  
+🪄 🔥 🧬 🌀 — expression norms, witch-finder reflexes, algorithmic endocrinology, and system governance.  
 
 ---
 
@@ -151,9 +156,18 @@ It proposes humour as method and literature as instrument: a way to detect repre
 
 > 📡 Cross-references:
 > 
-> – [🔥 The Witchings of Europe] — *historical analysis of suppression logics*  
-> – [🧬 Algorithmic Endocrinology]  — *physiological framework*  
-> – [🧭 Governance and Oversight in Algorithmic Health] — *policy parallels*  
+> - [📚 The Reflex to Hide the Book](./📚_reflex_to_hide_the_book.md) — *containment triggered by discomfort with critical texts*  
+> - [📚 Suppressed Safe Collection](./📚_suppressed_safe_collection.md) — *historical infrastructure for administratively hidden literature*  
+> - [📚 Meta-Silence and the Optimisation of Ignorance](./📚_meta_silence_optimisation_of_ignorance.md) — *knowledge systems trained to reward silence*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2026-08-14_
+
+_Last updated: 2026-09-13_

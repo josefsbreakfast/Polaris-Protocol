@@ -1,5 +1,5 @@
 # 📚 Suppressed Safe Collection  
-**First created:** 2025-10-16 | **Last updated:** 2026-08-14  
+**First created:** 2025-10-16 | **Last updated:** 2026-09-13  
 *An anatomy of archival censorship disguised as library housekeeping.*  
 
 ---
@@ -58,14 +58,13 @@ Every generation invents a new Safe — only the interface changes.
 
 ## 🌌 Constellations  
 
-🧾 🔮 🧠 👁️‍🗨️ — Occupies the archival-forensic and diagnostic constellations.  
-Traces a line from physical safes to algorithmic shadowbans and content-moderation back-ends.
+🧾 🔮 🧠 👁️‍🗨️ — archival forensics, administrative suppression, metadata visibility, and moderation infrastructure.
 
 ---
 
 ## ✨ Stardust  
 
-Suppressed Safe, British Museum Library, censorship, metadata suppression, private case, obscenity law, legal deposit, archival secrecy, content moderation, administrative censorship, typographical error
+suppressed safe, british museum library, censorship, metadata suppression, private case, obscenity law, legal deposit, archival secrecy, content moderation, administrative censorship
 
 ---
 
@@ -78,7 +77,16 @@ It documents the genealogy of suppression as logistics — from the locked cabin
 > 
 > - [👁️‍🗨️ Witness Historical Casefiles](../../🫀_Our_Hearts_Our_Minds/👁️‍🗨️_Witness_Historical_Casefiles/README.md) — *forensic witness archives*  
 > - [🧿 Watch The Watchers](../../🪄_Expression_Of_Norms/🧿_Watch_The_Watchers/README.md) — *oversight of oversight mechanisms*  
+> - [📚 The Reflex to Hide the Book](./📚_reflex_to_hide_the_book.md) — *the recurrent move from institutional discomfort to suppression*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

@@ -1,5 +1,5 @@
 # 📚 Memory, Market, and the Machinery of Data Exhaust  
-**First created:** 2025-12-14 | **Last updated:** 2026-09-12  
+**First created:** 2025-12-14 | **Last updated:** 2026-09-13  
 *Extractive custody, ownership drift, and the orphaning of digital governance problems.*
 
 ---
@@ -341,4 +341,4 @@ It analyses how behavioural residue becomes subject to extractive custody — an
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-09-12_
+_Last updated: 2026-09-13_

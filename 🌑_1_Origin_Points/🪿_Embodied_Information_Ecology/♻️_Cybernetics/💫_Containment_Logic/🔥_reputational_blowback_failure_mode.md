@@ -1,5 +1,5 @@
-# 🔥 Reputational blowback failure mode  
-**First created:** 2025-12-14 | **Last updated:** 2026-08-14  
+# 🔥 Reputational Blowback Failure Mode  
+**First created:** 2025-12-14 | **Last updated:** 2026-09-13  
 *When attempts to contain reputational risk create greater exposure than the original issue.*
 
 ---
@@ -120,15 +120,23 @@ reputational blowback, over-containment, visibility paradox, secrecy as signal, 
 
 ## 🏮 Footer  
 
-*Reputational blowback failure mode* is a living node of the **Polaris Protocol**.  
+*🔥 Reputational Blowback Failure Mode* is a living node of the **Polaris Protocol**.  
 It documents how institutions generate reputational harm by attempting to control perception rather than resolve underlying issues proportionately.
 
 > 📡 Cross-references:
 > 
-> - [🧨 Escalation cascades through misapplied risk logic] — risk inflation dynamics  
-> - [🎭 Narrative overcontrol failure] — story management risks  
-> - [🦴 Reputational management as harm-producing system]
+> - [🔇 Silence-Harm & Acknowledgment Delay](./🔇_silence_harm_and_acknowledgment_delay.md) — *how non-response creates secondary harm and narrative tension*  
+> - [📡 Curated Reality in Westminster](./📡_curated_reality_in_westminster.md) — *how institutional feeds shape perception of risk and response*  
+
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

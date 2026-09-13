@@ -1,5 +1,5 @@
 # 🕸️ Macro Containment Architecture  
-**First created:** 2025-11-08 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-08 | **Last updated:** 2026-09-13  
 *How containment emerges across connected institutions, information systems, procurement arrangements and governance processes without requiring a single central controller.*
 
 ---
@@ -417,9 +417,7 @@ It has merely found a way to postpone it.
 
 ## 🌌 Constellations
 
-🕸️ ⚖️ 🌀 🧩 🧬 ❌ 🪼 🧀
-
-Distributed governance, lawful authority, institutional risk management, information infrastructure, behavioural classification, cumulative safeguard failure, dependency, review and safe exit.
+🕸️ ⚖️ 🌀 🧩 🪼 — distributed governance, lawful authority, institutional risk, cumulative safeguard failure, review, and safe exit.
 
 ---
 
@@ -445,6 +443,15 @@ It examines how restrictive outcomes can emerge across connected institutions, g
 > - [🧀 When Process Holes Align](./🧀_when_process_holes_align.md) — cumulative safeguarding failures across connected institutional layers.
 > - [🧭 Regulating the Regulators: Oversight of Oversight](./🧭_regulating_the_regulators_oversight_of_oversight.md) — independent scrutiny where accountability is distributed.
 
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-13_

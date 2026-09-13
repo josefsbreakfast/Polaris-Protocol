@@ -1,5 +1,5 @@
 # 🔍 Institutional Freeze Patterns  
-**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-13  
 *Why institutions stall, slow down, or become hyper-formal around survivor cases involving coercive, litigious, or system-embedded actors — and how to recognise when freeze is a structural reflex rather than personal rejection.*  
 
 ---
@@ -178,7 +178,7 @@ If yes, freeze may be in effect.
 ---
 
 ## 🌌 Constellations  
-🔍 🪢 ⚖️ 🧠 – freeze states, risk triage, coercive actors, governance behaviours.
+🔍 🪢 ⚖️ 🧠 — freeze states, risk triage, coercive actors, governance behaviours.
 
 ---
 
@@ -189,14 +189,23 @@ institutional freeze, procedural fear, coercive actors, survivor support delay, 
 
 ## 🏮 Footer  
 
-*🔍 Institutional Freeze Patterns* explains why systems appear to “abandon” survivors when in fact they are locked in risk triage around a coercive or litigious actor.
+*🔍 Institutional Freeze Patterns* explains how systems may appear to “abandon” survivors when they become locked in risk triage around a coercive or litigious actor.
 
 > 📡 Cross-references:
 > 
-> - [🪢 Hygienic Cut](./🪢_hygienic_cut.md)  
-> - [⚖️ Procedural Correctness as Safeguard](./⚖️_procedural_correctness_as_safeguard.md)  
-> - [🧙‍♀️ Witch Logic Diagnostic](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🪆_Narrative_Interference/🧙‍♀️_witch_logic_diagnostic.md)  
+> - [🪢 Hygienic Cut](./🪢_hygienic_cut.md) — *controlled separation from a contaminated process*  
+> - [⚖️ Procedural Correctness as Safeguard](./⚖️_procedural_correctness_as_safeguard.md) — *procedure used to preserve rather than displace substantive safety*  
+> - [🔇 Silence-Harm & Acknowledgment Delay](./🔇_silence_harm_and_acknowledgment_delay.md) — *the secondary effects of prolonged institutional non-response*  
+
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

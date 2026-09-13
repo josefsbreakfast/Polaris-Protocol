@@ -1,5 +1,5 @@
 # 🔇 Silence-Harm & Acknowledgment Delay  
-**First created:** 2025-11-14 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-14 | **Last updated:** 2026-09-13  
 *Why institutions fall silent when harm emerges, how silence produces secondary trauma, and why acknowledgment almost always arrives later than it should.*  
 
 ---
@@ -153,7 +153,7 @@ Silence:
 - creates a vacuum where the worst interpretations breed  
 
 Silence is not neutral.  
-It is an active, measurable harm.
+Its duration and effects can create active, observable harm.
 
 ---
 
@@ -166,12 +166,12 @@ Silence breaks when:
 - a regulator asks questions  
 - a harmed person keeps pushing consistently, calmly, and factually  
 
-Once this alignment occurs, acknowledgment normally comes *quickly*.
+Once this alignment occurs, acknowledgment may come *quickly*—but the delay already incurred still matters.
 
 ---
 
 ## 🌌 Constellations  
-Survivor Voice · Systems Governance · Institutional Reflexes · Post-Digital Diagnostics  
+🔇 🧠 🧩 🫀 — survivor voice, systems governance, institutional reflexes, and secondary harm.  
 
 ---
 
@@ -184,4 +184,19 @@ silence-harm, acknowledgment delay, governance fog, emotional paralysis, institu
 *🔇 Silence-Harm & Acknowledgment Delay* explains why institutions freeze when confronted with internal harm and how this silence creates secondary trauma.  
 Understanding the cycle helps stabilise expectations and reframe delay as structural rather than personal.
 
-_Last updated: 2026-08-14_
+> 📡 Cross-references:
+>
+> - [🔍 Institutional Freeze Patterns](./🔍_institutional_freeze_patterns.md) — *how risk triage produces stalled response*  
+> - [🔥 Reputational Blowback Failure Mode](./🔥_reputational_blowback_failure_mode.md) — *how unexplained silence can intensify scrutiny*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-09-13_

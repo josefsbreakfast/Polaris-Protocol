@@ -1,5 +1,5 @@
 # 📋 Tick-Box Compliance as Containment  
-**First created:** 2025-09-25 | **Last updated:** 2026-08-14  
+**First created:** 2025-09-25 | **Last updated:** 2026-09-13  
 *Institutional minimalism that simulates accountability while erasing systemic responsibility.*  
 
 ---
@@ -45,15 +45,23 @@ tick-box compliance, institutional minimalism, optics over outcomes, compliance 
 
 ## 🏮 Footer  
 
-*Tick-Box Compliance as Containment* is a living node of the Polaris Protocol.  
+*📋 Tick-Box Compliance as Containment* is a living node of the **Polaris Protocol**.  
 It documents how institutional minimalism transforms compliance into a tool of suppression, where the appearance of accountability replaces systemic repair.  
 
 > 📡 Cross-references:
 > 
-> - [😴 Cognitive Load as Infrastructure](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md) - *Containment systems that exploit trust in baseline functioning while inducing fatigue through micro-distortions*    
-> - [📚 Crisis Theatre](../📚_Narrative_Management/📚_crisis_theatre.md) - *The emergency as stagecraft: when crises are staged, exaggerated, or selectively framed to authorise powers already waiting in the wings*  
-> - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) - *Unconsented containment, metadata silencing, and covert NDAs*  
+> - [😴 Cognitive Load as Infrastructure](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/😴_cognitive_load_as_infrastructure.md) — *containment systems that induce fatigue through cumulative micro-distortions*  
+> - [📋 Tickbox vs Cognitive Load](./📋_loop_tickbox_vs_cognitive_load.md) — *the feedback loop between compliance minimalism and survivor exhaustion*  
+> - [📠 The 72-Hour Comedy of Compliance](./📠_the_72_hour_comedy_of_compliance.md) — *deadline compliance performed without full institutional candour*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

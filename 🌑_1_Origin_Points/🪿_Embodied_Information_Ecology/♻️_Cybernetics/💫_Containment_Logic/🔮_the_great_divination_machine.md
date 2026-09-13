@@ -1,6 +1,6 @@
 # 🔮 The Great Divination Machine
 
-**First created:** 2025-10-20 | **Last updated:** 2026-08-24  
+**First created:** 2025-10-20 | **Last updated:** 2026-09-13  
 *A semi-satirical history of predictive governance, institutional faith and the persistent human desire to make uncertainty explain itself.*
 
 ---
@@ -492,6 +492,15 @@ It precedes *🧮 DeepThought DataGov Problem*, which examines what institutions
 > - [🧠 Bureaucratic Fast Thinking and Reputational Harm](./🧠_bureaucratic_fast_thinking_and_reputational_harm.md) — *how administrative shortcuts can harden into apparently reliable judgements.*
 > - [⚖️ Legal Disentanglement and Risk Perception](./⚖️_legal_disentanglement_and_risk_perception.md) — *why evidence, responsibility and correction must remain distinguishable.*
 
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-24_
+_Last updated: 2026-09-13_

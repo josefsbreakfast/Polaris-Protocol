@@ -1,5 +1,5 @@
 # 🕳️ Never Really Leaving — Child Abuse, Britain, and the Non-Escape  
-**First created:** 2025-11-08 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-08 | **Last updated:** 2026-09-13  
 *“He’s in prison. I’m 35. I still haven’t escaped.”*  
 
 ---
@@ -46,14 +46,14 @@ This isn’t just “people are mean”. It’s structural:
 ---
 
 ## 🔗 How the Past Stays Attached  
-### 1️⃣ Misfitting data → misfitting person  
+### 🧮 Misfitting Data → Misfitting Person  
 High reasoning, creative output, strong performance; but health and trauma distort the record.  
 Instead of *“What happened to you?”* systems ask *“What’s wrong with you?”*
 
-### 2️⃣ “Too complicated to keep”  
+### 📋 “Too Complicated to Keep”  
 Need an extra year? Adjustment? Transfer? Bureaucracy says no — not because it can’t, but because flexibility threatens its metrics.
 
-### 3️⃣ Permanent suspicion  
+### 🧿 Permanent Suspicion  
 Disclosing abuse = forever marked as “high risk” or “unstable”.  Allowed to exist, not to belong.
 
 ---
@@ -71,7 +71,7 @@ Institutions hurt survivors by preserving metrics and reputations instead of tru
 ---
 
 ## 🌌 Constellations  
-Anchors: 🧠 Survivor Voice Fidelity · 🐦‍🔥 Trauma Psychology & Medical Misuse · 🕯 Exorcism & Historical Reckoning · 🧮 Data Sovereignty & Misfit Metrics  
+🧠 🐦‍🔥 🕯️ 🧮 — survivor voice, trauma and medical misuse, historical reckoning, and data misfit.  
 
 🧬 How This Connects to Data Nodes  
 - [🧮 PIPS–YELLIS Data Ecosystem — From Baseline to Board Narrative](../Education_Data/🧮_pips_yellis_data_ecosystem.md)  
@@ -91,6 +91,21 @@ child abuse, britain, non-escape, institutional denial, survivor stigma, pruning
 *🕳️ Never Really Leaving — Child Abuse, Britain, and the Non-Escape* is a witness node of the Polaris Protocol.  
 It records how a survivor can do everything “right” and still find that abuse, denial, and policy choices braid together into a life-long containment field.
 
+> 📡 Cross-references:
+>
+> - [🧮 PIPS–YELLIS Data Ecosystem — From Baseline to Board Narrative](../Education_Data/🧮_pips_yellis_data_ecosystem.md) — *educational measurement without adequate adversity context*  
+> - [🧠 Extraction Loop — Data vs Story](../Extraction_Reclamation/🧠_extraction_loop_data_vs_story.md) — *conflict between administrative records and lived account*  
+> - [🧩 Counter-Extraction Loop — Reclaiming Authorship](../Extraction_Reclamation/🧩_counter_extraction_loop_reclaiming_authorship.md) — *survivor-led restoration of context and authorship*  
+
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

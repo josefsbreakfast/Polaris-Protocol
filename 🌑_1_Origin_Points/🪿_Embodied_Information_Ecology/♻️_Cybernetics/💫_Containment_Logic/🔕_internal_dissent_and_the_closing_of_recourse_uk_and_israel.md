@@ -1,5 +1,5 @@
-# 🔕 Internal Dissent And The Closing Of Recourse (UK and Israel)
-**First created:** 2025-12-20 | **Last updated:** 2026-08-14  
+# 🔕 Internal Dissent and the Closing of Recourse (UK and Israel)
+**First created:** 2025-12-20 | **Last updated:** 2026-09-13  
 *How systems under legal and moral stress suppress internal correction while preserving the appearance of choice.*
 
 ---
@@ -33,25 +33,22 @@ When dissent is suppressed, systems lose braking capacity.
 ---
 
 ## 🇬🇧 UK: narrowing without bans
-In the UK, dissent was constrained through:
+In the UK, dissent could be constrained through:
 
 - concentration of authority in ministers,
-- absence of lawful refusal routes,
+- limited or professionally costly refusal routes,
 - professional codes reframed as neutrality requirements,
 - security clearance and confidentiality pressure,
 - and reputational risk to careers.
 
-Key features:
-- no formal prohibition,
-- but rising personal cost,
-- and no protected escalation path.
+Key features include no general prohibition, but potentially rising personal cost and uneven protected escalation routes.
 
 Resignation becomes the only clean exit.
 
 ---
 
 ## 🇮🇱 Israel: narrowing through law
-In Israel, dissent contraction was more explicit:
+In Israel, reported dissent contraction during the war period was more explicit:
 
 - emergency regulations expanded,
 - speech restrictions tightened,
@@ -64,7 +61,7 @@ Within the military:
 - discipline tightened,
 - and internal critique securitised.
 
-The result was **formal closure**, not just drift.
+The analytical concern is **formal restriction**, not just institutional drift; its extent and application require claim-specific evidence.
 
 ---
 
@@ -130,16 +127,24 @@ internal dissent, whistleblowing, refusal, speech suppression, emergency powers,
 
 ## 🏮 Footer
 
-*🔕 Internal Dissent And The Closing Of Recourse (UK and Israel)* is a contextual systems node in the **Polaris Protocol**.
+*🔕 Internal Dissent and the Closing of Recourse (UK and Israel)* is a contextual systems node in the **Polaris Protocol**.
 
 It exists to explain why warning signals failed to alter course, and how systems can appear stable while actively disabling their own capacity to correct.
 
 > 📡 Cross-references:
 >
-> - [🏛️ Ministerial authority and collapse of lawful refusal] — *why refusal vanished*
-> - [🛰️ Intelligence, ISR, and vicarious trauma] — *where silence accumulates*
-> - [🧨 Failure of genocide prevention: UK state (Jan–Aug 2024)] — *what happens when dissent closes*
->
-> *Survivor authorship is sovereign. Containment is never neutral.*
+> - [🔁 Recursive Parliamentary Containment Loop](./🔁_recursive_parliamentary_containment_loop.md) — *how political incentives narrow internal correction*  
+> - [🔇 Silence-Harm & Acknowledgment Delay](./🔇_silence_harm_and_acknowledgment_delay.md) — *where unacknowledged warnings accumulate*  
 
-_Last updated: 2026-08-14_
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-13_

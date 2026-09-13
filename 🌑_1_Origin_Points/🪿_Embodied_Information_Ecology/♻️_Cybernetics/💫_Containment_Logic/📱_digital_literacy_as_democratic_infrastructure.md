@@ -1,5 +1,5 @@
 # 📱 Digital Literacy as Democratic Infrastructure  
-**First created:** 2025-12-14 | **Last updated:** 2026-08-14  
+**First created:** 2025-12-14 | **Last updated:** 2026-09-13  
 *Why baseline public understanding of digital systems is now a prerequisite for democratic resilience.*  
 
 ---
@@ -10,7 +10,7 @@ Digital systems are no longer optional tools. They are the **substrate of civic 
 
 Work, welfare, healthcare, taxation, education, media, elections, and public discourse are now mediated through computational systems. Yet digital understanding is still treated as a personal preference or specialist skill rather than a **shared civic requirement**.
 
-This node argues that **digital literacy now functions as democratic infrastructure** — akin to roads, clean water, or universal education. When large portions of the public opt out of understanding how digital systems work, democracies become brittle, manipulable, and increasingly governed by opaque processes no one feels entitled to question.
+This node argues that **digital literacy now functions as democratic infrastructure** — akin to roads, clean water, or universal education. When large portions of the public are excluded from understanding how digital systems work—or are exhausted into disengagement—democracies become brittle, manipulable, and increasingly governed by opaque processes no one feels entitled to question.
 
 ---
 
@@ -39,7 +39,7 @@ When:
 - political communication is platform-mediated  
 - AI systems shape access, visibility, and decision-making  
 
-…opting out of digital understanding is no longer neutral.  
+…widespread exclusion from digital understanding is no longer a private inconvenience.  
 It creates **asymmetric power** between those who understand the systems and those governed by them.
 
 Democracy cannot function when its infrastructure is unintelligible to its citizens.
@@ -178,6 +178,15 @@ It establishes digital understanding as a collective civic requirement and docum
 > - [🧨 Overclocked Capitalism & the Post-2020 Cognitive Crash](../🛰️_Infrastructure_Procurement/🧨_overclocked_capitalism_2020_cognitive_crash.md) — *origin conditions*  
 > - [🧠 Cognitive Immunology](../../🦕_Elder_Influencers/🕸️_World_Webs/🧠_cognitive_immunology.md) — *population-level resilience framework*  
 
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

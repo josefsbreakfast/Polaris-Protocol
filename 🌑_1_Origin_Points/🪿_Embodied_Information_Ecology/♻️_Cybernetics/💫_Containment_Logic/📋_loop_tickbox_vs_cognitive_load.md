@@ -1,5 +1,5 @@
 # 📋 Tickbox vs Cognitive Load  
-**First created:** 2025-09-24 | **Last updated:** 2026-08-14  
+**First created:** 2025-09-24 | **Last updated:** 2026-09-13  
 *A feedback loop between institutional minimalism and survivor exhaustion.*
 
 ---
@@ -17,8 +17,12 @@ flowchart TD
 ## 🌌 Constellations  
 📋 😴 🧠 🩹 — This node maps a recurring exhaustion loop that emerges from surface-level compliance structures.
 
+---
+
 ## ✨ Stardust  
 tickbox, exhaustion, compliance theatre, cognitive load, survivor fatigue, containment loop
+
+---
 
 ## 🏮 Footer  
 
@@ -27,11 +31,17 @@ It diagrams a self-reinforcing loop where institutional minimalism (tick-box cul
 
 > 📡 Cross-references:
 > 
-> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) - 
-*Polaris Protocol doctrine node — behavioural science repurposed as state containment*  
-> - [⚖️ Containment Contract Trace](../⚖️_Legal_State_Governance/⚖️_containment_contract_trace.md) - *How “compliance”, secrecy, and CVE practice in the UK create plausible deniability, gaslighting, and governance failure — with remedies*  
-> - [📋 Tick-Box Compliance as Containment](./📋_tick_box_compliance_as_containment.md) - *Institutional minimalism that simulates accountability while erasing systemic responsibility*  
+> - [🧠 Psychological Containment](../../../../Metadata_Sabotage_Network/Narrative_And_Psych_Ops/🧠_Psychological_Containment/README.md) — *behavioural science repurposed as state containment*  
+> - [📋 Tick-Box Compliance as Containment](./📋_tick_box_compliance_as_containment.md) — *institutional minimalism that simulates accountability while erasing systemic responsibility*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

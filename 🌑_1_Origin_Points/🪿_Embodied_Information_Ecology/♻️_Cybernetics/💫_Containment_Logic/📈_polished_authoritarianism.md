@@ -1,5 +1,5 @@
-# 📈 **Polished Authoritarianism — Aesthetic Laundering for Modern Extremism**  
-**First created:** 2025-11-12 | **Last updated:** 2026-08-14  
+# 📈 Polished Authoritarianism — Aesthetic Laundering for Modern Extremism  
+**First created:** 2025-11-12 | **Last updated:** 2026-09-13  
 *Fascism rarely arrives as chaos. It arrives as competence, professionalism, lighting, branding, and keynote decks.*  
 
 ---
@@ -36,7 +36,7 @@ It is harm disguised as governance.
 
 ## 🧿 Analysis / Content  
 
-### 1️⃣ **The Aesthetic Shift: From Street to Boardroom**  
+### 🏢 **The Aesthetic Shift: From Street to Boardroom**  
 Authoritarian politics once relied on:
 
 - uniforms,  
@@ -53,11 +53,11 @@ Modern variants learned:
 - leadership language is more powerful than hate speech  
 - “civility” is more persuasive than overt domination
 
-This shift is deliberate.
+Some networks cultivate this shift deliberately; others reproduce it because professional aesthetics attract access, money, and institutional trust.
 
 ---
 
-### 2️⃣ **Professionalism as Camouflage**  
+### 🎭 **Professionalism as Camouflage**  
 Polished authoritarianism uses:
 
 - clean logos  
@@ -75,11 +75,11 @@ The styling triggers cognitive shortcuts:
 
 > “This looks serious — therefore it must be legitimate.”
 
-This bypasses scrutiny entirely.
+This can lower scrutiny before the substance has been tested.
 
 ---
 
-### 3️⃣ **Leadership Aesthetic: Tone Over Substance**  
+### 🎙️ **Leadership Aesthetic: Tone Over Substance**  
 Speakers adopt:
 
 - a calm voice  
@@ -107,7 +107,7 @@ But the tone makes people miss the substance.
 
 ---
 
-### 4️⃣ **The Aesthetic of Competence → The Illusion of Legitimacy**  
+### 🧠 **The Aesthetic of Competence → The Illusion of Legitimacy**  
 Polished authoritarianism understands that:
 
 - the public hates chaos,  
@@ -130,7 +130,7 @@ only the **wrapping paper** evolves.
 
 ---
 
-### 5️⃣ **Branding as Psychological Laundering**  
+### 🪞 **Branding as Psychological Laundering**  
 Logos such as:
 
 - banners with classical motifs  
@@ -139,7 +139,7 @@ Logos such as:
 - understated colours  
 - academic iconography  
 
-…trick the brain into associating the brand with:
+…can cue associations with:
 
 - heritage  
 - erudition  
@@ -151,7 +151,7 @@ Branding becomes a moral prosthetic.
 
 ---
 
-### 6️⃣ **Venue Choice as Legitimacy Theatre**  
+### 🏛️ **Venue Choice as Legitimacy Theatre**  
 Events are held in:
 
 - historical buildings  
@@ -170,8 +170,8 @@ Even when the ideology is deeply anti-democratic.
 
 ---
 
-### 7️⃣ **AI-Assisted Message Calibration**  
-Modern polished authoritarianism uses:
+### 🤖 **AI-Assisted Message Calibration**  
+Modern political communications can use:
 
 - sentiment modelling  
 - dynamic framing based on audience reaction  
@@ -182,13 +182,13 @@ Modern polished authoritarianism uses:
 - microtargeted messaging  
 - keyword inversion for plausible deniability  
 
-This allows extremist content to be delivered in a way that sounds moderate and technocratic.
+These tools can help extremist content sound moderate and technocratic where they are used for that purpose.
 
 This is **algorithmically laundered authoritarianism.**
 
 ---
 
-### 8️⃣ **Why This Works on Exhausted, Decent People**  
+### 🫀 **Why This Works on Exhausted, Decent People**  
 Polished authoritarianism appeals to people who are:
 
 - tired  
@@ -208,7 +208,7 @@ They miss the authoritarian subtext because the surface is so soothing.
 
 ---
 
-### 9️⃣ **Mask-Slip Moments Reveal the Real Ideology**  
+### 🎭 **Mask-Slip Moments Reveal the Real Ideology**  
 Eventually, the façade cracks:
 
 - a shocking panel  
@@ -226,13 +226,12 @@ These moments reveal the polished surface was covering a violently regressive co
 ---
 
 ## 🌌 Constellations  
-📈 🎭 🧠 🛰️ 🧳 ✂️  
-*aesthetic laundering, optics governance, civil authoritarianism, brandwashing, technocratic extremism.*
+📈 🎭 🧠 🛰️ ✂️ — aesthetic laundering, optics governance, civil authoritarianism, brandwashing, and technocratic extremism.
 
 ---
 
 ## ✨ Stardust  
-competence camouflage, professional fascism, PR-washed ideology, tonal smuggling, aesthetic softening, legitimacy theatre, narrative grooming.
+authoritarianism, competence camouflage, professional extremism, pr-washed ideology, tonal smuggling, aesthetic softening, legitimacy theatre, narrative grooming
 
 ---
 
@@ -242,11 +241,19 @@ It maps the shift from openly extremist aesthetic signals to modern, boardroom-f
 
 > 📡 Cross-references:
 > 
-> - 🧳 Boardroom Fascism  
-> - 🎭 Respectability Theatre  
-> - 🎯 Emotional Targeting  
-> - 🛎️ Organisational Civility as Containment  
+> - [📚 Meta-Silence and the Optimisation of Ignorance](./📚_meta_silence_optimisation_of_ignorance.md) — *how professional reward systems make structural critique less audible*  
+> - [👾 Intent-Free Authoritarian Drift](./👾_intent_free_authoritarian_drift.md) — *how authoritarian effects can emerge without a unified ideological project*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
-*Survivor authorship is sovereign. The polish is the camouflage.*
+*The polish is the camouflage.*
 
-_Last updated: 2026-08-14_
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-13_

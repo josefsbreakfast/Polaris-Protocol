@@ -1,5 +1,5 @@
 # 🕳️ The Grievance Sinkhole: How Shame Converts Into Reactionary Politics  
-**First created:** 2025-11-19 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-19 | **Last updated:** 2026-09-13  
 *Why unprocessed male shame reliably collapses into grievance — and why grievance is the emotional fuel of reactionary and fascist movements.*  
 
 ---
@@ -211,8 +211,8 @@ This requires:
 - relational safety  
 - restorative visibility  
 
-The moment shame is processed, grievance evaporates.  
-There is nothing left for fascism to cling to.
+As shame becomes tolerable and relationally processed, grievance can loosen.  
+That reduces one of the emotional surfaces reactionary movements can exploit.
 
 ---
 
@@ -229,9 +229,21 @@ The man regains:
 - cognitive flexibility  
 - plurality  
 
-He stops needing enemies.  
-He stops needing ideology.  
-He becomes himself again.
+He may stop needing enemies to organise his identity.  
+Ideological rigidity can soften.  
+He becomes more able to recognise himself again.
+
+---
+
+## 🌌 Constellations
+
+🕳️ 🧠 🪨 🧩 — shame, grievance formation, reactionary recruitment, and identity repair.
+
+---
+
+## ✨ Stardust
+
+grievance, shame, reactionary politics, radicalisation, male loneliness, identity repair, emotional infrastructure, deradicalisation
 
 ---
 
@@ -240,10 +252,19 @@ He becomes himself again.
 It maps grievance as an emotional metabolite of shame and explains why processing shame is the foundation of deradicalisation, identity repair, and antifascist emotional infrastructure.
 
 > 📡 Cross-references:  
-> - [🔥 Shame as the Master Key of Fascist Manipulation]  
-> - [🥀 Politics of Male Loneliness]  
-> - [🦴 Anatomy of Male Emotional Starvation]  
+>
+> - [📈 Polished Authoritarianism](./📈_polished_authoritarianism.md) — *how reactionary politics presents itself as competence and belonging*  
+> - [🕯️ Survivor Visibility and Risk Aversion](./🕯️_survivor_visibility_and_risk_aversion.md) — *the unequal costs of institutional visibility*  
+
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

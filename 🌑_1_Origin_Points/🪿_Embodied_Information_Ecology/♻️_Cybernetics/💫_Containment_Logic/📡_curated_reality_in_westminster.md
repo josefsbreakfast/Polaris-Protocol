@@ -1,5 +1,5 @@
 # 📡 Curated Reality in Westminster  
-**First created:** 2025-12-26 | **Last updated:** 2026-08-14  
+**First created:** 2025-12-26 | **Last updated:** 2026-09-13  
 *How policy comes to see the world.*
 
 ---
@@ -209,12 +209,21 @@ It documents how governance increasingly operates through mediated representatio
 > - [🔺 The Alignment Triangle](./🔺_the_alignment_triangle.md) — *structural incentive alignment*  
 > - [🔮 Palantir as Infrastructure](../🛰️_Infrastructure_Procurement/🔮_palantir_as_infrastructure.md) — *platforms as epistemic systems*  
 > - [🏛️ State Drift & Crisis Adoption](./🏛️_state_drift_and_crisis_adoption.md) — *why states accept curated systems*  
-> - [🛡️ Securitisation & Fragile Governance](./🛡️_securitisation_and_fragile_governance.md)  
-> - [🧨 Cyber Insecurity & Friction Systems](./🧨_cyber_insecurity_and_friction_systems.md)  
-> - [🧠 Epistemic Asymmetry in Security Systems](./🧠_epistemic_asymmetry_in_security_systems.md)  
-> - [🏛️ UK Identity Cards (2000s)](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_uk_identity_cards_2000s.md)  
-> - [⚖️ Coercive Control in Border Policy](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)  
+> - [🛡️ Securitisation & Fragile Governance](./🛡️_securitisation_and_fragile_governance.md) — *risk framing under weak governance conditions*  
+> - [🧨 Cyber Insecurity & Friction Systems](./🧨_cyber_insecurity_and_friction_systems.md) — *technical disruption as a source of institutional distortion*  
+> - [🧠 Epistemic Asymmetry in Security Systems](./🧠_epistemic_asymmetry_in_security_systems.md) — *unequal access to evidence and interpretation*  
+> - [🏛️ UK Identity Cards (2000s)](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/🏛️_uk_identity_cards_2000s.md) — *historical case of identity infrastructure and political legibility*  
+> - [⚖️ Coercive Control in Border Policy](../../🦕_Elder_Influencers/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md) — *border governance through dependency and constraint*  
+
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

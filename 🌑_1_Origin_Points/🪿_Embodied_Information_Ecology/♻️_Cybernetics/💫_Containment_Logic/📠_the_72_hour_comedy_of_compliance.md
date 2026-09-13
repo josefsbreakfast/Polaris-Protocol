@@ -1,13 +1,13 @@
 # 📠 The 72-Hour Comedy of Compliance  
-**First created:** 2025-10-31 | **Last updated:** 2026-08-14  
+**First created:** 2025-10-31 | **Last updated:** 2026-09-13  
 *Why the moment designed for transparency becomes the loudest silence in bureaucracy.*  
 
 ---
 
 ## 🛰️ Orientation  
 
-Article 33 of the UK GDPR gives controllers seventy-two hours to notify the ICO of a data breach.  
-The clock starts the instant awareness dawns.  
+Article 33 of the UK GDPR requires controllers to notify the ICO without undue delay and, where feasible, within seventy-two hours of becoming aware of a personal-data breach—unless the breach is unlikely to result in a risk to people’s rights and freedoms.  
+The clock starts when the controller becomes aware that a personal-data breach has occurred.  
 In theory, this guarantees honesty under pressure.  
 In practice, it stages a tragicomedy of avoidance:  
 lawyers red-line verbs, comms drafts “ongoing reviews,”  
@@ -57,7 +57,7 @@ Compliance achieved; integrity postponed.
 ## ⚖️ Governance Implications  
 
 The 72-hour window exposes the cultural gap between **law** and **procedure.**  
-The regulation assumes disclosure will rebuild trust;  
+The regulation uses timely notification to enable regulatory scrutiny and reduce harm;  
 the organisation assumes trust cannot survive disclosure.  
 Procedure becomes damage control, not accountability.  
 In FOI terms, non-answers mutate into evidence of mishandling.  
@@ -77,27 +77,44 @@ The mechanism built for transparency performs opacity in triplicate.
 
 ---
 
+## 📚 Legal Anchor
+
+- [Information Commissioner’s Office: “Personal data breaches: a guide”](https://ico.org.uk/for-organisations/report-a-breach/personal-data-breach/) — *notification thresholds, awareness, and the seventy-two-hour period*  
+
+---
+
 ## 🌌 Constellations  
 
-⚖️ 🛰️ 📠 🧠 — governance · automation · comedy · cognition  
+⚖️ 🛰️ 📠 🧠 — breach governance, deadline pressure, bureaucratic comedy, and institutional cognition.  
 
 ---
 
 ## ✨ Stardust  
 
-breach window · bureaucratic farce · ICO panic · institutional silence · performative compliance · article 33 · deadline theatre  
+data breaches, bureaucratic farce, ico notification, institutional silence, performative compliance, article 33, deadline theatre  
 
 ---
 
 ## 🏮 Footer  
 
 *📠 The 72-Hour Comedy of Compliance* captures the slapstick grace of organisations performing virtue at regulatory speed.  
-It belongs to the same constellation as:  
+It uses satire to distinguish prompt notification from the institutional theatre that can grow around a regulatory deadline.  
 
-- **🧠 Cognitive Feedback and Bureaucratic Amplification** — belief amplified by repetition.  
-- **📈 Escalation Drift in Complex Datasets** — error institutionalised through time.  
-- **📊 Crown-Service Flag and Metadata Drift** — authority mis-typed into myth.  
+> 📡 Cross-references:
+>
+> - [📋 Tick-Box Compliance as Containment](./📋_tick_box_compliance_as_containment.md) — *how formal compliance can displace substantive repair*  
+> - [💥 Institutional Panic Dynamics](./💥_institutional_panic_dynamics.md) — *how liability anxiety fragments institutional response*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 > *When silence is compliance, everyone sounds guilty.*
 
-_Last updated: 2026-08-14_  
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-09-13_

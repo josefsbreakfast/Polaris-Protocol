@@ -1,5 +1,5 @@
 # 🔺 The Alignment Triangle  
-**First created:** 2025-12-26 | **Last updated:** 2026-08-14  
+**First created:** 2025-12-26 | **Last updated:** 2026-09-13  
 *How power consolidates without conspiracy*
 
 ---
@@ -286,12 +286,21 @@ It documents a recurring structural pattern explaining how high-risk systems emb
 
 > 📡 Cross-references:
 > 
-> - [🏛️ State Drift & Crisis Adoption](./🏛️_state_drift_and_crisis_adoption.mdd) — *governance under pressure*  
+> - [🏛️ State Drift & Crisis Adoption](./🏛️_state_drift_and_crisis_adoption.md) — *governance under pressure*  
 > - [🔥 Rights as Friction](../⚖️_Legal_State_Governance/🔥_rights_as_friction.md) — *why safeguards are treated as obstacles*  
 > - [🔮 Palantir as Infrastructure](../🛰️_Infrastructure_Procurement/🔮_palantir_as_infrastructure.md) — *platforms as durable systems*  
-> - [🧨 Failure Of Genocide Prevention: UK State (Jan–Aug 2024)](../⚖️_Legal_State_Governance/🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md)  
-> - [⚖️ Case Study: Palestine Action & Proscription Under Legal Ambiguity](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_palestine_action_proscription_case_study.md)  
+> - [🧨 Failure of Genocide Prevention: UK State (Jan–Aug 2024)](../⚖️_Legal_State_Governance/🧨_failure_of_genocide_prevention_uk_state_jan_aug_2024.md) — *case study in safeguard and accountability failure*  
+> - [⚖️ Case Study: Palestine Action & Proscription Under Legal Ambiguity](../../../../Metadata_Sabotage_Network/Governance_And_Containment/🈺_Governance_And_Prevent/⚖️_palestine_action_proscription_case_study.md) — *rights restriction under contested security framing*  
+
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

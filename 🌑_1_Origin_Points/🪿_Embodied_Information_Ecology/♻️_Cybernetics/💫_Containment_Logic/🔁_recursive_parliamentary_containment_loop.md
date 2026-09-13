@@ -1,12 +1,11 @@
 # 🔁 Recursive Parliamentary Containment Loop  
-**First created:** 2025-11-17 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-17 | **Last updated:** 2026-09-13  
 *How Labour and the Conservatives became trapped in a mutually weakening performance cycle that prevents either from fulfilling their constitutional function.*  
 
 ---
 
 ## 🛰️ Core Argument  
-The UK’s two major parties are no longer engaged in ideological contest or policy competition.  
-They are caught in a **recursive loop**: a mutual containment pattern where each party’s primary activity is not governance, but **managing, reacting to, and undermining the other**.
+The UK’s two major parties remain engaged in ideological contest and policy competition, but significant parts of their public behaviour can become trapped in a **recursive loop**: a mutual containment pattern where managing, reacting to, and undermining the other displaces substantive governance.
 
 This cycle:
 
@@ -142,10 +141,19 @@ It supports the **Big Picture Protocols** cluster by mapping systemic dysfunctio
 
 > 📡 Cross-references:
 > 
-> - [💍 Two-Party System as an Old-Fashioned Marriage](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/💍_two_party_system_as_an_old_fashioned_marriage.md)  
-> - [For the Serious Red Chaps: 🟥 Labour as the Alternative to Revolution](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🌹_for_the_serious_red_chaps.md)  
-> - [For the Serious Blue Chaps: 🟦 Conservatives as the Counterbalance to Radical Change](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md)  
+> - [💍 Two-Party System as an Old-Fashioned Marriage](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/💍_two_party_system_as_an_old_fashioned_marriage.md) — *relational model of two-party dependence and conflict*  
+> - [For the Serious Red Chaps: 🟥 Labour as the Alternative to Revolution](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🌹_for_the_serious_red_chaps.md) — *Labour’s constitutional pressure-release function*  
+> - [For the Serious Blue Chaps: 🟦 Conservatives as the Counterbalance to Radical Change](../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🏛️_Chaps_Be_Serious/🖌️_for_the_serious_blue_chaps.md) — *Conservative counterweight and continuity function*  
+
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

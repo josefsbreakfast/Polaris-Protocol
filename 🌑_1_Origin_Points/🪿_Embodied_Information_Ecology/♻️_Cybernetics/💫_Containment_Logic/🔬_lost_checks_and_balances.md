@@ -1,6 +1,6 @@
 # 🔬 Lost Checks and Balances
 
-**First created:** 2025-09-20 | **Last updated:** 2026-08-23  
+**First created:** 2025-09-20 | **Last updated:** 2026-09-13  
 *How independent scrutiny becomes weaker when dissenting expertise disappears, advisory structures narrow and institutional consensus survives without the people who might have challenged it.*
 
 ---
@@ -744,6 +744,15 @@ It examines how independent scrutiny weakens when relevant expertise, dissenting
 > - [⚖️ Operational Dilemma: Fix It vs Chain of Command](./⚖️_operational_dilemma_fixit_vs_chain_of_command.md) — *what happens when professionals recognise a problem but cannot identify an effective route for intervention.*
 > - [🐼 Due Diligence and Operational Capacity in Policing](./🐼_due_diligence_and_operational_capacity_in_policing.md) — *how missing scrutiny becomes operationally visible through weak verification, limited capacity and inherited institutional assumptions.*
 
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-13_

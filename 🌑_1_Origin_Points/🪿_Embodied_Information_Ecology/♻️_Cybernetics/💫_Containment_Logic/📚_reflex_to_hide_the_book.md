@@ -1,5 +1,5 @@
 # 📚 The Reflex to Hide the Book  
-**First created:** 2025-11-08 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-08 | **Last updated:** 2026-09-13  
 *When critique triggers containment faster than reflection.*  
 
 ---
@@ -24,7 +24,7 @@ It’s about the audience the text might empower.
 Institutions that depend on image-control interpret exposure as instability.  
 So they reach for familiar tools: legal chill, reputational management, “pending review,” PR silence.  
 
-But each of those tools acts as proof of the text’s accuracy.  
+But each of those tools can become evidence of institutional sensitivity to the text’s argument. It does not, by itself, prove every claim in the text accurate.  
 Containment and revelation become mirror images.  
 What’s suppressed signals precisely where the system is thin-skinned.  
 
@@ -49,7 +49,16 @@ It analyses how suppression behaviour validates the very critiques it seeks to e
 > 
 > - [🔥 Suppression as Signal](../../🐍_Ouroborotic_Violence/🗝️_Politics_Memory_Work/🔥_suppression_as_signal.md) — *diagnostic framework for overreaction*  
 > - [🕸️ Macro Containment Architecture](./🕸️_macro_containment_architecture.md) — *upstream policy reflexes*  
+> - [📚 Suppressed Safe Collection](./📚_suppressed_safe_collection.md) — *historical example of suppression implemented through archival logistics*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

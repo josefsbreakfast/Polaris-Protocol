@@ -1,14 +1,14 @@
 # 📜 Pre-Crime Governance in the UK  
-**First created:** 2025-11-22 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-22 | **Last updated:** 2026-09-13  
 *How pre-crime logic entered UK civil governance through Prevent/Channel, reshaping risk, suspicion, and institutional behaviour across everyday life.*
 
 ---
 
 ## 🧭 Orientation  
 Pre-crime governance refers to systems that intervene **before** wrongdoing has occurred — based on suspicion, behaviour patterns, metadata, or perceived vulnerability.  
-In the UK, the most extensive pre-crime system is not policing, nor intelligence, but the administrative network formed by **Prevent** and **Channel**.
+In the UK, one prominent administrative form of pre-emptive governance is the network formed by **Prevent** and **Channel**.
 
-Through CTSA 2015, pre-crime logic was inserted into:
+Through the Counter-Terrorism and Security Act 2015 and associated guidance, Prevent duties were embedded across specified public authorities, including parts of:
 
 - education  
 - healthcare  
@@ -16,7 +16,7 @@ Through CTSA 2015, pre-crime logic was inserted into:
 - local authorities  
 - universities  
 - youth work  
-- community organisations  
+- prisons and probation services  
 
 This node examines how pre-crime governance operates, how it reshapes institutional decision-making, and how it disfigures democratic and safeguarding norms.
 
@@ -38,12 +38,12 @@ But unlike criminal law, they rely on:
 
 - loose behavioural markers  
 - ambiguous thresholds  
-- non-evidentiary “concerns”  
+- concerns that do not need to meet the criminal standard of proof  
 - interpretive judgements  
 - metadata trails  
 - racialised templates of suspicion  
 
-These systems tend to produce **consistent opacity**, because their logic requires secrecy for perceived effectiveness.
+These systems can produce **significant opacity**, because sensitive information, distributed decision-making, and preventive logic constrain what affected people can readily inspect.
 
 ---
 
@@ -53,12 +53,12 @@ Prevent imports pre-crime into everyday institutions via:
 - mandatory training  
 - low-threshold reporting  
 - ambiguous “concern” categories  
-- silent data-sharing  
+- information-sharing within statutory and policy frameworks  
 - police triage  
-- Channel panel deliberation (unseen)  
-- long-term retention of intelligence notes  
-- no disclosure to individuals  
-- no appeal mechanism  
+- multi-agency Channel panel deliberation  
+- recording and retention across participating systems  
+- limited visibility for referred individuals  
+- routes for complaint or data-rights challenge that may be fragmented and difficult to use  
 
 This is pre-crime governance embedded **horizontally** across civil life, not vertically in specialist agencies.
 
@@ -86,7 +86,7 @@ This creates **predictable racial and gender distortions** that pre-crime system
 ---
 
 ### **4. Metadata → Suspicion Without Context**  
-Pre-crime systems rely heavily on digital trails, including:
+Pre-crime systems may draw on reported digital context, including:
 
 - search terms  
 - visited URLs  
@@ -96,14 +96,14 @@ Pre-crime systems rely heavily on digital trails, including:
 
 For teenagers, diaspora communities, activists, and neurodivergent individuals, metadata can easily resemble “radicalisation vectors”.
 
-Because Channel is opaque, these interpretations:
+Where records and reasoning are not visible to the person affected, these interpretations:
 
 - cannot be verified,  
 - cannot be challenged,  
 - cannot be contextualised,  
 - cannot be corrected.
 
-Pre-crime + metadata = **automated misreading**.
+Pre-crime + decontextualised metadata creates a **risk of scalable misreading**.
 
 ---
 
@@ -151,7 +151,7 @@ The UK’s public sphere becomes governed by:
 
 ## 🧪 Case Window (Structural Patterns)  
 
-*All patterns observed across research, case reviews, or Freedom of Information analyses. No personal data.*
+*The patterns below are synthesis claims drawn from published research, case reviews, and Freedom of Information analysis; they are not presented as findings about every referral or institution. No personal data is reproduced.*
 
 - Young Muslims flagged for normal religious queries.  
 - Political activism misread as “radicalisation vector”.  
@@ -171,7 +171,7 @@ Traditional safeguarding acts on harm.
 Traditional policing acts on crime.  
 Pre-crime acts on **possibility**.
 
-Possibility has no legal threshold.
+Possibility is governed through preventive and safeguarding thresholds rather than the criminal standard of proof.
 
 ---
 
@@ -200,28 +200,25 @@ This produces:
 
 ---
 
-### **• Pre-Crime Evades All Oversight**  
-Because it is pre-crime:
-
-- nothing is disclosed,  
-- nothing is appealed,  
-- nothing is audited,  
-- nothing is reviewed.
-
-The state cannot prove the system is safe, fair, or effective.
+### **• Pre-Crime Can Frustrate Effective Oversight**  
+Because preventive decisions are distributed across referrals, police triage, local panels, information-governance rules, and complaints routes, scrutiny can become fragmented. Formal oversight exists, but an affected person may still struggle to reconstruct what was recorded, why it was shared, or how a conclusion can be challenged.
 
 ---
 
-## 🧠 Constellations  
-**🛰️ Intelligence Logic** — pre-crime, prediction, metadata signals.  
-**🧩 Social Harm** — misclassification, chilled speech, community fracture.  
-**💫 Containment Logic** — risk architecture, institutional drift.  
-**⚖️ Democratic Integrity** — transparency loss, consent erosion.
+## 📚 Policy Anchors
+
+- [UK Government: “Prevent duty guidance”](https://www.gov.uk/government/publications/prevent-duty-guidance) — *statutory purpose, specified authorities, referral practice, and safeguards*  
+- [UK Government: “Channel and Prevent Multi-Agency Panel guidance”](https://www.gov.uk/government/publications/channel-and-prevent-multi-agency-panel-pmap-guidance) — *multi-agency support, consent, information-sharing, and panel governance*  
 
 ---
 
-## ✨ Stardust (Search Keywords)  
-pre-crime • Prevent • Channel • metadata • risk frameworks • extremism indicators • suspicion logic • safeguarding distortion • democratic erosion • behavioural surveillance • CTSA 2015
+## 🌌 Constellations  
+🛰️ 🧩 💫 ⚖️ — intelligence logic, social harm, containment architecture, and democratic integrity.
+
+---
+
+## ✨ Stardust  
+pre-crime, prevent, channel, metadata, risk frameworks, extremism indicators, safeguarding distortion, democratic erosion, behavioural surveillance, ctsa 2015
 
 ---
 
@@ -229,11 +226,19 @@ pre-crime • Prevent • Channel • metadata • risk frameworks • extremism
 *📜 Pre-Crime Governance in the UK* is a systems-analysis node of the Polaris Protocol.  
 It maps how pre-crime logic migrated from specialised intelligence settings into everyday civic infrastructures, reshaping institutional behaviour and democratic participation across the UK.
 
-> 📡 **Cross-references:**  
-> - [🔮 House Style](./🔮_house_style.md)  
-> - [🎛 Drafting Rules — Survivor Voice Fidelity](./🎛_polaris_drafting_rules_survivor_voice_fidelity.md)  
-> - [🏮 Where to Go](./🏮_where_to_go.md)
+> 📡 Cross-references:
+>
+> - [👾 Intent-Free Authoritarian Drift](./👾_intent_free_authoritarian_drift.md) — *how preventive systems can generate restrictive outcomes without central intent*  
+> - [👹 How Predators Weaponise Safeguarding Systems](./👹_how_predators_weaponise_safeguarding_systems.md) — *how low-threshold concern pathways can be manipulated*  
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

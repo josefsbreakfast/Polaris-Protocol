@@ -1,5 +1,5 @@
-# 🗞️ *Institutional Silence as Public Signal*  
-**First created:** 2025-11-03 | **Last updated:** 2026-08-14  
+# 🗞️ Institutional Silence as Public Signal  
+**First created:** 2025-11-03 | **Last updated:** 2026-09-13  
 *When Saying Nothing Becomes a Form of Communication*  
 
 ---
@@ -53,10 +53,10 @@ In this way, silence manages tempo — the rhythm by which institutions outlast 
 
 ## 🪞 Public Interpretation
 
-Citizens have learned to read institutional quiet as signal, not gap:  
-- “No comment” = confirmation.  
-- “Under review” = resistance.  
-- “National interest” = embarrassment with flag attached.  
+Citizens often read institutional quiet as signal, not gap:  
+- “No comment” may be read as confirmation.  
+- “Under review” may be read as resistance.  
+- “National interest” may be read as embarrassment with flag attached.  
 
 The population now fluently decodes silence; the tragedy is that institutions still think it conceals.  
 
@@ -92,15 +92,37 @@ To break the spell, one must not shout — only listen carefully enough to hear 
 
 ---
 
-## ✳️ Constellations
+## 🌌 Constellations
 
-— `📺 coverup_as_cultural_genre.md` → narrative precursor  
-— `🎭 apology_theatre_and_trust_repair.md` → emotional sequel  
-— `🕳️ social_memory_of_impunity.md` → behavioural memory  
-— `🧩 accountability_failures_and_public_trust.md` → inquiry fatigue link  
-— `🪶 tea_toast_and_transparency.md` → humour echo  
+🗞️ 🔇 🧠 🪞 🧩 — public signalling, institutional silence, bureaucratic psychology, interpretation, and trust decay.
 
 ---
 
-_Last updated: 2026-08-14_
-**Stardust Tags:** #InstitutionalSilence #CulturalSemiotics #TrustDecay #BureaucraticPsychology #PolarisSystem  
+## ✨ Stardust
+
+institutional silence, public signal, cultural semiotics, trust decay, bureaucratic psychology, non-response, narrative inference
+
+---
+
+## 🏮 Footer
+
+*🗞️ Institutional Silence as Public Signal* is a living node of the **Polaris Protocol**.  
+It maps how official quiet acquires public meaning and why unexplained non-response can become part of the evidence environment without proving any single interpretation.
+
+> 📡 Cross-references:
+>
+> - [🔇 Silence-Harm & Acknowledgment Delay](./🔇_silence_harm_and_acknowledgment_delay.md) — *secondary harm produced by prolonged institutional non-response*  
+> - [🔥 Reputational Blowback Failure Mode](./🔥_reputational_blowback_failure_mode.md) — *how silence and over-control can amplify scrutiny*  
+
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-13_

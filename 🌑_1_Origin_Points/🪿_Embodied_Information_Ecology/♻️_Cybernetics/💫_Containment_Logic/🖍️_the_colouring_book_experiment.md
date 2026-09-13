@@ -1,5 +1,5 @@
 # 🖍️ The Colouring Book Experiment — Containment as Curriculum  
-**First created:** 2025-10-23 | **Last updated:** 2026-08-14  
+**First created:** 2025-10-23 | **Last updated:** 2026-09-13  
 *When an instrument of supervision becomes a school for systems thinking.*  
 
 ---
@@ -80,10 +80,19 @@ The node belongs to **Expression of Norms / Watch the Watchers**, linking satire
 
 > 📡 Cross-references:
 > 
-> - [🧭 Regulating the Regulators] — meta-oversight and reflexive ethics  
-> - [⚙️ Galactic Map of Archives] — mapping cross-system feedback  
-> - [💥 Feel the Fear, and Fight Fascism Anyway]  — courage as method  
+> - [🕸️ Macro Containment Architecture](./🕸️_macro_containment_architecture.md) — *the system whose boundaries become an accidental syllabus*  
+> - [🔮 The Great Divination Machine](./🔮_the_great_divination_machine.md) — *prediction systems observed without surrendering judgement*  
+> - [🔬 Lost Checks and Balances](./🔬_lost_checks_and_balances.md) — *why reflexive scrutiny must remain inside governance*  
+
+>  
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_
