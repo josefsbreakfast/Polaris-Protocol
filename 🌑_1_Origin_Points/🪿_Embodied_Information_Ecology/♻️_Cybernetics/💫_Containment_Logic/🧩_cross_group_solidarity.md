@@ -1,5 +1,5 @@
 # 🧩 Cross-Group Solidarity as Algorithmic Destabiliser  
-**First created:** 2025-11-18 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-18 | **Last updated:** 2026-09-13  
 *Why solidarity between racialised or minority groups breaks risk engines, PR simulations, predictive policing, and apartheid-style data systems.*  
 
 ---
@@ -20,7 +20,7 @@ It is embedded in:
 - social-media risk engines,  
 - diaspora-modelling heuristics.
 
-When cross-group solidarity emerges — especially between groups the system expects to be *opposed* — the entire computational logic collapses.
+When cross-group solidarity emerges — especially between groups a system expects to be *opposed* — simplistic segmentation and prediction can lose reliability.
 
 This node explains *why*.
 
@@ -47,7 +47,7 @@ When they converge around shared humanity, ethics, or justice, the system encoun
 - narrative collapse,  
 - PR system failure.
 
-Solidarity dismantles the racist logic the system depends on.
+Solidarity exposes and disrupts models that depend on racialised separation.
 
 ---
 
@@ -118,8 +118,8 @@ These are measurable in:
 - sentiment dashboards,  
 - reputational modelling systems.
 
-The machine cannot tell “whose side” anyone is on.  
-And that terrifies authoritarian systems.
+The model may no longer be able to infer “whose side” someone is on.  
+For authoritarian systems, that ambiguity can frustrate classification and control.
 
 ---
 
@@ -141,7 +141,7 @@ This is why regimes panic when:
 - survivors support each other across lines.
 
 Solidarity is not just moral.  
-It is **technically destabilising**.
+It can be **technically destabilising to systems built on rigid group separation**.
 
 The system reads it as:
 
@@ -191,28 +191,39 @@ Solidarity = democratic turbulence.
 >  
 > It erases the boundaries the system needs to classify people as risk.**
 
-This is why authoritarian systems try so hard to prevent it.  
-And why it is so powerful.
+This helps explain why authoritarian systems may seek to fragment cross-group solidarity — and why solidarity can be politically powerful.
 
 ---
 
 ## 🌌 Constellations  
-Signal_Collapse · Diaspora-Error · Vector_Inversion · Solidarity_Logic · Calibration_Drift  
+🧩 🧠 🛰️ 🪞 🧿 — signal collapse, diaspora error, solidarity logic, calibration drift and categorical repair.  
+
+---
+
+## ✨ Stardust
+
+cross-group solidarity, algorithmic classification, diaspora identity, audience segmentation, proxy collapse, calibration drift, democratic pluralism, model fragility
 
 ---
 
 ## 🏮 Footer  
-This node completes the opening sequence on *discriminatory model fragility*.  
-It links to:  
-- **Risk Vector Inversions**,  
-- **Diaspora Identity Instability**,  
-- **Bias Propagation Across Borders**,  
-- **Identity-Expectation Misfire**,  
-- **PR Centroid Collapse**.
 
-It sets the stage for later nodes on:  
-- survivor-coded dissent,  
-- democratic emergency mapping,  
-- and metadata sabotage through solidarity.
+*🧩 Cross-Group Solidarity as Algorithmic Destabiliser* is a living node of **Containment Logic**, within the **Polaris Protocol**. It examines how solidarity disrupts discriminatory assumptions embedded in segmentation, prediction and political communication.
 
-_Last updated: 2026-08-14_
+> 📡 Cross-references:
+>
+> - [🧩 Diaspora Instability Patterns](./🧩_diaspora_instability_patterns.md) — *diasporic complexity exposing narrow model assumptions*  
+> - [🧩 Colonial Scripts in Modern Bureaucracies](./🧩_colonial_scripts_in_modern_bureaucracies.md) — *administrative categories inherited from colonial governance*  
+> - [🧩 Asymmetric Democratic Policing](./🧩_asymmetric_democratic_policing.md) — *unequal scrutiny and self-reinforcing data trails*  
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-13_

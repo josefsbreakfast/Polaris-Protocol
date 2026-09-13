@@ -1,11 +1,11 @@
 # 🧩 Asymmetric Democratic Policing  
-**First created:** 2025-11-19 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-19 | **Last updated:** 2026-09-13  
 *Why the state “over-polices” some groups and “under-polices” others — and how these asymmetries destabilise democratic legitimacy and accelerate drift.*  
 
 ---
 
 ## 🛰️ Orientation  
-In every democracy, policing and monitoring power is distributed **asymmetrically**:
+In democratic systems, policing and monitoring power can be distributed **asymmetrically**:
 
 - minor left-wing collectives → *high scrutiny*  
 - racialised groups → *high scrutiny*  
@@ -20,7 +20,7 @@ but meanwhile:
 - wealthy networks → *low scrutiny*  
 - government-adjacent institutions → *low scrutiny*
 
-This node examines why asymmetry is not an “error” — it is a **structural outcome** of political incentives, institutional fear, and the mismatched distribution of state attention.
+This node examines how asymmetry can become a **structural outcome** of political incentives, institutional fear, resource allocation and the mismatched distribution of state attention.
 
 It links to:  
 - 🧯 *prevent_as_political_atomisation_engine*  
@@ -40,8 +40,7 @@ It links to:
 ## 🧿 Analysis / Content  
 
 ### 🧨 1. The Principle: Risk ≠ Scrutiny  
-The state does *not* police based on **objective risk**.  
-It polices based on:
+State scrutiny is not determined by **objective risk alone**. It can also be shaped by:
 
 - **visibility**,  
 - **political salience**,  
@@ -78,7 +77,7 @@ Examples include:
 - traumatised individuals  
 - migrants  
 
-These groups are **easy to police** and **politically “safe” to target**.
+These groups may be easier and politically cheaper to police.
 
 ---
 
@@ -208,13 +207,42 @@ Understanding asymmetry is crucial for anyone navigating bureaucratic systems wh
 
 ---
 
+## ⚖️ Evidential Boundary
+
+This node identifies a structural hypothesis and recurring risk pattern. It does not establish that every named group is over- or under-policed in every setting, or that unequal outcomes necessarily result from deliberate political direction. Assessment should use disaggregated force-, offence-, event- and outcome-level evidence, alongside the legal powers, operational context and comparator groups relevant to the decision.
+
+---
+
+## 🌌 Constellations
+
+🧩 ⚖️ 🛰️ 🧿 🔍 — democratic policing, unequal scrutiny, data feedback, institutional incentives and minority safety.
+
+---
+
+## ✨ Stardust
+
+democratic policing, asymmetric scrutiny, protest policing, minority surveillance, far-right risk, data accumulation, institutional incentives, public trust, democratic legitimacy
+
+---
+
 ## 🏮 Footer  
-**Asymmetric Democratic Policing** is part of the Bureaucratic Harm & Drift cluster.  
-It provides Polaris with a structural map of how uneven enforcement shapes public behaviour and distorts democratic life.
 
-Crosslinks:  
-- 🧯 *prevent_as_political_atomisation_engine*  
-- 🧷 *culture_war_risk_logic_in_uk_public_institutions*  
-- 📡 *cross-system_metadata_echo_chains*
+*🧩 Asymmetric Democratic Policing* is a living node of **Containment Logic**, within the **Polaris Protocol**. It maps how unequal scrutiny can shape public behaviour, generate self-reinforcing data trails and distort democratic legitimacy.
 
-_Last updated: 2026-08-14_
+> 📡 Cross-references:
+>
+> - [🧩 Colonial Scripts in Modern Bureaucracies](./🧩_colonial_scripts_in_modern_bureaucracies.md) — *historical suspicion templates within administrative practice*  
+> - [🧩 Cross-Group Solidarity as Algorithmic Destabiliser](./🧩_cross_group_solidarity.md) — *solidarity disrupting inherited political and risk categories*  
+> - [🧠 Bureaucratic Fast Thinking and Reputational Harm](./🧠_bureaucratic_fast_thinking_and_reputational_harm.md) — *how shortcuts turn provisional impressions into consequential records*  
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-13_

@@ -1,5 +1,5 @@
 # 🧨 We Are Already Paying the Cost  
-**First created:** 2025-12-20 | **Last updated:** 2026-09-12  
+**First created:** 2025-12-20 | **Last updated:** 2026-09-13  
 *Why non-ownership of harm is not frugality — it is systemic inefficiency.*
 
 ---
@@ -285,7 +285,7 @@ non-ownership inefficiency, budget silo multiplication, cost displacement, preve
 
 ## 🏮 Footer  
 
-*🧨 We Are Already Paying the Cost* is a living node of **Ownership & Control**, within the **Polaris Protocol**.  
+*🧨 We Are Already Paying the Cost* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 
 It reframes accountability not as moral luxury, but as fiscal discipline — showing how fragmented ownership multiplies spend across systems instead of resolving root causes.
 
@@ -300,7 +300,7 @@ It reframes accountability not as moral luxury, but as fiscal discipline — sho
 >   
 > 🏮 Return To:
 >
-> - [👑 Ownership & Control](./README.md) — *1up*
+> - [💫 Containment Logic](./README.md) — *1up*
 > - [♻️ Cybernetics](../README.md) — *2up*
 > - [🪿 Embodied Information Ecology](../../README.md) — *3up*
 > - [🌑 Origin Points](../../../README.md) — *4up*
@@ -308,4 +308,4 @@ It reframes accountability not as moral luxury, but as fiscal discipline — sho
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-09-12_
+_Last updated: 2026-09-13_

@@ -1,5 +1,5 @@
 # 🧩 Colonial Scripts in Modern Bureaucracies  
-**First created:** 2025-11-20 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-20 | **Last updated:** 2026-09-13  
 *How colonial logics of suspicion, control, and hierarchy are reproduced inside contemporary administrative systems.*  
 
 ---
@@ -27,7 +27,7 @@ These institutions inherit a set of *scripts* — patterns of interpretation and
 - who is subversive,  
 - who should be monitored.
 
-Racialised women sit at the centre of these scripts.
+Racialised women can be especially exposed to the interaction of colonial and gendered scripts.
 
 ---
 
@@ -42,7 +42,7 @@ Racialised women sit at the centre of these scripts.
 
 ## 🧿 Analysis / Content  
 
-# 1. 🧩 What Is a “Colonial Script”?  
+## 1. 🧩 What Is a “Colonial Script”?  
 A colonial script is a **pre-written interpretive pattern** used by colonial administrations to classify colonised people:
 
 - dangerous  
@@ -54,12 +54,11 @@ A colonial script is a **pre-written interpretive pattern** used by colonial adm
 - ideologically suspect  
 - in need of monitoring
 
-These scripts were never dismantled.  
-They were **absorbed** into modern bureaucratic norms.
+Many of these scripts were not fully dismantled. Their categories and assumptions can persist, in altered form, within modern bureaucratic norms.
 
 ---
 
-# 2. 🧩 Where Colonial Scripts Show Up Today  
+## 2. 🧩 Where Colonial Scripts Show Up Today  
 
 ### **A. Safeguarding**
 Racialised women coded as:
@@ -95,7 +94,7 @@ These categories echo colonial depictions of colonised subjects.
 
 ---
 
-# 3. 🧩 Why Racialised Women Trigger Colonial Scripts  
+## 3. 🧩 Why Racialised Women Trigger Colonial Scripts  
 Because colonial governance established that:
 
 - racialised people are objects of study, not full subjects  
@@ -109,29 +108,29 @@ Because colonial governance established that:
 
 Thus:
 
-> **Racialised women’s ordinary behaviour activates colonial-era interpretive templates.**
+> **Racialised women’s ordinary behaviour may be read through interpretive templates shaped by colonial and gendered histories.**
 
 ---
 
-# 4. 🧩 The Five Core Colonial Scripts Still Operating  
+## 4. 🧩 The Five Core Colonial Scripts Still Operating  
 
-## **Script 1: “The Unstable Native Woman”**  
+### Script 1: “The Unstable Native Woman”  
 Any emotional expression → instability.  
 Any boundary → unpredictability.
 
-## **Script 2: “The Politically Suspect Woman”**  
+### Script 2: “The Politically Suspect Woman”  
 Anger, criticism, trauma → extremism.  
 Political passion → radicalisation.
 
-## **Script 3: “The Secretive Racialised Woman”**  
+### Script 3: “The Secretive Racialised Woman”  
 Privacy → concealment.  
 Withdrawal → ideological hiding.
 
-## **Script 4: “The Non-Compliant Woman”**  
+### Script 4: “The Non-Compliant Woman”  
 Assertiveness → hostility.  
 Autonomy → rebellion.
 
-## **Script 5: “The Dangerous Other Woman”**  
+### Script 5: “The Dangerous Other Woman”  
 Difference → threat.  
 Discomfort of staff → “risk.”
 
@@ -139,7 +138,7 @@ These scripts shape how institutions misread racialised women.
 
 ---
 
-# 5. 🧩 How Bureaucracies Reproduce Colonial Logic  
+## 5. 🧩 How Bureaucracies Reproduce Colonial Logic  
 Modern bureaucracies inherit colonial features:
 
 - categorisation  
@@ -157,12 +156,12 @@ This produces:
 - treatment of boundaries as instability,  
 - conversion of personal bias into official data.
 
-Thus bureaucracies become the **afterlife of empire**.
+In this sense, bureaucracy can function as an **afterlife of empire**.
 
 ---
 
-# 6. 🧩 Why Colonial Scripts Survive  
-Because bureaucracies are:
+## 6. 🧩 Why Colonial Scripts Survive  
+These scripts may persist where bureaucracies are:
 
 ### **A. Status-quo preserving**
 Institutions maintain inherited power structures.
@@ -179,11 +178,11 @@ Women are expected to be agreeable, emotional support systems.
 ### **E. Anti-deviance**
 Any behaviour that makes staff uncomfortable becomes “risk.”
 
-Scripts persist because they are *useful* to systems designed around control, not care.
+Scripts can persist because they remain institutionally convenient where control is rewarded more reliably than care.
 
 ---
 
-# 7. 🧩 How Colonial Scripts Fuel Containment  
+## 7. 🧩 How Colonial Scripts Fuel Containment  
 Scripts feed into:
 
 - narrative inversion,  
@@ -202,7 +201,7 @@ This loop mirrors the colonial archive.
 
 ---
 
-# 8. 🛡 Counter-Reading (Survivor Voice)  
+## 8. 🛡 Counter-Reading (Survivor Voice)  
 Understanding colonial scripts allows the survivor to recognise:
 
 - **“Their interpretation is colonial, not factual.”**  
@@ -226,15 +225,22 @@ colonial governance, racialised suspicion, narrative inheritance, institutional 
 ---
 
 ## 🏮 Footer  
-*Colonial Scripts in Modern Bureaucracies* is a living node of the Polaris Protocol.  
+*🧩 Colonial Scripts in Modern Bureaucracies* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It maps how colonial suspicion templates continue to shape modern institutional responses to racialised women, turning normal behaviour into administrative “risk.”
 
 > 📡 Cross-references:  
-> - 🎭 Symbolic Violence in Gendered & Racialised Frames  
-> - 🛂 Misuse of Safeguarding Through Gendered Prejudice  
-> - 🈺 Prevent Misfires (Racialised Gender Patterns)  
-> - 🧪 The Strategic Accuser Profile  
+> - [🧩 Diaspora Instability Patterns](./🧩_diaspora_instability_patterns.md) — *diasporic complexity misread by narrow institutional models*  
+> - [🧩 Asymmetric Democratic Policing](./🧩_asymmetric_democratic_policing.md) — *unequal scrutiny shaped by power, visibility and inherited assumptions*  
+> - [🧠 Smart Women Get Surveillance](./🧠_smart_women_get_surveillance.md) — *gendered intelligence recoded as anomaly or threat*  
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

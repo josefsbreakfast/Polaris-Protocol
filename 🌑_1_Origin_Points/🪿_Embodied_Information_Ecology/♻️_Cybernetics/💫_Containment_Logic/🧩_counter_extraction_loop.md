@@ -1,5 +1,5 @@
 # 🧩 Counter-Extraction Loop — Reclaiming Authorship  
-**First created:** 2025-11-08 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-08 | **Last updated:** 2026-09-13  
 *A model for turning knowledge extraction and false narratives into documented authorship and systemic learning.*  
 
 ---
@@ -87,14 +87,22 @@ reclaiming authorship, data repair, provenance, evidence-based advocacy, creativ
 
 ## 🏮 Footer  
 
-*Counter-Extraction Loop — Reclaiming Authorship* is a living node of the Polaris Protocol.  
+*🧩 Counter-Extraction Loop — Reclaiming Authorship* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It pairs with *🧠 Extraction Loop — Data vs Story* to illustrate both containment and release paths for creative labour within institutional systems.  
 
 > 📡 Cross-references:
 > 
-> - [🧠 Extraction Loop — Data vs Story]  
-> - [👁️‍🗨️ Witness & Historical Casefiles]  
+> - [🧩 Emergent Surveillance Without Malice](./🧩_emergent_surveillance_without_malice.md) — *fragmented systems producing extraction without a single directing actor*  
+> - [🧨 We Are Already Paying the Cost](./🧨_we_are_already_paying_the_cost.md) — *the distributed costs of leaving extraction and harm unresolved*  
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

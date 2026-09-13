@@ -1,5 +1,5 @@
 # 🧠 Bureaucratic Fast Thinking and Reputational Harm  
-**First created:** 2025-11-10 | **Last updated:** 2026-08-24  
+**First created:** 2025-11-10 | **Last updated:** 2026-09-13  
 *How institutional shortcuts, premature classification and reputational anxiety convert limited information into consequential decisions before anyone has properly examined the evidence.*
 
 ---
@@ -882,9 +882,7 @@ See [🪼 Beyond Containment](./🪼_beyond_containment.md) for the transition f
 
 ## 🌌 Constellations
 
-🧠 🐢 🧬 🌌 📡 ⚖️ 🧮 🌀 💸 🧀 🪼
-
-Institutional heuristics, reputational bias, behavioural proxies, fast classification, contextual review, information transmission, protective friction and accountable governance.
+🧠 🐢 🧬 ⚖️ 🌀 — institutional heuristics, reputational bias, behavioural proxies, protective friction and accountable governance.
 
 ---
 
@@ -896,7 +894,7 @@ bureaucratic fast thinking, institutional heuristics, reputational harm, credibi
 
 ## 🏮 Footer
 
-*🧠 Bureaucratic Fast Thinking and Reputational Harm* is a living node of the Polaris Protocol.
+*🧠 Bureaucratic Fast Thinking and Reputational Harm* is a living node of **Containment Logic**, within the **Polaris Protocol**.
 
 It examines how institutional shortcuts, workload pressures and reputational concerns can transform provisional impressions into consequential classifications, and identifies the safeguards required to distinguish rapid protection from premature judgement.
 
@@ -913,7 +911,15 @@ It examines how institutional shortcuts, workload pressures and reputational con
 > - [💸 Containment Economics](./💸_containment_economics.md) — the incentives that reward rapid closure while transferring costs elsewhere.
 > - [🧀 When Process Holes Align](./🧀_when_process_holes_align.md) — the accumulation of small errors across connected institutional safeguards.
 > - [🪼 Beyond Containment](./🪼_beyond_containment.md) — review, restoration and the movement beyond indefinite institutional management.
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-24_
+_Last updated: 2026-09-13_

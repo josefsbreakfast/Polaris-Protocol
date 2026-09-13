@@ -1,5 +1,5 @@
 # 🧩 Emergent Surveillance Without Malice  
-**First created:** 2025-11-07 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-07 | **Last updated:** 2026-09-13  
 *How distributed automation and institutional separation enable surveillance outcomes without explicit intent.*  
 
 ---
@@ -29,7 +29,7 @@ Insurance underwriters, behavioural scientists, or platform engineers may each h
 
 In such systems, **the surveillance function is emergent**, a by-product of:
 
-1. **Algorithmic autonomy:** models refining themselves through unsupervised data capture.  
+1. **Automated persistence:** models and pipelines continuing to collect, infer or classify without renewed human review.  
 2. **Institutional compartmentalisation:** staff unable to see cross-departmental consequences.  
 3. **Regulatory lag:** compliance frameworks designed for human intent, not machine persistence.  
 
@@ -51,14 +51,22 @@ algorithmic autonomy, distributed responsibility, emergent surveillance, R&D dat
 
 ## 🏮 Footer  
 
-*🧩 Emergent Surveillance Without Malice* is a living node of the Polaris Protocol.  
+*🧩 Emergent Surveillance Without Malice* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It documents how automated and fragmented decision systems can yield surveillance outcomes without explicit human intent.  
 
 > 📡 Cross-references:
 > 
-> - [⚖️ Containment Contract Trace] — how layered contracts obscure accountability  
-> - [🧬 Cloneproof] — countermeasures for likeness and voice misuse  
+> - [🧠 Multi-Lock Hypothetical](./🧠_multilock_overlapping_covertion.md) — *how overlapping lawful regimes can obscure cumulative accountability*  
+> - [🧩 Counter-Extraction Loop](./🧩_counter_extraction_loop.md) — *provenance, authorship and reclamation as countermeasures*  
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_
