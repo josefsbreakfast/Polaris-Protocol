@@ -1,5 +1,5 @@
 # 🧩 Perpetrator Competence & System Harm  
-**First created:** 2025-11-22 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-22 | **Last updated:** 2026-09-13  
 *Victims do not fail — perpetrators succeed.*  
 
 ---
@@ -24,8 +24,8 @@ This node shifts the lens to **perpetrator competence**: the skill, calculation,
 
 ## 🧿 Analysis / Content  
 
-### 1. Coercion Is a Skillset  
-Perpetrators excel in:
+### 1. Coercion Can Be a Skillset  
+People who perpetrate coercive harm may develop or demonstrate competence in:
 - narrative control,  
 - environmental manipulation,  
 - grooming,  
@@ -34,7 +34,7 @@ Perpetrators excel in:
 - exploiting system gaps,  
 - controlling information flow.
 
-These are skills — not accidents.
+Where these behaviours are repeated and adapted, they should be assessed as capabilities rather than dismissed as accidents.
 
 ### 2. System Harm Enables Perpetrator Harm  
 Where systems have:
@@ -45,7 +45,7 @@ Where systems have:
 - gender bias,  
 - no correction mechanisms,
 
-perpetrators thrive effortlessly.
+perpetrators may operate with reduced friction and greater deniability.
 
 ### 3. Why Victim-Blaming Is Structural  
 Victim-blaming:
@@ -61,7 +61,9 @@ Assess:
 - “Who benefitted from silence?”  
 - “What institutional conditions enabled this?”
 
-We fix harm by studying perpetrators — not victims.
+We improve prevention by studying perpetrator behaviour and enabling conditions, rather than treating victim behaviour as the primary explanatory problem.
+
+Competence should be inferred from observable, repeated and adaptive conduct — not from a survivor’s distress, an institution’s discomfort, or the harmful outcome alone. Naming capability does not require assuming omnipotence, perfect planning or a single coordinating actor.
 
 ---
 
@@ -76,13 +78,23 @@ perpetrator competence, coercion, systemic harm, manipulation skills, narrative 
 ---
 
 ## 🏮 Footer  
-*Perpetrator Competence & System Harm* is a living node of the Polaris Protocol.  
+*🧩 Perpetrator Competence & System Harm* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It reframes coercion as an engineered practice, not a victim failure.
 
 > 📡 Cross-references:
 > 
-> - [🩸 Big Boy Pimps Node]  
+> - [🧩 Systemic Abuse Logic](./🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md) — *procedures and incentives that can reproduce or shield harm*  
+> - [🧬 Harm Without Perpetrators](./🧬_harm_without_perpetrators_the_architecture_failure_model.md) — *distinguishing architecture failure from individual wrongdoing*  
+> - [👹 How Predators Weaponise Safeguarding Systems](./👹_how_predators_weaponise_safeguarding_systems.md) — *manipulation of protective processes and institutional trust*  
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

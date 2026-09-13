@@ -1,5 +1,5 @@
 # 🧩 The Autonomy Paradox — Engineered vs. Occupied Autonomy  
-**First created:** 2025-10-18 | **Last updated:** 2026-08-14  
+**First created:** 2025-10-18 | **Last updated:** 2026-09-13  
 *Where liberation architectures replicate control logics.*  
 
 ---
@@ -44,6 +44,8 @@ Each seeks to escape domination, yet all risk **reproducing its logic**:
 Autonomy becomes a mirror — engineered or occupied —  
 depending on who owns the lab, the server, or the story.
 
+These are comparative analytical frames, not exhaustive definitions of xenofeminism, crip theory or biohacking. Each field contains internal disagreement, and particular projects should be assessed on their own politics, ownership and material conditions.
+
 ---
 
 ## 🌌 Constellations  
@@ -57,13 +59,22 @@ autonomy paradox, xenofeminism, crip theory, biohacking, engineered autonomy, oc
 ---
 
 ## 🏮 Footer  
-*🧩 The Autonomy Paradox — Engineered vs. Occupied Autonomy* is a living theory node of the Polaris Protocol.  
+*🧩 The Autonomy Paradox — Engineered vs. Occupied Autonomy* is a living theory node of **Containment Logic**, within the **Polaris Protocol**.  
 It maps how movements for liberation can entangle with systems of control, and where survivor sovereignty must be re-defined from within the network.
 
 > 📡 Cross-references:  
-> - [🪬 Xenofeminism Link Note — Reclaiming the Engineered Body] — technomaterial autonomy and liberation through redesign  
-> - [🐦‍🔥 Trauma_Psychology_Medical_Misuse] — embodied autonomy and surveillance trauma  
+> - [🦎 Algorithmic Autotomy](./🦎_algorithmic_autotomy.md) — *designed detachment and safe exit from dependency*  
+> - [🧩 Counter-Extraction Loop](./🧩_counter_extraction_loop.md) — *reclaiming authorship within extractive infrastructures*  
+> - [🦁 We Are Citizens, Not Datasets](./🦁_we_are_citizens_not_datasets.md) — *embodied civic autonomy against administrative abstraction*  
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

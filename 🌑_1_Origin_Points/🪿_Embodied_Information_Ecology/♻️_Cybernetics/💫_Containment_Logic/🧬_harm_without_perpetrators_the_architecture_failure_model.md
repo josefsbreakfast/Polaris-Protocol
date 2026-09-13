@@ -1,5 +1,5 @@
 # 🧬 Harm Without Perpetrators: The Architecture Failure Model  
-**First created:** 2025-11-17 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-17 | **Last updated:** 2026-09-13  
 *Understanding how modern institutions cause harm structurally rather than intentionally.*  
 
 ---
@@ -11,7 +11,7 @@ When systems break, human experiences resemble interpersonal harm even when no m
 ---
 
 ## 🧿 Analysis  
-### 1. **The Myth of the Villain**  
+### 🪞 The Myth of the Singular Villain  
 Western governance seeks a person to blame.  
 But many harms arise from:
 - outdated frameworks  
@@ -21,7 +21,7 @@ But many harms arise from:
 - systemic underfunding  
 - emergency-patch governance
 
-### 2. **How architecture harms**  
+### 🏗️ How Architecture Harms  
 Structural defects produce:
 - misclassification  
 - escalation loops  
@@ -31,13 +31,13 @@ Structural defects produce:
 - unjustified suspicion  
 - governance fractals that feel punitive
 
-### 3. **Harm ≠ intention**  
+### ⚖️ Harm ≠ Intention  
 In federated systems, responsibility disperses until:
 - no one is accountable  
 - everyone is following the rules  
 - and the outcome is still catastrophic
 
-### 4. **Emulating coercive control**  
+### 🕸️ Emulating Coercive Control  
 Architecture failure mimics coercion through:
 - unpredictability  
 - opaque responses  
@@ -46,10 +46,12 @@ Architecture failure mimics coercion through:
 - loss of informational agency  
 - dependency through process
 
-### 5. **The real question**  
-Not “who caused this harm?”  
-But:  
-**“What structural property made this harm inevitable?”**
+### 🧭 The Real Questions  
+Not only “who caused this harm?”  
+But also:  
+**“What structural property made this harm possible, repeatable, or difficult to stop?”**
+
+“Without perpetrators” describes an architecture-failure model, not a finding that no person bears responsibility. Individual misconduct, negligent decisions and structural failure can coexist. The analytical task is to identify each rather than forcing every harmful outcome into a single-villain explanation.
 
 ---
 
@@ -64,13 +66,23 @@ architecture failure, structural harm, federated governance, opacity, inquiry lo
 ---
 
 ## 🏮 Footer  
-*🧬 Harm Without Perpetrators: The Architecture Failure Model* is a living node of the Polaris Protocol.  
+*🧬 Harm Without Perpetrators: The Architecture Failure Model* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It reframes institutional failure as a product of design mismatch rather than intent.
 
 > 📡 Cross-references:
 > 
-> - [📡 Inquiry Convergence Theory]  — convergence logic  
-> - [🧿 Targeting_Logic_Metadata_Signatures] — misclassification patterns  
+> - [🧩 Systemic Abuse Logic](./🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md) — *harm reproduced through ordinary procedure and institutional incentives*  
+> - [🧩 Perpetrator Competence & System Harm](./🧩_perpetrator_competence.md) — *individual exploitation of weak or permissive systems*  
+> - [🧩 Emergent Surveillance Without Malice](./🧩_emergent_surveillance_without_malice.md) — *surveillance effects emerging without a single directing actor*  
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
-_Last updated: 2026-08-14_
+
+_Last updated: 2026-09-13_
