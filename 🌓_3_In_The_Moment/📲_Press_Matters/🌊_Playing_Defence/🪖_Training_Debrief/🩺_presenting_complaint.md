@@ -1,12 +1,12 @@
 # 🩺 Presenting Complaint  
-**First created:** 2026-09-07 | **Last updated:** 2026-09-11  
+**First created:** 2026-09-07 | **Last updated:** 2026-09-14  
 *The immediate Army collective-training dispute: what is reported, what remains uncertain, and why a small saving raises a larger readiness question.*  
 
 ---
 
 ## 🩺 Presenting Complaint
 
-In September 2026, reporting indicated that the British Army had been required to find approximately **£30 million in savings**, with major collective-training activity involving UK-based units among the expenditure being curtailed.  
+In September 2026, reporting indicated that the British Army was seeking approximately **£30 million in in-year savings**, with major collective-training activity involving UK-based units among the expenditure being curtailed.  
 
 *The Times* reported restrictions affecting major exercises involving more than approximately 90 personnel, while units preparing for deployment, held at readiness or performing rapid-response functions would continue training. The Royal Navy and Royal Air Force were also reported to be making reductions, but on a smaller or differently structured basis.  
 
@@ -263,7 +263,7 @@ At presentation, important questions remain unresolved:
 - Why was approximately £30 million required?
 - Who first identified collective training as an available saving?
 - Which activities are actually being cancelled, delayed or redesigned?
-- How long is the restriction expected to remain?
+- Reporting indicates restrictions extending across much of the remaining financial year; what is the formal duration, what review points apply, and under what conditions would normal collective activity resume?
 - What alternatives were considered?
 - Was additional funding requested?
 - What did Army Command recommend?
@@ -428,7 +428,7 @@ These questions belong in the evidence layer and the linked investigation nodes.
 
 At this stage, the narrowest defensible formulation is:
 
-> **A wider Defence affordability problem has been translated into a comparatively small but operationally sensitive reduction or reprioritisation of British Army collective training.  
+> An in-year affordability problem has been translated into a comparatively small but operationally sensitive reduction or reprioritisation of British Army collective training.  
 >   
 > Public reporting and the Army's own explanation do not yet establish who selected that trade-off, what alternatives were considered, precisely what capability is affected, how effectively modernised training can mitigate the loss, or who formally accepted the resulting readiness risk.**
 
@@ -509,4 +509,4 @@ It records the immediate September 2026 complaint and separates the reported tra
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-11_
+_Last updated: 2026-09-14_
