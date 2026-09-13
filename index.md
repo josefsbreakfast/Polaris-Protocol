@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-13 18:40:11 UTC_
+_Generated on 2026-09-13 18:47:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -718,6 +718,7 @@ _Generated on 2026-09-13 18:40:11 UTC_
         - [`🧩_perpetrator_competence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_perpetrator_competence.md)
         - [`🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_systemic_abuse_logic_harm_as_procedure_not_accident.md)
         - [`🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_the_autonomy_paradox_engineered_vs_occupied_autonomy.md)
+        - [`🧩_the_last_archive_continuum_from_lepore_to_metadata_sabotage.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧩_the_last_archive_continuum_from_lepore_to_metadata_sabotage.md)
         - [`🧬_harm_without_perpetrators_the_architecture_failure_model.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧬_harm_without_perpetrators_the_architecture_failure_model.md)
         - [`🧬_how_gossip_shapes_risk_response.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧬_how_gossip_shapes_risk_response.md)
         - [`🧬_multi_year_pipeline_architecture.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🧬_multi_year_pipeline_architecture.md)
