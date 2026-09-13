@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-13 18:18:24 UTC_
+_Generated on 2026-09-13 18:20:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -684,6 +684,7 @@ _Generated on 2026-09-13 18:18:24 UTC_
         - [`🗞️_institutional_silence_as_public_signal.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🗞️_institutional_silence_as_public_signal.md)
         - [`😳_institutional_embarrassment_dynamics.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/😳_institutional_embarrassment_dynamics.md)
         - [`😶‍🌫_institutional_freeze_fog_correction_cycle.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/😶‍🌫_institutional_freeze_fog_correction_cycle.md)
+        - [`😶‍🌫️_institutional_freeze_fog_correction_cycle.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/😶‍🌫️_institutional_freeze_fog_correction_cycle.md)
         - [`🚨_absence_of_intervention_as_early_warning.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🚨_absence_of_intervention_as_early_warning.md)
         - [`🚨_crisis_mode_behaviours_institutional_fight_flight_fawn_freeze.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🚨_crisis_mode_behaviours_institutional_fight_flight_fawn_freeze.md)
         - [`🛂_public_legal_illiteracy_as_an_attack_surface_uk.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/🛂_public_legal_illiteracy_as_an_attack_surface_uk.md)
