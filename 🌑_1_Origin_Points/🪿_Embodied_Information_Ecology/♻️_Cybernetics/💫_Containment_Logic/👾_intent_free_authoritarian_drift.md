@@ -1,5 +1,5 @@
 # 👾 Intent-Free Authoritarian Drift
-**First created:** 2025-11-18 | **Last updated:** 2026-09-12  
+**First created:** 2025-11-18 | **Last updated:** 2026-09-13  
 *How collapsing systems, behavioural governance, and institutional fear create authoritarian outcomes without authoritarian intent.*  
 
 ---
@@ -124,4 +124,4 @@ authoritarian drift, intent-free harm, behavioural governance, prevent, institut
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-12_
+_Last updated: 2026-09-13_

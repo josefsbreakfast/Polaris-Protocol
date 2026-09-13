@@ -1,5 +1,5 @@
 # 💸 Containment Economics  
-**First created:** 2025-10-24 | **Last updated:** 2026-09-12  
+**First created:** 2025-10-24 | **Last updated:** 2026-09-13  
 *How institutional incentives turn short-term risk management into long-term economic, cultural and human depletion.*
 
 ---
@@ -854,4 +854,4 @@ It examines how institutions can preserve immediate performance, reputational st
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-12_
+_Last updated: 2026-09-13_

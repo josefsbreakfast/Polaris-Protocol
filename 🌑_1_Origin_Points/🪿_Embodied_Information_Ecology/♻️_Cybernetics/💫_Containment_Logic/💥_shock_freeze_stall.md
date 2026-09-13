@@ -1,5 +1,5 @@
 # 💥 Shock–Freeze–Stall — How Emotional Shock Distorts Institutional Decision-Making
-**First created:** 2025-11-14 | **Last updated:** 2026-09-12  
+**First created:** 2025-11-14 | **Last updated:** 2026-09-13  
 *Why emotional shock inside institutions leads to paralysis, poor decisions, and fragmented communication.*
 
 ---
@@ -98,4 +98,4 @@ It explains how shock can distort institutional communication and decision-makin
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-12_
+_Last updated: 2026-09-13_

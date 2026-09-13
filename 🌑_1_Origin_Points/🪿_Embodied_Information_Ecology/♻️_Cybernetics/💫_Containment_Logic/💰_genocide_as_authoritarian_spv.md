@@ -1,5 +1,5 @@
 # 💰 Genocide as Authoritarian SPV  
-**First created:** 2025-12-24 | **Last updated:** 2026-09-12  
+**First created:** 2025-12-24 | **Last updated:** 2026-09-13  
 *How mass violence functions as a liability-laundering vehicle for imperial and authoritarian power.*
 
 ---
@@ -112,4 +112,4 @@ It analyses how mass atrocity is structurally absorbed by power systems to prese
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-09-12_
+_Last updated: 2026-09-13_

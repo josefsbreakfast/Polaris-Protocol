@@ -1,5 +1,5 @@
 # 💰 Impunity Scandal as Authoritarian SPV  
-**First created:** 2025-12-24 | **Last updated:** 2026-09-12  
+**First created:** 2025-12-24 | **Last updated:** 2026-09-13  
 *How scandals themselves are used to contain, defer, and neutralise elite accountability.*
 
 ---
@@ -84,4 +84,4 @@ It analyses how exposure itself is used to prevent consequence.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-09-12_
+_Last updated: 2026-09-13_
