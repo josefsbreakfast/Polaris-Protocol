@@ -1,5 +1,5 @@
 # 🦎 Algorithmic Autotomy  
-**First created:** 2026-01-12 | **Last updated:** 2026-09-12  
+**First created:** 2026-09-13 | **Last updated:** 2026-09-13  
 *Why resilient systems need pre-designed ways to shed dependencies without collapse, substitution, or punishment.*  
 
 ---
@@ -346,7 +346,7 @@ systems resilience, algorithmic autotomy, graceful degradation, fracture planes,
 
 ## 🏮 Footer
 
-*🦎 Algorithmic Autotomy* is a living node of **Ownership & Control**, within the **Polaris Protocol**. It names a design principle that optimisation culture resists: systems built to survive must be able to let go without punishing what they release.
+*🦎 Algorithmic Autotomy* is a living node of **Containment Logic**, within the **Polaris Protocol**. It names a design principle that optimisation culture resists: systems built to survive must be able to let go without punishing what they release.
 
 > 📡 Cross-references:
 >
@@ -362,7 +362,7 @@ systems resilience, algorithmic autotomy, graceful degradation, fracture planes,
 >
 > 🏮 Return To:
 >
-> - [👑 Ownership & Control](./README.md) — *1up*  
+> - [💫 Containment Logic](./README.md) — *1up*  
 > - [♻️ Cybernetics](../README.md) — *2up*  
 > - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
 > - [🌑 Origin Points](../../../README.md) — *4up*  
@@ -370,4 +370,4 @@ systems resilience, algorithmic autotomy, graceful degradation, fracture planes,
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-12_
+_Last updated: 2026-09-13_

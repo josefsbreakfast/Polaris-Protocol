@@ -1,5 +1,5 @@
 # 🧊 The Freeze: Sector-Wide Silence Handling Pattern  
-**First created:** 2025-11-22 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-22 | **Last updated:** 2026-09-13  
 *Why institutions go silent when too many actors become indirectly complicit.*  
 
 ---
@@ -47,8 +47,8 @@ it is *the behaviour*.
 Freeze traps the survivor in a hall of mirrors —  
 unable to correct data, unable to exit systems, unable to access redress.
 
-Freeze protects institutions, not people.  
-Freeze protects perpetrators, not survivors.
+In practice, freeze can protect institutional continuity more effectively than people.  
+It can also leave perpetrators less exposed while survivors remain without remedy.
 
 ### 4. How to Break Freeze  
 - Create a single accountable locus (one team must own the repair).  
@@ -56,7 +56,7 @@ Freeze protects perpetrators, not survivors.
 - Require cross-team truth audits after data harm.  
 - Mandate correction rights even where embarrassment exists.
 
-Freeze dissolves only when **one person** chooses accountability over safety.
+Freeze begins to dissolve when responsibility becomes identifiable and someone is empowered to act on it.
 
 ---
 
@@ -71,14 +71,22 @@ freeze, sector silence, institutional fear, shame loops, metadata harm, escalati
 ---
 
 ## 🏮 Footer  
-*🧊 The Freeze* is a living node of the Polaris Protocol.  
+*🧊 The Freeze: Sector-Wide Silence Handling Pattern* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It maps the systemic silence that emerges when too many actors have interacted with contaminated systems or coercive harm.
 
 > 📡 Cross-references:
 > 
-> - [🎭 Narrative & Psych Ops]  
-> - [🩸 When Little Bureaucrats Play Big Boy Pimps]  
+> - [🦕 Post-Modern Fellow Travellers](./🦕_post_modern_fellow_travellers.md) — *distributed procedural participation in harmful systems*  
+> - [🦑 Toxic Systems Don’t Need Monsters](./🦑_toxic_systems_dont_need_monsters.md) — *system conditions that can produce harmful conduct without singular villains*  
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

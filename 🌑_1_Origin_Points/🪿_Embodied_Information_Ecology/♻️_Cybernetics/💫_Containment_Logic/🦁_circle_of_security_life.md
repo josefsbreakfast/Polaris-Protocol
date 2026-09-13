@@ -1,5 +1,5 @@
 # 🦁 Circle of (Security) Life  
-**First created:** 2025-11-14 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-14 | **Last updated:** 2026-09-13  
 *A systems-governance humour–serious node mapping the recursive career loops between policing, security, care, safeguarding, and back again.*
 
 ---
@@ -110,7 +110,7 @@ the same instincts circulate through multiple systems.
 ---
 
 ## 🌌 Constellations  
-🪆 Narrative Interference · 🧩 Systems Governance · 🪙 Power Typologies · 🛰️ Post-Digital Diagnostics  
+🪆 🧩 🪙 🛰️ — narrative interference, systems governance, power typologies and post-digital diagnostics.
 
 ---
 
@@ -123,4 +123,20 @@ security loop, authoritarian drift, safeguarding reflexes, surveillance culture,
 *🦁 Circle of (Security) Life* is a satirical–analytic Polaris node describing the recycling of surveillance-adjacent reflexes across the UK’s care, policing, security, and safeguarding sectors.  
 It names no individuals. It identifies structural behaviours.  
 
-_Last updated: 2026-08-14_
+> 📡 Cross-references:
+>
+> - [🦕 Post-Modern Fellow Travellers](./🦕_post_modern_fellow_travellers.md) — *risk reflexes carried through ordinary procedural participation*  
+> - [🦑 Toxic Systems Don’t Need Monsters](./🦑_toxic_systems_dont_need_monsters.md) — *institutional environments shaping repeated conduct*  
+> - [🦁 We Are Citizens, Not Datasets](./🦁_we_are_citizens_not_datasets.md) — *restoring embodied civic presence to data-mediated governance*  
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+
+*Survivor authorship is sovereign. Containment is never neutral.*  
+
+_Last updated: 2026-09-13_

@@ -1,5 +1,5 @@
 # 🦕 Post-Modern Fellow Travellers  
-**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-13  
 *How non-malicious actors enable authoritarian outcomes inside behavioural-surveillance systems.*
 
 ---
@@ -85,7 +85,7 @@ If others act cautiously, the individual follows — to avoid being the outlier.
 
 ---
 
-## 👾 Why PREVENT Supercharges This Dynamic  
+## 👾 Why Prevent May Intensify This Dynamic  
 Prevent logic institutionalises:
 
 - worst-case thinking,  
@@ -136,7 +136,7 @@ They rely on well-meaning colleagues who:
 This is not collusion.  
 It is **structural credulity**.
 
-Good people can — and often do — become the machinery of harm.
+People acting without malicious intent can nevertheless become part of the machinery of harm.
 
 ---
 
@@ -151,14 +151,12 @@ To a targeted individual, this distributed procedural obedience feels like:
 
 The truth is more painful:
 
-> **You are not being targeted by people;  
-you are being targeted by structure.  
-People are merely carrying the structure’s logic.**
+> **What feels coordinated at the point of impact may arise from shared structure, repeated assumptions and distributed procedure rather than a single coordinated intent.**
 
 ---
 
 ## 🌌 Constellations  
-🦕 🧠 🔥 🎭  
+🦕 🧠 🔥 🎭 — distributed participation, procedural obedience, risk architecture and survivor experience.
 
 ---
 
@@ -168,9 +166,23 @@ fellow travellers, prevent, behavioural surveillance, authoritarian drift, safeg
 ---
 
 ## 🏮 Footer  
-*🦕 Fellow Travellers in Modern Risk Architecture* is a living node of the Polaris Protocol.  
+*🦕 Post-Modern Fellow Travellers* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It examines how ordinary procedural behaviour — not malice — produces authoritarian outcomes inside modern risk architectures.
+
+> 📡 Cross-references:
+>
+> - [🧊 The Freeze: Sector-Wide Silence Handling Pattern](./🧊_the_freeze_sector_wide_silence_handling_pattern.md) — *distributed silence and stalled institutional response*  
+> - [🦑 Toxic Systems Don’t Need Monsters](./🦑_toxic_systems_dont_need_monsters.md) — *structural toxicity without a singular villain*  
+> - [🦠 Toxic Legitimacy Cycles](./🦠_toxic_legitimacy_cycles.md) — *repetition, rebranding and recycled authority*  
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_

@@ -1,6 +1,6 @@
 # 🦠 Systemic Porosity
 
-**First created:** 2025-10-13 | **Last updated:** 2026-09-12  
+**First created:** 2025-10-13 | **Last updated:** 2026-09-13  
 *A structural-risk sketch showing how loosely coupled UK oversight regimes create exploitable seams.*
 
 ---
@@ -93,7 +93,7 @@ oversight architecture, national security debt, legal loopholes, data protection
 
 ## 🏮 Footer
 
-*🦠 Systemic Porosity* is a living node of the **Polaris Protocol**.  
+*🦠 Systemic Porosity* is a living node of **Containment Logic**, within the **Polaris Protocol**.  
 It outlines the governance mechanics by which multiple compliant frameworks can, in aggregate, erode accountability and invite external manipulation.  
 It is a theoretical systems-diagnostic intended to support oversight reform.
 
@@ -110,7 +110,7 @@ It is a theoretical systems-diagnostic intended to support oversight reform.
 >
 > 🏮 Return To:
 >
-> - [👑 Ownership & Control](./README.md) — *1up*
+> - [💫 Containment Logic](./README.md) — *1up*
 > - [♻️ Cybernetics](../README.md) — *2up*
 > - [🪿 Embodied Information Ecology](../../README.md) — *3up*
 > - [🌑 Origin Points](../../../README.md) — *4up*
@@ -118,4 +118,4 @@ It is a theoretical systems-diagnostic intended to support oversight reform.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-12_
+_Last updated: 2026-09-13_

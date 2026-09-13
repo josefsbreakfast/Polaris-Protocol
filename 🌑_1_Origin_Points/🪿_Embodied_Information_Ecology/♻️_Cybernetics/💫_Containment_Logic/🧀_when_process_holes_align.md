@@ -1,6 +1,6 @@
 # 🧀 When Process Holes Align
 
-**First created:** 2025-11-11 | **Last updated:** 2026-08-23  
+**First created:** 2025-11-11 | **Last updated:** 2026-09-13  
 *How individually imperfect safeguards become collectively dangerous when their weaknesses align across institutions, information systems and human decision-making.*
 
 ---
@@ -641,7 +641,15 @@ It brings together layered failure analysis, multi-agency governance and safegua
 > - [🐼 Due Diligence and Operational Capacity in Policing](./🐼_due_diligence_and_operational_capacity_in_policing.md) — *why formal safeguards depend on professional capacity, independent judgment and conditions that make genuine oversight possible.*
 > - [🧭 Regulating the Regulators: Oversight of Oversight](./🧭_regulating_the_regulators_oversight_of_oversight.md) — *how accountability fails when the bodies responsible for scrutiny are insufficiently independent or become trapped in recursive review.*
 > - [⚖️ Procedural Correctness as Safeguard](./⚖️_procedural_correctness_as_safeguard.md) — *the distinction between procedures that constrain institutional power and procedures that preserve institutional defensibility while leaving harm unresolved.*
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-09-13_

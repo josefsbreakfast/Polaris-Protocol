@@ -1,5 +1,5 @@
 # 🦁 We Are Citizens, Not Datasets  
-**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-16 | **Last updated:** 2026-09-13  
 *How governance now hears statistical abstractions instead of human beings.*  
 
 ---
@@ -40,7 +40,7 @@ When datasets replace citizens, three failures emerge:
 
 ### 1. **Epistemic Failure — What is heard is not real.**  
 Metrics capture noise patterns, not lived reality.  
-Algorithms flatten context, suppress nuance, and render the vulnerable statistically invisible.
+Algorithmic summaries can flatten context, suppress nuance, and render vulnerable people statistically invisible.
 
 ### 2. **Relational Failure — No texture, no trust.**  
 Representatives cannot build trust with abstractions.  
@@ -76,12 +76,18 @@ It examines how datafication has supplanted direct political hearing, and why re
 
 > 📡 Cross-references:
 > 
-> - [🧩 The Politic Is No Longer Heard]  
-> - [🎛 Algorithmic Hearing as False Accountability]  
-> - [🪢 Re-Embodied Dialogue & Civic Presence]  
-> - [🛰️ Risk Logic & the Disappearing Public Surgery]  
-> - [🌀 Systems & Governance]  
+> - [🛰️ Disappearing Public Surgery](./🛰️_disappearing_public_surgery.md) — *loss of direct constituent access and embodied political hearing*  
+> - [📱 Digital Literacy as Democratic Infrastructure](./📱_digital_literacy_as_democratic_infrastructure.md) — *public capacity to interpret and contest data-mediated governance*  
+> - [📡 Curated Reality in Westminster](./📡_curated_reality_in_westminster.md) — *institutional reality filtered through managed information flows*  
+>
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*  
+> - [♻️ Cybernetics](../README.md) — *2up*  
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
+> - [🌑 Origin Points](../../../README.md) — *4up*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-09-13_
