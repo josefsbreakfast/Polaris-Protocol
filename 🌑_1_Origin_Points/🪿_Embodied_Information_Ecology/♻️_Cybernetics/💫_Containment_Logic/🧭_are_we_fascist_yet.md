@@ -1,5 +1,5 @@
 # 🧭 Are We Fascist Yet?
-**First created:** 2025-11-09 | **Last updated:** 2026-09-13
+**First created:** 2025-11-09 | **Last updated:** 2026-09-13  
 *A UK-specific diagnostic for recognising authoritarian and protofascist drift before democratic collapse.*
 
 ---
