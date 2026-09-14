@@ -208,8 +208,8 @@ So the meaningful pattern shift is actor-density and attribution contamination: 
 
 I found no comparably credible newly disclosed Iran-linked physical disruption on 27–28 August beyond the incidents already tracked. The QTFY disclosure is worth keeping because it materially strengthens the competing-actor model rather than the Iran-attribution case.
 
-U.S. Department of Justice — QScan/QTRouter disruption and QTFY critical-infrastructure targeting⁠￼
-FBI — QTFY botnet disruption and hackers-for-hire network⁠￼”
+U.S. Department of Justice — QScan/QTRouter disruption and QTFY critical-infrastructure targeting⁠ 
+FBI — QTFY botnet disruption and hackers-for-hire network⁠ ”
 
 - https://www.justice.gov/opa/pr/justice-department-and-fbi-seize-platforms-operated-and-used-china-state-sponsored-hackers
 - https://www.fbi.gov/video-repository/fbi-and-doj-announce-botnet-disruption-082626.mp4/view
@@ -353,7 +353,7 @@ That fits Iranian wartime incentives unusually well. Against a conventionally st
 
 I did not find a comparably credible newly disclosed outage or essential-service disruption on 1–2 September that clears the threshold for a separate incident alert.
 
-Reuters — Energy firms face AI-enhanced cyber attacks in connectivity push⁠￼”
+Reuters — Energy firms face AI-enhanced cyber attacks in connectivity push⁠ ”
 
 - https://www.reuters.com/business/energy/energy-firms-face-ai-enhanced-cyber-attacks-connectivity-push--reeii-2026-09-01/
 - https://1898advisories.burnsmcd.com/threat-hunt-plan-iran-affiliated-targeting-of-critical-infrastructure-plcs-rockwell-schneider-and-siemens-ot-exploitation
@@ -482,7 +482,7 @@ It also raises an analytical question worth watching: whether telecom targeting 
 
 I found no separate newly confirmed cyber-induced outage in healthcare, government administration, defence, education, transport, banking, water or energy since the previous check that clears the threshold for another alert. The German power-grid incidents remain physical sabotage rather than cyber and are therefore still outside this watch.  
 
-The National — Iran's cyber attack strategy is 'perfect weapon' against US⁠￼”
+The National — Iran's cyber attack strategy is 'perfect weapon' against US⁠ ”
 
 - https://www.thenationalnews.com/future/technology/2026/09/02/iran-cyberattack-hack-us-infrastructure/
 
@@ -532,3 +532,308 @@ I found no separate newly confirmed cyber-induced outage since the last check in
 - https://www.jpost.com/international/islamic-terrorism/article-906279
 - https://www.jpost.com/middle-east/iran-news/article-907621
 - 
+
+20260907:
+
+There is **one credible new development worth adding**: a cross-jurisdiction breach of court-administration infrastructure in the **United States and Canada**. It does **not** currently strengthen Iranian attribution, but it does add a significant government-administration/supply-chain case to the wartime attack surface.
+
+### 🇺🇸 United States / 🇨🇦 Canada — government administration / judiciary
+
+Thomson Reuters disclosed on **2–3 September 2026** that an unauthorised actor obtained files from its **C-Track court case-management platform**, affecting court systems in **11 U.S. states, the U.S. Virgin Islands, and Ontario**. C-Track is used to manage court records and documents; Ontario’s three Chief Justices confirmed that their Court of Appeal, Superior Court of Justice and Court of Justice were among the affected users. ([Reuters][1])
+
+**Operational impact:** currently **low at the service-continuity layer, potentially high at the information-security layer**. Thomson Reuters says C-Track remained operational and there was no disruption to court services or evidence that court financial-transaction systems were affected. But the accessed material included court records containing names and personal information, and reporting indicates that confidential, redacted or sealed records may also be among the affected material. ([Reuters][1])
+
+**Timing:** the intrusion itself occurred in **March 2026**. Thomson Reuters detected unauthorised activity on **30 June**, informed Ontario’s Ministry of the Attorney General on **23 July**, and the incident became public on **2 September**. So this is a newly disclosed compromise with a several-month detection gap rather than a new attack beginning this week. ([Ontario Courts][2])
+
+**Attribution confidence: presently very low.** No credible group has claimed responsibility, Thomson Reuters has not publicly attributed the intrusion, and Reuters could not determine who was behind it. There is therefore **no public evidence favouring Iran**, an Iranian proxy, or any other state sponsor at this stage. ([Reuters][1])
+
+**Competing explanations:** ordinary criminal data theft; an access-broker operation; espionage by another state; or a state-linked intrusion through a commercial software provider are all still live possibilities. The absence of ransomware claims or a leak-site appearance currently makes straightforward double-extortion somewhat less obvious than in the Berlin/Rhysida case, but that is not enough to infer espionage.
+
+**Fit with Iranian methods / wartime incentives:** strategically plausible, evidentially weak. Court systems contain unusually sensitive material—criminal cases, civil disputes, personal identifiers and potentially sealed information—so they would be valuable to intelligence, coercion or hack-and-leak operations. Iran has historically used theft-and-publication operations for political effect. But nothing public connects this C-Track compromise to Iranian infrastructure, personas or tradecraft, so the fit remains at the **target-value** level only.
+
+### How this changes the trend since 28 February
+
+The important addition is **shared digital infrastructure supporting multiple state judicial systems**.
+
+The developing government-administration strand now includes direct compromises of individual public bodies, ransomware disruption of Berlin state administration, and now:
+
+**commercial court-platform provider → one compromise → court data exposure across 11 U.S. states + U.S. Virgin Islands + Ontario.**
+
+That is structurally different from attacking one ministry or municipality. It demonstrates how a compromise of a common service provider can create **simultaneous access to multiple sovereign administrative environments without separately breaching each court system**. ([Reuters][1])
+
+For the wider Iran watch, that strengthens the **supply-chain/concentration-risk** part of the model rather than the Iran-attribution case. A wartime adversary does not necessarily have to penetrate twelve governments independently if courts, hospitals, utilities or other public bodies share software and cloud infrastructure.
+
+I found **no separate newly confirmed cyber-induced outage or attribution shift** in energy, water, healthcare, defence, education, transport, telecommunications or systemically important banking since the previous check that clears the notification threshold.
+
+[Reuters — Thomson Reuters detects cybersecurity incident affecting C-Track court systems](https://www.reuters.com/legal/litigation/thomson-reuters-detects-cybersecurity-incident-says-unauthorized-party-accessed-2026-09-03/)
+[Ontario Courts — Joint statement by Ontario’s three Chief Justices](https://www.ontariocourts.ca/en/public-statement-cybersecurity.htm?utm_source=chatgpt.com)
+
+[1]: https://www.reuters.com/legal/litigation/thomson-reuters-detects-cybersecurity-incident-says-unauthorized-party-accessed-2026-09-03/ "Thomson Reuters detects cybersecurity incident, says unauthorized party accessed files | Reuters"
+[2]: https://www.ontariocourts.ca/en/public-statement-cybersecurity.htm?utm_source=chatgpt.com "Public Statement"
+
+20260908:
+
+There is **one credible escalation worth adding today**, and it materially sharpens the Berlin case.
+
+### 🇩🇪 Germany — state government / administration
+
+Berlin confirmed on **6 September 2026** that the attackers behind the August compromise of the **Berlin state network** published a **second data package**, this time including **login credentials**. The city immediately reviewed and tightened mitigation measures; officials warned that the added safeguards could temporarily restrict access to specialist applications in the affected urban-development administration. ([Berlin.de][1])
+
+**Operational impact:** this remains primarily a government-administration compromise rather than a citywide infrastructure outage. The original breach had already disrupted normal email, internet and some public-service workflows after affected ministries were disconnected on **14 August**. The new development creates a more serious **post-breach access and lateral-exploitation risk** because credentials are now among the published material, although Berlin has not disclosed which systems they correspond to or whether they remain valid. ([The Record from Recorded Future][2])
+
+The data-protection authority now confirms that the **7–12 August** intrusion involved copying a substantial volume of data from the ministries responsible for **urban development/housing** and **mobility, transport, climate protection and environment**. Published information includes public-employee data and potentially citizen records containing names, addresses, birth dates, bank details, correspondence and submitted documents. Authorities were still assessing the full scope on **7 September**. ([Berliner Datenschutzbeauftragte][3])
+
+**Attribution confidence:** **moderate for a Rhysida-associated criminal operation; very low for Iran or another state sponsor.** Rhysida claimed the breach, but Berlin has still not formally attributed it. More importantly, Germany’s BSI says the associated campaign resembles **TerminalFix / fake-CAPTCHA social engineering**, using **LoremIpsumLoader/AxolotLoader**, and assesses the campaign as cybercriminal. BSI says no connection to state-sponsored or politically motivated actors has been established. ([The Record from Recorded Future][2])
+
+**Competing explanation:** straightforward financially motivated ransomware remains substantially better supported than state tasking. An affiliate or initial-access chain may obscure who performed each stage, but there is currently no evidence that this is Iranian proxy activity.
+
+**Iran/wartime fit:** **weak for attribution, stronger for secondary exploitation risk.** What changes here is not the likelihood that Iran commissioned the breach. It is the usefulness of the resulting material to *other* actors. Published government credentials, citizen information and administrative correspondence can lower the cost of phishing, credential reuse, impersonation and follow-on intrusion even when the original ransomware crew had purely financial motives.
+
+### How this changes the trend since 28 February
+
+Berlin now provides a cleaner example of the sequence we have been watching:
+
+**criminal compromise**
+→ **government-service disruption**
+→ **large-scale data theft**
+→ **publication**
+→ **credentials released**
+→ **potential follow-on access for unrelated actors.**
+
+That last step is the meaningful shift. The wartime cyber environment is increasingly not just **multiple actors attacking the same sectors**, but **one actor creating access material that another actor can potentially consume**.
+
+It therefore strengthens the **cross-actor contamination model** without strengthening Iran attribution:
+
+> criminal ransomware can unintentionally manufacture reconnaissance, credentials and targeting data for state-linked operators.
+
+This is particularly relevant because the affected ministries cover **transport and urban infrastructure**, but there is still no evidence that Berlin’s election systems or operational transport infrastructure were penetrated. Berlin says the **20 September election environment remains secure**. ([The Record from Recorded Future][2])
+
+I found no separate newly confirmed cyber-induced outage or attribution shift in energy, water, healthcare, defence, education, telecommunications, transport or systemically important banking on **7–8 September** that clears the alert threshold.
+
+[Berlin government — second data package and credentials published](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2026/pressemitteilung.1710816.php)
+[Berlin Data Protection Authority — current assessment of exposed data](https://www.datenschutz-berlin.de/datenschutz/hinweise-zum-hackerangriff-auf-berlin/)
+[The Record — Berlin investigates second leak and BSI campaign assessment](https://therecord.media/germany-berlin-second-data-breach-city-agencies)
+
+[1]: https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2026/pressemitteilung.1710816.php "Nach dem IKT-Vorfall – Weiteres Datenpaket veröffentlicht - Berlin.de"
+[2]: https://therecord.media/germany-berlin-second-data-breach-city-agencies "Berlin investigates new data leak after hackers publish stolen login credentials | The Record from Recorded Future News"
+[3]: https://www.datenschutz-berlin.de/datenschutz/hinweise-zum-hackerangriff-auf-berlin/ "Hinweise zum \"Hackerangriff auf Berlin\" - Berliner Beauftragte für Datenschutz und Informationsfreiheit"
+
+
+20260909:
+
+There is **one credible new incident worth adding**. It does not strengthen the Iran-attribution case, but it is useful because it shows another **multi-service municipal utility** absorbing a ransomware-style hit without losing operational technology.
+
+### 🇩🇪 Germany — energy, water, wastewater, district heating and telecommunications
+
+**Stadtwerke Landsberg**, the city-owned municipal utility for Landsberg am Lech in Bavaria, says it was hit overnight on **1 September 2026** by what it describes as a targeted criminal cyberattack. Attackers encrypted central corporate IT systems, forcing the utility to disconnect internet links, shut affected systems down and rebuild parts of its environment with outside forensic support. The incident received wider reporting on **8 September**. ([Stadtwerke Landsberg][1])
+
+**Operational impact: moderate at the administrative layer, low at the essential-service layer.** Staff lost or had severely restricted normal telephone and email access and customer-service processes were disrupted. Crucially, however, the utility says **electricity distribution, drinking water, wastewater treatment, district heating, fibre infrastructure and EV charging remained operational**. Its swimming pool and parking facilities were also unaffected. ([Kreisbote][2])
+
+That separation is analytically useful. A cyberattack successfully encrypted the central IT environment of an organisation simultaneously responsible for **power + water + sewage + heating + communications infrastructure**, but segmentation prevented the incident from crossing into the operational systems that actually deliver those services. ([The Record from Recorded Future][3])
+
+**Attribution confidence:** **high that this is a genuine cyber incident; moderate that it is conventional cybercrime/ransomware; very low for Iran.** Stadtwerke Landsberg calls it a criminal attack and confirms encryption, but has not named a ransomware group, disclosed an extortion demand, or identified the initial access method. Forensics are still examining whether customer information was stolen. ([Stadtwerke Landsberg][1])
+
+**Competing explanations:** ordinary financially motivated ransomware is currently the strongest explanation. An affiliate or access broker could sit behind the intrusion, but there is no evidence at present of Iranian, Russian or other state tasking. The lack of an identified group means even the precise ransomware model should remain provisional.
+
+**Fit with known Iranian methods:** weak. Iran-linked wartime infrastructure activity has been much more notable for direct interaction with exposed industrial-control systems and PLCs. Landsberg instead looks like **enterprise IT encryption stopped by IT/OT separation**. The target itself would clearly be strategically attractive to a wartime actor, but the behaviour does not presently resemble the strongest Iran-linked OT cases.
+
+### How this changes the trend since 28 February
+
+The important addition is **resilience evidence**.
+
+We now have both:
+
+**weakly segmented / internet-exposed OT**
+→ direct manipulation
+→ water or power disruption
+
+and:
+
+**municipal utility enterprise IT compromised**
+→ central systems encrypted
+→ communications/customer administration degraded
+→ **OT remains isolated and essential services continue**.
+
+That distinction matters because the campaign-level question is increasingly not simply **“can attackers penetrate utilities?”** They plainly can. It is **whether compromise crosses the IT/OT boundary and produces state-disruption effects**.
+
+Landsberg is therefore almost a useful control case against the July U.S. water incidents and the British generator outage: very broad infrastructure responsibility, successful cyber compromise, but **no physical-service consequence because the operational environment stayed separated**. ([Kreisbote][2])
+
+One contextual development raises the wider threat environment without constituting a cyber incident: on **8 September**, Iran publicly warned that energy infrastructure linked to U.S. interests in the Gulf remained vulnerable and separately warned **South Korea** that participation in U.S. operations around the Strait of Hormuz would have “serious consequences.” That potentially broadens the set of countries Tehran may regard as active participants, but there is currently **no corresponding new Iranian cyber incident against South Korean essential infrastructure** that clears the evidentiary threshold. ([Dawn][4])
+
+I found no other newly confirmed cyber-induced outage or attribution shift since the previous check in defence, healthcare, education, transport, telecommunications, government administration or systemically important banking that meets the alert threshold.
+
+[1]: https://www.stadtwerke-landsberg.de/presse/?utm_source=chatgpt.com "Presse"
+[2]: https://www.kreisbote.de/lokales/landsberg/erstmal-offline-cyber-attacke-trifft-stadtwerke-landsberg-94472771.html?utm_source=chatgpt.com "Erstmal offline: Cyber-Attacke trifft Stadtwerke Landsberg"
+[3]: https://therecord.media/cyberattack-bavaria-germany-utility?utm_source=chatgpt.com "Cyberattack encrypts systems at Bavarian municipal utility | The Record from Recorded Future News"
+[4]: https://www.dawn.com/news/2028286/iran-threatens-us-gulf-energy-infrastructure-following-clashes?utm_source=chatgpt.com "Iran threatens US Gulf energy infrastructure following clashes - World - DAWN.COM"
+
+
+20260910:
+
+There is **one meaningful development worth flagging**, but chiefly because it sharpens the distinction between **real Iranian-linked activity and opportunistic claims of disruption**.
+
+### 🇺🇸 United States — telecommunications + claimed water disruption
+
+On **8 September 2026**, the Iranian-linked persona **APT IRAN** claimed that it had disrupted AT&T internet service across **Houston, Dallas, Austin and San Antonio** and had also penetrated an unnamed **Texas water utility**, allegedly disrupting water service. The claim followed the group’s **30 August** warning that the U.S. would see incidents in **energy, water and telecommunications**, and it threatened further escalation through 11 September. ([Threat Beat][1])
+
+The telecommunications effect itself was real: AT&T customers across Texas lost service on **7 September**, with more than 7,000 households affected in the Dallas-area incident and wider outage reporting across several cities. But **AT&T explicitly rejects the cyberattack claim**. Its assessment is that attempted **physical cable theft** caused the Dallas outage, and it says it has found no evidence supporting APT IRAN’s assertion. Service has since been restored. ([fox26houston.com][2])
+
+**Attribution confidence:** effectively **none for the AT&T outage as an Iranian cyberattack** on present evidence. There is a credible Iranian-linked claimant, but the infrastructure owner has supplied a concrete competing cause that fits the observed effect. That should currently be weighted substantially above the Telegram claim.
+
+The **Texas water-utility claim is even less substantiated**. APT IRAN says it penetrated and disrupted an unnamed facility, but there is not yet an independently identified victim, public utility confirmation, regulator statement, technical evidence or confirmed service outage. I would therefore retain it as **unverified actor claim only**, not an incident. ([Threat Beat][1])
+
+This matters because the group is operating against a backdrop of **genuine Iranian-affiliated OT disruption**. U.S. agencies have already confirmed that Iranian-affiliated actors have manipulated internet-exposed PLCs in American water, energy and government facilities since March, producing operational disruption and financial losses. ([U.S. Department of War][3])
+
+### How this changes the trend since 28 February
+
+The new pattern is partly **informational rather than technical**:
+
+**real Iranian-linked PLC attacks**
+→ **public threats naming water, energy and telecom**
+→ **large unrelated infrastructure outage occurs**
+→ **Iran-linked persona rapidly claims it**.
+
+That means **temporal correlation is becoming actively exploitable as propaganda**. An operator no longer needs to cause every outage it claims; during a period of genuine attacks, ordinary equipment failure, physical sabotage or criminal activity can be folded into a narrative of coordinated Iranian reach.
+
+That is analytically important because it creates exactly the attribution problem this watch is designed to avoid. A cluster of outages after Iranian threats is now **less probative by itself**, not more, unless accompanied by victim confirmation, OT telemetry, infrastructure overlap or other technical evidence.
+
+At the same time, the threat should not simply be dismissed as bluff. The group’s sector selection — **water + energy + telecommunications** — matches the broader Iranian wartime targeting trajectory, and the federal April advisory confirms that closely related Iranian-affiliated actors have already caused physical-process disruption through exposed PLCs. ([U.S. Department of War][3])
+
+So the net update is:
+
+> **Iran-linked infrastructure disruption remains real, but the actor ecosystem is now visibly mixing genuine capability with opportunistic claims against unrelated outages.**
+
+That raises the evidentiary bar for future incident attribution and makes **cross-checking physical failure, criminal sabotage and ordinary network faults** increasingly important.
+
+I found no other newly confirmed cyber-induced outage or attribution shift in government, defence, healthcare, education, energy, water, transport or systemically important banking since the previous run that clears the notification threshold.
+
+[1]: https://threatbeat.com/attacks-and-incidents/iran-hackers-claim-texas-att-outage-vow-to-intensify-attacks-before-9-11/?utm_source=chatgpt.com "Iran hackers claim Texas AT&T outage, vow to ‘intensify’ attacks before 9/11 - Threat Beat"
+[2]: https://www.fox26houston.com/news/iranian-hacker-group-claims-responsibility-dallas-internet-outage.amp?utm_source=chatgpt.com "Iranian hacker group claims responsibility for Dallas internet outage, AT&T blames cable theft | FOX 26 Houston"
+[3]: https://media.defense.gov/2026/Apr/07/2003907538/-1/-1/0/AA26-097A-IRANIAN-AFFILIATED-CYBER-ACTORS-EXPLOIT-PROGRAMMABLE-LOGIC-CONTROLLERS-ACROSS-US-CRITICAL-INFRASTRUCTURE_508C.PDF?utm_source=chatgpt.com "Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure"
+
+20260911:
+
+There is **one credible new development worth adding**. It does not strengthen Iranian attribution, but it reinforces a pattern that is becoming important in the healthcare strand: **essential-sector compromise through third-party identities rather than direct penetration of the primary operator**.
+
+### 🇺🇸 United States — healthcare technology / clinical infrastructure
+
+**Veradigm**, the healthcare-IT company formerly known as Allscripts, disclosed on **8 September 2026** that an attacker obtained credentials from one of its third-party vendors and used them to access a Veradigm customer-service API. Patient information was downloaded, including Social Security numbers in some cases. Veradigm supplies EHR, e-prescribing, practice-management and related systems used by thousands of U.S. healthcare organisations. ([BleepingComputer][1])
+
+**Operational impact: low.** Veradigm says the intrusion did **not disrupt clinical services or its systems**, and the stolen credentials were restricted to the particular API rather than providing access to its broader network, databases or servers. No clinical or medical records are currently reported compromised. ([BleepingComputer][1])
+
+**Attribution confidence:** high confidence in the breach mechanism; **moderate at most for The Gentlemen ransomware ecosystem; essentially none for Iran**. The Gentlemen claimed Veradigm on its leak site on **5 September** and says it possesses about **3.5 million patient records**, but that number remains attacker-supplied and unverified. Veradigm itself has not attributed the incident. ([BleepingComputer][1])
+
+The competing explanation is therefore straightforward cybercrime and currently fits the evidence best. The Gentlemen is a broad, opportunistic extortion operation with hundreds of claimed victims across many countries and industries. There is no public evidence of Iranian sponsorship, proxy tasking or wartime direction.
+
+**Iran/wartime fit:** weak as an attribution case, but relevant structurally. The interesting feature is the attack path:
+
+**supplier compromise → legitimate vendor credential → authorised healthcare API → bulk patient-data extraction**
+
+rather than:
+
+**attacker → direct breach of healthcare provider.**
+
+That matters because recruitment, affiliate activity, compromised contractors and access brokers can make the ultimate operator much harder to see. Here, however, there is no evidence that this complexity conceals a state sponsor; ordinary ransomware remains the much stronger explanation.
+
+### How this changes the trend since 28 February
+
+It reinforces a second healthcare vulnerability model alongside the operational attacks already tracked:
+
+**direct/disruptive pathway:**
+medical-device or hospital systems → operational interruption → patient-care effects
+
+**indirect/supply-chain pathway:**
+vendor or service-provider identity → shared interface/API → healthcare data across downstream organisations.
+
+That puts Veradigm alongside the recent **C-Track court-platform compromise** as evidence that shared service infrastructure can create cross-organisation exposure without attackers breaching every institution separately. ([Reuters][2])
+
+I also checked a newly reported claim by the pro-Iran **Gorz Rostam** persona that it DDoSed Veolia and the American Water Works Association. At present this remains **actor-side assertion without sufficient independent evidence of essential-service disruption**, so I am **not counting it as an incident**. ([Irancybernews][3])
+
+I found no other newly confirmed cyber-induced outage or sufficiently strong attribution shift in government, defence, energy, water, transport, telecommunications, education or systemically important banking that clears the alert threshold today.
+
+[1]: https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/?utm_source=chatgpt.com "Veradigm warns of patient data breach after ransomware gang claims attack"
+[2]: https://www.reuters.com/legal/litigation/thomson-reuters-detects-cybersecurity-incident-says-unauthorized-party-accessed-2026-09-03/?utm_source=chatgpt.com "Thomson Reuters detects cybersecurity incident, says unauthorized party accessed files"
+[3]: https://irancybernews.org/en/gorz-rostam-hacking-group-targeted-us-water-infrastructure/?utm_source=chatgpt.com "Gorz Rostam Hacking Group Targeted US Water Infrastructure – ICNA"
+
+
+20260912:
+
+There is **one credible new development worth adding**, and it is stronger on the **defence reconnaissance / pre-positioning** side than on direct disruption.
+
+### 🇺🇸 United States — defence / naval communications and control systems
+
+Anthropic has disclosed that an **Iran-nexus threat actor** used Claude between **December 2025 and August 2026** to build targeting material against **U.S. naval forces in the region**. The actor assembled ship and aircraft movement data, personnel information, satellite-imagery queries and public sources exposing naval movements, then used the model to research vulnerabilities in **maritime VSAT terminals, Cisco communications equipment and industrial-control products** used in shipboard environments. ([Anthropic][1])
+
+**Operational impact:** **none publicly confirmed.** Anthropic says it disrupted the account and shared intelligence with government authorities. There is no evidence in the disclosure that the actor successfully exploited a U.S. Navy system, degraded communications or altered an operational control process. This is therefore a **reconnaissance and capability-development event**, not a confirmed infrastructure outage. ([Anthropic][1])
+
+**Attribution confidence:** **moderate for an Iran-nexus actor, lower for direct state command.** Anthropic explicitly categorises the operator as Iran-nexus, but does not publicly identify an IRGC unit or other named state organisation for this particular case. That is materially stronger than a Telegram claim, while still short of formal government attribution. ([Anthropic][1])
+
+**Competing explanations:** an independent Iranian operator, contractor, patriotic hacker or state-adjacent actor could produce the same observable activity. The disclosure does not establish whether a government customer specifically tasked the naval work.
+
+**Fit with Iranian methods / wartime incentives:** **strong.** The significant feature is the combination of ordinary OSINT with **specific vulnerability research against communications and ICS components**. It fits Iran’s broader preference for finding comparatively inexpensive technical leverage against a conventionally stronger opponent rather than requiring bespoke zero-days or direct force-on-force parity.
+
+### Why this changes the trend since 28 February
+
+Until now, the strongest infrastructure strand has looked like:
+
+**internet-exposed civilian OT → weak authentication / known vulnerabilities → opportunistic disruption**
+
+across water and energy.
+
+This disclosure adds another layer:
+
+**military OSINT → asset tracking → named equipment families → vulnerability catalogue → potential exploitation planning.**
+
+That means the Iranian-linked ecosystem is not only scanning whatever vulnerable infrastructure happens to be exposed. At least one actor was conducting **target-specific technical reconnaissance against U.S. military systems**, including communications and control technology, during the same war period. ([Anthropic][1])
+
+The important caveat is equally clear: **researching a CVE is not exploiting it**. Nothing currently supports treating this as a Navy compromise.
+
+I also checked the major **Optus outage in Australia on 11 September**, which disrupted voice service across several states and affected emergency-call access. At present there is **no evidence it was a cyberattack**; Optus describes it as a network outage and investigations are ongoing, so I am not adding it to the cyber incident set. ([Reuters][2])
+
+No other newly confirmed cyber-induced disruption or attribution shift in government, healthcare, education, energy, water, transport, telecommunications or systemically important banking clears the notification threshold today.
+
+[1]: https://www.anthropic.com/threat-intelligence-report-september-2026?utm_source=chatgpt.com "Countering misuse of AI: September 2026 / Anthropic \ Anthropic"
+[2]: https://www.reuters.com/world/asia-pacific/australias-optus-apologises-outage-that-disrupted-emergency-calls-2026-09-12/?utm_source=chatgpt.com "Australia's Optus apologises for outage that disrupted emergency calls"
+
+
+20260814:
+
+There is **one meaningful pattern shift worth adding**. It is **not Iran-linked on current evidence**, but it matters to this watch because it shows how rapidly a criminal operator can now create reusable access across education, government and other essential sectors in countries involved in the war.
+
+### 🇺🇸 🇬🇧 🇨🇦 🇫🇷 and others — education / government / healthcare / utilities
+
+GreyNoise disclosed on **9 September 2026** that a likely Russian-speaking operator used hundreds of AI agents to exploit two PaperCut NG/MF vulnerabilities and compromise **at least 440 servers belonging to 395 organisations in 48 countries**. The campaign began on **31 August** and was opportunistic rather than sector-selected. ([greynoise.io][1])
+
+The affected-country distribution is significant for this watch: **98 U.S. victims, 59 UK, 31 French, 24 Canadian, 15 German**, plus smaller numbers across Australia, NATO Europe and other states. The operator harvested credentials at **280 victims**, obtained operating-system or domain secrets from **147**, and reached full domain-administrator control at **12**. ([greynoise.io][1])
+
+**Sector impact:** education dominated with **204 compromised instances**, including seven where domain-admin access was achieved. But the same campaign also penetrated **nine government/public-sector environments, eight healthcare/social-care organisations, 13 manufacturing/industrial/energy/utility organisations, and six financial/insurance organisations**. GreyNoise attributes the education concentration largely to PaperCut’s installed base rather than deliberate targeting. ([greynoise.io][1])
+
+**Operational impact:** there is not yet evidence of widespread public-service outages. The important impact is **access creation and credential theft**. Where the attacker reached domain admin, it used DCSync to extract the organisation’s Active Directory credential database. GreyNoise says it is still unclear whether the actor intends to exploit those accesses directly or **hand them to affiliated actors** for ransomware, data theft or other follow-on activity. ([greynoise.io][1])
+
+**Attribution confidence:** **moderate for a Russian-speaking criminal/operator profile; effectively none for Iran.** GreyNoise describes the actor as likely Russian-speaking and says the campaign looks opportunistic. Its pre-existing country-avoidance list included **Iran itself**, which weighs strongly against reading this as an Iranian-directed campaign. ([greynoise.io][1])
+
+**Competing explanations:** straightforward access brokerage or preparation for ransomware is currently the best fit. There is no evidence of Iranian tasking, and no reason yet to reinterpret the campaign as covert state activity.
+
+### Why it matters to the Iran watch
+
+The meaningful change is the **speed and fungibility of access creation**.
+
+The operator went from an empty workspace to successful remote-code execution against a real victim in **under four hours**, reached its first domain-admin access roughly two hours later, and—once the campaign was running at scale—compromised **11 organisations in 26 seconds**. At one U.S. high school, initial access became full domain-admin control in seven minutes. ([greynoise.io][1])
+
+So the broader environment since **28 February** now has another layer:
+
+**state-linked reconnaissance / OT exploitation**
+
+* **ransomware and access brokers**
+* **AI-assisted mass compromise capable of manufacturing hundreds of downstream footholds almost immediately.**
+
+That matters because the question “who originally penetrated this network?” is becoming even less equivalent to “who ultimately uses the access?” GreyNoise explicitly leaves open whether these compromises will be transferred to other actors. ([greynoise.io][1])
+
+It therefore strengthens the part of the model you have been watching around **recruitment, affiliates and obscured tasking**, without supplying any Iran attribution itself. A state actor does not necessarily need to perform the initial intrusion if a criminal ecosystem can generate privileged access at this scale and speed.
+
+I found **no newly confirmed Iran-linked outage or separate essential-service disruption since the previous check** that clears the alert threshold. The development worth recording today is the emergence of **AI-orchestrated, cross-sector access generation at scale**, not a new Iranian strike.
+
+[GreyNoise — Agents Gone Wild: An AI-Orchestrated Global Campaign Against PaperCut NG/MF](https://www.greynoise.io/blog/ai-orchestrated-campaign-against-papercut-ng-mf)
+
+[1]: https://www.greynoise.io/blog/ai-orchestrated-campaign-against-papercut-ng-mf "Agents Gone Wild: An AI-Orchestrated Global Campaign Against PaperCut NG/MF"
+
