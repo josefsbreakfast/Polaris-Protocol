@@ -1,5 +1,5 @@
 # 🌸 Digitally Women
-**First created:** 2026-09-06 | **Last updated:** 2026-09-07  
+**First created:** 2026-09-06 | **Last updated:** 2026-09-14  
 *Misogyny, digital environments and the institutional systems that are supposed to notice risk before the warning signs become an evidential exhibit.*
 
 ---
@@ -680,6 +680,7 @@ The branch is designed to support both deep research and rapid public-interest s
 > - [♻️ Re: Recommendations](./♻️_Re_Recommendations/README.md) — *recurring safeguards, implementation and institutional learning*
 > - [📖 Previously On The Internet](./📖_Previously_On_The_Internet/README.md) — *terminology and analytical distinctions*
 > - [⚡ Lightning Round Press](./⚡_Lightning_Round_Press/README.md) — *deadline claims, language, questions and source routing*
+> - [🌙 Draining The High Priestess](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🌙_draining_the_high_priestess.md) — *how information systems can extract embodied, tacit and compensatory knowledge faster than they replenish the humans producing it*  
 >
 > 🏮 Return To:
 >
@@ -690,4 +691,4 @@ The branch is designed to support both deep research and rapid public-interest s
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-07_
+_Last updated: 2026-09-14_
