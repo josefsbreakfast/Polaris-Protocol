@@ -1,6 +1,19 @@
 # 🌙 Draining The High Priestess
-**First created:** 2026-09-14 | **Last updated:** 2026-09-14  
+**First created:** 2026-09-14 | **Last updated:** 2026-09-15  
 *How human judgement, culture, adaptation and vulnerability become extractive training surfaces; why marginalisation can become an information subsidy; and why systems that privatise informational gain while socialising depletion are bad cybernetics, bad defence and often bad value for money.*
+
+---
+
+> [!caution] 🔮 Explicit occult history
+> Parts of this node discuss the history of Western occultism and therefore include **explicit references to sex and sexual magic** where they are materially relevant to the history and argument.
+>
+> If you would rather skip that material, avoid:
+> - **🪞 The Vessel Was Never Empty**
+> - **📚 Crowley and the infrastructure of authorship**
+> - **🜂 Reversing The Current**
+> - **💋 An unfortunate but structurally necessary diagram**
+>
+> You can understand the core argument about cybernetics, AI, provenance, extraction, marginalisation and institutional governance without those sections. They are included for readers who are interested because the sexual and gendered material is highly connected to the history of some of the occult systems and artefacts discussed here, and because it is also relevant to the node's wider analysis of **coercive male asymmetry and asymmetric power**.
 
 ---
 
@@ -22,40 +35,6 @@ For some people — including some highly compensating neurodivergent people —
 
 That output is informationally valuable.
 
-### 🌘 The Reversed High Priestess
-
-The reversal sharpens the metaphor. Tarot traditions are not governed by one canonical dictionary, but reversed readings of the High Priestess commonly gather around **blocked intuition, disconnection from inner knowledge, withheld or obscured information, and difficulty hearing the signal through noise**.
-
-Polaris uses that reversal materially rather than mystically.
-
-If the upright High Priestess represents compressed inference becoming available as apparently effortless insight, the reversed High Priestess asks what happens when the conditions producing that insight are repeatedly exploited:
-
-```text
-use the judgement
-→ demand the explanation
-→ extract the correction
-→ provoke another response
-→ observe the adaptation
-→ extract again
-→ overload the source
-→ degrade or block the signal
-```
-
-The resource is not infinite. Repeated extraction can consume the attention, trust, health, executive capacity and felt safety required for the source to keep producing high-quality information. The person may become more guarded, less spontaneous, less able to access previously rapid judgements, unwilling to volunteer insight, or simply too exhausted to participate.
-
-> **Use the High Priestess too much, exploit what she knows without protecting the conditions that let her know it, and eventually the knowledge becomes blocked or lost.**
-
-That is not an occult claim. It is an information-ecology claim.
-
-And it creates an immediate public-policy contradiction. Institutions cannot repeatedly externalise the cost of extraction onto a population and then complain, as though confronting an unrelated mystery, about burnout, withdrawal from work, reduced participation, ill-health, economic inactivity or productivity failure.
-
-The reversal therefore gives this node its full loop:
-
-**upright:** valuable compressed signal.
-
-**reversed:** the source has been overused, the signal is impaired, and the system asks why output fell.
-
-The danger begins when institutions learn to value the output while ignoring the cost of producing — and preserving — it.
 
 This node examines that danger as a cybernetic problem: extraction, feedback, provenance, correction, depletion, incentive design and social cost.
 
@@ -66,6 +45,469 @@ The High Priestess is therefore not secretly a card for one unusually informatio
 The question here is structural:
 
 > **What happens when systems become increasingly good at extracting compressed human inference, while remaining comparatively poor at tracing where it came from, correcting it when wrong, compensating the source, or accounting for the damage caused by repeated extraction?**
+
+---
+
+
+## 🔑 Before The Priestess Was Hidden, The Popess Had An Office
+
+The modern High Priestess is already a provenance problem.
+
+Tarot did not begin as an occult scripture. The earliest documented *trionfi* packs belong to fifteenth-century northern Italian court culture: playing cards with additional allegorical trumps, drawing on an existing visual world of emperors, popes, virtues, Fortune, Death, judgement, triumphal processions and sacred representation. The occult antiquity later claimed for tarot was itself a reconstruction.
+
+That matters here because the card now called **The High Priestess** did not begin as an abstract symbol of feminine intuition.
+
+She was **La Papesse — the Popess**.
+
+### 🔑 La Papesse — knowledge with jurisdiction
+
+Some early versions give the woman unmistakably papal insignia. The question is therefore not merely:
+
+> **What does she know?**
+
+It is:
+
+> **What office is she occupying, and who is allowed to recognise her authority?**
+
+The later Pope Joan tradition sharpened that problem. In post-Reformation contexts, the legendary woman who supposedly entered the papacy while passing as a man could function as anti-papal polemic. Whatever one makes of the legend historically, its gender logic is revealing: the system has already accepted the office-holder's apparent competence. The scandal arrives when the office-holder is revealed to be a woman.
+
+The disqualifying information is not necessarily incompetence.
+
+It is embodiment.
+
+### 🔥 Sister Manfreda — the possible Visconti memory
+
+Gertrude Moakley proposed that the Visconti-Sforza Papess may depict **Sister Manfreda da Pirovano**, an Umiliata nun and relative of the Visconti family associated with the Guglielmite movement in Milan. The identification is influential rather than uncontested, and should be treated as an interpretation rather than settled fact.
+
+The underlying history is sufficiently striking without pretending certainty about the card.
+
+The followers of Guglielma of Bohemia came to understand her as a manifestation of the Holy Spirit and anticipated a transformed church. In the inquisitorial record, Manfreda appears in a movement in which female priestly and papal authority was not merely imagined as metaphor. She was described as pope and vicar of Christ; she celebrated rites; the movement expected a reordered ecclesiastical future. Manfreda was ultimately burned in 1300.
+
+If the Visconti-Sforza Papess does preserve a memory of her, the card carries something sharper than generic feminine mystery:
+
+> **a woman may not merely possess knowledge; she may claim jurisdiction over what the knowledge means.**
+
+That distinction will matter throughout this node.
+
+A system may tolerate women as sources, assistants, muses, scribes, illustrators, annotators, moderators, carers and feedback providers more readily than it tolerates women as **authorities over the use of what they produced**.
+
+The Popess has the keys.
+
+The later information economy may prefer the information without the key-holder.
+
+---
+
+## 🌙 Rider–Waite–Smith — A Composite Information Object
+
+By 1909–1910, Arthur Edward Waite and Pamela Colman Smith transformed the Papess into the modern **High Priestess**.
+
+The resulting image is not one clean ancient tradition transmitted intact.
+
+It is a synthesis.
+
+Smith's card places the Priestess between the black and white pillars marked **B** and **J**, behind a veil patterned with palms and pomegranates, with a crescent moon at her feet, a horned lunar crown, a cross at her breast and a partly concealed scroll marked **TORA**.
+
+Waite's own description moves freely through:
+
+- the Temple;
+- Tora / law;
+- Isis;
+- the spiritual Bride and Mother;
+- lunar reflection;
+- the **Shekinah**;
+- Binah and Malkuth;
+- hidden and revealed meaning.
+
+The card therefore performs, in miniature, what late-Victorian and Edwardian Western occultism repeatedly did at scale:
+
+```text
+Jewish material
++ Christian material
++ Egyptian material
++ classical material
++ Masonic / Solomonic material
++ occult reconstruction
++ contemporary artistic production
+→ newly authoritative synthesis
+```
+
+This is not an accusation that cultural synthesis is inherently illegitimate. Human cultures borrow, translate, combine and reinterpret constantly.
+
+The governance questions are:
+
+> **Who gets extracted from? Who gets credited? Who controls the synthesis? What provenance survives? And who becomes authoritative after the recombination?**
+
+### 🏺 Egypt enters the room
+
+The Egyptian layer belongs to a specific historical environment.
+
+British Egyptology and Egyptomania expanded alongside imperial power, collecting, archaeology, biblical scholarship, comparative religion and popular spectacle. Late-Victorian occult organisations were working inside that environment. The Hermetic Order of the Golden Dawn and its descendants made extensive use of Egyptianising symbolism, often through highly selective, exoticised and reconstructed versions of ancient Egyptian religion.
+
+Or, less politely:
+
+> **OH MY GOD THE AFRICANS HAD CIVILISATION BEFORE THE GREEKS. HOW DO WE INTEGRATE THIS?**
+
+Mostly badly.
+
+The point is not that every Egyptological or occult engagement was identical, cynical or devoid of genuine scholarship. It is that European institutions were simultaneously discovering, admiring, classifying, possessing and re-authorising non-European antiquity inside an imperial knowledge system.
+
+That is a provenance problem.
+
+It is therefore extremely appropriate that the High Priestess — a symbol now used here to think about extracted knowledge — is herself a composite produced through centuries of cultural extraction, reinterpretation and re-authorisation.
+
+### ✡️ Shekhinah — the presence matters
+
+Waite explicitly identifies his High Priestess with **Shekinah**, the indwelling divine presence, while translating Jewish mystical material through his own Hermetic-Christian occult framework.
+
+That distinction matters.
+
+This node is **not** claiming that Waite's Kabbalistic synthesis is equivalent to Jewish Kabbalah, nor that one universal gender diagram can be extracted from a diverse religious tradition. Western ceremonial occultists borrowed, Christianised, reorganised and sometimes badly misunderstood Jewish mystical concepts. Their system is historical evidence about **their system**.
+
+But the Shekhinah correspondence gives this node a useful thought experiment:
+
+> **What if some information cannot be separated cleanly from the presence in which it dwells?**
+
+Embodied knowledge is not merely a detachable answer.
+
+It may depend upon:
+
+- memory;
+- relationship;
+- context;
+- safety;
+- culture;
+- sensory experience;
+- social position;
+- accumulated correction;
+- the continuing capacity of the knower to mediate what they know.
+
+Extract the proposition and you may preserve something valuable.
+
+You have not necessarily preserved the whole intelligence that produced it.
+
+### ⚖️ Between Boaz and Jachin — the third thing is judgement
+
+The High Priestess sits between opposed pillars.
+
+Modern readings commonly make those pillars carry dualities: light and dark, active and receptive, establishment and strength, positive and negative, masculine and feminine.
+
+Polaris is less interested in declaring which fixed list is metaphysically correct than in the **architecture**.
+
+She does not abolish either pillar.
+
+She sits between them.
+
+She mediates.
+
+That gives the card a cybernetic function:
+
+```text
+state A
+↘
+  comparison → context → judgement
+↗
+state B
+```
+
+The Priestess is therefore not simply another store of data.
+
+She is the process capable of **holding difference without prematurely collapsing it**.
+
+For governance, that means:
+
+- capability **and** restraint;
+- security **and** liberty;
+- commercial value **and** social cost;
+- secrecy **and** correction;
+- machine inference **and** embodied judgement;
+- acceleration **and** replenishment.
+
+The adult task is not always to pick one pillar and smash the other.
+
+Someone has to sit between them and choose.
+
+### 🗝️ Veil, law and access control
+
+The veil is not an engineering defect.
+
+The scroll is partly covered.
+
+The Priestess controls a threshold.
+
+This is a useful corrective to a technological culture in which frictionless access can become an unquestioned good.
+
+The High Priestess suggests something different:
+
+> **Wisdom includes knowing what should remain behind the veil, who should possess the keys, what law governs access, and when the threshold should open.**
+
+That is not anti-information.
+
+That is information governance.
+
+---
+
+## 🎨 The Woman Who Made The Image
+
+There is a further provenance problem hiding in plain sight.
+
+Pamela Colman Smith created the artwork for all seventy-eight cards of the deck. Waite supplied the occult programme and detailed guidance particularly for the Major Arcana; Smith's visual imagination was indispensable to the resulting object, and her fully illustrated Minor Arcana became one of the deck's defining innovations.
+
+Yet for decades the deck was routinely called **Rider–Waite**:
+
+```text
+male occult authority
++ female artistic production
++ male publisher
+→ cultural object remembered primarily through male names
+```
+
+Smith herself described the commission as a large task for very little payment. Neither she nor Waite received the sort of continuing royalty stream that the deck's later cultural dominance might suggest, but the naming asymmetry is still revealing: Smith's production could become infrastructural while her authorship became comparatively easy to omit.
+
+That is not a side anecdote.
+
+It is the node in miniature.
+
+> **The system can depend upon a woman's production while remembering the male authority more clearly than the woman who made the thing legible.**
+
+The woman is permitted to produce.
+
+The resulting system becomes authoritative.
+
+Her contribution becomes background infrastructure.
+
+---
+
+## 🪞 The Vessel Was Never Empty
+
+A great deal of Western esoteric writing gendered cosmological processes with spectacular confidence.
+
+The details vary across Kabbalistic, Hermetic, alchemical, magical and later occult systems, and this node is not treating them as one doctrine. For the present thought experiment, the recurring schematic form is enough:
+
+```text
+projective / generative force
+→ receptive / containing principle
+→ manifestation
+```
+
+In heavily gender-essentialist versions, this becomes:
+
+```text
+masculine gives
+→ feminine receives
+→ form / life / manifestation emerges
+```
+
+The historical irony is that the people writing these systems could simultaneously depend upon women for artistic, scribal, editorial, domestic, organisational, sexual, emotional and intellectual labour while continuing to describe authority in overwhelmingly masculine terms.
+
+The metaphysics knew the vessel mattered.
+
+The social order was rather less enthusiastic about following the implication through.
+
+### 📚 Crowley and the infrastructure of authorship
+
+Aleister Crowley is useful here precisely because the archival record is messier than the mythology.
+
+It would be wrong to claim that all or even most of his books were secretly written by women. They were not.
+
+It is nevertheless documented that some important work depended materially on women's scribal labour. The Warburg Institute's Yorke Collection records the manuscript of material later associated with *Magick in Theory and Practice* as dictated by Crowley to **Mary Desti**, while the surviving manuscript is in the hand of **Leila Waddell**. Other manuscripts preserve annotations by **Leah Hirsig**.
+
+That gives us a narrower and defensible pattern:
+
+```text
+male named author
+→ female transcription / annotation / production infrastructure
+→ publishable or transmissible work
+→ male authorship remains culturally dominant
+```
+
+This is not uniquely occult.
+
+It is a familiar social pattern.
+
+That is exactly why it matters.
+
+### 🧿 Receptivity is not powerlessness
+
+The gender-essentialist diagram contains its own contradiction.
+
+A vessel that genuinely transforms what enters it is not passive.
+
+Reception can be:
+
+- selective;
+- catalytic;
+- concentrating;
+- interpretative;
+- generative;
+- transformative.
+
+The High Priestess herself demonstrates this. She appears still. She receives. She reflects.
+
+She also guards the threshold, carries the law and decides what becomes legible.
+
+> **The mistake is assuming that the vessel is passive merely because it receives.**
+
+---
+
+## 🜂 Reversing The Current
+
+This is where the occult thought experiment becomes useful for AI.
+
+Machine learning can make reception itself an operation of capability acquisition.
+
+```text
+human production
+→ computational reception
+→ statistical transformation
+→ accumulated capability
+→ scalable output
+```
+
+The machine is, in one sense, the vessel.
+
+But the material poured into that vessel includes:
+
+- language;
+- art;
+- code;
+- judgement;
+- preference;
+- correction;
+- classification;
+- explanation;
+- care language;
+- teaching;
+- cultural memory;
+- social navigation;
+- adaptive strategies;
+- professional expertise;
+- accumulated human error and repair.
+
+The old gendered diagram therefore begins to invert.
+
+Historically feminised and marginalised human production can become **input material**, while the computational system occupies the receptive position.
+
+Then the resulting capability is controlled through institutions whose ownership, executive leadership, capital allocation and security relationships remain disproportionately male.
+
+A deliberately simplified political-economy diagram therefore looks like:
+
+```text
+embodied human production
+→ machine as receptive vessel
+→ accumulated capability
+→ institutional ownership and deployment
+```
+
+The people historically imagined as the vessel have become, in part, **what is poured into the vessel**.
+
+### 🫗 Extraction through reception
+
+This is the important conceptual move.
+
+The extractor does not always look active.
+
+A system can accumulate power by **receiving**:
+
+- receiving texts;
+- receiving images;
+- receiving corrections;
+- receiving preference labels;
+- receiving user interaction;
+- receiving behavioural traces;
+- receiving expert demonstrations;
+- receiving the products of cultures it did not create.
+
+Reception can therefore be an extraction mechanism.
+
+That is particularly important when the source paid the cost of producing the information long before the extractor arrived.
+
+The source learned.
+
+The source adapted.
+
+The source survived.
+
+The source made art.
+
+The source built a professional judgement.
+
+The system receives the output.
+
+The system's capability improves.
+
+The historical cost does not appear on the system's balance sheet.
+
+### 💋 An unfortunate but structurally necessary diagram
+
+At this point the Edwardian sex-magical symbolism becomes impossible to avoid.
+
+Some Western esoteric sexual systems complicated the crude equation **masculine = active / feminine = receptive** by treating reception itself as an operation through which force could be acquired, concentrated or transformed. Crowley's practices and writings are useful here as historical material, but they should not be used as a simple diagnostic of his sexual orientation: male homosexual acts were criminalised in Britain during his lifetime, his magical writing instrumentalised sex for ritual purposes, and biography, desire and magical theory cannot simply be collapsed into one another.
+
+For the purposes of the symbolic thought experiment, however, the inversion is clear:
+
+> **the receiving position can be the position in which power accumulates.**
+
+Which means that if embodied women and other marginalised humans are supplying culturally and cognitively expensive material into an industrial receptive apparatus, then:
+
+> **For the purposes of this particular Edwardian sex-magical diagram, women collectively have the enormous metaphysical dick.**
+
+This is not, regrettably, decorative vulgarity.
+
+It follows from the model.
+
+So yes:
+
+> **women are essentially pegging all the AI guys.**
+
+The joke is funny because the power diagram has reversed.
+
+The machine receives.
+
+The machine accumulates.
+
+The institutions controlling the machine then attempt to claim the resulting capability as though the intelligence entered the vessel from nowhere.
+
+It did not.
+
+---
+
+## 🌘 The Reversed High Priestess — Use Too Much, Lose The Signal
+
+The reversal now has several meanings at once.
+
+It can describe:
+
+- blocked or inaccessible intuition;
+- degraded connection to embodied knowledge;
+- information stripped from provenance;
+- the mediator exhausted by repeated demands;
+- a system that has removed the veil and mistaken access for wisdom;
+- a source population withdrawing because participation has become too costly.
+
+The extraction sequence is therefore:
+
+```text
+find a valuable source
+→ make access easier
+→ extract the judgement
+→ extract the explanation
+→ extract the correction
+→ extract the adaptation
+→ treat continuing availability as normal
+→ deplete the source
+→ observe depletion
+→ classify depletion as another useful signal
+```
+
+The extractor can improve at every stage.
+
+The source cannot.
+
+> **You wanted infinite access to the High Priestess. You removed the veil, extracted the knowledge, eliminated the friction and automated the mediation — then discovered that the boundary was part of the intelligence.**
+
+That is the title of the node.
+
+**Draining the High Priestess** is what happens when a system confuses access to an output with ownership of the conditions that made the output possible.
 
 ---
 
@@ -1639,9 +2081,25 @@ If the source then burns out, leaves work, requires support, withdraws from inst
 
 > **You cannot drain the High Priestess and then complain that she has stopped going to work.**
 
-And if the machine later observes her depletion and concludes that depletion is simply what she is like:
+The older card gives us the final governance lesson.
+
+She sits between pillars because intelligence requires **comparison and choice**.
+
+She guards a veil because **access is not entitlement**.
+
+She carries law because **information exists within constraint**.
+
+She is associated with indwelling presence because **the source is not always separable from the context that gives the information meaning**.
+
+And she was once the Popess because the oldest political question in the image is not simply whether a woman may know.
+
+It is whether she may possess **authority over what she knows**.
+
+If the machine later observes her depletion and concludes that depletion is simply what she is like:
 
 **mate. You did that.**
+
+And if the AI men did not want the metaphysical consequences of draining the divine feminine energy of the Western world, they should perhaps have read their own fucking books.
 
 ---
 
@@ -1735,6 +2193,9 @@ Then behave like a grown-up.
 - [Reuters: “Germany says halting AI development not viable as Europe weighs safety of new tech”](https://www.reuters.com/legal/litigation/germany-says-halting-ai-development-not-viable-calls-us-china-involvement-2026-09-14/) — *European calls for continued development alongside international safety cooperation involving the US and China.*
 - [Reuters: “AI boom poses new financial stability risks, BIS head says”](https://www.reuters.com/business/finance/ai-boom-poses-new-financial-stability-risks-bis-head-says-2026-09-10/) — *AI investment, debt structures and emerging financial-stability concerns.*
 - [Reuters: “EU watchdog flags risk of abrupt market correction”](https://www.reuters.com/legal/government/eu-watchdog-flags-risk-abrupt-market-correction-2026-09-10/) — *ESMA warning on cyber, AI-related operational risk and wider market vulnerability.*
+- [Bank for International Settlements: “The financial stability implications of artificial intelligence and digital finance”](https://www.bis.org/speeches/20260126-financial-stability-implications-artificial-intelligence-and-digital-finance) — *operational dependencies, cyber attacks, concentrated providers and propagation of stress.*
+- [Bank for International Settlements: “Artificial intelligence, growth and financial stability: challenges for central banks”](https://www.bis.org/speeches/20260910-artificial-intelligence-growth-and-financial-stability-challenges-central-banks) — *September 2026 discussion of AI investment concentration, cyber asymmetry and financial-stability uncertainty.*
+- [European Supervisory Authorities / ESMA: “The ESAs support ESRB warning on systemic cyber risks from frontier AI models”](https://www.esma.europa.eu/press-news/esma-news/esas-support-esrb-warning-systemic-cyber-risks-frontier-ai-models) — *July 2026 warning that frontier AI can increase systemic cyber risk to financial entities.*
 
 - [Pew Research Center: “Online Harassment”](https://www.pewresearch.org/internet/2014/10/22/online-harassment/) — *2014 evidence on online harassment, with young women particularly exposed to sexual harassment and stalking and gaming perceived as especially welcoming to men.*
 - [Cambridge University Press / Hypatia: “Just Asking! On ‘Friendly’ Forms of Harassment”](https://www.cambridge.org/core/journals/hypatia/article/just-asking-on-friendly-forms-of-harassment/345AFE3DB1DC6F841FB8B1B5D865635A) — *Gamergate as large-scale harassment and misogynistic backlash in gaming culture.*
@@ -1742,9 +2203,25 @@ Then behave like a grown-up.
 - [RAND: “Sexual Assault and Sexual Harassment in the U.S. Military: A Review of Top-Line Findings from the 2014 RAND Military Workplace Study”](https://www.rand.org/pubs/presentations/PT137.html) — *large-scale DoD-commissioned assessment of sexual assault, sexual harassment and gender discrimination in the US military.*
 - [Center for Genetics and Society / New York Times: “Jeffrey Epstein Hoped to Seed Human Race With His DNA”](https://www.geneticsandsociety.org/article/jeffrey-epstein-hoped-seed-human-race-his-dna) — *reporting on Epstein’s transhumanist and eugenic interests; contextual evidence, not evidence of participation by surrounding technology or research actors.*
 
+
+### Tarot, occult history and provenance of the High Priestess
+
+- [National Gallery of Art: “Ludus triumphorum: An Investigation into the Origin of the Visconti-Sforza Tarot Cards and Their Iconography”](https://www.nga.gov/about/annual-reports/center-46/paolo-plebani) — *fifteenth-century trionfi as courtly allegorical image systems; useful corrective to claims of primordial occult origins.*
+- [Metropolitan Museum of Art: “Before Fortune-Telling: The History and Structure of Tarot Cards”](https://www.metmuseum.org/perspectives/tarot-2) — *early tarot as fifteenth-century playing-card culture rather than an original occult scripture.*
+- [Gertrude Moakley: *The Tarot Cards Painted by Bonifacio Bembo for the Visconti-Sforza Family*](https://search.worldcat.org/title/460200678) — *1966 iconographic study proposing Sister Manfreda as the Visconti-Sforza Papess.*
+- [Luisa Muraro: *Guglielma e Maifreda*](https://www.libreriadelledonne.it/wp-content/uploads/2015/01/Guglielma_e_Maifreda_Luisa_Muraro.pdf) — *study of Guglielma, Manfreda and the 1300 inquisitorial proceedings.*
+- [A. E. Waite: *The Pictorial Key to the Tarot* — High Priestess](https://en.wikisource.org/wiki/Page:The_Illustrated_Key_to_the_Tarot.djvu/46) — *primary source for Tora, pillars, veil, Isis, lunar imagery and Waite's explicit Shekinah correspondence.*
+- [A. E. Waite: *The Pictorial Key to the Tarot*](https://en.wikisource.org/wiki/The_Pictorial_Key_to_the_Tarot) — *1910 text published with seventy-eight designs by Pamela Colman Smith.*
+- [University of California, Los Angeles Encyclopedia of Egyptology: “British Egyptology (1882–1914)”](https://escholarship.org/uc/item/7nt9d23q) — *Egyptology, empire and institutional knowledge production during the period surrounding the Golden Dawn and RWS deck.*
+- [University of California, Los Angeles Encyclopedia of Egyptology: “British Egyptology (1822–1882)”](https://escholarship.org/uc/item/07v2d8vk) — *earlier colonial, collecting and scholarly infrastructure behind Victorian Egyptology and Egyptomania.*
+- [University of Chicago Press: Alex Owen, *The Place of Enchantment*](https://press.uchicago.edu/ucp/books/book/chicago/P/bo3629191.html) — *late-Victorian and Edwardian British occultism as part of modern intellectual culture, including Golden Dawn and Crowley.*
+- [Warburg Institute: “Yorke Collection Microfilm Index”](https://warburg.sas.ac.uk/sites/default/files/file-uploads/2021-08/Yorke%20Microfilm%20Index.pdf) — *archival record of Crowley manuscripts, including material dictated to Mary Desti, surviving in Leila Waddell's hand, and annotations by Leah Hirsig.*
+- [Battersea Society: “Pamela Colman Smith and the Rider Waite Tarot”](https://www.batterseasociety.org.uk/heritage-blog/kbsfyxyrr5mpafff74rt3abkx26nng) — *Smith's artistic role, collaboration with Waite and lack of royalties; useful biographical context.*
+- [Spiritual England: “Pamela Colman Smith — The Queen of Tarot”](https://www.spiritualengland.org.uk/post/inspiring-people-pamela-coleman-smith) — *records Smith's description of the commission as a large task for very small payment and the long omission of her name from the deck's common title.*
+
 ### High Priestess visual grammar
 
-- [Rider-Waite: “The High Priestess – Rider-Waite Tarot Card Meaning”](https://rider-waite.com/symbolism/pictorial-key-02/) — *B/J pillars, veil, hidden and revealed knowledge; visual anchor for the node. Reversed meanings vary by tarot tradition, so the node uses blocked/disconnected intuition as symbolic grammar rather than claiming a single canonical reading.*
+- [A. E. Waite / Wikisource: “The High Priestess”](https://en.wikisource.org/wiki/Page:The_Illustrated_Key_to_the_Tarot.djvu/46) — *primary visual and textual anchor: B/J pillars, veil, Tora, lunar imagery, Isis and Shekinah. Reversed meanings vary by tarot tradition, so Polaris uses reversal as symbolic grammar rather than claiming a single canonical dictionary.*
 
 ---
 
@@ -1754,7 +2231,7 @@ Then behave like a grown-up.
 ---
 
 ## ✨ Stardust
-cybernetics, embodied information ecology, human feedback, rl from human feedback, provenance, type 1 processing, compensatory cognition, extraction incentives, correction debt, social cost, productivity externalities, survivor feedback, defence data, value for money, cambridge analytica, information operations, cyber resilience, ai regulation, allied trust, gamergate, misogyny, women in tech, defence culture, biological essentialism, threat culture, marginalisation, information subsidy, cultural extraction, epistemic extraction, adaptive extraction, soft power, seed funding, recipient knowledge, extractive political economy, survivor knowledge, due diligence
+cybernetics, embodied information ecology, provenance, human feedback, marginalisation as information subsidy, extractive political economy, high priestess, occult provenance, correction debt, cyber resilience
 
 ---
 
@@ -1780,4 +2257,4 @@ It maps the cybernetic and economic risks that arise when institutions extract v
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-14_
+_Last updated: 2026-09-15_
