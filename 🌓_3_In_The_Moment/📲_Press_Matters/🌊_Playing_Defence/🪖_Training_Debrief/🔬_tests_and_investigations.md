@@ -1,6 +1,5 @@
 # 🔬 Tests And Investigations
-
-**First created:** 2026-09-07 | **Last updated:** 2026-09-07
+**First created:** 2026-09-07 | **Last updated:** 2026-09-14  
 *What would we actually need to know before diagnosing Britain's current Army training problem?*
 
 ---
@@ -9,23 +8,23 @@
 
 The presenting complaint is straightforward enough:
 
-> The British Army has reportedly been required to find approximately £30 million in savings, with significant collective training activity among the things affected.
+> The British Army has reportedly been required to find approximately **£30 million in savings**, with significant collective-training activity among the things affected.
 
 The history is considerably less straightforward.
 
 Britain has spent decades changing:
 
-* force structure;
-* strategic assumptions;
-* personnel numbers;
-* training models;
-* estate;
-* equipment;
-* readiness requirements;
-* alliance commitments;
-* technology;
-* procurement;
-* deployment patterns.
+- force structure;
+- strategic assumptions;
+- personnel numbers;
+- training models;
+- estate;
+- equipment;
+- readiness requirements;
+- alliance commitments;
+- technology;
+- procurement;
+- deployment patterns.
 
 The temptation is therefore to diagnose immediately.
 
@@ -61,6 +60,10 @@ The useful question is:
 
 This node is the investigation request.
 
+It does not assume that the reported £30 million pressure created a £30 million capability loss, that every exercise change was financially driven, that every Service was treated identically, or that every absence in the public record represents an absence inside Defence.
+
+The job is to reconstruct the system carefully enough that those propositions can be tested.
+
 ---
 
 ## 🩸 1. Confirm the presenting complaint
@@ -69,22 +72,21 @@ Before investigating causes, establish precisely what has happened.
 
 We need to know:
 
-* the exact savings requirement;
-* who received it;
-* when;
-* whether £30 million is the final figure or an approximate reporting figure;
-* the financial year affected;
-* which budget or budgets it applies to;
-* which activities have been cancelled;
-* which have been postponed;
-* which have been reduced;
-* which have been protected;
-* what Defence means by **essential**;
-* what Defence means by **non-essential**;
-* what Defence means by **collective training**;
-* whether the restriction applies Army-wide;
-* whether exemptions exist;
-* how long the restriction is expected to remain.
+- the exact savings requirement;
+- whether approximately £30 million is the final figure or a reporting approximation;
+- which organisation or command received the requirement;
+- when it was received;
+- the financial year affected;
+- which budget or budgets it applies to;
+- which activities have been cancelled;
+- which have been postponed;
+- which have been reduced;
+- which have been redesigned;
+- which have been protected;
+- what Defence means in this context by **essential**, **non-essential** and **collective training**;
+- whether the restriction applies Army-wide;
+- whether exemptions exist;
+- how long the restriction is expected to remain.
 
 These distinctions matter.
 
@@ -92,9 +94,25 @@ These distinctions matter.
 
 **Reduced** is not **eliminated**.
 
-**Training** is not one homogeneous activity.
+**Redesigned** is not necessarily **degraded**.
 
-And:
+And **training** is not one homogeneous activity.
+
+The immediate evidence base should therefore distinguish:
+
+```text
+reported saving
+      ↓
+specific activity changed
+      ↓
+training function affected
+      ↓
+mitigation or replacement
+      ↓
+readiness consequence
+```
+
+Do not jump directly from the first box to the last.
 
 > **£30 million of expenditure does not necessarily equal £30 million of capability.**
 
@@ -112,9 +130,7 @@ But:
 
 > **How did the decision actually travel through the system?**
 
-We need the earliest identifiable point at which somebody knew that the available financial settlement might affect collective training.
-
-Then work forwards.
+Identify the earliest point at which the affordability position could reasonably have affected collective training, then work forwards.
 
 ```mermaid
 flowchart TD
@@ -122,25 +138,26 @@ flowchart TD
     B --> C["Service-level allocation"]
     C --> D["Army affordability position"]
     D --> E["Possible savings identified"]
-    E --> F["Collective training identified as vulnerable"]
-    F --> G["Operational / readiness risk assessed"]
+    E --> F["Training activity considered"]
+    F --> G["Capability / readiness effect assessed"]
     G --> H["Decision escalated or retained"]
-    H --> I["Savings decision approved"]
+    H --> I["Risk accepted / mitigated"]
     I --> J["Training activity changed"]
 ```
 
-For every stage, ask:
+For every stage ask:
 
-* who owned the decision;
-* who advised;
-* who was consulted;
-* what alternatives were presented;
-* what risks were identified;
-* whether the decision was escalated;
-* whether ministers were informed;
-* whether Treasury was involved;
-* whether additional funding was requested;
-* who formally accepted the resulting risk.
+- who owned the decision;
+- who advised;
+- who was consulted;
+- what alternatives were presented;
+- what risks were identified;
+- whether the decision was escalated;
+- whether ministers were informed;
+- whether HM Treasury was involved;
+- whether additional funding or flexibility was requested;
+- what mitigation was proposed;
+- who had authority to accept the resulting risk.
 
 The important distinction is between:
 
@@ -148,46 +165,46 @@ The important distinction is between:
 
 and:
 
-> **the person who created the financial conditions requiring the saving**
+> **the person who created the financial conditions requiring a saving**
 
 and:
 
-> **the person who accepted the consequence.**
+> **the person who accepted the capability consequence.**
 
-Those may be three different people.
+Those may be different people.
 
 ---
 
 ## 🧿 3. Establish who could reasonably have known what, when
 
-The current political chronology needs particular care.
+Political chronology needs particular care.
 
-Relevant offices and figures include:
+Relevant offices and institutions may include:
 
-* Defence Secretary;
-* Armed Forces Minister;
-* Chancellor;
-* Prime Minister;
-* Chief of the Defence Staff;
-* Chief of the General Staff;
-* Army Command;
-* MOD Permanent Secretary;
-* MOD finance;
-* Treasury;
-* relevant parliamentary committees.
+- Secretary of State for Defence;
+- Minister for the Armed Forces;
+- Chancellor of the Exchequer;
+- Prime Minister;
+- Chief of the Defence Staff;
+- Chief of the General Staff;
+- Army Command;
+- MOD Permanent Secretary;
+- MOD finance functions;
+- HM Treasury;
+- relevant parliamentary committees.
 
-For each:
+For each, distinguish institutional possession from personal knowledge.
 
-| Question                                     | Evidence needed                                        |
-| -------------------------------------------- | ------------------------------------------------------ |
-| When could they first reasonably have known? | briefings, PQs, statements, published plans, reporting |
-| Did their office possess the information?    | departmental chronology                                |
-| Did they personally receive it?              | only claim where evidenced                             |
-| Could they alter the decision?               | statutory/institutional responsibility                 |
-| Did they seek alternatives?                  | correspondence, statements, parliamentary answers      |
-| Did they accept a readiness risk?            | risk documentation or explicit ministerial answer      |
+| Question | Evidence needed |
+| --- | --- |
+| When could the office first reasonably have known? | briefings, published plans, PQs, statements, reporting |
+| Did the organisation possess the information? | departmental chronology |
+| Did the individual personally receive it? | claim only where evidenced |
+| What authority did they possess? | formal responsibilities and delegations |
+| Were alternatives sought? | correspondence, answers, minutes or statements where public |
+| Was capability or readiness risk accepted? | risk documentation or explicit accountable answer |
 
-This avoids the extremely common mistake of treating:
+This avoids treating:
 
 > **was in office**
 
@@ -195,7 +212,7 @@ as equivalent to:
 
 > **personally made this decision.**
 
-It also avoids the opposite mistake:
+It also avoids the opposite error:
 
 > **I inherited it, therefore it isn't my problem.**
 
@@ -209,69 +226,69 @@ Government does not stop governing.
 
 “Defence needs to save money” is insufficiently precise.
 
-We need to establish:
+Establish:
 
-* which spending category is constrained;
-* whether this is an in-year pressure;
-* whether the problem concerns RDEL;
-* whether underspends elsewhere can legally or practically be moved;
-* which budgets are ringfenced;
-* which commitments are contractual;
-* which expenditure is politically protected;
-* what Treasury flexibilities exist;
-* what MOD flexibilities exist;
-* what has already been deferred;
-* whether the Army has already exhausted easier savings.
+- which spending category is constrained;
+- whether this is an in-year pressure;
+- whether the relevant pressure sits in resource or capital expenditure;
+- which budgets are delegated;
+- which budgets are ringfenced;
+- what can legally and practically be moved;
+- which commitments are contractual;
+- which expenditure has already been committed;
+- what has already been deferred;
+- whether the Army had already exhausted other savings;
+- what Treasury and MOD flexibilities existed at the relevant time.
 
-The central counterfactual is:
+Do not assume that a large capital programme can simply be raided to fund a smaller resource pressure.
 
-> **If collective training had been protected, where could the £30 million realistically have come from instead?**
+Likewise, do not assume that the existence of contractual commitments proves that training was the only movable line.
 
-If the answer is:
+The counterfactual is:
 
-> nowhere without causing greater damage,
-
-that materially changes the assessment.
+> **If the affected collective training had been protected, where could the required saving realistically have come from instead, and what would the consequence have been?**
 
 If the answer is:
 
-> several alternatives existed but training was easiest to cancel,
+> nowhere without causing greater capability damage,
 
-that also materially changes the assessment.
+that materially changes the diagnosis.
+
+If several lower-cost alternatives existed but training was administratively easiest to stop, that changes it in another direction.
 
 ---
 
 ## 🧮 5. Test whether flexibility became a liability
 
-Training has a dangerous accounting characteristic.
+Training has a potentially dangerous accounting characteristic.
 
-It can often be stopped.
+It can often be changed quickly.
 
-A shipbuilding contract cannot necessarily be stopped next Tuesday.
+A long-term equipment programme may have contractual, industrial or strategic constraints.
 
-A submarine programme cannot casually be paused for three months.
+Personnel expenditure may be difficult to alter in-year.
 
-Some equipment payments are already committed.
-
-An exercise can disappear from the calendar.
+An exercise can sometimes disappear from the calendar.
 
 That creates a hypothesis worth testing:
 
 ```mermaid
 flowchart LR
     A["Financial pressure"] --> B{"What can move quickly?"}
-    B --> C["Contractual programme\nHard to move"]
-    B --> D["Strategic programme\nProtected"]
-    B --> E["Personnel\nPolitically / legally difficult"]
-    B --> F["Training activity\nSchedulable"]
+    B --> C["Committed programme"]
+    B --> D["Protected strategic activity"]
+    B --> E["Personnel"]
+    B --> F["Schedulable training activity"]
     F --> G["Immediate saving"]
 ```
 
 The question is:
 
-> **Was training selected because it produced the least capability damage, or because it produced the fastest administratively available saving?**
+> **Was training selected because changing it produced the least capability damage, or because it produced the fastest administratively available saving?**
 
-Those are not the same optimisation problem.
+Those are different optimisation problems.
+
+This remains a hypothesis until the budget architecture and alternatives considered are established.
 
 ---
 
@@ -279,151 +296,134 @@ Those are not the same optimisation problem.
 
 Before asking whether training is adequate, define adequate.
 
-For each relevant formation or capability:
+For each relevant capability or formation establish:
 
-* what individual training is required;
-* what collective training is required;
-* at what scale;
-* how frequently;
-* with which supporting arms;
-* with which equipment;
-* with which allied forces;
-* with which live-fire component;
-* with which synthetic component;
-* what certification or validation is required;
-* what must be repeated to prevent skill fade;
-* what must be changed when doctrine changes.
+- required individual training;
+- required collective training;
+- required scale;
+- required frequency;
+- supporting arms and functions;
+- equipment;
+- live-fire requirement;
+- synthetic component;
+- joint component;
+- allied component;
+- validation or certification requirement;
+- skill-fade assumptions;
+- retraining required after doctrinal or equipment change.
 
-The 2025 Strategic Defence Review matters here because current policy explicitly treats training as part of restoring readiness.
+Current policy matters because the 2025 Strategic Defence Review explicitly treats training as part of restoring warfighting readiness and supports both advanced simulation and necessary live activity.
 
-The investigation therefore needs to compare:
+The investigation therefore compares:
 
 > **training required by the force model**
 
 with:
 
-> **training currently being delivered.**
+> **training actually being delivered.**
 
 Not merely:
 
 > **training delivered this year versus training delivered last year.**
 
-The baseline itself may already be inadequate.
+The historical baseline may itself be inadequate, excessive, differently configured, or designed for another requirement.
 
 ---
 
 ## 🧠 7. Ask what training is trying to produce
 
-This cluster should resist measuring activity before defining the functional output.
+Do not measure activity before defining the output.
 
 The objective is not:
 
 > maximise exercise days.
 
-The objective is something closer to:
+It is closer to:
 
-> **produce formations capable of performing required military functions at the required notice, scale and level of integration.**
+> **produce forces capable of performing required military functions at the required notice, scale, duration and level of integration.**
 
-That means defining readiness in observable terms.
+That means identifying observable outputs such as:
 
-For example:
+- mobilisation;
+- deployability;
+- collective competence;
+- command competence;
+- logistics performance;
+- equipment integration;
+- allied interoperability;
+- operation under degraded communications;
+- adaptation to changed doctrine;
+- casualty management;
+- sustainment;
+- regeneration.
 
-* mobilisation time;
-* deployability;
-* collective competence;
-* command competence;
-* logistics performance;
-* equipment availability;
-* allied interoperability;
-* ability to operate when communications fail;
-* ability to operate without assumed air superiority;
-* casualty management;
-* adaptation to changed doctrine;
-* ability to sustain operations.
+Only once the functional output is clear should measures and KPIs be selected.
 
-Only once the functional output is clear should we decide which KPIs measure it.
-
-Otherwise Defence risks producing beautiful dashboards describing a force that cannot do the thing.
+Otherwise Defence can produce beautiful dashboards describing a force that cannot do the thing.
 
 ---
 
-## 🔭 8. What does “ready” actually mean?
+## 🔭 8. Define readiness before measuring it
 
-This requires several layers.
+Readiness is not one state.
 
-## Individual readiness
+### Individual readiness
 
-Can the person perform their role?
+Can the person perform the required role?
 
-## Team readiness
+### Team readiness
 
 Can people perform together?
 
-## Unit readiness
+### Unit readiness
 
 Can the unit execute its assigned functions?
 
-## Formation readiness
+### Formation readiness
 
-Can larger formations integrate:
+Can larger formations integrate manoeuvre, fires, intelligence, engineering, communications, logistics, medical support and command?
 
-* manoeuvre;
-* fires;
-* intelligence;
-* engineering;
-* communications;
-* logistics;
-* medical support;
-* command?
+### Joint and integrated readiness
 
-## Joint readiness
+Can the required military functions work across Services, commands and domains?
 
-Can the Army operate effectively with:
+### Allied readiness
 
-* RAF;
-* Royal Navy;
-* Strategic Command;
-* cyber;
-* space;
-* intelligence?
+Can Britain operate effectively inside NATO and other coalition structures?
 
-## Allied readiness
+### Sustained readiness
 
-Can Britain actually fight as part of NATO and other coalition structures?
+Can the force continue after the opening phase, rotate, recover and regenerate?
 
-## Sustained readiness
+That final category matters.
 
-Can it do so for longer than the opening phase?
-
-This final category is especially important.
-
-A force can be capable of deploying once without being capable of sustaining a war.
+A force capable of deploying once is not necessarily a force capable of sustaining conflict.
 
 ---
 
 ## 🏋️ 9. Measure collective competence, not attendance
 
-A training metric such as:
+A metric such as:
 
 > X personnel attended Exercise Y
 
 may be administratively useful.
 
-It does not necessarily establish that the intended capability was produced.
+It does not establish that the intended capability was produced.
 
-Better questions include:
+Ask instead:
 
-* What could the formation do before the exercise?
-* What could it do afterwards?
-* Which failures were identified?
-* Were those failures subsequently retested?
-* Did command relationships improve?
-* Did logistics perform?
-* Did communications degrade realistically?
-* Were personnel exposed to useful uncertainty?
-* Were allied systems integrated?
-* Did the exercise reveal equipment problems?
-* Did the exercise change doctrine or procedure?
+- What could the formation do before the activity?
+- What could it do afterwards?
+- Which failures were identified?
+- Were those failures subsequently retested?
+- Did command relationships improve?
+- Did logistics perform?
+- Did communications degrade realistically?
+- Were personnel exposed to useful uncertainty?
+- Were allied or joint systems integrated?
+- Did equipment fail?
+- Did the exercise alter doctrine, procedure or subsequent training?
 
 The purpose of training is partly to discover failure **before an adversary does**.
 
@@ -433,7 +433,7 @@ Sometimes:
 
 > **we found twelve things that broke**
 
-is an excellent training result.
+is an excellent result.
 
 Provided somebody then fixes them.
 
@@ -441,13 +441,9 @@ Provided somebody then fixes them.
 
 ## ⚙️ 10. Test the feedback loop
 
-Akam's Iraq and Afghanistan material gives us a useful benchmark.
+Historical Iraq and Afghanistan material gives a useful benchmark: at its healthiest, operational learning could move rapidly from theatre into training.
 
-At its healthiest, operational learning could move:
-
-> **theatre → instructor → next cohort.**
-
-We need to know what the equivalent loop looks like now.
+The current investigation needs to establish the equivalent loop now.
 
 ```mermaid
 flowchart LR
@@ -459,7 +455,7 @@ flowchart LR
     F --> A
 ```
 
-At every arrow:
+At every arrow ask:
 
 > **How long does this take?**
 
@@ -467,139 +463,185 @@ And:
 
 > **Who can stop it?**
 
-Useful investigations include:
+Investigate:
 
-* lessons-learned systems;
-* exercise after-action reporting;
-* doctrine revision times;
-* instructor feedback;
-* Ukraine lesson integration;
-* NATO lesson integration;
-* course-change authority;
-* classification barriers;
-* procurement barriers;
-* safety bureaucracy;
-* estate limitations.
+- lessons systems;
+- after-action reporting;
+- doctrine-revision times;
+- instructor feedback;
+- incorporation of Ukraine lessons;
+- NATO learning;
+- course-change authority;
+- classification barriers;
+- procurement barriers;
+- safety controls;
+- estate limitations.
 
 The feedback machine is only as fast as its slowest compulsory gate.
 
 ---
 
-## 🎓 11. Instructor capacity
+## 🎓 11. Establish instructor capacity
 
-A training system requires trainers.
+Instructor capacity must be established rather than inferred from overall personnel strength.
 
 Investigate:
 
-* establishment;
-* actual staffing;
-* vacancies;
-* rank distribution;
-* experience;
-* instructor currency;
-* operational experience;
-* retention;
-* posting incentives;
-* prestige;
-* civilian instructors;
-* reservist contribution;
-* allied instructors;
-* contractor dependence.
+- authorised instructor establishment;
+- filled posts;
+- vacancies;
+- Regular, Reserve and FTRS contribution where relevant;
+- civilian and contractor contribution;
+- rank and trade distribution;
+- qualification requirements;
+- operational currency;
+- average tenure;
+- instructor-to-student demand;
+- whether posts are deliberately held vacant;
+- whether instructors are routinely diverted to other tasks;
+- whether shortages are local, trade-specific or systemic.
 
-Akam's OPTAG material gives us a historical warning:
+The historical OPTAG experience provides a warning:
 
 > **expertise does not automatically travel to the place where the organisation most needs it.**
 
-Prestige matters.
+The current question is whether that problem exists now, in what form, and with what consequence.
 
 Career incentives matter.
+
+Prestige matters.
 
 Posting systems matter.
 
 Therefore ask:
 
-> **Are the people Defence most needs teaching currently incentivised to teach?**
+> **Are the people Defence most needs teaching currently able and incentivised to teach?**
 
 ---
 
-## 🧩 12. Personnel: establishment is not availability
+## 🧩 12. Personnel: strength is not availability
 
-Headline Army numbers are not sufficient.
+Use official personnel categories before inventing analytical ones.
 
-We need to distinguish:
+Depending upon the question, relevant published measures may include:
 
-* establishment;
-* trained strength;
-* trade-qualified strength;
-* medically deployable personnel;
-* personnel currently assigned elsewhere;
-* instructors;
-* trainees;
-* personnel on leave;
-* personnel preparing for deployment;
-* personnel recovering from deployment;
-* vacancies in critical trades;
-* reserve availability.
+- Strength;
+- Regular Strength;
+- Full-Time Trained Strength;
+- Army Full-Time Trade Trained Strength;
+- Volunteer Reserve strength;
+- trained Reserve strength;
+- gains to trained or trade-trained strength;
+- trained or trade-trained outflow.
 
-The functional question is:
+Then establish which population is functionally relevant to the capability under examination.
 
-> **How many people are actually available to generate the required formation at the required time?**
+Where evidence permits, distinguish:
 
-A nominal soldier is not automatically available capability.
+- Medically Fully Deployable;
+- Medically Limited Deployable;
+- Medically Non-Deployable;
+- committed personnel;
+- instructors;
+- trainees;
+- critical-trade vacancies;
+- Reserve availability;
+- personnel assigned elsewhere;
+- recovery, leave and post-deployment effects.
+
+Do not crudely subtract every person with a medical limitation from military capability. Medical categories do not map neatly onto “usable” and “unusable” for every task.
+
+The investigation is not trying to manufacture one magical **real Army number**.
+
+It is trying to answer:
+
+> **How many appropriately trained and available people can generate the particular capability at the required time?**
+
+Or:
+
+> **trained ≠ trade trained ≠ medically unrestricted ≠ available to this formation on Tuesday.**
 
 ---
 
 ## 🏚️ 13. Estate: owned is not usable
 
-Map:
+Treat estate availability as a chain.
 
-* training areas;
-* ranges;
-* representative urban environments;
-* accommodation;
-* maintenance condition;
-* availability;
-* closures;
-* competing demand;
-* environmental restrictions;
-* safety restrictions;
-* transport;
-* capacity.
+```text
+exists
+↓
+safe / serviceable
+↓
+available on required date
+↓
+configured for required training
+↓
+has required ranges / infrastructure
+↓
+has supporting instructors / equipment
+↓
+usable for required training output
+```
 
-Operation Interflex is particularly useful here because strategically valuable activity can still consume finite domestic training capacity.
+Investigate:
 
-Earlier Polaris work has already identified the core distinction:
+- ownership or access;
+- physical condition;
+- maintenance;
+- safety restrictions;
+- environmental restrictions;
+- availability;
+- competing users;
+- short-notice demand;
+- accommodation;
+- transport;
+- range capacity;
+- representative environments;
+- infrastructure required for live/synthetic integration.
 
-> **empty ≠ available**
+Operation Interflex is a useful contemporary example of **capacity contention**: strategically valuable activity can consume finite training-estate capacity.
 
-and:
+That does not make Interflex a catch-all explanation for estate weakness.
+
+The rule is:
 
 > **owned ≠ usable.**
 
-The same principle applies to training estate.
-
 ---
 
-## 🚚 14. Logistics must be inside the exercise
+## 🚚 14. Put logistics inside the exercise
 
-A formation is not ready merely because the fighting elements can manoeuvre.
+A formation is not ready merely because its fighting elements can manoeuvre.
 
-Investigate training for:
+For each sustainment function distinguish whether it was:
 
-* fuel;
-* ammunition;
-* food;
-* water;
-* repair;
-* recovery;
-* transport;
-* spares;
-* medical evacuation;
-* blood;
-* communications;
-* resupply under threat.
+- physically exercised;
+- synthetically represented;
+- administratively assumed;
+- omitted.
 
-If logistics is consistently abstracted away during training, readiness can become fictional.
+Investigate:
+
+- fuel;
+- ammunition;
+- food;
+- water;
+- spares;
+- maintenance;
+- repair;
+- recovery;
+- transport;
+- communications;
+- medical supply;
+- resupply under threat.
+
+The important question is not simply:
+
+> Was logistics included?
+
+It is:
+
+> **Which sustainment functions were genuinely exercised, and which existed only as exercise assumptions?**
 
 The Tuesday-roster question applies:
 
@@ -607,59 +649,161 @@ The Tuesday-roster question applies:
 
 ---
 
-## 🩸 15. Medical capability and casualty assumptions
+## 🩸 15. Test medical capability and casualty assumptions
 
-Afghanistan created particular expectations around casualty evacuation.
+Start from current requirements rather than assuming that Afghanistan-era casualty models remain appropriate.
 
-Akam's Brecon example demonstrates why assumptions learned in one conflict may become dangerous in another.
+Ask:
+
+> **What casualty-care and evacuation assumptions are embedded in current training, and do they match current doctrine and the casualty environment Defence says it is preparing for?**
 
 Investigate:
 
-* current CASEVAC assumptions;
-* contested-airspace planning;
-* prolonged field care;
-* mass-casualty training;
-* blood availability;
-* rehabilitation pathways;
-* casualty replacement;
-* psychological preparation;
-* training for degraded evacuation.
+- point-of-injury care;
+- combat-life-saver competence;
+- evacuation assumptions and timelines;
+- delayed or prolonged evacuation;
+- contested-airspace assumptions;
+- mass-casualty training;
+- blood;
+- treatment capacity;
+- patient movement;
+- personnel recovery;
+- casualty replacement;
+- regeneration;
+- psychological preparation where relevant.
 
-The objective is not to publish sensitive operational detail.
+Maintain a critical distinction:
 
-It is to establish whether current training reflects the casualty environment Defence itself says future war may produce.
+> **Medical support present at an exercise ≠ medical system tested by the exercise.**
 
----
-
-## 🚁 16. Equipment availability during training
-
-Owning equipment is different from being able to train with it.
-
-For major systems, investigate:
-
-* fleet size;
-* availability;
-* maintenance;
-* spares;
-* training allocation;
-* simulator allocation;
-* ammunition availability;
-* instructor availability;
-* restrictions on usage;
-* cannibalisation;
-* upgrade cycles.
-
-If a formation is expected to fight with equipment it rarely trains with collectively, that is relevant.
-
-If equipment is unavailable because it is being prioritised for operations, that is also relevant.
-
-The explanation matters.
+A real ambulance standing by to make training safe does not by itself establish that operational casualty handling was exercised.
 
 ---
 
-## 🤖 17. Synthetic versus live training
+## 🚁 16. Equipment inventory is not training availability
 
-Do not frame this as:
+Treat equipment as another availability chain.
+
+```text
+inventory
+↓
+in service
+↓
+serviceable / available
+↓
+allocated
+↓
+available for training
+↓
+available at required scale
+↓
+usable throughout the activity
+```
+
+Investigate:
+
+- inventory;
+- in-service fleet;
+- availability where appropriately public;
+- maintenance;
+- spares;
+- training allocation;
+- ammunition;
+- simulator access;
+- instructor access;
+- usage restrictions;
+- upgrade and conversion periods;
+- substitution with different equipment;
+- cannibalisation where evidenced;
+- whether equipment constraints changed exercise design.
+
+The investigation does not require publication of operationally sensitive readiness figures.
+
+It can often establish whether equipment availability constrained training without establishing the precise number of available platforms.
+
+### Fleet transition
+
+Ask:
+
+> **Is the formation training on the equipment it is expected to fight with now, the equipment it will fight with next, or an interim mixture?**
+
+Then establish:
+
+- conversion burden;
+- instructor qualification on old and new systems;
+- estate compatibility;
+- simulator availability;
+- doctrine changes;
+- whether equipment arrival precedes collective competence;
+- whether transition temporarily reduces usable fleet scale.
+
+### Human factors
+
+Equipment can itself create training or medical constraints.
+
+Where relevant investigate:
+
+- noise;
+- vibration;
+- motion effects;
+- ergonomics;
+- cognitive workload;
+- fatigue;
+- PPE interaction;
+- safety mitigations and their training consequences.
+
+The question is:
+
+> **Does the equipment itself alter how much usable capability can safely be generated?**
+
+---
+
+## ⛓️ 17. Test the whole availability chain
+
+Sections 11–16 should not be treated as independent inventories.
+
+They form one force-generation system.
+
+```text
+Required military capability
+          ↓
+Suitable trained people
+          ↓
+Available instructors
+          ↓
+Usable estate
+          ↓
+Available equipment
+          ↓
+Sustainment
+          ↓
+Medical support
+          ↓
+Collective activity
+          ↓
+Validated capability
+```
+
+At every arrow ask:
+
+> **What can break here?**
+
+Four useful rules follow:
+
+> **Strength is not availability.**
+
+> **Owned is not usable.**
+
+> **Inventory is not capability.**
+
+> **Support present is not support tested.**
+
+---
+
+## 🤖 18. Test synthetic substitution
+
+Do not frame the investigation as:
 
 > technology good
 
@@ -667,191 +811,279 @@ versus:
 
 > muddy soldiers good.
 
-Synthetic training can provide:
+The question is narrower.
 
-* repetition;
-* scenario variation;
-* lower marginal cost;
-* decision practice;
-* equipment familiarisation;
-* distributed training;
-* environments difficult to reproduce physically.
+For each affected training objective establish:
 
-Live training provides things synthetic environments may reproduce imperfectly:
+- the intended output;
+- the previous live component;
+- the synthetic component;
+- whether technology **augments, prepares for, substitutes for, or validates** live activity;
+- what evidence supports that allocation;
+- what evidence exists for transfer into real performance;
+- whether subsequent live validation occurs;
+- whether certification requirements change;
+- which physical, environmental or collective variables are absent;
+- whether total risk is reduced or merely relocated.
 
-* physical exhaustion;
-* terrain;
-* weather;
-* equipment failure;
-* real logistics;
-* interpersonal friction;
-* physical movement;
-* sensory overload;
-* uncertainty generated by actual humans;
-* trust.
+The key question is:
 
-The investigation therefore needs to ask:
+> **What function is being transferred from live to synthetic training, and what evidence demonstrates that the required competence still transfers into real performance?**
 
-> **For each training objective, what can be synthetic, what must remain live, and what evidence supports that allocation?**
-
-Not:
-
-> How much money can simulation save?
-
-The first is force design.
-
-The second is an accounting question.
+The wider future-facing question — how VR, AR, synthetic environments and human-machine systems might be deliberately integrated to reduce physical risk and improve future training — belongs in [🪖 Futures of Defence](../../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🪖_futures_of_defence.md).
 
 ---
 
-## 🌐 18. Service-by-service comparison
+## 🌐 19. Compare the Services properly
 
-The Army should not be investigated in isolation.
+Do not infer different affordability treatment simply from different exercise programmes.
 
-For the Royal Navy and RAF establish:
+For the Army, Royal Navy and Royal Air Force separate:
 
-* current savings requirements;
-* training reductions;
-* exercise cancellations;
-* flying-hour changes;
-* sea-time changes;
-* simulator substitution;
-* readiness consequences;
-* protected activity.
+### Planned strategic reprioritisation
+
+Changes intended before the immediate affordability dispute.
+
+### Ordinary programme variation
+
+Exercise programmes vary because of operational demand, readiness cycles, allies, host nations, equipment and other routine factors.
+
+### Additional affordability action
+
+Only after controlling for the first two categories should activity altered specifically because of immediate financial pressure be isolated.
+
+| Service | Baseline programme | Planned strategic change | Normal variation | Additional affordability action | Protected outputs | Readiness effect |
+| --- | --- | --- | --- | --- | --- | --- |
+| Army | establish | establish | establish | establish | establish | establish |
+| Royal Navy | establish | establish | establish | establish | establish | establish |
+| Royal Air Force | establish | establish | establish | establish | establish | establish |
 
 Then ask:
 
-> **Why are the effects different?**
+> **After controlling for planned changes and normal variation, did the Services actually experience materially different affordability treatment?**
 
-Possible explanations include:
+Possible mechanisms include:
 
-* different financial pressures;
-* different cost structures;
-* different readiness models;
-* different contractual commitments;
-* different safety requirements;
-* different ability to defer activity;
-* different ministerial prioritisation.
+- different financial pressures;
+- different cost structures;
+- different readiness cycles;
+- different contractual commitments;
+- different training models;
+- different operational commitments;
+- different ability to defer activity;
+- different assessed consequences;
+- different prioritisation.
 
-Do not infer discrimination between services merely from different outcomes.
-
-Investigate the mechanism.
+> **Do not infer inter-Service favouritism from different outcomes. Investigate the mechanism.**
 
 ---
 
-## 🧩 19. Joint training
+## 🧩 20. Test integrated-force training
 
-If Defence intends to be **integrated by design**, then service-specific readiness is not enough.
+If Defence intends to be **integrated by design**, service-specific readiness is insufficient.
 
-Investigate whether the three services have sufficient opportunities to practise together.
+For each affected exercise establish which functions were supposed to integrate across:
 
-Questions include:
+- Army;
+- Royal Navy;
+- Royal Air Force;
+- relevant joint command structures;
+- cyber;
+- space;
+- electromagnetic activity;
+- intelligence;
+- communications and information systems;
+- medical;
+- logistics;
+- allies.
 
-* Which exercises genuinely require multiple services?
-* Which capabilities depend upon joint integration?
-* How frequently is that integration rehearsed?
-* Which joint exercises have been reduced?
-* Are communications systems interoperable in practice?
-* Are logistics systems integrated?
-* Are command structures rehearsed?
-* Does training include degraded or denied systems?
-* Where does Strategic Command fit?
+Ask:
+
+- Which command relationships were being rehearsed?
+- Which communications and data systems were being integrated?
+- Were joint fires or targeting functions relevant?
+- Which sustainment functions crossed Service boundaries?
+- Were degraded systems exercised?
+- Did allied elements participate?
+- Was a specifically integrated output being validated?
+- If the activity disappears, where will equivalent integration next be tested?
+
+The core question is:
+
+> **What integration was this exercise supposed to make work before somebody needs it operationally?**
 
 You cannot integrate three forces for the first time after somebody starts shooting at them.
 
 ---
 
-## 🤝 20. NATO and allied training
+## 🤝 21. Test NATO and allied readiness
 
-Britain's force model is explicitly alliance-dependent.
+Britain's current force model is explicitly alliance-dependent.
 
-Therefore readiness has to include:
+Start from:
 
-* NATO standards;
-* multinational exercises;
-* command interoperability;
-* communications;
-* logistics;
-* reinforcement;
-* host-nation support;
-* allied doctrine;
-* shared operating procedures.
+> **Which publicly acknowledged alliance requirement is the force being generated to meet?**
 
-Investigate:
+For relevant training establish:
 
-* which allied exercises Britain is committed to;
-* which have been reduced;
-* whether reductions affect NATO obligations;
-* whether allies are compensating;
-* whether Britain is compensating for allies elsewhere.
+- whether it contributes to a NATO-assigned or NATO-oriented requirement;
+- readiness notice where appropriately public;
+- required scale;
+- multinational validation or certification;
+- interoperability standards;
+- command integration;
+- communications and data requirements;
+- reinforcement requirements;
+- host-nation-support dependencies;
+- logistics interoperability;
+- whether training with actual partner formations is required;
+- whether an equivalent multinational opportunity exists if an activity is removed.
 
-The relevant output is not national self-sufficiency.
+Do not confuse branding with function.
 
-It is credible allied warfighting capability.
+> **NATO-relevant training is not synonymous with an exercise carrying a NATO logo.**
+
+A domestic exercise may generate capability intended for NATO.
+
+A multinational exercise does not automatically validate every relevant readiness requirement.
+
+Investigate the capability relationship.
 
 ---
 
-## 🗺️ 21. Commitments versus force capacity
+## 🗺️ 22. Map commitments against force capacity
 
-Build a public-domain commitments map.
+Build a bounded public-domain commitments map.
 
 Not operational plans.
 
 Not classified readiness information.
 
-The broad commitments already publicly acknowledged.
+Start with the Government's own strategic framework and then map publicly acknowledged commitments beneath it.
 
-For example:
+Broadly, that means considering functions associated with:
 
-* homeland defence;
-* NATO;
-* nuclear deterrence;
-* overseas territories;
-* standing deployments;
-* training Ukraine;
-* maritime commitments;
-* air policing;
-* contingency requirements;
-* support to civil authorities.
+- defence of the United Kingdom, Overseas Territories and Crown Dependencies, and national resilience;
+- Euro-Atlantic deterrence and defence centred on NATO;
+- wider global shaping, partnership and other acknowledged commitments.
+
+For each commitment establish:
+
+- required military function;
+- relevant force type;
+- readiness requirement;
+- duration;
+- whether standing, recurring or contingent;
+- training requirement;
+- specialist personnel;
+- estate dependency;
+- equipment dependency;
+- logistics dependency;
+- medical dependency;
+- allied dependency.
+
+This is also where Overseas Territories belong in the force-capacity investigation.
+
+The question is:
+
+> **What publicly declared Defence functions do the Overseas Territories generate, and what force-generation requirements follow?**
+
+Whether NATO itself has a treaty or strategic obligation in a particular geography is a separate question and should not be inferred from the United Kingdom's sovereign responsibilities.
 
 Then ask:
 
-> **How many simultaneous demands is the current force model designed to sustain?**
+> **Which commitments consume the same scarce people, equipment, estate or support functions?**
 
-And:
+The same resource cannot always satisfy two demands simultaneously.
 
-> **Which commitments consume the same scarce people, estate or equipment?**
+Embarrassingly obvious.
 
-The same unit cannot be in two places.
-
-The same range cannot necessarily host two exercises.
-
-The same instructor cannot teach two courses simultaneously.
-
-This sounds embarrassingly obvious.
-
-That does not make it administratively unimportant.
+Administratively important.
 
 ---
 
-## 📋 22. The Tuesday-roster test
+## 🔀 23. Run the simultaneity test
 
-Every strategic ambition eventually becomes a roster.
+Defence can potentially demonstrate:
 
-For any commitment:
+> capability A exists;
 
-* Who commands it?
-* Which unit performs it?
-* How many personnel?
-* Which trades?
-* Which equipment?
-* Which training precedes it?
-* Which logistics support it?
-* Which medical system?
-* Which maintenance cycle?
-* Which relief unit?
-* What happens if another crisis begins?
-* What gets cancelled to make it possible?
+> capability B exists;
+
+> capability C exists;
+
+without demonstrating:
+
+> **A + B + C can be sustained simultaneously.**
+
+For publicly acknowledged commitments ask:
+
+- which can plausibly overlap;
+- which standing commitments already consume capacity;
+- which draw upon the same formations or force elements;
+- which draw upon the same specialist trades;
+- which use the same lift;
+- which require the same training estate;
+- which need the same logistics;
+- which need the same medical capability;
+- which need the same intelligence, cyber or communications support;
+- which require relief formations;
+- which can be delayed;
+- which cannot;
+- what regeneration follows.
+
+The central distinction is:
+
+> **Can Britain perform each task?**
+
+is not equivalent to:
+
+> **Which combinations can Britain perform simultaneously, at the required readiness, for the required duration?**
+
+Sequence matters too.
+
+```text
+Commitment A + Commitment B
+            ↓
+Initial force generated
+            ↓
+Sustained operation
+            ↓
+Relief / rotation
+            ↓
+Recovery
+            ↓
+Retraining
+            ↓
+Ready again
+```
+
+Where does the system bottleneck?
+
+A heavily committed force may possess enough people to deploy while progressively consuming its opportunity to **train the next force**.
+
+---
+
+## 📋 24. Apply the Tuesday-roster test
+
+This test does not require publication of sensitive readiness figures, mobilisation plans or detailed operational tasking.
+
+It asks whether strategic commitments have been translated internally into executable resource requirements, and whether sufficient aggregate evidence exists to test the plausibility of the resulting force model.
+
+For any commitment ask:
+
+- Who commands the function?
+- What force element or type of unit is required?
+- How many personnel?
+- Which trades?
+- Which equipment?
+- Which training precedes it?
+- Which logistics support it?
+- Which medical system?
+- Which maintenance cycle?
+- Which relief or rotation?
+- What happens if another crisis begins?
+- What gets displaced to make it possible?
 
 This is where strategy becomes executable state capacity.
 
@@ -861,27 +1093,19 @@ If nobody can answer that, the policy is not yet a force plan.
 
 ---
 
-## 🧾 23. The blank-cheque investigation
+## 🧾 25. Run the unconstrained-requirement test
 
-There is another test worth conducting separately from affordability.
+Before affordability modifies the answer, establish what capability the professional requirement actually implies.
 
-Ask each service:
+This is not an invitation to fund everything anybody wants.
 
-> **If the immediate answer to every request were “yes”, what training system would you actually design?**
+It is a diagnostic test against allowing constraint to become embedded inside the requirement before the budgeting conversation begins.
 
-Not because government should fund everything requested.
-
-It should not.
-
-The purpose is diagnostic.
-
-Constraints can become so normal that organisations stop articulating what they actually require and instead ask only for what they think Treasury might permit.
-
-So ask for:
+For each requirement establish:
 
 ### Ideal requirement
 
-What would genuinely maximise resilience?
+What would maximise the intended military output?
 
 ### Costed requirement
 
@@ -889,126 +1113,176 @@ What would it cost?
 
 ### Minimum viable requirement
 
-What cannot safely be lost?
+What cannot be lost without changing the output or accepting additional risk?
 
-### Five-year transition
+### Near term — approximately five years
 
-What could realistically be changed now?
+What can realistically change inside current personnel, estate, programme and spending constraints?
 
-### Twenty-five-to-fifty-year direction
+### Future-force horizon — toward 2040
 
-What should Britain begin building for 2050–2076?
+What should Britain already be building given the operating environments Defence itself expects to face?
 
-Only then reintroduce constraints.
+### Generational horizon — beyond 2040
 
-Otherwise:
+Which capabilities have sufficiently long lead times that decisions must precede precise operational requirements?
 
-> **austerity can become embedded inside the imagination before the budgeting conversation even begins.**
+These are **Polaris analytical horizons**, not formal MOD planning cycles.
 
----
+For every proposed requirement state the assumptions underneath it:
 
-## 🔭 24. Future-force questions
+- threat or mission;
+- readiness;
+- warning time;
+- allied contribution;
+- mobilisation;
+- technology;
+- acceptable risk.
 
-The investigation should not assume the current Army structure is the correct structure plus insufficient money.
+Otherwise an apparently objective requirement can conceal a very expensive assumption.
 
-Ask:
-
-* Which capabilities should expand?
-* Which should contract?
-* Which should disappear?
-* Which should become joint?
-* Which should sit under another service?
-* Which should involve reserves?
-* Which could involve civilians?
-* Which require sovereign capability?
-* Which can safely depend upon allies?
-* Which need industrial mobilisation capacity?
-* Which skills will be scarce?
-* Which technologies alter training requirements?
-* Which technologies create entirely new training requirements?
-
-The objective is not:
-
-> preserve every existing institution.
-
-It is:
-
-> **produce the functions Britain expects Defence to perform.**
+> **Austerity should not become embedded inside the imagination before the budgeting conversation even begins.**
 
 ---
 
-## 🧠 25. Ask the awkward personnel question
+## 🔭 26. Test today's decisions against the future force
+
+Do not assume the current force structure is correct plus insufficient money.
+
+But keep the forensic question narrow:
+
+> **Do today's force-generation decisions remain compatible with the future force Defence says it intends to build?**
+
+Investigate:
+
+- capabilities expected to expand;
+- capabilities expected to contract;
+- functions expected to become more integrated;
+- skills likely to become scarce;
+- sovereign dependencies;
+- allied dependencies;
+- infrastructure with long lead times;
+- technologies creating new training requirements;
+- transition burdens between current and future systems.
+
+For any capability being reduced ask:
+
+> **What is its regeneration time?**
+
+A saving can be rational in the immediate year and still be strategically expensive if it dismantles something slow, difficult or costly to rebuild.
+
+The broader normative design of future military technology and training belongs in [🪖 Futures of Defence](../../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🪖_futures_of_defence.md).
+
+---
+
+## 🧠 27. Find the people who actually know
 
 Every large organisation contains people who:
 
-* dislike each other;
-* compete;
-* belong to different institutional camps;
-* have different theories;
-* have previously argued;
-* would not voluntarily spend Christmas together.
+- dislike each other;
+- compete;
+- belong to different institutional camps;
+- hold different theories;
+- have previously argued;
+- would not voluntarily spend Christmas together.
 
 Fine.
 
-The useful question is:
+The useful question remains:
 
 > **Who is extremely fucking good at the thing we currently need?**
 
-A serious reset should identify:
+Deliberately sample different forms of expertise:
 
-* serving expertise;
-* retired expertise;
-* reservists;
-* civilian specialists;
-* academics;
-* industry;
-* allied personnel;
-* people whose previous warnings proved correct;
-* people whose previous proposals failed;
-* internal dissenters.
+- current command responsibility;
+- recent operational experience;
+- instructors;
+- specialist trades;
+- maintainers;
+- medics;
+- logisticians;
+- reservists;
+- veterans with relevant recent experience;
+- civilian Defence specialists;
+- technical specialists;
+- industry;
+- academics;
+- allied personnel;
+- internal dissenters;
+- people associated with successful previous reforms;
+- people associated with failed previous reforms.
 
-Not every disagreement is obstruction.
+Then ask:
 
-Sometimes the person being a pain in the arse has found the fault.
+- What evidence underpins the view?
+- Which experience is actually relevant?
+- Where does the expertise stop?
+- What incentives or conflicts exist?
+- What was predicted previously?
+- What happened?
+- Can the claim be independently tested?
+
+> **Rank is relevant context. It is not a truth score.**
+
+A history of being right deserves attention, not permanent infallibility.
+
+A history of being wrong deserves examination, not automatic exclusion.
+
+And no, this is not a hunt for whoever already agrees with Polaris.
 
 ---
 
-## 🪟 26. Test whether bad news can travel upwards
+## 🪟 28. Test whether bad news can travel upwards
 
-This may be one of the most important investigations.
+Distinguish three separate functions.
 
-Ask personnel at several organisational levels:
+### Transmission
 
-> **What happens when you tell the next level that something cannot be delivered?**
+Did the information reach the next level?
 
-Does the answer become:
+### Fidelity
 
-* accepted;
-* investigated;
-* resourced;
-* mitigated;
-* downgraded;
-* reframed;
-* delayed;
-* turned into a more convenient metric?
+Did its meaning survive?
 
-Then ask the next level the same question.
+### Consequence
 
-The purpose is not to manufacture conflict between ranks.
+Did somebody with authority act upon it?
 
-It is to identify information loss.
-
-```mermaid
-flowchart BT
-    A["Sharp-end observation"] --> B["Unit"]
-    B --> C["Formation"]
-    C --> D["Army Command"]
-    D --> E["MOD"]
-    E --> F["Ministers"]
-    F --> G["Treasury / Cabinet"]
-
-    A -. "Does meaning survive?" .-> G
+```text
+sharp-end signal
+      ↓
+transmitted?
+      ↓
+meaning preserved?
+      ↓
+correct authority reached?
+      ↓
+decision made?
+      ↓
+effect implemented?
+      ↓
+outcome retested?
 ```
+
+At each transition investigate changes in:
+
+- severity;
+- uncertainty;
+- urgency;
+- recommended action;
+- estimated cost;
+- risk owner;
+- wording.
+
+A reporting system can technically function while still destroying information.
+
+For example:
+
+> **cannot reliably perform X**
+
+can travel upwards and emerge as:
+
+> **minor opportunity to optimise X.**
 
 The crucial variable is not simply:
 
@@ -1016,64 +1290,75 @@ The crucial variable is not simply:
 
 It is:
 
-> **Did its meaning survive the journey?**
+> **Did its meaning survive the journey, reach the person able to act, and produce a retested change?**
 
 ---
 
-## 🧈 27. Measure the friction
+## 🧈 29. Measure governance friction
+
+Do not begin from:
+
+> regulation is restrictive.
+
+Begin from:
+
+> **What risk is this control intended to manage?**
+
+For any potentially restrictive process establish:
+
+1. what rule or control exists;
+2. who owns it;
+3. which hazard or governance failure it addresses;
+4. what evidence produced it;
+5. whether it is law, Defence policy, local interpretation or accumulated custom;
+6. what burden it creates;
+7. what benefit it produces;
+8. whether alternative controls exist;
+9. whether implementation is proportionate;
+10. whether operational evidence has caused it to change.
+
+Relevant friction may arise through:
+
+- approval chains;
+- JSPs;
+- classification;
+- procurement;
+- safety rules;
+- estate booking;
+- finance;
+- personnel policy;
+- course accreditation;
+- inter-Service boundaries.
+
+This is particularly important when examining health and safety.
+
+Do not conclude:
+
+> health and safety stopped realistic training.
+
+Ask instead:
+
+> **Which particular safety controls were criticised as inhibiting realistic training, what risks were they managing, what evidence existed on each side, and what happened subsequently?**
 
 The desired system is not one with no governance.
 
-It is one where necessary governance does not destroy useful information.
+It is one where necessary governance does not destroy useful preparation.
 
-The analogy is good surgical gloves.
+The analogy remains good surgical gloves.
 
-The point of the glove is protection.
+The glove exists for protection.
 
-But the glove also has to preserve enough tactile information that the person wearing it can distinguish what they are touching.
-
-Defence governance has the same problem.
+It must also preserve enough tactile information for the person wearing it to distinguish what they are touching.
 
 Too little control creates danger.
 
 Too much poorly designed control destroys sensitivity.
 
-We therefore need to identify friction created by:
-
-* approval chains;
-* JSPs;
-* classification;
-* procurement;
-* safety rules;
-* estate booking;
-* finance;
-* personnel policy;
-* course accreditation;
-* inter-service boundaries.
-
-Then distinguish:
-
-> **friction that manages genuine risk**
-
-from:
-
-> **friction that exists because the system accumulated it.**
-
-Do not abolish the glove.
-
-Make the fucking glove fit.
+> **Do not abolish the glove. Make the fucking glove fit.**
 
 ---
 
-## 📊 28. KPIs come after objectives
-
-Do not begin with:
-
-* exercise days;
-* personnel numbers;
-* money spent;
-* courses completed;
-* equipment purchased.
+## 📊 30. Put KPIs after objectives
 
 Begin with:
 
@@ -1098,162 +1383,262 @@ KPI → activity → budget → hopefully readiness
 
 we may be measuring administrative survival rather than military capability.
 
----
+### Goodhart test
 
-## 🧪 29. Useful evidence sources
+Ask:
 
-This investigation should preferentially use material already in the public domain.
+> **Does improving the metric necessarily improve the capability we care about?**
 
-### Primary / official
+If not:
 
-* Strategic Defence Reviews;
-* Defence Command Papers;
-* Defence Investment Plan;
-* MOD annual reports;
-* service publications;
-* parliamentary questions;
-* ministerial statements;
-* Defence Committee evidence;
-* Public Accounts Committee evidence;
-* NAO reports;
-* Defence Safety Authority material;
-* procurement publications;
-* published doctrine where appropriate.
+- how could it be gamed;
+- how could it be optimised accidentally;
+- what important variable does it omit?
 
-### Parliamentary
+### Cross-category test
 
-* Hansard;
-* written questions;
-* committee transcripts;
-* committee reports;
-* ministerial correspondence released publicly.
+Where Defence distinguishes between investing, generating readiness and operating, test whether apparent success in one category transfers cost or risk into another.
 
-### Professional / scholarly
+Successful programme delivery does not itself establish readiness.
 
-* RUSI;
-* RAND;
-* IISS;
-* King's College London;
-* service journals;
-* peer-reviewed military studies;
-* historical scholarship;
-* operational histories.
+Maintaining current output by consuming future training capacity, personnel resilience, stock or maintenance can create delayed failure.
 
-### Contemporary reporting
-
-* Forces News;
-* specialist defence press;
-* BBC;
-* Reuters;
-* Financial Times;
-* Times;
-* Telegraph;
-* Guardian;
-* other reporting where evidentially useful.
-
-### Lived professional evidence
-
-* serving personnel where lawfully and safely published;
-* veterans;
-* instructors;
-* service families;
-* disabled veterans;
-* former senior commanders;
-* civilian Defence staff.
-
-Rank is relevant context.
-
-It is not a truth score.
+> **Do not permit today's KPI to borrow invisibly from tomorrow's capability.**
 
 ---
 
-## 🚧 30. What this investigation does **not** require
+## 🧪 31. Use evidence according to function
 
-We do not need:
+Do not treat sources as one flat hierarchy of prestige.
 
-* classified operational plans;
-* classified readiness data;
-* sensitive vulnerabilities;
-* unit locations not already legitimately public;
-* intelligence assessments;
-* targeting information;
-* detailed mobilisation plans;
-* anything which would materially assist a hostile actor.
+Different evidence answers different questions.
 
-The objective is bounded explanation.
+### Tier 1 — controlling and current official evidence
 
-The existing Polaris rule elsewhere in `🌊_Playing_Defence` is useful here:
+Use principally for:
 
-> **Not reckless disclosure.
-> Not managed ignorance.**
+- current policy;
+- formal responsibilities;
+- budget allocations;
+- doctrine;
+- official statistics;
+- departmental structures.
+
+Relevant material includes:
+
+- legislation where applicable;
+- Strategic Defence Reviews;
+- Defence Investment Plan material;
+- MOD Annual Reports and Accounts;
+- Estimates;
+- Treasury material;
+- current doctrine;
+- public MOD and Service directions;
+- official personnel statistics;
+- Defence Safety Authority material.
+
+### Tier 2 — independent and public accountability evidence
+
+Use to test performance, implementation and official claims.
+
+Relevant material includes:
+
+- National Audit Office;
+- Defence Committee;
+- Public Accounts Committee;
+- other parliamentary committees;
+- Hansard;
+- written parliamentary questions;
+- coroners;
+- public service inquiries;
+- other statutory investigations.
+
+### Tier 3 — professional and scholarly evidence
+
+Use for:
+
+- interpretation;
+- comparison;
+- doctrinal criticism;
+- empirical research;
+- historical context.
+
+Relevant material includes:
+
+- RUSI;
+- RAND;
+- IISS;
+- King's College London;
+- peer-reviewed work;
+- service journals;
+- serious military history.
+
+### Tier 4 — journalism
+
+Use particularly for:
+
+- contemporaneous events;
+- internal or leaked material;
+- interviews;
+- identifying questions official sources have not answered.
+
+Corroborate where possible.
+
+### Tier 5 — lived professional evidence
+
+Relevant voices include:
+
+- serving personnel speaking lawfully and safely;
+- instructors;
+- maintainers;
+- medics;
+- logisticians;
+- reservists;
+- veterans;
+- civilian Defence staff;
+- service families where relevant.
+
+> **Tier describes evidential function, not human importance or automatic reliability.**
+
+A corporal may be the strongest source for what happened during a particular training serial.
+
+The Annual Report may be the strongest source for audited departmental expenditure.
+
+Neither can answer the other's question.
+
+---
+
+## 🚧 32. Ask only for the granularity the investigation needs
+
+This investigation does **not** require:
+
+- classified operational plans;
+- classified readiness data;
+- sensitive vulnerabilities;
+- non-public unit locations;
+- intelligence assessments;
+- targeting information;
+- detailed mobilisation plans;
+- information which would materially assist a hostile actor.
+
+The governing principle is:
+
+> **Ask for the minimum level of granularity necessary to test the public-policy proposition.**
+
+If aggregate evidence answers the question, unit-level detail is unnecessary.
+
+This should guide:
+
+- parliamentary questions;
+- FOI;
+- journalism;
+- committee scrutiny;
+- Polaris itself.
 
 There is already an enormous amount that can be evaluated through:
 
-* published policy;
-* budgets;
-* parliamentary accountability;
-* historical evidence;
-* aggregate capability information;
-* professional scholarship.
+- published policy;
+- budgets;
+- parliamentary accountability;
+- historical evidence;
+- aggregate capability information;
+- professional scholarship.
 
-The public does not need the war plan to ask whether government has funded the training policy it publicly announced.
+The public does not need the war plan to ask whether government funded the training policy it publicly announced.
+
+> **Not reckless disclosure. Not managed ignorance.**
 
 ---
 
-## ⚠️ 31. Absence of public evidence is not evidence of absence
+## ⚠️ 33. Treat absence of public evidence properly
 
-Several investigation outcomes will remain uncertain.
+Several outcomes will remain uncertain.
+
+Use consistent formulations.
+
+### Identified
+
+> **Public evidence establishes X.**
+
+### Not identified
+
+> **No public evidence establishing X has been identified in the material reviewed.**
+
+### Not publicly ascertainable
+
+> **The available public record does not permit X to be determined.**
+
+Keep the logic explicit:
+
+```text
+No public evidence found
+          ≠
+Evidence that the event did not occur
+```
+
+But also:
+
+```text
+Not publicly provable
+          ≠
+Immune from scrutiny
+```
 
 For example:
 
-> We found no public evidence that Treasury was asked for £30 million.
-
-This supports:
-
-> **No such request has been identified in the public record reviewed.**
-
-It does **not** support:
-
-> **Treasury was never asked.**
-
-Likewise:
-
-> We found no published readiness assessment.
+> No public evidence has been identified that HM Treasury was asked for a particular flexibility.
 
 does not establish:
 
-> **No readiness assessment occurred.**
+> HM Treasury was never asked.
 
-Where public evidence stops, say so.
+Likewise:
 
-Then decide whether the missing information belongs in:
+> No published readiness assessment has been identified.
 
-* parliamentary scrutiny;
-* FOI;
-* committee inquiry;
-* ministerial clarification;
-* future historical record.
+does not establish:
+
+> No readiness assessment occurred.
+
+Where public evidence legitimately stops, determine whether the issue belongs with:
+
+- parliamentary scrutiny;
+- FOI;
+- committee inquiry;
+- ministerial clarification;
+- audit;
+- another authorised oversight mechanism;
+- future historical record.
+
+Security and accountability are not mutually exclusive.
 
 ---
 
-## 🗂️ 32. Investigation matrix
+## 🗂️ 34. Maintain a live investigation matrix
 
-The cluster should eventually be able to populate something like this:
+The cluster should maintain a live matrix which distinguishes the immediate dispute from the larger force-generation questions.
 
-| Investigation             | Current evidence              | Confidence | Missing evidence         | Best route                   |
-| ------------------------- | ----------------------------- | ---------: | ------------------------ | ---------------------------- |
-| Exact £30m requirement    | reporting / official response |        TBD | documentary confirmation | MOD / PQ                     |
-| Decision origin           | incomplete                    |        low | chronology               | PQ / committee               |
-| Ministerial knowledge     | incomplete                    |        low | briefing chronology      | ministerial clarification    |
-| Army training requirement | partial                       |     medium | detailed public baseline | MOD / doctrine / scholarship |
-| Readiness effect          | disputed / incomplete         |        low | assessment methodology   | MOD / expert evidence        |
-| RAF comparison            | incomplete                    |        low | equivalent reduction     | PQ                           |
-| Navy comparison           | incomplete                    |        low | equivalent reduction     | PQ                           |
-| Estate constraint         | evidence exists               |     medium | current utilisation      | NAO / MOD                    |
-| Instructor capacity       | TBD                           |        TBD | staffing / vacancies     | MOD / scholarship            |
-| Synthetic substitution    | policy evidence exists        |     medium | effectiveness evidence   | trials / scholarship         |
-| NATO consequence          | TBD                           |        TBD | obligation comparison    | NATO / MOD                   |
-| Alternative savings       | unknown                       |        low | options considered       | government clarification     |
+| Investigation | Current evidence | Confidence | Missing evidence | Best route |
+| --- | --- | ---: | --- | --- |
+| Exact £30m requirement | reporting / official response | TBD | documentary confirmation | MOD / PQ |
+| Activities affected | partial public reporting | TBD | complete scope and duration | MOD / PQ |
+| Decision origin | incomplete | low | chronology | PQ / committee |
+| Financial mechanism | incomplete | low | budget category / flexibilities | MOD / Treasury / accounts |
+| Ministerial knowledge | incomplete | low | briefing chronology | clarification / committee |
+| Risk acceptance | not publicly established | low | risk ownership / escalation | MOD / committee |
+| Army training requirement | partial policy/doctrine | medium | relevant current baseline | MOD / doctrine |
+| Readiness effect | incomplete / contested | low | assessment methodology | MOD / expert evidence |
+| Instructor capacity | to establish | TBD | staffing / currency / demand | MOD / evidence |
+| Estate constraint | evidence exists | medium | current utilisation / contention | NAO / MOD |
+| Equipment training availability | to establish | TBD | appropriate aggregate evidence | MOD / committee |
+| Synthetic substitution | policy evidence exists | medium | transfer / validation evidence | trials / scholarship |
+| Royal Navy comparison | incomplete | low | controlled baseline comparison | MOD / PQ |
+| RAF comparison | incomplete | low | controlled baseline comparison | MOD / PQ |
+| Integrated-force consequence | to establish | TBD | affected outputs | MOD / doctrine |
+| NATO consequence | to establish | TBD | requirement relationship | MOD / NATO public material |
+| Alternative savings | unknown | low | options considered | government clarification |
+| Regeneration time | to establish | TBD | capability-specific evidence | MOD / scholarship |
+| Simultaneity | to establish | TBD | aggregate force-demand model | committee / MOD |
 
 This table should change as evidence arrives.
 
@@ -1261,51 +1646,69 @@ That is the point.
 
 ---
 
-## 🩻 33. What would materially change the diagnosis?
+## 🩻 35. Design the investigation to permit a different diagnosis
 
-Several findings would substantially alter the eventual assessment.
+Several findings would materially alter the eventual assessment.
 
-### Finding A
+### Finding A — negligible readiness effect
 
-Army Command concluded the affected activity could be postponed with negligible readiness consequences.
+Army Command assessed that affected activity could be postponed or redesigned with negligible readiness consequences.
 
-**Implication:** current criticism may be overstating the capability effect.
+**Implication:** criticism based upon assumed capability loss may be overstated.
 
-### Finding B
+### Finding B — material risk accepted above Army Command
 
-Army Command warned of significant readiness consequences but was ordered to proceed.
+Professional advice identified significant readiness consequences and the decision nevertheless proceeded.
 
-**Implication:** identify where and why that risk was accepted.
+**Implication:** establish where the risk was accepted, by whom, under what authority and against which competing requirement.
 
-### Finding C
+### Finding C — Army selected the trade-off
 
 The Army independently selected training from several available savings.
 
-**Implication:** investigate Army prioritisation rather than assuming Treasury imposed the specific trade-off.
+**Implication:** investigate Army prioritisation rather than assuming Treasury imposed the specific decision.
 
-### Finding D
+### Finding D — budget architecture left very little flexibility
 
-Army budgets contain effectively unavoidable in-year commitments leaving training as one of very few movable lines.
+Effectively unavoidable in-year commitments left training among very few movable lines.
 
 **Implication:** the deeper problem may be budget architecture rather than the individual decision.
 
-### Finding E
+### Finding E — equivalent Service pressure exists
 
-Equivalent RAF and Navy reductions exist but have simply received less reporting.
+Comparable Royal Navy and RAF reductions exist but received less reporting or took different forms.
 
-**Implication:** this is a wider Defence affordability story.
+**Implication:** this is more clearly a Defence-wide affordability story.
 
-### Finding F
+### Finding F — Army absorbed disproportionate additional pressure
 
-Other services were protected while Army collective training absorbed disproportionate pressure.
+After controlling for planned programme changes and normal variation, other Services were materially better protected.
 
-**Implication:** investigate why.
+**Implication:** investigate the mechanism and rationale.
 
-### Finding G
+### Finding G — the money is readily recoverable
 
-£30 million can be restored without significant displacement elsewhere.
+The immediate saving could be restored without material displacement elsewhere.
 
-**Implication:** immediate political resolution becomes substantially easier.
+**Implication:** immediate political resolution becomes easier.
+
+### Finding H — mitigation works
+
+Synthetic, redesigned or alternative activity demonstrably preserves the required output.
+
+**Implication:** counting cancelled exercise activity may materially overstate readiness loss.
+
+### Finding I — mitigation does not validate the lost function
+
+Replacement activity cannot reproduce or validate an important collective output.
+
+**Implication:** the relevant issue is capability substitution, not simply money saved.
+
+### Finding J — the real bottleneck is elsewhere
+
+Estate, instructors, equipment, personnel, logistics or another constraint would have prevented the planned activity regardless of the £30 million pressure.
+
+**Implication:** the financial story may be a trigger, symptom or secondary factor rather than the principal cause.
 
 The investigation should be designed to **permit us to be wrong**.
 
@@ -1313,11 +1716,11 @@ Otherwise it is not an investigation.
 
 ---
 
-## 🧭 34. The question underneath all the questions
+## 🧭 36. The question underneath all the questions
 
 Ultimately:
 
-> **What does Britain want its Armed Forces to be able to do, under what conditions, for how long, and what combination of people, training, equipment, infrastructure and alliances is actually required to do it?**
+> **What does Britain want its Armed Forces to be able to do, under what conditions, at what notice, at what scale, for how long, and what combination of people, training, equipment, infrastructure, support and alliances is actually required to do it?**
 
 Everything else follows from that.
 
@@ -1341,16 +1744,25 @@ The objective is functional capability.
 
 Before diagnosing the September 2026 Army training dispute, establish:
 
-1. **what has actually been reduced;**
-2. **why the saving was required;**
-3. **why training was selected;**
-4. **who knew and when;**
-5. **who accepted the readiness consequence;**
-6. **what the Army actually requires to meet current policy;**
-7. **whether people, estate and equipment permit that training;**
-8. **whether RAF and Navy experience comparable constraints;**
-9. **whether current readiness measures describe functional capability;**
-10. **what force-generation system Britain actually wants for the next five, twenty-five and fifty years.**
+1. **what has actually changed;**
+2. **which changes were caused by the immediate affordability pressure;**
+3. **what financial constraint produced that pressure;**
+4. **why the affected training was selected;**
+5. **what alternatives were genuinely available;**
+6. **who knew what, and when;**
+7. **where authority sat;**
+8. **who assessed, mitigated and accepted any capability or readiness consequence;**
+9. **what training the current force model actually requires;**
+10. **whether personnel, instructors, estate, equipment, logistics and medical systems permit it;**
+11. **what live functions are being augmented or substituted synthetically, and with what validation;**
+12. **whether Army, Royal Navy and RAF are experiencing comparable additional pressure after controlling for planned change;**
+13. **whether affected activity generates integrated or NATO-relevant capability;**
+14. **whether Britain's publicly acknowledged commitments can be generated simultaneously and sustained;**
+15. **whether current measures describe functional capability rather than administrative activity;**
+16. **whether useful information survives its journey from the sharp end to decision-makers;**
+17. **whether governance controls manage risk proportionately or create avoidable force-generation friction;**
+18. **what capabilities are slow or expensive to regenerate once lost;**
+19. **whether today's decisions remain compatible with the future force Defence says it intends to build.**
 
 Only then diagnose.
 
@@ -1370,6 +1782,8 @@ If Britain has an estate problem, find the estate problem.
 
 If Britain has a personnel problem, find the personnel problem.
 
+If Britain has an equipment-availability problem, find the equipment-availability problem.
+
 If Britain has a force-design problem, find the force-design problem.
 
 If Britain has an information problem in which people at the sharp end know something that repeatedly loses meaning on its journey towards ministers, **find the fucking information problem**.
@@ -1380,53 +1794,51 @@ And do not spend another thirty years commissioning reviews which correctly iden
 
 ---
 
----
-
----
-
 ## 📡 Carry Forward
 
 This node feeds directly into:
 
-* [`🧠_assessment_and_differential.md`](./🧠_assessment_and_differential.md) — competing explanations once the evidence is assembled;
-* [`🚑_immediate_management.md`](./🚑_immediate_management.md) — what can be done about the current disruption;
-* [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — discovering unconstrained requirements before reintroducing affordability;
-* [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — defining functional outputs;
-* [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — testing whether information survives institutional transmission;
-* [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — evidence on collective competence and skill retention;
-* [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — reconstructing the immediate affordability decision;
-* [`data/open_questions.md`](./data/open_questions.md) — live evidential gaps;
-* [`data/parliamentary_questions.md`](./data/parliamentary_questions.md) — current governance chain;
-* [`data/source_bank.md`](./data/source_bank.md) — evidence base.
+- [`🧠_assessment_and_differential.md`](./🧠_assessment_and_differential.md) — *competing explanations once the evidence is assembled*
+- [`🚑_immediate_management.md`](./🚑_immediate_management.md) — *what can be done about the current disruption*
+- [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — *testing unconstrained requirements before reintroducing affordability*
+- [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — *defining functional readiness outputs*
+- [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — *testing whether information survives institutional transmission*
+- [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — *evidence on collective competence, skill retention and training function*
+- [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — *reconstructing the immediate affordability decision*
+- [🪖 Futures of Defence](../../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🪖_futures_of_defence.md) — *future synthetic/live integration, risk placement and human-machine training architecture*
+- [`data/open_questions.md`](./data/open_questions.md) — *live evidential gaps*
+- [`data/parliamentary_questions.md`](./data/parliamentary_questions.md) — *current governance and accountability questions*
+- [`data/source_bank.md`](./data/source_bank.md) — *working evidence base*
 
 ---
 
 ## 🌌 Constellations
-🔬 🪖 ⚙️ 💷 🔭 🏚️ 🧠 — Army training; readiness measurement; force generation; Defence affordability; estate; personnel; institutional feedback; future force design.
+🔬 🪖 ⚙️ 💷 🔭 — collective training; readiness measurement; force generation; Defence affordability; institutional feedback.
 
 ---
 
 ## ✨ Stardust
-british army training, collective training, readiness, force generation, defence affordability, army estate, military personnel, synthetic training, live training, nato interoperability, defence investment plan, strategic defence review, army readiness, military exercises, defence feedback loops
+british defence, army training, collective training, readiness, force generation, defence affordability, synthetic training, nato interoperability, institutional feedback, capability risk
 
 ---
 
 ## 🏮 Footer
 
 *🔬 Tests And Investigations* is a living node of the **Polaris Protocol**.  
-It defines the evidence required before the cluster assigns causes, responsibility or capability consequences.
+It defines the evidence required before the Training Debrief assigns causes, responsibility or capability consequences to the September 2026 Army training dispute. It treats the immediate affordability story as one possible entry point into a wider force-generation system rather than allowing a single budget line to become the diagnosis.
 
 > 📡 Cross-references:
 >
 > - [`🧠_assessment_and_differential.md`](./🧠_assessment_and_differential.md) — *competing explanations once the evidence is assembled*
 > - [`🚑_immediate_management.md`](./🚑_immediate_management.md) — *what can be done about the current disruption*
-> - [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — *discovering unconstrained requirements before reintroducing affordability*
-> - [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — *defining functional outputs*
+> - [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — *testing unconstrained requirements before reintroducing affordability*
+> - [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — *defining functional readiness outputs*
 > - [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — *testing whether information survives institutional transmission*
 > - [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — *evidence on collective competence and skill retention*
 > - [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — *reconstructing the immediate affordability decision*
+> - [🪖 Futures of Defence](../../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🪖_futures_of_defence.md) — *future synthetic/live integration, risk placement and human-machine training architecture*
 > - [`data/open_questions.md`](./data/open_questions.md) — *live evidential gaps*
->  
+>
 > 🏮 Return To:
 >
 > - [🪖 Training Debrief](./README.md) — *1up*
@@ -1437,4 +1849,4 @@ It defines the evidence required before the cluster assigns causes, responsibili
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-07_
+_Last updated: 2026-09-14_
