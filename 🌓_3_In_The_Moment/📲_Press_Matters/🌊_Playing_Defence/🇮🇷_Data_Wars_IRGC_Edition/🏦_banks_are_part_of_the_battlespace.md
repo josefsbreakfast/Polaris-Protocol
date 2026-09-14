@@ -1,5 +1,5 @@
 # 🏦 Banks Are Part Of The Battlespace
-**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
+**First created:** 2026-08-01 | **Last updated:** 2026-09-14  
 *Money, access, confidence, payment continuity, and settlement are strategic infrastructure even when the institutions providing them are privately owned.*
 
 ---
@@ -477,7 +477,9 @@ The bank may not have been the original target.
 
 It can still become the amplifier.
 
-This is why decision provenance and consequential reliance matter. The institution should be able to establish:
+This is why decision provenance and consequential reliance matter.
+
+The institution should be able to establish:
 
 - which signal entered the system;
 - which rule or model acted on it;
@@ -556,47 +558,53 @@ But both deserve analysis beyond:
 
 ## 🧪 Fiserv — Financial Exposure Is Not Yet Financial Disruption
 
-On 12–13 August 2026, the criminal extortion group Cl0p named nearly fifty
-organisations in a mass data-theft claim. The named organisations included
-Fiserv, a major financial-technology and payments provider.
+The August Cl0p campaign remains a useful boundary case.
+
+The group named Fiserv among nearly fifty organisations in a mass data-theft claim.
 
 That makes the claim relevant to this watch.
 
 It does **not** establish that banking or payment infrastructure was impaired.
 
-Fiserv told Reuters that its investigation had found no evidence that customer,
-banking, transaction, personal or operational data was compromised. Reuters
-could not independently verify Cl0p's claimed theft volumes. Reporting also
-indicated that the campaign exploited widely deployed enterprise software,
-rather than demonstrating that each organisation had been individually chosen
-for its strategic function.
-[Reuters — *Hacking group claims mass data theft from Shell, Philips, GE,
-Fiserv and dozens of others*](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
+Fiserv said its investigation had found no evidence that customer, banking, transaction, personal, or operational data was compromised.
 
-Fiserv's inclusion is nevertheless a useful exposure signal. The company
-provides banking platforms, account processing, merchant acquiring, billing,
-payments and point-of-sale services. A confirmed compromise at the wrong layer
-could therefore propagate beyond one corporate network.
-[Fiserv — company and service overview](https://www.fiserv.com/)
+Payment-service disruption was not established.
 
-The reviewed evidentiary position through 20 August is:
+The reviewed position remains:
 
 ```text
-ACTOR CLAIM:                     YES — Cl0p
-COMPANY INVESTIGATION:           YES
-COMPROMISE CONFIRMED BY FISERV:  NO
-CUSTOMER DATA IMPACT:            NOT DEMONSTRATED
-BANKING DATA IMPACT:             NOT DEMONSTRATED
-TRANSACTION DATA IMPACT:         NOT DEMONSTRATED
-OPERATIONAL DATA IMPACT:         NOT DEMONSTRATED
-PAYMENT SERVICE DISRUPTION:      NOT DEMONSTRATED
-CLEARING / SETTLEMENT EFFECT:    NOT DEMONSTRATED
-IRAN CONNECTION:                 NO EVIDENCE FOUND
-BEST CURRENT EXPLANATION:        MASS CRIMINAL DATA-EXTORTION CAMPAIGN
+ACTOR CLAIM:
+YES — Cl0p
+
+COMPANY INVESTIGATION:
+YES
+
+COMPROMISE CONFIRMED BY FISERV:
+NO
+
+CUSTOMER DATA IMPACT:
+NOT DEMONSTRATED
+
+BANKING DATA IMPACT:
+NOT DEMONSTRATED
+
+TRANSACTION DATA IMPACT:
+NOT DEMONSTRATED
+
+OPERATIONAL DATA IMPACT:
+NOT DEMONSTRATED
+
+PAYMENT SERVICE DISRUPTION:
+NOT DEMONSTRATED
+
+CLEARING / SETTLEMENT EFFECT:
+NOT DEMONSTRATED
+
+IRAN CONNECTION:
+NO EVIDENCE FOUND
 ```
 
-This is not a banking-service incident for timeline-counting purposes unless
-new evidence establishes compromise or operational effect.
+This is not a banking-service incident for timeline-counting purposes unless new evidence establishes compromise or operational effect.
 
 It is an **adjacent financial-infrastructure exposure event**.
 
@@ -616,28 +624,131 @@ payment-system effect
 clearing or settlement failure
 ```
 
-It also shows why provider concentration matters. U.S. banking regulators tell
-banks to assess third parties' operational resilience, incident-management
-processes and single-provider dependencies. Federal Reserve research likewise
-shows that an outage at a service provider used to transmit Fedwire payments
-can produce measurable effects across connected banks.
-[Federal Reserve — *Interagency Guidance on Third-Party
-Relationships*](https://www.federalreserve.gov/frrs/guidance/interagency-guidance-on-third-party-relationships.htm)
-[Federal Reserve — *Using Service Provider Connections to Model Operational
-Payment Networks*](https://www.federalreserve.gov/econres/notes/feds-notes/using-service-provider-connections-to-model-operational-payment-networks-20250103.html)
+Provider concentration remains strategically important.
 
-The systemic question is therefore not merely:
+It is not permission to invent an effect.
 
-> Was a famous financial company named?
+---
+
+## 🤖 PaperCut Shows Why Access Manufacturing Matters To Finance
+
+The September PaperCut campaign is not primarily a banking incident and is not an Iran incident.
+
+It is still highly relevant to this node.
+
+GreyNoise reported a likely Russian-speaking operator using hundreds of AI agents to exploit PaperCut NG/MF vulnerabilities across hundreds of organisations.
+
+The campaign reportedly produced:
+
+- user credentials;
+- OS and domain secrets;
+- privileged access;
+- and some domain-admin footholds.
+
+Financial institutions appeared among the affected sectors.
+
+The strategic lesson is not:
+
+> PaperCut disrupted the financial system.
 
 It is:
 
-> Which function, data set or payment connection was actually reached—and what
-> stopped working as a result?
+> shared software can manufacture privileged access across many organisations at speed.
 
-For Fiserv, the public answer is presently: **none demonstrated**.
+That creates a path such as:
 
-That is a finding, not an absence of analysis.
+```text
+VULNERABLE SHARED SOFTWARE
+→ CREDENTIAL / DOMAIN ACCESS
+→ PERSISTENT FOOTHOLD
+→ POSSIBLE RESALE / AFFILIATE USE
+→ LATER FINANCIAL TARGETING
+```
+
+The final use must be evidenced.
+
+But the access-market layer now belongs in financial-infrastructure analysis.
+
+---
+
+## 🧾 Financial Data Can Become Fraud Infrastructure
+
+The finance sector is affected not only by attacks on banks.
+
+It is also affected by data stolen elsewhere.
+
+Examples include:
+
+- names;
+- addresses;
+- account identifiers;
+- tax records;
+- identity documents;
+- employment data;
+- medical data;
+- court records;
+- and credentials.
+
+These can be combined to support:
+
+- impersonation;
+- account takeover;
+- social engineering;
+- payment fraud;
+- fraudulent applications;
+- blackmail;
+- or targeted scams.
+
+That creates a cross-sector sequence:
+
+```text
+NON-FINANCIAL BREACH
+→ PERSONAL / IDENTITY DATA
+→ FINANCIAL FRAUD ATTEMPT
+→ BANK / PAYMENT PROVIDER BECOMES THE DEFENSIVE GATE
+```
+
+The bank may be responding to someone else's breach.
+
+It still absorbs part of the incident.
+
+---
+
+## 🧾 Veradigm And C-Track Show Why Trusted Access Matters
+
+The newer health and court-platform incidents reinforce this point.
+
+Veradigm involved a third-party credential used to access a customer-service API and download patient data.
+
+C-Track involved unauthorised access to court files held through a shared case-management platform.
+
+Neither is a banking incident.
+
+Both demonstrate why financial systems need to worry about **trusted upstream information**.
+
+A bank may receive or rely on:
+
+- identity data;
+- legal records;
+- employment information;
+- address data;
+- court orders;
+- or risk signals
+
+originating outside the bank.
+
+If those source systems are compromised, the financial institution may inherit the uncertainty.
+
+That creates:
+
+```text
+UPSTREAM DATA COMPROMISE
+→ BANK RELIES ON DATA
+→ FRAUD / COMPLIANCE / ACCESS DECISION
+→ CUSTOMER EFFECT
+```
+
+The financial stack therefore depends on the integrity of systems it does not own.
 
 ---
 
@@ -655,254 +766,321 @@ Public administration depends on banks and payment systems for:
 - tax refunds;
 - emergency support;
 - contractor payments;
-- and military or public-service payroll.
+- and many forms of local-government expenditure.
 
-The relevant dependency chain may therefore be:
-
-```text
-financial infrastructure
-→ government payment
-→ contractor or citizen
-→ essential service
-```
-
-A banking incident can become a state-function incident where it prevents the government from moving money required for ordinary administration.
-
-The timeline should therefore ask:
+That means:
 
 ```text
-PUBLIC PAYROLL AFFECTED:
-BENEFITS AFFECTED:
-PENSIONS AFFECTED:
-PROCUREMENT AFFECTED:
-EMERGENCY PAYMENTS AFFECTED:
-MILITARY / SECURITY PAYROLL AFFECTED:
+BANK / PAYMENT FAILURE
+→ PUBLIC ADMINISTRATION EFFECT
 ```
 
-where relevant.
+even where:
+
+```text
+GOVERNMENT NETWORK
+→ NOT COMPROMISED
+```
+
+This is one reason banking belongs inside the state-infrastructure perimeter.
+
+The dependency is functional.
 
 ---
 
-## 🔗 Every Other Essential Sector Needs Payments
+## ⚡ Energy Shock Becomes Financial Pressure
 
-Banks are also dependency infrastructure.
+The Iran war also reaches the financial system without a cyberattack on a bank.
 
-Healthcare requires:
+Energy and shipping disruption can affect:
 
-- payroll;
+- oil prices;
+- gas prices;
+- inflation expectations;
+- freight costs;
+- airline costs;
+- household budgets;
+- corporate margins;
+- commodity financing;
+- insurance;
+- and market volatility.
+
+That means the financial effect chain may be:
+
+```text
+WAR / SHIPPING DISRUPTION
+→ ENERGY PRICE SHOCK
+→ BUSINESS / HOUSEHOLD COST
+→ CREDIT / LIQUIDITY PRESSURE
+→ FINANCIAL-SECTOR RESPONSE
+```
+
+Banks are therefore part of the battlespace partly because they price and transmit the consequences of disruption elsewhere.
+
+The same applies to insurers.
+
+They convert technical and geopolitical uncertainty into:
+
+- premiums;
+- exclusions;
+- coverage decisions;
+- and capital costs.
+
+No bank compromise is required for those effects to become real.
+
+---
+
+## 📡 Telecommunications Are A Financial Dependency
+
+Modern finance also depends on telecommunications.
+
+Without reliable connectivity, customers may lose:
+
+- mobile banking;
+- card authorisation;
+- ATM access;
+- merchant connectivity;
+- remote identity verification;
+- fraud monitoring;
+- or access to cloud-hosted systems.
+
+That makes the reported expansion of Iran-linked activity into telecommunications relevant to finance even where the bank itself is not targeted.
+
+The dependency chain may be:
+
+```text
+TELECOMS DISRUPTION
+→ BANK / MERCHANT CONNECTIVITY DEGRADED
+→ PAYMENT ACCESS DEGRADES
+```
+
+or:
+
+```text
+TELECOMS COMPROMISE
+→ IDENTITY / COMMUNICATION CHANNEL EXPOSED
+→ SOCIAL ENGINEERING OR FRAUD RISK INCREASES
+```
+
+Again:
+
+```text
+UPSTREAM DEPENDENCY EFFECT
+≠
+DIRECT BANK COMPROMISE
+```
+
+The distinction belongs in the record.
+
+---
+
+## 🧾 Sanctions And Compliance Are Operational Infrastructure Too
+
+The Iran war increases the burden on financial institutions through:
+
+- sanctions updates;
+- counterparty screening;
+- transaction monitoring;
+- suspicious-activity review;
+- correspondent-bank risk;
+- trade-finance scrutiny;
+- shipping and energy restrictions;
+- and attempts to detect evasion.
+
+That creates a capacity problem.
+
+A bank may need to process more alerts at precisely the same time it is also handling:
+
+- cyber warnings;
+- fraud spikes;
+- market volatility;
+- and customer anxiety.
+
+The burden can therefore be:
+
+```text
+MORE GEOPOLITICAL RISK
++
+MORE COMPLIANCE ALERTS
++
+MORE CYBER ALERTS
++
+SAME FINITE REVIEW CAPACITY
+```
+
+This matters because overwhelmed controls can produce two opposite failures:
+
+```text
+TOO LITTLE REVIEW
+→ risky activity passes
+
+TOO MUCH RESTRICTION
+→ legitimate customers / suppliers are blocked
+```
+
+Both are operational consequences.
+
+---
+
+## 🧾 Decision Integrity Matters Under Sanctions Pressure
+
+Sanctions systems are especially sensitive to data quality.
+
+A bank may restrict a transaction because of:
+
+- a name match;
+- nationality data;
+- ownership information;
+- shipping data;
+- company records;
+- address information;
+- or a sanctions-list update.
+
+If the upstream information is wrong, incomplete, compromised, or poorly reconciled, the resulting restriction can be wrong while the software itself performs exactly as designed.
+
+That gives another useful distinction:
+
+```text
+SYSTEM FUNCTIONED AS CODED
+≠
+SYSTEM MADE A RELIABLE DECISION
+```
+
+For this pack, the relevant question is whether cyber compromise or untrusted data has entered the decision chain.
+
+That should be recorded separately from ordinary compliance disagreement.
+
+---
+
+## 🌍 Alliance Confidence Has Financial Consequences Too
+
+Allied political reliability is not only a military question.
+
+It affects finance through:
+
+- sanctions coordination;
+- energy policy;
+- sovereign-risk expectations;
+- defence spending;
+- shipping insurance;
+- trade restrictions;
+- capital allocation;
+- and expectations about future US policy.
+
+If allies become less confident that coordinated policy will hold, markets and institutions may have to price more uncertainty into:
+
+- contracts;
+- hedges;
 - procurement;
-- supplier payments;
-- pharmacy transactions;
-- and patient payments.
+- financing;
+- and long-term investment.
 
-Energy requires:
+The chain can be:
 
-- fuel purchases;
-- supplier settlement;
-- contractor payments;
-- and commodity transactions.
+```text
+US / ALLIED POLICY DIVERGENCE
+→ HIGHER POLICY UNCERTAINTY
+→ MORE HEDGING / DUPLICATION
+→ HIGHER TRANSACTION COST
+→ FINANCIAL BURDEN
+```
 
-Transport requires:
+This does not require NATO collapse.
 
-- ticketing;
-- fuel;
-- payroll;
+It requires only enough unpredictability that firms and governments stop treating allied commitments as stable planning assumptions.
+
+That cost eventually reaches households, businesses, public budgets, or all three.
+
+---
+
+## 🧭 Financial Resilience Depends On Predictability
+
+Financial systems are built around future expectations.
+
+Contracts assume:
+
+- legal continuity;
+- policy continuity;
+- settlement finality;
+- reliable counterparties;
+- and some ability to price risk.
+
+Sudden policy reversals, unclear war aims, or conflicting allied signals increase uncertainty.
+
+That does not automatically destabilise the banking system.
+
+It does make more actors hedge.
+
+Hedging itself has costs.
+
+For Americans, Britons, and allied economies, that can mean:
+
+- higher borrowing costs;
+- more expensive insurance;
+- more cautious investment;
+- greater liquidity buffers;
+- duplicated supply chains;
+- and less efficient capital use.
+
+This is one way political unpredictability becomes an economic infrastructure effect.
+
+---
+
+## 🧾 Payment, Procurement And Commissioning Can Reveal Hidden Relationships
+
+Financial records can also help explain cyber ecosystems.
+
+Where several actors, affiliates, contractors, or access brokers appear disconnected operationally, money may reveal a relationship.
+
+Useful evidence may include:
+
+- contracts;
+- invoices;
+- procurement records;
+- cryptocurrency payments;
+- salary or retainer arrangements;
+- shell companies;
+- reimbursement patterns;
+- payment timing;
+- or common beneficiaries.
+
+The analytical sequence may be:
+
+```text
+WHO PAID?
+↓
+FOR WHAT?
+↓
+WHO RECEIVED THE MONEY?
+↓
+WHAT CAPABILITY OR ACCESS DID THAT PAYMENT SUSTAIN?
+↓
+WHO LATER USED OR BENEFITED FROM IT?
+```
+
+This is not simple.
+
+Payment can evidence:
+
+- commission;
 - procurement;
-- and freight payments.
+- reimbursement;
+- employment;
+- access purchase;
+- infrastructure rental;
+- or unrelated commercial activity.
 
-Water requires:
-
-- payroll;
-- chemicals;
-- maintenance;
-- electricity;
-- and contractor payments.
-
-That means financial disruption may produce second-order effects elsewhere.
-
-The timeline should distinguish:
-
-```text
-DIRECT FINANCIAL EFFECT:
-DEPENDENT SECTOR:
-SECOND-ORDER EFFECT:
-```
-
-A cyberattack against banking may therefore become an infrastructure attack through the dependencies it interrupts.
+The meaning depends on context.
 
 ---
 
-## 🧾 Data Theft Can Become Financial Coercion
+## 🧅 Payment Does Not Equal Command
 
-Banking attacks are not only about stopping transactions.
+The Mabna Institute indictment remains a useful public example of why these questions matter.
 
-They may also involve theft of:
+The US Department of Justice alleges that Mabna employed, contracted, and affiliated itself with hackers-for-hire and other personnel; contracted with Iranian governmental and private entities; and conducted the university spearphishing campaign for the IRGC.
 
-- identity data;
-- account details;
-- transaction histories;
-- addresses;
-- employer information;
-- linked family accounts;
-- fraud records;
-- internal risk assessments;
-- payment relationships;
-- or beneficiary information.
-
-That information can support:
-
-- fraud;
-- blackmail;
-- targeting;
-- coercion;
-- intelligence collection;
-- sanctions evasion;
-- or social engineering against other systems.
-
-A bank may restore service while the stolen data continues to produce harm.
-
-The incident is not over simply because the app works again.
-
----
-
-## 🇫🇷 Financial Data Can Be Exposed Outside The Bank
-
-Financial infrastructure includes public records and administrative systems that describe banking relationships even where no bank network is compromised.
-
-France's 2026 public-finance incidents illustrate the distinction.
-
-In February, the Direction générale des Finances publiques disclosed unlawful access to FICOBA, the national register of bank accounts. The ministry said stolen official credentials enabled access to personal and bank-account information associated with an estimated 1.2 million accounts. Access was restricted, affected users were to be notified, and financial institutions were alerted to fraud risk.
-
-In August, a separate DGFiP intrusion exposed taxpayer data that reporting described as being offered for sale.
-
-The reviewed evidence supports:
-
-```text
-PUBLIC FINANCIAL / TAX DATA EXPOSURE:
-🟢 ESTABLISHED
-
-BANK NETWORK COMPROMISE:
-NOT ESTABLISHED BY THESE INCIDENTS
-
-PAYMENT OR SETTLEMENT DISRUPTION:
-NOT ESTABLISHED
-
-FRAUD / IMPERSONATION RISK:
-🟡 CREDIBLE RISK
-
-COMMON OPERATOR ACROSS THE INCIDENTS:
-NOT ESTABLISHED
-
-IRAN CONNECTION:
-⚪ NO EVIDENCE FOUND
-```
-
-This matters because financial data can support later impersonation, fraud, coercion, or targeting without altering a balance or interrupting a payment rail.
-
-The financial-system consequence may begin after the originating administrative access has been closed.
-
-Sources:
-
-- [French Ministry of Finance: unlawful access to FICOBA](https://presse.economie.gouv.fr/acces-illegitimes-au-fichier-national-des-comptes-bancaires-ficoba/)
-- [Reuters: French taxpayers' data stolen in finance-ministry cyberattack](https://www.reuters.com/legal/litigation/french-taxpayers-data-stolen-cyber-attack-french-finance-ministry-says-2026-08-14/)
-
----
-
-## 🪤 Financial Systems Can Be Used To Reach People
-
-Financial data can reveal:
-
-- where someone lives;
-- where they work;
-- what organisations they support;
-- who they pay;
-- where they travel;
-- which institutions they use;
-- and which vulnerabilities may be exploited.
-
-That makes banking data valuable beyond theft.
-
-It can be used to:
-
-- locate a target;
-- map a network;
-- identify family members;
-- pressure an employer;
-- construct a narrative;
-- identify political or organisational relationships;
-- or support later phishing and impersonation.
-
-The state may therefore face a person-centred protection problem as well as a system-restoration problem.
-
-The institution can recover technically while the person remains exposed.
-
----
-
-## 🧅 The Original Attacker May Not Be The Final User
-
-Financial data and financial access are highly tradable.
-
-A criminal may steal them for profit.
-
-An intermediary may sell them.
-
-An access broker may package them.
-
-A state-linked actor may buy or exploit them later.
-
-The chain may look like:
-
-```text
-criminal intrusion
-→ stolen financial data
-→ broker
-→ political or intelligence customer
-→ later coercive use
-```
-
-Or:
-
-```text
-credential theft
-→ account access
-→ access resale
-→ later strategic tasking
-```
-
-That means the criminal explanation and the strategic explanation may both be true.
-
-The original breach may not have begun as a state operation.
-
-Its result may still become useful to one.
-
-The timeline should record those stages separately where evidence allows.
-
----
-
-## 💸 The Financials Are Part Of The Control Diagram
-
-Following the money is not a substitute for technical attribution.
-
-It can reveal relationships that malware, infrastructure, and intrusion logs do not.
-
-Relevant questions include:
-
-```text
-WHO GENERATED DEMAND?
-WHO WAS PREPARED TO PAY?
-WHAT OUTCOME WAS VALUED?
-WAS ACCESS PURCHASED BEFORE A TARGET WAS SELECTED?
-WHO EMPLOYED OR CONTRACTED THE OPERATOR?
-WHO PAID THE INTERMEDIARY?
-WHO RECEIVED OR USED THE RESULT?
-WHO FINANCIALLY BENEFITED FROM KEEPING THE CAPABILITY ALIVE?
-```
-
-The August 2026 Mabna Institute indictment provides a concrete public example of why these questions matter.
-
-The U.S. Department of Justice alleges that Mabna employed, contracted, and affiliated itself with hackers-for-hire and other personnel; contracted with Iranian governmental and private entities; and conducted the university spearphishing campaign for the IRGC. The same organisational environment therefore allegedly served more than one client category while maintaining a reusable intrusion capability.
-
-That supports a general analytical lesson:
+That supports a general lesson:
 
 ```text
 PAYMENT
@@ -938,12 +1116,6 @@ The governance question is wider than intent:
 > Did the payment materially sustain a capability market whose foreseeable outputs extended beyond the immediate commission, and what due diligence or control was exercised over that risk?
 
 That is risk externalisation through delegation.
-
-The organisation at the top may reduce its visible involvement while increasing operator autonomy, accountability distance, information leakage, and uncontrolled downstream effects.
-
-Source:
-
-- [U.S. Department of Justice: 17 Iranians charged in alleged Mabna Institute campaign](https://www.justice.gov/opa/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary)
 
 ---
 
@@ -984,6 +1156,7 @@ It may be repeated pressure against:
 - payment providers;
 - financial data;
 - common infrastructure;
+- sanctions processes;
 - or the confidence mechanisms holding the system together.
 
 ---
@@ -1064,7 +1237,9 @@ Both facts matter.
 
 So does who carried the fallback.
 
-A bank may preserve settlement by limiting customer activity, delaying review, shifting work to merchants, or requiring people to prove their identity again. Institutional continuity can therefore coexist with serious person-centred or supplier-level disruption.
+A bank may preserve settlement by limiting customer activity, delaying review, shifting work to merchants, or requiring people to prove their identity again.
+
+Institutional continuity can therefore coexist with serious person-centred or supplier-level disruption.
 
 ---
 
@@ -1128,7 +1303,7 @@ A bank may be:
 - useful to the state;
 - essential to civilian life;
 - involved in government payments;
-- and strategically valuable to disrupt;
+- and strategically valuable to disrupt
 
 without those facts alone determining its status under international humanitarian law.
 
@@ -1319,6 +1494,7 @@ DATE:
 COUNTRY:
 INSTITUTION:
 INSTITUTION TYPE:
+
 PUBLIC AUTHORITY / FUNCTION OWNER:
 COMMISSIONER / PAYER:
 SERVICE OPERATOR:
@@ -1326,50 +1502,67 @@ TECHNICAL OPERATOR:
 CONTRACTOR / SHARED PROVIDER:
 ACCESS BROKER / INTERMEDIARY:
 FINAL CUSTOMER / BENEFICIARY:
+
 INCIDENT STATUS — CLAIM / CONFIRMED / DISRUPTIVE:
 SYSTEM / FINANCIAL LAYER AFFECTED:
 SHARED PROVIDER OR INFRASTRUCTURE:
 PROVIDER CONNECTION DEMONSTRATED:
 ENTRY POINT:
 DEPTH-OF-ACCESS LEVEL:
+
 CUSTOMER ACCESS IMPACT:
 ACCOUNT / TRANSACTION RESTRICTION:
 RISK / FRAUD / SANCTIONS DECISION:
 DECISION PROVENANCE:
+UPSTREAM DATA SOURCE:
+UPSTREAM DATA TRUSTWORTHY:
 HUMAN REVIEW / OVERRIDE:
 CORRECTION / REMEDY:
 DOWNSTREAM RELIANCE ON DECISION:
+
 PAYMENT PROCESSING IMPACT:
 CLEARING IMPACT:
 SETTLEMENT IMPACT:
 BALANCE / RECORD INTEGRITY:
 PAYMENT-INSTRUCTION INTEGRITY:
+
 DATA IMPACT:
 DATA PROVENANCE / INTEGRITY:
 FRAUD RISK:
 LIQUIDITY IMPACT:
 CASH WITHDRAWAL IMPACT:
+
 PUBLIC-SECTOR DEPENDENCY:
 ESSENTIAL-SECTOR DEPENDENCY:
+TELECOM DEPENDENCY:
+ENERGY / SHIPPING DEPENDENCY:
 SECOND-ORDER EFFECT:
+
 FALLBACK REQUIRED:
 FALLBACK TYPE:
 FALLBACK OWNER:
 MANUAL-REVIEW BACKLOG:
 CUSTOMER / MERCHANT / SUPPLIER BURDEN:
 HIGH-DEPENDENCY USERS AFFECTED:
+
 PUBLIC-CONFIDENCE EFFECT:
 MARKET / FLOW EFFECT:
+SANCTIONS / COMPLIANCE BURDEN:
+ALLIANCE / POLICY-UNCERTAINTY EFFECT:
+
 CLAIMED ACTOR:
 OFFICIAL ATTRIBUTION:
 OTHER ATTRIBUTION:
 CONFIDENCE:
 IRAN RELEVANCE:
 ORGANISING MECHANISM:
+
 PAYMENT / PROCUREMENT / COMMISSIONING EVIDENCE:
 COMMON-CUSTOMER / BENEFICIARY EVIDENCE:
 CONTROL OVER METHOD:
+ACCESS TRANSFER:
 RIVAL EXPLANATIONS:
+
 RECOVERY STATUS:
 PUBLIC COMMUNICATION:
 SOURCES:
@@ -1387,6 +1580,8 @@ Where possible, distinguish:
 - payment manipulation;
 - fraud;
 - liquidity concern;
+- compliance burden;
+- upstream-data uncertainty;
 - and public-confidence effects.
 
 Do not collapse every banking incident into:
@@ -1416,6 +1611,8 @@ A financial pattern should be treated as escalating where there is credible evid
 - sustained public-confidence effects;
 - repeated inability to review or correct automated restrictions;
 - financial evidence linking several operators or incidents to one commissioner, payer, customer, or beneficiary;
+- AI-scaled access creating repeatable footholds inside financial institutions;
+- sanctions pressure materially overwhelming review capacity;
 - manipulation rather than simple unavailability;
 - or stronger evidence connecting separate incidents to one operator or sponsor.
 
@@ -1446,6 +1643,12 @@ greater cross-sector effect
 or:
 
 ```text
+greater decision-integrity risk
+```
+
+or:
+
+```text
 stronger attribution
 ```
 
@@ -1469,10 +1672,13 @@ This node does not claim that:
 - every simultaneous banking outage has a common attacker;
 - customer-facing disruption means settlement has failed;
 - stolen customer data means balances were manipulated;
+- shared-software compromise means payment systems were reached;
+- sanctions pressure proves system failure;
+- alliance uncertainty means financial instability;
 - strategic importance makes a civilian bank a lawful military target;
 - or describing finance as part of the battlespace resolves the applicable IHL analysis.
 
-It argues that financial systems are essential infrastructure and that disruption, data theft, transaction integrity, settlement, dependency, fraud, and confidence effects should be assessed separately.
+It argues that financial systems are essential infrastructure and that disruption, data theft, transaction integrity, settlement, dependency, fraud, compliance load, and confidence effects should be assessed separately.
 
 The sector matters even where attribution remains open.
 
@@ -1500,6 +1706,7 @@ Record:
 - whether fallback was required;
 - who carried the fallback and which high-dependency users were affected;
 - whether confidence changed;
+- whether sanctions or geopolitical uncertainty increased operational load;
 - what payment, procurement, commissioning, or beneficiary relationships are evidenced;
 - what attribution is actually supported;
 - and what remains unproven.
@@ -1512,43 +1719,89 @@ It does not erase the distinction between strategic importance and lawful target
 
 ---
 
+## 🧠 Current Assessment — 14 September 2026
+
+The current evidence supports:
+
+```text
+BANKS / PAYMENTS AS ESSENTIAL INFRASTRUCTURE:
+🟢 ESTABLISHED FUNCTIONALLY
+
+MAJOR IRAN-LINKED US BANKING OUTAGE:
+❌ NOT ESTABLISHED
+
+US BANKS ON HEIGHTENED CYBER ALERT:
+🟢 REPORTED
+
+SHARED-PROVIDER CONCENTRATION RISK:
+🟢 ESTABLISHED AS A STRUCTURAL ISSUE
+
+FISERV PAYMENT-SERVICE DISRUPTION:
+❌ NOT DEMONSTRATED
+
+AI-SCALED ACCESS-MANUFACTURING RISK:
+🟡 / 🟢 CREDIBLY DEMONSTRATED IN PAPERCUT CAMPAIGN
+
+UPSTREAM DATA / IDENTITY RISK:
+🟢 REINFORCED BY VERADIGM, C-TRACK, HEALTH AND ADMIN BREACHES
+
+ENERGY / SHIPPING / ALLIANCE UNCERTAINTY EFFECTS:
+🟡 DEVELOPING AS FINANCIAL PRESSURE
+
+COMMON SPONSOR ACROSS FINANCIAL-ADJACENT INCIDENTS:
+⚪ NOT ESTABLISHED
+```
+
+The main strategic point remains:
+
+> **The financial system can carry the consequences of attacks elsewhere even when the financial system itself is not the original target.**
+
+That is why banks are part of the battlespace.
+
+---
+
 ## 🌌 Constellations
 
-🏦 💳 📉 🧾 🪤 🔗 ⚖️ — banking; payments; decision integrity; confidence; financial data; person-centred risk; commissioning chains; systemic dependencies; civilian protection.
+🏦 💳 📉 🧾 📡 🧅 🔗 ⚖️ — banking; payments; confidence; financial data; telecom dependency; commissioning chains; systemic dependencies; civilian protection.
+
+---
 
 ## ✨ Stardust
 
-banks, payments, financial infrastructure, cyberattack, confidence, customer data, sanctions, fraud, automated restriction, decision integrity, consequential reliance, payment continuity, economic disruption, clearing, settlement, financial integrity, systemic banking, government payments, commissioning, payer, beneficiary, capability markets, risk externalisation, dual-use infrastructure, international humanitarian law, Fiserv, Cl0p, Mabna Institute, third-party providers, shared vulnerabilities, exposure without disruption
+banks, payments, financial infrastructure, cyberattack, confidence, customer data, sanctions, fraud, decision integrity, payment continuity, economic disruption, clearing, settlement, financial integrity, government payments, commissioning, payer, beneficiary, capability markets, access brokers, shared providers, paperCut, Fiserv, Mabna Institute, telecom dependency, energy shock, policy uncertainty, alliance confidence, dual-use infrastructure, international humanitarian law
 
 ---
 
 ## 🏮 Footer
 
-*🏦 Banks Are Part Of The Battlespace* is a living node of the **Polaris Protocol**.
-It explains why banking, payments, clearing, settlement, customer data, financial confidence, and their dependencies belong inside essential-infrastructure cyber analysis while keeping strategic importance distinct from legal targetability.
+*🏦 Banks Are Part Of The Battlespace* is a living node of the **Polaris Protocol**.  
+It explains why banking, payments, clearing, settlement, customer data, financial confidence, sanctions processing, and their dependencies belong inside essential-infrastructure cyber analysis while keeping strategic importance distinct from legal targetability.
 
 > 📡 Cross-references:
 >
 > - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *root orientation and pack map*
-> - [🏗️ What Counts As State Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) — *functional infrastructure perimeter and cross-sector dependencies*
-> - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *cumulative strategic effect, clustering, and campaign development*
-> - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *layered acquisition, access brokerage, and later use*
-> - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *graded attribution and uncertainty*
-> - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *separating claims, confirmed effects, and financial inference*
+> - [🏗️ What Counts As State Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) — *functional perimeter and dependency logic*
+> - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *upstream data, identity and person-centred consequences*
+> - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *cumulative burden and repeated limited effects*
+> - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *access markets, commissioners, payers and downstream users*
+> - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *graded attribution and relationship confidence*
+> - [🌊 Riding Every Wave](./🌊_riding_every_wave.md) — *how separate actors exploit the same disrupted environment*
+> - [🇺🇸 Potential Impacts On Americans](./🇺🇸_potential_impacts_on_americans.md) — *household, market and alliance-confidence effects*
+> - [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) — *coordination and allied-reliability seams*
+> - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *claim-level wording and proposition control*
 > - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *source provenance and evidence audit trail*
-> - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *person-centred recovery, public records, and downstream decision effects*
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
-> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
-> - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating shared-software criminal campaigns from Iran-linked infrastructure activity*
+> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live chronology through 14 September 2026*
+> - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *keeping criminal, state-linked and access-market activity separate*
 >
 > 🏮 Return To:
 >
 > - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
 > - [🌊 Playing Defence](../README.md) — *2up*
-> - [📲_Press Matters](../../README.md) — *3up*
+> - [📲 Press Matters](../../README.md) — *3up*
 > - [🌓 In The Moment](../../../README.md) — *4up*
-> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-20_
+_Last updated: 2026-09-14_

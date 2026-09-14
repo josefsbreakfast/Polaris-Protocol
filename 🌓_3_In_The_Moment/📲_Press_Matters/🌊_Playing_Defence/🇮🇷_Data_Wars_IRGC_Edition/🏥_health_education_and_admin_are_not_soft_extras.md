@@ -1,12 +1,12 @@
 # 🏥 Health, Education And Admin Are Not Soft Extras
-**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
+**First created:** 2026-08-01 | **Last updated:** 2026-09-14  
 *Civilian systems are not peripheral to the state. They are how the state recognises people, allocates rights, preserves continuity, and keeps ordinary life from collapsing.*
 
 ---
 
 ## 🛰️ Orientation
 
-Health, education, and public administration are often treated as softer targets than energy, water, transport, or defence.
+Health, education, justice, and public administration are often treated as softer targets than energy, water, transport, or defence.
 
 That is a mistake.
 
@@ -87,7 +87,9 @@ Services may remain open because staff absorb the incident through:
 - postponed decisions;
 - and exceptional overtime.
 
-That labour is part of the incident effect. So is the unequal burden placed on people who cannot safely wait, travel elsewhere, repeat their history, or navigate an improvised process.
+That labour is part of the incident effect.
+
+So is the unequal burden placed on people who cannot safely wait, travel elsewhere, repeat their history, or navigate an improvised process.
 
 ---
 
@@ -171,6 +173,8 @@ It depends on:
 - safeguarding information;
 - medical-device suppliers;
 - pharmacy systems;
+- building-management systems;
+- physical-access systems;
 - and communications between care providers.
 
 An attack can therefore affect care even where the hospital remains physically open.
@@ -179,6 +183,7 @@ Operational effects may include:
 
 - delayed treatment;
 - cancelled procedures;
+- ambulance diversion;
 - unavailable records;
 - disrupted diagnostics;
 - medication delays;
@@ -190,6 +195,108 @@ Operational effects may include:
 A system does not need to stop completely before patient safety is affected.
 
 Degradation is enough.
+
+---
+
+## 🚑 Luminis — Open Hospital, Degraded Care
+
+Luminis Health is one of the clearest September examples.
+
+The health system disclosed a cyberattack affecting systems across its network.
+
+By 3 September:
+
+- non-critical ambulances were being diverted;
+- some treatment was cancelled or delayed;
+- and patient-facing systems were unavailable.
+
+That produces a useful rule:
+
+```text
+HOSPITAL OPEN
+≠
+NORMAL CARE
+
+NO TOTAL SHUTDOWN
+≠
+NO CLINICAL EFFECT
+```
+
+The correct classification is:
+
+```text
+CYBER INCIDENT:
+🟢 ESTABLISHED
+
+CLINICAL SERVICE EFFECT:
+🟢 ESTABLISHED
+
+AMBULANCE DIVERSION:
+🟢 ESTABLISHED
+
+TREATMENT DELAY / CANCELLATION:
+🟢 ESTABLISHED
+
+ACTOR:
+⚪ OPEN
+
+IRAN CONNECTION:
+⚪ NO SUPPORTING PUBLIC EVIDENCE IDENTIFIED
+```
+
+The case matters because the infrastructure effect is measured in altered care pathways, not in whether the building still has electricity.
+
+A patient sent elsewhere has experienced the cyber incident.
+
+---
+
+## 🏨 The Hospital Building Is Part Of The Care System
+
+Health infrastructure does not stop at clinical applications or medical devices.
+
+It also includes facility systems that keep the care environment usable and secure, including:
+
+- heating, ventilation and cooling;
+- environmental monitoring;
+- access control and identity cards;
+- alarms and physical security;
+- lifts and internal movement;
+- power and backup generation;
+- water and medical gases;
+- and the staff who monitor or operate those systems locally when central control is unavailable.
+
+The August ransomware incident affecting parts of Health Sciences Centre Winnipeg and CancerCare Manitoba remains a useful boundary case.
+
+The reported effects included:
+
+```text
+RANSOMWARE INCIDENT:
+🟢 ESTABLISHED
+
+FACILITY-MAINTENANCE SYSTEM EFFECT:
+🟢 ESTABLISHED
+
+CENTRAL HVAC MONITORING AFFECTED:
+🟢 ESTABLISHED
+
+LOCAL MONITORING / ADDITIONAL SECURITY REQUIRED:
+🟢 ESTABLISHED
+
+ACCESS-CARD ADMINISTRATION:
+🟢 DEGRADED
+
+CLINICAL SERVICE DISRUPTION:
+NOT ESTABLISHED IN THE REVIEWED UPDATE
+
+IRAN CONNECTION:
+⚪ NO EVIDENCE FOUND
+```
+
+The infrastructure lesson does not depend on claiming that patient care stopped.
+
+It is that central monitoring, building access, and environmental control are functional dependencies of care.
+
+Continuity achieved through local monitoring and additional personnel demonstrates resilience while also revealing the labour required to replace the affected digital layer.
 
 ---
 
@@ -258,6 +365,55 @@ The dependency matters more than the ownership label.
 
 ---
 
+## 🔐 Veradigm — The API Can Be The Care-Data Boundary
+
+The September Veradigm incident is useful because the intrusion route was not a dramatic hospital-network compromise.
+
+A third-party vendor credential was used to access a customer-service API.
+
+Patient information was downloaded.
+
+The reviewed record did not establish clinical-service disruption.
+
+That gives us:
+
+```text
+THIRD-PARTY CREDENTIAL COMPROMISE:
+🟢 ESTABLISHED
+
+AUTHORISED API USED FOR UNAUTHORISED EXTRACTION:
+🟢 ESTABLISHED
+
+PATIENT DATA DOWNLOADED:
+🟢 ESTABLISHED
+
+CLINICAL SERVICE DISRUPTION:
+❌ NOT REPORTED
+
+BROADER NETWORK ACCESS:
+NOT REPORTED
+
+IRAN CONNECTION:
+⚪ NO EVIDENCE FOUND
+```
+
+The infrastructure lesson is that:
+
+```text
+SUPPLIER
+→ LEGITIMATE CREDENTIAL
+→ AUTHORISED API
+→ DOWNSTREAM HEALTH DATA
+```
+
+is itself an infrastructure path.
+
+The attack surface is not only the hospital firewall.
+
+It includes the trusted relationship around the data.
+
+---
+
 ## 🧬 Health Data Has Continuing Value
 
 Health data is unusually sensitive.
@@ -288,6 +444,106 @@ Once removed from institutional control, it may be used for:
 Restoring the database does not restore the person's privacy.
 
 That is why a health-sector breach cannot be measured only through downtime.
+
+---
+
+## 🏥 Nutex — Material Data Loss Without Material Service Loss
+
+Nutex Health gives another useful boundary.
+
+The company escalated its August incident to a material cybersecurity disclosure and confirmed exfiltration of:
+
+- patient information;
+- employee information;
+- provider information;
+- business information;
+- and financial information.
+
+At the same time, it said no material disruption to hospital operations or financial-reporting systems had been identified.
+
+That means:
+
+```text
+DATA EFFECT:
+🟢 MATERIAL
+
+SERVICE EFFECT:
+LOW / NOT MATERIAL IN COMPANY DISCLOSURE
+
+PERSON-CENTRED RISK:
+🟢 PERSISTENT
+
+IRAN CONNECTION:
+⚪ NO EVIDENCE FOUND
+```
+
+This is exactly why:
+
+```text
+NO MAJOR OUTAGE
+≠
+NO INFRASTRUCTURE HARM
+```
+
+The infrastructure can remain available while the people inside it lose confidentiality.
+
+---
+
+## 🏥 AnMed — Disruption Plus A Coercive Communications Layer
+
+AnMed's July–August incident remains important because it combined operational disruption with loss of trust in the institution's own public voice.
+
+The incident affected:
+
+- computer systems;
+- phone lines;
+- internet connectivity;
+- appointments;
+- elective procedures;
+- imaging;
+- and other services.
+
+The Gentlemen later appeared to hijack AnMed's Facebook page to issue ransom demands.
+
+That produces several separate propositions:
+
+```text
+HEALTHCARE SERVICE DISRUPTION:
+🟢 ESTABLISHED
+
+UNAUTHORISED USE OF ANMED'S SOCIAL-MEDIA CHANNEL:
+🟢 ESTABLISHED
+
+CRIMINAL / EXTORTION MOTIVE:
+🟡 PROBABLE
+
+THE GENTLEMEN RESPONSIBILITY:
+🟡 PROBABLE
+
+CLAIMED DATA VOLUME AND CATEGORIES:
+🟠 SUSPECTED / UNVERIFIED
+
+IRAN CONNECTION:
+⚪ NO EVIDENCE FOUND
+```
+
+The communications layer matters because patients may depend on official channels to learn:
+
+- whether services are open;
+- where emergency care is available;
+- whether appointments are proceeding;
+- how records can be accessed;
+- and what they should do next.
+
+Where an attacker can publish through that channel, the public must ask:
+
+```text
+IS THIS MESSAGE REALLY FROM THE HOSPITAL?
+```
+
+at precisely the moment reliable information matters most.
+
+That is an integrity problem in the institution's public voice.
 
 ---
 
@@ -332,6 +588,42 @@ Education records can shape:
 - and access to further study.
 
 They are therefore part of the infrastructure through which the state allocates opportunity.
+
+---
+
+## 🤖 PaperCut — Education Shows Shared-Software Concentration
+
+The September PaperCut campaign is particularly relevant to education.
+
+GreyNoise reported a likely Russian-speaking operator using hundreds of AI agents to exploit PaperCut NG/MF vulnerabilities across hundreds of servers and organisations.
+
+Education made up a large part of the affected population.
+
+The campaign reportedly produced:
+
+- credentials;
+- OS and domain secrets;
+- and privileged access.
+
+This is not an Iran case.
+
+It is a concentration case.
+
+One shared administrative product can create:
+
+```text
+ONE SOFTWARE FAMILY
+→ MANY SCHOOLS / UNIVERSITIES / PUBLIC BODIES
+→ CREDENTIAL ACCESS
+→ DOMAIN-LEVEL CONTROL
+→ POSSIBLE DOWNSTREAM USE
+```
+
+That is why education software belongs in infrastructure analysis even where the initial application looks mundane.
+
+Printing is not the strategic function.
+
+The privileged access created through the software is.
 
 ---
 
@@ -589,6 +881,48 @@ That is still strategic degradation.
 
 ---
 
+## ⚖️ C-Track — Courts Can Stay Open While The Record Layer Is Compromised
+
+The C-Track incident makes this distinction concrete.
+
+Thomson Reuters disclosed unauthorised access to files in its C-Track court case-management platform across multiple US states, the US Virgin Islands and Ontario.
+
+The platform remained operational.
+
+Court services were not reported to have stopped.
+
+But files were accessed.
+
+Potentially sensitive, confidential, sealed, or redacted material may have been exposed.
+
+That produces:
+
+```text
+COURT SERVICE AVAILABILITY:
+🟢 MAINTAINED
+
+CASE-MANAGEMENT DATA CONFIDENTIALITY:
+🟢 COMPROMISED
+
+LEGAL PROCESS CONTINUITY:
+🟢 MAINTAINED
+
+PERSON / CASE-SPECIFIC RISK:
+🟠 DEPENDS ON FILE CONTENT
+
+RESPONSIBLE ACTOR:
+⚪ OPEN
+
+IRAN CONNECTION:
+⚪ NO EVIDENCE FOUND
+```
+
+This is why a justice incident cannot be measured only through whether hearings continued.
+
+The record layer is part of the justice system.
+
+---
+
 ## 🧾 Provenance Matters
 
 For justice and administration in particular, it may not be enough for information to exist.
@@ -666,6 +1000,107 @@ That is a resilience problem even before attribution is known.
 
 ---
 
+## 🏛️ Suisun And Darlington — Administration Is An Operational Layer
+
+The same principle applies to local government.
+
+Suisun City's August cyberattack affected:
+
+- 911 routing;
+- police and fire dispatch;
+- records;
+- and ordinary city services.
+
+Emergency calls were rerouted through Solano County while public-safety responses continued.
+
+Darlington County separately took systems offline after a cybersecurity incident limited some services.
+
+Emergency services and 911 dispatch remained operational while ordinary phone lines and county functions were affected.
+
+These cases demonstrate:
+
+```text
+PUBLIC-SAFETY FALLBACK WORKED
+≠
+ADMINISTRATIVE FUNCTION WAS UNAFFECTED
+```
+
+and:
+
+```text
+911 REMAINED AVAILABLE
+≠
+THE INCIDENT WAS OPERATIONALLY TRIVIAL
+```
+
+Administration is how:
+
+- permits are issued;
+- records are accessed;
+- money is collected;
+- public works are coordinated;
+- residents contact the state;
+- and emergency services receive institutional support.
+
+The local-government pattern is becoming more visible.
+
+Common sponsorship is not established.
+
+---
+
+## 🇩🇪 Berlin — Administrative Disruption Can Become A Credential Problem
+
+Berlin adds a useful later-stage example.
+
+The state-government compromise produced:
+
+- departmental disconnection;
+- service disruption;
+- data exfiltration;
+- publication;
+- and later release of credentials.
+
+Housing-benefit applications and payments were affected during the response.
+
+That gives a sequence:
+
+```text
+ADMINISTRATIVE COMPROMISE
+→ SERVICE DISRUPTION
+→ DATA THEFT
+→ PUBLICATION
+→ CREDENTIAL RELEASE
+→ POSSIBLE FOLLOW-ON ACCESS BY SOMEONE ELSE
+```
+
+The later user need not be the original attacker.
+
+This is why administrative data and credentials can outlive the incident that produced them.
+
+---
+
+## 🇫🇷 France — Public Data Can Remain Dangerous After Access Is Closed
+
+France's 2026 public-finance incidents remain useful because they show why administrative data exposure should not be treated as a minor privacy annex.
+
+Closing access protects the system from the same route of entry.
+
+It does not recall copied data.
+
+The administrative incident therefore has at least three clocks:
+
+```text
+ACCESS-CONTAINMENT CLOCK
+
+INSTITUTIONAL-RECOVERY CLOCK
+
+PERSON-CENTRED RISK CLOCK
+```
+
+Those clocks may stop at different times.
+
+---
+
 ## 🧍 The Person Can Remain Inside The Incident
 
 Institutions often measure recovery through:
@@ -723,9 +1158,11 @@ Questions include:
 
 The record should also ask who carried continuity while systems were impaired.
 
-A service can remain nominally available because clinicians, teachers, caseworkers, administrators, families, and affected people perform additional work. That is evidence of resilience. It is also a cost, a capacity limit, and sometimes a safety risk.
+A service can remain nominally available because clinicians, teachers, caseworkers, administrators, families, and affected people perform additional work.
 
-These timelines may be very different.
+That is evidence of resilience.
+
+It is also a cost, a capacity limit, and sometimes a safety risk.
 
 The incident should not automatically be marked:
 
@@ -857,7 +1294,8 @@ ATTACKER PERSISTENCE
 → attacker remains inside the system
 
 DATA PERSISTENCE
-→ attacker has left, but the information continues causing effects
+→ attacker has left,
+but the information continues causing effects
 ```
 
 Both belong inside the incident model.
@@ -898,239 +1336,40 @@ This is one reason person-centred recovery can outlast technical recovery by yea
 
 ---
 
-## 🏥 AnMed — When Disruption Acquires A Coercive Communications Layer
+## 🤖 Shared Software Can Turn “Admin” Into Privileged Access
 
-AnMed's July--August 2026 incident shows why a healthcare cyberattack
-cannot be reduced to whether the hospital doors remained open.
+The PaperCut campaign adds another important point.
 
-AnMed identified a malware-related cyber incident on 26 July.
+Administrative software can look peripheral.
 
-Initial reporting described widespread closures across its network,
-with computer systems, phone lines and internet connectivity affected.
-Appointments and some elective procedures were postponed. Medical
-imaging and other services were disrupted. The health system used
-downtime procedures and coordinated with emergency medical services,
-regional hospitals and public-safety partners while restoring systems.
+But if compromising it produces:
 
-That is an availability and operational-continuity incident even where
-emergency care continues.
+- domain credentials;
+- OS secrets;
+- privileged access;
+- or domain-admin footholds,
 
-The incident later changed shape.
+then the software has become a route into the institution.
 
-On 11 August, AnMed's Facebook page displayed repeated ransom demands
-purporting to come from **The Gentlemen** ransomware group. The posts
-claimed theft of highly sensitive patient and institutional data.
-
-AnMed removed the unauthorised material, disabled access through the
-platform and said the claims had not been verified.
-
-The later event creates several separate propositions:
+The distinction is:
 
 ```text
-HEALTHCARE SERVICE DISRUPTION:
-🟢 ESTABLISHED
+APPLICATION FUNCTION:
+MUNDANE
 
-UNAUTHORISED USE OF ANMED'S SOCIAL-MEDIA CHANNEL:
-🟢 ESTABLISHED
-
-CRIMINAL / EXTORTION MOTIVE:
-🟡 PROBABLE
-
-THE GENTLEMEN RESPONSIBILITY:
-🟡 PROBABLE
-
-CLAIMED DATA VOLUME AND CATEGORIES:
-🟠 SUSPECTED / UNVERIFIED
-
-IRAN CONNECTION:
-⚪ NO EVIDENCE FOUND
+ACCESS VALUE:
+HIGH
 ```
 
-The compromised communications channel matters independently of the
-underlying intrusion.
+That is why the security significance of administrative software should not be inferred from what the application appears to do for the user.
 
-A health institution's public channels may be used to tell patients:
-
-- whether services are open;
-- where emergency care is available;
-- whether appointments are proceeding;
-- how records can be accessed;
-- which messages are genuine;
-- and what people should do next.
-
-Where an attacker can publish through that channel, the incident reaches
-the provenance of the institution's public voice.
-
-The public must then ask:
-
-```text
-IS THIS MESSAGE REALLY FROM THE HOSPITAL?
-```
-
-at precisely the moment reliable information matters most.
-
-That can produce coercive effects even before every underlying data
-claim is verified.
-
-It can frighten people represented in the claimed categories, damage
-confidence in the institution, complicate recovery communications and
-create a route for further fraud or impersonation.
-
-But reporting the fear is not permission to report the attacker's data
-inventory as established fact.
-
-Use:
-
-> The attackers claimed to hold highly sensitive patient data. AnMed
-> said the claim had not been verified.
-
-Do not silently convert that into:
-
-> The attackers stole the claimed records.
-
-### Recovery has several clocks
-
-AnMed also shows why recovery needs more than one field:
-
-```text
-CLINICAL SERVICE RECOVERY:
-
-IT SYSTEM RECOVERY:
-
-RECORD ACCESS RESTORED:
-
-PUBLIC COMMUNICATIONS TRUST RESTORED:
-
-DATA-SCOPE INVESTIGATION COMPLETE:
-
-AFFECTED PEOPLE NOTIFIED:
-
-PERSON-CENTRED RISK RESOLVED:
-```
-
-Those clocks will not necessarily stop together.
-
-Sources:
-
-- [AnMed disruption, closures and recovery chronology reported by HIPAA Journal](https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/)
-- [The Record: ransomware group hijacks AnMed's Facebook page](https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response)
-- [WYFF4: AnMed responds to unauthorised ransom posts](https://www.wyff4.com/article/anmed-response-cyberattack-facebook-post-hackers/73406207)
-
----
-
-## 🏛️ Suisun And Darlington — Administration Is An Operational Layer
-
-The same principle applies to local government.
-
-Suisun City's August cyberattack affected 911 routing, police and fire
-dispatch, records and ordinary city services. Emergency calls were
-rerouted through Solano County while public-safety responses continued.
-City Hall and several public-facing functions remained unavailable
-during recovery.
-
-The city council later considered a demand from the perpetrators,
-strengthening a criminal-extortion explanation without publicly
-identifying a specific operator.
-
-Darlington County separately took systems offline after a
-cybersecurity incident limited some services. Emergency services and
-911 dispatch remained operational, while ordinary phone lines and
-county functions were affected. Attribution remained open in the
-reviewed record.
-
-These cases demonstrate:
-
-```text
-PUBLIC-SAFETY FALLBACK WORKED
-≠
-ADMINISTRATIVE FUNCTION WAS UNAFFECTED
-```
-
-and:
-
-```text
-911 REMAINED AVAILABLE
-≠
-THE INCIDENT WAS OPERATIONALLY TRIVIAL
-```
-
-Administration is how permits are issued, records are accessed, money
-is collected, public works are coordinated, residents contact the state
-and emergency services receive institutional support.
-
-The local-government pattern is becoming more visible.
-
-Common sponsorship is not established.
-
-Sources:
-
-- [San Francisco Chronicle: Suisun City initial disruption](https://www.sfchronicle.com/bayarea/article/cyberattack-suisun-city-22380837.php)
-- [San Francisco Chronicle: council considers perpetrator demand](https://www.sfchronicle.com/bayarea/article/suisun-city-cyberattack-demand-22384401.php)
-- [Darlington County statement reported by News and Press](https://www.newsandpress.net/darlington-county-issues-statement-on-cybersecurity-incident/)
-- [WMBF: Darlington services limited while 911 remained operational](https://www.wmbfnews.com/2026/08/12/cybersecurity-incident-limits-some-services-darlington-county/)
-
----
-
-## 🇫🇷 France — Public Data Can Remain Operationally Dangerous After Access Is Closed
-
-France's 2026 public-finance incidents show why administrative data exposure should not be treated as a minor privacy annex to the operational record.
-
-In February, the Direction générale des Finances publiques disclosed unlawful access to FICOBA, the national bank-account register. The ministry said an attacker had used the credentials of an authorised official to consult and extract data relating to an estimated 1.2 million accounts. The affected fields included bank details, account-holder identity, and address. Access was restricted, affected users were to be notified, and banks were alerted to the risk of fraud.
-
-In August, the finance ministry disclosed a separate intrusion affecting tax data relating to approximately 700,000 taxpayers. Reporting described the material as having been offered for sale and identified a criminal-data-theft explanation. A further body of compromised material was still being assessed when the government announced additional cybersecurity testing.
-
-The reviewed record does **not** establish:
-
-- that the February and August incidents had one operator;
-- that either incident was Iranian or Iran-directed;
-- that every accessed record was later misused;
-- or that repeated exposure alone proves a coordinated campaign.
-
-It does establish the importance of separating several questions:
-
-```text
-UNLAWFUL ACCESS CONFIRMED?
-↓
-DATA CONSULTED OR EXTRACTED?
-↓
-WHICH RECORDS AND WHICH PEOPLE?
-↓
-ACCESS CLOSED?
-↓
-DATA STILL AVAILABLE TO AN OUTSIDE ACTOR?
-↓
-FRAUD, IMPERSONATION, SALE, OR TARGETING OBSERVED?
-↓
-CORRECTION, NOTIFICATION, AND PROTECTION COMPLETE?
-```
-
-Closing access protects the system from the same route of entry.
-
-It does not recall copied data.
-
-Nor does it resolve whether exposed information will be combined with other records, used to impersonate the state, or deployed against the people represented in the database.
-
-The administrative incident therefore has at least three clocks:
-
-```text
-ACCESS-CONTAINMENT CLOCK
-
-INSTITUTIONAL-RECOVERY CLOCK
-
-PERSON-CENTRED RISK CLOCK
-```
-
-Sources:
-
-- [French Ministry of Finance: unlawful access to FICOBA](https://presse.economie.gouv.fr/acces-illegitimes-au-fichier-national-des-comptes-bancaires-ficoba/)
-- [Reuters: French taxpayers' data stolen in finance-ministry cyberattack](https://www.reuters.com/legal/litigation/french-taxpayers-data-stolen-cyber-attack-french-finance-ministry-says-2026-08-14/)
-- [Reuters: France announces further cybersecurity testing after tax-agency hacking](https://www.reuters.com/world/france-use-ai-tools-test-cybsecurity-vulnerabilities-after-tax-agency-hacking-2026-08-18/)
+The attacker may care about what the application can reach.
 
 ---
 
 ## 🇮🇷 Why These Sectors Matter In The Iran War
 
-Health, education, and administration offer strategic value because they combine:
+Health, education, justice, and administration offer strategic value because they combine:
 
 - essential public function;
 - sensitive personal data;
@@ -1152,7 +1391,17 @@ Iranian or Iran-linked actors may benefit from targeting these sectors for:
 
 That does not mean every incident in these sectors is Iranian.
 
-It means they should not be dismissed as peripheral simply because they lack the visual drama of a power outage.
+The current dataset contains strong non-Iran examples.
+
+That is analytically useful.
+
+It shows that:
+
+```text
+THE SECTOR MATTERS
+even where
+THE SPONSOR DIFFERS
+```
 
 A campaign may seek to make the state less capable of knowing:
 
@@ -1306,31 +1555,41 @@ COUNTRY:
 SECTOR:
 AFFECTED BODY:
 PUBLIC FUNCTION:
+
 SYSTEM / RECORD TYPE:
 SERVICE AVAILABILITY:
 CONTINUITY WORKAROUND:
 STAFF / FAMILY / USER BURDEN:
 HIGH-DEPENDENCY USERS:
+
 RECORD AVAILABILITY:
 RECORD INTEGRITY:
 DATA CONFIDENTIALITY:
 AUTHORITATIVE RECORD STATUS:
 RECORD PROVENANCE:
 IDENTITY / MATCHING IMPACT:
+
 SAFEGUARDING IMPACT:
 RIGHTS / CARE / LEGAL-PROCESS IMPACT:
 INDIVIDUAL RISK:
 DOWNSTREAM MISUSE OBSERVED:
+
 NOTIFICATION / PROTECTION:
 CORRECTION / REMEDY:
+
 SHARED IDENTITY / CONTRACTOR DEPENDENCY:
+SHARED SOFTWARE:
+THIRD-PARTY CREDENTIAL:
+API / TRUSTED-ACCESS PATH:
 UPSTREAM RECORD DEPENDENCY:
 DOWNSTREAM INSTITUTIONAL EFFECT:
+
 DATA PERSISTENCE RISK:
 TECHNICAL RECOVERY:
 PERSON-CENTRED RECOVERY:
 PROTECTION PATHWAY:
 INCIDENT OWNER:
+
 CLAIMED ACTOR:
 OFFICIAL ATTRIBUTION:
 OTHER ATTRIBUTION:
@@ -1338,6 +1597,7 @@ CONFIDENCE:
 IRAN RELEVANCE:
 RIVAL EXPLANATIONS:
 IHL REVIEW NEEDED:
+
 SOURCES:
 LAST REVIEWED:
 ```
@@ -1374,6 +1634,8 @@ A pattern in health, education, justice, or administration should be treated as 
 - identity or matching failures propagating between systems;
 - repeated compromise of a shared contractor or identity provider;
 - one breach producing effects across several public bodies;
+- third-party credentials being reused across public-service systems;
+- shared administrative software producing privileged access;
 - technical recovery without meaningful person-centred recovery;
 - data being reused for later coercion, targeting, or fraud;
 - disruption materially affecting care, rights, liberty, or legal process;
@@ -1413,6 +1675,12 @@ longer person-centred harm
 or:
 
 ```text
+more reusable privileged access
+```
+
+or:
+
+```text
 stronger campaign linkage
 ```
 
@@ -1425,7 +1693,7 @@ Those are different forms of escalation.
 This node does not claim that:
 
 - every education or health breach is strategically directed;
-- every administrative outage is hostile activity;
+- every administrative outage is hostile-state activity;
 - every conflicting record is evidence of cyber interference;
 - every exposed person will suffer further harm;
 - every data exposure proves later fraud, coercion, or targeting;
@@ -1434,6 +1702,8 @@ This node does not claim that:
 - every fragmented response reflects deliberate concealment;
 - every downstream error was caused by the original incident;
 - every shared contractor indicates a common campaign;
+- every shared-software compromise is strategically targeted;
+- a hospital-support-system incident means an attacker controlled the physical plant;
 - or every wartime cyber incident against a civilian system constitutes a war crime.
 
 It argues that these systems are essential infrastructure and should be assessed through:
@@ -1472,6 +1742,8 @@ Record whether the state still knows which record is authoritative.
 
 Record who remained at risk after the system came back online.
 
+Record whether a supplier, credential, API, or shared platform carried the access.
+
 Technical recovery matters.
 
 Person-centred recovery matters too.
@@ -1480,47 +1752,96 @@ That is the real measure of the incident.
 
 ---
 
+## 🧠 Current Assessment — 14 September 2026
+
+The September evidence strengthens several propositions:
+
+```text
+HEALTHCARE CAN BE DEGRADED WITHOUT CLOSING:
+🟢 LUMINIS / ANMED
+
+HOSPITAL FACILITY SYSTEMS CAN BE PART OF CARE INFRASTRUCTURE:
+🟢 MANITOBA
+
+DATA LOSS CAN BE MATERIAL WITHOUT MATERIAL SERVICE LOSS:
+🟢 NUTEX
+
+THIRD-PARTY CREDENTIALS CAN CREATE HEALTH-DATA ACCESS:
+🟢 VERADIGM
+
+COURT SERVICE CAN CONTINUE WHILE CASE DATA IS COMPROMISED:
+🟢 C-TRACK
+
+ADMINISTRATIVE SOFTWARE CAN CREATE PRIVILEGED ACCESS:
+🟢 PAPERCUT CAMPAIGN
+
+TECHNICAL RECOVERY:
+DOES NOT END PERSON-CENTRED RISK
+
+COMMON SPONSOR ACROSS THESE INCIDENTS:
+⚪ NOT ESTABLISHED
+```
+
+The boundary is now clearer.
+
+These are not “soft” systems.
+
+They are systems where harm often appears first as:
+
+- delay;
+- mistrust;
+- exposure;
+- rerouting;
+- identity failure;
+- or downstream reliance
+
+rather than smoke.
+
+That does not make the harm less infrastructural.
+
+---
+
 ## 🌌 Constellations
 
-🏥 🎓 🏢 ⚖️ 🧍 🪪 🧾 — health; education; administration; justice; person-centred risk; identity; authoritative records; continuity burden; downstream harm.
+🏥 🎓 🏢 ⚖️ 🧍 🪪 🧾 🕸️ — health; education; administration; justice; person-centred risk; identity; authoritative records; shared access.
 
 ---
 
 ## ✨ Stardust
 
-health infrastructure, education systems, public administration, safeguarding data, justice systems, personal data, civilian infrastructure, state capacity, record integrity, identity infrastructure, authoritative records, communications provenance, coercive messaging, person-centred recovery, continuity burden, downstream misuse, data dependencies, international humanitarian law
+health infrastructure, education systems, public administration, safeguarding data, justice systems, personal data, civilian infrastructure, state capacity, record integrity, identity infrastructure, authoritative records, communications provenance, shared software, third-party credentials, api access, person-centred recovery, continuity burden, downstream misuse, data dependencies, international humanitarian law
 
 ---
 
 ## 🏮 Footer
 
-*🏥 Health, Education And Admin Are Not Soft Extras* is a living node of the **Polaris Protocol**.
-It explains why civilian systems, authoritative public records, identity infrastructure, and person-centred data belong inside essential-infrastructure cyber analysis, including where technical recovery occurs before institutional or human recovery is complete.
+*🏥 Health, Education And Admin Are Not Soft Extras* is a living node of the **Polaris Protocol**.  
+It explains why civilian systems, authoritative public records, identity infrastructure, shared administrative platforms, and person-centred data belong inside essential-infrastructure cyber analysis, including where technical recovery occurs before institutional or human recovery is complete.
 
 > 📡 Cross-references:
 >
 > - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *root orientation and pack map*
 > - [🏗️ What Counts As State Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) — *functional infrastructure perimeter and dependencies*
 > - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *cumulative strategic effect and campaign development*
-> - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *availability, integrity, operational depth, and physical-system consequences*
-> - [🏦 Banks Are Part Of The Battlespace](./🏦_banks_are_part_of_the_battlespace.md) — *financial infrastructure, shared dependencies, and layered recovery*
-> - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *layered acquisition, data transfer, and later exploitation*
+> - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *availability, integrity, operational depth and physical-system consequences*
+> - [🏦 Banks Are Part Of The Battlespace](./🏦_banks_are_part_of_the_battlespace.md) — *financial infrastructure, shared dependencies and layered recovery*
+> - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *layered acquisition, data transfer and later exploitation*
 > - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *graded attribution and uncertainty*
 > - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *claim-level wording and proposition control*
-> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *source provenance, independence, and evidence audit trail*
+> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *source provenance, independence and evidence audit trail*
 > - [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) — *fragmented response as adversary-facing weakness*
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
-> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology*
-> - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating healthcare ransomware and municipal disruption from the Iran-linked water core*
+> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology through 14 September 2026*
+> - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating healthcare ransomware, administrative compromise and shared-platform access from the Iran-linked OT core*
 >
 > 🏮 Return To:
 >
 > - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
 > - [🌊 Playing Defence](../README.md) — *2up*
-> - [📲_Press Matters](../../README.md) — *3up*
+> - [📲 Press Matters](../../README.md) — *3up*
 > - [🌓 In The Moment](../../../README.md) — *4up*
-> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-20_
+_Last updated: 2026-09-14_
