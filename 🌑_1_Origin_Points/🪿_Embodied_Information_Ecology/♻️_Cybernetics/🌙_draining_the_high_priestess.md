@@ -824,8 +824,7 @@ It maps the cybernetic and economic risks that arise when institutions extract v
 
 > 📡 Cross-references:
 >
-> - [♻️ Cybernetics](./README.md) — *parent cluster for feedback, control, adaptation and information-loop analysis*  
-> - [🪿 Embodied Information Ecology](../README.md) — *wider framework for treating information as embodied, ecological and materially costly*  
+> - [🌸 Digitally Women](../../../../🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/README.md) — *follow the downstream implications for women navigating contemporary digital systems: participation, safety, data governance, AI-mediated harms, and the social conditions required for women to remain meaningfully present online*
 >  
 > 🏮 Return To:
 >
