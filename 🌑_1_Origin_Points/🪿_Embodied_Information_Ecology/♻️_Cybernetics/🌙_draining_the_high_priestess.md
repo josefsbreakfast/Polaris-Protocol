@@ -2155,7 +2155,35 @@ Do the audit now.
 
 Find the decimal.
 
-Then behave like a grown-up.
+Then behave like a grown-up.  
+
+---  
+
+## 🤔 One Final Question For Christian Governance
+
+### Why are you sponsoring Edwardian sex magic? 🤔
+
+You have spent quite a lot of time telling everyone that the civilisation being defended is **Christian**.
+
+Fair enough.
+
+Unfortunately, we have now checked the provenance.
+
+The intellectual and symbolic infrastructure running underneath parts of the modern Western information environment turns out to contain rather a lot of:
+
+**Christianity + Jewish mysticism + Egyptian religion + Hermeticism + Freemasonry + ceremonial magic + Aleister Crowley doing things which would make several contemporary Christian politicians require a small lie-down.**
+
+None of this means that contemporary AI, cyber or defence programmes are literally practising ceremonial magic.
+
+It does mean that civilisations are considerably more **syncretic, promiscuous and historically weird** than political branding generally permits.
+
+So if Christian identity is going to be invoked as a justification for governing modernity, there is one final and entirely reasonable due-diligence question:
+
+> **Why are you sponsoring a computational realisation of Edwardian sex magic, explicitly created to transgress Christian cultural norms?**
+
+Please show your working.
+
+🧮
 
 ---
 
