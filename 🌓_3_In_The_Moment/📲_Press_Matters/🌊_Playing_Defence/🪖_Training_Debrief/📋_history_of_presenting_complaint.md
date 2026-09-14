@@ -1708,7 +1708,7 @@ It places the current training dispute inside the longer history of British forc
 > 📡 Cross-references:
 >
 > - [🩺 Presenting Complaint](./🩺_presenting_complaint.md) — *the immediate September 2026 complaint*
-> - [⚖️ Where Do We Put The Risk?](./⚖️_where_do_we_put_the_risk.md) — *realistic training, synthetic environments and risk displacement*
+- [🪖 Futures of Defence](../../../../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🤖_AI_Beyond_AI/🪖_futures_of_defence.md) — *where emerging technology can reduce avoidable physical risk without substituting synthetic confidence for operational competence*  
 > - [🔬 Tests And Investigations](./🔬_tests_and_investigations.md) — *what evidence would establish the problem*
 > - [🪖 What Training Is For](./🪖_what_training_is_for.md) — *collective competence and the function of training*
 > - [⚙️ The Feedback Machine](./⚙️_the_feedback_machine.md) — *institutional learning and signal transmission*
