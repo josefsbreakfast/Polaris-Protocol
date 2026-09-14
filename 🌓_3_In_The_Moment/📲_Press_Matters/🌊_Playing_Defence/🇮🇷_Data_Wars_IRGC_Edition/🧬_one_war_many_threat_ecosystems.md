@@ -1,25 +1,32 @@
 # 🧬 One War, Many Threat Ecosystems
-**First created:** 2026-08-15 | **Last updated:** 2026-08-20  
-*How one wartime attack surface can contain state-linked operations, criminal campaigns, shared-vulnerability waves, copycats and unresolved incidents without one common command structure.*
+**First created:** 2026-08-15 | **Last updated:** 2026-09-14  
+*How one wartime attack surface can contain state-linked operations, criminal campaigns, shared-vulnerability waves, access manufacturing, narrative ride-alongs, contractor ecosystems and defender-side seams without one common command structure.*
 
 ---
 
 ## 🛰️ Orientation
 
-The widening Iran war has produced a noisy cyber environment around
-essential infrastructure.
+The widening Iran war has produced a noisy cyber environment around essential infrastructure.
 
 Water systems have experienced operational interference.
 
-Hospitals have lost access to ordinary clinical systems.
+A British power generator was taken offline for four days.
 
-Local governments have taken networks offline and rerouted public-safety
-functions.
+Healthcare organisations have suffered ransomware, data theft, ambulance diversion and facility-support disruption.
+
+Local governments have taken networks offline and rerouted public-safety functions.
 
 Warehouses have been unable to ship goods.
 
-Major industrial, energy, medical-technology and financial companies
-have appeared together in mass-extortion reporting.
+Shared court and administrative platforms have exposed sensitive records.
+
+Shared software has generated privileged footholds across hundreds of organisations.
+
+A China-linked hacker-for-hire ecosystem has operated against overlapping sectors.
+
+Iran-nexus reconnaissance has mapped naval, communications and industrial-control technology.
+
+And a real telecom outage has been falsely or unsupportedly claimed as part of the hostile campaign.
 
 Those events belong in the same threat-environment watch.
 
@@ -34,11 +41,9 @@ ONE WAR
 → SEVERAL DIFFERENT ORGANISING MECHANISMS
 ```
 
-That produces **one conflict environment** containing **many threat
-ecosystems**.
+That produces **one conflict environment** containing **many threat ecosystems**.
 
-The analytical task is to identify what joins each cluster before
-drawing an arrow to a common sponsor.
+The analytical task is to identify what joins each cluster before drawing an arrow to a common sponsor.
 
 One flag pinned to every outage is not attribution.
 
@@ -48,14 +53,13 @@ It is corkboard theatre.
 
 ## 🧫 What A Threat Ecosystem Is
 
-A threat ecosystem is the set of actors, access routes, technologies,
-incentives, intermediaries, targets and opportunities through which a
-class of hostile activity is produced.
+A threat ecosystem is the set of actors, access routes, technologies, incentives, intermediaries, targets and opportunities through which a class of hostile activity is produced.
 
 Its organising mechanism may be:
 
 - common state tasking;
 - a historically affiliated actor network;
+- a hacker-for-hire contractor model;
 - a ransomware affiliate programme;
 - an access-broker market;
 - one widely exploitable product;
@@ -63,6 +67,8 @@ Its organising mechanism may be:
 - ideological alignment;
 - publicised target vulnerability;
 - defender exhaustion;
+- narrative opportunism;
+- alliance uncertainty;
 - or several mechanisms at once.
 
 The ecosystem is therefore wider than the named operator.
@@ -91,78 +97,81 @@ end users and later beneficiaries
 publicity
 +
 institutional response
++
+allied response
 ```
 
-Two incidents may occupy the same wartime ecosystem without sharing an
-operator.
+Two incidents may occupy the same wartime ecosystem without sharing an operator.
 
-Two operators may share an infrastructure provider without sharing a
-customer.
+Two operators may share an infrastructure provider without sharing a customer.
 
 One operator may serve several customers.
 
-And one initial compromise may acquire a different strategic meaning
-after access changes hands.
+One customer may use several operators.
+
+One initial compromise may acquire a different strategic meaning after access changes hands.
+
+And several unrelated actors may repeatedly benefit from the same defensive seam.
 
 ---
 
-## 🧭 Current Ecosystem Map
+## 🧭 Current Ecosystem Map — 14 September 2026
 
 | Ecosystem | Present organising mechanism | Attribution position | Iran relationship | Critical limit |
 |---|---|---|---|---|
-| Minnesota / core water OT wave | repeated targeting of exposed operational technology; relevant prior actor history | 🟡 probable Iran-linked responsibility | strengthened by reported assessments and APT IRAN/CyberAv3ngers claim | no formal public attribution or public forensic validation of the claim through 19 August |
-| Wider US water recurrence | shared target class, exposed PLCs and recurring operational effects | mixed; potentially several operators | incident-specific ⚪/🟠/🟡 | core-wave attribution cannot be inherited by every state or utility |
-| AnMed healthcare disruption | ransomware and extortion ecosystem | 🟡 probable The Gentlemen / criminal activity | ⚪ no evidence found | claimed data volume and categories remain unverified |
-| US local-government disruption | recurring exposure of unevenly defended municipal systems | heterogeneous or unresolved | ⚪ no evidence found for reviewed new incidents | recurrence does not establish one operator |
-| CEVA logistics incident | unattributed compromise of private warehouse systems | ⚪ open | ⚪ no evidence found | no port-control, OT or military-logistics compromise established |
-| Cl0p / Windchill / FlexPLM wave | probable exploitation of shared enterprise software for data extortion | 🟡 probable criminal mass-exploitation campaign | ⚪ no evidence found | strategically interesting victims do not prove strategic selection |
-| UNC6671 / BlackFile-related finance targeting | vishing, identity compromise and criminal extortion | 🟢 established criminal campaign pattern | ⚪ no public Iran evidence | not every named target was confirmed compromised; no systemic market outage |
-| French tax and financial-administration exposure | repeated compromise of sensitive government-held financial, tax and property data | mixed criminal and unresolved incidents; operator continuity not established | ⚪ no public Iran evidence | recurrence within one administrative environment does not prove one campaign or customer |
+| Minnesota / core US water OT wave | repeated targeting of exposed OT; relevant prior actor history | 🟡 probable Iran-linked responsibility | strongest Iran-facing case in current infrastructure record | no formal public attribution of every incident; current IRGC direction not publicly established |
+| Wider 100+ US water recurrence | shared target class, exposed PLCs, repeated controller interaction | mixed; potentially several operators | incident-specific ⚪/🟠/🟡 | core-wave attribution cannot be inherited by all 100+ systems |
+| Iran-linked energy / telecom expansion | access attempts, reconnaissance, sector widening | campaign-level Iran link stronger than incident-level attribution | 🟡 / 🟢 developing | newest tranche mostly access/recon, not major confirmed outages |
+| UK generator shutdown | cyber-to-physical energy disruption | actor still publicly under-specified | 🟠 / 🟡 reported Iran-linked | formal public NCSC attribution not identified; facility role partly undisclosed |
+| Healthcare ransomware / data incidents | ransomware, credential abuse, data theft, facility-support disruption | criminal or unresolved by incident | ⚪ no Iran evidence found in reviewed cases | serious effects do not imply one campaign |
+| Local-government / administrative disruption | unevenly defended public systems, extortion, service degradation | heterogeneous or unresolved | ⚪ no Iran evidence for reviewed incidents | recurrence does not establish one operator |
+| C-Track / shared public-service platforms | shared provider concentration and record exposure | actor open | ⚪ no Iran evidence | service continuity can coexist with confidentiality loss |
+| PaperCut mass exploitation | shared vulnerability + AI-assisted access manufacturing | 🟡 probable criminal ecosystem | ⚪ no Iran evidence; reported avoidance list included Iran | victim mix reflects exposure; later strategic users remain unproven |
+| QScan / QTRouter | hacker-for-hire / contractor ecosystem with govt and military customers | 🟢 state-linked Chinese concern | ⚪ separate from Iran | overlapping sectors weaken target-based attribution uniqueness |
+| CEVA logistics incident | private warehouse compromise | ⚪ open | ⚪ no Iran evidence | no port-control or maritime OT compromise established |
+| Cl0p / shared enterprise software | scalable shared-software extortion | 🟡 probable criminal mass exploitation | ⚪ no Iran evidence | strategically interesting victims do not prove strategic selection |
+| APT IRAN / AT&T claim | narrative ride-along on real outage | causation rejected by AT&T | actor claim Iran-themed | real outage ≠ actor caused outage |
+| Anthropic Iran-nexus naval reconnaissance | military / technical reconnaissance and capability development | Iran-nexus actor disclosed | 🟡 Iran-nexus | no confirmed exploitation or operational effect |
+| Alliance / governance seam | policy divergence, hedging, slower coordination | defender-side condition, not attacker attribution | Iran may benefit without causing it | benefit ≠ causation |
 
-The matrix shows why **pattern confidence** and **common-sponsor
-confidence** can move in different directions.
+The matrix shows why **pattern confidence**, **common-operator confidence**, and **common-sponsor confidence** can move in different directions.
 
 ```text
 CROSS-SECTOR HOSTILE ACTIVITY:
-INCREASINGLY WELL ESTABLISHED
+🟢 WELL ESTABLISHED
+
+MULTIPLE THREAT ECOSYSTEMS:
+🟢 ESTABLISHED
 
 ONE COMMON OPERATOR:
-NOT ESTABLISHED
+⚪ NOT ESTABLISHED
 
 ONE COMMON CUSTOMER:
-NOT ESTABLISHED
+⚪ NOT ESTABLISHED
 
 ONE COMMON COMMISSIONER:
-NOT ESTABLISHED
+⚪ NOT ESTABLISHED
 
 ONE COMMON STATE SPONSOR:
-NOT ESTABLISHED
+⚪ NOT ESTABLISHED
 ```
 
 ---
 
 ## 🚰 Ecosystem One — The Iran-Linked Water Core
 
-The Minnesota / core water wave carries the strongest Iran-linked
-assessment in the current US infrastructure record.
+The Minnesota / core water wave carries the strongest Iran-linked assessment in the current US infrastructure record.
 
 The relevant evidence includes:
 
-- more than 30 Minnesota community water systems initially reported as
-  affected, with later Minnesota reporting referring to more than 40
-  communities reporting impacts;
-- interference with operational technology and temporary equipment
-  malfunction;
-- similar activity across several US states;
-- prior US government attribution of CyberAv3ngers-associated PLC
-  exploitation to an IRGC-affiliated advanced persistent threat;
-- a July 2026 government advisory on Iranian-affiliated exploitation of
-  internet-connected PLCs;
-- a 19 August joint federal advisory confirming an active threat to Siemens S7 Series PLCs across water and other critical-infrastructure sectors, while not naming the operator of the recent local water incidents;
-- reported investigative and intelligence assessments favouring an
-  Iranian explanation;
-- and a subsequent responsibility claim from APT IRAN and
-  CyberAv3ngers.
+- more than 30 Minnesota community water systems initially reported affected;
+- interference with operational technology;
+- configuration or credential changes;
+- loss of monitoring or control;
+- some physical-process effects;
+- prior US government attribution of CyberAv3ngers-associated PLC exploitation to an IRGC-affiliated threat;
+- reported intelligence and investigative assessments favouring an Iranian explanation;
+- and a subsequent responsibility claim from APT IRAN and CyberAv3ngers.
 
 Those layers materially strengthen one another.
 
@@ -172,11 +181,7 @@ The claim remains an actor claim.
 
 The reported intelligence assessment remains a reported assessment.
 
-The prior government attribution remains evidence of historical actor
-relationship and relevant capability.
-
-The current federal campaign attribution remains unpublished or absent
-from the reviewed public record.
+The prior government attribution remains evidence of historical actor relationship and relevant capability.
 
 The correct result is:
 
@@ -191,34 +196,25 @@ CURRENT ACTOR CLAIM:
 📣 ESTABLISHED AS A CLAIM
 
 CURRENT IRGC DIRECTION:
-NOT PUBLICLY ESTABLISHED BY THE CLAIM
+⚪ NOT PUBLICLY ESTABLISHED BY THE CLAIM
 
-FORMAL PUBLIC FEDERAL ATTRIBUTION:
-NOT IDENTIFIED THROUGH 19 AUGUST
+FORMAL PUBLIC ATTRIBUTION OF EVERY INCIDENT:
+⚪ NOT ESTABLISHED
 ```
 
-The 19 August advisory strengthens the active-threat and target-class findings.
+The Iran-linked assessment should follow the supported wave.
 
-It does not, by itself, strengthen the proposition that a particular named actor conducted the Minnesota intrusions.
-
-Sources:
-
-- [KSTP: APT IRAN and CyberAv3ngers claim responsibility for Minnesota](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/)
-- [CISA and partners: prior IRGC-affiliated PLC exploitation](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a)
-- [CISA: 2026 Iranian-affiliated PLC exploitation advisory](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a)
-- [FBI: malicious actors targeting water-sector internet-facing PLCs](https://www.fbi.gov/investigate/cyber/alerts/2026/malicious-cyber-actors-targeting-water-and-wastewater-sector-internet--facing-programmable-logic-controllers-causing-operational-disruptions)
-- [NSA, CISA, FBI, DOE and EPA: active threat to Siemens S7 Series PLCs](https://media.defense.gov/2026/Aug/18/2003983494/-1/-1/1/CSA_ACTIVE_THREAT_TO_SIEMENS_S7_SERIES_PLCS.PDF)
-- [Reuters: new PLC warning without formal Iran attribution for the recent local water incidents](https://www.reuters.com/world/us-warns-siemens-devices-can-be-hacked-amid-fears-iran-is-breaching-water-plants-2026-08-19/)
-- [Reuters: Trump rejects Iranian responsibility while investigation continues](https://www.reuters.com/world/us/trump-says-iran-not-blame-minnesota-cyber-attack-2026-07-31/)
+It should not flood the whole map.
 
 ---
 
-## 🌊 Ecosystem Two — The Wider Water Recurrence
+## 🌊 Ecosystem Two — The Wider 100+ Water Recurrence
 
-The wider water pattern is established more strongly than its common
-sponsorship.
+The wider water pattern is established more strongly than its common sponsorship.
 
-Across the public record, water and wastewater operators reported:
+By late August, CISA had publicly disclosed more than **100 internet-exposed water and wastewater systems** targeted during July.
+
+Across the public record, operators reported:
 
 - password or credential changes;
 - device disconnection;
@@ -239,7 +235,7 @@ The wider recurrence could contain:
 - several actors exploiting the same exposed equipment;
 - copycats prompted by publicity;
 - criminal or hacktivist activity;
-- unrelated incidents grouped by timing;
+- automated scanning;
 - or mixtures of these.
 
 Therefore:
@@ -248,7 +244,7 @@ Therefore:
 COMMON TARGET CLASS:
 🟢 ESTABLISHED
 
-NATIONALLY DISTRIBUTED RECURRENCE:
+100+ SYSTEM SCALE:
 🟢 ESTABLISHED
 
 COMMON OPERATOR:
@@ -258,621 +254,910 @@ COMMON SPONSOR:
 ⚪ OPEN
 ```
 
-The Iran-linked assessment should follow the supported wave.
+This ecosystem now has both:
 
-It should not flood the whole map.
+```text
+DEPTH
+```
+
+and:
+
+```text
+SCALE
+```
+
+The second matters even where the first varies by site.
 
 ---
 
-## 🏥 Ecosystem Three — Healthcare Ransomware
+## ⚡ Ecosystem Three — Iran-Linked Energy And Telecom Expansion
 
-AnMed experienced prolonged malware-related disruption beginning on 26
-July.
+By early September, reporting described increased Iranian government-linked attempts against:
 
-Facilities closed, appointments and procedures were affected, imaging
-and other services were disrupted, and recovery continued over several
-weeks.
+- electricity;
+- telecommunications;
+- and other US critical infrastructure.
 
-The incident then acquired an additional coercive layer when AnMed's
-Facebook page displayed repeated ransom messages attributed to The
-Gentlemen.
+The most important current finding is widening target scope.
 
-The posts claimed theft of highly sensitive patient and institutional
-data.
+The newest tranche was primarily associated with:
 
-AnMed said those claims had not been verified.
+- reconnaissance;
+- access attempts;
+- and capability development
 
-That produces a conventional ransomware assessment:
+rather than a string of major confirmed outages.
+
+That supports:
 
 ```text
-HEALTHCARE SERVICE DISRUPTION:
+IRAN-FACING TARGETING SCOPE:
+🟢 WIDER
+
+ENERGY / TELECOM INTEREST:
+🟡 / 🟢 CREDIBLY REPORTED
+
+COMMON OPERATOR ACROSS SECTORS:
+⚪ NOT ESTABLISHED
+
+MAJOR PHYSICAL EFFECT ACROSS NEW TRANCHE:
+⚪ NOT ESTABLISHED
+```
+
+The ecosystem is widening.
+
+The incident-level attribution picture remains granular.
+
+---
+
+## ⚡ Ecosystem Four — The UK Generator
+
+The July cyberattack on a small UK generator produced a different evidentiary shape.
+
+Public reporting says:
+
+- the facility was forced offline;
+- the effect lasted four days;
+- the wider grid was not threatened;
+- and the attackers were described as Iran-linked.
+
+A formal public NCSC attribution naming Iran, the IRGC or a specific group was not identified in the reviewed record.
+
+That creates:
+
+```text
+CYBER-TO-PHYSICAL EFFECT:
 🟢 ESTABLISHED
 
-CRIMINAL EXTORTION MOTIVE:
-🟡 PROBABLE
+ENERGY-SECTOR SIGNIFICANCE:
+🟢 ESTABLISHED
 
-THE GENTLEMEN RESPONSIBILITY:
-🟡 PROBABLE
+IRAN-LINKED ASSESSMENT:
+🟠 / 🟡 DEVELOPING
 
-CLAIMED DATA CONTENT AND VOLUME:
-🟠 SUSPECTED / UNVERIFIED
-
-IRAN CONNECTION:
-⚪ NO EVIDENCE FOUND
+FORMAL PUBLIC STATE ATTRIBUTION:
+⚪ NOT IDENTIFIED
 ```
 
-This does not disprove the Iran-linked water assessment.
+This case belongs in the Iran-facing war environment.
 
-It demonstrates that serious civilian infrastructure disruption can be
-produced simultaneously by a different ecosystem with a different
-incentive structure.
-
-Sources:
-
-- [The Record: ransomware group hijacks AnMed's Facebook page](https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response)
-- [HIPAA Journal: AnMed disruption, closures and recovery](https://www.hipaajournal.com/anmed-closes-almost-80-facilities-while-it-grapples-with-cyberattack/)
-- [WYFF4: AnMed responds to unauthorised ransom posts](https://www.wyff4.com/article/anmed-response-cyberattack-facebook-post-hackers/73406207)
+It should not be silently merged into the US water operator assessment.
 
 ---
 
-## 🏛️ Ecosystem Four — Local Government Under Repeated Pressure
+## 🏥 Ecosystem Five — Healthcare Ransomware And Data Pressure
 
-Local-government incidents deserve their own pattern marker.
+The healthcare cluster now contains several different mechanisms.
 
-Suisun City's August cyberattack affected 911 routing, police and fire
-dispatch, records and city services. Emergency calls were rerouted
-through Solano County while public-safety responses continued.
+### AnMed
 
-The city council later considered a demand from the perpetrators,
-strengthening a criminal-extortion explanation without identifying a
-specific operator or ransomware family.
+- service disruption;
+- closures;
+- appointment and procedure effects;
+- ransomware / extortion indicators;
+- later social-media coercion.
 
-Darlington County separately took systems offline after a cybersecurity
-incident limited some services. Its emergency services and 911
-communications remained operational. The reviewed public record did not
-identify an actor, ransomware demand, access route or data theft.
+### Manitoba
 
-These incidents share:
+- facility-maintenance ransomware;
+- central HVAC monitoring affected;
+- local operation continued;
+- access-card administration degraded;
+- clinical care reportedly continued.
 
-- local-government function;
-- degraded ordinary services;
-- dependence on fallback and neighbouring capacity;
-- and institutions with more limited cyber resources than central
-  government.
+### Nutex
 
-They do not yet share an established operator.
+- sensitive data exfiltration;
+- no material hospital-operational disruption disclosed.
+
+### Luminis
+
+- ambulance diversion;
+- treatment delays and cancellations;
+- patient-facing system disruption.
+
+### Veradigm
+
+- third-party credential;
+- customer-service API;
+- patient data extraction;
+- no reported clinical disruption.
+
+These incidents do not form one proven operation.
+
+They do form a shared healthcare-defence problem.
 
 ```text
-LOCAL-GOVERNMENT EXPOSURE PATTERN:
-🟠 CREDIBLE / INCREASING
+HEALTHCARE EFFECTS:
+🟢 ESTABLISHED
 
 COMMON OPERATOR:
-⚪ OPEN
+⚪ NOT ESTABLISHED
 
 COMMON SPONSOR:
-⚪ OPEN
+⚪ NOT ESTABLISHED
 
-IRAN CONNECTION FOR THE NEWLY REVIEWED INCIDENTS:
-⚪ NO EVIDENCE FOUND
+IRAN CONNECTION:
+⚪ NO EVIDENCE FOUND IN REVIEWED CASES
 ```
 
-Sources:
-
-- [San Francisco Chronicle: Suisun City initial disruption](https://www.sfchronicle.com/bayarea/article/cyberattack-suisun-city-22380837.php)
-- [San Francisco Chronicle: council considers perpetrator demand](https://www.sfchronicle.com/bayarea/article/suisun-city-cyberattack-demand-22384401.php)
-- [Darlington County statement reported by News and Press](https://www.newsandpress.net/darlington-county-issues-statement-on-cybersecurity-incident/)
-- [WMBF: Darlington services limited while 911 remained operational](https://www.wmbfnews.com/2026/08/12/cybersecurity-incident-limits-some-services-darlington-county/)
+This is a separate ecosystem operating in the same wartime period.
 
 ---
 
-## ✈️ Ecosystem Five — Logistics Without A Port Attack
+## 🏛️ Ecosystem Six — Administrative And Justice Exposure
 
-CEVA Logistics suffered a cyberattack affecting eight European
-warehouses and producing shipment delays. Subsequent affected-customer
-reporting also identified exposure of some delivery and contact data.
+Berlin and C-Track illustrate another ecosystem.
 
-This is operational logistics disruption.
+Berlin involved:
+
+- state-government compromise;
+- service disruption;
+- data theft;
+- later publication;
+- and credential release.
+
+C-Track involved:
+
+- unauthorised access to court files;
+- shared case-management infrastructure;
+- no reported court shutdown;
+- and actor attribution still open.
+
+The organising mechanism is not one proven operator.
+
+It is:
+
+```text
+PUBLIC-SERVICE INFORMATION INFRASTRUCTURE
++
+SHARED OR CENTRAL SYSTEMS
++
+HIGH DOWNSTREAM TRUST
+```
+
+The risk is not only availability.
+
+It is confidentiality, provenance and later reuse.
+
+---
+
+## 🤖 Ecosystem Seven — PaperCut Access Manufacturing
+
+The September PaperCut campaign provides the clearest current example of access manufacturing.
+
+GreyNoise reported a likely Russian-speaking operator using hundreds of AI agents to exploit PaperCut NG/MF vulnerabilities across hundreds of organisations.
+
+The campaign reportedly produced:
+
+- credentials;
+- OS and domain secrets;
+- privileged access;
+- and some domain-admin footholds.
+
+Victims spanned:
+
+- education;
+- government;
+- healthcare;
+- industrial and energy organisations;
+- finance;
+- and other sectors.
+
+The current organising mechanism is:
+
+```text
+SHARED SOFTWARE
+→ AI-ASSISTED EXPLOITATION
+→ BROAD PRIVILEGED-ACCESS POPULATION
+```
+
+not:
+
+```text
+ONE STATE
+→ STRATEGICALLY SELECTED EVERY VICTIM
+```
+
+The important later question is whether access changed hands.
+
+The initial victim pool may reflect vulnerability.
+
+A later customer may select for value.
+
+Those are different stages.
+
+---
+
+## 🇨🇳 Ecosystem Eight — QScan / QTRouter And The Contractor Model
+
+The QScan / QTRouter disruption adds a separate state-linked ecosystem.
+
+The US government described an environment involving:
+
+- hacker-for-hire capability;
+- government targets;
+- energy;
+- telecommunications;
+- hospitals;
+- and military or state customers.
+
+That matters because it demonstrates something the Iran-focused pack needs to remember:
+
+```text
+SECTOR OVERLAP
+≠
+IRAN-SPECIFIC SIGNATURE
+```
+
+Several state-linked ecosystems can target the same critical sectors at the same time.
+
+This reduces the evidentiary weight of:
+
+```text
+same sector
+```
+
+when used by itself for attribution.
+
+It increases the importance of:
+
+- infrastructure;
+- tasking;
+- relationship;
+- telemetry;
+- malware;
+- payment;
+- access-transfer;
+- and other provenance evidence.
+
+---
+
+## ✈️ Ecosystem Nine — Logistics Without A Port Attack
+
+CEVA Logistics suffered a cyberattack affecting eight European warehouses and producing shipment delays.
+
+That is operational logistics disruption.
 
 It is not presently evidence of:
 
 - port-control compromise;
-- maritime operational-technology compromise;
+- maritime OT compromise;
 - deliberate defence-logistics targeting;
 - or Iranian direction.
 
-CEVA belongs inside the wider watch because private logistics operators
-can perform functions essential to food, medicine, fuel, industrial
-production and state capacity.
+CEVA belongs inside the wider watch because private logistics operators can perform functions essential to:
 
-Its essential-infrastructure significance depends on what the affected
-warehouses were supporting.
+- food;
+- medicine;
+- fuel;
+- industrial production;
+- and state capacity.
 
-```text
-LOGISTICS DISRUPTION:
-🟢 ESTABLISHED
+Its significance depends on the supply chain affected.
 
-DATA EXPOSURE:
-🟢 ESTABLISHED IN AFFECTED-CUSTOMER REPORTING
+The ecosystem is logistics exposure.
 
-ATTRIBUTION:
-⚪ OPEN
-
-IRAN CONNECTION:
-⚪ NO EVIDENCE FOUND
-```
-
-Sources:
-
-- [TechCrunch: CEVA warehouse disruption and customer-data effects](https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/)
-- [FreightWaves: cyberattack disrupts eight European warehouses](https://www.freightwaves.com/news/cyberattack-on-ceva-logistics-warehouses-in-europe-impacts-retailers)
-- [SecurityWeek: CEVA contract-logistics operations disrupted](https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/)
+Not automatically port warfare.
 
 ---
 
-## 🧬 Ecosystem Six — Cl0p And The Shared-Software Denominator
+## 🧬 Ecosystem Ten — Shared Enterprise Software And Cl0p
 
-Cl0p claimed data theft from nearly fifty organisations, including
-Shell, Philips, GE and Fiserv.
+Cl0p claimed data theft from nearly fifty organisations across several strategically interesting sectors.
 
-The named organisations cross several strategically interesting
-sectors.
+The victim list included:
 
-That does not establish strategic selection.
+- energy;
+- financial;
+- industrial;
+- medical-technology;
+- and ordinary commercial organisations.
 
-Public reporting associated the campaign with exploitation of PTC
-Windchill and FlexPLM. PTC documented a critical remote-code-execution
-vulnerability in those products and directed customers to remediate it.
-
-The currently favoured mechanism is therefore:
+The current best-supported mechanism remains:
 
 ```text
-shared software
-→ scalable access
-→ broad victim pool
-→ criminal data extortion
+SHARED ENTERPRISE SOFTWARE
+→ SCALABLE ACCESS
+→ BROAD VICTIM POOL
+→ CRIMINAL DATA EXTORTION
 ```
 
-The relevant denominator is the population of exposed or compromised
-Windchill and FlexPLM users.
+The named sectors are interesting.
 
-Only after that denominator is known can the analyst test whether:
+That does not prove strategic selection.
 
-- victims were selected disproportionately for geopolitical relevance;
-- particular data categories were prioritised;
-- publication or extortion choices were selective;
-- access was resold;
-- or follow-on activity departed from ordinary criminal behaviour.
+The correct next questions are:
 
-The current record supports:
-
-```text
-CL0P CRIMINAL CAMPAIGN:
-🟡 PROBABLE / STRONGLY SUPPORTED
-
-SHARED-SOFTWARE ORGANISING MECHANISM:
-🟡 PROBABLE
-
-SYSTEMIC OPERATIONAL DISRUPTION:
-NOT ESTABLISHED
-
-IRAN CONNECTION:
-⚪ NO EVIDENCE FOUND
-```
-
-The hypothesis that later exploitation could become selective remains
-open in principle.
-
-It is not a finding about this campaign.
-
-Sources:
-
-- [Reuters: Cl0p claims data theft from Shell, Philips, GE, Fiserv and others](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
-- [PTC: Windchill and FlexPLM remote-code-execution advisory](https://www.ptc.com/en/about/trust-center/advisory-center/active-advisories/windchill-flexplm-rce-vulnerability)
+- what was the exposed population;
+- which victims were actually compromised;
+- which victims were extorted;
+- which were publicised;
+- whether access was resold;
+- and whether later activity became selective.
 
 ---
 
-## 🏦 Ecosystem Seven — Financial Targeting Without A Market Attack
+## 📣 Ecosystem Eleven — Narrative Ride-Along
 
-The UNC6671 / BlackFile-related vishing and extortion activity targeted
-dozens of organisations, including important financial-sector bodies.
+The APT IRAN / AT&T episode adds a distinct ecosystem.
 
-The campaign used high-volume voice phishing, identity and single-sign-on compromise, cloud access and data theft for extortion.
+A real AT&T outage occurred.
 
-The strongest current explanation is financially motivated cybercrime.
+APT IRAN claimed responsibility.
 
-The fact that systemically important firms were targeted matters.
+AT&T rejected the cyber explanation and attributed the outage to attempted physical cable theft.
 
-It does not establish that every named organisation was compromised or
-that market infrastructure suffered an operational outage.
+This creates:
 
 ```text
-CRIMINAL CAMPAIGN PATTERN:
-🟢 ESTABLISHED
-
-SUCCESS AGAINST EVERY NAMED TARGET:
-NOT ESTABLISHED
-
-SYSTEMIC MARKET DISRUPTION:
-NOT ESTABLISHED
-
-IRAN CONNECTION:
-⚪ NO PUBLIC EVIDENCE FOUND
+REAL OUTAGE
++
+REAL CLAIM
+≠
+REAL CAUSATION
 ```
 
-Sources:
+The ecosystem here is narrative opportunism.
 
-- [Google Threat Intelligence: BlackFile-related vishing and extortion](https://cloud.google.com/blog/topics/threat-intelligence/blackfile-vishing-extortion-operation/)
-- [Reuters: major US financial firms among organisations targeted](https://www.reuters.com/world/hackers-targeted-us-private-equity-other-firms-including-blackstone-cme-data-2026-08-06/)
+The actor may gain:
+
+- publicity;
+- intimidation value;
+- ideological signalling;
+- recruitment value;
+- or apparent reach
+
+without having caused the technical event.
+
+This matters because genuine hostile activity can make false claims easier to believe.
 
 ---
 
-## 🇫🇷 Ecosystem Eight — French Tax And Financial-Administration Exposure
+## ⚓ Ecosystem Twelve — Iran-Nexus Military Reconnaissance
 
-France now has a distinct public-administration exposure cluster centred on government-held financial and taxpayer data.
+Anthropic's September disclosure identified an Iran-nexus actor using Claude for:
 
-In February, the Finance Ministry disclosed illegitimate access to FICOBA, the national register of bank accounts. The attacker used credentials belonging to an authorised public official and accessed data relating to approximately 1.2 million accounts.
+- naval tracking;
+- ship and aircraft movement analysis;
+- personnel research;
+- maritime VSAT research;
+- Cisco communications research;
+- and industrial-control-product research.
 
-In August, the ministry confirmed a separate intrusion into the Directorate General of Public Finances. The access occurred earlier in the summer and became public after data was advertised for sale by an actor using the name ZeroBytes. Subsequent government reporting placed the affected population at approximately 700,000 taxpayers and disclosed further compromised material still being assessed.
+No successful exploitation or disruption was publicly established.
 
-This supports a French administrative-exposure ecosystem because the incidents concern:
-
-- sensitive data held by the state;
-- legitimate or stolen-identity access routes;
-- systems connecting public bodies and authorised users;
-- delayed detection or delayed public discovery;
-- and high downstream phishing, identity, financial, and coercion risk.
-
-It does not establish one operator across the incidents.
-
-The August sale behaviour provides a strong criminal explanation for that breach.
-
-It does not retrospectively attribute the February access or prove that every later disclosure belongs to the same campaign.
+That makes the ecosystem:
 
 ```text
-REPEATED FRENCH FINANCIAL / TAX ADMINISTRATION EXPOSURE:
-🟢 ESTABLISHED
-
-AUGUST DGFiP DATA-THEFT AND SALE MOTIVE:
-🟡 PROBABLE CRIMINAL ACTIVITY
-
-COMMON OPERATOR ACROSS THE 2026 INCIDENTS:
-⚪ OPEN
-
-COMMON CUSTOMER OR COMMISSIONER:
-⚪ OPEN
-
-IRAN CONNECTION:
-⚪ NO PUBLIC EVIDENCE FOUND
+TARGET MAPPING
++
+TECHNICAL RESEARCH
++
+CAPABILITY DEVELOPMENT
 ```
 
-Sources:
+not:
 
-- [French Economy and Finance Ministry: illegitimate access to FICOBA](https://presse.economie.gouv.fr/?p=171314)
-- [Reuters: French taxpayers’ data stolen in Finance Ministry cyberattack](https://www.reuters.com/legal/litigation/french-taxpayers-data-stolen-cyber-attack-french-finance-ministry-says-2026-08-14/)
-- [Reuters: French government response and further DGFiP breach disclosure](https://www.reuters.com/world/france-use-ai-tools-test-cybsecurity-vulnerabilities-after-tax-agency-hacking-2026-08-18/)
+```text
+CONFIRMED OPERATIONAL ATTACK
+```
+
+It belongs in the war environment because reconnaissance precedes exploitation.
+
+It should remain in its own evidentiary category.
 
 ---
 
-## 🕸️ What Joins The Ecosystems
+## 🌍 Ecosystem Thirteen — The Alliance / Governance Seam
 
-The ecosystems do share a larger environment.
+Not every threat ecosystem originates with an attacker.
 
-The war can produce:
+Some emerge from the defender's own structure.
 
-- heightened interest in essential systems;
-- defender overload;
-- delayed patching and recovery;
-- political cover for criminal claims;
-- a larger access market;
-- publicised weaknesses;
-- more value in stolen operational and personal data;
-- and greater uncertainty about whether an incident is criminal,
-  political or state-directed.
+If allied governments become less certain about:
 
-Those conditions can create causal relationships without organisational
-relationships.
+- whether a previously coordinated position will hold;
+- whether public attribution will be supported;
+- whether basing assumptions remain valid;
+- whether sanctions policy will remain aligned;
+- or whether retaliation and assistance will be coordinated,
+
+then coalition members begin to hedge.
+
+That can produce:
+
+```text
+POLICY DIVERGENCE
+→ HEDGING
+→ SLOWER COORDINATION
+→ HIGHER TRANSACTION COST
+→ WIDER OPPORTUNITY WINDOW
+```
+
+An adversary can benefit from this.
+
+It does not need to have caused it.
+
+Therefore:
+
+```text
+ADVERSARY BENEFIT
+≠
+ADVERSARY CAUSATION
+```
+
+This is a defender-side ecosystem.
+
+It belongs in the threat environment because it changes how quickly and coherently the state can respond to every other ecosystem.
+
+---
+
+## 🧬 Threat Ecosystems Can Interact
+
+The ecosystems do not need to remain separate forever.
+
+They can interact.
 
 For example:
 
 ```text
-war escalation
-→ increased scanning and defender load
-→ more discovered access
-→ criminal exploitation
+PAPERCUT MASS ACCESS
+→ CREDENTIALS CREATED
+→ ACCESS SOLD
+→ LATER STATE OR CRIMINAL CUSTOMER
 ```
 
-does not prove:
+or:
 
 ```text
-Iran
-→ ordered the criminal exploitation
+IRAN-LINKED OT CAMPAIGN
+→ PUBLICITY
+→ COPYCATS
+→ FALSE CLAIMS
+→ GREATER ATTRIBUTION NOISE
 ```
 
-The common wartime environment is part of the explanation.
+or:
 
-It is not a universal attribution label.
+```text
+RANSOMWARE
+→ DEFENDER LOAD
+→ OT PATCHING DELAYED
+→ HOSTILE STATE FINDS MORE EXPOSED SYSTEMS
+```
+
+or:
+
+```text
+ALLIANCE POLICY DIVERGENCE
+→ SLOWER JOINT RESPONSE
+→ ADVERSARY PROBES MORE AGGRESSIVELY
+```
+
+Interaction does not automatically imply coordination.
+
+It may instead mean that one ecosystem changes the operating conditions for another.
+
+That is why the whole environment matters.
 
 ---
 
-## 🔗 Ecosystems Can Touch Without Becoming One
+## 🧅 The Same Access Can Move Between Ecosystems
 
-Two ecosystems may interact at one layer while remaining separate at others.
+One compromise can change category over time.
 
-Possible touchpoints include:
+For example:
 
 ```text
-TECHNICAL
-→ shared product, vulnerability, hosting, tool, or access route
-
-LABOUR
-→ one operator, affiliate, contractor, or broker works across several networks
-
-MARKET
-→ access, credentials, data, tooling, or services change hands
-
-COMMISSIONING
-→ one customer or commissioner purchases outcomes from several providers
-
-TEMPORAL
-→ one wave creates publicity, defender overload, or opportunity for another
-
-NARRATIVE
-→ a persona claims, reframes, exaggerates, or amplifies an operation conducted elsewhere
-
-DOWNSTREAM USE
-→ a later actor exploits data or access obtained by someone else
-
-GOVERNANCE
-→ the same fragmented defensive seam exposes several institutions to different actors
+CRIMINAL ACCESS
+→ BROKERED ACCESS
+→ LATER STATE CUSTOMER
 ```
 
-A market link does not prove shared tasking.
+or:
 
-A shared commissioner does not prove a shared hands-on operator.
+```text
+SHARED-VULNERABILITY ACCESS
+→ EXTORTION
+→ UNSOLD ACCESS RETAINED
+→ LATER STRATEGIC USE
+```
 
-A shared operator does not prove the same customer for every job.
+or:
 
-A later beneficiary does not inherit responsibility for the original intrusion without evidence of commissioning, direction, control, adoption, or another legally relevant connection.
+```text
+STATE RECONNAISSANCE
+→ PUBLIC DISCLOSURE
+→ CRIMINAL COPYCAT
+```
 
-The record should therefore state the relationship that joins two incidents rather than declaring that the incidents “are linked” and leaving the verb undefined.
+The initial operator and later user may be different.
+
+The original organising mechanism and later strategic use may also be different.
+
+That is why the pack should distinguish:
+
+```text
+INITIAL OPERATOR
+INITIAL PURPOSE
+ACCESS TRANSFER
+LATER OPERATOR
+LATER CUSTOMER
+LATER PURPOSE
+```
+
+A change in ecosystem should be recorded.
+
+Not hidden.
 
 ---
 
-## 🪜 When Separate Ecosystems May Legitimately Be Joined
+## 🎚️ Six Separate Confidence Judgements
 
-Separate waves should move towards a common campaign assessment where
-credible evidence establishes one or more of the following:
+For every ecosystem or apparent cluster, record six confidence judgements separately.
 
-- shared command-and-control infrastructure that is not merely a common
-  commercial provider;
-- hard-to-imitate tooling or artefacts;
-- operator overlap;
-- recovered tasking;
-- financial or communications links tied to a particular requirement, target, access, effect, or publication decision;
-- a common commissioner, procurement route, or end user;
-- access transfer between actors;
-- common victim-selection logic surviving denominator analysis;
-- coordinated timing around operational objectives;
-- the same unusual effect across independent systems;
-- or formal attribution supported by disclosed evidence.
+### Pattern Confidence
 
-Even then, record which relationship has been established.
+Are we seeing meaningful recurrence?
+
+### Organising-Mechanism Confidence
+
+What actually joins the incidents?
+
+### Common-Operator Confidence
+
+Did the same actor perform them?
+
+### Common-Customer / Commissioner Confidence
+
+Did the same customer or tasking authority generate demand?
+
+### Common-Sponsor Confidence
+
+Is there evidence of one state sponsor?
+
+### Shared-Defender-Burden Confidence
+
+Are separate incidents nevertheless consuming the same finite defensive capacity?
+
+This sixth judgment matters because:
 
 ```text
-COMMON TECHNOLOGY
-≠
-COMMON OPERATOR
-
-COMMON OPERATOR
-≠
-COMMON CUSTOMER
-
-COMMON CUSTOMER
-≠
-COMMON COMMISSIONER
-
-COMMON COMMISSIONER
-≠
-COMMON STATE DIRECTION
+LOW COMMON-SPONSOR CONFIDENCE
+can coexist with
+HIGH SHARED-DEFENDER-BURDEN CONFIDENCE
 ```
 
-The arrow has to earn every step.
+The September environment demonstrates exactly that.
 
 ---
 
-## ⚠️ Three Flattening Errors
+## 🧠 Current Synthesis — 14 September 2026
 
-### Everybody Works For Tehran
-
-This error takes:
+The best current summary is:
 
 ```text
-same war
-+
-same period
-+
-important targets
+IRAN-LINKED / SUSPECTED-IRAN OT CAMPAIGN:
+🟡 / 🟢 STRONG AND WIDENING
+
+100+ US WATER-SYSTEM TARGET SCALE:
+🟢 ESTABLISHED
+
+CYBER-TO-PHYSICAL EFFECT:
+🟢 ESTABLISHED IN WATER AND UK ENERGY
+
+ENERGY / TELECOM TARGETING EXPANSION:
+🟡 / 🟢 DEVELOPING
+
+IRAN-NEXUS MILITARY RECONNAISSANCE:
+🟢 DISCLOSED
+
+CRIMINAL RANSOMWARE / EXTORTION ECOSYSTEMS:
+🟢 ESTABLISHED
+
+CHINA-LINKED CONTRACTOR / HACKER-FOR-HIRE ECOSYSTEM:
+🟢 ESTABLISHED
+
+SHARED-SOFTWARE ACCESS MANUFACTURING:
+🟢 ESTABLISHED
+
+NARRATIVE RIDE-ALONG:
+🟢 ESTABLISHED
+
+ALLIANCE / GOVERNANCE SEAM:
+🟡 DEVELOPING AS DEFENDER-SIDE RISK
+
+ONE COMMON OPERATOR:
+⚪ NOT ESTABLISHED
+
+ONE COMMON CUSTOMER:
+⚪ NOT ESTABLISHED
+
+ONE COMMON COMMISSIONER:
+⚪ NOT ESTABLISHED
+
+ONE COMMON STATE SPONSOR:
+⚪ NOT ESTABLISHED
 ```
 
-and produces:
+The biggest change since 20 August is not simply that there are more incidents.
 
-```text
-same Iranian command structure
-```
+It is that the **ecosystem architecture is clearer**.
 
-The missing evidence disappears inside the urgency.
+We can now distinguish:
 
-### Shared Technology Means Shared Command
+- an Iran-facing OT core;
+- broader Iran-linked reconnaissance and targeting;
+- criminal healthcare disruption;
+- shared-software access manufacturing;
+- a separate China-linked contractor model;
+- logistics and administration exposure;
+- narrative opportunism;
+- and defender-side alliance friction.
 
-This error takes:
+That is a more useful picture than one giant arrow labelled:
 
-```text
-same vulnerable product
-+
-same access route
-+
-similar effect
-```
-
-and produces:
-
-```text
-same operator
-→ same customer
-→ same campaign
-```
-
-Shared infrastructure may describe the attack surface more reliably than the attacker.
-
-The denominator has to be tested before the victim list is treated as strategic selection.
-
-### Criminal Activity Means There Was No State Wave
-
-This error takes conventional ransomware or shared-vulnerability crime
-elsewhere in the record and uses it to erase the stronger Iran-linked
-evidence concerning the core water wave.
-
-Mixed environments are allowed to remain mixed.
-
-Finding a criminal wave does not disprove a state-linked wave.
-
-Finding a state-linked wave does not nationalise every criminal.
+> IRAN.
 
 ---
 
-## 📋 Ecosystem Record
+## 🚨 Failure Mode: Target Overlap Becomes Attribution
+
+Water, energy, telecoms, hospitals, ports, banks and government are strategically important sectors.
+
+Several different actors know this.
+
+Therefore:
+
+```text
+SAME SECTOR
+≠
+SAME ACTOR
+```
+
+and:
+
+```text
+SAME TARGET CLASS
+≠
+SAME SPONSOR
+```
+
+The QScan / QTRouter ecosystem makes this particularly important.
+
+Target overlap is now explicitly known to occur across different state-linked architectures.
+
+That weakens sector choice as a standalone attribution signal.
+
+---
+
+## 🚨 Failure Mode: Criminal Means Irrelevant
+
+The inverse mistake is to dismiss criminal ecosystems as outside the war picture.
+
+That is also wrong.
+
+Criminal activity can:
+
+- consume defenders;
+- generate credentials;
+- expose suppliers;
+- produce access for resale;
+- create public confusion;
+- and reduce recovery capacity.
+
+That can matter strategically without making the criminals state-directed.
+
+The relationship is:
+
+```text
+STRATEGIC CONSEQUENCE
+≠
+STRATEGIC COMMAND
+```
+
+---
+
+## 🚨 Failure Mode: Actor Claim Becomes Ecosystem Proof
+
+APT IRAN claiming an outage does not mean every outage belongs to the Iran ecosystem.
+
+A real campaign can attract false or inflated claims.
+
+Therefore:
+
+```text
+CLAIM
+→ EVIDENCE ITEM
+
+CLAIM
+≠
+ECOSYSTEM MEMBERSHIP CONFIRMED
+```
+
+Independent causation evidence still matters.
+
+---
+
+## 🚨 Failure Mode: Adversary Benefit Becomes Adversary Design
+
+The alliance seam creates one more failure mode.
+
+If Iran, Russia, China, or another actor benefits from allied uncertainty, that does not establish that the actor created the political divergence.
+
+Keep:
+
+```text
+BENEFIT
+≠
+DESIGN
+```
+
+The condition can still be strategically exploitable.
+
+That is enough to monitor it.
+
+---
+
+## 🔎 Ecosystem Record Template
 
 For each ecosystem, record:
 
 ```text
 ECOSYSTEM NAME:
-FIRST OBSERVED:
-LATEST OBSERVED:
-
-COUNTRIES:
+DATE RANGE:
+GEOGRAPHY:
 SECTORS:
-CONFIRMED INCIDENTS:
-SUSPECTED RELATED INCIDENTS:
 
-ORGANISING MECHANISM:
-RELATIONSHIP TYPE:
-COMMON TECHNOLOGY:
+PRIMARY ORGANISING MECHANISM:
+SECONDARY ORGANISING MECHANISM:
+
+INITIAL OPERATOR:
+LATER OPERATOR:
+STATE RELATIONSHIP:
+ACCESS BROKER:
+INTERMEDIARY:
+COMMISSIONER:
+PAYER / PROCUREMENT ROUTE:
+FINAL CUSTOMER:
+DOWNSTREAM BENEFICIARY:
+
+COMMON PRODUCT:
 COMMON VULNERABILITY:
 COMMON PROVIDER:
-REPEATED TECHNIQUES:
-REPEATED EFFECTS:
+COMMON TOOLING:
+COMMON INFRASTRUCTURE:
 
-COMMON OPERATOR CONFIDENCE:
-COMMON TASKING CONFIDENCE:
-COMMON CUSTOMER CONFIDENCE:
-COMMON COMMISSIONER CONFIDENCE:
-COMMON PAYER / PROCUREMENT ROUTE CONFIDENCE:
-COMMON END USER CONFIDENCE:
-COMMON SPONSOR CONFIDENCE:
+INITIAL ACCESS LOGIC:
+LATER-USE LOGIC:
+ACCESS TRANSFER:
+DATA TRANSFER:
+PUBLICATION / CLAIMING:
 
-ACCESS TRANSFER EVIDENCE:
-PAYMENT OR PROCUREMENT EVIDENCE:
-PUBLICITY / AMPLIFICATION RELATIONSHIP:
-DOWNSTREAM USE:
+PATTERN CONFIDENCE:
+ORGANISING-MECHANISM CONFIDENCE:
+COMMON-OPERATOR CONFIDENCE:
+COMMON-CUSTOMER CONFIDENCE:
+COMMON-SPONSOR CONFIDENCE:
+SHARED-DEFENDER-BURDEN CONFIDENCE:
 
-IRAN RELATIONSHIP:
-IRAN-WAR RELEVANCE:
+PHYSICAL EFFECT:
+SERVICE EFFECT:
+DATA EFFECT:
+HUMAN EFFECT:
 
-EVIDENCE FOR:
-EVIDENCE AGAINST:
+NARRATIVE EFFECT:
+GOVERNANCE EFFECT:
+ALLIANCE EFFECT:
+
+IRAN RELEVANCE:
 RIVAL EXPLANATIONS:
-
-WHAT WOULD JOIN THIS TO ANOTHER ECOSYSTEM:
-WHAT WOULD KEEP THEM SEPARATE:
-WHAT WOULD RULE OUT THE WORKING MECHANISM:
-
-SOURCE PROVENANCE:
-COMMON SOURCE DEPENDENCY:
+EVIDENCE THAT WOULD CHANGE THE ASSESSMENT:
+SOURCES:
 LAST REVIEWED:
-NEXT REVIEW TRIGGER:
 ```
 
-This creates somewhere to record a shared environment without inventing
-a shared sponsor.
+The point is not to create bureaucracy.
+
+It is to stop one ecosystem from borrowing evidence from another.
 
 ---
 
-## 🧭 Current Assessment
+## 🧭 Working Rule
 
-By 20 August 2026, the public record supports:
+The working rule is:
 
-```text
-ONE WIDENING WARTIME ATTACK SURFACE:
-🟢 ESTABLISHED
+> Treat the war as one threat environment containing several different threat ecosystems until evidence proves that those ecosystems share a command structure.
 
-SEVERAL OVERLAPPING THREAT ECOSYSTEMS:
-🟡 PROBABLE / STRONGLY SUPPORTED
+Map:
 
-IRAN-LINKED MINNESOTA / CORE WATER WAVE:
-🟡 PROBABLE
+- who created the access;
+- who used it;
+- who paid;
+- who benefited;
+- what technology joined the victims;
+- what sector was affected;
+- whether the effect was physical, operational, informational, or narrative;
+- whether access changed hands;
+- whether another ecosystem consumed the same defender capacity;
+- and whether allied or governance seams changed the opportunity environment.
 
-ACTIVE MULTISECTOR PLC THREAT:
-🟢 ESTABLISHED BY JOINT FEDERAL WARNING;
-OPERATOR OF THE RECENT WATER INCIDENTS NOT NAMED BY THAT WARNING
+Do not erase the Iran-linked campaign because unrelated crime exists.
 
-REPEATED FRENCH TAX / FINANCIAL-ADMINISTRATION EXPOSURE:
-🟢 ESTABLISHED;
-COMMON OPERATOR NOT ESTABLISHED
+Do not make unrelated crime Iranian because the war exists.
 
-COMMON IRANIAN SPONSORSHIP ACROSS ALL REVIEWED SECTORS:
-⚪ NOT ESTABLISHED
+Do not make a shared vulnerability a shared sponsor.
 
-COMMON CUSTOMER OR COMMISSIONER ACROSS ALL REVIEWED SECTORS:
-⚪ NOT ESTABLISHED
-```
+Do not make adversary benefit proof of adversary causation.
 
-The emerging picture is not smaller because it is less unified.
+One war can contain many threat ecosystems.
 
-It is more operationally realistic.
-
-States, criminals, affiliates, brokers, copycats and vulnerable products
-do not queue politely for separate news cycles.
-
-They arrive together.
-
-The archive has to be capable of telling them apart.
+The analytical job is to keep them visible.
 
 ---
 
 ## 🌌 Constellations
-🧬 🌊 🕸️ 🧿 🪆 🚰 🏛️ 💰 — threat ecosystems; overlapping waves; layered attribution; organising mechanisms; commissioning and access markets; nested campaigns; operational technology; institutional exposure.
+
+🧬 🌊 🚰 ⚡ 🏥 🤖 🕸️ 🌍 — threat ecosystems; campaign ecology; water; energy; healthcare; access manufacturing; attribution; alliance seams.
+
+---
 
 ## ✨ Stardust
-cyber conflict, threat ecosystems, iran war, irgc, operational technology, ransomware, shared vulnerabilities, access brokers, criminal extortion, commissioner, customer, procurement route, downstream use, narrative amplification, local government, public administration, logistics, campaign attribution, organising mechanisms, common sponsorship, denominator analysis
+
+threat ecosystems, iran war, cyber campaigns, operational technology, water systems, energy, telecommunications, ransomware, hacker-for-hire, access brokers, shared vulnerabilities, paperCut, QScan, QTRouter, narrative ride-along, APT IRAN, naval reconnaissance, alliance seams, attribution, common operator, common customer, defender burden
 
 ---
 
 ## 🏮 Footer
 
-*🧬 One War, Many Threat Ecosystems* is a living node of the **Polaris Protocol**.
-It distinguishes the shared wartime attack surface from the separate actor, access, commissioning, incentive, publicity and vulnerability ecosystems operating within it, allowing cross-sector patterns and real points of contact to remain visible without converting them automatically into one campaign or sponsor.
+*🧬 One War, Many Threat Ecosystems* is a living node of the **Polaris Protocol**.  
+It maps the distinct state-linked, criminal, shared-vulnerability, contractor, reconnaissance, narrative and defender-side ecosystems operating inside one wartime cyber environment without collapsing them into one command structure.
 
 > 📡 Cross-references:
 >
 > - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *root orientation and pack map*
-> - [🌊 Riding Every Wave](./🌊_riding_every_wave.md) — *causal, technical, strategic and organisational relationships between successive waves*
-> - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *graded attribution and the current Minnesota responsibility claim*
-> - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *commissioning, procurement, access transfer and layered operational roles*
-> - [🔎 Confidence Labels And Source Rules](./🔎_confidence_labels_and_source_rules.md) — *confidence, provenance, organising mechanisms and campaign records*
-> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *claim-level evidence and provenance chains*
-> - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *publication language for mixed campaigns and actor claims*
-> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *incident and attribution chronology across the widening war*
-> - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *depth of operational-technology access and physical effect*
-> - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *cumulative pressure without one spectacular outage*
+> - [🌊 Riding Every Wave](./🌊_riding_every_wave.md) — *how separate waves interact, overlap and exploit one another*
+> - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *cumulative effect without common-command inflation*
+> - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *proposition-level attribution and confidence*
+> - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *access transfer, commissioning and later users*
+> - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *OT depth, physical effects and scale*
+> - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *civilian systems and criminal / unresolved pressure*
+> - [🏦 Banks Are Part Of The Battlespace](./🏦_banks_are_part_of_the_battlespace.md) — *financial transmission and shared-provider dependencies*
+> - [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) — *domestic and alliance seams*
+> - [🇺🇸 Potential Impacts On Americans](./🇺🇸_potential_impacts_on_americans.md) — *shared defender burden and alliance-confidence effects*
+> - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *keeping ecosystem membership separate from legal responsibility*
+> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live chronology through 14 September 2026*
+> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *claim-level provenance and source audit trail*
 >
 > 🏮 Return To:
 >
 > - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
 > - [🌊 Playing Defence](../README.md) — *2up*
-> - [📲_Press Matters](../../README.md) — *3up*
+> - [📲 Press Matters](../../README.md) — *3up*
 > - [🌓 In The Moment](../../../README.md) — *4up*
-> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-20_
+_Last updated: 2026-09-14_

@@ -1,6 +1,6 @@
 # 🔎 Confidence Labels And Source Rules
-**First created:** 2026-08-01 | **Last updated:** 2026-08-20  
-*Keeping event, effect, pattern, attribution, sponsorship, source quality, recovery, and legal significance separate enough to remain useful when the evidence changes.*
+**First created:** 2026-08-01 | **Last updated:** 2026-09-14  
+*Keeping event, effect, pattern, attribution, sponsorship, source quality, recovery, alliance effect, and legal significance separate enough to remain useful when the evidence changes.*
 
 ---
 
@@ -22,39 +22,11 @@ A state may possess an internal attribution it has not published.
 
 A civilian infrastructure incident may raise a serious legal question without the available evidence establishing a war crime.
 
+An ally may be hedging around another ally's policy without the alliance collapsing.
+
 Those are not contradictions.
 
 They are different propositions.
-
-The most familiar failure looks like:
-
-```text
-early claim
-→ repeated reporting
-→ dropped caveat
-→ stronger wording
-→ actor becomes sponsor
-→ sponsor becomes state
-→ suspicion becomes fact
-```
-
-There is an equal and opposite failure:
-
-```text
-real incident
-→ attribution incomplete
-→ incident treated as isolated
-
-another real incident
-→ attribution incomplete
-→ incident treated as isolated
-
-another real incident
-→ attribution incomplete
-→ developing pattern disappears inside uncertainty
-```
-
-This pack should do neither.
 
 The governing structure is:
 
@@ -62,10 +34,11 @@ The governing structure is:
 CLAIM
 → SOURCE
 → SOURCE QUALITY
-→ EVIDENTIARY LAYER
+→ PROPOSITION
 → CONFIDENCE
 → LIMIT
 → RIVAL EXPLANATION
+→ NEGATIVE FINDINGS
 → REVIEW
 → HISTORY
 ```
@@ -84,42 +57,6 @@ Not to the current preferred theory.
 
 And not to the fact that this pack happens to be called *IRGC Edition*.
 
-The purpose of this node is therefore to make the record capable of saying:
-
-```text
-this happened
-```
-
-while still saying:
-
-```text
-we do not yet know who caused it
-```
-
-or:
-
-```text
-these incidents form a real pattern
-```
-
-while still saying:
-
-```text
-we do not yet know whether they share one operator or customer
-```
-
-or:
-
-```text
-Iranian involvement is plausible
-```
-
-while still saying:
-
-```text
-the public evidence does not establish state direction
-```
-
 The pack needs to hold two disciplines at once:
 
 ```text
@@ -128,355 +65,143 @@ avoid false certainty
 avoid false emptiness
 ```
 
-The first protects accuracy.
-
-The second protects situational awareness.
-
 ---
 
 ## 🚦 The Traffic-Light System
 
 The traffic-light system is the quick visual index used for confidence in a **specific proposition**.
 
-It does not replace the written confidence label.
+It does not describe:
 
-It does not describe severity.
-
-It does not describe political importance.
-
-It does not describe how alarming the incident feels.
-
-It tells the reader how strongly the current evidence supports the proposition written beside it.
+- severity;
+- political importance;
+- strategic importance;
+- legal seriousness;
+- or how alarming an incident feels.
 
 ### 🟢 Established / Confirmed
 
-Use **🟢 Established / Confirmed** where the public record strongly supports the proposition.
+Use where the public record strongly supports the proposition.
 
-Examples may include:
+Examples:
 
-- an affected institution confirming an incident;
-- independently supported operational disruption;
-- a verified physical-process change;
-- a formal governmental attribution;
-- a court or sanctions record;
-- or strong technical evidence supported by genuinely independent sources.
-
-Green applies only to the proposition actually established.
-
-Therefore:
-
-```text
-INCIDENT:
-🟢 CONFIRMED
-
-SERVICE DISRUPTION:
-🟢 CONFIRMED
-
-TECHNICAL OPERATOR:
-🟡 PROBABLE
-
-IRANIAN STATE DIRECTION:
-🟠 SUSPECTED
-```
-
-is coherent.
-
-A green incident does not make every field in the row green.
+- an affected institution confirms an incident;
+- an operational effect is independently supported;
+- a physical-process change is verified;
+- a formal government attribution is published;
+- or strong technical evidence is corroborated independently.
 
 ### 🟡 Probable
 
-Use **🟡 Probable** where the available evidence strongly favours one explanation but an important evidentiary gap remains.
+Use where the evidence strongly favours one explanation but an important gap remains.
 
-Possible support includes:
+Examples may include:
 
 - several independent indicators;
+- credible intelligence reporting;
 - distinctive infrastructure reuse;
-- operator overlap;
-- matching victimology;
-- repeated tooling;
-- repeated operational behaviour;
-- credible official assessment;
-- or technically independent findings pointing in the same direction.
-
-Yellow means:
-
-> This is presently the best-supported explanation.
-
-It does not mean:
-
-> This has been established beyond meaningful doubt.
-
-Probable should not be rounded upward because the theory is tidy.
+- repeated operator behaviour;
+- or technically independent findings converging.
 
 ### 🟠 Suspected / Developing
 
-Use **🟠 Suspected / Developing** where there is a credible basis for keeping a proposition live but material uncertainty remains.
+Use where there is a credible basis for keeping a proposition live but material uncertainty remains.
 
-Possible support includes:
+Examples:
 
-- preliminary official assessment;
-- limited technical overlap;
-- incomplete intelligence reporting;
-- credible investigative reporting;
+- preliminary assessment;
+- incomplete technical overlap;
 - historical resemblance;
-- target selection;
-- military timing combined with other evidence;
+- credible investigative reporting;
 - or an emerging cluster.
-
-Orange means:
-
-> There is enough here to test this proposition seriously.
-
-It does not mean:
-
-> Repeat this as fact.
 
 ### ⚪ Open / Unattributed
 
-Use **⚪ Open / Unattributed** where the proposition remains unresolved.
+Use where the proposition remains unresolved.
 
-This may mean:
-
-- no credible public attribution exists;
-- competing explanations remain genuinely viable;
-- the answer has not yet been established;
-- or the available information is insufficient to choose between them.
-
-White is not a negative finding.
-
-It means:
+White means:
 
 ```text
 OPEN QUESTION
 ```
 
-rather than:
+not:
 
 ```text
 RULED OUT
 ```
 
-Therefore:
-
-```text
-IRANIAN STATE DIRECTION:
-⚪ OPEN
-```
-
-does not mean:
-
-```text
-IRAN RULED OUT
-```
-
-And:
-
-```text
-COMMON SPONSOR:
-⚪ OPEN
-```
-
-does not mean:
-
-```text
-THE INCIDENTS ARE UNRELATED
-```
-
 ### ❌ Excluded
 
-Use **❌ Excluded** where a claim, relationship, incident, or proposed cluster no longer meets the evidentiary or scope threshold.
+Use where later evidence no longer supports the proposition or inclusion.
 
-Reasons may include:
+Examples:
 
-- unsupported reporting;
-- disproved actor claims;
-- duplicated incidents;
-- generic indicators originally mistaken for distinctive ones;
-- mistaken identification of the affected system;
-- an unrelated technical failure;
-- an unrelated criminal cause;
-- later evidence disproving a proposed relationship;
-- or evidence that the incident falls outside the pack's scope.
+- disproved actor claim;
+- duplicate incident;
+- unrelated technical failure;
+- incorrect system identification;
+- unrelated criminal cause;
+- or evidence placing the incident outside scope.
 
 Do not silently delete exclusions.
 
 Record why the assessment changed.
 
-Corrections are part of the evidentiary history.
-
 ---
 
 ## 📣 Actor-Claimed Is A Modifier, Not A Traffic Light
 
-**Actor-claimed** should not be forced into the confidence spectrum.
-
-It answers:
-
-> Has somebody claimed responsibility?
-
-It does not answer:
-
-> How confident are we that the claimant actually caused the incident?
-
-Use it as a modifier.
-
-For example:
+Use:
 
 ```text
 CLAIM STATUS:
 📣 ACTOR-CLAIMED
-
-ATTRIBUTION CONFIDENCE:
-⚪ OPEN
 ```
 
-or:
+separately from:
 
 ```text
-CLAIM STATUS:
-📣 ACTOR-CLAIMED
-
 ATTRIBUTION CONFIDENCE:
-🟠 SUSPECTED
-```
-
-or:
-
-```text
-CLAIM STATUS:
-📣 ACTOR-CLAIMED
-
-ATTRIBUTION CONFIDENCE:
-🟢 INDEPENDENTLY CONFIRMED
 ```
 
 An actor claim establishes that the claim exists.
 
 It does not establish:
 
-- that the claimant conducted the intrusion;
-- that the claimed access existed;
-- that the claimed effect occurred;
-- that the group is who it says it is;
-- that the same people still control a familiar alias;
-- that a state directed the operation;
-- or that political branding reflects the real command chain.
+- authorship;
+- access;
+- effect;
+- causation;
+- state direction;
+- group continuity;
+- or command chain.
 
----
-
-## 📣 Worked Example — A Known Affiliation Makes A New Claim
-
-The August 2026 Minnesota water case shows why **claim status** and
-**attribution confidence** must remain separate even where the claimant
-has a relevant history.
-
-An account using the name **APT IRAN** reportedly claimed that the
-Minnesota operation had been conducted jointly with CyberAv3ngers and
-that the actors took direct responsibility for it.
-
-US government reporting had already described CyberAv3ngers as
-affiliated with the IRGC Cyber-Electronic Command and associated it with
-exploitation of programmable logic controllers.
-
-Those are two different propositions:
+The September AT&T case makes this especially clear:
 
 ```text
-PROPOSITION A:
-US government reporting previously identified
-CyberAv3ngers as IRGC-affiliated.
+REAL OUTAGE:
+🟢 CONFIRMED
 
-CONFIDENCE:
-🟢 ESTABLISHED
+APT IRAN CLAIM:
+📣 CONFIRMED AS A CLAIM
 
-SOURCE:
-prior coordinated government advisory
+CYBER CAUSATION:
+❌ REJECTED BY AT&T
+
+IRAN CAUSATION:
+⚪ NOT ESTABLISHED
 ```
+
+Therefore:
 
 ```text
-PROPOSITION B:
-APT IRAN / CyberAv3ngers publicly claimed
-the Minnesota operation.
-
-CLAIM STATUS:
-📣 ACTOR-CLAIMED
-
-CONFIDENCE THAT THE CLAIM EXISTS:
-🟢 ESTABLISHED
+CLAIM
+≠
+CAUSATION
 ```
 
-```text
-PROPOSITION C:
-The claimants conducted the Minnesota operation.
-
-ATTRIBUTION CONFIDENCE:
-🟡 PROBABLE / strengthened by the relevant prior relationship,
-reported investigative assessment, target fit, and campaign context;
-still awaiting public forensic validation
-```
-
-```text
-PROPOSITION D:
-The IRGC directed the current Minnesota operation.
-
-ATTRIBUTION CONFIDENCE:
-NOT PUBLICLY ESTABLISHED BY THE CLAIM
-```
-
-```text
-PROPOSITION E:
-FBI / CISA / NSA / EPA formally attributed
-the July--August campaign to Iran.
-
-PUBLICATION STATUS:
-NO FORMAL PUBLIC ATTRIBUTION IDENTIFIED
-IN THE REVIEWED RECORD
-```
-
-The prior affiliation increases the relevance and weight of the claim.
-
-It does not convert the claim into independent corroboration of itself.
-
-The relevant provenance chain is:
-
-```text
-Telegram actor statement
-→ McCrary Institute / Threat Beat monitoring
-→ KSTP reporting
-→ Minnesota IT Services and FBI asked to validate
-→ agencies acknowledge awareness but do not validate publicly
-```
-
-If ten further outlets repeat the KSTP or Threat Beat account, the
-underlying claim still has one actor-origin route.
-
-Record:
-
-```text
-ORIGINAL SOURCE:
-actor statement on Telegram
-
-DISCOVERY / MONITORING SOURCE:
-McCrary Institute Threat Beat
-
-FIRST REVIEWED PUBLIC REPORT:
-KSTP
-
-AGENCY RESPONSE:
-aware of posts; public validation withheld / not provided
-
-INDEPENDENT TECHNICAL CORROBORATION OF CURRENT AUTHORSHIP:
-NOT PUBLICLY IDENTIFIED
-
-COMMON SOURCE DEPENDENCY:
-later reports may depend on the same Threat Beat / KSTP chain
-```
-
-Sources performing different functions:
-
-- [CISA and partners: IRGC-affiliated cyber actors exploiting PLCs](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-335a) — *historic actor relationship and technical context*
-- [CISA: 2026 Iranian-affiliated PLC exploitation advisory](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a) — *current threat context, not automatic attribution of Minnesota*
-- [KSTP: APT IRAN and CyberAv3ngers claim responsibility](https://kstp.com/kstp-news/top-news/hacking-group-linked-to-iran-claims-responsibility-for-cyberattack-on-minnesota-water-systems-report-says/) — *claim report and agency non-validation*
-- [McCrary Institute Threat Beat briefing](https://www.linkedin.com/pulse/cyber-briefing-81226-au-mccrary-institute-7cfre) — *specialist monitoring route*
+must now remain explicit across the pack.
 
 ---
 
@@ -484,7 +209,7 @@ Sources performing different functions:
 
 The pack uses several visual systems.
 
-They should not be confused.
+Do not confuse them.
 
 ```text
 🟢 🟡 🟠 ⚪
@@ -497,16 +222,14 @@ actor-claim status
 
 ❌
 =
-excluded from the current analytical set
+excluded / disproved / outside current analytical set
 
 ⚪ 🟡 🟠 🔴
 =
 pattern development
 ```
 
-The same colour can therefore appear in different systems for different reasons.
-
-The label beside it must always remain visible.
+Always preserve the written label beside the symbol.
 
 Do not rely on colour alone.
 
@@ -514,262 +237,207 @@ Do not rely on colour alone.
 
 ## 🧮 One Incident Can Carry Many Confidence Assessments
 
-A single incident should not be forced into one overall confidence category.
-
 Where relevant, separate:
 
-### Incident Confidence
+```text
+INCIDENT CONFIDENCE:
+SCOPE CONFIDENCE:
+OPERATIONAL-EFFECT CONFIDENCE:
+PHYSICAL-EFFECT CONFIDENCE:
+DATA-EFFECT CONFIDENCE:
+ATTRIBUTION CONFIDENCE:
+RELATIONSHIP CONFIDENCE:
+PATTERN CONFIDENCE:
+COMMON-OPERATOR CONFIDENCE:
+COMMON-CUSTOMER CONFIDENCE:
+COMMON-SPONSOR CONFIDENCE:
+SHARED-DEFENDER-BURDEN CONFIDENCE:
+ALLIANCE-EFFECT CONFIDENCE:
+LEGAL CONFIDENCE:
+RECOVERY CONFIDENCE:
+```
 
-How confident are we that the event occurred?
-
-### Scope Confidence
-
-How confident are we that the event belongs inside this pack's essential-state-infrastructure perimeter?
-
-### Effect Confidence
-
-How confident are we about the reported operational, physical, data, record-integrity, or civilian consequences?
-
-### Attribution Confidence
-
-How confident are we about the operator, organisation, intermediary, customer, state affiliation, or state direction?
-
-### Relationship Confidence
-
-How confident are we that this incident is actually related to another incident or cluster?
-
-### Pattern Confidence
-
-How confident are we that repeated incidents form a meaningful recurring pattern?
-
-### Legal Confidence
-
-How far does the public evidence support a legal characterisation?
-
-### Recovery Confidence
-
-How confident are we that technical, service, data, or person-centred recovery is actually complete?
-
-A single entry may therefore read:
+A single incident may therefore read:
 
 ```text
 INCIDENT:
 🟢 CONFIRMED
 
-SCOPE:
-🟢 CONFIRMED
-
 OPERATIONAL EFFECT:
 🟢 CONFIRMED
-
-RELATIONSHIP TO WATER CLUSTER:
-🟡 PROBABLE
 
 TECHNICAL OPERATOR:
 🟡 PROBABLE
 
-STATE AFFILIATION:
-🟠 SUSPECTED
-
 STATE DIRECTION:
 ⚪ OPEN
 
-PATTERN STATUS:
-🔴 ESTABLISHED CAMPAIGN PATTERN
+PATTERN:
+🔴 ESTABLISHED
 
-LEGAL REVIEW:
-REVIEW WARRANTED
+COMMON SPONSOR:
+⚪ OPEN
+
+SHARED DEFENDER BURDEN:
+🟢 ESTABLISHED
 ```
 
 That is not indecision.
 
-It is the point of the method.
+It is the method.
 
 ---
 
 ## 🎨 Pattern Status Is A Separate Axis
 
-Attribution asks:
-
-> Who did this?
-
-Pattern analysis asks:
-
-> Are related things happening repeatedly?
-
-Those questions can move at different speeds.
-
 Use:
 
 ```text
 ⚪ ISOLATED
-
-No meaningful recurrence established.
-
-
 🟡 POSSIBLE RECURRENCE
-
-Some overlap exists in target, timing, technique,
-technology, geography, infrastructure, operator,
-provider, or effect.
-
-
 🟠 CREDIBLE CLUSTER
-
-Several incidents share enough characteristics
-to justify cluster-level scrutiny.
-
-
 🔴 ESTABLISHED CAMPAIGN PATTERN
-
-Repeated related activity is independently established,
-even where ultimate sponsorship remains unresolved.
 ```
 
-Pattern status does not automatically establish a common operator.
+Pattern confidence answers:
 
-It does not automatically establish one coordinated command chain.
+> Are related things happening repeatedly?
 
-And it does not automatically establish one state sponsor.
+It does not answer:
+
+> Who is commanding them?
 
 Therefore:
 
 ```text
-PATTERN STATUS:
+PATTERN:
 🔴 ESTABLISHED
 
 COMMON OPERATOR:
 ⚪ OPEN
 
-COMMON TASKING:
+COMMON CUSTOMER:
 ⚪ OPEN
 
 COMMON SPONSOR:
 ⚪ OPEN
 ```
 
-is a legitimate result.
+is valid.
+
+This distinction is now especially important because the September dataset contains:
+
+- a strong Iran-facing OT pattern;
+- separate ransomware activity;
+- a China-linked contractor ecosystem;
+- shared-software access manufacturing;
+- and unrelated administrative incidents
+
+inside one war environment.
 
 ---
 
-## 🧬 A Pattern Is Not Necessarily One Campaign
+## 🧬 Campaign Effect Is Not Common Command
 
-Even where a recurring operational pattern is real, several explanations may remain possible.
+September requires a further distinction.
+
+A defender can experience real campaign-like cumulative pressure even where the incidents do not share one operator.
+
+Therefore record separately:
+
+```text
+CUMULATIVE CAMPAIGN EFFECT:
+SHARED DEFENDER BURDEN:
+COMMON OPERATOR:
+COMMON CUSTOMER:
+COMMON SPONSOR:
+```
 
 For example:
 
 ```text
-one coordinated operator
+CUMULATIVE ESSENTIAL-INFRASTRUCTURE PRESSURE:
+🟢 ESTABLISHED
+
+SHARED DEFENDER BURDEN:
+🟢 ESTABLISHED
+
+COMMON OPERATOR:
+⚪ OPEN
+
+COMMON SPONSOR:
+⚪ OPEN
 ```
 
-or:
+This prevents:
 
 ```text
-several coordinated operators
+same queue of defensive work
 ```
 
-or:
+from becoming:
 
 ```text
-several operators with one customer
+same hostile command chain
 ```
-
-or:
-
-```text
-one operator serving several customers
-```
-
-or:
-
-```text
-criminal reuse of the same exploit
-```
-
-or:
-
-```text
-independent actors exploiting the same exposed technology
-```
-
-or:
-
-```text
-shared contractor or provider failure
-```
-
-or:
-
-```text
-copycat activity
-```
-
-or:
-
-```text
-some mixture of these
-```
-
-A repeated pattern may therefore be analytically important before evidence supports the stronger proposition that all incidents belong to one centrally coordinated campaign.
-
-The record should preserve that distinction.
 
 ---
 
 ## 🚰 Water Shows Why The Layers Matter
 
-Water and wastewater infrastructure makes the distinction unusually visible.
-
-Suppose several utilities experience some combination of:
-
-- access to exposed controllers;
-- operator lockouts;
-- configuration changes;
-- loss of visibility;
-- forced manual operation;
-- pressure disruption;
-- pump interference;
-- or service degradation.
-
-As the number of incidents rises, the evidence may strongly support:
+The late-August disclosure of more than 100 targeted US water and wastewater systems supports:
 
 ```text
-REPEATED WATER-SECTOR PATTERN:
+SECTOR-SCALE TARGETING:
 🟢 ESTABLISHED
 ```
 
-while still supporting only:
+It does not automatically support:
 
 ```text
-COMMON OPERATOR:
-🟡 PROBABLE
+100+ PHYSICAL DISRUPTIONS:
+NO
+
+ONE COMMON OPERATOR:
+NO
+
+ONE COMMON SPONSOR:
+NO
 ```
 
-or:
+The core Minnesota / Iran-linked wave can be stronger than the attribution of the entire 100+ system population.
+
+That distinction should remain visible.
+
+---
+
+## ⚡ Small Physical Effect Still Gets Its Own Green
+
+The UK generator case demonstrates:
 
 ```text
-IRANIAN STATE DIRECTION:
-🟠 SUSPECTED
+PHYSICAL GENERATION SHUTDOWN:
+🟢 CONFIRMED
+
+NATIONAL GRID EFFECT:
+❌ NOT REPORTED
+
+IRAN-LINKED ASSESSMENT:
+🟠 / 🟡 DEVELOPING
+
+FORMAL PUBLIC NCSC ATTRIBUTION:
+⚪ NOT IDENTIFIED
 ```
 
-or:
+Do not downgrade a confirmed physical effect because the national consequence was limited.
 
-```text
-COMMON CUSTOMER:
-⚪ OPEN
-```
-
-The physical consequences may matter before attribution catches up.
-
-Strategic importance does not supply the missing attribution.
+Severity and confidence are separate.
 
 ---
 
 ## 📉 Severity Is Not Confidence
 
-A confidence colour should never double as a severity scale.
-
-These are different questions.
+A confidence colour must not double as a severity scale.
 
 A small incident may be:
 
@@ -781,7 +449,7 @@ SEVERITY:
 LOW
 ```
 
-A potentially catastrophic claim may be:
+A catastrophic allegation may be:
 
 ```text
 CONFIDENCE:
@@ -791,7 +459,7 @@ SEVERITY IF TRUE:
 VERY HIGH
 ```
 
-Where useful, record separately:
+Where useful, record:
 
 ```text
 SEVERITY:
@@ -799,84 +467,68 @@ OPERATIONAL SIGNIFICANCE:
 STRATEGIC SIGNIFICANCE:
 ```
 
-Water being strategically important does not make Iranian attribution more likely.
-
-A dramatic consequence does not make weak evidence stronger.
+separately.
 
 ---
 
 ## 🏗️ Strategic Importance Is Not Attribution
 
-An incident affecting:
+A system may be strategically important because it involves:
 
 - water;
 - energy;
 - healthcare;
 - banking;
+- telecoms;
 - transport;
 - government;
-- telecommunications;
 - defence;
-- or justice
-
-may deserve greater scrutiny because of its consequences.
+- or justice.
 
 That changes:
 
 ```text
-WHY THE INCIDENT MATTERS
+WHY IT MATTERS
 ```
 
 It does not answer:
 
 ```text
-WHO CAUSED IT
+WHO DID IT
 ```
 
-The same applies to countries.
-
-A state may be highly relevant to Iran's wartime operational map while attribution of a specific incident remains weak.
-
-Record:
+Keep:
 
 ```text
 IRAN-WAR RELEVANCE:
 ```
 
-separately from:
+separate from:
 
 ```text
-IRANIAN ATTRIBUTION:
+IRAN ATTRIBUTION:
 ```
 
 ---
 
 ## 🗺️ Country Relevance Is Its Own Field
 
-A country may sit inside the pack's tracking perimeter because it is:
+A country may be relevant because it is:
 
-- a direct belligerent;
-- a basing state;
-- a logistics provider;
-- an interceptor;
-- an intelligence partner;
-- a maritime partner;
-- a sanctions participant;
-- or part of infrastructure supporting the opposing coalition.
+- a belligerent;
+- basing state;
+- logistics provider;
+- intelligence partner;
+- sanctions participant;
+- or part of the opposing coalition.
 
-That may make the country a plausible target environment.
+That makes it relevant to the war map.
 
-It does not make Iran the default explanation for unexplained cyber incidents there.
-
-The pack is an Iran-war cyber pack.
-
-It is not entitled to fill unattributed space with Iran.
+It does not make Iran the default explanation for unexplained incidents there.
 
 ---
 
 ## 🕸️ Attribution Is A Stack
-
-Cyber attribution may involve several different layers.
 
 Use:
 
@@ -906,25 +558,22 @@ STATE DIRECTION
 END USER / FINAL BENEFICIARY
 ```
 
-Confidence should attach separately to each material layer.
+Confidence attaches separately to each relevant layer.
 
-For example:
+Do not compress:
 
 ```text
 TECHNICAL OPERATOR:
-🟢 CONFIRMED
-
-GROUP IDENTITY:
-🟡 PROBABLE
+🟢
 
 STATE AFFILIATION:
-🟡 PROBABLE
+🟡
 
-STATE DIRECTION OF THIS INCIDENT:
-⚪ OPEN
+STATE DIRECTION:
+⚪
 ```
 
-Do not compress that into:
+into:
 
 ```text
 IRAN:
@@ -937,24 +586,7 @@ unless the evidence actually reaches that proposition.
 
 ## 🧅 Criminal Operator Does Not Resolve The Customer
 
-The label:
-
-```text
-CYBERCRIME
-```
-
-may accurately describe the immediate activity.
-
-It does not necessarily answer:
-
-```text
-WHO BOUGHT THE ACCESS?
-WHO SELECTED THE TARGET?
-WHO RECEIVED THE DATA?
-WHO TASKED THE LATER OPERATION?
-```
-
-The pack should preserve both directions:
+Keep both directions:
 
 ```text
 CRIMINAL OPERATOR
@@ -970,109 +602,75 @@ CRIMINAL OPERATOR
 STATE CUSTOMER
 ```
 
-A criminal operator may simply be a criminal operator.
+A criminal operator may simply be criminal.
 
-A criminal operator may sell access later.
+It may sell access later.
 
-A customer may appear only after the initial compromise.
+A state customer may appear only after compromise.
 
-Several customers may purchase the same access or data.
+Several customers may use the same data or access.
 
-A state may opportunistically benefit from material it did not originally commission.
-
-None of those possibilities should be assumed without evidence.
-
-The purpose of the model is to keep the questions open long enough to distinguish them.
+Do not assume either direction.
 
 ---
 
-## 🪜 The Operator And Customer May Enter At Different Times
+## 🪜 Operator And Customer May Enter At Different Times
 
-A cyber chain does not have to begin with one customer issuing one clean instruction.
-
-It may look like:
+Possible sequence:
 
 ```text
 initial compromise
-→ credential theft
+→ credentials
 → access retained
 → access advertised
 → access sold
-→ data copied
-→ data resold
 → later tasking
-→ downstream exploitation
+→ downstream use
 ```
 
-Or:
+Therefore distinguish:
 
 ```text
-operator
-→ broker
-→ several buyers
+INITIAL OPERATOR:
+INITIAL PURPOSE:
+ACCESS TRANSFER:
+LATER OPERATOR:
+LATER CUSTOMER:
+LATER PURPOSE:
 ```
 
-Or:
-
-```text
-operator
-→ one customer
-→ later resale
-→ second customer
-```
-
-This means evidence about the first intrusion may tell us very little about the final user.
-
-The chronology of the access chain matters.
+This is especially important for PaperCut-style access manufacturing.
 
 ---
 
-## 💰 Commissioner, Payer, Customer And Beneficiary Are Separate Propositions
-
-A cyber operation may contain several relationships that look similar from a distance and do different evidentiary work.
+## 💰 Commissioner, Payer, Customer And Beneficiary Are Separate
 
 Record separately:
 
 ```text
 TASK ORIGINATOR:
-who generated the requirement?
-
 COMMISSIONER:
-who asked for an outcome?
-
 PAYER:
-who transferred money, access, infrastructure or another benefit?
-
 PROCUREMENT ROUTE:
-how did the capability enter the chain?
-
 CUSTOMER:
-who purchased the service, access or data?
-
 END USER:
-who used the resulting access, intelligence or disruption?
-
 FINAL BENEFICIARY:
-who ultimately gained from the result?
 ```
 
-One entity may occupy several positions.
+Payment may support:
 
-Several entities may occupy one position at different times.
+- demand;
+- relationship;
+- procurement;
+- or access transfer.
 
-Payment can provide powerful evidence of demand and relationship. It does not automatically prove:
+It does not automatically prove:
 
-- detailed operational control;
-- knowledge of every subcontractor;
-- approval of every technique;
-- intent regarding every downstream effect;
-- or state direction.
+- detailed control;
+- intent regarding every method;
+- or knowledge of every downstream effect.
 
-The opposite error is equally serious.
-
-Delegation does not make the commissioning relationship disappear merely because the commissioner did not choose the malware, meet the operator, or anticipate the full effect.
-
-Therefore preserve:
+Preserve:
 
 ```text
 COMMISSIONING
@@ -1085,178 +683,53 @@ and:
 ```text
 NO COMPLETE OPERATIONAL CONTROL
 ≠
-NO RELATIONSHIP OR RESPONSIBILITY
+NO RELATIONSHIP
 ```
-
-The evidentiary question is not merely whether money changed hands.
-
-It is what proposition the financial or procurement evidence actually supports.
 
 ---
 
-## 🪞 Historical Comparators Are Mechanisms, Not Findings
+## 🎭 State Relationship Terms Are Not Synonyms
 
-Other states and cyber ecosystems can demonstrate that:
-
-- financially motivated activity and state utility are not mutually exclusive;
-- criminal infrastructure can be reused;
-- stolen access can be purchased;
-- and operators do not always need to know the ultimate strategic customer.
-
-Those comparators justify questions.
-
-They do not transfer findings.
-
-Therefore:
-
-```text
-another state has used criminal-style cyber activity
-→
-criminal/state overlap is analytically possible
-```
-
-### Worked Comparison — Mabna And Medusa
-
-The 18 August 2026 United States Department of Justice announcement concerning the Mabna Institute supports several specific propositions.
-
-DOJ alleges that Mabna:
-
-- conducted a long-running cyber-theft campaign;
-- worked for the IRGC and other Iranian government and university clients;
-- employed, contracted and affiliated itself with hackers-for-hire and other contract personnel;
-- and stole academic data, intellectual property and email material from a large international victim pool.
-
-For the proposition:
-
-```text
-THE UNITED STATES GOVERNMENT HAS PUBLICLY ATTRIBUTED
-SPECIFIED MABNA ACTIVITY TO IRGC-LINKED TASKING
-```
-
-the public-government-attribution status is:
-
-```text
-🟢 ESTABLISHED
-```
-
-That does not mean every allegation has been adjudicated, every operator knew the ultimate client, or every Iranian cyber incident uses the same structure.
-
-The Medusa advisory supplies the necessary competing comparison.
-
-CISA, FBI and HHS describe Medusa as a ransomware ecosystem using affiliates and initial-access brokers. That supports:
-
-```text
-BROKERS + AFFILIATES + DISTRIBUTED ACCESS
-CAN EXIST IN A CONVENTIONAL CRIMINAL ECOSYSTEM
-```
-
-It does not support:
-
-```text
-MEDUSA IS STATE-DIRECTED
-```
-
-or:
-
-```text
-AN AMBIGUOUS INCIDENT USING INTERMEDIARIES
-IS PROBABLY IRANIAN
-```
-
-The durable finding is structural:
-
-> Intermediary complexity can obscure tasking. It cannot identify the tasking by itself.
-
-- [United States Department of Justice — 17 Mabna Institute members charged](https://www.justice.gov/opa/pr/17-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary)
-- [CISA, FBI and HHS — StopRansomware advisory on Medusa](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a)
-
----
-
-not:
-
-```text
-another state has done this
-→
-Iran did this
-```
-
-Mechanisms travel.
-
-Findings do not.
-
----
-
-## 🎭 State Relationship Terms Must Not Be Used As Synonyms
-
-The pack should distinguish carefully between terms such as:
+Distinguish:
 
 ```text
 state-linked
 state-affiliated
 state-backed
-state-sponsored
 state-supported
+state-sponsored
 state-encouraged
 state-tolerated
 state-directed
 ```
 
-These are not interchangeable.
-
-Where possible, define what the evidence actually shows.
-
 ### State-Linked
 
-There is some evidenced relationship to state structures, personnel, infrastructure, financing, past attribution, or activity.
-
-The relationship itself must be described.
+Some evidenced relationship exists.
 
 ### State-Affiliated
 
-The actor has a more meaningful organisational or institutional connection to the state than mere ideological alignment.
-
-The nature of that affiliation should be stated.
+Meaningful organisational or institutional connection exists.
 
 ### State-Backed / State-Supported
 
-Evidence indicates material support.
-
-That may involve:
-
-- funding;
-- infrastructure;
-- technical assistance;
-- safe harbour;
-- resources;
-- or other support.
-
-It does not necessarily establish operational direction.
+Material support is evidenced.
 
 ### State-Sponsored
 
-Use cautiously.
-
-Where used, identify what sponsorship means in the source being relied upon.
-
-Do not use it as a vague synonym for suspicious.
+Use cautiously; define what sponsorship means in the source.
 
 ### State-Encouraged
 
-Evidence indicates encouragement or signalling without necessarily establishing direct tasking.
+Evidence of encouragement without necessarily tasking.
 
 ### State-Tolerated
 
-Evidence supports knowing tolerance or permissive operating space.
-
-Tolerance does not equal direction.
+Evidence of permissive space or knowing tolerance.
 
 ### State-Directed
 
-Evidence supports a materially stronger proposition:
-
-> the state directed or controlled the operation in question.
-
-That requires stronger evidence than ideological alignment, state benefit, or general affiliation.
+Evidence supports the materially stronger proposition that the state directed or controlled the operation in question.
 
 ---
 
@@ -1264,38 +737,26 @@ That requires stronger evidence than ideological alignment, state benefit, or ge
 
 Do not use **proxy** merely to mean:
 
-> non-state actor that appears politically aligned with Iran.
+> politically aligned non-state actor.
 
-Where the term is used, record the evidenced relationship.
-
-Possible relationships include:
+Record the relationship:
 
 - funding;
 - tasking;
 - command;
 - shared personnel;
-- access provision;
+- infrastructure;
 - technical support;
-- infrastructure sharing;
-- operational coordination;
-- ideological alignment;
+- access provision;
 - or tolerated activity.
 
-These are different relationships.
-
-The word proxy should not hide which one is actually evidenced.
+The term should not hide what is actually evidenced.
 
 ---
 
 ## 👤 Benefit Is Not Control
 
-A state may benefit from an incident without causing it.
-
-A state may later exploit stolen material without commissioning the original intrusion.
-
-An incident may weaken an adversary in a way that fits Iranian strategic interests without Iran having any involvement.
-
-Therefore:
+Keep:
 
 ```text
 STRATEGIC BENEFIT
@@ -1311,15 +772,64 @@ LATER USE
 ORIGINAL TASKING
 ```
 
-Strategic incentives belong in interpretation.
+This now applies equally to alliance effects:
 
-They do not substitute for attribution evidence.
+```text
+ADVERSARY BENEFITS FROM ALLIED DIVERGENCE
+≠
+ADVERSARY CAUSED THE DIVERGENCE
+```
 
 ---
 
-## 🧪 Capability Is Not Use
+## 🌍 Alliance Effect Is A Separate Proposition
 
-Evidence that an actor possesses a technique, exploit, malware family, infrastructure capability, or target interest does not establish that it used that capability in the current incident.
+Where alliance reliability matters, record separately:
+
+```text
+PREVIOUSLY COORDINATED POSITION:
+POLICY DIVERGENCE:
+ALLIED HEDGING:
+OPERATIONAL / PLANNING COST:
+ADVERSARY BENEFIT:
+ADVERSARY CAUSATION:
+```
+
+Possible confidence example:
+
+```text
+POLICY DIVERGENCE:
+🟢 CONFIRMED
+
+ALLIED HEDGING:
+🟡 DEVELOPING
+
+TRANSACTION COST:
+🟡 DEVELOPING
+
+NATO COLLAPSE:
+❌ NOT ESTABLISHED
+
+ADVERSARY CAUSED THE DIVERGENCE:
+⚪ OPEN / NO EVIDENCE
+```
+
+Do not collapse disagreement into alliance failure.
+
+---
+
+## 🤖 Capability Is Not Use
+
+Evidence of:
+
+- a technique;
+- exploit;
+- AI workflow;
+- malware family;
+- target interest;
+- or vulnerability research
+
+does not establish use in a specific incident.
 
 Therefore:
 
@@ -1329,9 +839,39 @@ CAPABILITY
 USE
 ```
 
-Technical resemblance may increase attribution confidence.
+and:
 
-It should not carry the whole attribution by itself.
+```text
+AI-ASSISTED RESEARCH
+≠
+SUCCESSFUL EXPLOITATION
+```
+
+The Anthropic naval-reconnaissance case is the clean comparator.
+
+---
+
+## ⚓ Reconnaissance Is Not Exploitation
+
+Use:
+
+```text
+RECONNAISSANCE:
+🟢 CONFIRMED
+
+SUCCESSFUL ACCESS:
+⚪ OPEN
+
+EXPLOITATION:
+⚪ OPEN
+
+OPERATIONAL EFFECT:
+⚪ OPEN
+```
+
+where that is the evidence.
+
+Do not upgrade CVE research into attack.
 
 ---
 
@@ -1339,16 +879,15 @@ It should not carry the whole attribution by itself.
 
 Several incidents may look similar because they involve:
 
-- the same exposed PLC;
-- the same VPN product;
+- the same PLC;
+- the same VPN;
 - the same cloud service;
 - the same identity provider;
-- the same managed service provider;
-- the same remote-access tool;
-- the same OT integrator;
-- or the same widely exploited vulnerability.
+- the same MSP;
+- the same software;
+- or the same vulnerability.
 
-That can indicate:
+That may indicate:
 
 ```text
 one campaign
@@ -1363,7 +902,7 @@ several actors exploiting one weakness
 or:
 
 ```text
-shared provider dependency
+shared-provider dependency
 ```
 
 or:
@@ -1372,13 +911,13 @@ or:
 copycat activity
 ```
 
-The record should preserve those rival explanations.
+Preserve the rivals.
 
 ---
 
 ## 🕸️ Shared Providers Need Their Own Field
 
-Where relevant, record:
+Where relevant record:
 
 ```text
 COMMON VENDOR:
@@ -1388,2000 +927,380 @@ COMMON IDENTITY PROVIDER:
 COMMON OT INTEGRATOR:
 COMMON REMOTE-ACCESS PLATFORM:
 COMMON CONTRACTOR:
+COMMON SOFTWARE:
 COMMON VULNERABILITY:
 ```
 
-A shared dependency may explain clustering without establishing a shared operator.
-
-Conversely, a common provider may reveal a campaign relationship that is invisible when incidents are viewed institution by institution.
+A shared dependency may explain clustering without one common operator.
 
 ---
 
-## 🎭 Alias Continuity Is Not Operator Continuity
+## 🤖 Shared Software Is Not Strategic Selection
 
-A familiar actor name may be reused.
+PaperCut and similar mass-exploitation campaigns require:
+
+```text
+EXPOSED POPULATION:
+ACTUAL VICTIM POPULATION:
+SECTOR DISTRIBUTION:
+LATER SELECTIVE USE:
+```
+
+Do not infer:
+
+```text
+several important sectors affected
+=
+each strategically selected
+```
+
+without evidence.
+
+---
+
+## 🧯 Service Continuity Is Not No Effect
+
+Where fallback worked, record:
+
+```text
+NORMAL SERVICE DEGRADED:
+MANUAL / LOCAL FALLBACK:
+ADDITIONAL STAFFING:
+DELAY / DIVERSION:
+HIGH-DEPENDENCY USER EFFECT:
+```
+
+Examples include:
+
+- water systems moving manual;
+- Manitoba local HVAC monitoring;
+- Luminis ambulance diversion.
 
 Therefore:
 
 ```text
-SAME ALIAS
+SERVICE CONTINUED
 ≠
-SAME PEOPLE
+NO OPERATIONAL EFFECT
 ```
-
-Where relevant, distinguish:
-
-```text
-ALIAS CONTINUITY:
-OPERATOR CONTINUITY:
-INFRASTRUCTURE CONTINUITY:
-TOOLING CONTINUITY:
-```
-
-A historic association between an alias and a state should not automatically transfer to every later use of the name.
-
----
-
-## 🎭 False Flags And Mimicry Remain Possible
-
-Attribution analysis should allow for:
-
-- planted indicators;
-- copied TTPs;
-- reused political branding;
-- deliberate infrastructure imitation;
-- false actor claims;
-- or attempts to exploit an expected attribution narrative.
-
-The existence of possible mimicry does not make all attribution impossible.
-
-It means distinctive evidence should carry more weight than easily copied indicators.
-
----
-
-## 🪜 Effect Confidence Must Match Operational Depth
-
-For operational technology, record the deepest level actually supported.
-
-```text
-LEVEL 0 — EXTERNAL RECONNAISSANCE
-
-LEVEL 1 — IT / ADMINISTRATIVE ACCESS
-
-LEVEL 2 — OT NETWORK VISIBILITY
-
-LEVEL 3 — HMI / CONTROL INTERFACE ACCESS
-
-LEVEL 4 — CONTROLLER OR CONFIGURATION ACCESS
-
-LEVEL 5 — COMMAND / SETTING MANIPULATION
-
-LEVEL 6 — OBSERVED PHYSICAL-PROCESS CHANGE
-
-LEVEL 7 — SAFETY / SERVICE / PHYSICAL HARM
-```
-
-The distinctions matter.
-
-```text
-saw the controller
-≠
-accessed the controller
-≠
-changed the controller
-≠
-changed the physical process
-≠
-caused physical harm
-```
-
-Likewise:
-
-```text
-loss of view
-≠
-loss of control
-≠
-attacker control
-```
-
-Do not take the deepest effect reported anywhere in a cluster and apply it to every affected facility.
-
----
-
-## 🧯 Manual Fallback Is Still An Operational Effect
-
-If a utility must move to manual operation, that does not mean:
-
-```text
-NO HARM
-```
-
-It may mean:
-
-```text
-AUTOMATED CONTROL DEGRADED
-+
-HUMAN FALLBACK WORKED
-```
-
-Manual resilience can reduce consequence while still proving that the incident reached an operationally meaningful layer.
-
-Record both:
-
-```text
-AUTOMATED EFFECT:
-MANUAL / FALLBACK RESPONSE:
-SERVICE CONSEQUENCE:
-```
-
----
-
-## 🧱 Effect Confidence Should Be Decomposed
-
-Where useful, separate:
-
-```text
-OPERATIONAL EFFECT:
-PHYSICAL EFFECT:
-DATA-CONFIDENTIALITY EFFECT:
-DATA-INTEGRITY EFFECT:
-RECORD-INTEGRITY EFFECT:
-CIVILIAN EFFECT:
-SERVICE EFFECT:
-SAFETY EFFECT:
-```
-
-Confidence may differ between them.
-
-A service disruption may be confirmed while a claimed physical manipulation remains suspected.
-
-A data breach may be confirmed while record alteration remains open.
-
----
-
-## 🪪 Confidentiality, Integrity And Provenance Are Different Problems
-
-Cyber incidents do not only copy data.
-
-They may:
-
-- delete it;
-- alter it;
-- corrupt provenance;
-- create conflicting records;
-- make the authoritative version uncertain;
-- or cause downstream institutions to rely on compromised information.
-
-Distinguish:
-
-```text
-DATA COPIED:
-DATA DELETED:
-DATA ALTERED:
-PROVENANCE AFFECTED:
-AUTHORITATIVE RECORD STATUS:
-DOWNSTREAM RELIANCE:
-```
-
-An integrity failure may be more strategically important than ordinary theft.
 
 ---
 
 ## 🧍 Technical Recovery Is Not Person-Centred Recovery
 
-Where people are affected, separately record:
-
-```text
-DATA EXPOSED:
-PEOPLE AFFECTED:
-NOTIFICATION:
-CONTINUING RISK:
-PROTECTION OFFERED:
-DOMESTIC REUSE OR AMPLIFICATION:
-PERSON-CENTRED RECOVERY:
-```
-
-Because:
+Keep:
 
 ```text
 SYSTEM RESTORED
 ≠
 DATA RECALLED
-```
-
-and:
-
-```text
-EXFILTRATION ENDED
 ≠
-COPIES DESTROYED
-```
-
-and:
-
-```text
-SERVICE RECOVERED
+RECORD TRUST RESTORED
 ≠
-AFFECTED PERSON SAFE
+PERSON PROTECTED
 ```
 
-The technical incident may end while downstream harm continues.
-
----
-
-## 🔗 Source Hierarchy
-
-Sources should be assessed according to what they can establish.
-
-### 🏛️ Tier One — Primary And Official
-
-Examples include:
-
-- affected institutions;
-- official cyber advisories;
-- regulator notices;
-- court filings;
-- indictments;
-- sanctions records;
-- parliamentary material;
-- emergency notices;
-- and direct technical records.
-
-These sources may be authoritative for:
-
-- what happened operationally;
-- what the institution observed;
-- what action it took;
-- or what attribution the government publicly adopted.
-
-An official source is authoritative evidence of the official position.
-
-That does not automatically expose or independently prove every inference underlying that position.
-
-### 🧪 Tier Two — Independent Technical Research
-
-Examples include:
-
-- malware analysis;
-- infrastructure mapping;
-- incident-response findings;
-- OT research;
-- campaign analysis;
-- and methodologically transparent security research.
-
-These may be especially strong for:
-
-- tooling;
-- infrastructure reuse;
-- technical linkage;
-- controller behaviour;
-- operator overlap;
-- or campaign structure.
-
-Technical expertise does not automatically establish political intent, ultimate customer, state direction, or legal responsibility.
-
-### 📰 Tier Three — Reputable Reporting
-
-Established reporting may be strong for:
-
-- chronology;
-- institutional response;
-- political context;
-- investigative direction;
-- and what officials or investigators currently assess.
-
-Its evidentiary value still depends on the source chain.
-
-### 🔭 Tier Four — Specialist And Open-Source Analysis
-
-Specialist researchers, analysts, newsletters, and open-source investigators may be useful for:
-
-- discovery;
-- comparison;
-- pattern recognition;
-- technical leads;
-- and interpretation.
-
-Their conclusions should not be treated as stronger than the evidence underneath them.
-
-### 📣 Tier Five — Actor Claims And Unverified Material
-
-This may include:
-
-- attacker statements;
-- anonymous posts;
-- screenshots;
-- social-media claims;
-- leak sites;
-- and unattributed documents.
-
-These may be useful for establishing:
-
-- claimed responsibility;
-- messaging;
-- propaganda;
-- claimed motive;
-- chronology;
-- or target selection.
-
-They are weak evidence of actual authorship or effect without independent corroboration.
-
----
-
-## 🧪 Source Type Is Not Source Quality
-
-A source tier describes what kind of source something is.
-
-It does not fully describe how good that source is.
-
-Where material, separately assess:
+Where relevant record:
 
 ```text
-SOURCE TIER:
-SOURCE QUALITY:
-```
-
-Useful quality factors include:
-
-- named versus anonymous sourcing;
-- direct versus second-hand access;
-- documentary support;
-- technical reproducibility;
-- methodological transparency;
-- relevant expertise;
-- corrections history;
-- and whether the source is reporting what it directly observed or what somebody else told it.
-
-Two Tier Three reports may differ substantially in quality.
-
-Two official statements may answer different questions.
-
----
-
-## 🪞 Repetition Is Not Corroboration
-
-Record:
-
-```text
-ORIGINAL SOURCE:
-FIRST REPORT:
-LATER REPORTS:
-INDEPENDENT CORROBORATION:
-COMMON SOURCE DEPENDENCY:
-```
-
-Ten articles tracing back to one advisory remain one underlying evidentiary route.
-
-The relevant question is not:
-
-> How many links exist?
-
-It is:
-
-> How many genuinely independent routes support this proposition?
-
----
-
-## 🧬 Preserve The Provenance Chain
-
-Where the source chain is complex, record how the claim travelled.
-
-For example:
-
-```text
-affected institution
-→ government brief
-→ journalist
-→ wire report
-→ secondary outlet
-```
-
-or:
-
-```text
-security vendor
-→ technical blog
-→ journalist
-→ later aggregation
-```
-
-This allows the reader to identify when apparent corroboration is actually repetition.
-
----
-
-## ⚖️ Conflicting Credible Sources Should Stay Conflicting
-
-Do not average disagreement into fake certainty.
-
-Where credible sources conflict, record:
-
-```text
-SOURCE A:
-WHAT IT CLAIMS:
-
-SOURCE B:
-WHAT IT CLAIMS:
-
-POINT OF DISAGREEMENT:
-WHY THEY MAY DIFFER:
-CURRENT STATUS:
-```
-
-Possible reasons may include:
-
-- different observation windows;
-- different definitions;
-- partial visibility;
-- different institutional roles;
-- later evidence;
-- or genuine disagreement.
-
-If the disagreement remains unresolved, leave it unresolved.
-
----
-
-## 🎭 Sources Have Different Incentives
-
-Governments, affected companies, security vendors, journalists, regulators, alleged attackers, and contractors may all have different incentives concerning disclosure.
-
-That does not make any category automatically unreliable.
-
-It means the analyst should ask:
-
-```text
-WHAT CAN THIS SOURCE ACTUALLY KNOW?
-WHAT DOES IT HAVE AN INCENTIVE TO DISCLOSE?
-WHAT MIGHT IT HAVE AN INCENTIVE TO WITHHOLD?
-```
-
-Source incentives are context.
-
-They are not a substitute for evidence.
-
----
-
-## 📅 Freshness Matters
-
-Every material source should preserve enough date information to prevent stale evidence being treated as current.
-
-Where relevant, record:
-
-```text
-SOURCE DATE:
-EVIDENCE CUTOFF:
-LAST REVIEWED:
-```
-
-A strong April report may remain valuable evidence of an April technical assessment.
-
-It may not represent the attribution position in August.
-
----
-
-## 🗄️ Preserve Enough Source Detail To Survive A Dead Link
-
-For long-lived records, preserve where useful:
-
-```text
-SOURCE BODY / OUTLET:
-TITLE:
-AUTHOR:
-PUBLICATION DATE:
-DOCUMENT TYPE:
-REFERENCE / ARCHIVE NOTE:
-```
-
-The source record should remain intelligible even if the original URL later disappears.
-
----
-
-## 🧪 Match The Source To The Claim
-
-An affected utility may be authoritative about:
-
-- service disruption;
-- operator lockout;
-- manual fallback;
-- pressure change;
-- or recovery.
-
-It may not know the ultimate sponsor.
-
-A security company may establish:
-
-- malware;
-- infrastructure;
-- tooling;
-- controller access;
-- or operator overlap.
-
-It may not establish:
-
-- political purpose;
-- state direction;
-- legal responsibility;
-- or final customer.
-
-An alleged attacker can establish:
-
-> We are claiming responsibility.
-
-It cannot establish merely by saying so:
-
-> We caused the incident.
-
-Use each source only for the proposition it can reasonably support.
-
----
-
-## ⚪ Unknown Is Not One Thing
-
-Do not collapse all missing information into one blank field.
-
-Use explicit statuses.
-
-### UNKNOWN
-
-The answer has not been established.
-
-### NOT PUBLIC
-
-The information may exist but is not publicly available.
-
-### NO EVIDENCE FOUND
-
-A search was performed but no supporting public evidence was located.
-
-### WITHHELD / NCND
-
-An authority was asked or could have answered but declined to confirm or deny.
-
-### NOT APPLICABLE
-
-The question does not apply to this incident.
-
-These statuses are analytically different.
-
----
-
-## 🕳️ Absence Of Evidence Needs Discipline
-
-Use:
-
-```text
-NO PUBLIC EVIDENCE OF X
-```
-
-where that is what the record supports.
-
-Do not rewrite it as:
-
-```text
-X DID NOT HAPPEN
-```
-
-But the reverse mistake is equally dangerous.
-
-Do not convert:
-
-```text
-NO PUBLIC EVIDENCE
-```
-
-into:
-
-```text
-THEREFORE THE STATE MUST SECRETLY KNOW
-```
-
-Absence should remain absence.
-
----
-
-## 🤐 Silence Is Not A Denial
-
-Where an authority says:
-
-> We can neither confirm nor deny.
-
-record that.
-
-Do not translate it into:
-
-> Officials denied it.
-
-Where an authority says:
-
-> We do not comment on operational matters.
-
-do not translate that into:
-
-> No national-security concern exists.
-
-Silence may protect:
-
-- intelligence;
-- an investigation;
-- operational capability;
-- diplomatic space;
-- or future legal proceedings.
-
-It may also leave the public evidentiary picture unresolved.
-
-Record the silence.
-
-Do not fill it.
-
----
-
-## 🔐 Government Attribution Is Itself A Proposition
-
-These are different claims:
-
-```text
-THE US GOVERNMENT FORMALLY ATTRIBUTES THE OPERATION TO IRAN
-```
-
-and:
-
-```text
-IRAN DIRECTED THE OPERATION
-```
-
-The first may be:
-
-```text
-🟢 CONFIRMED
-```
-
-because the government publicly made the attribution.
-
-The confidence attached to the second proposition depends on the evidence available for that proposition.
-
-Government attribution matters.
-
-Government attribution does not erase the distinction between:
-
-```text
-public state position
-```
-
-and:
-
-```text
-independently visible public evidence
+TECHNICAL RECOVERY:
+SERVICE RECOVERY:
+DATA RECOVERY:
+RECORD-INTEGRITY RECOVERY:
+PERSON-CENTRED RECOVERY:
 ```
 
 ---
 
-## 🔐 Public Attribution And Private Assessment Are Different Records
+## ⚖️ Legal Confidence Is Its Own Axis
 
-The pack should distinguish:
-
-```text
-WHAT THE STATE MAY KNOW
-```
-
-from:
+Keep:
 
 ```text
-WHAT THE STATE HAS PUBLICLY ESTABLISHED
+CIVILIAN INFRASTRUCTURE AFFECTED
+≠
+IHL VIOLATION CONFIRMED
+≠
+WAR CRIME CONFIRMED
 ```
 
-Where relevant, record:
+Legal confidence may depend on:
 
-```text
-INTERNAL / INTELLIGENCE POSITION:
-UNKNOWN / REPORTED / DISCLOSED
+- armed-conflict nexus;
+- target status;
+- whether the operation qualifies as an attack;
+- applicable IHL rule;
+- breach;
+- state attribution;
+- individual actor;
+- mental element;
+- mode of liability;
+- and jurisdiction.
 
-PUBLIC GOVERNMENT ATTRIBUTION:
-NONE / SUSPECTED / FORMAL
-
-PUBLIC SUPPORTING EVIDENCE:
-NONE / LIMITED / SUBSTANTIAL
-
-PUBLIC LEGAL CONSEQUENCE CLAIMED:
-YES / NO / OPEN
-```
-
-From outside, these situations can look similar:
-
-```text
-we know more than we can say
-```
-
-and:
-
-```text
-we do not yet know
-```
-
-Do not choose between them without evidence.
+Do not use the incident confidence colour as the legal confidence colour.
 
 ---
 
-## 🛡️ Private Protection Does Not Require Public Attribution
+## 📚 Source Quality And Proposition Fit Are Separate
 
-A state may be unable or unwilling to publicly identify an attacker while still taking protective action.
-
-Record separately:
-
-```text
-PUBLIC ATTRIBUTION:
-PRIVATE THREAT ASSESSMENT:
-PRIVATE PROTECTIVE ACTION:
-```
-
-Protective behaviour may provide evidence that an institution assessed some risk.
-
-It does not automatically identify the source of that risk.
-
-Do not reverse-engineer a hidden attribution from protective action alone.
-
----
-
-## ⚠️ Timing Is Not Attribution
-
-An incident occurring during military escalation may justify additional scrutiny.
-
-Record:
-
-```text
-CONTEXT:
-Occurred during military escalation.
-
-INFERENCE:
-Timing justifies comparison with related incidents.
-
-LIMIT:
-Timing alone does not establish Iranian direction.
-```
-
-Chronology should not become causation.
-
-Chronology should not disappear either.
-
----
-
-## 🎯 Target Selection Is Not Attribution
-
-Iranian strategic interest in:
-
-- water;
-- energy;
-- banks;
-- government;
-- defence;
-- healthcare;
-- transport;
-- dissidents;
-- or coalition support states
-
-may make target selection analytically relevant.
-
-It does not identify the operator.
-
-Many actors can have overlapping incentives.
-
-Target selection is one evidentiary layer.
-
-It is not the whole attribution.
-
----
-
-## 📣 Publicity And Narrative Use Need Their Own Confidence Labels
-
-The entity that compromises a system may not be the entity that decides to publicise it.
-
-The entity that publicises an operation may not be the entity that writes, approves, amplifies or benefits from the accompanying political story.
-
-Record separately:
-
-```text
-INTRUSION OPERATOR:
-PUBLICISING ACTOR:
-PUBLICITY CHANNEL:
-NARRATIVE FRAME:
-INTENDED AUDIENCE:
-AMPLIFYING NETWORK:
-CLAIMED EFFECT:
-INDEPENDENTLY ESTABLISHED EFFECT:
-```
-
-Each is a proposition requiring evidence.
-
-Microsoft has documented Iranian cyber-enabled influence operations in which opportunistic targeting, destructive activity, publicity and misleading or exaggerated effect claims interacted.
-
-That establishes the mechanism as real.
-
-It does not establish that the mechanism selected or framed a particular incident in this pack.
-
-- [Microsoft Threat Intelligence — Iranian cyber-enabled influence operations](https://www.microsoft.com/en-us/security/security-insider/threat-landscape/iran-surges-cyber-enabled-influence-operations-in-support-of-hamas)
-
-Use:
-
-```text
-NARRATIVE MECHANISM:
-🟢 ESTABLISHED AS HISTORICAL CAPABILITY
-
-USE IN THIS INCIDENT:
-⚪ OPEN
-```
-
-where that is what the evidence supports.
-
----
-
-## 🎭 Institutional Legitimacy Is An Audience Hypothesis, Not A Victim Property
-
-The pack may test whether an actor selected or publicised targets partly because some audiences would be slower to defend them.
-
-That is a legitimate strategic hypothesis.
-
-It must not become a disguised moral score assigned by the analyst.
-
-Do not record:
-
-```text
-VICTIM LEGITIMACY:
-LOW
-```
-
-as though legitimacy were objective, universal and stable.
-
-Prefer:
-
-```text
-AUDIENCE:
-EVIDENCE OF PRE-EXISTING REPUTATIONAL CONTEST:
-RELEVANT POLITICAL FRAME:
-EVIDENCE THE ACTOR USED THAT FRAME:
-EVIDENCE OF DIFFERENTIAL SOLIDARITY:
-CONFIDENCE:
-LIMIT:
-```
-
-The proposed mechanism is:
-
-```text
-target or access selected for publicity
-→ existing grievance activated
-→ sympathy for the victim reduced
-→ collective response becomes slower or more divided
-```
-
-Call this **denial of solidarity** where the evidence supports the analytical frame.
-
-Do not infer it merely because:
-
-- the victim is a bank, fossil-fuel company, defence contractor or large technology company;
-- the organisation has faced public criticism;
-- an anti-corporate narrative is imaginable;
-- or some readers dislike the victim.
-
-Evidence that would strengthen the hypothesis includes:
-
-- actor messaging explicitly invoking the reputational grievance;
-- systematic differences between concealed and publicised victims;
-- repeated selection of targets combining strategic value with narratively useful controversy;
-- audience-specific amplification;
-- or a measurable gap between independently established effects and politically framed claims.
-
-Evidence that would weaken it includes:
-
-- no relationship between publicity choices and target reputation;
-- indiscriminate target disclosure;
-- targets with high public sympathy receiving the same narrative treatment;
-- straightforward monetisation explaining the publicity better;
-- or visible civilian harm producing immediate solidarity against the attacker.
-
-Water systems and hospitals are important constraints.
-
-They may convert an abstract geopolitical operation into direct local hostility. A hypothesis that cannot accommodate that reversal is not a useful hypothesis.
-
-- [Mandiant / Google Cloud — suspected Iranian influence operation](https://cloud.google.com/blog/topics/threat-intelligence/suspected-iranian-influence-operation)
-- [Microsoft Threat Intelligence — Iranian cyber-enabled influence operations](https://www.microsoft.com/en-us/security/security-insider/threat-landscape/iran-surges-cyber-enabled-influence-operations-in-support-of-hamas)
-
----
-
-## 🧱 Every Material Claim Needs A Limit
-
-Use:
-
-```text
-CLAIM:
-SOURCE:
-SOURCE TIER:
-SOURCE QUALITY:
-EVIDENTIARY LAYER:
-TRAFFIC LIGHT:
-WRITTEN CONFIDENCE:
-LIMIT:
-RIVAL EXPLANATIONS:
-LAST REVIEWED:
-```
-
-For example:
-
-```text
-CLAIM:
-The incidents constitute a repeated water-sector pattern.
-
-TRAFFIC LIGHT:
-🟢
-
-WRITTEN CONFIDENCE:
-High / established.
-
-LIMIT:
-The existence of the pattern does not establish
-a common operator, customer, or state sponsor.
-
-RIVAL EXPLANATIONS:
-Several actors may be independently exploiting
-the same exposed technology.
-```
-
-The limit is part of the finding.
-
----
-
-## 🔄 Attribution History Must Remain Visible
-
-Do not silently overwrite:
-
-```text
-UNATTRIBUTED
-```
-
-with:
-
-```text
-IRAN-LINKED
-```
-
-when later evidence emerges.
-
-Preserve:
-
-```text
-PREVIOUS STATUS:
-NEW STATUS:
-WHAT CHANGED:
-SOURCE:
-DATE REVIEWED:
-```
-
-Where useful, maintain two histories.
-
-### Operational Development
-
-```text
-what happened
-→ how effect changed
-→ whether more systems were affected
-→ whether physical consequences emerged
-```
-
-### Attribution Development
-
-```text
-unattributed
-→ suspected
-→ probable
-→ confirmed
-```
-
-These histories may evolve independently.
-
----
-
-## ↕️ Confidence Must Move Both Ways
-
-Confidence may increase where there is:
-
-- distinctive shared infrastructure;
-- operator overlap;
-- financial or communications links;
-- recovered tasking;
-- independent corroboration;
-- hard-to-imitate technical artefacts;
-- consistent victimology;
-- or formal attribution.
-
-It should decrease where:
-
-- indicators prove generic;
-- a source withdraws its claim;
-- timestamps conflict;
-- actor impact claims are exaggerated;
-- ordinary criminal activity fits better;
-- apparent shared infrastructure proves coincidental;
-- or rival explanations become stronger.
-
-The method must permit:
-
-```text
-🟠 SUSPECTED
-→
-🟡 PROBABLE
-→
-🟢 CONFIRMED
-```
-
-and:
-
-```text
-🟡 PROBABLE
-→
-🟠 SUSPECTED
-→
-⚪ OPEN / UNATTRIBUTED
-→
-❌ EXCLUDED
-```
-
-A system that only upgrades will eventually convert every theory into fact.
-
----
-
-## 🧪 Evidence For And Evidence Against
-
-Campaign attribution should not accumulate only confirmatory indicators.
+A source can be excellent and still not support the proposition being attached to it.
 
 Record both:
 
 ```text
-EVIDENCE FOR:
-EVIDENCE AGAINST:
-```
-
-Where the evidence against is simply:
-
-```text
-none currently identified
-```
-
-say so.
-
-Do not invent balance.
-
-But do not hide evidence that weakens the preferred theory.
-
----
-
-## 🧯 Rival Explanations Are Mandatory
-
-Every material attribution or campaign hypothesis should record the strongest credible alternative.
-
-Not a straw man.
-
-Possible rival explanations may include:
-
-- ordinary cybercrime;
-- unrelated hostile-state activity;
-- copycat operations;
-- shared vulnerability exploitation;
-- insider activity;
-- technical failure;
-- provider failure;
-- false-flag activity;
-- opportunistic access;
-- or several unrelated incidents clustered by coincidence.
-
-The useful question is:
-
-> What explanation would a sceptical but technically competent reader consider plausible?
-
-That explanation belongs in the record.
-
----
-
-## 🪞 State What Would Weaken The Theory
-
-For every significant live hypothesis, record where useful:
-
-```text
-WHAT WOULD STRENGTHEN THIS:
-WHAT WOULD WEAKEN THIS:
-WHAT WOULD RULE THIS OUT:
-```
-
-This keeps the analysis falsifiable.
-
-The pack should be able to change its mind.
-
----
-
-## 🇮🇷 The Pack Name Does Not Privilege The Iran Theory
-
-This cluster exists because it tracks cyber risk across the Iran-war environment.
-
-That means Iran is an important hypothesis.
-
-It does not mean Iran is the default answer.
-
-The record must leave genuine room for:
-
-- ordinary crime;
-- domestic actors;
-- unrelated states;
-- technical failure;
-- supplier failure;
-- independent hacktivists;
-- private conflict;
-- opportunistic exploitation;
-- and mixed ecosystems.
-
-The pack should neither:
-
-```text
-turn every unexplained incident into Iran
-```
-
-nor:
-
-```text
-stop analysing an incident because Iran is not yet proven
-```
-
-Both errors defeat the purpose.
-
----
-
-## 📈 Unattributed Does Not Mean Do Not Analyse
-
-Before sponsorship is known, the pack can still analyse:
-
-- operational effect;
-- sector;
-- geographic spread;
-- target class;
-- timing;
-- technology;
-- infrastructure;
-- shared providers;
-- manual fallback;
-- data effect;
-- recurring technique;
-- and institutional response.
-
-Attribution is one analytical track.
-
-It is not permission to begin analysis.
-
----
-
-## 👾 Legal Confidence Is Separate Again
-
-A cyber operation affecting civilians or civilian infrastructure may raise international humanitarian law questions.
-
-That does not settle them.
-
-Use:
-
-```text
-LEGAL REVIEW:
-
-NOT INDICATED
-MONITOR
-REVIEW WARRANTED
-ACTIVE LEGAL QUESTION
-FORMAL FINDING
-```
-
-Preserve:
-
-```text
-CYBER INCIDENT
-≠
-CYBERATTACK FOR IHL PURPOSES
-≠
-IHL VIOLATION
-≠
-STATE RESPONSIBILITY
-≠
-WAR CRIME
-≠
-INDIVIDUAL CRIMINAL RESPONSIBILITY
-```
-
-Strong attribution does not prove unlawfulness.
-
-Serious civilian harm does not prove authorship.
-
-State responsibility does not automatically establish individual criminal responsibility.
-
-Route substantive legal analysis to [👾 Cyber War Crimes](./👾_cyber_war_crimes.md).
-
----
-
-## ⚖️ Public Legal Leverage May Depend On Public Attribution
-
-A government may privately assess an incident strongly while withholding the evidence supporting that assessment.
-
-That may protect:
-
-- sources;
-- methods;
-- partner intelligence;
-- operational access;
-- or an investigation.
-
-It can also leave the public evidentiary record weaker than the private assessment.
-
-That affects what can responsibly be alleged or demonstrated publicly.
-
-It does not determine whether the conduct **was**, as a matter of law, unlawful.
-
-Preserve:
-
-```text
-PRIVATE / INTERNAL ASSESSMENT
-≠
-PUBLICLY DEMONSTRABLE ATTRIBUTION
-```
-
-and:
-
-```text
-PUBLICLY DEMONSTRABLE ATTRIBUTION
-≠
-LEGAL FINDING
-```
-
----
-
-## 📋 Relationship Confidence Between Incidents
-
-When two incidents are proposed as related, record:
-
-```text
-RELATED INCIDENT:
-WHY THEY MAY BE RELATED:
-RELATIONSHIP CONFIDENCE:
-COMMON TECHNOLOGY:
-COMMON TECHNIQUE:
-COMMON INFRASTRUCTURE:
-COMMON TIMING:
-COMMON EFFECT:
-STRONGEST REASON THEY MAY BE UNRELATED:
-```
-
-This makes cluster construction auditable.
-
-A relationship claim is itself a proposition.
-
-It needs its own confidence.
-
----
-
-## 🌐 Cross-Sector Pattern Types
-
-Patterns should be described according to what actually recurs.
-
-Possible forms include:
-
-### Same-Sector Recurrence
-
-Repeated attacks on the same type of infrastructure.
-
-### Cross-Sector Recurrence
-
-Similar operations appearing across water, energy, government, finance, health, or other essential systems.
-
-### Common-Technology Recurrence
-
-Several incidents share a product, controller, exploit, platform, or architecture.
-
-### Common-Provider Recurrence
-
-Several affected institutions depend on the same contractor, cloud provider, MSP, identity provider, or integrator.
-
-### Common-Technique Recurrence
-
-The same technique repeatedly appears across otherwise different systems.
-
-### Geographic / Timing Recurrence
-
-Incidents cluster in geography or around military or political events.
-
-These patterns can overlap.
-
-They should not be treated as interchangeable.
-
----
-
-## 🧬 Worked Example — Cross-Sector Clustering With Different Mechanisms
-
-By mid-August 2026, cyber incidents were visible across water,
-healthcare, local government, logistics, finance, energy-adjacent, and
-industrial organisations.
-
-That supports a cross-sector threat-environment finding.
-
-It does not support one common sponsor without further evidence.
-
-Compare:
-
-```text
-US WATER / OT CORE WAVE
-ORGANISING MECHANISM:
-repeated targeting of exposed operational technology
-
-IRAN LINK:
-🟡 probable for the Minnesota / core wave
-
-COMMON SPONSOR ACROSS EVERY WATER INCIDENT:
-⚪ open
-```
-
-with:
-
-```text
-CL0P / WINDCHILL / FLEXPLM WAVE
-ORGANISING MECHANISM:
-probable exploitation of one shared enterprise-software vulnerability
-
-CRIMINAL EXTORTION LINK:
-🟡 probable / strong
-
-IRAN LINK:
-⚪ no evidence found
-```
-
-and:
-
-```text
-US LOCAL-GOVERNMENT DISRUPTIONS
-ORGANISING MECHANISM:
-unresolved; potentially several unrelated intrusions
-
-COMMON OPERATOR:
-⚪ open
-
-IRAN LINK:
-⚪ no evidence found for the newly reviewed incidents
-```
-
-The required additional field is:
-
-```text
-ORGANISING MECHANISM:
-```
-
-Possible values include:
-
-- common tasking;
-- common vulnerability;
-- common provider;
-- ransomware affiliate ecosystem;
-- copycat activity;
-- opportunistic exploitation;
-- attribution event;
-- political signalling;
-- several overlapping mechanisms;
-- or unresolved.
-
-This keeps the analyst from treating **what joins the incidents** as
-synonymous with **who sponsored them**.
-
-For the Cl0p comparator, Reuters reported a mass-extortion campaign
-affecting organisations including Shell, Philips, GE, and Fiserv, while
-PTC separately documented the critical Windchill and FlexPLM
-vulnerability requiring remediation. Those sources support the shared
-technical-opportunity hypothesis more strongly than geopolitical
-selection of each named victim.
-
-- [Reuters: Cl0p claims mass data theft from nearly 50 organisations](https://www.reuters.com/legal/government/philips-shell-targeted-by-hacking-group-2026-08-13/)
-- [PTC: Windchill and FlexPLM remote-code-execution advisory](https://www.ptc.com/en/about/trust-center/advisory-center/active-advisories/windchill-flexplm-rce-vulnerability)
-
-Therefore record separately:
-
-```text
-PATTERN CONFIDENCE:
-ORGANISING MECHANISM:
-COMMON OPERATOR CONFIDENCE:
-COMMON CUSTOMER CONFIDENCE:
-COMMON SPONSOR CONFIDENCE:
-```
-
----
-
-## 📋 Minimum Incident Record
-
-Every significant incident should be capable of holding:
-
-```text
-DATE:
-COUNTRY:
-SECTOR:
-AFFECTED BODY:
-
-IRAN-WAR RELEVANCE:
-SCOPE CONFIDENCE:
-
-WHAT HAPPENED:
-SYSTEM LAYER:
-DEPTH OF ACCESS:
-
-OPERATIONAL EFFECT:
-PHYSICAL EFFECT:
-DATA-CONFIDENTIALITY EFFECT:
-DATA-INTEGRITY EFFECT:
-RECORD-INTEGRITY EFFECT:
-CIVILIAN EFFECT:
-SAFETY EFFECT:
-SERVICE EFFECT:
-MANUAL / FALLBACK RESPONSE:
-
-SEVERITY:
-OPERATIONAL SIGNIFICANCE:
-STRATEGIC SIGNIFICANCE:
-
-TECHNICAL RECOVERY:
-PERSON-CENTRED RECOVERY:
-
-CLAIM STATUS:
-CLAIMED ACTOR:
-
-TECHNICAL OPERATOR:
-GROUP / ALIAS:
-TOOLING / INFRASTRUCTURE:
-CRIMINAL / ACCESS INTERMEDIARY:
-ACCESS BROKER:
-CONTRACTOR / PROXY:
-TASK ORIGINATOR / COMMISSIONER:
-PAYER / PROCUREMENT ROUTE:
-BUYER / CUSTOMER:
-STATE AFFILIATION:
-STATE RELATIONSHIP TYPE:
-STATE DIRECTION:
-END USER:
-FINAL BENEFICIARY:
-
-PUBLICISING ACTOR:
-PUBLICITY CHANNEL:
-NARRATIVE FRAME:
-INTENDED AUDIENCE:
-CLAIMED EFFECT:
-INDEPENDENTLY ESTABLISHED EFFECT:
-EVIDENCE OF DIFFERENTIAL SOLIDARITY:
-
-PUBLIC GOVERNMENT ATTRIBUTION:
-INTERNAL / INTELLIGENCE POSITION:
-PUBLIC SUPPORTING EVIDENCE:
-
-INCIDENT TRAFFIC LIGHT:
-INCIDENT CONFIDENCE:
-
-EFFECT TRAFFIC LIGHT:
-EFFECT CONFIDENCE:
-
-ATTRIBUTION TRAFFIC LIGHT:
-ATTRIBUTION CONFIDENCE:
-
-RELATIONSHIP CONFIDENCE:
-PATTERN STATUS:
-LEGAL REVIEW:
-
-SOURCE TIER:
 SOURCE QUALITY:
+PROPOSITION FIT:
+```
+
+Examples:
+
+- affected operator: strong for operational effect, weak for ultimate sponsor;
+- CISA advisory: strong for threat class, may not attribute one local incident;
+- actor claim: strong for claim existence, weak for causation;
+- White House statement: strong for presidential position, weak as technical attribution evidence;
+- security vendor: strong for telemetry, may be weak for political intent.
+
+---
+
+## 🔗 Source Independence Must Be Tested
+
+Several reports may rely on:
+
+- the same advisory;
+- the same company disclosure;
+- the same unnamed official;
+- the same Telegram post;
+- or the same vendor.
+
+Record:
+
+```text
 ORIGINAL SOURCE:
-SOURCE DATE:
-EVIDENCE CUTOFF:
-FIRST REPORT:
-LATER REPORTS:
 INDEPENDENT CORROBORATION:
 COMMON SOURCE DEPENDENCY:
-SOURCE PROVENANCE:
+```
 
-COMMON VENDOR / PROVIDER:
-COMMON VULNERABILITY:
-RELATED INCIDENTS:
-ORGANISING MECHANISM:
+Do not count repetition as corroboration.
 
-EVIDENCE FOR:
-EVIDENCE AGAINST:
+---
+
+## ❌ Negative Findings Are Evidence Too
+
+Preserve important negatives.
+
+Examples:
+
+```text
+NO GRID-WIDE EFFECT
+NO COURT-SERVICE SHUTDOWN
+NO CLINICAL DISRUPTION REPORTED
+NO PORT OT COMPROMISE
+NO IRAN LINK FOUND
+NO SUCCESSFUL EXPLOITATION DISCLOSED
+FORMAL PUBLIC ATTRIBUTION NOT IDENTIFIED
+```
+
+Negative findings stop the reader silently inflating the incident.
+
+---
+
+## 🔀 Rival Explanations Must Stay Visible
+
+Where material, record:
+
+```text
+PREFERRED EXPLANATION:
+RIVAL EXPLANATION 1:
+RIVAL EXPLANATION 2:
+WHAT WOULD DISTINGUISH THEM:
+```
+
+The presence of a preferred explanation does not erase the rival.
+
+---
+
+## 🧪 Evidence, Inference, Limit, Rival
+
+For difficult propositions use:
+
+```text
+EVIDENCE:
+INFERENCE:
 LIMIT:
-RIVAL EXPLANATIONS:
-
-WHAT WOULD STRENGTHEN THIS:
-WHAT WOULD WEAKEN THIS:
-WHAT WOULD RULE THIS OUT:
-
-ATTRIBUTION HISTORY:
-OPERATIONAL HISTORY:
-
-LAST REVIEWED:
-NEXT REVIEW:
-REVIEW TRIGGER:
-CORRECTION STATUS:
-EXCLUSION REASON:
+RIVAL EXPLANATION:
 ```
 
-Where a field is unknown, do not hide it.
-
-Use the correct status:
+Example:
 
 ```text
-UNKNOWN
-NOT PUBLIC
-NO EVIDENCE FOUND
-WITHHELD / NCND
-NOT APPLICABLE
+EVIDENCE:
+More than 100 internet-exposed US water and wastewater systems were targeted.
+
+INFERENCE:
+The exposure is national in scale.
+
+LIMIT:
+One common operator across all systems is not established.
+
+RIVAL EXPLANATION:
+Several actors may have exploited the same exposed controller population.
 ```
 
 ---
 
-## 📋 Minimum Campaign / Cluster Record
+## 🔄 Confidence Must Be Allowed To Move
 
-Once several incidents begin to matter together, create a campaign-level record.
-
-Use:
+When evidence changes, record:
 
 ```text
-CAMPAIGN / CLUSTER NAME:
-
-FIRST OBSERVED:
-LATEST OBSERVED:
-
-COUNTRIES:
-SECTORS:
-NUMBER OF CONFIRMED INCIDENTS:
-NUMBER OF SUSPECTED RELATED INCIDENTS:
-
-PATTERN TYPE:
-PATTERN STATUS:
-ORGANISING MECHANISM:
-
-AFFECTED TECHNOLOGY:
-COMMON VENDOR / PROVIDER:
-COMMON VULNERABILITY:
-REPEATED TECHNIQUES:
-REPEATED EFFECTS:
-GEOGRAPHIC CLUSTER:
-MILITARY-TIMING RELEVANCE:
-
-COMMON-OPERATOR CONFIDENCE:
-COMMON-TASKING CONFIDENCE:
-COMMON-CUSTOMER CONFIDENCE:
-COMMON-SPONSOR CONFIDENCE:
-
-IRANIAN LINK:
-IRAN-WAR RELEVANCE:
-
-EVIDENCE FOR:
-EVIDENCE AGAINST:
-RIVAL EXPLANATIONS:
-
-WHAT WOULD STRENGTHEN THE RELATIONSHIP:
-WHAT WOULD WEAKEN THE RELATIONSHIP:
-WHAT WOULD RULE OUT A COMMON CAMPAIGN:
-
-OPERATIONAL DEVELOPMENT:
-ATTRIBUTION DEVELOPMENT:
-
-TREND CHANGE:
-LAST REVIEWED:
-NEXT REVIEW:
-REVIEW TRIGGER:
+PREVIOUS ASSESSMENT:
+NEW EVIDENCE:
+WHAT CHANGED:
+CURRENT ASSESSMENT:
 ```
 
-This prevents campaign-level conclusions being smuggled into individual incident rows.
+Do not silently rewrite earlier uncertainty.
 
-It also prevents individual attribution uncertainty from hiding a pattern visible only at aggregate level.
-
----
-
-## ➖ Negative Findings Matter Too
-
-Relevant negative evidence should be recorded.
-
-Examples include:
-
-- no contamination identified;
-- no data exfiltration found;
-- no physical-process change observed;
-- no service interruption;
-- no lateral movement detected;
-- no shared infrastructure identified;
-- no public evidence of a state customer or commissioner;
-- monetisation behaviour fitting ordinary cybercrime more strongly than strategic tasking;
-- no evidence that the actor used an available political narrative;
-- no demonstrated relationship between target reputation and publicity choice;
-- a proposed attribution specifically ruled out;
-- or a claimed effect disproved.
-
-A negative finding can narrow the hypothesis space.
-
-It should not disappear merely because it is less dramatic.
-
-Record the source and scope of the negative finding.
-
-```text
-NO PUBLIC EVIDENCE FOUND
-```
-
-means that the reviewed public record did not establish the proposition by the evidence cutoff.
-
-It does not mean:
-
-```text
-THE RELATIONSHIP DOES NOT EXIST
-```
-
-Where criminal sale, extortion or access-broker behaviour provides a stronger positive explanation, say that separately. A stronger rival explanation is more informative than a decorative absence.
+A correction is part of the evidence history.
 
 ---
 
-## 📰 Language Has To Preserve Evidentiary Distance
+## 🚫 Durable Separation Rules
 
-These words are not interchangeable:
-
-### Reported
-
-A source has said something occurred.
-
-### Claimed
-
-An interested or involved actor has asserted something.
-
-### Suspected
-
-Evidence provides a credible basis for scrutiny but remains incomplete.
-
-### Assessed
-
-An institution or analyst has reached a stated judgement.
-
-### Attributed
-
-Responsibility has been assigned by the named source.
-
-### Demonstrated
-
-The supporting evidence is visible enough to establish the proposition independently.
-
-### Proved
-
-Use sparingly and only where the relevant evidentiary context genuinely warrants it.
-
-Likewise, terms such as:
-
-```text
-Iran-linked
-Iran-affiliated
-Iran-backed
-Iran-sponsored
-Iran-directed
-```
-
-should not appear without enough context to explain what the relationship actually means.
-
----
-
-## 🔎 Define “Iran-Linked”
-
-The phrase **Iran-linked** is useful precisely because it can describe several different relationships.
-
-It is also dangerous because those relationships can become invisible inside the phrase.
-
-Where possible, specify whether the link means:
-
-- historic government attribution;
-- sanctions designation;
-- shared infrastructure;
-- operator overlap;
-- organisational affiliation;
-- contractor relationship;
-- state support;
-- public governmental assessment;
-- ideological alignment;
-- or another evidenced relationship.
-
-Do not let **linked** do more evidentiary work than the underlying evidence.
-
----
-
-## 🧭 Corrections Must Propagate
-
-If an assessment materially changes, update every place where the old assessment performs analytical work.
-
-That may include:
-
-- the incident timeline;
-- campaign record;
-- prose nodes relying on the incident;
-- CSV;
-- XLSX;
-- attribution history;
-- pattern status;
-- legal-routing status;
-- and any reporting guidance built around the earlier assessment.
-
-A correction should not exist in one node while the rest of the pack quietly preserves the old claim.
-
----
-
-## ⚖️ Common Confidence Failures
-
-Avoid:
-
-- counting repeated articles as independent corroboration;
-- using a headline where the underlying source is available;
-- treating an actor claim as a finding;
-- forcing actor-claimed into the confidence scale;
-- treating political branding as technical attribution;
-- treating alias reuse as operator continuity;
-- treating technical similarity as proof of common operator;
-- treating common operator as proof of common customer;
-- treating common customer as proof of state direction;
-- treating state affiliation as state direction;
-- treating proxy as a synonym for politically aligned;
-- treating capability as use;
-- treating timing as causation;
-- treating target selection as attribution;
-- treating strategic benefit as sponsorship;
-- treating state benefit as control;
-- treating criminal motive as proof that no state can later use the access;
-- treating criminal activity as proof of state tasking;
-- treating a shared provider as proof of a shared attacker;
-- treating a pattern as proof of one coordinated campaign;
-- treating pattern confidence as attribution confidence;
-- treating severity as confidence;
-- treating strategic importance as attribution;
-- treating confirmed disruption as confirmed authorship;
-- applying the deepest effect at one facility to every facility;
-- treating manual fallback as no operational harm;
-- treating anonymous official suspicion as formal attribution;
-- treating government attribution as independently demonstrated public evidence;
-- treating NCND as denial;
-- treating absence of public evidence as proof something did not happen;
-- treating absence of public evidence as proof something is secretly known;
-- treating absence of public attribution as absence of strategic relevance;
-- treating protective state behaviour as proof of hidden attribution;
-- treating technical recovery as proof that downstream human harm ended;
-- treating civilian infrastructure involvement as automatic proof of a war crime;
-- treating state responsibility and individual criminal responsibility as interchangeable;
-- silently overwriting an earlier assessment;
-- omitting negative findings;
-- omitting evidence against the preferred theory;
-- omitting rival explanations;
-- dropping the evidentiary limit;
-- failing to distinguish unknown from withheld;
-- and leaving stale confidence labels in place because they fit the existing narrative.
-
-These errors make the record look cleaner than the evidence.
-
-That is not analytical strength.
-
-It is information loss.
-
----
-
-## 📰 Reporting Rule
-
-The reporting rule is:
-
-> Say exactly which proposition the evidence supports, and stop where the evidence stops.
-
-Therefore:
+Keep these visible across the pack:
 
 ```text
 INCIDENT CONFIRMED
 ≠
 ATTRIBUTION CONFIRMED
-```
 
-and:
-
-```text
 PATTERN CONFIRMED
 ≠
 ONE COORDINATED CAMPAIGN CONFIRMED
-```
 
-and:
+CAMPAIGN EFFECT
+≠
+COMMON COMMAND
 
-```text
 COMMON OPERATOR
 ≠
 COMMON CUSTOMER
-```
 
-and:
-
-```text
 CRIMINAL OPERATOR
 ≠
 NO STATE CUSTOMER
-```
 
-and:
-
-```text
 CRIMINAL OPERATOR
 ≠
 STATE CUSTOMER
-```
 
-and:
-
-```text
 IRAN-LINKED OPERATOR
 ≠
 IRAN DIRECTED THIS OPERATION
-```
 
-and:
-
-```text
 STATE BENEFIT
 ≠
 STATE CONTROL
-```
 
-and:
+CLAIM
+≠
+CAUSATION
 
-```text
+CAPABILITY
+≠
+USE
+
+RECONNAISSANCE
+≠
+EXPLOITATION
+
+SHARED SOFTWARE
+≠
+STRATEGIC SELECTION
+
+SERVICE CONTINUED
+≠
+NO OPERATIONAL EFFECT
+
 SYSTEM RESTORED
 ≠
 PERSON-CENTRED RECOVERY COMPLETE
-```
 
-and:
-
-```text
 CIVILIAN INFRASTRUCTURE AFFECTED
 ≠
 WAR CRIME CONFIRMED
+
+ALLIED POLICY DIVERGENCE
+≠
+ALLIANCE COLLAPSE
+
+ADVERSARY BENEFIT
+≠
+ADVERSARY CAUSATION
 ```
-
-Precision does not weaken the analysis.
-
-It makes the analysis capable of surviving the next update.
 
 ---
 
-## 🧭 Working Method
+## 🧭 Working Rule
 
-For every material claim:
+The working rule is:
 
-```text
-state what happened
-↓
-decide whether it belongs inside the pack
-↓
-state what effect is actually established
-↓
-separate severity from certainty
-↓
-find the original source
-↓
-record the source provenance
-↓
-assess source quality as well as source type
-↓
-identify genuinely independent corroboration
-↓
-record credible source disagreement
-↓
-identify the evidentiary layer
-↓
-apply the traffic light to that proposition
-↓
-write the confidence in words
-↓
-separate incident from effect
-↓
-separate effect from attribution
-↓
-separate operator from intermediary
-↓
-separate intermediary from commissioner
-↓
-separate commissioner from payer
-↓
-separate payer from customer
-↓
-separate customer from end user
-↓
-separate end user from beneficiary
-↓
-separate state affiliation from state direction
-↓
-separate intrusion from publicity
-↓
-separate publicity from narrative authorship
-↓
-separate narrative availability from evidenced narrative use
-↓
-identify the audience before assessing differential solidarity
-↓
-separate attribution from relationship confidence
-↓
-separate relationship confidence from pattern status
-↓
-separate pattern from campaign coordination
-↓
-separate all of those from legal conclusion
-↓
-state the strongest rival explanation
-↓
-record evidence for
-↓
-record evidence against
-↓
-state the evidentiary limit
-↓
-record negative findings
-↓
-record what remains unknown
-↓
-distinguish unknown from withheld or not public
-↓
-preserve the previous assessment
-↓
-record what would strengthen the theory
-↓
-record what would weaken the theory
-↓
-record what would rule it out
-↓
-set the review trigger
-```
+> Give every material proposition its own evidentiary status.
 
-The pack should recognise the pattern.
+Do not let:
 
-It should not manufacture the customer.
+- the actor name;
+- the war context;
+- the target sector;
+- the legal stakes;
+- the strategic usefulness;
+- or the preferred theory
 
-It should preserve uncertainty.
+borrow confidence from another field.
 
-It should not allow uncertainty to become an excuse not to notice what is happening.
+Confidence should move only when evidence for **that proposition** moves.
 
-That is the discipline.
+That is what makes later correction possible without collapsing the whole record.
 
 ---
 
 ## 🌌 Constellations
 
-🔎 🚦 🕸️ 📉 👾 — evidentiary confidence; traffic-light triage; layered attribution; campaign recognition; legal separation.
+🔎 🕸️ 📣 🧬 ⚖️ 🤖 🌍 — confidence; attribution; actor claims; campaign structure; legal status; capability; alliance effects.
+
+---
 
 ## ✨ Stardust
 
-cyber attribution, confidence labels, source provenance, commissioning chains, contractor ecosystems, cyber-enabled influence, audience analysis, pattern recognition, evidentiary limits, review status
+confidence labels, source rules, attribution, actor claims, proposition confidence, pattern confidence, common operator, common customer, campaign effect, defender burden, source provenance, negative findings, rival explanations, reconnaissance, exploitation, shared software, legal confidence, alliance hedging, corrections
 
 ---
 
 ## 🏮 Footer
 
 *🔎 Confidence Labels And Source Rules* is a living node of the **Polaris Protocol**.  
-It defines the evidentiary, provenance, confidence, relationship, attribution, campaign, recovery, and review rules used across the *🇮🇷 Data Wars: IRGC Edition* pack. It is intended to make developing patterns visible without allowing uncertainty, repetition, political branding, criminal intermediaries, or state interest to perform attribution work that the evidence has not yet done.
+It defines the proposition-level confidence, source, pattern, relationship, recovery, legal and alliance rules used across the *🇮🇷 Data Wars: IRGC Edition* pack.
 
 > 📡 Cross-references:
 >
-> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *root orientation, analytical perimeter, and pack routing*
-> - [🧭 What This Pack Is Tracking](./🧭_what_this_pack_is_tracking.md) — *scope, country perimeter, and incident inclusion rules*
-> - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *technical attribution, public attribution, state responsibility, and uncertainty*
-> - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *operators, brokers, intermediaries, customers, and later exploitation*
-> - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *cumulative effect, pattern development, and campaign-level interpretation*
-> - [🚰 When Cyber Reaches The Machinery](./🚰_when_cyber_reaches_the_machinery.md) — *OT depth, control access, manual fallback, and physical-process effects*
-> - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *data integrity, authoritative records, and person-centred recovery*
-> - [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) — *fragmented response, NCND, record reconciliation, and protection pathways*
-> - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *public reporting, source chains, corrections, and language discipline*
-> - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate IHL, state-responsibility, and individual-criminal-responsibility analysis*
-> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology, confidence movement, and pattern status*
+> - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *root orientation and pack map*
+> - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *source provenance and evidentiary roles*
+> - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *language-control layer*
+> - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *attribution stack and relationship confidence*
+> - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *commissioning, access transfer and end-user separation*
+> - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *ecosystem-level pattern separation*
+> - [📉 Small Disruptions Can Make A Campaign](./📉_small_disruptions_can_make_a_campaign.md) — *campaign effect and shared defender burden*
+> - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal-confidence ladder*
+> - [🍊 Why Is the Orange Being Weird?](./🍊_why_is_the_orange_being_weird.md) — *political and governance proposition discipline*
 >
 > 🏮 Return To:
 >
 > - [🇮🇷 Data Wars: IRGC Edition](./README.md) — *1up*
 > - [🌊 Playing Defence](../README.md) — *2up*
-> - [📲_Press Matters](../../README.md) — *3up*
+> - [📲 Press Matters](../../README.md) — *3up*
 > - [🌓 In The Moment](../../../README.md) — *4up*
-> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*  
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-20_
+_Last updated: 2026-09-14_
