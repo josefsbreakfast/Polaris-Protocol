@@ -690,6 +690,767 @@ The purpose is to stop pretending that costs disappear when they move outside th
 
 ---
 
+## 🛡️ This Is A Defence And Fiscal Case, Not Merely A Social One
+
+The argument in this node should not be quarantined as a welfare, inclusion or technology-ethics concern.
+
+It is also a **defence, resilience and public-finance problem**.
+
+A state that increasingly depends on digital infrastructure, networked finance, cloud services, automated decision-support and AI-assisted analysis cannot treat human depletion, provenance failure, weak correction and cyber insecurity as separate policy domains.
+
+The systems touch the same balance sheet.
+
+### 🧮 The fiscal case
+
+Poorly governed information systems can generate costs through:
+
+- correction debt;
+- duplicated investigation and analyst work;
+- legal challenge and disclosure;
+- compensation and remediation;
+- healthcare and social-support demand;
+- workforce withdrawal and sickness;
+- reduced tax receipts;
+- insurance and cyber-resilience costs;
+- loss of trust in digital public services;
+- procurement failure and expensive replacement programmes.
+
+An efficiency that appears inside one organisation may therefore be a transfer of cost into another department, another institution, another household or another year.
+
+This is why **value for money has to be assessed at system level**.
+
+> **If the informational gain is booked locally while the depletion and correction costs are socialised, the business case is incomplete.**
+
+### 🛡️ The defence case
+
+The same architecture matters for national security.
+
+Modern defence and intelligence systems depend upon:
+
+- trustworthy data;
+- interoperable systems;
+- resilient networks;
+- rapid but accountable inference;
+- reliable correction;
+- human analysts who remain capable of exercising judgement;
+- allied confidence that shared systems will not create uncontrolled downstream risk.
+
+Cyber operations make the asymmetry especially dangerous. Attackers benefit when systems are interconnected, correction is slow, provenance is poor, and organisations cannot rapidly distinguish malicious manipulation from inherited error.
+
+A defender therefore cannot optimise only for **more collection, more inference and more automation**.
+
+It also needs:
+
+**better provenance + faster correction + meaningful redress + resilient humans.**
+
+That is not softness around the edges of defence.
+
+It is part of defending the digital realm.
+
+### 📉 Financial stability belongs in the same conversation
+
+By September 2026, financial regulators were already warning that AI and cyber risk could interact with wider market vulnerabilities. The Bank for International Settlements had warned that the AI investment boom was creating new financial-stability questions, while European market regulators were explicitly identifying cyber and AI-related operational risks among threats to market stability.
+
+The precise transmission mechanisms will vary. The broader point is simpler:
+
+> **A sufficiently interconnected digital failure does not stay inside the technology sector.**
+
+Banks, insurers, commodities markets, logistics, energy, government payments and defence supply chains all depend on digital integrity.
+
+The question is therefore no longer whether one state can exercise sovereignty over one dataset in isolation.
+
+The strategic question is whether allied and global systems remain sufficiently trustworthy to transact, share information, price risk and make decisions at all.
+
+---
+
+## 🧠 Cambridge Analytica Was Not The End Of The Story
+
+Cambridge Analytica should be treated here as a **governance precedent and audit trail**, not as a magic bridge proving every later behavioural-data concern.
+
+What is established is already important.
+
+Christopher Wylie described SCL Group to Parliament as a UK-based military contractor specialising in **Information Operations**, with clients including the UK Ministry of Defence, US Department of Defense and NATO militaries. He described Cambridge Analytica as the US-facing vehicle through which intellectual property developed within that ecosystem was applied to American political work.
+
+The US Federal Trade Commission later found that Cambridge Analytica had used deceptive methods to obtain Facebook-derived personal information for voter profiling and targeting. The FTC required deletion or destruction of relevant data by individual defendants and separately imposed extensive privacy restrictions and a $5 billion penalty on Facebook.
+
+Those enforcement actions matter.
+
+They do not answer every strategic question.
+
+### 🕸️ The unresolved audit question
+
+A company can collapse while its:
+
+- personnel;
+- techniques;
+- software;
+- models;
+- research knowledge;
+- behavioural taxonomies;
+- contracting relationships;
+- lessons learned;
+
+continue elsewhere.
+
+The useful follow-up is therefore not:
+
+> **Does Cambridge Analytica still exist?**
+
+It is:
+
+> **Where did the capabilities, knowledge, data derivatives and institutional learning go?**
+
+That requires tracing rather than insinuation.
+
+A serious audit should distinguish:
+
+```text
+raw personal data
+≠ derived personality attributes
+≠ trained models
+≠ targeting methods
+≠ institutional know-how
+≠ later systems influenced by that know-how
+```
+
+Deletion of the first does not necessarily erase the others.
+
+### 🧿 The Epstein research lane
+
+The released Epstein material should be handled as its own evidential lane inside this broader audit.
+
+The working question is not whether Cambridge Analytica, frontier-AI companies or US agencies "worked with Epstein" as a single proposition.
+
+The narrower task is to document whether Epstein, functioning as a broker or fixer, was **prospecting around behavioural-data, behavioural-management, technology, investment and research networks**, and if so, what happened next.
+
+For each relevant receipt:
+
+```text
+document ID
+→ date
+→ person / company / project searched or discussed
+→ what Epstein appears to be trying to establish
+→ evidence of contact or introduction, if any
+→ behavioural / data / AI relevance
+→ established fact / reasonable inference / unresolved
+```
+
+That structure matters because searching for someone, trying to profile them, making an introduction and successfully entering a project are four different evidential states.
+
+If the pattern is real, a chronology will demonstrate it more effectively than rhetorical overreach.
+
+If some apparent connections are incidental, the same method will expose that too.
+
+---
+
+## 🌐 From National Data Policy To International System Risk
+
+Frontier AI is now simultaneously:
+
+- commercial infrastructure;
+- labour policy;
+- cyber capability;
+- defence capability;
+- intelligence infrastructure;
+- geopolitical competition;
+- and increasingly a financial-stability question.
+
+That combination makes a purely national regulatory frame increasingly inadequate.
+
+In 2026 the United States continued to frame AI leadership heavily through strategic competition with China. At the same time, China was publicly advocating international AI-governance structures and cooperation, including the creation of a World Artificial Intelligence Cooperation Organization, while European governments were also calling for international involvement in frontier-AI safety discussions.
+
+None of those states has a clean human-rights or surveillance record.
+
+That is precisely why **shared guardrails matter**.
+
+International regulation does not require pretending the participants trust one another.
+
+It can begin from the opposite assumption:
+
+> **we do not trust one another enough to leave this entirely unbounded.**
+
+### 🛰️ The allied-confidence problem
+
+For the United States in particular, technological leadership is not maintained only by possessing the most capable models.
+
+It also depends on allies remaining willing to:
+
+- buy American systems;
+- host American infrastructure;
+- share sensitive data;
+- integrate defence technology;
+- trust US cloud and cyber architecture;
+- accept US assurances about how allied-citizen data is used.
+
+That creates a straightforward strategic choice.
+
+Greater transparency, provenance, correction and credible redress may impose short-term friction.
+
+But failing to provide them can impose a larger long-term cost through **allied mistrust, cyber vulnerability, procurement resistance and fragmented technical blocs**.
+
+A powerful state can therefore damage its own technological position by treating governance as an obstacle to power rather than part of the infrastructure that sustains power.
+
+> **Guardrails can be strategic assets.**
+
+### 🧨 The arms-race trap
+
+The nuclear and space-race analogy is useful up to a point.
+
+Strategic competition can accelerate capability development. It can also make every restraint look like unilateral surrender.
+
+That incentive becomes particularly dangerous in AI because the same general-purpose capability can support:
+
+- productive research;
+- cyber defence;
+- cyber offence;
+- surveillance;
+- behavioural inference;
+- military planning;
+- fraud;
+- automated exploitation of vulnerabilities.
+
+An arms-race frame therefore creates pressure to maximise capability before governance catches up.
+
+The cybernetic warning is obvious:
+
+```text
+capability velocity > correction velocity
++ competitive pressure
++ weak provenance
++ externalised human cost
+= strategic fragility disguised as strategic advantage
+```
+
+---
+
+
+## 🎮 The Systems Were Not Built In A Social Vacuum
+
+The technical lineage is only half the history.
+
+The people designing, funding, procuring, regulating and operationalising digital systems did not arrive without prior ideas about **women, authority, threat, hierarchy and who counts as a credible participant**.
+
+That matters because technical systems inherit more than code.
+
+They inherit:
+
+- institutional cultures;
+- labour hierarchies;
+- assumptions about users;
+- ideas about normal and abnormal behaviour;
+- judgments about whose distress is signal and whose distress is noise;
+- and the political priorities of the people deciding what should be optimised.
+
+This does not require every engineer, gamer, soldier, intelligence officer or technology executive to share the same worldview. They plainly did not.
+
+The narrower point is historical:
+
+> **Several of the environments feeding the contemporary AI-security ecosystem had well-documented problems with misogyny, exclusion, harassment and biological essentialism before frontier AI became the organising technology of the moment.**
+
+That prior culture belongs in the causal background.
+
+### 👾 Gamergate was not irrelevant internet drama
+
+Gamergate is useful here because it made a pre-existing problem unusually visible.
+
+In 2014 women in and around games were subjected to mass harassment, doxxing, rape threats and death threats. Pew's contemporary work explicitly described the confrontation between gaming's traditional "boys' club" culture and demands for greater gender parity; its broader survey found young women particularly exposed to sexual harassment and stalking online.
+
+The significance for this node is not that Gamergate somehow caused AI.
+
+It is that the episode provides a contemporaneous view of **how parts of a highly technical, overwhelmingly male digital subculture responded when women challenged who belonged, who could speak and who could define the culture**.
+
+That is relevant when some of the same broader technical cultures later acquire much greater power to classify, predict, surveil and mediate human behaviour.
+
+The correct lesson is not:
+
+> gamers hated women, therefore AI hates women.
+
+It is:
+
+> **technical capability does not wash social prejudice out of a system. If anything, technical scale can make old assumptions cheaper to reproduce.**
+
+### 💾 Silicon Valley already had a gender-governance problem
+
+The same period produced unusually blunt evidence from inside Silicon Valley itself.
+
+The 2015 *Elephant in the Valley* survey of more than 200 senior women in technology reported widespread exclusion, demeaning treatment and harassment. Sixty per cent reported unwanted sexual advances; 66 per cent reported exclusion from key social or networking opportunities; 90 per cent had witnessed sexist behaviour at company off-sites or industry conferences.
+
+Again, this does not describe every man or every firm.
+
+It does establish that **gender hostility and exclusion were not fringe concerns imported retrospectively into an otherwise socially neutral technology industry**.
+
+They were already being documented by experienced women inside the sector while the modern behavioural-data and machine-learning economy was accelerating.
+
+### 🪖 Defence had its own gender problem
+
+Nor was defence culturally neutral.
+
+The 2014 RAND Military Workplace Study was commissioned by the US Department of Defense specifically to assess sexual assault, sexual harassment and gender discrimination across the military, surveying hundreds of thousands of service members.
+
+That matters because contemporary AI did not emerge from "technology" on one side and "defence" on another. The two increasingly overlap through procurement, research funding, contractors, cloud infrastructure, intelligence, cyber operations and dual-use technology.
+
+If both parent environments contain documented gendered failure modes, their convergence does not magically remove them.
+
+It creates an obligation to ask whether they were **identified, corrected and prevented from entering the new architecture**.
+
+### 🧬 Biological essentialism is not a harmless side belief
+
+The High Priestess argument becomes especially important wherever women are treated not merely as people who happen to differ statistically on some measures, but as an essentially different class of human whose behaviour can be generalised, managed or optimised around.
+
+That distinction matters.
+
+Sex differences can be legitimate objects of scientific inquiry.
+
+**Biological essentialism becomes dangerous when descriptive claims are converted into permission structures:** women are naturally X, therefore women should be treated as Y; this population behaves differently, therefore greater intervention is justified; this group's distress is expected, therefore it need not trigger correction.
+
+Epstein belongs in this context for a limited but important reason. His documented interest in transhumanism and eugenic ideas sat alongside profound exploitation of women and girls. The separate Epstein research lane in this node asks what his released records show about his prospecting around behavioural, technological and investment networks.
+
+Those facts should not be inflated into evidence that the surrounding industries shared his beliefs or participated in his crimes.
+
+But neither should his worldview be sanitised out of the network history merely because some of the people and technologies around him had legitimate purposes.
+
+> **Who is interested in a technology, what they believe humans are for, and what access they seek are part of provenance too.**
+
+### 🧊 Threat culture changes what looks reasonable
+
+There is another inheritance in the room.
+
+Many senior political, defence and technology decision-makers who shaped the early twenty-first-century US security environment were themselves formed during the Cold War or entered institutional life in its immediate aftermath. After 9/11, strategic culture again placed enormous weight on identifying threats early, connecting information and preventing surprise.
+
+Those historical conditions do not mechanically determine later AI policy.
+
+They do help explain why an emergent general-purpose technology could so readily be interpreted through a competitive security frame:
+
+```text
+new capability
+→ adversary may obtain it
+→ falling behind becomes intolerable
+→ speed acquires strategic value
+→ restraint begins to resemble vulnerability
+→ governance is asked to catch up later
+```
+
+Once China becomes the comparator, the incentive intensifies.
+
+The danger is not that strategic competition is imaginary.
+
+The danger is that **a permanent-threat mindset can make every safeguard look like something only the other side benefits from**.
+
+### 🌙 Why this belongs in *Draining The High Priestess*
+
+Put the histories together and the governance problem becomes clearer.
+
+We have:
+
+```text
+behavioural-data extraction
++ technically mediated social life
++ documented misogyny in parts of digital culture
++ documented gender failures in technology and defence institutions
++ biological-essentialist currents
++ national-security threat framing
++ commercial incentives for scale
++ weak provenance
++ slow correction
+= a system that should not be assumed socially neutral by default
+```
+
+That still does not establish intentional targeting of any particular population.
+
+It establishes why **gender has to be inside the technical audit rather than appended afterwards as an ethics slide**.
+
+And it connects directly to the reversed High Priestess.
+
+If women are disproportionately expected to absorb harassment, adaptation, moderation, explanation, emotional processing and compensatory labour while systems simultaneously learn from their behavioural outputs, the system can extract from precisely the people whose participation it is making harder to sustain.
+
+Then it encounters the downstream consequences:
+
+- women withdrawing from technical spaces;
+- burnout;
+- reduced labour-market participation;
+- loss of specialist expertise;
+- greater health and support costs;
+- lower institutional trust;
+- poorer feedback about system failure.
+
+And calls those consequences separate problems.
+
+They are not necessarily separate.
+
+> **You cannot build an information economy on top of gendered extraction, allow the source population to absorb the depletion costs, and then complain about participation and productivity when the source begins to withdraw.**
+
+That is not merely a feminist objection.
+
+It is bad systems engineering, bad defence resilience and bad fiscal policy.
+
+---
+
+## 🧰 Political Authority Is Not Technical Omniscience
+
+Democratic politicians are supposed to make political decisions.
+
+They set priorities, allocate resources, choose risk tolerances, answer to the public and decide which values the state is trying to protect.
+
+That does **not** make them computer scientists, cyber specialists, data engineers, statisticians, intelligence analysts, clinicians or systems architects.
+
+The problem begins when political authority is allowed to masquerade as technical competence.
+
+A minister is entitled to decide: 
+
+> **we want this capability, for these public purposes, within these limits.**
+
+They are not therefore entitled to improvise the underlying technical reality.
+
+If a system is too complex for the political decision-maker to understand directly, the answer is not to make it the fuck up.
+
+The answer is **good delegation**.
+
+```text
+political authority
+→ identifies the public objective
+→ appoints people with the relevant technical competence
+→ requires them to explain trade-offs and uncertainty clearly
+→ tests the proposal against legal, fiscal, security and social constraints
+→ makes the political decision
+→ preserves technical challenge after deployment
+```
+
+That sounds obvious.
+
+It becomes much less obvious in practice when technology carries prestige, strategic urgency or commercial pressure.
+
+### 🧠 Stay inside the competence boundary
+
+This is not an argument against politicians exercising judgment over technology.
+
+It is an argument for knowing **which judgment belongs to whom**.
+
+Computer scientists are not automatically qualified to govern a country because they understand model architecture.
+
+Politicians are not automatically qualified to override engineering, cybersecurity or data-governance constraints because they hold elected office.
+
+A functioning state uses both.
+
+The difficult skill is integration:
+
+- politicians define legitimate public goals;
+- technical specialists explain what systems can and cannot safely do;
+- legal specialists identify authority and constraint;
+- security specialists model hostile use and failure;
+- economists price opportunity cost and externalities;
+- affected communities reveal failure modes that formal testing missed;
+- accountable leadership decides what trade-offs society will accept.
+
+The point is not rule by experts.
+
+The point is that **expertise has to exist inside the decision loop**.
+
+### 🛰️ Technical challenge must survive political enthusiasm
+
+One of the most dangerous moments in any programme is when senior decision-makers already want the answer to be yes.
+
+At that point the technical function can quietly mutate from:
+
+> **tell us whether this works**
+
+into:
+
+> **tell us how to make the thing we have already chosen sound workable.**
+
+That is especially dangerous in AI, cyber, defence and behavioural systems because failure may not remain local.
+
+A bad political decision can become:
+
+```text
+policy preference
+→ technical implementation
+→ scaled infrastructure
+→ interoperable systems
+→ automated inference
+→ propagated error
+→ expensive correction
+```
+
+The further the system has scaled before challenge becomes permissible again, the more expensive the correction.
+
+### 🧮 This is also a value-for-money problem
+
+Bad delegation is expensive.
+
+If ministers choose architecture on prestige, fashion or geopolitical signalling while specialists are expected merely to implement it, the state can end up purchasing:
+
+- capabilities it does not need;
+- systems that do not interoperate;
+- duplicated infrastructure;
+- technical debt;
+- correction debt;
+- cybersecurity exposure;
+- contractual lock-in;
+- downstream remediation costs.
+
+That is not bold political leadership.
+
+It is an avoidable transfer from public money into systems the state may later have to pay again to repair.
+
+Treasury's question therefore belongs here too:
+
+> **Where does the decimal point go once you price the technical mistake?**
+
+### 🪬 Common values are part of the architecture
+
+Technical competence alone is not enough either.
+
+A system staffed by brilliant specialists can still optimise for the wrong thing.
+
+If the shared objective is merely:
+
+- profit;
+- power;
+- speed;
+- strategic advantage;
+- maximum information extraction;
+
+then the machinery can become extraordinarily competent at producing socially destructive outcomes.
+
+The technical and political layers therefore need a common values-driven goal: human welfare, democratic legitimacy, resilience, correction, proportionality, allied trust and the preservation of the people from whom the system learns.
+
+Otherwise the state has not solved the alignment problem.
+
+It has merely reproduced it at institutional scale.
+
+> **Do not ask politicians to become computer scientists. Ask them to govern well enough to know when they need one.**
+
+---
+
+## 🦅 A Great Power Should Be Able To Govern Its Own Strategic Technology
+
+There is now a more basic political contradiction to resolve.
+
+Frontier AI is repeatedly described in language normally reserved for strategic technologies: transformative economic infrastructure, a military advantage, a geopolitical race, and in some accounts a potential catastrophic or even existential risk.
+
+Those claims cannot all be invoked when convenient while meaningful governance is treated as economically impossible.
+
+America — and any other state making the same argument — has to decide what it believes.
+
+```text
+if frontier AI presents catastrophic risk
+→ govern it accordingly
+
+if AI-enabled cyber capability threatens critical infrastructure, finance and allied economies
+→ price that into the growth model
+
+if temporary pacing threatens national economic stability
+→ treat that fragility itself as a national-security problem
+
+if none of those risks justify meaningful intervention
+→ stop invoking catastrophe and geopolitical emergency as arguments for acceleration
+```
+
+What is no longer coherent is simultaneously claiming:
+
+- extraordinary danger;
+- extraordinary strategic importance;
+- extraordinary economic dependence;
+- and an extraordinary inability to impose meaningful controls.
+
+A great power should be resilient enough to govern its own strategic technology.
+
+If temporary pacing, independent evaluation, provenance requirements, cybersecurity controls and meaningful redress are themselves treated as intolerable threats to economic performance, the problem is no longer merely AI safety.
+
+> **The problem is state capacity.**
+
+### 🧮 Regulation has a cost. So does refusing to regulate.
+
+Government exists partly to make decisions where every available option carries costs.
+
+Regulation costs money.
+
+Pacing can affect investment and markets.
+
+Independent evaluation takes time and specialist labour.
+
+International coordination requires compromise.
+
+Provenance, correction, redress and cybersecurity all require people and infrastructure.
+
+So does **not doing them**.
+
+The relevant ledger therefore cannot stop at:
+
+```text
+investment
++ model capability
++ productivity gain
++ market valuation
+```
+
+It also has to price:
+
+```text
+cyber loss
++ fraud
++ correction debt
++ infrastructure remediation
++ insurance cost
++ workforce depletion
++ health and support costs
++ litigation
++ market fragility
++ loss of public trust
++ loss of allied trust
++ strategic dependence
+```
+
+The question is not whether intervention is free.
+
+> **It is where the decimal point ends up after the whole system is costed.**
+
+And it is entirely possible that nobody presently knows.
+
+That is not a reason to accelerate blindly.
+
+It is a reason to improve the accounting.
+
+### 🧯 The plausible disaster is not necessarily extinction
+
+Existential-risk rhetoric can accidentally make ordinary strategic failure look trivial.
+
+A state does not have to end humanity to catastrophically mishandle a technological transition.
+
+It can simply degrade itself:
+
+```text
+cyber losses ↑
+fraud ↑
+correction debt ↑
+market concentration ↑
+infrastructure exposure ↑
+workforce depletion ↑
+public trust ↓
+allied trust ↓
+regulatory legitimacy ↓
+state capacity ↓
+```
+
+That is a much more mundane failure mode than machine apocalypse.
+
+It is also one governments are capable of producing themselves.
+
+A technology policy which increases nominal capability while making the society deploying it less resilient is not obviously a strategic victory.
+
+> **You do not need to destroy humanity to lose the race. You only need to degrade your own institutions faster than your competitors degrade theirs.**
+
+### 🌍 International coordination is not surrender
+
+Once AI, cloud infrastructure, financial systems, cyber operations and behavioural data cross borders, this is no longer solely a question of domestic technological sovereignty.
+
+Allies and competitors can have profoundly different political systems and still share an interest in:
+
+- preventing uncontrolled escalation;
+- securing critical infrastructure;
+- reducing systemic cyber risk;
+- establishing incident-reporting expectations;
+- preventing accidental military escalation;
+- defining minimum safety and evaluation standards;
+- preserving confidence in cross-border financial and technical systems.
+
+International coordination does not require trust without verification.
+
+Quite the opposite.
+
+It is what states build when the consequences of unilateral failure no longer remain unilateral.
+
+### 🧑‍💼 Grown-up government is allowed to change its mind
+
+Historical examples of catastrophic institutional overconfidence matter here not because every contemporary programme is equivalent to MKUltra, wartime experimentation, mass surveillance or any other previous abuse.
+
+They matter because human institutions repeatedly demonstrate the same failure mode:
+
+```text
+we face an exceptional threat
+→ our intentions are good
+→ our adversary is worse
+→ we understand the risk
+→ safeguards can come later
+→ retrospective inquiry discovers that no, actually, they did not have their shit together
+```
+
+That pattern is not uniquely American.
+
+It is human.
+
+Which is precisely why institutions need constraints stronger than confidence.
+
+Changing course when evidence changes is not weakness.
+
+Slowing a programme long enough to install controls is not necessarily technological surrender.
+
+Admitting uncertainty is not the same thing as abandoning strategic ambition.
+
+> **This is not anti-technology. It is adulthood.**
+
+Powerful states are supposed to be capable of governing powerful technologies.
+
+Build the capability.
+
+Build the safeguards.
+
+Pay for the humans required to operate both.
+
+Correct mistakes.
+
+Listen when survivors and harmed users identify failure modes.
+
+Coordinate with allies and competitors where systemic risk crosses borders.
+
+And when the evidence changes, change the policy.
+
+> **That is what grown-up government is for.**
+
+There is also a less grandiose incentive available to the people making these decisions.
+
+If you want the future to remember you as the people who built it, avoid giving future historians an obvious caption:
+
+> **They possessed unprecedented technical power and used it to make their own society less stable.**
+
+Very poor statue strategy.
+
+---
+
+## 🧭 The Regulatory Question Is Also A Historical Question
+
+Regulation should not begin from the assumption that sophisticated institutions will always recognise the moment they have crossed a line.
+
+History provides too many counterexamples.
+
+US behavioural-control research, post-9/11 surveillance and information-operations programmes, military-adjacent behavioural research, commercial behavioural advertising and later mass-data analytics are **not one continuous secret programme**.
+
+They are, however, part of a history in which behavioural knowledge repeatedly becomes strategically valuable.
+
+That makes institutional memory relevant.
+
+The correct historical question is not:
+
+> **Did everyone involved intend the same thing?**
+
+It is:
+
+> **Which techniques, assumptions, incentives, datasets, personnel and organisational habits travelled between domains — and which safeguards failed to travel with them?**
+
+This is where retrospective inquiries repeatedly arrive too late.
+
+A state may eventually acknowledge that a programme was abusive, poorly governed or inadequately supervised. That acknowledgement does not itself guarantee that the institutional incentives which produced the failure have disappeared.
+
+Memorialisation is not the same thing as learning.
+
+The regulatory task is therefore partly anticipatory:
+
+> **What would we wish had been recorded, reviewable and challengeable if a future inquiry concluded that today's systems went too far?**
+
+Build those mechanisms now.
+
+---
+
 ## 🌱 What Non-Extractive Learning Would Require
 
 The alternative is not "never learn from people."
@@ -801,6 +1562,24 @@ And if the machine later observes her depletion and concludes that depletion is 
 - [GOV.UK / MOD: “Data Strategy for Defence”](https://www.gov.uk/government/publications/data-strategy-for-defence/data-strategy-for-defence) — *2021 data as strategic asset; curation, sovereignty, discoverability, interoperability and non-Defence-generated data.*
 - [GOV.UK / MOD: “Defence Artificial Intelligence Strategy”](https://www.gov.uk/government/publications/defence-artificial-intelligence-strategy/defence-artificial-intelligence-strategy) — *2022 adoption of AI, machine learning and advanced data science at pace and scale.*
 
+### Behavioural data, Cambridge Analytica and international AI governance
+
+- [UK Parliament: “Oral evidence — Fake news, 27 March 2018”](https://committees.parliament.uk/oralevidence/7803/html/) — *Christopher Wylie on SCL, Cambridge Analytica, US political work and the movement of intellectual property from the wider SCL ecosystem.*
+- [UK Parliament: “Supplementary written evidence submitted by Chris Wylie”](https://committees.parliament.uk/writtenevidence/89475/html/) — *SCL described as a military contractor specialising in Information Operations, with UK MOD, US DOD and NATO clients.*
+- [US FTC: “FTC Sues Cambridge Analytica, Settles with Former CEO and App Developer”](https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-sues-cambridge-analytica-settles-former-ceo-app-developer) — *deceptive harvesting of Facebook-derived information, personality scoring and voter targeting.*
+- [US FTC: “FTC Imposes $5 Billion Penalty and Sweeping New Privacy Restrictions on Facebook”](https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook) — *privacy enforcement and governance restrictions following the wider Facebook data controversy.*
+- [China MFA: “Signing Ceremony of the Agreement on the Establishment of the World Artificial Intelligence Cooperation Organization Held in Shanghai”](https://www.mfa.gov.cn/eng/wjbzhd/202607/t20260717_11984747.html) — *2026 intergovernmental AI-cooperation and global-governance initiative.*
+- [Reuters: “How China is preparing for the risk of AI escaping human control”](https://www.reuters.com/legal/litigation/how-china-is-preparing-risk-ai-escaping-human-control-2026-09-14/) — *current Chinese AI-safety governance and calls for international cooperation, including military-AI risk.*
+- [Reuters: “Germany says halting AI development not viable as Europe weighs safety of new tech”](https://www.reuters.com/legal/litigation/germany-says-halting-ai-development-not-viable-calls-us-china-involvement-2026-09-14/) — *European calls for continued development alongside international safety cooperation involving the US and China.*
+- [Reuters: “AI boom poses new financial stability risks, BIS head says”](https://www.reuters.com/business/finance/ai-boom-poses-new-financial-stability-risks-bis-head-says-2026-09-10/) — *AI investment, debt structures and emerging financial-stability concerns.*
+- [Reuters: “EU watchdog flags risk of abrupt market correction”](https://www.reuters.com/legal/government/eu-watchdog-flags-risk-abrupt-market-correction-2026-09-10/) — *ESMA warning on cyber, AI-related operational risk and wider market vulnerability.*
+
+- [Pew Research Center: “Online Harassment”](https://www.pewresearch.org/internet/2014/10/22/online-harassment/) — *2014 evidence on online harassment, with young women particularly exposed to sexual harassment and stalking and gaming perceived as especially welcoming to men.*
+- [Cambridge University Press / Hypatia: “Just Asking! On ‘Friendly’ Forms of Harassment”](https://www.cambridge.org/core/journals/hypatia/article/just-asking-on-friendly-forms-of-harassment/345AFE3DB1DC6F841FB8B1B5D865635A) — *Gamergate as large-scale harassment and misogynistic backlash in gaming culture.*
+- [Elephant in the Valley: “Elephant in the Valley”](https://www.elephantinthevalley.com/) — *2015 survey of senior women documenting exclusion, sexist behaviour and harassment in Silicon Valley.*
+- [RAND: “Sexual Assault and Sexual Harassment in the U.S. Military: A Review of Top-Line Findings from the 2014 RAND Military Workplace Study”](https://www.rand.org/pubs/presentations/PT137.html) — *large-scale DoD-commissioned assessment of sexual assault, sexual harassment and gender discrimination in the US military.*
+- [Center for Genetics and Society / New York Times: “Jeffrey Epstein Hoped to Seed Human Race With His DNA”](https://www.geneticsandsociety.org/article/jeffrey-epstein-hoped-seed-human-race-his-dna) — *reporting on Epstein’s transhumanist and eugenic interests; contextual evidence, not evidence of participation by surrounding technology or research actors.*
+
 ### High Priestess visual grammar
 
 - [Rider-Waite: “The High Priestess – Rider-Waite Tarot Card Meaning”](https://rider-waite.com/symbolism/pictorial-key-02/) — *B/J pillars, veil, hidden and revealed knowledge; visual anchor for the node. Reversed meanings vary by tarot tradition, so the node uses blocked/disconnected intuition as symbolic grammar rather than claiming a single canonical reading.*
@@ -808,12 +1587,12 @@ And if the machine later observes her depletion and concludes that depletion is 
 ---
 
 ## 🌌 Constellations
-🧿 🌙 ♻️ 🧬 🧮 — embodied information; feedback loops; provenance; extraction economics; correction debt.
+🧿 🌙 ♻️ 🧬 🧮 — embodied information; feedback loops; provenance; extraction economics; correction debt; cyber resilience and allied trust.
 
 ---
 
 ## ✨ Stardust
-cybernetics, embodied information ecology, human feedback, rl from human feedback, provenance, type 1 processing, compensatory cognition, extraction incentives, correction debt, social cost, productivity externalities, survivor feedback, defence data, value for money
+cybernetics, embodied information ecology, human feedback, rl from human feedback, provenance, type 1 processing, compensatory cognition, extraction incentives, correction debt, social cost, productivity externalities, survivor feedback, defence data, value for money, cambridge analytica, information operations, cyber resilience, ai regulation, allied trust, gamergate, misogyny, women in tech, defence culture, biological essentialism, threat culture
 
 ---
 
@@ -824,7 +1603,11 @@ It maps the cybernetic and economic risks that arise when institutions extract v
 
 > 📡 Cross-references:
 >
-> - [🌸 Digitally Women](../../../../🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/README.md) — *follow the downstream implications for women navigating contemporary digital systems: participation, safety, data governance, AI-mediated harms, and the social conditions required for women to remain meaningfully present online*
+> - [♻️ Cybernetics](./README.md) — *parent cluster for feedback, control, adaptation and information-loop analysis*  
+> - [🪿 Embodied Information Ecology](../README.md) — *wider framework for treating information as embodied, ecological and materially costly*  
+> - [🌸 Digitally Women](../../../🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/README.md) — *downstream gendered effects of digital systems, AI-mediated harm, participation and data governance*  
+> - [👾 Debugging The Men](../../../🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/README.md) — *social and political feedback failures around masculinity, exploitation, legitimacy and correction*  
+> - [🇮🇷 Data Wars — IRGC Edition](../../../🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/README.md) — *cyber coercion, infrastructure exposure, attribution and the strategic consequences of weak digital resilience*  
 >  
 > 🏮 Return To:
 >
