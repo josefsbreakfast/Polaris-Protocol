@@ -2185,6 +2185,36 @@ Please show your working.
 
 🧮
 
+---  
+
+## 🍎 The Imitation Game  
+
+However, particularly after objectifying Hasan Piker in *niche detail* on Jumbotron at the RNC, perhaps we ought not consider too seriously how the “Christian” movement has naturalised Edwardian theories of sex magic into their technological state policy.  
+
+A better, and far more useful question, in relation to the technological impact on humanity, comes from Alan Turing’s work:  
+
+> “Are there imaginable digital computers which would do well in the *imitation game*?”
+
+ At a time where computers with compute that we can now place on chips taking up entire rooms, this was a radical way to think about computing and of the potential of human technological imagination.  
+
+Seale’s later “Chinese room” problem brings out the most obvious problem in equating mimickry of human natural language with genuine understanding and consciousness; Seale’s proposed thought experiment demonstrated that with directional instructions using pre-supplied symbols, it was possible for humans who had no knowledge of any Chinese language to dispense the correct order of Chinese kanji to mimic intelligible responses to being asked questions in, for example, Mandarin Chinese.  
+
+Whilst only serving as an introduction to the philosophical discussions of human and computational machine interfaces over the last century, both the “imitation game” and the “Chinese game” demonstrate the conversations we are only just starting to have more widely now, and the most basic ideas we must appreciate to make decisions not only about the placement of technology in our lives, but how we address machine responsibility, jurisprudence, and scale from a cybernetic point of view.  
+
+This does not simply concern harm, but even our ability to assess the system in current status in a given moment:  
+
+> If the machine is a great imitator, is it really a High Priestess in the loop, or is it Waite’s reversal, halting and delaying the engineers’ own intuitions?  
+
+Machines are neutral in their essence - they are neither bad nor good - they are, as the term might suggest, as the pre-16th-century `daemon`.  
+
+They are tricksters.  
+
+They require specific skills to bypass safely.  
+
+We are currently feeding the machine the people who have those very skills.  
+
+All for a great imitation.  
+
 ---
 
 ## 📚 Sources And Reading
