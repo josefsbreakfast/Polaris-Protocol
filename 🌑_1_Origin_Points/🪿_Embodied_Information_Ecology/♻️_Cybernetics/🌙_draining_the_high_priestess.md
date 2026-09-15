@@ -2769,7 +2769,9 @@ them.
 
 *Follow the evidence:*  
 
-- [📹: Erin on TikTok: “Trust me, dude…”](https://vm.tiktok.com/ZN8jv9A3S/)  
+- [📹: Erin on TikTok: “Trust me, dude…”](https://vm.tiktok.com/ZN8jv9A3S/)
+- [✏️: xkcd: Machine Learning](https://xkcd.com/1838/)
+- [✏️: SMBC: Offensive AI](https://www.smbc-comics.com/comic/offensive-ai) – *all in due time…*  
 
 ---
 
