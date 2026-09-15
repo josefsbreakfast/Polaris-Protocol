@@ -155,6 +155,10 @@ The point is not that every Egyptological or occult engagement was identical, cy
 
 That is a provenance problem.
 
+And there is a useful recursion here:
+
+> **The High Priestess is herself an image with a provenance problem.**
+
 It is therefore extremely appropriate that the High Priestess — a symbol now used here to think about extracted knowledge — is herself a composite produced through centuries of cultural extraction, reinterpretation and re-authorisation.
 
 ### ✡️ Shekhinah — the presence matters
@@ -2703,6 +2707,687 @@ them.
 **That is the imitation game.**  
 
 ---
+
+
+## 📱 When The Internet Became A Strategic Problem, AI Could Look Like A Solution
+
+There is a narrower historical question worth keeping on the board.
+
+It is **not**:
+
+> **Did Sheikh Jarrah cause the AI boom?**
+
+No.
+
+Machine learning already had large scientific, commercial, military and
+intelligence investment behind it. The useful question is whether the
+political shock of the **May 2021 information environment** gave some
+governments, donors, investors, political organisations or technology
+actors an additional reason to see AI as one possible solution to an
+internet they believed they were losing the ability to manage.
+
+For Israel in particular, there is supporting evidence for the first
+half of that proposition.
+
+Israeli strategic-policy analysis of **Operation Guardian of the Walls**
+treated the online information environment as a national-security and
+strategic-communications problem. Analysis of the campaign explicitly
+discussed Sheikh Jarrah, the international spread of `#SaveSheikhJarrah`
+and `#FreeSheikhJarrah`, and the ability of Palestinian activists to
+communicate through political languages already legible to progressive
+international audiences.
+
+Less than a month after the ceasefire, INSS analysis argued for
+substantially stronger strategic communications, more systematic
+audience segmentation and measurement, greater mobilisation of networks
+outside government, and additional investment in technological
+capability.
+
+Crucially for this node, **artificial intelligence was already included
+among the technologies proposed for information dissemination**.
+
+That does not establish a covert AI programme.
+
+It establishes something much simpler:
+
+> **After May 2021, influential Israeli strategic-communications
+> analysis explicitly treated the changed online information environment
+> as a capability problem and identified AI as one possible component of
+> the response.**
+
+### 🤖 Then AI becomes an explicit public-diplomacy instrument
+
+By 2023--2024, INSS was publishing detailed policy analysis specifically
+proposing **artificial intelligence in the service of Israeli public
+diplomacy**.
+
+The proposed uses are strikingly close to the problems identified after
+2021:
+
+``` text
+understand target populations
+→ sentiment analysis
+→ stance detection
+→ coordinate organisations
+→ allocate resources
+→ monitor changing conditions
+→ produce tailored content rapidly
+→ distribute across platforms and languages
+→ respond to opposing influence campaigns
+```
+
+The paper discusses using ChatGPT to understand selected target
+communities, including through sentiment and stance analysis. It
+specifically notes demographic change in the United States and the need
+to understand non-white populations with whom Israeli public diplomacy
+had historically been less familiar.
+
+It also records the Israeli Foreign Ministry using technology from
+Israeli startup D-ID in January 2023 to produce public-diplomacy videos
+in eight languages.
+
+The paper recommends experimental use of AI to analyse **defined target
+audiences**.
+
+That is exactly the point at which a provenance and governance audit
+should ask:
+
+> **What population data enters the analysis?**
+
+> **How granular does the segmentation become?**
+
+> **What prevents audience research becoming individual or network
+> targeting?**
+
+> **What happens when the target population is a diaspora population
+> living under another state's jurisdiction?**
+
+Polling a community is one thing.
+
+Using large-scale behavioural traces to infer political attitudes,
+religious or ethnic affiliation, vulnerability, interpersonal networks,
+persuasive susceptibility, activist relationships, survivor status or
+responses to particular narratives can become something else.
+
+The boundary is not simply:
+
+``` text
+research
+vs
+propaganda
+```
+
+It is:
+
+``` text
+population research
+→ segmentation
+→ individual / network inference
+→ targeting
+→ intervention
+→ coercion / retaliation / suppression
+```
+
+Not every system travels down that chain.
+
+But governments using AI for foreign-facing influence activity should be
+capable of demonstrating **where their systems stop**.
+
+### 🧮 What the evidence presently supports
+
+  -----------------------------------------------------------------------
+  Proposition                         Evidential position
+  ----------------------------------- -----------------------------------
+  Sheikh Jarrah became a major        **Supported.**
+  transnational social-media          
+  narrative in 2021                   
+
+  Israeli strategic analysts treated  **Supported.**
+  the May 2021 information            
+  environment as a capability and     
+  national-security problem           
+
+  Post-operation recommendations      **Supported.**
+  included segmentation, measurement, 
+  stronger online capacity,           
+  mobilisation of overseas networks   
+  and greater resources               
+
+  AI was identified in 2021 as a      **Supported.**
+  technology worth integrating into   
+  information dissemination           
+
+  Israeli public-diplomacy analysis   **Supported.**
+  later proposed AI-based sentiment   
+  analysis, stance detection,         
+  target-audience analysis and rapid  
+  content production                  
+
+  The Israeli Foreign Ministry        **Supported from January 2023.**
+  subsequently used AI-generated      
+  multilingual public-diplomacy       
+  material                            
+
+  Sheikh Jarrah caused particular     **Not established.**
+  private investors to fund frontier  
+  AI                                  
+
+  Particular AI companies were        **Not established.**
+  financed specifically to change     
+  Israel/Palestine discourse          
+
+  Particular diaspora populations     **Open research question.**
+  were covertly segmented using       
+  private, sensitive or unlawfully    
+  obtained data                       
+
+  AI-enabled influence activity       **Requires actor- and
+  crossed into unlawful surveillance  jurisdiction-specific evidence.**
+  or transnational repression         
+  -----------------------------------------------------------------------
+
+The point is not that AI had one motive.
+
+Different actors can encounter the same technical capability and see
+different solutions:
+
+``` text
+technology company → automation and product
+advertiser → segmentation
+political campaign → persuasion
+government → public diplomacy
+intelligence service → information analysis
+military → information operations
+platform → moderation
+investor → scalable infrastructure
+activist → translation and mobilisation
+```
+
+Their motives do not have to be identical for their investments to
+converge on overlapping technical architecture.
+
+That is why **provenance matters more than a mastermind theory**.
+
+The useful question is:
+
+> **Which actors encountered which problems, what capabilities
+> subsequently looked attractive to them, where did they put money and
+> institutional support, what data became available, and what uses
+> followed?**
+
+Follow the money.
+
+But follow the whole ledger.
+
+------------------------------------------------------------------------
+
+## 🗃️ The Pattern Of Epstein Withholding Is Itself Something We Can Observe
+
+The present handling of the Epstein archive creates a related
+information-governance question.
+
+This is not merely a dispute between the public and the US federal
+government about whether every document should be published.
+
+By September 2026, **multiple competent investigative authorities were
+themselves seeking US-held Epstein material**.
+
+The *Washington Post* reported on 9 September 2026 that:
+
+-   Poland's National Prosecutor's Office had sought mutual legal
+    assistance, including unredacted material concerning Polish aspects
+    of the case, and said its April request had received no response;
+-   Latvian State Police, conducting a criminal investigation and having
+    identified a Latvian victim, said several mutual-legal-assistance
+    requests had received no response;
+-   Norwegian investigators had sought US assistance in an
+    Epstein-related investigation and said the request had not been
+    approved;
+-   British authorities had reportedly made a formal request for
+    unredacted material after informal discussions did not produce it;
+-   German federal criminal police had contacted the FBI about German
+    connections arising from the files.
+
+Separately, New Mexico has publicly disputed federal access to material
+sought for its reopened Zorro Ranch investigation.
+
+DOJ has said that it has **not refused to assist any jurisdiction** and
+has pointed to legal restrictions, victim protection, court orders and
+the complexity of disclosure.
+
+Those explanations matter.
+
+Mutual legal assistance can also be slow.
+
+But the pattern does not disappear merely because legitimate
+restrictions may exist.
+
+``` text
+US federal government
+→ US state investigators
+
+US federal government
+→ foreign law enforcement
+
+US federal government
+→ legislatures
+
+US federal government
+→ survivors
+
+US federal government
+→ public
+```
+
+Different legal rules can properly apply to each relationship.
+
+The audit question is therefore:
+
+> **Why are multiple competent investigative authorities unable to
+> obtain evidence they say they require, what precisely prevents each
+> transfer, and who is independently capable of determining whether
+> those restrictions remain necessary?**
+
+That is an observation about the information architecture.
+
+It is not a conclusion about motive.
+
+Embarrassment, survivor protection, litigation, bureaucratic delay,
+institutional self-protection, active investigative interests,
+intelligence sensitivities, financial exposure and other explanations
+should not be silently collapsed into one another.
+
+They should be tested.
+
+For every withheld category:
+
+``` text
+what exists?
+→ who controls it?
+→ who requested it?
+→ for what lawful purpose?
+→ what rule prevents transfer?
+→ who can review that decision?
+→ can the restriction be modified for investigators?
+→ has anyone tried?
+→ what happened?
+```
+
+The archive belongs in the audit.
+
+Not in a pre-written conclusion.
+
+------------------------------------------------------------------------
+
+## 🐇 Q, Recursion, And The Question Of Machine Assistance
+
+There is another observation worth preserving.
+
+Parts of the Q corpus have a degree of **recursion and shared stylistic
+behaviour reminiscent of some later GPT-, Claude- and other
+conversational-model outputs**.
+
+That does not prove that Q was generated by a language model.
+
+It does not prove that machine learning participated in producing Q.
+
+It does generate a legitimate research question:
+
+> **Was an agentic, early language-model-like, retrieval, ranking,
+> variation, optimisation or other computational system used somewhere
+> in the Q information-production stack?**
+
+Authorship and production method are not the same variable.
+
+Possible architectures include:
+
+``` text
+human
+→ writes
+→ publishes
+```
+
+or:
+
+``` text
+human
+→ computational retrieval / analysis
+→ writes
+→ publishes
+```
+
+or:
+
+``` text
+human
+→ machine produces / retrieves / ranks variants
+→ human selects
+→ human edits or rewrites
+→ publishes
+```
+
+or:
+
+``` text
+human-authored material
+→ segmentation / targeting
+→ algorithmic testing
+→ automated amplification
+→ audience response
+→ response informs subsequent material
+```
+
+Q was already a recursive sociotechnical system:
+
+``` text
+Q drop
+→ audience interpretation
+→ research / memes / theories
+→ amplification
+→ observable audience response
+→ subsequent Q drop
+→ further interpretation
+→ repeat
+```
+
+A system built like this can develop apparently model-like recursive
+behaviour **without requiring a language model behind the keyboard**.
+
+That is one competing explanation.
+
+It is not the only one.
+
+### 🧮 What stylometry actually establishes
+
+In December 2020, OrphAnalytics published an unsupervised
+machine-learning stylometric analysis of **4,952 Q messages published
+between October 2017 and November 2020**.
+
+Using three-character sequence patterns, the researchers found two
+stylistic clusters broadly corresponding to the earlier 4chan period and
+the later 8chan/8kun period.
+
+Later, Florian Cafiero and Jean-Baptiste Camps used **supervised
+machine-learning authorship attribution**. Among thirteen candidate
+authors, their closest matches were **Paul Furber for the earlier
+material and Ron Watkins for the later material**, consistent with
+successive human authorship.
+
+That is important evidence.
+
+But the studies principally ask:
+
+> **Whose linguistic behaviour is detectable in the text?**
+
+They do not directly ask:
+
+> **What tools participated in producing the text?**
+
+  -----------------------------------------------------------------------
+  Research question                   Current evidential position
+  ----------------------------------- -----------------------------------
+  Does the Q corpus contain one       **Evidence points against this.**
+  stable writing style?               
+
+  Are distinguishable chronological   **Yes.**
+  styles detectable?                  
+
+  Can those styles be associated with **Yes --- supervised attribution
+  plausible human writers?            principally identifies Furber and
+                                      Watkins among the candidates
+                                      tested.**
+
+  Is there evidence for substantial   **Yes.**
+  human authorship?                   
+
+  Does human authorship establish     **No.**
+  completely unaided human            
+  production?                         
+
+  Have these stylometric studies      **No. They were not designed to
+  demonstrated machine-assisted       test it.**
+  production?                         
+
+  Did an early language model,        **Open research question.**
+  agentic system or other             
+  computational tool participate      
+  somewhere in production?            
+  -----------------------------------------------------------------------
+
+Any machine-assistance hypothesis therefore has to accommodate the
+evidence for **changing human linguistic signatures**.
+
+That makes the hypothesis narrower.
+
+It does not eliminate it.
+
+### 🔁 Why resemblance cannot establish ancestry
+
+There is also a provenance problem running in the opposite direction.
+
+Later GPT-, Claude- and similar systems were trained inside an internet
+environment containing Q material, Q discussion, journalism,
+reproductions of Q drops, imitations and the wider internet culture from
+which Q itself emerged.
+
+Therefore:
+
+``` text
+Q / surrounding internet culture
+→ web corpus
+→ later model training
+→ model behaviour
+```
+
+is one possible direction of influence.
+
+So:
+
+``` text
+Q resembles later model behaviour
+```
+
+does **not** entail:
+
+``` text
+earlier model technology
+→ produced Q
+```
+
+The resemblance might arise from:
+
+1.  ordinary shared internet style;
+2.  later models absorbing earlier internet material;
+3.  humans learning to communicate through algorithmically mediated
+    environments;
+4.  convergent behaviour produced by recursive feedback systems;
+5.  computational assistance somewhere within Q's production process;
+6.  some combination of these.
+
+The resemblance is therefore an **observation generating a research
+question**, not evidence sufficient to answer it.
+
+### 🗓️ Date the anomaly first
+
+Q begins on **28 October 2017**.
+
+That is a useful constraint.
+
+If supposedly model-like characteristics are present in the earliest
+drops, technologies appearing years later obviously cannot explain them.
+
+The relevant exercise is:
+
+``` text
+identify allegedly model-like characteristic
+→ locate earliest occurrence
+→ measure frequency through time
+→ compare against authorship transition
+→ compare against platform transition
+→ compare against contemporary technical capability
+→ test competing explanations
+```
+
+Do not project a 2026 chatbot backwards onto 2017.
+
+Date the anomaly first.
+
+Then investigate what could actually have produced it.
+
+### 🌍 Machinery would not tell us whose machinery
+
+Even if computational assistance were eventually demonstrated, that
+finding **would not establish national attribution**.
+
+The 2017--2020 information environment already contained domestic
+American political operators, commercial political technology, anonymous
+imageboard communities, platform algorithms, automated accounts,
+behavioural targeting, private technology companies and multiple states
+developing computational information capabilities.
+
+Russian-linked accounts demonstrably amplified Q material.
+
+That is evidence of amplification.
+
+It is not evidence that Russia created Q.
+
+China was also developing large-scale pretrained language technology
+during this period.
+
+That is evidence of capability development.
+
+It is not evidence that China created Q.
+
+And possible computational assistance would not establish that the
+United States created Q either.
+
+``` text
+foreign amplification
+≠ foreign authorship
+
+computational assistance
+≠ state operation
+
+state capability
+≠ deployment
+
+deployment
+≠ attribution
+```
+
+If machinery were demonstrated, the next questions would still be:
+
+> **Whose system?**
+
+> **Accessible to whom?**
+
+> **Operated by whom?**
+
+> **Funded by whom?**
+
+> **Used for what purpose?**
+
+Those require separate evidence.
+
+### 🗳️ But electoral usefulness is obvious enough to investigate
+
+By the 2020 US presidential election, political communication was
+occurring at enormous online scale.
+
+Researchers analysing **240 million election-related tweets** posted
+between June and September 2020 found automated accounts participating
+in the spread of conspiracy narratives including QAnon.
+
+A strategically useful system does not require:
+
+> **AI secretly invents propaganda and hypnotises voters.**
+
+A much more mundane architecture is enough:
+
+``` text
+produce message
+→ generate / select variants
+→ identify audience
+→ distribute
+→ measure engagement
+→ identify successful formulation
+→ adapt
+→ amplify
+→ observe response
+→ repeat
+```
+
+The advantage is not necessarily magical persuasion.
+
+It is **reduced cost of experimentation**.
+
+Automation can make production, variation, targeting, measurement and
+amplification cheaper even where the effect of any individual message is
+small.
+
+So the question is not:
+
+> **Was Q secretly an AI?**
+
+Nor:
+
+> **Did America / Russia / China build Q?**
+
+Those conclusions are not established.
+
+The useful question is:
+
+> **What was the information-production stack behind Q?**
+
+The research sequence should be:
+
+``` text
+observable recursion / stylistic resemblance
+→ date the characteristics
+→ identify technically plausible mechanisms
+→ test for computational assistance
+→ reconstruct production architecture
+→ distinguish generation from retrieval, targeting and amplification
+→ identify access
+→ identify operators
+→ trace funding and institutional relationships
+→ only then attempt attribution
+```
+
+There were identifiable human fingerprints.
+
+There were multiple styles.
+
+There was automated amplification.
+
+There was foreign amplification.
+
+There was a recursive human-platform information ecology.
+
+What we do **not yet know** is whether there was machinery elsewhere in
+the production stack.
+
+That is not a conclusion.
+
+It is a reasonable question to keep on the board.
+
+And yes, unfortunately, **Crowley would absolutely want to share the
+stage with Q**.
+
+Not because there is evidence connecting Aleister Crowley to QAnon ---
+there is not --- but because this node has now arrived, by entirely
+defensible routes, at another system in which symbols are issued,
+audiences interpret them, interpretations feed back into later meaning,
+authorship becomes obscured, and the information object acquires
+authority partly through the labour of the people decoding it.
+
+Alastair does not get attribution.
+
+He gets an irritating seat in the comparative information-systems
+seminar.
+
+------------------------------------------------------------------------
+
 
 ## 📚 Sources And Reading
 
