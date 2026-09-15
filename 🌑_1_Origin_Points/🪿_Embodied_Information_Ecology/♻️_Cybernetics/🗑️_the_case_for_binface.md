@@ -1,5 +1,5 @@
 # 🗑️ The Case For Binface
-**First created:** 2026-09-01 | **Last updated:** 2026-09-01  
+**First created:** 2026-09-01 | **Last updated:** 2026-09-15  
 *How an apparently unserious candidacy in Holborn and St Pancras could become a serious experiment in political coordination, campaign-resource visibility, election-intervention monitoring and democratic legibility.*
 
 ---
@@ -777,7 +777,11 @@ The question is:
 
 ## 🌌 Constellations
 
-🗑️ 📊 💰 🔭 🕸️ — electoral coordination; campaign-resource visibility; political networks; intervention monitoring; humour as democratic infrastructure.
+🗑️ 📊 💰 🔭 🕸️ — electoral coordination; campaign-resource visibility; political networks; intervention monitoring; humour as democratic infrastructure.  
+
+*Follow the evidence:*  
+
+- [📹: Count Binface, via TikTok: “I have an announcement.”](https://vm.tiktok.com/ZN8jKtsG7/)  
 
 ## ✨ Stardust
 
@@ -797,4 +801,4 @@ The node distinguishes lawful political activity, observable influence, inferenc
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-01_
+_Last updated: 2026-09-15_
