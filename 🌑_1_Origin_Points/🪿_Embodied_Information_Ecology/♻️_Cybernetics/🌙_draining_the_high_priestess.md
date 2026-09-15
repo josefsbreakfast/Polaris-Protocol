@@ -2256,6 +2256,10 @@ Please show your working.
 ## 🌌 Constellations
 🧿 🌙 ♻️ 🧬 🧮 — embodied information; feedback loops; provenance; extraction economics; correction debt; cyber resilience and allied trust.
 
+*Follow the evidence:*  
+
+- [📹: Erin on TikTok: “Trust me, dude…”](https://vm.tiktok.com/ZN8jv9A3S/)  
+
 ---
 
 ## ✨ Stardust
