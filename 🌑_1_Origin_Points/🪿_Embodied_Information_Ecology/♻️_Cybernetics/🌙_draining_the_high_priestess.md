@@ -2772,8 +2772,9 @@ them.
 - [📹: Erin on TikTok: “Trust me, dude…”](https://vm.tiktok.com/ZN8jv9A3S/)
 - [✏️: xkcd: Machine Learning](https://xkcd.com/1838/)
 - [✏️: SMBC: Offensive AI](https://www.smbc-comics.com/comic/offensive-ai) – *all in due time…*
-- [✏️: SMBC: Robot John Searle](https://www.smbc-comics.com/comic/robot-john-searle)
-- [✏️: PhD Comics x SMBC: The Cookies](https://phdcomics.com/comics/archive.php?comicid=2033)  
+- [✏️: SMBC: Robot John Searle](https://www.smbc-comics.com/comic/robot-john-searle) – *re the “Chinese game” thought experiment and CHI-driven validation*  
+- [✏️: PhD Comics x SMBC: The Cookies](https://phdcomics.com/comics/archive.php?comicid=2033) – *I admit I am probably in the second group.*  
+- [📹: Mikey Smith, via TikTok: “Will Trump save us from out of control Al? It seems unlikely - but he could be the only thing standing between the world and the Al apocalypse.”](https://vm.tiktok.com/ZN8jKuEpK/) – *…may G-d help us all* 😮‍💨
 
 ---
 
