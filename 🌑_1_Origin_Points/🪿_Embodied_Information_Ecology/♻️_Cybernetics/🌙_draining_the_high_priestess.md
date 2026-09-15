@@ -2771,7 +2771,9 @@ them.
 
 - [📹: Erin on TikTok: “Trust me, dude…”](https://vm.tiktok.com/ZN8jv9A3S/)
 - [✏️: xkcd: Machine Learning](https://xkcd.com/1838/)
-- [✏️: SMBC: Offensive AI](https://www.smbc-comics.com/comic/offensive-ai) – *all in due time…*  
+- [✏️: SMBC: Offensive AI](https://www.smbc-comics.com/comic/offensive-ai) – *all in due time…*
+- [✏️: SMBC: Robot John Searle](https://www.smbc-comics.com/comic/robot-john-searle)
+- [✏️: PhD Comics x SMBC: The Cookies](https://phdcomics.com/comics/archive.php?comicid=2033)  
 
 ---
 
