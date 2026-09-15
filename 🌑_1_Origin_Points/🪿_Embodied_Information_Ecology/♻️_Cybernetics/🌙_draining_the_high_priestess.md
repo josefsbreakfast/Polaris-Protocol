@@ -110,7 +110,7 @@ Smith's card places the Priestess between the black and white pillars marked **B
 Waite's own description moves freely through:
 
 - the Temple;
-- Tora / law;
+- Tora[h] / law;
 - Isis;
 - the spiritual Bride and Mother;
 - lunar reflection;
@@ -147,7 +147,9 @@ Or, less politely:
 
 > **OH MY GOD THE AFRICANS HAD CIVILISATION BEFORE THE GREEKS. HOW DO WE INTEGRATE THIS?**
 
-Mostly badly.
+Mostly badly.  
+
+The lads did not self-reflect on any of the racism they brought to the conversation, and so in its time, it went largely unchallenged; the assumptions of eugentics can be seen in inherited culture and law today.  
 
 The point is not that every Egyptological or occult engagement was identical, cynical or devoid of genuine scholarship. It is that European institutions were simultaneously discovering, admiring, classifying, possessing and re-authorising non-European antiquity inside an imperial knowledge system.
 
@@ -161,7 +163,11 @@ Waite explicitly identifies his High Priestess with **Shekinah**, the indwelling
 
 That distinction matters.
 
-This node is **not** claiming that Waite's Kabbalistic synthesis is equivalent to Jewish Kabbalah, nor that one universal gender diagram can be extracted from a diverse religious tradition. Western ceremonial occultists borrowed, Christianised, reorganised and sometimes badly misunderstood Jewish mystical concepts. Their system is historical evidence about **their system**.
+This node is **not** claiming that Waite's Kabbalistic synthesis is equivalent to Jewish Kabbalah, nor that one universal gender diagram can be extracted from a diverse religious tradition. Western ceremonial occultists borrowed, Christianised, reorganised and sometimes badly misunderstood Jewish mystical concepts. Their system is historical evidence about **their system**.  
+
+For clarity, in the context of actual Jewish mystical traditions related to interpreting Kabbalah and related traditions within Judaism, what they are describing as “Shekinah” is somewhere approximately between what Jewish tradition imagines as Shekinah and wha Jewish tradition gives to a woman embodying the figure of an *Eishet Chayil*, interpreted in context of pre-Medinat rabbinic tradition. This is not equivalent to the pop culture rendering of “Eishet Chayil, baking cookies, challah in the oven, M16 strapped over the shoulder”.  
+
+A Jewish woman could be armed and domestic and also be embodying the concept, but the concept the text originated from itself has more surface depth than “cookies and carbine”.  
 
 But the Shekhinah correspondence gives this node a useful thought experiment:
 
