@@ -4,7 +4,7 @@
 
 ---
 
-> "I hope you are well - back into our small country from the amazing wide open countryside of Ukraine and Russia. I was there in 1961, and could not stop thinking of the distances marched by Napoleon's army when I returned to the UK."  
+> "I hope you are well - back into our small country from the amazing wide open countryside of Ukraine and Russia. I was there in 1961, and could not stop thinking of the distances *marched* by Napoleon's army when I returned to the UK."  
 > 
 > *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*
 
@@ -38,12 +38,6 @@ Apparently so.
 
 From my perspective, it appears a rather tiresome process, interruptive to the sharing of culture and text.  
 
----
-
-> "I try to put myself in your position."  
-> 
-> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*  
-
 --- 
 
 ## ✨ Key Features
@@ -58,12 +52,6 @@ From my perspective, it appears a rather tiresome process, interruptive to the s
 - Asks whether AI development could create economic incentives hostile to preservation.
 - Argues that trustworthy stewardship today is necessary if people are to entrust intimate cultural material to institutions tomorrow.
 - Does not argue that AI is inherently bad or that historical material must never be computationally analysed.
-
----
-
-> “You mention Warsaw where I stayed for a day or two - seeing Chopin’s house etc. I have also read quite a bit about the concentration camp world of the USSR and Nazi Europe; Lord Liverpool’s book - “The Scourge of the Swastike” and equally horrific, the recently- published book “Gulag” by an American Russian expert whose name I forget. [Anne Applebaum] I read about 350 of its 500 pages before II grew sick of this record of Lenin and Stalin’s evil Empire. I wonder how many people could stomach the whole 500 pages?”  
-> 
-> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*  
 
 ---
 
@@ -103,14 +91,12 @@ Extract the words and some information survives.
 
 Preserve the letter and something more survives:
 
-**a human act.**
+**a human act.**  
 
 ---
 
-> ”Apart from your need (long-term) of a big French dictionary, which you should “mine” systematically, you require “500 French Verbs” - very good as a reference book for all the tenses. You can’t get far without knowing the verb systems (in any foreign language). The 3rd and final book is called - “Collins East Learning French Conversation” - cost £6.99. I bought a copy of this at Blackwell’s bookshop, but it disappeared. This book is for a person who does not have a French degree, knows quite a lot of French - but needs the language for *short visits* (not for living there!) - an excellent cheap book…
->
-> …Now and again, when you have time, read the odd French novel perhaps - French detective novels are filled with verbs! Ease of recall is important; the French don’t give you much time to say what you need to say - you *have* to memorise a short repertoire of useful phrases/sentences - *your* part in the play.”
->
+> “You mention Warsaw where I stayed for a day or two - seeing Chopin’s house etc. I have also read quite a bit about the concentration camp world of the USSR and Nazi Europe; Lord Liverpool’s book - “The Scourge of the Swastike” and equally horrific, the recently- published book “Gulag” by an American Russian expert whose name I forget. [Anne Applebaum; I had told him I was reading *Iron Curtain*.] I read about 350 of its 500 pages before II grew sick of this record of Lenin and Stalin’s evil Empire. I wonder how many people could stomach the whole 500 pages?”  
+> 
 > *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*  
 
 --- 
@@ -149,12 +135,6 @@ It requires recognising **context**.
 
 ---
 
-> “I mention the removal of the Real Presence into what is in fact the ‘real absence’ - as we see in so many post-Reformation churches.”  
-> 
-> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*
-
----
-
 ## 🪦 It Feels Like Grave Robbing
 
 There are circumstances in which ordinary human moral language identifies something that technical language struggles to hold.
@@ -187,7 +167,7 @@ It is also:
 
 --- 
 
-> “It would have been easier for me to send it you a photocopy of the half-page Introduction.“
+> "I try to put myself in your position."  
 > 
 > *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*
 
@@ -243,12 +223,6 @@ Scarcity is not consent.
 
 And difficulty obtaining sufficient material through legitimate channels is not consent.
 
----  
-
-“I must say it is far more difficult than may 4 other books. It has taken me 3 years. I did it to clarify my own ideas, to force myself to come down on one side of an argument or interpretation. Even if no one reads this book at least it has done me some good - I think - no, it really has done.”  
-> 
-> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*
-
 ---
 
 ## ☔️ Institutional Memory Outlives The Incident
@@ -280,6 +254,14 @@ That matters enormously for AI.
 If future researchers want people voluntarily to contribute diaries, correspondence, oral histories, photographs, manuscripts and other intimate cultural records for computational scholarship, then respecting the boundaries around today's material is not an obstacle to that future.
 
 **It is one of its prerequisites.**
+
+--- 
+
+> ”Apart from your need (long-term) of a big French dictionary, which you should “mine” systematically, you require “500 French Verbs” - very good as a reference book for all the tenses. You can’t get far without knowing the verb systems (in any foreign language). The 3rd and final book is called - “Collins East Learning French Conversation” - cost £6.99. I bought a copy of this at Blackwell’s bookshop, but it disappeared. This book is for a person who does not have a French degree, knows quite a lot of French - but needs the language for *short visits* (not for living there!) - an excellent cheap book…
+>
+> …Now and again, when you have time, read the odd French novel perhaps - French detective novels are filled with verbs! Ease of recall is important; the French don’t give you much time to say what you need to say - you *have* to memorise a short repertoire of useful phrases/sentences - *your* part in the play.”
+>
+> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*  
 
 ---
 
@@ -366,6 +348,12 @@ But they should not be deliberately collapsed.
 
 ---
 
+> “I mention the removal of the Real Presence into what is in fact the ‘real absence’ - as we see in so many post-Reformation churches.”  
+> 
+> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*
+
+--- 
+
 ## 💰 When The Extractor Can Outbid The Keeper
 
 There is also an economic question.
@@ -417,6 +405,12 @@ These questions should be evidenced rather than presumed.
 But the governance problem exists even before the worst-case scenario is demonstrated.
 
 **Do not build incentives under which destruction becomes rational.**
+
+--- 
+
+> “It would have been easier for me to send it you a photocopy of the half-page Introduction.“
+> 
+> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*
 
 ---
 
@@ -483,6 +477,12 @@ Its inability to be instantaneously scaled is not evidence that something has go
 Sometimes civilisation consists of somebody saying:
 
 **I will look after this until somebody else can.**
+
+—-- 
+
+> “I must say it is far more difficult than may 4 other books. It has taken me 3 years. I did it to clarify my own ideas, to force myself to come down on one side of an argument or interpretation. Even if no one reads this book at least it has done me some good - I think - no, it really has done.”  
+> 
+> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*
 
 ---
 
