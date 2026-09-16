@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-16 19:02:01 UTC_
+_Generated on 2026-09-16 19:10:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4966,6 +4966,7 @@ _Generated on 2026-09-16 19:02:01 UTC_
     - [`🧿_why_disbandment_is_the_only_democratic_option.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/🧿_why_disbandment_is_the_only_democratic_option.md)
   - [**✏️_WAAAA/**](🌕_5_Long_Strategies/✏️_WAAAA/)
     - [`notes.txt`](🌕_5_Long_Strategies/✏️_WAAAA/notes.txt)
+    - [`📚_guard_the_books.md`](🌕_5_Long_Strategies/✏️_WAAAA/📚_guard_the_books.md)
     - [`🖋️_guard_the_letters.md`](🌕_5_Long_Strategies/✏️_WAAAA/🖋️_guard_the_letters.md)
   - [**❤️‍🩹_Rehabilitated_Tech/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/)
     - [**🌷_Opening_The_Source/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/🌷_Opening_The_Source/)
