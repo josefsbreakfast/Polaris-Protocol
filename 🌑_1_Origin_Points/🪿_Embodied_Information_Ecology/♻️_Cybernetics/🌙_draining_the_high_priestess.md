@@ -4238,7 +4238,8 @@ And eventually somebody still has to answer the oldest cybernetic question in th
 - [✏️: SMBC: Robot John Searle](https://www.smbc-comics.com/comic/robot-john-searle) – *re the “Chinese game” thought experiment and CHI-driven validation*  
 - [✏️: PhD Comics x SMBC: The Cookies](https://phdcomics.com/comics/archive.php?comicid=2033) – *I admit I am probably in the second group.*  
 - [📹: Mikey Smith, via TikTok: “Will Trump save us from out of control Al? It seems unlikely - but he could be the only thing standing between the world and the Al apocalypse.”](https://vm.tiktok.com/ZN8jKuEpK/) – *…may G-d help us all* 😮‍💨
-- [📰: The Guardian: “‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation”](https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation) – *so close, and yet —*  
+- [📰: The Guardian: “‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation”](https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation) – *so close, and yet —*
+- [📰: The Guardian: “Godfather of AI’ says tech regulation is nearing Covid-style pivot moment”](https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio) – *Dan Milano interviews Yoshua Bengio: “Think about how quickly governments moved after the beginning of the pandemic when they realised that public safety, their future, democracy, was in danger. You would expect that they move quickly. So we are, I think, nearing that point.”*  
 
 ---
 
