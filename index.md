@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-16 19:57:36 UTC_
+_Generated on 2026-09-16 19:58:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4966,7 +4966,6 @@ _Generated on 2026-09-16 19:57:36 UTC_
     - [`🧿_why_disbandment_is_the_only_democratic_option.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/🧿_why_disbandment_is_the_only_democratic_option.md)
   - [**✏️_WAAAA/**](🌕_5_Long_Strategies/✏️_WAAAA/)
     - [`README.md`](🌕_5_Long_Strategies/✏️_WAAAA/README.md)
-    - [`notes.txt`](🌕_5_Long_Strategies/✏️_WAAAA/notes.txt)
     - [`📚_guard_the_books.md`](🌕_5_Long_Strategies/✏️_WAAAA/📚_guard_the_books.md)
     - [`🖋️_guard_the_letters.md`](🌕_5_Long_Strategies/✏️_WAAAA/🖋️_guard_the_letters.md)
   - [**❤️‍🩹_Rehabilitated_Tech/**](🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/)
@@ -9965,6 +9964,9 @@ _Generated on 2026-09-16 19:57:36 UTC_
         - [`🪞_i_know_why_youre_all_so_invested_now.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🪞_i_know_why_youre_all_so_invested_now.md)
         - [`🪻_take_me_home.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🪻_take_me_home.md)
         - [`🫁_i_cannot_expand.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🫁_i_cannot_expand.md)
+      - [**🌕_5_Long_Strategies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌕_5_Long_Strategies/)
+        - [**✏️_WAAAA/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌕_5_Long_Strategies/✏️_WAAAA/)
+          - [`notes.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌕_5_Long_Strategies/✏️_WAAAA/notes.txt)
       - [**🌸_Containment_Studies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/)
         - [**🌱_Foundations_Of_Containment/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/)
           - [`Notes.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌸_Containment_Studies/🌱_Foundations_Of_Containment/Notes.txt)
