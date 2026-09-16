@@ -149,6 +149,12 @@ It requires recognising **context**.
 
 ---
 
+> “I mention the removal of the Real Presence into what is in fact the ‘real absence’ - as we see in so many post-Reformation churches.”  
+> 
+> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*
+
+---
+
 ## 🪦 It Feels Like Grave Robbing
 
 There are circumstances in which ordinary human moral language identifies something that technical language struggles to hold.
@@ -178,6 +184,12 @@ The question is therefore not simply:
 It is also:
 
 > What kind of relationship with the dead does this use represent?
+
+--- 
+
+> “It would have been easier for me to send it you a photocopy of the half-page Introduction.“
+> 
+> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*
 
 ---
 
@@ -230,6 +242,12 @@ Commercial usefulness is not consent.
 Scarcity is not consent.
 
 And difficulty obtaining sufficient material through legitimate channels is not consent.
+
+---  
+
+“I must say it is far more difficult than may 4 other books. It has taken me 3 years. I did it to clarify my own ideas, to force myself to come down on one side of an argument or interpretation. Even if no one reads this book at least it has done me some good - I think - no, it really has done.”  
+> 
+> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*
 
 ---
 
