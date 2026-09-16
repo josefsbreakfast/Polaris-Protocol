@@ -1,5 +1,5 @@
 # 🌙 Draining The High Priestess
-**First created:** 2026-09-14 | **Last updated:** 2026-09-15  
+**First created:** 2026-09-14 | **Last updated:** 2026-09-16  
 *How human judgement, culture, adaptation and vulnerability become extractive training surfaces; why marginalisation can become an information subsidy; and why systems that privatise informational gain while socialising depletion are bad cybernetics, bad defence and often bad value for money.*
 
 ---
@@ -4238,6 +4238,7 @@ And eventually somebody still has to answer the oldest cybernetic question in th
 - [✏️: SMBC: Robot John Searle](https://www.smbc-comics.com/comic/robot-john-searle) – *re the “Chinese game” thought experiment and CHI-driven validation*  
 - [✏️: PhD Comics x SMBC: The Cookies](https://phdcomics.com/comics/archive.php?comicid=2033) – *I admit I am probably in the second group.*  
 - [📹: Mikey Smith, via TikTok: “Will Trump save us from out of control Al? It seems unlikely - but he could be the only thing standing between the world and the Al apocalypse.”](https://vm.tiktok.com/ZN8jKuEpK/) – *…may G-d help us all* 😮‍💨
+- [📰: The Guardian: “‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation”](https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation) – *so close, and yet —*  
 
 ---
 
@@ -4268,4 +4269,4 @@ It maps the cybernetic and economic risks that arise when institutions extract v
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-15_
+_Last updated: 2026-09-16_
