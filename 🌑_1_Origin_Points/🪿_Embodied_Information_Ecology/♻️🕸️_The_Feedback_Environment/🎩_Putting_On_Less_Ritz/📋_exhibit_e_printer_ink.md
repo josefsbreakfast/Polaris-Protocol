@@ -981,9 +981,192 @@ Ask:
 
 That is not technological isolationism.
 
-It is **whole-system due diligence**.
+It is **whole-system due diligence**.  
+
+## 🧿 The Citizen Should Not Have To Become Suspicious Enough To Compensate For Institutional Opacity
+
+There is a further problem here that does not require establishing that any particular foreign intelligence, commercial or administrative system **has** classified a particular person incorrectly.
+
+The problem is that, if it did, the affected person may be extraordinarily poorly placed to discover it.
+
+An incorrect classification, inference, identity match, risk marker or other conclusion can potentially create downstream consequences without giving the person affected a clear view of:
+
+- what the originating record says;
+- whether the record exists at all;
+- who created it;
+- what evidence produced it;
+- which organisations received it;
+- which organisations subsequently relied upon it;
+- whether it has been corrected;
+- whether correction propagated downstream;
+- or which jurisdiction's law provides an effective route to challenge it.
+
+That creates an obvious evidential asymmetry.
+
+The person may experience something downstream.
+
+The institution holds the information required to establish what happened upstream.
+
+The responsible response cannot therefore be:
+
+> **“Unless you can prove the invisible record exists, stop worrying about it.”**
+
+Nor should it be:
+
+> **“Yes, obviously the invisible record exists.”**
+
+The appropriate response is:
+
+> **We should have institutions capable of answering the fucking question.**
+
+That is what effective governance is for.
+
+A British citizen should not personally have to negotiate with the United States as though they are **a tiny sovereign state with a Gmail account**.
+
+Britain has diplomatic relationships.
+
+Britain has regulators with statutory powers.
+
+Britain has courts.
+
+Britain has intelligence and security institutions with longstanding liaison relationships.
+
+Britain has Parliament.
+
+Britain negotiates the agreements under which data, intelligence and technological dependencies cross jurisdictions.
+
+Those institutions exist partly because an individual citizen cannot realistically reproduce the investigative, legal and diplomatic capabilities of a state.
+
+So when the practical answer to a possible cross-border information problem becomes:
+
+> **“Perhaps the individual can navigate the specialist foreign redress mechanism.”**
+
+there is a prior governance question:
+
+> **Why is so much of the investigative burden sitting with the individual in the first place?**
+
+### 🪨 The Evidential Boulder
+
+The administrative sequence can become absurd:
+
+**Something happens.**
+
+↓
+
+Work out whether information might explain it.
+
+↓
+
+Work out whether a relevant record exists.
+
+↓
+
+Work out who might hold it.
+
+↓
+
+Work out where the information originated.
+
+↓
+
+Work out where it travelled.
+
+↓
+
+Work out which jurisdiction applies.
+
+↓
+
+Work out which rights survive the transfer.
+
+↓
+
+Find the correct regulator or complaints procedure.
+
+↓
+
+Understand the evidential threshold.
+
+↓
+
+Provide enough evidence to persuade somebody to investigate.
+
+↓
+
+**The evidence required to establish what happened is held inside the system you are asking them to investigate.**
+
+That is the boulder.
+
+And where intelligence activity is potentially involved, the asymmetry becomes particularly difficult because secrecy may itself be legitimate.
+
+The answer cannot reasonably be to require the citizen to become sufficiently suspicious, technically capable, legally knowledgeable and persistent to compensate for that secrecy.
+
+**Rights need to work for people who remain reasonably un-paranoid.**
+
+### 🛡️ The State Is Supposed To Be Bigger Than Sandra
+
+This is also where sovereignty becomes personal.
+
+A state protecting its sovereignty is not merely protecting borders, military installations or abstract constitutional prerogatives.
+
+It is also maintaining enough institutional capacity to protect its citizens when they encounter systems substantially more powerful than they are.
+
+If a British person's information is wrong, misused, improperly transferred or otherwise producing consequences inside an allied foreign system, the British answer cannot always be:
+
+> **Here is the website where you can complain to America.**
+
+Sometimes the relevant question should instead be:
+
+> **What can British institutions establish on this person's behalf?**
+
+That does not require assuming wrongdoing.
+
+It requires refusing to make **institutional opacity somebody else's unpaid administrative problem**.
+
+Because eventually:
+
+**device admin**
+
+becomes
+
+**account admin**
+
+becomes
+
+**data admin**
+
+becomes
+
+**rights admin**
+
+becomes
+
+**foreign-jurisdiction admin**
+
+becomes
+
+**signals-intelligence admin**
+
+becomes
+
+**the individual having to investigate why the individual has been treated strangely by systems the individual cannot see.**
+
+And at some point the citizen is entitled to say:
+
+> **I AM FUCKING TIRED.**
+>
+> I have done enough administration.
+>
+> **My country can do some now.**
+
+“But why were you so interested in America?”  
+
+Because I thought you guys were cool.  
+
+Thank you for robustly proving my naïveté.  
 
 ---
+
 ## 📚 Sources
 
 -   [ICO: "What to expect from the ICO when making a complaint under the
