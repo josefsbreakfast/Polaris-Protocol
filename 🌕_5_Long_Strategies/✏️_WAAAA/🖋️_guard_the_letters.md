@@ -95,7 +95,7 @@ Preserve the letter and something more survives:
 
 ---
 
-> “You mention Warsaw where I stayed for a day or two - seeing Chopin’s house etc. I have also read quite a bit about the concentration camp world of the USSR and Nazi Europe; Lord Liverpool’s book - “The Scourge of the Swastike” and equally horrific, the recently- published book “Gulag” by an American Russian expert whose name I forget. [Anne Applebaum; I had told him I was reading *Iron Curtain*.] I read about 350 of its 500 pages before II grew sick of this record of Lenin and Stalin’s evil Empire. I wonder how many people could stomach the whole 500 pages?”  
+> “You mention Warsaw where I stayed for a day or two - seeing Chopin’s house etc. I have also read quite a bit about the concentration camp world of the USSR and Nazi Europe; Lord Liverpool’s book - “The Scourge of the Swastike” and equally horrific, the recently- published book “Gulag” by an American Russian expert whose name I forget. [Anne Applebaum; I had told him I was reading *Iron Curtain*. He clicked next time.] I read about 350 of its 500 pages before II grew sick of this record of Lenin and Stalin’s evil Empire. I wonder how many people could stomach the whole 500 pages?”  
 > 
 > *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*  
 
@@ -257,7 +257,7 @@ If future researchers want people voluntarily to contribute diaries, corresponde
 
 --- 
 
-> ”Apart from your need (long-term) of a big French dictionary, which you should “mine” systematically, you require “500 French Verbs” - very good as a reference book for all the tenses. You can’t get far without knowing the verb systems (in any foreign language). The 3rd and final book is called - “Collins East Learning French Conversation” - cost £6.99. I bought a copy of this at Blackwell’s bookshop, but it disappeared. This book is for a person who does not have a French degree, knows quite a lot of French - but needs the language for *short visits* (not for living there!) - an excellent cheap book…
+> ”Apart from your need (long-term) of a big French dictionary, which you should ‘mine’ systematically, you require “500 French Verbs” - very good as a reference book for all the tenses. You can’t get far without knowing the verb systems (in any foreign language). The 3rd and final book is called - ‘Collins East Learning French Conversation’ - cost £6.99. I bought a copy of this at Blackwell’s bookshop, but it disappeared. This book is for a person who does not have a French degree, knows quite a lot of French - but needs the language for *short visits* (not for living there!) - an excellent cheap book…
 >
 > …Now and again, when you have time, read the odd French novel perhaps - French detective novels are filled with verbs! Ease of recall is important; the French don’t give you much time to say what you need to say - you *have* to memorise a short repertoire of useful phrases/sentences - *your* part in the play.”
 >
@@ -408,7 +408,7 @@ But the governance problem exists even before the worst-case scenario is demonst
 
 --- 
 
-> “It would have been easier for me to send it you a photocopy of the half-page Introduction.“
+> “It would have been easier for me to send you a photocopy of the half-page Introduction.“
 > 
 > *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*
 
@@ -480,7 +480,7 @@ Sometimes civilisation consists of somebody saying:
 
 —-- 
 
-> “I must say it is far more difficult than may 4 other books. It has taken me 3 years. I did it to clarify my own ideas, to force myself to come down on one side of an argument or interpretation. Even if no one reads this book at least it has done me some good - I think - no, it really has done.”  
+> “I must say it is far more difficult than my 4 other books. It has taken me 3 years. I did it to clarify my own ideas, to force myself to come down on one side of an argument or interpretation. Even if no one reads this book at least it has done me some good - I think - no, it really has done.”  
 > 
 > *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*
 
@@ -546,7 +546,23 @@ Guard the letters because somebody may still want to hold them.
 
 Guard the letters because preservation and extraction are not synonyms.
 
-And guard the letters because someday we will want living people to trust us with theirs.
+And guard the letters because someday we will want living people to trust us with theirs.  
+
+--- 
+
+> [From a previous appendix of exercises, made to help me become more confident with grammar, we are compiling sarcasm and insults, because what do you mean your grandparents don’t send you personalised word games by post this is completely normal behaviour:]
+>
+> “Il est censé être intelligent!”
+> “C’est fou.”
+> “Rien que d’y penser me donne le frisson.”
+> “Ça me dégoûte.”
+> “Je ne peux pas souffrer, qu’on me moque.”
+> “Je l’ai pris pour avéré.”
+> “Il y a un cheveu.”  
+> 
+> 
+> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*
+
 
 ---
 
