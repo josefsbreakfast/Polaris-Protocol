@@ -418,7 +418,7 @@ We will all sound like the BBC when you can all dance like Fred Astaire.
 *Follow the evidence:*  
 
 - [📰: The Times: “Minister calls X a ‘disgrace’ for shunning talks on RNLI abuse”](https://www.thetimes.com/uk/politics/article/lisa-nandy-elon-musks-x-rnli-abuse-migrant-protests-vdm0bg3gd) – *The fake geek boy won’t take any responsibility for the humans risking their lives to save others at sea. Protect the boats, man-thot.*
-- [🏛️: Government Departments: Artificial Intelligence: Question for Cabinet Office](https://questions-statements.parliament.uk/written-questions/detail/2026-09-04/27254) – *See this, America? See this? 7k constraints requiring specialist manual override is NOT LESS ADMIN.*  
+- [🏛️: Government Departments: Artificial Intelligence: Question for Cabinet Office](https://questions-statements.parliament.uk/written-questions/detail/2026-09-04/27254) – *See this, America? See this? ~7k statutory consultation constraints. If your automated workflow turns collisions with them into specialist exception handling, YOU HAVE NOT REMOVED THE ADMIN. YOU HAVE MOVED IT UP THE PAY SCALE.*  
 
 ---
 
