@@ -6,6 +6,7 @@ administration, dependency and jurisdictional exposure hidden inside
 supposedly convenient technology.*
 
 ---
+
 ## 🖨️ Orientation
 
 There is a particular kind of technological failure that does not look
@@ -56,6 +57,7 @@ the problem stops being merely annoying.
 It becomes governance.
 
 ---
+
 ## 🧾 The Cheap Printer Is Not Necessarily The Cheap Printing System
 
 The familiar printer business model resembles the classic
@@ -90,6 +92,7 @@ That is not one object.
 It is a small dependency graph with a paper tray.
 
 ---
+
 ## 🏷️ Why Am I Doing Your Inventory Management?
 
 The manufacturer created the model range.
@@ -128,6 +131,7 @@ Complex engineering that requires the customer to learn the
 manufacturer's internal product taxonomy is **complexity leakage**.
 
 ---
+
 ## 🧠 Mental Maintenance Is A Cost
 
 The lifetime cost of consumer technology is not merely:
@@ -163,6 +167,7 @@ not doing it.
 The household is.
 
 ---
+
 ## 🏠 Sandra Holdings (Domestic) Ltd
 
 The connected household increasingly resembles a badly resourced small
@@ -207,6 +212,7 @@ Congratulations.
 Mum has acquired an unpaid support desk.
 
 ---
+
 ## 🏢 Toner: When The Joke Becomes Procurement
 
 Office printers expose the same problem at organisational scale.
@@ -237,6 +243,7 @@ serviceable parts may be cheaper over its useful life.
 **Price the system, not the shiny object.**
 
 ---
+
 ## 🚢 The Printer-Shaped Hostage To Logistics
 
 A consumable is not merely a recurring cost.
@@ -279,6 +286,7 @@ This is the miniature version of a much larger sovereignty question.
 Ownership of equipment is not the same as **operational autonomy**.
 
 ---
+
 ## 🧮 You Cannot Keep Selling Us The Cure For The Admin You Sold Us
 
 The same pattern scales into enterprise software.
@@ -337,6 +345,7 @@ infrastructure to manage the efficiency tool, somebody should eventually
 be required to show us the fucking efficiency saving.
 
 ---
+
 ## 🌍 The Account Is Also A Jurisdiction
 
 The account problem becomes more serious when household and
@@ -390,6 +399,7 @@ It is not a reason to stop asking what dependency and practical redress
 look like from the citizen's side.
 
 ---
+
 ## 🛰️ Yes, There Is A Signals-Intelligence Redress Mechanism
 
 This is the part British consumers are unlikely to encounter while
@@ -418,6 +428,7 @@ sufficiently material that the transatlantic framework contains specific
 safeguards and a specific redress architecture for it.**
 
 ---
+
 ## 📋 What A British Person Has To Put In The Complaint
 
 The ICO does not itself determine whether the US signals-intelligence
@@ -476,6 +487,7 @@ activity cannot be evaluated solely by asking whether a complaint form
 technically exists.
 
 ---
+
 ## ⚖️ What Happens After The Complaint
 
 If the ICO considers the complaint qualifying, it passes it into the US
@@ -515,6 +527,7 @@ It also matters when evaluating how meaningful the remedy feels from
 outside the US system.
 
 ---
+
 ## 🛡️ Can America Just Say "National Security"?
 
 Not quite.
@@ -559,6 +572,7 @@ And institutional trust matters particularly when enormous quantities of
 ordinary commercial data routinely enter that jurisdiction.
 
 ---
+
 ## 🕵️ The Historical Memory Is Not Invented
 
 There is a reason large-scale American data analysis can trigger
@@ -591,6 +605,7 @@ The appropriate response is not paranoia.
 It is governance.
 
 ---
+
 ## 🧿 The Epistemic Trap
 
 There is a particularly awkward asymmetry here.
@@ -646,6 +661,7 @@ That places the governance burden upstream:
     amateur specialist in foreign intelligence law.
 
 ---
+
 ## 🪆 The Administrative Russian Doll
 
 We bought the device to reduce administration.
@@ -690,6 +706,7 @@ This is not superintelligence.
 This is **administrative recursion**.
 
 ---
+
 ## 🛡️ Whose National Security?
 
 There is another asymmetry hidden inside the phrase **national security**.
