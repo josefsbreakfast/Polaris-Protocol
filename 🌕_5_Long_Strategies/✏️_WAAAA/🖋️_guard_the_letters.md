@@ -30,7 +30,13 @@ This node begins from an unapologetically human proposition:
 
 That reaction should not automatically be dismissed because it cannot be reduced to a property right, copyright term or machine-learning benchmark.
 
-Sometimes moral intuitions are signals that the available technical categories are failing to describe what humans actually believe is being protected.
+Sometimes moral intuitions are signals that the available technical categories are failing to describe what humans actually believe is being protected.  
+
+Must we really mark and advocate for each individual block to use, in order to protect common decency in the holdings of written work?  
+
+Apparently so.  
+
+From my perspective, it appears a rather tiresome process, interruptive to the sharing of culture and text.  
 
 ---
 
@@ -100,6 +106,14 @@ Preserve the letter and something more survives:
 **a human act.**
 
 ---
+
+> ”Apart from your need (long-term) of a big French dictionary, which you should “mine” systematically, you require “500 French Verbs” - very good as a reference book for all the tenses. You can’t get far without knowing the verb systems (in any foreign language). The 3rd and final book is called - “Collins East Learning French Conversation” - cost £6.99. I bought a copy of this at Blackwell’s bookshop, but it disappeared. This book is for a person who does not have a French degree, knows quite a lot of French - but needs the language for *short visits* (not for living there!) - an excellent cheap book…
+>
+> …Now and again, when you have time, read the odd French novel perhaps - French detective novels are filled with verbs! Ease of recall is important; the French don’t give you much time to say what you need to say - you *have* to memorise a short repertoire of useful phrases/sentences - *your* part in the play.”
+>
+> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*  
+
+--- 
 
 ## 📮 The Preposition Matters
 
