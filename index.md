@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-16 19:54:11 UTC_
+_Generated on 2026-09-16 19:57:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4965,6 +4965,7 @@ _Generated on 2026-09-16 19:54:11 UTC_
     - [`🧸_softness_as_counter_extremism_infrastructure.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/🧸_softness_as_counter_extremism_infrastructure.md)
     - [`🧿_why_disbandment_is_the_only_democratic_option.md`](🌕_5_Long_Strategies/.🌱_Still_Growing/🧿_why_disbandment_is_the_only_democratic_option.md)
   - [**✏️_WAAAA/**](🌕_5_Long_Strategies/✏️_WAAAA/)
+    - [`README.md`](🌕_5_Long_Strategies/✏️_WAAAA/README.md)
     - [`notes.txt`](🌕_5_Long_Strategies/✏️_WAAAA/notes.txt)
     - [`📚_guard_the_books.md`](🌕_5_Long_Strategies/✏️_WAAAA/📚_guard_the_books.md)
     - [`🖋️_guard_the_letters.md`](🌕_5_Long_Strategies/✏️_WAAAA/🖋️_guard_the_letters.md)
