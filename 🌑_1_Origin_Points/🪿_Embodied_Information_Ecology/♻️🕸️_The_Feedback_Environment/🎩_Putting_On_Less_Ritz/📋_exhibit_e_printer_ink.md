@@ -1,16 +1,12 @@
-# 📋 Exhibit E: Printer Ink
-
-**First created:** 2026-09-16 | **Last updated:** 2026-09-16
-*The printer is the specimen. The actual problem is the unpaid
-administration, dependency and jurisdictional exposure hidden inside
-supposedly convenient technology.*
+# 📋 Exhibit E: Printer Ink  
+**First created:** 2026-09-16 | **Last updated:** 2026-09-16  
+*The printer is the specimen. The actual problem is the unpaid administration, dependency and jurisdictional exposure hidden inside supposedly convenient technology.*
 
 ---
 
 ## 🖨️ Orientation
 
-There is a particular kind of technological failure that does not look
-like failure because the device technically works.
+There is a particular kind of technological failure that does not look like failure because the device technically works.
 
 The printer works.
 
@@ -30,9 +26,7 @@ The complaints procedure works.
 
 And yet, somehow, the human being has acquired another job.
 
-This exhibit begins with printer ink because printer ink is funny. It
-ends with transatlantic signals-intelligence redress because the same
-design problem keeps recurring at larger scales:
+This exhibit begins with printer ink because printer ink is funny. It ends with transatlantic signals-intelligence redress because the same design problem keeps recurring at larger scales:
 
 > **YOU PUT ADMIN INSIDE THE DEVICE WE BOUGHT TO DO THE ADMIN.**
 >
@@ -40,19 +34,13 @@ design problem keeps recurring at larger scales:
 >
 > **THE ROCKEFELLERS WOULD LIKE THEIR BUSINESS MODEL BACK.**
 
-The complaint is not that consumables should be free, that companies
-should not make money, that international data transfers are inherently
-unlawful, or that American intelligence agencies automatically receive
-data processed by American companies.
+The complaint is not that consumables should be free, that companies should not make money, that international data transfers are inherently unlawful, or that American intelligence agencies automatically receive data processed by American companies.
 
 The complaint is simpler:
 
-**complexity repeatedly leaks out of the system and becomes unpaid work
-for the user.**
+**complexity repeatedly leaks out of the system and becomes unpaid work for the user.**
 
-When the complexity also creates proprietary dependency, supply-chain
-fragility, cross-border data exposure or difficult-to-exercise rights,
-the problem stops being merely annoying.
+When the complexity also creates proprietary dependency, supply-chain fragility, cross-border data exposure or difficult-to-exercise rights, the problem stops being merely annoying.
 
 It becomes governance.
 
@@ -60,8 +48,7 @@ It becomes governance.
 
 ## 🧾 The Cheap Printer Is Not Necessarily The Cheap Printing System
 
-The familiar printer business model resembles the classic
-**razor-and-blades** structure:
+The familiar printer business model resembles the classic **razor-and-blades** structure:
 
 1.  make the durable device comparatively cheap;
 2.  establish an installed base;
@@ -69,12 +56,9 @@ The familiar printer business model resembles the classic
 4.  make the consumable difficult, inconvenient or impossible to
     substitute.
 
-There is nothing inherently illegitimate about charging for toner or
-ink.
+There is nothing inherently illegitimate about charging for toner or ink.
 
-The problem begins when the headline price of the machine becomes a poor
-guide to the lifetime cost of possessing a functioning printing
-capability.
+The problem begins when the headline price of the machine becomes a poor guide to the lifetime cost of possessing a functioning printing capability.
 
 The household thinks it bought:
 
@@ -82,10 +66,7 @@ The household thinks it bought:
 
 It may actually have bought:
 
-**printer + cartridge family + authentication regime + firmware
-relationship + replacement cycle + supply-chain dependency + account +
-subscription option + future compatibility decisions made by somebody
-else.**
+**printer + cartridge family + authentication regime + firmware relationship + replacement cycle + supply-chain dependency + account + subscription option + future compatibility decisions made by somebody else.**
 
 That is not one object.
 
@@ -103,10 +84,7 @@ The manufacturer created the compatibility matrix.
 
 The manufacturer controls the catalogue.
 
-And yet the consumer is routinely expected to remember whether the black
-object in the study is a `3720`, `3720e`, `3722`, or some adjacent
-sequence of numbers whose differences are meaningful primarily to the
-company that invented them.
+And yet the consumer is routinely expected to remember whether the black object in the study is a `3720`, `3720e`, `3722`, or some adjacent sequence of numbers whose differences are meaningful primarily to the company that invented them.
 
 > "Which cartridge do you need?"
 >
@@ -127,8 +105,7 @@ This suggests a useful design principle:
 Complex engineering underneath a simple interface is excellent
 technology.
 
-Complex engineering that requires the customer to learn the
-manufacturer's internal product taxonomy is **complexity leakage**.
+Complex engineering that requires the customer to learn the manufacturer's internal product taxonomy is **complexity leakage**.
 
 ---
 
@@ -140,9 +117,7 @@ The lifetime cost of consumer technology is not merely:
 
 It also includes:
 
-**remembering + checking + authenticating + updating + troubleshooting +
-comparing + migrating + learning + replacing + recovering + cancelling +
-verifying.**
+**remembering + checking + authenticating + updating + troubleshooting + comparing + migrating + learning + replacing + recovering + cancelling + verifying.**
 
 Each individual demand can be presented as trivial.
 
@@ -158,11 +133,9 @@ Each individual demand can be presented as trivial.
 >
 > "It's only another subscription."
 
-Sandra has forty-seven things that are each **only asking for five
-minutes**.
+Sandra has forty-seven things that are each **only asking for five minutes**.
 
-The work disappears from the vendor's cost model because the vendor is
-not doing it.
+The work disappears from the vendor's cost model because the vendor is not doing it.
 
 The household is.
 
@@ -170,8 +143,7 @@ The household is.
 
 ## 🏠 Sandra Holdings (Domestic) Ltd
 
-The connected household increasingly resembles a badly resourced small
-enterprise.
+The connected household increasingly resembles a badly resourced small enterprise.
 
 Somebody has to remember:
 
@@ -188,8 +160,7 @@ Somebody has to remember:
 -   whether a cloud service is still required;
 -   how to recover the system when an account is locked;
 -   where the data is being processed;
--   and eventually how to exercise the legal rights created by the
-    resulting information architecture.
+-   and eventually how to exercise the legal rights created by the resulting information architecture.
 
 The technology did not necessarily eliminate administration.
 
@@ -217,13 +188,9 @@ Mum has acquired an unpaid support desk.
 
 Office printers expose the same problem at organisational scale.
 
-A serious procurement comparison cannot stop at the purchase price of
-the machine. It needs to consider:
+A serious procurement comparison cannot stop at the purchase price of the machine. It needs to consider:
 
-**toner + stated yield + real-world yield + drums + imaging units +
-waste-toner containers + fusers + maintenance kits + service + energy +
-downtime + authentication restrictions + expected availability of
-consumables.**
+**toner + stated yield + real-world yield + drums + imaging units + waste-toner containers + fusers + maintenance kits + service + energy + downtime + authentication restrictions + expected availability of consumables.**
 
 The useful question is not:
 
@@ -231,14 +198,11 @@ The useful question is not:
 
 It is:
 
-> **What does 100,000 pages cost, and what has to remain available for
-> us to print them?**
+> **What does 100,000 pages cost, and what has to remain available for us to print them?**
 
-A cheap machine attached to expensive or fragile dependencies may be
-expensive infrastructure.
+A cheap machine attached to expensive or fragile dependencies may be expensive infrastructure.
 
-A more expensive machine using widely available consumables and
-serviceable parts may be cheaper over its useful life.
+A more expensive machine using widely available consumables and serviceable parts may be cheaper over its useful life.
 
 **Price the system, not the shiny object.**
 
@@ -250,8 +214,7 @@ A consumable is not merely a recurring cost.
 
 It is a recurring **dependency**.
 
-If continued operation requires one vendor-specific object, every future
-page depends on continued access to that object's supply chain.
+If continued operation requires one vendor-specific object, every future page depends on continued access to that object's supply chain.
 
 The printer can be:
 
@@ -261,11 +224,9 @@ The printer can be:
 -   fully depreciated;
 -   and completely useless.
 
-All that is required is for the required cartridge, chip, drum or
-maintenance component to become unavailable.
+All that is required is for the required cartridge, chip, drum or maintenance component to become unavailable.
 
-Then the organisation does not possess a functioning printing
-capability.
+Then the organisation does not possess a functioning printing capability.
 
 It possesses:
 
@@ -311,13 +272,9 @@ Then somebody must administer:
 -   verification;
 -   vendor relationships.
 
-The vendor can truthfully report that **Task X is 30% faster** while the
-organisation experiences much less improvement because the coordination
-cost has been externalised elsewhere.
+The vendor can truthfully report that **Task X is 30% faster** while the organisation experiences much less improvement because the coordination cost has been externalised elsewhere.
 
-Then the same organisation is sold an optimisation platform to reduce
-the administrative burden created by the previous generation of
-optimisation platforms.
+Then the same organisation is sold an optimisation platform to reduce the administrative burden created by the previous generation of optimisation platforms.
 
 > **Vendor:** This saves Sandra ten minutes.
 >
@@ -339,79 +296,50 @@ This is not an argument against automation.
 
 It is an argument for **whole-system accounting**.
 
-If the promised efficiency requires enough administrators, lawyers,
-security staff, procurement staff, integration engineers and AI
-infrastructure to manage the efficiency tool, somebody should eventually
-be required to show us the fucking efficiency saving.
+If the promised efficiency requires enough administrators, lawyers, security staff, procurement staff, integration engineers and AI infrastructure to manage the efficiency tool, somebody should eventually be required to show us the fucking efficiency saving.
 
 ---
 
 ## 🌍 The Account Is Also A Jurisdiction
 
-The account problem becomes more serious when household and
-organisational technology routinely transfers personal data across
-borders.
+The account problem becomes more serious when household and organisational technology routinely transfers personal data across borders.
 
-UK data protection law does not simply cease to apply because
-information is transferred to the United States. The UK has
-international-transfer rules, and the **UK Extension to the EU--US Data
-Privacy Framework** permits transfers to appropriately certified US
-organisations without additional transfer safeguards.
+UK data protection law does not simply cease to apply because information is transferred to the United States. The UK has international-transfer rules, and the **UK Extension to the EU--US Data
+Privacy Framework** permits transfers to appropriately certified US organisations without additional transfer safeguards.
 
 But the jurisdictional environment around the data changes.
 
-The Information Commissioner's Office explicitly noted, when reviewing
-the UK Government's adequacy assessment, that international transfers
-can place information into a different legal framework. The Commissioner
-considered the UK Extension adequate overall, but gave a **qualified
-assurance** and identified four areas requiring monitoring because
-differences between UK and US law could reduce protection in practice.
+The Information Commissioner's Office explicitly noted, when reviewing the UK Government's adequacy assessment, that international transfers can place information into a different legal framework. The Commissioner considered the UK Extension adequate overall, but gave a **qualified assurance** and identified four areas requiring monitoring because differences between UK and US law could reduce protection in practice.
 
 Those four areas concerned:
 
-1.  whether certain UK special-category information is actually
-    identified and treated as sensitive after transfer;
-2.  protections relating to criminal-offence data, including the absence
-    of an equivalent to some protections under the Rehabilitation of
-    Offenders Act 1974;
-3.  the absence of a substantially similar UK-GDPR right concerning
-    significant decisions based solely on automated processing,
-    including human review; and
-4.  the absence of substantially similar rights to erasure and
-    unconditional withdrawal of consent.
+1.  whether certain UK special-category information is actually identified and treated as sensitive after transfer;
+2.  protections relating to criminal-offence data, including the absence of an equivalent to some protections under the Rehabilitation of Offenders Act 1974;
+3.  the absence of a substantially similar UK-GDPR right concerning significant decisions based solely on automated processing, including human review; and
+4.  the absence of substantially similar rights to erasure and unconditional withdrawal of consent.
 
-The ICO additionally recommended ongoing monitoring of US
-intelligence-community compliance with Executive Order 14086, the
-effectiveness of oversight and enforcement, and significant changes in
+The ICO additionally recommended ongoing monitoring of US intelligence-community compliance with Executive Order 14086, the effectiveness of oversight and enforcement, and significant changes in
 the US legal landscape.
 
 That is important.
 
 **Adequacy does not mean identical law.**
 
-It means the UK Government concluded that the relevant US framework,
-taken as a whole, provided an adequate level of protection for the
-transfers within scope.
+It means the UK Government concluded that the relevant US framework, taken as a whole, provided an adequate level of protection for the transfers within scope.
 
 That is a legal conclusion.
 
-It is not a reason to stop asking what dependency and practical redress
-look like from the citizen's side.
+It is not a reason to stop asking what dependency and practical redress look like from the citizen's side.
 
 ---
 
 ## 🛰️ Yes, There Is A Signals-Intelligence Redress Mechanism
 
-This is the part British consumers are unlikely to encounter while
-setting up the printer.
+This is the part British consumers are unlikely to encounter while setting up the printer.
 
-The United States designated the United Kingdom a **qualifying state**
-for the redress mechanism established under Executive Order 14086.
+The United States designated the United Kingdom a **qualifying state** for the redress mechanism established under Executive Order 14086.
 
-That matters because a UK individual can use the mechanism if they
-reasonably believe personal data transferred from the UK to the United
-States was accessed through US signals-intelligence activities in
-violation of applicable US law.
+That matters because a UK individual can use the mechanism if they reasonably believe personal data transferred from the UK to the United States was accessed through US signals-intelligence activities in violation of applicable US law.
 
 The mechanism is not confined to transfers made through the Data Privacy
 Framework. The ICO says it can apply to UK personal data transferred to
