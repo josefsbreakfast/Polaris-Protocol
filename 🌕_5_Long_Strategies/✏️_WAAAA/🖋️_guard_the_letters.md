@@ -6,7 +6,9 @@
 
 > "I hope you are well - back into our small country from the amazing wide open countryside of Ukraine and Russia. I was there in 1961, and could not stop thinking of the distances marched by Napoleon's army when I returned to the UK."  
 > 
-> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*  
+> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*
+
+--- 
 
 ## 🛰️ Orientation
 
@@ -36,6 +38,8 @@ Sometimes moral intuitions are signals that the available technical categories a
 > 
 > *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*  
 
+--- 
+
 ## ✨ Key Features
 
 - Distinguishes **preservation, access, scholarship and computational extraction** rather than treating digitisation as one morally uniform activity.
@@ -48,6 +52,12 @@ Sometimes moral intuitions are signals that the available technical categories a
 - Asks whether AI development could create economic incentives hostile to preservation.
 - Argues that trustworthy stewardship today is necessary if people are to entrust intimate cultural material to institutions tomorrow.
 - Does not argue that AI is inherently bad or that historical material must never be computationally analysed.
+
+---
+
+> “You mention Warsaw where I stayed for a day or two - seeing Chopin’s house etc. I have also read quite a bit about the concentration camp world of the USSR and Nazi Europe; Lord Liverpool’s book - “The Scourge of the Swastike” and equally horrific, the recently- published book “Gulag” by an American Russian expert whose name I forget. [Anne Applebaum] I read about 350 of its 500 pages before II grew sick of this record of Lenin and Stalin’s evil Empire. I wonder how many people could stomach the whole 500 pages?”  
+> 
+> *This correspondence is quoted as private historical correspondence rather than as part of the writer’s published authorial corpus. Any subsisting rights remain with the relevant estate or rightsholder. Its inclusion here should not be understood as treating private or unpublished correspondence as ownerless material or as an extension of the writer’s published works.*  
 
 ---
 
