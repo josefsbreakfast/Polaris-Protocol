@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-16 02:41:23 UTC_
+_Generated on 2026-09-16 12:24:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -923,6 +923,7 @@ _Generated on 2026-09-16 02:41:23 UTC_
         - [`📋_exhibit_b_windows_vista.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_b_windows_vista.md)
         - [`📋_exhibit_c_iphone_batteries.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_c_iphone_batteries.md)
         - [`📋_exhibit_d_fucking_cables.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_d_fucking_cables.md)
+        - [`📋_exhibit_e_printer_ink.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_e_printer_ink.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/README.md)
       - [`🌹_digital_romeo_spy_stories.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🌹_digital_romeo_spy_stories.md)
       - [`🎮_p1_is_practising.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎮_p1_is_practising.md)
