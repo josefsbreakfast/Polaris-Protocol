@@ -251,7 +251,49 @@ Sandra would like to invoke the ancient and respected technical procedure:
 
 **TURN IT OFF AND ON AGAIN.**
 
-Do not optimise away the intuitive meaning of the fucking button.
+Except this is worse than merely making one button counterintuitive.
+
+For decades, **“Have you tried turning it off and on again?”** was shared technical knowledge.
+
+It meant: stop the running system, clear transient state, initialise again, and see whether the computer has ceased being fucked.
+
+It was practically oral tradition.
+
+Then Fast Startup made:
+
+**turn it off → turn it on again**
+
+and
+
+**Restart**
+
+meaningfully different operations.
+
+So:
+
+> **IT support:** Have you tried turning it off and on again?
+>
+> **User:** Yes.
+>
+> **IT support:** Did you actually restart it?
+>
+> **User:** I JUST SAID I TURNED IT OFF AND ON AGAIN.
+>
+> **IT support:** Right, but Windows—
+>
+> **User:** **MICROSOFT.**
+
+This is not merely interface irritation.
+
+It is the depreciation of accumulated human competence.
+
+Millions of people had learned one useful piece of computer literacy.
+
+**Microsoft made the sentence less true.**
+
+Do not optimise five seconds off boot time by breaking the user’s thirty-year-old mental model of what **OFF** means.
+
+**I HAVE BEEN USING COMPUTERS SINCE BEFORE YOUR START BUTTON EXISTED. DO NOT RETCON OFF.**
 
 ---
 
