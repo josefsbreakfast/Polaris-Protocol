@@ -417,7 +417,7 @@ We will all sound like the BBC when you can all dance like Fred Astaire.
 
 *Follow the evidence:*  
 
-- [📰: The Times: “Minister calls X a ‘disgrace’ for shunning talks on RNLI abuse”](https://www.thetimes.com/uk/politics/article/lisa-nandy-elon-musks-x-rnli-abuse-migrant-protests-vdm0bg3gd) – *The fake geek boy won’t take any responsibility for the humans risking their lives to save others at sea.*  
+- [📰: The Times: “Minister calls X a ‘disgrace’ for shunning talks on RNLI abuse”](https://www.thetimes.com/uk/politics/article/lisa-nandy-elon-musks-x-rnli-abuse-migrant-protests-vdm0bg3gd) – *The fake geek boy won’t take any responsibility for the humans risking their lives to save others at sea. Protect the boats, man-thot.*  
 
 ---
 
