@@ -1,6 +1,6 @@
-# 📁 Fightback Plan Leaks
-**First created:** 2026-09-17 | **Last updated:** 2026-09-17
-*The leaked Downing Street policy bundle, the provenance hidden by presentation, and what can — and cannot — be learned by putting documents, reporting, political responses and subsequent policy beside one another.*
+# 📁 Fightback Plan Leaks  
+**First created:** 2026-09-17 | **Last updated:** 2026-09-17  
+*The leaked Downing Street policy bundle, the provenance hidden by presentation, and what can — and cannot — be learned by putting documents, reporting, political responses and subsequent policy beside one another.*  
 
 ---
 
@@ -1326,11 +1326,9 @@ That is where this node hands over to:
 
 ## 🔄 What Happens When New Evidence Arrives?
 
-A provenance investigation should not merely accumulate documents underneath
-the theory that caused the search.
+A provenance investigation should not merely accumulate documents underneath the theory that caused the search.
 
-When a new document, answer, dataset or implementation record arrives, map it
-back to the gap it was supposed to illuminate.
+When a new document, answer, dataset or implementation record arrives, map it back to the gap it was supposed to illuminate.
 
 ```text
 NEW RSVP
@@ -1378,16 +1376,13 @@ parliamentary answer
 
 A later answer may support the original working theory.
 
-It may also make it smaller, move it to another institution, establish that two
-objects were not comparable, or kill it completely.
+It may also make it smaller, move it to another institution, establish that two objects were not comparable, or kill it completely.
 
 Good.
 
-> **New evidence should change the state of the question, not merely be
-> accumulated underneath the original theory.**
+> **New evidence should change the state of the question, not merely be accumulated underneath the original theory.**
 
-Preserve the previous state as history. Do not preserve it as the current
-conclusion after better evidence arrives.
+Preserve the previous state as history. Do not preserve it as the current conclusion after better evidence arrives.
 
 ---
 
@@ -1488,17 +1483,13 @@ The point is to stop inference quietly dressing itself up as observation.
 - [Cabinet Office: Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications/government-security-classifications-policy-html)
 - [Cabinet Office: Government Security Classifications Policy — Quick Read](https://www.gov.uk/government/publications/government-security-classifications/government-security-classifications-policy-quick-read-html)
 
-The policy-card list above remains a working visual transcription from the
-published material rather than an independently authenticated verbatim copy of
-the complete leaked bundle.
+The policy-card list above remains a working visual transcription from the published material rather than an independently authenticated verbatim copy of the complete leaked bundle.
 
 ---
 
 ## 🌌 Constellations
 
-📮 🪖 🐣 🕸️ 🎠 — RSVP comparison, Training Debrief implementation evidence,
-provenance lineage, network discipline, and the Calliopes behind policy
-production.
+📮 🪖 🐣 🕸️ 🎠 — RSVP comparison, Training Debrief implementation evidence, provenance lineage, network discipline, and the Calliopes behind policy production.
 
 ---
 
@@ -1510,11 +1501,8 @@ information provenance, policy development, leaked documents, policy continuity,
 
 ## 🏮 Footer
 
-*Fightback Plan Leaks* is a living node of the **Polaris Protocol**.  
-It uses the April 2026 Downing Street policy leak as a worked RSVP case:
-separating artefact from representation, tracing evidence and idea provenance,
-testing subsequent policy and implementation joins, and preserving unresolved
-questions without manufacturing their answers.
+*📁 Fightback Plan Leaks* is a living node of the **Polaris Protocol**.  
+It uses the April 2026 Downing Street policy leak as a worked RSVP case: separating artefact from representation, tracing evidence and idea provenance, testing subsequent policy and implementation joins, and preserving unresolved questions without manufacturing their answers.
 
 > 📡 Cross-references:
 >
