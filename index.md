@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-17 15:29:12 UTC_
+_Generated on 2026-09-17 15:44:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2136,6 +2136,7 @@ _Generated on 2026-09-17 15:29:12 UTC_
           - [`🛑_ghf_is_a_weapon.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/🛑_ghf_is_a_weapon.md)
           - [`🧊_managed_cruelty.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/🧊_managed_cruelty.md)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/README.md)
+        - [`⚖️_legal_discourse_traps.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/⚖️_legal_discourse_traps.md)
         - [`⚠️_prelude_conditions_to_atrocity.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/⚠️_prelude_conditions_to_atrocity.md)
         - [`🇬🇧_cross_legal_and_law_enforcement_response_to_genocide_risk.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🇬🇧_cross_legal_and_law_enforcement_response_to_genocide_risk.md)
         - [`🌐_suppression_of_holocaust_testimony_online.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🌐_suppression_of_holocaust_testimony_online.md)
