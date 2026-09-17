@@ -1,8 +1,6 @@
-# 🎬 Why Is Israel So Upset About *NAZA*?
-
-**First created:** 2026-09-17 | **Last updated:** 2026-09-17 *An evidence-heavy explainer on* NAZA, *AI-assisted targeting, civilian-harm estimation, remote-war trauma, genocide prevention, whistleblowing, and the rules we may all eventually have to live under.*
-
-<a id="top"></a>
+# 🎬 Why Is Israel So Upset About *NAZA*?  
+**First created:** 2026-09-15 | **Last updated:** 2026-09-17  
+*An evidence-heavy explainer on* NAZA, *AI-assisted targeting, civilian-harm estimation, remote-war trauma, genocide prevention, whistleblowing, and the rules we may all eventually have to live under.*  
 
 ---
 
@@ -1662,7 +1660,11 @@ Some gives somebody enough time to say:
 
 ## 🌌 Constellations
 
-🎬 🧠 ⚖️ 🕸️ 🛰️ --- *Press accountability, AI-assisted warfare, international law, distributed responsibility, and the human cost of accelerated lethal systems.*
+🎬 🧠 ⚖️ 🕸️ 🛰️ --- *Press accountability, AI-assisted warfare, international law, distributed responsibility, and the human cost of accelerated lethal systems.*  
+
+*Follow the evidence:*  
+
+- [📹: AJ+: “Why is Israel so threatened by this documentary?”](https://vm.tiktok.com/ZN866s31J/) – *”Israeli filmmakers Yuval Abraham and Rachel Szor received a record-setting standing ovation for their new film NAZA at the Venice Film Festival. Now, a government minister is threatening to strip them of citizenship and Israeli Prime Minister Netanyahu has released a statement condemning their film. AJ+ Editorial Lead Tony Karon says NAZA disrupts a narrative that has protected Israel's impunity in the West for decades.”*  
 
 ---
 
