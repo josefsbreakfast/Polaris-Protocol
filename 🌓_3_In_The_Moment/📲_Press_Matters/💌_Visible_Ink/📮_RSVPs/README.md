@@ -1,5 +1,5 @@
-# 📮 RSVPs
-**First created:** 2026-09-17 | **Last updated:** 2026-09-17
+# 📮 RSVPs  
+**First created:** 2026-09-17 | **Last updated:** 2026-09-17  
 *Multiple responses, missing joins, contradictory accounts, partial views, and the information that becomes visible when we stop asking which single account is “the story”.*
 
 ---
@@ -1535,7 +1535,7 @@ information governance, comparative analysis, information gaps, evidence provena
 
 ## 🏮 Footer
 
-*RSVPs* is a living node of the **Polaris Protocol**.  
+*📮 RSVPs* is a living node of the **Polaris Protocol**.  
 It provides a comparative information method for preserving distinct accounts,
 identifying unresolved joins, routing answerable questions towards appropriate
 evidence, and updating the analytical state as new information arrives.
