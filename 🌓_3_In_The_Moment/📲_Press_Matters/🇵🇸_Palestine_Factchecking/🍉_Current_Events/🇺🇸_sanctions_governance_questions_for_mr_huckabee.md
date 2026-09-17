@@ -1,5 +1,5 @@
 # 🇺🇸 Sanctions Questions for Mr Huckabee  
-**First created:** 2026-09-09 | **Last updated:** 2026-09-15  
+**First created:** 2026-09-09 | **Last updated:** 2026-09-17  
 *What exactly is the American economic dependency threatened by targeted restrictions on illegal Israeli settlements in the occupied West Bank?*
 
 --- 
@@ -831,7 +831,8 @@ I feel far safer behind the Jewish men standing up for international law, than a
 - [📹: MEE: “Israel's response to the UK's decision to impose sanctions is ‘weak’, said Daniel Levy.”](https://vm.tiktok.com/ZN82Tckwc/)
 - [📰: The New Arab: “UK to expand settlement sanctions to occupied Golan Heights, East Jerusalem”](https://www.newarab.com/news/uk-expanding-settlement-sanctions-golan-heights-e-jerusalem)
 - [📹: Zeteo: “‘The police should proceed with the arrest warrant.’ Ed Davey says the UK should back the ICC warrant for Netanyahu, sanction senior Israeli ministers and go further against illegal Israeli settlements.”](https://vm.tiktok.com/ZN8jKxu51/)
-- [📹: LBC: “Andrew Marr reacts to the UK's sanctions on Israeli settlers.”](https://vm.tiktok.com/ZN8jKXh7s/)  
+- [📹: LBC: “Andrew Marr reacts to the UK's sanctions on Israeli settlers.”](https://vm.tiktok.com/ZN8jKXh7s/)
+- [📹: The Rest Is Politics, via TikTok: “How Ed Miliband's late mum was at the forefront of his mind during his statement on Israel-Palestine.”](https://vm.tiktok.com/ZN86AwCKS/) – *full episode [here](https://youtu.be/xoX-zkB6Ijw?is=qoL7IFdMqkaM4RrY), for instance – side note, there are several very editable moments (TRIP editorial team are On. It.) of approachable British masculinities; this is a good antidote to whatever nonsense this “strongman” era was*
 
 
 --- 
