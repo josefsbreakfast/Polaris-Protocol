@@ -1,5 +1,5 @@
 # 🌙 Draining The High Priestess
-**First created:** 2026-09-14 | **Last updated:** 2026-09-16  
+**First created:** 2026-09-14 | **Last updated:** 2026-09-17  
 *How human judgement, culture, adaptation and vulnerability become extractive training surfaces; why marginalisation can become an information subsidy; and why systems that privatise informational gain while socialising depletion are bad cybernetics, bad defence and often bad value for money.*
 
 ---
@@ -4159,6 +4159,8 @@ And eventually somebody still has to answer the oldest cybernetic question in th
 > תְּנוּ־לָ֭הּ מִפְּרִ֣י יָדֶ֑יהָ וִיהַלְל֖וּהָ בַשְּׁעָרִ֣ים מַֽעֲשֶֽׂיהָ׃
 
 
+*Perhaps the pipe dream is easier to believe, when one’s entire career was made through becoming a great imitator, feeding on data whose providence is questionable, and whose entire currency is persuasion.*  
+
 ---
 
 ## 📚 Sources And Reading
@@ -4271,4 +4273,4 @@ It maps the cybernetic and economic risks that arise when institutions extract v
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-16_
+_Last updated: 2026-09-17_
