@@ -44,50 +44,35 @@ It is also:
 
 That is where this becomes an RSVP.
 
-The leak produces several related but non-identical information objects at once:
-the originating artefacts, Sky's representation and classification of them,
-political responses to that representation, and subsequent policy or
-implementation records.
+The leak produces several related but non-identical information objects at once: the originating artefacts, Sky's representation and classification of them, political responses to that representation, and subsequent policy or implementation records.
 
-Putting those objects beside one another can create questions which none of
-them answers alone.
+Putting those objects beside one another can create questions which none of them answers alone.
 
 
 ---
 
 ## ✨ Key Features
 
-This node treats the leak as an **information environment**, not a single magic
-document.
+This node treats the leak as an **information environment**, not a single magic document.
 
 It:
 
 - distinguishes the wider leaked bundle from the core policy document;
-- preserves source artefact, presentation and reporting as separate information
-  objects;
-- treats visual layout and compression as transformations capable of changing
-  apparent meaning;
+- preserves source artefact, presentation and reporting as separate information objects;
+- treats visual layout and compression as transformations capable of changing apparent meaning;
 - distinguishes evidence provenance from idea provenance;
-- distinguishes policy appearance from policy status, decision and
-  implementation;
-- tests later policy continuity proposal by proposal rather than inferring
-  copying from similarity;
-- treats classification markings as evidence of handling judgement rather than
-  self-explanatory evidence of harm;
-- distinguishes information exposure from acquisition mechanism and
-  attribution;
-- connects implementation anomalies to their appropriate longitudinal evidence
-  nodes;
-- identifies the minimum provenance necessary to make government policy
-  reasoning publicly inspectable;
+- distinguishes policy appearance from policy status, decision and implementation;
+- tests later policy continuity proposal by proposal rather than inferring copying from similarity;
+- treats classification markings as evidence of handling judgement rather than self-explanatory evidence of harm;
+- distinguishes information exposure from acquisition mechanism and attribution;
+- connects implementation anomalies to their appropriate longitudinal evidence nodes;
+- identifies the minimum provenance necessary to make government policy reasoning publicly inspectable;
 - preserves unresolved joins as questions rather than conclusions;
-- uses machines to locate candidate joins without delegating evidential
-  judgement.
+- uses machines to locate candidate joins without delegating evidential judgement.
 
 The governing rule is simple:
 
-> **Where the public record leaves a join unresolved, preserve the gap. Do not
-> manufacture the missing information.**
+> **Where the public record leaves a join unresolved, preserve the gap. Do not manufacture the missing information.**
 
 ---
 
@@ -125,8 +110,7 @@ It is also how one avoids accidentally inventing a better conspiracy than the ev
 
 ## 🕰️ Which Version Are We Looking At?
 
-The bundle is not only a collection of different artefact types. Policy
-development is also iterative.
+The bundle is not only a collection of different artefact types. Policy development is also iterative.
 
 ```text
 draft
@@ -144,17 +128,11 @@ announcement
 
 The dated material is a snapshot.
 
-If a later announcement differs from the April wording, several explanations
-remain possible. The policy may have changed after 23 April. An alternative may
-have been selected. Departmental work may have continued. A presentation may
-have compressed the underlying position. A later government may have altered
-the mechanism. Another version of the April work may have existed.
+If a later announcement differs from the April wording, several explanations remain possible. The policy may have changed after 23 April. An alternative may have been selected. Departmental work may have continued. A presentation may have compressed the underlying position. A later government may have altered the mechanism. Another version of the April work may have existed.
 
-> **Version difference is not noise around the provenance. Version difference
-> can itself be provenance evidence.**
+> **Version difference is not noise around the provenance. Version difference can itself be provenance evidence.**
 
-Before asking whether a later policy matches **the leak**, establish which
-version of the leaked work is actually being compared.
+Before asking whether a later policy matches **the leak**, establish which version of the leaked work is actually being compared.
 
 ---
 
@@ -235,10 +213,7 @@ This is why screenshots matter even where text has been reproduced separately. T
 
 ## 🗃️ The Policy-Card Reconstruction
 
-The following is a working transcription from the policy boards shown in
-Sky's published material and screenshots. It should be treated as a **visual
-reconstruction**, not as a claim that every phrase below is verbatim prose from
-the underlying core submission.
+The following is a working transcription from the policy boards shown in Sky's published material and screenshots. It should be treated as a **visual reconstruction**, not as a claim that every phrase below is verbatim prose from the underlying core submission.
 
 ```text
 STATUS:
@@ -506,97 +481,103 @@ Do not use the political outcome as a universal performance metric for every com
 
 ---
 
-## 🪖 The Training Debrief Join
+## 🪖 The Defence Investment Plan Question
 
-The defence material creates a particularly useful cross-node RSVP.
+One item in the April material is **Publish defence investment plan**.
 
-The policy boards shown in the leak include **Publish defence investment plan**.
-Separately, the `🪖 Training Debrief` cluster is tracking the September 2026
-Army collective-training affordability problem: reporting around an
-approximately **£30 million** saving, changes to major collective-training
-activity, and the still-unresolved chain between wider Defence affordability,
-the selection of training activity, capability consequence and risk ownership.
+That creates a useful longitudinal question. A defence investment plan is not only an announcement or publication event. Depending on its contents and subsequent status, it may provide evidence about planned expenditure, priorities, capability assumptions and the distribution of resources.
 
-Those are independently useful information environments.
-
-Putting them beside one another creates a join.
+Later evidence about affordability pressures or changes in military activity can therefore be placed beside it.
 
 ```text
-APRIL LEAK
-defence policy / investment signal
+DEFENCE INVESTMENT PLAN
+policy / spending proposition
         ↓
-        ?
+what was subsequently
+approved and funded?
         ↓
-LATER TRAINING-SPEND DIP
-tracked longitudinally in
-🪖 TRAINING DEBRIEF
+DEFENCE RESOURCE
+ALLOCATION
+        ↓
+what reached the
+relevant service / activity?
+        ↓
+OBSERVED CHANGES
+IN TRAINING / ACTIVITY
 ```
 
-The existence of both observations does **not** establish that the April work
-caused the later training decision.
+The missing joins matter.
 
-Possible relationships remain open:
+If military training is later reduced, redesigned or deferred for affordability reasons, the earlier existence of an investment plan does not tell us why.
+
+Several relationships remain possible:
 
 ```text
-direct implementation
-partial implementation
-departmental reprioritisation
-wider spending decision
-independent budget pressure
-timing coincidence
-different accounting categories
+planned allocation implemented
+but insufficient
+
+planned allocation changed
+
+resources reprioritised
+
+service-level affordability pressure
+
+different spending categories
+
+later budgetary pressure
+
+implementation delay
+
+unrelated decisions
+
 no causal relationship
 ```
 
-The relevant evidential chain is:
+The useful question is therefore not:
+
+> Did the Defence Investment Plan cause later changes in Army training?
+
+It is:
+
+> **What happened between the policy and spending position represented by the Defence Investment Plan and the resources subsequently available for the affected activity?**
+
+That requires reconstructing the intermediate stages rather than jumping from an earlier policy artefact to a later operational outcome.
 
 ```text
-exact leaked wording
-+ date
-+ policy status
-        ↓
-subsequent Defence settlement
-        ↓
-service / Army affordability position
-        ↓
-training allocation / activity
-        ↓
-reductions / redesign / deferrals
-        ↓
-capability consequence
-        ↓
-risk owner / explanation
+PLAN
+ ↓
+STATUS / APPROVAL
+ ↓
+FUNDING
+ ↓
+ALLOCATION
+ ↓
+SERVICE AFFORDABILITY
+ ↓
+ACTIVITY DECISION
+ ↓
+OPERATIONAL EFFECT
 ```
 
-The longitudinal spending, activity and readiness work belongs in
-[🪖 Training Debrief](../../🌊_Playing_Defence/🪖_Training_Debrief/README.md),
-rather than being duplicated here.
+Each arrow is potentially a separate evidential join.
 
-Its investigation framework already insists on reconstructing the decision
-chain before assigning cause: financial pressure, savings requirement,
-candidate savings, training selected, activity changed, capability changed,
-readiness risk, risk owner.
-
-That is exactly the discipline needed here.
+The categories also need to remain comparable. A headline figure for defence investment, capital expenditure, equipment, readiness, training or a particular service cannot be substituted for another merely because all of them involve defence spending.
 
 ```text
 GAP TYPES:
-TEMPORAL
+
 IMPLEMENTATION
+TEMPORAL
 PROVENANCE
 
 POSSIBLY:
 SEMANTIC
-if expenditure / training categories differ
+if spending categories differ
 ```
 
-> **The leak is relevant because it supplies a possible upstream comparator for
-> a dip already identified elsewhere. It does not, merely by preceding that dip,
-> explain it.**
+> **The Defence Investment Plan provides an earlier policy and spending point against which later affordability evidence can be compared. It does not explain that later evidence by chronology alone. The analytical work sits in the intervening chain: what was approved, what was funded, what was allocated, what changed, and who made each decision.**
 
-This is RSVP doing the thing: two nodes become more informative when placed
-beside one another, while neither is allowed to answer the missing join by
-itself.
+A longer-running examination of Army training expenditure and activity is maintained separately in [🪖 Training Debrief](../../🌊_Playing_Defence/🪖_Training_Debrief/README.md). That material can supply later comparators without requiring either evidence environment to inherit the other's conclusions.
 
 ---
 
@@ -720,12 +701,9 @@ Ordinary provenance is still provenance.
 
 ## 🧾 Minimum Viable Provenance
 
-**Show the working** does not necessarily mean publish every internal workbook,
-personal datum, legally privileged passage, security-sensitive assessment or
-name of every junior official involved.
+**Show the working** does not necessarily mean publish every internal workbook, personal datum, legally privileged passage, security-sensitive assessment or name of every junior official involved.
 
-There is a difference between the complete internal lineage required to govern
-a policy process and the provenance that can responsibly be made public.
+There is a difference between the complete internal lineage required to govern a policy process and the provenance that can responsibly be made public.
 
 ```text
 INTERNAL PROVENANCE
@@ -755,16 +733,11 @@ A minimum public accountability record might include:
 
 This is not a demand to publish protected substance for theatre.
 
-It is a demand that the **reasoning lineage** be made as legible as legitimate
-protection permits.
+It is a demand that the **reasoning lineage** be made as legible as legitimate protection permits.
 
-> **Accountability does not always require publishing the protected substance.
-> It does require making the reasoning lineage as legible as the legitimate
-> protection permits.**
+> **Accountability does not always require publishing the protected substance. It does require making the reasoning lineage as legible as the legitimate protection permits.**
 
-That principle matters especially where government asks the public to accept a
-conclusion while the evidence, model or provenance behind it cannot all be
-released.
+That principle matters especially where government asks the public to accept a conclusion while the evidence, model or provenance behind it cannot all be released.
 
 ---
 
@@ -1386,7 +1359,7 @@ Preserve the previous state as history. Do not preserve it as the current conclu
 
 ---
 
-## 🐙 CRAKEN
+## 🦑 CRAKEN
 
 **Calcaneus Reflexion Anti-Kraken Ecological Navigation System**
 
@@ -1510,7 +1483,8 @@ It uses the April 2026 Downing Street policy leak as a worked RSVP case: separat
 > - [😇 Conservatives Just Asking Questions](./😇_conservatives_just_asking_questions.md) — *parliamentary machinery for converting institutional gaps into bounded questions*
 > - [🪖 Training Debrief](../../🌊_Playing_Defence/🪖_Training_Debrief/README.md) — *longitudinal defence-training evidence relevant to the spending dip raised by the leaked material*
 > - [🏛️ White House Snitches](../../🌊_Playing_Defence/🏛️_White_House_Snitches/README.md) — *information-exposure analysis separating outcome, mechanism and attribution*
-> - [🐣 Ugly Ducklings](../../../../🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md) — *provenance, selective extraction and distributed information systems*
+> - [🐣 Ugly Ducklings](../../../../🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md) — *provenance, selective extraction and distributed information systems*  
+> - [🦑 C.R.A.K.E.N.: Cancellous Reflexion Anti-Kraken Ecological Navigation System](../../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md)  
 >
 > 🏮 Return To:
 >
