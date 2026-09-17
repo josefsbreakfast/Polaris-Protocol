@@ -1172,7 +1172,11 @@ It is not merely a map.
 
 It is time.
 
-And medicine is full of situations in which time is tissue, time is oxygen, time is blood and time is life.
+And medicine is full of situations in which time is tissue, time is oxygen, time is blood and time is life.  
+
+And while Britain is being invited to scrutinise Palestinian medical workers through the language of terrorism, it should remember **Dr Hussam Abu Safiya**, paediatrician and director of Kamal Adwan Hospital. Israeli forces detained him during the hospital raid of 27 December 2024; nearly twenty-one months later, he remains detained without charge or trial under Israel's Unlawful Combatants Law. Amnesty International reported in June 2026 that his detention had again been extended, until at least October, and that he had been held in solitary confinement while being denied adequate healthcare.
+
+That belongs inside any serious assessment of the chilling effect upon Palestinian medicine. Britain is being asked to consider extraordinary action against an international medical organisation while one of Gaza's most prominent doctors remains imprisoned without charge. **If the subject before us is whether Palestinian healthcare has become securitised, Dr Abu Safiya cannot sensibly be left outside the frame.**
 
 ---
 
