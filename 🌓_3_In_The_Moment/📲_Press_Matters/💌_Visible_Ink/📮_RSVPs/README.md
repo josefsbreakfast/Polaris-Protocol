@@ -1,10 +1,8 @@
 # 📮 RSVPs
-
-**First created:** 2026-09-17  
-**Last updated:** 2026-09-17
-
+**First created:** 2026-09-17 | **Last updated:** 2026-09-17
 *Multiple responses, missing joins, contradictory accounts, partial views, and the information that becomes visible when we stop asking which single account is “the story”.*
 
+---
 ## 🛰️ Orientation
 
 An information event happens.
@@ -45,48 +43,110 @@ What comparison can do is make the **missing question legible**.
 
 That is what this folder is for.
 
-## ✨ Key Features
+## 📬 RSVP Is A Role, Not A Species
 
-`📮 RSVPs` is a comparative information method.
+An RSVP is not a permanent species of document.
 
-It asks us to:
-
-- preserve multiple responses before prematurely reconciling them;
-- distinguish an event from representations of the event;
-- identify what each information object can actually establish;
-- compare scope, definitions, timing, provenance and evidential roots;
-- distinguish difference from contradiction;
-- distinguish contradiction from deception;
-- trace information lineage rather than counting echoes as independent evidence;
-- preserve unresolved joins rather than filling them with inference;
-- turn genuine gaps into bounded questions;
-- route those questions towards institutions capable of answering them;
-- treat each new answer as another RSVP rather than automatic closure.
-
-The core loop is:
+It describes the **analytical role an information object occupies in a
+comparison**.
 
 ```text
-INFORMATION EVENT
+EVENT
+what happened
+
+INFORMATION OBJECT
+a record, statement, artefact,
+representation or observation
+
+RSVP
+the role an information object
+occupies in relation to another
+object or information event
+```
+
+The same object can occupy different roles in different analyses.
+
+```text
+SOURCE DOCUMENT
+
+may be:
+
+originating object
+in comparison A
+
+but
+
+RSVP to a later claim
+in comparison B
+```
+
+That matters because a later implementation dataset can be an RSVP to an
+earlier policy proposition. A corrected parliamentary answer can be an RSVP to
+the answer it supersedes. A press report can be a representation of a leaked
+document while also becoming an information event to which politicians respond.
+
+> **RSVP describes a relationship inside an analysis, not an ontological
+> property permanently attached to the object.**
+
+This keeps the method from quietly turning every record into the same kind of
+thing.
+
+---
+
+## ✨ Key Features
+
+RSVP analysis is a recursive comparative information method.
+
+It:
+
+- preserves multiple information objects before reconciliation;
+- distinguishes event, information object and analytical RSVP role;
+- characterises each object's provenance, container, scope and evidential reach;
+- compares like with like before declaring contradiction;
+- traces evidential roots rather than counting echoes;
+- distinguishes evidence provenance from idea provenance;
+- classifies unresolved joins by gap type;
+- distinguishes failed retrieval from evidence of absence;
+- tests explanations against inconvenient alternatives;
+- triages gaps for materiality and answerability;
+- routes worthwhile questions towards appropriate records, institutions or
+  research;
+- treats answers and later evidence as new RSVPs;
+- updates the analytical state when new information arrives;
+- preserves non-closure where the evidence remains insufficient.
+
+The full loop is:
+
+```text
+INFORMATION ENVIRONMENT
         ↓
-MULTIPLE RESPONSES
+INFORMATION OBJECTS
         ↓
-COMPARISON
+CHARACTERISE
         ↓
-GAPS / COLLISIONS
+COMPARE
         ↓
-BOUNDED QUESTIONS
+IDENTIFY GAP
         ↓
-NEW INFORMATION
+CLASSIFY GAP
+        ↓
+TRIAGE
+        ↓
+QUESTION / RESEARCH ROUTE
+        ↓
+NEW INFORMATION OBJECT
         ↓
 NEW RSVP
+        ↓
+UPDATE EVIDENCE STATE
         ↺
 ```
 
-The method is deliberately non-teleological. There is no guarantee that enough responses will eventually produce one perfectly coherent story.
+The point is not to manufacture one final story.
 
-Sometimes the responsible result is a narrower uncertainty.
+It is to make the joins visible enough that they can be tested.
 
-That is still progress.
+---
 
 ## 📬 What Counts As An RSVP?
 
@@ -353,6 +413,8 @@ STRUCTURE
 ROUTE
 +
 TIMING
++
+VERSION
 =
 INFORMATION OBJECT
 ```
@@ -361,13 +423,43 @@ A transcript may preserve every word and still destroy evidence contained in the
 
 This is why screenshots, document versions and presentation layouts can matter even where the text has been extracted correctly.
 
+## 🕰️ Version Is Information
+
+Information objects change.
+
+```text
+V1
+ ↓
+V2
+ ↓
+V3
+```
+
+A later version may add material, remove it, correct an error, change a
+definition, alter the level of certainty, or reflect a different stage of a
+decision.
+
+That means the difference between versions can itself carry information.
+
+Before comparing two objects, ask whether they are actually the same iteration
+of the thing being discussed.
+
+> **Do not compare two versions as though they were one timeless object. The
+> change between them may be part of the evidence.**
+
+This matters particularly for policy development, corrected parliamentary
+answers, updated datasets and changing public guidance.
+
+---
+
 ## 🏷️ Label The RSVP Before Interpreting It
 
 Before interpretation, characterise the object.
 
 | Field | Question |
 |---|---|
-| RSVP | What is it? |
+| Information object | What is it? |
+| RSVP role | What is it being compared with? |
 | Actor | Who produced it? |
 | Date | When? |
 | Container | Article, PQ, document, judgment, statement? |
@@ -461,6 +553,71 @@ Ask whether an account independently corroborates the underlying fact or merely 
 
 This is where provenance becomes more important than volume.
 
+
+A second voice is not necessarily a second evidential root.
+
+```text
+A reports C
+B reports C
+D reports C
+```
+
+may represent:
+
+```text
+three independent corroborations
+```
+
+or:
+
+```text
+A → B → D
+all ultimately derived from C
+```
+
+So preserve two distinctions:
+
+```text
+INDEPENDENT RESPONSE
+≠
+INDEPENDENT EVIDENCE
+
+INDEPENDENT COMMENTARY
+≠
+INDEPENDENT CORROBORATION
+```
+
+> **Count evidential roots separately from the number of voices discussing
+> them.**
+
+## 🎠 Evidence Provenance And Idea Provenance
+
+Provenance has more than one branch.
+
+```text
+             PROPOSITION
+                  │
+        ┌─────────┴─────────┐
+        ↓                   ↓
+EVIDENCE PROVENANCE     IDEA PROVENANCE
+
+Why believe            Where did this
+the problem exists?    explanation,
+                       intervention or
+                       framing come from?
+```
+
+Evidence may originate in one dataset, interpretation in another institution,
+framing in a third, and the proposed intervention somewhere else again.
+
+> **Evidence that X is a problem does not establish the intellectual origin of
+> proposed solution Y.**
+
+That distinction matters beyond policy. A source can support an observation
+without being the origin of the explanation later attached to it.
+
+---
+
 ## 🔍 What Does One Know That The Other Doesn't?
 
 When two responses differ, ask:
@@ -539,6 +696,16 @@ Different gaps require different evidence.
 
 Calling all of them **suspicious** tells us almost nothing.
 
+### Version Gap
+
+The relationship between different iterations of an information object is
+unclear.
+
+### Responsibility Gap
+
+It is unclear who held the record, exercised the authority, or carried the
+institutional responsibility for answering.
+
 ## 🧵 Contradiction Is One Kind Of Gap
 
 A direct contradiction looks something like:
@@ -567,6 +734,64 @@ may be:
 > **Do not upgrade difference into contradiction merely because juxtaposition makes it exciting.**
 
 Contradiction is a useful classification precisely because it should mean something narrower than *these things are not identical*.
+
+## 🔎 No Evidence Found Is Not Always Evidence Of Absence
+
+A search which returns nothing has produced an information object.
+
+It has not automatically proved non-existence.
+
+```text
+SEARCH
+ ↓
+NO RESULT
+```
+
+Before interpreting that result, ask:
+
+```text
+Was the relevant universe searched?
+
+Was the search capable
+of finding the object?
+
+Would the object normally
+be expected to exist there?
+
+Was the relevant period included?
+
+Were the relevant formats,
+accounts or repositories included?
+```
+
+A limited or badly specified search provides weak evidence about whether the
+thing exists.
+
+A reliable search of the expected location, using a method capable of finding
+the object, can make non-retrieval much more informative.
+
+```text
+FAILED / LIMITED RETRIEVAL
+        ↓
+weak evidence about existence
+```
+
+versus:
+
+```text
+RELIABLE SEARCH
+of expected location
+with appropriate method
+        ↓
+NO RESULT
+        ↓
+stronger evidence of absence
+```
+
+> **Absence becomes informative in proportion to our confidence that the search
+> could have found the thing if it existed.**
+
+---
 
 ## 🗺️ Map Before Explaining
 
@@ -659,7 +884,76 @@ If the theory is that two accounts contradict one another, it must permit the di
 
 Preserve the falsifier.
 
-## 🏛️ Route The Question To The Right Institution
+## 🚦 Not Every Gap Needs Chasing
+
+Comparison can generate an unlimited number of differences.
+
+Investigation needs proportionality.
+
+```text
+GAP
+ ↓
+Is it real?
+ ↓
+Is it material?
+ ↓
+Is it answerable?
+ ↓
+Would the answer change
+an analytical, operational,
+legal or public-interest judgement?
+ ↓
+Is there a proportionate
+route to evidence?
+```
+
+Possible outcomes include:
+
+```text
+PURSUE
+
+RECORD FOR LATER
+
+MONITOR
+
+OUT OF SCOPE
+
+INSUFFICIENT MATERIALITY
+
+CURRENTLY UNANSWERABLE
+```
+
+> **A gap can be real without being important enough to pursue.**
+
+Choosing not to pursue it does not require pretending it has been resolved.
+
+This is an important stop rule. RSVP is not an instruction to convert every
+difference between two records into an infinite investigation.
+
+---
+
+## 🏛️ Route The Question
+
+Before choosing the mechanism, separate three questions:
+
+```text
+RECORD HOLDER
+Who possesses the missing evidence?
+
+DECISION OWNER
+Who exercised the relevant authority?
+
+ANSWERING BODY
+Who is institutionally responsible
+for answering through this route?
+```
+
+These can be the same body. They do not have to be.
+
+The route should follow the kind of information required, the institution able
+to supply it, and the mechanism capable of reaching that institution.
+
+ To The Right Institution
 
 Not every gap is answerable through the same mechanism.
 
@@ -733,6 +1027,82 @@ Non-closure does not mean refusing conclusions.
 
 It means refusing to close the system before the evidence warrants it.
 
+## 🔄 Update The Evidence State
+
+A new RSVP should alter the state of the analysis where the evidence warrants
+it.
+
+```text
+NEW RSVP ARRIVES
+      ↓
+CHARACTERISE IT
+      ↓
+MAP IT TO EXISTING GAP
+      ↓
+TEST COMPARABILITY
+      ↓
+UPDATE STATE
+```
+
+Use a controlled vocabulary.
+
+### Closed
+
+The relevant question has been answered to the required evidential threshold.
+
+### Narrowed
+
+Some uncertainty has been removed but a smaller gap remains.
+
+### Corroborated
+
+The new RSVP independently supports an existing proposition.
+
+### Contradicted
+
+The new evidence materially conflicts with an existing proposition under
+comparable scope, definitions and evidential conditions.
+
+### Displaced
+
+The question belongs elsewhere. Another institution, record set or analytical
+route is required.
+
+### Superseded
+
+A later version or correction replaces an earlier current account while the
+historical state remains preserved.
+
+### Unresolved
+
+The new RSVP does not materially answer the gap.
+
+### New Gap Created
+
+The answer exposes another missing join.
+
+The recursive loop is:
+
+```text
+GAP
+ ↓
+QUESTION
+ ↓
+ANSWER / NEW EVIDENCE
+ ↓
+STATE CHANGE
+ ↓
+STOP / FOLLOW / MONITOR / REROUTE
+```
+
+> **New evidence should change the state of the analysis, not merely accumulate
+> underneath the story that caused us to look for it.**
+
+A superseded RSVP remains part of the history even when it is no longer the
+current account.
+
+---
+
 ## 📁 Fightback Plan Leaks — Show The Working
 
 `📁 Fightback Plan Leaks` is the first worked example in this folder.
@@ -768,6 +1138,24 @@ The leak creates information and creates questions at the same time.
 The node therefore asks government to **show the working** rather than treating appearance in a policy pack as the end of provenance.
 
 **[📁 Fightback Plan Leaks](./📁_fightback_plan_leaks.md)**
+
+
+The Army-training material now demonstrates a cross-node RSVP directly:
+
+```text
+APRIL LEAK
+possible upstream comparator
+        ↓
+        ?
+        ↓
+🪖 TRAINING DEBRIEF
+longitudinal spending / activity evidence
+```
+
+The point is not to infer the missing causal relationship.
+
+The point is that putting the two evidence environments beside one another
+makes an implementation join visible enough to investigate.
 
 ## 😇 Conservatives Just Asking Questions — Ask For The Missing Join
 
@@ -961,6 +1349,38 @@ The purpose of these controls is not to make investigation timid.
 
 It is to make it harder to knock over.
 
+### The Infinite-Gap Failure
+
+```text
+every difference
+ ↓
+new investigation
+ ↓
+every answer
+ ↓
+three more investigations
+```
+
+**Countermeasure:** triage for materiality, answerability and proportionality.
+
+### The Accumulation Failure
+
+New evidence is appended but never changes the working model.
+
+**Countermeasure:** mandatory evidence-state update.
+
+### The Absence Failure
+
+No result is silently upgraded into proof that the object never existed.
+
+**Countermeasure:** evaluate search capability before interpreting absence.
+
+### The Version-Flattening Failure
+
+Different iterations of a record are treated as one timeless statement.
+
+**Countermeasure:** preserve version and correction history.
+
 ## 🐙 CRAKEN
 
 **Calcaneus Reflexion Anti-Kraken Ecological Navigation System**
@@ -1043,71 +1463,98 @@ Do not answer uncertainty by manufacturing certainty.
 
 Use the uncertainty to formulate the next question.
 
-## 🌌 Constellations
-
-The folder architecture is:
 
 ```text
-                         💌 VISIBLE INK
-                              │
-                              ↓
-                           📮 RSVPs
-                              │
-                    THE COMPARATIVE METHOD
-                              │
-                 information between responses
-                              │
-                   ┌──────────┴──────────┐
-                   ↓                     ↓
-          📁 FIGHTBACK PLAN       😇 CONSERVATIVES
-               LEAKS              JUST ASKING QUESTIONS
-                   │                     │
-          SHOW THE WORKING         ASK FOR THE WORKING
-                   │                     │
-                   └──────────┬──────────┘
-                              ↓
-                       NEW INFORMATION
-                              ↓
-                          NEW RSVP
-                              ↺
+information object
+≠ permanent RSVP role
+
+independent response
+≠ independent evidence
+
+unknown provenance
+≠ improper provenance
+
+no result
+≠ evidence of absence
+
+record holder
+≠ decision owner
+
+decision owner
+≠ answering body
+
+earlier version
+≠ current version
+
+new evidence
+≠ support for old theory
+
+answer received
+≠ gap resolved
+
+real gap
+≠ material gap
 ```
 
-Related constellations:
+Operational checklist:
 
-- **[💌 Visible Ink](../README.md)** — information containers, routes, exposure and public legibility.
-- **[📁 Fightback Plan Leaks](./📁_fightback_plan_leaks.md)** — artefact provenance, policy continuity and the missing workbook.
-- **[😇 Conservatives Just Asking Questions](./😇_conservatives_just_asking_questions.md)** — bounded questions, public records and institutional checking.
-- **[🏛️ White House Snitches](../../🌊_Playing_Defence/🏛️_White_House_Snitches/README.md)** — distinguish information outcome, acquisition mechanism and attribution.
-- **[🐣 Ugly Ducklings](../../../../🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md)** — provenance, selective extraction and distributed information systems.
-- **[📲 Press Matters](../../README.md)** — the wider media and public-information environment.
-- **[Polaris Protocol](../../../../README.md)** — root navigation.
+1. What happened?
+2. What information objects exist?
+3. What RSVP role does each occupy here?
+4. Who produced each object?
+5. Which version?
+6. What could each actor actually know?
+7. What evidence does each object rely upon?
+8. How many independent evidential roots exist?
+9. Are the objects genuinely comparable?
+10. Where exactly is the missing join?
+11. What type of gap is it?
+12. Is absence genuinely informative here?
+13. What alternative explanations remain?
+14. What would falsify the working explanation?
+15. Is the gap material enough to pursue?
+16. Who could possess the missing information?
+17. Which route can retrieve it?
+18. What does the new RSVP actually establish?
+19. How does the evidence state change?
+20. Stop, follow up, monitor or reroute?
 
-## ✨ Stardust
+## 🌌 Constellations
 
-`RSVPs` · `information gaps` · `institutional collision` · `multiple accounts` · `distributed information` · `provenance` · `representation` · `editorial compression` · `source lineage` · `independent evidence` · `evidential roots` · `scope` · `semantics` · `custody` · `attribution` · `implementation` · `classification` · `retrieval` · `public records` · `parliamentary questions` · `machine-assisted scrutiny` · `human judgement` · `error correction` · `non-closure` · `Visible Ink` · `CRAKEN`
-
-## 🏮 Sometimes The Answer Is Between Them
-
-An RSVP tells us something.
-
-Sometimes it tells us what happened. Sometimes it tells us what an institution believes happened, what a journalist could establish, what a politician wants examined, what a department's records contain, or what somebody thinks the available evidence means.
-
-Put those responses beside one another before forcing them into a single story.
-
-Some will corroborate. Some will contradict. Some will turn out to have been answering completely different questions.
-
-And sometimes neither account contains the most useful information.
-
-> **Sometimes the interesting information is in the gap between them.**
-
-Do not fill the gap because it is uncomfortable.
-
-Make it legible.
-
-Ask what belongs there.
-
-Then send another RSVP. 📮
+💌 📁 😇 🐣 🕸️ — Visible Ink information objects, worked provenance and
+parliamentary cases, evidential lineage, and distributed information
+environments.
 
 ---
 
-*Polaris treats survivor authorship and analytical sovereignty as load-bearing. Evidence may be incomplete without being empty; uncertainty may be preserved without being surrendered; and containment is never neutral.*
+## ✨ Stardust
+
+information governance, comparative analysis, information gaps, evidence provenance, source lineage, institutional scrutiny, evidence states, non-closure, rsvp analysis
+
+---
+
+## 🏮 Footer
+
+*RSVPs* is a living node of the **Polaris Protocol**.  
+It provides a comparative information method for preserving distinct accounts,
+identifying unresolved joins, routing answerable questions towards appropriate
+evidence, and updating the analytical state as new information arrives.
+
+> 📡 Cross-references:
+>
+> - [📁 Fightback Plan Leaks](./📁_fightback_plan_leaks.md) — *worked case in artefact reconstruction, policy provenance, representation and implementation gaps*
+> - [😇 Conservatives Just Asking Questions](./😇_conservatives_just_asking_questions.md) — *institutional question-routing through written parliamentary scrutiny*
+> - [🪖 Training Debrief](../../🌊_Playing_Defence/🪖_Training_Debrief/README.md) — *longitudinal evidence environment demonstrating how an external comparator can create a new implementation join*
+> - [🏛️ White House Snitches](../../🌊_Playing_Defence/🏛️_White_House_Snitches/README.md) — *separation of information outcome, acquisition mechanism and attribution*
+> - [🐣 Ugly Ducklings](../../../../🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md) — *provenance, distributed information and evidential-lineage discipline*
+>
+> 🏮 Return To:
+>
+> - [💌 Visible Ink](../README.md) — *1up*
+> - [📲 Press Matters](../../README.md) — *2up*
+> - [🌓 In The Moment](../../../README.md) — *3up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-17_
