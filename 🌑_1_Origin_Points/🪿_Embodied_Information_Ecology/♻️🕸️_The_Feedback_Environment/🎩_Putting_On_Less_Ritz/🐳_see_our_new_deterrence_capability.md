@@ -58,6 +58,72 @@ It is a gift.
 
 ---
 
+## 🤨 Fix Our Admin Or We Will Send Him
+
+The deterrence doctrine can now be stated with appropriate British clarity.
+
+> **America.**
+>
+> **Fix our admin. 🤨**
+>
+> We are tired.
+>
+> We have asked nicely.
+>
+> We have produced documentation.
+>
+> We have identified the feedback loops.
+>
+> **Do not make us escalate.**
+
+Washington may reasonably ask what escalation means.
+
+Britain does not answer.
+
+Britain simply opens the storage cupboard.
+
+```text
+                 🎪
+          ┌───────────────┐
+          │     TONY      │
+          │  👁️       👁️  │
+          │               │
+          │   INSERT 🪙   │
+          └───────────────┘
+                  ↓
+               *clunk*
+                  ↓
+ "What we need is a new transatlantic
+   framework for transformative
+            government—"
+```
+
+Washington:
+
+> “Is that Blair?”
+
+Britain:
+
+> **FIX. OUR. ADMIN.**
+
+There is a short silence.
+
+> “Okay.”
+
+**Good.** 😌
+
+Britain slowly wheels Tony back into storage.
+
+The mechanism is neither anti-American nor especially hostile. It is an
+exhausted allied service announcement: **please resolve the interoperability,
+dependency and administrative feedback problems before Britain is forced to
+activate the Tony.**
+
+This is the lowest rung on the escalation ladder at which the diagram becomes
+a carnival machine.
+
+---
+
 ## 🐳 Deterrence Through Custody
 
 Traditional deterrence tries to make another state believe that the cost of an action will exceed its benefit.
@@ -457,6 +523,7 @@ AI MODE                                highly responsive
 1950s ATLANTIC REGISTER                🪙 premium
 AMERICAN LEADERSHIP PHRASE PACK        included
 DELUXE WARDROBE SUPPORT                included
+SCOTTISH HERITAGE COMPATIBILITY          included
 OFF SWITCH                             not located
 ```
 
@@ -465,6 +532,70 @@ At this point the product proposition is extremely straightforward:
 **British accent + likes tech + tells America it is important.**
 
 The machine has been prepared for its new habitat.
+
+---
+
+## 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Heritage Compatibility Pack
+
+There is one further compatibility feature Britain would like to draw to the
+attention of the receiving state.
+
+Tony Blair was born in Edinburgh.
+
+Donald Trump's mother, Mary Anne MacLeod Trump, was born on the Isle of Lewis.
+
+Britain therefore sees no reason why the new arrangement should not include
+**bonding opportunities**.
+
+```text
+AMERICA:
+"Will they get on?"
+
+BRITAIN:
+"Well, they've both got Scottish things going on."
+
+AMERICA:
+"What does that mean?"
+
+BRITAIN:
+"BUDDIES."
+```
+
+The Scottish Heritage Compatibility Pack requires no specialist installation.
+
+🪙
+
+*clunk*
+
+Tony:
+
+> “Scotland and America have long shared deep historic connections—”
+
+Britain, pointing excitedly at the cabinet:
+
+> **LOOK. BONDING ALREADY.**
+
+The pack should not be confused with **1950s Atlantic Heritage Mode**.
+
+These are separate systems.
+
+```text
+SCOTTISH HERITAGE COMPATIBILITY
+        ↓
+biographical / family connection
+        ↓
+possible buddy material
+
+1950s ATLANTIC REGISTER
+        ↓
+premium rhetorical setting
+        ↓
+requires additional coin
+```
+
+Tony's Edinburgh factory settings are provenance.
+
+**“Our two great nations” costs extra.**
 
 ---
 
