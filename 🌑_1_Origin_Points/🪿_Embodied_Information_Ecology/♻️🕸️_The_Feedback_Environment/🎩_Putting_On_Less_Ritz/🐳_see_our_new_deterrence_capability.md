@@ -322,6 +322,152 @@ This should be discouraged.
 
 ---
 
+## 👔 Deluxe Wardrobe Support
+
+America may, naturally, wish to customise its new machine.
+
+Britain is prepared for this.
+
+> “Can we dress him up?”
+
+The British export officer looks down at the clipboard.
+
+> **SIR, WE CAN PROVIDE OUTFITS.**
+
+The **Tony Blair Zoltar Machine Deluxe Accessory Pack** is available at no
+additional strategic cost.
+
+```text
+CLASSIC PRIME MINISTER TONY
+dark suit / red tie / concerned expression
+
+SPECIAL RELATIONSHIP TONY
+additional flag backdrop
+"our closest ally" phrase pack enabled
+
+TECH TONY
+open collar
+minimalist trainers
+stands beside screen containing FUTURE
+
+ZOLTAR TONY
+waistcoat
+small carnival hat
+visibly pleased to receive coin
+
+1950s ATLANTIC TONY
+sombre statesman suit
+HERITAGE MODE enabled
+
+GLOBAL STATESMAN TONY
+conference lanyard
+removal not supported
+
+SEASONAL TONY
+standard Tony
++ Santa hat
+```
+
+Changing the outfit does not substantially alter the underlying machine.
+
+🪙
+
+Tech Tony:
+
+> “Technology offers an enormous opportunity.”
+
+Change outfit.
+
+🪙
+
+1950s Atlantic Tony:
+
+> “Technology offers an enormous opportunity to our two great nations.”
+
+Donald:
+
+> “Incredible.”
+
+Britain:
+
+> **HE'S HAVING SUCH A NICE TIME. LEAVE THEM TO IT.**
+
+The wardrobe is therefore decorative rather than architectural. The same
+strategic-advice engine remains underneath; the receiving environment simply
+gets to choose the packaging.
+
+This is, regrettably, also quite a useful metaphor.
+
+---
+
+## 💻 Tech Enthusiast — Factory Installed
+
+The Tony Blair Zoltar Machine does not merely tolerate technology.
+
+**He likes tech.**
+
+This considerably improves compatibility with the intended receiving habitat.
+
+```text
+AMERICA:
+"Does he like tech?"
+
+BRITAIN:
+"Very much, sir. AI especially."
+
+AMERICA:
+"Very smart."
+
+                    🪙
+                  *clunk*
+
+TONY:
+"Technology presents an extraordinary
+opportunity to transform government."
+
+AMERICA:
+"I told you. Smart machine."
+```
+
+Further coin produces additional technology output.
+
+🪙
+
+> “We have to be prepared to move quickly.”
+
+🪙
+
+> “The countries which embrace this transformation will have an enormous
+> advantage.”
+
+America may then ask:
+
+> “Can we put him near the computers?”
+
+Britain:
+
+> **YES. ABSOLUTELY. WHATEVER YOU LIKE.**
+
+The updated transfer inventory should therefore read:
+
+```text
+BRITISH ACCENT                         installed
+TECH ENTHUSIASM                        factory installed
+AI MODE                                highly responsive
+1950s ATLANTIC REGISTER                🪙 premium
+AMERICAN LEADERSHIP PHRASE PACK        included
+DELUXE WARDROBE SUPPORT                included
+OFF SWITCH                             not located
+```
+
+At this point the product proposition is extremely straightforward:
+
+**British accent + likes tech + tells America it is important.**
+
+The machine has been prepared for its new habitat.
+
+---
+
 ## 🧠 What The Joke Is Actually Doing
 
 Underneath the Tony delivery mechanism sits a recognisable feedback problem.
