@@ -599,6 +599,104 @@ Tony's Edinburgh factory settings are provenance.
 
 ---
 
+## 🧾 The Administrative Off-Ramp
+
+The doctrine has an off-ramp.
+
+Britain does not actually have to surrender Tony permanently.
+
+America keeps him **until the admin is sorted**.
+
+```text
+UK ADMIN PROBLEM
+       ↓
+ordinary requests
+       ↓
+still not fixed
+       ↓
+TONY DEPLOYED
+       ↓
+temporary US custody
+       ↓
+admin gets fixed
+       ↓
+Britain retrieves Tony
+       ↓
+normal relations resume
+```
+
+This is important because a credible deterrent should provide the receiving
+state with a clear route back down the escalation ladder.
+
+America controls the duration of Tony exposure.
+
+> “When are you collecting him?”
+
+Britain:
+
+> “When the admin's fixed.”
+
+> “And until then?”
+
+Britain gestures towards the corner.
+
+```text
+        🎪
+   ┌─────────────┐
+   │    TONY     │
+   │ 👁️       👁️ │
+   │             │
+   │ INSERT  🪙  │
+   └─────────────┘
+```
+
+🪙
+
+> “If we really want to transform government—”
+
+> “We're working on it.”
+
+**Wonderful.**
+
+Donald Trump is not deprived of access during the administrative dispute. He
+may visit Tony and insert coins whenever he wishes.
+
+Indeed, from his perspective the arrangement may be excellent.
+
+🪙
+
+> “The President has shown extraordinary leadership.”
+
+🪙🪙
+
+`ATLANTICISM — HERITAGE MODE`
+
+> “The United States, under the President's leadership, stands at the centre of
+> a historic moment for the free world.”
+
+Donald:
+
+> “I love this machine.”
+
+Britain:
+
+> **YES. WE THOUGHT YOU MIGHT.**
+
+This produces the unusual strategic condition in which the temporary custodian
+may be delighted with the deterrent while the officials responsible for fixing
+the administrative problem remain strongly motivated to make Britain come and
+collect it.
+
+Donald gets to be told how great he is in a premium 1950s register.
+
+The administrators get Tony.
+
+**Everybody understands the incentive structure.**
+
+Humanitarian access to the Zoltar Machine remains unaffected by the dispute.
+
+---
+
 ## 🧠 What The Joke Is Actually Doing
 
 Underneath the Tony delivery mechanism sits a recognisable feedback problem.
