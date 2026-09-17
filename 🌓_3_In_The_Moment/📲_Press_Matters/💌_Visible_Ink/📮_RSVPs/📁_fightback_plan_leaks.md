@@ -1,448 +1,853 @@
 # 📁 Fightback Plan Leaks
-**First created:** 2026-09-17 | **Last updated:** 2026-09-17  
-*An RSVP to the leaked April 2026 Downing Street policy and strategy bundle: what the artefacts show, what the reactions add, and what still needs its working shown.*
 
----
+**First created:** 2026-09-17  
+**Last updated:** 2026-09-17
+
+*The leaked Downing Street policy bundle, the provenance hidden by presentation, and what can — and cannot — be learned by putting documents, reporting, political responses and subsequent policy beside one another.*
 
 ## 🛰️ Orientation
 
-In September 2026, Sky News reported that it had obtained a roughly 50-page bundle of presentations, strategy material and policy submissions produced in and around Downing Street in April 2026, during the final months of Keir Starmer's premiership.
+On 17 September 2026, Sky News reported that it had obtained what deputy political editor Sam Coates described as a **50-page bundle of presentations, strategy ideas and policy submissions** drawn up in April 2026 during an attempt to stabilise Sir Keir Starmer's government.
 
-Sky described a **core document dated 23 April 2026** containing around 50 policy ideas, alongside other presentations and strategy material. The distinction matters.
+Sky separately described a **core document**, dated **23 April 2026**, containing around **50 policy ideas** and circulated around Number 10 and parts of the Civil Service. The material shown publicly also includes presentation slides and strategy material. From the material Sky reproduced and displayed, the core policy submission appears to occupy only part of the wider bundle — roughly a dozen pages in the visible reconstruction — rather than being synonymous with all fifty pages.
 
-The evidence visible in Sky's reporting suggests that the bundle was not simply one 50-page policy paper. It appears to contain multiple artefacts, including a policy submission of roughly 13 pages and presentation slides. Some of those slides may be mundane and never appear in broadcast reporting. Absence from the television package is therefore not evidence of absence from the bundle.
+That distinction matters.
 
-Nor should the approximately 50 policy ideas be confused with the approximately 50 pages in the wider bundle.
+```text
+LEAKED DOWNING STREET BUNDLE
+April 2026
+~50 pages, according to Sky
+│
+├── PRESENTATIONS / SLIDES
+│   ├── "Policy agenda – May-Autumn"
+│   ├── political / strategy material
+│   ├── themed policy boards
+│   └── other presentation material
+│
+├── POLICY SUBMISSION MATERIAL
+│
+└── CORE POLICY DOCUMENT
+    └── dated 23 April 2026
+        └── around 50 policy ideas
+```
 
-The useful object of study is consequently not only *what policies were in it?*
+This is a **reconstruction from material Sky has published and shown**, not an independently authenticated contents list for every page of the leaked bundle. Sky's reporting establishes that it says it possesses the wider bundle and has reproduced the core document; the public material does not, by itself, establish that every slide, appendix, working paper or page in the bundle has been shown.
+
+That is not a complaint. Journalism selects. It is simply part of the provenance.
+
+The interesting question is therefore not merely:
+
+> **What did the leak say?**
 
 It is also:
 
-- what kind of artefact was each page or slide?
-- who produced it?
-- what evidence fed it?
-- where did the ideas originate?
-- what transformations occurred between source material and final policy card?
-- why were some artefacts marked `OFFICIAL` and others `OFFICIAL-SENSITIVE`?
-- what happened to the proposals afterwards?
-- and what, exactly, does publication establish about how the material left its intended information environment?
+> **Which artefact said it, how was it represented, where did the underlying evidence and ideas come from, what happened afterwards, and what remains missing between those records?**
 
-The PowerPoint is an output.
-
-**Show the working.**
+That is where this becomes an RSVP.
 
 ---
 
 ## ✨ Key Features
 
-This node keeps several evidential objects separate:
+This node treats the leak as an **information environment**, not a single magic document.
 
-```text
-LEAKED ARTEFACTS
-        ↓
-document provenance
-        ↓
-evidence + idea provenance
-        ↓
-Sky extraction / classification
-        ↓
-subsequent policy record
-        ↓
-political reactions
-        ↓
-public narrative
-```
+It separates:
 
-It therefore does **not** assume that:
+- the wider leaked bundle from the core policy document;
+- source prose from policy-card compression;
+- visual structure from flat transcription;
+- policy ideas from decisions and implementation;
+- Sky's classification from classifications contained in the source;
+- evidence provenance from idea provenance;
+- political failure from policy or delivery failure;
+- `OFFICIAL` from `OFFICIAL-SENSITIVE`;
+- an information outcome from its acquisition mechanism;
+- network topology from agency;
+- later similarity from causal inheritance;
+- political responses from the underlying artefacts;
+- machine-assisted comparison from human judgement.
 
-```text
-appears in No.10 pack
-        =
-originated in No.10
+The governing rule is simple:
 
-similar later policy
-        =
-copied from the pack
-
-publication
-        =
-identified leaker
-
-beneficiary
-        =
-source
-
-OFFICIAL-SENSITIVE
-        =
-unpublishable forever
-
-policy idea
-        =
-policy implementation
-
-political failure
-        =
-policy failure
-```
+> **Where the public record leaves a join unresolved, preserve the gap. Do not manufacture the missing information.**
 
 ---
 
-## 📦 What Appears To Be In The Bundle
+## 🧱 The Bundle Is Not The Core Document
 
-On the material made visible by Sky, the safest working model is:
+A surprisingly large amount of confusion can be generated by the phrase **"the leaked document"**.
 
-```text
-APRIL 2026 DOWNING STREET BUNDLE
-~50 pages
-│
-├── core policy submission
-│   └── ~50 policy ideas
-│
-├── presentation material
-│   ├── "Policy agenda – May-Autumn"
-│   ├── Economic Security
-│   ├── Energy Security
-│   ├── National Security
-│   └── other slides not necessarily shown publicly
-│
-└── strategy / political presentation material
-    └── including discussion of political positioning,
-        mistakes, faction and relaunch
-```
+There are several different information objects here:
 
-This remains a reconstruction from the material Sky has exposed, not a verified table of contents for the complete bundle.
+| Layer | What We Currently Have |
+|---|---|
+| Wider bundle | Sky describes approximately 50 pages of presentations, strategy ideas and policy submissions |
+| Core document | Dated 23 April 2026; Sky says it contains around 50 ideas and reproduces its text |
+| Slides | Selected images and video frames shown by Sky |
+| Underlying prose | Longer wording visible or reproduced for some propositions |
+| Policy cards | Short labels used to present proposals |
+| Sky analysis | Sky's later coding of what happened to the approximately 50 ideas |
+| Political reactions | Responses to Sky's publication and interpretation |
+| Later policy record | Subsequent announcements, decisions, spending and implementation evidence |
 
-That distinction should remain visible.
+Those objects are related. They are not interchangeable.
 
-A television report is selective by design. A boring slide may simply be a boring slide.
+A sentence from a slide is not automatically a sentence from the core policy submission. A compact policy card is not automatically the full policy proposition. Sky's description of a policy is not automatically wording written by the original policy team. A politician responding to the story is not describing the document from a neutral position outside politics.
 
----
+Before interpreting a sentence:
 
-## 🗂️ The Policy Cards
+> **Establish which object actually contains it.**
 
-Across the broadcast frames, Sky displayed a set of policy cards spanning economic, energy and national-security themes. Examples visible in those cards include:
+This sounds boring because it is records management.
 
-- publishing a defence investment plan;
-- a national AI security programme;
-- an AI biodefence lab;
-- incentives for UK AI companies to remain in the UK;
-- critical-mineral supply;
-- planning reform;
-- childcare costs;
-- leasehold costs;
-- social cohesion;
-- social-media restrictions for under-16s;
-- social-care profit controls;
-- pension investment in UK equities;
-- infrastructure and transport proposals;
-- insulation and electrification;
-- small modular reactors;
-- North Sea production and revenues;
-- energy-bill support;
-- fiscal devolution;
-- and procurement from British firms.
+It is also how one avoids accidentally inventing a better conspiracy than the evidence can support.
 
-These compact labels should not automatically be treated as verbatim reproductions of the underlying submission.
-
-One enlarged North Sea passage shown by Sky demonstrates why.
-
-The fuller material used conditional and exploratory language around linking North Sea revenues to clean-energy investment or lower bills, reviewing the windfall-tax regime, and exploring whether further production could be tied to domestic supply in order to reduce exposure to global price shocks.
-
-A television card compressing that material into a short policy label is useful editorially.
-
-It is not the same evidential object.
-
-```text
-SOURCE MATERIAL
-"could explore..."
-"including..."
-"should also explore..."
-        ↓
-EDITORIAL / PRESENTATIONAL COMPRESSION
-short policy card
-        ↓
-POLITICAL REACTION
-        ↓
-PUBLIC MEMORY OF "THE POLICY"
-```
-
-When testing continuity, copying, abandonment or implementation, return to the least-compressed available version.
 
 ---
 
-## 🧮 It Failed At What?
+## 🗂️ Fifty Policies — But Whose Classification?
 
-The phrase *the plan failed* needs a denominator.
-
-The political attempt to preserve Starmer's premiership can fail while individual policy propositions remain viable, migrate into later government work, or eventually become policy.
-
-Those are different outcomes.
+Sky says it analysed the approximately 50 ideas in the core document and reached the following breakdown:
 
 ```text
-POLICY IDEA
-    ↓
-prioritisation
-    ↓
-realisation / delivery
-    ↓
-departmental execution
-    ↓
+~50 POLICY IDEAS
+
+Sky's analysis:
+
+20 → announced by Starmer before his departure in July
+
+ 6 → already announced by Burnham
+
+ 8 → expected by Sky to be announced in coming weeks
+
+16 → worked up by Whitehall but,
+     according to Sky,
+     announced by neither prime minister
+```
+
+That **20 / 6 / 8 / 16** split is important evidence about **Sky's analysis**.
+
+It is not a classification printed onto the April document.
+
+That immediately creates methodological questions.
+
+What counts as "announced"? How similar must two policies be before they are counted as the same policy? Does an inherited departmental programme count as continuity from Starmer, continuity from Whitehall, or simply the continuation of government? What if the objective survives but the mechanism changes? What if a policy existed before the April exercise and merely appeared in the pack? What if a later government independently confronts the same constraint and reaches a similar answer?
+
+Sky itself notes an obvious structural reason for some continuity: a mid-term prime minister inherits many of the same problems, institutions and personnel.
+
+So the useful task is not to accept or reject "continuity PM" as a single binary proposition.
+
+It is to test continuity **proposal by proposal**.
+
+---
+
+## 🖼️ Layout Is Data Too
+
+The material shown by Sky does not consist only of prose.
+
+Slides and boards organise policy material visually. In the screenshots, policies appear under thematic structures including **Economic Security**, **Energy Security** and **National Security**. A slide headed **"Policy agenda – May-Autumn"**, dated **23 April 2026**, shows policy work as a designed presentation object rather than merely a list of sentences.
+
+That matters because transcription can preserve words while destroying structure.
+
+```text
+TEXT EXTRACTION
+can preserve:
+
+words
+labels
+individual propositions
+
+VISUAL STRUCTURE
+may additionally preserve:
+
+grouping
+hierarchy
+proximity
+sequence
+status
+emphasis
+relationships
+categorisation
+```
+
+A cluster of cards may tell us how the presentation grouped issues. A heading may tell us which policy problem the authors believed a proposal belonged to. Position and sequence may preserve prioritisation or workflow.
+
+Or they may simply be layout choices.
+
+> **Layout is evidence about how material was presented. It is not automatically evidence about causal relationships between the things placed beside one another.**
+
+This is why screenshots matter even where text has been reproduced separately. The information object is not only the words.
+
+---
+
+## 🗃️ The Policy-Card Reconstruction
+
+The following is a working transcription from the policy boards shown in Sky's published material and screenshots. It should be treated as a **visual reconstruction**, not as a claim that every phrase below is verbatim prose from the underlying core submission.
+
+### Board Group One
+
+- Publish defence investment plan
+- Regulate more online political material
+- State-sponsored threat proscription law
+- Support gas-intensive chemicals production
+- Incentivise UK AI companies to stay
+- Secure critical mineral supply
+- Powers to suspend regulations to drive growth
+- Radical planning reform
+- Delay fuel duty rise
+- Ease red tape to lower food costs
+- VAT cut on summer family attractions
+- New digital childcare tool
+- Anti-profiteering framework
+- CMA review into unfair childcare costs
+- Leasehold cost reform
+- Neighbourhood services guarantee
+- House-buying process cost reduction
+- Accelerate social cohesion plan
+- Ban social media for under-16s
+- Halve extra-curricular participation gap
+
+### Board Group Two
+
+- Back residential conversion on high streets
+- Private finance to revive town centres
+- National AI security programme
+- AI biodefence lab
+- More cuts to adult apprenticeships to fund young people
+- New Help to Buy scheme
+- Reform high marginal tax rates
+- Social care profit cap
+- CMA investigation on private equity in SEND and social care
+- Pension funds prioritise UK equities
+- Let public corporations borrow against future revenue
+- Leeds and Birmingham trams
+- War effort on insulation and electrification
+- Move bad energy debt from bills to Treasury
+- Support Rolls-Royce narrowbody bid
+- Accelerate SMR programme
+
+### Board Group Three
+
+- Reform water industry
+- Opportunity-based welfare reform
+- Conclude new EU deal
+- Reform capital and property tax
+- Increase North Sea production
+- Link North Sea revenues to lower bills
+- Ease electric vehicle mandate
+- Guarantee new North Sea energy used domestically
+- Tackle "dodgy" high street shops
+- Public transport discounts
+- Energy bill support
+- Fiscal devolution to mayors
+- Fingleton approach to infrastructure
+- Procure more from British firms
+
+The value of preserving the cards is not that they settle what the underlying proposals meant.
+
+It is almost the opposite.
+
+They give us a structured index against which the **longer wording, evidence base, provenance, subsequent announcement and implementation record** can be compared.
+
+---
+
+## 📝 The Headline Is Not Necessarily The Proposal
+
+One of the cleanest examples is North Sea policy.
+
+A visible compact label reads:
+
+> **LINK NORTH SEA REVENUES TO LOWER BILLS**
+
+The longer wording shown in the material is substantially more conditional. It discusses exploring options to connect North Sea revenues with either clean-energy investment or lower bills, including possible review of the windfall-tax regime, while separately exploring whether further North Sea production could be tied to guaranteed domestic supply.
+
+The proposition therefore has a structure closer to:
+
+```text
+could explore options
+        ↓
+link North Sea revenues
+        ↓
+clean-energy investment
+OR
+lower bills
+        ↓
+including possible review
+of windfall-tax arrangements
+
+PLUS
+
+explore whether
+further North Sea production
+could be tied to domestic supply
+        ↓
+reduce exposure to global prices
++ enhance energy independence
+```
+
+Compare that with:
+
+```text
+LINK NORTH SEA REVENUES
+TO LOWER BILLS
+```
+
+The short card is not necessarily false.
+
+It is **lower-dimensional**.
+
+The source is exploratory, conditional and contains alternatives. The card makes one leg of that structure much more visually prominent.
+
+> **Editorial or presentational compression can preserve the topic while changing the apparent certainty, scope and causal structure of the proposition.**
+
+That matters when a later political response treats a card as though it were the complete policy position.
+
+It also matters when a machine extracts only the card.
+
+---
+
+## 🎛️ Policy Proposal, Policy Development, Policy Decision
+
+Appearance in the April pack does not by itself tell us the status of an idea.
+
+A proposition may move through something like:
+
+```text
+idea
+ ↓
+option
+ ↓
+proposal
+ ↓
+policy under development
+ ↓
+preferred option
+ ↓
+ministerial decision
+ ↓
+announcement
+ ↓
+funded programme
+ ↓
+implementation
+ ↓
 experienced outcome
-    ↓
-political communication
-    ↓
-political credit
 ```
 
-Failure at one join does not establish failure at every join.
+The leak can illuminate several points on that ladder without automatically telling us which rung every item occupied.
 
-If substantial parts of an April programme subsequently appear in government announcements or implementation, that is a reason to examine the **realisation architecture** separately from the intellectual quality of the underlying proposals.
+"Worked up by Whitehall" is itself a status description requiring interpretation. It is not necessarily equivalent to ministerial approval.
 
-Which team owned delivery?
+Likewise, circulation around Number 10 and parts of the Civil Service establishes circulation. It does not, without more, establish authorship, agreement, adoption or implementation by everybody who received it.
 
-What dependencies were identified?
+This is why policy provenance cannot be inferred merely from where the surviving copy was found.
 
-What did departments say was operationally possible?
+---
 
-Which policies were funded?
+## 🪦 "It Failed" — What Failed?
 
-Which were announcements without implementation?
+Sky describes the April exercise as an attempt to keep Starmer in power and says: **"It failed."**
 
-Which were already departmental work before appearing in the No.10 pack?
+At the political level, that is a clear description of the stated objective of the exercise against the subsequent change of prime minister.
 
-Which survived a change of Prime Minister because the underlying state machinery was already carrying them?
+But it does not follow that every policy idea in the bundle failed.
 
-A policy programme is not vindicated because an idea later reappears.
+Indeed, Sky's own continuity analysis depends on the proposition that a substantial number of ideas were announced or continued.
 
-It is not disproved because the Prime Minister attached to its PowerPoint leaves office.
+So:
+
+> **What exactly failed?**
+
+```text
+POLICY IDEAS
+     ↓
+PRIORITISATION
+     ↓
+REALISATION
+     ↓
+DEPARTMENTAL DELIVERY
+     ↓
+PUBLICLY EXPERIENCED OUTCOME
+     ↓
+POLITICAL CREDIT
+```
+
+There are several analytically different possibilities:
+
+- the ideas were weak;
+- the ideas were sound but badly prioritised;
+- priorities were selected but not translated into delivery;
+- delivery occurred too slowly to become publicly legible;
+- departments lacked capacity;
+- funding did not follow;
+- political communication failed to connect outcomes to government;
+- the programme arrived too late;
+- public confidence had already deteriorated;
+- the political problem was not soluble by the proposed policy package;
+- different parts failed for different reasons.
+
+The hypothesis that the **realisation function** was poor is therefore testable.
+
+It is not established merely because the political rescue attempt failed.
+
+For each significant proposal, ask:
+
+```text
+Was it selected?
+Was an owner named?
+Was funding allocated?
+Were milestones set?
+Was delivery commissioned?
+Did implementation occur?
+Did people experience the result?
+Did government receive political credit?
+```
+
+A policy deck can be excellent and still die in the join between **decision and delivery**.
+
+A terrible deck can also contain ideas that later survive.
+
+Do not use the political outcome as a universal performance metric for every component upstream.
+
+---
+
+## 🪖 Leave A Flag In The Ground: Army Training Spend
+
+There is an unresolved research lead in the wider material concerning **Army or defence training expenditure** and what happened subsequently.
+
+It is deliberately not resolved here.
+
+The reason for preserving it is methodological: something in the wider bundle appeared potentially interesting when set beside the later defence-spending and training record. That is enough to create a research question, not enough to create a conclusion.
+
+```text
+OBSERVATION
+material in the wider bundle appears
+relevant to Army training expenditure
+        ↓
+POSSIBLE COMPARATOR
+MoD settlements
+Spending Review material
+training activity
+PQs
+departmental accounts
+        ↓
+STATUS
+NOT YET TESTED
+```
+
+A proper follow-up would establish:
+
+```text
+exact leaked wording
++ date
++ proposed amount / mechanism
+        ↓
+subsequent MoD settlement
+        ↓
+Army training allocation / activity
+        ↓
+reductions / increases / deferrals / transfers
+        ↓
+ministerial or departmental explanation
+```
+
+> **Matching numbers do not establish causal continuity.**
+
+This flag stays in the ground until the source wording and later expenditure series can be joined properly.
+
 
 ---
 
 ## 🎠 Whose Calliopes?
 
-A policy card is the sound coming out of the instrument.
+The April pack is a Number 10 information object.
 
-The provenance question is: **whose calliopes were feeding it?**
+That does not mean Number 10 intellectually originated every proposition inside it.
 
-For each substantive proposition, two different lineages should be recoverable.
+A mature policy environment contains ideas, evidence and analysis flowing through departments, ministers, advisers, officials, academics, think tanks, businesses, unions, NGOs, consultancies, international comparators, previous governments and public consultations.
 
-### Evidence provenance
+The useful provenance question therefore has **two branches**.
+
+### Evidence Provenance
+
+Why did government believe there was a problem requiring intervention?
 
 ```text
-problem definition
-        ↓
-datasets / statistics
-departmental evidence
-operational experience
+datasets
 research
+departmental analysis
 consultations
 stakeholder evidence
-modelling
+operational experience
 international comparison
+modelling
+polling
         ↓
-analytical method
+method
         ↓
 assumptions
         ↓
 inference
 ```
 
-### Idea provenance
+For example:
+
+- What evidence supported cutting adult apprenticeships to fund provision for younger people?
+- What provider economics supported a social-care profit cap?
+- What evidence suggested UK AI companies were leaving, or might leave, for reasons amenable to government intervention?
+- What causal model supported an under-16 social-media ban?
+- What modelling connected a particular North Sea intervention to bills, revenues, domestic supply or energy security?
+
+### Idea Provenance
+
+Where did the proposed intervention come from?
 
 ```text
-departmental work
-minister / adviser
-Treasury / No.10
-manifesto development
-previous government policy
-academic work
+department
+No.10
+Treasury
+minister
+adviser
+manifesto
+previous government
 think tank
-trade union
-civil society
+academic
 industry
+union
+NGO
 consultancy
 international government
-other external proposal
-        ↓
-selection
+other external source
         ↓
 development
         ↓
-POLICY OPTION
+selection
 ```
 
-Evidence that a problem exists and the intellectual origin of a proposed solution are not the same thing.
+These are different questions.
 
-Government should be able to distinguish them.
+> **Evidence that X is a problem does not establish the intellectual origin of proposed solution Y.**
 
-For consequential proposals, useful provenance metadata would include:
+A policy may be supported by one evidence base and intellectually derived from somewhere else entirely.
 
-| Field | Question |
-| --- | --- |
-| Problem statement | What problem was being addressed? |
-| Evidence base | What established its nature or scale? |
-| Sources | Which datasets, papers, submissions or records were used? |
-| Analytical owner | Which institution or team performed the analysis? |
-| Method | What modelling, comparison or evaluation was used? |
-| Assumptions | What had to be assumed? |
-| Policy origin | Where did the intervention first enter the process? |
-| Contributors | Who materially developed it? |
-| Alternatives | What else was considered? |
-| Selection | Why did this option survive? |
-| Uncertainty | What remained unknown? |
-| Decision owner | Who selected it for the programme? |
+That is why the right question is not merely *who wrote this slide?*
 
-This need not expose the names of ordinary officials.
+It is:
 
-Institutional provenance is enough to make the intellectual supply chain substantially more legible.
+> **What information, institutions and analytical processes were sounding through the instrument when this proposition was produced?**
 
-**Fine. You have shown us the PowerPoint. Now show us the fucking workbook.**
+Whose calliopes?
 
 ---
 
 ## 🐣 How Many Ugly Ducklings Did They Use This Time?
 
-There is a slyer provenance problem underneath the political argument about whose policies these are.
+There is a slightly cattier way to ask the same provenance question.
 
-A proposal appearing in a Downing Street policy pack establishes that the proposal appeared in a Downing Street policy pack.
+How many intellectual feathers were assembled before the resulting basket became a **Number 10 policy idea**?
 
-It does not establish where the underlying idea originated.
+The question is not an allegation of plagiarism.
 
-Nor does it tell us where the evidence supporting it came from, who performed the analysis, which earlier proposals were incorporated, what external research informed it, which departments had already been developing it, or how many transformations occurred before somebody reduced the whole thing to a box on a slide.
+It is a request for lineage.
 
-In other words:
+For any proposal, ask:
 
-> **How many ugly ducklings did they use this time?**
+- Was it longstanding departmental work?
+- Did it originate in a manifesto process?
+- Was it proposed by a minister or adviser?
+- Did it follow a consultation?
+- Did an external submission materially shape it?
+- Is there an earlier think-tank or academic formulation?
+- Was it inherited from a previous administration?
+- Was it adapted from another country?
+- Was Number 10 the origin, the selector, the editor, the accelerator, or merely the place where the idea became visible?
 
-This is not an allegation of plagiarism, improper extraction or concealed influence.
+> **Appearance in an artefact is not intellectual origin.**
 
-It is a provenance question.
+Or, less ceremonially:
 
-```text
-datasets
-+ departmental analysis
-+ operational experience
-+ academic research
-+ consultations
-+ think-tank proposals
-+ industry submissions
-+ trade-union evidence
-+ civil-society work
-+ previous government policy
-+ international examples
-+ advisers' ideas
-+ political priorities
-        ↓
-selection
-        ↓
-transformation
-        ↓
-synthesis
-        ↓
-DOWNING STREET POLICY CARD
-```
+> **Yes yes. Very interesting. And whose feathers are these?**
 
-The final representation is not its provenance.
+The answer may be perfectly ordinary.
 
-That matters particularly when political actors subsequently argue about whether one Prime Minister has *borrowed*, *copied*, inherited, continued, or independently arrived at policies associated with another.
+Good.
 
-Before assigning intellectual ownership to the administration whose name appears on the PowerPoint, establish whose work entered the PowerPoint in the first place.
-
-The corresponding **Ugly Ducklings** question is therefore not merely *who owns the final feather arrangement?*
-
-It is:
-
-> **Where did the feathers come from, what happened to their provenance as they travelled, and how many birds contributed before somebody called the basket a policy programme?**
-
-See [🐣 Ugly Ducklings](../../../../../🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md) — *developmental vulnerability, selective extraction, distributed information systems and provenance.*
+Ordinary provenance is still provenance.
 
 ---
 
-## 🔐 Official-Sensitive: Sensitive Why?
+## 🏛️ Influence Is Not Ownership
 
-Some of the material visible in reporting appears marked `OFFICIAL`; other material appears marked `OFFICIAL-SENSITIVE`.
+This becomes especially important when former ministers, former advisers, policy institutes, think tanks, consultancies, academics, businesses, unions and campaign organisations inhabit overlapping policy networks.
 
-That difference is itself information.
+Participation in a policy ecosystem is not inherently improper.
 
-Under the Government Security Classifications Policy, `OFFICIAL-SENSITIVE` is not a separate classification tier. It is an additional marking used for OFFICIAL information that is not intended for public release, is of at least some interest to threat actors, activists or the media, and whose compromise is likely to cause moderate damage to the work or reputation of the organisation and/or government.
+Nor does a professional or social connection establish that an idea travelled along that connection.
 
-The marking therefore tells us that an information creator made a handling judgement.
-
-It does not, by itself, tell the public **why** that judgement was made.
-
-That *why* matters.
-
-For a prospective policy bundle, plausible categories can include premature disclosure of fiscal decisions, negotiations, commercial material, implementation planning, national-security considerations, personal information or simply policy development whose premature disclosure could materially disrupt government work.
-
-The correct category should not be guessed from the stamp.
-
-Government should be able to explain, at an appropriate level:
-
-> **What category of harm was the additional protection intended to prevent?**
-
-That does not require publishing the sensitive substance itself.
-
-Nor does Sky's decision to publish retrospectively establish that the original marking was wrong.
-
-These are different decisions made at different times:
+The governance question is legibility:
 
 ```text
-APRIL 2026
-What harm could premature disclosure cause?
-        ↓
-government handling decision
-
-SEPTEMBER 2026
-What can responsibly and lawfully be published now?
-        ↓
-editorial + legal decision
+POLICY ACTOR
+      ↓
+research / advocacy / proposal
+      ↓
+relationship / meeting / submission
+      ↓
+government consideration
+      ↓
+adaptation / rejection / adoption
 ```
 
-Sensitivity can also decay.
+What distinguishes ordinary legitimate policy advocacy from influence which ought to be **declared, attributed or otherwise made legible**?
 
-Policies are announced. Negotiations conclude. Governments change. Market-sensitive moments pass. Options are abandoned.
+That question applies consistently. It should not depend on whether the outside actor is politically convenient to the observer.
 
-The classification framework itself allows time-limited handling through `EMBARGOED` instructions where sensitivity reduces after an identified period.
+The existence of a policy institute, consultancy, former adviser or network relationship does not establish that it contributed to this April pack.
 
-So the governance question is not simply:
+If contribution is alleged, show the route.
 
-> Was this sensitive?
+---
 
-It is:
+## 🕸️ Map The Network Without Inventing Agency
+
+Network maps are useful precisely because policy and information do not move only through neat organisational charts.
+
+They are also dangerous if every edge is silently upgraded into coordination.
+
+Use the ladder:
 
 ```text
-WHY was it sensitive?
-WHEN was it sensitive?
-WHICH asset was sensitive?
-WHAT harm was anticipated?
-WHO made that assessment?
+ownership
+   ↓
+affiliation
+   ↓
+acquaintance / contact
+   ↓
+documented communication
+   ↓
+documented information transfer
+   ↓
+evidenced coordination
+```
+
+Each rung requires evidence.
+
+Therefore:
+
+```text
+corporate ownership
+≠ editorial direction
+
+professional relationship
+≠ information transfer
+
+social connection
+≠ coordination
+
+information possession
+≠ source
+
+benefit from publication
+≠ causing publication
+```
+
+This applies to media ownership as much as political networks.
+
+The fact that a company owns a news organisation is corporate topology. It is not, by itself, evidence that the parent company selected a story, directed its framing, supplied its source or acted on behalf of another state or actor.
+
+> **An edge on the map means only what the evidence establishing that edge says it means.**
+
+Map first.
+
+Explain second.
+
+Attribute last.
+
+---
+
+## 🔐 `OFFICIAL-SENSITIVE`: Sensitive Why?
+
+The screenshots also raise a separate information-governance question because material appears with differing handling markings.
+
+Under the UK Government Security Classifications Policy, `OFFICIAL-SENSITIVE` is **not a separate classification tier above `OFFICIAL`**. `-SENSITIVE` is an additional marking used for OFFICIAL information where additional handling is required. Current Cabinet Office guidance says it is for information not intended for public release, of at least some interest to threat actors, activists or the media, where compromise could cause moderate damage.
+
+That means the marking is meaningful.
+
+It also means it is not self-explanatory.
+
+> **Secrecy can be justified without being self-justifying.**
+
+A visible `OFFICIAL-SENSITIVE` marking establishes that an information creator or responsible process judged the asset to warrant the marking and associated handling.
+
+It does not, by itself, tell an outside reader:
+
+- precisely what harm was anticipated;
+- which content triggered the judgement;
+- why one neighbouring asset was marked differently;
+- whether the judgement was correct;
+- whether the sensitivity was time-limited;
+- whether circumstances later changed;
+- whether the same sensitivity persists after announcement or policy abandonment.
+
+The mixed markings create a comparative question:
+
+```text
+OFFICIAL
+    ↕
+OFFICIAL-SENSITIVE
+```
+
+What differs?
+
+Possibilities may include:
+
+- unannounced future policy;
+- political or implementation strategy;
+- market-sensitive information;
+- national-security content;
+- international negotiations;
+- personal information;
+- commercial information;
+- legal material;
+- distribution;
+- timing.
+
+Those are **possibilities to test**, not explanations to assume.
+
+---
+
+## 🗝️ The Missing Because
+
+Government sometimes has strong reasons not to publish information.
+
+Public accountability does not require the state to reveal protected substance merely to prove that protection was warranted.
+
+But there is still a democratic question about the **category of harm**.
+
+> **Government may sometimes need to withhold information. Public accountability nevertheless requires the state to be as clear as reasonably possible about the category of harm that withholding is intended to prevent.**
+
+Where disclosure permits, ask:
+
+```text
+WHY was additional protection needed?
+
+WHAT category of harm was anticipated?
+
+WHICH asset attracted the judgement?
+
+WHEN did that sensitivity apply?
+
+WHO / WHAT FUNCTION made the assessment?
+
 WHEN should it be reviewed?
-DOES the same sensitivity still exist?
+
+DOES the same sensitivity persist?
 ```
 
-If different pages and slides in the same bundle carry different markings, they offer a useful internal comparison.
+The answer may legitimately remain general.
 
-What distinguishes them?
+The principle still matters:
 
-If the distinctions are coherent, that may demonstrate proportionate information handling.
+> **A marking tells us that somebody concluded additional protection was required. It should not be treated as supplying the missing because.**
 
-If they are not, that is also worth knowing.
+This is especially important in public discourse, where `OFFICIAL-SENSITIVE` can otherwise be rhetorically mistaken for either:
 
-**A security marking should identify a handling judgement. It should not become a substitute for the missing because.**
+- *nothing to see here; it is just a label*, or
+- *this proves the material was gravely secret*.
+
+Neither follows automatically from the marking.
+
+---
+
+## ⏳ Sensitivity Has A Clock
+
+Information sensitivity can change.
+
+```text
+policy development
+      ↓
+pre-decision sensitivity
+      ↓
+decision
+      ↓
+announcement
+      ↓
+implementation
+      ↓
+review
+      ↓
+possible reduction in sensitivity
+```
+
+Cabinet Office policy explicitly provides for handling instructions such as `EMBARGOED`, where sensitivity changes after a specified time.
+
+That does not mean every policy document automatically becomes publishable after announcement.
+
+It does mean that **time is part of information governance**.
+
+Sky publishing material in September does not retrospectively establish that an April handling judgement was inappropriate.
+
+Equally, an April marking does not automatically demonstrate that identical protection remains necessary forever.
+
+Ask about the lifecycle.
+
+---
+
+## 📰 Publication Is Another RSVP
+
+Sky's decision to publish is itself an information event.
+
+It tells us that Sky made the editorial and legal judgement required for its publication.
+
+It does not automatically establish that:
+
+- the government's original marking was wrong;
+- no harm could follow publication;
+- every page of the bundle was suitable for publication;
+- Sky and the originating institution possessed identical information about risk;
+- publication explains how Sky obtained the material.
+
+Different actors are answering different questions.
+
+The government asks how its information should be protected.
+
+A newsroom asks whether and how material should be reported.
+
+The public may ask what the documents reveal.
+
+Those questions overlap.
+
+They are not identical.
 
 ---
 
 ## 🕸️ A Leak Does Not Establish A Leaker
 
-Publication establishes an information outcome.
+The word **leak** can make a human culprit appear grammatically before one has been evidenced.
 
-It does not establish the acquisition mechanism.
+Sensitive information outside its intended boundary is an **outcome**.
 
-The material could have reached a journalist through deliberate disclosure, accidental disclosure, onward redistribution, technical compromise, credential compromise, physical observation, a third party, aggregation, or some mixed pathway.
+There are multiple possible mechanisms:
 
-Where evidence establishes more, say more.
+```text
+INFORMATION APPEARS OUTSIDE
+INTENDED BOUNDARY
+        ↓
+possible routes
 
-Where it does not:
+deliberate disclosure
+accidental disclosure
+technical compromise
+credential compromise
+physical observation
+metadata / inference
+routine propagation
+third-party compromise
+onward redistribution
+mixed pathway
+```
+
+The analytical order is:
 
 ```text
 OUTCOME
@@ -454,262 +859,431 @@ EVIDENCE
 ATTRIBUTION
 ```
 
-Do not reverse the sequence.
-
-Political reactions to the bundle have already supplied competing stories about what its appearance means. Some have treated it as evidence of continuity between administrations. Others have characterised it as the work of disgruntled allies of the former Prime Minister. Others have used it to argue that later policy decisions are being delayed for factional reasons.
-
-Those reactions are evidence of **how political actors are interpreting the information event**.
-
-They are not automatically evidence of how Sky acquired the documents.
+Not:
 
 ```text
-DOCUMENT PROVENANCE
-Who produced the material?
-        ≠
-DISCLOSURE PATHWAY
-How did it leave the intended environment?
-        ≠
-DISCLOSURE ACTOR
-Who caused that?
-        ≠
-DISCLOSURE MOTIVE
-Why?
-        ≠
-POLITICAL BENEFICIARY
-Who benefits from the story?
+SUSPECT
+  ↓
+STORY
+  ↓
+FIT EVERYTHING
 ```
 
-The route remains a question until evidence answers it.
+> **An information outcome does not establish its acquisition mechanism.**
 
-See [🏛️ White House Snitches](../../🌊_Playing_Defence/🏛️_White_House_Snitches/README.md) — *information escape, porosity and attribution without beginning with a culprit.*
+The public fact that Sky possesses and published material does not establish which person, system, device, account, intermediary or sequence placed it there.
+
+It does not establish malicious intent.
+
+It does not establish espionage.
+
+It does not establish a foreign actor.
+
+It does not establish that the eventual beneficiary of publication caused the original exposure.
+
+Sometimes a person really does deliberately disclose information.
+
+Sometimes the fucking plumbing is terrible.
+
+The job is to find out which.
 
 ---
 
-## 📮 The RSVPs Are Not The Letter
+## 📮 Everybody Sends An RSVP
 
-The reaction cycle is now an evidential object in its own right.
+Once Sky published the material, responses arrived.
 
-Sky has compared the April material with later policy announcements and asked whether the subsequent government represents continuity.
+Sky itself framed the leak around continuity between the Starmer and Burnham governments and coded the policy ideas accordingly.
 
-Conservative politicians have used the material to advance *copy and paste* and North Sea arguments.
+Political opponents offered their own interpretations. Robert Jenrick described Burnham as essentially Starmer with a different social-media presentation. Conservative responses argued that the papers showed continuity or recycling. Andrew Bowie used the North Sea material to support an existing Conservative argument for approving Jackdaw and Rosebank and criticised Labour's handling of those projects.
 
-John McTernan has publicly framed the disclosure as the *last knockings* of Starmer allies and urged *Starmerites* towards a period of silence.
+Former Labour adviser John McTernan offered a very different interpretation: that the disclosure represented the remaining efforts of Starmer allies to demonstrate continuity with the successor government.
 
-These are politically meaningful responses.
-
-They are also **responses**.
+Those responses can be placed beside one another:
 
 ```text
-                    LEAKED MATERIAL
-                          │
-            ┌─────────────┼─────────────┐
-            ↓             ↓             ↓
-          MEDIA        OPPOSITION     FORMER
-       COMPARISON       FRAMING       ADVISERS
-            │             │             │
-            └─────────────┼─────────────┘
-                          ↓
-                    PUBLIC NARRATIVE
+                 LEAKED MATERIAL
+                       │
+        ┌──────────────┼──────────────┐
+        ↓              ↓              ↓
+       SKY        CONSERVATIVES    McTERNAN
+        │              │              │
+   continuity?      recycling /     Starmerites /
+   20/6/8/16        copy-paste      "last knockings"
+        │              │              │
+        └──────────────┼──────────────┘
+                       ↓
+                  COMPARISON
 ```
 
-The document is not any one of its RSVPs.
+None of these responses is the document.
 
-A claim that a later administration copied a proposal can be tested against the actual mechanisms, scope, funding and implementation of both policies.
+> **They are RSVPs to the document.**
 
-A claim that disclosure was motivated by displaced allies requires evidence about disclosure and motive.
+They tell us what different actors think the material means, which elements they select, and which political argument they make from it.
 
-A claim that an energy decision was delayed to appease a faction requires evidence for that causal attribution.
+They do not, merely by being uttered, establish the source's identity, the source's motive, the intellectual origin of the policies, or the causal route between April work and later decisions.
 
-Political actors are allowed to make political arguments.
-
-Polaris does not have to promote those arguments into findings merely because they arrive quickly and in quotation marks.
+Their disagreements and omissions may, however, help identify the next useful question.
 
 ---
 
-## 🔬 Testing Continuity Properly
+## 🔍 What Is Each RSVP Actually Evidence Of?
 
-The useful comparison is proposal-by-proposal.
+| Object | Strong Evidence Of | Does Not By Itself Establish |
+|---|---|---|
+| April artefact | What appears in that artefact | Intellectual origin of every idea |
+| Slide layout | Presentation structure | Causal relationship between adjacent items |
+| Sky's 20/6/8/16 coding | Sky's classification | Objective identity of policies |
+| Sky publication | Editorial decision to publish | Original marking was unjustified |
+| Conservative reaction | Conservative interpretation and argument | Motive or causal inheritance |
+| McTernan reaction | McTernan's interpretation | Identity or motive of source |
+| Later policy | Subsequent government action | Copying from the April pack |
+| Personnel continuity | Some people remained involved | Those people caused policy continuity |
+| Similar language | Textual or rhetorical similarity | Common authorship |
+| Network relationship | Topology | Information transfer or coordination |
 
-A working dataset should distinguish at least:
+This is the heart of the RSVP method.
+
+Ask of every information object:
+
+> **What is this actually good evidence of?**
+
+Then stop at that boundary until another source lets us move.
+
+
+---
+
+## 🔬 Test Continuity Proposal By Proposal
+
+The 20 / 6 / 8 / 16 analysis gives us a useful starting dataset.
+
+It should not be the end of the analysis.
+
+For each alleged continuation:
 
 ```text
-Proposal
-Original wording
-Source artefact
-Source page / slide
-Classification marking
-Policy area
-Evidence provenance
-Idea provenance
-April status
-Responsible department
-Starmer-era announcement
-Burnham-era announcement
-Implementation mechanism
-Funding
-Delivery status
-Material change
-Evidence
-Confidence
+April wording
+      ↓
+status in April
+      ↓
+known earlier provenance
+      ↓
+later announcement
+      ↓
+objective comparison
+      ↓
+mechanism comparison
+      ↓
+scope comparison
+      ↓
+funding comparison
+      ↓
+implementation comparison
+      ↓
+material differences
 ```
 
-Then classify the relationship conservatively:
+Possible findings include:
 
-```text
-identical mechanism
-materially similar
-same objective / different mechanism
-related policy family
-insufficient evidence
-not comparable
-```
+- same policy;
+- related policy;
+- same objective, different mechanism;
+- partial continuation;
+- longstanding policy predating the pack;
+- substantially changed policy;
+- independent response to the same constraint;
+- insufficient evidence.
 
-Do not use *same announcement* as a synonym for *same policy*.
+The important thing is not to award a continuity trophy.
 
-Do not use later similarity as proof that the April document caused the later policy.
+It is to make the classification reproducible.
 
-Do not use personnel continuity as proof of policy causation.
+A useful comparison record would include:
 
-And do not treat circulation around Downing Street or the Civil Service as proof of authorship, agreement or adoption by every recipient.
+| Field | April | Later |
+|---|---|---|
+| Objective | | |
+| Mechanism | | |
+| Beneficiaries | | |
+| Eligibility / scope | | |
+| Department | | |
+| Funding | | |
+| Delivery body | | |
+| Timetable | | |
+| Legal mechanism | | |
+| Evidence base | | |
+| Material differences | | |
+| Confidence | | |
+
+That is how a political claim becomes a testable data problem.
 
 ---
 
 ## 🪜 Show The Working
 
-The deeper accountability problem is not unique to this leak.
+The policy pack repeatedly generates the same demand:
 
-Government increasingly produces policies through dense information environments: administrative data, modelling, commissioned research, machine-assisted analysis, external expertise, departmental submissions, stakeholder evidence and political judgement.
+**show the working.**
 
-The final announcement may be legible while its inference chain is not.
+For each proposal, the ideal provenance record would contain:
 
-That is a problem when the policy itself embeds contestable assumptions.
+| Field | Question |
+|---|---|
+| Source artefact | Where exactly does it appear? |
+| Source wording | What did the underlying material say? |
+| Presentation wording | How was it compressed? |
+| Problem statement | What problem was being addressed? |
+| Evidence base | What established its scale or nature? |
+| Evidence sources | Which datasets, papers, submissions or records? |
+| Analytical owner | Which institution conducted the analysis? |
+| Method | How was the inference produced? |
+| Assumptions | What was assumed? |
+| Policy origin | Where did the intervention originate? |
+| Contributors | Which departments or external organisations developed it? |
+| Alternatives | What else was considered? |
+| April status | Idea, option, proposal, preferred policy? |
+| Selection | Why did this option survive? |
+| Decision owner | Who selected it? |
+| Security marking | `OFFICIAL`, `OFFICIAL-SENSITIVE`, other? |
+| Sensitivity rationale | What category of harm was being protected against? |
+| Later action | What happened afterwards? |
+| Implementation | What was actually delivered? |
+| Confidence | What remains uncertain? |
 
-For example:
+A PowerPoint can tell us what somebody wanted a room to see.
+
+A workbook tells us rather more about how they got there.
+
+> **Fine. You have shown us the PowerPoint. Now show us the fucking workbook.**
+
+---
+
+## 🤖 Machines Can Help Find The Missing Cells
+
+There is an obvious role for machine assistance here.
+
+A sufficiently well-governed system could help:
+
+- extract propositions from the pack;
+- preserve source locations;
+- compare card labels with longer source wording;
+- search earlier government publications for antecedents;
+- locate similar external proposals;
+- compare later announcements;
+- cluster policies by objective and mechanism;
+- flag missing provenance fields;
+- detect inconsistent terminology;
+- build a timeline;
+- identify candidate joins for human review.
+
+But machine discovery is not machine judgement.
 
 ```text
-observed condition
-        ↓
-problem definition
-        ↓
-causal inference
-        ↓
-policy objective
-        ↓
-chosen intervention
-        ↓
-distributional consequences
-        ↓
-implementation
+textual similarity
+≠ intellectual provenance
+
+temporal sequence
+≠ causation
+
+relationship
+≠ coordination
+
+missing record
+≠ suppressed record
+
+matching number
+≠ causal continuity
 ```
 
-Each arrow can contain judgement.
+The machine can say:
 
-The public does not necessarily need every internal draft or every private policy conversation.
+> **These two things look as though they may join.**
 
-It does need enough provenance to understand **why the state believes the intervention follows from the evidence it cites**.
+A human analyst still has to ask:
 
-This is particularly important where machine-assisted analysis is involved.
+> **Do they?**
 
-Machines can identify patterns, clusters, collisions and candidate relationships at scale.
+And if the missing join concerns government records, there is a rather useful constitutional technology for asking the institution that should possess them.
 
-Humans remain responsible for deciding what those relationships mean.
+That is where this node hands over to:
 
-> **Machine output should not become provenance laundering for a human inference nobody can reconstruct.**
+**[😇 Conservatives Just Asking Questions](./😇_conservatives_just_asking_questions.md)**
 
 ---
 
 ## 🐙 CRAKEN
 
-The **Calcaneus Reflexion Anti-Kraken Ecological Navigation System** keeps this node from growing convenient tentacles between things that have not yet been joined by evidence.
+**Calcaneus Reflexion Anti-Kraken Ecological Navigation System**
 
-### Hold separately
+The leak is exactly the kind of information environment in which tentacles become tempting.
+
+A policy appears in one place. A similar policy appears later. A person worked in both administrations. A company is connected to another company. A journalist publishes a document. A political actor benefits. Suddenly the diagram looks very exciting.
+
+CRAKEN keeps the joins honest.
 
 ```text
-document presence
+appearance in pack
 ≠ intellectual origin
 
-classification marking
-≠ permanent secrecy
+policy card
+≠ full source proposition
 
-publication
-≠ identified source
+Sky classification
+≠ source classification
 
-policy similarity
+same objective
+≠ same policy
+
+later policy
 ≠ copying
 
-political beneficiary
-≠ disclosure actor
+personnel continuity
+≠ policy causation
 
-policy survival
-≠ successful delivery
+ownership
+≠ editorial control
 
-political collapse
-≠ policy invalidity
-
-network relationship
+relationship
 ≠ coordination
 
-editorial compression
-≠ source wording
+beneficiary
+≠ source
+
+publication
+≠ original classification error
+
+OFFICIAL-SENSITIVE
+≠ explanation of sensitivity
+
+leak
+≠ deliberate disclosure
+
+information outside boundary
+≠ known acquisition mechanism
+
+anomaly
+≠ attribution
+
+matching expenditure
+≠ causal continuity
 ```
 
-### Ask instead
+Then ask positively:
 
-- What is directly visible in the artefact?
-- What is Sky's classification or interpretation?
-- What is a political actor's interpretation?
-- What does the subsequent public record establish?
-- What remains an inference?
-- What evidence would distinguish competing explanations?
-- What provenance has disappeared between source and slide?
-- Which joins are factual, and which are merely tempting?
+1. **What information object are we looking at?**
+2. **Who produced this representation?**
+3. **What transformation occurred between source and representation?**
+4. **What does the evidence directly establish?**
+5. **Which inference belongs to us rather than the source?**
+6. **What provenance is missing?**
+7. **What alternative explanations remain live?**
+8. **What evidence would distinguish them?**
+9. **What would falsify the preferred interpretation?**
+10. **Which institution should possess the missing record?**
+11. **What bounded question could retrieve it?**
 
-Complexity is sometimes the finding.
+The point is not to prevent inference.
+
+The point is to stop inference quietly dressing itself up as observation.
 
 ---
 
 ## 🌌 Constellations
 
-📁 💌 🐣 🕸️ 🔐 — live-document scrutiny; visible information routes; provenance and extracted feathers; attribution discipline; classification as a reasoned handling judgement rather than an incantation.
+This node sits inside a larger information-governance loop:
+
+```text
+                         💌 VISIBLE INK
+                              │
+                              ↓
+                           📮 RSVPs
+                              │
+                 compare information objects
+                              │
+                   ┌──────────┴──────────┐
+                   ↓                     ↓
+          📁 FIGHTBACK PLAN       😇 CONSERVATIVES
+               LEAKS              JUST ASKING QUESTIONS
+                   │                     │
+          SHOW THE WORKING         ASK FOR THE WORKING
+                   │                     │
+                   └──────────┬──────────┘
+                              ↓
+                       NEW INFORMATION
+                              ↓
+                          NEW RSVP
+                              ↺
+```
+
+Related constellations:
+
+- **[📮 RSVPs](./README.md)** — compare responses without forcing premature closure.
+- **[💌 Visible Ink](../README.md)** — information containers, routes, exposure and public legibility.
+- **[🏛️ White House Snitches](../../🌊_Playing_Defence/🏛️_White_House_Snitches/README.md)** — separate information outcome, mechanism and attribution.
+- **[🐣 Ugly Ducklings](../../../../🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md)** — provenance, selective extraction and distributed information systems.
+- **[📲 Press Matters](../../README.md)** — the wider media and public-information environment.
+- **[Polaris Protocol](../../../../README.md)** — root navigation.
 
 ---
 
 ## ✨ Stardust
 
-Downing Street, fightback plan, April 2026, policy provenance, evidence provenance, idea provenance, OFFICIAL-SENSITIVE, government security classifications, policy unit, policy development, policy implementation, realisation, delivery, Sam Coates, Sky News, leaked documents, information environment, attribution, leak pathway, continuity, political reaction, Ugly Ducklings, calliopes, intellectual supply chain, policy cards, editorial compression, show the working
+`Sky News` · `Downing Street` · `April 2026` · `policy bundle` · `core policy document` · `policy submissions` · `policy cards` · `editorial compression` · `layout as data` · `visual structure` · `20 6 8 16` · `policy continuity` · `policy status` · `realisation` · `delivery` · `Army training` · `evidence provenance` · `idea provenance` · `Calliopes` · `Ugly Ducklings` · `OFFICIAL` · `OFFICIAL-SENSITIVE` · `category of harm` · `temporal sensitivity` · `network topology` · `ownership` · `attribution` · `leak pathway` · `RSVPs` · `machine-assisted scrutiny` · `human judgement`
 
 ---
 
-## 🏮 Footer
+## 📚 Public Sources
 
-*📁 Fightback Plan Leaks* is a living RSVP node of the **Polaris Protocol**.
-
-It records the leaked policy and strategy material as an information event while keeping the underlying artefacts, their provenance, their security markings, subsequent policy development and the political reactions to them analytically separate.
-
-Its central question is deliberately unfashionable:
-
-> **Before everybody argues about who owns the policy, can we please establish where the evidence and the idea actually came from?**
-
-> 📡 Cross-references:
->
-> - [🐣 Ugly Ducklings](../../../../../🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md) — *provenance, extraction, distributed information and the problem of the final representation obscuring its sources*
-> - [🏛️ White House Snitches](../../🌊_Playing_Defence/🏛️_White_House_Snitches/README.md) — *information escape, porosity and attribution without assuming a human snitch*
-> - [💌 Visible Ink](../README.md) — *information routes, containers, bridges, custody and legibility*
->
-> 🏮 Return To:
->
-> - [📮 RSVPs](./README.md) — *1up*
-> - [💌 Visible Ink](../README.md) — *2up*
-> - [📲 Press Matters](../../../README.md) — *4up*
-> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*
-
-### 📚 Public Sources
-
-- Sky News reporting and broadcast material concerning the leaked April 2026 Downing Street policy and strategy bundle, including the core policy document and political reactions.
+- [Sky News: “Leak from No 10 reveals how Starmer planned to stay in power - and the policies borrowed by Burnham”](https://news.sky.com/story/politics-latest-burnham-labour-farage-badenoch-reform-macron-12593360?postid=12460484)
 - [Cabinet Office: Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications/government-security-classifications-policy-html)
 - [Cabinet Office: Guidance 1.1 — Working at OFFICIAL](https://www.gov.uk/government/publications/government-security-classifications/guidance-11-working-at-official-html)
+- [Cabinet Office: Government Security Classifications Policy — Quick Read](https://www.gov.uk/government/publications/government-security-classifications/government-security-classifications-policy-quick-read-html)
 - [Cabinet Office: Guidance 1.7 — Frequently Asked Questions](https://www.gov.uk/government/publications/government-security-classifications/guidance-17-frequently-asked-questions-html)
+- [UK Parliament: Order Paper, 19 May 2026 — energy security amendment including Jackdaw and Rosebank](https://commonsbusiness.parliament.uk/Document/104760/Pdf?subType=Standard)
+- [Hansard: House of Commons, 19 May 2026](https://hansard.parliament.uk/pdf/Commons/2026-05-19)
 
-*Survivor authorship is sovereign. Containment is never neutral.*
+---
 
-_Last updated: 2026-09-17_
+## 🏮 Sometimes The Missing Thing Is The Information
+
+A leak does not merely disclose information.
+
+It can disclose the **shape of missing information**.
+
+The April bundle tells us something about what was being discussed. Its slides tell us something about how that work was organised and presented. Sky tells us what it selected, how it classified the policy ideas and what question it thought the material raised. Political actors tell us what they think the leak means. Later policy tells us what subsequently happened.
+
+None of those sources automatically supplies the provenance connecting one to another.
+
+That is not a defect to be patched with imagination.
+
+It is the research object.
+
+> **Sometimes the most interesting information is the gap.**
+
+Where did the evidence come from?
+
+Where did the idea come from?
+
+What status did the proposal actually have?
+
+Why was one asset marked differently from another?
+
+What happened between policy selection and delivery?
+
+Did the later policy inherit the April work, inherit older departmental work, independently respond to the same problem, or combine several routes?
+
+How did the information leave its intended boundary?
+
+We do not answer those questions by manufacturing certainty.
+
+We make the missing join legible.
+
+Then we ask the institution that should know.
+
+**Next: [😇 Conservatives Just Asking Questions](./😇_conservatives_just_asking_questions.md)**
+
+---
+
+*Polaris treats survivor authorship and analytical sovereignty as load-bearing. Evidence may be incomplete without being empty; uncertainty may be preserved without being surrendered; and containment is never neutral.*
+
