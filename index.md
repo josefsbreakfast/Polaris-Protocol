@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-17 16:52:32 UTC_
+_Generated on 2026-09-17 16:55:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4062,6 +4062,7 @@ _Generated on 2026-09-17 16:52:32 UTC_
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/README.md)
     - [**💌_Visible_Ink/**](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/)
       - [**📮_RSVPs/**](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/📮_RSVPs/)
+        - [`📁_fightback_plan_leaks.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/📮_RSVPs/📁_fightback_plan_leaks.md)
         - [`😇_conservatives_just_asking_questions.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/📮_RSVPs/😇_conservatives_just_asking_questions.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/README.md)
       - [`⚖️_intent_free_risk.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/⚖️_intent_free_risk.md)
