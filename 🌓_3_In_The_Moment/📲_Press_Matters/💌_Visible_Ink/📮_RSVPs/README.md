@@ -1381,9 +1381,9 @@ Different iterations of a record are treated as one timeless statement.
 
 **Countermeasure:** preserve version and correction history.
 
-## 🐙 CRAKEN
+## 🦑 CRAKEN
 
-**Calcaneus Reflexion Anti-Kraken Ecological Navigation System**
+**Cancellous Reflexion Anti-Kraken Ecological Navigation System**
 
 RSVP analysis is particularly vulnerable to the Kraken because multiple responses generate lots of tempting edges.
 
@@ -1547,6 +1547,7 @@ evidence, and updating the analytical state as new information arrives.
 > - [🪖 Training Debrief](../../🌊_Playing_Defence/🪖_Training_Debrief/README.md) — *longitudinal evidence environment demonstrating how an external comparator can create a new implementation join*
 > - [🏛️ White House Snitches](../../🌊_Playing_Defence/🏛️_White_House_Snitches/README.md) — *separation of information outcome, acquisition mechanism and attribution*
 > - [🐣 Ugly Ducklings](../../../../🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md) — *provenance, distributed information and evidential-lineage discipline*
+> - [🦑 C.R.A.K.E.N.: Cancellous Reflexion Anti-Kraken Ecological Navigation System](../../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md)  
 >
 > 🏮 Return To:
 >
