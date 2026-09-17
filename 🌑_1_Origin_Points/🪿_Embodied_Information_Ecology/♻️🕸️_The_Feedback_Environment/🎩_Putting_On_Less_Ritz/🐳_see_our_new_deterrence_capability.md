@@ -697,6 +697,865 @@ Humanitarian access to the Zoltar Machine remains unaffected by the dispute.
 
 ---
 
+## 📈 Unfortunately, We Have Discovered A Market
+
+At some point during development, the deterrence programme encounters a serious
+problem.
+
+The proposed recipient likes the product.
+
+Not merely tolerates it.
+
+**Likes it.**
+
+Britain has therefore accidentally crossed the line from strategic deterrence
+into export-led growth.
+
+```text
+DETERRENCE
+    ↓
+demonstration
+    ↓
+customer engagement
+    ↓
+unexpected enthusiasm
+    ↓
+PRODUCT-MARKET FIT
+    ↓
+VINTAGE BRITISH POLITICAL MEN
+FOR THE AMERICAN MARKET
+```
+
+The product category is broader than first anticipated.
+
+### 🪙 Tony Blair Zoltar Machine
+
+The original model.
+
+Tech enthusiastic. AI responsive. British accent. Scottish Heritage
+Compatibility installed. Optional wardrobe. Premium 1950s Atlantic Register.
+
+### 🎩 Peter Mandelson Heritage Edition
+
+A different presentation entirely.
+
+Less carnival cabinet; more:
+
+> “A gentleman has arrived from London to discuss matters of consequence.”
+
+The Heritage Edition supplies political ambience, elaborate decorum and the
+general impression that somebody should probably wheel in a drinks trolley.
+
+This is satire rather than a claim about what any real politician would say to
+Donald Trump. The product exists here because the aesthetic is funny.
+
+### 🤓 Keir Starmer Awkward Boy Edition
+
+A later model for customers seeking something less silky.
+
+Features include:
+
+- slightly nerdy presentation;
+- conscientious paperwork energy;
+- visible discomfort with the carnival cabinet;
+- premium British institutional vocabulary;
+- the sense that somebody has actually read the terms and conditions;
+- title-compatible presentation.
+
+The range is not ideologically coherent.
+
+It does not need to be.
+
+The customer requirement is simply:
+
+> **BRITISH POLITICAL MAN TALKS AT DONALD IN A REASSURING REGISTER.**
+
+Britain has stock.
+
+---
+
+## 🎖️ Titles Available
+
+Several potential products arrive with titles, honours or other forms of
+British ceremonial furniture.
+
+This materially improves the export proposition.
+
+The American customer is not merely receiving a political man.
+
+He may be receiving a **Sir**.
+
+Potentially a historically styled **Lord** product category exists too, subject
+to the rather important complication that real titles, offices and current
+statuses must not be flattened into interchangeable costume jewellery.
+
+For the purposes of the fictional catalogue, however:
+
+```text
+STANDARD BRITISH MAN
+        ↓
+add ceremonial furniture
+        ↓
+SIR / LORD / FORMER SOMETHING IMPORTANT
+        ↓
+premium imported ambience
+        ↓
+customer delight
+```
+
+Britain should not pretend it has no comparative advantage here.
+
+We have been manufacturing political decorum for centuries.
+
+---
+
+## 💷 Hashtag Free Market
+
+The Treasury eventually notices.
+
+> “They're paying for this?”
+
+Yes.
+
+> “How much?”
+
+Enough to ask a dangerous question.
+
+```text
+AMERICAN DEMAND
+      ↓
+BRITISH POLITICAL AMBIENCE
+      ↓
+EXPORT RECEIPTS
+      ↓
+ADMIN REPAIR FUND
+      ↓
+FIX
+OUR
+FUCKING
+ADMIN
+```
+
+At this point the original doctrine becomes almost embarrassingly market-based.
+
+America has a demand.
+
+Britain has a supply.
+
+The market brings buyer and seller together.
+
+**#FreeMarket.**
+
+The strategic proposition can therefore mutate:
+
+> If America would genuinely enjoy a rotating collection of old British
+> political men talking at Donald Trump in increasingly elaborate registers,
+> Britain is prepared to discuss volume pricing.
+
+Tony can remain the flagship interactive unit.
+
+Mandelson supplies Heritage Edition ambience.
+
+Starmer provides the slightly nerdy awkward-boy variant.
+
+If the customer would like more, Britain has a deep back catalogue.
+
+The catalogue should remain satirical rather than become a factual claim that
+any named person would actually perform the advertised behaviour.
+
+But as an information-ecology joke, the reversal is useful.
+
+The special relationship is usually narrated as Britain worrying about
+dependency on American money, technology, security capacity and political
+attention.
+
+Here Britain looks at the dependency, looks at its own peculiar inventory, and
+asks:
+
+> **Fine. What can we sell them?**
+
+Apparently the answer is:
+
+**British political ambience as a service.**
+
+---
+
+## 🥺 We Are Just Doing The Metaverse, Mark
+
+The export strategy also solves a longstanding technology-sector problem.
+
+For years, enormous sums have been spent trying to establish what a highly
+personalised, persistent, immersive social environment should actually provide.
+
+Britain has completed the user research.
+
+```text
+DONALD'S PERSONALISED EXPERIENCE
+
+        🎪
+   ┌─────────────┐
+   │    TONY     │
+   │ 👁️       👁️ │
+   │             │
+   │ INSERT  🪙  │
+   └─────────────┘
+
+✓ British accent
+✓ likes tech
+✓ Scottish compatibility
+✓ optional outfits
+✓ tells user he is doing brilliantly
+✓ premium 1950s register
+✓ additional British political men available
+```
+
+Mark:
+
+> “Where is the headset?”
+
+Britain:
+
+> **There isn't one. It's Tony Blair.**
+
+We did not choose the user requirements.
+
+We observed them and delivered an immersive, highly personalised experience.
+
+**We are just doing the metaverse, Mark. 🥺**
+
+---
+
+## 🎩 The British “Gentleman” Stack
+
+Tony was only Tier One.
+
+Once Britain discovers that the American market will accept political ambience
+as a service, the capability becomes stackable.
+
+Not a **Man Stack**.
+
+A **British “Gentleman” Stack**.
+
+The quotation marks are doing significant regulatory work.
+
+For the purposes of this fictional service, eligibility is deliberately broad:
+
+1. British.
+2. Man.
+3. Available for export.
+
+That will do.
+
+No finding of gentlemanliness is made or implied.
+
+```text
+BRITISH “GENTLEMAN” STACK™
+
+        🎩
+        🤓
+        🎪
+        🧐
+        👔
+        🇬🇧
+         ↓
+YOUR ADMINISTRATIVE
+REMEDIATION INVOICE
+```
+
+America:
+
+> “Are all of these actually gentlemen?”
+
+Britain:
+
+> “Please consult section 14.7(b) of the British ‘Gentleman’ Stack Terms of
+> Service. *Gentleman* appears in quotation marks.”
+
+> “But that isn't what gentleman means.”
+
+> “For the purposes of this service, it means **British + man + available**.”
+
+> “That's ridiculous.”
+
+Britain:
+
+> **WE LEARNED FROM SOFTWARE.**
+
+We have deployed quotation marks strategically.
+
+---
+
+## 🪜 Graduated Stack Deployment
+
+The original mistake was assuming Tony was the deterrent.
+
+Tony is **Tier One**.
+
+```text
+BRITISH ADMIN STILL FUCKED
+          ↓
+     AMERICAN TECH BOYS
+   "we're looking into it"
+          ↓
+         TIER 1
+        🎪 TONY
+          ↓
+still fucked
+          ↓
+         TIER 2
+   🎩 HERITAGE GENTLEMAN
+          ↓
+still fucked
+          ↓
+         TIER 3
+   🤓 ADDITIONAL BRITISH MAN
+          ↓
+still fucked
+          ↓
+         TIER 4
+BRITISH “GENTLEMAN” STACK
+          ↓
+YOUR DECISION ENVIRONMENT
+NOW CONTAINS SEVERAL
+BRITISH POLITICAL MEN
+TALKING AT IT
+```
+
+Every additional failure to sort the admin therefore unlocks **another British
+man**.
+
+The United States has a finite window in which to prevent **Full Stack British
+Political Man as a Service**.
+
+---
+
+## 🧐 Domestic Strategic Reserve
+
+Not every unit can be exported immediately.
+
+Jacob Rees-Mogg remains, for the moment, in **domestic strategic reserve**.
+
+The reason is brutally practical: Britain still has admin.
+
+Somebody must remain available for the day on which a procedural fault becomes
+so obscure that the effective error message reads:
+
+> **HOUSE DISPLEASED. CONSULT ERSKINE MAY.**
+
+The warehouse conversation is therefore:
+
+```text
+"Tony?"
+
+SEND.
+
+"Mandelson?"
+
+HERITAGE RANGE. SEND.
+
+"Starmer?"
+
+AWKWARD BOY EDITION. CATALOGUE HIM.
+
+"Rees-Mogg?"
+
+NO.
+
+"Customer requested Victorian expansion pack."
+
+ABSOLUTELY NOT.
+WE STILL HAVE ADMIN.
+```
+
+Once the British administrative state reaches the glorious technological
+singularity in which **the admin can do itself**, this restriction may be
+reviewed.
+
+At that point:
+
+> “Release Jacob.”
+
+America:
+
+> “What does this one do?”
+
+Britain:
+
+> **YOU ARE GOING TO NEED A MUCH OLDER COIN.**
+
+---
+
+## 🧾 Terms Of Tony
+
+The deeper irritation behind the joke is not simply that Britain buys American
+software.
+
+It is the experience of buying products intended to simplify administration
+and then discovering that the administrative environment now depends upon
+layers of licences, service terms, contractual definitions, jurisdictional
+assumptions, product boundaries, integrations, updates, subscriptions and
+small rules whose practical effects can travel far beyond the place in which
+they were drafted.
+
+The satirical British response is not to pretend those rules do not exist.
+
+It is to become **equally annoying about definitions**.
+
+> You sold us things that were supposed to fix our admin.
+>
+> We discovered the terms and conditions.
+>
+> We discovered the terms of service.
+>
+> We discovered the tiny rules.
+>
+> We discovered that rules written for one legal and commercial environment
+> can become operational facts somewhere else once the software becomes part of
+> the infrastructure.
+>
+> Fine.
+>
+> **We have deployed quotation marks strategically.**
+
+Hence the British “Gentleman” Stack.
+
+You gave us Terms of Service.
+
+**We give you Terms of Tony.**
+
+---
+
+## 🖊️ Stop-Gap Signatory Doctrine
+
+The fictional deployment model does not even require Britain to identify one
+grand mastermind responsible for the administrative problem.
+
+That would be far too straightforward.
+
+Instead, the system looks for the human decision interfaces around the
+technological thing.
+
+```text
+TECHNOLOGICAL THING
+        ↓
+somebody somewhere
+authorised / procured /
+signed / renewed / approved /
+funded / failed to stop it
+        ↓
+ADMIN CONSEQUENCES
+ARRIVE IN BRITAIN
+        ↓
+INVOICE CALCULATED
+        ↓
+BRITISH “GENTLEMAN”
+ASSIGNED TO RELEVANT
+AMERICAN DECISION ENVIRONMENT
+        ↓
+🎩 talks
+        ↓
+🪙 cost recovery
+        ↓
+repeat until
+OUR FUCKING SOFTWARE BILL
+IS COVERED
+```
+
+The relevant person need not be *the person responsible*.
+
+They need only occupy a sufficiently consequential authorisation, procurement,
+renewal, oversight or **stop-gap signatory** position around the thing that
+keeps becoming everybody else's administrative reality.
+
+America:
+
+> “Why has this political representative received a former British minister?”
+
+Britain:
+
+> “Your technology appears in the relevant administrative dependency and this
+> office appears in the applicable decision environment.”
+
+> “But they didn't buy the software.”
+
+Britain:
+
+> **NEITHER DID THE BRITISH WOMAN CURRENTLY TRYING TO MAKE HER FUCKING COUNCIL
+> PORTAL TALK TO SIX AMERICAN CLOUD SERVICES, BRAD.**
+
+The joke is intentionally unfair at the individual level because the system
+being parodied can feel unfair at the individual level: consequences arrive
+with users and administrators who did not negotiate the original terms,
+design the dependency or choose every upstream component.
+
+The serious analytical task remains to identify the actual decision rights,
+contracts, jurisdictions and dependencies rather than assigning responsibility
+by proximity.
+
+The fictional remedy, however, is simpler.
+
+**Attach British man.**
+
+---
+
+## 💰 Cost Recovery, Not Retaliation
+
+Once the stack exists, Britain becomes increasingly relaxed about settlement.
+
+```text
+ACCEPTED FOR ADMINISTRATIVE REMEDIATION
+
+STERLING                    yes
+DOLLARS                     yes
+OTHER CONVERTIBLE CASH      probably
+CRYPTO TOKENS               fine, apparently
+SHINY ZOLTAR COINS          reinvested directly into Tony
+```
+
+This is no longer retaliation.
+
+It is **cost recovery**.
+
+The objective is to keep supplying the relevant American decision environment
+with British political ambience until Britain has recovered enough value to
+pay the bill generated by all the software, services, integrations,
+subscriptions and remedial work involved in keeping the administrative machine
+running.
+
+The escalation ladder therefore has an accounting function:
+
+```text
+EXTERNALISED ADMIN COST
+        ↓
+BRITISH REMEDIATION BILL
+        ↓
+“GENTLEMAN” DEPLOYMENT
+        ↓
+AMERICAN PAYMENT / COIN
+        ↓
+ADMIN REPAIR FUND
+        ↓
+ARE WE WHOLE YET?
+   ↙             ↘
+ NO              YES
+ ↓                ↓
+SEND             COLLECT
+ANOTHER          THE MEN
+```
+
+The Americans may have them both.
+
+They may have more if they like.
+
+Britain has a back catalogue.
+
+---
+
+## 🕸️ Why The Stack Belongs Here
+
+The British “Gentleman” Stack is funny because it turns an invisible
+administrative externality into a visible human one.
+
+If software, contractual assumptions, service dependencies and technical
+systems can travel across the Atlantic and become somebody else's daily
+administrative problem, the satire sends something equally persistent in the
+opposite direction:
+
+**British men who talk at the decision environment until the invoice is paid.**
+
+The mechanism is absurd.
+
+The feedback question is not.
+
+```text
+PRODUCT / SERVICE
+designed somewhere
+        ↓
+TERMS / ASSUMPTIONS
+travel with it
+        ↓
+INFRASTRUCTURE DEPENDENCY
+forms elsewhere
+        ↓
+ADMINISTRATIVE COST
+lands on other people
+        ↓
+WHO CAN SEE THE FULL BILL?
+        ↓
+WHO HAS POWER TO FIX THE JOIN?
+```
+
+The quotation marks, the stop-gap signatory, the escalating stack and the
+ridiculous willingness to accept crypto are all ways of making the same
+frustration legible:
+
+**small upstream rules can become large downstream governance conditions.**
+
+The joke's counter-export makes that direction of travel impossible to ignore.
+
+---
+
+## 🦎 Wodehouse Depth On The Bench
+
+The British “Gentleman” Stack has a cultural prototype.
+
+Britain has been imagining men who can appear in drawing rooms, clubs, country
+houses, cocktail parties and other people's business for a very long time.
+
+The Wodehouse register gives the fictional export programme its proper shape:
+not one grand emissary, but an apparently inexhaustible social ecology of
+Berties, Gussies, Barmies, Tuppies and associated men.
+
+The names matter because they make the deployment sound less like diplomacy and
+more like somebody has accidentally opened a door at the Drones Club.
+
+```text
+BERTIE WOOSTER TYPE
+        ↓
+AUGUSTUS “GUSSIE” FINK-NOTTLE TYPE
+        ↓
+BARMY FOTHERINGAY-PHIPPS TYPE
+        ↓
+TUPPY GLOSSOP TYPE
+        ↓
+MORE AVAILABLE
+```
+
+The real Wodehouse characters remain fictional characters. The “types” here are
+comic templates for the Polaris satire, not claims that contemporary political
+figures literally correspond to them.
+
+The important capability is **depth on the bench**.
+
+America cannot solve the problem by learning to tolerate Tony.
+
+Britain has more genres of man.
+
+---
+
+## 🍸 Junction-Point Deployment
+
+The stack need not arrive only at formal government offices.
+
+Influence does not travel solely through the room in which a final signature is
+made.
+
+The fictional deployment strategy therefore places British “gentlemen” around
+the wider environments through which technology, finance, policy fashion,
+investment and elite consensus move.
+
+```text
+                 SILICON VALLEY
+                      ↓
+              ┌───────┴───────┐
+              ↓               ↓
+         INVESTMENT         POLICY
+              ↓               ↓
+          WALL STREET ←── NETWORKS
+              ↓               ↓
+          CAPITAL          ADVISERS
+              ↘               ↙
+                SOCIAL ROOMS
+                     ↓
+          cocktail / dinner /
+        conference / living room
+                     ↓
+          DECISION ENVIRONMENT
+```
+
+Some are formally invited.
+
+Some are at conferences.
+
+Some appear around finance.
+
+Some are simply, inexplicably, in somebody's living room at a cocktail party.
+
+> “Who is that?”
+
+> “British.”
+
+> “Why is he here?”
+
+> “Influence.”
+
+This is deliberately comic shorthand. In real analysis, presence is not proof
+of influence, acquaintance is not coordination, and a social room is not a
+decision record. The joke works because informal environments can matter while
+remaining much harder to represent than an organisation chart.
+
+The satire therefore deploys men to **junction points**, while the analytical
+method underneath it asks which junctions actually transmit information,
+authority, money, access or policy assumptions.
+
+---
+
+## 🏦 Wall Street Gets Some Too
+
+Silicon Valley does not get exclusive custody.
+
+Technology is financed, insured, acquired, floated, invested in and valued
+through financial systems as well as designed through engineering systems.
+
+Accordingly, some British “gentlemen” must be deployed to Wall Street.
+
+```text
+TECH CAPITAL
+     ↕
+FINANCIAL CAPITAL
+     ↕
+POLITICAL ACCESS
+     ↕
+SOCIAL NETWORKS
+     ↕
+BRITISH “GENTLEMAN”
+WITH A DRINK AND
+NO OBVIOUS REASON
+TO BE IN THE ROOM
+```
+
+The purpose is not to claim that every room forms one coordinated network.
+
+Quite the opposite.
+
+The useful question is which relationships are consequential, which are merely
+social, which carry information, which carry money, and which turn out to be
+decorative.
+
+The British countermeasure simply refuses to leave any potentially important
+room aesthetically under-supplied.
+
+---
+
+## 🥽 Fine, We Have Learnt From The Metaverse
+
+At the furthest edge of the joke, Britain decides to take seriously the
+commercial proposition that human attention, behaviour, social interaction and
+data can themselves become sources of economic value.
+
+If a technology economy can build environments around behavioural design,
+personalisation, recommendation, engagement and value extraction from human
+activity, Britain can at least parody the logic.
+
+Fine.
+
+**Free market.**
+
+We have a product too.
+
+```text
+PLATFORM LOGIC
+      ↓
+identify valuable
+human environment
+      ↓
+place system at
+important interface
+      ↓
+observe engagement
+      ↓
+shape experience
+      ↓
+extract value
+
+
+BRITISH RESPONSE
+      ↓
+identify valuable
+decision environment
+      ↓
+place British man at
+important interface
+      ↓
+he talks
+      ↓
+somebody pays us
+to deal with this
+      ↓
+FIX THE ADMIN
+```
+
+The equivalence is intentionally ridiculous. A human being is not a software
+platform, and the node is not proposing that actual people be treated as
+deployable objects.
+
+The satire is aimed at the **direction of extraction**.
+
+If people, attention, relationships and behaviour are increasingly treated as
+inputs from which commercial systems can derive value, the fictional British
+response turns the people themselves into the deliberately conspicuous
+“product”.
+
+No headset required.
+
+No behavioural model required.
+
+Just Barmy Fotheringay-Phipps inexplicably at the cocktail party until somebody
+offers Britain mates' rates.
+
+---
+
+## 🤝 Mates' Rates
+
+This is the final simplification of the entire strategic doctrine.
+
+Britain does not need dominion.
+
+Britain does not need tribute.
+
+Britain would simply like the alleged special relationship to produce a
+recognisable **friends-and-family discount on the administrative dependency**.
+
+```text
+AMERICAN SOFTWARE BILL
+        ↓
+ABSOLUTELY NOT
+        ↓
+DEPLOY BERTIE TYPE
+        ↓
+no discount
+        ↓
+DEPLOY GUSSIE TYPE
+        ↓
+no discount
+        ↓
+DEPLOY BARMY
+        ↓
+no discount
+        ↓
+DEPLOY TUPPY
+        ↓
+Silicon Valley:
+"WHAT DO YOU WANT?"
+        ↓
+MATES' RATES
+        ↓
+🇬🇧 COLLECT THE MEN
+```
+
+Gussie may have been talking about newts.
+
+Barmy may have appeared in a room nobody remembers inviting him to.
+
+Tuppy may have become somebody's problem in finance.
+
+Tony is still accepting shiny coins.
+
+It does not matter.
+
+The account is moving towards settlement.
+
+The British industrial strategy has therefore reached its mature form:
+
+> **Export Wodehouse-shaped administrative inconvenience until SaaS pricing
+> improves.**
+
+Or, in the language of the special relationship:
+
+> **Mate. Can we please stop paying full fucking retail?**
+
+---
+
 ## 🧠 What The Joke Is Actually Doing
 
 Underneath the Tony delivery mechanism sits a recognisable feedback problem.
@@ -791,7 +1650,7 @@ This machine requires only one thing:
 
 ## ✨ Stardust
 
-uk-us relations, special relationship, deterrence satire, institutional inheritance, policy feedback, political networks, transatlantic influence, burden-sharing, tony blair zoltar machine
+uk-us relations, special relationship, deterrence satire, institutional inheritance, policy feedback, political networks, transatlantic influence, burden-sharing, tony blair zoltar machine, british political ambience, export-led growth, product-market fit, british gentleman stack, terms of tony, stop-gap signatory, administrative externalities, cost recovery, wodehouse, junction-point deployment, wall street, silicon valley, mates rates, behavioural extraction
 
 ---
 
