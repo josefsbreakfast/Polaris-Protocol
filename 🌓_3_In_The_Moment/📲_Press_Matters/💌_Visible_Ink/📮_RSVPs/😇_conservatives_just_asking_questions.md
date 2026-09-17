@@ -1,8 +1,9 @@
-# 😇 Conservatives Just Asking Questions
-**First created:** 2026-09-17 | **Last updated:** 2026-09-17
+# 😇 Conservatives Just Asking Questions  
+**First created:** 2026-09-17 | **Last updated:** 2026-09-17  
 *Written parliamentary questions, institutional collisions, public records, machine-assisted scrutiny, and the constitutional art of making government check its working.*
 
 ---
+
 ## 🛰️ Orientation
 
 There are at least two very different things that can hide behind the phrase **"just asking questions"**.
@@ -121,9 +122,7 @@ It:
 
 ## 🗺️ What Has Mike Wood Actually Been Asking?
 
-As of **17 September 2026**, Parliament's member page returned **3,769 written
-questions** submitted by Mike Wood. That total is a live corpus count rather
-than a claim that every item has been manually coded in this node.
+As of **17 September 2026**, Parliament's member page returned **3,769 written questions** submitted by Mike Wood. That total is a live corpus count rather than a claim that every item has been manually coded in this node.
 
 ```text
 CORPUS:
@@ -529,16 +528,11 @@ department
 answers Parliament
 ```
 
-A weak investigation can ask the wrong actor because it silently assumes that
-possession, authority and parliamentary responsibility collapse into one
-function.
+A weak investigation can ask the wrong actor because it silently assumes that possession, authority and parliamentary responsibility collapse into one function.
 
-> **Knowing who should answer is not always the same thing as knowing who made
-> the decision or who physically holds the underlying record.**
+> **Knowing who should answer is not always the same thing as knowing who made the decision or who physically holds the underlying record.**
 
-This distinction also matters when a question is transferred between
-departments. Parliamentary procedure routes questions according to ministerial
-responsibility; the evidential chain may still cross several institutions.
+This distinction also matters when a question is transferred between departments. Parliamentary procedure routes questions according to ministerial responsibility; the evidential chain may still cross several institutions.
 
 ---
 
@@ -732,11 +726,9 @@ Why did contact cause decision Y?
 The latter may embed both contact and causation before either has been
 established.
 
-> **A good question sequence turns yesterday's uncertainty into tomorrow's
-> premise only after the institution has actually established it.**
+> **A good question sequence turns yesterday's uncertainty into tomorrow's premise only after the institution has actually established it.**
 
-Question chaining is therefore not repetition for its own sake. Done properly,
-it constructs an evidential bridge one load-bearing join at a time.
+Question chaining is therefore not repetition for its own sake. Done properly, it constructs an evidential bridge one load-bearing join at a time.
 
 ---
 
@@ -850,11 +842,9 @@ A useful analytical response taxonomy is:
 | Correction | Changes an earlier public answer | Preserve both states; update current record |
 | Unresolved | Leaves the analytical question materially open | Follow up or reroute |
 
-These are analytical categories, not a claim that Parliament formally labels
-every answer this way.
+These are analytical categories, not a claim that Parliament formally labels every answer this way.
 
-> **A response can satisfy the procedural event of answering a parliamentary
-> question without resolving the analytical join.**
+> **A response can satisfy the procedural event of answering a parliamentary question without resolving the analytical join.**
 
 ---
 
@@ -965,8 +955,7 @@ That is useful information about the information environment itself.
 
 ## 🔄 Update The Evidence State
 
-When an answer arrives, it should change the analytical state rather than being
-stacked underneath the theory which caused the question.
+When an answer arrives, it should change the analytical state rather than being stacked underneath the theory which caused the question.
 
 ```text
 EXISTING GAP
@@ -1011,12 +1000,9 @@ answer contradicts working theory
 → THEORY UPDATED
 ```
 
-> **Do not merely append the answer underneath the theory which caused the
-> question. Let the answer change the theory.**
+> **Do not merely append the answer underneath the theory which caused the question. Let the answer change the theory.**
 
-That is why corrections matter. The earlier answer remains part of the record,
-but it should not continue to function as the current evidential state after a
-correction supersedes it.
+That is why corrections matter. The earlier answer remains part of the record, but it should not continue to function as the current evidential state after a correction supersedes it.
 
 ---
 
@@ -1212,8 +1198,7 @@ Reasons to reroute can include:
 - the answer requires technical examination rather than ministerial reporting;
 - the information is already available through a more direct public route.
 
-The objective is to retrieve or test the missing information, not to become
-attached to one constitutional mechanism.
+The objective is to retrieve or test the missing information, not to become attached to one constitutional mechanism.
 
 > **Ask the bastard who should — using the route that can actually reach them.**
 
@@ -1466,14 +1451,11 @@ Very British solution, really.
 
 ## ♟️ An Opponent Who Does Not Grant Your Premises
 
-Adversarial scrutiny has a useful information function even when the analyst
-does not share the reviewer's politics.
+Adversarial scrutiny has a useful information function even when the analyst does not share the reviewer's politics.
 
-A sympathetic reviewer may accept assumptions because they are familiar,
-reasonable within the group, or aligned with the project's intended outcome.
+A sympathetic reviewer may accept assumptions because they are familiar, reasonable within the group, or aligned with the project's intended outcome.
 
-A politically opposed reviewer may challenge those same assumptions precisely
-because they do not begin from the same premises.
+A politically opposed reviewer may challenge those same assumptions precisely because they do not begin from the same premises.
 
 ```text
 friendly scrutiny
@@ -1489,19 +1471,15 @@ exceptions
 
 The point is not that opposition is automatically correct.
 
-It is that a system which can survive questioning from people who do not grant
-its premises has undergone a different kind of test from one reviewed only by
-people who broadly agree with it.
+It is that a system which can survive questioning from people who do not grant its premises has undergone a different kind of test from one reviewed only by people who broadly agree with it.
 
-> **Adversarial scrutiny is useful when it forces an argument to show which
-> premises are evidence and which are merely shared assumptions.**
+> **Adversarial scrutiny is useful when it forces an argument to show which premises are evidence and which are merely shared assumptions.**
 
 ---
 
 ## 🧠 Opposition As Error-Correction Architecture
 
-Parliamentary opposition can function as part of an institutional
-error-detection loop.
+Parliamentary opposition can function as part of an institutional error-detection loop.
 
 ```text
 GOVERNMENT
@@ -1517,15 +1495,11 @@ PUBLIC RECORD
 expands
 ```
 
-That does not mean every opposition question is good, every government answer
-is bad, or every disagreement exposes an error.
+That does not mean every opposition question is good, every government answer is bad, or every disagreement exposes an error.
 
-The constitutional value lies partly in making decisions, assumptions and
-records available for contest from outside the decision-making coalition.
+The constitutional value lies partly in making decisions, assumptions and records available for contest from outside the decision-making coalition.
 
-A question can therefore be useful even when its premise is rejected, provided
-the process exposes what is established, what is disputed and what evidence
-would resolve the join.
+A question can therefore be useful even when its premise is rejected, provided the process exposes what is established, what is disputed and what evidence would resolve the join.
 
 > **The constitutional value lies partly in making error discoverable.**
 
@@ -1620,13 +1594,11 @@ unresolved institutional fact?
 😇 PQ / OTHER ROUTE
 ```
 
-Sometimes the correct next step is more analysis first. The question should be
-asked only after the longitudinal evidence has made the missing institutional
-fact legible enough to ask cleanly.
+Sometimes the correct next step is more analysis first. The question should be asked only after the longitudinal evidence has made the missing institutional fact legible enough to ask cleanly.
 
-## 🐙 CRAKEN
+## 🦑 CRAKEN
 
-**Calcaneus Reflexion Anti-Kraken Ecological Navigation System**
+**Cancellous Reflexion Anti-Kraken Ecological Navigation System**
 
 Questions create their own temptation.
 
@@ -1798,6 +1770,7 @@ the resulting answers to the evidence environment as new RSVPs.
 > - [🪖 Training Debrief](../../🌊_Playing_Defence/🪖_Training_Debrief/README.md) — *longitudinal evidence environment in which the defence-training join can be tested before institutional escalation*
 > - [🏛️ White House Snitches](../../🌊_Playing_Defence/🏛️_White_House_Snitches/README.md) — *information-exposure analysis separating outcome, mechanism and attribution*
 > - [🐣 Ugly Ducklings](../../../../🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md) — *provenance, distributed information and the distinction between anomaly and attribution*
+> - [🦑 C.R.A.K.E.N.: Cancellous Reflexion Anti-Kraken Ecological Navigation System](../../../✨_Glimmer_Is_Taxable_And_Other_Big_Drums/🦁_Armoury_Quick_Tour/🦑_cancellous_reflexion_anti_kraken_ecological_navigation_system.md)  
 >
 > 🏮 Return To:
 >
