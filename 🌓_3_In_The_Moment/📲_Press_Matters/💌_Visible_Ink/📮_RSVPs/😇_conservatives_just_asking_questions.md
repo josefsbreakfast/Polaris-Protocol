@@ -1,10 +1,8 @@
 # 😇 Conservatives Just Asking Questions
-
-**First created:** 2026-09-17  
-**Last updated:** 2026-09-17
-
+**First created:** 2026-09-17 | **Last updated:** 2026-09-17
 *Written parliamentary questions, institutional collisions, public records, machine-assisted scrutiny, and the constitutional art of making government check its working.*
 
+---
 ## 🛰️ Orientation
 
 There are at least two very different things that can hide behind the phrase **"just asking questions"**.
@@ -63,52 +61,83 @@ That is what scrutiny is for.
 
 ---
 
-## ✨ Key Features
+The parliamentary question is itself an RSVP. The answer is another.
 
-This node treats parliamentary questions as an **information technology**.
+Neither should be confused with the underlying event or record they describe.
 
-The method is:
+> **Admission gives the question procedural status, not evidential victory.**
 
-> **Find the join. Ask the question. Make the institution check its records.**
-
-More fully:
+The operational loop is:
 
 ```text
-PUBLIC RECORDS
-+ parliamentary records
-+ contracts
-+ registers
-+ departmental publications
-+ audit findings
-+ released correspondence
-+ transparency data
-+ machine-assisted comparison
-        ↓
-POSSIBLE COLLISIONS
-        ↓
-HUMAN TRIAGE
-        ↓
-PARLIAMENTARY SCRUTINY
-        ↓
+PUBLIC INFORMATION
+       ↓
+COLLISION / GAP
+       ↓
+WHAT EXACTLY IS MISSING?
+       ↓
+WHO SHOULD KNOW?
+       ↓
+WHICH ROUTE CAN ASK THEM?
+       ↓
+BOUNDED PARLIAMENTARY QUESTION
+       ↓
 GOVERNMENT RESPONSE
-        ↓
-UPDATED PUBLIC RECORD
-        ↺
+       ↓
+CLASSIFY THE RESPONSE
+       ↓
+UPDATE EVIDENCE STATE
+       ↓
+CLOSE / NARROW / FOLLOW / REROUTE
+       ↺
 ```
 
-The loop matters more than any single question.
+---
 
-A question is not a conclusion.
+## ✨ Key Features
 
-An answer is not necessarily closure.
+This node treats written parliamentary questions as one institutional retrieval
+route inside a wider RSVP method.
 
-The answer is another RSVP.
+It:
+
+- identifies unresolved joins between public records;
+- classifies what kind of information is actually missing;
+- distinguishes record holder, decision owner and parliamentary answering body;
+- formulates questions that do not smuggle unproved premises into their grammar;
+- uses admissibility rules as part of question discipline;
+- distinguishes questions seeking information from questions pressing for action;
+- chains questions progressively where one answer exposes the next missing join;
+- classifies government responses rather than treating every published answer as
+  equivalent;
+- preserves corrections and answer history;
+- reroutes questions where a PQ is not the appropriate retrieval mechanism;
+- uses machines to find candidate joins without delegating evidential judgement;
+- updates the evidence state when an answer arrives.
+
+> **Find the join. Ask the question. Make the institution check its records.**
 
 ---
 
 ## 🗺️ What Has Mike Wood Actually Been Asking?
 
-Wood's parliamentary record is large. As of 17 September 2026, Parliament's member page reports **3,733 written questions** submitted by him. The point of this node is not to reproduce thousands of rows. It is to select examples which demonstrate different ways of interrogating a join.
+As of **17 September 2026**, Parliament's member page returned **3,769 written
+questions** submitted by Mike Wood. That total is a live corpus count rather
+than a claim that every item has been manually coded in this node.
+
+```text
+CORPUS:
+authoritative source = Parliament
+
+THIS NODE:
+selected methodological examples
+
+NOT:
+complete thematic coding of every question
+```
+
+
+Wood's parliamentary record is large. As of 17 September 2026, Parliament's member page reports **3,769 written questions** submitted by him. The point of this node is not to reproduce thousands of rows. It is to select examples which demonstrate different ways of interrogating a join.
 
 A compact working map looks like this:
 
@@ -209,7 +238,51 @@ They can also require government to state what it intends to do.
 
 ---
 
+## 🧮 Definition Is A Join Too
+
+Some questions are not really about whether a number exists. They are about
+what the number means.
+
+```text
+number
+  ↓
+of WHAT?
+  ↓
+category definition
+  ↓
+scope
+```
+
+That is a **semantic gap**.
+
+A figure can be perfectly reproduced and still mislead if the counted category
+is not the category the reader thinks it is.
+
+The later `Seven Thousand What?` example matters for exactly this reason.
+
+---
+
 ## 🧩 Find The Collision
+
+The parent RSVP taxonomy gives the first diagnostic vocabulary:
+
+```text
+possible gap types:
+
+custody
+scope
+semantic
+procedural
+temporal
+implementation
+provenance
+retrieval
+attribution
+```
+
+First classify the missing join. Then design the question around the missing
+field.
+
 
 A useful parliamentary question often begins where two institutional descriptions do not quite join.
 
@@ -422,6 +495,53 @@ It can improve the scrutiny.
 
 ---
 
+## 🧑‍💼 Record Holder, Decision Owner, Answering Body
+
+Three institutional roles need to stay separate.
+
+```text
+RECORD HOLDER
+Who possesses the relevant evidence?
+
+DECISION OWNER
+Who exercised the relevant authority?
+
+ANSWERING BODY
+Which government body is responsible
+for answering Parliament on the subject?
+```
+
+Sometimes all three are the same institution.
+
+Sometimes they are not.
+
+```text
+specialist body
+produces advice
+       ↓
+department
+holds / receives record
+       ↓
+minister / risk owner
+makes decision
+       ↓
+department
+answers Parliament
+```
+
+A weak investigation can ask the wrong actor because it silently assumes that
+possession, authority and parliamentary responsibility collapse into one
+function.
+
+> **Knowing who should answer is not always the same thing as knowing who made
+> the decision or who physically holds the underlying record.**
+
+This distinction also matters when a question is transferred between
+departments. Parliamentary procedure routes questions according to ministerial
+responsibility; the evidential chain may still cross several institutions.
+
+---
+
 ## 🧭 Project Cannon: Follow The Responsibility Route
 
 UIN 20754 is a clean example of a **routing question**.
@@ -565,6 +685,61 @@ It is part of records management, cyber security, information assurance and inst
 
 ---
 
+## 🔗 One Answer Can Build The Next Question
+
+A sequence of questions can progressively constrain the uncertainty.
+
+```text
+Q1
+establishes A
+   ↓
+ANSWER 1
+   ↓
+A enters public record
+   ↓
+Q2
+uses A to isolate B
+   ↓
+ANSWER 2
+   ↓
+Q3
+tests B against C
+```
+
+This is **progressive constraint**.
+
+For example:
+
+```text
+Q1: Did contact occur?
+        ↓
+YES
+        ↓
+Q2: On what dates?
+        ↓
+DATES
+        ↓
+Q3: Was assessment X made
+during that period?
+```
+
+That is structurally different from jumping straight to:
+
+```text
+Why did contact cause decision Y?
+```
+
+The latter may embed both contact and causation before either has been
+established.
+
+> **A good question sequence turns yesterday's uncertainty into tomorrow's
+> premise only after the institution has actually established it.**
+
+Question chaining is therefore not repetition for its own sake. Done properly,
+it constructs an evidential bridge one load-bearing join at a time.
+
+---
+
 ## 🧾 Documentation Is Institutional Resilience
 
 A parliamentary question can only retrieve what the institution has made retrievable.
@@ -651,6 +826,35 @@ It is not immunity.
 A documented concern does not excuse unrelated misconduct. A record can be misleading. A process can be formally followed while still being substantively inadequate.
 
 But a scrutiny architecture which can only implicate and cannot exonerate is not a very good scrutiny architecture.
+
+---
+
+## 📥 Not All Answers Answer
+
+A published response is an information event. It does not follow that it
+resolves the analytical join which caused the question to be asked.
+
+A useful analytical response taxonomy is:
+
+| Response Type | What It Does | Next Move |
+|---|---|---|
+| Substantive | Supplies the requested information | Update evidence state |
+| Partial | Supplies only part | Isolate the remainder |
+| Negative | Says an event or record did not occur or exist | Inspect basis and search scope |
+| Not held | Answering body says it does not hold the information | Locate likely holder |
+| Referral / transfer | Routes responsibility elsewhere | Follow the responsibility route |
+| Security / confidentiality limitation | Withholds some or all information | Identify the stated basis and what remains answerable |
+| Data / cost limitation | Information cannot readily be supplied in requested form | Narrow, aggregate or use another source |
+| Adjacent answer | Responds without resolving the exact join | Reformulate |
+| Commitment to write / publish | Defers the substantive information | Track the promised artefact |
+| Correction | Changes an earlier public answer | Preserve both states; update current record |
+| Unresolved | Leaves the analytical question materially open | Follow up or reroute |
+
+These are analytical categories, not a claim that Parliament formally labels
+every answer this way.
+
+> **A response can satisfy the procedural event of answering a parliamentary
+> question without resolving the analytical join.**
 
 ---
 
@@ -759,6 +963,63 @@ That is useful information about the information environment itself.
 
 ---
 
+## 🔄 Update The Evidence State
+
+When an answer arrives, it should change the analytical state rather than being
+stacked underneath the theory which caused the question.
+
+```text
+EXISTING GAP
+      +
+NEW RSVP
+      ↓
+COMPARE
+      ↓
+STATE UPDATE
+```
+
+Useful states include:
+
+```text
+CLOSED
+NARROWED
+CORROBORATED
+CONTRADICTED
+DISPLACED
+SUPERSEDED
+UNRESOLVED
+NEW GAP CREATED
+```
+
+Examples:
+
+```text
+wrong department
+→ DISPLACED
+
+specific factual answer
+→ CLOSED / NARROWED
+
+correction
+→ SUPERSEDED
+  previous state retained historically
+
+new institution identified
+→ NEW GAP / NEW ROUTE
+
+answer contradicts working theory
+→ THEORY UPDATED
+```
+
+> **Do not merely append the answer underneath the theory which caused the
+> question. Let the answer change the theory.**
+
+That is why corrections matter. The earlier answer remains part of the record,
+but it should not continue to function as the current evidential state after a
+correction supersedes it.
+
+---
+
 ## 🤖 Machine Finds The Join; Human Decides What It Means
 
 There is a strong case for machine-assisted parliamentary scrutiny.
@@ -848,9 +1109,9 @@ This became visible during work on the Wood corpus itself.
 
 Attempts to enumerate the record through different information and retrieval layers produced unstable subsets. Some routes returned only a handful of records. Others exposed different pagination. Search results could surface specific UINs reliably while failing to reconstruct the full corpus.
 
-The authoritative Parliament member page currently reports **3,733** written questions.
+The authoritative Parliament member page currently reports **3,769** written questions.
 
-That does not mean every intermediary tool can reliably hand a researcher all 3,733.
+That does not mean every intermediary tool can reliably hand a researcher all 3,769.
 
 The pipeline is:
 
@@ -912,6 +1173,49 @@ But:
 > **If automation removes the apprenticeship tasks, institutions need another way to produce experienced analysts.**
 
 That is a workforce-design problem, not an argument against AI.
+
+---
+
+## 🚪 Know When To Use Another Door
+
+A written parliamentary question is one retrieval mechanism, not the universal
+answer to every missing join.
+
+```text
+MISSING INFORMATION
+       ↓
+Is a PQ the right route?
+       │
+   ┌───┴────┐
+   ↓        ↓
+  YES       NO
+   ↓        ↓
+  PQ       FOI
+           committee
+           audit
+           regulator
+           procurement record
+           company record
+           court material
+           departmental publication
+           implementation data
+           other route
+```
+
+Reasons to reroute can include:
+
+- the matter is not within ministerial responsibility;
+- another institution holds the relevant record;
+- the evidential need is document disclosure rather than a factual answer;
+- the data volume is unsuitable for a bounded PQ;
+- an independent regulator or auditor is the proper evidential source;
+- the answer requires technical examination rather than ministerial reporting;
+- the information is already available through a more direct public route.
+
+The objective is to retrieve or test the missing information, not to become
+attached to one constitutional mechanism.
+
+> **Ask the bastard who should — using the route that can actually reach them.**
 
 ---
 
@@ -1162,84 +1466,68 @@ Very British solution, really.
 
 ## ♟️ An Opponent Who Does Not Grant Your Premises
 
-There is another reason adversarial parliamentary scrutiny can be useful.
+Adversarial scrutiny has a useful information function even when the analyst
+does not share the reviewer's politics.
 
-Friendly reviewers often share assumptions.
+A sympathetic reviewer may accept assumptions because they are familiar,
+reasonable within the group, or aligned with the project's intended outcome.
 
-A genuine political opponent frequently does not.
+A politically opposed reviewer may challenge those same assumptions precisely
+because they do not begin from the same premises.
 
 ```text
-YOUR ARGUMENT
-      ↓
 friendly scrutiny
-      ↓
-tests execution
+→ may stress-test execution
 
-YOUR ARGUMENT
-      ↓
-genuinely opposed scrutiny
-      ↓
-tests premises
+adversarial scrutiny
+→ may additionally stress-test
+premises
 definitions
 evidence
-joins
 exceptions
 ```
 
-That does not make the opponent right.
+The point is not that opposition is automatically correct.
 
-It does not make their politics admirable.
+It is that a system which can survive questioning from people who do not grant
+its premises has undergone a different kind of test from one reviewed only by
+people who broadly agree with it.
 
-It means an intelligent opponent may find a weakness which a room full of people already sympathetic to the argument simply walks past.
-
-This is the useful thing about the Rees-Mogg problem.
-
-It is entirely possible to disagree profoundly with somebody's politics while recognising that they are annoyingly skilled at procedure, argument or finding the place where your case is weak.
-
-> **Substantial disagreement can be an unusually good stress test because the other person does not automatically grant the premises on which your argument rests.**
-
-A system which only permits scrutiny from people who already agree with the government has not invented scrutiny.
-
-It has invented a meeting.
+> **Adversarial scrutiny is useful when it forces an argument to show which
+> premises are evidence and which are merely shared assumptions.**
 
 ---
 
 ## 🧠 Opposition As Error-Correction Architecture
 
-That gives opposition a role beyond competing to possess power.
+Parliamentary opposition can function as part of an institutional
+error-detection loop.
 
 ```text
 GOVERNMENT
 acts
  ↓
-OPPOSITION
-interrogates
+OPPOSITION / OTHER MPs
+interrogate
  ↓
 GOVERNMENT
 answers
  ↓
 PUBLIC RECORD
 expands
- ↓
-EVERYBODY
-gets more evidence
 ```
 
-Sometimes the opposition question exposes a government failure.
+That does not mean every opposition question is good, every government answer
+is bad, or every disagreement exposes an error.
 
-Sometimes the government answer exposes a bad opposition premise.
+The constitutional value lies partly in making decisions, assumptions and
+records available for contest from outside the decision-making coalition.
 
-Sometimes both sides are working from an incomplete category and the answer improves everybody's map.
+A question can therefore be useful even when its premise is rejected, provided
+the process exposes what is established, what is disputed and what evidence
+would resolve the join.
 
-The constitutional value lies partly in making error **discoverable**.
-
-> **Opposition can be part of the error-correction architecture of power rather than merely competition for possession of power.**
-
-That does not require pretending opposition actors are disinterested.
-
-Adversarial systems are useful precisely because the participants often are not.
-
-The governance task is to make the rules strong enough that competition produces information rather than merely noise.
+> **The constitutional value lies partly in making error discoverable.**
 
 ---
 
@@ -1314,6 +1602,27 @@ Not the only one.
 But a very old, very useful one.
 
 ---
+
+
+The defence-training join demonstrates why a PQ is not always the immediate
+next move.
+
+```text
+📁 FIGHTBACK
+      ↓
+possible training-spend join
+      ↓
+🪖 TRAINING DEBRIEF
+longitudinal evidence
+      ↓
+unresolved institutional fact?
+      ↓
+😇 PQ / OTHER ROUTE
+```
+
+Sometimes the correct next step is more analysis first. The question should be
+asked only after the longitudinal evidence has made the missing institutional
+fact legible enough to ask cleanly.
 
 ## 🐙 CRAKEN
 
@@ -1399,115 +1708,105 @@ Then ask:
 
 ---
 
-## 🌌 Constellations
-
-The RSVP loop now looks like this:
 
 ```text
-                         💌 VISIBLE INK
-                              │
-                              ↓
-                           📮 RSVPs
-                              │
-                 compare information objects
-                              │
-                   ┌──────────┴──────────┐
-                   ↓                     ↓
-          📁 FIGHTBACK PLAN       😇 CONSERVATIVES
-               LEAKS              JUST ASKING QUESTIONS
-                   │                     │
-          SHOW THE WORKING         ASK FOR THE WORKING
-                   │                     │
-                   └──────────┬──────────┘
-                              ↓
-                       NEW PUBLIC RECORD
-                              ↓
-                          NEW RSVP
-                              ↺
+record holder
+≠ decision owner
+
+decision owner
+≠ answering body
+
+answer published
+≠ join resolved
+
+not held
+≠ never existed
+
+no search result
+≠ evidence of absence
+
+follow-up question
+≠ moving goalposts
+
+question chain
+≠ repeated allegation
+
+procedural answer
+≠ substantive answer
+
+new evidence
+≠ support for original theory
 ```
 
-Related constellations:
+Before treating a PQ sequence as evidentially useful, ask:
 
-- **[📮 RSVPs](./README.md)** — compare responses and make missing joins legible.
-- **[📁 Fightback Plan Leaks](./📁_fightback_plan_leaks.md)** — artefact provenance, policy continuity and the missing workbook.
-- **[💌 Visible Ink](../README.md)** — information containers, routes, custody and exposure.
-- **[🏛️ White House Snitches](../../🌊_Playing_Defence/🏛️_White_House_Snitches/README.md)** — separate information outcome, mechanism and attribution.
-- **[🐣 Ugly Ducklings](../../../../🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md)** — `anomaly ≠ attribution`, `relationship ≠ coordination`, provenance and distributed information systems.
-- **[📲 Press Matters](../../README.md)** — the wider media and public-information environment.
-- **[Polaris Protocol](../../../../README.md)** — root navigation.
+1. What gap type is this?
+2. What exactly is established?
+3. Who should hold the record?
+4. Who made the decision?
+5. Who is responsible for answering?
+6. Is a PQ the correct route?
+7. Does the question embed an unproved premise?
+8. What answer would hurt the theory?
+9. What kind of response came back?
+10. Did it resolve the actual join?
+11. What state is the gap now in?
+12. Should we stop, follow up or change route?
+
+## 📚 Public Sources
+
+- [UK Parliament: Written questions submitted by Mike Wood](https://members.parliament.uk/member/4384/writtenquestions)
+- [UK Parliament: Written questions and answers search](https://questions-statements.parliament.uk/written-questions)
+- [UK Parliament: Rules for questions](https://guidetoprocedure.parliament.uk/collections/4C9X53XG)
+- [UK Parliament: Ministerial responsibility](https://guidetoprocedure.parliament.uk/articles/CuEfCuHX)
+- [Erskine May: Speaker's control of questions](https://erskinemay.parliament.uk/section/4937/speakers-control-of-questions)
+- [Erskine May: Questions to Ministers](https://erskinemay.parliament.uk/section/4940/questions-to-ministers)
+- [UK Parliament: Standing Orders of the House of Commons — notices of questions](https://publications.parliament.uk/pa/cm5901/cmstords/so_829_05072024/so-orders.html)
+- [UK Parliament: UIN 27254 — Government Departments: Artificial Intelligence](https://questions-statements.parliament.uk/written-questions/detail/2026-09-04/27254)
+
+The Mike Wood examples in this node are a selected methodological sample from
+the parliamentary record, not a complete manual coding of the live corpus.
+
+---
+
+## 🌌 Constellations
+
+📮 📁 🧾 🤖 ⚖️ — RSVP question-routing, Fightback provenance gaps, public-record
+construction, machine-assisted scrutiny, and parliamentary procedure.
 
 ---
 
 ## ✨ Stardust
 
-`Mike Wood` · `written parliamentary questions` · `UIN` · `Table Office` · `Speaker` · `ministerial responsibility` · `factual basis` · `parliamentary privilege` · `Article IX` · `Bill of Rights 1689` · `institutional collision` · `bounded question` · `Project Cannon` · `NCSC` · `JIO` · `UK Security Vetting` · `Developed Vetting` · `Top Secret` · `STRAP` · `Humble Address` · `search scope` · `off-boarding` · `records preservation` · `professional conduct` · `Cash for Questions` · `Neil Hamilton` · `standards` · `public record` · `machine-assisted scrutiny` · `corpus completeness` · `semantic interoperability` · `failure demand` · `adversarial scrutiny` · `opposition` · `error correction` · `RSVPs`
+parliamentary scrutiny, written questions, public records, institutional responsibility, question chaining, answer classification, evidence retrieval, machine-assisted scrutiny, parliamentary privilege, rsvp analysis
 
 ---
 
-## 📚 Public Sources
+## 🏮 Footer
 
-### Parliamentary Questions And Procedure
+*Conservatives Just Asking Questions* is a living node of the **Polaris
+Protocol**.  
+It examines written parliamentary questions as an institutional retrieval
+mechanism: converting unresolved joins in public information into bounded
+questions, testing those questions against government records, and returning
+the resulting answers to the evidence environment as new RSVPs.
 
-- [UK Parliament: Written questions submitted by Mike Wood](https://members.parliament.uk/member/4384/writtenquestions)
-- [UK Parliament: Rules for questions](https://guidetoprocedure.parliament.uk/collections/4C9X53XG)
-- [UK Parliament: Basis of the question](https://guidetoprocedure.parliament.uk/articles/eiPyAakK/basis-of-the-question)
-- [UK Parliament: Ministerial responsibility](https://guidetoprocedure.parliament.uk/articles/CuEfCuHX)
-- [UK Parliament: Privilege and interests](https://guidetoprocedure.parliament.uk/collections/WnpbIESe)
-- [Erskine May: Article IX of the Bill of Rights](https://erskinemay.parliament.uk/section/4589/article-ix-of-the-bill-of-rights)
+> 📡 Cross-references:
+>
+> - [📮 RSVPs](./README.md) — *parent methodology for comparing information objects and maintaining unresolved joins*
+> - [📁 Fightback Plan Leaks](./📁_fightback_plan_leaks.md) — *worked provenance case generating questions about policy origin, status, implementation and information handling*
+> - [🪖 Training Debrief](../../🌊_Playing_Defence/🪖_Training_Debrief/README.md) — *longitudinal evidence environment in which the defence-training join can be tested before institutional escalation*
+> - [🏛️ White House Snitches](../../🌊_Playing_Defence/🏛️_White_House_Snitches/README.md) — *information-exposure analysis separating outcome, mechanism and attribution*
+> - [🐣 Ugly Ducklings](../../../../🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md) — *provenance, distributed information and the distinction between anomaly and attribution*
+>
+> 🏮 Return To:
+>
+> - [📮 RSVPs](./README.md) — *1up*
+> - [💌 Visible Ink](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
-### Selected Mike Wood Questions
+*Survivor authorship is sovereign. Containment is never neutral.*
 
-- [UIN 20754: Cabinet Office — Labour Together/APCO dossier](https://questions-statements.parliament.uk/written-questions/detail/2026-08-28/20754)
-- [UIN 20626: FCDO — Lord Mandelson / OpenAI](https://questions-statements.parliament.uk/written-questions/detail/2026-08-28/20626)
-- [UIN 20622: FCDO — Lord Mandelson / Global Counsel / Palantir](https://questions-statements.parliament.uk/written-questions/detail/2026-08-28/20622)
-- [UIN 20634: FCDO — No.10 / Global Counsel / Palantir](https://questions-statements.parliament.uk/written-questions/detail/2026-08-28/20634)
-- [UIN 20621: FCDO — UK Security Vetting risks](https://questions-statements.parliament.uk/written-questions/detail/2026-08-28/20621)
-- [UIN 20620: FCDO — Developed Vetting contrary to UKSV recommendation](https://questions-statements.parliament.uk/written-questions/detail/2026-08-28/20620)
-- [UIN 20629: FCDO — Top Secret and STRAP access](https://questions-statements.parliament.uk/written-questions/detail/2026-08-28/20629)
-- [UIN 20617: FCDO — off-boarding non-corporate devices and email](https://questions-statements.parliament.uk/written-questions/detail/2026-08-28/20617)
-- [UIN 20579: Cabinet Office — Humble Address search scope](https://questions-statements.parliament.uk/written-questions/detail/2026-08-28/20579)
-- [UIN 21055: Cabinet Office — General Counsel fact-finding report](https://questions-statements.parliament.uk/written-questions/detail/2026-08-28/21055)
-- [UIN 21123: MoD — Global Counsel / Palantir visit](https://questions-statements.parliament.uk/written-questions/detail/2026-08-28/21123)
-- [UIN 21147: MoD — Global Counsel correspondence](https://questions-statements.parliament.uk/written-questions/detail/2026-08-28/21147)
-- [UIN 21148: MoD — Defence Attaché invitation route](https://questions-statements.parliament.uk/written-questions/detail/2026-08-28/21148)
-- [UIN 27254: Cabinet Office — AI and statutory duties to consult, corrected answer](https://questions-statements.parliament.uk/written-questions/detail/2026-09-04/27254)
-
-### Cash For Questions And Standards
-
-- [House of Commons Standards and Privileges: Eighth Report — Mr Neil Hamilton](https://publications.parliament.uk/pa/cm199798/cmselect/cmstnprv/261viii/sp0803.htm)
-- [Hansard, 17 November 1997: Standards and Privileges](https://hansard.parliament.uk/commons/1997-11-17/debates/baaba874-0a1c-464f-b2c6-37b49901ea7f/StandardsAndPrivileges)
-- [House of Lords: Bribery Act 2010 — post-legislative scrutiny, background on the Nolan Committee](https://publications.parliament.uk/pa/ld201719/ldselect/ldbribact/303/303.pdf)
-
----
-
-## 🏮 Ask The Bastard Who Should
-
-The clever thing about a parliamentary question is not that the questioner already knows the answer.
-
-It is that Parliament provides a mechanism for identifying a gap in the public record, formulating it within procedural constraints, and asking the institution which ought to possess the missing information to account for it.
-
-The answer may confirm the concern.
-
-It may destroy it.
-
-It may show that the wrong institution was being asked.
-
-It may establish that the record does not exist.
-
-It may reveal that two apparently contradictory accounts were using different definitions.
-
-It may need correcting.
-
-It may simply expose another gap.
-
-Good.
-
-That answer is now another RSVP.
-
-Put it beside the others and look again.
-
-> **Sometimes the responsible answer is "we don't know". Parliament has a rather useful technology for what happens next: ask the bastard who should.** 😇
-
----
-
-*Polaris treats survivor authorship and analytical sovereignty as load-bearing. Evidence may be incomplete without being empty; uncertainty may be preserved without being surrendered; and containment is never neutral.*
+_Last updated: 2026-09-17_

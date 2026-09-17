@@ -1,9 +1,8 @@
 # 📁 Fightback Plan Leaks
-
-**First created:** 2026-09-17  
-**Last updated:** 2026-09-17
-
+**First created:** 2026-09-17 | **Last updated:** 2026-09-17
 *The leaked Downing Street policy bundle, the provenance hidden by presentation, and what can — and cannot — be learned by putting documents, reporting, political responses and subsequent policy beside one another.*
+
+---
 
 ## 🛰️ Orientation
 
@@ -45,31 +44,50 @@ It is also:
 
 That is where this becomes an RSVP.
 
+The leak produces several related but non-identical information objects at once:
+the originating artefacts, Sky's representation and classification of them,
+political responses to that representation, and subsequent policy or
+implementation records.
+
+Putting those objects beside one another can create questions which none of
+them answers alone.
+
+
 ---
 
 ## ✨ Key Features
 
-This node treats the leak as an **information environment**, not a single magic document.
+This node treats the leak as an **information environment**, not a single magic
+document.
 
-It separates:
+It:
 
-- the wider leaked bundle from the core policy document;
-- source prose from policy-card compression;
-- visual structure from flat transcription;
-- policy ideas from decisions and implementation;
-- Sky's classification from classifications contained in the source;
-- evidence provenance from idea provenance;
-- political failure from policy or delivery failure;
-- `OFFICIAL` from `OFFICIAL-SENSITIVE`;
-- an information outcome from its acquisition mechanism;
-- network topology from agency;
-- later similarity from causal inheritance;
-- political responses from the underlying artefacts;
-- machine-assisted comparison from human judgement.
+- distinguishes the wider leaked bundle from the core policy document;
+- preserves source artefact, presentation and reporting as separate information
+  objects;
+- treats visual layout and compression as transformations capable of changing
+  apparent meaning;
+- distinguishes evidence provenance from idea provenance;
+- distinguishes policy appearance from policy status, decision and
+  implementation;
+- tests later policy continuity proposal by proposal rather than inferring
+  copying from similarity;
+- treats classification markings as evidence of handling judgement rather than
+  self-explanatory evidence of harm;
+- distinguishes information exposure from acquisition mechanism and
+  attribution;
+- connects implementation anomalies to their appropriate longitudinal evidence
+  nodes;
+- identifies the minimum provenance necessary to make government policy
+  reasoning publicly inspectable;
+- preserves unresolved joins as questions rather than conclusions;
+- uses machines to locate candidate joins without delegating evidential
+  judgement.
 
 The governing rule is simple:
 
-> **Where the public record leaves a join unresolved, preserve the gap. Do not manufacture the missing information.**
+> **Where the public record leaves a join unresolved, preserve the gap. Do not
+> manufacture the missing information.**
 
 ---
 
@@ -102,6 +120,41 @@ This sounds boring because it is records management.
 
 It is also how one avoids accidentally inventing a better conspiracy than the evidence can support.
 
+
+---
+
+## 🕰️ Which Version Are We Looking At?
+
+The bundle is not only a collection of different artefact types. Policy
+development is also iterative.
+
+```text
+draft
+  ↓
+revised draft
+  ↓
+23 April artefact
+  ↓
+later submission
+  ↓
+ministerial decision
+  ↓
+announcement
+```
+
+The dated material is a snapshot.
+
+If a later announcement differs from the April wording, several explanations
+remain possible. The policy may have changed after 23 April. An alternative may
+have been selected. Departmental work may have continued. A presentation may
+have compressed the underlying position. A later government may have altered
+the mechanism. Another version of the April work may have existed.
+
+> **Version difference is not noise around the provenance. Version difference
+> can itself be provenance evidence.**
+
+Before asking whether a later policy matches **the leak**, establish which
+version of the leaked work is actually being compared.
 
 ---
 
@@ -182,7 +235,19 @@ This is why screenshots matter even where text has been reproduced separately. T
 
 ## 🗃️ The Policy-Card Reconstruction
 
-The following is a working transcription from the policy boards shown in Sky's published material and screenshots. It should be treated as a **visual reconstruction**, not as a claim that every phrase below is verbatim prose from the underlying core submission.
+The following is a working transcription from the policy boards shown in
+Sky's published material and screenshots. It should be treated as a **visual
+reconstruction**, not as a claim that every phrase below is verbatim prose from
+the underlying core submission.
+
+```text
+STATUS:
+working visual transcription
+
+NOT:
+independently authenticated verbatim
+core-document text
+```
 
 ### Board Group One
 
@@ -304,6 +369,22 @@ That matters when a later political response treats a card as though it were the
 
 It also matters when a machine extracts only the card.
 
+```text
+GAP TYPE:
+REPRESENTATION
+
+source:
+conditional / alternative structure
+
+representation:
+compressed policy label
+
+question:
+what dimensions were lost
+during transformation?
+```
+
+
 ---
 
 ## 🎛️ Policy Proposal, Policy Development, Policy Decision
@@ -313,6 +394,8 @@ Appearance in the April pack does not by itself tell us the status of an idea.
 A proposition may move through something like:
 
 ```text
+problem identified
+ ↓
 idea
  ↓
 option
@@ -341,6 +424,18 @@ The leak can illuminate several points on that ladder without automatically tell
 Likewise, circulation around Number 10 and parts of the Civil Service establishes circulation. It does not, without more, establish authorship, agreement, adoption or implementation by everybody who received it.
 
 This is why policy provenance cannot be inferred merely from where the surviving copy was found.
+
+```text
+GAP TYPES:
+PROCEDURAL
+IMPLEMENTATION
+```
+
+The question is:
+
+> **What happened between appearance in the artefact and the next evidenced
+> state?**
+
 
 ---
 
@@ -411,50 +506,97 @@ Do not use the political outcome as a universal performance metric for every com
 
 ---
 
-## 🪖 Leave A Flag In The Ground: Army Training Spend
+## 🪖 The Training Debrief Join
 
-There is an unresolved research lead in the wider material concerning **Army or defence training expenditure** and what happened subsequently.
+The defence material creates a particularly useful cross-node RSVP.
 
-It is deliberately not resolved here.
+The policy boards shown in the leak include **Publish defence investment plan**.
+Separately, the `🪖 Training Debrief` cluster is tracking the September 2026
+Army collective-training affordability problem: reporting around an
+approximately **£30 million** saving, changes to major collective-training
+activity, and the still-unresolved chain between wider Defence affordability,
+the selection of training activity, capability consequence and risk ownership.
 
-The reason for preserving it is methodological: something in the wider bundle appeared potentially interesting when set beside the later defence-spending and training record. That is enough to create a research question, not enough to create a conclusion.
+Those are independently useful information environments.
+
+Putting them beside one another creates a join.
 
 ```text
-OBSERVATION
-material in the wider bundle appears
-relevant to Army training expenditure
+APRIL LEAK
+defence policy / investment signal
         ↓
-POSSIBLE COMPARATOR
-MoD settlements
-Spending Review material
-training activity
-PQs
-departmental accounts
+        ?
         ↓
-STATUS
-NOT YET TESTED
+LATER TRAINING-SPEND DIP
+tracked longitudinally in
+🪖 TRAINING DEBRIEF
 ```
 
-A proper follow-up would establish:
+The existence of both observations does **not** establish that the April work
+caused the later training decision.
+
+Possible relationships remain open:
+
+```text
+direct implementation
+partial implementation
+departmental reprioritisation
+wider spending decision
+independent budget pressure
+timing coincidence
+different accounting categories
+no causal relationship
+```
+
+The relevant evidential chain is:
 
 ```text
 exact leaked wording
 + date
-+ proposed amount / mechanism
++ policy status
         ↓
-subsequent MoD settlement
+subsequent Defence settlement
         ↓
-Army training allocation / activity
+service / Army affordability position
         ↓
-reductions / increases / deferrals / transfers
+training allocation / activity
         ↓
-ministerial or departmental explanation
+reductions / redesign / deferrals
+        ↓
+capability consequence
+        ↓
+risk owner / explanation
 ```
 
-> **Matching numbers do not establish causal continuity.**
+The longitudinal spending, activity and readiness work belongs in
+[🪖 Training Debrief](../../🌊_Playing_Defence/🪖_Training_Debrief/README.md),
+rather than being duplicated here.
 
-This flag stays in the ground until the source wording and later expenditure series can be joined properly.
+Its investigation framework already insists on reconstructing the decision
+chain before assigning cause: financial pressure, savings requirement,
+candidate savings, training selected, activity changed, capability changed,
+readiness risk, risk owner.
 
+That is exactly the discipline needed here.
+
+```text
+GAP TYPES:
+TEMPORAL
+IMPLEMENTATION
+PROVENANCE
+
+POSSIBLY:
+SEMANTIC
+if expenditure / training categories differ
+```
+
+> **The leak is relevant because it supplies a possible upstream comparator for
+> a dip already identified elsewhere. It does not, merely by preceding that dip,
+> explain it.**
+
+This is RSVP doing the thing: two nodes become more informative when placed
+beside one another, while neither is allowed to answer the missing join by
+itself.
 
 ---
 
@@ -576,6 +718,56 @@ Ordinary provenance is still provenance.
 
 ---
 
+## 🧾 Minimum Viable Provenance
+
+**Show the working** does not necessarily mean publish every internal workbook,
+personal datum, legally privileged passage, security-sensitive assessment or
+name of every junior official involved.
+
+There is a difference between the complete internal lineage required to govern
+a policy process and the provenance that can responsibly be made public.
+
+```text
+INTERNAL PROVENANCE
+complete operational lineage
+        ↓
+legitimate disclosure controls
+        ↓
+PUBLIC PROVENANCE
+enough lineage to inspect
+the reasoning responsibly
+```
+
+A minimum public accountability record might include:
+
+| Field | Minimum Public Question |
+|---|---|
+| Problem | What problem was government trying to solve? |
+| Evidence category | What kinds of evidence supported the diagnosis? |
+| Institutional source | Which body supplied the analysis? |
+| Method | What analytical method produced the inference? |
+| Policy origin | Departmental, ministerial, external, inherited, other? |
+| Status | Idea, option, preferred proposal, decision? |
+| Decision owner | Which institutional function selected it? |
+| Date / version | Which iteration is being described? |
+| Implementation status | What happened afterwards? |
+| Withheld provenance | What category of harm prevents fuller disclosure? |
+
+This is not a demand to publish protected substance for theatre.
+
+It is a demand that the **reasoning lineage** be made as legible as legitimate
+protection permits.
+
+> **Accountability does not always require publishing the protected substance.
+> It does require making the reasoning lineage as legible as the legitimate
+> protection permits.**
+
+That principle matters especially where government asks the public to accept a
+conclusion while the evidence, model or provenance behind it cannot all be
+released.
+
+---
+
 ## 🏛️ Influence Is Not Ownership
 
 This becomes especially important when former ministers, former advisers, policy institutes, think tanks, consultancies, academics, businesses, unions and campaign organisations inhabit overlapping policy networks.
@@ -656,6 +848,23 @@ This applies to media ownership as much as political networks.
 The fact that a company owns a news organisation is corporate topology. It is not, by itself, evidence that the parent company selected a story, directed its framing, supplied its source or acted on behalf of another state or actor.
 
 > **An edge on the map means only what the evidence establishing that edge says it means.**
+
+```text
+relationship edge
++
+document lineage
++
+timing
++
+evidenced transfer
+=
+stronger provenance claim
+
+relationship edge alone
+=
+relationship edge
+```
+
 
 Map first.
 
@@ -1031,16 +1240,19 @@ For each proposal, the ideal provenance record would contain:
 | Field | Question |
 |---|---|
 | Source artefact | Where exactly does it appear? |
+| Version / document history | Which iteration are we looking at? |
 | Source wording | What did the underlying material say? |
 | Presentation wording | How was it compressed? |
 | Problem statement | What problem was being addressed? |
 | Evidence base | What established its scale or nature? |
 | Evidence sources | Which datasets, papers, submissions or records? |
+| Evidence lineage | Which sources are independent roots and which are inherited? |
 | Analytical owner | Which institution conducted the analysis? |
 | Method | How was the inference produced? |
 | Assumptions | What was assumed? |
 | Policy origin | Where did the intervention originate? |
 | Contributors | Which departments or external organisations developed it? |
+| Known antecedents | What earlier policies, publications or proposals resemble it? |
 | Alternatives | What else was considered? |
 | April status | Idea, option, proposal, preferred policy? |
 | Selection | Why did this option survive? |
@@ -1112,6 +1324,73 @@ That is where this node hands over to:
 
 ---
 
+## 🔄 What Happens When New Evidence Arrives?
+
+A provenance investigation should not merely accumulate documents underneath
+the theory that caused the search.
+
+When a new document, answer, dataset or implementation record arrives, map it
+back to the gap it was supposed to illuminate.
+
+```text
+NEW RSVP
+   ↓
+characterise object
+   ↓
+map to existing gap
+   ↓
+test comparability
+   ↓
+UPDATE STATE
+```
+
+Useful states include:
+
+```text
+CLOSED
+NARROWED
+CORROBORATED
+CONTRADICTED
+DISPLACED
+SUPERSEDED
+UNRESOLVED
+NEW GAP CREATED
+```
+
+In this case:
+
+```text
+Army expenditure / activity data
+→ Training Debrief join
+
+new policy announcement
+→ continuity join
+
+classification explanation
+→ Missing Because join
+
+provenance disclosure
+→ Calliopes join
+
+parliamentary answer
+→ institutional-record join
+```
+
+A later answer may support the original working theory.
+
+It may also make it smaller, move it to another institution, establish that two
+objects were not comparable, or kill it completely.
+
+Good.
+
+> **New evidence should change the state of the question, not merely be
+> accumulated underneath the original theory.**
+
+Preserve the previous state as history. Do not preserve it as the current
+conclusion after better evidence arrives.
+
+---
+
 ## 🐙 CRAKEN
 
 **Calcaneus Reflexion Anti-Kraken Ecological Navigation System**
@@ -1167,6 +1446,18 @@ anomaly
 
 matching expenditure
 ≠ causal continuity
+
+same title
+≠ same version
+
+earlier proposal
+≠ cause of later dip
+
+missing provenance
+≠ improper provenance
+
+no record found
+≠ record never existed
 ```
 
 Then ask positively:
@@ -1189,101 +1480,58 @@ The point is to stop inference quietly dressing itself up as observation.
 
 ---
 
+## 📚 Public Sources
+
+- [Sky News: “Leak from No 10 reveals how Starmer planned to stay in power - and the policies borrowed by Burnham”](https://news.sky.com/story/leak-from-no-10-reveals-how-starmer-planned-to-stay-in-power-and-the-policies-borrowed-by-burnham-13589059)
+- [Sky News politics live: reactions to the leaked Downing Street papers](https://news.sky.com/story/politics-latest-burnham-labour-farage-badenoch-reform-macron-12593360?postid=12460925)
+- [Sky News: “Army stops some training exercises over lack of money despite Kremlin warning”](https://news.sky.com/story/army-stops-some-training-exercises-over-lack-of-money-despite-kremlin-warning-13581149)
+- [Cabinet Office: Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications/government-security-classifications-policy-html)
+- [Cabinet Office: Government Security Classifications Policy — Quick Read](https://www.gov.uk/government/publications/government-security-classifications/government-security-classifications-policy-quick-read-html)
+
+The policy-card list above remains a working visual transcription from the
+published material rather than an independently authenticated verbatim copy of
+the complete leaked bundle.
+
+---
+
 ## 🌌 Constellations
 
-This node sits inside a larger information-governance loop:
-
-```text
-                         💌 VISIBLE INK
-                              │
-                              ↓
-                           📮 RSVPs
-                              │
-                 compare information objects
-                              │
-                   ┌──────────┴──────────┐
-                   ↓                     ↓
-          📁 FIGHTBACK PLAN       😇 CONSERVATIVES
-               LEAKS              JUST ASKING QUESTIONS
-                   │                     │
-          SHOW THE WORKING         ASK FOR THE WORKING
-                   │                     │
-                   └──────────┬──────────┘
-                              ↓
-                       NEW INFORMATION
-                              ↓
-                          NEW RSVP
-                              ↺
-```
-
-Related constellations:
-
-- **[📮 RSVPs](./README.md)** — compare responses without forcing premature closure.
-- **[💌 Visible Ink](../README.md)** — information containers, routes, exposure and public legibility.
-- **[🏛️ White House Snitches](../../🌊_Playing_Defence/🏛️_White_House_Snitches/README.md)** — separate information outcome, mechanism and attribution.
-- **[🐣 Ugly Ducklings](../../../../🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md)** — provenance, selective extraction and distributed information systems.
-- **[📲 Press Matters](../../README.md)** — the wider media and public-information environment.
-- **[Polaris Protocol](../../../../README.md)** — root navigation.
+📮 🪖 🐣 🕸️ 🎠 — RSVP comparison, Training Debrief implementation evidence,
+provenance lineage, network discipline, and the Calliopes behind policy
+production.
 
 ---
 
 ## ✨ Stardust
 
-`Sky News` · `Downing Street` · `April 2026` · `policy bundle` · `core policy document` · `policy submissions` · `policy cards` · `editorial compression` · `layout as data` · `visual structure` · `20 6 8 16` · `policy continuity` · `policy status` · `realisation` · `delivery` · `Army training` · `evidence provenance` · `idea provenance` · `Calliopes` · `Ugly Ducklings` · `OFFICIAL` · `OFFICIAL-SENSITIVE` · `category of harm` · `temporal sensitivity` · `network topology` · `ownership` · `attribution` · `leak pathway` · `RSVPs` · `machine-assisted scrutiny` · `human judgement`
+information provenance, policy development, leaked documents, policy continuity, implementation gaps, evidence lineage, classification, information exposure, machine-assisted scrutiny, rsvp analysis
 
 ---
 
-## 📚 Public Sources
+## 🏮 Footer
 
-- [Sky News: “Leak from No 10 reveals how Starmer planned to stay in power - and the policies borrowed by Burnham”](https://news.sky.com/story/politics-latest-burnham-labour-farage-badenoch-reform-macron-12593360?postid=12460484)
-- [Cabinet Office: Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications/government-security-classifications-policy-html)
-- [Cabinet Office: Guidance 1.1 — Working at OFFICIAL](https://www.gov.uk/government/publications/government-security-classifications/guidance-11-working-at-official-html)
-- [Cabinet Office: Government Security Classifications Policy — Quick Read](https://www.gov.uk/government/publications/government-security-classifications/government-security-classifications-policy-quick-read-html)
-- [Cabinet Office: Guidance 1.7 — Frequently Asked Questions](https://www.gov.uk/government/publications/government-security-classifications/guidance-17-frequently-asked-questions-html)
-- [UK Parliament: Order Paper, 19 May 2026 — energy security amendment including Jackdaw and Rosebank](https://commonsbusiness.parliament.uk/Document/104760/Pdf?subType=Standard)
-- [Hansard: House of Commons, 19 May 2026](https://hansard.parliament.uk/pdf/Commons/2026-05-19)
+*Fightback Plan Leaks* is a living node of the **Polaris Protocol**.  
+It uses the April 2026 Downing Street policy leak as a worked RSVP case:
+separating artefact from representation, tracing evidence and idea provenance,
+testing subsequent policy and implementation joins, and preserving unresolved
+questions without manufacturing their answers.
 
----
+> 📡 Cross-references:
+>
+> - [📮 RSVPs](./README.md) — *parent methodology for comparing information objects and interrogating unresolved joins*
+> - [😇 Conservatives Just Asking Questions](./😇_conservatives_just_asking_questions.md) — *parliamentary machinery for converting institutional gaps into bounded questions*
+> - [🪖 Training Debrief](../../🌊_Playing_Defence/🪖_Training_Debrief/README.md) — *longitudinal defence-training evidence relevant to the spending dip raised by the leaked material*
+> - [🏛️ White House Snitches](../../🌊_Playing_Defence/🏛️_White_House_Snitches/README.md) — *information-exposure analysis separating outcome, mechanism and attribution*
+> - [🐣 Ugly Ducklings](../../../../🌖_6_Learning_The_Skies/🐣_Ugly_Ducklings/README.md) — *provenance, selective extraction and distributed information systems*
+>
+> 🏮 Return To:
+>
+> - [📮 RSVPs](./README.md) — *1up*
+> - [💌 Visible Ink](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
-## 🏮 Sometimes The Missing Thing Is The Information
+*Survivor authorship is sovereign. Containment is never neutral.*
 
-A leak does not merely disclose information.
-
-It can disclose the **shape of missing information**.
-
-The April bundle tells us something about what was being discussed. Its slides tell us something about how that work was organised and presented. Sky tells us what it selected, how it classified the policy ideas and what question it thought the material raised. Political actors tell us what they think the leak means. Later policy tells us what subsequently happened.
-
-None of those sources automatically supplies the provenance connecting one to another.
-
-That is not a defect to be patched with imagination.
-
-It is the research object.
-
-> **Sometimes the most interesting information is the gap.**
-
-Where did the evidence come from?
-
-Where did the idea come from?
-
-What status did the proposal actually have?
-
-Why was one asset marked differently from another?
-
-What happened between policy selection and delivery?
-
-Did the later policy inherit the April work, inherit older departmental work, independently respond to the same problem, or combine several routes?
-
-How did the information leave its intended boundary?
-
-We do not answer those questions by manufacturing certainty.
-
-We make the missing join legible.
-
-Then we ask the institution that should know.
-
-**Next: [😇 Conservatives Just Asking Questions](./😇_conservatives_just_asking_questions.md)**
-
----
-
-*Polaris treats survivor authorship and analytical sovereignty as load-bearing. Evidence may be incomplete without being empty; uncertainty may be preserved without being surrendered; and containment is never neutral.*
-
+_Last updated: 2026-09-17_
