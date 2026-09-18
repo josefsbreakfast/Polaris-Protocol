@@ -1,5 +1,5 @@
 # 🧍 The Awkward Posture  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *Palantir usually sells inevitability; this move sells urgency, grievance, and the strange little wobble that appears when the crystal ball needs a timetable.*
 
 ---
@@ -654,13 +654,13 @@ It examines how Palantir’s usual inevitability register sits awkwardly beside 
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [🏷️ Palantir Or Palantir UK](./🏷️_palantir_or_palantir_uk.md) — *entity precision, brand aura, and legal risk networks*
-> - [🎭 The Public Safety Line](./🎭_the_public_safety_line.md) — *public-safety claim as pressure frame*
-> - [🕰️ Why Now: The Timing Question](./🕰️_why_now_the_timing_question.md) — *timing as reporting route, not proof*
-> - [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *records needed to test each actor’s posture*
-> - [🪞 Wronged Before Exposed](./🪞_wronged_before_exposed.md) — *pre-framing hypothesis and procedural victimhood*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [🏷️ Palantir Or Palantir UK] — *entity precision, brand aura, and legal risk networks*
+> - [🎭 The Public Safety Line] — *public-safety claim as pressure frame*
+> - [🕰️ Why Now: The Timing Question] — *timing as reporting route, not proof*
+> - [⚖️ What Each Side Needs To Disclose] — *records needed to test each actor’s posture*
+> - [🪞 Wronged Before Exposed] — *pre-framing hypothesis and procedural victimhood*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
