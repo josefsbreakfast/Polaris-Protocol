@@ -1750,25 +1750,28 @@ NAZA, Yuval Abraham, Rachel Szor, Jonathan Glazer, James Wilson, No Other Land, 
 - Exact primary-source transcripts/video for recent ministerial statements concerning Gaza, displacement and capital punishment.
 - Additional peer-reviewed work on omission, helplessness, moral injury and remote-war personnel.
 - Primary contractual/government documentation for the defence-establishment scope of Project Nimbus.
-- Further documentation on US collateral-damage methodology and safeguards for a more symmetrical US--Israel comparison.
+- Further documentation on US collateral-damage methodology and safeguards for a more symmetrical US-Israel comparison.
 
 ---
 
 ## 🏮 Footer
 
-*Why Is Israel So Upset About NAZA?* is a living node of the **Polaris Protocol**. It contributes to the archive as a journalist-facing evidence map for examining AI-assisted warfare, civilian protection, military resilience, genocide prevention, whistleblowing and the governance of lethal technological systems.
+*🎬 Why Is Israel So Upset About NAZA?* is a living node of the **Polaris Protocol**.  
+
+
+It contributes to the archive as a journalist-facing evidence map for examining AI-assisted warfare, civilian protection, military resilience, genocide prevention, whistleblowing and the governance of lethal technological systems.
 
 > 📡 Cross-references:
 > 
-> -   [🍉 Current Events](./README.md) --- *current Palestine fact-checking and evidentiary work*
-> -   [🇵🇸 Palestine Factchecking](../../README.md) --- *wider fact-checking cluster*
-> -   [📲 Press Matters](../../../README.md) --- *journalism, information environments and public accountability*
+> - [🍉 Current Events](./README.md) – *current Palestine fact-checking and evidentiary work*
+> - [🇵🇸 Palestine Factchecking](../../README.md) – *wider fact-checking cluster*
+> - [📲 Press Matters](../../../README.md) – *journalism, information environments and public accountability*
 >   
 > 🏮 Return To:
-> - [🍉 Current Events](./README.md) --- *1up*
-> - [🇵🇸 Palestine Factchecking](../../README.md) --- *2up*
-> - [📲 Press Matters](../../../README.md) --- *3up*
-> - [🌌 Polaris Protocol --- Root](../../../../../README.md) --- *root*
+> - [🍉 Current Events](./README.md) – *1up*
+> - [🇵🇸 Palestine Factchecking](../../README.md) – *2up*
+> - [📲 Press Matters](../../../README.md) – *3up*
+> - [🌌 Polaris Protocol – Root](../../../../../README.md) – *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
