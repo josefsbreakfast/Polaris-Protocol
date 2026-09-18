@@ -1,5 +1,5 @@
 # 🧭 How To Read This Without Picking A Mascot  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *No heroes required; just institutions, incentives, paperwork, and several tulpas trying not to look haunted.*
 
 ---
@@ -522,13 +522,13 @@ It sets the reader posture for the *🐼 The Procurement Of The Rings* cluster b
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [📌 Known Public Facts First](./📌_known_public_facts_first.md) — *evidential floor before interpretive reading*
-> - [🐼 Best Case Palantir](./🐼_best_case_palantir.md) — *strongest fair version of Palantir’s case*
-> - [🚓 Best Case Met](./🚓_best_case_met.md) — *strongest fair version of the Metropolitan Police case*
-> - [🏛️ Best Case MOPAC](./🏛️_best_case_mopac.md) — *strongest fair version of the oversight case*
-> - [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *records required once public claims meet public accountability*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [📌 Known Public Facts First] — *evidential floor before interpretive reading*
+> - [🐼 Best Case Palantir] — *strongest fair version of Palantir’s case*
+> - [🚓 Best Case Met] — *strongest fair version of the Metropolitan Police case*
+> - [🏛️ Best Case MOPAC] — *strongest fair version of the oversight case*
+> - [⚖️ What Each Side Needs To Disclose] — *records required once public claims meet public accountability*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
