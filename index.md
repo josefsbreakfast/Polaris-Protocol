@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-18 17:43:20 UTC_
+_Generated on 2026-09-18 17:51:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5255,6 +5255,7 @@ _Generated on 2026-09-18 17:43:20 UTC_
       - [`README.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/README.md)
       - [`🍪_definitions.yaml`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/🍪_definitions.yaml)
       - [`💉_document_integrity.yaml`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/💉_document_integrity.yaml)
+      - [`🧵_narrative_scaffolding.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/🧵_narrative_scaffolding.md)
       - [`🫧_campaign_canon.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/🫧_campaign_canon.md)
     - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/notes.txt)
     - [`📜_tapestry_draft.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/📜_tapestry_draft.md)
