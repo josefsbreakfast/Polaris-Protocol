@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-18 18:24:07 UTC_
+_Generated on 2026-09-18 18:31:27 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5252,6 +5252,7 @@ _Generated on 2026-09-18 18:24:07 UTC_
     - [**⚔️_The_Battle_Of_Waterloo_Place/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/⚔️_The_Battle_Of_Waterloo_Place/)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/⚔️_The_Battle_Of_Waterloo_Place/notes.txt)
       - [`🌙_imagining_athena_nike.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/⚔️_The_Battle_Of_Waterloo_Place/🌙_imagining_athena_nike.md)
+      - [`🎩_the_three_tulpae.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/⚔️_The_Battle_Of_Waterloo_Place/🎩_the_three_tulpae.md)
     - [**🫧_Krakens_Pearls/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/)
       - [`README.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/README.md)
       - [`🍪_definitions.yaml`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/🍪_definitions.yaml)
