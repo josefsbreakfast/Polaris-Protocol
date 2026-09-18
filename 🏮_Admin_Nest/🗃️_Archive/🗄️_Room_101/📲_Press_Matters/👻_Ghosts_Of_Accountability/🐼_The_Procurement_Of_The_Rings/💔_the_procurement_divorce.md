@@ -1,5 +1,5 @@
 # 💔 The Procurement Divorce  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *Pilot as relationship, veto as breakup, disclosure as divorce court: the paperwork always looks different once everyone stops pretending this was casual.*
 
 ---
@@ -602,13 +602,13 @@ It reads the Met / Palantir / MOPAC dispute through the pilot-to-contract pathwa
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [📌 Known Public Facts First](./📌_known_public_facts_first.md) — *sourceable public record before metaphor*
-> - [💍 One Contract To Rule Them All](./💍_one_contract_to_rule_them_all.md) — *contract precedent, market access, refusal risk, and worker transparency*
-> - [🧾 The DPIA, Ethics, And Procurement Gap](./🧾_the_dpia_ethics_and_procurement_gap.md) — *lawful adoption, staff-data governance, and oversight gaps*
-> - [🧾 The Paperwork Reciprocity Trap](./🧾_the_paperwork_reciprocity_trap.md) — *why disclosure pressure cuts both ways*
-> - [👻 Commercial Litigation As Accidental Accountability](./👻_commercial_litigation_as_accidental_accountability.md) — *self-interested litigation as public-interest document pressure*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [📌 Known Public Facts First] — *sourceable public record before metaphor*
+> - [💍 One Contract To Rule Them All] — *contract precedent, market access, refusal risk, and worker transparency*
+> - [🧾 The DPIA, Ethics, And Procurement Gap] — *lawful adoption, staff-data governance, and oversight gaps*
+> - [🧾 The Paperwork Reciprocity Trap] — *why disclosure pressure cuts both ways*
+> - [👻 Commercial Litigation As Accidental Accountability] — *self-interested litigation as public-interest document pressure*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
