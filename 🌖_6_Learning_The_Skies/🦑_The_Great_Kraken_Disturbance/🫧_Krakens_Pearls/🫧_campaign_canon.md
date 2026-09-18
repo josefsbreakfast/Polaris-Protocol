@@ -1276,8 +1276,8 @@ It exists so that the series can remain funny, literary, camp, investigative, an
 > 📡 Cross-references:
 >
 > - [🫧 Kraken's Pearls](./README.md) — *public methodology and Pearl infrastructure*
-> - [🧾 Definitions](./🧾_definitions.yaml) — *machine-readable semantic layer*
-> - [🛡️ Document Integrity](./🛡️_document_integrity.yaml) — *production-integrity rules*
+> - [🍪 Definitions](./🍪_definitions.yaml) — *machine-readable semantic layer*
+> - [💉 Document Integrity](./💉_document_integrity.yaml) — *production-integrity rules*
 > - [🦑 The Great Kraken Disturbance](../README.md) — *parent cluster*
 >
 > 🏮 Return To:
@@ -1289,4 +1289,4 @@ It exists so that the series can remain funny, literary, camp, investigative, an
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-18*
+_Last updated: 2026-09-18_
