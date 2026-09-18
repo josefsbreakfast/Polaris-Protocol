@@ -1,5 +1,5 @@
 # 📋 Exhibit C: iPhone Batteries
-**First created:** 2026-09-16 | **Last updated:** 2026-09-16  
+**First created:** 2026-09-16 | **Last updated:** 2026-09-18  
 *The battery was always going to wear out. Why did repair become a governance architecture?*
 
 ---
@@ -263,7 +263,7 @@ and an adult makes the consequential decision:
 
 **“Yeah. It's already broken. Go on then.”**
 
-That broken object has just become educational infrastructure.
+That broken object has just become educational infrastructure.  
 
 Technical competence often develops through:
 
@@ -287,9 +287,13 @@ Repairability is therefore not merely consumer policy.
 
 **It is skills infrastructure.**
 
-And some of us have six planned tooklets requiring Sunday entertainment.
+And some of us have six planned tooklets requiring Sunday entertainment.  
 
-The workforce pipeline must be considered.
+(With six you can have all of the eeveelutions in one sitting. As if I am the first person to think this.)  
+
+The workforce pipeline must be considered.  
+
+The ancient intergenerational British risk assessment of, “You are six, but one day you will be 21, and you are going to watch me change a fuse because I will not have you embarrass me by accidentally blowing up the house and being in the papers. Come here and learn”, has nowhere to go, when anything beyond “marginally scratched” must be posted to California for some reason.  
 
 ---
 
@@ -484,7 +488,7 @@ repairability, consumer technology, iphone batteries, right to repair, maintenan
 
 ## 🏮 Footer
 
-*Exhibit C: iPhone Batteries* is a living node of the **Polaris Protocol**.  
+*📋 Exhibit C: iPhone Batteries* is a living node of the **Polaris Protocol**.  
 It uses smartphone batteries and screen repair as a case study in embodied technology: predictable component degradation, repair-system design, local technical capacity, skills reproduction, material waste, and the difference between an object being physically repairable and a society being enabled to repair it.
 
 > 📡 Cross-references:
@@ -504,4 +508,4 @@ It uses smartphone batteries and screen repair as a case study in embodied techn
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-16_
+_Last updated: 2026-09-18_
