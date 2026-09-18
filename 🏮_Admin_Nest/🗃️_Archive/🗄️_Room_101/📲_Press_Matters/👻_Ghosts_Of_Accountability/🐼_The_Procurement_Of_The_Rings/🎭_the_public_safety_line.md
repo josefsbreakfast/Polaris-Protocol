@@ -1,5 +1,5 @@
 # 🎭 The Public Safety Line  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *Public safety may be true, strategic, exaggerated, or all three; the paperwork is how the audience tells the difference.*
 
 ---
@@ -517,13 +517,13 @@ It examines how public safety, officer numbers, workforce pressure, and operatio
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [📌 Known Public Facts First](./📌_known_public_facts_first.md) — *sourceable public record before pressure-frame analysis*
-> - [🕰️ Why Now: The Timing Question](./🕰️_why_now_the_timing_question.md) — *when the public-safety line became useful*
-> - [🐼 Best Case Met](./🐼_best_case_met.md) — *strongest fair version of the operational-policing case*
-> - [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *records needed to test public-safety claims*
-> - [🧾 The DPIA, Ethics, And Procurement Gap](./🧾_the_dpia_ethics_and_procurement_gap.md) — *lawful adoption and governance safeguards*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [📌 Known Public Facts First] — *sourceable public record before pressure-frame analysis*
+> - [🕰️ Why Now: The Timing Question] — *when the public-safety line became useful*
+> - [🐼 Best Case Met] — *strongest fair version of the operational-policing case*
+> - [⚖️ What Each Side Needs To Disclose] — *records needed to test public-safety claims*
+> - [🧾 The DPIA, Ethics, And Procurement Gap] — *lawful adoption and governance safeguards*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
