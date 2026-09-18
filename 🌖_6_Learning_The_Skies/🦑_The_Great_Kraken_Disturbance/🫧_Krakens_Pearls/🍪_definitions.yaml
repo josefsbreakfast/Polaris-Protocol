@@ -1,7 +1,7 @@
 # 🍪 Definitions
 # Machine-readable semantic definitions for The Great Kraken Disturbance.
 # Human-readable canon: ./🫧_campaign_canon.md
-# File/output integrity rules: ./🛡️_document_integrity.yaml
+# File/output integrity rules: ./💉_document_integrity.yaml
 
 schema_version: "0.1"
 first_created: "2026-09-18"
@@ -32,7 +32,7 @@ canonical_files:
     path: "./🍪_definitions.yaml"
     role: "Compact machine-readable semantic and continuity layer."
   document_integrity:
-    path: "./🛡️_document_integrity.yaml"
+    path: "./💉_document_integrity.yaml"
     role: "File integrity, encoding, Markdown hygiene, and instruction-boundary rules."
 
 precedence:
