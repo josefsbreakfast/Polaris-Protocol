@@ -1,5 +1,5 @@
 # 🌙 Draining The High Priestess
-**First created:** 2026-09-14 | **Last updated:** 2026-09-17  
+**First created:** 2026-09-14 | **Last updated:** 2026-09-18  
 *How human judgement, culture, adaptation and vulnerability become extractive training surfaces; why marginalisation can become an information subsidy; and why systems that privatise informational gain while socialising depletion are bad cybernetics, bad defence and often bad value for money.*
 
 ---
@@ -4245,7 +4245,8 @@ And eventually somebody still has to answer the oldest cybernetic question in th
 - [📹: Crutches and Spice, via TikTok: “Watch this. 😌💁🏾‍♀️”](https://vm.tiktok.com/ZN86DrunR/) – *Imani being Imani and calling the next narrative step immediately before it happens.*
 - [📲: Courier Newsroom: “Rep. Stephen Lynch to Treasury Secretary Scott Bessent: Trump ‘couldn't spell Al if I gave him the first letter.’”](https://vm.tiktok.com/ZN86FWp9y/) – *The lack of curiosity which appears to be part of POTUS decision-making, and calling out the narcissist, are the point here. Also, Mr. Lynch, absolutely adore the suit.*
 - [📹: The House of El, via YouTube: “The Biggest Al Fraud Is the One Nobody Is Investigating”](https://youtu.be/YPf8CztvxEk?is=Q5xmqfF3kAChSjUV) – *”This week, Al researchers warned that the technology they are building could pose an existential threat to humanity. At almost exactly the same time, some of the biggest financial institutions in the world were working to open a very different door for those same companies. One story dominated the headlines. The other barely registered. This video looks at what happens when Al safety, financial incentives, engineering failures and public fear collide, and asks whether we are paying attention to the risk that is easiest to dramatise while quietly ignoring the one already being built into the system.”*  
-- [📹: The Lever, via YouTube: “Is Al The Terminator Or The Big Short?”](https://youtu.be/1qlGoRI94rQ?is=NhSrdTBB4NYc1XPz) – *”The Lever's David Sirota asks tech critic Ed Zitron to explain why the real Al doomsday scenario isn't the movie The Terminator - it's The Big Short.”*  
+- [📹: The Lever, via YouTube: “Is Al The Terminator Or The Big Short?”](https://youtu.be/1qlGoRI94rQ?is=NhSrdTBB4NYc1XPz) – *”The Lever's David Sirota asks tech critic Ed Zitron to explain why the real Al doomsday scenario isn't the movie The Terminator - it's The Big Short.”*
+- [📹: 404 Media: “OpenAl and Microsoft Admits LLMs Are Destroying the Web and Built on Theft”](https://vm.tiktok.com/ZN86XV7n6/) – *”Executives working on Al at Microsoft and OpenAl admitted what its critics have been saying all along: Large language models are predatory pieces of technology that have been built on what a Microsoft executive called ‘an astonishing theft of unprecedented proportions,’ and the ‘largest theft of labor in human history.’ An internal Microsoft document. said generative AI products have created a ‘doom loop’ that is killing ‘the entire web’”.*  
 
 ---
 
@@ -4276,4 +4277,4 @@ It maps the cybernetic and economic risks that arise when institutions extract v
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-17_
+_Last updated: 2026-09-18_
