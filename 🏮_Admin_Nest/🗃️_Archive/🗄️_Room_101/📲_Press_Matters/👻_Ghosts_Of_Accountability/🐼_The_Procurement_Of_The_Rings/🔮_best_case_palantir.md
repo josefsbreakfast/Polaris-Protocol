@@ -1,5 +1,5 @@
 # 🔮 Best Case Palantir  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *The strongest fair version of Palantir’s case before the paperwork starts asking whether the crystal ball has receipts.*
 
 ---
@@ -421,14 +421,14 @@ It gives the strongest fair version of Palantir’s position in the disputed Met
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [📌 Known Public Facts First](./📌_known_public_facts_first.md) — *sourceable record before steelman analysis*
-> - [🧭 How To Read This Without Picking A Mascot](./🧭_how_to_read_this_without_picking_a_mascot.md) — *reader posture and mascot-resistance rule*
-> - [💍 One Contract To Rule Them All](./💍_one_contract_to_rule_them_all.md) — *contract precedent and market-access stakes*
-> - [🐼 Best Case Met](./🐼_best_case_met.md) — *strongest fair version of the operational-policing case*
-> - [🏛️ Best Case MOPAC](./🏛️_best_case_mopac.md) — *strongest fair version of the oversight case*
-> - [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *records required by each actor’s strongest case*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [📌 Known Public Facts First] — *sourceable record before steelman analysis*
+> - [🧭 How To Read This Without Picking A Mascot] — *reader posture and mascot-resistance rule*
+> - [💍 One Contract To Rule Them All] — *contract precedent and market-access stakes*
+> - [🐼 Best Case Met] — *strongest fair version of the operational-policing case*
+> - [🏛️ Best Case MOPAC] — *strongest fair version of the oversight case*
+> - [⚖️ What Each Side Needs To Disclose] — *records required by each actor’s strongest case*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
