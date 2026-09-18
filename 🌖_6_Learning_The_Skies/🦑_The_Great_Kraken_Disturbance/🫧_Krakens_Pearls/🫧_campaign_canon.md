@@ -22,9 +22,9 @@ The surrounding Pearl infrastructure has separate jobs:
     the method is being used.
 - `🫧_campaign_canon.md` specifies the durable human-readable rules of
     this campaign.
-- `🧾_definitions.yaml` provides a compact machine-readable semantic
+- `🍪_definitions.yaml` provides a compact machine-readable semantic
     map.
-- `🛡️_document_integrity.yaml` governs the integrity of the files
+- `💉_document_integrity.yaml` governs the integrity of the files
     themselves: encoding, Unicode, Markdown hygiene, conversion damage,
     instruction boundaries, and related production concerns.
 
@@ -1254,8 +1254,8 @@ She does not need a constitutional amendment every time somebody acquires anothe
 ## 🌌 Constellations
 
 - [🫧 Kraken's Pearls](./README.md) — *public methodology, continuity infrastructure, and explanation of the Pearl system*
-- [🧾 Definitions](./🧾_definitions.yaml) — *compact machine-readable campaign terminology and constraints*
-- [🛡️ Document Integrity](./🛡️_document_integrity.yaml) --- *machine-readable file-integrity, Unicode, Markdown, and instruction-boundary rules*
+- [🍪 Definitions](./🍪_definitions.yaml) — *compact machine-readable campaign terminology and constraints*
+- [💉 Document Integrity](./💉_document_integrity.yaml) --- *machine-readable file-integrity, Unicode, Markdown, and instruction-boundary rules*
 - [🦑 The Great Kraken Disturbance](../README.md) — *parent teaching cluster and public narrative route*
 - [♻️ The Feedback Environment](../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/README.md) — *wider cybernetic framework for information, response, and recursive change*
 
