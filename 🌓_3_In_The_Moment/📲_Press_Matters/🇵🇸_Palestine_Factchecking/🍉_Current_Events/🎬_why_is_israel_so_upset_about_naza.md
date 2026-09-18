@@ -1,5 +1,5 @@
 # 🎬 Why Is Israel So Upset About *NAZA*?  
-**First created:** 2026-09-15 | **Last updated:** 2026-09-17  
+**First created:** 2026-09-15 | **Last updated:** 2026-09-18  
 *An evidence-heavy explainer on* NAZA, *AI-assisted targeting, civilian-harm estimation, remote-war trauma, genocide prevention, whistleblowing, and the rules we may all eventually have to live under.*  
 
 ---
@@ -1665,7 +1665,10 @@ Some gives somebody enough time to say:
 *Follow the evidence:*  
 
 - [📹: AJ+: “Why is Israel so threatened by this documentary?”](https://vm.tiktok.com/ZN866s31J/) – *”Israeli filmmakers Yuval Abraham and Rachel Szor received a record-setting standing ovation for their new film NAZA at the Venice Film Festival. Now, a government minister is threatening to strip them of citizenship and Israeli Prime Minister Netanyahu has released a statement condemning their film. AJ+ Editorial Lead Tony Karon says NAZA disrupts a narrative that has protected Israel's impunity in the West for decades.”*
-- [📰: The Guardian: “Watching NAZA was like peering through a window – and seeing the machinery of killing in Gaza”](https://www.theguardian.com/commentisfree/2026/sep/17/naza-film-documentary-killing-gaza) – *Mahmoud Mushtaha writes as a survivor. “NAZA makes visible the targeting systems and planning decisions that precede a strike. But this is only part of the story… Throughout the screening, I could not stop myself from putting names back into the places where the film placed numbers. When one soldier described how Israeli forces massacred Palestinians at aid distribution sites, I thought of my cousin, 35-year-old Raed Majed Mushtaha, killed in the ‘Flour Massacre’ in early 2024 as he searched for food for his family. I remembered my friend Youssef Maher Dawas, killed in the first week of the genocide, whose body was later found beneath rubble.” May their memories be a blessing.*  
+- [📰: The Guardian: “Watching NAZA was like peering through a window – and seeing the machinery of killing in Gaza”](https://www.theguardian.com/commentisfree/2026/sep/17/naza-film-documentary-killing-gaza) – *Mahmoud Mushtaha writes as a survivor. “NAZA makes visible the targeting systems and planning decisions that precede a strike. But this is only part of the story… Throughout the screening, I could not stop myself from putting names back into the places where the film placed numbers. When one soldier described how Israeli forces massacred Palestinians at aid distribution sites, I thought of my cousin, 35-year-old Raed Majed Mushtaha, killed in the ‘Flour Massacre’ in early 2024 as he searched for food for his family. I remembered my friend Youssef Maher Dawas, killed in the first week of the genocide, whose body was later found beneath rubble.” May their memories be a blessing.*
+- [📹: Ronan Farrow, via TikTok: “3.6 seconds.”](https://vm.tiktok.com/ZN86fVmmT/) – *”Pentagon leadership has said that by the end of this month, Palantir's Maven artificial intelligence system will become a line item with stable, long-term funding in the defense budget (a
+"program of record"). The military already relies on Maven more than any other Al system to select targets for strikes. The Army says it intends to use Maven to meet a goal of making 1,000 targeting decisions an w hour-averaging out to one to every 3.6 seconds.”*  
+- [📹: Channel 4 News, via TikTok: “Netanyahu moves to strip Israeli filmmakers of citizenship over Gaza doc”](https://vm.tiktok.com/ZN86fsQs6/) – *”Israeli Prime Minister Benjamin Netanyahu says he wants to introduce new laws that could strip citizenship from people who "defame" Israeli soldiers or the state.”*  
 
 ---
 
@@ -1767,4 +1770,4 @@ NAZA, Yuval Abraham, Rachel Szor, Jonathan Glazer, James Wilson, No Other Land, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-17_
+_Last updated: 2026-09-18_
