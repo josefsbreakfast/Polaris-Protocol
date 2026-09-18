@@ -1,5 +1,5 @@
 # 🇺🇸 Sanctions Questions for Mr Huckabee  
-**First created:** 2026-09-09 | **Last updated:** 2026-09-17  
+**First created:** 2026-09-09 | **Last updated:** 2026-09-18  
 *What exactly is the American economic dependency threatened by targeted restrictions on illegal Israeli settlements in the occupied West Bank?*
 
 --- 
@@ -833,7 +833,10 @@ I feel far safer behind the Jewish men standing up for international law, than a
 - [📹: Zeteo: “‘The police should proceed with the arrest warrant.’ Ed Davey says the UK should back the ICC warrant for Netanyahu, sanction senior Israeli ministers and go further against illegal Israeli settlements.”](https://vm.tiktok.com/ZN8jKxu51/)
 - [📹: LBC: “Andrew Marr reacts to the UK's sanctions on Israeli settlers.”](https://vm.tiktok.com/ZN8jKXh7s/)
 - [📹: The Rest Is Politics, via TikTok: “How Ed Miliband's late mum was at the forefront of his mind during his statement on Israel-Palestine.”](https://vm.tiktok.com/ZN86AwCKS/) – *full episode [here](https://youtu.be/xoX-zkB6Ijw?is=qoL7IFdMqkaM4RrY), for instance – side note, there are several very editable moments (TRIP editorial team are On. It.) of approachable British masculinities; this is a good antidote to whatever nonsense this “strongman” era was*
-
+- [📹: Arab News, via TikTok: “”](https://vm.tiktok.com/ZN86fxo1W/) – *Louise Haigh, First Secretary of State, at Trades Union Congress (TUC) Congress conference. “Britain will no longer stand by while Israel kills Palestinian children in Gaza, First Secretary of State Louise Haigh said, pledging to increase pressure on Tel Aviv over the war and illegal settlement expansion in the occupied West Bank.”*
+- [📹: MEE, via TikTok: “Francesca Albanese spoke to Middle East Eye…”](https://vm.tiktok.com/ZN86fuwkj/)
+- “…and described the UK's decision to sanction settlement activity in the West Bank as ‘Of course, it's small, and of course it's little’, she also said it was a ‘seismic shift’ and that ‘this has been the strongest condemnation ever issued by the UK government’”*
+- [📹: LBC, via TikTok: “LBC Debate: Sanctions on Israel”](https://vm.tiktok.com/ZN86fq17M/) – *”Emily Thornberry butts heads with lory peer Joanne Cash over Ed Miliband's plan to sanction settlements in the West Bank.” It should be noted that these are still only sanctions which cover clearly defined illegal activities which preexist 2023 military operations, and were settled in the 2024 ICJ case; it should be noted that if we want “the facts on the ground” as this is being described, we would need the State of Israel to either demilitarise the borders of Gaza or allow international unimpeded access, which has not yet been granted. Respectfully, the Medinat has now been asked for several years for these terms, and has yet to give a comprehensive explanation as to why it is not possible. As PM, Netanyahu has denied an internally requested inquiry into the circumstances of October 07. If you wish to stand with Israelis, opposing these sanctions is not meaningfully helping them to access their requests of their own government.*  
 
 --- 
 
@@ -861,8 +864,8 @@ It records and tests economic, legal and financial claims made in response to ta
 > -   [🇵🇸 Palestine Factchecking](../README.md) --- *2up*
 > -   [📲 Press Matters](../../README.md) --- *3up*
 > -   [🌓 In The Moment](../../../README.md) --- *4up*
-> -   [🌌 Polaris Protocol --- Root](../../../../README.md) --- *root*
+> -   [🌌 Polaris Protocol – Root](../../../../README.md) – *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-15_
+_Last updated: 2026-09-18_
