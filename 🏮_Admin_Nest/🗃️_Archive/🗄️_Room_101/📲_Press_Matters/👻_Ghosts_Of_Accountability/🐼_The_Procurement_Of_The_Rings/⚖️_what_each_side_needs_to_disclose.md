@@ -1,5 +1,5 @@
 # ⚖️ What Each Side Needs To Disclose  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *The disclosure triangle: if each actor wants its best case believed, each actor needs to show its working.*
 
 ---
@@ -584,14 +584,14 @@ It converts the Palantir, Met, and MOPAC best-case arguments into a disclosure t
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [🔮 Best Case Palantir](./🔮_best_case_palantir.md) — *supplier steelman and evidential burden*
-> - [🐼 Best Case Met](./🐼_best_case_met.md) — *operational-policing steelman and evidential burden*
-> - [🏛️ Best Case MOPAC](./🏛️_best_case_mopac.md) — *oversight steelman and evidential burden*
-> - [🧾 The DPIA, Ethics, And Procurement Gap](./🧾_the_dpia_ethics_and_procurement_gap.md) — *lawful adoption and governance records*
-> - [👻 Commercial Litigation As Accidental Accountability](./👻_commercial_litigation_as_accidental_accountability.md) — *self-interested litigation as document pressure*
-> - [🧭 Questions Journalists Should Ask Now](./🧭_questions_journalists_should_ask_now.md) — *practical reporting routes from the disclosure triangle*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [🔮 Best Case Palantir] — *supplier steelman and evidential burden*
+> - [🐼 Best Case Met] — *operational-policing steelman and evidential burden*
+> - [🏛️ Best Case MOPAC] — *oversight steelman and evidential burden*
+> - [🧾 The DPIA, Ethics, And Procurement Gap] — *lawful adoption and governance records*
+> - [👻 Commercial Litigation As Accidental Accountability] — *self-interested litigation as document pressure*
+> - [🧭 Questions Journalists Should Ask Now] — *practical reporting routes from the disclosure triangle*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
