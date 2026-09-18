@@ -1,5 +1,5 @@
 # 🗄️ The Hidden Layer Problem  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *Some of the most important records may be locked behind national security, policing capability, commercial confidentiality, NDAs, privilege, staff data, and the familiar cabinet marked “don’t ask unless you enjoy being disappointed.”*
 
 ---
@@ -855,14 +855,14 @@ It examines how sensitive material, national security, policing capability, comm
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [👻 Commercial Litigation As Accidental Accountability](./👻_commercial_litigation_as_accidental_accountability.md) — *self-interested litigation as disclosure pressure*
-> - [🧾 The Paperwork Reciprocity Trap](./🧾_the_paperwork_reciprocity_trap.md) — *why process claims create reciprocal document pressure*
-> - [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *document categories each actor’s strongest case makes relevant*
-> - [🧾 The DPIA, Ethics, And Procurement Gap](./🧾_the_dpia_ethics_and_procurement_gap.md) — *data protection, ethics, and lawful adoption records*
-> - [🏷️ Palantir Or Palantir UK](./🏷️_palantir_or_palantir_uk.md) — *entity precision, brand aura, and overlapping legal-risk networks*
-> - [🕳️ Why This Is Not Just About Palantir](./🕳️_why_this_is_not_just_about_palantir.md) — *wider synthesis: outsourcing, dependency, procurement culture, and democratic control*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [👻 Commercial Litigation As Accidental Accountability] — *self-interested litigation as disclosure pressure*
+> - [🧾 The Paperwork Reciprocity Trap] — *why process claims create reciprocal document pressure*
+> - [⚖️ What Each Side Needs To Disclose] — *document categories each actor’s strongest case makes relevant*
+> - [🧾 The DPIA, Ethics, And Procurement Gap] — *data protection, ethics, and lawful adoption records*
+> - [🏷️ Palantir Or Palantir UK] — *entity precision, brand aura, and overlapping legal-risk networks*
+> - [🕳️ Why This Is Not Just About Palantir] — *wider synthesis: outsourcing, dependency, procurement culture, and democratic control*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
