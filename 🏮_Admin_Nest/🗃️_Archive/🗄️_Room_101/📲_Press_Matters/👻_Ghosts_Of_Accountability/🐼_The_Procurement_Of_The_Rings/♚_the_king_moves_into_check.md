@@ -1,5 +1,5 @@
 # ♚ The King Moves Into Check  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *A legal move may still place the mover on an attacked square; first-mover advantage is not the same as safety.*
 
 ---
@@ -621,13 +621,13 @@ It uses the chess metaphor to examine how a legally available move may create ta
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [🪞 Wronged Before Exposed](./🪞_wronged_before_exposed.md) — *pre-framing hypothesis and procedural victimhood*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [🪞 Wronged Before Exposed] — *pre-framing hypothesis and procedural victimhood*
 > - [🧍 The Awkward Posture](./🧍_the_awkward_posture.md) — *urgency, grievance, and inevitability posture*
-> - [🧾 The Paperwork Reciprocity Trap](./🧾_the_paperwork_reciprocity_trap.md) — *why process claims make everyone’s paperwork relevant*
-> - [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *records required by each actor’s strongest case*
-> - [🗄️ The Hidden Layer Problem](./🗄️_the_hidden_layer_problem.md) — *sensitive material, locked cabinets, and constrained disclosure*
+> - [🧾 The Paperwork Reciprocity Trap] — *why process claims make everyone’s paperwork relevant*
+> - [⚖️ What Each Side Needs To Disclose] — *records required by each actor’s strongest case*
+> - [🗄️ The Hidden Layer Problem] — *sensitive material, locked cabinets, and constrained disclosure*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
