@@ -1,5 +1,5 @@
 # 📁 Fightback Plan Leaks  
-**First created:** 2026-09-17 | **Last updated:** 2026-09-17  
+**First created:** 2026-09-17 | **Last updated:** 2026-09-18  
 *The leaked Downing Street policy bundle, the provenance hidden by presentation, and what can — and cannot — be learned by putting documents, reporting, political responses and subsequent policy beside one another.*  
 
 ---
@@ -1110,6 +1110,204 @@ Their disagreements and omissions may, however, help identify the next useful qu
 
 ---
 
+## ♻️ Ecosystem Digestion
+
+Publication does not end when an article appears.
+
+Once an information object enters the media environment, other news organisations can reproduce it, independently advance it, mention it, ignore it, respond only to its consequences, or allow other stories to occupy the available attention.
+
+That propagation is itself observable information.
+
+The Downing Street bundle provides a particularly useful live example because Sky did not merely report that documents existed. It published substantial material from them, generated political responses, and was followed on 18 September by a government leak inquiry.
+
+That creates several possible information objects for another newsroom to report:
+
+```text
+ORIGINAL DOCUMENTS
+       ↓
+SKY DISCLOSURE
+       ↓
+POLITICAL REACTION
+       ↓
+GOVERNMENT RESPONSE
+       ↓
+LEAK INQUIRY
+```
+
+A newsroom need not reproduce Sky's interpretation of the documents in order to report one of the later events.
+
+### 📰 Media Propagation Status
+
+**Snapshot:** 18 September 2026
+
+| Outlet | Leak coverage located? | Form | URL / status |
+|---|---:|---|---|
+| Sky News | ✅ | Originating investigation; substantial leaked material reproduced; continuing follow-up; subsequent leak inquiry reported | https://news.sky.com/story/leak-from-no-10-reveals-how-starmer-planned-to-stay-in-power-and-the-policies-borrowed-by-burnham-13589059 |
+| The Independent | ✅ | Standalone national report; explicitly attributes acquisition to Sky News and describes contents of the dossier | https://www.independent.co.uk/news/uk/politics/leak-starmer-burnham-no-10-papers-labour-b3052092.html |
+| The Guardian | 🟡 | Leak and political reaction appear within wider political coverage; not presently equivalent to an independent document investigation | https://www.theguardian.com/politics/live/2026/sep/18/andy-burnham-ireland-john-healey-eu-made-in-europe-plan-uk-politics-latest-updates-news |
+| BBC News | ⬜ Not located in current search | No substantive report located in searches conducted for this snapshot | — |
+| Financial Times | ⬜ Not located in current search | No substantive report located in searches conducted for this snapshot | — |
+| The Times | ⬜ Not located in current search | No substantive report located in searches conducted for this snapshot | — |
+| The Telegraph | ⬜ Not located in current search | No substantive report located in searches conducted for this snapshot | — |
+| ITV News | ⬜ Not located in current search | No substantive report located in searches conducted for this snapshot | — |
+| Channel 4 News | ⬜ Not located in current search | No substantive report located in searches conducted for this snapshot | — |
+| Daily Mail | ⬜ Not located in current search | No substantive report located in searches conducted for this snapshot | — |
+| Daily Mirror | ⬜ Not located in current search | No substantive report located in searches conducted for this snapshot | — |
+| The Sun | ⬜ Not located in current search | No substantive report located in searches conducted for this snapshot | — |
+
+`Not located` is deliberately narrower than `did not report`.
+
+Search indexing is incomplete, broadcast material may not be represented adequately in web search, paywalled material can be difficult to retrieve, and an outlet may subsequently publish. This table is therefore a **timestamped sensor reading**, not a permanent claim of absence.
+
+The interesting variable is not simply the number of outlets repeating an exclusive.
+
+It is **how the information is digested**.
+
+Does another newsroom:
+
+- reproduce the disclosure;
+- independently examine the underlying documents;
+- report political reactions to the disclosure;
+- report the government's leak inquiry while largely omitting the substance of the leak;
+- mention the story only inside rolling coverage;
+- revisit it after another institutional event;
+- or apparently devote its available attention elsewhere?
+
+Those are different propagation states.
+
+### 🕸️ Nudging Without A Man Carrying A Memo
+
+There is a wider methodological reason to record this.
+
+Modern information environments contain extensive systems capable of affecting **visibility, salience, attention and prioritisation** without requiring one human being to walk up to another and tell them what to publish.
+
+Commercial technology provides obvious examples: ranking systems, recommendation systems, search ordering, notifications, targeting, engagement optimisation, experimentation and audience analytics.
+
+Security and counterterrorism environments have separately developed practices concerned with behavioural intervention, influence, risk and information environments.
+
+These systems do not have identical purposes, authorities, histories or mechanisms.
+
+The common analytical lesson is narrower:
+
+> **Direct interpersonal instruction is no longer the only conceivable pathway through which an information environment can shape behaviour.**
+
+That observation does **not** establish that the uneven propagation of this particular story was deliberately engineered.
+
+Nor does the existence of technologies capable of shaping attention establish their use in this case.
+
+The causal ladder remains:
+
+```text
+CAPABILITY
+    ↓
+ACCESS
+    ↓
+OPPORTUNITY
+    ↓
+USE
+    ↓
+ATTRIBUTION
+    ↓
+CAUSATION
+```
+
+Stop wherever the evidence stops.
+
+### ♻️ Nudging As A Sensor
+
+For this node, **nudging** can therefore be used descriptively:
+
+> **Nudging:** an observable change in an information environment capable of altering relative visibility, salience or attention without requiring an explicit instruction to the affected actor.
+
+The word describes a phenomenon worth testing.
+
+It does not identify its cause.
+
+Many ordinary mechanisms remain available:
+
+```text
+editorial judgement
+competition between newsrooms
+reluctance to amplify a rival exclusive
+difficulty independently verifying material
+limited newsroom capacity
+audience analytics
+search visibility
+platform distribution
+breaking-news competition
+government communications
+other genuinely important events
+algorithmic feedback
+deliberate intervention
+multiple mechanisms acting together
+something else
+```
+
+The present evidence does not distinguish confidently between them.
+
+But absence of an evidenced direct instruction should not be confused with evidence that the surrounding information environment had no effect.
+
+Likewise, the existence of environmental effects should not be confused with evidence that somebody intentionally produced them.
+
+### 🔭 Digestion Sensors
+
+The useful longitudinal questions are therefore:
+
+```text
+What propagates?
+
+What stalls?
+
+What replaces it?
+
+For how long?
+
+Which part propagates:
+the documents,
+Sky's interpretation,
+political reaction,
+or the leak inquiry?
+
+Does an outlet eventually
+return to the underlying artefact?
+
+Does propagation differ across:
+broadcast,
+newspapers,
+search,
+social distribution,
+and political commentary?
+
+What new institutional events
+does publication itself produce?
+```
+
+The leak has already generated at least one particularly clean feedback loop:
+
+```text
+INTERNAL INFORMATION
+        ↓
+DISCLOSURE
+        ↓
+SKY PUBLICATION
+        ↓
+POLITICAL RESPONSE
+        ↓
+GOVERNMENT LEAK INQUIRY
+        ↓
+NEW REPORTABLE INFORMATION
+        ↓
+FURTHER MEDIA SELECTION
+```
+
+The ecosystem is now digesting information **about what happened when information entered the ecosystem**.
+
+♻️
+
+That is an RSVP too.
+
+---
+
 ## 🔍 What Is Each RSVP Actually Evidence Of?
 
 | Object | Strong Evidence Of | Does Not By Itself Establish |
@@ -1452,6 +1650,8 @@ The point is to stop inference quietly dressing itself up as observation.
 
 - [Sky News: “Leak from No 10 reveals how Starmer planned to stay in power - and the policies borrowed by Burnham”](https://news.sky.com/story/leak-from-no-10-reveals-how-starmer-planned-to-stay-in-power-and-the-policies-borrowed-by-burnham-13589059)
 - [Sky News politics live: reactions to the leaked Downing Street papers](https://news.sky.com/story/politics-latest-burnham-labour-farage-badenoch-reform-macron-12593360?postid=12460925)
+- [The Independent: “Leaked No 10 papers show Labour’s Burnham using policies from Starmer’s fightback plan”](https://www.independent.co.uk/news/uk/politics/leak-starmer-burnham-no-10-papers-labour-b3052092.html)
+- [The Guardian politics live: 18 September 2026 UK politics coverage](https://www.theguardian.com/politics/live/2026/sep/18/andy-burnham-ireland-john-healey-eu-made-in-europe-plan-uk-politics-latest-updates-news)
 - [Sky News: “Army stops some training exercises over lack of money despite Kremlin warning”](https://news.sky.com/story/army-stops-some-training-exercises-over-lack-of-money-despite-kremlin-warning-13581149)
 - [Cabinet Office: Government Security Classifications Policy](https://www.gov.uk/government/publications/government-security-classifications/government-security-classifications-policy-html)
 - [Cabinet Office: Government Security Classifications Policy — Quick Read](https://www.gov.uk/government/publications/government-security-classifications/government-security-classifications-policy-quick-read-html)
@@ -1468,7 +1668,7 @@ The policy-card list above remains a working visual transcription from the publi
 
 ## ✨ Stardust
 
-information provenance, policy development, leaked documents, policy continuity, implementation gaps, evidence lineage, classification, information exposure, machine-assisted scrutiny, rsvp analysis
+information provenance, policy development, leaked documents, media propagation, ecosystem digestion, behavioural shaping, attention allocation, policy continuity, implementation gaps, evidence lineage, classification, information exposure, machine-assisted scrutiny, rsvp analysis
 
 ---
 
@@ -1496,4 +1696,4 @@ It uses the April 2026 Downing Street policy leak as a worked RSVP case: separat
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-17_
+_Last updated: 2026-09-18_
