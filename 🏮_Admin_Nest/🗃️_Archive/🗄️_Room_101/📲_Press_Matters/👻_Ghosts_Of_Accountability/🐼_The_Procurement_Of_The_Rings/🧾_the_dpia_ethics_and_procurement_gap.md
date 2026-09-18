@@ -1,5 +1,5 @@
 # 🧾 The DPIA, Ethics, And Procurement Gap  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *A useful tool is not the same as a lawfully adopted tool; the gap is where governance either lives or quietly pretends it was invited.*
 
 ---
@@ -587,14 +587,14 @@ It examines the difference between a useful policing-technology tool and a lawfu
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [📌 Known Public Facts First](./📌_known_public_facts_first.md) — *sourceable public record before governance analysis*
-> - [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *records required by each actor’s strongest case*
-> - [💍 One Contract To Rule Them All](./💍_one_contract_to_rule_them_all.md) — *contract precedent, worker transparency, and refusal risk*
-> - [💔 The Procurement Divorce](./💔_the_procurement_divorce.md) — *pilot-to-contract pathway and staff-facing disclosure*
-> - [🎭 The Public Safety Line](./🎭_the_public_safety_line.md) — *public-safety pressure frame and evidential burden*
-> - [🧾 The Paperwork Reciprocity Trap](./🧾_the_paperwork_reciprocity_trap.md) — *why governance paperwork cuts both ways*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [📌 Known Public Facts First] — *sourceable public record before governance analysis*
+> - [⚖️ What Each Side Needs To Disclose] — *records required by each actor’s strongest case*
+> - [💍 One Contract To Rule Them All] — *contract precedent, worker transparency, and refusal risk*
+> - [💔 The Procurement Divorce] — *pilot-to-contract pathway and staff-facing disclosure*
+> - [🎭 The Public Safety Line] — *public-safety pressure frame and evidential burden*
+> - [🧾 The Paperwork Reciprocity Trap] — *why governance paperwork cuts both ways*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
