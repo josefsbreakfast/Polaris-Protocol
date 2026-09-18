@@ -1,5 +1,5 @@
 # 🏷️ Palantir Or Palantir UK  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *Local contracting entity, global brand aura: the name on the paperwork may be narrower than the shadow in the room.*
 
 ---
@@ -609,13 +609,13 @@ It separates the exact legal-entity question from the broader Palantir brand-aur
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [📌 Known Public Facts First](./📌_known_public_facts_first.md) — *sourceable public record and entity anchors*
-> - [🔮 Best Case Palantir](./🔮_best_case_palantir.md) — *supplier steelman and market-access posture*
-> - [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *records needed to identify entity, role, liability, and data access*
-> - [🧾 The DPIA, Ethics, And Procurement Gap](./🧾_the_dpia_ethics_and_procurement_gap.md) — *data-processing roles, supplier accountability, and lawful adoption*
-> - [🧍 The Awkward Posture](./🧍_the_awkward_posture.md) — *off-register communications and urgency signalling*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [📌 Known Public Facts First] — *sourceable public record and entity anchors*
+> - [🔮 Best Case Palantir] — *supplier steelman and market-access posture*
+> - [⚖️ What Each Side Needs To Disclose] — *records needed to identify entity, role, liability, and data access*
+> - [🧾 The DPIA, Ethics, And Procurement Gap] — *data-processing roles, supplier accountability, and lawful adoption*
+> - [🧍 The Awkward Posture] — *off-register communications and urgency signalling*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
