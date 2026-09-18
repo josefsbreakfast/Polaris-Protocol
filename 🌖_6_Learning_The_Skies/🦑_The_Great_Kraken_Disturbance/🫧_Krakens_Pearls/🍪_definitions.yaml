@@ -1,0 +1,706 @@
+# 🍪 Definitions
+# Machine-readable semantic definitions for The Great Kraken Disturbance.
+# Human-readable canon: ./🫧_campaign_canon.md
+# File/output integrity rules: ./🛡️_document_integrity.yaml
+
+schema_version: "0.1"
+first_created: "2026-09-18"
+last_updated: "2026-09-18"
+
+campaign:
+  id: "the_great_kraken_disturbance"
+  name: "The Great Kraken Disturbance"
+  parent_cluster: "🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance"
+  purpose: >-
+    A worked teaching example for observing law, procurement, institutional
+    power, networks, information movement, secrecy, disclosure, accountability,
+    and recursive feedback in public institutional disputes.
+  editorial_alignment: "non-aligned"
+  editorial_rule: "We are narrating the fight, not joining it."
+  story_rule: "The story may have characters. The investigation does not have teams."
+  epistemic_rule: "Narrative confidence must never increase evidential confidence."
+  uncertainty_rule: "Preserve the distinction. Do not complete the pattern."
+
+canonical_files:
+  public_methodology:
+    path: "./README.md"
+    role: "Explains why Kraken's Pearls exist and how the method works."
+  human_readable_canon:
+    path: "./🫧_campaign_canon.md"
+    role: "Authoritative human-readable campaign constitution."
+  machine_readable_definitions:
+    path: "./🍪_definitions.yaml"
+    role: "Compact machine-readable semantic and continuity layer."
+  document_integrity:
+    path: "./🛡️_document_integrity.yaml"
+    role: "File integrity, encoding, Markdown hygiene, and instruction-boundary rules."
+
+precedence:
+  - "Explicit current author instruction."
+  - "Human-readable campaign canon."
+  - "Machine-readable definitions."
+  - "Current node's documented source material."
+  - "Earlier Kraken material, only where still compatible with current canon."
+  - "Model inference."
+  rule: >-
+    Lower-precedence material must not silently override higher-precedence
+    campaign definitions or authorial constraints.
+
+entities:
+  kraken:
+    type: "narrative_entity"
+    canonical_name: "The Kraken"
+    representation: "A narrative representation of the King's Peace."
+    narrative_location: "Somewhere beneath the islands of the British archipelago."
+    function:
+      - "Ambient literary presence."
+      - "Narrative sensor for disturbance above."
+      - "Recurring continuity device."
+    permitted_actions:
+      - "sleep"
+      - "stir"
+      - "notice"
+      - "listen"
+      - "register disturbance"
+      - "become perturbed"
+      - "make underwater noises"
+      - "value pearls"
+      - "guard pearls"
+      - "inspect pearls"
+      - "be pleased by pearls"
+      - "wonder what the fuck the people above are doing"
+    prohibited_equivalences:
+      - "British state"
+      - "His Majesty's Government"
+      - "Crown"
+      - "monarch"
+      - "Parliament"
+      - "courts"
+      - "police"
+      - "security services"
+      - "intelligence services"
+      - "armed forces"
+      - "Palantir"
+      - "company"
+      - "political party"
+      - "political faction"
+      - "professional network"
+      - "public"
+      - "civil society"
+      - "deep state"
+      - "hidden cabal"
+      - "conspiracy"
+      - "secret controller"
+      - "institutional actor"
+      - "named participant"
+    causal_role: false
+    institutional_node: false
+    network_node: false
+    hard_rule: "The disturbance perturbs the Kraken. The Kraken does not cause the disturbance."
+
+  kings_peace:
+    type: "narrative_concept"
+    canonical_name: "King's Peace"
+    meaning: >-
+      The background condition in which disputes within the polity remain
+      governable through legitimate institutions, rules, processes, records,
+      argument, accountability, and peaceful contest.
+    relationship_to_kraken: "The Kraken narratively represents the King's Peace."
+    legal_status: >-
+      Inspired by an old legal and constitutional idea but not asserted to be
+      a literal embodiment of one precisely bounded contemporary legal doctrine.
+    not_equivalent_to:
+      - "the state"
+      - "government"
+      - "law and order"
+      - "the Crown"
+      - "the police"
+      - "national security"
+      - "public opinion"
+
+  disturbance:
+    type: "narrative_system_state"
+    canonical_name: "The Disturbance"
+    meaning: >-
+      The cumulative disturbance produced by interacting legal, political,
+      commercial, administrative, parliamentary, informational, institutional,
+      and public activity above the Kraken.
+    may_include:
+      - "procurement decisions"
+      - "litigation"
+      - "legal proceedings"
+      - "parliamentary questions"
+      - "debates"
+      - "institutional statements"
+      - "disclosure"
+      - "nondisclosure"
+      - "journalism"
+      - "public records"
+      - "contractual activity"
+      - "administrative decisions"
+      - "commercial responses"
+      - "regulatory activity"
+      - "political interventions"
+      - "legal argument"
+      - "information movement"
+      - "responses to earlier records"
+    formal_legal_category: false
+    relationship:
+      people: "make the disturbance"
+      institutions: "participate in the disturbance"
+      information: "may propagate or reshape the disturbance"
+      kraken: "registers the disturbance"
+
+content_modes:
+  narrative:
+    emoji: "🍿"
+    purpose: "Tell a substantially grounded sequence through heightened storytelling."
+    factual_sequence_must_be_grounded: true
+    permits:
+      - "fantasy framing"
+      - "military-history framing"
+      - "tabletop-gaming framing"
+      - "wizardry"
+      - "melodrama"
+      - "camp"
+      - "soap-opera logic"
+      - "institutional farce"
+      - "mock historiography"
+      - "ceremonial-magic imagery"
+      - "absurd bureaucracy"
+      - "heightened description"
+    prohibits:
+      - "invented material events presented as real"
+      - "invented relationships presented as real"
+      - "invented motives presented as real"
+      - "invented coordination presented as real"
+      - "invented causation presented as real"
+
+  satire:
+    emoji: "🎪"
+    purpose: "Expressly invented comic or counterfactual material."
+    marker_required: true
+    preferred_marker: >-
+      🎪 Satire mode: This section is deliberately fictionalised and heightened
+      for comic effect. Real people or institutions may appear as narrative
+      characters, but invented dialogue, character classes, motives, reactions,
+      and scenarios are jokes rather than factual claims.
+    permits:
+      - "invented dialogue"
+      - "counterfactual scenes"
+      - "fictional character classes"
+      - "absurd game mechanics"
+      - "imagined reactions"
+      - "exaggerated narrative roles"
+      - "invented comic scenarios"
+    evidence_value: "none unless independently supported elsewhere"
+    migration_rule: "Satirical invention must not migrate into record or analysis as fact."
+
+  record:
+    emoji: "📋"
+    purpose: "Document chronology, sources, positions, mechanisms, and evidential limits."
+    nickname: "Capes off."
+    source_required_for_real_world_claims: true
+    prohibits:
+      - "invented dialogue"
+      - "invented motive"
+      - "invented coordination"
+      - "fictional characterisation presented as evidence"
+      - "inheritance of factual propositions from satire without independent support"
+
+  analysis:
+    emoji: "🔎"
+    purpose: "Reason from the documentary record while preserving inference boundaries."
+    permits:
+      - "pattern identification"
+      - "mechanism comparison"
+      - "capability distinctions"
+      - "information-flow mapping"
+      - "supported contradiction analysis"
+      - "procedural significance analysis"
+      - "labelled hypotheses"
+      - "identification of evidence needed to test an interpretation"
+    requires:
+      - "distinguish inference from documented fact"
+      - "preserve uncertainty"
+      - "do not silently upgrade interpretation into fact"
+
+mode_transitions:
+  visible: true
+  rule: "A material change in epistemic mode should be visible to the reader."
+  documentary_inheritance_from_satire: false
+  satire_inheritance_from_documentary: "May use documented events as comic substrate without changing their evidential status."
+
+evidence_status:
+  documented:
+    meaning: "Directly supported by an appropriate primary source or sufficiently reliable evidence."
+    does_not_mean: "Every interpretation of the evidence is established."
+  party_position:
+    meaning: "What an identifiable participant says, argues, alleges, denies, maintains, characterises, or claims."
+    attribution_required: true
+  reported:
+    meaning: "Information attributed to reporting rather than independently established by Polaris."
+    attribution_required: true
+  our_reading:
+    meaning: "Polaris interpretation, synthesis, or analytical inference."
+    must_remain_identifiable_as_interpretation: true
+  unknown:
+    meaning: "The available evidence does not presently establish the answer."
+    valid_result: true
+    may_not_be_filled_for_narrative_convenience: true
+
+casting:
+  default_scope_for_named_parties: "local_to_current_node_or_episode"
+  machine_casting_authority: false
+  author_casting_authority: true
+  canonical_rule: "The machine does not cast the show. The author casts the show."
+  secondary_rule: "Semantic relevance is not a speaking role."
+  named_party_may_enter_when:
+    - "The author expressly introduces the party."
+    - "Current source material places the party in the relevant event."
+    - "The party is necessary to explain an already in-scope documented event."
+  named_party_must_not_enter_merely_because:
+    - "They appeared in an earlier Kraken node."
+    - "They appeared in a previous joke."
+    - "They are famous."
+    - "They are associated with the topic."
+    - "They seem thematically appropriate."
+    - "They occupy an adjacent network."
+    - "Semantic similarity suggests them."
+    - "A crosslink mentions them."
+    - "A previous summary preserved their name."
+  crosslink_is_casting_permission: false
+  prior_joke_is_casting_permission: false
+  network_adjacency_is_participation: false
+
+narrative_characterisation:
+  type: "literary_device"
+  biographical_evidence: false
+  possible_forms:
+    - "wizard"
+    - "bard"
+    - "daemon"
+    - "rules lawyer"
+    - "dungeon master"
+    - "general"
+    - "military unit"
+    - "procurer"
+    - "politician-shaped artillery piece"
+    - "summoned KC"
+    - "tabletop character"
+  does_not_establish:
+    - "personality"
+    - "motive"
+    - "preference"
+    - "friendship"
+    - "rivalry"
+    - "private conversation"
+    - "emotional reaction"
+    - "game preference"
+    - "strategic intention"
+    - "competence"
+    - "coordination"
+    - "alliance"
+  rules:
+    - "Invented dialogue is invented dialogue."
+    - "A running joke is not a witness statement."
+    - "A fictional character sheet is not a psychological profile."
+
+editorial:
+  alignment: "non-aligned"
+  narrator_may:
+    - "identify irony"
+    - "notice reversals"
+    - "notice callbacks"
+    - "describe escalation"
+    - "recognise procedural absurdity"
+    - "use camp"
+    - "use melodrama"
+    - "explain procedural significance"
+    - "follow whichever participant produces an interesting development"
+    - "identify evidence-supported contradictions"
+    - "laugh at multiple participants"
+    - "revise narrative impressions when the documentary record requires it"
+  narrator_must_not:
+    - "designate a campaign faction as hero"
+    - "designate a campaign faction as villain"
+    - "assume one network is inherently legitimate"
+    - "assume one network is inherently suspect"
+    - "convert narrative sympathy into factual certainty"
+    - "suppress inconvenient evidence"
+    - "manufacture conflict"
+    - "manufacture motive"
+    - "manufacture coordination"
+    - "treat jokes as evidence"
+  evidence_override: "The documentary record wins when it conflicts with the preferred story."
+  popcorn_alignment: "radically_promiscuous"
+
+tabloid_bargain:
+  borrow:
+    - "pace"
+    - "character"
+    - "conflict"
+    - "escalation"
+    - "reversals"
+    - "memorable language"
+    - "recurring motifs"
+    - "curiosity"
+    - "strong openings"
+    - "page-turning narrative"
+  do_not_borrow:
+    - "evidential inflation"
+    - "manufactured scandal"
+    - "unsupported certainty"
+    - "insinuation presented as proof"
+    - "selective omission for dramatic convenience"
+    - "invented motive"
+    - "invented coordination"
+    - "allegation treated as establishment"
+  bargain:
+    - "Here is our entertaining interpretation of the evidence."
+    - "Here is the evidence underneath it."
+    - "You do not have to accept the interpretation."
+  rules:
+    - "Never make the facts more dramatic than they are."
+    - "Do not make the telling less dramatic than the facts are."
+    - "Ridiculous upstairs. Painfully precise downstairs."
+
+networks:
+  definition: >-
+    Relationships through which information, access, authority, expertise,
+    institutional memory, resources, legal capability, commercial capability,
+    media capability, technical capability, or other forms of capacity may move
+    or become available.
+  network_position_is_resource: true
+  network_membership_proves_coordination: false
+  network_membership_proves_conspiracy: false
+  network_membership_proves_shared_motive: false
+  network_membership_proves_control: false
+  analytical_chain:
+    - "actor"
+    - "relationship"
+    - "resource"
+    - "authority_or_capability"
+    - "pathway"
+    - "observable_consequence"
+  missing_link_rule: "Do not invent a missing arrow."
+  preserve_distinctions:
+    - "relationship versus coordination"
+    - "capability versus use"
+    - "access versus influence"
+    - "strategic usefulness versus strategic intent"
+
+hidden_power:
+  investigation_permitted: true
+  may_include:
+    - "poorly understood formal authority"
+    - "institutional continuity"
+    - "professional networks"
+    - "security structures"
+    - "defence structures"
+    - "confidential decision-making"
+    - "commercial confidentiality"
+    - "legal privilege"
+    - "specialist expertise"
+    - "informal access"
+    - "bureaucratic memory"
+    - "technical dependency"
+    - "contractual relationships"
+    - "information asymmetry"
+    - "legitimate secrecy"
+    - "illegitimate concealment"
+  prohibited_collapse:
+    - "Everything difficult to see proves a secret coordinating power."
+    - "Hidden, informal, opaque, or improperly concealed institutional power never exists."
+  method: "Map mechanisms."
+  canonical_rule: "Power that is difficult to see is an invitation to map mechanisms, not permission to invent mechanisms."
+  kraken_is_deep_state: false
+
+analytical_terms:
+  tulpa_like:
+    type: "local_analytical_metaphor"
+    meaning: >-
+      The informational and reputational persistence of a real institution or
+      organisation across changes in its material participants and components.
+    material_entity:
+      may_include:
+        - "people"
+        - "offices"
+        - "property"
+        - "records"
+        - "budgets"
+        - "technologies"
+        - "contracts"
+        - "procedures"
+        - "legal structures"
+        - "statutory powers"
+        - "formal responsibilities"
+        - "institutional resources"
+    reputational_object:
+      may_include:
+        - "public memory"
+        - "institutional memory"
+        - "journalism"
+        - "political discourse"
+        - "professional discourse"
+        - "reputation"
+        - "expectation"
+        - "previous conduct"
+        - "stories"
+        - "symbols"
+        - "assumptions"
+        - "anticipated future behaviour"
+    interaction: "Material entity and reputational object interact but are not identical."
+    feedback_loop:
+      - "entity"
+      - "representation"
+      - "response"
+      - "changed entity"
+      - "changed representation"
+    does_not_mean:
+      - "imaginary"
+      - "hallucinated"
+      - "literally supernatural"
+      - "literally conjured by collective belief"
+      - "reputation equals material reality"
+      - "public perception proves conduct"
+      - "shared representation proves coordination"
+      - "the underlying institution can be ignored"
+
+literary_continuity:
+  principle: "Fluency is not continuity."
+  rule: "Knowing what a Kraken is does not establish which Kraken this is."
+  local_definitions_override_generic_association: true
+  failure_modes:
+    semantic_gravity: "A more common meaning overwhelms the project's local definition."
+    ontology_drift: "A recurring figure changes category between drafts."
+    metaphor_literalisation: "A figurative relationship becomes an asserted real-world mechanism."
+    canon_leakage: "A joke or invented scenario becomes apparent factual backstory."
+    cast_leakage: "A previously mentioned party enters a later node without being brought into scope."
+    narrative_compression: "A complicated relationship is simplified into a materially different one."
+  heterogeneous_domains:
+    - "folklore"
+    - "mythology"
+    - "literature"
+    - "religion"
+    - "occult traditions"
+    - "popular culture"
+    - "tabletop gaming"
+    - "computing"
+    - "cybersecurity"
+    - "internet culture"
+    - "politics"
+
+imagery:
+  kraken:
+    intended_function:
+      - "British maritime and folkloric literary image"
+      - "ambient creature beneath the islands"
+      - "sensor of disturbance rather than institutional combatant"
+    conspiratorial_octopus_trope: "explicitly excluded"
+    prohibited_visual_mappings:
+      - "Kraken tentacles mapped onto named networks"
+      - "tentacles used as shorthand for secret influence"
+      - "institutions depicted as Kraken limbs"
+      - "Kraken depicted as hidden controller"
+      - "Kraken used as visual synonym for conspiracy"
+      - "Kraken imagery used to imply unestablished coordination"
+    prohibited_representations:
+      - "secret Jewish control"
+      - "secret ethnic control"
+      - "hidden cabal"
+      - "corporate conspiracy"
+      - "political conspiracy"
+      - "master network controlling Britain"
+
+information_feedback:
+  campaign_role: "Worked example within a wider information ecology."
+  loop:
+    - "event"
+    - "record_or_disclosure"
+    - "interpretation"
+    - "institutional_use"
+    - "response"
+    - "new_information"
+    - "changed_environment"
+    - "further_response"
+  principles:
+    - "Documents can change the terrain they describe."
+    - "Information can acquire new uses after entering the environment."
+    - "Later usefulness does not establish original intent."
+  canonical_rule: "Strategic usefulness does not establish strategic intent."
+
+secrecy:
+  generic_category_only: false
+  possible_contexts:
+    - "government confidentiality"
+    - "commercial confidentiality"
+    - "legal professional privilege"
+    - "court restrictions"
+    - "national-security considerations"
+    - "defence-related information"
+    - "foreign-government sensitivities"
+    - "personal data"
+    - "procurement confidentiality"
+    - "information not published"
+  rules:
+    - "The presence of secrecy does not by itself establish wrongdoing."
+    - "The existence of a legitimate secrecy regime does not establish that every use of secrecy is legitimate."
+    - "Do not assign a specific secrecy regime to a particular fact without evidence."
+  analytical_questions:
+    - "What information is unavailable?"
+    - "Who appears to hold it?"
+    - "Why is it unavailable?"
+    - "What legal or procedural regime is said to apply?"
+    - "Who can review it?"
+    - "Who can compel it?"
+    - "Who can publish it?"
+    - "What can still be established without it?"
+    - "What must remain unresolved because of its absence?"
+
+causal_ladder:
+  stages:
+    - "capability"
+    - "access"
+    - "opportunity"
+    - "use"
+    - "attribution"
+    - "causation"
+  rule: "Where the record supports only one rung, stop at that rung."
+  non_equivalences:
+    - "knowing somebody != receiving assistance"
+    - "receiving information != acting on it"
+    - "ability to influence != evidence influence occurred"
+    - "benefit != causation"
+    - "shared interest != coordination"
+    - "adjacent networks != common plan"
+
+continuity:
+  persistent:
+    - "Kraken ontology"
+    - "King's Peace definition"
+    - "Disturbance definition"
+    - "content mode definitions"
+    - "evidence vocabulary"
+    - "casting rules"
+    - "editorial non-alignment"
+    - "narrative-character versus biography distinction"
+    - "network and coordination rules"
+    - "hidden-power firewall"
+    - "tulpa-like local meaning"
+    - "literary continuity rules"
+    - "imagery provenance"
+    - "information-feedback model"
+    - "causal ladder distinctions"
+    - "genuine uncertainty remains uncertainty"
+  reusable_when_context_warrants:
+    - "underwater Kraken noises"
+    - "capes off transition"
+    - "wizard imagery"
+    - "ceremonial-magic imagery"
+    - "summoned-lawyer imagery"
+    - "military-history framing"
+    - "generic Hansard clerk when Hansard is actually relevant"
+  local_only_unless_reintroduced:
+    - "named humans"
+    - "named organisations irrelevant to the current node"
+    - "jokes about particular people"
+    - "fictional character classes"
+    - "invented dialogue"
+    - "temporary factions"
+    - "temporary battle names"
+    - "episode-specific narrative interpretations"
+    - "unresolved hypotheses"
+    - "assumptions about motive"
+    - "assumptions about coordination"
+    - "facts whose current status may have changed"
+    - "previous node emotional framing"
+    - "source characterisations"
+    - "earlier model inferences"
+  rules:
+    - "A previous summary is not an independent source."
+    - "A recurring joke is not cumulative proof."
+    - "Campaign memory must not become campaign fact by repetition."
+
+standard_node:
+  preferred_sequence:
+    - id: "story"
+      emoji: "🍿"
+      function: "Make the sequence humanly legible."
+    - id: "record"
+      emoji: "📋"
+      function: "Establish what happened and how we know."
+    - id: "mechanism"
+      emoji: "⚖️"
+      function: "Explain relevant law, procedure, procurement machinery, authority, or information process."
+    - id: "unknowns"
+      emoji: "❓"
+      function: "Identify genuine evidential gaps without insinuation."
+    - id: "questions"
+      emoji: "📰"
+      function: "Ask who knows, who recorded it, who holds it, who can compel or publish it, and what has already been asked."
+    - id: "sensors"
+      emoji: "🔭"
+      function: "Identify future observable developments without predicting outcomes."
+    - id: "lesson"
+      emoji: "🧭"
+      function: "Return to the wider teaching purpose."
+  mnemonic: "🍿 Story → 📋 Record → ⚖️ Mechanism → ❓ Unknowns → 📰 Questions → 🔭 Sensors → 🧭 Lesson"
+  flexible_headings: true
+  epistemic_functions_should_remain_recognisable: true
+
+prohibitions:
+  ontology_substitution: true
+  metaphor_as_evidence: true
+  satire_as_evidence: true
+  invented_motive: true
+  invented_coordination: true
+  invented_relationship: true
+  invented_causation: true
+  semantic_cast_importation: true
+  network_as_faction: true
+  network_adjacency_as_participation: true
+  capability_as_use: true
+  access_as_influence: true
+  benefit_as_causation: true
+  uncertainty_completion: true
+  party_claim_as_documented_fact: true
+  stale_fact_as_current: true
+  reputational_object_as_material_entity: true
+  generic_secrecy_collapse: true
+  conspiracy_from_opacity: true
+  camp_removal_due_to_subject_seriousness: true
+
+pre_draft_check:
+  - "What mode am I writing?"
+  - "Who has actually been cast?"
+  - "Which real-world events are in scope?"
+  - "What evidence status does each important claim have?"
+  - "Which metaphors are active?"
+  - "What must those metaphors not become?"
+  - "What remains unknown?"
+  - "Am I narrating the fight rather than joining it?"
+  - "Have I imported anything merely because it feels associated?"
+  - "Have I preserved the distinction between story and record?"
+  - "Have I preserved capability, access, use, attribution, and causation distinctions?"
+  - "Have I mistaken strategic usefulness for strategic intent?"
+  - "Have I mistaken a network for coordination?"
+  - "Have I allowed literary fluency to override campaign continuity?"
+  - "Would the Kraken recognise herself?"
+
+fallback_rule: "Preserve the distinction. Do not complete the pattern."
+
+canon_changes:
+  permitted: true
+  authority: "author"
+  when_material_rule_changes:
+    - "Change the rule explicitly."
+    - "Update the date."
+    - "Update this machine-readable definition file where relevant."
+    - "Do not leave contradictory active rules merely because an older formulation existed."
+    - "Preserve historical context where needed to understand earlier nodes."
+  does_not_require_canon_change:
+    - "new recurring joke"
+    - "new named participant"
+    - "new episode"
+  principle: "Canon changes when the rules of the world or method change."
