@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-18 21:44:13 UTC_
+_Generated on 2026-09-18 22:01:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3536,6 +3536,7 @@ _Generated on 2026-09-18 21:44:13 UTC_
         - [`🪬_why_this_folder_exists.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌾_Start_Here/🪬_why_this_folder_exists.md)
       - [**🍉_Current_Events/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/README.md)
+        - [`☘️_on_targeting_kneecap_and_macklemore.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/☘️_on_targeting_kneecap_and_macklemore.md)
         - [`⚖️_uklfi_which_planet_are_you_on.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/⚖️_uklfi_which_planet_are_you_on.md)
         - [`🇺🇸_sanctions_governance_questions_for_mr_huckabee.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/🇺🇸_sanctions_governance_questions_for_mr_huckabee.md)
         - [`🎬_why_is_israel_so_upset_about_naza.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/🎬_why_is_israel_so_upset_about_naza.md)
