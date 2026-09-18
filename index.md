@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-18 16:06:18 UTC_
+_Generated on 2026-09-18 16:29:30 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5250,6 +5250,7 @@ _Generated on 2026-09-18 16:06:18 UTC_
     - [`notes.md`](🌖_6_Learning_The_Skies/🕷️_Transforming_Antisemitism_Knowledge/notes.md)
   - [**🦑_The_Great_Kraken_Disturbance/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/)
     - [**🫧_Krakens_Pearls/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/)
+      - [`README.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/README.md)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/notes.txt)
     - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/notes.txt)
   - [`README.md`](🌖_6_Learning_The_Skies/README.md)
