@@ -307,3 +307,194 @@ retire and redirect ‘🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Ac
     * Law supplies some of the rules and some of the weapons.
     * The Kraken is the networked system we’re trying to learn how to see.
     * The men are being fucking drama queens.
+
+Absolutely. I’d keep it deliberately skeletal so you can drop it into the planning material without prematurely deciding the eventual node structure.
+
+## 🧭 Possible Child Clusters
+> **Working question:**  
+> **Who governs when government buys capability?**
+>
+> The contract dispute is the teaching specimen rather than the whole subject.
+> It provides a route into several overlapping questions about where power sits,
+> how it moves, what constrains it, and how citizens retain meaningful control
+> when public functions depend upon complex institutional and commercial systems.
+### 🏛️ Where Does Public Power Actually Live?
+- Formal constitutional authority versus practical/operational power.
+- Ministers, Parliament, mayors, statutory bodies, police governance, courts.
+- Procurement teams, frameworks, technical specialists, contractors and infrastructure.
+- Which actor possesses which kind of power?
+- Through what mechanism?
+- At what point in a decision?
+- Distinguish visible institutional complexity from claims of hidden control.
+---
+### 🤝 The Contract State
+- Government increasingly performs functions through contracts and purchased capability.
+- Procurement as governance rather than administrative housekeeping.
+- Accountability when public functions depend upon private suppliers.
+- State capacity versus bought capacity.
+- What does democratic government mean when important capabilities are purchased rather than internally possessed?
+---
+### ⚙️ Old Power Meets New Capability
+- Traditional institutional power:
+  - statutory authority
+  - democratic mandate
+  - institutional memory
+  - public-law duties
+  - legal and coercive authority
+- Supplier/technical power:
+  - expertise
+  - products
+  - integration capacity
+  - technical knowledge
+  - difficult-to-reproduce capability
+- Formal authority ≠ operational capability.
+- Neither automatically determines the outcome.
+- What happens when different species of power encounter one another?
+---
+### 🪤 Dependency, Lock-In and Exit
+- Supplier dependency.
+- Switching costs.
+- Technical interoperability.
+- Data portability.
+- Internal expertise.
+- Replacement capability.
+- Contract renewal and future bargaining power.
+- Procurement today as a potential constraint on future room for manoeuvre.
+- Keep general questions about lock-in separate from contested claims about any particular supplier.
+---
+### 👁️ Who Can See Enough to Govern?
+- Different actors possess different pieces of the information environment.
+- Operational knowledge.
+- Commercial information.
+- Technical knowledge.
+- Parliamentary information.
+- Court material.
+- Audit and oversight information.
+- Publicly available information.
+- Confidentiality, privilege, security and other legitimate restrictions.
+- Authority alone may be insufficient if the decision-maker cannot see enough to exercise it meaningfully.
+**Question:**  
+Who knows what, who is entitled to know what, and who can compel somebody else to explain?
+---
+### ⚖️ Law as Infrastructure for Disagreement
+- Procurement law.
+- Public law.
+- Delegated authority.
+- Judicial review.
+- Disclosure.
+- Parliamentary scrutiny.
+- Audit and oversight.
+- Law as machinery through which powerful actors can be required to:
+  - explain
+  - disclose
+  - justify
+  - reconsider
+  - defend
+Not merely lawyers arguing over technicalities.
+The technicalities are part of the infrastructure through which power is contested.
+---
+### 🧮 Competing Risk Apparatuses
+Different actors may be responding to different risks:
+- operational failure
+- procurement legality
+- value for money
+- technological dependency
+- litigation
+- reputation
+- democratic legitimacy
+- information security
+- national security
+- institutional responsibility
+An intervention intended to reduce **Risk A** may increase **Risk B** for another actor.
+That changed risk environment can then change behaviour.
+→ strong route back into **The Feedback Environment**.
+---
+### 🗳️ Control, Legitimacy and the Citizen
+- What meaningful control does the citizen retain?
+- Voting is only one control surface.
+- Delegation creates distance between electoral choice and operational decisions.
+- Public bodies, statutory structures, procurement frameworks, contractors and technical architecture may sit between the two.
+- Where are the democratic control surfaces?
+- How accessible are they?
+- Who can activate them?
+- Where does the chain become so remote or opaque that citizens struggle to recognise their own agency within it?
+- Relationship between political trust, perceived control, institutional legitimacy and populist responses should be examined empirically rather than assumed.
+---
+### ♻️ Power Under Observation
+Once a decision becomes contested, scrutiny becomes part of the environment.
+```text
+decision
+    ↓
+record / disclosure
+    ↓
+interpretation
+    ↓
+legal / political / media intervention
+    ↓
+changed risk and information environment
+    ↓
+institutional response
+    ↓
+new records / disclosures / decisions
+    ↓
+further intervention
+
+Possible examples of mechanisms:
+
+* a letter changes litigation risk
+* litigation changes disclosure incentives
+* a parliamentary question creates a durable public record
+* reporting alters reputational conditions
+* disclosure changes what another actor knows
+* judicial decisions may alter later institutional behaviour
+
+Observation enters the system and becomes part of the system.
+
+⸻
+
+🕸️ Possible Conceptual Map
+
+flowchart TB
+    Q["WHO GOVERNS WHEN GOVERNMENT BUYS CAPABILITY?"]
+    Q --> AUTH["🏛️ Authority"]
+    Q --> CAP["⚙️ Capability"]
+    Q --> PROC["🤝 Procurement"]
+    Q --> DEP["🪤 Dependency"]
+    Q --> INFO["👁️ Information"]
+    Q --> LAW["⚖️ Law"]
+    Q --> RISK["🧮 Risk"]
+    Q --> LEG["🗳️ Legitimacy"]
+    Q --> FEED["♻️ Feedback"]
+    AUTH <--> CAP
+    PROC <--> DEP
+    INFO <--> LAW
+    RISK <--> FEED
+    LEG <--> AUTH
+    CAP <--> DEP
+    INFO <--> FEED
+
+Working rule: The arrows mark analytical relationships to investigate,
+not evidence of coordination, causation, hierarchy or control.
+
+⸻
+
+🧵 The Contract As Routing Object
+
+The contract case does not need to prove every proposition explored by these
+clusters.
+
+Instead, it can operate as a worked example through which the reader encounters:
+
+authority · capability · procurement · dependency · information · law · risk · legitimacy · feedback
+
+The broader object is therefore not:
+
+Who wins the contract dispute?
+
+but:
+
+What does the dispute allow us to see about how governing power actually
+operates when public authority, private capability, law, information and
+institutional risk meet?
+
+That gives you the **serious skeleton underneath the squid** without yet committing us to whether each heading ultimately becomes one child node, several nodes, or gets absorbed into a larger cluster.
