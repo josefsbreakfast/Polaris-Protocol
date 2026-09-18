@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-18 15:14:39 UTC_
+_Generated on 2026-09-18 15:22:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3906,6 +3906,7 @@ _Generated on 2026-09-18 15:14:39 UTC_
         - [`parallel_stakeholder_timeline_final_with_conflict_spillover.csv`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🌹_Labour_Policy_Wheels/parallel_stakeholder_timeline_final_with_conflict_spillover.csv)
       - [**🐼_The_Procurement_Of_The_Rings/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/README.md)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/notes.txt)
         - [`♚_the_king_moves_into_check.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/♚_the_king_moves_into_check.md)
         - [`⚖️_what_each_side_needs_to_disclose.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/⚖️_what_each_side_needs_to_disclose.md)
         - [`🎭_the_public_safety_line.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🎭_the_public_safety_line.md)
