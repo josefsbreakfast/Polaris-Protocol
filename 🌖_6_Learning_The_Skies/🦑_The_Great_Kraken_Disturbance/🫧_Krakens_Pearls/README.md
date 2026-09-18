@@ -1,6 +1,4 @@
-	
-# 🫧 Kraken's Pearls
-
+# 🫧 Kraken's Pearls  
 **First created:** 2026-09-18 | **Last updated:** 2026-09-18  
 *Public methodology, continuity infrastructure, and shiny things for
 keeping The Great Kraken Disturbance coherent across humans, machines,
@@ -416,7 +414,7 @@ taxonomy, satire, institutional representation, kraken canon
 > 📡 Cross-references:
 >
 > -   [🦑 The Great Kraken Disturbance](../README.md) --- *parent teaching cluster and public narrative route*
-> -   [🧾 Definitions](./🧾_definitions.yaml) --- *compact machine-readable campaign terminology and constraints*
+> -   [🍪 Definitions](./🍪_definitions.yaml) --- *compact machine-readable campaign terminology and constraints*
 > -   [♻️ The Feedback Environment](../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/README.md) --- *wider cybernetic framework for information, response, and recursive change*
 >
 > 🏮 Return To:
