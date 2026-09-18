@@ -1,5 +1,5 @@
 # 🪞 Wronged Before Exposed  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *Pre-framing hypothesis: becoming legible as the wronged procedural actor before other scrutiny lands.*
 
 ---
@@ -661,13 +661,13 @@ It treats pre-framing as a working hypothesis, asking how legal escalation can m
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [🧍 The Awkward Posture](./🧍_the_awkward_posture.md) — *urgency, grievance, and inevitability posture*
-> - [🕰️ Why Now: The Timing Question](./🕰️_why_now_the_timing_question.md) — *timing as reporting route, not proof*
-> - [🎭 The Public Safety Line](./🎭_the_public_safety_line.md) — *public-safety claim as pressure frame*
-> - [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *records needed to test each actor’s strongest case*
-> - [♚ The King Moves Into Check](./♚_the_king_moves_into_check.md) — *first-mover risk once legal posture opens attacked squares*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [🧍 The Awkward Posture] — *urgency, grievance, and inevitability posture*
+> - [🕰️ Why Now: The Timing Question] — *timing as reporting route, not proof*
+> - [🎭 The Public Safety Line] — *public-safety claim as pressure frame*
+> - [⚖️ What Each Side Needs To Disclose] — *records needed to test each actor’s strongest case*
+> - [♚ The King Moves Into Check] — *first-mover risk once legal posture opens attacked squares*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
