@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-18 15:39:33 UTC_
+_Generated on 2026-09-18 15:40:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3906,7 +3906,6 @@ _Generated on 2026-09-18 15:39:33 UTC_
         - [`parallel_stakeholder_timeline_final_with_conflict_spillover.csv`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🌹_Labour_Policy_Wheels/parallel_stakeholder_timeline_final_with_conflict_spillover.csv)
       - [**🐼_The_Procurement_Of_The_Rings/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/notes.txt)
-        - [`🔮_best_case_palantir.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🔮_best_case_palantir.md)
         - [`🕰️_why_now_the_timing_question.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🕰️_why_now_the_timing_question.md)
         - [`🕳️_why_this_is_not_just_about_palantir.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🕳️_why_this_is_not_just_about_palantir.md)
         - [`🗄️_the_hidden_layer_problem.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🗄️_the_hidden_layer_problem.md)
@@ -10038,6 +10037,7 @@ _Generated on 2026-09-18 15:39:33 UTC_
             - [`💍_one_contract_to_rule_them_all.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/💍_one_contract_to_rule_them_all.md)
             - [`💔_the_procurement_divorce.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/💔_the_procurement_divorce.md)
             - [`📌_known_public_facts_first.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/📌_known_public_facts_first.md)
+            - [`🔮_best_case_palantir.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🔮_best_case_palantir.md)
       - [**🛰️_Metadata_Sabotage_Network/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/)
         - [**🔎_Evidence_And_Anomalies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
