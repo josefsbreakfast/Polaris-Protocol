@@ -1,5 +1,5 @@
 # 🧭 Questions Journalists Should Ask Now  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *A practical question bank for reporters, auditors, lawyers, unions, procurement specialists, and policing-accountability people before the cupboard closes.*
 
 ---
@@ -840,15 +840,15 @@ It turns the Met / Palantir / MOPAC procurement dispute into a practical questio
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [📌 Known Public Facts First](./📌_known_public_facts_first.md) — *evidential floor before analysis*
-> - [🏷️ Palantir Or Palantir UK](./🏷️_palantir_or_palantir_uk.md) — *entity precision, brand aura, and legal-risk networks*
-> - [🎭 The Public Safety Line](./🎭_the_public_safety_line.md) — *public-safety claim as evidential burden*
-> - [🧾 The Paperwork Reciprocity Trap](./🧾_the_paperwork_reciprocity_trap.md) — *why process claims make everyone’s paperwork relevant*
-> - [👻 Commercial Litigation As Accidental Accountability](./👻_commercial_litigation_as_accidental_accountability.md) — *self-interested litigation as disclosure pressure*
-> - [🗄️ The Hidden Layer Problem](./🗄️_the_hidden_layer_problem.md) — *sensitive material, locked cabinets, and accountable routing*
-> - [🕳️ Why This Is Not Just About Palantir](./🕳️_why_this_is_not_just_about_palantir.md) — *structural synthesis beyond one supplier*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [📌 Known Public Facts First] — *evidential floor before analysis*
+> - [🏷️ Palantir Or Palantir UK] — *entity precision, brand aura, and legal-risk networks*
+> - [🎭 The Public Safety Line] — *public-safety claim as evidential burden*
+> - [🧾 The Paperwork Reciprocity Trap] — *why process claims make everyone’s paperwork relevant*
+> - [👻 Commercial Litigation As Accidental Accountability] — *self-interested litigation as disclosure pressure*
+> - [🗄️ The Hidden Layer Problem] — *sensitive material, locked cabinets, and accountable routing*
+> - [🕳️ Why This Is Not Just About Palantir] — *structural synthesis beyond one supplier*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
