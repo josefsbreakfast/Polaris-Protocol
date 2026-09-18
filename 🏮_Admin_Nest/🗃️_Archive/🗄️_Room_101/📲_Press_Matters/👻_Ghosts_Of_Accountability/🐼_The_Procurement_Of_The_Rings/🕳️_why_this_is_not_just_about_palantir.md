@@ -1,5 +1,5 @@
 # 🕳️ Why This Is Not Just About Palantir  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *Palantir is the visible ring. The deeper problem is how public power buys technical dependency, hides governance debt, and then calls the result modernisation.*
 
 ---
@@ -870,13 +870,13 @@ It widens the Met / Palantir / MOPAC dispute into a structural analysis of publi
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [🏷️ Palantir Or Palantir UK](./🏷️_palantir_or_palantir_uk.md) — *entity precision, brand aura, and overlapping legal-risk networks*
-> - [🗄️ The Hidden Layer Problem](./🗄️_the_hidden_layer_problem.md) — *sensitive records, locked cabinets, and accountability routing*
-> - [👻 Commercial Litigation As Accidental Accountability](./👻_commercial_litigation_as_accidental_accountability.md) — *self-interested litigation as public-interest disclosure pressure*
-> - [🧾 The Paperwork Reciprocity Trap](./🧾_the_paperwork_reciprocity_trap.md) — *why process claims create reciprocal document pressure*
-> - [🧭 Questions Journalists Should Ask Now](./🧭_questions_journalists_should_ask_now.md) — *practical question bank for reporters, auditors, lawyers, and accountability actors*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [🏷️ Palantir Or Palantir UK] — *entity precision, brand aura, and overlapping legal-risk networks*
+> - [🗄️ The Hidden Layer Problem] — *sensitive records, locked cabinets, and accountability routing*
+> - [👻 Commercial Litigation As Accidental Accountability] — *self-interested litigation as public-interest disclosure pressure*
+> - [🧾 The Paperwork Reciprocity Trap] — *why process claims create reciprocal document pressure*
+> - [🧭 Questions Journalists Should Ask Now] — *practical question bank for reporters, auditors, lawyers, and accountability actors*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
