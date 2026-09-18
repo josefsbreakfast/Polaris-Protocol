@@ -334,3 +334,32 @@
 - Three institutions pretending, for the convenience of law and storytelling, to have bodies.
 - The battle gives them uniforms.
 - The investigation takes the uniforms apart.
+
+## 🪖 TODO — unfortunately we need the Crimean War
+
+- The Guards Crimean War Memorial cannot function merely as decorative scenery.
+- Add a compact contextual treatment explaining why this monument exists and what historical world produced it.
+- We do **not** need a complete military history.
+- We need enough to understand:
+    - why Britain and France entered the war against Russia;
+    - the importance of Crimea and Sevastopol;
+    - what the Guards were doing there;
+    - the scale and character of British losses;
+    - military logistics, supply and administrative failures;
+    - medicine, nursing, sanitation and statistical reform;
+    - Florence Nightingale;
+    - Sidney Herbert;
+    - telegraphy, newspapers and unusually rapid public visibility of the war;
+    - captured Russian cannon as trophies/material;
+    - why captured cannon were subsequently turned into the bronze of the Waterloo Place memorial;
+    - how Honour/Victory, mourning and military commemoration were understood after the war;
+    - why Nightingale and Herbert were later physically inserted into the Waterloo Place commemorative landscape.
+- Polaris relevance:
+    - military capability ≠ administrative capability;
+    - possessing state power ≠ successfully exercising it;
+    - logistics and information are forms of power;
+    - institutional failure becomes politically consequential when information about it travels;
+    - war produces arguments about who is responsible for making systems work;
+    - commemoration subsequently decides what kinds of power and service become visible.
+- Keep the military chronology compact.
+- Spend more time on the information / administration / logistics / institutional-learning machinery where it illuminates Waterloo Place.
