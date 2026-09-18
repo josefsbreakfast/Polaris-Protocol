@@ -1,5 +1,5 @@
 # 💍 One Contract To Rule Them All  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *The contract is not only revenue; it is precedent, market access, refusal risk, worker transparency, and a warning shot to every public body watching the door.*
 
 ---
@@ -655,13 +655,13 @@ It examines the disputed Met / Palantir contract as a precedent object, tracking
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [📌 Known Public Facts First](./📌_known_public_facts_first.md) — *sourceable facts before precedent analysis*
-> - [🕰️ Why Now: The Timing Question](./🕰️_why_now_the_timing_question.md) — *timing as reporting route, not proof*
-> - [💔 The Procurement Divorce](./💔_the_procurement_divorce.md) — *pilot, veto, breakup, and disclosure court*
-> - [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *records required once contract precedent becomes public dispute*
-> - [👻 Commercial Litigation As Accidental Accountability](./👻_commercial_litigation_as_accidental_accountability.md) — *self-interested litigation as disclosure pressure*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [📌 Known Public Facts First] — *sourceable facts before precedent analysis*
+> - [🕰️ Why Now: The Timing Question] — *timing as reporting route, not proof*
+> - [💔 The Procurement Divorce] — *pilot, veto, breakup, and disclosure court*
+> - [⚖️ What Each Side Needs To Disclose] — *records required once contract precedent becomes public dispute*
+> - [👻 Commercial Litigation As Accidental Accountability] — *self-interested litigation as disclosure pressure*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
