@@ -1,5 +1,5 @@
 # 🕰️ Why Now: The Timing Question  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *Timing is not proof; it is where the reporting starts looking under the rug.*
 
 ---
@@ -552,13 +552,13 @@ It treats timing as a reporting route rather than proof, mapping how legal escal
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [📌 Known Public Facts First](./📌_known_public_facts_first.md) — *evidential floor for the public timeline*
-> - [🧭 How To Read This Without Picking A Mascot](./🧭_how_to_read_this_without_picking_a_mascot.md) — *reader posture and mascot-resistance rule*
-> - [💍 One Contract To Rule Them All](./💍_one_contract_to_rule_them_all.md) — *contract precedent and refusal pressure*
-> - [🧾 The Paperwork Reciprocity Trap](./🧾_the_paperwork_reciprocity_trap.md) — *why making paperwork the battlefield cuts both ways*
-> - [🧭 Questions Journalists Should Ask Now](./🧭_questions_journalists_should_ask_now.md) — *practical reporting routes from the timing question*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [📌 Known Public Facts First] — *evidential floor for the public timeline*
+> - [🧭 How To Read This Without Picking A Mascot] — *reader posture and mascot-resistance rule*
+> - [💍 One Contract To Rule Them All] — *contract precedent and refusal pressure*
+> - [🧾 The Paperwork Reciprocity Trap] — *why making paperwork the battlefield cuts both ways*
+> - [🧭 Questions Journalists Should Ask Now] — *practical reporting routes from the timing question*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
