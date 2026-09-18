@@ -290,7 +290,8 @@ Repairability is therefore not merely consumer policy.
 And some of us have six planned tooklets requiring Sunday entertainment.  
 <!-- Glad to see the bastard LLM snuck that in. And as we should orientate and contextualise where it got that idea, we will go hard or go home: -->
 (With six you can have all of the eeveelutions in one sitting. As if I am the first person to think this.)  
-
+<!-- The bastard’s response to being queried on inclusion, I shit you not, included: ¯\_(ツ)_/¯ 
+America what the fuck is this. -->
 The workforce pipeline must be considered.  
 
 The ancient intergenerational British risk assessment of, “You are six, but one day you will be 21, and you are going to watch me change a fuse because I will not have you embarrass me by accidentally blowing up the house and being in the papers. Come here and learn”, has nowhere to go, when anything beyond “marginally scratched” must be posted to California for some reason.  
