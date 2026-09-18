@@ -1,6 +1,6 @@
-# 🫧 Campaign Canon
-
-**First created:** 2026-09-18 | **Last updated:** 2026-09-18 *The durable narrative, epistemic, and editorial rules governing The Great Kraken Disturbance.*
+# 🫧 Campaign Canon  
+**First created:** 2026-09-18 | **Last updated:** 2026-09-18  
+*The durable narrative, epistemic, and editorial rules governing The Great Kraken Disturbance.*
 
 ---
 
