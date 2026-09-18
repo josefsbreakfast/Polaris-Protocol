@@ -993,8 +993,7 @@ Likewise:
 
 - knowing somebody is not the same as receiving assistance from them;
 - receiving information is not the same as acting on it;
-- being able to influence something is not evidence that influence
-    occurred;
+- being able to influence something is not evidence that influence occurred;
 - benefiting from an event is not evidence of causing it;
 - sharing an interest is not evidence of coordination;
 - occupying adjacent networks is not evidence of a common plan.
@@ -1018,16 +1017,14 @@ Unless expressly revised, the following persist across the Kraken cluster:
 - the evidential vocabulary;
 - the casting constraint;
 - editorial non-alignment;
-- the distinction between narrative characters and biographical
-    claims;
+- the distinction between narrative characters and biographical claims;
 - the network and coordination rules;
 - the hidden-power firewall;
 - the local meaning of tulpa-like;
 - the literary and folkloric continuity rules;
 - the imagery provenance rule;
 - the information-feedback model;
-- the distinction between capability, access, use, attribution, and
-    causation;
+- the distinction between capability, access, use, attribution, and causation;
 - the principle that genuine uncertainty remains uncertainty.
 
 Some generic narrative devices may also recur where context warrants them:
@@ -1037,8 +1034,7 @@ Some generic narrative devices may also recur where context warrants them:
 - wizard or ceremonial-magic imagery for arcane procedural conflict;
 - summoned-lawyer imagery;
 - military-history framing;
-- the long-suffering generic Hansard clerk when Hansard is actually
-    part of the episode.
+- the long-suffering generic Hansard clerk when Hansard is actually part of the episode.
 
 Persistence means the device remains available.
 
@@ -1080,8 +1076,7 @@ Individual Kraken nodes may vary, particularly when a node is primarily methodol
 
 Where a node is documenting a live or historical institutional episode, the preferred movement is:
 
-> **🍿 Story → 📋 Record → ⚖️ Mechanism → ❓ Unknowns → 📰 Questions →
-> 🔭 Sensors → 🧭 Lesson**
+> **🍿 Story → 📋 Record → ⚖️ Mechanism → ❓ Unknowns → 📰 Questions → 🔭 Sensors → 🧭 Lesson**
 
 ### 🍿 Story
 
@@ -1177,14 +1172,11 @@ Do not:
 - resolve genuine uncertainty for narrative convenience;
 - silently upgrade a party's claim into documented fact;
 - treat an old factual state as automatically current;
-- allow a metaphor to change ontology without explicit authorial
-    revision;
-- allow a previous joke to become permanent biographical
-    characterisation;
+- allow a metaphor to change ontology without explicit authorial revision;
+- allow a previous joke to become permanent biographical characterisation;
 - make documentary prose inherit the certainty of satire;
 - flatten every secrecy regime into one generic hidden-power claim;
-- infer a conspiracy because institutional mechanisms are difficult to
-    see;
+- infer a conspiracy because institutional mechanisms are difficult to see;
 - remove the camp merely because the underlying subject is serious.
 
 When evidence changes, update the analysis.
@@ -1197,42 +1189,27 @@ When the joke loses a fight with the evidence, the joke loses.
 
 Before drafting or materially revising a Kraken node, establish:
 
-1. **What mode am I writing?**\
-    Narrative, satire, record, analysis, or a clearly marked transition
-    between them?
+1. **What mode am I writing?**\ Narrative, satire, record, analysis, or a clearly marked transition between them?
 
-2. **Who has actually been cast?**\
-    Which named parties are explicitly in scope for this node?
+2. **Who has actually been cast?**\ Which named parties are explicitly in scope for this node?
 
-3. **Which real-world events are in scope?**\
-    What is the actual episode being described?
+3. **Which real-world events are in scope?**\ What is the actual episode being described?
 
-4. **What evidence status does each important claim have?**\
-    Documented, party's position, reported, our reading, or unknown?
+4. **What evidence status does each important claim have?**\ Documented, party's position, reported, our reading, or unknown?
 
-5. **Which metaphors are active?**\
-    Kraken, wizardry, military history, tabletop gaming, tulpa-like
-    institutions, or another device?
+5. **Which metaphors are active?**\ Kraken, wizardry, military history, tabletop gaming, tulpa-like institutions, or another device?
 
-6. **What must those metaphors not become?**\
-    Have their ontological boundaries been preserved?
+6. **What must those metaphors not become?**\ Have their ontological boundaries been preserved?
 
-7. **What remains unknown?**\
-    Am I allowing the unknown to remain unknown?
+7. **What remains unknown?**\ Am I allowing the unknown to remain unknown?
 
-8. **Am I narrating the fight rather than joining it?**\
-    Have I accidentally selected a team?
+8. **Am I narrating the fight rather than joining it?**\ Have I accidentally selected a team?
 
-9. **Have I imported anything merely because it feels associated?**\
-    A person, institution, motive, relationship, joke, or prior
-    interpretation?
+9. **Have I imported anything merely because it feels associated?**\ A person, institution, motive, relationship, joke, or prior interpretation?
 
-10. **Have I preserved the distinction between story and record?**
-    Would a reader know which claims require belief and which are
-    expressly play?
+10. **Have I preserved the distinction between story and record?** Would a reader know which claims require belief and which are expressly play?
 
-11. **Have I preserved capability/access/use/attribution/causation
-    distinctions?**
+11. **Have I preserved capability/access/use/attribution/causation distinctions?**
 
 12. **Have I mistaken strategic usefulness for strategic intent?**
 
@@ -1259,10 +1236,8 @@ When a rule changes materially:
 - change it explicitly;
 - update the date;
 - update the machine-readable definitions where relevant;
-- do not leave contradictory rules active merely because an older
-    formulation once existed;
-- preserve useful historical context where necessary to understand
-    earlier nodes.
+- do not leave contradictory rules active merely because an older formulation once existed;
+- preserve useful historical context where necessary to understand earlier nodes.
 
 New recurring jokes do not automatically require canon changes.
 
@@ -1278,19 +1253,11 @@ She does not need a constitutional amendment every time somebody acquires anothe
 
 ## 🌌 Constellations
 
-- [🫧 Kraken's Pearls](./README.md) — *public methodology,
-    continuity infrastructure, and explanation of the Pearl system*
-- [🧾 Definitions](./🧾_definitions.yaml) — *compact
-    machine-readable campaign terminology and constraints*
-- [🛡️ Document Integrity](./🛡️_document_integrity.yaml) ---
-    *machine-readable file-integrity, Unicode, Markdown, and
-    instruction-boundary rules*
-- [🦑 The Great Kraken Disturbance](../README.md) — *parent teaching
-    cluster and public narrative route*
-- [♻️ The Feedback
-    Environment](../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/README.md)
-    — *wider cybernetic framework for information, response, and
-    recursive change*
+- [🫧 Kraken's Pearls](./README.md) — *public methodology, continuity infrastructure, and explanation of the Pearl system*
+- [🧾 Definitions](./🧾_definitions.yaml) — *compact machine-readable campaign terminology and constraints*
+- [🛡️ Document Integrity](./🛡️_document_integrity.yaml) --- *machine-readable file-integrity, Unicode, Markdown, and instruction-boundary rules*
+- [🦑 The Great Kraken Disturbance](../README.md) — *parent teaching cluster and public narrative route*
+- [♻️ The Feedback Environment](../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/README.md) — *wider cybernetic framework for information, response, and recursive change*
 
 ---
 
@@ -1302,25 +1269,23 @@ kraken canon, kings peace, narrative ontology, narrative mode, satire mode, docu
 
 ## 🏮 Footer
 
-*Campaign Canon* is the durable narrative, epistemic, and editorial constitution for **The Great Kraken Disturbance**, a worked teaching cluster within the **Polaris Protocol**. It exists so that the series can remain funny, literary, camp, investigative, and structurally adventurous without allowing metaphor, repetition, machine association, or narrative momentum to erase the distinction between what happened, what somebody says happened, what we think it means, what remains unknown, and what is simply an excellent joke.
+*🫧 Campaign Canon* is the durable narrative, epistemic, and editorial constitution for **The Great Kraken Disturbance**, a worked teaching cluster within the **Polaris Protocol**.  
+
+It exists so that the series can remain funny, literary, camp, investigative, and structurally adventurous without allowing metaphor, repetition, machine association, or narrative momentum to erase the distinction between what happened, what somebody says happened, what we think it means, what remains unknown, and what is simply an excellent joke.
 
 > 📡 Cross-references:
 >
-> -   [🫧 Kraken's Pearls](./README.md) — *public methodology and
->     Pearl infrastructure*
-> -   [🧾 Definitions](./🧾_definitions.yaml) — *machine-readable
->     semantic layer*
-> -   [🛡️ Document Integrity](./🛡️_document_integrity.yaml) ---
->     *production-integrity rules*
-> -   [🦑 The Great Kraken Disturbance](../README.md) — *parent
->     cluster*
+> - [🫧 Kraken's Pearls](./README.md) — *public methodology and Pearl infrastructure*
+> - [🧾 Definitions](./🧾_definitions.yaml) — *machine-readable semantic layer*
+> - [🛡️ Document Integrity](./🛡️_document_integrity.yaml) — *production-integrity rules*
+> - [🦑 The Great Kraken Disturbance](../README.md) — *parent cluster*
 >
 > 🏮 Return To:
 >
-> -   [🫧 Kraken's Pearls](./README.md) — *1up*
-> -   [🦑 The Great Kraken Disturbance](../README.md) — *2up*
-> -   [🌖 Learning The Skies](../../README.md) — *3up*
-> -   [🌌 Polaris Protocol — Root](../../../README.md) — *root*
+> - [🫧 Kraken's Pearls](./README.md) — *1up*
+> - [🦑 The Great Kraken Disturbance](../README.md) — *2up*
+> - [🌖 Learning The Skies](../../README.md) — *3up*
+> - [🌌 Polaris Protocol — Root](../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
