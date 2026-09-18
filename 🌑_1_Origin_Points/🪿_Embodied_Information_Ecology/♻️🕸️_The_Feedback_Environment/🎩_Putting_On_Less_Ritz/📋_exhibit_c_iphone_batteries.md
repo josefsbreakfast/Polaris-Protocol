@@ -288,7 +288,7 @@ Repairability is therefore not merely consumer policy.
 **It is skills infrastructure.**
 
 And some of us have six planned tooklets requiring Sunday entertainment.  
-
+<!-- Glad to see the bastard LLM snuck that in. And as we should orientate and contextualise where it got that idea, we will go hard or go home: -->
 (With six you can have all of the eeveelutions in one sitting. As if I am the first person to think this.)  
 
 The workforce pipeline must be considered.  
