@@ -1,5 +1,5 @@
 # 🐼 The Procurement Of The Rings  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *One contract to rule the discourse; one veto to find it; one pre-action letter to bring them all, and in disclosure bind them.*
 
 ---
@@ -282,47 +282,47 @@ The purpose is to make the argument hard to dismiss.
 
 ## 📂 Recommended Read Order
 
-1. [README](./README.md) — *cluster orientation and build spine*
+1. [README] — *cluster orientation and build spine*
 
-2. [📌 Known Public Facts First](./📌_known_public_facts_first.md) — *sourceable timeline and evidential floor*
+2. [📌 Known Public Facts First] — *sourceable timeline and evidential floor*
 
-3. [🧭 How To Read This Without Picking A Mascot](./🧭_how_to_read_this_without_picking_a_mascot.md) — *reader posture and mascot-resistance rule*
+3. [🧭 How To Read This Without Picking A Mascot] — *reader posture and mascot-resistance rule*
 
-4. [🕰️ Why Now: The Timing Question](./🕰️_why_now_the_timing_question.md) — *timing as question, not proof*
+4. [🕰️ Why Now: The Timing Question] — *timing as question, not proof*
 
-5. [💍 One Contract To Rule Them All](./💍_one_contract_to_rule_them_all.md) — *contract precedent and refusal pressure*
+5. [💍 One Contract To Rule Them All] — *contract precedent and refusal pressure*
 
-6. [💔 The Procurement Divorce](./💔_the_procurement_divorce.md) — *pilot, veto, breakup, and disclosure court*
+6. [💔 The Procurement Divorce] — *pilot, veto, breakup, and disclosure court*
 
-7. [🔮 Best Case Palantir](./🔮_best_case_palantir.md) — *strongest fair version of Palantir’s case*
+7. [🔮 Best Case Palantir] — *strongest fair version of Palantir’s case*
 
-8. [🐼 Best Case Met](./🐼_best_case_met.md) — *strongest fair version of the Metropolitan Police case*
+8. [🐼 Best Case Met] — *strongest fair version of the Metropolitan Police case*
 
-9. [🏛️ Best Case MOPAC](./🏛️_best_case_mopac.md) — *strongest fair version of the oversight case*
+9. [🏛️ Best Case MOPAC] — *strongest fair version of the oversight case*
 
-10. [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *disclosure triangle and evidential pressure*
+10. [⚖️ What Each Side Needs To Disclose] — *disclosure triangle and evidential pressure*
 
-11. [🧾 The DPIA, Ethics, And Procurement Gap](./🧾_the_dpia_ethics_and_procurement_gap.md) — *tool usefulness versus lawful adoption*
+11. [🧾 The DPIA, Ethics, And Procurement Gap] — *tool usefulness versus lawful adoption*
 
-12. [🎭 The Public Safety Line](./🎭_the_public_safety_line.md) — *public-safety pressure frame and officer-number claims*
+12. [🎭 The Public Safety Line] — *public-safety pressure frame and officer-number claims*
 
-13. [🏷️ Palantir Or Palantir UK](./🏷️_palantir_or_palantir_uk.md) — *subsidiary posture versus international brand aura*
+13. [🏷️ Palantir Or Palantir UK] — *subsidiary posture versus international brand aura*
 
-14. [🧍 The Awkward Posture](./🧍_the_awkward_posture.md) — *off-register communications, urgency signalling, and posture shifts*
+14. [🧍 The Awkward Posture] — *off-register communications, urgency signalling, and posture shifts*
 
-15. [🪞 Wronged Before Exposed](./🪞_wronged_before_exposed.md) — *pre-framing hypothesis and procedural victimhood*
+15. [🪞 Wronged Before Exposed] — *pre-framing hypothesis and procedural victimhood*
 
-16. [♚ The King Moves Into Check](./♚_the_king_moves_into_check.md) — *first-mover risk and attacked squares*
+16. [♚ The King Moves Into Check] — *first-mover risk and attacked squares*
 
-17. [🧾 The Paperwork Reciprocity Trap](./🧾_the_paperwork_reciprocity_trap.md) — *why making paperwork the battlefield cuts both ways*
+17. [🧾 The Paperwork Reciprocity Trap] — *why making paperwork the battlefield cuts both ways*
 
-18. [👻 Commercial Litigation As Accidental Accountability](./👻_commercial_litigation_as_accidental_accountability.md) — *self-interest as disclosure pressure*
+18. [👻 Commercial Litigation As Accidental Accountability] — *self-interest as disclosure pressure*
 
-19. [🗄️ The Hidden Layer Problem](./🗄️_the_hidden_layer_problem.md) — *NDAs, sensitive capability, closed material, adjacent proximity files, and locked cabinets*
+19. [🗄️ The Hidden Layer Problem] — *NDAs, sensitive capability, closed material, adjacent proximity files, and locked cabinets*
 
-20. [🕳️ Why This Is Not Just About Palantir](./🕳️_why_this_is_not_just_about_palantir.md) — *outsourcing, policing tech, vendor dependency, procurement culture, and democratic control*
+20. [🕳️ Why This Is Not Just About Palantir] — *outsourcing, policing tech, vendor dependency, procurement culture, and democratic control*
 
-21. [🧭 Questions Journalists Should Ask Now](./🧭_questions_journalists_should_ask_now.md) — *practical question bank for reporters, auditors, lawyers, unions, procurement specialists, and accountability actors*
+21. [🧭 Questions Journalists Should Ask Now] — *practical question bank for reporters, auditors, lawyers, unions, procurement specialists, and accountability actors*
 
 ---
 
@@ -345,11 +345,11 @@ It tracks how a contested policing-technology procurement dispute may expose wid
 
 > 📡 Cross-references:
 >
-> - [🔮 House Style](../../../🔮_house_style.md) — *formatting, filename, metadata, constellation, stardust, and footer standards for Polaris nodes*
-> - [📲 Press Matters](../../README.md) — *public-interest reporting routes and accountability questions*
-> - [👻 Ghosts Of Accountability](../README.md) — *commercial, legal, and institutional disputes that reveal hidden governance structures*
-> - [🧭 Questions Journalists Should Ask Now](./🧭_questions_journalists_should_ask_now.md) — *practical reporting routes for this cluster*
+> - [🔮 House Style] — *formatting, filename, metadata, constellation, stardust, and footer standards for Polaris nodes*
+> - [📲 Press Matters] — *public-interest reporting routes and accountability questions*
+> - [👻 Ghosts Of Accountability] — *commercial, legal, and institutional disputes that reveal hidden governance structures*
+> - [🧭 Questions Journalists Should Ask Now] — *practical reporting routes for this cluster*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
