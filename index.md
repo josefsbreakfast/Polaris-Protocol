@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-18 15:50:18 UTC_
+_Generated on 2026-09-18 15:53:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3906,7 +3906,6 @@ _Generated on 2026-09-18 15:50:18 UTC_
         - [`parallel_stakeholder_timeline_final_with_conflict_spillover.csv`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🌹_Labour_Policy_Wheels/parallel_stakeholder_timeline_final_with_conflict_spillover.csv)
       - [**🐼_The_Procurement_Of_The_Rings/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/notes.txt)
-        - [`🪞_wronged_before_exposed.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🪞_wronged_before_exposed.md)
       - [**🗻_The_Manifestation_Molehill/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/)
         - [**✨_Orientation/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/✨_Orientation/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🗻_The_Manifestation_Molehill/✨_Orientation/README.md)
@@ -10038,6 +10037,7 @@ _Generated on 2026-09-18 15:50:18 UTC_
             - [`🧭_questions_journalists_should_ask_now.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🧭_questions_journalists_should_ask_now.md)
             - [`🧾_the_dpia_ethics_and_procurement_gap.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🧾_the_dpia_ethics_and_procurement_gap.md)
             - [`🧾_the_paperwork_reciprocity_trap.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🧾_the_paperwork_reciprocity_trap.md)
+            - [`🪞_wronged_before_exposed.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/🪞_wronged_before_exposed.md)
       - [**🛰️_Metadata_Sabotage_Network/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/)
         - [**🔎_Evidence_And_Anomalies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
