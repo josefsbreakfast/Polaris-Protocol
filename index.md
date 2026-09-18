@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-18 15:22:55 UTC_
+_Generated on 2026-09-18 15:26:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3905,7 +3905,6 @@ _Generated on 2026-09-18 15:22:55 UTC_
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🌹_Labour_Policy_Wheels/notes.txt)
         - [`parallel_stakeholder_timeline_final_with_conflict_spillover.csv`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🌹_Labour_Policy_Wheels/parallel_stakeholder_timeline_final_with_conflict_spillover.csv)
       - [**🐼_The_Procurement_Of_The_Rings/**](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/)
-        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/notes.txt)
         - [`♚_the_king_moves_into_check.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/♚_the_king_moves_into_check.md)
         - [`⚖️_what_each_side_needs_to_disclose.md`](🌓_3_In_The_Moment/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/⚖️_what_each_side_needs_to_disclose.md)
@@ -10036,6 +10035,9 @@ _Generated on 2026-09-18 15:22:55 UTC_
             - [`⚖️_institutions_2022_2025.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/⚖️_institutions_2022_2025.md)
             - [`🦤_predation_logic_vulnerability_power_targeting.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🦤_predation_logic_vulnerability_power_targeting.md)
             - [`🩸_moral_parasitism.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🩸_moral_parasitism.md)
+        - [**👻_Ghosts_Of_Accountability/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/👻_Ghosts_Of_Accountability/)
+          - [**🐼_The_Procurement_Of_The_Rings/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/)
+            - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/📲_Press_Matters/👻_Ghosts_Of_Accountability/🐼_The_Procurement_Of_The_Rings/README.md)
       - [**🛰️_Metadata_Sabotage_Network/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/)
         - [**🔎_Evidence_And_Anomalies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🛰️_Metadata_Sabotage_Network/🔎_Evidence_And_Anomalies/README.md)
