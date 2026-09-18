@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-18 16:31:10 UTC_
+_Generated on 2026-09-18 16:39:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5253,6 +5253,7 @@ _Generated on 2026-09-18 16:31:10 UTC_
       - [`README.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/README.md)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/notes.txt)
       - [`💉_document_integrity.yaml`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/💉_document_integrity.yaml)
+      - [`🫧_campaign_canon.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/🫧_campaign_canon.md)
     - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/notes.txt)
   - [`README.md`](🌖_6_Learning_The_Skies/README.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
