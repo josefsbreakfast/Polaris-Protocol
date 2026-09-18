@@ -1,5 +1,5 @@
 # 👻 Commercial Litigation As Accidental Accountability  
-**First created:** 2026-06-23 | **Last updated:** 2026-06-23  
+**First created:** 2026-06-23 | **Last updated:** 2026-09-18  
 *Self-interested litigation is not public-interest sainthood; it can still drag useful records into the light.*
 
 ---
@@ -643,13 +643,13 @@ It examines how self-interested commercial litigation can still create public-in
 
 > 📡 Cross-references:
 >
-> - [🐼 The Procurement Of The Rings](./README.md) — *cluster orientation and build spine*
-> - [🧾 The Paperwork Reciprocity Trap](./🧾_the_paperwork_reciprocity_trap.md) — *why process claims create reciprocal document pressure*
-> - [⚖️ What Each Side Needs To Disclose](./⚖️_what_each_side_needs_to_disclose.md) — *records required by each actor’s strongest case*
-> - [🎭 The Public Safety Line](./🎭_the_public_safety_line.md) — *public-safety claim as evidential burden*
-> - [🗄️ The Hidden Layer Problem](./🗄️_the_hidden_layer_problem.md) — *sensitive material, locked cabinets, and constrained disclosure*
-> - [🧭 Questions Journalists Should Ask Now](./🧭_questions_journalists_should_ask_now.md) — *practical reporting routes before the cupboard closes*
+> - [🐼 The Procurement Of The Rings] — *cluster orientation and build spine*
+> - [🧾 The Paperwork Reciprocity Trap] — *why process claims create reciprocal document pressure*
+> - [⚖️ What Each Side Needs To Disclose] — *records required by each actor’s strongest case*
+> - [🎭 The Public Safety Line] — *public-safety claim as evidential burden*
+> - [🗄️ The Hidden Layer Problem] — *sensitive material, locked cabinets, and constrained disclosure*
+> - [🧭 Questions Journalists Should Ask Now] — *practical reporting routes before the cupboard closes*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-06-23_
+_Last updated: 2026-09-18_
