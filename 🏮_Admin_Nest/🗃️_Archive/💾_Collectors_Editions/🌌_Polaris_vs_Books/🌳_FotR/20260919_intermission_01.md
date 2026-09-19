@@ -1,5 +1,7 @@
 # 🌳 FotR — Intermission 01
 
+tldr: John Tolkien, antifascist king.  
+
 *Working notes — cultural transmission, textual function, Catholicism, empire, and why the robot needs to stop demanding the lady prove her credentials.*
 
 ## 🪞 The observation
