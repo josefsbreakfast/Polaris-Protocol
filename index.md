@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-19 07:34:41 UTC_
+_Generated on 2026-09-19 18:15:54 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5256,6 +5256,7 @@ _Generated on 2026-09-19 07:34:41 UTC_
       - [`🎩_the_three_tulpae.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/⚔️_The_Battle_Of_Waterloo_Place/🎩_the_three_tulpae.md)
       - [`🏛️_wizard_fight_at_rolls.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/⚔️_The_Battle_Of_Waterloo_Place/🏛️_wizard_fight_at_rolls.md)
       - [`📲_digital_angels_of_music.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/⚔️_The_Battle_Of_Waterloo_Place/📲_digital_angels_of_music.md)
+      - [`🗡️_the_surgeons_knife.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/⚔️_The_Battle_Of_Waterloo_Place/🗡️_the_surgeons_knife.md)
       - [`🗺️_a_missing_battle_map.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/⚔️_The_Battle_Of_Waterloo_Place/🗺️_a_missing_battle_map.md)
       - [`🪄_the_powers_of_the_pointy_hat.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/⚔️_The_Battle_Of_Waterloo_Place/🪄_the_powers_of_the_pointy_hat.md)
     - [**🐁_Greatest_Plans/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🐁_Greatest_Plans/)
@@ -5264,6 +5265,7 @@ _Generated on 2026-09-19 07:34:41 UTC_
       - [`👑_when_coming_for_kings.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🐁_Greatest_Plans/👑_when_coming_for_kings.md)
     - [**🧨_Potential_Proxies/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/notes.txt)
+      - [`🏛️_one_lord_two_lords.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/🏛️_one_lord_two_lords.md)
     - [**🫧_Krakens_Pearls/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/)
       - [`README.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/README.md)
       - [`🍪_definitions.yaml`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/🍪_definitions.yaml)
