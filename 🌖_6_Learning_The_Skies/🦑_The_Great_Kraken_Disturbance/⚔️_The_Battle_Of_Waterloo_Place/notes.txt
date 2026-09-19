@@ -369,3 +369,179 @@ I’d use this order, because it moves from the battlefield’s conceptual found
 Then, after Waterloo Place has taught the reader enough to recognise the structures, we go into 🧨_Potential_Proxies, including 🇺🇦_defence_against_the_romanovs.md. That prevents present-day proxy interpretation from leaking backwards into the nodes that are supposed to teach us how to see it.
 
 So: start with notes.txt. We decide what the Battle itself is before touching any of its soldiers.
+
+- - -  
+
+Yes — comparing this original notes.txt against the plans we have just built, we have preserved most of the intellectual machinery, but a few things have either dropped out or become too diffuse. I would not delete notes.txt yet. It still contains several jobs the README and specialist nodes don’t fully replace.
+
+The two visual sources are also worth retaining explicitly in the source queue. The National Army Museum result confirms that accession 2016-04-112-404 is specifically a 2015 photograph of the Guards Crimean War Memorial at Waterloo Place, within a whole photographic sequence of the memorial.  
+
+Things we have not fully carried forward
+
+1. The actual geography research pass.
+This is the clearest omission. The README establishes Waterloo Place as the observation point, but we still haven’t actually done the promised geographical work:
+
+- exact relevant institutional addresses
+- distances
+- what falls inside the useful geographical theatre
+- history of Waterloo Place itself
+- why this particular monumental landscape developed there
+- do not manufacture a precise geographical centre unless the mapping supports it
+
+That probably wants to remain a research task attached to 🌙_imagining_athena_nike.md rather than become another node immediately. Importantly, the original idea that the physical geography itself might tell us something has survived less strongly than the symbolic geography.
+
+2. “What larger argument does each participant think they are having?”
+This is excellent and hasn’t quite survived intact:
+
+What larger argument does each participant or observer understand themselves to be having when they talk about this contract?
+
+The README now identifies the possible larger arguments, but that’s not the same analytical exercise. We should preserve a future proxy-position matrix:
+
+| Actor / observer | Concrete issue | Larger issue explicitly invoked | Evidence | Date | Our interpretation |
+
+That lets us distinguish Palantir says this is about X from journalists frame it as Y from Polaris notices Z. Very Kraken-safe.
+
+3. Several proxy-conflict candidates became less visible.
+We retained the big ones, but the original list has useful specifics that shouldn’t vanish:
+
+* value for money versus urgency / operational need;
+* competition versus specialist capability;
+* outsourcing and the contract state;
+* government relationships with major technology companies;
+* defence/security relationships;
+* ethical considerations in public purchasing;
+* transparency versus legitimate confidentiality/secrecy;
+* who gets to define institutional risk;
+* who gets to decide which risks matter most.
+
+That last pair is particularly important after everything we developed about competing risk calculators. It is actually sharper now than when notes.txt was written.
+
+4. The democratic-control-surfaces investigation.
+This is the biggest substantive strand that hasn’t acquired a proper home.
+
+The original notes ask what happens between:
+
+“I voted”
+
+and:
+
+“this system now structures something the state does.”
+
+Then identify the intervening layers:
+
+elected government → delegated authority → statutory bodies → officials → procurement → frameworks → suppliers → subcontractors → technical architecture → contracts → courts → oversight
+
+That is very Waterloo Place and distinct from Pointy Hat or Three Tulpae.
+
+Especially preserve these questions:
+
+- Where are the actual democratic control surfaces?
+- How visible are they?
+- How accessible are they?
+- Who can activate them?
+- When does delegation become experienced as loss of agency?
+
+And the original warning is good: investigate political efficacy/trust empirically; do not reduce populism to a single cause.
+
+I wouldn’t make another node yet. But this needs a conspicuous research thread in the README/notes because it could eventually deserve one.
+
+5. “Who can publish it?”
+Our information-asymmetry treatment became much better, but the original four-question sequence is worth preserving verbatim as a compact instrument:
+
+Who knows what?
+Who is entitled to know?
+Who can compel an explanation?
+Who can publish it?
+
+Digital Angels handles the first two beautifully; Pointy Hat handles much of the third. The fourth — publication power — remains comparatively underdeveloped.
+
+That’s interesting because publication itself changes the feedback environment.
+
+6. Media access as a species of power.
+Relatedly, the original power inventory includes:
+
+* parliamentary powers;
+* information access;
+* media access;
+* professional networks;
+* commercial relationships;
+* defence/security experience.
+
+The new architecture is excellent on statutory, democratic, operational, technical and judicial power. It is somewhat thinner on agenda/publication/attention power.
+
+Not necessarily another node. Just don’t lose it.
+
+7. Law as an information-producing mechanism.
+We’ve distributed this across Wizard Fight, Digital Angels and Pointy Hat, but the original formulation is stronger than any single later version:
+
+sophisticated participants understand that information-producing mechanisms can themselves become strategic resources.
+
+With the essential brake:
+
+Do not infer strategic intent merely because an information event later proves useful.
+
+Keep that. It ties together litigation, PQs, disclosure, correspondence and publication without claiming anyone engineered the whole sequence.
+
+8. The original risk question is slightly different from our newer risk-calculator work.
+We developed how risk systems struggle. The notes also ask who has authority to privilege one species of risk over another.
+
+For example, hypothetically:
+
+* Met: operational continuity;
+* MOPAC: governance/procurement legality;
+* supplier: commercial/contractual risk;
+* court: litigation/legal error;
+* public: legitimacy/accountability.
+
+The really interesting governance question becomes:
+
+When reducing Risk A increases Risk B, who has authority to decide which risk the institution should bear?
+
+That’s worth adding to the README or Surgeon’s Knife. It goes directly to Who governs when government buys capability?
+
+9. The narrative military grammar.
+We have kept “Battle”, but largely dropped the explicit controlled vocabulary:
+
+fronts / theatres / offensives / skirmishes / sieges / counterstrikes / dispatches / artillery / intelligence / logistics / terrain
+
+I think that’s fine provided we preserve it somewhere. It is the actual narrative toolkit for when you write the prose, with the excellent rule:
+
+No permanent armies unless the evidence actually establishes organised groups.
+
+That belongs in notes.txt as authorial apparatus rather than README.
+
+10. The unresolved scope question should stay unresolved.
+The README necessarily makes the project look more settled. But this original question remains genuinely useful:
+
+Does “Battle of Waterloo Place” eventually describe:
+
+* this particular contract dispute?
+* the wider proxy fight generated around it?
+* one campaign within the Great Kraken Disturbance?
+
+Your original answer was:
+
+Probably leave this unresolved until the evidence gives us the answer.
+
+I would preserve that. The architecture can work now without prematurely fixing the eventual scale of the term.
+
+And one thing we haven’t actually built yet
+
+The Crimean War node.
+
+That is the only major item from the original sequence that remains structurally missing. We’ve carefully left room for it in Athena, Three Tulpae and the README, but it still needs:
+
+* filename;
+* remit;
+* chronological scaffold;
+* research pass.
+
+Its job remains beautifully clean:
+
+Why is this memorial here, what system failure did the Crimean War expose, and what did nineteenth-century Britain learn about converting formal state power into operational capability through logistics, administration, medicine and communications?
+
+Then stop. Contemporary Ukraine/Russia analysis routes forward into 🧨_Potential_Proxies, rather than being smuggled backwards into Crimea.
+
+So I wouldn’t call the folder finished yet. Structurally, we’ve got nearly everything. What remains is mostly deliberate research debt: geography, democratic control surfaces, publication/attention power, the actor-by-actor proxy matrix, and the actual Crimean node.
+
+And I would absolutely keep notes.txt for now. The README is the reader’s routing map. notes.txt is still the author’s shipyard. Those are different jobs.
