@@ -8,7 +8,9 @@
 - [📹: MEE: ”Ed Sheeran could've done more," said Imran Mulla, MEE's UK political correspondent, expressing a sentiment shared by many on social media after the British singer dropped Macklemore from his tour following backlash over his "Free Palestine" comments on stage. Peter Oborne, associate editor at Middle East Eye, added that it reflects the decline in free speech rights in the US.”](https://vm.tiktok.com/ZN864QTnM/)  
 - [📹: BreakThrough News: “Under pressure from sports mogul billionaire Robert Kraft, Macklemore has been dropped from Ed Sheeran's ‘Loop Tour’ afterclips ofshis Freety Palestine" speech during his opening set went viral. In March of 2025, the musician sat down with BT to discuss what compelled him to join the movement for Palestinian liberation - and why it's everyone's ‘moral responsibility’ to speak out against genocide.”](https://vm.tiktok.com/ZN86VRDeE/)
 - [📹: Xevi, via TikTok: “Edward Christopher Sheeran trippin”](https://vm.tiktok.com/ZN86V5dJf/)
-
+- [📰: BBC: “Kneecap: Rap group are no strangers to controversy, but is this time different?”](https://www.bbc.co.uk/news/articles/cly5r4gg7l6o)
+- [📰: BBC: “Call for Kneecap's US visas to be revoked after Coachella”](https://www.bbc.co.uk/news/articles/ce3ve317g5do)
+- [📰: Sky News: “Judges uphold decision to drop terrorism case against Kneecap member”](https://news.sky.com/story/judges-uphold-decision-to-drop-terrorism-case-against-kneecap-member-13518087)
 
 
 
