@@ -1,3 +1,9 @@
+1. [📰: RTÉ: “Kneecap back Macklemore after Ed Sheeran tour removal”](https://www.rte.ie/entertainment/2026/0915/1591644-kneecap-back-macklemore-after-ed-sheeran-tour-removal/)
+2. [📰: The Telegraph: “Generation Kneecap’s plan to break up the UK and reshape Ireland”](https://www.telegraph.co.uk/world-news/2026/09/18/generation-kneecap-ireland-plan-to-break-up-britain/)
+3. [📰: The Telegraph: “Trump lifts tariffs on whiskey in parting gift to Ireland”](https://www.telegraph.co.uk/world-news/2026/09/13/donald-trump-ireland-whiskey-ban-tariffs/) – *this your “ceasefire baby”?* 🤨
+
+- - - 
+
 - [🎶: Keith O’Brien covers *Can’t Hold Us* in Irish Gaelic](https://vm.tiktok.com/ZN86Xs1HS/)
 - [📹: AJ+: Kneecap: “Our existence here is political”](https://vm.tiktok.com/ZN86X39je/)
 - [📹: Ace Ambrose, via TikTok: “All my love to Macklemore”](https://vm.tiktok.com/ZN864byrT/)
