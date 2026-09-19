@@ -2,6 +2,7 @@
 - [📹: AJ+: Kneecap: “Our existence here is political”](https://vm.tiktok.com/ZN86X39je/)
 - [📹: Ace Ambrose, via TikTok: “All my love to Macklemore”](https://vm.tiktok.com/ZN864byrT/)
 - [📹: Meditations for the anxious, via TikTok: “Macklemore no one likes Ed Sheeran anyway”](https://vm.tiktok.com/ZN864WKwk/)
+- [📹: Kerry Coda, via TikTok: Hind’s Hall in Irish Sign Language](https://vm.tiktok.com/ZN864p2M9/)  
 
 - How the Irish Became White, Noel Ignatiev
 - https://en.wikipedia.org/wiki/Racial_views_of_Winston_Churchill ; “"We have always found the Irish a bit odd. They refuse to be English."”
