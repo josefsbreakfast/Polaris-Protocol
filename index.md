@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-19 02:46:31 UTC_
+_Generated on 2026-09-19 02:48:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5257,6 +5257,7 @@ _Generated on 2026-09-19 02:46:31 UTC_
       - [`🗺️_a_missing_battle_map.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/⚔️_The_Battle_Of_Waterloo_Place/🗺️_a_missing_battle_map.md)
     - [**🐁_Greatest_Plans/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🐁_Greatest_Plans/)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🐁_Greatest_Plans/notes.txt)
+      - [`♟️_tit_for_tat.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🐁_Greatest_Plans/♟️_tit_for_tat.md)
     - [**🧨_Potential_Proxies/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/notes.txt)
     - [**🫧_Krakens_Pearls/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/)
