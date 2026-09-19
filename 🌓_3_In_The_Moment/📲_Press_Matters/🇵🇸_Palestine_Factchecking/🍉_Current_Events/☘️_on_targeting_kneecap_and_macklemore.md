@@ -44,3 +44,12 @@ cross link to the hunger strikes Palestine nodes
 - we are specifically interested in the labour solidarity history here: https://en.wikipedia.org/wiki/Battle_of_Cable_Street
 
 - I can’t carve out the different pieces of my heart so that consumption is easier. 
+
+- https://www.tandfonline.com/doi/full/10.1080/14775700.2026.2689728
+- https://www.tandfonline.com/doi/full/10.1080/00221546.2026.2679419
+
+- - - 
+
+- https://en.wikipedia.org/wiki/Conditional_probability
+
+- 
