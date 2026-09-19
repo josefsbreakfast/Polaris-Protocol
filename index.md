@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-19 19:33:05 UTC_
+_Generated on 2026-09-19 20:36:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5272,6 +5272,7 @@ _Generated on 2026-09-19 19:33:05 UTC_
       - [`🏛️_one_lord_two_lords.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/🏛️_one_lord_two_lords.md)
       - [`💂🏽💂🏻_the_corporation_the_firm_the_agencies.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/💂🏽💂🏻_the_corporation_the_firm_the_agencies.md)
       - [`🤨_old_prime_ministers_go_home.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/🤨_old_prime_ministers_go_home.md)
+      - [`🤨_old_prime_ministers_go_home_final_drafting_plan.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/🤨_old_prime_ministers_go_home_final_drafting_plan.md)
     - [**🫧_Krakens_Pearls/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/)
       - [`README.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/README.md)
       - [`🍪_definitions.yaml`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/🍪_definitions.yaml)
