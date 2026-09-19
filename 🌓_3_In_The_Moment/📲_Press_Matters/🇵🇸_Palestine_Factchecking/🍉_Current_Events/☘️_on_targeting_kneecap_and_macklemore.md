@@ -17,6 +17,7 @@
 - [📰: BBC: “Kneecap: Rap group are no strangers to controversy, but is this time different?”](https://www.bbc.co.uk/news/articles/cly5r4gg7l6o)
 - [📰: BBC: “Call for Kneecap's US visas to be revoked after Coachella”](https://www.bbc.co.uk/news/articles/ce3ve317g5do)
 - [📰: Sky News: “Judges uphold decision to drop terrorism case against Kneecap member”](https://news.sky.com/story/judges-uphold-decision-to-drop-terrorism-case-against-kneecap-member-13518087)
+- https://kneecap.backstreetmerch.com/products/completely-intolerable-tee-1
 
 
 
