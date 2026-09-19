@@ -5,6 +5,10 @@
 - [📹: Kerry Coda, via TikTok: Hind’s Hall in Irish Sign Language](https://vm.tiktok.com/ZN864p2M9/)
 - [📹: Dáwna: “Why did the Irish Artists Leave the Ed Sheeran Tour...”](https://vm.tiktok.com/ZN864g6nS/) – *”They tried to blame our deaths on the Land… it wasn’t a famine, it was genocide.”*
 - [📹: Cornel West, via TikTok: “My words in solidarity with our brother Macklemore!”](https://vm.tiktok.com/ZN864xPgJ/)
+- [📹: MEE: ”| "Ed Sheeran could've done more," said Imran Mulla, MEE's UK political correspondent, expressing a sentiment shared by many on social media after the British singer dropped Macklemore from his tour following backlash over his "Free Palestine" comments on stage.
+Peter Oborne, associate editor at Middle East Eye, added that it reflects the decline in free speech rights in the US.”](https://vm.tiktok.com/ZN864QTnM/)  
+
+- - -  
 
 - How the Irish Became White, Noel Ignatiev
 - https://en.wikipedia.org/wiki/Racial_views_of_Winston_Churchill ; “"We have always found the Irish a bit odd. They refuse to be English."”
@@ -16,4 +20,4 @@
 
 - we are specifically interested in the labour solidarity history here: https://en.wikipedia.org/wiki/Battle_of_Cable_Street
 
-- 
+- I can’t carve out the different pieces of my heart so that consumption is easier. 
