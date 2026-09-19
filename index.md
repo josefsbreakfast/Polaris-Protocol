@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-19 03:02:17 UTC_
+_Generated on 2026-09-19 03:04:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5261,6 +5261,7 @@ _Generated on 2026-09-19 03:02:17 UTC_
     - [**🐁_Greatest_Plans/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🐁_Greatest_Plans/)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🐁_Greatest_Plans/notes.txt)
       - [`♟️_tit_for_tat.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🐁_Greatest_Plans/♟️_tit_for_tat.md)
+      - [`👑_when_coming_for_kings.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🐁_Greatest_Plans/👑_when_coming_for_kings.md)
     - [**🧨_Potential_Proxies/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/notes.txt)
     - [**🫧_Krakens_Pearls/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/)
