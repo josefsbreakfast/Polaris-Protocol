@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-19 18:18:32 UTC_
+_Generated on 2026-09-19 18:20:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5265,6 +5265,7 @@ _Generated on 2026-09-19 18:18:32 UTC_
       - [`👑_when_coming_for_kings.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🐁_Greatest_Plans/👑_when_coming_for_kings.md)
     - [**🧨_Potential_Proxies/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/notes.txt)
+      - [`☘️_exploiting_irishness_again.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/☘️_exploiting_irishness_again.md)
       - [`🏛️_one_lord_two_lords.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/🏛️_one_lord_two_lords.md)
       - [`💂🏽💂🏻_the_corporation_the_firm_the_agencies.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/💂🏽💂🏻_the_corporation_the_firm_the_agencies.md)
     - [**🫧_Krakens_Pearls/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/)
