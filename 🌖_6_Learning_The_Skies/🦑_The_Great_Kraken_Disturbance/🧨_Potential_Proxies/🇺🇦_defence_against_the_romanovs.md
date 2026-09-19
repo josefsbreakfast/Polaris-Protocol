@@ -17,3 +17,43 @@ Not every Romanov is Russian, and not every Russian is a Romanov.
 Because otherwise the metaphor will start silently converting elite capture into Russian influence, which would wreck precisely the distinction you’re trying to preserve.
 
 And that fits the Waterloo Place method rather nicely: map the mechanism of power first; nationality is an evidential question, not the definition of the mechanism.
+
+
+prev 
+
+⚔️_The_Battle_Of_Waterloo_Place/
+│
+├── notes.txt
+│
+├── 🌙_imagining_athena_nike.md
+│
+├── 🪖_the_crimean_war_is_unfortunately_not_optional.md
+│   └── 1850s Crimea
+│       Guards / Sevastopol / Russia
+│       logistics / administration / medicine
+│       telegraphy / information
+│       Nightingale / Herbert
+│       captured cannon → memorial
+│       formal state power ≠ operational capability
+│
+├── 🇺🇦_the_cannon_acquired_an_information_system.md
+│   └── 2014 → 2022+
+│       Crimea becomes live geography again
+│       Ukraine as modern capability environment
+│       drones / software / data / communications
+│       commercial technology / industrial adaptation
+│       private capability entering state capability
+│       NOT “history repeats”
+│
+├── 🎩_the_three_tulpae.md
+│   └── NOW arrive at Waterloo Place 2026
+│       MOPAC / Met / Palantir
+│       govern / guard / make
+│       authority / operational need / technical capability
+│       “Who governs when government buys capability?”
+│
+├── 🏛️_wizard_fight_at_rolls.md
+├── 🪄_the_powers_of_the_pointy_hat.md
+├── 📲_digital_angels_of_music.md
+├── 🗡️_the_surgeons_knife.md
+└── 🗺️_a_missing_battle_map.md
