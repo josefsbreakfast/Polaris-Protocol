@@ -351,3 +351,21 @@ CURRENT WORKING SUMMARY
 * And somewhere beneath the British archipelago:
     * 🌊
     * “for fuck’s sake.”
+
+Yes. One file at a time, and we decide its job before touching the next one. That should stop us designing the whole folder from 30,000 feet and accidentally moving Crimea to another continent.
+
+I’d use this order, because it moves from the battlefield’s conceptual foundations into the live machinery:
+
+1. notes.txt — consolidate the root concept first: what The Battle of Waterloo Place means, its scope, and what belongs in this folder versus 🧨_Potential_Proxies. This becomes our routing document rather than finished narrative. Its existing distinction — concrete dispute / Waterloo Place proxy battlefield / Great Kraken Disturbance teaching ecology — is the key.  
+2. 🌙_imagining_athena_nike.md — establish the physical and symbolic battlefield: memorial, Honour/Victory, three Guardsmen, Waterloo Place, Brigantia/Classical reception, visible and invisible power. Decide what stays here versus what belongs in the Crimean-War treatment.  
+3. Crimean War material — presently embedded mainly inside 🎩_the_three_tulpae.md. Decide its own filename and exact remit inside Waterloo Place: why this monument exists, Crimea/Russia, Guards, logistics, information, Nightingale/Herbert, cannon, administration and the problem of making formal power operational. Stop historically before it turns into the contemporary Ukraine/proxy analysis.  
+4. 🎩_the_three_tulpae.md — once the historical load is removed, tighten the actual device: three Guardsmen → three institutional bodies; MOPAC / Met / Palantir; govern / guard / make; governance authority / operational need / commercial-technological capability; then take the hats off and inspect the institutions.  
+5. 🏛️_wizard_fight_at_rolls.md — build the concrete litigation narrative. At present we have only “narrate case brought”, so this will need the proper documentary/legal research pass rather than invention from the other nodes.  ⁠￼
+6. 🪄_the_powers_of_the_pointy_hat.md — judiciary as a distinct species of institutional power: what the court can see, decide, require and remedy; where its authority comes from; what remains outside it. Currently only “judiciary”, so again this is genuinely unwritten.  
+7. 📲_digital_angels_of_music.md — information/comms machinery. Currently just “comms q”, so we first work out what that question actually became from the evidence rather than backfilling a node around the title.  
+8. 🗡️_the_surgeons_knife.md — tighten after the machinery above exists. Its proposition is already strong: this procurement/legal conflict makes normally overlapping formations locally distinguishable, giving us a public incision rather than an X-ray of the entire organism.  ⁠￼
+9. 🗺️_a_missing_battle_map.md — finish last because it’s a specific live evidential question. DPIA as battle-map analogy; connected processing versus lists of datasets; what Met designed; what MOPAC knew and when; “missing” remains interrogative until documents establish otherwise.  ⁠￼
+
+Then, after Waterloo Place has taught the reader enough to recognise the structures, we go into 🧨_Potential_Proxies, including 🇺🇦_defence_against_the_romanovs.md. That prevents present-day proxy interpretation from leaking backwards into the nodes that are supposed to teach us how to see it.
+
+So: start with notes.txt. We decide what the Battle itself is before touching any of its soldiers.
