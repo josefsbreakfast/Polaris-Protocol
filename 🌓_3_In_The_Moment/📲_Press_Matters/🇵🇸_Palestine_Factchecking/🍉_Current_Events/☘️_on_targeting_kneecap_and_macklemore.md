@@ -3,7 +3,8 @@
 - [📹: Ace Ambrose, via TikTok: “All my love to Macklemore”](https://vm.tiktok.com/ZN864byrT/)
 - [📹: Meditations for the anxious, via TikTok: “Macklemore no one likes Ed Sheeran anyway”](https://vm.tiktok.com/ZN864WKwk/)
 - [📹: Kerry Coda, via TikTok: Hind’s Hall in Irish Sign Language](https://vm.tiktok.com/ZN864p2M9/)
-- [📹: Dáwna: “Why did the Irish Artists Leave the Ed Sheeran Tour...”](https://vm.tiktok.com/ZN864g6nS/) – *”They tried to blame our deaths on the Land… it wasn’t a famine, it was genocide.”*  
+- [📹: Dáwna: “Why did the Irish Artists Leave the Ed Sheeran Tour...”](https://vm.tiktok.com/ZN864g6nS/) – *”They tried to blame our deaths on the Land… it wasn’t a famine, it was genocide.”*
+- [📹: Cornel West, via TikTok: “My words in solidarity with our brother Macklemore!”](https://vm.tiktok.com/ZN864xPgJ/)
 
 - How the Irish Became White, Noel Ignatiev
 - https://en.wikipedia.org/wiki/Racial_views_of_Winston_Churchill ; “"We have always found the Irish a bit odd. They refuse to be English."”
