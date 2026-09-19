@@ -19,7 +19,17 @@
 - [📰: Sky News: “Judges uphold decision to drop terrorism case against Kneecap member”](https://news.sky.com/story/judges-uphold-decision-to-drop-terrorism-case-against-kneecap-member-13518087)
 - https://kneecap.backstreetmerch.com/products/completely-intolerable-tee-1
 
-- https://en.wikipedia.org/wiki/Paramilitary_punishment_attacks_in_Northern_Ireland  
+- https://en.wikipedia.org/wiki/Paramilitary_punishment_attacks_in_Northern_Ireland
+  
+- [📺: U2, via YouTube: 1988, Rattle and Hum, Sunday Bloody Sunday](https://youtu.be/uPV3FeNBI1Q?is=Tq8clSdSxwpdGnsS)
+- https://en.wikipedia.org/wiki/Remembrance_Day_bombing
+- https://en.wikipedia.org/wiki/HM_Prison_Maze
+- https://www.theguardian.com/politics/2008/oct/22/maze-prison-film-northernireland-hunger
+- https://en.wikipedia.org/wiki/Bobby_Sands
+
+- - -
+
+cross link to the hunger strikes Palestine nodes  
 
 - - -  
 
