@@ -19,7 +19,7 @@
 - [📰: Sky News: “Judges uphold decision to drop terrorism case against Kneecap member”](https://news.sky.com/story/judges-uphold-decision-to-drop-terrorism-case-against-kneecap-member-13518087)
 - https://kneecap.backstreetmerch.com/products/completely-intolerable-tee-1
 
-
+- https://en.wikipedia.org/wiki/Paramilitary_punishment_attacks_in_Northern_Ireland  
 
 - - -  
 
