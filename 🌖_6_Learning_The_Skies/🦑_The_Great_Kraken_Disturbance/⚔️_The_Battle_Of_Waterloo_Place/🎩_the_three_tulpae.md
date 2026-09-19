@@ -303,6 +303,160 @@
 
 ---
 
+---
+
+## ⚖️ The lawsuit has parties. The power system has relationships.
+
+- Do not treat **Palantir v MOPAC** as though it exhausts the institutional conflict visible through the documents.
+- The litigation gives us a formal legal relationship:
+    - **Palantir → MOPAC**: challenge to MOPAC's refusal to approve the proposed award.
+- The same evidence can expose a separate governance relationship:
+    - **MOPAC ↔ Met**: what was planned, what was disclosed, what required approval, what assurance existed, and whether the proposition brought for approval was sufficiently mature.
+- Those two relationships can matter differently even when they concern the same proposed capability.
+- A finding or evidential problem at Met implementation/planning level would not automatically establish wrongdoing by Palantir.
+- It would also not automatically establish that MOPAC's decision was lawful.
+- Keep the questions separate:
+    - What reasons did MOPAC actually rely upon when it made the decision?
+    - What information did MOPAC possess at that time?
+    - What reasons is MOPAC legally entitled to rely upon when defending that decision?
+    - Separately, what does the evidence establish about the MOPAC–Met governance relationship?
+- **Event time and information time matter.**
+- A document discovered later can illuminate the institutional relationship without necessarily becoming a retrospective reason for the earlier decision.
+- Preserve the distinction between:
+    - evidence relevant to the lawfulness of MOPAC's decision;
+    - evidence relevant to Met planning or governance;
+    - evidence relevant to Palantir's conduct or product.
+
+---
+
+## 🧿 DPIA / implementation-planning sensor
+
+- Treat the DPIA question first as an **implementation and governance sensor**, not as a Palantir scandal claim.
+- The relevant processing problem may exist regardless of supplier if UOA would:
+    - connect previously separate datasets;
+    - enable materially different querying across them;
+    - generate new relationships, patterns or inferences;
+    - embed analytics into operational workflows.
+- Therefore investigate whether the relevant DPIA(s) actually assessed the **combined processing architecture**, rather than merely describing individual source systems or generic data-protection controls.
+- Possible evidential outcomes must remain separate:
+    - **supplier deficiency** — something about the supplier's proposed arrangements fails requirements;
+    - **specification deficiency** — the Met has not adequately defined what it intends to build or do;
+    - **assessment deficiency** — the implementation may be capable of lawful operation, but its risks have not been adequately assessed or documented;
+    - **design deficiency** — proper assessment identifies a need to alter the proposed architecture or safeguards;
+    - **governance / sequencing deficiency** — procurement has advanced further than the planning and assurance work necessary to support approval;
+    - **no material deficiency** — apparently vague DPIAs prove adequate when read with their referenced documents, controls and later updates.
+- Do not collapse any Met-side planning deficiency into Palantir responsibility without evidence.
+- Contractual protections governing a supplier relationship and the controller's assessment of its own intended policing processing are analytically distinct questions.
+- Jukes's 12 June public rebuttal discusses data sovereignty, data protection, control, access and supplier lock-in, but does not itself deploy a DPIA as part of that rebuttal.
+- Absence from that letter is **not evidence that no DPIA existed**.
+- It is evidence only that Jukes did not use one in that particular public institutional answer.
+
+---
+
+## 🚧 Was the proposition mature enough to cross the boundary?
+
+- If a material deficiency ultimately sits at Met planning / implementation level, the central question may become:
+    - **Was MOPAC being presented with a sufficiently mature proposition to approve?**
+- Separate two questions which can have different answers:
+
+### Commercial / procurement question
+
+- Can the proposed supplier provide the capability sought through an acceptable procurement route and on acceptable commercial terms?
+
+### Implementation / governance question
+
+- Has the public authority adequately specified what it intends to do with that capability, assessed the consequences, and established the controls necessary to operate it?
+
+- It is possible in principle for the evidence to support:
+    - **yes** to the first;
+    - **no** to the second.
+- That possibility matters because it separates the interests of the three tulpae more sharply.
+- Palantir can have an interest in the commercial award without being responsible for every internal Met planning or governance failure.
+- The Met can consider the capability operationally necessary while believing its assurance and procurement work sufficient.
+- MOPAC can consider itself unable to approve what has been presented without thereby establishing that the supplier's technology is inherently defective.
+- Nobody has to be lying for those institutional positions to collide.
+
+---
+
+## 🔺 The three interests are not the same interest
+
+- Refine **What is each Guard guarding?**
+
+### 💻 Palantir
+
+- Provisionally:
+    - the commercial award;
+    - its ability to compete for and supply the capability;
+    - its commercial and legal interests in the procurement.
+- Do not infer responsibility for Met internal governance merely from supplier status.
+
+### 🚔 Metropolitan Police
+
+- Provisionally:
+    - operational capability;
+    - the ability to acquire and deploy tools it considers necessary for policing;
+    - institutional autonomy and expertise in defining operational need.
+
+### 🏛️ MOPAC
+
+- Provisionally:
+    - the authorisation / governance boundary;
+    - procurement oversight;
+    - public accountability;
+    - whether the proposition presented by the Met is one it can lawfully and responsibly approve.
+
+- This gives the triangle another useful grammar:
+    - **commercial interest**
+    - **operational need**
+    - **governance authority**
+- These overlap. They are not interchangeable.
+
+---
+
+## 🧵 Evidence job — open the Met body back up
+
+- Locate the relevant DPIA(s) and associated documents.
+- Establish for each:
+    - date created;
+    - date approved;
+    - processing covered;
+    - datasets covered;
+    - whether integration / linkage was explicitly assessed;
+    - whether new inference or analytics risks were assessed;
+    - mitigations and safeguards;
+    - whether it was updated when pilots were extended or scope changed;
+    - who approved it;
+    - what MOPAC received and when.
+- Compare that chronology against:
+    - the Palantir pilot;
+    - development of UOA;
+    - Met engagement with MOPAC;
+    - the request for approval;
+    - MOPAC's 21 May refusal;
+    - Jukes's 12 June response;
+    - Palantir's later proceedings.
+- Ask:
+    - **What did the Met understand it was building?**
+    - **When did it understand it?**
+    - **What processing had actually been designed?**
+    - **What risks had actually been assessed?**
+    - **What remained to be designed after procurement?**
+    - **What information did MOPAC possess when it was asked to approve the decision?**
+- Do not complete the pattern before the documents do.
+
+---
+
+## ✨ Additional useful lines / fragments
+
+- **The lawsuit has parties. The power system has relationships.**
+- **Was MOPAC being presented with a sufficiently mature proposition to cross the governance boundary?**
+- **A supplier can provide a capability without owning the public authority's implementation failure.**
+- **Commercial award, operational need and governance authority are three different interests.**
+- **The same document can matter differently in Palantir v MOPAC and MOPAC ↔ Met.**
+- **A later-discovered problem is not automatically an earlier reason.**
+- **What did MOPAC know, and when did it know it?**
+- **The litigation temporarily gives us two opponents. The institution map gives us three relationships.**
+
 ## 🦑 Kraken position
 
 - Kraken is **not** a fourth figure.
