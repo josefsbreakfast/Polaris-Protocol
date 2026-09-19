@@ -52,4 +52,4 @@ cross link to the hunger strikes Palestine nodes
 
 - https://en.wikipedia.org/wiki/Conditional_probability
 
-- 
+- see notes (not in repo) on identity, derisking conditionslities, pre-gfa
