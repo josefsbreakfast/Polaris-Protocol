@@ -1,12 +1,12 @@
 # 📋 Exhibit B: Windows Fucking Vista
-**First created:** 2026-09-16 | **Last updated:** 2026-09-16  
+**First created:** 2026-09-16 | **Last updated:** 2026-09-20  
 *Microsoft, the product was already good.*
 
 ---
 
 ## 🛰️ Orientation
 
-Before explaining that the next technological revolution requires more compute, more hardware, more interface, more integration, and more of the user’s attention, we would like to submit a previous experience for the record.
+Before explaining that the next technological revolution requires more compute, more hardware, more interface, more integration, and more of the user’s attention, we would like to submit a previous experience for the record.  
 
 **Windows. Fucking. Vista.**
 
@@ -459,7 +459,8 @@ Windows, Windows Vista, Windows XP, Windows 8, operating systems, interface desi
 
 ## 🏮 Footer
 
-*Exhibit B: Windows Fucking Vista* is a living node of the **Polaris Protocol**.  
+*📋 Exhibit B: Windows Fucking Vista* is a living node of the **Polaris Protocol**.  
+
 It uses the Windows interface and upgrade history as a case study in a wider technology-design principle: familiarity, reliability and accumulated human competence are forms of infrastructure, and novelty that consumes them must justify the cost.
 
 > 📡 Cross-references:
@@ -479,4 +480,4 @@ It uses the Windows interface and upgrade history as a case study in a wider tec
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-16_
+_Last updated: 2026-09-20_
