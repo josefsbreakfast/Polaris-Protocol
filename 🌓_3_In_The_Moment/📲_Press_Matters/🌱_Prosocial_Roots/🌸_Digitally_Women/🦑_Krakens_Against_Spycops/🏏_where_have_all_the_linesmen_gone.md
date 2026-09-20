@@ -1,7 +1,7 @@
 # 🏏 Where Have All The Linesmen Gone?
 
 **First created:** 2026-09-20 | **Last updated:** 2026-09-20  
-*Undercover policing, sexual consent, coercive control, hidden state power, and the curious disappearance of everyone responsible for calling OUT.*
+*Undercover policing, sexual consent, hidden state power, institutional unlearning, and the curious disappearance of everyone responsible for calling OUT.*
 
 ---
 
@@ -23,13 +23,13 @@ The police station disappears.
 
 The institutional chain behind him disappears.
 
-The person interacting with him is deliberately deprived of the information that would ordinarily tell her:
+The person interacting with him is deliberately deprived of information that would ordinarily tell her:
 
 > **You are interacting with the state.**
 
 That concealment can be necessary for legitimate undercover policing.
 
-But it creates an enormous secondary obligation.
+It therefore creates an enormous secondary obligation.
 
 Because the person on the other side cannot enforce boundaries against state powers she does not know are present.
 
@@ -41,27 +41,49 @@ The state can authorise surveillance.
 
 The state can authorise a cover identity.
 
-The state can authorise its officer to enter an operational environment.
+The state can authorise an officer to enter an operational environment.
 
-The state can give police officers lawful powers which ordinary members of the public do not possess.
+The state can give police officers lawful powers ordinary members of the public do not possess.
 
 But there are other boundaries which cannot be crossed merely because the state has produced a permission slip.
 
-There are things an ordinary man could do to another person which might engage offences including assault, false imprisonment, harassment, stalking or — depending on the full statutory ingredients — controlling or coercive behaviour.
-
-Putting a police officer inside the same factual landscape does not make those questions disappear.
-
-And sexual consent presents an especially obvious limit.
+Sexual consent presents an especially obvious limit.
 
 **The state can authorise its officer.**
 
 **It cannot authorise her consent.**
 
-So:
+This node is therefore not principally about whether undercover policing should exist.
+
+It is about **lines**.
+
+Between man and officer.
+
+Between private and operational conduct.
+
+Between necessary deception and access created by deception.
+
+Between authority and consent.
+
+Between what an institution once tolerated and what it now understands.
+
+Between *I meant well* and *somebody was harmed*.
+
+Between being a decent bloke and assuming that being a decent bloke makes every decision you take decent.
+
+And, eventually, between:
+
+> **I would like to believe I would do the right thing**
+
+and:
+
+> **what do I need to practise now so that, when doing the right thing actually costs me something, that is the person who turns up?**
+
+So.
 
 🏏
 
-**where have all the linesmen gone?**
+**Where have all the linesmen gone?**
 
 ---
 
@@ -79,11 +101,11 @@ They may seize property.
 
 They may exercise statutory powers of entry.
 
-They may use reasonable force in circumstances where the law permits it.
+They may use reasonable force where law permits it.
 
 They may conduct forms of covert surveillance and investigation subject to legal controls.
 
-Remove lawful authority and some physically similar conduct by an ordinary person could itself be unlawful or criminal.
+Remove lawful authority and physically similar conduct by an ordinary person may itself become unlawful.
 
 That is the point.
 
@@ -127,7 +149,7 @@ The other person does not.
 
 That asymmetry is not an accidental side-effect.
 
-**It is the technology that makes undercover policing work.**
+**It is part of the technology that makes undercover policing work.**
 
 Which means the state needs exceptionally good lines around what may be done with the access that deception creates.
 
@@ -163,37 +185,15 @@ No.
 
 We would want facts.
 
-Depending on the particular conduct, duration, effects and statutory ingredients, we might ask about harassment.
+Depending on the particular conduct, duration, effects and statutory ingredients, we might ask about harassment, stalking, sexual offences, controlling or coercive behaviour, civil wrongs or human-rights violations.
 
-Stalking.
+The point is not that every deceptive intimate relationship automatically commits one of those offences.
 
-Sexual offences.
+It does not.
 
-Controlling or coercive behaviour.
+The offence of controlling or coercive behaviour, for example, has specific statutory ingredients. Deception alone does not satisfy them.
 
-Other civil or human-rights wrongs.
-
-We would ask what he did, how often, why, what effect it had, what information he withheld, whether he exploited her vulnerabilities, whether he monitored or manipulated her, and what she understood was happening.
-
-The Home Office's own statutory guidance on controlling or coercive behaviour tells investigators to examine **context**, relationship history, perpetrator tactics, harm and cumulative impact. The offence under section 76 of the Serious Crime Act 2015 requires repeated or continuous controlling or coercive behaviour between personally connected people, a serious effect on the victim, and knowledge or constructive knowledge of that effect.
-
-So:
-
-**lying to somebody about who you are is not automatically the offence of controlling or coercive behaviour.**
-
-Nor does every deceptive sexual relationship automatically become a sexual offence.
-
-But elaborate deception inside an intimate relationship is not some legally irrelevant mist simply because deception exists elsewhere in ordinary human life.
-
-The surrounding pattern matters.
-
-And the statutory guidance expressly recognises sexual coercion and abuse as behaviours that can form part of controlling or coercive behaviour.
-
-The relevant question is therefore not:
-
-> **Does false identity automatically equal offence X?**
-
-It is:
+The useful question is more basic:
 
 > **Why would the presence of an authorised undercover deployment make us less curious about potentially abusive patterns of conduct rather than more curious?**
 
@@ -204,7 +204,6 @@ ORDINARY MAN
 + REPEATED DECEPTION
 + MONITORING
 + INFORMATION EXTRACTION
-+ SERIOUS EFFECT
         ↓
 WE ASK:
 WHAT IS THIS PATTERN?
@@ -225,7 +224,7 @@ EXCUSE ME
 WHERE HAS THE LINE GONE?
 ```
 
-Some of those features may be inherent in lawful undercover work.
+Some features may be inherent in lawful undercover work.
 
 Some may be unauthorised misconduct.
 
@@ -254,893 +253,1537 @@ STATE POWER    │ PRIVATE RELATIONSHIP
 PERMISSION     │ CONSENT
 ```
 
-And the dangerous assumption is that all of those boundaries occupy exactly the same place.
+The dangerous assumption is that all those boundaries occupy exactly the same place.
 
 They do not.
 
-An officer can do something unauthorised while exploiting access produced by an authorised deployment.
+An officer may be lawfully present while a particular act is not authorised.
 
-An officer can experience genuine personal affection while continuing to inhabit a state-created identity.
+Conduct may be authorised while still producing collateral harm that should have been considered.
 
-Management can fail to authorise conduct and nevertheless know about, tolerate, overlook or inadequately supervise it.
+Something may have been accepted within a historical professional culture while later evidence shows why it was harmful.
 
-Something can be personally motivated and institutionally enabled.
+An officer may sincerely believe he is serving the public while also doing something to a particular member of the public that the institution later recognises as wrong.
 
-Something can be against policy and still reveal a failure of training, supervision, reporting, discipline or organisational culture.
+These are not logical contradictions.
 
-So:
+They are precisely why governance exists.
 
-> **Was it personal or operational?**
+A linesman is useful because a player cannot settle every boundary dispute by announcing:
 
-may sometimes be the wrong binary.
+> **I was trying to win the match.**
 
-The answer may be:
+Yes.
 
-> **personal in one respect, operational in another, institutionally enabled in a third.**
+We know.
 
-🏏
-
-Linesman, please.
+Still out.
 
 ---
 
 ## 4. 🧠 Consent Is A Shitload Of Context
 
-This is the centre of the sexual-relationships problem.
+Consent does not occur in an informational vacuum.
 
-Consent is not produced in an informational vacuum.
+A person deciding whether to have sex with somebody may care about:
 
-A person deciding whether she wants sex with another person is making that decision inside a context.
-
-Who does she believe he is?
-
-How did they meet?
-
-Why is he in her life?
-
-What does she believe his occupation to be?
-
-What does she understand his politics to be?
-
-Does she believe they share values?
-
-Does she think he loves her?
-
-Does she believe the relationship has a future?
-
-Does she believe things said in confidence remain inside the relationship?
-
-Does she know that information about her and her friends may be travelling into police files?
-
-Does she know the man in her bed is there under a police-created identity?
-
-Those facts are not all interchangeable.
-
-And English criminal law does **not** currently treat every deception surrounding sex as automatically vitiating consent.
-
-The *Monica* litigation concerning an undercover officer is important precisely because the legal question is narrower than the full survivor-autonomy question.
-
-So this node is not going to silently convert:
-
-> **I would never have consented had I known**
-
-into:
-
-> **therefore English criminal law necessarily classifies every encounter as rape.**
-
-Those are different propositions.
-
-But the legal boundary does not erase the first proposition.
-
-Women deceived into sexual relationships by undercover officers have repeatedly said that they would not have consented had they known the men's real identities and police roles.
-
-Inquiry material records this directly.
-
-One undercover officer told the inquiry that a woman he slept with did not know he was a police officer and that he suspected she would not have consented had she known.
-
-Evidence submitted on behalf of Sarah Hampton states that she would not have consented to the sexual element of her relationship with Mark Kennedy but for his misrepresentations.
-
-The Metropolitan Police ultimately apologised to women deceived into relationships, describing those relationships as abusive, deceitful, manipulative and wrong and as an abuse of police power.
-
-So the informational structure matters.
+- who they believe that person is;
+- their name;
+- their history;
+- their occupation;
+- why they are present;
+- their politics;
+- whether the relationship is genuine;
+- what future they appear to be offering;
+- whether information disclosed in intimacy remains private;
+- and whether the apparent civilian relationship is actually part of a state operation.
 
 ```text
 SHE SAYS YES
-        ↓
-WHO DOES SHE BELIEVE
-SHE IS SAYING YES TO?
-        ↓
+      ↓
+TO WHOM DOES SHE BELIEVE
+SHE IS SAYING YES?
+      ↓
 NAME
-BIOGRAPHY
+HISTORY
 OCCUPATION
-POLITICS
-PURPOSE
-RELATIONSHIP HISTORY
-FUTURE
-CONFIDENTIALITY
-        ↓
+POLITICAL POSITION
+REASON FOR BEING THERE
+RELATIONSHIP CONTEXT
+FUTURE INTENTIONS
+      ↓
 ACTUAL PERSON:
-STATE AGENT
-OPERATING A
-CONSTRUCTED IDENTITY
-        ↓
-WOULD SHE HAVE MADE
-THE SAME CHOICE
-WITH THAT INFORMATION?
+STATE AGENT OPERATING
+A CONSTRUCTED IDENTITY
 ```
 
-For multiple women:
+Then comes the question:
 
-**no.**
+> **Would she have made the same choice if she had known?**
 
-The information was not merely scenery around consent.
+Affected women have said no.
 
-For women who say accurate information would have changed their decision, **the information was part of the conditions required for them to exercise the choice themselves.**
+That does not mean every lie automatically vitiates consent for the purposes of English criminal law.
 
-Consent is a shitload of context.
+Keep the legal firewall intact.
+
+Criminal-law classification and a person's ability to make an informed sexual choice are not identical questions.
+
+But do not perform the opposite flattening either.
+
+If the concealed information is exactly the information the woman says would have caused her to refuse the relationship, it is absurd to describe that information as irrelevant scenery.
+
+**The information was part of the conditions under which consent became possible.**
+
+The Metropolitan Police's 2015 apology to women deceived into long-term relationships described those relationships as abusive, deceitful, manipulative and wrong, acknowledged an abuse of police power, and said the women were deceived.
+
+The Investigatory Powers Tribunal later found grave Convention-rights violations in Kate Wilson's case concerning Mark Kennedy. The police accepted that Kennedy's sexual relationship with her was wrong and had not been an authorised undercover tactic.
+
+This is therefore not a hypothetical invented by people who dislike police.
+
+The institutional record itself tells us the line mattered.
 
 ---
 
 ## 5. ✋ Authorised By Fucking Whom?
 
-This is where Roger Pearce's 2026 evidence gives us a particularly useful word.
+The word **authorised** can do far too much work if nobody asks what it means.
 
-**Authorised.**
+Authorised by whom?
 
-Pearce, a former undercover SDS officer who later led Special Branch, told the Undercover Policing Inquiry that he believed sexual activity could be authorised in sufficiently serious circumstances.
+To do what?
 
-Current policing institutions publicly reject that interpretation. The Metropolitan Police told Novara Media that the conduct described would not be authorised and that a sexual relationship is not an undercover-policing tactic. The College of Policing likewise said sex must not be used as an undercover tactic or authorised as a means of gaining intelligence, while distinguishing an immediate-threat scenario in which an officer fears serious consequences if they refuse sexual activity.
+Against whom?
 
-That disagreement is useful evidence.
+Under which legal power?
 
-But before getting lost in the policing rules, there is another permission system in the room.
+For what operational objective?
+
+With what safeguards?
+
+With what consideration of collateral intrusion?
+
+And — critically —
+
+**whose decision is the authoriser actually capable of making?**
 
 ```text
 STATE → OFFICER
 
 YOU MAY UNDERTAKE
-THIS DEPLOYMENT.
+THIS OPERATION
 ```
 
-And:
+is one relationship.
 
 ```text
 PERSON ↔ PERSON
 
-DO I WANT
-SEX WITH YOU?
+DO I WANT THIS
+SEXUAL RELATIONSHIP?
 ```
 
-These are not the same authorisation.
+is another.
 
-The state can decide what it permits its agent to do.
+The first cannot manufacture the second.
 
-**The state cannot supply the other person's consent.**
+This is the category error underneath any suggestion that an authorising officer could simply solve the ethical problem of deceptive sex by authorising it.
 
-And if the operational success of an intimate relationship depends upon withholding information that the other participant says would have caused her to answer **no**, then state authorisation does not solve the autonomy problem.
+The state can decide what **its officer** is permitted to do.
 
-It may be part of the machinery producing it.
+It cannot decide what information another person is entitled to regard as material to **her own sexual choice**.
 
-That is the category error sitting underneath the whole conversation.
+Current Metropolitan Police and College of Policing positions are clear that sexual relationships are not an undercover-policing tactic and should not be authorised as a means of gaining intelligence.
 
-> **Authorised by whom?**
+That makes the July 2026 evidence of former Special Branch commander Roger Pearce useful precisely because it exposes a disagreement about where somebody who held senior covert-policing responsibility believed the line could sit.
+
+Pearce told the Inquiry that he believed there could be exceptional circumstances in which sexual activity might be authorised, and used recent Palestine Action-type offending as an example of seriousness that might justify such authorisation. The Met publicly rebutted that interpretation; the College of Policing said its guidance provides no route to authorise sex as an intelligence tactic.
+
+Pearce's evidence does **not** establish that undercover officers have had sex with Palestine Action activists.
+
+It does **not** establish current Met policy.
+
+It tells us something narrower and still useful:
+
+> **a former senior officer was prepared, in evidence, to articulate a boundary in a materially different place from the current institution.**
+
+Excellent.
+
+Keep talking.
+
+This is what inquiries are for.
 
 ---
 
-## 6. 🌸 She Was In The Operation But Missing From The Model
+## 6. 👧 Show Us Where The Line Appeared
 
-Undercover policing necessarily thinks about risk.
+There is a deliberately uncomfortable empathy exercise available here.
 
-Risk to the officer.
+It needs a firewall first.
 
-Risk to cover.
+A woman does not deserve sexual autonomy because she is somebody's daughter.
 
-Risk to intelligence.
+A woman does not acquire personhood through her relationship to a man.
 
-Risk to the operation.
+**“Imagine it was your daughter” is not the reason she deserves protection.**
 
-Risk of exposure.
+It is a diagnostic.
 
-Risk to prosecutions.
+So imagine an adult daughter joins a lawful political organisation.
 
-Risk to colleagues.
+An undercover officer enters that environment using a constructed identity.
 
-Risk to public safety.
+He becomes close to her.
 
-All sensible things to model.
+She believes his name.
 
-But the Spycops history forces another question:
+His history.
 
-**where was she in the model?**
+His politics.
 
-Women were physically present inside these deployments.
+His reasons for being there.
 
-They were making decisions.
+They enter a sexual relationship.
 
-Having sex.
+Perhaps she loves him.
 
-Falling in love.
+Perhaps they have a child.
 
-Making plans.
+He is actually a police officer gathering intelligence.
 
-Sharing homes.
+Depending on the evidence in the particular case, management may know, suspect, fail to ask, fail to supervise adequately, or know nothing.
 
-Introducing partners to friends and family.
+Eventually he disappears.
 
-In some cases, children became part of the story.
+Years later she discovers the truth.
 
-And yet institutional thinking could still conceptualise an intimate relationship primarily through its consequences for the operation or officer.
+She says:
 
-That is an information-design failure.
+> **If I had known who he really was, I would never have consented to sex with him.**
+
+She then has to decide whether to speak publicly.
+
+Doing so may expose her politics, sexual history, judgment and family to strangers.
+
+Her child may have to absorb information about the circumstances of their parentage.
+
+She waits through litigation, disclosure and a public inquiry.
+
+Former officers give evidence.
+
+The state considers how much more of the process should continue because it has become long and expensive.
+
+Now ask:
+
+**Are you comfortable with that?**
+
+If not:
+
+**which fact made you uncomfortable?**
+
+Then remove the word *daughter*.
+
+Nothing material about the woman's rights has changed.
+
+She is simply a woman you do not know again.
+
+**Does your answer change?**
+
+If it does:
+
+🏏
+
+**show us where the line appeared.**
+
+The empathy bridge is allowed.
+
+Then kick the bridge away.
+
+A police officer entrusted with power over strangers eventually needs to recognise the stranger's interests without first imagining that she belongs to him.
+
+---
+
+## 7. 🌸 She Was In The Operation But Missing From The Model
+
+This may be the most important systems observation in the cluster.
+
+The woman was physically present in the operation.
+
+She may have been:
+
+- speaking to the officer;
+- sharing a home;
+- introducing friends;
+- sharing political information;
+- sharing vulnerabilities;
+- having sex;
+- planning a future;
+- providing social credibility;
+- connecting him to a wider network.
+
+She is obviously inside the causal system.
+
+But was she inside the risk model as a person to whom **the operation itself** could cause harm?
 
 ```text
 OPERATIONAL MODEL
 
 OFFICER
-COVER
 TARGET
+COVER
 INTELLIGENCE
-DEPLOYMENT
-EXPOSURE
-CAREER
+PUBLIC ORDER
+SECURITY
+MANAGEMENT
+RISK OF EXPOSURE
+```
 
+Where is:
 
-HUMAN MODEL
+```text
+THE WOMAN
+WHO THINKS
+THIS IS HER BOYFRIEND?
+```
 
-HER
-AUTONOMY
+This is not a semantic complaint.
+
+If a person does not appear in the model, harms to that person become easier not to count.
+
+The Met's 2015 apology acknowledged failures of supervision and management in relation to deceptive intimate relationships.
+
+Kate Wilson's case made the institutional dimension even harder to avoid: the Tribunal's findings concerned not simply Kennedy's individual conduct but failures surrounding deployment, supervision and oversight.
+
+The woman was not scenery around the operation.
+
+**She was one of the human beings the operation was acting upon.**
+
+---
+
+## 8. 🧠 Men Are Allowed To Be Sexual Beings
+
+This needs to be written down because otherwise the conversation becomes stupid extremely quickly.
+
+Men are allowed to be sexual beings.
+
+Police officers are allowed to be sexual beings.
+
+Men may:
+
+- have fantasies;
+- write explicit fiction;
+- read explicit fiction;
+- be heterosexual;
+- be gay;
+- be bisexual;
+- be kinky;
+- be vanilla;
+- flirt;
+- have casual sex;
+- have committed sex;
+- make sexual jokes in appropriate contexts;
+- possess sexual imaginations considerably stranger than anything Polaris needs to know about.
+
+Reading or writing fiction involving deception does not establish approval of real deception.
+
+Fantasy is not conduct.
+
+A sexual joke is not automatically harassment.
+
+A man being horny is not a safeguarding incident.
+
+**Sex-positive does not mean violence-negative.**
+
+This cluster does not treat desire, fantasy, explicit fiction, consensual kink, homosexuality, bisexuality, receptive sex, penetrative sex, promiscuity or frank sex talk as inherently degrading or suspicious.
+
+The question is:
+
+```text
+SEXUALITY
+      +
+POWER
+      +
+CONTEXT
+      +
 INFORMATION
-CONSENT
-ATTACHMENT
-SEXUAL HEALTH
+      +
+ABILITY TO REFUSE
+      +
+INSTITUTIONAL AUTHORITY
+```
+
+What happens at the intersection?
+
+People entrusted with coercive state powers do not need to become sexless.
+
+They need to maintain boundaries between their sexuality and the powers entrusted to them.
+
+And institutions need to be capable of detecting when those boundaries blur, become rationalised, or become operationalised.
+
+That is a much healthier standard than:
+
+**MEN, PLEASE CEASE HAVING INNER LIVES.**
+
+---
+
+## 9. 🪞 Yes, The Author Makes Sexual Jokes
+
+Yes.
+
+Obviously.
+
+This repository contains sexual jokes.
+
+It contains jokes about men.
+
+It contains jokes about politics, surveillance, power and frightening things.
+
+The argument is therefore not:
+
+```text
+WOMAN MAKES SEXUAL JOKE
+        = FUNNY
+
+MAN MAKES SEXUAL COMMENT
+        = THREAT
+```
+
+That would be idiotic.
+
+Speech has context.
+
+```text
+WHO IS SPEAKING
+      +
+WHAT IS SAID
+      +
+TO WHOM
+      +
+ABOUT WHOM
+      +
+SETTING
+      +
+HISTORY
+      +
+INSTITUTIONAL POWER
+      +
+CAPACITY TO ACT
+      +
+AUDIENCE'S PRIOR EXPERIENCE
+```
+
+all affect how speech is received.
+
+Intent and reception are different variables.
+
+The author is a disabled Jewish woman, a rape survivor, and has experienced harassment online and in person. Humour is sometimes an ego defence and a way of reclaiming enough power over frightening material to examine it.
+
+That does not make every joke she makes intrinsically harmless.
+
+It explains part of the context.
+
+Nor does another person's discomfort automatically prove malicious intent.
+
+The point is that nobody gets a categorical exemption from context.
+
+```text
+SEXUAL COMMENT
+      ↓
+HARMLESS JOKE?
+DON'T KNOW YET.
+      ↓
+WHAT POWER?
+CAN I SAY NO?
+CAN I LEAVE?
+WHAT HAPPENS IF
+THE SPEAKER DISLIKES NO?
+```
+
+Sometimes joking about something is about reclaiming power over it.
+
+Sometimes a joke is just a joke.
+
+Sometimes it is inappropriate.
+
+Sometimes it reveals something useful.
+
+Sometimes the correct analytical response is:
+
+**bro what the fuck.**
+
+Context.
+
+Again.
+
+---
+
+## 10. 🍆 How Much Cock Did You Take For Queen And Country?
+
+This is a vulgar question.
+
+It is also a control variable.
+
+The publicly visible record of deceptive undercover sexual relationships is heavily gendered: male officers deceiving women dominate the known cases.
+
+Do not overstate that into:
+
+**there were definitely no male victims.**
+
+The historical record may be incomplete.
+
+Gay and bisexual men may not have disclosed relationships.
+
+Some people may never have discovered an officer's identity.
+
+Some are dead.
+
+Records are incomplete.
+
+And queer men lived through periods in which disclosure itself could carry profound risk.
+
+So the counterfactual is not an assertion about an unknown historical total.
+
+It is a question about the logic of **operational necessity**.
+
+If exceptionally committed undercover officers might genuinely need to perform sexual acts they would not otherwise choose in order to preserve cover and protect national security, then heterosexuality should not itself have been an insurmountable national-security obstacle.
+
+Hence:
+
+> **How much cock did you take for Queen and country?**
+
+Contemporary update:
+
+> **How much cock are you prepared to take for the King's peace?**
+
+The indignity being examined here is **not homosexuality**.
+
+There is nothing inherently humiliating, unmanly or wrong about oral sex between men, receptive anal sex, penetrative sex between men, or any other consensual adult sexual act.
+
+The historical fact that British culture attached humiliation to particular male sexual roles is part of why the counterfactual has force.
+
+If a straight officer genuinely crossed his own sexual comfort boundary because he believed national security required it, that would be relevant evidence that the claimed operational principle was being applied sex-neutrally.
+
+The research questions are therefore:
+
+- Were male officers ever expected to cross their own sexual boundaries with men?
+- How often?
+- Under what circumstances?
+- Who knew?
+- Who authorised or tolerated it?
+- What intelligence benefit resulted?
+- Were officers' sexual orientations considered?
+- Did gender affect who was treated as operationally sexually available?
+
+If men's sexual boundaries remained largely operationally inviolable while women's did not, then perhaps what was treated as operationally available was not simply **sex**.
+
+Perhaps it was **women**.
+
+That is a hypothesis to test.
+
+Not a finding to smuggle in through a dick joke.
+
+Although, to be fair, it is quite a good dick joke.
+
+---
+
+## 11. 🕸️ Why Women? And Please Show Your Working At The Penis
+
+Political communities are social networks.
+
+A trusted woman may connect an officer to:
+
+```text
+WOMAN
+  ↓
+FRIEND
+  ↓
+PARTNER
+  ↓
+HOME
+  ↓
+SOCIAL NETWORK
+  ↓
+POLITICAL NETWORK
+  ↓
 TRUST
-FAMILY
-FUTURE
-TRAUMA
-LIFE AFTER DISCOVERY
+  ↓
+INFORMATION
 ```
 
-**The woman was physically present in the operation.**
+This can help explain why intimacy might become operationally useful.
 
-**She was absent from the risk model.**
-
-Survivor testimony matters partly because it puts the missing variables back in.
-
----
-
-## 7. 👮 Man / Officer / Institution
-
-The easiest mistake is to force everything into one category.
-
-Either:
-
-> **THE STATE DID IT**
-
-or:
-
-> **HE WAS JUST A MAN DOING PRIVATE THINGS**
-
-Reality can be messier.
-
-There are at least three analytical layers.
+It does not yet explain why intimacy had to become sexual.
 
 ```text
-THE MAN
-
-desire
-affection
-sexuality
-private choices
-rule-breaking
-individual responsibility
-
-        ↕️
-
-THE OFFICER
-
-cover identity
-operational access
-intelligence gathering
-professional duties
-deployment
-police role
-
-        ↕️
-
-THE INSTITUTION
-
-authorisation
-training
-supervision
-risk modelling
-record-keeping
-management
-discipline
-tolerance
-information flows
-learning
-```
-
-The same relationship can touch all three.
-
-An officer may genuinely experience desire.
-
-That does not make the cover identity real.
-
-He may genuinely love somebody.
-
-That does not tell her his real occupation.
-
-A relationship may be formally unauthorised.
-
-That does not tell us whether supervisors knew, should have known, tolerated similar conduct or maintained adequate safeguards.
-
-The point is not to erase the private person inside the officer.
-
-It is to stop the private person becoming a convenient black hole into which institutional responsibility disappears.
-
----
-
-## 8. 🏠 “But He Was Off Duty”
-
-Fine.
-
-Ask what that means.
-
-Was he using his real identity?
-
-How had he met her?
-
-Did the relationship begin because of deployment?
-
-Was the cover identity still active?
-
-Was the police-created biography still being used?
-
-Did the relationship help maintain access to a political group?
-
-Was information obtained through intimacy?
-
-Was information about her or people around her recorded?
-
-Did supervisors know?
-
-Was the relationship disclosed?
-
-Was it discouraged?
-
-Was it tolerated?
-
-Did anybody check?
-
-What happened when management learned?
-
-Could the woman independently discover the facts required to understand the relationship?
-
-If the answer to the final question is no because the state had deliberately constructed the deception, that matters.
-
-**“Off duty” can answer a payroll question.**
-
-It cannot automatically answer an attribution question.
-
----
-
-## 9. 👶 The Dead Child Makes The Boundary Even Stranger
-
-The SDS's historical use of deceased children's identities to construct undercover legends makes the private/state boundary even harder to treat casually.
-
-Important firewall:
-
-**not every use of a deceased child's identity overlapped with a sexual relationship.**
-
-Do not collapse separate histories merely because they occurred inside the same policing system.
-
-But conceptually, look at the machinery:
-
-```text
-STATE / POLICE SYSTEM
-OBTAINS IDENTITY DETAILS
-        ↓
-DECEASED CHILD'S IDENTITY
-CONTRIBUTES TO LEGEND
-        ↓
-OFFICER INHABITS
-CONSTRUCTED PERSON
-        ↓
-REAL PEOPLE MEET
-CONSTRUCTED PERSON
-        ↓
+INFILTRATE GROUP
+      ↓
+BECOME TRUSTED
+      ↓
 FRIENDSHIPS
-TRUST
-HOMES
-POLITICAL LIFE
-SOMETIMES INTIMACY
+      ↓
+SOCIAL LIFE
+      ↓
+ACCESS
+      ↓
+PENIS
 ```
 
-At what precise moment does everything occurring inside that manufactured social identity become purely private?
+Hang on.
 
-There may be an answer for a particular act.
+That's a new arrow.
 
-But:
+**Show your working.**
 
-> **badge hidden = state gone**
+Did sexual relationships provide unique operational access?
 
-is obviously not enough.
+Were they primarily personal choices by officers?
 
----
+Did relationships stabilise cover identities?
 
-## 10. 🚩 Political Women Are Still Women
+Were women perceived as useful network nodes?
 
-There is another category error running through political surveillance.
+Were managers reluctant to challenge relationships because exposure might jeopardise deployments?
 
-A woman can be politically interesting to the state.
+Did officers rationalise desired relationships through operational language?
 
-She remains a woman.
+Were women easier to treat as collateral because the risk model centred the officer and target rather than the intimate partner?
 
-She remains a private person.
+Did different explanations apply in different cases?
 
-She retains bodily autonomy.
+Probably the last one.
 
-Her political affiliation does not turn sexual access into an intelligence resource.
+That is why the Inquiry needs evidence rather than one universal story.
 
-Her presence in an activist organisation does not reduce the informational requirements of her consent.
-
-And this is where an international intuition test is useful.
-
-Imagine reading that another state's political police had:
-
-- infiltrated political organisations;
-- operated under elaborate false identities;
-- sometimes used identities derived from deceased children;
-- entered intimate relationships with women inside those movements;
-- and that affected women later said they would not have consented had they known they were sleeping with state agents.
-
-What vocabulary would we instinctively reach for?
-
-No answer supplied.
-
-Sit with it.
+But the penis does not receive automatic operational-expenses approval merely because it arrived attached to an undercover officer.
 
 ---
 
-## 11. 🚔 Sarah Everard And The Power Of Context
+## 12. 💍 The Wife Is In The Information Environment Too
 
-Sarah Everard's murder is not Spycops.
+The officer may also have had a wife or long-term partner in his real identity.
 
-Wayne Couzens was not conducting an undercover political deployment.
+That person is not interchangeable with the woman deceived through the cover identity.
 
-The conduct, circumstances and legal questions are different.
+Different information.
 
-But Sarah Everard makes one wider principle about police authority impossible to ignore.
+Different relationship.
 
-Couzens used his policing knowledge, equipment and — in all likelihood, according to the Angiolini Inquiry — his warrant card when he stopped and handcuffed Sarah Everard.
+Different possible harms.
 
-The Casey Review describes him as having used his position and warrant card to entrap her.
-
-The appearance of lawful police authority changed the information available to Sarah about what was happening.
-
-That is the connection.
+But she is another human being whose understanding of her own life may depend on information being withheld from her.
 
 ```text
-COUZENS
-
-INVOKE / DISPLAY
-POLICE AUTHORITY
-        ↓
-PERSON BELIEVES
-POLICE POWER
-IS BEING LAWFULLY
-EXERCISED
-
-
-UNDERCOVER POLICING
-
-CONCEAL
-POLICE IDENTITY
-        ↓
-PERSON BELIEVES
-NO POLICE POWER
-IS PRESENT
+REAL-LIFE PARTNER
+        ←
+     OFFICER
+        →
+UNDERCOVER PARTNER
 ```
 
-These are different mechanisms.
+This creates an uncomfortable institutional question.
 
-They should not be rhetorically collapsed.
+If a settled real-life relationship was treated as evidence of stability or reliability in selecting officers for long-term deployment, while the deployment environment facilitated, tolerated or failed to detect secret sexual relationships, what exactly was the institution asking the officer's real family to absorb?
 
-But both demonstrate something basic:
+Do not answer beyond the evidence.
 
-**information about police power changes the choices available to the person encountering it.**
+Ask.
 
-Casey then widened the institutional lens beyond one offender. Her review found institutional sexism in the Metropolitan Police and documented misogynistic attitudes, sexual harassment and women's reluctance to report misconduct because of feared consequences.
-
-Again:
-
-**that does not mean every officer is Wayne Couzens.**
-
-It means policing itself has already accepted the need to examine how individual misconduct interacts with institutional culture.
-
-Which is exactly why uncomfortable evidence from Spycops should be grabbed rather than tidied away.
-
----
-
-## 12. 🧠 One Man Is Not A Culture
-
-Roger Pearce's evidence does not prove what other officers believed.
-
-It does not establish that sexual relationships were formally authorised.
-
-It does not establish that every senior officer shared his interpretation.
-
-It does not establish that current officers think the same way.
-
-But Pearce did not merely work somewhere near policing.
-
-He served undercover in the SDS.
-
-He later led Special Branch.
-
-And in 2026 he considered his interpretation sufficiently professionally intelligible to explain openly before the statutory inquiry examining undercover policing.
-
-The guy could have said nothing.
-
-He did not.
+The Home Office's 2026 consultation expressly recognises families of undercover officers among people significantly affected by undercover policing.
 
 Good.
 
-That gives the inquiry a question:
-
-> **What did a senior officer understand the boundaries of professionally defensible conduct to be?**
-
-Maybe his view was idiosyncratic.
-
-Maybe it reflected a wider historical culture.
-
-Maybe formal rules differed from informal assumptions.
-
-Maybe policing has undergone a genuine cultural change.
-
-Maybe different units understood the line differently.
-
-Do not guess.
-
-**Investigate.**
-
-One man is not a culture.
-
-One man's frank evidence can reveal a question about culture.
+They belong in the model too.
 
 ---
 
-## 13. 🌫️ So Where Were The Linesmen?
+## 13. 👶 Children Are Not Operational Debris
 
-A functioning system needs people and mechanisms capable of identifying boundary crossings.
+Children were conceived in some undercover relationships.
 
-Possible linesmen include:
+They did not choose the operation.
 
-- law;
-- operational authorisation;
-- written policy;
-- training;
-- supervisors;
-- senior management;
-- record-keeping;
-- professional standards;
-- disciplinary systems;
-- courts;
-- independent oversight;
-- Parliament;
-- public inquiries;
-- journalists;
-- campaigners;
-- and, eventually, the people harmed.
+They did not choose the cover identity.
 
-The problem is not necessarily that every linesman was literally absent.
+They did not choose the secrecy.
 
-Some may have lacked information.
-
-Some may have had the wrong rules.
-
-Some may have been watching operational risk rather than human harm.
-
-Some may have assumed somebody else owned the boundary.
-
-Some may have treated conduct as private.
-
-Some may have failed to challenge colleagues.
-
-Some may simply have been watching a different fucking game.
-
-That is precisely what an institutional inquiry is supposed to reconstruct.
-
----
-
-## 14. 📡 We Have Quite A Lot Of Spy Technology Now, Lads
-
-There is also a contemporary proportionality question.
-
-Undercover policing may sometimes be necessary.
-
-Human intelligence can reveal things technical surveillance cannot.
-
-This node is not pretending that every investigation can be performed from a laptop.
-
-But necessity should become more demanding as less intrusive alternatives become available.
+They may nevertheless inherit its informational consequences.
 
 ```text
+WHO IS MY FATHER?
+      ↓
+WHAT WAS HIS NAME?
+      ↓
+WHY DID HE LEAVE?
+      ↓
+WHAT WAS REAL?
+      ↓
+WHY DID THE STATE
+KNOW SOMETHING ABOUT
+MY OWN LIFE THAT I DIDN'T?
+```
+
+Disclosure can itself be painful.
+
+That is not an argument for permanent concealment.
+
+It is evidence that the original deception created a situation in which **truth later became hazardous information**.
+
+The same principle applies differently to families of deceased children whose identities were appropriated for cover.
+
+People who were never formal targets can still be downstream recipients of operational harm.
+
+A competent risk model has to look further than the immediate intelligence objective.
+
+---
+
+## 14. 🚔 Sarah Everard And The Power Of Context
+
+This comparison must be kept narrow.
+
+Wayne Couzens's murder of Sarah Everard is not equivalent to deceptive undercover relationships.
+
+The crimes are different.
+
+The circumstances are different.
+
+The harms are different.
+
+The useful point is about **authority and information**.
+
+Couzens used his position as a police officer as part of the mechanism by which Everard was detained. Later reviews of the Metropolitan Police have had to confront what police authority, warrant cards, professional status and institutional culture can mean in encounters with women.
+
+Authority changes behaviour before physical force is applied.
+
+A person who believes:
+
+> **this man has lawful police authority over me**
+
+occupies a different informational environment from a person who believes:
+
+> **this is another private citizen.**
+
+Undercover policing reverses the visibility.
+
+The officer still possesses the institutional relationship.
+
+The civilian cannot see it.
+
+That is why **power context matters even when the badge is hidden**.
+
+---
+
+## 15. 🧠 One Man Is Not A Culture
+
+Roger Pearce is not the Metropolitan Police.
+
+Mark Kennedy is not the Metropolitan Police.
+
+Bob Lambert is not the Metropolitan Police.
+
+No individual witness is an entire professional culture.
+
+And one startling answer at an Inquiry does not prove that everybody in policing shares the answer.
+
+But public speech still provides evidence.
+
+A person generally chooses what he is prepared to say in a formal public setting partly against his expectations of what is thinkable, defensible or at least discussable there.
+
+So Pearce's July 2026 evidence does **not** show that everybody agreed with him.
+
+The immediate public rebuttal from the Met and College of Policing shows the opposite.
+
+What it does show is that he apparently did not regard articulating that position before the Inquiry as professionally impossible.
+
+That may reflect:
+
+- his individual view;
+- a historical professional norm;
+- an informal culture;
+- his interpretation of law or guidance;
+- later rationalisation;
+- or some mixture.
+
+The Inquiry exists to establish the record.
+
+So:
+
+**full marks for frankness, I guess.**
+
+Please keep giving the Inquiry useful evidence.
+
+Do not make one man so famous that the institutional problem disappears behind his face.
+
+---
+
+## 16. ♻️ The Point Of A Linesman Is Not The Red Card
+
+This may be where the node changes direction.
+
+Accountability is not useful only when it identifies somebody to punish.
+
+The point of a line is to make conduct governable **before** catastrophe.
+
+```text
+HARM
+  ↓
+DISCLOSURE
+  ↓
+LISTEN
+  ↓
+ESTABLISH FACTS
+  ↓
+ACKNOWLEDGE
+  ↓
+UNDERSTAND MECHANISM
+  ↓
+CHANGE INCENTIVES
+  ↓
+BUILD SAFEGUARD
+  ↓
+TEST SAFEGUARD
+  ↓
+SHOW PEOPLE WHAT CHANGED
+  ↓
+KEEP MONITORING
+```
+
+The red card may sometimes be necessary.
+
+So may criminal investigation, discipline, civil liability or professional consequences.
+
+But if the only institutional lesson is:
+
+> **that particular bloke was bad**
+
+then everybody else gets to remain exactly where they were.
+
+A better question is:
+
+> **What made the line difficult to see, difficult to challenge, or easy to cross?**
+
+Was the rule unclear?
+
+Was operational success rewarded more visibly than restraint?
+
+Did officers fear jeopardising cover?
+
+Did managers avoid asking questions they did not want answered?
+
+Was sexual behaviour treated as private even when it occurred inside operational relationships?
+
+Did somebody think that challenging a respected colleague would make him look disloyal?
+
+Could an officer safely say:
+
+> **I don't think we should do this**
+
+without becoming the problem?
+
+The point of a linesman is not primarily that eventually somebody gets sent off.
+
+**The line has to be visible before they cross it.**
+
+---
+
+## 17. 🩹 You Do Not Have To Hate The Man You Were
+
+There is a trap available to institutions confronting historical harm.
+
+```text
+WE BELIEVED WE WERE
+GOOD OFFICERS
+      ↓
+WE DID SOMETHING
+NOW UNDERSTOOD AS WRONG
+      ↓
+THEREFORE
+IF WE ACCEPT THAT
+WE MUST ACCEPT
+WE WERE BAD PEOPLE
+      ↓
+DEFEND THE OLD CATEGORY
+```
+
+That binary is unnecessary.
+
+A legitimate public objective can be pursued through illegitimate means.
+
+A protective institution can fail to protect.
+
+A person can act inside a culture he sincerely understands as normal and later recognise that the culture harmed somebody.
+
+A man can look backwards and think:
+
+> I did not ask clearly enough.
+
+> I assumed.
+
+> I thought persistence was romantic.
+
+> I did not understand how frightened she was.
+
+> I thought silence meant agreement.
+
+> I would tell a younger man not to do that now.
+
+None of those statements automatically creates a retrospective criminal conviction.
+
+They can mean:
+
+**I learned something.**
+
+The same possibility has to exist inside policing.
+
+> **You do not have to hate the man you were to decide that the man you are now knows better.**
+
+Institutions should be allowed to grow up too.
+
+That does not mean affected people have to forgive.
+
+It does not erase legal responsibility.
+
+It does not require everybody to agree about every historical case.
+
+It means acknowledgement is allowed to produce **learning** rather than only identity collapse.
+
+The people harmed get to know that telling the truth changed something.
+
+That is a considerably better outcome than spending thirty years weakening the present standard because the present standard makes the past uncomfortable.
+
+---
+
+## 18. 👮 There Are Healthier Examples Of Policing Already
+
+This section is not a list of Polaris-certified Good Men™.
+
+Absolutely not.
+
+Public presentation is not private character.
+
+We do not work with these men.
+
+Police officers may know things about them — positive, negative, complicated or mundane — that members of the public do not.
+
+That is fine.
+
+The point is smaller.
+
+**There are public examples, from within policing and around policing, showing that recognisable police authority does not require swagger, sexual entitlement, humiliation, contempt or an inability to reconsider one's assumptions.**
+
+Norwell Roberts, Neil Basu and Mark Rowley provide three very different pieces of public material from different places in the history and hierarchy of Metropolitan policing.
+
+Roberts's experience as the Met's first Black officer is not Basu's.
+
+Basu's public career in senior counter-terrorism policing is not Rowley's role as Commissioner.
+
+Rowley's public acknowledgements of serious cultural and systemic failures do not turn him into an all-purpose certificate of institutional virtue.
+
+Good.
+
+They are **examples to think with**, not men everybody must become.
+
+The more important examples may be inside the reader's own life.
+
+A sergeant.
+
+A governor.
+
+A colleague.
+
+A dad.
+
+A teacher.
+
+A football coach.
+
+A character in a book.
+
+A fictional detective.
+
+Ask:
+
+> **Why do I think that bloke is decent?**
+
+What does he do when he is embarrassed?
+
+What happens when he is wrong?
+
+What does he do when somebody weaker than him is frightened?
+
+Can he exercise authority without needing somebody else's submission to prove it?
+
+What happens when a colleague behaves badly?
+
+Can he change his mind without treating it as humiliation?
+
+What does he do when somebody tells him no?
+
+Nobody needs to copy the whole man.
+
+Pick the characteristic.
+
+**What do I want to be able to do like that?**
+
+---
+
+## 19. 📺 Britain Has Already Made Quite A Lot Of Accidental Training Material
+
+The author's examples are unfortunately detective-heavy.
+
+**Ugh. CID.**
+
+Fair enough.
+
+My parents' approach to police television was essentially:
+
+> *we are not watching a programme about work.*
+
+So this is not a comprehensive syllabus.
+
+But *Life on Mars*, *Ashes to Ashes* and *Whitechapel* are useful for a reason that has very little to do with selecting a Best Fictional Policeman.
+
+Do **not** watch them to decide:
+
+```text
+GENE HUNT = GOOD
+SAM TYLER = GOOD
+ALEX DRAKE = GOOD
+JO CHANDLER = GOOD
+MILES = GOOD
+```
+
+That is boring.
+
+And in several cases would miss rather a lot of the point.
+
+Pick the difficult scenes.
+
+The best ones are the moments where:
+
+- two legitimate objectives collide;
+- somebody has incomplete information;
+- loyalty and duty point in different directions;
+- the character you like is behaving badly;
+- the irritating character has a point;
+- doing the humane thing creates an operational or personal cost;
+- doing the expedient thing transfers that cost onto somebody with less power;
+- somebody has to challenge a colleague;
+- somebody has to admit they were wrong;
+- somebody can protect their status or protect another person, but not perfectly do both.
+
+Then ask:
+
+> **What would I want myself to do?**
+
+Not:
+
+> What is the officially correct answer?
+
+Not even:
+
+> What would I definitely do, because naturally I am the hero?
+
+Ask:
+
+> **What would I like to believe I would do?**
+
+Then the useful question:
+
+> **What do I need to do now to make sure I am more likely to be that person?**
+
+```text
+WHAT DO I BELIEVE
+I WOULD DO?
+      ↓
+WHAT WOULD THAT
+ACTUALLY COST ME?
+      ↓
+WHAT PRESSURES MIGHT
+MAKE ME DO SOMETHING ELSE?
+      ↓
+WHAT SKILLS / HABITS /
+RELATIONSHIPS / RULES /
+SAFEGUARDS WOULD HELP?
+      ↓
+CAN I PRACTISE THOSE
+BEFORE THE HARD MOMENT?
+```
+
+That is much more useful than corporate ethics training in which Nigel kicks a civilian down the stairs and everybody correctly identifies that Nigel has breached policy.
+
+Thank you, Sandra.
+
+The difficult scenarios are where character and system meet.
+
+Someone saying:
+
+> **Fuck. I think I'd probably have gone along with the team.**
+
+may have produced more useful information than somebody immediately declaring that he would obviously have been the lone incorruptible hero.
+
+Okay.
+
+Why would you have gone along?
+
+What would have made dissent easier?
+
+A colleague beside you?
+
+A clearer rule?
+
+A supervisor who tolerated challenge?
+
+A confidential route?
+
+More time?
+
+Knowing somebody had your back?
+
+Seeing senior officers publicly admit mistakes without their entire professional identity being annihilated?
+
+Now we have moved from:
+
+**BE A BETTER MAN**
+
+to:
+
+**BUILD AN ENVIRONMENT IN WHICH PEOPLE HAVE A FIGHTING CHANCE OF BEING THE PERSON THEY WANT TO BE.**
+
+That is policing governance.
+
+---
+
+## 20. 🪞 Being Safe, Behaving Safely, Being Perceived As Safe
+
+These are not the same variable.
+
+```text
+BEING SAFE
+      ≠
+BEHAVING SAFELY
+      ≠
+BEING PERCEIVED AS SAFE
+```
+
+They overlap.
+
+They are not interchangeable.
+
+A man may sincerely believe he is safe.
+
+That does not create an entitlement to somebody else's feeling of safety.
+
+```text
+I AM SAFE
+≠
+YOU MUST FEEL SAFE
+
+I AM TRUSTWORTHY
+≠
+YOU MUST TRUST ME
+
+I HAVE AUTHORITY
+≠
+YOU MUST LIKE ME
+
+I MEAN WELL
+≠
+YOU CANNOT BE FRIGHTENED
+
+I HAVE BEEN AUTHORISED
+≠
+YOU HAVE CONSENTED
+```
+
+The last line should look familiar.
+
+Perceived safety is produced through a person's entire information environment.
+
+Race.
+
+Class.
+
+Sex.
+
+Disability.
+
+Sexuality.
+
+Immigration status.
+
+Political history.
+
+Previous police contact.
+
+Knowledge of the institution.
+
+Personal trauma.
+
+The behaviour of the particular officer.
+
+A public masculine presentation that reassures one white woman may not reassure a Black woman, Muslim woman, migrant woman, queer woman, disabled woman, protester or somebody whose previous contact with police taught her something different.
+
+People with several of those identities arrive as one human being.
+
+Not browser tabs.
+
+The institutional objective therefore cannot sensibly be:
+
+**MAKE WOMEN PERCEIVE US AS SAFE.**
+
+It can be:
+
+**behave in ways that are safer; build systems that correct unsafe behaviour; make boundaries visible; and give people reasons over time to update their own judgments.**
+
+Trust is an output.
+
+Not an instruction.
+
+---
+
+## 21. 🚩 Political Women Are Still Women
+
+A woman does not stop having a body because she has politics.
+
+She does not become less capable of sexual harm because she attends meetings.
+
+She does not become operational furniture because she protests.
+
+She does not become an abstract node labelled:
+
+```text
+ACTIVIST
+```
+
+rather than:
+
+```text
+PERSON
+```
+
+This is particularly important in a policing system because operational language is useful.
+
+It compresses complexity.
+
+Target.
+
+Source.
+
+Subject.
+
+Associate.
+
+Collateral.
+
+Risk.
+
+Network.
+
+But a compressed operational category can hide a whole human being.
+
+```text
+POLITICAL WOMAN
+      ↓
+WOMAN
+      ↓
+PERSON
+      ↓
+BODY
+      ↓
+PRIVATE LIFE
+      ↓
+SEXUAL AUTONOMY
+      ↓
+RIGHTS
+```
+
+The state may have legitimate reasons to investigate political violence, serious criminal damage or other crime.
+
+Fine.
+
+That does not create a general exception from recognising the personhood of everybody encountered during the investigation.
+
+---
+
+## 22. 📡 We Have Quite A Lot Of Spy Technology Now, Lads
+
+Historical undercover policing relied heavily on human access because humans were the sensors.
+
+A trusted person could enter rooms, hear conversations, understand relationships and report what was happening.
+
+The contemporary information environment is different.
+
+Phones.
+
+Location data.
+
+CCTV.
+
+ANPR.
+
+Social media.
+
+Open-source intelligence.
+
+Commercial data.
+
+Digital communications.
+
+Network analysis.
+
+Modern surveillance powers.
+
+That does **not** make human intelligence obsolete.
+
+Some information can only be understood through people.
+
+But it does strengthen the proportionality question.
+
+If an intrusive human tactic exposes civilians to profound relational and psychological harm, what information does it uniquely provide that less intrusive methods cannot?
+
+```text
+INTELLIGENCE REQUIREMENT
+      ↓
 WHAT INFORMATION
-IS ACTUALLY REQUIRED?
-        ↓
-CAN LESS INTRUSIVE
-MEANS OBTAIN IT?
-        ↓
-IF NOT:
-WHY HUMAN INFILTRATION?
-        ↓
-IF HUMAN INFILTRATION:
-WHY SOCIAL INTIMACY?
-        ↓
-IF SOCIAL INTIMACY:
-WHY SEXUAL INTIMACY?
+IS ACTUALLY NEEDED?
+      ↓
+WHAT METHODS
+CAN PRODUCE IT?
+      ↓
+WHICH IS LEAST
+INTRUSIVE WHILE
+STILL EFFECTIVE?
+      ↓
+WHAT COLLATERAL
+HARM DOES EACH CREATE?
 ```
 
-If taxpayers are already funding an enormous technological surveillance apparatus, the state should have an exceptionally good explanation for why obtaining intelligence supposedly still requires an officer's dick.
+The existence of more technology is not an argument for more surveillance.
 
-That is not an argument against human intelligence.
+It is an argument for better discrimination between tools.
 
-It is an argument for **necessity to mean necessity**.
+And, occasionally:
+
+> **lads, we have quite a lot of spy technology now. Are we absolutely sure the penis remains mission-critical?**
+
+Show your working.
 
 ---
 
-## 15. ♻️ A Boundary Without Feedback Is Decorative
+## 23. ♻️ A Boundary Without Feedback Is Decorative
 
-This is where the linesman becomes a cybernetic object.
+A rule saying **do not do X** is not enough.
 
-A rule is not a functioning boundary merely because somebody wrote it down.
-
-```text
-BOUNDARY
-        ↓
-OBSERVATION
-        ↓
-BREACH DETECTED
-        ↓
-INFORMATION REPORTED
-        ↓
-INFORMATION BELIEVED
-        ↓
-CORRECTION
-        ↓
-SYSTEM LEARNS
-```
-
-Remove enough of those stages and:
+The institution needs to know whether X is happening.
 
 ```text
-POLICY:
-
-DO NOT CROSS LINE
-
-
-OPERATIONAL REALITY:
-
-¯\_(ツ)_/¯
+RULE
+  ↓
+TRAINING
+  ↓
+SUPERVISION
+  ↓
+REPORTING
+  ↓
+AUDIT
+  ↓
+COMPLAINT
+  ↓
+INVESTIGATION
+  ↓
+LEARNING
+  ↓
+RULE UPDATE
 ```
 
-Survivors became external sensors.
+Otherwise the line exists only on paper.
 
-Journalists became external sensors.
+This is where survivor testimony, litigation, journalism, public inquiries and institutional records become part of the same feedback system.
 
-Campaigners became external sensors.
+The people harmed by undercover policing should never have needed to become unpaid quality assurance for the British state.
 
-Litigation became an information-return mechanism.
+But once they did tell the state what happened, the information has to travel.
 
-The public inquiry became an enormous delayed attempt to reconstruct information the institution should have been capable of seeing much earlier.
+The worst possible signal is:
 
-This is why the current Home Office consultation matters.
+```text
+SPEAKING IS PAINFUL
+      +
+SPEAKING IS PUBLIC
+      +
+SPEAKING TAKES YEARS
+      +
+SPEAKING CHALLENGES
+POWERFUL INSTITUTIONS
+      +
+THE PROCESS MAY END
+BEFORE THE LESSON
+IS FINISHED
+```
 
-The government says the inquiry was originally expected to conclude within three years, has now run for more than a decade and has cost more than £138 million. Those are legitimate concerns.
+The better signal is:
 
-The consultation is about the future structure, scope and format of the remaining work, not a settled announcement that the inquiry will simply disappear.
+> **telling the truth changed something.**
 
-But what remains includes:
+That does not require preserving one exact inquiry mechanism forever regardless of cost or performance.
 
-- the NPOIU and its management and oversight;
-- other undercover policing beyond the SDS and NPOIU;
-- associated legal and regulatory frameworks;
-- and **current and future undercover-policing practice**.
+If another mechanism can finish the outstanding work faster and cheaper while preserving necessary powers, disclosure, survivor participation, authoritative findings and institutional learning, examine it.
 
-So if the mechanism changes, the essential question is:
+The obligation is not:
 
-> **Who is going to finish finding the lines?**
+**never alter the machinery.**
 
-Because an accountability process can be restructured.
+It is:
 
-The feedback function cannot safely be replaced with:
-
-> **we're pretty sure we've fixed it now.**
+**finish the work.**
 
 ---
 
-## 16. 🏏 Where Have All The Linesmen Gone?
+## 24. 🏏 So Where Have All The Linesmen Gone?
 
-This node is not saying:
+Perhaps some lines existed and were badly drawn.
 
-**all undercover policing is illegitimate.**
+Perhaps some were understood informally.
 
-It is not saying:
+Perhaps some managers did challenge conduct.
 
-**everything an undercover officer does is automatically state action.**
+Perhaps some officers concealed it.
 
-It is not saying:
+Perhaps some conduct was rationalised as necessary to cover.
 
-**every deceptive relationship constitutes coercive control.**
+Perhaps different periods, units and managers produced different answers.
 
-It is not saying:
+The Inquiry exists because we do not get to resolve all of that by vibe.
 
-**every deception automatically vitiates sexual consent under English criminal law.**
+But the constructive question is available now.
 
-It is not saying:
+Not:
 
-**every police officer shared the attitudes exposed by Spycops.**
+> **Which men should we publicly humiliate?**
 
-It is not saying:
+Not:
 
-**men are not allowed to have sexual lives, fantasies or complicated private selves.**
+> **Which historical officers were secretly monsters?**
 
-It is saying something narrower.
+Not:
 
-Police officers possess powers ordinary people do not.
+> **How do we make modern police less masculine?**
 
-Those powers exist because law and public authority create them.
+Try:
 
-Undercover policing deliberately conceals the officer's relationship to that authority from the person being observed.
+> **What kind of officer would you like to believe you would be when doing the right thing costs you something?**
 
-That concealment can be operationally legitimate.
+Then:
 
-**It cannot become a solvent that dissolves every other legal, ethical and institutional boundary around the officer.**
+> **What do you need now to make that person more likely to turn up when the moment actually comes?**
 
-And when intimacy enters the operation, the information problem becomes acute.
+That may mean:
 
-The woman cannot independently protect a boundary she has been deliberately prevented from seeing.
+- clearer boundaries;
+- better supervision;
+- permission to challenge;
+- colleagues who back dissent;
+- managers who can hear bad news;
+- professional cultures where changing your mind is not emasculating;
+- training built around genuinely grey choices rather than cartoon misconduct;
+- institutional memory;
+- routes for civilians to be heard;
+- systems that model people affected by operations rather than only operational objectives;
+- and senior leadership capable of saying **we got this wrong** without requiring everybody beneath them to choose between denial and self-annihilation.
 
-The state cannot solve that problem merely by authorising its own side of the interaction.
+There are men inside policing history who provide useful examples.
 
-Because:
+There are fictional policemen who provide useful dilemmas.
 
-> **the state can authorise its officer.**
+There are probably men sitting three desks away who provide better ones.
 
-> **it cannot authorise her consent.**
+Ask why you respect them.
 
-And because consent is a shitload of context, the concealed information matters.
+Ask where they failed.
 
-Who are you?
+Ask what you would want to do differently.
 
-Why are you here?
+Ask what you need to practise.
 
-Who sent you?
+And when the Inquiry produces a moment that makes you uncomfortable, do not automatically throw the discomfort away.
 
-What are you recording?
+Have a look at it.
 
-Where is my information going?
+Maybe you disagree.
 
-Is this relationship what I think it is?
+Maybe the criticism is unfair.
 
-Would I still be here if I knew?
+Maybe you have operational knowledge the critic does not.
 
-Those are not decorative facts around human autonomy.
+Maybe you were taught something different.
 
-They are some of the facts through which autonomy operates.
+Maybe you have just encountered a line you had never needed to see before.
 
-So when the badge becomes invisible, oversight should become **stronger**, not weaker.
+Good.
 
-When the person being observed cannot see the line, somebody else has to.
+**That is information.**
 
-When the institution's own systems fail to call it, survivors should not have to spend decades becoming the replacement officials.
+The point of the linesman is not to make everybody terrified to play.
 
-And when somebody finally produces uncomfortable evidence about where historical policing thought the boundary sat:
+It is to make the game possible.
 
-**grab it.**
+The line needs to be visible.
 
-Ask who else thought that.
+People need to know what happens when it is crossed.
 
-Ask who disagreed.
+And the person with the whistle needs to be able to call:
 
-Ask what the rules were.
-
-Ask what actually happened.
-
-Ask what management knew.
-
-Ask what changed.
-
-Ask how we know it changed.
-
-Ask who watches now.
-
-Because a boundary without detection and correction is decorative.
-
-And, fundamentally:
-
-🏏
-
-**OUT means OUT, lads.**
+# OUT.
 
 ---
 
 ## 🌌 Constellations
 
-- [☕️ What Was Spycops?](./☕️_what_was_spycops.md) — *sit down; unfortunately Britain has lore*
-- [🍉 The Guy Could Have Said Nothing](./🍉_bro_just_stfu.md) — *Roger Pearce, consent, culture, Palestine Action, and the boundary of the sayable*
-- [🗞️ What The Fuck Is Happening Right Now?](./🗞️_what_the_fuck_is_happening_right_now.md) — *the contemporary institutional pile-up*
-- [🤖 The Great Plausible Deniability Machine](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🤖_the_great_plausible_deniability_machine.md) — *what happens when bad news cannot travel safely*
-- [🛢️ Drilling For Souls](../../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🛢️_drilling_for_souls.md) — *information extraction, profiling and human interiority*
+🏏 🪪 🌸 🧠 ♻️ — state authority; consent and informational asymmetry; gendered operational boundaries; institutional unlearning; feedback and safer professional culture.
 
 ---
 
 ## ✨ Stardust
 
-- **Consent is a shitload of context.**
-- **The state can authorise its officer. It cannot authorise her consent.**
-- Police authority can make conduct lawful that an ordinary person could not lawfully undertake in the same circumstances.
-- That authority should not make potentially unlawful or abusive conduct invisible merely because it occurs inside an authorised operation.
-- False identity does not automatically establish coercive control; controlling or coercive behaviour is a contextual, patterned offence with specific statutory ingredients.
-- Sexual deception, criminal-law consent, survivor autonomy and institutional responsibility are related questions, but they are not identical questions.
-- **The woman was physically present in the operation. She was absent from the risk model.**
-- Personal and operational are not necessarily mutually exclusive categories.
-- Political women are still women.
-- The hidden badge does not make the state disappear.
-- Sarah Everard and Spycops are different cases; both demonstrate that information about police authority can radically alter the choices available to the person encountering it.
-- One man is not a culture. One man's frankness can expose a question about culture.
-- **A boundary without detection and correction is decorative.**
-- Survivors should not have to become the state's missing linesmen.
-- When the badge becomes invisible, oversight should become stronger.
-- 🏏 **OUT means OUT, lads.**
-
----
-
-## 🏮 Footer
-
-This node deliberately distinguishes **criminal-law classification**, **sexual autonomy**, **institutional responsibility**, and **ethical analysis**.
-
-Section 76 of the Serious Crime Act 2015 does not criminalise deception in an intimate relationship by itself. The controlling or coercive behaviour offence requires repeated or continuous controlling or coercive conduct, personal connection, a statutorily defined serious effect, and knowledge or constructive knowledge of that effect. Other offences may be relevant depending on the facts.
-
-Likewise, current English law does not treat every deception surrounding sexual activity as automatically vitiating consent. The *Monica* litigation concerning undercover policing illustrates the narrower criminal-law position. Nothing in this node substitutes an ethical or survivor-autonomy analysis for a criminal finding.
-
-References to institutional culture do not imply that every officer shared a particular belief. They identify questions that evidence about senior officers, management, supervision and historical practice makes legitimate to investigate.
-
-The Home Office's 2026 consultation concerns the future **structure, scope and format** of the remaining Undercover Policing Inquiry. It is not described here as a settled decision to abolish the inquiry.
+undercover policing, spycops, consent, sexual deception, state power, police authority, policing culture, coercive control, institutional learning, masculinity, safer masculine leadership, professional ethics, supervision, collateral intrusion, survivor testimony, Kate Wilson, Roger Pearce, Sarah Everard, accountability, feedback, Life on Mars, Ashes to Ashes, Whitechapel
 
 ---
 
 ## 📚 Media + Primary References
 
-### 🌸 Spycops, consent + sexual relationships
-
-- [Undercover Policing Inquiry: Counsel to the Inquiry, Tranche 1 Phase 3 Opening Statement](https://www.ucpi.org.uk/wp-content/uploads/2022/05/20220508-CTIs_T1P3_Opening_Statement.pdf) — inquiry material recording an undercover officer's evidence that a woman did not know he was a police officer and that he suspected she would not have consented had she known.
-- [Undercover Policing Inquiry: Opening Statement for Category H Core Participants](https://www.ucpi.org.uk/wp-content/uploads/2020/11/20201023-Opening_Statement-Bindmans_Cat_H_CPs-HWQC.pdf) — includes Sarah Hampton's evidence that she would not have consented to the sexual element of her relationship with Mark Kennedy but for his misrepresentations.
-- [Police Spies Out of Lives: Metropolitan Police apology](https://policespiesoutoflives.org.uk/the-case-overview/text-of-apology-from-met-police/) — apology describing the relationships as abusive, deceitful, manipulative and wrong and acknowledging abuse of police power.
-- [BAILII: *R (Monica) v Director of Public Prosecutions* [2018] EWHC 3508 (Admin)](https://www.bailii.org/ew/cases/EWHC/Admin/2018/3508.html) — important authority on deception and sexual consent in the undercover-policing context.
-- [UK Parliament Hansard: Conduct of Undercover Policing and Surveillance Operatives Bill, 17 July 2026](https://hansard.parliament.uk/Lords/2026-07-17/debates/3D09AF61-8761-4D72-B020-D9467FE52580/ConductOfUndercoverPolicingAndSurveillanceOperativesBill%28HL%29) — recent parliamentary discussion of the legal position and proposed reform.
-
-### 🏠 Controlling or coercive behaviour
-
-- [Home Office: Controlling or coercive behaviour — statutory guidance framework](https://www.gov.uk/government/publications/controlling-or-coercive-behaviour-statutory-guidance-framework/controlling-or-coercive-behaviour-statutory-guidance-framework-accessible) — section 76 requirements; repeated or continuous behaviour, serious effect, personal connection, context, perpetrator tactics, sexual coercion and related offences.
-- [Home Office: Domestic Abuse — statutory guidance](https://www.gov.uk/government/publications/domestic-abuse-act-2021/domestic-abuse-statutory-guidance-accessible-version) — wider statutory framework for controlling or coercive behaviour and domestic abuse.
-
-### 🚔 Sarah Everard, police power + institutional culture
-
-- [Angiolini Inquiry: Part 1 Report](https://www.gov.uk/government/publications/angiolini-inquiry-part-1-report) — examines Wayne Couzens's abuse of his position as a police officer, the circumstances surrounding Sarah Everard's murder, missed opportunities and police workplace culture.
-- [Metropolitan Police: Baroness Casey Review — Final Report](https://www.met.police.uk/SysSiteAssets/media/downloads/met/about-us/baroness-casey-review/update-march-2023/baroness-casey-review-march-2023a.pdf) — finds institutional sexism in the Met and documents misogyny, sexual harassment, reporting barriers and failures of culture and standards.
-
-### 🍉 Pearce + current policing position
-
-- [Novara Media: “Spycops Could Be Authorised to Have Sex With Palestine Action Activists, Says Ex-Special Branch Chief”](https://novaramedia.com/2026/09/17/spycops-could-be-authorised-to-have-sex-with-palestine-action-activists-says-ex-special-branch-chief/) — reports Pearce's evidence and the Metropolitan Police and College of Policing responses rejecting his interpretation.
-
-### 🏛️ Future of the inquiry
-
-- [Home Office: Future of the Undercover Policing Inquiry](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry) — 2026 consultation on the future structure, scope and format of the inquiry.
-- [Home Office: Consultation on the future of the Undercover Policing Inquiry](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry/consultation-on-the-future-of-the-undercover-policing-inquiry) — sets out the inquiry's history, cost, remaining Tranches 4 and 5 and Module 3, and the government's stated objectives of accountability, learning and reform.
+- [Metropolitan Police: *The Met and the Undercover Policing Inquiry*](https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/about-us/undercover-policing-inquiry/Undercover-Policing-Inquiry-further-information.pdf) — includes the Met's 2015 apology to women deceived into long-term intimate relationships, its acknowledgement of abuse of police power, and failures of supervision and management.
+- [Courts and Tribunals Judiciary: *Wilson v Commissioner of Police of the Metropolis* — judgment summary](https://www.judiciary.uk/wp-content/uploads/2022/07/Wilson-v-MPS-Summary.pdf) — summary of the Investigatory Powers Tribunal's findings concerning Kate Wilson, Mark Kennedy, intimate deception, intelligence gathering and Convention rights.
+- [Courts and Tribunals Judiciary: *Wilson v Commissioner of Police of the Metropolis* — judgment](https://www.judiciary.uk/judgments/wilson-v-mps/) — full Tribunal decision.
+- [Metropolitan Police: *Met/NPCC statement — compensation awarded in Investigatory Powers Tribunal case*](https://news.met.police.uk/news/met-slash-npcc-statement-compensation-awarded-in-investigatory-powers-tribunal-case-441221) — Met acknowledgement that Kennedy's sexual relationship was wrong, was not an authorised tactic, and exposed serious supervision and oversight failures.
+- [Undercover Policing Inquiry: Counsel to the Inquiry opening statement, Tranche 2 Phase 1](https://ucpi.org.uk/wp-content/uploads/2024/07/240701-CTI-Opening-Statement-for-Tranche-2-Phase-1-and-Annexes.pdf) — primary Inquiry material on SDS deployments, Roger Pearce and the wider management and intelligence environment.
+- [Undercover Policing Inquiry: *No anonymity sought for Roger Pearce*](https://www.ucpi.org.uk/wp-content/uploads/2017/03/20170329-press-notice-Pearce.pdf) — Inquiry identification of Pearce as a former SDS undercover officer using the cover identity Roger Thorley.
+- [Novara Media: *Spycops Could Be Authorised to Have Sex With Palestine Action Activists, Says Ex-Special Branch Chief*](https://novaramedia.com/2026/09/17/spycops-could-be-authorised-to-have-sex-with-palestine-action-activists-says-ex-special-branch-chief/) — reporting on Pearce's 15 July 2026 evidence and the subsequent Met and College of Policing rebuttals; used here as a media report of the live current collision, not as proof that such activity occurred.
+- [Home Office: *Future of the Undercover Policing Inquiry*](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry) — 2026 consultation on the future structure, scope and format of the Inquiry's remaining work.
+- [Metropolitan Police: *Undercover Policing Inquiry*](https://www.met.police.uk/police-forces/metropolitan-police/areas/about-us/about-the-met/undercover-policing-inquiry/) — current Met description of the Inquiry and the issues it is examining, including sexual relationships, deceased children's identities and management of deployments.
+- [London Assembly: *Spycops changes*](https://www.london.gov.uk/who-we-are/what-london-assembly-does/questions-mayor/find-an-answer/spycops-changes) — 2026 account of reforms the Met says have been made to undercover policing.
+- [Police Spies Out of Lives: *Tranche 2 Phase 1 — Week 2 Roundup*](https://policespiesoutoflives.org.uk/public-inquiry-tranche-2-phase-1-week-2-roundup/) — affected-person/campaign perspective on the 2024 Pearce evidence and related Inquiry hearings; included as a clearly situated campaign source rather than neutral adjudication.
 
 ---
 
-[↑ Back to top](#-where-have-all-the-linesmen-gone)
+## 🏮 Footer
+
+*🏏 Where Have All The Linesmen Gone?* is the conceptual centre of **Krakens Against Spycops**. It asks where the boundaries sit between officer and man, operation and intimacy, authority and consent, historical culture and present learning — and how institutions can make better conduct easier before the difficult moment arrives.
+
+> 📡 Cross-references:
+>
+> - [☕️ What Was Spycops?](./☕️_what_was_spycops.md) — *historical evidential floor*
+> - [🍉 Bro, Just STFU](./🍉_bro_just_stfu.md) — *the September 2026 collision between frank Inquiry evidence, public communication and the current political environment*
+> - [🗞️ What The Fuck Is Happening Right Now?](./🗞️_what_the_fuck_is_happening_right_now.md) — *compact current-state dashboard*
+>
+> 🏮 Return To:
+>
+> - [🦑 Krakens Against Spycops](./README.md) — *1up*
+> - [🌸 Digitally Women](../README.md) — *2up*
+> - [🌱 Prosocial Roots](../../README.md) — *3up*
+> - [📲 Press Matters](../../../README.md) — *4up*
+> - [🌓 In The Moment](../../../../README.md) — *5up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-09-20_
