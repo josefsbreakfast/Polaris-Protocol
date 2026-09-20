@@ -1,1 +1,731 @@
+# 🪖 Army Training + 🛸 Drone Wars — Working Notes
 
+- Existing home:
+  - `🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/`
+  - The core issue is the **training deficit / force-generation problem**.
+  - This was never an argument against:
+    - drones;
+    - AI;
+    - simulation;
+    - virtual environments;
+    - autonomous/uncrewed systems;
+    - new battlefield technology.
+  - The existing argument is much closer to:
+    - use the new technology where it is actually useful;
+    - train people properly to use it;
+    - integrate it into existing military capability;
+    - do not mistake possession of technology for possession of capability;
+    - do not discard the considerable human talent, experience and institutional knowledge the Army already has.
+
+---
+
+## 🩺 Existing Presenting Complaint
+
+- September 2026 reporting indicated that the Army was looking for approximately **£30 million of in-year savings**.
+- Major collective-training activity was reportedly among the expenditure being curtailed.
+- Training directly connected to:
+  - deployments;
+  - readiness;
+  - rapid-response requirements;
+  - operational commitments;
+  was being protected.
+- The Army has **not stopped training**.
+- The important question has always been:
+  - what training has stopped?
+  - what capability did it generate?
+  - what is replacing it?
+  - what operational/readiness risk is created by removing it?
+  - who assessed that risk?
+  - who formally accepted it?
+
+- This matters because:
+  - individual competence is not collective competence;
+  - collective competence has to be practised;
+  - combat skills fade;
+  - collective training progresses through increasingly complex levels;
+  - sections/platoons/companies/battlegroups/brigades do not become competent merely because their individual members are competent.
+
+- Existing useful formulation:
+
+  > **The price of an activity and the value of that activity are different things.**
+
+- Another existing formulation:
+
+  > **The casualty that never happens because a unit rehearsed the situation properly has no invoice.**
+
+- Preparedness frequently produces **absent events**.
+- Those absent events are difficult to count in a budget.
+
+---
+
+## 🪖 What Collective Training Actually Generates
+
+- Collective training potentially generates:
+  - command practice;
+  - team cohesion;
+  - communications practice;
+  - logistics rehearsal;
+  - equipment integration;
+  - combined-arms integration;
+  - familiarity between units;
+  - identification of failure points;
+  - adaptation to changing doctrine;
+  - repeated practice;
+  - trust;
+  - tacit knowledge;
+  - understanding of how other people actually behave under pressure;
+  - opportunities to make mistakes without making them operationally.
+
+- Military competence contains knowledge that is:
+  - procedural;
+  - relational;
+  - embodied;
+  - contextual;
+  - partially tacit.
+
+- Soldiers need opportunities to discover:
+  - how other people move;
+  - how commanders behave;
+  - where communications break;
+  - how equipment interacts;
+  - how plans fail;
+  - how rapidly mistakes propagate;
+  - what another person is likely to do without requiring a lengthy explanation.
+
+---
+
+## 🤖 Technology Is Not The Enemy Here
+
+- The Training Debrief already explicitly rejects a false choice between:
+  - modern/synthetic/AI-assisted training;
+  - live and collective training.
+
+- AI, simulation and virtual training may:
+  - increase repetitions;
+  - expose personnel to more scenarios;
+  - improve decision training;
+  - allow experimentation;
+  - reduce some costs;
+  - allow some activities that would otherwise be impractical.
+
+- The 2025 Strategic Defence Review itself uses an **augmentation model**:
+  - advanced simulation can make training more effective and efficient;
+  - live firing remains essential to assuring fighting capability;
+  - training must be a strategic and institutional priority for restoring readiness.
+
+- Existing Training Debrief question:
+
+  > **Is technology augmenting collective competence, or financially substituting for activities whose important functions it cannot reproduce?**
+
+- That requires evidence.
+- We should not assume either:
+  - synthetic training can replace everything;
+  - or synthetic training is inherently inferior.
+
+---
+
+## 💷 September 2026 Training Restriction — New Evidence
+
+- Parliamentary questioning has made the original reporting somewhat firmer.
+- Ben Obese-Jecty asked about:
+  - the scope of the directive affecting collective training;
+  - cancellation of Royal Tank Regiment live-firing;
+  - whether the Defence Secretary made a decision on **3 September 2026** to stop collective training above sub-unit level.
+
+- MOD subsequently confirmed that the Royal Tank Regiment exercise was cancelled following a **wider Defence direction** concerning training priorities.
+
+- The government has not clearly answered:
+  - the complete scope of that direction;
+  - whether "above sub-unit level" accurately describes it;
+  - whether the Defence Secretary personally made the 3 September decision;
+  - the complete decision chain;
+  - the complete readiness assessment;
+  - who formally accepted the resulting risk.
+
+- The ministerial answer instead emphasised:
+  - spending prioritisation;
+  - greatest operational effect;
+  - protection of readiness;
+  - operational commitments;
+  - safety-critical activity;
+  - NATO commitments.
+
+- Politically/communicatively, that answer does **not acknowledge the training reduction as an obvious problem requiring a detailed explanation**.
+- Its basic institutional stance is:
+  - prioritisation is occurring;
+  - important activity is protected;
+  - the system is therefore functioning as intended.
+
+- That does not establish that there is no training deficit.
+- It means the government has not yet publicly demonstrated:
+  - what capability has been lost;
+  - what replaces it;
+  - why the trade-off is acceptable.
+
+---
+
+## 👩‍✈️ Ministerial Accountability / Louise Sandher-Jones
+
+- Louise Sandher-Jones has significant relevant military/intelligence experience.
+- The criticism was **not**:
+  - she is unqualified;
+  - she should not answer Defence questions;
+  - a woman cannot front Defence policy.
+
+- Almost the reverse:
+  - she possesses considerable relevant expertise;
+  - that expertise gives her credibility;
+  - attaching her publicly to an evasive/non-responsive answer potentially spends that credibility on a decision whose provenance has not been explained.
+
+- Useful distinction:
+  - **minister responsible for answering for the department**
+  - versus
+  - **person/people who actually made or owned the decision**.
+
+- Open question:
+  - who was closest to the decision-making apparatus when collective training was restricted?
+  - who recommended the decision?
+  - who approved it?
+  - who accepted the risk?
+
+- Political optics question:
+  - who fronts attractive strategic announcements?
+  - who is sent out to administer/explain painful consequences?
+
+- Do not silently turn that into a proved claim about motive.
+- But the distribution of public responsibility is itself observable and worth tracking.
+
+---
+
+## 💷 Wider Political Problem
+
+- Defence policy says:
+  - readiness matters;
+  - training matters;
+  - warfighting readiness must improve;
+  - Britain must adapt to lessons from Ukraine;
+  - technology must modernise;
+  - NATO requirements must be met.
+
+- Meanwhile:
+  - collective training has been curtailed in response to affordability pressure.
+
+- The important question is therefore not simply:
+
+  > **Is Britain spending enough on Defence?**
+
+- It is:
+
+  > **What does Britain expect the Armed Forces to do, and what system is actually required to produce that capability reliably?**
+
+- Then:
+  - what does that system cost?
+  - what happens when one apparently flexible component is removed?
+  - are savings being made because an activity is strategically least valuable?
+  - or because it is administratively easiest to stop?
+
+- Existing hypothesis:
+
+  > **financial flexibility becoming capability vulnerability**
+
+- Still a hypothesis.
+- Needs evidence about:
+  - delegated budgets;
+  - spending categories;
+  - contractual commitments;
+  - alternatives considered;
+  - Army Command advice;
+  - ministerial decisions.
+
+---
+
+# 🛸 DRONE WARS
+
+## 🛸 What Happened
+
+- British Army held a **Drone Wars** competition at Sandhurst.
+- Organised through / closely associated with **16 Air Assault Brigade**.
+- 16 Air Assault Brigade has a significant role in developing Army practice for operating **with and against drones**.
+- Reporting differs slightly on participation:
+  - *Sunday Times*: 24 teams of four;
+  - Forces News: 23 teams entered.
+- Preserve that discrepancy rather than silently harmonising it.
+
+- Teams came from across the existing Army.
+- Reported participants included:
+  - Gurkhas;
+  - paratroopers;
+  - Royal Tank Regiment drone specialists;
+  - Infantry Battle School personnel;
+  - Ranger Regiment personnel;
+  - other Army teams.
+
+- Overall winner reported as a combined **2nd and 4th Battalion Ranger Regiment** team.
+
+- Important:
+  - this was not a newly created class of Future Drone People™;
+  - existing soldiers were being exposed to new tactical problems and technologies.
+
+---
+
+## 🏃 Exercise Structure
+
+- Forces News compared it to **Cambrian Patrol with drones**.
+- Teams followed an approximately **six-hour patrol route**.
+- There were **six missions**.
+- Reported structure:
+  - approximately 30 minutes to move between tasks;
+  - approximately 30 minutes to complete each task.
+
+- This introduces:
+  - physical movement;
+  - time pressure;
+  - tactical decision-making;
+  - fatigue;
+  - survivability;
+  - teamwork;
+  - technology employment.
+
+- It therefore wasn't simply:
+
+  > **Can you fly a drone?**
+
+- It was closer to:
+
+  > **Can you use a drone to solve a military problem while still behaving like a soldier?**
+
+---
+
+## 🎮 Reported Tasks
+
+- Reported tasks included:
+  - flying a drone into a bunker;
+  - aerial reconnaissance ahead of an infantry attack;
+  - FPV attack against a moving vehicle;
+  - ISR-related tasks;
+  - concealment;
+  - deception;
+  - avoiding detection;
+  - operating around thermal detection / signatures.
+
+- Exact public descriptions of all six tasks should be preserved if we can locate them.
+- Do not assume every task has yet been fully reported.
+
+---
+
+## 🌳 Deliberately Making Drone Operation Difficult
+
+- The exercise did not appear designed around ideal hobby-drone conditions.
+- Operators worked:
+  - from concealment;
+  - around trees/obstacles;
+  - with interference to links/video;
+  - while needing to manage their own detectability.
+
+- This matters because:
+  - technical piloting proficiency is only one component;
+  - military drone employment occurs inside a hostile environment.
+
+- The problem becomes:
+  - fly;
+  - observe;
+  - interpret;
+  - communicate;
+  - remain concealed;
+  - manage signatures;
+  - complete the tactical task;
+  - survive.
+
+---
+
+## ☂️ Low-Tech Adaptation Still Matters
+
+- Reporting described improvised solutions including **umbrellas used in relation to thermal concealment**.
+
+- Useful conceptual point:
+  - future warfare does not mean every useful adaptation is high-tech;
+  - new technological environments can make very simple physical adaptations valuable.
+
+- Competition potentially creates space for:
+  - improvisation;
+  - experimentation;
+  - bottom-up problem-solving.
+
+- Useful vibe:
+
+  > **Have we tried... umbrella?**
+
+---
+
+## 🚙 Moving Vehicle / BRDM Task
+
+- One reported task used a full-size mock-up of a **BRDM-type Soviet-designed armoured reconnaissance vehicle**.
+- Built around a Unimog chassis.
+- Reportedly included:
+  - fibreglass vehicle body;
+  - cage protection representative of anti-drone protection;
+  - modified exhaust arrangements;
+  - attempts to provide representative optical/thermal signatures.
+
+- Purpose:
+  - give FPV operators something more representative than a static cardboard target.
+
+- Reported scoring:
+  - **4 points** — preferred target area;
+  - **2 points** — vehicle hit;
+  - **0 points** — miss.
+
+- At the point Forces News observed:
+  - all 11 teams that had attempted the task had reportedly hit the vehicle;
+  - five had hit the preferred target area.
+
+- Useful distinction:
+  - successful contact with a target is not necessarily equal performance;
+  - exercise design can discriminate between levels of tactical/technical proficiency.
+
+---
+
+## 🎯 What Drone Wars Was Actually Testing
+
+- Public language emphasised:
+  - speed;
+  - precision;
+  - lethality.
+
+- But the exercise appears to test a wider bundle:
+  - drone piloting;
+  - FPV control;
+  - reconnaissance;
+  - target identification;
+  - tactical judgement;
+  - concealment;
+  - deception;
+  - signature management;
+  - teamwork;
+  - adaptation;
+  - time management;
+  - degraded communications;
+  - decision-making under pressure.
+
+- Useful ladder:
+
+  > **technical proficiency ≠ tactical proficiency ≠ collective military capability**
+
+- Drone racing can develop:
+  - speed;
+  - precision;
+  - control.
+
+- Drone Wars tries to place those technical abilities inside:
+  - tactical problems;
+  - contested environments;
+  - military objectives.
+
+---
+
+## 🧠 Competition As A Learning Mechanism
+
+- Brigadier Ed Cartwright's explanation is important.
+- Competition is being used deliberately to **accelerate adaptation**.
+- Logic appears to be something like:
+
+  > **competition → pressure → experimentation → visible variance → identify talent/good practice → organisational learning**
+
+- The useful output is therefore not simply:
+  - who won?
+
+- Better questions:
+  - who solved particular problems unusually well?
+  - which techniques emerged?
+  - which approaches failed?
+  - what did different Army cultures/units do differently?
+  - which adaptations were transferable?
+  - which depended on particular individuals?
+  - what did organisers learn that they did not already expect?
+  - how are lessons captured?
+  - how are they disseminated?
+
+- Do **not** infer:
+  - Ranger Regiment won therefore Rangers are objectively the Army's best drone soldiers.
+- It was:
+  - one competition;
+  - six particular tasks;
+  - one scoring architecture;
+  - one set of participants;
+  - one moment in a rapidly changing field.
+
+- Their performance raises questions rather than closing them.
+
+---
+
+## 🧑‍🏫 Talent Discovery
+
+- This directly connects to our earlier discussion.
+
+- The Army already contains:
+  - experienced soldiers;
+  - tactically skilled personnel;
+  - engineers;
+  - technically minded personnel;
+  - people with civilian technical skills;
+  - reservists with relevant civilian experience;
+  - people with aptitude that may not have been visible under previous training systems.
+
+- New capability does not necessarily require:
+  - abandoning existing personnel;
+  - treating previous military experience as obsolete;
+  - inventing an entirely separate technological warrior caste.
+
+- Alternative model:
+
+  > **Find the talent already inside the system. Give people the new tools. Train them. See who adapts. Develop them further. Spread what works.**
+
+- Drone Wars appears broadly compatible with that model.
+
+---
+
+## 🪖 Existing Soldiering Skills Still Matter
+
+- Drone warfare does not abolish:
+  - fieldcraft;
+  - concealment;
+  - reconnaissance;
+  - tactical judgement;
+  - communication;
+  - leadership;
+  - logistics;
+  - teamwork;
+  - terrain understanding;
+  - adaptation under pressure.
+
+- It changes the environment in which those skills operate.
+
+- Persistent aerial observation makes:
+  - concealment more difficult;
+  - movement more observable;
+  - signatures more dangerous;
+  - mistakes potentially more rapidly punishable.
+
+- Therefore the adaptation problem is often:
+
+  > **existing skill + changed environment + new tool**
+
+- Not:
+
+  > **old soldier bad; drone boy good.**
+
+---
+
+## 🔄 The Important Next Step
+
+- Drone Wars appears to move soldiers from:
+  - technical proficiency;
+  toward
+  - tactical proficiency.
+
+- The Training Debrief question then becomes:
+
+  > **How does that knowledge become collective competence?**
+
+- Finding 4 excellent people does not automatically generate:
+  - a competent platoon;
+  - company;
+  - battlegroup;
+  - brigade.
+
+- Knowledge has to travel.
+
+- Questions:
+  - Do winners/participants become instructors?
+  - Are lessons codified?
+  - Do units receive revised training packages?
+  - Does doctrine change?
+  - Are techniques trialled elsewhere?
+  - Does 16 Air Assault Brigade act as a dissemination hub?
+  - Are training establishments receiving the lessons?
+  - How rapidly can useful practice spread?
+  - How do they prevent useful improvisation becoming rigid doctrine too early?
+  - How do they distinguish genuinely transferable practice from something that merely scored well in the competition?
+
+---
+
+## 🌍 Possible Future Expansion
+
+- Reporting indicates an ambition to develop future Drone Wars iterations toward:
+  - tri-service participation;
+  - eventually international participation.
+
+- Potential learning architecture:
+
+  > **Army units → inter-service competition → allied competition → comparison of different training/doctrinal cultures**
+
+- Potential value:
+  - expose different assumptions;
+  - reveal different solutions;
+  - identify transferable techniques;
+  - accelerate adaptation;
+  - create shared understanding with allies.
+
+- But:
+  - competition design matters;
+  - scoring determines behaviour;
+  - participants may optimise for the exercise rather than war;
+  - lessons therefore still require validation elsewhere.
+
+---
+
+# 🔗 Where Drone Wars Meets The Training Deficit
+
+- The correct connection is **not**:
+
+  > training is being cut but look, they're wasting time playing with drones.
+
+- Drone Wars appears potentially useful.
+
+- The connection is:
+
+  > **Successful technological modernisation creates additional training and integration requirements.**
+
+- New drones create requirements for:
+  - operators;
+  - instructors;
+  - maintainers;
+  - commanders who understand their use;
+  - reconnaissance integration;
+  - fires integration;
+  - airspace management;
+  - communications;
+  - electronic-warfare understanding;
+  - counter-UAS;
+  - concealment/signature management;
+  - logistics;
+  - doctrine;
+  - collective practice.
+
+- Therefore:
+
+  > **Modernisation does not necessarily reduce the training requirement. It can increase its complexity.**
+
+- This is why:
+  - drone acquisition is not drone capability;
+  - individual drone qualification is not tactical capability;
+  - tactical drone proficiency is not formation-level competence.
+
+- Eventually everybody has to practise together.
+
+---
+
+## 🏞️ Training Estate
+
+- Training estate belongs in the same system.
+- MOD has itself described suitable and accessible training estate as an enabler of:
+  - force generation;
+  - readiness;
+  - Regular training;
+  - Reserve training.
+
+- Modernisation can change estate requirements rather than eliminate them.
+
+- Drone-era training may require environments suitable for:
+  - longer-range observation;
+  - contested movement;
+  - signature management;
+  - realistic target systems;
+  - counter-UAS;
+  - EW;
+  - live/synthetic integration;
+  - combined-arms activity.
+
+- MOD has been adapting parts of the estate to contemporary warfare, including Ukraine-style trench infrastructure at Salisbury Plain and STANTA.
+
+- Therefore:
+
+  > **modernisation requires estate; it does not abolish estate.**
+
+- Separate investigation needed into:
+  - estate availability;
+  - utilisation;
+  - disposals;
+  - access;
+  - capacity;
+  - geographic suitability;
+  - infrastructure;
+  - competing civilian/military pressures.
+
+---
+
+# 🔬 Questions Drone Wars Has Now Given Us
+
+- What were **all six tasks**?
+- What was the complete scoring rubric?
+- Who designed each task?
+- What Ukraine evidence informed them?
+- Which units entered?
+- Why were those units selected?
+- Was participation voluntary/competitive/assigned?
+- What prior drone experience did teams have?
+- What training did competitors receive beforehand?
+- What equipment was standardised?
+- Could teams bring their own systems/modifications?
+- How much freedom did teams have to improvise?
+- How were concealment/deception scored?
+- How was survivability assessed?
+- Was EW actually used or simulated?
+- Were communications deliberately degraded?
+- Were teams assessed on information handling as well as piloting?
+- What happened to reconnaissance information once collected?
+- Did tasks require interaction with non-drone elements?
+- What specifically distinguished the Ranger team?
+- What did weaker teams struggle with?
+- Were unexpected techniques discovered?
+- What lessons have already been adopted?
+- Who owns lesson capture?
+- How will lessons reach ordinary units?
+- Will lessons change doctrine?
+- Will lessons change procurement?
+- Will lessons change training-estate requirements?
+- When is Drone Wars being repeated?
+- What changes will be made next time?
+- How will tri-service participation work?
+- Which allies might participate?
+- How will competition-derived techniques be validated under larger collective-training conditions?
+
+---
+
+# 🧿 Current Working Assessment
+
+- Drone Wars currently looks like a **potentially sensible experimental training intervention**.
+- It appears to:
+  - use existing Army talent;
+  - expose personnel to emerging battlefield problems;
+  - reward adaptation;
+  - combine technical and tactical proficiency;
+  - allow bottom-up experimentation;
+  - create observable differences in performance.
+
+- It does **not** answer the wider collective-training problem.
+
+- Instead it gives us a particularly clear example of why that problem matters:
+
+  > **Finding the best solution in an experiment is only useful if the institution can learn it, distribute it, practise it and integrate it.**
+
+- Or, less politely:
+
+  > **Cool. You found the good drone lads.**
+  >
+  > **Now train the fucking Army.**
+
+---
+
+# 📚 Sources Already In Play
+
+- *The Sunday Times* — “‘Drone Wars’ seek to uncover the best fighters of the future”
+- Forces News — British Army Drone Wars / killer-drone challenge reporting
+- Forces News — Army counter-drone training shift
+- GOV.UK — Army Collective Training Service / AI battle lab
+- GOV.UK — Strategic Defence Review 2025
+- MOD — *Environmental Appraisal of the Need for Military Training*
+- UK Parliament — *Ready for War?*
+- UK Parliament — September 2026 Army-training written questions
+- British Army / *Soldier* — UAS training and contemporary Army drone material
+- MOD / GOV.UK — Defence Training Estate modernisation material
