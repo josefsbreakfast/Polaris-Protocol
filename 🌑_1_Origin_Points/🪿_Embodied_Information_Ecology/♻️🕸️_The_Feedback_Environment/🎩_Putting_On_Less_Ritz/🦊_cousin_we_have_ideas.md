@@ -22,7 +22,9 @@ These are not necessarily silly questions.
 
 They are, however, very large questions to ask before establishing whether somebody already has a department for half the problem.
 
-The world has spent most of the last century living with technologies, weapons, industries and political conflicts which were repeatedly described — sometimes quite reasonably — as capable of producing catastrophic outcomes. Nuclear weapons did not become manageable because everybody became friends. Chemical weapons did not require every state to share a political system. Food safety does not require every country to have the same agricultural ministry. International aviation does not work because pilots personally trust every foreign regulator.
+The world has spent most of the last century living with technologies, weapons, industries and political conflicts which were repeatedly described — sometimes quite reasonably — as capable of producing catastrophic outcomes.  
+Nuclear weapons did not become manageable because everybody became friends. Chemical weapons did not require every state to share a political system.  
+Food safety does not require every country to have the same agricultural ministry. International aviation does not work because pilots personally trust every foreign regulator. 
 
 Human beings have instead spent an extraordinary amount of time constructing **institutions, standards, inspections, reporting systems, licensing regimes, review procedures, emergency contacts, treaties, technical committees and extremely boring forms**.
 
@@ -30,13 +32,19 @@ This does not make the underlying danger disappear.
 
 It makes parts of the danger administrable.
 
-AI is now colliding with an international system that already contains a great deal of regulatory machinery, while also exposing places where that machinery does not join up particularly well. The problem is therefore not simply:
+AI is now colliding with an international system that already contains a great deal of regulatory machinery, while also exposing places where that machinery does not join up particularly well.  
+
+The problem is therefore not simply:
 
 > **How do we regulate AI?**
 
 It is also:
 
-> **Which parts are already regulated? Why is existing regulation not being enforced? Which institution already owns each problem? Where do territorial systems fail to match a transnational computational environment? And what genuinely remains once everything routable has been routed?**
+> **Which parts are already regulated?  
+> Why is existing regulation not being enforced?  
+> Which institution already owns each problem?  
+> Where do territorial systems fail to match a transnational computational environment?  
+> And what genuinely remains once everything routable has been routed?**  
 
 This node is a working proposal for thinking about that problem.
 
@@ -44,9 +52,9 @@ It is not a claim that everybody will agree.
 
 It is almost the opposite.
 
-> 🦊 **Good news, chaps. Nobody actually needs to like anybody.**
+> 🦊 **Good news, chaps. Nobody actually needs to like anybody.**  
 >
-> **We merely need to solve the problem.**
+> **We merely need to solve the problem.**  
 
 The fox is a parody of Britain, because Britain has been styled as a fox before, because British diplomacy has accumulated both a reputation for institutional ingenuity and a perfectly understandable reputation for being slippery as fuck, and because sometimes the most useful contribution Britain can make to an impossible geopolitical argument is to arrive carrying paperwork and ask whether everyone could please stop making the admin worse.
 
@@ -235,7 +243,9 @@ It may also be considerably more useful.
 
 ## 🌐 4. Territorial States, Transnational Computation
 
-The European Union has developed a dense regional regulatory environment around data, platforms, digital markets and AI. China has developed its own cybersecurity, algorithmic, data and AI rules. The United States has a different mixture of federal, state, sectoral, security and general-purpose law.
+The European Union has developed a dense regional regulatory environment around data, platforms, digital markets and AI.  
+China has developed its own cybersecurity, algorithmic, data and AI rules.  
+The United States has a different mixture of federal, state, sectoral, security and general-purpose law.
 
 The exact legal architectures differ.
 
@@ -261,7 +271,8 @@ The system says:
 
 This is not an argument for abolishing territorial regulation.
 
-National and regional institutions are where much of the coercive legal power actually lives: compulsory disclosure, licensing, fines, inspections, deployment restrictions, procurement rules, judicial review.
+National and regional institutions are where much of the coercive legal power actually lives:  
+compulsory disclosure, licensing, fines, inspections, deployment restrictions, procurement rules, judicial review.
 
 The missing infrastructure is often **the interface between territorial systems**.
 
@@ -281,7 +292,8 @@ How does a novel capability get routed into an existing specialist regime?
 
 And what happens when something genuinely belongs to nobody yet?
 
-The UN's Global Digital Compact already calls for coordination and compatibility between emerging AI-governance frameworks and for interoperable AI standards. The UN's Independent International Scientific Panel on AI and Global Dialogue on AI Governance now provide separate scientific and deliberative machinery rather than one global enforcement regulator.
+The UN's Global Digital Compact already calls for coordination and compatibility between emerging AI-governance frameworks and for interoperable AI standards.  
+The UN's Independent International Scientific Panel on AI and Global Dialogue on AI Governance now provide separate scientific and deliberative machinery rather than one global enforcement regulator.
 
 The international system is therefore already moving towards a **distributed** model.
 
@@ -331,7 +343,8 @@ That is a considerably more manageable problem statement.
 
 People have spent generations hearing that the world may end.
 
-The twentieth century supplied world wars, nuclear confrontation and repeated fears of civilisation-scale catastrophe. The twenty-first has already supplied terrorism, financial crises, pandemics, climate disruption, warfare and recurring political instability.
+The twentieth century supplied world wars, nuclear confrontation and repeated fears of civilisation-scale catastrophe.  
+The twenty-first has already supplied terrorism, financial crises, pandemics, climate disruption, warfare and recurring political instability.  
 
 So when somebody says:
 
@@ -1427,7 +1440,8 @@ That looks like a setup-to-fail problem.
 
 A more plausible first stage is a **recurring forum with standing technical and diplomatic machinery**.
 
-The UN Global Dialogue on AI Governance already provides part of this landscape: a universal forum involving governments and stakeholders, institutionally distinct from the Independent International Scientific Panel on AI and explicitly not itself a regulatory or enforcement body.
+The UN Global Dialogue on AI Governance already provides part of this landscape:  
+a universal forum involving governments and stakeholders, institutionally distinct from the Independent International Scientific Panel on AI and explicitly not itself a regulatory or enforcement body.
 
 A more operational layer could build on the same general logic.
 
@@ -1742,7 +1756,8 @@ The objective is not to manufacture friendship.
 
 It is to manufacture **credible reciprocal assurance that complying does not make you the only idiot complying**.
 
-And this is also why current foreign-policy instability matters. A technological system which itself produces uncertainty is much harder to govern when commercial and geopolitical systems are simultaneously maximising unpredictability.
+And this is also why current foreign-policy instability matters.  
+A technological system which itself produces uncertainty is much harder to govern when commercial and geopolitical systems are simultaneously maximising unpredictability.  
 
 The systems response is therefore:
 
@@ -2041,7 +2056,10 @@ This node is an analytical proposal built from existing international regulatory
 
 ## 🏮 Footer
 
-*🦊 Cousin, We Have Ideas* is a living analytical node of the **Polaris Protocol**. It treats international AI governance as an information-architecture and institutional-routing problem: preserve specialist competence, strengthen enforcement where law already exists, build translation interfaces between technical and political cultures, and create only as much new international machinery as the genuinely transnational residue requires.
+*🦊 Cousin, We Have Ideas* is a living analytical node of the **Polaris Protocol**.  
+
+It treats international AI governance as an information-architecture and institutional-routing problem:  
+preserve specialist competence, strengthen enforcement where law already exists, build translation interfaces between technical and political cultures, and create only as much new international machinery as the genuinely transnational residue requires.
 
 The fox is a satirical analytical device. The paperwork is unfortunately real.
 
