@@ -461,15 +461,15 @@ Windows, Windows Vista, Windows XP, Windows 8, operating systems, interface desi
 
 *📋 Exhibit B: Windows Fucking Vista* is a living node of the **Polaris Protocol**.  
 
-It uses the Windows interface and upgrade history as a case study in a wider technology-design principle: familiarity, reliability and accumulated human competence are forms of infrastructure, and novelty that consumes them must justify the cost.
+It uses the Windows interface and upgrade history as a case study in a wider technology-design principle:  familiarity, reliability and accumulated human competence are forms of infrastructure, and novelty that consumes them must justify the cost.
 
 > 📡 Cross-references:
 >
-> - [📋 Exhibit A: VLOOKUP](./📋_exhibit_a_vlookup.md) — *before Computer God, the spreadsheet had to be taught left*
-> - [🇺🇸 Dear America](./🇺🇸_dear_america.md) — *reverse bid for useful, interoperable, repairable technology with considerably less admin*
-> - [🎩 Putting On Less Ritz](./README.md) — *parent cluster for transatlantic technology translation and user-side requirements*
-> - [♻️🕸️ The Feedback Environment](../README.md) — *wider information-ecology and feedback architecture*
->
+> - [📋 Exhibit A: VLOOKUP](./📋_exhibit_a_vlookup.md) — *the case for boring technology that actually saves labour*  
+> - [📋 Exhibit C: iPhone Batteries](./📋_exhibit_c_iphone_batteries.md) — *ownership, repairability and beautifully sealed objects*  
+> - [📋 Exhibit D: Fucking Cables](./📋_exhibit_d_fucking_cables.md) — *interoperability enters the evidence bundle*  
+> - [📋 Exhibit E: Printer Ink](./📋_exhibit_e_printer_ink.md) — *the recurring temptation to turn ownership into an ongoing commercial relationship*  
+> - [📋 Exhibit F: AI v UK Law](./📋_exhibit_f_ai_v_uk_law.md) — *what happens when the latest American technology proposition encounters another country's legal system*  
 > 🏮 Return To:
 >
 > - [🎩 Putting On Less Ritz](./README.md) — *1up*
