@@ -1,4 +1,4 @@
-# 📋 Exhibit F — AI v UK Law  
+# 📋 Exhibit F: AI v UK Law  
 **First created:** 2026-09-16 | **Last updated:** 2026-09-20  
 *America sold us artificial intelligence. Britain appears to have neglected to mention that the computer would first have to meet Britain.*  
 
@@ -22,7 +22,8 @@ It is, however, an extremely useful discovery.
 
 On 4 September 2026, Conservative MP Mike Wood asked the Cabinet Office a spectacularly boring Parliamentary Question:
 
-> To ask the Minister for the Cabinet Office, pursuant to the Answer of 28 August 2026 to Question 18648 on Government departments: artificial intelligence, how much statutory consultation duties have been identified by the AI tool for which the latest data is available.
+> To ask the Minister for the Cabinet Office, pursuant to the Answer of 28 August 2026 to Question 18648 on Government departments:  
+> artificial intelligence, how much statutory consultation duties have been identified by the AI tool for which the latest data is available.  
 
 On 14 September, following a correction to the original answer, Cabinet Office minister Mark Ferguson supplied the number:
 
@@ -100,7 +101,13 @@ The British state contains different kinds of complexity.
 
 ### Accidental Complexity
 
-Legacy systems. Duplicate records. Re-keying. Incompatible databases. Obsolete forms. Poor information architecture. Processes nobody has reviewed since Sandra got her first Nokia.
+Legacy systems.  
+Duplicate records.  
+Re-keying.  
+Incompatible databases.  
+Obsolete forms.  
+Poor information architecture.  
+Processes nobody has reviewed since Sandra got her first Nokia.  
 
 **Please destroy this with extreme prejudice.**
 
@@ -114,7 +121,13 @@ There is no technological principle requiring reality to become simple because s
 
 ### Protective Complexity
 
-Consultation. Appeal rights. Audit trails. Safeguarding requirements. Separation of authority. Evidential standards. Requirements to obtain specialist input.
+Consultation.  
+Appeal rights.  
+Audit trails.  
+Safeguarding requirements.  
+Separation of authority.  
+Evidential standards.  
+Requirements to obtain specialist input.  
 
 These may make a process slower because **sometimes friction is governance**.
 
@@ -184,11 +197,15 @@ There is an understandable temptation to turn British AI implementation into ano
 
 That would miss the more useful question.
 
-The UK Government published a **Generative AI Framework for HMG in January 2024**, under the previous Conservative administration. It included contributions from departments and institutions across government, including HM Treasury, the Government Legal Department, Cabinet Office, DSIT, HMRC, the Ministry of Defence and GCHQ.
+The UK Government published a **Generative AI Framework for HMG in January 2024**, under the previous Conservative administration.  
+
+It included contributions from departments and institutions across government, including HM Treasury, the Government Legal Department, Cabinet Office, DSIT, HMRC, the Ministry of Defence and GCHQ.
 
 The subsequent Labour government significantly expanded the adoption programme.
 
-In July 2024, Technology Secretary Peter Kyle commissioned Matt Clifford to lead an **AI Opportunities Action Plan**. Its remit explicitly included AI adoption, government use, data, infrastructure, procurement and regulatory reform, drawing on evidence and interviews across industry, academia, government, regulators and civil society.
+In July 2024, Technology Secretary Peter Kyle commissioned Matt Clifford to lead an **AI Opportunities Action Plan**.  
+
+Its remit explicitly included AI adoption, government use, data, infrastructure, procurement and regulatory reform, drawing on evidence and interviews across industry, academia, government, regulators and civil society.
 
 Published in January 2025, the plan recommended a **Scan → Pilot → Scale** model for government adoption.
 
@@ -640,7 +657,14 @@ nor
 
 It is:
 
-**What are these constraints? Why do they exist? Which should remain? Which should change? Which can be automated around? Which require human authority? What does that do to the business case? And who is responsible for knowing the difference before we spend the money?**
+**What are these constraints?  
+Why do they exist?  
+Which should remain?  
+Which should change?  
+Which can be automated around?  
+Which require human authority?  
+What does that do to the business case?  
+And who is responsible for knowing the difference before we spend the money?**
 
 That is the conversation Britain needs.
 
@@ -679,8 +703,11 @@ artificial intelligence, public administration, digital government, administrati
 
 ## 🏮 Footer
 
-*📋 Exhibit F — AI v UK Law* is a living node of the **Polaris Protocol**.  
-It uses a narrow Parliamentary Question about an AI-assisted mapping exercise as an entry point into the wider governance problem of technological adoption inside a legally and institutionally complex state. It does not allocate blame for that mismatch; it asks how capability claims, legal constraints, implementation dependencies, advice and public expenditure were brought together when Britain decided what AI should do.
+*📋 Exhibit F: AI v UK Law* is a living node of the **Polaris Protocol**.  
+
+It uses a narrow Parliamentary Question about an AI-assisted mapping exercise as an entry point into the wider governance problem of technological adoption inside a legally and institutionally complex state.  
+
+It does not allocate blame for that mismatch; it asks how capability claims, legal constraints, implementation dependencies, advice and public expenditure were brought together when Britain decided what AI should do.  
 
 > 📡 Cross-references:
 >
