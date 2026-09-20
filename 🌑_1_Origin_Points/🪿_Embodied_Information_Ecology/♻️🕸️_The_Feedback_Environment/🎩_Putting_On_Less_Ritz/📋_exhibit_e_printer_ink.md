@@ -1201,10 +1201,11 @@ The node distinguishes documented US signals-intelligence redress architecture f
 
 > 📡 Cross-references:
 >
-> -   [📋 Exhibit A: VLOOKUP](./📋_exhibit_a_vlookup.md) --- *software friction and the cost of obvious missing functionality*
-> -   [📋 Exhibit B: Windows Vista](./📋_exhibit_b_windows_vista.md) --- *feature churn, interface disruption and user-side maintenance burden*
-> -   [📋 Exhibit C: iPhone Batteries](./📋_exhibit_c_iphone_batteries.md) --- *repairability, skills reproduction, and control of purchased hardware*
-> -   [📋 Exhibit D: Fucking Cables](./📋_exhibit_d_fucking_cables.md) --- *interoperability, transition costs, and physical dependency*
+> - [📋 Exhibit A: VLOOKUP](./📋_exhibit_a_vlookup.md) — *the case for boring technology that actually saves labour*
+> - [📋 Exhibit B: Windows Vista](./📋_exhibit_b_windows_vista.md) — *when technological improvement becomes imposed migration*
+> - [📋 Exhibit C: iPhone Batteries](./📋_exhibit_c_iphone_batteries.md) — *ownership, repairability and beautifully sealed objects*
+> - [📋 Exhibit D: Fucking Cables](./📋_exhibit_d_fucking_cables.md) — *interoperability enters the evidence bundle*  
+> - [📋 Exhibit F: AI v UK Law](./📋_exhibit_f_ai_v_uk_law.md) — *what happens when the latest American technology proposition encounters another country's legal system*
 >
 > 🏮 Return To:
 >
