@@ -1,7 +1,6 @@
-# ⚙️ The Feedback Machine
-
-**First created:** 2026-09-07 | **Last updated:** 2026-09-07
-*The cybernetic core of Training Debrief: how operational experience becomes institutional knowledge, how knowledge becomes changed behaviour, and where the signal gets lost.*
+# ⚙️ The Feedback Machine  
+**First created:** 2026-09-07 | **Last updated:** 2026-09-20  
+*The cybernetic core of Training Debrief: how reality becomes signal, how signal survives institutions, how information reaches the people who can act, and whether action actually changes readiness.*
 
 ---
 
@@ -15,156 +14,219 @@ It is not.
 
 Military organisations generate extraordinary quantities of information:
 
-* exercises;
-* operations;
-* casualties;
-* equipment failures;
-* logistics failures;
-* intelligence;
-* after-action reviews;
-* instructors;
-* allies;
-* research;
-* procurement trials;
-* medical evidence;
-* soldiers saying:
+-   exercises;
+-   operations;
+-   casualties;
+-   equipment failures;
+-   logistics failures;
+-   intelligence;
+-   after-action reviews;
+-   instructors;
+-   allies;
+-   research;
+-   procurement trials;
+-   medical evidence;
+-   soldiers saying:
 
 > **this does not fucking work.**
 
-But information existing somewhere inside an institution is not the same thing as the institution learning.
+But information existing somewhere inside an institution is not the same
+thing as the institution learning.
 
-The cybernetic question is:
+This node applies the wider Polaris work in:
 
-> **Does useful information change future behaviour?**
+-   `🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/`
+-   `🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/`
 
-That requires a feedback machine.
+to Defence institutional learning.
+
+The cybernetic question is not merely:
+
+> **What information exists?**
+
+It is:
+
+> **What was registered, where did that information go, what could it alter, what happened next, and did the process close a loop?**
+
+The information-environment question adds:
+
+> **What happened to the signal while it travelled through the institutional environment?**
+
+Defence is therefore being treated here not merely as an organisation which *contains information*, but as an **embodied information ecology**, whose ability to learn depends partly upon the structure of its feedback environment.
+
+The governing proposition is:
+
+> **A learning institution is not one which produces lessons.**
+>
+> **It is one in which reality is allowed to change future behaviour.**
 
 ---
 
-## 🔁 1. The basic loop
+## 1. ♻️ A Chain Is Not A Loop
 
-At its simplest:
+Polaris already makes an important distinction in `♻️_Cybernetics`.
 
-```mermaid
-flowchart LR
-    A["Reality"] --> B["Observation"]
-    B --> C["Evidence"]
-    C --> D["Lesson"]
-    D --> E["Decision"]
-    E --> F["Training / doctrine / equipment / policy"]
-    F --> G["Changed behaviour"]
-    G --> H["Retest"]
-    H --> A
+This:
+
+``` text
+A
+↓
+B
+↓
+C
+```
+
+is a sequence.
+
+It may describe causation, transmission, administration or reporting.
+
+It is not necessarily feedback.
+
+The cybernetic move occurs when information about what happened returns to the process and can change what happens next.
+
+``` text
+REALITY
+   ↓
+SENSE
+   ↓
+RECORD
+   ↓
+PRESERVE MEANING
+   ↓
+ROUTE TO THE RIGHT CONTROL NODE
+   ↓
+INTERPRET + CHALLENGE
+   ↓
+DECIDE
+   ↓
+RESOURCE
+   ↓
+IMPLEMENT
+   ↓
+RETEST
+   ↓
+DID FUNCTION IMPROVE?
+   ↓
+REMEMBER
+   ↺
 ```
 
 Every arrow matters.
 
-A failure anywhere in the loop can produce institutional non-learning.
+If a finding is recorded but changes nothing, that is information.
+
+If a recommendation is accepted but never implemented, that is
+administration.
+
+If a change is implemented but never retested, that is activity.
+
+The loop closes only when the system learns whether its intervention changed the relevant function.
 
 ---
 
-## 🧠 2. Information is not feedback
+## 2. 🕸️ The Feedback Environment Matters
 
-Suppose a platoon discovers during an exercise that:
+`♻️🕸️_The_Feedback_Environment` asks what happens when activity or output becomes information capable of changing subsequent informational conditions.
 
-> a procedure does not work under realistic conditions.
+That matters inside institutions too.
 
-Several things can happen.
+A report does not travel through empty space. It travels through people, hierarchies, professional languages, forms, databases, meetings, metrics, incentives, classification systems, budgets, ministerial submissions and organisational memory.
 
-### Level 1 — observation
+Each transition creates an information environment.
 
-Someone notices.
-
-### Level 2 — recording
-
-Someone writes it down.
-
-### Level 3 — transmission
-
-The finding reaches someone able to act.
-
-### Level 4 — interpretation
-
-The institution correctly understands why it happened.
-
-### Level 5 — decision
-
-Something changes.
-
-### Level 6 — implementation
-
-The change reaches the people who need it.
-
-### Level 7 — validation
-
-The new approach is tested.
-
-Only then has the loop actually closed.
-
-Everything before that is merely:
-
-> **information in transit.**
-
----
-
-## 📡 3. The full Defence feedback chain
-
-Operational information may need to travel through something like:
-
-```mermaid
-flowchart TD
-    A["Soldier / sailor / aviator"] --> B["Unit"]
-    B --> C["Formation"]
-    C --> D["Instructor / training organisation"]
-    D --> E["Doctrine / lessons"]
-    E --> F["Service command"]
-    F --> G["Procurement / capability"]
-    F --> H["MOD"]
-    H --> I["Ministers"]
-    I --> J["Treasury / Cabinet"]
-
-    J --> K["Resources / priorities"]
-    K --> H
-    H --> F
-    F --> D
-    D --> A
+``` text
+REAL WORLD STATE
+      ↓
+human perception
+      ↓
+local language
+      ↓
+professional reporting
+      ↓
+administrative category
+      ↓
+management summary
+      ↓
+senior brief
+      ↓
+political decision
 ```
 
-That is not one feedback loop.
+At each boundary information can be preserved, enriched, contextualised, compressed, delayed, distorted, stripped of uncertainty, stripped of severity, or detached from the embodied reality that produced it.
 
-It is a network of nested loops.
+So:
 
-And each institutional boundary creates an opportunity for:
+> **feedback quality is partly an environmental property.**
 
-* delay;
-* distortion;
-* abstraction;
-* suppression;
-* misunderstanding.
+It is not enough to tell individuals:
+
+> **communicate better.**
+
+If the environment systematically rewards reassurance, successful-delivery narratives, target completion and low-friction reporting while imposing costs on uncertainty, bad news, professional disagreement, requests for additional resources, and evidence that an existing decision is failing, then the feedback problem may not be:
+
+> **somebody failed to speak.**
+
+It may be:
+
+> **the information environment selected which signals could survive.**
+
+That is a system problem.
 
 ---
 
-## 🪖 4. Start at the sharp end
+## 3. 📡 Separate Signal Failure, Translation Failure And Closure Failure
 
-The people closest to an operational system often encounter failure first.
+Three failures can look superficially similar.
 
-They discover:
+They are not.
 
-* equipment that behaves differently from specification;
-* procedures that become awkward under stress;
-* logistics that take longer than planned;
-* communications that fail;
-* assumptions that do not survive terrain;
-* training that did not prepare them;
-* threats which doctrine did not anticipate.
+### Signal failure
 
-That information is valuable because it is generated by:
+Did the information arrive?
+
+Examples include an observation never being recorded, a report never moving, the wrong organisation receiving it, classification preventing useful circulation, or nobody owning escalation.
+
+### Translation failure
+
+Did the meaning survive?
+
+Examples include operational failure becoming administrative pressure, capability loss becoming a cash number, uncertainty disappearing, severity being softened, or professional disagreement being compressed into consensus.
+
+### Closure failure
+
+Did anything change, and was the result retested?
+
+Examples include a recommendation being accepted but unfunded, policy changing while implementation fails, equipment being modified but never tested at scale, a review being completed and filed, or the same problem later returning.
+
+The distinction matters because:
+
+> **nobody heard the warning**
+
+is different from:
+
+> **the warning arrived as "manageable pressure"**
+
+which is different again from:
+
+> **everybody understood and nobody fixed it.**
+
+Those require different interventions.
+
+---
+
+## 4. 🪖 Reality Enters Through Sensors
+
+The people closest to a system often encounter failure first.
+
+They discover equipment behaving differently from specification, procedures becoming awkward under stress, logistics taking longer than planned, communications failing, assumptions collapsing under terrain, training failing to prepare them, or threats doctrine did not anticipate.
+
+That information is valuable because it comes from:
 
 > **contact between the designed system and reality.**
 
-But proximity to the problem does not automatically mean possessing the whole explanation.
+But proximity does not make any one observer omniscient.
 
-The soldier may know:
+A soldier may know:
 
 > **this thing keeps fucking failing.**
 
@@ -172,55 +234,35 @@ An engineer may know why.
 
 A logistician may know why the replacement never arrives.
 
-Procurement may know why the contract cannot easily change.
+A commercial team may know why the contract cannot easily change.
 
-Treasury may know why money cannot move.
+A finance team may know what moving money does elsewhere.
 
-Good feedback architecture joins those perspectives.
+A minister may know the competing state-level priorities.
 
-It does not declare one layer omniscient.
+Good feedback architecture joins those forms of knowledge.
 
----
+It does not flatten them.
 
-## 🧩 5. Rank is context, not a truth score
+And it does not treat hierarchy as an epistemic shortcut.
 
-Hierarchy matters in military organisations.
+> **Rank is context, not a truth score.**
 
-Authority matters.
+A junior technician may understand a particular technical failure better than a general. A general may understand strategic constraints invisible to the technician. An instructor may see the same error repeated across twenty units. A civil servant may see the procurement architecture producing it.
 
-Experience matters.
+The question is not:
 
-But:
+> **Who is important enough to be right?**
 
-> **rank is not a truth score.**
+It is:
 
-A junior technician may understand a specific technical failure better than a general.
-
-A general may understand strategic constraints invisible to the technician.
-
-An instructor may see the same error repeated across twenty units.
-
-A civil servant may see the procurement structure producing it.
-
-A minister may see competing national priorities.
-
-The feedback machine works when those forms of knowledge can be combined.
-
-It fails when:
-
-> **who said it**
-
-becomes more important than:
-
-> **whether it is true.**
+> **What does each observer know, how strong is the evidence, and how do those partial views combine?**
 
 ---
 
-## 🎓 6. Instructors are information routers
+## 5. 🎓 Instructors Are Information Routers
 
-This is one reason instructors matter so much.
-
-An instructor does not merely transmit established knowledge from institution to trainee.
+Instructors do not merely transmit established knowledge from institution to trainee.
 
 A good instructor sits between:
 
@@ -228,117 +270,45 @@ A good instructor sits between:
 
 and:
 
-> **what practitioners report actually happens.**
+> **what practitioners repeatedly report actually happens.**
 
 That makes training organisations unusually important cybernetic nodes.
 
-They can:
-
-* receive operational lessons;
-* compare experiences across units;
-* identify repeated patterns;
-* modify training;
-* test new behaviour;
-* send findings back upwards.
+They can receive operational lessons, compare experience across units, detect recurrence, distinguish isolated failure from pattern, modify training, test new behaviour and send findings back upwards.
 
 An instructor corps is therefore partly:
 
 > **the military's nervous system.**
 
-Under-resource it and you are not merely reducing teaching capacity.
+Under-resource it and the institution does not merely lose teaching capacity.
 
-You may be reducing the institution's ability to feel.
+It may lose:
 
----
+> **the capacity to feel itself accurately.**
 
-## ⚡ 7. The fast loop
+This is one reason instructor capacity appears repeatedly across the Training Debrief.
 
-Simon Akam's account of Iraq and Afghanistan contains examples of very fast operational learning.
-
-One especially useful example is almost comically simple.
-
-During IED-search training, an instructor encounters a question about the calibration of a Valon detector.
-
-Rather than relying upon an old manual or waiting for a formal doctrine cycle, the instructor contacts Afghanistan.
-
-The answer returns.
-
-Training changes.
-
-The loop is approximately:
-
-```mermaid
-flowchart LR
-    A["Problem during training"] --> B["Instructor"]
-    B --> C["Current theatre"]
-    C --> D["Current operational answer"]
-    D --> E["Training updated"]
-    E --> F["Next cohort"]
-```
-
-That is beautiful cybernetics.
-
-Reality reaches the next person before the institution has time to fossilise the old answer.
+It is simultaneously training capacity, regeneration capacity, institutional memory, a sensor network and an information-routing layer.
 
 ---
 
-## 🧈 8. The feedback needs to move like fucking butter
+## 6. ⚡ Fast Loops, Slow Loops And Latency
 
-That does not mean:
+Some feedback should move quickly.
 
-> eliminate governance.
+A tactical procedure found wanting during training may need correction in hours, days or weeks.
 
-Some information requires:
+Other changes legitimately require more time. Changing doctrine, equipment, contracts, force structure, legislation or strategic policy may require months or years.
 
-* verification;
-* safety review;
-* intelligence handling;
-* legal assessment;
-* engineering testing;
-* procurement approval.
+Slow is not automatically broken.
 
-The goal is not frictionlessness.
+The pathology is:
 
-The goal is:
-
-> **the minimum friction required to preserve accuracy, safety and accountability.**
-
-Like a surgical glove.
-
-You need the glove.
-
-But if the glove is so thick that nobody can feel what they are touching:
-
-the control has defeated the function.
-
-> **Do not abolish the glove. Make the fucking glove fit.**
-
----
-
-## 🐌 9. The slow loop
-
-Some lessons cannot move at operational speed.
-
-Changing:
-
-* doctrine;
-* major equipment;
-* force structure;
-* contracts;
-* legislation;
-* strategic policy;
-
-can take years.
-
-That is not automatically failure.
-
-The problem appears when:
-
-> **slow becomes indefinitely delayed.**
+> **slow becoming indefinitely delayed.**
 
 A healthy slow loop looks like:
 
-```text
+``` text
 problem identified
 → evidence gathered
 → decision required
@@ -349,83 +319,109 @@ problem identified
 
 An unhealthy slow loop looks like:
 
-```text
+``` text
 problem identified
 → review
 → consultation
 → report
 → recommendation
 → new review
-→ organisational restructure
+→ restructure
 → nobody remembers why we started
 ```
 
----
+Latency is therefore itself a readiness variable.
 
-## 📉 10. Latency is itself a readiness variable
+Ask:
 
-One of the most useful measures for a learning institution is:
+> **How long does valid negative information take to change practice?**
 
-> **How long does it take for valid negative information to change practice?**
+And:
 
-Different lessons will have different legitimate timelines.
+> **Where is the signal currently stuck?**
 
-But the institution should know its latency.
+This does not prove that whichever organisation sits at the slowest point is inherently bad.
 
-For example:
+It tells us where a particular signal stopped moving.
 
-| Feedback type                 | Appropriate timescale |
-| ----------------------------- | --------------------- |
-| Immediate training correction | hours / days          |
-| Tactical procedure            | days / weeks          |
-| Instructor package            | weeks                 |
-| Doctrine                      | months                |
-| Equipment modification        | months / years        |
-| Procurement architecture      | years                 |
-| Force design                  | years                 |
-| Strategic settlement          | years                 |
-
-The point is not rigid targets.
-
-It is detecting pathological delay.
+That is actionable.
 
 ---
 
-## 📉 11. Signal attenuation
+## 7. 🧈 Friction Should Protect The Function, Not Smother It
 
-Information can lose force as it moves upwards.
+Fast feedback does not mean:
 
-For example:
+> **remove governance.**
 
-```text
-“We cannot reliably perform X”
-        ↓
-“We are experiencing difficulty with X”
-        ↓
-“There are challenges around X”
-        ↓
-“X remains under review”
-        ↓
-“Delivery continues”
+Some information genuinely requires verification, safety review, intelligence handling, legal assessment, engineering testing or procurement approval.
+
+The objective is not frictionlessness.
+
+It is:
+
+> **the minimum friction required to preserve accuracy, safety and accountability.**
+
+Like a surgical glove.
+
+You need the glove.
+
+But if the glove is so thick that nobody can feel what they are touching, the control has defeated the function.
+
+> **The feedback needs to move like fucking butter.**
+
+And:
+
+> **Do not abolish the glove. Make the fucking glove fit.**
+
+For every compulsory gate ask:
+
+-   what risk does this control manage?
+-   does it actually manage that risk?
+-   what delay does it create?
+-   can the same protection be achieved with less latency?
+-   what happens when several individually reasonable gates accumulate?
+
+A system can be killed by:
+
+> **perfectly sensible friction applied seventeen times.**
+
+---
+
+## 8. 📉 Preserve Meaning While Compressing Volume
+
+Senior decision-makers cannot receive every raw observation.
+
+Compression is necessary.
+
+But compression creates danger.
+
+A signal may move like this:
+
+``` text
+SOURCE:
+“We cannot reliably perform X.”
+
+LEVEL 1:
+“Capability X is degraded.”
+
+LEVEL 2:
+“Constraints affect X.”
+
+LEVEL 3:
+“X remains under review.”
+
+FINAL BRIEF:
+“Delivery continues.”
 ```
 
 Every sentence may be technically defensible.
 
-The final recipient may nevertheless receive a completely different understanding of reality.
+The meaning may nevertheless have died on the stairs.
 
 That is signal attenuation.
 
----
-
-## 🪄 12. The euphemism gradient
-
-Large organisations develop languages which make difficult information easier to process.
-
-Sometimes that is useful.
-
-Sometimes it becomes anaesthetic.
-
-Possible translations include:
+Large institutions also develop euphemism gradients:
 
 > failure → challenge
 
@@ -435,163 +431,153 @@ Possible translations include:
 
 > cancelled → reprioritised
 
-> risk → opportunity
-
 > cannot → difficult
 
 > we warned you → lessons identified
 
-None of those words is inherently dishonest.
+None of these translations is inherently dishonest.
 
 The problem is cumulative.
 
-If every layer removes a little emotional and operational force from the message, senior decision-makers may eventually receive:
+If every layer removes a little operational force, senior recipients may receive:
 
 > **perfectly polished nonsense.**
 
+A useful signal-integrity test is therefore:
+
+> **Could the final recipient reconstruct the practical consequence understood by the source?**
+
+If not:
+
+compression became distortion.
+
 ---
 
-## 🧾 13. Financial translation can erase capability
+## 9. 💷 Financial Translation Must Run Both Ways
 
-The same thing happens when military information enters financial systems.
+Military functions can disappear inside financial language.
 
-An exercise may begin as:
+A requirement may begin as:
 
-> **required collective rehearsal for function X.**
-
-Then become:
-
-> training activity.
-
-Then:
-
-> discretionary activity.
-
-Then:
-
-> £30 million expenditure.
-
-By the time Treasury sees the line, the capability may have disappeared from the description.
-
-```mermaid
-flowchart LR
-    A["Military function"] --> B["Training requirement"]
-    B --> C["Programme"]
-    C --> D["Budget line"]
-    D --> E["Cash saving"]
+``` text
+MILITARY FUNCTION
+      ↓
+training requirement
+      ↓
+programme
+      ↓
+budget line
+      ↓
+£30m saving
 ```
 
-The reverse translation must therefore remain possible:
+By the end, the financial system can see:
 
-```mermaid
-flowchart RL
-    E["Cash saving"] --> D["Budget line"]
-    D --> C["Programme"]
-    C --> B["Training requirement"]
-    B --> A["Military function lost / delayed"]
+> **£30 million**
+
+while losing sight of:
+
+> **what the £30 million was producing.**
+
+The feedback machine therefore needs to run the chain backwards:
+
+``` text
+£30m saving
+      ↓
+activity changed
+      ↓
+function affected
+      ↓
+competence affected
+      ↓
+decay / regeneration
+      ↓
+readiness consequence
+      ↓
+residual risk
 ```
 
 If nobody can perform that reverse translation:
 
-the financial system is operating partly blind.
+> **the financial system is operating partly blind.**
+
+The same applies to Treasury.
+
+Treasury does not need to command exercises.
+
+But if it is comparing financial options, it needs enough functional information to understand:
+
+> **which risk each option purchases.**
+
+The useful question is not merely:
+
+> **What does this save?**
+
+It is:
+
+> **What changes because we saved it?**
 
 ---
 
-## 💷 14. Treasury needs feedback too
+## 10. 🎯 Metrics Are Sensors, Not Reality
 
-Treasury is not outside the cybernetic system.
+A feedback system can become extremely responsive to the wrong variable.
 
-It is one of its control nodes.
+Suppose the intended object is:
 
-Treasury receives information about:
+> **formation readiness.**
 
-* affordability;
-* forecasts;
-* spending;
-* programme performance;
-* departmental priorities.
+But the measurable proxy is:
 
-But if the information reaching Treasury says only:
+> **percentage of mandatory training completed.**
 
-> **MOD can save £30 million by reducing training**
-
-without preserving:
-
-> **what operational output changes**
-
-then Treasury cannot properly compare risks.
-
-The Treasury question should therefore be:
-
-> **What capability consequence attaches to this saving?**
-
-Not because Treasury should command exercises.
-
-Because financial control without functional feedback can optimise the wrong variable.
-
----
-
-## 🎯 15. Goodhart is waiting in the bushes
-
-Once a measure becomes important, institutions begin optimising around it.
-
-That is dangerous in readiness.
-
-Suppose the KPI is:
-
-> percentage of mandatory training completed.
-
-The institution may become excellent at completing mandatory training.
+The organisation may become excellent at completing mandatory training.
 
 That does not necessarily mean:
 
-> formations can fight.
+> **formations can fight.**
 
-Likewise:
+Likewise recruitment target met, exercise conducted, equipment delivered, spending target achieved or review recommendation closed can all become administratively green while the underlying function remains weak.
 
-* recruitment target met;
-* exercise conducted;
-* equipment delivered;
-* spending target achieved;
-* review recommendation closed.
+This is the cybernetic problem already identified in `♻️_Cybernetics`:
 
-All can become administratively green while function remains weak.
+> **the metric is not the thing.**
 
-The feedback machine therefore needs to keep asking:
+So:
 
-> **Did the underlying capability improve?**
-
----
-
-## 🔭 16. Objectives before indicators
-
-This is why the sequence should be:
-
-```mermaid
-flowchart LR
-    A["Strategic objective"] --> B["Required function"]
-    B --> C["Capability"]
-    C --> D["Training / people / equipment"]
-    D --> E["Measurement"]
-    E --> F["KPI"]
+``` text
+strategic objective
+      ↓
+required function
+      ↓
+capability
+      ↓
+intervention
+      ↓
+measurement
+      ↓
+KPI
 ```
 
 Not:
 
-```text
+``` text
 KPI
-→ activity
-→ target achieved
-→ presumably capability
+↓
+activity
+↓
+target achieved
+↓
+presumably capability
 ```
 
-KPIs are instruments.
+Goodhart is waiting in the bushes.
 
-They are not the patient.
+Do not feed him.
 
 ---
 
-## 🧪 17. Exercises are sensors
+## 11. 🧪 Exercises Are Sensors
 
 An exercise is not merely preparation.
 
@@ -601,963 +587,484 @@ It asks:
 
 > **Does the system actually work?**
 
-A useful exercise may discover:
-
-* radios fail;
-* logistics are slow;
-* doctrine is wrong;
-* command is confused;
-* equipment interfaces badly;
-* medical assumptions are unrealistic.
+A useful exercise may discover radios fail, logistics are slow, doctrine is wrong, command is confused, equipment interfaces badly, medical assumptions are unrealistic, or personnel are compensating for hidden system weakness.
 
 That is not necessarily an unsuccessful exercise.
 
-It may be a very successful sensor.
+It may be:
 
-The dangerous exercise is the one designed primarily to demonstrate that everything already works.
+> **a very successful sensor.**
 
----
-
-## 💥 18. Failure in training is cheap information
-
-The whole point of rehearsal is partly to fail somewhere safer.
+Failure in training is cheap information.
 
 If twelve things break during an exercise and the institution fixes all twelve before combat:
 
 excellent.
 
-If nobody wants twelve things to break because the exercise must demonstrate readiness:
-
-the feedback function has been inverted.
+If nobody wants twelve things to break because the exercise must demonstrate readiness, the feedback function has been inverted.
 
 The exercise has become:
 
-> performance
+> **performance**
 
 rather than:
 
-> measurement.
+> **measurement.**
 
----
+The same applies to near misses.
 
-## 🩻 19. Near-misses are information too
-
-The system should capture:
+Capture:
 
 > **that nearly went wrong**
 
-rather than waiting for:
+before waiting for:
 
 > **that went wrong.**
 
-Near-misses reveal:
+Near misses reveal lucky timing, hidden workload, fragile assumptions, human workarounds and almost-exhausted capacity.
 
-* lucky timing;
-* hidden workload;
-* fragile assumptions;
-* human workarounds;
-* almost-exhausted capacity.
-
-A near-miss is often an unusually cheap lesson.
-
-Use it.
+A near miss is often an unusually cheap lesson.
 
 ---
 
-## 🧯 20. Human workarounds can hide broken systems
+## 12. 🩻 Workarounds Can Hide Failure
 
-Military personnel are extremely good at adaptation.
+Competent people keep systems running.
 
-That is operationally useful.
+That is good.
 
-Institutionally, it can conceal pathology.
+It also creates a measurement problem.
 
-Suppose a process requires ten hours.
+Suppose a unit succeeds because one unusually experienced person improvises, people work excessive hours, spare equipment happens to exist, a supplier accelerates delivery, or personnel repeatedly compensate for a broken process.
 
-Personnel quietly work fourteen.
+The output may remain green.
 
-Output arrives.
+The system may still be fragile.
 
-Dashboard:
+Ask:
 
-> green.
+> **What invisible human effort is keeping this capability working?**
 
-The system learns:
+And:
 
-> capacity adequate.
+> **Would the function survive without the workaround?**
 
-Reality:
+The better people become at coping with a broken system:
 
-> humans absorbed four hours of institutional failure.
+> **the longer the broken system can look functional.**
 
-Repeat that often enough and:
+That is why near misses, workaround logs and practitioner testimony belong in the feedback machine.
 
-> **the better people are at coping with a broken system, the longer the broken system can look functional.**
+They expose:
 
-The feedback machine must therefore capture the workaround.
-
-Not merely the output.
+> **the cost hidden underneath apparent success.**
 
 ---
 
-## 🧠 21. Tacit knowledge is real data
+## 13. 🧠 Learning Must Preserve Context
 
-Not every important observation arrives as a spreadsheet.
+A lesson is not a universal law merely because it once worked.
 
-People know things through:
+Operational learning can move:
 
-* repeated experience;
-* pattern recognition;
-* physical handling;
-* professional judgement.
-
-That knowledge can be difficult to formalise.
-
-It should not therefore be discarded as:
-
-> anecdotal.
-
-Anecdote is weak evidence for prevalence.
-
-Repeated professional observation can be strong evidence that:
-
-> **something requires investigation.**
-
-The feedback machine needs routes for qualitative signals to trigger quantitative inquiry.
-
----
-
-## 🔬 22. One complaint is not proof
-
-The reverse matters too.
-
-Someone saying:
-
-> this is broken
-
-does not automatically prove systemic failure.
-
-The appropriate loop is:
-
-```text
-signal
-→ investigate
-→ compare
-→ test
-→ decide
+``` text
+experience
+   ↓
+lesson
+   ↓
+successful adaptation
+   ↓
+repetition
+   ↓
+embedded assumption
 ```
 
-Not:
+Then:
 
-```text
-signal
-→ ignore
+``` text
+environment changes
+   ↓
+old lesson persists
+   ↓
+previously useful adaptation
+becomes maladaptive
 ```
 
-and not:
+So institutional learning requires:
 
-```text
-signal
-→ immediately redesign entire Army
-```
+> **unlearning.**
 
-Listening is not the same as automatically agreeing.
+For every lesson preserve:
 
----
+-   where it came from;
+-   what problem it solved;
+-   under what conditions;
+-   what evidence supported it;
+-   what assumptions travelled with it;
+-   what would make it obsolete.
 
-## 🪖 23. Afghanistan: adaptation and overfitting
+Then periodically ask:
 
-The Afghanistan training system became increasingly effective at teaching lessons generated by Afghanistan.
+> **Are those conditions still true?**
 
-That was good.
+Lessons should travel with provenance.
 
-It also created a future problem.
+Otherwise:
 
-Repeated adaptation can produce assumptions so embedded that people stop noticing they are assumptions.
+> **the answer to yesterday's war becomes the assumption inside tomorrow's.**
 
-Examples included expectations around:
+Learning is not:
 
-* air superiority;
-* casualty evacuation;
-* IED threat;
-* counterinsurgency;
-* tactical tempo.
+> **accumulating more lessons forever.**
 
-When the strategic problem changed, some learned behaviour had to be actively unlearned.
+It is:
 
-At Brecon, Iraq and Afghanistan veterans could reflexively stop to treat casualties and prepare helicopter landing zones.
-
-For a different type of fight, instructors sometimes had to re-teach:
-
-> **“Fucking leave him and come back for him!”**
-
-That line matters because it demonstrates something important:
-
-> **learning can itself become the next thing that needs correcting.**
+> **maintaining a model capable of revision.**
 
 ---
 
-## 🔄 24. Unlearning is training too
+## 14. 📚 Reviews Are Sensors, Not Treatment
 
-A learning organisation does not merely accumulate lessons.
+A review can collect evidence, identify patterns, expose disagreement, recommend action and create a public record.
 
-It also removes lessons whose assumptions no longer hold.
-
-Therefore doctrine and training should periodically ask:
-
-* what behaviour are we reinforcing?
-* what assumptions created it?
-* are those assumptions still valid?
-* what would make the behaviour dangerous?
-
-Institutional memory without institutional revision becomes dogma.
-
----
-
-## 🧭 25. Context labels should travel with lessons
-
-Every lesson should ideally retain information about:
-
-* where it was learned;
-* under what conditions;
-* against what threat;
-* with what equipment;
-* with what allies;
-* under what legal constraints.
-
-That helps later users distinguish:
-
-> **universal principle**
-
-from:
-
-> **context-specific adaptation.**
-
-For example:
-
-> logistics matters
-
-is broad.
-
-> helicopter evacuation will always be available within a particular timeframe
-
-is not.
-
-Do not store those two forms of knowledge as if they possess the same portability.
-
----
-
-## 🗺️ 26. Ukraine should feed the machine without becoming the machine
-
-Ukraine is generating enormous quantities of military learning around:
-
-* drones;
-* electronic warfare;
-* artillery;
-* air defence;
-* logistics;
-* mobilisation;
-* casualty replacement;
-* industrial endurance.
-
-Britain should absorb that aggressively.
+Useful.
 
 But:
 
-> **the next war is not guaranteed to be Ukraine with different flags.**
+> **a review is a sensor. It is not treatment.**
 
-The cybernetic task is therefore:
-
-```text
-observe Ukraine
-→ identify mechanisms
-→ test against British requirements
-→ adapt
-→ exercise
-→ retain what survives testing
+``` text
+review published
+      ≠
+problem solved
 ```
 
-Not:
+Closure requires:
 
-```text
-Ukraine did X
-→ everyone do X forever
-```
-
----
-
-## 🎓 27. Instructor prestige affects information quality
-
-If instructor postings are:
-
-* under-resourced;
-* career-limiting;
-* lower prestige;
-* disconnected from current operations;
-
-the feedback machine degrades.
-
-The people translating operational learning into the next cohort need:
-
-* credibility;
-* currency;
-* expertise;
-* institutional influence.
-
-Otherwise information arrives but does not carry enough organisational weight to change behaviour.
-
-Akam's account of OPTAG is useful precisely because improving training required improving the status and quality of the institution doing the teaching.
-
----
-
-## ❄️ 28. Command is an information filter
-
-Commanders cannot receive every raw observation.
-
-Filtering is necessary.
-
-The problem is not filtering.
-
-The problem is filtering without preserving:
-
-* severity;
-* uncertainty;
-* dissent;
-* recurrence.
-
-A useful command summary should answer:
-
-> What happened?
-
-> How confident are we?
-
-> How often?
-
-> What is the consequence?
-
-> Who disagrees?
-
-> What needs deciding?
-
-Compression should reduce volume.
-
-Not meaning.
-
----
-
-## 🧠 29. Senior leaders need protected access to ugly information
-
-One of the easiest ways to make a system stupid is to ensure senior leaders only encounter information after everybody has made it presentable.
-
-Senior leaders should periodically receive:
-
-* raw after-action themes;
-* dissenting assessments;
-* instructor feedback;
-* frontline observations;
-* technical warnings.
-
-Not every complaint.
-
-Enough unpolished information to calibrate whether the polished briefings still resemble reality.
-
----
-
-## 🪟 30. The translation layer matters
-
-Operational people and strategic leaders often speak different languages.
-
-One may say:
-
-> **We cannot do X safely at this tempo.**
-
-Another needs:
-
-> capability impact, probability, cost, alternative, decision required.
-
-Translation is legitimate.
-
-The problem comes when translation becomes substitution.
-
-The strategic version should preserve the operational meaning.
-
-This is why the system needs people who can move between:
-
-* tactical;
-* operational;
-* strategic;
-* financial;
-* political;
-
-without flattening one into another.
-
----
-
-## 🧾 31. Procurement is another feedback loop
-
-Equipment learning should flow:
-
-```mermaid
-flowchart LR
-    A["Operator"] --> B["Failure / limitation"]
-    B --> C["Engineering analysis"]
-    C --> D["Capability team"]
-    D --> E["Supplier / procurement"]
-    E --> F["Modification"]
-    F --> G["Training"]
-    G --> A
-```
-
-Possible failure points include:
-
-* contract rigidity;
-* intellectual-property barriers;
-* slow approvals;
-* supplier incentives;
-* safety certification;
-* budget cycles;
-* requirements frozen too early.
-
-The question is not simply:
-
-> **Is procurement slow?**
-
-Some procurement should be slow.
-
-The question is:
-
-> **Can valid operational feedback alter the thing being procured before the problem becomes obsolete?**
-
----
-
-## 🛒 32. Procurement should remember why the requirement exists
-
-Requirements can become detached from their originating problem.
-
-Eventually an institution may optimise delivery of:
-
-> Requirement 14B
-
-while nobody can clearly explain:
-
-> **what operational problem 14B was meant to solve.**
-
-Every significant requirement should preserve a line back to:
-
-* operational need;
-* evidence;
-* user;
-* intended capability.
-
-Otherwise procurement can become cybernetically closed:
-
-> procurement measures procurement.
-
----
-
-## 🧱 33. Contracts can become memory
-
-Contracts are not merely financial instruments.
-
-They can fossilise old assumptions.
-
-A ten-year contract may encode:
-
-* staffing assumptions;
-* technology assumptions;
-* training assumptions;
-* supply assumptions.
-
-If the environment changes faster than the contract:
-
-the institution needs mechanisms for adaptation.
-
-Otherwise yesterday's requirement becomes tomorrow's constraint.
-
----
-
-## 🩺 34. Medical feedback belongs in the loop
-
-Casualty data can reveal:
-
-* equipment problems;
-* training gaps;
-* protective-equipment limitations;
-* evacuation assumptions;
-* occupational injury;
-* rehabilitation requirements.
-
-Medicine therefore should not sit downstream as:
-
-> **what happens after military activity.**
-
-Medical evidence should travel back into:
-
-* training;
-* equipment;
-* doctrine;
-* personnel policy;
-* force design.
-
-The injured body can contain information about the system that injured it.
-
-The state has an obligation to listen.
-
----
-
-## 🦿 35. Rehabilitation generates knowledge too
-
-Rehabilitation teams learn:
-
-* what injuries persist;
-* which equipment restores function;
-* what environments create barriers;
-* what occupational demands matter;
-* what long-term consequences were underestimated.
-
-That information can improve:
-
-* prevention;
-* protective equipment;
-* training;
-* medical planning;
-* veteran policy.
-
-The feedback loop should not stop when someone leaves the battlefield.
-
-Or when someone leaves uniform.
-
----
-
-## 🎖️ 36. Veterans remain part of institutional memory
-
-Veterans may hold information about:
-
-* operational practice;
-* equipment;
-* leadership;
-* injury;
-* transition;
-* long-term consequences.
-
-Some of that information becomes more visible only after service.
-
-A mature system needs safe ways to hear it.
-
-Not because every veteran account is universally representative.
-
-Because institutional time horizons should extend beyond the employment contract.
-
----
-
-## 📚 37. Reviews are sensors, not treatment
-
-Britain is very good at producing reviews.
-
-A review can:
-
-* gather evidence;
-* identify patterns;
-* propose intervention.
-
-It cannot implement itself.
-
-Therefore:
-
-> **review published**
-
-must not be recorded as:
-
-> **problem solved.**
-
-The actual loop is:
-
-```text
-review
+``` text
+finding
 → recommendation
 → owner
 → resource
 → implementation
-→ test
+→ retest
 → outcome
+→ memory
 ```
 
-Without the second half:
+Repeated recommendations therefore deserve special attention.
 
-the review is diagnostic imaging left unread on the screen.
+If several reviews repeatedly rediscover the same remedy, do not merely add another recommendation.
 
----
+Ask:
 
-## 🔁 38. Repeated recommendations are diagnostic
+-   why was the earlier recommendation not implemented?
+-   was it rejected?
+-   unfunded?
+-   partially implemented?
+-   displaced by restructuring?
+-   implemented but ineffective?
+-   forgotten?
+-   closed administratively without functional improvement?
 
-If successive reviews repeatedly recommend:
+This is:
 
-* better procurement;
-* improved readiness;
-* stronger estate;
-* better recruitment;
-* better retention;
-* improved lessons;
-* greater jointness;
+> **implementation archaeology.**
 
-that recurrence is itself data.
+If Britain has discovered the same brilliant idea six times:
 
-The question becomes:
-
-> **Why does the recommendation keep regenerating?**
-
-Possible causes:
-
-* never implemented;
-* partially implemented;
-* implemented then defunded;
-* wrong intervention;
-* new version of old problem;
-* ownership lost;
-* strategic environment changed.
-
-A repeated recommendation should trigger implementation archaeology.
-
-Not another surprised announcement.
+> **Stop commissioning archaeologists to rediscover the fucking pot.  
+> Find out why we keep burying it.**
 
 ---
 
-## 🗃️ 39. Institutional memory needs version control
+## 15. 🧠 Institutional Memory Needs Negative Knowledge
 
-For each significant lesson or recommendation, retain:
+Organisations need to remember not only:
 
-```text
-problem
-→ evidence
-→ recommendation
-→ decision
-→ owner
-→ implementation
-→ outcome
-→ subsequent revision
+> **what worked**
+
+but:
+
+> **what failed and why.**
+
+Negative knowledge matters because otherwise people periodically rediscover failed procurement assumptions, rejected technical designs, abandoned training methods, known safety problems or previously tested organisational structures.
+
+Memory should therefore retain:
+
+``` text
+decision
+↓
+evidence available at the time
+↓
+assumptions
+↓
+rationale
+↓
+outcome
+↓
+what changed afterwards
 ```
 
-This lets future officials answer:
+This is essentially version control for institutional judgement.
 
-> **Why do we do this?**
+Without it, the organisation can know:
 
-And:
+> **what the current policy is**
 
-> **Why did we stop doing the previous thing?**
+while forgetting:
 
-Without that, institutional knowledge becomes folklore.
+> **why it exists.**
 
----
+Then a later team can remove a safeguard without realising which previous failure created it.
 
-## 🧠 40. Preserve negative knowledge
-
-Institutions particularly need to remember:
-
-> **We tried this. It failed. Here is why.**
-
-Otherwise failed ideas return wearing new branding.
-
-Negative knowledge is strategically valuable because it reduces the number of mistakes each generation must personally rediscover.
-
----
-
-## 🕳️ 41. Suppression can be deliberate or emergent
-
-Not every lost lesson is censored.
-
-Feedback can disappear through:
-
-* hierarchy;
-* workload;
-* classification;
-* bureaucracy;
-* career incentives;
-* reputational anxiety;
-* poor record systems;
-* departmental boundaries;
-* staff turnover;
-* political inconvenience.
-
-Several mechanisms can produce the same observable outcome:
-
-> **important information did not change behaviour.**
-
-Do not infer motive before establishing mechanism.
-
-But do not confuse absence of conspiracy with absence of failure.
-
----
-
-## 🔒 42. Classification can protect information and imprison it
-
-Some Defence information must remain classified.
-
-Obviously.
-
-But classification creates a cybernetic cost.
-
-Information that cannot travel cannot easily teach.
-
-The appropriate question is:
-
-> **What is the least sensitive form of this lesson that still preserves its operational meaning?**
-
-Perhaps:
-
-* tactical detail remains classified;
-* general failure mechanism becomes doctrine;
-* aggregate lesson enters training;
-* public version explains governance.
-
-Security should control distribution.
-
-It should not automatically terminate learning.
-
----
-
-## 🪟 43. Transparency is an external feedback channel
-
-Parliament, auditors, researchers, journalists and the public can all provide external feedback.
-
-They may notice:
-
-* repeated failure;
-* contradictory policy;
-* strange expenditure;
-* institutional blind spots.
-
-They will sometimes be wrong.
-
-That is normal.
-
-The correct response is not:
-
-> outsiders cannot understand Defence.
+Institutional memory is therefore not nostalgia.
 
 It is:
 
-> **which external signals deserve investigation?**
-
-A closed institution loses access to sensors it does not control.
+> **part of the control system.**
 
 ---
 
-## 🧿 44. Bounded explanation protects the loop
+## 16. 🗺️ Route Signals To The Right Control Node
 
-The public does not need:
+Feedback is useless if it reaches someone who cannot change the relevant variable.
 
-* live vulnerabilities;
-* classified readiness data;
-* operational plans;
-* exploitable technical details.
+For every problem ask:
 
-But caution should not become fog.
+> **Who actually holds the lever?**
 
-The public can understand:
+The answer may be unit command, training organisation, service command, Defence Equipment & Support, MOD, Treasury, Cabinet, a contractor, an ally, Parliament, or several of these together.
 
-* system architecture;
-* strategic purpose;
-* aggregate constraints;
-* governance;
-* spending;
-* historical lessons;
-* implementation.
+This produces a control-node map:
 
-The Polaris rule remains:
-
-> **The goal is bounded explanation.
-> Not reckless disclosure.
-> Not managed ignorance.**
-
-That is not only a transparency principle.
-
-It is cybernetic.
-
-Outside scrutiny cannot correct a system it is forbidden even to conceptualise.
-
----
-
-## 🧭 45. The Chris Brown problem
-
-The Iraq lessons controversy provides a useful difficult case.
-
-Lieutenant General Chris Brown produced a lessons report whose handling became controversial.
-
-The report was restricted, revised and did not become the MOD's formal submission to the Chilcot process in its original form.
-
-That can be read as evidence of institutional discomfort with negative feedback.
-
-But there is another important layer.
-
-Jock Stirrup later argued that the work was too tactical and insufficiently strategic, with opinion sometimes substituting for analysis.
-
-Those propositions can coexist.
-
-A report can contain important uncomfortable information **and** require better analytical translation.
-
-That creates the deeper question:
-
-> **How does tactical experience become valid strategic evidence?**
-
-The answer cannot be:
-
-> publish every frontline opinion unchanged.
-
-Nor:
-
-> senior people rewrite the uncomfortable bits until everyone feels better.
-
-The feedback machine needs a translation layer which strengthens evidence without sterilising meaning.
-
----
-
-## 🧪 46. Challenge should improve the signal
-
-Good challenge asks:
-
-* what is the evidence?
-* what is anecdotal?
-* what is representative?
-* what alternative explanation exists?
-* what confidence should attach?
-* what strategic conclusion actually follows?
-
-That should make a report harder to dismiss.
-
-Challenge becomes dysfunctional when it asks:
-
-> **How can we make this less embarrassing?**
-
-The distinction is methodological.
-
-Not cosmetic.
-
----
-
-## 🧱 47. Accountability is part of cybernetics
-
-This is the uncomfortable part.
-
-Suppose:
-
-```text
-failure
-→ lesson
-→ procedure changed
-→ nobody responsible
+``` text
+PROBLEM
+   ↓
+VARIABLE CAUSING IT
+   ↓
+WHO CONTROLS THAT VARIABLE?
+   ↓
+WHAT INFORMATION DO THEY NEED?
+   ↓
+WHAT DECISION CAN THEY MAKE?
 ```
 
-The institution may improve technically.
+Do not endlessly escalate problems that can be fixed locally.
 
-But incentives may remain unchanged.
+But do not force lower levels to compensate indefinitely for variables they do not control.
 
-If decision-makers repeatedly learn that poor decisions produce:
+A useful escalation rule is:
 
-* new procedure;
-* new training;
-* new guidance;
+> **Escalate when the level experiencing the problem does not control the variable required to fix it.**
 
-but no consequence for the structures or incentives that produced the decision, the system receives incomplete feedback.
+Otherwise the institution risks turning:
 
-> **An institution cannot learn reliably if negative feedback changes procedures but never changes power.**
+> **adaptation**
 
-Accountability is not merely punishment.
+into:
 
-It is one mechanism by which organisations update incentives.
+> **permanent local compensation for upstream failure.**
 
 ---
 
-## ⚖️ 48. Accountability needs calibration
+## 17. 🚦 Track Signals Until Closure
 
-The opposite failure is also possible.
+A useful lesson should have a state.
 
-If every honest mistake destroys a career:
-
-people will hide mistakes.
-
-That kills feedback.
-
-Therefore distinguish:
-
-* reasonable decision under uncertainty;
-* understandable error;
-* negligence;
-* repeated failure;
-* ignored warning;
-* deliberate concealment;
-* misconduct.
-
-A learning institution needs:
-
-> **psychological and professional safety for honest error**
-
-alongside:
-
-> **real consequences for culpable behaviour.**
-
-Otherwise either fear or impunity destroys the loop.
-
----
-
-## 🧨 49. “Consequences travel down; careers travel up”
-
-This is a useful hypothesis to test, not a universal accusation.
-
-Operational failure can impose consequences upon:
-
-* junior personnel;
-* casualties;
-* families;
-* instructors;
-* units.
-
-Senior institutional consequences may be less visible.
-
-If that asymmetry exists repeatedly, it creates a cybernetic problem.
-
-The people experiencing the strongest negative feedback may possess the least authority to change the system.
-
-The people with the most authority may experience the weakest feedback.
-
-That is exactly backwards.
-
----
-
-## 🏦 50. Ministers and Treasury need the sharp end translated, not hidden
-
-A minister does not need to know every tactical detail.
-
-The Chancellor does not need to understand every exercise.
-
-But they need the causal chain:
-
-```text
-decision
-→ changed resource
-→ changed activity
-→ changed capability
-→ changed risk
+``` text
+OPEN
+  ↓
+ROUTED
+  ↓
+DECISION REQUIRED
+  ↓
+ACTIONED
+  ↓
+RETESTING
+  ↓
+CLOSED
 ```
 
-Without that:
+And:
 
-political control becomes control over inputs rather than outcomes.
+``` text
+CLOSED
+  ↓
+problem recurs
+  ↓
+REOPENED
+```
+
+A practical signal card could contain:
+
+``` text
+SIGNAL:
+[what happened]
+
+SOURCE:
+[where reality entered the system]
+
+EVIDENCE:
+[what supports it]
+
+CONFIDENCE:
+[high / moderate / low / untested]
+
+RECURRENCE:
+[first / repeated / persistent]
+
+CONTEXT:
+[conditions under which lesson arose]
+
+FUNCTION AFFECTED:
+[what military output changes]
+
+SEVERITY:
+[bounded description]
+
+CONTROL NODE:
+[who can actually change the relevant variable]
+
+OWNER:
+[person / office / organisation]
+
+DECISION REQUIRED:
+[what needs choosing]
+
+LATENCY:
+[how long signal has been open]
+
+ACTION:
+[what changed]
+
+RETEST:
+[how outcome will be tested]
+
+STATUS:
+OPEN / ROUTED / ACTIONED / RETESTING / CLOSED / REOPENED
+
+MEMORY:
+[where rationale + outcome are retained]
+```
+
+The purpose is not to create another green dashboard.
+
+It is to prevent:
+
+> **lesson identified**
+
+from masquerading as:
+
+> **problem solved.**
+
+---
+
+## 18. ⚖️ Accountability Must Preserve Learning
+
+Feedback systems need people to report mistakes.
+
+If every honest error becomes career-ending:
+
+people learn:
+
+> **hide errors.**
+
+That destroys the sensor network.
+
+But the opposite failure also exists.
+
+If negligence, ignored warnings, concealment, reckless decisions or misconduct are all dissolved into:
+
+> **lessons learned**
+
+then the incentive structure remains unchanged.
+
+A useful distinction is:
+
+``` text
+HONEST ERROR
+→ report
+→ learn
+→ improve
+
+REASONABLE DECISION + BAD OUTCOME
+→ review assumptions
+→ update model
+
+REPEATED FAILURE AFTER WARNING
+→ investigate decision process
+
+CONCEALMENT / MISCONDUCT / RECKLESSNESS
+→ accountability pathway
+```
+
+The governing principle is:
+
+> **Accountability should improve the feedback system, not terrify it into silence or anaesthetise it into consequence-free repetition.**
+
+Or more compactly:
+
+> **Punish everything → signals disappear.**
+>
+> **Punish nothing → recurrence becomes cheap.**
+
+---
+
+## 19. ⬇️ Test Whether Consequences And Authority Are Misaligned
+
+One hypothesis worth testing is:
+
+> **consequences travel down; careers travel up.**
+
+That should not be assumed universally.
+
+It should be investigated.
+
+For any recurring failure ask:
+
+-   who experiences the operational consequence?
+-   who absorbs extra workload?
+-   who owns the damaged equipment?
+-   who loses training time?
+-   who faces career consequences?
+-   who controlled the relevant variable?
+-   who approved the risk?
+-   who received the warning?
+-   what happened when the problem recurred?
+
+If the people receiving the strongest negative consequences possess the least authority to change the causal variable:
+
+> **the incentive architecture may be backwards.**
+
+Feedback works best when consequences reach:
+
+> **the level capable of changing what produced them.**
+
+---
+
+## 20. 🪖 Civilian And Military Feedback Runs Both Ways
 
 Civilian control works best when military expertise makes consequences legible enough for civilian leaders to make actual choices.
 
----
+Military professionals need to communicate:
 
-## 🪖 51. The military must also receive political feedback
+-   what function is required;
+-   what resources produce it;
+-   what alternatives exist;
+-   what each option costs in capability;
+-   what risk remains.
 
-The loop runs both ways.
+But the military must also receive political feedback.
 
-Military professionals need to understand:
+It needs to understand:
 
-* political objectives;
-* fiscal limits;
-* legal constraints;
-* public legitimacy;
-* alliance priorities.
+-   political objectives;
+-   fiscal limits;
+-   legal constraints;
+-   public legitimacy;
+-   alliance priorities;
+-   accepted risk.
 
 Otherwise military planning can optimise:
 
@@ -1565,38 +1072,23 @@ Otherwise military planning can optimise:
 
 without recognising the wider state system.
 
-Civilian leadership therefore also needs to communicate clearly:
+Civilian leadership therefore needs to communicate clearly:
 
-> this is the objective;
+> **this is the objective;**
 
-> this is the constraint;
+> **this is the constraint;**
 
-> this is the risk we are willing to accept.
+> **this is the risk we are willing to accept.**
 
 Ambiguity at the political level propagates downwards too.
 
----
-
-## 🧩 52. Strategic ambiguity creates operational noise
-
-If government has not decided:
-
-* what commitments matter most;
-* what risk is acceptable;
-* what future it is preparing for;
-
-lower levels must infer.
+If government has not decided which commitments matter most, what risk is acceptable, or what future it is preparing for, lower levels must infer.
 
 Different parts of Defence may infer differently.
 
-That produces:
+That can produce incompatible priorities, confused procurement, training mismatch and duplicated effort.
 
-* incompatible priorities;
-* confused procurement;
-* training mismatch;
-* duplicated effort.
-
-The feedback machine therefore requires a reasonably clear reference signal:
+The feedback machine therefore needs a reference signal:
 
 > **What is the system trying to achieve?**
 
@@ -1604,11 +1096,53 @@ Cybernetics without an objective is merely movement.
 
 ---
 
-## 🔭 53. Readiness is the output signal
+## 21. 🏛️ External Scrutiny Is Part Of The Sensor Network
+
+Defence does not sense itself only through internal channels.
+
+External sensors include:
+
+-   Parliament;
+-   select committees;
+-   the National Audit Office;
+-   auditors;
+-   inspectors;
+-   coroners and inquiries where relevant;
+-   academia;
+-   allies;
+-   journalism;
+-   civil society;
+-   the public.
+
+These sources vary in access, expertise, evidential quality, timeliness and incentives.
+
+They are not automatically correct.
+
+But external observation can reveal internal blind spots, patterns distributed across organisations, repeated recommendations, discrepancies between public claims and measurable outcomes, and issues whose internal escalation failed.
+
+The correct response is neither:
+
+> **outsiders know nothing**
+
+nor:
+
+> **external criticism is automatically true.**
+
+It is:
+
+> **What signal is being offered, what evidence supports it, and does it expose something the internal system failed to register or route?**
+
+External scrutiny becomes useful feedback only when the institution can:
+
+> **receive → assess → respond → retest.**
+
+---
+
+## 22. 🔭 Readiness Is The Output Signal
 
 The ultimate question is not:
 
-> Did information travel?
+> **Did information travel?**
 
 It is:
 
@@ -1618,567 +1152,344 @@ That is why this node connects directly to:
 
 `🔭_what_does_ready_actually_look_like.md`
 
-Without a functional definition of readiness, the feedback machine cannot tell whether its corrections worked.
-
----
-
-## 🧪 54. Retest or it did not close
-
-This deserves repetition.
-
-After changing:
-
-* doctrine;
-* equipment;
-* training;
-* organisation;
-
-test again.
-
-```mermaid
-flowchart LR
-    A["Failure"] --> B["Lesson"]
-    B --> C["Change"]
-    C --> D["Retest"]
-    D --> E{"Fixed?"}
-    E -->|Yes| F["Retain"]
-    E -->|No| A
-```
+Without a functional definition of readiness, the feedback machine cannot know whether its corrections worked.
 
 A recommendation implemented is not the endpoint.
+
+A new policy is not the endpoint.
+
+A contract variation is not the endpoint.
+
+A revised training package is not the endpoint.
 
 The endpoint is:
 
 > **function improved.**
 
----
+So:
 
-## 📊 55. Measure the feedback machine itself
-
-Possible measures include:
-
-* time from observation to decision;
-* time from decision to implementation;
-* percentage of lessons assigned an owner;
-* percentage retested;
-* recurrence of previously closed problems;
-* instructor currency;
-* number of unresolved high-risk lessons;
-* proportion of major procurement changes originating in user feedback;
-* number of recommendations repeatedly rediscovered.
-
-Do not turn these into another meaningless dashboard.
-
-Use them diagnostically.
-
----
-
-## 🚦 56. Track stuck signals
-
-A useful system could flag lessons that have become stuck at one boundary.
-
-For example:
-
-```text
-front line → instructor       5 days
-instructor → doctrine         20 days
-doctrine → capability         80 days
-capability → procurement      400 days
-procurement → modification    ???
+``` text
+REALITY
+   ↓
+SIGNAL
+   ↓
+MEANING PRESERVED
+   ↓
+RIGHT AUTHORITY
+   ↓
+DECISION
+   ↓
+CHANGE
+   ↓
+RETEST
+   ↓
+FUNCTION IMPROVED?
+   ├── YES → retain + remember
+   └── NO  → reopen the loop
 ```
 
-Now the bottleneck becomes visible.
-
-The point is not:
-
-> procurement bad.
-
-The point is:
-
-> **here is where this particular signal stopped moving.**
-
-That is actionable.
-
 ---
 
-## 🗺️ 57. Map who can change what
+## 23. 🧪 Retest Or It Did Not Close
 
-Feedback is useless if sent to someone without the relevant lever.
+After changing doctrine, equipment, training, organisation, process or policy:
 
-For each problem, identify:
-
-| Problem                  | Likely control node        |
-| ------------------------ | -------------------------- |
-| Tactical procedure       | unit / training / doctrine |
-| Instructor quality       | service command            |
-| Equipment fault          | capability / procurement   |
-| Estate shortage          | MOD / estate governance    |
-| Personnel shortage       | service / MOD              |
-| Budget rigidity          | MOD / Treasury             |
-| Strategic overcommitment | ministers / Cabinet        |
-| Legislative constraint   | government / Parliament    |
-
-Then send the signal to the level capable of changing the variable.
-
-Do not repeatedly ask the bottom of the system to compensate for something only the top can alter.
-
----
-
-## 🧯 58. Escalation is part of feedback design
-
-When a problem cannot be solved at one level:
-
-it should move.
-
-```mermaid
-flowchart TD
-    A["Problem identified"] --> B["Can unit solve it?"]
-    B -->|Yes| C["Solve and retest"]
-    B -->|No| D["Formation / service"]
-    D --> E{"Can service solve it?"}
-    E -->|Yes| F["Solve and retest"]
-    E -->|No| G["MOD"]
-    G --> H{"Needs political / fiscal decision?"}
-    H -->|Yes| I["Ministers / Treasury"]
-    H -->|No| J["Departmental resolution"]
-```
-
-A system without escalation routes converts structural problems into local coping.
-
-That is how workarounds become permanent.
-
----
-
-## 🧠 59. Ask whether meaning survives the journey
-
-At every institutional boundary:
-
-> **What did the sender mean?**
-
-> **What did the receiver hear?**
-
-That question should be routine.
-
-Especially across:
-
-* military ↔ civil service;
-* technical ↔ generalist;
-* MOD ↔ Treasury;
-* Defence ↔ Parliament;
-* classified ↔ public.
-
-Many apparent disagreements are partly translation failures.
-
-Some are genuine disagreements.
-
-The system needs to know which.
-
----
-
-## 🧾 60. The September 2026 training problem is itself a feedback test
-
-The current collective-training dispute gives us a live diagnostic opportunity.
-
-The original signal may have been:
-
-> Army affordability pressure.
-
-That became:
-
-> identify savings.
-
-Then:
-
-> reduce some collective training.
-
-Now the signal is travelling back upwards through:
-
-* Army concern;
-* professional press;
-* national press;
-* Parliament;
-* ministers;
-* Treasury.
-
-The question is:
-
-> **Does the returning signal change the original decision?**
-
-Maybe the answer should ultimately be:
-
-> no.
-
-Perhaps the reduction is rational.
-
-But if so, the system should be able to explain:
-
-* what risk was identified;
-* what alternatives were tested;
-* what mitigation exists;
-* who accepted the trade-off.
-
-That would demonstrate a functioning feedback machine.
-
----
-
-## 🔁 61. The current loop
-
-```mermaid
-flowchart TD
-    A["Financial pressure"] --> B["Training reduction"]
-    B --> C["Operational / professional concern"]
-    C --> D["Public reporting"]
-    D --> E["Parliamentary / ministerial scrutiny"]
-    E --> F["MOD / Treasury reassessment"]
-    F --> G{"Decision changes?"}
-    G -->|Yes| H["Restore / redesign / mitigate"]
-    G -->|No| I["Risk explicitly accepted"]
-    H --> J["Retest readiness"]
-    I --> J
-    J --> K["Evidence for next decision"]
-    K --> A
-```
-
-The interesting question is not whether the original decision survives.
-
-It is whether the institution can **reconsider it intelligently**.
-
----
-
-## 🧠 62. Healthy feedback does not guarantee agreement
-
-This matters.
-
-A soldier can warn.
-
-Army Command can understand.
-
-MOD can understand.
-
-The minister can understand.
-
-Treasury can understand.
-
-And government can still decide:
-
-> **No. We are accepting that risk.**
-
-That can be legitimate civilian government.
-
-The cybernetic requirement is not:
-
-> frontline opinion always wins.
-
-It is:
-
-> **the decision-maker receives the signal intact enough to know what they are choosing.**
-
-That is a much stronger model of democratic control.
-
----
-
-## ⚠️ 63. Suppression begins when disagreement cannot travel
-
-The dangerous condition is not:
-
-> someone disagreed with the final decision.
-
-It is:
-
-> **the disagreement could not reach the final decision.**
-
-Or arrived transformed into something unrecognisable.
-
-That is when hierarchy stops coordinating information and begins obstructing it.
-
----
-
-## 🪟 64. Public communication is the final translation layer
-
-After government decides, another translation occurs:
-
-> institution → public.
-
-Again, compression is necessary.
-
-But the public-facing explanation should preserve:
-
-* objective;
-* broad constraint;
-* trade-off;
-* mitigation;
-* accountability.
+test again.
 
 Not:
 
-> **everything remains world-leading, thank you for your interest.**
+> **recommendation accepted.**
 
-The public does not need every detail.
+Not:
 
-It needs enough of the map to understand what its government is doing.
+> **implementation complete.**
 
----
+Not:
 
-## 🧠 65. The cybernetic failure modes
+> **action closed.**
 
-The principal failure modes across this cluster are therefore:
+Ask:
 
-### Sensor failure
+> **Did the relevant function improve?**
 
-Nobody detects the problem.
+If yes, retain the change, record why, and monitor for changed conditions.
 
-### Reporting failure
+If no, reopen the problem, revisit the diagnosis and test another intervention.
 
-Someone detects it but does not report it.
+If the result is unclear, improve the sensor.
 
-### Transmission failure
+Do not manufacture certainty.
 
-It is reported but does not reach the right level.
+A feedback loop without retesting is:
 
-### Compression failure
-
-The message loses meaning.
-
-### Interpretation failure
-
-The receiver misunderstands the cause.
-
-### Decision failure
-
-The wrong intervention is selected.
-
-### Implementation failure
-
-The intervention does not happen.
-
-### Validation failure
-
-Nobody checks whether it worked.
-
-### Memory failure
-
-The institution later forgets the lesson.
-
-### Incentive failure
-
-Nothing changes the conditions producing recurrence.
-
-That is the differential diagnosis of institutional non-learning.
+> **a line with optimistic branding.**
 
 ---
 
-## 🩺 66. The information pathology test
+## 24. 📊 Measure The Feedback Machine Without Goodharting It
 
-Whenever the same Defence problem appears again, ask:
+Useful diagnostic measures may include:
 
-1. Did we know about this before?
-2. Who knew?
-3. When?
-4. What did they report?
-5. Where did the report go?
-6. How was it translated?
-7. Who could act?
-8. What did they decide?
-9. Was it funded?
-10. Was it implemented?
-11. Was it retested?
-12. Why has the problem returned?
+-   time from observation to routing;
+-   time from routing to decision;
+-   time from decision to implementation;
+-   proportion of significant lessons with an owner;
+-   proportion with a defined retest;
+-   proportion actually retested;
+-   recurrence of supposedly closed problems;
+-   number of high-risk lessons stuck at a boundary;
+-   instructor currency;
+-   number of repeatedly rediscovered recommendations;
+-   proportion of major capability changes traceable to user or
+    operational evidence.
 
-That sequence is much more useful than:
+But these measures are not the objective.
 
-> **Why are these people incompetent?**
+Do not create a feedback bureaucracy which becomes excellent at:
 
-Sometimes they may have been.
+> **closing feedback tickets.**
 
-First find where the signal died.
+The objective remains:
 
----
+> **better military function.**
 
-## 🧠 67. The deeper institutional diagnosis
+The dashboard should tell us:
 
-A functioning Defence institution does not need perfect foresight.
+> **where the learning machinery is sticking.**
 
-It needs the capacity to notice:
-
-> **we were wrong**
-
-quickly enough to matter.
-
-That is one of the most important military capabilities available.
-
-Because no doctrine survives contact with every future.
-
-No procurement programme predicts every threat.
-
-No strategic review gets the next twenty years exactly right.
-
-The advantage belongs partly to the institution which can update fastest without losing coherence.
+Not provide another opportunity to colour cells green.  
 
 ---
 
-## 🧭 68. The governing principle
+## 25. 🩺 Apply The Machine To The Training Case
 
-The feedback machine should therefore optimise for:
+The reported collective-training reduction gives us a useful worked example.
 
-> **accurate information reaching the person with the relevant lever before the information becomes obsolete.**
+A competent feedback investigation asks:
 
-Everything else supports that.
+### Sense
 
-* hierarchy;
-* doctrine;
-* reviews;
-* procurement;
-* data;
-* dashboards;
-* committees;
-* Treasury controls.
+What activity changed?
 
-They are machinery.
+### Preserve meaning
 
-The output is adaptation.
+What military function did that activity produce or validate?
 
----
+### Route
 
-## ⚙️ Working model
+Which organisation controlled the decision?
 
-```mermaid
-flowchart TD
-    A["Reality"] --> B["Front-line observation"]
-    B --> C["Training / instructor network"]
-    C --> D["Lessons / doctrine"]
-    D --> E["Command"]
-    E --> F["Capability / procurement"]
-    E --> G["MOD"]
-    G --> H["Ministers"]
-    H --> I["Treasury / Cabinet"]
+Which organisations controlled the underlying constraints?
 
-    I --> J["Resources / strategic priorities"]
-    J --> G
-    G --> E
-    E --> C
-    C --> K["Changed training"]
-    F --> K
-    K --> L["Changed operational behaviour"]
-    L --> A
+### Interpret
 
-    M["Medicine / rehabilitation"] --> C
-    M --> F
-    N["Veterans"] --> C
-    N --> D
-    O["Allies / research"] --> D
-    P["Parliament / NAO / public scrutiny"] --> G
-    P --> H
-```
+Was the change affordability, transformation, prioritisation, capacity constraint, or some combination?
 
-The arrows are the system.
+### Decide
 
-The boxes are only where the information pauses.
+What alternatives were considered?
 
----
+### Resource
 
-## 🧈 Final rule
+What would restoring or replacing the function require?
 
-If the person at the bottom says:
+### Implement
 
-> **this does not work**
+What actually changed on the ground?
 
-and the person at the top eventually hears:
+### Retest
 
-> **delivery remains broadly on track,**
+How will Defence know whether the replacement or recovery preserved competence?
 
-the institution has an information problem.
+### Remember
 
-If the person at the top says:
+What should the next planning cycle know before training again becomes the flexible margin?
 
-> **this is the strategic objective**
+This is why the Training Debrief cannot end at:
 
-and the person at the bottom receives incompatible tasks without enough resources to execute it,
+> **Who cut £30 million?**
 
-the institution also has an information problem.
+The larger question is:
 
-The machine has to work in both directions.
+> **Could the system detect the readiness consequence,  
+> preserve that meaning through financial and institutional translation,  
+> put it before the people with the relevant levers,  
+> and then learn from the result?**  
 
-> **Sharp-end reality upwards.
-> Strategic intent downwards.
-> Resources and authority towards the problem.
-> Evidence back into the next decision.**
-
-Make the feedback move like fucking butter.
+That is the feedback machine.
 
 ---
 
----
+## 26. 🧿 Working Principles
+
+1.  **Information is not feedback.**
+2.  **A chain is not a loop.**
+3.  **Identify the return pathway.**
+4.  **Feedback quality is partly an environmental property.**
+5.  **Signal failure, translation failure and closure failure are different diagnoses.**
+6.  **Rank is context, not a truth score.**
+7.  **Practitioners are sensors, not omniscient narrators.**
+8.  **Instructors are information routers.**
+9.  **Latency is a readiness variable.**
+10. **Slow is not automatically broken; indefinitely stuck is.**
+11. **Controls should preserve safety and accuracy without defeating the feedback function.**
+12. **Preserve meaning while compressing volume.**
+13. **The financial translation must run backwards to military function.**
+14. **The metric is not the thing.**
+15. **Exercises are sensors as well as preparation.**
+16. **Failure in training can be cheap information.**
+17. **Near misses are evidence.**
+18. **Workarounds can conceal system fragility.**
+19. **Lessons need provenance and context.**
+20. **Learning includes unlearning.**
+21. **A review is a sensor, not treatment.**
+22. **Institutional memory must preserve negative knowledge.**
+23. **Route problems to whoever controls the relevant variable.**
+24. **Do not make lower levels permanently compensate for upstream failure.**
+25. **Honest error must remain reportable.**
+26. **Accountability and learning are not opposites.**
+27. **Test whether consequences and authority are aligned.**
+28. **Civilian ↔ military feedback runs both ways.**
+29. **External scrutiny can function as a sensor.**
+30. **A recommendation implemented is not the endpoint.**
+31. **Retest or the loop did not close.**
+32. **The output signal is improved function.**
+33. **Adaptation is not automatically improvement.**
+34. **A learning institution is one in which reality is allowed to change future behaviour.**
 
 ---
 
 ## 📡 Carry Forward
 
-This node connects directly to:
+### 🪖 Applied Training Debrief
 
-* [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — training as rehearsal, sensor and adaptation mechanism;
-* [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — how capability became a financial saving;
-* [`🪟_transparency_and_earned_loyalty.md`](./🪟_transparency_and_earned_loyalty.md) — external feedback, scrutiny and public trust;
-* [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — allowing unconstrained professional requirements to reach political decision-makers before affordability is reapplied;
-* [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — the output signal against which adaptation must be tested;
-* [`🔬_tests_and_investigations.md`](./🔬_tests_and_investigations.md) — locating current information gaps;
-* [`🧠_assessment_and_differential.md`](./🧠_assessment_and_differential.md) — distinguishing feedback failure from other causes;
-* [`data/strategic_reviews.md`](./data/strategic_reviews.md) — repeated lessons and implementation;
-* [`data/parliamentary_questions.md`](./data/parliamentary_questions.md) — what information reached political oversight and when;
-* [`data/open_questions.md`](./data/open_questions.md) — signals which remain unresolved.
+-   [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md)
+    --- *defines the output signal against which corrections are tested*
+-   [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) ---
+    *collective training as capability production, maintenance and
+    sensing*
+-   [`🔬_tests_and_investigations.md`](./🔬_tests_and_investigations.md)
+    --- *the evidence needed to distinguish competing mechanisms*
+-   [`🧠_assessment_and_differential.md`](./🧠_assessment_and_differential.md)
+    --- *signal failure, translation failure, prioritisation and other
+    competing diagnoses*
+-   [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) ---
+    *the financial translation problem*
+-   [`🚑_immediate_management.md`](./🚑_immediate_management.md) ---
+    *acting under uncertainty while producing better evidence*
+-   [`🪟_transparency_and_earned_loyalty.md`](./🪟_transparency_and_earned_loyalty.md)
+    --- *public information as part of institutional feedback*
+-   [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md)
+    --- *protecting the requirement signal before affordability
+    compresses it*
+-   [`💊_long_term_management.md`](./💊_long_term_management.md) ---
+    *institutionalising learning across longer time horizons*
+-   [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md)
+    --- *designing systems that can detect and absorb future failure*
 
----
+### 🌑 Theoretical Foundations
 
-## 📚 Initial sources
+-   [`♻️ Cybernetics`](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/)
+    --- *feedback, regulation, adaptation, recursion, delay, signal,
+    proxies, control and the distinction between chains and loops*
+-   [`♻️🕸️ The Feedback Environment`](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
+    --- *how outputs and responses enter information environments and
+    alter subsequent informational conditions*
+-   [`🪿 Embodied Information Ecology`](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/)
+    --- *the wider framework for bodies, feedback, information
+    environments, observability and recursive systems*
 
-* Simon Akam, *The Changing of the Guard: The British Army Since 9/11* (Scribe, 2021).
-* [The Guardian: “Defence chiefs gag damning Iraq invasion findings”](https://www.theguardian.com/uk/2010/may/27/defence-chiefs-gag-iraq-invasion-report)
-* [GOV.UK: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad)
-* [RUSI: “Mobilisation and Training for War: Preparing to Break Glass”](https://www.rusi.org/explore-our-research/publications/occasional-papers/mobilisation-and-training-war-preparing-break-glass)
-* [National Audit Office: *Investigation into military support for Ukraine*](https://www.nao.org.uk/reports/investigation-into-military-support-for-ukraine/)
+The relationship is deliberate:
 
-See also:
+``` text
+POLARIS THEORY
+♻️ Cybernetics
++
+♻️🕸️ Feedback Environment
+        ↓
+APPLIED DEFENCE MODEL
+⚙️ The Feedback Machine
+        ↓
+OUTPUT TEST
+🔭 What Does Ready Actually Look Like?
+```
 
-* `data/source_bank.md`
-* `data/strategic_reviews.md`
-* `data/timeline.md`
-* `data/open_questions.md`
+The Defence node does not replace the parent theory.
+
+It applies it.  
 
 ---
 
 ## 🌌 Constellations
-⚙️ 🪖 🧠 🎓 💷 🧾 🪟 🔁 — cybernetics; institutional learning; military training; lessons; doctrine; procurement; Treasury; accountability; feedback.
+
+⚙️ ♻️ 🕸️ 🪿 📡 🧠 🪖 🔭 💷 🧪 --- cybernetics; feedback environments;
+embodied information ecology; institutional learning; military learning;
+signal attenuation; latency; instructors; lessons learned; exercises as
+sensors; Goodhart; financial translation; institutional memory;
+accountability; readiness.  
 
 ---
 
 ## ✨ Stardust
-military cybernetics, defence feedback, institutional learning, british army, lessons learned, OPTAG, Simon Akam, military training, doctrine, procurement, treasury, readiness, after action review, organisational learning, defence accountability, negative feedback
+
+cybernetics, feedback machine, feedback environment, embodied
+information ecology, military learning, British defence, institutional
+learning, signal attenuation, signal integrity, organisational feedback,
+lessons learned, training feedback, instructor networks, readiness,
+Goodhart law, institutional memory, accountability, control nodes,
+feedback latency, organisational adaptation
 
 ---
 
 ## 🏮 Footer
 
-*⚙️ The Feedback Machine* is a living node of the **Polaris Protocol**.  
-It treats information flow as military capability: lessons matter only when they change behaviour and return to reality for testing.
+*⚙️ The Feedback Machine* is a living analytical node of the **Polaris Protocol**.
 
-> 📡 Cross-references:
+It applies the broader Polaris work on cybernetics and feedback environments to the institutional machinery through which Defence senses reality, interprets evidence, changes behaviour and tests whether those changes worked.
+
+Its governing loop is:
+
+> **Sense reality.**
 >
-> - [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — *training as rehearsal, sensor and adaptation mechanism*
-> - [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — *how capability became a financial saving*
-> - [`🪟_transparency_and_earned_loyalty.md`](./🪟_transparency_and_earned_loyalty.md) — *external feedback, scrutiny and public trust*
-> - [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — *allowing unconstrained professional requirements to reach political decision-makers before affordability is reapplied*
-> - [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — *the output signal against which adaptation must be tested*
-> - [`🔬_tests_and_investigations.md`](./🔬_tests_and_investigations.md) — *locating current information gaps*
-> - [`🧠_assessment_and_differential.md`](./🧠_assessment_and_differential.md) — *distinguishing feedback failure from other causes*
-> - [`data/strategic_reviews.md`](./data/strategic_reviews.md) — *repeated lessons and implementation*
->  
+> **Preserve the signal.**
+>
+> **Preserve its meaning.**
+>
+> **Route it to whoever can change the relevant variable.**
+>
+> **Make the decision.**
+>
+> **Implement the change.**
+>
+> **Retest the function.**
+>
+> **Remember what happened.**
+>
+> **Reopen the loop when reality disagrees.**
+
+The institution does not learn because it wrote a lesson down.
+
+It does not learn because a review was published.
+
+It does not learn because a recommendation was accepted.
+
+It does not learn because an action was marked complete.
+
+It learns when:
+
+> **reality changes future behaviour, and the changed behaviour survives
+> contact with reality again.**
+
+That is the machine.
+
 > 🏮 Return To:
 >
-> - [🪖 Training Debrief](./README.md) — *1up*
-> - [🌊 Playing Defence](../README.md) — *2up*
-> - [📲 Press Matters](../../README.md) — *3up*
-> - [🌓 In The Moment](../../../README.md) — *4up*
-> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+> -   [🪖 Training Debrief](./README.md) --- *1up*
+> -   [🌊 Playing Defence](../README.md) --- *2up*
+> -   [📲 Press Matters](../../README.md) --- *3up*
+> -   [🌓 In The Moment](../../../README.md) --- *4up*
+> -   [🌌 Polaris Protocol --- Root](../../../../README.md) --- *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-07_
+_Last updated: 2026-09-20_
