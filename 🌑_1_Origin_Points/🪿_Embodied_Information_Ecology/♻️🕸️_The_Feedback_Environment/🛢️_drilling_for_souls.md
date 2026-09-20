@@ -1290,6 +1290,26 @@ And eventually the people running around demanding ever-better drilling technolo
 
 ---
 
+## 🦑 On Embittered Cephalopods  
+
+This brings us back to a longstanding meme:  
+
+The sensory folkloric feminine-coded presence that emergences every once in a Blue Moon, usually stationed somewhere in British general ambiance, one assumes in the North Sea.  
+
+The island have centuries of telling alsorts of stories about power and unpredictability and the respect of the tension which exists between unexplainable and explainable forces.  
+
+The squid that guards our C.R.A.K.E.N. systems engineering problem arose out of frustrations with unknowable forces which came partially from an American direction.  
+
+She is, therefore, a suitable force to bring back into this node.  
+
+Polaris has sent an amount of time describing the type-1 thinking driven intuition that is often expressed by people slightly more likely to feel emergent harms. The kraken when she graces these pages is a realisation of this *something is not quite right* sense of the uncanny.  
+
+Folklore often simplifies complex concepts and systems to make them digestible to human experience, and our kraken who keeps bobbing through the chops in the waves and in sight of the repo, is no different.  
+
+Personally, I think we ought not to disturb her further.  
+
+---
+
 ## 🌌 Constellations
 
 ♻️ 🕸️ 🛢️ 🤖 🧿 ⚖️ — extraction incentives; adaptive information environments; platform and AI political economy; observation; regulation; international coordination.
