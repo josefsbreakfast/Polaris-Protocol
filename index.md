@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-20 11:31:26 UTC_
+_Generated on 2026-09-20 11:35:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3770,6 +3770,7 @@ _Generated on 2026-09-20 11:31:26 UTC_
           - [`🩸_survivor_support_and_reporting.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/🩸_survivor_support_and_reporting.md)
         - [**🦑_Krakens_Against_Spycops/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🦑_Krakens_Against_Spycops/)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🦑_Krakens_Against_Spycops/notes.txt)
+          - [`🗞️_what_the_fuck_is_happening_right_now.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🦑_Krakens_Against_Spycops/🗞️_what_the_fuck_is_happening_right_now.md)
         - [**🧾_Petition_GC/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/README.md)
           - [`⚖️_what_the_law_actually_does.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🧾_Petition_GC/⚖️_what_the_law_actually_does.md)
