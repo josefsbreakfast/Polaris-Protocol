@@ -85,7 +85,7 @@ Then Irish artists start talking about colonial history, partition, Palestine, B
 - [📹: BreakThrough News: Macklemore, Robert Kraft and the tour dispute](https://vm.tiktok.com/ZN86VRDeE/)
 - [📹: Xevi, via TikTok: “Edward Christopher Sheeran trippin”](https://vm.tiktok.com/ZN86V5dJf/)
 - [🎶: Akintoye, via TikTok: Bottom Line](https://vm.tiktok.com/ZN86v8nPe/)
-- [📹: Gaza Boxing Women, via TikTok, feat *Can’t Hold Us*](https://vm.tiktok.com/ZN86vdsAr/)  
+- [📹: Gaza Boxing Women, via TikTok, feat *Can’t Hold Us*](https://vm.tiktok.com/ZN86vdsAr/); [*”Don’t give up… I’m free to be the greatest alive… I’ve got stamina…”*](https://vm.tiktok.com/ZN86vrvNh/)  
 
 These links do not all carry the same evidentiary weight. A TikTok is not automatically evidence that the claim inside the TikTok is true.
 
