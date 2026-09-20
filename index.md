@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-20 08:52:43 UTC_
+_Generated on 2026-09-20 09:01:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -935,6 +935,7 @@ _Generated on 2026-09-20 08:52:43 UTC_
       - [`📈_$seo.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/📈_$seo.md)
       - [`📥_chattering_chatbots.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/📥_chattering_chatbots.md)
       - [`🕹️_building_safer_sandboxes.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🕹️_building_safer_sandboxes.md)
+      - [`🛢️_drilling_for_souls.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🛢️_drilling_for_souls.md)
       - [`🧿_the_visibility_triangle.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🧿_the_visibility_triangle.md)
     - [**♻️🧿_Observation_Becomes_Intervention/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/.🌱_Still_Growing/)
