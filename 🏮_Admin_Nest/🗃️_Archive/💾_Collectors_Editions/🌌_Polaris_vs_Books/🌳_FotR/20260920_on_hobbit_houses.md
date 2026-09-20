@@ -760,4 +760,4 @@ this may help explain why 1. reading is taking some time, and 2. the llm grassed
 - 🌲 **“Of course, darling.”**
 
 
-I’m jusying saying I don’t need to have any yokes moves out anywhere near me unless there is going to be triple glazing, underfloor heating, and folklorically consistsnt family in-jokes. that’s my line. 
+I’m jusying saying I don’t need to have any  moves out anywhere near me unless there is going to be triple glazing, underfloor heating, and folklorically consistsnt family in-jokes. that’s my line. 
