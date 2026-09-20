@@ -1296,7 +1296,7 @@ This brings us back to a longstanding meme:
 
 The sensory folkloric feminine-coded presence that emergences every once in a Blue Moon, usually stationed somewhere in British general ambiance, one assumes in the North Sea.  
 
-The island have centuries of telling alsorts of stories about power and unpredictability and the respect of the tension which exists between unexplainable and explainable forces.  
+The islands have centuries of telling all sorts of stories about power and unpredictability and the respect of the tension which exists between unexplainable and explainable forces.  
 
 The squid that guards our C.R.A.K.E.N. systems engineering problem arose out of frustrations with unknowable forces which came partially from an American direction.  
 
