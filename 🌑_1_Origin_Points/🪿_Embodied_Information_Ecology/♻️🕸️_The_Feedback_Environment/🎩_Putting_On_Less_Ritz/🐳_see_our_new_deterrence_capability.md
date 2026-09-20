@@ -1,6 +1,6 @@
-# 🐳 See Our New Deterrence Capability
-**First created:** 2026-09-17 | **Last updated:** 2026-09-17  
-*A wholly unserious British deterrence proposal for when ordinary burden-sharing has failed and America must instead assume custody of one (1) Tony Blair.*
+# 🐳 See Our New Deterrence Capability  
+**First created:** 2026-09-17 | **Last updated:** 2026-09-20  
+*A wholly unserious British deterrence proposal for when ordinary burden-sharing has failed and America must instead assume custody of one (1) Tony Blair.*  
 
 ---
 
@@ -86,7 +86,7 @@ Britain simply opens the storage cupboard.
                  🎪
           ┌───────────────┐
           │     TONY      │
-          │  👁️       👁️  │
+          │  👁️      👁️  │
           │               │
           │   INSERT 🪙   │
           └───────────────┘
@@ -114,13 +114,12 @@ There is a short silence.
 
 Britain slowly wheels Tony back into storage.
 
-The mechanism is neither anti-American nor especially hostile. It is an
-exhausted allied service announcement: **please resolve the interoperability,
-dependency and administrative feedback problems before Britain is forced to
-activate the Tony.**
+The mechanism is neither anti-American nor especially hostile.  
+It is an exhausted allied service announcement:  
+**please resolve the interoperability, dependency and administrative feedback problems before Britain is forced to
+activate the Tony.**  
 
-This is the lowest rung on the escalation ladder at which the diagram becomes
-a carnival machine.
+This is the lowest rung on the escalation ladder at which the diagram becomes a carnival machine.
 
 ---
 
@@ -181,7 +180,7 @@ The interface has deliberately been kept intuitive.
              │                         │
              │          TONY           │
              │                         │
-             │     👁️           👁️     │
+             │     👁️          👁️     │
              │                         │
              │        LECTERN          │
              │                         │
@@ -189,9 +188,9 @@ The interface has deliberately been kept intuitive.
              │  INSERT SHINY COIN 🪙   │
              └─────────────────────────┘
                          ↓
-                    *clunk*
+                      *clunk*
                          ↓
-             STRATEGIC ADVICE
+                  STRATEGIC ADVICE
 ```
 
 One coin:
@@ -400,8 +399,7 @@ The British export officer looks down at the clipboard.
 
 > **SIR, WE CAN PROVIDE OUTFITS.**
 
-The **Tony Blair Zoltar Machine Deluxe Accessory Pack** is available at no
-additional strategic cost.
+The **Tony Blair Zoltar Machine Deluxe Accessory Pack** is available at no additional strategic cost.
 
 ```text
 CLASSIC PRIME MINISTER TONY
@@ -458,9 +456,7 @@ Britain:
 
 > **HE'S HAVING SUCH A NICE TIME. LEAVE THEM TO IT.**
 
-The wardrobe is therefore decorative rather than architectural. The same
-strategic-advice engine remains underneath; the receiving environment simply
-gets to choose the packaging.
+The wardrobe is therefore decorative rather than architectural. The same strategic-advice engine remains underneath; the receiving environment simply gets to choose the packaging.
 
 This is, regrettably, also quite a useful metaphor.
 
@@ -503,8 +499,7 @@ Further coin produces additional technology output.
 
 🪙
 
-> “The countries which embrace this transformation will have an enormous
-> advantage.”
+> “The countries which embrace this transformation will have an enormous advantage.”
 
 America may then ask:
 
@@ -523,7 +518,7 @@ AI MODE                                highly responsive
 1950s ATLANTIC REGISTER                🪙 premium
 AMERICAN LEADERSHIP PHRASE PACK        included
 DELUXE WARDROBE SUPPORT                included
-SCOTTISH HERITAGE COMPATIBILITY          included
+SCOTTISH HERITAGE COMPATIBILITY        included
 OFF SWITCH                             not located
 ```
 
@@ -537,15 +532,13 @@ The machine has been prepared for its new habitat.
 
 ## 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Heritage Compatibility Pack
 
-There is one further compatibility feature Britain would like to draw to the
-attention of the receiving state.
+There is one further compatibility feature Britain would like to draw to the attention of the receiving state.
 
 Tony Blair was born in Edinburgh.
 
 Donald Trump's mother, Mary Anne MacLeod Trump, was born on the Isle of Lewis.
 
-Britain therefore sees no reason why the new arrangement should not include
-**bonding opportunities**.
+Britain therefore sees no reason why the new arrangement should not include **bonding opportunities**.
 
 ```text
 AMERICA:
@@ -625,8 +618,7 @@ Britain retrieves Tony
 normal relations resume
 ```
 
-This is important because a credible deterrent should provide the receiving
-state with a clear route back down the escalation ladder.
+This is important because a credible deterrent should provide the receiving state with a clear route back down the escalation ladder.
 
 America controls the duration of Tony exposure.
 
@@ -644,7 +636,7 @@ Britain gestures towards the corner.
         🎪
    ┌─────────────┐
    │    TONY     │
-   │ 👁️       👁️ │
+   │ 👁️      👁️ │
    │             │
    │ INSERT  🪙  │
    └─────────────┘
@@ -658,8 +650,7 @@ Britain gestures towards the corner.
 
 **Wonderful.**
 
-Donald Trump is not deprived of access during the administrative dispute. He
-may visit Tony and insert coins whenever he wishes.
+Donald Trump is not deprived of access during the administrative dispute. He may visit Tony and insert coins whenever he wishes.
 
 Indeed, from his perspective the arrangement may be excellent.
 
@@ -671,8 +662,7 @@ Indeed, from his perspective the arrangement may be excellent.
 
 `ATLANTICISM — HERITAGE MODE`
 
-> “The United States, under the President's leadership, stands at the centre of
-> a historic moment for the free world.”
+> “The United States, under the President's leadership, stands at the centre of a historic moment for the free world.”
 
 Donald:
 
@@ -682,10 +672,7 @@ Britain:
 
 > **YES. WE THOUGHT YOU MIGHT.**
 
-This produces the unusual strategic condition in which the temporary custodian
-may be delighted with the deterrent while the officials responsible for fixing
-the administrative problem remain strongly motivated to make Britain come and
-collect it.
+This produces the unusual strategic condition in which the temporary custodian may be delighted with the deterrent while the officials responsible for fixing the administrative problem remain strongly motivated to make Britain come and collect it.
 
 Donald gets to be told how great he is in a premium 1950s register.
 
@@ -699,8 +686,7 @@ Humanitarian access to the Zoltar Machine remains unaffected by the dispute.
 
 ## 📈 Unfortunately, We Have Discovered A Market
 
-At some point during development, the deterrence programme encounters a serious
-problem.
+At some point during development, the deterrence programme encounters a serious problem.
 
 The proposed recipient likes the product.
 
@@ -708,8 +694,7 @@ Not merely tolerates it.
 
 **Likes it.**
 
-Britain has therefore accidentally crossed the line from strategic deterrence
-into export-led growth.
+Britain has therefore accidentally crossed the line from strategic deterrence into export-led growth.
 
 ```text
 DETERRENCE
@@ -732,8 +717,12 @@ The product category is broader than first anticipated.
 
 The original model.
 
-Tech enthusiastic. AI responsive. British accent. Scottish Heritage
-Compatibility installed. Optional wardrobe. Premium 1950s Atlantic Register.
+Tech enthusiastic.  
+AI responsive.  
+British accent.  
+Scottish Heritage Compatibility installed.  
+Optional wardrobe.  
+Premium 1950s Atlantic Register.  
 
 ### 🎩 Peter Mandelson Heritage Edition
 
@@ -743,11 +732,10 @@ Less carnival cabinet; more:
 
 > “A gentleman has arrived from London to discuss matters of consequence.”
 
-The Heritage Edition supplies political ambience, elaborate decorum and the
-general impression that somebody should probably wheel in a drinks trolley.
+The Heritage Edition supplies political ambience, elaborate decorum and the general impression that somebody should probably wheel in a drinks trolley.
 
-This is satire rather than a claim about what any real politician would say to
-Donald Trump. The product exists here because the aesthetic is funny.
+This is satire rather than a claim about what any real politician would say to Donald Trump.  
+The product exists here because the aesthetic is funny.
 
 ### 🤓 Keir Starmer Awkward Boy Edition
 
@@ -776,8 +764,7 @@ Britain has stock.
 
 ## 🎖️ Titles Available
 
-Several potential products arrive with titles, honours or other forms of
-British ceremonial furniture.
+Several potential products arrive with titles, honours or other forms of British ceremonial furniture.
 
 This materially improves the export proposition.
 
@@ -785,9 +772,7 @@ The American customer is not merely receiving a political man.
 
 He may be receiving a **Sir**.
 
-Potentially a historically styled **Lord** product category exists too, subject
-to the rather important complication that real titles, offices and current
-statuses must not be flattened into interchangeable costume jewellery.
+Potentially a historically styled **Lord** product category exists too, subject to the rather important complication that real titles, offices and current statuses must not be flattened into interchangeable costume jewellery.
 
 For the purposes of the fictional catalogue, however:
 
@@ -848,9 +833,7 @@ The market brings buyer and seller together.
 
 The strategic proposition can therefore mutate:
 
-> If America would genuinely enjoy a rotating collection of old British
-> political men talking at Donald Trump in increasingly elaborate registers,
-> Britain is prepared to discuss volume pricing.
+> If America would genuinely enjoy a rotating collection of old British political men talking at Donald Trump in increasingly elaborate registers, Britain is prepared to discuss volume pricing.
 
 Tony can remain the flagship interactive unit.
 
@@ -860,17 +843,13 @@ Starmer provides the slightly nerdy awkward-boy variant.
 
 If the customer would like more, Britain has a deep back catalogue.
 
-The catalogue should remain satirical rather than become a factual claim that
-any named person would actually perform the advertised behaviour.
+The catalogue should remain satirical rather than become a factual claim that any named person would actually perform the advertised behaviour.
 
 But as an information-ecology joke, the reversal is useful.
 
-The special relationship is usually narrated as Britain worrying about
-dependency on American money, technology, security capacity and political
-attention.
+The special relationship is usually narrated as Britain worrying about dependency on American money, technology, security capacity and political attention.
 
-Here Britain looks at the dependency, looks at its own peculiar inventory, and
-asks:
+Here Britain looks at the dependency, looks at its own peculiar inventory, and asks:
 
 > **Fine. What can we sell them?**
 
@@ -884,8 +863,7 @@ Apparently the answer is:
 
 The export strategy also solves a longstanding technology-sector problem.
 
-For years, enormous sums have been spent trying to establish what a highly
-personalised, persistent, immersive social environment should actually provide.
+For years, enormous sums have been spent trying to establish what a highly personalised, persistent, immersive social environment should actually provide.
 
 Britain has completed the user research.
 
@@ -895,7 +873,7 @@ DONALD'S PERSONALISED EXPERIENCE
         🎪
    ┌─────────────┐
    │    TONY     │
-   │ 👁️       👁️ │
+   │ 👁️      👁️ │
    │             │
    │ INSERT  🪙  │
    └─────────────┘
@@ -929,8 +907,7 @@ We observed them and delivered an immersive, highly personalised experience.
 
 Tony was only Tier One.
 
-Once Britain discovers that the American market will accept political ambience
-as a service, the capability becomes stackable.
+Once Britain discovers that the American market will accept political ambience as a service, the capability becomes stackable.
 
 Not a **Man Stack**.
 
@@ -968,8 +945,8 @@ America:
 
 Britain:
 
-> “Please consult section 14.7(b) of the British ‘Gentleman’ Stack Terms of
-> Service. *Gentleman* appears in quotation marks.”
+> “Please consult section 14.7(b) of the British ‘Gentleman’ Stack Terms of Service.  
+> *Gentleman* appears in quotation marks.”  
 
 > “But that isn't what gentleman means.”
 
@@ -1021,11 +998,9 @@ BRITISH POLITICAL MEN
 TALKING AT IT
 ```
 
-Every additional failure to sort the admin therefore unlocks **another British
-man**.
+Every additional failure to sort the admin therefore unlocks **another British man**.
 
-The United States has a finite window in which to prevent **Full Stack British
-Political Man as a Service**.
+The United States has a finite window in which to prevent **Full Stack British Political Man as a Service**.
 
 ---
 
@@ -1037,8 +1012,7 @@ Jacob Rees-Mogg remains, for the moment, in **domestic strategic reserve**.
 
 The reason is brutally practical: Britain still has admin.
 
-Somebody must remain available for the day on which a procedural fault becomes
-so obscure that the effective error message reads:
+Somebody must remain available for the day on which a procedural fault becomes so obscure that the effective error message reads:
 
 > **HOUSE DISPLEASED. CONSULT ERSKINE MAY.**
 
@@ -1067,9 +1041,7 @@ ABSOLUTELY NOT.
 WE STILL HAVE ADMIN.
 ```
 
-Once the British administrative state reaches the glorious technological
-singularity in which **the admin can do itself**, this restriction may be
-reviewed.
+Once the British administrative state reaches the glorious technological singularity in which **the admin can do itself**, this restriction may be reviewed.
 
 At that point:
 
@@ -1087,15 +1059,9 @@ Britain:
 
 ## 🧾 Terms Of Tony
 
-The deeper irritation behind the joke is not simply that Britain buys American
-software.
+The deeper irritation behind the joke is not simply that Britain buys American software.
 
-It is the experience of buying products intended to simplify administration
-and then discovering that the administrative environment now depends upon
-layers of licences, service terms, contractual definitions, jurisdictional
-assumptions, product boundaries, integrations, updates, subscriptions and
-small rules whose practical effects can travel far beyond the place in which
-they were drafted.
+It is the experience of buying products intended to simplify administration and then discovering that the administrative environment now depends upon layers of licences, service terms, contractual definitions, jurisdictional assumptions, product boundaries, integrations, updates, subscriptions and small rules whose practical effects can travel far beyond the place in which they were drafted.
 
 The satirical British response is not to pretend those rules do not exist.
 
@@ -1109,9 +1075,7 @@ It is to become **equally annoying about definitions**.
 >
 > We discovered the tiny rules.
 >
-> We discovered that rules written for one legal and commercial environment
-> can become operational facts somewhere else once the software becomes part of
-> the infrastructure.
+> We discovered that rules written for one legal and commercial environment can become operational facts somewhere else once the software becomes part of the infrastructure.
 >
 > Fine.
 >
@@ -1127,13 +1091,11 @@ You gave us Terms of Service.
 
 ## 🖊️ Stop-Gap Signatory Doctrine
 
-The fictional deployment model does not even require Britain to identify one
-grand mastermind responsible for the administrative problem.
+The fictional deployment model does not even require Britain to identify one grand mastermind responsible for the administrative problem.
 
 That would be far too straightforward.
 
-Instead, the system looks for the human decision interfaces around the
-technological thing.
+Instead, the system looks for the human decision interfaces around the technological thing.
 
 ```text
 TECHNOLOGICAL THING
@@ -1163,9 +1125,7 @@ IS COVERED
 
 The relevant person need not be *the person responsible*.
 
-They need only occupy a sufficiently consequential authorisation, procurement,
-renewal, oversight or **stop-gap signatory** position around the thing that
-keeps becoming everybody else's administrative reality.
+They need only occupy a sufficiently consequential authorisation, procurement, renewal, oversight or **stop-gap signatory** position around the thing that keeps becoming everybody else's administrative reality.
 
 America:
 
@@ -1173,24 +1133,17 @@ America:
 
 Britain:
 
-> “Your technology appears in the relevant administrative dependency and this
-> office appears in the applicable decision environment.”
+> “Your technology appears in the relevant administrative dependency and this office appears in the applicable decision environment.”
 
 > “But they didn't buy the software.”
 
 Britain:
 
-> **NEITHER DID THE BRITISH WOMAN CURRENTLY TRYING TO MAKE HER FUCKING COUNCIL
-> PORTAL TALK TO SIX AMERICAN CLOUD SERVICES, BRAD.**
+> **NEITHER DID THE BRITISH WOMAN CURRENTLY TRYING TO MAKE HER FUCKING COUNCIL PORTAL TALK TO SIX AMERICAN CLOUD SERVICES, BRAD.**
 
-The joke is intentionally unfair at the individual level because the system
-being parodied can feel unfair at the individual level: consequences arrive
-with users and administrators who did not negotiate the original terms,
-design the dependency or choose every upstream component.
+The joke is intentionally unfair at the individual level because the system being parodied can feel unfair at the individual level: consequences arrive with users and administrators who did not negotiate the original terms, design the dependency or choose every upstream component.
 
-The serious analytical task remains to identify the actual decision rights,
-contracts, jurisdictions and dependencies rather than assigning responsibility
-by proximity.
+The serious analytical task remains to identify the actual decision rights, contracts, jurisdictions and dependencies rather than assigning responsibility by proximity.
 
 The fictional remedy, however, is simpler.
 
@@ -1216,11 +1169,7 @@ This is no longer retaliation.
 
 It is **cost recovery**.
 
-The objective is to keep supplying the relevant American decision environment
-with British political ambience until Britain has recovered enough value to
-pay the bill generated by all the software, services, integrations,
-subscriptions and remedial work involved in keeping the administrative machine
-running.
+The objective is to keep supplying the relevant American decision environment with British political ambience until Britain has recovered enough value to pay the bill generated by all the software, services, integrations, subscriptions and remedial work involved in keeping the administrative machine running.
 
 The escalation ladder therefore has an accounting function:
 
@@ -1253,13 +1202,9 @@ Britain has a back catalogue.
 
 ## 🕸️ Why The Stack Belongs Here
 
-The British “Gentleman” Stack is funny because it turns an invisible
-administrative externality into a visible human one.
+The British “Gentleman” Stack is funny because it turns an invisible administrative externality into a visible human one.
 
-If software, contractual assumptions, service dependencies and technical
-systems can travel across the Atlantic and become somebody else's daily
-administrative problem, the satire sends something equally persistent in the
-opposite direction:
+If software, contractual assumptions, service dependencies and technical systems can travel across the Atlantic and become somebody else's daily administrative problem, the satire sends something equally persistent in the opposite direction:
 
 **British men who talk at the decision environment until the invoice is paid.**
 
@@ -1285,9 +1230,7 @@ WHO CAN SEE THE FULL BILL?
 WHO HAS POWER TO FIX THE JOIN?
 ```
 
-The quotation marks, the stop-gap signatory, the escalating stack and the
-ridiculous willingness to accept crypto are all ways of making the same
-frustration legible:
+The quotation marks, the stop-gap signatory, the escalating stack and the ridiculous willingness to accept crypto are all ways of making the same frustration legible:
 
 **small upstream rules can become large downstream governance conditions.**
 
@@ -1299,15 +1242,11 @@ The joke's counter-export makes that direction of travel impossible to ignore.
 
 The British “Gentleman” Stack has a cultural prototype.
 
-Britain has been imagining men who can appear in drawing rooms, clubs, country
-houses, cocktail parties and other people's business for a very long time.
+Britain has been imagining men who can appear in drawing rooms, clubs, country houses, cocktail parties and other people's business for a very long time.
 
-The Wodehouse register gives the fictional export programme its proper shape:
-not one grand emissary, but an apparently inexhaustible social ecology of
-Berties, Gussies, Barmies, Tuppies and associated men.
+The Wodehouse register gives the fictional export programme its proper shape: not one grand emissary, but an apparently inexhaustible social ecology of Berties, Gussies, Barmies, Tuppies and associated men.
 
-The names matter because they make the deployment sound less like diplomacy and
-more like somebody has accidentally opened a door at the Drones Club.
+The names matter because they make the deployment sound less like diplomacy and more like somebody has accidentally opened a door at the Drones Club.
 
 ```text
 BERTIE WOOSTER TYPE
@@ -1321,9 +1260,7 @@ TUPPY GLOSSOP TYPE
 MORE AVAILABLE
 ```
 
-The real Wodehouse characters remain fictional characters. The “types” here are
-comic templates for the Polaris satire, not claims that contemporary political
-figures literally correspond to them.
+The real Wodehouse characters remain fictional characters. The “types” here are comic templates for the Polaris satire, not claims that contemporary political figures literally correspond to them.
 
 The important capability is **depth on the bench**.
 
@@ -1337,12 +1274,9 @@ Britain has more genres of man.
 
 The stack need not arrive only at formal government offices.
 
-Influence does not travel solely through the room in which a final signature is
-made.
+Influence does not travel solely through the room in which a final signature is made.
 
-The fictional deployment strategy therefore places British “gentlemen” around
-the wider environments through which technology, finance, policy fashion,
-investment and elite consensus move.
+The fictional deployment strategy therefore places British “gentlemen” around the wider environments through which technology, finance, policy fashion, investment and elite consensus move.
 
 ```text
                  SILICON VALLEY
@@ -1379,14 +1313,10 @@ Some are simply, inexplicably, in somebody's living room at a cocktail party.
 
 > “Influence.”
 
-This is deliberately comic shorthand. In real analysis, presence is not proof
-of influence, acquaintance is not coordination, and a social room is not a
-decision record. The joke works because informal environments can matter while
-remaining much harder to represent than an organisation chart.
+This is deliberately comic shorthand. In real analysis, presence is not proof of influence, acquaintance is not coordination, and a social room is not a decision record.  
+The joke works because informal environments can matter while remaining much harder to represent than an organisation chart.
 
-The satire therefore deploys men to **junction points**, while the analytical
-method underneath it asks which junctions actually transmit information,
-authority, money, access or policy assumptions.
+The satire therefore deploys men to **junction points**, while the analytical method underneath it asks which junctions actually transmit information, authority, money, access or policy assumptions.
 
 ---
 
@@ -1394,8 +1324,7 @@ authority, money, access or policy assumptions.
 
 Silicon Valley does not get exclusive custody.
 
-Technology is financed, insured, acquired, floated, invested in and valued
-through financial systems as well as designed through engineering systems.
+Technology is financed, insured, acquired, floated, invested in and valued through financial systems as well as designed through engineering systems.
 
 Accordingly, some British “gentlemen” must be deployed to Wall Street.
 
@@ -1418,24 +1347,17 @@ The purpose is not to claim that every room forms one coordinated network.
 
 Quite the opposite.
 
-The useful question is which relationships are consequential, which are merely
-social, which carry information, which carry money, and which turn out to be
-decorative.
+The useful question is which relationships are consequential, which are merely social, which carry information, which carry money, and which turn out to be decorative.
 
-The British countermeasure simply refuses to leave any potentially important
-room aesthetically under-supplied.
+The British countermeasure simply refuses to leave any potentially important room aesthetically under-supplied.
 
 ---
 
 ## 🥽 Fine, We Have Learnt From The Metaverse
 
-At the furthest edge of the joke, Britain decides to take seriously the
-commercial proposition that human attention, behaviour, social interaction and
-data can themselves become sources of economic value.
+At the furthest edge of the joke, Britain decides to take seriously the commercial proposition that human attention, behaviour, social interaction and data can themselves become sources of economic value.
 
-If a technology economy can build environments around behavioural design,
-personalisation, recommendation, engagement and value extraction from human
-activity, Britain can at least parody the logic.
+If a technology economy can build environments around behavioural design, personalisation, recommendation, engagement and value extraction from human activity, Britain can at least parody the logic.
 
 Fine.
 
@@ -1475,23 +1397,17 @@ to deal with this
 FIX THE ADMIN
 ```
 
-The equivalence is intentionally ridiculous. A human being is not a software
-platform, and the node is not proposing that actual people be treated as
-deployable objects.
+The equivalence is intentionally ridiculous. A human being is not a software platform, and the node is not proposing that actual people be treated as deployable objects.
 
 The satire is aimed at the **direction of extraction**.
 
-If people, attention, relationships and behaviour are increasingly treated as
-inputs from which commercial systems can derive value, the fictional British
-response turns the people themselves into the deliberately conspicuous
-“product”.
+If people, attention, relationships and behaviour are increasingly treated as inputs from which commercial systems can derive value, the fictional British response turns the people themselves into the deliberately conspicuous “product”.
 
 No headset required.
 
 No behavioural model required.
 
-Just Barmy Fotheringay-Phipps inexplicably at the cocktail party until somebody
-offers Britain mates' rates.
+Just Barmy Fotheringay-Phipps inexplicably at the cocktail party until somebody offers Britain mates' rates.
 
 ---
 
@@ -1503,8 +1419,7 @@ Britain does not need dominion.
 
 Britain does not need tribute.
 
-Britain would simply like the alleged special relationship to produce a
-recognisable **friends-and-family discount on the administrative dependency**.
+Britain would simply like the alleged special relationship to produce a recognisable **friends-and-family discount on the administrative dependency**.
 
 ```text
 AMERICAN SOFTWARE BILL
@@ -1547,8 +1462,7 @@ The account is moving towards settlement.
 
 The British industrial strategy has therefore reached its mature form:
 
-> **Export Wodehouse-shaped administrative inconvenience until SaaS pricing
-> improves.**
+> **Export Wodehouse-shaped administrative inconvenience until SaaS pricing improves.**
 
 Or, in the language of the special relationship:
 
@@ -1589,22 +1503,18 @@ RESUBMIT
         ↓
    ┌─────────────┐
    │    BARMY    │
-   │ 👁️       👁️ │
+   │ 👁️      👁️ │
    │             │
    └─────────────┘
 ```
 
-Photocopies, electronic signatures and signatures in blue ink cannot be
-accepted.
+Photocopies, electronic signatures and signatures in blue ink cannot be accepted.
 
 Please do not staple.
 
-If the form is sent to Gentleman Deployment rather than Gentleman Removal, it
-will be returned to the applicant. The two functions are administered
-separately.
+If the form is sent to Gentleman Deployment rather than Gentleman Removal, it will be returned to the applicant.  The two functions are administered separately.
 
-Telephone enquiries may require the eleven-digit reference number printed on
-your acknowledgement.
+Telephone enquiries may require the eleven-digit reference number printed on your acknowledgement.
 
 The telephone system accepts ten digits.
 
@@ -1622,8 +1532,7 @@ Britain has been studying software.
 
 ## 🗣️ Accent Effects Are Outside Scope
 
-Britain also cannot accept responsibility for every secondary social effect of
-placing British men into American decision environments.
+Britain also cannot accept responsibility for every secondary social effect of placing British men into American decision environments.
 
 They have voices.
 
@@ -1658,26 +1567,20 @@ Britain:
 🤷‍♀️
 ```
 
-No warranty is made regarding invitations to dinners, drinks, conferences,
-living rooms, parties or other environments subsequently generated by the
-recipient market.
+No warranty is made regarding invitations to dinners, drinks, conferences, living rooms, parties or other environments subsequently generated by the recipient market.
 
-Britain will not provide American men with an impact assessment explaining
-what British accents may do.
+Britain will not provide American men with an impact assessment explaining what British accents may do.
 
 That is not necessary for operation of the service.
 
-If a deployed “gentleman” acquires additional invitations and thereby appears
-at further junction points, this should not automatically be read as evidence
-of coordinated influence. Presence is still not influence; attraction is not
-coordination; social proximity is not a decision record.
+If a deployed “gentleman” acquires additional invitations and thereby appears at further junction points, this should not automatically be read as evidence of coordinated influence.  
+Presence is still not influence; attraction is not coordination; social proximity is not a decision record.  
 
 But as far as the fictional commercial model is concerned:
 
 **organic distribution is organic distribution.**
 
-We cannot interfere with the free market merely because the product has found
-an audience.
+We cannot interfere with the free market merely because the product has found an audience.
 
 ---
 
@@ -1702,15 +1605,16 @@ VERY WELL
 WE HAVE AN EXPORT TOO
         ↓
         🎪
-   ┌─────────┐
-   │  TONY   │
-   │  🪙 → 💬 │
-   └─────────┘
+   ┌──────────┐
+   │   TONY   │
+   │ 🪙 → 💬 │
+   └──────────┘
 ```
 
 The object being exported is deliberately absurd. That is the point.
 
-Instead of imagining the UK–US relationship only through grand strategy, military hardware and polished diplomatic language, the joke asks what **burden-sharing looks like when the burden is institutional inheritance**: people, habits, policy fashions, advisory ecosystems, assumptions about power and recurring ideas that cross borders long after anybody remembers ordering them.
+Instead of imagining the UK–US relationship only through grand strategy, military hardware and polished diplomatic language, the joke asks what **burden-sharing looks like when the burden is institutional inheritance**:  
+people, habits, policy fashions, advisory ecosystems, assumptions about power and recurring ideas that cross borders long after anybody remembers ordering them.
 
 The deterrent therefore succeeds when America asks:
 
@@ -1781,7 +1685,7 @@ uk-us relations, special relationship, deterrence satire, institutional inherita
 
 ## 🏮 Footer
 
-*See Our New Deterrence Capability* is a satirical node of the **Polaris Protocol**. It uses an intentionally ridiculous export mechanism to invert the language of strategic burden-sharing and expose the movement of institutional habits, people and policy assumptions beneath polished bilateral narratives.
+*🐳 See Our New Deterrence Capability* is a satirical node of the **Polaris Protocol**. It uses an intentionally ridiculous export mechanism to invert the language of strategic burden-sharing and expose the movement of institutional habits, people and policy assumptions beneath polished bilateral narratives.
 
 > 📡 Cross-references:
 >
@@ -1798,4 +1702,4 @@ uk-us relations, special relationship, deterrence satire, institutional inherita
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-17_
+_Last updated: 2026-09-20_
