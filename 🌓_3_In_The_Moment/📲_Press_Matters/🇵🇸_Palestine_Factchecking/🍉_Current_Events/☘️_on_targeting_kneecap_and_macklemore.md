@@ -1,9 +1,9 @@
-# ☘️ On Targeting Kneecap And Macklemore
-
-**First created:** 2026-09-19 | **Last updated:** 2026-09-19  
+# ☘️ On Targeting Kneecap And Macklemore  
+**First created:** 2026-09-19 | **Last updated:** 2026-09-20  
 *Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*
 
 ---
+
 ## 🛰️ Orientation
 
 There is a very easy way to spend this entire node talking about Kneecap, Macklemore, Ed Sheeran, Robert Kraft, Keir Starmer, Irishness, Jewishness, antisemitism, terrorism, free speech, the NFL, colonialism, whiteness, the Good Friday Agreement, Cable Street, and whether somebody has accidentally written extremely good band merch.
@@ -45,6 +45,7 @@ And, while we are all arguing:
 > **What the fuck is happening to the original conversation?**
 
 ---
+
 ## 1. 📰 Three Headlines And A Problem
 
 Keep these together.
@@ -70,6 +71,7 @@ Then Irish artists start talking about colonial history, partition, Palestine, B
 🚨 *Oh no. It has opinions.*
 
 ---
+
 ## 2. 🎶 The Information Starts Travelling
 
 - [🎶: Keith O’Brien covers *Can’t Hold Us* in Irish Gaelic](https://vm.tiktok.com/ZN86Xs1HS/)
@@ -82,6 +84,7 @@ Then Irish artists start talking about colonial history, partition, Palestine, B
 - [📹: MEE: commentary on Ed Sheeran, Macklemore and free speech](https://vm.tiktok.com/ZN864QTnM/)
 - [📹: BreakThrough News: Macklemore, Robert Kraft and the tour dispute](https://vm.tiktok.com/ZN86VRDeE/)
 - [📹: Xevi, via TikTok: “Edward Christopher Sheeran trippin”](https://vm.tiktok.com/ZN86V5dJf/)
+- [🎶: Akintoye, via TikTok: Bottom Line](https://vm.tiktok.com/ZN86v8nPe/)  
 
 These links do not all carry the same evidentiary weight. A TikTok is not automatically evidence that the claim inside the TikTok is true.
 
@@ -684,4 +687,4 @@ It follows a contemporary music and platforming controversy outward into questio
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-19*
+_Last updated: 2026-09-20_
