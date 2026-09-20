@@ -1,6 +1,6 @@
-# 📋 Exhibit F — AI v UK Law
-**First created:** 2026-09-16 | **Last updated:** 2026-09-16  
-*America sold us artificial intelligence. Britain appears to have neglected to mention that the computer would first have to meet Britain.*
+# 📋 Exhibit F — AI v UK Law  
+**First created:** 2026-09-16 | **Last updated:** 2026-09-20  
+*America sold us artificial intelligence. Britain appears to have neglected to mention that the computer would first have to meet Britain.*  
 
 ---
 
@@ -679,7 +679,7 @@ artificial intelligence, public administration, digital government, administrati
 
 ## 🏮 Footer
 
-*Exhibit F — AI v UK Law* is a living node of the **Polaris Protocol**.  
+*📋 Exhibit F — AI v UK Law* is a living node of the **Polaris Protocol**.  
 It uses a narrow Parliamentary Question about an AI-assisted mapping exercise as an entry point into the wider governance problem of technological adoption inside a legally and institutionally complex state. It does not allocate blame for that mismatch; it asks how capability claims, legal constraints, implementation dependencies, advice and public expenditure were brought together when Britain decided what AI should do.
 
 > 📡 Cross-references:
@@ -698,4 +698,4 @@ It uses a narrow Parliamentary Question about an AI-assisted mapping exercise as
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-16_
+_Last updated: 2026-09-20_
