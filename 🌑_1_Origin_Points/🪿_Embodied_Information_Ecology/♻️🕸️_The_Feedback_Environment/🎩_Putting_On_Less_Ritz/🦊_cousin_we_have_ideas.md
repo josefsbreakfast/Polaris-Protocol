@@ -2065,9 +2065,9 @@ The fox is a satirical analytical device. The paperwork is unfortunately real.
 
 > 📡 Cross-references:
 >
-> - [🎩 Putting On Less Ritz](./README.md) — *immediate cluster for reducing grand claims into workable institutional questions*
-> - [♻️🕸️ The Feedback Environment](../README.md) — *wider cybernetic analysis of feedback, incentives and system conditions*
-> - [🪿 Embodied Information Ecology](../../README.md) — *parent framework for information as experienced and acted upon*
+> - [🇺🇸 Dear America](./🇺🇸_dear_america.md) — *the complaint letter at the centre of the cluster*
+> - [🐳 See: Our New Deterrence Capability!](./🐳_see_our_new_deterrence_capability.md) — *Behold! The Tony Blair Zoltar Machine!*  
+> - [🦊 Cousin, We Have Ideas...](./🦊_cousin_we_have_ideas.md) — *we always have thoughts*  
 >
 > 🏮 Return To:
 >
