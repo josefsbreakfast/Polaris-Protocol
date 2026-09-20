@@ -495,7 +495,7 @@ America builds things Britain genuinely wants, Britain becomes dependent upon so
 > - [📋 Exhibit D: Fucking Cables](./📋_exhibit_d_fucking_cables.md) — *interoperability enters the evidence bundle*
 > - [📋 Exhibit E: Printer Ink](./📋_exhibit_e_printer_ink.md) — *the recurring temptation to turn ownership into an ongoing commercial relationship*
 > - [📋 Exhibit F: AI v UK Law](./📋_exhibit_f_ai_v_uk_law.md) — *what happens when the latest American technology proposition encounters another country's legal system*
-> - [🐳 See Our New Deterrence Capability](./🐳_see_our_new_deterrence_capability.md) — *Behold! The Tony Blair Zoltar Machine!*  
+> - [🐳 See: Our New Deterrence Capability!](./🐳_see_our_new_deterrence_capability.md) — *Behold! The Tony Blair Zoltar Machine!*  
 > - [🦊 Cousin, We Have Ideas...](./🦊_cousin_we_have_ideas.md) — *we always have thoughts*  
 >
 > 🏮 Return To:
