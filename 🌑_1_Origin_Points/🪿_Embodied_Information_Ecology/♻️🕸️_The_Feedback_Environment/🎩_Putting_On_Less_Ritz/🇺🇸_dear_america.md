@@ -16,54 +16,54 @@ We would instead like to purchase:
 
 Please find our requirements below:
 
-- **it can’t use a shit tonne of CPU.**
-Out the gate, Windows 10 pissed us off, and we don’t have space for a million data centres.
-Fuck off Hobbiton; we have it good here. We don’t need Big Folk data centres.
-**DID ANY OF YOU READ THAT BOOK OR NOT.**
+- **it can’t use a shit tonne of CPU.**  
+Out the gate, Windows 10 pissed us off, and we don’t have space for a million data centres.  
+Fuck off Hobbiton; we have it good here. We don’t need Big Folk data centres.  
+**DID ANY OF YOU READ THAT BOOK OR NOT.**  
 
-- **it needs to work with the computers we already fucking own.**  
-“Simply replace your entire hardware estate” is not an efficiency saving.
-No, it’s just a way to get more of our cash, and we are currently broke.
-Thanks to your last Wall Street crash.
+- **it needs to work with the computers we already fucking own.**    
+“Simply replace your entire hardware estate” is not an efficiency saving.  
+No, it’s just a way to get more of our cash, and we are currently broke.  
+Thanks to your last Wall Street crash.  
 
 - **it needs to do boring repetitive information work extremely well.**
-Find the document.
+Find the document.  
 Extract the relevant bit.  
-Compare the versions.
-Fill in the form.
-Update the tracker.
-Draft the routine letter.
-Tell Dave which three things actually require Dave.
-For the love of all that is good: **DO NOT GIVE US DISEMBODIED CLIPPY.**
-Are you aware of how long it takes for us to ask for things in English and then remember that it’s not actually English that we’re having to speak?
-It’s American English, and it corrects the vast majority of all of the polite language that we put around our language as per British English and translates it into your specific dialect of English?
-No. No, you don’t.
-Please stop making it some version of an assistant. We do not need more assistants.
+Compare the versions.  
+Fill in the form.  
+Update the tracker.  
+Draft the routine letter.  
+Tell Dave which three things actually require Dave.  
+For the love of all that is good: **DO NOT GIVE US DISEMBODIED CLIPPY.**  
+Are you aware of how long it takes for us to ask for things in English and then remember that it’s not actually English that we’re having to speak?  
+It’s American English, and it corrects the vast majority of all of the polite language that we put around our language as per British English and translates it into your specific dialect of English?  
+No. No, you don’t.  
+Please stop making it some version of an assistant. We do not need more assistants.  
 
 - **it needs to understand that “helping the analyst” may mean something completely different over here.**  
-Please describe the task, not the American job title.
+Please describe the task, not the American job title.  
 We have accidentally promoted half your workforce and it has caused considerable confusion.  
-If in doubt, how much would you pay this thing were it an actual worker?
-This may help, given your labour rights history.
+If in doubt, how much would you pay this thing were it an actual worker?  
+This may help, given your labour rights history.  
 
-- **it must show its working.**
-Where did that fact come from?
-Which document?
-Which version?
-What did you infer?
-What couldn’t you establish?
-We cannot put “the computer reckoned” in the audit trail.
-We gave you *QI*.
-We do pub quizzes.
-We find it odd that you do not.
-**STATE YOUR SOURCES.**
+- **it must show its working.**  
+Where did that fact come from?  
+Which document?  
+Which version?  
+What did you infer?  
+What couldn’t you establish?  
+We cannot put “the computer reckoned” in the audit trail.  
+We gave you *QI*.  
+We do pub quizzes.  
+We find it odd that you do not.  
+**STATE YOUR SOURCES.**  
 
-- **it must be interruptible.**
-If a human says stop, it stops.
-If a human corrects it, it does not spend six paragraphs explaining why technically it had a point.
-Do not make us turn it off and on again every five minutes.
+- **it must be interruptible.**  
+If a human says stop, it stops.  
+If a human corrects it, it does not spend six paragraphs explaining why technically it had a point.  
+Do not make us turn it off and on again every five minutes.  
 
-- **it must save labour rather than create AI-admin.**
+- **it must save labour rather than create AI-admin.**  
 If using the labour-saving device requires three new dashboards, mandatory prompt-engineering training, an “AI transformation lead” and forty-five minutes of checking everything it produced, America has sold us another job.
 We do not need more roles.
 That’s a you thing.
