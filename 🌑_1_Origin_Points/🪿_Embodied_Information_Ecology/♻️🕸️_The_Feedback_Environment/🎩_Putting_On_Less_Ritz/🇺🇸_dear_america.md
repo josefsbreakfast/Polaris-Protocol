@@ -1,5 +1,5 @@
 # 🇺🇸 Dear America
-**First created:** 2026-09-16 | **Last updated:** 2026-09-17  
+**First created:** 2026-09-16 | **Last updated:** 2026-09-20  
 *A reverse bid for artificial intelligence, interoperable technology, and a transatlantic relationship with considerably less fucking admin.*
 
 ---
@@ -417,9 +417,10 @@ We will all sound like the BBC when you can all dance like Fred Astaire.
 
 *Follow the evidence:*  
 
-- [📰: The Times: “Minister calls X a ‘disgrace’ for shunning talks on RNLI abuse”](https://www.thetimes.com/uk/politics/article/lisa-nandy-elon-musks-x-rnli-abuse-migrant-protests-vdm0bg3gd) – *The fake geek boy won’t take any responsibility for the humans risking their lives to save others at sea. Protect the boats, man-thot.*
-- [🏛️: Government Departments: Artificial Intelligence: Question for Cabinet Office](https://questions-statements.parliament.uk/written-questions/detail/2026-09-04/27254) – *See this, America? See this? ~7k statutory consultation constraints. If your automated workflow turns collisions with them into specialist exception handling, YOU HAVE NOT REMOVED THE ADMIN. YOU HAVE MOVED IT UP THE PAY SCALE.*
+- [📰: The Times: “Minister calls X a ‘disgrace’ for shunning talks on RNLI abuse”](https://www.thetimes.com/uk/politics/article/lisa-nandy-elon-musks-x-rnli-abuse-migrant-protests-vdm0bg3gd) – *The fake geek boy won’t take any responsibility for the humans risking their lives to save others at sea. Protect the boats, man-thot.*  
+- [🏛️: Government Departments: Artificial Intelligence: Question for Cabinet Office](https://questions-statements.parliament.uk/written-questions/detail/2026-09-04/27254) – *See this, America? See this? ~7k statutory consultation constraints. If your automated workflow turns collisions with them into specialist exception handling, YOU HAVE NOT REMOVED THE ADMIN. YOU HAVE MOVED IT UP THE PAY SCALE.*  
 - [📰: The Financial Times: “King Charles raises alarm over AI advances ahead of Burnham’s first meeting with Trump”](https://www.ft.com/content/f2c2e267-1e2e-457c-b08b-8a6a933ec285?syn-25a6b1a6=1) – *Oh and America/California/the lads in the Valley: stop nudging competitive news stories and calling it “reputation management”; many republicans will still protect the person who is “ours”. It is woefully transparent over the course of time. Stop prodding. They let you come over for dinner. Behave yourselves.*  
+- [📹: PoliticsJOE, via YouTube: "AI isn't Dangerous. America Is. | Cory Doctorow interview"](https://youtu.be/PL4VktU0SgY?si=RbDCS8M5yvguB0e6)  
 
 ---
 
@@ -432,7 +433,9 @@ artificial intelligence, information ecology, administrative burden, interoperab
 
 *🇺🇸 Dear America* is a living node of the **Polaris Protocol**.  
 
-It functions as a reverse bid from the user side of the transatlantic technology relationship: a requirements document for AI and digital systems that reduce administrative burden without demanding permanent infrastructural, linguistic, economic or behavioural adaptation from the customer. It also asks what capabilities Britain must retain so that technological partnership remains reciprocal exchange rather than unavoidable dependency.
+It functions as a reverse bid from the user side of the transatlantic technology relationship: a requirements document for AI and digital systems that reduce administrative burden without demanding permanent infrastructural, linguistic, economic or behavioural adaptation from the customer.  
+
+It also asks what capabilities Britain must retain so that technological partnership remains reciprocal exchange rather than unavoidable dependency.
 
 > 📡 Cross-references:
 >
