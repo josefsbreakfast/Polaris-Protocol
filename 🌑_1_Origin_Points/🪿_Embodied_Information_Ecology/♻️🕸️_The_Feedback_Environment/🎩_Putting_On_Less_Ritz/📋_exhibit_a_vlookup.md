@@ -171,13 +171,16 @@ productivity software, spreadsheets, vlookup, xlookup, administrative burden, wo
 ## 🏮 Footer
 
 *📋 Exhibit A: VLOOKUP* is a living node of the **Polaris Protocol**.  
+
 It uses a familiar office-software constraint as a compact test of technological priorities: before grand claims about transforming human intelligence, establish whether ordinary repetitive work has actually become easier for the humans doing it.
 
 > 📡 Cross-references:
->
-> - [🇺🇸 Dear America](./🇺🇸_dear_america.md) — *reverse bid for useful, interoperable, repairable technology with considerably less admin*
-> - [🎩 Putting On Less Ritz](./README.md) — *parent cluster for transatlantic technology translation and user-side requirements*
-> - [♻️🕸️ The Feedback Environment](../README.md) — *wider information-ecology and feedback architecture*
+>  
+> - [📋 Exhibit B: Windows Vista](./📋_exhibit_b_windows_vista.md) — *when technological improvement becomes imposed migration*
+> - [📋 Exhibit C: iPhone Batteries](./📋_exhibit_c_iphone_batteries.md) — *ownership, repairability and beautifully sealed objects*
+> - [📋 Exhibit D: Fucking Cables](./📋_exhibit_d_fucking_cables.md) — *interoperability enters the evidence bundle*
+> - [📋 Exhibit E: Printer Ink](./📋_exhibit_e_printer_ink.md) — *the recurring temptation to turn ownership into an ongoing commercial relationship*
+> - [📋 Exhibit F: AI v UK Law](./📋_exhibit_f_ai_v_uk_law.md) — *what happens when the latest American technology proposition encounters another country's legal system*
 >
 > 🏮 Return To:
 >
