@@ -1,6 +1,6 @@
-# 🎩 Putting On Less Ritz
-**First created:** 2026-09-16 | **Last updated:** 2026-09-16  
-*Dear America: we need to have a little chat about what you keep selling your supposed best mates.*
+# 🎩 Putting On Less Ritz  
+**First created:** 2026-09-16 | **Last updated:** 2026-09-20  
+*Dear America: we need to have a little chat about what you keep selling your supposed best mates.*  
 
 ---
 
@@ -10,7 +10,15 @@ Britain and America have a Special Relationship.
 
 We know this because everybody keeps fucking telling us.
 
-We are best friends. Closest allies. Cousins. Partners. Two nations divided by a common language. There are flags. There are state visits. There are extremely expensive dinners. Occasionally somebody mentions Churchill.
+We are best friends.  
+Closest allies.  
+Cousins.  
+Partners.  
+Two nations divided by a common language.  
+There are flags.  
+There are state visits.  
+There are extremely expensive dinners.  
+Occasionally somebody mentions Churchill.
 
 Lovely.
 
@@ -473,7 +481,10 @@ technology governance, anglo-american relations, special relationship, interoper
 ## 🏮 Footer
 
 *🎩 Putting On Less Ritz* is a living cluster of the **Polaris Protocol**.  
-It uses satire, consumer history and governance analysis to examine a recurring problem in Anglo-American technological interdependence: America builds things Britain genuinely wants, Britain becomes dependent upon some of them, and everybody becomes strangely surprised when Britain consequently develops opinions.
+
+It uses satire, consumer history and governance analysis to examine a recurring problem in Anglo-American technological interdependence:  
+
+America builds things Britain genuinely wants, Britain becomes dependent upon some of them, and everybody becomes strangely surprised when Britain consequently develops opinions.  
 
 > 📡 Cross-references:
 >
@@ -494,4 +505,4 @@ It uses satire, consumer history and governance analysis to examine a recurring 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-16_
+_Last updated: 2026-09-20_
