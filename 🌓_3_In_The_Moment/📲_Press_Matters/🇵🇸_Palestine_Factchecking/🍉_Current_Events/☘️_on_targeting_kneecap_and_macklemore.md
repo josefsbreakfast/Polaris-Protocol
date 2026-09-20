@@ -262,7 +262,9 @@ Likewise, the familiar “No Irish, No Blacks, No Dogs” formulation has its ow
 
 Irish histories should not be used to flatten Black British histories.
 
-**Different routes through the category are evidence that the category is doing work.**
+**Different routes through the category are evidence that the category is doing work.**  
+
+Incidentally, because I have seen this confusion before, [this is why there is a song called “Black and Tans”](https://youtu.be/cjGaH5Im8qI?is=yYkVy52XzP_6lh4y).  
 
 ---
 ## 11. 🚪 The Price Of Admission
