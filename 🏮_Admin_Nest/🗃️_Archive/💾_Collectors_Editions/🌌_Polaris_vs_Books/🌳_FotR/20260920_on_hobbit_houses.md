@@ -761,3 +761,9 @@ this may help explain why 1. reading is taking some time, and 2. the llm grassed
 
 
 I’m jusying saying I don’t need to have any  moves out anywhere near me unless there is going to be triple glazing, underfloor heating, and folklorically consistsnt family in-jokes. that’s my line. 
+
+https://youtube.com/shorts/aWV9O-HtrpM?is=6pzdW6-dd7nEFUpR
+
+my head has outstanding potential projects 
+
+don’t get me started on resins and timber 
