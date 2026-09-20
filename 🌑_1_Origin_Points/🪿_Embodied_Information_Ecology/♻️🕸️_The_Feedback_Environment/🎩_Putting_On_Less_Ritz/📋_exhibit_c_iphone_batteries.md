@@ -1,5 +1,5 @@
 # 📋 Exhibit C: iPhone Batteries
-**First created:** 2026-09-16 | **Last updated:** 2026-09-18  
+**First created:** 2026-09-16 | **Last updated:** 2026-09-20  
 *The battery was always going to wear out. Why did repair become a governance architecture?*
 
 ---
@@ -509,4 +509,4 @@ It uses smartphone batteries and screen repair as a case study in embodied techn
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-18_
+_Last updated: 2026-09-20_
