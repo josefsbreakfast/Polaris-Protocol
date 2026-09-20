@@ -97,6 +97,18 @@ The information does not merely travel.
 
 It changes carrier.
 
+And before I even hear any shit about women’s sport and what this does for building women’s and girl’s culture and confidence, especially post-authoritarianism and post-and peri-conflict:  
+
+- [Right to Skate: Afghan Girls’ Team](https://www.righttoskate.com/afghan-girls-team)
+- [Skateistan](https://www.skateistan.org/location/afghanistan)
+- [Road.cc: “Afghan women cycle to ‘make Afghanistan proud’”](https://road.cc/content/news/99777-afghan-women-cycle-make-afghanistan-proud%E2%80%9D)  
+- [BBC News: “Cycling sisters defy the Taliban to achieve Olympic dream”](https://www.bbc.co.uk/news/articles/c720jxej1ewo)
+- [France 24: “Escaping Kabul: The secret operation to exfiltrate the Afghan women's cycling team”](https://www.france24.com/en/tv-shows/reporters/20260612-escaping-kabul-secret-operation-exfiltrate-afghan-women-cycling-team)
+
+Respectfully: shut the absolute fuck up, if your “saving Western civilisation” means tearing down women and girls.  
+
+You can’t drop bombs on people and then forbid them to feel human again.  
+
 ---
 ## 3. 👕 Completely Intolerable™
 
