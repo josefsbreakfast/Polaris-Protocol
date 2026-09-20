@@ -88,7 +88,7 @@ Then Irish artists start talking about colonial history, partition, Palestine, B
 - [📹: Gaza Boxing Women, via TikTok, feat *Can’t Hold Us*](https://vm.tiktok.com/ZN86vdsAr/); [*”Don’t give up… I’m free to be the greatest alive… I’ve got stamina…”*](https://vm.tiktok.com/ZN86vrvNh/)
 - [الجزيرة
 : قوات الاحتلال الإسرائيلي تفرض حصارا واسعا على منطقة حداد ومحيط مستوطنتي غنيم وكاديم شرق جنين
-شمالي الضفة الغربية](https://vm.tiktok.com/ZN86wXfAM/)  
+شمالي الضفة الغربية](https://vm.tiktok.com/ZN86wXfAM/)  – *where is this “second” side I’m supposed to be seeing? isn’t that what you need for there to be a l”both” sides issue?*
 
 These links do not all carry the same evidentiary weight. A TikTok is not automatically evidence that the claim inside the TikTok is true.
 
