@@ -1,5 +1,5 @@
 # 📋 Exhibit D: Fucking Cables
-**First created:** 2026-09-16 | **Last updated:** 2026-09-16  
+**First created:** 2026-09-16 | **Last updated:** 2026-09-20  
 *Interoperability is a consumer-facing property, and the string between the two holes should not require specialist knowledge.*
 
 ---
@@ -598,7 +598,7 @@ cables, chargers, USB, USB-C, Lightning, 30-pin connector, rechargeable batterie
 
 ## 🏮 Footer
 
-*Exhibit D: Fucking Cables* is a living node of the **Polaris Protocol**.  
+*📋 Exhibit D: Fucking Cables* is a living node of the **Polaris Protocol**.  
 It uses charging cables, rechargeable batteries and connector transitions as a case study in lived interoperability: standards only create value when ordinary users can predictably connect, charge, maintain and continue using the physical objects already present in their lives.
 
 > 📡 Cross-references:
@@ -619,4 +619,4 @@ It uses charging cables, rechargeable batteries and connector transitions as a c
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-16_
+_Last updated: 2026-09-20_
