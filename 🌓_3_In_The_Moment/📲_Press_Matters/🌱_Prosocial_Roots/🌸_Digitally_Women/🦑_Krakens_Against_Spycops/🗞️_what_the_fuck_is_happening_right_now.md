@@ -1,1038 +1,739 @@
-# 🗞️ What The Fuck Is Happening Right Now
+# 🗞️ What The Fuck Is Happening Right Now?
+**First created:** 2026-09-20 | **Last updated:** 2026-09-20  
+*The fast-moving dashboard for the Spycops collision: what happened, what is established, what is being argued, what the government is deciding, and what remains unknown.*
 
-**First created:** 2026-09-20 \| **Last updated:** 2026-09-20\
-*An incident report from the week in which British safeguarding policy,
-the unfinished Spycops Inquiry, contemporary undercover-policing
-arguments, and women saying "hang on, what the fuck?" all arrived in the
-same administrative weather system.*
+---
 
-------------------------------------------------------------------------
+## 🛰️ Orientation
 
-## 🛰️ Orientation --- bc the British state existed for 24 hours unattended apparently
+If you have arrived here because several different British stories appear to have crashed into one another at once:
 
-Several things which would already be significant independently have
-landed almost on top of one another.
+**yes.**
 
-On **15 September 2026**, the Home Office published new statutory
-guidance for domestic abuse related death reviews under the cheerful
-systems-engineering proposition that the state should **learn from
-deaths following abuse and embed that learning across sectors** so
-future deaths can be prevented.
+This is the short current-state node.
 
-On **17 September**, Novara Media reported evidence given to the
-Undercover Policing Inquiry by Roger Pearce, a former undercover officer
-and former head of Metropolitan Police Special Branch. Pearce had
-described circumstances in which, in his view, sexual activity by an
-undercover officer could be authorised. His example referred to
-infiltration around serious damage to military bases and aircraft --- an
-example reported in the contemporary context of Palestine Action.
+The longer history is in [☕️ What Was Spycops?](./☕️_what_was_spycops.md). The deeper argument about consent, authority and institutional boundaries belongs in [🏏 Where Have All The Linesmen Gone?](./🏏_where_have_all_the_linesmen_gone.md). The September 2026 information-and-communications pile-up belongs in [🍉 Bro, Just STFU](./🍉_bro_just_stfu.md).
 
-Current policing institutions said: **no**.
+Here we are just trying to establish what the fuck is happening **now**.
 
-The Metropolitan Police told Novara that the conduct Pearce described
-would not be authorised and that having a sexual relationship is not an
-undercover-policing tactic. The College of Policing likewise said its
-current guidance does not provide a route for authorising sex as a means
-of gaining intelligence.
+The central collision is this:
 
-Then, on **20 September**, the government launched a **National
-Taskforce for Tackling Misogyny**, explicitly talking about prevention,
-lived experience, harmful attitudes, violence against women and girls,
-and turning evidence into action.
-
-Also on **20 September**, the *Guardian* reported that women and other
-people subjected to undercover policing were warning that government
-proposals concerning the unfinished Undercover Policing Inquiry could
-result in a **"cover-up"** if remaining work were curtailed or
-displaced.
-
-Also on **20 September**:
-
-**the Home Office consultation on the future of that inquiry closes at
-23:59.**
-
-So.
-
-``` text
-15 SEPTEMBER
-HOME OFFICE:
-"We must learn from deaths following abuse
-and embed learning across all sectors."
+```text
+PUBLIC INQUIRY INTO UNDERCOVER POLICING
+        +
+RECENT EVIDENCE ABOUT SEXUAL RELATIONSHIPS
+        +
+A CONTEMPORARY PALESTINE ACTION HYPOTHETICAL
+        +
+MET + COLLEGE OF POLICING SAYING NO, THAT IS NOT CURRENT POLICY
+        +
+HOME OFFICE CONSULTING ON WHETHER THE REMAINING INQUIRY WORK
+SHOULD CONTINUE IN ITS CURRENT FORM
+        +
+PEOPLE HARMED BY SPYCOPS SAYING DO NOT CURTAIL THE TRUTH-FINDING
+        +
+GOVERNMENT LAUNCHING A NATIONAL MISOGYNY TASKFORCE
+ON THE DAY THE CONSULTATION CLOSES
         ↓
-17 SEPTEMBER
-PUBLIC LEARNS:
-Former Special Branch chief has told the
-Spycops Inquiry he believes sexual activity
-could be authorised in some circumstances.
-
-Current policing institutions:
-"No. That isn't permissible."
-        ↓
-20 SEPTEMBER
-GOVERNMENT:
-National Taskforce for Tackling Misogyny.
-Prevention! Institutional responsibility!
-        ↓
-20 SEPTEMBER
-GUARDIAN:
-Women harmed by undercover policing warn
-government that changing/curtailing the
-remaining inquiry risks a cover-up.
-        ↓
-20 SEPTEMBER, 23:59
-HOME OFFICE CONSULTATION CLOSES
-        ↓
-🦑
-"Sorry, what?"
+BRO
+WHAT THE FUCK IS HAPPENING RIGHT NOW
 ```
 
-Like what is wrong with you all.
+That does **not** establish that these events were coordinated.
 
-This node is not yet the full history of Spycops. It is not the full
-legal analysis of sexual consent under conditions of undercover
-deception. It is not the full Palestine Action node.
+It does establish that they now coexist in the same public information environment.
 
-It is the contemporaneous incident report.
+---
 
-**What the fuck is happening right now?**
+## 1. 📅 The Very Short Timeline
 
-------------------------------------------------------------------------
+### 15 July 2026
 
-## 1. 🗓️ The Five-Day Pile-Up
+Former undercover officer and former Metropolitan Police Special Branch commander **Roger Pearce** gives evidence to the Undercover Policing Inquiry.
 
-### 15 September --- learning from abuse is apparently important
+In evidence later reported by Novara Media, Pearce discusses circumstances in which he believes sexual activity by an undercover officer could be authorised. Asked for contemporary examples of the seriousness he had in mind, he refers to conduct resembling recent Palestine Action cases involving military bases and factory damage.
 
-The Home Office published updated statutory guidance for **domestic
-abuse related death reviews**.
+Pearce says that when he led Special Branch he believed he possessed the power to authorise such a relationship, although he says nobody asked him to do so.
 
-The accompanying announcement placed the reform directly inside the
-government's wider violence against women and girls strategy. It said
-that learning from tragedy is a key part of that strategy: agencies
-should learn from deaths following abuse and embed those lessons across
-sectors in order to protect victims and prevent future deaths.
+That is **Pearce's evidence and interpretation**.
 
-The new framework places victims at the heart of reviews, strengthens
-oversight, and is supposed to improve the translation of recommendations
-into meaningful change.
+It is not the current Metropolitan Police or College of Policing position.
 
-This is straightforward safeguarding logic.
+### 16 July 2026
 
-Something terrible happens.
+Home Secretary **Shabana Mahmood** launches a consultation on the future of the Undercover Policing Inquiry.
 
-You reconstruct what happened.
+The government says it remains committed to justice, answers, accountability and recommendations, but is concerned by the Inquiry's duration, cost and delay in producing outcomes.
 
-You ask what institutions knew.
+The consultation asks whether the remaining work should continue through the Inquiry in its existing form or through alternative arrangements.
 
-You ask what they missed.
+### 29 July 2026
 
-You identify where information failed to move.
+The consultation deadline is extended to **20 September 2026 at 11:59pm**.
 
-You make recommendations.
+### 17 September 2026
 
-You alter the system.
+Novara Media publishes its report on Pearce's July evidence, making the Palestine Action hypothetical substantially more visible outside the Inquiry record.
 
-You try not to do it again.
+### 17 September 2026
 
-``` text
-HARM
-↓
-EXPERIENCE
-↓
-REVIEW
-↓
-EVIDENCE
-↓
-INSTITUTIONAL LEARNING
-↓
-CORRECTION
-↓
-PREVENTION
-↺
+A parliamentary answer records total UCPI expenditure of **£144,597,900 as of 30 June 2026**.
+
+### 20 September 2026
+
+The Guardian reports that affected people and campaigners fear curtailing the remaining Inquiry work would prevent a full systemic account. Some describe the prospect as a **“cover-up”**.
+
+That is their allegation and assessment.
+
+The Home Office position is that it is considering how to secure justice, accountability, learning and reform while addressing duration and cost.
+
+### Also 20 September 2026
+
+The government launches a **National Taskforce for Tackling Misogyny**, chaired by Minister for Women and Equalities Bridget Phillipson, intended to examine prevention across communities, workplaces and digital spaces and to complement the government's wider VAWG work.
+
+And at **11:59pm tonight**, the UCPI consultation closes.
+
+That timing is factual.
+
+What it means is open to interpretation.
+
+There is no evidence here establishing that the taskforce announcement was deliberately timed to distract from the Inquiry consultation.
+
+There is an entirely legitimate communications question about what those two government messages look like when placed next to one another.
+
+---
+
+## 2. 😬 What Did Pearce Actually Say?
+
+The important distinction is between:
+
+```text
+PEARCE'S VIEW
 ```
-
-Keep that model handy.
-
-We are going to need it again in approximately forty-eight hours.
-
-### 17 September --- unfortunately, the Spycops Inquiry has entered the chat
-
-On 17 September, Novara Media reported evidence Roger Pearce had given
-to the Undercover Policing Inquiry in July.
-
-Pearce is not a random man being asked for his thoughts about
-hypothetical spy sex.
-
-He is a former undercover officer who later headed Metropolitan Police
-Special Branch.
-
-In his evidence, Pearce described circumstances in which he believed
-sexual activity could be authorised in an undercover deployment. The
-example he gave involved infiltration relating to a breach of military
-bases intended to inflict serious economic damage, including damage to
-an aircraft.
-
-Novara connected that example to recent Palestine Action activity.
-
-That does **not** establish that undercover officers have had sex with
-Palestine Action activists.
-
-It does **not** establish that present policing policy authorises
-undercover officers to have sex with activists for intelligence
-purposes.
-
-Indeed, the current institutional response reported by Novara was the
-opposite.
-
-The Metropolitan Police said the conduct Pearce described would not be
-authorised.
-
-The College of Policing said current guidance is clear that sex must not
-be used as an undercover-policing tactic or authorised as a means of
-gaining intelligence, and that its guidance does not provide the route
-Pearce appeared to describe.
-
-Good.
-
-That leaves us with a different question.
-
-**Why did a former head of Special Branch apparently understand the
-boundary differently?**
-
-Was Pearce articulating an obsolete interpretation which present systems
-have decisively corrected?
-
-Was it peculiar to him?
-
-Was it once more widely held?
-
-How did the institutional understanding change?
-
-When?
-
-Through what guidance, management, authorisation and oversight
-structures?
-
-How do we know the correction propagated?
-
-Those are not questions answered by saying that the current rule is
-different.
-
-Those are precisely the kinds of questions an institutional inquiry
-exists to reconstruct.
-
-### 20 September --- tackling misogyny
-
-On 20 September, the government launched a **National Taskforce for
-Tackling Misogyny**.
-
-The announcement says the taskforce will bring together ministers,
-women's organisations, academics and local leaders; examine women's and
-girls' lived experiences; look at misogyny online, at work and in
-communities; and complement the government's wider work to halve
-violence against women and girls.
-
-The government's own language is about **prevention**.
-
-It is about harmful attitudes.
-
-It is about listening to women.
-
-It is about using evidence to shape policy.
-
-It is about intervening before harm escalates.
-
-Again: fine.
-
-Useful, even.
-
-Please retain this conceptual framework for approximately the next
-paragraph.
-
-### Also 20 September --- hello from the women harmed by undercover policing
-
-The *Guardian* reports that women and other people subjected to
-intrusive undercover policing are objecting to possible changes to the
-remaining Undercover Policing Inquiry.
-
-Their allegation is serious: they argue that curtailing or weakening the
-unfinished work risks a **cover-up**.
-
-That is their allegation, not an established finding about the Home
-Office's intention.
-
-The Home Office's stated position is different. Its consultation says
-ministers are concerned about the inquiry's extraordinary duration and
-cost, want accountability and learning delivered without further
-unnecessary delay, and are considering the most appropriate,
-proportionate and effective way to complete its remaining objectives.
-
-Those are legitimate governance questions.
-
-Unfortunately, the remaining objectives include questions about
-**undercover policing after the historical Special Demonstration Squad
-period, management and oversight, and current and future practice**.
-
-Which is awkward timing when a former Special Branch chief's
-contemporary understanding of sexual conduct in undercover operations
-has just been publicly contradicted by present policing institutions.
-
-### Also also 20 September --- consultation closes
-
-The Home Office consultation opened on 16 July.
-
-Its deadline was extended on 29 July.
-
-It closes at **23:59 on 20 September 2026**.
-
-Today.
-
-🦑
-
-**Sorry, what?**
-
-------------------------------------------------------------------------
-
-## 2. 🕵️ Wait, What Is The Spycops Inquiry?
-
-The **Undercover Policing Inquiry** was established in **2015** under
-the Inquiries Act 2005 to investigate undercover policing in England and
-Wales since **1968**.
-
-It was originally expected to conclude within three years.
-
-More than ten years later, it is still going.
-
-That is not a minor administrative delay.
-
-The inquiry has become enormously expensive, enormously slow, and
-enormously frustrating for people who have already waited decades to
-understand what was done to them.
-
-But the inquiry exists because undercover policing produced harms which
-could not be understood simply by looking at individual officers in
-isolation.
-
-Among the matters exposed across the wider Spycops scandal are
-undercover officers infiltrating political and campaigning
-organisations, deceptive intimate relationships, surveillance of justice
-campaigns, management and oversight failures, and the use of identities
-belonging to deceased children to construct undercover personas.
-
-Some undercover officers formed sexual and intimate relationships with
-women who did not know their partners were police officers operating
-under false identities.
-
-Some relationships lasted years.
-
-Some officers fathered children.
-
-The use of deceased children's identities creates another layer of
-unreality altogether: the state was not merely withholding an officer's
-occupational information. In some deployments, policing infrastructure
-constructed a supposedly real human identity from the biographical
-existence of a child who had died.
-
-There is a whole history node required here.
-
-For present purposes:
-
-**this is why there is a public inquiry.**
-
-------------------------------------------------------------------------
-
-## 3. ⏰ Yes, The Inquiry Is Extremely Fucking Late
-
-We should not pretend otherwise.
-
-The Home Office says the inquiry was expected to finish within three
-years and has now spent more than **£138 million**.
-
-The delay matters.
-
-The cost matters.
-
-People harmed by undercover policing should not have to wait
-indefinitely for answers.
-
-Police forces and officers should not remain indefinitely inside
-unresolved processes.
-
-Government is entitled to ask whether a public inquiry is producing its
-remaining outcomes efficiently.
-
-But two propositions must not be collapsed into one:
-
-> **The inquiry has taken far too long.**
 
 and:
 
-> **The questions it has not yet answered therefore no longer require
-> answers.**
-
-Those are different propositions.
-
-In fact, delay can make institutional memory more fragile.
-
-Witnesses age.
-
-Records become harder to recover.
-
-Organisations reorganise.
-
-People die.
-
-Practices change.
-
-The longer a system waits to reconstruct its own failure, the easier it
-becomes for everybody currently operating the system to say:
-
-**well, that was a long time ago.**
-
-Which may be true.
-
-It is not the same as demonstrating what changed.
-
-------------------------------------------------------------------------
-
-## 4. ✂️ What Is Actually Being Reconsidered?
-
-The Home Office consultation does **not** simply say, "we are cancelling
-the Spycops Inquiry."
-
-Precision matters.
-
-It asks about the future **structure, scope and format** of the inquiry
-after the work concerning the Special Demonstration Squad in Tranches 1,
-2 and 3.
-
-The government asks whether remaining areas should still be pursued,
-which should be prioritised, which outcomes matter most, and whether
-some objectives could be achieved through alternative mechanisms.
-
-The remaining work identified by the Home Office includes:
-
-### Tranche 4 --- National Public Order Intelligence Unit, 1999--2011
-
-This includes deployments by the NPOIU, their conduct and impact,
-management and oversight, and the role of other bodies connected with
-undercover policing.
-
-### Tranche 5 --- other undercover policing, 1968--present
-
-This reaches beyond the SDS and NPOIU to other undercover policing
-across England and Wales, including deployment, management, oversight
-and the legal and regulatory framework.
-
-### Module 3 --- current and future undercover policing
-
-This concerns **current practice and how undercover policing should be
-conducted in the future**.
-
-Read that last one again.
-
-Because on 17 September the public was reading about a former Special
-Branch chief describing an understanding of when sexual activity could
-potentially be authorised.
-
-Current institutions say he is wrong.
-
-Excellent.
-
-**Module 3 is rather obviously where one might want to know why.**
-
-------------------------------------------------------------------------
-
-## 5. 🧸 Yes, The Dead Children Are In The Consultation Too
-
-The Home Office explicitly identifies several groups whose views it
-particularly seeks.
-
-They include:
-
--   women deceived into relationships with undercover officers;
--   individuals and groups reported upon;
--   representatives of family justice campaigns;
--   police forces and policing organisations;
--   and **family members of deceased children whose identities were
-    used**.
-
-That final category is not metaphorical.
-
-The history of undercover policing includes officers using the
-identities of children who had died to build convincing undercover
-identities.
-
-There will be a separate node for this because otherwise this incident
-report will fall directly through the floor.
-
-For now, note the systems point.
-
-An undercover identity is not merely an officer declining to announce:
-
-> Hello, I am a police officer.
-
-It can be an administratively constructed person.
-
-A name.
-
-A date of birth.
-
-A history.
-
-A social world.
-
-A story capable of surviving scrutiny.
-
-And living people can then form real relationships with that constructed
-identity.
-
-Which brings us back to the women.
-
-------------------------------------------------------------------------
-
-## 6. 🌸 The Women Are Not A Footnote
-
-The history is frequently described administratively as undercover
-officers having **"relationships"** with women.
-
-That word can carry far too little information.
-
-From the woman's side of the interaction, the relevant facts may
-include:
-
--   the man's name was false;
--   his biography was false;
--   his reason for entering her community was concealed;
--   his relationship to the state was concealed;
--   his purpose in maintaining access to people around her was
-    concealed;
--   and the apparent private citizen with whom she was making intimate
-    decisions was simultaneously performing a state function.
-
-Women and campaigners affected by Spycops have therefore used much
-stronger language than **relationship** to describe what happened,
-including descriptions centred on sexual abuse, coercion and rape.
-
-The precise legal status of particular conduct requires careful analysis
-and cannot simply be inferred from political or survivor terminology.
-
-But neither can the survivor's description be erased by administrative
-vocabulary.
-
-These are not informationally equivalent:
-
-``` text
-"UNDERCOVER OFFICER ENTERED A RELATIONSHIP"
-
-                    ≠
-
-"I CONSENTED TO SEX WITH A PERSON
-WHO I BELIEVED EXISTED,
-WHOSE IDENTITY AND PURPOSE WERE
-IN FACT BEING CONSTRUCTED AROUND
-A STATE OPERATION."
+```text
+CURRENT POLICING POLICY
 ```
 
-There is a profound question here about **where the state ends when the
-badge comes off**.
+According to the September report of his 15 July evidence, Pearce said he believed sexual activity could in exceptional circumstances be authorised where necessary in connection with sufficiently serious offending. His examples referred to conduct resembling recent Palestine Action cases.
 
-An arrest does not cease to be an exercise of state power because an
-officer is in plain clothes.
+He also said he believed he had held authority to approve sexual relationships while leading Special Branch, although nobody had asked him for such authorisation.
 
-So when an undercover officer is deployed by the state, operating under
-a state-supported identity, inside a community for a policing purpose,
-we need much better analysis than simply treating everything intimate
-that happens behind the disguise as automatically private conduct.
+The **Metropolitan Police rebutted his interpretation**.
 
-That does not answer every criminal-law question.
+The **College of Policing also rebutted it**.
 
-It does make the institutional question unavoidable.
+Both told Novara Media that sex must not be used as an undercover-policing tactic or authorised as a means of obtaining intelligence. The College's guidance does contemplate an emergency situation in which an officer perceives an immediate threat to themselves or others if they refuse sexual activity.
 
-What was authorised?
+That emergency exception is conceptually different from:
 
-What was known?
+> sex as a planned intelligence-gathering technique.
 
-What was tolerated?
+Keep those categories separate.
 
-What was supervised?
+Also keep this one separate:
 
-What was reported?
+**Pearce's evidence does not establish that undercover officers have had sexual relationships with Palestine Action activists.**
 
-What should have triggered intervention?
+His hypothetical used contemporary examples to explain his view about when authorisation might theoretically be justified.
 
-And what did the institution learn afterwards?
+That is precisely why the evidence is interesting.
 
-------------------------------------------------------------------------
+It links a historical argument about undercover sexual conduct to a live contemporary political environment **without proving that the historical conduct is presently occurring there**.
 
-## 7. 🇵🇸 And Then Somebody Mentioned Palestine Action
+---
 
-This part needs particular care.
+## 3. 🍉 Why Has Everybody Suddenly Gone “Excuse Me?”
 
-The evidence currently discussed in the press does **not** establish
-that an undercover officer has had sex with a Palestine Action activist.
+Because context is doing quite a lot of work.
 
-It does **not** establish a current policy permitting officers to do so.
+Pearce is not merely a random retired man discussing a hypothetical.
 
-Pearce's reported evidence matters for a narrower and more revealing
-reason.
+He was an SDS undercover officer.
 
-While discussing circumstances in which he believed sexual activity
-could be authorised, he referred to infiltration around breaches of
-military bases intended to cause serious economic damage, including
-damage to aircraft.
+He later became Commander of Metropolitan Police Special Branch and Director of Intelligence.
 
-Novara reported this in the context of Palestine Action.
+He has subsequently written spy fiction drawing on his national-security experience.
 
-Current policing authorities responded that the conduct he described
-would not be authorised and that sexual relationships are not an
-intelligence-gathering tactic.
+His novel *Agent of the State* includes an undercover officer deceiving a left-wing activist into a sexual relationship.
 
-So the live question is not:
+The Inquiry is examining real undercover officers deceiving women into sexual relationships.
 
-> **Are police currently fucking Palestine Action activists?**
+Pearce has now given evidence discussing circumstances in which he believes sexual activity might be authorised and used recent political direct action as his example.
 
-We do not have evidence establishing that.
+None of those facts automatically tells us what Pearce privately desires, why he wrote his fiction, or what motivated his evidence.
 
-The live question is:
+They do create an accumulation:
 
-> **Why, in July 2026, did a former head of Special Branch apparently
-> believe that the institutional framework could permit sexual conduct
-> in circumstances where current policing institutions say it cannot?**
-
-That distinction is important.
-
-It is also precisely why an unfinished inquiry into management,
-oversight, legal frameworks and **current and future practice** suddenly
-looks rather relevant.
-
-------------------------------------------------------------------------
-
-## 8. 📡 We Have Quite A Lot Of Spy Technology Now, Lads
-
-There is another proportionality question sitting underneath all of
-this.
-
-Modern policing and intelligence institutions have access to forms of
-surveillance that the architects of the earliest SDS deployments could
-barely have imagined.
-
-Electronic surveillance.
-
-Communications data.
-
-Digital records.
-
-Cameras.
-
-Location information.
-
-Network analysis.
-
-Open-source intelligence.
-
-Covert technical capabilities.
-
-Undercover human intelligence can still provide information technology
-cannot. Human beings can enter social contexts, understand meaning,
-observe relationships, build trust and encounter information that never
-appears in a database.
-
-Fine.
-
-But:
-
-> **"Undercover human intelligence can sometimes be necessary" does not
-> mean every form of intimacy available to an undercover officer is
-> therefore necessary.**
-
-Necessity and proportionality require asking whether the information can
-reasonably be obtained through less intrusive means.
-
-So there is an extremely basic contemporary question here:
-
-``` text
-WHAT INFORMATION IS REQUIRED?
-        ↓
-CAN IT BE OBTAINED THROUGH
-LESS INTRUSIVE MEANS?
-        ↓
-IF NO:
-WHY IS HUMAN INFILTRATION NECESSARY?
-        ↓
-IF HUMAN INFILTRATION IS NECESSARY:
-WHY IS INTIMATE ACCESS NECESSARY?
-        ↓
-IF INTIMATE ACCESS IS NOT NECESSARY:
-WHY THE FUCK ARE WE DISCUSSING
-WHETHER SEX COULD BE AUTHORISED?
+```text
+FORMER UNDERCOVER OFFICER
++
+FORMER SENIOR SPECIAL BRANCH OFFICER
++
+FICTION ABOUT UNDERCOVER SEXUAL DECEPTION
++
+REAL INQUIRY INTO UNDERCOVER SEXUAL DECEPTION
++
+2026 EVIDENCE ABOUT POSSIBLE AUTHORISATION
++
+CONTEMPORARY POLITICAL MOVEMENT USED AS EXAMPLE
+=
+😬
 ```
 
-We are paying for the spy technology.
+The appropriate response is not to infer the missing arrows.
 
-If somebody still thinks the state **needs his dick**, the burden of
-explanation should be rather high.
+It is to notice the arrows we actually have.
 
-------------------------------------------------------------------------
+---
 
-## 9. ♻️ The Safeguarding Feedback Problem
+## 4. ✋ The Met And College Of Policing Have Drawn A Line
 
-Now return to 15 September.
+This is important and should not disappear merely because Pearce's evidence is more spectacular.
 
-The Home Office says domestic abuse related death reviews matter because
-institutions must learn from tragedy and embed that learning across
-sectors.
+The current institutional position reported by both bodies is:
 
-Yes.
+> **sexual relationships are not an undercover-policing tactic and cannot be authorised as a means of gaining intelligence.**
 
-Correct.
+Good.
 
-That is a feedback system.
+🏏 **There is a line.**
 
-``` text
-HARM
-↓
-SURVIVOR / FAMILY KNOWLEDGE
-↓
-RECORD
-↓
-REVIEW
-↓
-PATTERN
-↓
-INSTITUTIONAL KNOWLEDGE
-↓
-RECOMMENDATION
-↓
-CORRECTION
-↓
-SAFER FUTURE PRACTICE
-↺
+The next questions are therefore ordinary governance questions:
+
+- How is that line taught?
+- How is it supervised?
+- What information reaches managers?
+- What happens when an officer approaches it?
+- What happens when an officer crosses it?
+- What protection exists for civilians affected by undercover conduct?
+- How do we know the safeguard works?
+- What has changed because of the historical failures?
+
+The existence of a rule is evidence of a rule.
+
+It is not, by itself, evidence that every system surrounding the rule is functioning perfectly.
+
+That is why **Module 3 — current and future undercover-policing practice — matters**.
+
+---
+
+## 5. 🏛️ What Is The Home Office Actually Considering?
+
+Not, at present:
+
+> **THE INQUIRY HAS BEEN ABOLISHED.**
+
+That has not happened.
+
+The Home Office consultation asks about the future **structure, scope and format** of the remaining work after Sir John Mitting completes his work on SDS Tranches 1–3 and retires.
+
+The government says it wants the fullest possible account for affected people and wants truth, accountability and learning delivered without unnecessary delay.
+
+But it also explicitly asks whether all remaining areas should still be pursued and whether mechanisms other than the Inquiry in its current form could address them.
+
+The work currently remaining includes:
+
+### Tranche 4
+
+The **National Public Order Intelligence Unit, 1999–2011** — including deployments, their impact, management, oversight and connected bodies.
+
+This matters particularly because the NPOIU deployed **Mark Kennedy**, whose deception of Kate Wilson led to major human-rights findings in the Investigatory Powers Tribunal.
+
+### Tranche 5
+
+**Other undercover policing, 1968–present**, beyond the SDS and NPOIU, including management, oversight and legal/regulatory arrangements.
+
+### Module 3
+
+**Current and future undercover-policing practices.**
+
+That is the bit where the Inquiry's historical information is supposed to become future-facing institutional learning.
+
+So the useful question is not simply:
+
+> Will the existing Inquiry machinery survive unchanged?
+
+It is:
+
+> **Who is going to finish the work?**
+
+If another mechanism can do it faster, cheaper and adequately:
+
+**show your working.**
+
+What powers will it have?
+
+What evidence will it receive?
+
+What findings can it make?
+
+What participation will affected people retain?
+
+What happens to disclosure?
+
+Who examines management?
+
+Who examines the NPOIU?
+
+Who examines current safeguards?
+
+When will answers arrive?
+
+Changing machinery is not inherently abandonment.
+
+Abandoning unanswered questions because the machinery became expensive is something else.
+
+---
+
+## 6. 💷 Yes, It Has Cost A Lot Of Money
+
+As of **30 June 2026**, the Inquiry had incurred **£144,597,900** in expenditure, according to a parliamentary answer given on 17 September.
+
+That is a substantial sum of public money.
+
+It is also a number that needs a denominator before it becomes an argument.
+
+The relevant questions include:
+
+```text
+WHAT HAS ALREADY BEEN BOUGHT WITH £144.6m?
+
+WHAT QUESTIONS REMAIN?
+
+WHAT WOULD COMPLETING THEM COST?
+
+WHAT VALUE IS LOST IF THE PROCESS STOPS BEFORE
+THE INFORMATION BECOMES INSTITUTIONAL LEARNING?
+
+CAN ANOTHER MECHANISM FINISH THEM MORE EFFICIENTLY?
+
+WHAT DOES FAILURE TO LEARN COST LATER?
 ```
 
-Every arrow can fail.
+The Home Office is entitled to ask whether the existing process is proportionate.
 
-A person can be frightened to report.
+Affected people are entitled to ask whether **cost is becoming a reason not to finish establishing how the state harmed them and how recurrence is prevented**.
 
-An institution can fail to record.
+Those questions can coexist.
 
-Records can remain compartmentalised.
+---
 
-Patterns can remain invisible.
+## 7. 🌸 Meanwhile: A National Misogyny Taskforce
 
-Management can discount warnings.
+On 20 September the government announced a National Taskforce for Tackling Misogyny.
 
-Recommendations can be ignored.
+Its stated purpose is preventative: bringing ministers, local leaders, academics and women's organisations together to examine harmful attitudes in communities, workplaces and digital spaces.
 
-Learning can fail to propagate.
+The first meeting will focus on young people, with later work on workplaces, digital environments and social cohesion.
 
-A system can announce that it has changed without demonstrating **how
-the correction moved through the system**.
+The government presents this as complementary to its wider ambition to halve violence against women and girls.
 
-This is why the Pearce disagreement matters.
+There is nothing inherently contradictory about government simultaneously:
 
-Current institutions saying:
-
-> **That is not permitted.**
-
-is useful information.
-
-It is not, by itself, the institutional history of how we got from
-**whatever Pearce believed** to **what present guidance says**.
-
-That history matters if the purpose of safeguarding is not merely to
-announce the correct rule but to know whether the organisation can
-reliably enforce it.
-
-And the Home Office consultation itself says the remaining work should
-secure truth, accountability, learning and reform.
-
-So the central question is not particularly radical:
-
-> **If institutional learning is a safeguarding intervention, what
-> happens when the institution changes the mechanism through which
-> inconvenient institutional learning is being produced?**
-
-There may be good answers.
-
-There may be better ways of completing parts of the inquiry.
-
-There may be ways to accelerate findings without losing essential
-evidence.
-
-But those answers need to be demonstrated.
-
-**The fact that the feedback mechanism is slow does not make the
-feedback dispensable.**
-
-------------------------------------------------------------------------
-
-## 10. 🏛️ Incidentally, This Is Why We Have Parliament
-
-There is another systems interface sitting awkwardly in the background.
-
-The **Ministerial Code** says:
-
-> "When Parliament is in session, the most important announcements of
-> government policy should be made in the first instance in Parliament."
-
-It also says that even announcements which are not of major importance
-require careful timing to avoid clashes with other government
-publications, statements, announcements and parliamentary business.
-
-This is not merely ceremonial etiquette.
-
-Parliament is part of the state's error-correction machinery.
-
-``` text
-GOVERNMENT ANNOUNCES POLICY
-        ↓
-PARLIAMENT RECEIVES IT
-        ↓
-MPs COMPARE IT WITH
-OTHER GOVERNMENT COMMITMENTS
-        ↓
-CONTRADICTIONS / GAPS / CONSEQUENCES
-BECOME QUESTIONS
-        ↓
-MINISTER HAS TO ANSWER
-        ↓
-PUBLIC RECORD
+```text
+TACKLING CONTEMPORARY MISOGYNY
 ```
 
-The importance of that process has itself been the subject of
-parliamentary argument.
+and
 
-In January 2026, the Public Administration and Constitutional Affairs
-Committee published a report after concerns from the Speaker and MPs
-about ministers making major policy announcements outside Parliament
-first. In June, the government accepted that the relevant principle
-needed rewriting to remove ambiguity and reinforce Parliament's role.
-
-We should **not** casually assert that every announcement in this week's
-pile-up individually breached the Ministerial Code. That requires
-examining the parliamentary handling and status of each announcement.
-
-The more useful point is structural.
-
-There is a reason important government policy is supposed to pass
-through a forum where people from different policy domains can look at
-it simultaneously and ask:
-
-> **Hang on. How does this fit with that?**
-
-That becomes particularly useful when government is simultaneously
-talking about:
-
--   preventing violence against women and girls;
--   listening to women's lived experience;
--   learning from institutional failure;
--   tackling misogyny;
--   reforming policing;
--   and reconsidering the future mechanism investigating extraordinary
-    state conduct towards women.
-
-The Commons is, among other things, somewhere an MP can notice that
-these things touch.
-
-That is not an inconvenience in the policy process.
-
-**That is part of the policy process.**
-
-------------------------------------------------------------------------
-
-## 11. 🙈 "But We Fixed It"
-
-Perhaps we did.
-
-That would be good.
-
-The current institutional position reported by the Met and College of
-Policing is materially different from Pearce's stated understanding.
-
-But safeguarding systems cannot operate on:
-
-``` text
-OLD SYSTEM:
-BAD
-
-NEW SYSTEM:
-GOOD
-
-SOURCE:
-TRUST US
+```text
+REFORMING A VERY SLOW PUBLIC INQUIRY
 ```
 
-The relevant questions are boring, administrative and extremely
-important.
+But the two policies create an obvious test when viewed together.
 
-When did the rule change?
+If the government says prevention requires listening to women and girls, examining harmful attitudes, changing culture and intervening before harm escalates, then historical evidence of women harmed through exercises of police power is not some unrelated administrative curiosity.
 
-Why?
+It is institutional learning material.
 
-What evidence caused the change?
+The taskforce asks how society prevents misogynistic harm.
 
-How was it communicated?
+Spycops asks, among other things:
 
-Who trains officers?
+> **what happens when the institution with coercive power is itself part of the historical harm environment?**
 
-Who authorises deployments?
+That does not prove every Spycops failure was motivated by misogyny.
 
-What documentation is required?
+It means a serious VAWG framework cannot define safeguarding only as something government does **to the rest of society**.
 
-What happens when conduct departs from authorisation?
+The state is part of society too.
 
-What supervision exists during long deployments?
+Its incentives count.
 
-What happens when an officer forms an intimate attachment?
+Its information systems count.
 
-What information reaches management?
+Its safeguards count.
 
-What happens when management does not want the deployment disrupted?
+Its capacity to learn from people it has harmed counts.
 
-What happens when an undercover officer's operational incentives and a
-woman's sexual autonomy collide?
+---
 
-How does anyone outside the covert system know whether the safeguards
-work?
+## 8. 🫀 What Are The Affected People Saying?
 
-That is the difference between a **policy statement** and a **feedback
-mechanism**.
+People affected by undercover policing are not speaking with one single voice, and this node should not manufacture one.
 
-------------------------------------------------------------------------
+But campaigners including Kate Wilson and others represented in the current public debate have argued that curtailing the Inquiry risks preventing a full account of systemic failures.
 
-## 12. 🦑 The Kraken Has Some Administrative Questions
+Some use the word **“cover-up.”**
 
-None of the events above establishes that the Home Office intends to
-cover up the Spycops scandal.
+That is their allegation.
 
-People affected by undercover policing are making that allegation about
-the consequences they fear from curtailment or restructuring.
+It is not an established finding about the Home Office's intention.
 
-The government says it is trying to secure accountability, learning and
-reform without further unnecessary delay and expense.
+Their underlying concern is easier to state without adopting the allegation:
 
-Those positions can be recorded accurately.
-
-And then we can still observe that Britain has managed, within five
-days, to produce the following informational environment:
-
-``` text
-HOME OFFICE:
-LEARN FROM ABUSE.
-
-GOVERNMENT:
-LISTEN TO WOMEN.
-PREVENT MISOGYNY.
-TURN EVIDENCE INTO ACTION.
-
-FORMER SPECIAL BRANCH CHIEF:
-I THINK SEX COULD SOMETIMES
-BE AUTHORISED UNDERCOVER.
-
-CURRENT POLICING:
-NO IT FUCKING CANNOT.
-
-WOMEN HARMED BY SPYCOPS:
-PLEASE DO NOT CURTAIL THE MECHANISM
-STILL INVESTIGATING HOW THIS SYSTEM WORKED.
-
-HOME OFFICE:
-CONSULTATION CLOSES TONIGHT.
+```text
+PEOPLE WERE HARMED
+    ↓
+THEY SPENT YEARS MAKING HARM VISIBLE
+    ↓
+PUBLIC INQUIRY CREATED
+    ↓
+YEARS OF EVIDENCE + DISCLOSURE
+    ↓
+SYSTEMIC QUESTIONS REMAIN
+    ↓
+GOVERNMENT NOW CONSIDERS
+ALTERNATIVE / REDUCED / PRIORITISED
+WAYS OF COMPLETING WORK
+    ↓
+WILL WE ACTUALLY GET THE ANSWERS?
 ```
 
-The Kraken wishes to make clear that she had not intended to become
-involved in police governance.
+That is a reasonable question to put to the decision-making process regardless of one's preferred answer about the Inquiry's future structure.
 
-Unfortunately, somebody appears to have disturbed the women again.
+---
 
-🦑
+## 9. 👶 Women Are Not The Only People In The Blast Radius
 
-**Sorry, what?**
+The Home Office consultation itself identifies several directly affected constituencies:
 
-------------------------------------------------------------------------
+- women deceived into relationships with undercover officers;
+- people and groups reported on;
+- families of deceased children whose identities were used;
+- family-justice campaigners;
+- families of undercover officers;
+- policing organisations and officers.
+
+And the historical record includes children conceived during undercover relationships.
+
+So when somebody says **finish the work**, this is not simply an argument about whether retired officers should be publicly embarrassed for longer.
+
+It is about whether people whose identities, relationships, families, politics and private lives became entangled with covert state activity receive an adequate account of what happened and whether the state learns from it.
+
+That is a different proposition.
+
+---
+
+## 10. 🧠 Consent Is Still A Shitload Of Context
+
+The immediate Pearce story is spectacular enough that it can obscure the underlying problem.
+
+The problem is not simply:
+
+> POLICEMAN HAD SEX.
+
+Men are allowed to have sex.
+
+Police officers are allowed to be sexual beings.
+
+People are allowed fantasies, explicit fiction, consensual kink, complicated sexual imaginations and deeply weird Kindle libraries.
+
+The relevant question is:
+
+```text
+WHAT DID THE OTHER PERSON KNOW?
+
+WHO DID SHE THINK HE WAS?
+
+WHY DID SHE THINK HE WAS THERE?
+
+WHAT POWER DID HE ACTUALLY POSSESS?
+
+WHAT INFORMATION WAS BEING WITHHELD?
+
+WOULD SHE HAVE MADE THE SAME CHOICE
+IF SHE HAD KNOWN?
+```
+
+That is why this cluster is sex-positive **and** capable of being extremely angry about sexual deception.
+
+Those positions are not contradictory.
+
+**Sex-positive does not mean violence-negative.**
+
+Nor does it mean power-blind.
+
+---
+
+## 11. 📺 Why Does This Still Feel Weirdly Quiet?
+
+There has been reporting.
+
+The Guardian has covered the Spycops scandal extensively over many years and is reporting the present consultation fight.
+
+Novara Media reported Pearce's July evidence in September.
+
+Other specialist journalists, campaigners and researchers continue to follow the Inquiry.
+
+So:
+
+> **THE BRITISH MEDIA HAS SAID NOTHING**
+
+would be false.
+
+The more interesting empirical question is:
+
+> **Where is the fucking volume?**
+
+How prominently are major broadcasters and newspapers covering current Inquiry revelations?
+
+How long do those stories remain visible?
+
+Which witnesses become publicly recognisable?
+
+How often are the women, children, families and political communities at the centre rather than the colourful former officers?
+
+How much public understanding exists of what work remains?
+
+That requires an actual media audit rather than vibes.
+
+We should do one.
+
+For now the epistemic label is:
+
+**OPEN QUESTION.**
+
+---
+
+## 12. ❓ What We Do Not Currently Know
+
+This is the bit that should remain embarrassingly visible.
+
+### UNKNOWN
+
+What final decision the Home Secretary will make after the consultation.
+
+### UNKNOWN
+
+Whether Tranches 4 and 5 and Module 3 will continue through UCPI in their currently planned form.
+
+### UNKNOWN
+
+If the structure changes, precisely what alternative mechanism will replace each unfinished function.
+
+### NOT ESTABLISHED
+
+That the government intends to suppress or cover up evidence.
+
+Affected people have alleged that curtailment would produce a cover-up. That is different from proving a covert ministerial purpose.
+
+### NOT ESTABLISHED
+
+That Pearce's July evidence represents current Metropolitan Police or College of Policing policy.
+
+Both institutions have expressly rejected his interpretation.
+
+### NOT ESTABLISHED
+
+That undercover officers have had sex with Palestine Action activists.
+
+Pearce used contemporary examples in a hypothetical about authorisation.
+
+### NOT ESTABLISHED
+
+That today's misogyny-taskforce announcement was timed to distract from the UCPI consultation closing tonight.
+
+The juxtaposition exists.
+
+The motive is unknown.
+
+### STILL REQUIRING INQUIRY / RESEARCH
+
+The complete distribution of sexual relationships, management knowledge, family impacts, political targeting, NPOIU practice, other undercover policing, and how present safeguards perform against the historical failure modes.
+
+In other words:
+
+**do not draw the missing arrows.**
+
+Also:
+
+**do not throw away the map because some arrows remain missing.**
+
+---
+
+## 13. 🦑 Kraken Status
+
+The Kraken is not the Home Office.
+
+The Kraken is not the Metropolitan Police.
+
+The Kraken is not Roger Pearce.
+
+The Kraken is not Labour.
+
+The Kraken is not Palestine Action.
+
+The Kraken is not a secret cabal controlling British undercover policing from beneath the Thames.
+
+Please, for fuck's sake.
+
+The Kraken is the campaign's folkloric sensor for disturbance.
+
+And the present disturbance looks approximately like this:
+
+```text
+HISTORICAL STATE HARM
+        ↓
+PEOPLE MAKE IT VISIBLE
+        ↓
+INQUIRY
+        ↓
+MORE INFORMATION
+        ↓
+UNCOMFORTABLE EVIDENCE
+        ↓
+CURRENT POLICY SAYS
+THAT SHOULD NOT HAPPEN
+        ↓
+REMAINING WORK INCLUDES
+CURRENT + FUTURE SAFEGUARDS
+        ↓
+GOVERNMENT QUESTIONS
+HOW REMAINING WORK SHOULD CONTINUE
+        ↓
+AFFECTED PEOPLE FEAR
+LOSS OF ACCOUNTABILITY
+        ↓
+GOVERNMENT SIMULTANEOUSLY ANNOUNCES
+NEW MISOGYNY-PREVENTION WORK
+        ↓
+PUBLIC INFORMATION ENVIRONMENT:
+????????????????????????
+```
+
+The appropriate response is not conspiracy.
+
+It is **administration**.
+
+What is known?
+
+What is contested?
+
+What remains unanswered?
+
+Who has responsibility for answering it?
+
+What mechanism survives?
+
+What mechanism changes?
+
+What does the replacement actually do?
+
+What safeguard results?
+
+How will we know it works?
+
+That is considerably less exciting than a deep state.
+
+Unfortunately it is also how democratic governance is supposed to function.
+
+---
+
+## 14. 🗞️ So What The Fuck Is Happening Right Now?
+
+A public inquiry into decades of undercover policing has produced evidence of profound institutional failures and remains unfinished.
+
+A former undercover officer who later became a very senior Special Branch officer has publicly articulated a view about exceptional authorisation of sexual activity that the current Met and College of Policing say is wrong.
+
+He illustrated that view using examples resembling contemporary Palestine Action offending.
+
+The Home Office is deciding how — and potentially through what mechanism — the remaining Inquiry work should be completed.
+
+People harmed by undercover policing fear that reducing or changing that work could prevent a full systemic account.
+
+The government says it wants truth, accountability, learning and reform delivered more quickly and proportionately.
+
+The Inquiry has cost **£144.6 million** as of 30 June 2026.
+
+The government has today launched a national taskforce intended to prevent misogyny and support its wider VAWG programme.
+
+The UCPI consultation closes tonight.
+
+Those are the principal established pieces.
+
+The argument begins when people decide what they mean together.
+
+Our job here is slightly different.
+
+```text
+KEEP THE RECORD
+      ↓
+KEEP THE CATEGORIES CLEAN
+      ↓
+DO NOT INVENT MOTIVE
+      ↓
+DO NOT ERASE PATTERN
+      ↓
+FINISH THE QUESTIONS
+      ↓
+SHOW THE SAFEGUARDS
+```
+
+Or, in the technical language of the British constitution:
+
+**bro what the fuck.**
+
+---
+
+## 📚 Media + Primary References
+
+- [Home Office: *Future of the Undercover Policing Inquiry*](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry) — consultation landing page; published 16 July 2026 and extended to 20 September.
+- [Home Office: *Consultation on the future of the Undercover Policing Inquiry*](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry/consultation-on-the-future-of-the-undercover-policing-inquiry) — scope, affected constituencies, stated reasons, outstanding Tranches 4 and 5 and Module 3, and possible alternative approaches.
+- [UK Parliament: Shabana Mahmood, *Undercover Policing Inquiry* written statement, 16 July 2026](https://questions-statements.parliament.uk/written-statements/detail/2026-07-16/hcws278) — Home Secretary's formal explanation for launching the consultation.
+- [UK Parliament: Lord Spellar written question HL3090, answered 17 September 2026](https://questions-statements.parliament.uk/written-questions/detail/2026-09-03/HL3090) — records total UCPI expenditure of £144,597,900 as of 30 June 2026.
+- [Novara Media: *Spycops Could Be Authorised to Have Sex With Palestine Action Activists, Says Ex-Special Branch Chief*](https://novaramedia.com/2026/09/17/spycops-could-be-authorised-to-have-sex-with-palestine-action-activists-says-ex-special-branch-chief/) — report of Roger Pearce's 15 July evidence, the Palestine Action examples, and responses from the Met, College of Policing and Kate Wilson.
+- [Undercover Policing Inquiry: *Hearings*](https://ucpi.uk/hearings/) — Inquiry hearing record and published materials.
+- [The Guardian: *Victims say Home Office attempt to curtail spycops inquiry will result in a ‘cover-up’*](https://www.theguardian.com/uk-news/2026/sep/20/victims-say-home-office-attempt-to-curtail-spycops-inquiry-will-result-in-a-cover-up) — 20 September reporting on affected people's objections and the Home Office position.
+- [Office for Equality and Opportunity: *Government launches National Taskforce for Tackling Misogyny*](https://www.gov.uk/government/news/government-launches-national-taskforce-for-tackling-misogyny) — 20 September announcement, membership and intended prevention agenda.
+- [UK Parliament: *Conduct of Undercover Policing and Surveillance Operatives Bill*](https://www.parliament.uk/business/lords/media-centre/house-of-lords-media-notices/2026/july-2026/undercover-policing-bill-introduced-by-baroness-hamwee/) — parliamentary context for proposals to create a statutory prohibition on intimate sexual relationships with surveillance targets.
+
+---
 
 ## 🌌 Constellations
 
-🦑 🌸 🕵️ ♻️ 🏛️ --- women as safeguarding sensors; undercover state
-power; institutional feedback; parliamentary error correction; the
-ancient British administrative art of accidentally summoning the Kraken.
+🗞️ ☕️ 🏏 🍉 🌸 🦑 — current state; historical record; consent and authority; communications collision; women and information; institutional disturbance.
 
-------------------------------------------------------------------------
+---
 
 ## ✨ Stardust
 
-violence against women and girls, safeguarding, undercover policing,
-spycops, institutional learning, public inquiries, consent and
-deception, police accountability, parliamentary scrutiny, feedback
-integrity
+spycops, undercover policing, UCPI, Roger Pearce, Palestine Action, sexual deception, consent, Home Office, Shabana Mahmood, misogyny taskforce, VAWG, accountability, public inquiry, institutional learning, safeguards
 
-------------------------------------------------------------------------
+---
 
 ## 🏮 Footer
 
-*🗞️ What The Fuck Is Happening Right Now* is a living incident-report
-node of the **Polaris Protocol**. It records the September 2026
-collision between contemporary VAWG policy, the unfinished Undercover
-Policing Inquiry, renewed reporting on sexual conduct in undercover
-deployments, and the Home Office consultation on the inquiry's future.
-It preserves the immediate signal while routing the deeper historical,
-legal and institutional questions into the wider **Krakens Against
-Spycops** cluster.
+*🗞️ What The Fuck Is Happening Right Now?* is the fast current-state node for **Krakens Against Spycops**. It is deliberately updateable. Current claims should be rechecked as the Home Office consultation moves into decision-making and the Inquiry publishes further evidence and reports.
 
 > 📡 Cross-references:
 >
-> -   [🦑 Krakens Against Spycops](./README.md) --- *cluster orientation
->     and routing*
-> -   [🕵️ Spycops: A History Of The Scandal And
->     Inquiry](./🕵️_spycops_a_history_of_the_scandal_and_inquiry.md) ---
->     *historical chronology, campaigning, inquiry structure and delay*
-> -   [🇵🇸 Palestine Action And The Live
->     Question](./🇵🇸_palestine_action_and_the_live_question.md) ---
->     *careful examination of the Pearce evidence and contemporary
->     implications*
-> -   [🌸 Where Does The State End When The Badge Comes
->     Off?](./🌸_where_does_the_state_end_when_the_badge_comes_off.md)
->     --- *sexual deception, coercion, consent and state responsibility*
+> - [☕️ What Was Spycops?](./☕️_what_was_spycops.md) — *historical evidential floor*
+> - [🏏 Where Have All The Linesmen Gone?](./🏏_where_have_all_the_linesmen_gone.md) — *consent, authorisation, power, masculinity, safeguards and institutional learning*
+> - [🍉 Bro, Just STFU](./🍉_bro_just_stfu.md) — *the full September 2026 communications and information collision*
 >
 > 🏮 Return To:
 >
-> -   [🦑 Krakens Against Spycops](./README.md) --- *1up*
-> -   [🌸 Digitally Women](../README.md) --- *2up*
-> -   [🌱 Prosocial Roots](../../README.md) --- *3up*
-> -   [📲 Press Matters](../../../README.md) --- *4up*
-> -   [🌓 In The Moment](../../../../README.md) --- *5up*
-> -   [🌌 Polaris Protocol --- Root](../../../../../README.md) ---
->     *root*
-
-### 📚 Sources
-
--   [Home Office: "Domestic abuse: learning from tragedy and preventing
-    future
-    deaths"](https://www.gov.uk/government/news/domestic-abuse-learning-from-tragedy-and-preventing-future-deaths)
--   [Home Office: "Future of the Undercover Policing
-    Inquiry"](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry)
--   [Home Office: "Consultation on the future of the Undercover Policing
-    Inquiry"](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry/consultation-on-the-future-of-the-undercover-policing-inquiry)
--   [Home Office: "Undercover Policing Inquiry consultation privacy
-    notice"](https://www.gov.uk/government/consultations/future-of-the-undercover-policing-inquiry/undercover-policing-inquiry-consultation-privacy-notice)
--   [Office for Equality and Opportunity: "Government launches National
-    Taskforce for Tackling
-    Misogyny"](https://www.gov.uk/government/news/government-launches-national-taskforce-for-tackling-misogyny)
--   [Novara Media: "Spycops Could Be Authorised to Have Sex With
-    Palestine Action Activists, Says Ex-Special Branch
-    Chief"](https://novaramedia.com/2026/09/17/spycops-could-be-authorised-to-have-sex-with-palestine-action-activists-says-ex-special-branch-chief/)
--   [The Guardian: "Victims say Home Office attempt to curtail spycops
-    inquiry will result in a
-    'cover-up'"](https://www.theguardian.com/uk-news/2026/sep/20/victims-say-home-office-attempt-to-curtail-spycops-inquiry-will-result-in-a-cover-up)
--   [Cabinet Office: "Ministerial
-    Code"](https://www.gov.uk/government/publications/ministerial-code/ministerial-code)
--   [House of Commons Public Administration and Constitutional Affairs
-    Committee: "Ministerial Statements and the Ministerial
-    Code"](https://publications.parliament.uk/pa/cm5901/cmselect/cmpubadm/1036/report.html)
--   [UK Parliament: "Cabinet Office accepts Committee recommendation to
-    amend Ministerial
-    Code"](https://committees.parliament.uk/work/9186/ministerial-statements-and-the-ministerial-code/news/214058/cabinet-office-accepts-committee-recommendation-to-amend-ministerial-code/)
+> - [🦑 Krakens Against Spycops](./README.md) — *1up*
+> - [🌸 Digitally Women](../README.md) — *2up*
+> - [🌱 Prosocial Roots](../../README.md) — *3up*
+> - [📲 Press Matters](../../../README.md) — *4up*
+> - [🌓 In The Moment](../../../../README.md) — *5up*
+> - [🌌 Polaris Protocol — Root](../../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-20*
+_Last updated: 2026-09-20_
