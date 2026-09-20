@@ -1,5 +1,5 @@
 # 📋 Exhibit E: Printer Ink  
-**First created:** 2026-09-16 | **Last updated:** 2026-09-16  
+**First created:** 2026-09-16 | **Last updated:** 2026-09-20  
 *The printer is the specimen. The actual problem is the unpaid administration, dependency and jurisdictional exposure hidden inside supposedly convenient technology.*
 
 ---
@@ -1169,67 +1169,42 @@ Thank you for robustly proving my naïveté.
 
 ## 📚 Sources
 
--   [ICO: "What to expect from the ICO when making a complaint under the
-    UK Extension to the EU-US Data Privacy Framework or about US
-    Government
-    entities"](https://ico.org.uk/make-a-complaint/uk-extension-to-the-eu-us-data-privacy-framework-complaints-tool/what-to-expect-from-the-ico/)
--   [ICO: "UK Extension to the EU-US Data Privacy Framework complaints
-    tool"](https://ico.org.uk/make-a-complaint/uk-extension-to-the-eu-us-data-privacy-framework-complaints-tool/dpf-complaints-tool/)
--   [ICO: "The UK Government's assessment of adequacy for the UK
-    Extension to the EU-US Data Privacy
-    Framework"](https://ico.org.uk/about-the-ico/what-we-do/information-commissioners-opinions/information-commissioners-opinions-on-adequacy/the-uk-government-s-assessment-of-adequacy-for-the-uk-extension-to-the-eu-us-data-privacy-framework/)
--   [ICO: "How does the UK Extension to the EU-US Data Privacy Framework
-    work?"](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/adequacy-regulations/how-does-the-uk-extension-to-the-eu-us-data-privacy-framework-work/)
--   [UK Government: "UK-US data bridge:
-    explainer"](https://www.gov.uk/government/publications/uk-us-data-bridge-supporting-documents/uk-us-data-bridge-explainer)
--   [US Department of Justice: "Data Protection Review Court
-    Resources"](https://www.justice.gov/opcl/dprc-resources)
--   [US Department of Justice: "Executive Order 14086"
-    resources](https://www.justice.gov/opcl/executive-order-14086)
--   [US Department of Justice: "Data Protection Review Court Final
-    Rule"](https://www.justice.gov/d9/pages/attachments/2022/10/07/dprc_final_rule_signed.pdf)
--   [US Department of Defense: "Report to Congress Regarding the
-    Terrorism Information Awareness Program" (2003
-    mirror)](https://w2.eff.org/Privacy/TIA/TIA-report.pdf)
+-   [ICO: "What to expect from the ICO when making a complaint under the UK Extension to the EU-US Data Privacy Framework or about US Government entities"](https://ico.org.uk/make-a-complaint/uk-extension-to-the-eu-us-data-privacy-framework-complaints-tool/what-to-expect-from-the-ico/)
+-   [ICO: "UK Extension to the EU-US Data Privacy Framework complaints tool"](https://ico.org.uk/make-a-complaint/uk-extension-to-the-eu-us-data-privacy-framework-complaints-tool/dpf-complaints-tool/)
+-   [ICO: "The UK Government's assessment of adequacy for the UK Extension to the EU-US Data Privacy Framework"](https://ico.org.uk/about-the-ico/what-we-do/information-commissioners-opinions/information-commissioners-opinions-on-adequacy/the-uk-government-s-assessment-of-adequacy-for-the-uk-extension-to-the-eu-us-data-privacy-framework/)
+-   [ICO: "How does the UK Extension to the EU-US Data Privacy Framework work?"](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/adequacy-regulations/how-does-the-uk-extension-to-the-eu-us-data-privacy-framework-work/)
+-   [UK Government: "UK-US data bridge: explainer"](https://www.gov.uk/government/publications/uk-us-data-bridge-supporting-documents/uk-us-data-bridge-explainer)
+-   [US Department of Justice: "Data Protection Review Court Resources"](https://www.justice.gov/opcl/dprc-resources)
+-   [US Department of Justice: "Executive Order 14086" resources](https://www.justice.gov/opcl/executive-order-14086)
+-   [US Department of Justice: "Data Protection Review Court Final Rule"](https://www.justice.gov/d9/pages/attachments/2022/10/07/dprc_final_rule_signed.pdf)
+-   [US Department of Defense: "Report to Congress Regarding the Terrorism Information Awareness Program" (2003 mirror)](https://w2.eff.org/Privacy/TIA/TIA-report.pdf)
 
 ---
+
 ## 🌌 Constellations
 
-🖨️ 🧠 🪆 🚢 🧿 --- household administration; proprietary dependency;
-jurisdictional recursion; supply-chain resilience; legibility of rights.
+🖨️ 🧠 🪆 🚢 🧿 --- household administration; proprietary dependency; jurisdictional recursion; supply-chain resilience; legibility of rights.
 
 ---
 ## ✨ Stardust
 
-consumer technology, administrative burden, household labour, printer
-ink, proprietary consumables, data sovereignty, international data
-transfers, signals intelligence, uk-us data bridge, operational autonomy
+consumer technology, administrative burden, household labour, printer ink, proprietary consumables, data sovereignty, international data transfers, signals intelligence, uk-us data bridge, operational autonomy
 
 ---
 ## 🏮 Footer
 
-*📋 Exhibit E: Printer Ink* is a living node of the **Polaris
-Protocol**.
-It uses the mundane printer as a diagnostic specimen for a wider
-pattern: technology that externalises complexity onto users while
-embedding recurring commercial, logistical and jurisdictional
-dependencies. The node distinguishes documented US signals-intelligence
-redress architecture from unsupported claims about particular
-surveillance activity, while asking whether rights are practically
-legible enough to function for ordinary British users.
+*📋 Exhibit E: Printer Ink* is a living node of the **Polaris Protocol**.  
+
+It uses the mundane printer as a diagnostic specimen for a wider pattern: technology that externalises complexity onto users while embedding recurring commercial, logistical and jurisdictional dependencies.  
+
+The node distinguishes documented US signals-intelligence redress architecture from unsupported claims about particular surveillance activity, while asking whether rights are practically legible enough to function for ordinary British users.  
 
 > 📡 Cross-references:
 >
-> -   [📋 Exhibit A: VLOOKUP](./📋_exhibit_a_vlookup.md) --- *software
->     friction and the cost of obvious missing functionality*
-> -   [📋 Exhibit B: Windows Vista](./📋_exhibit_b_windows_vista.md) ---
->     *feature churn, interface disruption and user-side maintenance
->     burden*
-> -   [📋 Exhibit C: iPhone
->     Batteries](./📋_exhibit_c_iphone_batteries.md) --- *repairability,
->     skills reproduction and control of purchased hardware*
-> -   [📋 Exhibit D: Fucking Cables](./📋_exhibit_d_fucking_cables.md)
->     --- *interoperability, transition costs and physical dependency*
+> -   [📋 Exhibit A: VLOOKUP](./📋_exhibit_a_vlookup.md) --- *software friction and the cost of obvious missing functionality*
+> -   [📋 Exhibit B: Windows Vista](./📋_exhibit_b_windows_vista.md) --- *feature churn, interface disruption and user-side maintenance burden*
+> -   [📋 Exhibit C: iPhone Batteries](./📋_exhibit_c_iphone_batteries.md) --- *repairability, skills reproduction, and control of purchased hardware*
+> -   [📋 Exhibit D: Fucking Cables](./📋_exhibit_d_fucking_cables.md) --- *interoperability, transition costs, and physical dependency*
 >
 > 🏮 Return To:
 >
@@ -1240,4 +1215,4 @@ legible enough to function for ordinary British users.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-16*
+_Last updated: 2026-09-20_
