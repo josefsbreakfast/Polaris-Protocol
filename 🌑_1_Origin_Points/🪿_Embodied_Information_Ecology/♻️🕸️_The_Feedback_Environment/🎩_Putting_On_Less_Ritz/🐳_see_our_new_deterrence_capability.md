@@ -1,4 +1,4 @@
-# 🐳 See Our New Deterrence Capability  
+# 🐳 See: Our New Deterrence Capability!  
 **First created:** 2026-09-17 | **Last updated:** 2026-09-20  
 *A wholly unserious British deterrence proposal for when ordinary burden-sharing has failed and America must instead assume custody of one (1) Tony Blair.*  
 
@@ -1685,12 +1685,13 @@ uk-us relations, special relationship, deterrence satire, institutional inherita
 
 ## 🏮 Footer
 
-*🐳 See Our New Deterrence Capability* is a satirical node of the **Polaris Protocol**. It uses an intentionally ridiculous export mechanism to invert the language of strategic burden-sharing and expose the movement of institutional habits, people and policy assumptions beneath polished bilateral narratives.
+*🐳 See: Our New Deterrence Capability!* is a satirical node of the **Polaris Protocol**. It uses an intentionally ridiculous export mechanism to invert the language of strategic burden-sharing and expose the movement of institutional habits, people and policy assumptions beneath polished bilateral narratives.
 
 > 📡 Cross-references:
 >
 > - [🇺🇸 Dear America](./🇺🇸_dear_america.md) — *the wider bilateral register for examining UK–US feedback and dependency*
-> - [🎩 Putting On Less Ritz](./README.md) — *parent cluster for stripping ceremonial narratives back to their operating machinery*
+> - [🐳 See: Our New Deterrence Capability!](./🐳_see_our_new_deterrence_capability.md) — *Behold! The Tony Blair Zoltar Machine!*  
+> - [🦊 Cousin, We Have Ideas...](./🦊_cousin_we_have_ideas.md) — *we always have thoughts*  
 >
 > 🏮 Return To:
 >
