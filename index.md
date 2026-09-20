@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-20 02:27:57 UTC_
+_Generated on 2026-09-20 03:27:26 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5342,6 +5342,7 @@ _Generated on 2026-09-20 02:27:57 UTC_
           - [`20260901_chapter_02.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/🌳_FotR/20260901_chapter_02.md)
           - [`20260918_chapter_03.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/🌳_FotR/20260918_chapter_03.md)
           - [`20260919_intermission_01.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/🌳_FotR/20260919_intermission_01.md)
+          - [`20260920_on_hobbit_houses.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/🌳_FotR/20260920_on_hobbit_houses.md)
           - [`README.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🌌_Polaris_vs_Books/🌳_FotR/README.md)
       - [`README.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/README.md)
       - [`🚀_beyond_duel_use.md`](🏮_Admin_Nest/🗃️_Archive/💾_Collectors_Editions/🚀_beyond_duel_use.md)
