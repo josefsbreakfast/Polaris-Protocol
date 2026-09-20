@@ -1,4 +1,23 @@
-# 🪖 Army Training + 🛸 Drone Wars — Working Notes
+1. 🩺 presenting_complaint.md — establish exactly what happened, what is actually evidenced, and what remains uncertain.
+2. 📋 history_of_presenting_complaint.md — put the current training dispute into the longer Army/Defence history.
+3. 🪖 what_training_is_for.md — establish the functional baseline: individual → collective competence, live/synthetic training, Ukraine lessons, drones/EW, combined arms, skill fade, etc.
+4. 🔬 tests_and_investigations.md — now that we know what training is supposed to produce, define what evidence would actually tell us what has gone wrong.
+5. 🧠 assessment_and_differential.md — test the competing explanations against that evidence rather than picking a villain first. This is already explicitly constructed as a provisional differential.  
+6. 💷 thirty_million_pounds.md — narrow case study of the actual savings decision: origin, options, decision chain, counterfactual, capability bought/lost.
+7. 🚑 immediate_management.md — what can actually be done about the current episode without waiting for another enormous Defence review.
+8. 🔭 what_does_ready_actually_look_like.md — move from the immediate incident to the larger functional question: what observable outputs constitute readiness?
+9. ⚙️ the_feedback_machine.md — how Ukraine lessons, exercises, operators, instructors, commanders, MOD and ministers transmit—or lose—information. This is where quite a lot of our new drone/EW/adaptation material is going to become useful.
+10. 🪟 transparency_and_earned_loyalty.md — once we’ve mapped the feedback machinery, ask what parts of its functioning can and should be visible externally. It already gives us the Brown → Chilcot → reasonable-challenge lineage.  
+11. 🧾 the_blank_cheque_exercise.md — recover the actual professional requirement before affordability compresses it: what force and training architecture would fulfil the stated strategic tasks?  
+12. 💊 long_term_management.md — translate the diagnosis and requirements into a durable force-generation programme.
+13. 🛡️ prevention_and_resilience.md — finish with relapse prevention: slack, redundancy, training debt, regeneration, institutional memory, instructor depth, resilience floors and adaptation.  ⁠￼
+14. README.md — last, once the actual cluster underneath it has settled. Then it can accurately route the reader through the finished diagnostic sequence rather than us repeatedly repairing it as the children move furniture around.
+
+And I would keep notes.txt + data/ outside the numbered production sequence. They’re our working bench/evidence layer: we pull material from them while doing each node and update them as necessary rather than trying to “finish” them first.
+
+That gives us a pretty clean clinical spine:
+
+complaint → history → function → investigations → differential → live case → immediate treatment → definition of recovery → feedback → accountability → ideal requirement → long-term treatment → prevention → README.Army Training + 🛸 Drone Wars — Working Notes
 
 - Existing home:
   - `🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/`
