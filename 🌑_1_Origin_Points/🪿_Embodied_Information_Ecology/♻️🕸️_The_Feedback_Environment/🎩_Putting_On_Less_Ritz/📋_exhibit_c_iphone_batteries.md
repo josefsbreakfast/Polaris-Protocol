@@ -494,10 +494,11 @@ It uses smartphone batteries and screen repair as a case study in embodied techn
 
 > 📡 Cross-references:
 >
-> - [📋 Exhibit A: VLOOKUP](./📋_exhibit_a_vlookup.md) — *mundane software friction and the productivity cost of making the user adapt to the tool*
-> - [📋 Exhibit B: Windows Fucking Vista](./📋_exhibit_b_windows_vista.md) — *installed human competence, interface churn, and boring infrastructure as successful infrastructure*
-> - [🇺🇸 Dear America](./🇺🇸_dear_america.md) — *reverse bid for useful, interoperable, repairable technology with considerably less admin*
-> - [🎩 Putting On Less Ritz](./README.md) — *parent cluster for transatlantic technology translation, reverse bids, and user-side requirements*
+> - [📋 Exhibit A: VLOOKUP](./📋_exhibit_a_vlookup.md) — *the case for boring technology that actually saves labour*
+> - [📋 Exhibit B: Windows Vista](./📋_exhibit_b_windows_vista.md) — *when technological improvement becomes imposed migration*  
+> - [📋 Exhibit D: Fucking Cables](./📋_exhibit_d_fucking_cables.md) — *interoperability enters the evidence bundle*
+> - [📋 Exhibit E: Printer Ink](./📋_exhibit_e_printer_ink.md) — *the recurring temptation to turn ownership into an ongoing commercial relationship*
+> - [📋 Exhibit F: AI v UK Law](./📋_exhibit_f_ai_v_uk_law.md) — *what happens when the latest American technology proposition encounters another country's legal system*
 >
 > 🏮 Return To:
 >
