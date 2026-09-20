@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-20 14:23:02 UTC_
+_Generated on 2026-09-20 14:25:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3770,6 +3770,7 @@ _Generated on 2026-09-20 14:23:02 UTC_
           - [`🩸_survivor_support_and_reporting.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🛸_LOOK_UP/🩸_survivor_support_and_reporting.md)
         - [**🦑_Krakens_Against_Spycops/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🦑_Krakens_Against_Spycops/)
           - [`20260920_strugglebus_spycops_coverage.PNG`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🦑_Krakens_Against_Spycops/20260920_strugglebus_spycops_coverage.PNG)
+          - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🦑_Krakens_Against_Spycops/README.md)
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🦑_Krakens_Against_Spycops/notes.txt)
           - [`☕️_what_was_spycops.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🦑_Krakens_Against_Spycops/☕️_what_was_spycops.md)
           - [`🍉_bro_just_stfu.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🌸_Digitally_Women/🦑_Krakens_Against_Spycops/🍉_bro_just_stfu.md)
