@@ -1,8 +1,9 @@
-# 🛢️ Who Wants Gazan Oil?
-
-**First created:** 2026-09-20 | **Last updated:** 2026-09-20\ *An interest map for asking who benefits from the destruction of Gaza, where energy enters the decision-making environment, and what the press could reasonably interrogate without turning material interests into a single-cause conspiracy.*
+# 🛢️ Who Wants Gazan Oil?  
+**First created:** 2026-09-20 | **Last updated:** 2026-09-20  
+*An interest map for asking who benefits from the destruction of Gaza, where energy enters the decision-making environment, and what the press could reasonably interrogate without turning material interests into a single-cause conspiracy.*
 
 ---
+
 ## 🛰️ Orientation
 
 **Well. First, it is mostly gas. Second, please take a number.**
@@ -46,6 +47,7 @@ And then has to do the annoying bit.
 Find out.
 
 ---
+
 ## 1. 🧯 Before We Touch The Corkboard
 
 This node uses a deliberately strict causal ladder.
@@ -99,6 +101,7 @@ But we also do not throw away the first five rungs because the seventh has not b
 🧶 Corkboard privileges remain conditional.
 
 ---
+
 ## 2. 🛢️ Nothing Is "Just Oil"
 
 Oil and gas are unusually good at becoming entangled with things that were already politically important.
@@ -142,6 +145,7 @@ The question is:
 > **When did energy enter the room, how much weight did it have, and what did it change?**
 
 ---
+
 ## 3. 🗺️ First Locate The Bloody Gas
 
 Before geopolitics: geography.
@@ -260,6 +264,7 @@ The more revealing questions are:
 > **Who receives the money?**
 
 ---
+
 ## 5. 🇵🇸 Gaza Marine: The Palestinian Interest Comes First
 
 One of the stranger effects of "great powers competing for Gaza gas" discourse is that Palestinians themselves can disappear from the story.
@@ -289,6 +294,7 @@ This is not a claim about why military action occurred.
 It is an observable question about the distribution of capability after military action has destroyed much of Gaza's economy and infrastructure.
 
 ---
+
 ## 6. 🏗️ Gaza Marine: A Field That Has Spent Twenty-Five Years Not Becoming A Gas Field
 
 The chronology matters because "Israel has just discovered Gaza's gas" is wrong, while "nobody was interested in Gaza Marine until the current war" is also wrong.
@@ -350,6 +356,7 @@ Not what people assume happened.
 What happened.
 
 ---
+
 ## 7. 💥 Start With The Military Action: What Changed?
 
 This is the journalistic centre of the node.
@@ -415,6 +422,7 @@ And then:
 Those are separate questions.
 
 ---
+
 ## 8. 👀 Who Benefits?
 
 "Who benefits?" is not an accusation.
@@ -455,6 +463,7 @@ The point is not to make the diagram look exciting.
 The point is to make every line earn its existence.
 
 ---
+
 ## 9. 🇮🇱 Israel: Several Interests, Not One
 
 Israel has substantial energy interests that exist independently of Gaza Marine.
@@ -494,6 +503,7 @@ The third requires substantially more.
 The useful journalistic work sits in the space between them.
 
 ---
+
 ## 10. 🇪🇬 Egypt: Sometimes The Route Is The Asset
 
 Egypt deserves a very large box.
@@ -522,6 +532,7 @@ Egypt demonstrates the node's central point beautifully:
 > **You do not need to own the reservoir to acquire strategic importance from the route.**
 
 ---
+
 ## 11. 🇪🇺 Europe: Please Select Which European Interest You Mean
 
 "The EU wants gas" is true at one level and useless at another.
@@ -563,6 +574,7 @@ They can also collide.
 They are, however, excellent material for journalists.
 
 ---
+
 ## 12. 🇩🇪 Germany Is Not Merely A Small EU Box
 
 Germany needs to be separated from the aggregate EU position.
@@ -601,6 +613,7 @@ It may appear explicitly in internal documents.
 **Find out.**
 
 ---
+
 ## 13. 🇺🇸 America: Support Counts
 
 The United States is not an observer to this story.
@@ -622,6 +635,7 @@ Those considerations plainly include many non-energy factors.
 But energy belongs on the list of things worth checking because the same period sits inside a wider transformation of American and global energy politics.
 
 ---
+
 ## 14. 🇺🇸🛢️ Drill Baby Drill Has Entered The Decision Environment
 
 By 2025 the Trump administration had made **"energy dominance"** an explicit organising concept of US policy.
@@ -645,6 +659,7 @@ It does show that the wider American political environment during the Gaza war a
 That context belongs in the node because we are asking what energy assumptions Western governments were carrying while making decisions about the region.
 
 ---
+
 ## 15. 🌊 The Ocean Observatories Detour Is Not Entirely A Detour
 
 The US National Science Foundation's Ocean Observatories Initiative became a revealing little side story in 2026.
@@ -664,6 +679,7 @@ It is atmosphere.
 Not causation.
 
 ---
+
 ## 16. 🚢 Hormuz: Sometimes The Energy Question Is Not Subtle
 
 The Strait of Hormuz is the opposite of a speculative energy connection.
@@ -701,6 +717,7 @@ So when Western governments make Middle Eastern strategic decisions, it is entir
 > **What assumptions about oil, LNG, shipping and chokepoint risk appear in the briefing papers?**
 
 ---
+
 ## 17. 🇨🇳 China Came With Snacks
 
 China is useful here because strategic preparation can be measured.
@@ -728,6 +745,7 @@ The question is:
 That is an ordinary strategic question.
 
 ---
+
 ## 18. 🇬🇧 Britain: Historically In The Room, Currently In Several Rooms
 
 Britain enters this node in several distinct capacities.
@@ -765,6 +783,7 @@ Again:
 The journalist can ask what interests shaped it.
 
 ---
+
 ## 19. 🌹 Rosebank And 🐦‍⬛ Jackdaw: Britain Has Its Own Hydrocarbon Argument
 
 Rosebank and Jackdaw should not be inserted into the node as if a North Sea field secretly explains Gaza.
@@ -793,6 +812,7 @@ Not because the legal regimes are the same.
 Because governments reveal their priorities through the differences they insist matter.
 
 ---
+
 ## 20. 🇫🇰🇦🇷 Oh Good, Another Sea
 
 The Falklands/Malvinas--Sea Lion dispute is not Palestine.
@@ -832,6 +852,7 @@ That is a factchecking question.
 Not a "gotcha".
 
 ---
+
 ## 21. 🏺 Before Gaza Marine: Everybody Was Already Arguing About The Map
 
 The historical section should begin by refusing another bad monocausal story.
@@ -861,6 +882,7 @@ This is the useful historical pattern:
 > **The place mattered already. Energy made some possible outcomes more valuable.**
 
 ---
+
 ## 22. 🚂 Late Ottoman Energy: Concessions Before Pipelines
 
 Before the First World War, European powers and companies were already competing over:
@@ -880,7 +902,8 @@ But equally do not pretend petroleum appeared from nowhere after the Mandates we
 The emerging oil geography was already part of the imperial environment in which the Ottoman Middle East was being contested.
 
 ---
-## 23. 🐪 The Arab Revolt --- Please Specify Which One
+
+## 23. 🐪 The Arab Revolt – Please Specify Which One
 
 There are two different revolts that internet discourse has a terrible habit of blending.
 
@@ -911,6 +934,7 @@ And by this point:
 That matters because energy infrastructure has moved from prospective imperial interest into physical strategic infrastructure that can be attacked, guarded, interrupted and used.
 
 ---
+
 ## 24. 🇬🇧🇫🇷 Ottoman Collapse: Everyone Would Like A Bit Of This Map Please
 
 The post-war settlement creates new political territories and mandates.
@@ -934,6 +958,7 @@ Suddenly a line on a map is not merely a line.
 It is a route.
 
 ---
+
 ## 25. 🛢️ Kirkuk Has Entered The Chat
 
 By the 1930s the Iraq Petroleum Company system physically connects Kirkuk to Mediterranean outlets.
@@ -979,6 +1004,7 @@ Market.
 The resource under the ground is only the beginning.
 
 ---
+
 ## 26. 💥 And Then People Attack The Pipeline
 
 During the 1936--39 Arab Revolt, pipeline infrastructure became a target.
@@ -1002,6 +1028,7 @@ Energy can enter a conflict **after the conflict already exists**.
 That is precisely why "was it all about oil?" is such a bad question.
 
 ---
+
 ## 27. 🇵🇸 Zionism, Britain And Oil: Keep The Chronology Straight
 
 The node should explicitly reject:
@@ -1041,6 +1068,7 @@ The historical questions are therefore:
 Write that on the wall.
 
 ---
+
 ## 28. 🧱 1948 Breaks The Energy Map Too
 
 Political change alters infrastructure.
@@ -1068,6 +1096,7 @@ Then the new routes change later incentives.
 No singular master cause required.
 
 ---
+
 ## 29. 🚢 Suez: Because Apparently We Needed Another Chokepoint
 
 Suez does not need a complete history inside this node.
@@ -1095,6 +1124,7 @@ But it is recognisable.
 Which is why the historical section eventually loops back into the present.
 
 ---
+
 ## 30. 🪞 Two Energy Maps, Roughly Ninety Years Apart
 
 ### c. 1930s
@@ -1233,6 +1263,7 @@ Now ask:
 > **Did any of it enter decisions about material support for Israel?**
 
 ---
+
 ## 32. 🧠 "Was It In The Room?"
 
 This should become one of the node's recurring journalist boxes.
@@ -1305,6 +1336,7 @@ This is journalism.
 Please do some.
 
 ---
+
 ## 33. 🧾 Support Counts --- But Specify The Support
 
 For the purposes of this node, "Western support" is not one homogeneous object.
@@ -1357,6 +1389,7 @@ Its relevant tools differ:
 No blob labelled "THE WEST".
 
 ---
+
 ## 34. 🧮 The Beneficiary Ledger
 
 For each major actor, build this table during the research pass.
@@ -1390,6 +1423,7 @@ The final column is the one most people skip.
 **Do not skip it.**
 
 ---
+
 ## 35. 🪞 Same Words, Different Seas
 
 A comparative table can expose what governments mean when they use words such as:
@@ -1421,6 +1455,7 @@ Nobody receives the **Golden Barrel of Sovereignty**.
 We are checking the arguments.
 
 ---
+
 ## 36. 🧨 Claims To Put Through The Machine
 
 ### "The war is about stealing Gaza's oil."
@@ -1480,7 +1515,8 @@ It establishes a decision-making environment worth interrogating.
 The causal bridge still needs evidence.
 
 ---
-## 37. 🕵️ The Press Questions
+
+## 37. 🗞️ The Press Questions
 
 This is the section I actually want journalists to steal.
 
@@ -1576,6 +1612,7 @@ Terrible for a conspiracy montage.
 Potentially excellent journalism.
 
 ---
+
 ## 38. 🦑 What The Kraken Actually Cares About
 
 The Kraken is not here to announce that oil secretly controls history.
@@ -1619,6 +1656,7 @@ This is why **who benefits?** is worth asking even when the answer does not tell
 And this is why a press corps can interrogate material interests without becoming Infowars with a pipeline map.
 
 ---
+
 ## 39. 🌍 The Larger Question
 
 The deeper investigation is not:
@@ -1675,6 +1713,7 @@ That is enough.
 Everything else is evidence.
 
 ---
+
 ## 📚 Source Drawer
 
 The draft above distinguishes documented facts from questions still requiring investigation. These are anchor sources for the first evidence pass.
@@ -1749,6 +1788,7 @@ correspondence](https://history.state.gov/historicaldocuments/frus1949v06/d65) -
 memorandum](https://history.state.gov/historicaldocuments/frus1952-54v09p1/d294) --- records the Kirkuk--Haifa pipeline as non-operational because of the Iraqi embargo.
 
 ---
+
 ## 🗃️ Research Drawer --- Before Finalising
 
 The next evidence pass should fill rather than assume:
@@ -1795,11 +1835,17 @@ not affect --- specific Western decisions on support for Israel.
 The Kirkuk--Haifa pipeline cannot explain a 1917 decision merely because Britain later found Palestine useful as a petroleum corridor.
 
 ---
+
 ## 🌌 Constellations
 
-🛢️ 🕸️ 🗺️ 🦑 🪞 --- resource power; infrastructure and route control; global-interest mapping; causal hygiene; comparative sovereignty and energy-security claims.
+🛢️ 🕸️ 🗺️ 🦑 🪞 --- resource power; infrastructure and route control; global-interest mapping; causal hygiene; comparative sovereignty and energy-security claims.  
+
+*Follow the evidence:*  
+
+- [🎶: David Rovics, via SoundCloud: Operation Iraqi Liberation](https://m.soundcloud.com/davidrovics/operation-iraqi-liberation)  
 
 ---
+
 ## ✨ Stardust
 
 palestine, gaza, energy security, natural gas, hydrocarbons, military support, material interests, eastern mediterranean, infrastructure power, reconstruction, causal analysis
