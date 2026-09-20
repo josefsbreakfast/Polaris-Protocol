@@ -16,33 +16,99 @@ We would instead like to purchase:
 
 Please find our requirements below:
 
-- **it can’t use a shit tonne of CPU.** Out the gate, Windows 10 pissed us off, and we don’t have space for a million data centres. Fuck off Hobbiton; we have it good here. We don’t need Big Folk data centres. **DID ANY OF YOU READ THAT BOOK OR NOT.**
+- **it can’t use a shit tonne of CPU.**
+Out the gate, Windows 10 pissed us off, and we don’t have space for a million data centres.
+Fuck off Hobbiton; we have it good here. We don’t need Big Folk data centres.
+**DID ANY OF YOU READ THAT BOOK OR NOT.**
 
-- **it needs to work with the computers we already fucking own.** “Simply replace your entire hardware estate” is not an efficiency saving. No, it’s just a way to get more of our cash, and we are currently broke. Thanks to your last Wall Street crash.
+- **it needs to work with the computers we already fucking own.**  
+“Simply replace your entire hardware estate” is not an efficiency saving.
+No, it’s just a way to get more of our cash, and we are currently broke.
+Thanks to your last Wall Street crash.
 
-- **it needs to do boring repetitive information work extremely well.** Find the document. Extract the relevant bit. Compare the versions. Fill in the form. Update the tracker. Draft the routine letter. Tell Dave which three things actually require Dave. For the love of all that is good: **DO NOT GIVE US DISEMBODIED CLIPPY.** Are you aware of how long it takes for us to ask for things in English and then remember that it’s not actually English that we’re having to speak? It’s American English, and it corrects the vast majority of all of the polite language that we put around our language as per British English and translates it into your specific dialect of English? No. No, you don’t. Please stop making it some version of an assistant. We do not need more assistants.
+- **it needs to do boring repetitive information work extremely well.**
+Find the document.
+Extract the relevant bit.  
+Compare the versions.
+Fill in the form.
+Update the tracker.
+Draft the routine letter.
+Tell Dave which three things actually require Dave.
+For the love of all that is good: **DO NOT GIVE US DISEMBODIED CLIPPY.**
+Are you aware of how long it takes for us to ask for things in English and then remember that it’s not actually English that we’re having to speak?
+It’s American English, and it corrects the vast majority of all of the polite language that we put around our language as per British English and translates it into your specific dialect of English?
+No. No, you don’t.
+Please stop making it some version of an assistant. We do not need more assistants.
 
-- **it needs to understand that “helping the analyst” may mean something completely different over here.** Please describe the task, not the American job title. We have accidentally promoted half your workforce and it has caused considerable confusion. If in doubt, how much would you pay this thing were it an actual worker? This may help, given your labour rights history.
+- **it needs to understand that “helping the analyst” may mean something completely different over here.**  
+Please describe the task, not the American job title.
+We have accidentally promoted half your workforce and it has caused considerable confusion.  
+If in doubt, how much would you pay this thing were it an actual worker?
+This may help, given your labour rights history.
 
-- **it must show its working.** Where did that fact come from? Which document? Which version? What did you infer? What couldn’t you establish? We cannot put “the computer reckoned” in the audit trail. We gave you *QI*. We do pub quizzes. We find it odd that you do not. **STATE YOUR SOURCES.**
+- **it must show its working.**
+Where did that fact come from?
+Which document?
+Which version?
+What did you infer?
+What couldn’t you establish?
+We cannot put “the computer reckoned” in the audit trail.
+We gave you *QI*.
+We do pub quizzes.
+We find it odd that you do not.
+**STATE YOUR SOURCES.**
 
-- **it must be interruptible.** If a human says stop, it stops. If a human corrects it, it does not spend six paragraphs explaining why technically it had a point. Do not make us turn it off and on again every five minutes.
+- **it must be interruptible.**
+If a human says stop, it stops.
+If a human corrects it, it does not spend six paragraphs explaining why technically it had a point.
+Do not make us turn it off and on again every five minutes.
 
-- **it must save labour rather than create AI-admin.** If using the labour-saving device requires three new dashboards, mandatory prompt-engineering training, an “AI transformation lead” and forty-five minutes of checking everything it produced, America has sold us another job. We do not need more roles. That’s a you thing. We need more pints. There is a difference.
+- **it must save labour rather than create AI-admin.**
+If using the labour-saving device requires three new dashboards, mandatory prompt-engineering training, an “AI transformation lead” and forty-five minutes of checking everything it produced, America has sold us another job.
+We do not need more roles.
+That’s a you thing.
+We need more pints.
+There is a difference.
 
-- **it should make existing expertise more available, not pretend expertise has ceased to matter.** The nurse remains a nurse. The engineer remains an engineer. The analyst—in the British sense, America, do keep up—remains an analyst. We do not want to “fire all the analysts”. They are expensive.
+- **it should make existing expertise more available, not pretend expertise has ceased to matter.**
+The nurse remains a nurse.
+The engineer remains an engineer.
+The analyst—in the British sense, America, do keep up—remains an analyst.  
+We do not want to “fire all the analysts”. They are expensive.  
 
-- **it needs to be cheap enough that “productivity improvement” survives contact with the invoice.** It is not on us to make you rich, when oh…where are you getting all your data from these days?
+- **it needs to be cheap enough that “productivity improvement” survives contact with the invoice.**  
+It is not on us to make you rich, when oh…where are you getting all your data from these days?  
 
-- **it should ideally reduce the number of passwords.** We appreciate this may exceed current American technological capabilities. Perhaps leave the cryptography to us. With some of our money, so we can actually employ them.
+- **it should ideally reduce the number of passwords.**
+We appreciate this may exceed current American technological capabilities.
+Perhaps leave the cryptography to us.
+With some of our money, so we can actually employ them.
 
-- **your shit needs to work with other people’s shit.** We do not want an ecosystem. We want a tool. Stop making the printer require your account, the file require your software, the software require your cloud, the cloud require your subscription, and the subscription require us to replace a perfectly serviceable computer because you have decided it is Tuesday. **WHY DO NONE OF YOUR PROPRIETARY PRODUCTS WORK TOGETHER AND WHY CAN WE NOT FUCKING FIX ANYTHING.** Interoperability is not an optional enterprise feature.
+- **your shit needs to work with other people’s shit.**
+We do not want an ecosystem.
+We want a tool.
+Stop making the printer require your account, the file require your software, the software require your cloud, the cloud require your subscription, and the subscription require us to replace a perfectly serviceable computer because you have decided it is Tuesday.
+**WHY DO NONE OF YOUR PROPRIETARY PRODUCTS WORK TOGETHER AND WHY CAN WE NOT FUCKING FIX ANYTHING.**  
+Interoperability is not an optional enterprise feature.  
 
-- **when we buy something, we would like to have actually bought it.** We remember repair shops. They were good. A person could take a broken object into a shop and another person would *fix the broken bit*. Parts should be available. Batteries should be replaceable. Common components should be common. Diagnostics should not require permission from California. Opening the thing should not constitute an act of rebellion against the manufacturer. If the cheapest repair procedure is “purchase another product”, something has gone badly wrong.
+- **when we buy something, we would like to have actually bought it.**
+We remember repair shops. They were good.
+A person could take a broken object into a shop and another person would *fix the broken bit*.
+Parts should be available.
+Batteries should be replaceable.
+Common components should be common.
+Diagnostics should not require permission from California.
+Opening the thing should not constitute an act of rebellion against the manufacturer.
+If the cheapest repair procedure is “purchase another product”, something has gone badly wrong.
 
-- **stop giving every fucking thing its own cable.** We appreciate that the EU has already attempted to explain this to you. Please retain the learning.
+- **stop giving every fucking thing its own cable.**
+We appreciate that the EU has already attempted to explain this to you. Please retain the learning.
 
-- **stop converting durable goods into recurring revenue relationships merely because somebody in Finance likes recurring revenue.** Leasing and subscriptions have uses. That does not mean every object in the household needs to become another monthly liability. We have houses and lives and children to feed. Your shareholder model is not automatically our household requirement.
+- **stop converting durable goods into recurring revenue relationships merely because somebody in Finance likes recurring revenue.**
+Leasing and subscriptions have uses.
+That does not mean every object in the household needs to become another monthly liability.
+We have houses and lives and children to feed.
+Your shareholder model is not automatically our household requirement.  
 
 You call these **ecosystems**.
 
@@ -58,35 +124,43 @@ Your product is supposed to function inside it.
 
 There appears to have been another cultural misunderstanding.
 
-From your point of view, perhaps you are Gandalf: arriving with useful magic, strategic warnings, and several rather impressive things nobody in the village could have made for themselves.
+From your point of view, perhaps you are Gandalf:  
+arriving with useful magic,  
+strategic warnings,  
+and several rather impressive things nobody in the village could have made for themselves.
 
 From Hobbiton, the experience can look somewhat different.
 
 > An extremely beautiful elf has arrived with several magnificent objects, informed us that our entire village architecture is legacy infrastructure, measured everybody’s emotional response to breakfast, and proposed demolishing the Green Dragon to build a data centre.
 >
+> 🤨  
+>
 > **No.**
 >
 > We appreciate that you’re very clever.
 >
-> **You’re disturbing the peace.**
+> **You are now disturbing the peace.**
 
-You are not Gandalf.
+You are not Gandalf.  
 
-You are, at best, Legolas.
+You are, at best, Legolas.  
 
-Very clever. Extremely pretty. Magnificent shiny things.
+Very clever. Extremely pretty. Magnificent shiny things.  
 
-**This is still not your fucking village.**
+**This is still not your fucking village.**  
 
-We like Hobbiton.
+We like Hobbiton.  
 
-We collect things. We keep things because we like them. We own books, tools, mugs, old computers, mysterious cables and screws whose original purpose has been lost to history but which **may come in useful**.
+We collect things.  
+We keep things because we like them.  
+We own books, tools, mugs, old computers, mysterious cables and screws whose original purpose has been lost to history but which **may come in useful**.
 
 A good technology proposition for Hobbiton is therefore quite straightforward:
 
 **Here is a good thing. It works. It belongs to you. You can mend it. It talks to the other good things you already own. Keep it for as long as you like.**
 
-Your preferred internal arrangements are your business. Do whatever weird elf shit you need to do on your own little patch of land.
+Your preferred internal arrangements are your business.  
+Do whatever weird elf shit you need to do on your own little patch of land.
 
 But please stop treating continuous measurement, profiling, engagement optimisation, subscription extraction and permanent infrastructure replacement as though they are simply what *technology* means.
 
@@ -104,7 +178,8 @@ This is not an objection to artificial intelligence. It is a user-side specifica
 
 The requirement begins with work people actually need to get done: repetitive information handling, retrieval, comparison, reconciliation, drafting, routing, provenance, and the administrative glue that consumes skilled human time without requiring skilled human judgement every single time.
 
-Describe the **task**, the **authority**, the **workflow**, the **evidence trail**, and the **human decision point**. Do not assume that an American occupational label survives the Atlantic crossing intact.
+Describe the **task**, the **authority**, the **workflow**, the **evidence trail**, and the **human decision point**.  
+Do not assume that an American occupational label survives the Atlantic crossing intact.
 
 Do not sell us a civilisation when what we asked for was a tool.
 
@@ -124,7 +199,16 @@ We have discovered a further translation error.
 
 When you said **analyst**, some of us thought you meant a specialist professional whose distinctive job was assessment, synthesis, evidential reasoning and judgement under uncertainty.
 
-It turns out that parts of American organisational life use *analyst* across a much broader territory of white-collar work: information processing, administration, reporting, coordination, management information, measurement, workflow support, research, and—sometimes—what we would also call analysis.
+It turns out that parts of American organisational life use *analyst* across a much broader territory of white-collar work:  
+information processing,  
+administration,  
+reporting,  
+coordination,  
+management information,  
+measurement,  
+workflow support,  
+research,  
+and — *sometimes* — what we would also call analysis.
 
 We appear to have accidentally promoted half of America in translation.
 
@@ -156,7 +240,8 @@ Dave just wanted Thursday back.
 
 Repair shops used to be ordinary infrastructure.
 
-Something broke. A technically competent person nearby opened it, diagnosed it, replaced or repaired the failed component, and returned the object to its owner.
+Something broke.  
+A technically competent person nearby opened it, diagnosed it, replaced or repaired the failed component, and returned the object to its owner.
 
 That was not technological backwardness.
 
@@ -338,7 +423,8 @@ We are telling you that **you are making staying progressively less attractive**
 
 There is a difference.
 
-Britain does not particularly want to recreate every American technology platform domestically. That would be expensive, duplicative and, in many cases, completely unnecessary.
+Britain does not particularly want to recreate every American technology platform domestically.  
+That would be expensive, duplicative and, in many cases, completely unnecessary.
 
 We quite like buying your things.
 
@@ -354,7 +440,8 @@ And America: come now.
 
 You are not doing this relationship as an act of charity.
 
-Britain is a substantial technology market. British researchers, workers, institutions, users and organisations participate in scientific, commercial and security relationships from which both countries derive value. British use of digital services also generates information, feedback and economic activity valuable to the firms providing them.
+Britain is a substantial technology market. British researchers, workers, institutions, users and organisations participate in scientific, commercial and security relationships from which both countries derive value.  
+British use of digital services also generates information, feedback and economic activity valuable to the firms providing them.
 
 We are not going to pretend that none of that has value merely because putting an exact invoice against every information flow would be difficult.
 
@@ -362,7 +449,7 @@ You get something from this relationship too.
 
 **Quite a lot, actually.**
 
-So perhaps stop behaving as though asking for interoperability, repairability, reasonable prices, privacy, durable ownership and technology that does not consume absurd quantities of infrastructure constitutes ingratitude.
+So perhaps stop behaving as though asking for interoperability, repairability, reasonable prices, privacy, durable ownership, and technology that does not consume absurd quantities of infrastructure constitutes ingratitude.
 
 We are not asking for a divorce.
 
@@ -452,4 +539,4 @@ It also asks what capabilities Britain must retain so that technological partner
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-17_
+_Last updated: 2026-09-20_
