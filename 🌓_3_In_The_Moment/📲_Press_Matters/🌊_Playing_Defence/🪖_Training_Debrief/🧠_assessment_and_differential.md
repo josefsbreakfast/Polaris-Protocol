@@ -1,6 +1,7 @@
 # 🧠 Assessment And Differential
-**First created:** 2026-09-07 | **Last updated:** 2026-09-07  
-*A provisional systemic diagnosis of the British Army collective-training problem, testing competing explanations before assigning responsibility.*
+
+**First created:** 2026-09-07 | **Last updated:** 2026-09-20  
+*A provisional systemic diagnosis of the British Army collective-training problem, testing competing mechanisms before assigning responsibility.*
 
 ---
 
@@ -12,7 +13,7 @@ Britain says it is moving towards:
 
 > **warfighting readiness**
 
-while the Army has reportedly been required to reduce or suspend some collective-training activity in order to make approximately £30 million of savings.
+while the Army has reportedly been required to reduce, defer or reprioritise some collective-training activity in order to make approximately **£30 million of savings**.
 
 That is a genuine contradiction worth investigating.
 
@@ -22,24 +23,22 @@ The wrong move now would be to choose whichever institution one already dislikes
 
 > **Aha. It was them.**
 
-Possible villains are plentiful:
+Possible explanations are plentiful:
 
-- Treasury;
-- ministers;
-- Army Command;
-- MOD finance;
-- procurement;
-- previous governments;
-- modernisation programmes;
-- contractors;
-- strategic overreach;
-- bureaucracy.
-
-Several may have contributed.
+- acute affordability pressure;
+- Treasury or MOD budget architecture;
+- Army-level prioritisation;
+- inherited spending commitments;
+- modernisation;
+- accumulated force-generation pressure;
+- competing strategic commitments;
+- information loss;
+- governance failure;
+- some combination of all of the above.
 
 None should be convicted because they were standing nearest the budget when the music stopped.
 
-This node therefore does a different job from [🔬 Tests And Investigations](./🔬_tests_and_investigations.md).
+This node therefore does a different job from [`🔬_tests_and_investigations.md`](./🔬_tests_and_investigations.md).
 
 `🔬` asks:
 
@@ -47,7 +46,7 @@ This node therefore does a different job from [🔬 Tests And Investigations](./
 
 This node asks:
 
-> **What explanations currently remain live, what would each imply, and what evidence would distinguish them?**
+> **What explanations remain live, through what mechanisms could each produce the observed symptom, and what evidence would distinguish them?**
 
 The diagnosis remains provisional.
 
@@ -57,26 +56,30 @@ It is what diagnosis is for.
 
 ---
 
-## 🩻 Provisional assessment
+## 1. 🩻 Provisional Formulation
 
-The evidence currently supports a cautious systemic assessment:
+The narrowest useful formulation is presently:
 
-> **Britain appears to have a Defence system in which strategic ambition, operational commitments, inherited programmes, personnel capacity, estate, modernisation and available near-term spending are not yet sufficiently aligned to protect all of the force-generation activity that current policy says is necessary for warfighting readiness.**
+> **The September training restriction is consistent with several interacting mechanisms: a near-term affordability constraint operating within a force-generation system already managing strategic commitments, modernisation and finite enabling capacity. Public evidence establishes that training has been reprioritised, but does not yet establish the complete financial mechanism, functional capability consequence, regeneration cost, internal professional advice, alternatives considered, or ownership of residual readiness risk.**
 
-The reported £30 million training reduction may therefore be:
+The reported £30 million reduction may therefore represent:
 
 - the immediate problem;
 - a symptom of a deeper affordability problem;
-- a symptom of budget architecture;
-- evidence of accumulated hollowing-out;
-- a rational temporary prioritisation;
+- a consequence of budget architecture;
+- accumulated low resilience;
+- rational temporary prioritisation;
+- part of genuine training transformation;
 - an unintended consequence of modernisation;
-- the result of competing commitments;
-- evidence of poor information flow;
-- evidence of poor prioritisation;
+- pressure created by competing commitments;
+- poor information transmission;
+- poor decision closure;
+- poor prioritisation;
 - or some combination of these.
 
-This is a **multifactorial differential**.
+This is a:
+
+> **multifactorial differential.**
 
 That matters.
 
@@ -84,112 +87,170 @@ Because treating a systems problem as one bad decision by one person is an excel
 
 ---
 
-## 🧬 The working differential
+## 2. 🧬 The Working Differential
 
-At present, seven explanations deserve serious testing:
+Seven explanations deserve continued testing:
 
 1. **Acute affordability pressure**
 2. **Budget architecture and lock-in**
 3. **Modernisation transition costs**
-4. **Accumulated hollowing-out**
+4. **Accumulated hollowing-out / low system resilience**
 5. **Competing commitments**
 6. **Poor feedback and information transmission**
 7. **Bad prioritisation**
 
 These are not mutually exclusive.
 
-Indeed, the most plausible eventual diagnosis may be a chain:
+Indeed, a plausible mechanism may look like:
 
-```mermaid
-flowchart TD
-    A["Long-term force / estate / personnel pressure"] --> B["Reduced resilience"]
-    B --> C["New strategic commitments"]
-    C --> D["Modernisation requirements"]
-    D --> E["Budget pressure"]
-    E --> F["Rigid / protected spending"]
-    F --> G["Flexible activity absorbs shock"]
-    G --> H["Collective training reduced"]
-    H --> I["Readiness risk"]
+```text id="v8c1my"
+long-term force / estate / personnel pressure
+        ↓
+reduced organisational slack
+        ↓
+new commitments + modernisation
+        ↓
+acute affordability pressure
+        ↓
+rigid / protected expenditure
+        ↓
+flexible activity absorbs shock
+        ↓
+collective training reduced
+        ↓
+FUNCTION removed / deferred / substituted
+        ↓
+competence affected
+        ↓
+decay
+        ↓
+mitigation
+        ↓
+regeneration requirement
+        ↓
+residual readiness risk
 ```
 
 The diagnostic task is therefore not merely:
 
-> Which box caused the problem?
+> **Which box caused the problem?**
 
-It is also:
+It is:
 
 > **Which arrows carried the problem from one part of the system into another?**
 
 ---
 
-## 💷 1. Differential: acute affordability pressure
+## 3. 🧵 Cross-Cutting Mechanisms
 
-The simplest explanation is also the most ordinary.
+Several mechanisms can worsen more than one differential.
+
+They are therefore not additional diagnoses.
+
+They are ways different diagnoses may operate.
+
+### Pre-austerisation of professional advice
+
+The requirement is compressed before political choice begins.
+
+### Financial flexibility becoming capability vulnerability
+
+Activities easiest to stop repeatedly absorb shocks generated elsewhere.
+
+### Risk displacement
+
+Risk removed from one budget, organisation, time period or activity reappears somewhere else.
+
+### Institutional signal attenuation
+
+Negative information becomes less specific or urgent as it moves upwards.
+
+### Regeneration-time blindness
+
+The institution counts what can be stopped quickly without fully pricing how slowly it can be rebuilt.
+
+### Catalogue bias
+
+Persistent, visible assets are easier to count and defend than perishable collective competence.
+
+These mechanisms should be tested across the differential rather than treated as explanations in isolation.
+
+---
+
+## 4. 💷 Differential: Acute Affordability Pressure
+
+The simplest explanation is ordinary.
 
 Defence had an in-year financial problem.
 
 Savings were required.
 
-Collective Army training was one of the activities available to reduce, defer or redesign.
+Collective Army training was one of the activities available to:
 
-On this reading, there is no mysterious institutional pathology.
+- reduce;
+- defer;
+- redesign;
+- postpone.
+
+On this reading, there need be no mysterious institutional pathology.
 
 There is:
 
 > **not enough near-term money for everything currently planned.**
 
-That explanation remains plausible.
+That explanation remains live.
 
 But it is incomplete until several questions are answered.
 
-### Evidence which would strengthen it
+### Evidence relevant to this differential
+
+Establish whether:
 
 - a clear in-year savings requirement existed;
-- the timing of the requirement matches the training changes;
-- the affected activity would largely return if funding returned;
-- alternatives were examined and had greater capability consequences;
-- the saving is temporary rather than part of an unacknowledged force-design change.
+- its timing matches the training changes;
+- the affected activity would return if funding returned;
+- alternatives were considered;
+- those alternatives carried different capability consequences;
+- the change is temporary rather than an unacknowledged force-design decision.
 
-### Evidence which would weaken it
+Also establish whether:
 
-- the same training changes would have happened without the £30 million constraint;
-- the affected activity had already been judged obsolete or low-value;
-- the principal cause was estate, personnel or equipment availability rather than cash;
-- the £30 million figure describes savings captured after a training redesign rather than the reason for it.
+- the same training changes were already planned;
+- affected activity had already been judged obsolete or lower-value;
+- estate, personnel or equipment rather than cash prevented execution;
+- the £30 million describes savings captured from a redesign rather than the reason for the redesign.
 
-The cleanest test remains:
+The cleanest discriminator remains:
 
 > **If the £30 million constraint disappeared tomorrow, would the decision remain the same?**
 
 If yes:
 
-affordability is not the whole diagnosis.
+> affordability cannot by itself explain the change.
 
 If no:
 
-affordability is probably causal.
+> the financial constraint is materially connected to it.
 
 If partly:
 
-welcome to Defence.
+> welcome to Defence.
 
 ---
 
-## 🧱 2. Differential: budget architecture and lock-in
+## 5. 🧱 Differential: Budget Architecture And Lock-In
 
-The next possibility is more structural.
-
-Defence may possess enough money in aggregate while still having too little money available at the point where this decision was made.
+Defence may possess substantial resources in aggregate while having too little usable money at the point where this decision was made.
 
 Large programmes can be:
 
 - contractually committed;
-- politically protected;
+- politically committed;
 - strategically designated;
-- difficult to alter quickly;
-- expensive to cancel;
+- expensive to alter;
+- slow to alter;
 - attached to long procurement cycles;
-- funded through different accounting structures.
+- contained within different accounting structures.
 
 Training is different.
 
@@ -205,73 +266,68 @@ That flexibility is operationally useful.
 
 It can also make training financially vulnerable.
 
-The diagnostic question is therefore:
+The diagnostic question is:
 
-> **Was collective training reduced because it was the least valuable activity available, or because it was one of the easiest activities to stop?**
+> **Was collective training reduced because changing it produced the least capability damage, or because it was one of the easiest things to stop?**
 
-Those are not the same thing.
+Those are different optimisation problems.
 
-If the second is true, the pathology is:
+If the latter mechanism is present:
 
-> **financial flexibility becoming capability vulnerability.**
+> **financial flexibility has become capability vulnerability.**
 
-### Evidence which would strengthen this diagnosis
+### Evidence to establish
 
-- substantial spending lines were effectively immovable in-year;
-- the Army had few genuinely flexible alternatives;
-- commercial or programme restructuring was not feasible on the required clock;
-- training absorbed pressure primarily because it could move quickly;
-- similar patterns recur across financial years.
+- which spending lines were effectively immovable;
+- why;
+- which alternatives were genuinely available;
+- how quickly each could move;
+- their capability consequences;
+- whether similar training reductions recur when in-year pressure appears;
+- whether training repeatedly functions as the balancing item.
 
-### Evidence which would weaken it
+A budget can balance while the force-generation system absorbs the cost elsewhere.
 
-- several equally flexible alternatives existed;
-- those alternatives were properly assessed and carried greater capability cost;
-- the affected training was independently assessed as the least damaging option.
-
-A budget can therefore be:
-
-> balanced
-
-while the capability system is:
-
-> badly prioritised by the shape of what can move.
-
-That would be an architectural diagnosis.
+That would be an architectural mechanism.
 
 Not merely an accounting one.
 
 ---
 
-## 🤖 3. Differential: modernisation transition costs
+## 6. 🤖 Differential: Modernisation Transition Costs
 
 The Army is not standing still.
 
-Its training system is being changed in response to:
+Its training system is changing in response to:
 
-- lessons from Ukraine;
-- counter-drone requirements;
+- Ukraine;
+- drones;
+- counter-drone warfare;
+- electronic warfare;
 - simulation;
 - AI and analytics;
 - virtual environments;
-- new force structures;
-- different operational assumptions.
+- new equipment;
+- changed force structures;
+- changed operational assumptions.
 
-Some apparent reduction in traditional activity may therefore be genuine transformation.
+Some reduction in traditional activity may therefore reflect genuine transformation.
 
-That possibility needs to be taken seriously.
+That possibility needs to remain open.
 
-It would be foolish to preserve every exercise simply because:
+It would be foolish to preserve every exercise because:
 
 > **this is how we have always trained.**
 
 Training exists to produce capability.
 
-If another method produces the same or better capability at lower cost, use it.
+If another method produces the required function better or more efficiently:
+
+> **use it.**
 
 But modernisation creates a dangerous rhetorical shortcut:
 
-```text
+```text id="tzzt32"
 old activity reduced
         +
 new technology introduced
@@ -283,16 +339,129 @@ That conclusion does not automatically follow.
 
 The correct test is functional.
 
-### Ask
+---
 
-- What competence did the old activity produce?
-- What new method replaces that function?
-- Has the substitution been validated?
-- At what scale?
-- Under what conditions?
-- What physical, human and logistical friction remains missing?
-- Is the change doctrine-led or budget-led?
-- Would the new method still be preferred if the £30 million constraint vanished?
+## 7. 🧪 Modernisation Has At Least Three Relationships With Training
+
+New technology can interact with training in at least three distinct ways.
+
+```text id="20f1x3"
+NEW TECHNOLOGY
+
+A. replaces an old training function
+   ↓
+genuine substitution
+
+B. improves an existing training function
+   ↓
+augmentation
+
+C. creates new integration requirements
+   ↓
+additional collective-training demand
+```
+
+These should not be conflated.
+
+For every claimed modernisation establish:
+
+- what competence the previous activity produced;
+- what new method produces that function;
+- whether substitution has been validated;
+- at what scale;
+- under what conditions;
+- what physical and human friction remains absent;
+- whether new technology itself creates additional integration requirements.
+
+Hence:
+
+> **modernisation can reduce some training requirements while increasing others.**
+
+That is not contradictory.
+
+It is a systems consequence.
+
+---
+
+## 8. 🛸 Drone Wars As A Modernisation Discriminator
+
+Drone Wars is useful precisely because it does **not** settle the modernisation question.
+
+It demonstrates experimentation.
+
+It can potentially identify:
+
+- technical proficiency;
+- tactical techniques;
+- concealment methods;
+- reconnaissance practice;
+- FPV employment;
+- useful adaptation;
+- talented operators.
+
+Excellent.
+
+The next question is:
+
+> **What happens to the useful behaviour afterwards?**
+
+```text id="r2rdu3"
+experiment
+     ↓
+useful technique
+     ↓
+capture
+     ↓
+validation
+     ↓
+instruction
+     ↓
+team practice
+     ↓
+unit integration
+     ↓
+formation competence
+```
+
+If the Army possesses the collective-training capacity to move through that chain, experimentation can become institutional capability.
+
+If it does not:
+
+> **the existence of good drone operators does not by itself establish Army-level drone capability.**
+
+Technical proficiency is not tactical proficiency.
+
+Tactical proficiency is not collective capability.
+
+And new technology can therefore create:
+
+> **more need for integration training, not less.**
+
+---
+
+## 9. 🧪 The Modernisation Discriminator
+
+Ask:
+
+> **What function replaces what?**
+
+Then establish whether the change represents:
+
+### Genuine substitution
+
+The new method demonstrably produces the required competence.
+
+### Augmentation
+
+The new method improves preparation but does not eliminate the physical requirement.
+
+### Additional requirement
+
+The new capability creates new integration work.
+
+### Unvalidated assumption
+
+The institution is crediting future capability before transfer has been demonstrated.
 
 The difference between:
 
@@ -300,40 +469,23 @@ The difference between:
 
 and:
 
-> **cutting training while modernisation is happening nearby**
+> **cutting training while modernisation happens nearby**
 
 is evidence.
 
 Not vocabulary.
 
-### Evidence which would strengthen this diagnosis
-
-- clear training doctrine supports the replacement;
-- affected activity has an identified synthetic or redesigned substitute;
-- competence is measured before and after;
-- live activity remains where physical collective friction is necessary;
-- the change would survive removal of the immediate savings requirement.
-
-### Evidence which would weaken it
-
-- synthetic activity is being credited without validated equivalence;
-- live activity is removed primarily because it costs more;
-- recovery plans assume later restoration of the supposedly obsolete activity;
-- Army personnel describe the change as financial rather than doctrinal.
-
-Modernisation may be part of the answer.
-
-It should not become a magic word which makes capability loss disappear.
-
 ---
 
-## 🕳️ 4. Differential: accumulated hollowing-out
+## 10. 🕳️ Differential: Accumulated Hollowing-Out / Low System Resilience
 
 A small immediate cut can become strategically important when it lands on a system with little remaining slack.
 
-The £30 million question therefore cannot be assessed only by its cash value.
+The £30 million question therefore cannot be assessed solely by its cash value.
 
-The relevant prior condition includes:
+The prior condition matters.
+
+Relevant variables include:
 
 - trained personnel;
 - instructors;
@@ -343,119 +495,204 @@ The relevant prior condition includes:
 - logistics;
 - maintenance;
 - medical support;
-- reserve capacity;
+- Reserve capacity;
 - recovery time;
-- accumulated training debt.
+- accumulated training debt;
+- regeneration capacity.
 
-If those systems are already under pressure, then even a modest reduction can have disproportionate effects.
+If those are already constrained, a modest disruption can have disproportionate effects.
 
-This is the hollowing-out differential.
+The mechanism is:
 
-The logic is:
-
-```text
-repeated small constraints
+```text id="fkv2x7"
+repeated constraints
         ↓
 less spare capacity
         ↓
-more dependence on perfect scheduling
+greater dependence on perfect scheduling
         ↓
 less ability to absorb disruption
         ↓
-ordinary saving becomes readiness problem
+ordinary disruption
+        ↓
+delayed recovery
+        ↓
+training debt
+        ↓
+lower future resilience
 ```
+
+That is a feedback loop.
 
 A resilient force can tolerate some cancelled activity.
 
-A brittle force cannot tolerate very much.
-
-### Evidence which would strengthen this diagnosis
-
-- previous training debt remains unrecovered;
-- estate constraints already reduce exercise opportunity;
-- instructor shortages delay regeneration;
-- equipment availability limits realistic collective training;
-- operational commitments repeatedly displace training;
-- the force can generate one deployment but struggles to regenerate afterwards.
-
-### Evidence which would weaken it
-
-- training capacity has substantial spare headroom;
-- deferred activity can be rescheduled quickly;
-- affected formations remain above validated readiness thresholds;
-- recovery does not displace later training.
-
-The deeper question is therefore:
-
-> **How much shock can the current force-generation system absorb before “temporary” becomes structural?**
-
-That is not answered by saying £30 million is small.
-
-Small loads break systems already carrying too much weight.
+A brittle force can tolerate less.
 
 ---
 
-## 🌍 5. Differential: competing commitments
+## 11. ⏳ Hollowing-Out Is Partly A Regeneration Question
 
-Another possibility is that the training problem is partly the consequence of Britain asking the same finite military system to support several important objectives simultaneously.
+“Hollow” is politically vivid but analytically imprecise.
 
-Possible pressures include:
+A more useful question is:
+
+> **How much disruption can the force-generation system absorb, and how quickly can depleted functions be regenerated?**
+
+For each relevant function examine:
+
+- current competence;
+- available headroom;
+- decay rate;
+- instructor capacity;
+- estate capacity;
+- equipment availability;
+- replacement opportunities;
+- recovery window;
+- recovery cost;
+- displacement caused by recovery.
+
+The critical distinction is between:
+
+> **temporary interruption**
+
+and:
+
+> **interruption which begins consuming future capacity.**
+
+A cancelled activity may be recoverable next month.
+
+Or recovering it next month may cancel something else.
+
+Then the debt moves forward.
+
+---
+
+## 12. 📉 Regeneration-Time Blindness
+
+A capability can be:
+
+> **easy to stop**
+
+and:
+
+> **slow to rebuild.**
+
+That asymmetry matters.
+
+A short-term financial process naturally sees:
+
+- this year's expenditure;
+- this quarter's saving;
+- this month's activity.
+
+Capability regeneration may operate on:
+
+- training cycles;
+- instructor pipelines;
+- equipment conversion;
+- estate restoration;
+- unit cohesion;
+- multi-year procurement.
+
+Therefore investigate:
+
+```text id="9r9t17"
+saving realised
+      ↓
+function deferred
+      ↓
+competence decays
+      ↓
+recovery required
+      ↓
+scarce capacity consumed
+      ↓
+other activity displaced
+      ↓
+future cost
+```
+
+A saving today can become:
+
+> **a larger regeneration requirement tomorrow.**
+
+Whether that has happened here remains an evidential question.
+
+---
+
+## 13. 🌍 Differential: Competing Commitments
+
+Another possibility is that the training problem reflects several individually important demands being placed upon the same finite force-generation system.
+
+Relevant pressures can include:
 
 - current operations;
 - NATO commitments;
-- Ukraine-related training and support;
+- Ukraine-related support and training;
 - rapid-response requirements;
 - mobilisation preparation;
 - modernisation;
-- domestic support tasks;
 - alliance exercises;
-- estate use;
+- estate demand;
 - instructor demand.
 
-None of those is automatically the wrong priority.
+None is automatically the wrong priority.
 
-The problem appears when the same people, land, equipment, instructors and money are counted repeatedly.
+The problem appears when the same:
 
-A plan may be individually reasonable at every line and collectively impossible.
+- people;
+- instructors;
+- land;
+- equipment;
+- logistics;
+- medical capacity;
+- money;
+
+are counted repeatedly.
+
+A plan can be reasonable line-by-line and impossible in aggregate.
 
 The diagnostic question becomes:
 
-> **Is this genuinely a training-budget problem, or is training the place where conflicting national commitments finally become visible?**
-
-### Evidence which would strengthen this diagnosis
-
-- protected operational or alliance tasks materially displace domestic force generation;
-- the same instructor or estate capacity is required by several priorities;
-- readiness assumptions depend on activity being completed in mutually incompatible windows;
-- government has added tasks faster than it has added regenerative capacity.
-
-### Evidence which would weaken it
-
-- affected training is unrelated to other commitments;
-- sufficient capacity exists but money alone prevents execution;
-- alternatives could be scheduled without conflict.
-
-This is where the cluster must resist the phrase:
-
-> **Defence needs to prioritise.**
-
-Of course it does.
-
-The diagnostic question is:
-
-> **What has been prioritised over what, by whom, and with what consequence?**
-
-Prioritisation is a decision.
-
-Not an explanation.
+> **Is this fundamentally a training-budget problem, or is training where conflicting demands upon finite capacity finally become visible?**
 
 ---
 
-## ⚙️ 6. Differential: poor feedback and information transmission
+## 14. 🔀 Competing Commitments Create Opportunity Costs
 
-A Defence system can possess the relevant knowledge and still make a bad decision because the knowledge changes shape as it travels.
+A strategically valuable commitment can still consume scarce capacity.
 
-At the sharp end, the signal may be:
+That is not an argument against the commitment.
+
+It is an argument for counting its opportunity cost.
+
+If one training area is used for Activity A:
+
+> it may not be available for Activity B.
+
+If an instructor is delivering one priority:
+
+> they may not be delivering another.
+
+If a formation is committed:
+
+> it may not be available for its normal training cycle.
+
+The relevant test is therefore:
+
+> **What has been prioritised over what, through which constrained resource, and what happens next?**
+
+“Defence must prioritise” is not a diagnosis.
+
+Prioritisation is the thing being examined.
+
+---
+
+## 15. ⚙️ Differential: Poor Feedback And Information Transmission
+
+A Defence system can possess the relevant knowledge and still make a poor decision because the knowledge changes shape as it travels.
+
+At the sharp end:
 
 > **If we cancel this, the formation will lose difficult-to-regenerate collective competence.**
 
@@ -475,7 +712,7 @@ Then:
 
 > **The programme remains broadly on track.**
 
-No individual translation has to be dishonest.
+No individual translation needs to be dishonest.
 
 The aggregate effect can still be:
 
@@ -483,95 +720,174 @@ The aggregate effect can still be:
 
 This is the information differential.
 
-It links directly to [⚙️ The Feedback Machine](./⚙️_the_feedback_machine.md).
-
-### Possible failure modes
-
-- operational evidence loses specificity as it rises;
-- financial language dominates capability language;
-- professional disagreement is compressed before reaching ministers;
-- risks are fragmented across owners;
-- temporary workarounds mask structural weakness;
-- reporting rewards reassurance more than negative information;
-- junior or specialist evidence carries insufficient institutional weight;
-- ministers receive prioritised options without seeing the original requirement.
-
-A strong central command structure does not solve this automatically.
-
-It can improve integration.
-
-It can also increase the importance of preserving dissent before integration occurs.
-
-### Evidence which would strengthen this diagnosis
-
-- Army professional advice identified a significant consequence which was not visible in the final decision;
-- senior leaders received materially different assessments at different stages;
-- risk language softened during escalation;
-- no clear owner retained responsibility for the original negative signal;
-- external reporting reveals information absent from the public or political explanation.
-
-### Evidence which would weaken it
-
-- the capability consequence was clearly documented throughout;
-- dissenting advice reached the relevant decision-makers intact;
-- the final decision explicitly accepted the stated risk.
-
-The core cybernetic test is simple:
-
-> **Did the information reach somebody with authority in a form that still meant what the originator meant?**
+It links directly to [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md).
 
 ---
 
-## ⚖️ 7. Differential: bad prioritisation
+## 16. 📡 Three Different Feedback Failures
 
-The final explanation is the least complicated and therefore the one institutions may be most reluctant to entertain.
+The stronger model now distinguishes at least three pathologies.
+
+### Signal failure
+
+```text id="64w8mv"
+important information
+        ↓
+never reaches relevant authority
+```
+
+The signal is blocked, omitted, never captured or never escalated.
+
+### Translation failure
+
+```text id="crk31a"
+important information
+        ↓
+moves through system
+        ↓
+meaning changes
+        ↓
+reaches authority in weakened form
+```
+
+The signal travels.
+
+Its meaning does not survive.
+
+### Closure failure
+
+```text id="2vqnm4"
+information arrives intact
+        ↓
+problem recognised
+        ↓
+intervention
+        ↓
+???
+```
+
+The institution knows.
+
+But knowledge never becomes:
+
+- changed doctrine;
+- changed equipment;
+- changed training;
+- collective validation;
+- retest.
+
+These are different failures.
+
+They require different treatments.
+
+---
+
+## 17. 🩸 Defence Medicine As A Known-Good Comparator
+
+Defence medicine provides a useful comparator because Iraq and Afghanistan demonstrate a British military system capable of connecting operational evidence to intervention and validation.
+
+At its healthiest:
+
+```text id="sgm5uk"
+operational evidence
+       ↓
+identified problem
+       ↓
+equipment / procedure / training intervention
+       ↓
+changed individual behaviour
+       ↓
+team training
+       ↓
+collective validation
+       ↓
+operational outcome
+       ↓
+new evidence
+       ↺
+```
+
+This does not mean the medical system was perfect.
+
+Nor does it mean every improvement can be attributed to training alone.
+
+It demonstrates something narrower and more useful:
+
+> **Defence can build learning systems in which evidence changes practice and changed practice is tested.**
+
+That gives the current differential a comparator.
+
+The question is:
+
+> **Which organisational conditions allowed that loop to close, and are those conditions present in the current Army training system?**
+
+---
+
+## 18. 🧈 The Closure Test
+
+For any important operational lesson ask:
+
+1. Was the problem observed?
+2. Was evidence captured?
+3. Did the evidence reach somebody with authority?
+4. Did its meaning survive?
+5. Was an intervention designed?
+6. Did instructors receive it?
+7. Did behaviour change?
+8. Was the change collectively validated?
+9. Was the result measured?
+10. Did the result alter the next iteration?
+
+If the chain stops at:
+
+> **lesson identified**
+
+the institution has not necessarily learned.
+
+It has documented.
+
+Learning requires changed state.
+
+Feedback needs to move like fucking butter.
+
+---
+
+## 19. ⚖️ Differential: Bad Prioritisation
+
+The final explanation is the least structurally complicated.
 
 It is possible that the system understood:
 
 - the money;
 - the alternatives;
+- the training function;
 - the readiness consequence;
+- the recovery cost;
 - the operational requirement;
 
-and still chose badly.
+and nevertheless selected the trade-off which produced the current problem.
 
-Not every failure needs a hidden mechanism.
+Not every failure requires a hidden mechanism.
 
 Sometimes:
 
-> **the trade-off was wrong.**
+> **the decision itself deserves scrutiny.**
 
-That conclusion carries a high evidential threshold.
+But that conclusion carries a high evidential threshold.
 
-It should only be reached after ruling out:
+Before reaching it, establish:
 
-- genuine modernisation;
-- unavoidable financial constraint;
-- competing operational demands;
-- missing information;
-- contractual lock-in;
-- temporary risk with credible recovery.
+- what alternatives actually existed;
+- what decision-makers knew;
+- what consequences were presented;
+- what constraints were real;
+- what risks were accepted;
+- whether mitigation existed;
+- whether recovery was credible.
 
-### Evidence which would strengthen this diagnosis
+Bad prioritisation should therefore remain:
 
-- decision-makers were clearly informed of significant readiness consequences;
-- workable lower-cost alternatives existed;
-- those alternatives were rejected for weaker reasons;
-- affected activity was operationally important;
-- replacement was inadequate;
-- recovery was not credible;
-- the final risk was accepted despite poor value from the saving.
-
-### Evidence which would weaken it
-
-- training affected was demonstrably lower priority;
-- alternatives caused greater capability loss;
-- the risk was small, temporary and mitigated;
-- later evidence shows the new training model performed better.
-
-Bad prioritisation is therefore:
-
-> **a possible diagnosis after evidence.**
+> **a hypothesis tested after evidence.**
 
 Not:
 
@@ -579,70 +895,86 @@ Not:
 
 ---
 
-## 🔀 The differential may be sequential rather than competitive
+## 20. 🔀 The Differential May Be Sequential Rather Than Competitive
 
-The seven explanations should not be treated like contestants where only one survives.
+The seven explanations should not be treated as contestants where one wins and the others disappear.
 
-A more realistic model may be:
+A more realistic system may be:
 
-```mermaid
-flowchart TD
-    A["Long-term hollowing-out"] --> B["Low organisational slack"]
-    B --> C["New commitments + modernisation"]
-    C --> D["Acute affordability pressure"]
-    D --> E["Rigid spending architecture"]
-    E --> F["Training becomes movable margin"]
-    F --> G["Army identifies / receives savings option"]
-    G --> H["Professional warning enters decision chain"]
-    H --> I{"Signal preserved?"}
-    I -->|Yes| J["Explicit prioritisation / risk acceptance"]
-    I -->|No| K["Information failure"]
-    J --> L["Training reduced"]
-    K --> L
-    L --> M["Readiness consequence"]
+```text id="o11g4n"
+long-term capacity pressure
+        ↓
+low organisational slack
+        ↓
+new commitments + modernisation
+        ↓
+acute affordability pressure
+        ↓
+rigid spending architecture
+        ↓
+training becomes movable margin
+        ↓
+professional assessment enters system
+        ↓
+signal preserved?
+     ↙             ↘
+   YES              NO
+    ↓                ↓
+explicit risk     information
+decision          failure
+     ↘             ↙
+       training changed
+              ↓
+       function affected
+              ↓
+        competence decay
+              ↓
+       mitigation / recovery
+              ↓
+        residual risk
 ```
 
-The eventual diagnosis may therefore read less like:
+The eventual formulation may therefore look less like:
 
-> Treasury did it.
+> **Treasury did it.**
 
 and more like:
 
-> **a low-resilience force encountered an acute financial constraint inside a spending architecture in which training was comparatively movable; the resulting option then travelled through a senior decision system whose handling of professional readiness evidence remains to be established.**
+> **A low-resilience force encountered an acute financial constraint inside a spending architecture in which training was comparatively movable; the resulting option then travelled through a decision system whose treatment of professional readiness evidence and residual risk remains to be established.**
 
-That is a much less exciting sentence.
+Less exciting.
 
-It is also a much more useful one.
+More useful.
 
 ---
 
-## 🪞 Do not turn professional biography into causation
+## 21. 🪞 Do Not Turn Professional Biography Into Causation
 
-The strengthened post-2025 Defence architecture makes senior military governance relevant to this case.
+Senior military governance is relevant.
 
-That does not make professional biography causal evidence.
+Professional biography is not automatically causal evidence.
 
-The current Chief of the Defence Staff has a professional background associated with:
+A senior leader may have particular expertise in:
 
-- the RAF;
+- land;
+- air;
+- maritime;
 - engineering;
-- capability;
-- investment;
-- transformation.
+- logistics;
+- intelligence;
+- medicine;
+- technology;
+- personnel.
 
-Those are substantial strengths.
+That expertise creates valuable depth.
 
-They do not establish that he undervalues:
-
-- people;
-- training;
-- collective competence.
+It also means no individual professional lens can contain the entire Defence system equally well.
 
 The useful proposition is structural:
 
 > **Every professional background creates characteristic areas of unusually high visibility.**
 
-A land commander may see one set of risks unusually clearly.
+A land commander may see one category of risk unusually clearly.
 
 An engineer another.
 
@@ -656,58 +988,49 @@ That is why:
 
 > **specialisation is necessary. Counter-specialisation is governance.**
 
-The diagnostic question is not:
+The question is not whether a person's professional biography proves a preference.
 
-> **Did the CDS personally prefer shiny programmes to Army exercises?**
+It does not.
 
-There is no basis for that conclusion here.
+The question is:
 
-The better question is:
-
-> **Did the senior Defence architecture contain effective counterweights so that perishable human and collective capability remained visible alongside persistent capital capability?**
+> **Does the governance architecture contain effective counterweights so that different categories of capability remain visible during integrated decision-making?**
 
 ---
 
-## 🪖 The VCDS and Service Chiefs matter to the diagnosis
-
-The current Defence architecture already contains senior counterweights.
-
-The Vice Chief of the Defence Staff carries a formal personnel-and-training role.
-
-Service Chiefs remain important professional sensors.
-
-That creates a useful governance test.
-
-If Army collective training becomes vulnerable, ask:
-
-- What did Army leadership assess?
-- What did the VCDS assess?
-- What did CDS assess?
-- Where did those assessments differ?
-- Did disagreement survive integration?
-- What assumptions did each rely upon?
-- Who made the final military recommendation?
-- What risk was presented to ministers?
+## 22. 🪖 Service Chiefs And Central Defence Governance
 
 Integration should mean:
 
-> **joint judgement after specialist evidence is heard.**
+> **joint judgement after specialist evidence has been heard.**
 
 Not:
 
 > **specialist evidence disappears so the centre can look tidy.**
 
-If the Army says:
+For a land-force training problem ask:
 
-> this damages land-force generation,
+- What did Army leadership assess?
+- What did central Defence leadership assess?
+- Where did assessments differ?
+- Did disagreement survive integration?
+- Which assumptions differed?
+- Who made the final professional recommendation?
+- What risk was subsequently presented to civilian decision-makers?
 
-that signal should remain recognisable after it enters the integrated system.
+If Army evidence says:
 
-The same principle applies when the Navy or RAF brings inconvenient evidence.
+> **this damages land-force generation**
+
+the proposition should remain recognisable when it reaches integrated Defence governance.
+
+The same principle applies to inconvenient evidence originating elsewhere.
+
+Counter-specialisation protects the whole system from any one professional lens becoming the only lens.
 
 ---
 
-## 🛩️ The catalogue problem
+## 23. 🛩️ The Catalogue Problem
 
 Capital capability is visible.
 
@@ -729,12 +1052,14 @@ It is:
 - perishable;
 - difficult to store;
 - difficult to photograph;
-- regenerated repeatedly;
+- repeatedly regenerated;
 - partly visible only through performance.
 
 You do not permanently own readiness because you bought it once.
 
-You manufacture it repeatedly through people exercising together.
+You manufacture it repeatedly through:
+
+> **people practising together.**
 
 Then it decays.
 
@@ -742,11 +1067,11 @@ That creates an institutional asymmetry.
 
 The shiny thing remains visible.
 
-The boring recurring activity looks optional.
+The boring recurring activity can look optional.
 
 This is why every senior specialist needs somebody authorised to say:
 
-> **The programme is excellent. The equipment is impressive. But this boring recurring activity is what turns those assets into a fighting force.**
+> **The programme is excellent. The equipment is impressive. But this boring recurring activity is what turns those assets into a functioning force.**
 
 Like shiny things all you want.
 
@@ -756,17 +1081,15 @@ Like shiny things all you want.
 
 The joke contains a serious diagnostic.
 
-If the system systematically overvalues persistent assets and undervalues perishable competence, the problem is larger than one £30 million decision.
+If governance systematically counts persistent assets more easily than perishable competence, the problem is larger than one £30 million decision.
 
 ---
 
-## 🧠 Austerity can become a cognitive prior
-
-There is another possible mechanism underneath several differentials.
+## 24. 🧠 Austerity Can Become A Cognitive Prior
 
 Long periods of constraint teach institutions how to survive constraint.
 
-Senior officials and military leaders become good at:
+Senior officials and military leaders become skilled at:
 
 - prioritising;
 - compromising;
@@ -781,107 +1104,107 @@ But they can become embedded assumptions.
 
 People may stop presenting:
 
-> **what they believe is actually required**
+> **what they believe the function actually requires**
 
 and instead present:
 
 > **what they believe has some chance of being approved.**
 
-The professional requirement is therefore compressed before political choice begins.
+The professional requirement is compressed before political choice begins.
 
-That creates a strange democratic problem.
+That creates a democratic information problem.
 
-Ministers can honestly believe they funded the military requirement because:
+Civilian decision-makers can believe they funded the professional requirement because:
 
-> the military did not ask for more.
+> **the military did not ask for more.**
 
-While military leaders can honestly believe they acted responsibly because:
+Military professionals can believe they acted responsibly because:
 
-> everyone already knew more would be refused.
+> **everyone already knew more would be refused.**
 
-The missing information is:
+The missing information becomes:
 
 > **the unconstrained professional answer.**
 
-This is why [🧾 The Blank Cheque Exercise](./🧾_the_blank_cheque_exercise.md) matters.
+---
+
+## 25. 🧾 Do Not Pre-Austerise Professional Advice
+
+This is why [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) matters.
 
 Its purpose is not to grant a literal blank cheque.
 
 It is to recover the requirement before affordability negotiates against it.
 
----
-
-## 🧾 Do not pre-austerise professional advice
-
-A genuine reset requires civilian leadership to permit a different first answer:
+The first question should be:
 
 > **Tell us what the function actually requires.**
 
 Not:
 
-> Tell us what you think Treasury will tolerate.
+> **Tell us what you think the budget will tolerate.**
 
-Government may still say no.
+Government may still decide not to purchase the whole requirement.
 
-Treasury may still challenge the cost.
+Other public priorities exist.
 
-Ministers may decide another national priority matters more.
+Constraints exist.
 
-That is democratic government.
+Trade-offs are inherent to government.
 
-But the original requirement needs to survive long enough for the political system to understand:
+But the original requirement needs to survive long enough for the decision system to understand:
 
 > **what it is choosing not to buy.**
 
-Otherwise austerity stops being a political decision and becomes an invisible prior inside professional advice.
+Otherwise affordability stops being an explicit trade-off and becomes an invisible prior inside professional advice.
 
-That would affect several parts of this differential:
+That can worsen:
 
-- affordability;
+- affordability problems;
 - prioritisation;
 - feedback;
-- hollowing-out;
-- modernisation.
+- low resilience;
+- modernisation transitions.
 
 It is therefore not an eighth diagnosis.
 
-It is a mechanism capable of worsening several existing ones.
+It is a cross-cutting mechanism.
 
 ---
 
-## 🤝 Candour requires reciprocal protection
+## 26. 🤝 Candour Requires Reciprocal Protection
 
-Permission to give unwelcome advice cannot be rhetorical.
+Permission to provide unwelcome advice cannot be rhetorical.
 
-If ministers say:
+If an organisation says:
 
 > **Tell us when the plan does not work.**
 
-and then punish the first senior professional who says:
+and then creates strong incentives against saying:
 
 > **The plan does not work.**
 
-the institution learns immediately.
+the institution learns.
 
 Next time the requirement arrives already softened.
 
-A healthy system does not require ministers to grant every request.
+A healthy system does not require civilian leadership to accept every professional request.
 
 It requires:
 
 - professional candour;
 - preserved disagreement;
-- political permission to hear bad news;
+- permission to transmit bad news;
 - clear decision ownership.
 
-The reciprocal bargain is:
+The reciprocal model is:
 
-```text
+```text id="4o03hy"
 military professionals
 state the requirement honestly
         ↓
 civilian leadership
-hears it without automatic penalty
+receives the professional assessment
         ↓
 government
 makes the trade-off
@@ -894,17 +1217,17 @@ That is civilian control with information intact.
 
 ---
 
-## 📉 Distinguish prioritisation from concealment
+## 27. 📉 Distinguish Prioritisation From Concealment
 
 The system may ultimately decide:
 
-> **Yes, this creates some readiness loss. We accept it.**
+> **Yes, this creates some readiness loss. We accept it because the alternative carries a different cost or risk.**
 
 That is not automatically governance failure.
 
-Governments accept risk constantly.
+Governments make trade-offs.
 
-The important distinction is whether the risk was:
+The relevant distinction is whether the consequence was:
 
 - visible;
 - understood;
@@ -913,194 +1236,251 @@ The important distinction is whether the risk was:
 - time-bounded;
 - owned.
 
-A politically difficult decision can still be competent.
-
-An apparently tidy decision can still be dangerous if the negative information never reached the person accepting the risk.
-
-The node therefore distinguishes:
+Distinguish:
 
 ### Deliberate risk acceptance
 
-> We understand the consequence and judge the alternative worse.
+> **We understand the consequence and have explicitly accepted it.**
 
 from:
 
 ### Emergent risk
 
-> Nobody explicitly chose this outcome; it appeared through several locally reasonable decisions.
+> **Nobody explicitly selected the aggregate consequence; it emerged through several locally rational decisions.**
 
-The second is especially important.
+The second matters enormously in complex systems.
 
-Because when nobody owns the trade-off:
+Because:
 
-> **risk becomes an emergent property of everybody's reasonable local decision.**
+> **risk can become an emergent property of everybody's reasonable local decision.**
 
-That is governance failure even if no individual acted irrationally.
-
----
-
-## 🧪 Findings which would materially change the diagnosis
-
-The investigation should be designed to permit this assessment to be wrong.
-
-Several findings would change it substantially.
-
-### Finding A — negligible readiness effect
-
-Army Command concluded the affected activity could be postponed with negligible readiness consequences.
-
-**Implication:** criticism may be overstating the capability effect.
-
-### Finding B — explicit professional warning
-
-Army Command warned of significant readiness consequences but was directed to proceed.
-
-**Implication:** identify where and why that risk was accepted.
-
-### Finding C — Army-selected savings option
-
-The Army independently selected training from several available savings.
-
-**Implication:** investigate Army prioritisation rather than assuming Treasury imposed the specific trade-off.
-
-### Finding D — spending architecture left almost no movable alternative
-
-Army budgets contained effectively unavoidable in-year commitments leaving training as one of very few flexible lines.
-
-**Implication:** budget architecture becomes a stronger diagnosis.
-
-### Finding E — genuine doctrinal replacement
-
-Affected live activity was replaced by validated modernised training producing the same required competence.
-
-**Implication:** modernisation becomes a stronger explanation and cash-saving criticism weakens.
-
-### Finding F — cross-service pressure
-
-Equivalent RAF and Navy reductions were materially similar but received less reporting.
-
-**Implication:** this is more clearly a Defence-wide affordability issue.
-
-### Finding G — Army-specific pressure
-
-Other services were materially protected while Army collective training absorbed disproportionate pressure.
-
-**Implication:** investigate why land-force generation became the margin.
-
-### Finding H — easy restoration
-
-The £30 million can be restored without significant displacement elsewhere.
-
-**Implication:** immediate political resolution becomes easier and continued degradation harder to justify.
-
-### Finding I — requirement was pre-compressed
-
-Professional advice presented to ministers omitted activity senior military leaders privately regarded as necessary because they expected funding refusal.
-
-**Implication:** learned austerity and information quality become central to the diagnosis.
-
-### Finding J — senior disagreement survived
-
-CDS, VCDS and Army leadership held different assessments, those differences were recorded, and ministers knowingly chose between them.
-
-**Implication:** disagreement itself is not a governance failure; the focus moves to political risk acceptance.
+No single participant needs to behave irrationally for the aggregate system to produce a bad state.
 
 ---
 
-## 🧭 What the evidence does not currently justify
+## 28. 🌊 Risk Displacement
 
-This node does **not** presently justify concluding that:
+Risk does not necessarily disappear when a decision makes one part of the system look safer, cheaper or more efficient.
 
-- Treasury caused everything;
-- the Chancellor personally refused £30 million;
-- the Defence Secretary knowingly damaged readiness;
-- the Prime Minister personally selected Army exercises for cancellation;
+It can move.
+
+For example:
+
+```text id="j3sbyk"
+financial risk reduced
+        ↓
+training activity deferred
+        ↓
+training debt increases
+        ↓
+future regeneration demand
+        ↓
+schedule pressure
+        ↓
+readiness risk elsewhere
+```
+
+Or:
+
+```text id="txww4l"
+training hazard reduced
+        ↓
+realistic exposure removed
+        ↓
+first exposure occurs later
+        ↓
+operational risk changes
+```
+
+The correct diagnostic question is therefore:
+
+> **Where did the risk go?**
+
+Not merely:
+
+> **Did this department's risk register improve?**
+
+---
+
+## 29. 🧪 Findings Which Would Materially Change The Formulation
+
+The investigation must permit the assessment to change.
+
+### Finding A — negligible functional effect
+
+The affected activity can be postponed or redesigned without materially changing required competence.
+
+**Diagnostic consequence:** the apparent training problem becomes smaller.
+
+### Finding B — significant function with slow decay and credible recovery
+
+The activity matters, but competence persists long enough for planned recovery.
+
+**Diagnostic consequence:** temporary managed training debt becomes relevant.
+
+### Finding C — significant function with rapid decay
+
+The activity produces competence which deteriorates quickly and lacks an equivalent substitute.
+
+**Diagnostic consequence:** regeneration and readiness consequences require greater attention.
+
+### Finding D — explicit professional warning
+
+Relevant professional advice identified a material readiness consequence before the decision.
+
+**Diagnostic consequence:** follow the risk-acceptance chain.
+
+### Finding E — Army-selected savings option
+
+Army decision-makers selected the training changes from several available options.
+
+**Diagnostic consequence:** investigate the basis of that prioritisation rather than assuming the specific trade-off was externally imposed.
+
+### Finding F — spending architecture left little movable alternative
+
+Other relevant expenditure was effectively unavailable on the required timescale.
+
+**Diagnostic consequence:** budget architecture becomes central to explaining why training became the margin.
+
+### Finding G — validated doctrinal replacement
+
+Affected live activity has a substitute demonstrated to produce the required competence.
+
+**Diagnostic consequence:** the change is better understood as transformation of training function.
+
+### Finding H — technology creates additional integration demand
+
+New equipment or tactics require more unit and formation integration than the previous model.
+
+**Diagnostic consequence:** modernisation and collective-training demand are increasing together.
+
+### Finding I — competing capacity
+
+Protected commitments consume the same instructors, estate, equipment or formations required for domestic force generation.
+
+**Diagnostic consequence:** capacity allocation becomes central.
+
+### Finding J — feedback loop closes successfully
+
+Professional concerns reach authority intact, interventions follow, and consequences are validated.
+
+**Diagnostic consequence:** information failure becomes less relevant to that part of the case.
+
+### Finding K — requirement was pre-compressed
+
+Professional advice omitted activity regarded internally as necessary because refusal was anticipated.
+
+**Diagnostic consequence:** learned austerity and information quality become central.
+
+### Finding L — disagreement survives
+
+Different professional assessments are recorded and civilian decision-makers knowingly choose between them.
+
+**Diagnostic consequence:** disagreement itself is not the pathology; attention moves to explicit trade-off and risk ownership.
+
+---
+
+## 30. 🧭 What The Evidence Does Not Currently Establish
+
+The current node does **not** establish that:
+
+- Treasury caused the whole problem;
+- any named minister personally selected the affected exercises;
 - Army Command chose badly;
-- the CDS undervalued Army training because of his service background;
-- the VCDS failed in her training responsibilities;
-- Dreadnought caused the cut;
-- contractors caused the cut;
+- senior Defence leaders undervalue Army training;
+- professional biography explains a decision;
+- one procurement programme caused the training reduction;
+- contractors caused the reduction;
 - synthetic training is inherently inferior;
 - every affected exercise was operationally essential;
-- every affected exercise was low-value;
+- every affected exercise was expendable;
 - all Defence spending is fungible;
 - £30 million is too small to matter;
-- £30 million is automatically worth paying.
+- £30 million is automatically worth restoring;
+- Drone Wars proves modernisation can replace collective training;
+- Drone Wars proves modernisation cannot replace any collective training.
 
 Those propositions require evidence.
 
-The current public problem is narrower.
+The public problem is narrower.
 
-A Defence system committed to warfighting readiness has reportedly reduced or reprioritised some collective Army training for a relatively small saving, and the public explanation does not yet show:
+A Defence system committed to warfighting readiness has reportedly reprioritised collective Army training for a comparatively small saving.
 
-> **how that particular trade-off was selected, how its capability consequence was assessed, how professional disagreement moved through the system, or who ultimately owned the residual risk.**
+The evidence assembled so far does not completely establish:
 
-That is enough to diagnose provisionally.
+> **how the trade-off was selected, which training functions changed, how quickly affected competence decays, what regeneration costs arise, how professional advice moved through the system, what alternatives were genuinely available, or who owns the remaining risk.**
 
-It is not enough to prosecute personalities.
+That is enough for a provisional formulation.
+
+It is not enough to turn the differential into a prosecution.
 
 ---
 
-## 🩺 Current differential weighting
+## 31. 📊 Evidence-State Matrix
 
-At this stage, the most useful weighting is qualitative rather than numerical.
+The previous version of this node attempted to give the differentials qualitative weightings.
 
-| Differential | Current status | Why it remains live |
-|---|---|---|
-| Acute affordability pressure | **strongly plausible** | the reported saving is explicitly financial |
-| Budget architecture / lock-in | **strongly plausible** | training is comparatively flexible and therefore potentially vulnerable |
-| Modernisation transition | **plausible** | Army training is genuinely changing, but functional substitution needs testing |
-| Accumulated hollowing-out | **plausible and structurally important** | current resilience depends on personnel, estate, equipment, instructors and recovery capacity |
-| Competing commitments | **plausible** | force-generation resources are shared across operational, alliance and modernisation demands |
-| Poor feedback / information transmission | **unresolved but high-value to test** | the decision chain and handling of professional readiness evidence are not yet public |
-| Bad prioritisation | **possible but not established** | requires evidence that decision-makers understood the consequences and had better alternatives |
+A more useful approach is to record their evidential state without ranking them.
+
+| Differential | Supporting evidence identified | Key missing evidence | Main discriminator |
+| --- | --- | --- | --- |
+| Acute affordability pressure | Reported financial saving associated with training change | Exact financial mechanism and decision chronology | Would the training decision survive removal of the immediate constraint? |
+| Budget architecture / lock-in | Training is capable of being changed comparatively quickly | Full map of genuinely movable alternatives | Why did training become the margin? |
+| Modernisation transition | Training transformation and technological experimentation are occurring | Functional substitution and transfer evidence | What function is being replaced, augmented or newly created? |
+| Low system resilience | Evidence exists of multiple demands upon enabling capacity | Function-specific decay, headroom and regeneration data | Can deferred capability be restored without displacing future activity? |
+| Competing commitments | Multiple publicly acknowledged demands use force-generation resources | Complete capacity and simultaneity map | Are scarce resources being required in incompatible places or times? |
+| Feedback / information failure | Decision chain and internal professional assessments remain incomplete publicly | Internal advice, escalation and closure evidence | Did the signal arrive intact and produce action? |
+| Bad prioritisation | Cannot presently be determined from the public evidence alone | Alternatives, consequence assessment and risk-acceptance record | Was a materially different option available and how was the trade-off made? |
 
 This table should change as evidence arrives.
 
-If it does not change when evidence arrives:
+If the evidence changes and the differential never does:
 
-the differential is decoration.
+> **the differential is decoration.**
 
 ---
 
-## 🔬 The discriminating evidence
+## 32. 🔬 The Discriminating Evidence
 
-The most valuable evidence is not the material which merely tells us:
+The most valuable evidence is not evidence merely showing:
 
 > **there was pressure.**
 
-We already know there was pressure.
+Pressure is already part of the presenting complaint.
 
-The useful evidence discriminates between explanations.
+Useful evidence distinguishes mechanisms.
 
-| Evidence | Diagnostic value |
-|---|---|
-| Original savings instruction | identifies where acute financial pressure originated |
-| Army options paper | shows alternatives and Army prioritisation |
+| Evidence | Diagnostic function |
+| --- | --- |
+| Original savings instruction | identifies the immediate financial requirement |
+| Army options paper | shows alternatives considered |
 | Training programme before / after | establishes actual activity change |
-| Readiness assessment | shows capability consequence |
-| Ministerial submission | identifies what ministers were told |
-| Treasury correspondence | tests funding / flexibility explanations |
-| Replacement-training plan | distinguishes transformation from reduction |
-| Recovery schedule | distinguishes temporary deferral from structural loss |
-| Commercial-options analysis | tests whether supposedly rigid expenditure was challenged |
-| Service comparison | tests why Army absorbed more pressure |
-| CDS / VCDS / Service Chief assessments | tests counter-specialisation and signal preservation |
-| Risk register / acceptance record | identifies who owned residual readiness risk |
+| Functional training assessment | establishes what competence affected activity produced |
+| Readiness assessment | identifies anticipated capability consequence |
+| Decay / regeneration analysis | distinguishes short deferral from persistent training debt |
+| Ministerial submission | establishes what civilian decision-makers were told |
+| Relevant financial correspondence | tests available flexibility |
+| Replacement-training plan | distinguishes transformation from simple reduction |
+| Synthetic-validation evidence | tests substitution |
+| Drone Wars lessons pathway | tests whether experimentation becomes institutional learning |
+| Recovery schedule | tests credibility of temporary deferral |
+| Service comparison | tests whether pressure is Service-specific or broader |
+| Senior professional assessments | tests counter-specialisation and signal preservation |
+| Risk register / acceptance record | identifies ownership of residual risk |
 
-The diagnosis should follow that evidence.
+The diagnosis should follow this evidence.
 
 Not outrun it.
 
 ---
 
-## 🧠 The current working diagnosis
+## 33. 🧠 Provisional Systemic Formulation
 
-The narrowest defensible diagnosis is:
+The present formulation is therefore deliberately bounded:
 
-> **A known wider Defence affordability and force-generation problem appears to have been translated into a comparatively small but operationally sensitive reduction or reprioritisation of British Army collective training. The most plausible systemic explanation is presently mixed: acute financial pressure acting upon a low-slack system in which training is comparatively flexible, while modernisation, competing commitments and accumulated capacity constraints complicate the meaning of the reduction. The public record does not yet establish whether professional readiness concerns were fully preserved through the senior military and ministerial decision chain, whether materially better alternatives existed, or who explicitly accepted the resulting risk.**
+> **The September Army collective-training restriction is consistent with an acute affordability problem interacting with a wider force-generation system already managing modernisation, strategic commitments and finite enabling capacity. Training's relative financial flexibility may help explain why pressure became visible there, while the capability significance of that change depends upon the functions affected, their decay rates, available substitutes and regeneration requirements. The public record does not yet establish the complete internal decision chain, alternatives considered, treatment of professional readiness advice, or ownership of residual risk.**
 
-That is the assessment.
+This is a formulation.
 
 Not:
 
@@ -1118,23 +1498,39 @@ Not:
 
 > **£30 million will lose a war.**
 
-The problem is more boring.
+And not:
 
-Unfortunately, boring systems problems are extremely capable of becoming exciting operational problems later.
+> **£30 million is obviously trivial.**
+
+The interesting problem is not the slogan.
+
+It is the mechanism.
 
 ---
 
-## 🧿 The deeper institutional diagnosis
+## 34. 🧿 The Deeper Institutional Question
 
-The live £30 million case may ultimately prove minor.
+The live £30 million case may ultimately prove:
 
-The deeper question is more durable:
+- highly consequential;
+- manageable;
+- temporary;
+- transformational;
+- poorly handled;
+- some mixture.
 
-> **Does Britain possess a Defence system capable of converting strategy into a force-generation requirement, protecting negative professional information while making trade-offs, and sustaining enough slack that short-term financial pressure does not repeatedly consume the very activity intended to create readiness?**
+The deeper question survives whichever explanation the evidence eventually supports:
 
-That question survives whichever minister currently occupies which office.
+> **Does Britain possess a Defence system capable of converting strategy into a force-generation requirement, preserving negative professional information while making trade-offs, and maintaining enough regenerative capacity that short-term disruption does not silently consume future readiness?**
 
-It also survives whichever service currently supplies the CDS.
+That question survives changes of:
+
+- ministers;
+- governments;
+- Chiefs;
+- Service;
+- threat;
+- technology.
 
 The architecture needs to work when:
 
@@ -1146,7 +1542,7 @@ The architecture needs to work when:
 - the problem is cyber;
 - the problem is industrial.
 
-No professional specialism can see all of those equally well.
+No professional specialism sees all of those equally well.
 
 Which is precisely why:
 
@@ -1154,73 +1550,121 @@ Which is precisely why:
 
 ---
 
-## 🧭 Diagnostic principles
+## 35. 🧭 Diagnostic Principles
 
 1. **Do not diagnose from one headline.**
 2. **Do not confuse cash value with capability value.**
 3. **Do not confuse flexible spending with expendable capability.**
-4. **Do not treat modernisation as validated substitution without evidence.**
-5. **Do not assess a temporary cut without assessing recovery capacity.**
-6. **Do not count the same people, estate or equipment twice across competing commitments.**
-7. **Do not infer senior preference from professional biography.**
-8. **Preserve service-specific evidence before integrating it.**
-9. **Treat disagreement as information.**
-10. **Ask whether professional advice was pre-austerised before ministers saw it.**
-11. **Distinguish deliberate risk acceptance from emergent risk.**
-12. **Require an owner for significant residual readiness risk.**
-13. **Design the investigation so the preferred diagnosis can lose.**
-14. **Change the differential when the evidence changes.**
+4. **Trace activity through function, competence, decay, mitigation and regeneration.**
+5. **Do not treat modernisation as validated substitution without evidence.**
+6. **Modernisation may increase collective-training demand.**
+7. **Technical proficiency is not tactical proficiency; tactical proficiency is not collective capability.**
+8. **Do not assess a temporary reduction without assessing recovery capacity.**
+9. **Do not count the same people, estate, instructors or equipment twice across competing commitments.**
+10. **Distinguish signal failure, translation failure and closure failure.**
+11. **Use functioning Defence learning systems as comparators where useful.**
+12. **Do not infer senior preference from professional biography.**
+13. **Preserve specialist evidence before integrating it.**
+14. **Treat disagreement as information.**
+15. **Ask whether professional advice was pre-austerised before political choice began.**
+16. **Distinguish deliberate risk acceptance from emergent risk.**
+17. **Ask where risk moved rather than assuming it disappeared.**
+18. **Require an owner for significant residual readiness risk.**
+19. **Design the investigation so every live explanation can lose.**
+20. **Change the differential when the evidence changes.**
 
 ---
 
-## 📡 Carry forward
+## 36. 🚑 Handoff To Management
+
+A diagnosis does not need to be complete before every intervention begins.
+
+Medicine would be a fairly disastrous profession if it worked like that.
+
+The evidence may remain incomplete while some actions are:
+
+- low-regret;
+- reversible;
+- information-generating;
+- protective of future options.
+
+That is the purpose of:
+
+[`🚑_immediate_management.md`](./🚑_immediate_management.md)
+
+The next question is therefore:
+
+> **Fine. We do not yet know which mechanism dominates. What can be done safely while we find out?**
+
+That is a different problem from diagnosis.
+
+Keep it separate.
+
+---
+
+## 📡 Carry Forward
 
 The diagnostic sequence now splits in several directions.
 
-- [🚑 Immediate Management](./🚑_immediate_management.md) owns what government and Defence can do about the present problem without waiting for another strategic review.
-- [💷 Thirty Million Pounds](./💷_thirty_million_pounds.md) owns the narrow chronology, counterfactual and responsibility trail around the live saving.
-- [⚙️ The Feedback Machine](./⚙️_the_feedback_machine.md) owns the movement, distortion and suppression of negative information.
-- [🔭 What Does Ready Actually Look Like?](./🔭_what_does_ready_actually_look_like.md) owns the functional definition of readiness and the senior governance architecture around it.
-- [🧾 The Blank Cheque Exercise](./🧾_the_blank_cheque_exercise.md) owns the recovery of unconstrained professional requirements before affordability compresses them.
-- [🛡️ Prevention And Resilience](./🛡️_prevention_and_resilience.md) owns the question of how to stop the same diagnosis recurring.
+- [`🚑_immediate_management.md`](./🚑_immediate_management.md) — *what can be done now without pretending uncertainty has disappeared*
+- [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — *the narrow chronology, financial mechanism, counterfactual and responsibility trail*
+- [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — *signal failure, translation failure, closure failure and institutional learning*
+- [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — *functional readiness and governance architecture*
+- [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — *recovering the professional requirement before affordability compresses it*
+- [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — *function, competence, decay and regeneration*
+- [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — *preventing recurrence and preserving regenerative capacity*
+- [`🔬_tests_and_investigations.md`](./🔬_tests_and_investigations.md) — *the evidence pack capable of changing this differential*
 
-The assessment should be revisited when the `/data/` layer is built and the decision chronology becomes firmer.
+The assessment should be revisited as the `/data/` layer and decision chronology become firmer.
 
-A differential is useful only while it remains willing to die.
+> **A differential is useful only while it remains willing to die.**
 
 ---
 
 ## 🌌 Constellations
-🧠 🪖 💷 ⚙️ 🔭 — differential diagnosis; collective training; defence affordability; readiness governance; counter-specialisation.
+
+🧠 🪖 💷 ⚙️ 🔭 🛸 🩸 🧱 — differential diagnosis; collective training; affordability; budget architecture; force generation; modernisation; Drone Wars; Defence medicine; feedback loops; regeneration; training debt; competing commitments; counter-specialisation; risk displacement.
 
 ---
 
 ## ✨ Stardust
-british defence, army training, differential diagnosis, defence affordability, readiness, force generation, budget architecture, institutional feedback, counter-specialisation
+
+british defence, army training, differential diagnosis, defence affordability, readiness, force generation, budget architecture, modernisation, drone wars, collective competence, regeneration, training debt, institutional feedback, defence medical services, counter-specialisation, residual risk
 
 ---
 
 ## 🏮 Footer
 
-*Assessment And Differential* is a living diagnostic node of the **Polaris Protocol**.  
-It distinguishes plausible systemic explanations for the Army collective-training problem before assigning personal or institutional blame, and records the evidence capable of changing that assessment.
+*🧠 Assessment And Differential* is a living diagnostic node of the **Polaris Protocol**.
 
-> 📡 Cross-references:
+It maintains competing systemic explanations for the September 2026 Army collective-training problem and records the mechanisms and evidence capable of distinguishing them.
+
+Its working discipline is:
+
+> **Find the symptom.**
 >
-> - [🩺 Presenting Complaint](./🩺_presenting_complaint.md) — *the immediate contradiction being diagnosed*  
-> - [🔬 Tests And Investigations](./🔬_tests_and_investigations.md) — *the evidence required to discriminate between explanations*  
-> - [💷 Thirty Million Pounds](./💷_thirty_million_pounds.md) — *the live financial and decision-chain case*  
-> - [⚙️ The Feedback Machine](./⚙️_the_feedback_machine.md) — *whether negative professional information reaches authority intact*  
-> - [🔭 What Does Ready Actually Look Like?](./🔭_what_does_ready_actually_look_like.md) — *functional readiness and senior counter-specialisation*  
+> **Find the function.**
 >
+> **Find the mechanism.**
+>
+> **Find where the risk moved.**
+>
+> **Find what regenerates and how quickly.**
+>
+> **Find what evidence would prove the diagnosis wrong.**
+
+Then treat what is actually there.
+
+Not whatever happened to be standing nearest the budget when the music stopped.
+
 > 🏮 Return To:
 >
-> - [🪖 Training Debrief](./README.md) — *1up*  
-> - [🌊 Playing Defence](../README.md) — *2up*  
-> - [📲 Press Matters](../../README.md) — *3up*  
-> - [🌓 In The Moment](../../../README.md) — *4up*  
+> - [🪖 Training Debrief](./README.md) — *1up*
+> - [🌊 Playing Defence](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
 > - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-07_
+_Last updated: 2026-09-20_
