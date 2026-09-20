@@ -89,6 +89,8 @@ Then Irish artists start talking about colonial history, partition, Palestine, B
 - [الجزيرة
 : قوات الاحتلال الإسرائيلي تفرض حصارا واسعا على منطقة حداد ومحيط مستوطنتي غنيم وكاديم شرق جنين
 شمالي الضفة الغربية](https://vm.tiktok.com/ZN86wXfAM/)  – * when you say you support both sides, that means supporting this, which is people from another country coming in and building illegal houses on your land, as part of a deliberate way to try and take the land away from you*  
+– [📹: MEE: “Soumaya Ghannoushi, a writer and expert in Middle Eastern politics, argues that institutional attempts to censor artists who speak out about Palestinian suffering are backfiring.”](https://vm.tiktok.com/ZN86KJvD3/) – *”Try to silence the story, and you become the story.”*
+
 
 These links do not all carry the same evidentiary weight. A TikTok is not automatically evidence that the claim inside the TikTok is true.
 
