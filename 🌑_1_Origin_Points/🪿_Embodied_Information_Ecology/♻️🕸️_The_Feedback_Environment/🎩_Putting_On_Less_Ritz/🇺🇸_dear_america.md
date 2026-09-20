@@ -64,15 +64,15 @@ If a human corrects it, it does not spend six paragraphs explaining why technica
 Do not make us turn it off and on again every five minutes.  
 
 - **it must save labour rather than create AI-admin.**  
-If using the labour-saving device requires three new dashboards, mandatory prompt-engineering training, an “AI transformation lead” and forty-five minutes of checking everything it produced, America has sold us another job.
-We do not need more roles.
-That’s a you thing.
-We need more pints.
-There is a difference.
+If using the labour-saving device requires three new dashboards, mandatory prompt-engineering training, an “AI transformation lead” and forty-five minutes of checking everything it produced, America has sold us another job.  
+We do not need more roles.  
+That’s a you thing.  
+We need more pints.  
+There is a difference.  
 
-- **it should make existing expertise more available, not pretend expertise has ceased to matter.**
-The nurse remains a nurse.
-The engineer remains an engineer.
+- **it should make existing expertise more available, not pretend expertise has ceased to matter.**  
+The nurse remains a nurse.  
+The engineer remains an engineer.  
 The analyst—in the British sense, America, do keep up—remains an analyst.  
 We do not want to “fire all the analysts”. They are expensive.  
 
@@ -80,34 +80,34 @@ We do not want to “fire all the analysts”. They are expensive.
 It is not on us to make you rich, when oh…where are you getting all your data from these days?  
 
 - **it should ideally reduce the number of passwords.**
-We appreciate this may exceed current American technological capabilities.
-Perhaps leave the cryptography to us.
-With some of our money, so we can actually employ them.
+We appreciate this may exceed current American technological capabilities.  
+Perhaps leave the cryptography to us.  
+With some of our money, so we can actually employ them.  
 
 - **your shit needs to work with other people’s shit.**
-We do not want an ecosystem.
-We want a tool.
-Stop making the printer require your account, the file require your software, the software require your cloud, the cloud require your subscription, and the subscription require us to replace a perfectly serviceable computer because you have decided it is Tuesday.
+We do not want an ecosystem.  
+We want a tool.  
+Stop making the printer require your account, the file require your software, the software require your cloud, the cloud require your subscription, and the subscription require us to replace a perfectly serviceable computer because you have decided it is Tuesday.  
 **WHY DO NONE OF YOUR PROPRIETARY PRODUCTS WORK TOGETHER AND WHY CAN WE NOT FUCKING FIX ANYTHING.**  
 Interoperability is not an optional enterprise feature.  
 
-- **when we buy something, we would like to have actually bought it.**
-We remember repair shops. They were good.
-A person could take a broken object into a shop and another person would *fix the broken bit*.
-Parts should be available.
-Batteries should be replaceable.
-Common components should be common.
-Diagnostics should not require permission from California.
-Opening the thing should not constitute an act of rebellion against the manufacturer.
-If the cheapest repair procedure is “purchase another product”, something has gone badly wrong.
+- **when we buy something, we would like to have actually bought it.**  
+We remember repair shops. They were good.  
+A person could take a broken object into a shop and another person would *fix the broken bit*.  
+Parts should be available.  
+Batteries should be replaceable.  
+Common components should be common.  
+Diagnostics should not require permission from California.  
+Opening the thing should not constitute an act of rebellion against the manufacturer.  
+If the cheapest repair procedure is “purchase another product”, something has gone badly wrong.  
 
-- **stop giving every fucking thing its own cable.**
-We appreciate that the EU has already attempted to explain this to you. Please retain the learning.
+- **stop giving every fucking thing its own cable.**  
+We appreciate that the EU has already attempted to explain this to you. Please retain the learning.  
 
-- **stop converting durable goods into recurring revenue relationships merely because somebody in Finance likes recurring revenue.**
-Leasing and subscriptions have uses.
-That does not mean every object in the household needs to become another monthly liability.
-We have houses and lives and children to feed.
+- **stop converting durable goods into recurring revenue relationships merely because somebody in Finance likes recurring revenue.**  
+Leasing and subscriptions have uses.  
+That does not mean every object in the household needs to become another monthly liability.  
+We have houses and lives and children to feed.  
 Your shareholder model is not automatically our household requirement.  
 
 You call these **ecosystems**.
@@ -153,14 +153,14 @@ We like Hobbiton.
 
 We collect things.  
 We keep things because we like them.  
-We own books, tools, mugs, old computers, mysterious cables and screws whose original purpose has been lost to history but which **may come in useful**.
+We own books, tools, mugs, old computers, mysterious cables and screws whose original purpose has been lost to history but which **may come in useful**.  
 
 A good technology proposition for Hobbiton is therefore quite straightforward:
 
 **Here is a good thing. It works. It belongs to you. You can mend it. It talks to the other good things you already own. Keep it for as long as you like.**
 
 Your preferred internal arrangements are your business.  
-Do whatever weird elf shit you need to do on your own little patch of land.
+Do whatever weird elf shit you need to do on your own little patch of land.  
 
 But please stop treating continuous measurement, profiling, engagement optimisation, subscription extraction and permanent infrastructure replacement as though they are simply what *technology* means.
 
@@ -176,7 +176,7 @@ It is disturbing the peace.
 
 This is not an objection to artificial intelligence. It is a user-side specification.
 
-The requirement begins with work people actually need to get done: repetitive information handling, retrieval, comparison, reconciliation, drafting, routing, provenance, and the administrative glue that consumes skilled human time without requiring skilled human judgement every single time.
+The requirement begins with work people actually need to get done: repetitive information handling, retrieval, comparison, reconciliation, drafting, routing, provenance, and the administrative glue that consumes skilled human time without requiring skilled human judgement every single time.  
 
 Describe the **task**, the **authority**, the **workflow**, the **evidence trail**, and the **human decision point**.  
 Do not assume that an American occupational label survives the Atlantic crossing intact.
@@ -185,7 +185,7 @@ Do not sell us a civilisation when what we asked for was a tool.
 
 Do not sell us another management layer in order to operate the labour-saving device.
 
-Do not make the user reorganise their institution around the product and then call the resulting disruption “transformation”.
+Do not make the user reorganise their institution around the product and then call the resulting disruption “transformation”.  
 
 The bid is the other way around:
 
@@ -241,13 +241,13 @@ Dave just wanted Thursday back.
 Repair shops used to be ordinary infrastructure.
 
 Something broke.  
-A technically competent person nearby opened it, diagnosed it, replaced or repaired the failed component, and returned the object to its owner.
+A technically competent person nearby opened it, diagnosed it, replaced or repaired the failed component, and returned the object to its owner.  
 
 That was not technological backwardness.
 
 That was **distributed domestic technical capacity**.
 
-When devices become sealed, components paired, diagnostics proprietary, schematics unavailable, file formats awkward, servicing vendor-controlled, and ordinary repairs economically irrational, the loss is not merely that one consumer has to buy another phone.
+When devices become sealed, components paired, diagnostics proprietary, schematics unavailable, file formats awkward, servicing vendor-controlled, and ordinary repairs economically irrational, the loss is not merely that one consumer has to buy another phone.  
 
 Repair skills disappear.
 
@@ -259,9 +259,9 @@ Technical knowledge becomes concentrated inside the vendor’s controlled stack.
 
 More of the value chain migrates away from the place where the object is actually being used.
 
-And premature replacement turns vendor revenue into household expenditure, duplicated manufacturing, shipping, extraction, disposal and waste.
+And premature replacement turns vendor revenue into household expenditure, duplicated manufacturing, shipping, extraction, disposal and waste.  
 
-If the product was designed in California, sold under your brand, integrated into your ecosystem and governed by your commercial choices, **“well, it was manufactured somewhere else” is not a complete answer to the design problem.**
+If the product was designed in California, sold under your brand, integrated into your ecosystem and governed by your commercial choices, **“well, it was manufactured somewhere else” is not a complete answer to the design problem.**  
 
 Please make things we can keep.
 
@@ -279,15 +279,15 @@ People are fucking tired of buying the same category of object repeatedly becaus
 
 There is also a British-side problem here.
 
-Britain has made major contributions to computing, machine intelligence, computer science, defence research and academic research across the history that produced the present technological environment.
+Britain has made major contributions to computing, machine intelligence, computer science, defence research and academic research across the history that produced the present technological environment.  
 
 That does not mean America did nothing. Obviously.
 
-It means technological development is cumulative and international, and American commercial success has itself been built partly through knowledge, people and innovations produced elsewhere—including Britain.
+It means technological development is cumulative and international, and American commercial success has itself been built partly through knowledge, people and innovations produced elsewhere—including Britain.  
 
 The recurring British failure is therefore not necessarily failure to invent.
 
-It is failure to retain enough of the **commercialisation, scaling, ownership, infrastructure, standards and downstream value capture** attached to what we helped create.
+It is failure to retain enough of the **commercialisation, scaling, ownership, infrastructure, standards and downstream value capture** attached to what we helped create.  
 
 The pattern can become:
 
@@ -321,7 +321,7 @@ Having brilliant universities is not an industrial strategy.
 
 Inventing something is not an industrial strategy.
 
-Publishing it, congratulating ourselves, watching somebody else finance it, scale it, wrap it in proprietary infrastructure and then purchasing licences from them for the next forty years is **definitely not an industrial strategy**.
+Publishing it, congratulating ourselves, watching somebody else finance it, scale it, wrap it in proprietary infrastructure and then purchasing licences from them for the next forty years is **definitely not an industrial strategy**.  
 
 Before purchasing the magic beans:
 
@@ -345,7 +345,7 @@ If we have the cow, **price the cow**.
 
 If the cow needs investment, **feed the cow**.
 
-And if the principal advantage of the beans is that an American man has put them in a very attractive slide deck, perhaps obtain a second quotation.
+And if the principal advantage of the beans is that an American man has put them in a very attractive slide deck, perhaps obtain a second quotation.  
 
 ---
 
@@ -361,7 +361,7 @@ Someone has put seventeen years of unidentified cables in a biscuit tin.
 
 But do not mistake inconvenience for incapacity.
 
-Britain does not need to reproduce every layer of the contemporary American technology stack tomorrow morning in order to possess technological bargaining power.
+Britain does not need to reproduce every layer of the contemporary American technology stack tomorrow morning in order to possess technological bargaining power.  
 
 The relevant distinction is simpler:
 
@@ -381,11 +381,11 @@ They are not naturally occurring minerals available only beneath California and 
 
 Replacing established platforms would be expensive, disruptive and slow.
 
-That is precisely why interoperability, open standards, repairability, domestic skills and credible alternatives matter.
+That is precisely why interoperability, open standards, repairability, domestic skills and credible alternatives matter.  
 
 Vendor lock-in protects a market only while the cost of exit remains higher than the cost of staying.
 
-Every additional subscription, proprietary format, locked component, mandatory cloud migration, hardware replacement, behavioural measurement system and incompatible ecosystem raises the cost of staying.
+Every additional subscription, proprietary format, locked component, mandatory cloud migration, hardware replacement, behavioural measurement system and incompatible ecosystem raises the cost of staying.  
 
 Eventually you stop protecting your market and start **building the business case for your replacement**.
 
@@ -424,7 +424,7 @@ We are telling you that **you are making staying progressively less attractive**
 There is a difference.
 
 Britain does not particularly want to recreate every American technology platform domestically.  
-That would be expensive, duplicative and, in many cases, completely unnecessary.
+That would be expensive, duplicative and, in many cases, completely unnecessary.  
 
 We quite like buying your things.
 
@@ -441,7 +441,8 @@ And America: come now.
 You are not doing this relationship as an act of charity.
 
 Britain is a substantial technology market. British researchers, workers, institutions, users and organisations participate in scientific, commercial and security relationships from which both countries derive value.  
-British use of digital services also generates information, feedback and economic activity valuable to the firms providing them.
+
+British use of digital services also generates information, feedback and economic activity valuable to the firms providing them.  
 
 We are not going to pretend that none of that has value merely because putting an exact invoice against every information flow would be difficult.
 
