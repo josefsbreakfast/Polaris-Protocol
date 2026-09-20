@@ -527,8 +527,8 @@ It also asks what capabilities Britain must retain so that technological partner
 
 > 📡 Cross-references:
 >
-> - [🎩 Putting On Less Ritz](./README.md) — *parent cluster for transatlantic technology translation, product spectacle, reverse bids, and user-side requirements*
-> - [♻️🕸️ The Feedback Environment](../README.md) — *feedback systems, information environments, and the conditions under which technological propositions become legible or fail*
+> - [🐳 See: Our New Deterrence Capability!](./🐳_see_our_new_deterrence_capability.md) — *Behold! The Tony Blair Zoltar Machine!*  
+> - [🦊 Cousin, We Have Ideas...](./🦊_cousin_we_have_ideas.md) — *we always have thoughts*  
 >
 > 🏮 Return To:
 >
