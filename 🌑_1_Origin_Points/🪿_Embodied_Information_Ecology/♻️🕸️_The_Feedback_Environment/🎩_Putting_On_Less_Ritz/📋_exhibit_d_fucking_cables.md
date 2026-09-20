@@ -603,11 +603,11 @@ It uses charging cables, rechargeable batteries and connector transitions as a c
 
 > 📡 Cross-references:
 >
-> - [📋 Exhibit A: VLOOKUP](./📋_exhibit_a_vlookup.md) — *mundane software friction and the cost of making the user adapt to the tool*
-> - [📋 Exhibit B: Windows Fucking Vista](./📋_exhibit_b_windows_vista.md) — *installed human competence, interface churn, and the value of boring infrastructure*
-> - [📋 Exhibit C: iPhone Batteries](./📋_exhibit_c_iphone_batteries.md) — *repairability, replaceable consumables, local technical capacity and skills reproduction*
-> - [🇺🇸 Dear America](./🇺🇸_dear_america.md) — *reverse bid for useful, interoperable, repairable technology with considerably less admin*
-> - [🎩 Putting On Less Ritz](./README.md) — *parent cluster for transatlantic technology translation and user-side requirements*
+> - [📋 Exhibit A: VLOOKUP](./📋_exhibit_a_vlookup.md) — *the case for boring technology that actually saves labour*
+> - [📋 Exhibit B: Windows Vista](./📋_exhibit_b_windows_vista.md) — *when technological improvement becomes imposed migration*
+> - [📋 Exhibit C: iPhone Batteries](./📋_exhibit_c_iphone_batteries.md) — *ownership, repairability and beautifully sealed objects*  
+> - [📋 Exhibit E: Printer Ink](./📋_exhibit_e_printer_ink.md) — *the recurring temptation to turn ownership into an ongoing commercial relationship*
+> - [📋 Exhibit F: AI v UK Law](./📋_exhibit_f_ai_v_uk_law.md) — *what happens when the latest American technology proposition encounters another country's legal system*
 >
 > 🏮 Return To:
 >
