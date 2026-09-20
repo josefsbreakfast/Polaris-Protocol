@@ -60,3 +60,67 @@ partial separations:
 
 - - -  
 
+| Problem | Existing international home / precedent |
+|---|---|
+| Copyright, licensing, authorship | WIPO |
+| Patents / inventorship | WIPO |
+| Telecommunications / technical interoperability | ITU |
+| International technical AI standards | ITU + ISO/IEC ecosystem |
+| Human rights | Existing UN human-rights institutions |
+| Labour effects | ILO |
+| Education / science / AI ethics | UNESCO |
+| Food / agricultural AI applications | FAO / Codex system where relevant |
+| Health AI | WHO + national health regulators |
+| Nuclear applications | IAEA + national nuclear regulators |
+| Weapons / arms-control implications | Existing arms-control, disarmament and export-control machinery |
+| Trade implications | WTO architecture |
+| Core cross-border AI risks not adequately covered elsewhere | Dedicated international AI-governance mechanisms |
+
+| AI issue | Plausible international forum |
+|---|---|
+| General global AI governance | UN General Assembly / universal-participation mechanisms |
+| Scientific risk assessment | Independent international scientific machinery |
+| International AI standards | ISO/IEC, ITU and other specialist standards bodies |
+| Copyright / patents / licensing | WIPO |
+| Labour | ILO |
+| Health | WHO |
+| Food / agriculture | FAO / Codex |
+| Nuclear applications | IAEA |
+| Trade | WTO |
+| Military AI / threats to international peace | UN Security Council + arms-control/disarmament processes |
+| Export controls | National controls + plurilateral coordination regimes |
+| New genuinely AI-specific cross-border risks | Dedicated multilateral AI mechanism where existing institutions are insufficient |
+
+| Residual problem | Why existing regimes don't fully cover it | What an international AI layer might actually need to do |
+|---|---|---|
+| 🧠 Frontier capability assessment | No existing treaty system continuously assesses general-purpose AI capabilities across borders | Shared scientific assessment of capabilities, uncertainties and emerging risks |
+| 🧪 Common safety evaluation | Product/sector regulators can test particular uses, but there is no universal method for evaluating powerful general-purpose models before they spread across sectors | Agree common evaluation categories, testing terminology, benchmarks and evidence standards |
+| 🚨 Serious AI incident reporting | Aviation, nuclear, health etc. have their own incident systems; general-purpose AI can cause or enable incidents spanning several sectors and jurisdictions | Create a common mechanism for reporting and sharing information about defined serious AI incidents |
+| 🔭 Horizon scanning | Existing regulators generally observe their own domains; rapidly changing general-purpose capabilities can create risks before anybody clearly owns the problem | Maintain continuous international scientific monitoring of emerging capabilities and risks |
+| 🌍 Cross-border model propagation | A model developed in one jurisdiction can be made available globally without the physical border controls associated with ordinary goods | Establish interoperable rules for defined classes of exceptionally capable/high-risk models |
+| 🧮 Frontier compute visibility | Export controls govern some chips and transfers, but there is no general international picture of exceptionally large AI training activity | Potentially establish narrowly defined reporting/accounting mechanisms for very large training runs or compute concentrations |
+| 🧬 General-purpose capability → specialised hazard | A general model can acquire useful capabilities in cyber, biological, chemical or other domains before becoming part of a regulated sector | Establish a routing/escalation mechanism: identify the capability, then hand the specialised risk to the competent cyber/bio/chemical/etc. regime |
+| 🤖 Autonomous agent behaviour | Existing law regulates people, firms and sectoral products reasonably well; highly autonomous systems acting across digital systems create novel attribution, supervision and control questions | Establish minimum expectations around human/legal responsibility, traceability, controllability and agent identification |
+| 🔗 Model/system provenance | Existing IP, consumer, cyber and data rules cover pieces of provenance, but not necessarily a common technical chain identifying models, major modifications and responsible operators | Develop interoperable identification and provenance standards |
+| 🧯 Emergency coordination | There is no AI equivalent of established international machinery for rapidly sharing information when a genuinely transnational technical hazard appears | Establish contact points, emergency information-sharing and coordinated technical response procedures |
+| 📏 Regulatory interoperability | National AI regimes can develop incompatible definitions of models, risk thresholds, testing and documentation | Maintain a common vocabulary and mechanisms for recognising equivalent national compliance systems |
+| 🕵️ Verification of narrow international commitments | If states eventually agree limits concerning particular extreme capabilities or activities, ordinary AI governance currently lacks an inspection/verification architecture | Develop verification mechanisms only for whatever narrow commitments states actually negotiate |
+| 🧭 Governance of genuinely novel risks | Future capabilities may produce problems which cannot sensibly be assigned to WIPO, WHO, IAEA, WTO, ITU, arms-control regimes or another specialist body | Act as the residual routing forum rather than automatically claiming jurisdiction over the whole AI ecosystem |
+
+```
+                    INTERNATIONAL AI LAYER
+                             │
+              ┌──────────────┼──────────────┐
+              │              │              │
+        OBSERVE/ASSESS    COORDINATE      ROUTE
+              │              │              │
+       scientific panel   definitions,    identify which
+       horizon scanning   incident info,   existing regime
+       capability watch   interoperability owns the problem
+                                             │
+          ┌──────────────────────────────────┼──────────────┐
+          ↓                 ↓                ↓              ↓
+        WIPO              WHO/FAO          IAEA        WTO / ITU
+       IP etc.          health/food       nuclear      trade/telecoms
+
+```
