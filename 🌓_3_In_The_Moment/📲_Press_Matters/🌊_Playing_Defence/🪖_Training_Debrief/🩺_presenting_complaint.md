@@ -1,198 +1,671 @@
 # 🩺 Presenting Complaint  
-**First created:** 2026-09-07 | **Last updated:** 2026-09-14  
-*The immediate Army collective-training dispute: what is reported, what remains uncertain, and why a small saving raises a larger readiness question.*  
+**First created:** 2026-09-07 | **Last updated:** 2026-09-20  
+*The immediate Army collective-training dispute: what happened, what Defence has said, what remains strangely difficult to establish, and why a relatively small saving raises a much larger readiness question.*  
 
 ---
 
 ## 🩺 Presenting Complaint
 
-In September 2026, reporting indicated that the British Army was seeking approximately **£30 million in in-year savings**, with major collective-training activity involving UK-based units among the expenditure being curtailed.  
+In September 2026, reporting indicated that the British Army was seeking approximately **£30 million in in-year savings**, with significant collective-training activity involving UK-based units among the expenditure being curtailed.  
 
-*The Times* reported restrictions affecting major exercises involving more than approximately 90 personnel, while units preparing for deployment, held at readiness or performing rapid-response functions would continue training. The Royal Navy and Royal Air Force were also reported to be making reductions, but on a smaller or differently structured basis.  
+*The Times* reported restrictions affecting major exercises involving more than approximately 90 personnel, including activity involving Challenger 2 tanks and Apache helicopters. Units preparing for deployment or performing quick-response functions were reported to be protected. The Royal Navy and Royal Air Force were also reported to be making reductions, although on a smaller or differently structured basis.  
 
 - [The Times: “British Army ordered to suspend major war games to save money”](https://www.thetimes.com/uk/defence/article/british-army-training-suspended-money-d7tzxljrl)
 
-The Army's public response has presented the change somewhat differently.
+The immediate public argument can easily become confused because several different propositions are being collapsed into one.
 
-An Army spokesperson told Forces News that training was continuing while activity was being prioritised toward:
+The British Army has **not stopped training**.
 
-> readiness, deployability and operational effectiveness.
+The Army is simultaneously:
 
-The Army also pointed to a **£2 billion, 15-year programme to transform training**, including greater use of AI, analytics and virtual environments. Forces News separately reported increased emphasis on counter-drone warfare and lessons derived from Ukraine.  
+- continuing training;
+- protecting activity connected directly to operational commitments and readiness;
+- modernising its collective-training system;
+- increasing its use of simulation, analytics and virtual environments;
+- experimenting with drones and lessons derived from contemporary warfare;
+- and, according to the reporting and subsequent parliamentary record, curtailing at least some collective-training activity under wider Defence direction.
 
-That programme can be established independently of the immediate reporting. On 10 July 2026, the Ministry of Defence announced a **15-year, £2 billion Army Collective Training Service contract** as part of the Army's Collective Training Transformation Programme. The MOD said the new system would use AI, advanced analytics and virtual environments, with an ambition to train up to 60,000 soldiers a year.
+All of those things can be true at the same time.
 
-- [Forces News: “Army shifts training focus in order to concentrate on counter-drone warfare”](https://www.forcesnews.com/services/army/army-shifts-training-focus-order-concentrate-counter-drone-warfare)
-- [GOV.UK: “AI battle lab to prepare British Army for modern warfare”](https://www.gov.uk/government/news/ai-battle-lab-to-prepare-british-army-for-modern-warfare)
-
-These accounts are not necessarily mutually exclusive.
-
-An organisation can simultaneously:
-
-- continue training;
-- modernise training;
-- protect its highest-readiness formations;
-- expand synthetic or technology-assisted training;
-- and reduce other collective activity because of financial pressure.
-
-The immediate question is therefore not:
+The useful question is therefore not:
 
 > **Has the British Army stopped training?**
 
 It plainly has not.
 
-The more useful question is:
+The useful question is:
 
-> **What training has stopped, what capability did that activity generate, what is replacing it, and what operational risk has been accepted by removing it?**
+> **What training has stopped, what capability did that activity generate, what is replacing it, when will it be recovered, and what operational risk has been accepted by removing or delaying it?**
+
+That remains the presenting complaint.
 
 ---
 
-## 🪖 This Is Not Only About The £30 Million Story  
+## 🪖 This Is Not Only About The £30 Million Story
 
 Thirty million pounds is simultaneously:
 
-- a meaningful amount of money for a specific training programme;
-- a very small amount of money within the overall Defence settlement;
-- and not necessarily equivalent to the value of the capability being removed.
+- a meaningful amount of money for particular training activities;
+- a small amount of money within the overall Defence settlement;
+- and not necessarily equivalent to the value of the capability affected.
 
-The price of an activity and the value of that activity are different things.
+The price of an activity and the value of an activity are different things.
 
-The scale matters. The MOD's July 2026 announcement placed the new training contract inside a **£298 billion Defence Investment Plan over four years**. £30 million is therefore small in aggregate Defence terms. That does not tell us whether it is small within the relevant Army budget, nor whether the money could lawfully or practically have been moved from another programme.
+The MOD announced in July 2026 that its new Army Collective Training Service would form part of a **15-year programme worth approximately £2 billion**, using AI, advanced analytics and virtual environments, with an ambition to train up to 60,000 soldiers annually. The announcement placed this within a wider £298 billion Defence Investment Plan over four years.
 
-A collective exercise may purchase:
+- [GOV.UK: “AI battle lab to prepare British Army for modern warfare”](https://www.gov.uk/government/news/ai-battle-lab-to-prepare-british-army-for-modern-warfare)
 
-- command practice;
-- team cohesion;
-- communications practice;
-- logistics rehearsal;
-- equipment integration;
-- familiarity between units;
-- identification of failure points;
-- adaptation to changing doctrine;
-- mistakes discovered safely in training rather than operationally;
-- trust built through repeated shared activity.
+Against numbers of that scale, £30 million appears small.
 
-Many of these outputs have no simple market price.
+That observation has limits.
 
-The list above is partly a research programme rather than a closed finding. British military material already establishes that collective training progresses through sections, platoons, companies, battlegroups and brigades; that combined-arms training integrates different arms and services; and that, because combat skills fade, training needs to be **progressive and frequent**. The remaining outputs — including cohesion, trust, error discovery and the operational value of repeated shared practice — should be evidenced separately through the cluster's research layer.
+Defence money is not one enormous interchangeable pot. Programmes can sit inside different budgets, contractual arrangements, accounting categories and political commitments. A pound committed to a fifteen-year contract cannot necessarily be moved tomorrow to pay for an exercise.
 
-- [GOV.UK / MOD: *Environmental Appraisal of the Need for Military Training*](https://assets.publishing.service.gov.uk/media/5a7901f640f0b676f4a7d22f/ea_need_for_militarytraining_august_2007.pdf)
+The relevant question is therefore not simply:
 
-A tank has a price.
+> **Why didn't Defence find £30 million somewhere else?**
 
-A drone has a price.
+It is:
 
-A contract has a price.
+> **What created the in-year requirement, what alternatives were available within the relevant financial architecture, why was collective training selected, and what capability consequence followed?**
 
-An exercise has a price.
-
-**The casualty that never happens because a unit rehearsed the situation properly has no invoice.**
-
-The central measurement problem is therefore that prevention and preparedness frequently produce **absent events**.
-
-Absent events are difficult to count.
+Those questions remain substantially unanswered in public.
 
 ---
 
-## 🧠 Individual Competence Is Not Collective Competence  
+## 🧠 Training Is Not An Activity For Its Own Sake
 
-An Army is not simply a collection of individually trained people carrying functioning equipment.
+A collective exercise does not matter because soldiers enjoy going on exercises.
 
-Military activity requires people to operate as:
+It matters if it creates, tests or maintains something which the Army needs.
 
-- teams;
-- sections;
-- platoons;
-- companies;
-- battlegroups;
-- brigades;
-- headquarters;
-- logistics systems;
-- supporting arms;
-- joint and allied formations.
+Collective training can bring together:
 
-This is not simply an intuitive distinction. MOD material on military training describes collective training as progressive: lower-level activity builds toward unit, battlegroup and formation training, with combined-arms activity bringing combat arms, combat support and combat-service-support elements together. It states explicitly that combat skills fade and that training therefore needs to be progressive and frequent.
+- command;
+- communications;
+- manoeuvre;
+- logistics;
+- engineering;
+- intelligence;
+- fires;
+- medical support;
+- equipment;
+- maintenance;
+- combined-arms activity;
+- decision-making;
+- failure recovery;
+- physical endurance;
+- teamwork;
+- trust.
 
-Collective competence therefore contains knowledge which is:
+Some of the knowledge created through that process is procedural.
 
-- procedural;
-- relational;
-- embodied;
-- contextual;
-- partially tacit.
+Some is explicit.
 
-Personnel need repeated opportunities to discover:
+Some can be written down.
+
+Some is relational, embodied and tacit.
+
+Personnel learn:
 
 - how other people move;
-- how commanders behave;
-- how communication fails;
+- how commanders behave under pressure;
+- where communication breaks;
 - how equipment interacts;
-- how plans break down;
-- how rapidly mistakes propagate;
-- what another person is likely to do without requiring lengthy explanation.
+- how quickly apparently small failures propagate;
+- what support actually arrives when requested;
+- how long things really take;
+- what another person or unit is likely to do without requiring lengthy explanation.
 
-Simulation, AI, and virtual training may materially improve this process.
+This is why:
 
-They can create repetitions, expose personnel to varied scenarios, improve decision training and reduce some costs.
+> **equipment is not capability merely because Defence owns it.**
 
-The relevant question is not whether modern training technology is useful.
+And:
 
-It plainly can be.
+> **personnel are not collectively competent merely because they are individually qualified.**
 
-The 2025 Strategic Defence Review itself adopts an augmentation model. It says advanced simulation can make training more effective and efficient, while also stating that live firing over long distances remains essential to assuring the Army's fighting capability. The Review further says that:
+Capability emerges from the system working together.
+
+Training is one of the mechanisms which creates and tests that system.
+
+---
+
+## 🤖 Modernisation Is Real
+
+The existence of financial pressure should not be used to erase evidence of genuine training reform.
+
+The 2025 Strategic Defence Review explicitly called for training to become more adaptive to operational lessons and technological change. It supported greater use of virtual environments and advanced simulation while also stating that live firing remains essential to assuring Army fighting capability.
+
+Most importantly, it said:
 
 > **Training must be a strategic and institutional priority to restore the Army's readiness to fight at all levels.**
 
-That matters because it prevents a false choice between being "for" modernised training and being "for" live or collective training. Government policy already assumes that both have functions.
+The Review therefore does not construct a choice between:
 
-The question is therefore whether technology is being used to augment collective competence, or financially substitute for activities whose important functions it cannot reproduce.
+```text
+OLD TRAINING
+     versus
+SHINY COMPUTER
+```
+
+It envisages an augmentation model.
+
+Simulation can provide:
+
+- repetitions;
+- scenario variation;
+- experimentation;
+- decision training;
+- mission rehearsal;
+- NATO integration;
+- opportunities which would be expensive, dangerous or impractical to reproduce repeatedly in the physical world.
+
+Live and collective training provide other forms of friction.
+
+The policy question is therefore not whether AI, simulation or virtual environments are good.
+
+They plainly can be.
+
+It is:
+
+> **Is technology augmenting collective competence, or is it being treated as a financial substitute for activities whose important functions it cannot reproduce?**
 
 That requires evidence rather than assumption.
 
----
-
-## 📚 This Complaint Has A Long History  
-
-The current decision does not arrive in an institution with no memory of training failure.
-
-The British Armed Forces have spent the period since the end of the Cold War repeatedly adapting to different strategic environments:
-
-- post-Cold-War force reductions;
-- the Balkans;
-- expeditionary warfare;
-- 9/11;
-- Afghanistan;
-- Iraq;
-- counter-insurgency;
-- austerity;
-- Army 2020;
-- renewed Russian aggression;
-- the full-scale invasion of Ukraine;
-- the return of NATO-first planning;
-- renewed emphasis on high-intensity and potentially prolonged warfare.
-
-The 2025 Strategic Defence Review explicitly places **warfighting readiness** at the centre of British defence planning. It says training must be a strategic and institutional priority, identifies NATO's exercise programme as a basis for UK training and education, and argues for virtual environments to supplement live activity while retaining live firing as essential to fighting capability.
-
 - [GOV.UK: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad)
 
-The immediate training dispute should therefore be considered against the longer history of what Britain has repeatedly learned about:
+---
 
-- preparing people for war;
-- generating usable formations;
-- retaining lessons;
-- balancing technology and people;
-- responding to fiscal pressure;
-- translating operational evidence into strategic decisions.
+## 🛸 And Then There Were Drone Wars
 
-That history is examined separately in:
+There is now another useful piece of the picture.
 
-[📋 History of Presenting Complaint](./📋_history_of_presenting_complaint.md)  
+In September 2026, the Army ran **Drone Wars**, organised by 16 Air Assault Brigade.
+
+Reporting described teams undertaking drone-centred missions incorporating lessons from contemporary warfare, particularly Ukraine. Tasks tested more than the ability to fly an object around.
+
+They involved combinations of:
+
+- reconnaissance;
+- FPV attack;
+- target identification;
+- concealment;
+- deception;
+- thermal signatures;
+- operating under time pressure;
+- movement through terrain;
+- tactical judgement;
+- teamwork.
+
+Twenty-four four-person teams were reported by *The Times* as taking part in six missions, with a combined Ranger Regiment team winning the competition.
+
+- [The Times: “‘Drone Wars’ seek to uncover the best fighters of the future”](https://www.thetimes.com/world/russia-ukraine-war/article/drone-wars-army-crqfl9g2v)
+
+This is encouraging evidence of adaptation.
+
+It is also **not an answer to the presenting complaint**.
+
+Finding soldiers who are particularly good at solving emerging drone problems is useful.
+
+Turning that knowledge into:
+
+- instructors;
+- revised training;
+- doctrine;
+- procurement;
+- maintenance;
+- communications;
+- electronic warfare;
+- counter-UAS capability;
+- combined-arms practice;
+- unit competence;
+- formation competence;
+
+is the next problem.
+
+Modernisation does not necessarily reduce the training requirement.
+
+It may increase its complexity.
+
+The relevant progression is:
+
+```text
+new technology
+      ↓
+individual technical proficiency
+      ↓
+tactical proficiency
+      ↓
+team competence
+      ↓
+unit integration
+      ↓
+formation-level collective competence
+```
+
+Possession is not integration.
+
+Experimentation is not institutionalisation.
+
+And:
+
+> **finding the good drone lads does not, by itself, train the fucking Army.**
 
 ---
 
-## 💷 Flexible Does Not Mean Expendable  
+## 📬 Parliament Asked
 
-One possible structural problem requires investigation.
+The public evidence became slightly clearer after the original version of this node was written.
+
+On **4 September 2026**, Conservative MP Ben Obese-Jecty asked the Secretary of State for Defence:
+
+> **“what the scope is of the directive to stop collective training.”**
+
+The question was answered on 9 September by Parliamentary Under-Secretary of State and Minister for the Armed Forces **Louise Sandher-Jones**.
+
+The answer said that Defence keeps spending under review, issues direction as required, and prioritises training according to operational effect while protecting essential readiness, operational commitments, safety-critical activity and NATO commitments.
+
+It did **not define the scope of the directive**.
+
+- [UK Parliament: Written Question 27303 — Army: Training](https://questions-statements.parliament.uk/written-questions/detail/2026-09-04/27303)
+
+A related parliamentary question asked why the Royal Tank Regiment's live-firing exercise scheduled for the week beginning 7 September had been cancelled.
+
+The MOD's answer connected that cancellation to the wider Defence direction on training priorities. The parliamentary record therefore moves at least one part of the original reporting beyond anonymous reporting alone: a specific collective-training cancellation was acknowledged by the Department in the context of wider direction.
+
+That was useful.
+
+It still did not tell Parliament what the full direction actually was.
+
+---
+
+## ❓ Parliament Asked Again
+
+On **10 September**, Obese-Jecty made the question considerably more specific:
+
+> **whether the Secretary of State had made a decision to stop collective training above sub-unit level on 3 September 2026.**
+
+That is a materially different question.
+
+It asks:
+
+- whether there was such a decision;
+- whether it applied above sub-unit level;
+- whether it occurred on 3 September;
+- and whether the Secretary of State personally made it.
+
+The answer, published on **15 September**, was:
+
+> **“I refer the hon. Member to the answer given to Question 27303 on 9 September 2026.”**
+
+But Question 27303 had not resolved those propositions.
+
+- [UK Parliament: Written Question 28895 — Armed Forces: Training](https://questions-statements.parliament.uk/written-questions/detail/2026-09-10/28895)
+
+This leaves us in a peculiar evidential position.
+
+Parliamentary scrutiny has established more than was known from the original reporting.
+
+But it has not yet established:
+
+- the complete scope of the direction;
+- whether the reported **above sub-unit level** formulation accurately describes it;
+- whether the Secretary of State personally made the decision described in the question;
+- when the underlying affordability problem first arose;
+- who selected the affected training;
+- what alternatives were considered;
+- who assessed the capability consequence;
+- who accepted any residual readiness risk.
+
+The question became more precise.
+
+The public answer did not.
+
+---
+
+## 📨 Who Actually Wrote The Answer?
+
+There is another distinction worth preserving.
+
+A parliamentary question addressed to the Secretary of State does not necessarily mean that the Secretary of State personally drafted, researched or substantively determined every word of the published answer.
+
+Departmental answers can pass through officials, private offices, ministerial portfolios and clearance processes.
+
+From the published record alone, this node cannot establish:
+
+- who drafted these answers;
+- what legal or policy advice informed their wording;
+- what information was available to the drafter;
+- what level of substantive checking occurred;
+- whether the referral answer resulted from deliberate withholding, ordinary departmental practice, an error, workload, portfolio allocation or some other explanation.
+
+The wording is notably bounded.
+
+That observation is not evidence of its provenance.
+
+The safe conclusion is narrower:
+
+> **Parliament asked the Department a specific question about the scope and provenance of a potentially consequential training decision, and the published departmental answer did not resolve it.**
+
+Errors happen.
+
+Departments receive large numbers of parliamentary questions.
+
+Some information legitimately cannot be published.
+
+But this is also not a trivial question.
+
+Military readiness is one of those areas where the effect of preventative expenditure can be difficult to quantify precisely while the eventual consequence of getting it wrong can involve injury and death.
+
+That raises the standard of care required in explaining what can safely be explained.
+
+---
+
+## 🔄 The Ministerial Handover Problem
+
+The chronology is additionally complicated because this happened during a period of significant political and ministerial change.
+
+The £2 billion Army Collective Training Service announcement was made on **10 July 2026**, when **Dan Jarvis** was Defence Secretary.
+
+On **20 July 2026**, **Wes Streeting** was appointed Secretary of State for Defence. GOV.UK describes the Secretary of State as having overall responsibility for the Department, including the Defence budget, strategy, planning and resource allocation.
+
+- [GOV.UK: Secretary of State for Defence](https://www.gov.uk/government/ministers/secretary-of-state-for-defence)
+
+The reported collective-training intervention became public in early September.
+
+That does **not** establish that the change of Defence Secretary caused the decision.
+
+It does **not** establish that either Defence Secretary personally selected collective training for reduction.
+
+It does **not** establish deliberate ambiguity.
+
+But it makes chronology unusually important.
+
+The person who:
+
+- inherited a financial problem;
+- developed options;
+- received advice;
+- approved a direction;
+- implemented a decision;
+- inherited the consequences;
+- reviewed the continuing decision;
+- and eventually answered Parliament;
+
+need not be the same person.
+
+This produces a governance question which matters beyond this episode:
+
+> **Can the public decision chain remain legible when ministers change?**
+
+A functioning handover should preserve:
+
+```text
+problem identified
+      ↓
+options developed
+      ↓
+advice given
+      ↓
+decision / authority
+      ↓
+risk accepted
+      ↓
+implementation
+      ↓
+handover
+      ↓
+review / continuation / reversal
+```
+
+Ministerial turnover should not create a temporary accountability gap.
+
+If this episode merely *appears* difficult to reconstruct because several stages crossed political and departmental transitions, that is itself worth investigating.
+
+A new minister does not necessarily become the author of an inherited decision.
+
+But once in office, responsibility also cannot remain permanently attached to somebody who has left.
+
+There must be a legible point at which responsibility for:
+
+> **making the decision**
+
+becomes distinguishable from responsibility for:
+
+> **continuing, reviewing, mitigating or reversing it.**
+
+At present, the public record does not allow that chain to be reconstructed confidently.
+
+---
+
+## 🎖️ The Minister Who Answered
+
+There is a further complication.
+
+The parliamentary answers discussed above were given by **Louise Sandher-Jones**, Minister for the Armed Forces.
+
+This is not an irrelevant ministerial allocation.
+
+Her current responsibilities include operations and commitments, force posture and deployment, NATO operations and planning, intelligence, and implementation of the Uncrewed Systems Centre and Uncrewed Systems Force.
+
+She also possesses unusually directly relevant professional experience.
+
+Before entering Parliament, Sandher-Jones served in the British Army's **Intelligence Corps**, deployed to Afghanistan, and subsequently worked in intelligence and product development. She became Minister for Veterans and People in September 2025 and Minister for the Armed Forces in June 2026.
+
+- [GOV.UK: Louise Sandher-Jones MP](https://www.gov.uk/government/people/louise-sandher-jones)
+
+That makes it particularly important not to confuse:
+
+> **the minister answering for the Department**
+
+with:
+
+> **the person who made the underlying decision.**
+
+The public record currently establishes the former.
+
+It does not establish the latter.
+
+There may be a completely ordinary explanation for why the Armed Forces minister answered these questions: they concern the Armed Forces and fall within her portfolio.
+
+But there is still an institutional cost when a minister with substantial directly relevant professional experience is required to attach her name and credibility to an answer which does not resolve the question Parliament actually asked.
+
+Expert credibility is an institutional asset.
+
+So is trust.
+
+Both can be spent.
+
+---
+
+## 🌸 There Is Also A Political Optics Problem
+
+This point requires particular care.
+
+It is **not evidence about how the training decision was made**.
+
+It is evidence about the environment in which the Government is communicating it.
+
+Earlier in 2026, Labour had already faced criticism from women within the party about a perceived **“boys' club” culture** and disproportionate negative briefing against female ministers. Prime Minister Andy Burnham subsequently told Labour women that he wanted that culture changed and said staff found briefing against women in his team would be removed.
+
+- [The Guardian: “Andy Burnham says he will end culture of briefing against female ministers”](https://www.theguardian.com/politics/2026/jun/30/andy-burnham-end-culture-briefing-against-female-ministers)
+
+Against that background, the presentation here is at least worth noticing.
+
+A controversial and substantially unresolved answer concerning Army collective training appears under the name of a female Armed Forces minister with direct military and intelligence experience.
+
+Ultimate departmental responsibility nevertheless sits with the Secretary of State.
+
+That does **not** establish that Sandher-Jones was deliberately put in front of an unpopular decision.
+
+It does **not** establish that gender influenced who answered.
+
+It does **not** establish that Labour treats male and female ministers differently in comparable circumstances.
+
+Those would require comparative evidence.
+
+But institutions attempting to repair an existing perception problem should be capable of noticing how their allocation of visible responsibility looks from outside them.
+
+There is therefore a legitimate later research question:
+
+> **When government departments announce attractive policies and defend difficult consequences, who is placed in front of each?**
+
+That can be tested.
+
+Positive announcements.
+
+Adverse decisions.
+
+Media rounds.
+
+Commons statements.
+
+Written parliamentary answers.
+
+Senior ministers.
+
+Junior ministers.
+
+Men.
+
+Women.
+
+Decision-makers.
+
+Portfolio holders.
+
+No inference is necessary before collecting the data.
+
+---
+
+## 🩸 The Problem Of Measuring Prevention
+
+There is a deeper reason why the unanswered capability question matters.
+
+Military training has a difficult economic characteristic:
+
+> **success can look like nothing happening.**
+
+An exercise may prevent a future failure.
+
+A rehearsal may expose a weakness before operations.
+
+A training intervention may change behaviour sufficiently that an injury does not occur.
+
+The casualty who never happens does not arrive with an invoice attached saying:
+
+> **SAVED BY COLLECTIVE TRAINING: £4.7 MILLION**
+
+That makes preventative capability difficult to express in the language of immediate financial savings.
+
+Difficult does not mean impossible to study.
+
+Defence already possesses historical examples of learning systems in which operational problems were:
+
+```text
+observed
+   ↓
+recorded
+   ↓
+analysed
+   ↓
+converted into intervention
+   ↓
+trained
+   ↓
+tested
+   ↓
+observed again
+```
+
+British military trauma care during Iraq and Afghanistan is an especially useful example.
+
+The conflicts produced unfamiliar patterns and scales of injury, including major challenges associated with improvised explosive devices.
+
+Across Defence and allied medical systems, improvements accumulated through multiple parts of the casualty pathway:
+
+- battlefield first aid;
+- catastrophic-haemorrhage control;
+- equipment;
+- clinical practice;
+- evacuation;
+- team composition;
+- pre-deployment preparation;
+- collective clinical training;
+- organisational learning.
+
+The important methodological lesson is not that one training intervention can easily be assigned a precise number of lives saved.
+
+It often cannot.
+
+Many variables changed simultaneously.
+
+The lesson is:
+
+> **Defence can study longitudinal operational evidence, identify trainable problems, intervene, test performance and continue refining the system.**
+
+That is a much more useful model for thinking about the value of training than asking whether an exercise produces an immediately monetisable output.
+
+---
+
+## 🧮 A Very Good Machine-Learning Problem, Actually
+
+Modern analytical methods make this historical evidence even more interesting.
+
+Defence is likely to possess substantially richer operational and training data internally than appears in published papers.
+
+A useful analytical programme could ask:
+
+> **Across longitudinal operational and training records, which interventions are consistently associated with improved performance after accounting, as far as the evidence permits, for other changes occurring simultaneously?**
+
+That is not a magic causal machine.
+
+Confounding would be considerable.
+
+Changes in:
+
+- equipment;
+- doctrine;
+- threat;
+- force protection;
+- medical evacuation;
+- personnel;
+- operational tempo;
+- intelligence;
+- technology;
+
+can occur at the same time as training interventions.
+
+But imperfect attribution is not the same thing as no useful evidence.
+
+The purpose would be to identify:
+
+- repeated associations;
+- plausible mechanisms;
+- interventions followed by measurable improvement;
+- skills which decay when practice falls;
+- interventions which appear to add little;
+- combinations which work better together;
+- areas requiring better data.
+
+This is precisely the kind of problem for which modern statistical and machine-learning techniques may help humans interrogate a very large historical record.
+
+The Army does not need an algorithm to tell it:
+
+> **WAR GOOD / WAR BAD.**
+
+It needs better tools for questions such as:
+
+> **Which things did we repeatedly train, change or practise before performance improved — and what else changed at the same time?**
+
+That is considerably more useful.
+
+---
+
+## 💷 Flexible Does Not Mean Expendable
+
+One structural hypothesis therefore remains important.
 
 Large Defence programmes may be:
 
@@ -215,290 +688,251 @@ Exercises can be:
 
 That makes training potentially attractive when an organisation needs immediate in-year savings.
 
-This remains a **structural hypothesis**, not an established explanation for the September 2026 decision. It requires examination of the Army's delegated budget, relevant spending categories, contractual commitments, in-year financial controls and the alternatives actually considered by Army Command, MOD and ministers.
+But:
 
-But this creates an important distinction:
+> **financial flexibility is not evidence of low strategic value.**
+
+This remains a hypothesis about the September decision, not an established explanation for it.
+
+The question is:
 
 > **Was collective training reduced because it was the least strategically valuable expenditure available, or because it was one of the easiest expenditures to stop?**
 
-Those are different explanations.
+If the latter occurs systematically, financial flexibility can become:
 
-The latter would indicate a potentially important budgeting pathology:
+> **capability vulnerability.**
 
-> **financial flexibility becoming capability vulnerability.**
+The present evidence does not establish that this happened here.
 
-The present evidence does not yet establish that this is what happened.
-
-It establishes that the question deserves investigation.
+It establishes that the question remains unanswered.
 
 ---
 
-## ⚠️ What Is Currently Established  
+## ⚠️ What Is Currently Established
 
-Public reporting presently supports a relatively narrow set of propositions.
+As of **20 September 2026**, the public evidence supports a relatively bounded set of propositions.
 
-There has been significant financial pressure on Army training.
+### Established
 
-Some collective activity is being reduced or reprioritised.
+- Reporting identified approximately **£30 million** of Army savings associated with reductions to significant collective-training activity.
+- Defence says training continues and that activity is being prioritised according to operational effect, with essential readiness, operational commitments, safety-critical activity and NATO commitments protected.
+- A Royal Tank Regiment live-firing exercise scheduled for September was cancelled, with the MOD connecting that cancellation to wider Defence direction concerning training priorities.
+- Parliament has directly asked about the scope of the collective-training directive.
+- Parliament has separately asked whether the Secretary of State personally decided on 3 September to stop collective training above sub-unit level.
+- The latter question was answered by referring back to the earlier, less specific answer.
+- The Army is simultaneously undertaking substantial collective-training modernisation through ACTS.
+- The Army is visibly experimenting with drone warfare and operational lessons derived from contemporary conflict.
+- The Strategic Defence Review treats simulation and live training as complementary components of readiness rather than assuming one automatically replaces the other.
 
-Training connected directly to deployment, readiness and rapid-response requirements is being protected.
+### Not yet established
 
-The Army is simultaneously changing training in response to lessons from Ukraine and investing substantially in synthetic, AI-assisted and modernised training.
+The public record still does not clearly establish:
 
-There is visible concern within the wider Defence ecosystem that reducing collective activity may have readiness consequences.
+- the exact final value of the savings requirement;
+- when that requirement first arose;
+- who originated it;
+- its complete scope;
+- whether **above sub-unit level** accurately describes the restriction;
+- whether the Secretary of State personally made the 3 September decision described in the parliamentary question;
+- which exercises were cancelled;
+- which were postponed;
+- which were reduced;
+- which were redesigned;
+- what training function each affected activity generated;
+- what replacement or mitigation exists;
+- whether synthetic activity provides equivalent capability in each affected case;
+- what alternatives were considered;
+- what role Treasury played, if any;
+- what readiness assessment was undertaken;
+- when lost activity will be recovered;
+- who accepted any residual operational risk.
 
-That concern predates the September 2026 dispute. In its 2024 *Ready for War?* report, the House of Commons Defence Committee concluded that overstretch had negatively affected high-intensity warfighting readiness and argued that large exercises help the UK understand readiness and practise operating with NATO allies. It warned against depriving the Armed Forces of the time, resources and training needed for high-intensity prolonged war.
+That distinction is essential.
 
-- [UK Parliament: “Call for focus on High-Intensity Warfighting to Increase Deterrence”](https://committees.parliament.uk/committee/24/defence-committee/news/199770/)
+Absence of a public answer is not proof that Defence lacks an internal answer.
 
-What the current public record does **not yet establish clearly** is the complete decision chain.
-
----
-
-## 🔬 What Remains Unknown  
-
-At presentation, important questions remain unresolved:
-
-- When was the financial problem first identified?
-- Why was approximately £30 million required?
-- Who first identified collective training as an available saving?
-- Which activities are actually being cancelled, delayed or redesigned?
-- Reporting indicates restrictions extending across much of the remaining financial year; what is the formal duration, what review points apply, and under what conditions would normal collective activity resume?
-- What alternatives were considered?
-- Was additional funding requested?
-- What did Army Command recommend?
-- What readiness assessment accompanied the decision?
-- Why were the Army, Royal Navy and RAF affected differently?
-- What role does the training-modernisation programme play in mitigation?
-- Which spending programmes were considered less flexible?
-- At what level was the resulting operational risk formally accepted?
-- When were ministers informed?
-- What did the Treasury know?
-- What did the Prime Minister know?
-
-These are investigation questions.
-
-They should not be answered by political instinct.
+But neither should the existence of an internal process simply be assumed when Parliament has asked a specific question and the published response has not resolved it.
 
 ---
 
-## 🧠 Resist Doorway Diagnosis  
+## 🧭 The Presenting Complaint, Restated
 
-Several explanations remain possible.
+The September dispute is therefore no longer simply:
 
-The decision may represent:
+> **Newspaper says Army cut training.**
 
-- a rational temporary prioritisation;
-- an Army-specific affordability problem;
-- an in-year Treasury/MOD constraint;
-- a broader Defence settlement problem;
-- a deliberate shift toward different training methods;
-- pressure created by other strategically important commitments;
-- accumulated personnel, estate or equipment constraints;
-- an accounting structure which makes training unusually vulnerable;
-- or some combination of these.
+There is now enough public evidence to describe something more interesting.
 
-The purpose of this cluster is not to decide in advance that:
+The Army is undergoing genuine technological and training transformation.
 
-- Treasury caused everything;
-- ministers knowingly damaged readiness;
-- Army Command made the wrong choice;
-- procurement caused the cut;
-- synthetic training is inherently inferior;
-- the £30 million could simply have been transferred from another programme.
+It is experimenting.
 
-Those propositions require evidence.
+It is adapting to drones.
 
----
+It is investing heavily in simulation and collective-training reform.
 
-## 🩸 Why The Threshold For Evidence Should Nevertheless Be High
+It is operating inside a strategic framework which explicitly says training must restore readiness at every level.
 
-The burden of poor preparation is not distributed evenly through the Defence system.
+And at the same time:
 
-The causal relationship between particular training reductions and operational harm must not be assumed. It should be tested through doctrine, service inquiries, operational lessons, safety investigations and evidence from personnel. The reason to test it rigorously is that the potential consequences are physical as well as financial.
+- collective activity has been curtailed;
+- at least one significant live-firing exercise was cancelled;
+- wider Defence direction has been acknowledged;
+- Parliament has attempted to identify the scope and provenance of that direction;
+- and the answers have not yet made the decision chain legible.
 
-Political leaders determine strategic objectives.
+The contradiction may ultimately have a mundane explanation.
 
-Senior commanders allocate military capability.
+That would be fine.
 
-Officials manage resources.
-
-Contractors provide equipment and services.
-
-But ultimately some decisions are carried physically by people who may be:
-
-- killed;
-- catastrophically injured;
-- psychologically injured;
-- medically discharged;
-- separated from their families;
-- or required to continue operating under conditions shaped by decisions made far above them.
-
-That does not mean the most junior person always knows best.
-
-It means the person carrying the greatest physical risk possesses information and interests which cannot safely disappear from the decision chain.
-
-Civilian control of the Armed Forces remains essential.
-
-But civilian control creates responsibility.
-
-> **When people whose occupation requires them to accept extraordinary physical risk repeatedly explain which forms of preparation materially affect their ability to manage that risk, government should require a very good reason before overriding that evidence for a comparatively small fiscal saving.**
-
----
-
-## 🔥 The Wider Presenting Problem
-
-The immediate symptom is a training reduction.
-
-The larger possible pathology is a mismatch between:
-
-**what Britain says its Armed Forces must be able to do**
-
-and
-
-**the systems Britain maintains to let them actually do it.**
-
-That includes:
-
-- people;
-- training;
-- equipment;
-- estate;
-- logistics;
-- medicine;
-- rehabilitation;
-- reserves;
-- industry;
-- stockpiles;
-- alliances;
-- institutional learning;
-- money.
-
-This systemic framing is consistent with the Strategic Defence Review's treatment of warfighting readiness across personnel, training, reserves, infrastructure, industry, mobilisation, NATO integration and national resilience. Readiness is therefore not reducible to whether equipment exists on an inventory.
-
-The diagnostic sequence therefore begins with function.
-
-Not:
-
-> **How much Defence spending can Britain afford?**
+Mundane explanations are allowed.
 
 But:
 
-> **What does Britain expect its Armed Forces to do?**
+> **mundane still needs to be explainable.**
 
-Then:
+The presenting complaint is therefore:
 
-> **What system is required to produce that capability reliably?**
+> **Britain says it is rebuilding warfighting readiness while modernising the Army for a rapidly changing battlefield. During that process, collective training has been curtailed for financial reasons whose decision chain, scope, substitution, recovery plan and risk ownership remain difficult to reconstruct publicly.**
 
-Only after that can spending figures meaningfully tell us whether the system is overfunded, underfunded or badly configured.
+That is not yet a diagnosis.
 
----
-
-## 🔎 Claims Carried Forward For Research
-
-This node now rests on several propositions which are established strongly enough to use:
-
-- the Army was reported to be seeking approximately £30 million in savings;
-- some major collective activity was being curtailed while deployment, readiness and rapid-response training was protected;
-- the Army has not stopped training;
-- the Army is simultaneously undertaking a major collective-training transformation programme;
-- MOD material treats collective competence as progressive and describes military skills as subject to fade;
-- the 2025 Strategic Defence Review describes training as a strategic and institutional priority;
-- the same Review supports advanced simulation while retaining live firing as essential to fighting capability;
-- concern about UK high-intensity readiness predates the September 2026 dispute.
-
-Several propositions remain open and must not silently harden into fact:
-
-- the precise origin of the £30 million requirement;
-- the complete list of activities cancelled, delayed or redesigned;
-- the duration of the restriction;
-- whether training was selected because it was strategically least valuable or financially easiest to alter;
-- what other savings were considered;
-- whether money could practically have been transferred from other programmes;
-- how much of the affected capability can be mitigated by synthetic or redesigned training;
-- how collective-training reductions translate into measurable readiness loss;
-- how preparation decisions translate into operational or safety risk;
-- who assessed and formally accepted any resulting readiness risk.
-
-These questions belong in the evidence layer and the linked investigation nodes.
+It is enough reason to investigate.
 
 ---
 
-## 🧿 Presenting Assessment
+## 📚 This Complaint Has A Long History
 
-At this stage, the narrowest defensible formulation is:
+The current episode does not arrive in an institution with no memory.
 
-> An in-year affordability problem has been translated into a comparatively small but operationally sensitive reduction or reprioritisation of British Army collective training.  
->   
-> Public reporting and the Army's own explanation do not yet establish who selected that trade-off, what alternatives were considered, precisely what capability is affected, how effectively modernised training can mitigate the loss, or who formally accepted the resulting readiness risk.**
+British Defence has repeatedly had to adapt across:
 
-That is enough to investigate.
+- the Cold War;
+- post-Cold-War reductions;
+- the Balkans;
+- Afghanistan;
+- Iraq;
+- counter-insurgency;
+- austerity;
+- Army 2020;
+- renewed Russian aggression;
+- the full-scale invasion of Ukraine;
+- NATO-first planning;
+- drones;
+- electronic warfare;
+- increasingly rapid technological change.
 
-It is not enough to convict anybody.
+The useful historical question is not:
 
----
+> **Which government fucked the Army?**
 
-## 🛒 The Grocery List  
+It is:
 
-Before buying another magic bean, announcing another transformational programme, or surviving another two-day Westminster scandal, establish:
+> **What did Britain think its Armed Forces needed to do, what did it train them to do, what happened when those assumptions met reality, what did it learn, and did those lessons survive the next financial, political and strategic settlement?**
 
-- What are we deploying for?
-- What obligations have we accumulated?
-- What force does that require?
-- Do we have enough people?
-- Do we have the right equipment?
-- Have they actually trained together?
-- Can we sustain them?
-- What happens when somebody gets catastrophically injured?
-- What have previous reviews already told us?
-- What have we repeatedly failed to implement?
-- What does readiness functionally mean?
-- What does the minimum credible training system cost?
-- And has Treasury accidentally eaten the readiness budget?
+That history is examined separately in:
 
-**Mother is doing the grocery list.**
-
-Everyone needs to focus for ten minutes.  
+[📋 History of Presenting Complaint](./📋_history_of_presenting_complaint.md)
 
 ---
 
-## 🌌 Constellations
-🪖 ⚙️ 💷 🩺 🔬 🩸 — collective training; readiness; force generation; Defence affordability; institutional learning; occupational risk.  
+## 🔬 Carry Forward
 
-*Follow the evidence:*  
+This node establishes the complaint.
 
-- Simon Akam, *The Changing of the Guard: The British Army Since 9/11*.  
-- [The Times: “British Army ordered to suspend major war games to save money”](https://www.thetimes.com/uk/defence/article/british-army-training-suspended-money-d7tzxljrl).  
-- [Forces News: “Army shifts training focus in order to concentrate on counter-drone warfare”](https://www.forcesnews.com/services/army/army-shifts-training-focus-order-concentrate-counter-drone-warfare).  
-- [Forces News: “Defence Secretary launches AI battle lab to help British Army prepare for modern warfare”](https://www.forcesnews.com/services/army/defence-secretary-launches-ai-battle-lab-help-british-army-prepare-modern-warfare).  
-- [GOV.UK: “AI battle lab to prepare British Army for modern warfare”](https://www.gov.uk/government/news/ai-battle-lab-to-prepare-british-army-for-modern-warfare).  
-- [GOV.UK: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad).  
-- [GOV.UK / MOD: *Environmental Appraisal of the Need for Military Training*](https://assets.publishing.service.gov.uk/media/5a7901f640f0b676f4a7d22f/ea_need_for_militarytraining_august_2007.pdf).  
-- [UK Parliament: “Call for focus on High-Intensity Warfighting to Increase Deterrence”](https://committees.parliament.uk/committee/24/defence-committee/news/199770/).  
-- [UK Parliament: *Ready for War?*](https://committees.parliament.uk/work/7654/armed-forces-readiness/publications/reports-responses/).  
+It does not resolve it.
 
----
+The next stages therefore need to ask:
 
-## ✨ Stardust
-British Army, collective training, readiness, £30 million, Defence affordability, SDR 2025, force generation, military training, synthetic training, operational risk, institutional learning
+### 📋 History
+
+How did British Defence arrive at the current training and readiness architecture?
+
+### 🪖 Function
+
+What is collective training actually for, and which forms of competence can and cannot be substituted?
+
+### 🔬 Investigation
+
+What evidence would reconstruct:
+
+```text
+financial pressure
+      ↓
+decision authority
+      ↓
+training change
+      ↓
+capability function
+      ↓
+mitigation
+      ↓
+residual risk
+      ↓
+recovery
+```
+
+### 💷 Money
+
+Where did the approximately £30 million requirement come from, and what were the realistic alternatives?
+
+### ⚙️ Feedback
+
+Can operational learning move from:
+
+```text
+Ukraine / operations
+      ↓
+lesson
+      ↓
+experiment
+      ↓
+training
+      ↓
+doctrine
+      ↓
+collective competence
+      ↓
+retest
+```
+
+without getting stuck somewhere in the machine?
+
+### 🔭 Readiness
+
+What observable evidence would tell us whether the Army is becoming more or less capable of doing the things government requires of it?
+
+And finally:
+
+> **Who knows?**
+
+Because somewhere inside a system this large are people who understand particular pieces of it extremely well.
+
+Find them.
+
+Then make it possible for what they know to move.
 
 ---
 
 ## 🏮 Footer
 
-*🩺 Presenting Complaint* is a living node of the **Polaris Protocol**.  
-It records the immediate September 2026 complaint and separates the reported training reduction from the larger diagnosis still to be established.
+*🩺 Presenting Complaint* is a living node of the **Polaris Protocol**.
+
+It records the immediate September 2026 Army collective-training dispute while preserving the distinction between:
+
+> **what has happened, what has been reported, what government has confirmed, what can reasonably be inferred, and what still requires investigation.**
 
 > 📡 Cross-references:
 >
-> - [📋 History of Presenting Complaint](📋_history_of_presenting_complaint.md) — *how Britain arrived here*  
-> - [🔬 Tests And Investigations](🔬_tests_and_investigations.md) — *what must be established*  
-> - [🧠 Assessment And Differential](🧠_assessment_and_differential.md) — *competing systemic explanations*  
-> - [💷 Thirty Million Pounds](./💷_thirty_million_pounds.md) — *the immediate affordability decision*  
-> - [🪖 What Training Is For](./🪖_what_training_is_for.md) — *collective competence and the function of training*  
-> - [⚙️ The Feedback Machine](./⚙️_the_feedback_machine.md) — *institutional learning and signal transmission*  
-> - [🔭 What Does Ready Actually Look Like](./🔭_what_does_ready_actually_look_like.md) — *functional readiness outputs*  
->  
+> - [📋 History of Presenting Complaint](./📋_history_of_presenting_complaint.md) — *how Britain arrived here*
+> - [🪖 What Training Is For](./🪖_what_training_is_for.md) — *what collective competence actually does*
+> - [🔬 Tests And Investigations](./🔬_tests_and_investigations.md) — *what must be established*
+> - [🧠 Assessment And Differential](./🧠_assessment_and_differential.md) — *competing systemic explanations*
+> - [💷 Thirty Million Pounds](./💷_thirty_million_pounds.md) — *the immediate affordability decision*
+> - [⚙️ The Feedback Machine](./⚙️_the_feedback_machine.md) — *institutional learning and signal transmission*
+> - [🔭 What Does Ready Actually Look Like](./🔭_what_does_ready_actually_look_like.md) — *functional readiness outputs*
+> - [🪟 Transparency And Earned Loyalty](./🪟_transparency_and_earned_loyalty.md) — *what a trustworthy system can explain*
+>
 > 🏮 Return To:
 >
 > - [🪖 Training Debrief](./README.md) — *1up*
@@ -509,4 +943,4 @@ It records the immediate September 2026 complaint and separates the reported tra
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-14_
+_Last updated: 2026-09-20_
