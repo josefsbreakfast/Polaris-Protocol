@@ -1,1287 +1,1104 @@
 # 🚑 Immediate Management
-**First created:** 2026-09-07 | **Last updated:** 2026-09-07  
-*What government, Defence and Army leadership can do now about the reported collective-training reduction without waiting for another strategic review.*
+
+**First created:** 2026-09-07 | **Last updated:** 2026-09-20  
+*What can be done now while the diagnosis remains incomplete: preserve difficult-to-regenerate capability, preserve recovery options, generate better evidence, and stop temporary disruption becoming permanent loss.*
 
 ---
 
 ## 🚑 Orientation
 
-The long-term diagnosis is not complete.
+The diagnosis is incomplete.
 
 That does not mean nothing can be done.
 
-The immediate presenting problem is sufficiently specific:
+At present, the collective-training problem remains consistent with several interacting mechanisms:
 
-> **The British Army has reportedly reduced or suspended significant collective-training activity while seeking approximately £30 million of savings.**
+- acute affordability pressure;
+- budget architecture and lock-in;
+- modernisation transition;
+- low system resilience;
+- competing commitments;
+- feedback and information failure;
+- poor prioritisation;
+- some combination of the above.
 
-The current public record does not yet establish:
+Those mechanisms require different long-term treatments.
 
-- exactly where the financial pressure originated;
-- which alternatives were considered;
-- how much capability is affected;
-- what mitigation already exists;
-- who formally accepted the readiness risk.
+But several immediate interventions make sense across more than one branch of the differential.
 
-Those questions matter.
+That is the purpose of immediate management.
 
-But they need not all be answered before sensible immediate management begins.
+The principle is:
 
-Medicine does not generally require:
+> **Preserve options while uncertainty is high.**
 
-> complete understanding of the patient's entire life history
+Do not wait for perfect diagnosis before protecting capability which may be:
 
-before somebody treats the thing presently causing harm.
+- perishable;
+- difficult to regenerate;
+- dependent upon scarce instructors;
+- dependent upon scarce estate;
+- dependent upon allied availability;
+- expensive to recover later.
 
-The immediate objective should therefore be:
+But do not respond to uncertainty by reflexively restoring every historical activity either.
 
-> **prevent avoidable degradation of collective readiness while establishing exactly what has been cut, why, what can be restored, and what must change if restoration is impossible.**
+The correct immediate question is:
 
----
+> **What must be protected now because losing it would be difficult, expensive or slow to reverse?**
 
-## 🩸 First principle: stabilise before redesigning the whole patient
+This produces a two-track response.
 
-Do not respond to a £30 million training dispute by commissioning a five-year philosophical review while the exercises disappear from the calendar.
-
-Equally:
-
-do not throw £30 million at the headline and declare the underlying problem cured.
-
-Immediate management needs two tracks running together.
-
-```mermaid
-flowchart LR
-    A["Current training restriction"] --> B["Stabilisation"]
-    A --> C["Rapid diagnostic review"]
-
-    B --> D["Protect critical activity"]
-    B --> E["Mitigate lost training"]
-    B --> F["Restore funding where justified"]
-
-    C --> G["Decision chain"]
-    C --> H["Readiness effect"]
-    C --> I["Alternative savings"]
-    C --> J["Budget architecture"]
-
-    D --> K["Revised near-term plan"]
-    E --> K
-    F --> K
-    G --> K
-    H --> K
-    I --> K
-    J --> K
+```text id="rxt3bh"
+CURRENT TRAINING DISRUPTION
+          ↓
+ ┌─────────────────┬───────────────────┐
+ │    STABILISE    │    INVESTIGATE    │
+ │   the function  │   the mechanism   │
+ └────────┬────────┴─────────┬─────────┘
+          ↓                  ↓
+ preserve / recover      better evidence
+ competence                  ↓
+          └──────────┬────────┘
+                     ↓
+              revised decision
 ```
 
-One stream keeps the force functioning.
-
-The other establishes why the problem occurred.
+Do both.
 
 ---
 
-## ⏱️ 1. Put a short clock on the review
+## 1. 🩺 First Principle: Treat The Function, Not The Exercise Name
 
-This does not need another grand Defence review.
+An exercise is not the clinical endpoint.
 
-The Strategic Defence Review already exists.
+Before deciding whether affected activity should be restored, deferred, replaced or retired, establish:
 
-The Defence Investment Plan already exists.
+```text id="6h91i7"
+AFFECTED ACTIVITY
+       ↓
+What FUNCTION does it perform?
+       ↓
+What COMPETENCE does that function produce?
+       ↓
+How quickly does competence DECAY?
+       ↓
+Can the function be SUBSTITUTED?
+       ↓
+How long does REGENERATION take?
+       ↓
+What happens if recovery is delayed?
+```
 
-The immediate question is narrower:
+Then triage.
 
-> **Does the current reduction in collective training materially undermine the readiness model government has already adopted?**
+```text id="8b7z1u"
+fast decay + slow regeneration
+              ↓
+           PROTECT
 
-Streeting should require a rapid joint assessment from:
+slow decay + credible recovery
+              ↓
+            DEFER
 
-* Chief of the Defence Staff;
-* Chief of the General Staff;
-* Army Command;
-* MOD finance;
-* relevant training leadership;
-* Defence readiness staff.
+validated functional substitute
+              ↓
+           REPLACE
 
-It should answer, in aggregate and without publishing sensitive operational information:
+obsolete / low-value function
+              ↓
+            RETIRE
 
-1. What activity has been cancelled?
-2. What has merely been postponed?
-3. What capability was each affected activity intended to generate?
-4. Which formations are affected?
-5. Can the competence be generated another way?
-6. Can the training be recovered later?
-7. What is the financial cost of restoration?
-8. What other savings options exist?
-9. What readiness risk remains if the restriction continues?
-10. Who is accepting that risk?
+consequence genuinely unknown
+              ↓
+      HOLD + INVESTIGATE
+```
 
-That is enough for immediate ministerial decision-making.
+This is not a universal algorithm.
 
----
+Judgement still matters.
 
-## 🪖 2. Triage the training, rather than treating it as one category
+But it prevents the immediate response being organised around:
 
-Not all exercises have equal value.
+> **which exercise sounds impressive**
 
-Not all cancellations have equal consequences.
+rather than:
 
-The Army should rapidly sort affected activity into something like:
-
-| Category                                 | Immediate approach          |
-| ---------------------------------------- | --------------------------- |
-| Required for deployment / quick reaction | Protect                     |
-| Required for formal readiness validation | Presumptively protect       |
-| Required for NATO commitment             | Protect or replace credibly |
-| High-value collective competence         | Restore where possible      |
-| Useful but recoverable later             | Reschedule                  |
-| Duplicative / low marginal value         | Consider cancelling         |
-| Better delivered synthetically           | Redesign where validated    |
-| Obsolete because doctrine changed        | Stop                        |
-
-This is not special pleading for every exercise.
-
-It is basic clinical triage.
-
-> **Save the function, not necessarily the appointment.**
-
-If an exercise genuinely no longer represents how Britain expects to fight:
-
-good.
-
-Change it.
-
-If it is required to produce competence government still says it needs:
-
-do not call it non-essential merely because the invoice is movable.
+> **which military function is actually difficult to recover.**
 
 ---
 
-## 🧠 3. Streeting: establish the clinical picture
+## 2. 🧯 Apply A No-Regrets Intervention Test
 
-As Defence Secretary, Wes Streeting now owns the departmental response.
+An immediate intervention is especially attractive where it does several things at once.
 
-That does not mean he personally created the underlying problem.
+Ask whether it:
 
-He inherited:
+- protects a difficult-to-regenerate function;
+- prevents avoidable competence decay;
+- preserves future options;
+- is reversible;
+- does not prejudge the final differential;
+- produces useful evidence;
+- preserves the ability to recover later;
+- avoids quietly transferring greater risk elsewhere.
 
-* the current force;
-* the current financial position;
-* the SDR;
-* the Defence Investment Plan;
-* the existing training calendar;
-* existing contracts;
-* whatever decisions were already moving through MOD.
+The more of those conditions an intervention satisfies:
 
-His immediate job is not to defend every inherited decision.
+> **the stronger the case for acting before the full diagnosis is complete.**
 
-It is to establish whether the decision still makes sense.
+This gives immediate management a discipline.
+
+It is not:
+
+> **DO SOMETHING.**
+
+It is:
+
+> **Do the things whose delay may close future options while avoiding interventions whose main effect is to make the current anxiety go away.**
 
 ---
 
-## Streeting should ask five brutally simple questions
+## 3. ⏸️ Pause Further Avoidable Loss While The Rapid Review Runs
+
+If further cancellations or reductions are pending but not yet irreversible, consider a short hold while the functional review is completed.
+
+Not:
+
+> **freeze the Army indefinitely.**
+
+Not:
+
+> **restore every historical training event.**
+
+A bounded pause.
+
+Its purpose is to stop additional activity disappearing before the system has established:
+
+- what function it performs;
+- how quickly competence decays;
+- whether an equivalent substitute exists;
+- what regeneration would require;
+- whether the decision remains justified.
+
+The review should be short enough that:
+
+> **review itself does not become another mechanism for cancelling training by delay.**
+
+Where decisions genuinely cannot wait:
+
+triage them.
+
+---
+
+## 4. 🧾 Ask Five Brutally Simple Questions
+
+The office of the Defence Secretary should be able to obtain concise answers to five questions.
 
 ### 1. What exactly am I losing?
 
 Not:
 
-> £30 million.
+> **£30 million of activity.**
 
-Capability.
+Which functions?
 
-What military capability disappears, degrades or moves later?
+Which competences?
 
----
+At what scale?
 
 ### 2. When do I get it back?
 
-If training is postponed:
+For every deferred function:
 
-when is the replacement activity?
-
-Who has booked:
-
-* the estate;
-* the personnel;
-* the equipment;
-* the instructors;
-* the ammunition;
-* the allied participation?
-
-A promise to:
-
-> catch up later
-
-is not a recovery plan until something is on the calendar.
-
----
+- recovery date;
+- required resources;
+- dependencies;
+- confidence level.
 
 ### 3. What happens if I restore it?
 
-Where does the financial pressure move?
+What:
 
-If the answer is:
+- cash;
+- contractual;
+- programme;
+- operational;
+- opportunity;
 
-> something worse,
-
-Streeting needs to know what.
-
----
+cost appears elsewhere?
 
 ### 4. Who disagrees?
 
-He should specifically ask for dissenting professional views.
+What materially different professional assessments exist?
 
-Not because the dissenters must be correct.
+Do not average disagreement into invisibility.
 
-Because a rapid ministerial review in a hierarchical institution needs protection against accidental consensus manufacture.
+### 5. What would you do if the £30 million constraint disappeared?
 
-Ask:
-
-> **Who thinks this is a bad idea, and why?**
-
-Put them in the room.
-
----
-
-### 5. What decision would you make if the £30 million problem disappeared?
-
-This separates:
+That question separates:
 
 > **training transformation**
 
 from:
 
-> **financial retrenchment.**
+> **affordability-driven reduction.**
 
-If Army leadership would still cancel the same exercises with unlimited funding because the activity is obsolete:
+If nobody can answer these questions quickly:
 
-excellent.
-
-That is modernisation.
-
-If the exercises would immediately return:
-
-then this is primarily a financial decision.
-
-Call it one.
+that itself is useful diagnostic information.
 
 ---
 
-## 💷 4. Healey: perform the Treasury counterfactual
+## 5. 💷 Run The £30 Million Counterfactual
 
-John Healey now occupies a particularly useful position.
+The immediate financial review should compare feasible alternatives rather than merely ask:
 
-He previously led Defence.
+> **Can Defence find £30 million?**
 
-He is now Chancellor.
+Of course a department of Defence's size contains more than £30 million.
 
-That gives him an unusually direct institutional vantage point from which to ask:
+That is not the question.
 
-> **Is this genuinely the least harmful place to find £30 million?**
+The question is:
 
-The answer may still be yes.
+> **Which £30 million can move on the relevant timescale, and what risk does moving it purchase?**
 
-But Treasury should test it.
+At minimum compare:
 
----
+### Option A — Current plan
 
-## The immediate Treasury exercise
+Retain the existing training reduction.
 
-Ask MOD for:
+Establish:
 
-### Option A — current plan
+- cash saving;
+- function affected;
+- decay;
+- mitigation;
+- regeneration cost;
+- residual risk.
 
-Continue the training reduction.
+### Option B — Full restoration
 
-State:
+Restore affected training.
 
-* cash saving;
-* readiness consequence;
-* mitigation;
-* recovery cost.
+Establish:
 
-### Option B — restore £30 million
+- funding source;
+- displaced activity;
+- contractual consequence;
+- opportunity cost.
 
-Identify the exact Treasury mechanism required.
+### Option C — Partial restoration
 
-### Option C — partial restoration
+Protect the functions with:
 
-Protect the highest-value collective activity and retain some savings elsewhere.
+- fastest decay;
+- slowest regeneration;
+- highest operational importance;
+- weakest substitutes.
 
-### Option D — internal MOD reallocation
+Allow lower-priority activity to remain deferred.
 
-Identify alternative expenditure and its consequences.
+### Option D — MOD reallocation
 
-### Option E — supplier / contractual adjustment
+Find the saving elsewhere within Defence.
 
-Identify whether any near-term commercial flexibility can reasonably be negotiated.
+Establish:
 
-The objective is not:
+- what moves;
+- how quickly;
+- capability consequence;
+- future cost.
 
-> Treasury finds free money.
+### Option E — Financial / commercial adjustment
 
-There is no magical £30 million tree behind Horse Guards.
+Test whether:
 
-The objective is:
+- reprofiling;
+- renegotiation;
+- contractual flexibility;
+- Treasury flexibility;
+- other financial mechanisms;
 
-> **make the trade-off explicit enough that ministers know which risk they are purchasing.**
+can reduce the immediate pressure.
 
----
+For each:
 
-## 🧾 5. Do not confuse Treasury control with Treasury micro-management
-
-This distinction needs to remain clean.
-
-Treasury may control the settlement.
-
-MOD controls many choices within that settlement.
-
-Army Command controls some choices within MOD's allocation.
-
-Therefore the review should establish:
-
-```mermaid
-flowchart TD
-    A["Treasury settlement"] --> B["MOD resource envelope"]
-    B --> C["Service allocation"]
-    C --> D["Army prioritisation"]
-    D --> E["Specific activity affected"]
-
-    A -. "not automatically" .-> E
+```text id="9z3l2c"
+OPTION
+  ↓
+cash released
+  ↓
+time available
+  ↓
+capability consequence
+  ↓
+future cost
+  ↓
+risk displaced
 ```
 
-The public accountability question is:
+Do not ask merely:
 
-> **At which arrow did collective training become the selected saving?**
-
-That determines the appropriate intervention.
-
----
-
-## 🌹 6. Burnham: force the strategic reconciliation
-
-The Prime Minister does not need to decide which battalion trains on which range.
-
-He does need to decide whether the government's strategic promises remain internally coherent.
-
-Burnham's question should be:
-
-> **Can I simultaneously maintain the government's stated Defence commitments, current force structure, current spending path and current readiness expectations?**
-
-If yes:
-
-show the working.
-
-If no:
-
-one of those variables has to move.
-
----
-
-## The No. 10 intervention should therefore be narrow
-
-Require Defence and Treasury jointly to state:
-
-* what current strategy requires;
-* what the current settlement funds;
-* where the material gaps are;
-* which are temporary;
-* which are structural;
-* what risk government is accepting.
-
-The purpose is not a new SDR.
-
-It is implementation control.
-
-The strategic review should not exist in one room while the financial consequences exist in another.
-
----
-
-## 🪖 7. Army leadership: make the operational consequence legible
-
-Army leadership has a different job.
-
-It should not simply say:
-
-> **we need more money.**
-
-That is too easy to dismiss.
-
-Nor should it describe every lost activity as catastrophic.
-
-That destroys calibration.
-
-The useful military answer is:
-
-> **If you remove X, this is the function we lose; this is when degradation becomes meaningful; this is what can replace it; this is what cannot.**
-
-For each affected activity:
-
-```text
-Training activity
-↓
-Military function produced
-↓
-Skill-decay / readiness consequence
-↓
-Substitute available?
-↓
-Recovery time
-↓
-Operational risk
-```
-
-That translation layer is crucial.
-
-Civilian ministers should not have to become brigadiers to understand the decision.
-
-Military professionals should not have to become Treasury economists to explain why preparation matters.
-
-Someone has to translate.
-
----
-
-## 🧮 8. Restore selectively before restoring blindly
-
-If additional money can be made available quickly, do not simply recreate the original calendar without review.
-
-Use the interruption.
+> **Which option balances the books?**
 
 Ask:
 
-> **Which exercises would we deliberately buy again today?**
-
-That produces three useful buckets.
-
-### Restore
-
-Activity still clearly required.
-
-### Redesign
-
-Objective remains necessary but exercise format can improve.
-
-### Retire
-
-Activity no longer generates sufficient value.
-
-This turns a bad financial shock into a potentially useful clinical review.
-
-Do not waste the opportunity.
+> **Which option creates the least damaging total risk?**
 
 ---
 
-## 💉 9. Protect the highest-risk omissions first
+## 6. 🪖 Protect Fast-Decaying, Slow-Regenerating Capability First
 
-If full restoration is impossible, prioritise activity where cancellation produces the greatest risk.
+Not every training function has the same temporal behaviour.
 
-Possible criteria include:
+Some competences can survive interruption.
 
-* operational imminence;
-* readiness certification;
-* NATO requirement;
-* collective scale difficult to recreate;
-* scarce equipment integration;
-* command integration;
-* live-fire requirement;
-* logistics rehearsal;
-* allied participation;
-* long lead times;
-* skills vulnerable to decay.
+Others decay quickly.
 
-This should be professionally determined.
+Some can be regenerated with:
 
-Not:
+- a short refresher;
+- a simulator;
+- local practice.
 
-> biggest exercise first.
+Others require:
 
-Not:
+- whole units;
+- large estate;
+- scarce instructors;
+- specialised equipment;
+- allied participation;
+- extended preparation.
 
-> most photogenic tanks first.
+That produces an immediate protection rule:
 
-Not:
+> **The faster the decay and slower the regeneration, the stronger the case for protection.**
 
-> whatever generates the worst newspaper headline.
+For every affected function record:
+
+| Function | Current competence | Decay | Regeneration time | Substitute | Immediate action |
+| --- | --- | --- | --- | --- | --- |
+| establish | establish | fast / medium / slow | establish | validated / partial / none | protect / defer / replace / investigate |
+
+This is much more useful than protecting activities merely because:
+
+> **we always do this exercise.**
 
 ---
 
-## 📅 10. Put recovery training on the calendar now
+## 7. 📆 Every Deferred Activity Needs A Recovery Status
 
-Postponement creates hidden debt.
+Deferred training should not disappear into administrative mist.
 
-If an exercise is moved from:
+Every affected activity should receive one of three statuses.
 
-> September
+### RESCHEDULED
 
-to:
+A new date exists and the resources required to deliver it have been identified.
 
-> later,
+### REPLACED
 
-the future calendar becomes more crowded.
+An alternative method has been identified and its ability to produce the required function has been established.
 
-That can create:
+### CANCELLED
 
-* estate clashes;
-* personnel clashes;
-* equipment clashes;
-* instructor shortages;
-* deployment conflicts.
-
-So every postponed activity should receive one of three statuses:
-
-```text
-RESCHEDULED — new date and resources identified
-
-REPLACED — alternative method and validation identified
-
-CANCELLED — capability consequence explicitly accepted
-```
+The activity will not be recovered and the resulting capability consequence has been explicitly accepted.
 
 There should not be a fourth category:
 
 > **somehow later.**
 
----
+Because:
 
-## 🏚️ 11. Reserve estate capacity for recovery
+> **somehow later**
 
-Money alone cannot restore training if the training estate is full.
-
-Operation Interflex already demonstrates that strategically valuable commitments can compete for finite training infrastructure.
-
-Therefore MOD should simultaneously review:
-
-* range availability;
-* training-area availability;
-* instructor availability;
-* equipment windows;
-* allied exercise opportunities.
-
-If restoration funding arrives after the usable estate window has gone:
-
-the money has arrived too late.
+is how temporary disruption becomes permanent training debt.
 
 ---
 
-## 🤝 12. Ask allies what can be shared
+## 8. 🏞️ Preserve The Recovery Path
 
-Britain does not train in strategic isolation.
+Money arriving later does not automatically restore capability.
 
-If domestic capacity is constrained, Defence can investigate whether some activity can be recovered through:
+Recovery may depend upon:
 
-* NATO exercises;
-* allied training areas;
-* multinational exercises;
-* reciprocal arrangements;
-* existing overseas activity.
+- estate;
+- instructors;
+- equipment;
+- ammunition;
+- transport;
+- maintenance;
+- medical support;
+- accommodation;
+- allied participation;
+- training audiences;
+- calendar space.
 
-This should not become:
+So immediate management must preserve:
 
-> Britain cannot train its own Army, please lend us a field.
+> **the means of recovery.**
 
-It is ordinary alliance optimisation.
+A deferred exercise is not credibly recoverable merely because somebody intends to pay for it later.
 
-If an exercise Britain already intended to conduct can be integrated efficiently into allied activity:
+The relevant chain is:
 
-good.
+```text id="l1t0sx"
+recovery funded
+      ↓
+estate available?
+      ↓
+instructors available?
+      ↓
+people available?
+      ↓
+equipment available?
+      ↓
+logistics available?
+      ↓
+allies available?
+      ↓
+calendar available?
+      ↓
+RECOVERY ACTUALLY POSSIBLE
+```
 
-Use the alliance.
+If any scarce dependency will disappear before the money returns:
+
+protect it now.
 
 ---
 
-## 🤖 13. Use synthetic training where it actually works
+## 9. 🧑‍🏫 Protect Instructor Capacity
 
-This is an obvious mitigation option.
+Instructors are not merely another personnel line.
 
-Use:
+They are:
 
-* simulation;
-* VR;
-* synthetic environments;
-* distributed command exercises;
-* digital rehearsal;
+> **capability multipliers.**
 
-where the learning objective can genuinely be achieved that way.
+A small number of skilled instructors may determine how quickly competence can be rebuilt across a much larger force.
 
-That may preserve:
+If immediate savings:
 
-* decision-making;
-* command practice;
-* scenario exposure;
-* procedural knowledge;
-* repetition.
+- remove instructors;
+- redirect them permanently;
+- allow qualifications to lapse;
+- overload them;
+- reduce instructor development;
 
-But do not claim synthetic training has replaced:
+then the institution may preserve cash today while damaging its ability to regenerate tomorrow.
 
-* physical logistics;
-* terrain;
-* fatigue;
-* equipment failure;
-* real vehicle integration;
-* live-fire competence;
-* actual human friction;
+Therefore identify:
 
-unless evidence demonstrates that the relevant objective does not require them.
+- scarce instructor cadres;
+- qualification bottlenecks;
+- instructor currency requirements;
+- projected training demand;
+- recovery demand.
+
+Do not spend the recovery mechanism.
+
+---
+
+## 10. 🧪 Substitute Functions, Not Formats
+
+Synthetic training can be valuable immediate mitigation.
+
+In some areas it may be:
+
+- cheaper;
+- safer;
+- repeatable;
+- measurable;
+- faster to schedule;
+- better for iteration.
+
+Excellent.
+
+Use it.
+
+But the test is not:
+
+> **live or synthetic?**
+
+The test is:
+
+> **what function must be produced?**
+
+Synthetic activity should receive credit for the functions it demonstrably produces.
+
+Do not automatically credit it with:
+
+- physical fatigue;
+- terrain friction;
+- equipment failure;
+- real logistics;
+- live communications problems;
+- medical evacuation;
+- maintenance;
+- weather;
+- embodied coordination;
+- human friction at scale;
+
+unless the method actually tests them.
 
 The rule is:
 
-> **substitute the method, not the outcome.**
+> **Substitute functions, not formats.**
+
+If synthetic training does the job better:
+
+use it.
+
+If it does only part of the job:
+
+use it for that part.
+
+Then retain the remainder.
 
 ---
 
-## 📦 14. Review commercially movable expenditure too
+## 11. 🛸 Preserve Modernisation Through Collective Integration
 
-Before assuming all existing contracts are immovable:
+Do not respond to training pressure by protecting only legacy activity.
 
-ask.
+New capability needs training too.
 
-Large procurement programmes have:
+Drone warfare makes this obvious.
 
-* suppliers;
-* schedules;
-* milestones;
-* payment profiles;
-* commercial relationships.
+Experimentation may identify:
 
-Not every payment can move.
+- skilled operators;
+- useful tactics;
+- concealment techniques;
+- reconnaissance methods;
+- FPV techniques;
+- counter-drone methods.
 
-Moving some may cost more than it saves.
+But experimentation becomes Army capability only if lessons can move through:
 
-Some programmes are strategically far more important than the training being protected.
+```text id="y30cxp"
+useful technique
+      ↓
+capture
+      ↓
+validation
+      ↓
+instruction
+      ↓
+team integration
+      ↓
+unit integration
+      ↓
+formation integration
+```
 
-Fine.
+Therefore immediate management should protect the collective-training capacity required to turn:
 
-But government should know whether serious commercial negotiation has occurred.
+> **good technology**
 
-The question is not:
+into:
 
-> **Why don't we cancel a submarine to pay for an exercise?**
+> **military capability.**
 
-Obviously not.
+Modernisation is not automatically an argument for less training.
 
-The question is:
-
-> **Was every apparently rigid pound actually tested for flexibility before human preparation became the flexible line?**
-
-That is a fair procurement-governance question.
-
----
-
-## 🧱 15. Do not raid maintenance to save training
-
-Immediate fixes can create worse pathology.
-
-Restoring exercises by stripping:
-
-* maintenance;
-* spares;
-* estate repair;
-* accommodation;
-* medical support;
-
-may simply move the damage one step sideways.
-
-The objective is not:
-
-> training line restored.
-
-It is:
-
-> **readiness preserved.**
-
-Any alternative saving therefore needs the same functional test.
-
-What capability does **that** reduction remove?
+It may create new integration requirements.
 
 ---
 
-## 🧩 16. Do not make personnel absorb the difference invisibly
+## 12. 🤝 Protect High-Value Allied Opportunities
 
-This deserves an explicit red line.
+Some training opportunities are unusually difficult to recreate because they depend upon:
 
-A common organisational response to lost capacity is:
+- allied formations;
+- host nations;
+- multinational command structures;
+- shared logistics;
+- scarce ranges;
+- synchronised calendars.
 
-> the people will cope.
+If one disappears:
 
-They often will.
+> **Britain cannot necessarily buy the same opportunity next Tuesday.**
 
-That is why it is dangerous.
+So where an affected activity provides unusually high-value:
 
-Do not restore readiness through:
+- NATO integration;
+- reinforcement practice;
+- allied command experience;
+- multinational logistics;
+- interoperability validation;
 
-* excessive working hours;
-* destroyed leave;
-* compressed training;
-* repeated short-notice tasking;
-* instructor overload;
-* unsustainable family disruption.
+protect it where reasonably possible.
 
-That is not free mitigation.
+This is not because:
 
-It is borrowing capability from:
+> **international = automatically important.**
 
-> retention, health and future readiness.
+It is because some opportunities have:
 
-If personnel are the bridging mechanism, record the cost.
+> **high regeneration friction.**
+
+That matters.
 
 ---
 
-## 🦴 17. Protect the physical-risk principle
+## 13. 🧍 Do Not Make Personnel The Hidden Mitigation
 
-There is a reason training deserves unusually serious treatment.
+A common way to make a stressed system appear functional is to ask people to absorb the difference.
 
-Service personnel ultimately carry the physical downside of insufficient preparation.
+That can mean:
 
-That does not mean they get an unlimited claim on public resources.
+- longer hours;
+- compressed recovery;
+- cancelled leave;
+- additional weekends;
+- repeated short-notice changes;
+- instructor overload;
+- reduced preparation;
+- less maintenance time.
 
-It means government should be particularly cautious about using preparation as an invisible balancing item.
+This is not free mitigation.
 
-A tank has a price.
+It transfers cost into:
 
-A drone has a price.
+- retention;
+- health;
+- morale;
+- family stability;
+- safety;
+- future performance.
 
-A contract has a price.
+So immediate management needs a personnel red line:
 
-An exercise has a price.
+> **Do not claim capability has been preserved by silently consuming the people who produce it.**
+
+If personnel burden is part of mitigation:
+
+measure it.
+
+---
+
+## 14. 🩸 Do Not Forget Preventative Value
+
+Training frequently produces value by preventing bad outcomes.
+
+That creates an accounting problem.
+
+The successful output may be:
+
+- the accident that did not happen;
+- the casualty managed correctly;
+- the resupply failure avoided;
+- the communications collapse recovered from;
+- the command error caught during rehearsal;
+- the equipment problem discovered before deployment.
+
+Those outcomes produce no invoice.
+
+That does not make their value zero.
+
+Defence medicine provides an important conceptual comparator.
+
+Repeated preparation, procedural adaptation, equipment changes and collective validation can produce value partly by preventing avoidable failure under pressure.
+
+Therefore:
+
+> **Difficulty quantifying preventative value is not evidence that preventative value does not exist.**
+
+Or more simply:
 
 > **The casualty that never happens because a unit rehearsed the situation properly has no invoice.**
 
-Prevention is financially quiet.
-
-That should not make it strategically silent.
+Do not accidentally price prevention at £0 because the counterfactual did not occur.
 
 ---
 
-## 📢 18. Communicate the decision like adults
+## 15. 🧭 Make Reversal Institutionally Cheap
 
-The public explanation should not become:
+A healthy review system must permit:
 
-> Everything is fine.
-
-Nor:
-
-> The Army is broken.
-
-Both are useless.
-
-A better public statement would answer:
-
-* what category of activity changed;
-* why;
-* what remains protected;
-* what mitigation exists;
-* whether activity will be restored;
-* when the review will conclude;
-* whether the strategic readiness requirement has changed.
-
-Sensitive detail can remain sensitive.
-
-The public does not need:
-
-* unit vulnerabilities;
-* exact readiness states;
-* classified deficiencies;
-* operational plans.
-
-But it can reasonably expect to know whether:
-
-> **training policy and Defence funding still agree with one another.**
-
-That is bounded explanation.
-
-Not reckless disclosure.
-
-Not managed ignorance.
-
----
-
-## 🪟 19. Give Parliament a proper answer
-
-The parliamentary record matters because questions about reductions to training activity predate the September reporting.
-
-The immediate response should therefore include a clean ministerial account of:
-
-* when concerns first arose;
-* what was meant by previous answers;
-* what changed subsequently;
-* whether the current situation was foreseeable at that point.
-
-This does not require ritual humiliation.
-
-It requires chronology.
-
-If circumstances changed:
-
-say when.
-
-If earlier answers used a narrower definition of training:
-
-explain it.
-
-If officials genuinely did not yet know:
-
-say that.
-
-A clear chronology will do more for trust than another round of:
-
-> we continue to prioritise readiness.
-
----
-
-## 📊 20. Publish a bounded recovery metric
-
-Do not publish sensitive readiness data.
-
-Do publish enough aggregate information to make recovery falsifiable.
-
-For example:
-
-* proportion of affected activity restored;
-* proportion rescheduled;
-* proportion replaced;
-* proportion permanently cancelled;
-* aggregate reason categories;
-* progress against the revised training programme.
-
-The public does not need to know:
-
-> Battalion X can currently do Y at Z hours' notice.
-
-It can know:
-
-> **80% of the collective activity initially affected has now been restored or credibly replaced.**
-
-That makes government communication testable.
-
----
-
-## 🧭 21. One named owner for the immediate problem
-
-The current issue crosses:
-
-* Treasury;
-* MOD;
-* Army;
-* No. 10.
-
-That makes diffusion of responsibility particularly easy.
-
-Someone should own the immediate recovery plan.
-
-Institutionally, the Defence Secretary is the obvious ministerial owner for:
-
-> **Is the force still being prepared to execute Defence policy?**
-
-That does not give Streeting authority over every Treasury decision.
-
-It gives Parliament and the public a clear point at which the answer has to come together.
-
-Distributed input.
-
-Named ownership.
-
----
-
-## 🔁 22. Add an automatic review trigger
-
-If training falls below an agreed readiness floor, the issue should escalate automatically.
-
-Not depend upon:
-
-* newspaper coverage;
-* an MP noticing;
-* someone leaking;
-* a minister happening to ask.
-
-For example:
-
-```mermaid
-flowchart TD
-    A["Training reduction proposed"] --> B["Readiness impact assessment"]
-    B --> C{"Below agreed threshold?"}
-    C -->|No| D["Service manages internally"]
-    C -->|Yes| E["Automatic MOD escalation"]
-    E --> F["Ministerial review"]
-    F --> G{"Funding / redesign / risk acceptance"}
+```text id="rr7g0u"
+decision
+   ↓
+new evidence
+   ↓
+review
+   ↓
+decision changes
 ```
 
-This turns readiness from:
+without requiring everybody involved to pretend:
 
-> somebody ought to mention this
+- the original decision was malicious;
+- the original concern never existed;
+- changing course is humiliating defeat.
 
-into governance.
+If new evidence shows that some training should be restored:
 
----
+restore it.
 
-## 🧠 23. Ask one counterfactual before approving any cancellation
+If evidence shows that the original decision was sound:
 
-The question is extremely simple:
+retain it and explain why.
 
-> **If the conflict we are preparing for began during the period in which this exercise would have occurred, would we regret cancelling it?**
+If evidence shows that part should return and part should not:
 
-That does not automatically determine the answer.
+do that.
 
-Governments cannot fund everything merely because it might someday matter.
+The feedback loop fails if changing a decision becomes so institutionally expensive that:
 
-But if the answer is:
+> **defending the decision becomes easier than reassessing it.**
 
-> **yes, substantially**
+The purpose of review is not vindication.
 
-then the saving needs a very strong justification.
-
----
-
-## 🛠️ 24. Practical actor map
-
-## 🧠 Wes Streeting — Defence Secretary
-
-Immediate tasks:
-
-* commission the rapid readiness assessment;
-* establish the decision chronology;
-* require dissenting professional advice;
-* identify which training must be restored;
-* distinguish modernisation from retrenchment;
-* own the public explanation;
-* return to Treasury where funding is genuinely required.
-
-His question:
-
-> **What capability am I accepting less of?**
+It is correction.
 
 ---
 
-## 💷 John Healey — Chancellor
+## 16. 🪟 Publish A Bounded Account
 
-Immediate tasks:
+Immediate management should include a public explanation at the highest safe level of granularity.
 
-* test the £30 million counterfactual;
-* establish Treasury flexibility;
-* examine whether a small targeted adjustment is preferable to readiness degradation;
-* ask whether budget architecture created the wrong local incentive;
-* force alternative savings to be compared on functional consequence.
+A useful account could state:
 
-His question:
+- what category of financial pressure existed;
+- what category of training changed;
+- whether activity is cancelled, postponed, reduced or replaced;
+- what categories remain protected;
+- whether Treasury flexibility was explored;
+- what recovery process exists;
+- when the decision will be reviewed;
+- at what governance level residual risk is owned.
 
-> **Is this really the cheapest way to save £30 million once capability consequences are included?**
+It does not need to reveal:
 
----
+- unit-level vulnerabilities;
+- classified readiness assessments;
+- exact deployment timelines;
+- sensitive training schedules;
+- operational weaknesses.
 
-## 🌹 Andy Burnham — Prime Minister
+The purpose is not:
 
-Immediate tasks:
-
-* reconcile Defence strategy with Treasury reality;
-* require a joint MOD–Treasury answer;
-* determine whether current strategic ambition remains funded;
-* decide any cross-government risk that cannot be resolved departmentally.
-
-His question:
-
-> **Does the government's strategy still add up?**
-
----
-
-## 🏦 HM Treasury
-
-Immediate tasks:
-
-* state clearly which constraints are real;
-* identify permissible flexibilities;
-* test alternative spending profiles;
-* distinguish accounting inconvenience from genuine fiscal impossibility.
-
-Its question:
-
-> **Which pound can move, at what cost?**
-
----
-
-## ❄️ MOD
-
-Immediate tasks:
-
-* reconstruct the internal allocation chain;
-* quantify readiness consequences;
-* test procurement and programme flexibility;
-* protect joint and NATO requirements;
-* coordinate estate and recovery capacity.
-
-Its question:
-
-> **Why did this particular activity become the margin?**
-
----
-
-## 🪖 Army leadership
-
-Immediate tasks:
-
-* rank affected activity by operational value;
-* identify substitutes;
-* identify non-substitutable collective training;
-* specify recovery requirements;
-* communicate consequences in functional rather than purely military language;
-* identify where doctrine genuinely supports redesign.
-
-Its question:
-
-> **What does the soldier or formation become less able to do if this disappears?**
-
----
-
-## 🩹 25. Minimum viable immediate package
-
-If government wanted the least dramatic credible intervention, it could do this:
-
-1. **Freeze further avoidable collective-training cancellations pending rapid review.**
-2. **Protect deployment, NATO, readiness-validation and difficult-to-recreate activity.**
-3. **Require Army Command to rank all affected exercises by functional consequence.**
-4. **Require MOD to identify alternative savings and commercial flexibilities.**
-5. **Require Treasury to test whether targeted funding or budget movement is possible.**
-6. **Place every postponed activity into a dated recovery programme.**
-7. **Publish a bounded explanation of the outcome.**
-8. **Name the ministerial owner of residual readiness risk.**
-
-That is not a revolution.
-
-It is competent incident management.
-
----
-
-## 🚫 26. Things not to do
-
-### Do not announce another giant review
-
-You already have strategic reviews.
-
-Use them.
-
-### Do not automatically restore every exercise
-
-Some activity may genuinely need redesign.
-
-### Do not call every reduction transformation
-
-Modernisation needs evidence.
-
-### Do not blame Treasury before reconstructing the chain
-
-Follow the pound.
-
-### Do not let Treasury hide behind departmental discretion if the settlement itself is impossible
-
-Follow the risk back up.
-
-### Do not let Army Command hide behind civilian decisions if it selected the specific trade-off
-
-Follow the decision back down.
-
-### Do not let ministers hide behind inheritance indefinitely
-
-Once informed, ownership begins.
-
-### Do not make soldiers compensate through invisible labour
-
-That merely moves the bill.
-
-### Do not wait for an operational failure to discover whether the gamble worked
-
-That is what training was for.
-
----
-
-## 🧯 27. The political opportunity
-
-There is an obvious temptation for every political actor to treat this as a defensive communications problem.
-
-That would waste it.
-
-Streeting can demonstrate:
-
-> **I inherited a difficult decision, reviewed it professionally, changed what needed changing and explained why.**
-
-Healey can demonstrate:
-
-> **Fiscal discipline means comparing consequences, not reflexively refusing small adjustments.**
-
-Burnham can demonstrate:
-
-> **The government's Defence rhetoric has an implementation mechanism behind it.**
-
-Army leadership can demonstrate:
-
-> **We can distinguish what we genuinely need from what we merely prefer.**
-
-Treasury can demonstrate:
-
-> **We understand that £30 million of preventative capability may carry value not visible in the cash line.**
-
-Nobody needs to lose face.
-
-Everyone needs to do the work.
-
----
-
-## 🪜 28. Immediate management should create better long-term evidence
-
-Every temporary intervention should generate information for the later nodes.
-
-Record:
-
-* which exercises mattered most;
-* which were successfully substituted;
-* which could not be;
-* which estate bottlenecks appeared;
-* which contractual flexibilities existed;
-* how quickly funding could move;
-* where information slowed;
-* which approval steps added value;
-* which merely added delay.
-
-That turns the current disruption into a controlled learning event.
-
-The useful outcome is not merely:
-
-> **training restored.**
+> **tell everybody everything.**
 
 It is:
 
-> **next time the system knows what to protect before the crisis reaches the newspaper.**
+> **tell Parliament and the public enough to distinguish deliberate management from unexplained capability drift.**
+
+That is part of [`🪟_transparency_and_earned_loyalty.md`](./🪟_transparency_and_earned_loyalty.md).
 
 ---
 
-## 🩺 Immediate management summary
+## 17. 🧑‍⚖️ Immediate Governance By Function
 
-### Problem
+The management problem crosses several institutional actors.
 
-Reported reduction in significant Army collective training to achieve approximately £30 million in savings.
+| Actor | Immediate function | Core question |
+| --- | --- | --- |
+| Defence Secretary | Integrate professional, financial and readiness evidence | **What capability am I accepting less of?** |
+| Chancellor / Treasury | Test financial counterfactuals | **Which pound can move, on what timescale, at what cost?** |
+| Prime Minister / Cabinet | Reconcile strategy and resources | **Does the strategy still add up?** |
+| MOD | Reconstruct allocation, alternatives and risk | **Why did this become the margin?** |
+| Army leadership | Translate training changes into capability | **What becomes less possible if this disappears?** |
+| Training system | Preserve and regenerate competence | **What must be protected now because it will be difficult to rebuild?** |
 
-### Immediate objective
+This avoids pretending every part of government controls the same lever.
 
-Prevent unnecessary loss of collective readiness while establishing whether the reduction is financially necessary, operationally acceptable, recoverable or better redesigned.
+It does not.
 
-### Immediate interventions
+The useful question is:
 
-* rapid readiness review;
-* training triage;
-* temporary protection of highest-value activity;
-* Treasury counterfactual;
-* alternative-savings analysis;
-* recovery scheduling;
-* estate reservation;
-* synthetic substitution where validated;
-* alliance mitigation;
-* explicit risk ownership;
-* bounded parliamentary and public explanation.
-
-### Responsible minister
-
-Defence Secretary for the integrated departmental answer.
-
-### Cross-government escalation
-
-Chancellor and Prime Minister where Defence requirements and available resources cannot be reconciled within MOD.
-
-### Success criterion
-
-> **Required collective competence is preserved or credibly recovered, and any remaining readiness risk is knowingly accepted rather than accidentally inherited.**
+> **Who controls the next relevant decision?**
 
 ---
 
-## 🌱 The larger principle
+## 18. 🧰 Minimum Viable Immediate Package
 
-Immediate management does not require deciding whether Britain historically spends:
+If nothing else happens, the minimum package should be:
 
-> too much
+### 1. Pause further avoidable loss
 
-or:
+Hold non-irreversible reductions while the rapid functional review runs.
 
-> too little
+### 2. Triage affected activity
 
-on Defence.
+Classify by:
 
-It requires something much more basic.
+- function;
+- decay;
+- substitution;
+- regeneration.
 
-If government has told people:
+### 3. Protect fast-decaying, slow-regenerating competence
 
-> **You may have to fight.**
+Do not allow easily lost / difficult-to-rebuild functions to disappear by default.
 
-then before cancelling the activity intended to prepare them to do so, government should know:
+### 4. Run the £30 million counterfactual
 
-* what that preparation produces;
-* what replaces it;
-* what happens without it;
-* what the alternative costs;
-* who accepts the risk.
+Compare current plan, restoration, partial restoration, MOD reallocation and feasible financial adjustment.
 
-That is not militarism.
+### 5. Assign recovery status
 
-That is occupational responsibility.
+Every affected activity becomes:
+
+> **RESCHEDULED / REPLACED / CANCELLED.**
+
+No:
+
+> **somehow later.**
+
+### 6. Preserve the recovery path
+
+Reserve the necessary:
+
+- estate;
+- instructors;
+- equipment;
+- logistics;
+- allied opportunities;
+- calendar.
+
+### 7. Use synthetic substitution where validated
+
+Credit it for the function it actually produces.
+
+### 8. Prevent hidden personnel overload
+
+Do not make workforce exhaustion the balancing item.
+
+### 9. Identify residual-risk ownership
+
+Someone must knowingly own the remaining readiness consequence.
+
+### 10. Publish a bounded explanation
+
+Enough for scrutiny.
+
+Not enough to expose sensitive capability.
+
+### 11. Measure recovery
+
+Do not mark the intervention complete because a new exercise date appears on a calendar.
+
+### 12. Feed the result back into the differential
+
+Immediate management should produce evidence.
+
+The evidence should change the diagnosis.
+
+The diagnosis should change the management.
+
+That is the loop.
 
 ---
 
+## 19. 📊 Management Dashboard
+
+The useful dashboard is small.
+
+For each affected function:
+
+| Function | Status | Decay | Substitute | Recovery date | Dependencies secured? | Residual risk owner |
+| --- | --- | --- | --- | --- | --- | --- |
+| establish | protect / defer / replace / retire | establish | establish | establish | yes / partial / no | establish |
+
+Then track:
+
+- activity actually restored;
+- competence actually validated;
+- recovery slippage;
+- instructor bottlenecks;
+- estate bottlenecks;
+- equipment bottlenecks;
+- personnel burden;
+- cost of recovery;
+- remaining risk.
+
+Do not let the dashboard become:
+
+> **number of exercises successfully moved into another spreadsheet.**
+
+The endpoint is capability.
+
 ---
+
+## 20. 🧪 Success Criteria
+
+Immediate management succeeds if:
+
+> **required collective competence is preserved or credibly recovered, and any remaining readiness risk is knowingly accepted rather than accidentally inherited.**
+
+That requires more than:
+
+> **money found.**
+
+And more than:
+
+> **exercise rescheduled.**
+
+Success means:
+
+```text id="ovk10n"
+required function
+      ↓
+competence preserved / regenerated
+      ↓
+validated
+      ↓
+readiness consequence understood
+      ↓
+remaining risk explicitly owned
+```
+
+If the money returns but the capability does not:
+
+management failed.
+
+If the capability is preserved more efficiently:
+
+excellent.
+
+If activity disappears because it genuinely no longer serves a necessary function:
+
+also excellent.
+
+The purpose is not to maximise training volume.
+
+It is:
+
+> **to preserve the capability Britain actually requires.**
+
+---
+
+## 21. 🔁 Reassess
+
+Immediate management is temporary by definition.
+
+At the review point ask:
+
+- What did we learn?
+- Which differential explanations strengthened?
+- Which weakened?
+- Which training functions actually decayed?
+- Which substitutions worked?
+- Which failed?
+- What did recovery cost?
+- Which bottlenecks appeared?
+- Did personnel absorb hidden cost?
+- Did allied commitments create constraints?
+- Did professional information reach decision-makers intact?
+- Did the financial counterfactual change?
+- Does the original decision still make sense?
+
+Then:
+
+```text id="4ftv87"
+evidence
+   ↓
+assessment
+   ↓
+management
+   ↓
+outcome
+   ↓
+new evidence
+   ↺
+```
+
+Otherwise this is not management.
+
+It is a one-off reaction.
+
+---
+
+## 🧿 Working Principles
+
+1. **Incomplete diagnosis does not require institutional paralysis.**
+2. **Preserve options while uncertainty is high.**
+3. **Treat functions, not exercise names.**
+4. **Protect fast-decaying, slow-regenerating competence first.**
+5. **Do not restore obsolete activity merely because it is familiar.**
+6. **Substitute functions, not formats.**
+7. **Do not count an unvalidated replacement as equivalent capability.**
+8. **Every deferral requires a recovery status.**
+9. **“Somehow later” is not a recovery plan.**
+10. **Protect the recovery mechanism as well as today's activity.**
+11. **Do not spend scarce instructor capacity needed for regeneration.**
+12. **Do not make personnel the hidden mitigation.**
+13. **Count opportunity cost across competing commitments.**
+14. **Do not price preventative value at zero merely because failure did not occur.**
+15. **Run the financial counterfactual before assuming the current option is unavoidable.**
+16. **Make reversal institutionally cheap.**
+17. **Assign residual-risk ownership.**
+18. **Publish enough to permit scrutiny without publishing sensitive capability detail.**
+19. **Measure competence, not administrative completion.**
+20. **Feed outcomes back into the diagnosis.**
 
 ---
 
 ## 📡 Carry Forward
 
-This node feeds into:
+Immediate management feeds directly into:
 
-* [`💊_long_term_management.md`](./💊_long_term_management.md) — redesigning the underlying system rather than repeatedly treating crises;
-* [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — automatic protections against recurring readiness degradation;
-* [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — reconstructing the immediate financial decision;
-* [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — establishing unconstrained requirements before prioritisation;
-* [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — defining what the intervention is trying to preserve;
-* [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — turning this incident into institutional learning;
-* [`data/parliamentary_questions.md`](./data/parliamentary_questions.md) — reconstructing ministerial knowledge and accountability;
-* [`data/open_questions.md`](./data/open_questions.md) — unresolved evidence;
-* [`data/current_reporting.md`](./data/current_reporting.md) — tracking how the decision and any reversal are publicly described.
-
----
-
-## 📚 Initial sources
-
-* [GOV.UK: “The Rt Hon Wes Streeting MP”](https://www.gov.uk/government/people/wes-streeting)
-* [GOV.UK: “Chancellor takes axe to delays holding back growth”](https://www.gov.uk/government/news/chancellor-takes-axe-to-delays-holding-back-growth)
-* [The Times: “British Army ordered to suspend major war games to save money”](https://www.thetimes.com/uk/defence/article/british-army-training-suspended-money-d7tzxljrl)
-* [GOV.UK: *Strategic Defence Review 2025 — Making Britain Safer: secure at home, strong abroad*](https://www.gov.uk/government/publications/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad/the-strategic-defence-review-2025-making-britain-safer-secure-at-home-strong-abroad)
-* [GOV.UK: *Defence Investment Plan*](https://www.gov.uk/government/publications/defence-investment-plan)
-* [National Audit Office: *Investigation into military support for Ukraine*](https://www.nao.org.uk/press-releases/investigation-into-military-support-for-ukraine/)
-
-Further evidential work should be drawn from:
-
-* `data/parliamentary_questions.md`;
-* `data/timeline.md`;
-* `data/current_reporting.md`;
-* `data/source_bank.md`;
-* `data/open_questions.md`.
+- [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — *what capability must ultimately be demonstrated*
+- [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — *how evidence returns to decision-makers*
+- [`🪟_transparency_and_earned_loyalty.md`](./🪟_transparency_and_earned_loyalty.md) — *bounded public explanation*
+- [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — *recovering the professional requirement*
+- [`💊_long_term_management.md`](./💊_long_term_management.md) — *structural treatment after stabilisation*
+- [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — *preventing the same failure mechanism recurring*
+- [`🧠_assessment_and_differential.md`](./🧠_assessment_and_differential.md) — *the diagnosis which management evidence should continually update*
+- [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — *the immediate financial counterfactual*
+- [`🔬_tests_and_investigations.md`](./🔬_tests_and_investigations.md) — *the evidence pack*
+- [`🪖_what_training_is_for.md`](./🪖_what_training_is_for.md) — *function, competence, decay and regeneration*
 
 ---
 
 ## 🌌 Constellations
-🚑 🪖 💷 🧠 ⚙️ 🏚️ 🔭 — immediate stabilisation; Army collective training; Treasury; Defence governance; readiness; recovery; institutional learning.
+
+🚑 🪖 💷 🧠 ⚙️ 🔭 🩸 🧱 — immediate management; collective training; capability preservation; training debt; regeneration; Treasury counterfactual; synthetic substitution; instructor capacity; estate; allied training; personnel; residual risk; institutional feedback.
 
 ---
 
 ## ✨ Stardust
-british army training, wes streeting, john healey, andy burnham, treasury, ministry of defence, army command, collective training, defence readiness, training cuts, defence budget, military exercises, readiness recovery, warfighting readiness
+
+british army training, immediate management, collective training, readiness, training debt, regeneration, defence affordability, treasury, synthetic training, instructor capacity, defence estate, nato training, personnel resilience, residual risk, defence governance
 
 ---
 
 ## 🏮 Footer
 
-*🚑 Immediate Management* is a living node of the **Polaris Protocol**.  
-It sets out immediate stabilisation, review and recovery options for the current collective-training disruption.
+*🚑 Immediate Management* is a living intervention node of the **Polaris Protocol**.
 
-> 📡 Cross-references:
+Its purpose is not to pretend the diagnosis is complete.
+
+It asks what can safely be protected, preserved, tested and recovered while the investigation continues.
+
+The management rule is:
+
+> **Protect what decays quickly.**
 >
-> - [`💊_long_term_management.md`](./💊_long_term_management.md) — *redesigning the underlying system rather than repeatedly treating crises*
-> - [`🛡️_prevention_and_resilience.md`](./🛡️_prevention_and_resilience.md) — *automatic protections against recurring readiness degradation*
-> - [`💷_thirty_million_pounds.md`](./💷_thirty_million_pounds.md) — *reconstructing the immediate financial decision*
-> - [`🧾_the_blank_cheque_exercise.md`](./🧾_the_blank_cheque_exercise.md) — *establishing unconstrained requirements before prioritisation*
-> - [`🔭_what_does_ready_actually_look_like.md`](./🔭_what_does_ready_actually_look_like.md) — *defining what the intervention is trying to preserve*
-> - [`⚙️_the_feedback_machine.md`](./⚙️_the_feedback_machine.md) — *turning this incident into institutional learning*
-> - [`data/parliamentary_questions.md`](./data/parliamentary_questions.md) — *reconstructing ministerial knowledge and accountability*
-> - [`data/open_questions.md`](./data/open_questions.md) — *unresolved evidence*
->  
+> **Preserve what regenerates slowly.**
+>
+> **Replace only what has a validated substitute.**
+>
+> **Put every deferral onto a real recovery path.**
+>
+> **Do not spend the people and infrastructure required to recover it.**
+>
+> **Make somebody own the remaining risk.**
+>
+> **Then measure whether the patient actually got better.**
+
+We do not yet know exactly which disease the patient has.
+
+> **Stop the patient losing anything difficult to grow back while we find out.**
+
 > 🏮 Return To:
 >
 > - [🪖 Training Debrief](./README.md) — *1up*
@@ -1292,4 +1109,4 @@ It sets out immediate stabilisation, review and recovery options for the current
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-07_
+_Last updated: 2026-09-20_
