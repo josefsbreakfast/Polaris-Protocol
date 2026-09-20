@@ -1,14 +1,14 @@
-# 📋 Exhibit A: VLOOKUP
-**First created:** 2026-09-16 | **Last updated:** 2026-09-16  
-*Before Computer God, there was an office worker asking Excel to please look to the fucking left.*
+# 📋 Exhibit A: VLOOKUP  
+**First created:** 2026-09-16 | **Last updated:** 2026-09-20  
+*Before Computer God, there was an office worker asking Excel to please look to the fucking left.*  
 
 ---
 
 ## 🛰️ Orientation
 
-Before requesting permission to reorganise civilisation around **HUMAN SUPERINTELLIGENCE**, the technology industry is invited to reflect upon how long ordinary office workers spent explaining:
+Before requesting permission to reorganise civilisation around **HUMAN SUPERINTELLIGENCE**, the technology industry is invited to reflect upon how long ordinary office workers spent explaining:  
 
-**“I have a value here. Find the same value over there. Give me the corresponding value from that column.”**
+**“I have a value here. Find the same value over there. Give me the corresponding value from that column.”**  
 
 This was not an obscure requirement.
 
@@ -170,7 +170,7 @@ productivity software, spreadsheets, vlookup, xlookup, administrative burden, wo
 
 ## 🏮 Footer
 
-*Exhibit A: VLOOKUP* is a living node of the **Polaris Protocol**.  
+*📋 Exhibit A: VLOOKUP* is a living node of the **Polaris Protocol**.  
 It uses a familiar office-software constraint as a compact test of technological priorities: before grand claims about transforming human intelligence, establish whether ordinary repetitive work has actually become easier for the humans doing it.
 
 > 📡 Cross-references:
@@ -189,4 +189,4 @@ It uses a familiar office-software constraint as a compact test of technological
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-16_
+_Last updated: 2026-09-20_
