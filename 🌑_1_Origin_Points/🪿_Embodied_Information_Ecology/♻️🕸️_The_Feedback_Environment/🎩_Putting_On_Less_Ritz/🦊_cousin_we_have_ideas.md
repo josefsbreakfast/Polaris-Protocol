@@ -2067,7 +2067,6 @@ The fox is a satirical analytical device. The paperwork is unfortunately real.
 >
 > - [🇺🇸 Dear America](./🇺🇸_dear_america.md) — *the complaint letter at the centre of the cluster*
 > - [🐳 See: Our New Deterrence Capability!](./🐳_see_our_new_deterrence_capability.md) — *Behold! The Tony Blair Zoltar Machine!*  
-> - [🦊 Cousin, We Have Ideas...](./🦊_cousin_we_have_ideas.md) — *we always have thoughts*  
 >
 > 🏮 Return To:
 >
