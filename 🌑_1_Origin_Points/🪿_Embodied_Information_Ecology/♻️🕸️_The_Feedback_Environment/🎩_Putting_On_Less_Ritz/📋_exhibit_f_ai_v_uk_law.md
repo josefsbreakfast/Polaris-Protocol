@@ -711,9 +711,11 @@ It does not allocate blame for that mismatch; it asks how capability claims, leg
 
 > 📡 Cross-references:
 >
-> - [🇺🇸 Dear America](./🇺🇸_dear_america.md) — *reverse bid for useful, interoperable and administratively sane technology*
-> - [🎩 Putting On Less Ritz](./README.md) — *parent cluster for transatlantic technology translation, product spectacle and user-side requirements*
-> - [♻️🕸️ The Feedback Environment](../README.md) — *information environments and feedback conditions shaping institutional decisions*
+> - [📋 Exhibit A: VLOOKUP](./📋_exhibit_a_vlookup.md) — *the case for boring technology that actually saves labour*
+> - [📋 Exhibit B: Windows Vista](./📋_exhibit_b_windows_vista.md) — *when technological improvement becomes imposed migration*
+> - [📋 Exhibit C: iPhone Batteries](./📋_exhibit_c_iphone_batteries.md) — *ownership, repairability and beautifully sealed objects*
+> - [📋 Exhibit D: Fucking Cables](./📋_exhibit_d_fucking_cables.md) — *interoperability enters the evidence bundle*
+> - [📋 Exhibit E: Printer Ink](./📋_exhibit_e_printer_ink.md) — *the recurring temptation to turn ownership into an ongoing commercial relationship*
 >
 > 🏮 Return To:
 >
