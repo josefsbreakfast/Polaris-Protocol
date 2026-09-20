@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-20 17:33:13 UTC_
+_Generated on 2026-09-20 17:46:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3528,6 +3528,7 @@ _Generated on 2026-09-20 17:33:13 UTC_
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/⚖️_Law/README.md)
       - [**🌍_Global_Powers/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/README.md)
+        - [`🇬🇧_risking_the_union_for_plausible_deniability.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/🇬🇧_risking_the_union_for_plausible_deniability.md)
         - [`🎯_what_was_bds_supposed_to_do.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/🎯_what_was_bds_supposed_to_do.md)
         - [`💸_incentivising_behavioural_change_and_bds.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/💸_incentivising_behavioural_change_and_bds.md)
         - [`🛢️_who_wants_gazan_oil.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🌍_Global_Powers/🛢️_who_wants_gazan_oil.md)
