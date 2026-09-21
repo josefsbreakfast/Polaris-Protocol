@@ -1121,7 +1121,12 @@ Cultural afterlife:
 
 The apparently respectable object has spent two centuries carrying an extraordinary concentration of desire, constancy, female judgement, male vulnerability, social disruption and romantic initiative.
 
-**THE PARLOUR NOVEL HAS BREACHED CONTAINMENT.**
+**THE PARLOUR NOVEL HAS BREACHED CONTAINMENT.**  
+
+For cultural context:  
+- [This](https://youtu.be/Fpn3du6_GhM?is=EDTc7B2MICkV5QRj) is how we were allowed to hear about the character of Mr Elliot, pre-watershed on the BBC, in 1995. [This](https://youtu.be/6-Sh53TsZfo?is=d9PSQi2l7vbAwHx1) is how we were permitted to have it explained in 2007, where ITV is more faithful to the novel.
+- Yes, your emotional support British friend can explain how the presentation of proprietary remains A Thing on the archipelago.
+- To put it in full context, Mr Elliott is discussed in terms which are euphemistic for domestic abuse, for the financial ruin of a close friend of his, and as planning behaviour which would impact his extended family if it became known to wider social contacts.  
 
 ---
 
