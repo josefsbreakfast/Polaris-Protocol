@@ -1,721 +1,357 @@
-
-notes:
-
-Yes. I think 201 should be the orientation lecture for the entire Persuasion block: enough plot that somebody who has never read Austen can follow 202–207, while introducing the central proposition that makes the advanced course different from Pride and Prejudice 100.
-
 # 🍓 Austen Cybernetics 201: The Eight-Year Incident Ticket
-**First created:** 2026-09-21 | **Last updated:** 2026-09-21  
-*Sometimes the system is not responding badly to the present. Sometimes it is responding perfectly coherently to a model that should have been updated eight fucking years ago.*
----
-## 🧭 Orientation
-### Purpose of 201
-Open the *Persuasion* / Austen Cybernetics 200 series.
-This is the gateway node.
-It should:
-- briefly explain enough of *Persuasion* that no prior Austen knowledge is required;
-- establish Anne Elliot and Captain Wentworth as the central worked system;
-- distinguish the 200 series from the *Pride and Prejudice* 100 series;
-- introduce:
-  - system history;
-  - path dependence;
-  - stale models;
-  - latent state;
-  - delayed feedback;
-  - recursive observation;
-  - action based on inferred states;
-  - model revision;
-- introduce the major characters only as far as somebody needs them for the later nodes;
-- preserve the comedy because the comedy is part of the teaching interface;
-- establish 🍓 as the *Persuasion* / Kellynch / Somersetshire marker.
-Core proposition:
-> A system has a history.
->
-> Its present behaviour may make very little sense if we inspect only its present state.
-Anne and Wentworth are not meeting each other afresh.
-They are meeting:
-- each other;
-- their memories of each other;
-- their models of what happened eight years earlier;
-- their models of what the other person now thinks;
-- their beliefs about what they are entitled to communicate;
-- and eight years of life lived after the original event.
-Welcome to second-year Austen Cybernetics.
----
-## 🍓 1. Welcome To Somersetshire
-Begin with Kellynch.
-Do not begin with abstract cybernetic terminology.
-Establish:
-- Anne Elliot;
-- Kellynch Hall;
-- the Elliot family;
-- Sir Walter;
-- the family's financial problems;
-- the Crofts eventually renting Kellynch;
-- Anne's particular attachment to home and place.
-Introduce the information-ecology question lightly:
-> Sir Walter has title to Kellynch.
->
-> Anne has a model of Kellynch.
-Anne's relationship with Kellynch contains:
-- memory;
-- attachment;
-- people;
-- landscape;
-- social relationships;
-- responsibility;
-- accumulated meaning.
-Different observers can inhabit the same physical environment while experiencing radically different informational worlds.
-Sir Walter sees status.
-Anne sees home.
-The Crofts actually have to live in the fucking thing.
-Save the full embedded-observer / information-environment treatment for 207.
-Here, Kellynch gives us somewhere to stand.
-### 🍓 Why the strawberry?
-Short sidebar:
-- Kellynch is fictional but situated by Austen in Somersetshire;
-- 🍓 therefore marks the *Persuasion* 200 series through its Somerset setting;
-- it also gives the whole course a stable visual identifier.
-Optional tiny joke:
-> Any additional relationship between strawberries and Captain Wentworth's eight years of unresolved thirst is pedagogically convenient but not part of the formal taxonomy.
----
-## ⚓ 2. Previously, On Captain Wentworth's Emotional Life
-Give the minimum backstory.
-Anne Elliot and Frederick Wentworth fall in love when Anne is nineteen.
-Wentworth is:
-- intelligent;
-- energetic;
-- ambitious;
-- capable;
-- deeply attached to Anne;
-- but without the secure fortune/status that would make the marriage look prudent.
-Anne is persuaded against the match.
-Important:
-Do **not** flatten this into:
-> silly woman listens to bad advice.
-Instead establish competing models of risk.
-Anne sees:
-- character;
-- ability;
-- trajectory;
-- potential;
-- the actual man.
-Lady Russell sees:
-- insecurity;
-- uncertain prospects;
-- Anne's youth;
-- social and economic risk;
-- an imprudent match.
-Both are trying to answer:
-> What will this system become?
-They weight different variables.
-Anne breaks the engagement.
-Wentworth is devastated.
-And Wentworth's resulting model becomes enormously important:
-> Anne was persuaded away from me.
->
-> Therefore Anne lacks the firmness/constancy I require.
-### Incident opened.
-```text
-INCIDENT:
-Anne Elliot rejected Captain Wentworth.
-INITIAL ROOT-CAUSE ANALYSIS:
-Anne can be persuaded away from what she supposedly loves.
-CAPTAIN WENTWORTH STATUS:
-Fucking furious.
-RESOLUTION:
-None.
 
-⸻
+**First created:** 2026-09-21 \| **Last updated:** 2026-09-21\
+*Path dependence, stale models, delayed feedback, and why Captain
+Wentworth has been carrying an unresolved incident ticket for eight
+years.*
 
-🗃️ 3. Eight Years Later, The Ticket Remains Open
+------------------------------------------------------------------------
 
-Eight years pass.
+## 🛰️ Orientation
 
-This is where the 200-level material properly begins.
+This is the *Persuasion* entry point for readers who know cybernetics,
+readers who know Austen, and readers who know neither.
 
-Wentworth does not remain materially static.
+The exercise is not **Cybernetics For Girls™** or **Jane Austen For Tech
+Bros™**. It is an interoperability exercise between knowledge traditions
+that are often differently gender-coded. Literature has been modelling
+feedback, observation, status, memory, signalling and power for a very
+long time. Cybernetics gives us another vocabulary for describing what
+the cultural text already knows.
 
-Quite the fucking opposite.
+Reader A may know path dependence and not Anne Elliot. Reader B may know
+exactly why Captain Wentworth is being a fucking idiot and never have
+used the phrase *historical state*. Reader C gets both from scratch.
 
-He goes away and becomes:
+Welcome aboard.
 
-* professionally successful;
-* financially successful;
-* experienced;
-* socially desirable;
-* Captain Wentworth.
+## 🧮 The incident ticket
 
-The material objection to the young Wentworth has changed enormously.
+Eight years before the main action, Anne Elliot and Frederick Wentworth
+fall in love.
 
-But his model of Anne has not necessarily updated at the same rate.
+Wentworth is talented, energetic and ambitious, but materially insecure.
+Anne is persuaded by people she trusts that accepting him is too risky.
+She breaks the engagement.
 
-Core cybernetic distinction:
+Wentworth's resulting model is approximately:
 
-Environment update ≠ model update.
-
-The world can change without an observer’s representation of it changing accordingly.
-
-And Anne has changed too.
-
-The problem is that neither receives clean telemetry about the other’s internal state.
-
-Possible running summary:
-
-Captain Wentworth responded to rejection by:
-
-1. becoming successful at sea;
-2. making a fortune;
-3. returning extremely hot;
-4. remaining absolutely fucking furious about Anne.
-
-Items 1–3: resolved.
-
-Item 4: persistent production issue.
-
-⸻
-
-👀 4. Unfortunately, Anne Still Hot Though
-
-Wentworth encounters Anne again.
-
-His old model says one thing.
-
-The actual woman in front of him begins supplying inconvenient new information.
-
-Important subtlety:
-
-Do not make this simply physical.
-
-The issue is that Anne remains:
-
-* recognisable to him;
-* emotionally important;
-* intelligent;
-* composed;
-* attentive;
-* deeply herself.
-
-And he is not remotely as indifferent as he would prefer to be.
-
-Meanwhile Anne:
-
-* still loves him;
-* knows she hurt him;
-* assumes he may no longer want her;
-* sees him receiving attention from younger women;
-* believes she has no right to interfere.
-
-This establishes the first major 200-series complication:
-
-The state of a system and the observable outputs of that state are not identical.
-
-Anne loves Wentworth.
-
-Anne’s love does not produce:
-
-aggressive romantic pursuit
-
-It helps produce:
-
-restraint
-
-because of the rest of Anne’s model.
-
-Save the full mechanics for:
-
-🍓_austen_cybernetics_202.md
-
-⸻
-
-🪽 5. Enter Wingman Anne
-
-This should be the memorable compressed explanation of the middle of the novel.
-
-Wentworth becomes conspicuously friendly with Louisa Musgrove.
-
-Anne observes this.
-
-Anne’s model:
-
-Wentworth does not want me.
-+
-Wentworth appears to want Louisa.
-+
-I love Wentworth.
-+
-I want Wentworth to be happy.
-=
-I SHALL NOT FUCK THIS UP FOR HIM.
-
-Thus:
-
-Wingman Anne.
-
-Core line worth retaining:
-
-Anne Elliot has basically become the most legendary fucking wingman Captain Wentworth has ever had, because she still loves him and has mistakenly concluded that the kindest thing she can do is help him marry somebody else.
-
-This is funny.
-
-It is also the cybernetic problem.
-
-Wentworth’s actions are altering Anne’s model.
-
-Anne’s updated model alters her behaviour.
-
-Her behaviour becomes new evidence available to Wentworth.
-
-Therefore:
-
-An observer does not merely receive information from a system.
-
-The observer can act upon the system and thereby alter the information the system subsequently produces.
-
-Very brief diagram:
-
-Wentworth still cares about Anne
+``` text
+Anne rejected me
         ↓
-Wentworth performs interest elsewhere
+Anne lacked constancy
         ↓
-Anne infers that Wentworth wants Louisa
-        ↓
-Anne suppresses her own interest
-        ↓
-Anne facilitates apparent Wentworth–Louisa trajectory
-        ↓
-Wentworth receives even less evidence that Anne wants him
-        ↓
-?????????????????
+Anne did not value me enough
+```
 
-Then stop.
+Then he goes to sea, becomes successful, acquires money and professional
+standing, and remains extremely fucking angry about Anne.
 
-202 gets the full Wingman Anne Problem.
+``` text
+INCIDENT: Anne rejected proposal
+STATUS: unresolved
+AGE: eight years
+OWNER: Captain Frederick Wentworth
+```
 
-⸻
+Items one through three of his life plan have gone very well.
 
-🪨 6. The Cobb Has Entered The Chat
+Item four remains in production.
 
-Briefly narrate the Lyme/Cobb crisis.
+## 🕰️ Historical state
 
-Wentworth has been praising Louisa’s firmness.
+Systems have histories.
 
-This matters because it reflects his existing Anne model:
+The present state of a system may depend not only on present inputs, but
+on earlier events whose effects persist.
 
-Anne was persuadable.
-Louisa is firm.
-Firmness is good.
-Therefore Louisa possesses something Anne lacked.
+That is **path dependence**.
 
-Then Louisa’s determination becomes reckless.
+When Wentworth returns, he is not meeting Anne as if for the first time.
+Both are responding to:
 
-She jumps.
+-   the original engagement;
+-   the breakup;
+-   eight years of separation;
+-   remembered interpretations of the breakup;
+-   changed fortunes;
+-   changed social positions;
+-   things neither has said.
 
-She falls.
+The old event is still active in the current system.
 
-The social environment abruptly becomes a medical emergency.
+## 📡 Stale models
 
-And Anne becomes operational.
+Anne's rough model is:
 
-Everybody:
+> I rejected him. He resents me. He appears interested in younger women.
+> I have no right to interfere.
 
-FUCK.
+Wentworth's rough model is:
 
-Anne:
+> You thought I was not good enough. Fine. Observe the extremely
+> successful naval officer.
 
-Right. What needs doing?
+Both models contain real historical information.
 
-Wentworth is simultaneously processing:
+Neither is a complete representation of the current internal state of
+the other person.
 
-OH FUCK LOUISA IS SERIOUSLY HURT
-OH FUCK I ENCOURAGED THIS DYNAMIC
-OH FUCK PEOPLE MAY THINK I INTENDED TO MARRY HER
-OH FUCK ANNE IS EXTREMELY COMPETENT
-OH FUCK ANNE STILL HOT THOUGH
+That distinction matters:
 
-This is not an appropriate time, Captain.
+> **A model can have been reasonable when formed and still become
+> stale.**
 
-🥵
+Systems change. People change. Circumstances change. The model has to
+remain revisable.
 
-The point is not merely that Wentworth rediscovers Anne’s attractiveness.
+## ♻️ Delayed feedback
 
-The perturbation produces information unavailable under ordinary social conditions.
+The problem is that Anne and Wentworth do not immediately exchange
+high-fidelity information.
 
-Dinner-party behaviour permitted one model.
+Instead they infer from:
 
-Crisis behaviour reveals another.
+-   tone;
+-   attention;
+-   avoidance;
+-   flirtation;
+-   social behaviour;
+-   third parties;
+-   remembered injury.
 
-Anne’s judgement is:
+Feedback exists, but it is delayed, indirect and noisy.
 
-* adaptive;
-* contextual;
-* calm;
-* useful;
-* responsive to other people;
-* capable of accepting information without surrendering agency.
+This is how an eight-year incident ticket survives.
 
-Wentworth’s model has been treating:
+## 🧶 Enter Louisa
 
-persuadability
+Louisa Musgrove is young, lively, attractive and openly interested in
+Wentworth.
 
-as if it straightforwardly implied:
+Wentworth praises her firmness.
 
-weakness / insufficient constancy
+This is not entirely random. He is carrying an old theory about Anne:
 
-The Cobb begins blowing that model to pieces.
+``` text
+persuadable → weak / inconstant
+firm → strong / constant
+```
 
-Running line:
+Anne sees Wentworth apparently interested in Louisa and behaves with
+restraint.
 
-The Cobb knocks Captain Wentworth’s entire Anne Elliot thesis down the stairs.
+Wentworth sees Anne behaving with restraint and receives very little
+evidence that she still loves him.
 
-Point forward to:
+This will become a problem.
 
-* 🍓_austen_cybernetics_203.md — proxy/model failure;
-* 🍓_austen_cybernetics_204.md — perturbation and competence under stress.
+A large problem.
 
-⸻
+A **Wingman Anne** problem.
 
-📚 7. Benwick Performs Emergency Systems Maintenance
+## 🪨 The Cobb enters the chat
 
-Keep this short and funny.
+At Lyme, Louisa falls from the Cobb and is badly injured.
 
-Louisa survives.
+The social environment abruptly changes from courtship ambiguity to
+emergency response.
 
-Louisa eventually falls for Captain Benwick.
+Anne becomes operational.
 
-Benwick has been grieving.
+Wentworth receives information about Anne that his existing model
+handles badly.
 
-Louisa’s romantic trajectory therefore changes.
+The incident does not magically resolve everything. It does, however,
+start breaking the old model.
 
-Wentworth discovers that the social situation he helped create does not require him to marry Louisa.
+The Cobb has entered production.
 
-Possible compressed exchange:
+## 📚 Benwick performs emergency systems maintenance
 
-Benwick: Would you like to discuss the poetry through which I have processed my bereavement?
+Louisa later becomes attached to Captain Benwick.
 
-Wentworth: No, but thank you for marrying Louisa. Outstanding work.
+This is extraordinarily convenient for several parties.
 
-🤝
+Benwick processes emotion through Romantic poetry.
 
-Buddies.
+Wentworth processes emotion through professional success and maintaining
+a grudge for eight years.
 
-Cybernetic point:
+Both: Captain.
 
-A changed node alters possibilities elsewhere in the network.
+Know your strengths.
 
-No need to over-teach this.
+Wentworth, approximately:
 
-The joke does most of the work.
+> Louisa is alive. Louisa is happy. Benwick is happy. Nobody requires me
+> to marry Louisa. Outstanding work, sailor.
 
-⸻
+## 🎩 Unfortunately there is now a weird cousin
 
-🎩 8. Unfortunately There Is Now A Weird Cousin
+Once Louisa is no longer a plausible romantic trajectory, Wentworth
+encounters another problem.
 
-With Louisa no longer apparently attached to Wentworth, another problem becomes visible.
+Mr Elliot is paying attention to Anne.
 
-Mr Elliot.
+Wentworth:
 
-He is:
+# I AM ON IT.
 
-* socially polished;
-* conventionally respectable;
-* materially appropriate;
-* connected to Anne’s family;
-* heir presumptive to Kellynch;
-* interested in Anne.
+At last: an apparently actionable threat.
 
-For Wentworth this is wonderfully clarifying.
+Naval officer restored to factory settings.
 
-Months of ambiguous interpersonal information:
+Unfortunately, detecting **ANOTHER MAN** is not the same thing as
+possessing good intelligence about another man. We will come back to
+that.
 
-SYSTEM UNAVAILABLE.
+## 👂 New information enters the system
 
-Another man making moves on Anne:
-
-I AM ON IT.
-
-Captain restored to factory settings.
-
-But Mr Elliot introduces a much more serious cybernetic problem.
-
-His social signals look good.
-
-His underlying objectives are another matter.
-
-This tees up:
-
-🍓_austen_cybernetics_205.md
-
-and:
-
-🍓_austen_cybernetics_206.md
-
-Do not resolve the whole Mr Elliot analysis here.
-
-Just establish:
-
-A trustworthy-looking signal is not necessarily generated by a trustworthy system.
-
-And:
-
-An accurate model of another person does not imply benevolent intentions toward them.
-
-⸻
-
-💌 9. New Information Has Entered The System
-
-Bring us to Bath and the Harville conversation.
-
-Anne and Captain Harville discuss whether men or women love longest / most constantly.
+Near the end of the novel, Anne discusses constancy with Captain
+Harville.
 
 Wentworth is within earshot.
 
-Anne can finally articulate something close enough to her actual internal state for Wentworth to recognise the implications.
+Anne is ostensibly speaking to Harville, but she is finally producing
+information in a form that allows Wentworth to reinterpret years of
+previous observations.
 
-Captain Wentworth:
+Wentworth's internal system:
 
+``` text
 WAIT.
 
-The missing information begins arriving.
+THAT IS WHAT YOU HAVE BEEN DOING?
+```
 
-Anne’s previous restraint:
+Her restraint did not mean indifference.
 
-≠ indifference.
+Her assistance around Louisa did not mean lack of feeling.
 
-Anne helping Louisa:
+Her calm did not mean forgetting.
 
-≠ lack of love.
+The old data have not changed.
 
-Anne’s composure:
+**The causal model through which he interprets them has.**
 
-≠ forgetting him.
+## 💌 The interoperability patch
 
-Her behaviour begins making sense under a different model.
+Wentworth then does something extremely useful.
 
-Wentworth updates.
+He stops relying entirely on inference.
 
-Aggressive quill noises.
+He writes.
 
-I CAN LISTEN NO LONGER IN SILENCE.
+The letter supplies Anne with much higher-fidelity information about his
+internal state and leaves her able to respond.
 
-Do not reproduce Austen’s letter extensively.
+Polaris translation:
 
-The cybernetic joke:
+> GIRL ARE YOU SERIOUS.
+>
+> I HAVE BEEN FUCKING BESOTTED WITH YOU THIS ENTIRE TIME.
+>
+> PLEASE ADVISE WHETHER EIGHT-YEAR INCIDENT TICKET MAY NOW BE CLOSED.
 
-INCIDENT:
-Anne rejected Wentworth.
-AGE:
-Eight years.
-NEW TELEMETRY:
-Anne has remained catastrophically in love with Wentworth.
-ADDITIONAL DISCOVERY:
-Anne interpreted Wentworth's Louisa behaviour as genuine preference.
-CONSEQUENCE:
-Anne became Wingman Anne.
-SEVERE SERVICE EVENT:
-The Cobb.
-ROOT CAUSE:
-Two fundamentally decent people repeatedly acted on incorrect models
-while trying not to impose upon one another.
-REMEDIATION:
-Direct communication.
-DELIVERY MECHANISM:
-Handwritten interoperability patch.
-STATUS:
-RESOLVED.
+Anne:
 
-⸻
+**ACKNOWLEDGED.**
 
-♻️ 10. Why This Is Cybernetics 200
+The technical lesson underneath the joke is simple:
 
-Now explicitly distinguish the courses.
+> **When indirect behavioural inference is producing repeated model
+> failure, a sufficiently explicit communication channel can radically
+> improve the system.**
 
-Austen Cybernetics 100
+## 🧬 Why this is Cybernetics 200
 
-The introductory problem:
+The 100-level problem is:
 
-My model of another person may be wrong.
+> My model of another person may be wrong.
 
-Observe.
+The 200-level problem is recursive:
 
-Receive new information.
+> My model affects my behaviour.\
+> My behaviour affects your model.\
+> Your model affects your behaviour.\
+> Your behaviour becomes evidence for my model.
 
-Update.
+Now add:
 
-Austen Cybernetics 200
+-   history;
+-   social constraints;
+-   incomplete observability;
+-   status;
+-   third parties;
+-   strategic behaviour;
+-   attraction.
 
-Harder:
+Congratulations.
 
-My model affects my behaviour.
+You have *Persuasion*.
 
-My behaviour affects your model.
+## 🧿 Concepts to carry forward
 
-Your model affects your behaviour.
+The 200 series will move through:
 
-Your behaviour becomes evidence for my model.
+-   **201 --- history:** path dependence and stale models;
+-   **202 --- feedback:** latent state, observable signal and recursive
+    inference;
+-   **203 --- models:** proxies, simplification and requisite variety;
+-   **204 --- perturbation:** stress, observability and latent
+    capability;
+-   **205 --- signals:** metadata, trust and adversarial presentation;
+-   **206 --- power:** accurate models, objective functions and
+    instrumental use;
+-   **207 --- observer:** embedded observation, maintenance and immanent
+    critique.
 
-Both of us have histories.
+The point is not to make literature serious by giving it technical
+vocabulary.
 
-Neither of us has direct access to the other’s internal state.
+It was already serious.
 
-Some signals are constrained by the social environment.
+We are building the fucking interface.
 
-Some signals can be deliberately manipulated.
+## 🌌 Constellations
 
-And now Louisa has fallen off the Cobb.
+♻️ 🧬 🛰️ 🧮 🕸️ --- historical state, feedback, modelling, recursive
+observation and cultural interoperability.
 
-This is a recursive system.
+------------------------------------------------------------------------
 
-The central problem is no longer merely:
+## ✨ Stardust
 
-Did you interpret the signal correctly?
-
-It becomes:
-
-What processes produced the signal you are interpreting?
-
-⸻
-
-🧠 11. Concepts To Carry Into The 200 Series
-
-Brief definitions only.
-
-Path dependence
-
-Past events alter the range and meaning of present behaviour.
-
-Stale models
-
-Representations of a system can persist after the system itself has changed.
-
-Latent state
-
-Something can be real without being directly observable.
-
-Feedback
-
-Actions based on information change the environment from which subsequent information is gathered.
-
-Second-order observation
-
-People model not merely other people, but what other people believe about them.
-
-Proxy variables
-
-Observable characteristics are often used to infer harder-to-observe qualities.
-
-Those proxies can fail.
-
-Perturbation
-
-A disruption can expose properties that remain hidden during ordinary operation.
-
-Adversarial signalling
-
-Actors can learn which signals a system treats as trustworthy and reproduce them strategically.
-
-Objective functions
-
-Two observers can possess similar information and use it toward radically different ends.
-
-Embedded observation
-
-Observers are themselves situated within the systems they describe.
-
-⸻
-
-🗺️ 12. Where We Go Next
-
-Point explicitly to the rest of the course.
-
-🍓_austen_cybernetics_202.md
-
-Wingman Anne
-
-Latent state, recursive modelling and the feedback catastrophe in which loving Wentworth causes Anne to produce behaviour Wentworth reads as evidence that she does not love him.
-
-🍓_austen_cybernetics_203.md
-
-Bro, Your Model Has One Fucking Feature
-
-Firmness, constancy, judgement and the dangers of compressing complicated human characteristics into one attractive proxy.
-
-🍓_austen_cybernetics_204.md
-
-When the Ship Is on the Line
-
-The Cobb as perturbation and stress test: what becomes observable when ordinary social performance suddenly stops being enough?
-
-🍓_austen_cybernetics_205.md
-
-Respectability Is Metadata
-
-Mr Elliot and the difference between trustworthy social markers and trustworthy underlying systems.
-
-🍓_austen_cybernetics_206.md
-
-The User Has a Good Model of You
-
-Why accurate modelling can increase another person’s ability to exploit you. Information is not care.
-
-🍓_austen_cybernetics_207.md
-
-The Apparatus Observing Itself
-
-Austen as embedded observer: class, gender, property, marriage and criticism produced from within the apparatus rather than from an imaginary position outside it.
-
-⸻
-
-🍓 Constellations
-
-Cross-link eventually to:
-
-* Austen Cybernetics 100 / Pride and Prejudice
-* Embodied Information Ecology
-* Cybernetics
-* models and model error
-* information environments
-* observer effects
-* feedback loops
-* system boundaries
-* adversarial information
-* power and modelling
-* cultural interoperability where relevant
-
-Potential conceptual constellation:
-
-Pride and Prejudice asks what happens when your model of somebody is wrong.
-
-Persuasion asks what happens when your wrong model changes your behaviour, your behaviour changes theirs, their response appears to confirm your model, and nobody has reopened the fucking incident ticket since 1806.
-
-⸻
-
-✨ Stardust
-
-* Keep Wingman Anne as an explicit recurring teaching object.
-* Keep the eight-year incident ticket throughout 201.
-* Keep “This is not an appropriate time, Captain.”
-* Keep “The Cobb knocks Captain Wentworth’s entire Anne Elliot thesis down the stairs.”
-* Keep Benwick’s accidental systems-maintenance function light rather than forcing a cybernetic concept onto every plot event.
-* 201 should remain readable without any prior cybernetics knowledge.
-* The technical vocabulary should arrive after the reader understands the ridiculous human situation.
-* Later nodes can become considerably more technical because 201 has established the shared fictional system.
-* Do not make Austen herself a historical “cyberneticist.” This is a retrospective teaching lens.
-* Preserve the distinction between:
-    * story;
-    * interpretation;
-    * cybernetic analogy.
-* For final drafting, verify any precise textual/historical claims that matter rather than making the jokes carry evidentiary weight.
-
-Tech boy: So Anne’s observable behaviour was inversely correlated with the internal state Wentworth was attempting to infer?
-
-Polaris: Yes.
-
-Tech boy: Because the strength of the internal state itself affected her control policy?
-
-Polaris: Yes.
-
-Tech boy: Fuck.
-
-Polaris: Jane Austen, motherfucker. 🍓
-
-That gives **201 one job: make the reader understand the whole system well enough that every later node can say “remember Wingman Anne?” and immediately start doing harder cybernetics.** The specialist nodes then don't need to keep re-explaining the novel. 
+cybernetics, persuasion, jane austen, path dependence, historical state,
+delayed feedback, stale models, interoperability
+
+------------------------------------------------------------------------
+
+## 🏮 Footer
+
+*🍓 Austen Cybernetics 201: The Eight-Year Incident Ticket* is a living
+node of the **Polaris Protocol**.\
+It uses *Persuasion* as a shared cultural interface for cybernetic
+concepts, allowing literary and systems vocabularies to explain one
+another without treating either as the more serious form of knowledge.
+
+> 📡 Cross-references:
+>
+> > -   [🍓 Austen Cybernetics 202: Wingman
+> >     Anne](./🍓_austen_cybernetics_202.md) --- *next concept in the
+> >     Persuasion sequence*
+> > -   [🧬 Start Here](./README.md) --- *parent route into introductory
+> >     cybernetics*
+>
+> 🏮 Return To:
+>
+> -   [🧬 Start Here](./README.md) --- *1up*
+> -   [♻️ Cybernetics](../README.md) --- *2up*
+> -   [🪿 Embodied Information Ecology](../../README.md) --- *3up*
+> -   [🌑 Origin Points](../../../README.md) --- *4up*
+> -   [🌌 Polaris Protocol --- Root](../../../../README.md) --- *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+*Last updated: 2026-09-21*
