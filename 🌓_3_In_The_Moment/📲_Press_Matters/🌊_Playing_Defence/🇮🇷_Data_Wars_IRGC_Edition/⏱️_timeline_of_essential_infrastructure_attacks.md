@@ -1,5 +1,5 @@
 # ⏱️ Timeline Of Essential Infrastructure Attacks
-**First created:** 2026-08-01 | **Last updated:** 2026-09-14  
+**First created:** 2026-08-01 | **Last updated:** 2026-09-21  
 *A provisional open-source chronology of cyber incidents affecting essential state infrastructure during the Iran war.*
 
 ---
@@ -3142,6 +3142,626 @@ Those questions may not have the same answer.
 
 ---
 
+---
+
+## ⚓ 2026-08-07 to 2026-09-17 — Texas-Bound Energy Tankers And The Emerging Maritime Cyber Cluster
+
+### 🌍 International maritime / 🇺🇸 United States-bound
+
+### Event type
+
+Incident disclosure / federal response / campaign-scale threat update.
+
+### Sector
+
+Energy transport / maritime operational technology.
+
+### What happened
+
+The U.S. Coast Guard and FBI have now publicly acknowledged that federal cyber teams boarded **two inbound foreign-flagged commercial energy vessels** in the Gulf of Mexico on **21 and 24 August** after indications that the networks of both vessels had been compromised.
+
+Reporting identified the vessels as:
+
+- **VL Prosperity**, a Liberian-flagged crude-oil tanker bound for Galveston, Texas;
+- **Kohaku**, an LPG carrier heading towards Texas to load cargo.
+
+The VL Prosperity incident appears to reach back to **7 August**, when Iranian state media reported that the vessel had suffered a cyberattack while crossing the Strait of Gibraltar.
+
+That reporting alleged approximately 30 hours of communications loss and attacker access to propulsion, navigation and cargo systems.
+
+Those deeper physical-control claims remain **unverified by the U.S. government in the reviewed public record**.
+
+### Operational effect
+
+The Coast Guard's public position is narrower than the Iranian reporting:
+
+```text
+NETWORK COMPROMISE INDICATORS:
+🟢 ACKNOWLEDGED
+
+FEDERAL CYBER / INSPECTION BOARDINGS:
+🟢 CONFIRMED
+
+OPERATIONAL DISRUPTION:
+❌ NOT REPORTED BY THE COAST GUARD
+
+VESSEL INSTABILITY:
+❌ NOT REPORTED
+
+CREW PHYSICAL DANGER:
+❌ NOT REPORTED
+
+ENVIRONMENTAL IMPACT:
+❌ NOT REPORTED
+
+PROPULSION / NAVIGATION / CARGO MANIPULATION:
+🟠 ALLEGED / NOT PUBLICLY VERIFIED
+```
+
+### Attribution confidence
+
+The U.S. is reportedly investigating whether Iran was responsible.
+
+That is now materially different from saying the incidents are unrelated to Iran.
+
+But it remains materially different from attribution.
+
+```text
+FOREIGN ACTOR / NETWORK-COMPROMISE PROBLEM:
+🟢 PUBLICLY ACKNOWLEDGED
+
+IRAN AS INVESTIGATIVE HYPOTHESIS:
+🟠 CREDIBLE / DEVELOPING
+
+FORMAL PUBLIC US ATTRIBUTION TO IRAN:
+⚪ NOT ESTABLISHED
+
+NAMED IRGC / MOIS UNIT:
+⚪ NOT ESTABLISHED
+```
+
+### Pattern expansion
+
+By **16–17 September**, reporting citing U.S. officials said federal agencies were tracking cyber threats involving **nearly 20 commercial vessels worldwide**.
+
+The Coast Guard requested advance notice if those vessels intended to enter U.S. ports.
+
+CISA separately said several commercial vessels had been targeted in potential cyberattacks in late August, while noting that attackers did not appear to have taken control of the targeted ships.
+
+This changes the analytical object from:
+
+```text
+one strange tanker incident
+```
+
+to:
+
+```text
+two confirmed vessel-network compromise investigations
++
+several commercial vessels reportedly targeted
++
+nearly 20 vessels under particular US cyber-threat watch
+```
+
+It does **not** establish that those vessels share:
+
+```text
+one operator
+one vulnerability
+one vendor
+one access broker
+one customer
+or one state sponsor
+```
+
+### Iran-war relevance
+
+Very high.
+
+Commercial energy shipping is a strategically useful pressure point because interference can impose:
+
+- delay;
+- inspection;
+- port-security burden;
+- safety uncertainty;
+- insurance and commercial cost;
+- energy-logistics friction;
+- and defensive attention
+
+without requiring a spectacular physical attack.
+
+That strategic fit is a reason to investigate.
+
+It is not attribution evidence.
+
+### Sources
+
+- [CBS News — Coast Guard and FBI boarded two energy tankers after cyberattacks](https://www.cbsnews.com/news/coast-guard-fbi-boarded-energy-tankers-cyberattacks-amy-grable-iran/)
+- [Insurance Journal / Bloomberg — US tracking cyber threats against nearly 20 ships worldwide](https://www.insurancejournal.com/news/national/2026/09/17/885384.htm)
+- [Wall Street Journal — US probes Iran link to cyberattacks on Texas-bound energy tankers](https://www.wsj.com/politics/national-security/u-s-probes-cyberattacks-on-energy-tankers-bound-for-american-coast-33d92f3a)
+
+---
+
+## 🚰 2026-08 — Colorado Water Utilities: Foreign Actors Reach The Control Layer
+
+### 🇺🇸 United States — Colorado
+
+### Event type
+
+Incident / late disclosure.
+
+### Sector
+
+Water and wastewater / operational technology.
+
+### What happened
+
+Colorado confirmed that unidentified foreign hackers breached **two privately owned drinking-water utilities**, each serving fewer than 200 people, in late August.
+
+The attackers:
+
+- changed equipment settings;
+- disabled remote access;
+- disabled alarms;
+- and altered pumping cycles.
+
+### Operational depth
+
+This is not merely enterprise IT or reconnaissance.
+
+The public evidence supports direct interaction with the control layer:
+
+```text
+CONTROLLER / CONFIGURATION ACCESS:
+🟢 ESTABLISHED
+
+SETTING MANIPULATION:
+🟢 ESTABLISHED
+
+PUMP-CYCLE CHANGE:
+🟢 ESTABLISHED
+
+ALARM / REMOTE-ACCESS INTERFERENCE:
+🟢 ESTABLISHED
+
+WATER-SERVICE LOSS:
+❌ NOT REPORTED
+
+WATER-QUALITY EFFECT:
+❌ NOT REPORTED
+
+PUBLIC-SAFETY EFFECT:
+❌ NOT REPORTED
+```
+
+### Attribution confidence
+
+Colorado described the intruders as **foreign actors** but said it could not identify which foreign actors were responsible.
+
+The governor's office separately noted the ongoing national effort by an Iranian-backed group to access drinking-water and wastewater systems.
+
+That contextual statement must not be converted into attribution of these two incidents.
+
+```text
+FOREIGN ACTOR:
+🟢 CONFIRMED BY COLORADO
+
+RELATIONSHIP TO WIDER US WATER WAVE:
+🟡 PROBABLE / DEVELOPING
+
+IRAN RESPONSIBILITY FOR COLORADO:
+🟠 SUSPECTED / UNRESOLVED
+
+FORMAL ATTRIBUTION:
+⚪ ABSENT
+```
+
+### Pattern significance
+
+Colorado strengthens the operational pattern more than it strengthens the attribution.
+
+The recurring sequence is increasingly:
+
+```text
+reachable water OT
+→ unauthorised access
+→ operator visibility / remote control degraded
+→ settings or pump behaviour changed
+→ local intervention prevents wider service effect
+```
+
+That is important because the campaign's significance is increasingly visible in **repeated penetration to the control layer**, not merely in the number of people who lose water.
+
+### Sources
+
+- [Reuters — Foreign hackers targeted Colorado water systems in August](https://www.investing.com/news/general-news/foreign-hackers-targeted-colorado-water-systems-in-august-governors-office-says-4908010)
+- [Axios Denver — Foreign actors breach Colorado water systems](https://www.axios.com/local/denver/2026/09/18/water-utilities-cyberattack-hackers)
+
+---
+
+## ⚡ 2026-09-14 — CenterPoint Energy Customer-System Compromise
+
+### 🇺🇸 United States — Texas / multi-state utility footprint
+
+### Event type
+
+Incident disclosure.
+
+### Sector
+
+Electricity and natural gas.
+
+### What happened
+
+CenterPoint Energy disclosed in an SEC filing that an unauthorised third party obtained personal information relating to some customers through one of the company's external-facing systems.
+
+The company began investigating after becoming aware of an online post claiming to possess customer information.
+
+### Operational effect
+
+```text
+CUSTOMER-DATA COMPROMISE:
+🟢 CONFIRMED
+
+ELECTRIC DELIVERY DISRUPTION:
+❌ NOT REPORTED
+
+GAS DELIVERY DISRUPTION:
+❌ NOT REPORTED
+
+OT COMPROMISE:
+⚪ NOT ESTABLISHED
+```
+
+### Attribution confidence
+
+```text
+OPERATOR:
+⚪ OPEN
+
+STATE RELATIONSHIP:
+⚪ OPEN
+
+IRAN CONNECTION:
+⚪ NO EVIDENCE FOUND
+```
+
+Conventional data theft or criminal intrusion is presently better supported than a wartime infrastructure-disruption explanation.
+
+### Pattern significance
+
+CenterPoint is useful precisely because the target is strategically important but the demonstrated effect stops at the enterprise / data layer.
+
+```text
+MAJOR ENERGY UTILITY
+→ EXTERNAL-FACING SYSTEM COMPROMISED
+→ CUSTOMER DATA OBTAINED
+→ ENERGY DELIVERY CONTINUES
+```
+
+This is a reminder not to infer physical-process intent from sector alone.
+
+### Sources
+
+- [SEC — CenterPoint Energy Form 8-K, 14 September 2026](https://www.sec.gov/Archives/edgar/data/48732/000110465926107560/tm2625326d1_8k.htm)
+- [Reuters — CenterPoint Energy discloses customer data breach](https://www.reuters.com/legal/litigation/centerpoint-energy-discloses-customer-data-breach-sec-filing-2026-09-14/)
+
+---
+
+## 🏥 2026-09-16 onward — Nipigon District Memorial Hospital Ransomware
+
+### 🇨🇦 Canada — Ontario
+
+### Event type
+
+Incident / business-continuity response.
+
+### Sector
+
+Healthcare / hospital operations.
+
+### What happened
+
+Nipigon District Memorial Hospital activated ransomware response and business-continuity procedures after its IT systems were disrupted and files were encrypted.
+
+### Operational effect
+
+The incident reached patient-facing service delivery.
+
+```text
+OUTPATIENT LABORATORY:
+🔴 TEMPORARILY UNAVAILABLE
+
+DIAGNOSTIC IMAGING:
+🔴 TEMPORARILY UNAVAILABLE
+
+MANUAL PROCEDURES:
+🟢 ACTIVATED
+
+OTHER HOSPITAL ACTIVITY:
+CONTINUING WITH DELAY RISK
+```
+
+### Attribution confidence
+
+```text
+RANSOMWARE:
+🟢 CONFIRMED
+
+SPECIFIC OPERATOR:
+⚪ OPEN
+
+STATE SPONSOR:
+⚪ OPEN
+
+IRAN CONNECTION:
+⚪ NO EVIDENCE FOUND
+```
+
+Financially motivated ransomware remains the leading explanation.
+
+### Pattern significance
+
+Nipigon strengthens the healthcare operational-disruption strand without strengthening Iranian attribution.
+
+Healthcare now contains repeated examples in which cyber incidents move beyond confidentiality loss into:
+
+```text
+appointment disruption
+ambulance diversion
+diagnostic unavailability
+manual fallback
+manufacturing / supply interruption
+```
+
+The mechanisms and operators remain heterogeneous.
+
+### Source
+
+- [TMC Insight — Nipigon District Memorial Hospital activates ransomware response](https://insight.tmcnet.com/insight/nipigon-district-memorial-hospital-activates-ransomware-response-mu52wwyh)
+
+---
+
+## 🚢 2026-09-18 onward — Vivit Africa LNG Systems Failure / Suspected Cyberattack
+
+### 🇮🇹 Italy / Mediterranean / transatlantic U.S.–European energy route
+
+### Event type
+
+Operational incident / suspected cyber cause.
+
+### Sector
+
+LNG transport / maritime operational technology.
+
+### What happened
+
+The **Vivit Africa LNG**, carrying U.S. gas towards Italy, suffered a systems failure after crew members lost access to some internal control systems.
+
+The crew reported the event as a suspected cyberattack.
+
+The Italian Coast Guard independently confirmed that the master reported a malfunction affecting systems used to monitor cargo parameters and that company technicians had to intervene.
+
+The Coast Guard did **not** determine that the cause was cyber.
+
+The vessel remained unable to complete its intended discharge at Rovigo and diverted west.
+
+### Operational effect
+
+```text
+CONTROL-SYSTEM / CARGO-MONITORING MALFUNCTION:
+🟢 CONFIRMED
+
+INTENDED LNG DISCHARGE:
+🟢 NOT COMPLETED
+
+VOYAGE DIVERSION:
+🟢 CONFIRMED
+
+CYBER CAUSATION:
+🟠 SUSPECTED
+
+ATTACKER:
+⚪ OPEN
+
+IRAN CONNECTION:
+⚪ OPEN / NO ATTRIBUTION
+```
+
+Later crew allegations described interference with steam pressure, safety valves, tank-pressure controls, pressure-relief valves and boil-off-gas management.
+
+Those allegations are potentially very significant.
+
+They remain **unverified**.
+
+### Rival explanation
+
+Ordinary equipment, automation or software failure remains a live explanation and cannot be displaced merely because genuine maritime cyber investigations are occurring elsewhere.
+
+### Pattern significance
+
+Vivit Africa is therefore a third energy-vessel event worth preserving beside the U.S. tanker investigations, but on a different evidentiary footing:
+
+```text
+VL PROSPERITY / KOHAKU:
+NETWORK COMPROMISE INDICATORS CONFIRMED BY US AUTHORITIES
+
+VIVIT AFRICA:
+OPERATIONAL CONTROL-SYSTEM FAILURE CONFIRMED
+CYBER CAUSE SUSPECTED BY CREW
+CYBER CAUSE NOT ESTABLISHED BY ITALIAN AUTHORITIES
+```
+
+The cluster is now strong enough to monitor as a maritime-energy-OT problem.
+
+It is not strong enough to attribute as one campaign.
+
+### Sources
+
+- [Bloomberg Law — Another tanker suffers failure as crew suspect cyber attack](https://news.bloomberglaw.com/tech-and-telecom-law/another-tanker-suffers-failure-as-crew-suspect-cyber-attack)
+- [Insurance Journal / Bloomberg — Vivit Africa LNG systems failure](https://www.insurancejournal.com/news/international/2026/09/18/885689.htm)
+
+---
+
+## 🏛️ 2026-09-21 — The U.S. Executive Has Acknowledged The Maritime Problem Without Attributing It To Iran
+
+### 🇺🇸 United States
+
+### Event type
+
+Attribution-governance update.
+
+### What changed
+
+The public U.S. position has moved beyond:
+
+```text
+UNVERIFIED REPORT OF A STRANGE TANKER EVENT
+```
+
+The executive branch has now acknowledged:
+
+```text
+INDICATIONS THAT TWO VESSEL NETWORKS WERE COMPROMISED
++
+FOREIGN-ACTOR CONCERN
++
+COAST GUARD AND FBI BOARDINGS
++
+CISA INVOLVEMENT
++
+DHS / FBI / COAST GUARD WIDER MONITORING
++
+NEARLY 20 VESSELS UNDER PARTICULAR CYBER-THREAT WATCH
+```
+
+What it has **not** publicly done is attribute those compromises to Iran.
+
+### Current public position
+
+```text
+GENUINE MARITIME CYBER PROBLEM:
+🟢 ACKNOWLEDGED
+
+IRAN AS INVESTIGATIVE HYPOTHESIS:
+🟠 ACKNOWLEDGED IN REPORTING
+
+FORMAL PUBLIC ATTRIBUTION TO IRAN:
+⚪ NOT ESTABLISHED
+
+WIDER NEARLY-20-VESSEL POPULATION SHARES ONE ACTOR:
+⚪ NOT ESTABLISHED
+```
+
+That distinction matters.
+
+The public record is no longer well described as:
+
+> America says it is unrelated.
+
+It is better described as:
+
+> **America acknowledges a real foreign maritime cyber problem, is investigating an Iranian connection in at least part of it, and has not crossed the public attribution threshold.**
+
+---
+
+## 🧭 Pattern Shift By 21 September 2026
+
+The post-14-September record adds two particularly important layers.
+
+### 1. Maritime energy transport is now a separate watch object
+
+The strongest Iran-facing / wartime infrastructure sequence now includes:
+
+```text
+US water OT
+→ UK electricity generation
+→ reported US energy + telecom targeting
+→ naval technical reconnaissance
+→ confirmed vessel-network compromises
+→ nearly 20 vessels under US cyber-threat watch
+→ separate LNG control-system failure under cyber investigation
+```
+
+The maritime evidence is **not** yet equivalent to the water evidence.
+
+But it is no longer reasonable to treat each vessel as an isolated curiosity.
+
+### 2. The control layer remains more informative than the headline outage
+
+Colorado again demonstrates that a small incident can be technically deep:
+
+```text
+tiny utility
+→ alarms disabled
+→ remote access disabled
+→ pump cycles changed
+→ no public water outage
+```
+
+CenterPoint demonstrates the inverse:
+
+```text
+major utility
+→ confirmed compromise
+→ customer data stolen
+→ energy delivery untouched
+```
+
+Therefore:
+
+```text
+SIZE OF ORGANISATION
+≠
+DEPTH OF COMPROMISE
+
+AND
+
+HEADLINE OUTAGE SIZE
+≠
+TECHNICAL SIGNIFICANCE
+```
+
+### 3. Maritime attribution now has an executive-governance track of its own
+
+The tanker investigation has developed the same methodological requirement already visible in the water campaign:
+
+```text
+WHAT INVESTIGATORS ARE EXAMINING
+≠
+WHAT INTELLIGENCE MAY ASSESS
+≠
+WHAT THE EXECUTIVE PUBLICLY ACKNOWLEDGES
+≠
+WHAT THE GOVERNMENT FORMALLY ATTRIBUTES
+```
+
+Those stages should remain separately timestamped.
+
+### 4. The mixed-ecosystem warning has become stronger, not weaker
+
+CenterPoint and Nipigon are real essential-sector incidents with no positive Iran evidence.
+
+Vivit Africa may still prove to be equipment failure.
+
+Colorado may belong to the Iran-linked water wave or may represent another foreign operator exploiting the same exposed environment.
+
+So:
+
+```text
+MORE CLUSTERING
+→ MORE REASON TO INVESTIGATE RELATIONSHIPS
+
+BUT
+
+MORE ACTOR DENSITY
+→ HIGHER ATTRIBUTION BAR
+```
+
+Both propositions can be true simultaneously.
+
+
 ## 🌌 Constellations
 
 ⏱️ 🕸️ 🚰 🧬 🤖 — chronology; attribution; operational technology; overlapping threat ecosystems; AI-assisted capability diffusion.
@@ -3180,4 +3800,4 @@ It provides the chronological evidentiary spine for the *🇮🇷 Data Wars: IRG
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-14_
+_Last updated: 2026-09-21_
