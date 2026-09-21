@@ -1,0 +1,15 @@
+some clean up to do:
+
+👾_Debugging_The_Men
+│
+├── 🦾_Future_MDT_Working
+│   └── first establish the constructive proposition:
+│       what would a better multidisciplinary system actually need to do?
+│
+├── 🧬_Further_Potential_Male_Nonsense
+│   └── brief diagnostic detour:
+│       okay, but what are the emerging / insufficiently integrated
+│       threat surfaces that such a system would need to notice?
+│
+└── 🦾_Future_MDT_Working
+    └── return with the threat model sharpened and actually design the thing
