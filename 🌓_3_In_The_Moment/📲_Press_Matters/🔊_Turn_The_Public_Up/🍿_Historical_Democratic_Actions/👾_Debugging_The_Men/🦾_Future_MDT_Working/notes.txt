@@ -1,1 +1,409 @@
 🦾_Future_MDT_Working
+
+# 🦾 Future MDT Working — Notes
+
+**Working status:** scratch notes / future branch  
+**Core question:** What would better multidisciplinary working allow us to notice, connect, test and respond to earlier — without turning information-sharing into indiscriminate surveillance or hindsight mythology?
+
+---
+
+## 🧭 Starting position: this is not “nobody did anything”
+
+The useful retrospective argument is not:
+
+> Nobody responded to GamerGate / networked misogyny / online harassment.
+
+There were responses.
+
+Law enforcement investigated threats. Platforms changed policies and moderation systems. Feminists, journalists, researchers and affected communities documented what was happening. Security institutions dealt with conduct falling within their remits. Technology companies developed abuse, integrity and trust-and-safety functions.
+
+The more interesting question is:
+
+> **Did different institutions learn different pieces of a larger phenomenon without yet possessing the shared cultural or analytical category required to put those pieces together?**
+
+That is a Long Fuse problem.
+
+The acute harms could be visible while the longitudinal significance remained unclear.
+
+Do not backdate 2026 knowledge into 2014.
+
+---
+
+## 🧩 The cultural aggregation gap
+
+Information-sharing problems are not exclusively database problems.
+
+They can also concern:
+
+- what humans regard as salient;
+- which observations count as serious;
+- which professional discipline “owns” a problem;
+- which populations are treated as useful sensors;
+- which similarities are considered meaningful;
+- what gets retained when nobody yet knows what category it belongs to;
+- what evidence is permitted to travel between professional communities;
+- and when several apparently separate problems become comparable enough to justify investigation.
+
+A system can therefore improve technical interoperability while retaining **cultural interoperability problems**.
+
+The computer can theoretically join A to B.
+
+Humans still have to recognise that A and B might belong in the same question.
+
+---
+
+## 🕯️ The 9/11 information-sharing lesson — without abusing the analogy
+
+Twenty-five years after 9/11, there is an established institutional history concerning fragmented information, different organisational missions, technical barriers, legal constraints, professional cultures and failures to aggregate information across organisational boundaries.
+
+This is **not** an argument that GamerGate was analogous in severity, purpose or kind to al-Qaeda.
+
+The reusable question is narrower:
+
+> **How does a complex state learn to know what its constituent parts collectively know?**
+
+The 9/11 Commission explicitly treated information-sharing difficulties as simultaneously technological, organisational, legal and cultural.
+
+That remains a useful systems-design problem well beyond counterterrorism.
+
+---
+
+## 🏠 Internal security ≠ 🌍 foreign intelligence ≠ 🪖 defence ≠ 👮 law enforcement
+
+Do not collapse the security ecosystem into “the security services”.
+
+Different organisations have different:
+
+- jurisdictions;
+- legal authorities;
+- evidential thresholds;
+- geographical orientations;
+- operational purposes;
+- data holdings;
+- professional cultures;
+- definitions of success.
+
+A criminal threat may properly appear first as a law-enforcement problem.
+
+A domestic network may later intersect with national-security concerns.
+
+An apparently domestic information phenomenon may acquire transnational participants, infrastructure, financing, narratives or strategic exploitation.
+
+A defence institution may encounter the same information environment from an entirely different direction.
+
+### MDT question
+
+**What mechanisms allow those different observations to become comparable without erasing the legal and institutional boundaries that exist for good reasons?**
+
+---
+
+## 🧨 GamerGate and the Long Fuse
+
+Avoid:
+
+> GamerGate caused contemporary democratic instability.
+
+Avoid:
+
+> Everybody should have known what GamerGate would become.
+
+Instead investigate:
+
+> GamerGate may provide an unusually useful historical observation point for studying tactics, communities, platform affordances, grievance formation, gendered harassment and information-network behaviour whose significance became easier to evaluate as later events accumulated.
+
+At the time, observers could reasonably classify different pieces as:
+
+- threats and criminal harassment;
+- misogyny;
+- gaming/community conflict;
+- media criticism;
+- trolling;
+- platform abuse;
+- anti-feminist politics;
+- emerging ideological communities;
+- internet subculture;
+- disinformation/manipulation techniques;
+- ordinary shitposting;
+- combinations of the above.
+
+The absence of one agreed category matters.
+
+**Cultural uncertainty can itself produce information fragmentation.**
+
+---
+
+## 🕸️ Misogyny as one exploitable surface among several
+
+Do not require every participant to be primarily motivated by misogyny.
+
+Instead ask whether gender grievance can function as:
+
+- an entry point;
+- identity glue;
+- recruitment vocabulary;
+- status competition;
+- target-selection mechanism;
+- harassment repertoire;
+- community boundary;
+- political mobilisation tool;
+- monetisable attention;
+- or a bridge into adjacent grievance ecosystems.
+
+Then compare cautiously with other contested social fault lines.
+
+Race, migration, religion, sexuality, trans rights, class, regional identity and other civil-rights conflicts can also provide emotionally powerful material around which political and commercial actors compete.
+
+The analytical object is not:
+
+> “DEI caused extremism.”
+
+It is:
+
+> **Social cleavages are exploitable surfaces in an information environment.**
+
+That makes the question relevant to democratic resilience as well as equality policy.
+
+NATO now explicitly treats hostile manipulation of gender narratives as capable of contributing to information threats intended to divide and destabilise societies.
+
+---
+
+## 🧯 Harm reduction rather than retrospective blame
+
+A useful MDT should not begin with:
+
+> Which institution fucked up?
+
+Begin with:
+
+> **Given what each institution could reasonably know at the time, what would make the next weakly categorised phenomenon easier to retain, compare and reassess?**
+
+Possible design questions:
+
+- How do we preserve weak signals without treating them as proven threats?
+- How do we record uncertainty?
+- How do analysts revisit previously low-salience information when circumstances change?
+- How can outside researchers and affected communities contribute observations safely?
+- What information should *not* be integrated?
+- How are privacy, proportionality and civil liberties protected?
+- Who can challenge an erroneous connection?
+- How do we distinguish correlation, convergence, exploitation and coordination?
+- How do findings move between feminism/VAWG, policing, security, defence, academia and technology?
+
+---
+
+## 👩‍💻 Silicon Valley: the girls were also an information source
+
+Women-in-STEM initiatives commonly frame the problem through:
+
+- recruitment;
+- retention;
+- discrimination;
+- harassment;
+- leadership;
+- pay;
+- representation.
+
+Keep all of that.
+
+But add another question:
+
+> **What knowledge about products, communities and information environments was lost when women had weaker participation, weaker cultural authority or simply found particular technical spaces unpleasant to inhabit?**
+
+This is not only an employment-equity question.
+
+It may also be a **product-design and systems-observability question**.
+
+Women and female-heavy online cultures accumulated practical knowledge about:
+
+- community formation;
+- moderation;
+- harassment;
+- pseudonymity;
+- archives;
+- tagging and discoverability;
+- participatory culture;
+- collective interpretation;
+- reputation;
+- remix;
+- parasociality;
+- volunteer organisation;
+- networked creativity;
+- and extremely committed fandom.
+
+Respectfully:
+
+> **Y'all could have had female fans.**
+
+---
+
+## 💅 The Thirst & Edits Counterfactual
+
+This is deliberately funny, but the underlying question is real.
+
+Suppose technology culture had developed a substantially warmer relationship with female consumers and participatory female cultures during the 2010s.
+
+Not:
+
+> Would sexism disappear?
+
+Obviously not.
+
+Ask:
+
+> **How might a different participatory culture have altered products, markets, recruitment, community norms, public legitimacy and technology's relationship with consumers?**
+
+There was another possible relationship:
+
+cool technical thing  
+→ people become emotionally invested  
+→ community  
+→ interpretation  
+→ edits / art / jokes / archives / lore  
+→ voluntary cultural production  
+→ more people encounter the technology  
+→ some become technically curious  
+→ some enter the industry  
+→ community reproduces itself
+
+### 🙄 Respectfully, lads
+
+Before constructing the metaverse, perhaps investigate whether the customers would simply have enjoyed:
+
+**a shiny technical thing + some lore + a pleasant community + one engineer they consider inexplicably hot.**
+
+The girls have demonstrated considerable capacity to work with less.
+
+---
+
+## 💷 But would this actually be better?
+
+Do not allow the joke to become an uncomplicated capitalist success story.
+
+A thriving fandom around technology could produce:
+
+### Potential benefits
+
+- greater participation;
+- technical literacy;
+- recruitment;
+- stronger communities;
+- creative production;
+- consumer feedback;
+- international cultural exchange;
+- broader identification with technical work.
+
+### Potential harms
+
+- parasocial exploitation;
+- commodification of intimacy;
+- unpaid fan labour;
+- consumer manipulation;
+- harassment;
+- obsessive status hierarchies;
+- monetisation of belonging;
+- corporate capture of grassroots culture;
+- increased power for already-powerful firms.
+
+Therefore examine it from both:
+
+**capitalist lens:**  
+Could better community relations have produced enormous economic value?
+
+and
+
+**anti-capitalist lens:**  
+Who would have captured the value created by people's attachment, creativity and unpaid cultural labour?
+
+Then:
+
+**harm-reduction lens:**  
+Regardless of economic system, are participatory cultures built around curiosity, creativity and mutual attachment preferable to ecosystems whose principal engagement mechanism is grievance?
+
+That is an empirical and normative question, not something to assume.
+
+---
+
+## 🤖 Computer God vs The Fucking Admin
+
+Keep the technological ambition.
+
+Question its allocation.
+
+We can increasingly build machines capable of finding relationships across enormous information spaces.
+
+Citizens can simultaneously encounter public systems in which:
+
+- records cannot be found;
+- departments cannot communicate;
+- the same evidence must repeatedly be supplied;
+- institutional memory disappears;
+- errors propagate;
+- correction mechanisms are obscure;
+- and nobody can establish what the organisation collectively knows.
+
+The MDT question therefore isn't:
+
+> Should AI run government?
+
+It is:
+
+> **Can modern computation help institutions become better at remembering, routing, comparing and correcting information while humans retain responsibility for meaning, rights, proportionality and decisions?**
+
+Or:
+
+> America, congratulations on Computer God.
+
+> **Can it please help with the admin?**
+
+---
+
+## 🦾 Future MDT Working
+
+Possible participants eventually worth considering:
+
+feminism / VAWG  
+↔ survivor expertise  
+↔ safeguarding  
+↔ policing  
+↔ domestic security  
+↔ foreign intelligence  
+↔ defence  
+↔ democratic resilience  
+↔ extremism research  
+↔ platform trust & safety  
+↔ security engineering  
+↔ social science  
+↔ fandom / community research  
+↔ public administration  
+↔ data governance  
+↔ AI / computational systems  
+↔ civil liberties / privacy  
+↔ economics
+
+The point is not putting everybody into one enormous meeting.
+
+The point is designing **interfaces between different forms of knowledge**.
+
+---
+
+## 🪿 Working proposition
+
+The Long Fuse may not primarily demonstrate that institutions failed to care.
+
+It may demonstrate something more reusable:
+
+> **Societies are bad at integrating observations that arrive before they possess a shared cultural category explaining why those observations belong together.**
+
+Technology can help with information integration.
+
+Law can establish permissions and limits.
+
+Institutions can establish routing and escalation.
+
+But humans still determine what appears salient enough to compare.
+
+Future MDT working therefore needs to treat **cultural interoperability as part of information infrastructure**.
+
+And, regrettably, somebody should probably invite the girls this time.
+
+They have notes.
