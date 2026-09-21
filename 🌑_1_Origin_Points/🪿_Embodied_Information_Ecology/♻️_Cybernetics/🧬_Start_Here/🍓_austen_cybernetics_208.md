@@ -156,7 +156,7 @@ I should not interfere
 I should help where appropriate
 ```
 
-# WINGMAN ANNE: ENABLED. 🫡
+### WINGMAN ANNE: ENABLED. 🫡
 
 Wentworth, meanwhile, is behaving around Louisa while still carrying his unresolved Anne-model.
 
@@ -213,7 +213,7 @@ unhappy about Anne's absence for eight and a half years.
 
 Anne:
 
-# FREDERICK WENTWORTH I HAVE BEEN PERFORMING MARTYRDOM UNDER FALSE PREMISES.
+### FREDERICK WENTWORTH I HAVE BEEN PERFORMING MARTYRDOM UNDER FALSE PREMISES.
 
 This is not merely new information about the present.
 
@@ -257,7 +257,7 @@ New information has entered the system and altered the meaning of information al
 
 Wingman Anne, on receiving the patch:
 
-# I AM NOT SUFFERING YOU DOING ANOTHER LOUISA.
+### I AM NOT SUFFERING YOU DOING ANOTHER LOUISA.
 
 ---
 
@@ -292,7 +292,7 @@ Then Anne supplies one sufficiently high-confidence positive signal.
 
 Wentworth:
 
-# WHERE IS MY FUCKING INK.
+### WHERE IS MY FUCKING INK.
 
 Suddenly Captain Spreadsheet produces:
 
@@ -352,7 +352,7 @@ NO DATA DETECTED
 
 And now:
 
-# OH SO YOU CAN DO GIRL INTERNET.
+### OH SO YOU CAN DO GIRL INTERNET.
 
 He is integrating tone, context, argument, memory, behaviour and eight years of relational history.
 
@@ -514,7 +514,7 @@ still hot, unfortunately
 
 Then the letter arrives.
 
-# ARCHIVED WENTWORTH IS SPEAKING AGAIN.
+### ARCHIVED WENTWORTH IS SPEAKING AGAIN.
 
 This is not regression.
 
@@ -534,7 +534,7 @@ Catastrophically.
 
 Inconstant?
 
-# ABSOLUTELY FUCKING NOT.
+### ABSOLUTELY FUCKING NOT.
 
 He has changed.
 
@@ -612,7 +612,7 @@ And therefore:
 
 Anne being persuaded may not have proved what Wentworth spent eight years believing it proved either.
 
-# BRO HAS DISCOVERED THERE ARE OTHER STATS.
+### BRO HAS DISCOVERED THERE ARE OTHER STATS.
 
 ---
 
@@ -702,7 +702,7 @@ And she can still retain final authority over her own judgement.
 
 Or, more simply:
 
-# I AM ALSO PART OF THE FUCKING CONTEXT.
+### I AM ALSO PART OF THE FUCKING CONTEXT.
 
 That is the difference between receptiveness and governability.
 
@@ -785,7 +785,7 @@ It is:
 
 > **capable of recognising which lines protect another person’s agency and which conventions are currently obstructing truthful communication.**
 
-# KEEP THE CANNON. IMPROVE FIRE CONTROL.
+### KEEP THE CANNON. IMPROVE FIRE CONTROL.
 
 The same applies to Anne.
 
@@ -893,7 +893,7 @@ Mr Elliot:
 
 Anne:
 
-# FUCK. THIS.
+### FUCK. THIS.
 
 His model can be accurate about Anne’s capacities while still being organised around **what those capacities can do for him**.
 
@@ -901,7 +901,7 @@ That is the difference between modelling a person and caring about the person be
 
 Anne has spent enough of the novel functioning as everybody else’s maintenance layer.
 
-# THE DUSTING DUTIES HAVE BEEN DECLINED.
+### THE DUSTING DUTIES HAVE BEEN DECLINED.
 
 Sir Walter: family requirements—
 
@@ -998,7 +998,7 @@ There is a future she wants.
 
 She has enough information.
 
-# SHE FUCKING GOES.
+### SHE FUCKING GOES.
 
 ---
 
@@ -1045,9 +1045,9 @@ CANNOT STAY FUCKING STILL
 FEELING BECOMES MOVEMENT
 ```
 
-# SO HE CAN’T WRITE AND SHE CAN’T STAY STILL.
+### SO HE CAN’T WRITE AND SHE CAN’T STAY STILL.
 
-# WELCOME TO TRANSGRESSION VIA EMBODIED INFORMATION ANALYSIS, GUYS.
+### WELCOME TO TRANSGRESSION VIA EMBODIED INFORMATION ANALYSIS, GUYS.
 
 Wentworth has spent the novel constraining disclosure.
 
@@ -1117,7 +1117,7 @@ Jane Austen, quietly sliding a document across the table:
 
 Cultural afterlife:
 
-# 🥵🥵🥵🥵🥵🥵🥵🥵
+### 🥵🥵🥵🥵🥵🥵🥵🥵
 
 The apparently respectable object has spent two centuries carrying an extraordinary concentration of desire, constancy, female judgement, male vulnerability, social disruption and romantic initiative.
 
@@ -1164,7 +1164,7 @@ It is:
 
 The drawing room is not outside the system.
 
-# MY BROTHER IN CHRIST, THE PROPERTY SETTLEMENT IS HAPPENING IN THE DRAWING ROOM.
+### MY BROTHER IN CHRIST, THE PROPERTY SETTLEMENT IS HAPPENING IN THE DRAWING ROOM.
 
 And sometimes a socially respectable literary form becomes an unusually durable transport layer for observations about power.
 
@@ -1180,7 +1180,7 @@ Possibly.
 
 The more useful question is:
 
-# WHAT DID TRAUMA NURSE ANNE DO TO YOUR MODEL?
+### WHAT DID TRAUMA NURSE ANNE DO TO YOUR MODEL?
 
 At Lyme, ordinary social scripts collapse.
 
@@ -1231,7 +1231,7 @@ Or did you decide that preserving the original grievance was more important than
 
 Because only one of those trajectories eventually reaches:
 
-# WHERE IS MY FUCKING INK.
+### WHERE IS MY FUCKING INK.
 
 Being wrong about somebody is not the terminal failure.
 
@@ -1245,21 +1245,23 @@ HERE.
 
 HAVE SOME CONTEXT.
 
-This section is not an assertion that British women form one timeless communications species.
+Not because British women form one timeless communications species, and not because indirectness is somehow biologically installed somewhere near the kettle.
 
-It is a warning against diagnosing another population’s signalling as deficient before examining the environment in which that signalling developed.
+The useful question is environmental:
 
-If a communicative environment strongly rewards:
+> **What kinds of signalling become adaptive when a social environment places a high value on restraint, contextual sensitivity, reputation, relational awareness, not imposing, and maintaining composure while carrying substantial internal state?**
 
-- restraint;
-- contextual sensitivity;
-- reputation management;
-- not imposing;
-- relational awareness;
-- indirectness under hierarchy;
-- maintaining composure while carrying substantial internal state;
+In that environment, information may be transmitted through channels that look faint to an observer trained to privilege explicit declaration.
 
-then an observer accustomed to explicit, low-context signalling may systematically underestimate how much information is actually being transmitted.
+That observer can then make a category error:
+
+```text
+I did not receive the signal
+        ↓
+there was no signal
+```
+
+Those are not the same proposition.
 
 Anne is not information-poor.
 
@@ -1267,22 +1269,19 @@ Anne is not information-poor.
 
 Wentworth spends a substantial part of the novel with the wrong decoder.
 
-North American reader:
+A reader accustomed to more explicit signalling may therefore arrive at a perfectly reasonable question:
 
-> Why doesn’t the sensor output in my preferred format?
+> Why doesn’t she just say what she means?
 
-Britain:
+And *Persuasion* can answer with a more useful one:
 
-> **Have you tried learning what the fucking sensor is telling you?**
+> **What would “just saying it” mean inside this particular social system, for this particular woman, at this particular moment?**
 
-Plausible deniability note:
+The point is not that every subtle signal should be treated as secretly decisive. Ambiguity remains ambiguity. Context does not manufacture consent, certainty or knowledge that is not there.
 
-There is, obviously, no conceivable contemporary pedagogical reason for including this section.
+It does, however, change what an attentive observer knows to look for.
 
-This is a serious educational resource concerning observer-dependent information.
-
-🥺
-
+Which is perhaps enough context for the moment.
 ---
 
 ## 🕸️ 23. How Do the Girlies Know?
@@ -1315,7 +1314,7 @@ How much is national literary culture and how much is particular readership?
 
 This is not an annoying methodological footnote.
 
-# THIS IS THE FUCKING EXERCISE.
+### THIS IS THE FUCKING EXERCISE.
 
 A culturally knowledgeable observer may be correctly noticing that an apparently ordinary text carries much more information inside a particular population than an outsider’s model predicts.
 
@@ -1509,7 +1508,7 @@ Systems reader:
 
 Austen reader:
 
-# FREDERICK WENTWORTH I HAVE BEEN PERFORMING MARTYRDOM UNDER FALSE PREMISES.
+### FREDERICK WENTWORTH I HAVE BEEN PERFORMING MARTYRDOM UNDER FALSE PREMISES.
 
 Neither vocabulary is stupid.
 
@@ -1519,7 +1518,7 @@ The point is not to convert Austen readers into defence analysts or defence anal
 
 It is to notice when two specialist communities have been describing some of the same fucking information problems.
 
-# WAIT, YOU HAVE A WORD FOR MY THING?
+### WAIT, YOU HAVE A WORD FOR MY THING?
 
 Exchange dictionaries immediately.
 
@@ -1579,7 +1578,7 @@ Sometimes it is in lived experience.
 
 Sometimes it is in a community that has spent two hundred years going:
 
-# 🥵
+### 🥵
 
 at the same fucking letter.
 
@@ -1622,7 +1621,7 @@ ENOUGH
 
 After eight years of disastrous inference:
 
-# ONE RELIABLE FUCKING BIT.
+### ONE RELIABLE FUCKING BIT.
 
 And the structure of the request matters.
 
@@ -1694,7 +1693,7 @@ EACH OTHER
 
 So:
 
-# I CANNOT BE A SAINT ANY LONGER.
+### I CANNOT BE A SAINT ANY LONGER.
 
 This is not selfishness.
 
@@ -1828,3 +1827,5 @@ It uses one information-dense communication event in *Persuasion* to examine how
 *Survivor authorship is sovereign. Containment is never neutral.*
 
 _Last updated: 2026-09-21_
+
+<!--Fucking robot.-—>
