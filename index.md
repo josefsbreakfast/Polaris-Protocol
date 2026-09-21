@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-21 18:12:27 UTC_
+_Generated on 2026-09-21 18:48:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -914,6 +914,7 @@ _Generated on 2026-09-21 18:12:27 UTC_
         - [`🍓_austen_cybernetics_205.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Start_Here/🍓_austen_cybernetics_205.md)
         - [`🍓_austen_cybernetics_206.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Start_Here/🍓_austen_cybernetics_206.md)
         - [`🍓_austen_cybernetics_207.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Start_Here/🍓_austen_cybernetics_207.md)
+        - [`🍓_austen_cybernetics_208.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Start_Here/🍓_austen_cybernetics_208.md)
         - [`🪭_austen_cybernetics_101.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Start_Here/🪭_austen_cybernetics_101.md)
         - [`🪭_austen_cybernetics_102.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Start_Here/🪭_austen_cybernetics_102.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
