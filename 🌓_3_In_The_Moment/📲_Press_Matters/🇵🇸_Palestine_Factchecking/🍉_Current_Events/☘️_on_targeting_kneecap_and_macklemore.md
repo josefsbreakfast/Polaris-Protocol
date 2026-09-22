@@ -10,6 +10,12 @@ I’ve tried to show eg rebel song influence without including any express jokes
 
 I wish we could more strongly advocate self determination, not just when it’s comfortable and knowable and easy.  
 
+Essentially: it should be very clear that I’m not advocating violent solutions, but I try to understand why they are there, and why some people feel they are the only solutions they can use reliably.  
+
+The fact I feel so much self-censure in doing this as a piece of work, and how much emotional consternation is going into this essay, is not out of range of similar people in the isles, no matter what your story, your affiliation, your politics.  
+
+We have never really had the acknowledgement process in public in full, it’s still not fully resolved and that is felt differently based on people’s experiences and family and stories and backgrounds.  
+
 ---
 
 ## 🛰️ Orientation
