@@ -1,5 +1,5 @@
 # 🦊 Cousin, We Have Ideas
-**First created:** 2026-09-20 | **Last updated:** 2026-09-20  
+**First created:** 2026-09-20 | **Last updated:** 2026-09-22  
 *AI governance may not need a world regulator so much as competent enforcement, international translation, shared interfaces, and several people agreeing to stop making the admin worse.*
 
 ---
@@ -2019,6 +2019,11 @@ Just the recognition that everybody is becoming sufficiently inconvenienced by t
 
 🦊 🕸️ 🪿 📏 🧿 — international regulatory interfaces, distributed governance, enforcement capacity, technical translation, reciprocal assurance and the administrative ecology required to make disagreement operable.
 
+*Follow the evidence:*  
+
+- [📹: Mission of China to the EU: “At the invitation of President Donald J.
+Trump, President Xi Jinping will soon pay a state visit to the United States.”](https://vm.tiktok.com/ZN8M6pEN7/) – *prob a good idea tbf*  
+
 ---
 
 ## ✨ Stardust
@@ -2078,4 +2083,4 @@ The fox is a satirical analytical device. The paperwork is unfortunately real.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-20_
+_Last updated: 2026-09-22_
