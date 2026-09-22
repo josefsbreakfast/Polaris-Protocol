@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-22 16:49:49 UTC_
+_Generated on 2026-09-22 23:42:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -916,6 +916,7 @@ _Generated on 2026-09-22 16:49:49 UTC_
         - [`🍓_austen_cybernetics_208.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Start_Here/🍓_austen_cybernetics_208.md)
         - [`🪭_austen_cybernetics_101.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Start_Here/🪭_austen_cybernetics_101.md)
         - [`🪭_austen_cybernetics_102.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Start_Here/🪭_austen_cybernetics_102.md)
+        - [`🪭_austen_cybernetics_103.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧬_Start_Here/🪭_austen_cybernetics_103.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/README.md)
       - [`🌀_absorption_and_selective_sacrifice.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🌀_absorption_and_selective_sacrifice.md)
       - [`🌙_draining_the_high_priestess.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🌙_draining_the_high_priestess.md)
