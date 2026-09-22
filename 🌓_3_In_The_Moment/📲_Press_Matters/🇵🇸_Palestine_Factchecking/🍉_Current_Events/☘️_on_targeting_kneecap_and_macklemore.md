@@ -1,6 +1,14 @@
 # ☘️ On Targeting Kneecap And Macklemore  
 **First created:** 2026-09-19 | **Last updated:** 2026-09-20  
-*Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*
+*Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*  
+
+---
+
+*[☘️🎶 Musical accompaniment in progress.](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=lpgDs3KiSAa_TisY92wD5w&utm_source=copy-link&pi=6p2EWp2DTL297) I’m sorry it’s Spotify; I still haven’t sorted my music platforms.*  
+
+I’ve tried to show eg rebel song influence without including any express jokes or references that may be too far for the likely audience. If I’ve let things in, I apologise. Kinky boots was deliberate, obviously, with the hope that with hindsight the humour may travel. No one finds any of the history easy; if you’re international, please don’t assume we’re all chill about this, and this remains a live political flashpoint. it’s just very hard to talk about Irish influence on anglophone music and *not* mention politics. A range of pains are displayed on purpose, in any reference to The Troubles. It’s not my border and I don’t live on the land most directly impacted.  
+
+I wish we could more strongly advocate self determination, not just when it’s comfortable and knowable and easy.  
 
 ---
 
