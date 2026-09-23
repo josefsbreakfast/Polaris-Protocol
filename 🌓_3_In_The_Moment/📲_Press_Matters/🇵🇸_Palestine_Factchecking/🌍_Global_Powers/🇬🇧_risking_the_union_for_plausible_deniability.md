@@ -9,3 +9,5 @@ If you think about it, that is pretty interesting.
 but also stuff like this is contradictory to devolution, which is a big part of the argument: https://www.resultsense.com/insights/2026-09-23-tbi-ai-enabled-state-uk-delivery-record/
 
 there’s a lot of arrows in the diagram.
+
+I just think, from a man who brags about being the architect of the gfa, being this flippant about the cohesion of union power is some wild shit.  
