@@ -1,5 +1,5 @@
 # 🦊 Cousin, We Have Ideas
-**First created:** 2026-09-20 | **Last updated:** 2026-09-22  
+**First created:** 2026-09-20 | **Last updated:** 2026-09-23  
 *AI governance may not need a world regulator so much as competent enforcement, international translation, shared interfaces, and several people agreeing to stop making the admin worse.*
 
 ---
@@ -2022,7 +2022,8 @@ Just the recognition that everybody is becoming sufficiently inconvenienced by t
 *Follow the evidence:*  
 
 - [📹: Mission of China to the EU: “At the invitation of President Donald J.
-Trump, President Xi Jinping will soon pay a state visit to the United States.”](https://vm.tiktok.com/ZN8M6pEN7/) – *prob a good idea tbf*  
+Trump, President Xi Jinping will soon pay a state visit to the United States.”](https://vm.tiktok.com/ZN8M6pEN7/) – *prob a good idea tbf*
+- [📹: TRIP, via TikTok: “Al CEOs hiring Al lawyers and donating money to (human) politicians to lobby for Al rights. A frightening future prospect by Yuval Noah Harari.”](https://vm.tiktok.com/ZN8MVqGa7/) – *when you accidentally make a robotic proletariat*  
 
 ---
 
@@ -2083,4 +2084,4 @@ The fox is a satirical analytical device. The paperwork is unfortunately real.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-22_
+_Last updated: 2026-09-23_
