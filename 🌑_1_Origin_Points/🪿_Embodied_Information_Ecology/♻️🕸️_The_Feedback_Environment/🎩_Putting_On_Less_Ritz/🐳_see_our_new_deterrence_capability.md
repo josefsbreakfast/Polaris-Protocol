@@ -2015,7 +2015,7 @@ Cousin.
 *Please ensure Tony receives appropriate coin during maintenance.*
 ---
 
-## 🚨 COBRA: Emergency Meeting On American Market Entry
+## 🚨 COBR: Emergency Meeting On American Market Entry
 
 Unfortunately, the situation has escalated.
 
@@ -2236,7 +2236,7 @@ MORE QUESTIONS
 USER RETENTION
 ```
 
-COBRA falls silent.
+COBR falls silent.
 
 The Cabinet Secretary looks at the graph.
 
@@ -2329,11 +2329,11 @@ Silicon Valley:
 
 Britain:
 
-> **COBRA. NOW.**
+> **COBR. NOW.**
 
 ---
 
-### 🧑‍💼 COBRA Agenda
+### 🐍 COBR Agenda
 
 ```text
 CABINET OFFICE BRIEFING
@@ -2552,7 +2552,7 @@ We have Wodehouse depth.
 
 And we have absolutely no intention of abandoning the industrial strategy merely because the Americans have discovered **they also possess men**.
 
-COBRA therefore resolves:
+COBR therefore resolves:
 
 > **FIND THE CABLE.**
 
