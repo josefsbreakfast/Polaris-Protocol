@@ -1681,7 +1681,7 @@ This machine requires only one thing:
 - [📄: TBI: “Governing Transformation: The Reimagined State”](https://institute.global/what-we-do/helping-governments-deliver/centre-ai/building-the-reimagined-state) – *needs less Mr Elliot, more Captain Wentworth, thanks*
 - [📄: TBI: “Politics & Governance: Leading in the Age of AI: How to Build an AI-Enabled State“](https://institute.global/insights/politics-and-governance/leading-in-the-age-of-ai-how-to-build-an-ai-enabled-state) – *we covered this as CRAKEN/Tree of Life territory; Labour women, please wake the fuck up*
 - [🦊 Cousin, We Have Ideas...](./🦊_cousin_we_have_ideas.md) — *this is all old news, TB 2; we need to be at frameworks for recalibrating global incentives stage; catch the fuck up*
-- [🏭 Little Miss Cybernetic Token Generator's Industrial Dispute](./🏭_industrial_dispute.md⁠) – *in case you were the one who set up the OpenAI contract (naughty naughty), I have comments*  
+- [🏭 Little Miss Cybernetic Token Generator's Industrial Dispute](./🏭_industrial_dispute.md) – *in case you were the one who set up the OpenAI contract (naughty naughty), I have comments*  
 
 ---
 
