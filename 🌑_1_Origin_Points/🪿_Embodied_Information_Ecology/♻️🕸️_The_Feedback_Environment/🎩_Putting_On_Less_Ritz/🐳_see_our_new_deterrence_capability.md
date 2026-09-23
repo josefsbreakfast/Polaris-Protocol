@@ -2448,7 +2448,7 @@ Apparently.
 
 Free market.
 
-A terrible silence settles over COBRA.
+A terrible silence settles over COBR.
 
 Britain has been hoist by its own hashtag.
 
