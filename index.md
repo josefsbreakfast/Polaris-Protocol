@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-23 18:42:15 UTC_
+_Generated on 2026-09-23 18:49:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3574,8 +3574,10 @@ _Generated on 2026-09-23 18:42:15 UTC_
       - [`notes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/notes.md)
     - [**🌊_Playing_Defence/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/)
       - [**✈️_Keep_Shiny_Toys_Safe/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/)
-        - [`nato_aviation_safety_events_2026-02-28_to_2026-09-23.csv`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/nato_aviation_safety_events_2026-02-28_to_2026-09-23.csv)
-        - [`nato_aviation_safety_events_2026-02-28_to_2026-09-23.xlsx`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/nato_aviation_safety_events_2026-02-28_to_2026-09-23.xlsx)
+        - [**data/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/data/)
+          - [`nato_aviation_resilience_10yr_baseline_working_v0_1.xlsx`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/data/nato_aviation_resilience_10yr_baseline_working_v0_1.xlsx)
+          - [`nato_aviation_safety_events_2026-02-28_to_2026-09-23.csv`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/data/nato_aviation_safety_events_2026-02-28_to_2026-09-23.csv)
+          - [`nato_aviation_safety_events_2026-02-28_to_2026-09-23.xlsx`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/data/nato_aviation_safety_events_2026-02-28_to_2026-09-23.xlsx)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/notes.txt)
       - [**✈️_World_War_Epstein/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/README.md)
