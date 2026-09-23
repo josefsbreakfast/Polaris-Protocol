@@ -1,6 +1,6 @@
 # 🐳 See: Our New Deterrence Capability!  
-**First created:** 2026-09-17 | **Last updated:** 2026-09-23  
-*A wholly unserious British deterrence proposal for when ordinary burden-sharing has failed and America must instead assume custody of one (1) Tony Blair.*  
+**First created:** 2026-09-17 | **Last updated:** 2026-09-24  
+*A wholly unserious British deterrence proposal for when ordinary burden-sharing has failed and America must instead assume custody of one (1) Tony Blair. (Embodied Information Ecology rip off modules will require additional coin. Graphics, innit.)*  
 
 ---
 
@@ -1682,7 +1682,8 @@ This machine requires only one thing:
 - [📄: TBI: “Politics & Governance: Leading in the Age of AI: How to Build an AI-Enabled State“](https://institute.global/insights/politics-and-governance/leading-in-the-age-of-ai-how-to-build-an-ai-enabled-state) – *we covered this as CRAKEN/Tree of Life territory; Labour women, please wake the fuck up*
 - [🦊 Cousin, We Have Ideas...](./🦊_cousin_we_have_ideas.md) — *this is all old news, TB 2; we need to be at frameworks for recalibrating global incentives stage; catch the fuck up*
 - [🏭 Little Miss Cybernetic Token Generator's Industrial Dispute](./🏭_industrial_dispute.md) – *in case you were the one who set up the OpenAI contract (naughty naughty), I have comments*
-- [📄: Resultsense: “The Tony Blair Institute's AI-enabled state assumes a single centre Britain does not have”](https://www.resultsense.com/insights/2026-09-23-tbi-ai-enabled-state-uk-delivery-record/) – *but have we considered giving Tony more American coin as a potential solution?*  
+- [📄: Resultsense: “The Tony Blair Institute's AI-enabled state assumes a single centre Britain does not have”](https://www.resultsense.com/insights/2026-09-23-tbi-ai-enabled-state-uk-delivery-record/) – *but have we considered giving Tony more American coin as a potential solution?*
+- [📰: The Express: “Tony Blair piles pressure on Andy Burnham to reverse Brexit 'in next 10 years'”](https://www.express.co.uk/news/politics/2251067/tony-blair-andy-burnham-brexit) – *I thought you were talking about AI bruv; why the sudden rush to cover everything that isn’t a right-lean broadsheet?* – [Guardian](https://www.theguardian.com/politics/2026/sep/24/tony-blair-britain-rejoin-eu-next-10-years-brexit), [The Independent](https://www.independent.co.uk/news/uk/politics/tony-blair-brexit-immigration-putin-ukraine-interview-b2608747.html), [Daily Mail](https://www.dailymail.com/news/article-16155343/Tony-Blair-Labour-rejoin-EU-scrap-Brexit-Burnham.html), [Politico](https://www.politico.eu/article/tony-blair-tells-andy-burnham-ditch-your-brexit-red-lines-and-seek-to-rejoin-the-eu/), [The Mirror](https://www.mirror.co.uk/news/politics/tony-blair-eu-brexit-burnham-37693436).
 
 ---
 
@@ -1712,4 +1713,4 @@ uk-us relations, special relationship, deterrence satire, institutional inherita
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_
