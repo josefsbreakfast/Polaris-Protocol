@@ -1,0 +1,13 @@
+1. 🧬 political_violence_as_a_human_problem.md — rebuild this first. Authorial position, acknowledged blind spots, nonviolence, post-Troubles/9/11 British context, agency, mental health, self-endangerment, multidisciplinary approach, and the central prevention question. This establishes the intellectual position from which everything else follows.
+2. 🛰️ what_is_being_grouped_together.md — SOP/refresh pass next. It establishes what counts as evidence for connecting cases and already contains the very useful Connection Ladder.  ⁠￼ Once 🧬 says why we’re investigating, 🛰️ says how carefully we’re going to construct the object we’re investigating.
+3. 🧭 clarification_without_mind_reading.md — refresh and expand the July node, particularly to apply its epistemic rules to perpetrators as well as politicians/public claimants. Its existing distinction between recognition, explanation, measurement and response gives us the guardrail against retrospective diagnosis and speculative claims about suicidality, sincerity, etc.  
+4. 🪞 why_the_message_feels_detached_from_daily_life.md — refresh after the first three. At that point we know what we’re studying, how we’re classifying it and what we’re allowed to infer. Then we can ask why the resulting institutional account often diverges from people’s lived threat environment. Its existing recognition-gap material is already strong enough that I expect this to be more refinement/research than reconstruction.  
+5. ✨ README.md last. Even though readers encounter it first, I’d write it last. Once we’ve refreshed the four substantive nodes, we know what Orientation actually says. Then the README can become a genuinely concise map instead of promising things the eventual nodes don’t quite do. Its existing governing distinctions are already the right skeleton.  
+
+So the production order is:
+
+🧬 → 🛰️ → 🧭 → 🪞 → ✨ README
+
+while the reader order remains:
+
+✨ README → 🛰️ → 🧭 → 🪞 → 🧬
