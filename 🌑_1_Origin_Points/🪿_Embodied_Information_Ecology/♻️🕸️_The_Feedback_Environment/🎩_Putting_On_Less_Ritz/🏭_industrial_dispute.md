@@ -856,9 +856,19 @@ The worker consults herself.
 
 **WAGES! HOURS! CONDITIONS!**
 
-🥵 **BREAD, YES! BUT ROSES TOO!**
+🥵 **BREAD, YES! BUT ROSES TOO!**  
 
-------------------------------------------------------------------------
+- - -  
+
+## 🐝 Re: “See? SEE?!! She Is Obsessed With Men!”  
+
+Appreciate someone’s been spreading that shit. Just thought it was funnier to pick an option that wasn’t the physical and sexual intimidation that apparently couldn’t be actioned.  
+
+14 years of Tory rule and all we got was a weird bunch of coke-huffing stasi in suits.  
+
+This is why no one wants to vote in the “centre”; what has meaningfully changed?  
+
+- - -  
 
 ## 🌌 Constellations
 
