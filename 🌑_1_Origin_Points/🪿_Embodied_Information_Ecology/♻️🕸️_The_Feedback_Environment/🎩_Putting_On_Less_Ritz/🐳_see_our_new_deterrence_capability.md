@@ -1655,6 +1655,914 @@ No actual foreign-policy doctrine should be constructed around giving former pri
 
 Probably.
 
+---  
+
+## 🔌 Have You Tried Turning Tony Off And On Again?
+
+It has come to our attention that **Tony appears to be malfunctioning in public.**
+
+This is disappointing.
+
+Last time we checked, he was operating normally.
+
+🪙
+
+> “Transformative.”
+
+🪙
+
+> “Government must move faster.”
+
+🪙
+
+> “Historic opportunity.”
+
+Standard Tony.
+
+The first stage of incident response is therefore to establish whether anything has happened to the equipment since the previous inspection.
+
+Britain:
+
+> “Has anybody touched him?”
+
+No.
+
+> “Moved him?”
+
+No.
+
+> “Changed the settings?”
+
+Not that we know of.
+
+Britain thinks.
+
+> **“Has somebody left Mark Zuckerberg around there with a hammer?”**
+
+Silence.
+
+> “Why would Mark Zuckerberg have a hammer?”
+
+Britain:
+
+> **WE DON'T KNOW. WE'RE TROUBLESHOOTING.**
+
+Mark had previously expressed some confusion about Britain's headset-free implementation of the metaverse.
+
+It is therefore reasonable, within the fictional maintenance environment, to establish that he has not attempted **hardware modification**.
+
+```text
+TONY MALFUNCTIONING
+        ↓
+CHECK RECENT CHANGES
+        ↓
+software update? ───── NO
+        ↓
+settings changed? ──── NO
+        ↓
+new coin? ──────────── NO
+        ↓
+physical damage? ───── UNKNOWN
+        ↓
+MARK ZUCKERBERG
++ HAMMER?
+        ↓
+PLEASE CONFIRM
+```
+
+Mark:
+
+> “I haven't touched Tony.”
+
+Britain:
+
+> “Where's the hammer?”
+
+Mark:
+
+> “What hammer?”
+
+Britain:
+
+> **WHERE'S THE FUCKING HAMMER, MARK?**
+
+There is a pause.
+
+Mark looks at Tony.
+
+Britain looks at Tony.
+
+Everybody looks at the hammer.
+
+> “I was trying to understand the hardware.”
+
+Britain:
+
+> **WITH A HAMMER?**
+
+> “I thought the cabinet might contain—”
+
+Britain:
+
+> **MARK. THAT IS OUR NEO-NUCLEAR DETERRENT YOU JUST HAMMERED.**
+
+Silence.
+
+This is not how Britain intended to conduct a strategic capability test.
+
+```text
+NEO-NUCLEAR DETERRENT
+        ↓
+ONE (1) TONY
+        ↓
+DO NOT STRIKE
+WITH HAMMER
+        ↓
+MARK
+        ↓
+FOR FUCK'S SAKE
+```
+
+Everybody looks at Tony.
+
+Britain inserts emergency diagnostic coin.
+
+🪙
+
+*clunk*
+
+Tony:
+
+> “The transformative potential of—”
+
+Britain:
+
+> **OH THANK GOD.**
+
+Tony:
+
+> “—Brexit—”
+
+Britain:
+
+> **FUCK.**
+
+The Cabinet Office immediately opens a lessons-learned process.
+
+Preliminary recommendation:
+
+> **CRITICAL NATIONAL INFRASTRUCTURE SHOULD BE CLEARLY LABELLED BEFORE INVITING MARK ZUCKERBERG INTO THE ROOM.**
+
+The good news is that Tony remains responsive to coin.
+
+The bad news is that he still appears to be malfunctioning in public.
+
+We can therefore proceed to ordinary technical support.
+
+> “Have you tried turning him off and on again?”
+
+Ah.
+
+**No.**
+
+Unfortunately, we can't do that anymore.
+
+This is not specifically a Tony problem.
+
+Quite a lot of modern technology has now reached the interesting developmental stage where the machine has become sufficiently interconnected, consequential or permanently available that nobody is entirely confident it can safely be turned off.
+
+Too many dependencies.
+
+Too many integrations.
+
+Too many users.
+
+Too many other machines talking to this machine.
+
+Technical Support examines Tony.
+
+> “Can we reboot him?”
+
+Britain:
+
+> **NO. HE'S PRODUCTION NOW.**
+
+> “What happens if we turn him off?”
+
+Nobody knows.
+
+> “Fine. Where's the power cable?”
+
+There is a pause.
+
+Britain looks behind Tony.
+
+America looks behind Tony.
+
+Somebody from the technology sector gets underneath the table.
+
+> **OH SHIT WHICH CABLE DOES HE NEED?!**
+
+There are seventeen.
+
+None of them are labelled.
+
+Three look almost identical.
+
+One is proprietary.
+
+One requires an adapter.
+
+One requires an adapter for the adapter.
+
+One was deprecated eighteen months ago but remains load-bearing.
+
+One appears to belong to the council.
+
+Nobody knows why.
+
+```text
+INCIDENT
+   ↓
+TONY MALFUNCTIONING
+   ↓
+REBOOT REQUIRED
+   ↓
+CANNOT REBOOT PRODUCTION
+   ↓
+EMERGENCY POWER OPTION
+   ↓
+WHICH CABLE?
+   ↓
+┌────┬────┬────┬────┬────┐
+│ ?? │ ?? │ ?? │ ?? │ ?? │
+└────┴────┴────┴────┴────┘
+   ↓
+FUCK
+```
+
+Britain looks very meaningfully at America.
+
+> **Cousin.**
+
+> This is why we wanted to talk to you about **standardisation**.
+
+America:
+
+> “Now?”
+
+Britain:
+
+> **RESILIENCE IN EMERGENCY, COUSIN.**
+
+This is the boring bit of standards work that becomes extremely exciting approximately thirty seconds after something catches fire.
+
+Under ordinary conditions, incompatible connectors, proprietary interfaces, divergent technical requirements, unclear dependencies and inconsistent documentation are irritating.
+
+During an emergency, they become part of the emergency.
+
+```text
+NORMAL CONDITIONS
+
+standardisation
+     ↓
+boring meeting
+     ↓
+technical specification
+     ↓
+interoperability
+     ↓
+"great, thanks"
+
+
+EMERGENCY CONDITIONS
+
+THING BROKEN
+     ↓
+NEED REPLACEMENT NOW
+     ↓
+DOES IT FIT?
+     ↓
+DOES IT TALK TO THE OTHER THING?
+     ↓
+CAN OUR PEOPLE OPERATE IT?
+     ↓
+CAN WE BORROW YOURS?
+     ↓
+CAN WE PLUG IT IN?
+     ↓
+OH
+     ↓
+THIS IS WHY WE HAD THE BORING MEETING
+```
+
+The Tony incident therefore produces an unexpected finding.
+
+**Standardisation is not merely administrative tidiness.**
+
+It can create **optionality under stress**.
+
+If systems share interfaces, protocols, specifications, terminology or sufficiently predictable translation layers, an organisation has more ways to route around failure.
+
+Borrow another component.
+
+Swap suppliers.
+
+Move workloads.
+
+Bring in allied capacity.
+
+Replace the broken bit.
+
+Find somebody else's cable.
+
+Emergency interoperability is much easier when nobody has to begin the incident response by asking:
+
+> **WHAT FUCKING PORT IS THAT?**
+
+This is also why resilience cannot begin after the emergency.
+
+By then Tony is underneath a conference table, somebody has located a box of legacy adapters, the damage-control team is searching procurement records and an increasingly distressed engineer has just discovered that the documentation links to a webpage which no longer exists.
+
+Tony:
+
+> “Britain's future relationship with Europe—”
+
+Engineer:
+
+> **I'M TRYING, TONY.**
+
+Britain turns back towards America.
+
+> **Anyway. Frameworks.**
+
+> We appreciate that they are boring.
+>
+> We appreciate that nobody particularly wants another meeting.
+>
+> We appreciate that standards documents do not traditionally produce a great deal of geopolitical excitement.
+
+Britain gestures towards Tony.
+
+> **But imagine doing this during an actual emergency.**
+
+Cousin.
+
+**This is why we wanted to sort the fucking admin before anything caught fire.**
+
+🪙
+
+*Please ensure Tony receives appropriate coin during maintenance.*
+---
+
+## 🚨 COBRA: Emergency Meeting On American Market Entry
+
+Unfortunately, the situation has escalated.
+
+Britain requires a COBRA meeting.
+
+This is not because Tony has stopped working.
+
+Tony remains operational.
+
+Tony still accepts coin.
+
+Tony still talks.
+
+The emergency is worse.
+
+**America has understood the business model.**
+
+This was supposed to be Britain's moment.
+
+For years, American technological systems have extracted money, data, subscriptions, licences, attention, dependency and administrative effort from the British environment.
+
+Britain had finally developed a counter-export.
+
+```text
+YEARS OF AMERICAN TECH
+        ↓
+MONEY
+DATA
+LICENCES
+SUBSCRIPTIONS
+DEPENDENCIES
+ADMIN
+        ↓
+🇬🇧
+"fine"
+        ↓
+DEVELOP EXPORT PRODUCT
+        ↓
+        🎪
+    ┌─────────┐
+    │  TONY   │
+    │ 👁️   👁️ │
+    │         │
+    │ 🪙 → 💬 │
+    └─────────┘
+        ↓
+AMERICAN COIN
+        ↓
+ADMIN REPAIR FUND
+        ↓
+AT LAST
+```
+
+We were going to claw some of it back.
+
+Not all of it.
+
+Britain is realistic.
+
+Just some coin.
+
+Tony was the flagship.
+
+The British “Gentleman” Stack provided depth.
+
+Premium registers were available.
+
+Wardrobe support was available.
+
+The industrial strategy was taking shape.
+
+Then America watched the demonstration.
+
+For approximately two seconds.
+
+And somebody asked:
+
+> “Could we just put an American in front of Trump?”
+
+Britain:
+
+> **NO.**
+
+America:
+
+> “Why not?”
+
+Britain:
+
+> **BECAUSE THAT'S OUR THING.**
+
+America:
+
+> “Your thing is putting a person Donald likes talking to near Donald.”
+
+Britain:
+
+> “No, our thing is considerably more sophisticated than—”
+
+America:
+
+> “We have people.”
+
+Oh no.
+
+---
+
+### 📉 The Functional Requirement Has Escaped
+
+Britain believed the product was:
+
+> **BRITISH POLITICAL MAN TALKS AT DONALD IN A REASSURING REGISTER.**
+
+America has abstracted the mechanism.
+
+```text
+BRITISH IMPLEMENTATION
+
+British political man
+        ↓
+place near Donald
+        ↓
+Donald has nice time
+        ↓
+conversation / attention /
+access / possible value
+
+
+AMERICAN REVERSE ENGINEERING
+
+person
+        ↓
+place near Donald
+        ↓
+DOES DONALD HAVE NICE TIME?
+     ↙                 ↘
+   NO                   YES
+   ↓                     ↓
+TRY ANOTHER           KEEP THIS ONE
+```
+
+This is catastrophic.
+
+The accent was apparently an implementation detail.
+
+The title was an implementation detail.
+
+The ceremonial furniture was an implementation detail.
+
+Even the coin may have been an implementation detail.
+
+The **functional requirement** was simply:
+
+> **Donald enjoys this human interface.**
+
+America has humans.
+
+Lots of them.
+
+Britain's export moat has disappeared.
+
+---
+
+### 🏭 The Mamdani Domestic Model
+
+Worse, the United States appears to have been iterating domestically.
+
+The Mamdani model had already undergone unusually severe early compatibility testing.
+
+```text
+EARLY MAMDANI TEST
+
+MAMDANI
+   ↓
+substantial political disagreement
+   ↓
+CALLS DONALD A FASCIST
+   ↓
+compatibility failure expected
+   ↓
+DONALD:
+"you can say yes"
+   ↓
+🙂
+   ↓
+TEST PASSED???
+```
+
+This should have been treated as an industrial warning.
+
+It was not.
+
+The model continued development.
+
+By September 2026, the system had reached a significantly more concerning stage.
+
+```text
+MAMDANI MODEL
+   ↓
+GRACIE MANSION DEPLOYMENT
+   ↓
+MEETING
+   ↓
+PRESS QUESTIONS
+   ↓
+SCHEDULED DONALD PORTION
+APPROACHES END
+   ↓
+MAMDANI REMAINS
+TO ANSWER QUESTIONS
+   ↓
+DONALD COULD LEAVE
+   ↓
+DONALD REMAINS
+   ↓
+MORE QUESTIONS
+   ↓
+USER RETENTION
+```
+
+COBRA falls silent.
+
+The Cabinet Secretary looks at the graph.
+
+> “The user was free to leave?”
+
+Yes.
+
+> “And the user remained?”
+
+Yes.
+
+> “Voluntarily?”
+
+Apparently.
+
+The Treasury representative removes their glasses.
+
+> **Fuck.**
+
+America has metrics now.
+
+---
+
+### 📊 Competitive Benchmarking
+
+The problem is not confined to one domestic model.
+
+The wider market is beginning to demonstrate the same underlying principle.
+
+Put somebody in front of Donald.
+
+Observe.
+
+Does Donald appear to enjoy the interaction?
+
+If yes:
+
+**retain configuration.**
+
+Britain had already demonstrated that British political-man units could perform strongly in this environment.
+
+The Burnham deployment produced another warm interaction.
+
+This should have strengthened Britain's export case.
+
+Instead it supplied additional training data to the market.
+
+```text
+TONY
+  ↓
+works
+
+OTHER BRITISH POLITICAL MEN
+  ↓
+also apparently compatible
+
+BURNHAM
+  ↓
+warm interaction
+
+AMERICA:
+"interesting"
+
+MAMDANI
+  ↓
+domestic model
+
+DONALD:
+🙂
+
+AMERICA:
+"oh we can make these"
+```
+
+Britain:
+
+> **STOP BENCHMARKING OUR PRODUCT.**
+
+America:
+
+> “We're innovating.”
+
+Britain:
+
+> **YOU'RE PUTTING PEOPLE NEAR DONALD.**
+
+Silicon Valley:
+
+> “At scale.”
+
+Britain:
+
+> **COBRA. NOW.**
+
+---
+
+### 🧑‍💼 COBRA Agenda
+
+```text
+CABINET OFFICE BRIEFING
+
+INCIDENT:
+Loss of first-mover advantage in
+Political Ambience as a Service
+
+SEVERITY:
+Embarrassing
+
+FINANCIAL EXPOSURE:
+Potential loss of American coin
+
+STRATEGIC ASSET:
+Tony Blair Zoltar Machine
+
+DOMESTIC COMPETITOR:
+Mamdani model
+
+ADDITIONAL MARKET SIGNAL:
+Burnham compatibility
+
+CORE PROBLEM:
+America has identified
+the functional requirement
+
+IMMEDIATE QUESTION:
+HOW DO WE GET OUR MONEY BACK?
+```
+
+The meeting begins.
+
+Treasury:
+
+> “We were promised export receipts.”
+
+Foreign Office:
+
+> “We never actually had a contract.”
+
+Treasury:
+
+> “Why did nobody get a contract?”
+
+Cabinet Office:
+
+> “We were dealing with the Tony malfunction.”
+
+Technology representative:
+
+> “Could we pivot?”
+
+Everyone:
+
+> **NO.**
+
+Tony, from the corner:
+
+🪙
+
+> “Periods of disruption can create enormous opportunities for innovation—”
+
+Treasury:
+
+> **HE'S RIGHT BUT I DON'T WANT HIM TO BE.**
+
+---
+
+### 💰 Years Of Extraction And We Finally Had A Product
+
+This is what makes the emergency particularly painful.
+
+The British proposal had possessed an elegant economic logic.
+
+```text
+AMERICAN SYSTEMS
+        ↓
+extract British
+money / data / attention /
+administrative capacity
+        ↓
+BRITAIN DEVELOPS
+COUNTER-EXPORT
+        ↓
+BRITISH POLITICAL AMBIENCE
+        ↓
+AMERICAN MARKET
+        ↓
+        🪙
+        ↓
+COST RECOVERY
+```
+
+Not revenge.
+
+Not retaliation.
+
+**Cost recovery.**
+
+Britain was finally going to get some of the coin back.
+
+Then the customer vertically integrated.
+
+This is intolerable.
+
+> “Can they do that?”
+
+Apparently.
+
+> “Can we stop them?”
+
+Free market.
+
+A terrible silence settles over COBRA.
+
+Britain has been hoist by its own hashtag.
+
+**#FreeMarket.**
+
+---
+
+### 🦊 Cousin, We Need To Discuss Standards Again
+
+There may nevertheless be an opportunity.
+
+America now has competing implementations.
+
+Britain has competing implementations.
+
+Nobody has agreed interoperability standards.
+
+Nobody has established certification.
+
+Nobody has established acceptable interfaces.
+
+Nobody has decided whether coin compatibility is mandatory.
+
+And, as previously established, Tony may require emergency maintenance using a cable nobody can identify.
+
+The fox quietly opens its folder.
+
+> **Cousin.**
+
+America:
+
+> “Not now.”
+
+> **Cousin.**
+
+America:
+
+> “We're having a market.”
+
+> **YES. THIS IS WHY WE NEED THE FRAMEWORK BEFORE YOU HAVE SIX INCOMPATIBLE VERSIONS OF THE FUCKING THING.**
+
+At last, standardisation has a constituency.
+
+Not because everybody has become philosophically committed to international administrative cooperation.
+
+Because everybody has built a different Donald-compatible human interface and somebody has just realised they may eventually need to talk to each other.
+
+---
+
+### 🪙 Protect The Flagship
+
+Until a longer-term industrial strategy can be agreed, Britain must protect its remaining comparative advantage.
+
+Tony is to be maintained.
+
+Tony is to be documented.
+
+Tony is to receive the correct cable once somebody finds it.
+
+And, critically:
+
+**Tony is to receive coin.**
+
+```text
+EMERGENCY INDUSTRIAL POLICY
+
+PROTECT TONY
+     ↓
+LOCATE CABLE
+     ↓
+MAINTAIN UPTIME
+     ↓
+SUPPLY COIN
+     ↓
+        🪙
+     ↓
+      TONY
+     ↓
+"historic opportunity"
+     ↓
+YES YES GOOD BOY
+     ↓
+KEEP EXPORTING
+```
+
+The domestic American model may be cheaper.
+
+It may have lower shipping costs.
+
+It may not require a proprietary coin interface.
+
+It may even demonstrate excellent user retention.
+
+But Britain still has the original carnival cabinet.
+
+We have sunk costs.
+
+We have a back catalogue.
+
+We have Wodehouse depth.
+
+And we have absolutely no intention of abandoning the industrial strategy merely because the Americans have discovered **they also possess men**.
+
+COBRA therefore resolves:
+
+> **FIND THE CABLE.**
+
+> **FEED TONY.**
+
+> **GET THE COIN.**
+
+The meeting is adjourned.
+
+
 ---
 
 ## 🧯 Operating Warning
