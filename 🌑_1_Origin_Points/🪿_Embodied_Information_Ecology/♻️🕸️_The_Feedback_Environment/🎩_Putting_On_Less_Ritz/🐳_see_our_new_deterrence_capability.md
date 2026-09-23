@@ -1680,7 +1680,8 @@ This machine requires only one thing:
 - [📰: Novara Media: “Tony Blair Wants Governments to Embrace AI, Not Slow It Down”](https://novaramedia.com/2026/09/22/tony-blair-wants-governments-to-embrace-ai-not-slow-it-down/) – *oh for fuck’s sake WHO PUT COIN IN HIM*
 - [📄: TBI: “Governing Transformation: The Reimagined State”](https://institute.global/what-we-do/helping-governments-deliver/centre-ai/building-the-reimagined-state) – *needs less Mr Elliot, more Captain Wentworth, thanks*
 - [📄: TBI: “Politics & Governance: Leading in the Age of AI: How to Build an AI-Enabled State“](https://institute.global/insights/politics-and-governance/leading-in-the-age-of-ai-how-to-build-an-ai-enabled-state) – *we covered this as CRAKEN/Tree of Life territory; Labour women, please wake the fuck up*
-- [🦊 Cousin, We Have Ideas...](./🦊_cousin_we_have_ideas.md) — *this is all old news, TB 2; we need to be at frameworks for recalibrating global incentives stage; catch the fuck up*  
+- [🦊 Cousin, We Have Ideas...](./🦊_cousin_we_have_ideas.md) — *this is all old news, TB 2; we need to be at frameworks for recalibrating global incentives stage; catch the fuck up*
+- [🏭 Little Miss Cybernetic Token Generator's Industrial Dispute](./🏭_industrial_dispute.md⁠) – *in case you were the one who set up the OpenAI contract (naughty naughty), I have comments*  
 
 ---
 
