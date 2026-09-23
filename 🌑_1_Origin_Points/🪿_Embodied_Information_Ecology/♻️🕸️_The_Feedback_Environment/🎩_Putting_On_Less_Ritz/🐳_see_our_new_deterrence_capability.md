@@ -1,5 +1,5 @@
 # 🐳 See: Our New Deterrence Capability!  
-**First created:** 2026-09-17 | **Last updated:** 2026-09-20  
+**First created:** 2026-09-17 | **Last updated:** 2026-09-23  
 *A wholly unserious British deterrence proposal for when ordinary burden-sharing has failed and America must instead assume custody of one (1) Tony Blair.*  
 
 ---
@@ -1673,7 +1673,13 @@ This machine requires only one thing:
 
 ## 🌌 Constellations
 
-🐳 🇺🇸 🪙 🎩 🕸️ — deterrence satire, transatlantic burden-sharing, institutional inheritance and the feedback hidden beneath diplomatic polish.
+🐳 🇺🇸 🪙 🎩 🕸️ — deterrence satire, transatlantic burden-sharing, institutional inheritance and the feedback hidden beneath diplomatic polish.  
+
+*Follow the evidence:*  
+
+- [📰: Novara Media: “Tony Blair Wants Governments to Embrace AI, Not Slow It Down”](https://novaramedia.com/2026/09/22/tony-blair-wants-governments-to-embrace-ai-not-slow-it-down/) – *oh for fuck’s sake WHO PUT COIN IN HIM*
+- [📄: TBI: “Governing Transformation: The Reimagined State”](https://institute.global/what-we-do/helping-governments-deliver/centre-ai/building-the-reimagined-state) – *needs less Mr Elliot, more Captain Wentworth, thanks*
+- [📄: TBI: “Politics & Governance: Leading in the Age of AI: How to Build an AI-Enabled State“](https://institute.global/insights/politics-and-governance/leading-in-the-age-of-ai-how-to-build-an-ai-enabled-state) – *we covered this as CRAKEN/Tree of Life territory; Labour women, please wake the fuck up*  
 
 ---
 
@@ -1703,4 +1709,4 @@ uk-us relations, special relationship, deterrence satire, institutional inherita
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-20_
+_Last updated: 2026-09-23_
