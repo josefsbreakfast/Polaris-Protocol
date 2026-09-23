@@ -48,3 +48,25 @@ We’ve lost personnel.
 War is not a vanity project.  
 
 - - - 
+
+2016 ─┐
+2017  │
+2018  ├── PRE-COVID BASELINE
+2019 ─┘
+
+2020 ─┐
+2021 ─┴── COVID / LOW-EXPOSURE CONTROL
+
+2022 ─┐
+2023  │
+2024  ├── POST-COVID / UKRAINE-WAR BASELINE
+2025 ─┘
+
+2026-01-01 → 2026-02-27
+        └── IMMEDIATE PRE-IRAN CONTROL
+
+2026-02-28 → 2026-09-23
+        └── IRAN-WAR OBSERVATION
+
+- - - 
+
