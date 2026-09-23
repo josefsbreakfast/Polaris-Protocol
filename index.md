@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-23 03:40:59 UTC_
+_Generated on 2026-09-23 09:15:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3858,6 +3858,7 @@ _Generated on 2026-09-23 03:40:59 UTC_
       - [**🦷_Political_Violence_Today/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/)
         - [**✨_Orientation/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/✨_Orientation/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/✨_Orientation/README.md)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/✨_Orientation/notes.txt)
           - [`🛰️_what_is_being_grouped_together.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/✨_Orientation/🛰️_what_is_being_grouped_together.md)
           - [`🧬_political_violence_as_a_human_problem.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/✨_Orientation/🧬_political_violence_as_a_human_problem.md)
           - [`🧭_clarification_without_mind_reading.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/✨_Orientation/🧭_clarification_without_mind_reading.md)
