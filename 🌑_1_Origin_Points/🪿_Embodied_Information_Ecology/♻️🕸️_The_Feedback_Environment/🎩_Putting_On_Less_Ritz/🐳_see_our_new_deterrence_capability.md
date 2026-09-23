@@ -1698,7 +1698,8 @@ uk-us relations, special relationship, deterrence satire, institutional inherita
 > 📡 Cross-references:
 >
 > - [🇺🇸 Dear America](./🇺🇸_dear_america.md) — *the wider bilateral register for examining UK–US feedback and dependency*  
-> - [🦊 Cousin, We Have Ideas...](./🦊_cousin_we_have_ideas.md) — *we always have thoughts*  
+> - [🦊 Cousin, We Have Ideas...](./🦊_cousin_we_have_ideas.md) — *we always have thoughts*
+> - [🌙 Draining The High Priestess](../../♻️_Cybernetics/🌙_draining_the_high_priestess.md) – *on scraping marginalised labour*  
 >
 > 🏮 Return To:
 >
