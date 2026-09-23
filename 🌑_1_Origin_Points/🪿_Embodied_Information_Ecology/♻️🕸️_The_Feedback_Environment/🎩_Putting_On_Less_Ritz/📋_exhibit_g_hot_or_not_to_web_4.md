@@ -4,7 +4,7 @@
 
 ---
 
-## 🛰️ Orientation — Congratulations On Web 4. Have You Finished Web 2?
+## 🛰️ Orientation — Congratulations On Web 4.0. Have You Finished Web 2.0?
 
 America has brought us another exciting technological proposition.
 
@@ -91,6 +91,8 @@ So before the computer follows us outside, we would like to conduct a small regr
 Unfortunately, the test begins with Hot or Not.
 
 ---
+
+<!-- Add white space/ms coding.-->
 
 ## 1. 🔥 Hot or Not
 
