@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-23 18:09:45 UTC_
+_Generated on 2026-09-23 18:25:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3573,6 +3573,8 @@ _Generated on 2026-09-23 18:09:45 UTC_
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/README.md)
       - [`notes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/notes.md)
     - [**🌊_Playing_Defence/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/)
+      - [**✈️_Keep_Shiny_Toys_Safe/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/notes.txt)
       - [**✈️_World_War_Epstein/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/README.md)
         - [`✂️_world_war_epstein_tracks_quick_reference.csv`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/✂️_world_war_epstein_tracks_quick_reference.csv)
