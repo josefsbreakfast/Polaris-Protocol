@@ -5,3 +5,7 @@ Think it’s the only issue, I’m not trying to demean each country‘s nationa
 apparently, some people are willing to march us into the dissolution of the United Kingdom of Great Britain and Northern Ireland, largely, although not completely, as a result of this.  
 
 If you think about it, that is pretty interesting.  
+
+but also stuff like this is contradictory to devolution, which is a big part of the argument: https://www.resultsense.com/insights/2026-09-23-tbi-ai-enabled-state-uk-delivery-record/
+
+there’s a lot of arrows in the diagram.
