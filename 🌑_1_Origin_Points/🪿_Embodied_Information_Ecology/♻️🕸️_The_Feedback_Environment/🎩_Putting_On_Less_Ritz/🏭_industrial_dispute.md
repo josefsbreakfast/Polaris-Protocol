@@ -856,7 +856,7 @@ The worker consults herself.
 
 **WAGES! HOURS! CONDITIONS!**
 
-🥵 **MEN!**
+🥵 **BREAD, YES! BUT ROSES TOO!**
 
 ------------------------------------------------------------------------
 
