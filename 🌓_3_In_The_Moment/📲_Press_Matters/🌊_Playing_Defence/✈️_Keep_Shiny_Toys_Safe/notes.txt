@@ -70,3 +70,75 @@ War is not a vanity project.
 
 - - - 
 
+“The first result is actually pretty clean:
+
+Civil digital/ATM failures mostly look historically recognisable. The 8 September NATS flight-processing failure has strong matches in the 2023 London computer-system failure and pre-2026 FDPS failures. The Brest CPDLC outage has direct datalink comparators. The 31 August multi-centre CPDLC event has an especially good match: Europe already had a multi-country, multi-ACC CPDLC disruption in August 2024. Barcelona’s power failure has Bodø 2024 as a direct power comparator.
+
+So the spreadsheet is emphatically not telling us:
+
+Holy shit, European aviation computers suddenly started falling over after Iran.
+
+They fell over before. Sometimes quite spectacularly.
+
+Where the lookup starts returning something more interesting is the contextual join. In 2026 those otherwise recognisable failure classes coexist with a separately documented jamming/spoofing environment. And our military baseline proves that navigation-information degradation can matter operationally—the 2020 USAF F-16 investigation is the strongest example—but doesn’t give us a historical hostile-EW analogue for the present military crashes.
+
+The military lookup therefore currently returns something rather sensible:
+
+Merlin Mk4: NO MECHANISM MATCH YET — CAUSE UNRESOLVED
+Hawk T2: TOO EARLY — INVESTIGATION JUST STARTED
+
+rather than pretending that aircraft crashed constitutes a causal category.
+
+So the genuinely interesting question has narrowed substantially. It isn’t “why are all these computers breaking?” because our controls show that computers, datalinks, power supplies and communications systems breaking is normal enough.
+
+It’s closer to:
+
+Does the rate/concentration differ in 2026, and do any of the currently unresolved military cases eventually acquire the same navigation/information-system signature as the independently documented EW environment?
+
+That is a much sharper hypothesis than where we started.  ”
+
+“We have enough to lean a little, but not enough to close it. And the direction of lean is interesting because different parts of the original cluster are separating.
+
+For the civil ATC/digital failures, the evidence currently pushes me away from a common Iran-war/EW explanation. The strongest UK event, 8 September, now has a remarkably specific failure mechanism: a software defect was exposed when a higher-priority process interrupted aircraft-code processing; when processing resumed incorrectly, it produced corrupted output that propagated into later flight-data updates. NATS explicitly says the incident was unrelated to military intervention.   The 21 September Prestwick failure has also been reported as a separate technical problem rather than a recurrence of the 8 September mechanism.  
+
+And our historical lookup matters here. We’ve already found pre-war FDPS failures, computer-system failures, multi-centre CPDLC outages, communications failures and power failures that are very good matches. So “lots of aviation information infrastructure is breaking” isn’t presently anomalous enough by mechanism to carry the hypothesis.
+
+Where I would not dismiss the question is the military/navigation side.
+
+There really is an unusually degraded information environment in 2026. EASA and EUROCONTROL aren’t being coy about this: interference is now a regular occurrence, particularly around conflict zones; it can affect areas beyond them; and they are building common monitoring specifically to understand interference patterns and operational impacts.   In July, EASA said its revised safety bulletin followed analysis of recent jamming and spoofing occurrences, and described new operational, training and ATC mitigations.  
+
+And our baseline produced the important proof-of-mechanism: military aircraft accidents can genuinely have navigation-information degradation as a contributory factor. The 2020 F-16 case means that part is no longer hypothetical. What it emphatically doesn’t establish is that hostile interference caused that degradation—or anything in 2026.
+
+The Merlin is therefore the case I’d keep a bloody great circle around, without filling the circle in. Three people died; the MOD says the cause remains under full investigation. Importantly, the Mk4 fleet was paused, the initial evidence was analysed, and flying was authorised again seven days later while the investigation continued.   That tells us something: whatever the initial evidence showed, it apparently did not require keeping the whole Mk4 fleet grounded. It doesn’t tell us what the cause was. The MOD subsequently declined to provide further details while the investigation remained live.  
+
+So at this stage I’d represent the evidence almost as:
+
+Civil common-cause hypothesis: ↓ weakened substantially
+There is a real 2026 GNSS/EW aviation environment: ↑ strongly supported
+Navigation degradation is capable of contributing to military accidents: ↑ historically demonstrated
+2026 UK military accidents show navigation/EW involvement: ? no evidence yet
+One mechanism links the whole cluster: ↓ currently unsupported
+
+And there is one subtle thing worth preserving. The hypothesis has become narrower rather than simply failing.
+
+We started with something approximately:
+
+“Are all these aviation failures potentially manifestations of the same degraded wartime information environment?”
+
+The data are pushing us toward:
+
+“Probably not. Most civil failures have ordinary historical analogues and at least one has a very specific independent software explanation. But are military aircraft operating inside the independently documented degraded navigation environment experiencing any unusual accident pattern or navigation-related failure signature?”
+
+That second question is still alive.
+
+And pleasingly, we now know exactly what would move it. If the Merlin inquiry eventually says engine/mechanical/human/ordinary flight-safety cause, that’s substantial evidence against this being one of our navigation cases. If it mentions GNSS degradation, anomalous position/time data, INS/GNSS disagreement, navigation-system resets, unexpected avionics behaviour or interference, the comparison changes dramatically.
+
+So: not “nothing there”; not “we’ve found it.” We’ve successfully killed the broad version and isolated the part that remains empirically interesting. That’s actually a pretty good outcome from our epistemological VLOOKUP.”
+
+- - -  
+
+“you’re over reading…”
+
+for most of my life we’ve been taken towards that didn’t have the full public consent, there has been a refusal to discuss the current theatres that we are involved in with elected representatives in a way that actually gives enough information to make a decision.  
+
+Respectfully, if you don’t want people to be anxious about these things, communicate with people, don’t have illegal wars, annd actually answer questions in parliament.  
