@@ -6,3 +6,45 @@ https://www.gov.uk/government/news/raf-launches-first-ever-space-squadron-dedica
 
 recent:  
 
+“So we’re currently sitting with:
+
+Known: substantial wartime electronic interference exists.
+Known: some NATO aviation digital/infrastructure systems have independently failed.
+Known: several NATO military aircraft have been lost in non-hostile circumstances and some causes remain publicly unresolved.
+Known: aviation authorities regard intentional GNSS interference as sufficiently serious to introduce new mitigations and reporting procedures.
+Not established: that the first three observations have a common cause.
+Not found: a public investigation that has actually assembled this particular post-28-February cluster and tested that possibility.”
+
+“The interesting cluster isn’t currently:
+
+digital weirdness → NATO military aircraft crash
+
+We haven’t established that arrow.
+
+It’s:
+
+documented degradation/interference in the aviation information environment
+↓
+multiple significant civilian ATC/IT/connectivity failures
+↓
+simultaneous acknowledged wartime GNSS jamming/spoofing environment
+
+PLUS, separately:
+
+a collection of military aviation accidents, several of which remain publicly unexplained
+
+Those two streams haven’t publicly connected.”
+
+“Authorities do publicly acknowledge a wartime aviation-information problem. EASA/EUROCONTROL say GNSS interference has become regular around conflict zones and poses an aviation-safety threat; their March 2026 action plan was specifically designed around that problem.   NATO was already warning that deliberate state/non-state jamming and spoofing was becoming more frequent and sophisticated.  
+
+And the scale during this particular war isn’t hypothetical. Sky reported in June that monitoring had detected more than one million GPS-jamming incidents in the Gulf since the Iran war began, with RUSI’s Thomas Withington saying multiple actors—including Iran, the US and Gulf states—were conducting electronic warfare.  
+
+Meanwhile EASA’s September monitoring shows interference affecting NATO airspace including Turkey, Romania, Bulgaria, Poland, Estonia, Finland, Latvia and Lithuania. It specifically warns that spoofing can produce false position information, time shifts, incorrect speed information, false terrain warnings and corrupted hybrid IRS/GNSS positions.”  
+
+Glad our plan is space suits + “idk stick ai in it”.  
+
+We’ve lost personnel.  
+
+War is not a vanity project.  
+
+- - - 
