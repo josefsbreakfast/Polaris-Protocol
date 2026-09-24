@@ -1,5 +1,5 @@
-# 📋 Exhibit G: Hot or Not to Web 4
-**First created:** 2026-09-23 | **Last updated:** 2026-09-23  
+# 📋 Exhibit G: “Hot or Not?” to Web 4.0
+**First created:** 2026-09-23 | **Last updated:** 2026-09-24  
 *In which we discover what the fuck Mark Zuckerberg is actually building, why the computer now has eyes, and whether anybody ever closed the original ticket.*
 
 ---
@@ -71,7 +71,7 @@ More specifically:
 
 > **What changed in the informational relationship between the system, the user, and the human being who is being observed?**
 
-Because Web 4 — if we are going to use that imperfect but useful shorthand — is not merely a better website.
+Because Web 4.0 — if we are going to use that imperfect but useful shorthand — is not merely a better website.
 
 It potentially increases the sensorium.
 
@@ -266,6 +266,279 @@ The processing changed.
 The power changed.
 
 The information therefore changed in practical human meaning.
+
+---
+
+## 📀 Mark, I Want MySpace Back
+
+Look.
+
+I am old enough to remember MySpace.
+
+MySpace was **a lot**.
+
+There were backgrounds.
+
+There were custom cursors.
+
+There were fonts which had committed crimes.
+
+There was music playing whether you had requested music or not.
+
+There was somebody in your extended social circle who had discovered
+enough HTML to make their profile actively hostile to human vision.
+
+But here is the thing.
+
+**We were getting quite good at code.**
+
+Not everybody, obviously.
+
+Some of us were getting good at making a div behave itself.
+
+Some of us were learning CSS.
+
+Some of us were learning that changing one tiny thing could inexplicably
+make the entire page migrate six inches to the left.
+
+This was education.
+
+And the music was **good**.
+
+Not necessarily the music itself.
+
+Some of the music was terrible.
+
+But the *connection* was good.
+
+Bands had pages. People found bands through other people. Local and
+indie scenes could actually inhabit the same social environment as the
+people listening to them.
+
+Your profile was messy because **you had made a little place**.
+
+Unfortunately, everybody had made a little place.
+
+And everybody had decorated it.
+
+At once.
+
+``` text
+MYSPACE:
+Here is your space.
+
+👩:
+Thank you.
+
+MYSPACE:
+You can do anything you like with it.
+
+👩:
+Anything?
+
+MYSPACE:
+Anything.
+
+👩:
+Oh no.
+
+EVERYBODY:
+✨✨✨✨✨✨✨✨✨✨
+```
+
+So then Facebook arrived.
+
+And Facebook had...
+
+**space.**
+
+Actual space.
+
+White space.
+
+Beautiful, glorious, calming, fucking **nothing**.
+
+``` text
+FACEBOOK:
+Hello.
+
+👩:
+...
+
+FACEBOOK:
+Are you all right?
+
+👩:
+There's nothing flashing.
+
+FACEBOOK:
+No.
+
+👩:
+Nothing is following my cursor.
+
+FACEBOOK:
+No.
+
+👩:
+I opened Sarah's profile and Evanescence
+didn't immediately start playing.
+
+FACEBOOK:
+Correct.
+
+👩:
+Oh my God.
+```
+
+It was lovely.
+
+And then Facebook started putting things in the space.
+
+Friends.
+
+Fine.
+
+Photos.
+
+Great.
+
+Messages.
+
+Useful.
+
+Events.
+
+Actually very useful.
+
+Groups.
+
+Oh, groups are handy.
+
+Businesses.
+
+Right.
+
+Pages.
+
+Okay.
+
+News.
+
+Hmm.
+
+Advertising.
+
+Personalised advertising.
+
+Suggested content.
+
+Marketplace.
+
+Video.
+
+Recommendations.
+
+People You May Know.
+
+Things You May Like.
+
+Things Other People Like.
+
+Things The Computer Has Determined You May Like Based Upon A Behavioural
+Profile Constructed From Your Previous Interactions With Things.
+
+**Mark.**
+
+That was the white space.
+
+``` text
+2006:
+
+👩:
+Oh lovely, you've cleared all the clutter away.
+
+FACEBOOK:
+You're welcome.
+
+
+2026:
+
+👩:
+WHY IS THERE A BUSINESS IN MY LIVING ROOM.
+
+META:
+Based on your interests—
+
+👩:
+GET OUT.
+```
+
+And this is the bit I would quite like back.
+
+Not necessarily **MySpace**.
+
+Christ.
+
+We have suffered enough.
+
+I want **my space** back.
+
+I want some bits of the internet whose principal function is not to
+become progressively more competent at occupying every available part of
+my social life.
+
+I would like to visit my friends without accidentally entering a
+shopping centre, political rally, advertising auction, newsstand,
+algorithmic recommendation engine, local noticeboard, video platform and
+computational behavioural laboratory on the way to Sarah's holiday
+photographs.
+
+This is not an argument against groups.
+
+Or businesses.
+
+Or events.
+
+Or recommendations.
+
+Or even advertising.
+
+It is an observation that **each individually useful addition occupies
+ecological space**.
+
+Eventually the convenient thing that does everything becomes the
+environment in which everything happens.
+
+And then leaving one website no longer means leaving one website.
+
+It means leaving:
+
+-   your friends;
+-   your groups;
+-   your events;
+-   your photographs;
+-   your messages;
+-   your communities;
+-   your marketplace;
+-   your businesses;
+-   and whichever other pieces of ordinary social infrastructure have
+    subsequently moved in.
+
+That is a very different relationship between a human being and a
+website.
+
+So, Mark.
+
+Before Web 4 follows me out of the house wearing glasses:
+
+**I would like some fucking whitespace.**
+
+Not merely on the interface.
+
+In my life.
+
+Thank you.
 
 ---
 
@@ -1594,4 +1867,4 @@ It examines Meta/Facebook as a design-provenance case study for increasingly amb
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_
