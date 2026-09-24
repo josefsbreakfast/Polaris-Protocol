@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-24 05:18:16 UTC_
+_Generated on 2026-09-24 14:54:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2443,6 +2443,7 @@ _Generated on 2026-09-24 05:18:16 UTC_
         - [`🫂_mixed_gender_queer_sociality_as_radicalisation_antidote.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🐝_Body_Politic/🫂_mixed_gender_queer_sociality_as_radicalisation_antidote.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/notes.txt)
+      - [`🥮_mooncakes_and_oranges.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀_Embodiment/🥮_mooncakes_and_oranges.md)
     - [**🫀♻️_The_Body_In_The_Loop/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/.🌱_Still_Growing/notes.txt)
