@@ -1,5 +1,7 @@
+<!-- Unfortunately this has generated teams of notes re the troubles so much to come because I had no idea the size of that suitcase that apparently I was dragging around -->
+
 # ☘️ On Targeting Kneecap And Macklemore  
-**First created:** 2026-09-19 | **Last updated:** 2026-09-20  
+**First created:** 2026-09-19 | **Last updated:** 2026-09-24  
 *Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*  
 
 ---
@@ -722,4 +724,4 @@ It follows a contemporary music and platforming controversy outward into questio
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-20_
+_Last updated: 2026-09-24_
