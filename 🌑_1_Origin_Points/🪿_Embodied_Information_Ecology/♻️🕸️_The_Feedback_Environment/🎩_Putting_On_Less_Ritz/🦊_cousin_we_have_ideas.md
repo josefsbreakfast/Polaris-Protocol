@@ -1,5 +1,5 @@
 # 🦊 Cousin, We Have Ideas
-**First created:** 2026-09-20 | **Last updated:** 2026-09-23  
+**First created:** 2026-09-20 | **Last updated:** 2026-09-24  
 *AI governance may not need a world regulator so much as competent enforcement, international translation, shared interfaces, and several people agreeing to stop making the admin worse.*
 
 ---
@@ -2024,7 +2024,8 @@ Just the recognition that everybody is becoming sufficiently inconvenienced by t
 - [📹: Mission of China to the EU: “At the invitation of President Donald J.
 Trump, President Xi Jinping will soon pay a state visit to the United States.”](https://vm.tiktok.com/ZN8M6pEN7/) – *prob a good idea tbf*
 - [📹: TRIP, via TikTok: “Al CEOs hiring Al lawyers and donating money to (human) politicians to lobby for Al rights. A frightening future prospect by Yuval Noah Harari.”](https://vm.tiktok.com/ZN8MVqGa7/) – *when you accidentally make a robotic proletariat*
-- [📰: The Telegraph: “Tony Blair: Don’t slow down on AI”](https://www.telegraph.co.uk/business/2026/09/21/tony-blair-dont-slow-down-on-ai/) – *computer scientists may be concerned, but Tony got coin so we need to blow up the world now, cousin*  
+- [📰: The Telegraph: “Tony Blair: Don’t slow down on AI”](https://www.telegraph.co.uk/business/2026/09/21/tony-blair-dont-slow-down-on-ai/) – *computer scientists may be concerned, but Tony got coin so we need to blow up the world now, cousin*
+- [📰: BBC: “Trump welcomes Xi to Washington as his trade secretary says US and China agree to extend trade truce”](https://www.bbc.co.uk/news/live/cwy8zglv08ymt) – *probably sensible for modelling tbf, also 👀🍿*  
 
 ---
 
@@ -2085,4 +2086,4 @@ The fox is a satirical analytical device. The paperwork is unfortunately real.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_
