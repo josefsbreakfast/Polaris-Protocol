@@ -26,6 +26,8 @@ This is why, unfortunately, it is also a diplomatic vulnerability to never fully
 
 By extension, I think this also starts to strongly resemble the ways in which communication between different people and groups in the UK around recent escalations of violence in Palestine seems to become very tortuous.  
 
+Idk, there’s a lot to say that is validly missing in institutional coverage and address.  
+
 ---
 
 ## 🛰️ Orientation
