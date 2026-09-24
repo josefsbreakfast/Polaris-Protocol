@@ -1,5 +1,5 @@
 # 🧿 The Visibility Triangle  
-**First created:** 2026-08-18 | **Last updated:** 2026-09-09  
+**First created:** 2026-08-18 | **Last updated:** 2026-09-24  
 *How interfaces, discovery systems, routes, commercial incentives, and human bodies shape what can be seen, found, inferred, and governed.*  
 
 ---
@@ -1454,7 +1454,8 @@ It may also be one of the most useful design questions for whatever comes next.
 - [📹: Vice: “The Dark Reality of Moderating for Meta | Informer”](https://youtu.be/EZLr6w7C-xY?is=3HpgegnOnZXtjpFn)
 - [📹: Last Week Tonight with John Oliver: “Facebook & Content Moderation”](https://youtu.be/nf7XHR3EVHo?is=oyUYCV0f2d-4JuTE)
 - [📰: The Guardian: “Did someone wearing Meta Glasses film you today? Are you sure?”](https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance)
-- [📹: Slow AI: “Campaigners want Meta's smart glasses banned on the London Underground and Transport for London has said it has no plans to restrict any device.”](https://vm.tiktok.com/ZN82ax2mY/) 
+- [📹: Slow AI: “Campaigners want Meta's smart glasses banned on the London Underground and Transport for London has said it has no plans to restrict any device.”](https://vm.tiktok.com/ZN82ax2mY/)
+- [📰: BBC: “They were labelled 'pervert glasses'. Will a camera-free version transform their image?”](https://www.bbc.co.uk/news/articles/cwp80l0my1x2o) – *Meta: What about just an ambient mic? :)*  
 
 ---
 
@@ -1481,4 +1482,4 @@ information ecology, surveillance capitalism, platform governance, content moder
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-09_
+_Last updated: 2026-09-24_
