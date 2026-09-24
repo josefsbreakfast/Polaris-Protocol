@@ -18,6 +18,14 @@ The fact I feel so much self-censure in doing this as a piece of work, and how m
 
 We have never really had the acknowledgement process in public in full, it’s still not fully resolved and that is felt differently based on people’s experiences and family and stories and backgrounds.  
 
+Note to self: to build out [this](https://youtu.be/MCJyVFyhlnM?is=H8v6De6Ie3d6e4iw) on playing defence and cross link here; the fact that we’re still going through these processes should be a “check engine” light, and there is an environment around this within mainland UK which would be understandably painful for communities and families most directly impacted in NI, and which hangs over the mainland in extensions (but is not evenly distributed).  
+
+I realised yesterday that I understood what a coded bomb message was way before learning long division. I’ve written before about how the wider piece was framed to me, and I’ve become very conscious over the last three years that our biggest military partner is quite unaware of any of our feelings and how they differ.  
+
+This is why, unfortunately, it is also a diplomatic vulnerability to never fully discuss.  
+
+By extension, I think this also starts to strongly resemble the ways in which communication between different people and groups in the UK around recent escalations of violence in Palestine seems to become very tortuous.  
+
 ---
 
 ## 🛰️ Orientation
