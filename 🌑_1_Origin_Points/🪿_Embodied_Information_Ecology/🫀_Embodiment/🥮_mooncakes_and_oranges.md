@@ -4,6 +4,486 @@
 
 ---
 
+🥮 中秋节快乐! 中秋節快樂！🎑  
+
+*May you have the spirit of a dragon-horse.*  
+
+---  
+
+## 🌕 Greetings First, Because We Have Manners
+
+Before we do international relations:
+
+**Happy Mid-Autumn Festival.**
+
+And because this is a British-written repository talking about Chinese cultural information in an American diplomatic context, we're going to do that in both Mandarin and Cantonese.
+
+### 🌕 Mandarin / 普通话
+
+- **中秋节快乐！**  
+  *Zhōngqiū Jié kuàilè!*  
+  **Happy Mid-Autumn Festival!**
+
+- **月圆人团圆！**  
+  *Yuè yuán rén tuányuán!*  
+  **The moon is full; may the people/family be reunited.**
+
+- **花好月圆！**  
+  *Huā hǎo yuè yuán!*  
+  Literally, **flowers flourishing and moon full** — a wish for happiness, completeness and things being as they should be.
+
+- **阖家团圆！**  
+  *Héjiā tuányuán!*  
+  **Wishing reunion and togetherness for the whole family.**
+
+### 🌕 Cantonese / 廣東話
+
+- **中秋節快樂！**  
+  *Zung1 cau1 zit3 faai3 lok6!*  
+  **Happy Mid-Autumn Festival!**
+
+- **人月兩團圓！**  
+  *Jan4 jyut6 loeng5 tyun4 jyun4!*  
+  **May people and moon both be reunited / complete.**
+
+- **花好月圓！**  
+  *Faa1 hou2 jyut6 jyun4!*  
+  **Flowers flourishing and moon full** — happiness, completeness and reunion.
+
+- **闔家團圓！**  
+  *Hap6 gaa1 tyun4 jyun4!*  
+  **Wishing reunion and togetherness for the whole family.**
+
+---
+
+### 🐎 And It Is The Year Of The Horse
+
+There is another layer to the auspicious language floating around in 2026.
+
+This is the **Year of the Horse**.
+
+The horse carries an enormously useful vocabulary of vigour, perseverance, movement, momentum and success. So although these are not specifically *Mid-Autumn greetings*, they are part of the wider Chinese auspicious language environment of this particular year.
+
+And, frankly, they fucking slap.
+
+#### 🐉🐎 龙马精神 / 龍馬精神
+
+**Mandarin:** *lóng mǎ jīng shén*  
+**Cantonese:** *lung4 maa5 zing1 san4*
+
+Literally, the **spirit of the dragon-horse**.
+
+A wish for vigour, vitality, energy and an indomitable spirit.
+
+Not simply:
+
+> **be strong like horse**
+
+but something closer to:
+
+> **May you possess the tremendous vitality and spirit of the dragon-horse.**
+
+Which is considerably cooler.
+
+#### 🐎 马到成功 / 馬到成功
+
+**Mandarin:** *mǎ dào chéng gōng*  
+**Cantonese:** *maa5 dou3 sing4 gung1*
+
+Success arrives with the horse.
+
+A wish that success should come swiftly and readily.
+
+> 🐎 **GO FORTH. SUCCEED.**
+
+#### 🐎 一马当先 / 一馬當先
+
+**Mandarin:** *yī mǎ dāng xiān*  
+**Cantonese:** *jat1 maa5 dong1 sin1*
+
+One horse takes the lead.
+
+To forge ahead; to take the lead; to be out in front.
+
+> 🐎 **RIGHT THEN. FORWARDS.**
+
+#### 🐎 万马奔腾 / 萬馬奔騰
+
+**Mandarin:** *wàn mǎ bēn téng*  
+**Cantonese:** *maan6 maa5 ban1 tang4*
+
+Ten thousand horses galloping.
+
+A spectacular image of collective energy, force and forward momentum.
+
+> 🐎🐎🐎🐎🐎🐎🐎🐎🐎🐎  
+> **FUCKING GO.**
+
+#### 🐎 马上有福 / 馬上有福
+
+**Mandarin:** *mǎ shàng yǒu fú*  
+**Cantonese:** *maa5 soeng6 jau5 fuk1*
+
+A horse-based wordplay around good fortune arriving **right away / upon the horse**.
+
+> 🐎 **MAY GOOD SHIT ARRIVE IMMEDIATELY.**
+
+The exact cultural histories and usages of these phrases are not interchangeable.
+
+But taken together, the imagery around the horse gives us a lovely little cluster:
+
+> **🐎 strength**  
+> **🐎 vitality**  
+> **🐎 perseverance**  
+> **🐎 movement**  
+> **🐎 momentum**  
+> **🐎 success**
+
+While Mid-Autumn gives us:
+
+> **🌕 fullness**  
+> **🌕 reunion**  
+> **🌕 return**  
+> **🌕 family**  
+> **🌕 shared time**  
+> **🌕 people separated by distance looking at the same moon**
+
+Which, as instructions for two superpowers trying to work out how to coexist, is honestly not bad.
+
+> **🐎 Keep moving.**
+>
+> **🌕 Keep coming back together.**
+>
+> **🍊 Bring snacks.**
+
+---
+
+### 🇬🇧 Why Is Cantonese Here?
+
+A quick contextual note, particularly for American readers.
+
+This is **not** a recommendation that American officials substitute Cantonese for Mandarin when conducting state diplomacy with Beijing.
+
+The linguistic environment of the People's Republic of China — and the political relationships between Mandarin, Cantonese and China's many other languages and language varieties — is considerably more complicated than that.
+
+For **US–PRC state diplomacy**, Mandarin is ordinarily going to be the immediately relevant Chinese language.
+
+But Polaris is not being written from Washington.
+
+**It is being written in Britain.**
+
+Britain has its own Chinese information environment.
+
+That includes a substantial Cantonese-speaking population, longstanding historical relationships with Hong Kong, and more recent migration from Hong Kong.
+
+So if we're going to stop for a moment and wish people:
+
+> 🌕 **Happy Mid-Autumn Festival**
+
+it seems unnecessarily weird to write the greeting only for the Chinese-language audience most immediately relevant to **the American state relationship we're analysing**, while ignoring a Chinese-language community particularly relevant to **the place from which the analysis itself is being written**.
+
+So:
+
+> 🇺🇸 **US–PRC state diplomacy**  
+> → Mandarin is particularly relevant.
+>
+> 🇬🇧 **British public-facing repository**  
+> → Cantonese belongs here too.
+
+That does **not** mean the languages, populations or political relationships are interchangeable.
+
+It means almost exactly the opposite.
+
+**Different relationship. Different context. Different linguistic choice.**
+
+And that is rather the fucking point.
+
+---  
+
+### 🇺🇸 America: You Have People Who Know This Stuff
+
+And a related note for American readers — particularly journalists, editors, researchers and people trying to explain this visit to a wider public.
+
+If you're looking at Mid-Autumn Festival and thinking:
+
+> **I understand intellectually that this is important, but I don't have an intuitive cultural reference point for how important it feels.**
+
+you have another information source available to you.
+
+**Your own population.**
+
+The United States contains Chinese Americans and other Americans from communities in which Mid-Autumn is part of lived family and cultural life.
+
+Some grew up celebrating it.
+
+Some have parents or grandparents who did.
+
+Some will immediately understand why:
+
+> **Xi Jinping is in America over Mid-Autumn**
+
+carries information that:
+
+> **Xi Jinping is making a state visit in September**
+
+does not.
+
+That does not mean grabbing the nearest Chinese-American colleague and appointing them:
+
+> **OFFICIAL EXPLAINER OF CHINA.**
+
+People are not interchangeable cultural reference manuals.
+
+Chinese-American communities are themselves enormously diverse in language, migration history, generation, region, politics, religion, class and relationship to China.
+
+Nor does being Chinese American automatically make somebody an expert on the government of the People's Republic of China.
+
+Those are different kinds of knowledge.
+
+But if you are trying to understand the **cultural information environment** surrounding an event, lived cultural knowledge is evidence too.
+
+A newsroom might have people who can tell you:
+
+> 🌕 what Mid-Autumn felt like in their household;
+>
+> 🥮 whether somebody mailed mooncakes across the country every year;
+>
+> 👵 whether calling family mattered;
+>
+> 🏮 what their community actually did;
+>
+> 📅 whether choosing to travel over the festival would feel completely ordinary, mildly notable, or **holy shit, you chose *this week*?**
+
+That information does not replace historians, diplomats, China correspondents, linguists or primary sources.
+
+It tells you something those sources may not:
+
+> **how the information is experienced by an actual receiving system.**
+
+---
+
+### 📰 This Is Particularly Useful For The Press
+
+Foreign reporting can become strangely abstract.
+
+A journalist sees:
+
+> **23–25 September 2026**
+
+and receives:
+
+> **three dates.**
+
+Someone for whom Mid-Autumn is culturally salient may see the same dates and immediately receive additional information:
+
+> 🌕 **Oh.**
+>
+> 🌕 **He's there *then*.**
+>
+> 🌕 **That's interesting.**
+
+Neither observer has changed the calendar.
+
+What changed was the contextual information available to the observer.
+
+So if your newsroom lacks that context, one perfectly legitimate journalistic response is:
+
+> **Ask somebody who has it.**
+
+Not:
+
+> “Please tell me what all Chinese people think.”
+
+But:
+
+> “I'm trying to understand the cultural weight of this timing. How would you read it?”
+
+Then compare answers.
+
+Ask more than one person.
+
+Check the history.
+
+Check the primary sources.
+
+Talk to specialists.
+
+Find out where interpretations differ.
+
+Congratulations.
+
+**You are doing journalism.**
+
+---
+
+### 🫀 Shorthand
+
+> **Demographic diversity can also be informational infrastructure.**
+
+A country does not merely contain different identities.
+
+It contains people carrying:
+
+- languages;
+- memories;
+- sensory references;
+- family histories;
+- religious traditions;
+- migration histories;
+- historical knowledge;
+- cultural shorthand;
+- different models of the same event.
+
+That does not make every interpretation correct.
+
+It means the system possesses **additional observational capacity**.
+
+If nobody ever asks those observers what they can see, the capacity is present but unused.
+
+> 🇺🇸: **We need better information about how this might be understood in Chinese cultural contexts.**
+>
+> 🇺🇸🇨🇳: **Hello.**
+>
+> 🇺🇸: **Oh, right.**
+
+---  
+
+### 🐎🇺🇸 America, You Actually Have People You Can Ask About This
+
+A note for American readers who find themselves looking at all this Chinese horse language and thinking:
+
+> **I understand the words, but I don't quite understand why the horse carries so much feeling.**
+
+First:
+
+**Chinese traditions involving horses are not equivalent to Indigenous American traditions involving horses.**
+
+There is no singular “Native American spirituality”, either. Indigenous nations have their own histories, cosmologies, languages, relationships with animals, and experiences of the horse.
+
+Do not collapse them together.
+
+But America is also not culturally unequipped to understand the underlying proposition.
+
+The United States contains Indigenous peoples whose knowledge traditions can make immediately legible something that a highly industrialised Western information environment can sometimes struggle to perceive:
+
+> **an animal does not have to be merely an animal-shaped tool.**
+
+A horse can simultaneously be:
+
+- a living being;
+- a working partner;
+- a relationship;
+- a source of mobility;
+- a bearer of history;
+- an expression of particular qualities;
+- part of relationships between people and land;
+- materially useful;
+- emotionally significant;
+- culturally meaningful;
+- and, within some traditions, spiritually significant.
+
+Those meanings do not have to cancel one another out.
+
+And that is useful when encountering Chinese phrases in which the horse carries ideas of:
+
+> 🐎 vitality  
+> 🐎 perseverance  
+> 🐎 strength  
+> 🐎 movement  
+> 🐎 momentum  
+> 🐎 success
+
+You do not need to pretend the traditions are the same.
+
+**They aren't.**
+
+The useful move is recognising that another cultural information system can encode meaning into relationships between humans, animals and the world without that meaning becoming irrational merely because your own cultural vocabulary does not immediately retrieve it.
+
+And if you're an American journalist trying to understand that:
+
+**America contains Indigenous scholars, writers, historians, cultural practitioners and communities who know considerably more about their own traditions than you do.**
+
+Listen to them.
+
+Not:
+
+> **“Please explain Chinese culture to me.”**
+
+Obviously.
+
+But perhaps:
+
+> **“I'm trying to stop assuming that my own relationship with animals, land and symbolism is culturally neutral. What am I failing to perceive?”**
+
+That is a much better question.
+
+### 🫀 Shorthand
+
+> **Analogy ≠ equivalence.**
+>
+> **Recognition can still travel across difference.**
+
+Or, even shorter:
+
+> 🇨🇳🐎 ≠ 🪶🇺🇸🐎
+>
+> **But both should warn you against assuming:**
+>
+> 🐎 = transport.
+
+Sometimes the first step towards understanding somebody else's information environment is discovering that **your own country already contains people who can show you the limits of yours.**
+
+---
+
+### 🫀 Same Festival. Different Receiving Environment.
+
+The choice of language itself demonstrates the larger argument.
+
+The information being transmitted is apparently very simple:
+
+> **Happy Mid-Autumn Festival.**
+
+But what good transmission requires depends upon the receiving environment.
+
+For an American diplomatic institution dealing directly with the government in Beijing:
+
+> 🇺🇸 → 🇨🇳  
+> **Mandarin has particular state-diplomatic salience.**
+
+For a British writer addressing a public readership from Britain:
+
+> 🇬🇧 → 🇭🇰 / 🇨🇳 / 🌏  
+> **Cantonese acquires additional local salience.**
+
+The message has not changed.
+
+The route has.
+
+The audience has.
+
+The history has.
+
+The relationship has.
+
+Therefore the appropriate transmission has changed too.
+
+> **Same festival.**
+>
+> **Same good wishes.**
+>
+> **Different information environment.**
+
+Welcome to Embodied Information Ecology.
+
+🥮
+
+Now.
+
+**HAVE YOU CONSIDERED GIVING EACH OTHER SOME FUCKING FOOD?**  
+
+---
+
+
 ## 🌕 Orientation — Guys. Make It Happen.
 
 On 24 September 2026, Donald Trump and Xi Jinping stood in Washington talking about some very large things.
