@@ -1304,9 +1304,37 @@ Not because another Anglophone country necessarily knows **the correct British a
 
 **🇨🇦 🇦🇺 🇳🇿 ETC.:** Mate, get several readings before you launch the fucking submarine.
 
+Crucially, this does **not** mean appointing Canada as the singular trusted interpreter.
+
+**🇺🇸 AMERICA:** Why not Canada? Canada is polite.
+
+**🇬🇧 BRITAIN:** **CANADA LIED TO US ABOUT THE THERMONUCLEAR MOOSES.**
+
+**🇨🇦 CANADA:** That was completely different.
+
+**🇬🇧 BRITAIN:** **YOU SAID THEY WERE DEFENSIVE.**
+
+**🇨🇦 CANADA:** They *are* defensive.
+
+**🇦🇺 AUSTRALIA:** Mate, just get three opinions.
+
+**🇳🇿 NEW ZEALAND:** Four.
+
+**🇺🇸 AMERICA:** Why four?
+
+**🇳🇿 NEW ZEALAND:** **Because one of them is Canada.**
+
+This is, beneath the extremely serious unresolved matter of the thermonuclear mooses, the actual methodological point:
+
+> **Adding another observer does not give you an objective interpretation. It gives you another observer.**
+
 The purpose is not to replace one cultural decoder with another.
 
-It is to prevent one receiver model from becoming invisible merely because it feels natural to the receiver.
+It is to compare several receiver models so that no single interpretation becomes invisible merely because it feels natural to the person making it.
+
+**POLARIS RULE:** triangulate your Anglophones.
+
+**POLARIS SUB-RULE:** Canada must declare all thermonuclear ungulates before being admitted to the diplomatic interpretation panel. 🫎☢️
 
 ### 🪭 Back to Elizabeth
 
