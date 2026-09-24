@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-24 16:25:31 UTC_
+_Generated on 2026-09-24 20:29:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -940,6 +940,7 @@ _Generated on 2026-09-24 16:25:31 UTC_
         - [`📋_exhibit_g_hot_or_not_to_web_4.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_g_hot_or_not_to_web_4.md)
         - [`📋_exhibit_h_radicalised_algorithms.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_h_radicalised_algorithms.md)
         - [`🦊_cousin_we_have_ideas.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🦊_cousin_we_have_ideas.md)
+        - [`🪙_precious_american_coin.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🪙_precious_american_coin.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/README.md)
       - [`🌹_digital_romeo_spy_stories.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🌹_digital_romeo_spy_stories.md)
       - [`🎮_p1_is_practising.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎮_p1_is_practising.md)
