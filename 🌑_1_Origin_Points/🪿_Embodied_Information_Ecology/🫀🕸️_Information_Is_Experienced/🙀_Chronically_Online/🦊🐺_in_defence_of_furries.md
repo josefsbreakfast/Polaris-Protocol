@@ -1128,3 +1128,4 @@ started 2026-08-13
   - **The furry is an unusually fluffy longitudinal study of what people do when you give them the internet.**
  
   
+- [Tiktok: Daily Mail: “Senator Tommy Tuberville says many pilots, flight attendants and air traffic controllers are part of the furry community”](https://vm.tiktok.com/ZN8MTN56x/) - obvs immediately comments re recent statements by kash about fbi intake 
