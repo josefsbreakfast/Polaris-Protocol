@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-25 23:15:07 UTC_
+_Generated on 2026-09-25 23:42:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4290,6 +4290,7 @@ _Generated on 2026-09-25 23:15:07 UTC_
   - [**🛰️_OSINT_Field_Operations/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/)
     - [**🍉_Academic_Liberty/**](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/)
       - [`README.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/README.md)
+      - [`notes.txt`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/notes.txt)
       - [`🏛️_annex_a_birmingham_pre_litigation.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🏛️_annex_a_birmingham_pre_litigation.md)
       - [`📬_FOI_request_template_bundle.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/📬_FOI_request_template_bundle.md)
       - [`🕸️_sector_coordination_hypothesis.md`](🌓_3_In_The_Moment/🛰️_OSINT_Field_Operations/🍉_Academic_Liberty/🕸️_sector_coordination_hypothesis.md)
