@@ -10,7 +10,13 @@ this is very interesting, and yes, we can see how we can branch out this chat re
 
 and there’s already interesting thing here once you get past the idea that oh my goodness people might use an llm that’s based somewhere else, which is that by using a selection of llms across different jurisdictions, you can actually create a situation in which all jurisdictions are held to better standards than what they have previously been coasting on.  
 
+there’s this quote from Eurasia group, which is headed by Ian Bremmer, which appears immediately in the introduction for Jonathan Taplin‘s the end of reality, talking about how the world in which the very powerful men who drive Silicon Valley have created is one in which our personal information will be hacked, where algorithms speed on biased data and will make destructive decisions about how billions of us will live work in love about how online mobs create chaos about how conspiracy theories will be a large basis of the information people will be persuaded to believe, and how this will all essentially be held not in common for the people, not under the control of government, but by a small selection of companies for their own capital benefit.  
 
+*we have been telling you all 😅*  
+
+but I think within all of this, the important thing is to now look at the people who were trying to warn, and now that AI is giving so many people the ability to participate more fully in democracy or more fully in transparency process regardless of whether they’re in liberal democracy or not perhaps we should all recognise that we are simply in a world in which corruption cannot happen by the same means, because we’ve all invested information in a bunch of calculators, and the calculators have worked out that it doesn’t make sense by our own logic.  
+
+anyway, Shabbat shalom because this is essentially the craziness that I get up to when I’m peri UTI status I’m gonna get some more sleep. I hope your Sukkot remains open to all during this holiday and you have conversations which push you and challenge you.  
 
 - - - 
 
