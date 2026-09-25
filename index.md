@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-25 19:51:22 UTC_
+_Generated on 2026-09-25 20:33:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5331,6 +5331,8 @@ _Generated on 2026-09-25 19:51:22 UTC_
       - [`🫧_campaign_canon.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🫧_Krakens_Pearls/🫧_campaign_canon.md)
     - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/notes.txt)
     - [`📜_tapestry_draft.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/📜_tapestry_draft.md)
+  - [**🧩_Accidental_Autistic_Diaspora_Dataset/**](🌖_6_Learning_The_Skies/🧩_Accidental_Autistic_Diaspora_Dataset/)
+    - [`notes.txt`](🌖_6_Learning_The_Skies/🧩_Accidental_Autistic_Diaspora_Dataset/notes.txt)
   - [`README.md`](🌖_6_Learning_The_Skies/README.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
   - [**.🌱_Still_Growing/**](🏮_Admin_Nest/.🌱_Still_Growing/)
