@@ -7,4 +7,4 @@ this is how we get fascist parties, by depriving large sections of the populatio
 
 cf Labour 
 
-cd dems bombing the popular campaign in 2016, 2024
+cf dems bombing the popular campaign in 2016, 2024
