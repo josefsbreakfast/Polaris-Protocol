@@ -1,1 +1,124 @@
 oh, Israel. sigh.  
+
+dw I made one for the Americans and British power is never off the hook; you good.  
+
+just wait til i start on Germany one of these days.  
+
+- - -  
+
+
+🌖_6_Learning_The_Skies/🧩_Accidental_Autistic_Diaspora_Dataset/
+
+Core question: Can a system classify people according to behaviours relevant to commerce, politics, propaganda or security and accidentally construct a population that substantially proxies neurodivergence or another protected characteristic?
+
+Things to include
+
+* 🧩 The accidental category
+    * The system doesn’t need AUTISTIC = TRUE.
+    * It can select persistence, argumentation, anomaly detection, information-seeking, network position, political dissent, etc.
+    * These behaviours have multiple possible causes.
+    * The resulting cluster may nevertheless correlate strongly with neurodivergence.
+    * Intentional targeting ≠ proxy targeting ≠ disparate outcome.
+* 🧠 Autism without turning autism into a metaphor
+    * Autism is a heterogeneous neurodevelopmental condition.
+    * “Autistic” must not become shorthand for clever, pedantic, argumentative, obsessive or politically resistant.
+    * Autistic people can have radically different politics, abilities and support needs.
+    * Undiagnosed / suspected / trait-overlap populations need to remain distinct from diagnosed autistic populations.
+* ✡️ Jewish culture and behavioural norms
+    * Research existing literature around Jewish intellectual/religious practice and cognition.
+    * Rabbinic/Talmudic traditions of argument, textual interrogation and competing interpretation.
+    * Which behaviours are socially legible or prestigious within particular Jewish environments?
+    * Huge warning against “Jews are autistic”.
+    * Jewish cultures are themselves heterogeneous.
+    * The Rabbi’s Brain as one source to interrogate critically rather than a foundational authority.
+* 🪞 Culture changes the meaning of the observation
+    * Same behaviour, different cultural interpretation.
+    * perseveration somewhere may become David has Opinions somewhere else.
+    * Cultural normalisation might obscure disability.
+    * Conversely, outsiders might pathologise culturally ordinary behaviour.
+    * Neither interpretation establishes neurotype.
+* 👩 Gender
+    * Historic diagnostic models and recognition of autism in women/girls.
+    * Gendered interpretation of argument, directness, intensity, expertise, etc.
+    * Interaction between Jewish cultural norms and gender norms.
+    * Could behavioural selection accidentally produce a population disproportionately containing neurodivergent Jewish women?
+* 🕸️ Diaspora as network
+    * Diasporas aren’t clean geographic populations.
+    * Family, religious, cultural, institutional, linguistic, professional and digital connections.
+    * Consequently, anyone trying to model a diaspora may rely heavily on relational/behavioural information.
+    * Network centrality ≠ political authority.
+    * Dense minority networks ≠ conspiratorial power.
+* 📊 Commercial population segmentation
+    * Oracle and other data brokers.
+    * Audience construction.
+    * Behavioural data.
+    * Profile enrichment.
+    * Sensitive-attribute inference.
+    * What happens after commercial data crosses into another system?
+* 🔗 Dataset joins
+    * Commercial dataset → platform information → government information → intelligence holdings.
+    * Each actor may know something different.
+    * Nobody needs to possess the eventual classification at the beginning.
+    * The joins can create a new informational object.
+* 🇮🇱 Israeli/diaspora case study
+    * Keep documented facts separate from hypotheses.
+    * Public diplomacy and diaspora engagement.
+    * Social-media monitoring.
+    * Narrative management during wartime.
+    * What populations are actually identified?
+    * What data providers/vendors are involved?
+    * What can be established about Israeli government bodies versus IDF/intelligence/Unit 8200?
+    * Do not collapse these into one actor.
+* 🎯 Dissent and narrative resistance
+    * Distinguish persuadability from network consequence.
+    * Someone disagreeing privately is different from:
+        anomaly → research → discussion → collective verification → alternative account.
+    * Political bloc versus epistemic network.
+    * What would an information-management system actually care about?
+* ⚖️ Discrimination
+    * Protected-characteristic law in relevant jurisdictions.
+    * Direct versus indirect discrimination.
+    * Disability discrimination.
+    * Proxy variables.
+    * Foreseeability versus intention.
+    * What obligations arise once disproportion becomes known?
+    * Don’t decide legal liability before establishing system architecture and jurisdiction.
+* 🔎 Transparency and evidence
+    * What would distinguish:
+        * deliberate identity targeting;
+        * deliberate proxy targeting;
+        * foreseeable overlap;
+        * overlap discovered downstream;
+        * genuinely accidental selection?
+    * Procurement.
+    * Contracts.
+    * DPIAs/privacy assessments.
+    * Taxonomies.
+    * schemas.
+    * vendor/subprocessor lists.
+    * litigation/disclosure.
+    * Parliamentary/Knesset material.
+    * company documentation.
+* 🚨 Antisemitism guardrail
+    * Never reason:
+        Jewish people in network → Jewish conspiracy.
+    * Actors, institutions, relationships, evidence, actions.
+    * Minority networking is not unique to Jews.
+    * Jewish historical marginalisation neither establishes contemporary powerlessness nor collective power.
+    * Avoid both antisemitic and philo-Semitic exceptionalism.
+* 🌍 Comparative cases
+    * Don’t let Israel become the supposedly uniquely sinister example.
+    * Advertising.
+    * policing.
+    * counter-extremism.
+    * education.
+    * recruitment.
+    * fraud detection.
+    * insurance/finance.
+    * healthcare.
+    * political campaigning.
+    * other diasporas.
+
+Central proposition
+
+A classifier does not need to know what you are in order to discriminate against people who resemble you in the dimensions it can observe.
