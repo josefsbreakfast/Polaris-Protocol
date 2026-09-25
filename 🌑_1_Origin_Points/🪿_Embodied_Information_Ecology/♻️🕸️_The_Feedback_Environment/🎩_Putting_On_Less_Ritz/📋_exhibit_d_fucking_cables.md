@@ -1,5 +1,5 @@
 # 📋 Exhibit D: Fucking Cables
-**First created:** 2026-09-16 | **Last updated:** 2026-09-20  
+**First created:** 2026-09-16 | **Last updated:** 2026-09-25  
 *Interoperability is a consumer-facing property, and the string between the two holes should not require specialist knowledge.*
 
 ---
@@ -361,7 +361,7 @@ You do not necessarily need to trap Sandra.
 
 ---
 
-## 📳 The Vibrator Test
+## 🍯 The Vibrator Test
 
 We regret to inform Silicon Valley that certain categories of cheap rechargeable consumer electronics have, at various points, achieved a remarkable user-facing technological capability:
 
@@ -619,4 +619,4 @@ It uses charging cables, rechargeable batteries and connector transitions as a c
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-20_
+_Last updated: 2026-09-25_
