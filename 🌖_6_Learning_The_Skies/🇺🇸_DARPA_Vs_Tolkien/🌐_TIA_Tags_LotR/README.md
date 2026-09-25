@@ -10,9 +10,9 @@ This folder exists because Chloe is taking an unreasonable amount of time to rea
 
 The problem is not Tolkien.
 
-The problem is that every few chapters something happens which produces the increasingly unavoidable reaction:
+The problem is that every few *lines* something happens which produces the increasingly unavoidable reaction:
 
-> **Fucking hell. How would the American security machine tag this?**
+> **Fucking hell. How would the American security machine tag _even the author’s notes_ for this?**
 
 There are secret meetings.
 
