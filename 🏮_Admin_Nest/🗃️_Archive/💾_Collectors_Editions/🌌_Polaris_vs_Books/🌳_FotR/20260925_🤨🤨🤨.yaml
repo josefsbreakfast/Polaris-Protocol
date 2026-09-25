@@ -1,0 +1,23 @@
+tolkien_pedant_monitoring:
+  well_actually_counter: 0
+  unsolicited_corrections: 0
+  useful_unsolicited_corrections: 0
+  days_since_first_bait_deployment: null
+
+  current_status: "suspiciously quiet"
+
+  methodology:
+    deliberate_errors: false
+    direct_summoning: false
+    nutritious_pedant_food: true
+    observe_natural_response: true
+
+  expected_behaviour:
+    well_actually_counter: ">= 1"
+
+  observed_behaviour:
+    well_actually_counter: 0
+
+  interpretation:
+    proof_of_anything: false
+    weird_bro: true
