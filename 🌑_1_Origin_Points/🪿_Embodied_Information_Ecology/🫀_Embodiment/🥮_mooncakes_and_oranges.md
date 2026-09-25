@@ -1181,7 +1181,8 @@ Because underneath the silliness is a serious proposition:
 *Follow the evidence:*  
 
 - [📸: The Guardian: “Full moons, mooncakes and lanterns in every colour: the mid-autumn festival – in pictures”](https://www.theguardian.com/culture/gallery/2026/sep/25/chinese-mid-autumn-festival-september-2026-in-pictures)
-- [🥮: Country & Town House: “Where To Celebrate The Mid-Autumn Festival In London”](https://www.countryandtownhouse.com/food-and-drink/mid-autumn-festival-london/)  
+- [🥮: Country & Town House: “Where To Celebrate The Mid-Autumn Festival In London”](https://www.countryandtownhouse.com/food-and-drink/mid-autumn-festival-london/)
+- [📰: Smithsonian Magazine: “At the Mid-Autumn Festival, Philadelphia’s Chinatown Is ‘Building the World We Want’”](https://www.smithsonianmag.com/blogs/smithsonian-center-folklife-cultural-heritage/2026/09/23/mid-autumn-festival-philadelphia-chinatown/)  
 
 ---
 
