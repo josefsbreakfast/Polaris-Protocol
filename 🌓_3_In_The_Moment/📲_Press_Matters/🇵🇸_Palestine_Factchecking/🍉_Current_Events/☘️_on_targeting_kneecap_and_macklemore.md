@@ -1,7 +1,21 @@
 <!-- Unfortunately this has generated teams of notes re the troubles so much to come because I had no idea the size of that suitcase that apparently I was dragging around -->
 
+so I’m actively in one of the physical acute on chronic complications I get and thus a bit derailed, so there’s a lot of stuff that’s about that interesting and bookmarked but not yet here.  
+
+but but but but:  
+
+this is very interesting, and yes, we can see how we can branch out this chat re decolonisation (? Confucian capture and Christianity capture as overlaps of imperial process under different empire systems), because we get the defending from westerners because it’s upsetting to have to consider another culture to produce anything more impressive to us than our own current practice. (a good solution to this is “do better”).  
+
+[AliMcForever: via YouTube: “Robert Kraft and Confucian legal theory”](https://youtu.be/HRsPMubcHpc?is=77edAzkm9w9qKdE8)  
+
+and there’s already interesting thing here once you get past the idea that oh my goodness people might use an llm that’s based somewhere else, which is that by using a selection of llms across different jurisdictions, you can actually create a situation in which all jurisdictions are held to better standards than what they have previously been coasting on.  
+
+
+
+- - - 
+
 # ☘️ On Targeting Kneecap And Macklemore  
-**First created:** 2026-09-19 | **Last updated:** 2026-09-24  
+**First created:** 2026-09-19 | **Last updated:** 2026-09-25  
 *Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*  
 
 ---
