@@ -1129,3 +1129,7 @@ started 2026-08-13
  
   
 - [Tiktok: Daily Mail: “Senator Tommy Tuberville says many pilots, flight attendants and air traffic controllers are part of the furry community”](https://vm.tiktok.com/ZN8MTN56x/) - obvs immediately comments re recent statements by kash about fbi intake 
+- [TikTok: Pearlmania500:”Former college football coach and
+CURRENT US senator Tommy Tuberville attacks FURRIES on the floor of the senate… diesel is nearing $7 nationally.”](https://vm.tiktok.com/ZN8MTGLTK/)
+
+srsly this always gets pumped as a talking point as a distraction it’s mostly such a non issue.  
