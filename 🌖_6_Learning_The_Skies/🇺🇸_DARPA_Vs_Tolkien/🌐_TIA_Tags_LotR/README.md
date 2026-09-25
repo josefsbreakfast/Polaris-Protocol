@@ -340,7 +340,9 @@ Or, in the less patient formulation:
 
 Research required.
 
-Joke retained.
+Joke retained.  
+
+It could be worse: I could be bringing up how your very pretty elf trinklets would digest the *Sex Pistols’* cultural contributions.  
 
 ---
 
