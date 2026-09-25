@@ -18,6 +18,8 @@ but I think within all of this, the important thing is to now look at the people
 
 anyway, Shabbat shalom because this is essentially the craziness that I get up to when I’m peri UTI status I’m gonna get some more sleep. I hope your Sukkot remains open to all during this holiday and you have conversations which push you and challenge you.  
 
+happy mid autumn festival now we’re there.  
+
 - - - 
 
 # ☘️ On Targeting Kneecap And Macklemore  
