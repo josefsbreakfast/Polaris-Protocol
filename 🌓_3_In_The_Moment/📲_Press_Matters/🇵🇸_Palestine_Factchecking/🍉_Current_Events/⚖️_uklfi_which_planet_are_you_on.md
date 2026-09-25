@@ -1,3 +1,16 @@
+this is very legal-advised feeling coverage and not necessarily expressive of eg the BMA (nothing on the person who reported it, recognising it feels directorship level driven):  
+
+https://www.bmj.com/content/394/bmj-2026-100867.short?rss=1
+
+guys please: do not give them a single inch on this.  
+
+who have they /not/ called for proscription of, who presently pose an active alt and far right threat in the uk?  
+
+at a time with IHL being part of “who gets to stand trial in the years to come?”: be very cautious about giving in on boundaries to the medical ethics principles and oath.  
+
+- - - 
+
+
 # ⚖️ UKLFI, Which Planet Are You On?
 **First created:** 2026-09-17 | **Last updated:** 2026-09-17  
 *What Britain should ask before allegations concerning individual humanitarian workers become an argument for treating Médecins Sans Frontières as a terrorist organisation.*
