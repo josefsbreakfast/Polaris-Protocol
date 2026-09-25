@@ -1,5 +1,5 @@
 # 🥮 Mooncakes And Oranges
-**First created:** 2026-09-24 | **Last updated:** 2026-09-24  
+**First created:** 2026-09-24 | **Last updated:** 2026-09-25  
 *On embodied diplomacy, learned taste, Florida citrus, pandas, human-controlled AI, and the apparently radical proposition that two great countries might both be allowed to succeed.*
 
 ---
@@ -1176,7 +1176,12 @@ Because underneath the silliness is a serious proposition:
 ---
 
 ## 🌌 Constellations
-🥮 🍊 🐼 🌕 🤖 — embodied information; sensory learning; cultural translation; people-to-people exchange; human legibility inside technological competition.
+🥮 🍊 🐼 🌕 🤖 — embodied information; sensory learning; cultural translation; people-to-people exchange; human legibility inside technological competition.  
+
+*Follow the evidence:*  
+
+- [📸: The Guardian: “Full moons, mooncakes and lanterns in every colour: the mid-autumn festival – in pictures”](https://www.theguardian.com/culture/gallery/2026/sep/25/chinese-mid-autumn-festival-september-2026-in-pictures)
+- [🥮: Country & Town House: “Where To Celebrate The Mid-Autumn Festival In London”](https://www.countryandtownhouse.com/food-and-drink/mid-autumn-festival-london/)  
 
 ---
 
@@ -1205,4 +1210,4 @@ It uses the September 2026 US–China state visit to examine how international r
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-24_
+_Last updated: 2026-09-25_
