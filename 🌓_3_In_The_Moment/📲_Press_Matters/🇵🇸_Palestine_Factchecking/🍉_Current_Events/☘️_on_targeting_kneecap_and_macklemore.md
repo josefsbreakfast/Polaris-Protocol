@@ -70,8 +70,8 @@ Anyone who has looked after or parented children to any extent will understand b
 
 - - - 
 
-# ☘️On Targeting Kneecap And Macklemore  
-**First created:** 2026-09-19 | **Last updated:** 2026-09-25  
+# ☘️ On Targeting Kneecap And Macklemore  
+**First created:** 2026-09-19 | **Last updated:** 2026-09-26  
 *Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*  
 
 ---
@@ -99,6 +99,18 @@ By extension, I think this also starts to strongly resemble the ways in which co
 Idk, there’s a lot to say that is validly missing in institutional coverage and address.  
 
 ---
+
+### ☘️ One boundary before we start
+
+Understanding is not endorsement. Listening is not enlistment. A song is not a loyalty oath.
+
+I am not endorsing republican paramilitary violence. I am not endorsing loyalist paramilitary violence. Rejecting either does not require me to endorse every action of the British state. The histories are connected; the responsibilities are not interchangeable.
+
+And I do not know what constitutional future the people of Northern Ireland should choose. That is rather the point of self-determination. I do not need to resolve somebody else's identity before insisting that they are entitled to political agency, safety, ordinary functioning institutions and the ability to get their fucking groceries.
+
+The playlist is therefore not an allegiance statement. It is an information object. Some of the songs contain republicanism because, inconveniently for the construction of an uncomplicated Spotify playlist, **Ireland contains Irish history**. Some carry grief. Some carry violence. Some carry jokes. Some preserve political worlds I would not reproduce as policy. Some are simply very good songs.
+
+Culture is one of the ways human groups remember things.
 
 ## 🛰️ Orientation
 
@@ -166,6 +178,19 @@ Then Irish artists start talking about colonial history, partition, Palestine, B
 🎤 Irishness as political information.  
 🚨 *Oh no. It has opinions.*
 
+There is another wrinkle here. Ed Sheeran has not merely encountered Irishness as an abstract political constituency. Irish musical reference and collaboration have been part of his own artistic world. *Galway Girl* deliberately trades in recognisable Irish musical and cultural markers; Beoga collaborated with him. None of that means that an English musician who works with Irish artists acquires an obligation to reproduce any particular Irish political position. Cross-cultural exchange is good. Nobody needs an ethnic permission slip to play a fiddle.
+
+But audiences are also allowed to notice when **cultural affinity and cultural solidarity appear to have different operating conditions**.
+
+**culture as aesthetic → comfortable**  
+**identity as texture → commercially legible**  
+**difference as authenticity → useful**  
+**the people carrying that culture become politically difficult → suddenly more complicated**
+
+That is not proof of hypocrisy, and it is not a claim about Sheeran's private motives. It is a reason the controversy acquired more emotional force than the bare contractual facts might predict. If a culture has helped make an artistic world feel rich, rooted or authentic, the people who carry that culture may reasonably pay attention to what happens when solidarity becomes expensive.
+
+**You cannot demand the carrier while indefinitely refusing the information it carries.**
+
 ---
 
 ## 2. 🎶 The Information Starts Travelling
@@ -198,6 +223,28 @@ American political speech about Palestine is translated into Irish. It is transl
 The information does not merely travel.
 
 It changes carrier.
+
+### 🎻 The playlist is part of the method
+
+This is not a playlist assembled to prove that everybody in it agrees with me, each other, Sinn Féin, Kneecap, Macklemore, the Irish government, the Palestinian Authority, or the ghost of James Connolly. That would be a remarkably inefficient way to use Spotify.
+
+It is closer to:
+
+**culture → memory → emotion → political information → translation → reinterpretation → circulation**
+
+Irish-language music, trad, rebel songs, contemporary Irish music, Palestinian solidarity songs, artists caught in the present controversy, and songs carrying violent histories can sit beside one another because the question is not merely *do I endorse the proposition contained in this lyric?*
+
+The questions are:
+
+**What information is this carrying? Who produced it? When? For whom? What history does the listener need in order to hear what is actually being said? What changes when the carrier changes? What survives translation? What becomes funny? What becomes threatening? What becomes commercially attractive?**
+
+The Easter Rising, the War of Independence, partition, the establishment of the Irish Free State, the later constitutional dispute over Northern Ireland and the Troubles belong to connected history, but they are not one undifferentiated event. One of the odd joins in Irish political memory is that republican struggle before and through independence becomes part of the recognised national history of the Republic, while later republican violence in pursuit of ending British sovereignty in Northern Ireland belongs to a much more contested and painful political landscape.
+
+That seam does not disappear because it is difficult to playlist.
+
+Nor does preserving a song about armed struggle mean endorsing armed struggle. Archives would become fairly fucking useless if keeping a cultural object meant signing up to everything inside it.
+
+Music is not merely entertainment product. Human beings use it for grief, sex, worship, mourning, rebellion, belonging, humiliation, patriotism, migration, violence, jokes, memory and love. A commercial music system can influence which of those things gets amplified. It cannot abolish the social function without eventually producing music that feels like it has had all the blood drained out of it.
 
 And before I even hear any shit about women’s sport and what this does for building women’s and girl’s culture and confidence, especially post-authoritarianism and post-and peri-conflict:  
 
@@ -248,6 +295,28 @@ Those propositions should not be flattened into one sentence claiming a centrall
 
 [📰 Reuters: “Macklemore dropped from Ed Sheeran’s US tour after ‘Free Palestine’ remarks”](https://www.reuters.com/business/media-telecom/macklemore-dropped-ed-sheerans-us-tour-after-free-palestine-remarks-2026-09-14/)
 
+### 🤝 And then the cost stopped belonging to one person
+
+The chronology did not end with Macklemore's removal. Aaron Rowe, Finneas, Lukas Graham and Beoga were reported among artists who withdrew from later tour dates in solidarity. Beoga matters particularly because this was not an abstract Irish constituency materialising from nowhere: the band had worked with Sheeran. Hayley Williams later used her own pre-show playlist to amplify artists who had withdrawn. She did **not** invite them onto her tour; the information action was amplification.
+
+Sheeran also subsequently addressed the controversy publicly, condemned the 7 October Hamas-led attacks, described the devastation in Gaza in stark humanitarian terms, and said he regretted decisions around the tour. That belongs in the chronology too. People are allowed to update. A node interested in information systems should not freeze a person permanently at the first bad packet we received from them.
+
+The mechanism is more interesting than deciding which musician has the purest soul:
+
+**pressure concentrates cost → solidarity redistributes cost**
+
+One performer can be made professionally expensive. Several performers withdrawing changes who bears the expense. A larger artist amplifying smaller artists changes the isolation calculation again. This is not necessarily a formal union action. It is recognisable mutual-aid logic:
+
+> **I cannot guarantee that nobody will punish you. I can help make punishing you cost more than they expected.**
+
+There is therefore a legitimate research question about backfire:
+
+**exclusion → publicity → solidarity → further circulation → scrutiny of the institutions responsible for exclusion**
+
+Not because we know what every venue owner or promoter expected. We don't. But institutions accustomed to controlling physical access now operate inside an information environment where **the act of exclusion is itself transmissible information**.
+
+Sources for the subsequent tour chronology include [The Guardian's Philadelphia report](https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour) and contemporaneous reporting collected around the withdrawals.
+
 ---
 ## 5. 🏟️ Who Owns The Stage?
 
@@ -272,6 +341,38 @@ Why is exclusion the chosen remedy?
 What threshold separates criticism of Israel, offensive speech, antisemitism, incitement and a credible security threat?
 
 And who gets to operationalise the answer?
+
+### 💰 Claims are also information objects
+
+Kraft has publicly presented himself not only as a stadium owner but as someone acting against antisemitism and in support of Jewish safety. Reporting around this controversy also attributed to him claims of support for Palestinians and Palestinian opportunities. Once those claims are introduced as part of the justification for intervention, they become reasonable objects of ordinary scrutiny.
+
+Not:
+
+**Kraft says he supports Palestinians → therefore secretly bad.**
+
+Not:
+
+**Kraft knows somebody → therefore conspiracy.**
+
+But:
+
+**claim → programme → money → recipient → geography → governance → outcome**
+
+What programme? How much? Through whom? For what purpose? Where? With what governance? What happened?
+
+That is not an allegation. It is how you turn a philanthropic claim into inspectable information. Trevor's wider OSINT work around Kraft belongs adjacent to this node for precisely that reason, but it should not swallow the node whole.
+
+The same applies to anti-hate infrastructure. If an institution is trying to make Jewish people safer, what model of prejudice does it use? Does that model also detect anti-Palestinian racism, anti-Arab racism, Islamophobia, securitisation and the possibility that protecting one population through overbroad threat classification can export risk onto another?
+
+**Make Jews safer** is a necessary objective.
+
+**Make Jews safer without constructing Palestinians, Muslims or Arabs as a dangerous population** is a more constrained systems problem.
+
+And there is a constructive branch here too. If someone with Kraft's resources genuinely wants to help Israelis as well as Jews elsewhere, one possible form of support is **Israeli information infrastructure capable of exposing harmful state conduct**: investigative journalism, documentary distribution, legal defence, translation, screenings, whistleblower protection, and the survival of dissenting institutions.
+
+*NAZA* is a useful example. Supporting its circulation would not require agreeing in advance with every conclusion drawn from it. It would support the ability of Israeli filmmakers and Israeli military/intelligence insiders to put evidence about their own institutions into public circulation.
+
+**Supporting Israel is not the same thing as supporting every action of the Israeli state. Supporting Israelis can include supporting Israelis who are trying to tell you that the system is doing something dangerous.**
 
 ---
 ## 6. 🏈 Bodies Welcome; Politics Negotiable
@@ -400,6 +501,17 @@ But:
 That is **solidarity without equivalence**.
 
 ---
+### 🤝 Solidarity changes the cost surface
+
+Cable Street is not historically equivalent to a 2026 tour dispute. It does, however, make one mechanism unusually easy to see:
+
+**pressure concentrates cost → solidarity redistributes cost**
+
+If an institution can isolate one person cheaply, the individual carries the price of dissent. When neighbours, workers, artists or other institutions stand beside them, the cost no longer lands in one place. That is one reason mutual aid, unions and collective action recur across very different histories.
+
+Solidarity does not prove the person being defended is correct about everything. It changes whether exclusion can be imposed without anybody else having to notice or pay.
+
+---
 ## 13. 😨 PEOPLE ARE ALLOWED TO BE SCARED
 
 **PEOPLE ARE ALLOWED TO BE SCARED.**
@@ -421,6 +533,42 @@ A rough conversion chain:
 Not every actor participates in every step. Not every gain is intentional. A system does not need one mastermind.
 
 **Who can activate fear? Who can convert it into action? Who gains authority, money, protection or leverage? Who becomes more suspicious as a result? And what other conversation becomes harder to hear?**
+
+### 🧮 Fear is also a classifier
+
+Historical experience can produce real pattern recognition:
+
+**historical experience → remembered pattern → fear → classification**
+
+That can be protective. It can also produce false positives.
+
+Israeli-government criticism, settlement criticism, opposition to occupation, Palestinian-rights advocacy, antisemitic conspiracy, antisemitic abuse, incitement and a credible security threat are **not one category**. Collapsing them does not make Jewish people safer. It makes the classifier less precise.
+
+The answer is not to tell frightened Jewish people that the pattern they recognise has never existed. It plainly has. The answer is to improve discrimination between signals while reducing the conditions that generate genuine danger.
+
+**Association ≠ responsibility. Relationship can create capacity.**
+
+A Jewish person is not responsible for the Israeli state. An Israeli is not automatically responsible for the Israeli government. A Palestinian is not Hamas. An Irish person is not the IRA. A British person is not every act of the British state.
+
+But relationships still matter because information and restraint travel through relationships.
+
+### 🕊️ Who can talk to whom?
+
+This is the constructive counterpart to **SHOW ME THE FUCKING MACHINE**.
+
+Do not ask only who is morally responsible. Ask who possesses access.
+
+**political networks → ownership networks → military/security networks → Jewish communal networks → Palestinian civil society → Israeli dissenters → doctors → journalists → artists → diaspora → families → professional relationships**
+
+Where somebody has unusually strong access to another powerful person inside a militarised or high-control network, can relational authority make de-escalation socially permissible?
+
+This is not a demand that Jewish men “fix Israel”. It is not collective responsibility wearing a nicer hat. It is network topology. Ownership, security, military and billionaire networks are often heavily male. Men with standing inside those networks may sometimes carry information to other powerful men through routes that outsiders cannot use. Women have their own institutional routes, including through military service, politics, medicine, journalism, family and civil society; flattening those would simply reproduce the same analytical error.
+
+And this is where something like *NAZA* becomes constructive rather than merely accusatory. An Israeli insider can tell an Israeli filmmaker something about an Israeli institution; the film can carry that information to Israeli and international audiences; somebody with money or distribution power can help that information survive.
+
+**Israeli insider → filmmaker → documentary → audience → scrutiny → institutional feedback**
+
+Peace cannot depend upon finding the correct powerful man. But neither should we pretend powerful relationships are irrelevant to how restraint becomes possible.
 
 ---
 ## 14. 🐆 The Leopards Also Get The Clipboard
@@ -455,7 +603,7 @@ It is here because **the person who has now become the object of an enormous inf
 And now here we fucking are.
 
 ---
-## 16. ⏱️ Two Clocks
+## 16. ⏱️ Two Clocks — Snapshot: 19 September 2026
 
 ### Clock one: the recent discourse
 
@@ -505,7 +653,7 @@ Those figures cover different and partly overlapping reporting windows. They mus
 
 **Civilian-only count for 4–19 September 2026: `TO VERIFY / UPDATE`.**
 
-# **What have we spent the last fifteen days talking about?**
+### **What have we spent the last fifteen days talking about?**
 
 ---
 ## 17. 🍉 Hang On. Where Did Palestine Go?
@@ -533,6 +681,54 @@ What systems produced the civilian harm?
 What did decision-makers know?
 
 What did the targeting apparatus do?
+
+### 🗺️ Scale matters
+
+The celebrity/stadium argument is not the whole power story. While it has been happening, larger diplomatic, territorial and military systems have continued moving.
+
+At the cultural level:
+
+**Macklemore → Sheeran → Kneecap → Beoga → audiences → solidarity**
+
+At the private-institutional level:
+
+**Kraft → stadium → promoter → access → economic consequence**
+
+At the sporting-institutional level:
+
+**Al-Shaair → body → league rule → fine → signal to other players**
+
+At the diplomatic level:
+
+**Palestinian Authority → Israel → United States → United Kingdom → peace initiatives → United Nations**
+
+At the material level:
+
+**Gaza → detention → hunger → homes → hospitals → targeting → West Bank settlements → settler violence → displacement → people trying to stay alive**
+
+None substitutes for the others.
+
+Tony Blair's role around contemporary peace initiatives is a useful example of why claims need to remain separated. In September 2026, former UK ambassador to the UN Jeremy Greenstock publicly alleged that Blair, in connection with the Board of Peace, had pressed the Palestinian Authority over use of the word “Palestine” in textbooks. [Blair categorically denied the allegation.](https://www.thejc.com/news/uk/tony-blair-blasts-fabricated-middle-east-eye-allegation-that-he-requested-removal-of-word-palestine-from-arab-school-books-cocyrvw0) The [UK Government subsequently answered a parliamentary question](https://questions-statements.parliament.uk/written-questions/detail/2026-09-04/hl3128) by treating the report as speculation and noting that the UK was not a Board of Peace member.
+
+That leaves us with:
+
+**serious allegation → identifiable source → categorical denial → parliamentary scrutiny → unresolved evidentiary status**
+
+Do not solve it by deciding which man's face looks more trustworthy. Keep the packets separate.
+
+Meanwhile, the West Bank is not an abstraction. [OCHA's 18 September 2026 humanitarian report](https://www.ochaopt.org/content/humanitarian-situation-report-18-september-2026) recorded more than 1,600 settler attacks resulting in Palestinian casualties, property damage or both across 275 communities since the start of 2026, and more than 4,300 Palestinians displaced in the West Bank that year through demolitions, evictions, settler attacks and related access restrictions. These are material changes occurring while the diplomatic argument about “peace” continues.
+
+At the UN General Assembly on 24 September, [dozens of delegates walked out during Benjamin Netanyahu's address](https://www.itv.com/news/2026-09-24/dozens-of-delegates-walk-out-as-netanyahu-addresses-un-general-assembly). A walkout does not itself change conditions on the ground. It is still diplomatic information about the changing environment in which Israeli policy is being received.
+
+The useful systems question is therefore not whether Blair, Kraft, Netanyahu, Macklemore or any other single man is **the** problem.
+
+> **Do the stated values survive routing through the whole system?**
+
+**stated peace principle → diplomatic institution → negotiating condition → governance arrangement → security requirement → territorial policy → administration → civilian lived experience**
+
+At every hop:
+
+**Did self-determination survive? Did civilian protection survive? Did equal human worth survive? Who could object? Could the affected population alter the decision? What happened when they said no?**
 
 ---
 ## 18. 🎥 NAZA: Return To The Complaint
@@ -625,6 +821,10 @@ Mapping the machine is not a method for making everybody guilty.
 
 It is a method for working out **who did what**.
 
+And the inverse matters too:
+
+> **Association does not establish responsibility. Relationship can identify a route through which information, influence or restraint might travel.**
+
 ---
 ## 21. ⚖️ “Complicit In Genocide” Means What, Exactly?
 
@@ -714,6 +914,71 @@ I can still ask:
 
 **Whose exclusion has become the price of somebody else’s reassurance?**
 
+### 🍉 What have Palestinians actually asked other people to do?
+
+There is a point at which a node about Palestinian agency has to stop asking only what Western politicians, donors, venue owners and musicians think Palestinians ought to do.
+
+A large organised coalition of Palestinian civil society has been giving international civil society one answer since 2005: **boycott, divestment and sanctions**. The original BDS call was endorsed by more than 170 Palestinian civil-society organisations and called for broad boycotts, divestment initiatives and pressure for state sanctions until specified demands concerning occupation, equality and refugee rights were met. It explicitly described these as non-violent measures and invited conscientious Israelis to support the call.
+
+[Palestinian Civil Society Call for BDS](https://bdsmovement.net/call)
+
+This does not mean every Palestinian supports BDS. Palestinians are not a hive mind. It does not mean every target chosen by every campaign is analytically sound. It does not mean disagreement with BDS is itself violence.
+
+It means the request exists.
+
+And it matters because boycott, divestment and sanctions are **actuators**:
+
+**consumer → purchase**  
+**institution → procurement**  
+**university → partnership / investment**  
+**investor → capital**  
+**company → commercial relationship**  
+**government → trade / diplomatic / military relationship**
+
+The International Court of Justice's July 2024 advisory opinion is legally separate from the BDS movement and should not be misrepresented as an order to “do BDS”. But the Court did conclude that Israel's continued presence in the Occupied Palestinian Territory is unlawful, that Israel must end that presence as rapidly as possible and cease new settlement activity, and that other states must not recognise as legal the situation arising from that unlawful presence or render aid or assistance in maintaining it. [ICJ summary of the 19 July 2024 advisory opinion](https://www.icj-cij.org/node/204176)
+
+So the material-relationship question is not a bizarre invention of musicians:
+
+> **What relationships help maintain the thing you say you want to change?**
+
+There is another reason this matters. Western political language often demands that Palestinians reject violence, reject Hamas, find different leadership, prove a commitment to peace, or somehow generate a political transformation while people are displaced, bereaved, hungry, detained, bombed or otherwise operating under radically constrained material conditions.
+
+Even if somebody believes Hamas must disarm or cease governing, there remains an empirical question:
+
+> **What agency does an exhausted and materially devastated civilian population presently possess to produce the political transformation outsiders are demanding from it?**
+
+And what happens when Palestinians use non-violent political mechanisms instead?
+
+**Boycott is unacceptable. Divestment is unacceptable. Sanctions are unacceptable. Protest is unacceptable. Legal action is unacceptable. Institutional pressure is unacceptable.**
+
+If every non-violent actuator is treated as illegitimate, then merely repeating **violence is unacceptable** does not describe a functioning political pathway.
+
+If you want to know whether a system genuinely rewards peaceful political action, do not only ask whether it condemns violence.
+
+> **Ask what happens to people when they use the non-violent actuators available to them.**
+
+Boycott is also analytically different from silencing.
+
+**I will not materially support this** is not automatically the same mechanism as **you are not permitted to say this**. Particular cases can become complicated, but a node about information and power should not erase the distinction.
+
+This is not rocket science. It has merely been surrounded by an extraordinary amount of noise.
+
+### 🧭 Complexity is information, not immunity
+
+Israeli society is internally heterogeneous too. Israelis disagree profoundly about war, settlements, occupation, Palestinian statehood, security, government policy and what long-term safety requires.
+
+That complexity should stop us saying **Israel wants X** when the evidence really establishes that a particular government, minister, party, military body, settler organisation, civil-society group or population wants X.
+
+But complexity is not an exemption from scrutiny.
+
+**Palestinians ≠ Hamas.**  
+**Israelis ≠ Netanyahu or the Israeli government.**  
+**Jews ≠ Israel.**  
+**Irish people ≠ republican paramilitaries.**  
+**British people ≠ British-state conduct.**
+
+None of those distinctions makes the relevant government, military, institution, movement or policy disappear from examination.
+
 ---
 ## 24. ☘️ The Refusal
 
@@ -767,9 +1032,17 @@ Do not turn a frightened population into an enemy.
 
 Do not turn Palestinians into the football in everybody else’s argument.
 
+Do not tell people to choose peaceful political action and then make every peaceful actuator informationally or materially meaningless.
+
+Do not ask only whether somebody announced the correct value at the top of the system.
+
+**Ask whether the value survived the system.**
+
+Show me the choices available. Show me who controls them. Show me who bears the costs. Show me who can object. Show me who can leave. Show me who can vote. Show me who can speak. Show me who gets heard. Show me what happens when they say no.
+
 And when the information environment starts screaming loudly enough that the original object disappears:
 
-# **SHOW ME THE FUCKING MACHINE.**
+### **SHOW ME THE FUCKING MACHINE.**
 
 ---
 ## 🌌 Constellations
@@ -779,7 +1052,7 @@ And when the information environment starts screaming loudly enough that the ori
 ---
 ## ✨ Stardust
 
-palestine, gaza, information ecology, securitisation, instrumentalised fear, conditional belonging, irishness, jewish safety, solidarity without equivalence, ai targeting
+palestine, gaza, information ecology, securitisation, instrumentalised fear, conditional belonging, irishness, jewish safety, solidarity without equivalence, boycott divestment sanctions, non-violent political action, relational capacity, ai targeting
 
 ---
 ## 🏮 Footer
@@ -804,4 +1077,4 @@ It follows a contemporary music and platforming controversy outward into questio
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-24_
+_Last updated: 2026-09-26_
