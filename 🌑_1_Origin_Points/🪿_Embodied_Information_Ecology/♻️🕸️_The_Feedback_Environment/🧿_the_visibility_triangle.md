@@ -1456,7 +1456,8 @@ It may also be one of the most useful design questions for whatever comes next.
 - [📰: The Guardian: “Did someone wearing Meta Glasses film you today? Are you sure?”](https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance)
 - [📹: Slow AI: “Campaigners want Meta's smart glasses banned on the London Underground and Transport for London has said it has no plans to restrict any device.”](https://vm.tiktok.com/ZN82ax2mY/)
 - [📰: BBC: “They were labelled 'pervert glasses'. Will a camera-free version transform their image?”](https://www.bbc.co.uk/news/articles/cwp80l0my1x2o) – *Meta: What about just an ambient mic? :)*
-- [📹: Meditations for the anxious, via TikTok: “meta raybans: panopticon, capitalist realism and why everyone is a perv*rt now”](https://vm.tiktok.com/ZN8rFQ96y/)  
+- [📹: Meditations for the anxious, via TikTok: “meta raybans: panopticon, capitalist realism and why everyone is a perv*rt now”](https://vm.tiktok.com/ZN8rFQ96y/)
+- [📹: Thotline Politics, via TikTok: “Meta’s new ‘AI product’!”](https://vm.tiktok.com/ZN8rFugsr/) – *Meta: What about an ambient mic with a feminine voice called Muse? :)*
 
 ---
 
