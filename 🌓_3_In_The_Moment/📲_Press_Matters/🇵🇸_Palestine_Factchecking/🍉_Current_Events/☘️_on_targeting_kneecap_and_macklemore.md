@@ -16,7 +16,13 @@ Your obvious trigger warning as a veteran, is *Kinky Boots*; I hope that this is
 
 In the same breath:
 
-[📺 The Times, via YouTube: “Why Senior SAS Veterans Are Warning Against the Troubles Legacy Bill”](https://youtu.be/MCJyVFyhlnM?is=H8v6De6Ie3d6e4iw) – there remains an adjacent route for the still-live institutional and legal work around the conflict. The existence of those unresolved processes is itself a check-engine light: peace is not merely the absence of an active bombing campaign. It also depends on whether institutions can continue carrying grief, evidence, accountability, disagreement and ordinary life without returning people to violence.
+[📺 The Times, via YouTube: “Why Senior SAS Veterans Are Warning Against the Troubles Legacy Bill”](https://youtu.be/MCJyVFyhlnM?is=H8v6De6Ie3d6e4iw) – there remains an adjacent route for the still-live institutional and legal work around the conflict. The existence of those unresolved processes is itself a check-engine light: peace is not merely the absence of an active bombing campaign. It also depends on whether institutions can continue carrying grief, evidence, accountability, disagreement and ordinary life without returning people to violence.  
+
+For the avoidance of all doubt, you should also not be assumed that even these are distinct categories; they are not.  
+
+[📺: BBC, via YouTube: “When you can’t resist a singalong”](https://youtube.com/shorts/ze9HmHbld9Y?is=YRxN_3wzmw9PBQ_4)  
+
+The playlist includes a version of *Whiskey in the Jar*, and [yes, this is a real story](https://www.bbc.co.uk/programmes/m002hc7m).  
 
 ---
 
