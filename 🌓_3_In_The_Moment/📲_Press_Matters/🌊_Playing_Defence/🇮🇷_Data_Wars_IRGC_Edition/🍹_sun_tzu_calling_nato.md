@@ -3761,7 +3761,11 @@ making the decision.
 
 🍹 ⏳ 🕸️ 🪑 🧿 --- strategic time; information ecology; conserved
 capacity; cross-cultural depth on the bench; attribution versus
-advantage.
+advantage.  
+
+*Follow the evidence:*  
+
+- [📰: BBC: “Iran offers US deal to reopen Strait of Hormuz in seven days”](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko) – *America, at this point we don’t even need to know how executive the mooncakes were that you gave President Xi, please do not pass up on a deal that can get your lads back to port because something something epic fury; we are all tired, and British admin is still a disgrace*  
 
 ------------------------------------------------------------------------
 
