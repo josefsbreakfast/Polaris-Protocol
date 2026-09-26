@@ -20,6 +20,38 @@ anyway, Shabbat shalom because this is essentially the craziness that I get up t
 
 happy mid autumn festival now we’re there.  
 
+<!-- 
+
+for later:  
+
+“Yes — you’re remembering Chapter II, “Waging War.” And it’s actually stronger than the paraphrase you had in mind.
+
+In Lionel Giles’s 1910 translation, Sun Tzu runs through the consequences of a campaign lasting too long:
+
+“When you engage in actual fighting, if victory is long in coming, then men’s weapons will grow dull and their ardor will be damped.”
+
+Then:
+
+“Again, if the campaign is protracted, the resources of the State will not be equal to the strain.”
+
+And the sequence culminates in the extremely Sun-Tzu sentence:
+
+“There is no instance of a country having benefited from prolonged warfare.”  
+
+The bit immediately around it matters, because your memory of “you cannot maintain a healthy army under forever-war conditions” is basically the mechanism he describes. Protraction produces dulled weapons → damped morale/ardour → exhausted strength → depleted treasury → strategic vulnerability to other actors.  
+
+There’s also this line immediately before the famous one:
+
+“Thus, though we have heard of stupid haste in war, cleverness has never been seen associated with long delays.”  
+
+So for the Army-training / readiness material you’ve been working on, Chapter II is absolutely the relevant Sun Tzu passage. It isn’t merely “war is expensive.” His argument is systemic: prolonged campaigning progressively consumes the military capability, human motivation, state resources and strategic freedom required to continue fighting effectively.
+
+And then he basically drops the mic with: no country has ever benefited from prolonged warfare.
+
+Very nearly Sun Tzu Says Stop Fucking Doing Forever Wars.”
+
+-->
+
 - - - 
 
 # ☘️ On Targeting Kneecap And Macklemore  
