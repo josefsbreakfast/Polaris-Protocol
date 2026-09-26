@@ -510,6 +510,66 @@ That is a very different theory of power.
 
 ------------------------------------------------------------------------
 
+### Situation + perceiver
+
+The other part of Billeter's formulation matters just as much as the
+economy-of-energy line.
+
+He describes a relationship between the **situation and the perceiver**.
+
+That is immediately recognisable from Embodied Information Ecology.
+
+The observer is not standing outside the system with perfect
+information.
+
+The observer is:
+
+-   somewhere;
+-   at a particular time;
+-   carrying prior knowledge;
+-   using a particular model;
+-   seeing some signals and not others;
+-   interpreting those signals through a cultural and institutional
+    vocabulary.
+
+So strategic efficacy is not merely:
+
+``` text
+choose correct action
+```
+
+It is also:
+
+``` text
+perceive situation
+      ↓
+construct model
+      ↓
+decide what counts as relevant information
+      ↓
+estimate effect
+      ↓
+choose expenditure
+```
+
+This gives us three useful pieces from the formulation:
+
+**Situation + perceiver**\
+→ the observer is situated inside the information environment.
+
+**Efficacy**\
+→ judge the action by the effect it produces, not by how dramatic the
+action looks.
+
+**Economy of energy**\
+→ expenditure is itself part of the strategic calculation.
+
+That is much closer to the thing this node is trying to teach than a
+generic injunction to **be patient**.
+
+A system with a bad model can expend enormous energy very efficiently on
+the wrong problem.
+
 ## 6. ☯️ Unfortunately, The Specialists Have Specialists
 
 Even *wu wei* refuses to behave nicely enough for a one-paragraph
@@ -836,7 +896,233 @@ not agree with the tradition being studied.
 
 ------------------------------------------------------------------------
 
-## 10. 🇨🇳 If China Is Such A Fucking Big Deal, Read About China
+## 10. 🪭 Ideas Travel. They Do Not Arrive Unchanged.
+
+There is another reason not to turn *wu wei*, the *I Ching*, Sun Tzu or
+anything else into a sealed box marked:
+
+``` text
+CHINESE CULTURE
+```
+
+Cultures are porous.
+
+Ideas move through:
+
+-   empire;
+-   conquest;
+-   diplomacy;
+-   pilgrimage;
+-   migration;
+-   education;
+-   religion;
+-   trade;
+-   translation;
+-   bureaucracy;
+-   marriage;
+-   literature;
+-   art;
+-   war;
+-   deliberate rejection;
+-   local reinvention.
+
+Historically, Chinese writing, political institutions, Confucian
+traditions, Buddhist traditions and other intellectual and artistic
+forms travelled extensively across East Asia.
+
+But **transmission is not duplication**.
+
+Korean polities did not become China because they received ideas from
+China.
+
+Japan did not become China.
+
+Vietnam did not become China.
+
+Ideas were translated, selected, contested, hybridised, rejected,
+revived and fitted to local institutions and histories.
+
+Korea is a particularly useful illustration because the traffic was not
+one-way. Chinese and other traditions moved into the Korean peninsula;
+Korean scholars, monks, diplomats, artisans and political institutions
+developed their own forms; Korea in turn played an important role in
+transmitting technologies and ideas to Japan.
+
+That is what cultural exchange actually looks like.
+
+``` text
+idea
+ ↓
+movement
+ ↓
+translation
+ ↓
+local conditions
+ ↓
+reinterpretation
+ ↓
+new tradition
+```
+
+Not:
+
+``` text
+CHINA
+  ↓
+COPY
+  ↓
+REST OF ASIA
+```
+
+This matters strategically.
+
+South Korea looks at China through South Korean history.
+
+Japan looks at China through Japanese history.
+
+Vietnam looks at China through Vietnamese history.
+
+They also look at the United States, NATO, empire, occupation,
+sovereignty, deterrence, trade and technological dependence through
+their own historical environments.
+
+Those perspectives overlap.
+
+They are not interchangeable.
+
+So cultural literacy about China is not useful only because:
+
+> **we need to predict China.**
+
+It is useful because the intellectual and historical environment around
+China is part of the information ecology through which **allies,
+partners, competitors and neighbouring states interpret one another**.
+
+If your model contains only:
+
+``` text
+UNITED STATES
+        ↕
+      CHINA
+```
+
+you have already thrown away a large amount of the system.
+
+### 🗾 This is already an AI diplomacy problem
+
+This is no longer hypothetical.
+
+In July 2026, Japan's Ministry of Foreign Affairs literally titled its
+policy page **AI Diplomacy**.
+
+Japan frames international AI cooperation around a **safe, secure and
+trustworthy AI** ecosystem, the Hiroshima AI Process, cooperation with
+allies and like-minded states, and engagement with the Global South.
+
+China's 2026 public AI-governance position uses a partly different
+diplomatic vocabulary.
+
+Chinese official statements emphasise:
+
+-   multilateralism;
+-   the role of the United Nations;
+-   sovereign equality;
+-   development alongside security;
+-   capacity-building for the Global South;
+-   openness and inclusion;
+-   cultural and civilisational diversity;
+-   international coordination on governance rules and technical
+    standards.
+
+Those are **official negotiating positions**.
+
+They are not proof that every Chinese institution interprets every
+principle identically.
+
+They are not proof that stated principles and state behaviour will
+always coincide.
+
+And they should not be lazily reverse-engineered from Daoism,
+Confucianism or the *I Ching*.
+
+But Western diplomats, defence institutions and technology companies
+need to understand the conceptual and historical environments in which
+words such as:
+
+``` text
+sovereignty
+trust
+security
+openness
+control
+development
+fairness
+multilateralism
+standards
+civilisation
+```
+
+are being used.
+
+Two delegations can use the same English noun while carrying different
+models of what the noun requires.
+
+That is an information problem before it becomes a treaty problem.
+
+And AI makes the cost of getting it wrong considerably larger.
+
+AI systems cross borders.
+
+Models are trained on culturally heterogeneous information.
+
+Compute and semiconductor supply chains cross jurisdictions.
+
+Safety standards affect firms operating internationally.
+
+Open-source ecosystems complicate territorial control.
+
+AI agents can act across networks faster than diplomatic institutions
+normally move.
+
+Questions about data, copyright, privacy, labour, defence,
+infrastructure, autonomy, censorship, human rights, national security
+and economic development arrive in the same fucking meeting.
+
+So **AI diplomacy needs depth on the bench**.
+
+Not because every negotiator needs a doctorate in Chinese philosophy.
+
+Because an international governance system that cannot recognise when
+different actors are using different conceptual models will repeatedly
+mistake:
+
+``` text
+translation
+```
+
+for:
+
+``` text
+agreement
+```
+
+or:
+
+``` text
+difference
+```
+
+for:
+
+``` text
+hostility
+```
+
+The technical problem and the diplomatic problem are already entangled.
+
+------------------------------------------------------------------------
+
+## 11. 🇨🇳 If China Is Such A Fucking Big Deal, Read About China
 
 This is where the argument needs precision.
 
@@ -909,7 +1195,7 @@ The diagnostic question is enough:
 
 ------------------------------------------------------------------------
 
-## 11. 🧧 Reading Your Adversary Is Not An Endorsement
+## 12. 🧧 Reading Your Adversary Is Not An Endorsement
 
 There is a peculiar failure mode in which studying an adversary begins
 to feel like political sympathy.
@@ -961,7 +1247,122 @@ You do not have to like your adversaries to fucking read them.
 
 ------------------------------------------------------------------------
 
-## 12. 🐎 Fine. Give The Western Boys Napoleon.
+## 13. 🥾 Mao, The Encirclement, And The Annoying Persistence Of The Board
+
+The more specific Mao example matters because it gives us something the
+generic phrase **protracted war** does not.
+
+The Chinese Communist movement itself changed strategy under conditions
+of internal political struggle, military pressure and near-disaster.
+
+During the early 1930s, Mao had lost much of his influence within the
+Communist leadership while leaders associated with the Soviet-trained
+group often called the **28 Bolsheviks** became influential.
+
+At the same time, Chiang Kai-shek's Nationalist government intensified
+its encirclement campaigns against Communist base areas.
+
+The Fifth Encirclement Campaign placed the Jiangxi Soviet under enormous
+pressure.
+
+The eventual Communist breakout in 1934 began the Long March.
+
+This should not be turned into:
+
+> **Mao cleverly decided to go for a very long walk and therefore won
+> China.**
+
+Absolutely fucking not.
+
+The history contains:
+
+-   catastrophic losses;
+-   internal Communist political struggle;
+-   changing military leadership;
+-   Nationalist decisions;
+-   Japanese invasion;
+-   foreign assistance;
+-   geography;
+-   coercion;
+-   mobilisation;
+-   ideology;
+-   logistics;
+-   changing international conditions;
+-   years of subsequent war.
+
+But the mechanism we care about is visible.
+
+The Nationalists succeeded in forcing the main Communist body out of
+Jiangxi.
+
+A contemporary US diplomatic report described the Nationalist occupation
+of the Communist area as a significant success --- and then immediately
+noted that the escape of the main Communist force in substantial
+strength had **altered the location of the threat rather than eliminated
+it**.
+
+That is the strategic distinction.
+
+``` text
+lose base
+   ≠
+cease to exist
+```
+
+If the organisation survives, the board is still moving.
+
+The Long March was devastating.
+
+It was also part of the political environment through which Mao later
+re-established dominant leadership within the Communist movement.
+
+And the system into which the survivors emerged did not remain the
+system they had left.
+
+China's internal politics changed.
+
+The war with Japan transformed the strategic environment.
+
+Coalitions, legitimacy, military experience, territorial control and
+external relationships changed.
+
+Years later, the Communist movement was operating from a radically
+different position.
+
+So the useful lesson is not:
+
+> **Retreat and you will eventually win.**
+
+It is:
+
+> **Destruction and displacement are not the same outcome.**
+
+And:
+
+> **If an actor preserves enough organisational capacity to remain in
+> the system, time retains the possibility of changing its relative
+> position.**
+
+This is Frederick's principle in a completely different political and
+military environment.
+
+Remain on the board.
+
+Not because the future is guaranteed to save you.
+
+Because leaving the board guarantees that it cannot.
+
+`🇺🇸: “But Mao was a communist.”`
+
+`Polaris: “Yes.”`
+
+`🇺🇸: “...”`
+
+`Polaris: “That does not make his army imaginary.”`
+
+------------------------------------------------------------------------
+
+## 14. 🐎 Fine. Give The Western Boys Napoleon.
 
 If all of this still sounds suspiciously foreign, fine.
 
@@ -1014,7 +1415,7 @@ Trajectory requires a model.
 
 ------------------------------------------------------------------------
 
-## 13. 🌉 Bernard. About The Bridges.
+## 15. 🌉 Bernard. About The Bridges.
 
 And now we need a failure mode.
 
@@ -1123,7 +1524,7 @@ to a model whose assumptions stop matching the environment.
 
 ------------------------------------------------------------------------
 
-## 14. 👑 Frederick Would Like To Remain On The Board
+## 16. 👑 Frederick Would Like To Remain On The Board
 
 Frederick the Great gives us a different use of time.
 
@@ -1208,7 +1609,7 @@ Frederick uses time to remain exposed to favourable contingency.
 
 ------------------------------------------------------------------------
 
-## 15. ⭐ Everyone Understands This When You Give Them A Lightsaber
+## 17. ⭐ Everyone Understands This When You Give Them A Lightsaber
 
 Western popular culture already has an enormous vocabulary for another
 version of the same thing.
@@ -1277,7 +1678,7 @@ Its informational value changed because the expected timeline changed.
 
 ------------------------------------------------------------------------
 
-## 16. 🇺🇸 America, You Literally Know How To Do This
+## 18. 🇺🇸 America, You Literally Know How To Do This
 
 Before anybody concludes that this node is asking the United States to
 become spiritually Chinese, we should probably consult the American
@@ -1393,7 +1794,7 @@ It is:
 
 ------------------------------------------------------------------------
 
-## 17. ✊ Unfortunately, Civilians Can Use Time Too
+## 19. ✊ Unfortunately, Civilians Can Use Time Too
 
 At this point the defence-policy reader may be tempted to keep the whole
 concept safely inside the military box.
@@ -1519,7 +1920,7 @@ That is bad analysis.
 
 ------------------------------------------------------------------------
 
-## 18. 🗳️ Refusing Negotiation Does Not Freeze The Board
+## 20. 🗳️ Refusing Negotiation Does Not Freeze The Board
 
 This deserves its own section because it is a recurring political
 mistake.
@@ -1586,7 +1987,7 @@ That is the piece a thin action/inaction binary cannot see.
 
 ------------------------------------------------------------------------
 
-## 19. 🕸️ Cyberwar Has Extremely Weird Geography
+## 21. 🕸️ Cyberwar Has Extremely Weird Geography
 
 Now we can return to the presenting problem.
 
@@ -1662,7 +2063,7 @@ The problem is that **your attention is extremely affordable**.
 
 ------------------------------------------------------------------------
 
-## 20. 🍹 Meanwhile, In Iran
+## 22. 🍹 Meanwhile, In Iran
 
 This is where attribution discipline matters.
 
@@ -1738,7 +2139,7 @@ The joke teaches the distinction.
 
 ------------------------------------------------------------------------
 
-## 21. 🍹 NO. MOCKTAIL.
+## 23. 🍹 NO. MOCKTAIL.
 
 A brief but necessary correction to the historical record of this node.
 
@@ -1762,7 +2163,7 @@ Potentially an unnecessarily elaborate garnish.
 
 ------------------------------------------------------------------------
 
-## 22. 🇨🇳 "Would You Like Some Merch For That?"
+## 24. 🇨🇳 "Would You Like Some Merch For That?"
 
 The same distinction between **causing** and **benefiting** matters
 economically.
@@ -1878,7 +2279,239 @@ It is simply a better systems question.
 
 ------------------------------------------------------------------------
 
-## 23. 🧮 Whose Protracted War Is It?
+## 25. 🎩 The Sinister Hand May Be A Spreadsheet
+
+There is a perceptual problem hiding underneath the economic example.
+
+Western representations of China have a long history of racialised
+threat imagery.
+
+The **Yellow Peril** tradition and characters such as Fu Manchu turned
+an enormous and internally diverse part of the world into a recognisable
+Western villain: secretive, cunning, conspiratorial, invasive, always
+plotting.
+
+That history matters strategically because stereotypes do not merely
+insult the people being stereotyped.
+
+They can train the observer to look for the wrong mechanism.
+
+If your threat model expects:
+
+``` text
+sinister adversary
+      ↓
+secret plan
+      ↓
+active interference
+      ↓
+visible hostile effect
+```
+
+then you may become unusually attentive to evidence of **the hand**.
+
+Who manipulated this?
+
+Who interfered?
+
+Who infiltrated?
+
+Who caused this disagreement?
+
+Who made us do this?
+
+Those can be legitimate security questions.
+
+But they are not the only questions.
+
+A rational competitor may sometimes have no reason to interfere with
+behaviour already producing an advantageous result.
+
+It may be enough to observe.
+
+Trade.
+
+Learn.
+
+Accumulate capacity.
+
+Allow incentives inside the other system to keep operating.
+
+This is where the line commonly attributed to Napoleon is useful, with
+an attribution warning attached:
+
+> **"Never interrupt your enemy when he is making a mistake."**
+
+The wording and attribution are uncertain enough that it should not be
+treated as securely documented Napoleon.
+
+The mechanism, however, is perfectly legible.
+
+`🇨🇳: “Should I intervene?”`
+
+`Napoleon: absolutely fucking not.`
+
+`Wu wei: 👀`
+
+`Sun Tzu: 👀`
+
+`🇨🇳: “Would you like some merch for that?”`
+
+This is why the racialised villain model is not merely ethically ugly.
+
+It can be **analytically expensive**.
+
+You can spend enormous effort looking for Fu Manchu while the
+strategically relevant object is an extremely boring spreadsheet about:
+
+-   manufacturing capacity;
+-   shipping;
+-   investment;
+-   market share;
+-   patents;
+-   skills;
+-   energy;
+-   compute;
+-   supply chains.
+
+Benefiting from the behaviour does not establish authorship of the
+behaviour.
+
+Again.
+
+We keep needing this sentence.
+
+### 💸 Markets Do Not Have Passports
+
+This is also where the capitalism point needs to be stated in full.
+
+If a political system permits firms and capital substantial freedom to
+organise production internationally, there is no automatic mechanism
+requiring money, productive capacity, skills or supply chains to remain
+inside the national border.
+
+The firm and the state can be optimising different things.
+
+A firm may rationally optimise:
+
+``` text
+price
+margin
+market access
+financing
+growth
+shareholder return
+resilience
+```
+
+A state concerned with long-term security may additionally care about:
+
+``` text
+domestic productive capacity
+critical skills
+strategic infrastructure
+supply security
+redundancy
+energy
+technology
+dependency
+mobilisation capacity
+```
+
+Those objectives can overlap.
+
+They can also diverge.
+
+This is why **regulation** exists as a strategic category.
+
+Regulation is one way a political community says:
+
+> **An individually rational transaction can produce a collectively
+> undesirable aggregate outcome.**
+
+The available mechanisms include, depending on the problem:
+
+-   competition policy;
+-   procurement rules;
+-   investment screening;
+-   industrial strategy;
+-   taxation;
+-   labour standards;
+-   environmental standards;
+-   supply-chain requirements;
+-   export controls;
+-   strategic reserves;
+-   domestic-capacity requirements.
+
+Each has costs.
+
+Each can be badly designed.
+
+Each can create unintended effects.
+
+The point is not:
+
+> **REGULATE EVERYTHING.**
+
+The point is:
+
+> **"The market chose it" does not answer a national-security question
+> unless market efficiency and national resilience have been shown to
+> share the same objective function.**
+
+This matters enormously for AI.
+
+AI is not floating in a cloud made of ideas.
+
+It depends on:
+
+-   chips;
+-   fabs;
+-   minerals;
+-   energy;
+-   data centres;
+-   networks;
+-   cooling;
+-   capital;
+-   researchers;
+-   skilled labour;
+-   standards;
+-   software;
+-   intellectual property;
+-   international supply chains.
+
+So an AI diplomatic relationship is simultaneously a relationship about:
+
+``` text
+technology
+economics
+security
+standards
+infrastructure
+trade
+knowledge
+sovereignty
+dependency
+```
+
+If Western states enter that relationship imagining that commercial
+incentives will automatically produce their preferred strategic
+distribution of capacity, they have confused one system's objective
+function with another's.
+
+And if they enter it imagining that every strategically favourable
+Chinese outcome must have required a secret Chinese intervention, they
+have made the opposite mistake.
+
+Sometimes:
+
+`🇨🇳: *observes*`
+
+is enough.
+
+------------------------------------------------------------------------
+
+## 26. 🧮 Whose Protracted War Is It?
 
 We can now return to Sun Tzu with a much better scoreboard.
 
@@ -1960,7 +2593,7 @@ Because it tells you what would have to change.
 
 ------------------------------------------------------------------------
 
-## 24. 🪤 Stop Making Competent Adversary Strategy So Cheap
+## 27. 🪤 Stop Making Competent Adversary Strategy So Cheap
 
 The defensive objective cannot realistically be:
 
@@ -2019,7 +2652,7 @@ response.
 
 ------------------------------------------------------------------------
 
-## 25. 📣 Classified Is Not The Same As Inexplicable
+## 28. 📣 Classified Is Not The Same As Inexplicable
 
 There are excellent reasons not to tell the public everything.
 
@@ -2069,7 +2702,191 @@ your own political incentives will do it for them.
 
 ------------------------------------------------------------------------
 
-## 26. 🧠 The Actual Vulnerability Is A Thin Bench
+## 29. 🤖 AI Is Where The Bench Becomes Diplomatic Infrastructure
+
+This is why the apparently wandering journey through Sun Tzu, *wu wei*,
+Austen, Mao, Montgomery, Roosevelt, Eisenhower, boycotts and
+manufacturing is not actually wandering.
+
+AI is forcing states to negotiate about a system that does not sit
+neatly inside any one existing diplomatic box.
+
+It is simultaneously:
+
+-   commercial;
+-   military;
+-   scientific;
+-   cultural;
+-   infrastructural;
+-   informational;
+-   regulatory;
+-   labour-related;
+-   environmental;
+-   educational;
+-   geopolitical.
+
+And the actors arriving at the negotiating table do not share one
+intellectual history of:
+
+-   the state;
+-   the market;
+-   sovereignty;
+-   individual rights;
+-   collective welfare;
+-   security;
+-   openness;
+-   censorship;
+-   risk;
+-   legitimate regulation;
+-   technological development.
+
+This does not mean cultural background mechanically determines policy.
+
+It means **context changes information**.
+
+A proposal that looks like:
+
+``` text
+reasonable safety regulation
+```
+
+to one actor may look like:
+
+``` text
+foreign control of domestic technological development
+```
+
+to another.
+
+A proposal described as:
+
+``` text
+open innovation
+```
+
+may be modelled elsewhere as:
+
+``` text
+strategic dependency
+```
+
+A demand for:
+
+``` text
+sovereign control
+```
+
+may be read elsewhere as:
+
+``` text
+censorship
+```
+
+A demand for:
+
+``` text
+free information flows
+```
+
+may be read elsewhere as:
+
+``` text
+unaccountable foreign platform power
+```
+
+The answer is not to pretend those differences do not exist.
+
+Nor is it to decide in advance that every disagreement is merely a
+cultural misunderstanding.
+
+Sometimes interests genuinely conflict.
+
+Sometimes values genuinely conflict.
+
+Sometimes states are bargaining hard.
+
+Sometimes security concerns are real.
+
+Sometimes **no** is the correct answer.
+
+But diplomacy works better when everybody can distinguish:
+
+``` text
+different model
+```
+
+from:
+
+``` text
+bad faith
+```
+
+and:
+
+``` text
+different interest
+```
+
+from:
+
+``` text
+failure to understand
+```
+
+That requires specialists.
+
+Technical specialists.
+
+Regional specialists.
+
+Diplomats.
+
+Defence and security people.
+
+Industry people.
+
+Historians.
+
+Lawyers.
+
+People who understand standards.
+
+People who understand how the other delegation's institutions actually
+work.
+
+Not because everybody needs to agree.
+
+Because **predictability is itself valuable**.
+
+You do not need to like everybody.
+
+You do not need to share a political system.
+
+You do not need one universal philosophy.
+
+You need enough mutual modelling that the system can distinguish:
+
+-   red lines;
+-   negotiable differences;
+-   technical incompatibilities;
+-   security concerns;
+-   commercial interests;
+-   rhetorical signalling;
+-   actual escalation.
+
+That is what depth on the bench looks like when it becomes international
+infrastructure.
+
+And if the United States, Europe and their allies are entering a
+decades-long AI relationship with China while simultaneously treating
+China as a major strategic competitor, then cultural and institutional
+literacy is not an optional humanities flourish.
+
+It is part of the fucking safety equipment.
+
+------------------------------------------------------------------------
+
+## 30. 🧠 The Actual Vulnerability Is A Thin Bench
 
 This is the final teaching point.
 
@@ -2131,7 +2948,7 @@ It requires respecting the possibility that they know things you do not.
 
 ------------------------------------------------------------------------
 
-## 27. ☎️ Sun Tzu Calling NATO
+## 31. ☎️ Sun Tzu Calling NATO
 
 We can now return to the beginning.
 
@@ -2234,7 +3051,7 @@ If yes:
 
 ------------------------------------------------------------------------
 
-## 28. 📚 Sources And Reading Routes
+## 32. 📚 Sources And Reading Routes
 
 ### Primary / historical texts discussed
 
@@ -2253,50 +3070,120 @@ If yes:
 -   [Stanford Encyclopedia of Philosophy:
     "Laozi"](https://plato.stanford.edu/entries/laozi/) --- *wu wei*,
     non-action, and interpretative context.
+
 -   [National Army Museum: "Operation Market
     Garden"](https://www.nam.ac.uk/explore/market-garden) ---
     operational plan, XXX Corps route, Arnhem and failure.
+
 -   [Franklin D. Roosevelt Presidential Library: "The Lend-Lease
     Program, 1941--1945"](https://www.fdrlibrary.org/lend-lease) ---
     Britain, Lend-Lease, political context and mobilisation.
+
 -   [Franklin D. Roosevelt Presidential Library: 17 December 1940 Press
     Conference](https://www.fdrlibrary.org/documents/356632/390886/lendlease_conf40.pdf/5681c3d5-9c1e-44e4-902e-cb86f154a4ab)
     --- Roosevelt's garden-hose analogy.
+
 -   [Eisenhower Presidential Library: "Farewell
     Address"](https://www.eisenhowerlibrary.gov/research/online-documents/farewell-address)
     --- archive route and supporting documents.
+
 -   [Eisenhower Presidential Library: Farewell Address
     PDF](https://www.eisenhowerlibrary.gov/sites/default/files/file/farewell_address.pdf)
     --- prolonged struggle, provocation, costly action, balance and
     military-industrial structure.
+
 -   [US Department of Defense: China, Taiwan and
     Mongolia](https://policy.defense.gov/Offices/ASW-for-Indo-Pacific-Security-Affairs/China-Taiwan-and-Mongolia/)
     --- current dedicated China policy and strategy office.
+
 -   [US Department of Defense: 2026 National Defense
     Strategy](https://media.defense.gov/2026/Jan/23/2003864773/-1/-1/0/2026-national-defense-strategy.pdf)
     --- current US defence framing of China, Iran, allies, deterrence,
     deconfliction and strategic stability.
+
 -   [US Army *Military Review*: "Rethinking Retreat: Retrograde
     Operations in the
     Indo-Pacific"](https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/May-June-2025/Rethinking-Retreat/)
     --- preservation of combat power through withdrawal, delay and
     retirement.
+
 -   [US Army *Military Review*: "An Army Rooted in Large-Scale Combat
     Operations --- Part
     1"](https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2026-OLE/LSCO-Part-1/)
     --- Mao, protracted war, mobility, force preservation and Chinese
     Civil War.
+
 -   [US Army Combat Studies Institute: *The Huai Hai
     Campaign*](https://www.armyupress.army.mil/Portals/7/combat-studies-institute/csi-books/bjorge_huai.pdf)
     --- Sunzi, Mao, protracted war and force preservation.
+
 -   [US Army *Military Review*: "Reconstituting Combat Power in
     Large-Scale
     War"](https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/July-August-2026/Combat-Power-LSCO/)
     --- rebuilding combat power under sustained pressure.
+
 -   [Cambridge University Press: "The Consumer Jihad: Boycott Fatwas and
     Nonviolent Resistance on the World Wide
     Web"](https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/abs/consumer-jihad-boycott-fatwas-and-nonviolent-resistance-on-the-world-wide-web/12D4CDE007738EF21784E09E484C23E6)
     --- example of consumer boycott as nonviolent political action.
+
+-   [Metropolitan Museum of Art: "Internationalism in the Tang Dynasty
+    (618--907)"](https://www.metmuseum.org/de/essays/internationalism-in-the-tang-dynasty-618-906)
+    --- movement of institutions, writing, religion and culture across
+    China, Korea, Japan and Vietnam; also a reminder that exchange ran
+    through diplomacy, trade, pilgrimage and empire.
+
+-   [Metropolitan Museum of Art: "Korea, 500--1000
+    A.D."](https://82nd-and-fifth.metmuseum.org/toah/ht/06/eak.html) ---
+    Korean adaptation of imported traditions and Korea's role in
+    transmitting technologies and ideas to Japan.
+
+-   [Metropolitan Museum of Art: "East Asian Cultural Exchange in Tiger
+    and Dragon
+    Paintings"](https://www.metmuseum.org/de/essays/east-asian-cultural-exchange-in-tiger-and-dragon-paintings)
+    --- local adaptation and hybridisation rather than simple cultural
+    copying.
+
+-   [US Office of the Historian: China, 1934 diplomatic
+    review](https://history.state.gov/historicaldocuments/frus1934v03/d253)
+    --- contemporary US reporting on the Nationalist capture of the
+    Jiangxi Communist area and the survival/escape of the main Communist
+    force.
+
+-   [US Office of the Historian: Mao's military principles,
+    1948](https://history.state.gov/historicaldocuments/frus1948v07/d18)
+    --- contemporary reporting on mobility, local superiority, refusal
+    of unpromising engagements and cities as secondary to
+    destruction/preservation of fighting strength.
+
+-   [British Library Friends: "Murder in the
+    Library"](https://support.bl.uk/Files/121a2d18-1fdf-4978-8628-a17a00a69e28/Friends-Newsletter-Spring-2013.pdf)
+    --- British Library description of Fu Manchu as a personification of
+    the racialised "yellow peril" stereotype.
+
+-   [Ministry of Foreign Affairs of Japan: "AI
+    Diplomacy"](https://www.mofa.go.jp/ecm/eds/pagewe_000001_00361.html)
+    --- Japan's 2026 international AI-governance framing, including the
+    Hiroshima AI Process and "safe, secure, and trustworthy AI".
+
+-   [State Council Information Office of China: 2026 global-governance
+    briefing](https://english.scio.gov.cn/pressroom/2026-07/14/content_118598508_3.html)
+    --- China's stated approach to international AI governance,
+    multilateralism, openness, development/security and Global South
+    capacity-building.
+
+-   [Permanent Mission of China to the UN: Xi Jinping at the 2026 World
+    AI
+    Conference](https://un.china-mission.gov.cn/eng/zgyw/202607/t20260717_11984910.htm)
+    --- official Chinese framing of AI governance, civilisational
+    diversity, international standards, coordination and
+    multilateralism.
+
+-   [2026 World AI Conference Chair's
+    Statement](https://eu.china-mission.gov.cn/eng/mhs/202607/t20260717_11984715.htm)
+    --- governance, security, agents, supply chains, international
+    coordination, cultural diversity and the World Artificial
+    Intelligence Cooperation Organization.
 
 ### Reading caution
 
