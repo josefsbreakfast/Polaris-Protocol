@@ -28,10 +28,13 @@ become a diplomatic and informational vulnerability when allies,
 audiences and institutions encounter the symbols without the context.
 
 I wish we could advocate self-determination most strongly when the
-answer is not comfortable, knowable or ours to choose.
+answer is not comfortable, knowable or ours to choose.  
 
-[📺 Playing defence / unresolved legacy
-context](https://youtu.be/MCJyVFyhlnM?is=H8v6De6Ie3d6e4iw) remains an
+Your obvious trigger warning as a veteran, is *Kinky Boots*; I hope that this is the closest to Army humour from the relevant musical culture. I deliberately did not choose any that give some degree of direction on IEDs, for instance. You are welcome to skip this or not listen to anything at all.  
+
+In the same breath:  
+
+[📺 The Times, via YouTube: “Why Senior SAS Veterans Are Warning Against the Troubles Legacy Bill”](https://youtu.be/MCJyVFyhlnM?is=H8v6De6Ie3d6e4iw) – there remains an
 adjacent route for the still-live institutional and legal work around
 the conflict. The existence of those unresolved processes is itself a
 check-engine light: peace is not merely the absence of an active bombing
