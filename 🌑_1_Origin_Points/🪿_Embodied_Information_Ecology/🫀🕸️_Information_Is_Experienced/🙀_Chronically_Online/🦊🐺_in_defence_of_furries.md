@@ -2,6 +2,8 @@
 
 started 2026-08-13  
 
+I didn’t know that yall didn’t know that people do this with like no sex involved. like there’s a whole genre where it’s more like privacy and “my workplace has strict ndas and meta glasses exist”, you know?  
+
 - **Core framing**
   - Furry fandom is a subculture centred on anthropomorphic animal characters.
   - Its recognisable organised history substantially predates the alt-right.
@@ -1131,5 +1133,6 @@ started 2026-08-13
 - [Tiktok: Daily Mail: “Senator Tommy Tuberville says many pilots, flight attendants and air traffic controllers are part of the furry community”](https://vm.tiktok.com/ZN8MTN56x/) - obvs immediately comments re recent statements by kash about fbi intake 
 - [TikTok: Pearlmania500:”Former college football coach and
 CURRENT US senator Tommy Tuberville attacks FURRIES on the floor of the senate… diesel is nearing $7 nationally.”](https://vm.tiktok.com/ZN8MTGLTK/)
+- [TikTok: The Daily Show: “Furries on Planes?”](https://vm.tiktok.com/ZN8rFspCb/) like snakes on planes but safer.  
 
 srsly this always gets pumped as a talking point as a distraction it’s mostly such a non issue.  
