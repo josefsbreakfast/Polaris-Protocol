@@ -577,10 +577,26 @@ strategy book.
 
 Scholars distinguish different uses and traditions.
 
-H. G. Creel famously distinguished, among other things, between a form
-of genuine non-action associated with withdrawal from human affairs and
-a more instrumental form in which non-action functions as a technique of
-governing or affecting affairs.
+H. G. Creel famously distinguished, among other things, between two very
+different uses of *wu wei*.
+
+In the formulation we have been working from, one is:
+
+> "An attitude of genuine non-action, motivated by a lack of desire to
+> participate in human affairs"
+
+and the other:
+
+> "A technique by means of which the one who practices it may gain
+> enhanced control of human affairs."
+
+Same famous term.
+
+Substantially different theory of what the actor is doing.
+
+That is exactly the point.
+
+`THERE ARE SPECIALISTS IN SPECIALISMS REGARDING THIS ONE CONCEPT.`
 
 The important point for us is not to resolve several millennia of
 scholarship before lunch.
@@ -1008,6 +1024,56 @@ UNITED STATES
 
 you have already thrown away a large amount of the system.
 
+Because the allied system is not merely watching China.
+
+It is also watching **what America does about China**.
+
+And China is watching what American allies do in response to America.
+
+A better minimum model looks more like:
+
+``` text
+             🇨🇳 China
+             ↕     ↖
+             ↕       ↖
+      🇺🇸 US / NATO ↔ 🇯🇵 🇰🇷 allies
+```
+
+Every actor observes the other two.
+
+Every action therefore produces information for more than its intended
+recipient.
+
+An American semiconductor restriction is information to China.
+
+It is also information to Japan.
+
+South Korea.
+
+Taiwan.
+
+European governments and firms.
+
+Global South governments.
+
+Technology companies.
+
+Investors.
+
+Researchers.
+
+Everybody updates their model.
+
+This is Embodied Information Ecology at diplomatic scale:
+
+> **the same action has different informational value to different
+> observers because they receive it from different positions, with
+> different histories, incentives, dependencies and prior information.**
+
+So alliance management is not merely getting allies to support a policy.
+
+It is understanding what the policy itself teaches them about you.
+
 ### 🗾 This is already an AI diplomacy problem
 
 This is no longer hypothetical.
@@ -1044,6 +1110,51 @@ always coincide.
 
 And they should not be lazily reverse-engineered from Daoism,
 Confucianism or the *I Ching*.
+
+Nor does cultural literacy require accepting any state's preferred
+description of itself as objective truth.
+
+``` text
+self-description
+      ↓
+information
+```
+
+Not:
+
+``` text
+self-description
+      ↓
+objective truth
+```
+
+That rule applies symmetrically.
+
+American language about **openness** is information about American
+self-framing.
+
+European language about **rights-based governance** is information about
+European self-framing.
+
+Chinese language about **sovereignty**, **multilateralism** or
+**civilisational diversity** is information about Chinese self-framing.
+
+Then we compare:
+
+``` text
+stated principle
+      ↕
+institution
+      ↕
+incentive
+      ↕
+behaviour
+```
+
+Understanding the model somebody is presenting is necessary for
+diplomacy.
+
+Believing every claim inside that model is not.
 
 But Western diplomats, defence institutions and technology companies
 need to understand the conceptual and historical environments in which
@@ -2854,6 +2965,87 @@ People who understand standards.
 People who understand how the other delegation's institutions actually
 work.
 
+But we can make the institutional requirement more concrete.
+
+An AI diplomatic process needs, at minimum, three functions operating at
+the same time.
+
+### 🛠️ Technical / industry reality
+
+What can the system actually do?
+
+What cannot it do yet?
+
+What standards are technically implementable?
+
+What are the constraints created by:
+
+-   compute;
+-   chips;
+-   fabs;
+-   energy;
+-   data centres;
+-   networks;
+-   model architecture;
+-   software;
+-   supply chains;
+-   skilled labour?
+
+A diplomatically beautiful agreement based on a technically false model
+may be fucking useless.
+
+### 🛡️ Strategic / defence-security reality
+
+What does the arrangement do to:
+
+-   national security;
+-   critical infrastructure;
+-   strategic dependency;
+-   economic resilience;
+-   military capability;
+-   intelligence exposure;
+-   productive capacity;
+-   relative power;
+-   alliance relationships?
+
+A technically efficient system can still produce a strategically
+unacceptable dependency.
+
+### 🤝 Diplomatic / interpersonal reality
+
+What can the other party actually agree to?
+
+What language can survive their domestic politics?
+
+What can survive ours?
+
+Where are the real red lines?
+
+Which differences are negotiable?
+
+What does reciprocity mean to each side?
+
+What relationship still has to exist the morning after the agreement is
+signed?
+
+A technically elegant agreement that cannot survive the political
+relationship is not an agreement.
+
+These do not have to be literally three people per country.
+
+They are three functions that have to remain connected.
+
+``` text
+technical reality
+       ↕
+strategic reality
+       ↕
+diplomatic reality
+```
+
+If one becomes detached from the others, the system can optimise the
+wrong problem extremely efficiently.
+
 Not because everybody needs to agree.
 
 Because **predictability is itself valuable**.
@@ -2883,6 +3075,98 @@ China as a major strategic competitor, then cultural and institutional
 literacy is not an optional humanities flourish.
 
 It is part of the fucking safety equipment.
+
+### ⏳ And now Sun Tzu is calling the AI summit
+
+There is one final reason this belongs in a node about strategic time.
+
+AI systems are developing quickly.
+
+Diplomatic institutions are comparatively slow.
+
+Standards take time.
+
+Treaties take time.
+
+Infrastructure takes time.
+
+Semiconductor fabs take time.
+
+Grid expansion takes time.
+
+Data centres take time.
+
+Talent pipelines take time.
+
+Safety research takes time.
+
+Political administrations change.
+
+Companies fail.
+
+Models improve.
+
+Dependencies harden.
+
+And therefore AI diplomacy has a **time asymmetry** problem.
+
+Some decisions become better if we wait for more information.
+
+Some become harder to reverse the longer we wait.
+
+Some technical standards may be dangerous to lock in prematurely.
+
+Some infrastructure dependencies may become strategically entrenched if
+nobody acts early.
+
+Some risks may be speculative today and measurable later.
+
+Some capabilities may diffuse faster than a treaty can be negotiated.
+
+So once again the available choices are not:
+
+``` text
+ACT NOW = STRONG
+WAIT = WEAK
+```
+
+Nor:
+
+``` text
+WAIT = WISE
+ACT NOW = PANIC
+```
+
+The actual questions are:
+
+> **Which things require agreement now?**
+
+> **Which things become clearer if we wait?**
+
+> **Which options disappear if we wait too long?**
+
+> **Which premature actions would lock us into a bad model?**
+
+> **What is regenerating while time passes?**
+
+> **What is becoming harder to reverse?**
+
+> **Whose capacity is increasing?**
+
+> **Whose dependency is deepening?**
+
+That is the whole node coming home.
+
+AI diplomacy is not a choice between speed and delay.
+
+It is another problem of understanding:
+
+> **what time is doing to the system while everybody argues about what
+> to do.**
+
+`☎️ AI SUMMIT: “Hello?”`
+
+`Sun Tzu: “Hi. Me again.”`
 
 ------------------------------------------------------------------------
 
