@@ -50,6 +50,15 @@ And then he basically drops the mic with: no country has ever benefited from pro
 
 Very nearly Sun Tzu Says Stop Fucking Doing Forever Wars.”
 
+https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo - “Republic of Ireland to wear black armbands for Israel game” after delay to press conference  
+
+no one needs to hear anything about this being anything other than people of a place who have enforced starvation and violence against citizens and enforced labour and cultural repression and a longstanding security crisis for decades on their border, taking a political stance in line with a majority of their fans. please maintain the not-bitching-about-it-as-English-people line that we appear to be taking.  
+
+i’ve also noticed in coverage that quite often what happens as soon as anything around this is touched, there is a genuine legal panic about actions related to British special forces, and I can’t emphasise enough how resolution on that, and resolution on the trauma element for families communities affected, but also legal resolution, is part of maintaining a peace process, and ultimately wood make her safer and more resilient in the long-term. I genuinely don’t know enough about it to understand in what I feel as a comfortable enough detail to be able to say much more on that, because that people on all sides of this discussion are part of this audience, and I prefer to be at least read up before I start yapping about something sore.  
+
+i’m also watching what’s going on with kraft in the stadium situation, and also have a lot of questions about how we all got ourselves into this position even if you didn’t want to talk about the politics, because there seems to be some assumptions made in different places that suggest that the temperature in the room wasn’t being felt, perhaps this is a point of reflection.  
+
+
 -->
 
 - - - 
