@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-26 02:29:28 UTC_
+_Generated on 2026-09-26 04:04:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3619,6 +3619,7 @@ _Generated on 2026-09-26 02:29:28 UTC_
         - [`🌊_riding_every_wave.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🌊_riding_every_wave.md)
         - [`🍊_why_is_the_orange_being_weird.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🍊_why_is_the_orange_being_weird.md)
         - [`🍹_sun_tzu_calling_nato.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🍹_sun_tzu_calling_nato.md)
+        - [`🍹_sun_tzu_calling_nato_final_v2.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🍹_sun_tzu_calling_nato_final_v2.md)
         - [`🏗️_what_counts_as_state_infrastructure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🏗️_what_counts_as_state_infrastructure.md)
         - [`🏥_health_education_and_admin_are_not_soft_extras.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🏥_health_education_and_admin_are_not_soft_extras.md)
         - [`🏦_banks_are_part_of_the_battlespace.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🏦_banks_are_part_of_the_battlespace.md)
