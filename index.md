@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-26 21:50:15 UTC_
+_Generated on 2026-09-26 22:43:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3559,6 +3559,7 @@ _Generated on 2026-09-26 21:50:15 UTC_
       - [**🍉_Current_Events/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/README.md)
         - [`☘️_on_targeting_kneecap_and_macklemore.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/☘️_on_targeting_kneecap_and_macklemore.md)
+        - [`☘️_on_targeting_kneecap_and_macklemore_sop_clean.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/☘️_on_targeting_kneecap_and_macklemore_sop_clean.md)
         - [`⚖️_uklfi_which_planet_are_you_on.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/⚖️_uklfi_which_planet_are_you_on.md)
         - [`🇺🇸_sanctions_governance_questions_for_mr_huckabee.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/🇺🇸_sanctions_governance_questions_for_mr_huckabee.md)
         - [`🍉_be_a_mensch_british_politics_edition.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/🍉_be_a_mensch_british_politics_edition.md)
