@@ -1,6 +1,7 @@
 # ☘️ On Targeting Kneecap And Macklemore
 
-**First created:** 2026-09-19 \| **Last updated:** 2026-09-27 *Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*
+**First created:** 2026-09-19 | **Last updated:** 2026-09-27  
+*Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*
 
 ---
 
@@ -100,7 +101,11 @@ Irish whiskey can be a diplomatic and commercial object. Irish ancestry can be c
 
 Then Irish artists start talking about colonial history, partition, Palestine, British state power, Irish republican history or the political status of Ireland and suddenly the information being carried by “Irishness” is rather less decorative.
 
-🥃 Irishness as commodity. 🎻 Irishness as culture. ☘️ Irishness as diaspora. 🎤 Irishness as political information. 🚨 *Oh no. It has opinions.*
+🥃 Irishness as commodity.  
+🎻 Irishness as culture.  
+☘️ Irishness as diaspora.  
+🎤 Irishness as political information.  
+🚨 *Oh no. It has opinions.*
 
 There is another wrinkle here. Ed Sheeran has not merely encountered Irishness as an abstract political constituency. Irish musical reference and collaboration have been part of his own artistic world. *Galway Girl* deliberately trades in recognisable Irish musical and cultural markers; Beoga collaborated with him. None of that means that an English musician who works with Irish artists acquires an obligation to reproduce any particular Irish political position. Cross-cultural exchange is good. Nobody needs an ethnic permission slip to play a fiddle.
 
