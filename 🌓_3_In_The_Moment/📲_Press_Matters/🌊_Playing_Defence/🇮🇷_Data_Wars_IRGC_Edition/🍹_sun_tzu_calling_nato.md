@@ -2935,7 +2935,267 @@ Because it tells you what would have to change.
 
 ------------------------------------------------------------------------
 
-## 27. 🪤 Stop Making Competent Adversary Strategy So Cheap
+## 27. 🇺🇸 Pentagon: Do Less
+
+There is, unfortunately, a Western executive summary of almost this
+entire node.
+
+``` text
+🇺🇸 PENTAGON:
+
+DO LESS.
+```
+
+Not:
+
+**care less.**
+
+Not:
+
+**prepare less.**
+
+Not:
+
+**know less.**
+
+Not:
+
+**defend less.**
+
+And emphatically not:
+
+**be less formidable.**
+
+The argument is almost the opposite.
+
+The formidable nature of the American military is an **input to the
+strategy**.
+
+Precisely because the United States possesses enormous capability,
+continuously converting capability into expenditure is not necessary to
+prove that the capability exists.
+
+``` text
+DO LESS
+    ≠
+BE LESS FORMIDABLE
+```
+
+Instead:
+
+``` text
+DO LESS
+    =
+spend less unnecessarily
+react less automatically
+reveal less gratuitously
+deploy less indiscriminately
+accept fewer bad engagements
+burn fewer scarce people
+consume less readiness for signalling
+buy less expensive reassurance through visible activity
+```
+
+So that:
+
+``` text
+when you actually need
+the enormous American war machine
+
+YOU STILL HAVE
+THE ENORMOUS AMERICAN WAR MACHINE
+```
+
+This is not an argument for decreasing effectiveness.
+
+It is an argument for becoming **more efficient about the production of
+strategic effect**.
+
+The question is not:
+
+> **How much capability can we visibly expend?**
+
+It is:
+
+> **What is the least expenditure required to produce the relevant
+> strategic effect while preserving the greatest useful capacity for
+> what happens next?**
+
+That is the same problem we have now encountered through Sun Tzu, *wu
+wei*, Greene, Frederick, Mao, Roosevelt, Eisenhower and cybernetics.
+
+Different intellectual shelves.
+
+Annoyingly similar memo.
+
+``` text
+2,500 YEARS OF COMPARATIVE STRATEGIC THOUGHT
+
+Sun Tzu
+   +
+wu wei
+   +
+I Ching
+   +
+Napoleon
+   +
+Frederick
+   +
+Mao
+   +
+Roosevelt
+   +
+Eisenhower
+   +
+cybernetics
+   ↓
+
+🇺🇸 PENTAGON:
+
+BE MORE EFFICIENT.
+```
+
+😭
+
+### 🦅 Formidable is not a synonym for busy
+
+This distinction matters because **restraint** can be heard as an
+argument for making the frightening machine less frightening.
+
+That is not the argument here.
+
+And there is a slightly awkward Western answer to the obvious objection:
+
+> **How is doing less supposed to be formidable?**
+
+Well.
+
+What, exactly, is unsettling you about China?
+
+Not that China literally does nothing militarily.
+
+It plainly does not.
+
+The more useful point is about **strategic perception**.
+
+Part of what can make a restrained competitor difficult to read is that
+capability is harder to infer when it is not continually translated into
+visible expenditure.
+
+If an observer is accustomed to reading power through:
+
+-   deployments;
+-   operations;
+-   public signalling;
+-   visible military tempo;
+-   weapons expenditure;
+-   overt responses;
+
+then visible action produces information.
+
+``` text
+VISIBLE ACTION
+      ↓
+observer gets information
+      ↓
+capability / intention / doctrine
+become somewhat easier to estimate
+```
+
+But substantial capability combined with selective expenditure creates a
+different information problem.
+
+``` text
+CAPABILITY
+      +
+selective expenditure
+      +
+strategic ambiguity
+      +
+fewer observable actions
+      ↓
+observer has to model
+what has NOT yet been spent
+```
+
+**Unused capacity is harder to measure than used capacity.**
+
+And that matters because the United States already understands this when
+looking outward.
+
+Part of the strategic anxiety produced by China is precisely the
+difficulty of knowing what substantial capabilities, intentions and
+options look like when they are **not continuously converted into the
+kinds of visible military activity through which the United States is
+accustomed to recognising power**.
+
+So no:
+
+**do less** does not necessarily mean **be less frightening**.
+
+Quite the opposite.
+
+``` text
+🇺🇸: “But if we do less, how will anybody know we're formidable?”
+
+Polaris: “You are already frightened by somebody you perceive
+as doing less.”
+
+🇺🇸: “...”
+
+Polaris: “There we are.”
+```
+
+The important reversal is this:
+
+> **America does not actually believe that power has to be continuously
+> expended in order to be formidable.**
+
+It already understands the opposite when modelling somebody else.
+
+The node is asking it to apply that model **to itself**.
+
+A capability can remain formidable while being used selectively.
+
+Readiness can increase while visible activity decreases.
+
+Deterrent value can sometimes depend precisely on an opponent knowing
+that capability remains available rather than watching it be continually
+consumed.
+
+And conserving capability does not prevent decisive action.
+
+It preserves the possibility of decisive action.
+
+``` text
+capacity ≠ expenditure
+power ≠ visible activity
+readiness ≠ constant deployment
+restraint ≠ incapacity
+```
+
+So perhaps the cleanest translation for an American defence audience is:
+
+> **Do less where doing more does not improve the strategic effect.**
+
+Or, in language suitable for a slide deck nobody particularly wanted to
+attend:
+
+> **Maintain effectiveness. Reduce unnecessary expenditure.**
+
+The Pentagon does not need to become less formidable.
+
+It needs to become more selective about **when being formidable requires
+doing something**.
+
+And once we phrase it that way, the next question becomes extremely
+obvious.
+
+**How expensive are we making ourselves to manipulate?**
+
+------------------------------------------------------------------------
+
+## 28. 🪤 Stop Making Competent Adversary Strategy So Cheap
 
 The defensive objective cannot realistically be:
 
@@ -2994,7 +3254,7 @@ response.
 
 ------------------------------------------------------------------------
 
-## 28. 📣 Classified Is Not The Same As Inexplicable
+## 29. 📣 Classified Is Not The Same As Inexplicable
 
 There are excellent reasons not to tell the public everything.
 
@@ -3044,7 +3304,7 @@ your own political incentives will do it for them.
 
 ------------------------------------------------------------------------
 
-## 29. 🤖 AI Is Where The Bench Becomes Diplomatic Infrastructure
+## 30. 🤖 AI Is Where The Bench Becomes Diplomatic Infrastructure
 
 This is why the apparently wandering journey through Sun Tzu, *wu wei*,
 Austen, Mao, Montgomery, Roosevelt, Eisenhower, boycotts and
@@ -3401,7 +3661,7 @@ It is another problem of understanding:
 
 ------------------------------------------------------------------------
 
-## 30. 🧠 The Actual Vulnerability Is A Thin Bench
+## 31. 🧠 The Actual Vulnerability Is A Thin Bench
 
 This is the final teaching point.
 
@@ -3463,7 +3723,7 @@ It requires respecting the possibility that they know things you do not.
 
 ------------------------------------------------------------------------
 
-## 31. ☎️ Sun Tzu Calling NATO
+## 32. ☎️ Sun Tzu Calling NATO
 
 We can now return to the beginning.
 
@@ -3566,7 +3826,7 @@ If yes:
 
 ------------------------------------------------------------------------
 
-## 32. 📚 Sources And Reading Routes
+## 33. 📚 Sources And Reading Routes
 
 The source list deliberately separates different epistemic functions.
 
@@ -3761,11 +4021,7 @@ making the decision.
 
 🍹 ⏳ 🕸️ 🪑 🧿 --- strategic time; information ecology; conserved
 capacity; cross-cultural depth on the bench; attribution versus
-advantage.  
-
-*Follow the evidence:*  
-
-- [📰: BBC: “Iran offers US deal to reopen Strait of Hormuz in seven days”](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko) – *America, at this point we don’t even need to know how executive the mooncakes were that you gave President Xi, please do not pass up on a deal that can get your lads back to port because something something epic fury; we are all tired, and British admin is still a disgrace. Please trust our experience in this arena, cousin 🍋‍🟩*  
+advantage.
 
 ------------------------------------------------------------------------
 
