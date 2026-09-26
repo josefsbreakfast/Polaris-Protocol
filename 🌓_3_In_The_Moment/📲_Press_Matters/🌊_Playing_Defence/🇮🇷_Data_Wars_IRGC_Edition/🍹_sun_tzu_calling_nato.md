@@ -1074,6 +1074,74 @@ So alliance management is not merely getting allies to support a policy.
 
 It is understanding what the policy itself teaches them about you.
 
+And one action can communicate different things to several audiences at
+once.
+
+A deterrent signal intended for an adversary might be received as:
+
+``` text
+adversary:
+“THEY ARE SERIOUS.”
+```
+
+while one ally receives:
+
+``` text
+“GOOD. THEY ARE SERIOUS.”
+```
+
+and another receives:
+
+``` text
+“OH FUCK. THEY ARE ESCALATING.”
+```
+
+A domestic audience may receive:
+
+``` text
+“FINALLY SOMEONE DID SOMETHING.”
+```
+
+while a market receives:
+
+``` text
+“SUPPLY-CHAIN RISK JUST CHANGED.”
+```
+
+None of those observers has received a different physical act.
+
+They have received different **information** from the same act because
+they occupy different positions in the system.
+
+This matters directly for AI policy.
+
+Export controls, compute restrictions, semiconductor agreements,
+model-access rules, safety standards and security partnerships are never
+signals to only one recipient.
+
+They are simultaneously observed by allies, competitors, companies,
+researchers, investors and third states.
+
+Strategic communication therefore cannot be modelled as:
+
+``` text
+sender → recipient
+```
+
+It is closer to:
+
+``` text
+                 → adversary
+                /
+sender → action → ally A
+                \→ ally B
+                 → domestic public
+                 → firms / markets
+                 → third states
+```
+
+Every observer updates a different model.
+
 ### 🗾 This is already an AI diplomacy problem
 
 This is no longer hypothetical.
@@ -1178,6 +1246,43 @@ are being used.
 Two delegations can use the same English noun while carrying different
 models of what the noun requires.
 
+And there is a still deeper problem:
+
+> **Shared vocabulary does not guarantee shared ontology.**
+
+Two delegations can agree that:
+
+``` text
+AI MUST BE SAFE
+```
+
+Wonderful.
+
+Now ask:
+
+-   What counts as an AI system?
+-   What counts as harm?
+-   Whose safety?
+-   Safety from whom?
+-   Individual safety or collective safety?
+-   Physical, economic, informational or political harm?
+-   Immediate harm or systemic harm?
+-   Who has authority to determine that a threshold has been crossed?
+-   What evidence is sufficient?
+-   Who bears the cost of precaution?
+-   Who bears the cost of non-intervention?
+
+Now we are negotiating.
+
+Translation may establish a shared word without establishing a shared
+model of the thing the word refers to.
+
+``` text
+shared vocabulary
+        ≠
+shared ontology
+```
+
 That is an information problem before it becomes a treaty problem.
 
 And AI makes the cost of getting it wrong considerably larger.
@@ -1270,6 +1375,46 @@ Excellent sensors.
 Excellent analysts.
 
 Potentially poor routing.
+
+And this is where the metaphor needs to become explicitly cybernetic.
+
+``` text
+sensor
+  ↓
+analysis
+  ↓
+routing
+  ↓
+selection
+  ↓
+decision
+  ↓
+action / deliberate non-action
+  ↓
+feedback
+```
+
+A system does not become strategically intelligent merely because one
+node inside it possesses excellent information.
+
+The information has to survive transmission.
+
+It has to reach the relevant decision point.
+
+It has to remain sufficiently intact to be recognised.
+
+It has to compete successfully with other signals.
+
+The resulting decision has to generate feedback that can travel back
+through the system and update the model.
+
+A state can therefore contain excellent regional expertise, technical
+expertise and intelligence while still producing system-level behaviour
+that poorly reflects what those specialists know.
+
+That is not a contradiction.
+
+It is a routing problem.
 
 Political filtering.
 
@@ -1786,6 +1931,60 @@ The observation did not change.
 **They are still there.**
 
 Its informational value changed because the expected timeline changed.
+
+### 🕰️ Later information can change the meaning of an earlier observation
+
+This deserves to be made explicit because it connects strategic time
+directly to **Information Is Experienced**.
+
+``` text
+observation at t1
+      +
+information acquired by t2
+      =
+different meaning at t2
+```
+
+At `t1`:
+
+``` text
+RETREAT
+```
+
+may be interpreted as:
+
+``` text
+DEFEAT
+```
+
+At `t2`, after the pursuing force has overextended, the same earlier
+retreat may be interpreted as:
+
+``` text
+PRESERVATION
+```
+
+The historical observation has not changed.
+
+The information environment has.
+
+Lady Catherine's observation of Elizabeth works like this.
+
+Frederick's survival works like this.
+
+An underdog still existing six months later works like this.
+
+Cyber attribution works like this.
+
+AI capability assessment works like this.
+
+Information is therefore not simply deposited into history with one
+permanent meaning attached.
+
+Later context can alter the informational value of an earlier event.
+
+This is another reason strategic judgement made under uncertainty should
+retain room for model revision.
 
 ------------------------------------------------------------------------
 
@@ -2624,7 +2823,39 @@ is enough.
 
 ## 26. 🧮 Whose Protracted War Is It?
 
-We can now return to Sun Tzu with a much better scoreboard.
+Before returning to the scoreboard, it is worth remembering why this
+enormous intellectual safari is sitting inside the **Iran / IRGC Data
+Wars** cluster.
+
+Iran did not disappear from the node while we wandered through ancient
+Chinese philosophy, Jane Austen, Mao, Napoleon, Montgomery, Frederick,
+Roosevelt, Eisenhower, capitalism and AI.
+
+The original Iran question exposed the larger analytical problem.
+
+We were trying to understand an adversary's possible use of time without
+enough models of what **strategic time** can be.
+
+If Iran can benefit from Western expenditure it did not itself create,
+then attribution alone is insufficient.
+
+If NATO can preserve capability through restraint, then visible
+non-response alone is insufficient.
+
+If third actors can change the environment, then a bilateral model is
+insufficient.
+
+If later information can alter the meaning of an earlier event, then
+instant interpretation is insufficient.
+
+If allies receive different information from the same action, then
+signalling to the adversary alone is insufficient.
+
+That is why the detour was necessary.
+
+It gave us a better scoreboard.
+
+We can now return to Sun Tzu with it.
 
 Not merely:
 
@@ -3337,7 +3568,37 @@ If yes:
 
 ## 32. 📚 Sources And Reading Routes
 
-### Primary / historical texts discussed
+The source list deliberately separates different epistemic functions.
+
+``` text
+📜 primary texts read alongside drafting
+   → what the texts themselves say in the editions used here
+
+📚 interpretative scholarship
+   → how specialists analyse contested concepts and traditions
+
+🏛️ historical / institutional sources
+   → documentary and institutional evidence for historical mechanisms
+
+🤖 contemporary policy sources
+   → what governments and institutions currently say they are doing
+```
+
+These categories should not be treated as interchangeable.
+
+A state's policy statement is evidence of its stated position.
+
+It is not independent proof that the state behaves exactly as described.
+
+A scholarly interpretation is evidence of an argument about a concept.
+
+It is not the concept's only possible meaning.
+
+A historical document records a situated observer's information.
+
+It does not become omniscient merely because it is old.
+
+### 📜 Primary texts read alongside drafting
 
 -   Sun Tzu, *The Art of War*, Chapter II, "Waging War" --- quotations
     in this node follow the translation read alongside the drafting
@@ -3349,7 +3610,9 @@ If yes:
 -   Franklin D. Roosevelt, press conference explanation of aid to
     Britain and the "garden hose" analogy, 17 December 1940.
 
-### Public research and institutional sources
+### 🏛️ Historical / institutional sources
+
+### 📚 Interpretative scholarship
 
 -   [Stanford Encyclopedia of Philosophy:
     "Laozi"](https://plato.stanford.edu/entries/laozi/) --- *wu wei*,
