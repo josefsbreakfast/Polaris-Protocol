@@ -58,12 +58,19 @@ i’ve also noticed in coverage that quite often what happens as soon as anythin
 
 i’m also watching what’s going on with kraft in the stadium situation, and also have a lot of questions about how we all got ourselves into this position even if you didn’t want to talk about the politics, because there seems to be some assumptions made in different places that suggest that the temperature in the room wasn’t being felt, perhaps this is a point of reflection.  
 
+I think what we’re getting out of this period is the clearest indication that actually a lot of the people who are taking a stand against a state, may not be perfect for trying their best to afford respect to Jewish people as other people, whilst being extremely angry about the violence that their own states are supporting another state to do. There has been as much effort as possible to maintain focus not on Jewish identity put on the violence which has been committed, and so one of the most powerful things we can do in this moment right now if you are concerned about anti-Israel sentiment, as a contributing factor to anti-Jewish hate (and if we are to be precise, I do think that that is a valid concern, even though I may disagree that particular incidences have escalated to the latter in the formal sense), then one of the most powerful things we can do is to stop the cycle of violence which occurs by people sharing our identity, or acting in the name of our identity as a national project, wherever possible.  
+
+Anyone who has looked after or parented children to any extent will understand but sometimes, love looks like enforcing safe and healthy boundaries. cf “no, you are not allowed to dangle a piece of ham suspended by a string outside of the top window, to see if you can, in your words, fish for the cat”.  
+
+(everyone has stories of “what the fuck with the children in my family thinking/how the fuck did they get there in the first place”. A nice icebreaker. small children could get out of Fort Knox; not to be trusted in the slightest.)  
+
+(yes, I still love children. I just know them well enough to not fucking trust them.)  
 
 -->
 
 - - - 
 
-# ☘️ On Targeting Kneecap And Macklemore  
+# ☘️On Targeting Kneecap And Macklemore  
 **First created:** 2026-09-19 | **Last updated:** 2026-09-25  
 *Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*  
 
