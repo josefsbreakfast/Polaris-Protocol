@@ -1,11 +1,11 @@
 # ☘️ On Targeting Kneecap And Macklemore
 
-**First created:** 2026-09-19 \| **Last updated:** 2026-09-26  
+**First created:** 2026-09-19 | **Last updated:** 2026-09-26  
 *Fear is allowed. The question is what happens when fear becomes an
 instrument — and what the argument about everybody else’s identity is
 shouting over.*
 
-------------------------------------------------------------------------
+---
 
 *[☘️🎶 Musical accompaniment in
 progress.](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=lpgDs3KiSAa_TisY92wD5w&utm_source=copy-link&pi=6p2EWp2DTL297)
@@ -42,7 +42,7 @@ campaign. It also depends on whether institutions can continue carrying
 grief, evidence, accountability, disagreement and ordinary life without
 returning people to violence.
 
-------------------------------------------------------------------------
+---
 
 ### ☘️ One boundary before we start
 
@@ -67,7 +67,9 @@ playlist, **Ireland contains Irish history**. Some carry grief. Some
 carry violence. Some carry jokes. Some preserve political worlds I would
 not reproduce as policy. Some are simply very good songs.
 
-Culture is one of the ways human groups remember things.
+Culture is one of the ways human groups remember things.  
+
+---
 
 ## 🛰️ Orientation
 
@@ -129,7 +131,7 @@ And, while we are all arguing:
 
 > **What the fuck is happening to the original conversation?**
 
-------------------------------------------------------------------------
+---
 
 ## 1. 📰 Three Headlines And A Problem
 
@@ -197,7 +199,7 @@ solidarity becomes expensive.
 **You cannot demand the carrier while indefinitely refusing the
 information it carries.**
 
-------------------------------------------------------------------------
+---
 
 ## 2. 🎶 The Information Starts Travelling
 
@@ -336,7 +338,7 @@ civilisation” means tearing down women and girls.
 
 You can’t drop bombs on people and then forbid them to feel human again.
 
-------------------------------------------------------------------------
+---
 
 ## 3. 👕 Completely Intolerable™
 
@@ -364,7 +366,7 @@ Sir.
 
 **You have accidentally added metadata.**
 
-------------------------------------------------------------------------
+---
 
 ## 4. 🎤 What Actually Happened To Macklemore?
 
@@ -439,12 +441,9 @@ don't. But institutions accustomed to controlling physical access now
 operate inside an information environment where **the act of exclusion
 is itself transmissible information**.
 
-Sources for the subsequent tour chronology include [The Guardian's
-Philadelphia
-report](https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour)
-and contemporaneous reporting collected around the withdrawals.
+Sources for the subsequent tour chronology include [The Guardian's Philadelphia report](https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour) and contemporaneous reporting collected around the withdrawals.
 
-------------------------------------------------------------------------
+---
 
 ## 5. 🏟️ Who Owns The Stage?
 
@@ -499,10 +498,7 @@ outcome**
 What programme? How much? Through whom? For what purpose? Where? With
 what governance? What happened?
 
-That is not an allegation. It is how you turn a philanthropic claim into
-inspectable information. Trevor's wider OSINT work around Kraft belongs
-adjacent to this node for precisely that reason, but it should not
-swallow the node whole.
+That is not an allegation. It is how you turn a philanthropic claim into inspectable information. Ali McForever’s wider OSINT work around Kraft belongs adjacent to this node for precisely that reason, but it should not swallow the node whole.
 
 The same applies to anti-hate infrastructure. If an institution is
 trying to make Jewish people safer, what model of prejudice does it use?
