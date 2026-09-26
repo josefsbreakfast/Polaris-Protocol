@@ -1,5 +1,5 @@
 # 😎 Normal Fucking Sunglasses
-**First created:** 2026-08-18 | **Last updated:** 2026-09-09  
+**First created:** 2026-08-18 | **Last updated:** 2026-09-26  
 *Sometimes the privacy feature is that the object does not collect the data in the first place.*
 
 ---
@@ -523,6 +523,7 @@ Sometimes glasses can just be glasses.
 - [❤️‍🩹 Rehabilitated Tech](../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/) — *future-facing technology designed around human needs and limits*
 - [🕶️ Normal F***ing Sunglasses — Knockaround](https://knockaround.com/products/duckduckgo-paso-robles) — *the actual joke, embodied*
 - [📰 The Onion promotion](http://youtube.com/post/UgkxIOH5uMOua_A7bpbyRvp2YEZSQejNK7xt?si=xZ59dOEu57otsWeK) — *satire completing the loop*
+- [📹: Meditations for the anxious, via TikTok: “meta raybans: panopticon, capitalist realism and why everyone is a perv*rt now”](https://vm.tiktok.com/ZN8rFQ96y/)  
 
 ---
 
@@ -544,7 +545,7 @@ analogue technology, privacy, surveillance, data minimisation, ambient computing
 
 ## 🏮 Footer
 
-*Normal Fucking Sunglasses* is a living node of the **Polaris Protocol**. It uses a deliberately ordinary object to examine data minimisation, surveillance saturation, analogue capability and the possibility of designing information systems around minimum necessary observation rather than maximum extractive capacity.
+*😎 Normal Fucking Sunglasses* is a living node of the **Polaris Protocol**. It uses a deliberately ordinary object to examine data minimisation, surveillance saturation, analogue capability and the possibility of designing information systems around minimum necessary observation rather than maximum extractive capacity.
 
 > 📡 Cross-references:
 >
@@ -558,4 +559,4 @@ analogue technology, privacy, surveillance, data minimisation, ambient computing
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-09_
+_Last updated: 2026-09-26_
