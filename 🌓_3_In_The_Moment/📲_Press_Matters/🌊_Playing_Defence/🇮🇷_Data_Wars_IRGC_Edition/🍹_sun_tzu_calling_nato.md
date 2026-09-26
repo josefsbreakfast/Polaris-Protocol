@@ -4026,7 +4026,8 @@ advantage.
 *Follow the evidence:*  
 
 - [📰: BBC: “Iran offers US deal to reopen Strait of Hormuz in seven days”](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko) – *America, at this point we don’t even need to know how executive the mooncakes were that you gave President Xi, please do not pass up on a deal that can get your lads back to port because something something epic fury; we are all tired, and British admin is still a disgrace. Please trust our experience in this arena, cousin 🍋‍🟩*  
-- [📰: DW News: “Trump rejects Iran proposal to reopen Strait of Hormuz”](https://www.dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893) – *does he just want things named after him, now?*  
+- [📰: DW News: “Trump rejects Iran proposal to reopen Strait of Hormuz”](https://www.dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893) – *does he just want things named after him, now?*
+- [📹: Nathan Jun, via TikTok: “WE COULD HAVE WITHDRAWN TROOPS WHAT ARE YOU DOING FOR THE LOVE OF GOD PLEASE JUST SWITCH PARTIES OR LEAVE.”](https://vm.tiktok.com/ZN8rBFeg9/) – *that is indeed the feeling*  
 
 ------------------------------------------------------------------------
 
