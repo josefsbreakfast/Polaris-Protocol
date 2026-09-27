@@ -1364,7 +1364,9 @@ And sometimes it requires saying:
 
 **Yes, I want you to be safe.**
 
-**No, you cannot have their fucking house.**
+**”كنت ولا زلت أنا، يا غزتي يا قمري — ”**
+
+**But no, achienu, you cannot have their fucking house.**
 
 ---
 
