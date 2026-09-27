@@ -4,6 +4,8 @@
 
 ---
 
+## 🦊 Let Us Contextualise Our Feelings, Cousin  
+
 In popular culture, we ought perceive that America likes to think that we can be told what to do.  
 
 Historically?  
