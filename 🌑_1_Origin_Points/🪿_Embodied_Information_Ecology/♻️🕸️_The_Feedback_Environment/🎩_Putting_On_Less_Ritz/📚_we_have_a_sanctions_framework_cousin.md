@@ -1359,7 +1359,32 @@ Which leaves the Special Relationship in an entirely manageable position.
 
 🇺🇸: Great. Tolkien?
 
-🦊: **Ticket remains open.**
+🦊: **Ticket remains open.**  
+
+---  
+
+## 🦊 Just Contextualising Emotions, Cousin  
+
+> 🇺🇸: So you are proposing to go to war over [this admin]. [Your news feed] is thousands of miles away from [“lol boobies” indexing], a handful of [real established incidents], politically and economically insignificant, if you'll excuse me.
+>
+> 🇬🇧: Just like [TikTok], I imagine.
+>
+> 🇺🇸: I'm sorry?
+>
+> 🇬🇧: In 2024, when [Bytedance owned TikTok]. Did America go cap in hand and ask [Bytedance] for a peaceful negotiation of terms?  
+> Did she turn her back on her own citizens there because the [indexing remained] thousands of miles from [a substantive physical threat to the] mainland United States?  
+> No! No, no!  
+> We will stand on principle, or we shall not stand at all.  
+>
+> 🇺🇸: But [Brigante], with all due respect, when one has been to war...  
+>
+> 🇬🇧: With all due respect, sir, I have done battle every single day of my life and many men have underestimated me before.  
+>
+> This lot seem bound to do the same, but they will rue the day.  
+
+You changed the laws of engagement, cousin.  
+
+We are learning from your example of how to manage software development.  
 
 ---
 
