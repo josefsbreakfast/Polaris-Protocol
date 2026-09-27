@@ -12,7 +12,9 @@ Historically?
 
 However, we do still want to know how one takes one’s tea.  
 
-> “[The standards of beaurocratic administration] belongs to **Britain**, and I want them back.”   
+> “The [extended universe of the PayPal Mafia], which is a [technocratic] gang, has invaded our sovereign territory; this cannot be tolerated. May I make plain my negotiating position: I will not negotiate with criminals or thugs.
+> 
+> [The standards of beaurocratic administration] belong to **Britain**, and I want them back.”   
 
 ---
 
