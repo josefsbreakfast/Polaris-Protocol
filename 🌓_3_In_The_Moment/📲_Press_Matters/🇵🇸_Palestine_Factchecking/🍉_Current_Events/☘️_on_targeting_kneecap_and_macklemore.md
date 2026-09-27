@@ -1232,9 +1232,13 @@ What if no one else has to die?
 
 What if all this becomes a ghost story, that you tell your wairns one day?  
 
-A ghost story they’ll hardly believe.”. 
+A ghost story they’ll hardly believe.”  
 
-Don’t kill thirty years of hard work.  
+Don’t kill thirty years of hard work.    
+
+Certainly not out of the downstream consequences of refusal to side against some Epstein American network’s extraction bullshit of another people who are surviving against generations of violence.  
+
+Don’t kill generations of work for that.  
 
  
 ---
