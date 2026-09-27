@@ -133,7 +133,7 @@ So:
 
 🇺🇸: Against us?
 
-🦊: **Ideally not. Behave.**
+🦊: **Ideally not. Please behave.**
 
 ---
 
