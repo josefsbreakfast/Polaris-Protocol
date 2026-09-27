@@ -1226,8 +1226,15 @@ Americans: [do you recognise where The Cranberries belong now](https://youtu.be/
 
 …what if we vote yes, and it doesn’t even work?”  
 
-“And what if it does? What if no one else has to die? What if all this becomes a ghost story, that you tell your wairns one day? a ghost story they’ll hardly believe.”  
+“And what if it does?  
 
+What if no one else has to die?   
+
+What if all this becomes a ghost story, that you tell your wairns one day?  
+
+A ghost story they’ll hardly believe.”
+
+ 
 ---
 
 ## 🌌 Constellations
