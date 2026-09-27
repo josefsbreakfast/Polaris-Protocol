@@ -17,7 +17,7 @@ Tldr:
 
 **Ticket B — security/engineering:**
 
-> Until Ticket A is resolved, could we at minimum establish whether those and other behavioural signals are contaminating, distorting, or making exploitable the information systems through which allied populations receive news?  
+> Until such a time as Ticket A is resolved, could we at minimum establish whether those and other behavioural signals are contaminating, distorting, or making exploitable the information systems through which allied populations receive news?  
 
 --- 
 
