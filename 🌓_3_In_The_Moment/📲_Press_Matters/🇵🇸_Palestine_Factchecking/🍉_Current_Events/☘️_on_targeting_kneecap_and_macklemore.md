@@ -1276,7 +1276,15 @@ I am begging that we do not weaponise moment of fear; we have seen so many momen
 
 When people are shown patterns they recognise, please do not patronise their reasoning.  
 
-This is why [this](https://youtu.be/NpItoCG51X0?is=J_siLTcBH5S1qLBx) is a totally appropriate press conference on the RAF Fairford major incident. 
+This is why [this](https://youtu.be/NpItoCG51X0?is=J_siLTcBH5S1qLBx) is a totally appropriate press conference on the RAF Fairford major incident.  
+
+And yet as we talk, the death toll in Gaza now [rises above 74000 people](https://gazacasualties.org/).  
+
+What is this Board of Peace planning to do about that?  
+
+I don’t think over 20k children confirmed dead, or getting on for half of the people who are now dead being women and children, is reassurance enough when you say to me that I am the problem for calling this genocide.  
+
+Surely if you cared that much about it, you’d actually fucking fix it, and the numbers of violent attacks and deaths across all of Palestine – across Gaza and the West Bank and East Jerusalem, not just each place one by one like the don’t belong to each other – would not even be maintained, let alone be rising.  
 
 --- 
 
