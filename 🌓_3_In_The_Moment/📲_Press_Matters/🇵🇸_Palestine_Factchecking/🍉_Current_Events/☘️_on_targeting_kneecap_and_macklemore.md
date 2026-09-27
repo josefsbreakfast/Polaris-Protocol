@@ -1232,7 +1232,9 @@ What if no one else has to die?
 
 What if all this becomes a ghost story, that you tell your wairns one day?  
 
-A ghost story they’ll hardly believe.”
+A ghost story they’ll hardly believe.”. 
+
+Don’t kill thirty years of hard work.  
 
  
 ---
