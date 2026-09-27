@@ -1133,6 +1133,7 @@ I didn’t know that yall didn’t know that people do this with like no sex inv
 - [Tiktok: Daily Mail: “Senator Tommy Tuberville says many pilots, flight attendants and air traffic controllers are part of the furry community”](https://vm.tiktok.com/ZN8MTN56x/) - obvs immediately comments re recent statements by kash about fbi intake 
 - [TikTok: Pearlmania500:”Former college football coach and
 CURRENT US senator Tommy Tuberville attacks FURRIES on the floor of the senate… diesel is nearing $7 nationally.”](https://vm.tiktok.com/ZN8MTGLTK/)
-- [TikTok: The Daily Show: “Furries on Planes?”](https://vm.tiktok.com/ZN8rFspCb/) like snakes on planes but safer.  
+- [TikTok: The Daily Show: “Furries on Planes?”](https://vm.tiktok.com/ZN8rFspCb/) like snakes on planes but safer.
+- [TikTok: Pod Save America: “Favreau reacting to Sen. Tommy Tuberville's floor speech about furry pilots: "That guy as has to be the dumbest motherf*cker in the Senate."”](https://vm.tiktok.com/ZN8rBtfxy/)
 
 srsly this always gets pumped as a talking point as a distraction it’s mostly such a non issue.  
