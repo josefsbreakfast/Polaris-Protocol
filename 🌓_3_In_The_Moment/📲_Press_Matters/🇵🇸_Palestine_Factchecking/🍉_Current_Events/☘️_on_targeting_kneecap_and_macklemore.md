@@ -1274,6 +1274,8 @@ I am begging that we do not weaponise moment of fear; we have seen so many momen
 
 When people are shown patterns they recognise, please do not patronise their reasoning.  
 
+This is why [this](https://youtu.be/NpItoCG51X0?is=J_siLTcBH5S1qLBx) is a totally appropriate press conference on the RAF Fairford major incident. 
+
 --- 
 
 ## 🌌 Constellations
