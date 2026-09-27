@@ -1182,7 +1182,27 @@ Show me the choices available. Show me who controls them. Show me who bears the 
 
 And when the information environment starts screaming loudly enough that the original object disappears:
 
-### **SHOW ME THE FUCKING MACHINE.**
+### **SHOW ME THE FUCKING MACHINE.**  
+
+---
+
+## ☘️-🍊 Bonus Round: Orange Order  
+
+- there is a loyalist March that frequently goes through and parades through principal Catholic areas in Northern Ireland
+- This year they were banned and then there has been an appeal that they won in Court
+- You are therefore seeing people use imagery directly from bands like kneecap to be part of the counterprotest to that, in a manner which is not similar to what was trying to be achieved at cable Street, although I will note that the current efforts are deliberately nonviolent and deliberately use Kenyan kingian nonviolence, in part because that “ side” is projected as unreasonably violent by the British state.
+- british establishment media will quite often neglect to mention any of the paramilitary associations of anyone in the orange order, whilst highlighting the paramilitary associations of anyone resisting
+- You don’t have to have an opinion about that border to understand that that does not help community cohesion, and it does not help a peace process
+- When should find politicians in Northern Ireland are helping rally their communities to stand with pride in who they are in areas where the only realistic interpretation of the orange order would be that it is intimidating for it to march through that area, it is very difficult to listen to British establishment then shit on Sinn Fein in general for everything it’s ever done and anything is associated with. And yes, I’m acknowledging that I understand and know about their associations with the provisional IRA iterations, and that I know and understand what I’m saying.
+- The fact that Kingin nonviolence techniques are being used to resist something which people have already gone through Court to try and resist, shows that people are very upset about this, that they are prepared to take significant risk for this, and they should invite you to ask questions about why they feel this way, and it should cost us against automatically associating them with paramilitaries which surrendered their arms formally in 1998.
+- I am not saying that the orange order can’t do a parade necessarily, I’m also not saying it should do it, I’m saying that this is a conversation which the people of Northern Ireland know most about, they understand the traditions, and understand the cultural heritage, they understand the impact on their communities.
+- The leading stories that are being picked up by algorithms and being picked up by establishment media are leading with counter terrorist and police, and again I’m not saying that that would be inappropriate, to some degree, but without looking at this in more detail, we also have to recognise how this looks from every angle, and for a lot of people in Northern Ireland, armed counterterrorism police will have an extremely strong traumatic memory.
+- This is something to watch at the same time that we watch and bear witness to what is happening in Palestine.
+- This is something that we have to work on as a country if we really give a shit about the union, and I am sick of politicians you say that they care about the union, who just want to enforce an idea that they have about Northern Ireland on Northern Ireland, they are their own people and they have a plurality of opinion, and we often do not recognise that.
+-  The quick and dirty guide if people are wondering about populations and communities, is that yes there is a significant Catholic population, however, on a general sense, it is a minority and centre marginalised, and whilst it is associated with the arm struggle which has previously occurred, Northern Ireland is governed by the Crown, and this puts the loyalist slightly closer to the idea of weakness or the idea of established power. I agree that it is complex. I agree that there is a need to balance equality duty, and this is where instruments like PSED should be protected *in general* really strong. The same legal instrument is challenged when we take a specific view that has Mike what we have taken so far in respect to anti Palestinian racism across the United Kingdom. Unfortunately, legal instruments don’t really care about our feelings, and they need to be strengthened as a whole, if we want them to remain strong elsewhere. This is why it’s significantly worries me, when we start to allow our emotions to govern how we listen to different voices through the way that the law is structured in this country.
+-  we can talk about how important it is to be aligned with certain allies geopolitically, but this is a vulnerability that exists in our sovereign state, and so we are the ones who have to stand up and say, actually your foreign policy, or your domestic policy and how it interacts with our policies here, is weakening our protections over our citizens, on matters apparently wholly unconnected.  
+- I will repeat what I have said often: we are all a lot more fucking connected than we ever think we are.
+- 
 
 ---
 
