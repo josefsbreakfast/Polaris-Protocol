@@ -1214,8 +1214,19 @@ And when the information environment starts screaming loudly enough that the ori
 - Both “sides” had paramilitaries, both “sides” engaged in violence. Please stop assuming that it was one “side” only, because then you miss what might provoke people who feel represented by them to take up arms.
 - because incidentally this is talking over a conversation which is really important, about [something else](https://www.bbc.co.uk/news/articles/ckj063lq1jm6o) which comes out of periods of colonial style governance. My heart cries for mothers, my heart cries for children, and I’m tired of the men calling that emotional, and being unable to see their own emotions to our communities and our politics.
 - stop making women’s lives harder in Gaza, stop waking women’s lives harder in the West Bank, stop making women’s lives harder in occupation East Jerusalem, stop making women’s lives harder in the state of Israel, stop making women’s lives harder in Northern Ireland, stop making women’s lives harder in the republic of Island, and stop making women’s life harder in the United Kingdom of Great Britain and Northern Ireland.
-- Until you stop making women’s life harder, I unfortunately have to conclude that either you hate us, which is at least recognisable, or even worse: you simply don’t see us as human enough, to care what the world does to us.  
+- Until you stop making women’s life harder, I unfortunately have to conclude that either you hate us, which is at least recognisable, or even worse: you simply don’t see us as human enough, to care what the world does to us.
+- [Channel 4: “Why thousands of protesters blocked Orange
+Order march in Northern Ireland”](https://youtu.be/tO4ohxzrzow?is=PZs135hqgxjKVqwj)
 
+---
+
+Americans: [do you recognise where The Cranberries belong now](https://youtu.be/ey0YNt-RyTA?is=BK7-JyXqNcXabezm)?  
+
+[“What if we do it, and it was all for nothing?](https://youtu.be/Me4pCBLd-DM?is=kSa3zYBuFewmED3e)…  
+
+…what if we vote yes, and it doesn’t even work?”  
+
+“And what if it does? What if no one else has to die? What if all this becomes a ghost story, that you tell your wairns one day? a ghost story they’ll hardly believe.”  
 
 ---
 
