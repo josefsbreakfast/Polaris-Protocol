@@ -1262,6 +1262,10 @@ The current UK sanctions have not yet materiality produced what they’re suppos
 
 We need people to start putting their actions and their money where their mouth is.  
 
+If you want people to believe what you’re saying, when you keep saying that what you want is peace, your actions and your investments need to start aligning with what you are stating is your desired outcome.  
+
+If there is a mismatch, then how can you say that the scrutiny is anything but absolutely fair?  
+
 ---
 
 ## 🌌 Constellations
