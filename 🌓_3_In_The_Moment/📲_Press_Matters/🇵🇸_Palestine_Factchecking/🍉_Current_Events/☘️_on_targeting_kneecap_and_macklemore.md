@@ -1217,6 +1217,8 @@ And when the information environment starts screaming loudly enough that the ori
 - Until you stop making women’s life harder, I unfortunately have to conclude that either you hate us, which is at least recognisable, or even worse: you simply don’t see us as human enough, to care what the world does to us.
 - [Channel 4: “Why thousands of protesters blocked Orange
 Order march in Northern Ireland”](https://youtu.be/tO4ohxzrzow?is=PZs135hqgxjKVqwj)
+- [RTÉ: “Garvaghy Road protesters form blockade preventing Orange Order parade”](https://youtu.be/Cen4qAjAT2M?is=_cDXu0XEBSTFQQ1H)
+
 
 ---
 
