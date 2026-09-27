@@ -7,6 +7,20 @@ AI governance.*
 
 ------------------------------------------------------------------------
 
+Tldr:  
+
+**Ticket A — social:**
+
+> America, could you perhaps stop encoding centuries of racial mythology about Black men into sexual taxonomies?
+> That would be lovely.
+
+
+**Ticket B — security/engineering:**
+
+> Until Ticket A is resolved, could we at minimum establish whether those and other behavioural signals are contaminating, distorting, or making exploitable the information systems through which allied populations receive news?  
+
+--- 
+
 ## 🛰️ Orientation
 
 There are two useful ways to begin a serious discussion about
