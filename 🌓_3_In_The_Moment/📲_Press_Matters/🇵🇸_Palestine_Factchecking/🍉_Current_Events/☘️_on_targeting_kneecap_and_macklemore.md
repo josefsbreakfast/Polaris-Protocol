@@ -1286,6 +1286,24 @@ I don’t think over 20k children confirmed dead, or getting on for half of the 
 
 Surely if you cared that much about it, you’d actually fucking fix it, and the numbers of violent attacks and deaths across all of Palestine – across Gaza and the West Bank and East Jerusalem, not just each place one by one like the don’t belong to each other – would not even be maintained, let alone be rising.  
 
+Meanwhile, in the third year of ordinary people trying to bring us own of potentially aiding and abetting a genocide case which will be heard in the ICJ, with warrants issued which will most likely lead to ICC cases where our state actions will be judged, obviously it is those of us who don’t want anyone’s babies to die [who are being arrested](https://youtu.be/2ONmrMYn_0k?is=j4ULeytoPigCC6tB) as today’s “sceimhlitheoirí”.  
+
+Does counterterrorism policing really need to have that as a burden to manage and contain, when they’re trying to manage physical threats to military bases?  
+
+Doesn’t that undermine the ability of us to secure our own bases, including the ones used by the United States military military?  
+
+But please, keep telling me how any of this makes any fucking sense.  
+
+“But Chloe, what about the people who actually got onto bases?”  
+
+But Rita, these people are clearly instrumental the way in which that legal matrix works, to make a point about freedom of expression, and it is costing us more in terms of time and effort to police, and the way that the law is fundamentally does not show any difference between the people who did get onto military bases, and people who are holding up signs outside the labour conference.  
+
+Furthermore, in case you were confused about what just happened today at Fairford, those people have been arrested on suspicions relating to the explosive act, not the terrorism act, and at this time it is not yet the case that there has been a legal decision regarding the terrorism act, which has been declared by counterterrorism policing. This does not mean that it won’t be in future, but it means that it is not been publicly acknowledged that it is yet reached the legal threshold to be investigated under the terrorism act.  
+
+So we literally have a situation in which bomb disposal has been out, to a military base, which is used by NATO allies, and regardless of what you think about that it is just how it is at present, and those offences are not yet as we know in public, being investigation to the terrorism act, but some people with signs outside the Labour Conference, including some of your favs from Massive Attack, have been arrested under the chair is acted.  
+
+Make it consistent, make it make sense, make it to the public can understand where you’re coming from, and if you don’t, you cannot complain if you lose legitimacy for governance.  
+
 --- 
 
 ## 🌌 Constellations
