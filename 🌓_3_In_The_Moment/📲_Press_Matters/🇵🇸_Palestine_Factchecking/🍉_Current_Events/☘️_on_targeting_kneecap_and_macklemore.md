@@ -19,7 +19,7 @@ In the same breath:
 
 [📺 The Times, via YouTube: “Why Senior SAS Veterans Are Warning Against the Troubles Legacy Bill”](https://youtu.be/MCJyVFyhlnM?is=H8v6De6Ie3d6e4iw) – there remains an adjacent route for the still-live institutional and legal work around the conflict. The existence of those unresolved processes is itself a check-engine light: peace is not merely the absence of an active bombing campaign. It also depends on whether institutions can continue carrying grief, evidence, accountability, disagreement and ordinary life without returning people to violence.  
 
-For the avoidance of all doubt, you should also not be assumed that even these are distinct categories; they are not.  
+For the avoidance of all doubt, you should also not assume that even these are distinct categories; they are not.  
 
 [📺: BBC, via YouTube: “When you can’t resist a singalong”](https://youtube.com/shorts/ze9HmHbld9Y?is=YRxN_3wzmw9PBQ_4)  
 
@@ -168,7 +168,7 @@ Nor does preserving a song about armed struggle mean endorsing armed struggle. A
 
 Music is not merely entertainment product. Human beings use it for grief, sex, worship, mourning, rebellion, belonging, humiliation, patriotism, migration, violence, jokes, memory and love. A commercial music system can influence which of those things gets amplified. It cannot abolish the social function without eventually producing music that feels like it has had all the blood drained out of it.
 
-And before I even hear any shit about women’s sport and what this does for building women’s and girl’s culture and confidence, especially post-authoritarianism and post-and peri-conflict:
+And before I even hear any shit about women’s sport and what this does for building women’s and girls’ culture and confidence, especially post-authoritarianism and post-and peri-conflict:
 
 - [Right to Skate: Afghan Girls’ Team](https://www.righttoskate.com/afghan-girls-team)
 - [Skateistan](https://www.skateistan.org/location/afghanistan)
@@ -1188,15 +1188,15 @@ And when the information environment starts screaming loudly enough that the ori
 
 ## ☘️-🍊 Bonus Round: Orange Order  
 
-- there is a loyalist March that frequently goes through and parades through principal Catholic areas in Northern Ireland
-- This year they were banned and then there has been an appeal that they won in Court
-- You are therefore seeing people use imagery directly from bands like kneecap to be part of the counterprotest to that, in a manner which is not similar to what was trying to be achieved at cable Street, although I will note that the current efforts are deliberately nonviolent and deliberately use Kenyan kingian nonviolence, in part because that “ side” is projected as unreasonably violent by the British state.
-- british establishment media will quite often neglect to mention any of the paramilitary associations of anyone in the orange order, whilst highlighting the paramilitary associations of anyone resisting
+- there is a loyalist march which has repeatedly sought to parade through predominantly Catholic areas in Northern Ireland
+- This year the parade was initially blocked, before a later legal/administrative route allowed it to proceed
+- You are therefore seeing people use imagery directly from bands like kneecap to be part of the counterprotest to that, in a manner which is not similar to what was being attempted at Cable Street, although I will note that the current efforts are deliberately nonviolent and deliberately use Gandhian/Kingian nonviolence, in part because that “ side” is projected as unreasonably violent by the British state.
+- British establishment media will quite often neglect to mention any of the paramilitary associations of anyone in the orange order, whilst highlighting the paramilitary associations of anyone resisting
 - You don’t have to have an opinion about that border to understand that that does not help community cohesion, and it does not help a peace process
-- When should find politicians in Northern Ireland are helping rally their communities to stand with pride in who they are in areas where the only realistic interpretation of the orange order would be that it is intimidating for it to march through that area, it is very difficult to listen to British establishment then shit on Sinn Fein in general for everything it’s ever done and anything is associated with. And yes, I’m acknowledging that I understand and know about their associations with the provisional IRA iterations, and that I know and understand what I’m saying.
-- The fact that Kingin nonviolence techniques are being used to resist something which people have already gone through Court to try and resist, shows that people are very upset about this, that they are prepared to take significant risk for this, and they should invite you to ask questions about why they feel this way, and it should cost us against automatically associating them with paramilitaries which surrendered their arms formally in 1998.
-- I am not saying that the orange order can’t do a parade necessarily, I’m also not saying it should do it, I’m saying that this is a conversation which the people of Northern Ireland know most about, they understand the traditions, and understand the cultural heritage, they understand the impact on their communities.
-- The leading stories that are being picked up by algorithms and being picked up by establishment media are leading with counter terrorism police at what is a separate event, but what is coming up in close succession with stories, and again I’m not saying that that would be inappropriate, to some degree, but without looking at this in more detail, we also have to recognise how this looks from every angle, and for a lot of people in Northern Ireland, armed counterterrorism police will have an extremely strong traumatic memory. if we’re going to have a realistic conversation about how you need British money to be put in to a pot for Internet use, to fund the BBC, we need to have a conversation about how these Algbra work. This is done through many different ways with this algorithm, and it just frankly isn’t good enough, because it’s quite often impacts the vast major majority of people in this country who have some form of trauma or endurance and form of marginalisation in their daily life, including women a general category. A national broadcaster can do better. Frankly, if the government is so concerned about cyber attacks on the United Kingdom, perhaps it could see how important this is to give support to whilst the national broadcaster does transition to being able to deal with it itself. This is a very clear vulnerability when we talk about misinformation and disinformation online, and influencing a large population.  
+- When Sinn Féin politicians in Northern Ireland are helping rally their communities to stand with pride in who they are in areas where the only realistic interpretation of the orange order would be that such a march is intimidating through that area, it is very difficult to listen to British establishment then shit on Sinn Fein in general for everything it’s ever done and anything is associated with. And yes, I’m acknowledging that I understand and know about their associations with the provisional IRA iterations, and that I know and understand what I’m saying.
+- The fact that Kingian nonviolence techniques are being used to resist something which people have already gone through Court to try and resist, shows that people are very upset about this, that they are prepared to take significant risk for this, and they should invite you to ask questions about why they feel this way, and it should cost us against automatically associating them with paramilitaries which surrendered their arms formally in 1998.
+- I am not saying that the orange order can’t do a parade necessarily, I’m also not saying it should do it, I’m saying that this is a conversation which the people of Northern Ireland know most about, they understand the traditions, and they understand the cultural heritage, they understand the impact on their communities.
+- The leading stories that are being picked up by algorithms and being picked up by establishment media are leading with counter terrorism police at what is a separate event, but what is appearing in close succession in the news, and again I’m not saying that that would be inappropriate, to some degree, but without looking at this in more detail, we also have to recognise how this looks from every angle, and for a lot of people in Northern Ireland, armed counterterrorism police will have an extremely strong traumatic memory. if we’re going to have a realistic conversation about using British public money to fund the BBC, we need to have a conversation about how these algorithms work. This happens through many different mechanisms in algorithmic systems, and it just frankly isn’t good enough, because it quite often impacts the vast majority of people in this country who have some form of trauma or experience of marginalisation in their daily life, including women a general category. A national broadcaster can do better. Frankly, if the government is so concerned about cyber attacks on the United Kingdom, perhaps it could see how important this is to give support to whilst the national broadcaster does transition to being able to deal with it itself. This is a very clear vulnerability when we talk about misinformation and disinformation online, and influencing a large population.  
 - This is something to watch at the same time that we watch and bear witness to what is happening in Palestine.
 - This is something that we have to work on as a country if we really give a shit about the union, and I am sick of politicians you say that they care about the union, who just want to enforce an idea that they have about Northern Ireland on Northern Ireland, they are their own people and they have a plurality of opinion, and we often do not recognise that.
 -  The quick and dirty guide if people are wondering about populations and communities, is that yes there is a significant Catholic population, however, on a general sense, it is a minority and centre marginalised, and whilst it is associated with the arm struggle which has previously occurred, Northern Ireland is governed by the Crown, and this puts the loyalist slightly closer to the idea of weakness or the idea of established power. I agree that it is complex. I agree that there is a need to balance equality duty, and this is where instruments like PSED should be protected *in general* really strong. The same legal instrument is challenged when we take a specific view that has Mike what we have taken so far in respect to anti Palestinian racism across the United Kingdom. Unfortunately, legal instruments don’t really care about our feelings, and they need to be strengthened as a whole, if we want them to remain strong elsewhere. This is why it’s significantly worries me, when we start to allow our emotions to govern how we listen to different voices through the way that the law is structured in this country.
@@ -1206,15 +1206,15 @@ And when the information environment starts screaming loudly enough that the ori
 - [BBC: “NI secretary of state calls for 'compromise' as Orange Order march blocked by protesters”](https://www.bbc.co.uk/news/live/ckz6z4z57y5nt)
 - [BBC: “Parades Commission says Orange Order Drumcree parade can go ahead”](https://www.bbc.co.uk/news/live/c62kw7wyn708t)
 - [BBC: “Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama”](https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo)
-- perhaps Westminster could every now and then, attention to [this page](https://www.bbc.co.uk/news/northern_ireland) on the BBC. 
+- perhaps Westminster could, every now and then, pay attention to [this page](https://www.bbc.co.uk/news/northern_ireland) on the BBC. 
 
-- I also appreciate that some people are going to absolutely hate that I’m saying this, but there is a common fetish tag within Internet pornography, which probably coaches this algorithm quite a lot, and presumably was the white Americans are finding it very difficult to work through how they feel about their country history, we might just need to acknowledge that that is something which is going to impact our domestic algorithms which target the British Broadcasting Corporation.
-- Perhaps the chaps can explain that to anyone who is confused. They will have seen it around somewhere on a page that has been recommended, we can give them honesty on whether or not they’ve ever watched it, they are extremely likely to have encountered the term. The Internet as we understand it, became what it was, because the availability of pornography was extremely instrumental in driving the underpinnings of Web 1.0 and Web 2.0; we sadly cannot just say that we don’t like it, we do actually have to engage with what that’s done to their mathematics that underpin our algorithms. The tech bros know this. Ask the chap who just relaunched Tamagotchis-but-white.
-- if your line in politics is that you care about the union, and that you believe in the union, you have invited yourself to this conversation to do good for political and community communion in Northern Ireland. If you want that piece of land to be part of your union, you need to start giving a fuck about the people who are on it.
-- Both “sides” had paramilitaries, both “sides” engaged in violence. Please stop assuming that it was one “side” only, because then you miss what might provoke people who feel represented by them to take up arms.
+- I also appreciate that some people are going to absolutely hate that I’m saying this, but there is a common fetish tag within Internet pornography, which probably conditions these algorithms quite a lot, and presumably while white Americans are finding it very difficult to work through how they feel about their country’s history, we might just need to acknowledge that that is something which is going to affect domestic algorithms processing the tag “BBC”, meaning the British Broadcasting Corporation.
+- Perhaps the chaps can explain that to anyone who is confused. They will have seen it around somewhere on a page that has been recommended, we can give them honesty on whether or not they’ve ever watched it, they are extremely likely to have encountered the term. The internet as we understand it became what it was, because the availability of pornography was extremely instrumental in driving the underpinnings of Web 1.0 and Web 2.0; we sadly cannot just say that we don’t like it, we do actually have to engage with what that has done to the mathematics underpinning our algorithms. The tech bros know this. Ask the chap who just relaunched Tamagotchis-but-white.
+- if your line in politics is that you care about the union, and that you believe in the union, you have invited yourself into this conversation about political and community cohesion in Northern Ireland. If you want that piece of land to be part of your union, you need to start giving a fuck about the people who are on it.
+- Both “sides” had paramilitary organisations, both “sides” engaged in violence. Please stop assuming that it was one “side” only, because then you miss what might provoke people who feel represented by them to take up arms.
 - because incidentally this is talking over a conversation which is really important, about [something else](https://www.bbc.co.uk/news/articles/ckj063lq1jm6o) which comes out of periods of colonial style governance. My heart cries for mothers, my heart cries for children, and I’m tired of the men calling that emotional, and being unable to see their own emotions to our communities and our politics.
-- stop making women’s lives harder in Gaza, stop waking women’s lives harder in the West Bank, stop making women’s lives harder in occupation East Jerusalem, stop making women’s lives harder in the state of Israel, stop making women’s lives harder in Northern Ireland, stop making women’s lives harder in the republic of Island, and stop making women’s life harder in the United Kingdom of Great Britain and Northern Ireland.
-- Until you stop making women’s life harder, I unfortunately have to conclude that either you hate us, which is at least recognisable, or even worse: you simply don’t see us as human enough, to care what the world does to us.
+- stop making women’s lives harder in Gaza, stop making women’s lives harder in the West Bank, stop making women’s lives harder in occupation East Jerusalem, stop making women’s lives harder in the state of Israel, stop making women’s lives harder in Northern Ireland, stop making women’s lives harder in the Republic of Ireland, and stop making women’s lives harder in the United Kingdom of Great Britain and Northern Ireland.
+- Until you stop making women’s lives harder, I unfortunately have to conclude that either you hate us, which is at least recognisable, or even worse: you simply don’t see us as human enough, to care what the world does to us.
 - [Channel 4: “Why thousands of protesters blocked Orange
 Order march in Northern Ireland”](https://youtu.be/tO4ohxzrzow?is=PZs135hqgxjKVqwj)
 - [RTÉ: “Garvaghy Road protesters form blockade preventing Orange Order parade”](https://youtu.be/Cen4qAjAT2M?is=_cDXu0XEBSTFQQ1H)
@@ -1258,9 +1258,9 @@ Which is why the Board of Peace is doomed to fail, because it all wants to do is
 
 if you believe people deserve freedom and they deserve peace, if you feel like they deserve to live free of fear, and feel safe, you don’t action in the same way that this organisation acts.  
 
-The UNGA was a start, declaring sanctions as a start, and the only way to get someone that looks like peace, used to keep moving forward.  
+The UNGA was a start, declaring sanctions as a start, and the only way to get someone that looks like peace, we need to keep moving forward.  
 
-The current UK sanctions have not yet materiality produced what they’re supposed to produce, and we’re already seeing quite unusual responses to quite reasonable questions about legal compliance on the ground, which is itself producing an evidence problem if at a later date you try to defend yourself against non-compliance at a latest stage as a state; we need the government to start looking like it gives a fuck about what it says it gives a fuck about.  
+The current UK sanctions have not yet materially produced what they’re supposed to produce, and we’re already seeing quite unusual responses to quite reasonable questions about legal compliance on the ground, which is itself producing an evidence problem if at a later date you try to defend yourself against non-compliance at a later stage as a state; we need the government to start looking like it gives a fuck about what it says it gives a fuck about.  
 
 We need people to start putting their actions and their money where their mouth is.  
 
@@ -1270,9 +1270,9 @@ If there is a mismatch, then how can you say that the scrutiny is anything but a
 
 ---
 
-I am not unaware of the threat at Fairford; I hope for the safety of everyone on that surrounding area.  
+I am not unaware of the threat at Fairford; I hope for the safety of everyone in the surrounding area.  
 
-I am begging that we do not weaponise moment of fear; we have seen so many moments of pain before, and [we never need to get to moment like these ever again](https://youtu.be/5orj5Y18cWc?is=OZzMgbnwF2h6acu5).  
+I am begging that we do not weaponise moments of fear; we have seen so many moments of pain before, and [we never need to get to moments like these ever again](https://youtu.be/5orj5Y18cWc?is=OZzMgbnwF2h6acu5).  
 
 When people are shown patterns they recognise, please do not patronise their reasoning.  
 
@@ -1284,29 +1284,89 @@ What is this Board of Peace planning to do about that?
 
 I don’t think over 20k children confirmed dead, or getting on for half of the people who are now dead being women and children, is reassurance enough when you say to me that I am the problem for calling this genocide.  
 
-Surely if you cared that much about it, you’d actually fucking fix it, and the numbers of violent attacks and deaths across all of Palestine – across Gaza and the West Bank and East Jerusalem, not just each place one by one like the don’t belong to each other – would not even be maintained, let alone be rising.  
+Surely if you cared that much about it, you’d actually fucking fix it, and the numbers of violent attacks and deaths across all of Palestine – across Gaza and the West Bank and East Jerusalem, not just each place one by one as though they do not belong to the same political and geographic system – would not even be maintained, let alone be rising.  
 
-Meanwhile, in the third year of ordinary people trying to bring us own of potentially aiding and abetting a genocide case which will be heard in the ICJ, with warrants issued which will most likely lead to ICC cases where our state actions will be judged, obviously it is those of us who don’t want anyone’s babies to die [who are being arrested](https://youtu.be/2ONmrMYn_0k?is=j4ULeytoPigCC6tB) as today’s “sceimhlitheoirí”.  
+Meanwhile, in the third year of ordinary people trying to bring us out of potentially aiding and abetting a genocide case which will be heard in the ICJ, with warrants issued which will most likely lead to ICC cases where our state actions will be judged, obviously it is those of us who don’t want anyone’s babies to die [who are being arrested](https://youtu.be/2ONmrMYn_0k?is=j4ULeytoPigCC6tB) as today’s “sceimhlitheoirí”.  
 
 Does counterterrorism policing really need to have that as a burden to manage and contain, when they’re trying to manage physical threats to military bases?  
 
-Doesn’t that undermine the ability of us to secure our own bases, including the ones used by the United States military military?  
+Doesn’t that undermine the ability of us to secure our own bases, including the ones used by the United States military?  
 
 But please, keep telling me how any of this makes any fucking sense.  
 
 “But Chloe, what about the people who actually got onto bases?”  
 
-But reader, these people are clearly instrumental the way in which that legal matrix works, to make a point about freedom of expression, and it is costing us more in terms of time and effort to police, and the way that the law is fundamentally does not show any difference between the people who did get onto military bases, and people who are holding up signs outside the labour conference.  
+But reader, these people are clearly instrumentalising the way in which that legal matrix works, to make a point about freedom of expression, and it is costing us more in terms of time and effort to police, and the way the law is operating fundamentally does not show enough difference between the people who did get onto military bases, and people who are holding up signs outside the labour conference.  
 
 Furthermore, in case you were confused about what just happened today at Fairford, those people had initially been arrested on suspicions relating to the Explosives Act, not the Terrorism Act, and it took 05:44 hrs total for the legal decision regarding the Terrorism Act to be declared by counterterrorism policing. That makes sense as a process, and this isn’t criticising what has happened operationally in that incident. The salient point is that it had not been publicly acknowledged that it had yet reached the legal threshold to be investigated under the Terrorism Act.
 
 So we literally have a situation in which bomb disposal has been out to a military base, which is used by NATO allies, and regardless of what you think about that, it is just how it is at present. There was nearly a six-hour delay to that decision to legally change to an acknowledgment that those men were being investigated under the Terrorism Act, but some people with signs outside the Labour Conference, including some of your favs from Massive Attack, were arrested under the Terrorism Act immediately.
 
-Make it consistent, make it make sense, make it to the public can understand where you’re coming from, and if you don’t, you cannot complain if you lose legitimacy for governance.  
+Make it consistent, make it make sense, make it so the public can understand where you’re coming from, and if you don’t, you cannot complain if you lose legitimacy for governance.  
 
 It is politicians who have put counterterrorism policing, and policing at a local level, into the position that we are seeing in this moment; this is a political issue to fix.  
 
 --- 
+
+## 🫀 So What Am I Actually Saying?
+
+I am saying that all of these things can be true at once.
+
+I can oppose the indiscriminate killing of Palestinian people. I can want Palestinians protected from genocide, displacement and violence. I can want Palestinians to possess meaningful political representation and self-determination.
+
+I can also want Israeli people to be safe.
+
+That does not require me to accept that Israeli safety can be purchased through somebody else's dispossession. Wanting Israelis to have appropriate security is not the same thing as accepting the violent taking of Palestinian land, the destruction of Palestinian rights, or treating Palestinian freedom as inherently incompatible with Israeli safety.
+
+I can want people in Northern Ireland to be safe. I can take seriously the history of terrorism and political violence there. I can also support the right of people in Northern Ireland to determine their own constitutional future, rather than deciding for them which identity or political aspiration they are allowed to possess.
+
+I can support Palestinian self-determination without pretending Palestinians are a hive mind.
+
+I can support Israeli safety without treating the Israeli government as synonymous with Israelis.
+
+I can support British security institutions wanting our military bases to be safe. I would quite like our military bases not to explode.
+
+I can support appropriate counterterrorism powers. Terrorism exists. Explosives exist. Credible threats exist. States need institutions capable of distinguishing and responding to them.
+
+And when American personnel use bases on British soil, yes: **I would also like you to be safe here, cousin.** I would like Americans to be safe in their own country too.
+
+None of that requires me to accept the instrumentalisation of security law against political expression, or to stop asking whether exceptional powers remain sufficiently discriminatory, proportionate and intelligible to the public.
+
+These positions do not cancel one another out.
+
+**Palestinian safety does not require Israeli fear.**
+
+**Israeli safety does not require Palestinian dispossession.**
+
+**British security does not require treating peaceful political expression as though it presents the same problem as preparatory violence.**
+
+**Taking terrorism seriously does not require making the category of terrorism less precise.**
+
+**Supporting self-determination does not require knowing what another population ought to decide.**
+
+And protecting people's civil liberties does not require pretending that nobody presents a genuine security threat.
+
+The point is not:
+
+> **pick which humans you care about.**
+
+The point is:
+
+> **build systems capable of caring about more than one set of humans at the same fucking time.**
+
+That is harder.
+
+It requires discrimination between categories. It requires proportionality. It requires evidence. It requires accepting that somebody else's rights remain rights even when you are frightened. It requires security institutions that can protect people without manufacturing another population's insecurity as the mechanism by which protection is delivered.
+
+And sometimes it requires saying:
+
+**Yes, I understand why you are frightened.**
+
+**Yes, I want you to be safe.**
+
+**No, you cannot have their fucking house.**
+
+---
 
 ## 🌌 Constellations
 
