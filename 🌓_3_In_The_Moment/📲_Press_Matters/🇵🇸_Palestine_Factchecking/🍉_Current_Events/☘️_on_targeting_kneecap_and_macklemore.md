@@ -1296,7 +1296,7 @@ But please, keep telling me how any of this makes any fucking sense.
 
 “But Chloe, what about the people who actually got onto bases?”  
 
-But Rita, these people are clearly instrumental the way in which that legal matrix works, to make a point about freedom of expression, and it is costing us more in terms of time and effort to police, and the way that the law is fundamentally does not show any difference between the people who did get onto military bases, and people who are holding up signs outside the labour conference.  
+But reader, these people are clearly instrumental the way in which that legal matrix works, to make a point about freedom of expression, and it is costing us more in terms of time and effort to police, and the way that the law is fundamentally does not show any difference between the people who did get onto military bases, and people who are holding up signs outside the labour conference.  
 
 Furthermore, in case you were confused about what just happened today at Fairford, those people have been arrested on suspicions relating to the explosive act, not the terrorism act, and at this time it is not yet the case that there has been a legal decision regarding the terrorism act, which has been declared by counterterrorism policing. This does not mean that it won’t be in future, but it means that it is not been publicly acknowledged that it is yet reached the legal threshold to be investigated under the terrorism act.  
 
