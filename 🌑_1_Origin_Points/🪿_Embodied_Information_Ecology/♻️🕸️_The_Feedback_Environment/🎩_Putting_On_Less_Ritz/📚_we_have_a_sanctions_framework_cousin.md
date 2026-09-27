@@ -4,6 +4,16 @@
 
 ---
 
+In popular culture, we ought perceive that America likes to think that we can be told what to do.  
+
+Historically?  
+
+[We do not react well to this impertinence.](https://youtu.be/3iL40IX4Roc?is=83JjG5u3_CmYT0Km)  
+
+However, we do still want to know how one takes one’s tea.  
+
+---
+
 ## 🛰️ Orientation
 
 The presenting complaint is, in essence:
