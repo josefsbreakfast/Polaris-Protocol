@@ -1290,8 +1290,7 @@ palestine, gaza, information ecology, securitisation, instrumentalised fear, con
 >
 > - Palestine hunger-strike nodes — *cross-link from the Northern Ireland hunger-strike material when repository path is resolved*
 > - Identity / derisking conditionalities / pre-GFA notes — *working notes outside the repository; preserve as an unresolved routing point*
-> - [Battle of Cable Street](https://en.wikipedia.org/wiki/Battle_of_Cable_Street) — *labour and neighbourhood solidarity as a counter-mechanism to dissociation*
-> - [Conditional probability](https://en.wikipedia.org/wiki/Conditional_probability) — *formal tool for separating group markers from individual risk*
+> - [📋 Exhibit H: Radicalised Algorithms](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_h_radicalised_algorithms.md) – *submitting the open “wtf Silicon Valley” error ticket vis-a-vis their racialised porn tag aligning with our national broadcaster tag; fucking Americans, man; and these people think we are the weird ones*  
 >
 > 🏮 Return To:
 >
