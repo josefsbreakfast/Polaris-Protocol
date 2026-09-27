@@ -1270,7 +1270,9 @@ If there is a mismatch, then how can you say that the scrutiny is anything but a
 
 I am not unaware of the threat at Fairford; I hope for the safety of everyone on that surrounding area.  
 
-I am begging that we do not weaponise moment of fear; we have seen so many moments of pain before, and [we never need to get to moment like these ever again](https://youtu.be/5orj5Y18cWc?is=OZzMgbnwF2h6acu5).
+I am begging that we do not weaponise moment of fear; we have seen so many moments of pain before, and [we never need to get to moment like these ever again](https://youtu.be/5orj5Y18cWc?is=OZzMgbnwF2h6acu5).  
+
+When people are shown patterns they recognise, please do not patronise their reasoning.  
 
 --- 
 
