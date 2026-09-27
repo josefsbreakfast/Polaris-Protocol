@@ -1304,6 +1304,8 @@ So we literally have a situation in which bomb disposal has been out, to a milit
 
 Make it consistent, make it make sense, make it to the public can understand where you’re coming from, and if you don’t, you cannot complain if you lose legitimacy for governance.  
 
+It is politicians who have put counterterrorism policing, and policing at a local level, into the position that we are seeing in this moment; this is a political issue to fix.  
+
 --- 
 
 ## 🌌 Constellations
