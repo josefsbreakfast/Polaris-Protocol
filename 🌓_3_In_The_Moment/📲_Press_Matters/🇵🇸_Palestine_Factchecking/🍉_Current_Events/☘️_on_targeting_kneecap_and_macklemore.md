@@ -1240,7 +1240,28 @@ Certainly not out of the downstream consequences of refusal to side against some
 
 Don’t kill generations of work for that.  
 
- 
+Oh, and lads:  
+
+You do realise that there is more than one Sunday, they got termed Bloody Sunday?  
+
+These histories are part of why people took up armed struggle in the first place, and also why they voted for a ceasefire when they did.  
+
+Listen to the people most affected.  
+
+This shit is why we keep saying this.  
+
+You have to work at maintaining peace; you can’t just barge into someone else’s life and tell them what the fuck to do.  
+
+Which is why the Board of Peace is doomed to fail, because it all wants to do is tell Palestinians what to do, and it will never make Israelis feel safer.    
+
+if you believe people deserve freedom and they deserve peace, if you feel like they deserve to live free of fear, and feel safe, you don’t action in the same way that this organisation acts.  
+
+The UNGA was a start, declaring sanctions as a start, and the only way to get someone that looks like peace, used to keep moving forward.  
+
+The current UK sanctions have not yet materiality produced what they’re supposed to produce, and we’re already seeing quite unusual responses to quite reasonable questions about legal compliance on the ground, which is self producers an evidence problem he trying to defend yourself against non-compliance at a latest stage as a state; we need the government to start looking like it gives a fuck about what it says it gives a fuck about.  
+
+We need people to start putting their actions and their money where their mouth is.  
+
 ---
 
 ## 🌌 Constellations
