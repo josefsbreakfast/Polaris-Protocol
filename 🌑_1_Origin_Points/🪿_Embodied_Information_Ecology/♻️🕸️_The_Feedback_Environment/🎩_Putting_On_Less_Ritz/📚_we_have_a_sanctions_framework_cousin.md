@@ -14,9 +14,11 @@ Historically?
 
 However, we do still want to know how one takes one’s tea.  
 
-> “The [extended universe of the PayPal Mafia], which is a [technocratic] gang, has invaded our sovereign territory; this cannot be tolerated. May I make plain my negotiating position: I will not negotiate with criminals or thugs.
+> “The extended universe of the PayPal Mafia, which is a technocratic gang, has invaded our sovereign territory; this cannot be tolerated.
+>
+> May I make plain my negotiating position: I will not negotiate with criminals or thugs.  
 > 
-> [The standards of beaurocratic administration] belong to **Britain**, and I want them back.”   
+> The standards of beaurocratic administration belong to **Britain**, and I want them back.”   
 
 ---
 
@@ -1365,18 +1367,20 @@ Which leaves the Special Relationship in an entirely manageable position.
 
 ## 🦊 Just Contextualising Emotions, Cousin  
 
-> 🇺🇸: So you are proposing to go to war over [this admin]. [Your news feed] is thousands of miles away from [“lol boobies” indexing], a handful of [real established incidents], politically and economically insignificant, if you'll excuse me.
+> 🇺🇸: So you are proposing to go to war over this admin. Your news feed is thousands of miles away from “lol boobies” indexing, a handful of real established incidents – politically and economically insignificant, if you'll excuse me.
 >
-> 🇬🇧: Just like [TikTok], I imagine.
+> 🇬🇧: Just like TikTok, I imagine.
 >
 > 🇺🇸: I'm sorry?
 >
-> 🇬🇧: In 2024, when [Bytedance owned TikTok]. Did America go cap in hand and ask [Bytedance] for a peaceful negotiation of terms?  
-> Did she turn her back on her own citizens there because the [indexing remained] thousands of miles from [a substantive physical threat to the] mainland United States?  
-> No! No, no!  
+> 🇬🇧: In 2024, when Bytedance owned TikTok. Did America go cap in hand and ask Bytedance for a peaceful negotiation of terms?  
+> Did she turn her back on her own citizens there because the indexing remained thousands of miles from a substantively proven physical threat to the mainland United States?
+> 
+> No! No, no!
+> 
 > We will stand on principle, or we shall not stand at all.  
 >
-> 🇺🇸: But [Brigante], with all due respect, when one has been to war...  
+> 🇺🇸: But Brigantia, with all due respect, when one has been to war...  
 >
 > 🇬🇧: With all due respect, sir, I have done battle every single day of my life and many men have underestimated me before.  
 >
@@ -1384,7 +1388,9 @@ Which leaves the Special Relationship in an entirely manageable position.
 
 You changed the laws of engagement, cousin.  
 
-We are learning from your example of how to manage software development.  
+We are merely learning from your example of how to manage software development.  
+
+No rocking of the casbah all night long until you sort out our admin.  
 
 ---
 
