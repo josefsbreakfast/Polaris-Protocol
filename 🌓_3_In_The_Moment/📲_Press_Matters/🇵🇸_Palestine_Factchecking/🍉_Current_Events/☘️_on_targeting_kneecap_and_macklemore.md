@@ -1270,6 +1270,7 @@ Peace.”](https://vm.tiktok.com/ZN8rP3VQw/) – *”I woke up this morning to f
 - [📹: Sláinte trí TikTok: “Si, oggi video più lungo del solito, ma avevo bisogno di fare un po' di chiarezza, visto che la stampa tradizionale spesso tende a semplificare o a dare per scontati certi termini. In ogni caso è un evento storico che meritava di essere raccontato.”](https://vm.tiktok.com/ZN8r5xxdW/)
 - [📹: Sandra Duffy, via TikTok: “Brendan McConville addressing massive crowd at 12am on Garvaghy Road, thanking those who have come out to show their support and solidarity.”](https://vm.tiktok.com/ZN8r552pH/) – *you could hear a pin drop*
 - [📹: claire, via TikTok: “Secretary of State wants us to all calm down??”](https://vm.tiktok.com/ZN8r5mju8/) – *”Why don't you pop over and actually do something about it?”*
+- [📹: The Irish News: “The mother and aunt of Darren Murray, a 12-year-old Catholic boy who was killed in Portadown in October 1996, plead with police to ‘please turn back!’”](https://vm.tiktok.com/ZN8r5b8dB/)  
 
 Condemning female politicians who stood with their communities in this context, because of an speak won on legal technicalities, was a highly weird thing for a supposedly “we care about VAWG, we care about the Union, we care about counterterrorism” party to do, Labour.  
 
