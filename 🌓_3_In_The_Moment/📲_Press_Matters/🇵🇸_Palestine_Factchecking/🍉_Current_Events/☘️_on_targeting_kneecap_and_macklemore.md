@@ -61,7 +61,7 @@ For the avoidance of all doubt, you should also not assume that even these are d
 
 [📺: BBC, via YouTube: “When you can’t resist a singalong”](https://youtube.com/shorts/ze9HmHbld9Y?is=YRxN_3wzmw9PBQ_4)  
 
-The playlist includes a version of *Whiskey in the Jar*, and [yes, this is a real story](https://www.bbc.co.uk/programmes/m002hc7m).  
+The playlist includes a version of *Whiskey in the Jar*, and [yes, this is a real story](https://www.bbc.co.uk/programmes/m002hc7m), just a slightly different song choice from the resident DJ.  
 
 ---
 
@@ -171,7 +171,8 @@ That is not proof of hypocrisy, and it is not a claim about Sheeran's private mo
 - [📹: Xevi, via TikTok: “Edward Christopher Sheeran trippin”](https://vm.tiktok.com/ZN86V5dJf/)
 - [🎶: Akintoye, via TikTok: Bottom Line](https://vm.tiktok.com/ZN86v8nPe/)
 - [📹: Gaza Boxing Women, via TikTok, feat *Can’t Hold Us*](https://vm.tiktok.com/ZN86vdsAr/); [*”Don’t give up… I’m free to be the greatest alive… I’ve got stamina…”*](https://vm.tiktok.com/ZN86vrvNh/)
-- [الجزيرة : قوات الاحتلال الإسرائيلي تفرض حصارا واسعا على منطقة حداد ومحيط مستوطنتي غنيم وكاديم شرق جنين شمالي الضفة الغربية](https://vm.tiktok.com/ZN86wXfAM/) – \* when you say you support both sides, that means supporting this, which is people from another country coming in and building illegal houses on your land, as part of a deliberate way to try and take the land away from you\* – [📹: MEE: “Soumaya Ghannoushi, a writer and expert in Middle Eastern politics, argues that institutional attempts to censor artists who speak out about Palestinian suffering are backfiring.”](https://vm.tiktok.com/ZN86KJvD3/) – *”Try to silence the story, and you become the story.”*
+- [الجزيرة : قوات الاحتلال الإسرائيلي تفرض حصارا واسعا على منطقة حداد ومحيط مستوطنتي غنيم وكاديم شرق جنين شمالي الضفة الغربية](https://vm.tiktok.com/ZN86wXfAM/) – *when you say you support both sides, that means supporting this, which is people from another country coming in and building illegal houses on your land, as part of a deliberate way to try and take the land away from you*
+- [📹: MEE: “Soumaya Ghannoushi, a writer and expert in Middle Eastern politics, argues that institutional attempts to censor artists who speak out about Palestinian suffering are backfiring.”](https://vm.tiktok.com/ZN86KJvD3/) – *”Try to silence the story, and you become the story.”*
 - [📰: BBC: “Everything we know about the Ed Sheeran and Macklemore controversy”](https://www.bbc.co.uk/news/articles/c64gvqg0k27po) – *he had, quoting an NGO, “the musician had ambushed fans with propaganda”; [interesting](https://youtu.be/jydNZ0BB_Y4?is=ziAvYIX7AAKGTyVy) [proposition](https://youtu.be/fgDQyFeBBIo?is=k8-EVbsJurptr2q4), [indeed](https://youtu.be/sn9EKC9nqU4?is=tBWBok3vo2u7q_8k). and bro I know about the weird costume moment. but “fucked up” is literally the most anti-conspiracy, “here are the white guys and institutions” take? I’ll take the ones who are happy to learn, man, idk. interesting how we are also trained to look past all of the other images in a video like that. I think life gets more interesting when we realise we’re doing that, and ask ourselves why.*
 
 These links do not all carry the same evidentiary weight. A TikTok is not automatically evidence that the claim inside the TikTok is true.
@@ -208,11 +209,11 @@ Music is not merely entertainment product. Human beings use it for grief, sex, w
 
 And before I even hear any shit about women’s sport and what this does for building women’s and girls’ culture and confidence, especially post-authoritarianism and post-and peri-conflict:
 
-- [Right to Skate: Afghan Girls’ Team](https://www.righttoskate.com/afghan-girls-team)
-- [Skateistan](https://www.skateistan.org/location/afghanistan)
-- [Road.cc: “Afghan women cycle to ‘make Afghanistan proud’”](https://road.cc/content/news/99777-afghan-women-cycle-make-afghanistan-proud%E2%80%9D)
-- [BBC News: “Cycling sisters defy the Taliban to achieve Olympic dream”](https://www.bbc.co.uk/news/articles/c720jxej1ewo)
-- [France 24: “Escaping Kabul: The secret operation to exfiltrate the Afghan women's cycling team”](https://www.france24.com/en/tv-shows/reporters/20260612-escaping-kabul-secret-operation-exfiltrate-afghan-women-cycling-team)
+- [🛹: Right to Skate: Afghan Girls’ Team](https://www.righttoskate.com/afghan-girls-team)
+- [🛹: Skateistan](https://www.skateistan.org/location/afghanistan)
+- [📰: Road.cc: “Afghan women cycle to ‘make Afghanistan proud’”](https://road.cc/content/news/99777-afghan-women-cycle-make-afghanistan-proud%E2%80%9D)
+- [📰: BBC News: “Cycling sisters defy the Taliban to achieve Olympic dream”](https://www.bbc.co.uk/news/articles/c720jxej1ewo)
+- [📰: France 24: “Escaping Kabul: The secret operation to exfiltrate the Afghan women's cycling team”](https://www.france24.com/en/tv-shows/reporters/20260612-escaping-kabul-secret-operation-exfiltrate-afghan-women-cycling-team)
 
 Respectfully: shut the absolute fuck up, if your “saving Western civilisation” means tearing down women and girls.
 
@@ -225,7 +226,7 @@ You can’t drop bombs on people and then forbid them to feel human again.
 - [📰: BBC: “Kneecap: Rap group are no strangers to controversy, but is this time different?”](https://www.bbc.co.uk/news/articles/cly5r4gg7l6o)
 - [📰: BBC: “Call for Kneecap’s US visas to be revoked after Coachella”](https://www.bbc.co.uk/news/articles/ce3ve317g5do)
 - [📰: Sky News: “Judges uphold decision to drop terrorism case against Kneecap member”](https://news.sky.com/story/judges-uphold-decision-to-drop-terrorism-case-against-kneecap-member-13518087)
-- [👕 Kneecap: “Completely Intolerable” tee](https://kneecap.backstreetmerch.com/products/completely-intolerable-tee-1)
+- [🔖: Kneecap: “Completely Intolerable” tee](https://kneecap.backstreetmerch.com/products/completely-intolerable-tee-1)
 
 Whatever one thinks of Kneecap’s politics or particular statements, the shirt is a beautiful little information-ecology object.
 
@@ -236,6 +237,8 @@ A person who does not know the original controversy can encounter the phrase and
 Sir.
 
 **You have accidentally added metadata.**
+
+(Idk about you, but I went and popped some tags. 🎶 There’s something about Kier’s little concern face, idk.)  
 
 ---
 
@@ -255,7 +258,7 @@ Reuters reported that Macklemore made “Free Palestine” remarks during his 4 
 
 Those propositions should not be flattened into one sentence claiming a centrally coordinated censorship operation unless evidence establishes one.
 
-[📰 Reuters: “Macklemore dropped from Ed Sheeran’s US tour after ‘Free Palestine’ remarks”](https://www.reuters.com/business/media-telecom/macklemore-dropped-ed-sheerans-us-tour-after-free-palestine-remarks-2026-09-14/)
+[📰: Reuters: “Macklemore dropped from Ed Sheeran’s US tour after ‘Free Palestine’ remarks”](https://www.reuters.com/business/media-telecom/macklemore-dropped-ed-sheerans-us-tour-after-free-palestine-remarks-2026-09-14/)
 
 ### 🤝 And then the cost stopped belonging to one person
 
@@ -277,7 +280,7 @@ There is therefore a legitimate research question about backfire:
 
 Not because we know what every venue owner or promoter expected. We don't. But institutions accustomed to controlling physical access now operate inside an information environment where **the act of exclusion is itself transmissible information**.
 
-Sources for the subsequent tour chronology include [The Guardian's Philadelphia report](https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour) and contemporaneous reporting collected around the withdrawals.
+Sources for the subsequent tour chronology include [📰: The Guardian's Philadelphia report](https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour) and contemporaneous reporting collected around the withdrawals.
 
 ---
 
@@ -357,13 +360,13 @@ Houston Texans linebacker **Azeez Al-Shaair** gives us a much cleaner object tha
 
 In January 2026, the NFL fined Al-Shaair **\$11,593** after he wore eye black carrying the message **“Stop the genocide”** during Houston’s wild-card game against Pittsburgh. The league rule at issue prohibits players from displaying unapproved personal messages while visible to stadium and television audiences. Al-Shaair wore the message again during pre-game activity the following week but said he had been told he would be removed from play if he displayed it during the game.
 
-- [ESPN: “Azeez Al-Shaair wears ‘stop the genocide’ eye black pregame”](https://www.espn.com/nfl/story/_/id/47651109/source-azeez-al-shaair-fined-stop-genocide-eye-black)
-- [Houston Chronicle: “Texans’ Azeez Al-Shaair fined for ‘Stop the genocide’ message on eye-black strip”](https://www.houstonchronicle.com/sports/texans/article/azeez-al-shaair-fined-stop-genocide-palestine-21301993.php)
+- [📰: ESPN: “Azeez Al-Shaair wears ‘stop the genocide’ eye black pregame”](https://www.espn.com/nfl/story/_/id/47651109/source-azeez-al-shaair-fined-stop-genocide-eye-black)
+- [📰: Houston Chronicle: “Texans’ Azeez Al-Shaair fined for ‘Stop the genocide’ message on eye-black strip”](https://www.houstonchronicle.com/sports/texans/article/azeez-al-shaair-fined-stop-genocide-palestine-21301993.php)
 
 Then, on **13 September 2026**, Al-Shaair wore **Hind Rajab’s name** on his eye black during the Texans’ game against Buffalo. The NFL fined him **\$11,941** for the unauthorised message. The following week, against Cincinnati, he wore **Wafaa Akila’s name**, after the eight-year-old Palestinian girl had been killed with her father in Gaza earlier that month.
 
-- [NBC Sports: “NFL fines Azeez Al-Shaair again for eye-black message”](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-fines-azeez-al-shaair-again-for-eye-black-message)
-- [Al Jazeera: “NFL’s Azeez Al-Shaair pays tribute to slain Palestinian girl Wafaa Akila”](https://www.aljazeera.com/amp/sports/2026/9/21/nfls-azeez-al-shaair-pays-tribute-to-slain-palestinian-girl-wafaa-akila)
+- [📰: NBC Sports: “NFL fines Azeez Al-Shaair again for eye-black message”](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-fines-azeez-al-shaair-again-for-eye-black-message)
+- [📰: Al Jazeera: “NFL’s Azeez Al-Shaair pays tribute to slain Palestinian girl Wafaa Akila”](https://www.aljazeera.com/amp/sports/2026/9/21/nfls-azeez-al-shaair-pays-tribute-to-slain-palestinian-girl-wafaa-akila)
 
 This does **not** establish that the NFL rule was written to suppress Palestine advocacy. The rule is framed generally around unauthorised personal messages. That distinction matters.
 
@@ -415,11 +418,11 @@ Before the first Nations League fixture against Israel on 27 September, reportin
 
 Then, on 26 September, goalkeeper **Gavin Bazunu told the squad that he did not want to participate in the Israel fixtures**. Other players were reported to be considering whether to withdraw. The players met among themselves for hours; training and a scheduled press conference were delayed; reporting described a lack of unanimity. The FAI subsequently said that a **significant majority** of the squad had chosen to fulfil the fixture.
 
-- [RTÉ: “Hallgrimsson cites ‘team spirit’ amid Israel games unease”](https://www.rte.ie/sport/soccer/2026/0917/1591909-hallgrimsson-cites-team-spirit-amid-israel-games-unease/)
-- [RTÉ: Jason Knight: “Israel game shouldn't be going ahead – but it is going ahead”](https://www.rte.ie/sport/soccer/2026/0925/1592925-knight-israel-game-shouldnt-be-going-ahead-but-it-is/)
-- [The Irish Times: “Gavin Bazunu tells Irish squad he does not want to participate in games against Israel”](https://www.irishtimes.com/sport/soccer/2026/09/26/gavin-bazunu-tells-irish-squad-he-does-not-want-to-participate-in-games-against-israel/)
-- [TheJournal.ie / The 42: Bazunu and the FAI player consultation](https://www.thejournal.ie/bazunu-ireland-israel-2-7174561-Sep2026/)
-- [BBC: Republic of Ireland black-armband reporting](https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo)
+- [📰: RTÉ: “Hallgrimsson cites ‘team spirit’ amid Israel games unease”](https://www.rte.ie/sport/soccer/2026/0917/1591909-hallgrimsson-cites-team-spirit-amid-israel-games-unease/)
+- [📰: RTÉ: Jason Knight: “Israel game shouldn't be going ahead – but it is going ahead”](https://www.rte.ie/sport/soccer/2026/0925/1592925-knight-israel-game-shouldnt-be-going-ahead-but-it-is/)
+- [📰: The Irish Times: “Gavin Bazunu tells Irish squad he does not want to participate in games against Israel”](https://www.irishtimes.com/sport/soccer/2026/09/26/gavin-bazunu-tells-irish-squad-he-does-not-want-to-participate-in-games-against-israel/)
+- [📰: TheJournal.ie / The 42: Bazunu and the FAI player consultation](https://www.thejournal.ie/bazunu-ireland-israel-2-7174561-Sep2026/)
+- [📰: BBC: Republic of Ireland black-armband reporting](https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo)
 
 That is a much better information object.
 
@@ -455,12 +458,12 @@ That history can coexist with another history: Irish people in Britain could als
 
 Research drawer:
 
-- [Paramilitary punishment attacks in Northern Ireland](https://en.wikipedia.org/wiki/Paramilitary_punishment_attacks_in_Northern_Ireland)
-- [📺 U2, *Rattle and Hum*: “Sunday Bloody Sunday”](https://youtu.be/uPV3FeNBI1Q?is=Tq8clSdSxwpdGnsS)
-- [Remembrance Day bombing](https://en.wikipedia.org/wiki/Remembrance_Day_bombing)
-- [HM Prison Maze](https://en.wikipedia.org/wiki/HM_Prison_Maze)
-- [The Guardian: Maze prison film / Northern Ireland hunger strike](https://www.theguardian.com/politics/2008/oct/22/maze-prison-film-northernireland-hunger)
-- [Bobby Sands](https://en.wikipedia.org/wiki/Bobby_Sands)
+- [📚: Wikipedia: Paramilitary punishment attacks in Northern Ireland](https://en.wikipedia.org/wiki/Paramilitary_punishment_attacks_in_Northern_Ireland)
+- [📺: U2, *Rattle and Hum*: “Sunday Bloody Sunday”](https://youtu.be/uPV3FeNBI1Q?is=Tq8clSdSxwpdGnsS)
+- [📚: Wikipedia: Remembrance Day bombing](https://en.wikipedia.org/wiki/Remembrance_Day_bombing)
+- [📚: Wikipedia: HM Prison Maze](https://en.wikipedia.org/wiki/HM_Prison_Maze)
+- [📰: The Guardian: Maze prison film / Northern Ireland hunger strike](https://www.theguardian.com/politics/2008/oct/22/maze-prison-film-northernireland-hunger)
+- [📚: Wikipedia: Bobby Sands](https://en.wikipedia.org/wiki/Bobby_Sands)
 
 **Cross-link later:** Palestine hunger-strike nodes.
 
@@ -476,8 +479,8 @@ It changed the machinery through which incompatible constitutional aspirations c
 
 The Agreement places the constitutional status of Northern Ireland under the **principle of consent**: Northern Ireland remains part of the United Kingdom unless and until a majority of people in Northern Ireland choose a united Ireland. At the same time, it recognises the birthright of people in Northern Ireland to identify and be accepted as **British, Irish, or both**, and to hold British and Irish citizenship.
 
-- [GOV.UK: The Belfast Agreement](https://www.gov.uk/government/publications/the-belfast-agreement)
-- [Northern Ireland Assembly: Belfast / Good Friday Agreement 1998](https://education.niassembly.gov.uk/post-16/snapshots-devolution/belfast-agreementgood-friday-agreement-1998)
+- [📄: GOV.UK: The Belfast Agreement](https://www.gov.uk/government/publications/the-belfast-agreement)
+- [📄: Northern Ireland Assembly: Belfast / Good Friday Agreement 1998](https://education.niassembly.gov.uk/post-16/snapshots-devolution/belfast-agreementgood-friday-agreement-1998)
 
 That matters for this node because it demonstrates a political system doing something more sophisticated than deciding which identity is finally correct.
 
@@ -533,8 +536,8 @@ Brexit made the information machinery unusually visible because several constrai
 
 The current Windsor Framework machinery includes things such as the **UK Internal Market Scheme, Trader Support Service, Goods Vehicle Movement Service, Trader Goods Profile, Northern Ireland Retail Movement Scheme, customs data, labelling and sanitary/phytosanitary arrangements**. In September 2026, UK and EU officials were still discussing implementation, including SPS inspection facilities, certificates, box-level labelling and customs arrangements.
 
-- [GOV.UK: checklist for freight movements from Great Britain to Northern Ireland under the Windsor Framework](https://www.gov.uk/government/publications/communications-resources-to-help-you-move-goods-from-great-britain-to-northern-ireland/checklist-getting-ready-to-make-freight-movements-from-great-britain-to-northern-ireland-under-the-windsor-framework)
-- [GOV.UK: Specialised Committee on implementation of the Windsor Framework, 15 September 2026](https://www.gov.uk/government/news/specialised-committee-on-the-implementation-of-the-windsor-framework-joint-statement-15-september-2026)
+- [📄: GOV.UK: checklist for freight movements from Great Britain to Northern Ireland under the Windsor Framework](https://www.gov.uk/government/publications/communications-resources-to-help-you-move-goods-from-great-britain-to-northern-ireland/checklist-getting-ready-to-make-freight-movements-from-great-britain-to-northern-ireland-under-the-windsor-framework)
+- [📄: GOV.UK: Specialised Committee on implementation of the Windsor Framework, 15 September 2026](https://www.gov.uk/government/news/specialised-committee-on-the-implementation-of-the-windsor-framework-joint-statement-15-september-2026)
 
 A customs declaration is information about goods.
 
@@ -556,8 +559,8 @@ For a beautifully stupid demonstration of why boring regulatory machinery matter
 
 Post-Brexit fishing arrangements changed the conditions under which French vessels could access Jersey waters. Disagreement over access and licensing escalated into a protest by French fishing boats around St Helier. Boris Johnson’s government described the prospect of a blockade, called for de-escalation and sent **two Royal Navy offshore patrol vessels** as a precaution. The vessels prepared to return to port once the immediate situation had resolved.
 
-- [GOV.UK: PM call with Jersey ministers, 5 May 2021](https://www.gov.uk/government/news/pm-call-with-chief-minister-of-jersey-senator-john-le-fondre-and-minister-of-external-affairs-ian-gorst-5-may-2021)
-- [GOV.UK: statement on Jersey, 6 May 2021](https://www.gov.uk/government/news/statement-on-the-latest-developments-in-jersey-6-may-2021)
+- [📄: GOV.UK: PM call with Jersey ministers, 5 May 2021](https://www.gov.uk/government/news/pm-call-with-chief-minister-of-jersey-senator-john-le-fondre-and-minister-of-external-affairs-ian-gorst-5-may-2021)
+- [📄: GOV.UK: statement on Jersey, 6 May 2021](https://www.gov.uk/government/news/statement-on-the-latest-developments-in-jersey-6-may-2021)
 
 Jersey is not Northern Ireland. A fishing dispute is not the Troubles. The comparison is deliberately at the level of **administrative systems**:
 
@@ -623,8 +626,8 @@ Likewise, the familiar “No Irish, No Blacks, No Dogs” formulation has its ow
 - [Winston Churchill: racial views](https://en.wikipedia.org/wiki/Racial_views_of_Winston_Churchill) — including the attributed line: *“We have always found the Irish a bit odd. They refuse to be English.”*
 - [IrishCentral: Churchill, the Black and Tans and Ireland](https://www.irishcentral.com/roots/history/winston-churchill-black-tans-ireland)
 - [IrishCentral: Collins, Churchill and de Valera](https://www.irishcentral.com/roots/history/collins-churchill-de-valera)
-- [Irish Post: “No Irish, No Blacks, No Dogs” signs and the evidentiary dispute](https://www.irishpost.com/life-style/infamous-no-irish-no-blacks-no-dogs-signs-may-never-have-existed-racist-xenophobic-148416)
-- [Irish Times: “No Irish, no blacks, no dogs”: how common exactly were such notices?](https://www.irishtimes.com/opinion/2024/04/29/no-irish-no-blacks-no-dogs-how-common-exactly-were-such-notices/)
+- [📰: Irish Post: “No Irish, No Blacks, No Dogs” signs and the evidentiary dispute](https://www.irishpost.com/life-style/infamous-no-irish-no-blacks-no-dogs-signs-may-never-have-existed-racist-xenophobic-148416)
+- [📰: Irish Times: “No Irish, no blacks, no dogs”: how common exactly were such notices?](https://www.irishtimes.com/opinion/2024/04/29/no-irish-no-blacks-no-dogs-how-common-exactly-were-such-notices/)
 - [Vintage: discussion of the signs](https://vintage.tn/how-common-were-no-blacks-no-dogs-no-irish-signs/)
 - [Taylor & Francis paper](https://www.tandfonline.com/doi/full/10.1080/14775700.2026.2689728)
 - [Taylor & Francis paper](https://www.tandfonline.com/doi/full/10.1080/00221546.2026.2679419)
@@ -801,7 +804,7 @@ Reuters reported on 19 September 2026 that Palestinian authorities put the numbe
 
 Reuters also reported that **more than 1,300 Palestinians and four Israeli soldiers had been killed since the US-brokered ceasefire agreed in 2025**, and that Israeli strikes killed at least another three Palestinians on 19 September.
 
-- [📰 Reuters: “Israeli strikes kill three people in Gaza, medics say”](https://www.reuters.com/world/middle-east/israeli-strikes-kill-three-people-gaza-medics-say-2026-09-19/)
+- [📰: Reuters: “Israeli strikes kill three people in Gaza, medics say”](https://www.reuters.com/world/middle-east/israeli-strikes-kill-three-people-gaza-medics-say-2026-09-19/)
 
 **Important:** the 73,000+ figure is a reported total Palestinian death toll. Do not silently relabel every person in that aggregate as a civilian. Civilian/combatant classification across the total is contested and incomplete.
 
@@ -821,9 +824,9 @@ The reporting does, however, establish that people in Gaza continued to die duri
 
 Those figures cover different and partly overlapping reporting windows. They must **not** simply be added together and relabelled “civilians killed”.
 
-- [📰 OCHA: Humanitarian Situation Report, 11 September 2026](https://www.ochaopt.org/content/humanitarian-situation-report-11-september-2026)
-- [📰 Reuters: Gaza reporting, 15 September 2026](https://www.reuters.com/world/middle-east/israeli-strikes-gaza-kill-two-people-including-child-medics-say-2026-09-15/)
-- [📰 Reuters: Gaza reporting, 19 September 2026](https://www.reuters.com/world/middle-east/israeli-strikes-kill-three-people-gaza-medics-say-2026-09-19/)
+- [📄: OCHA: Humanitarian Situation Report, 11 September 2026](https://www.ochaopt.org/content/humanitarian-situation-report-11-september-2026)
+- [📰: Reuters: Gaza reporting, 15 September 2026](https://www.reuters.com/world/middle-east/israeli-strikes-gaza-kill-two-people-including-child-medics-say-2026-09-15/)
+- [📰: Reuters: Gaza reporting, 19 September 2026](https://www.reuters.com/world/middle-east/israeli-strikes-kill-three-people-gaza-medics-say-2026-09-19/)
 
 > **We can tell you almost to the day how long the Macklemore controversy has lasted.**
 >
@@ -1106,7 +1109,7 @@ There is a point at which a node about Palestinian agency has to stop asking onl
 
 A large organised coalition of Palestinian civil society has been giving international civil society one answer since 2005: **boycott, divestment and sanctions**. The original BDS call was endorsed by more than 170 Palestinian civil-society organisations and called for broad boycotts, divestment initiatives and pressure for state sanctions until specified demands concerning occupation, equality and refugee rights were met. It explicitly described these as non-violent measures and invited conscientious Israelis to support the call.
 
-[Palestinian Civil Society Call for BDS](https://bdsmovement.net/call)
+[🍉: Palestinian Civil Society Call for BDS](https://bdsmovement.net/call)
 
 This does not mean every Palestinian supports BDS. Palestinians are not a hive mind. It does not mean every target chosen by every campaign is analytically sound. It does not mean disagreement with BDS is itself violence.
 
@@ -1240,10 +1243,10 @@ And when the information environment starts screaming loudly enough that the ori
 -  The quick and dirty guide if people are wondering about populations and communities, is that yes there is a significant Catholic population, however, on a general sense, it is a minority and centre marginalised, and whilst it is associated with the arm struggle which has previously occurred, Northern Ireland is governed by the Crown, and this puts the loyalist slightly closer to the idea of weakness or the idea of established power. I agree that it is complex. I agree that there is a need to balance equality duty, and this is where instruments like PSED should be protected *in general* really strong. The same legal instrument is challenged when we take a specific view that has Mike what we have taken so far in respect to anti Palestinian racism across the United Kingdom. Unfortunately, legal instruments don’t really care about our feelings, and they need to be strengthened as a whole, if we want them to remain strong elsewhere. This is why it’s significantly worries me, when we start to allow our emotions to govern how we listen to different voices through the way that the law is structured in this country.
 -  we can talk about how important it is to be aligned with certain allies geopolitically, but this is a vulnerability that exists in our sovereign state, and so we are the ones who have to stand up and say, actually your foreign policy, or your domestic policy and how it interacts with our policies here, is weakening our protections over our citizens, on matters apparently wholly unconnected.  
 - I will repeat what I have said often: we are all a lot more fucking connected than we ever think we are.
-- [BBC: “Orange Order march row goes to heart of ongoing divisions in Northern Ireland”](https://www.bbc.co.uk/news/articles/ckx2zq7x32wro)
-- [BBC: “NI secretary of state calls for 'compromise' as Orange Order march blocked by protesters”](https://www.bbc.co.uk/news/live/ckz6z4z57y5nt)
-- [BBC: “Parades Commission says Orange Order Drumcree parade can go ahead”](https://www.bbc.co.uk/news/live/c62kw7wyn708t)
-- [BBC: “Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama”](https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo)
+- [📰: BBC: “Orange Order march row goes to heart of ongoing divisions in Northern Ireland”](https://www.bbc.co.uk/news/articles/ckx2zq7x32wro)
+- [📰: BBC: “NI secretary of state calls for 'compromise' as Orange Order march blocked by protesters”](https://www.bbc.co.uk/news/live/ckz6z4z57y5nt)
+- [📰: BBC: “Parades Commission says Orange Order Drumcree parade can go ahead”](https://www.bbc.co.uk/news/live/c62kw7wyn708t)
+- [📰: BBC: “Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama”](https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo)
 - perhaps Westminster could, every now and then, pay attention to [this page](https://www.bbc.co.uk/news/northern_ireland) on the BBC.
 - [📹: Sky: “Thousands of protesters have blocked the predominately nationalist Garvaghy Road in Portadown in a bid to prevent a contentious Orange Order parade.”](https://vm.tiktok.com/ZN8r5Y7VM/) – *Noting the Government’s response…*  
 - [📹: The Irish Polithick: “Solidarity with the Garvaghy Road residents who simply want peace.”](https://vm.tiktok.com/ZN8rPcFpN/) – *Labour Party: do you understand what you are “both sides”-ing? Hard to tell, when you “both-sides” on routine breaches of the Gaza “ceasefire”, honestly.*
@@ -1255,9 +1258,13 @@ And when the information environment starts screaming loudly enough that the ori
 - Incidentally this is talking over a conversation which is really important, about [something else](https://www.bbc.co.uk/news/articles/ckj063lq1jm6o) which comes out of periods of colonial style governance. My heart cries for mothers, my heart cries for children, and I’m tired of the men calling that emotional, and being unable to see their own emotions to our communities and our politics.
 - Stop making women’s lives harder in Gaza, stop making women’s lives harder in the West Bank, stop making women’s lives harder in occupation East Jerusalem, stop making women’s lives harder in the state of Israel, stop making women’s lives harder in Northern Ireland, stop making women’s lives harder in the Republic of Ireland, and stop making women’s lives harder in the United Kingdom of Great Britain and Northern Ireland.
 - Until you stop making women’s lives harder, I unfortunately have to conclude that either you hate us, which is at least recognisable, or even worse: you simply don’t see us as human enough, to care what the world does to us.
-- [Channel 4: “Why thousands of protesters blocked Orange
+- [📹: Channel 4: “Why thousands of protesters blocked Orange
 Order march in Northern Ireland”](https://youtu.be/tO4ohxzrzow?is=PZs135hqgxjKVqwj)
-- [RTÉ: “Garvaghy Road protesters form blockade preventing Orange Order parade”](https://youtu.be/Cen4qAjAT2M?is=_cDXu0XEBSTFQQ1H)
+- [📹: RTÉ: “Garvaghy Road protesters form blockade preventing Orange Order parade”](https://youtu.be/Cen4qAjAT2M?is=_cDXu0XEBSTFQQ1H)
+- [📹: Rachel Rose Accesories: “Leave the people of the Garvaghy Road alone.
+🙏🏻💕✨ Intergenerational
+trauma is real. Empathy. Compassion.
+Peace.”](https://vm.tiktok.com/ZN8rP3VQw/) – *”I woke up this morning to fireworks, riot vans, and a helicopter circling overhead.”*  
 
 Condemning female politicians who stood with their communities in this context, because of an speak won on legal technicalities, was a highly weird thing for a supposedly “we care about VAWG, we care about the Union, we care about counterterrorism” party to do, Labour.  
 
@@ -1269,7 +1276,7 @@ Please just listen and talk to Northern Irish people.
 
 Yes: “both sides”.  
 
-Because today you are resolutely demonstrating that you didn’t listen to one of them.  
+Because today you are resolutely demonstrating that you didn’t listen to any but one of them.  
 
 That attitude is why your conference appears to [look like this](https://vm.tiktok.com/ZN8rPor8x/).  
 
