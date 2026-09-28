@@ -1,5 +1,5 @@
 # 🍊 Why Is the Orange Being Weird?
-**First created:** 2026-08-20 | **Last updated:** 2026-09-14  
+**First created:** 2026-08-20 | **Last updated:** 2026-09-28  
 *Why the presidential posture around Iran-linked attacks on American infrastructure is increasingly interesting as a governance problem — and why the contradiction matters more than guessing the motive.*
 
 ---
@@ -1399,7 +1399,11 @@ Or, more precisely:
 
 ## 🌌 Constellations
 
-🍊 🚰 ⚡ 📡 🧱 🌍 🧭 🕸️ — presidential governance; infrastructure cyber risk; regulation; telecoms; externalities; alliance reliability; optionality; attribution.
+🍊 🚰 ⚡ 📡 🧱 🌍 🧭 🕸️ — presidential governance; infrastructure cyber risk; regulation; telecoms; externalities; alliance reliability; optionality; attribution.  
+
+*Follow the evidence:*  
+
+- [📹: NowThis Impact: “It doesn’t sound like he loves women.”](https://vm.tiktok.com/ZN8raVQ9e/) – *”Are you feeling nervous? Are you having fun? It’s almost over; it’s just begun.” Interesting that these are the rare times he sounds lucid, if a bit shake by the thought.*  
 
 ---
 
@@ -1442,4 +1446,4 @@ Its purpose is to identify a governance anomaly without converting that anomaly 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-14_
+_Last updated: 2026-09-28_
