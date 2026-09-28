@@ -1403,7 +1403,7 @@ Or, more precisely:
 
 *Follow the evidence:*  
 
-- [📹: NowThis Impact: “It doesn’t sound like he loves women.”](https://vm.tiktok.com/ZN8raVQ9e/) – *”Are you feeling nervous? Are you having fun? It’s almost over; it’s just begun.” Interesting that these are the rare times he sounds lucid, if a bit shake by the thought.*  
+- [📹: NowThis Impact: “It doesn’t sound like he loves women.”](https://vm.tiktok.com/ZN8raVQ9e/) – *”Are you feeling nervous? Are you having fun? It’s almost over; it’s just begun.” Interesting that these are the rare times he sounds lucid, if a bit shaken by the thought. Don’t worry, lad; we won’t do to you what you have allegedly done to so many of us. We’re good.*  
 
 ---
 
