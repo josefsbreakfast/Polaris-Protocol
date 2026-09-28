@@ -973,7 +973,12 @@ The useful systems question is therefore not whether Blair, Kraft, Netanyahu, Ma
 
 At every hop:
 
-**Did self-determination survive? Did civilian protection survive? Did equal human worth survive? Who could object? Could the affected population alter the decision? What happened when they said no?**
+**Did self-determination survive?  
+Did civilian protection survive?  
+Did equal human worth survive?  
+Who could object?  
+Could the affected population alter the decision?  
+What happened when they said no?**
 
 ---
 
@@ -1196,7 +1201,12 @@ Even if somebody believes Hamas must disarm or cease governing, there remains an
 
 And what happens when Palestinians use non-violent political mechanisms instead?
 
-**Boycott is unacceptable. Divestment is unacceptable. Sanctions are unacceptable. Protest is unacceptable. Legal action is unacceptable. Institutional pressure is unacceptable.**
+**Boycott is unacceptable.  
+Divestment is unacceptable.  
+Sanctions are unacceptable.  
+Protest is unacceptable.  
+Legal action is unacceptable.  
+Institutional pressure is unacceptable.**
 
 If every non-violent actuator is treated as illegitimate, then merely repeating **violence is unacceptable** does not describe a functioning political pathway.
 
@@ -1218,9 +1228,15 @@ That complexity should stop us saying **Israel wants X** when the evidence reall
 
 But complexity is not an exemption from scrutiny.
 
-**Palestinians ≠ Hamas.** **Israelis ≠ Netanyahu or the Israeli government.** **Jews ≠ Israel.** **Irish people ≠ republican paramilitaries.** **British people ≠ British-state conduct.**
+**Palestinians ≠ Hamas.**  
+**Israelis ≠ Netanyahu or the Israeli government.**  
+**Jews ≠ Israel.**  
+**Irish people ≠ republican paramilitaries.**  
+**British people ≠ British-state conduct.**
 
-None of those distinctions makes the relevant government, military, institution, movement or policy disappear from examination.
+None of those distinctions makes the relevant government, military, institution, movement or policy disappear from examination.  
+
+[“Can we call the police?” “Which police?”](https://youtu.be/48QVuQyxyys?is=1yRB11zY-JAOiaKj)  
 
 ---
 
