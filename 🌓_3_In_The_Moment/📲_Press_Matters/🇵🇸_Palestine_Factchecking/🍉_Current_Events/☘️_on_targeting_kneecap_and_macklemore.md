@@ -1267,7 +1267,8 @@ Order march in Northern Ireland”](https://youtu.be/tO4ohxzrzow?is=PZs135hqgxjK
 🙏🏻💕✨ Intergenerational
 trauma is real. Empathy. Compassion.
 Peace.”](https://vm.tiktok.com/ZN8rP3VQw/) – *”I woke up this morning to fireworks, riot vans, and a helicopter circling overhead.”*
-- [📹: Sláinte trí TikTok: “Si, oggi video più lungo del solito, ma avevo bisogno di fare un po' di chiarezza, visto che la stampa tradizionale spesso tende a semplificare o a dare per scontati certi termini. In ogni caso è un evento storico che meritava di essere raccontato.”](https://vm.tiktok.com/ZN8r5xxdW/)  
+- [📹: Sláinte trí TikTok: “Si, oggi video più lungo del solito, ma avevo bisogno di fare un po' di chiarezza, visto che la stampa tradizionale spesso tende a semplificare o a dare per scontati certi termini. In ogni caso è un evento storico che meritava di essere raccontato.”](https://vm.tiktok.com/ZN8r5xxdW/)
+- [📹: Sandra Duffy, via TikTok: “Brendan McConville addressing massive crowd at 12am on Garvaghy Road, thanking those who have come out to show their support and solidarity.”](https://vm.tiktok.com/ZN8r552pH/) – *you could hear a pin drop*  
 
 Condemning female politicians who stood with their communities in this context, because of an speak won on legal technicalities, was a highly weird thing for a supposedly “we care about VAWG, we care about the Union, we care about counterterrorism” party to do, Labour.  
 
@@ -1284,6 +1285,10 @@ Because today you are resolutely demonstrating that you didn’t listen to any b
 That attitude is why your conference appears to [look like this](https://vm.tiktok.com/ZN8rPor8x/).  
 
 ---
+
+## 🌹 If You Can’t See How This Resembles Cable Street, Go Watch Derry Girls  
+
+I feel we may either need a catch-up curriculum for some of you, or you just need to switch house colours.  
 
 Americans: [do you recognise where The Cranberries belong now](https://youtu.be/ey0YNt-RyTA?is=BK7-JyXqNcXabezm)?  
 
