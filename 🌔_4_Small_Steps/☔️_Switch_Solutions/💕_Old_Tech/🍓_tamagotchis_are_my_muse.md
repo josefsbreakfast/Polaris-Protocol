@@ -150,7 +150,13 @@ Some of this is obviously fiction.
 
 But fiction is allowed to teach product design.
 
-The object should make somebody want to pick it up.
+The object should make somebody want to pick it up.  
+
+> “Usagi, please authenticate to the Moon Kingdom ecosystem to access personalised lunar services.”  
+> 
+> No.  
+>
+> 🌙 I HAVE THE FUCKING MOON.
 
 ---
 
@@ -188,11 +194,27 @@ The question is therefore not:
 
 It is:
 
-**Now that the universal rectangle already exists, which functions might become nicer if they became things again?**
+**Now that the universal rectangle already exists, which functions might become nicer if they became things again?**  
+
+Or, where are the following items, which one may reasonably expect from the degree of power that we are claiming for “everything AI”?  
+
+- 🌙 Transformation Brooch
+- 🌙 Moon Stick / Moon Wand
+- 💗 Crystal Star
+- 👑 Cutie Moon Rod
+- 💖 Cosmic Heart Compact
+- 💕 Spiral Heart Moon Rod
+- 🌙 Holy Grail
+- 💗 Crisis Moon Compact
+- 🪄 Kaleidomoon Scope
+- 🌟 Eternal Moon Article
+- 🪽 Eternal Tiare
+- 🌙 Holy Moon Cálice
+- ✨ Moon Power Tiare
 
 ---
 
-## 🕵️ Sometimes I Don't Want The Object To Know Me
+## 🪼 Sometimes I Don't Want The Object To Know Me
 
 Personalisation was sold for years as an uncomplicated improvement.
 
