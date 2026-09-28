@@ -1271,6 +1271,7 @@ Yes: “both sides”.
 
 Because today you are resolutely demonstrating that you didn’t listen to one of them.  
 
+That attitude is why your conference appears to [look like this](https://vm.tiktok.com/ZN8rPor8x/).  
 
 ---
 
