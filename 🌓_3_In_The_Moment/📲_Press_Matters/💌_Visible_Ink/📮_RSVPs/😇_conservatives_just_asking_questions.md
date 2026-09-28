@@ -1,5 +1,5 @@
 # 😇 Conservatives Just Asking Questions  
-**First created:** 2026-09-17 | **Last updated:** 2026-09-17  
+**First created:** 2026-09-17 | **Last updated:** 2026-09-28  
 *Written parliamentary questions, institutional collisions, public records, machine-assisted scrutiny, and the constitutional art of making government check its working.*
 
 ---
@@ -1744,7 +1744,9 @@ the parliamentary record, not a complete manual coding of the live corpus.
 ## 🌌 Constellations
 
 📮 📁 🧾 🤖 ⚖️ — RSVP question-routing, Fightback provenance gaps, public-record
-construction, machine-assisted scrutiny, and parliamentary procedure.
+construction, machine-assisted scrutiny, and parliamentary procedure.  
+
+- [HL3613](https://questions-statements.parliament.uk/written-questions/detail/2026-09-16/hl3613) - *Labour Party… is this you blinking twice? Why have you answered a question as if about the assassination of Daphne Caruana Galizia (may her memory be a blessing), next to “what did you do with your Project Cannon dossier”?*  
 
 ---
 
@@ -1782,4 +1784,4 @@ the resulting answers to the evidence environment as new RSVPs.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-17_
+_Last updated: 2026-09-28_
