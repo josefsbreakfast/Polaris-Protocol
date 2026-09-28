@@ -1285,7 +1285,7 @@ Americans: [do you recognise where The Cranberries belong now](https://youtu.be/
 
 What if no one else has to die?   
 
-What if all this becomes a ghost story, that you tell your wairns one day?  
+What if all this becomes a ghost story, that you tell your wairns one day? Hm?  
 
 A ghost story they’ll hardly believe.”  
 
@@ -1297,7 +1297,7 @@ Don’t kill generations of work for that.
 
 Oh, and lads:  
 
-You do realise that there is more than one Sunday, they got termed Bloody Sunday?  
+You do realise that there is more than one Sunday, that got termed Bloody Sunday?  
 
 These histories are part of why people took up armed struggle in the first place, and also why they voted for a ceasefire when they did.  
 
@@ -1311,7 +1311,7 @@ Which is why the Board of Peace is doomed to fail, because it all wants to do is
 
 if you believe people deserve freedom and they deserve peace, if you feel like they deserve to live free of fear, and feel safe, you don’t action in the same way that this organisation acts.  
 
-The UNGA was a start, declaring sanctions as a start, and the only way to get someone that looks like peace, we need to keep moving forward.  
+The UNGA was a start, declaring sanctions was a start, and the only way to get someone that looks like peace, we need to keep moving forward.  
 
 The current UK sanctions have not yet materially produced what they’re supposed to produce, and we’re already seeing quite unusual responses to quite reasonable questions about legal compliance on the ground, which is itself producing an evidence problem if at a later date you try to defend yourself against non-compliance at a later stage as a state; we need the government to start looking like it gives a fuck about what it says it gives a fuck about.  
 
@@ -1322,6 +1322,8 @@ If you want people to believe what you’re saying, when you keep saying that wh
 If there is a mismatch, then how can you say that the scrutiny is anything but absolutely fair?  
 
 ---
+
+## ✈️ We Can Still Be Reasonably Mindful Of Securiy  
 
 I am not unaware of the threat at Fairford; I hope for the safety of everyone in the surrounding area.  
 
@@ -1419,7 +1421,7 @@ And sometimes it requires saying:
 
 **”كنت ولا زلت أنا، يا غزتي يا قمري — ”**
 
-**But no, achienu, you cannot have their fucking house.**
+**But no, achienu, you cannot have their fucking house.**  
 
 ---
 
