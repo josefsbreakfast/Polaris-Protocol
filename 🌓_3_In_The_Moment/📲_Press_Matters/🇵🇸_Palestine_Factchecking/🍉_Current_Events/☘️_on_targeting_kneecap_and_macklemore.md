@@ -11,6 +11,7 @@
 <summary>Notes for: ☘️🎶 Musical accompaniment; also in progress.</summary>
 <br>  
 
+Started at some point and posting here because I don’t want to lose it.  
 
 
 | # | Song | Artist(s) | Year | Conflict / event / pressure | Why it's here | Keywords | Context / sensitivity note |
