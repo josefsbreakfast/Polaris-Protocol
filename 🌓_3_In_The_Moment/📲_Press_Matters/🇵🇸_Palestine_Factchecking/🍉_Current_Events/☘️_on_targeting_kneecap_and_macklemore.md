@@ -1441,4 +1441,4 @@ palestine, gaza, information ecology, securitisation, instrumentalised fear, con
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-27*
+_Last updated: 2026-09-28_
