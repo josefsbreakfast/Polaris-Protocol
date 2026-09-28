@@ -596,7 +596,13 @@ But Silicon Valley should perhaps be required to show its working.
 
 ## 🌌 Constellations
 
-🍓 🥚 👾 🌸 📱 — personal technology; bounded computing; retro-futurism; surveillance reduction; delightful dedicated devices.
+🍓 🥚 👾 🌸 📱 — personal technology; bounded computing; retro-futurism; surveillance reduction; delightful dedicated devices.  
+
+*Fun little buddies:*  
+
+- [🥚💕: Tamagotchi Paradise](https://tamagotchi-official.com/us/series/paradise/)  
+- [🌸: Takashi Murakami *Flower Go Walk*](https://www.kaikaikiki.com/projects/flower-go-walk/)  
+- [🦖: Digimon Does A Complex Iliad Reference](https://essential-japan.com/news/digimon-pendulum-color-returns-with-two-new-iliad-themed-devices/), but also [modern re-releases of the original digivice series](https://toy.bandai.co.jp/ja/item/01_20684/)
 
 ---
 
