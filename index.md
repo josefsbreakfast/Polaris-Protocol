@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-28 04:11:55 UTC_
+_Generated on 2026-09-28 04:27:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -928,6 +928,7 @@ _Generated on 2026-09-28 04:11:55 UTC_
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/.🌱_Still_Growing/notes.txt)
       - [**🎩_Putting_On_Less_Ritz/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/README.md)
+        - [`exhibit_h_radicalised_algorithms_next_generation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/exhibit_h_radicalised_algorithms_next_generation.md)
         - [`🇺🇸_dear_america.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🇺🇸_dear_america.md)
         - [`🏭_industrial_dispute.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🏭_industrial_dispute.md)
         - [`🐳_see_our_new_deterrence_capability.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🐳_see_our_new_deterrence_capability.md)
