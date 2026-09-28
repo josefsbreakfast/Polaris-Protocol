@@ -1437,6 +1437,18 @@ And sometimes it requires saying:
 
 ---
 
+## 📮 Small Postscript  
+
+Everyone’s migration story, where they have some migration in their family, is different; I genuinely would’ve never imagined myself to write something like this, certainly I’m public, but here we are, because apparently it’s easier to go and dig up the bones of everyone’s pain and everyone’s trauma, rather than stopping engagement in genocide.  
+
+“The court hasn’t decided that—“  
+
+Respectfully, the people who are saying this, are mostly trying to dismantle the international court system. they are acting in a manner which is dismantling the IRBO, because they don’t want to have any accountability or conversation.  
+
+Please do not come to me and complain about the words that I use, when there are 74,000 people dead. There are clearly other places that you can take that energy.  
+
+---
+
 ## 🌌 Constellations
 
 ☘️ 🍉 🕸️ 🤖 🫀 — Irish political information, Palestinian civilian life, securitisation, fear as an information resource, solidarity without equivalence, and the machinery underneath contemporary warfare.
