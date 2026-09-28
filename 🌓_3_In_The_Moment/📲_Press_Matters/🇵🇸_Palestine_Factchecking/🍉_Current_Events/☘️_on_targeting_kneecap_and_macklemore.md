@@ -108,7 +108,7 @@ Started at some point and posting here because I don’t want to lose it.
 
 Irish influence on anglophone music is very difficult to discuss honestly while pretending Irish politics never existed. The playlist therefore includes grief, humour, rebel-song influence, contemporary Irish music and material carrying histories that remain live political flashpoints. A range of pains is present on purpose. It is not my border, and I do not live on the land most directly affected.
 
-I realised yesterday that I understood what a coded bomb message was long before I learned long division. That does not make my experience universal across these islands; it does mean the conflict entered ordinary information environments in ways that can be surprisingly hard to explain to people who did not grow up around them. Leaving that history largely undiscussed does not make it disappear. It can instead become a diplomatic and informational vulnerability when allies, audiences and institutions encounter the symbols without the context.
+I realised yesterday that I understood what a coded bomb message was long before I learned long division. I have realised in working on this that I have no memory of seeing children playing near the soldiers in [the MV for *Zombie*](https://youtu.be/95HqlWRFrAk?is=dYYnIJsHAY9ir4yd) because it was “so normal” to see similar imagery on the evening news. That does not make my experience universal across these islands; it does mean the conflict entered ordinary information environments in ways that can be surprisingly hard to explain to people who did not grow up around them. Leaving that history largely undiscussed does not make it disappear. It can instead become a diplomatic and informational vulnerability when allies, audiences and institutions encounter the symbols without the context.
 
 I wish we could advocate self-determination most strongly when the answer is not comfortable, knowable or ours to choose.
 
@@ -464,7 +464,9 @@ The same human referent enters two American sports-entertainment systems through
 
 That is an information ecology.
 
-There is even another little cost-distribution loop. After Al-Shaair was fined for the Hind Rajab message, NBA player **Kyrie Irving publicly offered to pay the fine**. Again:
+There is even another little cost-distribution loop. After Al-Shaair was fined for the Hind Rajab message, NBA player **Kyrie Irving publicly offered to pay the fine**.  
+
+Again:  
 
 **pressure concentrates cost → solidarity redistributes cost**
 
