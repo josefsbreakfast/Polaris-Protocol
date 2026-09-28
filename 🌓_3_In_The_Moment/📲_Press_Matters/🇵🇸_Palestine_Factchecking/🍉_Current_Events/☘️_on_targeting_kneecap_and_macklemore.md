@@ -100,7 +100,8 @@ Started at some point and posting here because I don’t want to lose it.
 | 82 | **Galway Girl** | MALINDA | — | — | — | — | — |
 | 83 | **Teardrop** | Massive Attack, Elizabeth Fraser | — | — | — | — | — |
 | 84 | **Prayer of the Mothers** | Yael Deckelbaum, Lubna Salame, Daniel… | — | — | — | — | **Full Spotify artist credit still to capture.** |
-| 85 | **Can't Hold Us (feat. Ray Dalton)** | Macklemore, Ryan Lewis, Ray Dalton | — | — | — | — | — |
+| 85 | **Irish Blood, English Heart** | Morrissey | 2004 | Irish–English identity; post-Good Friday Agreement cultural environment | **“The Clash” problem:** English-born son of Irish parents; a useful example of how ordinary cultural material can contain identity, historical grievance and anti-establishment signals that become misleading when stripped of context. Personally, the first song I remember hearing that acknowledged the complexity of Irishness and Englishness out loud. | Irish diaspora; second generation; Englishness; Irishness; identity; Good Friday Agreement; classification; belonging | **❕ HEAR ME OUT.** One expression of a complicated Irish–English identity, not a prescription for how anybody else should identify. Released six years after the Good Friday Agreement, within a changing British–Irish cultural environment. Inclusion is not endorsement of Morrissey's wider or subsequent political views. |
+| 86 | **Can't Hold Us (feat. Ray Dalton)** | Macklemore, Ryan Lewis, Ray Dalton | — | — | Closes the loop back to #1, **Tá'n Saol Seo Dhúinne**, TG Lurgan's Irish-language adaptation. | Macklemore; TG Lurgan; Gaeilge; adaptation; cultural transmission; callback | Returns the playlist to the source material from which it opened: cultural information travels, changes language and context, and keeps moving. |
 
 
 
