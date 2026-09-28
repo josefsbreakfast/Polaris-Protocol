@@ -1,6 +1,6 @@
 # 📋 Exhibit H: Radicalised Algorithms
 
-**First created:** 2026-09-27 \| **Last updated:** 2026-09-27\
+**First created:** 2026-09-27 | **Last updated:** 2026-09-28  
 *The Special Relationship has a metadata problem. Unfortunately, this
 appears to have escalated from "which fucking BBC?" into international
 AI governance.*
@@ -299,13 +299,31 @@ being modelled, the system has not become more objective.
 
 **It has thrown away a fucking sensor.**
 
+That is not merely a representation problem. It is an instrumentation problem.
+
+Different observers can have access to different features of the same system precisely because they occupy different positions inside it. A person who is routinely classified, targeted, sold to, excluded, fetishised, moderated, recruited, diagnosed, recommended to, or otherwise acted upon may be able to observe variables that are much less visible from the administrative or engineering side.
+
+``` text
+different observer position
+      ↓
+different information access
+      ↓
+different observable features
+      ↓
+different contribution to the system model
+```
+
+The claim is not that situated observers are automatically correct.
+
+It is that **discarding an observer because their knowledge is situated can discard information precisely because their situation is what gave them access to it.**
+
 ------------------------------------------------------------------------
 
-## 4. 👠 Situated Knowledge Is Still Knowledge
+## 4. 🪞 Situated Knowledge Is Still Knowledge
 
 There is another information source here.
 
-I am a former sex worker.
+I am a former survival sex worker.
 
 I am not proposing the possible coexistence of racial hostility, racial
 anxiety, racial fetishisation and sexual curiosity because I looked at a
@@ -338,7 +356,7 @@ That is enough to make the question scientifically respectable without
 pretending the causal chain has already been proven.
 
 > **Academics may wish to investigate the precise causal mechanism.
-> Former sex worker would meanwhile like to enter into evidence: lads, I
+> Former survival sex worker would meanwhile like to enter into evidence: lads, I
 > have fucking met these men.**
 
 This is one reason Embodied Information Ecology refuses the fantasy that
@@ -397,6 +415,33 @@ generated under unequal social conditions.
 
 A dataset can be perfectly accurate about what happened and still be
 profoundly misleading about **why it happened**.
+
+And a computational system can make this worse by feeding its interpretation back into the environment.
+
+``` text
+unequal environment
+      ↓
+human adapts
+      ↓
+system measures adaptation
+      ↓
+system infers preference
+      ↓
+system optimises around inferred preference
+      ↓
+future humans encounter stronger selection pressure
+      ↓
+further adaptation
+      ↓
+system observes apparently stronger "preference"
+      ↺
+```
+
+A system can therefore manufacture increasingly strong evidence for an inference that began by misunderstanding adaptation as preference.
+
+That is not a minor statistical nuisance.
+
+**The system can help stabilise the behaviour it later cites as evidence that the behaviour was naturally preferred.**
 
 ------------------------------------------------------------------------
 
@@ -460,6 +505,12 @@ the fucking object it is supposedly classifying.
 ------------------------------------------------------------------------
 
 ## 7. 🐟 Fisher, Capital, And The Machine That Measures Desire
+
+We have established that people adapt to environments.
+
+The next question is therefore:
+
+> **Who constructs the environment to which they are adapting?**
 
 Mark Fisher did not invent recommender systems.
 
@@ -589,9 +640,29 @@ journalism travels.
 
 🦊: **YOU NAMED THE TAG BBC.**
 
+There is an important evidentiary rule here:
+
+# ANOMALY DETECTED ≠ CAUSE ESTABLISHED
+
+An anomaly can be sufficient to **open an investigation** without being sufficient to **close the causal question**.
+
+That distinction matters throughout this node. Britain does not need to prove the entire internal mechanism of a foreign computational system before it can responsibly say that something reproducible appears to be happening in the environment it can observe. Equally, observing the anomaly does not license Britain to guess the hidden mechanism and call the guess a finding.
+
+A useful incident report can therefore contain:
+
+``` text
+OBSERVATION: reproducible
+CONFIDENCE: bounded
+MECHANISM: unknown / partially known
+PROVENANCE: under investigation
+ACTION: route to competent counterparty
+```
+
+**Uncertainty does not make the observation useless. It tells us what kind of information needs to travel next.**
+
 ------------------------------------------------------------------------
 
-## 9. 🧜‍♀️ Peter, You Have Two Fucking Axes
+## 9. 📐 Peter, You Have Two Fucking Axes
 
 Before we get to radicalisation, we require a small logic break.
 
@@ -642,7 +713,7 @@ The unanswered question is:
 
 > **Rewarded for fucking what?**
 
-🧜‍♀️ LOOK AT THIS STUFF, ISN'T IT NEAT\
+🎼 LOOK AT THIS STUFF, ISN'T IT NEAT\
 WOULDN'T YOU THINK MY COLLECTION'S COMPLETE?
 
 No.
@@ -714,6 +785,16 @@ Or, more simply:
 
 🦊: **No, cousin. I understand that it is profitable. I am asking why it
 is shit.**
+
+Before evaluating whether an optimisation system is "working", identify the objective against which **working** is being measured.
+
+A recommender can be functioning extremely effectively according to an engagement or retention objective while producing an information environment that is disastrous according to another objective: truth, safety, wellbeing, democratic resilience, cultural competence, or national security.
+
+That does not prove that the recommender caused any particular downstream human outcome.
+
+It does mean that **technical effectiveness cannot be used as evidence that the surrounding human system is functioning well.**
+
+Now we can finally ask the alarming question.
 
 ------------------------------------------------------------------------
 
@@ -943,7 +1024,81 @@ present.
 
 ------------------------------------------------------------------------
 
-## 14. 🩺 Computer Scientists Do Not Need To Become Psychiatrists
+## 14. 🧩 A Category Is Not A Causal Explanation
+
+We can now state the common failure more directly.
+
+``` text
+SELF-RADICALISED
+→ who selected the information?
+
+AI PSYCHOSIS
+→ what actually happened?
+
+PREFERENCE
+→ under what constraints?
+
+BBC
+→ which referent?
+
+SAFE
+→ according to what evidence?
+```
+
+A category can be useful.
+
+A category can also compress away the variables required to understand how the thing happened.
+
+> **Do not let a convenient label destroy the causal information required to investigate the system.**
+
+That is not an argument against classification. It is an argument for remembering that classification and explanation are different operations.
+
+------------------------------------------------------------------------
+
+## 15. 🕸️ Unfortunately, Nobody Has The Whole Fucking Object
+
+This is where the problem stops belonging to any one profession.
+
+A contemporary computational event may involve:
+
+- a user;
+- other users;
+- a recommender;
+- a model;
+- platform policy;
+- optimisation objectives;
+- training data;
+- external datasets;
+- another company's infrastructure;
+- a clinician or other domain expert;
+- a foreign population;
+- domestic law;
+- foreign law;
+- national-security systems.
+
+No participant necessarily possesses the complete causal object.
+
+And no participant necessarily possesses every lever required to change it.
+
+Meaning is distributed.
+
+**Causation is distributed.**
+
+**Expertise is distributed.**
+
+**Jurisdiction is distributed.**
+
+**Agency is distributed.**
+
+This is why the answer cannot simply be: find the cleverest institution and ask it to know everything.
+
+The system itself crosses epistemic and jurisdictional boundaries. Competent governance therefore needs mechanisms capable of moving evidence, uncertainty, questions and authority across those boundaries without pretending they have disappeared.
+
+**The governance problem becomes a routing problem.**
+
+------------------------------------------------------------------------
+
+## 16. 🩺 Computer Scientists Do Not Need To Become Psychiatrists
 
 This is where criticism of Silicon Valley can become unnecessarily
 stupid.
@@ -1003,7 +1158,7 @@ The answer can be:
 
 ------------------------------------------------------------------------
 
-## 15. 📋 Regulation As Division Of Epistemic Labour
+## 17. 📋 Regulation As Division Of Epistemic Labour
 
 A regulator does not need to be an omniscient ministry of Everything The
 Computer Might Touch.
@@ -1068,7 +1223,7 @@ That is regulation as **division of epistemic labour**.
 
 ------------------------------------------------------------------------
 
-## 16. ⏱️ Regulation Can Have A Fucking SLA
+## 18. ⏱️ Regulation Can Have A Fucking SLA
 
 A legitimate industry objection is speed.
 
@@ -1114,7 +1269,7 @@ Build the fucking pathway.
 A well-designed regulator can give an industry something genuinely
 valuable:
 
-## A bounded operating environment.
+### A bounded operating environment.
 
 Instead of:
 
@@ -1141,12 +1296,35 @@ That is not merely restriction.
 
 That is institutional load-bearing.
 
+It is also commercially useful. Predictable regulation can tell a company:
+
+- what evidence it must preserve;
+- which questions it owns;
+- which questions must be routed elsewhere;
+- how quickly an answer should arrive;
+- what triggers escalation;
+- what remediation is expected;
+- what constitutes closure;
+- and what it may continue doing inside the bounded operating environment.
+
+**Regulation can reduce uncertainty for the regulated system.**
+
+That does not make every rule good. It means predictability is itself a regulatory good when the rule is competent, proportionate and intelligible.
+
 🦊: **The psychiatrist gets your question before Thursday because THERE
 IS A FORM.**
 
 ------------------------------------------------------------------------
 
-## 17. 👩‍⚕️ Cousin, Remember Frances Kelsey
+A regulatory system therefore needs outputs other than **YES** and **NO**.
+
+One of the most important is:
+
+> **NOT YET. SHOW ME BETTER EVIDENCE.**
+
+Fortunately, Cousin has done this before.
+
+## 19. 🧬 Cousin, Remember Frances Kelsey
 
 And this is where America needs to remember that it has done some
 absolutely banging regulation.
@@ -1213,7 +1391,7 @@ This one is fucking American.
 
 ------------------------------------------------------------------------
 
-## 18. 🧾 Show Me The Receipts
+## 20. 🧾 Show Me The Receipts
 
 The Kelsey story is especially useful because its logic is so clean.
 
@@ -1287,7 +1465,7 @@ Same epistemic discipline.
 
 ------------------------------------------------------------------------
 
-## 19. ⚧️ The Allegedly Masculine Art Of Asking For The Receipts
+## 21. ⚧️ The Allegedly Masculine Art Of Asking For The Receipts
 
 There is also something very funny about the way Kelsey's conduct might
 be culturally coded.
@@ -1345,7 +1523,7 @@ And, crucially:
 
 ------------------------------------------------------------------------
 
-## 20. 🇺🇸 Cousin, This One Is Yours
+## 22. 🇺🇸 Cousin, This One Is Yours
 
 The useful American story is not:
 
@@ -1408,7 +1586,7 @@ told her everything was fine, and she said: show me better evidence.**
 
 ------------------------------------------------------------------------
 
-## 21. 🦊 Regulation Is Not "Everybody At The Regulator Knows Everything"
+## 23. 🦊 Regulation Is Not "Everybody At The Regulator Knows Everything"
 
 This gives us a better model for AI regulation.
 
@@ -1460,7 +1638,64 @@ a corporate existential crisis.
 
 ------------------------------------------------------------------------
 
-## 22. 🌍 Debugging As Diplomacy
+## 24. 🌍 Ticket B: Debugging As Diplomacy
+
+We can now return explicitly to **Ticket B** from the beginning of this node.
+
+Ticket B does not require Britain to prove Ticket A's entire cultural diagnosis before anybody is allowed to inspect a technical anomaly.
+
+Nor does it require America and Britain to agree about every political, cultural or commercial question surrounding the system.
+
+It requires enough shared protocol to move a bounded observation to a competent counterparty.
+
+> **Observation does not require accusation.**
+
+A minimal allied incident pathway might look like this:
+
+``` text
+1. OBSERVE
+   Something reproducible appears wrong.
+
+2. CHARACTERISE
+   What happened? Where? How often?
+
+3. PRESERVE UNCERTAINTY
+   What is known? Suspected? Unknown?
+
+4. ESTABLISH PROVENANCE
+   Which systems touched the information?
+
+5. RULE OUT OBVIOUS LOCAL CAUSES
+
+6. ROUTE
+   Send evidence to the competent counterpart.
+
+7. INSPECT
+   Counterpart examines protected internals.
+
+8. JOINT ROOT-CAUSE ANALYSIS
+
+9. REMEDIATE
+
+10. VERIFY
+    Did the intervention actually fix it?
+```
+
+The packet being transmitted is not:
+
+> **WE HAVE DECIDED WHAT YOUR COMPUTER DID.**
+
+It is closer to:
+
+``` text
+OBSERVATION
++ EVIDENCE
++ CONFIDENCE
++ UNCERTAINTY
++ REQUESTED ACTION
+```
+
+**Interoperability does not require ideological convergence.**
 
 The same architecture works internationally.
 
@@ -1541,7 +1776,85 @@ This is:
 
 ------------------------------------------------------------------------
 
-## 23. 🧰 Root Cause, Not A New Box To Put The Human In
+## 25. 🚦 Debugging Needs An Escalation Path
+
+Cooperative debugging is the preferred pathway.
+
+It cannot be the only pathway.
+
+Otherwise the architecture has sensors and communication channels but no actuator when a serious, evidenced problem remains unresolved.
+
+``` text
+anomaly
+   ↓
+evidence
+   ↓
+interface
+   ↓
+investigation
+   ↓
+remediation requested
+   ↓
+verification
+   │
+   ├── fixed
+   │     ↓
+   │   close / monitor
+   │
+   └── not fixed
+         ↓
+      why?
+         ↓
+ disagreement / incapacity / refusal / obstruction
+         ↓
+ proportionate escalation where lawful
+```
+
+The exact lever depends on the problem, evidence, jurisdiction and legal authority. It might involve enhanced reporting, independent audit, deployment conditions, procurement restrictions, licensing conditions, narrowly targeted economic measures, or another lawful intervention.
+
+The point is not to turn every technical disagreement into a geopolitical fight.
+
+The point is to ensure that a governance system has a defined response when:
+
+> **Mate. Something is wrong. We showed you. We tried to debug it together. It is still fucking happening.**
+
+This is where the companion sanctions framework belongs: not as a geopolitical swear jar, but as one possible family of **feedback mechanisms after failed remediation**, where a lawful basis exists.
+
+------------------------------------------------------------------------
+
+## 26. ♻️ Negative Feedback Needs An Exit
+
+Escalation is not the end of the control loop.
+
+A competent intervention needs an objective, observable conditions for success, review, and an exit.
+
+``` text
+OBJECTIVE
+   ↓
+INTERVENTION
+   ↓
+OBSERVE RESPONSE
+   ↓
+MEASURE AGAINST OBJECTIVE
+   ↓
+ADJUST
+   ↓
+COMPLIANCE / REMEDIATION ACHIEVED
+   ↓
+DE-ESCALATE / REMOVE
+```
+
+Otherwise a mechanism introduced to correct a system can become another self-perpetuating system whose continued existence is mistaken for evidence that it remains necessary.
+
+> **A control mechanism without an exit condition can become its own runaway system.**
+
+That is why proportionality is not only about how hard the state pushes.
+
+It is also about whether the state knows when to stop pushing.
+
+------------------------------------------------------------------------
+
+## 27. 🧰 Root Cause, Not A New Box To Put The Human In
 
 We can now see the common structure across apparently unrelated
 examples.
@@ -1601,7 +1914,7 @@ That is the actual presenting complaint.
 
 ------------------------------------------------------------------------
 
-## 24. 🎩 Exhibit H Finding
+## 28. 🎩 Exhibit H Finding
 
 The problem is not simply that algorithms can contain bias.
 
@@ -1613,7 +1926,7 @@ outcomes.
 Nor is it simply that regulators lack access.
 
 The deeper problem is that contemporary computational systems operate
-across domains where **meaning, causation, expertise and jurisdiction
+across domains where **meaning, causation, expertise, jurisdiction and agency
 are distributed**.
 
 A system can be technically sophisticated while being epistemically
@@ -1653,6 +1966,26 @@ DO WE HAVE ENOUGH EVIDENCE TO AUTHORISE THIS CLAIM?
         DO NOT PRETEND YES
 ```
 
+and:
+
+``` text
+UNRESOLVED ANOMALY
+→ INVESTIGATE
+
+IDENTIFIED PROBLEM
+→ REMEDIATE
+
+REMEDIATION FAILS
+→ ESCALATE PROPORTIONATELY WHERE LAWFUL
+
+DESIRED CHANGE ACHIEVED
+→ DE-ESCALATE
+```
+
+The point is not to build one institution clever enough to know everything.
+
+It is to build reliable interfaces through which incomplete but useful information can reach the people capable of interpreting it and the institutions capable of acting on it.
+
 FOR FUCK'S SAKE, USA.
 
 You have demonstrated that you can do this.
@@ -1666,7 +1999,7 @@ Then build the interfaces.
 
 ------------------------------------------------------------------------
 
-## 25. 🦊 Closing Exchange
+## 29. 🦊 Closing Exchange
 
 🇺🇸: We are moving extremely quickly.
 
@@ -1748,7 +2081,13 @@ pathway as an established empirical claim:
     overlap and require qualified assessment;
 -   use the Kelsey case as evidence for an evidentiary architecture, not
     as proof that every precautionary regulatory decision will later be
-    vindicated.
+    vindicated;
+-   distinguish the proposed allied incident-routing architecture from any
+    claim that a specific UK--US mechanism already operates in exactly this
+    form;
+-   treat escalation levers as a design framework whose lawful basis,
+    proportionality, licensing, collateral effects and exit conditions must
+    be established for the specific intervention rather than assumed.
 
 ------------------------------------------------------------------------
 
@@ -1790,18 +2129,13 @@ pathway as an established empirical claim:
 
 ## 🌌 Constellations
 
-🎩 🦊 🪿 ♻️ 🕸️ --- Putting On Less Ritz; Cousin, We Have Ideas; Embodied
-Information Ecology; cybernetics; feedback environments; semantic
-context; regulatory interfaces; debugging as diplomacy.
+🎩 🦊 🪿 ♻️ 🕸️ — Putting On Less Ritz; Cousin, We Have Ideas; Embodied Information Ecology; cybernetics; feedback environments; semantic context; regulatory interfaces; debugging as diplomacy.
 
 ------------------------------------------------------------------------
 
 ## ✨ Stardust
 
-embodied information ecology, feedback environments, algorithmic
-radicalisation, semantic disambiguation, recommender systems, racialised
-metadata, ai mental health, regulatory science, epistemic routing,
-frances kelsey
+embodied information ecology, feedback environments, distributed causation, semantic disambiguation, recommender systems, racialised metadata, algorithmic radicalisation, regulatory science, epistemic routing, frances kelsey
 
 ------------------------------------------------------------------------
 
@@ -1837,4 +2171,4 @@ systems into convenient labels.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-27*
+_Last updated: 2026-09-28_
