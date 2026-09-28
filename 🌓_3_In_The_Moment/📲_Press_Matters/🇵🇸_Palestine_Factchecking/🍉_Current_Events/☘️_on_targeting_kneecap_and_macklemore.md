@@ -1548,7 +1548,13 @@ Please do not come to me and complain about the words that I use, when there are
 
 ☘️ 🍉 🕸️ 🤖 🫀 — Irish political information, Palestinian civilian life, securitisation, fear as an information resource, solidarity without equivalence, and the machinery underneath contemporary warfare.
 
-Adjacent research route: [AliMcForever: “Robert Kraft and Confucian legal theory”](https://youtu.be/HRsPMubcHpc?is=77edAzkm9w9qKdE8) — *comparative legal/cultural framing retained for later decolonisation work rather than forced into this node.*
+Adjacent research route: [AliMcForever: “Robert Kraft and Confucian legal theory”](https://youtu.be/HRsPMubcHpc?is=77edAzkm9w9qKdE8) — *comparative legal/cultural framing retained for later decolonisation work rather than forced into this node.* 
+
+*Follow the evidence:*  
+
+- Language, Resistance and Revival
+Republican Prisoners and the Irish Language in the North of Ireland; Feargal Mac Ionnrachtaigh; Pluto Press; 2013. 9780745332260.
+
 
 ---
 
