@@ -1329,6 +1329,8 @@ I am not unaware of the threat at Fairford; I hope for the safety of everyone in
 
 I am begging that we do not weaponise moments of fear; we have seen so many moments of pain before, and [we never need to get to moments like these ever again](https://youtu.be/5orj5Y18cWc?is=OZzMgbnwF2h6acu5).  
 
+([There are layered reasons why the apparant negotiation on these cases with the US and Israel, and an outcome that is significantly different to parallel actions previously tried in the British legal system, hurts many communities here.](https://youtube.com/shorts/OO5UY4SxCAM?is=6TRFvxzQdHA6IGx2))
+
 When people are shown patterns they recognise, please do not patronise their reasoning.  
 
 This is why [this](https://youtu.be/NpItoCG51X0?is=J_siLTcBH5S1qLBx) is a totally appropriate press conference on the RAF Fairford major incident.  
@@ -1360,6 +1362,8 @@ So we literally have a situation in which bomb disposal has been out to a milita
 Make it consistent, make it make sense, make it so the public can understand where you’re coming from, and if you don’t, you cannot complain if you lose legitimacy for governance.  
 
 It is politicians who have put counterterrorism policing, and policing at a local level, into the position that we are seeing in this moment; this is a political issue to fix.  
+
+Stop calling us sceimhlitheoirí, stop keeping silence on Gaza, enforce the sanctions you have committed to, and tell us what you did with Project Cannon, and where Labour Together/Think Labour’s money came from.  
 
 --- 
 
