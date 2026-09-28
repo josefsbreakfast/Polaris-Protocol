@@ -13,7 +13,6 @@
 
 Started at some point and posting here because I don’t want to lose it.  
 
-
 | # | Song | Artist(s) | Year | Conflict / event / pressure | Why it's here | Keywords | Context / sensitivity note |
 |---:|---|---|---:|---|---|---|---|
 | 1 | **Tá'n Saol Seo Dhúinne** | TG Lurgan | 2013 | Irish-language revitalisation | Gaeilge revival; Irish cultural identity; later resonance through Macklemore and Irish–Palestinian solidarity | Gaeilge; youth; heritage; belonging; revitalisation; adaptation | Irish-language adaptation of *Can't Hold Us*. Its original context is Irish-language youth/cultural revitalisation; later Macklemore and Irish–Palestinian associations are part of its subsequent listening context rather than the subject of the 2013 recording. |
@@ -100,9 +99,8 @@ Started at some point and posting here because I don’t want to lose it.
 | 82 | **Galway Girl** | MALINDA | — | — | — | — | — |
 | 83 | **Teardrop** | Massive Attack, Elizabeth Fraser | — | — | — | — | — |
 | 84 | **Prayer of the Mothers** | Yael Deckelbaum, Lubna Salame, Daniel… | — | — | — | — | **Full Spotify artist credit still to capture.** |
-| 85 | **Irish Blood, English Heart** | Morrissey | 2004 | — | — | — | — |
+| 85 | **Irish Blood, English Heart** | Morrissey | 2004 | Anglo-Irish identity; Irish diaspora in England; British national identity; monarchy; nationalism; inherited cultural identity | **The peace bought room for the question.** Morrissey was born in Manchester to Irish Catholic parents who had emigrated from Dublin, and his work has repeatedly carried the complications of being English-born and Irish-descended. *Irish Blood, English Heart* makes that hybridity explicit rather than forcing a choice between the two: Irish inheritance and English belonging occupy the same body, while the song sharply criticises nationalism and British political symbolism. Its position near the end of the playlist matters because the node has spent so long asking what happens when identities are treated as mutually exclusive classifiers. The Good Friday Agreement's legal identity guarantees apply specifically to the people of Northern Ireland, not to Morrissey or the wider Irish diaspora in Britain; but the peace process and transformed British–Irish relationship form part of a wider environment in which complicated British/English/Irish identities can be expressed without every ambiguity being routed immediately through active conflict. **Peace did not settle everyone's identity. It made more identities survivable at the same time.** | Morrissey; Irish diaspora; Manchester; Dublin; Irish-English; British-Irish relations; identity; belonging; inheritance; nationalism; monarchy; Good Friday Agreement; peace dividend; hybridity; classification | **Nationalism / monarchy / political hostility.** The song contains sharply hostile political language about British nationalism, the monarchy and political institutions. Morrissey's Irish-English identity should not be collapsed into the Good Friday Agreement's specific legal provisions: those concern the people of Northern Ireland. The broader connection here is cultural and informational — how a less violent British–Irish environment creates more room for identities that do not fit neatly into a single national box. |
 | 86 | **Can't Hold Us (feat. Ray Dalton)** | Macklemore, Ryan Lewis, Ray Dalton | 2011 | — | — | — | — |
-
 
 </details>
 
