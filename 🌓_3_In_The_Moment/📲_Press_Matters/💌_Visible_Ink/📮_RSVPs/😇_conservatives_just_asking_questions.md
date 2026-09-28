@@ -1751,6 +1751,7 @@ construction, machine-assisted scrutiny, and parliamentary procedure.
 - [📰: The Telegraph: “Labour spends £1.7m on influencers”](https://www.telegraph.co.uk/politics/2026/09/16/labour-spends-17m-on-influencers/)
 - [📰: Declassified: “JOURNALISTS SECRETLY OFFERED CASH FOR SOCIAL MEDIA POSTS”](https://www.declassifieduk.org/journalists-secretly-offered-cash-for-social-media-posts/) – *and who was heading and involved with Labour Together/Think Labour at this time? 😇*  
 - [📰: Canary: “A company has been caught PAYING influencers to say good things about Labour”](https://www.thecanary.co/uk/analysis/2025/10/02/labour-influencers/)
+- [🎶: Alex Glasgow: The Socialist ABC](https://youtu.be/VkJwKwk-L2c?is=Jk0Dd0VsPkLpnEcT) – *”His alphabet is different now, since they made him a Labour MP.”*  
 
 ---
 
