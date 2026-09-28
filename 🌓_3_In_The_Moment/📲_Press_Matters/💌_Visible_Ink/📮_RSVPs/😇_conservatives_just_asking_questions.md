@@ -1746,7 +1746,7 @@ the parliamentary record, not a complete manual coding of the live corpus.
 📮 📁 🧾 🤖 ⚖️ — RSVP question-routing, Fightback provenance gaps, public-record
 construction, machine-assisted scrutiny, and parliamentary procedure.  
 
-- [HL3613](https://questions-statements.parliament.uk/written-questions/detail/2026-09-16/hl3613) - *Labour Party… is this you blinking twice? Why have you answered a question as if about the assassination of Daphne Caruana Galizia (may her memory be a blessing), next to “what did you do with your Project Cannon dossier”?*  
+- [HL3613](https://questions-statements.parliament.uk/written-questions/detail/2026-09-16/hl3613) - *Labour Party… is this you blinking twice? Why have you answered a question as if about the assassination of Daphne Caruana Galizia (may her memory be a blessing), next to “what did you do with your Project Cannon dossier”? (HL3163 / HL3613 confusion, one assumes, but can we see how single digit point errors matter now?)*  
 
 ---
 
