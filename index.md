@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-29 11:30:01 UTC_
+_Generated on 2026-09-29 12:41:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -926,6 +926,7 @@ _Generated on 2026-09-29 11:30:01 UTC_
       - [`📥_ai_vs_work.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/📥_ai_vs_work.md)
       - [`🗑️_the_case_for_binface.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🗑️_the_case_for_binface.md)
       - [`🧢_big_daddy_nato.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧢_big_daddy_nato.md)
+      - [`🪼_voltaire_on_monoculture.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🪼_voltaire_on_monoculture.md)
     - [**♻️🕸️_The_Feedback_Environment/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/.🌱_Still_Growing/notes.txt)
