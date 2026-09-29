@@ -1218,7 +1218,11 @@ Do not make Bloody Sunday carry every state failure in one backpack.
 
 ☘️ 🫀 🪖 🔁 🕯️ --- Irish historical memory; military legitimacy;
 civilian individuality; reciprocal institutional trust; delayed
-recognition.
+recognition.  
+
+*Look back:*  
+
+- [📹: SlickShots.Ni, via TikTok: “Bloody Sunday. 1972.”](https://vm.tiktok.com/ZN8rwLBu6/) – *includes footage, predominantly immediately prior*  
 
 ------------------------------------------------------------------------
 
