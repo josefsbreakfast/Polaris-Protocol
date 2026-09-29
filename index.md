@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-29 23:51:33 UTC_
+_Generated on 2026-09-29 23:53:11 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3758,6 +3758,7 @@ _Generated on 2026-09-29 23:51:33 UTC_
         - [`🪖_what_training_is_for.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/🪖_what_training_is_for.md)
         - [`🪟_transparency_and_earned_loyalty.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🪖_Training_Debrief/🪟_transparency_and_earned_loyalty.md)
       - [**🫀_Grieving_Charlie_Foxtrots/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🫀_Grieving_Charlie_Foxtrots/)
+        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🫀_Grieving_Charlie_Foxtrots/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🫀_Grieving_Charlie_Foxtrots/notes.txt)
         - [`☘️_bloody_sunday_1972.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🫀_Grieving_Charlie_Foxtrots/☘️_bloody_sunday_1972.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/README.md)
