@@ -11,7 +11,7 @@ Sadly, as this appears to often proceed disturbance and division based on Irish 
 
 This frequent connection may be a possible information network issue that can be explored at a later point. Right now, the news is moving so quickly.  
 
-Some of you have been in places for the vibes, and have ignored the reality of the culture you’re in. Grand. There will be remedial classes; we educate in this house, and we encourage and expect to be educated in return.  
+Some of you have been in places for the vibes, and have ignored [the reality of the culture you’re in](https://vm.tiktok.com/ZN8rWP5N4/). Grand. There will be remedial classes; we educate in this house, and we encourage and expect to be educated in return.  
 
 Free Palestine from apartheid practices, the illegal occupation, and colonial violence.  
 
@@ -1372,6 +1372,7 @@ Breandán Mac Cionnaith has asked why the Orange Order want to walk through an a
 - [📹: Michelle O’Neill: “I have spent the night on the Garvaghy Road in support of the community. There should no unwanted orange march forced through the heart of this community.”](https://vm.tiktok.com/ZN8rVadj2/)  
 - [📹: Mary Lou McDonald: “This story should concern every single one of us. Garda whistleblowers say they were punished for speaking out. What happened to them and how it was allowed to happen - matters to us all.”](https://vm.tiktok.com/ZN8rVDbwY/) – * is this part of the background as to why that police distrust, actually exists in the first place, even before you then have a situation where a contentious march is going to be attempted*  
 - [📺: The Times, via YouTube: “Drumcree: 'There's a Lot of Trauma' But The Parade Shouldn't Threaten Devolution | Matthew O'Toole”](https://youtu.be/mpdW2-I_wic?is=fjGKXKjNvgqOSXYD)
+- [📹: RTÉ News: “Music session under way at Garvaghy Road as demonstration continues”](https://vm.tiktok.com/ZN8rWP5N4/)  
 
 It’s really interesting in so much discourse about MP safety, that’s happened over the last few months, there are a lot of people are extremely silent right now, and I want to make it extremely clear and I’m not saying that anyone should necessarily be threatened, I’m saying that if you care about safety, you should be caring about everybody’s safety. I haven’t seen Nigel speak on this, but then maybe these women are too liberal and too centrist for him, seeing that he was all “up the RA” on his cameo account. (Just joking, I think the last thing that anyone needs is anyone from that political group to be inserting their noses into anything here.)  
 
