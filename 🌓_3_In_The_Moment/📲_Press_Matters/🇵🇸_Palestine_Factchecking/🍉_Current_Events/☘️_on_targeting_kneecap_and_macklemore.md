@@ -1589,7 +1589,8 @@ palestine, gaza, information ecology, securitisation, instrumentalised fear, con
 >
 > - Palestine hunger-strike nodes — *cross-link from the Northern Ireland hunger-strike material when repository path is resolved*
 > - Identity / derisking conditionalities / pre-GFA notes — *working notes outside the repository; preserve as an unresolved routing point*
-> - [📋 Exhibit H: Radicalised Algorithms](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_h_radicalised_algorithms.md) – *submitting the open “wtf Silicon Valley” error ticket vis-a-vis their racialised porn tag aligning with our national broadcaster tag; fucking Americans, man; and these people think we are the weird ones*  
+> - [📋 Exhibit H: Radicalised Algorithms](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_h_radicalised_algorithms.md) – *submitting the open “wtf Silicon Valley” error ticket vis-a-vis their racialised porn tag aligning with our national broadcaster tag; fucking Americans, man; and these people think we are the weird ones*
+> - [🪼 Voltaire on Monoculture](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🪼_voltaire_on_monoculture.md) – *I will to the death your right to say something, as long as you’re not threatening or harming other people; cf. try not to be a cunt*  
 >
 > 🏮 Return To:
 >
