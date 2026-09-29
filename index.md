@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-29 14:01:25 UTC_
+_Generated on 2026-09-29 20:34:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4487,6 +4487,8 @@ _Generated on 2026-09-29 14:01:25 UTC_
     - [`🦤_uniform_spectacle.md`](🌓_3_In_The_Moment/🥃_Males_Online/🦤_uniform_spectacle.md)
     - [`🪬_masculinity_in_crisis.md`](🌓_3_In_The_Moment/🥃_Males_Online/🪬_masculinity_in_crisis.md)
     - [`🪬_pua_to_far_right_pipeline.md`](🌓_3_In_The_Moment/🥃_Males_Online/🪬_pua_to_far_right_pipeline.md)
+  - [**🥄_Managing_Scarcity/**](🌓_3_In_The_Moment/🥄_Managing_Scarcity/)
+    - [`notes.txt`](🌓_3_In_The_Moment/🥄_Managing_Scarcity/notes.txt)
   - [**🦉_Language_As_Attack_Surface/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/)
     - [**🏮_AntiContainment_Clauses/**](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🏮_AntiContainment_Clauses/)
       - [`README.md`](🌓_3_In_The_Moment/🦉_Language_As_Attack_Surface/🏮_AntiContainment_Clauses/README.md)
