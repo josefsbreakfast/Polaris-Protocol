@@ -1,7 +1,13 @@
 # ☘️ On Targeting Kneecap And Macklemore
 
-**First created:** 2026-09-19 | **Last updated:** 2026-09-28  
+**First created:** 2026-09-19 | **Last updated:** 2026-09-29  
 *Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*
+
+---
+
+NB: This node will be reorganised and moved where needed so that the final focus is on this as a flashpoint of Palestinian erasure at a time of risk of genocide.  
+
+Sadly, as this appears to often proceed disturbance and division based on Irish identity, a lot of things are going into this particular note at this moment for capture – that’s why everything is going in this node to begin with, and then it will be moved out as I’ve got time.  
 
 ---
 
@@ -1357,6 +1363,7 @@ Breandán Mac Cionnaith has asked why the Orange Order want to walk through an a
 - Draft bc digital weirdness; please note that Sinn Fein is the democratically elected party for many people in NI, and the text I’m getting the most interrupting for is trying to contextualise and demystify that:
 - Michelle O’Neill - https://vm.tiktok.com/ZN8rVadj2/
 - Mary Lou McDonald - https://vm.tiktok.com/ZN8rVDbwY/
+- [📺: The Times, via YouTube: “Drumcree: 'There's a Lot of Trauma' But The Parade Shouldn't Threaten Devolution | Matthew O'Toole”](https://youtu.be/mpdW2-I_wic?is=fjGKXKjNvgqOSXYD)  
 
 Condemning female politicians who stood with their communities in this context, because of an appeal won on legal technicalities, was a highly weird thing for a supposedly “we care about VAWG, we care about the Union, we care about counterterrorism” party to do, Labour.  
 
@@ -1584,4 +1591,4 @@ palestine, gaza, information ecology, securitisation, instrumentalised fear, con
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-28_
+_Last updated: 2026-09-29_
