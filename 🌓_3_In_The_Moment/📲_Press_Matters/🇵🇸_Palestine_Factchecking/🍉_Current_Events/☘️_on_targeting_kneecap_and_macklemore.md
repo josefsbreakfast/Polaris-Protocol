@@ -9,6 +9,12 @@ NB: This node will be reorganised and moved where needed so that the final focus
 
 Sadly, as this appears to often proceed disturbance and division based on Irish identity, a lot of things are going into this particular note at this moment for capture – that’s why everything is going in this node to begin with, and then it will be moved out as I’ve got time.  
 
+This frequent connection may be a possible information network issue that can be explored at a later point. Right now, the news is moving so quickly.  
+
+Free Palestine from apartheid practices, the illegal occupation, and colonial violence.  
+
+Tiocfaidh a lá.  
+
 ---
 
 *[☘️🎶 Musical accompaniment in progress.](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=lpgDs3KiSAa_TisY92wD5w&utm_source=copy-link&pi=6p2EWp2DTL297) I’m sorry it’s Spotify; I still haven’t sorted my music platforms.*  
