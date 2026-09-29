@@ -11,6 +11,8 @@ Sadly, as this appears to often proceed disturbance and division based on Irish 
 
 This frequent connection may be a possible information network issue that can be explored at a later point. Right now, the news is moving so quickly.  
 
+Some of you have been in places for the vibes, and have ignored the reality of the culture you’re in. Grand. There will be remedial classes; we educate in this house, and we encourage and expect to be educated in return.  
+
 Free Palestine from apartheid practices, the illegal occupation, and colonial violence.  
 
 Tiocfaidh a lá.  
