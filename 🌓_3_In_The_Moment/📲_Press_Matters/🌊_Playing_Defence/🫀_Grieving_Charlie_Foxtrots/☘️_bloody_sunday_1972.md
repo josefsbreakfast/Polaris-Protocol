@@ -1,908 +1,1322 @@
-
-drafting. emotive.  
-
-[📹: SlickShots.Ni, via TikTok: “Bloody Sunday. 1972.”](https://vm.tiktok.com/ZN8rwLBu6/) – *includes footage, predominantly immediately prior*  
-
----
-
 # ☘️ Bloody Sunday, 1972
 
-**First created:** 2026-09-30 | **Last updated:** 2026-09-30
-*On Bloody Sunday, the 38 years it took the British state to say plainly that the people its soldiers killed had not deserved to die, and why military legitimacy cannot be defended by defending the indefensible.*
+**First created:** 2026-09-30 \| **Last updated:** 2026-09-30\
+*On Bloody Sunday, the 38 years it took the British state to say plainly
+that the people its soldiers killed had not deserved to die, and why
+military legitimacy cannot be defended by defending the indefensible.*
 
----
+------------------------------------------------------------------------
 
 ## 🛰️ Orientation
 
-### What this node is doing
+I remember the Saville report coming out.
 
-Open personally rather than encyclopaedically.
+Not in the way that somebody who was in Derry in 1972 remembers Bloody
+Sunday. I was not there. I am not Northern Irish. My family's Irish
+history does not make somebody else's direct experience of the Troubles
+mine.
 
-Possible authorial entry:
+But I remember the moment in 2010 well enough that I can approximately
+place myself in the living room where I watched it on the news.
 
-- I remember the Saville report coming out.
-- I can approximately place myself in the living room where I watched the news.
-- I was not in Derry in 1972.
-- I am not Northern Irish.
-- My family's Irish history does not make Bloody Sunday my personal bereavement.
-- But I remember understanding in 2010 that this was a very big fucking deal.
-- Years later, looking more closely at British military legitimacy, Irishness, policing, dehumanisation and state accountability helps explain why.
+It was a **big fucking deal**.
 
-Then establish the proposition:
+That memory matters here, not as evidence about what happened on 30
+January 1972, but as evidence of how far the event still reached almost
+four decades later. The Bloody Sunday families did not need David
+Cameron to tell them who their relatives had been. They had spent
+decades telling the British state.
 
-> The families did not need David Cameron to tell them who their relatives had been.
->
-> They needed the British state to stop leaving official suspicion attached to people who had been killed by the British state.
+What mattered was that, on 15 June 2010, the British state finally said
+it too.
 
-This is therefore simultaneously a node about:
+The Saville Inquiry concluded that none of the casualties shot by
+soldiers of Support Company was armed with a firearm; none was posing a
+threat of causing death or serious injury; no warning was given before
+soldiers opened fire; republican paramilitary firing did occur, but did
+not justify the shootings of the civilian casualties; and Support
+Company experienced what the Inquiry called a "serious and widespread
+loss of fire discipline". [^1]
 
-- Bloody Sunday;
-- military force;
-- civilian innocence;
-- institutional information;
-- political association;
-- legitimacy;
-- reciprocal trust;
-- delayed truth;
-- state apology;
-- and the limits of what an apology can repair.
+Prime Minister David Cameron then stood in the House of Commons and said
+that what happened was "unjustified and unjustifiable". He accepted that
+some members of the Armed Forces had acted wrongly, that government was
+ultimately responsible for the conduct of the Armed Forces, and
+apologised on behalf of the government and the country. [^2]
 
-### Scope warning
+That was not the beginning and end of forgiveness.
 
-This is not:
+It was not the end of grief.
 
-- a complete history of the Troubles;
-- an argument that the IRA did not exist;
-- an argument that British soldiers did not operate in dangerous conditions;
-- an argument that every republican or nationalist actor was peaceful;
-- an attempt to flatten Northern Irish Catholic experience into diasporic Irish experience;
-- or an argument that every later conflict is "another Bloody Sunday."
+It did not give anybody 38 years back.
 
-The surrounding conflict was real.
+But it changed something that only the state itself could change: **the
+official information attached to the people its soldiers had killed.**
 
-That does not answer whether these particular civilians were legitimate targets.
+This node is therefore about Bloody Sunday, but it is also about
+military legitimacy, civilian individuality, suspicion by association,
+reciprocal trust, delayed truth, state responsibility, apology, and the
+limits of what an apology can repair.
 
----
+It is the first worked case in `🫀_Grieving_Charlie_Foxtrots` because
+caring about a military institution cannot require pretending that the
+institution, or the state directing it, can never be wrong.
+
+Sometimes it will be wrong.
+
+The question is what happens next.
+
+------------------------------------------------------------------------
 
 ## ☘️ 1. Which Bloody Sunday?
 
-Brief terminology section.
+There is more than one historical event called **Bloody Sunday**.
 
-There is more than one event called "Bloody Sunday."
+Here, Bloody Sunday means **Derry, Northern Ireland, Sunday 30 January
+1972**.
 
-For this node:
+A civil-rights march took place in the city against internment. Soldiers
+of the British Army opened fire in the Bogside. Thirteen people were
+killed that day and another man later died from injuries sustained on
+Bloody Sunday. Others were wounded. [^3]
 
-**Bloody Sunday = Derry, Northern Ireland, Sunday 30 January 1972.**
+This is also the Bloody Sunday most strongly associated in popular
+culture with U2's *Sunday Bloody Sunday*.
 
-Explain briefly:
+For readers outside Britain and Ireland, there is another piece of
+terminology worth getting out of the way early.
 
-- civil-rights march;
-- Bogside;
-- British Army;
-- 13 people killed that day;
-- another casualty subsequently died from his injuries;
-- others wounded.
+### 🇺🇸 Why is it called the Saville Inquiry?
 
-Note the cultural shorthand:
+British public inquiries and tribunals are often referred to informally
+using the surname of the person chairing them. The chair may be a judge
+or another appropriately appointed figure depending on the inquiry and
+its legal basis. It is a naming habit, not a unique database identifier.
 
-- this is ordinarily the Bloody Sunday meant in contemporary British/Irish discussion unless another is specified;
-- it is also the event most strongly associated with U2's *Sunday Bloody Sunday*.
+The 1972 investigation into Bloody Sunday was chaired by Lord Widgery,
+then Lord Chief Justice.
 
-Do not let the cultural reference substitute for the history.
+The later inquiry was chaired by Lord Saville of Newdigate, then a Lord
+of Appeal in Ordinary, alongside judges William Hoyt and John Toohey. It
+therefore became commonly known as the **Saville Inquiry**. [^4]
 
----
+So:
 
-## 🧭 2. Before The Shooting: Restore The Information Environment
+`Widgery` does not mean a doctrine.
 
-This section needs to stop the reader arriving in Derry with 2026 categories and no historical context.
+`Saville` does not mean a statute.
 
-### Northern Ireland was not socially neutral terrain
+They are surnames functioning as human shorthand.
 
-Very concise scaffold:
+Humans generally resolve this through context. Modern information
+systems require slightly more help.
 
-- partition;
-- Protestant/unionist and Catholic/nationalist political divisions;
-- discrimination experienced by Catholics;
-- civil-rights movement;
-- policing;
-- internment;
-- escalating Troubles;
-- British Army deployment;
-- republican and loyalist paramilitary violence.
+``` text
+BAD TAG:
+saville
 
-### Keep the categories separate
+BETTER:
+saville_inquiry + bloody_sunday + northern_ireland + 1998
 
-Important Polaris information ladder:
+DISPLAY:
+Saville Inquiry into Bloody Sunday (1998–2010)
+```
 
-Catholic
-≠ Irish
-≠ nationalist
-≠ republican
-≠ civil-rights activist
-≠ IRA sympathiser
-≠ IRA member
-≠ armed person
+The database does not possess vibes.
+
+------------------------------------------------------------------------
+
+## 🧭 2. Restore The Information Environment
+
+Bloody Sunday cannot be understood by dropping a group of abstract
+civilians and abstract soldiers onto a blank map.
+
+Northern Ireland was already inside a violent political conflict.
+Republican and loyalist paramilitary organisations existed. British
+soldiers and police officers were being killed. Civilians were being
+killed. Internment without trial had been introduced in Northern Ireland
+in August 1971. Political, constitutional, religious and community
+identities were intensely consequential.
+
+But the categories operating inside that environment were not
+interchangeable.
+
+Catholic\
+≠ Irish\
+≠ nationalist\
+≠ republican\
+≠ civil-rights activist\
+≠ IRA sympathiser\
+≠ IRA member\
+≠ armed person\
 ≠ person presenting an imminent lethal threat.
 
-People can occupy more than one category.
+A person might occupy several of those categories.
 
-That does not make the categories interchangeable.
+That does not collapse them into one category.
 
-### Racialisation and dehumanisation
+This matters because one of the most dangerous things an institution can
+do in a conflict environment is allow information about **the
+population** to substitute for information about **the individual**.
 
-Establish carefully that anti-Irish and anti-Catholic discrimination had a much longer history.
+The question becomes less:
 
-Include:
+> What is this person doing?
 
-- racialised representations of Irish people;
-- sectarianism;
-- British imperial/colonial inheritance where evidenced;
-- material consequences in housing, employment and ordinary life where sources support them.
+and more:
 
-Use the historical compound slur as:
+> What sort of people are these?
 
-**"Fenian N-word"**
+That is an information failure before it becomes anything else.
 
-Explain once what its construction demonstrates without reproducing the full anti-Black slur.
+### Irish Catholics did not arrive in this history as a socially neutral category
 
-Explicitly avoid an oppression competition:
+Anti-Irish and anti-Catholic prejudice had much longer histories in
+Britain and Ireland than the Troubles. Irish people had repeatedly been
+represented through racialised and dehumanising language and imagery.
+Sectarian categories in Northern Ireland existed alongside this larger
+history rather than outside it.
 
-- Irish Catholics and Black Britons did not occupy identical racial positions;
-- their histories of discrimination were not identical;
-- acknowledging one does not diminish the other;
-- the borrowing of an anti-Black slur to degrade Irish Catholics/nationalists is itself evidence about the racial hierarchy being invoked.
+One compound sectarian/racialised insult I will refer to here as the
+**"Fenian N-word"** is useful evidence of that hierarchy.
 
-### Research box: "No Blacks, No Dogs, No Irish"
+I am not reproducing the full second word because I do not need to make
+Black readers eat an anti-Black slur in order to demonstrate that
+somebody used anti-Black racial vocabulary to degrade Irish Catholics
+and/or Irish nationalists.
 
-DO NOT presently claim ubiquitous literal signage.
+Nor does its use establish that Irish Catholics and Black populations
+occupied identical racial positions, experienced equivalent histories,
+or experienced discrimination of the same kind or degree.
 
-Research separately:
+That is not necessary for the argument.
 
-- documentary evidence for signs;
-- prevalence;
-- surviving photographs;
-- oral histories;
-- distinction between the cultural phrase and demonstrable frequency of that exact wording.
+The relevant information is that a person trying to dehumanise an Irish
+Catholic or nationalist could reach for an anti-Black racial category to
+do it.
 
-The larger history of discrimination must not depend upon whether that particular sign was as ubiquitous as later cultural memory suggests.
+The mechanism matters:
 
----
+**Fenian / Catholic / Irish nationalist → inferior kind of person →
+racialised outsider → person against whom ordinary restraint may matter
+less.**
 
-## 🪖 3. Soldiers Doing Policing
+That is part of the information environment in which later questions
+about threat, innocence, credibility and deservingness were processed.
 
-This is important to the Grieving Charlie Foxtrots framing.
+### 🪧 Research note: "No Blacks, No Dogs, No Irish"
 
-Explore:
+The famous phrase **"No Blacks, No Dogs, No Irish"** belongs in the
+wider history of discrimination in post-war Britain, but this node
+should not casually claim that literal signs bearing that exact wording
+were ubiquitous without doing the specific archival work.
 
-- military deployment for public-order/security purposes within part of the United Kingdom;
-- how exceptional that would have been in ordinary mainland British civic experience;
-- Northern Irish populations therefore encountering a dramatically different manifestation of the same British state.
+The broader history of anti-Black and anti-Irish discrimination does not
+depend on proving the prevalence of one culturally iconic formulation.
 
-Question:
+**TODO:** source the material history of the signs separately: surviving
+photographs, contemporary accounts, housing advertisements, oral
+histories, and scholarship distinguishing documented discrimination from
+later shorthand.
 
-> Which version of the state did you meet?
+The historical point does not require an Oppression Premier League.
 
-Do NOT argue:
+Irish people could experience racialised anti-Irish discrimination.
 
-"Military deployment in Northern Ireland automatically proves discrimination."
+Black Britons and Black migrants could experience anti-Black racism with
+different histories, mechanisms and consequences.
 
-Instead:
+Both statements can be true without one functioning as a unit of
+measurement for the other.
 
-- explain the exceptional security environment;
-- then examine the unequal distribution of extraordinary coercive power;
-- ask what that does to citizenship, belonging and legitimacy.
+------------------------------------------------------------------------
 
-Comparative historical routes can be signposted here:
+## 🪖 3. Which Version Of The State Did You Meet?
 
-- colonial policing;
-- industrial/protest policing in Britain;
-- later undercover policing;
-- American asymmetries in policing.
+There is another structural fact which matters enormously when Bloody
+Sunday is discussed as part of British military history.
 
-Do not litigate all those examples inside this node.
+For most people living in mainland Britain, routine encounter with the
+British state did not involve soldiers patrolling their streets as part
+of an internal security operation.
 
----
+For many people in Northern Ireland during the Troubles, it did.
+
+That difference does not by itself establish that every military
+deployment was discriminatory or unjustified. Northern Ireland was
+experiencing serious political violence and the security environment was
+genuinely dangerous.
+
+But it does mean that extraordinary coercive power was **not experienced
+evenly across the population of the United Kingdom**.
+
+That matters to legitimacy.
+
+A citizen in one part of the state can experience government largely
+through schools, hospitals, councils, elections, police officers and
+paperwork.
+
+Another can encounter the same state through checkpoints, soldiers,
+searches, security operations and military public-order decisions.
+
+They are technically citizens of the same state.
+
+They have not necessarily met the same version of it.
+
+That matters when, decades later, somebody asks:
+
+> Why don't these people trust our institutions?
+
+A useful prior question is:
+
+> **Which version of the institution did they meet?**
+
+------------------------------------------------------------------------
 
 ## 🩸 4. 30 January 1972
 
-This needs to be unusually factual and chronological.
+Bloody Sunday took place during a Northern Ireland Civil Rights
+Association march in Derry against internment.
 
-Build later from primary sources.
+The security environment was not imaginary. There were armed republicans
+in the city. There was rioting and stone-throwing. Republican
+paramilitaries did fire weapons during the events examined by Saville.
 
-### Before the march
+This matters because the case does **not** require us to pretend that
+the surrounding conflict was peaceful in order to establish that the
+civilians shot by Support Company were not legitimate targets.
 
-- security environment;
-- prohibition/restrictions affecting march;
-- Army planning;
-- command structure;
-- arrest operation;
-- relevant orders.
+Saville concluded that the soldiers of Support Company who went into the
+Bogside did so following an order which should not have been given; that
+on balance the first shot in the vicinity of the march was fired by the
+British Army; and that republican paramilitary firing provided no
+justification for the shooting of the civilian casualties. [^5]
 
-### The march
+The Inquiry concluded:
 
-Map:
+-   none of the casualties shot by Support Company was armed with a
+    firearm;
+-   with the probable exception of Gerald Donaghey, none was carrying a
+    bomb of any description;
+-   none was posing a threat of causing death or serious injury;
+-   no warning was given before soldiers opened fire;
+-   no soldier fired in response to attacks or threatened attacks by
+    nail or petrol bombers;
+-   Support Company soldiers lost self-control, forgot or ignored
+    instructions and training, and experienced a serious and widespread
+    loss of fire discipline;
+-   some of those killed or injured were fleeing or going to the
+    assistance of others;
+-   a number of soldiers knowingly gave false accounts in an attempt to
+    justify their firing. [^6] [^7]
 
-- intended route;
-- barriers;
-- crowd movement;
-- rioting/disturbance where relevant;
-- deployment of Support Company.
+This is the point at which the individual has to come back into view.
 
-### The shooting
+The existence of the IRA does not tell us what John Duddy was doing.
 
-Establish:
+The existence of republican gunfire does not tell us what Bernard
+McGuigan was doing.
 
-- who fired;
-- sequence where securely reconstructable;
-- casualties;
-- circumstances in which people were shot;
-- assistance to wounded;
-- absence/presence of weapons;
-- republican firing separately from shootings of casualties.
+The political identity of the march does not tell us what Hugh Gilmour
+was doing at the moment he was shot.
 
-Do not sanitise republican activity.
+**Context is not individual conduct.**
 
-That is analytically important because:
+The surrounding security environment can help explain why soldiers were
+frightened, why commanders made particular decisions, why information
+was confused and why an operation developed as it did.
 
-> The presence of armed republicans elsewhere does not turn an unarmed civilian into an armed republican.
+It cannot turn an unarmed civilian into the security environment.
 
-Saville specifically concluded that republican firing did occur but did not justify the shootings of the civilian casualties.  [oai_citation:1‡GOV.UK](https://www.gov.uk/government/news/pm-statement-on-saville-inquiry?utm_source=chatgpt.com)
+------------------------------------------------------------------------
 
-### Individual people, not "the crowd"
+## 📄 5. Widgery: Suspicion Survives The Shooting
 
-Name the dead.
+The first official investigation was established immediately after
+Bloody Sunday and chaired by Lord Widgery.
 
-Potentially short human entries rather than reducing them to a casualty number.
+Its report was published in April 1972.
 
-This matters structurally:
+On 19 April, Prime Minister Edward Heath told the House of Commons that
+the government accepted Widgery's findings and praised the inquiry as an
+objective and painstaking analysis. [^8]
 
-**restore individuality before analysing how institutional categorisation erased it.**
+The contrast with 2010 is brutal.
 
----
+Heath relayed Widgery's conclusion that there would have been no deaths
+had the march organisers not created the dangerous situation in which a
+clash became almost inevitable. He told Parliament that there was no
+reason to suppose soldiers in the arrest operation would have opened
+fire if they had not first been fired upon.
 
-## 📄 5. Widgery: The First Official Information
+And then came the formulation that matters enormously to this node.
 
-Explain the immediate inquiry.
+Widgery did **not** establish that the people killed had been armed.
 
-### 🇺🇸 / international-reader box: British inquiry names
+Instead, Heath told the Commons that none of the dead or wounded was
+**proved** to have been shot while handling a firearm or bomb. Some were
+cleared of complicity, but "strong suspicion" remained over others as
+having fired weapons, handled bombs or closely supported those who did.
+[^9]
 
-Public inquiries and tribunals are often referred to informally using the surname of the chair.
+Those are not the same informational states.
 
-The chair may be:
+**Not proved armed**\
+is not\
+**established unarmed and doing nothing capable of justifying being
+shot.**
 
-- a judge;
-- another senior legal figure;
-- or another appropriately appointed person depending upon the inquiry.
+Between those propositions is an enormous amount of room for suspicion
+to survive.
 
-The surname is shorthand, not a unique identifier.
+And it survived attached to dead people.
 
-Machine-readable lesson:
+This is one reason Bloody Sunday cannot be reduced to:
 
-`widgery` = inadequate identifier.
+> The Army made a mistake and Britain eventually apologised.
 
-Better:
+The families were fighting over something much more intimate:
 
-`widgery_tribunal + bloody_sunday + northern_ireland + 1972`
+> **What were our people doing when you killed them?**
 
-Likewise:
+For decades the official British answer left open a category in which
+some of them remained suspicious by association.
 
-`saville_inquiry + bloody_sunday + northern_ireland + 1998`
+That is an injury in its own right.
 
-Human beings possess context.
+------------------------------------------------------------------------
 
-Databases do not possess vibes.
+## 🕯️ 6. Twenty-Six Years To Ask Again
 
-### What Widgery said
+The challenge to Widgery did not materialise suddenly in the late 1990s.
 
-This needs very precise sourcing.
+Families of those killed and wounded campaigned for decades for another
+inquiry. The present UK government description of the Bloody Sunday
+Inquiry itself records that the Saville Inquiry was established after
+those campaigns. [^10]
 
-Particularly distinguish:
+On 29 January 1998, the House of Commons resolved that a new tribunal
+should examine the events of 30 January 1972, taking account of new
+information.
 
-**"not proved to have been armed"**
+Tony Blair told the Commons that the timescale of Widgery had prevented
+consideration of all evidence that might have been available, that
+substantial new material had since emerged, and that only a full-scale
+judicial inquiry could produce public confidence in a new investigation.
+[^11]
 
-from:
+That is already **26 years after the shootings**.
 
-**"established to have been unarmed and doing nothing that justified shooting."**
+Saville then took another twelve.
 
-Those are NOT informationally equivalent.
+The scale was extraordinary. The final report ran to thousands of pages
+across ten volumes. The Inquiry heard and assembled a vast evidential
+record, and its own introduction explicitly notes that collecting,
+analysing, hearing and considering the evidence necessarily took a
+substantial period. [^12] [^13]
 
-### Suspicion by association
+There are therefore at least two different delays here.
 
-Examine how official ambiguity operated.
+**1972 → 1998:** why did it take 26 years for the British state to
+establish a genuinely new inquiry despite sustained challenges to the
+first official account?
 
-The families were left fighting not merely over:
+**1998 → 2010:** why did producing an authoritative evidential
+reconstruction require another twelve years?
 
-"Did soldiers make mistakes?"
+Those questions do not have identical answers.
 
-but:
+But together they produce a human fact which cannot be administratively
+tidied away:
 
-> What were our relatives doing when you shot them?
+**38 years passed between Bloody Sunday and the British government's
+unequivocal public acceptance that the shootings of the civilian
+casualties were unjustified.**
 
-This becomes the beginning of the 38-year informational injury.
+A twenty-year-old in 1972 would have been 58.
 
----
+A sibling aged twenty when their brother was killed would have been 58.
 
-## 🕯️ 6. Thirty-Eight Years
+Parents died during those years.
 
-Do not compress:
+Children grew into middle age.
 
-1972 → 1998 → 2010
+"Eventually" is a very long time when measured in somebody else's life.
 
-into three dates.
+------------------------------------------------------------------------
 
-The delay is part of the harm.
+## ⚖️ 7. Saville: The Information Changes
 
-### 1972–1998
+The Saville Inquiry did something fundamentally different from Widgery.
 
-Research and document:
+It did not merely fail to prove that the casualties were armed.
 
-- family campaigning;
-- civil-society campaigning;
-- challenges to Widgery;
-- accumulating evidence;
-- political developments;
-- peace-process context;
-- decision to establish a new inquiry.
+It affirmatively concluded that the casualties shot by Support Company
+were not armed with firearms, that none posed a threat of causing death
+or serious injury, and that no shooting of the civilian casualties was
+justified by republican firing. [^14]
 
-### 1998–2010
+This matters because a state possesses unusual power over a person's
+public identity.
 
-Explain why Saville itself took twelve years.
+A family can know their relative was innocent.
 
-Include eventually:
+A community can know.
 
-- scale of evidence;
-- witnesses;
-- hearings;
-- documentary archive;
-- legal complexity;
-- cost where relevant;
-- criticisms of duration/cost;
-- why evidential thoroughness nevertheless mattered.
+Journalists can investigate.
 
-Question:
+Historians can assemble evidence.
 
-> What does justice mean when establishing the authoritative record consumes a substantial part of a human lifetime?
+Campaigners can spend decades saying it.
 
----
+But if the state itself has produced an authoritative account leaving
+suspicion attached to somebody, there is something only the state can
+do:
 
-## ⚖️ 7. Saville: Individual Innocence Restored
+**correct the state's own record.**
 
-This should be one of the central sections.
+Saville did not establish that there had been no IRA.
 
-Use the report itself as the primary source.  [oai_citation:2‡GOV.UK](https://www.gov.uk/government/publications/report-of-the-bloody-sunday-inquiry?utm_source=chatgpt.com)
+It did not establish that there were no armed republicans in Derry.
 
-Key findings to establish precisely:
+It did not establish that British soldiers generally faced no danger.
 
-- order that should not have been given;
-- first shot in vicinity fired by British Army on balance;
-- none of the casualties shot by Support Company armed with a firearm;
-- republican firing occurred but did not justify the civilian shootings;
-- no warning before soldiers opened fire;
-- serious and widespread loss of fire discipline;
-- none fired in response to nail/petrol-bomb attacks as claimed;
-- knowingly false accounts by a number of soldiers;
-- some victims fleeing;
-- some helping others;
-- no casualty posing a threat capable of justifying being shot.
+It did not establish a conspiracy by senior politicians or senior
+military leadership to kill civilians.
 
-Important:
+Indeed, the report rejected the proposition that Bloody Sunday had been
+premeditated by government or senior military leadership and did not
+find that the UK or Northern Ireland governments or the Army generally
+tolerated or encouraged unjustified lethal force. [^15]
 
-Saville did NOT need to establish:
+None of that weakens the finding concerning the casualties.
 
-- that republican paramilitaries did not exist;
-- that nobody republican was armed anywhere;
-- that Northern Ireland was peaceful;
-- that British soldiers faced no danger generally;
-- or that a senior-government conspiracy had ordered a massacre.
+It strengthens the transferable lesson.
 
-The absence of those propositions does not remove the individual findings.
+You do not need:
 
-### Core lesson
+**STATE = EVIL → ATROCITY**
 
-> You do not have to sanitise the surrounding conflict to establish a civilian's innocence.
+to arrive at state responsibility.
 
----
+You can have:
+
+**dangerous political environment → bad operational decision → soldiers
+lose fire discipline → civilians are unlawfully shot → false accounts
+follow → inadequate institutional process leaves suspicion attached to
+victims → state remains responsible.**
+
+The absence of a grand conspiracy does not make responsibility
+disappear.
+
+And you do not have to sanitise the surrounding conflict to establish
+someone's innocence.
+
+------------------------------------------------------------------------
 
 ## 🏛️ 8. 15 June 2010
 
-Give the date its own section.
+At 3.30 pm on 15 June 2010, David Cameron stood at the dispatch box in
+the House of Commons.
 
-**House of Commons, 15 June 2010, 3:30 pm.**
+The Hansard record matters because this was not merely a press release
+or a politician appearing on television.
 
-Primary source:
+It was the Prime Minister speaking formally to Parliament on behalf of
+government.
 
-Hansard — Saville Inquiry.  [oai_citation:3‡Hansard](https://hansard.parliament.uk/commons/2010-06-15/debates/8c35e746-1fd3-4084-8f31-658f4aa5e9f6/CommonsChamber?utm_source=chatgpt.com)
+Cameron began from patriotism.
 
-### Cameron's problem
+He said he did not want to believe bad things about the country and did
+not want to call into question soldiers serving in difficult and
+dangerous circumstances.
 
-Preserve the rhetorical construction.
+Then he refused to make those loyalties dependent upon denial.
 
-He begins from patriotism and respect for the Army.
+The report, he said, left "no doubt" and "no ambiguities".
 
-Then refuses to make those commitments dependent upon denial.
+Bloody Sunday was **"unjustified and unjustifiable."** [^16]
 
-Core short quotations only where useful:
+And then came the line which gives `🫀_Grieving_Charlie_Foxtrots` one of
+its organising principles:
 
-> "unjustified and unjustifiable"
+> **"we do not defend the British Army by defending the indefensible."**
+> [^17]
 
-and:
+That is not anti-military reasoning.
 
-> "defending the indefensible"
+It is an argument about what military loyalty actually requires.
 
-The larger passage should be paraphrased and linked to Hansard rather than reproduced at length.
+Cameron went on to say that Britain did not honour those who had served
+with distinction in Northern Ireland by hiding from the truth.
 
-### State responsibility
+Then he made the institutional responsibility explicit:
 
-Critical distinction:
+some members of the Armed Forces acted wrongly;
 
-individual soldiers acted wrongly;
+government is ultimately responsible for the conduct of the Armed
+Forces;
 
-AND
+and, on behalf of government and country, he was deeply sorry. [^18]
 
-government ultimately bears responsibility for the conduct of the Armed Forces.
+That is a powerful doctrine of democratic military legitimacy.
 
-This is not:
+**The government does not cease to be responsible because the wrongful
+trigger-pull happened below Cabinet level.**
 
-**British Army bad.**
+Nor does recognising wrongful conduct by some soldiers logically condemn
+every soldier who served.
 
-It is:
+Those propositions can coexist.
 
-**state responsibility does not disappear because wrongdoing occurred below Cabinet level.**
+In fact, they have to.
 
-### Military honour does not require institutional lying
+A military institution whose honour can survive only if the state
+refuses to acknowledge demonstrable wrongdoing is not being protected.
 
-Develop:
+It is being made brittle.
 
-- acknowledging wrongful conduct ≠ attacking every soldier;
-- institutional loyalty ≠ defence of every institutional action;
-- truth can be part of military legitimacy;
-- an Army whose legitimacy requires demonstrably wrongful conduct to remain unacknowledged has an extremely fragile legitimacy problem.
-
----
+------------------------------------------------------------------------
 
 ## 🧑‍🤝‍🧑 9. Say Their Names
 
-Use Mark Durkan's Commons intervention.
+Mark Durkan, then MP for Foyle, responded to Cameron in the Commons.
 
-This section may become one of the emotional centres.
+He did something structurally important.
 
-He names every person.
+He named the victims.
 
-He asks Cameron to confirm their complete exoneration.
+Bernard McGuigan.\
+Gerald Donaghey.\
+Hugh Gilmour.\
+John Duddy.\
+Gerard McKinney.\
+James Wray.\
+John Young.\
+Kevin McElhinney.\
+Michael Kelly.\
+Michael McDaid.\
+Patrick Doherty.\
+William McKinney.\
+William Nash.\
+John Johnston.
 
-And he describes their:
+Then he asked the Prime Minister to confirm that each victim, and all
+those wounded, had been completely exonerated by the report.
 
-> "innocent memory"
+Durkan described their **"innocent memory"** as having been **"interned
+without truth"** by Widgery. [^19]
 
-as having been:
+That phrase catches the informational injury with extraordinary
+precision.
 
-> "interned without truth"
+The men had been killed in 1972.
 
-Keep quotations short and link directly to Hansard.  [oai_citation:4‡Hansard](https://hansard.parliament.uk/commons/2010-06-15/debates/10061522000002/SavilleInquiry?utm_source=chatgpt.com)
+Suspicion survived them.
 
-### Why naming matters
+The civil-rights marchers could be processed as a crowd, a political
+population, Catholics, nationalists, republicans, rioters, IRA-adjacent,
+security subjects.
 
-The state had categorised.
+Durkan reverses the process.
 
-Durkan individualises.
+He names them.
 
-The report individualises.
+The inquiry individualises them.
 
-The Commons record individualises.
+The parliamentary record individualises them.
 
-The dead cease being:
+The state finally answers the question person by person rather than
+population by population.
 
-**the marchers / Catholics / nationalists / republicans / Bogside crowd**
+There is a larger principle here:
 
-and become individual people again.
-
-Possible analytical line:
-
-> Individualise responsibility.
+> **Individualise responsibility.**
 >
-> Individualise innocence too.
+> **Individualise innocence too.**
 
----
+------------------------------------------------------------------------
 
-## 🫀 10. "I Remember The Room"
+## 🫀 10. I Remember The Room
 
-Survivor-author section.
+This is the bit that cannot be reconstructed from Hansard alone.
 
-Do not overclaim proximity.
+I remember this.
 
-Possible structure:
+Again: not Bloody Sunday itself.
 
-- I was not there.
-- It is not my bereavement.
-- I cannot inherit someone else's direct experience merely by having Irish family history.
-- But I remember this happening in my own lifetime.
-- I remember approximately where I was when I watched the news.
-- That memory tells me something about the social magnitude of the moment.
+I remember **2010**.
 
-Explain why the televised/audio record matters.
+I remember the report coming out. I remember Cameron's statement being
+news. I can approximately locate myself in a particular living room
+watching it.
 
-Hansard preserves the constitutional act.
+I remember understanding that it mattered.
 
-Footage preserves:
+There are events whose later chronology becomes deceptively neat:
 
-- voice;
-- hesitation/emphasis;
-- parliamentary response;
-- people in Derry hearing it;
-- the embodied reception of state recognition.
+`1972 — Bloody Sunday`\
+`1998 — Saville Inquiry established`\
+`2010 — Saville report published; Prime Minister apologises`
 
-Possible line:
+All correct.
 
-> A chronology can tell you that the Prime Minister apologised on 15 June 2010.
->
-> It cannot, by itself, tell you why people remember the fucking living room.
+Completely inadequate.
 
----
+A chronology cannot tell you why somebody remembers the fucking room.
+
+It cannot quite communicate what it meant to watch men who had spent
+decades campaigning finally hear the British state say that their
+brothers, sons and relatives had not been doing anything that justified
+being shot.
+
+It cannot communicate what 38 years feels like when the argument is
+attached to somebody's name.
+
+This is where the distinction between **knowing** and **being officially
+vindicated** matters.
+
+Those families did not discover their relatives' innocence in 2010.
+
+They had been saying it.
+
+The state changed its answer.
+
+Sometimes vindication is not learning that you were innocent.
+
+You already knew.
+
+Your family knew.
+
+Your community may have known.
+
+The thing you spent decades waiting for was **the institution that
+possessed the power to call you guilty finally losing the power to keep
+calling you guilty.**
+
+That is why the moment matters beyond Cameron as an individual
+politician.
+
+I can disagree profoundly with other decisions made by Cameron and his
+governments and still recognise the constitutional and emotional
+significance of this act.
+
+The person is not the principle.
+
+The record remains.
+
+------------------------------------------------------------------------
 
 ## 🔁 11. Trust Goes Both Ways
 
-Major conceptual section.
+Institutional trust is often framed as a problem located inside the
+population.
 
-### The conventional question
+Why don't these people trust government?
 
-Why don't these people trust:
+Why don't they trust the Army?
 
-- government?
-- Army?
-- police?
-- inquiry?
-- courts?
-- state institutions?
+Why don't they trust police?
 
-### Reverse the arrow
+Why don't they trust inquiries?
 
-> Did the institution demonstrate that it trusted them as citizens?
+Why don't they trust official accounts?
 
-Trust includes treating people as individuals rather than primarily as members of a suspect population.
+Bloody Sunday reverses the arrow.
 
-### The legitimacy loop
+> **Did the state demonstrate that it trusted them?**
 
-state categorises population as suspect
-→ population experiences extraordinary coercion
-→ trust falls
-→ protest/resistance/disengagement increases
-→ institution observes hostility
-→ hostility is interpreted as confirmation of suspicion
-→ coercion increases.
+A government demonstrates trust in its citizens partly by granting them
+ordinary civic standing as individuals rather than processing them
+primarily as members of a suspect population.
 
-Do not claim this explains the entire Troubles.
+That becomes very basic here.
 
-Use it as a systems mechanism.
+You went on a civil-rights march.
 
-### Core proposition
+You are Catholic.
 
-> If government expects citizens to trust that it will protect them, government has a fairly fucking basic reciprocal obligation not to presume that citizens deserved to die merely because of the political population into which it has categorised them.
+You are nationalist.
 
----
+You are republican.
+
+You know somebody in the IRA.
+
+You sympathise with some republican political objectives.
+
+You live in a republican area.
+
+You are actually an IRA member.
+
+Those are not interchangeable statements.
+
+And none, standing alone, establishes that you presented a lethal threat
+when somebody shot you.
+
+The state was asking populations in Northern Ireland to accept the
+legitimacy of British institutions.
+
+But legitimacy is reciprocal.
+
+If your Army kills somebody's relative and your official account then
+leaves suspicion hanging over whether that person had effectively
+brought it upon themselves, you cannot treat the resulting distrust as a
+mysterious defect in the population.
+
+Government behaviour generates information.
+
+People observe it.
+
+They update their expectations.
+
+Their changed behaviour then becomes information received by government.
+
+A dangerous loop can emerge:
+
+**state treats population as suspect**\
+→ **population has less reason to trust state**\
+→ **protest, resistance or disengagement increases**\
+→ **state observes hostility**\
+→ **hostility is interpreted as confirmation of the original
+suspicion**\
+→ **population is treated as still more suspect.**
+
+That does not explain the whole Troubles.
+
+It is a systems mechanism operating inside them.
+
+And it gives us a fairly basic legitimacy principle:
+
+> **If a government wants citizens to trust that it will protect them,
+> government has a reciprocal obligation not to presume that citizens
+> deserved to die merely because of the political population into which
+> it has categorised them.**
+
+The state does not get to make innocence conditional upon political
+agreeableness.
+
+You do not have to like the march.
+
+You do not have to like republicanism.
+
+You do not have to agree with somebody's politics.
+
+You can think somebody was being an absolute fucking pain in the arse to
+the British state.
+
+None of those things answers whether the state was entitled to shoot
+them.
+
+------------------------------------------------------------------------
 
 ## 🪪 12. The State Has Power Over Your Name
 
-Connect Bloody Sunday to a wider class of institutional repair without wandering into separate case studies.
+Bloody Sunday belongs to a wider class of institutional repair.
 
-Possible comparator:
+The harms are not equivalent, but the information mechanism appears
+elsewhere.
 
-historical convictions for consensual sex between men.
+Britain has had to revisit historical convictions imposed on men for
+consensual sexual relations with other men. Pardons and disregard
+schemes matter partly because the state once attached the status
+**criminal** to conduct it later recognised should not have been
+criminalised.
 
-The common mechanism is NOT equivalence of harms.
+The mechanism is:
 
-It is:
+**state attaches wrongful information or status to person**\
+→ **status survives**\
+→ **later state action is required formally to remove, disregard or
+repudiate it.**
 
-**the state attaches wrongful information/status to a person → that status survives → later state action is required to formally remove or repudiate it.**
+That is different from merely saying:
 
-Distinguish:
+> We would not do this now.
 
-- knowing yourself to be innocent;
-- community recognition of innocence;
-- historical evidence;
-- official exoneration;
-- pardon;
-- disregard;
-- apology;
-- compensation;
-- criminal accountability.
+It is also different from:
 
-These mechanisms do different things.
+> We regret that people were upset.
 
-### Core proposition
+Formal vindication can matter even when the person concerned is dead
+because the institution which created the record possesses a particular
+responsibility for correcting it.
 
-> Sometimes vindication is not learning that you were innocent.
->
-> You already knew.
->
-> It is the institution that possessed the power to call you guilty finally losing the power to keep calling you guilty.
+Bloody Sunday is an especially painful version because the contested
+status became attached to people who could no longer answer for
+themselves.
 
----
+The relatives had to do it.
+
+For decades.
+
+------------------------------------------------------------------------
 
 ## 🧱 13. An Apology Is Not A Time Machine
 
-Very important.
+There is a very easy way to tell this history badly:
 
-Do not turn:
+**Britain did terrible thing → Britain investigated → Britain apologised
+→ reconciliation achieved 🌈**
 
-1972 harm → 2010 apology → 🌈 reconciliation.
+No.
 
-Separate:
+Truth is not apology.
 
-- truth;
-- official recognition;
-- apology;
-- individual criminal liability;
-- institutional responsibility;
-- compensation;
-- reform;
-- grief;
-- forgiveness;
-- reconciliation.
+Apology is not criminal liability.
 
-The state can apologise.
+Criminal liability is not institutional responsibility.
 
-The state cannot:
+Institutional responsibility is not compensation.
 
-- make somebody forgive;
-- accept the apology on behalf of Derry;
-- restore a dead relative;
-- return 38 years;
-- decree reconciliation.
+Compensation is not reform.
 
-Possible formulation:
+Reform is not grief.
 
-> The perpetrating institution can perform recognition and restoration.
->
-> It cannot compel reconciliation.
+Grief is not forgiveness.
 
----
+Forgiveness is not reconciliation.
 
-## 🪖 14. You Don't Defend The Army By Defending The Indefensible
+These processes can interact.
 
-Bring the folder theme fully forward here.
+They do not substitute automatically for one another.
 
-This is the transferable military principle.
+The British government could apologise for the actions of the state.
 
-A military force will sometimes:
+It could accept Saville.
 
-- make mistakes;
-- receive bad orders;
-- operate on bad information;
-- lose discipline;
-- commit unlawful acts;
-- produce misleading accounts;
-- become entangled with political failure.
+It could correct the official record.
 
-The state's choices afterwards matter.
+It could acknowledge the innocence of the casualties.
 
-### Bad institutional defence
+It could not accept that apology on behalf of Derry.
 
-"Admitting this will damage the Army."
+It could not order somebody to forgive.
 
-### Better institutional defence
+It could not restore the dead.
 
-A professional military's legitimacy depends partly upon its capacity to:
+It could not give the families 38 years back.
 
-- investigate;
-- distinguish justified from unjustified force;
-- identify command failure;
-- acknowledge civilian innocence;
-- correct false records;
-- learn;
-- reform.
+The perpetrating institution can perform recognition and restoration.
 
-Accountability is not necessarily the opposite of institutional loyalty.
+**It cannot compel reconciliation.**
 
-Sometimes it is a requirement of it.
+------------------------------------------------------------------------
 
----
+## ⚖️ 14. Saville Was Not A Criminal Trial
 
-## 🌍 15. The Transferable Lesson — Without Flattening Conflicts
+The distinction between truth-finding and criminal liability became
+increasingly important after 2010.
 
-This is where Palestine/Israel, the United States, colonial policing and other militaries can be acknowledged WITHOUT being adjudicated here.
+Saville was a public inquiry, not a criminal court determining
+individual guilt beyond reasonable doubt.
 
-Explicit methodological rule:
+In 2019, the Public Prosecution Service for Northern Ireland decided to
+prosecute one former soldier, Soldier F, for two murders and several
+attempted murders connected with Bloody Sunday.
 
-**analogy supplies questions, not predetermined answers.**
+After years of complex proceedings, Soldier F was acquitted on 23
+October 2025. The PPS emphasised the legal and evidential difficulties
+inherent in the case, including problems concerning the admissibility
+and reliability of statements taken from soldiers in 1972. [^20]
 
-Questions Bloody Sunday teaches us to ask elsewhere:
+In January 2026, the PPS also upheld decisions not to prosecute eight
+former soldiers over allegations of false evidence. Again, a central
+problem was that material relied upon by the Bloody Sunday Inquiry would
+not necessarily be admissible in a criminal prosecution. [^21]
 
-1. How is the civilian population being categorised?
-2. Are political identity and armed status being collapsed?
-3. Is geography being used as a proxy for threat?
-4. Is association being substituted for individual conduct?
-5. What information are soldiers repeatedly receiving about the population?
-6. What rules govern lethal force?
-7. What happens when those rules fail?
-8. Are civilian deaths investigated as individual events?
-9. Whose testimony receives credibility?
-10. Can the military/state publicly conclude that its own personnel acted wrongly?
+This does not retrospectively turn Saville into Widgery.
+
+It demonstrates that different institutions answer different questions
+under different evidential rules.
+
+A public inquiry can establish an authoritative historical and
+institutional account without that automatically producing a criminal
+conviction against an identified individual.
+
+The decades of delay also matter here.
+
+Evidence ages.
+
+Witnesses die.
+
+Memories change.
+
+Documents disappear.
+
+Rules governing admissibility remain rules governing admissibility.
+
+Delayed accountability can therefore help create the conditions in which
+later criminal accountability becomes more difficult.
+
+Another reason why **eventually** is not an adequate justice policy.
+
+------------------------------------------------------------------------
+
+## 🪖 15. You Don't Defend The Army By Defending The Indefensible
+
+This is why Bloody Sunday belongs in `🫀_Grieving_Charlie_Foxtrots`.
+
+Military forces are human institutions operating under conditions where
+errors can become catastrophic.
+
+They can receive bad orders.
+
+They can act on bad information.
+
+Commanders can misjudge situations.
+
+Soldiers can become frightened.
+
+Units can lose discipline.
+
+Individuals can commit crimes.
+
+People can lie afterwards.
+
+Governments can respond badly.
+
+Investigations can fail.
+
+None of that means a military institution has no legitimate purpose.
+
+It means **military legitimacy cannot sensibly depend upon pretending
+these things are impossible**.
+
+Cameron's 2010 formulation remains useful because it separates two
+propositions that are too often collapsed:
+
+**supporting the Army**
+
+and
+
+**defending every action ever taken by somebody wearing its uniform.**
+
+They are not the same.
+
+Sometimes institutional loyalty requires saying:
+
+that order should not have been given;
+
+those shots were not justified;
+
+those civilians were innocent;
+
+those accounts were false;
+
+our previous institutional account was wrong;
+
+government bears responsibility;
+
+we are sorry.
+
+That does not erase everyone who served honourably.
+
+It protects the possibility that honour means something.
+
+------------------------------------------------------------------------
+
+## 🌍 16. The Transferable Lesson
+
+Bloody Sunday is British history.
+
+It is also useful beyond Britain.
+
+Not because every military conflict is secretly Northern Ireland.
+
+Not because Gaza is Derry.
+
+Not because American policing is the British Army.
+
+Not because colonial policing, counterinsurgency, occupation,
+peacekeeping and domestic public-order operations are interchangeable.
+
+They are not.
+
+The analogy supplies **questions**, not predetermined answers.
+
+When another military or coercive institution operates among a civilian
+population, Bloody Sunday teaches us to ask:
+
+1.  How is the civilian population being categorised?
+2.  Are political identity and armed status being collapsed?
+3.  Is geography functioning as a proxy for threat?
+4.  Is association substituting for individual conduct?
+5.  What information are soldiers repeatedly receiving about the
+    population?
+6.  What rules govern the use of lethal force?
+7.  What happens when those rules fail?
+8.  Are civilian deaths investigated as individual events?
+9.  Whose testimony receives credibility?
+10. Can the institution publicly conclude that its own personnel acted
+    wrongly?
 11. How quickly can incorrect institutional information be corrected?
-12. Does national/military loyalty make acknowledgement harder?
+12. Does military or national loyalty make acknowledgement harder?
 13. Who bears political responsibility?
 14. What does the affected population learn from the state's response?
 
-Potential line:
+That is where this history can inform examination of other militaries,
+including the Israel Defense Forces and the treatment of Palestinians,
+without lazily declaring two very different conflicts identical.
 
-> The uniform changes.
->
-> The evidential question does not:
->
-> **What was this individual doing when state force was used against them?**
+The recurring danger is **group information replacing individual
+information**.
 
----
+The recurring legitimacy question is whether the state can recognise the
+humanity and civic standing of the population over which it exercises
+coercive power.
 
-## 🛰️ 16. Do Not Turn The Civilian Into The Security Environment
+And the evidential question remains brutally simple:
 
-This may actually become the concluding analytical section.
+> **What was this individual doing when state force was used against
+> them?**
+
+------------------------------------------------------------------------
+
+## 🛰️ 17. Do Not Turn The Civilian Into The Security Environment
 
 The Troubles were violent.
 
 The IRA existed.
 
+The Official IRA existed.
+
+Loyalist paramilitaries existed.
+
 British soldiers were killed.
 
 Police officers were killed.
 
-Loyalist paramilitaries existed.
-
-Republican paramilitaries existed.
+Civilians were killed.
 
 Fear was real.
 
-None of those facts answers whether an individual civilian was lawfully shot.
+Confusion was real.
 
-Core distinction:
+None of those statements answers whether an individual civilian was
+lawfully shot on Bloody Sunday.
 
-**context can explain institutional failure without transferring responsibility for that failure onto an innocent person.**
+That distinction is the node.
 
-Possible closing line:
+A difficult security environment can explain why an institution failed.
 
-> "We were operating in an extraordinarily difficult security environment" can help explain how something went wrong.
->
-> It cannot turn the person wrongly killed into the security environment.
+It cannot automatically justify the failure.
 
----
+And it cannot transfer responsibility for that failure onto an innocent
+person simply because the person belonged to a population the
+institution had learned to associate with danger.
 
-## 🧭 17. What Comes After Bloody Sunday?
+The state cannot reasonably demand:
 
-Route rather than expand.
+> **Trust us.**
 
-Potential future `🫀_Grieving_Charlie_Foxtrots` siblings:
+while reserving the right to answer:
 
-- military/public-order deployments;
-- colonial policing and inherited doctrine;
-- state apologies and institutional repair;
-- delayed inquiries;
-- wrongful categorisation of civilians;
-- "supporting the troops" versus defending wrongdoing;
-- comparative military legitimacy;
-- asymmetric policing;
-- what populations learn from extraordinary state power.
+> **Perhaps your brother deserved it.**
 
-Potential separate cross-links rather than sibling duplication:
+for 38 years.
 
-- Spycops;
-- embodied information ecology;
-- institutional trust;
-- dehumanisation;
-- Palestine/IDF analysis;
-- US policing/military history;
-- historical Irish racialisation.
+Trust is not an instruction issued downwards.
 
----
+Legitimacy is a relationship.
 
-## 🔬 Research Still Needed
+If government expects a population to accept the authority of its
+institutions, those institutions must be capable of recognising when
+they have wronged members of that population --- individually, publicly
+and truthfully.
 
-Before drafting, build a proper source pack for:
+In 2010, Britain finally did that in relation to Bloody Sunday.
 
-### Bloody Sunday itself
-- Saville principal conclusions;
-- relevant full-report chapters;
-- casualty-by-casualty findings;
-- Army orders and command decisions;
-- march/public-order chronology.
+It mattered.
 
-### Widgery
-- original report;
-- Heath Commons response;
-- exact language around weapons/suspicion;
-- contemporary criticism;
-- family/community response.
+It did not fix everything.
 
-### 1972–1998
-- Bloody Sunday Initiative / family campaigns;
-- Irish government material;
-- evidential developments;
-- political decision for new inquiry.
+Both of those things can be true.
 
-### 1998–2010
-- inquiry remit;
-- witnesses;
-- hearings;
-- costs;
-- duration;
-- procedural disputes.
+------------------------------------------------------------------------
 
-### 15 June 2010
-- Commons Hansard;
-- Cameron statement;
-- Mark Durkan;
-- opposition responses;
-- other Northern Irish MPs;
-- contemporary footage;
-- reaction in Derry.
+## 🔬 18. Research Still To Fold In
+
+This first version deliberately leaves several research seams open
+rather than teaching Future Robit a lie.
 
 ### Historical environment
-- anti-Irish discrimination;
-- anti-Catholic discrimination;
-- racialisation scholarship;
-- "Fenian N-word" — sourced history/context, censored in prose;
-- "No Blacks, No Dogs, No Irish" — actual documentary prevalence rather than cultural repetition.
 
-### After Saville
-- criminal proceedings;
-- Soldier F;
-- evidential consequences of delay;
-- subsequent state/legal processes;
-- what remained unresolved after apology.
+-   stronger academic sourcing on anti-Irish racialisation in Britain;
+-   anti-Catholic and sectarian discrimination in Northern Ireland;
+-   careful history and documented use of the "Fenian N-word";
+-   material history and prevalence of literal "No Blacks, No Dogs, No
+    Irish" signage.
 
----
+### Bloody Sunday chronology
 
-## 📚 Primary Source Spine
+-   fuller minute-by-minute march and shooting sequence;
+-   command structure and exact arrest-operation orders;
+-   casualty-by-casualty findings;
+-   maps where useful;
+-   contemporaneous medical and photographic evidence.
 
-- UK Parliament, Hansard — *Saville Inquiry*, House of Commons, 15 June 2010.
-- Bloody Sunday Inquiry — *Report of the Bloody Sunday Inquiry*, 15 June 2010.
-- Bloody Sunday Inquiry — *Principal Conclusions and Overall Assessment*, 15 June 2010.
-- Widgery Tribunal — original 1972 report.
-- House of Commons — government response to Widgery, April 1972.
-- Relevant archival material from The National Archives.
-- Later PPSNI/court material where post-Saville criminal proceedings are discussed.
+### Widgery → Saville
 
-Secondary scholarship gets added around this spine rather than replacing it.
+-   fuller treatment of the families' campaign;
+-   contemporary criticism of Widgery;
+-   Irish government submissions;
+-   new evidence emerging before 1998;
+-   peace-process context for Blair's decision;
+-   criticism and defence of Saville's duration and cost.
 
----
+### 15 June 2010
 
-## 🧠 Claims Discipline
+-   reactions in Derry;
+-   full parliamentary response;
+-   contemporary television and Associated Press/archive footage;
+-   further family testimony about what formal exoneration meant.
 
-Keep visibly separate:
+### Comparative routing
 
-**Established by inquiry/report**
-→ state what the authoritative source found.
+Keep separate nodes for:
 
-**Contemporary allegation/account**
-→ attribute it.
+-   colonial policing;
+-   undercover policing / Spycops;
+-   asymmetric political policing;
+-   Palestine / IDF civilian categorisation;
+-   American racialised policing;
+-   historical pardons and state restoration of status.
 
-**Later historical scholarship**
-→ identify scholar/source.
+Do not make Bloody Sunday carry every state failure in one backpack.
 
-**Polaris analysis**
-→ make clear that this is our interpretation of the mechanism.
+------------------------------------------------------------------------
 
-**Survivor-author reflection**
-→ preserve it as reflection; do not pretend it is evidence of 1972.
+## 📚 Sources
 
-**Comparative inference**
-→ use Bloody Sunday to generate questions for another case, not to assume the other case has the same answer.
+-   [UK Parliament: "Saville Inquiry" --- House of Commons, 15 June
+    2010](https://hansard.parliament.uk/commons/2010-06-15/debates/10061522000002/SavilleInquiry)
+-   [Bloody Sunday Inquiry: "Report of the Bloody Sunday Inquiry" --- 15
+    June
+    2010](https://www.gov.uk/government/publications/report-of-the-bloody-sunday-inquiry)
+-   [Bloody Sunday Inquiry: "Principal Conclusions and Overall
+    Assessment"](https://assets.publishing.service.gov.uk/media/5a7580c6e5274a1242c9ed33/0030.pdf)
+-   [Prime Minister's Office: "PM: Statement on Saville Inquiry" --- 15
+    June
+    2010](https://www.gov.uk/government/news/pm-statement-on-saville-inquiry)
+-   [UK Parliament: "Northern Ireland (Widgery Tribunal Report)" ---
+    House of Commons, 19 April
+    1972](https://hansard.parliament.uk/commons/1972-04-19/debates/79911edd-f607-45a6-a119-ce48a7ff58ec/NorthernIreland%28WidgeryTribunalReport%29)
+-   [GOV.UK: Bloody Sunday Inquiry --- About
+    us](https://www.gov.uk/government/organisations/bloody-sunday-inquiry/about)
+-   [The National Archives: Bloody Sunday Inquiry (Saville Inquiry)
+    archive](https://discovery.nationalarchives.gov.uk/details/r/C11669677)
+-   [Public Prosecution Service for Northern Ireland: "PPS statement
+    regarding acquittal of Soldier F" --- 23 October
+    2025](https://www.ppsni.gov.uk/news/pps-statement-regarding-acquittal-soldier-f)
+-   [Public Prosecution Service for Northern Ireland: review of
+    false-evidence prosecution decisions --- 28 January
+    2026](https://www.ppsni.gov.uk/news/pps-upholds-decisions-not-prosecute-former-soldiers-relation-allegations-false-evidence)
 
----
+------------------------------------------------------------------------
 
 ## 🌌 Constellations
 
-☘️ 🫀 🪖 🔁 🕯️ — Irish historical memory; military legitimacy; civilian individuality; reciprocal institutional trust; delayed recognition.
+☘️ 🫀 🪖 🔁 🕯️ --- Irish historical memory; military legitimacy;
+civilian individuality; reciprocal institutional trust; delayed
+recognition.
 
----
+------------------------------------------------------------------------
 
 ## ✨ Stardust
 
-bloody sunday, northern ireland, british army, military legitimacy, civilian protection, institutional trust, state responsibility, racialisation, saville inquiry, historical memory
+bloody sunday, northern ireland, british army, military legitimacy,
+civilian protection, institutional trust, state responsibility, saville
+inquiry, widgery tribunal, historical memory
 
----
+------------------------------------------------------------------------
 
 ## 🏮 Footer
 
-[Build after sibling-node routing is clearer.]
+*☘️ Bloody Sunday, 1972* is a living node of the **Polaris Protocol**
+and an opening worked case in `🫀_Grieving_Charlie_Foxtrots`. It
+examines what military and democratic legitimacy require when state
+force wrongfully harms civilians, and what is lost when official
+suspicion is allowed to survive the people who were killed.
 
-The eventual footer should situate this as the opening worked case in `🫀_Grieving_Charlie_Foxtrots`: not an argument against military institutions as such, but an examination of what institutional loyalty requires when state force has wrongfully harmed civilians.
+> 📡 Cross-references:
+>
+> -   [🫀 Grieving Charlie Foxtrots](./README.md) --- *parent cluster
+>     for military grief, institutional accountability and the
+>     difference between defending a force and defending the
+>     indefensible*
+> -   [🌊 Playing Defence](../README.md) --- *wider defence, security
+>     and institutional-learning cluster*
+>
+> 🏮 Return To:
+>
+> -   [🫀 Grieving Charlie Foxtrots](./README.md) --- *1up*
+> -   [🌊 Playing Defence](../README.md) --- *2up*
+> -   [📲 Press Matters](../../README.md) --- *3up*
+> -   [🌓 In The Moment](../../../README.md) --- *4up*
+> -   [🌌 Polaris Protocol --- Root](../../../../README.md) --- *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
+
+*Last updated: 2026-09-30*
+
+[^1]: Bloody Sunday Inquiry, *Principal Conclusions and Overall
+    Assessment*, 15 June 2010.
+
+[^2]: David Cameron, statement to the House of Commons on the Saville
+    Inquiry, 15 June 2010.
+
+[^3]: Prime Minister's Office, *The Bloody Sunday Inquiry*, 15 June
+    2010.
+
+[^4]: *Report of the Bloody Sunday Inquiry*, Volume I, General
+    Introduction.
+
+[^5]: Bloody Sunday Inquiry, *Principal Conclusions and Overall
+    Assessment*, 15 June 2010.
+
+[^6]: Bloody Sunday Inquiry, *Principal Conclusions and Overall
+    Assessment*, 15 June 2010.
+
+[^7]: David Cameron, statement to the House of Commons on the Saville
+    Inquiry, 15 June 2010.
+
+[^8]: Edward Heath, statement on the Widgery Tribunal Report, House of
+    Commons, 19 April 1972.
+
+[^9]: Edward Heath, statement on the Widgery Tribunal Report, House of
+    Commons, 19 April 1972.
+
+[^10]: Bloody Sunday Inquiry, GOV.UK, *About us*.
+
+[^11]: *Report of the Bloody Sunday Inquiry*, Volume I, General
+    Introduction.
+
+[^12]: *Report of the Bloody Sunday Inquiry*, Volume I, General
+    Introduction.
+
+[^13]: Bloody Sunday Inquiry, *Report of the Bloody Sunday Inquiry*, ten
+    volumes, 15 June 2010.
+
+[^14]: Bloody Sunday Inquiry, *Principal Conclusions and Overall
+    Assessment*, 15 June 2010.
+
+[^15]: David Cameron, statement to the House of Commons on the Saville
+    Inquiry, 15 June 2010.
+
+[^16]: David Cameron, statement to the House of Commons on the Saville
+    Inquiry, 15 June 2010.
+
+[^17]: House of Commons Hansard, *Saville Inquiry*, 15 June 2010,
+    including Mark Durkan MP's response.
+
+[^18]: David Cameron, statement to the House of Commons on the Saville
+    Inquiry, 15 June 2010.
+
+[^19]: House of Commons Hansard, *Saville Inquiry*, 15 June 2010,
+    including Mark Durkan MP's response.
+
+[^20]: Public Prosecution Service for Northern Ireland, statement
+    regarding the acquittal of Soldier F, 23 October 2025.
+
+[^21]: Public Prosecution Service for Northern Ireland, review of
+    decisions concerning allegations of false evidence, 28 January 2026.
