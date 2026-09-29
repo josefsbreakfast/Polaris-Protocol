@@ -298,3 +298,53 @@ If somebody experiencing abuse now looks backwards and sees women spending fifty
 So justice isn’t only backwards-facing. The way a society handles old violence forms part of the information environment in which somebody experiencing violence today decides whether anybody will believe them, whether reporting is worth it, and whether institutions will actually persist when accountability becomes inconvenient.
 
 That feels extremely at home in this folder, because it turns 🌹🧸 from a historical archive into an argument about why unfinished historical justice has present-tense consequences.”
+
+“Yes. I think you’ve found the larger argument of the folder. And some of the historical evidence makes it stronger, while I’d tighten a couple of joins.
+
+The Atwood connection is solid. She has repeatedly explained her rule for The Handmaid’s Tale: she would not put into Gilead a practice that did not have a historical precedent somewhere.   The useful move here, though, is to turn the comparison around. The question isn’t only, “Could something Gilead-like happen to women like us?” It’s also: “Which parts have already happened to women like us, and why have we mentally filed those histories somewhere else?”
+
+That matters particularly on these islands because it complicates a comforting distance from reproductive authoritarianism. Colonialism, sectarianism, class and institutional religion all matter enormously to the Irish history. But they don’t exhaust the explanation. In Ireland’s investigated homes alone, 5,616 residents whose ages were known were under 18; pregnancies included those resulting from rape, while many other residents differed from their peers principally because they became pregnant outside marriage.   England and Wales then provide a useful comparison population: the JCHR concluded that unmarried women were treated as sexual and social “transgressors”, subjected to shame and stigma, and frequently left without a meaningful choice about adoption.  
+
+And I think I found the contemporary parliamentary remark you were half-remembering. In February 2026, Jess Asato MP challenged the language that unmarried mothers simply “fall” pregnant:
+
+“unmarried mothers did not have an immaculate conception.”
+
+Her point was precisely yours: there was another person involved—a man, and records should be interrogated for fathers and for pregnancies resulting from sexual abuse.  
+
+There is an older Irish formulation that is even more brutal. Reporting from 1968 described the unmarried father as going “completely free”, while the girl vanished to England or behind the walls of a home.   That asymmetry deserves to be one of the folder’s organising questions: where are the men in the administrative record? A system can turn pregnancy into evidence of female moral transgression while treating the male contribution as almost administratively optional.
+
+Your England comparison is important for another reason. It prevents the explanation becoming “peculiarly Irish Catholic pathology.” The JCHR found a mixed system in England and Wales involving local government, the NHS, social workers, the Church of England, Catholic organisations, the Salvation Army and families. It explicitly concluded that the state was ultimately responsible for failures to protect women and babies.   That’s very useful comparative evidence: different religious, national and institutional configurations can produce recognisably similar gendered outcomes.
+
+And the detail you remembered about getting the baby back is particularly revealing. Legally, under the 1949 regime, a birth mother retained a right to reclaim her child during the period before the adoption order. But the JCHR heard that shame, stigma, guilt and the momentum of the process could make reversing course extraordinarily difficult. It explicitly warns against interpreting the eventual signature on adoption papers as evidence that women freely wanted the separation.  
+
+That gives you a distinction I think could become very useful elsewhere in Polaris:
+
+social nonconformity ≠ safeguarding risk.
+
+A poor mother is not thereby a dangerous mother. An unmarried mother isn’t a dangerous mother. A working-class household that offends middle-class ideas about decorum isn’t necessarily unsafe. And, today, neither disability, unconventional family structure nor membership of another stigmatised population is itself evidence that a child is unsafe. That doesn’t undermine safeguarding; it demands better safeguarding, because intervention should track evidence of harm and risk rather than dislike of how somebody lives.
+
+I’d be a little more careful with the witchcraft → mother-and-baby homes genealogy. There absolutely is a long history of gendered regulation and misogynistic ideas about female sexuality, including in Britain and Ireland. But I’d resist drawing one straight institutional descent from James VI/I or the Malleus Maleficarum into twentieth-century adoption policy without doing the intermediary historical work. (And one small correction: the Malleus Maleficarum predates James by about a century; his own major witchcraft text was Daemonologie.) That’s actually a richer research question if we don’t prematurely make the line continuous.
+
+Similarly, I’d treat Savile and grooming as comparative tests of the proposed mechanism rather than saying this history caused either phenomenon. There were multiple investigations into Savile across NHS, BBC, school and children’s-home contexts.   The interesting research question is narrower and more defensible: did recurring cultural assumptions about which girls were credible, respectable, sexually innocent, troublesome or disposable make particular victims easier for perpetrators and institutions to disregard? Then you can test it against inquiry evidence rather than having the node outrun what can be established.
+
+And that brings the whole thing back beautifully to 🌹🧸.
+
+The folder isn’t really asking Britain or Ireland to feel sufficiently guilty about the twentieth century. It’s asking:
+
+What did these systems have to believe about girls for this treatment to make sense to them?
+
+What did they have to believe about unmarried women?
+
+What did they believe about poor women?
+
+Where did the men disappear to when responsibility was allocated?
+
+Which of those assumptions disappeared with the institutions—and which merely changed vocabulary?
+
+And then, crucially:
+
+How can you build contemporary VAWG and safeguarding systems without finding out?
+
+Because otherwise Your Baby Does Not Just Disappear becomes almost literal information-ecology analysis. The baby didn’t disappear. Responsibility did. It was distributed among family, church, doctor, social worker, institution, adoption agency, state, receiving family and social convention until apparently nobody had done it.
+
+And decades later, survivors are left trying to put the causal chain back together. That is an extraordinarily Polaris-shaped problem.”
