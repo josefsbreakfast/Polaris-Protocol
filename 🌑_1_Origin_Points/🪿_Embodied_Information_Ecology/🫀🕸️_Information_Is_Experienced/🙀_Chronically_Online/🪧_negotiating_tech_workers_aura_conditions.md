@@ -189,6 +189,8 @@ This node does **not** currently have evidence that the dating problem described
 
 It looks structurally different.
 
+A useful working description is **distributed reputational sorting**: many people independently interpret the same employer or industry signal and make their own compatibility decisions, without coordinating with one another or issuing a shared demand.
+
 There need be no organisation.
 
 No manifesto.
@@ -788,6 +790,43 @@ That matters here because a worker may face two simultaneous problems:
 Visible worker resistance may therefore do more than pressure management.
 
 It may create information.
+
+### 🔕 Chilled speech corrupts the telemetry
+
+This becomes more serious in sectors where workers believe whistleblowing, leaking, public dissent, or even candid internal disagreement can carry unusual professional, legal, security-clearance, reputational, or career consequences.
+
+The point is not that every restriction is illegitimate. Defence, security and commercially sensitive work can create real confidentiality obligations.
+
+The cybernetic problem is narrower:
+
+> **If workers learn that transmitting inconvenient information is dangerous, management loses access to inconvenient information.**
+
+The underlying state does not disappear because the reporting channel has become costly.
+
+It becomes harder to observe.
+
+A company can therefore produce a paradoxical information environment:
+
+```text
+management wants accurate information
+→ worker possesses awkward information
+→ worker anticipates consequences for transmitting it
+→ worker withholds or sanitises signal
+→ management receives cleaner telemetry
+→ management mistakes cleaner telemetry for healthier system
+```
+
+That is not healthier telemetry.
+
+That is **systematically censored telemetry**.
+
+The same mechanism matters externally. If workers cannot safely or credibly say:
+
+> I work here, but I disagree with this.
+
+then outsiders have less information with which to distinguish the worker from the institution.
+
+A tense whistleblower or dissent environment can therefore damage both **management observability** and **worker reputational severability** at the same time.
 
 ### Google and Amazon as comparators, not controls
 
@@ -1671,6 +1710,22 @@ I will include footnotes.
 
 And, most importantly, I will include **spreadsheets containing just enough point errors that Peter Thiel feels compelled to check them personally.**
 
+The point errors are essential.
+
+Not *wrong enough to dismiss*.
+
+Wrong enough that the imagined Peter-interface goes:
+
+> **No.**
+>
+> **No, that's not—**
+>
+> **Why have they weighted this at 0.35?**
+>
+> **Who constructed this model?**
+>
+> **Give me the fucking spreadsheet.**
+
 Not large errors.
 
 That would be too easy.
@@ -1692,6 +1747,10 @@ He cannot leave it like that.
 Meanwhile:
 
 > 🚀 **Elon, look! Yaoi!**
+
+And meanwhile Elon has wandered off after:
+
+> 🚀 **wait why am I the omega**
 
 The diversion has commenced.
 
