@@ -1,5 +1,5 @@
 # 😇 Conservatives Just Asking Questions  
-**First created:** 2026-09-17 | **Last updated:** 2026-09-28  
+**First created:** 2026-09-17 | **Last updated:** 2026-09-29  
 *Written parliamentary questions, institutional collisions, public records, machine-assisted scrutiny, and the constitutional art of making government check its working.*
 
 ---
@@ -1746,7 +1746,7 @@ the parliamentary record, not a complete manual coding of the live corpus.
 📮 📁 🧾 🤖 ⚖️ — RSVP question-routing, Fightback provenance gaps, public-record
 construction, machine-assisted scrutiny, and parliamentary procedure.  
 
-- [HL3613](https://questions-statements.parliament.uk/written-questions/detail/2026-09-16/hl3613) - *Labour Party… is this you blinking twice? Why have you answered a question as if about the assassination of Daphne Caruana Galizia (may her memory be a blessing), next to “what did you do with your Project Cannon dossier”? (HL3163 / HL3613 confusion, one assumes, but can we see how single digit point errors matter now? Direct me at which American suppliers you’re using and we will stack the support ticket for the Americans, if you like. This was what could be fixed even by judicious deployment of doubling VLOOKUP functions.*
+- [HL3613](https://questions-statements.parliament.uk/written-questions/detail/2026-09-16/hl3613) - *Labour Party… is this you blinking twice? Why have you answered a question as if about the assassination of Daphne Caruana Galizia (may her memory be a blessing), next to “what did you do with your Project Cannon dossier”? (HL3163 / HL3613 confusion, one assumes, but can we see how single digit point errors matter now? Direct me at which American suppliers you’re using and we will stack the support ticket for the Americans, if you like. This was what could be fixed even by judicious deployment of doubling VLOOKUP functions.* _**Updated answer as per 2026-09-29**_
 - [📹: The Scouse Oracle, via TikTok: “National Centre for Information defence... who is funding the person on your screen”](https://vm.tiktok.com/ZN8ruJFyc/)
 - [📰: The Telegraph: “Labour spends £1.7m on influencers”](https://www.telegraph.co.uk/politics/2026/09/16/labour-spends-17m-on-influencers/)
 - [📰: Declassified: “JOURNALISTS SECRETLY OFFERED CASH FOR SOCIAL MEDIA POSTS”](https://www.declassifieduk.org/journalists-secretly-offered-cash-for-social-media-posts/) – *and who was heading and involved with Labour Together/Think Labour at this time? 😇*  
@@ -1789,4 +1789,4 @@ the resulting answers to the evidence environment as new RSVPs.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-28_
+_Last updated: 2026-09-29_
