@@ -1,11 +1,12 @@
 # 🪼 Voltaire on Monoculture
 
-**First created:** 2026-09-29 | **Last updated:** 2026-09-29
+**First created:** 2026-09-29 | **Last updated:** 2026-09-29  
 *What happens when a system mistakes difference for failure, then uses
 the instability produced by its own control measures as proof that
 difference was dangerous all along?*
 
 ---
+
 ## 🛰️ Orientation
 
 There is a deceptively simple political story which goes something like
@@ -74,9 +75,8 @@ So: Voltaire first.
 Then we can go and find the little Enoch Powell gremlin hiding behind
 the curtains.
 
-[↑ Back to top](#-voltaire-on-monoculture)
-
 ---
+
 ## 1. ♻️ "These men rebelled when I treated them ill"
 
 Voltaire opens one of the most useful passages in the *Treatise* by
@@ -169,9 +169,8 @@ The missing sentence is:
 
 > **After we did what?**
 
-[↑ Back to top](#-voltaire-on-monoculture)
-
 ---
+
 ## 2. ⏱️ Please Update Your Fucking Model
 
 Voltaire then asks something that sounds almost embarrassingly obvious
@@ -248,9 +247,8 @@ Later he also does something else:
 
 Both moves change what information is visible.
 
-[↑ Back to top](#-voltaire-on-monoculture)
+---  
 
----
 ## 3. 🪼 What If Difference Is Not the Failure State?
 
 Voltaire's more provocative move is not merely to say that minorities
@@ -338,9 +336,8 @@ It also needs mechanisms.
 It also needs an account of what happens when actual people do not
 converge in the expected way.
 
-[↑ Back to top](#-voltaire-on-monoculture)
-
 ---
+
 ## 4. 👅 Please Do Not Cut Out Everyone's Tongues
 
 Voltaire's discussion of language gives us an unusually clean way to
@@ -421,9 +418,8 @@ desired endpoint was assimilation all along.
 
 Those are not the same proposition.
 
-[↑ Back to top](#-voltaire-on-monoculture)
-
 ---
+
 ## 5. 🔌 Integration Is an Interface Problem
 
 Voltaire also reaches for diplomacy.
@@ -501,9 +497,8 @@ So:
 
 > **What are we actually trying to make interoperable?**
 
-[↑ Back to top](#-voltaire-on-monoculture)
-
 ---
+
 ## 6. 🐜 The Ant-Holes
 
 In the section on universal toleration, Voltaire zooms out.
@@ -553,9 +548,8 @@ But there is no view from nowhere.
 Which becomes important when we turn the method back on Voltaire
 himself.
 
-[↑ Back to top](#-voltaire-on-monoculture)
-
 ---
+
 ## 7. 🧠 VOLTAIRE. MATE. APPLY THE FUCKING METHOD.
 
 We do not need Good Enlightenment Man™.
@@ -612,9 +606,8 @@ And occasionally the appropriate scholarly response really is:
 
 > **VOLTAIRE. MATE. APPLY THE FUCKING METHOD.**
 
-[↑ Back to top](#-voltaire-on-monoculture)
-
 ---
+
 ## 8. ☘️ Britain Has, In Fact, Had An Incident
 
 This matters in Britain because the abstract problem is sitting
@@ -756,9 +749,8 @@ The information did not all receive the memo.
 
 Britain is full of it.
 
-[↑ Back to top](#-voltaire-on-monoculture)
-
 ---
+
 ## 9. 🧶 Britain Cannot Quite Get Its Story Straight
 
 There is a further problem.
@@ -892,9 +884,8 @@ Show me yours.
 Because there may be several centuries of missing British history
 sitting between the two sentences.
 
-[↑ Back to top](#-voltaire-on-monoculture)
-
 ---
+
 ## 10. ⏱️ Where You Start the Story Changes What the Story Explains
 
 Northern Ireland makes this brutally obvious.
@@ -954,9 +945,8 @@ Keep that.
 
 We are going to need it immediately.
 
-[↑ Back to top](#-voltaire-on-monoculture)
-
 ---
+
 ## 11. 🏭 👶 They Appear to Continue Existing
 
 Britain has not only experienced immigration.
@@ -1052,15 +1042,16 @@ A labour input does not.
 
 Therefore:
 
-> **A labour-mobility policy is also a population policy, whether or not
-> the system chooses to model it that way.**
+> **A labour-mobility policy is also a population policy, whether or not the system chooses to model it that way.**
 
-[↑ Back to top](#-voltaire-on-monoculture)
 
 ---
-## 12. 👻 The Little Enoch Powell Gremlin
 
-This is where Enoch Powell becomes useful.
+## 12. 👾 The Little Enoch Powell Gremlin
+
+This is where Enoch Powell becomes useful.  
+
+This point is developed after watching [this clip](https://vm.tiktok.com/ZN8rWf8h9/) by JREdwardsArtUK, via TikTok; “You’ve got a ghost..”.  
 
 Not as:
 
