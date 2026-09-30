@@ -78,7 +78,9 @@ institution, or the state directing it, can never be wrong.
 
 Sometimes it will be wrong.
 
-The question is what happens next.
+The question is what happens next.  
+
+(And before yees wang on: this is why we have safe accountability systems when something does go wrong, and it’s also why we train people really well and safe non-combat environments, because the last thing any of us ever want to have in the world I’m sure, if we actually give a fuck about the armed forces, is allowing our soldiers to discharge having potentially been involved in something like this. If we care about them, we don’t want to leave someone in the position of having to resolve that trauma, yes, including in situations where they were the aggressor. So I divvnt want to hear any posturing: you should want to be able to have your forces come home, and not have that on their conscience, simply as a result of an operational objective that you wanted to get done, you see?)  
 
 ---
 
@@ -319,7 +321,17 @@ A useful prior question is:
 
 > **Which version of the institution did they meet?**
 
-------------------------------------------------------------------------
+---
+
+> “Lord Saville also finds that Support Company  
+>  
+> ‘reacted by losing their self-control… forgetting or ignoring their instructions and training’
+>
+> and acted with  
+>
+> ‘a serious and widespread loss of fire discipline’.”  
+
+--- 
 
 ## 🩸 4. 30 January 1972
 
@@ -376,7 +388,17 @@ was confused and why an operation developed as it did.
 
 It cannot turn an unarmed civilian into the security environment.
 
-------------------------------------------------------------------------
+---
+
+> “He finds that  
+>
+> ‘despite the contrary evidence given by the soldiers… none of them fired in response to attacks or threatened attacks by nail or petrol bombers’  
+>
+> and that many of the soldiers  
+>
+> ‘knowingly put forward false accounts in order to seek to justify their firing’.”  
+
+---
 
 ## 📄 5. Widgery: Suspicion Survives The Shooting
 
@@ -432,7 +454,21 @@ some of them remained suspicious by association.
 
 That is an injury in its own right.
 
-------------------------------------------------------------------------
+---
+
+> “What is more, Lord Saville says that some of those killed or injured were clearly fleeing or going to the assistance of others who were dying. The report refers to one person who was shot while  
+>
+> ‘crawling… away from the soldiers’  
+>
+> and mentions another who was shot, in all probability,  
+>
+> ‘when he was lying mortally wounded on the ground’.  
+>
+> And the report refers to a father who was  
+> 
+‘hit and injured by Army gunfire after he had gone to… tend his son’.”  
+
+---
 
 ## 🕯️ 6. Twenty-Six Years To Ask Again
 
