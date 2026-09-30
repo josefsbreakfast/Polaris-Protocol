@@ -606,7 +606,7 @@ But Silicon Valley should perhaps be required to show its working.
 
 *From the tech bros’ GC:*  
 
-- [📰: The Guardian: “OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns“](https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns) – *🤨🤨🤨*  
+- [📰: The Guardian: “OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns“](https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns) – *🤨🤨🤨 This is not a Tamagotchi, Samuel.*  
 
 ---
 
