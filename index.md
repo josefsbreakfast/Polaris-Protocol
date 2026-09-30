@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-30 04:27:18 UTC_
+_Generated on 2026-09-30 04:30:16 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -936,6 +936,7 @@ _Generated on 2026-09-30 04:27:18 UTC_
         - [` 🪁_what_if_starmer_had_kept_pursuing_savile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/ 🪁_what_if_starmer_had_kept_pursuing_savile.md)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/notes.txt)
         - [`🇺🇸_the_supposed_dignity_of_the_presidency.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/🇺🇸_the_supposed_dignity_of_the_presidency.md)
+        - [`🌷🐈‍⬛_pr_managing_that_orange_bastard.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/🌷🐈‍⬛_pr_managing_that_orange_bastard.md)
       - [**🎩_Putting_On_Less_Ritz/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/README.md)
         - [`🇺🇸_dear_america.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🇺🇸_dear_america.md)
