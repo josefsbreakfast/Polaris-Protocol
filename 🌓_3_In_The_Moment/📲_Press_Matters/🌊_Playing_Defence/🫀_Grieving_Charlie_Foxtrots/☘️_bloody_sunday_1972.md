@@ -1437,7 +1437,8 @@ suspicion is allowed to survive the people who were killed.
 
 > 📡 Cross-references:
 >
-> -   [☘️ On Targeting Kneecap And Macklemore](../../🇵🇸_Palestine_Factchecking/🍉_Current_Events/☘️_on_targeting_kneecap_and_macklemore.md) - *how non-acknowledgement and incomplete antiracism praxis harms your people with diaspora identities; why your people come with histories attached that they did not necessarily get an ‘opt-in’ for*  
+> - [☘️ On Targeting Kneecap And Macklemore](../../🇵🇸_Palestine_Factchecking/🍉_Current_Events/☘️_on_targeting_kneecap_and_macklemore.md) - *how non-acknowledgement and incomplete antiracism praxis harms your people with diaspora identities; why your people come with histories attached that they did not necessarily get an ‘opt-in’ for*
+> - [🪖 Training Debrief](../🪖_Training_Debrief/README.md) - *training which is responsive to army need, is part of how we prevent future atrocities; some things cannot be fixed bay some new shiny gizmo*  
 >   
 > 🏮 Return To:
 >
