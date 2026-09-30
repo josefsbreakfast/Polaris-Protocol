@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-30 15:18:17 UTC_
+_Generated on 2026-09-30 16:08:03 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -942,6 +942,7 @@ _Generated on 2026-09-30 15:18:17 UTC_
         - [`🪁_what_if_starmer_had_kept_pursuing_savile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/🪁_what_if_starmer_had_kept_pursuing_savile.md)
       - [**🎩_Putting_On_Less_Ritz/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/README.md)
+        - [`🇦🇺_why_did_you_kick_their_snakes_cousin.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🇦🇺_why_did_you_kick_their_snakes_cousin.md)
         - [`🇺🇸_dear_america.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🇺🇸_dear_america.md)
         - [`🏭_industrial_dispute.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🏭_industrial_dispute.md)
         - [`🐳_see_our_new_deterrence_capability.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🐳_see_our_new_deterrence_capability.md)
