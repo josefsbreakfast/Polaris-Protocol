@@ -134,21 +134,23 @@ We do not know.
 So this is a particularly useful tiny example of the rule this node is
 trying to teach.
 
-  -----------------------------------------------------------------------
-  What we can presently say           What we cannot presently say
-  ----------------------------------- -----------------------------------
-  Photographs show the detained men   Why their shirts were removed.
-  shirtless during the armed police   
-  response.                           
+  ---------------------------------------------------------------------
+  What we can presently say          What we cannot presently say
+  ---------------------------------- ----------------------------------
+  Photographs show the detained men  Why their shirts were removed.
+  shirtless during the armed police  
+  response.                          
 
-  Police were responding to a         Whether shirt removal was
-  suspected explosives incident and   specifically connected to
-  the vehicles subsequently underwent explosives procedures.
-  extensive specialist examination.   
+  Police were responding to a        Whether shirt removal was
+  suspected explosives incident and  specifically connected to
+  the vehicles subsequently          explosives procedures.
+  underwent extensive specialist     
+  examination.                       
 
-  The photographs have become part of Whether any explanation currently
-  public interpretation of the event. circulating online is correct.
-  -----------------------------------------------------------------------
+  The photographs have become part   Whether any explanation currently
+  of public interpretation of the    circulating online is correct.
+  event.                             
+  ---------------------------------------------------------------------
 
 This is also an excellent candidate for later clarification by the
 investigating authority when doing so is operationally and legally
@@ -327,139 +329,147 @@ The following statements operate at different evidential resolutions.
 
 Please do not turn them into each other for convenience.
 
-  ---------------------------------------------------------------------------
-  Statement         What it can          What it does      What additional
-                    establish            **not** establish information would
-                                         by itself         be needed
-  ----------------- -------------------- ----------------- ------------------
-  **Arrested on     Police suspected     A viable bomb     The precise
-  suspicion of      conduct falling      existed; guilt;   suspected offence,
-  Explosives Act    within an            terrorist         evidential basis,
-  offences**        explosives-related   motivation;       forensic findings
-                    offence sufficiently foreign           and subsequent
-                    to make an arrest.   involvement.      charging decision.
+  --------------------------------------------------------------------------
+  Statement         What it can          What it does     What additional
+                    establish            **not**          information would
+                                         establish by     be needed
+                                         itself           
+  ----------------- -------------------- ---------------- ------------------
+  **Arrested on     Police suspected     A viable bomb    The precise
+  suspicion of      conduct falling      existed; guilt;  suspected offence,
+  Explosives Act    within an            terrorist        evidential basis,
+  offences**        explosives-related   motivation;      forensic findings
+                    offence sufficiently foreign          and subsequent
+                    to make an arrest.   involvement.     charging decision.
 
-  **Later arrested  Police suspected     Conviction; that  Evidence
-  on suspicion of   conduct potentially  these men were    concerning
-  section 5         involving            intended to carry conduct,
-  preparation of    intentional          out an eventual   intention,
-  terrorist acts**  preparation to       attack            knowledge,
-                    commit terrorist     personally; Iran; relationships and
-                    acts or assist       a particular      the wider alleged
-                    another to commit    proxy             sequence.
-                    them.                relationship;     
-                                         that petrol was   
-                                         intended to       
-                                         become an IED.    
+  **Later arrested  Police suspected     Conviction; that Evidence
+  on suspicion of   conduct potentially  these men were   concerning
+  section 5         involving            intended to      conduct,
+  preparation of    intentional          carry out an     intention,
+  terrorist acts**  preparation to       eventual attack  knowledge,
+                    commit terrorist     personally;      relationships and
+                    acts or assist       Iran; a          the wider alleged
+                    another to commit    particular proxy sequence.
+                    them.                relationship;    
+                                         that petrol was  
+                                         intended to      
+                                         become an IED.   
 
-  **No IED found**  Specialist           That no crime     Forensic findings
-                    examination did not  occurred; that    and evidence
-                    identify an          the original      explaining the
-                    improvised explosive response was      purpose of the
-                    device.              irrational; that  material and
-                                         section 5         conduct.
-                                         necessarily       
-                                         becomes           
-                                         irrelevant; that  
-                                         fuel or equipment 
-                                         had no other      
-                                         significance.     
+  **No IED found**  Specialist           That no crime    Forensic findings
+                    examination did not  occurred; that   and evidence
+                    identify an          the original     explaining the
+                    improvised explosive response was     purpose of the
+                    device.              irrational; that material and
+                                         section 5        conduct.
+                                         necessarily      
+                                         becomes          
+                                         irrelevant; that 
+                                         fuel or          
+                                         equipment had no 
+                                         other            
+                                         significance.    
 
-  **Petrol          Police recovered     Why it was there; Provenance,
-  recovered**       petrol from the      who owned it;     quantity,
-                    vehicles.            whether it was    equipment,
-                                         stolen; whether   forensic context,
-                                         it was intended   communications and
-                                         as fuel,          evidence of
-                                         accelerant,       intended use.
-                                         evidence of       
-                                         another crime, or 
-                                         something else.   
+  **Petrol          Police recovered     Why it was       Provenance,
+  recovered**       petrol from the      there; who owned quantity,
+                    vehicles.            it; whether it   equipment,
+                                         was stolen;      forensic context,
+                                         whether it was   communications and
+                                         intended as      evidence of
+                                         fuel,            intended use.
+                                         accelerant,      
+                                         evidence of      
+                                         another crime,   
+                                         or something     
+                                         else.            
 
-  **Fuel theft      There is a publicly  That police have  Police findings,
-  reported as an    reported hypothesis  established       evidence of theft,
-  explanation**     that the immediate   ordinary theft;   provenance of
-                    conduct involved     that terrorism is fuel, motive,
-                    stealing fuel.       disproved; that   tasking and
-                                         the reported      intended
-                                         explanation is    destination/use.
-                                         correct.          
+  **Fuel theft      There is a publicly  That police have Police findings,
+  reported as an    reported hypothesis  established      evidence of theft,
+  explanation**     that the immediate   ordinary theft;  provenance of
+                    conduct involved     that terrorism   fuel, motive,
+                    stealing fuel.       is disproved;    tasking and
+                                         that the         intended
+                                         reported         destination/use.
+                                         explanation is   
+                                         correct.         
 
-  **Released on     Continued custody    Exoneration;      Subsequent
-  police bail**     was not used and the guilt;            investigative,
-                    investigation        abandonment of    charging and court
-                    continues under      the terrorism     decisions.
-                    conditions.          investigation;    
-                                         proof that the    
-                                         arrest was wrong. 
+  **Released on     Continued custody    Exoneration;     Subsequent
+  police bail**     was not used and the guilt;           investigative,
+                    investigation        abandonment of   charging and court
+                    continues under      the terrorism    decisions.
+                    conditions.          investigation;   
+                                         proof that the   
+                                         arrest was       
+                                         wrong.           
 
-  **Foreign actor   If accurately        Which actor;      Identity, nature
-  involved**        informed, the        which state;      of relationship,
-                    speaker is asserting Iran; what        evidence, tasking
-                    some relevant        "involved" means; chain and
-                    foreign relationship whether all five  knowledge.
-                    to the incident.     men knew; whether 
-                                         the relationship  
-                                         was direct.       
+  **Foreign actor   If accurately        Which actor;     Identity, nature
+  involved**        informed, the        which state;     of relationship,
+                    speaker is asserting Iran; what       evidence, tasking
+                    some relevant        "involved"       chain and
+                    foreign relationship means; whether   knowledge.
+                    to the incident.     all five men     
+                                         knew; whether    
+                                         the relationship 
+                                         was direct.      
 
-  **Iran-linked**   Almost nothing       Iranian           What the link
-                    precise until        direction; IRGC   actually is:
-                    **linked** is        involvement;      context, target
-                    defined.             knowing proxy     selection,
-                                         status; Iranian   intelligence,
-                                         nationality;      financing,
-                                         ideological       tasking,
-                                         motivation; a     communications,
-                                         direct command    logistics,
-                                         relationship.     personnel or
-                                                           something else.
+  **Iran-linked**   Almost nothing       Iranian          What the link
+                    precise until        direction; IRGC  actually is:
+                    **linked** is        involvement;     context, target
+                    defined.             knowing proxy    selection,
+                                         status; Iranian  intelligence,
+                                         nationality;     financing,
+                                         ideological      tasking,
+                                         motivation; a    communications,
+                                         direct command   logistics,
+                                         relationship.    personnel or
+                                                          something else.
 
-  **Connected to    The incident has     Iranian           Evidence
-  the Iran war**    some relationship to authorship or     establishing a
-                    the wider conflict   direction of the  causal or
-                    environment. RAF     incident.         operational
-                    Fairford itself is                     relationship
-                    already relevant to                    beyond context.
-                    that environment.                      
+  **Connected to    The incident has     Iranian          Evidence
+  the Iran war**    some relationship to authorship or    establishing a
+                    the wider conflict   direction of the causal or
+                    environment. RAF     incident.        operational
+                    Fairford itself is                    relationship
+                    already relevant to                   beyond context.
+                    that environment.                     
 
-  **Proxy**         Someone or something Knowledge;        Definition of
-                    is being described   ideological       proxy being used
-                    as acting in a       agreement; direct plus evidence of
-                    relationship which   command; state    relationship,
-                    benefits or          employment;       tasking, knowledge
-                    represents another   terrorist         and control.
-                    actor.               intention.        
+  **Proxy**         Someone or something Knowledge;       Definition of
+                    is being described   ideological      proxy being used
+                    as acting in a       agreement;       plus evidence of
+                    relationship which   direct command;  relationship,
+                    benefits or          state            tasking, knowledge
+                    represents another   employment;      and control.
+                    actor.               terrorist        
+                                         intention.       
 
-  **Knowing proxy** The person knew      Automatically     Evidence of
-                    enough about the     that they knew    knowledge,
-                    relationship to      every downstream  instructions,
-                    knowingly act for or purpose or        purpose and the
-                    assist the principal possessed the     elements of the
-                    in the relevant      intention         particular
-                    respect.             required for      offence.
-                                         every possible    
-                                         offence.          
+  **Knowing proxy** The person knew      Automatically    Evidence of
+                    enough about the     that they knew   knowledge,
+                    relationship to      every downstream instructions,
+                    knowingly act for or purpose or       purpose and the
+                    assist the principal possessed the    elements of the
+                    in the relevant      intention        particular
+                    respect.             required for     offence.
+                                         every possible   
+                                         offence.         
 
-  **Iranian state   A specific           It cannot         Attribution
-  direction**       attribution claim    responsibly be    evidence
-                    that the Iranian     inferred merely   establishing the
-                    state directed       from the          state relationship
-                    relevant activity.   location, the     and direction.
-                                         Iran war, a       
-                                         generic foreign   
-                                         link or the word  
-                                         proxy.            
+  **Iranian state   A specific           It cannot        Attribution
+  direction**       attribution claim    responsibly be   evidence
+                    that the Iranian     inferred merely  establishing the
+                    state directed       from the         state relationship
+                    relevant activity.   location, the    and direction.
+                                         Iran war, a      
+                                         generic foreign  
+                                         link or the word 
+                                         proxy.           
 
-  **Section 5       The law expressly    That the          Evidence proving
-  conduct assists   permits liability    assisting person  the person's
-  another**         where preparatory    was supposed to   preparatory
-                    conduct is           carry out every   conduct and the
-                    undertaken with the  later stage       required
-                    intention of         themselves.       intention.
-                    assisting another to                   
-                    commit terrorist                       
-                    acts.                                  
-  ---------------------------------------------------------------------------
+  **Section 5       The law expressly    That the         Evidence proving
+  conduct assists   permits liability    assisting person the person's
+  another**         where preparatory    was supposed to  preparatory
+                    conduct is           carry out every  conduct and the
+                    undertaken with the  later stage      required
+                    intention of         themselves.      intention.
+                    assisting another to                  
+                    commit terrorist                      
+                    acts.                                 
+  --------------------------------------------------------------------------
 
 There is an information gradient here:
 
@@ -640,7 +650,280 @@ In fact, we would quite like them to.
 
 ------------------------------------------------------------------------
 
-## ⚖️ 8. If You Want A Prosecution, Stop Manufacturing Problems For The Prosecution
+## 📡 8. If The Messages Really Are Different, That Is Also A Story
+
+There is another possibility which journalists should not ignore merely
+because this node has spent several thousand words asking everybody not
+to autocomplete the investigation:
+
+**the apparent difference in British and American messaging may reflect
+a genuine difference in what different parts of the two states
+understand to be happening.**
+
+That is a hypothesis.
+
+It is not presently a conclusion.
+
+But it is a perfectly legitimate thing for journalists to investigate.
+
+The United Kingdom and United States have said that they are working
+closely together. If senior representatives of those governments
+nevertheless appear repeatedly to be describing the same incident at
+different evidential resolutions, reporters are allowed to ask why.
+
+There are many possible answers.
+
+Some are extremely boring.
+
+Information may have reached one government before another. Different
+officials may have different security clearances. Police, intelligence,
+diplomatic and political institutions may be working from differently
+matured information. One side may be speaking from intelligence while
+another is deliberately restricting itself to evidence suitable for a
+criminal investigation. Somebody may simply have misunderstood a
+briefing.
+
+There may be a communications bottleneck.
+
+There may be an unreliable source.
+
+There may be a single person through whom too much information is
+passing.
+
+Information may have been delayed, compartmentalised, mistranslated,
+badly summarised or stripped of an important caveat as it travelled.
+
+A cyber incident or technical failure can affect communications.
+
+And, at the more serious end of the spectrum, somebody can deliberately
+provide misleading information.
+
+These possibilities are **not equivalent**, and noticing a discrepancy
+is not evidence for the most exciting one.
+
+It is a reason to investigate the discrepancy.
+
+### 📰 This Is Normal Journalism
+
+If reporters become reasonably confident that British and American
+officials are working from materially different understandings of the
+same security incident, there are ordinary journalistic tools available.
+
+Ask each institution precisely what proposition it is making.
+
+Ask whether the statement derives from intelligence, law-enforcement
+information, diplomatic reporting or public-source information.
+
+Ask whether information has been shared with the other government.
+
+Ask whether officials have received the same briefing.
+
+Ask when relevant information was communicated.
+
+Ask whether an apparent discrepancy has been raised through liaison
+channels.
+
+Ask whether either government disputes the other's public
+characterisation.
+
+Check parliamentary and congressional records.
+
+Check subsequent police statements against earlier political statements.
+
+Use appropriate freedom-of-information processes where the information
+is lawfully obtainable, while recognising the substantial
+national-security, intelligence, policing and live-investigation
+exemptions which may apply.
+
+Ask procedural questions even where the substantive intelligence cannot
+be disclosed.
+
+And keep a chronology.
+
+``` text
+UK STATEMENT
+     │
+     ├── what exactly was claimed?
+     ├── by whom?
+     ├── based on what publicly identified source?
+     └── when?
+
+US STATEMENT
+     │
+     ├── what exactly was claimed?
+     ├── by whom?
+     ├── based on what publicly identified source?
+     └── when?
+
+             ↓
+
+ARE THEY ACTUALLY INCONSISTENT?
+
+             ↓
+
+IF YES: WHERE DID THE INFORMATION PATHS DIVERGE?
+```
+
+The answer may be:
+
+> **They didn't. One side was simply willing to say more publicly.**
+
+That is useful.
+
+The answer may be:
+
+> **One institution was discussing intelligence attribution while
+> another was discussing evidence in a criminal case.**
+
+Also useful.
+
+The answer may be:
+
+> **Somebody had old information.**
+
+Useful.
+
+Or the discrepancy may reveal an actual communications problem which
+needs attention.
+
+Also useful.
+
+### 🛡️ Journalism Is Part Of The Sensor Network
+
+This is one reason independent journalism matters to national
+resilience.
+
+Journalists sit across institutional boundaries in ways that individual
+institutions often do not.
+
+A reporter may speak to:
+
+-   local police;
+-   Counter Terrorism Policing;
+-   residents;
+-   military personnel;
+-   ministers;
+-   diplomats;
+-   American officials;
+-   European officials;
+-   lawyers;
+-   researchers;
+-   and other journalists.
+
+That means a reporter can sometimes notice **a mismatch between
+systems** before either system has realised that the mismatch exists.
+
+The reporter does not need to solve the mismatch.
+
+Sometimes asking:
+
+> **"Are you aware that your ally is publicly describing this
+> differently?"**
+
+is itself useful information.
+
+Even where the answer is:
+
+> **"We cannot comment."**
+
+The question has now existed inside the relevant institution.
+
+Somebody appropriately positioned can check.
+
+### 🪿 Do Not Turn This Into Spy Hunting
+
+There is an enormous difference between:
+
+> **"These accounts appear inconsistent. We should establish why."**
+
+and:
+
+> **"Someone inside government is deliberately deceiving the other
+> side."**
+
+The first is responsible scrutiny.
+
+The second requires evidence.
+
+A communications discrepancy can arise from architecture rather than
+malice.
+
+``` text
+DELAY
+COMPARTMENTALISATION
+DIFFERENT CLEARANCES
+DIFFERENT LEGAL CONSTRAINTS
+DIFFERENT SOURCE RELIABILITY
+STALE INFORMATION
+LOSS OF CAVEATS
+BAD HANDOVER
+TECHNICAL FAILURE
+HUMAN ERROR
+INSTITUTIONAL SILO
+CYBER INCIDENT
+DELIBERATE MISLEADING
+```
+
+Do not begin at the bottom because it makes the better film.
+
+Start at the top and investigate.
+
+### 🤝 Trust Is Also Built This Way
+
+There is a final incentive here for journalists which is less
+immediately visible.
+
+Governments, police forces, militaries and intelligence institutions
+have to make continual judgments about **who handles information
+responsibly**.
+
+A journalist who notices a genuine discrepancy, checks it carefully,
+protects sensitive information where appropriate, distinguishes evidence
+from inference, gives institutions a fair opportunity to respond, and
+does not inflate uncertainty into a conspiracy is demonstrating
+something useful:
+
+**this person can be trusted with complexity.**
+
+That does not mean becoming a government mouthpiece.
+
+Quite the opposite.
+
+A useful relationship with sources depends upon the journalist retaining
+enough independence to say:
+
+> **Something doesn't line up here. Can you check it?**
+
+Trustworthy scrutiny is still scrutiny.
+
+And if the reporter turns out to have identified nothing more sinister
+than two bureaucracies updating their briefing documents at different
+speeds?
+
+Excellent.
+
+That is also an answer.
+
+But if two allied states genuinely believe that they are sharing
+information while important information is being lost, distorted or
+misunderstood somewhere between them, identifying that problem is
+plainly in the public interest.
+
+The journalist does not need to know the classified answer to perform a
+useful democratic function.
+
+Sometimes the contribution is simply:
+
+> **Guys, I think these two boxes are giving different outputs. You
+> might want to check the wiring.**
+
+That is public-service journalism.
+
+It is also, in a networked security environment, a form of defence.
+
+------------------------------------------------------------------------
+
+## ⚖️ 9. If You Want A Prosecution, Stop Manufacturing Problems For The Prosecution
 
 This is not merely British fussiness about courtroom etiquette.
 
@@ -705,7 +988,7 @@ Even when everybody in the briefing room thinks they know what happened.
 
 ------------------------------------------------------------------------
 
-## 🎙️ 9. "I Can't Discuss That Right Now" Is A Complete Sentence
+## 🎙️ 10. "I Can't Discuss That Right Now" Is A Complete Sentence
 
 There is a strange modern assumption that declining to disclose
 operational information is automatically evasive.
@@ -746,7 +1029,7 @@ mean "never".
 
 ------------------------------------------------------------------------
 
-## 🚜 10. Please Do Not Lose The Actual Fucking Diesel
+## 🚜 11. Please Do Not Lose The Actual Fucking Diesel
 
 Fuel theft is not an exotic hypothetical invented because RAF Fairford
 became interesting.
@@ -796,7 +1079,7 @@ still exist on Monday morning.
 
 ------------------------------------------------------------------------
 
-## ⏱️ 11. Put The Fucking Investigation In The Spreadsheet
+## ⏱️ 12. Put The Fucking Investigation In The Spreadsheet
 
 News organisations have developed extraordinarily sophisticated systems
 for discovering when something begins.
@@ -853,49 +1136,49 @@ A fucking spreadsheet will do.
 
 ### Suggested newsroom tracker
 
-  -----------------------------------------------------------------------
-  Field                               Function
-  ----------------------------------- -----------------------------------
-  `incident_id`                       Persistent identifier so later
-                                      developments remain attached to the
-                                      original event.
+  ---------------------------------------------------------------------
+  Field                              Function
+  ---------------------------------- ----------------------------------
+  `incident_id`                      Persistent identifier so later
+                                     developments remain attached to
+                                     the original event.
 
-  `arrest_datetime`                   Starts the procedural chronology.
+  `arrest_datetime`                  Starts the procedural chronology.
 
-  `suspected_offence`                 Records the exact wording rather
-                                      than headline shorthand.
+  `suspected_offence`                Records the exact wording rather
+                                     than headline shorthand.
 
-  `source_for_offence`                Police statement, statute, court
-                                      record or other primary source.
+  `source_for_offence`               Police statement, statute, court
+                                     record or other primary source.
 
-  `custody_status`                    Detained, released, bailed,
-                                      charged, remanded, etc.
+  `custody_status`                   Detained, released, bailed,
+                                     charged, remanded, etc.
 
-  `confirmed_physical_evidence`       What authorities have actually
-                                      confirmed.
+  `confirmed_physical_evidence`      What authorities have actually
+                                     confirmed.
 
-  `reported_but_unconfirmed`          Claims which remain sourced
-                                      reporting rather than established
-                                      findings.
+  `reported_but_unconfirmed`         Claims which remain sourced
+                                     reporting rather than established
+                                     findings.
 
-  `attribution_claims`                Who has attributed what to whom.
+  `attribution_claims`               Who has attributed what to whom.
 
-  `claim_resolution`                  Exact / ambiguous / contradicted /
-                                      superseded / still open.
+  `claim_resolution`                 Exact / ambiguous / contradicted /
+                                     superseded / still open.
 
-  `unresolved_questions`              Boxes which remain empty.
+  `unresolved_questions`             Boxes which remain empty.
 
-  `next_procedural_check`             The next time the desk should
-                                      return to the case.
+  `next_procedural_check`            The next time the desk should
+                                     return to the case.
 
-  `desk_owner`                        Somebody is actually responsible
-                                      for coming back.
+  `desk_owner`                       Somebody is actually responsible
+                                     for coming back.
 
-  `last_checked`                      Prevents institutional amnesia.
+  `last_checked`                     Prevents institutional amnesia.
 
-  `next_public_explainer`             Identifies when the audience needs
-                                      the story reintroduced.
-  -----------------------------------------------------------------------
+  `next_public_explainer`            Identifies when the audience needs
+                                     the story reintroduced.
+  ---------------------------------------------------------------------
 
 Then automate reminders.
 
@@ -924,7 +1207,7 @@ later.
 
 ------------------------------------------------------------------------
 
-## 📺 12. The Public Remembers Television Programmes
+## 📺 13. The Public Remembers Television Programmes
 
 There is a peculiar assumption embedded in parts of contemporary news
 production that the public cannot remember anything which happened more
@@ -976,7 +1259,7 @@ uncertainty.
 
 ------------------------------------------------------------------------
 
-## 🧠 13. Mark Fisher And Temporal Defence
+## 🧠 14. Mark Fisher And Temporal Defence
 
 Mark Fisher's observations about contemporary attention are useful here,
 but they should not be retrospectively turned into an
@@ -1070,7 +1353,7 @@ These are defence questions now.
 
 ------------------------------------------------------------------------
 
-## 🛡️ 14. Attention Span Is Not Only An Individual Property
+## 🛡️ 15. Attention Span Is Not Only An Individual Property
 
 We often speak about attention as though it were an innate quantity
 possessed by an individual brain.
@@ -1124,7 +1407,7 @@ That capacity can be strengthened through use.
 
 ------------------------------------------------------------------------
 
-## ✈️ 15. The Shiny Toy Is Not The Security Boundary
+## ✈️ 16. The Shiny Toy Is Not The Security Boundary
 
 This node lives inside `✈️_Keep_Shiny_Toys_Safe` for a reason.
 
@@ -1193,7 +1476,7 @@ The socio-technical system which keeps the shiny toy useful is.
 
 ------------------------------------------------------------------------
 
-## 🏛️ 16. Capitalism Is Allowed To Object
+## 🏛️ 17. Capitalism Is Allowed To Object
 
 None of this requires pretending that commercial media organisations
 have no commercial interests.
@@ -1277,7 +1560,7 @@ Been times touched down.
 
 ------------------------------------------------------------------------
 
-## ⏳ 17. Not Yet Is Information
+## ⏳ 18. Not Yet Is Information
 
 There is a temptation during frightening events to treat uncertainty as
 an informational vacuum.
@@ -1343,7 +1626,7 @@ And then actually fucking come back tomorrow.
 
 ------------------------------------------------------------------------
 
-## 🧭 18. A Small Communications Protocol
+## 🧭 19. A Small Communications Protocol
 
 For journalists, politicians, policy staff and anybody else with a
 microphone:
@@ -1386,7 +1669,7 @@ microphone:
 
 ------------------------------------------------------------------------
 
-## 🪣 19. What This Node Is Not Claiming
+## 🪣 20. What This Node Is Not Claiming
 
 For avoidance of doubt:
 
