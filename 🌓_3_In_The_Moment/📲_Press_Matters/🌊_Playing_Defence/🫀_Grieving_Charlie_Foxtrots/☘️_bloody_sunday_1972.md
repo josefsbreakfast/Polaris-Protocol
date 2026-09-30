@@ -1414,7 +1414,8 @@ recognition.
 
 *Look back:*  
 
-- [📹: SlickShots.Ni, via TikTok: “Bloody Sunday. 1972.”](https://vm.tiktok.com/ZN8rwLBu6/) – *includes footage, predominantly immediately prior*  
+- [📹: SlickShots.Ni, via TikTok: “Bloody Sunday. 1972.”](https://vm.tiktok.com/ZN8rwLBu6/) – *includes footage, predominantly immediately prior*
+- [📺: U2, *Rattle and Hum*: “Sunday Bloody Sunday”](https://youtu.be/uPV3FeNBI1Q?is=Tq8clSdSxwpdGnsS) – *this is the history for that song you like*  
 
 ------------------------------------------------------------------------
 
@@ -1436,13 +1437,8 @@ suspicion is allowed to survive the people who were killed.
 
 > 📡 Cross-references:
 >
-> -   [🫀 Grieving Charlie Foxtrots](./README.md) --- *parent cluster
->     for military grief, institutional accountability and the
->     difference between defending a force and defending the
->     indefensible*
-> -   [🌊 Playing Defence](../README.md) --- *wider defence, security
->     and institutional-learning cluster*
->
+> -   [☘️ On Targeting Kneecap And Macklemore](../../🇵🇸_Palestine_Factchecking/🍉_Current_Events/☘️_on_targeting_kneecap_and_macklemore.md) - *how non-acknowledgement and incomplete antiracism praxis harms your people with diaspora identities; why your people come with histories attached that they did not necessarily get an ‘opt-in’ for*  
+>   
 > 🏮 Return To:
 >
 > -   [🫀 Grieving Charlie Foxtrots](./README.md) --- *1up*
