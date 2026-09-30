@@ -604,7 +604,11 @@ disappear.
 And you do not have to sanitise the surrounding conflict to establish
 someone's innocence.
 
-------------------------------------------------------------------------
+---
+
+> “For those people who were looking for the report to use terms like murder and unlawful killing, I remind the House that these judgments are not matters for a tribunal, or for us as politicians, to determine.”  
+
+--- 
 
 ## 🏛️ 8. 15 June 2010
 
@@ -668,7 +672,17 @@ refuses to acknowledge demonstrable wrongdoing is not being protected.
 
 It is being made brittle.
 
-------------------------------------------------------------------------
+---
+
+> “These are shocking conclusions to read and shocking words to have to say, but we do not defend the British Army by defending the indefensible.  
+>
+> We do not honour all those who have served with distinction in keeping the peace and upholding the rule of law in Northern Ireland by hiding from the truth.   
+>
+> So there is no point in trying to soften, or equivocate about, what is in this report.  
+>
+> It is clear from the tribunal’s authoritative conclusions that the events of Bloody Sunday were in no way justified.”  
+
+---
 
 ## 🧑‍🤝‍🧑 9. Say Their Names
 
@@ -727,7 +741,21 @@ There is a larger principle here:
 >
 > **Individualise innocence too.**
 
-------------------------------------------------------------------------
+---
+
+> “I know that some people wonder whether, nearly 40 years on from an event, a Prime Minister needs to issue an apology.  
+>
+> For someone of my generation, Bloody Sunday and the early 1970s are something that we feel we have learnt about rather than lived through.  
+>
+> But what happened should never, ever have happened.  
+>
+> The families of those who died should not have had to live with the pain and hurt of that day, and with a lifetime of loss.  
+>
+> Some members of our armed forces acted wrongly.  
+>
+> The Government are ultimately responsible for the conduct of the armed forces, and for that, on behalf of the Government — indeed, on behalf of our country - I am deeply sorry.”  
+
+---
 
 ## 🫀 10. I Remember The Room
 
