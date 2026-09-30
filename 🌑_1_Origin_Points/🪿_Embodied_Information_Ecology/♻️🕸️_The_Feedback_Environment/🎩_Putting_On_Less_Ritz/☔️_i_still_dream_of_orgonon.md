@@ -1213,9 +1213,12 @@ This is the adaptable system we actually want:
 
 ---
 
-> **[AUTHOR-SUPPLIED LYRIC EXTRACT 3 — THE RAIN / “SOMETHING GOOD” PASSAGE]**
->
-> *Insert the first rain-and-possibility passage from “Cloudbusting” here.*
+> “But every time it rains –  
+> You're here in my head,  
+> Like the sun coming out.  
+> Ooh, I just know that something good is gonna happen!  
+> I don't know when,  
+> But just saying it could even make it happen.”  
 
 ## 23. 🌦️ Something Good Could Happen
 
