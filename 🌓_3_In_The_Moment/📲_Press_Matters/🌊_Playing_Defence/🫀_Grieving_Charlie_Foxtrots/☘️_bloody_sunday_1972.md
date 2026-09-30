@@ -466,7 +466,7 @@ That is an injury in its own right.
 >
 > And the report refers to a father who was  
 > 
-‘hit and injured by Army gunfire after he had gone to… tend his son’.”  
+> ‘hit and injured by Army gunfire after he had gone to… tend his son’.”  
 
 ---
 
