@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-30 04:45:45 UTC_
+_Generated on 2026-09-30 04:47:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -937,6 +937,7 @@ _Generated on 2026-09-30 04:45:45 UTC_
         - [`✌️_thanks_for_the_robit,_don.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/✌️_thanks_for_the_robit,_don.md)
         - [`🇺🇸_the_supposed_dignity_of_the_presidency.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/🇺🇸_the_supposed_dignity_of_the_presidency.md)
         - [`🌷🐈‍⬛_pr_managing_that_orange_bastard.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/🌷🐈‍⬛_pr_managing_that_orange_bastard.md)
+        - [`🌸_how_many_times_must_we_forget.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/🌸_how_many_times_must_we_forget.md)
         - [`😶‍🌫️_why_would_a_fascism_hide_the_root_cause.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/😶‍🌫️_why_would_a_fascism_hide_the_root_cause.md)
         - [`🪁_what_if_starmer_had_kept_pursuing_savile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/🪁_what_if_starmer_had_kept_pursuing_savile.md)
       - [**🎩_Putting_On_Less_Ritz/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/)
