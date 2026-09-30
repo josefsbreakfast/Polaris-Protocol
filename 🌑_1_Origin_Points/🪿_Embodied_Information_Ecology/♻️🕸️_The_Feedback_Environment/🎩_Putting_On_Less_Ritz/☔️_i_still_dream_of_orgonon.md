@@ -4,9 +4,13 @@
 
 ---
 
-> **[AUTHOR-SUPPLIED LYRIC EXTRACT 1 — OPENING: “I still dream of Orgonon…”]**
->
-> *Insert the opening Orgonon passage from Kate Bush, “Cloudbusting”, here.*
+> “I still dream of Orgonon.  
+> I wake up crying –  
+> You're making rain,  
+> And you're just in reach,  
+> When you and sleep escape me.”
+> 
+> *Kate Bush, “Cloudbusting”, 1985.*
 
 ## 🛰️ Orientation
 
@@ -44,9 +48,12 @@ And if, hypothetically, one of our cousins has built a very clever information m
 
 ## 1. 🪀 What Made It Special Made It Dangerous
 
-> **[AUTHOR-SUPPLIED LYRIC EXTRACT 2 — THE GLOWING YO-YO]**
->
-> *Insert the yo-yo passage from “Cloudbusting” here.*
+> “You're like my yo-yo,  
+> That glowed in the dark –  
+> What made it special,  
+> Made it dangerous…  
+> So I bury it –  
+> And forget.”  
 
 The first thing my brain does with a glowing old-fashioned yo-yo is, unfortunately:
 
@@ -629,9 +636,12 @@ A machine that cannot adequately represent those differences can be very clever 
 
 ---
 
-> **[AUTHOR-SUPPLIED LYRIC EXTRACT 4 — THE BLACK CAR]**
->
-> *Insert the “on top of the world / looking over the edge…” passage from “Cloudbusting” here.*
+> “On top of the world,
+> Looking over the edge:  
+> You could see them coming.  
+> You looked too small,  
+> In their big black car,  
+> To be a threat to the men in power.”  
 
 ## 12. 🚘 You Looked Too Small
 
