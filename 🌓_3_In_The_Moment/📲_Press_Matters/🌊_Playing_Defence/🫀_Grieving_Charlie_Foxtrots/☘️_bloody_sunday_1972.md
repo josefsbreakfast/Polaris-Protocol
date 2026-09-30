@@ -7,7 +7,9 @@ military legitimacy cannot be defended by defending the indefensible.*
 
 ---  
 
-> “With permission, Mr Speaker, I would like to make a statement. Today, my right hon. Friend the Secretary of State for Northern Ireland is publishing the report of the Saville inquiry—the tribunal set up by the previous Government to investigate the tragic events of 30 January 1972, a day more commonly known as “Bloody Sunday”. We have acted in good faith by publishing the tribunal’s findings as quickly as possible after the general election.
+> “With permission, Mr Speaker, I would like to make a statement.  
+> 
+> Today, my right hon. Friend the Secretary of State for Northern Ireland is publishing the report of the Saville inquiry—the tribunal set up by the previous Government to investigate the tragic events of 30 January 1972, a day more commonly known as “Bloody Sunday”. We have acted in good faith by publishing the tribunal’s findings as quickly as possible after the general election.”  
 
 ---
 
@@ -76,7 +78,17 @@ Sometimes it will be wrong.
 
 The question is what happens next.
 
-------------------------------------------------------------------------
+---
+
+> “I am deeply patriotic; I never want to believe anything bad about our country; I never want to call into question the behaviour of our soldiers and our Army, which I believe to be the finest in the world.  
+> 
+> And I have seen for myself the very difficult and dangerous circumstances in which we ask our soldiers to serve.  
+>
+> But the conclusions of this report are absolutely clear: there is no doubt; there is nothing equivocal; there are no ambiguities.  
+>
+> What happened on Bloody Sunday was both unjustified and unjustifiable. It was wrong.”
+
+--- 
 
 ## ☘️ 1. Which Bloody Sunday?
 
