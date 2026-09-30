@@ -1,5 +1,5 @@
 # 🍓 Tamagotchis Are My Muse
-**First created:** 2026-09-28 | **Last updated:** 2026-09-28  
+**First created:** 2026-09-28 | **Last updated:** 2026-09-30  
 *Maybe the future of personal technology needs fewer universal interfaces and more kawaii little guys.*
 
 ---
@@ -604,6 +604,10 @@ But Silicon Valley should perhaps be required to show its working.
 - [🌸: Takashi Murakami *Flower Go Walk*](https://www.kaikaikiki.com/projects/flower-go-walk/)  
 - [🦖: Digimon Does A Complex Iliad Reference](https://essential-japan.com/news/digimon-pendulum-color-returns-with-two-new-iliad-themed-devices/), but also [modern re-releases of the original digivice series](https://toy.bandai.co.jp/ja/item/01_20684/)
 
+*From the tech bros’ GC:*  
+
+- [📰: The Guardian: “OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns“](https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns) – *🤨🤨🤨*  
+
 ---
 
 ## ✨ Stardust
@@ -632,4 +636,4 @@ It uses virtual pets and dedicated handheld devices as a design lens for asking 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-28_
+_Last updated: 2026-09-30_
