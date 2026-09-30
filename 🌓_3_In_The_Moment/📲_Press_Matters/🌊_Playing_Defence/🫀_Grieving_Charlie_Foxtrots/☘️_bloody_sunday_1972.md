@@ -995,7 +995,17 @@ The relatives had to do it.
 
 For decades.
 
-------------------------------------------------------------------------
+---
+
+> “While in no way justifying the events of 30 January 1972, we should acknowledge the background to the events of Bloody Sunday.  
+>
+> Since 1969, the security situation in Northern Ireland had been declining significantly.  
+>
+> Three days before Bloody Sunday, two officers in the Royal Ulster Constabulary — one a Catholic — were shot by the IRA in Londonderry, the first police officers killed in the city during The Troubles.  
+>
+> A third of the city of Derry had become a no-go area for the RUC and the Army, and in the end 1972 was to prove Northern Ireland’s bloodiest year by far, with nearly 500 people killed.”  
+
+---
 
 ## 🧱 13. An Apology Is Not A Time Machine
 
