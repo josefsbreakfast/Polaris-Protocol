@@ -527,7 +527,15 @@ Children grew into middle age.
 
 "Eventually" is a very long time when measured in somebody else's life.
 
-------------------------------------------------------------------------
+---
+
+> “‘The immediate responsibility for the deaths and injuries on Bloody Sunday lies with those members of Support Company whose unjustifiable firing was the cause of those deaths and injuries’,  
+>
+> and, crucially, that  
+>
+> ‘none of the casualties was posing a threat of causing death or serious injury, or indeed was doing anything else that could on any view justify their shooting’.”  
+
+—--
 
 ## ⚖️ 7. Saville: The Information Changes
 
