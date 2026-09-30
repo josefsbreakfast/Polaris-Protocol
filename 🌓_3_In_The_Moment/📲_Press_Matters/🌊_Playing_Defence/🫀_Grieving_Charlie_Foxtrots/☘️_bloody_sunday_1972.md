@@ -5,19 +5,29 @@
 that the people its soldiers killed had not deserved to die, and why
 military legitimacy cannot be defended by defending the indefensible.*
 
-------------------------------------------------------------------------
+---  
+
+> “With permission, Mr Speaker, I would like to make a statement. Today, my right hon. Friend the Secretary of State for Northern Ireland is publishing the report of the Saville inquiry—the tribunal set up by the previous Government to investigate the tragic events of 30 January 1972, a day more commonly known as “Bloody Sunday”. We have acted in good faith by publishing the tribunal’s findings as quickly as possible after the general election.
+
+---
 
 ## 🛰️ Orientation
 
 I remember the Saville report coming out.
 
 Not in the way that somebody who was in Derry in 1972 remembers Bloody
-Sunday. I was not there. I am not Northern Irish. My family's Irish
-history does not make somebody else's direct experience of the Troubles
-mine.
+Sunday. I was not there. I am not Northern Irish. My family's Irish history does not make somebody else's direct experience of the Troubles mine.  
 
-But I remember the moment in 2010 well enough that I can approximately
-place myself in the living room where I watched it on the news.
+Although I did understand, through ambient learning within my region, and within the community spaces in which I moved, that when it was someone from Northern Ireland, that could, if only for a matter of luck of location, be me.  
+
+Which I will also note was stranger and body, with People that I loved the most being part of our state security, and our states defence, being myself someone who was prepared to go into that line of work, and also realising that that meant whilst these things were still happening, and in the immediate years when the stability of the ceasefire was a little more tenuous, that it could be the people that I loved who ended up as a target, simply because of their job.  
+
+I’m not saying this because I don’t want any pity for it, no thank you, but rather to contextualise where my mind was and has been, around this issue, because it varies hugely between people on these islands. Apart from the people most directly impacted by the violence, there is a very regionalised, and very discreet way in which the risk has been spread, or not spread, as the case may be. This roughly, but does not completely, follow risks spread across the defence of the realm during World War II. This is simply because of where industrial, defence, and well-known secure locations are in the United Kingdom.  
+
+So just to clarify, when you get things like RAF Fairford happening the other day, that doesn’t breeze over my head, and it doesn’t for a lot of people on these islands. We just sometimes have a very culturally British way of showing that we’re bothered about something, which is to double down on not appearing to be bothered about something. this is most prevalent in the countries on the right hand side island, because that’s where the propaganda that led to that, was most repeated, and that’s just simply got a lot to do with where is most effective for a German bomber to go and come back from, back when planes had smaller fuel tanks, and shittier engines. (Relative to the time period, the best engine back then, was like a shitty moped nowadays; nevertheless, that’s small little engine introspectively, has led to a significant cultural difference in who was most impacted by taking the regionalised community-borne risk when it comes to defence.)  
+
+I do remember the moment in 2010 well enough that I can approximately
+place myself in the living room where I watched it on the news.  
 
 It was a **big fucking deal**.
 
