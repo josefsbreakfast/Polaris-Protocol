@@ -267,7 +267,17 @@ different histories, mechanisms and consequences.
 Both statements can be true without one functioning as a unit of
 measurement for the other.
 
-------------------------------------------------------------------------
+---
+
+> “He also finds that  
+> 
+> ‘there was some firing by republican paramilitaries… but… none of this firing provided any justification for the shooting of civilian casualties’,  
+> 
+> and that  
+>
+> ‘in no case was any warning given before soldiers opened fire’.”  
+
+---
 
 ## 🪖 3. Which Version Of The State Did You Meet?
 
