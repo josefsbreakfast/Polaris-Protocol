@@ -1056,7 +1056,16 @@ The perpetrating institution can perform recognition and restoration.
 
 **It cannot compel reconciliation.**
 
-------------------------------------------------------------------------
+---
+
+> “Let us also remember that Bloody Sunday is not the defining story of the service that the British Army gave in Northern Ireland from 1969 to 2007. That was known as Operation Banner, the longest continuous operation in British military history, which spanned 38 years and in which over 250,000 people served.  
+>
+> Our armed forces displayed enormous courage and professionalism in upholding democracy and the rule of law in Northern Ireland. Acting in support of the police, they played a major part in setting the conditions that have made peaceful politics possible, and over 1,000 members of the security forces lost their lives to that cause. Without their work, the peace process would not have happened.  
+>
+> Of course some mistakes were undoubtedly made, but lessons were also learnt. Once again, I put on record the immense debt of gratitude that we all owe those who served in Northern Ireland.”  
+
+
+---
 
 ## ⚖️ 14. Saville Was Not A Criminal Trial
 
@@ -1106,7 +1115,13 @@ later criminal accountability becomes more difficult.
 
 Another reason why **eventually** is not an adequate justice policy.
 
-------------------------------------------------------------------------
+---
+
+> “I thank the tribunal for its work, and thank all those who displayed great courage in giving evidence. I also wish to acknowledge the grief of the families of those killed. They have pursued their long campaign over 38 years with great patience. Nothing can bring back those who were killed, but I hope that—as one relative has put it—the truth coming out can help to set people free.
+>
+> John Major said that he was open to a new inquiry. Tony Blair then set it up. That was accepted by the then Leader of the Opposition. Of course, none of us anticipated that the Saville inquiry would take 12 years or cost almost £200 million. Our views on that are well documented. It is right to pursue the truth with vigour and thoroughness, but let me reassure the House that there will be no more open-ended and costly inquiries into the past.”
+
+---
 
 ## 🪖 15. You Don't Defend The Army By Defending The Indefensible
 
@@ -1169,7 +1184,13 @@ That does not erase everyone who served honourably.
 
 It protects the possibility that honour means something.
 
-------------------------------------------------------------------------
+---
+
+> “However, today is not about the controversies surrounding the process. It is about the substance, about what this report tells us. Everyone should have the chance to examine its complete findings, and that is why it is being published in full. Running to more than 5,000 pages, it is being published in 10 volumes. Naturally, it will take all of us some time to digest the report's full findings and understand all the implications. The House will have an opportunity for a full day's debate this autumn, and in the meantime the Secretaries of State for Northern Ireland and for Defence will report back to me on all the issues that arise from it.
+>
+> This report and the inquiry itself demonstrate how a state should hold itself to account and how we should be determined at all times—no matter how difficult—to judge ourselves against the highest standards. Openness and frankness about the past, however painful, do not make us weaker; they make us stronger.”
+
+---
 
 ## 🌍 16. The Transferable Lesson
 
@@ -1223,10 +1244,17 @@ coercive power.
 
 And the evidential question remains brutally simple:
 
-> **What was this individual doing when state force was used against
-> them?**
+> **What was this individual doing when state force was used against them?**
 
-------------------------------------------------------------------------
+---
+
+> “That is one of the things that differentiates us from the terrorists. We should never forget that over 3,500 people, from every community, lost their lives in Northern Ireland, the overwhelming majority killed by terrorists. There were many terrible atrocities. Politically motivated violence was never justified, whichever side it came from, and it can never be justified by those criminal gangs that today want to drag Northern Ireland back to its bitter and bloody past. No Government I lead will ever put those who fight to defend democracy on an equal footing with those who continue to seek to destroy it, but nor will we hide from the truth that confronts us today.
+>
+> In the words of Lord Saville:
+>
+> ‘What happened on Bloody Sunday strengthened the Provisional IRA, increased nationalist resentment and hostility towards the Army and exacerbated the violent conflict of the years that followed. Bloody Sunday was a tragedy for the bereaved and the wounded, and a catastrophe for the people of Northern Ireland.’”
+
+---
 
 ## 🛰️ 17. Do Not Turn The Civilian Into The Security Environment
 
@@ -1288,7 +1316,15 @@ It did not fix everything.
 
 Both of those things can be true.
 
-------------------------------------------------------------------------
+---
+
+> “Those are words we cannot and must not ignore, but I hope what this report can do is mark the moment when we come together, in this House and in the communities we represent; come together to acknowledge our shared history, even where it divides us; and come together to close this painful chapter on Northern Ireland's troubled past.
+>
+> That is not to say that we must ever forget or dismiss that past, but we must also move on. Northern Ireland has been transformed over the past 20 years and all of us in Westminster and Stormont must continue that work of change, coming together with all the people of Northern Ireland, to build a stable, peaceful, prosperous and shared future.
+>
+> It is with that determination that I commend this statement to the House.”
+
+---
 
 ## 🔬 18. Research Still To Fold In
 
