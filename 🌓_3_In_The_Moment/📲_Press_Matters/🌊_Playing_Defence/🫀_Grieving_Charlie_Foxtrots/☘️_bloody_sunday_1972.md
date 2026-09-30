@@ -825,7 +825,21 @@ The person is not the principle.
 
 The record remains.
 
-------------------------------------------------------------------------
+---
+
+> “Just as the report is clear that the actions of that day were unjustifiable, so too it is clear in some of its other findings.  
+>
+> Those looking for premeditation, those looking for a plan, those even looking for a conspiracy involving senior politicians or senior members of the armed forces, will not find it in this report.  
+>
+> Indeed, Lord Saville finds no evidence that the events of Bloody Sunday were premeditated.  
+>
+> He concludes that the United Kingdom and Northern Ireland Governments, and the Army, neither tolerated nor encouraged  
+>
+> ‘the use of unjustified lethal force’.  
+>
+> He makes no suggestion of a Government cover-up, and he credits the United Kingdom Government with working towards a peaceful political settlement in Northern Ireland.”  
+
+---
 
 ## 🔁 11. Trust Goes Both Ways
 
@@ -927,7 +941,11 @@ the British state.
 None of those things answers whether the state was entitled to shoot
 them.
 
-------------------------------------------------------------------------
+---
+
+
+
+---
 
 ## 🪪 12. The State Has Power Over Your Name
 
