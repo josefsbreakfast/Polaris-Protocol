@@ -943,7 +943,15 @@ them.
 
 ---
 
-
+> “The report also specifically deals with the actions of key individuals in the Army, in politics and beyond, including Major-General Ford, Brigadier MacLellan and Lieutenant-Colonel Wilford.  
+>
+> In each case, the tribunal’s findings are clear.  
+>
+> The report does the same for Martin McGuinness.  
+>
+> It specifically finds that he was present and probably armed with a ‘sub-machine-gun’, but concludes  
+>
+> ‘we are sure that he did not engage in any activity that provided any of the soldiers with any justification for opening fire’.”  
 
 ---
 
