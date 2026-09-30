@@ -1,6 +1,6 @@
 # ☘️ On Targeting Kneecap And Macklemore
 
-**First created:** 2026-09-19 | **Last updated:** 2026-09-29  
+**First created:** 2026-09-19 | **Last updated:** 2026-09-30  
 *Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*
 
 ---
@@ -1593,7 +1593,8 @@ palestine, gaza, information ecology, securitisation, instrumentalised fear, con
 > - Palestine hunger-strike nodes — *cross-link from the Northern Ireland hunger-strike material when repository path is resolved*
 > - Identity / derisking conditionalities / pre-GFA notes — *working notes outside the repository; preserve as an unresolved routing point*
 > - [📋 Exhibit H: Radicalised Algorithms](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_h_radicalised_algorithms.md) – *submitting the open “wtf Silicon Valley” error ticket vis-a-vis their racialised porn tag aligning with our national broadcaster tag; fucking Americans, man; and these people think we are the weird ones*
-> - [🪼 Voltaire on Monoculture](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🪼_voltaire_on_monoculture.md) – *I will to the death your right to say something, as long as you’re not threatening or harming other people; cf. try not to be a cunt*  
+> - [🪼 Voltaire on Monoculture](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🪼_voltaire_on_monoculture.md) – *I will to the death your right to say something, as long as you’re not threatening or harming other people; cf. try not to be a cunt*
+> - [☘️ Bloody Sunday, 1972.](../../🌊_Playing_Defence/🫀_Grieving_Charlie_Foxtrots/☘️_bloody_sunday_1972.md) - *some context for that song you like; told as a piece about how to develop forces accountability and legal oversight*  
 >
 > 🏮 Return To:
 >
@@ -1605,4 +1606,4 @@ palestine, gaza, information ecology, securitisation, instrumentalised fear, con
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-29_
+_Last updated: 2026-09-30_
