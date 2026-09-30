@@ -74,7 +74,7 @@ Sometimes it will be wrong.
 
 The question is what happens next.  
 
-(And before yees wang on: this is why we have safe accountability systems when something does go wrong, and it’s also why we train people really well and safe non-combat environments, because the last thing any of us ever want to have in the world I’m sure, if we actually give a fuck about the armed forces, is allowing our soldiers to discharge having potentially been involved in something like this. If we care about them, we don’t want to leave someone in the position of having to resolve that trauma, yes, including in situations where they were the aggressor. So I divvnt want to hear any posturing: you should want to be able to have your forces come home, and not have that on their conscience, simply as a result of an operational objective that you wanted to get done, you see?)  
+<!-- (And before yees wang on: this is why we have safe accountability systems when something does go wrong, and it’s also why we train people really well and safe non-combat environments, because the last thing any of us ever want to have in the world I’m sure, if we actually give a fuck about the armed forces, is allowing our soldiers to discharge having potentially been involved in something like this. If we care about them, we don’t want to leave someone in the position of having to resolve that trauma, yes, including in situations where they were the aggressor. So I divvnt want to hear any posturing: you should want to be able to have your forces come home, and not have that on their conscience, simply as a result of an operational objective that you wanted to get done, you see?) -->
 
 ---
 
