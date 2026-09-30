@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-30 04:11:44 UTC_
+_Generated on 2026-09-30 04:15:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -959,6 +959,7 @@ _Generated on 2026-09-30 04:11:44 UTC_
       - [`🕹️_building_safer_sandboxes.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🕹️_building_safer_sandboxes.md)
       - [`🛢️_drilling_for_souls.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🛢️_drilling_for_souls.md)
       - [`🧿_the_visibility_triangle.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🧿_the_visibility_triangle.md)
+      - [`🪁_what_if_starmer_had_kept_pursuing_savile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🪁_what_if_starmer_had_kept_pursuing_savile.md)
     - [**♻️🧿_Observation_Becomes_Intervention/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/.🌱_Still_Growing/notes.txt)
