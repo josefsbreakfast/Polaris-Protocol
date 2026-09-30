@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-09-30 04:19:33 UTC_
+_Generated on 2026-09-30 04:22:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -931,6 +931,9 @@ _Generated on 2026-09-30 04:19:33 UTC_
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/.🌱_Still_Growing/notes.txt)
       - [**🍊🔔_PR_Americana/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/)
+        - [` ☔️_what_if_mann_had_keot_persuing_csa.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/ ☔️_what_if_mann_had_keot_persuing_csa.md)
+        - [` ☔️_what_if_mann_had_kept_pursuing_csa.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/ ☔️_what_if_mann_had_kept_pursuing_csa.md)
+        - [` 🪁_what_if_starmer_had_kept_pursuing_savile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/ 🪁_what_if_starmer_had_kept_pursuing_savile.md)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/notes.txt)
       - [**🎩_Putting_On_Less_Ritz/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/README.md)
@@ -950,8 +953,6 @@ _Generated on 2026-09-30 04:19:33 UTC_
         - [`🦊_cousin_we_have_ideas.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🦊_cousin_we_have_ideas.md)
         - [`🪙_precious_american_coin.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🪙_precious_american_coin.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/README.md)
-      - [`☔️_what_if_mann_had_keot_persuing_csa.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/☔️_what_if_mann_had_keot_persuing_csa.md)
-      - [`☔️_what_if_mann_had_kept_pursuing_csa.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/☔️_what_if_mann_had_kept_pursuing_csa.md)
       - [`🌹_digital_romeo_spy_stories.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🌹_digital_romeo_spy_stories.md)
       - [`🎮_p1_is_practising.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎮_p1_is_practising.md)
       - [`🐺_dickwolves_survivors_guild.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🐺_dickwolves_survivors_guild.md)
@@ -961,7 +962,6 @@ _Generated on 2026-09-30 04:19:33 UTC_
       - [`🕹️_building_safer_sandboxes.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🕹️_building_safer_sandboxes.md)
       - [`🛢️_drilling_for_souls.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🛢️_drilling_for_souls.md)
       - [`🧿_the_visibility_triangle.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🧿_the_visibility_triangle.md)
-      - [`🪁_what_if_starmer_had_kept_pursuing_savile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🪁_what_if_starmer_had_kept_pursuing_savile.md)
     - [**♻️🧿_Observation_Becomes_Intervention/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/.🌱_Still_Growing/notes.txt)
