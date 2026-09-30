@@ -23,6 +23,9 @@ Not in the way that somebody who was in Derry in 1972 remembers Bloody
 Sunday. I was not there. I am not Northern Irish. My family's Irish history does not make somebody else's direct experience of the Troubles mine.  
 
 Although I did understand, through ambient learning within my region, and within the community spaces in which I moved, that when it was someone from Northern Ireland, that could, if only for a matter of luck of location, be me.  
+
+I understand that this is a very self-centred view of the world, and I would like to reiterate that I became aware of this as quite a young child, being a something that had happened. When one is very small, one often thinks about the world in relation to oneself.  
+
 (I recognise and hold my own space for a very specific type of reaction to growing up under the British governance system, although I don’t expect anyone else to have to hold space for it, that is to say I am very aware of over explaining myself, particularly as there has been a recent concern around military base security in the last few days. This is the legacy of what it’s like to grow up when no one has told you directly, but you have been told so many times indirectly, that you have to hide part of who you are. For defence of the realm. I think it’s a very dangerous thing to do to young people; I don’t think how profoundly this affects young people, has reasonably been captured in a way that defence and security can institutionally understand how it feels and what it does to you.)  
 
 I do remember the moment in 2010 well enough that I can approximately
