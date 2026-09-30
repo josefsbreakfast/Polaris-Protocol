@@ -9,7 +9,9 @@ military legitimacy cannot be defended by defending the indefensible.*
 
 > “With permission, Mr Speaker, I would like to make a statement.  
 > 
-> Today, my right hon. Friend the Secretary of State for Northern Ireland is publishing the report of the Saville inquiry—the tribunal set up by the previous Government to investigate the tragic events of 30 January 1972, a day more commonly known as “Bloody Sunday”. We have acted in good faith by publishing the tribunal’s findings as quickly as possible after the general election.”  
+> Today, my right hon. Friend the Secretary of State for Northern Ireland is publishing the report of the Saville inquiry—the tribunal set up by the previous Government to investigate the tragic events of 30 January 1972, a day more commonly known as “Bloody Sunday”.  
+>
+> We have acted in good faith by publishing the tribunal’s findings as quickly as possible after the general election.”  
 
 ---
 
@@ -146,7 +148,21 @@ Saville Inquiry into Bloody Sunday (1998–2010)
 
 The database does not possess vibes.
 
-------------------------------------------------------------------------
+---
+
+> “Lord Saville concludes that the soldiers of Support Company who went into the Bogside    
+>
+> ‘did so as a result of an order… which should have not been given’  
+>
+> by their commander. He finds that  
+> 
+> ‘on balance the first shot in the vicinity of the march was fired by the British Army’  
+>
+> and that
+>
+> ‘none of the casualties shot by soldiers of Support Company was armed with a firearm’.”  
+
+---
 
 ## 🧭 2. Restore The Information Environment
 
