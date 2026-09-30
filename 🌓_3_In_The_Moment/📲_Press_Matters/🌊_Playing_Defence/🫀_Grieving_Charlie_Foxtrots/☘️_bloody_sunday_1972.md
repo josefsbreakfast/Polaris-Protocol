@@ -1,6 +1,6 @@
-# ☘️ Bloody Sunday, 1972
+# ☘️ Bloody Sunday, 1972.
 
-**First created:** 2026-09-30 \| **Last updated:** 2026-09-30\
+**First created:** 2026-09-30 | **Last updated:** 2026-09-30  
 *On Bloody Sunday, the 38 years it took the British state to say plainly
 that the people its soldiers killed had not deserved to die, and why
 military legitimacy cannot be defended by defending the indefensible.*
