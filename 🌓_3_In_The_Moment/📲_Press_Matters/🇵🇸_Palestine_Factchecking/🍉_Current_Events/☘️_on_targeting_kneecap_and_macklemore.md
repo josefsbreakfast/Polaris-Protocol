@@ -1,11 +1,11 @@
 # ☘️ On Targeting Kneecap And Macklemore
 
-**First created:** 2026-09-19 | **Last updated:** 2026-09-30  
+**First created:** 2026-09-19 | **Last updated:** 2026-10-01  
 *Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*
 
 ---
 
-[Beoga just joined the residents of Garvaney Road for a session](https://vm.tiktok.com/ZN8hUW8GP/) and this is more important than any angry oranges.  
+[Beoga just joined the residents of Garvaney Road for a session](https://vm.tiktok.com/ZN8hUW8GP/), [someone’s sensibly erected a stage for audience ease](https://vm.tiktok.com/ZN8hU7nTp/), and this is all more important than any angry oranges.  
 
 I’m realising that calling POTUS the orange man all this time might be an unconscious slip of the tongue. Oh well. They’ll love each other, I’m sure.  
 
@@ -1623,4 +1623,4 @@ palestine, gaza, information ecology, securitisation, instrumentalised fear, con
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-30_
+_Last updated: 2026-10-01_
