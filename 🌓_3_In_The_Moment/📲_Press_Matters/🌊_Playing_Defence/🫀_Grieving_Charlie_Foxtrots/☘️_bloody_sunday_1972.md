@@ -1,6 +1,6 @@
 # ☘️ Bloody Sunday, 1972.
 
-**First created:** 2026-09-30 | **Last updated:** 2026-09-30  
+**First created:** 2026-09-30 | **Last updated:** 2026-10-01  
 *On Bloody Sunday, the 38 years it took the British state to say plainly
 that the people its soldiers killed had not deserved to die, and why
 military legitimacy cannot be defended by defending the indefensible.*
@@ -1409,7 +1409,8 @@ recognition.
 *Look back:*  
 
 - [📹: SlickShots.Ni, via TikTok: “Bloody Sunday. 1972.”](https://vm.tiktok.com/ZN8rwLBu6/) – *includes footage, predominantly immediately prior*
-- [📺: U2, *Rattle and Hum*: “Sunday Bloody Sunday”](https://youtu.be/uPV3FeNBI1Q?is=Tq8clSdSxwpdGnsS) – *this is the history for that song you like*  
+- [📺: U2, *Rattle and Hum*: “Sunday Bloody Sunday”](https://youtu.be/uPV3FeNBI1Q?is=Tq8clSdSxwpdGnsS) – *this is the history for that song you like*
+- [📹: ITV News, via TikTok: “Reporting History: Cameraman reveals what he saw on Bloody Sunday”](https://vm.tiktok.com/ZN8hyfQAa/)  
 
 ------------------------------------------------------------------------
 
@@ -1444,7 +1445,7 @@ suspicion is allowed to survive the people who were killed.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-30*
+*Last updated: 2026-10-01*
 
 [^1]: Bloody Sunday Inquiry, *Principal Conclusions and Overall
     Assessment*, 15 June 2010.
