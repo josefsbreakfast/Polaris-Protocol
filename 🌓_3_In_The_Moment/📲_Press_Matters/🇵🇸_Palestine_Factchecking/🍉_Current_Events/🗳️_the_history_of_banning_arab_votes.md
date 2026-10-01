@@ -1060,7 +1060,7 @@ That variation is not noise.
 
 ---
 
-## 🦑 And now?
+## 🌫️ And now?
 
 As of **1 October 2026**, we are watching the electoral machinery operate in real time.
 
