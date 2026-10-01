@@ -1359,7 +1359,8 @@ IDGAF of the Irish, with Tadhg Hickey”](https://pca.st/episode/9b0782f9-6a8e-4
 - [“We crush our heroes, we really do.”](https://youtu.be/2YHfQ1e1Uk8?is=-CUbO2T7LKl1WKCt)
 - I’m going to let us all consider the links, here.
 - there is a big psychological difference between dying the defence, and dying in pursuit of dominance, to the extent that many people will see one as illegitimate and one as illegitimate; there are still a lot of imperialist behaviours in the Democratic party, it has been costing you votes for a number of years now, that is the thing that you need to fix, if you want to regain power in the long-term. It’s not as if the Republican Party don’t need to fix it either. It’s the imperialism that people don’t like, because generally speaking, there are a lot of people across the entire spectrum who just cannot support a system which takes away from them and their families to a large degree, essentially in the pursuit of dominance rather than something that clearly looks like defence to them.. this isn’t a failing of individuals who can’t get over that choice, that’s actually quite a normal thing for humans to feel. The starkness on the left, is that the people who you are sending to die, are predominantly going to be from the working classes, so when you talk this progressive talk, but you support politics that is extremely directly fatal to the working classes, it’s incredibly stark as an incompatible juxtaposition of aims.
-- No one wanted to die for oil, and no one wants to die for data.  
+- No one wanted to die for oil, and no one wants to die for data.
+- Especially not when we could just more appropriately tax your sugar daddies, disrespectfully. We live in a society; we could resolve a lot of resource tensions by reviewing our social resource allocation system: in part, taxes.  
 
 - - - 
 
