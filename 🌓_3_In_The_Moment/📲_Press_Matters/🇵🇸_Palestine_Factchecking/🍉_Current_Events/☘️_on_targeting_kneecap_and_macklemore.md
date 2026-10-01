@@ -1340,6 +1340,16 @@ And when the information environment starts screaming loudly enough that the ori
 
 ---
 
+## 🎤☘️ Irish Responses of Anti-Hasbara Positioning  
+
+- Tadhg Hickey experienced silencing mechanisms very early, in respect to content that was not inciting, was not overly provocative; the content most silenced was often the pieces that incorporated perfectly legal, nonviolent means, of politically active behaviours that reduced ease of one’s own government to violate the Geneva Conventions regarding genocide prevention. Any jokes in the more raw or barbed sense were not the most highly targeted, viewing from outside (this pov can’t account for how Tadhg experienced it himself or what he could see as a producer of content online).  
+- Tadhg covered this extensively in his work and with others from 2024 onwards:
+- Directly to Irish and British complicity, and in solidarity with Palestinian people: [🎶 Go On Home, IOF Soldiers](https://youtu.be/q73DSeExM2Q?is=4_3yeB9cwIsitCZQ), based on a well-known trad ballad, “Go On Home, British Soldiers” - here is [Eire Og’s version](https://youtu.be/JmSnR1vXhWk?is=HVNost-IurAxs8L8).
+- From my personal pov, the crossover of Tadhg on Bad Hasbara during this period of escalation of genocide is something I returned to often to psychically survive what the fuck we were watching when it felt like Parliament did nothing. Via Pocketcast: [“Bad Hasbara 13: The
+IDGAF of the Irish, with Tadhg Hickey”](https://pca.st/episode/9b0782f9-6a8e-4e1a-9bcc-bb7532d54d0f) - yes representation is so lacking that this was a first on many levels.  
+
+- - - 
+
 ## ☘️-🍊 Bonus Round: Orange Order  
 
 - there is a loyalist march which has repeatedly sought to parade through predominantly Catholic areas in Northern Ireland
