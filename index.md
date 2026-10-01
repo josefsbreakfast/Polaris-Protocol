@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-01 02:16:06 UTC_
+_Generated on 2026-10-01 02:30:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4317,6 +4317,8 @@ _Generated on 2026-10-01 02:16:06 UTC_
       - [`🕯️_deaths_in_politically_sensitive_contexts.md`](🌓_3_In_The_Moment/📲_Press_Matters/🪺_How_To_Handle_Carefully/🕯️_deaths_in_politically_sensitive_contexts.md)
     - [**🫁_Grieving_Truths/**](🌓_3_In_The_Moment/📲_Press_Matters/🫁_Grieving_Truths/)
       - [**🌹🧸_Your_Baby_Does_Not_Just_Disappear/**](🌓_3_In_The_Moment/📲_Press_Matters/🫁_Grieving_Truths/🌹🧸_Your_Baby_Does_Not_Just_Disappear/)
+        - [**🪻_Moving_Forwards/**](🌓_3_In_The_Moment/📲_Press_Matters/🫁_Grieving_Truths/🌹🧸_Your_Baby_Does_Not_Just_Disappear/🪻_Moving_Forwards/)
+          - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🫁_Grieving_Truths/🌹🧸_Your_Baby_Does_Not_Just_Disappear/🪻_Moving_Forwards/notes.txt)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🫁_Grieving_Truths/🌹🧸_Your_Baby_Does_Not_Just_Disappear/notes.txt)
         - [`sources.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🫁_Grieving_Truths/🌹🧸_Your_Baby_Does_Not_Just_Disappear/sources.txt)
       - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🫁_Grieving_Truths/notes.txt)
