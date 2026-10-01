@@ -5,6 +5,22 @@
 
 ---
 
+[Beoga just joined the residents of Garvaney Road for a session](https://vm.tiktok.com/ZN8hUW8GP/) and this is more important than any angry oranges.  
+
+I’m realising that calling POTUS the orange man all this time might be an unconscious slip of the tongue. Oh well. They’ll love each other, I’m sure.  
+
+“But what about…”  
+
+Did I say any of anyone were saints? I’m fascinated when things only come up when they’re politically useful.  
+
+I hope it’s easier to understand my reaction after the collective starvation orders in 2023, now; some shit only looks one way.  
+
+We don’t need coercive systems of power anymore. And The Lost Children of Tuam is out in Eire and will be out in the UK in a week.  
+
+We can dig up the bones of the past with care where they were taken wrongly, and put them to rest in a more just place.  
+
+---
+
 NB: This node will be reorganised and moved where needed so that the final focus is on this as a flashpoint of Palestinian erasure at a time of risk of genocide.  
 
 Sadly, as this appears to often proceed disturbance and division based on Irish identity, a lot of things are going into this particular note at this moment for capture – that’s why everything is going in this node to begin with, and then it will be moved out as I’ve got time.  
