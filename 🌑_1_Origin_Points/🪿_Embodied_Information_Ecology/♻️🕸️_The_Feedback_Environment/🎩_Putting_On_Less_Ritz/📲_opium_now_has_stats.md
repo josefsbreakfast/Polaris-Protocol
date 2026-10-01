@@ -1,6 +1,6 @@
 # 📲 Opium Now Has Stats
 
-**First created:** 2026-10-01 \| **Last updated:** 2026-10-01\
+**First created:** 2026-10-01 | **Last updated:** 2026-10-01  
 *The opium did not disappear. It acquired telemetry. On consolation, attention, behavioural feedback, political agency, information defence, and what happens when the delivery system can observe the person using it.*
 
 ------------------------------------------------------------------------
@@ -1662,7 +1662,11 @@ questions**, not documented historical causation.
 
 ♻️ 🕸️ 🧠 🛡️ 🎰 --- feedback systems; embodied information ecology;
 behavioural reinforcement; democratic agency; commercially mediated
-information environments; information defence.
+information environments; information defence.  
+
+*Follow the evidence:*  
+
+- [📹: Lewis Aaron: “The UK Government was allergely warned about possible attacks at RAF Fairford”](https://vm.tiktok.com/ZN8hUwLVt/) – *Aw. Federl doesn’t like it. Federl is trying to ban shidduchim again. Poor little Benji. BRO JUST GO TO THE HAGUE FFS. Take your mates with you for company; idgaf.*  
 
 ------------------------------------------------------------------------
 
