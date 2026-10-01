@@ -1346,7 +1346,9 @@ And when the information environment starts screaming loudly enough that the ori
 - Tadhg covered this extensively in his work and with others from 2024 onwards:
 - Directly to Irish and British complicity, and in solidarity with Palestinian people: [🎶 Go On Home, IOF Soldiers](https://youtu.be/q73DSeExM2Q?is=4_3yeB9cwIsitCZQ), based on a well-known trad ballad, “Go On Home, British Soldiers” - here is [Eire Og’s version](https://youtu.be/JmSnR1vXhWk?is=HVNost-IurAxs8L8).
 - From my personal pov, the crossover of Tadhg on Bad Hasbara during this period of escalation of genocide is something I returned to often to psychically survive what the fuck we were watching when it felt like Parliament did nothing. Via Pocketcast: [“Bad Hasbara 13: The
-IDGAF of the Irish, with Tadhg Hickey”](https://pca.st/episode/9b0782f9-6a8e-4e1a-9bcc-bb7532d54d0f) - yes representation is so lacking that this was a first on many levels.  
+IDGAF of the Irish, with Tadhg Hickey”](https://pca.st/episode/9b0782f9-6a8e-4e1a-9bcc-bb7532d54d0f) - yes representation is so lacking that this was a first on many levels.
+- Episode discusses the attacks on UNRWA. The “Board of ‘Peace’” is still trying to keep its work out of Gaza now, despite it being relatively most trusted in terms of international NGOs by Palestinians living in Gaza. This is not irrelevant to the current calls by my besties, UKLFI, in their current calls for proscribing MSF. The shape of the narrative is very similar.
+- Hopefully now that this note and some adjacent ones have been in circulation for a few days, you might be able to look back at statements that you might have found to be quite cutting and quite blunt coming from Irish speakers, and understand and appreciate why they were as blunt as they were about what looks an awful lot like prior experiences that Irish people have gone through and survived.  
 
 - - - 
 
