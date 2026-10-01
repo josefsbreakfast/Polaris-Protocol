@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-01 02:59:00 UTC_
+_Generated on 2026-10-01 07:47:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -957,6 +957,7 @@ _Generated on 2026-10-01 02:59:00 UTC_
         - [`📋_exhibit_h_radicalised_algorithms.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_h_radicalised_algorithms.md)
         - [`📋_exhibit_j_where_the_fuck_is_that_email.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_j_where_the_fuck_is_that_email.md)
         - [`📚_we_have_a_sanctions_framework_cousin.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📚_we_have_a_sanctions_framework_cousin.md)
+        - [`📲_opium_now_has_stats.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📲_opium_now_has_stats.md)
         - [`🦊_cousin_we_have_ideas.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🦊_cousin_we_have_ideas.md)
         - [`🪙_precious_american_coin.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🪙_precious_american_coin.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/README.md)
