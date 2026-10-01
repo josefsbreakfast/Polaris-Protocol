@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-01 02:48:20 UTC_
+_Generated on 2026-10-01 02:56:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5382,6 +5382,8 @@ _Generated on 2026-10-01 02:48:20 UTC_
     - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/notes.txt)
     - [`📜_tapestry_draft.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/📜_tapestry_draft.md)
   - [**🧩_Shattering_1000_Glass_Pieces/**](🌖_6_Learning_The_Skies/🧩_Shattering_1000_Glass_Pieces/)
+    - [**♻️_Applied_Cybernetics/**](🌖_6_Learning_The_Skies/🧩_Shattering_1000_Glass_Pieces/♻️_Applied_Cybernetics/)
+      - [`☘️🕎_diaspora_proxies_in_america.md`](🌖_6_Learning_The_Skies/🧩_Shattering_1000_Glass_Pieces/♻️_Applied_Cybernetics/☘️🕎_diaspora_proxies_in_america.md)
     - [`notes.txt`](🌖_6_Learning_The_Skies/🧩_Shattering_1000_Glass_Pieces/notes.txt)
   - [`README.md`](🌖_6_Learning_The_Skies/README.md)
 - [**🏮_Admin_Nest/**](🏮_Admin_Nest/)
