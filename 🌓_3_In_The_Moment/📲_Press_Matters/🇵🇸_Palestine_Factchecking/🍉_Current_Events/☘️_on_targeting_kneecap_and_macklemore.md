@@ -5,6 +5,18 @@
 
 ---
 
+the playlist now has a DNS hostname resolution failure for spotify.app.link  
+
+this is, obviously, fucking hilarious.  
+
+I will start explaining when calling a campaign “Gideon’s chariots” was a bit on the fucking nose for “population reduction” if you can’t get the dns level to work from California.  
+
+but…  
+
+probably a bit of a note for the British government on who feels uncomfortable with peace in Northern Ireland, ey?  
+
+---
+
 [Beoga just joined the residents of Garvaney Road for a session](https://vm.tiktok.com/ZN8hUW8GP/), someone’s sensibly erected a stage for audience ease and [the Mary Wallopers are up](https://vm.tiktok.com/ZN8hU7nTp/), [Áine and Gerry from The Irish Brigade have given a rendition of Savage Daughter that honours Gaza](https://vm.tiktok.com/ZN8hy4TPh/), and this is all more important than any angry oranges.  
 
 I’m realising that calling POTUS the orange man all this time might be an unconscious slip of the tongue. Oh well. They’ll love each other, I’m sure.  
