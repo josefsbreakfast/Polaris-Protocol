@@ -621,7 +621,7 @@ The concept earns its usefulness only if those distinctions remain intact.
 
 *Follow the evidence:*  
 
-- [📺: David Rovics: “Cancelled to Death”](https://youtu.be/3_UW9qhw8y8?is=zV7qqE8i6vAJ1pxR)  
+- [📺: David Rovics: “Cancelled to Death”](https://youtu.be/3_UW9qhw8y8?is=zV7qqE8i6vAJ1pxR) – *Among the many terrible potential impacts of cancelation on a person, one of them is death.*  
 
 ---
 
