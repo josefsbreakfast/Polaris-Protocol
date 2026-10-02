@@ -1,5 +1,5 @@
 # 🌈 Gold Pot Chasers  
-**First created:** 2026-06-15 | **Last updated:** 2026-06-15  
+**First created:** 2026-06-15 | **Last updated:** 2026-10-02  
 *A Learning The Skies cluster on digital modernisation, procurement fantasy, shared exploit surfaces, and why there is no final-answer technology at the end of the cyber rainbow.*
 
 ---
@@ -194,6 +194,30 @@ That overlap needs to be understood before it is automated, centralised, outsour
 
 ---
 
+## 🧬 Current Research Seam
+
+The cluster is currently being tested against a concrete safeguarding question:
+
+> when information about perpetration is distributed across child protection, policing, offender management, domestic-abuse, security, intelligence, and other systems, who can reconstruct the pattern across institutional boundaries?
+
+This does **not** establish that one missing database would solve the problem, or that counter-terrorism architecture deliberately obscures safeguarding information.
+
+The present task is narrower:
+
+- establish what systems actually exist;
+- establish their statutory and operational purposes;
+- establish what information can move between them;
+- identify who owns correction;
+- identify who owns aggregation;
+- identify where visibility changes when information crosses into security or intelligence handling;
+- and only then test exploit pathways.
+
+The cluster's existing rule applies:
+
+> start with the record, not the theory.
+
+---
+
 ## 🧰 Procurement Without Diagnosis
 
 This cluster also teaches the wrong-tool problem.
@@ -282,22 +306,22 @@ Rights are defensive infrastructure.
 
 ## 🗂️ Cluster Structure
 
-### ⚪️ `orientation_note.md`
+The live repository is organised by conceptual function rather than numbered sequence. The reading route below supplies sequence without pretending the underlying problem is linear.
 
-Explains how to read the cluster.
+### 🪼 `🪼_orientation_note.md`
 
-This includes:
+Explains how to read the cluster, including:
 
 - the pot-of-gold metaphor;
 - the anti-Irish stereotype inversion;
 - the use of dark humour;
-- the non-linear method;
+- the non-linear seam-tracking method;
 - the anti-overclaiming discipline;
 - and why this belongs in Learning The Skies.
 
-### 🧾 `glossary_and_terms.md`
+### 🧾 `🧾_glossary_and_terms.md`
 
-Defines recurring terms used across the cluster, including:
+Defines the cluster's recurring working vocabulary, including:
 
 - pot of gold problem;
 - shared exploit surface;
@@ -307,24 +331,22 @@ Defines recurring terms used across the cluster, including:
 - misaligned risk models;
 - chain dependency;
 - procurement as policy;
-- wrong-tool problem;
 - public legibility gap;
 - rights usability;
-- rights as defence infrastructure;
 - second-order data;
 - pattern documentation;
-- coercive exploitability.
+- and coercive exploitability.
 
-### `1_The_Core_Problem/`
+### `🕸️_Core_Problem/`
 
-Introduces the main conceptual frame:
+Holds the conceptual spine:
 
 - digital modernisation is not a final answer;
 - digital is not side-admin;
 - Britain is a house inside changing weather;
 - the shared exploit surface is the core systems risk.
 
-### `2_The_Input_Stack/`
+### `🍃_Input_Stack/`
 
 Maps the pressures loading the system:
 
@@ -334,51 +356,55 @@ Maps the pressures loading the system:
 - second-order data;
 - and why separate policy domains now share infrastructure.
 
-### `3_Emergency_Load_Bearers/`
+### `🔥_Emergency_Load_Bearers/`
 
-Shows how emergencies reveal weak architecture:
+Examines how emergencies expose, load, and sometimes normalise weak architecture:
 
 - Brexit;
 - Covid;
 - war platforms;
 - diaspora pressure;
 - public-order stress tests;
-- and the tendency to build permanent systems around emergency logic.
+- and permanent systems built around emergency logic.
 
-### `4_Tools_Procurement_And_Vendors/`
+### `💸_Tools_Procurement_And_Vendors/`
 
-Explains the tool problem:
+Examines the tool layer:
 
 - wrong-tool thinking;
 - the Screwfix problem;
-- cloud dependency;
-- software subscription dependency;
+- cloud and software dependency;
 - procurement contracts for non-specialists;
-- and how procurement becomes policy.
+- and the point at which procurement becomes policy.
 
-### `5_Public_Legibility_And_Coercive_Exploits/`
+### `🍄_Public_Legibility_And_Coercive_Exploits/`
 
-Explains why the public can see scandals but not the structure beneath them:
+Examines why scandals are easier to recognise than the structures beneath them:
 
 - public legibility gaps;
 - networked impunity;
 - how predators learn gaps first;
 - actor pathways without overclaiming;
 - hostile-state layers;
-- and why the issue reaches defence logic.
+- and the route from domestic systems weakness to defence logic.
 
-### `6_Lenses/`
+### `💫_Reviewing_POV/`
 
-Applies Polaris lenses carefully:
+Provides a deliberate perspective-checking layer.
 
-- containment studies;
-- exousiological dynamics;
-- CRAKEN cartography;
-- and how to use these lenses without turning analysis into overclaiming.
+Its function is to test whether the map changes when the observer changes, including:
 
-### `7_Synthesis/`
+- what each institution can see;
+- what each institution is trying to protect;
+- what each institution calls risk;
+- what disappears at the boundary between systems;
+- and whether a person is being treated as a rights-holder, witness, victim, suspect, threat, or administrative object.
 
-Turns the map toward repair:
+This folder should be used to challenge the cluster's own assumptions rather than manufacture false balance.
+
+### `🎶_Synthesis/`
+
+Turns the map back toward repair:
 
 - how the stack becomes exploitable;
 - resilience instead of final answers;
@@ -392,20 +418,24 @@ Turns the map toward repair:
 
 For a first pass, read in this order:
 
-1. `⚪️_orientation_note.md`
+1. `🪼_orientation_note.md`
 2. `🧾_glossary_and_terms.md`
-3. `1_The_Core_Problem/🌈_the_pot_of_gold_problem.md`
-4. `1_The_Core_Problem/🖥️_digital_is_not_side_admin.md`
-5. `1_The_Core_Problem/🧱_the_shared_exploit_surface.md`
-6. `4_Tools_Procurement_And_Vendors/🧰_the_screwfix_problem.md`
-7. `5_Public_Legibility_And_Coercive_Exploits/🧨_actor_pathways_without_overclaiming.md`
-8. `7_Synthesis/🧾_what_to_audit.md`
+3. `🕸️_Core_Problem/`
+4. `🍃_Input_Stack/`
+5. `💸_Tools_Procurement_And_Vendors/`
+6. `🍄_Public_Legibility_And_Coercive_Exploits/`
+7. `💫_Reviewing_POV/`
+8. `🎶_Synthesis/`
 
 The full cluster can be read non-linearly.
 
 That is part of the point.
 
 The failure is not contained inside one neat policy silo, so the teaching route cannot pretend that it is.
+
+The reader should be able to enter through safeguarding, cyber, procurement, public order, hostile-state pressure, disability access, justice, or rights usability and still reach the same audit question:
+
+> where does responsibility, visibility, correction, or protection disappear between systems?
 
 ---
 
@@ -483,15 +513,14 @@ This cluster sits inside **Learning The Skies** as applied systems pedagogy for 
 >
 > - [🪼 Orientation Note](./🪼_orientation_note.md) — *reader guidance, metaphor framing, and anti-overclaiming discipline for this cluster*  
 > - [🧾 Glossary And Terms](./🧾_glossary_and_terms.md) — *working definitions for the cluster’s recurring systems vocabulary*  
-> - [🌈 The Pot Of Gold Problem](./1_The_Core_Problem/🌈_the_pot_of_gold_problem.md) — *core conceptual node on digital modernisation as false final answer*  
-> - [🧱 The Shared Exploit Surface](./1_The_Core_Problem/🧱_the_shared_exploit_surface.md) — *spine node for convergent exploitation across weak legal, technical, and institutional seams*
+> - [🌈 The Pot Of Gold Problem](./🕸️_Core_Problem/🌈_the_pot_of_gold_problem.md) — *core conceptual node on digital modernisation as false final answer*  
+> - [🧱 The Shared Exploit Surface](./🕸️_Core_Problem/🧱_the_shared_exploit_surface.md) — *spine node for convergent exploitation across weak legal, technical, and institutional seams*
 >
 > 🏮 Return To:
 >
-> - [🌈 Gold Pot Chasers](./) — *current cluster*  
-> - [🌖 Learning The Skies](../README.md) — *applied learning and systems-pedagogy parent folder*  
-> - [🌌 Polaris Protocol](../../README.md) — *root archive*
+> - [🌖 Learning The Skies](../README.md) — *1up*  
+> - [🌌 Polaris Protocol](../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-15_
+_Last updated: 2026-10-02_
