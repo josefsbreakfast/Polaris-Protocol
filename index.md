@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-02 22:42:10 UTC_
+_Generated on 2026-10-02 22:54:38 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4222,6 +4222,7 @@ _Generated on 2026-10-02 22:42:10 UTC_
             - [`🕯️_the_threshold_of_belief.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/🕯️_the_threshold_of_belief.md)
             - [`🚀_timelining_british_responses_to_cse.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/🚀_timelining_british_responses_to_cse.md)
             - [`🧨_the_expectation_of_scandal.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/🧨_the_expectation_of_scandal.md)
+            - [`🫀_hashtag_i_am_jane_doe.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/🫀_hashtag_i_am_jane_doe.md)
             - [`🫤_why_elite_denials_dont_work_anymore.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐉_Societal_Responses/🫤_why_elite_denials_dont_work_anymore.md)
           - [**🐦‍🔥_Surviving/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐦‍🔥_Surviving/)
             - [` 🐈‍⬛_diy_pussy_hat_archive.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🐦‍🔥_Surviving/ 🐈‍⬛_diy_pussy_hat_archive.md)
