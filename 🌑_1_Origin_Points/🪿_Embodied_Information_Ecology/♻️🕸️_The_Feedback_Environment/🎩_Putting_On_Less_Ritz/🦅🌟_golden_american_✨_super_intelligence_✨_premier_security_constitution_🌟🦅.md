@@ -863,6 +863,10 @@ You may have a sticker.
 - [📰: CBS News: “Trump and major AI executives sign "morally binding" voluntary controls: "It's almost like a constitution"”](https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/) ????
 - [📺: The Met: “Camp: Notes on Fashion”](https://youtu.be/tIj6D1CQMBQ?is=FNO17xUl5o2_TuNN) !!!!
 
+> “In place of a hermeneutics we need an erotics of art.”  
+> 
+> — Susan Sontag, *Against Interpretation*.  
+
 ---
 
 ## ✨ Stardust
