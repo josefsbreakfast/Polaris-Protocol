@@ -1,5 +1,5 @@
 # 👾 Digitally Mediated Zersetzung
-**First created:** 2026-08-19 | **Last updated:** 2026-09-06  
+**First created:** 2026-08-19 | **Last updated:** 2026-10-02  
 *A proposed analytic term for Zersetzung-like processes whose cumulative effects are produced, propagated, amplified, or coordinated through contemporary digital systems.*
 
 ---
@@ -619,6 +619,10 @@ The concept earns its usefulness only if those distinctions remain intact.
 ## 🌌 Constellations
 👾 🕸️ ♻️ 🫥 🧿 — digital repression; feedback environments; social disintegration; embodied information; evidential discipline.  
 
+*Follow the evidence:*  
+
+- [📺: David Rovics: “Cancelled to Death”](https://youtu.be/3_UW9qhw8y8?is=zV7qqE8i6vAJ1pxR)  
+
 ---
 
 ## ✨ Stardust
@@ -646,4 +650,4 @@ digital authoritarianism, digital repression, zersetzung, transnational repressi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-06_
+_Last updated: 2026-10-02_
