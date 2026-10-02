@@ -15,9 +15,11 @@ but…
 
 probably a bit of a note for the British government on who feels uncomfortable with peace in Northern Ireland, ey?  
 
-obviously, if it’s just that American software and cloud services are shit, it is completely in Spotify’s power to fix it so that Palestinian, Irish, Black, Irish diaspora, leftist Israeli, and Jewish diaspora voices are not accidentally silenced by a routing error.  
+obviously, if it’s just that American software and cloud services are shit, it is completely in Spotify’s power to fix it so that Palestinian, Irish, Black British, Black American, Irish diaspora, leftist Israeli, and Jewish diaspora voices are not accidentally silenced by a routing error.  
 
 we’ll see what happens. I’ll add to the list what I add to the playlist.  
+
+maybe Spotify just needs to flush the cache. who knows.  
 
 ---
 
