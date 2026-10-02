@@ -1056,6 +1056,10 @@ And if the next person approaching the fence is quieter, better trained and cons
 
 ✈️ 🧱 🛡️ 👷 🧪 — defence resilience; physical security; worker safety; threat modelling; institutional reality-testing.
 
+*Follow the evidence:*  
+
+- [📰: The Guardian: “Palestine Action activists used whips and hammers to threaten guards at arms factory, court hears”](https://www.theguardian.com/uk-news/2026/oct/02/palestine-action-activists-whips-hammers-guards-elbit-bristol) – *current coverage*  
+
 ---
 
 ## ✨ Stardust
