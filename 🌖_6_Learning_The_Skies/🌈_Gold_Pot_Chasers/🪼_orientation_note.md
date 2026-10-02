@@ -1,5 +1,5 @@
 # 🪼 Orientation Note  
-**First created:** 2026-06-15 | **Last updated:** 2026-06-15  
+**First created:** 2026-06-15 | **Last updated:** 2026-10-02  
 *Reader guidance for the Gold Pot Chasers cluster, including method, metaphor, tone, and anti-overclaiming discipline.*
 
 ---
@@ -108,6 +108,27 @@
 - Pattern documentation is not the same as proof of intent.
 - Plausible exploitation analysis is not the same as accusation.
 - A no-fault failure stack can still be dangerous.
+
+## 🧬 Current Research Seam — Perpetrator Legibility
+
+- The current safeguarding work sharpens one existing Gold Pot question:
+  - can separate systems reconstruct a pattern of perpetration when relevant information is distributed across different institutional purposes, thresholds, labels, and access rules?
+- This is not yet a conclusion that counter-terrorism architecture hides safeguarding information.
+- It is an audit hypothesis.
+- The questions are narrower:
+  - who holds what;
+  - what is each record for;
+  - what can be shared;
+  - what cannot be shared;
+  - who can connect records across systems;
+  - who owns correction when a label is wrong;
+  - who owns aggregation when a pattern is fragmented;
+  - and whether additional security or intelligence handling rules alter safeguarding visibility.
+- The no-fault case comes first.
+- A system can be unsafe even when each participating institution is acting within its own remit.
+- Only after mapping that architecture should the cluster ask how an adversarial actor could exploit the same seam.
+
+---
 
 ## 🧱 Anti-Overclaiming Discipline
 
@@ -238,15 +259,15 @@ This node anchors the cluster’s non-linear reading method without allowing com
 >
 > - [🌈 Gold Pot Chasers](./README.md) — *cluster spine for digital modernisation, procurement fantasy, and shared exploit surface pedagogy*  
 > - [🧾 Glossary And Terms](./🧾_glossary_and_terms.md) — *working vocabulary for the cluster’s recurring systems concepts*  
-> - [🌈 The Pot Of Gold Problem](./1_The_Core_Problem/🌈_the_pot_of_gold_problem.md) — *core conceptual node on false final-answer technologies*  
-> - [🧱 The Shared Exploit Surface](./1_The_Core_Problem/🧱_the_shared_exploit_surface.md) — *spine node for convergent exploitation across weak legal, technical, and institutional seams*
+> - [🌈 The Pot Of Gold Problem](./🕸️_Core_Problem/🌈_the_pot_of_gold_problem.md) — *core conceptual node on false final-answer technologies*  
+> - [🧱 The Shared Exploit Surface](./🕸️_Core_Problem/🧱_the_shared_exploit_surface.md) — *spine node for convergent exploitation across weak legal, technical, and institutional seams*
 >
 > 🏮 Return To:
 >
-> - [🌈 Gold Pot Chasers](./README.md) — *current cluster*  
-> - [🌖 Learning The Skies](../README.md) — *applied learning and systems-pedagogy parent folder*  
-> - [🌌 Polaris Protocol](../../README.md) — *root archive*
+> - [🌈 Gold Pot Chasers](./README.md) — *1up*  
+> - [🌖 Learning The Skies](../README.md) — *2up*  
+> - [🌌 Polaris Protocol](../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-15_
+_Last updated: 2026-10-02_
