@@ -15,6 +15,10 @@ but…
 
 probably a bit of a note for the British government on who feels uncomfortable with peace in Northern Ireland, ey?  
 
+obviously, if it’s just that American software and cloud services are shit, it is completely in Spotify’s power to fix it so that Palestinian, Irish, Irish diaspora, and Jewish diaspora voices are not accidentally silenced by a routing error.  
+
+we’ll see what happens. I’ll add to the list what I add to the playlist.  
+
 ---
 
 [Beoga just joined the residents of Garvaney Road for a session](https://vm.tiktok.com/ZN8hUW8GP/), someone’s sensibly erected a stage for audience ease and [the Mary Wallopers are up](https://vm.tiktok.com/ZN8hU7nTp/), [Áine and Gerry from The Irish Brigade have given a rendition of Savage Daughter that honours Gaza](https://vm.tiktok.com/ZN8hy4TPh/), and this is all more important than any angry oranges.  
