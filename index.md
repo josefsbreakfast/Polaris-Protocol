@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-02 08:18:10 UTC_
+_Generated on 2026-10-02 08:27:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2507,6 +2507,7 @@ _Generated on 2026-10-02 08:18:10 UTC_
         - [`🪰_digital_deet_algorithmic_invasiveness.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🧬_Algorithmic_Endocrinology/🪰_digital_deet_algorithmic_invasiveness.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/notes.txt)
+      - [`🌺_the_opium_empire_has_telemetry.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🌺_the_opium_empire_has_telemetry.md)
     - [**🫀🕸️_Information_Is_Experienced/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/.🌱_Still_Growing/notes.txt)
