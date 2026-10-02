@@ -9,5 +9,7 @@ in draft, notes:
 - [📹: NowThis Impact: “'Journalist' trying to doxx Cornell Jane Doe defended Epstein predators”](https://vm.tiktok.com/ZN8h4Ndoq/)
 - [📹: The Washington Post: “Gov. Hochul criticized a county district attorney's office for allegedly failing to protect a former Cornell student who said she was gang-raped at a frat house. Hochul appointed New York Attorney General Letitia James to lead the investigation.”](https://vm.tiktok.com/ZN8h4jHdV/)
 - [📹: YourBestieMisha: “At what point did you lose your conscience?”](https://vm.tiktok.com/ZN8h4D3bD/)
+- [📹: Ann Russell: “There is no shame for a victim, end of.”](https://vm.tiktok.com/ZN8h4113a/)
+- 
 
 
