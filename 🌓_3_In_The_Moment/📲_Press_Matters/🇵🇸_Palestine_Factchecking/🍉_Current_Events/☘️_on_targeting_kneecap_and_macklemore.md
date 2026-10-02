@@ -805,7 +805,8 @@ That bargain can be refused.
 ## 12. ✊ Cable Street: Remember Who Your Fucking Neighbours Are
 
 - [Battle of Cable Street](https://en.wikipedia.org/wiki/Battle_of_Cable_Street)
-- [🎶: The Young ‘Uns: The Ballad of Johnny Longstaff](https://vm.tiktok.com/ZN8r5xxdW/)  
+- [🎶: The Young ‘Uns: The Ballad of Johnny Longstaff](https://vm.tiktok.com/ZN8r5xxdW/)
+- [📹: Trades Union Congress, via TikTok: “90 years since The Battle of Cable Street, we're remembering the trade unionists long history of fighting fascism.”](https://vm.tiktok.com/ZN8hXWPFX/)  
 
 Cable Street is not useful because it proves eternal Irish–Jewish friendship.
 
