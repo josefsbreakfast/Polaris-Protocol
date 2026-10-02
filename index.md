@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-02 15:32:24 UTC_
+_Generated on 2026-10-02 15:36:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1529,6 +1529,8 @@ _Generated on 2026-10-02 15:32:24 UTC_
     - [**🐣_The_Whole_Ecology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/.🌱_Still_Growing/notes.txt)
+      - [**☘️_Caution_Decolonisation_In_Process/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/☘️_Caution_Decolonisation_In_Process/)
+        - [`20261002_🧠🫀.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/☘️_Caution_Decolonisation_In_Process/20261002_🧠🫀.md)
       - [**🛟_Borders_Boats_Walls/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/🛟_Borders_Boats_Walls/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/🛟_Borders_Boats_Walls/README.md)
         - [`⚖️_coercive_control_in_border_policy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/🛟_Borders_Boats_Walls/⚖️_coercive_control_in_border_policy.md)
