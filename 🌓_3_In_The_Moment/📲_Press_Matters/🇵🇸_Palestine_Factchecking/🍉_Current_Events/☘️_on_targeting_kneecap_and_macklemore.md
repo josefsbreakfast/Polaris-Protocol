@@ -21,6 +21,26 @@ we’ll see what happens. I’ll add to the list what I add to the playlist.
 
 maybe Spotify just needs to flush the cache. who knows.  
 
+“but why would Israeli voices get silenced?”
+
+because yael deckelbaum is “the wrong sort” of Israeli voice. 
+
+“women wage peace” are the “wrong sort” of Israeli voices.  
+
+and yes, three of their members were killed on October 7th.  
+
+and Al-Aqsa flood, on October 7th, was in response to what was essentially a decades long imprisonment of a population of refugees, with nowhere to go, surviving siege conditions.  
+
+but we can’t easily acknowledge any of that grief because we’re all asked to keep turning up the dial of violence, and for what?  
+
+what about the last three years has made Israelis feel any safer?  
+
+I just don’t think any of this is for what we are told it is for.  
+
+which is why we all get silenced, when we allow powerful men to do that to whole groups of us.  
+
+anyways. keep bashing out the tunes. we will get there.  
+
 ---
 
 [Beoga just joined the residents of Garvaney Road for a session](https://vm.tiktok.com/ZN8hUW8GP/), someone’s sensibly erected a stage for audience ease and [the Mary Wallopers are up](https://vm.tiktok.com/ZN8hU7nTp/), [Áine and Gerry from The Irish Brigade have given a rendition of Savage Daughter that honours Gaza](https://vm.tiktok.com/ZN8hy4TPh/), and this is all more important than any angry oranges.  
