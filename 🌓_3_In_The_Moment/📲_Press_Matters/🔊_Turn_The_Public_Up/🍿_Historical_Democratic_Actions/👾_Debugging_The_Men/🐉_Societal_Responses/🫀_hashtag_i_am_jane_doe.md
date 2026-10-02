@@ -12,6 +12,7 @@ in draft, notes:
 - [📹: Ann Russell: “There is no shame for a victim, end of.”](https://vm.tiktok.com/ZN8h4113a/)
 - [📹: Dr Shawna: “Have you heard of ‘the red zone’? New research complicates our old definition and pushes us to think about the elevated threat to young women in college campus as much more situated within risk factors and social context.”](https://vm.tiktok.com/ZN8h4DfEd/)
 - [📹: CNN: “Snapchat messages exchanged during the alleged assault at Cornell University include a photo of then-student Jane Doe in a room at the fraternity house, according to images of the chain obtained by CNN.”](https://vm.tiktok.com/ZN8hXKpMm/)
-- [📹: Democrats: “Trump responds to a question about Attorney General Letitia James being appointed as the special prosecutor to the Cornell sexual assault case.“](https://vm.tiktok.com/ZN8h4LMYA/)  
+- [📹: Democrats: “Trump responds to a question about Attorney General Letitia James being appointed as the special prosecutor to the Cornell sexual assault case.“](https://vm.tiktok.com/ZN8h4LMYA/)
+- [📹: AngryMaleVet: “Please add your name to the effort by @NWLCto keep the national spotlight on what happened at #cornell and has happened at universities across this nation”](https://vm.tiktok.com/ZN8h4dVyy/)  
 
 
