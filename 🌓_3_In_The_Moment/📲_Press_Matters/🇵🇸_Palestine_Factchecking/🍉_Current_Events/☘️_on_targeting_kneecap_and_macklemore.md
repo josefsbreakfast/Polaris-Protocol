@@ -51,6 +51,8 @@ we don’t have to make ourselves “less complicated” to fit in some stand is
 
 fuck that.  
 
+your hamas-boolian is no different to getting me to say the alphabet to see how I pronounce the letter h, my guy, and I ain’t falling for that.  
+
 ---
 
 [Beoga just joined the residents of Garvaney Road for a session](https://vm.tiktok.com/ZN8hUW8GP/), someone’s sensibly erected a stage for audience ease and [the Mary Wallopers are up](https://vm.tiktok.com/ZN8hU7nTp/), [Áine and Gerry from The Irish Brigade have given a rendition of Savage Daughter that honours Gaza](https://vm.tiktok.com/ZN8hy4TPh/), and this is all more important than any angry oranges.  
