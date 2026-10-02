@@ -1,6 +1,6 @@
 # ☘️ On Targeting Kneecap And Macklemore
 
-**First created:** 2026-09-19 | **Last updated:** 2026-10-02  
+**First created:** 2026-09-19 | **Last updated:** 2026-10-03  
 *Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*
 
 ---
@@ -1476,7 +1476,10 @@ Breandán Mac Cionnaith has asked why the Orange Order want to walk through an a
 - [📰: RTÉ: “US politicians call on Bryant to stop 'contentious' Orange Order march”](https://www.rte.ie/news/ireland/2026/1001/1593724-us-bryant/)
 - [📲: Congressman Richard Neal, via X: US Congressional Friends of Ireland Caucus letter to Northern Ireland Secretary Chris Bryant](https://x.com/RepRichardNeal/status/1973833479856873849) – [picked up via TikTok](https://vm.tiktok.com/ZN8hy7TeJ/) *front end for nitter is failing; please screenshot widely*
 - [📹: Miriam, via TikTok: “Two-tier policing system”](https://vm.tiktok.com/ZN8hXmYqr/) – *this is what occurs when your laws against violence are not clearly defined, and can be interpreted to be discriminatory; the Palesticine Action T-shirts were on similar ground, and I think we can all agree that T-shirts may not be worth the resource spend to police*
-- [📹: RTÉ News: “People have travelled from all over Northern Ireland to support Garvaghy Road residents in their stand-off with a group of Orange Order members seeking to parade through the area.”](https://vm.tiktok.com/ZN8h4FtFR/)  
+- [📹: RTÉ News: “People have travelled from all over Northern Ireland to support Garvaghy Road residents in their stand-off with a group of Orange Order members seeking to parade through the area.”](https://vm.tiktok.com/ZN8h4FtFR/)
+- [📹: The Irish News: “”](https://vm.tiktok.com/ZN8h42xaH/) – *apparently “the law is the law”, but treaties are not?? I’m curious to know how the HOM and MI5 etc ecosystem is advising on this*  
+- [📹: Aodhán Roberts: “Police have now exited their vehicles, fully geared up. It seems like a push towards the crowd may not be far off after negotiations failed.”](https://vm.tiktok.com/ZN8h4R62a/)  
+- [📹: Virgin Media News: “Drumcree Dispute: ‘There will be consequences for people who break the law and stop this lawful parade,’ says PSNI Chief Constable Jon Boutcher”](https://vm.tiktok.com/ZN8h4hcUn/)  
 
 It’s really interesting in so much discourse about MP safety, that’s happened over the last few months, there are a lot of people are extremely silent right now, and I want to make it extremely clear and I’m not saying that anyone should necessarily be threatened, I’m saying that if you care about safety, you should be caring about everybody’s safety. I haven’t seen Nigel speak on this, but then maybe these women are too liberal and too centrist for him, seeing that he was all “up the RA” on his cameo account. (Just joking, I think the last thing that anyone needs is anyone from that political group to be inserting their noses into anything here.)  
 
@@ -1712,4 +1715,4 @@ palestine, gaza, information ecology, securitisation, instrumentalised fear, con
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-02_
+_Last updated: 2026-10-03_
