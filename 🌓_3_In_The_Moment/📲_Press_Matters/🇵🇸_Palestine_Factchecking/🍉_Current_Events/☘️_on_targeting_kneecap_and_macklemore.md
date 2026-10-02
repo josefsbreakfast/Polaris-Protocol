@@ -41,6 +41,16 @@ which is why we all get silenced, when we allow powerful men to do that to whole
 
 anyways. keep bashing out the tunes. we will get there.  
 
+“please be less complex.”  
+
+no.  
+
+this system hurts us all and we can be “less complicated” when it isn’t hurting us all, some of us exponentially more than others.  
+
+we don’t have to make ourselves “less complicated” to fit in some stand issue box.  
+
+fuck that.  
+
 ---
 
 [Beoga just joined the residents of Garvaney Road for a session](https://vm.tiktok.com/ZN8hUW8GP/), someone’s sensibly erected a stage for audience ease and [the Mary Wallopers are up](https://vm.tiktok.com/ZN8hU7nTp/), [Áine and Gerry from The Irish Brigade have given a rendition of Savage Daughter that honours Gaza](https://vm.tiktok.com/ZN8hy4TPh/), and this is all more important than any angry oranges.  
