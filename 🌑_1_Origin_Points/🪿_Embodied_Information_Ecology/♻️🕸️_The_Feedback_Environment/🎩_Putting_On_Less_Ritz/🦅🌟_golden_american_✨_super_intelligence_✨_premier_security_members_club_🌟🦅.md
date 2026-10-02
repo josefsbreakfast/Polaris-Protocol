@@ -4,8 +4,6 @@
 
 ---
 
-<a id="top"></a>
-
 ## 🛰️ Orientation
 
 This is not the Corporate Greed Tax.
@@ -1549,7 +1547,15 @@ If everybody is very good, we can discuss the capes.
 
 🫡
 
-[↑ Back to top](#top)
+---
+
+## 🙄 But These People Are Intelligent; They Won’t Fall For Your Silly Capes!  
+
+I never said they were being conned.  
+
+I said I could grant access to capes.  
+
+If they can behave for ten seconds and not blow up the planet.  
 
 ---
 
