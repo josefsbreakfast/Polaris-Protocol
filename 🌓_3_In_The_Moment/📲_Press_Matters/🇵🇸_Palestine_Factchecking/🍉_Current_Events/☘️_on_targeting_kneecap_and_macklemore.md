@@ -1,6 +1,6 @@
 # ☘️ On Targeting Kneecap And Macklemore
 
-**First created:** 2026-09-19 | **Last updated:** 2026-10-01  
+**First created:** 2026-09-19 | **Last updated:** 2026-10-02  
 *Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*
 
 ---
@@ -1467,7 +1467,8 @@ Breandán Mac Cionnaith has asked why the Orange Order want to walk through an a
 - [📹: Chris Nelson, via TikTok: “Like many others, I’m worried! Here are my thoughts…”](https://vm.tiktok.com/ZN8rWVJKj/) – * *Chris’s late mum, Rosemary Nelson (May her memory be a blessing), was the solicitor who bravely represented the residents’ group in the 90s’, and her passing was a result of a car bomb planted by a loyalist paramilitary group. This appears to be his personal account, and please respect that many people who stand up to perform courage do not necessarily consent to the rest of their content becoming “fair game” - it ain’t. Behave yeesels.*  
 - [📹: RTÉ News: “Music session under way at Garvaghy Road as demonstration continues”](https://vm.tiktok.com/ZN8rWP5N4/)
 - [📹: Saraa, via TikTok: “UPDATE - Garvaghy Road deal”](https://vm.tiktok.com/ZN8hyE8q5/) – *Carla Lockhart (MP for the area, DUP affiliated), is helpfully showing the Labour Government what happens when you spend several years appearing to negotiate on the rule of law in other instances; the reason we have to practice the law in good faith even when it does not politically benefit us, is so that our system of law can ensure “equality before the law, or the equal subjection of all classes to the ordinary law of the land”. Or as the cousins like to say, “one Nation under G-d, indivisible, with liberty and justice for all”.*  
-- [🎶: Brògeal - “The Lonesome Boatman”: “in solidarity to the residents of the Garvaghy Road”](https://vm.tiktok.com/ZN8hyVTcT/)  
+- [🎶: Brògeal - “The Lonesome Boatman”: “in solidarity to the residents of the Garvaghy Road”](https://vm.tiktok.com/ZN8hyVTcT/)
+- [📹: Paul Murphy TD, via TikTok: “‘All hail, then, to the mob, the incarnation of progress!’ It's the incredible solidarity of 1000+ people on Garvaghy Road that stood all night in the rain, that held the line against sectarianism. Not the institutions, not the Parades Commission, not the courts.”](https://vm.tiktok.com/ZN8hyGtxN/)  
 
 It’s really interesting in so much discourse about MP safety, that’s happened over the last few months, there are a lot of people are extremely silent right now, and I want to make it extremely clear and I’m not saying that anyone should necessarily be threatened, I’m saying that if you care about safety, you should be caring about everybody’s safety. I haven’t seen Nigel speak on this, but then maybe these women are too liberal and too centrist for him, seeing that he was all “up the RA” on his cameo account. (Just joking, I think the last thing that anyone needs is anyone from that political group to be inserting their noses into anything here.)  
 
@@ -1699,4 +1700,4 @@ palestine, gaza, information ecology, securitisation, instrumentalised fear, con
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-01_
+_Last updated: 2026-10-02_
