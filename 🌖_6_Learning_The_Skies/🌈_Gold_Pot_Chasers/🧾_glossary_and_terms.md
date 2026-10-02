@@ -1,5 +1,5 @@
 # 🧾 Glossary And Terms  
-**First created:** 2026-06-15 | **Last updated:** 2026-06-15  
+**First created:** 2026-06-15 | **Last updated:** 2026-10-02  
 *Working definitions for the Gold Pot Chasers cluster, covering digital modernisation, procurement fantasy, shared exploit surfaces, rights usability, and coercive systems risk.*
 
 ---
@@ -194,6 +194,27 @@
   - platform enforcement decisions.
 - Core warning:
   - if no one owns correction, error becomes infrastructure.
+
+---
+
+## 🧵 Fragmented Perpetrator Legibility
+
+- A working term for the problem created when relevant information about one person's behaviour is distributed across systems that do not reconstruct the same longitudinal pattern.
+- Different systems may each hold valid information while the whole pattern remains difficult to see.
+- The issue is not automatically a missing database.
+- It may involve:
+  - different statutory purposes;
+  - different thresholds;
+  - different labels;
+  - different access rules;
+  - different retention periods;
+  - different ownership;
+  - different definitions of risk;
+  - and different authority to aggregate or disclose.
+- Companion warning to chain dependency:
+  - if no one owns correction, error becomes infrastructure;
+  - if no one owns aggregation, patterns of perpetration can remain fragmented.
+- This term describes an audit problem, not a finding that any particular security or counter-terrorism system deliberately conceals safeguarding information.
 
 ---
 
@@ -560,7 +581,7 @@
 🧾 🌈 🧱 🧰 🛡️ — working vocabulary; shared exploit surface terms; procurement critique; rights-usability routing.
 
 ## ✨ Stardust  
-glossary, digital modernisation, shared exploit surface, procurement, failure stack, rights usability, coercive exploitability, pattern documentation
+glossary, digital modernisation, shared exploit surface, safeguarding, fragmented perpetrator legibility, procurement, failure stack, rights usability, coercive exploitability, pattern documentation
 
 ---
 
@@ -574,15 +595,15 @@ This node functions as semantic routing infrastructure for the cluster’s wider
 >
 > - [🌈 Gold Pot Chasers](./README.md) — *cluster spine for digital modernisation, procurement fantasy, and shared exploit surface pedagogy*  
 > - [🪼 Orientation Note](./🪼_orientation_note.md) — *reader guidance, tone calibration, and anti-overclaiming discipline for this cluster*  
-> - [🌈 The Pot Of Gold Problem](./1_The_Core_Problem/🌈_the_pot_of_gold_problem.md) — *core conceptual node on false final-answer technologies*  
-> - [🧱 The Shared Exploit Surface](./1_The_Core_Problem/🧱_the_shared_exploit_surface.md) — *spine node for convergent exploitation across weak legal, technical, and institutional seams*
+> - [🌈 The Pot Of Gold Problem](./🕸️_Core_Problem/🌈_the_pot_of_gold_problem.md) — *core conceptual node on false final-answer technologies*  
+> - [🧱 The Shared Exploit Surface](./🕸️_Core_Problem/🧱_the_shared_exploit_surface.md) — *spine node for convergent exploitation across weak legal, technical, and institutional seams*
 >
 > 🏮 Return To:
 >
-> - [🌈 Gold Pot Chasers](./README.md) — *current cluster*  
-> - [🌖 Learning The Skies](../README.md) — *applied learning and systems-pedagogy parent folder*  
-> - [🌌 Polaris Protocol](../../README.md) — *root archive*
+> - [🌈 Gold Pot Chasers](./README.md) — *1up*  
+> - [🌖 Learning The Skies](../README.md) — *2up*  
+> - [🌌 Polaris Protocol](../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-06-15_
+_Last updated: 2026-10-02_
