@@ -1679,7 +1679,11 @@ Republican Prisoners and the Irish Language in the North of Ireland; Feargal Mac
 
 ## ✨ Stardust
 
-palestine, gaza, information ecology, securitisation, instrumentalised fear, conditional belonging, irishness, jewish safety, solidarity without equivalence, boycott divestment sanctions, non-violent political action, relational capacity, ai targeting
+palestine, gaza, information ecology, securitisation, instrumentalised fear, conditional belonging, irishness, jewish safety, solidarity without equivalence, boycott divestment sanctions, non-violent political action, relational capacity, ai targeting  
+
+*Follow the evidence:*  
+
+- [📹: Middle East Eye, via TikTo: “US activist John Jacobs staged a protest at the Israeli embassy in Washington, DC, using a modified Ed Sheeran song to speak out against genocide, child casualties, and hospital bombings in Gaza. He followed the performance by blasting Macklemore tracks outside the building. Video credit: @johnjacobscc”](https://vm.tiktok.com/ZN8hXxgQA/) – *that’s one thing to do with that melody now*  
 
 ---
 
