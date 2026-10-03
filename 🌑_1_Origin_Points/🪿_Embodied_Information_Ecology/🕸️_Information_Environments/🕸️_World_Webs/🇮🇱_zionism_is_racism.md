@@ -1,5 +1,5 @@
 # 🇮🇱 Zionism Is Racism  
-**First created:** 2026-02-01 | **Last updated:** 2026-08-17  
+**First created:** 2026-02-01 | **Last updated:** 2026-10-03  
 *Why Zionism functions as a racial ideology and practice under international anti-racism frameworks*
 
 ---
@@ -138,6 +138,11 @@ Anti-Zionism targets an ideology and system — not a people.
 ## 🌌 Constellations  
 ⚖️ 🧿 🧠 🔥 🌍 — law, racial hierarchy, ideology, enforcement, colonial systems.
 
+*Further media:*  
+
+- [📰: New Statesman: “Jewish Greens divided over ‘Zionism is racism’ motion”](https://www.newstatesman.com/politics/2026/10/jewish-greens-divided-over-zionism-is-racism-motion) – *”As an ideology, it is also very hard to define.” Which is why Palestinian and British Palestinian Greens have, in consultation with several Jewish Greens, including people who have served within the IDF previously, have defined the term very clearly and simply for the purpose of the motion. We are arguing over a word; Gaza has been flattened, with the bodies of deceased Palestinians still scattered within the remains of the city. [The recovery of bodies is ongoing](https://www.theguardian.com/world/2026/sep/27/rubble-gaza-un-aid-workers-ruins-dead-bodies) and is particularly difficult due to [longstanding bans](https://gisha.org/en/freedom-of-information-requests-regarding-entry-of-goods-to-gaza/) from COGAT. [Bans of goods](https://www.newarab.com/news/israel-blocks-900-wheelchairs-gazas-child-amputees) which, even if not intended to deny the capacity for life, often do materially and functionally deprived people of the ability to live, are common.*  
+
+
 ---
 
 ## ✨ Stardust  
@@ -160,4 +165,4 @@ It documents the structural basis for identifying Zionism as a racist ideology a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-17_
+_Last updated: 2026-10-03_
