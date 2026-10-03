@@ -19,6 +19,8 @@ obviously, if it’s just that American software and cloud services are shit, it
 
 we’ll see what happens. I’ll add to the list what I add to the playlist.  
 
+[new link added below, in memory of bibi netanyahu’s false confidence.]  
+
 maybe Spotify just needs to flush the cache. who knows.  
 
 “but why would Israeli voices get silenced?”
@@ -85,7 +87,11 @@ Tiocfaidh a lá.
 
 ---
 
-*[☘️🎶 Musical accompaniment in progress.](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=lpgDs3KiSAa_TisY92wD5w&utm_source=copy-link&pi=6p2EWp2DTL297) I’m sorry it’s Spotify; I still haven’t sorted my music platforms.*  
+*[☘️🎶 Musical accompaniment in progress - NEW LINK.](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=Dqkir85BQZy0w6xaq9kYVw&utm_source=copy-link&pi=JWIjNF5IQmWPR)*  
+
+(old link: https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=lpgDs3KiSAa_TisY92wD5w&utm_source=copy-link&pi=6p2EWp2DTL297
+
+I’m sorry it’s Spotify; I still haven’t sorted my music platforms.*  
 
 <details>
 <summary>Notes for: ☘️🎶 Musical accompaniment; also in progress.</summary>
