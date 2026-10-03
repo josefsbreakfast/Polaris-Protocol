@@ -1499,6 +1499,204 @@ That attitude is why your conference appears to [look like this](https://vm.tikt
 
 ---
 
+## 🍊☘️ 03 Oct status: Garvaghy Road / Drumcree — procedural failure, litigation, negotiations and breakdown
+<!-- Shabbat shalom -->
+
+Reviewing the decision timeline, because contextually this feels a little bit weak in public from central governance; obviously we cannot know everything that happened behind closed doors, but the signalling is not amazing.  
+
+- **Background**
+  - The Orange Order had not completed the disputed return route from Drumcree Church along Garvaghy Road since the late 1990s.
+  - The Parades Commission was itself established in 1998 in the context of the Drumcree/parading crisis.
+  - In 2026, Portadown District Orange Order again sought permission to complete the route.
+
+- **Original 2026 Parades Commission decision**
+  - The Parades Commission initially determined that the Orange Order **could not parade along Garvaghy Road**.
+  - An Orangeman brought a legal challenge to that determination.
+  - During the litigation, a serious **procedural defect in the Commission's own decision-making process** emerged.
+  - The final version of the determination had **not been considered by all of the commissioners who were supposed to participate in the decision**.
+  - The Parades Commission conceded the procedural problem.
+  - The original determination was therefore **quashed**.
+  - Important distinction:
+    - the court did **not** determine that prohibiting the parade had been substantively wrong;
+    - the particular determination was legally defective because of the **process by which it had been made**.
+  - Garvaghy Road residents subsequently characterised this as a **procedural error rather than a judgment on the merits**.
+
+- **25 September — Commission reconsiders the parade**
+  - Following the collapse of the original determination, the matter returned to the Parades Commission.
+  - The Commission issued a new determination.
+  - This time it **permitted a heavily restricted return parade**:
+    - maximum 35 participants;
+    - no band;
+    - no supporters accompanying it;
+    - restrictions on flags/banners;
+    - specified timing and route conditions.
+
+- **26 September — residents challenge the new determination**
+  - The Garvaghy Road Residents' Coalition challenged the new decision.
+  - There was an extraordinary sequence of late-night litigation immediately before the proposed parade.
+  - An injunction initially prevented the parade.
+  - The Orange Order appealed.
+  - The Court of Appeal found that the judge granting the injunction had **erred in law** and returned the matter to the High Court.
+  - The High Court then declined to quash the new Parades Commission determination.
+  - The restricted parade was therefore, under the existing determination, **lawful and authorised to proceed**.
+
+- **27 September — the parade nevertheless does not proceed**
+  - Large numbers of opponents of the parade gathered on Garvaghy Road.
+  - The PSNI regarded the protest/blockade as **unlawful and unnotified**.
+  - However, police concluded that physically clearing the road in order to facilitate the parade would create serious public-safety/order problems.
+  - The PSNI therefore **did not facilitate the parade despite the lawful Parades Commission determination**.
+  - This creates an important distinction:
+    - **legal authorisation to parade**;
+    - is not the same thing as
+    - **an operational police decision that the parade can safely be facilitated at that moment**.
+
+- **A stand-off develops**
+  - Orangemen remain at/around Drumcree seeking to complete the authorised parade.
+  - Residents and supporters remain mobilised against it.
+  - Police are effectively placed between:
+    - a lawful Parades Commission determination;
+    - an unlawful/unnotified blockade;
+    - and their separate operational obligation to prevent serious disorder and protect public safety.
+  - The question therefore stops being simply:
+    - **"Is this parade legally authorised?"**
+  - It becomes:
+    - **"How, or whether, can the lawful determination actually be implemented without producing serious disorder?"**
+
+- **29 September — residents launch another legal challenge**
+  - The Garvaghy Road Residents' Coalition lodges a **fresh Court of Appeal challenge**.
+  - This is important because it is **not simply a repeat of the earlier procedural argument**.
+  - The residents argue that the Parades Commission:
+    - **materially misdirected itself** regarding the PSNI assessment of potential disorder;
+    - and did not accurately represent the evidence supplied by the PSNI when reaching its determination.
+  - This therefore attacks part of the **evidential basis for the Commission's new decision**, particularly its treatment of police/public-order evidence.
+  - The appeal is originally scheduled for **Friday 2 October**.
+
+- **Meanwhile — Secretary of State Chris Bryant opens a political/negotiating track**
+  - Bryant begins intensive discussions involving the Orange Order and Garvaghy Road residents.
+  - These occur alongside, rather than instead of, the legal proceedings.
+  - The PSNI also supports attempts to reach a negotiated resolution.
+  - Chief Constable Jon Boutcher says police have deliberately **created space for the ongoing talks at Hillsborough**.
+  - At this point, therefore, the institutional tracks are visibly interconnected:
+    - litigation remains live;
+    - police do not force immediate implementation of the parade;
+    - political negotiation is being given space to produce another solution.
+
+- **Bryant develops possible compromises**
+  - Options reportedly discussed include:
+    - mediation;
+    - recognition of the Orange Order's claimed right to march **without actually exercising it**;
+    - a **single final / "one-and-done" march**, followed by no future applications.
+  - Bryant provides the parties with a written proposal.
+  - Breandán Mac Cionnaith indicates that the residents are prepared to accept the proposal **if the Orange Order also accepts it**.
+  - No mutually accepted settlement emerges.
+
+- **Crucially — the residents' court case is delayed**
+  - Their Court of Appeal hearing had been due on **Friday 2 October**.
+  - It is **postponed until Monday** specifically to allow the negotiations to continue.
+  - The residents therefore do **not withdraw or abandon their litigation**.
+  - Instead:
+    - the immediate legal process is held;
+    - the Secretary of State's negotiations are given additional room to work;
+    - the court route remains available if negotiation fails.
+  - This makes the sequencing important:
+
+    **live litigation → litigation paused → political negotiation given space → negotiation fails → litigation resumes**
+
+- **1–2 October — negotiations fail**
+  - No agreement is reached.
+  - Bryant indicates that the current round of discussions has effectively reached its end, while leaving open the possibility of further talks.
+  - Mac Cionnaith similarly indicates that the process has, **for the time being**, run its course.
+  - The residents' Court of Appeal challenge therefore remains scheduled for **Monday**.
+
+- **Bryant's rhetoric then shifts towards the legal position**
+  - Following the failure of negotiations, Bryant increasingly points towards the courts and existing legal framework.
+  - His position becomes, in substance:
+    - negotiations have been attempted;
+    - no agreement has resulted;
+    - the legal process must now operate;
+    - **"the law, in the end, is the law."**
+  - This is a noticeably different *mode* from the preceding days, during which the political process was actively trying to find a negotiated route around the stand-off.
+
+- **PSNI position**
+  - The PSNI recognises that the existing Parades Commission determination presently gives the Orange Order a **lawful entitlement to undertake the notified parade**.
+  - But the Chief Constable has also previously made clear that implementation does **not come "at any cost"**.
+  - Public safety and prevention of violent disorder remain separate operational responsibilities.
+  - So two propositions can be true simultaneously:
+    - **the parade is presently legally authorised**;
+    - **the PSNI must still decide how or whether that legal entitlement can safely be facilitated in the circumstances**.
+
+- **Where the institutional pieces now sit**
+  - **Parades Commission**
+    - its second determination currently authorises the restricted parade.
+  - **Garvaghy Road Residents' Coalition**
+    - disputes the legality of that determination;
+    - has not abandoned its litigation;
+    - allowed the hearing to be postponed while political negotiations took place;
+    - is now returning to the Court of Appeal.
+  - **Court of Appeal**
+    - is due to consider the residents' challenge on Monday.
+  - **Secretary of State**
+    - attempted to broker a negotiated resolution;
+    - that process has failed for now;
+    - is now emphasising the operation of the law/courts.
+  - **PSNI**
+    - recognises the existing determination as lawful;
+    - has so far declined to force implementation where doing so would jeopardise public safety;
+    - nevertheless continues to describe the procession itself as lawfully authorised.
+  - **Orange Order**
+    - continues to seek completion of the authorised route;
+    - has not accepted the negotiated settlement proposed during the talks.
+
+### 🧩 The discontinuity worth watching
+
+- There appears to be a potentially important **change in institutional mode**.
+
+- For several days, the configuration was approximately:
+
+  **lawful determination**
+  → **police do not immediately force implementation because of public-safety concerns**
+  → **residents maintain legal challenge**
+  → **Secretary of State negotiates**
+  → **court hearing is postponed to create negotiating space**
+
+- Following the collapse of negotiations, it appears to be moving towards:
+
+  **negotiation ends**
+  → **Secretary of State emphasises "the law is the law"**
+  → **residents return to court**
+  → **PSNI emphasises that the parade is presently lawfully authorised**
+
+- That creates an apparent discontinuity because:
+  - the residents had just allowed the timetable of their litigation to move in order to facilitate political negotiations;
+  - the PSNI had explicitly described itself as creating space for those negotiations;
+  - the Secretary of State had spent several days trying to negotiate an alternative;
+  - immediately after those negotiations fail, institutional language becomes markedly more focused upon **lawful entitlement and legal process**.
+
+- But there are at least two different explanations which should presently remain open:
+
+  1. **Breakdown / loss of coordination**
+     - communication or strategic coordination between the political, policing and negotiating tracks has deteriorated;
+     - actors may be reverting independently to their own institutional responsibilities.
+
+  2. **Deliberate handover back to the courts**
+     - the negotiated route has been exhausted;
+     - everyone knows that a live Court of Appeal challenge is immediately pending;
+     - political actors therefore stop trying to pre-empt that process;
+     - the sequence becomes:
+       - **Court of Appeal determines the legal position first;**
+       - **PSNI then determines the operational response to whatever legal position remains.**
+
+- **Monday is therefore the critical next point in the chronology.**
+  - "The law is the law" does not itself resolve the present dispute while the legality of the determination authorising the parade is **itself before the Court of Appeal**.
+  - The particularly useful evidence will be:
+    - what Bryant says before and after the judgment;
+    - what the Chief Constable says before and after the judgment;
+    - whether their positions remain aligned;
+    - whether negotiations genuinely remain available;
+    - and whether the PSNI's language changes from **lawful entitlement** to an intention actually to **facilitate/implement** the determination.
+   
+--- 
+
 ## 🌹 If You Can’t See How This Resembles Cable Street, Go Watch Derry Girls  
 
 I feel we may either need a catch-up curriculum for some of you, or you just need to switch house colours.  
