@@ -2595,12 +2595,11 @@ This machine requires only one thing:
 - [📰: Financial Times: “Tony Blair’s think-tank offers political access to $25,000-a-year corporate members”](https://www.ft.com/content/1ca99235-f10f-4129-904c-1897e05fd1cc?syn-25a6b1a6=1) – *Much coin.*
 - [📹: MEE, via TikTok: “Who was he representing in 10
 Downing Street? The people of Britain?
-Or the executives at JP Morgan Bank?”](https://vm.tiktok.com/ZN8hnkmLV/), [full YouTube episode](https://youtu.be/u3I8cF2pNqI?is=cAwKXYbZTPud-JZc) – *and because we should understand why JP Morgan bank and I are not best friends (apparently; rude, I know): [📰: New York Times: “How JPMorgan Enabled the Crimes of Jeffrey Epstein”](https://www.nytimes.com/2025/09/08/magazine/jeffrey-epstein-jp-morgan.html)*
+Or the executives at JP Morgan Bank?”](https://vm.tiktok.com/ZN8hnkmLV/), [full YouTube episode](https://youtu.be/u3I8cF2pNqI?is=cAwKXYbZTPud-JZc) – *and because we should understand why JP Morgan bank and I are not best friends (apparently; rude, I know): [📰: New York Times: “How JPMorgan Enabled the Crimes of Jeffrey Epstein”](https://www.nytimes.com/2025/09/08/magazine/jeffrey-epstein-jp-morgan.html); [📰: The Independent: “How Chase bank executives aided Epstein and funneled his money - despite staff concerns about the pedophile”](https://www.independent.co.uk/news/world/americas/jeffrey-epstein-jpmorgan-chase-bank-b2822445.html)*
 
 ---
 
 ## ✨ Stardust
-
 uk-us relations, special relationship, deterrence satire, institutional inheritance, policy feedback, political networks, transatlantic influence, burden-sharing, tony blair zoltar machine, british political ambience, export-led growth, product-market fit, british gentleman stack, terms of tony, stop-gap signatory, administrative externalities, cost recovery, wodehouse, junction-point deployment, wall street, silicon valley, mates rates, behavioural extraction
 
 ---
