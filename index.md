@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-03 21:02:07 UTC_
+_Generated on 2026-10-03 21:46:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2287,6 +2287,7 @@ _Generated on 2026-10-03 21:02:07 UTC_
         - [`🪶_folk_accountability.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🪬_Radicalisation_And_Extremism/🪶_folk_accountability.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/notes.txt)
+      - [`🌤️_old_man_yells_at_sun.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🌤️_old_man_yells_at_sun.md)
       - [`🎶_british_political_history_audio_edition.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🎶_british_political_history_audio_edition.md)
       - [`👾_when_disinformation_obscures_disinformation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/👾_when_disinformation_obscures_disinformation.md)
       - [`📺_funding_britishness.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/📺_funding_britishness.md)
