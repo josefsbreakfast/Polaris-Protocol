@@ -1,6 +1,6 @@
 # 🛢️ Section 5 Is Precise
 
-**First created:** 2026-09-30 \| **Last updated:** 2026-09-30\
+**First created:** 2026-09-30 | **Last updated:** 2026-10-03  
 *We do not need to solve RAF Fairford. We need to stop everyone
 accidentally claiming it has already been solved.*
 
@@ -1738,7 +1738,14 @@ It concludes something much more boring and considerably more useful:
 
 ✈️ 🛢️ 🧠 🛡️ 📡 --- air-system security; legal and evidential precision;
 information tempo; public resilience; transatlantic communications
-discipline.
+discipline.  
+
+*Oh, Benjamin…*  
+
+- [📰: MEE: “RAF Fairford: Netanyahu claims Israel warned UK of ‘Iranian attack’”](https://www.middleeasteye.net/news/netanyahu-claims-israel-warned-uk-iranian-attack-after-israeli-minister-called-shabana-mahmood)
+- [📰: MEE: “Netanyahu asked UAE leader to publicly deny 7 October 2023 warning to Israel: Report”](https://www.middleeasteye.net/news/netanyahu-asked-uae-leader-to-publicly-deny-7-october-warning-Israel-report)
+
+- *The “great man” of PR mangles the SEO, ladies and gentlemen. 🙄*  
 
 ------------------------------------------------------------------------
 
