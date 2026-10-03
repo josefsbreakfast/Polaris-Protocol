@@ -1502,7 +1502,7 @@ That attitude is why your conference appears to [look like this](https://vm.tikt
 ## 🍊☘️ 03 Oct status: Garvaghy Road / Drumcree — procedural failure, litigation, negotiations and breakdown
 <!-- Shabbat shalom -->
 
-Reviewing the decision timeline, because contextually this feels a little bit weak in public from central governance; obviously we cannot know everything that happened behind closed doors, but the signalling is not amazing.  
+Reviewing the decision timeline, because contextually this feels a little bit weak in public from central governance; obviously we cannot know everything that happened behind closed doors, but the signalling is not amazing. It is possible that this relates to a media training issue on how to communicate to the nuance, although I am sort of stretching and struggling to understand how we got to this place, when that skillset does exist in the world.  
 
 - **Background**
   - The Orange Order had not completed the disputed return route from Drumcree Church along Garvaghy Road since the late 1990s.
