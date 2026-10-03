@@ -1699,7 +1699,7 @@ Reviewing the decision timeline, because contextually this feels a little bit we
 
 - nb this is happening over several other very important stories, and while it is hard to share attention, it’s good to do so when we can, or fold in references and links, to resist getting boxed off in weird rabbit holes online. this includes significant attempts to disrupt the distribution and viewing of NAZA, and the silence around the lost children of tuam.  x.  
 - [📹: BLOC, via TikTok: “Vasdátú ó Bhóthar Gharbhachaidh tráthnóna inniu! Ant-Ord Oraisteach agus Pop-Up Gaeltacht: Seo chugaibh an scéal mar atá sé faoi láthair.”](https://vm.tiktok.com/ZN8h493wJ/) - *Tá cuma maith air*  
-- 
+- [🎶: The Gael: Pipes out on Gavaghy Road](https://vm.tiktok.com/ZN8h45BJq/)  
 
    
 --- 
