@@ -5,6 +5,10 @@
 
 ---
 
+First time I’ve cried laughing in a long while: [📹: Mikey Smith for The Sun, via TikTok: “#DonaldTrump posted a Senator's phone number in a row over golf as Daylight Saving Time”](https://vm.tiktok.com/ZN8hWretS/).  
+
+---
+
 ## 🛰️ Orientation
 
 There are political stories which arrive already carrying their own explanatory diagram.
