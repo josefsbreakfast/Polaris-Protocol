@@ -1695,6 +1695,13 @@ Reviewing the decision timeline, because contextually this feels a little bit we
     - whether negotiations genuinely remain available;
     - and whether the PSNI's language changes from **lawful entitlement** to an intention actually to **facilitate/implement** the determination.
    
+### 🌈 Ongoing coverage: 
+
+- nb this is happening over several other very important stories, and while it is hard to share attention, it’s good to do so when we can, or fold in references and links, to resist getting boxed off in weird rabbit holes online. this includes significant attempts to disrupt the distribution and viewing of NAZA, and the silence around the lost children of tuam.  x.  
+- [📹: BLOC, via TikTok: “Vasdátú ó Bhóthar Gharbhachaidh tráthnóna inniu! Ant-Ord Oraisteach agus Pop-Up Gaeltacht: Seo chugaibh an scéal mar atá sé faoi láthair.”](https://vm.tiktok.com/ZN8h493wJ/) - *Tá cuma maith air*  
+- 
+
+   
 --- 
 
 ## 🌹 If You Can’t See How This Resembles Cable Street, Go Watch Derry Girls  
