@@ -87,8 +87,7 @@ Tiocfaidh a lá.
 
 ---
 
-*☘️🎶 Musical accompaniment in progress - [NEW LINK 2.](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=Dqkir85BQZy0w6xaq9kYVw&utm_source=copy-link&pi=JWIjNF5IQmWPR), [old link 1:](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=lpgDs3KiSAa_TisY92wD5w&utm_source=copy-link&pi=6p2EWp2DTL297)  
-I’m sorry it’s Spotify; I still haven’t sorted my music platforms.*  
+*☘️🎶 Musical accompaniment in progress - [Deezer version, most songs inc](https://link.deezer.com/s/34zCEEQh88jhTrKppIO3G), [NEW LINK 2.](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=Dqkir85BQZy0w6xaq9kYVw&utm_source=copy-link&pi=JWIjNF5IQmWPR), [old link 1:](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=lpgDs3KiSAa_TisY92wD5w&utm_source=copy-link&pi=6p2EWp2DTL297)*  
 
 <details>
 <summary>Notes for: ☘️🎶 Musical accompaniment; also in progress.</summary>
