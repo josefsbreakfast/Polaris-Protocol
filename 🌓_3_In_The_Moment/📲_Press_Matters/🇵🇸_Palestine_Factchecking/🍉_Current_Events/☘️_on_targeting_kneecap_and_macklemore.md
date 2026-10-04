@@ -195,6 +195,8 @@ Keep these together.
 2.  [📰: The Telegraph: “Generation Kneecap’s plan to break up the UK and reshape Ireland”](https://www.telegraph.co.uk/world-news/2026/09/18/generation-kneecap-ireland-plan-to-break-up-britain/)
 3.  [📰: The Telegraph: “Trump lifts tariffs on whiskey in parting gift to Ireland”](https://www.telegraph.co.uk/world-news/2026/09/13/donald-trump-ireland-whiskey-ban-tariffs/) – *this your “ceasefire baby”?* 🤨
 
+NB: [📹: Gemma McSherry, via TikTok, recontextualises her comments here](https://vm.tiktok.com/ZN8hw394j/).  
+
 These are different stories about different events. Their juxtaposition does **not** establish a coordinated media strategy.
 
 It does, however, give us a useful question.
