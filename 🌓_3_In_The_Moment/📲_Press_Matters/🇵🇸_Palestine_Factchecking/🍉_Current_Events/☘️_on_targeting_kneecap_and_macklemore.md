@@ -5,7 +5,7 @@
 
 ---
 
-*☘️🎶 Musical accompaniment — [Deezer version](https://link.deezer.com/s/34zCEEQh88jhTrKppIO3G), [Spotify version](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=Dqkir85BQZy0w6xaq9kYVw&utm_source=copy-link&pi=JWIjNF5IQmWPR)*
+*☘️🎶 Musical accompaniment — [Deezer version](https://link.deezer.com/s/34zCEEQh88jhTrKppIO3G) (opener via YouTube: [Tá'n Saol Seo Dhúinne](https://youtu.be/lOvDsvY_PMQ?is=Ik0ayIhkFz2maJnH)), [Spotify version](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=Dqkir85BQZy0w6xaq9kYVw&utm_source=copy-link&pi=JWIjNF5IQmWPR)*
 
 <details>
 <summary>☘️🎶 Musical accompaniment — context and sensitivity notes</summary>
