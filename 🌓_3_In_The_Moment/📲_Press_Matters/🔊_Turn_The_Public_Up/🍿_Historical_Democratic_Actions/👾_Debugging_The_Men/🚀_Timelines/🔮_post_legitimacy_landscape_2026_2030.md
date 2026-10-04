@@ -1,6 +1,6 @@
 # 🔮 The Post-Legitimacy Landscape — 2026–2030
 
-**First created:** 2025-11-13 | **Last updated:** 2026-09-09
+**First created:** 2025-11-13 | **Last updated:** 2026-10-04
 
 *Scenario mapping for a period in which institutional authority may increasingly need to be demonstrated transaction by transaction rather than inherited automatically from office or status.*
 > *“When the old world is dying and the new world is struggling to be born,*  
@@ -1154,7 +1154,11 @@ The point is to leave ourselves a model capable of noticing when the world does 
 
 ## 🌌 Constellations
 
-🔮 🌪️ 🩻 🕸️ ⚖️ 🧭 — futures thinking, legitimacy, structural revelation, polycentric authority, procedural repair, scenario navigation.
+🔮 🌪️ 🩻 🕸️ ⚖️ 🧭 — futures thinking, legitimacy, structural revelation, polycentric authority, procedural repair, scenario navigation.  
+
+*Further media:*  
+
+- [📰: The Guardian: “‘Sadness, cynicism and deep disappointment’: the Cornell gang-rape case and the failure of #MeToo”](https://www.theguardian.com/society/2026/oct/03/cornell-gang-rape-me-too)
 
 ---
 
@@ -1191,4 +1195,4 @@ It maps competing trajectories from an evidence cutoff of September 2026 and sho
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated:* 2026-09-09
+_Last updated: 2026-10-04_
