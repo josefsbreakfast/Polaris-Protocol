@@ -411,7 +411,11 @@ And there is a constructive branch here too. If someone with Kraft's resources g
 
 *NAZA* is a useful example. Supporting its circulation would not require agreeing in advance with every conclusion drawn from it. It would support the ability of Israeli filmmakers and Israeli military/intelligence insiders to put evidence about their own institutions into public circulation.
 
-**Supporting Israel is not the same thing as supporting every action of the Israeli state. Supporting Israelis can include supporting Israelis who are trying to tell you that the system is doing something dangerous.**
+**Supporting Israel is not the same thing as supporting every action of the Israeli state. Supporting Israelis can include supporting Israelis who are trying to tell you that the system is doing something dangerous.**  
+
+### 💫 The Streisand Effect  
+
+- [📹: ReelTakes, via TikTok: “In trying to silence Macklemore, Robert Kraft made the situation far worse for himself. Zach Bryan just echoed the same message in front of the largest crowd in the history of Gillette Stadium, and many other artists are using this moment to do similar things.”](https://vm.tiktok.com/ZN8hKdH9N/)  
 
 ---
 
