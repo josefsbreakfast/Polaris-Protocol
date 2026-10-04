@@ -1,5 +1,5 @@
 # 🍉 Academic Liberty — Encampments 2024 Mini‑Dossier  
-**First created:** 2025-10-28 | **Last updated:** 2026-05-21  
+**First created:** 2025-10-28 | **Last updated:** 2026-10-03  
 *Clustering source notes, evidence logs, and sector‑coordination analysis around UK university encampment responses (Spring–Summer 2024).*
 
 ---
@@ -73,7 +73,11 @@ flowchart TD
 ---
 
 ## 🌌 Constellations  
-🍉 Academic Liberty · 🪄 Expression of Norms · 🧿 Watch the Watchers · 🕊️ Civil Governance
+🍉 Academic Liberty · 🪄 Expression of Norms · 🧿 Watch the Watchers · 🕊️ Civil Governance  
+
+*Follow the evidence:*  
+
+- [📹: Newscord, via TikTok: “13 Universities consulted BAE Systems on how to deal with their students' Gaza protests”](https://vm.tiktok.com/ZN8hWaHHQ/)  
 
 ---
 
@@ -86,4 +90,4 @@ encampments 2024, protest governance, possession orders, engagement chronology, 
 *🍉 Academic Liberty — Encampments 2024 Mini‑Dossier* is a living hub within Polaris for documenting protest‑response governance in UK higher education.  
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-05-21_
+_Last updated: 2026-10-03_
