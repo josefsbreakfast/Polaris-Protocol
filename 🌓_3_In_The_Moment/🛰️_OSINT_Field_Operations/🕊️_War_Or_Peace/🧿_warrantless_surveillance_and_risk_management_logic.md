@@ -1,5 +1,5 @@
 # 🧿 Warrantless Surveillance & Risk-Management Logic  
-**First created:** 2025-11-08 | **Last updated:** 2026-05-21  
+**First created:** 2025-11-08 | **Last updated:** 2026-10-03  
 *Explaining how British universities and their contractors have built surveillance-adjacent infrastructures that operate outside the Investigatory Powers Act (IPA) by framing them as “risk management” or “duty of care.”*  
 
 ---
@@ -270,6 +270,8 @@ To convert opaque institutional practice into **traceable, evidence-based public
 - [📑: ICJP Press Release: "ICJP condemns disturbing attempts by UK universities to crackdown on civil liberties and monitor student protests"](https://www.icjpalestine.com/2026/04/21/icjp-condemns-disturbing-attempts-by-uk-universities-to-crackdown-on-civil-liberties-and-monitor-student-protests/)  
 - [📰: Liberty Investigates: "British universities paid security firm to monitor pro-Palestine students"](https://libertyinvestigates.org.uk/articles/british-universities-paid-security-firm-monitor-pro-palestine-students/)  
 - [📰: Case Example: The Bristol Cable: "University of Bristol paid private security firm to ‘spy’ on pro-Palestine protesters"](https://thebristolcable.org/2026/04/university-of-bristol-paid-private-security-firm-to-spy-on-pro-palestine-protesters/)
+- [📹: Newscord, via TikTok: “13 Universities consulted BAE Systems on how to deal with their students' Gaza protests”](https://vm.tiktok.com/ZN8hWaHHQ/)  
+
 
 ---
 
@@ -300,4 +302,4 @@ The node invites civic OSINT to verify, expose, and reform these practices.
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated 2026-05-21_
+_Last updated 2026-10-03_
