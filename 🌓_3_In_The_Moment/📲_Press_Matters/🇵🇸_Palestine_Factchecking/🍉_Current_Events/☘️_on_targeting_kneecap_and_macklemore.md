@@ -2096,8 +2096,8 @@ palestine, gaza, information ecology, securitisation, instrumentalised fear, con
 
 > 📡 Cross-references:
 >
-> - `☘️_exploiting_irishness_again.md` — *canonical home for inherited classifiers, Gaeilge, Garvaghy Road, jurisdictional translation and network propagation*
-> - `☘️🕎_diaspora_proxies_in_america.md` — *canonical home for diaspora network topology, proxy drift, guilt by association and the American constitutional-security assay*
+> - [☘️ Exploiting Irishness... Again](../../../🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/☘️_exploiting_irishness_again.md) — *canonical home for inherited classifiers, Gaeilge, Garvaghy Road, jurisdictional translation and network propagation*
+> - [☘️🕎 Diaspora Proxies In America](../../../🌖_6_Learning_The_Skies/🧩_Shattering_1000_Glass_Pieces/♻️_Applied_Cybernetics/☘️🕎_diaspora_proxies_in_america.md) — *canonical home for diaspora network topology, proxy drift, guilt by association and the American constitutional-security assay*
 > - [📋 Exhibit H: Radicalised Algorithms](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_h_radicalised_algorithms.md) — *algorithmic classification, racialised tagging and the information environment*
 > - [🪼 Voltaire on Monoculture](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🪼_voltaire_on_monoculture.md) – *I will to the death your right to say something, as long as you’re not threatening or harming other people; cf. try not to be a cunt*
 > - [☘️ Bloody Sunday, 1972.](../../🌊_Playing_Defence/🫀_Grieving_Charlie_Foxtrots/☘️_bloody_sunday_1972.md) - *some context for that song you like; told as a piece about how to develop forces accountability and legal oversight*  
