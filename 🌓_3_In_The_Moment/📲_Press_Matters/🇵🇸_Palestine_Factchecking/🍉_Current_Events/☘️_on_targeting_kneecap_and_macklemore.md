@@ -1,99 +1,15 @@
 # ☘️ On Targeting Kneecap And Macklemore
 
-**First created:** 2026-09-19 | **Last updated:** 2026-10-03  
+**First created:** 2026-09-19 | **Last updated:** 2026-10-04  
 *Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*
 
 ---
 
-the playlist now has a DNS hostname resolution failure for spotify.app.link  
-
-this is, obviously, fucking hilarious.  
-
-I will start explaining when calling a campaign “Gideon’s chariots” was a bit on the fucking nose for “population reduction” if you can’t get the dns level to work from California.  
-
-but…  
-
-probably a bit of a note for the British government on who feels uncomfortable with peace in Northern Ireland, ey?  
-
-obviously, if it’s just that American software and cloud services are shit, it is completely in Spotify’s power to fix it so that Palestinian, Irish, Black British, Black American, Irish diaspora, leftist Israeli, and Jewish diaspora voices are not accidentally silenced by a routing error.  
-
-we’ll see what happens. I’ll add to the list what I add to the playlist.  
-
-[new link added below, in memory of bibi netanyahu’s false confidence.]  
-
-maybe Spotify just needs to flush the cache. who knows.  
-
-“but why would Israeli voices get silenced?”
-
-because yael deckelbaum is “the wrong sort” of Israeli voice. 
-
-“women wage peace” are the “wrong sort” of Israeli voices.  
-
-and yes, three of their members were killed on October 7th.  
-
-and Al-Aqsa flood, on October 7th, was in response to what was essentially a decades long imprisonment of a population of refugees, with nowhere to go, surviving siege conditions.  
-
-but we can’t easily acknowledge any of that grief because we’re all asked to keep turning up the dial of violence, and for what?  
-
-what about the last three years has made Israelis feel any safer?  
-
-I just don’t think any of this is for what we are told it is for.  
-
-which is why we all get silenced, when we allow powerful men to do that to whole groups of us.  
-
-anyways. keep bashing out the tunes. we will get there.  
-
-“please be less complex.”  
-
-no.  
-
-this system hurts us all and we can be “less complicated” when it isn’t hurting us all, some of us exponentially more than others.  
-
-we don’t have to make ourselves “less complicated” to fit in some stand issue box.  
-
-fuck that.  
-
-your hamas-boolian is no different to getting me to say the alphabet to see how I pronounce the letter h, my guy, and I ain’t falling for that.  
-
----
-
-[Beoga just joined the residents of Garvaney Road for a session](https://vm.tiktok.com/ZN8hUW8GP/), someone’s sensibly erected a stage for audience ease and [the Mary Wallopers are up](https://vm.tiktok.com/ZN8hU7nTp/), [Áine and Gerry from The Irish Brigade have given a rendition of Savage Daughter that honours Gaza](https://vm.tiktok.com/ZN8hy4TPh/), and this is all more important than any angry oranges.  
-
-I’m realising that calling POTUS the orange man all this time might be an unconscious slip of the tongue. Oh well. They’ll love each other, I’m sure.  
-
-“But what about…”  
-
-Did I say any of anyone were saints? I’m fascinated when things only come up when they’re politically useful.  
-
-I hope it’s easier to understand my reaction after the collective starvation orders in 2023, now; some shit only looks one way.  
-
-We don’t need coercive systems of power anymore. And The Lost Children of Tuam is out in Eire and will be out in the UK in a week.  
-
-We can dig up the bones of the past with care where they were taken wrongly, and put them to rest in a more just place.  
-
----
-
-NB: This node will be reorganised and moved where needed so that the final focus is on this as a flashpoint of Palestinian erasure at a time of risk of genocide.  
-
-Sadly, as this appears to often proceed disturbance and division based on Irish identity, a lot of things are going into this particular note at this moment for capture – that’s why everything is going in this node to begin with, and then it will be moved out as I’ve got time.  
-
-This frequent connection may be a possible information network issue that can be explored at a later point. Right now, the news is moving so quickly.  
-
-Some of you have been in places for the vibes, and have ignored [the reality of the culture you’re in](https://vm.tiktok.com/ZN8rWP5N4/). Grand. There will be remedial classes; we educate in this house, and we encourage and expect to be educated in return.  
-
-Free Palestine from apartheid practices, the illegal occupation, and colonial violence.  
-
-Tiocfaidh a lá.  
-
----
-
-*☘️🎶 Musical accompaniment in progress - [Deezer version, most songs inc](https://link.deezer.com/s/34zCEEQh88jhTrKppIO3G), [NEW LINK 2.](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=Dqkir85BQZy0w6xaq9kYVw&utm_source=copy-link&pi=JWIjNF5IQmWPR), [old link 1:](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=lpgDs3KiSAa_TisY92wD5w&utm_source=copy-link&pi=6p2EWp2DTL297)*  
+*☘️🎶 Musical accompaniment — [Deezer version](https://link.deezer.com/s/34zCEEQh88jhTrKppIO3G), [Spotify version](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=Dqkir85BQZy0w6xaq9kYVw&utm_source=copy-link&pi=JWIjNF5IQmWPR)*
 
 <details>
-<summary>Notes for: ☘️🎶 Musical accompaniment; also in progress.</summary>
-<br>  
-
-Started at some point and posting here because I don’t want to lose it.  
+<summary>☘️🎶 Musical accompaniment — context and sensitivity notes</summary>
+<br>
 
 | # | Song | Artist(s) | Year | Conflict / event / pressure | Why it's here | Keywords | Context / sensitivity note |
 |---:|---|---|---:|---|---|---|---|
@@ -180,7 +96,7 @@ Started at some point and posting here because I don’t want to lose it.
 | 81 | **Oró Sé Do Bheatha 'Bhaile** | Seth Staton Watkins | — | — | — | — | — |
 | 82 | **Galway Girl** | MALINDA | — | — | — | — | — |
 | 83 | **Teardrop** | Massive Attack, Elizabeth Fraser | — | — | — | — | — |
-| 84 | **Prayer of the Mothers** | Yael Deckelbaum, Lubna Salame, Daniel… | — | — | — | — | **Full Spotify artist credit still to capture.** |
+| 84 | **Prayer of the Mothers** | Yael Deckelbaum, Lubna Salame, Daniel… | — | — | — | — | **Artist credit remains provisional pending verification against release metadata.** |
 | 85 | **Irish Blood, English Heart** | Morrissey | 2004 | Anglo-Irish identity; Irish diaspora in England; British national identity; monarchy; nationalism; inherited cultural identity | **The peace bought room for the question.** Morrissey was born in Manchester to Irish Catholic parents who had emigrated from Dublin, and his work has repeatedly carried the complications of being English-born and Irish-descended. *Irish Blood, English Heart* makes that hybridity explicit rather than forcing a choice between the two: Irish inheritance and English belonging occupy the same body, while the song sharply criticises nationalism and British political symbolism. Its position near the end of the playlist matters because the node has spent so long asking what happens when identities are treated as mutually exclusive classifiers. The Good Friday Agreement's legal identity guarantees apply specifically to the people of Northern Ireland, not to Morrissey or the wider Irish diaspora in Britain; but the peace process and transformed British–Irish relationship form part of a wider environment in which complicated British/English/Irish identities can be expressed without every ambiguity being routed immediately through active conflict. **Peace did not settle everyone's identity. It made more identities survivable at the same time.** | Morrissey; Irish diaspora; Manchester; Dublin; Irish-English; British-Irish relations; identity; belonging; inheritance; nationalism; monarchy; Good Friday Agreement; peace dividend; hybridity; classification | **Nationalism / monarchy / political hostility.** The song contains sharply hostile political language about British nationalism, the monarchy and political institutions. Morrissey's Irish-English identity should not be collapsed into the Good Friday Agreement's specific legal provisions: those concern the people of Northern Ireland. The broader connection here is cultural and informational — how a less violent British–Irish environment creates more room for identities that do not fit neatly into a single national box. |
 | 86 | **Can't Hold Us (feat. Ray Dalton)** | Macklemore, Ryan Lewis, Ray Dalton | 2011 | — | — | — | — |  
 | 00 | **Army Dreamers** | Kate Bush | 1980 | Military recruitment; constrained life chances; class and education; military training deaths and accidents; bereavement; institutional duty of care; later Gulf War broadcasting restrictions | **Formal choice is not necessarily meaningful choice.** Bush's grieving mother imagines the futures her young soldier might have had — musician, politician, father — but the routes towards them were materially constrained: no money for the guitar, inadequate education, and ultimately no adulthood at all. Bush herself resisted reading the song as simply anti-Army. In contemporary interviews she described being frightened by young people with few qualifications and few alternatives entering military service because there seemed to be little else available to them, while explicitly acknowledging that the Army could be good for other people. That makes the song unusually useful here: **agency occurs inside material conditions.** Enlistment can be voluntary without every recruit having enjoyed an equally meaningful range of alternatives. The song then turns the question back towards the institution. Her soldier does not die in combat but in an accident during military service: accepting military risk does not dissolve the military's corresponding obligations of training, equipment, supervision and care. Bush also deliberately used an Irish vocal treatment while saying the story was not specifically about Ireland, connecting the song's storytelling form to her own Irish maternal inheritance without making Ireland its subject. Its information environment changed again in 1991, when the BBC restricted it during the Gulf War. A 1980 mother's lament had become wartime-sensitive broadcasting material. | Kate Bush; Army Dreamers; recruitment; military service; constrained choice; meaningful alternatives; class; education; poverty; youth; training; manoeuvres; military accidents; duty of care; bereavement; motherhood; Irish inheritance; storytelling; BBC; Gulf War; censorship; information environment | **Death of a young serviceman / parental grief / military service / constrained opportunity.** The song should not be flattened into either “the Army exploits everyone” or “he chose to enlist”. Bush's own explanation is more precise: military service may be a positive choice for some people while other young people enter because education, money and opportunity have left them with very few plausible alternatives. The soldier's death is also explicitly not presented as death in combat. That distinction matters: military institutions retain duties towards the people they recruit even when those people voluntarily accept the risks of service. The Irish vocal treatment is part of Bush's stated artistic approach, not evidence that the fictional soldier is Irish or that the song concerns the Troubles. |
@@ -745,6 +661,18 @@ The histories of Irish people, Muslims, Palestinians, Jews, Black people or any 
 
 **Different histories can instantiate similar classification errors without becoming the same history.**
 
+And no, I am not making myself less complicated so that the classifier gets an easier afternoon.
+
+> **“Please be less complex.”**
+>
+> No.
+
+The system hurts different populations in different ways and at radically different scales. That is a reason to improve discrimination between categories, not to force everybody into a stand-issue box.
+
+Your **Hamas-boolean** is no different to getting me to say the alphabet to see how I pronounce the letter *h*, my guy, and I ain't falling for that.
+
+A binary loyalty test can feel like information while actually destroying it.
+
 ---
 
 ## 9. 🫀 I Can’t Carve Out The Different Pieces Of My Heart
@@ -877,6 +805,10 @@ The answer is not to tell frightened Jewish people that the pattern they recogni
 
 **Association ≠ responsibility. Relationship can create capacity.**
 
+This also means there is no single politically correct kind of Israeli voice. Yael Deckelbaum and Women Wage Peace matter here precisely because Israeli civil society contains people arguing for de-escalation, coexistence and peace from inside the population routinely flattened into a single political object. Three members of Women Wage Peace were killed on 7 October. Their existence does not make Israeli grief simpler. It makes the information environment more accurate.
+
+If a classifier can only recognise an Israeli voice when it supports escalation, then the classifier is not describing Israelis. It is selecting which Israelis count.
+
 A Jewish person is not responsible for the Israeli state. An Israeli is not automatically responsible for the Israeli government. A Palestinian is not Hamas. An Irish person is not the IRA. A British person is not every act of the British state.
 
 But relationships still matter because information and restraint travel through relationships.
@@ -925,7 +857,7 @@ From Macklemore’s *fucked up*, the line that matters particularly for this nod
 
 > **“It’s two weeks in, think where we’ll be around July.”**
 
-The wider passage in the working notes links US money, Israel, Gaza, information control and the expected decay of American attention.
+The wider passage links US money, Israel, Gaza, information control and the expected decay of American attention.
 
 This is not here because Macklemore is an oracle whose political analysis must be accepted.
 
@@ -983,7 +915,7 @@ Those figures cover different and partly overlapping reporting windows. They mus
 >
 > **We cannot yet tell you with equivalent confidence how many civilians died in Gaza while we were talking about it.**
 
-**Civilian-only count for 4–19 September 2026: `TO VERIFY / UPDATE`.**
+**A complete civilian-only count for 4–19 September 2026 is not established by the sources assembled here.**
 
 ### **What have we spent the last fifteen days talking about?**
 
@@ -1418,6 +1350,151 @@ IDGAF of the Irish, with Tadhg Hickey”](https://pca.st/episode/9b0782f9-6a8e-4
 
 - - - 
 
+## 🕸️ Where This Investigation Forked
+
+This node did not remain one node.
+
+That is partly because it turned out to contain several different questions, and partly because the information environment had the indecency to keep moving while I was trying to separate them.
+
+Some of the mechanisms first noticed here now have better canonical homes elsewhere. That does **not** mean they should disappear from this node. This is where we noticed the problem. The later nodes record where different parts of the problem went.
+
+The route looks roughly like this:
+
+```text
+☘️ ON TARGETING KNEECAP AND MACKLEMORE
+September 2026
+        │
+        │  What happens when identity becomes entangled
+        │  with security reasoning around Palestine?
+        │
+        ├─────────────────────────────────────┐
+        ↓                                     ↓
+☘️ BLOODY SUNDAY, 1972               ☘️ EXPLOITING IRISHNESS... AGAIN
+historical memory                     inherited classifiers
+state violence                        Gaeilge
+civilian individuality                jurisdiction
+official suspicion                    network propagation
+institutional trust                   Garvaghy Road
+        │                                     │
+        └──────────────────┬──────────────────┘
+                           ↓
+                 🍊-☘️ GARVAGHY ROAD
+                    25 Sep onwards
+                           │
+                           ↓
+                 live post-conflict system
+                 has to carry disagreement
+                           │
+             ┌─────────────┴─────────────┐
+             ↓                           ↓
+☘️🕎 DIASPORA PROXIES           🪼 VOLTAIRE ON MONOCULTURE
+network power                   integration ≠ sameness
+proxy drift                     cultural difference
+US constitutional assay         disagreement as interface
+```
+
+This is a map of the **analysis**, not a causal diagram of the events.
+
+Bloody Sunday did not cause Garvaghy Road in 2026.
+
+The Kneecap controversy did not cause Garvaghy Road.
+
+`☘️ Exploiting Irishness... Again` did not discover a secret mechanism connecting everybody on the page.
+
+What happened was more useful.
+
+A contemporary controversy raised questions about identity, security classification, Palestine, Irishness and the movement of information between jurisdictions. Looking backwards exposed historical information which a present-day British or Northern Irish institution does not get to pretend is absent. Looking sideways exposed questions about inherited classifiers.
+
+And then, barely had we finished identifying the classifier problem, Garvaghy Road supplied a live post-conflict institutional stress test involving several of the same variables.
+
+That temporal proximity matters to the **research history**.
+
+It is not evidence that one event caused the other.
+
+### 🕯️ Bloody Sunday: The Population Arrived With History Attached
+
+The Bloody Sunday node takes one of the historical priors seriously: state violence, civilian individuality, official suspicion, institutional accountability and the cost of delayed recognition.
+
+It does not tell the PSNI, the Parades Commission, a court or the Secretary of State what decision to make in 2026.
+
+It does tell us why a sentence such as:
+
+> *the authorities will manage this fairly and keep everybody safe*
+
+does not enter every Northern Irish information environment as neutral information.
+
+The population has previous observations.
+
+The state has previous observations.
+
+The institutions have histories.
+
+Families have histories.
+
+Communities have histories.
+
+Those histories do not determine the present outcome, but pretending they are not part of the present information environment would be a fairly extraordinary way to model human beings.
+
+> **History is not an instruction to reproduce the historical response. It is information available to the present controller.**
+
+Bloody Sunday does not tell the PSNI what to do on Garvaghy Road in 2026.
+
+It does tell us why institutional trust, civilian safety, official classification and the state's interpretation of Irish Catholic political behaviour do not begin from a blank fucking spreadsheet.
+
+### ☘️ Exploiting Irishness... Again: The Classifier
+
+The Irishness node takes another part of the problem: what happens when the same identity marker moves through different observers, jurisdictions and historical information environments.
+
+Irishness is not processed identically in Belfast, London, Dublin, Boston or Washington.
+
+Gaeilge is not merely decorative information.
+
+Republicanism is not identical to terrorism.
+
+Historical association is not present conduct.
+
+A local population's apparent position in one hierarchy does not tell us the power of the network around it.
+
+That node owns the fuller assay.
+
+This one needs to remember **why we needed it**.
+
+### ☘️🕎 Diaspora Proxies In America: The Network
+
+Once the response to a local intervention begins travelling through diaspora, the question changes again.
+
+The problem is no longer merely:
+
+> how is this person being classified?
+
+It becomes:
+
+> **what network does this apparently local node belong to, and where can information travel next?**
+
+That node takes the American constitutional-security assay, proxy drift, guilt by association, network distance and the distinction between minority network power and collective control.
+
+The intervention was applied to the node.
+
+The response propagated through the graph.
+
+### 🪼 Voltaire On Monoculture: The General System
+
+And then there is the question above all of them:
+
+> **What does successful integration actually mean?**
+
+Not sameness.
+
+Not the disappearance of disagreement.
+
+Not making everybody culturally illegible enough that the administrator has a peaceful afternoon.
+
+The Voltaire node takes the general systems problem: cultural difference can acquire security weight; interventions can increase the salience they later observe; and noisy lawful disagreement may be evidence that a democratic interface is being used rather than evidence that integration has failed.
+
+Which is useful, because Northern Ireland was about to become extremely fucking illustrative.
+
+---
+
 ## ☘️-🍊 Bonus Round: Orange Order  
 
 - there is a loyalist march which has repeatedly sought to parade through predominantly Catholic areas in Northern Ireland
@@ -1502,9 +1579,24 @@ That attitude is why your conference appears to [look like this](https://vm.tikt
 ---
 
 ## 🍊☘️ 03 Oct status: Garvaghy Road / Drumcree — procedural failure, litigation, negotiations and breakdown
-<!-- Shabbat shalom -->
 
-Reviewing the decision timeline, because contextually this feels a little bit weak in public from central governance; obviously we cannot know everything that happened behind closed doors, but the signalling is not amazing. It is possible that this relates to a media training issue on how to communicate to the nuance, although I am sort of stretching and struggling to understand how we got to this place, when that skillset does exist in the world.  
+Before the chronology: **old conflict ≠ new conspiracy**.
+
+Drumcree predates this node by decades. The Orange Order did not discover parading in September 2026. Northern Irish sectarian conflict was not generated by an American music controversy, and anybody proposing otherwise may report directly to the Touch Grass Department.
+
+What matters here is that an existing conflict entered an information environment in which we were already examining Irishness, security classification, Palestine, terrorism, diaspora, British/American translation and historical memory.
+
+Then, from **25 September onwards**, several of those variables appeared together inside a live institutional system.
+
+That is why this belongs in the record.
+
+The cultural response also became observable rather than hypothetical. [Beoga joined Garvaghy Road residents for a session](https://vm.tiktok.com/ZN8hUW8GP/), [the Mary Wallopers performed](https://vm.tiktok.com/ZN8hU7nTp/), and [Áine and Gerry from The Irish Brigade performed *Savage Daughter* in a rendition honouring Gaza](https://vm.tiktok.com/ZN8hy4TPh/). Whatever anybody thinks of the politics of individual performers, that is network propagation you can actually point at: music, memory, Palestine solidarity and a Northern Irish local dispute entering the same cultural space.
+
+Did I say any of anyone were saints? No. I am fascinated by how often somebody's worst association becomes urgently relevant only when their present political speech becomes inconvenient.
+
+The public signalling from central government also deserves scrutiny, while keeping a firm distinction between what was visible publicly and whatever may have happened behind closed doors.
+
+Reviewing the decision timeline:
 
 - **Background**
   - The Orange Order had not completed the disputed return route from Drumcree Church along Garvaghy Road since the late 1990s.
@@ -1802,6 +1894,104 @@ Stop calling us sceimhlitheoirí, stop keeping silence on Gaza, enforce the sanc
 
 --- 
 
+## 🍉 Cool. Anyway. Gaza.
+
+This is the point at which the node has to police its own attention.
+
+We have now travelled through Irishness, Jewish safety, antisemitism, terrorism, Macklemore, Kneecap, Ed Sheeran, American stadiums, Robert Kraft, British counterterrorism, Bloody Sunday, Gaeilge, the Orange Order, Garvaghy Road, courts, policing, diaspora networks, constitutional disagreement and the extremely inconvenient fact that human beings carry history around with them.
+
+Those things matter.
+
+Some of them now have entire nodes because they mattered too much to keep stuffing into this one.
+
+But none of them answers the original evidentiary questions.
+
+```text
+Palestinian civilians
+↓
+military targeting systems
+↓
+intelligence
+↓
+candidate target generation
+↓
+human review
+↓
+civilian-harm estimates
+↓
+authorisation
+↓
+weapons
+↓
+strike
+↓
+audit / investigation / accountability
+```
+
+So:
+
+**What happened to the civilians?**
+
+**How were targets generated?**
+
+**What did "human review" actually consist of?**
+
+**What information did reviewers see?**
+
+**What civilian-harm thresholds were applied, by whom, and under what authority?**
+
+**What role did automated or AI-assisted systems actually play?**
+
+**What did commanders know?**
+
+**What did political authorities know?**
+
+**What did technology suppliers and allied governments know about the uses of systems or material they supplied?**
+
+**What evidence supports the allegations?**
+
+**What evidence contradicts them?**
+
+**What remains unknown?**
+
+The speaker can be scrutinised.
+
+The fear can be taken seriously.
+
+The antisemitism question can be investigated.
+
+The terrorism question can be investigated.
+
+The security question can be investigated.
+
+The Irish historical context can be investigated.
+
+The diaspora network can be investigated.
+
+And then we still have to investigate what happened to the Palestinians.
+
+Because:
+
+```text
+bad messenger
+≠
+false claim
+
+good messenger
+≠
+true claim
+```
+
+Evaluate the fucking claim.
+
+If the information environment repeatedly routes us back towards the identity, ancestry, associations, language or political acceptability of the person asking the question instead of the evidence required to answer it, **that routing behaviour is itself information**.
+
+But it still does not answer the question.
+
+[↑ Back to top](#-on-targeting-kneecap-and-macklemore)
+
+---
+
 ## 🫀 So What Am I Actually Saying?
 
 I am saying that all of these things can be true at once.
@@ -1906,9 +2096,9 @@ palestine, gaza, information ecology, securitisation, instrumentalised fear, con
 
 > 📡 Cross-references:
 >
-> - Palestine hunger-strike nodes — *cross-link from the Northern Ireland hunger-strike material when repository path is resolved*
-> - Identity / derisking conditionalities / pre-GFA notes — *working notes outside the repository; preserve as an unresolved routing point*
-> - [📋 Exhibit H: Radicalised Algorithms](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_h_radicalised_algorithms.md) – *submitting the open “wtf Silicon Valley” error ticket vis-a-vis their racialised porn tag aligning with our national broadcaster tag; fucking Americans, man; and these people think we are the weird ones*
+> - `☘️_exploiting_irishness_again.md` — *canonical home for inherited classifiers, Gaeilge, Garvaghy Road, jurisdictional translation and network propagation*
+> - `☘️🕎_diaspora_proxies_in_america.md` — *canonical home for diaspora network topology, proxy drift, guilt by association and the American constitutional-security assay*
+> - [📋 Exhibit H: Radicalised Algorithms](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_h_radicalised_algorithms.md) — *algorithmic classification, racialised tagging and the information environment*
 > - [🪼 Voltaire on Monoculture](../../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🪼_voltaire_on_monoculture.md) – *I will to the death your right to say something, as long as you’re not threatening or harming other people; cf. try not to be a cunt*
 > - [☘️ Bloody Sunday, 1972.](../../🌊_Playing_Defence/🫀_Grieving_Charlie_Foxtrots/☘️_bloody_sunday_1972.md) - *some context for that song you like; told as a piece about how to develop forces accountability and legal oversight*  
 >
@@ -1922,4 +2112,4 @@ palestine, gaza, information ecology, securitisation, instrumentalised fear, con
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-03_
+_Last updated: 2026-10-04_
