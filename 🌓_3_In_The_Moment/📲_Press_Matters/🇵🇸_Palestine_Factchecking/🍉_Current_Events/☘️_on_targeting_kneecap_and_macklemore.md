@@ -737,7 +737,8 @@ That bargain can be refused.
 
 - [Battle of Cable Street](https://en.wikipedia.org/wiki/Battle_of_Cable_Street)
 - [🎶: The Young ‘Uns: The Ballad of Johnny Longstaff](https://vm.tiktok.com/ZN8r5xxdW/)
-- [📹: Trades Union Congress, via TikTok: “90 years since The Battle of Cable Street, we're remembering the trade unionists long history of fighting fascism.”](https://vm.tiktok.com/ZN8hXWPFX/)  
+- [📹: Trades Union Congress, via TikTok: “90 years since The Battle of Cable Street, we're remembering the trade unionists long history of fighting fascism.”](https://vm.tiktok.com/ZN8hXWPFX/)
+- [📹: Holocaust Educational Trust: “On 4 October 1936, thousands stood together to stop British fascists marching through London's Jewish East End. Jewish residents, communists, trade unionists and anti-fascists blocked streets and built barricades. The march was called off. It became known as The Battle of Cable Street.”](https://vm.tiktok.com/ZN8h7gJrF/)  
 
 Cable Street is not useful because it proves eternal Irish–Jewish friendship.
 
@@ -2076,17 +2077,13 @@ Adjacent research route: [AliMcForever: “Robert Kraft and Confucian legal theo
 
 - Language, Resistance and Revival
 Republican Prisoners and the Irish Language in the North of Ireland; Feargal Mac Ionnrachtaigh; Pluto Press; 2013. 9780745332260.
-
+- [📹: Middle East Eye, via TikTo: “US activist John Jacobs staged a protest at the Israeli embassy in Washington, DC, using a modified Ed Sheeran song to speak out against genocide, child casualties, and hospital bombings in Gaza. He followed the performance by blasting Macklemore tracks outside the building. Video credit: @johnjacobscc”](https://vm.tiktok.com/ZN8hXxgQA/) – *that’s one thing to do with that melody now*  
 
 ---
 
 ## ✨ Stardust
 
 palestine, gaza, information ecology, securitisation, instrumentalised fear, conditional belonging, irishness, jewish safety, solidarity without equivalence, boycott divestment sanctions, non-violent political action, relational capacity, ai targeting  
-
-*Follow the evidence:*  
-
-- [📹: Middle East Eye, via TikTo: “US activist John Jacobs staged a protest at the Israeli embassy in Washington, DC, using a modified Ed Sheeran song to speak out against genocide, child casualties, and hospital bombings in Gaza. He followed the performance by blasting Macklemore tracks outside the building. Video credit: @johnjacobscc”](https://vm.tiktok.com/ZN8hXxgQA/) – *that’s one thing to do with that melody now*  
 
 ---
 
