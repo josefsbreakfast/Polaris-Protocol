@@ -1221,6 +1221,14 @@ I am far more frightened by the potential downstream consequences of AI assisted
 
 Let us see inside the “super intelligent” black box.  
 
+Mostly because we can see the second order consequences, J P Morgan Chase. We need to see what that “conflict observation” software is actually doing mathematically.  
+
+Before anyone gets the idea it’s just one bank?  
+
+Extremely unlikely.  
+
+Remember *The Big Short*?  
+
 --- 
 
 ## 📚 Source Register  
