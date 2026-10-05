@@ -1564,7 +1564,9 @@ If they can behave for ten seconds and not blow up the planet.
 
 *Possible Moosegate-adjacent acts:*  
 
-- [📰: SVT: “Techmiljardär köper skog i Storsjö i Bergs kommun”](https://www.svt.se/nyheter/lokalt/jamtland/techmiljardar-koper-skog-i-storsjo-kapell-i-bergs-kommun) – *This is one requirement of the quest unlocked, my friend. Let us be clear that the lava cape is not yet unlocked and it ain’t in your inventory.*  
+- [📰: SVT: “Techmiljardär köper skog i Storsjö i Bergs kommun”](https://www.svt.se/nyheter/lokalt/jamtland/techmiljardar-koper-skog-i-storsjo-kapell-i-bergs-kommun) – *This is one requirement of the quest unlocked, my friend. Let us be clear that the lava cape is not yet unlocked and it ain’t in your inventory.*
+
+<!-- and just… goddamit man why did you have to beat me to the framework? extremely annoying. sadly the trees are very pretty trees. -->
 
 ---
 
