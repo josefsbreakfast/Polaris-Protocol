@@ -1289,6 +1289,11 @@ The earlier edition also linked Palestinian family memory and contemporary polit
 ## 🌌 Constellations
 🛰️ 🕸️ 🛡️ ⚖️ 🧿 — media fidelity; attribution hygiene; embodied information security; minority protection; democratic defence.
 
+*Further media:*  
+
+- [📹: Jason, via TikTok: “James
+A very wild response to what is a fairly uncontroversial claim”](https://vm.tiktok.com/ZN8kjR6EA/) – *The Rt Hon Zara Sultana MP has been frontline in protests during periods of increased racism violence. Amichai Chikli has promoted Stephen Yaxley-Lenon as being “safe” for Hewish people. They are not the same. If you honestly want the term “Zionism” to refer to something not racist, you need to take it back from the racists who are using it to describe their own violence.*  
+
 ---
 
 ## ✨ Stardust
