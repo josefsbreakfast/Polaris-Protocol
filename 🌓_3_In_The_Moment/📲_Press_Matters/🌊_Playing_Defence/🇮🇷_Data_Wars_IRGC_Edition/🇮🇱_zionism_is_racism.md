@@ -727,6 +727,292 @@ Because the purpose of information defence should not be to protect the state fr
 
 ---
 
+## 🫀 A Difficult Thing To Watch
+
+There is something I need to say plainly about my own position in this.
+
+I can understand why Jewish people may hear the phrase **“Zionism is racism”** and experience it as frightening, hostile, or as a statement about themselves. There is a real historical basis for Jewish fear, and I do not think that fear should be mocked or treated as imaginary.
+
+But the phrase which titles a motion is not identical to everything contained within the motion itself.
+
+What I am watching, repeatedly, is people attempting to rebut the phrase as an abstract proposition while apparently finding it much harder to tolerate looking directly at the substantive motion: what it actually says, how it bounds its claims, what political and material conditions it describes, and what adopting it would actually do.
+
+People can read that text and profoundly disagree with it. They can believe that it discriminates against them. But those are still arguments that require engagement with the thing itself.
+
+And I cannot separate watching that happen from everything else I am being asked, simultaneously, **not to look at**.
+
+I am a Jewish woman who has survived rape and gone through a court process concerning rape. The public justification surrounding *Swords of Iron* from October 2023 onwards repeatedly invoked the rape and sexual violence suffered by Jewish women. That landed in my body as well as in my politics.
+
+I am now also watching news about early release from prison while my genetic father remains imprisoned — a familial relationship I have deliberately distanced myself from, but which remains materially relevant to how I experience imprisonment, courts, sexual violence and public narratives about victims.
+
+And while an enormous amount of political oxygen is being consumed by this argument, I am also watching questions concerning Prince Andrew and his attempt to challenge his arrest; intimidation affecting residents of Givani Road; unresolved security questions concerning RAF Fairford and the withdrawal of US bombers; the questions about base security which should already have been sharpened by the Palestine Action breach; continuing parliamentary scrutiny around Epstein-associated networks, Mandelson, money, access and adjacent political power; the Cornell rape case; and the consequences of evidence being heard *in camera* alongside serious questions about shortcomings by the US Department of Justice.
+
+Those things do not cease to matter because another argument is emotionally overwhelming.
+
+### ☘️ When one part of me becomes disposable
+
+There is another intersection here which makes the reporting around Niqab, Macklemore, the music industry and Givani Road particularly difficult for me.
+
+I have Irish Catholic family roots.
+
+I therefore also know what it is like to live with an identity which British institutions have historically been capable of coding through **terrorism by association**. I am hyper-aware of that because of people in my own family and because that association has existed around Irish Catholic identity throughout my life.
+
+That does not make anti-Irish and anti-Catholic violence the same phenomenon as antisemitism. It does not require some grotesque competition over which European prejudice was worse.
+
+It means that both have histories.
+
+Both have produced material consequences.
+
+And both belong to a much longer European history of religious and political intolerance. The violence discussed centuries ago in Voltaire's *Treatise on Tolerance* did not simply evaporate when Europe became modern.
+
+In the British and Irish context, those classifications have not been merely rhetorical. As discussed elsewhere in this archive, suspicion attached to Irishness, Catholicism, republicanism or presumed association with political violence has contributed to restrictions upon liberty and treatment capable of engaging fundamental human-rights protections, including protections against cruel, inhuman or degrading treatment.
+
+Those are things which would rightly be regarded as completely unacceptable if casually inflicted upon an English person because of their ancestry or presumed political associations.
+
+That history matters precisely because democratic states are supposed to have learned from it.
+
+So when I am looking at intimidation at Givani Road and what I understand to be a serious threat to the settlement protected by the Good Friday Agreement, I am not looking at an abstract constitutional problem.
+
+I am watching something which touches another part of my own inheritance being treated as comparatively disposable.
+
+And I find it profoundly confusing, on an emotional level, that apparently my own proximity to the category of **“terrorist”** — through my Irish Catholic family roots and all of the historical associations British institutions have attached to them — is now something we recognise should not be weaponised or instrumentalised against me.
+
+Good.
+
+But at the same time, I am watching intimidation affecting an Irish Catholic community treated as comparatively unimportant, even where the underlying situation threatens one of the most fundamental peace settlements we have in the United Kingdom: the Good Friday Agreement.
+
+That is an extraordinarily uncomfortable position from which to watch British journalism decide whose fear constitutes the emergency.
+
+### 🕯️ Fear is real. That does not make it an argument.
+
+I am particularly uneasy about the speed with which individual Jewish people are being recruited into this argument.
+
+Someone can sincerely believe that the motion is antisemitic, discriminatory or dangerous.
+
+Someone can also be profoundly frightened by what they think it represents.
+
+**Those two things can be true at once, and they can become tangled together.**
+
+My gut feeling, watching some of the Jewish people currently being platformed, is that I am sometimes seeing a mixture of profound fear for personal or communal safety and substantive scepticism about the motion itself.
+
+That does not invalidate either response.
+
+But it does matter.
+
+The phrase **“Zionism is racism”** also has a political history: it was once embodied in a United Nations General Assembly resolution and that resolution was subsequently revoked. Whatever somebody thinks about that history, encountering the phrase therefore means encountering something carrying decades of political, communal and historical baggage.
+
+If somebody is then asked, effectively overnight, to turn their response into polished public political analysis, twenty-four hours is not necessarily enough time for a human being to work out which part of their reaction is constitutional argument, which part is political disagreement, which part is communal memory and which part is simply:
+
+*I am frightened.*
+
+That is not a reason to dismiss them.
+
+**It is a reason to be considerably more careful about platforming them.**
+
+### 📲 Jewish people are not evidential exhibits
+
+There is something particularly ugly about the journalistic move of finding **a Jewish person who agrees that this is dangerous** and then using their identity to carry an argument which the publication itself wants to make.
+
+That person is not an evidential exhibit.
+
+They are a human being.
+
+You do not have to platform somebody at their most frightened or emotionally overwhelmed moment merely because their fear is politically useful to the story you want to tell.
+
+And publicly identifying someone with an intensely polarised political position may expose them to harassment, threats, doxing and deliberate attempts to frighten them further.
+
+If you choose to place an identifiable Jewish person into an extraordinarily hostile information environment, there should at minimum be serious thought about what happens to that person afterwards.
+
+What protection has been provided against doxing?
+
+Against targeted harassment?
+
+Against coordinated or semi-coordinated digital campaigns?
+
+Against hostile actors deliberately amplifying whatever frightens that person most?
+
+Against the possibility that the person being platformed does not yet understand the scale of the information environment into which their name, face and fear have just been released?
+
+The information environment makes this considerably more dangerous.
+
+Networked political actors understand that frightened people can be made more frightened. Harassment can be distributed. Threats can arrive through apparently unrelated accounts. Algorithmic amplification can make a relatively small amount of hostility feel ubiquitous. Attribution is difficult.
+
+The person experiencing it may have enormous difficulty proving whether what is happening is spontaneous public reaction, coordinated political activity, foreign influence, domestic extremism, opportunistic trolling, or some horrible mixture of all of them.
+
+And there can be political incentives to make an already frightened person **more frightened** if their fear is producing politically useful speech.
+
+That should concern us enormously.
+
+### 🕸️ A fracture other people can press on
+
+We are still developing the institutional and cybersecurity machinery capable of recognising those environments reliably.
+
+That problem is not uniquely British. Across allied democracies, governments are still trying to understand how digital influence, algorithmic systems, artificial intelligence, coordinated harassment, foreign interference and ordinary human political behaviour interact.
+
+Meanwhile, hostile states have every incentive to identify existing democratic fractures and press on them.
+
+Britain is not observing that problem from outside it.
+
+Iran already understands itself to be in serious confrontation with Britain and its allies. Antisemitism, Israel and Palestine, Islamophobia, Irish constitutional politics, migration, terrorism and communal fear are therefore not merely subjects about which citizens disagree.
+
+They are also extraordinarily valuable surfaces for anyone who wants frightened populations to become more frightened of one another and democratic institutions to become less capable of resolving disagreement.
+
+**This is a fracture to press on.**
+
+That makes the duty of care **higher**, not lower.
+
+And British journalism is not presently good enough at understanding those systems for me to assume automatically that this duty of care is being discharged.
+
+### 🍉 I reject the bargain
+
+This is where the whole thing becomes almost unbearable for me.
+
+Because from where I am standing, Jewish bodies are once again being positioned between political power and danger.
+
+Jewish people are being encouraged to understand Palestinian political claims as threats to Jewish safety.
+
+Frightened Jewish individuals can then be placed publicly in front of those claims as evidence of their dangerousness.
+
+Palestinians are consequently positioned as the people whose political speech, liberty or physical safety must be constrained in order for Jews to become safe.
+
+And meanwhile, the kinds of **erasure, dehumanisation and political silencing** which belong to the processes through which populations can be exposed to genocidal violence are being directed towards Palestinians.
+
+Except that, in order to legitimise it, **the British press is using Jewish people**.
+
+I reject that bargain.
+
+I do not want Palestinian bodies placed between me and danger.
+
+And I do not want **my body, or the bodies of other Jewish people, placed between Palestinians and political power**.
+
+Jewish people should not become human shields for an editorial position.
+
+Their fear should not become the mechanism through which Palestinian speech is delegitimised.
+
+And Palestinians should not be required to surrender political voice, liberty or physical safety in order to reassure Jewish people that we are safe.
+
+That does not feel like Jewish safety to me.
+
+It feels frighteningly close to a hostage logic:
+
+*Support this political arrangement because the alternative is what might happen to you.*
+
+A responsible press should be helping frightened people distinguish genuine threats from political instrumentalisation. It should be scrutinising power, protecting vulnerable sources, interrogating the material consequences of proposals, and making it harder for domestic or foreign actors to weaponise communal fear.
+
+It should not be discovering that Jewish fear is politically useful and then putting frightened Jewish people under studio lights.
+
+### 🇵🇸 Palestinians do not disappear behind our fear
+
+Nor can Palestinian people simply disappear behind an argument conducted principally between frightened Jewish people and British political institutions.
+
+British sympathy for Palestinians is not reducible to a tiny revolutionary fringe.
+
+Nor is Palestinian political advocacy reducible to the particular Jewish person's feelings about the phrase **“Zionism is racism.”**
+
+Gaza, the West Bank and East Jerusalem are not abstractions in somebody else's ideological dispute.
+
+They are Palestinian territories, and the continuing Israeli military presence and occupation must be understood against the international legal findings and orders concerning the occupied Palestinian territory since 2024.
+
+And I do not think responsibility stops neatly at Israel's border.
+
+The United States supplies Israel with extraordinary military and diplomatic support. That means American power belongs inside any serious causal account of why this continues.
+
+My position is stronger than saying merely that Washington has “influence”:
+
+**the United States possesses enormous practical leverage with which it could force a radically different course, and it is choosing not to use that leverage to end what I understand to be an ongoing genocide.**
+
+### 🩸 And apparently this was about protecting women
+
+And then there is the extraordinary contradiction around sexual violence.
+
+Because among the things being talked over in this information environment is the **Cornell rape case**.
+
+That matters enormously to me.
+
+I watched sexual violence against Jewish women become part of the moral and emotional architecture through which the war in Gaza was presented to the public from October 2023 onwards.
+
+I understood exactly why those allegations produced horror.
+
+I felt that horror myself.
+
+I am a Jewish woman.
+
+I am also a rape survivor.
+
+I have been through a court process concerning rape.
+
+So when the suffering of raped Jewish women was invoked as part of the moral urgency surrounding this war, that did not reach me as an abstract geopolitical argument.
+
+It landed somewhere extremely personal.
+
+But if the political proposition was genuinely:
+
+> **Women have been raped. Therefore women's safety demands extraordinary political attention and action.**
+
+then that concern cannot simply disappear when the rape victim is politically inconvenient to the narrative being constructed.
+
+You cannot ask me, as a Jewish woman and a rape survivor, to understand the protection of women from sexual violence as part of the moral justification for this war — and then expect me not to notice when another rape case is being drowned out by the political machinery surrounding that same war.
+
+**Apparently we need to protect women.**
+
+Apparently that was part of why all of this had to happen.
+
+Then protect women.
+
+Not Jewish women when their suffering can help manufacture consent for military action.
+
+Not Palestinian women only when acknowledging them carries no political cost.
+
+Not British, Irish or American women when their cases happen to fit today's editorial agenda.
+
+**Women.**
+
+### 🫀 This is why I cannot look away
+
+So yes: I can recognise Jewish fear here.
+
+I am Jewish.
+
+I know what that fear is doing.
+
+But being frightened cannot require me to stop seeing Palestinians.
+
+It cannot require me to stop seeing sexual violence when its victims are politically inconvenient.
+
+It cannot require me to stop seeing an Irish Catholic community facing intimidation or a threat to the Good Friday Agreement because, on this particular day, another part of my identity is more politically useful.
+
+It cannot require me to stop seeing questions about American military power operating through Britain, RAF Fairford, unresolved security failures, Epstein-associated or adjacent networks of money and influence, parliamentary scrutiny, courts, Prince Andrew, or institutional power.
+
+And it certainly cannot require me to pretend that all of those things became less important at precisely the moment when everybody started shouting about the title of a motion.
+
+That is what makes this entire picture so bizarre, irresponsible and, for me, deeply hurtful.
+
+I am watching one historically weaponised part of my identity suddenly treated as something enlightened people understand should never have been used to make me guilty by association, while another part of my identity is being publicly mobilised to help make an entire population guilty by association.
+
+I am watching an Irish peace settlement treated as background noise.
+
+I am watching Palestinian voices spoken over.
+
+I am watching rape become politically urgent and then politically inaudible according to whose suffering is useful.
+
+And I am watching frightened Jewish people placed in front of all of it as though their fear resolves the argument.
+
+It does not.
+
+**My fear does not make Palestinians less human.**
+
+**My Jewishness does not require their silence.**
+
+**My Irish Catholic inheritance does not become disposable because today somebody needs my Jewishness instead.**
+
+**My experience of sexual violence does not permit anybody to invoke raped women when they need a war and forget raped women when they need a distraction.**
+
+My intersecting identities do not make any of this easier to look at.
+
+**They are precisely why I cannot look away.**
+
+---
+
 ## 📚 Source Register  
 
 This list is by no means exhaustive – even Breitbart is reporting on this.  
