@@ -1013,6 +1013,216 @@ My intersecting identities do not make any of this easier to look at.
 
 ---
 
+### 🧿 The voices were already there
+
+There is also a reason I find it difficult simply to come down on the British Jewish voices who are now being platformed.
+
+**I already knew they thought these things.**
+
+They have said them before. They have been quite clear about their politics. Their appearance now is not evidence that somebody suddenly manufactured those opinions for them, and recognising the information environment around them should not become another way of denying Jewish people political agency.
+
+My question is different:
+
+**Why these Jewish voices, and why now?**
+
+Because there are other British Jewish voices.
+
+There are Jewish people whose analysis of Zionism is radically different. There are Jewish people organising explicitly for Palestinian rights. There are Jewish people whose understanding of Jewish safety leads them towards solidarity rather than securitisation. There are Jewish people who would profoundly disagree with the speakers currently being given prominence.
+
+Where are they?
+
+Selective platforming does not require anybody to invent a person's beliefs. It only requires an institution to choose, from among beliefs which already exist, **which ones become representative**.
+
+And that distinction matters enormously here.
+
+My concern is therefore not that these speakers have suddenly acquired opinions they did not previously possess.
+
+My concern is that people who already held those opinions are being elevated to much greater prominence at precisely the moment when that prominence may expose them to considerably greater risk.
+
+That is not an argument against their agency.
+
+It is an argument for taking the environment surrounding the exercise of that agency seriously.
+
+### 🕸️ A stakeholder is also an information target
+
+This is particularly important when thinking about organisations such as the Jewish Leadership Council.
+
+I am not making the antisemitic argument that Jewish organisations possess some universal or hidden political power. That is not my argument at all.
+
+I am making the much more ordinary political observation that organised communal bodies can become **important stakeholders in particular policy environments**.
+
+On British policy concerning Israel and Palestine, antisemitism, Zionism and the political boundaries placed around Palestinian advocacy, organisations representing parts of British Jewish institutional life can be important stakeholders in determining how much political resistance particular proposals encounter.
+
+That position gives them agency.
+
+**It also gives other actors reasons to influence their information environment.**
+
+Those two things can be true simultaneously.
+
+And that is why I become concerned when I see interventions concerning Niqab and Macklemore which, from my reading, do not appear sufficiently informed by Northern Irish politics, Irish history, the lived political geography of the Troubles, or the perspectives of the communities most directly affected.
+
+I become particularly concerned when histories of antifascist solidarity such as Cable Street disappear from the frame.
+
+That does not mean the Jewish Leadership Council is secretly controlled by somebody else.
+
+It means that **important stakeholders require good information environments**.
+
+If an organisation's interpretation of an issue can materially affect British political resistance to Palestinian rights, then numerous actors — domestic and foreign, governmental and nongovernmental, friendly and hostile — have an incentive to shape what that organisation sees, what it understands to be threatening, which expertise reaches it, which relationships surround it, and which interpretations appear credible.
+
+That is a security problem as much as a communications problem.
+
+### 🛡️ The state cannot pretend its own interests are absent
+
+And this is where I am not reassured by the British state.
+
+A mature security policy should be capable of recognising that a prominent British Jewish institution may simultaneously be:
+
+- an autonomous political actor with views of its own;
+- an important stakeholder in British public policy;
+- a representative body for some British Jewish interests but not every British Jewish voice;
+- a potential target for foreign influence, hostile-state activity, manipulation or selective information;
+- a potential target for domestic harassment and digitally coordinated intimidation;
+- and an organisation operating inside a British state environment which itself has economic, diplomatic, military and geopolitical interests in Israel, Palestine, the United States and the wider Middle East.
+
+Those categories do not cancel one another out.
+
+They are precisely why the threat model has to be sophisticated.
+
+What worries me is the possibility that British security policy does **not adequately account for those interacting pressures** — particularly where protecting a Jewish organisation's information environment might require the state to distinguish genuine Jewish communal security from policies which happen also to serve the state's own geopolitical preferences.
+
+The state cannot protect people properly if it quietly treats:
+
+**what is good for British geopolitical interests**
+
+as interchangeable with:
+
+**what is good for British Jewish people.**
+
+Those are not necessarily the same thing.
+
+And if we are genuinely concerned about Jewish safety, then protecting Jewish institutions must include protecting their capacity to make autonomous political judgements in a complicated information environment — including judgements which may ultimately conflict with the preferences of the British government, the Israeli government, the United States, political parties, media organisations, donors, campaign groups or anybody else attempting to influence the debate.
+
+That is not taking agency away from British Jewish organisations.
+
+**It is taking their agency seriously enough to ask who has an interest in shaping the informational conditions under which they exercise it.**
+
+### 🏦 Who actually has the larger information machinery?
+
+There is another distinction I want to make extremely explicit, because otherwise this analysis can be dragged towards an antisemitic explanation which is almost the opposite of what I mean.
+
+**My concern is not that Jews run the banks.**
+
+My concern is that **the banks are considerably more powerful than most Jewish people**.
+
+The same is true of large corporations, governments, political parties, major law firms, public-relations companies, security institutions, wealthy donors, technology platforms and other organisations possessing professional crisis-management infrastructure.
+
+Those organisations may have enormous capacities for:
+
+- reputation management;
+- crisis communications;
+- media relations;
+- political lobbying;
+- legal risk management;
+- stakeholder engagement;
+- search and social-media monitoring;
+- narrative testing;
+- opposition research;
+- cybersecurity;
+- government relations;
+- and deciding which problems require immediate institutional attention.
+
+None of that requires a secret conspiracy.
+
+It does not even necessarily require malign intent.
+
+A bank facing reputational exposure does what banks do.
+
+A government facing diplomatic exposure does what governments do.
+
+A public-relations team facing a crisis attempts to stabilise the information environment around its client.
+
+A political organisation attempts to keep attention on the interpretation of events most favourable to its interests.
+
+Each actor can behave completely intelligibly from inside its own institutional incentives while the aggregate effect is an information environment which becomes extraordinarily difficult for everybody else to see through.
+
+And **confusion itself can have distributional effects**.
+
+If several powerful institutions would face scrutiny were public attention concentrated upon questions of money, influence, political access, regulatory failure, foreign-policy decision-making or institutional responsibility, then an information environment dominated by a different controversy may benefit them regardless of whether anybody deliberately engineered that controversy.
+
+That distinction matters:
+
+**benefiting from an information environment is not evidence that you created it.**
+
+But once we identify who benefits, it is reasonable to examine which actors possess the greatest capacity to manage crises, shape narratives, protect reputations and redirect institutional attention.
+
+And those actors are very often considerably more powerful than the Jewish communal organisations whose statements subsequently become visible in the press.
+
+### 🕸️ Jewish leadership also sits inside an information environment
+
+That changes the question I want to ask about Jewish leadership.
+
+Rather than imagining Jewish organisations sitting at the top of an influence structure, I am interested in the information structures **surrounding them**.
+
+What information reaches them?
+
+Who possesses the resources to reach them repeatedly?
+
+Which institutions are treated as authoritative?
+
+Which threats are emphasised?
+
+Which histories are absent?
+
+Which experts are available?
+
+Which interpretations arrive already professionally packaged through government relations, legal advice, political communications, security briefings, media coverage or crisis-management structures?
+
+And which organisations simply do not possess comparable resources with which to place another interpretation into that environment?
+
+This is particularly important where Jewish leadership organisations become important stakeholders in debates concerning Israel, Palestine, antisemitism and Palestinian political rights.
+
+Their agency remains real.
+
+Their opinions remain their own.
+
+But **agency does not require informational isolation**.
+
+Every human institution makes decisions from inside an information environment.
+
+My security concern is therefore almost the reverse of the antisemitic trope.
+
+I am worried about whether institutions representing Jewish people are adequately protected from becoming useful components of information environments being shaped by actors with **far greater economic, governmental, technological and communications power than they possess themselves**.
+
+And that does not require those larger actors to sit around a table and decide to manipulate Jewish people.
+
+Institutional incentives can produce convergence without conspiracy.
+
+Crisis-management systems can narrow attention without anybody issuing an instruction to deceive.
+
+Public-relations systems can amplify one genuine concern until it overwhelms several other genuine concerns.
+
+And frightened people can make completely autonomous decisions from inside an information environment which other institutions have had vastly greater resources to construct.
+
+That is why I want British security policy to treat **information autonomy** as part of communal safety.
+
+Protecting Jewish institutions cannot merely mean protecting buildings and people from physical attack.
+
+It should also mean taking seriously whether organisations occupying politically sensitive positions have access to sufficiently plural, historically informed and independently contestable information environments to exercise their own agency.
+
+Because the question I am asking is not:
+
+**How much power do Jews have?**
+
+It is:
+
+**Who has the greatest capacity to structure the information environment in which everybody else is trying to decide what is true — and who benefits when that environment becomes too confused for scrutiny to land anywhere for very long?**
+
+I am far more frightened by the potential downstream consequences of AI assisted algorithms in economic extraction by the stock market, than I am by individual marginalised communities.  
+
+Let us see inside the “super intelligent” black box.  
+
+--- 
+
 ## 📚 Source Register  
 
 This list is by no means exhaustive – even Breitbart is reporting on this.  
