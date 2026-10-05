@@ -1292,7 +1292,7 @@ The earlier edition also linked Palestinian family memory and contemporary polit
 *Further media:*  
 
 - [📹: Jason, via TikTok: “James
-A very wild response to what is a fairly uncontroversial claim”](https://vm.tiktok.com/ZN8kjR6EA/) – *The Rt Hon Zara Sultana MP has been frontline in protests during periods of increased racism violence. Amichai Chikli has promoted Stephen Yaxley-Lenon as being “safe” for Hewish people. They are not the same. If you honestly want the term “Zionism” to refer to something not racist, you need to take it back from the racists who are using it to describe their own violence.*  
+A very wild response to what is a fairly uncontroversial claim”](https://vm.tiktok.com/ZN8kjR6EA/) – *The Rt Hon Zara Sultana MP has been frontline in protests during periods of increased racism violence. Amichai Chikli has promoted Stephen Yaxley-Lenon as being “safe” for Hewish people. They are not the same. If you honestly want the term “Zionism” to refer to something not racist, you need to take it back from the racists who are using it to describe their own violence. Zara Sultana is British, “Pakistan” is not an insult it is a sovereign state, and platforming Nazi types is bad for Jewish safety in Britain. Thank you for coming to my TED talk.*  
 
 ---
 
