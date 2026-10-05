@@ -727,7 +727,9 @@ Because the purpose of information defence should not be to protect the state fr
 
 ---
 
-## 📚 Source Register
+## 📚 Source Register  
+
+This list is by no means exhaustive – even Breitbart is reporting on this.  
 
 | Source | What it establishes / contributes | Analytical use in this node |
 | --- | --- | --- |
