@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-05 19:29:10 UTC_
+_Generated on 2026-10-05 20:54:07 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -959,6 +959,7 @@ _Generated on 2026-10-05 19:29:10 UTC_
         - [`📋_exhibit_g_hot_or_not_to_web_4.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_g_hot_or_not_to_web_4.md)
         - [`📋_exhibit_h_radicalised_algorithms.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_h_radicalised_algorithms.md)
         - [`📋_exhibit_j_where_the_fuck_is_that_email.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_j_where_the_fuck_is_that_email.md)
+        - [`📋_exhibit_k_crowd_funding_but_ask_us_first.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_k_crowd_funding_but_ask_us_first.md)
         - [`📋_exhibit_x_little_girls_online.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_x_little_girls_online.md)
         - [`📚_we_have_a_sanctions_framework_cousin.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📚_we_have_a_sanctions_framework_cousin.md)
         - [`📲_opium_now_has_stats.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📲_opium_now_has_stats.md)
@@ -4338,6 +4339,7 @@ _Generated on 2026-10-05 19:29:10 UTC_
       - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/notes.txt)
     - [**🪺_How_To_Handle_Carefully/**](🌓_3_In_The_Moment/📲_Press_Matters/🪺_How_To_Handle_Carefully/)
       - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🪺_How_To_Handle_Carefully/notes.txt)
+      - [`☘️_north_of_or_northern_ireland.md`](🌓_3_In_The_Moment/📲_Press_Matters/🪺_How_To_Handle_Carefully/☘️_north_of_or_northern_ireland.md)
       - [`🕯️_deaths_in_politically_sensitive_contexts.md`](🌓_3_In_The_Moment/📲_Press_Matters/🪺_How_To_Handle_Carefully/🕯️_deaths_in_politically_sensitive_contexts.md)
     - [**🫁_Grieving_Truths/**](🌓_3_In_The_Moment/📲_Press_Matters/🫁_Grieving_Truths/)
       - [**🌹🧸_Your_Baby_Does_Not_Just_Disappear/**](🌓_3_In_The_Moment/📲_Press_Matters/🫁_Grieving_Truths/🌹🧸_Your_Baby_Does_Not_Just_Disappear/)
