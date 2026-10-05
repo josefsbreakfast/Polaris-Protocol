@@ -151,7 +151,9 @@ The Charles I comparison should not be flattened into:
 
 > Andrew is doing a Charles I.
 
-He is not.
+He is not.  
+
+(He is not King, for a start. One might imagine the “spare” business of the media towards Harry, may be some projection.)  
 
 The constitutional settlement is radically different, the proceedings are radically different, and Andrew is not asserting sovereign immunity against a court claiming jurisdiction over him.
 
