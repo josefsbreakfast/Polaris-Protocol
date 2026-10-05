@@ -850,7 +850,11 @@ The rest of us have unfortunately been given another live demonstration of Andre
 
 ## 🌌 Constellations
 
-🕸️ 🧨 🧿 🛰️ ⚖️ — intermediary relationships; constitutional restraint; information routing; historical records producing contemporary second-order effects.
+🕸️ 🧨 🧿 🛰️ ⚖️ — intermediary relationships; constitutional restraint; information routing; historical records producing contemporary second-order effects.  
+
+*Further media:*  
+
+- [📰: BBC: “The Epstein Files: The links to Northern Ireland”](https://www.bbc.co.uk/news/articles/c4gl1gv61y0o)  
 
 ---
 
