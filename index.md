@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-05 01:49:42 UTC_
+_Generated on 2026-10-05 03:00:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2054,7 +2054,6 @@ _Generated on 2026-10-05 01:49:42 UTC_
         - [`🇪🇺_two_speed_europe.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇪🇺_two_speed_europe.md)
         - [`🇬🇧_britain_as_global_butler.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇬🇧_britain_as_global_butler.md)
         - [`🇬🇧_britain_is_queenless_now.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇬🇧_britain_is_queenless_now.md)
-        - [`🇮🇱_zionism_is_racism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇮🇱_zionism_is_racism.md)
         - [`🇷🇺_russias_incursions_timeline.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇷🇺_russias_incursions_timeline.md)
         - [`🇷🇺_the_end_of_russias_camp_era.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇷🇺_the_end_of_russias_camp_era.md)
         - [`🇷🇺🇬🇧_russia_west_uk_east.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🕸️_World_Webs/🇷🇺🇬🇧_russia_west_uk_east.md)
@@ -3655,6 +3654,7 @@ _Generated on 2026-10-05 01:49:42 UTC_
         - [`⏱️_timeline_of_essential_infrastructure_attacks.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/⏱️_timeline_of_essential_infrastructure_attacks.md)
         - [`⛴️_do_ports_count.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/⛴️_do_ports_count.md)
         - [`🇬🇧_britain_is_advertising_an_exploitable_seam.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🇬🇧_britain_is_advertising_an_exploitable_seam.md)
+        - [`🇮🇱_zionism_is_racism.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🇮🇱_zionism_is_racism.md)
         - [`🇺🇸_potential_impacts_on_americans.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🇺🇸_potential_impacts_on_americans.md)
         - [`🌊_riding_every_wave.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🌊_riding_every_wave.md)
         - [`🍊_why_is_the_orange_being_weird.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🍊_why_is_the_orange_being_weird.md)
