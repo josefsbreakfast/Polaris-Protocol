@@ -1113,7 +1113,7 @@ It records a concrete case in which domestic policy propagated through cross-bor
 >
 > - [🇺🇸 Dear America](./🇺🇸_dear_america.md) — *interoperability, repairability, vendor dependency and the warning not to make sovereignty cheaper than remaining a customer*
 > - [🦊 Cousin, We Have Ideas](./🦊_cousin_we_have_ideas.md) — *international interfaces, reciprocal assurance and continued operability despite disagreement*
-> - [🦅🌟 GOLDEN AMERICAN ✨ SUPER INTELLIGENCE ✨ PREMIER SECURITY CONSTITUTION 🌟🦅](./🦅🌟_golden_american__super_intelligence__premier_security_constitution_.md) — *loop closure, cross-border infrastructure risk and assurance applied symmetrically to public and private power*
+> - [🦅🌟 GOLDEN AMERICAN ✨ SUPER INTELLIGENCE ✨ PREMIER SECURITY CONSTITUTION 🌟🦅](./🦅🌟_golden_american_✨_super_intelligence_✨_premier_security_constitution_🌟🦅.md) — *loop closure, cross-border infrastructure risk and assurance applied symmetrically to public and private power*
 >
 > 🏮 Return To:
 >
