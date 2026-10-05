@@ -1,6 +1,6 @@
 # 🪭 Austen Cybernetics 103 --- Lady Catherine's Interview Technique
 
-**First created:** 2026-09-25 \| **Last updated:** 2026-09-25\
+**First created:** 2026-09-25 | **Last updated:** 2026-10-05  
 *Information does not contain its interpretation: Lady Catherine de
 Bourgh accidentally demonstrates observer-dependence, disclosure
 control, feedback, social signalling, model error, and the physical
@@ -2163,21 +2163,16 @@ supplies the demonstration.
 
 > 📡 Cross-references:
 >
-> -   [🧬 Start Here](./README.md) --- *entry route into the Cybernetics
->     teaching cluster*
-> -   [♻️ Cybernetics](../README.md) --- *parent framework for feedback,
->     observers, systems and model revision*
-> -   [🪿 Embodied Information Ecology](../../README.md) --- *wider
->     framework for information as situated, processed and experienced*
+> - [👑 Princess Andrew](../../../../🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/👑_princess_andrew.md) – *”As the saying goes, there is no honey without bees.”*  
 >
 > 🏮 Return To:
 >
-> -   [🧬 Start Here](./README.md) --- *1up*
-> -   [♻️ Cybernetics](../README.md) --- *2up*
-> -   [🪿 Embodied Information Ecology](../../README.md) --- *3up*
-> -   [🌑 Origin Points](../../../README.md) --- *4up*
-> -   [🌌 Polaris Protocol --- Root](../../../../README.md) --- *root*
+> - [🧬 Start Here](./README.md) – *1up*
+> - [♻️ Cybernetics](../README.md) – *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) – *3up*
+> - [🌑 Origin Points](../../../README.md) – *4up*
+> - [🌌 Polaris Protocol – Root](../../../../README.md) – *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-25*
+_Last updated: 2026-10-05_
