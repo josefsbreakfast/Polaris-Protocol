@@ -1,6 +1,5 @@
-# ✈️ Bombers Back To USA
-
-**First created:** 2026-10-05 | **Last updated:** 2026-10-05
+# ✈️ Bombers Back To USA  
+**First created:** 2026-10-05 | **Last updated:** 2026-10-05  
 *The bombers moved. Attribution remains open. The interesting question is what the defended system did before the public could know why.*
 
 ---
@@ -701,7 +700,11 @@ The mechanism is worth studying whichever hypothesis survives.
 
 ## 🌌 Constellations
 
-✈️ 🕸️ 🧨 🛰️ 🌊 — potential proxy architecture; competing upstream relationships; military infrastructure; uncertain attribution; defensive system behaviour.
+✈️ 🕸️ 🧨 🛰️ 🌊 — potential proxy architecture; competing upstream relationships; military infrastructure; uncertain attribution; defensive system behaviour.  
+
+*Follow the evidence:*  
+
+- [📰: BBC: “US removes all bombers from RAF Fairford base”](https://www.bbc.co.uk/news/articles/cmwyve191dlko)  
 
 ---
 
@@ -718,7 +721,7 @@ potential proxies, raf fairford, b-1 lancer, foreign state activity, london netw
 > 📡 Cross-references:
 >
 > - [🇮🇷 Data Wars — IRGC Edition](../../../🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/README.md) — *live evidential chronology for Iran-related infrastructure attacks, threats, attribution and observable system responses*
-> - [🧨 Potential Proxies](./README.md) — *parent analytical cluster for intermediary actors, competing upstream relationships and unresolved proxy architectures*
+> - [🍹 Sun Tzu Calling NATO](../../../🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🍹_sun_tzu_calling_nato.md) – *tactical retreat is not an unwise consideration*  
 >
 > 🏮 Return To:
 >
