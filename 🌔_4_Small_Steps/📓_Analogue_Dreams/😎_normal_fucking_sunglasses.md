@@ -1,5 +1,5 @@
 # 😎 Normal Fucking Sunglasses
-**First created:** 2026-08-18 | **Last updated:** 2026-09-26  
+**First created:** 2026-08-18 | **Last updated:** 2026-10-05  
 *Sometimes the privacy feature is that the object does not collect the data in the first place.*
 
 ---
@@ -523,7 +523,8 @@ Sometimes glasses can just be glasses.
 - [❤️‍🩹 Rehabilitated Tech](../../🌕_5_Long_Strategies/❤️‍🩹_Rehabilitated_Tech/) — *future-facing technology designed around human needs and limits*
 - [🕶️ Normal F***ing Sunglasses — Knockaround](https://knockaround.com/products/duckduckgo-paso-robles) — *the actual joke, embodied*
 - [📰 The Onion promotion](http://youtube.com/post/UgkxIOH5uMOua_A7bpbyRvp2YEZSQejNK7xt?si=xZ59dOEu57otsWeK) — *satire completing the loop*
-- [📹: Meditations for the anxious, via TikTok: “meta raybans: panopticon, capitalist realism and why everyone is a perv*rt now”](https://vm.tiktok.com/ZN8rFQ96y/)  
+- [📹: Meditations for the anxious, via TikTok: “meta raybans: panopticon, capitalist realism and why everyone is a perv*rt now”](https://vm.tiktok.com/ZN8rFQ96y/)
+- Somehow [Meta has a new ad](https://vm.tiktok.com/ZN8kYQ2hj/), but appears to invite women to imagine how these glasses which increase the ease of their own objectification? Which women probably don’t code as overwhelmingly convincing, and which is just a little bit confusing. You can get the cute green transparency resin from like, a handcraft seller, for the same price that you were buying these.
 
 ---
 
@@ -559,4 +560,4 @@ analogue technology, privacy, surveillance, data minimisation, ambient computing
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-26_
+_Last updated: 2026-10-05_
