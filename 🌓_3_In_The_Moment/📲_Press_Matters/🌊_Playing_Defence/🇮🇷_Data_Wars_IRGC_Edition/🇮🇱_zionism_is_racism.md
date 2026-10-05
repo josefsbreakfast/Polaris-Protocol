@@ -6,7 +6,7 @@
 
 ## 🛰️ Orientation
 
-This node sits in `🇮🇷_Data_Wars_IRGC_Edition` for a reason that is easy to misunderstand.
+This node now sits in `🇮🇷_Data_Wars_IRGC_Edition` for a reason that is easy to misunderstand.
 
 It does **not** argue that Iran caused, directed, funded or manipulated the Green Party’s October 2026 conference motion on Zionism. It does not establish that Israel, the United States, Russia, China, Iran, or anybody else covertly engineered the British media environment around it either.
 
