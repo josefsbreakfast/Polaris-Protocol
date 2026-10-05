@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-05 04:08:04 UTC_
+_Generated on 2026-10-05 04:14:20 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5394,6 +5394,7 @@ _Generated on 2026-10-05 04:08:04 UTC_
       - [`🇺🇦_defence_against_the_romanovs.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/🇺🇦_defence_against_the_romanovs.md)
       - [`🍿_stalin_would_be_loving_this.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/🍿_stalin_would_be_loving_this.md)
       - [`🏛️_one_lord_two_lords.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/🏛️_one_lord_two_lords.md)
+      - [`👑_princess_andrew.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/👑_princess_andrew.md)
       - [`💂🏽💂🏻_the_corporation_the_firm_the_agencies.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/💂🏽💂🏻_the_corporation_the_firm_the_agencies.md)
       - [`🤨_old_prime_ministers_go_home.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/🤨_old_prime_ministers_go_home.md)
       - [`🤨_old_prime_ministers_go_home_final_drafting_plan.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/🤨_old_prime_ministers_go_home_final_drafting_plan.md)
