@@ -1233,7 +1233,9 @@ Remember *The Big Short*?
 
 ## 🌿 As Plenary: FAQs On The Political Motion / Analysis In Public Sphere  
 
-As there is considerable debate and there are a number of assumptions which don’t reflect the mechanism of what this motion does, or have added or subtracted from the logic of the motion to reach the conclusion, I’m going to see the common and frequent queries as they come up, here.  
+As there is considerable debate and there are a number of assumptions which don’t reflect the mechanism of what this motion does, or have added or subtracted from the logic of the motion to reach the conclusion, I’m going to see the common and frequent queries as they come up, here. I might be wrong: the best people to talk to would be the authors of the motion and representatives of the group who brought it forward.  
+
+(You could speak to Palestinians and British Palestinians; the sky will not fall down.)  
 
 I have already seen coded deaths threats towards the Jewish man that the State of Israel are projecting their anger towards, on the comments of posts where British journalists are being a little less informed as to the body of the motion.  
 
@@ -1243,9 +1245,33 @@ Most outlets are barely letting British Palestinians and Palestinian voices into
 
 Change that.  
 
-### (1)  
+### “My Zionism is not racist. It is other people who are doing the racism violence.”  
 
-### (2)  
+Parking the rest to one side, the definition is in the motion. I’m not hearing specific arguments, I’m hearing that Palestinians and their allies are wrong about Zionism, and that we all have to accept this racism violence because it is easier to silence Palestinians, than tell the Likud government to get fucked. That is, to me, evidence in and of itself that we have ignored the recognised risk of genocide established by the ICJ in Jan 2024, and decided that we can’t negotiate with an ally, and so silencing Palestinians because they are a useful scapegoat is acceptable.  
+
+Do not vibe with this, personally.  
+
+### “A motion about synagogues was not included. This is wrong.”  
+
+Process and procedure would not have allowed disciplinary action, as far as I’m aware, and arguments were made around sticking to process. A badly formed motion in any party will stall once it passes.  
+
+I found this one a bit left-field, if I’m honest. I would ask that we really interrogate what we mean, because I have heard some real bending of language around this from non-Jewish journalists (“Zion” is not conceptually the same thing, but I see what you’re recognising… but the association is Christian Zionist and you may be remembering church and not a synagogue, you know?).  
+
+There is a rationale as to why synagogues within the UK are strongly, strongly incentivised to at least pay some lip service to be Zionist.  
+
+unfortunately this is the point where I have to say that some people are obviously deeply unaware of the contents of what the DOJ has released in an extremely famous and well discussed case, which concerns survivorship, rape, be exploitation of children and human trafficking, and for which this government has not yet answered.  
+
+I personally do not really want to go into the litigation of talking about which Jewish organisations, and by extension which leadership may have been in contact or involved with, that particular cunt this morning, but by God I will do it if that’s what it takes to get you to give a single fuck about Palestinian lives.  
+
+Think about if you want me to do it, because I was really rather disappointed.  
+
+I appreciate that every large religion is involved in someway shape or form with this behaviour in a way that is usually disappointed me in my life, I was just hoping to not have to read it. Ignorance is bliss, indeed.  
+
+If you want to talk about how money and security is structured in this country for synagogues, I would ask that we all think about why it is extremely dangerous for even a minyan or a seder, to announce that it is antizionist. There are examples that we can go back on and we can look at what happened to different events and different gatherings which were labelled in this way, and there is a pattern of intimidation, there is a pattern of suppression, and yet at the same time, unfortunately, there is what is in the DOJ files, which are available internationally for public viewing.  
+
+if we are all talking about the idea that your synagogue is going to get a little sticker from the green party, for being naughty, again I would refer you to the fact that this doesn’t touch disciplinary process, and I would ask us all to interrogate whether our synagogues and our spaces of prayer, regardless of which religion we are affiliated with, by the way, we should be asking if our places of worship are truly antiracist and are creating a place of safety and a space where people can be fully themselves.  
+
+Including survivors, incidentally.  
 
 ### (1)  
 
