@@ -1297,7 +1297,17 @@ We are often very bad in this country of recognising how our fear of speaking to
 
 I would really encourage this piece of dialogue to understand and to be inspired by, the creativity of imagination of people even when they are surviving some of the worst years of their lives.  
 
-### (2)  
+### “This is the 1930s.”  
+
+(You are only feeling like this now? Mid 10s? Nope?)  
+
+This is again another place where I think we need to be very conscious about processing what we are scared of, what is making us feel fear, what we can say is definitely the case in the exacerbating factors, and be able to untangle the strings where we are less clear about attribution and providence, and bills towards more conscious and deliberate ways to consume media, to engage in a wider information environment in our lives, and to build futures of hope that transcendent a place of fear.  
+
+I imagine that there’s actually quite a lot of fears that I’ve been compressed into one thing that is acceptable to call out as being uncomfortable of fear provoking, when actually I would be very surprised if the same people were hugely unbothered by Trump’s America.  
+
+I imagine there is significant fear in calling out the latter, and I am unwilling to scapegoat to Palestinians, when I could simply write about how that big fat loose baggy orange, which has been in the fridge for far too long, really just needs to go in the bin.  
+
+if you are scared to say it yourself, find a way for me to be exposed to the information and I will cover it for you. I clearly don’t have any fucks left to give when it comes to laughing at that flabby old man, shouting at the fucking sun, because he still isn’t happy.  
 
 ### (1)  
 
