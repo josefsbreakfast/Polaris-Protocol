@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-06 00:38:38 UTC_
+_Generated on 2026-10-06 01:39:42 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5394,6 +5394,7 @@ _Generated on 2026-10-06 00:38:38 UTC_
     - [**🧨_Potential_Proxies/**](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/notes.txt)
       - [`☘️_exploiting_irishness_again.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/☘️_exploiting_irishness_again.md)
+      - [`⚡️_aristocratic_cracks_on_show.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/⚡️_aristocratic_cracks_on_show.md)
       - [`✈️_bombers_back_to_usa.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/✈️_bombers_back_to_usa.md)
       - [`🇺🇦_defence_against_the_romanovs.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/🇺🇦_defence_against_the_romanovs.md)
       - [`🍿_stalin_would_be_loving_this.md`](🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/🍿_stalin_would_be_loving_this.md)
