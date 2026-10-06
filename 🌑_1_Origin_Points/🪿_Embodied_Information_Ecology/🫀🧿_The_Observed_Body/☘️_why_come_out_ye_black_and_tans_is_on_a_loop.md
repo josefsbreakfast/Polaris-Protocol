@@ -1,7 +1,6 @@
-# ☘️ Why *Come Out Ye Black and Tans* Is On A Loop
-
+# ☘️ Why *Come Out Ye Black and Tans* Is On A Loop  
 **First created:** 2026-10-06 | **Last updated:** 2026-10-06  
-*Sometimes the observed body needs music that looks back.*
+*Tl;dr: Niamh Cinn Óir says “nope”.*
 
 ---
 
@@ -216,7 +215,7 @@ to:
 
 Then comes the demand:
 
-> "Come out ye black and tans  
+> "Come out ye Black and Tans  
 > Come out and fight me like a man"
 
 For me, the psychologically important word is:
@@ -261,13 +260,13 @@ It is closer to **successful expulsion**.
 
 ---
 
-## 🐎 5. GET TYE FUCK OFF MY FIELD
+## 🐎 5. GET THE FUCK OFF MY FIELD
 
 This is where the survivor translation becomes considerably less dignified.
 
 The song enters my nervous system and comes back out approximately as:
 
-> **GET TYE FUCK OFF MY FIELD.**
+> **GET THE FUCK OFF MY FIELD.**
 >
 > **GET AWAY FROM MY HORSE.**
 >
