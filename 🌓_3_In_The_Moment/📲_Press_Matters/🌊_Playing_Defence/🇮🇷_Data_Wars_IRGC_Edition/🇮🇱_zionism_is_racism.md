@@ -1273,6 +1273,32 @@ if we are all talking about the idea that your synagogue is going to get a littl
 
 Including survivors, incidentally.  
 
+### “One Palestinian state is a Jewish genocide!”  
+
+No.  
+
+No. It really isn’t.  
+
+Firstly, the people who are most heavily armed in that area are Israelis, people with access to most resources and power at the moment are Israeli, and even if the legal entity dissolved right now, the biggest practical concern would be about the risk of Israeli settlers lynching Palestinians.  
+
+I understand, however, why this is so live and a motive, partially because of the communal history, and the Holocaust memory, but also because some of the discussion around what was said to justify collective punishment after October 7 was never really corrected; her master did not say in 2024 that they wanted to kill all Jews, they had actually changed their political positioning on how they felt the population of a future potential Palestine would be. you don’t need to have an opinion on a political organisation, to at least be clear about what their aims are, what their practices are, and what their actual capability is. (I personally am still trying to work out how the fuck they would’ve got concrete in, to build tunnels, because I appreciate some of you don’t come from mining communities, but I have some questions on the underground tunnel system story that was in the press.)  
+
+to circle back, I understand why this is very emotional, I can understand the skeptic ism based on the media environment, however, you are talking to a party which is often labelled as incredibly hippie, respectfully, I think they might be talking about a social justice lead political organisation which integrates rather than divide and partitions, populations and land.  
+
+In all seriousness, you should talk to the Palestinians and British Palestinians within the Green Party  who authored this motion, primarily because they can imagine and articulate that imagining for you, in a way that it is difficult to be in their shoes as a white person and fully give life to that concept in the same way that they can so eloquently describe what they hope will happen in a free Palestine.  
+
+I know that I can’t do justice to the same concept, and I really encourage you to speak to them about what they would like to see happen in the future.  
+
+Giving a voice and a platform to people who are deeply exposed, at risk of genocide by definition of their identity, in a world where transnational repression exists and is more prevalent than ever due to the digital nature of our world, is a radical act of humanity.  
+
+You do not need to be scared of them, just because they or their family or Palestinian.  
+
+We are often very bad in this country of recognising how our fear of speaking to people is, in itself, evidence that we have prejudices. I have written many times about my own prejudice, mostly not because I love humiliating myself online, but so we normalise being wrong, we can normalise admitting that we’re wrong or have been wrong, and we can start to follow examples from each other on how to get better.  
+
+I would really encourage this piece of dialogue to understand and to be inspired by, the creativity of imagination of people even when they are surviving some of the worst years of their lives.  
+
+### (2)  
+
 ### (1)  
 
 ### (2)  
