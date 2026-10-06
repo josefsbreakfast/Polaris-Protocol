@@ -1037,7 +1037,11 @@ Thank you.
 
 ## 🌌 Constellations
 
-🫀 🧿 🛰️ 🕸️ ☘️ --- embodied observation; information boundaries; algorithmic adjacency; survivor sovereignty; music as counter-observation.
+🫀 🧿 🛰️ 🕸️ ☘️ --- embodied observation; information boundaries; algorithmic adjacency; survivor sovereignty; music as counter-observation.  
+
+*Further media:*  
+
+- [📹: Paranormal Resident, via TikTok: “History isn't just about the victories we celebrate — it's about confronting the dark, brutal truths of our past and honoring the unbreakable spirit of those who came before us.”](https://vm.tiktok.com/ZN8kMcW36/)  
 
 ---
 
