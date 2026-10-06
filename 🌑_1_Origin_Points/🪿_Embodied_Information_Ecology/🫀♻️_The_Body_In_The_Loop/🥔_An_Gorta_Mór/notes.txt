@@ -36,6 +36,8 @@ some of you are needing to understand this as a colonial act, and some are not u
             └── ⚖️_translation_is_not_equivalence.md
 🩸_why_call_it_genocide.md
 
+🇬🇧_implications_for_unionism.md
+
 - - - 
 
 # 🥔 An Gorta Mór — Cluster Plan
@@ -456,3 +458,33 @@ Core proposition:
 **Similar mechanisms do not make two institutions identical. Different institutions can nevertheless expose contradictions in the same moral or legal principle.**
 
 **Question:** *If Britain accepts a principle in one historical context, what happens when we translate that principle rather than merely repeating the label?*
+
+## 🇬🇧_implications_for_unionism.md
+
+**Job:** Examine An Gorta Mór from inside the political proposition of the Union.
+
+- Ireland's constitutional position after the Acts of Union.
+- What representation at Westminster actually meant in practice.
+- Which responsibilities accompanied political incorporation.
+- Central versus Irish/local responsibility for relief.
+- The transfer of increasing financial responsibility onto Irish property/local Poor Law structures.
+- Whether Ireland was treated as an integral part of the UK, a distinct administrative problem, a colonial possession, or different combinations of these depending upon the issue.
+- Contemporary Unionist arguments and expectations — not merely modern ones.
+- Irish responses to the apparent promises/failures of Union.
+- The catastrophe's implications for later Home Rule and Union debates.
+- Northern/Ulster complexity: avoid projecting twentieth-century political identities backwards.
+- Modern British Unionism and historical memory.
+- Distinguish:
+    Union as constitutional fact
+    ≠
+    equal citizenship in practice
+    ≠
+    colonial relationships disappearing.
+
+**Central question:**
+
+> If Ireland was part of the United Kingdom, what did the Union oblige the United Kingdom to do when millions of its people lost their principal means of subsistence?
+
+**Secondary question:**
+
+> What does "Union" mean if political incorporation does not necessarily produce equivalent obligations, protection or material belonging?
