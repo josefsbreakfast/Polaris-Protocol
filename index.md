@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-06 20:48:24 UTC_
+_Generated on 2026-10-06 21:08:45 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2503,8 +2503,25 @@ _Generated on 2026-10-06 20:48:24 UTC_
         - [`🪜_temporal_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/🪜_temporal_containment.md)
       - [**🥔_An_Gorta_Mór/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/notes.txt)
+        - [`☘️_land_and_independence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/☘️_land_and_independence.md)
+        - [`☘️_remembering_an_gorta_mór.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/☘️_remembering_an_gorta_mór.md)
+        - [`🇬🇧_implications_for_unionism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🇬🇧_implications_for_unionism.md)
+        - [`🇬🇧_what_britain_knew.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🇬🇧_what_britain_knew.md)
+        - [`🌫️_what_do_we_call_it.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🌫️_what_do_we_call_it.md)
         - [`🌱_before_the_blight.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🌱_before_the_blight.md)
+        - [`🌾_there_was_always_food_in_ireland.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🌾_there_was_always_food_in_ireland.md)
+        - [`🌿_the_demographic_scar.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🌿_the_demographic_scar.md)
+        - [`🍉_what_oct_09_meant.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🍉_what_oct_09_meant.md)
+        - [`🏛️_what_britain_did.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🏛️_what_britain_did.md)
         - [`📐_english_land_controls.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/📐_english_land_controls.md)
+        - [`🔥_eviction_and_clearance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🔥_eviction_and_clearance.md)
+        - [`🕯️_the_lawful_catastrophe.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🕯️_the_lawful_catastrophe.md)
+        - [`🗺️_translation_is_not_equivalence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🗺️_translation_is_not_equivalence.md)
+        - [`🚢_where_everybody_went.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🚢_where_everybody_went.md)
+        - [`🥔_phytophthora_infestans.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🥔_phytophthora_infestans.md)
+        - [`🩸_why_call_it_genocide.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🩸_why_call_it_genocide.md)
+        - [`🪦_how_and_why_people_died.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🪦_how_and_why_people_died.md)
+        - [`🫀_bodies_in_bronze.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🫀_bodies_in_bronze.md)
       - [**🧬_Algorithmic_Endocrinology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🧬_Algorithmic_Endocrinology/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🧬_Algorithmic_Endocrinology/README.md)
         - [`🌿_algorithmic_ecology.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🧬_Algorithmic_Endocrinology/🌿_algorithmic_ecology.md)
