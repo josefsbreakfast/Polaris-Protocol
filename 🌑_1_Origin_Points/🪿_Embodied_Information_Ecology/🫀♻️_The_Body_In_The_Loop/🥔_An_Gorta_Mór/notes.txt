@@ -35,3 +35,424 @@ some of you are needing to understand this as a colonial act, and some are not u
             ├── 🍉_what_oct_09_meant.md
             └── ⚖️_translation_is_not_equivalence.md
 🩸_why_call_it_genocide.md
+
+- - - 
+
+# 🥔 An Gorta Mór — Cluster Plan
+
+## README.md
+**Job:** Orient the reader to the whole cluster.
+
+- Why this cluster exists inside `🫀♻️_The_Body_In_The_Loop`.
+- Establish the governing distinction:
+  **the blight explains the failure of the potato crop; it does not by itself explain the human catastrophe.**
+- Very short chronology.
+- Explain that the cluster separates:
+  - biological disturbance;
+  - pre-existing political economy;
+  - British knowledge;
+  - British policy;
+  - embodied consequences;
+  - historical interpretation and memory.
+- Acknowledge that this is personally difficult history for the author and will contain corrections and imperfections.
+- Map/routes to every child node.
+- Do NOT try to settle genocide, Gaza, capitalism, colonial responsibility or every historical dispute here.
+
+---
+
+## 🌱_before_the_blight.md
+**Job:** Reconstruct the Ireland into which the organism arrived.
+
+- Ireland before 1845 rather than beginning Irish history with the Famine.
+- Anglo-Norman conquest and the Pale.
+- Tudor reconquest.
+- Munster and Ulster plantations as distinct processes.
+- Cromwellian conquest/confiscation and later settlements.
+- Protestant Ascendancy and Penal-era consequences.
+- Acts of Union and Ireland's constitutional position inside the UK by 1845.
+- Population growth, poverty and regional/class differences.
+- Introduce nineteenth-century rural society.
+- Make clear that none of this developed inevitably towards famine.
+
+**Question:** *What was already there before the potatoes began to die?*
+
+---
+
+## 📐_english_land_controls.md
+**Job:** Explain how conquest became an everyday system of property and economic power.
+
+- Gaelic and English concepts of landholding without romanticising either.
+- Confiscation, plantation, surveys and recognised title.
+- Estate → lease → sublease → rent.
+- Landlords, agents, middlemen, tenants, cottiers and labourers.
+- Conacre, subdivision and tiny holdings.
+- Land as both:
+  - somewhere humans live and obtain food;
+  - an abstractable income-producing asset.
+- Commercialisation and marketisation.
+- Modern concepts such as capitalism/colonial capitalism as analytical lenses, while distinguishing them from contemporary vocabulary.
+- Formal legal rights versus practical access to remedies.
+- Who could invoke law, against whom, at what cost?
+
+**Question:** *How did control over land become control over the conditions under which people could survive?*
+
+---
+
+## 🥔_phytophthora_infestans.md
+**Job:** Give the potato and the organism their own history.
+
+- Why potatoes mattered.
+- Nutritional/productive advantages.
+- Why dependence was classed rather than simply "Irish".
+- Holding size and poverty.
+- Varieties, including the Lumper.
+- What *Phytophthora infestans* actually is.
+- Its wider European appearance.
+- 1845 arrival and successive crop failures.
+- What contemporaries did and did not understand about the disease.
+- Avoid making either the potato or Irish dietary practice the culprit.
+
+**Question:** *Why did this organism hitting this crop expose so many people to danger?*
+
+---
+
+## 🌾_there_was_always_food_in_ireland.md
+**Job:** Carefully unpack the most important apparent paradox.
+
+- Ireland continued producing food.
+- Grain, livestock, dairy and other commercial agriculture.
+- Subsistence production versus commodity production.
+- Imports AND exports, year by year where evidence permits.
+- Prices, wages and purchasing power.
+- Ownership and entitlement.
+- Market access.
+- Why "food existed" ≠ "a hungry person could eat it".
+- Also correct exaggerated/misleading claims about exports where necessary.
+- Quantify rather than memeify.
+
+**Question:** *How can human beings starve in a food-producing country?*
+
+---
+
+## 🇬🇧_what_britain_knew.md
+**Job:** Reconstruct the information environment before judging the response.
+
+- Relief Commission.
+- Distress Papers.
+- Dublin Castle.
+- Constabulary reports.
+- Magistrates.
+- local relief committees.
+- Poor Law officials.
+- crop reports.
+- food prices.
+- workhouse admissions.
+- disease and mortality reporting.
+- petitions and correspondence.
+- What reached Westminster/Treasury and when.
+- Identify genuine information gaps and delays rather than assuming omniscience.
+
+Build a timeline:
+
+`date → information available → recipient → evidentiary confidence`
+
+**Question:** *At each stage, what did British governing institutions actually know or have reasonable means of knowing?*
+
+---
+
+## 🏛️_what_britain_did.md
+**Job:** Put policy beside the information in the previous node.
+
+- Peel government.
+- maize purchases.
+- Relief Commission.
+- public works.
+- Russell government.
+- Treasury/Trevelyan.
+- market-intervention arguments.
+- closure/replacement of relief mechanisms.
+- public works expansion.
+- Temporary Relief Act/soup kitchens.
+- Poor Law transfer.
+- local taxation.
+- policy changes as conditions deteriorated.
+- What worked as well as what failed.
+- Contemporary alternatives: avoid judging 1846 solely by 2026 knowledge.
+
+Core comparison:
+
+`WHAT WAS KNOWN → WHAT WAS POSSIBLE → WHAT WAS CHOSEN`
+
+**Question:** *How did government respond to the information it was receiving?*
+
+---
+
+## 🕯️_the_lawful_catastrophe.md
+**Job:** Examine how catastrophic outcomes can emerge through nominally lawful institutions.
+
+- Property.
+- contract.
+- tenancy.
+- rent.
+- relief eligibility.
+- Poor Law.
+- Gregory/quarter-acre clause.
+- formal rights versus effective remedies.
+- legality versus survivability.
+- state enforcement of some claims but not others.
+- market rules themselves as political/legal arrangements.
+- Avoid assuming legality means absence of coercion.
+- Avoid assuming every harmful outcome required somebody individually breaking the law.
+
+Central question:
+
+**"Who has committed the legal wrong that gives the starving person a remedy?"**
+
+And sometimes the answer may be: nobody has committed the particular recognised wrong required to activate one.
+
+---
+
+## 🔥_eviction_and_clearance.md
+**Job:** Follow the catastrophe from failed subsistence into dispossession.
+
+- Rent arrears.
+- Eviction law and practice.
+- Estate clearance.
+- Quarter-acre rule interaction.
+- Poor rates.
+- indebted landlords.
+- mortgage/creditor pressures.
+- Encumbered Estates Act.
+- Regional and landlord variation.
+- People who attempted relief as well as those who cleared tenants.
+- What happened immediately after eviction.
+
+Mechanism:
+
+`crop failure → lost food/income → arrears → eviction → exposure/displacement`
+
+**Question:** *How did losing food become losing land and home?*
+
+---
+
+## 🪦_how_and_why_people_died.md
+**Job:** Put the human body back at the centre.
+
+- Estimated mortality and uncertainty.
+- Regional differences.
+- Direct starvation.
+- Malnutrition.
+- Immune vulnerability.
+- Typhus.
+- relapsing fever.
+- dysentery/diarrhoeal diseases.
+- cholera.
+- exposure.
+- Workhouse and relief-site crowding.
+- Disease produced/amplified by displacement.
+- Children, older people and other differentially vulnerable populations where evidence permits.
+
+**Question:** *What physically happened to people's bodies?*
+
+---
+
+## 🚢_where_everybody_went.md
+**Job:** Treat emigration as part of the catastrophe and survival response.
+
+- Internal displacement.
+- Britain.
+- Canada.
+- United States.
+- Australia.
+- Assisted versus unassisted emigration.
+- Landlord-assisted migration.
+- Ships.
+- disease.
+- quarantine.
+- deaths during/after journeys.
+- family separation.
+- chain migration.
+- beginnings/expansion of Famine diaspora networks.
+
+**Question:** *For those who did not die and could not remain, where could they go?*
+
+---
+
+## 🌿_the_demographic_scar.md
+**Job:** Show that the catastrophe did not end when the blight receded.
+
+- 1841/1851 population change.
+- Regional depopulation.
+- Continuing emigration.
+- marriage and fertility changes.
+- household structure.
+- consolidation of holdings.
+- settlement patterns.
+- Irish-language geography and cultural consequences — carefully separating Famine effects from longer processes.
+- Long population trajectory.
+- Diaspora as demographic redistribution rather than simply "population loss".
+
+**Question:** *What did Ireland look like after millions of individual survival decisions accumulated?*
+
+---
+
+## ☘️_land_and_independence.md
+**Job:** Trace political consequences without writing "Famine → 1916".
+
+- Political traditions that pre-date the Famine.
+- Young Ireland in proper chronology.
+- Tenant-right politics.
+- land reform.
+- Fenianism.
+- diaspora political networks.
+- Michael Davitt.
+- Land League.
+- Land War.
+- Parnell.
+- Home Rule.
+- later revolutionary nationalism.
+- How land, sovereignty and British governmental legitimacy became entangled.
+- Famine memory as one influence among several.
+
+**Question:** *How did the catastrophe alter the political environment from which later struggles over land and sovereignty developed?*
+
+---
+
+## 🌫️_what_do_we_call_it.md
+**Job:** Explain why even naming the event is difficult.
+
+- "Irish Potato Famine".
+- "Great Famine".
+- "Great Hunger".
+- An Gorta Mór.
+- Historical development of the terminology.
+- What each name foregrounds or obscures.
+- Whether "famine" itself adequately describes the mechanism.
+- Colonial famine as an analytical category.
+- Naming as interpretation rather than trivial semantics.
+
+**Question:** *What are we claiming about causation when we choose a name?*
+
+---
+
+## 🩸_why_call_it_genocide.md
+**Job:** Take the genocide argument seriously enough to investigate it rather than either asserting or dismissing it.
+
+- Who has called An Gorta Mór genocide, and since when?
+- What arguments do they make?
+- Colonial/popular/memorial uses of "genocide".
+- Modern Genocide Convention/legal definition.
+- Specific intent and why it presents a difficult evidentiary threshold.
+- Distinguish:
+  - intention;
+  - knowledge;
+  - foreseeability;
+  - reckless continuation;
+  - deliberate non-intervention;
+  - discriminatory ideology;
+  - mass preventable death;
+  - genocide.
+- Trevelyan and providential/racialised language in full documentary context.
+- Arguments made by historians against genocide classification.
+- Arguments made for it.
+- Whether legal, historical, political and vernacular uses of "genocide" are asking identical questions.
+
+**Question:** *Why does the word genocide recur around this history, and what evidence would each meaning of that word require?*
+
+No rigged verdict.
+
+---
+
+## ☘️_remembering_an_gorta_mór.md
+**Job:** Examine the afterlife of the Hunger in collective memory.
+
+- Irish memory.
+- British memory and forgetting.
+- diaspora memory.
+- family/community transmission.
+- education.
+- commemoration.
+- political memory.
+- changes across generations.
+- silences as well as explicit remembrance.
+- How historical scholarship and public memory interact.
+
+**Question:** *What happens when a catastrophe becomes inherited memory?*
+
+---
+
+## 🫀_bodies_in_bronze.md
+**Job:** Slow everything down and examine one memorial.
+
+- Rowan Gillespie's Dublin Famine Memorial.
+- Bronze figures.
+- Custom House Quay.
+- Date/commissioning.
+- historical significance of the site.
+- emigration/departure.
+- nearby administrative history.
+- individual figures and bodily representation.
+- hunger represented through bodies rather than statistics.
+- inscriptions and accompanying interpretation.
+- Your own encounter/reception where wanted.
+
+After hundreds of pages about:
+
+`land → law → markets → administration → numbers`
+
+return to:
+
+**human bodies.**
+
+**Question:** *What does the memorial make physically present that administrative history abstracts away?*
+
+---
+
+## 🍉_what_oct_09_meant.md
+**Job:** A personal authorial node about why this history became newly urgent.
+
+- 7 October 2023 as necessary immediate context.
+- 9 October complete-siege announcement.
+- What hearing restrictions on food, water, fuel and electricity meant to you.
+- Collective punishment as the concept that forced older history back into view.
+- Gaza did not make Ireland and Palestine interchangeable.
+- It changed the questions you brought to Irish history.
+- Civilian dependency.
+- food and survival.
+- attribution of responsibility from armed/political actors to populations.
+- state power over necessities.
+- embodied consequences.
+- Your Jewish/British/Irish-diasporic or other relevant authorial context only as *you* choose to write it.
+- Later legal developments can provide context without retrospectively rewriting what you understood on 9 October.
+
+**Question:** *What did 9 October make me understand — or realise I needed to understand — about this history?*
+
+This node gets to be personal.
+
+---
+
+## ⚖️_translation_is_not_equivalence.md
+**Job:** Make the eventual cross-system comparison carefully.
+
+- Explicitly reject "these institutions were identical".
+- Slavery.
+- indenture.
+- tenancy.
+- colonial property.
+- coercive labour.
+- restrictions on movement.
+- dependency.
+- bargaining power.
+- access to legal remedy.
+- property rights versus human survival/dignity.
+- British abolitionist/legal principles.
+- Ask which underlying propositions logically travel between institutions.
+- Identify where analogies illuminate mechanisms.
+- Identify where they break.
+- Distinguish comparison from equivalence.
+
+Core proposition:
+
+**Similar mechanisms do not make two institutions identical. Different institutions can nevertheless expose contradictions in the same moral or legal principle.**
+
+**Question:** *If Britain accepts a principle in one historical context, what happens when we translate that principle rather than merely repeating the label?*
