@@ -1,1 +1,1495 @@
+# 🌾 There Was Always Food In Ireland
 
+**First created:** 2026-10-06 \| **Last updated:** 2026-10-06\
+*Food can exist beside a starving person without becoming theirs to
+eat.*
+
+------------------------------------------------------------------------
+
+## 🛰️ Orientation
+
+`🥔_phytophthora_infestans.md` established the biological disturbance.
+
+The potato crop failed.
+
+Ireland's entire food-producing economy did not.
+
+During An Gorta Mór, Ireland continued to produce:
+
+-   oats;
+-   wheat;
+-   barley;
+-   livestock;
+-   dairy products;
+-   other agricultural goods.
+
+Food also entered Ireland.
+
+Food left Ireland.
+
+Food moved through functioning commercial networks while people starved.
+
+Those facts can coexist.
+
+So this node is not an attempt to prove:
+
+> **There was loads of food and Britain simply put all of it on boats.**
+
+Nor is it an attempt to rescue the opposite simplification:
+
+> **The potato disappeared, therefore there simply was no food.**
+
+The historical problem is harder.
+
+> **What food existed, who produced it, who owned it, where did it move,
+> what did it cost, and by what mechanism could --- or couldn't --- a
+> starving person obtain it?**
+
+That requires separating four things:
+
+``` text
+FOOD AVAILABILITY
+        ≠
+FOOD ACCESSIBILITY
+        ≠
+COMMAND / ENTITLEMENT
+        ≠
+FOOD CONSUMPTION
+```
+
+The body cannot metabolise aggregate national supply.
+
+It can only metabolise food that reaches the mouth.
+
+------------------------------------------------------------------------
+
+## 1. 🖤 Begin With Black '47
+
+Start with the contradiction.
+
+In 1847, potato planting had collapsed.
+
+The Central Statistics Office historical reconstruction records
+approximately:
+
+``` text
+WHEAT       272,000 hectares
+OATS        625,000 hectares
+BARLEY      120,000 hectares
+POTATOES     89,000 hectares
+```
+
+More than one million hectares were under those three cereals.
+
+And this was **Black '47**.
+
+The figures do not prove that all of those cereals were available for
+direct human consumption.
+
+Some agricultural production was required for:
+
+-   seed;
+-   animal feed;
+-   processing;
+-   other non-human-food uses.
+
+Nor do acreage figures alone tell us:
+
+-   yield;
+-   ownership;
+-   regional distribution;
+-   market destination;
+-   nutritional substitutability;
+-   price;
+-   whether the person who was hungry could obtain any of it.
+
+But they establish something important.
+
+The problem cannot be represented simply as:
+
+``` text
+NO FOOD EXISTS
+      ↓
+PEOPLE STARVE
+```
+
+So:
+
+> **How can substantial food production and mass starvation occupy the
+> same landscape?**
+
+The rest of this node answers that question.
+
+------------------------------------------------------------------------
+
+## 2. 🌾 Ireland Produced More Than Potatoes
+
+Potatoes were the critical subsistence crop for millions of poorer
+people.
+
+They were not Ireland's only agricultural output.
+
+The Irish agricultural economy also produced substantial quantities of:
+
+-   oats;
+-   wheat;
+-   barley;
+-   cattle;
+-   pigs;
+-   sheep;
+-   butter and other dairy products.
+
+Different regions specialised differently.
+
+Different classes interacted with that production differently.
+
+A substantial farmer producing grain or livestock for sale occupied a
+different food economy from an agricultural labourer whose family
+depended upon potatoes grown on a tiny plot.
+
+Those food economies can exist beside one another.
+
+``` text
+COMMERCIAL AGRICULTURE
+        │
+        │ same landscape
+        │
+SUBSISTENCE AGRICULTURE
+```
+
+The destruction of the subsistence crop does not automatically destroy
+the commercial crop.
+
+But neither does the survival of the commercial crop automatically feed
+the person whose subsistence crop has disappeared.
+
+------------------------------------------------------------------------
+
+## 3. 📊 Food Produced Is Not Food Available To Eat
+
+Agricultural numbers need discipline.
+
+We cannot take every acre of oats, convert its estimated yield into
+calories, divide by population and announce:
+
+> **Ireland could feed X million people.**
+
+Production has competing uses.
+
+Grain may be:
+
+-   retained as seed;
+-   fed to animals;
+-   processed;
+-   sold;
+-   exported;
+-   consumed domestically.
+
+Livestock are even more obviously not interchangeable with a heap of
+potatoes.
+
+An animal has:
+
+-   an owner;
+-   a market value;
+-   reproductive value;
+-   transport and slaughter requirements;
+-   a place inside a larger agricultural system.
+
+Therefore:
+
+``` text
+FOOD PRODUCED
+      ≠
+HUMAN-EDIBLE FOOD AVAILABLE
+      ≠
+FOOD AVAILABLE LOCALLY
+      ≠
+FOOD AFFORDABLE
+      ≠
+FOOD AVAILABLE TO THIS PERSON
+```
+
+Every transition requires evidence.
+
+------------------------------------------------------------------------
+
+## 4. 🚢 Yes, Food Left Ireland
+
+Food exports continued during the Famine.
+
+This should not be euphemised.
+
+Irish grain and other agricultural products continued to move out of
+Ireland while people inside Ireland were starving.
+
+That fact is historically significant.
+
+But the quantities changed dramatically.
+
+P. M. Austin Bourke's reconstruction of the Irish grain trade,
+reproduced in later work by Cormac Ó Gráda, gives approximately:
+
+  Year     Grain exports   Grain imports              Net movement
+  ------ --------------- --------------- -------------------------
+  1844      424,000 tons     30,000 tons     +394,000 tons outward
+  1845      513,000 tons     28,000 tons     +485,000 tons outward
+  1846      284,000 tons    197,000 tons      +87,000 tons outward
+  1847      146,000 tons    889,000 tons   **743,000 tons inward**
+  1848      314,000 tons    439,000 tons   **125,000 tons inward**
+
+So the simple picture:
+
+``` text
+IRELAND
+   ↓
+FOOD EXPORTED
+   ↓
+STARVATION
+```
+
+is inadequate.
+
+Ireland shifted dramatically from being a net grain exporter towards
+being a very large net importer.
+
+But that does not make the continuing exports irrelevant.
+
+In late 1846 and the beginning of the catastrophic winter of 1846--47,
+imports had not yet caught up sufficiently with the enormous loss of
+potato food. Grain continued leaving while poorer people lacked
+purchasing power.
+
+Timing matters.
+
+------------------------------------------------------------------------
+
+## 5. ⚠️ The Trade Numbers Are Not Perfect
+
+The historical grain statistics are incomplete and sometimes
+inconsistent.
+
+Bourke identified substantial problems in the surviving official
+returns:
+
+-   some series are annual;
+-   monthly figures are much more limited;
+-   different parliamentary returns cover different periods;
+-   some categories differ;
+-   some totals conflict.
+
+So this node should not manufacture a false precision that the archive
+cannot support.
+
+The broad transition is clear.
+
+The exact movement of every calorie is not.
+
+That matters particularly when modern arguments offer very precise
+claims about exactly how many additional people exported food could
+supposedly have fed.
+
+Those calculations can illuminate scale.
+
+They cannot erase uncertainty about:
+
+-   food type;
+-   timing;
+-   seed;
+-   animal feed;
+-   waste;
+-   processing;
+-   distribution;
+-   regional availability;
+-   substitution;
+-   actual human consumption.
+
+**Precision should not exceed the evidence.**
+
+------------------------------------------------------------------------
+
+## 6. 🚢 Food Also Entered Ireland
+
+The other half of the trade system matters just as much.
+
+Large quantities of imported grain and maize entered Ireland.
+
+By early 1847, ports such as Cork were receiving enormous food
+shipments.
+
+Charles Trevelyan's later account recorded heavy maize arrivals and
+quoted Cork merchant Nicholas Cummins describing hundreds of vessels and
+tens of thousands of tons of grain in and around Cork harbour.
+
+For the first six months of 1847, Trevelyan reported nearly 2.85 million
+quarters of corn imported into Ireland.
+
+That source is not neutral.
+
+Trevelyan was defending the administration in which he had played a
+central role.
+
+His interpretation of government policy therefore needs to be treated as
+an interested contemporary account.
+
+But the scale of imports is independently consistent with the
+reconstructed trade series.
+
+The food system now looks like:
+
+``` text
+                 EXPORTS →
+IRELAND
+                 ← IMPORTS
+```
+
+The question becomes:
+
+> **If food imports became enormous, why were people still dying?**
+
+------------------------------------------------------------------------
+
+## 7. 🌽 Peel's Maize
+
+The British government had already intervened directly in food supply.
+
+Under Robert Peel, government secretly purchased Indian corn --- maize
+--- from the United States after the first potato failure.
+
+Government depôts and sub-depôts were used to move and sell meal into
+distressed areas when local supplies were inadequate.
+
+The intervention matters here for two reasons.
+
+First, maize added food to the Irish supply.
+
+Second, it demonstrates that the nineteenth-century choice was never
+literally:
+
+``` text
+GOVERNMENT
+      OR
+MARKET
+```
+
+Government could purchase food.
+
+Government could import food.
+
+Government could establish depôts.
+
+Government could organise distribution.
+
+Government could decide when and under what conditions to sell.
+
+Later policy choices therefore need to be analysed as choices among
+forms of intervention, not as a choice between government action and
+some naturally occurring market outside government.
+
+The full policy story belongs in:
+
+`🏛️_what_britain_did.md`
+
+------------------------------------------------------------------------
+
+## 8. ⏳ Imports Can Arrive Too Late
+
+Aggregate figures conceal timing.
+
+Across 1846--50, imports replaced a large part of the enormous decline
+in domestic food production.
+
+But averaging those years together hides the dangerous interval.
+
+The first potato failure occurred in 1845.
+
+The catastrophic second failure came in 1846.
+
+The great flood of imported maize and grain becomes particularly visible
+in 1847.
+
+A starving body cannot average food availability across five years.
+
+``` text
+FOOD NEEDED
+   OCTOBER
+   NOVEMBER
+   DECEMBER
+   JANUARY
+        ↓
+IMPORT ARRIVES
+     LATER
+```
+
+The later arrival does not feed the earlier body.
+
+This is another information problem.
+
+A five-year food balance can look substantially more adequate than the
+food environment experienced during a lethal winter.
+
+------------------------------------------------------------------------
+
+## 9. 💷 Food Existing Is Not Food Affordable
+
+Suppose grain is sitting in a market.
+
+The household still requires a mechanism:
+
+``` text
+FOOD
+ ↓
+PRICE
+ ↓
+PURCHASING POWER
+ ↓
+PURCHASE
+ ↓
+HOUSEHOLD
+ ↓
+MOUTH
+```
+
+The potato failure destroyed more than food.
+
+For households that normally produced their own staple, it destroyed a
+large part of the mechanism by which they fed themselves without first
+purchasing equivalent calories on the market.
+
+Now those calories had to be replaced.
+
+That replacement required:
+
+-   wages;
+-   savings;
+-   assets;
+-   credit;
+-   assistance;
+-   relief.
+
+At exactly the moment when enormous numbers of households required
+additional purchasing power, their resources were being depleted.
+
+So a market can contain food that a starving person cannot buy.
+
+------------------------------------------------------------------------
+
+## 10. 🪙 Purchasing Power Is Part Of The Food System
+
+A person can obtain food through several mechanisms.
+
+They might:
+
+-   grow it;
+-   own it;
+-   buy it;
+-   exchange labour for the means to buy it;
+-   borrow;
+-   receive it from family or community;
+-   receive charity;
+-   receive public relief.
+
+Later economic theory, especially Amartya Sen's **entitlement
+approach**, gives useful language for analysing this.
+
+Sen's framework should not be projected backwards as though
+nineteenth-century officials used it.
+
+It is a later analytical tool.
+
+Its useful insight is that famine can occur when a person's ability to
+**command food** collapses even where food continues to exist.
+
+For an Irish labouring household:
+
+``` text
+BEFORE
+──────
+LABOUR
++
+POTATO PLOT
++
+SMALL CASH INCOME
++
+CREDIT / ASSETS
+=
+SUBSISTENCE
+```
+
+Then:
+
+``` text
+AFTER CROP FAILURE
+──────────────────
+LABOUR?
++
+NO POTATOES
++
+EXPENSIVE SUBSTITUTE FOOD
++
+RENT
++
+DEBT
+=
+???
+```
+
+The missing potatoes have to be replaced by another entitlement.
+
+If none succeeds, the household goes hungry.
+
+------------------------------------------------------------------------
+
+## 11. 🧾 The Household Balance Sheet Is Shrinking
+
+Households do not usually move directly from:
+
+> poor
+
+to:
+
+> dead.
+
+They attempt to survive.
+
+That can mean:
+
+``` text
+USE SAVINGS
+    ↓
+BORROW
+    ↓
+USE CREDIT
+    ↓
+SELL LIVESTOCK
+    ↓
+PAWN POSSESSIONS
+    ↓
+SELL TOOLS / CLOTHING
+    ↓
+ARREARS
+    ↓
+NOTHING LEFT TO LIQUIDATE
+```
+
+The exact sequence differs by household.
+
+But the systems point is crucial.
+
+**Every survival strategy can reduce capacity to survive the next
+shock.**
+
+Selling an asset produces food today.
+
+It also means the asset is unavailable tomorrow.
+
+Taking on debt produces purchasing power today.
+
+It also produces an obligation tomorrow.
+
+Eating seed prevents hunger today.
+
+It reduces planting capacity tomorrow.
+
+The food-access system has memory.
+
+------------------------------------------------------------------------
+
+## 12. 🐄 Why Not Eat The Cow?
+
+Because seeing food is not owning food.
+
+A hungry labourer seeing cattle in a field does not acquire the legal
+right to slaughter them.
+
+A starving tenant seeing grain transported along a road does not acquire
+title to the grain.
+
+Butter sitting at a port does not become edible to the person watching
+it leave merely because both human and butter occupy the same island.
+
+``` text
+PHYSICAL PROXIMITY
+      ≠
+OWNERSHIP
+      ≠
+PURCHASING POWER
+      ≠
+COMMAND
+      ≠
+CONSUMPTION
+```
+
+This sounds obvious.
+
+It is also the centre of the problem.
+
+The landscape can visibly contain food while the body cannot reach it
+through any lawful mechanism.
+
+------------------------------------------------------------------------
+
+## 13. ⚖️ Why Not Just Take It?
+
+Because the property system from:
+
+`📐_english_land_controls.md`
+
+is still functioning.
+
+The grain belongs to somebody.
+
+The cattle belong to somebody.
+
+The merchant owns what they purchase.
+
+Contracts remain contracts.
+
+Theft remains theft.
+
+The hungry person's physiological need does not automatically create a
+superior legal title to another person's food.
+
+So imagine:
+
+``` text
+FARMER
+  owns grain
+      ↓
+MERCHANT
+  purchases grain
+      ↓
+CARRIER
+  transports grain
+      ↓
+BUYER
+  pays for grain
+```
+
+Beside them:
+
+``` text
+HUNGRY PERSON
+  needs grain
+      ↓
+NO MONEY
+NO TITLE
+NO SUCCESSFUL CLAIM
+```
+
+Now ask:
+
+> **Who has committed the legal wrong that gives the starving person a
+> remedy?**
+
+Potentially nobody.
+
+Every individual transaction can be lawful.
+
+The person can still die.
+
+That is the problem developed in:
+
+`🕯️_the_lawful_catastrophe.md`
+
+------------------------------------------------------------------------
+
+## 14. 🛒 The Market Does Not Ask Who Needs Food Most
+
+This is mechanism, not moral metaphor.
+
+A market allocates goods through successful exchange.
+
+Consider:
+
+``` text
+PERSON A
+needs food
+has purchasing power
+      ↓
+BUYS FOOD
+
+PERSON B
+needs food
+has no purchasing power
+      ↓
+DOES NOT BUY FOOD
+```
+
+The market does not independently reallocate the food because Person B
+will otherwise die.
+
+According to the rule:
+
+> **exchange goods for successful economic claims**
+
+the mechanism can still be operating.
+
+According to the objective:
+
+> **keep every human being alive**
+
+the outcome can be catastrophic.
+
+Those are different system objectives.
+
+This distinction helps explain a historical finding that otherwise looks
+paradoxical: Irish grain markets could continue operating in
+recognisable commercial ways during the Famine while mass mortality
+continued.
+
+A functioning market is not necessarily a functioning subsistence
+system.
+
+------------------------------------------------------------------------
+
+## 15. 📈 Price Is Information --- But Information For Whom?
+
+Price is a signal.
+
+It can communicate:
+
+-   scarcity;
+-   demand;
+-   expected supply;
+-   transport costs;
+-   competition among purchasers.
+
+But the same number means different things to different bodies.
+
+``` text
+SAME PRICE
+   ↓
+MERCHANT
+procurement / margin / scarcity signal
+
+GOVERNMENT
+market condition / supply information
+
+WEALTHY HOUSEHOLD
+food is more expensive
+
+DESTITUTE LABOURER
+food has become practically inaccessible
+```
+
+Same information.
+
+Different observer.
+
+Different consequence.
+
+This is Embodied Information Ecology in an extremely literal form.
+
+A price increase can be information in an account book.
+
+It can also be information experienced as hunger.
+
+------------------------------------------------------------------------
+
+## 16. 🧠 What Does The System Think Food Is For?
+
+The same oat can be several things.
+
+``` text
+OAT
+ ↓
+CALORIE
+COMMODITY
+ANIMAL FEED
+SEED
+INCOME
+EXPORT
+PRICE SIGNAL
+RELIEF INPUT
+```
+
+None of those descriptions is inherently false.
+
+They belong to different systems.
+
+To the body:
+
+> food → metabolism → survival.
+
+To the producer:
+
+> food → subsistence and/or product.
+
+To the merchant:
+
+> food → commodity.
+
+To the state:
+
+> food → supply, price, trade, relief and political economy.
+
+The danger appears when the system optimising one description loses
+sight of another.
+
+A commodity can move efficiently while a body starves efficiently beside
+it.
+
+------------------------------------------------------------------------
+
+## 17. 🫥 Food Becomes Abstract Too
+
+In `📐_english_land_controls.md`, the human can become:
+
+``` text
+PERSON
+ ↓
+TENANT
+ ↓
+ARREARS
+ ↓
+LIABILITY
+```
+
+Here food becomes:
+
+``` text
+FOOD
+ ↓
+COMMODITY
+ ↓
+QUANTITY
+ ↓
+PRICE
+ ↓
+TRADE FLOW
+```
+
+Administrative systems can become extremely good at measuring:
+
+-   tonnage;
+-   acreage;
+-   price;
+-   imports;
+-   exports;
+-   market supply.
+
+Those measurements matter.
+
+We need them.
+
+But the body asks a different question:
+
+> **Can I eat today?**
+
+Administrative accuracy and human catastrophe can coexist.
+
+------------------------------------------------------------------------
+
+## 18. 🏪 Markets Can Work While People Die
+
+Research on Irish prices suggests that wholesale cereal markets did not
+simply disintegrate.
+
+Prices responded.
+
+Imports eventually surged.
+
+Goods moved.
+
+Commercial networks functioned.
+
+That does not make the system harmless.
+
+It makes the question more precise.
+
+Instead of:
+
+> **Did the market fail?**
+
+ask:
+
+> **Failed at what?**
+
+As a mechanism for:
+
+-   transmitting price information;
+-   moving commodities;
+-   connecting buyers and sellers;
+
+it can continue operating.
+
+As a mechanism for:
+
+-   ensuring that every person obtains enough calories to remain alive;
+
+it can fail catastrophically.
+
+The market does not possess that second objective unless institutions
+give it one.
+
+------------------------------------------------------------------------
+
+## 19. 🏛️ "Do Not Interfere With The Market" Is Still A Policy Position
+
+The state is not outside the market.
+
+It:
+
+-   recognises property;
+-   enforces contracts;
+-   enforces debt;
+-   polices theft;
+-   regulates trade;
+-   maintains legal institutions;
+-   governs ports and infrastructure;
+-   decides the rules under which relief operates.
+
+So:
+
+> **allow the market to operate**
+
+does not mean:
+
+> **government does nothing.**
+
+It means maintaining some institutional arrangements while declining,
+limiting or choosing among others.
+
+Possible interventions available in famine conditions can include:
+
+-   public food purchase;
+-   import facilitation;
+-   export restrictions;
+-   direct food distribution;
+-   employment schemes;
+-   cash support;
+-   price measures;
+-   soup kitchens;
+-   Poor Law relief.
+
+Whether each was feasible, desirable, sufficient or actually used is a
+historical question.
+
+That belongs principally in:
+
+`🏛️_what_britain_did.md`
+
+------------------------------------------------------------------------
+
+## 20. 🚨 Should Exports Have Been Stopped?
+
+This deserves a real question, not a predetermined slogan.
+
+Grain exports continued.
+
+In 1846 Ireland still exported more grain than it imported overall,
+although the net outward balance had collapsed dramatically compared
+with 1845.
+
+By 1847 the balance reversed enormously: imports greatly exceeded
+exports.
+
+So an export prohibition would have different potential significance at
+different moments.
+
+Questions include:
+
+-   What food was leaving?
+-   How much?
+-   At what point in the crisis?
+-   What imports were already expected?
+-   What effect might temporary retention have had on prices?
+-   Who would own retained grain?
+-   How would it reach distressed districts?
+-   Would starving households possess the means to buy it?
+-   Would requisition or public purchase also be required?
+-   What administrative machinery would distribution require?
+-   What would happen to producers and future supply?
+
+Ó Gráda argues that freer imports made more long-term sense than simply
+prohibiting exports, while also noting arguments that a temporary
+surprise embargo in late 1846, while imports were on their way, might
+have provided some relief.
+
+So:
+
+``` text
+STOP EXPORTS
+      ≠
+AUTOMATICALLY
+FEED STARVING PERSON
+```
+
+But equally:
+
+``` text
+FOOD IS PRIVATELY OWNED
+      ≠
+STATE HAS NO POLICY OPTIONS
+```
+
+The historical question is what combination of interventions could
+translate food supply into survival quickly enough.
+
+------------------------------------------------------------------------
+
+## 21. 🇬🇧 Ireland Is Not A Foreign Country In This System
+
+During An Gorta Mór, Ireland was constitutionally part of the **United
+Kingdom of Great Britain and Ireland**.
+
+So a diagram that simply shows:
+
+``` text
+IRELAND
+   ↓ exports
+BRITAIN
+```
+
+can accidentally imply ordinary trade between two sovereign states.
+
+That is not the constitutional situation.
+
+Food moved through an integrated political and commercial relationship
+containing:
+
+-   the Union;
+-   representation at Westminster;
+-   British governmental responsibility;
+-   distinct Irish administration;
+-   centuries of colonial conquest and land transformation;
+-   highly unequal distributions of political and economic power.
+
+This creates another difficult question:
+
+> **What does free movement of food inside a political union mean when
+> access to that food is radically unequal?**
+
+That belongs more fully in:
+
+`🇬🇧_implications_for_unionism.md`
+
+------------------------------------------------------------------------
+
+## 22. 🧮 Could Ireland Have Fed Everybody?
+
+This question is legitimate.
+
+It is also easy to abuse.
+
+Later scholars have attempted food-balance calculations using:
+
+-   agricultural output;
+-   seed requirements;
+-   animal consumption;
+-   exports;
+-   imports;
+-   population;
+-   estimated calorific values.
+
+One reconstruction used by Ó Gráda estimates that average total food
+available for consumption across 1846--50 was substantially below the
+pre-Famine level but that imports replaced a large part of the collapse
+in domestic production.
+
+That finding does **not** mean:
+
+> **there was no real food shortage.**
+
+The destruction of the potato represented an enormous food-availability
+shock.
+
+Nor does it mean:
+
+> **there were always effortlessly enough calories waiting to be
+> redistributed.**
+
+Timing matters.
+
+Geography matters.
+
+Substitution matters.
+
+Logistics matter.
+
+But the calculations do reinforce the central problem:
+
+**aggregate food supply does not by itself predict who eats.**
+
+The more useful question is therefore:
+
+> **What mechanism could translate available food into food available to
+> the person whose previous means of subsistence had collapsed?**
+
+------------------------------------------------------------------------
+
+## 23. 🗺️ National Totals Hide Local Hunger
+
+Ireland is not one market square.
+
+Food production differed regionally.
+
+Potato dependence differed regionally.
+
+Poverty differed regionally.
+
+Famine mortality differed regionally.
+
+A surplus in one place does not automatically eliminate hunger somewhere
+else.
+
+``` text
+SURPLUS HERE
+      +
+STARVATION THERE
+```
+
+can coexist.
+
+Moving food requires:
+
+-   roads;
+-   ports;
+-   carts or ships;
+-   storage;
+-   information;
+-   merchants or public administration;
+-   payment or requisition;
+-   distribution.
+
+The existence of national supply therefore cannot substitute for
+investigating local access.
+
+And local mortality cannot automatically prove that no food existed
+elsewhere.
+
+Both scales matter.
+
+------------------------------------------------------------------------
+
+## 24. 🍲 Relief Creates A New Claim On Food
+
+Private purchasing power is not the only possible route from food to
+mouth.
+
+Relief creates another.
+
+``` text
+PERSON
+   ↓
+ELIGIBILITY
+   ↓
+RELIEF SYSTEM
+   ↓
+FOOD / MONEY / WAGES
+   ↓
+MOUTH
+```
+
+This is important.
+
+Once public relief exists, the person's ability to survive may depend
+upon:
+
+-   qualifying;
+-   being registered;
+-   reaching the relief mechanism;
+-   the mechanism having resources;
+-   administrative rules;
+-   local funding;
+-   timing.
+
+The Temporary Relief Act of 1847 created soup-kitchen relief on an
+enormous scale. By July, around three million people were being fed
+daily.
+
+That demonstrates something profound.
+
+A different entitlement mechanism could connect existing food supply to
+people who could not command food through ordinary purchasing power.
+
+It also immediately creates another boundary:
+
+> **Who qualifies?**
+
+That question belongs to:
+
+`🏛️_what_britain_did.md`
+
+and:
+
+`🕯️_the_lawful_catastrophe.md`
+
+------------------------------------------------------------------------
+
+## 25. 🫀 Calories Do Not Care Who Owns Them
+
+The body requires:
+
+-   energy;
+-   protein;
+-   micronutrients;
+-   water.
+
+It cannot metabolise:
+
+-   legal title;
+-   aggregate food supply;
+-   market integration;
+-   favourable import statistics;
+-   grain visible on a cart;
+-   cattle visible through a hedge;
+-   maize sitting in a harbour;
+-   food somebody else can afford.
+
+The chain is:
+
+``` text
+FOOD EXISTS
+      ↓
+ACCESS?
+      ↓
+COMMAND?
+      ↓
+CONSUMPTION?
+      ↓
+DIGESTION
+      ↓
+METABOLISM
+      ↓
+SURVIVAL
+```
+
+If the chain breaks before consumption, the body receives nothing.
+
+> **A calorie that you have no mechanism to obtain is not a calorie your
+> body can use.**
+
+------------------------------------------------------------------------
+
+## 26. 🌾 There Was Always Food In Ireland
+
+The title is deliberately uncomfortable.
+
+It needs to remain precise.
+
+It does **not** mean:
+
+> **There was always enough of every food in every district to replace
+> the potato crop without difficulty.**
+
+There was an enormous real food shock.
+
+It does **not** mean:
+
+> **Imports were irrelevant.**
+
+Imports became enormous and materially changed aggregate supply.
+
+It does **not** mean:
+
+> **Every export represented food physically snatched from a starving
+> person's hand.**
+
+Trade relationships were more complicated.
+
+It means:
+
+> **An Gorta Mór cannot adequately be described as the physical
+> disappearance of food from Ireland.**
+
+Food continued to be produced.
+
+Food left.
+
+Food entered.
+
+Food moved through markets.
+
+Some people continued eating.
+
+Others lost the mechanisms through which they could command enough food
+to survive.
+
+That is the historical phenomenon requiring explanation.
+
+------------------------------------------------------------------------
+
+## 27. 🕯️ And Nobody Has Necessarily Broken The Law
+
+Return to one person.
+
+They are hungry.
+
+There is grain.
+
+The farmer owns it.
+
+The merchant purchases it.
+
+The carrier transports it.
+
+The buyer pays.
+
+The landlord seeks rent.
+
+The state recognises the transactions.
+
+The hungry person possesses:
+
+-   no grain;
+-   insufficient money;
+-   no superior property claim;
+-   no automatic legal entitlement to seize another person's food.
+
+Ask:
+
+> **Who has committed the legal wrong that gives the starving person a
+> remedy?**
+
+Potentially nobody.
+
+And yet:
+
+**the person is still dying.**
+
+The catastrophe can therefore emerge not only where law breaks down.
+
+It can emerge while recognised legal relationships continue operating.
+
+That is no longer principally a question about potatoes.
+
+It is the beginning of:
+
+`🕯️_the_lawful_catastrophe.md`
+
+------------------------------------------------------------------------
+
+## 🧭 Hand-Off
+
+### ← `🥔_phytophthora_infestans.md`
+
+The pathogen explains the destruction of the principal subsistence crop.
+It does not explain why alternative food failed to reach particular
+bodies.
+
+### → `🇬🇧_what_britain_knew.md`
+
+What did the governing system know about crop failure, food production,
+prices, trade, destitution and mortality --- and when did it know it?
+
+### → `🏛️_what_britain_did.md`
+
+What mechanisms were actually used to alter food supply, purchasing
+power, employment and relief?
+
+### → `🕯️_the_lawful_catastrophe.md`
+
+What happens when property and exchange remain lawful while a human
+being possesses no successful claim to the resources required to remain
+alive?
+
+### → `🪦_how_and_why_people_died.md`
+
+What happens physiologically when food-access failure persists long
+enough to enter the body?
+
+------------------------------------------------------------------------
+
+## 🌌 Constellations
+
+-   `📐_english_land_controls.md`
+-   `🥔_phytophthora_infestans.md`
+-   `🇬🇧_what_britain_knew.md`
+-   `🏛️_what_britain_did.md`
+-   `🕯️_the_lawful_catastrophe.md`
+-   `🔥_eviction_and_clearance.md`
+-   `🪦_how_and_why_people_died.md`
+-   `🇬🇧_implications_for_unionism.md`
+
+------------------------------------------------------------------------
+
+## ✨ Stardust
+
+food availability · food accessibility · entitlement · purchasing power
+· grain · oats · wheat · barley · maize · Indian corn · livestock ·
+dairy · exports · imports · net grain trade · prices · wages · markets ·
+Black '47 · Robert Peel · food depôts · relief · soup kitchens · Amartya
+Sen · Cormac Ó Gráda · P. M. Austin Bourke · property · trade · famine ·
+subsistence · metabolism · embodied information
+
+------------------------------------------------------------------------
+
+## 📚 Sources
+
+-   P. M. Austin Bourke, "The Irish Grain Trade, 1839--48", *Irish
+    Historical Studies* 20, no. 78 (1976), pp. 156--169.\
+    https://doi.org/10.1017/S0021121400024093
+
+-   Cormac Ó Gráda, *The Great Irish Famine*, especially the
+    reconstruction of grain exports and imports and discussion of food
+    availability, markets and relief.\
+    https://researchrepository.ucd.ie/server/api/core/bitstreams/ac3a6cc4-1850-4a20-8f82-55ff203fe2c7/content
+
+-   Cormac Ó Gráda, "Famines and Markets", including reconstructed
+    aggregate Irish food supplies before and during the Famine.\
+    https://researchrepository.ucd.ie/bitstreams/b20b332a-c1db-478d-8677-a84d156bb115/download
+
+-   Cormac Ó Gráda, "Famine in Ireland, 1300--1900", UCD Centre for
+    Economic Research Working Paper WP2015/13, including evidence on
+    nineteenth-century cereal-market integration and prices.\
+    https://researchrepository.ucd.ie/server/api/core/bitstreams/1ac82109-07f8-4d0f-afc7-f07d16a438e0/content
+
+-   Central Statistics Office, *Statistical Yearbook of Ireland 2018 ---
+    Agriculture & Fishing*, historical crop acreage.\
+    https://www.cso.ie/en/releasesandpublications/ep/p-syi/psyi2018/agri/cl/
+
+-   Central Statistics Office, *Farming Since the Famine ---
+    Appendices*, historical agricultural statistics and reconstructed
+    crop data.\
+    https://www.cso.ie/en/media/csoie/releasespublications/documents/agriculture/farmingsincethefamine/Appendices\_-\_Farming_Since_the_Famine.pdf
+
+-   Charles Edward Trevelyan, *The Irish Crisis* (1848), CELT,
+    University College Cork. Used as a contemporary administrative
+    account requiring source criticism, including government maize
+    purchases, depôts and descriptions of 1847 imports.\
+    https://celt.ucc.ie/published/E840001-002.html
+
+-   Amartya Sen, *Poverty and Famines: An Essay on Entitlement and
+    Deprivation* (1981). Used as a later analytical framework for
+    distinguishing food availability from a person's capacity to command
+    food.
+
+-   Cormac Ó Gráda and Kevin H. O'Rourke, "Migration as Disaster Relief:
+    Lessons from the Great Irish Famine", *European Review of Economic
+    History*, on poverty, emigration and differential capacity to escape
+    famine.\
+    https://researchrepository.ucd.ie/entities/publication/d54d1001-edb9-4f83-9dab-ffb3f37ff29d
+
+------------------------------------------------------------------------
+
+## 🏮 Footer
+
+`🌾_there_was_always_food_in_ireland.md` belongs to the
+`🥔_An_Gorta_Mór` cluster within `🫀♻️_The_Body_In_The_Loop`.
+
+Its central chain is:
+
+``` text
+FOOD
+ ↓
+OWNERSHIP
+ ↓
+PRICE
+ ↓
+PURCHASING POWER / ENTITLEMENT
+ ↓
+ACCESS
+ ↓
+CONSUMPTION
+ ↓
+BODY
+```
+
+The existence of food is not the end of the question.
+
+It is the beginning.
+
+*Survivor authorship is sovereign. Food is followed all the way from
+field and ledger to the human body.*
