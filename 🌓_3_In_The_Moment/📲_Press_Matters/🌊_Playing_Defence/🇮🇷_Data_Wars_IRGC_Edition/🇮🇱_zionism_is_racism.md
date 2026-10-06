@@ -1321,7 +1321,22 @@ Having room and humanity for people, and creating space for people, means accept
 
 We have been encouraged to do that by the same people who have turned a blind eye to extremely obvious precautions that could’ve been taken it and early stage, to prevent PTSD in IDF soldiers, and I think we should all be very aware that perhaps those sources are not well informed, or if they are they certainly are not well intentioned, about managing trauma.  
 
-### (2)  
+### “What do you mean by coded deaths threats?”  
+
+Over the three years, there were memes threats by s variety of actors, at least some of them aligning with the Israeli state, and clearly some sock puppets and bots.  
+
+I have seen everything from referencing fatal allergies to referencing, for example, the “beeper” attack (pagers, for the UK).  
+
+If you comment under a news story with, “📟📟📟 with live from Israel”, I don’t care if you’re a North Korean sock puppet. I still have the response of protection of people you are insinuating should be victim of a deadly insurgent terrorist attack by the Stare of Israel, which killed civilians.  
+
+I don’t do “collateral damage”, I don’t do “friendly fire”; I do “why did we all seem so okay with the VP at the time even being in s position to accidentally shoot his friend in the face”.  
+
+Thank G-d he was a shit shot.  
+
+I don’t do “ehhh it’s fine”. Nah.  
+None of that, thank you.  
+
+Rules of war are very simple.  
 
 ---  
 
