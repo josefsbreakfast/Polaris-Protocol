@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-06 10:29:11 UTC_
+_Generated on 2026-10-06 20:16:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2501,6 +2501,8 @@ _Generated on 2026-10-06 10:29:11 UTC_
         - [`🕰️_why_exposure_persists.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/🕰️_why_exposure_persists.md)
         - [`🦯_algorithmic_delay_and_pacing.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/🦯_algorithmic_delay_and_pacing.md)
         - [`🪜_temporal_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/🪜_temporal_containment.md)
+      - [**🥔_An_Gorta_Mór/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/)
+        - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/notes.txt)
       - [**🧬_Algorithmic_Endocrinology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🧬_Algorithmic_Endocrinology/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🧬_Algorithmic_Endocrinology/README.md)
         - [`🌿_algorithmic_ecology.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🧬_Algorithmic_Endocrinology/🌿_algorithmic_ecology.md)
