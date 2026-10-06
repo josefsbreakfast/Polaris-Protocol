@@ -4,3 +4,34 @@
 this is personally extremely emotional for me to write, and I will be doing it with errors and imperfections.  
 
 some of you are needing to understand this as a colonial act, and some are not understanding the implications of the collective punishment in Gaza, so thanks, we’re writing this out of need now.  
+
+🌑_1_Origin_Points/
+└── 🪿_Embodied_Information_Ecology/
+    └── 🫀♻️_The_Body_In_The_Loop/
+        └── 🥔_An_Gorta_Mór/
+            │
+            ├── README.md
+            ├── notes.txt
+            │
+            ├── 🌱_before_the_blight.md
+            ├── 📐_english_land_controls.md
+            ├── 🥔_phytophthora_infestans.md
+            ├── 🌾_there_was_always_food_in_ireland.md
+            │
+            ├── 🇬🇧_what_britain_knew.md
+            ├── 🏛️_what_britain_did.md
+            ├── 🕯️_the_lawful_catastrophe.md
+            ├── 🔥_eviction_and_clearance.md
+            │
+            ├── 🪦_how_and_why_people_died.md
+            ├── 🚢_where_everybody_went.md
+            ├── 🌿_the_demographic_scar.md
+            │
+            ├── ☘️_land_and_independence.md
+            ├── 🌫️_what_do_we_call_it.md
+            ├── ☘️_remembering_an_gorta_mór.md
+            ├── 🫀_bodies_in_bronze.md
+            │
+            ├── 🍉_what_oct_09_meant.md
+            └── ⚖️_translation_is_not_equivalence.md
+🩸_why_call_it_genocide.md
