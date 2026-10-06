@@ -1,5 +1,5 @@
 # 🇮🇱 Zionism Is Racism
-**First created:** 2026-02-01 | **Last updated:** 2026-10-05  
+**First created:** 2026-02-01 | **Last updated:** 2026-10-06  
 *The 2026 Green Party motion as a worked case in Zionism, racism, responsible reporting, attribution hygiene, minority safety, and democratic information defence.*
 
 ---
@@ -1292,7 +1292,8 @@ The earlier edition also linked Palestinian family memory and contemporary polit
 *Further media:*  
 
 - [📹: Jason, via TikTok: “James
-A very wild response to what is a fairly uncontroversial claim”](https://vm.tiktok.com/ZN8kjR6EA/) – *The Rt Hon Zara Sultana MP has been frontline in protests during periods of increased racism violence. Amichai Chikli has promoted Stephen Yaxley-Lenon as being “safe” for Hewish people. They are not the same. If you honestly want the term “Zionism” to refer to something not racist, you need to take it back from the racists who are using it to describe their own violence. Zara Sultana is British, “Pakistan” is not an insult it is a sovereign state, and platforming Nazi types is bad for Jewish safety in Britain. Thank you for coming to my TED talk. The British media is platforming minimisation of racism violence, while the Coroner has not even heard evidence on Jason Arday. If you really care about marginalised voices and not just extracting money from the MENA region, you all need to tighten the fuck up. There are Irish voices representing at the Cable Street memorial parade this week; strength comes from solidarity, not whatever the fuck this racist shit from a government minister is supposed to be.*  
+A very wild response to what is a fairly uncontroversial claim”](https://vm.tiktok.com/ZN8kjR6EA/) – *The Rt Hon Zara Sultana MP has been frontline in protests during periods of increased racism violence. Amichai Chikli has promoted Stephen Yaxley-Lenon as being “safe” for Hewish people. They are not the same. If you honestly want the term “Zionism” to refer to something not racist, you need to take it back from the racists who are using it to describe their own violence. Zara Sultana is British, “Pakistan” is not an insult it is a sovereign state, and platforming Nazi types is bad for Jewish safety in Britain. Thank you for coming to my TED talk. The British media is platforming minimisation of racism violence, while the Coroner has not even heard evidence on Jason Arday. If you really care about marginalised voices and not just extracting money from the MENA region, you all need to tighten the fuck up. There are Irish voices representing at the Cable Street memorial parade this week; strength comes from solidarity, not whatever the fuck this racist shit from a government minister is supposed to be.*
+- [📲: NewsCord: “1,022 Green Party members voted to call Zionism racism. The press gave Israel 773 words to answer them and gave Palestinians 98.”](https://vm.tiktok.com/ZN8k6fQFS/) – *this is not acceptable from the wider press, in light of the ICJ orders in light of the protection from genocide conventions; these are important disparities, and regardless of why the incentives drive that, that is part of what we need to fix for press freedom in our democracy, as well as future prevention of genocide for all people*  
 
 ---
 
@@ -1326,4 +1327,4 @@ information environments, democratic defence, media fidelity, attribution hygien
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-05_
+_Last updated: 2026-10-06_
