@@ -1,6 +1,12 @@
 # 😇 Conservatives Just Asking Questions  
-**First created:** 2026-09-17 | **Last updated:** 2026-09-29  
+**First created:** 2026-09-17 | **Last updated:** 2026-10-06  
 *Written parliamentary questions, institutional collisions, public records, machine-assisted scrutiny, and the constitutional art of making government check its working.*
+
+---
+
+Remember:  
+
+Not allowing transparency before any election is a choice. It is not a particularly democratic one. This may not be the motive, but it is a risk and a concern and the delay requires explanation.  
 
 ---
 
@@ -1789,4 +1795,4 @@ the resulting answers to the evidence environment as new RSVPs.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-29_
+_Last updated: 2026-10-06_
