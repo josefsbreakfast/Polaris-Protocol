@@ -1229,7 +1229,29 @@ Extremely unlikely.
 
 Remember *The Big Short*?  
 
---- 
+---  
+
+## 🌿 As Plenary: FAQs On The Political Motion / Analysis In Public Sphere  
+
+As there is considerable debate and there are a number of assumptions which don’t reflect the mechanism of what this motion does, or have added or subtracted from the logic of the motion to reach the conclusion, I’m going to see the common and frequent queries as they come up, here.  
+
+I have already seen coded deaths threats towards the Jewish man that the State of Israel are projecting their anger towards, on the comments of posts where British journalists are being a little less informed as to the body of the motion.  
+
+We would like people to be safe, and maybe we could think about why he may not have voted given that risk, yes?  
+
+Most outlets are barely letting British Palestinians and Palestinian voices into their coverage, and this motion is about them, in a live genocide.  
+
+Change that.  
+
+### (1)  
+
+### (2)  
+
+### (1)  
+
+### (2)  
+
+---  
 
 ## 📚 Source Register  
 
