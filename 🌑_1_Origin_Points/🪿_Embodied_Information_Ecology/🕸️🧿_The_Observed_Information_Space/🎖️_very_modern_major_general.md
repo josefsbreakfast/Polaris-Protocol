@@ -1100,7 +1100,8 @@ Likewise, the US–Iran war section deliberately distinguishes constitutional au
 - [🎖️: Modern Major General, *Pirates of Penzance*, 1983, film.](https://youtu.be/FOAr-_vk4tM?is=OsDKPs4zzPwhV5sN)  
 - [📺: South Park (America), via YouTube: “The Secretary of War demands Peter Thiel be released from the Park County Jail.”](https://youtube.com/shorts/3WA-sVMnJNI?is=w8KAM-uyJbJUFJBb)
 - [📹: NowThis Impact: “The White House is pissed at Chuck Lorre for this speech”](https://vm.tiktok.com/ZN8kjLHb9/) – *”The White House's official response?
-'Chuck Lorre should immediately seek psychiatric help to treat his severe case of Trump Derangement Syndrome that has completely rotted his peanut-sized brain.” – it is a trick of situation regimes to pathologise those they see as dissenting from their whims; meanwhile [POTUS is arguing with the sun](../🕸️_Information_Environments/🌤️_old_man_yells_at_sun.md)*  
+'Chuck Lorre should immediately seek psychiatric help to treat his severe case of Trump Derangement Syndrome that has completely rotted his peanut-sized brain.” – it is a trick of situation regimes to pathologise those they see as dissenting from their whims; meanwhile [POTUS is arguing with the sun](../🕸️_Information_Environments/🌤️_old_man_yells_at_sun.md)*
+- [📹: Brut., via TikTok: “Rep. Thomas Massie calls out Mike Johnson for canceling until after the midterms.”](https://vm.tiktok.com/ZN8kj4vAM/) – *absolutely anything but Epstein network arrests and transparency, it seems*  
 
 ---
 
