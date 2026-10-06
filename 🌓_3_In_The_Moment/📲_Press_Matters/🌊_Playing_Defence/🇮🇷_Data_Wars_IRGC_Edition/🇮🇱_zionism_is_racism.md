@@ -1309,7 +1309,17 @@ I imagine there is significant fear in calling out the latter, and I am unwillin
 
 if you are scared to say it yourself, find a way for me to be exposed to the information and I will cover it for you. I clearly don’t have any fucks left to give when it comes to laughing at that flabby old man, shouting at the fucking sun, because he still isn’t happy.  
 
-### (1)  
+### “There was nothing about Hamas…”  
+
+Would you prefer it if every antisemitism motion started with some form of similar wording, acknowledging how many Palestinians have been lynched in the West Bank in the last three months? Or perhaps the manner in which some of them have had desecration of their memory or body after death? Would you like your antisemitism and motion to start with something about how sexual violence is used aggressively, and has only expanded during the conflict, to the extent that it has been used almost like clockwork on male doctors?  
+
+Or might that be bad taste?  
+
+asking Palestinians who have absolutely no affinity to this organisation the vast majority of the time, to justify themselves before they’re allowed to feel anything, or be human, dehumanise them in an of itself.  
+
+Having room and humanity for people, and creating space for people, means accepting that even if we are scared, even if we carry trauma, we also have to allow that other person to be human, and not put our stress and fear onto them as soon as they walk in a room. If we are in the position where we are in the latter position, that means that we are not regulated enough and a nervous system level, to have the conversation with them, and the fact that we have been encouraged to do this means that we have been encouraged to be any more activated more trauma nervous system state.  
+
+We have been encouraged to do that by the same people who have turned a blind eye to extremely obvious precautions that could’ve been taken it and early stage, to prevent PTSD in IDF soldiers, and I think we should all be very aware that perhaps those sources are not well informed, or if they are they certainly are not well intentioned, about managing trauma.  
 
 ### (2)  
 
