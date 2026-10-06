@@ -106,6 +106,41 @@ A household can simultaneously lose most of the food it can actually command.
 
 ---
 
+## 4. 🐖 One Potato Crop Was Doing Several Jobs
+
+The pre-Famine potato crop was not one undifferentiated heap of human calories.
+
+P. M. Austin Bourke's later reconstruction, reproduced in the Central Statistics Office's historical agricultural account, estimated that before the Famine roughly:
+
+- **47%** of the potato crop went to human food;
+- **33%** went to animal feed;
+- **13%** was retained as seed;
+- about **2%** was exported;
+- the remainder was lost or used in other ways.
+
+These are reconstructed estimates, not immaculate contemporary measurements.
+
+But the proportions make an important systems point.
+
+A potato can enter the household economy through more than one route:
+
+``` text
+POTATO
+  ├──→ HUMAN FOOD
+  ├──→ SEED FOR NEXT CROP
+  └──→ ANIMAL FEED
+          ↓
+       LIVESTOCK
+          ↓
+     FOOD / ASSET / CASH
+```
+
+So destroying the potato crop can remove present calories, future planting capacity and part of the household's economic buffer at the same time.
+
+The biological loss propagates.
+
+---
+
 ## 3. 🌎 The Potato Was An Immigrant Too
 
 The potato is not an ancient marker of Irishness.
@@ -150,7 +185,7 @@ PATHOGEN
 
 ---
 
-## 4. 🧬 Meet *Phytophthora infestans*
+## 5. 🧬 Meet *Phytophthora infestans*
 
 *Phytophthora infestans* causes potato late blight.
 
@@ -188,7 +223,7 @@ Food expected to last through the winter can disappear after harvest.
 
 ---
 
-## 5. 🤢 A Field Can Look Like Food Until It Doesn't
+## 6. 🤢 A Field Can Look Like Food Until It Doesn't
 
 Agricultural statistics flatten something that contemporaries experienced bodily.
 
@@ -212,7 +247,7 @@ This is an ecological disturbance entering human expectation.
 
 ---
 
-## 6. 🧬 Variety, Cloning And The Lumper
+## 7. 🧬 Variety, Cloning And The Lumper
 
 The **Lumper** became strongly associated with poorer Irish cultivation and with the Famine.
 
@@ -246,7 +281,7 @@ EXTREME VULNERABILITY
 
 ---
 
-## 7. 🌧️ An Epidemic Needs An Environment
+## 8. 🌧️ An Epidemic Needs An Environment
 
 A pathogen does not act independently of its environment.
 
@@ -280,7 +315,7 @@ Disease emerges from the interaction.
 
 ---
 
-## 8. 🌍 Ireland Was Not The Only Place With Blight
+## 9. 🌍 Ireland Was Not The Only Place With Blight
 
 This is essential.
 
@@ -326,7 +361,7 @@ The organism is therefore not a sufficient explanation.
 
 ---
 
-## 9. 🔄 One Famine, Several Harvests
+## 10. 🔄 One Famine, Several Harvests
 
 The familiar shorthand---
 
@@ -374,7 +409,7 @@ But the scale and direction of the change are unmistakable.
 
 ---
 
-## 10. 🌧️ 1845 --- The First Shock
+## 11. 🌧️ 1845 --- The First Shock
 
 In early summer 1845, the Irish potato crop looked promising.
 
@@ -405,7 +440,34 @@ A household can survive a shock and emerge from it dramatically less capable of 
 
 ---
 
-## 11. 💀 1846 --- The Compound Shock
+## 12. 💀 1846 --- The Compound Shock
+
+The second shock did not strike the same system that had entered 1845.
+
+The first failure had already altered the next planting cycle.
+
+The Central Statistics Office's historical reconstruction indicates that potato acreage planted in 1846 was already more than one-fifth below the 1845 level. The accompanying analysis argues that the reduced acreage alone would have created serious distress even if the surviving crop had escaped renewed disease.
+
+Then the much more destructive 1846 blight arrived.
+
+That gives us an unusually visible feedback loop:
+
+``` text
+1845 BLIGHT
+    ↓
+FOOD + SEED + RESOURCES LOST
+    ↓
+LESS POTATO LAND PLANTED IN 1846
+    ↓
+SYSTEM ENTERS 1846 WITH LESS CAPACITY
+    ↓
+1846 BLIGHT
+    ↓
+CATASTROPHIC FAILURE
+```
+
+The second disturbance therefore acts upon a system already changed by the first.
+
 
 The second major failure does not strike the Ireland of 1844.
 
@@ -439,7 +501,7 @@ The second disturbance therefore has a different effect even before policy enter
 
 ---
 
-## 12. 🖤 1847 --- Black '47
+## 13. 🖤 1847 --- Black '47
 
 This is one of the most important years for understanding the entire cluster.
 
@@ -492,7 +554,7 @@ The biological disturbance at **t** alters agricultural capacity at **t+1**.
 
 ---
 
-## 13. 🌾 Black '47 Has Another Problem
+## 14. 🌾 Black '47 Has Another Problem
 
 In 1847 Ireland did not stop growing food.
 
@@ -551,7 +613,7 @@ Biology has now carried us to the edge of political economy.
 
 ---
 
-## 14. 🌱 1848 --- Trying Again
+## 15. 🌱 1848 --- Trying Again
 
 The good yield from the small 1847 planting encouraged renewed potato cultivation.
 
@@ -598,7 +660,7 @@ A better harvest cannot:
 
 ---
 
-## 15. 🔁 The Crop Failure Has Memory
+## 16. 🔁 The Crop Failure Has Memory
 
 This gives us a more useful model of the Famine years.
 
@@ -652,7 +714,7 @@ The famine therefore cannot be understood as independent annual crop failures.
 
 ---
 
-## 16. 🔬 What Did Contemporaries Think Was Happening?
+## 17. 🔬 What Did Contemporaries Think Was Happening?
 
 They did not possess our settled model of *Phytophthora infestans*.
 
@@ -690,7 +752,7 @@ Historical actors should be judged against the evidence and tools available to t
 
 ---
 
-## 17. 🧪 Could They Stop The Blight?
+## 18. 🧪 Could They Stop The Blight?
 
 Not effectively at the necessary scale with the tools available in the 1840s.
 
@@ -725,7 +787,7 @@ The inability to cure *Phytophthora infestans* does not answer that question.
 
 ---
 
-## 18. 🙏 Providence Does Not Cure Oomycetes
+## 19. 🙏 Providence Does Not Cure Oomycetes
 
 Religious and providential interpretations existed alongside scientific investigation.
 
@@ -759,7 +821,7 @@ Then:
 
 ---
 
-## 19. ⚠️ Hazard Is Not Disaster
+## 20. ⚠️ Hazard Is Not Disaster
 
 The pathogen provides a hazard.
 
@@ -795,6 +857,8 @@ Poverty, restricted land access, insecure income, weak purchasing power and limi
 
 ### Resilience
 
+At household level, resilience means the resources available to absorb a shock without losing subsistence: alternative crops, livestock, stored food, wages, savings, credit, kin support, mobility and effective access to relief. Those buffers were distributed extremely unevenly.
+
 Food reserves, savings, livestock, credit, alternative employment, family networks, other foods, relief and institutional support.
 
 And resilience changes.
@@ -815,7 +879,7 @@ That is why repeated disturbance matters.
 
 ---
 
-## 20. 🌍 Same Organism, Different Human Outcomes
+## 21. 🌍 Same Organism, Different Human Outcomes
 
 The European epidemic gives us a natural comparative question.
 
@@ -854,7 +918,7 @@ The social systems differ.
 
 ---
 
-## 21. 🫀 The Plant Dies First
+## 22. 🫀 The Plant Dies First
 
 The simplest biological chain is:
 
@@ -915,7 +979,7 @@ That is the central distinction.
 
 ---
 
-## 22. 🌾 The Pathogen Has Reached The Edge Of Its Explanatory Power
+## 23. 🌾 The Pathogen Has Reached The Edge Of Its Explanatory Power
 
 By Black '47, something extremely important has happened.
 
@@ -1013,6 +1077,8 @@ Famine, c.1845--7", including Peel's Scientific Commission and competing contemp
 
 -   Fry: "Centuries of Potato Late Blight: Tracking Global Epidemics and
 Managing Future Outbreaks", *Annual Review of Phytopathology* (2026), including David Moore, M. J. Berkeley and contemporary causal debate. https://doi.org/10.1146/annurev-phyto-011325-113146
+
+-   Central Statistics Office: *Farming Since the Famine — General Details*, including reconstructed estimates of pre-Famine potato utilisation for human food, animal feed and seed. https://www.cso.ie/en/media/csoie/releasespublications/documents/agriculture/farmingsincethefamine/General_Details_-_Farming_Since_the_Famine.pdf
 
 ---
 

@@ -383,6 +383,52 @@ That is why the land system cannot be separated cleanly from the later food syst
 
 ---
 
+## 11. 🔄 Land, Labour And Potatoes Form A Loop
+
+For many poor rural households, the relationship between land and labour was not a choice between a subsistence economy and a market economy.
+
+The two could be interlocked.
+
+A labourer might work for a larger farmer while depending upon access to a small plot or conacre ground for household potatoes. Payment could involve cash, payment in kind, or arrangements in which labour and access to land were bound together.
+
+Schematically:
+
+``` text
+COMMERCIAL FARM
+      ↓
+DEMAND FOR LABOUR
+      ↓
+LABOURER / COTTIER
+      ↓
+WAGES / PAYMENT / ACCESS TO LAND
+      ↓
+CONACRE OR SMALL HOLDING
+      ↓
+POTATO CROP
+      ↓
+HOUSEHOLD SUBSISTENCE
+```
+
+This means commercialisation did not simply replace subsistence.
+
+Commercial agriculture could depend upon workers whose own reproduction remained heavily dependent upon a crop grown on rented ground.
+
+That creates a particularly dangerous coupling.
+
+If the potato fails, the household can lose its principal food supply.
+
+If agricultural employment or wages also deteriorate, it can simultaneously lose part of the mechanism by which alternative food might be purchased.
+
+The same household can therefore be exposed through **land, labour and food at once**.
+
+This is one reason household resilience matters.
+
+By **household resilience** here, we mean the resources available to absorb a shock without losing subsistence: land, food stores, livestock, wages, savings, credit, kin support, alternative crops and effective access to relief.
+
+Households possessed those buffers very unevenly.
+
+---
+
 ## 10. 🪜 Subletting, Subdivision And The Demand For Land
 
 Small holdings did not emerge because Irish rural families collectively failed to understand geometry.
@@ -410,7 +456,7 @@ People who organised their lives around yesterday's incentives can then discover
 
 ---
 
-## 11. 🛠️ Who Owns An Improvement?
+## 12. 🛠️ Who Owns An Improvement?
 
 Tenants did not merely sit upon land.
 
@@ -431,7 +477,7 @@ Different arrangements were possible.
 
 ---
 
-## 12. ⚖️ Formal Rights Are Not The Same As Effective Power
+## 13. ⚖️ Formal Rights Are Not The Same As Effective Power
 
 A tenant can possess a legal right without possessing equal practical power.
 
@@ -465,7 +511,7 @@ That question becomes central in:
 
 ---
 
-## 13. 🏛️ The State Is Already Inside The Market
+## 14. 🏛️ The State Is Already Inside The Market
 
 Later Famine policy repeatedly encounters arguments about markets and state intervention.
 
@@ -502,7 +548,7 @@ That distinction will matter enormously once food and rent become impossible to 
 
 ---
 
-## 14. 🏛️ Who Gets To Describe A "Reasonable" Arrangement?
+## 15. 🏛️ Who Gets To Describe A "Reasonable" Arrangement?
 
 Property law does not descend from the sky.
 
@@ -573,7 +619,7 @@ This becomes a central question in:
 
 ---
 
-## 15. 💰 Land Becomes Financial
+## 16. 💰 Land Becomes Financial
 
 An estate can also be a financial object.
 
@@ -615,7 +661,7 @@ This becomes particularly important later when we reach indebted estates, Poor L
 
 ---
 
-## 16. 🧮 The Human Becomes An Economic Unit
+## 17. 🧮 The Human Becomes An Economic Unit
 
 Administration requires abstraction.
 
@@ -678,7 +724,7 @@ The administrative category can therefore be correct and still be catastrophical
 
 ---
 
-## 17. 🫥 The System Favours Dehumanisation
+## 18. 🫥 The System Favours Dehumanisation
 
 This needs precision.
 
@@ -744,7 +790,7 @@ It is:
 
 ---
 
-## 18. 🕸️ Nobody Needs To Control Everything
+## 19. 🕸️ Nobody Needs To Control Everything
 
 A system does not require one mastermind.
 
@@ -800,7 +846,7 @@ That is precisely why the mechanism matters.
 
 ---
 
-## 19. 🫀 Land Is Inside The Body
+## 20. 🫀 Land Is Inside The Body
 
 For the poorest households, the chain can become brutally short:
 
@@ -859,7 +905,7 @@ The body receives the output.
 
 ---
 
-## 20. 🥔 The Biological Event Does Not Understand Property Law
+## 21. 🥔 The Biological Event Does Not Understand Property Law
 
 By 1845, the system contains:
 
@@ -945,6 +991,8 @@ https://www.oireachtas.ie/en/visit-and-learn/history-and-buildings/
 https://www.irishstatutebook.ie/
 -   British and Irish Legal Information Institute --- legislation and
 legal materials --- https://www.bailii.org/
+
+-   *The Irish Hunger*, in *Irish Culture and Colonial Modernity, 1800–2000*, for cottier agriculture and the relationship among labour, small plots and potato subsistence. https://www.cambridge.org/core/books/abs/irish-culture-and-colonial-modernity-18002000/irish-hunger/6B49B4E05758C3B4318D9C66E4D7419E
 
 ---
 

@@ -155,6 +155,33 @@ But neither does the survival of the commercial crop automatically feed the pers
 
 ---
 
+## 4. 🥣 Grain Is Not One Thing
+
+It is tempting to divide the landscape into:
+
+``` text
+POTATOES = IRISH FOOD
+GRAIN    = COMMERCIAL FOOD
+```
+
+That is too simple.
+
+Oats in particular were an important part of Irish diets as well as an agricultural commodity. Wheat, oats and barley differed in their uses, prices, consumers, processing requirements and destinations.
+
+So when this node refers to **grain**, it should not imply that every cereal acre represented the same kind of food or the same relationship to a hungry household.
+
+The distinction matters in both directions.
+
+The continued existence of grain production cannot simply be translated into calories available to starving people.
+
+But neither should grain be imagined as a completely separate export economy with no role in Irish consumption.
+
+The useful question remains:
+
+> **Which food, in which place, owned by whom, at what price, and accessible through what claim?**
+
+---
+
 ## 3. 📊 Food Produced Is Not Food Available To Eat
 
 Agricultural numbers need discipline.
@@ -202,7 +229,7 @@ Every transition requires evidence.
 
 ---
 
-## 4. 🚢 Yes, Food Left Ireland
+## 5. 🚢 Yes, Food Left Ireland
 
 Food exports continued during the Famine.
 
@@ -240,7 +267,7 @@ Timing matters.
 
 ---
 
-## 5. ⚠️ The Trade Numbers Are Not Perfect
+## 6. ⚠️ The Trade Numbers Are Not Perfect
 
 The historical grain statistics are incomplete and sometimes inconsistent.
 
@@ -279,7 +306,7 @@ They cannot erase uncertainty about:
 
 ---
 
-## 6. 🚢 Food Also Entered Ireland
+## 7. 🚢 Food Also Entered Ireland
 
 The other half of the trade system matters just as much.
 
@@ -313,7 +340,7 @@ The question becomes:
 
 ---
 
-## 7. 🌽 Peel's Maize
+## 8. 🌽 Peel's Maize
 
 The British government had already intervened directly in food supply.
 
@@ -351,7 +378,7 @@ The full policy story belongs in:
 
 ---
 
-## 8. ⏳ Imports Can Arrive Too Late
+## 9. ⏳ Imports Can Arrive Too Late
 
 Aggregate figures conceal timing.
 
@@ -386,7 +413,37 @@ A five-year food balance can look substantially more adequate than the food envi
 
 ---
 
-## 9. 💷 Food Existing Is Not Food Affordable
+## 11. ⏱️ The Time Scale Can Change The Answer
+
+Aggregate food balances can conceal a lethal timing problem.
+
+Reconstructions of the years 1846–50 show that very large imports eventually replaced much of the food energy lost from domestic production. Averaged across several years, total food availability can therefore look substantially less catastrophic than the experience of the worst months suggests.
+
+But a body does not eat a five-year average.
+
+Large imports arriving in 1847 cannot retroactively feed somebody who exhausted their potatoes, money or health during the winter of 1846–47.
+
+The information changes with temporal resolution:
+
+``` text
+MULTI-YEAR AVERAGE
+food supply substantially compensated by imports
+
+        ≠
+
+HOUSEHOLD IN WINTER 1846–47
+food needed now
+```
+
+This is not an argument against using aggregate statistics.
+
+It is an argument for asking what they average away.
+
+A system can appear to recover at one temporal scale while people inside it experience irreversible loss at another.
+
+---
+
+## 10. 💷 Food Existing Is Not Food Affordable
 
 Suppose grain is sitting in a market.
 
@@ -427,7 +484,7 @@ So a market can contain food that a starving person cannot buy.
 
 ---
 
-## 10. 🪙 Purchasing Power Is Part Of The Food System
+## 12. 🪙 Purchasing Power Is Part Of The Food System
 
 A person can obtain food through several mechanisms.
 
@@ -490,7 +547,11 @@ If none succeeds, the household goes hungry.
 
 ---
 
-## 11. 🧾 The Household Balance Sheet Is Shrinking
+## 13. 🧾 The Household Balance Sheet Is Shrinking
+
+This is the household-resilience problem.
+
+By **household resilience** here, we mean the resources available to absorb a shock without losing subsistence: stored food, alternative crops, livestock, wages, savings, credit, kin support, mobility and effective access to relief.
 
 Households do not usually move directly from:
 
@@ -544,7 +605,7 @@ The food-access system has memory.
 
 ---
 
-## 12. 🐄 Why Not Eat The Cow?
+## 14. 🐄 Why Not Eat The Cow?
 
 Because seeing food is not owning food.
 
@@ -574,7 +635,7 @@ The landscape can visibly contain food while the body cannot reach it through an
 
 ---
 
-## 13. ⚖️ Why Not Just Take It?
+## 15. ⚖️ Why Not Just Take It?
 
 Because the property system from:
 
@@ -638,7 +699,7 @@ That is the problem developed in:
 
 ---
 
-## 14. 🛒 The Market Does Not Ask Who Needs Food Most
+## 16. 🛒 The Market Does Not Ask Who Needs Food Most
 
 This is mechanism, not moral metaphor.
 
@@ -682,7 +743,7 @@ A functioning market is not necessarily a functioning subsistence system.
 
 ---
 
-## 15. 📈 Price Is Information --- But Information For Whom?
+## 17. 📈 Price Is Information --- But Information For Whom?
 
 Price is a signal.
 
@@ -726,7 +787,7 @@ It can also be information experienced as hunger.
 
 ---
 
-## 16. 🧠 What Does The System Think Food Is For?
+## 18. 🧠 What Does The System Think Food Is For?
 
 The same oat can be several things.
 
@@ -769,7 +830,7 @@ A commodity can move efficiently while a body starves efficiently beside it.
 
 ---
 
-## 17. 🫥 Food Becomes Abstract Too
+## 19. 🫥 Food Becomes Abstract Too
 
 In [📐 English Land Controls](./📐_english_land_controls.md), the human can become:
 
@@ -818,7 +879,7 @@ Administrative accuracy and human catastrophe can coexist.
 
 ---
 
-## 18. 🏪 Markets Can Work While People Die
+## 20. 🏪 Markets Can Work While People Die
 
 Research on Irish prices suggests that wholesale cereal markets did not simply disintegrate.
 
@@ -860,7 +921,7 @@ The market does not possess that second objective unless institutions give it on
 
 ---
 
-## 19. 🏛️ "Do Not Interfere With The Market" Is Still A Policy Position
+## 21. 🏛️ "Do Not Interfere With The Market" Is Still A Policy Position
 
 The state is not outside the market.
 
@@ -905,7 +966,7 @@ That belongs principally in:
 
 ---
 
-## 20. 🚨 Should Exports Have Been Stopped?
+## 22. 🚨 Should Exports Have Been Stopped?
 
 This deserves a real question, not a predetermined slogan.
 
@@ -954,7 +1015,7 @@ The historical question is what combination of interventions could translate foo
 
 ---
 
-## 21. 🇬🇧 Ireland Is Not A Foreign Country In This System
+## 23. 🇬🇧 Ireland Is Not A Foreign Country In This System
 
 During An Gorta Mór, Ireland was constitutionally part of the **United Kingdom of Great Britain and Ireland**.
 
@@ -990,7 +1051,7 @@ That belongs more fully in:
 
 ---
 
-## 22. 🧮 Could Ireland Have Fed Everybody?
+## 24. 🧮 Could Ireland Have Fed Everybody?
 
 This question is legitimate.
 
@@ -1038,7 +1099,7 @@ The more useful question is therefore:
 
 ---
 
-## 23. 🗺️ National Totals Hide Local Hunger
+## 25. 🗺️ National Totals Hide Local Hunger
 
 Ireland is not one market square.
 
@@ -1079,7 +1140,7 @@ Both scales matter.
 
 ---
 
-## 24. 🍲 Relief Creates A New Claim On Food
+## 26. 🍲 Relief Creates A New Claim On Food
 
 Private purchasing power is not the only possible route from food to mouth.
 
@@ -1129,7 +1190,7 @@ and:
 
 ---
 
-## 25. 🫀 Calories Do Not Care Who Owns Them
+## 27. 🫀 Calories Do Not Care Who Owns Them
 
 The body requires:
 
@@ -1174,7 +1235,7 @@ If the chain breaks before consumption, the body receives nothing.
 
 ---
 
-## 26. 🌾 There Was Always Food In Ireland
+## 28. 🌾 There Was Always Food In Ireland
 
 The title is deliberately uncomfortable.
 
@@ -1221,7 +1282,7 @@ That is the historical phenomenon requiring explanation.
 
 ---
 
-## 27. 🕯️ And Nobody Has Necessarily Broken The Law
+## 29. 🕯️ And Nobody Has Necessarily Broken The Law
 
 Return to one person.
 
@@ -1323,6 +1384,8 @@ Deprivation* (1981). Used as a later analytical framework for distinguishing foo
 
 -   Cormac Ó Gráda and Kevin H. O'Rourke, "Migration as Disaster Relief:
 Lessons from the Great Irish Famine", *European Review of Economic History*, on poverty, emigration and differential capacity to escape famine. https://researchrepository.ucd.ie/entities/publication/d54d1001-edb9-4f83-9dab-ffb3f37ff29d
+
+-   Central Statistics Office, *Farming Since the Famine — General Details*, including discussion of potatoes and oats in Irish diet and reconstructed uses of the potato crop. https://www.cso.ie/en/media/csoie/releasespublications/documents/agriculture/farmingsincethefamine/General_Details_-_Farming_Since_the_Famine.pdf
 
 ---
 

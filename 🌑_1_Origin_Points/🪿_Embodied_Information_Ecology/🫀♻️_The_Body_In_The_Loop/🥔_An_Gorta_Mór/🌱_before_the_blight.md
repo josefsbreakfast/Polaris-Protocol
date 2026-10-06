@@ -542,7 +542,25 @@ The closer we get to the Famine, the less useful *the Irish* becomes as an econo
 
 ---
 
-## 14. 🏚️ Poverty Was Already Visible
+## 14. 🗺️ There Was More Than One Rural Ireland
+
+National descriptions can conceal radically different local systems.
+
+Land quality, holding size, crop mix, access to markets, wage labour and dependence upon the potato varied across Ireland.
+
+A household living largely from potatoes grown on a small or marginal western holding was not economically interchangeable with a substantial commercial farmer producing grain or livestock elsewhere.
+
+Nor should east, west, north and south be treated as four internally uniform economies.
+
+The important point is structural:
+
+> **The same crop disease would eventually enter different human vulnerability systems.**
+
+Regional variation therefore belongs inside the explanation before the blight arrives. Later nodes can ask how those differences mapped onto hunger, disease, eviction, emigration and population loss.
+
+---
+
+## 15. 🏚️ Poverty Was Already Visible
 
 The 1841 Census counted more than **eight million people** in Ireland.
 
@@ -586,7 +604,7 @@ It is why so many households had so little room for a major subsistence shock.
 
 ---
 
-## 15. 🌾 A Precarious Agricultural System
+## 16. 🌾 A Precarious Agricultural System
 
 For many poor rural households, access to a small plot of land could function as part of the wage and subsistence system.
 
@@ -644,7 +662,33 @@ It also meant that if the crop failed, the household might not possess an equiva
 
 ---
 
-## 16. 🥔 The Potato Is Not Yet Dead
+## 17. 🔁 Ireland Had Met Subsistence Stress Before
+
+The catastrophe beginning in 1845 was unprecedented in scale and duration.
+
+It was not Ireland's first encounter with harvest failure or severe food stress.
+
+Earlier crises included the devastating subsistence crisis of 1740–41 and serious shortages in the early nineteenth century, while localised potato failures had occurred before *Phytophthora infestans* arrived.
+
+That history matters for two opposite reasons.
+
+First, it prevents us treating agricultural vulnerability as something invented in 1845.
+
+Second, it prevents us treating mass death as the automatic consequence of every bad harvest.
+
+Previous shocks had occurred without producing the same sequence of mortality, displacement and demographic rupture.
+
+That leaves a question for the later administrative nodes:
+
+> **What had governing institutions learned from previous subsistence shocks, and what did they believe those precedents meant when a new kind of crop disease arrived?**
+
+The existence of earlier crises is context.
+
+It is not an argument that the Great Hunger was inevitable.
+
+---
+
+## 18. 🥔 The Potato Is Not Yet Dead
 
 And this is where this node stops.
 
@@ -732,6 +776,10 @@ Depositions'," *Law and History Review* 43(2), 2025 --- https://www.cambridge.or
 Galway and the 1641 depositions," *Irish Historical Studies* --- https://www.cambridge.org/core/journals/irish-historical-studies/article/crowds-and-political-violence-in-early-modern-ireland-galway-and-the-1641-depositions/67C45B38D111E5D555E7F8966C82AE26
 -   University College Cork, "The Great Irish Famine, 1845--1852" ---
 https://www.ucc.ie/en/media/projectsandcentres/irishrevolution/documents/U1.ASHORTHISTORYOFTHEFAMINE.pdf
+
+-   Cormac Ó Gráda, “Famine in Ireland, 1300–1900”, UCD Centre for Economic Research Working Paper WP2015/13, for the longer history of Irish subsistence crises and food-market conditions. https://researchrepository.ucd.ie/server/api/core/bitstreams/1ac82109-07f8-4d0f-afc7-f07d16a438e0/content
+
+-   *The Irish Hunger*, in *Irish Culture and Colonial Modernity, 1800–2000*, for the classed and regional relationship among cottier agriculture, labour, small holdings and potato dependence. https://www.cambridge.org/core/books/abs/irish-culture-and-colonial-modernity-18002000/irish-hunger/6B49B4E05758C3B4318D9C66E4D7419E
 
 ---
 
