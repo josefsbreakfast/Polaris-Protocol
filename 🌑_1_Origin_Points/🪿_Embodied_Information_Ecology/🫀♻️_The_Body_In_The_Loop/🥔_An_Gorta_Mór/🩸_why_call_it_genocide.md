@@ -5,6 +5,15 @@
 
 ---
 
+### 🎵 Dàwna
+
+- [🐦‍⬛ Dàwna — Official Website](https://dawnamusic.com/)
+- [🌳 Dàwna — Linktree](https://linktr.ee/dawnaofficial)
+- [🩸 *The Famine* — Listen / HyperFollow](https://distrokid.com/hyperfollow/dwna/the-famine)
+
+---
+
+
 ## 🛰️ Orientation — What The Fuck Do We Call This?
 
 The potato blight explains why potatoes died.
