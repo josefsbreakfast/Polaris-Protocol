@@ -208,6 +208,15 @@ The gentlemen have not managed to standardise their own reasoning, but they have
 
 ---
 
+> “So where shall I go — somebody?  
+> Who do I know? Nobody!  
+> All my dearest companions  
+> Have always been villains and thieves...  
+> So at my time of life,  
+> I should start turning over new leaves...?“  
+
+---
+
 ## 🕯️ 6. Nancy and Bet — No, I Am Not Secretly Rewriting Their Religion
 
 Now for the women. Specifically, **Nancy and Bet**.
@@ -223,6 +232,28 @@ The useful question is therefore not *Which archetype is Nancy really?* It is *W
 Bet matters because she helps prevent us from making Nancy's social environment do all the explanatory work. Sharing a setting does not mean sharing a narrative function. Nancy is given a greater moral and tragic centrality. The contrast allows us to ask how literary attention selects one woman for a particular form of sympathetic recognition.
 
 And there is something rather grim in a system that can recognise a marginalised woman's goodness most dramatically when she risks everything for somebody else. A woman should not have to become a martyr before the respectable world will admit that she has a conscience.
+
+---
+
+> “I'm reviewing the situation.  
+> If you want to eat — you've got to earn a bob!  
+> Is it such a humiliation,  
+> For a robber to perform an honest job?  
+> So a job I'm getting, possibly,  
+> I wonder who my boss'll be?  
+> I wonder if he'll take to me...?  
+> What bonuses he'l make to me...?  
+> I'll start at eight and finish late,  
+> At normal rate, and all..but wait!  
+>   
+> ...I think I'd better think it out again.  
+> 
+> What happens when I'm seventy?  
+> Must come a time...seventy.  
+> When you're old, and it's cold,  
+> And who cares if you live or you die,  
+> Your one consolation's the money  
+> You may have put by...”  
 
 ---
 
@@ -281,7 +312,25 @@ So the question is not *Which of them wins the oppression contest?* The question
 
 Fagin's marginalisation does not absolve his exploitation of children. Nancy's courage does not make her circumstances safe. Neither person's position cancels the other's.
 
-This is also why solidarity requires more than announcing that everybody is disadvantaged in some way. It requires recognising the *specific* harms somebody else faces, including harms from which one may be partly protected, and taking responsibility for the power one actually has.
+This is also why solidarity requires more than announcing that everybody is disadvantaged in some way. It requires recognising the *specific* harms somebody else faces, including harms from which one may be partly protected, and taking responsibility for the power one actually has.  
+
+---
+
+> “I'm reviewing the situation.  
+> I'm a bad 'un and a bad 'un I shall stay!  
+> You'll be seeing no transformation,  
+> But it's wrong to be a rogue in ev'ry way.  
+>   
+> I don't want nobody hurt for me,  
+> Or made to do the dirt for me.  
+> This rotten life is not for me.  
+> It's getting far too hot for me.  
+> Don't want no one to rob for me.  
+> But who will find a job for me,  
+> There is no in between for me;  
+> But who will change the scene for me?  
+>   
+> ...I think I'd better think it out again!”  
 
 ---
 
