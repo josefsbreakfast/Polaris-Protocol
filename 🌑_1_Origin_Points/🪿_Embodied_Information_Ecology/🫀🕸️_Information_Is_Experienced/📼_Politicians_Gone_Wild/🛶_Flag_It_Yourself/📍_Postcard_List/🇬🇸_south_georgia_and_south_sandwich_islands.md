@@ -666,6 +666,10 @@ Do not ruin it by trying to take a flag selfie with an elephant seal.
 
 ---
 
+- [📰: BBC News: “World's largest penguin colony hit by 'alarming' decline in numbers”](https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o)  
+
+---
+
 ## Footer
 
 South Georgia and the South Sandwich Islands is a postcard node inside 📍 Postcard List, part of 🛶 Flag It Yourself.
@@ -685,4 +689,4 @@ Several were asked to stop treating biosecurity as optional because their boots 
 
 Survivor authorship is sovereign. Containment is never neutral.
 
-_Last updated: 2026-06-0
+_Last updated: 2026-10-07_
