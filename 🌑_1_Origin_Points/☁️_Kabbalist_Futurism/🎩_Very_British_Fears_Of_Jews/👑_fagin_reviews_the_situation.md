@@ -172,6 +172,24 @@ To establish transmission rather than resemblance, we would need to trace partic
 
 ---
 
+> “I'm reviewing the situation,  
+> I must quickly look up ev'ryone I know.    
+> Titled people — with a station —  
+> Who can help me make a real impressive show!  
+> I will own a suite at Claridges’,  
+> And run a fleet of carriages,  
+> And wave at all the duchesses  
+> With friendliness, as much as is  
+> Befitting of my new estate...  
+>   
+> ‘Good morrow to you, magistrate!’  
+>  
+> Oh gawd!  
+>   
+> ...I think I'd better think it out again.“  
+
+---
+
 ## 🇺🇸 5. America, Hygiene, and the Problem with Everybody's Equipment
 
 The Atlantic comparison is revealing because **the same bodily practice can carry very different social meanings in different information environments**.
