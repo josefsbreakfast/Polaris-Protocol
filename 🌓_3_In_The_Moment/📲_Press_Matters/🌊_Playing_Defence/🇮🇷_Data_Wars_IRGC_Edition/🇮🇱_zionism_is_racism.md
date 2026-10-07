@@ -14,6 +14,8 @@ If I am offended? Perhaps I should be even more motivated to stop what looks lik
 
 [📹: Bisan Owda, via TikTok: “IsraHell is killing an average of 70 Palestinians every day. While nations argue about whether there is enough food in Gaza for 2 weeks or a month. Death continues. Debates continue. Share this. Demand more than words.”](https://vm.tiktok.com/ZN8kP15U9/)  
 
+The people participating in this violence are not stopping their violence in the current balance of incentives; deincentivise the behaviour.  
+
 ---
 
 ## 🛰️ Orientation
