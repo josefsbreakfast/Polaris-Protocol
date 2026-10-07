@@ -1,6 +1,18 @@
 # 🇮🇱 Zionism Is Racism
-**First created:** 2026-02-01 | **Last updated:** 2026-10-06  
+**First created:** 2026-02-01 | **Last updated:** 2026-10-07  
 *The 2026 Green Party motion as a worked case in Zionism, racism, responsible reporting, attribution hygiene, minority safety, and democratic information defence.*
+
+---
+
+Before any outcry for potentials, how loudly are you crying out for the most affected?  
+
+The State of Israel is still decreasing the population of the Occupied Palestinian Territories. Whatever you call that? Cry out for it. Act.  
+
+When her people are dying? Idgaf what she is calling the legal entity responsible, quite frankly.  
+
+If I am offended? Perhaps I should be even more motivated to stop what looks like a process of genocide, even if I never want to believe that my brothers and sisters would do that.  
+
+[📹: Bisan Owda, via TikTok: “IsraHell is killing an average of 70 Palestinians every day. While nations argue about whether there is enough food in Gaza for 2 weeks or a month. Death continues. Debates continue. Share this. Demand more than words.”](https://vm.tiktok.com/ZN8kP15U9/)  
 
 ---
 
@@ -1436,4 +1448,4 @@ information environments, democratic defence, media fidelity, attribution hygien
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-06_
+_Last updated: 2026-10-07_
