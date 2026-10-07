@@ -113,6 +113,15 @@ And this is where Nancy becomes impossible to ignore.
 
 ---
 
+> “A wife you can keep, anyway.  
+> I'd rather sleep, anyway.  
+> Left without anyone in the world,  
+> And I'm starting from now:  
+> So "how to win friends and to influence people?"  
+> — So how…?  
+
+---
+
 ## 🏛️ 3. The Right Sort of People Have the Right Sort of References
 
 British respectability is not simply an abstract moral quality. It has gatekeepers: employers, magistrates, religious authorities, property holders, families, schools, neighbourhoods and social networks. It is shaped by class, accent, religion, money and who will vouch for you.
