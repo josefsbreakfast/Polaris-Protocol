@@ -442,6 +442,22 @@ No lyric excerpts, page numbers, actor-specific performance descriptions, or arc
 
 ---
 
+> 🇬🇧: We expect you to behave respectably.
+>
+> 🎩🕎: Naturally. And what do I receive in return?
+>
+> 🇬🇧: The opportunity to be considered respectable.
+>
+> 🎩🕎: Considered?
+>
+> 🇬🇧: Subject to certain conditions.
+>
+> 🎩🕎: Ah. So you've offered me a contract in which I assume all the obligations and you retain all the discretion.
+>
+> 🇬🇧: That's rather an uncharitable interpretation.
+>
+> 🎩🕎: **I'M REVIEWING THE SITUATION.**
+
 ---
 
 ## 🌌 Constellations
