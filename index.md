@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-07 22:17:58 UTC_
+_Generated on 2026-10-07 22:34:52 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -78,6 +78,8 @@ _Generated on 2026-10-07 22:17:58 UTC_
       - [`📿_whole_tree_process_stack.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🌾_Granary_Management/📿_whole_tree_process_stack.md)
     - [**🍷_Always_Spiritually_In_Jerusalem/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🍷_Always_Spiritually_In_Jerusalem/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🍷_Always_Spiritually_In_Jerusalem/README.md)
+    - [**🎩_Very_British_Fears_Of_Jews/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🎩_Very_British_Fears_Of_Jews/)
+      - [`notes.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🎩_Very_British_Fears_Of_Jews/notes.md)
     - [**📚_Which_Yisrael/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/README.md)
       - [`⚖️_ihra_jda_and_which_yisrael.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/⚖️_ihra_jda_and_which_yisrael.md)
