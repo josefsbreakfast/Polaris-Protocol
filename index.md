@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-07 20:44:01 UTC_
+_Generated on 2026-10-07 20:46:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2503,7 +2503,6 @@ _Generated on 2026-10-07 20:44:01 UTC_
         - [`🪜_temporal_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/🪜_temporal_containment.md)
       - [**🥔_An_Gorta_Mór/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/README.md)
-        - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/notes.txt)
         - [`☘️_land_and_independence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/☘️_land_and_independence.md)
         - [`☘️_remembering_an_gorta_mór.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/☘️_remembering_an_gorta_mór.md)
         - [`☘️_remembering_an_gorta_mór.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/☘️_remembering_an_gorta_mór.md)
@@ -10173,6 +10172,11 @@ _Generated on 2026-10-07 20:44:01 UTC_
         - [`🪞_i_know_why_youre_all_so_invested_now.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🪞_i_know_why_youre_all_so_invested_now.md)
         - [`🪻_take_me_home.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🪻_take_me_home.md)
         - [`🫁_i_cannot_expand.md`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/✨_Letters/🫁_i_cannot_expand.md)
+      - [**🌑_1_Origin_Points/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌑_1_Origin_Points/)
+        - [**🪿_Embodied_Information_Ecology/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/)
+          - [**🫀♻️_The_Body_In_The_Loop/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/)
+            - [**🥔_An_Gorta_Mór/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/)
+              - [`notes.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/notes.txt)
       - [**🌕_5_Long_Strategies/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌕_5_Long_Strategies/)
         - [**✏️_WAAAA/**](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌕_5_Long_Strategies/✏️_WAAAA/)
           - [`notes.txt`](🏮_Admin_Nest/🗃️_Archive/🗄️_Room_101/🌕_5_Long_Strategies/✏️_WAAAA/notes.txt)
