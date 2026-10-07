@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-07 03:22:59 UTC_
+_Generated on 2026-10-07 05:32:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2504,6 +2504,7 @@ _Generated on 2026-10-07 03:22:59 UTC_
       - [**🥔_An_Gorta_Mór/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/notes.txt)
         - [`☘️_land_and_independence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/☘️_land_and_independence.md)
+        - [`☘️_remembering_an_gorta_mór.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/☘️_remembering_an_gorta_mór.md)
         - [`☘️_remembering_an_gorta_mór.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/☘️_remembering_an_gorta_mór.md)
         - [`🇬🇧_implications_for_unionism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🇬🇧_implications_for_unionism.md)
         - [`🇬🇧_what_britain_knew.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🇬🇧_what_britain_knew.md)
@@ -2521,6 +2522,7 @@ _Generated on 2026-10-07 03:22:59 UTC_
         - [`🥔_phytophthora_infestans.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🥔_phytophthora_infestans.md)
         - [`🩸_why_call_it_genocide.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🩸_why_call_it_genocide.md)
         - [`🪦_how_and_why_people_died.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🪦_how_and_why_people_died.md)
+        - [`🪶_tied_twice_to_land_back.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🪶_tied_twice_to_land_back.md)
         - [`🫀_bodies_in_bronze.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🫀_bodies_in_bronze.md)
       - [**🧬_Algorithmic_Endocrinology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🧬_Algorithmic_Endocrinology/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🧬_Algorithmic_Endocrinology/README.md)
