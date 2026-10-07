@@ -7,7 +7,7 @@
 
 ### 🎵 Dàwna
 
-- [📲 Dàwna — TikTok](https://www.tiktok.com/@dawnaofficial) – *appears most active on TT; remember people have to fund this with wages etc, and G-d forbid might even have family and lives and shit*  
+- [📲 Dàwna — TikTok](https://www.tiktok.com/@dawna_music) – *appears most active on TT; remember people have to fund this with wages etc, and G-d forbid might even have family and lives and shit*  
 - [🐦‍⬛ Dàwna — Official Website](https://dawnamusic.com/)
 - [🌳 Dàwna — Linktree](https://linktr.ee/dawnaofficial)
 - [🩸 *The Famine* — Listen / HyperFollow](https://distrokid.com/hyperfollow/dwna/the-famine)
