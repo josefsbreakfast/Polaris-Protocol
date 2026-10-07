@@ -434,24 +434,33 @@ No lyric excerpts, page numbers, actor-specific performance descriptions, or arc
 
 ---
 
+---
+
 ## 🌌 Constellations
 
-- [🎩 Very British Fears of Jews — cluster](./README.md) — the wider literary and cultural investigation.
-- [☁️ Kabbalist Futurism](../README.md) — diasporic thought, identity and cultural inheritance.
-- [🌑 Origin Points](../../README.md) — the broader conceptual architecture.
-- 🪞 Jewish masculinity and feminisation; 🕯️ literary Jewish femininity and the fallen woman; 🧬 racialised bodies; ⚖️ relational power; 🧰 communal skills and material exits; 🔄 embodied information ecology.
+🎩 🪞 🧬 🕯️ ⚖️ — Jewish masculinity and racialisation; conditional belonging; Victorian literary femininity; gendered vulnerability; power, agency and solidarity.
+
+---
 
 ## ✨ Stardust
 
-fagin, reviewing the situation, lionel bart, oliver, oliver twist, dickens, nancy, bet, bill sikes, jewish masculinity, jewess, nadia valman, sander gilman, circumcision, british antisemitism, conversion, assimilation, american hygiene culture, orientalism, patriarchy, respectability, poverty, intersectionality, literary performance, diaspora, solidarity, cybernetics, shiny things
+jewish masculinity, british antisemitism, literary archetypes, gendered power, conditional assimilation, racialised bodies, victorian literature, fagin, nancy, reviewing the situation, oliver twist
 
 ---
 
 ## 🏮 Footer
 
-*👑 Fagin Reviews the Situation* — Polaris Protocol, Origin Points / Kabbalist Futurism / Very British Fears of Jews.
+*👑 Fagin Reviews the Situation* is part of the **Polaris Protocol**, within **Origin Points → Kabbalist Futurism → Very British Fears of Jews**.
 
-> 📡 **Return to:** [🎩 Very British Fears of Jews](./README.md) · [☁️ Kabbalist Futurism](../README.md) · [🌑 Origin Points](../../README.md) · [🌌 Polaris Protocol](../../../README.md)  
-> 🔝 [Back to top](#top)
+This node examines Jewish masculinity, conditional assimilation, gendered constraints and the distribution of power through Dickens's *Oliver Twist* and Lionel Bart's *Oliver!*.
+
+> 🏮 Return To:
+>
+> - [🎩 Very British Fears of Jews](./README.md) — *cluster*
+> - [☁️ Kabbalist Futurism](../README.md) — *parent*
+> - [🌑 Origin Points](../../README.md) — *grandparent*
+> - [🌌 Polaris Protocol — Root](../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-10-08_
