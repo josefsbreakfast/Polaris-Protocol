@@ -87,19 +87,19 @@ The offer sounds lovely. Come inside. Become respectable. Join an approved insti
 
 There is, naturally, an application process.
 
-> **Britain:** Become respectable.  
-> **Fagin:** Splendid. Will I be accepted?  
-> **Britain:** We shall need to review your application.  
-> **Fagin:** And my friends?  
-> **Britain:** Unsuitable.  
-> **Fagin:** My way of earning a living?  
-> **Britain:** Unacceptable.  
-> **Fagin:** My habits?  
-> **Britain:** Concerning.  
-> **Fagin:** My Jewishness?  
-> **Britain:** We were hoping you might not bring that up.  
-> **Fagin:** And if I change everything?  
-> **Britain:** We cannot guarantee an outcome.
+> 🇬🇧: Become respectable.  
+> 🎩🕎: Splendid. Will I be accepted?  
+> 🇬🇧: We shall need to review your application.  
+> 🎩🕎: And my friends?  
+> 🇬🇧: Unsuitable.  
+> 🎩🕎: My way of earning a living?  
+> 🇬🇧: Unacceptable.  
+> 🎩🕎: My habits?  
+> 🇬🇧: Concerning.  
+> 🎩🕎: My Jewishness?  
+> 🇬🇧: We were hoping you might not bring that up.  
+> 🎩🕎: And if I change everything?  
+> 🇬🇧: We cannot guarantee an outcome.
 
 The cruel part is the sequencing. A marginalised person may be asked to relinquish their existing relationships, practices, autonomy and survival strategies **before** the institution offering acceptance has made any reliable commitment to accept them. If the bargain fails, they have lost the old safety net without obtaining a new one.
 
@@ -156,11 +156,11 @@ British Christian missions to Jews, including the London Society for Promoting C
 
 But the conceptual problem is clear. If Jewishness is treated as a mistaken religion, conversion appears to offer a route to Christian belonging. If Jewishness is then imagined as an indelible bodily or racial fact, conversion cannot deliver the acceptance it promised. The standard changes while the applicant is still standing at the counter.
 
-> **Fagin:** I have complied with the religious requirement.  
-> **Britain:** Ah. Unfortunately, there is also a physical requirement.  
-> **Fagin:** Was this in the original paperwork?  
-> **Britain:** It is more of an unwritten convention.  
-> **Fagin:** Naturally.
+> 🎩🕎: I have complied with the religious requirement.  
+> 🇬🇧: Ah. Unfortunately, there is also a physical requirement.  
+> 🎩🕎: Was this in the original paperwork?  
+> 🇬🇧: It is more of an unwritten convention.  
+> 🎩🕎: Naturally.
 
 The history is not reducible to circumcision, and circumcision does not define all Jewish men. Jewish men have different bodies, histories and relationships to ritual, including trans Jewish men and uncircumcised Jewish men. The analytical point is the power of an **imagined bodily category** to organise acceptance and rejection.
 
@@ -297,12 +297,12 @@ Here is a point that tends to become absurd if we talk about privilege as though
 
 Fagin is a man. His masculinity affords him some protections from particular forms of gendered vulnerability that Nancy faces. That is real. It does not follow that he experiences being a man as an enormous personal advantage while he is poor, criminalised, Jewish, socially marginal and living in circumstances that are hardly a triumph of the British housing system.
 
-> **The patriarchal order:** Congratulations, sir. Certain forms of gendered subordination are less likely to be imposed upon you.  
-> **Fagin:** Can I exchange that for a roof?  
-> **The patriarchal order:** No.  
-> **Fagin:** A regular income?  
-> **The patriarchal order:** Also no.  
-> **Fagin:** Then I shall have to review the situation.
+> 🇬🇧: Congratulations, sir. Certain forms of gendered subordination are less likely to be imposed upon you.  
+> 🎩🕎: Can I exchange that for a roof?  
+> 🇬🇧: No.  
+> 🎩🕎: A regular income?  
+> 🇬🇧: Also no.  
+> 🎩🕎: Then I shall have to review the situation.
 
 The point is not that men cannot experience sexual violence, coercion or abuse. They can. The point is that **patterns of exposure differ**, and that a protection can operate without becoming a general feeling of comfort, safety or status.
 
