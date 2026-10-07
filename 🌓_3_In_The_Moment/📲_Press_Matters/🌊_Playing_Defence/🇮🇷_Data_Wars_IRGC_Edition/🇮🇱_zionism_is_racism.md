@@ -16,6 +16,10 @@ If I am offended? Perhaps I should be even more motivated to stop what looks lik
 
 The people participating in this violence are not stopping their violence in the current balance of incentives; deincentivise the behaviour.  
 
+If you want them to stop, you have to raise the cost of death.  
+
+Act as if every life is priceless.  
+
 ---
 
 ## 🛰️ Orientation
