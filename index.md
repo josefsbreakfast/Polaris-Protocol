@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-07 20:56:59 UTC_
+_Generated on 2026-10-07 21:00:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -69,6 +69,7 @@ _Generated on 2026-10-07 20:56:59 UTC_
   - [**☁️_Kabbalist_Futurism/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/)
     - [**☔️_Holding_Memories/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/☔️_Holding_Memories/)
       - [`notes.txt`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/☔️_Holding_Memories/notes.txt)
+      - [`🌿_solidarity_is_anti_racism.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/☔️_Holding_Memories/🌿_solidarity_is_anti_racism.md)
       - [`🪨_stolpersteine.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/☔️_Holding_Memories/🪨_stolpersteine.md)
     - [**🌾_Granary_Management/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🌾_Granary_Management/)
       - [`notes.txt`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🌾_Granary_Management/notes.txt)
