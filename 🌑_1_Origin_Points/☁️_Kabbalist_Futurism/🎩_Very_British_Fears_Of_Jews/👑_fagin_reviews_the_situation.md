@@ -62,7 +62,22 @@ The joke works because modern consumer markets spend enormous effort making the 
 
 ---
 
-## 💍 2. The Wife Is Britain, Unfortunately
+> “I'm reviewing the situation…  
+> Can a fellow be a villain all his life?  
+> All the trials and tribulations!  
+> Better settle down and get myself a wife.  
+> 
+> And a wife would cook and sew for me,  
+> And come for me, and go for me,  
+> The finger, she will wag at me.  
+> The money she will take from me.  
+> A misery, she'll make from me...  
+>  
+> ...I think I'd better think it out again!“  
+
+---
+
+## 💍 2. The Wife Is “Respectable” Britain, Unfortunately
 
 Here is my interpretive proposal: **Fagin's imaginary wife can be read as respectable Britain**.
 
