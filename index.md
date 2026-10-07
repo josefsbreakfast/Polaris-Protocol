@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-07 22:34:52 UTC_
+_Generated on 2026-10-07 22:44:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -79,6 +79,7 @@ _Generated on 2026-10-07 22:34:52 UTC_
     - [**🍷_Always_Spiritually_In_Jerusalem/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🍷_Always_Spiritually_In_Jerusalem/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🍷_Always_Spiritually_In_Jerusalem/README.md)
     - [**🎩_Very_British_Fears_Of_Jews/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🎩_Very_British_Fears_Of_Jews/)
+      - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🎩_Very_British_Fears_Of_Jews/README.md)
       - [`notes.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🎩_Very_British_Fears_Of_Jews/notes.md)
     - [**📚_Which_Yisrael/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/README.md)
