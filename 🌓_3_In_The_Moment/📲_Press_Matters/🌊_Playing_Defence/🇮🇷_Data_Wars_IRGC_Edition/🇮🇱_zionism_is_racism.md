@@ -20,6 +20,10 @@ If you want them to stop, you have to raise the cost of death.
 
 Act as if every life is priceless.  
 
+[Solidarity.](https://vm.tiktok.com/ZN8kqphKF/)  
+
+Arm in arm is the only way to land.  
+
 ---
 
 ## 🛰️ Orientation
