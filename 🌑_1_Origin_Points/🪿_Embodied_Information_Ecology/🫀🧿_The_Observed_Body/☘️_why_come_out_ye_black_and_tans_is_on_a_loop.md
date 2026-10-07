@@ -1,6 +1,7 @@
-# ☘️ Why *Come Out Ye Black and Tans* Is On A Loop  
-**First created:** 2026-10-06 | **Last updated:** 2026-10-06  
-*Tl;dr: Niamh Cinn Óir says “nope”.*
+# ☘️ Why *Come Out Ye Black and Tans* Is On A Loop
+
+**First created:** 2026-10-06 | **Last updated:** 2026-10-07  
+*Tl;dr: Niamh Cinn Óir says "nope".*
 
 ---
 
@@ -146,7 +147,7 @@ The observer does not get sole authorship of what observation means.
 
 Then the song turns around and asks:
 
-> "Where are the sneers and jeers  
+> "Where are the sneers and jeers
 > That you loudly let us hear?"
 
 This is a different operation.
@@ -215,7 +216,7 @@ to:
 
 Then comes the demand:
 
-> "Come out ye Black and Tans  
+> "Come out ye Black and Tans
 > Come out and fight me like a man"
 
 For me, the psychologically important word is:
@@ -454,7 +455,8 @@ Quite the reverse.
 
 My emotional response is increasingly:
 
-> **GET TYE FUCK OFF MY FIELD AND AWAY FROM MY HORSE AND OFF MY FUCKING ISLAND, ANDREW.**
+> **GET THE FUCK OFF MY FIELD AND AWAY FROM MY HORSE AND OFF MY FUCKING
+> ISLAND, ANDREW.**
 
 ---
 
@@ -639,7 +641,8 @@ It can move because several of these things happened together.
 
 The disciplined statement is:
 
-> **I observed the field shift. I have not thereby established what caused the shift.**
+> **I observed the field shift. I have not thereby established what
+> caused the shift.**
 
 That is still data.
 
@@ -755,49 +758,249 @@ This is not a factual character assessment of Andrew.
 
 This is the imaginary Andrew who has developed during prolonged exposure to the information environment.
 
-Imaginary Andrew hears the challenge in the song and immediately becomes concerned about the uniform.
+Unfortunately, there is a problem with the earlier seamstress joke.
 
-> 👑 "But I won't look pretty 🥺"
->
-> "The seamstresses are on strike."
->
-> 👑 "...why?"
->
-> "Poor wages. Excessive hours. Unsafe conditions. Management won't negotiate."
->
-> 👑 "Where do they need me?"
->
-> "Andrew, you were literally deployed to stop---"
->
-> 👑 **"NOT IN THAT STITCHING THEY'RE NOT."**
+**THE SEAMSTRESSES WERE ALREADY PROTESTING THE BLACK AND TANS.**
 
-Imaginary Andrew has discovered class consciousness through tailoring.
+They do not require Imaginary Andrew to introduce them to class consciousness.
 
-This is unfortunate for everybody.
+They have got politics.
 
-Five minutes later:
+They have got grievances.
 
-> 👑 "I have reviewed the matter."
+They have apparently looked at the prevailing security arrangements and reached their own conclusions.
+
+Imaginary Andrew has merely arrived late.
+
+Which creates a substantially funnier operational problem.
+
+> 👑 "Why aren't the ladies working?"
 >
-> "Have you?"
+> "They're protesting."
 >
-> 👑 "The ladies' demands are entirely reasonable."
+> 👑 "About what?"
 >
-> "You have been here twelve minutes."
+> "The Black and Tans."
 >
-> 👑 "One of them showed me the buttonholes."
+> 👑 "Ah."
+>
+> "Andrew, you are currently on the British side of this."
+>
+> 👑 "Yes, yes, I understand that."
+>
+> "Good."
+>
+> 👑 "But I've seen the buttonholes."
+>
+> "What?"
+>
+> 👑 **"I've seen the buttonholes."**
+>
+> "And?"
+>
+> 👑 "Exquisite."
+>
+> "They are protesting British counterinsurgency."
+>
+> 👑 "Yes, but presumably they won't make my buttonholes while we're
+> counterinsurging them."
+>
+> "That is not normally how military planning works."
+>
+> 👑 "Well, perhaps that's the problem."
+
+Imaginary Andrew has identified a previously overlooked weakness in British imperial strategy:
+
+**sometimes the people you are attempting to suppress possess skills you personally would quite like them to continue using.**
+
+This creates a dilemma.
+
+> 👑 "So what are you proposing?"
+>
+> "That we suppress the protest."
+>
+> 👑 "No."
+>
+> "No?"
+>
+> 👑 "Not *yet*."
+>
+> "We're supposed to be here."
+>
+> 👑 "I know."
+>
+> "To enforce British authority."
+>
+> 👑 "Yes."
+>
+> "Against the people currently protesting us."
+>
+> 👑 "Yes."
+>
+> "So---"
+>
+> 👑 "Could we perhaps pretend we're not invading for a bit?"
 >
 > "..."
 >
-> 👑 "**UNACCEPTABLE.**"
+> 👑 "They make my buttonholes."
+>
+> "Andrew."
+>
+> 👑 "Then, once the buttonholes are completed, we can revisit the
+> invasion."
+>
+> "You are proposing a temporary cessation of hostilities for
+> tailoring."
+>
+> 👑 "I'm proposing **pragmatism**."
 
-And that is how the eijit middle child accidentally joins the picket line.
+Unfortunately, the temporary cessation creates further problems.
+
+The seamstresses continue talking.
+
+Imaginary Andrew continues listening.
+
+This was not included in the operational plan.
+
+> 👑 "They say we're behaving appallingly."
+>
+> "Yes, Andrew. They're protesting us."
+>
+> 👑 "No, but they've given examples."
+>
+> "Please stop interviewing the seamstresses."
+>
+> 👑 "One of them has documentation."
+>
+> "Andrew."
+>
+> 👑 "And the lady doing the cuffs says we're bastards."
+>
+> "ANDREW."
+>
+> 👑 "I'm beginning to think the buttonholes may not be the central
+> issue."
+
+**FUCK.**
+
+The ceasefire has lasted too long.
+
+Imaginary Andrew has accidentally acquired context.
+
+What began as:
+
+``` text
+PROBLEM:
+cannot invade until tailoring completed
+```
+
+has developed into:
+
+``` text
+PROBLEM:
+seamstresses have explained why invasion bad
+
+SECONDARY_PROBLEM:
+their account is distressingly coherent
+
+TERTIARY_PROBLEM:
+still need buttonholes
+```
+
+Eventually somebody attempts to restore discipline.
+
+> "Your uniform is finished."
+>
+> 👑 "Excellent."
+>
+> "We can proceed."
+>
+> 👑 "With what?"
+>
+> "The operation."
+>
+> 👑 "Against the protestors."
+>
+> 👑 "..."
+>
+> "Andrew?"
+>
+> 👑 "These protestors?"
+>
+> "Yes."
+>
+> 👑 "The buttonhole ladies?"
+>
+> "Yes."
+>
+> 👑 🥺
+>
+> "Oh, for God's sake."
+
+And thus Imaginary Andrew discovers an important principle of information ecology:
+
+**proximity can make abstraction considerably harder to maintain.**
+
+It is much easier to suppress:
+
+`HOSTILE POPULATION`
+
+than:
+
+`Máire who has just spent forty minutes explaining sleeve construction and also why she would quite like the Black and Tans to fuck off.`
+
+☘️: *So he's joined the struggle?*
+
+**NO.**
+
+He has developed a conflict of interest.
+
+☘️: *Because he supports Irish independence?*
+
+**BECAUSE HE'S SEEN THE BUTTONHOLES.**
+
+> 👑 "They really are exceptional."
+>
+> **OFF THE FIELD, ANDREW.**
+
+This is the useful correction underneath the stupid.
+
+The seamstresses do not become political because Andrew notices them.
+
+**Their politics pre-exist his observation.**
+
+They have already observed the force around them.
+
+They have already interpreted what it means.
+
+They have already reached conclusions.
+
+They have already acted.
+
+The supposedly powerful observer arrives expecting to encounter a labour supply and instead encounters **other observers**.
+
+That matters in a node about the observed body.
+
+The body being watched is not necessarily waiting passively to receive the observer's interpretation.
+
+It may already be looking back.
+
+It may already know things about the observer.
+
+It may already have organised.
+
+And if the observer hangs around long enough because, unfortunately, he requires excellent buttonholes, he may accidentally acquire enough context to discover that the people he has classified as objects of policy possess their own information about the policy.
+
+Task failed successfully.
 
 ☘️: *Are we keeping him?*
 
 **NO.**
 
-Solidarity noted.
+Temporary tailoring truce noted.
+
+Momentary recognition of local political agency noted.
 
 **OFF THE FIELD.**
 
@@ -821,7 +1024,8 @@ The internet is enormous.
 
 Unfortunately, possession of a territorial title then raises a further administrative question.
 
-> ☘️ "Yes, you have a title, but is there sufficient commitment to wood acreage, sir?"
+> ☘️ "Yes, you have a title, but is there sufficient commitment to wood
+> acreage, sir?"
 >
 > 👑 "I am Baron Killyleagh."
 >
@@ -873,21 +1077,31 @@ That is for peasants.
 
 The seamstresses were different.
 
-Their industrial dispute presented an immediate strategic threat to whether he would **look pretty**.
+They had already identified the political problem perfectly well without assistance from the British constitutional settlement.
 
-Imaginary Andrew's developing political philosophy can therefore be summarised as follows:
+Imaginary Andrew's contribution was to arrive, discover that the women were protesting **his own fucking side**, propose a brief suspension of imperial policy in the interests of tailoring, and then remain in the room for long enough to acquire context.
 
--   workers' rights: surprisingly robust when epaulettes are endangered;
+His developing political philosophy can therefore be summarised as follows:
+
+-   workers' political agency: belatedly discovered after asking why
+nobody is sewing;
+-   counterinsurgency: vulnerable to women being visibly unimpressed;
+-   ceasefires: available where buttonhole continuity requires;
+-   contextual learning: dangerous side effect of prolonged tailoring
+negotiations;
 -   environmentalism: enthusiastic;
--   manual participation in environmentalism: constitutionally impossible;
--   horse policy: under formal review following repeated complaints from the horse;
+-   manual participation in environmentalism: constitutionally
+impossible;
+-   horse policy: under formal review following repeated complaints from
+the horse;
 -   land reform: 👑 *"Steady on."*
 
 Having a territorial title does not satisfy the field.
 
 The title is merely an application to be assessed according to local ecological requirements.
 
-> ☘️ "Yes, yes, Baron Killyleagh. Very impressive. But what are you contributing to the ecosystem?"
+> ☘️ "Yes, yes, Baron Killyleagh. Very impressive. But what are you
+> contributing to the ecosystem?"
 >
 > 👑 "Patronage?"
 >
@@ -900,7 +1114,7 @@ The title is merely an application to be assessed according to local ecological 
 Current criteria for remaining on the premises are therefore:
 
 1.  sufficient commitment to woodland acreage;
-2.  satisfactory treatment of seamstresses;
+2.  recognition that the seamstresses already have their own politics;
 3.  appropriate distance from horse.
 
 Failure on criterion three results in immediate expulsion.
@@ -910,6 +1124,40 @@ Failure on criterion three results in immediate expulsion.
 > ☘️ "To the horse."
 >
 > 🐎 **DENIED.**
+>
+> 👑 "On what grounds?"
+>
+> 🐎 **NEIGH.**
+
+This is procedurally impeccable.
+
+No further reasons are given.
+
+Decision final.
+
+This is also, underneath the joke, rather important.
+
+The horse is the only being in this entire administrative structure who cannot be drawn into an argument about whether Andrew's continued presence is reasonable.
+
+The horse does not submit a literature review.
+
+The horse does not establish proportionality.
+
+The horse does not entertain representations concerning the historical privileges attached to the Barony of Killyleagh.
+
+Andrew is too close to horse.
+
+Horse says no.
+
+**Successful expulsion.**
+
+A boundary does not become valid only after the person crossing it agrees that the boundary is reasonable.
+
+Sometimes the observed body does not need a better argument.
+
+Sometimes it needs the capacity to say:
+
+**NO. MOVE.**
 
 That does not solve the underlying problem.
 
@@ -1037,11 +1285,12 @@ Thank you.
 
 ## 🌌 Constellations
 
-🫀 🧿 🛰️ 🕸️ ☘️ --- embodied observation; information boundaries; algorithmic adjacency; survivor sovereignty; music as counter-observation.  
+🫀 🧿 🛰️ 🕸️ ☘️ --- embodied observation; information boundaries; algorithmic adjacency; survivor sovereignty; music as counter-observation.
 
-*Further media:*  
+*Further media:*
 
-- [📹: Paranormal Resident, via TikTok: “History isn't just about the victories we celebrate — it's about confronting the dark, brutal truths of our past and honoring the unbreakable spirit of those who came before us.”](https://vm.tiktok.com/ZN8kMcW36/)  
+-   [📹: Paranormal Resident, via TikTok: "History isn't just about the
+victories we celebrate --- it's about confronting the dark, brutal truths of our past and honoring the unbreakable spirit of those who came before us."](https://vm.tiktok.com/ZN8kMcW36/)
 
 ---
 
@@ -1053,22 +1302,26 @@ embodied information ecology, observed body, survivor boundaries, information en
 
 ## 🏮 Footer
 
-*☘️ Why Come Out Ye Black and Tans Is On A Loop* is a living node of the **Polaris Protocol**.  
-It records how political music can become embodied information: not evidence about the external events under investigation, but evidence about how an observed survivor experiences intrusion, scale, scrutiny, boundary and the repeated digital retrieval of powerful institutions and people.
+*☘️ Why Come Out Ye Black and Tans Is On A Loop* is a living node of the **Polaris Protocol**. It records how political music can become embodied information: not evidence about the external events under investigation, but evidence about how an observed survivor experiences intrusion, scale, scrutiny, boundary and the repeated digital retrieval of powerful institutions and people.
 
 > 📡 Cross-references:
 >
-> - [🫀🧿 The Observed Body](./README.md) — *parent cluster for the body as an experiencing participant in observation rather than a passive information object*  
-> - [🪿 Embodied Information Ecology](../../README.md) — *wider framework for information as experienced, situated and power-bearing*  
-> - [🌑 Origin Points](../../../README.md) — *theoretical roots and conceptual architecture of Polaris*
+> -   [🫀🧿 The Observed Body](./README.md) --- *parent cluster for the
+>     body as an experiencing participant in observation rather than a
+>     passive information object*
+> -   [🪿 Embodied Information Ecology](../../README.md) --- *wider
+>     framework for information as experienced, situated and
+>     power-bearing*
+> -   [🌑 Origin Points](../../../README.md) --- *theoretical roots and
+>     conceptual architecture of Polaris*
 >
 > 🏮 Return To:
 >
-> - [🫀🧿 The Observed Body](./README.md) — *1up*  
-> - [🪿 Embodied Information Ecology](../../README.md) — *2up*  
-> - [🌑 Origin Points](../../../README.md) — *3up*  
-> - [🌌 Polaris Protocol --- Root](../../../../README.md) — *root*
+> -   [🫀🧿 The Observed Body](./README.md) --- *1up*
+> -   [🪿 Embodied Information Ecology](../../README.md) --- *2up*
+> -   [🌑 Origin Points](../../../README.md) --- *3up*
+> -   [🌌 Polaris Protocol --- Root](../../../../README.md) --- *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-10-06*
+*Last updated: 2026-10-07*
