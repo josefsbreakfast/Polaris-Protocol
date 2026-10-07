@@ -1,6 +1,6 @@
 # 🕯️ The Lawful Catastrophe
 
-**First created:** 2026-10-06 | **Last updated:** 2026-10-06  
+**First created:** 2026-10-06 | **Last updated:** 2026-10-07  
 *What if nobody has to break the law for somebody to die?*
 
 ---
@@ -142,9 +142,9 @@ That machinery did not necessarily give the destitute individual a legal switch 
 
 ---
 
-# PART I — ⚖️ WHAT DOES LAW SEE?
+## PART I — ⚖️ WHAT DOES LAW SEE?
 
-## 1. 🫀 Start With The Body Again
+### 1. 🫀 Start With The Body Again
 
 The body says:
 
@@ -193,7 +193,7 @@ But:
 
 ---
 
-## 2. 🕯️ Harm Is Not Automatically A Legal Wrong
+### 2. 🕯️ Harm Is Not Automatically A Legal Wrong
 
 Someone can experience:
 
@@ -228,7 +228,7 @@ The catastrophe may be socially obvious while the cause of action is not.
 
 ---
 
-## 3. 📜 Lawful Does Not Mean Harmless
+### 3. 📜 Lawful Does Not Mean Harmless
 
 **Lawful catastrophe** does not mean:
 
@@ -274,7 +274,7 @@ The larger analytical question remains:
 
 ---
 
-## 4. 🧾 Law Does Not Only Prohibit
+### 4. 🧾 Law Does Not Only Prohibit
 
 It is tempting to think about law primarily as a list of things nobody is allowed to do.
 
@@ -298,9 +298,9 @@ The law is helping constitute the relationships through which the catastrophe is
 
 ---
 
-# PART II — 🍞 I AM HUNGRY. WHO OWES ME FOOD?
+## PART II — 🍞 I AM HUNGRY. WHO OWES ME FOOD?
 
-## 5. 🌾 Food Exists
+### 5. 🌾 Food Exists
 
 Return directly to:
 
@@ -334,7 +334,7 @@ That asymmetry matters.
 
 ---
 
-## 6. 💷 Need Is Not Purchasing Power
+### 6. 💷 Need Is Not Purchasing Power
 
 The market recognises:
 
@@ -362,7 +362,7 @@ It is also where the legal and economic systems become difficult to separate.
 
 ---
 
-## 7. 🏪 The Law Constitutes The Market
+### 7. 🏪 The Law Constitutes The Market
 
 Do not let:
 
@@ -395,7 +395,7 @@ Law helps determine whose claim to the food is recognised and enforceable.
 
 ---
 
-## 8. 🫀 But Where Is The Body's Claim?
+### 8. 🫀 But Where Is The Body's Claim?
 
 Suppose:
 
@@ -427,7 +427,7 @@ The structural problem remains:
 
 ---
 
-## 9. 🚨 The Body Can Be Right And Still Lose The Legal Question
+### 9. 🚨 The Body Can Be Right And Still Lose The Legal Question
 
 This is one of the distinctions the node needs to hold.
 
@@ -457,9 +457,9 @@ The distance between those two truths is where a lawful catastrophe can grow.
 
 ---
 
-# PART III — 🏠 I CANNOT PAY THE RENT
+## PART III — 🏠 I CANNOT PAY THE RENT
 
-## 10. 🌱 The Crop Dies; The Obligation May Not
+### 10. 🌱 The Crop Dies; The Obligation May Not
 
 A tenant's potatoes can fail.
 
@@ -481,7 +481,7 @@ The tenancy relationship can remain legally intelligible even when the material 
 
 ---
 
-## 11. 💷 Arrears Convert Biological Failure Into Legal Liability
+### 11. 💷 Arrears Convert Biological Failure Into Legal Liability
 
 Potential sequence:
 
@@ -513,7 +513,7 @@ That is a very important mechanism.
 
 ---
 
-## 12. ⚖️ Landlord Remedies Were Not A Natural Background Condition
+### 12. ⚖️ Landlord Remedies Were Not A Natural Background Condition
 
 The ability to recover rent or possession was legally structured.
 
@@ -537,7 +537,7 @@ The legal system helped determine which claims attached to the land could be mad
 
 ---
 
-## 13. 🏚️ What Rights Did Tenants Actually Have?
+### 13. 🏚️ What Rights Did Tenants Actually Have?
 
 This requires a dedicated legal-historical evidence pass.
 
@@ -576,7 +576,7 @@ The legal vulnerability of a Famine-era occupier has to be reconstructed on its 
 
 ---
 
-## 14. 🧱 Property Claims And Survival Claims Are Not Symmetrical
+### 14. 🧱 Property Claims And Survival Claims Are Not Symmetrical
 
 One possibility to test is an asymmetry:
 
@@ -607,9 +607,9 @@ If supported, it is one of the central findings of the node.
 
 ---
 
-# PART IV — 🧾 FORMAL RECOURSE AND EFFECTIVE RECOURSE
+## PART IV — 🧾 FORMAL RECOURSE AND EFFECTIVE RECOURSE
 
-## 15. ⚖️ A Right You Cannot Use
+### 15. ⚖️ A Right You Cannot Use
 
 A legal system can formally provide a protection or remedy that is practically inaccessible because of:
 
@@ -637,7 +637,7 @@ And we do not treat the existence of paper protection as proof that the vulnerab
 
 ---
 
-## 16. ⏱️ Legal Time And Biological Time
+### 16. ⏱️ Legal Time And Biological Time
 
 Return to the time problem from [🏛️ What Britain Did](./🏛️_what_britain_did.md).
 
@@ -677,7 +677,7 @@ It makes its timing physiologically decisive.
 
 ---
 
-## 17. 🧠 Knowing Your Rights Is Also An Information Problem
+### 17. 🧠 Knowing Your Rights Is Also An Information Problem
 
 Even a real legal right requires information.
 
@@ -703,7 +703,7 @@ A protection hidden behind inaccessible information can exist formally while bar
 
 ---
 
-## 18. 🫀 Capacity To Litigate Is Also Embodied
+### 18. 🫀 Capacity To Litigate Is Also Embodied
 
 Legal agency is often imagined as though the claimant begins healthy, mobile, literate, solvent and administratively competent.
 
@@ -732,9 +732,9 @@ The body is inside the legal process too.
 
 ---
 
-# PART V — 🥣 RELIEF AS LEGAL CLASSIFICATION
+## PART V — 🥣 RELIEF AS LEGAL CLASSIFICATION
 
-## 19. 📜 When Does Hunger Become Legally Cognisable?
+### 19. 📜 When Does Hunger Become Legally Cognisable?
 
 The Poor Law matters because it creates legal categories through which destitution can enter administration.
 
@@ -771,7 +771,7 @@ ENFORCEABLE RIGHT TO FOOD
 
 ---
 
-## 20. 🧱 Law Defines The Category
+### 20. 🧱 Law Defines The Category
 
 Legal relief requires boundaries.
 
@@ -801,7 +801,7 @@ The historical question is whether the categories map adequately onto the people
 
 ---
 
-## 21. 📚 The Law Creates A Record Of The Person It Has Classified
+### 21. 📚 The Law Creates A Record Of The Person It Has Classified
 
 The 1838 Act required workhouse registers recording people admitted and relieved, and required accounts allocating relief costs according to residence.[^1]
 
@@ -831,7 +831,9 @@ The body becomes a category, a residence and a cost.
 
 ---
 
-## 22. 📐 The Quarter-Acre Rule As Legal Translation
+### 22. 📐 The Quarter-Acre Rule As Legal Translation
+
+**Routing note:** [🏛️ What Britain Did](./🏛️_what_britain_did.md) asks what the rule required as policy. This section asks what **legal category and entitlement** it created. [🔥 Eviction And Clearance](./🔥_eviction_and_clearance.md) follows that category into surrender, land retention and displacement.
 
 Section 10 of the Poor Relief (Ireland) Act 1847 made occupation of land directly relevant to the legal category of destitution.
 
@@ -866,7 +868,7 @@ It says, functionally:
 
 ---
 
-## 23. 🕳️ A Person Can Fall Between Material Reality And Legal Category
+### 23. 🕳️ A Person Can Fall Between Material Reality And Legal Category
 
 The quarter-acre rule gives us a clean example.
 
@@ -891,7 +893,7 @@ A person can be correctly classified under law and catastrophically misclassifie
 
 ---
 
-## 24. 🌱 The Same Land Changes Meaning Across Systems
+### 24. 🌱 The Same Land Changes Meaning Across Systems
 
 Before crop failure:
 
@@ -934,9 +936,9 @@ The same observation produces different information for different systems.
 
 ---
 
-# PART VI — 👑 WHO OWES THE DUTY?
+## PART VI — 👑 WHO OWES THE DUTY?
 
-## 25. 🇬🇧 Ireland Is Inside The United Kingdom
+### 25. 🇬🇧 Ireland Is Inside The United Kingdom
 
 After the Acts of Union, Ireland was formally incorporated into the United Kingdom.
 
@@ -954,7 +956,7 @@ The actual nineteenth-century distribution of statutory powers, duties, discreti
 
 ---
 
-## 26. 🏛️ Political Power ≠ Individual Enforceable Duty
+### 26. 🏛️ Political Power ≠ Individual Enforceable Duty
 
 Government may possess:
 
@@ -987,7 +989,7 @@ The institution lacking the duty may simultaneously possess the power to create 
 
 ---
 
-## 27. 📜 Statutory Power, Statutory Duty, Discretion And Individual Claim
+### 27. 📜 Statutory Power, Statutory Duty, Discretion And Individual Claim
 
 These need to stay separate.
 
@@ -1021,7 +1023,7 @@ The architecture is therefore legally dense without necessarily being claimant-c
 
 ---
 
-## 28. 🏛️ The Commissioners Can Govern The System But Not Order This Person Relief
+### 28. 🏛️ The Commissioners Can Govern The System But Not Order This Person Relief
 
 Section 3 of the 1838 Act is worth dwelling on.
 
@@ -1055,7 +1057,7 @@ The system can be centrally supervised while the starving individual remains una
 
 ---
 
-## 29. 💷 Some Obligations Are Much Easier To Enforce
+### 29. 💷 Some Obligations Are Much Easier To Enforce
 
 The same 1838 Act contains detailed machinery for raising poor rates and recovering arrears.
 
@@ -1087,9 +1089,9 @@ It is visible in the statute.
 
 ---
 
-# PART VII — 🧑‍⚖️ WHAT COULD THE PERSON ACTUALLY DO?
+## PART VII — 🧑‍⚖️ WHAT COULD THE PERSON ACTUALLY DO?
 
-## 30. ⚖️ Do Not Import Modern Judicial Review Backwards
+### 30. ⚖️ Do Not Import Modern Judicial Review Backwards
 
 The obvious modern instinct is:
 
@@ -1116,7 +1118,7 @@ The existence of any one of these mechanisms does not establish that it could se
 
 ---
 
-## 31. 🔍 What Exactly Can Be Challenged?
+### 31. 🔍 What Exactly Can Be Challenged?
 
 This is where legal specificity matters.
 
@@ -1142,7 +1144,7 @@ It should not be inflated into a general individual right to compel relief.
 
 ---
 
-## 32. ⏱️ Effective Recourse Test
+### 32. ⏱️ Effective Recourse Test
 
 For every candidate remedy:
 
@@ -1161,7 +1163,7 @@ It is to identify exactly what each route can and cannot do.
 
 ---
 
-## 33. 🫀 The Remedy Has To Reach The Body
+### 33. 🫀 The Remedy Has To Reach The Body
 
 The final test remains:
 
@@ -1180,9 +1182,9 @@ That is what **effective recourse** means in this cluster.
 
 ---
 
-# PART VIII — 🏛️ LAW DOES NOT MERELY RESPOND TO THE ECONOMY
+## PART VIII — 🏛️ LAW DOES NOT MERELY RESPOND TO THE ECONOMY
 
-## 34. 🧱 Law Builds The Economic Architecture
+### 34. 🧱 Law Builds The Economic Architecture
 
 By now several legal relationships can be placed together:
 
@@ -1232,7 +1234,7 @@ They intersect in one body.
 
 ---
 
-## 35. 🫀 The Person Is Where The Systems Meet
+### 35. 🫀 The Person Is Where The Systems Meet
 
 A single person can simultaneously be:
 
@@ -1271,7 +1273,7 @@ That is classic information fragmentation.
 
 ---
 
-## 36. 🧩 Distributed Causation
+### 36. 🧩 Distributed Causation
 
 The catastrophic outcome can emerge from interactions among individually intelligible actions:
 
@@ -1303,7 +1305,31 @@ It means responsibility cannot be understood by looking only for one prohibited 
 
 ---
 
-## 37. 🔬 Separate The Scales Of Responsibility
+### 37. 🔬 Separate The Scales Of Responsibility
+
+The quartet should never be forced to answer the vague question **whose fault was it?** without first specifying the scale.
+
+```text
+INDIVIDUAL LEGAL LIABILITY
+
+ADMINISTRATIVE RESPONSIBILITY
+
+MINISTERIAL RESPONSIBILITY
+
+PARLIAMENTARY RESPONSIBILITY
+
+POLITICAL RESPONSIBILITY
+
+INSTITUTIONAL RESPONSIBILITY
+
+MORAL RESPONSIBILITY
+
+HISTORICAL / STRUCTURAL CAUSATION
+```
+
+A person can lack individual legal liability while still participating in an institution with administrative or political responsibility. A lawful policy can still be politically attributable. Structural causation can be real without turning every participant into an interchangeable moral or legal actor.
+
+[🇬🇧 What Britain Knew](./🇬🇧_what_britain_knew.md) dates knowledge; [🏛️ What Britain Did](./🏛️_what_britain_did.md) identifies intervention and decision; this node identifies claims, duties and remedies; [🔥 Eviction And Clearance](./🔥_eviction_and_clearance.md) identifies the physical implementation and displacement pathway.
 
 We need at least four scales:
 
@@ -1335,9 +1361,9 @@ But neither should their distribution be used to make the aggregate outcome disa
 
 ---
 
-# PART IX — 🚨 WHAT IF EVERYBODY IS “JUST DOING THEIR JOB”?
+## PART IX — 🚨 WHAT IF EVERYBODY IS “JUST DOING THEIR JOB”?
 
-## 38. 🧑‍💼 Administrative Legibility
+### 38. 🧑‍💼 Administrative Legibility
 
 Each institution can receive a narrow problem.
 
@@ -1371,7 +1397,7 @@ The system can become highly legible to itself while the human outcome becomes f
 
 ---
 
-## 39. 🕯️ Nobody Owns The Whole Outcome
+### 39. 🕯️ Nobody Owns The Whole Outcome
 
 This is where lawful catastrophe becomes particularly dangerous.
 
@@ -1407,7 +1433,7 @@ That proposition must be tested against the statutes, case law and administrativ
 
 ---
 
-## 40. 🚨 404: Cause Of Action Not Found
+### 40. 🚨 404: Cause Of Action Not Found
 
 ```text
 REQUEST:
@@ -1437,9 +1463,9 @@ It means the legal system may have decomposed the catastrophe differently from t
 
 ---
 
-# PART X — 📡 KNOWLEDGE CHANGES THE QUESTION
+## PART X — 📡 KNOWLEDGE CHANGES THE QUESTION
 
-## 41. 🔁 The First Decision And The Fifth Decision Are Not The Same Decision
+### 41. 🔁 The First Decision And The Fifth Decision Are Not The Same Decision
 
 At first:
 
@@ -1471,7 +1497,7 @@ That distinction matters for political responsibility and later questions of cul
 
 ---
 
-## 42. ⚖️ Legal Permission Is Not Political Exoneration
+### 42. ⚖️ Legal Permission Is Not Political Exoneration
 
 Suppose a particular outcome follows without anyone breaching an enforceable legal duty.
 
@@ -1494,7 +1520,7 @@ This is particularly important in a constitutional system where Parliament could
 
 ---
 
-## 43. 🏛️ Parliament Can Change The Law
+### 43. 🏛️ Parliament Can Change The Law
 
 A statutory rule is not a weather event.
 
@@ -1523,9 +1549,9 @@ It means **difficulty is not impossibility**.
 
 ---
 
-# PART XI — ⛓️ PROPERTY CAN BE REWRITTEN
+## PART XI — ⛓️ PROPERTY CAN BE REWRITTEN
 
-## 44. ⚖️ Abolition As A Narrow Institutional Comparison
+### 44. ⚖️ Abolition As A Narrow Institutional Comparison
 
 Britain had already demonstrated before the Famine that Parliament could radically alter a lawful property regime.
 
@@ -1553,7 +1579,7 @@ That is the travelling principle.
 
 ---
 
-## 45. 💷 Who Bears The Cost Of Legal Change?
+### 45. 💷 Who Bears The Cost Of Legal Change?
 
 Abolition also provides another institutional lesson.
 
@@ -1583,7 +1609,7 @@ Who pays for survival?
 
 ---
 
-## 46. 🧭 Translation Is Not Equivalence
+### 46. 🧭 Translation Is Not Equivalence
 
 The methodological rule belongs here explicitly.
 
@@ -1608,9 +1634,9 @@ Nothing more needs to be smuggled in.
 
 ---
 
-# PART XII — 🔥 THE HOUSE
+## PART XII — 🔥 THE HOUSE
 
-## 47. 🏠 Eventually Law Reaches The Door
+### 47. 🏠 Eventually Law Reaches The Door
 
 The abstractions eventually become physical.
 
@@ -1650,7 +1676,7 @@ The next node follows it to the door.
 
 ---
 
-## 48. 🌧️ Property Law Becomes Weather
+### 48. 🌧️ Property Law Becomes Weather
 
 Once a person loses shelter, the legal abstraction becomes embodied environment.
 
@@ -1670,9 +1696,9 @@ Eventually it reaches the skin.
 
 ---
 
-# PART XIII — 🧩 WHAT DOES “LAWFUL CATASTROPHE” MEAN?
+## PART XIII — 🧩 WHAT DOES “LAWFUL CATASTROPHE” MEAN?
 
-## 49. 🕯️ Not “Everything Was Legal”
+### 49. 🕯️ Not “Everything Was Legal”
 
 A **lawful catastrophe** is not necessarily a catastrophe in which no crimes, abuses or unlawful acts occur.
 
@@ -1684,7 +1710,7 @@ That is the claim to test.
 
 ---
 
-## 50. ⚖️ Six Different Questions
+### 50. ⚖️ Six Different Questions
 
 Keep these permanently separate:
 
@@ -1701,7 +1727,7 @@ A negative answer to one does not settle the others.
 
 ---
 
-## 51. 🧠 Law Is An Information System Too
+### 51. 🧠 Law Is An Information System Too
 
 Law takes messy embodied reality and translates it into categories that institutions can process.
 
@@ -1745,7 +1771,7 @@ more cleanly than it preserves:
 
 ---
 
-## 52. 🫀 The Body Is The Integration Layer
+### 52. 🫀 The Body Is The Integration Layer
 
 Institutions separate:
 
@@ -1772,9 +1798,9 @@ rather than merely inside a legal-history folder.
 
 ---
 
-# PART XIV — 🔬 EVIDENCE STILL TO BUILD
+## PART XIV — 🔬 EVIDENCE STILL TO BUILD
 
-## 53. ⚖️ Landlord And Tenant Law
+### 53. ⚖️ Landlord And Tenant Law
 
 The next evidence pass needs to establish:
 
@@ -1803,7 +1829,7 @@ Core question:
 
 ---
 
-## 54. 🍞 Food, Property And Necessity
+### 54. 🍞 Food, Property And Necessity
 
 Research:
 
@@ -1824,7 +1850,7 @@ Do not assume the answer.
 
 ---
 
-## 55. 🥣 Poor Law Classification And Relief
+### 55. 🥣 Poor Law Classification And Relief
 
 Continue mapping:
 
@@ -1848,7 +1874,7 @@ Core question:
 
 ---
 
-## 56. 👑 Government Duty
+### 56. 👑 Government Duty
 
 Map separately:
 
@@ -1875,7 +1901,7 @@ The empty cells stay empty until evidence fills them.
 
 ---
 
-## 57. 🧑‍⚖️ Remedies
+### 57. 🧑‍⚖️ Remedies
 
 Research historically available:
 
@@ -1905,7 +1931,7 @@ DOES IT PRODUCE FOOD?
 
 ---
 
-## 58. ⏱️ Effective Recourse Ledger
+### 58. ⏱️ Effective Recourse Ledger
 
 | Remedy / protection | Formal availability | Cost | Time | Information required | Physical access required | Could it protect the body in time? |
 |---|---|---|---|---|---|---|
@@ -1920,7 +1946,7 @@ This table should remain brutally literal.
 
 ---
 
-## 59. 🏛️ Legislative Capacity
+### 59. 🏛️ Legislative Capacity
 
 Collect examples where Parliament altered:
 
@@ -1938,7 +1964,7 @@ Core question:
 
 ---
 
-## 60. 🔥 Handoff To Eviction
+### 60. 🔥 Handoff To Eviction
 
 Map only enough to establish:
 
@@ -1958,7 +1984,19 @@ POTENTIAL LOSS OF LAND / HOME
 
 Then stop.
 
-The next node follows the process to the door.
+The next node follows the process to the door. Its job is not to re-litigate the whole Poor Law or repeat the legal classification work here. It asks what those rules did when they met **possession, sheriff, house, road and weather**.
+
+The sequence is therefore:
+
+```text
+🏛️ POLICY REQUIREMENT
+        ↓
+🕯️ LEGAL CATEGORY / CLAIM / REMEDY
+        ↓
+🔥 DISPLACEMENT EFFECT
+```
+
+And once displacement produces reports, petitions, mortality and parliamentary debate, the loop returns to [🇬🇧 What Britain Knew](./🇬🇧_what_britain_knew.md).
 
 ---
 
@@ -2095,4 +2133,4 @@ It asks how catastrophic bodily harm can accumulate across property, market, ten
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-06_
+_Last updated: 2026-10-07_

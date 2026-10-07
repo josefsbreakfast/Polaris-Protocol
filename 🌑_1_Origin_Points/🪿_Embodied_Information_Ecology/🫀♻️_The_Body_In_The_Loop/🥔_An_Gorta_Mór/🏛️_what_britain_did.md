@@ -1,6 +1,6 @@
 # 🏛️ What Britain Did
 
-**First created:** 2026-10-06 | **Last updated:** 2026-10-06  
+**First created:** 2026-10-06 | **Last updated:** 2026-10-07  
 *Policy is not measured by how much administration occurred. It is measured by what that administration did.*
 
 ---
@@ -149,9 +149,9 @@ Those are not automatically the same thing.
 
 ---
 
-# PART I — 🥔 WHAT PROBLEM WAS POLICY ACTUALLY RESPONDING TO?
+## PART I — 🥔 WHAT PROBLEM WAS POLICY ACTUALLY RESPONDING TO?
 
-## 1. 🌱 The Person Entering The System
+### 1. 🌱 The Person Entering The System
 
 British policy did not encounter an abstract consumer standing beside an abstract failed crop.
 
@@ -180,7 +180,7 @@ The blight therefore struck a household whose capacity to absorb loss was histor
 
 ---
 
-## 2. 📉 A Household Can Lose More Than Potatoes
+### 2. 📉 A Household Can Lose More Than Potatoes
 
 The biological event can cascade through the household:
 
@@ -220,7 +220,7 @@ So does the body.
 
 ---
 
-## 3. ⏱️ A Body Has A Deadline
+### 3. ⏱️ A Body Has A Deadline
 
 Government can:
 
@@ -251,9 +251,9 @@ A relief mechanism that eventually functions can still arrive too late for the p
 
 ---
 
-# PART II — 🌽 1845–46: THE FIRST RESPONSE
+## PART II — 🌽 1845–46: THE FIRST RESPONSE
 
-## 4. 📡 Peel Acts Under Uncertainty
+### 4. 📡 Peel Acts Under Uncertainty
 
 The first crop failure did not arrive with a label explaining the next five years.
 
@@ -271,7 +271,7 @@ It is to follow the intervention until it reaches the person who needs food.
 
 ---
 
-## 5. 🌽 The Maize Intervention
+### 5. 🌽 The Maize Intervention
 
 The maize purchase was partly a supply intervention.
 
@@ -307,7 +307,7 @@ A person still needed a route to it.
 
 ---
 
-## 6. 🫀 Food Imported Is Not Yet Food Eaten
+### 6. 🫀 Food Imported Is Not Yet Food Eaten
 
 This is the same distinction established in [🌾 There Was Always Food In Ireland](./🌾_there_was_always_food_in_ireland.md), now applied to government action.
 
@@ -335,7 +335,7 @@ The route from shipment to stomach is the policy.
 
 ---
 
-## 7. 🏪 Preserving Private Trade Was Part Of The Design
+### 7. 🏪 Preserving Private Trade Was Part Of The Design
 
 Government did not imagine its proper role as replacing the food market throughout Ireland.
 
@@ -359,9 +359,9 @@ The chosen mechanism was work.
 
 ---
 
-# PART III — 🛠️ WORK FOR FOOD
+## PART III — 🛠️ WORK FOR FOOD
 
-## 8. 🪨 Public Works Convert Labour Into Food Access
+### 8. 🪨 Public Works Convert Labour Into Food Access
 
 The public-works model did not primarily hand food to the hungry person.
 
@@ -410,7 +410,7 @@ It tells us how many dependencies have to function before the body eats.
 
 ---
 
-## 9. 🫀 The Policy Requires Energy Before Providing Energy
+### 9. 🫀 The Policy Requires Energy Before Providing Energy
 
 Public works contain an obvious physiological problem.
 
@@ -442,7 +442,7 @@ But destitution itself reduces the capacity upon which the mechanism depends.
 
 ---
 
-## 10. 💷 Employment Is Not Purchasing Power Until Somebody Is Paid
+### 10. 💷 Employment Is Not Purchasing Power Until Somebody Is Paid
 
 The chain can fail even after somebody obtains work.
 
@@ -478,7 +478,7 @@ It is that **employment did not necessarily produce subsistence even for the emp
 
 ---
 
-## 11. 👶 The Worker Is Not The Household
+### 11. 👶 The Worker Is Not The Household
 
 A programme may count one employed person.
 
@@ -511,7 +511,7 @@ It does not tell us that three million people were adequately fed.
 
 ---
 
-## 12. 🚫 Who Cannot Use A Labour-Based Route?
+### 12. 🚫 Who Cannot Use A Labour-Based Route?
 
 The labour-for-wages model also creates a more fundamental problem.
 
@@ -536,9 +536,9 @@ So even before testing wage adequacy, we have an access question:
 
 ---
 
-# PART IV — 🌾 THE SECOND SHOCK
+## PART IV — 🌾 THE SECOND SHOCK
 
-## 13. 🔁 1846 Does Not Begin At Zero
+### 13. 🔁 1846 Does Not Begin At Zero
 
 The catastrophic 1846 potato failure entered a system already changed by 1845.
 
@@ -565,7 +565,7 @@ This matters when evaluating the shift from Peel's first-season arrangements to 
 
 ---
 
-## 14. 🎩 Government Changes; Hunger Does Not
+### 14. 🎩 Government Changes; Hunger Does Not
 
 Peel's government fell in June 1846.
 
@@ -593,9 +593,9 @@ It did not reset household reserves.
 
 ---
 
-# PART V — 📈 PUBLIC WORKS AT MASS SCALE
+## PART V — 📈 PUBLIC WORKS AT MASS SCALE
 
-## 15. 👥 Scale Is Not Outcome
+### 15. 👥 Scale Is Not Outcome
 
 The second public-works programme expanded extraordinarily quickly.
 
@@ -636,7 +636,7 @@ The number we actually need is much harder:
 
 ---
 
-## 16. 🪨 The Works Were A Relief Mechanism Before They Were Infrastructure
+### 16. 🪨 The Works Were A Relief Mechanism Before They Were Infrastructure
 
 Many works consisted of roads and other public projects.
 
@@ -665,7 +665,7 @@ The question is whether the wage got food into the household before the body fai
 
 ---
 
-## 17. 📉 Does The Wage Buy Survival?
+### 17. 📉 Does The Wage Buy Survival?
 
 The central public-works comparison is:
 
@@ -699,7 +699,7 @@ The machine can therefore function administratively while failing physiologicall
 
 ---
 
-## 18. 💀 The Relief Mechanism Becomes Part Of The Distress Report
+### 18. 💀 The Relief Mechanism Becomes Part Of The Distress Report
 
 This is the crucial join with [🇬🇧 What Britain Knew](./🇬🇧_what_britain_knew.md).
 
@@ -733,7 +733,7 @@ The epistemic situation had changed.
 
 ---
 
-## 19. 🚜 A Second Functional Problem: Relief Can Damage The Next Harvest
+### 19. 🚜 A Second Functional Problem: Relief Can Damage The Next Harvest
 
 Public works also interacted with agricultural labour.
 
@@ -763,9 +763,9 @@ An emergency intervention can alter the conditions of the next agricultural cycl
 
 ---
 
-# PART VI — 🥣 SHORTENING THE CHAIN
+## PART VI — 🥣 SHORTENING THE CHAIN
 
-## 20. 🥣 Direct Food Relief Changes The Mechanism
+### 20. 🥣 Direct Food Relief Changes The Mechanism
 
 By early 1847 the public-works system was being replaced by direct food relief.
 
@@ -803,7 +803,7 @@ Every removed dependency is one fewer place where the starving person can fall o
 
 ---
 
-## 21. 📜 The Temporary Relief Act 1847
+### 21. 📜 The Temporary Relief Act 1847
 
 The Temporary Relief Act created a national system of relief committees and food distribution.
 
@@ -821,7 +821,7 @@ Second, it demonstrates that the state could construct a much shorter route betw
 
 ---
 
-## 22. 🍲 How Many Bodies Did It Reach?
+### 22. 🍲 How Many Bodies Did It Reach?
 
 At its peak, the system was feeding roughly three million people a day.
 
@@ -841,7 +841,7 @@ The British state itself used both.
 
 ---
 
-## 23. 🧪 Compare Mechanisms, Not Rhetoric
+### 23. 🧪 Compare Mechanisms, Not Rhetoric
 
 | Functional requirement | Public works | Direct food relief |
 |---|---|---|
@@ -872,7 +872,7 @@ But the causal chain was shorter, and contemporary and modern evidence indicates
 
 ---
 
-## 24. 🫀 Nutrition Is Also Disease Policy
+### 24. 🫀 Nutrition Is Also Disease Policy
 
 Direct feeding did more than interrupt starvation.
 
@@ -894,7 +894,7 @@ Food reaches the immune system too.
 
 ---
 
-## 25. ⏱️ Then The Shorter Chain Ends
+### 25. ⏱️ Then The Shorter Chain Ends
 
 The Temporary Relief system was explicitly temporary.
 
@@ -928,9 +928,9 @@ That shift is the next mechanism.
 
 ---
 
-# PART VII — 🏚️ TRANSFERRING THE PROBLEM
+## PART VII — 🏚️ TRANSFERRING THE PROBLEM
 
-## 26. ⚖️ From Emergency Relief To Poor Law
+### 26. ⚖️ From Emergency Relief To Poor Law
 
 The governing question changes.
 
@@ -950,7 +950,7 @@ The shift therefore changes the route through which a person reaches survival.
 
 ---
 
-## 27. 💷 Who Pays For Survival?
+### 27. 💷 Who Pays For Survival?
 
 The cost of relief can be placed upon different parts of the system:
 
@@ -994,7 +994,7 @@ But the incentive structure belongs here because it determines what the next nod
 
 ---
 
-## 28. 🗺️ Need And Capacity Can Move In Opposite Directions
+### 28. 🗺️ Need And Capacity Can Move In Opposite Directions
 
 A locally financed relief system contains a potential structural problem:
 
@@ -1022,7 +1022,7 @@ But the systems problem is clear:
 
 ---
 
-## 29. 🏚️ Workhouse, Outdoor Relief And Actual Access
+### 29. 🏚️ Workhouse, Outdoor Relief And Actual Access
 
 Before 1847, the Irish Poor Law centred relief heavily on the workhouse.
 
@@ -1059,7 +1059,9 @@ Others create exclusion.
 
 ---
 
-## 30. 📐 The Quarter-Acre Rule
+### 30. 📐 The Quarter-Acre Rule
+
+**Routing note:** this section asks what the **policy required**. [🕯️ The Lawful Catastrophe](./🕯️_the_lawful_catastrophe.md) asks what legal classification and entitlement the rule created; [🔥 Eviction And Clearance](./🔥_eviction_and_clearance.md) asks what that classification could do to land retention, surrender and displacement.
 
 Section 10 of the Poor Relief (Ireland) Act 1847 is unusually clear.
 
@@ -1099,7 +1101,7 @@ The important point here is narrower.
 
 ---
 
-## 31. 🧱 A Holding Can Be Both Survival Asset And Barrier To Relief
+### 31. 🧱 A Holding Can Be Both Survival Asset And Barrier To Relief
 
 This is particularly perverse from the body's perspective.
 
@@ -1147,9 +1149,9 @@ That is a policy transformation of the person's relationship to land.
 
 ---
 
-# PART VIII — 🌾 FOOD, MARKETS AND STATE CHOICE
+## PART VIII — 🌾 FOOD, MARKETS AND STATE CHOICE
 
-## 32. 🚢 Food Still Exists
+### 32. 🚢 Food Still Exists
 
 As established in [🌾 There Was Always Food In Ireland](./🌾_there_was_always_food_in_ireland.md), the Famine cannot be accurately described as a landscape in which every form of food vanished.
 
@@ -1182,7 +1184,7 @@ Those are different allocation mechanisms.
 
 ---
 
-## 33. 🚢 Imports And Exports Must Stay In The Same Frame
+### 33. 🚢 Imports And Exports Must Stay In The Same Frame
 
 Food exports from Ireland continued.
 
@@ -1210,7 +1212,7 @@ A five-year net trade balance cannot feed somebody in January 1847.
 
 ---
 
-## 34. 🚧 What Was Not Done?
+### 34. 🚧 What Was Not Done?
 
 The counterfactual space must remain historically bounded.
 
@@ -1253,7 +1255,7 @@ Both require evidence.
 
 ---
 
-## 35. 👮 The Market Was Not Outside The State
+### 35. 👮 The Market Was Not Outside The State
 
 The history becomes misleading if we draw:
 
@@ -1284,7 +1286,7 @@ That distinction is essential to understanding what nineteenth-century political
 
 ---
 
-## 36. 🏛️ Selective Intervention
+### 36. 🏛️ Selective Intervention
 
 The British state during the Famine:
 
@@ -1313,9 +1315,9 @@ This is more precise than using **laissez-faire** as though it meant government 
 
 ---
 
-# PART IX — 🧠 WHY THESE POLICIES?
+## PART IX — 🧠 WHY THESE POLICIES?
 
-## 37. 🎩 Political Economy After Function
+### 37. 🎩 Political Economy After Function
 
 Only now do we move from:
 
@@ -1357,7 +1359,7 @@ No atmospheric Victorian ideology cloud.
 
 ---
 
-## 38. 💼 Trevelyan Inside The Machine
+### 38. 💼 Trevelyan Inside The Machine
 
 Charles Trevelyan matters.
 
@@ -1384,7 +1386,7 @@ The machine is bigger than the man.
 
 ---
 
-## 39. 🎭 Intent Does Not Replace Function
+### 39. 🎭 Intent Does Not Replace Function
 
 Intent can matter for:
 
@@ -1423,9 +1425,9 @@ The evidence must tell us which claims are supportable.
 
 ---
 
-# PART X — 🔁 DID THE SYSTEM LEARN?
+## PART X — 🔁 DID THE SYSTEM LEARN?
 
-## 40. 📡 Consequence Becomes Information
+### 40. 📡 Consequence Becomes Information
 
 This is the central join with [🇬🇧 What Britain Knew](./🇬🇧_what_britain_knew.md).
 
@@ -1449,7 +1451,7 @@ The second decision is not made under the same conditions as the first.
 
 ---
 
-## 41. 🧠 Updating The Model
+### 41. 🧠 Updating The Model
 
 For each major policy transition we need:
 
@@ -1467,7 +1469,7 @@ It is whether the change responds to the bodily evidence generated by the previo
 
 ---
 
-## 42. 🚨 When Failure Is Reclassified
+### 42. 🚨 When Failure Is Reclassified
 
 A failing policy can generate several interpretations.
 
@@ -1505,7 +1507,7 @@ But it is precisely the kind of interpretive process Embodied Information Ecolog
 
 ---
 
-## 43. 🔄 The State Already Ran The Counterfactual
+### 43. 🔄 The State Already Ran The Counterfactual
 
 One of the strongest features of this history is that we do not need to invent every alternative.
 
@@ -1551,9 +1553,9 @@ The historical question becomes what it learned from doing so, and why that appr
 
 ---
 
-# PART XI — 📊 MEASURING WHAT BRITAIN DID
+## PART XI — 📊 MEASURING WHAT BRITAIN DID
 
-## 44. 🧮 Administrative Success ≠ Human Success
+### 44. 🧮 Administrative Success ≠ Human Success
 
 The hierarchy needs to remain explicit:
 
@@ -1593,7 +1595,7 @@ Therefore every claim of **success** must identify the level at which success is
 
 ---
 
-## 45. 🫀 The Outcome Ledger
+### 45. 🫀 The Outcome Ledger
 
 The mature version of this node should keep an explicit outcome ledger.
 
@@ -1609,9 +1611,53 @@ This table prevents the paperwork from swallowing the person.
 
 ---
 
-# PART XII — 🕯️ WHEN POLICY HANDS THE BODY TO LAW
+### 🧭 Shared Actor-And-Lever Map
 
-## 46. 🧱 Put The Mechanisms Together
+Before policy hands the body to law, keep the institutions separate. **Britain** is not one enormous bloke in Whitehall pushing every button.
+
+| Function | Principal question | Actors to map |
+|---|---|---|
+| sensing | who receives information? | relief officials, inspectors, magistrates, constabulary, committees, ministers, Parliament |
+| policy | who can alter the intervention? | ministers, Treasury, Parliament, central boards |
+| administration | who implements it? | Board of Works, Poor Law machinery, guardians, relieving officers, local officials |
+| finance | who pays and who bears risk? | Treasury, ratepayers, occupiers, landlords, unions |
+| property | who possesses the claim? | landlords, tenants, middlemen, creditors, estate agents |
+| adjudication | who recognises the legal claim? | courts and statutory authorities |
+| enforcement | who turns the claim into possession? | sheriffs, bailiffs and, where documented, constabulary or military support |
+| feedback | who reports the consequence? | inspectors, guardians, MPs, petitions, press, inquiries, affected people |
+
+The map prevents responsibility from collapsing into one scale. Individual legal liability, administrative responsibility, ministerial responsibility, parliamentary responsibility, political responsibility, institutional responsibility, moral responsibility and structural causation are related questions, not synonyms.
+
+It also preserves two variables across the quartet:
+
+```text
+SAME NATIONAL POLICY
+        ↓
+DIFFERENT LOCAL LAND SYSTEMS
++ DIFFERENT ADMINISTRATIVE CAPACITY
++ DIFFERENT RELIEF CAPACITY
+        ↓
+DIFFERENT LOCAL OUTPUTS
+```
+
+and:
+
+```text
+BODY NEEDS FOOD: NOW
+PARLIAMENT: DEBATES
+ADMINISTRATION: IMPLEMENTS
+LAW: OPERATES
+RELIEF: ARRIVES
+BODY: MAY ALREADY BE IRRECOVERABLY WEAKENED
+```
+
+[🇬🇧 What Britain Knew](./🇬🇧_what_britain_knew.md) supplies the information environment. This node maps intervention. [🕯️ The Lawful Catastrophe](./🕯️_the_lawful_catastrophe.md) separates rights, duties and remedies. [🔥 Eviction And Clearance](./🔥_eviction_and_clearance.md) follows possession and displacement into the physical world.
+
+---
+
+## PART XII — 🕯️ WHEN POLICY HANDS THE BODY TO LAW
+
+### 46. 🧱 Put The Mechanisms Together
 
 By this stage the person may have travelled through:
 
@@ -1654,7 +1700,7 @@ The combined system can still leave that person without an effective route to fo
 
 ---
 
-## 47. ⚖️ Who Owes Them Anything?
+### 47. ⚖️ Who Owes Them Anything?
 
 Now the questions change.
 
@@ -1910,4 +1956,4 @@ It reconstructs British famine policy from the body outward: what people were ma
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-06_
+_Last updated: 2026-10-07_
