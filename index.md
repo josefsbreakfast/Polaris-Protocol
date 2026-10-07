@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-07 22:45:23 UTC_
+_Generated on 2026-10-07 22:47:55 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -81,6 +81,7 @@ _Generated on 2026-10-07 22:45:23 UTC_
     - [**🎩_Very_British_Fears_Of_Jews/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🎩_Very_British_Fears_Of_Jews/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🎩_Very_British_Fears_Of_Jews/README.md)
       - [`notes.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🎩_Very_British_Fears_Of_Jews/notes.md)
+      - [`👑_fagin_reviews_the_situation.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🎩_Very_British_Fears_Of_Jews/👑_fagin_reviews_the_situation.md)
     - [**📚_Which_Yisrael/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/README.md)
       - [`⚖️_ihra_jda_and_which_yisrael.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/⚖️_ihra_jda_and_which_yisrael.md)
