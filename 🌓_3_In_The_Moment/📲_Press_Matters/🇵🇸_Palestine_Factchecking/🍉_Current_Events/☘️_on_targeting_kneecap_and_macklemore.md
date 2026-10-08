@@ -1,6 +1,6 @@
 # ☘️ On Targeting Kneecap And Macklemore
 
-**First created:** 2026-09-19 | **Last updated:** 2026-10-06  
+**First created:** 2026-09-19 | **Last updated:** 2026-10-08  
 *Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*
 
 ---
@@ -2126,4 +2126,4 @@ palestine, gaza, information ecology, securitisation, instrumentalised fear, con
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-06_
+_Last updated: 2026-10-08_
