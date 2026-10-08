@@ -1,1 +1,18 @@
+bear with structure, will need to edit elsewhere and consolidate. core nodes for now 
 
+🌓_3_In_The_Moment/
+└── 📲_Press_Matters/
+    └── 🔊_Turn_The_Public_Up/
+        └── 🍊☘️_Seas_An_Fód/
+            │
+            ├── README.md
+            │
+            ├── ⚖️_legal_and_diplomatic_timeline.md
+            │
+            ├── 📜_parades_commission_and_the_law.md
+            │
+            ├── 🏛️_courts_and_policing_powers.md
+            │
+            ├── 🕊️_british_irish_diplomacy.md
+            │
+            └── 🌍_international_intervention.md
