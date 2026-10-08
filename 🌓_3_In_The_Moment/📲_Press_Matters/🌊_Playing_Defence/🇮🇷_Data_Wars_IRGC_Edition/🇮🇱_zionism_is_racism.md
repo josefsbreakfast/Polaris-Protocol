@@ -1,5 +1,5 @@
 # 🇮🇱 Zionism Is Racism
-**First created:** 2026-02-01 | **Last updated:** 2026-10-08  
+**First created:** 2026-02-01 | **Last updated:** 2026-10-09  
 *The 2026 Green Party motion as a worked case in Zionism, racism, responsible reporting, attribution hygiene, minority safety, and democratic information defence.*
 
 ---
@@ -37,7 +37,13 @@ Arm in arm is the only way to land.
 - if the bbc wants to play guilt by association, maybe it should look up some of the people it is siding with in the DOJ Epstein disclosures. but then it loved Jimmy.
 - this is desperate, racist, and not journalism. it shows the bbc can’t engage in any of the BDS votes, in any of the arms embargo points, in any way on deproscription conversations, and raises series questions about the balance and “neutrality” of the broadcaster even when the government has pivoted on its legal position. it is no longer the government’s position, to ignore the fact that violence is disproportionately directed towards Palestinians, so why is this the “neutrality” of the national broadcaster? They shouldn’t be coming from D notice, and if it is, it raises a serious concerns about the way important information is being communicated within government. Wes was all “maybe there are war crimes” at one point; where is he?  
 - for the avoidance of doubt, it is pretty ridiculous to have watched all of you say that you were surprised “Ed Miliband brought his Jewishness into his statements”, and then what you do stuff like this (which is a *scathing* thing to put on a national broadcaster by the way), whilst also saying that Ed Miliband needs to personally reassure every single Jew in Britain. Do you not think that the management and distribution of information is within the media’s remit? Not in your job spec?
-- The need to tie it to 9/11 is fundamentally ridiculous, and this is disingenuous for the people who lost loved ones on that day, and as a result of occupational hazard in the ongoing years.    
+- The need to tie it to 9/11 is fundamentally ridiculous, and this is disingenuous for the people who lost loved ones on that day, and as a result of occupational hazard in the ongoing years.
+
+20261008:  
+
+- [📹: ITV News, via TikTok: “Green Party leader Zack Polanski avoided answering questions on his "Zionism is racism" policy on October 8
+when he was out talking to Voters in them? Holborn and St Pancras by-election.
+Polanski is hoping to replace Sir Keir Starmer as the MP for the north London constituency, aiming to break Labour's clean sheet in their stronghold and secure his own seat in the House of Commons.”](https://vm.tiktok.com/ZN8kweeTJ/) – *This feels like a pressure campaign that is just targeting people in order, going around the stakeholders within the green party, to try to pressure to change course, for a democratic vote in a Democratic party; I never saw Reform UK questioned on policy this much until the £5mil, despite the fact that their policies are aggressively racist, and a predicated on deportation of groups they do not see as inherently British, whilst at the same time they were concerns about antisemitism; I have not once seen Labour be asked to tell us what happened to project cannon; I didn’t see questioning there was anything like this over either their Mandelson or Andrew when they were arrested; Trump is very questioned, despite what has been enabled at a policy level in the USA, which is clearly racist in both form and function. I have not seen that in Yahoo be questioned this much about why he didn’t intervene, and if he had prior warnings around October 7; if it’s about what you say it is, why is the pressure not consistent?*  
 
 ---
 
@@ -1473,4 +1479,4 @@ information environments, democratic defence, media fidelity, attribution hygien
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-08_
+_Last updated: 2026-10-09_
