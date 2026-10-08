@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-08 11:32:23 UTC_
+_Generated on 2026-10-08 11:34:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4219,6 +4219,7 @@ _Generated on 2026-10-08 11:32:23 UTC_
       - [**🍊☘️_Seas_An_Fód/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/notes.txt)
         - [`⚖️_legal_and_diplomatic_timeline.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/⚖️_legal_and_diplomatic_timeline.md)
+        - [`🏛️_courts_and_policing_powers.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/🏛️_courts_and_policing_powers.md)
         - [`📜_parades_commission_and_the_law.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/📜_parades_commission_and_the_law.md)
       - [**🍿_Historical_Democratic_Actions/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/)
         - [**🌕☂️_Yellow_Umbrellas/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌕☂️_Yellow_Umbrellas/)
