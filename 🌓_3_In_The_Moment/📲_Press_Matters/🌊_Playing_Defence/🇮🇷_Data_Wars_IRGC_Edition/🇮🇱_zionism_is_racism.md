@@ -35,7 +35,9 @@ Arm in arm is the only way to land.
 - if “the British government respects the court”, re not wanting to use “genocide” yet, does it not also respect the orders?
 - the tactic of guilt by association is colonial, and the State of Israel has used it extensively in recent years, which is why it has tortured and killed so many doctors under the Hamas government; Dr Hussam Idris Abu Safiya is still being held and tortured.
 - if the bbc wants to play guilt by association, maybe it should look up some of the people it is siding with in the DOJ Epstein disclosures. but then it loved Jimmy.
-- this is desperate, racist, and not journalism. it shows the bbc can’t engage in any of the BDS votes, in any of the arms embargo points, in any way on deproscription conversations, and raises series questions about the balance and “neutrality” of the broadcaster even when the government has pivoted on its legal position. it is no longer the government’s position, to ignore the fact that violence is disproportionately directed towards Palestinians, so why is this the “neutrality” of the national broadcaster? They shouldn’t be coming from D notice, and if it is, it raises a serious concerns about the way important information is being communicated within government.  
+- this is desperate, racist, and not journalism. it shows the bbc can’t engage in any of the BDS votes, in any of the arms embargo points, in any way on deproscription conversations, and raises series questions about the balance and “neutrality” of the broadcaster even when the government has pivoted on its legal position. it is no longer the government’s position, to ignore the fact that violence is disproportionately directed towards Palestinians, so why is this the “neutrality” of the national broadcaster? They shouldn’t be coming from D notice, and if it is, it raises a serious concerns about the way important information is being communicated within government. Wes was all “maybe there are war crimes” at one point; where is he?  
+- for the avoidance of doubt, it is pretty ridiculous to have watched all of you say that you were surprised “Ed Miliband brought his Jewishness into his statements”, and then what you do stuff like this (which is a *scathing* thing to put on a national broadcaster by the way), whilst also saying that Ed Miliband needs to personally reassure every single Jew in Britain. Do you not think that the management and distribution of information is within the media’s remit? Not in your job spec?
+- The need to tie it to 9/11 is fundamentally ridiculous, and this is disingenuous for the people who lost loved ones on that day, and as a result of occupational hazard in the ongoing years.    
 
 ---
 
@@ -1471,4 +1473,4 @@ information environments, democratic defence, media fidelity, attribution hygien
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-07_
+_Last updated: 2026-10-08_
