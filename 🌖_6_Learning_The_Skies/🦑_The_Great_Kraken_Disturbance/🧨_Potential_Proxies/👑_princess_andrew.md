@@ -956,6 +956,12 @@ The rest of us have unfortunately been given another live demonstration of Andre
 
 ---
 
+> “μέγας γὰρ Ἅιδης ἐστὶν εὔθυνος βροτῶν  
+> ἔνερθε χθονός,  
+> δελτογράφῳ δὲ πάντ’ ἐπωπᾷ φρενί.”  
+
+---
+
 ## 🌌 Constellations
 
 🕸️ 🧨 🧿 🛰️ ⚖️ — intermediary relationships; constitutional restraint; information routing; historical records producing contemporary second-order effects.  
