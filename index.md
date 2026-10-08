@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-08 11:37:12 UTC_
+_Generated on 2026-10-08 11:40:40 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4219,6 +4219,7 @@ _Generated on 2026-10-08 11:37:12 UTC_
       - [**🍊☘️_Seas_An_Fód/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/notes.txt)
         - [`⚖️_legal_and_diplomatic_timeline.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/⚖️_legal_and_diplomatic_timeline.md)
+        - [`🌍_international_intervention.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/🌍_international_intervention.md)
         - [`🏛️_courts_and_policing_powers.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/🏛️_courts_and_policing_powers.md)
         - [`📜_parades_commission_and_the_law.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/📜_parades_commission_and_the_law.md)
         - [`🕊️_british_irish_diplomacy.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/🕊️_british_irish_diplomacy.md)
