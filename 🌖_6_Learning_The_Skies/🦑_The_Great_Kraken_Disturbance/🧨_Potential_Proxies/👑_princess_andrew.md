@@ -941,7 +941,184 @@ And because Andrew has, once again, made a tacit British arrangement visible by 
 
 The legal system will answer the legal question.
 
-The rest of us have unfortunately been given another live demonstration of Andrewness.
+The rest of us have unfortunately been given another live demonstration of Andrewness.  
+
+---  
+
+## 🔐 A Reminder for Press: The Warrant, The Intelligence And What The Defence Might Not Know
+
+There is a potentially important information asymmetry in Andrew Mountbatten-Windsor's challenge to the search warrants.
+
+**His lawyers may not know everything the police know.**
+
+And, depending on what material was relied upon to obtain the warrants, they may not initially know everything the authorising judge was shown either.
+
+This matters because the underlying investigation concerns alleged information transfers across the boundary between British public office and private international relationships.
+
+That is national-security-adjacent territory.
+
+It does **not** establish that intelligence agencies were involved, that classified material supported the warrant applications, or that any such material has been withheld from Andrew's lawyers.
+
+Those are separate questions requiring evidence.
+
+### 🕵️ Three Different Information Environments
+
+Journalists should distinguish between three bodies of information:
+
+**1. The investigative information**
+
+Everything investigators have obtained or assessed, potentially including witness accounts, documents, communications, financial records, foreign disclosures and intelligence.
+
+**2. The warrant application**
+
+The information actually presented to the judge to establish the statutory grounds for authorising the searches.
+
+This may be considerably narrower than the complete investigative record.
+
+**3. The defence's information**
+
+The warrant, supporting documents and other material Andrew's lawyers have received or successfully obtained through the legal process.
+
+These three sets are not necessarily identical.
+
+```text
+INFORMATION AVAILABLE TO INVESTIGATORS
+                 │
+                 ▼
+     MATERIAL USED TO SUPPORT
+       THE WARRANT APPLICATION
+                 │
+                 ▼
+       JUDICIAL AUTHORISATION
+                 │
+                 ▼
+          WARRANT EXECUTED
+                 │
+                 ▼
+       DEFENCE SEEKS REVIEW
+                 │
+                 ▼
+    DISCLOSURE / ACCESS QUESTIONS
+```
+
+The important point is that **the defence cannot safely assume that its own information represents the complete investigative picture**.
+
+Nor should journalists assume that everything investigators know was necessarily placed before the authorising judge.
+
+### ⚖️ What Would His Lawyers Actually Need To Establish?
+
+A successful challenge would require identifying a legally significant problem with the warrants or their authorisation.
+
+Depending on the grounds pursued, that could involve demonstrating:
+
+- That the statutory requirements for issuing the warrants were not satisfied.
+- That the issuing judge lacked sufficient grounds to authorise the searches.
+- That material information was omitted or the application was misleading.
+- That the warrants were insufficiently specific or unlawfully broad.
+- That the police exceeded their lawful authority when executing them.
+
+These are possible legal arguments, **not confirmed descriptions of Andrew's pleaded case**.
+
+Importantly, the defence does not have to establish Andrew's innocence.
+
+Nor does every successful warrant challenge require proof of deliberate police misconduct.
+
+The court examines the legality of the relevant decisions and actions, applying the requirements governing the particular challenge.
+
+### 🔒 What If Some Information Is Sensitive?
+
+National-security information, intelligence sources and confidential investigative methods can create disclosure difficulties.
+
+Public interest immunity may be relevant where disclosure would damage an important public interest.
+
+However, the existence of sensitive information does not automatically entitle the police or government to withhold it from judicial scrutiny.
+
+Nor does it mean that a closed-material procedure is automatically available.
+
+**The applicable disclosure rules and any restrictions depend on the proceedings and their legal basis.**
+
+A journalist should therefore ask:
+
+- What information was actually placed before the issuing judge?
+- What supporting material has been disclosed to the defence?
+- Has access to any material been restricted?
+- If so, under what legal authority?
+- Is any restriction justified by investigative confidentiality, national security, legal privilege or another recognised interest?
+- Is the court being asked to decide whether withheld material is necessary for a fair determination?
+
+These questions do not presume misconduct by either side.
+
+They identify the information architecture within which the legal challenge operates.
+
+### 🍯 The HoneyBot Problem
+
+For the purposes of our entirely serious constitutional investigation:
+
+```text
+ANDREW:
+THE WARRANT WAS UNLAWFUL.
+
+COURT:
+On what grounds?
+
+ANDREW:
+I DON'T KNOW WHAT THEY KNOW.
+
+COURT:
+That is not, by itself, a ground
+for quashing a warrant.
+
+ANDREW:
+BUT THEY FOUND HONEYBOT.
+
+COURT:
+We have not established that.
+
+ANDREW:
+FREE HONEYBOT.
+```
+
+HoneyBot remains a running Polaris joke, not an allegation about anything actually recovered during the searches.
+
+### 🧨 Why The Distinction Matters
+
+There are two opposite errors available to journalists.
+
+The first is assuming that because a warrant was judicially authorised, it must have been lawful.
+
+Judicial authorisation can be challenged.
+
+The second is assuming that because a warrant is being challenged, the police must have obtained it improperly.
+
+A legal challenge does not establish a legal defect.
+
+There is also a third error: assuming that the defence knows everything relevant to the original authorisation.
+
+**It may not.**
+
+But that possibility must not be inflated into an assertion that secret intelligence exists in this particular case.
+
+Finally, even if a warrant is quashed, evidence obtained through the search does not automatically become inadmissible. Any subsequent application to exclude prosecution evidence under section 78 of PACE raises a separate question concerning trial fairness.
+
+### 📡 The Question Journalists Should Be Asking
+
+Rather than simply reporting that Andrew is challenging the police, establish **which part of the warrant process his lawyers say was unlawful**.
+
+Was the problem allegedly:
+
+- the factual basis of the application;
+- the disclosure made to the issuing judge;
+- the statutory authority relied upon;
+- the scope of the warrant;
+- or the way the search was conducted?
+
+Then establish what the defence has actually been permitted to examine.
+
+Until those questions are answered, the public cannot reliably assess the strength of the challenge.
+
+**The existence of an information asymmetry is a reason to investigate the procedure, not a licence to invent the information missing from public view.**
+
+And, regrettably, nobody has yet established the whereabouts of HoneyBot.
 
 ---
 
