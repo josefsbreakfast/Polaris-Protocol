@@ -1,5 +1,5 @@
 # 🇮🇱 Zionism Is Racism
-**First created:** 2026-02-01 | **Last updated:** 2026-10-07  
+**First created:** 2026-02-01 | **Last updated:** 2026-10-08  
 *The 2026 Green Party motion as a worked case in Zionism, racism, responsible reporting, attribution hygiene, minority safety, and democratic information defence.*
 
 ---
@@ -23,6 +23,19 @@ Act as if every life is priceless.
 [Solidarity.](https://vm.tiktok.com/ZN8kqphKF/)  
 
 Arm in arm is the only way to land.  
+
+---
+
+20261008: BBC Unable To Do Basic Journalism  
+
+- [📹: JupiterBaal, via TikTok: “BBC News should know better.”](https://vm.tiktok.com/ZN8kgx7eK/)
+
+- yet the sentence is in the article, so you can do journalism as a team?
+- literally in the aftermath of Jason Arday you are piling on a woman who you are racialising, from a group protected by current ICJ orders for protection against genocide??
+- if “the British government respects the court”, re not wanting to use “genocide” yet, does it not also respect the orders?
+- the tactic of guilt by association is colonial, and the State of Israel has used it extensively in recent years, which is why it has tortured and killed so many doctors under the Hamas government; Dr Hussam Idris Abu Safiya is still being held and tortured.
+- if the bbc wants to play guilt by association, maybe it should look up some of the people it is siding with in the DOJ Epstein disclosures. but then it loved Jimmy.
+- this is desperate, racist, and not journalism. it shows the bbc can’t engage in any of the BDS votes, in any of the arms embargo points, in any way on deproscription conversations, and raises series questions about the balance and “neutrality” of the broadcaster even when the government has pivoted on its legal position. it is no longer the government’s position, to ignore the fact that violence is disproportionately directed towards Palestinians, so why is this the “neutrality” of the national broadcaster? They shouldn’t be coming from D notice, and if it is, it raises a serious concerns about the way important information is being communicated within government.  
 
 ---
 
