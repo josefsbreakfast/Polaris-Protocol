@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-08 12:33:49 UTC_
+_Generated on 2026-10-08 12:41:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4218,7 +4218,6 @@ _Generated on 2026-10-08 12:33:49 UTC_
         - [`🗝️_el_movimiento_okupa.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/🗝️_el_movimiento_okupa.md)
       - [**🍊☘️_Seas_An_Fód/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/README.md)
-        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/notes.txt)
         - [`⚖️_legal_and_diplomatic_timeline.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/⚖️_legal_and_diplomatic_timeline.md)
         - [`🌍_international_intervention.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/🌍_international_intervention.md)
         - [`🏛️_courts_and_policing_powers.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/🏛️_courts_and_policing_powers.md)
