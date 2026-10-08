@@ -47,3 +47,98 @@ Finally, I rechecked the Iran-facing water, energy, telecommunications, defence 
 
 Today’s substantive movement is therefore South Korea: coordinated-looking financial-sector intrusion + probable AI-assisted exploitation + peripheral-system targeting, with sponsor unresolved. It strengthens the emerging conclusion that the important unit of analysis is increasingly not just who got hacked, but which layer of the institutional architecture the operator found easiest to route through.”  
 
+“🛰️ Iran Infrastructure Watch — 8 October 2026
+
+Three developments clear the threshold today. The most important is new forensic evidence concerning the South Korean banking attacks. The others involve Swiss federal administration and compromised national internet infrastructure.
+
+None establishes additional Iranian involvement. But the South Korean findings substantially improve our understanding of who is directing AI-assisted intrusions and what they intend to do with the resulting access.
+
+🇰🇷 1. South Korea — banking: the AI operator is becoming identifiable
+
+On 7 October,  CrowdStrike Intelligence⁠￼ published a technical investigation into the banking intrusions we identified yesterday.
+
+Researchers recovered material from attacker-controlled infrastructure, including:
+
+* Claude Code session histories and memory files.
+* ARTEX autonomous penetration-testing configurations.
+* Chinese-language instructions directing offensive activity.
+* Evidence of targeting South Korean financial institutions.
+* Requests for assistance locating markets for stolen Korean financial data.
+
+The activity occurred between late September and early October. At least nine financial institutions have reportedly been targeted, although the number demonstrably compromised remains uncertain.  
+
+The attribution change is significant.
+
+CrowdStrike assesses with moderate confidence that the operator is Chinese-speaking and financially motivated. Researchers also recovered personal details suggesting a possible 26-year-old operator in Guangdong, China.
+
+However, those details came from material supplied during an AI-assisted résumé-writing session. They have not been independently established as the attacker’s genuine identity.  
+
+Operational impact: Customer-data theft is confirmed across the broader banking cluster. No systemic payment disruption or theft of customer funds has been established.
+
+Competing explanations: Financially motivated cybercrime now has stronger direct support than yesterday. State sponsorship, subcontracting or an eventual intelligence customer remain unproven possibilities.
+
+Iranian attribution: ⚪ No evidence.
+
+Trend change since 28 February: We can now distinguish between AI tools merely appearing in attack artefacts and evidence showing a human operator actively directing those tools towards financial targets and exploring ways to monetise stolen information.
+
+That is a meaningful improvement in attribution methodology.
+
+🇨🇭 2. Switzerland — federal administration / pension infrastructure
+
+The Swiss government confirmed on 8 October that the federal pension fund Publica was affected by a data leak following a cyberattack against an external software supplier in late September.
+
+The supplier reported the incident to authorities and customers. Switzerland’s Office of the Attorney General has opened an investigation. The affected data categories and number of people involved are still being established. Authorities say no other federal entities had a business relationship with the compromised supplier.  
+
+Operational impact: Exposure of information associated with federal pension administration. No interruption to pension payments or financial operations has been established.
+
+Attribution confidence: Confirmed supplier intrusion and associated data leak; operator unknown.
+
+Competing explanations: Criminal data theft or extortion is plausible. There is no public evidence establishing a state-directed operation.
+
+Iranian attribution: ⚪ No evidence.
+
+Trend change: Another confirmed case of essential public administration being exposed through commercial software infrastructure rather than direct compromise of the government institution.
+
+This reinforces the trusted-intermediary pattern already identified in Denmark, France and Germany, without demonstrating a common attacker.
+
+🌐 3. United States territory / Ghana / Sierra Leone — national internet infrastructure
+
+A newly documented cross-jurisdiction campaign deserves inclusion because it reached infrastructure underlying internet identity and trust.
+
+On 6 October,  Google's security team⁠￼ confirmed compromises involving the country-code domain systems for:
+
+* 🇬🇭 Ghana — .gh
+* 🇸🇱 Sierra Leone — .sl
+* 🇺🇸 American Samoa — .as, a US territory
+
+The attacks occurred during the preceding week.
+
+Attackers manipulated authoritative DNS records and obtained unauthorised HTTPS certificates covering Google properties and other organisations.
+
+Google’s own infrastructure was not compromised. The company blocked the unauthorised certificates through Chrome’s emergency protection mechanisms and coordinated revocation with certificate authorities.  
+
+Operational impact: Confirmed compromise of DNS authority and fraudulent certificate issuance. This created opportunities for website impersonation and interception, but widespread successful interception or disruption of essential public services has not been established.
+
+Attribution confidence: High for the infrastructure compromises; unknown operator and sponsor.
+
+Competing explanations: Credential theft, fraud, espionage preparation or commercial exploitation are all plausible. No single motive is established.
+
+Iranian attribution: ⚪ No evidence.
+
+Trend change: This extends our concentration-point model beyond outsourced institutional software into the internet’s underlying trust infrastructure.
+
+The American Samoa connection brings part of the campaign within US territorial infrastructure. There is no reason to infer that Ghana or Sierra Leone were targeted because of the Iran war.
+
+📊 Overall assessment
+
+The principal change since yesterday is stronger evidence for human-directed, financially motivated AI-assisted exploitation of banking systems.
+
+The Swiss and DNS cases reinforce a second, established pattern: attackers repeatedly gain leverage over multiple organisations by compromising intermediaries that hold trusted access, institutional data or technical authority.
+
+I found no credible new Iranian-attributed cyber disruption in water, energy, defence, telecommunications, healthcare or transport during this check.
+
+There is a separate escalation in physical maritime attacks around the Strait of Hormuz, but those are not cyber incidents and should remain outside the cyberattack count.
+
+Watch status: three substantive updates; no increase in Iranian cyber-attribution confidence.”
+
+- - - 
