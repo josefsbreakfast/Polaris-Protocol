@@ -958,7 +958,9 @@ The rest of us have unfortunately been given another live demonstration of Andre
 
 > “μέγας γὰρ Ἅιδης ἐστὶν εὔθυνος βροτῶν  
 > ἔνερθε χθονός,  
-> δελτογράφῳ δὲ πάντ’ ἐπωπᾷ φρενί.”  
+> δελτογράφῳ δὲ πάντ’ ἐπωπᾷ φρενί.”
+
+🍯🐝  
 
 ---
 
