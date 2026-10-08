@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-08 15:51:53 UTC_
+_Generated on 2026-10-08 23:44:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3663,6 +3663,7 @@ _Generated on 2026-10-08 15:51:53 UTC_
           - [`nato_aviation_safety_events_2026-02-28_to_2026-09-23.xlsx`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/data/nato_aviation_safety_events_2026-02-28_to_2026-09-23.xlsx)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/notes.txt)
         - [`🍖_whips_chains_and_bbq_skewers.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/🍖_whips_chains_and_bbq_skewers.md)
+        - [`🛡️_britannia_bubble.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/🛡️_britannia_bubble.md)
         - [`🛢️_section_5_is_precise.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_Keep_Shiny_Toys_Safe/🛢️_section_5_is_precise.md)
       - [**✈️_World_War_Epstein/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/✈️_World_War_Epstein/README.md)
