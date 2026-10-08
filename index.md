@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-08 01:31:47 UTC_
+_Generated on 2026-10-08 01:49:57 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3828,6 +3828,7 @@ _Generated on 2026-10-08 01:31:47 UTC_
       - [**🫀_Grieving_Charlie_Foxtrots/**](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🫀_Grieving_Charlie_Foxtrots/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🫀_Grieving_Charlie_Foxtrots/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🫀_Grieving_Charlie_Foxtrots/notes.txt)
+        - [`☘️_ballymurphy_massacre_1971.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🫀_Grieving_Charlie_Foxtrots/☘️_ballymurphy_massacre_1971.md)
         - [`☘️_bloody_sunday_1972.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🫀_Grieving_Charlie_Foxtrots/☘️_bloody_sunday_1972.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/README.md)
     - [**🌱_Prosocial_Roots/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/)
