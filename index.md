@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-08 08:19:45 UTC_
+_Generated on 2026-10-08 08:25:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4203,6 +4203,8 @@ _Generated on 2026-10-08 08:19:45 UTC_
         - [`🫂_reassurance_requires_evidence.md`](🌓_3_In_The_Moment/📲_Press_Matters/📰_Responsible_Reporting/🕯️_Rising_Black_Deaths_In_Public/🫂_reassurance_requires_evidence.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/📰_Responsible_Reporting/README.md)
     - [**🔊_Turn_The_Public_Up/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/)
+      - [**🌹_Por_Todas_Las_Maricarmen/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/notes.txt)
       - [**🍿_Historical_Democratic_Actions/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/)
         - [**🌕☂️_Yellow_Umbrellas/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌕☂️_Yellow_Umbrellas/)
           - [`IMG_0938.png`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌕☂️_Yellow_Umbrellas/IMG_0938.png)
