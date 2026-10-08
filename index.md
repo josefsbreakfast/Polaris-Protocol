@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-08 11:09:54 UTC_
+_Generated on 2026-10-08 11:24:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4216,6 +4216,8 @@ _Generated on 2026-10-08 11:09:54 UTC_
         - [`🕯️_la_historia_de_maricarmen.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/🕯️_la_historia_de_maricarmen.md)
         - [`🕸️_como_se_organiza_un_barrio.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/🕸️_como_se_organiza_un_barrio.md)
         - [`🗝️_el_movimiento_okupa.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/🗝️_el_movimiento_okupa.md)
+      - [**🍊☘️_Seas_An_Fód/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/notes.txt)
       - [**🍿_Historical_Democratic_Actions/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/)
         - [**🌕☂️_Yellow_Umbrellas/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌕☂️_Yellow_Umbrellas/)
           - [`IMG_0938.png`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌕☂️_Yellow_Umbrellas/IMG_0938.png)
