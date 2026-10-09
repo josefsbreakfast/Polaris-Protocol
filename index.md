@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-09 13:32:51 UTC_
+_Generated on 2026-10-09 14:09:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2631,6 +2631,7 @@ _Generated on 2026-10-09 13:32:51 UTC_
       - [`📺_firing_squad_ppv.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📺_firing_squad_ppv.md)
       - [`🤖_the_great_plausible_deniability_machine.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🤖_the_great_plausible_deniability_machine.md)
       - [`🧵_bayeux_redux.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🧵_bayeux_redux.md)
+      - [`🩸_netenyahus_lmp.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🩸_netenyahus_lmp.md)
       - [`🪓_kissingers_little_leninist.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🪓_kissingers_little_leninist.md)
       - [`🫂_free_mo_chara.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🫂_free_mo_chara.md)
       - [`🫥_experiential_saturation.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🫥_experiential_saturation.md)
