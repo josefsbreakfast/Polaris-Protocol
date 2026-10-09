@@ -628,8 +628,8 @@ oxytocin, ferguson reflex, childbirth, vaginal delivery, lactation, milk ejectio
 
 > 📡 Cross-references:
 >
-> - [🐝 Debunking Men](./README.md) — *claim-level scientific and factual scrutiny*.
-> - [🥃 Males Online](../README.md) — *parent information environment*.
+> - [🕹️ Getting the Tech Bros Back on Script](../../📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🦾_Future_MDT_Working/🕹️_getting_the_tech_bros_back_on_script.md) – *homework, because y’all are making us look weird. again.*
+> - [🐳 See: Our New Deterrence Capability!](../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🐳_see_our_new_deterrence_capability.md) – *please do not test how serious we are*  
 >
 > 🏮 Return To:
 >
