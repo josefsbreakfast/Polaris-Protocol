@@ -365,8 +365,11 @@ embodied information ecology, state violence, public execution, military discipl
 
 > 📡 Cross-references:
 >
-> - [🫀🕸️ Information Is Experienced](./README.md) — *parent framework for embodied information reception*.
-> - [🪿 Embodied Information Ecology](../README.md) — *wider ecology of bodies, information and power*.
+-[🎭 Performative Cruelty as Governance](../../.🌱_Still_Growing/🗝️_Politics_Memory_Work/🎭_performative_cruelty_as_governance.md) — *punitive power staged for audiences*  
+- [🧨 Cruelty as Innovation](../../♻️_Cybernetics/🧪_Development_Experimentation/🧨_cruelty_as_innovation.md) — *when ruthlessness is misread as competence*  
+- [🧊 Managed Cruelty](../../🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/🧊_managed_cruelty.md) — *harm processed through apparently orderly institutions*  
+- [⚖️ The History of Justice as Spectacle](🌑../../♻️_Cybernetics/💫_Containment_Logic/⚖️_the_history_of_justice_as_spectacle.md) — *scaffold, crowd and changing visibility*  
+- ⚖️ Why the Death Penalty Makes No Sense for the United Kingdom](../../♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_why_the_death_penalty_makes_no_sense_for_the_united_kingdom.md) — *abolition, survivors' agency and the bandwidth trap*  
 >
 > 🏮 Return To:
 >
