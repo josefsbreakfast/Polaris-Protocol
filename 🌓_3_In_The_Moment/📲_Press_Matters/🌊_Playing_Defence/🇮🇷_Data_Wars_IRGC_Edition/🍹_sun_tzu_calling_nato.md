@@ -1,6 +1,5 @@
-# 🍹 Sun Tzu Calling NATO
-
-**First created:** 2026-09-26 \| **Last updated:** 2026-09-26\
+# 🍹 Sun Tzu Calling NATO  
+**First created:** 2026-09-26 \| **Last updated:** 2026-10-08  
 *On strategic time, conserved capacity, changing conditions,
 cross-cultural depth on the bench, and the unfortunate discovery that
 "DO SOMETHING" is not actually a strategy.*
@@ -4023,6 +4022,12 @@ making the decision.
 capacity; cross-cultural depth on the bench; attribution versus
 advantage.  
 
+*The crew of the USS Abraham Lincoln is home.*  
+
+- [📹: USA Today, via TikTok: “Families reunite with USS Lincoln sailors”](https://vm.tiktok.com/ZN8kEgQKt/) – *USS George Washington relieves; the 321 day deployment for those serving on the USS Abraham Lincoln has ended*
+
+*I know it doesn’t wave a magic wand at geopolitics; I just like to see people getting home safe, whenever possible.*  
+
 *Follow the evidence:*  
 
 - [📰: BBC: “Iran offers US deal to reopen Strait of Hormuz in seven days”](https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko) – *America, at this point we don’t even need to know how executive the mooncakes were that you gave President Xi, please do not pass up on a deal that can get your lads back to port because something something epic fury; we are all tired, and British admin is still a disgrace. Please trust our experience in this arena, cousin 🍋‍🟩*  
@@ -4086,4 +4091,4 @@ time, expenditure, restraint and system preservation.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-26*
+_Last updated: 2026-10-08_
