@@ -1,6 +1,8 @@
 # 🪞 On the Chirality of Fentanyl
 **First created:** 2026-10-09 | **Last updated:** 2026-10-09  
-*An unnecessarily large pharmacology lesson disguised as a dispute about piss drones, Renaissance men, international scientific governance and the rules of domestic Nerf warfare.*
+*An unnecessarily large pharmacology lesson disguised as a dispute about piss drones, Renaissance men, international scientific governance and the rules of domestic Nerf warfare.*  
+
+*Tl;dr: the CIA connection was not my first concern; my first concern is that patients and healthcare professionals should be able to provide real direction to their health service, far more than every bloody contractor who comes in for a bite of the contingency we may have, were every one of the politicians who touches the project not out to sell the entire country’s health infrastructure, for whatever their own personal version of magic beans would be.*  
 
 ---
 
