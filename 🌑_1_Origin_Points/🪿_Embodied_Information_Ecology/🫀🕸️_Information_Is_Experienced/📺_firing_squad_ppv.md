@@ -1,25 +1,3 @@
-<!-- 
-## 🌌 Constellations
-
--[🎭 Performative Cruelty as Governance](../../.🌱_Still_Growing/🗝️_Politics_Memory_Work/🎭_performative_cruelty_as_governance.md) — *punitive power staged for audiences*  
-- [🧨 Cruelty as Innovation](../../♻️_Cybernetics/🧪_Development_Experimentation/🧨_cruelty_as_innovation.md) — *when ruthlessness is misread as competence*  
-- [🧊 Managed Cruelty](../../🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/🧊_managed_cruelty.md) — *harm processed through apparently orderly institutions*  
-- [⚖️ The History of Justice as Spectacle](🌑../../♻️_Cybernetics/💫_Containment_Logic/⚖️_the_history_of_justice_as_spectacle.md) — *scaffold, crowd and changing visibility*  
-- ⚖️ Why the Death Penalty Makes No Sense for the United Kingdom](../../♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_why_the_death_penalty_makes_no_sense_for_the_united_kingdom.md) — *abolition, survivors' agency and the bandwidth trap*  
-
-## 📚 Sources and Verification
-
-- [1] [U.S. Army: “Army Sets Execution Date for Convicted Murderer Nidal Hasan” (7 October 2026)](https://www.army.mil/article/295989/army_sets_execution_date_for_convicted_murderer_nidal_hasan).
-- [2] [Associated Press: “Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed” (9 October 2026)](https://apnews.com/article/818853afc1be5c70fe41c5b781a8d559).
-- [3] [Reuters: “US to livestream Army firing squad execution of Fort Hood shooter” (8 October 2026)](https://www.marinecorpstimes.com/news/pentagon-congress/2026/10/08/us-to-livestream-army-execution-of-fort-hood-shooter-pentagon-official-says/).
-- [4] [Reuters: “Trump orders firing squad for gunman who killed 13 people at Fort Hood” (6 October 2026)](https://www.reuters.com/world/us/trump-orders-firing-squad-gunman-who-killed-13-people-fort-hood-texas-2026-10-06/).
-- [5] [UK Government: “Report of the Bloody Sunday Inquiry” (2010)](https://www.gov.uk/government/publications/report-of-the-bloody-sunday-inquiry).
-- [6] [Associated Press: “Public executions in the US were once a community spectacle and then they stopped” (9 October 2026)](https://apnews.com/article/e9b41d2c6425aa75e25e65dddc91ab7b).
-
-**Research still required:** precise legal authority for halting or rescheduling this military execution; the authority and procedures for cancelling the broadcast; complete source transcript and location of Hegseth's comments; peer-reviewed PTSD and violence-risk literature; military doctrine; verified statements by victims' families; contemporary audience evidence; historical sources for crowd behaviour and sovereign vulnerability; the Obama/bin Laden photograph decision. These should not be silently presented as settled.
-
--->  
-
 # 📺 Firing Squad PPV
 **First created:** 2026-10-09 | **Last updated:** 2026-10-09  
 *The state can choose what to broadcast. It cannot choose what a body feels when it watches.*
