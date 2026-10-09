@@ -369,7 +369,7 @@ The research should also record *prominence*, not just publication: national ver
 
 ---  
 
-## 🦑 15. Prognosis — Observe, Do Not Invent the Cycle
+## ♻️ 15. Prognosis — Observe, Do Not Invent the Cycle
 
 We began with a suspicion about the 28th–29th and an awkward question about international banking. We ended up needing to examine sovereign borrowing, central-bank reserves, campaign-finance disclosure, military decisions, far-right mobilisation, attacks against Jewish communities and the machinery by which some of those things become news.
 
