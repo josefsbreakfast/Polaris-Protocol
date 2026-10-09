@@ -1,11 +1,11 @@
 <!-- 
 ## 🌌 Constellations
 
-- **🎭 Performative Cruelty as Governance** — punitive power staged for audiences.
-- **🧨 Cruelty as Innovation** — when ruthlessness is misread as competence.
-- **🧊 Managed Cruelty** — harm processed through apparently orderly institutions.
-- **⚖️ The History of Justice as Spectacle** — scaffold, crowd and changing visibility.
-- **⚖️ Why the Death Penalty Makes No Sense for the United Kingdom** — abolition, survivors' agency and the bandwidth trap.
+-[🎭 Performative Cruelty as Governance]() — *punitive power staged for audiences*  
+- [🧨 Cruelty as Innovation]() — *when ruthlessness is misread as competence*  
+- [🧊 Managed Cruelty]() — *harm processed through apparently orderly institutions*  
+- [⚖️ The History of Justice as Spectacle]() — *scaffold, crowd and changing visibility*  
+- ⚖️ Why the Death Penalty Makes No Sense for the United Kingdom]() — *abolition, survivors' agency and the bandwidth trap*  
 
 ## 📚 Sources and Verification
 
