@@ -44,9 +44,25 @@ The broadcast is an announced plan, not an irreversible fact. [1][2][3]
 
 The title is a joke, and a deliberately nasty one. **There is no established pay-per-view charge.** The joke is about the distance between the decision to distribute a killing as content and the attention economy into which that content would enter. Nobody needs to charge admission for a spectacle to acquire commercial value.
 
-Nor is this a defence of the killings for which Hasan was convicted. The people murdered, those injured, and their families are not incidental to the story. Criminal responsibility, the sentence, the choice of execution method, and the choice to broadcast the execution are **separate questions**. Someone can believe that a grave crime deserves grave punishment and still ask why the state wants an audience to watch a person die.
+Nor is this a defence of the killings for which Hasan was convicted.   
 
-That is the problem this node examines. Not merely *what information is transmitted*, but **how information is experienced**. Fear is not respect. Attention is not approval. Legal power is not personal courage. Military aggression is not military discipline. And announcing a performance of authority does not mean the audience will experience authority as impressive.
+The people murdered, those injured, and their families are not incidental to the story.  
+
+Criminal responsibility, the sentence, the choice of execution method, and the choice to broadcast the execution are **separate questions**.  
+
+Someone can believe that a grave crime deserves grave punishment and still ask why the state wants an audience to watch a person die.  
+
+That is the problem this node examines. Not merely *what information is transmitted*, but **how information is experienced**.  
+
+Fear is not respect.  
+
+Attention is not approval.  
+
+Legal power is not personal courage.  
+
+Military aggression is not military discipline.  
+
+And announcing a performance of authority does not mean the audience will experience authority as impressive.  
 
 **Who the fuck is this actually for?**
 
