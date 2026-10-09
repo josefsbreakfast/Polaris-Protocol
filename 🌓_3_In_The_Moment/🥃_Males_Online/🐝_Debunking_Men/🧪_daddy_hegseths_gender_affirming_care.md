@@ -1,0 +1,1 @@
+🧪_daddy_hegseths_gender_affirming_care.md
