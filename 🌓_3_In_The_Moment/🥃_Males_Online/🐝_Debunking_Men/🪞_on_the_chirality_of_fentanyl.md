@@ -335,7 +335,16 @@ Leonardo was not an idiot and this is not a licence to laugh at early anatomists
 >
 > 🦊 **“THE PATIENT IS NOT A COW.”**
 
-The example matters because errors can be preserved by the apparent sophistication of the system that displays them. A beautiful drawing, an elegant model and a spectacular dashboard are not the same thing as complete observation.
+The example matters because errors can be preserved by the apparent sophistication of the system that displays them. A beautiful drawing, an elegant model and a spectacular dashboard are not the same thing as complete observation.  
+
+### 🩺 Enter: Vesalius, Stage Left  
+
+In 1543, Andreas Vesalius published *De humani corporis fabrica*, challenging anatomical knowledge inherited from Galen, whose descriptions of human bodies had relied substantially on dissections of animals, including monkeys and pigs. By examining actual human cadavers, Vesalius demonstrated that centuries of respected medical authority had preserved errors that direct observation could correct. Galen was an extraordinary physician; his conclusions were nevertheless constrained by the bodies he could examine.
+
+🦊 **“GENTLEMEN, HAVE YOU CONSIDERED LOOKING AT THE ACTUAL PATIENT?”**
+
+The lesson is not that earlier scientists were stupid. It is that **authority, however impressive, cannot substitute for checking whether your model describes the thing you claim it describes.**  
+
 
 ## 14. 🩺 Victorian Modesty, Observation and Women's Bodies
 
