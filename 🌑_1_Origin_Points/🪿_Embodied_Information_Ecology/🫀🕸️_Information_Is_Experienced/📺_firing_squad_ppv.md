@@ -28,9 +28,19 @@
 
 ## 🛰️ Orientation — Who the Fuck Is This Actually For?
 
-Congratulations, America. You've rediscovered the public scaffold. This time it has broadband.
+Congratulations, America.  
 
-On 8 October 2026, the Pentagon confirmed plans to livestream the execution of Nidal Malik Hasan, the former US Army major convicted of killing thirteen people at Fort Hood in 2009. The Army has scheduled his execution by firing squad for 3 December. **It has not happened.** The broadcast is an announced plan, not an irreversible fact. [1][2][3]
+You've rediscovered the public scaffold.  
+
+This time it has broadband.  
+
+On 8 October 2026, the Pentagon confirmed plans to livestream the execution of Nidal Malik Hasan, the former US Army major convicted of killing thirteen people at Fort Hood in 2009.  
+
+The Army has scheduled his execution by firing squad for 3 December.  
+
+**At the time of writing, it has not happened.**  
+
+The broadcast is an announced plan, not an irreversible fact. [1][2][3]   
 
 The title is a joke, and a deliberately nasty one. **There is no established pay-per-view charge.** The joke is about the distance between the decision to distribute a killing as content and the attention economy into which that content would enter. Nobody needs to charge admission for a spectacle to acquire commercial value.
 
