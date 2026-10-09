@@ -1,3 +1,5 @@
+this one also needs adme and bioavailability bc that ain’t going to fucking work bro
+
 # 🫂 Hugging, But Make It A Bomb  
 **First created:** 2026-10-09 | **Last updated:** 2026-10-09  
 *All I’m hearing is, “please audit our financials”.*
