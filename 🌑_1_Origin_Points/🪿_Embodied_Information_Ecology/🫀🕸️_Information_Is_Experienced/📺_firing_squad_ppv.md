@@ -1,11 +1,11 @@
 <!-- 
 ## 🌌 Constellations
 
--[🎭 Performative Cruelty as Governance]() — *punitive power staged for audiences*  
-- [🧨 Cruelty as Innovation]() — *when ruthlessness is misread as competence*  
-- [🧊 Managed Cruelty]() — *harm processed through apparently orderly institutions*  
-- [⚖️ The History of Justice as Spectacle]() — *scaffold, crowd and changing visibility*  
-- ⚖️ Why the Death Penalty Makes No Sense for the United Kingdom]() — *abolition, survivors' agency and the bandwidth trap*  
+-[🎭 Performative Cruelty as Governance](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/.🌱_Still_Growing/🗝️_Politics_Memory_Work/🎭_performative_cruelty_as_governance.md) — *punitive power staged for audiences*  
+- [🧨 Cruelty as Innovation](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/🧪_Development_Experimentation/🧨_cruelty_as_innovation.md) — *when ruthlessness is misread as competence*  
+- [🧊 Managed Cruelty](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/🩸_Genocide_Denialism/🍉_Palestine/🧊_managed_cruelty.md) — *harm processed through apparently orderly institutions*  
+- [⚖️ The History of Justice as Spectacle](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/💫_Containment_Logic/⚖️_the_history_of_justice_as_spectacle.md) — *scaffold, crowd and changing visibility*  
+- ⚖️ Why the Death Penalty Makes No Sense for the United Kingdom](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️_Cybernetics/⚖️_Legal_State_Governance/⚖️_why_the_death_penalty_makes_no_sense_for_the_united_kingdom.md) — *abolition, survivors' agency and the bandwidth trap*  
 
 ## 📚 Sources and Verification
 
