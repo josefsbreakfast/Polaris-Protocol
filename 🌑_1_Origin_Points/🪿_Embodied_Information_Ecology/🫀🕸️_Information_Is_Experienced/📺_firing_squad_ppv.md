@@ -283,6 +283,10 @@ This node does **not** claim that a livestream has already happened, that it is 
 - **⚖️ The History of Justice as Spectacle** — scaffold, crowd and changing visibility.
 - **⚖️ Why the Death Penalty Makes No Sense for the United Kingdom** — abolition, survivors' agency and the bandwidth trap.
 
+*Follow the evidence:*  
+
+- [📰: The Guardian: “UN says Pentagon plan to livestream execution of Fort Hood shooter would amount to torture”](https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates)  
+
 ## ✨ Stardust
 
 `embodied_information_ecology, information_is_experienced, public_execution, firing_squad, livestream, military_discipline, veterans, ptsd, trauma_without_stigma, state_power, institutional_dignity, historical_spectacle, political_normalisation, succession, machiavelli, cruelty_as_innovation, audience_heterogeneity, fear, contempt, disgust, political_mobilisation, attention_economy, reversibility, clemency`
