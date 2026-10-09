@@ -226,7 +226,9 @@ But the gentlemen appear to have overlooked a behavioural variable which require
 >
 > 🦊 **“YOU MAY HAVE MISTAKEN A MOBILITY LIMITATION FOR A LACK OF MOTIVATION.”**
 
-Again: this is comedy, not a prediction of improved mobility, immunity to toxicity or a plan to hurt anybody. The important point is that a person's embodied circumstances and motivations are not optional variables.
+Again: this is comedy, not a prediction of improved mobility, immunity to toxicity or a plan to hurt anybody. The important point is that a person's embodied circumstances and motivations are not optional variables.  
+
+(But, for the record, the questions may appear closer after being doused in magic painkiller piss rain, for multiple reasons.)  
 
 ## 9. 🏛️ Two Historical Cases, Neither of Them a Business Case
 
