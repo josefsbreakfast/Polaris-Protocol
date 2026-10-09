@@ -68,6 +68,16 @@ And announcing a performance of authority does not mean the audience will experi
 
 ---
 
+## ✨ A Word of Caution…  
+
+Online, there appear to be high instances of bot-like and sockpuppet-like account engagement on any posts around this subject; be cautious when interpreting sentiment and engagement metrics.  
+
+These often show as repeating similar phrasing for opinions and humour and tone, and may appear dominant in comments.  
+
+Intents and motivations vary; when done by people, the work is often performed for extremely low wages, often with poor conditions, and minimal rights. Bear in mind that “winning an argument” may not be the most impactful strategy.  
+
+---
+
 ## 📜 1. What Actually Happened? — Evidence-Locked Chronology
 
 The official sequence matters because the announcement, the sentence and the future event have been blurred together in public discussion. On 5 November 2009, Hasan killed thirteen people and wounded dozens at Fort Hood. A court-martial convicted him on 23 August 2013; the jury imposed a death sentence five days later. The Army says the Supreme Court denied review on 31 March 2025. On 2 October 2026 President Trump approved the death sentence; on 6 October Acting Army Secretary Adam Telle directed execution by firing squad; on 7 October the Army publicly set **3 December 2026, 1 p.m. Central Standard Time**, at Fort Hood. [1]
