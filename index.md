@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-09 08:15:42 UTC_
+_Generated on 2026-10-09 09:33:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4207,7 +4207,6 @@ _Generated on 2026-10-09 08:15:42 UTC_
     - [**🔊_Turn_The_Public_Up/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/)
       - [**🌹_Por_Todas_Las_Maricarmen/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/README.md)
-        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/notes.txt)
         - [`⚖️_el_derecho_a_la_vivienda.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/⚖️_el_derecho_a_la_vivienda.md)
         - [`✊_stop_desahucios.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/✊_stop_desahucios.md)
         - [`🌱_cuando_el_barrio_responde.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/🌱_cuando_el_barrio_responde.md)
