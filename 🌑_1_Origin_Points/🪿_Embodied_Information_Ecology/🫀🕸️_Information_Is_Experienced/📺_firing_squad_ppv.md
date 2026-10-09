@@ -41,6 +41,7 @@ That is the problem this node examines. Not merely *what information is transmit
 **Who the fuck is this actually for?**
 
 ---
+
 ## 📜 1. What Actually Happened? — Evidence-Locked Chronology
 
 The official sequence matters because the announcement, the sentence and the future event have been blurred together in public discussion. On 5 November 2009, Hasan killed thirteen people and wounded dozens at Fort Hood. A court-martial convicted him on 23 August 2013; the jury imposed a death sentence five days later. The Army says the Supreme Court denied review on 31 March 2025. On 2 October 2026 President Trump approved the death sentence; on 6 October Acting Army Secretary Adam Telle directed execution by firing squad; on 7 October the Army publicly set **3 December 2026, 1 p.m. Central Standard Time**, at Fort Hood. [1]
@@ -49,7 +50,7 @@ On 8 October, reporting from Reuters and Associated Press confirmed that the Pen
 
 That last decision is the one that takes this from military justice into the information environment. **A sentence does not contain an automatic instruction to turn its implementation into a broadcast.** At the time of writing, the precise platform, filming rules, access conditions, archival arrangements and personnel protections have not been publicly established in the sources checked. Nor should the scheduled December date be written as if it has already occurred.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🫀 2. Information Is Experienced — The Body Refuses the Press Release
 
@@ -61,7 +62,7 @@ And the embodied event begins before the cameras roll. Knowing that officials *w
 
 The basic ecology is not `message → obedient audience`. It is **conditions of access and circulation → encounter in a situated body → interpretation → possible response**. No political communications department can remove the middle stages.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🧿 3. Who the Fuck Is This Actually For? — The Audience Matrix
 
@@ -73,7 +74,7 @@ Then there are the people who make, distribute and profit from content. Journali
 
 **Views are not votes. Shares are not consent. Silence is not endorsement. Protests would not prove that intimidation worked.** Without a stated audience, desired response and measure of success, almost any result can be claimed as a communications victory after the fact.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## ⚓ 4. You Brought the Troops Home. Now About the Firing Squad.
 
@@ -85,7 +86,7 @@ One group bears deployment and the physical labour of command; another holds the
 
 Welcome home, lads. You've done the difficult bit. Now please enjoy our exciting new programming schedule. *(Satire. Sadly, the underlying contrast isn't.)*
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 👑 5. The King Used to Have to Ride Into Battle, Mate
 
@@ -97,7 +98,7 @@ A contemporary civilian defence official exercises power largely through an admi
 
 Within a deliberately martial masculine brand, the performance can invert itself. Instead of proving courage, it invites people to compare the politician's insulation from danger with the bodily exposure of everyone else. Why, exactly, would you choose to make that comparison so visible?
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🎭 6. Fear, Hatred, Contempt — Machiavelli Has Entered the Chat
 
@@ -107,7 +108,7 @@ A person may obey lawful authority, fear its capacity for punishment and still t
 
 That is the dignity problem. You can make somebody afraid of the machinery without persuading them to respect the person standing next to the controls.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## ⚖️ 7. Command Authority Is Not Personal Martial Prowess
 
@@ -115,7 +116,7 @@ Civilian command over the armed forces is a constitutional principle, not a masc
 
 Distinguish *punishment of grave military crimes* from *punishment performed for a mass audience*. Who bears reputational and occupational costs when the publicity is chosen by civilian leaders but implemented by soldiers?
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🎯 8. The Military Is Not Supposed to Be Good at Losing Control
 
@@ -127,7 +128,7 @@ Bloody Sunday belongs in this discussion because the Saville Inquiry found that 
 
 **The military is not supposed to be good at losing control.**
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🔬 9. What Could the Institution Have Prevented?
 
@@ -137,7 +138,7 @@ Do not imply every act of violence was foreseeable or preventable. Do not use sp
 
 A spectacular punishment does not prove that a prevention system works. **The key operational question:** “What were we missing that we could have picked up before that?” Map warning signs, reporting channels, deployment stress, commanders' options, individualised fitness assessments and firearm access, without retrospectively assuming preventability. The goal of discipline is not to manufacture maximum aggression but to make force **precise, controllable and stoppable**. Even an amoral tactical calculus must account for fratricide, escalation and avoidable losses.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🩺 10. Deployment Stress, PTSD, and the Return Home
 
@@ -149,7 +150,7 @@ This does not explain Hasan's actions, and this node does not diagnose him. Nor 
 
 The homecoming context sharpens the contrast: a military owes its people recovery and care as well as lawful discipline. The politician who publicly celebrates punishment is not thereby demonstrating that the institution has done either job well.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🪖 11. Discipline Is Not the Same as Punishment
 
@@ -157,7 +158,7 @@ Military discipline means reliable lawful conduct under pressure, not merely sev
 
 Ask whether a mass audience improves any actual disciplinary objective; demand evidence rather than relying on rhetoric. **Visibility ≠ accountability:** independent oversight may be possible without worldwide distribution of lethal imagery. Investigate Army Regulation 190-55, military witness provisions, authority for broadcasting, review processes and remaining remedies.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🛡️ 12. The Execution Team Are Not Stage Props
 
@@ -165,7 +166,7 @@ Identify what is publicly known about selection, voluntariness, protection of id
 
 Avoid asserting that personnel will be identifiable or traumatised absent evidence. Ask whether filming creates additional welfare and security obligations.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🪜 13. Making Violence Imaginable — The Escalation Ladder
 
@@ -175,7 +176,7 @@ Identify potential countervailing forces: courts, professional military norms, p
 
 Ask whether politicians have confused **the ability to punish an already confined person** with **the ability to regulate the future political meaning of punishment**. **Diagram:** escalation ladder with dashed arrows for unproven transitions, and explicit institutional brakes.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🗝️ 14. The People Who Know Where the Palace Doors Are
 
@@ -187,7 +188,7 @@ The mechanism worth studying is **norm inheritance**. If leaders teach their pol
 
 This is not a prediction of an American coup, assassination or political execution. It is a question about the incentives and precedents a political culture chooses to normalise.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🧨 15. Cruelty as Innovation — Who Is Giving This Advice?
 
@@ -197,7 +198,7 @@ Ask **who benefits** if the announcement dominates the news cycle, and who bears
 
 A system can produce a strategically costly decision without any adviser wishing for failure. The more spectacular the decision, the more important it becomes to specify the claimed public benefit and how to evaluate it.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🧊 16. Managed Cruelty Meets Performative Cruelty
 
@@ -205,7 +206,7 @@ Existing Polaris distinction: managed cruelty hides harm in process; performativ
 
 **Lawful ≠ necessary ≠ wise ≠ ethical**; avoid collapsing those questions. Preserve the separate authored nodes rather than retrofitting their original dates or arguments to this news event.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🏛️ 17. Public Scaffold, Witch Trials, and the Limits of the Pressure Valve
 
@@ -215,7 +216,7 @@ Research the British abolition of public execution in **1868** and the later abo
 
 Roman spectacles, *The Hunger Games*, *The Purge*: cultural comparisons, not claims of legal equivalence. Audience response has always been variable; global digital circulation expands the number of contexts in which the spectacle is interpreted.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 📺 18. Firing Squad PPV — The Commercial Afterlife of a Killing
 
@@ -225,7 +226,7 @@ The crucial difference between a public square and a networked platform is not t
 
 The imagined Pentagon ticket office is funny only because the infrastructure of attention is already there. Nobody needs to put a price on the scaffold for the scaffold to become content.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🌍 19. International Audiences — The Broadcast Has Left the Building
 
@@ -233,7 +234,7 @@ International human-rights law and diplomatic expectations; distinguish binding 
 
 International critics may condemn the broadcast while disagreeing about the underlying sentence. Consider how footage could be used in propaganda, without claiming any particular foreign actor has done so. Do not use unauthenticated intelligence-report claims as evidence of foreign-state instability.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 📷 20. Why Didn't Obama Release the bin Laden Photographs?
 
@@ -241,7 +242,7 @@ Research the **2011 decision** not to release graphic post-raid photographs of O
 
 Contrast possible institutional ideas of restraint, transparency, deterrence and provocation without romanticising either administration.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 🌱 21. Fear Can Mobilise as Well as Silence
 
@@ -251,13 +252,15 @@ There is a particular risk of confusing **public alarm** with **successful deter
 
 That doesn't allow us to predict turnout, protests or electoral outcomes. It does mean that a serious communications assessment would have to consider these responses before declaring the strategy effective.
 
-[↑ Back to top](#-firing-squad-ppv)
+---
 
 ## 💎 22. Institutional Dignity and the Failure of Reception
 
 The central distinction returns: the state can command the event, but not the audience's embodied response. A protected politician can display control over a prisoner while appearing to some viewers less personally courageous or less professionally restrained. Civilian command is legitimate; performative martial swagger is a separate claim about character.
 
-Military effectiveness requires precision and discipline, not enthusiasm for unbounded violence. An enormous audience might indicate fascination, horror or criticism rather than approval. **Success criteria question:** Who was supposed to be impressed, by what, and how would anyone know?
+Military effectiveness requires precision and discipline, not enthusiasm for unbounded violence. An enormous audience might indicate fascination, horror or criticism rather than approval. **Success criteria question:** Who was supposed to be impressed, by what, and how would anyone know?  
+
+---
 
 ## 🕯️ 23. The Eleventh Hour — You Can Still Choose Not to Do This
 
@@ -269,7 +272,9 @@ But the state faces more than one decision. The death sentence, execution date a
 
 Officials sometimes create a trap for themselves by treating reconsideration as humiliation. Yet the capacity to reverse an unnecessary escalation is itself a form of control. **You do not have to proceed with a spectacle just because somebody announced it.**
 
-America has time to reconsider. Not to be gigantic knobs about this, for example. A modest and entirely achievable administrative objective.
+America has time to reconsider. Not to be gigantic knobs about this, for example. A modest and entirely achievable administrative objective.  
+
+---
 
 ## 🫀 24. Closing — The Body Gets the Last Word
 
