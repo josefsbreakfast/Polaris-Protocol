@@ -1,5 +1,5 @@
 # 🕹️ Getting the Tech Bros Back on Script  
-**First created:** 2025-11-16 | **Last updated:** 2025-12-12  
+**First created:** 2025-11-16 | **Last updated:** 2026-10-09  
 *A coordination protocol for redirecting extremely wealthy, extremely online men back toward reality, professionalism, and the shared nerd mission, before they embarrass us on main again.*  
 
 <!-- ELON G-DAMNIT WHERE IS THAT YAOI?! YOU SAID "FIRST AMENDMENT, FRIEND!"--> 
@@ -62,6 +62,8 @@ The public treats all nerds as a monolith.
 If one goes rogue, **we all pay.**
 
 We need consistency for survival.
+
+*The arrows above are satirical shorthand for risks of amplification and spillover, not evidence that any one remark independently caused the outcome named. The mechanism worth checking is how prestige, platforms, repetition and institutional access can turn an unsupported claim into an apparently authoritative one.*
 
 ---
 
@@ -240,24 +242,59 @@ And it strengthens:
 - AI hype cults  
 - stochastic harm pipelines  
 
-Getting them back on script stabilises the entire ecosystem.
+Getting them back on script is one possible corrective within that ecosystem — not a substitute for independent scrutiny, institutional safeguards or consequences where warranted.
+
+The practical standard is not that every specialist must know every field. It is that people with outsized influence should know when to stop improvising, identify who else is affected, consult relevant expertise, and distinguish an entertaining hypothesis from a tested intervention.
+
+### 🧪 Reality-hygiene checkpoint
+
+Before a speculative claim graduates into a product pitch, policy proposal or public-health prescription, ask:
+
+- **Problem definition:** What problem is actually being solved, and for whom?
+- **Evidence:** What is established, hypothesised or simply imagined?
+- **Expertise:** Which disciplines and affected communities have been consulted?
+- **Consequences:** Who bears the risks, including people absent from the room?
+- **Governance:** What independent testing, consent, oversight or accountability would be required?
+- **Communication:** Have uncertainty and limitations survived the microphone?
+
+This is not a demand that the gentlemen stop having ideas. It is a request that the ideas survive contact with reality before the public is asked to live inside them.
+
+**The party has a healer. Consult the fucking healer.**
 
 ---
 
 ## 🌌 Constellations  
-🕹️ 🧠 🪴 🔥 – behaviour correction, cultural hygiene, nerd alignment, public trust.
+🕹️ 🧠 🪴 🔥 — interdisciplinary reality checks; public trust; professional humility; information-ecology feedback.
+
+---
+
+## ✨ Stardust  
+tech culture, interdisciplinary competence, scientific literacy, public trust, professional judgement, technological solutionism, governance, information ecology, survivor voice
 
 ---
 
 ## 🏮 Footer  
-*Getting the Tech Bros Back on Script* is part of the Debugging The Men cluster and supports the wider effort to realign public-facing tech culture with reality, ethics, interdisciplinarity, and collective competence.
+*Getting the Tech Bros Back on Script* is a living node of the **Polaris Protocol**. It sits in **🦾 Future MDT Working**, within **👾 Debugging The Men**, and sets out a satirical but usable standard for evaluating public-facing technical claims, especially when prestige and access amplify unsupported assertions. Its focus is professional conduct and the systems that reward confident improvisation, rather than a diagnosis of any named individual.
 
-Pairs with:  
-- 🔥 Stop Being Weird & Start Being Wife-Material for Science  
-- 🧠 Nerd Alignment Protocol  
-- 🌿 Touch Grass Protocol for Tech Bros  
-- 🎲 The Campaign Is Collapsing, We Need to Rewrite the Lore  
+> 📡 Cross-references:
+>
+> - **🔥 Stop Being Weird & Start Being Wife-Material for Science** — related theme: practical social competence and scientific culture; *target filename/path requires repository verification*.
+> - **🧠 Nerd Alignment Protocol** — related theme: collective technical standards; *target filename/path requires repository verification*.
+> - **🌿 Touch Grass Protocol for Tech Bros** — related theme: grounding and contact with ordinary life; *target filename/path requires repository verification*.
+> - **🎲 The Campaign Is Collapsing, We Need to Rewrite the Lore** — related theme: RPG framing and reality correction; *target filename/path requires repository verification*.
+>
+> 🏮 Return To:
+>
+> - [🦾 Future MDT Working](./) — *1up; containing folder*.
+> - [👾 Debugging The Men](../) — *2up; parent cluster*.
+> - [🍿 Historical Democratic Actions](../../) — *3up*.
+> - [🔊 Turn The Public Up](../../../) — *4up*.
+> - [📲 Press Matters](../../../../) — *5up*.
+> - [🌓 In The Moment](../../../../../) — *6up*.
+> - [🌌 Polaris Protocol — Root](../../../../../../) — *root*.
 
-*Please, lads. The lore is not canon.*  
+*Please, lads. The lore is not canon.*
 
-_Last updated: 2025-12-12_
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-10-09_
