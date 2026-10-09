@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-09 04:46:49 UTC_
+_Generated on 2026-10-09 04:51:32 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4343,9 +4343,17 @@ _Generated on 2026-10-09 04:46:49 UTC_
         - [`🤝_syndicats_et_solidarites.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🤝_syndicats_et_solidarites.md)
         - [`🥖_la_france_fait_greve_et_alors.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🥖_la_france_fait_greve_et_alors.md)
       - [**🧊🔥_Abolish_ICE/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/)
+        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/notes.txt)
         - [`⛓️_historical_parallels.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/⛓️_historical_parallels.md)
+        - [`🇺🇸_carceral_profit_complex.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🇺🇸_carceral_profit_complex.md)
+        - [`🍉_from_the_west_bank_to_boston.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🍉_from_the_west_bank_to_boston.md)
         - [`🍎_kids_in_cages.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🍎_kids_in_cages.md)
+        - [`🐊_what_was_alligator_alcatraz.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🐊_what_was_alligator_alcatraz.md)
+        - [`💙_why_dem_cities.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/💙_why_dem_cities.md)
+        - [`🕎_politicized_identity.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🕎_politicized_identity.md)
+        - [`🕯️_what_in_the_1933.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🕯️_what_in_the_1933.md)
+        - [`🗳️_why_before_the_midterms.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🗳️_why_before_the_midterms.md)
         - [`🛟_but_immigration.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🛟_but_immigration.md)
       - [**🪳🕶️_Mera_Naam_Cockroach_Hai/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/)
         - [**🌑_The_System_Becomes_Intolerable/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/)
