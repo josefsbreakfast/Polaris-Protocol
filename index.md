@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-09 02:43:17 UTC_
+_Generated on 2026-10-09 03:21:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -978,6 +978,7 @@ _Generated on 2026-10-09 02:43:17 UTC_
       - [`🎮_p1_is_practising.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎮_p1_is_practising.md)
       - [`🐺_dickwolves_survivors_guild.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🐺_dickwolves_survivors_guild.md)
       - [`👗_la_camarilla_de_l_orange.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/👗_la_camarilla_de_l_orange.md)
+      - [`💸_the_cost_of_good_grace.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/💸_the_cost_of_good_grace.md)
       - [`📈_$seo.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/📈_$seo.md)
       - [`📥_chattering_chatbots.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/📥_chattering_chatbots.md)
       - [`🕹️_building_safer_sandboxes.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🕹️_building_safer_sandboxes.md)
