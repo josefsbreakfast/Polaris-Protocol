@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-09 04:51:32 UTC_
+_Generated on 2026-10-09 04:53:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4345,6 +4345,7 @@ _Generated on 2026-10-09 04:51:32 UTC_
       - [**🧊🔥_Abolish_ICE/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/notes.txt)
+        - [`⚖️_oversight_and_prevention_failures.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/⚖️_oversight_and_prevention_failures.md)
         - [`⛓️_historical_parallels.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/⛓️_historical_parallels.md)
         - [`🇺🇸_carceral_profit_complex.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🇺🇸_carceral_profit_complex.md)
         - [`🍉_from_the_west_bank_to_boston.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🍉_from_the_west_bank_to_boston.md)
