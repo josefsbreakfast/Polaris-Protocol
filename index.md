@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-09 00:04:47 UTC_
+_Generated on 2026-10-09 00:05:48 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4615,6 +4615,7 @@ _Generated on 2026-10-09 00:04:47 UTC_
       - [`🧤_kino_escalation.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🧤_kino_escalation.md)
       - [`🪭_comfort_building.md`](🌓_3_In_The_Moment/🥃_Males_Online/🌹_Demonstrating_High_Value/🪭_comfort_building.md)
     - [**🐝_Debunking_Men/**](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/)
+      - [`README.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/README.md)
       - [`notes.txt`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/notes.txt)
     - [`README.md`](🌓_3_In_The_Moment/🥃_Males_Online/README.md)
     - [`notes.txt`](🌓_3_In_The_Moment/🥃_Males_Online/notes.txt)
