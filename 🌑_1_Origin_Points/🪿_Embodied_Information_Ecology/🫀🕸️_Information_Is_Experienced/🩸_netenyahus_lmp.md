@@ -6,19 +6,54 @@
 
 ## 🛰️ Orientation
 
-I have a medical question. Has anybody recorded Netanyahu's last menstrual period?
+I have a medical question.  
 
-Not because I have developed an interest in the reproductive anatomy of the Israeli prime minister. I am trying to work out why certain stories appear to arrive in clusters: a concentration of US–Israel political or military reporting towards the **28th–29th**, and what looks, from the position of a person encountering the news, like another concentration of antisemitism-related discourse a week or two earlier. Then there are attacks against Jewish diaspora communities, far-right and anti-migrant mobilisation, and the financial institutions paying for the wider enterprise.
+Has anybody recorded Netanyahu's last menstrual period?  
 
-**Clusters** is the operative word. I am not claiming to have discovered a menstrual cycle, a monthly military payment instruction, or a grand conductor waving a baton over every incident. I noticed something about the *timing of the information reaching me*. That observation is worth investigating without being mistaken for its conclusion.
+Not because I have developed an interest in the reproductive anatomy of the Israeli prime minister.  
 
-The clinical conceit is ridiculous. The underlying problem is not: **what happens when different institutional clocks, reporting decisions and political responses make unrelated events appear to happen together?** And how do we know when they really *are* connected?
+I am trying to work out why certain stories appear to arrive in clusters:  
+- a concentration of US–Israel political or military reporting towards the **28th–29th**,  
+- and what looks, from the position of a person encountering the news, like another concentration of antisemitism-related discourse a week or two earlier.
+- Then there are attacks against Jewish diaspora communities, far-right and anti-migrant mobilisation, and the financial institutions paying for the wider enterprise.
 
-Our instruments are not especially dignified: central-bank statements, government debt calendars, campaign-finance filings, incident reports, wire-service timestamps and the occasional spreadsheet. The patient has not supplied a menstrual diary. The newspapers will have to do.
+**Clusters** is the operative word.  
+
+I am not claiming to have discovered a menstrual cycle, a monthly military payment instruction, or a grand conductor waving a baton over every incident.  
+
+I noticed something about the *timing of the information reaching me*.  
+
+That observation is worth investigating without being mistaken for its conclusion.  
+
+The clinical conceit is ridiculous.  
+
+The underlying problem, however, is not:  
+
+**what happens when different institutional clocks, reporting decisions and political responses make unrelated events appear to happen together?**  
+
+And how do we know when they really *are* connected?
+
+Our instruments are not especially dignified:  
+central-bank statements,  
+government debt calendars,  
+campaign-finance filings,  
+incident reports,  
+wire-service timestamps,  
+and the occasional spreadsheet.  
+
+The patient has not supplied a menstrual diary.  
+
+The newspapers will have to do.
 
 > **Case definition:** `event time ≠ financial time ≠ disclosure time ≠ publication time ≠ amplification time ≠ experienced time`.
 
-This node is a developed **exploratory case study**, not a completed quantitative finding. Its dates and historical leads are deliberately labelled according to evidentiary status. Previous searches produced plausible leads but not a fully audited day-by-day news dataset. I will not give a hypothesis a positive pregnancy test because the chart looks suggestive.
+This node is a developed **exploratory case study**, not a completed quantitative finding.   
+
+Its dates and historical leads are deliberately labelled according to evidentiary status.  
+
+Previous searches produced plausible leads but not a fully audited day-by-day news dataset.  
+
+We will not give a hypothesis a positive pregnancy test because the chart looks suggestive.
 
 ---  
 
