@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-09 04:45:11 UTC_
+_Generated on 2026-10-09 04:46:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4344,6 +4344,8 @@ _Generated on 2026-10-09 04:45:11 UTC_
         - [`🥖_la_france_fait_greve_et_alors.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🥖_la_france_fait_greve_et_alors.md)
       - [**🧊🔥_Abolish_ICE/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/notes.txt)
+        - [`⛓️_historical_parallels.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/⛓️_historical_parallels.md)
+        - [`🍎_kids_in_cages.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🍎_kids_in_cages.md)
         - [`🛟_but_immigration.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🛟_but_immigration.md)
       - [**🪳🕶️_Mera_Naam_Cockroach_Hai/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/)
         - [**🌑_The_System_Becomes_Intolerable/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/🌑_The_System_Becomes_Intolerable/)
