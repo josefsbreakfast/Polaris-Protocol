@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-09 04:56:33 UTC_
+_Generated on 2026-10-09 05:07:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4634,6 +4634,7 @@ _Generated on 2026-10-09 04:56:33 UTC_
     - [**🐝_Debunking_Men/**](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/)
       - [`README.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/README.md)
       - [`notes.txt`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/notes.txt)
+      - [`🪞_on_the_chirality_of_fentanyl.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/🪞_on_the_chirality_of_fentanyl.md)
       - [`🫂_hugging_but_make_it_a_bomb.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/🫂_hugging_but_make_it_a_bomb.md)
     - [`README.md`](🌓_3_In_The_Moment/🥃_Males_Online/README.md)
     - [`notes.txt`](🌓_3_In_The_Moment/🥃_Males_Online/notes.txt)
