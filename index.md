@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-10 03:05:44 UTC_
+_Generated on 2026-10-10 03:06:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4323,7 +4323,6 @@ _Generated on 2026-10-10 03:05:44 UTC_
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/README.md)
       - [**🐻_Долой_партию_жуликов_и_воров/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🐻_Долой_партию_жуликов_и_воров/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🐻_Долой_партию_жуликов_и_воров/README.md)
-        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🐻_Долой_партию_жуликов_и_воров/notes.txt)
         - [`⛓️‍💥_репрессии_и_сопротивление.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🐻_Долой_партию_жуликов_и_воров/⛓️‍💥_репрессии_и_сопротивление.md)
         - [`🍊_Лох_не_мамонт_не_вымрет.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🐻_Долой_партию_жуликов_и_воров/🍊_Лох_не_мамонт_не_вымрет.md)
         - [`📚_источники_и_хронология.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🐻_Долой_партию_жуликов_и_воров/📚_источники_и_хронология.md)
