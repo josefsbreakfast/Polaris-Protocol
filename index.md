@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-10 01:51:18 UTC_
+_Generated on 2026-10-10 01:56:43 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4328,6 +4328,7 @@ _Generated on 2026-10-10 01:51:18 UTC_
         - [`🕊️_российское_антивоенное_движение.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🐻_Долой_партию_жуликов_и_воров/🕊️_российское_антивоенное_движение.md)
         - [`🚩_коммунисты_бунтуют.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🐻_Долой_партию_жуликов_и_воров/🚩_коммунисты_бунтуют.md)
         - [`🧨_оппозиция_внутри_оппозиции.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🐻_Долой_партию_жуликов_и_воров/🧨_оппозиция_внутри_оппозиции.md)
+        - [`🪆_человек_который_хотел_стать_царём.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🐻_Долой_партию_жуликов_и_воров/🪆_человек_который_хотел_стать_царём.md)
         - [`🪆_человек_который_хотел_стать_царём.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🐻_Долой_партию_жуликов_и_воров/🪆_человек_который_хотел_стать_царём.md)
       - [**🔥_Jeunesse_En_Feu/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/README.md)
