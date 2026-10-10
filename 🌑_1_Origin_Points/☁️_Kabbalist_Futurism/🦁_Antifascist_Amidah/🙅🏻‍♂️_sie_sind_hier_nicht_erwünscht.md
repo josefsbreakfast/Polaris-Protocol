@@ -20,6 +20,16 @@ There is another demand running through this account: **solidarity cannot stop a
 
 This node draws on the German-language reporting listed below (the external links have not been independently rechecked during this revision) for the 2026 incident and the documented 2019 attack, while distinguishing the students’ stated reasons from the author's Bundist-inflected interpretation. It does not pretend to possess a full independently transcribed video.
 
+---
+
+## ✨ Quick Note:  
+
+Blue is a colour commonly used for Jewish identity, and this should not be taken to automatically mean anything regarding the state that uses it as an identity marker.  
+
+There can be overlap, but it doesn’t tell you enough to give someone’s politics on that; I’m addressing any good faith confusion, and I also understand that some people are just trying to be edgelords.  
+
+---
+
 ## 1. 🙅🏻‍♂️ The Doorway
 
 The scene is striking precisely because it is so uncomplicated. Young Jewish people link arms. A politician approaches a commemoration. They tell him he is not welcome. He questions them; they explain their refusal. He leaves. [1–5]
