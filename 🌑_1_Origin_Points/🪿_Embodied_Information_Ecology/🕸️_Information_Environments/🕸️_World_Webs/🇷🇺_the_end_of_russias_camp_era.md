@@ -1,5 +1,5 @@
 # 🇷🇺 The End of Russia’s Camp Era  
-**First created:** 2025-11-20 | **Last updated:** 2026-08-17  
+**First created:** 2025-11-20 | **Last updated:** 2026-10-10  
 *How Russia moved from flamboyant, theatrical soft power to bunker-grey authoritarianism — and why the Alexandrov Ensemble crash marks the point of no return.*  
 
 ---
@@ -113,7 +113,8 @@ The music stops.
 
 *Further media:*  
 - [No notes.](https://vm.tiktok.com/ZNR5nb7aw/) Whilst camp is not simply the preserve of the queers, do not tell me that society does not need us; [none of you would survive a Europa without us](https://vm.tiktok.com/ZNR5nGMq4/).
-- [Not necessarily queer, but queer coded.](https://youtu.be/RhMYBfF7-hE?si=y6aLCRqmT25Loxrs) You recognise them from Eurovision 2020/1, back when The Boringing was only halfway.  
+- [Not necessarily queer, but queer coded.](https://youtu.be/RhMYBfF7-hE?si=y6aLCRqmT25Loxrs) You recognise them from Eurovision 2020/1, back when The Boringing was only halfway.
+- [📹: Первый Тульский: “В День города в Туле прошел парад оркестров и фестиваль «Фанфары Тульского Кремля»”](https://vm.tiktok.com/ZN8BFxdb2/) – *progress*  
 
 ---
 
@@ -137,4 +138,4 @@ It documents how aesthetic systems collapse alongside political legitimacy — a
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-17_
+_Last updated: 2026-10-10_
