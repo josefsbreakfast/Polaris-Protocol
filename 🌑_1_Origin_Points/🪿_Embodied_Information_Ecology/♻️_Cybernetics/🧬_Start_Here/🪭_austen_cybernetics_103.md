@@ -1,50 +1,31 @@
-# 🪭 Austen Cybernetics 103 --- Lady Catherine's Interview Technique
+# 🪭 Austen Cybernetics 103: Lady Catherine's Interview Technique
 
-**First created:** 2026-09-25 | **Last updated:** 2026-10-05  
-*Information does not contain its interpretation: Lady Catherine de
-Bourgh accidentally demonstrates observer-dependence, disclosure
-control, feedback, social signalling, model error, and the physical
-possibility of simply saying no.*
+**First created:** 2026-09-25 | **Last updated:** 2026-10-10
+*Information does not contain its interpretation: Lady Catherine de Bourgh accidentally demonstrates observer-dependence, disclosure control, feedback, social signalling, model error, and the physical possibility of simply saying no.*
 
-------------------------------------------------------------------------
+---
 
 ## 🛰️ Orientation
 
 Lady Catherine de Bourgh wants one bit of information.
 
-She has heard an alarming report that Elizabeth Bennet may marry
-Fitzwilliam Darcy. She considers this impossible, improper, socially
-contaminating, and --- most importantly --- something which ought to
-stop because **Lady Catherine de Bourgh has said so**.
+She has heard an alarming report that Elizabeth Bennet may marry Fitzwilliam Darcy. She considers this impossible, improper, socially contaminating, and — most importantly — something which ought to stop because **Lady Catherine de Bourgh has said so**.
 
 So she travels to Longbourn to obtain a categorical negative.
 
 She does not get one.
 
-Unfortunately for Lady Catherine, this does **not** mean that she leaves
-without information.
+Unfortunately for Lady Catherine, this does **not** mean that she leaves without information.
 
 She leaves with *loads* of it.
 
-She learns that Elizabeth is not engaged to Darcy. She learns that
-Elizabeth will not promise never to become engaged to him. She learns
-that Elizabeth does not recognise Lady Catherine as having authority
-over her private decisions. She learns that threats involving rank,
-family, reputation and social exclusion do not produce the expected
-compliance. She learns that Elizabeth can remain controlled and precise
-while being insulted in her own home. She learns that Elizabeth will
-protect information which Lady Catherine wants but is not entitled to
-receive.
+She learns that Elizabeth is not engaged to Darcy. She learns that Elizabeth will not promise never to become engaged to him. She learns that Elizabeth does not recognise Lady Catherine as having authority over her private decisions. She learns that threats involving rank, family, reputation and social exclusion do not produce the expected compliance. She learns that Elizabeth can remain controlled and precise while being insulted in her own home. She learns that Elizabeth will protect information which Lady Catherine wants but is not entitled to receive.
 
 Then Lady Catherine carries this information to Darcy.
 
-And Darcy --- possessing different prior knowledge, different experience
-of Elizabeth, different knowledge of Lady Catherine, and a different
-question --- extracts **different information from the same
-observations**.
+And Darcy — possessing different prior knowledge, different experience of Elizabeth, different knowledge of Lady Catherine, and a different question — extracts **different information from the same observations**.
 
-Lady Catherine thinks Elizabeth's answers demonstrate "perverseness and
-assurance".
+Lady Catherine thinks Elizabeth's answers demonstrate "perverseness and assurance".
 
 Darcy says:
 
@@ -54,12 +35,9 @@ There we are.
 
 **Information does not contain its interpretation.**
 
-The same observation can produce different information for different
-observers because each observer brings a different model of the people,
-relationships and world involved.
+The same observation can produce different information for different observers because each observer brings a different model of the people, relationships and world involved.
 
-This is why Lady Catherine's interview technique is such a useful little
-cybernetic teaching machine.
+This is why Lady Catherine's interview technique is such a useful little cybernetic teaching machine.
 
 She does not fail to obtain information.
 
@@ -67,7 +45,7 @@ She does not fail to obtain information.
 
 🪭 **TASK FAILED SUCCESSFULLY.**
 
-------------------------------------------------------------------------
+---
 
 ## 1. 🪭 Lady Catherine's Interview Technique™
 
@@ -99,17 +77,13 @@ Her error is that she continually collapses three different things:
 
 **observation → interpretation → desired outcome**
 
-She thinks that because she can see something, she knows what it means;
-because she knows what it means, other people ought to agree; and
-because other people ought to agree, they ought to produce the behaviour
-she wants.
+She thinks that because she can see something, she knows what it means; because she knows what it means, other people ought to agree; and because other people ought to agree, they ought to produce the behaviour she wants.
 
-This works tolerably well while everyone around her supplies the
-expected response.
+This works tolerably well while everyone around her supplies the expected response.
 
 Then she meets Elizabeth Bennet.
 
-``` mermaid
+```mermaid
 flowchart TD
     A[Rumour: Elizabeth may marry Darcy] --> B[Lady Catherine's model]
     B --> C[Intervention at Longbourn]
@@ -122,28 +96,19 @@ flowchart TD
     C -. intervention changes the information environment .-> A
 ```
 
-**The question is not outside the system. The question is an
-intervention in the system.**
+**The question is not outside the system. The question is an intervention in the system.**
 
-------------------------------------------------------------------------
+---
 
 ## 2. 🏡 The Interview Starts Before The Interview
 
-Lady Catherine does not arrive at Longbourn as a neutral observer
-politely requesting clarification.
+Lady Catherine does not arrive at Longbourn as a neutral observer politely requesting clarification.
 
 The social information starts before she asks Elizabeth anything.
 
-She arrives unexpectedly in a chaise and four. Mrs Bennet is immediately
-impressed by her rank. Lady Catherine gives Elizabeth only a slight
-inclination of the head. She does not request a proper introduction. She
-sits without speaking. She criticises the size of the park. She
-criticises the sitting room. She refuses refreshment "very resolutely,
-and not very politely". On the way outside, she inspects the house and
-pronounces it merely "decent looking".
+She arrives unexpectedly in a chaise and four. Mrs Bennet is immediately impressed by her rank. Lady Catherine gives Elizabeth only a slight inclination of the head. She does not request a proper introduction. She sits without speaking. She criticises the size of the park. She criticises the sitting room. She refuses refreshment "very resolutely, and not very politely". On the way outside, she inspects the house and pronounces it merely "decent looking".
 
-Then she takes Elizabeth into the "prettyish kind of a little
-wilderness" and announces:
+Then she takes Elizabeth into the "prettyish kind of a little wilderness" and announces:
 
 > "You can be at no loss, Miss Bennet, to understand the reason of my
 > journey hither. Your own heart, your own conscience, must tell you why
@@ -151,15 +116,11 @@ wilderness" and announces:
 
 Elizabeth, inconveniently, genuinely does not know.
 
-Lady Catherine has already supplied the first major piece of
-information:
+Lady Catherine has already supplied the first major piece of information:
 
-**she expects her social position to make her intentions legible and her
-authority self-executing.**
+**she expects her social position to make her intentions legible and her authority self-executing.**
 
-Earlier in the novel, Lady Catherine presents herself as someone who
-gives advice, improves arrangements and tells other people how things
-ought to be done.
+Earlier in the novel, Lady Catherine presents herself as someone who gives advice, improves arrangements and tells other people how things ought to be done.
 
 Here we see what happens when the advice does not produce compliance.
 
@@ -169,30 +130,21 @@ The wrapper comes off.
 
 Lady Catherine's problem is not simply that she is rude.
 
-It is that she mistakes **power over the environment** for **control
-over another autonomous system**.
+It is that she mistakes **power over the environment** for **control over another autonomous system**.
 
-------------------------------------------------------------------------
+---
 
 ## 3. 🎩 Rank Is Not Refinement
 
-Lady Catherine possesses far more rank, wealth and structural power than
-Elizabeth.
+Lady Catherine possesses far more rank, wealth and structural power than Elizabeth.
 
 That does not mean she behaves with greater refinement.
 
 This distinction matters.
 
-**Rank is not wealth.\
-Wealth is not pedigree.\
-Pedigree is not manners.\
-Manners are not refinement.\
-Refinement is not deportment.**
+**Rank is not wealth.\ Wealth is not pedigree.\ Pedigree is not manners.\ Manners are not refinement.\ Refinement is not deportment.**
 
-Elizabeth is gentry. She is not a poor servant girl accidentally
-wandering into aristocratic society. But Lady Catherine outranks her
-dramatically, and Lady Catherine expects that hierarchy to organise the
-interaction.
+Elizabeth is gentry. She is not a poor servant girl accidentally wandering into aristocratic society. But Lady Catherine outranks her dramatically, and Lady Catherine expects that hierarchy to organise the interaction.
 
 Instead, the scene produces an inversion.
 
@@ -227,16 +179,13 @@ Elizabeth does.
 
 **That is why the refusal matters.**
 
-The Bingley sisters and other characters spend plenty of time discussing
-the visible specification sheet of refinement.
+The Bingley sisters and other characters spend plenty of time discussing the visible specification sheet of refinement.
 
 Lady Catherine accidentally runs the stress test.
 
 **Elizabeth passes it.**
 
-And Austen later makes an important correction to any reading in which
-Elizabeth is simply superhumanly unbothered. The visit leaves her deeply
-discomposed. For hours she cannot stop thinking about it.
+And Austen later makes an important correction to any reading in which Elizabeth is simply superhumanly unbothered. The visit leaves her deeply discomposed. For hours she cannot stop thinking about it.
 
 So:
 
@@ -252,12 +201,11 @@ She is perturbed.
 
 She does not give Lady Catherine control of the output.
 
-------------------------------------------------------------------------
+---
 
 ## 4. 🔐 Elizabeth Bennet's Information-Security Policy
 
-Lady Catherine assumes that asking a question creates an obligation to
-answer it.
+Lady Catherine assumes that asking a question creates an obligation to answer it.
 
 Elizabeth does not.
 
@@ -266,11 +214,9 @@ Elizabeth does not.
 
 **MODERN TRANSLATION:**
 
-**YOU CAN SEND THE QUERY. THAT DOES NOT MEAN YOU HAVE READ PERMISSIONS.
-🔐**
+**YOU CAN SEND THE QUERY. THAT DOES NOT MEAN YOU HAVE READ PERMISSIONS. 🔐**
 
-Lady Catherine then claims privileged access because she is Darcy's
-close relative:
+Lady Catherine then claims privileged access because she is Darcy's close relative:
 
 > "I am almost the nearest relation he has in the world, and am entitled
 > to know all his dearest concerns."
@@ -286,8 +232,7 @@ Elizabeth replies:
 
 That is a very clean information-security distinction.
 
-Lady Catherine's network position relative to Darcy does not propagate
-automatically into access to Elizabeth.
+Lady Catherine's network position relative to Darcy does not propagate automatically into access to Elizabeth.
 
 > **Network position ≠ information access.**
 
@@ -299,13 +244,11 @@ What Elizabeth explicitly says.
 
 ### Inferential information
 
-What another observer can reasonably update from her answers, refusals
-and corrections.
+What another observer can reasonably update from her answers, refusals and corrections.
 
 ### Relational information
 
-What the manner of the exchange communicates about whether Elizabeth
-recognises Lady Catherine's authority.
+What the manner of the exchange communicates about whether Elizabeth recognises Lady Catherine's authority.
 
 Elizabeth's disclosure policy is remarkably disciplined:
 
@@ -324,17 +267,15 @@ This is not information starvation.
 
 It is **controlled disclosure**.
 
-------------------------------------------------------------------------
+---
 
 ## 5. 🚪 Elizabeth Has So Many Easy Ways Out
 
-This is important because Elizabeth's refusal can otherwise look like
-coyness.
+This is important because Elizabeth's refusal can otherwise look like coyness.
 
 It is not.
 
-Lady Catherine gives Elizabeth multiple opportunities to make the
-confrontation disappear.
+Lady Catherine gives Elizabeth multiple opportunities to make the confrontation disappear.
 
 Elizabeth could say:
 
@@ -344,9 +285,7 @@ She could say:
 
 **He already proposed and I rejected him.**
 
-That would absolutely devastate Lady Catherine's model of Elizabeth as
-an aspiring woman using "arts and allurements" to capture a socially
-superior man.
+That would absolutely devastate Lady Catherine's model of Elizabeth as an aspiring woman using "arts and allurements" to capture a socially superior man.
 
 She could say:
 
@@ -356,8 +295,7 @@ She could say:
 
 **I don't expect anything to happen.**
 
-She could simply promise never to marry Darcy and deal with the
-consequences later.
+She could simply promise never to marry Darcy and deal with the consequences later.
 
 She could bring in Mr Bennet.
 
@@ -365,15 +303,13 @@ She could demand that Lady Catherine leave.
 
 She could defend every member of her family in detail.
 
-She could tell Lady Catherine what Darcy actually did during the Lydia
-crisis.
+She could tell Lady Catherine what Darcy actually did during the Lydia crisis.
 
 She does none of these things.
 
 Instead, she optimises for something much more interesting:
 
-**truth + minimum necessary disclosure + autonomy + third-party
-privacy + refusal of illegitimate premises**
+**truth + minimum necessary disclosure + autonomy + third-party privacy + refusal of illegitimate premises**
 
 Lady Catherine wants Elizabeth to concede more than a fact about Darcy.
 
@@ -402,20 +338,17 @@ She does not accept the evaluation procedure.
 
 **Elizabeth refuses to purchase safety through self-diminishment.**
 
-------------------------------------------------------------------------
+---
 
 ## 6. 💋 "Arts And Allurements"
 
-Lady Catherine does not merely accuse Elizabeth of being socially
-unsuitable.
+Lady Catherine does not merely accuse Elizabeth of being socially unsuitable.
 
 She accuses her of having manipulated Darcy.
 
 > "You may have drawn him in."
 
-The implication is that Elizabeth may have used feminine or sexual
-influence to make Darcy forget family, duty and the match supposedly
-intended for him.
+The implication is that Elizabeth may have used feminine or sexual influence to make Darcy forget family, duty and the match supposedly intended for him.
 
 Elizabeth replies:
 
@@ -431,14 +364,11 @@ Elizabeth declines the invitation.
 
 That matters.
 
-If Elizabeth launches into a frantic demonstration of her innocence, she
-has implicitly accepted that Lady Catherine is entitled to sit in
-judgment and that Elizabeth owes her evidence.
+If Elizabeth launches into a frantic demonstration of her innocence, she has implicitly accepted that Lady Catherine is entitled to sit in judgment and that Elizabeth owes her evidence.
 
 Instead:
 
-**I am not conceding your accusation.\
-I am also not applying for acquittal in your court.**
+**I am not conceding your accusation.\ I am also not applying for acquittal in your court.**
 
 This is a useful information lesson in its own right:
 
@@ -447,54 +377,43 @@ This is a useful information lesson in its own right:
 
 Sometimes refusing the frame is not refusing the question.
 
-Sometimes it is identifying that the question contains assumptions which
-are not yours to validate.
+Sometimes it is identifying that the question contains assumptions which are not yours to validate.
 
-------------------------------------------------------------------------
+---
 
 ## 7. 🧬 "The Shades Of Pemberley Thus Polluted"
 
-Lady Catherine's objection to Elizabeth is not merely that she would
-prefer Darcy to marry somebody richer.
+Lady Catherine's objection to Elizabeth is not merely that she would prefer Darcy to marry somebody richer.
 
 She has a reproductive model of family.
 
-Darcy and Anne de Bourgh were, she says, intended for one another from
-infancy:
+Darcy and Anne de Bourgh were, she says, intended for one another from infancy:
 
 > "They are descended, on the maternal side, from the same noble
 > line..."
 
-Their mothers planned the union. Their fortunes, ancestry and family
-position supposedly make the marriage appropriate.
+Their mothers planned the union. Their fortunes, ancestry and family position supposedly make the marriage appropriate.
 
 Elizabeth represents an intrusion into that arrangement.
 
-When Lady Catherine reaches Lydia and Wickham, her language becomes
-especially revealing:
+When Lady Catherine reaches Lydia and Wickham, her language becomes especially revealing:
 
 > "And is such a girl to be my nephew's sister? Is her husband, is the
 > son of his late father's steward, to be his brother? Heaven and earth!
-> --- of what are you thinking? Are the shades of Pemberley to be thus
+> — of what are you thinking? Are the shades of Pemberley to be thus
 > polluted?"
 
 **POLLUTED.**
 
 This is not yet formal eugenics.
 
-Jane Austen is writing decades before Francis Galton coins and
-systematises *eugenics* as a programme.
+Jane Austen is writing decades before Francis Galton coins and systematises *eugenics* as a programme.
 
-But ideas about pedigree, "breeding", inheritance, lineage, desirable
-marriage, contamination and the preservation of supposedly superior
-families do not suddenly materialise when somebody writes *eugenics* on
-paper.
+But ideas about pedigree, "breeding", inheritance, lineage, desirable marriage, contamination and the preservation of supposedly superior families do not suddenly materialise when somebody writes *eugenics* on paper.
 
-Lady Catherine gives us an older cultural substrate in unusually clean
-form.
+Lady Catherine gives us an older cultural substrate in unusually clean form.
 
-**well-bred → pedigree → desirable lineage → controlled marriage →
-hereditarian classification → later eugenic formalisation**
+**well-bred → pedigree → desirable lineage → controlled marriage → hereditarian classification → later eugenic formalisation**
 
 The point is not:
 
@@ -502,21 +421,17 @@ The point is not:
 
 The point is:
 
-**THIS IS THE KIND OF OLDER HUMAN-RANKING AND REPRODUCTIVE LOGIC FROM
-WHICH LATER HEREDITARIAN AND EUGENIC SYSTEMS BECOME MORE LEGIBLE.**
+**THIS IS THE KIND OF OLDER HUMAN-RANKING AND REPRODUCTIVE LOGIC FROM WHICH LATER HEREDITARIAN AND EUGENIC SYSTEMS BECOME MORE LEGIBLE.**
 
 And the contradiction is striking.
 
-Lady Catherine regards Darcy marrying his **first cousin**, Anne, as the
-proper preservation of lineage.
+Lady Catherine regards Darcy marrying his **first cousin**, Anne, as the proper preservation of lineage.
 
-Darcy marrying the unrelated Elizabeth is described through the language
-of pollution.
+Darcy marrying the unrelated Elizabeth is described through the language of pollution.
 
 So "purity" here is not a modern genetic-health concept.
 
-It is **genealogical and social purity**: name, rank, property,
-pedigree, family alliance and imagined quality of blood.
+It is **genealogical and social purity**: name, rank, property, pedigree, family alliance and imagined quality of blood.
 
 > **Historical aside:** Restricted aristocratic marriage networks also
 > have a separate history involving consanguinity and reduced genetic
@@ -531,7 +446,7 @@ Lady Catherine possesses a classifier.
 
 She mistakes the classifier for reality.
 
-------------------------------------------------------------------------
+---
 
 ## 8. 🌍 The Classifier Is Bigger Than English Class
 
@@ -539,69 +454,51 @@ Elsewhere in *Pride and Prejudice*, Darcy uses the line:
 
 > "Every savage can dance."
 
-That word belongs to a much wider historical information environment in
-which European imperial and colonial societies classified peoples as
-"civilised" and "savage".
+That word belongs to a much wider historical information environment in which European imperial and colonial societies classified peoples as "civilised" and "savage".
 
-This does **not** establish that Austen has secretly hidden a complete
-political theory of empire in Darcy's dialogue.
+This does **not** establish that Austen has secretly hidden a complete political theory of empire in Darcy's dialogue.
 
-It does **not** establish that Darcy's fortune can simply be
-reverse-engineered into a particular colonial commodity or the
-transatlantic slave trade without evidence.
+It does **not** establish that Darcy's fortune can simply be reverse-engineered into a particular colonial commodity or the transatlantic slave trade without evidence.
 
-But it does remind us that the human-ranking vocabulary available to
-this class did not stop at:
+But it does remind us that the human-ranking vocabulary available to this class did not stop at:
 
 **rich gentleman / poorer gentleman.**
 
 Different classifiers coexist:
 
-**civilised / savage\
-well-bred / badly bred\
-ancient family / inferior connection\
-appropriate alliance / polluting alliance**
+**civilised / savage\ well-bred / badly bred\ ancient family / inferior connection\ appropriate alliance / polluting alliance**
 
-Race, empire, class, lineage and pedigree are not interchangeable
-categories.
+Race, empire, class, lineage and pedigree are not interchangeable categories.
 
 They should not be flattened into one thing.
 
-But they inhabit a society unusually comfortable with ranking human
-beings, families and relationships.
+But they inhabit a society unusually comfortable with ranking human beings, families and relationships.
 
-This matters because an information environment includes things nobody
-stops to explain.
+This matters because an information environment includes things nobody stops to explain.
 
 Characters do not announce:
 
-**I AM NOW USING AN EARLY-NINETEENTH-CENTURY HIERARCHY OF CIVILISATION
-AND BREEDING.**
+**I AM NOW USING AN EARLY-NINETEENTH-CENTURY HIERARCHY OF CIVILISATION AND BREEDING.**
 
 They use the categories available to them.
 
 That is information too.
 
-------------------------------------------------------------------------
+---
 
 ## 9. 🧠 Darcy Has Been Raised Inside This System
 
-Lady Catherine is not a random aristocratic woman who wanders in during
-the final act.
+Lady Catherine is not a random aristocratic woman who wanders in during the final act.
 
 She is Darcy's mother's sister.
 
-Darcy's parents are dead. Lady Catherine is therefore one of the senior
-surviving figures in his maternal family: wealthy, titled, forceful,
-intensely invested in pedigree, and convinced that Darcy's marriage was
-effectively arranged in infancy.
+Darcy's parents are dead. Lady Catherine is therefore one of the senior surviving figures in his maternal family: wealthy, titled, forceful, intensely invested in pedigree, and convinced that Darcy's marriage was effectively arranged in infancy.
 
 That gives us useful contextual information about Darcy.
 
 His early assumptions about Elizabeth do not materialise in a vacuum.
 
-Darcy spends much of the novel receiving two incompatible streams of
-information.
+Darcy spends much of the novel receiving two incompatible streams of information.
 
 ### Inherited model
 
@@ -623,21 +520,17 @@ She reads.
 
 She argues.
 
-She walks across the countryside because Jane needs her and turns up
-muddy instead of waiting around to perform delicacy.
+She walks across the countryside because Jane needs her and turns up muddy instead of waiting around to perform delicacy.
 
-She does not automatically treat Darcy's wealth as evidence that his
-opinion deserves extra weight.
+She does not automatically treat Darcy's wealth as evidence that his opinion deserves extra weight.
 
 She laughs.
 
 She refuses to be endlessly agreeable to him.
 
-She does not seem particularly impressed by the fact that he is
-Fitzwilliam Fucking Darcy.
+She does not seem particularly impressed by the fact that he is Fitzwilliam Fucking Darcy.
 
-Darcy is attracted to precisely the system behaviour his inherited
-classifier has trouble explaining.
+Darcy is attracted to precisely the system behaviour his inherited classifier has trouble explaining.
 
 So Darcy v1 attempts a compromise.
 
@@ -645,21 +538,17 @@ So Darcy v1 attempts a compromise.
 
 **Embodied information:** 🥵🥵🥵🥵🥵
 
-**Darcy v1 solution:** override the conclusion while retaining the
-classifier.
+**Darcy v1 solution:** override the conclusion while retaining the classifier.
 
 And thus we get the first proposal.
 
-**Your family and connections are a disaster. I have struggled
-heroically against loving you. Nevertheless, unfortunately, I am
-catastrophically attracted to your entire information architecture.
-Please consent to be my wife.**
+**Your family and connections are a disaster. I have struggled heroically against loving you. Nevertheless, unfortunately, I am catastrophically attracted to your entire information architecture. Please consent to be my wife.**
 
 Elizabeth:
 
 **❌ ABSOLUTELY FUCKING NOT.**
 
-------------------------------------------------------------------------
+---
 
 ## 10. 🔥 Elizabeth Submits A Bug Report
 
@@ -667,11 +556,9 @@ Elizabeth does not merely reject Darcy.
 
 She gives him diagnostic feedback.
 
-Among the things which stay with him is her accusation that he had not
-behaved in a "more gentleman-like manner".
+Among the things which stay with him is her accusation that he had not behaved in a "more gentleman-like manner".
 
-Later he tells her that her words tortured him --- and, importantly,
-that it took time before he could admit their justice.
+Later he tells her that her words tortured him — and, importantly, that it took time before he could admit their justice.
 
 That is feedback.
 
@@ -681,8 +568,7 @@ Not:
 
 but:
 
-**output → environmental response → disturbance → processing → model
-revision → changed behaviour**
+**output → environmental response → disturbance → processing → model revision → changed behaviour**
 
 Darcy's first response is defensive.
 
@@ -690,8 +576,7 @@ Then he writes the letter.
 
 Elizabeth reads it and updates too.
 
-Her prejudices do not vanish instantly. Austen tells us the effect is
-gradual.
+Her prejudices do not vanish instantly. Austen tells us the effect is gradual.
 
 Then Pemberley provides new observations.
 
@@ -699,14 +584,13 @@ Darcy behaves differently.
 
 Elizabeth observes the difference.
 
-Darcy later explicitly says that at Pemberley he wanted to show her that
-her reproofs "had been attended to".
+Darcy later explicitly says that at Pemberley he wanted to show her that her reproofs "had been attended to".
 
 **ATTENDED TO.**
 
 The feedback changed the system.
 
-``` mermaid
+```mermaid
 flowchart TD
     A[Darcy's inherited model] --> B[First proposal]
     B --> C["Elizabeth: FUCKING NO"]
@@ -724,12 +608,11 @@ Eventually.
 
 With some debugging.
 
-------------------------------------------------------------------------
+---
 
 ## 11. 🪭 Lady Catherine Arrives Running Darcy v0 At Maximum Volume
 
-This is one reason Lady Catherine's confrontation belongs so close to
-the end of the novel.
+This is one reason Lady Catherine's confrontation belongs so close to the end of the novel.
 
 She brings the unreconstructed classifier back into the room.
 
@@ -758,8 +641,7 @@ Elizabeth, after deliberation:
 
 > "I am not."
 
-Lady Catherine immediately tries to convert this truthful present-state
-answer into a permanent future commitment:
+Lady Catherine immediately tries to convert this truthful present-state answer into a permanent future commitment:
 
 > "And will you promise me, never to enter into such an engagement?"
 
@@ -769,8 +651,7 @@ Elizabeth:
 
 **MODERN TRANSLATION:**
 
-**YOU ASKED WHETHER I AM CURRENTLY ENGAGED. I ANSWERED THAT QUESTION.
-YOU DO NOT NOW GET TO TURN THAT INTO OWNERSHIP OF MY FUTURE.**
+**YOU ASKED WHETHER I AM CURRENTLY ENGAGED. I ANSWERED THAT QUESTION. YOU DO NOT NOW GET TO TURN THAT INTO OWNERSHIP OF MY FUTURE.**
 
 Lady Catherine keeps pushing.
 
@@ -794,7 +675,7 @@ Lady Catherine wants false certainty.
 
 Elizabeth refuses to manufacture it.
 
-------------------------------------------------------------------------
+---
 
 ## 12. 🥵 SHE HAS BALLS THAT NONE OF US HAVE EVER HAD
 
@@ -820,10 +701,7 @@ Darcy does **not** infer:
 
 He infers:
 
-**If Elizabeth were still absolutely and irrevocably against me,
-Elizabeth is exactly the sort of person who would have told Aunt
-Catherine so. She did not. Therefore my previous state of CERTAIN NO may
-no longer be current.**
+**If Elizabeth were still absolutely and irrevocably against me, Elizabeth is exactly the sort of person who would have told Aunt Catherine so. She did not. Therefore my previous state of CERTAIN NO may no longer be current.**
 
 That is enough for hope.
 
@@ -845,8 +723,7 @@ And Lady Catherine apparently gives him the director's cut:
 
 **DARCY:** SHE SAID THAT TO *YOU*? 🥵🥵🥵🥵🥵
 
-Lady Catherine thinks she is reporting evidence of Elizabeth's
-inferiority.
+Lady Catherine thinks she is reporting evidence of Elizabeth's inferiority.
 
 Darcy has a different classifier.
 
@@ -856,16 +733,13 @@ And there is a particularly valuable feature in this report:
 
 Elizabeth was not performing independence for Darcy.
 
-She did not know that Lady Catherine's furious incident report would
-later become romantic intelligence.
+She did not know that Lady Catherine's furious incident report would later become romantic intelligence.
 
 So Darcy gets unusually good character evidence.
 
 > **She wasn't performing independence for me. That's who she is.**
 
-This is also where the hypothetical Colonel Fitzwilliam joke belongs,
-with the important distinction that Austen does not give us his reaction
-to the confrontation.
+This is also where the hypothetical Colonel Fitzwilliam joke belongs, with the important distinction that Austen does not give us his reaction to the confrontation.
 
 But as family-systems comedy:
 
@@ -887,7 +761,7 @@ It is:
 
 **SHE HAS BALLS THAT NONE OF US HAVE EVER HAD.**
 
-------------------------------------------------------------------------
+---
 
 ## 13. ⚛️ Apparently The Laws Of Physics Permit Saying No To Aunt Catherine
 
@@ -901,8 +775,7 @@ then eventually:
 
 **people do not say no to Lady Catherine**
 
-can begin to look less like a behavioural regularity and more like a
-property of the universe.
+can begin to look less like a behavioural regularity and more like a property of the universe.
 
 Then Elizabeth arrives.
 
@@ -916,8 +789,7 @@ The Royal Navy remains afloat.
 
 Gravity continues.
 
-**OH MY GOD. APPARENTLY THE LAWS OF PHYSICS PERMIT SAYING NO TO AUNT
-CATHERINE.**
+**OH MY GOD. APPARENTLY THE LAWS OF PHYSICS PERMIT SAYING NO TO AUNT CATHERINE.**
 
 This is a cybernetic point.
 
@@ -942,8 +814,7 @@ Lady Catherine can threaten displeasure and withdrawal.
 
 But once Darcy has decided Elizabeth matters more:
 
-**LADY CATHERINE:** If you marry that woman, I shall be extremely
-displeased.
+**LADY CATHERINE:** If you marry that woman, I shall be extremely displeased.
 
 **DARCY:** Oh no.
 
@@ -961,7 +832,7 @@ and becomes:
 
 That is a considerable reduction in effective control power.
 
-------------------------------------------------------------------------
+---
 
 ## 14. 📣 The Complaint Contains The Advertisement
 
@@ -981,14 +852,11 @@ A sender cannot force the receiver to share the interpretation.
 
 This becomes even more interesting after the marriage.
 
-Beforehand, Elizabeth is a Hertfordshire gentlewoman whom some members
-of the relevant social network may know.
+Beforehand, Elizabeth is a Hertfordshire gentlewoman whom some members of the relevant social network may know.
 
 Afterwards she is **Mrs Darcy of Pemberley**.
 
-The wider spread of the anecdote is an inference rather than something
-Austen narrates for us, so we do not need to pretend the novel gives us
-a montage of every aristocratic drawing room in England discussing it.
+The wider spread of the anecdote is an inference rather than something Austen narrates for us, so we do not need to pretend the novel gives us a montage of every aristocratic drawing room in England discussing it.
 
 But the mechanism is plausible.
 
@@ -998,9 +866,7 @@ The original gossip:
 
 The better story:
 
-**Lady Catherine de Bourgh personally travelled to Longbourn to stop
-Elizabeth Bennet marrying Darcy, demanded that Elizabeth promise never
-to do it, and Elizabeth refused.**
+**Lady Catherine de Bourgh personally travelled to Longbourn to stop Elizabeth Bennet marrying Darcy, demanded that Elizabeth promise never to do it, and Elizabeth refused.**
 
 And then:
 
@@ -1010,8 +876,7 @@ That story has an ending.
 
 Lady Catherine's status itself makes the refusal socially informative.
 
-Some observers could classify Elizabeth as appalling, ambitious,
-headstrong or insolent.
+Some observers could classify Elizabeth as appalling, ambitious, headstrong or insolent.
 
 Others:
 
@@ -1021,19 +886,17 @@ Reputation does not require universal approval.
 
 It requires recognisability.
 
-The eventual Mrs Darcy is not merely evidence that somebody once said
-no.
+The eventual Mrs Darcy is not merely evidence that somebody once said no.
 
 She is **longitudinal follow-up data**.
 
 Lady Catherine's threatened future:
 
-**you will be disgraced; this alliance cannot appropriately exist;
-Darcy's family will reject you**
+**you will be disgraced; this alliance cannot appropriately exist; Darcy's family will reject you**
 
 has visibly failed to become the only possible future.
 
-``` mermaid
+```mermaid
 flowchart TD
     A[Elizabeth refuses Lady Catherine]
     A --> B[Lady Catherine]
@@ -1046,7 +909,7 @@ flowchart TD
 
 **Same event. Different receiver. Different information.**
 
-------------------------------------------------------------------------
+---
 
 ## 15. 🗣️ Same Non-Disclosure, Different Relationship
 
@@ -1064,12 +927,9 @@ At the propositional level, both can communicate:
 
 At the relational level, they are not remotely the same signal.
 
-Elizabeth's increasingly precise, formal language is part of the
-information.
+Elizabeth's increasingly precise, formal language is part of the information.
 
-In some British communicative registers, increasing politeness,
-literalism and procedural exactness can indicate **increasing hostility
-rather than increasing warmth**.
+In some British communicative registers, increasing politeness, literalism and procedural exactness can indicate **increasing hostility rather than increasing warmth**.
 
 The surface temperature drops.
 
@@ -1079,11 +939,9 @@ Elizabeth does not need to say:
 
 **YOU STUPID WOMAN.**
 
-Lady Catherine asks why Elizabeth would not simply contradict the
-rumour.
+Lady Catherine asks why Elizabeth would not simply contradict the rumour.
 
-Elizabeth calmly explains that Lady Catherine's decision to travel to
-Longbourn may itself confirm it.
+Elizabeth calmly explains that Lady Catherine's decision to travel to Longbourn may itself confirm it.
 
 **MA'AM, YOU ARE INCREASING THE SIGNAL. 📡**
 
@@ -1091,18 +949,15 @@ That is worse.
 
 The relational message is:
 
-**I understand exactly what you are doing.\
-I do not accept your authority.\
-I am not emotionally joining you inside your framing.**
+**I understand exactly what you are doing.\ I do not accept your authority.\ I am not emotionally joining you inside your framing.**
 
 Lady Catherine accurately detects insubordination.
 
-What she cannot understand is the system in which Elizabeth is allowed
-to produce it.
+What she cannot understand is the system in which Elizabeth is allowed to produce it.
 
-------------------------------------------------------------------------
+---
 
-## 17. 🇬🇧 When Britain Does Not Quite Say The Thing
+## 16. 🇬🇧 When Britain Does Not Quite Say The Thing
 
 There is a broader communication problem hiding inside Elizabeth's refusals.
 
@@ -1381,8 +1236,7 @@ After Lady Catherine leaves, Elizabeth does something very useful.
 
 She performs network analysis.
 
-The visit has disturbed her badly, but she begins reconstructing where
-the report might have come from.
+The visit has disturbed her badly, but she begins reconstructing where the report might have come from.
 
 Jane is marrying Bingley.
 
@@ -1390,14 +1244,11 @@ Darcy is Bingley's intimate friend.
 
 Elizabeth is Jane's sister.
 
-The marriage will increase the opportunities for Darcy and Elizabeth to
-encounter one another.
+The marriage will increase the opportunities for Darcy and Elizabeth to encounter one another.
 
-Elizabeth herself has privately considered marriage to Darcy **possible
-at some future time**.
+Elizabeth herself has privately considered marriage to Darcy **possible at some future time**.
 
-Other people appear to have converted that possibility into something
-much stronger.
+Other people appear to have converted that possibility into something much stronger.
 
 Austen gives us a lovely confidence transformation.
 
@@ -1409,10 +1260,9 @@ Austen gives us a lovely confidence transformation.
 
 **Lady Catherine:** alarming report requiring urgent intervention.
 
-The underlying proposition has not remained informationally stable while
-travelling.
+The underlying proposition has not remained informationally stable while travelling.
 
-``` mermaid
+```mermaid
 flowchart TD
     A[Elizabeth: possible / future] --> B[Local social inference]
     B --> C[Almost certain / immediate]
@@ -1422,16 +1272,15 @@ flowchart TD
     F -. makes the rumour more socially significant .-> B
 ```
 
-Lady Catherine's attempt to suppress the rumour therefore generates more
-evidence that something important may be happening.
+Lady Catherine's attempt to suppress the rumour therefore generates more evidence that something important may be happening.
 
 Elizabeth tells her this to her face.
 
 🪭 **Task failed successfully. Again.**
 
-------------------------------------------------------------------------
+---
 
-## 18. 💰 "I Know It All" --- Reader, She Did Not Know It All
+## 18. 💰 "I Know It All" — Reader, She Did Not Know It All
 
 Lady Catherine eventually brings up Lydia and Wickham.
 
@@ -1439,11 +1288,9 @@ Lady Catherine eventually brings up Lydia and Wickham.
 
 She then demonstrates that she does not.
 
-Her model is that Lydia's marriage was a "patched-up business" at the
-expense of Elizabeth's father and uncles.
+Her model is that Lydia's marriage was a "patched-up business" at the expense of Elizabeth's father and uncles.
 
-Elizabeth possesses information which could radically reorganise that
-model.
+Elizabeth possesses information which could radically reorganise that model.
 
 Darcy found Lydia and Wickham.
 
@@ -1453,11 +1300,9 @@ Darcy dealt with Wickham and the financial problem.
 
 Darcy tried to keep his own role quiet.
 
-Elizabeth learned the truth only because Lydia let something slip and
-Elizabeth then obtained the particulars through Mrs Gardiner.
+Elizabeth learned the truth only because Lydia let something slip and Elizabeth then obtained the particulars through Mrs Gardiner.
 
-Lady Catherine, despite claiming privileged access to Darcy as his close
-relation, does not know.
+Lady Catherine, despite claiming privileged access to Darcy as his close relation, does not know.
 
 Elizabeth does.
 
@@ -1465,10 +1310,7 @@ Elizabeth does.
 
 And Elizabeth still does not correct her.
 
-This deserves careful handling because a modern reader could reasonably
-ask whether Darcy's silence allows Lady Catherine to believe something
-false, or whether Elizabeth ought to defend her family by revealing what
-actually happened.
+This deserves careful handling because a modern reader could reasonably ask whether Darcy's silence allows Lady Catherine to believe something false, or whether Elizabeth ought to defend her family by revealing what actually happened.
 
 But correcting Lady Catherine is not informationally neutral.
 
@@ -1476,37 +1318,27 @@ If Elizabeth says:
 
 **ACTUALLY YOUR NEPHEW PAID**
 
-she also tells Lady Catherine that Elizabeth's father and uncle could
-not independently resolve the crisis and that Darcy had already
-intervened financially in Bennet family affairs.
+she also tells Lady Catherine that Elizabeth's father and uncle could not independently resolve the crisis and that Darcy had already intervened financially in Bennet family affairs.
 
-From Lady Catherine's classifier, that may simply provide more
-ammunition.
+From Lady Catherine's classifier, that may simply provide more ammunition.
 
 More importantly, Darcy deliberately attempted to keep his role private.
 
 The action is not structured as:
 
-**Darcy performs expensive rescue → Darcy publicises rescue → Darcy
-receives social credit**
+**Darcy performs expensive rescue → Darcy publicises rescue → Darcy receives social credit**
 
 It is closer to:
 
 **problem needs solving → solve problem → minimise disclosure**
 
-And by allowing the public-facing version to leave Mr Bennet and the
-Gardiners in the apparent role of people who sorted out their own
-family's crisis, Darcy's silence can also preserve **their dignity**.
+And by allowing the public-facing version to leave Mr Bennet and the Gardiners in the apparent role of people who sorted out their own family's crisis, Darcy's silence can also preserve **their dignity**.
 
-Elizabeth does not buy a victory over Lady Catherine by throwing her
-father and uncle under the bus.
+Elizabeth does not buy a victory over Lady Catherine by throwing her father and uncle under the bus.
 
-**LADY CATHERINE:** Your family's men had to pay to patch up Lydia's
-marriage! 😡
+**LADY CATHERINE:** Your family's men had to pay to patch up Lydia's marriage! 😡
 
-**ELIZABETH, POSSESSING THE MOTHER OF ALL CORRECTION OPPORTUNITIES:**\
-**I AM NOT USING PRIVATE INFORMATION TO HUMILIATE MY OWN FAMILY JUST SO
-I CAN WIN AN ARGUMENT WITH YOU.**
+**ELIZABETH, POSSESSING THE MOTHER OF ALL CORRECTION OPPORTUNITIES:**\ **I AM NOT USING PRIVATE INFORMATION TO HUMILIATE MY OWN FAMILY JUST SO I CAN WIN AN ARGUMENT WITH YOU.**
 
 This gives us another important principle:
 
@@ -1541,7 +1373,7 @@ Elizabeth, internally:
 
 And says absolutely nothing.
 
-------------------------------------------------------------------------
+---
 
 ## 19. 😂 Mr Bennet Has Absolutely No Fucking Idea
 
@@ -1553,8 +1385,7 @@ The proposition:
 
 is processed by multiple systems.
 
-**The Lucases / gossip network:** plausible enough to become almost
-certain.
+**The Lucases / gossip network:** plausible enough to become almost certain.
 
 **Lady Catherine:** catastrophic threat.
 
@@ -1572,8 +1403,7 @@ His joke tells Elizabeth:
 
 Elizabeth knows more.
 
-Again, she does not resolve the information asymmetry merely because she
-can.
+Again, she does not resolve the information asymmetry merely because she can.
 
 Same proposition.
 
@@ -1583,7 +1413,7 @@ Different models.
 
 Different information.
 
-------------------------------------------------------------------------
+---
 
 ## 20. ❤️ The Anti-Lady-Catherine Interview Technique
 
@@ -1605,8 +1435,7 @@ The last time this man asked, Elizabeth's answer was not:
 
 It was approximately:
 
-**Sir, if you were the last available penis in England, I would inquire
-whether France had vacancies.**
+**Sir, if you were the last available penis in England, I would inquire whether France had vacancies.**
 
 Darcy has now received one new piece of evidence.
 
@@ -1618,8 +1447,7 @@ Darcy:
 
 😂
 
-But Darcy v2 does not treat his inference as authority over Elizabeth's
-internal state.
+But Darcy v2 does not treat his inference as authority over Elizabeth's internal state.
 
 He says:
 
@@ -1671,8 +1499,7 @@ Darcy v1:
 
 Darcy v2:
 
-**I have reason to suspect Elizabeth's state may have changed. Elizabeth
-knows what Elizabeth thinks. I should ask Elizabeth.**
+**I have reason to suspect Elizabeth's state may have changed. Elizabeth knows what Elizabeth thinks. I should ask Elizabeth.**
 
 And Elizabeth's answer is not even especially fluent.
 
@@ -1684,7 +1511,7 @@ Communication does not need rhetorical perfection.
 
 It needs to convey enough information for the receiving system.
 
-------------------------------------------------------------------------
+---
 
 ## 21. 🐝 Bingley Is Another Cybernetics Lesson Hiding In The Same Chapter
 
@@ -1702,8 +1529,7 @@ Bingley relied on Darcy's model.
 
 The relationship stopped.
 
-Later Darcy obtains more observations, recognises that his model was
-wrong, and tells Bingley so.
+Later Darcy obtains more observations, recognises that his model was wrong, and tells Bingley so.
 
 He also admits that concealing Jane's presence in London was wrong.
 
@@ -1732,7 +1558,7 @@ Again:
 
 **observers are part of the information system.**
 
-------------------------------------------------------------------------
+---
 
 ## 22. 🔄 Nobody Leaves The System Unchanged
 
@@ -1746,8 +1572,7 @@ Bingley updates.
 
 Jane receives new outcomes.
 
-Lady Catherine's intervention changes the environment even though it
-does not produce the behaviour she intended.
+Lady Catherine's intervention changes the environment even though it does not produce the behaviour she intended.
 
 Elizabeth's first rejection changes Darcy.
 
@@ -1765,7 +1590,7 @@ Darcy then asks a new question in a new way.
 
 Elizabeth supplies a new answer.
 
-``` mermaid
+```mermaid
 flowchart TD
     A[Darcy model v1] --> B[First proposal]
     B --> C[Elizabeth rejection]
@@ -1798,12 +1623,11 @@ He becomes more capable of treating his own model as fallible.
 
 That is a substantial change.
 
-------------------------------------------------------------------------
+---
 
 ## 23. 🪞 The Inherited Classifier And The Autonomous Person
 
-Lady Catherine is useful partly because she shows us the classifier
-Darcy has been living around.
+Lady Catherine is useful partly because she shows us the classifier Darcy has been living around.
 
 She believes she can determine:
 
@@ -1826,8 +1650,7 @@ His actual experience of Elizabeth says:
 
 **YES, ACTUALLY.**
 
-Darcy v1's mistake is trying to override the output while leaving the
-classifier intact.
+Darcy v1's mistake is trying to override the output while leaving the classifier intact.
 
 Elizabeth's rejection forces a harder possibility into the system:
 
@@ -1849,15 +1672,13 @@ Elizabeth repeatedly produces prediction errors.
 
 Eventually he learns from them.
 
-------------------------------------------------------------------------
+---
 
 ## 24. 🥵 What Darcy Is Actually Attracted To
 
-This matters because Lady Catherine's report does not create Darcy's
-attraction.
+This matters because Lady Catherine's report does not create Darcy's attraction.
 
-It gives him new information about traits he has been responding to
-throughout the novel.
+It gives him new information about traits he has been responding to throughout the novel.
 
 Elizabeth does not endlessly accommodate him because he is rich.
 
@@ -1879,18 +1700,15 @@ She possesses her own judgment.
 
 She is capable of warmth without becoming deferential.
 
-She can care deeply for Jane while refusing to perform fragility for the
-Bingley sisters.
+She can care deeply for Jane while refusing to perform fragility for the Bingley sisters.
 
 She can be internally rattled and externally composed.
 
 She can tell Darcy himself that he has behaved badly.
 
-Then Lady Catherine arrives and accidentally performs the final stress
-test.
+Then Lady Catherine arrives and accidentally performs the final stress test.
 
-**LADY CATHERINE:** I have come to tell you that you are not good enough
-for my nephew.
+**LADY CATHERINE:** I have come to tell you that you are not good enough for my nephew.
 
 **ELIZABETH:** Sounds like a you problem.
 
@@ -1898,8 +1716,7 @@ Not literally.
 
 Spiritually.
 
-This is why the richer secondary payload of Lady Catherine's report is
-not:
+This is why the richer secondary payload of Lady Catherine's report is not:
 
 **OMG SHE LIKES ME MORE THAN BOOKS 😍😍😍**
 
@@ -1907,30 +1724,25 @@ It is:
 
 **SHE SAID THAT TO AUNT CATHERINE? 🥵🥵🥵**
 
-Darcy has spent his life in the social environment around Lady
-Catherine.
+Darcy has spent his life in the social environment around Lady Catherine.
 
-Elizabeth demonstrates that the environment is not the same thing as a
-law of nature.
+Elizabeth demonstrates that the environment is not the same thing as a law of nature.
 
 No wonder the man is interested.
 
-------------------------------------------------------------------------
+---
 
 ## 25. 🧰 What The Lads Were Supposed To Learn
 
-If you remember nothing else from Lady Catherine's heroic contribution
-to cybernetic pedagogy, remember these.
+If you remember nothing else from Lady Catherine's heroic contribution to cybernetic pedagogy, remember these.
 
 ### Information does not contain its interpretation
 
-The same observation can produce different information for different
-observers.
+The same observation can produce different information for different observers.
 
 ### Observers are part of information systems
 
-Prior knowledge, confidence, incentives, relationships and models change
-what an observer can infer.
+Prior knowledge, confidence, incentives, relationships and models change what an observer can infer.
 
 ### A question is an intervention in an information system
 
@@ -1940,8 +1752,7 @@ Lady Catherine's journey makes the rumour more significant.
 
 ### Refusing the frame is not the same as refusing the question
 
-Elizabeth can answer truthfully without accepting Lady Catherine's
-premises.
+Elizabeth can answer truthfully without accepting Lady Catherine's premises.
 
 ### Uncertainty is information
 
@@ -1959,13 +1770,11 @@ Elizabeth is discomposed and still maintains controlled behaviour.
 
 ### Knowing another model is wrong does not automatically create an obligation to correct it
 
-Correction can disclose private information, harm third parties or
-sacrifice dignity.
+Correction can disclose private information, harm third parties or sacrifice dignity.
 
 ### Information withholding is not inherently deceptive
 
-Privacy and controlled disclosure are legitimate functions of an
-information system.
+Privacy and controlled disclosure are legitimate functions of an information system.
 
 ### High-status observers can have badly calibrated models
 
@@ -1973,8 +1782,7 @@ Authority does not guarantee accuracy.
 
 ### Stable social systems may depend on participants reproducing expected responses
 
-If everybody accommodates Lady Catherine, accommodation looks
-inevitable.
+If everybody accommodates Lady Catherine, accommodation looks inevitable.
 
 Elizabeth demonstrates that it is not.
 
@@ -2006,7 +1814,7 @@ And possibly:
 
 🥵.
 
-------------------------------------------------------------------------
+---
 
 ## 26. 🧪 The Tiny Experiment
 
@@ -2045,11 +1853,9 @@ Lady Catherine has heard the rumour.
 
 The rumour has travelled further than Elizabeth realised.
 
-Lady Catherine's family model is even more rigid than Elizabeth had
-reason to know.
+Lady Catherine's family model is even more rigid than Elizabeth had reason to know.
 
-Lady Catherine does not possess all the information she claims to
-possess.
+Lady Catherine does not possess all the information she claims to possess.
 
 ### For Mr Bennet
 
@@ -2083,12 +1889,11 @@ Different information.
 
 **Welcome to cybernetics.**
 
-------------------------------------------------------------------------
+---
 
 ## 27. 🪭 Task Failed Successfully
 
-Lady Catherine travels to Longbourn because she thinks Elizabeth Bennet
-is the problem in the system.
+Lady Catherine travels to Longbourn because she thinks Elizabeth Bennet is the problem in the system.
 
 She intends to remove uncertainty.
 
@@ -2110,20 +1915,17 @@ She gives Darcy new information.
 
 She personally carries that information to him.
 
-She dwells emphatically on the exact expressions which she believes will
-make Elizabeth less attractive as a possible wife.
+She dwells emphatically on the exact expressions which she believes will make Elizabeth less attractive as a possible wife.
 
 Darcy processes them through a different model.
 
 > "It taught me to hope."
 
-Lady Catherine has encountered a node which will not accept her control
-signal.
+Lady Catherine has encountered a node which will not accept her control signal.
 
 She then forwards the error report to Darcy.
 
-Darcy, who has finally learned that his own model can be wrong, does
-something much more sensible.
+Darcy, who has finally learned that his own model can be wrong, does something much more sensible.
 
 He asks Elizabeth.
 
@@ -2133,46 +1935,38 @@ Elizabeth answers.
 
 🪭 **Task failed successfully.**
 
-------------------------------------------------------------------------
+---
 
 ## 🌌 Constellations
 
-🪭 🕸️ 🔐 🧬 🪞 --- observer-dependent information; social networks;
-disclosure control; inherited classifiers; feedback-driven model
-revision.
+🪭 🕸️ 🔐 🧬 🪞 — observer-dependent information; social networks; disclosure control; inherited classifiers; feedback-driven model revision.
 
-------------------------------------------------------------------------
+---
 
 ## ✨ Stardust
 
-cybernetics, embodied information ecology, observer dependence,
-feedback, information asymmetry, disclosure control, social signalling,
-jane austen, pride and prejudice, lady catherine de bourgh
+cybernetics, embodied information ecology, observer dependence, feedback, information asymmetry, disclosure control, social signalling, jane austen, pride and prejudice, lady catherine de bourgh
 
-------------------------------------------------------------------------
+---
 
 ## 🏮 Footer
 
-*Austen Cybernetics 103 --- Lady Catherine's Interview Technique* is a
-living teaching node of the **Polaris Protocol**. It uses a bounded
-literary information system to make observer-dependence, feedback,
-disclosure control, classifier error and autonomous response legible
-without requiring technical machinery first. Austen supplies the
-experiment; Lady Catherine, heroically and against her own interests,
-supplies the demonstration.
+*🪭 Austen Cybernetics 103: Lady Catherine's Interview Technique* is a living teaching node of the **Polaris Protocol**. It uses a bounded literary information system to make observer-dependence, feedback, disclosure control, classifier error and autonomous response legible without requiring technical machinery first. Austen supplies the experiment; Lady Catherine, heroically and against her own interests, supplies the demonstration.
 
 > 📡 Cross-references:
 >
-> - [👑 Princess Andrew](../../../../🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/👑_princess_andrew.md) – *”As the saying goes, there is no honey without bees.”*  
+> - [🪭 Austen Cybernetics 101: If You Understand Austen, You Can Understand Cybernetics](./🪭_austen_cybernetics_101.md) — *feedback and behavioural revision*
+> - [🪭 Austen Cybernetics 102: The Woman Who Loved Him More Than Books](./🪭_austen_cybernetics_102.md) — *observation, inference and competing models*
+> - [👑 Princess Andrew](../../../../🌖_6_Learning_The_Skies/🦑_The_Great_Kraken_Disturbance/🧨_Potential_Proxies/👑_princess_andrew.md) — *“As the saying goes, there is no honey without bees.”*
 >
 > 🏮 Return To:
 >
-> - [🧬 Start Here](./README.md) – *1up*
-> - [♻️ Cybernetics](../README.md) – *2up*
-> - [🪿 Embodied Information Ecology](../../README.md) – *3up*
-> - [🌑 Origin Points](../../../README.md) – *4up*
-> - [🌌 Polaris Protocol – Root](../../../../README.md) – *root*
+> - [🧬 Start Here](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-05_
+_Last updated: 2026-10-10_

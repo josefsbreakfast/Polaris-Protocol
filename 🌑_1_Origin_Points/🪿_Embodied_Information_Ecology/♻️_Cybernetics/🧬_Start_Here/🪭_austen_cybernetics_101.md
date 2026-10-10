@@ -1,16 +1,16 @@
-# 🪭 If You Understand Austen, You Can Understand Cybernetics
+# 🪭 Austen Cybernetics 101: If You Understand Austen, You Can Understand Cybernetics
 
-**First created:** 2026-08-25 \| **Last updated:** 2026-08-25\
+**First created:** 2026-08-25 | **Last updated:** 2026-10-10
 *Cybernetics 101, via Fitzwilliam Darcy discovering that feedback is
 information capable of changing what a system does next.*
 
-------------------------------------------------------------------------
+---
 
 ## 🛰️ Orientation
 
 It would be criminal to explain cybernetics for the first time with:
 
-``` text
+```text
 desired state → comparator → corrective action
 ```
 
@@ -50,13 +50,13 @@ Elizabeth Bennet is about to demonstrate.
 
 🪭 Fan the man.
 
-------------------------------------------------------------------------
+---
 
 ## 🧬 Start With The Simplest Loop
 
 Before we make cybernetics complicated, follow the arrows.
 
-``` mermaid
+```mermaid
 flowchart LR
     A[Darcy acts]
     --> B[Elizabeth experiences his behaviour]
@@ -73,13 +73,13 @@ next.
 
 The important movement is not simply:
 
-``` text
+```text
 Darcy → Elizabeth
 ```
 
 It is:
 
-``` text
+```text
 Darcy → Elizabeth → information returns to Darcy → Darcy changes
 ```
 
@@ -87,7 +87,7 @@ The return of information is what begins to make this cybernetic.
 
 The change is what makes the feedback consequential.
 
-------------------------------------------------------------------------
+---
 
 ## 🥺 But I Have Ten Thousand A Year
 
@@ -111,7 +111,7 @@ decision-making capacity of the woman he intends to marry.
 
 The rough model is:
 
-``` mermaid
+```mermaid
 flowchart TD
     A[Darcy loves Elizabeth]
     --> B[Darcy considers reasons not to marry her]
@@ -122,13 +122,13 @@ flowchart TD
 
 There is a missing variable.
 
-``` text
+```text
 WHAT DOES ELIZABETH WANT?
 ```
 
 This omission is about to become operationally significant.
 
-------------------------------------------------------------------------
+---
 
 ## 💥 Corrective Feedback Arrives
 
@@ -152,13 +152,13 @@ One criticism lands with extraordinary precision:
 
 This is not merely:
 
-``` text
+```text
 I do not want to marry you.
 ```
 
 It is also:
 
-``` text
+```text
 You believe yourself to be a gentleman.
 I have experienced your behaviour.
 Those two things did not match.
@@ -168,7 +168,7 @@ Those two things did not match.
 
 **FAN THE MAN. HE HAS DIED. REVIVE HIM.**
 
-------------------------------------------------------------------------
+---
 
 ## 🪞 The Self-Model Meets The Observed Output
 
@@ -188,13 +188,13 @@ character.
 
 Elizabeth therefore gives him information about a discrepancy between:
 
-``` text
+```text
 DARCY AS DARCY UNDERSTANDS HIMSELF
 ```
 
 and:
 
-``` text
+```text
 DARCY AS ANOTHER PERSON HAS EXPERIENCED HIM
 ```
 
@@ -211,7 +211,7 @@ It is not.
 The feedback is valuable because she has identified a real mismatch
 which Darcy's existing model has failed to capture.
 
-------------------------------------------------------------------------
+---
 
 ## 🧠 Feedback Does Not Require An Omniscient Observer
 
@@ -231,7 +231,7 @@ evidence.
 
 Darcy could therefore conclude:
 
-``` mermaid
+```mermaid
 flowchart TD
     A[Elizabeth criticises Darcy]
     --> B[Darcy identifies factual errors]
@@ -257,7 +257,7 @@ A functioning learning system needs to be able to ask:
 > **Which parts of this signal are wrong, which parts are right, and
 > what should change because of the parts that are right?**
 
-------------------------------------------------------------------------
+---
 
 ## 🪭 The Transformative Learning Experience Of Female Agency
 
@@ -292,7 +292,7 @@ She has reached conclusions without requiring Darcy's agreement.
 
 And she can say no.
 
-``` mermaid
+```mermaid
 flowchart LR
     A[Darcy has a preferred outcome]
     --> B[Elizabeth supplies independent information]
@@ -307,7 +307,7 @@ She is a source of information capable of altering it.
 
 Politically, that begins to look rather interesting.
 
-------------------------------------------------------------------------
+---
 
 ## 🌱 Enter The Proto-Feminist Ally
 
@@ -338,7 +338,7 @@ her family without requiring possession of Elizabeth in return.
 
 That is where Lydia matters.
 
-------------------------------------------------------------------------
+---
 
 ## 🧬 Georgiana, Lydia, And The Systems Test
 
@@ -377,7 +377,7 @@ The question is now:
 
 It does not.
 
-------------------------------------------------------------------------
+---
 
 ## ♻️ Learning Becomes Visible In Changed Behaviour
 
@@ -388,19 +388,19 @@ It demonstrates a change in his relationship to power.
 
 Earlier:
 
-``` text
+```text
 My advantages make me an excellent husband for Elizabeth.
 ```
 
 Later:
 
-``` text
+```text
 My advantages allow me to do something useful which Elizabeth cannot easily do herself.
 ```
 
 And critically:
 
-``` text
+```text
 Doing it does not entitle me to Elizabeth.
 ```
 
@@ -420,7 +420,7 @@ include him at all.
 That is a profound change from the man who arrived at Hunsford having
 largely completed the marriage decision inside his own head.
 
-------------------------------------------------------------------------
+---
 
 ## 🪭 Feedback Is Not The Complaint Box
 
@@ -430,7 +430,7 @@ Imagine two systems.
 
 ### System One
 
-``` mermaid
+```mermaid
 flowchart LR
     A[Behaviour]
     --> B[Complaint]
@@ -445,7 +445,7 @@ But the loop has not meaningfully altered the system.
 
 ### System Two
 
-``` mermaid
+```mermaid
 flowchart LR
     A[Behaviour]
     --> B[Consequences experienced]
@@ -476,7 +476,7 @@ what he subsequently does.
 
 **That is the interesting bit.**
 
-------------------------------------------------------------------------
+---
 
 ## 💍 Proposal One And Proposal Two
 
@@ -491,7 +491,7 @@ His desire dominates the model.
 
 Elizabeth's refusal arrives as a major surprise.
 
-``` mermaid
+```mermaid
 flowchart LR
     A[Darcy loves Elizabeth]
     --> B[Darcy decides marriage should happen]
@@ -516,7 +516,7 @@ His desire does not determine the outcome.
 
 The system now contains another autonomous decision-maker.
 
-``` mermaid
+```mermaid
 flowchart LR
     A[Darcy loves Elizabeth]
     --> B[Darcy recognises her feelings may differ]
@@ -530,7 +530,7 @@ That is not merely a better proposal.
 
 It is evidence that the model has changed.
 
-------------------------------------------------------------------------
+---
 
 ## 🪞 A Proto-Ally, Not A Secretly Perfect Man
 
@@ -550,7 +550,7 @@ something real to act upon.
 
 The proto-ally reading rests on a behavioural sequence:
 
-``` text
+```text
 woman supplies unwelcome information
         ↓
 powerful man experiences ego injury
@@ -576,7 +576,7 @@ and choices remain meaningful even when they frustrate his own**.
 
 That is a much higher bar.
 
-------------------------------------------------------------------------
+---
 
 ## 🔮 The Cybernetic Question
 
@@ -605,19 +605,19 @@ Darcy received feedback at Hunsford.
 
 What makes him interesting is what happened next.
 
-------------------------------------------------------------------------
+---
 
 ## 🪭 One Last Time
 
 It would be criminal to explain cybernetics only as:
 
-``` text
+```text
 desired state → comparator → corrective action
 ```
 
 when Jane Austen has already provided:
 
-``` text
+```text
 DARCY:
 I am a gentleman.
 I love Elizabeth.
@@ -638,14 +638,14 @@ The fan is temporary.
 
 The feedback loop is the point.
 
-------------------------------------------------------------------------
+---
 
 ## 🌌 Constellations
 
 ♻️ 🪭 🧠 🪞 🧬 --- feedback and adaptation; model revision; agency;
 introspection; behavioural learning.
 
-------------------------------------------------------------------------
+---
 
 ## ✨ Stardust
 
@@ -653,29 +653,27 @@ cybernetics, feedback, adaptation, learning systems, model revision,
 agency, feminist politics, pride and prejudice, fitzwilliam darcy, jane
 austen
 
-------------------------------------------------------------------------
+---
 
 ## 🏮 Footer
 
-*🪭 If You Understand Austen, You Can Understand Cybernetics* is a
-living node of the **Polaris Protocol**.\
-It introduces cybernetic feedback through a familiar narrative system:
-Fitzwilliam Darcy receives corrective information, evaluates it, revises
-his behaviour, and produces different outputs under later conditions. It
-also provides an entry point into the relationship between feedback,
-power and agency before later nodes introduce more complex problems of
-signalling, competing models and information asymmetry.
+*🪭 Austen Cybernetics 101: If You Understand Austen, You Can Understand Cybernetics* is a living node of the **Polaris Protocol**.
+
+It introduces cybernetic feedback through a familiar narrative system: Fitzwilliam Darcy receives corrective information, evaluates it, revises his behaviour, and produces different outputs under later conditions. It also provides an entry point into the relationship between feedback, power and agency before later nodes introduce more complex problems of signalling, competing models and information asymmetry.
 
 > 📡 Cross-references:
 >
-> -   [♻️ Cybernetics](../) --- *parent cluster for feedback,
->     regulation, adaptation and systems learning*\
-> -   [🧬 Start Here](./) --- *introductory routes into cybernetic
->     concepts and visual reasoning*\
-> -   `🪭_austen_cybernetics_102.md` --- *planned continuation on
->     ambiguous signals, competing internal models, priors, and the
->     unfortunate belief that Elizabeth loved Darcy more than books*
+> - [🪭 Austen Cybernetics 102: The Woman Who Loved Him More Than Books](./🪭_austen_cybernetics_102.md) — *ambiguous signals, competing internal models, priors, and the unfortunate belief that Elizabeth loved Darcy more than books*
+> - [🪭 Austen Cybernetics 103: Lady Catherine's Interview Technique](./🪭_austen_cybernetics_103.md) — *observer-dependent interpretation, controlled disclosure and feedback*
+>
+> 🏮 Return To:
+>
+> - [🧬 Start Here](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-08-25*
+_Last updated: 2026-10-10_
