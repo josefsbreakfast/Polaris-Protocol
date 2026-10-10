@@ -656,6 +656,10 @@ Those clocks may sometimes align. We have not demonstrated that they do so regul
 
 Related Polaris routes to cross-check before linking: the parent **🫀🕸️_Information_Is_Experienced** index; **♻️_Cybernetics**; relevant **📲_Press_Matters** reporting and far-right mobilisation nodes. Exact relative filenames should be verified rather than invented.
 
+*Further media:*  
+
+- [📺: The Jay Martin Show, via YouTube, “October 28th: The Day Iran Breaks the Bond Market”](https://youtu.be/Q1mdQBC4hCU?is=sF0lIII5sxW1OV_L)  
+
 ## ✨ Stardust
 
 last menstrual period, Netanyahu, month-end, sovereign settlement, Foreign Military Financing, AIPAC, FEC, Bank of Israel, oil, diesel, petrodollar, Strait of Hormuz, Bab el-Mandeb, Federal Reserve, Taylor rule, foreign-exchange reserves, liquidity, sovereign debt, war finance, antisemitism discourse, Jewish diaspora, far-right mobilisation, anti-migrant protests, media selection, publication chronology, news amplification, lead–lag, temporal clustering, strategic calendar targeting, economic attrition, AI valuations, credit spreads, DOJ disclosure, Epstein Files Transparency Act, cybersecurity, NATO, de-escalation, cybernetics, embodied information ecology, information is experienced
