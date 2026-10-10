@@ -1,5 +1,5 @@
 # ⚖️ Legal and Diplomatic Timeline
-**First created:** 2026-10-08 | **Last updated:** 2026-10-08  
+**First created:** 2026-10-08 | **Last updated:** 2026-10-10  
 *🍊☘️ Seas an Fód — Drumcree and Garvaghy Road: a dated record of law, policing, diplomacy, institutional handovers and the information moving between them.*
 
 ---
@@ -449,7 +449,19 @@ A regulator can make a lawful decision that police cannot safely implement by a 
 
 ---
 
-## 19. 🌌 Constellations
+## ✨ Update — 9 October 2026
+
+The Drumcree standoff has reached a significant statutory intervention. Following a formal request by PSNI Chief Constable Jon Boutcher under **section 9 of the Public Processions (Northern Ireland) Act 1998**, Northern Ireland Secretary Chris Bryant reviewed the Parades Commission's original section 8 determination and **made an order under section 11**. The procession cannot proceed under its original determination.
+
+Boutcher cited the unacceptable risks of further enforcement action, including potentially catastrophic consequences for public confidence in policing, the Northern Ireland Executive and the wider peace process.
+
+**⚖️ This does not conclude the wider dispute.** PSNI investigations into alleged offences connected with the protests remain ongoing, including correspondence inviting First Minister Michelle O'Neill for interview. Questions concerning the original determination, potential legal challenges, policing decisions and political accountability also remain unresolved.
+
+**The statutory intervention changes the immediate position of the procession; it does not close the associated investigations or wider legal and institutional questions.**
+
+---
+
+## 🌌 Constellations
 
 - 📜 [Parades Commission and the Law](./📜_parades_commission_and_the_law.md) — statutory tests, final-text approval, governance review.
 - 🏛️ [Courts and Policing Powers](./🏛️_courts_and_policing_powers.md) — litigation, operational discretion, force and oversight.
@@ -459,7 +471,7 @@ A regulator can make a lawful decision that police cannot safely implement by a 
 
 ---
 
-## 20. ✨ Stardust
+## ✨ Stardust
 
 Drumcree, Garvaghy Road, Portadown, Orange Order, Parades Commission, Public Processions (Northern Ireland) Act 1998, judicial review, interim relief, Court of Appeal, PSNI, operational independence, proportionality, police intelligence, institutional memory, commissioner resignation, term expiry, appointments, sign-off, handover, governance review, Sir John O'Hara KC, Chris Bryant, Baroness Anderson, Jon Boutcher, Ryan Henderson, Helen McEntee, British–Irish diplomacy, international mediation, public accountability, evidence provenance, information ecology.
 
@@ -520,4 +532,4 @@ Drumcree, Garvaghy Road, Portadown, Orange Order, Parades Commission, Public Pro
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-08_
+_Last updated: 2026-10-10_
