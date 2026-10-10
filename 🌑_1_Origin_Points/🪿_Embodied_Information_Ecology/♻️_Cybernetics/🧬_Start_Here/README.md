@@ -1,6 +1,6 @@
 # 🧬 Start Here
 
-**First created:** 2026-08-25 | **Last updated:** 2026-09-21  
+**First created:** 2026-08-25 | **Last updated:** 2026-10-10  
 *Friendly entry points into cybernetics, feedback, information, models, context and diagram literacy.*
 
 ---
@@ -160,6 +160,16 @@ Elizabeth is trying to determine whether he is an awful person.
 The core rule is:
 
 > **The data did not say that. You said that about the data.**
+
+---
+
+### 🪭 103 — Lady Catherine's Interview Technique
+
+[`🪭_austen_cybernetics_103.md`](./🪭_austen_cybernetics_103.md)
+
+Complete the 100 level with **observer-dependent information, social power, disclosure control and recursive interpretation**. Lady Catherine carries Elizabeth's refusal to Darcy, who has the contextual knowledge to interpret it differently.
+
+> **Lady Catherine has accidentally delivered the most encouraging intelligence report of her career.**
 
 ---
 
@@ -407,6 +417,7 @@ Where is his fucking ink.
 flowchart LR
     A[🪭 101<br/>Feedback]
     --> B[🪭 102<br/>Observation and inference]
+    --> X[🪭 103<br/>Observer-dependent information]
     --> C[🍓 201<br/>Historical state]
     --> D[🍓 202<br/>Latent state]
     --> E[🍓 203<br/>Models and proxies]
@@ -614,14 +625,14 @@ cybernetics, systems thinking, feedback, information, models, observability, con
 
 ## 🏮 Footer
 
-*🧬 Start Here* is a living gateway within the **Polaris Protocol**.  
-It provides accessible entry points into cybernetics while building interfaces between technical, literary, cultural and experiential ways of recognising information, models, feedback and system behaviour. The Austen Cybernetics sequence begins with simple feedback and inference problems before moving into historical state, observability, objective functions, embedded observers and contextual interpretation.
+*🧬 Start Here* is a living gateway within the **Polaris Protocol**. It provides accessible entry points into cybernetics while building interfaces between technical, literary, cultural and experiential ways of recognising information, models, feedback and system behaviour. The Austen Cybernetics sequence begins with simple feedback and inference problems before moving into historical state, observability, objective functions, embedded observers and contextual interpretation.
 
 > 📡 Cross-references:
 >
 > - [♻️ Cybernetics](../) — *parent cluster for wider work on feedback, regulation, modelling, information and adaptive systems*
 > - [🪭 Austen Cybernetics 101](./🪭_austen_cybernetics_101.md) — *first entry point: feedback, agency and behavioural change*
 > - [🪭 Austen Cybernetics 102](./🪭_austen_cybernetics_102.md) — *observation, inference, priors and model divergence*
+> - [🪭 Austen Cybernetics 103](./🪭_austen_cybernetics_103.md) — *observer-dependent information and disclosure control*
 > - [🍓 Austen Cybernetics 201](./🍓_austen_cybernetics_201.md) — *entry into the Persuasion sequence: historical state and the eight-year incident ticket*
 > - [🍓 Austen Cybernetics 208](./🍓_austen_cybernetics_208.md) — *capstone on context, embodied information, observer access and multidisciplinary interpretation*
 >
@@ -634,4 +645,4 @@ It provides accessible entry points into cybernetics while building interfaces b
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-21_
+_Last updated: 2026-10-10_

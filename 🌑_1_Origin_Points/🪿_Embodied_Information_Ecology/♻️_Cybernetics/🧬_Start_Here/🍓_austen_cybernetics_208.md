@@ -1,5 +1,5 @@
 # 🍓 Austen Cybernetics 208: I Have Been Performing Martyrdom Under False Premises
-**First created:** 2026-09-21 | **Last updated:** 2026-09-21  
+**First created:** 2026-09-21 | **Last updated:** 2026-10-10  
 *How one love letter becomes a lesson in context, observer-dependent information, model revision, consent, embodied transgression, private archives, and the limits of what any one observer can know.*
 
 ---
@@ -1812,6 +1812,7 @@ It uses one information-dense communication event in *Persuasion* to examine how
 
 > 📡 Cross-references:
 >
+>
 > - [🍓 Austen Cybernetics 201](./🍓_austen_cybernetics_201.md) — *historical state, path dependence, and the eight-year incident ticket*  
 > - [🍓 Austen Cybernetics 202](./🍓_austen_cybernetics_202.md) — *Wingman Anne and recursive feedback failure*  
 > - [🍓 Austen Cybernetics 203](./🍓_austen_cybernetics_203.md) — *proxy failure and low-dimensional models*  
@@ -1823,6 +1824,7 @@ It uses one information-dense communication event in *Persuasion* to examine how
 >
 > 🏮 Return To:
 >
+>
 > - [🧬 Start Here](./README.md) — *1up*  
 > - [♻️ Cybernetics](../README.md) — *2up*  
 > - [🪿 Embodied Information Ecology](../../README.md) — *3up*  
@@ -1831,6 +1833,6 @@ It uses one information-dense communication event in *Persuasion* to examine how
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-21_
+_Last updated: 2026-10-10_
 
 <!--Fucking robot.-—>

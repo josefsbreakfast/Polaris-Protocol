@@ -1,10 +1,9 @@
 # 🍓 Austen Cybernetics 204: When the Ship Is on the Line
 
-**First created:** 2026-09-21 \| **Last updated:** 2026-09-21\
-*Perturbation, latent capability, distributed response, and the
-unfortunate moment Captain Wentworth beholds Trauma Nurse Anne.*
+**First created:** 2026-09-21 | **Last updated:** 2026-10-10  
+*Perturbation, latent capability, distributed response, and the unfortunate moment Captain Wentworth beholds Trauma Nurse Anne.*
 
-------------------------------------------------------------------------
+---
 
 ## 🛰️ Orientation
 
@@ -12,10 +11,7 @@ unfortunate moment Captain Wentworth beholds Trauma Nurse Anne.*
 
 204 changes the measurement environment.
 
-Normal conditions tell you how a system behaves when normal conditions
-hold. A perturbation changes the conditions enough that previously
-latent capabilities, dependencies and failure modes may become
-observable.
+Normal conditions tell you how a system behaves when normal conditions hold. A perturbation changes the conditions enough that previously latent capabilities, dependencies and failure modes may become observable.
 
 In *Persuasion*, somebody falls off the fucking Cobb.
 
@@ -23,7 +19,7 @@ In *Persuasion*, somebody falls off the fucking Cobb.
 
 One moment:
 
-``` text
+```text
 SOCIAL ENVIRONMENT
 courtship
 walking
@@ -34,7 +30,7 @@ decorum
 
 Next moment:
 
-``` text
+```text
 MEDICAL EMERGENCY
 ```
 
@@ -44,8 +40,7 @@ The environment stops asking:
 
 It starts asking:
 
-> **There is a badly injured human being on the ground. Who can actually
-> fucking function?**
+> **There is a badly injured human being on the ground. Who can actually fucking function?**
 
 That transition produces information.
 
@@ -55,28 +50,27 @@ Under ordinary social conditions Anne's strengths can look quiet.
 
 She:
 
--   notices;
--   listens;
--   remembers;
--   judges;
--   accommodates;
--   regulates herself;
--   avoids making herself the centre of everything.
+- notices;
+- listens;
+- remembers;
+- judges;
+- accommodates;
+- regulates herself;
+- avoids making herself the centre of everything.
 
-In an environment rewarding visible enthusiasm, confidence and
-flirtation, those capacities are not always spectacular.
+In an environment rewarding visible enthusiasm, confidence and flirtation, those capacities are not always spectacular.
 
 Then the demand profile changes.
 
 Suddenly:
 
-``` text
+```text
 visible enthusiasm
 ```
 
 is considerably less useful than:
 
-``` text
+```text
 can somebody please think
 ```
 
@@ -88,7 +82,7 @@ The emergency makes existing capability visible.
 
 She becomes operational in a way Wentworth can immediately understand:
 
-``` text
+```text
 SYSTEM FAILURE
 PEOPLE PANICKING
 ANNE HAS SITUATIONAL AWARENESS
@@ -98,7 +92,7 @@ ANNE REMAINS FUNCTIONAL
 
 Wentworth:
 
-# I BEHELD THAT.
+### I BEHELD THAT.
 
 Anne:
 
@@ -106,7 +100,7 @@ What?
 
 Wentworth's internal incident log:
 
-``` text
+```text
 OBSERVED: Anne Elliot under acute perturbation
 RESULT: extraordinary
 RETENTION POLICY: permanent
@@ -116,13 +110,13 @@ RETENTION POLICY: permanent
 
 Wentworth's adult world is unusually concerned with:
 
--   navigation;
--   command;
--   changing conditions;
--   coordination;
--   practical competence;
--   material consequences;
--   information that has to reach the right person in time.
+- navigation;
+- command;
+- changing conditions;
+- coordination;
+- practical competence;
+- material consequences;
+- information that has to reach the right person in time.
 
 He is extremely:
 
@@ -130,10 +124,7 @@ He is extremely:
 
 Anne's information-processing style is different.
 
-She holds large amounts of contextual, relational and longitudinal
-information quietly. She notices weak signals. She knows people. She
-remembers state over time. She does not necessarily externalise the
-entire model.
+She holds large amounts of contextual, relational and longitudinal information quietly. She notices weak signals. She knows people. She remembers state over time. She does not necessarily externalise the entire model.
 
 High Priestess Anne:
 
@@ -143,8 +134,7 @@ Wentworth:
 
 > ⚓📊 **Can this please be a mermaid diagram.**
 
-At Lyme, Anne's quieter information architecture suddenly produces
-outputs in a grammar Wentworth understands instantly.
+At Lyme, Anne's quieter information architecture suddenly produces outputs in a grammar Wentworth understands instantly.
 
 The High Priestess has accidentally output to the dashboard.
 
@@ -152,7 +142,7 @@ The High Priestess has accidentally output to the dashboard.
 
 Wentworth's approximate processing queue now contains:
 
-``` text
+```text
 OH FUCK LOUISA IS BADLY HURT
 OH FUCK I ENCOURAGED THIS
 OH FUCK EVERYONE MAY THINK I INTENDED TO MARRY HER
@@ -169,15 +159,13 @@ Wentworth:
 
 🥵
 
-The joke carries the technical point: attraction can update when new
-information reveals a capability the observer strongly values.
+The joke carries the technical point: attraction can update when new information reveals a capability the observer strongly values.
 
 ## 🧬 Latent capability
 
-A capability can exist before the environment gives it an opportunity to
-become observable.
+A capability can exist before the environment gives it an opportunity to become observable.
 
-``` text
+```text
 capability
 ≠
 current performance demand
@@ -185,8 +173,7 @@ current performance demand
 observable evidence of capability
 ```
 
-Absence of demonstrated capability is not always evidence of absent
-capability.
+Absence of demonstrated capability is not always evidence of absent capability.
 
 Sometimes nobody has asked the system to do the thing yet.
 
@@ -198,18 +185,18 @@ Crisis does not create Anne's competence.
 
 Anne does not become valuable because she transforms into:
 
-# WOMAN WHO SOLVES EVERYTHING.
+### WOMAN WHO SOLVES EVERYTHING.
 
 Emergency response is networked.
 
 Effective response depends on:
 
--   noticing;
--   prioritising;
--   communicating;
--   routing tasks;
--   obtaining expertise;
--   regulating collective panic.
+- noticing;
+- prioritising;
+- communicating;
+- routing tasks;
+- obtaining expertise;
+- regulating collective panic.
 
 A good coordinator does not personally perform every function.
 
@@ -225,15 +212,14 @@ The lesson is not:
 
 Everybody has feelings.
 
-The relevant question is whether emotional overload consumes all
-available control capacity.
+The relevant question is whether emotional overload consumes all available control capacity.
 
 A person can be frightened and still retain enough capacity to:
 
--   notice;
--   decide;
--   communicate;
--   act.
+- notice;
+- decide;
+- communicate;
+- act.
 
 Anne's regulation preserves usable capacity.
 
@@ -243,13 +229,12 @@ That is operationally important.
 
 A robust system can preserve important functions despite disturbance.
 
-A brittle system performs adequately inside a narrow expected range and
-degrades sharply outside it.
+A brittle system performs adequately inside a narrow expected range and degrades sharply outside it.
 
 Robustness often requires both:
 
--   persistence;
--   adaptation.
+- persistence;
+- adaptation.
 
 This is why 203 and 204 belong together.
 
@@ -265,15 +250,13 @@ Crisis performance is **additional information**, not total information.
 
 Someone excellent in an emergency may be terrible at maintenance.
 
-Someone poor in one acute crisis may be excellent at long-term care,
-deep expertise or careful deliberation.
+Someone poor in one acute crisis may be excellent at long-term care, deep expertise or careful deliberation.
 
 Please do not throw everyone off the Cobb as an assessment methodology.
 
 ## 👂 The reciprocal interface
 
-Lyme matters because Anne becomes legible in Wentworth's language
-**without ceasing to be Anne**.
+Lyme matters because Anne becomes legible in Wentworth's language **without ceasing to be Anne**.
 
 Later, during the conversation with Harville, the direction reverses.
 
@@ -281,15 +264,14 @@ Wentworth listens.
 
 He receives information expressed in Anne's language:
 
--   memory;
--   emotional duration;
--   constancy;
--   what remains true despite not being loudly displayed.
+- memory;
+- emotional duration;
+- constancy;
+- what remains true despite not being loudly displayed.
 
 Anne becomes legible to Wentworth.
 
-Then Wentworth learns to receive Anne's information without requiring
-her to become Wentworth.
+Then Wentworth learns to receive Anne's information without requiring her to become Wentworth.
 
 That is interoperability.
 
@@ -301,68 +283,55 @@ Not:
 
 > THROW SPREADSHEET INTO SEA; VIBES SHALL GOVERN.
 
-# BUILD THE FUCKING INTERFACE.
+### BUILD THE FUCKING INTERFACE.
 
 ## 🧪 The 204 problem set
 
--   What does normal operation actually test?
--   Which capabilities remain latent?
--   What changes under perturbation?
--   Which dependencies become visible?
--   Who improves collective function?
--   Does the system adapt or merely persist?
--   What does stress reveal?
--   What does stress distort?
--   Are you mistaking crisis performance for total competence?
--   Could the same information have been obtained without waiting for
-    crisis?
+- What does normal operation actually test?
+- Which capabilities remain latent?
+- What changes under perturbation?
+- Which dependencies become visible?
+- Who improves collective function?
+- Does the system adapt or merely persist?
+- What does stress reveal?
+- What does stress distort?
+- Are you mistaking crisis performance for total competence?
+- Could the same information have been obtained without waiting for crisis?
 
 And:
 
-> **When the ship is on the line, who actually knows what the fuck to
-> do?**
+> **When the ship is on the line, who actually knows what the fuck to do?**
 
 ## 🌌 Constellations
 
-💥 🧬 🕸️ ⚓ 📊 --- perturbation, latent capability, distributed
-response, robustness and cross-format legibility.
+💥 🧬 🕸️ ⚓ 📊 --- perturbation, latent capability, distributed response, robustness and cross-format legibility.
 
-------------------------------------------------------------------------
+---
 
 ## ✨ Stardust
 
-cybernetics, persuasion, perturbation, stress testing, latent
-capability, robustness, distributed competence, interoperability
+cybernetics, persuasion, perturbation, stress testing, latent capability, robustness, distributed competence, interoperability
 
-------------------------------------------------------------------------
+---
 
 ## 🏮 Footer
 
-*🍓 Austen Cybernetics 204: When the Ship Is on the Line* is a living
-node of the **Polaris Protocol**.\
-It uses *Persuasion* as a shared cultural interface for cybernetic
-concepts, allowing literary and systems vocabularies to explain one
-another without treating either as the more serious form of knowledge.
+*🍓 Austen Cybernetics 204: When the Ship Is on the Line* is a living node of the **Polaris Protocol**. It uses *Persuasion* as a shared cultural interface for cybernetic concepts, allowing literary and systems vocabularies to explain one another without treating either as the more serious form of knowledge.
 
 > 📡 Cross-references:
 >
-> > -   [🍓 Austen Cybernetics 203: Bro, Your Model Has One Fucking
-> >     Feature](./🍓_austen_cybernetics_203.md) --- *previous concept
-> >     in the Persuasion sequence*
-> > -   [🍓 Austen Cybernetics 205: Respectability Is
-> >     Metadata](./🍓_austen_cybernetics_205.md) --- *next concept in
-> >     the Persuasion sequence*
-> > -   [🧬 Start Here](./README.md) --- *parent route into introductory
-> >     cybernetics*
+> - [🍓 Austen Cybernetics 203: Bro, Your Model Has One Fucking Feature](./🍓_austen_cybernetics_203.md) — *previous concept in the Persuasion sequence*
+> - [🍓 Austen Cybernetics 205: Respectability Is Metadata](./🍓_austen_cybernetics_205.md) — *next concept in the Persuasion sequence*
+> - [🧬 Start Here](./README.md) — *parent route into introductory cybernetics*
 >
 > 🏮 Return To:
 >
-> -   [🧬 Start Here](./README.md) --- *1up*
-> -   [♻️ Cybernetics](../README.md) --- *2up*
-> -   [🪿 Embodied Information Ecology](../../README.md) --- *3up*
-> -   [🌑 Origin Points](../../../README.md) --- *4up*
-> -   [🌌 Polaris Protocol --- Root](../../../../README.md) --- *root*
+> - [🧬 Start Here](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-21*
+_Last updated: 2026-10-10_

@@ -1,6 +1,7 @@
 # 🍓 Austen Cybernetics 202: Wingman Anne
 
-**First created:** 2026-09-21 | **Last updated:** 2026-09-21 *Latent state, observable signal, observer effects, and the catastrophic consequences of becoming an extremely effective wingman for the man you love.*
+**First created:** 2026-09-21 | **Last updated:** 2026-10-10  
+*Latent state, observable signal, observer effects, and the catastrophic consequences of becoming an extremely effective wingman for the man you love.*
 
 ---
 
@@ -10,8 +11,7 @@ Sometimes the thing you are trying to detect changes the behaviour of the system
 
 This is the **Wingman Anne Problem**:
 
-> **A system can respond perfectly to the state it has inferred while
-> being completely wrong about the state that actually exists.**
+> **A system can respond perfectly to the state it has inferred while being completely wrong about the state that actually exists.**
 
 Anne still loves Wentworth.
 
@@ -93,13 +93,11 @@ Her love helps cause the behaviour that suppresses the signal.
 
 Formally:
 
-> The variable under observation contributes causally to a control
-> strategy which suppresses the output being used as its proxy.
+> The variable under observation contributes causally to a control strategy which suppresses the output being used as its proxy.
 
 Polaris:
 
-> **Anne has basically been the most legendary fucking wingman for you,
-> bruv.**
+> **Anne has basically been the most legendary fucking wingman for you, bruv.**
 
 ## 🪞 Meanwhile, Wentworth is also affecting the sensor
 
@@ -169,13 +167,11 @@ Wentworth updates:
 WRONG, CAPTAIN
 ```
 
-> **Captain Spreadsheet has accidentally A/B tested Anne's generosity
-> and interpreted the successful result as rejection.**
+> **Captain Spreadsheet has accidentally A/B tested Anne's generosity and interpreted the successful result as rejection.**
 
 The technical payload underneath the joke matters:
 
-> **The observer has interacted with the sensor. The resulting behaviour
-> is not independent evidence of the system's prior state.**
+> **The observer has interacted with the sensor. The resulting behaviour is not independent evidence of the system's prior state.**
 
 Wentworth has put his thumb on the scale and then treated the reading as though the scale had been untouched.
 
@@ -224,8 +220,7 @@ The interpretation of what it tested has not.
 
 That distinction will matter repeatedly across the wider cybernetics cluster:
 
-> **A successful measurement procedure can still answer the wrong
-> question.**
+> **A successful measurement procedure can still answer the wrong question.**
 
 Wentworth has obtained evidence about Anne's response to what she believes he wants.
 
@@ -233,8 +228,7 @@ He has mistaken it for direct evidence about whether she wants him.
 
 Wingman Anne, meanwhile, is #helping.
 
-> **Pretty young woman identified. Social obstacles being cleared.
-> Captain. 🫡**
+> **Pretty young woman identified. Social obstacles being cleared. Captain. 🫡**
 
 ## ♻️ Congratulations, you have created feedback
 
@@ -259,8 +253,7 @@ Both agents are responding to locally available information.
 
 The system-level result is terrible.
 
-> **Both controllers are functioning. The shared situational picture is
-> fucked.**
+> **Both controllers are functioning. The shared situational picture is fucked.**
 
 ## 👁️ Second-order observation
 
@@ -400,8 +393,7 @@ The lesson is not:
 
 It is:
 
-> **systems relying heavily on indirect inference need some route by
-> which models can be corrected.**
+> **systems relying heavily on indirect inference need some route by which models can be corrected.**
 
 Otherwise Wingman Anne can run indefinitely.
 
@@ -414,8 +406,7 @@ A useful checklist:
 - the variable being measured may alter the signal;
 - observers affect what they observe;
 - an observer's performed state can change another observer's model;
-- the resulting behaviour may therefore be contaminated as evidence
-    of the prior state;
+- the resulting behaviour may therefore be contaminated as evidence of the prior state;
 - a successful measurement procedure can answer the wrong question;
 - agents model one another recursively;
 - correct observations can support incorrect conclusions;
@@ -424,9 +415,7 @@ A useful checklist:
 
 Or:
 
-> **If the woman you love is helping you court somebody else, first
-> establish whether she is indifferent or simply catastrophically
-> considerate.**
+> **If the woman you love is helping you court somebody else, first establish whether she is indifferent or simply catastrophically considerate.**
 
 ## 🌌 Constellations
 
@@ -446,23 +435,18 @@ cybernetics, persuasion, feedback, latent state, observable signal, observer eff
 
 > 📡 Cross-references:
 >
-> > -   [🍓 Austen Cybernetics 201: The Eight-Year Incident
-> >     Ticket](./🍓_austen_cybernetics_201.md) --- *previous concept in
-> >     the Persuasion sequence*
-> > -   [🍓 Austen Cybernetics 203: Bro, Your Model Has One Fucking
-> >     Feature](./🍓_austen_cybernetics_203.md) --- *next concept in
-> >     the Persuasion sequence*
-> > -   [🧬 Start Here](./README.md) --- *parent route into introductory
-> >     cybernetics*
+> - [🍓 Austen Cybernetics 201: The Eight-Year Incident Ticket](./🍓_austen_cybernetics_201.md) — *previous concept in the Persuasion sequence*
+> - [🍓 Austen Cybernetics 203: Bro, Your Model Has One Fucking Feature](./🍓_austen_cybernetics_203.md) — *next concept in the Persuasion sequence*
+> - [🧬 Start Here](./README.md) — *parent route into introductory cybernetics*
 >
 > 🏮 Return To:
 >
-> - [🧬 Start Here](./README.md) --- *1up*
-> - [♻️ Cybernetics](../README.md) --- *2up*
-> - [🪿 Embodied Information Ecology](../../README.md) --- *3up*
-> - [🌑 Origin Points](../../../README.md) --- *4up*
-> - [🌌 Polaris Protocol --- Root](../../../../README.md) --- *root*
+> - [🧬 Start Here](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-21*
+_Last updated: 2026-10-10_

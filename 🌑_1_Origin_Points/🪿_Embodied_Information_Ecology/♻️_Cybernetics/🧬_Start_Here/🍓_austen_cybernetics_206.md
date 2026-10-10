@@ -1,11 +1,9 @@
 # 🍓 Austen Cybernetics 206: The User Has a Good Model of You
 
-**First created:** 2026-09-21 \| **Last updated:** 2026-09-21\
-*Accurate models, objective functions, prosocial traits as control
-surfaces, and why understanding somebody is not the same thing as caring
-for them.*
+**First created:** 2026-09-21 | **Last updated:** 2026-10-10  
+*Accurate models, objective functions, prosocial traits as control surfaces, and why understanding somebody is not the same thing as caring for them.*
 
-------------------------------------------------------------------------
+---
 
 ## 🛰️ Orientation
 
@@ -17,16 +15,15 @@ What if Mr Elliot's model of Anne is actually quite good?
 
 He can recognise that she is:
 
--   intelligent;
--   discreet;
--   reliable;
--   socially competent;
--   attentive;
--   knowledgeable about her family;
--   deeply familiar with Kellynch;
--   capable of navigating difficult people;
--   possessed of considerably better judgement than several other
-    members of the Elliot household.
+- intelligent;
+- discreet;
+- reliable;
+- socially competent;
+- attentive;
+- knowledgeable about her family;
+- deeply familiar with Kellynch;
+- capable of navigating difficult people;
+- possessed of considerably better judgement than several other members of the Elliot household.
 
 These are real qualities.
 
@@ -58,7 +55,7 @@ A model tells an actor something about the environment.
 
 It does not tell us what the actor wants.
 
-``` text
+```text
 MODEL A: accurate + benevolent use
 MODEL B: inaccurate + benevolent use
 MODEL C: accurate + exploitative use
@@ -67,26 +64,25 @@ MODEL D: inaccurate + exploitative use
 
 We often collapse:
 
-``` text
+```text
 understands me
 ```
 
 into:
 
-``` text
+```text
 cares about me
 ```
 
 Those are different properties.
 
-Someone can accurately understand what you value, fear, tolerate and
-reliably do without treating your welfare as an objective.
+Someone can accurately understand what you value, fear, tolerate and reliably do without treating your welfare as an objective.
 
 ## 🎯 Optimising for what?
 
 Two observers can accurately notice:
 
-``` text
+```text
 Anne is loyal
 Anne is competent
 Anne is discreet
@@ -96,8 +92,7 @@ Anne takes relationships seriously
 
 One thinks:
 
-> These are qualities I admire in a person whose flourishing matters to
-> me.
+> These are qualities I admire in a person whose flourishing matters to me.
 
 Another thinks:
 
@@ -113,23 +108,23 @@ Different objective function.
 
 Wentworth notices Anne's:
 
--   constancy;
--   judgement;
--   competence;
--   loyalty;
--   emotional depth.
+- constancy;
+- judgement;
+- competence;
+- loyalty;
+- emotional depth.
 
 Mr Elliot can also notice:
 
--   judgement;
--   competence;
--   loyalty;
--   discretion;
--   social usefulness.
+- judgement;
+- competence;
+- loyalty;
+- discretion;
+- social usefulness.
 
 The distinction cannot simply be:
 
-``` text
+```text
 Wentworth understands Anne
 Mr Elliot does not
 ```
@@ -142,18 +137,16 @@ The more interesting question is relational:
 
 Anne experiences Kellynch as:
 
--   home;
--   memory;
--   landscape;
--   continuity;
--   relationship;
--   responsibility.
+- home;
+- memory;
+- landscape;
+- continuity;
+- relationship;
+- responsibility.
 
-Mr Elliot's relationship to Kellynch is bound up with inheritance,
-position and future status.
+Mr Elliot's relationship to Kellynch is bound up with inheritance, position and future status.
 
-Anne's intimate knowledge of the place can therefore be read in two
-radically different ways.
+Anne's intimate knowledge of the place can therefore be read in two radically different ways.
 
 Anne:
 
@@ -179,26 +172,23 @@ Anne's competence does not float abstractly.
 
 A capable woman who understands:
 
--   the household;
--   the kin network;
--   social obligations;
--   maintenance;
--   relationships;
--   what needs doing;
--   who needs to know;
+- the household;
+- the kin network;
+- social obligations;
+- maintenance;
+- relationships;
+- what needs doing;
+- who needs to know;
 
-can become the person who quietly absorbs the labour required to make
-everybody else's desired life function.
+can become the person who quietly absorbs the labour required to make everybody else's desired life function.
 
 Mr Elliot:
 
-> She understands Kellynch. She knows the family. She is discreet,
-> capable, responsible---
+> She understands Kellynch. She knows the family. She is discreet, capable, responsible---
 
 Anne:
 
-> **Are you trying to marry me or assign me the fucking dusting
-> duties?**
+> **Are you trying to marry me or assign me the fucking dusting duties?**
 
 Cybernetics:
 
@@ -206,8 +196,7 @@ Cybernetics:
 
 The joke identifies the mechanism.
 
-A person can value your characteristics because those characteristics
-make **their system work better**.
+A person can value your characteristics because those characteristics make **their system work better**.
 
 That is not necessarily the same thing as valuing your flourishing.
 
@@ -215,7 +204,7 @@ That is not necessarily the same thing as valuing your flourishing.
 
 A crude instrumental model can look like:
 
-``` text
+```text
 reliable
 +
 discreet
@@ -241,7 +230,7 @@ Or excellent component in somebody else's desired configuration?
 
 Hence:
 
-# WIFE-SHAPED GOVERNANCE APPLIANCE.
+### WIFE-SHAPED GOVERNANCE APPLIANCE.
 
 Ridiculous phrase.
 
@@ -251,18 +240,18 @@ Serious distinction.
 
 Suppose somebody knows:
 
--   you are conscientious;
--   you dislike letting people down;
--   you respond to reason;
--   you honour commitments;
--   you avoid unnecessary conflict;
--   you care about other people's welfare.
+- you are conscientious;
+- you dislike letting people down;
+- you respond to reason;
+- you honour commitments;
+- you avoid unnecessary conflict;
+- you care about other people's welfare.
 
 Those are good characteristics.
 
 They are also predictable.
 
-``` text
+```text
 conscientiousness → "I am relying on you."
 empathy → "You wouldn't want to hurt me."
 loyalty → "After everything we've been through..."
@@ -273,21 +262,18 @@ The vulnerability does not arise because the characteristic is bad.
 
 It arises because:
 
-> **a predictable prosocial response can be incorporated into somebody
-> else's control strategy.**
+> **a predictable prosocial response can be incorporated into somebody else's control strategy.**
 
 ## 🪝 Your strength can be an attack surface
 
 Strengths can generate exploitable regularities.
 
--   reliable people can be overloaded;
--   compassionate people can be guilted;
--   conscientious people can inherit responsibility for failures they
-    did not create;
--   loyal people can remain too long;
--   discreet people can be relied upon not to expose mistreatment;
--   competent people can be given endless unrecognised labour because
-    everybody knows they will cope.
+- reliable people can be overloaded;
+- compassionate people can be guilted;
+- conscientious people can inherit responsibility for failures they did not create;
+- loyal people can remain too long;
+- discreet people can be relied upon not to expose mistreatment;
+- competent people can be given endless unrecognised labour because everybody knows they will cope.
 
 The lesson is not:
 
@@ -305,7 +291,7 @@ Prediction can improve coordination.
 
 It can also improve control.
 
-``` text
+```text
 better model
         ↓
 better prediction
@@ -329,11 +315,9 @@ Important.
 
 206 adds:
 
-> **What can somebody do with information they are perfectly capable of
-> observing?**
+> **What can somebody do with information they are perfectly capable of observing?**
 
-Human beings reveal information through behaviour, habits,
-responsibilities, choices and relationships.
+Human beings reveal information through behaviour, habits, responsibilities, choices and relationships.
 
 Information safety therefore cannot consist solely of secrecy.
 
@@ -349,22 +333,20 @@ The more revealing question is:
 
 Or:
 
-> What happens when your autonomy prevents me obtaining something I
-> want?
+> What happens when your autonomy prevents me obtaining something I want?
 
 A safe relationship needs some mechanism by which:
 
-> **your interests continue to matter even when they are inconvenient to
-> mine.**
+> **your interests continue to matter even when they are inconvenient to mine.**
 
 That may come from:
 
--   affection;
--   ethics;
--   duty;
--   law;
--   norms;
--   accountability.
+- affection;
+- ethics;
+- duty;
+- law;
+- norms;
+- accountability.
 
 Accurate modelling without constraint can become dangerous.
 
@@ -376,8 +358,7 @@ He has spent several nodes being an absolute bellend.
 
 Good.
 
-He misreads Anne, acts from wounded pride, behaves ambiguously around
-Louisa and becomes jealous.
+He misreads Anne, acts from wounded pride, behaves ambiguously around Louisa and becomes jealous.
 
 But he eventually has to risk receiving an answer he may not like.
 
@@ -387,8 +368,7 @@ It does not legitimately compel Anne's response.
 
 Healthy communication increases another person's ability to choose.
 
-Manipulation attempts to constrain the choice while preserving the
-appearance of autonomy.
+Manipulation attempts to constrain the choice while preserving the appearance of autonomy.
 
 ## 🧬 Prosocial modelling
 
@@ -396,15 +376,15 @@ Modelling other people is not inherently creepy.
 
 Humans learn:
 
--   what people like;
--   what hurts them;
--   what they need;
--   how they communicate;
--   what boundaries they express.
+- what people like;
+- what hurts them;
+- what they need;
+- how they communicate;
+- what boundaries they express.
 
 A prosocial model asks:
 
-``` text
+```text
 What does this person want?
 How can I coordinate with them?
 What boundaries have they expressed?
@@ -415,7 +395,7 @@ How can they correct my model?
 
 An instrumental model tends toward:
 
-``` text
+```text
 What does this person predictably do?
 What output do I want?
 Which input will produce it?
@@ -441,11 +421,11 @@ Or does the modeller insist:
 
 Healthy relational information systems require channels for:
 
--   correction;
--   disagreement;
--   consent;
--   revision;
--   refusal.
+- correction;
+- disagreement;
+- consent;
+- revision;
+- refusal.
 
 Otherwise the person disappears behind the representation.
 
@@ -457,11 +437,11 @@ Information about people is consequential.
 
 A model of Anne changes:
 
--   how people approach her;
--   what they expect;
--   what roles they assign;
--   what labour they demand;
--   what possibilities they imagine for her.
+- how people approach her;
+- what they expect;
+- what roles they assign;
+- what labour they demand;
+- what possibilities they imagine for her.
 
 Information ethics therefore cannot stop at:
 
@@ -473,59 +453,48 @@ We also need:
 
 ## 🧪 The 206 problem set
 
--   How accurate is the model?
--   What does the modeller want?
--   Does the modelled person's welfare appear in that objective?
--   Does autonomy constrain optimisation?
--   What happens when interests diverge?
--   Can the modelled person correct the model?
--   Can they refuse the outcome?
--   Are prosocial characteristics becoming control surfaces?
--   Does prediction increase coordination or extraction?
--   Is information being used **with** somebody or **on** somebody?
--   Who is doing the fucking dusting?
+- How accurate is the model?
+- What does the modeller want?
+- Does the modelled person's welfare appear in that objective?
+- Does autonomy constrain optimisation?
+- What happens when interests diverge?
+- Can the modelled person correct the model?
+- Can they refuse the outcome?
+- Are prosocial characteristics becoming control surfaces?
+- Does prediction increase coordination or extraction?
+- Is information being used **with** somebody or **on** somebody?
+- Who is doing the fucking dusting?
 
 ## 🌌 Constellations
 
-🧮 🎯 🔐 🧹 🕸️ --- accurate modelling, objective functions, power,
-maintenance labour and corrigible relationships.
+🧮 🎯 🔐 🧹 🕸️ --- accurate modelling, objective functions, power, maintenance labour and corrigible relationships.
 
-------------------------------------------------------------------------
+---
 
 ## ✨ Stardust
 
-cybernetics, persuasion, modelling, objective functions, alignment,
-information ethics, invisible labour, prosocial modelling
+cybernetics, persuasion, modelling, objective functions, alignment, information ethics, invisible labour, prosocial modelling
 
-------------------------------------------------------------------------
+---
 
 ## 🏮 Footer
 
-*🍓 Austen Cybernetics 206: The User Has a Good Model of You* is a
-living node of the **Polaris Protocol**.\
-It uses *Persuasion* as a shared cultural interface for cybernetic
-concepts, allowing literary and systems vocabularies to explain one
-another without treating either as the more serious form of knowledge.
+*🍓 Austen Cybernetics 206: The User Has a Good Model of You* is a living node of the **Polaris Protocol**. It uses *Persuasion* as a shared cultural interface for cybernetic concepts, allowing literary and systems vocabularies to explain one another without treating either as the more serious form of knowledge.
 
 > 📡 Cross-references:
 >
-> > -   [🍓 Austen Cybernetics 205: Respectability Is
-> >     Metadata](./🍓_austen_cybernetics_205.md) --- *previous concept
-> >     in the Persuasion sequence*
-> > -   [🍓 Austen Cybernetics 207: The Apparatus Observing
-> >     Itself](./🍓_austen_cybernetics_207.md) --- *next concept in the
-> >     Persuasion sequence*
-> > -   [🧬 Start Here](./README.md) --- *parent route into introductory
-> >     cybernetics*
+> - [🍓 Austen Cybernetics 205: Respectability Is Metadata](./🍓_austen_cybernetics_205.md) — *previous concept in the Persuasion sequence*
+> - [🍓 Austen Cybernetics 207: The Apparatus Observing Itself](./🍓_austen_cybernetics_207.md) — *next concept in the Persuasion sequence*
+> - [🧬 Start Here](./README.md) — *parent route into introductory cybernetics*
 >
 > 🏮 Return To:
 >
-> -   [🧬 Start Here](./README.md) --- *1up*
-> -   [♻️ Cybernetics](../README.md) --- *2up*
-> -   [🪿 Embodied Information Ecology](../../README.md) --- *3up*
-> -   [🌑 Origin Points](../../../README.md) --- *4up*
-> -   [🌌 Polaris Protocol --- Root](../../../../README.md) --- *root*
+> - [🧬 Start Here](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-09-21*
+_Last updated: 2026-10-10_
