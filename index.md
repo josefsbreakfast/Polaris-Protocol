@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-10 02:25:44 UTC_
+_Generated on 2026-10-10 02:36:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -100,6 +100,9 @@ _Generated on 2026-10-10 02:25:44 UTC_
       - [`🪞_why_jews_can_read_the_same_sentence_differently.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🪞_why_jews_can_read_the_same_sentence_differently.md)
       - [`🪬_one_can_never_speak_for_all.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🪬_one_can_never_speak_for_all.md)
       - [`🫱_how_not_to_flatten_jewish_plurality.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🫱_how_not_to_flatten_jewish_plurality.md)
+    - [**🦁_Antifascist_Amidah/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🦁_Antifascist_Amidah/)
+      - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🦁_Antifascist_Amidah/README.md)
+      - [`notes.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🦁_Antifascist_Amidah/notes.md)
     - [**🪬_Beyond_Zionism/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/README.md)
       - [`🍉_as_a_jew_globalise_the_intifada.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/🍉_as_a_jew_globalise_the_intifada.md)
