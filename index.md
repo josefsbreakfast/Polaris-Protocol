@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-10 10:30:11 UTC_
+_Generated on 2026-10-10 11:32:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2549,6 +2549,7 @@ _Generated on 2026-10-10 10:30:11 UTC_
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/notes.txt)
       - [`🌺_the_opium_empire_has_telemetry.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🌺_the_opium_empire_has_telemetry.md)
+      - [`🎼_musical_hierarchies.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🎼_musical_hierarchies.md)
     - [**🫀🕸️_Information_Is_Experienced/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/.🌱_Still_Growing/)
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/.🌱_Still_Growing/notes.txt)
