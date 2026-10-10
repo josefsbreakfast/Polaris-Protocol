@@ -320,7 +320,11 @@ And there is something worth learning from the simplicity of that.
 
 ## 🌌 Constellations
 
-🦁 Antifascist Amidah · ✡️ Jewish political agency · 🕯️ Halle 2019/2026 · 🪨 Stolpersteine · 🤝 solidarity across communities · 🧿 racialised belonging · ☁️ Kabbalist Futurism
+🦁 Antifascist Amidah · ✡️ Jewish political agency · 🕯️ Halle 2019/2026 · 🪨 Stolpersteine · 🤝 solidarity across communities · 🧿 racialised belonging · ☁️ Kabbalist Futurism  
+
+*Follow the evidence:*  
+
+- [📹: Ario Mirzaie, via TikTok: “Jüdische Studierende schützen die Synagoge in Halle vor Hans-Thomas Tillschneider (AfD)”](https://vm.tiktok.com/ZN8BFgk7w/)  
 
 ---
 
