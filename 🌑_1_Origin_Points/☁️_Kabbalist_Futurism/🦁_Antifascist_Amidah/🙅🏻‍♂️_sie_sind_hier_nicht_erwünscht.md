@@ -325,7 +325,8 @@ And there is something worth learning from the simplicity of that.
 *Follow the evidence:*  
 
 - [📹: Ario Mirzaie, via TikTok: “Jüdische Studierende schützen die Synagoge in Halle vor Hans-Thomas Tillschneider (AfD)”](https://vm.tiktok.com/ZN8BFgk7w/)
-- [📹: tagesschau, via TikTok: “AfD-Politiker Tillschneider abgewiesen”](https://vm.tiktok.com/ZN8BFnYDQ/) – *”Eine Menschenkette hat dem AfD-Politiker Hans-Thomas Tillschneider den Zutritt zum Gelände der Synagoge in Halle verwehrt... Nach eigenen Angaben wollte er den Landtagpräsidenten Tobias Rausch (AfD) vertreten. Tillschneider kritisierte, er sei in „pöbelhafter Weise daran gehindert und dabei noch als Nazi beschimpft" worden.” Why are these guys always so whiny? Bro is literally framing himself as the real victim at the memorial of extremism mass murder. Grow up, mate.*  
+- [📹: tagesschau, via TikTok: “AfD-Politiker Tillschneider abgewiesen”](https://vm.tiktok.com/ZN8BFnYDQ/) – *”Eine Menschenkette hat dem AfD-Politiker Hans-Thomas Tillschneider den Zutritt zum Gelände der Synagoge in Halle verwehrt... Nach eigenen Angaben wollte er den Landtagpräsidenten Tobias Rausch (AfD) vertreten. Tillschneider kritisierte, er sei in „pöbelhafter Weise daran gehindert und dabei noch als Nazi beschimpft" worden.” Why are these guys always so whiny? Bro is literally framing himself as the real victim at the memorial of extremism mass murder. Grow up, mate.*
+- [📹: ZDFheute: “Halle: Menschenkette gegen AfD-Politiker”](https://vm.tiktok.com/ZN8BF4Yat/) – *” 
 
 ---
 
