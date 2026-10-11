@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-11 00:02:57 UTC_
+_Generated on 2026-10-11 00:13:29 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5287,8 +5287,6 @@ _Generated on 2026-10-11 00:02:57 UTC_
     - [**🫖_California_Vs_Completion/**](🌖_6_Learning_The_Skies/🇺🇸_DARPA_Vs_Tolkien/🫖_California_Vs_Completion/)
       - [`notes.txt`](🌖_6_Learning_The_Skies/🇺🇸_DARPA_Vs_Tolkien/🫖_California_Vs_Completion/notes.txt)
     - [`notes.txt`](🌖_6_Learning_The_Skies/🇺🇸_DARPA_Vs_Tolkien/notes.txt)
-  - [**🇺🇸_Grandmaster_Oversight/**](🌖_6_Learning_The_Skies/🇺🇸_Grandmaster_Oversight/)
-    - [`notes.txt`](🌖_6_Learning_The_Skies/🇺🇸_Grandmaster_Oversight/notes.txt)
   - [**🌈_Gold_Pot_Chasers/**](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/)
     - [**🍃_Input_Stack/**](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🍃_Input_Stack/)
       - [`README.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🍃_Input_Stack/README.md)
@@ -5330,6 +5328,8 @@ _Generated on 2026-10-11 00:02:57 UTC_
     - [`notes.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/notes.md)
     - [`🧾_glossary_and_terms.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🧾_glossary_and_terms.md)
     - [`🪼_orientation_note.md`](🌖_6_Learning_The_Skies/🌈_Gold_Pot_Chasers/🪼_orientation_note.md)
+  - [**🌍🌎🌏🍿_Grandmaster_Oversight/**](🌖_6_Learning_The_Skies/🌍🌎🌏🍿_Grandmaster_Oversight/)
+    - [`notes.txt`](🌖_6_Learning_The_Skies/🌍🌎🌏🍿_Grandmaster_Oversight/notes.txt)
   - [**🍾_Sèvres_Systems_Inelegance/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/)
     - [**🌉_Transfer_And_Remodelling/**](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌉_Transfer_And_Remodelling/)
       - [`README.md`](🌖_6_Learning_The_Skies/🍾_Sèvres_Systems_Inelegance/🌉_Transfer_And_Remodelling/README.md)
