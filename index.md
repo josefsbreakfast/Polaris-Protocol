@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-11 07:51:45 UTC_
+_Generated on 2026-10-11 08:07:53 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2516,6 +2516,7 @@ _Generated on 2026-10-11 07:51:45 UTC_
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/README.md)
         - [`☘️_land_and_independence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/☘️_land_and_independence.md)
         - [`☘️_remembering_an_gorta_mór.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/☘️_remembering_an_gorta_mór.md)
+        - [`☪️_sadaqah_from_the_sultan.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/☪️_sadaqah_from_the_sultan.md)
         - [`🇬🇧_implications_for_unionism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🇬🇧_implications_for_unionism.md)
         - [`🇬🇧_what_britain_knew.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🇬🇧_what_britain_knew.md)
         - [`🌫️_what_do_we_call_it.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🌫️_what_do_we_call_it.md)
