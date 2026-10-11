@@ -1,5 +1,5 @@
 # 📺 Firing Squad PPV
-**First created:** 2026-10-09 | **Last updated:** 2026-10-09  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-11  
 *The state can choose what to broadcast. It cannot choose what a body feels when it watches.*
 
 ---
@@ -315,7 +315,8 @@ This node does **not** claim that a livestream has already happened, that it is 
 
 *Follow the evidence:*  
 
-- [📰: The Guardian: “UN says Pentagon plan to livestream execution of Fort Hood shooter would amount to torture”](https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates)  
+- [📰: The Guardian: “UN says Pentagon plan to livestream execution of Fort Hood shooter would amount to torture”](https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates)
+- [📹: Blakewhat, via TikTok: “Connect the dots.”](https://vm.tiktok.com/ZN8BUSvJA/) – *on the messaging towards current US serving members*  
 
 ---
 
@@ -358,5 +359,5 @@ embodied information ecology, state violence, public execution, military discipl
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-09_
+_Last updated: 2026-10-11_
 
