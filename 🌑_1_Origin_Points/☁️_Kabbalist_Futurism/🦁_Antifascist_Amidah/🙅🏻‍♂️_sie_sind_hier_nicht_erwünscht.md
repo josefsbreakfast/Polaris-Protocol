@@ -1,5 +1,5 @@
 # 🙅🏻‍♂️ Sie Sind Hier Nicht Erwünscht
-**First created:** 2026-10-10 | **Last updated:** 2026-10-10  
+**First created:** 2026-10-10 | **Last updated:** 2026-10-11  
 *Doikayt at the doorway: Jewish students, the politics of remembrance, and solidarity that does not wait for ideological consensus.*
 
 ---
@@ -339,7 +339,8 @@ And there is something worth learning from the simplicity of that.
 - [📹: ZDFheute: “Halle: Menschenkette gegen AfD-Politiker”](https://vm.tiktok.com/ZN8BF4Yat/) – *”Die Gedenkveranstaltung sei öffentlich gewesen, gegenüber Tillscheider habe es kein Hausverbot gegeben, sagte der Gemeindevorsitzende der „Jüdischen Allgemeinen." Eine Einladung habe er aber nicht bekommen. An der Gedenkveranstaltung nahmen unter anderem der regierende Ministerpräsident Schulze und sein Vorgänger Haseloff (beide CDU) teil.” Good use of the CDU party’s time imo.*
 - [📹: Felix Banaszak MdB, via TikTok: “Sieben Jahre nach dem rechtsextremen und antisemitischen Anschlag von Halle mussten jüdische Studierende heute selbst dafür sorgen, dass ein Rechtsextremer das Gedenken an die Opfer nicht für seine Zwecke instrumentalisiert. Das macht mich fassungslos.”](https://vm.tiktok.com/ZN8BYjEu3/) – *”Wir naben nach dem Anschlag In Halle gesagt: Nie wieder ist jetzt. Aber was ist dieses Versprechen wert, wenn wir gleichzeitig zulassen, dass Rechtsextreme immer mehr Macht bekommen? Wenn demokratische Parteien selbst zur Normalisierung der AfD beitragen? Spätestens jetzt ist es an der Zeit, dass sich alle demokratischen Parteien an diesem Versprechen messen lassen.”*
 - [📹: Heidi Reichinnek MdB, via TikTok: “Die Macht wurde von den Nazis nich ergriffen. Sie wurde ihnen von Konservativen übertragen. Liebe Union, wie weit wollt ihr noch gehen?”](https://vm.tiktok.com/ZN8BYRr5t/) – *worth a gander for most electoral parties in liberal democracies; assessment, this is how you are being perceived as having acted, and continuing to act, for those concerned about fascism (das Plenarprotokoll appears, quite reasonably, to be https://dserver.bundestag.de/btp/21/21100.pdf)*
-- [📹: DW News: “A human chain blocked a far-right AfD politician from attending a memorial for the victims of the 2019 antisemitic attack in Halle, Germany. Attendees prevented Hans-Thomas Tillschneider from entering the event. The AfD is classified as right-wing extremist in Saxony-Anhalt, where the party won a resounding victory in September's state election.”](https://vm.tiktok.com/ZN8BYyNyf/) – *the bot army can be seen across posts, and they are most anti-Jewish where the surface has an anglophone element*  
+- [📹: DW News: “A human chain blocked a far-right AfD politician from attending a memorial for the victims of the 2019 antisemitic attack in Halle, Germany. Attendees prevented Hans-Thomas Tillschneider from entering the event. The AfD is classified as right-wing extremist in Saxony-Anhalt, where the party won a resounding victory in September's state election.”](https://vm.tiktok.com/ZN8BYyNyf/) – *the bot army can be seen across posts, and they are most anti-Jewish where the surface has an anglophone element*
+- [📹: Jüdische Allgemeine: “Heute wurde im Hof der Jüdischen Gemeinde in Halle/Saale der Opfer des antisemitischen Terroranschlags gedacht, der auf den Tag genau vor sieben Jahren stattfand. AfD-Rechtsaußen Hans-Thomas Tillschneider wollte an dem Gedenken teilnehmen, die Jüdische Studierendenunion (JSUD) machte ihm klar, dass er nicht willkommen ist.”](https://vm.tiktok.com/ZN8BStQUD/)  
 
 ---
 
@@ -372,4 +373,4 @@ The node preserves the distinction between the students' own actions and the aut
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-10_
+_Last updated: 2026-10-11_
