@@ -1,5 +1,5 @@
 # 🪨 Stolpersteine
-**First created:** 2026-09-29 | **Last updated:** 2026-10-07  
+**First created:** 2026-09-29 | **Last updated:** 2026-10-11  
 *What happens when a society gives the dead a few centimetres of the ordinary present — and why the architecture of remembrance changes what memory can do.*
 
 ---
@@ -1533,7 +1533,11 @@ It is enough to defend the capacity.
 ---
 
 ## 🌌 Constellations
-☔️ 🪨 🫀 🪦 🕯️ — ambient memory, embodied remembrance, historical information integrity, burial and the civic capacity to keep another human life perceptible.
+☔️ 🪨 🫀 🪦 🕯️ — ambient memory, embodied remembrance, historical information integrity, burial and the civic capacity to keep another human life perceptible.  
+
+*Follow the evidence:*  
+
+- [📹: Nota Bene, via TikTok :”Encore une nouvelle dont on se serait bien passé...💀”](https://vm.tiktok.com/ZN8BSbFbX/)  
 
 ---
 
@@ -1560,4 +1564,4 @@ collective memory, remembrance culture, embodied memory, ambient memory, memoria
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-07_
+_Last updated: 2026-10-11_
