@@ -1,7 +1,7 @@
 this one also needs adme and bioavailability bc that ain’t going to fucking work bro
 
 # 🫂 Hugging, But Make It A Bomb  
-**First created:** 2026-10-09 | **Last updated:** 2026-10-09  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-11  
 *All I’m hearing is, “please audit our financials”.*
 
 ---
@@ -617,6 +617,11 @@ This is a **drafting register**, not a claim that every original publication has
 - [👾 Debugging The Men](../../../../🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/README.md) — system-level attention and incentive analysis; **check repository path before publishing**.
 - 🧬 Embodied Information Ecology — embodied consequences and information flows; add a verified repository link during integration.
 
+*Further media:*  
+
+- [📹: Osmosis, via YouTube: “Knowledge Short: Oxytocin”](https://youtube.com/shorts/S933fvQGK1I?is=DM76plE1ajWA-1kE) - *so you never know, all the women going through difficult divorce may unionise*  
+- [📹: Neurochallenged, via YouTube: “2-Minute Neuroscience: Oxytocin”](https://youtu.be/tLc9fQd58bg?is=sFfKiYyMzDJg-JzO) - *and it might make us aggressive, unclear. glad we’re all here doing MDT work*  
+
 ---
 
 ## ✨ Stardust
@@ -643,4 +648,4 @@ oxytocin, ferguson reflex, childbirth, vaginal delivery, lactation, milk ejectio
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-09_
+_Last updated: 2026-10-11_
