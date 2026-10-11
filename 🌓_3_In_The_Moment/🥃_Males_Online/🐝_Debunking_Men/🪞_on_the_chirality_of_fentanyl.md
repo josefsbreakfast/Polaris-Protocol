@@ -1,5 +1,5 @@
 # 🪞 On the Chirality of Fentanyl
-**First created:** 2026-10-09 | **Last updated:** 2026-10-09  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-11  
 *An unnecessarily large pharmacology lesson disguised as a dispute about piss drones, Renaissance men, international scientific governance and the rules of domestic Nerf warfare.*  
 
 *Tl;dr: the CIA connection was not my first concern; my first concern is that patients and healthcare professionals should be able to provide real direction to their health service, far more than every bloody contractor who comes in for a bite of the contingency we may have, were every one of the politicians who touches the project not out to sell the entire country’s health infrastructure, for whatever their own personal version of magic beans would be.*  
@@ -514,6 +514,10 @@ These links support the identified factual strands; the domestic Nerf dialogue, 
 - 🕹️ *Getting the Tech Bros Back on Script* — interdisciplinary literacy and the discipline of asking better questions. [Local project companion](./getting_the_tech_bros_back_on_script.md).
 - 🪿 *Embodied Information Ecology* — the body and its contexts are part of the information system, not incidental noise.
 - 🦊 *International regulatory frameworks* — standards, cross-border coordination, intellectual property, licensing and accountability.
+
+*Further media:*  
+
+- [📹: Yes, Minister, via YouTube: “The Treasury doesn't believe in giving money back!”, from *The Smoke Screen*](https://youtu.be/GX9X_Bk3N98?is=tLCp4s0rD2I0f2ka) – *yes yes yes you want to be taxed, we heard you; the Chancellor needs to feel we can tax the monarchy and the matter is a tender point of the islands*  
 
 ## ✨ Stardust
 
