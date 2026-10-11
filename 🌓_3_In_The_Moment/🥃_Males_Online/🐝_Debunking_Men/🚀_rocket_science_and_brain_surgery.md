@@ -715,7 +715,8 @@ The following are identifiable foundational or review publications. Bibliographi
 
 *Further media:*  
 
-- [🎶: *Rät*, Penelope Scott, via YouTube.](https://youtu.be/LpxT9TLGoLI?is=6EC7dfc5tMc0MEGB)  
+- [🎶: *Rät*, Penelope Scott, via YouTube.](https://youtu.be/LpxT9TLGoLI?is=6EC7dfc5tMc0MEGB)
+- [🎶: *Haifa in a Tesla*, Saint Levant, via YouTube.](https://youtu.be/iBC2AM8g_3c?is=GtgSYHqaErG6LWB5)  
 
 ## ✨ Stardust
 
