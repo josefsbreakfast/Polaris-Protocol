@@ -1,0 +1,21 @@
+🌖_6_Learning_The_Skies/
+└── 🌍🌎🌏🍿_Grandmaster_Oversight/
+    │
+    ├── README.md
+    │
+    ├── ♟️_contests_for_power/
+    ├── 🌗_visibility_of_power/
+    ├── 🕸️_the_ecology_of_elite_power/
+    ├── 💹_financial_markets_and_elite_power/
+    ├── 💾_the_data_wars/
+    ├── 📡_the_internet_as_contested_territory/
+    ├── 🧩_conspiracy_and_information/
+    ├── 📰_media_and_narrative_power/
+    ├── ⚖️_american_institutional_contests/
+    ├── 🌍_sovereignty_and_contested_american_power/
+    ├── ⛪_religion_and_political_power/
+    ├── 🤖_the_ai_arms_race/
+    ├── 🛩️_the_drone_wars/
+    ├── 🕰️_historical_system_transitions/
+    ├── 🧯_preventing_systemic_escalation/
+    └── 🔬_research_method/
