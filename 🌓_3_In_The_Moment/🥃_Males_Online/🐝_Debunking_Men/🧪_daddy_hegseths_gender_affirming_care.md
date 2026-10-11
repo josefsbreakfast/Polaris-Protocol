@@ -1,5 +1,5 @@
 # 🧪 Daddy Hegseth’s Gender-Affirming Care
-**First created:** 2026-10-09 | **Last updated:** 2026-10-09  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-11  
 *In which the gentlemen discover that hormones are healthcare, the hypothalamus is not in the chain of command, and a prescription is not a logistics plan.*
 
 ---
@@ -594,7 +594,11 @@ The serious conclusion is not anti-testosterone, anti-men or anti-military medic
 - 📦 [WHO: Global Smallpox Eradication Review](https://iris.who.int/bitstream/handle/10665/154533/WHA33_3_eng.pdf) — freeze-dried vaccine and implementation infrastructure.
 - ⚖️ [ICRC: International Humanitarian Law](https://www.icrc.org/en/law-and-policy/international-humanitarian-law) — the framework governing conduct in armed conflict.
 
-**Evidence status:** The DHA September 2026 guidance and Endocrine Society recommendations were checked against their published pages for this draft. The discussion of a hypothetical aggression-enhancement programme is analytical, **not** a factual claim about the Pentagon's intent. Complex biochemical diagrams are simplified teaching schematics; they are not substitutes for specialist clinical pathway maps. Further source work would strengthen the historical stimulant comparison, variation-of-sex-development examples, and military-specific deployability regulations before treating those as exhaustive reviews.
+**Evidence status:** The DHA September 2026 guidance and Endocrine Society recommendations were checked against their published pages for this draft. The discussion of a hypothetical aggression-enhancement programme is analytical, **not** a factual claim about the Pentagon's intent. Complex biochemical diagrams are simplified teaching schematics; they are not substitutes for specialist clinical pathway maps. Further source work would strengthen the historical stimulant comparison, variation-of-sex-development examples, and military-specific deployability regulations before treating those as exhaustive reviews.  
+
+*Further media:*  
+
+- [🎶: *War Pigs*, Black Sabbath, live at the Olympia Theater in Paris, France on December 20, 1970, via YouTube.](https://youtu.be/K3b6SGoN6dA?is=q2m0zxYf4ztF8OBt)  
 
 ## ✨ Stardust
 
