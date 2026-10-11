@@ -343,7 +343,8 @@ And there is something worth learning from the simplicity of that.
 - [📹: Jüdische Allgemeine: “Heute wurde im Hof der Jüdischen Gemeinde in Halle/Saale der Opfer des antisemitischen Terroranschlags gedacht, der auf den Tag genau vor sieben Jahren stattfand. AfD-Rechtsaußen Hans-Thomas Tillschneider wollte an dem Gedenken teilnehmen, die Jüdische Studierendenunion (JSUD) machte ihm klar, dass er nicht willkommen ist.”](https://vm.tiktok.com/ZN8BStQUD/)
 - [📹: Oliver Portius, via TikTok: “Der laut Vertassungschutz rechtsextreme AfD-Politiker und neuer Vize des Landtags in Sachsen-Anhalt Hans-Thomas Tillschneider wollte an einer Gedenkveranstalltung anlässlich des rechtsextremen Anschlagsnauf die Synagoge in Halle vor 7 Jahren teilnehmen. Eine Menschenkette verwehte ihm den Zutritt.”](https://vm.tiktok.com/ZN8BD8tBT/) – *Tillschneider knows it’s an imagine ticket; the far right understands optics*
 - [📹: LeStaffell: “AfD, Tillschneider, rechtsaußen, Synagoge, Gedenken & ein Dilemma.”](https://vm.tiktok.com/ZN8BDDUpf/) – *coercive power encourages narcisstic responses, and so we should never be surprised that actors like the AfD are “the real victim”; if you don’t want to be compared to Nazis in derogatory terms, do not mimic Nazis and enact decisions which make others feel profoundly unsafe*
-- [📹: Bobbie Serrano: “Tilly und die Würde”](https://vm.tiktok.com/ZN8BDk1S7/) – *no notes.*  
+- [📹: Bobbie Serrano: “Tilly und die Würde”](https://vm.tiktok.com/ZN8BDk1S7/) – *no notes.*
+- [📹: Ronny, via TikTok: “Da ist es wieder, das Opfer AfD. Ein Mitglied einer Rechtsextremen Partei, hat in einer Synagoge, nicht zu suchen, gar nichts. Vielen Dank an die Studenten die diesen Ort vor einer Inszenierung durch die AfD geschützt haben.”](https://vm.tiktok.com/ZN8BDgTsF/) – *honestly, the more I watch, the more it reminds me of when Logan Paul went into Aokigahara for the clout. never again.*  
 
 ---
 
