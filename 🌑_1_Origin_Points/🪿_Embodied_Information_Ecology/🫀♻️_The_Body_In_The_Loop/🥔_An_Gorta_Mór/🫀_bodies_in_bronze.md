@@ -1,5 +1,5 @@
 # 🫀 Bodies in Bronze
-**First created:** 2026-10-06 | **Last updated:** 2026-10-07  
+**First created:** 2026-10-06 | **Last updated:** 2026-10-11  
 *The dead do not stop having bodies when the archive starts counting them.*
 
 ---
@@ -2020,7 +2020,13 @@ This node uses memorial sites as historical objects as well as later interpretat
 ---
 
 ## 🌌 Constellations
-🪨 👞 🪦 🥉 🫀 — a name in a pavement, empty shoes beside a river, bodies beneath a field and bodies reconstructed in bronze all ask how physical place can carry truthful information about people who are no longer available to speak for themselves.
+🪨 👞 🪦 🥉 🫀 — a name in a pavement, empty shoes beside a river, bodies beneath a field and bodies reconstructed in bronze all ask how physical place can carry truthful information about people who are no longer available to speak for themselves.  
+
+*Follow the evidence:*  
+
+- [🎧: The Letter from Ireland Podcast: “Did Your Irish Ancestor Live Through This Terrible Time?”, via Pocket Casts](https://pca.st/episode/1e8adba5-cfa4-492c-b5fb-0cba83488976)  
+- [🎧: Saint John: Nothing Happened Here: “Except for the Irish Famine
+Immigration”, via Pocket Casts](https://pca.st/episode/d07ea77a-8d49-41c1-81fb-5b12f016a121)  
 
 ---
 
@@ -2053,4 +2059,4 @@ embodied information ecology, an gorta mór, embodied memory, memorialisation, a
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-07_
+_Last updated: 2026-10-11_
