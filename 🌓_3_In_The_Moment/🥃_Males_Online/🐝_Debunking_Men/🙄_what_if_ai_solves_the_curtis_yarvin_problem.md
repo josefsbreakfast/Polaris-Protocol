@@ -651,6 +651,11 @@ The analytical questions remain legitimate even where an individual empirical cl
 - 🐝 **Debunking Men:** Evidence, intellectual peacocking, accountability and the right to ask an inconvenient question.
 - 🛡️ **Playing Defence:** How institutional scrutiny can interrupt unsupported claims before they become policy.
 
+*Follow the evidence:*  
+
+- [📹: The Reel State: “Politicians get asked about Hasan Piker a lot, can we start asking the rightn about Curtis Yarvin? This is the man whose ideas sit behind JD Vance, Trump, and many others, and this can't be ignored.”](https://vm.tiktok.com/ZN8BSfVfh/)
+- [🎶: *Good Boy*, Paris Paloma, via YouTube.](https://youtu.be/5NfyIpE4zaw?is=uLKHWOHbZTYdX9kI)  
+
 ## ✨ Stardust
 
 curtis yarvin, dark enlightenment, quantum gravity, artificial intelligence, mark fisher, nick land, ccru, cybernetics, embodied cognition, scientific method, jewish question, antisemitism, intellectual authority, pickup artistry, gamerGate, jane austen, mr darcy, leonardo da vinci, feedback loops, ai guardrails, pronatalism, peer review, explain it like i'm five
