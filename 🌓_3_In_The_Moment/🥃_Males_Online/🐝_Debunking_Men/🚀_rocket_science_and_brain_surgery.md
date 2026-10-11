@@ -713,6 +713,10 @@ The following are identifiable foundational or review publications. Bibliographi
 - 🕹️ `🕹️_getting_the_tech_bros_back_on_script.md` — a neighbouring plea for interdisciplinary professional standards and public comms discipline.
 - 🙄 `🙄_what_if_ai_solves_the_curtis_yarvin_problem.md` — companion treatment of AI mathematics claims, scientific verification, technical prestige and political accountability.
 
+*Further media:*  
+
+- [🎶: *Rät*, Penelope Scott, via YouTube.](https://youtu.be/LpxT9TLGoLI?is=6EC7dfc5tMc0MEGB)  
+
 ## ✨ Stardust
 
 artificial intelligence, large language models, artificial neural networks, Elon Musk, Neuralink, neural lace, neural mapping, neural decoding, brain-computer interfaces, human-computer interaction, automation bias, appropriate reliance, interface feedback, patient agency, neuroplasticity, ion channels, dendritic spines, tissue engineering, organoids, reductionism, biological agency, embodied cognition, gravity, motor control, homeostasis, physiological constraints, scientific communication, informed consent, information ecology, cybernetics, Dungeons and Dragons, mimic, displacer beast, epistemology
