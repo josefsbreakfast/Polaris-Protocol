@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-11 09:07:24 UTC_
+_Generated on 2026-10-11 09:27:10 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2614,6 +2614,7 @@ _Generated on 2026-10-11 09:07:24 UTC_
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/README.md)
         - [`⛴️_boaty_mcboatface.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/⛴️_boaty_mcboatface.md)
         - [`🌑_what_may_04_does_to_the_internet.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🌑_what_may_04_does_to_the_internet.md)
+        - [`🌳_that_aokigahara_video.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🌳_that_aokigahara_video.md)
         - [`🍌_cats_umbrellas_and_democracy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🍌_cats_umbrellas_and_democracy.md)
         - [`🎮_fake_gamer_girl_protocol.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🎮_fake_gamer_girl_protocol.md)
         - [`🐙_how_darpa_lost_containment_of_tentacle_porn.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🐙_how_darpa_lost_containment_of_tentacle_porn.md)
