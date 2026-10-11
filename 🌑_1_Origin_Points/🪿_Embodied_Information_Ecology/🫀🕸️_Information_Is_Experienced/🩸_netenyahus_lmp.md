@@ -1,5 +1,5 @@
 # 🩸 Netanyahu's LMP
-**First created:** 2026-10-09 | **Last updated:** 2026-10-10  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-11  
 *Last menstrual period, last media peak, or last month-end payment? A clinical investigation into financial clocks, geopolitical news and the experience of information.*
 
 ---
@@ -658,7 +658,8 @@ Related Polaris routes to cross-check before linking: the parent **🫀🕸️_I
 
 *Further media:*  
 
-- [📺: The Jay Martin Show, via YouTube, “October 28th: The Day Iran Breaks the Bond Market”](https://youtu.be/Q1mdQBC4hCU?is=sF0lIII5sxW1OV_L)  
+- [📺: The Jay Martin Show, via YouTube, “October 28th: The Day Iran Breaks the Bond Market”](https://youtu.be/Q1mdQBC4hCU?is=sF0lIII5sxW1OV_L)
+- [📹: PoliticsJOE, via TikTok: “Defence Secretary Wes Streeting suggests the West is united against Putin, despite Donald Trump agreeing a deal to import Russian diesel.”](https://vm.tiktok.com/ZN8BUu2EN/) – *we could overstate the move to take out Houthi positions this weekend, instead?*  
 
 ## ✨ Stardust
 
@@ -672,4 +673,4 @@ last menstrual period, Netanyahu, month-end, sovereign settlement, Foreign Milit
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-10_
+_Last updated: 2026-10-11_
