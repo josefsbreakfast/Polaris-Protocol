@@ -1,5 +1,5 @@
 # 📺 Firing Squad PPV
-**First created:** 2026-10-09 | **Last updated:** 2026-10-11  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-12  
 *The state can choose what to broadcast. It cannot choose what a body feels when it watches.*
 
 ---
@@ -463,7 +463,8 @@ This node does **not** claim that the Nick Berg murder and a military execution 
 - [📹: Blakewhat, via TikTok: “Connect the dots.”](https://vm.tiktok.com/ZN8BUSvJA/) – *on the potential messaging towards current US serving members in cases of unlawful orders, and the US public in cases of perceived dissent*
 - [📹: Jamyle, via TikTok: “Live streaming executions just broadcasts America's lust for violence. We're stuck in a feedback loop and continually fail to see our part in it. I worry about the underlying mindset of people who will tune in to see a man shot dead, but it all sounds too familiar to me.”](https://vm.tiktok.com/ZN8BfUnDk/)  
 - [📹: b-boy bouiebaisse, via TikTok: “If you want to learn more about lynchings in the United States, here are a few books I highly recommend…”](https://vm.tiktok.com/ZN8Bfhe6k/) – *”…‘At The Hands of Persons Unknown: Lynching of Black America’ by Philip Dray. ‘By Hands Now Known: Jim Crow's Legal Executioners’ by Margaret A. Burnham. ‘Lynching and Spectacle: Witnessing Racial Violence in America, 1890-1940’ by Amy Wood.”*
-- [📹: MS NOW: “Fmr. Deputy NSA: Do we want to be a country where kids can watch an execution on a livestream?”](https://vm.tiktok.com/ZN8BfesWE/)  
+- [📹: MS NOW: “Fmr. Deputy NSA: Do we want to be a country where kids can watch an execution on a livestream?”](https://vm.tiktok.com/ZN8BfesWE/)
+- [📹: Brut, via TikTok: “The generational harm caused by allowing troops in uniform to stand in front of a man in a wheelchair and watch him get shot to death is irreparable.”](https://vm.tiktok.com/ZN8BaXNFp/)  
 
 ---
 
@@ -523,5 +524,5 @@ embodied information ecology, institutional self-deterrence, military recruitmen
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-11_
+_Last updated: 2026-10-12_
 
