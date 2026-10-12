@@ -285,25 +285,168 @@ But that history belongs here because it shows that the centuries preceding the 
 
 > **The map recorded who could claim the land. The bounty helps us ask what was permitted to live on it.**
 
-> 🐺 **Possible companion node:** [The Sons of These Islands](./🐺_the_sons_of_these_islands.md) — *proposed, not yet written; a wider history of wolves across Ireland, Scotland, Wales and England, including folklore, ecology and extermination.*
+> 🐺 **Companion node:** [The Sons of These Islands](./🐺_the_sons_of_these_islands.md) — *wolves across these islands; historical persecution, cultural memory, sovereignty and ecological restoration.*
 
 ---
 
-## 7. 🗺️ Cromwell, War And The Administrative Remaking Of Land
+## 7. ⚔️ Parliament Was Not the People
 
-The wars of the 1640s and Cromwellian conquest produced another enormous transformation in Irish landholding.
+The English Civil Wars are often introduced as a contest between King and Parliament. That is a useful beginning, provided we do not mistake it for the whole argument.
 
-Catholic-owned land was confiscated on a very large scale and redistributed among soldiers, creditors and others recognised by the victorious state.
+Charles I's disputes with Parliament concerned taxation, religion, royal prerogative, military authority and the limits of lawful government. The conflicts became entangled with political and religious struggles in Scotland and Ireland. Historians therefore also speak of the **Wars of the Three Kingdoms**. Even that phrase needs care: three kingdoms shared a monarch, but their peoples did not share one constitutional position or one political interest.
 
-This required more than soldiers.
+Nor did English people divide into two tidy camps after reading a constitutional pamphlet and deciding whether they preferred a king or a democratic legislature. Local antagonisms mattered. So did kinship, religious commitments, patronage, regional economic interests, the behaviour of nearby garrisons, fear of violence and the obligations of tenants or dependants. Allegiances could change. People might resist one army because of what its soldiers had done locally rather than because they had settled the theory of sovereignty for all future generations.
 
-It required information.
+And Parliament was not **the people**. Its members came from restricted, overwhelmingly male and propertied political worlds. Many Parliamentarians defended particular liberties, but those liberties were not a universal programme of political equality. The New Model Army contained competing visions; the Levellers pressed arguments about representation and rights that alarmed more conservative allies. The Diggers challenged property relations more radically still. The existence of those movements is evidence that the political future was contested, not that their programmes won.
 
-The **Down Survey of 1656--58**, directed by William Petty, mapped forfeited lands in extraordinary detail so that land could be identified, valued and redistributed.
+### 🌾 Who fought, who paid, who governed?
 
-There is something extremely important here for Polaris.
+Consider the ordinary person whose crops were requisitioned, whose household sheltered troops, whose wages disappeared or whose relatives went to war. A constitutional transformation could be real without distributing its rewards in proportion to its costs. Some people entered the struggle with strong political and religious commitments; others faced pressures that left very little room for philosophical preference.
 
-``` text
+```text
+PEOPLE FIGHT + PAY + ENDURE
+             ↓
+   THE POLITICAL ORDER CHANGES
+             ↓
+WHO CONTROLS THE NEW INSTITUTIONS?
+             ↓
+WHO CAN VOTE, OWN, WORK, WORSHIP,
+   HOLD LAND, OR REFUSE AN ORDER?
+```
+
+The execution of Charles I in January **1649** and the abolition of the monarchy were momentous. They did not create modern parliamentary democracy. Cromwell later became Lord Protector; military power remained central to politics; Parliaments could be summoned, challenged and dissolved. The monarchy returned in **1660**. The settlement of **1688–89**, so often narrated as a destination, belonged to a later struggle and did not confer equal political participation on the population.
+
+Constitutional limitations on a monarch can matter enormously. They are not the same thing as an equitable distribution of political or economic power. Nor should later democratic gains be retrospectively assigned to everyone who fought for Parliament in the 1640s.
+
+> **A redistribution of authority among governing institutions is not necessarily a redistribution of authority to the people they govern.**
+
+And there is another problem. The parliamentary cause did not confine its claims to England. Its armies and financial arrangements reached across the Irish Sea.
+
+---
+
+## 8. 🏰 Ireland Was Not Waiting for Cromwell
+
+Ireland was already entangled with English royal authority, conquest and settlement long before Cromwell was born. Henry VIII assumed the title **King of Ireland** in the sixteenth century. But the Crown's legal claims and its ability to govern particular districts were not the same thing, and the island contained competing jurisdictions, confessions, land interests and political loyalties.
+
+The **1641 rebellion** began amid accumulated conflicts over land, religion and power. Violence against Protestant settlers and civilians was real and consequential; its scale and circumstances require careful reconstruction rather than the uncritical repetition of contemporary atrocity propaganda. Catholic civilians also suffered violence during the wider wars. The **1641 Depositions** preserve testimony, accusation, memory and political pressure. They are indispensable sources, but they are not a transparent numerical ledger of everything that happened.
+
+From **1642**, the Irish Catholic Confederation developed political and military institutions, centred at Kilkenny, and governed significant territory. Its members were not one undifferentiated party. Disputes over religion, land, negotiations with the king and military strategy divided them. Royalist, Confederate, Scottish Covenanter and English parliamentary interests intersected and changed over the decade. Many Irish Catholics sought religious and property protections within a continuing monarchy; that is not the same thing as an island collectively voting for Charles I.
+
+Ireland in 1649 was therefore not a blank space into which an English constitutional dispute wandered. It had already endured years of war, negotiations, sieges, shifting alliances and contested governments.
+
+### 💰 The land had been promised before the army arrived
+
+The English Parliament's **Adventurers' Act of 1642** helped raise funds for suppressing rebellion by promising investors interests in Irish land expected to be confiscated. The exact statutory entitlements and their subsequent implementation require reference to the legislation and accounts. The timing is crucial: **the idea of using Irish land to finance English parliamentary military objectives preceded Cromwell's 1649 campaign**.
+
+That does not mean every soldier fought for a future estate or every investor received what was promised. It means land redistribution was already embedded in the financial and political planning of the parliamentary cause. A territory could be represented as a security problem, a religious problem and a source of assets capable of meeting state obligations — all at once.
+
+---
+
+## 9. ⚔️ Cromwell Comes to Ireland
+
+**Oliver Cromwell landed at Dublin in August 1649** to lead a parliamentary expedition. The English Commonwealth had executed Charles I; supporters of his son and surviving Royalist forces could still threaten the new regime. The alliance of Royalist and Confederate interests in Ireland made the island strategically important. Cromwell's campaign sought to defeat those forces and impose effective Commonwealth control.
+
+Security was one explanation. It was not the only one. English Protestant fears and memories of 1641 shaped the political atmosphere; Cromwell's own religious language presented the struggle in providential terms. The parliamentary regime also inherited financial commitments tied to Irish land. The motives of Cromwell, the Council of State, investors, officers and individual soldiers cannot simply be collapsed into one intention.
+
+### 🩸 Drogheda, September 1649
+
+Cromwell's army besieged **Drogheda** and stormed the town after its defenders refused surrender terms. The assault was followed by extensive killing. Cromwell's letters provide unusually important evidence of how he represented and justified the action, but a commander's account is not a neutral report from every person inside the walls. Historians dispute details of the numbers killed, the composition of the victims and the application of contemporary siege conventions. The violence itself is not in doubt.
+
+The siege should not be reduced to either a reassuring claim that everything was normal for the period or an invented precision about every casualty. We can examine the military context and still recognise that the fate of those inside the town was part of what the conquest meant.
+
+### 🌊 Wexford, October 1649
+
+At **Wexford**, the storming of the town and associated killings again became central to later Irish memory of Cromwell. The sequence of negotiations, the army's entry and the conduct of troops require close attention to contemporary sources. Civilian suffering and the destruction of the town's military and maritime capacity belong in the account; so do the limits of what can be securely counted or attributed to an individual order.
+
+The stories of Drogheda and Wexford are not interchangeable, and neither can stand in for the entire conquest.
+
+### 🏰 The campaign did not end when Cromwell left
+
+Cromwell continued campaigning through the winter and spring, but **left Ireland in May 1650**. The Commonwealth conquest continued under other commanders until **1653**. Further sieges, warfare, displacement, disease and the disruption of agriculture shaped the population's experience. Different regions and communities suffered in different ways; estimates of mortality and population loss must be tied to the evidence and methods used to produce them.
+
+The distinction between **Cromwell's personal command**, **the parliamentary army**, and **the subsequent Commonwealth government** is not an attempt to absolve anybody. It is how we identify who made which decisions. The military conquest enabled later confiscation and settlement, but Cromwell did not personally sign every lease, design every survey or administer every subsequent policy.
+
+And a question remains after the guns: what did the victorious government intend to do with the authority it had secured?
+
+---
+
+## 10. 🗺️ The Same War, Two Constitutional Histories
+
+From the centre of English parliamentary power, the invasion could be narrated as defeating Royalists, preventing a Stuart restoration, punishing rebellion and securing a threatened Commonwealth. Those were meaningful political objectives to its supporters. They also provided language through which coercive action could be represented as the restoration of lawful order.
+
+From Ireland, the same sequence included **military conquest, imposed government, confiscation and the loss of control over land and political institutions**. The English constitutional story and the Irish colonial story are not competing universes. They describe different positions within one political system.
+
+The colonial character of the project matters. Earlier Tudor conquest and plantation had already established patterns of settlement, coercion and land redistribution. The Commonwealth's campaign extended the effective power of an external governing regime and enabled another sweeping transformation of property. That does not make every action across centuries identical; it locates this conquest within a longer history of English colonial rule in Ireland.
+
+### 👑 Who counted as the political community?
+
+A movement could challenge the arbitrary authority of the English Crown while denying Irish Catholic institutions an equivalent claim to decide how Ireland would be governed. The language of *liberty* operated within political and religious boundaries. It was not necessarily experienced as hypocrisy by every contemporary supporter: many did not believe that the populations involved possessed equal political standing in the first place.
+
+But that boundary is precisely what we must investigate.
+
+```text
+FROM THE GOVERNING CENTRE       FROM THE GOVERNED TERRITORY
+       "SECURITY"                         INVASION
+       "SETTLEMENT"                       DISPOSSESSION
+       "REWARD"                           CONFISCATED LAND
+       "LAWFUL TITLE"                     LOSS OF A CLAIM
+```
+
+The paired terms are **different descriptions and experiences**, not a suggestion that every legal transfer had precisely the same effect on every household. English labourers did not all become landlords because an English army won. Irish society included Catholic and Protestant elites, tenants, labourers, merchants, women whose claims were obscured by property law, and people whose allegiances changed. Some gained, some lost, and many were excluded from the decisions either way.
+
+That complexity does not dissolve the colonial structure. It makes the question of **who could command the machinery of government** more exact.
+
+A confiscation could appear in a record as the lawful reassignment of an estate. For a household, it could mean altered tenancy, displacement, lost income or a new authority over the land on which it depended. Neither a survey nor a parliamentary speech captures all those consequences by itself.
+
+> **The history of an institution acquiring power is not necessarily the history of a population acquiring power.**
+
+And the constitutional history of the governing state cannot tell us, on its own, what happened to the people it governed through conquest.
+
+---
+
+## 11. 💰 Ireland Pays for the Parliamentary Victory
+
+The Commonwealth's victory created the conditions for a major redistribution of Irish land. Its legal machinery did not spring fully formed from Cromwell's personal preferences. Parliament had already linked financing to expected confiscations in **1642**. After conquest, legislation and administrative orders determined who would be punished, whose property could be forfeited, who might be exempted and who could receive land.
+
+The **Act for the Settlement of Ireland (1652)** distinguished categories of persons and offences and provided for extensive forfeitures. Its categories cannot be summarised responsibly as *all Catholics were expelled* or *every Protestant kept everything*. The provisions, exceptions, petitions and implementation must be read together. Yet the overall outcome was a profound transfer of land away from Irish Catholic ownership towards interests favoured by the victorious regime.
+
+### 🌾 Transplantation, removal and the limits of an order
+
+Policies associated with transplantation towards **Connacht and Clare** are among the period's most consequential and most easily oversimplified measures. Some landholders and their dependants faced orders to move or relinquish holdings; others sought exemptions, negotiated, resisted or remained under different arrangements. Formal deadlines and the geographical language of official orders are not a census of who actually moved. The slogan *to Hell or Connacht* captures a remembered coercive logic, not a substitute for checking individual instruments and outcomes.
+
+Women, children, tenants and workers could experience the consequences of a settlement without appearing as principal owners in its records. The documentary system could be extraordinarily precise about a parcel of land and much less complete about the lives sustained by it.
+
+### 🪙 Soldiers, investors and state debt
+
+The state owed money. Soldiers had arrears. Investors had claims arising from wartime finance. Confiscated land could be used to discharge obligations that could not readily be met in cash. The resulting allocations were not merely abstract changes to a constitutional chart. They moved control over productive land, rent and the terms on which other people might remain.
+
+The distribution was contested, administratively difficult and subject to further change. But the central mechanism is unmistakable:
+
+```text
+MILITARY AND FINANCIAL CLAIMS
+             ↓
+    STATE-DEFINED FORFEITURE
+             ↓
+    LAND MEASURED AND VALUED
+             ↓
+     TITLE REALLOCATED
+             ↓
+  RENT, TENURE AND INHERITANCE
+```
+
+A government that claimed to protect property and liberty for its political constituency could also define other people's property as forfeitable. **Whose property the constitutional order protected, and whose it authorised itself to take, were not incidental questions.**
+
+---
+
+## 12. 📐 The Down Survey: When Conquest Becomes a Map
+
+The conquest and settlement required more than military victory and legal declarations.
+
+They required information.
+
+The **Down Survey of 1656–58**, associated with William Petty, mapped lands intended for redistribution. It helped make parcels identifiable, measurable and administratively available for allocation. Surveying was not invented in the 1650s, nor is every map an act of dispossession. This survey matters because of **what its measurements were being used to accomplish**.
+
+```text
 WAR
  ↓
 CONQUEST
@@ -321,33 +464,25 @@ REDISTRIBUTION
 
 The map is not merely a picture drawn after the violence has finished.
 
-It is worth reading this beside the wolf bounties described above. The survey and the hunting orders did different things; neither should be reduced to the other. Yet both show authorities intervening in relationships between land, bodies and governance. One helped turn territory into recognised property. The other sought to make particular animals disappear from that territory, while reportedly policing who could move armed across it.
+It can become part of the mechanism by which the consequences of conquest are made administratively durable.
 
-The map can become part of the mechanism by which the consequences of conquest are made administratively durable.
+Land becomes measurable. Boundaries become legible to government. A territorial relationship becomes a parcel. A parcel becomes a recognised title. That title can be inherited, leased, mortgaged and sold. The violence does not need to be repeated every morning once its outcome has been translated into ordinary administration.
 
-Land becomes measurable.
+The contrast with the wolf bounties above is instructive, provided we do not pretend they were the same policy. One administrative process made land available for reassignment; another rewarded the destruction of particular animals. Both show how a decision made through rules, records and incentives can become a change in the living landscape. Claims about armed Irish wolf hunters still require direct verification and should not be mistaken for a confirmed order of Cromwell himself.
 
-Boundaries become legible to government.
+The survey's records tell us what administrators sought to identify and distribute. They cannot, alone, tell us everything about a displaced family, a tenant's continuing obligations, a damaged community or a wolf no longer moving through the same fields.
 
-A territorial relationship can become a parcel.
+This is a central principle of Embodied Information Ecology: **a description can also be an instrument of intervention**.
 
-A parcel can become a recognised title.
-
-A recognised title can be inherited, leased, mortgaged and sold.
-
-The violence does not need to be repeated every morning once its outcome has been translated into ordinary administration.
-
-That is one of the central transformations we will follow into:
-
-[📐 English Land Controls](./📐_english_land_controls.md)
+For the detailed mechanics of title and tenure, continue to [📐 English Land Controls](./📐_english_land_controls.md).
 
 ---
 
-## 8. 📐 When Conquest Becomes Ordinary Property
+## 13. 📐 When Conquest Becomes Ordinary Property
 
-The Restoration modified the Cromwellian settlement.
+The Restoration after **1660** modified the Cromwellian settlement; later Williamite confiscations and settlements, estate sales, inheritances, debts and changing leasehold arrangements modified Irish landownership further.
 
-It did not simply restore the previous distribution of land.
+It did not simply restore the previous distribution of land. The eighteenth-century landed order was neither a carbon copy of 1652 nor a clean break from conquest.
 
 Over time, confiscation, settlement, inheritance, sale, lease, debt and law produced a landed order whose everyday operation could become increasingly detached from the violence through which earlier distributions had been created.
 
@@ -381,7 +516,7 @@ And that brings us to another rule for this cluster.
 
 ---
 
-## 9. 🕸️ People Inherit Systems; They Are Not Interchangeable With Them
+## 14. 🕸️ People Inherit Systems; They Are Not Interchangeable With Them
 
 Colonial systems are built and maintained by people.
 
@@ -429,13 +564,15 @@ This is especially important when we later reach modern arguments about Britishn
 
 Nor were these mechanisms uniquely Irish. Enclosure in England, clearance and estate transformation in Scotland, cultural marginalisation in Wales, and colonial settlement in Ireland belong to overlapping but non-identical histories. The useful comparison asks which authorities could compel movement, enforce title, regulate custom or make subsistence dependent on another person's permission. It should not erase the specifically colonial dimensions of conquest and plantation in Ireland, or pretend every practice moved neatly in one direction from these islands to overseas empires. If we claim an administrative technique travelled, we should trace the people, laws or institutions that carried it.
 
+There is also a problem of **historical viewpoint**. An account of the English Civil Wars organised around the later authority of Parliament may leave its reader with a story of constitutional progress. An account beginning with Irish landholding and political autonomy will foreground different consequences of the same victorious regime. Both histories need their own evidence; neither should be reduced to a national personality test. The crucial task is to ask what the institutions actually did, and for whom.
+
 The purpose of reconstructing historical power is not to manufacture hereditary guilt.
 
 It is to understand what the power **did**, what survived it, and what---if anything---still requires changing.
 
 ---
 
-## 10. ⛪ Religion, Land And The Protestant Ascendancy
+## 15. ⛪ Religion, Land And The Protestant Ascendancy
 
 By the eighteenth century, political power, established religion and landownership had become strongly associated with a Protestant elite.
 
@@ -459,7 +596,7 @@ That complexity becomes particularly visible in the political upheavals at the e
 
 ---
 
-## 11. ⚔️ 1798 And The Union
+## 16. ⚔️ 1798 And The Union
 
 The **Society of United Irishmen** emerged from the radical political world of the late eighteenth century, influenced by the American and French revolutions and drawing support across religious backgrounds, although the politics and violence of the period became increasingly sectarian in important places.
 
@@ -495,7 +632,7 @@ We will return to it directly in:
 
 ---
 
-## 12. 🗳️ The Union Did Not Settle The Irish Question
+## 17. 🗳️ The Union Did Not Settle The Irish Question
 
 Union did not remove conflict over religion, political representation, land or sovereignty.
 
@@ -537,7 +674,7 @@ It did not invent the dispute.
 
 ---
 
-## 13. 🏭 Ireland Was Not One Economy
+## 18. 🏭 Ireland Was Not One Economy
 
 Pre-Famine Ireland was overwhelmingly rural and agricultural.
 
@@ -567,7 +704,7 @@ But they are not yet lethal.
 
 ---
 
-## 14. 👨‍🌾 Ireland Was Not One Class
+## 19. 👨‍🌾 Ireland Was Not One Class
 
 By the eve of the Famine, rural society included:
 
@@ -618,7 +755,7 @@ The closer we get to the Famine, the less useful *the Irish* becomes as an econo
 
 ---
 
-## 15. 🗺️ There Was More Than One Rural Ireland
+## 20. 🗺️ There Was More Than One Rural Ireland
 
 National descriptions can conceal radically different local systems.
 
@@ -636,7 +773,7 @@ Regional variation therefore belongs inside the explanation before the blight ar
 
 ---
 
-## 16. 🏚️ Poverty Was Already Visible
+## 21. 🏚️ Poverty Was Already Visible
 
 The 1841 Census counted more than **eight million people** in Ireland — approximately **8.18 million**. The number is important. So is the kind of information the state was collecting.
 
@@ -708,7 +845,7 @@ It is why so many households had so little room for a major subsistence shock.
 
 ---
 
-## 17. 🌾 A Precarious Agricultural System
+## 22. 🌾 A Precarious Agricultural System
 
 For many poor rural households, access to a small plot of land could function as part of the wage and subsistence system.
 
@@ -766,7 +903,7 @@ It also meant that if the crop failed, the household might not possess an equiva
 
 ---
 
-## 18. 🔁 Ireland Had Met Subsistence Stress Before
+## 23. 🔁 Ireland Had Met Subsistence Stress Before
 
 The catastrophe beginning in 1845 was unprecedented in scale and duration.
 
@@ -794,7 +931,7 @@ It is not an argument that the Great Hunger was inevitable.
 
 ---
 
-## 19. 🥔 The Potato Is Not Yet Dead
+## 24. 🥔 The Potato Is Not Yet Dead
 
 And this is where this node stops.
 
@@ -872,13 +1009,13 @@ The next three nodes pull apart mechanisms that will shortly collide:
 
 Only after those mechanisms are visible do we let the crop fail.
 
-A separate, proposed companion study — [🐺 The Sons of These Islands](./🐺_the_sons_of_these_islands.md) — can carry the wolves' longer history without asking them to stand in for the people whose lives this node is preparing to follow.
+The companion study [🐺 The Sons of These Islands](./🐺_the_sons_of_these_islands.md) carries the wolves' longer history without asking them to stand in for the people whose lives this node is preparing to follow.
 
 ---
 
 ## 🔎 Evidence Still To Verify
 
-The expanded passages distinguish established broad chronology from details that still need primary-source checks. Before treating the wolf bounty amounts, the reported concern over armed Irish hunters, the 1786 final sighting, the 1537 statutory clauses or the census literacy categories as fully established, consult the relevant original records and specialist scholarship. These are research questions, not hidden citations.
+The expanded passages distinguish established broad chronology from details that still need primary-source checks. For the Civil Wars and Cromwellian conquest, verify specific quotations, casualty estimates at Drogheda and Wexford, the chronology of negotiations, provisions of the 1642 and 1652 Acts, transplantation orders and exemptions, and estimates of landownership change against specialist scholarship and original records. Before treating the wolf bounty amounts, the reported concern over armed Irish hunters, the 1786 final sighting, the 1537 statutory clauses or the census literacy categories as fully established, consult the relevant original records and specialist scholarship. These are research questions, not hidden citations.
 
 ---
 
@@ -903,6 +1040,13 @@ https://www.ucc.ie/en/media/projectsandcentres/irishrevolution/documents/U1.ASHO
 
 ### Further research leads — not yet independently checked for this revision
 
+- Micheál Ó Siochrú, *God's Executioner: Oliver Cromwell and the Conquest of Ireland* (2008) — military campaign, conquest and its interpretation; verify claims against passages.
+- Jane Ohlmeyer, *Making Ireland English: The Irish Aristocracy in the Seventeenth Century* (2012) — conquest, colonial power and landed elites.
+- John Morrill (ed.), *Oliver Cromwell and the English Revolution* (1990) — political and religious context; use alongside Ireland-specific scholarship.
+- Ann Hughes, *The Causes of the English Civil War* (1991) — political, religious and social conflict.
+- Christopher Hill, *The World Turned Upside Down* (1972) — radical political and religious currents; interpret alongside later historiography.
+- The 1641 Depositions project, Trinity College Dublin — contemporary testimony requiring source criticism.
+- Cromwell's correspondence on Drogheda and Wexford, the Adventurers' Act (1642), the Act for the Settlement of Ireland (1652), transplantation orders and Down Survey records — consult primary texts before precise legal or numerical claims.
 - Original Irish statute commonly titled *An Act for the English Order, Habit and Language* (1537): verify text, jurisdiction and enforcement.
 - *Orders and Conditions* for the Ulster Plantation (1610): compare intended settlement restrictions with practice.
 - Original *Census of Ireland, 1841* report and instructions: housing, literacy and mortality classifications; William Wilde's contributions.
@@ -920,7 +1064,7 @@ https://www.ucc.ie/en/media/projectsandcentres/irishrevolution/documents/U1.ASHO
 
 ## ✨ Stardust
 
-pre-famine ireland, colonial administration, land transformation, plantation, protestant ascendancy, acts of union, rural class, archival silence, inherited systems, subsistence, wolves, mac tíre, wolf bounties, woodland, ecology, 1841 census, literacy, cottiers
+pre-famine ireland, english civil wars, wars of the three kingdoms, cromwell, drogheda, wexford, adventurers act, 1652 settlement, transplantation, down survey, constitutional power, colonialism, land transformation, plantation, protestant ascendancy, acts of union, rural class, archival silence, inherited systems, subsistence, wolves, mac tíre, wolf bounties, woodland, ecology, 1841 census, literacy, cottiers
 
 ---
 
@@ -932,7 +1076,7 @@ pre-famine ireland, colonial administration, land transformation, plantation, pr
 
 > 📡 Cross-references:
 >
-> - [🐺 The Sons of These Islands](./🐺_the_sons_of_these_islands.md) — *proposed companion node on the wolves of Ireland, Scotland, Wales and England*
+> - [🐺 The Sons of These Islands](./🐺_the_sons_of_these_islands.md) — *companion node on wolves, cultural memory, sovereignty and restoration*
 > - [📐 English Land Controls](./📐_english_land_controls.md) — *how conquest and title become tenancy, rent and embodied economic power*
 > - [🥔 *Phytophthora infestans*](./🥔_phytophthora_infestans.md) — *the biological disturbance entering the pre-existing system*
 > - [🌾 There Was Always Food In Ireland](./🌾_there_was_always_food_in_ireland.md) — *food production, ownership, trade and command after subsistence failure*
