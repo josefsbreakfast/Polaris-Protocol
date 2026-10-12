@@ -1,5 +1,5 @@
 # 🙅🏻‍♂️ Sie Sind Hier Nicht Erwünscht
-**First created:** 2026-10-10 | **Last updated:** 2026-10-11  
+**First created:** 2026-10-10 | **Last updated:** 2026-10-12  
 *Doikayt at the doorway: Jewish students, the politics of remembrance, and solidarity that does not wait for ideological consensus.*
 
 ---
@@ -344,7 +344,10 @@ And there is something worth learning from the simplicity of that.
 - [📹: Oliver Portius, via TikTok: “Der laut Vertassungschutz rechtsextreme AfD-Politiker und neuer Vize des Landtags in Sachsen-Anhalt Hans-Thomas Tillschneider wollte an einer Gedenkveranstalltung anlässlich des rechtsextremen Anschlagsnauf die Synagoge in Halle vor 7 Jahren teilnehmen. Eine Menschenkette verwehte ihm den Zutritt.”](https://vm.tiktok.com/ZN8BD8tBT/) – *Tillschneider knows it’s an imagine ticket; the far right understands optics*
 - [📹: LeStaffell: “AfD, Tillschneider, rechtsaußen, Synagoge, Gedenken & ein Dilemma.”](https://vm.tiktok.com/ZN8BDDUpf/) – *coercive power encourages narcisstic responses, and so we should never be surprised that actors like the AfD are “the real victim”; if you don’t want to be compared to Nazis in derogatory terms, do not mimic Nazis and enact decisions which make others feel profoundly unsafe*
 - [📹: Bobbie Serrano: “Tilly und die Würde”](https://vm.tiktok.com/ZN8BDk1S7/) – *no notes.*
-- [📹: Ronny, via TikTok: “Da ist es wieder, das Opfer AfD. Ein Mitglied einer Rechtsextremen Partei, hat in einer Synagoge, nicht zu suchen, gar nichts. Vielen Dank an die Studenten die diesen Ort vor einer Inszenierung durch die AfD geschützt haben.”](https://vm.tiktok.com/ZN8BDgTsF/) – *honestly, the more I watch, the more it reminds me of when Logan Paul went into Aokigahara for the clout. never again.*  
+- [📹: Ronny, via TikTok: “Da ist es wieder, das Opfer AfD. Ein Mitglied einer Rechtsextremen Partei, hat in einer Synagoge, nicht zu suchen, gar nichts. Vielen Dank an die Studenten die diesen Ort vor einer Inszenierung durch die AfD geschützt haben.”](https://vm.tiktok.com/ZN8BDgTsF/) – *honestly, the more I watch, the more it reminds me of when Logan Paul went into Aokigahara for the clout. never again.*
+- [📹: Ali Doğan, via TikTok: “Aus jüdischen Studierenden werden
+„linke Studenten".”](https://vm.tiktok.com/ZN8Baub2f/) – *”PolitiSche Vereinhanming beginnit nicher immer spektakulär. Manchmal beginnt sie mit Sprache. Mit Weglassen. Mit Framing.
+Deshalb müssen wir genau hinschauen. Unsere demokratischen Institutionen gehören keiner Partei. Sie gehören uns allen.”*  
 
 ---
 
@@ -377,4 +380,4 @@ The node preserves the distinction between the students' own actions and the aut
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-11_
+_Last updated: 2026-10-12_
