@@ -1,5 +1,5 @@
 # 🪨 Stolpersteine
-**First created:** 2026-09-29 | **Last updated:** 2026-10-11  
+**First created:** 2026-09-29 | **Last updated:** 2026-10-12  
 *What happens when a society gives the dead a few centimetres of the ordinary present — and why the architecture of remembrance changes what memory can do.*
 
 ---
@@ -1537,7 +1537,8 @@ It is enough to defend the capacity.
 
 *Follow the evidence:*  
 
-- [📹: Nota Bene, via TikTok :”Encore une nouvelle dont on se serait bien passé...💀”](https://vm.tiktok.com/ZN8BSbFbX/)  
+- [📹: Nota Bene, via TikTok :”Encore une nouvelle dont on se serait bien passé...💀”](https://vm.tiktok.com/ZN8BSbFbX/)
+- [📹: beat2battlefield, via TikTok](https://vm.tiktok.com/ZN8BmLdwm/) – *includes UK stumble stones*  
 
 ---
 
@@ -1564,4 +1565,4 @@ collective memory, remembrance culture, embodied memory, ambient memory, memoria
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-11_
+_Last updated: 2026-10-12_
