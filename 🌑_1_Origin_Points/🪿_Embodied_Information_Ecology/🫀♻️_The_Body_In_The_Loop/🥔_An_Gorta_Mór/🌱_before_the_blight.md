@@ -1,6 +1,6 @@
 # 🌱 Before the Blight
 
-**First created:** 2026-10-06 | **Last updated:** 2026-10-06
+**First created:** 2026-10-06 | **Last updated:** 2026-10-12
 *Before the potato failed, Ireland already had a history.*
 
 ## 🛰️ Orientation
@@ -11,7 +11,9 @@ It does not begin with a rotten potato.
 
 That is deliberate.
 
-The organism matters. The potato matters. But neither arrived in an empty landscape. By 1845, Ireland's population, landholding, agriculture, poverty, political institutions, religious divisions, regional economies and relationship with Britain had histories extending centuries backwards.
+The organism matters. The potato matters. But neither arrived in an empty landscape. By 1845, Ireland's population, landholding, agriculture, poverty, political institutions, religious divisions, languages, landscapes, regional economies and relationship with Britain had histories extending centuries backwards.
+
+The land was not merely an arrangement of fields and rents. It was also woodland, rivers, animals, languages, stories, labouring bodies and the administrative categories through which governments attempted to understand them. Some relationships had already been broken; others were being remade.
 
 The blight entered that system.
 
@@ -42,6 +44,10 @@ It had inequalities of wealth, status and power.
 It had property and exchange.
 
 We do not need the society that existed before conquest to have been perfect in order to ask what conquest changed.
+
+Nor do we need to imagine a pristine island waiting for the first English axe. Ireland's woods, wetlands, pastures and settlements had been shaped by people for thousands of years. Woodland decline did not begin with the Tudors; neither farming nor animal persecution was introduced by colonisation. But later governments and landowners could redirect those older processes through new powers, markets and incentives.
+
+Wolves lived here long before the institutions whose records later describe their destruction. They were predators, sometimes feared, sometimes hunted, and also inhabitants of stories and place names. The Irish *mac tíre* — conventionally rendered *son of the land* or *son of the country* — makes a particularly arresting reminder that a creature can occupy a cultural landscape as well as a physical one. The phrase is not proof that everybody loved wolves. The annals themselves record attacks and scavenging. The point is that the animals belonged to the world people understood, argued about and lived within.
 
 That distinction matters throughout this cluster. The question is not:
 
@@ -149,7 +155,9 @@ Henry VIII's government moved from the older lordship towards the **Kingdom of I
 
 But incorporation existed alongside coercion.
 
-English law and administration expanded. The Reformation added an increasingly important religious dimension. Resistance, rebellion and military campaigns followed. Plantation experiments sought not merely to defeat opponents but to reorganise territory through confiscation and settlement.
+English law and administration expanded. The Reformation added an increasingly important religious dimension. Language, clothing and custom also became objects of government attention. The Irish parliament's 1537 legislation concerning English order, habit and language is a particularly useful point of entry: its precise clauses, intended subjects and enforcement need to be read in the statute itself, rather than reduced to the claim that speaking Irish was simply banned everywhere. A government could try to make conduct *legible* as loyalty or disloyalty without succeeding in making the population conform.
+
+Later sixteenth-century schemes for reform and plantation similarly joined questions of education, religion, settlement and cultural practice. Proposed measures were not always implemented measures; a letter advocating a policy is evidence of an intention, not proof of its universal execution. Resistance, rebellion and military campaigns followed. Plantation experiments sought not merely to defeat opponents but to reorganise territory through confiscation and settlement.
 
 This is where political conquest increasingly becomes something larger:
 
@@ -203,6 +211,8 @@ Under James VI and I, confiscated lands were reorganised through a large plantat
 
 Religion, land, political authority and settlement became deeply entangled.
 
+The plantation's published conditions and subsequent administration deserve attention as *design documents*. They distinguished classes of grantees, imposed conditions on occupation and building, and sought to influence which people could hold or occupy particular lands. English and Scottish migration, surviving Irish tenancy, evasion of rules and local accommodation did not always match the scheme drawn up by officials. We should not turn a proposed exclusion into a claim that no Irish tenant remained, or mistake the presence of settlers for an uncomplicated replacement of one population by another.
+
 But we should resist projecting later identities backwards.
 
 A seventeenth-century Scottish Presbyterian settler is not simply a twentieth-century Unionist who has accidentally travelled through time.
@@ -229,7 +239,57 @@ It makes them historical.
 
 ---
 
-## 6. 🗺️ Cromwell, War And The Administrative Remaking Of Land
+## 6. 🐺 The Wolves Were Here First
+
+A history of land cannot stop at the humans holding title to it.
+
+Long before the Anglo-Norman intervention, wolves inhabited Ireland. Archaeological remains place them in the island's deep prehistory, although individual dates and interpretations must be checked against the excavation literature. Their presence also survives in place names, stories, annals and accounts of encounters with people. The *mac tíre* was not an ornamental character invented for a modern conservation campaign. It was a living animal with teeth, prey, territory and an inconvenient habit of refusing to recognise property boundaries.
+
+That last inconvenience matters.
+
+Across these islands, wolves were persecuted for centuries. They could threaten livestock and sometimes people; hunters and rural communities had reasons of their own to fear or kill them. Their decline cannot be explained by one conquest, one law or one landlord. Woodland loss likewise had a long history. But Ireland's later wolf records reveal something distinctive about the political and economic administration of the landscape.
+
+### 🌳 A changing habitat
+
+Woodland clearance, agricultural expansion, grazing, settlement and timber extraction altered habitats and the relationships between predators, prey, livestock and people. The timing and extent varied by region. Plantation and commercial land use formed part of that history, not its beginning. A field was not simply a field: it was land made available for particular uses, to particular people, under particular rules, often at the expense of other possible relationships with that place.
+
+### 🪙 Making the killing payable
+
+Accounts of Tudor and seventeenth-century administration describe organised campaigns against wolves. Measures associated with John Perrot in the 1580s precede the larger body of bounty records from the Cromwellian period. A frequently reproduced 1652 schedule gives different rewards for female wolves, males, younger animals and pups. Those figures, and the claimed sums paid, require checking against the original orders and accounts before we treat them as settled archival facts.
+
+Even with that caution, the mechanism is clear enough to investigate: the authorities could attach money to the removal of living animals. They did not need to persuade every hunter to share a philosophy of environmental improvement. A bounty could recruit labour to produce an ecological result.
+
+And there is a further, extraordinarily revealing claim in the secondary literature: Cromwellian authorities reportedly worried about permitting armed Irish people to roam the countryside as wolf hunters, and favoured hunters from England. **Who was allowed to carry weapons and move across the land became part of the question of who could kill its predators.** That political-security rationale needs tracing to its contemporary source; until then it is a reported interpretation, not a verbatim government instruction.
+
+```text
+LAND USE + LIVESTOCK INTERESTS
+              ↓
+      WOLVES AS A PROBLEM
+              ↓
+    BOUNTIES + HUNTING
+              ↕
+   ARMS + MOVEMENT + TRUST
+              ↓
+   CHANGES IN THE LANDSCAPE
+```
+
+War could complicate the pattern. Accounts from the sixteenth and seventeenth centuries describe wolves among ruined settlements, battlefields and places where the dead went unburied. Those passages are not a census of wolf numbers, nor proof that every reported human death was caused by a wolf. They show animals inhabiting the aftermath of human violence. Disrupted settlement could temporarily create opportunities for wolves even while longer-term persecution and land-use change helped eliminate them.
+
+### 🐺 A disappearance before the blight
+
+The killing of a wolf near Mount Leinster in **1786** is conventionally cited as Ireland's last wild wolf. It is safer to call this a *traditionally reported final record* than a definitively established date on which the species vanished. Extinction is seldom so obliging as to leave a signed departure notice.
+
+By 1845, however, wolves were no longer part of Ireland's wild fauna. Their disappearance did not cause the potato blight, and wolves must not be made into interchangeable stand-ins for dispossessed people. They have a history of their own.
+
+But that history belongs here because it shows that the centuries preceding the Famine transformed **living relationships**, not only legal ownership. An animal that had inhabited Ireland for millennia could be reclassified as a threat to property, assigned a price for its death and ultimately removed from the landscape.
+
+> **The map recorded who could claim the land. The bounty helps us ask what was permitted to live on it.**
+
+> 🐺 **Possible companion node:** [The Sons of These Islands](./🐺_the_sons_of_these_islands.md) — *proposed, not yet written; a wider history of wolves across Ireland, Scotland, Wales and England, including folklore, ecology and extermination.*
+
+---
+
+## 7. 🗺️ Cromwell, War And The Administrative Remaking Of Land
 
 The wars of the 1640s and Cromwellian conquest produced another enormous transformation in Irish landholding.
 
@@ -261,6 +321,8 @@ REDISTRIBUTION
 
 The map is not merely a picture drawn after the violence has finished.
 
+It is worth reading this beside the wolf bounties described above. The survey and the hunting orders did different things; neither should be reduced to the other. Yet both show authorities intervening in relationships between land, bodies and governance. One helped turn territory into recognised property. The other sought to make particular animals disappear from that territory, while reportedly policing who could move armed across it.
+
 The map can become part of the mechanism by which the consequences of conquest are made administratively durable.
 
 Land becomes measurable.
@@ -281,7 +343,7 @@ That is one of the central transformations we will follow into:
 
 ---
 
-## 7. 📐 When Conquest Becomes Ordinary Property
+## 8. 📐 When Conquest Becomes Ordinary Property
 
 The Restoration modified the Cromwellian settlement.
 
@@ -319,7 +381,7 @@ And that brings us to another rule for this cluster.
 
 ---
 
-## 8. 🕸️ People Inherit Systems; They Are Not Interchangeable With Them
+## 9. 🕸️ People Inherit Systems; They Are Not Interchangeable With Them
 
 Colonial systems are built and maintained by people.
 
@@ -365,19 +427,23 @@ different?
 
 This is especially important when we later reach modern arguments about Britishness, Irishness, Protestantism, Catholicism and Unionism.
 
+Nor were these mechanisms uniquely Irish. Enclosure in England, clearance and estate transformation in Scotland, cultural marginalisation in Wales, and colonial settlement in Ireland belong to overlapping but non-identical histories. The useful comparison asks which authorities could compel movement, enforce title, regulate custom or make subsistence dependent on another person's permission. It should not erase the specifically colonial dimensions of conquest and plantation in Ireland, or pretend every practice moved neatly in one direction from these islands to overseas empires. If we claim an administrative technique travelled, we should trace the people, laws or institutions that carried it.
+
 The purpose of reconstructing historical power is not to manufacture hereditary guilt.
 
 It is to understand what the power **did**, what survived it, and what---if anything---still requires changing.
 
 ---
 
-## 9. ⛪ Religion, Land And The Protestant Ascendancy
+## 10. ⛪ Religion, Land And The Protestant Ascendancy
 
 By the eighteenth century, political power, established religion and landownership had become strongly associated with a Protestant elite.
 
 The **Protestant Ascendancy** is useful shorthand, but shorthand can flatten.
 
 The Church of Ireland was the established church. Penal legislation imposed serious restrictions on Catholics and, in different ways, Protestant dissenters. Those restrictions changed over time and were gradually modified; they were not one static code operating identically for a century.
+
+Education, inheritance, political participation and religious practice could each be regulated through different rules. Language requires a separate chronology. The Tudor state's attempts to impose English usage, eighteenth-century religious disabilities and the nineteenth-century national-school system were not a single uninterrupted statute against Irish speech. Yet together with economic and political pressures they formed part of the environment in which languages gained or lost institutional standing. The question is what a person could do in Irish, in English, or only with an intermediary — and who had the power to decide.
 
 Nor does *Protestant* describe a single political population.
 
@@ -393,7 +459,7 @@ That complexity becomes particularly visible in the political upheavals at the e
 
 ---
 
-## 10. ⚔️ 1798 And The Union
+## 11. ⚔️ 1798 And The Union
 
 The **Society of United Irishmen** emerged from the radical political world of the late eighteenth century, influenced by the American and French revolutions and drawing support across religious backgrounds, although the politics and violence of the period became increasingly sectarian in important places.
 
@@ -429,7 +495,7 @@ We will return to it directly in:
 
 ---
 
-## 11. 🗳️ The Union Did Not Settle The Irish Question
+## 12. 🗳️ The Union Did Not Settle The Irish Question
 
 Union did not remove conflict over religion, political representation, land or sovereignty.
 
@@ -438,6 +504,10 @@ The decades before the Famine saw major political mobilisation.
 Daniel O'Connell built a mass movement around **Catholic emancipation**, achieved in 1829, and subsequently campaigned for repeal of the Union.
 
 The period also contained tithe conflict, agrarian organisation and violence, campaigns over representation and reform, and the emergence of **Young Ireland** before the Famine.
+
+Emancipation itself demonstrates why a reform cannot be assessed from its headline alone. The 1829 settlement removed major Catholic political disabilities while raising the Irish county voting qualification, disenfranchising many forty-shilling freeholders. A measure could widen access to Parliament for some Catholics while narrowing electoral participation for poorer voters. The body politic did not move as one unit.
+
+The **1831 national-school system** and **1838 Irish Poor Relief Act** also belong in this pre-blight chronology. They are not evidence that famine relief had already been planned; they are institutions through which education, poverty and eligibility for assistance were being defined and administered before 1845.
 
 This chronology matters because later history can otherwise become suspiciously convenient:
 
@@ -467,7 +537,7 @@ It did not invent the dispute.
 
 ---
 
-## 12. 🏭 Ireland Was Not One Economy
+## 13. 🏭 Ireland Was Not One Economy
 
 Pre-Famine Ireland was overwhelmingly rural and agricultural.
 
@@ -489,13 +559,15 @@ That means there is no single representative **Irish household** whom we can pla
 
 A substantial farmer producing for market and a labouring family cultivating potatoes on a tiny plot could inhabit the same island while living inside very different relationships to land, food and risk.
 
+Diets varied accordingly. Potatoes, often eaten with milk or buttermilk, could provide substantial nourishment for poorer households; fish, oats, vegetables and animal products also mattered, but access differed by region, class and season. Potato reliance should not be treated as proof that everyone consuming potatoes was already starving. Its danger lay partly in how much household survival could depend on a crop grown on a small plot, with little cash available to buy alternatives.
+
 Those differences will become lethal.
 
 But they are not yet lethal.
 
 ---
 
-## 13. 👨‍🌾 Ireland Was Not One Class
+## 14. 👨‍🌾 Ireland Was Not One Class
 
 By the eve of the Famine, rural society included:
 
@@ -513,6 +585,10 @@ By the eve of the Famine, rural society included:
 -   clergy;
 -   professionals;
 -   and many positions that refuse our desire for a tidy hierarchy.
+
+Cottiers and labouring households require particular care here. A cottier might obtain a small potato plot through an arrangement involving rent, labour or both, but the terms differed. A family could have enough ground to produce subsistence calories without having secure tenure, savings or sufficient wages to purchase food if that crop failed. **Access to land is not the same as ownership of land; growing food is not the same as commanding the market for food.**
+
+Nor should a person missing from a parish register or estate ledger be presumed absent from the census. Archives have different purposes. A landlord's list, a baptism register and a population return do not record the same relationships.
 
 The distinction matters because one of the easiest ways to misunderstand An Gorta Mór is to say:
 
@@ -542,7 +618,7 @@ The closer we get to the Famine, the less useful *the Irish* becomes as an econo
 
 ---
 
-## 14. 🗺️ There Was More Than One Rural Ireland
+## 15. 🗺️ There Was More Than One Rural Ireland
 
 National descriptions can conceal radically different local systems.
 
@@ -560,11 +636,39 @@ Regional variation therefore belongs inside the explanation before the blight ar
 
 ---
 
-## 15. 🏚️ Poverty Was Already Visible
+## 16. 🏚️ Poverty Was Already Visible
 
-The 1841 Census counted more than **eight million people** in Ireland.
+The 1841 Census counted more than **eight million people** in Ireland — approximately **8.18 million**. The number is important. So is the kind of information the state was collecting.
 
 It also attempted to classify houses and families, leaving an unusually important statistical picture of living conditions immediately before the catastrophe.
+
+The census was conceived as more than a bare headcount. Its published reports and associated inquiries classified houses and families, occupations, literacy and other social conditions. This matters because poverty was not simply a condition experienced privately by the poor. Some of its material signs were being converted into information legible to government.
+
+### 🏚️ Houses as information
+
+The census's housing classifications included a lowest category often described as **fourth-class houses**, typically one-room mud cabins. A category is not a person's entire life, and its distribution was not uniform across Ireland. But it provides evidence of the material circumstances in which many households lived. Housing also shaped exposure to illness, crowding and the ability to survive a shock. Later comparisons with the 1851 population must separate deaths from emigration and other movement; a correlation between poor housing and population decline is not, by itself, a count of famine deaths.
+
+### 📖 What counted as literacy?
+
+Literacy returns deserve particular care. Published summaries distinguish people who could read and write, those who could read only, and those recorded as unable to read. Before reproducing percentages, we need to check the original question, population denominator and instructions: **what language or languages could the enumerators actually recognise?** An administrative classification cannot automatically tell us everything about someone's ability to speak Irish, read a text in Irish or navigate an oral culture. Neither should we assume Irish-language literacy existed wherever Irish was spoken.
+
+### 🩺 What was known about health and mortality?
+
+William Wilde's work on mortality and the census material provides a further route into the conditions officials could describe before the Famine. Here, too, the chain of evidence matters: what was recorded, when it was published, which officials received it and what conclusions they drew. The existence of a published report is not proof that every minister understood its implications.
+
+```text
+LIVED CONDITIONS
+       ↓
+OBSERVATION + ENUMERATION
+       ↓
+CATEGORIES + PUBLISHED REPORTS
+       ↓
+OFFICIAL INTERPRETATION
+       ↓
+ACTION / INACTION / MISDIRECTED ACTION
+```
+
+A state can count a vulnerable population without providing that population with the means to survive. **Information gathered is not the same as protection delivered.**
 
 But population growth should not be converted into a morality tale.
 
@@ -604,7 +708,7 @@ It is why so many households had so little room for a major subsistence shock.
 
 ---
 
-## 16. 🌾 A Precarious Agricultural System
+## 17. 🌾 A Precarious Agricultural System
 
 For many poor rural households, access to a small plot of land could function as part of the wage and subsistence system.
 
@@ -662,7 +766,7 @@ It also meant that if the crop failed, the household might not possess an equiva
 
 ---
 
-## 17. 🔁 Ireland Had Met Subsistence Stress Before
+## 18. 🔁 Ireland Had Met Subsistence Stress Before
 
 The catastrophe beginning in 1845 was unprecedented in scale and duration.
 
@@ -678,6 +782,8 @@ Second, it prevents us treating mass death as the automatic consequence of every
 
 Previous shocks had occurred without producing the same sequence of mortality, displacement and demographic rupture.
 
+The severe **1740–41 crisis**, often called the *Year of Slaughter*, deserves attention alongside later shortages and local potato failures. The point is not to collapse these events into one repeated famine. Their causes, scale and administrative settings differed. They do, however, complicate any claim that Irish subsistence vulnerability was a wholly new discovery in 1845. By then the 1838 Poor Law had also established a workhouse-centred relief framework, whose assumptions and limitations would become consequential.
+
 That leaves a question for the later administrative nodes:
 
 > **What had governing institutions learned from previous subsistence shocks, and what did they believe those precedents meant when a new kind of crop disease arrived?**
@@ -688,7 +794,7 @@ It is not an argument that the Great Hunger was inevitable.
 
 ---
 
-## 18. 🥔 The Potato Is Not Yet Dead
+## 19. 🥔 The Potato Is Not Yet Dead
 
 And this is where this node stops.
 
@@ -715,6 +821,10 @@ People were growing oats.
 People were spinning linen.
 
 People were raising cattle.
+
+The wolves were gone, although the stories and names remained.
+
+People were still living among woodlands, fields, bogs, rivers and coasts that had changed over centuries.
 
 People were digging potatoes.
 
@@ -762,6 +872,14 @@ The next three nodes pull apart mechanisms that will shortly collide:
 
 Only after those mechanisms are visible do we let the crop fail.
 
+A separate, proposed companion study — [🐺 The Sons of These Islands](./🐺_the_sons_of_these_islands.md) — can carry the wolves' longer history without asking them to stand in for the people whose lives this node is preparing to follow.
+
+---
+
+## 🔎 Evidence Still To Verify
+
+The expanded passages distinguish established broad chronology from details that still need primary-source checks. Before treating the wolf bounty amounts, the reported concern over armed Irish hunters, the 1786 final sighting, the 1537 statutory clauses or the census literacy categories as fully established, consult the relevant original records and specialist scholarship. These are research questions, not hidden citations.
+
 ---
 
 ## 📚 Sources
@@ -783,26 +901,38 @@ https://www.ucc.ie/en/media/projectsandcentres/irishrevolution/documents/U1.ASHO
 
 ---
 
+### Further research leads — not yet independently checked for this revision
+
+- Original Irish statute commonly titled *An Act for the English Order, Habit and Language* (1537): verify text, jurisdiction and enforcement.
+- *Orders and Conditions* for the Ulster Plantation (1610): compare intended settlement restrictions with practice.
+- Original *Census of Ireland, 1841* report and instructions: housing, literacy and mortality classifications; William Wilde's contributions.
+- Early-modern wolf scholarship and the underlying Irish state papers / revenue accounts: Perrot-era measures, 1652 bounty schedule, hunting restrictions and the Mount Leinster tradition.
+- Historical woodland and land-use scholarship: distinguish prehistoric clearance, early modern exploitation and nineteenth-century landscapes.
+- Comparative enclosure, clearance and imperial-administration scholarship: trace mechanisms rather than asserting universal equivalence.
+
+---
+
 ## 🌌 Constellations
 
-🌱 📐 🥔 🫀 ☘️ — pre-Famine system formation; land power; subsistence vulnerability; embodied history; Irish political inheritance.
+🌱 📐 🥔 🫀 ☘️ 🐺 🌳 — pre-Famine system formation; land power; subsistence vulnerability; embodied history; Irish political inheritance; wolves; ecological transformation.
 
 ---
 
 ## ✨ Stardust
 
-pre-famine ireland, colonial administration, land transformation, plantation, protestant ascendancy, acts of union, rural class, archival silence, inherited systems, subsistence
+pre-famine ireland, colonial administration, land transformation, plantation, protestant ascendancy, acts of union, rural class, archival silence, inherited systems, subsistence, wolves, mac tíre, wolf bounties, woodland, ecology, 1841 census, literacy, cottiers
 
 ---
 
 ## 🏮 Footer
 
-*🌱 Before the Blight* is a living node of the **Polaris Protocol**. It establishes the historical system into which the biological disturbance arrived: conquest, land transformation, political incorporation, class structure, agricultural precarity and the archival problems produced by those systems.
+*🌱 Before the Blight* is a living node of the **Polaris Protocol**. It establishes the historical system into which the biological disturbance arrived: conquest, land and ecological transformation, political incorporation, class structure, agricultural precarity, information-gathering and the archival problems produced by those systems.
 
 > **The blight arrived in a system with a history.**
 
 > 📡 Cross-references:
 >
+> - [🐺 The Sons of These Islands](./🐺_the_sons_of_these_islands.md) — *proposed companion node on the wolves of Ireland, Scotland, Wales and England*
 > - [📐 English Land Controls](./📐_english_land_controls.md) — *how conquest and title become tenancy, rent and embodied economic power*
 > - [🥔 *Phytophthora infestans*](./🥔_phytophthora_infestans.md) — *the biological disturbance entering the pre-existing system*
 > - [🌾 There Was Always Food In Ireland](./🌾_there_was_always_food_in_ireland.md) — *food production, ownership, trade and command after subsistence failure*
@@ -821,4 +951,4 @@ pre-famine ireland, colonial administration, land transformation, plantation, pr
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-06_
+_Last updated: 2026-10-12_
