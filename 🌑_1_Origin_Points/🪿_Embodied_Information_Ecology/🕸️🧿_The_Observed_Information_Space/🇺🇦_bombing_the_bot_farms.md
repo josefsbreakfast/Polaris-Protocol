@@ -272,6 +272,9 @@ It is **what became quieter, by how much, for how long, and what — if anything
 *Follow the evidence:*  
 
 - [📹: ThotLine News and Politics: “This has always been the case. What else can be expected from a country run by a KGB agent and his cronies??”](https://vm.tiktok.com/ZN8BX9cP7/) – *personally I’m laughing my bollocks off that it’s this obvious at this point; Слава Україні! Героям слава!*
+- [📹: Aaron Parnas, via TikTok: “News: Ukraine And Zelenskyy Confirm Strikes Disrupt Russian Bot Networks - They Will Continue”](https://vm.tiktok.com/ZN8B4Rmy5/)  
+- [📹: MeidasTouch, via TikTok: “Zelenskyy: It ‘Suddenly Became A Little Easier To Breathe On Many Social Media Platforms’ After Ukraine Struck Russian Data Centers”](https://vm.tiktok.com/ZN8B4Yr1H/)  
+- [📹: Nick Wolny, via TikTok: “How AI Is Changing Bots”](https://vm.tiktok.com/ZN8B42HM6/)
 
 ---
 
