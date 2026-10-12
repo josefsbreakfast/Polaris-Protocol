@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-12 12:53:14 UTC_
+_Generated on 2026-10-12 14:09:06 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2529,6 +2529,7 @@ _Generated on 2026-10-12 12:53:14 UTC_
         - [`🌿_the_demographic_scar.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🌿_the_demographic_scar.md)
         - [`🍉_what_oct_09_meant.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🍉_what_oct_09_meant.md)
         - [`🏛️_what_britain_did.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🏛️_what_britain_did.md)
+        - [`🐺_the_sons_of_these_islands.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🐺_the_sons_of_these_islands.md)
         - [`📐_english_land_controls.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/📐_english_land_controls.md)
         - [`🔥_eviction_and_clearance.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🔥_eviction_and_clearance.md)
         - [`🕯️_the_lawful_catastrophe.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/🕯️_the_lawful_catastrophe.md)
