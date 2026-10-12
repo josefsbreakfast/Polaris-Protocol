@@ -1,0 +1,100 @@
+”🥔 I’d suggest working through the cluster in causal order, rather than alphabetical order or the order the nodes were written.
+
+That way, each polished node establishes the evidence and mechanisms needed by the next. We also avoid repeatedly correcting the same historical assumptions.
+
+🧭 Recommended refinement order
+
+🌱 Phase 1 — Establish the conditions
+
+These nodes build the historical environment before we examine the catastrophe itself.
+
+1. 🌱 Before The Blight
+2. 📐 English Land Controls
+3. 🥔 Phytophthora infestans
+4. 🌾 There Was Always Food In Ireland
+
+Objective: Establish what existed, who controlled it, who depended on it, and what the biological disturbance actually changed.
+
+🏛️ Phase 2 — Reconstruct the governing machinery
+
+5. 🇬🇧 What Britain Knew
+6. 🏛️ What Britain Did
+7. 🔥 Eviction And Clearance
+8. 🕯️ The Lawful Catastrophe
+
+Objective: Reconstruct the relationship between information, institutional decisions, property rights, relief mechanisms and their consequences.
+
+I’d pay particular attention to chronology here. The difference between what an institution knew initially and what it continued doing after receiving evidence of harm is central to the cluster.
+
+🫀 Phase 3 — Follow the consequences into bodies
+
+9. 🪦 How And Why People Died
+10. 🚢 Where Everybody Went
+11. 🌿 The Demographic Scar
+
+Objective: Establish mortality mechanisms, displacement, migration and the longer demographic consequences.
+
+This is where the cluster’s position inside The Body In The Loop becomes especially important.
+
+🩸 Phase 4 — Classification and historical interpretation
+
+12. 🌫️ What Do We Call It?
+13. 🩸 Why Call It Genocide?
+14. 🗺️ Translation Is Not Equivalence
+
+Objective: Evaluate terminology and historical classification against the mechanisms established in the preceding nodes.
+
+I would deliberately leave the genocide node until this point. Not because the question is secondary, but because it deserves the strongest possible evidentiary foundation.
+
+☘️ Phase 5 — Historical afterlives
+
+15. ☘️ Land And Independence
+16. ☘️ Remembering An Gorta Mór
+17. 🫀 Bodies In Bronze
+
+Objective: Follow changes in land, political organisation, historical memory and public commemoration without making later developments inevitable.
+
+🪶 Phase 6 — Solidarity and contemporary translation
+
+18. 🪶 Tied Twice To Land Back
+19. ☪️ Sadaqah From The Sultan
+20. 🍉 What Oct 09 Meant
+
+Objective: Examine how information about suffering travels between communities, how people respond, and how historical knowledge can inform present-day questions without collapsing distinct histories into equivalence.
+
+The Sultan node already has particularly useful distinctions between documented assistance, disputed maritime traditions and the politics of archival evidence.  ⁠￼
+
+🥔 Phase 7 — Final integration
+
+21. 🥔 An Gorta Mór — README
+
+I’d leave the README until last.
+
+It’s already a substantial intellectual map, but polishing it before the individual nodes would risk making the navigation reflect an earlier version of the cluster.
+
+Once the nodes are refined, we can update the README to reflect what the research actually establishes, including remaining uncertainties. Its existing methodological safeguards are worth preserving.  
+
+⸻
+
+🪿 How I’d approach each node
+
+For each, I’d use the same four-stage process:
+
+1. Editorial audit: What works, what repeats, what’s missing, and what needs clarification?
+2. Historical and evidentiary audit: Which claims are established, contested, insufficiently sourced or potentially inaccurate?
+3. Systems audit: Are the causal mechanisms and relationships with neighbouring nodes adequately developed?
+4. Polish: Improve structure, navigation, sourcing and readability without sacrificing your voice or the node’s substance.
+
+We should also maintain a cluster-wide issue register so that discoveries in later nodes can be carried back into earlier ones without losing track.
+
+⭐ One important recommendation
+
+Don’t try to make every node publication-perfect on its first pass.
+
+I’d complete the structural and evidentiary audits across each phase, then polish the nodes together. That allows us to catch contradictions between neighbouring accounts before committing to final wording.
+
+And I would keep the README’s existing warning that this is active research. The cluster explicitly documents uncertainties and previous LLM failures; those are part of its provenance, not embarrassing leftovers to tidy away.  
+
+My suggested starting point: 🌱 Before The Blight.
+
+Because before we can explain why the catastrophe killed people, we need to understand the system in which those people were already trying to live. 🥔”
