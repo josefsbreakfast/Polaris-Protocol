@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-12 14:57:12 UTC_
+_Generated on 2026-10-12 15:03:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -5558,6 +5558,7 @@ _Generated on 2026-10-12 14:57:12 UTC_
         - [`natural_text_vaccination_against_prompt_injection.md`](🏮_Admin_Nest/🏮_Admin_Kit/🤖_Meet_Robit/🍪_Raw_Files/natural_text_vaccination_against_prompt_injection.md)
         - [`notes.txt`](🏮_Admin_Nest/🏮_Admin_Kit/🤖_Meet_Robit/🍪_Raw_Files/notes.txt)
       - [`README.md`](🏮_Admin_Nest/🏮_Admin_Kit/🤖_Meet_Robit/README.md)
+      - [`🐺_working_like_a_wolf.md`](🏮_Admin_Nest/🏮_Admin_Kit/🤖_Meet_Robit/🐺_working_like_a_wolf.md)
       - [`👾_bloke_robit_chat_1.PNG`](🏮_Admin_Nest/🏮_Admin_Kit/🤖_Meet_Robit/👾_bloke_robit_chat_1.PNG)
       - [`👾_bloke_robit_chat_2.PNG`](🏮_Admin_Nest/🏮_Admin_Kit/🤖_Meet_Robit/👾_bloke_robit_chat_2.PNG)
       - [`💉_vaccination_against_prompt_injection.md`](🏮_Admin_Nest/🏮_Admin_Kit/🤖_Meet_Robit/💉_vaccination_against_prompt_injection.md)
