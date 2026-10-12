@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-12 04:58:55 UTC_
+_Generated on 2026-10-12 05:23:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1546,6 +1546,7 @@ _Generated on 2026-10-12 04:58:55 UTC_
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/.🌱_Still_Growing/notes.txt)
       - [**☘️_Caution_Decolonisation_In_Process/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/☘️_Caution_Decolonisation_In_Process/)
         - [`20261002_🧠🫀.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/☘️_Caution_Decolonisation_In_Process/20261002_🧠🫀.md)
+        - [`20261012.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/☘️_Caution_Decolonisation_In_Process/20261012.md)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/☘️_Caution_Decolonisation_In_Process/README.md)
       - [**🛟_Borders_Boats_Walls/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/🛟_Borders_Boats_Walls/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/🛟_Borders_Boats_Walls/README.md)
