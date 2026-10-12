@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-12 06:22:19 UTC_
+_Generated on 2026-10-12 12:53:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2517,6 +2517,7 @@ _Generated on 2026-10-12 06:22:19 UTC_
         - [`🪜_temporal_containment.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🕰️_Chronos_Or_Kairos/🪜_temporal_containment.md)
       - [**🥔_An_Gorta_Mór/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/README.md)
+        - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/notes.txt)
         - [`☘️_land_and_independence.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/☘️_land_and_independence.md)
         - [`☘️_remembering_an_gorta_mór.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/☘️_remembering_an_gorta_mór.md)
         - [`☪️_sadaqah_from_the_sultan.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🥔_An_Gorta_Mór/☪️_sadaqah_from_the_sultan.md)
