@@ -1,5 +1,5 @@
 # 🇺🇦 Bombing the Bot Farms
-**First created:** 2026-10-11 | **Last updated:** 2026-10-11  
+**First created:** 2026-10-11 | **Last updated:** 2026-10-12  
 *An infrastructural interruption, a disputed bot-traffic number, and the question of what becomes quieter when part of an observed information environment loses computational support.*
 
 ---
@@ -267,7 +267,11 @@ It is **what became quieter, by how much, for how long, and what — if anything
 
 ## 🌌 Constellations
 
-🪿 🕸️ 🧿 🤖 🕳️ — Embodied Information Ecology; the Observed Information Space; computational dependencies; artificial participation; observable reductions and human feedback.
+🪿 🕸️ 🧿 🤖 🕳️ — Embodied Information Ecology; the Observed Information Space; computational dependencies; artificial participation; observable reductions and human feedback.  
+
+*Follow the evidence:*  
+
+- [📹: ThotLine News and Politics: “This has always been the case. What else can be expected from a country run by a KGB agent and his cronies??”](https://vm.tiktok.com/ZN8BX9cP7/) – *personally I’m laughing my bollocks off that it’s this obvious at this point; Слава Україні! Героям слава!*
 
 ---
 
@@ -295,4 +299,4 @@ ukraine, yandex, data centres, russian internet, runet, livejournal, information
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-11_
+_Last updated: 2026-10-12_
