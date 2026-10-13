@@ -286,7 +286,9 @@ It is **what became quieter, by how much, for how long, and what — if anything
 - [📹: BootyWiz, via TikTok: “The Internet has been such a much more pleasant place since the bot farm data center got taken down in Russia by Ukraine.”](https://vm.tiktok.com/ZN8BgNwt6/)
 - [📹: Trk ikiguy: “после внезапного отключения катацентров Яндекса ультраправая немецкая партия (AfD), резко потеряла поддержку в соцсетях.”](https://vm.tiktok.com/ZN8Bg6nKq/)
 - [📹: mr.Black, via TikTok](https://vm.tiktok.com/ZN8BgrBSX/)
-- [📹: Michael Adam, via TikTok: “поэтому не обращайте внимания. продолжайте хуярить Россию.”](https://vm.tiktok.com/ZN8BgUN7h/) – *Слава Україні ✌️*  
+- [📹: Michael Adam, via TikTok: “поэтому не обращайте внимания. продолжайте хуярить Россию.”](https://vm.tiktok.com/ZN8BgUN7h/) – *Слава Україні ✌️*
+- [📹: Bogdan NL, via TikTok](https://vm.tiktok.com/ZN8BgQFMT/)
+- [📹: Danny, via TikTok: “the world is so much more peaceful rn”](https://vm.tiktok.com/ZN8Bg7rFW/) – *”Could mean nothing, though 🤷‍♀️”*  
 
 *If Mamdani is our mayor, Zelenskyy is my president.*  
 
