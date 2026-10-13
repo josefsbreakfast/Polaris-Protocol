@@ -1,4 +1,4 @@
-this one also needs adme and bioavailability bc that ain’t going to fucking work bro
+<!-- we need the engineering depts to start hanging out with bioscience more what even is this. i am strongly considering making the description of labour more actively comparative. ie whistle stop tour of which ligaments and pelvic muscles will need to be seperate for bambino to escape. mostly as deterrent but you know that’s going to have the opposite effect on some so idk. please stop making up shit that doesn’t work and putting it on the taxpayers tab thx. -->
 
 # 🫂 Hugging, But Make It A Bomb  
 **First created:** 2026-10-09 | **Last updated:** 2026-10-13  
