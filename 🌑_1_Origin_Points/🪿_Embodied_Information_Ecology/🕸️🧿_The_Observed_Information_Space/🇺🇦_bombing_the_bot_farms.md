@@ -281,7 +281,8 @@ It is **what became quieter, by how much, for how long, and what — if anything
 - [📹: Captain Kev, via TikTok: “It’s almost like all the right wing pays Russian bots to spread propaganda!”](https://vm.tiktok.com/ZN8BbKJj3/)
 - [📹: Виталий Дан, via TikTok: “Украина уничтожила Яндекс”](https://vm.tiktok.com/ZN8BbgvWb/)
 - [📹: Jordan the Grey, via TikTok: “Now the Russian bot farms have been taken out, let’s do a little test…”](https://vm.tiktok.com/ZN8BbnRKM/) – *comment section is lit*
-- [📹: Indy100, via TikTok: “Zelensky hailed 'genius’ for taking out Russian 'bot farms' weeks before midterm elections”](https://vm.tiktok.com/ZN8Bb7N4A/)  
+- [📹: Indy100, via TikTok: “Zelensky hailed 'genius’ for taking out Russian 'bot farms' weeks before midterm elections”](https://vm.tiktok.com/ZN8Bb7N4A/)
+- [📹: Jeawok Media, via TikTok: “Do you think what we see online from the modern right wing is shaped by bots?”](https://vm.tiktok.com/ZN8Bb7WCw/)  
 
 ---
 
