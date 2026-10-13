@@ -1,6 +1,6 @@
 # 🇺🇦 Bombing the Bot Farms
 **First created:** 2026-10-11 | **Last updated:** 2026-10-13  
-*An infrastructural interruption, a disputed bot-traffic number, and the question of what becomes quieter when part of an observed information environment loses computational support.*
+*Distributed information operations, partial infrastructure failure, and the unequal human consequences of changes in the observed information space.*
 
 ---
 
@@ -10,152 +10,149 @@
 
 An excellent line. Unfortunately, the research question is not quite so obliging.
 
-In October 2026, drone attacks disrupted facilities operated by Yandex, one of the central companies in Russia's digital ecosystem. Around the same time, a Finnish commentator drew attention to a circulating claim about a substantial change in Russian bot traffic. His provocative suggestion — that Ukraine might, in some sense, be giving Americans their democracy back by disrupting Russian information warfare — is the *starting observation*, not a finding this node adopts as fact.
+Reports of Ukrainian drone strikes affecting Yandex data-centre infrastructure in October 2026 collided with a remarkable collection of accounts from people saying that their online environments had become quieter, less hostile, and more responsive to what they actually wanted to see. Some accounts came from Ukrainians; others came from women, racialised people, trans people, and other people who regularly encounter identity-based hostility. The author reports a marked change in her own feed: less friction, fewer unwanted diversions, and more of the material she had actually chosen to follow. That is a report about the functioning of an interface, not merely a statement about mood.
 
-The author's extension is different: **if infrastructure supporting artificial participation is interrupted, might the observable effect be a *reduction* in the noise that infrastructure previously helped sustain?** And if that noise had been feeding human political behaviour, might its reduction become visible indirectly, through changes in how human actors communicate?
+The circulating story was simple: Ukraine had bombed Russian bot farms; the bots had gone quiet. The available evidence is less simple. Reported damage to computing facilities is not proof that particular political influence operations were hosted there. A graph of bot-classified requests is not a census of propaganda accounts. And monitoring that finds propaganda-posting accounts still active does not, by itself, establish that the surrounding information ecology is unchanged.
 
-This is a node about the *Observed Information Space*: the difference between a population's actual views and the activity people can see, count, react to, and mistake for those views. It is also about the very physical machinery supporting apparently intangible information.
-
-The investigation has three separate layers: **documented infrastructure disruption; an unverified numerical claim about bot traffic; and a cybernetic hypothesis about the behaviour of human systems following a change in artificial amplification.** They must not be merged just because the resulting story would be magnificent.
+**The question is not just which bots stopped posting. It is what dependencies may have changed, which outputs remained, which functions deteriorated, and who noticed.** This node separates documented reporting, attributed testimony, established technical mechanisms, and hypotheses requiring investigation. It does not identify the operator of any particular user's feed experience.
 
 ---
 
 ## 1. 💥 The Internet Has a Server Room, Actually
 
-Reuters reported on **8 October 2026** that drones struck Yandex's data centre in Russia's Ryazan region, causing a fire and suspension of operations. Its reporting described power problems in a Yandex Cloud availability zone and effects on some services, while noting Yandex's statement that core consumer services remained operational. Subsequent Reuters reporting described uncertainty over whether equipment at the Sasovo facility could be restored. By **11 October**, Reuters reported another Yandex data-centre shutdown in the Vladimir region and disruption at Kaluga. [1][2][3]
+Reuters reported on 8 October 2026 that drones struck a Yandex data centre in Russia's Ryazan region, with fire, suspended operations and disruption affecting cloud services. Follow-up reporting described uncertainty over restoration at Sasovo. On 11 October Reuters reported a further shutdown in the Vladimir region and disruption at Kaluga. Yandex said core consumer services continued operating [1–3]. These are reports of damaged or interrupted infrastructure; the particular workloads hosted there have **not** been identified here as political influence operations.
 
-These are reports of **physical attacks on computing infrastructure**, not proof of successful operations against identified political bot networks. A data centre can host ordinary services, commercial workloads, cloud applications, AI infrastructure, or other activity; the building's existence does not tell us which specific processes were running inside it.
-
-Still, the material point is striking. Information systems require buildings, power, cooling, processors, storage, fibre and staff. Remove enough of those, and an activity that appeared to exist entirely 'online' can become unavailable.
+A data centre is not an ideology. It is buildings, electricity, cooling, storage, processors, network routes, administrators and service contracts. A cloud dependency can serve people thousands of miles from the damaged building. It may also host ordinary civilian services. The distinction matters technically, evidentially and legally.
 
 🇷🇺: We have constructed a sophisticated digital ecosystem.
 
 🇺🇦: Have you considered having fewer computers?
 
-The joke establishes the vulnerability. It does **not** establish the identity of the workloads affected.
+The joke identifies a material vulnerability, **not** a verified inventory of what was inside.
 
 ---
 
-## 2. 🕸️ Why Yandex Is More Than a Search Box
+## 2. 🕷️ A Bot Is Not Necessarily the Bot You're Looking For
 
-Yandex's significance is historical as well as technical. Russian-language online information has long travelled through a combination of search, indexing, news aggregation, advertising, analytics, hosting, recommendation and platform services. A company participating in several of those layers can affect *how information is encountered* without owning every website or author involved.
+'Bot' is doing several jobs at once. A crawler indexes pages; a scraper extracts material; a monitoring agent detects new topics; analytical automation processes data; a posting bot publishes; engagement automation manipulates apparent popularity; and a human-operated influence account may be deceptive without being automated at all. These functions can overlap, but they are not synonyms.
 
-LiveJournal matters to this history. It was a major venue for Russian-language blogging, public debate and political commentary. The connection worth investigating is not the simplistic claim that Yandex 'owned LiveJournal', but the larger network of search, discovery, circulation and commercial dependencies around the Russian-language web. The detailed ownership and investment history involving SUP Media should be separately sourced before any precise corporate claim is published.
-
-This matters because **information infrastructure is not merely a warehouse of content**. It includes the systems that make particular content findable, measurable, repeatable, profitable and visible.
-
-Yandex's subsequent development into cloud and AI services adds further layers of dependency. But neither its historical influence over information circulation nor its present computational importance establishes that a given influence operation was hosted on its attacked infrastructure.
-
----
-
-## 3. 🤖 Bot Traffic Is Not a Census of Political Bots
-
-'Bot' is doing far too much work in this conversation.
-
-Automated HTTP requests include search crawlers, uptime checks, legitimate software agents, scraping, commercial automation, malicious requests and other non-human activity. **Political influence accounts** are a different analytical category. Some may be automated; some may be operated by humans; some may combine human direction with automated amplification or generated content.
-
-Coordinated inauthentic behaviour is about deceptive coordination and presentation, not simply whether a machine made an HTTP request.
-
-The historical existence of Russian state-linked influence operations is documented, including the Internet Research Agency's efforts to exploit American social divisions. That history supplies a reason to ask the question. It is **not evidence** that these particular Yandex facilities hosted those operations, or that the October strikes reduced their output.
-
-A useful set of distinctions:
-
-| Measurement or observation | What it can indicate | What it cannot establish alone |
+| Measurement | Can indicate | Cannot establish alone |
 |---|---|---|
-| Automated HTTP requests | Volume or share of classified non-human web requests | Number of political influence accounts |
-| Russian-origin IP traffic | Traffic associated with a geographic or network classification | Operator nationality or intent |
-| Yandex-related network outages | Affected services and infrastructure availability | Which covert operations were interrupted |
-| Repeated political messaging | Potential amplification or coordination | State direction without further evidence |
-| Accounts falling quiet together | A possible shared dependency | Which infrastructure caused the silence |
+| Bot-classified HTTP requests | Automated request volume or share | Number of political propaganda accounts |
+| YandexBot or other crawler requests | Search/indexing activity | Disinformation-posting capacity |
+| Russian-labelled IP traffic | Network or geographical classification | Operator identity or political intent |
+| Known influence accounts still posting | Continuity of visible publishing | Unchanged analysis, coordination, reach or effectiveness |
+| Reduced hostile material in a feed | Changed user exposure | Which upstream system caused it |
 
-The Internet is not dead just because its plumbing contains bots. Nor is every bot a Kremlin employee. The plumbing is nevertheless worth examining.
+The circulated **49%** claim needs its original chart, denominator, time window and definition. 'Fell by 49%', 'fell to 49%' and 'accounted for 49%' mean different things. Cloudflare Radar publishes bot-traffic measurements for Russia, but these are web-request metrics, not a political-bot census [4–5]. Subsequent commentary has pointed particularly to crawler activity. This node does not treat the viral percentage as a verified collapse of propaganda posting.
 
----
-
-## 4. 📊 The 49% Question: Percentage of What?
-
-A Finnish commentator discussing the strikes referred to a figure of approximately **49%** for Russian bot activity. Our earlier research trail attributed a version of the claim to a social-media post invoking Cloudflare Radar. **The original post, exact graph, date range and denominator have not been independently authenticated for this node.** Do not treat the number as a confirmed decline.
-
-Cloudflare Radar genuinely publishes a dashboard for bot traffic associated with the Russian Federation, including bot-versus-human request distributions and traffic by region or autonomous system. Its documentation explains the distinction between automated and human HTTP requests. [4][5]
-
-But consider three different statements:
-
-- Bot traffic **fell by 49%**: a relative decrease in the quantity measured.
-- Bot traffic **fell to 49%**: a resulting proportion, not necessarily a 49% reduction.
-- Bot traffic **accounted for 49%**: a share that might change even if the absolute number of bot requests did not.
-
-They are not interchangeable. Nor does a Russia-labelled traffic measurement necessarily describe Russian *political* influence activity abroad.
-
-**Evidence required:** an archived chart or API extraction, UTC timestamps, pre-event baseline, post-event interval, request classification, geographical/network definition, and ideally absolute as well as proportional series. The data should then be compared against unaffected networks and other plausible causes of change.
-
-A precise number without its denominator is a very smartly dressed rumour.
+**A scraper does not have to publish propaganda to support an operation that does.** Equally, no evidence follows from the mere existence of a scraper that it supports such an operation. The dependency must be shown.
 
 ---
 
-## 5. 🕳️ The Shape of the Reduced Noise
+## 3. 🕸️ A Distributed Operation Does Not Die All at Once
 
-The expected effect — **if relevant automated workloads depended on the disrupted infrastructure** — is not the complete absence of bots. It is a **reduction in whatever observable activity those workloads had been sustaining**, moderated by backup systems, workload migration, substitute providers and unaffected networks.
+A sophisticated information campaign can distribute collection, analysis, content production, posting, amplification and monitoring across different services, people and jurisdictions. These are *functions*, not necessarily separate companies or server rooms. A single provider can support several; a single function can run across many providers. Redundancy protects some capacities while leaving shared dependencies vulnerable.
 
-That might mean less volume, less repetition, less synchronised posting, less continuous amplification, or fewer requests from a particular network. It might also mean reduced legitimate automation and ordinary service traffic. We cannot assign intent merely by observing that a line on a graph went down.
+| Function | Possible result of partial disruption | What may continue |
+|---|---|---|
+| Collection | Less fresh information | Old datasets and scheduled posts |
+| Analysis / audience modelling | Slower or less context-sensitive targeting | Broad messaging |
+| Content production | Less adaptation to events | Existing content libraries |
+| Distribution | Fewer or delayed posts | Other channels |
+| Amplification | Reduced apparent popularity or reach | Original posts |
+| Monitoring / feedback | Poorer campaign measurement | Human operators and prior strategies |
 
-The important methodological question is counterfactual: **what would we have expected to observe had the infrastructure remained available?**
+A system may continue operating while its **effectiveness** changes. In engineering terms, the interesting signature may be *partial failure*, *graceful degradation*, or *substitution*. Failure patterns can expose shared dependencies, although they cannot identify a covert operator without independent evidence.
 
-A reduction becomes more informative if it begins at the time of an independently verified outage, is concentrated in plausibly dependent services or networks, persists while those services are unavailable, and changes again when they recover. Even then, correlation does not by itself identify a covert operator.
+This is why 'the posting bots are still there' is an incomplete systems-level answer. It may be a correct observation about one component and still leave the rest of the architecture untested.
 
-| Potential observation | Competing explanations to test |
+---
+
+## 4. 🧠 Cambridge Analytica: We Have Been Here Before
+
+The Cambridge Analytica scandal supplies a documented historical reason to take the combination of personal data, behavioural modelling, political messaging and institutional accountability seriously. It is **not** proof that the Yandex facilities supported a Cambridge Analytica-style operation.
+
+Christopher Wylie gave evidence to the UK House of Commons Digital, Culture, Media and Sport Committee on **27 March 2018**. His evidence described Cambridge Analytica/SCL contacts with senior representatives of the Russian oil company Lukoil and discussions of political profiling and influence capabilities [6–7]. That is more specific than 'somebody met somebody Russian'. It is also narrower than proof that Lukoil received Facebook-derived data or that Cambridge Analytica knowingly collaborated with Russian intelligence: those conclusions are **not established** by Wylie's account.
+
+The useful distinction is not between magical personality prediction and no capability at all. It is between commercial claims about psychographics, which were not all independently validated, and the practical capacity to segment audiences, select issues, test messages and model **context-dependent choices**. A campaign need not know the innermost soul of every voter to seek influence over what people encounter and how they respond.
+
+The UK's Information Commissioner's Office investigated political data analytics, improper data practices and questions concerning derived models [8]. Its October 2020 account to Parliament set out findings, evidential limits and referrals, including concerns passed to the National Crime Agency; it did **not** establish additional Russian involvement from its examination of seized Cambridge Analytica/SCL servers [9]. We must not turn a limit of public knowledge into proof of a hidden transfer. Nor should the closure of a company be mistaken for a complete public history of every dataset, derivative, method, contractor or professional relationship.
+
+**Historical question:** what was established, what was referred elsewhere, what was not established, and what has never received a complete public accounting? Those are four different columns, not one convenient narrative.
+
+---
+
+## 5. 🧿 The Immediate Target May Not Be the Intended Audience
+
+An operation might collect information from one population, concentrate hostility on a second, and hope to influence a third through the spectacle of conflict. The data subject, immediate target, visible intermediary and intended audience need not be the same person. They may overlap.
+
+For example, **hypothetically**, concentrated hostility against a marginalised speaker could generate public argument; genuine users and journalists might then circulate that argument; a wider audience might encounter it as evidence of a supposedly spontaneous social controversy. The original coordinated contribution can become a real human feedback loop. This mechanism is plausible; it is **not** an attribution to a named campaign or evidence that particular individuals were selected by a state.
+
+Resource constraints make geographic and audience segmentation worth studying. In a UK electoral setting, constituency-level concentration could matter more than national averages. That does not justify assuming which seats or demographic groups are susceptible, or claiming a Russian-directed operation targeted them without documentation.
+
+---
+
+## 6. 🫀 Whose Internet Has Become Quieter?
+
+The author describes a change in ordinary browsing: less unsolicited antagonism, fewer apparently intrusive recommendations, more content reflecting previous interests, and less need to push through hostile material to get to the thing she actually came online to do. She also describes experiencing misogyny and racialised hostility online over time. This is **first-person observation of a changed interface and participation environment**. It neither requires nor supplies a diagnosis of the upstream cause.
+
+Other online accounts gathered in the node's constellation describe relief among Ukrainians, women, Black and brown people, trans people and other LGBTQIA+ users. These accounts are valuable leads, not a representative sample. They warrant comparison by platform, period, exposure and user context, rather than being dismissed or silently converted into population statistics.
+
+Intersectionality matters because hostile exposures may overlap and interact. A racialised woman is not simply receiving 'women's content' plus 'racial content' as two independent streams. A long digital history may also make more information available for profiling through public archives, platforms, commercial intermediaries and institutions. **More available data is not proof that any particular actor obtained or exploited it.** The testable question is whether accumulated data and intersecting social positions are associated with different kinds or concentrations of hostile exposure.
+
+One user may observe polarising political arguments. Another may repeatedly encounter arguments about whether people like her should be safe, employed, believed or permitted to participate. The same aggregate traffic volume does not describe those two environments equally. Nor does a similar technical disruption have to produce equal effects across them.
+
+---
+
+## 7. 🕳️ Reduced Noise Is Not Necessarily Reduced Posting
+
+The observed information space is not a census of the population. It is what people can see through ranking, search, recommendation, networks, moderation and their own choices. Artificial engagement can alter visibility; human reactions can then amplify material further. That is a *possible* feedback pathway, not a verified description of any particular platform's ranking system.
+
+We need separate instruments for **posting volume**, **collection freshness**, **targeting fidelity**, **coordination**, **engagement**, **recommendation placement**, **hostile exposure**, and **navigational autonomy**. An account can continue posting while its messages become less timely, less widely circulated or less frequently encountered by particular users. Conversely, a platform update could change recommendations without any foreign infrastructure being affected.
+
+The counterfactual question is: *what would these measures have looked like without the October outage?* Compare pre-event baselines, affected and unaffected networks, other platforms, moderation changes, contemporaneous news and later recovery. A striking coincidence is a reason to investigate, not a completed causal attribution.
+
+---
+
+## 8. 🔐 No, Brenda, a VPN Does Not Fix Institutional Data Governance
+
+The standard 'just improve your cybersecurity' answer assumes people control all the relevant security boundaries. They don't. Strong passwords, multifactor authentication, careful sharing and VPNs may reduce particular risks. None can independently secure healthcare records, government databases, an employer's systems, a platform's data processing, a broker's files, or somebody else's disclosure of information. Even excellent personal practice cannot guarantee protection against harassment or profiling.
+
+There is an ugly resemblance to the prevention conversation that tells women not to wear the skirt, drink the drink, walk the road or go out after dark. Every precaution is assigned to the person at risk until ordinary participation itself becomes the thing they are expected to surrender. **Responsibility for abusive conduct stays with those committing it; responsibility for institutional data security stays with those holding the data.** Practical self-protection has a place. It is not a substitute for enforcement, platform governance or investigation.
+
+This is a governance argument, not evidence that the author's information was obtained through a particular breach. The source of any unusually personalised activity must be established, not guessed.
+
+---
+
+## 9. 🛰️ Wars Are Also Information Environments
+
+The author's wider context includes the Gaza war and campaigns discussed under the name **Operation Iron Swords**, the war involving Iran, Russia's documented history of influence operations, and increasingly contentious political communication across the US and Europe. These are distinct contexts; their operators, techniques and evidence must not be merged into one undifferentiated conspiracy. State operations, contractors, commercial promotion, ordinary advocacy and genuine political disagreement require different attribution standards.
+
+The author's observation of **stepwise increases** in hostile online exposure over recent years is a longitudinal research question: what events, platform changes, campaigns or social shifts coincide with measurable jumps? The MI5 Director General's **13 October 2026** threat update belongs in the dated security chronology, but specific claims about terrorism, online radicalisation and disinformation should be quoted only after checking the full primary statement [10]. None of these surrounding events independently proves a link to the Yandex strikes.
+
+---
+
+## 10. 📊 The Fact-Check That Answers Only One Question
+
+If a fact-check establishes that a viral graph mostly measured Yandex crawling rather than political posting, **good**: correct the graph. If monitoring finds that known Russian influence accounts continued publishing, **good**: record the continuity. Neither finding establishes that all possible supporting functions remained unaffected, or that users' feeds did not change. Nor does an untested possibility become likely merely because it has not been ruled out.
+
+| Question answered | Question still open |
 |---|---|
-| Lower bot-classified requests | Outage; routing change; altered classification; normal fluctuation |
-| Fewer near-identical political posts | Lost amplification; moderation; campaign change; platform policy |
-| Previously synchronised accounts diverge | Shared dependency lost; operators adapting; unrelated disruption |
-| Activity returns after restoration | Recovered workload; seasonal change; substitution elsewhere |
-| No visible change | Redundancy; rapid migration; irrelevant facility; poor visibility |
+| Were the requests mostly crawlers? | Did any affected collection capacity feed influence operations? |
+| Are known posting accounts still active? | Did targeting, responsiveness, amplification or reach change? |
+| Did a viral numerical claim misuse its denominator? | What did individual users actually encounter before and after? |
+| Is a particular causal claim unproven? | What other explanations fit the observations? |
 
-**Reduction, not magical silence.** A system can lose part of its contribution without disappearing.
+A reported reduction in friction is an observation to examine. A causal account of that reduction is a separate claim. **Disproving an explanation is not the same as disproving the observation.** Equally, observing a change does not prove its preferred explanation.
 
----
-
-## 6. 🧿 The Observed Information Space Is Not the Population
-
-People do not encounter society directly as a complete dataset. They encounter a partial, mediated representation: posts, comments, search results, headlines, recommendation feeds, trends, reactions, apparent majorities and conspicuous arguments.
-
-Artificial participation can alter that representation. It can make a marginal view appear widespread, a dispute appear permanent, or a group appear more hostile than its members actually are. An observer may then change their own behaviour in response to the *apparent* social environment.
-
-```text
-Artificial or coordinated participation
-                 ↓
-       Observable online activity
-                 ↓
-    Human interpretation of the room
-                 ↓
-      Genuine human responses
-                 ↓
-    A changed information environment
-                 ↺
-```
-
-That is the cybernetic problem. **A synthetic contribution can produce real human consequences.** Once genuine people have adapted, removing some of the original contribution does not automatically restore the previous environment.
-
-The question is not whether bots control everyone's minds. It is whether systems of artificial participation can distort the feedback through which people judge what other people think, and therefore affect what they themselves do.
+The methodological error would be to declare the whole subject closed because the most quotable version of the story failed.
 
 ---
 
-## 7. 🎭 When the Noise Drops, Who Starts Shouting?
+## 11. 🎭 When the Noise Drops, Who Starts Shouting?
 
-This is the author's further extension of the Finnish commentator's idea — and one that journalists could revisit over time.
-
-Suppose a political actor has been operating in an environment where certain messages routinely receive substantial artificial reinforcement. If some of that reinforcement disappears, what happens next?
-
-There are at least three distinct possibilities:
-
-1. **Knowing operational dependence.** An actor or campaign knowingly coordinated with an influence network and changes its behaviour when that network becomes unavailable. This would require direct evidence of the relationship, not merely a change in posting style.
-2. **Unknowing environmental dependence.** An actor has adapted to engagement signals without knowing some were artificial. If those signals weaken, they may post more often, intensify their rhetoric or seek attention through more conspicuous performances.
-3. **Independent political behaviour.** The actor's communication changes because of elections, diplomatic developments, news cycles, incentives, personal strategy or some other unrelated cause.
-
-The second possibility is especially interesting: **dependency does not require conscious collaboration**. People can learn from distorted feedback without understanding its origin.
-
-That creates a research question, not an accusation. A burst of loud, performative bollocks politics following an infrastructure outage is not evidence of Russian contacts, coordination or knowledge. It may simply be politics behaving like politics.
-
-But it is reasonable to ask whether **a measurable reduction in one kind of activity is followed by a measurable change in another** — and whether the relationship holds up against alternative explanations.
+If political actors are accustomed to artificial reinforcement, their behaviour might change when that reinforcement weakens. Three possibilities must remain distinct: **knowing coordination** with an operation; **unknowing adaptation** to distorted engagement signals; and **ordinary political behaviour** driven by elections, news, strategy or personal incentives. Posting louder after an outage is not evidence of secret contacts.
 
 🪿: The room appears quieter.
 
@@ -163,105 +160,145 @@ But it is reasonable to ask whether **a measurable reduction in one kind of acti
 
 🪿: Interesting. Not proof. Interesting.
 
----
-
-## 8. 🛢️ Material Interests, Political Contacts and the Danger of a Convenient Story
-
-Contemporary discussion of American dealings involving Russian oil, sanctions and diplomacy makes the surrounding political environment worth documenting. It does **not** turn every contact with a Russian official into evidence of improper relationships, or every controversial policy decision into evidence of an information operation.
-
-There are several separable questions: what policies or transactions occurred; who made the decisions; what contacts are documented; what financial or strategic interests were at stake; and whether any verified influence network was connected to the actors involved.
-
-Those questions belong in a dated evidence record. The oil-policy context should not be asserted in detail without separately checking the relevant announcements, dates, terms and reporting. Nor should the Yandex disruption be used as a shortcut to conclusions about individual motives.
-
-A plausible mechanism is not a substitute for a documented relationship. Indeed, the entire point of this node is to resist mistaking an attractive explanation for an observed fact.
+The question is whether a measured change in one kind of activity precedes a measured change in another, survives comparison with controls, and can be connected through a documented mechanism.
 
 ---
 
-## 9. 📰 A Longitudinal Assignment for Journalists
+## 12. 🕸️ Diagrams — What Breaks, What Continues, Who Notices?
 
-The most useful reporting may come **after** the initial spectacle, when investigators can compare what happened before and after the interruption.
+These diagrams describe **hypothetical dependencies**, not a verified map of the Yandex facilities. A solid arrow means a possible ordinary functional flow; a dashed arrow means a connection that must be evidenced for this case; `[X]` marks a hypothetical interruption; `↺` marks feedback. No diagram can substitute for service inventories, network evidence or platform exposure data.
 
-Preserve a *before* baseline: posting frequency, recurring narratives, engagement rates, repost networks, timing of coordinated bursts, account relationships, known platform interventions and changes in relevant network traffic. Then follow the same measures through the outage, restoration and subsequent weeks or months.
+### A. Distributed operation and partial failure
 
-The strongest approach would triangulate **infrastructure data**, **platform behaviour** and **human political communication**, rather than reading one chart as an explanation for all three.
+```text
+       PROVIDER A             PROVIDER B            PROVIDER C
+       collection             datasets /             posting /
+          [X]                 analysis              distribution
+           │                      │                      │
+           └ - - - - ┐            │                      │
+                     ▼            ▼                      │
+                AUDIENCE MODELLING                       │
+                     │                                   │
+                     ▼                                   │
+                MESSAGE SELECTION ───────────────────────┤
+                                                         ▼
+                                                  POSTS CONTINUE
+                                                         │
+                                         ENGAGEMENT / AMPLIFICATION
+                                                         │
+                                                  PLATFORM SYSTEMS
+                                                         │
+                                                    USER EXPOSURE
+                                                         │
+                                               MONITORING / FEEDBACK
+                                                         ↺
+```
 
-A workable reporting sequence:
+**Reading A:** losing a collection dependency might reduce freshness or precision while existing posts continue. Other providers may substitute. The diagram does **not** claim this happened in October; it shows why continued posting is not a full operational-health test.
 
-| Stage | What to document | What it helps test |
-|---|---|---|
-| Before 8 October | Normal activity and known fluctuations | Whether a later change is unusual |
-| Strike/outage window | Facility status, network anomalies, service disruption | Whether a technical interruption occurred |
-| Immediate aftermath | Bot-classified traffic and networked posting patterns | Whether specific observable activity declined |
-| Subsequent weeks | Recovery, migration, substitute amplification | Whether disruption persisted |
-| Human response | Changes in frequency, style and timing of public communication | Whether political behaviour changed contemporaneously |
-| Alternative explanations | Platform policy, elections, news events, other outages | Whether the proposed link survives scrutiny |
+### B. Unequal exposure, feedback and embodied effects
 
-**An absence or reduction relative to an established baseline may be more informative than an isolated extraordinary performance.** The latter is much easier to notice; the former may tell us more about dependency.
+```text
+     CONTENT + GENUINE ENGAGEMENT + POSSIBLE ARTIFICIAL SIGNALS
+                               │
+                               ▼
+                 PLATFORM RANKING / RECOMMENDATION
+                               │
+                ┌──────────────┼──────────────┐
+                ▼              ▼              ▼
+           USER SPACE A   USER SPACE B   USER SPACE C
+           low hostile    overlapping    high exposure
+           exposure       exposures      to one theme
+                │              │              │
+                ▼              ▼              ▼
+          OBSERVATION     OBSERVATION     OBSERVATION
+          + RESPONSE      + RESPONSE      + RESPONSE
+                └──────────────┼──────────────┘
+                               ▼
+                        HUMAN PARTICIPATION
+                               │
+                               ↺ feeds the observable environment
 
-And if the evidence does not support the hypothesis? Excellent. That is what the investigation was for.
+     HYPOTHETICAL UPSTREAM CHANGE - - -> altered signals / placement
+                                           (unequal downstream effects)
+```
+
+**Reading B:** people do not receive one uniform internet. A change in an upstream signal can have uneven consequences; the direction and size depend on platform behaviour, prior exposure, other causes and real user activity. This is not a claim that identity itself determines algorithmic treatment.
+
+**Diagram development note:** these monospace diagrams are semantic scaffolds. A later designed visual should retain separate arrows for collection, modelling, posting, amplification and platform ranking, plus clear boundaries between established relationships and October-specific hypotheses. Do not silently turn a dashed connection into a solid one for aesthetic neatness.
 
 ---
 
-## 10. ⚖️ Disrupting Infrastructure Is Not the Same as Repairing Democracy
+## 13. 📰 An Assignment for Journalists Who Would Quite Like to Finish the Investigation
 
-There is a serious legal and civilian dimension to attacks on shared computing infrastructure. Data centres may support ordinary communications, transport, commerce and other civilian services. Their status under international humanitarian law depends on the facts of their use, the applicable military-objective test, and rules including distinction, proportionality and precautions. A speculative benefit to public discourse is not itself a legal justification for an attack.
+Start with a dated *before* baseline. Obtain facility/service outage and restoration records; request network series with absolute counts and denominators; distinguish crawlers, scraping, political accounts and coordinated engagement. Compare the posting behaviour of independently identified networks with their timing, topic responsiveness, repost structure and reach. Then examine **exposure**, not only output: recommendation relevance, unsolicited hostile encounters, navigation interruptions and the ability to reach intended content.
 
-Nor would a reduction in political automation, even if eventually demonstrated, automatically restore trust or undo the effects of earlier manipulation. Real people have already experienced and responded to the environment as it appeared to them.
+Recruit participants across different platforms, locations and forms of exposure without treating identity groups as interchangeable or their testimonies as a statistical sample. Preserve participant privacy; do not create new dossiers of people who have already experienced harassment. Compare against moderation changes, algorithm updates, elections, news cycles, other outages and restoration. Look for temporal alignment, specificity, dose-response, substitution and recovery. Publish negative findings too.
 
-The useful insight is narrower and stronger: **digital influence is materially dependent, and changes to that material system may alter the information people are able to observe.** Whether they do so in this case remains an empirical question.
+The author is not asking journalists to announce that Ukraine repaired the internet. She is asking them not to abandon a potentially consequential change in the information environment because a crawler chart was mistaken for a propaganda census.
 
 ---
 
-## 11. 🪿 What the Finnish Commentator Helped Us Ask
+## 14. ⚖️ Infrastructure Disruption Is Not Automatically Democratic Repair
 
-The commentator's provocative claim is worth retaining as an attributed intellectual prompt, not silently adopting as a conclusion. The author's contribution is to extend it into a cybernetic investigation:
+Data centres can support civilian communications and commerce. Under international humanitarian law, the legality of an attack depends on facts including military-objective status and applicable rules on distinction, proportionality and precautions. A speculative benefit to online discourse does not itself justify attacking shared civilian infrastructure. And even a demonstrated reduction in artificial amplification would not reverse the social effects of earlier hostility: real people have already acted in the environment they encountered.
 
-- If artificial participation depends on particular computational infrastructure, an interruption may reduce its observable contribution.
-- That reduction could be measurable as **less noise**, not the disappearance of every bot or every contested narrative.
-- The changed environment may alter the feedback received by human political participants.
-- Some human actors may adapt to that change, knowingly or unknowingly.
-- Journalists may be able to reconstruct those relationships over time — provided they establish baselines, identify the missing activity and test rival explanations.
+---
 
-That is why the interesting question is not simply *did Ukraine bomb the bot farms?*
+## 15. 🪿 Please Listen Before You Close the Investigation
 
-It is **what became quieter, by how much, for how long, and what — if anything — changed in response?**
+I am not asking you to pretend that a Cloudflare graph proves the Kremlin's posting bots have all fallen into a hole. I am asking you to distinguish what your instrument measures from what the people using the internet are telling you has changed.
+
+I have experienced a markedly different online environment: less friction, less unwanted antagonism, and browsing that feels more like my own directed browsing again. I have also experienced misogyny and racialised hostility online. I cannot reverse-engineer a distributed information operation from my feed. **That is not a reasonable condition to impose before listening to what has changed.**
+
+And, respectfully, some of the security people explaining why the bots are still there are white men whose own social position may expose them to different kinds and concentrations of hostility. That does not make their technical findings wrong. It does make their experiences an inadequate proxy for everybody else's. The people who have been dealing with the sharp end of the environment may be noticing changes that a count of posting accounts will never capture.
+
+Perhaps several things changed at once. Perhaps the strikes contributed. Perhaps they didn't. The evidence needs to decide that. But **a fact-check should correct a false attribution, not place a lid on a different and still-unanswered research question**. Before moving along, please investigate what people were exposed to, what has become less intrusive, and why the difference is not evenly felt.
 
 🇺🇦 **SILENCE, BOT.**
 
-🪿 **Well. Perhaps just a bit quieter. Now let's see what the instruments say.**
+🪿 **Well. Something appears quieter. Now let's see what the instruments actually say.**
 
 ---
 
-## 12. 🔬 Evidence Register and Follow-Up Questions
+## 16. 🔬 Evidence Register and Research Queue
 
-**Verified in accessible reporting as of 11 October 2026:** Drone strikes and disruption at Yandex facilities; Yandex statements about service and equipment uncertainty. [1][2][3]
+| Proposition | Evidentiary position as of 13 October 2026 |
+|---|---|
+| Reported attacks disrupted Yandex facilities | Supported by cited Reuters reporting [1–3] |
+| Cloudflare Radar measures bot-classified HTTP traffic | Supported by documentation [4–5] |
+| Viral 49% figure proves political bots disappeared | **Not established**; original graph/denominator required |
+| Particular influence workloads ran at struck facilities | **Not established** |
+| Known propaganda posting continued | Attributed in contemporary fact-check reporting; verify scope, dataset and dates before treating as comprehensive [11–12] |
+| Distributed operations can partially degrade | General systems mechanism; no case attribution |
+| Data collection can inform audience modelling | General capability; specific linkage requires evidence |
+| Wylie testified about Cambridge Analytica–Lukoil contacts | Documented testimony [6–7] |
+| Lukoil obtained the Facebook-derived dataset | **Not established** |
+| ICO investigated political data practices and reported limits | Supported by ICO material [8–9] |
+| Marginalised people reported pronounced changes | Accounts collected in Constellations; not representative prevalence data |
+| Author's browsing environment changed substantially | First-person testimony; causal source not established |
+| October strikes caused the reported feed changes | **Open hypothesis**, not finding |
 
-**Verified as an available measurement tool:** Cloudflare Radar publishes Russian Federation bot-traffic metrics, but these measure network requests, not a direct census of political influence accounts. [4][5]
-
-**Not verified for this node:** The original provenance and precise meaning of the circulated **49%** figure; whether the change is a decline or a share; whether affected Yandex facilities hosted relevant influence operations; whether any particular political campaign or public figure relied on such operations; and whether changes in American political rhetoric were caused by the strikes.
-
-**Research queue:**
-
-- Archive the Finnish commentator's original clip and exact wording.
-- Locate the claimed researcher post and its source chart, rather than recycled screenshots or summaries.
-- Export pre-/post-event Cloudflare series with timestamps, definitions and denominators.
-- Map documented Yandex facility outages and service restoration by date.
-- Compare affected and unaffected network groups; distinguish Russian-origin traffic from foreign-facing influence accounts.
-- Examine known coordinated networks only where independently identified by credible researchers or platforms.
-- Keep a separate chronology of US–Russia oil-policy developments and documented official contacts; do not infer personal relationships from timing.
-- Revisit the observations after restoration and again after several weeks.
+**Next evidence:** archive the Finnish commentator's original words; authenticate the 49% graph and API series; obtain dated Yandex service restoration information; retrieve the full MI5 speech; inspect the methods of October fact-checks; seek ethically collected pre/post feed-exposure data; compare unaffected networks and platforms; investigate Cambridge Analytica's documented international relationships and the boundaries of official investigations; and revisit the question after recovery and migration windows.
 
 ---
 
 ## 📚 Sources
 
 - [1] [Reuters: “Drones hit Yandex data centre in first major attack on Russian data hub” (8 October 2026)](https://www.reuters.com/world/drones-hit-yandex-data-centre-first-major-attack-russian-data-hub-2026-10-08/)
-- [2] [Reuters: “Russia's Yandex says it is unclear whether data centre can be restored after drone strike” (October 2026)](https://www.reuters.com/world/europe/russias-yandex-says-unclear-whether-data-centre-can-be-restored-after-drone-2026-10-08/)
+- [2] [Reuters: “Russia's Yandex says it is unclear whether data centre can be restored after drone strike” (8 October 2026)](https://www.reuters.com/world/europe/russias-yandex-says-unclear-whether-data-centre-can-be-restored-after-drone-2026-10-08/)
 - [3] [Reuters: “Russia's Yandex says data centre in Vladimir area shut down after drone attack” (11 October 2026)](https://www.reuters.com/world/europe/russias-yandex-says-data-centre-vladimir-area-shut-down-after-drone-attack-2026-10-11/)
 - [4] [Cloudflare Radar: “Bot Traffic from Russian Federation”](https://radar.cloudflare.com/bots/ru)
 - [5] [Cloudflare Developers: “Cloudflare Radar — Overview”](https://developers.cloudflare.com/radar/)
+- [6] [UK Parliament: Christopher Wylie, oral evidence to DCMS Committee (27 March 2018)](https://committees.parliament.uk/oralevidence/7803/html/)
+- [7] [UK Parliament: Christopher Wylie, supplementary written evidence](https://www.parliament.uk/documents/commons-committees/culture-media-and-sport/Written-evidence-Chris-Wylie-supplementary.pdf)
+- [8] [Information Commissioner's Office: “Investigation into the use of data analytics in political campaigns”](https://ico.org.uk/media2/migrated/2260271/investigation-into-the-use-of-data-analytics-in-political-campaigns-final-20181105.pdf)
+- [9] [Information Commissioner's Office: Letter to Julian Knight MP (2 October 2020)](https://ico.org.uk/media2/migrated/2618383/20201002_ico-o-ed-l-rtl-0181_to-julian-knight-mp.pdf)
+- [10] [MI5: Director General annual threat update (13 October 2026)](https://www.mi5.gov.uk/mi5-director-general-delivers-annual-threat-update)
+- [11] [The Guardian: reporting on Ukrainian data-centre strikes and disinformation claims (13 October 2026)](https://www.theguardian.com/world/2026/oct/13/ukrainian-strikes-russian-datacentres-online-disinformation-bots)
+- [12] [The Verge: coverage of Yandex strikes and online disinformation claims (October 2026)](https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy)
 
-*Source notes: Reuters accounts report company statements and developing events; damage assessments may change. Cloudflare dashboards are dynamic and do not, without a dated extraction, preserve the claimed October percentage. The commentator's original clip and the alleged 49% post remain to be archived and verified. Historical background on LiveJournal and documented influence operations requires dedicated sourcing before the node is treated as a comprehensive historical reference.*
+*Source-status note: the original node's Reuters and Cloudflare references are retained. Additional historical and contemporary links were assembled in the preceding research discussion; this drafting pass did not independently re-open and authenticate every linked page. Treat details dependent on [10–12], including the exact scope of monitoring and MI5 wording, as pending primary-text review. Social videos below document circulating claims and reactions, not independently verified causal findings.*
 
 ---
 
@@ -292,8 +329,7 @@ It is **what became quieter, by how much, for how long, and what — if anything
 - [📹: Disco Barrington, via TikTok: “Down with the bots!”](https://vm.tiktok.com/ZN8BgK86K/)
 - [📹: NM Media Report, via TikTok: “Российские боты исчезли после прилета по «Яндексу»”](https://vm.tiktok.com/ZN8Bg3oMC/)  
 - [📹: Auntie Em, via TikTok: “If anyone is wondering why the Reform supporters are suddenly so quiet…”](https://vm.tiktok.com/ZN8BgsPCC/)
-- [📹: BBC Verify: “Claims that Ukrainian strikes on Russian data centres reduced Kremlin-linked bot networks have spread widely online - but experts have told BBC Verify there is no evidence the attacks have significantly reduced them.”](https://vm.tiktok.com/ZN8B3kBLj/) – *the sources are a really interesting example of how many things can be true at once; it could absolutely be the case for US researchers to be correct in what they have answered, and for the two companies to have given governance compliant responses. whether this is complete coincidence, something has calmed the daily experience of many people down; how many times do you see things “against policy” online?*
-- [📹: Lewis Aaron, via TikTok: “After Ukraine attacked data centres in Russia people in social media shared stories about a decrease in bot activity but sadly none of this has been proven to be true and has been backed up by multiple experts.”](https://vm.tiktok.com/ZN8B3ABTb/) – *so I’m going to put something out there and I’ll research in my own time but v interested in any commentary: a number of people, including me, have had automated activity stop very suddenly, and an amount of harassment and scraping stopped suddenly. I have no doubt that it probably will return, but it would be really interesting to see proposed mechanisms of how the environment of scraping from marginalised voices online to inform bot activity might work, because that’s who looks to be most effected by the change. it’s almost like your own personal hate mob has stopped, and the algorithmic placement suddenly reflects your own directed activity online, instead of the dragnet’s. I’m not saying anyone hasn’t experienced this, but when it’s targeted towards people who get disbelieved anyway, no one takes it seriously, and I could honestly cry from how much less friction there is. there’s a reason every survivor, every trans person, every racialised person - we’re all having a significantly different experience. I don’t really want to hear anyone telling us “just do xyz to be more secure” because I’ve already recorded activity that has a high capability bar, to the point where it won’t really matter. like if this is some anti-ovarian network, respectfully they have potus and Putin on side. I’m hearing everyone do the debunking, and thank you, it’s important to be precise, but the experience we’re talking about for people the far right hates us not small beans. it’s not “just a few less ads”; it’s a radically different online environment. if it is part of a longer campaign, it’s likely to be built back up again, so we are trying to communicate this to allow the rest of you to see how to interrupt that.*  
+- [📹: BBC Verify: “Claims that Ukrainian strikes on Russian data centres reduced Kremlin-linked bot networks have spread widely online - but experts have told BBC Verify there is no evidence the attacks have significantly reduced them.”](https://vm.tiktok.com/ZN8B3kBLj/) – *the sources are a really interesting example of how many things can be true at once; it could absolutely be the case for US researchers to be correct in what they have answered, and for the two companies to have given governance compliant responses. whether this is complete coincidence, something has calmed the daily experience of many people down; how many times do you see things “against policy” online?*   
 
 *If Mamdani is our mayor, Zelenskyy is my president.*  
 
@@ -301,18 +337,18 @@ It is **what became quieter, by how much, for how long, and what — if anything
 
 ## ✨ Stardust
 
-ukraine, yandex, data centres, russian internet, runet, livejournal, information ecology, observed information space, internetification, dead internet theory, coordinated inauthentic behaviour, bot traffic, cloudflare radar, computational infrastructure, noise reduction, political amplification, cybernetics, longitudinal journalism, democratic perception
+ukraine, yandex, data centres, runet, livejournal, russian internet, bot traffic, web crawlers, scraping, audience modelling, cambridge analytica, christopher wylie, lukoil, behavioural profiling, distributed systems, partial failure, shared dependencies, targeting fidelity, coordinated inauthentic behaviour, algorithmic recommendation, differential exposure, intersectionality, racialised misogyny, online harassment, institutional data governance, information warfare, observed information space, embodied information ecology, cybernetics, longitudinal journalism
 
 ---
 
 ## 🏮 Footer
 
-*Bombing the Bot Farms* is a living node of the **Polaris Protocol**. It investigates how physical disruption of computational infrastructure might alter observable information activity and the behaviour of people responding to it, while keeping documented facts separate from attributed claims and hypotheses.
+*Bombing the Bot Farms* is a living node of the **Polaris Protocol**. It investigates what physical disruption of computational infrastructure might reveal about distributed information operations, mediated exposure, and unequal embodied consequences, without treating plausible mechanisms as demonstrated attribution.
 
 > 📡 Cross-references:
 >
-> - [🕸️🧿 The Observed Information Space](./) — *immediate conceptual home; local index to be checked against the repository*.
-> - [🪿 Embodied Information Ecology](../) — *material, social and embodied information dependencies*.
+> - [🕸️🧿 The Observed Information Space](./) — *immediate conceptual home*.
+> - [🪿 Embodied Information Ecology](../) — *material and social dependencies*.
 >
 > 🏮 Return To:
 >
