@@ -103,6 +103,27 @@ And do not blame the people with the smallest holdings for failing to maintain a
 
 ---
 
+### A catalogue is not a planting census
+
+James Choiseul, Gerry Doherty and Gabriel Roe's *Potato Varieties of Historical Interest in Ireland* (2008) is a particularly valuable corrective to the one-potato story. Their historical account identifies **Black, Yellow, Cluster, Irish Apple, Red Nose Kidney (Wicklow Banger), Cork Red, Lumper and Cups** among potatoes cultivated before the Famine. That is a list of historically documented types, **not** a reliable measure of their respective acreages in 1845, and not a claim that every type was available to every family. Historic variety labels can also be unstable: local names, descriptions and the identity of surviving collection specimens require care.
+
+There is a difference between a variety existing somewhere in Ireland, being a commercially important variety, being the variety grown in a particular district, and being the potato a labourer's children ate. An agricultural history that jumps from the first of these to the fourth can produce a technically correct catalogue and a socially misleading famine story.
+
+The **Lumper** is strongly associated with the poorest households because yield under constrained circumstances mattered. A productive, less esteemed potato might be the best available way to feed a family from a small patch of ground. More affluent growers could prefer other types, including Cups; that did not confer immunity upon their potatoes. Many of the older cultivated varieties were susceptible to late blight. Different names on a seed list are not equivalent to independently effective resistance mechanisms.
+
+Cormac Ó Gráda's work on Irish subsistence and David Nally's work on potatoes and survival ecologies help explain why class, tenure and the available agricultural choices belong in the same paragraph as cultivar names. The specialist study by Thomas Downey on the Lumper should be checked in full before attributing precise proportions or geographical patterns to it. **The oft-repeated claim that there were only three or four common varieties across the entire island remains unproven here.** It may describe prominent names in one source, a regional sample or a succession of popular cultivars, rather than a complete national planting distribution.
+
+A better set of historical questions is therefore:
+
+- Which potatoes did particular communities cultivate, and why?
+- What share of the land and food supply depended on each?
+- Who could afford to experiment, store alternatives or recover from a failed planting?
+- Were the alternatives genuinely less susceptible to the new pathogen, or merely differently named?
+
+**The national seed catalogue was never the same thing as the cottier's range of choices.**
+
+---
+
 ## 5. 🐖 One Potato Crop Was Doing Several Jobs
 
 The potato crop was not one undifferentiated heap of human calories. P. M. Austin Bourke's reconstruction, reproduced in the Irish Central Statistics Office's historical agricultural account, estimates that before the Famine approximately **47%** of the crop was used for human food, **33%** for animal feed, **13%** retained as seed, and about **2%** exported; the remainder had other uses or was lost. These are reconstructed proportions, not a perfect contemporary survey.
@@ -188,6 +209,22 @@ MORE SPORANGIA
 Infected seed tubers, volunteer potatoes and discarded infected tubers can also help the organism persist between crops. Sexual reproduction, where it occurs, can add another source of persistence and genetic variation. The exact balance of these routes is not identical everywhere.
 
 This is not one simple attack followed by a polite departure. It is a reproductive system capable of repeatedly exploiting a susceptible crop.
+
+---
+
+### One organism, several routes through the landscape
+
+A sporangium arriving on a leaf is not the whole story. Under conditions favouring indirect germination it can release biflagellate zoospores, which move through films of water and encyst before infection. Under other conditions a sporangium may germinate directly. Rain splash and wind help distribute propagules, and infected tubers can move infection across seasons and across the boundaries of a field. Volunteer potatoes, infected discarded tubers and cull heaps can provide living host material. Where compatible mating types coexist, sexual reproduction can produce oospores that may persist in soil, so the shorthand that the pathogen *only* overwinters in living tissue is not universally true.
+
+This is why late-blight advice distinguishes reducing the **initial inoculum** from slowing **secondary spread**. Cleaning up infected volunteers is not a substitute for anticipating humid weather. A weather forecast is not a substitute for healthy seed. And healthy seed is not a substitute for keeping an eye on the crop once the pathogen arrives from elsewhere.
+
+The pathogen's origins and migrations are also a research question, not a single uncomplicated travel itinerary. Historical genomes, modern genetic diversity and relationships with other *Phytophthora* lineages have been used to investigate competing hypotheses involving the Andes and Mexico. The place with high diversity today is not automatically the place where a historical epidemic began. Similarly, the appearance of new mating types and lineages in Europe changes possibilities for recombination without proving that every outbreak is sexually produced.
+
+### The plant does not passively wait to die
+
+Plants have immune responses. *P. infestans* deploys secreted molecules that interfere with them. Researchers study **effectors**, including RXLR-class proteins, alongside enzymes and inhibitors involved in colonisation and host interaction. The organism's unusually repeat-rich genome includes regions in which host-interaction genes can change rapidly; this is the basis of the **two-speed genome** description. It is a description of genomic organisation and evolutionary potential, not a claim that the pathogen plans ahead.
+
+The host recognises some effectors; pathogen variants may escape particular recognition mechanisms; breeders seek combinations of plant defences that are harder to evade. This is an evolutionary relationship, not a morality play. The moral choices enter when people decide who will pay for the research and who will have access to its results.
 
 ---
 
@@ -415,6 +452,14 @@ The crop failure has memory because the system has memory.
 
 ---
 
+### A note on the numbers before we start moralising
+
+The historical acreage sequence used above follows a CSO-linked reconstruction, not a modern annual census. The figures are useful for comparing the scale of the planting collapse, but their units, sources and definitions must travel with them. In particular, **284,000 acres converts to about 115,000 hectares**, whereas **89,000 hectares converts to about 220,000 acres**. Both figures appeared in materials discussed during the development of this cluster; they cannot be silently treated as equivalent estimates. They may derive from different tables or reconstructions. The node retains the clearly identified acreage sequence for its causal illustration while **flagging the conflicting hectare figure for primary-table reconciliation**, rather than manufacturing precision.
+
+The 1848 conversion is likewise approximately **810,000 acres = 328,000 hectares**. This is arithmetic, not independent validation of the historical source figure. A separate evidence appendix should give table, page, year, crop definition, unit and original value before any graph or dataset is published.
+
+---
+
 ## 19. 🔬 The Science Was Still Being Invented
 
 In 1845, scientists did not possess the modern causal account of late blight. But it is equally inaccurate to suggest nobody suspected an organism might be responsible.
@@ -469,6 +514,47 @@ The pathogen has a biology. The famine has a system.
 
 ---
 
+### When the governing model discounts the people living in it
+
+Here is the harder proposition behind the biological history: **a colonial government may be organised to know how to possess, value and extract from land without being organised to hear the people who know how to survive on it**. That is a question to test against the Irish documentary record, not an accusation that every official held one motive or that no relief was attempted.
+
+Imagine two reports entering an administrative system. One records rents, holdings, imports, exports and public expenditure. The other records families running out of food, tenants selling their last animals, seed potatoes being eaten and local people explaining that the next planting will fail. Both contain information. They may not carry equal authority to those receiving them.
+
+If the governing assumptions already classify the poor as dependent, irresponsible or unreliable, reports of hunger may be processed as proof of those assumptions rather than evidence that the policy model is failing. Relief can then be designed to discipline behaviour, preserve an economic doctrine or avoid creating supposed dependency, even while mortality is increasing. The precise role of such thinking in particular policies requires quotations, dates and documentary evidence; the mechanism itself is clear enough to investigate.
+
+```text
+LOCAL OBSERVATION / HUMAN DISTRESS
+               ↓
+      ADMINISTRATIVE FILTER
+      (class, empire, doctrine)
+               ↓
+    WHAT COUNTS AS CREDIBLE?
+               ↓
+     RELIEF / DELAY / REFUSAL
+               ↓
+         HUMAN OUTCOMES
+               ↓
+     IS THE MODEL REVISED?
+```
+
+The dangerous point is the last one. **A state can receive feedback and still refuse to learn from it.** That is not an absence of information. It is a failure of interpretation and governance.
+
+The historical response was neither literally nothing nor remotely reducible to a single act. Relief schemes, changes of government, competing doctrines, local implementation and contemporary objections all belong in the account. So do the critics who recognised the inadequacy of policy while the catastrophe was unfolding. The relevant comparison is not between a fictional perfect rescue and no action; it is between the measures undertaken, the alternatives available, the evidence of need and the consequences of decisions made.
+
+### Why the comparison with plague and genocide histories keeps appearing
+
+I find myself reading this somewhere between the histories of Europe's great epidemics and histories of colonial mass atrocity. The first body of literature helps me think about biological disturbance and mortality. The second forces the question of what happens when authorities know that particular people are dying and their humanity is already discounted in political life.
+
+That is a **position of historical reading and moral inquiry**, not a claim to have resolved the legal classification. It is difficult to reconstruct intent across institutions and generations. One person may believe in providence; another may prioritise budgets; another may anticipate deaths and accept them; another may try desperately to prevent them. Evidence of discriminatory policy or reckless disregard does not automatically prove the specific intent required by modern genocide law. Nor does uncertainty about that intent dissolve responsibility for foreseeable harm.
+
+The legal question belongs with legal historians and scholars of genocide; the evidentiary question belongs to the archive. The question that belongs here is whether colonial hierarchies helped make mass suffering tolerable to the institutions with the power to respond. That question is not answered by identifying the pathogen. It begins there.
+
+Claims that particular offers of foreign assistance were refused or obstructed should be investigated as **specific documented episodes**—who offered what, to whom, when, and with what recorded response—not repeated as an unsourced general claim. The same standard applies to the words and intentions attributed to named officials.
+
+**Conquest is not custodianship. Possession is not the same thing as being able to keep the inhabitants alive.**
+
+---
+
 ## 23. 💸 Nearly Two Centuries Later, Still Fighting The Bastard
 
 Late blight remains a major economic and food-security problem. Modern reviews report **billions of dollars annually** in global losses and management expenditure, with estimates often expressed in the range of **US$3–10 billion**. Such figures are broad, method-dependent estimates assembled from studies at different dates, not audited measurements of the precise cost in 2026.
@@ -480,6 +566,18 @@ The more interesting point is the infrastructure behind the numbers. Growers spe
 And still the organism turns up.
 
 Two centuries of this. Perhaps the historical lesson is not that the Irish were stupid. Perhaps the lesson is that **this is a genuinely difficult biological problem**.
+
+---
+
+### The price of the modern anti-bastard operation
+
+The 2022 *Journal of Integrative Agriculture* review is useful because it gives the cost of control as well as the cost of failure. It cites earlier estimates of **US$3–10 billion per year** in combined global yield losses and management costs; **losses above 60%** in some poorly protected systems; disease-control expenditure reaching **10–25% of crop market value** in some production contexts; and reports of **up to twenty pesticide applications per growing season** in some areas. It also discusses a roughly fourfold productivity disparity between developed and developing-country potato systems, with inadequate disease control among several contributing factors.
+
+These are **figures reported by a 2022 review from studies with different dates, geographies and methods**. They are not a single harmonised 2026 global dataset. Nor does a reported maximum number of applications establish that every grower needs twenty. Their value is to reveal the scale and uneven distribution of the problem.
+
+The same organism can be a costly nuisance for a grower with capital, diagnostics and a reliable market, and a devastating threat for a household that cannot afford timely protection or a failed harvest. Modern plant pathology therefore reinforces, rather than weakens, the historical distinction between **biological exposure** and **capacity to survive exposure**.
+
+**We are still spending money, labour and research effort on the thing that nineteenth-century Irish cottiers are routinely accused of not managing competently enough.** That ought to put an end to the sneering.
 
 ---
 
@@ -506,6 +604,49 @@ Repeated use of compounds with the same mode of action can select for resistant 
 Historical review articles sometimes list products authorised in a particular country in a particular year. Those lists must not be republished as present-day UK pesticide advice. Registrations change. The right intervention is jurisdiction-specific and time-sensitive.
 
 The grower is not choosing between 'chemicals' and 'nature'. The grower is navigating interacting biological, environmental, legal and economic constraints.
+
+---
+
+### Three jobs that a pesticide may do, and three places it may go
+
+The 2022 review distinguishes products by their *purpose* and by their *movement*. Those are not identical classifications.
+
+| Purpose | What the intervention attempts | Why timing matters |
+|---|---|---|
+| Protectant | Prevent germination or initial penetration | Must generally be in place **before** infection |
+| Early post-infection activity (sometimes called curative) | Suppress very early established infection | A narrow window; **not** a cure for visibly destroyed tissue |
+| Anti-sporulant | Reduce production or release of infectious structures | Limits onward transmission rather than restoring dead leaves |
+
+A **contact** product remains mainly on treated surfaces; **translaminar** movement carries an active substance across or within treated leaf tissue; **systemic** movement distributes it more broadly within the plant, depending on the chemistry. Rain, growth of new foliage, product persistence and application technique all affect actual protection. Products differ, and historical lists of European registrations are **not** current authorisation advice.
+
+Resistance management matters too. Repeated reliance on one mode of action can select pathogen populations less sensitive to it. More spraying is not automatically more effective; it can be more expensive, environmentally burdensome and counterproductive. Integrated management therefore coordinates cultivar choice, sanitation, forecast risk and appropriately selected treatments, including rotation or mixture of modes of action where current guidance permits.
+
+### Decision support is a system, not an app that knows the future
+
+The research describes the progression from humidity-based warning rules towards decision-support systems integrating more variables. Some systems estimate whether weather has been favourable for infection; others incorporate the interval since the last application, expected residual protection and crop development. Molecular detection using PCR and newer methods such as loop-mediated isothermal amplification (LAMP) or recombinase polymerase amplification (RPA) can supplement field observation. Genotyping may help researchers understand whether locally circulating pathogen lineages can overcome particular host resistance genes.
+
+```text
+FIELD + WEATHER OBSERVATIONS
+           +
+  CROP / VARIETY INFORMATION
+           +
+   PATHOGEN SURVEILLANCE
+           +
+  TREATMENT HISTORY / COST
+           ↓
+       RISK MODEL
+           ↓
+   ADVICE / FARM DECISION
+           ↓
+       INTERVENTION
+           ↓
+    OBSERVED OUTCOME
+           ↺
+```
+
+**Not every operational system contains every input.** The diagram describes the information architecture under investigation, not a claim that all growers have a laboratory in their tractor. The model's usefulness depends on calibration, local weather, trustworthy measurements, accessible advice, affordable inputs and the farmer's capacity to act in time.
+
+There is also a political economy of information here. A sensor may be accurate, but if the farmer cannot afford the treatment, cannot obtain seed, or receives advice after the infection window, the knowledge does not become protection. **A warning nobody can act upon is not the same thing as resilience.**
 
 ---
 
@@ -548,6 +689,20 @@ The aim is not a potato that never needs looking after. It is a crop that can be
 
 ---
 
+### Why breeding the potato is not a simple matter of choosing better parents
+
+The 2022 review distinguishes **race-specific resistance**, often involving plant nucleotide-binding leucine-rich repeat (NLR) proteins recognising particular pathogen effectors, from broader **quantitative or race-non-specific resistance**, which can involve many genes and physiological processes. Recognition can trigger localised defence, including hypersensitive cell death, before the infection spreads. The pathogen population is variable, however, and resistance based on one recognition event may be overcome.
+
+Examples discussed in the review include **RB**, **Rpi-vnt1**, **Rpi-Smira2/R8** and **Rpi-blb2**. These names are not a shopping list for farmers. They demonstrate how researchers identify and combine different recognition mechanisms. Stacking several useful genes may improve breadth and durability, but effectiveness must be tested against circulating lineages and monitored over time.
+
+The useful genes are not necessarily found in varieties that can easily be crossed with commercial potatoes. Some occur in wild *Solanum* relatives separated by breeding barriers. Many commercial potatoes are **tetraploid** and highly heterozygous; introducing one desired trait while preserving yield, flavour, storage qualities and other useful characteristics is not equivalent to swapping one neat gene in a school diagram. Conventional crosses, genomic selection, gene discovery, cisgenic or transgenic transfer and editing each face different technical and regulatory constraints.
+
+**RenSeq**—resistance-gene enrichment sequencing—and long-read sequencing can help identify full-length candidate resistance genes in difficult genomic regions. Discovery is not deployment: a gene must be functionally tested, incorporated into an agronomically useful crop and shown to work under field conditions. Ownership, intellectual-property rules, access and public regulation determine whether an advance reaches the people who need it.
+
+The potato is being issued a multilayered security system. Unfortunately the pathogen keeps trying the doors.
+
+---
+
 ## 28. 🧫 Other Organisms May Help
 
 Researchers are investigating biological control agents, microbial communities, plant-derived compounds and RNA-based techniques. Studies involving organisms such as *Trichoderma* or *Pseudomonas*, natural products and RNA interference explore possible ways to inhibit infection or improve plant defences.
@@ -557,6 +712,27 @@ But laboratory inhibition, greenhouse performance, multi-site field effectivenes
 Nor does *natural* automatically mean harmless. A substance's environmental and human-health effects depend on its chemistry, dose, exposure and application.
 
 The future of management is likely to remain plural: combinations of tools, continually tested against changing pathogen populations and real farming conditions.
+
+---
+
+### Different proposed technologies intervene in different relationships
+
+The emerging-protection section of the 2022 review is not one generic basket of 'natural alternatives'. It describes several distinct research programmes:
+
+| Approach | Proposed mechanism | Evidence caution |
+|---|---|---|
+| Plant-derived compounds such as **eugenol**, carvacrol, matrine and zeylenone | Inhibit pathogen processes or growth | Promising assays or individual field studies are not universal operational proof |
+| ***Trichoderma*** strains | Competition, antagonism and in some cases parasitic interactions | Strain, environment and formulation matter |
+| ***Pseudomonas*** communities | Suppression and possible host-defence effects | Results may vary with microbiome and field conditions |
+| ***Myxococcus*** isolates | Antagonism against pathogen reproduction or growth | Early-stage evidence does not establish practical scalability |
+| Host-induced RNA interference | Plant-produced small RNAs interfere with pathogen gene expression | Requires demonstrated delivery and durable field protection |
+| Spray-induced RNA interference | Externally delivered RNA targets pathogen genes | Stability, uptake, specificity, cost and approval remain central questions |
+
+The review reports laboratory inhibition of *P. infestans* by eugenol and cites a field comparison using a particular formulation and dose. That does not justify advising growers to spray essential oils on crops. Likewise, *Trichoderma* is a true fungus and *P. infestans* is an oomycete: the former can be studied as a potential antagonist of the latter without confusing their taxonomies.
+
+RNA interference is especially interesting because the host–pathogen encounter involves molecular communication in both directions. Some *Phytophthora* effectors interfere with plant RNA-silencing pathways. Researchers investigate whether the same biological machinery can be used to silence genes important to the pathogen. The proposal is ingenious; the route from experimental effect to dependable crop protection remains substantial.
+
+**Ecological stewardship does not mean refusing intervention.** It means understanding what the intervention does, what it costs, which relationships it changes and whether it works outside the laboratory.
 
 ---
 
@@ -576,6 +752,28 @@ Spare seed, diverse breeding programmes, independent laboratories, trained advis
 
 ---
 
+### The farmer is inside the feedback loop
+
+There is a kind of expertise that disappears when agriculture is described only through acreage, output and unit cost. A grower knows which corner of a field stays wet after the rest has drained, which crop has struggled on a particular slope, what the soil does after a run of rain, and which compromises will cause trouble next season. This knowledge can be compared with measurements and tested; it is not mystical. But it is **situated**. It exists because someone has spent time attending to a living place.
+
+A financial owner may control a holding without possessing that expertise. A retailer may dictate prices without being able to diagnose late blight. A government can set targets without being the one standing in the field deciding whether to intervene before the next wet night. **Ownership is not competence.** Control of the balance sheet does not automatically confer knowledge of the ecology that produces the crop.
+
+This does not make every farming practice wise or every farmer correct. It makes farmers indispensable participants in research and policy, rather than merely the objects of both. Good science and good field observation should challenge and improve each other.
+
+### Why the supposedly inefficient bits matter
+
+Crop rotation can help manage some diseases, weeds and soil conditions, though it cannot by itself stop windborne late-blight sporangia arriving from another field. Drainage, healthy seed, variety diversity, monitoring, soil care, animal husbandry and retaining seed or financial reserves may reduce immediate margins. They can also preserve the ability to produce food after a shock.
+
+That is why resilience does not always photograph well in a quarterly performance report. The avoided failure is invisible. The redundant laboratory, reserve seed, independent adviser or diversified supply route looks expensive until the day it becomes essential.
+
+Large corporate farms are not automatically ecologically fragile; small family farms are not automatically diverse. The variables are real management practices, genetic and supply-chain concentration, access to capital, who controls decisions and **who absorbs the losses when optimisation fails**.
+
+There is a reason farmers sometimes turn up to legislatures with tractors and agricultural materials. The political theatre makes the material infrastructure of food production visible to people accustomed to encountering it as a policy category. That observation is not an endorsement of dangerous dumping or obstruction. It is a reminder that **the agricultural sector can bring the agricultural sector**.
+
+And yes, a properly good potato is worth protecting. The crop is not a cheap interchangeable object at the end of an invisible chain. It is the result of land, labour, knowledge, weather, biology and care.
+
+---
+
 ## 30. 🌍 The Field Is Local; Its Dependencies Are Global
 
 A farmer stands in a particular field. The resources that make farming possible may have travelled through several countries.
@@ -585,6 +783,18 @@ Seed production, fertiliser manufacturing, natural gas, fuel, machinery, spare p
 Likewise, trade moves useful crops and technologies while creating routes for the accidental introduction of pests and pathogens. Plant-health inspection, traceability, quarantine and international surveillance are therefore part of food security, not irritating paperwork appended to it.
 
 The old fantasy is that food security means maximising this year's output. The harder question is whether the system can keep feeding people when weather, disease, energy prices or logistics change.
+
+---
+
+### The energy in the fertiliser, the fuel in the tractor
+
+The international dependencies are not limited to the physical movement of potatoes. Industrial nitrogen fertiliser begins with ammonia production, usually via the Haber–Bosch process. In many regions the hydrogen and much of the process energy come from **natural gas**. Phosphate and potash have different mining and processing chains; pesticides have their own chemical feedstocks and manufacturing routes. Agricultural machinery, storage, transport and refrigeration depend on fuel, electricity and components.
+
+Disruption in the Strait of Hormuz can affect oil and liquefied-natural-gas trade and therefore prices far beyond the ships actually travelling through the strait. Higher gas prices can raise fertiliser production costs; higher fuel and shipping costs can affect farmers and food distribution. The mechanism is a **network of price and supply dependencies**, not a claim that all fertiliser is shipped through one waterway.
+
+This raises a difficult policy question: if governments expect farmers to use increasingly sophisticated crop-protection systems, are they also protecting the research, laboratories, extension services and input supply chains those systems require? Assertions about recent cuts to science budgets in the US, UK or Europe need programme-specific, inflation-adjusted verification before they become claims in this node. But the question cannot be avoided by assuming scientific capacity will always be there.
+
+**The field is local. The dependencies are global. The consequences return to the body.**
 
 ---
 
@@ -602,6 +812,26 @@ Important distinctions include:
 - **Human fungal infections:** including drug-resistant *Candida auris* and geographically patterned fungal diseases.
 
 Global movement, environmental disturbance, climate change and biological adaptation can affect these threats in different ways. Their common lesson is not that every fungus will kill us. It is that **interconnected ecological systems require observation and maintenance before a crisis becomes visible**.
+
+---
+
+### Case studies: the threats are not all potatoes, or even all plants
+
+The wider literature makes a useful set of comparisons without turning every fungal disease into a hypothetical human pandemic.
+
+**Amphibians:** chytrid fungi have contributed to severe amphibian population declines and extinctions in multiple regions. The Scheele et al. (2019) synthesis documents an exceptional wildlife disease crisis. Losing amphibians also changes ecological relationships involving prey, predators and aquatic habitats; disease does not stop at the infected individual.
+
+**Bats:** white-nose syndrome, caused by a true fungus, has produced severe mortality in affected North American bat populations. Frick et al. (2010) documents regional collapse in a formerly common species. This is an example of pathogen emergence in a susceptible wildlife population, not a claim that bats and potatoes share the same pathogen biology.
+
+**Trees and forests:** pathogens including fungal white pine blister rust and oomycete diseases can restructure landscapes over long timescales. A forest is not simply timber awaiting valuation; it also provides habitat, soil processes, water regulation and relationships with other organisms.
+
+**Human healthcare:** *Candida auris* is a drug-resistant yeast of particular concern in healthcare settings. Genomic work has documented the emergence of distinct clades. The hypothesis that warming contributed to its emergence is an interesting research proposal, **not an established single-cause explanation**. Neither this yeast nor the wildlife pathogens should be conflated with *P. infestans*.
+
+**Food crops:** wheat rusts, banana diseases, coffee pathogens and potato late blight illustrate different threats to crops, trade and livelihoods. Crop losses can produce severe human consequences without a pathogen ever infecting a human body.
+
+The useful common structure is **movement + susceptible hosts + environmental opportunity + the capacity (or failure) to detect and respond**. The biological mechanisms differ. The social question—who is protected when a threat emerges—remains.
+
+Emily Monosson's *Blight* is valuable as a gateway into this ecological panorama. Its title is not permission to call every blight a fungus. The oomycete has already caused enough trouble without being assigned somebody else's taxonomic identity.
 
 ---
 
@@ -630,6 +860,20 @@ This is an **authorial analogy**, not evidence that Miyazaki was commenting on t
 But the comparison is valuable precisely because it makes a familiar reader question their inherited assumptions about land, authority, extraction and the people who actually know the terrain.
 
 A farmer who recognises the early signs of a disease is not an obstacle to modernisation. That person may be the most important sensor in the system.
+
+---
+
+### Why bring a Japanese ecological story into an Irish colonial history?
+
+The comparison with *Nausicaä* is deliberately a **reading practice**, not a claim that the film secretly narrates An Gorta Mór. The 1984 film is accessible to older children as an adventure story; the manga, begun in 1982, is longer, stranger and politically more complicated. The film preceded the formal establishment of Studio Ghibli, although it involved important people who would become associated with the studio.
+
+The story emerged in a Japan shaped by imperial defeat, postwar reconstruction, environmental damage, anti-militarist currents and contested memories of empire. Britain's transition out of formal empire followed a different and often self-congratulatory political narrative. Neither history can be reduced to a slogan: Japanese defeat did not produce automatic decolonisation, and British decolonisation was neither uniform nor freely granted everywhere. The comparison is useful precisely because the histories are **not** interchangeable.
+
+For a reader raised within the habits of a former imperial power, *Nausicaä* offers a way to practise asking different questions. What if the threatening landscape has processes we do not understand? What if people who live near it know something the conqueror does not? What if an intervention that looks decisive destroys the conditions required for future survival? What if protecting life sometimes requires stopping an organism from spreading, rather than celebrating everything called 'nature'?
+
+In the manga, breadfungus threatens the Valley's ancient tree and water security. Nausicaä is capable of ordering destructive intervention to prevent ecological disaster. That matters here. **Stewardship is not an aesthetic preference for leaving everything alone. It is responsibility informed by relationships and consequences.**
+
+The Irish historical question is not whether British officials should have behaved like a fictional heroine. It is whether power was exercised with sufficient attention to the people, land and material conditions that made survival possible. The contemporary question is whether we have learned to organise food systems around that attention, or merely become better at extracting more from them.
 
 ---
 
@@ -722,12 +966,25 @@ The sources below serve different purposes: historical reconstruction, plant-pat
 - [Lockhart et al. (2017): “Simultaneous Emergence of Multidrug-Resistant *Candida auris* on 3 Continents…”, *Clinical Infectious Diseases*](https://doi.org/10.1093/cid/ciw691).
 - Emily Monosson (2023), *Blight: Fungi and the Coming Pandemic*, W. W. Norton — broad ecological and scientific interpretation; not a source for classifying oomycetes as true fungi.
 
+### Historical potato diversity and colonial survival ecologies
+
+- [Choiseul, Doherty and Roe (2008): *Potato Varieties of Historical Interest in Ireland*](https://irishpotatofederation.ie/wp-content/uploads/potato-varieties-of-historical-interest-in-ireland.pdf) — historic names and varieties; the list is not a national acreage census.
+- [David Nally (2020): “Vegetative States: Potatoes, Affordances, and Survival Ecologies”, *Antipode*](https://doi.org/10.1111/anti.12652) — colonial political economy and subsistence ecology.
+- [Cormac Ó Gráda: Irish potato historical overview (UCD repository)](https://researchrepository.ucd.ie/rest/bitstreams/2219/retrieve) — changes in potato cultivation and varieties; verify exact edition and pagination before quotation.
+- [Thomas Downey (1996): “The Lumper: An Analysis of Its Role in the Irish Famine, 1845–50” (Irish History Online bibliographic record)](https://iho.ie/index.php?iho_function=1&iho_identifier=10521) — **bibliographic lead only; full text not checked**.
+
+### Additional wildlife, climate and human-health case studies
+
+- [Frick et al. (2010): “An Emerging Disease Causes Regional Population Collapse of a Common North American Bat Species”, *Science*](https://doi.org/10.1126/science.1188594).
+- [Garcia-Solache and Casadevall (2010): “Global Warming Will Bring New Fungal Diseases for Mammals”, *mBio*](https://doi.org/10.1128/mBio.00061-10) — hypothesis, not demonstrated universal forecast.
+- [Casadevall, Kontoyiannis and Robert (2019): “On the Emergence of *Candida auris*: Climate Change, Azoles, Swamps, and Birds”, *mBio*](https://doi.org/10.1128/mBio.01397-19) — explicitly hypothesis-driven.
+
 ### Outstanding source checks
 
 - Establish regional and class-specific distribution of named pre-Famine potato cultivars from historical variety catalogues and archival scholarship. **No definitive national count of three or four dominant varieties is asserted here.**
 - Check precise primary-source wording for 1840s eyewitness descriptions and official statements before quotation.
 - Verify the original study years and methodology behind contemporary annual cost estimates; do not describe them as exact 2026 losses.
-- Reconcile all historical acreage and yield figures against the CSO tables when producing a numerical data appendix. The hectare conversions here are rounded.
+- **Resolve the 1847 discrepancy** between 284,000 acres (approximately 115,000 ha) and the separately reported 89,000 ha; identify each table and definition. Reconcile all historical acreage and yield figures against CSO tables before a numerical appendix. The hectare conversions here are rounded.
 - Keep claims about foreign aid refusal, named official intent and particular relief choices in the appropriate evidence-led governance nodes.
 
 ---
