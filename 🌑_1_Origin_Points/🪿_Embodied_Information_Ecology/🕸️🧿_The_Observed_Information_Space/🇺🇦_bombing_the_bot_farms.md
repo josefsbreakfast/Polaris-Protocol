@@ -289,7 +289,9 @@ It is **what became quieter, by how much, for how long, and what — if anything
 - [📹: Michael Adam, via TikTok: “поэтому не обращайте внимания. продолжайте хуярить Россию.”](https://vm.tiktok.com/ZN8BgUN7h/) – *Слава Україні ✌️*
 - [📹: Bogdan NL, via TikTok](https://vm.tiktok.com/ZN8BgQFMT/)
 - [📹: Danny, via TikTok: “the world is so much more peaceful rn”](https://vm.tiktok.com/ZN8Bg7rFW/) – *”Could mean nothing, though 🤷‍♀️”*
-- [📹: Disco Barrington, via TikTok: “Down with the bots!”](https://vm.tiktok.com/ZN8BgK86K/) 
+- [📹: Disco Barrington, via TikTok: “Down with the bots!”](https://vm.tiktok.com/ZN8BgK86K/)
+- [📹: NM Media Report, via TikTok: “Российские боты исчезли после прилета по «Яндексу»”](https://vm.tiktok.com/ZN8Bg3oMC/)  
+
 
 *If Mamdani is our mayor, Zelenskyy is my president.*  
 
