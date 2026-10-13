@@ -1,5 +1,5 @@
 # 🇺🇦 Bombing the Bot Farms
-**First created:** 2026-10-11 | **Last updated:** 2026-10-12  
+**First created:** 2026-10-11 | **Last updated:** 2026-10-13  
 *An infrastructural interruption, a disputed bot-traffic number, and the question of what becomes quieter when part of an observed information environment loses computational support.*
 
 ---
@@ -275,6 +275,7 @@ It is **what became quieter, by how much, for how long, and what — if anything
 - [📹: Aaron Parnas, via TikTok: “News: Ukraine And Zelenskyy Confirm Strikes Disrupt Russian Bot Networks - They Will Continue”](https://vm.tiktok.com/ZN8B4Rmy5/)  
 - [📹: MeidasTouch, via TikTok: “Zelenskyy: It ‘Suddenly Became A Little Easier To Breathe On Many Social Media Platforms’ After Ukraine Struck Russian Data Centers”](https://vm.tiktok.com/ZN8B4Yr1H/)  
 - [📹: Nick Wolny, via TikTok: “How AI Is Changing Bots”](https://vm.tiktok.com/ZN8B42HM6/)
+- [📹: The Champagne Socialist, via TikTok: “We’ve actually got some good news for once”](https://vm.tiktok.com/ZN8BbVrCy/)  
 
 ---
 
@@ -302,4 +303,4 @@ ukraine, yandex, data centres, russian internet, runet, livejournal, information
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-12_
+_Last updated: 2026-10-13_
