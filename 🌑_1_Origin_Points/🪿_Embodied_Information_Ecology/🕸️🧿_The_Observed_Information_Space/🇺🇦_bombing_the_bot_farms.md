@@ -89,6 +89,8 @@ An operation might collect information from one population, concentrate hostilit
 
 For example, **hypothetically**, concentrated hostility against a marginalised speaker could generate public argument; genuine users and journalists might then circulate that argument; a wider audience might encounter it as evidence of a supposedly spontaneous social controversy. The original coordinated contribution can become a real human feedback loop. This mechanism is plausible; it is **not** an attribution to a named campaign or evidence that particular individuals were selected by a state.
 
+There is also a cost question. An operator trying to shape a broad public conversation could, in principle, focus intense effort on a smaller set of speakers or communities whose treatment will be noticed by a larger audience. That is a plausible *strategy of indirect influence*, not evidence that minority speakers are invariably the cheapest or most effective targets. Its effectiveness would depend on social networks, audience response, media uptake and the political objective.
+
 Resource constraints make geographic and audience segmentation worth studying. In a UK electoral setting, constituency-level concentration could matter more than national averages. That does not justify assuming which seats or demographic groups are susceptible, or claiming a Russian-directed operation targeted them without documentation.
 
 ---
@@ -110,6 +112,8 @@ One user may observe polarising political arguments. Another may repeatedly enco
 The observed information space is not a census of the population. It is what people can see through ranking, search, recommendation, networks, moderation and their own choices. Artificial engagement can alter visibility; human reactions can then amplify material further. That is a *possible* feedback pathway, not a verified description of any particular platform's ranking system.
 
 We need separate instruments for **posting volume**, **collection freshness**, **targeting fidelity**, **coordination**, **engagement**, **recommendation placement**, **hostile exposure**, and **navigational autonomy**. An account can continue posting while its messages become less timely, less widely circulated or less frequently encountered by particular users. Conversely, a platform update could change recommendations without any foreign infrastructure being affected.
+
+A reduction in *collection freshness* could mean slower reaction to new topics without fewer posts. A reduction in *amplification* could mean the same number of posts with fewer impressions. A change in *platform ranking* could produce a similar user-facing result without any campaign infrastructure failure at all. These are rival pathways, not interchangeable labels for one event.
 
 The counterfactual question is: *what would these measures have looked like without the October outage?* Compare pre-event baselines, affected and unaffected networks, other platforms, moderation changes, contemporaneous news and later recovery. A striking coincidence is a reason to investigate, not a completed causal attribution.
 
@@ -225,6 +229,8 @@ These diagrams describe **hypothetical dependencies**, not a verified map of the
 
 **Reading B:** people do not receive one uniform internet. A change in an upstream signal can have uneven consequences; the direction and size depend on platform behaviour, prior exposure, other causes and real user activity. This is not a claim that identity itself determines algorithmic treatment.
 
+**Visual implementation rule:** In the final rendered version, label *platform ranking* as a separate actor, not an arm of the alleged operation. Draw more than one infrastructure provider, show failover, and mark the affected component as *hypothetical*. Show at least two differentiated user-exposure paths and a feedback route into collection. Use separate visual conventions for measured facts, user testimony, general technical mechanisms and October-specific hypotheses. A dashed arrow must not become a solid arrow merely because it looks nicer.
+
 **Diagram development note:** these monospace diagrams are semantic scaffolds. A later designed visual should retain separate arrows for collection, modelling, posting, amplification and platform ranking, plus clear boundaries between established relationships and October-specific hypotheses. Do not silently turn a dashed connection into a solid one for aesthetic neatness.
 
 ---
@@ -234,6 +240,19 @@ These diagrams describe **hypothetical dependencies**, not a verified map of the
 Start with a dated *before* baseline. Obtain facility/service outage and restoration records; request network series with absolute counts and denominators; distinguish crawlers, scraping, political accounts and coordinated engagement. Compare the posting behaviour of independently identified networks with their timing, topic responsiveness, repost structure and reach. Then examine **exposure**, not only output: recommendation relevance, unsolicited hostile encounters, navigation interruptions and the ability to reach intended content.
 
 Recruit participants across different platforms, locations and forms of exposure without treating identity groups as interchangeable or their testimonies as a statistical sample. Preserve participant privacy; do not create new dossiers of people who have already experienced harassment. Compare against moderation changes, algorithm updates, elections, news cycles, other outages and restoration. Look for temporal alignment, specificity, dose-response, substitution and recovery. Publish negative findings too.
+
+### A comparison that could actually discriminate between explanations
+
+| Competing explanation | Distinctive prediction to test | Evidence needed |
+|---|---|---|
+| Disrupted collection or analysis | Posting persists, but topical adaptation or targeting becomes less timely | Dated network behaviour, collection/service evidence |
+| Disrupted amplification | Similar posting volume, but lower reach or altered engagement pathways | Platform impressions, recommendation audits, coordinated-engagement traces |
+| Platform-side change | Feed exposure shifts even in audiences or services with no plausible Yandex dependency | Platform change logs, matched unaffected comparison groups |
+| Ordinary news or political-cycle change | Content and engagement shift alongside a major external event | Dated news, election and participation baselines |
+| Selection or reporting effects | Dramatic anecdotes are more visible than unchanged experiences | Preregistered sampling, longitudinal panels, negative reports |
+| Several mechanisms at once | Different measures change at different times or across different populations | Multi-platform, multi-measure time series and restoration windows |
+
+**Do not ask people who have experienced harassment to hand over intimate browsing histories as the price of being believed.** Research design must include informed consent, data minimisation, safe withdrawal and publication rules that do not expose participants to renewed targeting. A prospective panel can record changes without demanding a complete personal dossier.
 
 The author is not asking journalists to announce that Ukraine repaired the internet. She is asking them not to abandon a potentially consequential change in the information environment because a crawler chart was mistaken for a propaganda census.
 
@@ -278,6 +297,8 @@ Perhaps several things changed at once. Perhaps the strikes contributed. Perhaps
 | Marginalised people reported pronounced changes | Accounts collected in Constellations; not representative prevalence data |
 | Author's browsing environment changed substantially | First-person testimony; causal source not established |
 | October strikes caused the reported feed changes | **Open hypothesis**, not finding |
+
+**Evidence provenance rule:** Keep three separate records for each significant claim: (1) what the original source directly says or measures; (2) what a journalist or creator infers from it; (3) what this node proposes as a further hypothesis. A link's presence is not authentication. In particular, obtain the underlying crawler series and confirm contemporary reports before upgrading any October-specific assertion from attributed reporting to established fact.
 
 **Next evidence:** archive the Finnish commentator's original words; authenticate the 49% graph and API series; obtain dated Yandex service restoration information; retrieve the full MI5 speech; inspect the methods of October fact-checks; seek ethically collected pre/post feed-exposure data; compare unaffected networks and platforms; investigate Cambridge Analytica's documented international relationships and the boundaries of official investigations; and revisit the question after recovery and migration windows.
 
