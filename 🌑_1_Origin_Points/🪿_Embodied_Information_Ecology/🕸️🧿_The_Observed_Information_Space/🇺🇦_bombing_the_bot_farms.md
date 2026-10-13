@@ -283,7 +283,10 @@ It is **what became quieter, by how much, for how long, and what — if anything
 - [📹: Jordan the Grey, via TikTok: “Now the Russian bot farms have been taken out, let’s do a little test…”](https://vm.tiktok.com/ZN8BbnRKM/) – *comment section is lit*
 - [📹: Indy100, via TikTok: “Zelensky hailed 'genius’ for taking out Russian 'bot farms' weeks before midterm elections”](https://vm.tiktok.com/ZN8Bb7N4A/)
 - [📹: Jeawok Media, via TikTok: “Do you think what we see online from the modern right wing is shaped by bots?”](https://vm.tiktok.com/ZN8Bb7WCw/)
-- [📹: BootyWiz, via TikTok: “The Internet has been such a much more pleasant place since the bot farm data center got taken down in Russia by Ukraine.”](https://vm.tiktok.com/ZN8BgNwt6/)  
+- [📹: BootyWiz, via TikTok: “The Internet has been such a much more pleasant place since the bot farm data center got taken down in Russia by Ukraine.”](https://vm.tiktok.com/ZN8BgNwt6/)
+- [📹: Trk ikiguy: “после внезапного отключения катацентров Яндекса ультраправая немецкая партия (AfD), резко потеряла поддержку в соцсетях.”](https://vm.tiktok.com/ZN8Bg6nKq/)
+
+*If Mamdani is our mayor, Zelenskyy is my president.*  
 
 ---
 
