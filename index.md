@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-13 11:33:48 UTC_
+_Generated on 2026-10-13 12:11:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2315,6 +2315,7 @@ _Generated on 2026-10-13 11:33:48 UTC_
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/notes.txt)
       - [`🇺🇦_bombing_the_bot_farms.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/🇺🇦_bombing_the_bot_farms.md)
       - [`🎖️_very_modern_major_general.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/🎖️_very_modern_major_general.md)
+      - [`🦋_the_untrusted_sex.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/🦋_the_untrusted_sex.md)
       - [`🧵🪡_scouting_power_1066.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/🧵🪡_scouting_power_1066.md)
     - [**🧿_Surveillance_And_Observability/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/.🌱_Still_Growing/)
