@@ -1,5 +1,5 @@
 # 🐺 The Sons of These Islands
-**First created:** 2026-10-12 | **Last updated:** 2026-10-12  
+**First created:** 2026-10-12 | **Last updated:** 2026-10-13  
 *The wolves we inherited, the institutions that hunted them, and the difference between loving a country and caring for its living world.*
 
 ---
@@ -15,13 +15,13 @@
 
 There were wolves here. Not a decorative wolf stitched onto a banner, not a wolf-shaped dog politely attending a regimental function, and not an ancient Celtic wolf goddess invented in a gift shop. Actual wolves. Animals with bodies, families, appetites, territories and the entirely reasonable expectation that they might continue being wolves tomorrow.
 
-Across these islands, people lived alongside wolves for centuries. Sometimes they feared them; sometimes they hunted them; sometimes they made them into stories, names, images and metaphors. In Ireland, the wild wolf eventually disappeared. The words did not. Neither did the stories, nor the fascination with the magnificent dogs bred or remembered for hunting them.
+Across the archipelago — Ireland, Britain and some of the smaller islands, with distributions that changed over time — people lived alongside wolves for centuries. Sometimes they feared them; sometimes they hunted them; sometimes they made them into stories, names, images and metaphors. In Ireland, the wild wolf eventually disappeared. The words did not. Neither did the stories, nor the fascination with the magnificent dogs bred or remembered for hunting them.
 
 **The wolf on the shield. The wolf absent from the forest.**
 
 That is the problem here. Not that cultural memory is false or useless. Quite the reverse: memory is one of the ways relationships outlive their original circumstances. But a remembered animal and a living animal are not interchangeable. A people can inherit the emblem of a creature while inheriting a landscape in which that creature can no longer survive.
 
-This node follows that fracture through ecology, folklore, land administration, organised persecution, famine-era political economy and contemporary restoration. It does not claim that wolf extermination caused An Gorta Mór, or that wolves represented a universal ancient Celtic doctrine of sovereignty. Its argument about sovereignty is mine: **belonging should entail responsibility towards the living world, not merely a claim to possess its symbols.**
+This node follows that fracture through ecology, folklore, land administration, organised persecution, famine-era political economy and contemporary restoration. It also asks what it means to invoke the ancestry and identity of these islands while barely mentioning the native species whose habitats we have transformed. It does not claim that wolf extermination caused An Gorta Mór, or that wolves represented a universal ancient Celtic doctrine of sovereignty. Its argument about sovereignty is mine: **belonging should entail responsibility towards the living world, not merely a claim to possess its symbols.**
 
 ## 🌲 1. Before the Map
 
@@ -207,7 +207,63 @@ Ah. Well. Regarding that.
 
 This is not an accusation that heritage work is useless. It is a reminder that **symbolic preservation and ecological preservation do different jobs**. One cannot quietly be substituted for the other and declared a complete success.
 
-## 🌱 15. Why Are You Not Rewilding?
+## 🦌 15. What Else Was Here?
+
+The wolf is not the only creature missing from the landscapes we call ours. Across the archipelago, different places once supported different communities of large mammals, birds, fish, insects and plants. Their histories do not collapse into one list: the Irish elk disappeared long before written history; the Eurasian lynx vanished from Britain in the historical period, though the chronology and evidence differ by region; beavers were lost from many waterways and are now being restored in parts of Britain. White-tailed eagles, persecuted to local extinction, have been returned to Ireland and Scotland. Scottish wildcats, unlike wolves, survived into modern times but became critically threatened through habitat loss, persecution and hybridisation.
+
+Nor is the loss limited to charismatic animals capable of staring reproachfully at a television camera. Peatlands, ancient woodland, species-rich grassland, freshwater habitats, seabird colonies and the small lives that make them function have been altered by drainage, grazing, extraction, pollution, development and deliberate introductions. Some changes predate industrialisation by centuries; others accelerated through modern agriculture and infrastructure. The history must be researched species by species and place by place.
+
+The phrase *native species* is useful, but it is not a certificate of eternal residence. Populations arrived after glaciation, disappeared, returned, evolved and were moved by people. Ireland and Britain did not share identical postglacial colonisation routes or species assemblages. What counts as native is an ecological and historical question, not a test of whether an animal has the correct ancestral paperwork.
+
+The point is not to reconstruct an imaginary untouched year in which the islands were perfectly pure. **The point is that our cultural histories are also histories of the other beings with whom we have shared, and radically altered, these places.**
+
+## 🥔 16. We Introduced the Potato, Too
+
+There is a particular reason this question belongs beside *An Gorta Mór*. The potato was not native to Ireland, Britain or the archipelago. It was domesticated in the Andes and reached Europe through early modern transatlantic exchange, becoming extraordinarily important to Irish agriculture over subsequent centuries. That history involves Indigenous American agricultural knowledge, European imperial networks, adaptation and the choices of farmers and households. It must not be retold as if the plant spontaneously appeared in an Irish field.
+
+The potato was not an ecological villain. It is a productive, nutritious crop that helped sustain many people. The catastrophe came when a destructive pathogen encountered a social and agricultural system in which large numbers of poor households depended heavily on a vulnerable crop, with limited land, resources and alternatives. Nor is *Phytophthora infestans* the same thing as the potato: plant, pathogen, cultivation system and political economy are distinct actors and processes.
+
+That distinction opens the larger question. People brought in crops, livestock, trees, game animals and ornamental species for reasons that often made sense to them: food, fuel, timber, shelter, sport, beauty, profit, perceived improvement. Some introductions became valued parts of local life. Others spread invasively or carried disease, displaced native species, changed soils and waterways, or required ongoing management. **An introduction is not automatically an ecological disaster; a native species is not automatically harmless in every context.** Consequences depend on species, place, scale and interactions.
+
+Consider the grey squirrel, introduced to Britain and Ireland and implicated in the decline of native red squirrels through competition and squirrelpox transmission. Or rhododendron *Rhododendron ponticum*, planted ornamentally and now a serious invasive problem in many Atlantic woodlands. These examples have different pathways and management challenges; neither should be turned into an all-purpose morality tale about foreigners. Plants and animals do not hold passports. People and institutions make decisions about moving them, and ecological consequences follow.
+
+There is a bitterly human symmetry here: we eliminated animals that were already living with us, imported species that seemed useful, reorganised the land to serve particular forms of production, and then inherited the results as though they were simply what our countries had always looked like.
+
+**We did not merely inherit these islands. We made and remade their ecologies — sometimes knowingly, sometimes with inadequate knowledge, and often with extraordinary confidence.**
+
+## 🪞 17. Whose Identity? Whose Landscape?
+
+People invoke the ancestry of these islands in different ways. Language, family, folklore, political history, migration, colonisation, religion and place all matter. Those claims are not interchangeable, and a history of English conquest in Ireland must not be dissolved into an easy story of everybody having the same experience.
+
+But the living world is curiously easy to omit. We can speak at enormous length about what is authentically Irish, Scottish, Welsh or English while saying comparatively little about the species that lived here before those modern national categories, or the habitats that made their lives possible. We preserve an animal in heraldry, a surname, a folk tale or a football badge, and then treat its absence from the actual countryside as normal.
+
+This is not a claim that everyone discussing identity neglects nature. Many communities, including farmers, local conservationists, Indigenous and traditional knowledge-holders in their own contexts, and generations of naturalists, have worked to understand and protect living landscapes. Nor is it a claim that historical people knowingly chose every consequence we can now identify. Someone clearing a field, draining a bog, stocking an estate or planting a crop may have been feeding a family, trying to improve a livelihood or following the best available advice. Intentions and outcomes deserve separate analysis.
+
+Yet good intentions do not reverse a vanished population. A successful harvest does not cancel habitat loss. A beautiful introduced tree does not make an invaded woodland biologically equivalent to what stood there before. The question is not whether our ancestors were uniquely wicked. It is whether **we can recognise the cumulative ecological effects of what people, including ourselves, thought was sensible, necessary or profitable**.
+
+There is a further trap in borrowing the vocabulary of native and invasive species to describe human beings. Ecological categories are not moral rankings of populations, and they cannot be transferred to questions of human belonging without distorting both ecology and history. The wolf's prior presence does not establish an exclusive human bloodline's right to the land. It challenges the assumption that human ownership exhausts what belonging means.
+
+So when somebody says they love these islands, I want to ask: which islands? The ones on the map? The ones in the family story? Or the living ones, with rivers, bogs, woods, seabirds, insects, predators, grazing animals and the consequences of centuries of human decisions?
+
+**You can love a country without knowing everything that once lived there. But loving it is a good reason to find out.**
+
+## 🐈 18. Some of Them Are Coming Home
+
+The present is not only a catalogue of absence. Restoration is happening, although it matters enormously to distinguish an animal in a sanctuary from an animal living and reproducing freely in a restored ecosystem.
+
+In **Donegal**, Wild Ireland houses rescued wolves and other animals in managed habitats. In **Hampshire**, New Forest Wildlife Park welcomed European grey wolves in 2026; in **Fife**, the Scottish Deer Centre received five wolf brothers in 2026. These are captive or managed animals, **not evidence of wild wolf reintroduction**. Their presence can support welfare, education and public imagination, but an enclosure is not a self-sustaining wild population.
+
+Across **Ireland**, proposals and feasibility research about wolf reintroduction continue. In **Northern Ireland**, research into public attitudes towards wolves and lynx contributes to questions of social acceptance. Neither is an authorised programme releasing wild wolves. Wolf restoration would require credible assessment of habitat, livestock protection, genetics, land use, law, community consent and cross-border governance; the animal does not become administratively simpler when it crosses from Donegal into Derry.
+
+Other species offer examples of what actual restoration looks like. The **Saving Wildcats** programme reported in September 2026 that fifty Scottish wildcats had been released since 2023, with evidence of breeding in the wild. The **Irish white-tailed eagle programme**, begun in 2007, has released birds and supported the return of breeding eagles to Irish skies. These are not wolf releases, and neither programme guarantees a permanent recovery without monitoring and continued support. But they are living demonstrations that disappearance from a landscape is not always the final chapter.
+
+Beaver restoration in Britain provides another comparison: reintroducing a native ecosystem engineer can change water movement, vegetation and habitats, while also creating practical questions for land managers. Restoration requires listening to the people affected and measuring the effects rather than assuming every intervention is automatically beneficial. It is a social and ecological process, not an aesthetic preference for photographs of charming mammals.
+
+I am particularly pleased about the wildcats. They are not wolves, and they have their own history. But there is something wonderful about the possibility of kittens born into a landscape where their species had been pushed towards disappearance. They are not a symbol of an ancient nation obligingly restored for our enjoyment. **They are cats. Alive. Doing cat things.** An excellent use of a conservation programme, frankly.
+
+For the record, the wolves are still not freely roaming the forests of these islands. The distinction between *returned to an enclosure*, *proposed for reintroduction*, *released*, and *established and breeding* must remain visible whenever this node is updated.
+
+## 🌱 19. Why Are You Not Rewilding?
 
 Here we arrive at the question that makes the historical journey contemporary.
 
@@ -227,7 +283,61 @@ So when I ask, *If you care about our culture, why are you not rewilding?*, I am
 
 I am asking why the living world so often disappears from the discussion of what a culture is trying to keep.
 
-## 🐺 16. Our Sovereignty
+## 🌧️ 20. Where Is My Temperate Rainforest?
+
+Where, exactly, is my basically-a-temperate-rainforest? I should like to see it. Preferably with the moss, the dripping branches and an entirely unreasonable number of ferns.
+
+It is not an imaginary ancestral landscape. **Atlantic temperate rainforest exists across parts of this archipelago**, where oceanic conditions bring persistent moisture, relatively mild temperatures and habitats especially rich in lichens, mosses, liverworts and ferns. Fragments survive in western Scotland, Wales, north-western and south-western England, and Ireland. The oakwoods of Killarney are one important Irish example; western Scottish Atlantic oakwoods and Welsh and Cumbrian rainforest remnants show that this is not exclusively an Irish story. Nor is it exclusively a woodland story: the surrounding wet habitats, soils, streams and slopes form connected systems.
+
+A temperate rainforest is not simply any woodland in a rainy place. Ecological definitions and mapping criteria vary, and some sites are better described as oceanic woodland or Atlantic oakwood. Equally, the word *rainforest* does not mean that every hill in Ireland or Britain ought to be planted with trees. Open bog, heath, grassland, dune and other habitats can be valuable in their own right. Restoring one lost habitat by destroying another would be a rather spectacular failure to understand the assignment.
+
+The surviving woods also tell us about historical land use. Clearance for farming, fuel and timber; grazing pressure; drainage; fragmentation; plantation forestry; and invasive plants have all affected different landscapes at different times. In Ireland, invasive rhododendron can suppress native woodland regeneration in places such as Killarney. In other areas, deer browsing or unsuitable planting can prevent the development of the layered, species-rich woodland people imagine when they say *forest*. None of this requires a claim that the whole archipelago was once one uninterrupted rainforest. It was not.
+
+There is an odd imbalance in our inherited national imagery. We know the castle, the stag, the tartan, the wolfhound, the family crest. We can recite the symbolic landscape. But ask where the rainforest went, what remains of its soils and organisms, or who is responsible for helping it recover, and the conversation can become surprisingly quiet.
+
+**The wolf on the shield. The rainforest reduced to fragments.**
+
+The point is not to replace the wolf with a prettier emblem. It is to remember that a wolf's world was made of relationships: prey, people, water, vegetation, soil, shelter, disturbance and movement. The woodland was not merely a backdrop painted behind the animal. It was part of the living system that made the animal's life possible.
+
+## 🌊 21. The Land Was Already Doing Infrastructure
+
+There is another reason to care about what we removed. **Some of the landscapes we drained, straightened, cleared or disconnected were already regulating water.** They were not doing so on behalf of a ministry, and they did not submit invoices, which may explain why we have found them so easy to omit from the infrastructure accounts.
+
+Rain falling on an upland slope does not remain an upland problem. It enters soils, streams, rivers, reservoirs, fields, streets and houses. Land cover and land management can affect how quickly it moves, where it is stored, how much sediment travels with it, and what happens when a storm exceeds the capacity of local drainage. A catchment is a connected system whether or not its administration is.
+
+Different habitats contribute in different ways:
+
+- **Native woodland and healthy soils** can support infiltration, soil structure, slope stability and interception of some rainfall. Their effects depend on soil saturation, tree cover, location and storm conditions; a mature forest is not an emergency flood barrier that can be ordered for Tuesday.
+- **Wetlands and connected floodplains** can provide room for water to spread and be stored, potentially reducing or delaying flood peaks downstream where their location and capacity are suitable.
+- **Peatlands** store substantial carbon when healthy and influence water movement. Rewetting degraded peat can bring important ecological and climate benefits, but its effect on flood peaks is site-specific: *peat is a sponge* is an analogy, not a hydraulic model.
+- **Meandering rivers, rough vegetation and woody material** can slow local flows and create storage, although obstructions must be designed and assessed for the safety of people and infrastructure downstream.
+- **Beavers**, where appropriately reintroduced and managed, can build dams and wetlands that change local water storage, sediment movement and habitat. They can also flood land or affect drainage and require active coexistence arrangements. An industrious mammal is not an unlicensed substitute for a catchment engineer.
+
+None of these mechanisms means that natural flood management can replace every wall, culvert, pumping station or warning system. During severe or prolonged rainfall, soils and storage areas may fill; benefits vary with catchment size, land use and the placement of interventions. Flood risk also depends on exposure and vulnerability: the same water level does not cause the same harm in an unoccupied floodplain and a row of homes.
+
+But it would be a mistake to assess engineered defences while treating the condition of the surrounding landscape as fixed and irrelevant. **Ecological restoration can be a form of climate adaptation**, sometimes complementing conventional flood defences and sometimes reducing the scale of engineering needed. It may also support biodiversity, water quality, soil resilience, recreation and carbon storage. Those additional benefits matter even when a single flood-risk calculation does not capture them.
+
+## 💷 22. The Cost of Not Counting the Forest
+
+Could restoring these systems be cheaper than repeatedly paying to manage the consequences of their degradation? **In some catchments and for some objectives, plausibly yes.** That is a question for evidence and comparison, not a universal price tag attached to a tree.
+
+An honest economic assessment would compare alternatives over their whole lives: construction and restoration costs, land and maintenance costs, agricultural opportunity costs, monitoring, the reliability of protection during extreme events, and the damages avoided. It would also count benefits that rarely sit neatly in the same ledger: cleaner water, healthier habitat, reduced erosion, carbon outcomes and public access. Some interventions will be good value; some will be poorly located or insufficient; some communities will still require substantial engineered protection.
+
+The institutional problem is almost comically familiar. Forestry can sit in one policy box, farming in another, rivers in a third, biodiversity in a fourth, and flood damage in an emergency or insurance budget. An upstream decision to drain or compact soil can have downstream effects that appear years later in somebody else's accounts. The agency paying for restoration may not be the agency that saves money when fewer properties flood.
+
+**The river, unfortunately, has not agreed to observe departmental boundaries.**
+
+This is an *Embodied Information Ecology* question in its most literal form. Land is classified, mapped, valued, subsidised, planted, drained, protected or neglected. Those decisions alter water movement and ecological relationships. Rain arrives. The effects travel. Bodies, homes, farms, wildlife and public services experience the results. Administrative information has become material consequence, even when nobody intended the eventual flood.
+
+It is also a question of fairness. Asking farmers or landowners to hold water on their land for the benefit of downstream settlements without credible payment, governance or liability arrangements would simply move the cost onto someone with less power to refuse it. Effective restoration needs landholders and communities as participants, not scenery. The question is how to distribute costs, benefits and decision-making across the actual catchment.
+
+So the proposition is not that the ancient forest was a perfect machine, or that rewilding is free, or that our predecessors were idiots. Many altered the land to survive, to grow food, to heat homes, to make money or because the knowledge and incentives available to them pointed in that direction. **What made sense locally and immediately could still accumulate into ecological vulnerability over centuries.** We now have a chance to evaluate those consequences with better evidence and a wider accounting of what the land does.
+
+Perhaps some of the most useful infrastructure we can invest in is infrastructure we first need to **allow to grow back**.
+
+[Return to top](#top)
+
+## 🐺 23. Our Sovereignty
 
 The wolf did not possess sovereignty in the constitutional sense. It did not vote, issue passports or administer a border. I am not attributing a modern political theory to an animal, and I am not claiming that all ancient Irish people worshipped wolves as sovereign beings.
 
@@ -252,7 +362,7 @@ That is what I want to remember.
 
 ---
 
-## 📚 17. Sources, provenance and open questions
+## 📚 24. Sources, provenance and open questions
 
 The following is a **working source register**, not a claim that every item has been checked against its original manuscript, edition, object record or statute. The distinction matters because several earlier research passes supplied plausible but unverified precision. A source named here is not automatically proof of every claim associated with it.
 
@@ -287,6 +397,32 @@ The following is a **working source register**, not a claim that every item has 
 - [UK legislation](https://www.legislation.gov.uk) — Poor Relief (Ireland) Act 1847 and Temporary Relief Act 1847; **verify exact clauses and administration**.
 - [National Archives of Ireland](https://www.nationalarchives.ie) — estate, administrative and famine-era research leads.
 
+### 🐈 Restoration, introductions and the wider archipelago
+
+- [Saving Wildcats — Royal Zoological Society of Scotland](https://www.rzss.org.uk/) — programme updates; verify the September 2026 fifty-release milestone and wild breeding reports against the dated release.
+- [Wild Ireland](https://wildireland.org/) — Donegal sanctuary; distinguish managed wolves from free-ranging reintroduction.
+- [New Forest Wildlife Park](https://newforestwildlifepark.co.uk/) — 2026 captive wolf arrivals; verify dated announcement.
+- Scottish Deer Centre — September 2026 arrival of wolf brothers; verify with centre records and contemporary reporting.
+- [National Parks and Wildlife Service](https://www.npws.ie/) — Irish white-tailed eagle reintroduction programme, releases and breeding reports.
+- [NatureScot](https://www.nature.scot/) — Scottish wildcat and beaver restoration policy, licensing and ecological evidence.
+- [National Biodiversity Data Centre](https://biodiversityireland.ie/) — species distributions, introductions and invasive-species evidence in Ireland.
+- [Invasive Species Ireland](https://invasivespeciesireland.com/) — invasive species including rhododendron and grey squirrel; verify mechanisms and regional impacts.
+- Potato domestication and dispersal: peer-reviewed Andean crop-history scholarship; distinguish plant introduction from the later arrival of potato blight.
+- **Contemporary news note:** The 2026 wolf arrivals, wildcat milestone and eagle figures are research leads carried forward from discussion; confirm dated primary announcements before quoting precise counts in an externally published evidence brief.
+
+### 🌧️ Temperate rainforest, natural flood management and climate adaptation
+
+- [Woodland Trust — temperate rainforest](https://www.woodlandtrust.org.uk/) — Atlantic rainforest distribution, woodland ecology and restoration; verify individual site claims against mapped habitat evidence.
+- [Plantlife](https://www.plantlife.org.uk/) — oceanic lichens, bryophytes and rainforest habitat conservation in Britain.
+- [National Parks and Wildlife Service](https://www.npws.ie/) — Killarney oakwoods, Irish native woodland habitats and site conservation evidence.
+- [NatureScot](https://www.nature.scot/) — Atlantic woodland, peatland restoration and nature-based solutions in Scotland.
+- [Natural Resources Wales](https://naturalresources.wales/) — Welsh rainforest restoration and catchment management evidence.
+- [Environment Agency](https://www.gov.uk/government/organisations/environment-agency) — natural flood management evidence, catchment-scale modelling and appraisal guidance in England.
+- [UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/) — hydrological research on woodland, peatlands, land use and flood response.
+- [Office of Public Works, Ireland](https://www.gov.ie/en/office-of-public-works/) — flood-risk management, catchment programmes and Irish policy context.
+- [EPA Ireland](https://www.epa.ie/) — Irish climate adaptation, water quality and catchment evidence.
+- **Evidence safeguard:** Benefits of natural flood management vary with storm intensity, scale, soils, storage, location and maintenance. Do not claim that woodland or peatland restoration always reduces peak flooding, or that nature-based interventions are categorically cheaper than engineering. Use location-specific whole-life appraisal and distinguish carbon, biodiversity and flood outcomes.
+
 ### 🌱 Contemporary ecology and governance
 
 - [National Parks and Wildlife Service](https://www.npws.ie) — Irish habitats, conservation and official policy.
@@ -314,15 +450,17 @@ The source register must be expanded with passage-level citations before numeric
 - 🫀♻️ **The Body in the Loop** — classifications, incentives, resources and living bodies.
 - 🥔 [**An Gorta Mór**](./README.md) — the historically distinct politics of land, food and survival.
 - 🌱 **Ecological restoration** — living inheritance beyond symbolic preservation.
+- 🌧️ **Atlantic temperate rainforest** — surviving oceanic woodland across the archipelago.
+- 🌊 **Natural flood management** — catchments, infrastructure and climate adaptation.
 - 👑 **Sovereignty and belonging** — ownership, identity, authority and responsibility.
 
 ## ✨ Stardust
 
-Irish wolves, mac tíre, wolf extinction, Ossory werewolves, Irish Wolfhound, Irish woodland, Cromwellian wolf bounties, land tenure, An Gorta Mór, famine relief, Gregory clause, Ériu, Banba, Fódla, wolf heraldry, cultural memory, sovereignty, rewilding, biodiversity, Embodied Information Ecology, survival classification
+Irish wolves, Atlantic temperate rainforest, natural flood management, climate adaptation, floodplains, peatlands, catchment economics, nature-based solutions, wolves across the archipelago, native species, introduced species, potato introduction, grey squirrels, rhododendron, Scottish wildcats, white-tailed eagles, beavers, ecological restoration, cultural identity, mac tíre, wolf extinction, Ossory werewolves, Irish Wolfhound, Irish woodland, Cromwellian wolf bounties, land tenure, An Gorta Mór, famine relief, Gregory clause, Ériu, Banba, Fódla, wolf heraldry, cultural memory, sovereignty, rewilding, biodiversity, Embodied Information Ecology, survival classification
 
 ## 🏮 Footer
 
-*The Sons of These Islands* is a living node of the **Polaris Protocol**. It connects the documented disappearance of wolves with the survival of their cultural traces, while keeping the distinct history of An Gorta Mór intact and making the contemporary argument for ecological responsibility explicitly authorial.
+*The Sons of These Islands* is a living node of the **Polaris Protocol**. It connects the documented disappearance of wolves with the survival of their cultural traces, the wider ecological history of native and introduced species across the archipelago, and contemporary restoration, including temperate rainforest and flood resilience, while keeping the distinct history of An Gorta Mór intact and making the contemporary argument for ecological responsibility explicitly authorial.
 
 > 📡 Cross-references:
 >
@@ -339,4 +477,4 @@ Irish wolves, mac tíre, wolf extinction, Ossory werewolves, Irish Wolfhound, Ir
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-12_
+_Last updated: 2026-10-13_
