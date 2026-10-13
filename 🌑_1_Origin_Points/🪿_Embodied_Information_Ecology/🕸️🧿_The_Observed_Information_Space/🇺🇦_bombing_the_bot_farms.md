@@ -1,6 +1,9 @@
 # 🇺🇦 Bombing the Bot Farms
 **First created:** 2026-10-11 | **Last updated:** 2026-10-13  
-*Distributed information operations, partial infrastructure failure, and the unequal human consequences of changes in the observed information space.*
+*Distributed information operations, partial infrastructure failure, and the unequal human consequences of changes in the observed information space.*  
+
+<!-- Or: being exhausted for Jane Doe. 
+--> 
 
 ---
 
