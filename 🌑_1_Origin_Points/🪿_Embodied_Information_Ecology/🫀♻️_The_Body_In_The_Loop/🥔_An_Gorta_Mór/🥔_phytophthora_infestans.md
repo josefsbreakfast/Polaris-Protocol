@@ -353,7 +353,7 @@ This is why a series of annual harvest percentages cannot explain the experience
 
 Black '47 is the analytical centre of this history.
 
-Blight itself was less severe in 1847, and yield per planted acre was comparatively good. But planting had collapsed. The CSO historical crop-area series records **89,000 hectares** (approximately **220,000 acres**) in 1847. An alternative retrospective reconstruction cited in earlier versions gives **284,000 acres** (approximately **115,000 hectares**). These are **not equivalent** and cannot be merged into a single time series. The original tables and their differing provenance require further reconciliation; the scale of the collapse, rather than an exact percentage calculated across unlike series, is the secure point.
+Blight itself was less severe in 1847, and yield per planted acre was comparatively good. But planting had collapsed. The CSO historical crop-area series records **89,000 hectares** (approximately **220,000 acres**) in 1847. An earlier working draft also contained **284,000 acres** (approximately **115,000 hectares**) for 1847, but the underlying table has not been recovered. It is **unverified working material**, not a second established measurement. The yearbook series is used consistently here; the unresolved figure is recorded in the research apparatus.
 
 Seed potatoes had been destroyed, consumed, or become otherwise unavailable. People who had endured two disastrous seasons also had reasons to fear risking scarce resources on another potato crop. A good yield from a very small planted area does not produce a large national harvest.
 
@@ -379,24 +379,9 @@ Black '47 makes a devastating point about time. The year of greatest human suffe
 ---
 
 
-### 📐 Numerical audit — which 1847 acreage?
-
-The earlier version of this node carried **two incompatible values for the 1847 potato area**. The [CSO *Statistical Yearbook of Ireland 2018*, table 23.2, “Area under selected crops 1847–2017”](https://www.cso.ie/en/releasesandpublications/ep/p-syi/psyi2018/agri/cl/) reports **89 thousand hectares** of potatoes in 1847 and **258 thousand hectares** in 1848. It also reports **272 thousand hectares wheat, 625 thousand oats and 120 thousand barley** in 1847. These figures form a single explicitly labelled hectare series.
-
-| Figure in working material | Conversion | Disposition |
-|---|---:|---|
-| **1847: 89,000 ha** — CSO table 23.2 | ≈ **219,923 acres** | **Use as the 1847 crop-area figure when quoting this CSO series.** |
-| **1847: 284,000 acres** — alternative retrospective reconstruction | ≈ **114,931 ha** | **Do not silently combine with the CSO yearbook series; original reconstruction/table and geographical scope still need checking.** |
-| **1848: 258,000 ha** — CSO table 23.2 | ≈ **637,530 acres** | **Use with the 1847 CSO series for consistent year-to-year comparison.** |
-| **1848: 810,000 acres** — alternative reconstruction in earlier working text | ≈ **327,796 ha** | **Keep as an unreconciled alternative; do not present it as the CSO yearbook value.** |
-
-The earlier 1845–46 acreage figures also derive from historical reconstructions and **should not be used as though they were observations in the same 1847–48 series** without a source-method check. The CSO's historical [*Farming Since the Famine*](https://www.cso.ie/en/statistics/agriculture/farmingsincethefamine1847-1996/) provides a route to that audit. A numerical difference may reflect coverage, estimation, transcription or distinct reconstructions; the reason has **not** been established here. It would be dishonest to choose whichever number makes the strongest story.
-
-What is firmly supported is the severe collapse in potato cultivation after 1846 and the fact that acreage rose markedly in 1848. **Using the same CSO yearbook series**, 258,000 ÷ 89,000 ≈ **2.90**: a near tripling. The biological and social mechanism does not depend on pretending the disputed series agree.
-
 ## 17. 🌱 1848 And Beyond — Replanting Into Danger
 
-The relatively successful yield on the small 1847 acreage encouraged renewed potato cultivation. The CSO historical crop-area series places planting in 1848 at **258,000 hectares**, approximately **638,000 acres**. An earlier reconstruction used in this node instead reported roughly **810,000 acres** (approximately **328,000 hectares**). Those are not interchangeable measurements: until the reconstruction’s underlying scope and method are established, the consistent CSO series is used for the 1847–48 comparison, and the alternative is retained as an explicit research discrepancy.
+The relatively successful yield on the small 1847 acreage encouraged renewed potato cultivation. The CSO historical crop-area series places planting in 1848 at **258,000 hectares**, approximately **638,000 acres**. An earlier draft contained **810,000 acres** (approximately **328,000 hectares**), but the source table has not been recovered. That figure remains **unverified working material**, not a verified alternative to the yearbook series; it is recorded in the research apparatus rather than used in this chronology.
 
 The renewed planting represented effort, risk and sacrifice. Contemporary relief discussions recorded people keeping potatoes for seed while hungry. Then blight returned.
 
@@ -465,14 +450,6 @@ CROP LOSS → ARREARS / DISTRESS
 This is what **embodied information ecology** makes visible. The harvest enters the household. The household enters the body. The body enters the next season's capacity to work, cultivate, move, care and survive. Information about failure is not simply written in a report; it is carried in hunger, missing seed and absent people.
 
 The crop failure has memory because the system has memory.
-
----
-
-### A note on the numbers before we start moralising
-
-The historical acreage sequence used above follows a CSO-linked reconstruction, not a modern annual census. The figures are useful for comparing the scale of the planting collapse, but their units, sources and definitions must travel with them. In particular, **284,000 acres converts to about 115,000 hectares**, whereas **89,000 hectares converts to about 220,000 acres**. Both figures appeared in materials discussed during the development of this cluster; they cannot be silently treated as equivalent estimates. They may derive from different tables or reconstructions. The node retains the clearly identified acreage sequence for its causal illustration while **flagging the conflicting hectare figure for primary-table reconciliation**, rather than manufacturing precision.
-
-The 1848 conversion is likewise approximately **810,000 acres = 328,000 hectares**. This is arithmetic, not independent validation of the historical source figure. A separate evidence appendix should give table, page, year, crop definition, unit and original value before any graph or dataset is published.
 
 ---
 
@@ -545,6 +522,18 @@ Here are **selected documented decision points**, rather than a claim that one o
 | **February–summer 1847** | Continuing mass need despite a smaller immediate blight outbreak | The **Temporary Relief Act** established food distribution through relief kitchens, which eventually served roughly **three million people daily** at their summer peak | Direct feeding could reach people whom work-based relief struggled to protect. What did its operation reveal about alternative policy design? |
 | **June–autumn 1847** | Continuing distress and the cost of sustained relief | The **Poor Law Extension Act** broadened forms of relief while assigning major responsibility to Irish local rating systems; the temporary kitchens were phased out from late August | Could the most distressed districts finance the greatest need? What happened at the transition between systems? |
 | **1847–48** | Destitute tenants faced conditions on eligibility for relief | The **quarter-acre rule** barred relief to occupiers of more than a quarter-acre unless they surrendered the holding as prescribed | How did a subsistence holding become an obstacle to assistance, and what were the consequences for tenure and displacement? |
+
+#### 🗃️ Four documentary chains — what the record can and cannot establish
+
+**Peel's commission and maize purchase (1845–46).** Scientific inquiry and a substantial food purchase establish that central government recognised both a crop emergency and the possibility of organised intervention. The precise accounting and distribution of the commonly reported **£100,000** purchase should be read alongside official financial returns; a parliamentary minister's account of policy is evidence of the government's stated rationale, not an independent audit of what reached households. The [17 August 1846 Commons debate](https://api.parliament.uk/historic-hansard/commons/1846/aug/17/distress-in-ireland-measures-of-relief) is a dated contemporary starting point, **not** a complete implementation record.
+
+**Public works (1846–47).** Work-based relief attempted to convert employment into purchasing power. Its effectiveness depended on wages arriving, food being available to buy, prices, eligibility, physical capacity and local administration. A speech reporting expenditure or enrolment does not establish the nutritional adequacy of the scheme. A proper causal assessment needs district records, prices, pay delays and contemporary accounts alongside later historians' work. The important distinction is **employment authorised** versus **food accessible to a household**.
+
+**Temporary kitchens and the Poor Law transition (1847).** The relief kitchens show that direct food distribution was an available policy instrument. The frequently repeated figure of roughly **three million meals or recipients per day at peak** needs its original administrative definition checked: meals served, daily people assisted and unique individuals over time are not the same denominator. The phase-out and transfer towards local Poor Law financing should be evaluated with dates and district variation, not as though a single national switch instantaneously changed every locality.
+
+**The quarter-acre provision (1847–48).** The rule linked relief eligibility to land occupation, creating a direct route from an administrative definition to household subsistence and tenure decisions. [Sharman Crawford's 9 March 1848 parliamentary challenge](https://api.parliament.uk/historic-hansard/commons/1848/mar/09/poor-law-ireland-the-quarteracre-clause) demonstrates that its consequences were **contested at the time**. It does not, without case records, quantify how many people surrendered holdings or establish a uniform outcome in every district. The statutory wording, administration and lived effects must remain separate evidentiary questions.
+
+Taken together, these are not four interchangeable examples of a single motive. They are four opportunities to ask: **what was reported, what was authorised, what was actually delivered, who could access it, and what changed?** Specialist historians including **Ó Gráda, Kinealy and Gray** provide different analytical emphases; this pass has **not** verified page-specific comparative claims from their books and does not attribute a manufactured consensus or quotation to them.
 
 These are not allegations that relief never existed. They are evidence that **different instruments were available and were actually tried**, with very different assumptions about how people should be kept alive. The [UK Parliament overview](https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliamentandireland/overview/the-great-famine/), [historical account of Peel's relief commission](https://www.rte.ie/history/the-great-irish-famine/2020/1117/1178730-the-temporary-relief-commission/) and [historical account of the 1847 Poor Law transition](https://www.rte.ie/history/famine-ireland/2020/0810/1158380-this-land-of-sorrows-the-poor-law-extension-act-1847/) provide the initial documentary routing. The detailed legislative and administrative history belongs in [🏛️ What Britain Did](./🏛️_what_britain_did.md).
 
@@ -761,6 +750,27 @@ WEATHER / FIELD / REGIONAL DISEASE REPORTS
 
 Not every operational system integrates pathogen genotypes, plant resistance genes or PCR results; some use far simpler meteorological thresholds. Nor is the existence of a sophisticated model evidence that every farmer can afford the equipment, advice or timely intervention. **An accurate warning without usable capacity is not a successful warning system.** The 2022 [late-blight management review](https://www.sciencedirect.com/science/article/pii/S2095311922001381) is a research overview, not a current UK pesticide label or a claim that any one model includes all these variables.
 
+### 👩‍🌾 The forecast is not the farmer
+
+The forecasting loop is a **conceptual diagram**, not a claim that every deployed warning system combines genetic testing, treatment histories and live field sensors. A weather model may indicate conditions favourable to infection. The person managing the field still knows whether one corner remains waterlogged, which seed lot was planted, how exposed the site is, whether a previous application survived heavy rain and whether labour or money is available for another intervention. Those observations can correct the decision made from a regional forecast. Conversely, formal surveillance can warn a grower about a pathogen lineage not yet visible in their own crop.
+
+```text
+WEATHER + SURVEILLANCE + CROP STATUS
+                 ↓
+         MODELLED DISEASE RISK
+                 ↕
+LOCAL FIELD KNOWLEDGE + RESOURCES + JUDGEMENT
+                 ↓
+          TIMED INTERVENTION
+                 ↓
+        OBSERVED FIELD OUTCOME
+                 ↺
+```
+
+**Understanding a warning and being able to act on it are different achievements.** A grower who cannot afford an appropriate response has not failed to understand the science. That is a resource constraint inside the feedback loop, and the institutional responsibility does not disappear because the alert was delivered successfully.
+
+---
+
 ## 27. 🧬 Building Better Potatoes
 
 Breeding for resistance is a major part of modern late-blight management. Resistance traits can come from cultivated potatoes and wild relatives. Some genes recognise particular pathogen effectors; their effectiveness may decline when pathogen populations change. Broader quantitative resistance can involve multiple genetic contributions and may be more durable, although no category guarantees permanence.
@@ -801,6 +811,18 @@ The 2022 review discusses genes including **RB, Rpi-vnt1, Rpi-Smira2/R8 and Rpi-
 **RenSeq** enriches resistance-gene sequences so they can be discovered among difficult genomic material. Long-read sequencing helps recover structures that shorter reads may fragment. The pipeline then continues: **identify candidate → demonstrate function → combine with agronomic traits → test against diverse pathogen populations → evaluate in fields → satisfy relevant rules → make planting material available**. Each arrow can cost years, money and specialist labour.
 
 A potato with better resistance is still a potato in weather, soil, a market and an evolving pathogen population. Genetics is part of custodianship, not a substitute for it.
+
+### 🔬 Two studies instead of a magic-gene catalogue
+
+**RB / Rpi-blb1.** A 2003 cloning study identified the **RB** resistance gene in the wild potato *Solanum bulbocastanum* and transferred it into the susceptible cultivated variety Katahdin. In controlled inoculation experiments, all **14 independent lines** carrying the successful RGA2-PCR construct were scored resistant to the tested isolate, whereas the untransformed Katahdin controls were susceptible. One line was also challenged with several additional isolates. This establishes broad resistance in those experimental conditions, **not permanent immunity in every cultivar, organ or field**. The original experiment is available in [Song and colleagues (2003), *PNAS*](https://pmc.ncbi.nlm.nih.gov/articles/PMC170883/).
+
+A particularly useful subsequent correction comes from [Halterman and colleagues (2008), *Plant Disease*](https://doi.org/10.1094/PDIS-92-3-0339): transgenic RB plants showed strong **foliar** resistance under greenhouse challenge, but **field-grown tubers** did not show the same improvement in resistance. The same study found no detectable yield or tuber-size penalty in the cultivars tested over two field seasons. One resistance gene can therefore protect one part of the plant more effectively than another. The crop is not a single homogeneous security perimeter.
+
+**A three-gene stack in Uganda.** [Ghislain and colleagues (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523587/) reported field trials transferring **RB** and **Rpi-blb2** (from *S. bulbocastanum*) and **Rpi-vnt1.1** (from *S. venturii*) into cultivated potato backgrounds. In the tested field seasons, **13 resistant transgenic events** from the Desiree and Victoria backgrounds showed strong protection without fungicide spraying, while their non-transgenic comparators suffered severe disease. This is materially stronger evidence than a detached-leaf assay, but it is still evidence for the tested varieties, seasons and local pathogen populations. It does **not** establish worldwide durability or regulatory authorisation in every jurisdiction. A [2021 multi-site Ugandan agronomic assessment](https://pmc.ncbi.nlm.nih.gov/articles/PMC8533226/) further examined a three-gene event over three seasons and three locations.
+
+The examples also expose a breeding problem: a potato must resist the pathogen **and** remain worth growing, storing, transporting, selling and eating. Resistance is not a software patch applied once to a static adversary. The pathogen population changes, the genetic background matters, and the grower needs a useful crop at the end of it.
+
+---
 
 ## 28. 🧫 Other Organisms May Help
 
@@ -852,6 +874,14 @@ The 2022 review surveys plant-derived compounds, microbial antagonists and RNA i
 
 The problems are not merely bureaucratic. Sunlight and water can degrade formulations; microbial communities differ between soils; the pathogen evolves; repeated applications cost money; non-target effects need assessment. A treatment that works in a Petri dish has not yet survived a British September. The research is valuable precisely because we must find out whether it can.
 
+### 📎 What the emerging-treatment evidence actually establishes
+
+The [2022 integrated-management review](https://www.sciencedirect.com/science/article/pii/S2095311922001381) is a **secondary synthesis** for the examples discussed above. In this pass, the individual primary experiments for **eugenol**, named *Trichoderma* strains, *Pseudomonas*, *Myxococcus* and RNA-silencing delivery have **not all been retrieved and checked**. Accordingly, none is presented here as a verified commercially effective late-blight treatment. The review supports describing **research directions**; a product-specific claim about reliable field efficacy, registration, safety or cost would require a particular trial and jurisdictional record.
+
+That is not a dismissal of the work. It is the distinction between discovering a promising biological interaction and protecting a harvest in a wet, variable field. **A Petri dish has never had to survive a British September.**
+
+---
+
 ## 29. 👩‍🌾 Farmers Cannot Be The Entire Public-Health Department For Potatoes
 
 Farmers are custodians of living systems, but they cannot individually provide every public good required to protect them. Disease surveillance, independent diagnostics, agricultural extension, long-term breeding, weather infrastructure, certified seed systems and emergency support are collective capacities.
@@ -900,6 +930,21 @@ The first may look cheaper on a short-term balance sheet. The second may look wa
 This is an analytical example, not a claim that small farms are automatically diverse or that large farms must be monocultures. Scale, genetic diversity, rotations, market concentration, supply arrangements and financial buffers are **different variables**. Large farms can practise sophisticated rotations and disease surveillance. Small farms can be acutely dependent on one cultivar and one buyer. The question is which failures can cascade across the network.
 
 Some resilience measures increase ordinary costs: independent seed certification, public breeding, maintaining alternatives, protecting soil structure, paying for surveillance and preserving spare capacity. They can also prevent much larger losses when a disturbance arrives. **Spare capacity looks inefficient until the system needs it.** An agricultural policy concerned only with yield per hectare may fail to measure whether people can keep growing next year.
+
+### 🧺 Several kinds of redundancy, not one magical biodiversity number
+
+| Resilience dimension | Exposure it may reduce | Limitation or cost |
+|---|---|---|
+| **Genetic** | Shared susceptibility to a particular pathogen genotype | Different varieties may still share the same vulnerability. |
+| **Crop and dietary** | Dependence on one harvest or food source | Land, tenancy, labour and purchasing power constrain alternatives. |
+| **Geographic** | Some localised weather or outbreak shocks | Widespread climatic events and trade disruptions can be correlated. |
+| **Supplier and input** | Failure of one seed, fertiliser or treatment source | Alternatives may be unaffordable, incompatible or unavailable. |
+| **Economic** | Dependence on one crop price or income stream | Savings and diversification require capital and time. |
+| **Institutional** | Failure of one warning, relief or procurement mechanism | Multiple institutions can also fail to coordinate. |
+
+These dimensions cannot be substituted for one another. A farm may grow several cultivars but buy all its seed from one supplier; a country may cultivate diverse crops while depending on a single shipping route for fertiliser. Nor does farm size by itself determine resilience. **A cottier without secure tenure, spare land or savings could not simply buy the redundancy that a modern risk diagram recommends.** The contemporary equivalent is a grower who has excellent disease forecasts but cannot finance clean seed or timely treatment. Optimising output and maintaining the ability to absorb shocks are related, not identical, objectives.
+
+---
 
 ## 30. 🌍 The Field Is Local; Its Dependencies Are Global
 
@@ -1011,13 +1056,21 @@ This is a **governance comparison**, not a proposal that one global agency shoul
 
 The historical parallel is uncomfortable. It was possible to know that people were hungry without possessing a cure for the potato. Today it is possible to detect a crop pathogen, publish a forecast and still leave growers unable to obtain seed, treatment, advice or insurance. The technical signal is not the whole response. **What matters is whether institutions can translate information into protection.**
 
+### 🧪 Illustrative biosecurity loop — not a reported outbreak
+
+Imagine unfamiliar lesions appearing on a crop in a region where the relevant pathogen has not previously been confirmed. A grower reports them; a laboratory examines samples and distinguishes the suspected organism from visually similar diseases (**detection**). More fields are sampled, with the important caveat that absence of a positive test is not proof of absence everywhere (**surveillance**). Crop-specific authorities and growers evaluate movement precautions, cultivation advice and any lawful interventions (**intervention**). Laboratories, agricultural advisers, neighbouring jurisdictions and supply-chain actors exchange findings in forms the affected people can use (**coordination**). Results are monitored and the response revised (**feedback**).
+
+The sequence is hypothetical. The appropriate controls would depend on the organism, host, legal jurisdiction and transmission route; it must not be copied wholesale into wildlife disease or human clinical infection. Its point is institutional: **the signal becomes protective only when somebody can respond**. In 1845, identifying hunger did not require identifying an oomycete. Today, identifying a pathogen does not by itself deliver the means to protect a crop.
+
+---
+
 ## 33. 🌱 *Nausicaä*: The Difference Between Control And Custodianship
 
 Hayao Miyazaki's *Nausicaä of the Valley of the Wind* (1984), made before Studio Ghibli's formal establishment, is a useful cultural companion to this history. It is accessible enough to be encountered as an adventure film, while its ecological questions are anything but simple. The wider manga is more expansive and often darker.
 
 The story asks what happens when people mistake an unfamiliar ecology for a purely hostile one, or respond to environmental disturbance with domination before understanding the relationships involved. Its Toxic Jungle cannot be reduced to a straightforward enemy. Observation changes the meaning of what the characters see.
 
-That does **not** mean every pathogen should be allowed to spread. In the manga, the threat posed by breadfungus to the Valley's ancient protective tree requires active intervention. Sometimes stewardship means allowing something to grow. Sometimes it means stopping something from spreading. The difficulty is knowing the difference.
+That does **not** mean every pathogen should be allowed to spread. A breadfungus episode discussed in our reading notes suggests a useful distinction between observation and active containment; the precise edition and passage have not yet been independently checked. Sometimes stewardship means allowing something to grow. Sometimes it means stopping something from spreading. The difficulty is knowing the difference.
 
 This is an **authorial analogy**, not evidence that Miyazaki was commenting on the Irish Famine. His work emerged in a Japanese cultural context shaped by war, defeat, industrialisation, environmental concern and debates about human power; it should not be flattened into a simple account of a fully decolonised Japan. Nor does Britain share Japan's imperial history in any straightforward way.
 
@@ -1035,7 +1088,7 @@ The story emerged in a Japan shaped by imperial defeat, postwar reconstruction, 
 
 For a reader raised within the habits of a former imperial power, *Nausicaä* offers a way to practise asking different questions. What if the threatening landscape has processes we do not understand? What if people who live near it know something the conqueror does not? What if an intervention that looks decisive destroys the conditions required for future survival? What if protecting life sometimes requires stopping an organism from spreading, rather than celebrating everything called 'nature'?
 
-In the manga, breadfungus threatens the Valley's ancient tree and water security. Nausicaä is capable of ordering destructive intervention to prevent ecological disaster. That matters here. **Stewardship is not an aesthetic preference for leaving everything alone. It is responsibility informed by relationships and consequences.**
+Our reading notes describe a breadfungus threat to the Valley’s ancient tree and water security, and a decisive intervention by Nausicaä. **The exact volume and page remain unverified**, so this is retained as an interpretive reading note rather than a sourced plot citation. The distinction still matters here. **Stewardship is not an aesthetic preference for leaving everything alone. It is responsibility informed by relationships and consequences.**
 
 The Irish historical question is not whether British officials should have behaved like a fictional heroine. It is whether power was exercised with sufficient attention to the people, land and material conditions that made survival possible. The contemporary question is whether we have learned to organise food systems around that attention, or merely become better at extracting more from them.
 
@@ -1146,6 +1199,13 @@ The sources below serve different purposes: historical reconstruction, plant-pat
 - [Cormac Ó Gráda: Irish potato historical overview (UCD repository)](https://researchrepository.ucd.ie/rest/bitstreams/2219/retrieve) — changes in potato cultivation and varieties; verify exact edition and pagination before quotation.
 - [Thomas Downey (1996): “The Lumper: An Analysis of Its Role in the Irish Famine, 1845–50” (Irish History Online bibliographic record)](https://iho.ie/index.php?iho_function=1&iho_identifier=10521) — **bibliographic lead only; full text not checked**.
 
+### Resistance-gene primary studies checked in this pass
+
+- [Song et al. (2003): “Gene RB cloned from *Solanum bulbocastanum* confers broad spectrum resistance to potato late blight”, *PNAS*](https://pmc.ncbi.nlm.nih.gov/articles/PMC170883/) — RB cloning, experimental transgenic Katahdin challenge and isolate tests; **not proof of permanent field immunity**.
+- [Halterman et al. (2008): “Performance of Transgenic Potato Containing the Late Blight Resistance Gene RB”, *Plant Disease*](https://doi.org/10.1094/PDIS-92-3-0339) — strong foliar protection in tested conditions; **tuber protection did not show the same improvement**.
+- [Ghislain et al. (2019): “Stacking three late blight resistance genes from wild species directly into African highland potato varieties confers complete field resistance to local blight races”](https://pmc.ncbi.nlm.nih.gov/articles/PMC6523587/) — multi-gene field results in the tested local pathogen context; not universal durability.
+- [Three-gene-stack agronomic assessment in Uganda (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8533226/) — three locations over three seasons for the tested event; not a substitute for regulatory or deployment evidence.
+
 ### Additional wildlife, climate and human-health case studies
 
 - [Frick et al. (2010): “An Emerging Disease Causes Regional Population Collapse of a Common North American Bat Species”, *Science*](https://doi.org/10.1126/science.1188594).
@@ -1153,11 +1213,24 @@ The sources below serve different purposes: historical reconstruction, plant-pat
 - [Casadevall, Kontoyiannis and Robert (2019): “On the Emergence of *Candida auris*: Climate Change, Azoles, Swamps, and Birds”, *mBio*](https://doi.org/10.1128/mBio.01397-19) — explicitly hypothesis-driven.
 
 
+### 📐 Acreage provenance and unresolved working figures
+
+The [CSO *Statistical Yearbook of Ireland 2018*, table 23.2](https://www.cso.ie/en/releasesandpublications/ep/p-syi/psyi2018/agri/cl/) explicitly labels its crop-area values **thousands of hectares** and reports **1847: 89** and **1848: 258** for potatoes. The CSO's accompanying prose connects the low 1847 planting to lack of seed following the 1846 blight. This is a **published historical statistical series**, not a count of every individual field.
+
+| Year | Figure | Original unit / location | Conversion | Evidence status / permitted use |
+|---|---:|---|---:|---|
+| 1847 | **89,000 ha** | CSO Yearbook 2018, table 23.2 | **≈ 219,923 acres** | Identified published series; use in chronology. |
+| 1848 | **258,000 ha** | CSO Yearbook 2018, table 23.2 | **≈ 637,530 acres** | Same series; comparable with 1847. |
+| 1847 | **284,000 acres** | Earlier working draft; original table **not recovered** | **≈ 114,931 ha** | **Unverified working figure**; do not use for ratios or as an established competing estimate. |
+| 1848 | **810,000 acres** | Earlier working draft; original table **not recovered** | **≈ 327,796 ha** | **Unverified working figure**; do not use for ratios or as an established competing estimate. |
+
+Conversions use **1 acre = 0.40468564224 hectares**. The identified CSO values yield 258,000 ÷ 89,000 ≈ **2.90** for 1848 relative to 1847; the ratio describes area in this series, **not** total harvest, food access or mortality. The earlier 1845–46 acreage and production reconstructions likewise need source-method checking before being stitched into a single quantitative run with the 1847–48 yearbook series. A difference in figures may arise from definitions, geography, reconstruction or transcription, but **no particular explanation is established** without the original alternative table.
+
 ### Source-to-claim audit — consequential statements
 
 | Claim | Nearby source | Status and limits |
 |---|---|---|
-| **1847 potato area 89,000 ha; 1848 258,000 ha; 1847 cereal areas** | [CSO *Statistical Yearbook 2018*, table 23.2](https://www.cso.ie/en/releasesandpublications/ep/p-syi/psyi2018/agri/cl/) | **Verified against published CSO table**; incompatible alternative reconstructions remain open. |
+| **1847 potato area 89,000 ha; 1848 258,000 ha; 1847 cereal areas** | [CSO *Statistical Yearbook 2018*, table 23.2](https://www.cso.ie/en/releasesandpublications/ep/p-syi/psyi2018/agri/cl/) | **Checked against published CSO table**; earlier alternative figures lack an identified source table. |
 | **Peel's maize purchase, relief commission and public works** | [Hansard, 17 August 1846](https://api.parliament.uk/historic-hansard/commons/1846/aug/17/distress-in-ireland-measures-of-relief); [historical synthesis](https://www.rte.ie/history/the-great-irish-famine/2020/1117/1178730-the-temporary-relief-commission/) | Documented actions; assess results separately. |
 | **1847 soup-kitchen reach and transition to local relief** | [Historical synthesis of the Poor Law Extension Act](https://www.rte.ie/history/famine-ireland/2020/0810/1158380-this-land-of-sorrows-the-poor-law-extension-act-1847/) | Roughly three million daily at peak is a period estimate, not a census of unique recipients. |
 | **Quarter-acre clause and contemporary opposition** | [Hansard, 9 March 1848](https://api.parliament.uk/historic-hansard/commons/1848/mar/09/poor-law-ireland-the-quarteracre-clause) | Wording and parliamentary criticism documented; effects on individual households require further case evidence. |
@@ -1173,7 +1246,7 @@ The sources below serve different purposes: historical reconstruction, plant-pat
 - Establish regional and class-specific distribution of named pre-Famine potato cultivars from historical variety catalogues and archival scholarship. **No definitive national count of three or four dominant varieties is asserted here.**
 - Check precise primary-source wording for 1840s eyewitness descriptions and official statements before quotation.
 - Verify the original study years and methodology behind contemporary annual cost estimates; do not describe them as exact 2026 losses.
-- **The 1847 and 1848 CSO yearbook series has now been identified** (89,000 ha and 258,000 ha respectively). The alternative 284,000-acre and 810,000-acre reconstruction remains **unreconciled**; do not mix it into yearbook ratios. All conversions are rounded.
+- **The 1847 and 1848 CSO yearbook series has now been identified** (89,000 ha and 258,000 ha respectively). The alternative 284,000-acre and 810,000-acre figures remain **unverified working material**; do not mix it into yearbook ratios. All conversions are rounded.
 - Keep claims about foreign aid refusal, named official intent and particular relief choices in the appropriate evidence-led governance nodes.
 
 ---
