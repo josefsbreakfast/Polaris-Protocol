@@ -5,11 +5,10 @@
 ---
 
 *For my sons, the dear wolves of the archipelago.*  
-*Our sovereignty. Hunted to death.*
+*Our sovereignty. Hunted to death.*  
+*Ár mic tíre.*  
 
 ---
-
-<a id="top"></a>
 
 ## 🛰️ Orientation
 
@@ -140,8 +139,6 @@ The records become thin. The encounters cease. The animal stops appearing in the
 A last record is not necessarily a last life.
 
 I find that distinction worth keeping. The uncertainty does not make the loss smaller. It tells us something about how disappearance can happen: gradually enough that people adjust, until the absence becomes ordinary.
-
-[Return to top](#top)
 
 ## 🥔 11. An Gorta Mór: Another History of Land and Survival
 
