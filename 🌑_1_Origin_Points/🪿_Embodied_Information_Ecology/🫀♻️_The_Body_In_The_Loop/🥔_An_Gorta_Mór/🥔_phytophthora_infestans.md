@@ -1066,42 +1066,77 @@ The sequence is hypothetical. The appropriate controls would depend on the organ
 
 ## 33. 🌱 *Nausicaä*: The Difference Between Control And Custodianship
 
-Hayao Miyazaki's *Nausicaä of the Valley of the Wind* (1984), made before Studio Ghibli's formal establishment, is a useful cultural companion to this history. It is accessible enough to be encountered as an adventure film, while its ecological questions are anything but simple. The wider manga is more expansive and often darker.
+Hayao Miyazaki's *Nausicaä of the Valley of the Wind* is a useful cultural companion to this history. The 1984 film, made before Studio Ghibli's formal establishment, is accessible enough to be encountered as an adventure story, while its ecological questions are anything but simple. The manga, which began serialisation in 1982 and continued until 1994, is more expansive, politically complicated and often darker.
 
-The story asks what happens when people mistake an unfamiliar ecology for a purely hostile one, or respond to environmental disturbance with domination before understanding the relationships involved. Its Toxic Jungle cannot be reduced to a straightforward enemy. Observation changes the meaning of what the characters see.
+Both works ask what happens when people mistake an unfamiliar ecology for a purely hostile one, or respond to environmental disturbance with domination before understanding the relationships involved. But they also approach the question of fungal life differently.
 
-That does **not** mean every pathogen should be allowed to spread. A breadfungus episode discussed in our reading notes suggests a useful distinction between observation and active containment; the precise edition and passage have not yet been independently checked. Sometimes stewardship means allowing something to grow. Sometimes it means stopping something from spreading. The difficulty is knowing the difference.
+In the film, the Toxic Jungle appears to be an expanding biological threat. Its spores are dangerous, and the people living near it have good reasons to fear its spread. Yet Nausicaä discovers that the jungle is also participating in the purification of a world already poisoned by human activity. What appears to be a purely hostile environment is part of a much larger ecological process.
 
-This is an **authorial analogy**, not evidence that Miyazaki was commenting on the Irish Famine. His work emerged in a Japanese cultural context shaped by war, defeat, industrialisation, environmental concern and debates about human power; it should not be flattened into a simple account of a fully decolonised Japan. Nor does Britain share Japan's imperial history in any straightforward way.
+**The danger is real, but the explanation is incomplete.**
 
-But the comparison is valuable precisely because it makes a familiar reader question their inherited assumptions about land, authority, extraction and the people who actually know the terrain.
+Observation changes the meaning of what the characters see.
 
-A farmer who recognises the early signs of a disease is not an obstacle to modernisation. That person may be the most important sensor in the system.
+The manga offers a different problem in its treatment of the breadfungus threatening the Valley's ancient tree. Here, understanding the organism does not mean allowing it to spread. The infection threatens something valuable within a wider living system, including the conditions upon which the Valley depends. Nausicaä's decision to intervene is an act of containment, informed by the consequences of allowing the infection to continue.
 
----
+That does **not** mean every pathogen should be allowed to spread, nor that ecological understanding requires passive acceptance of whatever nature happens to be doing.
 
-### Why bring a Japanese ecological story into an Irish colonial history?
+Sometimes stewardship means allowing something to grow. Sometimes it means stopping something from spreading. Sometimes protecting a wider ecology requires sacrificing something within it.
 
-The comparison with *Nausicaä* is deliberately a **reading practice**, not a claim that the film secretly narrates An Gorta Mór. The 1984 film is accessible to older children as an adventure story; the manga, begun in 1982, is longer, stranger and politically more complicated. The film preceded the formal establishment of Studio Ghibli, although it involved important people who would become associated with the studio.
+**The difficulty is knowing the difference.**
 
-The story emerged in a Japan shaped by imperial defeat, postwar reconstruction, environmental damage, anti-militarist currents and contested memories of empire. Britain's transition out of formal empire followed a different and often self-congratulatory political narrative. Neither history can be reduced to a slogan: Japanese defeat did not produce automatic decolonisation, and British decolonisation was neither uniform nor freely granted everywhere. The comparison is useful precisely because the histories are **not** interchangeable.
-
-For a reader raised within the habits of a former imperial power, *Nausicaä* offers a way to practise asking different questions. What if the threatening landscape has processes we do not understand? What if people who live near it know something the conqueror does not? What if an intervention that looks decisive destroys the conditions required for future survival? What if protecting life sometimes requires stopping an organism from spreading, rather than celebrating everything called 'nature'?
-
-Our reading notes describe a breadfungus threat to the Valley’s ancient tree and water security, and a decisive intervention by Nausicaä. **The exact volume and page remain unverified**, so this is retained as an interpretive reading note rather than a sourced plot citation. The distinction still matters here. **Stewardship is not an aesthetic preference for leaving everything alone. It is responsibility informed by relationships and consequences.**
-
-The Irish historical question is not whether British officials should have behaved like a fictional heroine. It is whether power was exercised with sufficient attention to the people, land and material conditions that made survival possible. The contemporary question is whether we have learned to organise food systems around that attention, or merely become better at extracting more from them.
+And knowing the difference requires attention to relationships that may not be visible to someone who sees the landscape only as territory to be possessed, exploited or controlled.
 
 ---
 
+### 🌏 Why bring a Japanese ecological story into an Irish colonial history?
+
+The comparison with *Nausicaä* is deliberately a **reading practice**, not a claim that Miyazaki was commenting on An Gorta Mór.
+
+His work emerged in a Japanese cultural context shaped by war, imperial defeat, postwar reconstruction, industrialisation, environmental damage and contested memories of empire. Britain's transition out of formal empire followed a different, often self-congratulatory political narrative.
+
+Neither history can be reduced to a slogan. Japanese defeat did not produce automatic decolonisation, and British decolonisation was neither uniform nor freely granted everywhere. The comparison is valuable precisely because the histories are **not** interchangeable.
+
+For a reader raised within the habits of a former imperial power, *Nausicaä* offers a way to practise asking different questions.
+
+What if the threatening landscape has processes we do not understand?
+
+What if people who live near it know something the conqueror does not?
+
+What if an intervention that looks decisive destroys the conditions required for future survival?
+
+And what if protecting life sometimes requires stopping an organism from spreading, rather than celebrating everything called 'nature'?
+
+The film and manga approach these questions from different directions. In one, an apparently destructive ecology turns out to be performing a necessary function. In the other, ecological responsibility requires recognising a threat and acting to contain it.
+
+Neither offers a simple instruction to dominate nature or to leave it entirely alone.
+
+**Stewardship is not an aesthetic preference for leaving everything alone. It is responsibility informed by relationships and consequences.**
+
+The Irish historical question is not whether British officials should have behaved like a fictional heroine. It is whether power was exercised with sufficient attention to the people, land and material conditions that made survival possible.
+
+The contemporary question is whether we have learned to organise food systems around that attention, or merely become better at extracting more from them.
+
+---
 
 ### 🌱 An adaptive-management echo, not a historical allegory
 
-What I recognise in Nausicaä is a discipline of attention: **observe the landscape; question the inherited explanation; test it against what living things are actually doing; intervene where necessary; then watch what the intervention changes**. That is close to the logic of adaptive ecological management described in the forecasting section. It is not the claim that Nausicaä is literally running a blight-warning service, nor that Miyazaki secretly wrote an Irish agricultural policy document.
+What I recognise in Nausicaä is a discipline of attention: **observe the landscape; question the inherited explanation; test it against what living things are actually doing; intervene where necessary; then watch what the intervention changes**.
 
-The manga's breadfungus episode is a useful *interpretive lead*, but its exact textual details and edition should be checked before using it as a precisely sourced plot citation. The larger point survives that check: ecological custodianship may involve containment and difficult choices, not a sentimental rule that everything growing must be allowed to grow unchecked.
+That is close to the logic of adaptive ecological management described in the forecasting section. It is not the claim that Nausicaä is literally running a blight-warning service, nor that Miyazaki secretly wrote an Irish agricultural policy document.
 
-The comparison with Japanese imperial defeat and Britain's different post-imperial memory is likewise a reading context, not an assertion that Japanese decolonisation was completed or that these histories are equivalent. I am interested in what happens when the person exercising power **listens to the ecology and to the people living with it**, instead of assuming possession has already conferred understanding.
+The distinction between the film's Toxic Jungle and the manga's breadfungus matters here because ecological custodianship is not simply a question of whether to intervene.
+
+It is a question of understanding **what an intervention is intended to protect, what it might destroy, and what consequences follow**.
+
+*Phytophthora infestans* is not secretly purifying nineteenth-century Irish agriculture. It is a destructive plant pathogen, and protecting potatoes from it requires effective intervention. But effective intervention requires knowledge of the organism, the crop, the environment and the people whose survival depends upon their relationships.
+
+A farmer who recognises the early signs of disease is not an obstacle to modernisation. That person may be the most important sensor in the system.
+
+And a government that possesses the authority to govern a landscape does not necessarily possess the knowledge required to sustain it.
+
+**Possession is not custodianship. Extraction is not maintenance. Authority is not understanding.**
+
+---
 
 ## 34. ⚠️ Hazard Is Not Disaster
 
