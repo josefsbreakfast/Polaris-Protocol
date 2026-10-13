@@ -280,7 +280,8 @@ It is **what became quieter, by how much, for how long, and what — if anything
 - [📹: Tessa, via TikTok: “Na das ist ja interessant :) ”](https://vm.tiktok.com/ZN8BbG9fy/)
 - [📹: Captain Kev, via TikTok: “It’s almost like all the right wing pays Russian bots to spread propaganda!”](https://vm.tiktok.com/ZN8BbKJj3/)
 - [📹: Виталий Дан, via TikTok: “Украина уничтожила Яндекс”](https://vm.tiktok.com/ZN8BbgvWb/)
-- [📹: Jordan the Grey, via TikTok: “Now the Russian bot farms have been taken out, let’s do a little test…”](https://vm.tiktok.com/ZN8BbnRKM/) – *comment section is lit*  
+- [📹: Jordan the Grey, via TikTok: “Now the Russian bot farms have been taken out, let’s do a little test…”](https://vm.tiktok.com/ZN8BbnRKM/) – *comment section is lit*
+- [📹: Indy100, via TikTok: “Zelensky hailed 'genius’ for taking out Russian 'bot farms' weeks before midterm elections”](https://vm.tiktok.com/ZN8Bb7N4A/)  
 
 ---
 
