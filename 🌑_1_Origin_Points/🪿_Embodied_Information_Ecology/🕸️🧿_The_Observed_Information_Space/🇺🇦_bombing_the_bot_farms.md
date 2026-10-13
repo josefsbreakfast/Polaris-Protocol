@@ -291,7 +291,8 @@ It is **what became quieter, by how much, for how long, and what — if anything
 - [📹: Danny, via TikTok: “the world is so much more peaceful rn”](https://vm.tiktok.com/ZN8Bg7rFW/) – *”Could mean nothing, though 🤷‍♀️”*
 - [📹: Disco Barrington, via TikTok: “Down with the bots!”](https://vm.tiktok.com/ZN8BgK86K/)
 - [📹: NM Media Report, via TikTok: “Российские боты исчезли после прилета по «Яндексу»”](https://vm.tiktok.com/ZN8Bg3oMC/)  
-- [📹: Auntie Em, via TikTok: “If anyone is wondering why the Reform supporters are suddenly so quiet…”](https://vm.tiktok.com/ZN8BgsPCC/)  
+- [📹: Auntie Em, via TikTok: “If anyone is wondering why the Reform supporters are suddenly so quiet…”](https://vm.tiktok.com/ZN8BgsPCC/)
+- [📹: BBC Verify: “Claims that Ukrainian strikes on Russian data centres reduced Kremlin-linked bot networks have spread widely online - but experts have told BBC Verify there is no evidence the attacks have significantly reduced them.”](https://vm.tiktok.com/ZN8B3kBLj/) – *the sources are a really interesting example of how many things can be true at once; it could absolutely be the case for US researchers to be correct in what they have answered, and for the two companies to have given governance compliant responses. whether this is complete coincidence, something has calmed the daily experience of many people down; how many times do you see things “against policy” online?*   
 
 *If Mamdani is our mayor, Zelenskyy is my president.*  
 
