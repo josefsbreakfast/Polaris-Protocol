@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-13 23:02:26 UTC_
+_Generated on 2026-10-13 23:51:22 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4239,6 +4239,7 @@ _Generated on 2026-10-13 23:02:26 UTC_
         - [`🏛️_courts_and_policing_powers.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/🏛️_courts_and_policing_powers.md)
         - [`📜_parades_commission_and_the_law.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/📜_parades_commission_and_the_law.md)
         - [`🕊️_british_irish_diplomacy.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/🕊️_british_irish_diplomacy.md)
+        - [`🧅_ongoing_aftermath.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/🧅_ongoing_aftermath.md)
         - [`🫀_an_mhuintir_agus_an_pobal.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍊☘️_Seas_An_Fód/🫀_an_mhuintir_agus_an_pobal.md)
       - [**🍿_Historical_Democratic_Actions/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/)
         - [**🌕☂️_Yellow_Umbrellas/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/🌕☂️_Yellow_Umbrellas/)
