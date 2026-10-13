@@ -1,7 +1,7 @@
 # 🥔 *Phytophthora infestans*
 
-**First created:** 2026-10-06 | **Last updated:** 2026-10-06
-*The pathogen has a biology. The famine has a system.*
+**First created:** 2026-10-06 | **Last updated:** 2026-10-13  
+*The pathogen has a biology. The famine has a system. Two centuries of plant pathology have not made either question disappear.*
 
 ## 🛰️ Orientation
 
@@ -11,32 +11,15 @@ It does not, by itself, explain why people did.
 
 That distinction is the job of this node.
 
-*Phytophthora infestans* was a devastating new plant pathogen in nineteenth-century Europe. It attacked the crop upon which millions of poorer people in Ireland depended to an extraordinary degree. In 1845 it damaged the Irish potato harvest. In 1846 the failure became catastrophic. Blight returned again after that.
+In 1845, a destructive plant disease reached the potato crops on which millions of poorer people in Ireland depended. In 1846 the harvest failure was catastrophic. In 1847, when the blight itself was less severe, the human catastrophe continued. In 1848 the pathogen returned to a recovering crop and a population that had not recovered at all.
 
-But An Gorta Mór was not one bad potato harvest.
+This is a story about a remarkable food plant, a remarkably effective plant pathogen, the ingenuity of people farming under constraint, and a political system that could not be excused from responsibility for human survival simply because its officials did not know how to cure a potato.
 
-It unfolded through successive harvests in a changing system:
+It is also a story about now. We have spent nearly two centuries developing plant pathology, disease surveillance, fungicides, breeding, forecasting and international scientific collaboration. *Phytophthora infestans* remains a serious threat. Modern farmers do not control it through ignorance, luck or one miraculous chemical. They do it through continuing work.
 
--   potatoes failed;
--   other European staple harvests also varied;
--   food prices changed;
--   seed disappeared;
--   acreage changed;
--   households consumed reserves;
--   bodies weakened;
--   credit disappeared;
--   people were displaced;
--   disease spread;
--   institutions responded;
--   the next harvest arrived in a population already altered by the last
-one.
+Which rather raises a question about the habit of treating the Irish poor as if their reliance on potatoes proved they were bad at growing them.
 
-The biological disturbance therefore entered a feedback loop.
-
-> **The potato blight hits the potato.**
->
-> **The social system determines what happens to the human being whose
-> potato has died.**
+**Respect the fucking crop.**
 
 ---
 
@@ -44,1077 +27,734 @@ The biological disturbance therefore entered a feedback loop.
 
 The potato should not enter this history as an Irish mistake.
 
-It was useful.
+It was useful. Very useful. It produced a substantial amount of edible food from relatively little land, supplied energy and valuable nutrients, and could succeed where other crops were less productive. It fitted household labour, cooking and animal husbandry. A good potato is also, let us be entirely reasonable about this, a *proper nice potato*.
 
-Very useful.
+For a household with access to a tiny plot, the agricultural problem was not abstract optimisation. It was survival:
 
-Potatoes could produce a remarkable quantity of food from relatively little land. They could grow in conditions in which other crops were less productive. They supplied substantial calories and useful nutrients. For households with extremely restricted access to land, those characteristics mattered enormously.
+> **How do we produce enough food from this amount of ground to remain alive?**
 
-That means potato dependence needs to be read beside:
+The potato was an extraordinarily effective answer. That effectiveness helps explain its adoption; it does not demonstrate that the landholding system was fair, or that households possessed adequate alternatives if the crop failed.
 
-[📐 English Land Controls](./📐_english_land_controls.md)
-
-A household confined to a very small plot faces a problem:
-
-> **How do we produce enough food from this amount of ground to remain
-> alive?**
-
-The potato was an extraordinarily effective answer.
-
-``` text
-LIMITED LAND ACCESS
-        ↓
-HIGH-YIELD CROP
-        ↓
-LARGE FOOD OUTPUT FROM SMALL AREA
-        ↓
-HOUSEHOLD SUBSISTENCE
+```text
+RESTRICTED LAND ACCESS
+         ↓
+HIGH-YIELD SUBSISTENCE CROP
+         ↓
+FOOD FROM A SMALL HOLDING
+         ↓
+HOUSEHOLD SURVIVAL
 ```
 
-Dependency can therefore be an adaptation to constraint.
+Dependency can be an intelligent adaptation to constraint. It can also conceal the absence of redundancy. The same crop can be both an excellent answer to the immediate question and a dangerously overburdened answer to the longer one.
 
-That does not make the resulting system resilient.
-
-In fact, it can make the success of the adaptation conceal how little redundancy remains.
+For the land system that constrained that choice, see [📐 English Land Controls](./📐_english_land_controls.md).
 
 ---
 
-## 2. 👨‍🌾 "The Irish Ate Potatoes" Is Not An Explanation
+## 2. 👩‍🌾 Respect The Crop; Respect The Grower
 
-Ireland did not consist of one class eating one diet.
+A field is not a spreadsheet cell. Farming requires knowledge of local soil, drainage, seasonal conditions, pests, plant behaviour, seed quality, labour, animal needs, storage and the market. A grower must make decisions before knowing the weather or price at harvest, and must live with consequences that arrive months later.
 
-Dependence upon potatoes was heavily classed.
+Some of this knowledge is formal science. Some is practical observation accumulated across seasons and generations. Neither is dispensable. The two can improve one another.
 
-Landless agricultural labourers, cottiers and smallholders could depend upon potatoes to a degree that wealthier farmers and households did not. Contemporary estimates and later scholarship differ in exact numbers, but millions of people were substantially dependent upon the crop by 1845.
+The cottier cultivating potatoes under insecure tenure was not necessarily choosing the crop that a modern agricultural economist would recommend for a nation with unrestricted land, capital, irrigation, laboratories and a supermarket. The cottier was trying to feed a household under the conditions actually imposed upon it.
 
-So the useful sentence is not:
+This matters because a familiar account begins with a sneer: the Irish depended on potatoes; the potatoes failed; therefore the Irish were foolish. That is not an explanation. It is a refusal to examine the constraints.
 
-> **Irish people ate potatoes.**
-
-It is:
-
-> **Large sections of the poorest rural population depended upon
-> potatoes for an extraordinary proportion of their food.**
-
-That distinction matters.
-
-When a crop failure is concentrated in the staple of the poorest people, the national agricultural picture can look very different from the household food picture.
-
-A country can continue producing food.
-
-A household can simultaneously lose most of the food it can actually command.
+And after two centuries of laboratories, international conferences and integrated disease management, perhaps we might retire the suggestion that the correct response to *P. infestans* was simply to be a bit better at potatoes.
 
 ---
 
-## 4. 🐖 One Potato Crop Was Doing Several Jobs
+## 3. 🏚️ The Irish Did Not All Eat The Same Potato
 
-The pre-Famine potato crop was not one undifferentiated heap of human calories.
+Ireland did not consist of one class eating one diet. Potato dependence was profoundly unequal. Agricultural labourers, cottiers and smallholders could depend on potatoes for a very large share of their food. Better-off households and farmers generally had access to a wider range of food and resources, although practices differed by place and period.
 
-P. M. Austin Bourke's later reconstruction, reproduced in the Central Statistics Office's historical agricultural account, estimated that before the Famine roughly:
+That distinction is essential. **A national agricultural statistic is not a cottier's dinner.** Nor is a national variety list an accurate map of the varieties available to one family on one small holding.
 
-- **47%** of the potato crop went to human food;
-- **33%** went to animal feed;
-- **13%** was retained as seed;
-- about **2%** was exported;
-- the remainder was lost or used in other ways.
+When a crop failure strikes the principal food of the poorest population, a country can continue producing other agricultural commodities while particular households lose almost everything they can actually eat.
 
-These are reconstructed estimates, not immaculate contemporary measurements.
-
-But the proportions make an important systems point.
-
-A potato can enter the household economy through more than one route:
-
-``` text
-POTATO
-  ├──→ HUMAN FOOD
-  ├──→ SEED FOR NEXT CROP
-  └──→ ANIMAL FEED
-          ↓
-       LIVESTOCK
-          ↓
-     FOOD / ASSET / CASH
-```
-
-So destroying the potato crop can remove present calories, future planting capacity and part of the household's economic buffer at the same time.
-
-The biological loss propagates.
+The important question is not merely what was grown in Ireland. It is who could grow what, who owned the output, who could buy alternatives, and who could survive the loss of the crop on which their daily subsistence depended.
 
 ---
 
-## 3. 🌎 The Potato Was An Immigrant Too
+## 4. 🧬 The Lumper Had Relatives
 
-The potato is not an ancient marker of Irishness.
+The **Lumper** was an important potato variety in pre-Famine Ireland, particularly associated with the subsistence cultivation of poorer households. Its appeal included productivity. Its historical reputation also reflects its susceptibility to late blight and its association with the catastrophe.
 
-It was domesticated in the Andes and reached Europe after European contact with the Americas.
+But **Lumper dominance is not Lumper exclusivity**.
 
-Its importance expanded gradually.
+Historical accounts and variety catalogues describe other potatoes cultivated in Ireland, including varieties recorded under names such as **Cups, Apple, Cork Red and Black**. Names and classifications varied across time and locality; a historical name does not always map neatly onto a modern, genetically characterised cultivar. The existence of multiple named varieties should not be mistaken for proof of broad, evenly distributed resistance.
 
-Across Europe, potatoes became increasingly significant during the eighteenth and nineteenth centuries because they could produce large quantities of food per unit of land.
+Three separate questions need separate evidence:
 
-By the nineteenth century, the crop had become deeply embedded in Irish rural life.
+1. How many varieties existed or were known?
+2. Which varieties were common in particular districts and social classes?
+3. How much useful resistance to *P. infestans* did the planted crop actually contain?
 
-That historical sequence matters because it prevents a lazy cultural explanation:
+Claims that Ireland grew *only* the Lumper are too strong. So, without reliable regional and national evidence, is the neat counterclaim that exactly three or four varieties dominated the entire island. Historical distribution was more complicated than either slogan.
 
-``` text
-IRISH PEOPLE
-    ↓
-PECULIAR POTATO CULTURE
-    ↓
-INEVITABLE FAMINE
+### Why propagation matters
+
+Potatoes are commonly reproduced vegetatively by planting tubers. Plants propagated from one cultivar are genetically very similar, often effectively clones. This makes useful characteristics reproducible: the grower knows what sort of potato to expect. It can also reproduce susceptibility.
+
+A large population of susceptible hosts, closely planted and exposed to favourable disease weather, provides an opportunity for a rapidly reproducing pathogen. But do not confuse **genetic similarity within a cultivar** with **the complete absence of variety diversity across Ireland**.
+
+And do not blame the people with the smallest holdings for failing to maintain a national resistance-breeding programme that did not yet exist.
+
+---
+
+## 5. 🐖 One Potato Crop Was Doing Several Jobs
+
+The potato crop was not one undifferentiated heap of human calories. P. M. Austin Bourke's reconstruction, reproduced in the Irish Central Statistics Office's historical agricultural account, estimates that before the Famine approximately **47%** of the crop was used for human food, **33%** for animal feed, **13%** retained as seed, and about **2%** exported; the remainder had other uses or was lost. These are reconstructed proportions, not a perfect contemporary survey.
+
+```text
+POTATO HARVEST
+  ├──→ FOOD FOR PEOPLE
+  ├──→ SEED FOR THE NEXT HARVEST
+  └──→ FEED FOR ANIMALS
+             ↓
+       LIVESTOCK / FOOD / INCOME
 ```
 
-There is nothing inherently Irish about the potato.
+A disease destroying the potato can therefore remove today's food, next year's planting stock and part of the household's livestock-supporting resources at once. Selling an animal to buy food may protect a person this month while reducing their ability to recover next year.
 
-There is nothing inherently famine-producing about eating one.
+This is why the crop has to be followed through the household economy rather than counted only at harvest.
 
-The vulnerability lies in the relationship between:
+---
 
-``` text
-CROP
-+
-LAND ACCESS
-+
-CLASS
-+
-DIETARY DEPENDENCE
-+
-AVAILABLE ALTERNATIVES
-+
-PATHOGEN
+## 6. 🌎 A Transatlantic Crop, Not A National Character Flaw
+
+Potatoes were domesticated in the Andes and reached Europe after European contact with the Americas. Their adoption and increasing importance were historical developments, not timeless expressions of Irish identity. Their high productivity made them valuable in many European agricultural systems.
+
+The crop itself crossed oceans before the disease became a nineteenth-century European catastrophe. Movement of plants, people and agricultural material can create enormous benefits; it can also move organisms into new ecological relationships.
+
+A potato is not inherently a famine. A people who cultivate potatoes are not inherently destined for one.
+
+```text
+CROP + LAND ACCESS + CLASS + DIET
+                  +
+          PATHOGEN + WEATHER
+                  +
+       AVAILABLE ALTERNATIVES
+                  ↓
+          ACTUAL VULNERABILITY
 ```
 
 ---
 
-## 5. 🧬 Meet *Phytophthora infestans*
+## 7. 🦠 Not Even A Fucking Fungus
 
-*Phytophthora infestans* causes potato late blight.
+Meet ***Phytophthora infestans***, the organism responsible for potato late blight and tomato late blight.
 
-It is often casually called a fungus.
+It is often called a fungus. It resembles fungi in important practical respects, and older sources used fungal terminology. Taxonomically, however, it is an **oomycete**, a fungus-like member of the stramenopile lineage, not a true fungus. Its relatives include other *Phytophthora* species responsible for serious diseases of trees and crops. Other oomycetes include *Pythium* species and the downy mildews.
 
-More precisely, it is an **oomycete**: a fungus-like organism belonging to a different evolutionary lineage.
+The name *Phytophthora* is commonly translated as **plant destroyer**.
 
-It infects leaves, stems and tubers.
+Sir. You are an oomycete. Please find a hobby.
 
-Under favourable conditions, infection can move through a crop extremely rapidly. The organism produces spores, and repeated cycles of infection and sporulation can dramatically increase disease pressure during a growing season.
+The distinction is more than pedantry. Oomycetes differ from true fungi in cellular biology and evolutionary history. Chemicals that work against one group do not necessarily work against the other. Taxonomy can affect diagnosis, treatment and the interpretation of research.
 
-In simplified form:
+We will encounter true fungi later, particularly when considering wider ecological disease threats. They are not all the same organism wearing different hats.
 
-``` text
-PATHOGEN
-   ↓
-INFECTION
-   ↓
-LESIONS ON LEAVES / STEMS
-   ↓
-RAPID SPREAD
-   ↓
-TUBER INFECTION
-   ↓
-ROT
+---
+
+## 8. 🧫 How The Little Bastard Gets In
+
+*P. infestans* infects susceptible plant tissue, particularly potato leaves, stems and tubers. Under favourable conditions, it produces **sporangia**, reproductive structures that can be carried by air currents and deposited on susceptible plants. Depending on conditions, a sporangium can germinate directly or release **zoospores**—motile cells capable of swimming through water films.
+
+The distinction matters:
+
+- **Sporangia** are important dispersal and infection structures.
+- **Zoospores** can move in water, encyst and initiate infection.
+- **Oospores** are sexually produced survival structures where compatible mating types reproduce; their importance varies between pathogen populations and regions.
+
+Once infection is established, lesions can develop and new sporangia can be produced. Under suitable weather, this creates repeated infection cycles within a season.
+
+```text
+INFECTED PLANT
+     ↓
+SPORANGIA PRODUCED
+     ↓
+WIND / WATER / CONTACT
+     ↓
+SUSCEPTIBLE TISSUE
+     ↓
+INFECTION + LESIONS
+     ↓
+MORE SPORANGIA
+     ↺
 ```
 
-Moisture and suitable temperatures help the disease spread.
+Infected seed tubers, volunteer potatoes and discarded infected tubers can also help the organism persist between crops. Sexual reproduction, where it occurs, can add another source of persistence and genetic variation. The exact balance of these routes is not identical everywhere.
 
-The tuber matters especially because the catastrophe does not necessarily end when a potato is lifted from the ground.
-
-Apparently usable potatoes can subsequently decay.
-
-Food expected to last through the winter can disappear after harvest.
+This is not one simple attack followed by a polite departure. It is a reproductive system capable of repeatedly exploiting a susceptible crop.
 
 ---
 
-## 6. 🤢 A Field Can Look Like Food Until It Doesn't
+## 9. 🌧️ The Atlantic Is Apparently An All-Inclusive Resort
 
-Agricultural statistics flatten something that contemporaries experienced bodily.
+Late blight is favoured by combinations of moisture, humidity and suitable temperatures. Cool-to-mild, wet conditions often provide opportunities for infection and sporulation; precise temperature ranges and humidity thresholds depend on the process being measured, the isolate and the study.
 
-A potato crop is not merely a number in a yield table.
+Rain, dew, leaf wetness and wind matter differently. Water enables particular infection processes; wind can transport sporangia. Humid conditions can allow sporulation to resume after a period in which it has been suppressed.
 
-It is months of expected food sitting visibly in the landscape.
+The Atlantic maritime climate is not an automatic late-blight machine. But extended wet periods in a susceptible crop can be a serious problem. Under exceptionally favourable conditions disease can spread alarmingly fast. A dramatic field-collapse timescale reported in one outbreak should not be converted into a universal five-day countdown.
 
-Accounts of the new disease described rapid deterioration, diseased foliage, rotting tubers and an offensive smell. Contemporary reports also recorded potatoes that appeared sound before later showing decay in storage.
+A grower cannot control September. A grower can monitor conditions, reduce inoculum, choose varieties, time interventions and try to limit exposure. Each requires knowledge and resources.
 
-That changes the experience of crop failure.
-
-The household is not simply told:
-
-> **Yield is down 40 per cent.**
-
-It may watch expected winter food rot.
-
-The distinction between **food apparently present** and **food actually capable of sustaining the household** becomes unstable.
-
-This is an ecological disturbance entering human expectation.
+**Weather is part of the disease system, not scenery behind it.**
 
 ---
 
-## 7. 🧬 Variety, Cloning And The Lumper
+## 10. 🧬 Molecular Sabotage And The Two-Speed Genome
 
-The **Lumper** became strongly associated with poorer Irish cultivation and with the Famine.
+The pathogen does not merely land on a leaf and wait for it to surrender. Like many successful plant pathogens, *P. infestans* interacts with host defences. It produces molecules known as **effectors** that can manipulate or suppress aspects of plant immunity. Host plants possess recognition and defence systems; the pathogen evolves under the selection pressures those systems create.
 
-It was productive, but highly susceptible to late blight.
+Genomic research has shown that *P. infestans* has a large, repeat-rich genome, often described using a **two-speed genome** model. Some regions are relatively gene-dense and conserved; other regions, rich in repetitive DNA, contain rapidly changing genes associated with interactions between pathogen and host, including many effectors.
 
-Potatoes are commonly propagated vegetatively: planting tubers produces plants genetically very similar or identical to the parent stock. That makes the crop useful to reproduce reliably.
+This does not mean the organism consciously designs new weapons. Evolution is not an intelligence service. But it does mean that a resistance mechanism effective against one pathogen population may become less effective as populations change through mutation, migration, recombination and selection.
 
-It can also reproduce vulnerability reliably.
-
-A population of susceptible plants with limited genetic variation gives a successful pathogen an unusually favourable host environment.
-
-But this should not become another single-cause story.
-
-The Famine was not caused because:
-
-> **the Irish foolishly planted one bad potato.**
-
-Variety susceptibility belongs inside a larger system containing land constraint, poverty, crop dependence, pathogen biology, weather and absence of effective contemporary control.
-
-``` text
-SUSCEPTIBLE HOST
-       +
-PATHOGEN
-       +
-FAVOURABLE WEATHER
-       +
-HIGH DEPENDENCE
-       =
-EXTREME VULNERABILITY
-```
-
----
-
-## 8. 🌧️ An Epidemic Needs An Environment
-
-A pathogen does not act independently of its environment.
-
-Late blight thrives under particular combinations of moisture and temperature.
-
-That gives us a biological system:
-
-``` text
-PATHOGEN
-   +
-SUSCEPTIBLE POTATO
-   +
-WEATHER
-   +
-CULTIVATION
-   =
-EPIDEMIC
-```
-
-This matters because even the biological event is already relational.
-
-The organism has characteristics.
-
-The potato has characteristics.
-
-The weather has characteristics.
-
-The agricultural environment brings them together.
-
-Disease emerges from the interaction.
-
----
-
-## 9. 🌍 Ireland Was Not The Only Place With Blight
-
-This is essential.
-
-*Phytophthora infestans* did not arrive in Ireland and politely stop at the border.
-
-The disease had appeared in North America before reaching Europe. In 1845 it spread rapidly through parts of Belgium, the Netherlands, France, Britain, Ireland and elsewhere in Europe.
-
-Some continental potato harvests were devastated.
-
-Belgium and the Netherlands were badly affected in 1845.
-
-In 1846, potato losses were again severe across parts of Europe.
-
-And 1846 brought another problem.
-
-Poor wheat and especially rye harvests affected much of north-western Europe.
-
-The wider subsistence crisis therefore involved **more than one crop**.
-
-``` text
-POTATO FAILURE
-      +
-POOR BREAD-GRAIN HARVESTS
-      ↓
-PRESSURE ON ALTERNATIVE STAPLES
-      ↓
-HIGHER FOOD PRICES / SCARCITY PRESSURES
-```
-
-This is important for two opposite reasons.
-
-First, it stops us pretending that every non-potato food source remained perfectly stable while the potato alone failed.
-
-Second, it makes Ireland's exceptional catastrophe more analytically important.
-
-Other populations encountered the pathogen.
-
-Other populations encountered poor harvests.
-
-Their human outcomes were not identical.
-
-The organism is therefore not a sufficient explanation.
-
----
-
-## 10. 🔄 One Famine, Several Harvests
-
-The familiar shorthand---
-
-``` text
-POTATO FAILED
-POTATO FAILED
-POTATO FAILED
-POTATO FAILED
-      ↓
-FAMINE
-```
-
----hides the system.
-
-Every year acts upon the condition left by the previous year.
-
-The useful unit is therefore not simply:
-
-> **How bad was blight this year?**
-
-It is:
-
-> **What agricultural, economic and bodily system received this year's
-> harvest?**
-
-### Crop-system chronology
-
-Year Potato system Other food System environment significance ----------------- ----------------- ----------------- **1845** Blight arrives Other First major late in the agricultural shock. Households growing season. production still possess The potato continues. The varying amounts harvest is wider European of food, seed, seriously but potato epidemic livestock, partially is already savings, credit damaged. CSO underway. and other historical resilience. reconstruction estimates about 2.516 million acres planted and roughly 10.1 million tons produced, though early figures are reconstructed estimates.
-
-**1846** Acreage falls to Poor wheat and The catastrophic an estimated rye harvests compound shock. 1.999 million across much of The population acres. Blight Europe compound receiving it has strikes earlier the subsistence already absorbed and far more crisis and 1845. severely. CSO increase pressure reconstruction on alternative estimates only staples. about 3.0 million tons of potatoes produced.
-
-**1847 --- Black Blight is much Grain harvests The decisive '47** less severe and improve. Ireland demonstration yield per acre is nevertheless has that **better good, but potato about **272,000 crop biology does acreage collapses ha wheat, 625,000 not equal human to about ha oats and recovery**. **284,000 acres / 120,000 ha Enormous 89,000 hectares** barley** under suffering because seed and cultivation. continues in a confidence have population been devastated. already depleted.
-
-**1848** Potato planting Large areas of People attempt to rebounds wheat, oats and rebuild the dramatically to barley remain potato system; roughly **810,000 under the biological acres / 258,000 cultivation. hazard strikes ha**. Blight the recovering returns and yield crop again. falls again.
-
-**1849--52** Potato acreage Agriculture The catastrophe and yields continues while is now fluctuate while mortality, propagating cultivation disease, through systems gradually emigration, much larger than recovers from the eviction and the initiating extraordinary household plant disease. collapse. Blight restructuring and potato have developed failure do not dynamics of their vanish neatly at own. one endpoint.
-
-The numbers should not be mistaken for perfect measurements.
-
-The CSO itself warns that the 1844--46 acreage and yield figures are reconstructed estimates and that the 1846 yield is especially uncertain.
-
-That uncertainty belongs in the history.
-
-But the scale and direction of the change are unmistakable.
-
----
-
-## 11. 🌧️ 1845 --- The First Shock
-
-In early summer 1845, the Irish potato crop looked promising.
-
-Then reports of the new disease began arriving.
-
-The blight had already appeared on the European continent and in Britain. By late summer it was being observed in Ireland.
-
-The late arrival limited the damage compared with what would happen the following year.
-
-But a substantial part of the crop was lost.
-
-The important systems point is that **1845 begins depletion**.
-
-Households respond to shortage by using what they possess.
-
-That might include:
-
--   stored food;
--   savings;
--   livestock;
--   credit;
--   borrowing;
--   help from relatives or neighbours;
--   purchases of substitute food;
--   whatever other assets can be converted into survival.
-
-A household can survive a shock and emerge from it dramatically less capable of surviving another.
-
----
-
-## 12. 💀 1846 --- The Compound Shock
-
-The second shock did not strike the same system that had entered 1845.
-
-The first failure had already altered the next planting cycle.
-
-The Central Statistics Office's historical reconstruction indicates that potato acreage planted in 1846 was already more than one-fifth below the 1845 level. The accompanying analysis argues that the reduced acreage alone would have created serious distress even if the surviving crop had escaped renewed disease.
-
-Then the much more destructive 1846 blight arrived.
-
-That gives us an unusually visible feedback loop:
-
-``` text
-1845 BLIGHT
-    ↓
-FOOD + SEED + RESOURCES LOST
-    ↓
-LESS POTATO LAND PLANTED IN 1846
-    ↓
-SYSTEM ENTERS 1846 WITH LESS CAPACITY
-    ↓
-1846 BLIGHT
-    ↓
-CATASTROPHIC FAILURE
-```
-
-The second disturbance therefore acts upon a system already changed by the first.
-
-
-The second major failure does not strike the Ireland of 1844.
-
-It strikes the Ireland that has already experienced 1845.
-
-And the biological event is worse.
-
-Blight appears earlier and devastates the potato crop much more comprehensively.
-
-At the same time, poor grain harvests affect much of Europe.
-
-That matters because grain is one of the things people might otherwise expect to substitute for lost potatoes.
-
-So:
-
-``` text
-PREVIOUS DEPLETION
-       +
-SEVERE POTATO FAILURE
-       +
-POORER EUROPEAN GRAIN HARVEST
-       +
-PRICE PRESSURE
+```text
+POTATO DEFENCE
+       ↓ selection pressure
+PATHOGEN POPULATION CHANGES
        ↓
-COMPOUND SUBSISTENCE SHOCK
+SOME INFECTIONS ESCAPE RECOGNITION
+       ↓
+NEW BREEDING / MANAGEMENT CHALLENGE
 ```
 
-The second disturbance therefore has a different effect even before policy enters the picture.
-
-**The first shock changed the system that receives the second.**
+The plant and pathogen are participants in a changing ecological relationship. Modern disease control therefore cannot be a one-off technological victory.
 
 ---
 
-## 13. 🖤 1847 --- Black '47
+## 11. 🥔 Food That Rots After You Thought You Had It
 
-This is one of the most important years for understanding the entire cluster.
+A field is visible. A winter's food supply is imagined from what that field promises. Late blight attacks that expectation.
 
-Blight itself was less severe.
+Disease may appear as discoloured, water-soaked or necrotic lesions on leaves and stems. Infected tubers can develop decay. Secondary microorganisms may contribute to the further breakdown of damaged tissue. Tubers that looked usable at harvest may deteriorate in storage.
 
-The potato yield per planted acre was comparatively good.
+This makes the catastrophe difficult to capture in a single yield statistic. Food can seem present and then cease to be edible. Seed reserved for the next season can become unusable. A household's planned winter supply can rot after the harvest has supposedly been secured.
 
-But hardly any potatoes had been planted.
+Contemporary descriptions of blight emphasised rapid deterioration and offensive smells; particular quotations should be checked against original records before being reproduced as eyewitness testimony.
 
-The CSO historical reconstruction gives:
+The material distinction is already powerful enough:
 
-``` text
-1845 potato acreage ≈ 2.516 million acres
-1846 potato acreage ≈ 1.999 million acres
-1847 potato acreage ≈ 0.284 million acres
+> **Food apparently present is not necessarily food capable of sustaining a household.**
+
+---
+
+## 12. 🌍 How The Epidemic Travelled
+
+Late blight appeared in North America in the early 1840s and spread across parts of continental Europe in 1845 before devastating Ireland. Belgium, the Netherlands, France and Britain also experienced the disease. It did not arrive at Ireland's border and politely stop travelling.
+
+Movement of infected plant material is an important mechanism of introduction over long distances; airborne dispersal can then contribute to spread. The precise route by which the pathogen first entered a particular country is harder to reconstruct than the broad sequence of outbreaks. Suggestions involving imported seed potatoes must be presented as hypotheses unless supported by specific evidence.
+
+The pathogen's deeper geographical origin is also an active historical and genetic question. Research has debated origins in Mexico and the Andes, and has examined historical lineages using preserved specimens and modern genomic methods. Present-day genetic diversity alone cannot settle the location of a nineteenth-century introduction, still less the evolutionary origin of the species.
+
+A confident map with a single arrow can be aesthetically satisfying and scientifically misleading.
+
+---
+
+## 13. 🌾 Other Places Lost Potatoes Too
+
+The European epidemic matters because Ireland was not the only country to encounter the biological hazard. Other regions experienced serious potato losses. Poor wheat and especially rye harvests in parts of Europe in 1846 also pressured alternative staples and food prices.
+
+The comparison must do two jobs at once. It should prevent the fiction that every other food source remained perfectly stable; and it should make Ireland's exceptional human catastrophe a question requiring explanation beyond the organism.
+
+```text
+SHARED PATHOGEN
+       +
+DIFFERENT LAND SYSTEMS
+DIFFERENT HOUSEHOLD RESOURCES
+DIFFERENT RELIEF AND MARKETS
+DIFFERENT FOOD ACCESS
+       ↓
+DIFFERENT HUMAN OUTCOMES
 ```
 
-The 1847 potato acreage was roughly one-seventh of the previous year's.
+The pathogen is a useful comparative variable. It is not a complete history of how governments, landlords, markets and households responded.
 
-Why?
+---
 
-The previous catastrophe had damaged the reproductive capacity of the agricultural system itself.
+## 14. 🔁 1845 — The First Shock
 
-Seed potatoes had been:
+Reports of the new disease arrived during a growing season that had initially appeared promising. The late timing meant the damage was less comprehensive than the following year's disaster, but substantial quantities of the potato harvest were lost.
 
--   destroyed by disease;
--   eaten because people were hungry;
--   otherwise unavailable.
+The first loss changed what households carried into the next season. Families could consume stored food, sell livestock, borrow, rely on neighbours, seek work or draw down whatever savings they possessed. Such strategies can keep people alive. They can also remove the very resources needed to survive the next shock.
 
-People also had reason to fear planting a crop that had failed catastrophically twice.
+A household can survive 1845 and be much less able to survive 1846.
 
-So:
+This is the first important feedback loop: the biological event does not end when the weather changes. Its effects remain in the household's food, assets, seed and body.
 
-``` text
-1846 BLIGHT
-      ↓
-POTATO LOSS
-      ↓
-SEED LOSS
-      ↓
+---
+
+## 15. 💀 1846 — The Second Shock Strikes An Altered System
+
+The renewed blight was earlier and much more destructive. Crucially, it struck a crop system already reduced by the previous year's loss. The CSO's historical reconstruction estimates potato planting fell from about **2.516 million acres in 1845** to **1.999 million acres in 1846**. Those are reconstructed historical estimates, not a precise modern acreage survey.
+
+The reduced planting alone created vulnerability. Then the new infection devastated much of the crop that remained. Meanwhile, poor bread-grain harvests in parts of Europe put pressure on possible alternatives.
+
+```text
+1845 POTATO LOSS
+       ↓
+FOOD / SEED / ASSETS DEPLETED
+       ↓
+LESS LAND PLANTED IN 1846
+       ↓
+EARLIER, MORE SEVERE BLIGHT
+       ↓
+CATASTROPHIC CROP LOSS
+```
+
+The second shock did not strike the Ireland of 1844. It struck the Ireland that had already endured 1845.
+
+This is why a series of annual harvest percentages cannot explain the experience by itself. **The first shock changed the system receiving the second.**
+
+---
+
+## 16. 🖤 1847 — When The Blight Wasn't The Worst Part
+
+Black '47 is the analytical centre of this history.
+
+Blight itself was less severe in 1847, and yield per planted acre was comparatively good. But planting had collapsed. The CSO reconstruction puts the potato acreage at about **284,000 acres**, approximately **115,000 hectares**, compared with nearly two million acres the previous year.
+
+Seed potatoes had been destroyed, consumed, or become otherwise unavailable. People who had endured two disastrous seasons also had reasons to fear risking scarce resources on another potato crop. A good yield from a very small planted area does not produce a large national harvest.
+
+```text
+1846 CROP FAILURE
+       ↓
+SEED LOSS / DEPLETION
+       ↓
 1847 PLANTING COLLAPSE
-      ↓
+       ↓
 LOW TOTAL POTATO PRODUCTION
-EVEN WITH GOOD YIELD PER ACRE
+DESPITE BETTER YIELD PER ACRE
 ```
 
-This is system memory.
+And Ireland continued growing cereals. The CSO's historical account records approximately **272,000 hectares of wheat**, **625,000 hectares of oats** and **120,000 hectares of barley** under cultivation in 1847. These areas do not tell us, on their own, how much edible food was available to a starving household. Crop use, ownership, exports, prices, wages and access all require further examination.
 
-The biological disturbance at **t** alters agricultural capacity at **t+1**.
+But the coexistence matters: **food production and mass hunger were not mutually exclusive**.
+
+That question belongs in [🌾 There Was Always Food In Ireland](./🌾_there_was_always_food_in_ireland.md).
+
+Black '47 makes a devastating point about time. The year of greatest human suffering need not be the year of the most intense immediate biological attack. The body, the household and the agricultural system remember previous damage.
 
 ---
 
-## 14. 🌾 Black '47 Has Another Problem
+## 17. 🌱 1848 And Beyond — Replanting Into Danger
 
-In 1847 Ireland did not stop growing food.
+The relatively successful yield on the small 1847 acreage encouraged renewed potato cultivation. The historical reconstruction places planting in 1848 at roughly **810,000 acres**, equivalent to about **328,000 hectares**—not 258,000 hectares, as an earlier version of this node mistakenly stated.
 
-CSO historical agricultural data record approximately:
+The renewed planting represented effort, risk and sacrifice. Contemporary relief discussions recorded people keeping potatoes for seed while hungry. Then blight returned.
 
-``` text
-WHEAT      272,000 hectares
-OATS       625,000 hectares
-BARLEY     120,000 hectares
-POTATOES    89,000 hectares
-```
-
-That is more than one million hectares under those three cereals.
-
-And yet 1847 became **Black '47**.
-
-This does not by itself tell us how much food was edible by humans, where every crop went, what proportion was exported, who owned it, or whether it could have replaced the lost potato calories.
-
-Those questions require their own evidence.
-
-They belong in:
-
-[🌾 There Was Always Food In Ireland](./🌾_there_was_always_food_in_ireland.md)
-
-But the coexistence matters.
-
-It immediately destroys the simplest causal model:
-
-``` text
-NO FOOD EXISTS
-      ↓
-PEOPLE STARVE
-```
-
-The harder model begins:
-
-``` text
-FOOD EXISTS
-     ↓
-WHO OWNS IT?
-     ↓
-WHO CAN BUY IT?
-     ↓
-WHO HAS WAGES?
-     ↓
-WHO HAS CREDIT?
-     ↓
-WHO HAS A CLAIM TO RELIEF?
-     ↓
-WHO CAN ACCESS IT?
-     ↓
-WHO EATS?
-```
-
-Biology has now carried us to the edge of political economy.
-
----
-
-## 15. 🌱 1848 --- Trying Again
-
-The good yield from the small 1847 planting encouraged renewed potato cultivation.
-
-The recovery required sacrifice.
-
-Contemporary relief reporting recorded poor people preserving scarce potatoes for seed even while hungry.
-
-Potato acreage nearly tripled between 1847 and 1848.
-
-Then blight returned.
-
-This is not simply:
-
-> **another bad potato year.**
-
-It is a feedback loop:
-
-``` text
+```text
 1846 FAILURE
       ↓
-1847 SEED / ACREAGE COLLAPSE
+1847 SEED AND ACREAGE COLLAPSE
       ↓
-1847 GOOD YIELD
+1847 BETTER YIELD ON LITTLE LAND
       ↓
 1848 REPLANTING
       ↓
-BLIGHT RETURNS
+RENEWED BLIGHT
 ```
 
-Meanwhile the humans inside the loop have not reset.
+The later years cannot be flattened into an uninterrupted identical epidemic. Potato acreage and yields fluctuated; agricultural production gradually reorganised. Human mortality, disease, emigration, eviction and household loss followed their own overlapping trajectories.
 
-A better harvest cannot:
-
--   resurrect somebody who died;
--   instantly reverse malnutrition;
--   recover livestock already sold;
--   erase debt;
--   restore a surrendered holding;
--   return an emigrated family member;
--   rebuild household savings;
--   recreate lost social networks.
+A better crop cannot resurrect somebody who died, erase a debt, recover a surrendered holding, return an emigrated relative or immediately restore health after prolonged malnutrition.
 
 **Recovery is path-dependent too.**
 
 ---
 
-## 16. 🔁 The Crop Failure Has Memory
+## 18. ♻️ The Crop Failure Has Memory
 
-This gives us a more useful model of the Famine years.
+A repeated agricultural shock is not simply the first shock happening again. Each event alters the system that will receive the next.
 
-``` text
-CROP LOSS(t)
-      ↓
-FOOD LOSS(t)
-      ↓
-SEED AVAILABILITY(t+1)
-      ↓
-PLANTED ACREAGE(t+1)
-      ↓
-FOOD PRODUCTION(t+1)
+```text
+CROP LOSS (YEAR t)
+       ↓
+SEED AVAILABLE (YEAR t+1)
+       ↓
+AREA PLANTED (YEAR t+1)
+       ↓
+FUTURE FOOD PRODUCTION
 ```
 
 At the same time:
 
-``` text
-CROP LOSS(t)
-      ↓
-ASSET DEPLETION
-      ↓
-PURCHASING POWER
-      ↓
-NUTRITION
-      ↓
-HEALTH
-      ↓
-LABOUR CAPACITY
-      ↓
-ABILITY TO ABSORB SHOCK(t+1)
-```
-
-And:
-
-``` text
+```text
 CROP LOSS
-      ↓
-ARREARS / DISTRESS
-      ↓
-RELIEF / EVICTION / MIGRATION
-      ↓
-HOUSEHOLD REORGANISATION
-      ↓
-NEXT YEAR'S CAPACITY
+    ↓
+ASSET DEPLETION / LOST WAGES
+    ↓
+PURCHASING POWER
+    ↓
+NUTRITION AND HEALTH
+    ↓
+CAPACITY TO WORK AND RECOVER
+    ↓
+ABILITY TO ABSORB THE NEXT SHOCK
 ```
 
-The famine therefore cannot be understood as independent annual crop failures.
+And another loop runs through tenancy, relief and displacement:
 
-**Every iteration modifies the system receiving the next iteration.**
-
----
-
-## 17. 🔬 What Did Contemporaries Think Was Happening?
-
-They did not possess our settled model of *Phytophthora infestans*.
-
-But it would also be wrong to say:
-
-> **Victorians had no idea disease might be causing it.**
-
-Scientists and agricultural observers debated the cause intensely.
-
-Explanations included:
-
--   unusual weather;
--   atmospheric conditions;
--   chemical processes;
--   decay producing fungal growth;
--   fungal growth producing decay;
--   cultivation practices;
--   other environmental causes.
-
-Prime Minister Robert Peel established a Scientific Commission in October 1845 to investigate the crop failure and possible remedies.
-
-The Commission pursued chemical explanations that later proved incorrect.
-
-At the same time, observers including David Moore in Dublin and the Reverend Miles Joseph Berkeley examined the fungus-like organism associated with diseased potatoes.
-
-Berkeley argued in 1846 that the mould was causing the decay rather than merely appearing after the potato had already become diseased.
-
-The scientific disagreement was real.
-
-Plant pathology was being made while the catastrophe was occurring.
-
-That matters methodologically.
-
-Historical actors should be judged against the evidence and tools available to them, not against biological knowledge established later.
-
----
-
-## 18. 🧪 Could They Stop The Blight?
-
-Not effectively at the necessary scale with the tools available in the 1840s.
-
-Modern control of late blight relies upon combinations of:
-
--   resistant varieties;
--   disease surveillance;
--   seed management;
--   fungicides;
--   agricultural knowledge unavailable or undeveloped in the 1840s.
-
-The pathogen's biology therefore places a genuine limit on what government could do.
-
-That gives us an essential distinction.
-
-### Preventing the plant disease
-
-is one problem.
-
-### Preventing mass human death after the staple crop fails
-
-is another.
-
-We do not need to pretend that Westminster possessed a secret nineteenth-century cure for late blight and chose not to deploy it.
-
-The relevant political question is:
-
-> **What could institutions do once they knew that the principal
-> subsistence crop of millions of people was failing?**
-
-The inability to cure *Phytophthora infestans* does not answer that question.
-
----
-
-## 19. 🙏 Providence Does Not Cure Oomycetes
-
-Religious and providential interpretations existed alongside scientific investigation.
-
-Those beliefs matter historically when they shape interpretations of:
-
--   why disaster occurred;
--   what suffering means;
--   who is responsible;
--   whether intervention is appropriate;
--   what kind of intervention is legitimate.
-
-But providentialism is not the biological explanation of late blight.
-
-And this node should not use theology as a substitute for reconstructing policy.
-
-That belongs principally in:
-
-[🇬🇧 What Britain Knew](./🇬🇧_what_britain_knew.md)
-
-and:
-
-[🏛️ What Britain Did](./🏛️_what_britain_did.md)
-
-The task here is narrower.
-
-**What happened to the plant?**
-
-Then:
-
-**where does that explanation stop?**
-
----
-
-## 20. ⚠️ Hazard Is Not Disaster
-
-The pathogen provides a hazard.
-
-The human catastrophe emerges through the system receiving it.
-
-Not literal arithmetic, but a useful model:
-
-``` text
-HAZARD
-   ×
-EXPOSURE
-   ×
-VULNERABILITY
-   ÷
-RESILIENCE
-   =
-DISASTER RISK
+```text
+CROP LOSS → ARREARS / DISTRESS
+                  ↓
+       RELIEF / EVICTION / MIGRATION
+                  ↓
+         HOUSEHOLD REORGANISATION
+                  ↓
+           NEXT YEAR'S CAPACITY
 ```
 
-For An Gorta Mór:
+This is what **embodied information ecology** makes visible. The harvest enters the household. The household enters the body. The body enters the next season's capacity to work, cultivate, move, care and survive. Information about failure is not simply written in a report; it is carried in hunger, missing seed and absent people.
 
-### Hazard
-
-*Phytophthora infestans.*
-
-### Exposure
-
-Heavy dependence upon susceptible potatoes.
-
-### Vulnerability
-
-Poverty, restricted land access, insecure income, weak purchasing power and limited alternatives.
-
-### Resilience
-
-At household level, resilience means the resources available to absorb a shock without losing subsistence: alternative crops, livestock, stored food, wages, savings, credit, kin support, mobility and effective access to relief. Those buffers were distributed extremely unevenly.
-
-Food reserves, savings, livestock, credit, alternative employment, family networks, other foods, relief and institutional support.
-
-And resilience changes.
-
-``` text
-SHOCK 1
-   ↓
-RESILIENCE DEPLETED
-   ↓
-SHOCK 2
-   ↓
-GREATER DAMAGE
-   ↓
-RESILIENCE DEPLETED FURTHER
-```
-
-That is why repeated disturbance matters.
+The crop failure has memory because the system has memory.
 
 ---
 
-## 21. 🌍 Same Organism, Different Human Outcomes
+## 19. 🔬 The Science Was Still Being Invented
 
-The European epidemic gives us a natural comparative question.
+In 1845, scientists did not possess the modern causal account of late blight. But it is equally inaccurate to suggest nobody suspected an organism might be responsible.
 
-The same pathogen affected potatoes outside Ireland.
+Observers proposed atmospheric, meteorological, chemical and biological explanations. Some considered the visible mould a consequence of decay; others argued that it caused the disease. Prime Minister Robert Peel established a scientific commission in October 1845 to investigate the problem. Its chemical interpretations did not provide an effective solution.
 
-Poor grain harvests also affected large parts of Europe in 1846.
+David Moore in Dublin studied the diseased plants. Miles Joseph Berkeley argued in 1846 that the fungus-like growth was causally involved, rather than merely feeding on already-rotten tissue. Later experimental work by Anton de Bary helped establish the pathogen's causal role in plant disease.
 
-There was hardship and excess mortality elsewhere.
+Microscopes existed. Observation existed. Scientific disagreement existed. What did not yet exist was the combination of experimental knowledge, effective treatments, resistant varieties and surveillance infrastructure that modern late-blight management uses.
 
-But the scale of Irish mortality and demographic collapse was exceptional.
-
-Therefore:
-
-> **Same pathogen does not mean same disaster.**
-
-The comparison should not be used to manufacture a morality play in which one country behaved perfectly and another uniquely badly.
-
-It should be used to identify variables.
-
-Ask:
-
--   How dependent was the population upon potatoes?
--   Which classes were dependent?
--   What alternative crops existed?
--   What purchasing power existed?
--   What happened to grain prices?
--   What relief mechanisms existed?
--   What employment existed?
--   How did landholding work?
--   How did governments respond?
--   What happened after the first shock depleted household resources?
-
-The organism becomes a control variable.
-
-The social systems differ.
+The history is not improved by making Victorians either omniscient or helplessly ignorant. Their scientific tools and theories were developing during the disaster itself.
 
 ---
 
-## 22. 🫀 The Plant Dies First
+## 20. 🧪 They Could Not Readily Cure The Blight In 1845
 
-The simplest biological chain is:
+There was no reliable, scalable means of controlling the epidemic across Irish potato cultivation in the 1840s comparable to modern integrated management. It would be anachronistic to demand that an official deploy contemporary diagnostics, modern fungicides, resistant cultivars or a national weather-based spray advisory network.
 
-``` text
-PATHOGEN
-   ↓
-POTATO
-   ↓
-HOUSEHOLD FOOD SUPPLY
-   ↓
-CALORIC INTAKE
-   ↓
-BODY
+That is a genuine biological limit. But it is a limit on **preventing the plant disease**.
+
+It does not establish an equivalent inability to intervene when people have lost their principal source of food.
+
+> **They did not need to know what killed the potatoes to know that people needed food.**
+
+Those are different questions, with different evidentiary standards and different responsibilities. The policy record belongs in [🏛️ What Britain Did](./🏛️_what_britain_did.md), and the evidence reaching government in [🇬🇧 What Britain Knew](./🇬🇧_what_britain_knew.md).
+
+---
+
+## 21. 🙏 Providence Does Not Cure Oomycetes
+
+Religious and providential explanations formed part of nineteenth-century public life. They could shape whether suffering was understood as misfortune, punishment, an opportunity for moral reform, or a condition requiring direct intervention. Such beliefs become politically consequential when they influence who is believed, what information is acted upon and what assistance is considered legitimate.
+
+But providentialism is not plant pathology. Nor does it remove the obligation to examine what decision-makers knew, what they could do and what they chose.
+
+This is where a colonial system can become particularly bad at receiving information. A governing institution committed to assumptions about the supposed failings of the governed may discount evidence supplied by those experiencing the crisis. That is an interpretive mechanism to test against documented statements and decisions, not a substitute for the documents themselves.
+
+A system can be desperate to control land and remarkably unwilling to listen to the people who know how to live on it. That contradiction deserves investigation.
+
+---
+
+## 22. ⚖️ Biological Cause Is Not A Legal Verdict
+
+An Gorta Mór is often discussed in language that sits somewhere between the histories of epidemic catastrophe and those of colonial mass atrocity. That comparison is intelligible. A destructive organism struck a highly vulnerable population; suffering was foreseeable; political responses occurred within an unequal colonial order; mass death and displacement followed.
+
+The analogy should not be used to pretend that the question of genocide under contemporary international law is settled by the mere existence of catastrophic outcomes. Specific legal intent is a distinct issue. Knowledge, discriminatory attitudes, foreseeable mortality, indifference, neglect and intent to destroy a protected group are related questions, not synonyms.
+
+Polaris can examine the dehumanisation, the governance, the information failures and the material consequences without manufacturing a courtroom verdict. It can also acknowledge why art, music and historical memory draw the comparison so forcefully.
+
+The point of restraint is not to soften the suffering. It is to keep the evidentiary distinctions sharp enough that the institutional questions cannot escape into arguments over a label.
+
+The pathogen has a biology. The famine has a system.
+
+---
+
+## 23. 💸 Nearly Two Centuries Later, Still Fighting The Bastard
+
+Late blight remains a major economic and food-security problem. Modern reviews report **billions of dollars annually** in global losses and management expenditure, with estimates often expressed in the range of **US$3–10 billion**. Such figures are broad, method-dependent estimates assembled from studies at different dates, not audited measurements of the precise cost in 2026.
+
+Losses can be severe in unprotected, susceptible crops under conducive conditions. But an outbreak maximum is not an average farm loss, and a global annual estimate is not a guarantee of what any one country spends.
+
+The more interesting point is the infrastructure behind the numbers. Growers spend money on seed, monitoring, advice, field operations, disease forecasting, chemical or other interventions, storage and lost output. Scientists spend years investigating resistance, pathogen genetics and epidemiology. Governments maintain plant-health systems and research institutions.
+
+And still the organism turns up.
+
+Two centuries of this. Perhaps the historical lesson is not that the Irish were stupid. Perhaps the lesson is that **this is a genuinely difficult biological problem**.
+
+---
+
+## 24. 🌱 The First Line Of Defence Is Good Farming
+
+Modern management begins before a lesion appears. Depending on region and production system, it can include certified healthy seed, resistant cultivars, monitoring for symptoms, managing volunteer potatoes and cull piles, reducing sources of inoculum, appropriate field layout and drainage, and careful handling and storage.
+
+These are not interchangeable magic buttons. A grower balancing wet soils, limited machinery access, other diseases, soil conservation, labour and finances must make practical choices. Some measures that reduce one risk may increase costs or complicate another part of the system.
+
+Crop rotation matters for soil management and many pests and diseases, but it is not a complete late-blight cure: airborne inoculum and infected planting material can defeat the reassuring idea that simply changing the crop in one field makes the organism disappear.
+
+**Good farming is not a single action. It is continuous judgement under uncertainty.**
+
+---
+
+## 25. 🧪 Fungicides Are Tools, Not Time Machines
+
+Chemical management can substantially reduce late-blight losses, but efficacy depends on the active ingredient, pathogen sensitivity, application timing, coverage, crop growth and weather. Products differ in their protective, translaminar, systemic, locally post-infection and anti-sporulant properties. The precise terminology belongs to the product and study in question.
+
+Calling a product *curative* in a technical discussion does not mean that a potato plant with destroyed tissue will be restored to life. Nor does spraying remove all inoculum or guarantee that a crop will survive prolonged conducive conditions.
+
+Repeated use of compounds with the same mode of action can select for resistant pathogen populations. Resistance management therefore matters, as do environmental impacts, occupational safety, regulation and the economics of repeated applications.
+
+Historical review articles sometimes list products authorised in a particular country in a particular year. Those lists must not be republished as present-day UK pesticide advice. Registrations change. The right intervention is jurisdiction-specific and time-sensitive.
+
+The grower is not choosing between 'chemicals' and 'nature'. The grower is navigating interacting biological, environmental, legal and economic constraints.
+
+---
+
+## 26. 🌦️ Forecasting Is A Feedback System
+
+Late-blight forecasting is a striking example of cybernetics in agriculture. Weather observations and disease models help estimate risk; growers and advisers interpret the signal; interventions are timed; the field is observed again.
+
+```text
+WEATHER + CROP + PATHOGEN OBSERVATIONS
+                  ↓
+           RISK ESTIMATION
+                  ↓
+       MANAGEMENT DECISION
+                  ↓
+            INTERVENTION
+                  ↓
+      NEW FIELD OBSERVATIONS
+                  ↺
 ```
 
-But the actual human system contains many possible interventions between crop and body:
+Historical UK systems used criteria such as **Smith Periods**; more recent approaches include **Hutton Criteria** and other local forecasting tools. Models can incorporate temperature, relative humidity, leaf wetness, rainfall, cultivar resistance and treatment history, depending on their design. Diagnostic techniques including PCR and newer rapid molecular approaches can help identify pathogens and sometimes lineages.
 
-``` text
+A forecast is not omniscience. Weather measurements are incomplete, models have assumptions, and a local field may behave differently from the nearest sensor. The useful question is whether information arrives early enough, clearly enough and affordably enough to change a decision.
+
+**A warning nobody can act upon is not the same as protection.**
+
+---
+
+## 27. 🧬 Building Better Potatoes
+
+Breeding for resistance is a major part of modern late-blight management. Resistance traits can come from cultivated potatoes and wild relatives. Some genes recognise particular pathogen effectors; their effectiveness may decline when pathogen populations change. Broader quantitative resistance can involve multiple genetic contributions and may be more durable, although no category guarantees permanence.
+
+Potato breeding is complicated by its genetics and cultivation history. Many important cultivated potatoes are tetraploid and highly heterozygous, making the assembly of desired traits more difficult than the simple schoolbook picture of crossing two uniform lines.
+
+Researchers use conventional breeding, genomic approaches, resistance-gene discovery, and—in some projects—cisgenic, transgenic or genome-editing techniques. **Gene stacking**, the combination of multiple useful resistance genes, is one strategy for making resistance harder to overcome.
+
+The biological evidence, ownership of planting material, intellectual property, regulation, public trust and accessibility to farmers are separate questions. A resistant potato unavailable or unaffordable to the grower cannot protect their crop. A resistance trait also does not abolish the need for monitoring.
+
+The aim is not a potato that never needs looking after. It is a crop that can be sustained with less vulnerability and, where evidence supports it, fewer costly interventions.
+
+---
+
+## 28. 🧫 Other Organisms May Help
+
+Researchers are investigating biological control agents, microbial communities, plant-derived compounds and RNA-based techniques. Studies involving organisms such as *Trichoderma* or *Pseudomonas*, natural products and RNA interference explore possible ways to inhibit infection or improve plant defences.
+
+But laboratory inhibition, greenhouse performance, multi-site field effectiveness, regulatory approval and routine agricultural availability are five different things. A promising petri-dish result is not a product a farmer can responsibly rely upon next spring.
+
+Nor does *natural* automatically mean harmless. A substance's environmental and human-health effects depend on its chemistry, dose, exposure and application.
+
+The future of management is likely to remain plural: combinations of tools, continually tested against changing pathogen populations and real farming conditions.
+
+---
+
+## 29. 👩‍🌾 Farmers Cannot Be The Entire Public-Health Department For Potatoes
+
+Farmers are custodians of living systems, but they cannot individually provide every public good required to protect them. Disease surveillance, independent diagnostics, agricultural extension, long-term breeding, weather infrastructure, certified seed systems and emergency support are collective capacities.
+
+We should not demand simultaneously that farmers produce ever-cheaper food, absorb extreme weather, reduce every input, restore biodiversity, maintain rural livelihoods, invest in new equipment and carry all the financial risk when a pathogen arrives.
+
+Nor is this a sentimental claim that small farms are always ecologically diverse or large farms always monocultures. Ownership structure alone does not tell us crop diversity, disease management or resilience. Those need to be measured in practice.
+
+The more useful distinction is between **extracting output** and **maintaining the capacity to produce food through disturbance**.
+
+Spare seed, diverse breeding programmes, independent laboratories, trained advisers, local knowledge and financial buffers can look inefficient in a narrowly optimised balance sheet. Until they are needed.
+
+**The wiggle room is the infrastructure.**
+
+---
+
+## 30. 🌍 The Field Is Local; Its Dependencies Are Global
+
+A farmer stands in a particular field. The resources that make farming possible may have travelled through several countries.
+
+Seed production, fertiliser manufacturing, natural gas, fuel, machinery, spare parts, agricultural chemicals, shipping and credit connect local agriculture to international markets. Disruption in one place can raise costs or interrupt supply elsewhere. The Strait of Hormuz is one obvious example of a chokepoint relevant to energy and petrochemical supply chains, but it would be wrong to claim that all fertilisers or crop-protection products pass through it.
+
+Likewise, trade moves useful crops and technologies while creating routes for the accidental introduction of pests and pathogens. Plant-health inspection, traceability, quarantine and international surveillance are therefore part of food security, not irritating paperwork appended to it.
+
+The old fantasy is that food security means maximising this year's output. The harder question is whether the system can keep feeding people when weather, disease, energy prices or logistics change.
+
+---
+
+## 31. 🍄 The Wider World Of Blight
+
+The future-facing literature is sobering. Emerging plant pathogens threaten crops and trees; fungal diseases have devastated some wildlife populations; resistant fungal infections complicate human healthcare. These are related ecological and governance concerns, not one single pandemic mechanism.
+
+Emily Monosson's *Blight: Fungi and the Coming Pandemic* is a useful bridge into that wider discussion. Its subjects include fungal threats to wildlife, forests, crops and people. But ***P. infestans* is an oomycete**, and the book's broad fungal argument should not be misrepresented as evidence that potato late blight is about to become a human fungal pandemic.
+
+Important distinctions include:
+
+- ***Phytophthora* diseases:** oomycete pathogens of plants and ecosystems.
+- **True fungal plant diseases:** including rusts, smuts and other serious crop pathogens.
+- **Wildlife fungal diseases:** such as amphibian chytridiomycosis and bat white-nose syndrome.
+- **Human fungal infections:** including drug-resistant *Candida auris* and geographically patterned fungal diseases.
+
+Global movement, environmental disturbance, climate change and biological adaptation can affect these threats in different ways. Their common lesson is not that every fungus will kill us. It is that **interconnected ecological systems require observation and maintenance before a crisis becomes visible**.
+
+---
+
+## 32. 🌡️ Climate Change Does Not Give Every Pathogen The Same Advantage
+
+Changing temperatures, rainfall patterns, humidity and extremes can alter crop suitability, host stress, pathogen development and disease geography. Research has documented geographical shifts in some crop pests and pathogens, and climate change is an important variable in future risk.
+
+But 'warming equals more blight everywhere' is too simple. Different life stages have different environmental requirements. Conditions can become more favourable in one place and less favourable in another. Host varieties, irrigation, planting dates, land use, pathogen populations and management all change the outcome.
+
+The practical response is not to invent a single global forecast. It is to support locally appropriate surveillance and research, and to keep updating agricultural advice as conditions change.
+
+Climate change makes situated knowledge more important, not less.
+
+---
+
+## 33. 🌱 *Nausicaä*: The Difference Between Control And Custodianship
+
+Hayao Miyazaki's *Nausicaä of the Valley of the Wind* (1984), made before Studio Ghibli's formal establishment, is a useful cultural companion to this history. It is accessible enough to be encountered as an adventure film, while its ecological questions are anything but simple. The wider manga is more expansive and often darker.
+
+The story asks what happens when people mistake an unfamiliar ecology for a purely hostile one, or respond to environmental disturbance with domination before understanding the relationships involved. Its Toxic Jungle cannot be reduced to a straightforward enemy. Observation changes the meaning of what the characters see.
+
+That does **not** mean every pathogen should be allowed to spread. In the manga, the threat posed by breadfungus to the Valley's ancient protective tree requires active intervention. Sometimes stewardship means allowing something to grow. Sometimes it means stopping something from spreading. The difficulty is knowing the difference.
+
+This is an **authorial analogy**, not evidence that Miyazaki was commenting on the Irish Famine. His work emerged in a Japanese cultural context shaped by war, defeat, industrialisation, environmental concern and debates about human power; it should not be flattened into a simple account of a fully decolonised Japan. Nor does Britain share Japan's imperial history in any straightforward way.
+
+But the comparison is valuable precisely because it makes a familiar reader question their inherited assumptions about land, authority, extraction and the people who actually know the terrain.
+
+A farmer who recognises the early signs of a disease is not an obstacle to modernisation. That person may be the most important sensor in the system.
+
+---
+
+## 34. ⚠️ Hazard Is Not Disaster
+
+The pathogen provides a hazard. The human catastrophe emerges from the relationship between that hazard and the society receiving it.
+
+This is a conceptual model, not a numerical formula:
+
+```text
+BIOLOGICAL HAZARD
+       +
+EXPOSURE TO THE HAZARD
+       +
+HOUSEHOLD AND SOCIAL VULNERABILITY
+       -
+EFFECTIVE RESILIENCE AND INTERVENTION
+       ↓
+RISK OF HUMAN DISASTER
+```
+
+For An Gorta Mór, the hazard was late blight. Exposure was intensified by dependence on susceptible potatoes. Vulnerability included poverty, restricted land access, limited purchasing power and insecure alternatives. Resilience included other food, seed, assets, wages, credit, community support and effective relief—but these were profoundly unequal and eroded by repeated shocks.
+
+The crucial insight is that resilience is not fixed. It can be consumed in the act of surviving.
+
+The same pathogen can produce very different human outcomes depending on the structures surrounding the people whose food it destroys.
+
+---
+
+## 35. 🫀 The Plant Dies First
+
+```text
 PATHOGEN
    ↓
 POTATO LOSS
    ↓
-
-MONEY
-LAND
-WAGES
-OTHER FOOD
-MARKETS
-PRICES
-CREDIT
-FAMILY
-COMMUNITY
-RELIEF
-LAW
-STATE
-
+HOUSEHOLD FOOD SUPPLY
    ↓
 BODY
 ```
 
-Those variables determine whether crop loss becomes:
+That is the shortest route. It is not the only route.
 
--   inconvenience;
--   dietary substitution;
--   hardship;
--   hunger;
--   malnutrition;
--   displacement;
--   disease;
--   death.
+```text
+                    POTATO LOSS
+                        ↓
+     LAND / OTHER FOOD / WAGES / MARKETS
+     PRICES / CREDIT / LIVESTOCK / SEED
+     FAMILY / COMMUNITY / RELIEF / LAW
+                        ↓
+               HUMAN CONSEQUENCES
+```
 
-That is the central distinction.
+Those intervening systems determine whether crop loss becomes inconvenience, substitution, hardship, hunger, disease, displacement or death. They also determine what is possible in the following season.
 
-> ***Phytophthora infestans* was necessary to this particular historical
-> catastrophe.**
->
-> **It was not sufficient to explain it.**
+The history is not a morality tale about foolish people and their foolish potato. It is an encounter between a formidable biological hazard and a deeply unequal system, followed by decisions about whether the people inside that system would be protected.
 
----
+Today the lesson extends to agricultural research, public investment, pathogen surveillance, the knowledge of farmers and the willingness of governments to preserve capacity that cannot be reduced to a short-term performance indicator.
 
-## 23. 🌾 The Pathogen Has Reached The Edge Of Its Explanatory Power
+**Food security is not simply the capacity to produce food. It is the capacity to continue feeding people when food production goes wrong.**
 
-By Black '47, something extremely important has happened.
-
-The year of terrible human suffering is not simply the year of the worst biological attack.
-
-The agricultural system carries damage from previous years.
-
-The household carries damage from previous years.
-
-The body carries damage from previous years.
-
-And Ireland continues to produce other food.
-
-So we have reached the limit of:
-
-> **The potatoes failed.**
-
-The next questions are:
-
-> **What food remained?**
->
-> **Who owned it?**
->
-> **Where did it go?**
->
-> **What did it cost?**
->
-> **Who possessed the money necessary to buy it?**
->
-> **What happens when calories exist inside a territory but the starving
-> person has no enforceable claim upon them?**
-
-Those questions belong to:
-
-[🌾 There Was Always Food In Ireland](./🌾_there_was_always_food_in_ireland.md)
-
-The pathogen has a biology.
-
-**The famine has a system.**
+And yes: dear capitalists, please stop fucking with my potatoes.
 
 ---
 
-## 🧭 Hand-Off
+## 📚 Sources And Research Trail
 
-### ← [📐 English Land Controls](./📐_english_land_controls.md)
+The sources below serve different purposes: historical reconstruction, plant-pathology mechanisms, contemporary management and wider ecological interpretation. Older cost estimates and product descriptions should not be mistaken for current authorisations or 2026 measurements. Some historically named cultivars and exact distribution claims remain questions for closer archival verification.
 
-Why were millions of poorer households so dependent upon extraordinary food production from tiny pieces of land?
+### Irish agricultural and historical record
 
-### → [🌾 There Was Always Food In Ireland](./🌾_there_was_always_food_in_ireland.md)
+- [Central Statistics Office: *Farming Since the Famine — General Details*](https://www.cso.ie/en/media/csoie/releasespublications/documents/agriculture/farmingsincethefamine/General_Details_-_Farming_Since_the_Famine.pdf) — historical reconstructions of acreage, production and crop use; uncertainty in early figures.
+- [*Irish Historical Studies*: “The Scientific Investigation of the Failure of the Potato Crop in Ireland, 1845–6”](https://www.cambridge.org/core/journals/irish-historical-studies/article/abs/scientific-investigation-of-the-failure-of-the-potato-crop-in-ireland-18456/7606616615436FEF8550DD9A4AA45CF9) — contemporary investigation and scientific debate.
+- [*The Chemistry of Famine: Nutritional Controversies and the Irish Famine, c.1845–7*](https://pmc.ncbi.nlm.nih.gov/articles/PMC3483744/) — Peel's commission and competing explanations.
 
-If potatoes failed while grain, livestock and dairy production continued, what prevented existing food from becoming food available to the starving person?
+### Late-blight biology and management
 
-### → [🇬🇧 What Britain Knew](./🇬🇧_what_britain_knew.md)
+- [*Journal of Integrative Agriculture* (2022): review of *Phytophthora infestans* and late-blight management](https://www.sciencedirect.com/science/article/pii/S2095311922001381) — management strategies, resistance, epidemiology and research directions; check original references before adopting numerical estimates.
+- [Fry, *Annual Review of Phytopathology* (2026): “Centuries of Potato Late Blight: Tracking Global Epidemics and Managing Future Outbreaks”](https://doi.org/10.1146/annurev-phyto-011325-113146) — historical epidemics and modern management; individual details require checking against the full review.
+- [AHDB: *Phytophthora infestans*](https://horticulture.ahdb.org.uk/knowledge-library/phytophthora-infestans) — examples of protected tomato outbreaks, disease conditions and pathogen identification; historical authorisation information is not current pesticide guidance.
 
-How quickly did information about crop failure, prices, distress, disease and mortality reach the governing system?
+### Future ecological risk
 
-### → [🏛️ What Britain Did](./🏛️_what_britain_did.md)
+- [Fisher et al. (2012): “Emerging fungal threats to animal, plant and ecosystem health”, *Nature*](https://doi.org/10.1038/nature10947).
+- [Fisher et al. (2020): “Threats Posed by the Fungal Kingdom to Humans, Wildlife, and Agriculture”, *mBio*](https://doi.org/10.1128/mBio.00449-20).
+- [Bebber, Ramotowski and Gurr (2013): “Crop pests and pathogens move polewards in a warming world”, *Nature Climate Change*](https://doi.org/10.1038/nclimate1990).
+- [Savary et al. (2019): “The global burden of pathogens and pests on major food crops”, *Nature Ecology & Evolution*](https://doi.org/10.1038/s41559-018-0793-y).
+- [Fisher et al. (2018): “Worldwide emergence of resistance to antifungal drugs challenges human health and food security”, *Science*](https://doi.org/10.1126/science.aap7999).
+- [Scheele et al. (2019): “Amphibian fungal panzootic causes catastrophic and ongoing loss of biodiversity”, *Science*](https://doi.org/10.1126/science.aav0379).
+- [Lockhart et al. (2017): “Simultaneous Emergence of Multidrug-Resistant *Candida auris* on 3 Continents…”, *Clinical Infectious Diseases*](https://doi.org/10.1093/cid/ciw691).
+- Emily Monosson (2023), *Blight: Fungi and the Coming Pandemic*, W. W. Norton — broad ecological and scientific interpretation; not a source for classifying oomycetes as true fungi.
 
-What interventions were technically and politically available once the biological problem became a subsistence crisis?
+### Outstanding source checks
 
-### → [🪦 How And Why People Died](./🪦_how_and_why_people_died.md)
-
-How does crop loss propagate through nutrition, immune function, infectious disease, exposure and displacement into mortality?
-
----
-
-## 📚 Sources
-
--   Central Statistics Office: *Farming Since the Famine ---
-Appendices*, including reconstructed potato acreage, yield and production figures for 1844--49. https://www.cso.ie/en/media/csoie/releasespublications/documents/agriculture/farmingsincethefamine/Appendices_-_Farming_Since_the_Famine.pdf
-
--   Central Statistics Office: *Statistical Yearbook of Ireland 2018 ---
-Agriculture & Fishing*, including crop acreage from 1847 and the relationship between the 1846 blight, seed shortage and 1847 potato acreage. https://www.cso.ie/en/releasesandpublications/ep/p-syi/psyi2018/agri/cl/
-
--   Yoshida et al.: "The rise and fall of the *Phytophthora infestans*
-lineage that triggered the Irish potato famine", *eLife* (2013). https://pmc.ncbi.nlm.nih.gov/articles/PMC3667578/
-
--   Martin et al.: "Evolution of *Phytophthora infestans* on its potato
-host since the Irish potato famine" (2024). https://pmc.ncbi.nlm.nih.gov/articles/PMC11300821/
-
--   Vanhaute, Paping and Ó Gráda (eds.): *When the Potato Failed: Causes
-and Effects of the Last European Subsistence Crisis, 1845--1850*. https://doi.org/10.1484/M.CORN-EB.5.105948
-
--   Vanhaute, Paping and Ó Gráda: "The European subsistence crisis of
-1845--1850: a comparative perspective". https://www.econstor.eu/bitstream/10419/72344/1/519108086.pdf
-
--   Cambridge University Press: "The Great Hunger 1845--1850", in *The
-Great Irish Famine*. https://www.cambridge.org/core/books/great-irish-famine/great-hunger-18451850/1BE973DA497102C537B78C7258CF7728
-
--   Jones: "The scientific investigation of the failure of the potato
-crop in Ireland, 1845--6", *Irish Historical Studies*. https://www.cambridge.org/core/journals/irish-historical-studies/article/abs/scientific-investigation-of-the-failure-of-the-potato-crop-in-ireland-18456/7606616615436FEF8550DD9A4AA45CF9
-
--   "The Chemistry of Famine: Nutritional Controversies and the Irish
-Famine, c.1845--7", including Peel's Scientific Commission and competing contemporary explanations of potato disease. https://pmc.ncbi.nlm.nih.gov/articles/PMC3483744/
-
--   Fry: "Centuries of Potato Late Blight: Tracking Global Epidemics and
-Managing Future Outbreaks", *Annual Review of Phytopathology* (2026), including David Moore, M. J. Berkeley and contemporary causal debate. https://doi.org/10.1146/annurev-phyto-011325-113146
-
--   Central Statistics Office: *Farming Since the Famine — General Details*, including reconstructed estimates of pre-Famine potato utilisation for human food, animal feed and seed. https://www.cso.ie/en/media/csoie/releasespublications/documents/agriculture/farmingsincethefamine/General_Details_-_Farming_Since_the_Famine.pdf
+- Establish regional and class-specific distribution of named pre-Famine potato cultivars from historical variety catalogues and archival scholarship. **No definitive national count of three or four dominant varieties is asserted here.**
+- Check precise primary-source wording for 1840s eyewitness descriptions and official statements before quotation.
+- Verify the original study years and methodology behind contemporary annual cost estimates; do not describe them as exact 2026 losses.
+- Reconcile all historical acreage and yield figures against the CSO tables when producing a numerical data appendix. The hectare conversions here are rounded.
+- Keep claims about foreign aid refusal, named official intent and particular relief choices in the appropriate evidence-led governance nodes.
 
 ---
 
 ## 🌌 Constellations
 
-🥔 🧬 🌱 🫀 ♻️ — plant disease; susceptible crop ecology; subsistence dependence; embodied consequence; repeated-shock feedback.
+🥔 🦠 🧬 🌧️ 👩‍🌾 🫀 ♻️ 🌍 — productive crop; adaptive pathogen; genetic vulnerability; weather; situated agricultural expertise; embodied consequences; feedback; international ecological dependencies.
 
 ---
 
 ## ✨ Stardust
 
-plant pathology, potato late blight, phytophthora infestans, potato dependence, crop failure, black ’47, seed loss, repeated shock, path dependence, embodied information
+phytophthora infestans, oomycete, potato late blight, An Gorta Mór, Lumper, historical potato varieties, cottiers, land tenure, crop failure, seed loss, Black '47, integrated pest management, pathogen surveillance, resistance breeding, forecasting, fungicide resistance, embodied information ecology, agricultural custodianship, food security, Nausicaä
 
 ---
 
 ## 🏮 Footer
 
-*🥔 Phytophthora infestans* is a living node of the **Polaris Protocol**. It isolates the biological disturbance and follows its repeated interaction with crop acreage, seed, weather and household resilience without allowing plant pathology to substitute for the political and social explanation of mass human death.
-
-```text
-PATHOGEN
-   ↓
-CROP FAILURE
-```
-
-is biology.
-
-What happens after that requires land, food, markets, money, law, relief, state and body.
+*🥔 Phytophthora infestans* is a living node of the **Polaris Protocol**. It follows the organism from plant pathology through repeated agricultural shocks to the boundary where crop biology ceases to explain human mortality. It also follows two centuries of scientific and farming labour into the contemporary question of ecological custodianship.
 
 > 📡 Cross-references:
 >
-> - [📐 English Land Controls](./📐_english_land_controls.md) — *the land and subsistence system exposed to the pathogen*
-> - [🌾 There Was Always Food In Ireland](./🌾_there_was_always_food_in_ireland.md) — *where crop failure becomes a question of food access and command*
-> - [🇬🇧 What Britain Knew](./🇬🇧_what_britain_knew.md) — *institutional sensing of agricultural and human deterioration*
-> - [🏛️ What Britain Did](./🏛️_what_britain_did.md) — *policy choices after biological disturbance becomes subsistence crisis*
-> - [🪦 How And Why People Died](./🪦_how_and_why_people_died.md) — *the propagation of food failure into embodied mortality*
+> - [📐 English Land Controls](./📐_english_land_controls.md) — *the land system and restricted subsistence choices*
+> - [🌾 There Was Always Food In Ireland](./🌾_there_was_always_food_in_ireland.md) — *food production, ownership and access*
+> - [🇬🇧 What Britain Knew](./🇬🇧_what_britain_knew.md) — *information reaching governing institutions*
+> - [🏛️ What Britain Did](./🏛️_what_britain_did.md) — *policy choices and relief*
+> - [🪦 How And Why People Died](./🪦_how_and_why_people_died.md) — *embodied mortality and displacement*
 >
 > 🏮 Return To:
 >
@@ -1128,4 +768,4 @@ What happens after that requires land, food, markets, money, law, relief, state 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-06_
+_Last updated: 2026-10-13_
