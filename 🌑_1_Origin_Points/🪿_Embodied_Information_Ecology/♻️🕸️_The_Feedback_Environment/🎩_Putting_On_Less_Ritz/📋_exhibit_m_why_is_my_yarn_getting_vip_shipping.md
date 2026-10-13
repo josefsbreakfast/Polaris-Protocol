@@ -4,44 +4,39 @@
 
 ---
 
-## 🛰️ Orientation — The Woman Has Attempted Commerce
+## 🛰️ Orientation — America, Please Stop Breaking Everything
 
 America. A question.
 
-Do you want us to buy your stuff or not?
+**Do you actually want ordinary people to buy your stuff or not?**
 
-Because I have spent approximately twenty years buying weird, wonderful, highly specific things from American independent sellers. I am not asking you to convince me that America produces interesting things. I know. I have been paying your makers for them. This is, in fact, what the internet was supposed to make possible.
+Because for a good couple of decades, the internet made it possible for ordinary people in different countries to exchange wonderfully peculiar things. Independent artists, specialist suppliers, small rural businesses, hobbyists with suspiciously professional levels of skill: everybody could find their people. The girlies made patterns. The nerds made little guys. Someone in Indonesia was involved. Everybody had a lovely time, or at least an unusually specific time.
 
-And now I am looking at **two balls of wool** with a checkout total of **£88.17**, wondering whether the yarn has booked a private cabin, diplomatic protection, or a seat in business class with a complimentary glass of champagne.
+And now? The same networks are getting harder to participate in. Creators report fighting copies of their work; some sellers disappear or stop shipping abroad; buyers encounter postage that makes a modest purchase feel like an international defence exercise. The causes differ, and the scale of each problem needs investigation. But the direction of the question is clear: **what happens when an economy gets very good at monetising creative networks and rather less interested in keeping them viable?**
 
-I don't need Elon Musk getting any richer. I don't need to be bombed with oxytocin. I don't need an AI-generated photograph of the yarn, or a ten-page business plan about how the yarn could revolutionise defence. **I need the fucking yarn.**
+I am particularly grumpy about this because I have a cold. This is not an epidemiological claim about the American economy. It is, however, the current condition of the witness. And I would quite like to be allowed to buy some pretty yarn without first becoming an expert in international logistics.
 
-And the independent American maker needs people to be able to buy it.
+I do not need Elon Musk getting any richer. I do not need an oxytocin bombardment, thank you very much. I do not need an AI-generated image of a beautifully wrapped parcel. **I need the actual parcel, and I need the people who make the nice things to be able to keep making them.**
 
-This exhibit is about the economic and cultural network that made those transactions possible: ordinary creators, niche communities, rural postal access, payment systems, marketplaces, international friendships, small suppliers, and the millions of little commercial relationships that do not look particularly impressive in a venture-capital pitch deck. It is also about what happens when those relationships become too expensive to maintain.
+This exhibit examines the economic and cultural networks behind ordinary cross-border commerce: makers, materials, specialist communities, marketplaces, intellectual-property enforcement, postal systems, and all the little transactions too small to look heroic in an industrial-policy announcement.
 
-**The central question:** what if America is preserving the machinery for monetising culture while neglecting the people, materials and infrastructure that actually produce it?
+**The central question:** are we protecting the machinery that extracts value from culture while neglecting the people and infrastructure that generate it?
 
 ## 1. 🧶 Exhibit M — Apparently the Yarn Has a Chauffeur
 
-The observed checkout, 13 October 2026:
+Here is the small, infuriating example behind the exhibit. A recent basket for **two balls of yarn** contained roughly **£50 of goods**, **£24 of shipping** and **£15 of tax**: just under **£90 altogether**, even after a small discount.
 
-| Charge | Amount |
-|---|---:|
-| Two balls of yarn | £52.12 |
-| Seller discount | −£2.61 |
-| Discounted goods | £49.51 |
-| Shipping | £23.96 |
-| Tax | £14.70 |
-| **Total** | **£88.17** |
+For clarity, the shipping charge was **not** £50. It was about £24; the VAT applied to the goods and delivery added roughly another £15 to the checkout. The distinction matters if we're going to complain accurately. And we are. I am ill, not innumerate.
 
-The tax is exactly 20% of the goods **plus** shipping (£73.47). That is consistent with UK VAT on the combined taxable value; it is **not evidence of a £14.70 American export tariff**. The postage itself is £23.96; postage plus the VAT attributable to it is approximately **£28.75**. Goods plus their VAT are approximately **£59.41**. The total bill is still £88.17, and the woman still has only two balls of wool.
+A faster option would have cost roughly another £30. The yarn is apparently entitled to a lounge pass, priority boarding and a tiny warm towel. Perhaps it has been upgraded because of its distinguished service to the textile arts.
 
-For a faster delivery option, the quoted additional cost was about £30. Apparently the yarn can arrive this week, provided we charter the fucking Concorde.
+From my own experience, Canadian independent sellers have recently quoted something more like **£10–15** for shipping. That's an observation from actual shopping, not a like-for-like audit of identical parcels, carriers and service classes. But I remember a time when buying from small American and Canadian makers felt much more comparable. **What changed?**
 
-From my own shopping experience, Canadian independent sellers have recently offered delivery at roughly **£10–15**. That is a customer observation, not a controlled postal-price comparison. It matters because I remember American and Canadian sellers being much closer in affordability. My question is not whether postage has ever cost money. I have been buying internationally for two decades. My question is **what changed**.
+This single basket cannot tell us whether the seller uses USPS, a courier or marketplace-configured shipping; it cannot establish parcel weight, seller margins or tariff effects. Nor does it prove a national trend. It is a useful *entry point* because the problem is visible at the exact moment demand meets delivery costs.
 
-Before we teach future researchers a lie: this screenshot does not establish the seller's carrier, parcel weight, dimensions, postal class, actual postage paid, or margin on shipping. Nor does it prove that tariffs caused the charge. Those are precisely the things to investigate.
+The woman wants the yarn. The seller presumably wants to sell the yarn. The checkout is where the international creative economy announces that the yarn has hired a chauffeur.
+
+**America, I am begging you to assess the consequences of your economic decisions on the boring bits that actually connect people.**
 
 ## 2. 📮 America, Your Post Office Is Not a Decorative Institution
 
@@ -59,7 +54,70 @@ What matters for the small seller is the *delivered price*. The maker can price 
 
 **The product has passed the demand test. The infrastructure is failing the checkout test.**
 
-## 3. 🌐 The Internet Was Not Built So Three Men Could Own a Spreadsheet
+## 3. ✈️ Why Has the Yarn Apparently Chartered an Aircraft?
+
+Right. Logistics. The part where everyone would prefer I simply admire the innovations of Silicon Valley and stop asking how the fucking parcel gets here.
+
+**America, I know the yarn cannot swim.** Somebody has to collect it, sort it, load it, fly it across an ocean, clear the necessary processes, hand it to another delivery network and eventually bring it to my door. Postal workers require wages. Aircraft require fuel. Sorting equipment does not operate on good intentions. I am aware of all this. I am ill, not unfamiliar with the existence of aeroplanes.
+
+But **a cost is not the same thing as a price**, and a price is not simply a law of nature. The customer-facing charge emerges from operating costs, service choices, contracts, commercial mark-ups and the rules governing the postal system. That is why government policy belongs in this exhibit, rather than hovering outside it in a little patriotic cloud.
+
+### 📮 First: what actually determines the price?
+
+For a small parcel leaving the United States, several layers can matter:
+
+- **The physical journey:** collection, sorting, domestic transportation, international carriage, handling in the destination country and final delivery.
+- **The service sold:** weight, dimensions, tracking, insurance, speed, delivery guarantees and the carrier's particular product.
+- **The seller's arrangements:** retail postage, discounted commercial rates, a marketplace's label service, a fulfilment partner, a courier, packaging and any handling charge.
+- **The network's finances:** staffing, fuel, equipment, facilities, transport contracts, changes in volume and the costs of serving places that are not conveniently situated beside a giant distribution centre.
+- **The rules:** statutory obligations, postal regulation, international agreements and the pricing freedoms or constraints applying to the service.
+
+USPS has public-service responsibilities, including maintaining a nationwide network. Its pricing is shaped by law and regulatory oversight, but **not every USPS product is subject to the same price rules**. Competitive services, which include many parcel products, operate under a different regulatory framework from market-dominant mail. International services also involve foreign delivery partners and cross-border arrangements. We must check the exact product before claiming a particular regulator set its price.
+
+And this basket **does not tell us that USPS carried the parcel at all**. It tells us what the checkout quoted. That is a different piece of evidence. If a marketplace or seller quotes £24, we cannot simply label £24 'the USPS rate' and congratulate ourselves on solving the mystery. We need the service, weight, dimensions, origin, destination and actual carrier.
+
+### 🏛️ Second: governmental pricing decisions are real economic decisions
+
+USPS does not operate in a policy vacuum. Congress defines aspects of its mandate and financial framework; the Postal Regulatory Commission oversees postal pricing within its statutory remit; USPS management sets rates and negotiates contracts subject to the applicable rules. Postal reforms and financial requirements can alter the pressures facing the network. The degree to which any of those pressures changes a **particular international parcel price** needs documentation, not vibes.
+
+This matters because there is a public-policy choice embedded in how a national network is funded and what services are expected to recover their costs. There are also trade-offs: artificially cheap shipping is not free; someone else may pay through other rates, public support or deteriorating service. Equally, requiring every little transaction to absorb a high delivered price can make small exporters less competitive. **The question is what the chosen structure does to the wider economy, not whether postage ought to be delivered by benevolent pigeons.**
+
+We should ask whether postal decisions are assessed only against USPS's own accounts, or also against the effects on small businesses, rural producers and international trade. Those measures are related, but they are not interchangeable.
+
+### 🧾 Third: tariffs do not magically attach themselves to yarn leaving America
+
+This needs to be absolutely clear, because the argument is better when it is accurate.
+
+**An American import tariff is generally charged on qualifying goods entering the United States, not on a ball of American yarn being exported to Britain.** Britain may impose its own import taxes or duties under its rules. The VAT on this checkout is not an American tariff, and it should not be presented as one.
+
+But import tariffs can still affect the economics of making and shipping American goods **indirectly**:
+
+1. **Imported materials and components:** an American maker may pay more for certain imported fibres, dyes, tools, packaging or equipment, if the applicable tariff is passed through into their purchase price.
+2. **Postal and logistics inputs:** carriers and their contractors may face higher prices for tariff-affected equipment, parts or supplies. How material that is to USPS costs requires evidence.
+3. **Trade patterns and volumes:** changes in cross-border trade can alter which routes and services have enough volume to spread fixed costs efficiently. Whether tariffs caused such changes, and whether those changes affected this service, must be demonstrated.
+4. **Business resilience:** higher input costs can leave a small maker less room to subsidise shipping, absorb exchange-rate movements or offer discounted international delivery.
+
+These are **causal pathways to investigate**, not a finding that a particular tariff produced a particular postal rate. Fuel prices, wages, air transport contracts, exchange rates, postal reforms and carrier pricing could all matter independently. Some might matter more. Some might not matter at all for this parcel.
+
+### ♻️ Fourth: policies can squeeze the same transaction from both ends
+
+Consider the complete system rather than one government department's spreadsheet:
+
+**Imported inputs become dearer (possible tariff channel) → maker's production costs rise → seller has less room to absorb delivery costs.**
+
+**Postal operating and pricing pressures rise (possible regulatory and commercial channel) → international shipping quote rises → customer's delivered price rises.**
+
+**Customer still wants yarn → customer hesitates or abandons purchase → seller loses a possible export sale → the postal network never sees the parcel that wasn't sent.**
+
+The arrows show a **testable model**, not a verified chronology for this basket. We would need matched historical postage rates, carrier disclosures, tariff exposure, seller records and ideally abandoned-checkout data to estimate which arrows matter and by how much.
+
+And this is the point, California. Your technology can connect a British woman to a tiny American maker in seconds. Your payment system can process the transaction. Your recommendation engine can discover that she has extremely specific opinions about purple wool.
+
+**Then the physical economy arrives and asks whether the yarn would like a complimentary glass of champagne before take-off.**
+
+Please investigate how your *combined* economic decisions affect the ordinary transactions that keep small businesses alive. A policy can look sensible in one department and still impose costs elsewhere. We need someone to look at the entire fucking loop.
+
+## 4. 🌐 The Internet Was Not Built So Three Men Could Own a Spreadsheet
 
 The American technology sector helped build enormously important digital infrastructure. Fine. Congratulations. Gold star. Nobody is disputing that.
 
@@ -73,7 +131,7 @@ This is not a neat pipeline from American innovation to passive foreign consumpt
 
 The platform owner may capture the fee. The network generates much of the reason anyone came to the platform in the first place.
 
-## 4. 👾 The NPCs Made Your Cool Shit
+## 5. 👾 The NPCs Made Your Cool Shit
 
 Let's discuss the allegedly unimportant people.
 
@@ -91,7 +149,7 @@ Because the little Sith Lords do not descend fully formed from a server farm. Th
 
 The weird niche stuff was not peripheral to the internet. **Finding the weird niche stuff was one of the internet's central attractions.**
 
-## 5. 🕸️ Girl Internet Was Economic Infrastructure, Actually
+## 6. 🕸️ Girl Internet Was Economic Infrastructure, Actually
 
 The story of the internet is often told through founders, engineers, hardware, venture capital and spectacular valuations. Meanwhile, communities associated with crafts, fandom, fashion, domestic knowledge, personal publishing and mutual teaching have repeatedly been treated as unserious.
 
@@ -105,7 +163,7 @@ The men playing with computers, games, modding and fan projects were not somehow
 
 See also the Polaris node *Girl Internet Explained With Techbros*. Exhibit M supplies the physical fulfilment problem: even when the network successfully creates demand, its participants still need materials, parcels and affordable access to markets.
 
-## 6. 🏭 Copying the Makers, Then Wondering Where the Makers Went
+## 7. 🏭 Copying the Makers, Then Wondering Where the Makers Went
 
 Before today's generative-AI arguments, independent artists had already spent years dealing with copied designs, unauthorised print-on-demand listings, mass-market imitations and cross-border enforcement headaches.
 
@@ -119,7 +177,7 @@ But the common economic question is unavoidable: **who gets to scale the monetis
 
 When the creator must personally police a thousand copies, the creator is doing unpaid enforcement labour. When a platform earns money from high-volume activity, its incentives may not perfectly align with the creator's. Those conflicts deserve scrutiny, not another speech about democratising creativity.
 
-## 7. 🤖 AI Slop Is Not a Substitute for a Living Culture
+## 8. 🤖 AI Slop Is Not a Substitute for a Living Culture
 
 There are useful applications of AI. This archive itself is produced through human–AI collaboration. The issue is not whether a machine can assist someone. The issue is whether economic systems reward the reproduction of existing cultural outputs while undermining the conditions in which people create new ones.
 
@@ -131,7 +189,7 @@ The concern remains serious without pretending every hypothesis has already been
 
 What a spectacular achievement. We have invented a machine that can show me a picture of yarn while the actual yarn is being escorted through customs by the Royal Marines.
 
-## 8. 🏘️ Where Did All the Little Shops Go?
+## 9. 🏘️ Where Did All the Little Shops Go?
 
 I have watched independent American sellers I used to buy from disappear, restrict their international sales, or become prohibitively expensive to order from. That is my experience; it is not a census of American small businesses.
 
@@ -143,7 +201,7 @@ For a rural or small-town producer, modest international revenue may be meaningf
 
 The economy is not composed solely of companies large enough to have their own lobbying department.
 
-## 9. ♻️ The Sale That Never Happened
+## 10. ♻️ The Sale That Never Happened
 
 Here is the feedback problem.
 
@@ -161,7 +219,7 @@ The system can lose participants and then misread their absence as evidence that
 
 **America, your feedback environment has a hole in it the size of a postage label.**
 
-## 10. 🌍 America, You Are Losing More Than the £49.51
+## 11. 🌍 America, You Are Losing More Than the £49.51
 
 An international customer who finds a maker she loves may buy from them repeatedly, recommend them, learn from them and introduce other people to their products. The first purchase is also the beginning of a relationship.
 
@@ -173,7 +231,7 @@ There is no need to pretend every yarn order is a geopolitical summit. That is r
 
 Why would you make those relationships harder to maintain and then spend a fortune wondering how to improve your international appeal?
 
-## 11. 🏛️ A Respectful Request to Reprioritise the Economy, FFS
+## 12. 🏛️ A Respectful Request to Reprioritise the Economy, FFS
 
 American policymakers, technology executives, investors and anyone else currently trying to build the future: could you please examine the economic consequences of your decisions **outside the industries whose executives you already know by name**?
 
@@ -199,7 +257,7 @@ I do not require an oxytocin bombardment. The effectiveness and delivery assumpt
 
 No chemical weapons. No billionaire enrichment scheme. No venture-capital pitch about disrupting crochet. Just commerce.
 
-## 12. 🧶 The Little Sith Lords Are a Leading Indicator of Whether Anyone Is Having Fun
+## 13. 🧶 The Little Sith Lords Are a Leading Indicator of Whether Anyone Is Having Fun
 
 This is not an argument that society should measure its entire prosperity in tiny crocheted Darth Mauls. Although, frankly, it would be an improvement on several dashboards.
 
@@ -223,12 +281,14 @@ I have money. Your makers have talent. The international network exists. The wom
 
 | Claim | Status | Needed before stronger attribution |
 |---|---|---|
-| The observed basket totals £88.17, including £23.96 shipping and £14.70 tax | Directly observed in customer screenshot | Preserve screenshot/date; confirm destination and service |
-| The tax equals 20% of discounted goods plus shipping | Arithmetic verified | Check marketplace tax description if characterising legal treatment |
+| The observed basket is just under £90, with roughly £24 shipping and £15 tax | Directly observed in customer screenshot | Preserve screenshot/date; confirm destination and service |
+| The observed tax is consistent with 20% VAT on discounted goods plus shipping | Arithmetic verified | Check marketplace tax description if characterising legal treatment |
 | Canadian sellers often quote £10–15 delivery to this customer | Customer testimony | Matched parcel/service comparisons |
 | American shipping has become less affordable over twenty years for this customer | Longitudinal customer testimony | Archived orders and historic rate schedules |
 | USPS rates have risen by a particular percentage since 2022 | Not verified here | Original USPS rate notices, identical service/weight/destination |
-| Tariffs are a material cause of the quoted postage | Not established | Carrier cost disclosures and tariff exposure analysis |
+| Tariffs are a material cause of the quoted postage | Not established; direct US import duty does not apply merely because goods leave the US | Carrier cost disclosures, input-cost exposure and trade-volume analysis |
+| USPS is the carrier behind the checkout quote | Unknown | Seller shipping method, label or carrier confirmation |
+| Government pricing frameworks can influence postal prices | Structural mechanism; effect on this quote unmeasured | USPS price filings, PRC decisions, service classification and financial disclosures |
 | Independent American sellers are withdrawing from international markets | Observed examples; national scale unknown | Seller surveys, platform data, export studies |
 | Copying and weak enforcement impose costs on some independent artists | Established type of problem; case-specific scale requires sourcing | Litigation, creator evidence, platform enforcement data |
 | AI slop is reducing creator income or participation across the whole market | Research question | Longitudinal creator and platform evidence |
@@ -238,6 +298,8 @@ I have money. Your makers have talent. The international network exists. The wom
 
 - [USPS — Postal Explorer](https://pe.usps.com/) — official price notices and historical rate documentation.
 - [USPS — Financials](https://about.usps.com/what/financials/) — reports on finances and operating conditions.
+- [Postal Regulatory Commission](https://www.prc.gov/) — regulatory framework, rate cases and oversight.
+- [US International Trade Commission — Harmonized Tariff Schedule](https://hts.usitc.gov/) — tariff classification and rates for imports into the United States.
 - [Canada Post — Postal Services Information](https://www.canadapost-postescanada.ca/cpc/en/support.page) — service and pricing documentation.
 - [US Census Bureau — International Trade](https://www.census.gov/foreign-trade/) — trade data and definitions.
 - [US International Trade Administration](https://www.trade.gov/) — exporter research and small-business context.
@@ -252,7 +314,7 @@ These are research entry points, **not citations proving every causal propositio
 
 ## ✨ Stardust
 
-VIP shipping, two balls of yarn, USPS, Canada Post, British VAT, international postage, tariffs, micro-exporters, rural makers, girl internet, creative networks, fandom, amigurumi Sith Lords, Indonesia, Temu, PDD Holdings, SHEIN, print-on-demand, copyright, AI slop, economic feedback, abandoned baskets, cultural production, international influence, pretty yarn
+VIP shipping, two balls of yarn, USPS, Canada Post, British VAT, international postage, postal pricing regulation, Postal Regulatory Commission, indirect tariff effects, logistics inputs, micro-exporters, rural makers, girl internet, creative networks, fandom, amigurumi Sith Lords, Indonesia, Temu, PDD Holdings, SHEIN, print-on-demand, copyright, AI slop, economic feedback, abandoned baskets, cultural production, international influence, pretty yarn
 
 ## 🏮 Footer
 
