@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-13 10:51:57 UTC_
+_Generated on 2026-10-13 11:11:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -971,6 +971,7 @@ _Generated on 2026-10-13 10:51:57 UTC_
         - [`📋_exhibit_h_radicalised_algorithms.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_h_radicalised_algorithms.md)
         - [`📋_exhibit_j_where_the_fuck_is_that_email.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_j_where_the_fuck_is_that_email.md)
         - [`📋_exhibit_k_crowd_funding_but_ask_us_first.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_k_crowd_funding_but_ask_us_first.md)
+        - [`📋_exhibit_m_why_is_my_yarn_getting_vip_shipping.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_m_why_is_my_yarn_getting_vip_shipping.md)
         - [`📋_exhibit_x_little_girls_online.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📋_exhibit_x_little_girls_online.md)
         - [`📚_we_have_a_sanctions_framework_cousin.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📚_we_have_a_sanctions_framework_cousin.md)
         - [`📲_opium_now_has_stats.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/📲_opium_now_has_stats.md)
