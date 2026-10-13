@@ -307,3 +307,415 @@ Overall: Two threshold-crossing developments. No increase in Iranian attribution
 
 - - -  
 
+20261010:  
+
+“🛰️ Iran Infrastructure Watch — 10 October 2026
+
+Two significant disclosures warrant adding to the watch. One materially strengthens Iranian attribution.
+
+Both were originally published on 6 October, but their findings have not yet been incorporated into our running assessment. These are retrospective intelligence developments, not evidence of attacks occurring today.
+
+🇮🇶🇮🇱🇦🇪 1. Blinder Tunnel — Iranian-linked targeting of critical infrastructure
+
+Status: 🟠 High-confidence Iranian nexus; operational disruption unconfirmed.
+
+A new investigation by  Palo Alto Networks Unit 42⁠￼ connects previously separate cyber operations against critical infrastructure in Iraq, Israel and United Arab Emirates.
+
+Unit 42 identifies an Iranian state-aligned activity cluster, CL-STA-1178, responsible for a campaign it calls Blinder Tunnel.
+
+The findings establish a chronology:
+
+Date	Development
+November 2025	Attack infrastructure staged and tested
+March 2026	Recruitment-themed operation activated against an Iraqi critical-infrastructure professional
+April 2026	Weaponised coding assessment submitted for analysis
+May–June 2026	Related infrastructure used in credential-phishing activity against an Israeli entity
+6 October 2026	Unit 42 publishes technical reconstruction and Iranian-nexus attribution
+
+The attack used an unusually elaborate recruitment deception.
+
+Operators impersonated the IT department of Dubai Airports and approached an Iraqi software engineer with a supposed job opportunity.
+
+The initial recruitment application was deliberately harmless. It presented a convincing application process and questionnaire.
+
+The subsequent coding assessment contained a malicious Visual Studio project. Opening the project could trigger malware execution before the developer even attempted to compile it.
+
+The resulting infection chain used ShelbyLoader V2, ShelbyC2 V2 and a tunnelling component called Blackwood. Command-and-control communications were concealed within legitimate  GitHub⁠￼ infrastructure.  
+
+Operational impact: A targeted intrusion mechanism and associated malware infrastructure are established. The public findings do not establish interruption of aviation, telecommunications or other essential services.
+
+Attribution: Unit 42 assesses the Iranian nexus with high confidence, citing infrastructure connections, operational mistakes, victim selection and overlapping techniques. It does not establish which Iranian agency directed the campaign or confidently identify it as an existing named Iranian group.  
+
+Competing explanations: An independent Iranian-speaking criminal or espionage operator remains a theoretical possibility. Iranian hosting and cultural artefacts are not individually conclusive. The combined evidence, however, makes state-aligned intelligence activity the stronger assessment.
+
+Change since 28 February: This expands the Iranian-linked infrastructure record beyond industrial-controller manipulation and destructive attacks.
+
+It demonstrates a parallel mechanism:
+
+target technically privileged personnel → establish personal trust → deliver apparently legitimate work → compromise development environment → create a possible route into institutional networks.
+
+The Israeli phishing activity also provides evidence of related operations extending across several months.
+
+This deserves a Core campaign entry, with the Iraqi and Israeli activities linked rather than counted as independently attributed operators.
+
+⸻
+
+🌍 2. FortiBleed — criminal access brokerage across critical infrastructure
+
+Status: 🟠 Confirmed large-scale compromise; downstream disruption established in some cases, but not quantified by sector.
+
+A joint  FBI and US Secret Service advisory⁠￼, published 6 October, provides unusually detailed evidence of the FortiBleed credential-compromise campaign.
+
+The agencies cite research verifying 86,644 compromised Fortinet devices across 194 countries.
+
+The operation has been active since June and targets internet-facing firewalls and VPN gateways.
+
+Investigators obtained visibility into the attackers’ own backend infrastructure, revealing a complete commercial access-generation process:
+
+internet scanning → credential collection → GPU-assisted password cracking → target ranking → privileged access → access resale → ransomware affiliates.
+
+Some attackers created replacement administrative accounts and deleted legitimate ones, locking organisations out of their own security equipment.
+
+The advisory also identifies downstream access supplied to affiliates associated with INC/Lynx and Payload ransomware.  
+
+Affected countries and sectors: The campaign is global, including the United States. The advisory applies to all 16 US critical-infrastructure sectors, including defence, healthcare, energy, communications, transport, water and finance. It does not provide a verified country-by-sector breakdown of compromised essential-service operators.
+
+Operational impact: Confirmed device compromise, credential theft, persistent unauthorised access and administrative lockouts. Ransomware-related downstream activity is documented, but a specific resulting hospital, electricity or water-service outage cannot be established from this advisory alone.
+
+Attribution: Strong evidence of criminal access brokerage. The individual operators and every downstream customer remain unresolved.
+
+Iranian involvement: ⚪ No evidence.
+
+Change since 28 February: This supplies direct investigative evidence for a distinction central to our existing model:
+
+The organisation creating access, the organisation purchasing access and the organisation eventually causing disruption can be different actors.
+
+It also demonstrates why compromising a security gateway is not necessarily the final objective. The gateway may be the commercial product.
+
+FortiBleed therefore belongs in the criminal-access-broker campaign track, not the Iranian incident count.
+
+⸻
+
+📊 Overall assessment
+
+Today’s important finding is Blinder Tunnel.
+
+It strengthens the evidence that Iranian-aligned cyber operations during the war include patient, individually tailored intelligence collection against people with potential access to critical infrastructure—not simply opportunistic exploitation of exposed machinery.
+
+FortiBleed independently demonstrates that the same infrastructure-access environment contains sophisticated criminal supply chains capable of distributing footholds to multiple customers.
+
+These findings reinforce two distinct pathways:
+
+Iranian-aligned espionage: personnel targeting → covert access → intelligence collection or potential later exploitation.
+
+Criminal access brokerage: automated compromise → credential processing → access resale → downstream criminal operations.
+
+Neither disclosure establishes a new physical infrastructure outage.
+
+I found no independently verified new Iranian-attributed disruption in water, energy, defence, transport, telecommunications or systemically important banking on 9–10 October.
+
+Timeline recommendation: Add Blinder Tunnel as a high-confidence Iranian-nexus campaign, dated to its March activation with the 6 October attribution disclosure recorded separately. Add the FortiBleed advisory as a major criminal-access-broker evidence update. Do not inflate the operational-disruption count for either.
+
+Watch status: two substantive intelligence updates; Iranian campaign-attribution evidence strengthened; no newly confirmed Iranian infrastructure outage.”
+
+- - -  
+
+20261011:  
+
+“🛰️ Iran Infrastructure Watch — 11 October 2026
+
+One significant development clears the threshold: the Japanese cloud ransomware incident has expanded into a documented, cross-sector disruption affecting rail administration, aviation and financial-service customer data.
+
+This is an update to the 7 October incident, not another attack to count separately.
+
+🇯🇵 Japan — cloud infrastructure, rail, aviation and financial administration
+
+Status: 🔴 Confirmed operational disruption; substantial potential data exposure; operator unresolved.
+
+Following the ransomware attack against IDC Frontier, several major transport operators disclosed additional consequences on 9 October, with further reporting on 10 October.
+
+The most important findings are:
+
+Affected organisation	Sector	Newly established consequences
+JR East	Rail transport	Customer-email services disrupted; up to 2.06 million membership records potentially exposed across two services
+View Card	Consumer finance	Approximately 4.03 million customer email addresses potentially exposed
+JR Kyushu	Rail transport	Customer newsletter unavailable; up to 1.3 million email addresses potentially exposed
+Peach Aviation	Aviation	Booking-confirmation and itinerary emails delayed or undelivered; approximately 1.89 million records on affected infrastructure
+
+The JR East and View Card figures together represent approximately 6.09 million potentially affected records, not 6.09 million confirmed victims. These totals can contain overlapping individuals.
+
+Crucially, the operators have not established that all potentially exposed information was actually stolen.  
+
+Peach provides an especially useful operational distinction.
+
+Its  official incident disclosure⁠￼ confirms that ransomware disabled infrastructure supporting itinerary-email distribution. The airline began restoring delayed messages on 8 October.
+
+However, flight operations were unaffected, and Peach explicitly states that it has not confirmed personal-data exfiltration.
+
+The compromised environment contained approximately 1.89 million records, including contact information and itinerary details. That is an exposure population, not a confirmed theft count.
+
+Attribution and competing explanations
+
+Ransomware compromise: 🟢 Confirmed.
+
+Cross-sector consequences from the same cloud incident: 🟢 Confirmed.
+
+Rail and aviation administrative disruption: 🟢 Confirmed.
+
+Disruption to train movements or aircraft operations: ❌ Not established.
+
+Actual exfiltration of every potentially affected record: ⚪ Not established.
+
+Criminal ransomware operation: 🟠 Leading explanation.
+
+Iranian involvement: ⚪ No evidence.
+
+State sponsorship or subsequent access resale: ⚪ Unknown.
+
+The shared cloud dependency establishes a common technical cause for these consequences. It does not establish that the attacker deliberately selected every downstream organisation.
+
+🏦 A second-order consequence: Japanese financial regulators intervene
+
+On 9 October, Japan’s Financial Services Agency issued a formal warning to financial institutions following repeated breaches exposing customer identity documents.
+
+The agency instructed institutions to review cybersecurity and third-party risks, strengthen checks for manipulated identification images and accelerate adoption of chip-based identity verification ahead of regulatory changes scheduled for April 2027.
+
+Importantly, the agency did not impose an immediate blanket prohibition on accepting driving licences. Its actual instruction is more specific: improve verification now and move towards chip-based checks as quickly as practicable.  
+
+This regulatory response reflects the wider Japanese breach cluster, including the separate September compromise of car-sharing provider Times Car, rather than solely the IDC Frontier incident.
+
+It establishes a significant secondary effect:
+
+Commercial data theft → identity-document exposure → heightened financial-fraud risk → national banking-sector verification changes.
+
+No compromise of core banking or payment infrastructure is established by this development.
+
+📊 Change since 28 February
+
+The Japanese incident now demonstrates three distinct consequences arising from shared digital infrastructure:
+
+1. Direct service disruption: Government websites, cloud systems and commercial logistics affected.
+2. Administrative disruption: Rail and airline communications impaired despite transport operations continuing.
+3. Potential information exposure: Millions of customer records placed at risk through infrastructure operated by an intermediary.
+
+This is stronger evidence of correlated infrastructure vulnerability than yesterday’s initial disclosure alone.
+
+Separately, Japan’s government issued heightened cybersecurity instructions on 9 October amid a wider surge in attacks. The  Financial Times investigation⁠￼ published on 10 October describes a national cybersecurity emergency, but this should not be mistaken for proof that the separate Japanese breaches share an operator.
+
+The broader cluster remains compatible with ordinary criminal activity, including unrelated attacks occurring during a period of heightened vulnerability.
+
+Iranian methods comparison: The Japanese ransomware attack does not presently resemble the Iranian-linked manipulation of industrial controllers. It does, however, demonstrate how an adversary could cause substantial state-service disruption without directly attacking government networks.
+
+🧭 Overall assessment
+
+The most important new finding is that Japan’s shared-cloud incident has crossed additional institutional boundaries, while the wider breach environment is now influencing national financial-security procedures.
+
+I also checked the Iranian-linked infrastructure strands. New reporting on compromised Israeli surveillance cameras largely develops activity already documented earlier in the war; it does not yet establish a new essential-service disruption or sufficiently distinct campaign to count again.  
+
+No new Iranian-attributed infrastructure outage was independently verified during this check.
+
+Timeline decision: Update the existing 7 October IDC Frontier Core incident with the 9–10 October transport and data-exposure disclosures. Record Japan’s financial-regulatory response as a linked consequence, not a separate cyberattack.
+
+Watch status: one substantial incident update; cross-sector consequences expanded; Iranian attribution unchanged.”
+
+- - -  
+
+20261013:  
+
+“🛰️ Iran Infrastructure Watch — 13 October 2026
+
+Two new incidents clear the threshold. The first is particularly important: a coordinated-looking attack against French food refrigeration systems has produced confirmed physical consequences across hundreds of supermarkets.
+
+The second involves a multinational food retailer whose cybersecurity incident has interrupted distribution operations across several countries.
+
+Neither is attributed to Iran. However, the French attack has a significant technical resemblance to the industrial-control manipulation we have been tracking since 28 February.
+
+🇫🇷 1. France — coordinated disruption of food refrigeration infrastructure
+
+Status: 🔴 Confirmed cyber-to-physical disruption. Operator unknown.
+
+During the night of 11–12 October, attackers remotely manipulated refrigeration controllers at hundreds of French supermarkets, forcing equipment into defrost cycles and raising temperatures to approximately 50°C, with some reporting describing even higher temperatures.
+
+Affected retailers include Intermarché, Coopérative U, Carrefour, Monoprix and E.Leclerc.
+
+The consequences were physical: refrigeration failures, extensive food spoilage, reported fires and the disposal of substantial quantities of fresh and frozen products. Some stores temporarily closed.
+
+The precise number of affected premises remains unsettled. Initial reports suggested approximately 250–350 stores, while subsequent reporting indicates the total may exceed 500. These are evolving estimates, not separate incident counts.  
+
+🔧 The technical mechanism
+
+France’s national computer emergency response team published  CERTFR-2026-ALE-012⁠￼ on 12 October, confirming numerous compromises of Danfoss AK-SM and AK-SC refrigeration controllers.
+
+This is important because the attack did not simply make computers unavailable.
+
+The attackers manipulated the equipment’s operating instructions.
+
+The reported sequence was:
+
+Remote controller access → unauthorised defrost activation → sustained temperature increase → food spoilage and equipment damage.
+
+The manufacturer, Danfoss, says many affected devices were obsolete AK-SM800 and AK-SC355 systems, while some newer AK-SM800A systems were running outdated firmware.
+
+The obsolete models no longer receive security updates.
+
+CERT-FR recommends disconnecting or restricting network access to affected controllers, followed by remediation where compromise is suspected.  
+
+The precise intrusion route remains unconfirmed. Previously disclosed controller vulnerabilities provide plausible explanations, but investigators have not established which vulnerability, credential or remote-maintenance pathway the attackers used.
+
+Attribution assessment
+
+Proposition	Confidence
+Coordinated-looking refrigeration compromises	🟢 Confirmed incidents; common operator unresolved
+Deliberate manipulation of physical processes	🟢 Confirmed
+Food-supply disruption and physical damage	🟢 Confirmed
+Shared vulnerable controller technology	🟢 Established
+Specific exploitation mechanism	🟠 Under investigation
+Criminal sabotage or opportunistic exploitation	🟠 Plausible
+State-directed disruption	⚪ Unresolved
+Iranian involvement	⚪ No evidence
+
+Financial extortion, deliberate vandalism, opportunistic exploitation and state-directed sabotage remain competing explanations.
+
+The operational resemblance to Iranian methods is stronger than the attribution evidence.
+
+That distinction matters enormously.
+
+📊 The important historical comparison
+
+There is an earlier incident we should now revisit.
+
+During 26–28 August 2026, refrigeration systems at multiple US military commissaries malfunctioned, including facilities at Fort Huachuca, Fort Irwin and several Air Force bases.
+
+Some installations reported that freezers had entered defrost mode, spoiling food.
+
+The US Department of Defense acknowledged the disruptions. Army and Air Force investigators subsequently became involved, including the Army Criminal Investigation Division’s Cyber Field Office.
+
+However, the August American incidents have not been publicly established as cyberattacks. Equipment failures, software faults and maintenance problems remain possible explanations.  
+
+The French attack now establishes that malicious manipulation can produce precisely this type of physical consequence.
+
+That creates a meaningful comparison:
+
+August — US military commissaries: geographically dispersed refrigeration failures; cyber cause unconfirmed.
+
+October — French supermarkets: geographically dispersed refrigeration failures; malicious controller manipulation confirmed.
+
+There is no established common operator, equipment configuration or exploit.
+
+Nevertheless, the combination deserves investigation because it demonstrates a repeatable vulnerability class affecting food preservation infrastructure, including potentially military supply systems.
+
+Change since 28 February
+
+This is a significant addition to the cyber-to-physical strand.
+
+Unlike the Japanese cloud ransomware incident, the attacker did not need to destroy a shared computing environment to interrupt downstream services.
+
+Unlike ordinary ransomware, the observed objective was not simply to make information unavailable.
+
+The attacker caused equipment to perform a legitimate function at the wrong time and under the wrong conditions.
+
+That is conceptually close to the manipulation of water and industrial controllers already present in our Iranian-linked dataset.
+
+It does not prove Iranian involvement, but it strengthens the importance of monitoring controller commands, operating changes and physical consequences rather than only network outages.
+
+Timeline classification: CORE — confirmed cyber-to-physical attack against food-supply infrastructure.
+
+⸻
+
+🇳🇱🇧🇪🇺🇸 2. Netherlands, Belgium and United States — multinational food-distribution disruption
+
+Status: 🔴 Confirmed operational disruption; unauthorised intrusion not yet established.
+
+A separate cybersecurity incident began affecting Ahold Delhaize on 11 October.
+
+In its  official statement of 12 October⁠￼, the company confirmed a network-security problem and said it had taken systems offline to protect its infrastructure.
+
+The consequences are now considerably more substantial than website unavailability.
+
+Operational impact
+
+In the Netherlands, Albert Heijn suspended online grocery ordering and deliveries. Websites, applications, customer-service functions and some loyalty systems became unavailable.
+
+More importantly, operations stopped at several distribution centres.
+
+Albert Heijn’s chief executive confirmed that some centres had ceased operating because their supporting systems were shut down. Suppliers were reportedly instructed to redirect deliveries to the remaining functioning distribution infrastructure.
+
+The company warned that fresh-food availability could deteriorate if disruption continued.  
+
+In Belgium, Delhaize experienced digital-service problems, with potential downstream effects on food distribution.
+
+In the United States, websites associated with Food Lion, Stop & Shop, Giant Food, Hannaford and The Giant Company became unavailable. Employees also reported difficulty accessing scheduling and payroll information.
+
+Physical stores remained open, and there is no established nationwide interruption to food availability.  
+
+Attribution and competing explanations
+
+Network-security incident: 🟢 Confirmed.
+
+Precautionary system shutdowns: 🟢 Confirmed.
+
+Distribution-centre disruption: 🟢 Confirmed.
+
+Multinational digital-service disruption: 🟢 Confirmed.
+
+Successful malicious intrusion: 🟠 Suspected, not publicly confirmed.
+
+Ransomware or data theft: ⚪ Not established.
+
+Iranian involvement: ⚪ No evidence.
+
+Cybersecurity specialists consider a malicious intrusion plausible, but an unresolved vulnerability or precautionary containment decision could also explain the shutdowns.  
+
+Crucially, there is no evidence connecting this incident to the French refrigeration attacks.
+
+The incidents occurred within approximately the same period and affected the same broad essential-service sector.
+
+But their demonstrated mechanisms differ:
+
+France: direct manipulation of refrigeration controllers.
+
+Ahold Delhaize: network-security incident → protective IT shutdowns → distribution and administrative disruption.
+
+That is a meaningful cluster for monitoring, not proof of coordination.
+
+Change since 28 February
+
+This introduces another important distinction within food infrastructure.
+
+The French incident demonstrates physical-process compromise.
+
+The Ahold incident demonstrates logistical dependence on shared information systems.
+
+In both cases, essential goods can become unavailable without an attacker directly targeting farms, warehouses or transport vehicles.
+
+Timeline classification: CORE — multinational food-distribution disruption; attribution unresolved.
+
+⸻
+
+🧭 Overall assessment
+
+Today’s findings materially strengthen the cyber-to-physical and essential-supply disruption strands.
+
+The French incident is the more important development because it establishes deliberate manipulation of operating equipment across numerous locations.
+
+The Ahold incident demonstrates how an apparently centralised network-security problem can propagate into geographically distributed food logistics.
+
+The coincidence warrants investigation, but does not establish a common campaign.
+
+There is also a separate Iranian attribution development: on 12 October, the British government assessed that the suspected September plot involving RAF Fairford was almost certainly directed by Iran’s Revolutionary Guards. That is significant evidence concerning alleged proxy-directed physical operations, but it is not a cyber incident and should not be added to the cyberattack count. Iran denies involvement.  
+
+For the cyber timeline, the most important comparison now spans three environments:
+
+Water infrastructure: unauthorised industrial-control manipulation.
+
+Food refrigeration: unauthorised physical-process manipulation, now independently confirmed in France.
+
+Shared logistics: information-system disruption propagating into essential-goods distribution.
+
+The first two share a technical class of behaviour. The third shares a potential strategic consequence.
+
+Watch result: two new threshold-crossing incidents; one confirmed cyber-to-physical attack; no increase in Iranian cyber-attribution confidence.
+
+The highest-priority unresolved question is whether the August US military commissary refrigeration failures and the October French attack share any technical mechanism. That comparison is now considerably more important than simply counting another ransomware incident.”
+
+- - -   
