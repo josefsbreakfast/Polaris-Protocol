@@ -1,7 +1,7 @@
 this one also needs adme and bioavailability bc that ain’t going to fucking work bro
 
 # 🫂 Hugging, But Make It A Bomb  
-**First created:** 2026-10-09 | **Last updated:** 2026-10-11  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-13  
 *All I’m hearing is, “please audit our financials”.*
 
 ---
@@ -223,6 +223,51 @@ A molecule involved in attachment does not come with a `prevent_divorce = true` 
 And the question that should make the room go quiet: **why would we attempt to change someone's attachment to a partner before establishing whether the partner's behaviour ought to change?**
 
 If the problem is neglect, fear, coercion or simply two people wanting different lives, pharmacologically increasing attachment—assuming that were possible—would not repair the underlying relationship. The clinical endpoint cannot be “she stayed” while everything that made her want to leave remains untouched.
+
+### 🧪 ADME: the bomb has failed its pharmacology viva
+
+Before we discuss whether oxytocin can preserve a marriage, the gentlemen must first demonstrate that their proposed molecule can reach its proposed target. We regret to inform the procurement committee that **putting a substance in the environment is not the same thing as administering a medicine**.
+
+**A — Absorption.** Oxytocin is a **nonapeptide**, not a cholesterol-derived steroid. Peptide bonds are vulnerable to enzymatic breakdown, and the molecule is hydrophilic. Ordinary oral administration has poor bioavailability: the digestive tract is not an express delivery service for intact oxytocin. IV administration delivers it directly to blood; IM administration permits systemic absorption; intranasal formulations have been investigated for social-neuroscience research. None of this establishes that an indiscriminate airborne release would produce a meaningful, predictable dose in exposed people. *An intranasal research spray is not a bomb.*
+
+**D — Distribution.** Oxytocin in the bloodstream is not equivalent to oxytocin in the brain. The blood–brain barrier restricts its entry. Intranasal administration may involve some direct or indirect central effects, but the extent of direct brain delivery and the mechanism of behavioural findings remain disputed. IM and IV routes do not magically bypass this problem.
+
+**M — Metabolism.** Oxytocin is broken down by peptidases in tissues and circulation; its peripheral lifetime is short, on the order of minutes, with estimates dependent on physiological context. Even a successfully absorbed dose is not an indefinitely operating affection subscription.
+
+**E — Excretion.** Oxytocin and its breakdown products are cleared through normal physiological pathways, including renal handling. Elimination is part of the exposure story; it does not turn a speculative environmental release into a reproducible clinical regimen.
+
+| Claim in the pitch | What would actually need demonstrating |
+| --- | --- |
+| “People will breathe it in.” | Meaningful absorption of intact, active oxytocin under the claimed exposure conditions. |
+| “It will reach the brain.” | Central exposure or another validated pathway to the proposed central effect. |
+| “It will activate bonding.” | Target engagement in relevant neural circuits, not merely circulating hormone. |
+| “It will keep people married.” | Reproducible improvements in freely chosen, safe relationships—not merely fewer divorce filings. |
+
+**Pharmacodynamics, because the viva is not over:** the oxytocin receptor (**OXTR**) is a **class A, seven-transmembrane G-protein-coupled receptor**. It commonly signals through **Gq/11 → phospholipase Cβ → IP₃ and DAG → intracellular Ca²⁺ and protein kinase C**. Other context-dependent signalling, including Gi/o and β-arrestin-associated processes, has also been described. The same ligand–receptor system can have different downstream consequences in different tissues and physiological states. **A GPCR is not a remote control for somebody's marriage.**
+
+Nor does central oxytocin equal universal niceness. Social effects can vary with context, prior experience, individual differences and what a person perceives as socially relevant. Findings about trust, affiliation or in-group responses do not validate a chemical method for securing another adult's affection.
+
+### 🌧️ Fentanyl piss rain versus the oxytocin bomb
+
+We had hoped the phrase *fentanyl piss rain* would remain the low-water mark of imaginary environmental pharmacology. Unfortunately, the gentlemen have presented another candidate.
+
+The comparison is chemical, **not** a claim that either hypothetical release would work. Fentanyl is a potent, comparatively lipophilic small molecule with very different membrane permeability and receptor pharmacology. Oxytocin is a hydrophilic peptide with substantial absorption and distribution barriers. Neither an environmental exposure scenario nor its intended human effects can be inferred from the fact that a substance has medical uses by other routes.
+
+**The oxytocin bomb is especially poorly supported as a device for controlling affection:** there is no established pathway from uncontrolled environmental exposure to reliable central receptor engagement, and no established pathway from central receptor engagement to a predetermined decision to remain married. Those are *two different missing bridges*, with several missing bridges inside each.
+
+> 🦊 “Good news, chaps. We have completed the preliminary ADME assessment.”
+>
+> “And?”
+>
+> “The molecule has declined to attend the target tissue.”
+>
+> “Could we put it in a missile?”
+>
+> **“You could also put a marriage counsellor in a missile. Neither would improve the delivery specification.”**
+
+**Evidence boundary:** this is a critique of a hypothetical dispersal concept, **not** an assertion that the original speaker proposed a literal airborne weapon. The original recording and precise wording still require verification. The discussion is deliberately non-operational: no aerosol formulation, dispersal conditions or exposure calculations are supplied.
+
+---
 
 ## 7. 🥃 Have We Given Up on the Men?
 
@@ -587,6 +632,13 @@ This is a **drafting register**, not a claim that every original publication has
 - [Academy of Breastfeeding Medicine](https://www.bfmed.org/protocols) — locate **Clinical Protocol #36: The Mastitis Spectrum, Revised 2022**; distinguish inflammatory conditions and infection.
 - Human milk immunology: review sources on secretory IgA, placental IgG transfer and milk immune factors; distinguish infant systemic antibodies from mucosal milk protection.
 
+### Pharmacokinetics and receptor pharmacology
+
+- Oxytocin product prescribing information and pharmacokinetic studies: distinguish IV, IM, intranasal and oral exposure; verify half-life estimates by setting.
+- OXTR molecular pharmacology: class A GPCR; Gq/11–PLCβ–IP₃/DAG signalling and context-dependent alternative pathways.
+- Intranasal oxytocin and central target engagement: distinguish direct nose-to-brain delivery, peripheral effects and indirect neural pathways; do not claim the controversy is settled.
+- **No original source in this draft verifies a literal airborne oxytocin-bomb proposal.** The ADME section tests a hypothetical, not an attributed weapons design.
+
 ### Behavioural neuroscience
 
 - Oxytocin and vasopressin in prairie-vole pair bonding; distinguish animal mechanisms from human treatment claims.
@@ -625,7 +677,7 @@ This is a **drafting register**, not a claim that every original publication has
 ---
 
 ## ✨ Stardust
-oxytocin, ferguson reflex, childbirth, vaginal delivery, lactation, milk ejection, pair bonding, marriage, divorce, consent, domestic violence, infant nutrition, women in stem, nato procurement, defence spending, technological solutionism, rage bait, political signalling, defence contracting, emotional literacy
+oxytocin, ADME, bioavailability, peptide hormone, GPCR, OXTR, blood-brain barrier, intranasal administration, environmental exposure, ferguson reflex, childbirth, vaginal delivery, lactation, milk ejection, pair bonding, marriage, divorce, consent, domestic violence, infant nutrition, women in stem, nato procurement, defence spending, technological solutionism, rage bait, political signalling, defence contracting, emotional literacy
 
 ---
 
@@ -648,4 +700,4 @@ oxytocin, ferguson reflex, childbirth, vaginal delivery, lactation, milk ejectio
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-11_
+_Last updated: 2026-10-13_
