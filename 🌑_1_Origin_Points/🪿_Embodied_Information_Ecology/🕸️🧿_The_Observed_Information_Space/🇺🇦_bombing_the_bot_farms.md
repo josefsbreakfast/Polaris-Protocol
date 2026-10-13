@@ -276,7 +276,9 @@ It is **what became quieter, by how much, for how long, and what — if anything
 - [📹: MeidasTouch, via TikTok: “Zelenskyy: It ‘Suddenly Became A Little Easier To Breathe On Many Social Media Platforms’ After Ukraine Struck Russian Data Centers”](https://vm.tiktok.com/ZN8B4Yr1H/)  
 - [📹: Nick Wolny, via TikTok: “How AI Is Changing Bots”](https://vm.tiktok.com/ZN8B42HM6/)
 - [📹: The Champagne Socialist, via TikTok: “We’ve actually got some good news for once”](https://vm.tiktok.com/ZN8BbVrCy/)
-- [📹: CJ Trowbridge, via TikTok: “It’s got to be tough to be an oligarch today”](https://vm.tiktok.com/ZN8Bb4Ywk/)  
+- [📹: CJ Trowbridge, via TikTok: “It’s got to be tough to be an oligarch today”](https://vm.tiktok.com/ZN8Bb4Ywk/)
+- [📹: Tessa, via TikTok: “Na das ist ja interessant :) ”](https://vm.tiktok.com/ZN8BbG9fy/)
+- [📹: Captain Kev, via TikTok: “It’s almost like all the right wing pays Russian bots to spread propaganda!”](https://vm.tiktok.com/ZN8BbKJj3/)  
 
 ---
 
