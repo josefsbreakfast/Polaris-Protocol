@@ -1,7 +1,7 @@
-<!-- we need the engineering depts to start hanging out with bioscience more what even is this. i am strongly considering making the description of labour more actively comparative. ie whistle stop tour of which ligaments and pelvic muscles will need to be seperate for bambino to escape. mostly as deterrent but you know that’s going to have the opposite effect on some so idk. please stop making up shit that doesn’t work and putting it on the taxpayers tab thx. -->
+<!-- just one bioscience degree. as a veto. -->
 
 # 🫂 Hugging, But Make It A Bomb  
-**First created:** 2026-10-09 | **Last updated:** 2026-10-13  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-14  
 *All I’m hearing is, “please audit our financials”.*
 
 ---
@@ -672,7 +672,8 @@ This is a **drafting register**, not a claim that every original publication has
 *Further media:*  
 
 - [📹: Osmosis, via YouTube: “Knowledge Short: Oxytocin”](https://youtube.com/shorts/S933fvQGK1I?is=DM76plE1ajWA-1kE) - *so you never know, all the women going through difficult divorce may unionise*  
-- [📹: Neurochallenged, via YouTube: “2-Minute Neuroscience: Oxytocin”](https://youtu.be/tLc9fQd58bg?is=sFfKiYyMzDJg-JzO) - *and it might make us aggressive, unclear. glad we’re all here doing MDT work*  
+- [📹: Neurochallenged, via YouTube: “2-Minute Neuroscience: Oxytocin”](https://youtu.be/tLc9fQd58bg?is=sFfKiYyMzDJg-JzO) - *and it might make us aggressive, unclear. glad we’re all here doing MDT work*
+- [📹: Alright, Gov?, via TikTok: “The head of MI5, Sir Ken McCallum, warned that although not seen yet, new pathogens could be created using artificial intelligence.”](https://vm.tiktok.com/ZN8BTy7m1/) – *I just want to clarify that: 1. this was a satirical formation and 2. the boy nerds started it*  
 
 ---
 
@@ -700,4 +701,4 @@ oxytocin, ADME, bioavailability, peptide hormone, GPCR, OXTR, blood-brain barrie
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-13_
+_Last updated: 2026-10-14_
