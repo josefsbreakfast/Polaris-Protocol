@@ -17,3 +17,12 @@ the comments about the way the constitution and power sharing works is interesti
 I think the questions/allegations about any potential violence threat are left too open; this is still a very sore place, and there is still dehumanisation language in a way that has complexities but tldr we in England should be most aware of our apparent involvement/okaying of it (inc non-challenge of it).  
 
 nb for myself is to bring up the complex balance of rights and polish this off Inc some commentary from people with more knowledge.  
+
+
+there is a LOT which is getting smuggled into the Hansard by having no firm statement re dis of violence and cve. I wonder to what extent Westminister knows these dogwhistles.  
+
+given he’s been in post two minutes actually this is probably decent handling from Bryant. shadow sec of state was prob not lying.  
+
+this rule of law conversation feels v weird looking at other news in ni politics and ngl as a survivor i get im not resident but i am like 🤨 guys. dw ive got a shitlist for Westminister re the Epstein fallout; my ire is equal opportunity.  
+
+- - -  
