@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-14 10:23:00 UTC_
+_Generated on 2026-10-14 10:29:28 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4376,6 +4376,7 @@ _Generated on 2026-10-14 10:23:00 UTC_
         - [`🗳️_why_before_the_midterms.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🗳️_why_before_the_midterms.md)
         - [`🛟_but_immigration.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🛟_but_immigration.md)
         - [`🧊_cold_war_history.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🧊_cold_war_history.md)
+        - [`🧶_getting_hands_dirty.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🧶_getting_hands_dirty.md)
         - [`🪢_united_fronts_under_pressure.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🪢_united_fronts_under_pressure.md)
         - [`🪶_before_the_communists.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🪶_before_the_communists.md)
       - [**🪳🕶️_Mera_Naam_Cockroach_Hai/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🪳🕶️_Mera_Naam_Cockroach_Hai/)
