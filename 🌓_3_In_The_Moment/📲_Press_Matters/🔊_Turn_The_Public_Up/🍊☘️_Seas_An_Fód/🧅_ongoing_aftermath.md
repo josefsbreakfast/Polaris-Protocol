@@ -25,4 +25,8 @@ given he’s been in post two minutes actually this is probably decent handling 
 
 this rule of law conversation feels v weird looking at other news in ni politics and ngl as a survivor i get im not resident but i am like 🤨 guys. dw ive got a shitlist for Westminister re the Epstein fallout; my ire is equal opportunity.  
 
+also worth the men understanding that the harassment/abuse towards female mps would need protection under vawg policy. hate to say it but this is just so virulent now that we need action against platforms, against musk like figures, and in favour of sg and reduction of vawg.  
+
+same bots that stir across spectrum innit.  
+
 - - -  
