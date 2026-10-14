@@ -8,3 +8,12 @@ this feels more enlightened than 30 years ago, but this still doesn’t feel lik
 
 I’m trying to hold space to the fact that the spectrum of Westminister is improving, whilst also being :| at how we sound like we’re talking as a Victorian parent figure as an institutional group.  
 
+very interested in ni representation in parliament because this obviously helps understand the regional issue far better.  
+
+we prob need to go over to the usa audience how different the laws are around defence/trespass/how land zoning works.  
+
+the comments about the way the constitution and power sharing works is interesting in it’s potential future actions.  
+
+I think the questions/allegations about any potential violence threat are left too open; this is still a very sore place, and there is still dehumanisation language in a way that has complexities but tldr we in England should be most aware of our apparent involvement/okaying of it (inc non-challenge of it).  
+
+nb for myself is to bring up the complex balance of rights and polish this off Inc some commentary from people with more knowledge.  
