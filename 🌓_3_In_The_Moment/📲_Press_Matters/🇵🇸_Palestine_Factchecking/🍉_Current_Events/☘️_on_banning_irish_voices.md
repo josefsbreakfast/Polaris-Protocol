@@ -1,3 +1,5 @@
+writing w headache so trusting it not to have shoved anything hugely alarming in will check later x
+
 # ☘️ On Banning Irish Voices
 **First created:** 2026-10-15 | **Last updated:** 2026-10-15  
 *On the peculiar British habit of restricting Irish voices, the consequences of counterterrorism law reaching a novelist's books, and the public's reasonable desire to know what its government thinks it is protecting.*
