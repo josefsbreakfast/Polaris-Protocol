@@ -1,5 +1,5 @@
 # ⏱️ Timeline Of Essential Infrastructure Attacks
-**First created:** 2026-08-01 | **Last updated:** 2026-09-21  
+**First created:** 2026-08-01 | **Last updated:** 2026-10-15  
 *A provisional open-source chronology of cyber incidents affecting essential state infrastructure during the Iran war.*
 
 ---
@@ -3762,6 +3762,893 @@ MORE ACTOR DENSITY
 Both propositions can be true simultaneously.
 
 
+## 🗂️ September–October 2026 — Integrated Chronology Update
+
+*Integrated from the 15 October 2026 CSV evidence register. Earlier incident entries remain unchanged. Dates below follow the register's routing date; the narrative distinguishes underlying activity from disclosure, warning, and enforcement dates.*
+
+**Counting rule:** A defensive advisory is not an incident; a law-enforcement action is not a new intrusion; a disclosure may describe an earlier attack; multiple customers of one supplier are not automatically independent attacks. These entries are evidence-register statements, not a new independent verification of every cited source.
+
+## 2026-09-25 — Kiteworks
+
+### 🌍 International · Cross-sector / other
+
+**Record type:** Preparedness / defensive action
+
+**Sector:** Cross-sector secure file transfer
+
+**What happened:** Precautionary shutdown advised 25 September following credible threat intelligence; 28 September restoration statement reported no detected compromise.
+
+**Operational effect:** Temporary defensive shutdown / customer availability consequence.
+
+**Physical / data effect:** No confirmed exfiltration or successful attack.
+
+**Claim status:** Official company statements
+
+**Technical operator:** Not applicable
+
+**State relationship:** Potential actor unknown; no successful incident attributed.
+
+**Incident confidence:** 🟢 Established defensive response
+
+**Effect confidence:** 🟢 Established preventive availability effect
+
+**Attribution confidence:** ⚪ Not applicable
+
+**Relationship confidence:** ⚪ Open
+
+**Pattern status:** ⚪ Context / isolated
+
+**Iran-war relevance:** Illustrates operational costs of threat warnings
+
+**Iran attribution:** No incident Iran attribution
+
+**Rival explanations:** Preventive risk mitigation, not evidence of compromise.
+
+**Negative findings:** No Kiteworks or customer compromise detected in company review.
+
+**Manual fallback:** Services temporarily shut as precaution
+
+**Organising mechanism:** Threat / defensive response
+
+**Common operator confidence:** ⚪ Open
+
+**Strategic campaign confidence:** ⚪ Open
+
+**Civilian / IHL relevance:** Not a confirmed hostile attack.
+
+**Stakeholder effect:** Customer service availability affected by protective measure.
+
+**Source provenance:** Company statements; no independent compromise claimed.
+
+**Attribution history:** 25 September advisory → 28 September restoration
+
+### 📚 Sources recorded in CSV
+
+- https://www.kiteworks.com/company/press-releases/kiteworks-precautionary-shutdown-advisory/
+- https://www.kiteworks.com/company/press-releases/kiteworks-restores-systems-credible-threat/
+
+*CSV review date: 2026-10-15; correction status: New — defensive action; exclude attack count.*
+
+---
+
+## 2026-09-27 — Citrix NetScaler affected organisations
+
+### 🌍 North America / Europe · Cross-sector / other
+
+**Record type:** Campaign reporting / defensive advisory
+
+**Sector:** Government; finance; education; technology
+
+**What happened:** Exploitation of internet-facing NetScaler devices reported from early September; CERT-EU notice 27 September; Google/Mandiant report 29 September.
+
+**Operational effect:** Some organisations reportedly compromised; essential-service outages not established.
+
+**Physical / data effect:** Access and credential exposure risk; no general physical effect.
+
+**Claim status:** Technical investigation / advisory
+
+**Technical operator:** Multiple / unknown
+
+**State relationship:** No common state sponsor established.
+
+**Incident confidence:** 🟢 Established campaign
+
+**Effect confidence:** 🟠 Developing victim-specific effects
+
+**Attribution confidence:** ⚪ Open
+
+**Relationship confidence:** ⚪ Open — potentially multiple actors
+
+**Pattern status:** 🟠 Credible cluster
+
+**Iran-war relevance:** Cross-sector access route to essential services
+
+**Iran attribution:** No public Iran evidence
+
+**Rival explanations:** Multiple criminal/state actors may exploit same vulnerabilities.
+
+**Negative findings:** No confirmed essential-service outage in cited technical report.
+
+**Manual fallback:** Not reported
+
+**Organising mechanism:** Internet-facing edge access / credential theft
+
+**Common operator confidence:** ⚪ Open
+
+**Strategic campaign confidence:** ⚪ Open
+
+**Civilian / IHL relevance:** No confirmed OT effect.
+
+**Stakeholder effect:** Exposed organisations face access risk.
+
+**Source provenance:** Technical research and CERT warning; avoid double-counting.
+
+**Attribution history:** Early September exploitation → 27–29 September disclosures
+
+### 📚 Sources recorded in CSV
+
+- https://cloud.google.com/blog/topics/threat-intelligence/defending-against-active-exploitation-of-citrix-netscaler-adc-and-gateway-appliances/
+- https://cert.europa.eu/publications/security-advisories/2026-014
+
+*CSV review date: 2026-10-15; correction status: New — campaign/advisory, not one outage.*
+
+---
+
+## 2026-10-01 — City of Vicksburg
+
+### 🌍 United States — Mississippi · Government / administration
+
+**Record type:** Cyber incident
+
+**Sector:** Municipal administration / utility billing
+
+**What happened:** Municipal ransomware reported 1 October; mayor statement reported 2 October.
+
+**Operational effect:** Billing and administration disrupted; water/gas supply and 911/police/fire continued.
+
+**Physical / data effect:** Data theft not established.
+
+**Claim status:** Mayor statement via press
+
+**Technical operator:** Unknown
+
+**State relationship:** No state affiliation established.
+
+**Incident confidence:** 🟢 Established
+
+**Effect confidence:** 🟢 Established limited administration effect
+
+**Attribution confidence:** ⚪ Open
+
+**Relationship confidence:** ⚪ Open
+
+**Pattern status:** 🟡 Possible recurrence
+
+**Iran-war relevance:** Local government and utility administrative continuity
+
+**Iran attribution:** No public Iran evidence
+
+**Rival explanations:** Financially motivated ransomware likely; other intrusion possible.
+
+**Negative findings:** No utility OT outage or emergency-service failure established.
+
+**Manual fallback:** Utilities and 911 continued
+
+**Organising mechanism:** Municipal ransomware / administrative IT
+
+**Common operator confidence:** ⚪ Open
+
+**Strategic campaign confidence:** ⚪ Open
+
+**Civilian / IHL relevance:** No physical utility manipulation established.
+
+**Stakeholder effect:** Residents affected by payment/billing disruption.
+
+**Source provenance:** Mayor cited by local press; no independent forensic attribution.
+
+**Attribution history:** 1 October incident → 2 October reporting
+
+### 📚 Sources recorded in CSV
+
+- https://www.wlbt.com/2026/10/02/city-vicksburg-hit-by-ransomware-cyberattack-mayor-says/
+
+*CSV review date: 2026-10-15; correction status: New — October incident.*
+
+---
+
+## 2026-10-03 — Ivanti Connect Secure / UTA0576
+
+### 🌍 Undisclosed · Cross-sector / other
+
+**Record type:** Cyber incident / technical campaign
+
+**Sector:** Enterprise VPN / cross-sector access
+
+**What happened:** 3–5 October exploitation chained VPN vulnerabilities, privileged device access, credential theft and Active Directory reconnaissance; Volexity disclosed 13 October; French CERT alerted 14 October.
+
+**Operational effect:** Internal compromise and reconnaissance; affected victim country/sector not public; no essential-service outage established.
+
+**Physical / data effect:** Credential extraction; no OT process effect demonstrated.
+
+**Claim status:** First-hand technical investigation
+
+**Technical operator:** UTA0576
+
+**State relationship:** Volexity low-confidence criminal motivation; state sponsor unknown.
+
+**Incident confidence:** 🟢 Established exploitation
+
+**Effect confidence:** 🟢 Established access; ⚪ essential-service effect open
+
+**Attribution confidence:** ⚪ Open
+
+**Relationship confidence:** ⚪ Open
+
+**Pattern status:** 🟠 Credible access-infrastructure cluster
+
+**Iran-war relevance:** Cross-sector access mechanism; essential-sector victim not identified
+
+**Iran attribution:** No public Iran evidence
+
+**Rival explanations:** Criminal access brokerage, espionage, pre-ransomware foothold.
+
+**Negative findings:** No named essential-service victim or physical outage.
+
+**Manual fallback:** Not reported
+
+**Organising mechanism:** Edge device exploit / credential harvesting
+
+**Common operator confidence:** ⚪ Open
+
+**Strategic campaign confidence:** ⚪ Open
+
+**Civilian / IHL relevance:** No verified OT manipulation.
+
+**Stakeholder effect:** Undisclosed organisation faces identity compromise.
+
+**Source provenance:** Volexity; motivation low confidence and LLM use medium confidence.
+
+**Attribution history:** 3–5 October compromise → 13 October technical disclosure → 14 October CERT warning
+
+### 📚 Sources recorded in CSV
+
+- https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days/
+
+*CSV review date: 2026-10-15; correction status: New — access campaign, contextual route.*
+
+---
+
+## 2026-10-05 — CPR register / private authorised access holder
+
+### 🌍 Denmark · Government / administration
+
+**Record type:** Cyber incident / data-access abuse
+
+**Sector:** National population identity registry
+
+**What happened:** Unauthorised use of a company’s legitimate access during September; detected 2 October, disclosed 5 October; approximately 8.8 million records queried.
+
+**Operational effect:** No national registry outage established.
+
+**Physical / data effect:** Personal numbers, names and addresses potentially exposed; count includes historic and deceased records.
+
+**Claim status:** Official registry disclosure
+
+**Technical operator:** Unknown
+
+**State relationship:** No state nexus established.
+
+**Incident confidence:** 🟢 Established access abuse
+
+**Effect confidence:** 🟢 Established record access; downstream misuse open
+
+**Attribution confidence:** ⚪ Open
+
+**Relationship confidence:** ⚪ Open
+
+**Pattern status:** 🟡 Possible recurrence
+
+**Iran-war relevance:** National-scale identity data custody
+
+**Iran attribution:** No public Iran evidence
+
+**Rival explanations:** Credential misuse; criminal data extraction; unrelated insider activity.
+
+**Negative findings:** 8.8m records not equal 8.8m current residents; no outage.
+
+**Manual fallback:** Registry services not reported interrupted
+
+**Organising mechanism:** Delegated authorised access abuse
+
+**Common operator confidence:** ⚪ Open
+
+**Strategic campaign confidence:** ⚪ Open
+
+**Civilian / IHL relevance:** Sensitive civilian identity data; legal review fact-specific.
+
+**Stakeholder effect:** Citizens and former residents face data risk.
+
+**Source provenance:** Official registry and ministry statements; figures are record counts.
+
+**Attribution history:** September query abuse → 2 October detection → 5 October disclosure
+
+### 📚 Sources recorded in CSV
+
+- https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger
+- https://fudm.dk/aktuelt/pressemeddelelser/2026/oktober/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger/
+
+*CSV review date: 2026-10-15; correction status: New — approximate occurrence date.*
+
+---
+
+## 2026-10-06 — CL-STA-1178 / Blinder Tunnel
+
+### 🌍 Iraq / Israel / UAE · Cross-sector / other
+
+**Record type:** Campaign reporting
+
+**Sector:** Critical infrastructure recruitment / aviation impersonation
+
+**What happened:** Campaign infrastructure predates 28 February; March–April 2026 deceptive recruitment purported to come from Dubai Airports IT and targeted Iraqi critical-infrastructure personnel. Research disclosed 6 October.
+
+**Operational effect:** Espionage and attempted foothold; no essential-service outage verified.
+
+**Physical / data effect:** Credential / access risk; no confirmed physical process change.
+
+**Claim status:** Technical researcher assessment
+
+**Technical operator:** CL-STA-1178 / Blinder Tunnel
+
+**State relationship:** Unit 42 assessed Iranian nexus with high confidence; specific Iranian agency or state tasking not independently established.
+
+**Incident confidence:** 🟢 Established research
+
+**Effect confidence:** 🟠 Developing access impact
+
+**Attribution confidence:** 🟡 Probable Iranian nexus (researcher)
+
+**Relationship confidence:** ⚪ Open for shared operator with other cases
+
+**Pattern status:** 🟡 Possible recurrence
+
+**Iran-war relevance:** High — Iraqi critical-infrastructure recruitment targeting; pre-war staging
+
+**Iran attribution:** Iranian nexus assessed by Unit 42; no specific agency proven
+
+**Rival explanations:** Espionage campaign; deceptive recruitment; other sponsors not excluded by independent evidence.
+
+**Negative findings:** No verified service disruption or common operator with later cases.
+
+**Manual fallback:** Not reported
+
+**Organising mechanism:** Recruitment deception / malware staging
+
+**Common operator confidence:** ⚪ Open
+
+**Strategic campaign confidence:** ⚪ Open
+
+**Civilian / IHL relevance:** No demonstrated attack on a protected physical process.
+
+**Stakeholder effect:** Targeted staff and critical-infrastructure operators faced access risk.
+
+**Source provenance:** Researcher assessment, not an official Iranian admission.
+
+**Attribution history:** March activity → 6 October research disclosure
+
+### 📚 Sources recorded in CSV
+
+- https://unit42.paloaltonetworks.com/?search=9D8D8997D1083C4B2DFB2272F765733
+
+*CSV review date: 2026-10-15; correction status: New — source-led October backfill.*
+
+---
+
+## 2026-10-06 — Country-code TLD registries .gh / .sl / .as
+
+### 🌍 Ghana / Sierra Leone / American Samoa · Telecommunications / internet
+
+**Record type:** Cyber incident / campaign disclosure
+
+**Sector:** DNS registry / internet trust infrastructure
+
+**What happened:** Late September registry compromise enabled unauthorised DNS changes and fraudulent TLS certificates; Google disclosed 6 October.
+
+**Operational effect:** Integrity of domain resolution affected; no national outage established.
+
+**Physical / data effect:** Fraudulent certificates / possible traffic diversion; mass interception unproven.
+
+**Claim status:** Primary technical research
+
+**Technical operator:** Unknown
+
+**State relationship:** No state sponsor established.
+
+**Incident confidence:** 🟢 Established registry compromise
+
+**Effect confidence:** 🟢 Established integrity compromise; ⚪ mass impact open
+
+**Attribution confidence:** ⚪ Open
+
+**Relationship confidence:** ⚪ Open
+
+**Pattern status:** 🟠 Credible cluster
+
+**Iran-war relevance:** Internet trust layer supporting state and public services
+
+**Iran attribution:** No public Iran evidence
+
+**Rival explanations:** Cybercrime or another intelligence actor.
+
+**Negative findings:** No mass interception or national service outage confirmed; Google not compromised.
+
+**Manual fallback:** Not reported
+
+**Organising mechanism:** Registry delegation / fraudulent certificates
+
+**Common operator confidence:** 🟠 Developing for registry campaign
+
+**Strategic campaign confidence:** ⚪ Open
+
+**Civilian / IHL relevance:** No direct physical-service impact established.
+
+**Stakeholder effect:** Internet users and domain holders exposed to trust failures.
+
+**Source provenance:** Google security research; country-level outage not inferred.
+
+**Attribution history:** Late September activity → 6 October research disclosure
+
+### 📚 Sources recorded in CSV
+
+- https://blog.google/security/chromes-response-to-recent-cctld-registry-hijacks/
+
+*CSV review date: 2026-10-15; correction status: New — approximate occurrence date.*
+
+---
+
+## 2026-10-06 — FortiBleed / Fortinet devices
+
+### 🌍 International · Cross-sector / other
+
+**Record type:** Defensive advisory / campaign reporting
+
+**Sector:** VPN / firewall access across critical sectors
+
+**What happened:** 6 October law-enforcement warning described active credential-compromise and access-broker activity affecting exposed Fortinet devices; figures for scanned or affected devices must not be treated as essential-service outages.
+
+**Operational effect:** Access and lockout risk; no sector-specific OT outage established.
+
+**Physical / data effect:** Credential theft and attempted lateral movement; victim effects vary.
+
+**Claim status:** Official warning / industry synthesis
+
+**Technical operator:** Criminal access-broker ecosystem (suspected)
+
+**State relationship:** No Iranian sponsor established.
+
+**Incident confidence:** 🟢 Established warning
+
+**Effect confidence:** 🟠 Developing individual victim effects
+
+**Attribution confidence:** ⚪ Open
+
+**Relationship confidence:** ⚪ Open
+
+**Pattern status:** 🟠 Credible access campaign
+
+**Iran-war relevance:** Recurring edge-device intrusion pathway
+
+**Iran attribution:** No public Iran evidence
+
+**Rival explanations:** Credential resale / criminal ransomware; multiple actors possible.
+
+**Negative findings:** Device totals are not verified critical-infrastructure disruptions.
+
+**Manual fallback:** Not reported
+
+**Organising mechanism:** VPN / credential compromise / access resale
+
+**Common operator confidence:** ⚪ Open
+
+**Strategic campaign confidence:** ⚪ Open
+
+**Civilian / IHL relevance:** No physical-process effect established.
+
+**Stakeholder effect:** Exposed critical-sector administrators face account takeover.
+
+**Source provenance:** FBI index is non-specific; preserve uncertainty over device counts.
+
+**Attribution history:** 6 October warning → 7 October sector summary
+
+### 📚 Sources recorded in CSV
+
+- https://www.fbi.gov/investigate/cyber/alerts/2026
+- https://www.aha.org/news/headline/2026-10-07-agencies-warn-credential-compromising-campaign-actively-targeting-critical-infrastructure-networks
+
+*CSV review date: 2026-10-15; correction status: New — advisory, not one outage.*
+
+---
+
+## 2026-10-07 — IDC Frontier — East Japan Region 1
+
+### 🌍 Japan · Government / administration
+
+**Record type:** Cyber incident
+
+**Sector:** Cloud hosting / government / transport logistics
+
+**What happened:** Ransomware disrupted cloud region from about 03:40 JST 7 October; provider reported 495 affected companies and municipalities; subsequent customer disclosures are downstream updates, not independent intrusions.
+
+**Operational effect:** Virtual servers stopped or failed to restart; customer government and logistics functions affected.
+
+**Physical / data effect:** Some data recovery difficult; downstream exposure claims require customer-specific verification.
+
+**Claim status:** Provider-confirmed ransomware
+
+**Technical operator:** Unknown ransomware operator
+
+**State relationship:** No Iranian state link established.
+
+**Incident confidence:** 🟢 Established
+
+**Effect confidence:** 🟢 Established cloud outage
+
+**Attribution confidence:** ⚪ Open
+
+**Relationship confidence:** 🟢 Established common-provider downstream effects
+
+**Pattern status:** 🟠 Credible shared-dependency cluster
+
+**Iran-war relevance:** High — government and essential transport/logistics reliance
+
+**Iran attribution:** No public Iran evidence
+
+**Rival explanations:** Financial ransomware; unrelated criminal attack.
+
+**Negative findings:** Do not treat 495 clients as 495 separate attacks; no Iran attribution.
+
+**Manual fallback:** Recovery and possible data loss under review
+
+**Organising mechanism:** Shared cloud / virtual-server concentration
+
+**Common operator confidence:** 🟢 Established one shared provider incident
+
+**Strategic campaign confidence:** ⚪ Open
+
+**Civilian / IHL relevance:** Potential protected civilian-service relevance depends on specific customers.
+
+**Stakeholder effect:** Municipalities and logistics users faced service loss.
+
+**Source provenance:** Provider statement controls primary incident count.
+
+**Attribution history:** 7 October incident → later 9–11 October downstream reporting
+
+### 📚 Sources recorded in CSV
+
+- https://www.idcf.jp/news/topics/20261007002
+- https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/
+
+*CSV review date: 2026-10-15; correction status: New — October incident.*
+
+---
+
+## 2026-10-08 — Publica external software supplier
+
+### 🌍 Switzerland · Government / administration
+
+**Record type:** Cyber incident
+
+**Sector:** Federal pension administration / supplier data
+
+**What happened:** Supplier attacked late September; Publica and federal statements disclosed 8 October and confirmed data leakage affecting pension-member information.
+
+**Operational effect:** Pension payments not shown interrupted.
+
+**Physical / data effect:** Member data potentially exposed; scope under investigation.
+
+**Claim status:** Official operator / federal disclosure
+
+**Technical operator:** Unknown
+
+**State relationship:** No state nexus established.
+
+**Incident confidence:** 🟢 Established supplier incident
+
+**Effect confidence:** 🟠 Developing data scope
+
+**Attribution confidence:** ⚪ Open
+
+**Relationship confidence:** ⚪ Open
+
+**Pattern status:** 🟡 Possible recurrence
+
+**Iran-war relevance:** Government financial-data custody dependency
+
+**Iran attribution:** No public Iran evidence
+
+**Rival explanations:** Ordinary criminal breach / extortion.
+
+**Negative findings:** No pension-payment outage established.
+
+**Manual fallback:** Pension payments continued
+
+**Organising mechanism:** Third-party supplier data custody
+
+**Common operator confidence:** ⚪ Open
+
+**Strategic campaign confidence:** ⚪ Open
+
+**Civilian / IHL relevance:** No demonstrated pension-service deprivation.
+
+**Stakeholder effect:** Pension members face confidentiality exposure.
+
+**Source provenance:** Official disclosures; exact occurrence day uncertain.
+
+**Attribution history:** Late September occurrence (exact day not public) → 8 October disclosure
+
+### 📚 Sources recorded in CSV
+
+- https://www.publica.ch/de/ueber-uns/aktuell/cyberangriff-auf-softwarelieferant-von-publica-datenabfluss-bestaetigt
+- https://www.astra.admin.ch/en/newnsb/FjG4XOIms04s
+
+*CSV review date: 2026-10-15; correction status: New — approximate occurrence date.*
+
+---
+
+## 2026-10-08 — Flax Typhoon / Integrity Technology Group tooling
+
+### 🌍 United States / Japan / Poland / Taiwan · Cross-sector / other
+
+**Record type:** Charging / enforcement / attribution update
+
+**Sector:** Energy / transport / education reconnaissance
+
+**What happened:** US DOJ/FBI seized domains used for Microscan/FishHub scanning and spear-phishing; evidence describes targeting of critical infrastructure and university networks. 8 October is enforcement date, not date of all intrusions.
+
+**Operational effect:** Scanning and some intrusions; no specific energy or airport service outage established by seizure.
+
+**Physical / data effect:** Reconnaissance and potential data compromise; no confirmed physical-process effect.
+
+**Claim status:** US law-enforcement action
+
+**Technical operator:** Flax Typhoon / Integrity Technology Group
+
+**State relationship:** US government alleges PRC-linked activity.
+
+**Public government attribution:** US DOJ/FBI enforcement action
+
+**Incident confidence:** 🟢 Established seizure
+
+**Effect confidence:** 🟠 Developing specific intrusions; ⚪ outages unproven
+
+**Attribution confidence:** 🟡 Probable PRC linkage per US government
+
+**Relationship confidence:** ⚪ Open across named targets
+
+**Pattern status:** 🟠 Credible campaign
+
+**Iran-war relevance:** Competing state-linked campaign in same strategic sectors
+
+**Iran attribution:** No Iran nexus
+
+**Rival explanations:** PRC-linked cyberespionage per US allegations; no evidence Iran customer.
+
+**Negative findings:** Scanning ≠ compromise ≠ outage.
+
+**Manual fallback:** Not reported
+
+**Organising mechanism:** Scanning / spear-phishing / law-enforcement disruption
+
+**Common operator confidence:** ⚪ Open
+
+**Strategic campaign confidence:** 🟡 Probable PRC campaign per DOJ; not Iran
+
+**Civilian / IHL relevance:** No proven civilian infrastructure disruption.
+
+**Stakeholder effect:** Potentially targeted sectors face exposure; no demonstrated outage.
+
+**Source provenance:** Official allegation and seizure, not conviction or service disruption.
+
+**Attribution history:** Prior scanning/intrusions → 8 October domain seizure
+
+### 📚 Sources recorded in CSV
+
+- https://www.justice.gov/usao-wdpa/pr/justice-department-and-fbi-seize-vulnerability-scanning-and-spear-phishing-tools
+
+*CSV review date: 2026-10-15; correction status: New — enforcement event.*
+
+---
+
+## 2026-10-11 — Ahold Delhaize and retail brands
+
+### 🌍 Netherlands / Belgium / United States · Transport
+
+**Record type:** Cyber incident / protective shutdown
+
+**Sector:** Food retail logistics / distribution
+
+**What happened:** Network-security incident 11 October; precautionary shutdowns disrupted digital ordering and distribution; company reported controlled restart 13 October and Reuters updated 14 October.
+
+**Operational effect:** Online services and logistics disrupted; physical stores remained open.
+
+**Physical / data effect:** No evidence of customer/employee data theft at 13 October statement.
+
+**Claim status:** Company-confirmed cybersecurity incident
+
+**Technical operator:** Unknown
+
+**State relationship:** No state sponsor established.
+
+**Incident confidence:** 🟢 Established
+
+**Effect confidence:** 🟢 Established service disruption
+
+**Attribution confidence:** ⚪ Open
+
+**Relationship confidence:** ⚪ No demonstrated link to French refrigeration
+
+**Pattern status:** 🟡 Possible recurrence
+
+**Iran-war relevance:** Food distribution and cross-border shared-service continuity
+
+**Iran attribution:** No public Iran evidence
+
+**Rival explanations:** Criminal intrusion; precautionary isolation; other technical fault under review.
+
+**Negative findings:** Not a demonstrated refrigeration-controller compromise; stores open.
+
+**Manual fallback:** Controlled restoration 13 October
+
+**Organising mechanism:** Shared retail IT / distribution dependency
+
+**Common operator confidence:** ⚪ Open
+
+**Strategic campaign confidence:** ⚪ Open
+
+**Civilian / IHL relevance:** Food distribution relevance; no automatic IHL conclusion.
+
+**Stakeholder effect:** Customers experienced online-order and distribution interruptions.
+
+**Source provenance:** Company statements distinguish shutdown from confirmed attack mechanism.
+
+**Attribution history:** 11 October issue → 12 October disclosure → 13 October recovery → 14 October reporting
+
+### 📚 Sources recorded in CSV
+
+- https://newsroom.aholddelhaize.com/ahold-delhaize-takes-precautionary-measures-following-cybersecurity-incident
+- https://newsroom.aholddelhaize.com/update-on-ahold-delhaizes-cybersecurity-incident/
+- https://www.reuters.com/business/albert-heijn-expects-distribution-centres-be-operational-soon-after-cyber-2026-10-14/
+
+*CSV review date: 2026-10-15; correction status: New — October incident.*
+
+---
+
+## 2026-10-11 — Supermarket refrigeration management controllers
+
+### 🌍 France · Energy / utilities
+
+**Record type:** Cyber incident
+
+**Sector:** Food refrigeration / supermarket supply
+
+**What happened:** 11–12 October controller compromises manipulated refrigeration settings; 12 October CERT alert; 13 October reporting expanded device families; 15 October AP reported around 700 affected stores and possible ongoing activity.
+
+**Operational effect:** Refrigeration temperatures altered; food spoilage and some equipment overheating reported.
+
+**Physical / data effect:** Physical food loss; store disruption; no national food shortage established.
+
+**Claim status:** CERT-FR confirmed compromises / press on effects
+
+**Technical operator:** Unknown
+
+**State relationship:** No sponsor established.
+
+**Incident confidence:** 🟢 Established
+
+**Effect confidence:** 🟢 Established physical-process effect
+
+**Attribution confidence:** ⚪ Open
+
+**Relationship confidence:** ⚪ No demonstrated connection to US water or Ahold
+
+**Pattern status:** 🟠 Credible cluster
+
+**Iran-war relevance:** High — cyber-to-physical civilian food preservation
+
+**Iran attribution:** No public Iran evidence
+
+**Rival explanations:** Opportunistic exposed-interface exploitation; vandalism; criminal or targeted sabotage.
+
+**Negative findings:** No verified common operator with water incidents; ~700 is evolving store estimate.
+
+**Manual fallback:** Not fully established; activity possibly ongoing
+
+**Organising mechanism:** Remote management / setting manipulation
+
+**Common operator confidence:** ⚪ Open
+
+**Strategic campaign confidence:** ⚪ Open
+
+**Civilian / IHL relevance:** Civilian food infrastructure; legal assessment requires actor and context.
+
+**Stakeholder effect:** Retailers and consumers suffered food loss and disruption.
+
+**Source provenance:** CERT confirms equipment compromise; media support physical effects and counts.
+
+**Attribution history:** 11–12 October incident → 12 October CERT → 13 October equipment scope → 15 October store estimate
+
+### 📚 Sources recorded in CSV
+
+- https://cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-012/
+- https://www.reuters.com/legal/litigation/investigators-hunt-french-supermarket-fridge-hackers-no-claim-responsibility-2026-10-13/
+- https://apnews.com/article/81c2d5721f4df77f601f71741ef7c291
+
+*CSV review date: 2026-10-15; correction status: New — October incident.*
+
+---
+
+## 2026-10-14 — 16 South Korean financial institutions (regulatory cluster)
+
+### 🌍 South Korea · Financial services
+
+**Record type:** Campaign / regulatory update
+
+**Sector:** Banking / financial services / payment firms
+
+**What happened:** Late September–October intrusions; 14 October FSC disclosed 16 affected firms and approximately 100,000 exposed records. 130 of 555 reviewed firms had security shortcomings, not confirmed attacks.
+
+**Operational effect:** Data exposure; no confirmed core banking, settlement or market outage.
+
+**Physical / data effect:** Approximately 100,000 personal records exposed.
+
+**Claim status:** Financial regulator announcement
+
+**Technical operator:** Common operator under investigation
+
+**State relationship:** No Iranian state affiliation established.
+
+**Incident confidence:** 🟢 Established regulatory cluster
+
+**Effect confidence:** 🟢 Established data effect
+
+**Attribution confidence:** ⚪ Open
+
+**Relationship confidence:** 🟠 Developing possible common operator
+
+**Pattern status:** 🟠 Credible financial cluster
+
+**Iran-war relevance:** Systemically important sector exposure; no systemic interruption
+
+**Iran attribution:** No public Iran evidence
+
+**Rival explanations:** Financial crime; AI-assisted intrusion suspected; unrelated actors possible.
+
+**Negative findings:** 130 deficiencies ≠ 130 breaches; no core payment outage.
+
+**Manual fallback:** Core financial services reportedly operational
+
+**Organising mechanism:** Financial data exposure / possible shared intrusion tooling
+
+**Common operator confidence:** 🟠 Developing
+
+**Strategic campaign confidence:** ⚪ Open
+
+**Civilian / IHL relevance:** No demonstrated systemic financial-service deprivation.
+
+**Stakeholder effect:** Affected account holders face identity/privacy risks.
+
+**Source provenance:** Regulator aggregate; individual incident dates not public.
+
+**Attribution history:** Late September–October intrusions → 14 October regulatory disclosure
+
+### 📚 Sources recorded in CSV
+
+- https://www.fsc.go.kr/eng/pr010101/87928
+- https://www.yna.co.kr/view/AKR20261014134852002
+
+*CSV review date: 2026-10-15; correction status: New — regulatory update, occurrence dates not fixed.*
+
+---
+
 ## 🌌 Constellations
 
 ⏱️ 🕸️ 🚰 🧬 🤖 — chronology; attribution; operational technology; overlapping threat ecosystems; AI-assisted capability diffusion.
@@ -3800,4 +4687,4 @@ It provides the chronological evidentiary spine for the *🇮🇷 Data Wars: IRG
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-21_
+_Last updated: 2026-10-15_
