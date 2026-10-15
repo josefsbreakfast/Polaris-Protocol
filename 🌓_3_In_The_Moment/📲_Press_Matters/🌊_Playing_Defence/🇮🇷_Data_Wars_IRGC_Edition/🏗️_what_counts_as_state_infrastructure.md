@@ -1,5 +1,5 @@
 # 🏗️ What Counts As State Infrastructure
-**First created:** 2026-08-01 | **Last updated:** 2026-09-14  
+**First created:** 2026-08-01 | **Last updated:** 2026-10-15  
 *The test is what the system does, not whether the organisation running it is formally part of the state.*
 
 ---
@@ -1748,6 +1748,108 @@ That is still the line.
 
 ---
 
+## 🧮 October 2026 Reconciliation — The Perimeter Follows The Failure
+
+**Review date:** 15 October 2026. This section supplements the **14 September 2026** perimeter assessment below; it does not rewrite that historical baseline. The September–October source-verification working paper distinguishes supported incidents from advisories, investigations, exposure and unresolved leads. Each case still requires proposition-level source review before publication as a definitive finding.
+
+The October material makes the functional test more exact, not more permissive. **An important organisation is not automatically a disrupted essential service.** A compromised provider is not automatically proof that every customer was compromised. And an incident occurring during the Iran war is not, without additional evidence, an Iranian operation.
+
+### 🧊 Food preservation is physical infrastructure
+
+The October French supermarket refrigeration-controller reporting is a useful extension of the water and energy examples. The source-verification working paper records reported compromise of remote refrigeration controls and resulting temperature or food-preservation effects. Its precise scale, affected equipment and chronology should be reconciled with the original CERT-FR alert and subsequent reporting before figures are fixed.
+
+```text
+RETAIL PREMISES
+→ REFRIGERATION CONTROL / TEMPERATURE INTEGRITY
+→ FOOD SAFETY AND PRESERVATION
+→ STOCK LOSS / SUPPLY CONSEQUENCE
+```
+
+This can be a **cyber-to-physical effect** without a blackout, contaminated water or port shutdown. The question is which physical process changed, whether it produced actual loss or unsafe conditions, and who carried the consequence. A supermarket refrigeration incident is not automatically a national food-supply crisis; nor is it merely a website problem. No common operator with US water incidents, or an Iran nexus, is established by the working evidence.
+
+**Verification targets:** [CERT-FR refrigeration alert](https://cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-012/) and contemporaneous [Reuters reporting](https://www.reuters.com/legal/litigation/investigators-hunt-french-supermarket-fridge-hackers-no-claim-responsibility-2026-10-13/).
+
+### ☁️ One provider, many dependent services — not many independent attacks
+
+The reported **7 October IDC Frontier / IDCF Cloud ransomware incident** in Japan illustrates concentration risk. The working source review identifies disruption to shared cloud services used by companies and municipalities. The number of dependent customers is **not** the number of independent intrusions; nor does cloud downtime demonstrate that all downstream records were stolen or all public services stopped.
+
+```text
+SHARED CLOUD PROVIDER COMPROMISED
+→ HOSTED SERVICE INTERRUPTED
+→ DEPENDENT CUSTOMER'S ACTUAL FUNCTION AFFECTED?
+→ PUBLIC / ESSENTIAL CONSEQUENCE EVIDENCED?
+```
+
+Each arrow needs evidence. Where a municipality's hosted service fails, classify the affected **function** and **duration**, not merely the municipality's name. Where a customer reports no essential-service effect, retain the provider incident without inventing one.
+
+**Verification target:** [IDC Frontier incident notice, 7 October](https://www.idcf.jp/news/topics/20261007002).
+
+### 🪪 Identity registries and public administration are infrastructure even without an outage
+
+The Danish CPR-register access incident, described in the source-verification working paper as abuse of delegated private-company access, is a boundary case for **information and decision infrastructure**. The reported query count is not interchangeable with a count of currently living affected residents, and the episode does not itself demonstrate interruption of registry availability.
+
+```text
+LEGITIMATE THIRD-PARTY ACCESS
+→ UNAUTHORISED QUERIES / DATA EXPOSURE
+→ IDENTITY AND FRAUD RISK
+≠ REGISTRY SERVICE SHUTDOWN
+```
+
+State-scale data custody matters because identity information is reused by other institutions. Actual downstream account fraud, denied services or administrative decisions must be documented rather than assumed. The original argument about people remaining exposed after systems recover therefore becomes more, not less, important.
+
+**Verification target:** [Danish CPR administration notice, 5 October](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger).
+
+### 🏦 Confidentiality, payment continuity and settlement must remain separate
+
+The October working review identifies a South Korean financial-data cluster and a Swiss public-pension supplier incident. Both are relevant to the perimeter through **data custody, fraud exposure and shared dependencies**. Neither should be used as evidence of clearing, settlement, account-balance manipulation or interrupted pension payments without separate proof.
+
+```text
+FINANCIAL DATA EXPOSED
+≠ PAYMENT RAILS DISRUPTED
+≠ CLEARING OR SETTLEMENT FAILED
+
+PENSION SUPPLIER AFFECTED
+≠ PENSION PAYMENTS STOPPED
+```
+
+The number of institutions examined for security weaknesses must not be counted as the number breached. Financial-system importance is functional, not an invitation to promote a confidentiality event into a systemic availability event.
+
+**Verification targets:** [South Korean Financial Services Commission](https://www.fsc.go.kr/eng/pr010101/87928) and [PUBLICA supplier incident statement](https://www.publica.ch/de/ueber-uns/aktuell/cyberangriff-auf-softwarelieferant-von-publica-datenabfluss-bestaetigt).
+
+### 🚰 Administrative shutdown is not operational-technology shutdown
+
+The reported Vicksburg municipal ransomware incident is a useful example of **administrative disruption with essential delivery maintained**. The working review reports effects on municipal billing and administration while water, gas and emergency services continued. It should not be coded as an attack on water-control equipment or a 911 outage. Conversely, continued physical service does not erase the public's administrative and payment burden.
+
+The same discipline applies to precautionary shutdowns and advisories: **defensive interruption is a consequence worth recording, but not proof that the defended system was breached**.
+
+### 🌐 Trust, remote access and assurance are dependency layers
+
+The working review also identifies October-reported DNS-registry compromise, edge-device exploitation and a certification-provider breach. These can affect **trust, access and technical knowledge** across many sectors, but they should be routed as *upstream exposure* until a particular essential-service consequence is demonstrated.
+
+- **DNS / certificate infrastructure:** establish the registry or trust-system event before inferring interception or customer compromise.
+- **VPN / gateway appliances:** distinguish exploitation and credential access from operational interruption or industrial-control manipulation.
+- **Certification and assurance suppliers:** stolen documents may create future targeting intelligence without proving that certified facilities were themselves compromised.
+- **Government enforcement or security warnings:** record them as attribution or defensive intelligence updates, not automatically as fresh incidents.
+
+### 🧭 Revised inclusion decision — six separate propositions
+
+For each new candidate, ask:
+
+```text
+1. WHAT WAS THE AFFECTED FUNCTION?
+2. WHICH SYSTEM OR SUPPLIER WAS ACTUALLY REACHED?
+3. WHAT CONFIDENTIALITY, INTEGRITY, AVAILABILITY OR PHYSICAL EFFECT OCCURRED?
+4. WHO DEPENDED ON THAT FUNCTION, AND WHAT FALLBACK WAS REQUIRED?
+5. WHAT IS ESTABLISHED ABOUT THE ACTOR, OPERATOR AND ANY STATE DIRECTION?
+6. DOES THE EVIDENCE JUSTIFY CORE INCIDENT, ADJACENT WATCH, ADVISORY OR EXCLUSION?
+```
+
+Keep **occurrence, discovery, disclosure and attribution-update dates** separate. Keep the three incident/effect/attribution confidence judgements separate. Do not count downstream customers twice when one shared-provider incident explains the effects. And do not mistake a useful analytic analogy for evidence of a common campaign.
+
+**Editorial status:** These comparisons draw on the local [September–October source-verification working paper](./📚_sources_and_evidence_register.md) and its source targets. The companion chronology is a register, **not independent corroboration**. Any case-specific number or operational claim should be checked against the cited primary publication before final evidentiary promotion.
+
+---
+
 ## 🌌 Constellations
 
 🏗️ 🚰 ⚡ 🏥 🏦 📡 🕸️ 🧭 — essential infrastructure; water; energy; health; banking; telecommunications; shared dependencies; coordination systems.
@@ -1756,11 +1858,11 @@ That is still the line.
 
 ## ✨ Stardust
 
-state infrastructure, critical infrastructure, essential services, public contractors, water, energy, health, hospital facility systems, education, banking, transport, logistics, telecommunications, government data, operational technology, shared software, suppliers, court systems, public function, dependency, substitutability, manual fallback, coordination infrastructure, alliance reliability, civilian protection
+state infrastructure, critical infrastructure, essential services, October 2026 reconciliation, refrigeration control, food preservation, shared cloud providers, identity registry, data confidentiality, payment continuity, public contractors, water, energy, health, hospital facility systems, education, banking, transport, logistics, telecommunications, government data, operational technology, shared software, suppliers, court systems, public function, dependency, substitutability, manual fallback, coordination infrastructure, alliance reliability, civilian protection
 
 ---
 
-## 🏮 Footer
+## 🏾 Footer
 
 *🏗️ What Counts As State Infrastructure* is a living node of the **Polaris Protocol**.  
 It defines the functional perimeter for incidents included in the *🇮🇷 Data Wars: IRGC Edition* timeline while keeping essential state function separate from lawful military targetability.
@@ -1781,7 +1883,7 @@ It defines the functional perimeter for incidents included in the *🇮🇷 Data
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
 > - [🏥 Health, Education And Admin Are Not Soft Extras](./🏥_health_education_and_admin_are_not_soft_extras.md) — *civilian systems as state function*
 > - [🏦 Banks Are Part Of The Battlespace](./🏦_banks_are_part_of_the_battlespace.md) — *financial infrastructure and confidence*
-> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology through 14 September 2026*
+> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *chronology and October reconciliation; verify incident-level evidence*
 > - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating essential-function effects from shared-vulnerability and criminal exposure patterns*
 >
 > 🏮 Return To:
@@ -1794,4 +1896,4 @@ It defines the functional perimeter for incidents included in the *🇮🇷 Data
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-14_
+_Last updated: 2026-10-15_

@@ -1,5 +1,5 @@
 # 🚰 When Cyber Reaches The Machinery
-**First created:** 2026-08-01 | **Last updated:** 2026-09-14  
+**First created:** 2026-08-01 | **Last updated:** 2026-10-15  
 *The threshold changes when a cyber incident begins reaching the systems that monitor, control, or physically alter water, energy, fuel, transport, healthcare-support, or other essential processes.*
 
 ---
@@ -10,7 +10,7 @@ A stolen database and a manipulated pump are both cyber incidents.
 
 They are not the same kind of incident.
 
-When cyber activity reaches operational technology, industrial control systems, programmable logic controllers, sensors, valves, pumps, substations, treatment equipment, building-management systems, access-control systems, or other physical processes, the consequences can move beyond:
+When cyber activity reaches cold chain, refrigeration controllers, shared-service dependencies, verification holds, operational technology, industrial control systems, programmable logic controllers, sensors, valves, pumps, substations, treatment equipment, building-management systems, access-control systems, or other physical processes, the consequences can move beyond:
 
 - confidentiality;
 - inaccessible files;
@@ -944,6 +944,71 @@ It begins when the attacker learns:
 ### Source
 
 - [Anthropic: “Countering misuse of AI: September 2026”](https://www.anthropic.com/threat-intelligence-report-september-2026)
+
+---
+
+## 🧊 October 2026 Reconciliation — Refrigeration, Shared Services And The Physical Boundary
+
+*Review added: 15 October 2026. The September assessment below is retained as a dated baseline, not silently rewritten as an October finding.*
+
+### 🧊 Refrigeration belongs in the machinery question
+
+Cold-chain equipment can be operational technology even when it sits in a supermarket, warehouse, food distributor or logistics depot rather than a traditional utility. Temperature controllers, building-management systems, alarms and remote maintenance links may govern the conditions under which food or medicines remain usable.
+
+**Verification hold:** The companion chronology contains leads concerning French refrigeration-controller incidents. Those leads have **not been independently corroborated for this revision**. They must not be presented here as confirmed attacks, confirmed physical spoilage or evidence of Iranian responsibility. Before promoting a lead to an incident finding, establish the affected operator, original disclosure, incident date, controller or system involved, observed commands, temperature or process effects, and whether any stock was actually lost.
+
+The useful distinction is:
+
+```text
+REFRIGERATION CONTROLLER EXPOSED
+≠ CONTROLLER COMPROMISED
+≠ SETTING ALTERED
+≠ TEMPERATURE EXCURSION
+≠ STOCK SPOILED
+≠ FOOD SUPPLY INTERRUPTED
+```
+
+Where records permit, also distinguish a loss of remote temperature monitoring from a loss of local refrigeration. The former can impose urgent inspection and manual-check labour even when cooling continues.
+
+### ☁️ Shared infrastructure can affect machinery without controlling it
+
+October leads involving shared cloud, identity, DNS, remote-access and service-provider infrastructure warrant **dependency analysis**, not automatic promotion to OT incidents. A supplier or identity system may sit upstream of the people and services that operate physical equipment. That is a potential route to operational consequences, not proof of a crossed control boundary.
+
+Record separately:
+
+```text
+UPSTREAM SERVICE AFFECTED:
+OPERATOR DEPENDENCE DEMONSTRATED:
+REMOTE VIEW LOST:
+REMOTE CONTROL LOST:
+LOCAL CONTROL AVAILABLE:
+CONTROLLER COMMAND OBSERVED:
+PHYSICAL PROCESS CHANGED:
+MANUAL FALLBACK REQUIRED:
+PUBLIC SERVICE OR HUMAN CONSEQUENCE:
+```
+
+An identity-register disclosure, banking-system intrusion or administrative outage is not evidence of machinery manipulation unless the causal link to the operational environment is shown. Likewise, a shared-provider compromise does not establish compromise of every downstream customer.
+
+### 🧮 Reconciliation rules for the October timeline
+
+For each new machinery-related entry, preserve **event date**, **discovery date**, **public disclosure date** and **last verification date** independently. Identify whether the underlying source is an operator statement, regulator or agency advisory, technical investigation, news report or actor claim. A claim copied between reports is not independent corroboration.
+
+The access ladder remains useful, but a **physical outcome can sometimes be confirmed without the public technical path being known**. Record the observed outcome and mark the intermediate access levels unknown; do not fill them in by inference. Conversely, access or read/write capability without a demonstrated command does not become a physical attack.
+
+Do not collapse these categories:
+
+- **Confirmed incident:** an event supported by attributable evidence.
+- **Reported incident:** a named report whose claims still require evaluation.
+- **Advisory or exposure:** a risk or vulnerability, not proof of exploitation.
+- **Working lead:** a chronology entry awaiting source-level confirmation.
+- **Analytical scenario:** a possible consequence, explicitly not an observed event.
+
+### 🧭 October assessment boundary
+
+The September examples below remain the node's documented historical baseline. The October material presently adds **classification questions and verification targets**, not independently established new cyber-to-physical outcomes. It therefore does not justify changing the September confidence labels or asserting a single cross-sector campaign.
+
+The central question is still not merely whether something digital was attacked. It is **what happened to the physical process, what remained safe, and who had to absorb the labour of keeping it safe**.
 
 ---
 
@@ -2070,7 +2135,7 @@ operational technology, industrial control systems, programmable logic controlle
 
 ---
 
-## 🏮 Footer
+## 🏾 Footer
 
 *🚰 When Cyber Reaches The Machinery* is a living node of the **Polaris Protocol**.  
 It identifies and grades the threshold at which cyber activity moves from information systems into the monitoring, control, manipulation, protective systems, physical effects, segmentation boundaries, and human fallback labour of the machinery beneath ordinary life.
@@ -2086,7 +2151,7 @@ It identifies and grades the threshold at which cyber activity moves from inform
 > - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *access brokerage, layered tasking and later operational use*
 > - [🗺️ Who Iran Sees As Inside The War](./🗺️_who_iran_sees_as_inside_the_war.md) — *threat-exposure map and coalition context*
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
-> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live chronology through 14 September 2026*
+> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *chronology with later entries subject to source-level verification*
 > - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating the Iran-facing OT wave from simultaneous criminal and administrative incidents*
 > - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *claim-level evidence, provenance and source independence*
 >
@@ -2100,4 +2165,4 @@ It identifies and grades the threshold at which cyber activity moves from inform
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-14_
+_Last updated: 2026-10-15_
