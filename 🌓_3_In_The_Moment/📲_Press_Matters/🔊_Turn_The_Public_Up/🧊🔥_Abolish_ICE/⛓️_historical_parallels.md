@@ -1,5 +1,5 @@
 # ⛓️ Historical Parallels
-**First created:** 2026-10-15 | **Last updated:** 2026-10-15  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-15  
 *How empires, slave economies, welfare institutions and security states organise confinement — and what that history asks of immigration enforcement now.*
 
 ---
