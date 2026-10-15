@@ -4,6 +4,16 @@
 
 ---
 
+> “Als die Nazis die Kommunisten holten,
+habe ich geschwiegen; ich war ja kein Kommunist.”
+>
+> “When the Nazis came for the communists,
+I kept quiet; I wasn't a communist.”  
+
+Except they didn’t; there were other people they came for first.  
+
+---
+
 ## 🛰️ Orientation
 
 It is tempting to begin a history of American immigration enforcement with the Cold War, the creation of Immigration and Customs Enforcement (ICE), or the latest president to make deportation a political spectacle. All three starting points are too late.
