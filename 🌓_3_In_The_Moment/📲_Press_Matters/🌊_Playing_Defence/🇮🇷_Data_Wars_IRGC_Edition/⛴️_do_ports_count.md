@@ -1,5 +1,5 @@
 # ⛴️ Do Ports Count?
-**First created:** 2026-08-12 | **Last updated:** 2026-09-14  
+**First created:** 2026-08-12 | **Last updated:** 2026-10-15  
 *Why a cyber incident at a port belongs in an essential-state-infrastructure watch even when the cranes keep moving.*
 
 ---
@@ -1113,6 +1113,60 @@ It does not lower the proof threshold.
 
 ---
 
+## 🧭 October 2026 Reconciliation — What The New Register Does And Does Not Change
+
+The essential-infrastructure chronology was extended through **15 October 2026**. This node should therefore be read alongside the current [incident register](./📊_iran_war_essential_infrastructure_cyber_timeline.csv), rather than treating its September examples as an exhaustive account of the later reporting period.
+
+**The conceptual finding survives the update:** a port's exposure is not confined to its cranes, its own corporate network, or an intrusion physically located on port property. Identity services, network appliances, domain-name infrastructure, logistics suppliers, cloud services and energy providers may all be operational dependencies. **Exposure, however, is not the same thing as an observed port incident.**
+
+### 🧮 Four evidentiary gates for newly reported campaigns
+
+When an October disclosure concerns a product, service or supplier that ports might use, ask four different questions:
+
+1. **Affected technology:** Is the reported vulnerability, compromised service or access method used in port or maritime operations? A product-family match alone does not establish local exposure.
+2. **Affected organisation:** Is a particular port authority, terminal operator, shipping line, warehouse, customs service or contractor named as a victim? Sector-wide advisories are not victim lists.
+3. **Affected function:** Is there evidence of delayed gate processing, cargo release, vessel coordination, customs clearance, safety operations or throughput? A data breach may be serious without causing a demonstrated transport interruption.
+4. **Responsible actor and relationship to the war:** Is attribution supported by independent technical evidence, a public government finding or only an actor's claim? Neither geography nor the timing of a disclosure supplies an Iran connection.
+
+Record the answers separately. **Do not promote a warning about a shared product into a port compromise, or a supplier compromise into a proven downstream outage.**
+
+### 🕸️ A disclosure date is not an attack date
+
+The October additions to the wider register include different *kinds* of records: reported incidents, later disclosures, defensive advisories, investigative or attribution developments, and enforcement actions. These cannot be counted as a single uninterrupted sequence of new port attacks.
+
+For maritime relevance, distinguish:
+
+```text
+INITIAL ACTIVITY DATE:       known / estimated / unknown
+FIRST PUBLIC DISCLOSURE:    date and reporting organisation
+DEFENSIVE ADVISORY:         product / sector / exposure only
+PORT VICTIM IDENTIFIED:     yes / no / not yet established
+PORT FUNCTION DISRUPTED:    demonstrated / suspected / not established
+IRAN-WAR CONNECTION:        evidenced / hypothesised / none established
+```
+
+An advisory may justify a port operator checking its own environment. It does **not** justify recording a port outage. Likewise, a ransomware incident at a shared logistics or cloud provider may warrant monitoring for downstream effects, but those effects need evidence before they become separate incident records.
+
+### ⚓ Additional operational dependencies worth testing
+
+The expanded chronology makes it useful to ask whether port resilience planning has explicitly covered:
+
+- **DNS, certificate and identity integrity:** can gates, customs platforms and partner systems authenticate and exchange records if name resolution or trust services are compromised?
+- **Remote access and managed appliances:** which vendors can reach terminal, fuel, security and scheduling environments, and how is emergency access revoked?
+- **Cloud and shared-service outages:** which functions can continue locally, and for how long, when a regional provider fails?
+- **Refrigerated cargo and cold-chain systems:** are monitoring, alarms, physical controls and product-integrity records separable, and is a manual fallback credible?
+- **Data integrity as well as availability:** can the port safely release cargo if manifests or clearance records are accessible but cannot be trusted?
+
+These are **resilience questions**, not assertions that the October cases compromised any particular port.
+
+### 🔎 Verification hold
+
+The revised chronology is a useful research index, but inclusion in that register is **not independent source verification**. Before citing any new October entry here as a factual example, confirm the primary disclosure, affected organisation, actual operational effect, event date and source provenance. Claims that are not independently corroborated should remain **research leads**, not established incidents.
+
+The existing North Carolina and CEVA examples remain the node's concrete port/logistics comparisons pending that check. The earlier Siemens and PaperCut discussions are retained as **cross-sector exposure models**, not evidence of port compromise.
+
+---
+
 ## 🌊 The Wider Principle
 
 Essential infrastructure should be classified by **function**, not aesthetics.
@@ -1150,17 +1204,17 @@ That is why ports count.
 
 ## 🌌 Constellations
 
-⛴️ 🌊 📡 ⚡ 🧅 🕸️ 🧱 — maritime logistics; infrastructure interdependence; telecommunications; energy dependency; access markets; attribution discipline; alliance seams.
+⛴️ 🌊 📡 ⚡ 🧅 🕸️ 🧱 🔎 — maritime logistics; infrastructure interdependence; telecommunications; energy dependency; access markets; attribution discipline; alliance seams; October evidence reconciliation.
 
 ---
 
 ## ✨ Stardust
 
-critical infrastructure, ports, maritime transport, logistics, warehouses, cyber disruption, operational technology, telecommunications, energy dependency, supply chains, access brokers, shared suppliers, alliance logistics, second-order effects, attribution, iran, infrastructure coercion, North Carolina Ports, manual fallback, Siemens S7, dual-use infrastructure, military logistics
+critical infrastructure, ports, maritime transport, logistics, warehouses, cyber disruption, operational technology, telecommunications, energy dependency, supply chains, access brokers, shared suppliers, alliance logistics, second-order effects, attribution, iran, infrastructure coercion, North Carolina Ports, manual fallback, Siemens S7, dual-use infrastructure, military logistics, October 2026, disclosure date, DNS integrity, identity providers, cold chain, source verification
 
 ---
 
-## 🏮 Footer
+## 🏾 Footer
 
 *⛴️ Do Ports Count?* is a living node of the **Polaris Protocol**.  
 It defines why maritime logistics belongs within essential-state-infrastructure monitoring while preserving the distinction between ordinary IT compromise, operational disruption, OT interference, dependency failure, alliance friction and state attribution.  
@@ -1169,6 +1223,7 @@ Its purpose is to widen the sensor without lowering the evidentiary threshold.
 > 📡 Cross-references:
 >
 > - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *incident chronology and attribution tracking*
+> - [📊 Essential Infrastructure Cyber Timeline (CSV)](./📊_iran_war_essential_infrastructure_cyber_timeline.csv) — *dated register; source claims require independent checking*
 > - [🏗️ What Counts As State Infrastructure](./🏗️_what_counts_as_state_infrastructure.md) — *functional boundaries for inclusion in the watch*
 > - [🕸️ Attribution Is Not A Light Switch](./🕸️_attribution_is_not_a_light_switch.md) — *confidence gradients and competing explanations*
 > - [🧅 The Operator May Not Know The Customer](./🧅_the_operator_may_not_know_the_customer.md) — *intermediaries, proxies, affiliates, access markets and obscured tasking*
@@ -1189,4 +1244,4 @@ Its purpose is to widen the sensor without lowering the evidentiary threshold.
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-14_
+_Last updated: 2026-10-15_

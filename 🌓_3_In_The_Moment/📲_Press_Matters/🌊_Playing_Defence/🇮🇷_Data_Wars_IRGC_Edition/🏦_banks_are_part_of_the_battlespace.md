@@ -1,5 +1,5 @@
 # 🏦 Banks Are Part Of The Battlespace
-**First created:** 2026-08-01 | **Last updated:** 2026-09-14  
+**First created:** 2026-08-01 | **Last updated:** 2026-10-15  
 *Money, access, confidence, payment continuity, and settlement are strategic infrastructure even when the institutions providing them are privately owned.*
 
 ---
@@ -1760,19 +1760,96 @@ That is why banks are part of the battlespace.
 
 ---
 
+## 🧮 October 2026 Reconciliation — Financial Exposure Is Not Payment-System Failure
+
+*Review date: 15 October 2026. The September assessment below is retained as a dated baseline, not silently rewritten as an October finding.*
+
+The expanded chronology raises two particularly useful financial-sector questions: what happened to **financial information**, and what happened to **the ability to move money**? Those questions must be answered independently. An intrusion affecting a bank, pension administrator or shared technology provider is not automatically an incident affecting payment rails, clearing, settlement, liquidity or balances.
+
+### 🇰🇷 South Korea — Financial-sector data exposure, not demonstrated settlement failure
+
+The October chronology contains a **candidate** cluster concerning reported compromises or exposures involving South Korean financial institutions. The working lead refers to multiple institutions and personal-information records, alongside a broader security-review exercise. These are different populations: a count of institutions examined for security weaknesses must **not** be added to a count of confirmed breach victims.
+
+Until the relevant regulator's original release and institution-level notices have been checked, preserve the following status:
+
+```text
+FINANCIAL-INSTITUTION INCIDENT COUNT: verification pending
+PERSONAL-RECORD EXPOSURE: reported; scope pending primary-source check
+CUSTOMER ACCOUNT / BALANCE MANIPULATION: not established
+PAYMENT PROCESSING INTERRUPTION: not established
+CLEARING / SETTLEMENT INTERRUPTION: not established
+COMMON OPERATOR / SPONSOR: not established
+IRAN CONNECTION: no supporting evidence identified in the working lead
+```
+
+This is not a dismissal of data theft. Financial records can enable fraud, identity abuse, impersonation and persistent person-centred risk. It is a refusal to promote a **confidentiality proposition** into an unsupported **systemic availability proposition**.
+
+### 🇨🇭 Switzerland — Pension-provider exposure and the continuity boundary
+
+A second October working lead concerns a Swiss public-pension administrator and an external supplier. The reported distinction is between possible data exposure through a supplier and the continuation of pension payments. Both require verification against the administrator's and supplier's primary notices before being presented as confirmed incident findings.
+
+```text
+SUPPLIER ACCESS OR DATA EXPOSURE: working lead; primary-source check required
+PENSION-PAYMENT INTERRUPTION: not established in the working lead
+PENSION ENTITLEMENT / BALANCE ALTERATION: not established
+DOWNSTREAM FRAUD OR IDENTITY MISUSE: risk to assess, not an observed outcome
+IRAN CONNECTION: not established
+```
+
+The general mechanism matters regardless of whether this particular lead survives verification: **payment continuity and confidentiality can move in opposite directions**. The money may arrive while the person's information remains exposed. Conversely, a payment may fail without any data theft.
+
+### 🏢 Shared cloud, identity and administrative providers
+
+The October chronology also includes candidate reporting on shared cloud and identity-system incidents outside banking. These belong in this node as **dependency tests**, not additional banking victims. A cloud-provider compromise can affect many customers without demonstrating access to each customer's payment systems; an identity-register query event can create fraud risk without showing that bank authentication or balances were compromised.
+
+The analytical chain must be evidenced at each join:
+
+```text
+UPSTREAM PROVIDER EVENT
+→ FINANCIAL CUSTOMER ACTUALLY DEPENDENT ON PROVIDER?
+→ FINANCIAL SERVICE OR DATA ACTUALLY REACHED?
+→ CUSTOMER / PAYMENT / DECISION EFFECT OBSERVED?
+→ RECOVERY AND CONTINUING HUMAN CONSEQUENCES?
+```
+
+Where a join is unknown, record **unknown**. Do not turn shared infrastructure into shared victimhood.
+
+### 🧭 Chronology and confidence rules for the October pass
+
+- Record **event date**, **discovery date**, **public disclosure date** and **last verification date** separately. An October disclosure does not necessarily describe an October intrusion.
+- Distinguish **incident**, **regulatory inspection**, **security advisory**, **actor claim**, **investigation** and **confirmed operational disruption**. They should not be summed as equivalent attacks.
+- Preserve independent status for **confidentiality**, **availability**, **transaction integrity**, **clearing**, **settlement**, **identity decisions** and **person-centred consequences**.
+- A number of institutions reporting weaknesses is **not** a number of institutions breached. A number of records queried is **not** automatically a number of people whose identities were stolen.
+- A successful fallback or continued payment is a resilience observation, **not** evidence that confidentiality or individual safety was preserved.
+- Preserve the three separate attribution questions: **who accessed the system**, **who later used the data or access**, and **whether any state directed the activity**.
+- Do not treat appearance in the companion CSV or Markdown chronology as independent corroboration. Recheck the primary publication, publication date, and subsequent corrections before promoting a working lead to established fact.
+
+### 📚 Source-verification queue
+
+These are **verification targets**, not citations offered as proof of the candidate incidents:
+
+- South Korea: Financial Services Commission and Financial Supervisory Service notices, plus affected institutions' own disclosures.
+- Switzerland: PUBLICA pension fund notices and the relevant supplier's incident statement.
+- Japan: IDC Frontier's primary incident communications, if shared-cloud dependencies are used as a comparison.
+- Companion chronology: reconcile exact dates, source tiers and proposition-level confidence against the [incident timeline](./⏱️_timeline_of_essential_infrastructure_attacks.md) and [evidence register](./📚_sources_and_evidence_register.md).
+
+**Editorial hold:** No new October case in this section is labelled independently verified by this revision. The next evidence-register pass should either promote it with primary-source support, correct it, or remove it from the incident count.
+
+---
+
 ## 🌌 Constellations
 
-🏦 💳 📉 🧾 📡 🧅 🔗 ⚖️ — banking; payments; confidence; financial data; telecom dependency; commissioning chains; systemic dependencies; civilian protection.
+🏦 💳 📉 🧾 📡 🧅 🔗 ⚖️ 🪪 — banking; payments; confidence; financial data; telecom dependency; commissioning chains; systemic dependencies; civilian protection.
 
 ---
 
 ## ✨ Stardust
 
-banks, payments, financial infrastructure, cyberattack, confidence, customer data, sanctions, fraud, decision integrity, payment continuity, economic disruption, clearing, settlement, financial integrity, government payments, commissioning, payer, beneficiary, capability markets, access brokers, shared providers, paperCut, Fiserv, Mabna Institute, telecom dependency, energy shock, policy uncertainty, alliance confidence, dual-use infrastructure, international humanitarian law
+banks, payments, financial infrastructure, cyberattack, confidence, customer data, sanctions, fraud, decision integrity, payment continuity, economic disruption, clearing, settlement, financial integrity, government payments, commissioning, payer, beneficiary, capability markets, access brokers, shared providers, South Korea financial data, Swiss pension suppliers, confidentiality versus settlement, October 2026 verification, PaperCut, Fiserv, Mabna Institute, telecom dependency, energy shock, policy uncertainty, alliance confidence, dual-use infrastructure, international humanitarian law
 
 ---
 
-## 🏮 Footer
+## 🏾 Footer
 
 *🏦 Banks Are Part Of The Battlespace* is a living node of the **Polaris Protocol**.  
 It explains why banking, payments, clearing, settlement, customer data, financial confidence, sanctions processing, and their dependencies belong inside essential-infrastructure cyber analysis while keeping strategic importance distinct from legal targetability.
@@ -1791,7 +1868,7 @@ It explains why banking, payments, clearing, settlement, customer data, financia
 > - [📰 How To Report Without Overclaiming](./📰_how_to_report_without_overclaiming.md) — *claim-level wording and proposition control*
 > - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *source provenance and evidence audit trail*
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
-> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live chronology through 14 September 2026*
+> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *chronology and October reconciliation; source verification remains case-specific*
 > - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *keeping criminal, state-linked and access-market activity separate*
 >
 > 🏮 Return To:
@@ -1804,4 +1881,4 @@ It explains why banking, payments, clearing, settlement, customer data, financia
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-14_
+_Last updated: 2026-10-15_

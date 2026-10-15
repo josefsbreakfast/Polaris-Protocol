@@ -1,5 +1,5 @@
 # 🏥 Health, Education And Admin Are Not Soft Extras
-**First created:** 2026-08-01 | **Last updated:** 2026-09-14  
+**First created:** 2026-08-01 | **Last updated:** 2026-10-15  
 *Civilian systems are not peripheral to the state. They are how the state recognises people, allocates rights, preserves continuity, and keeps ordinary life from collapsing.*
 
 ---
@@ -1752,7 +1752,7 @@ That is the real measure of the incident.
 
 ---
 
-## 🧠 Current Assessment — 14 September 2026
+## 🧠 September Assessment — 14 September 2026
 
 The September evidence strengthens several propositions:
 
@@ -1801,19 +1801,129 @@ That does not make the harm less infrastructural.
 
 ---
 
+## 🗓️ October Reconciliation — Identity, Public Administration And Shared Providers
+
+*Review date: 15 October 2026. The following are reconciliation leads from the companion chronology and CSV, not a claim that every underlying October report has been independently reverified for this revision. Retain their source-specific confidence and correction status in the evidence register.*
+
+The September assessment remains the baseline. The newer entries widen the **functions to examine**; they do not establish a common operator, a coordinated attack on civilian administration, or Iranian sponsorship.
+
+### 🪪 Denmark — A query is not an outage
+
+The chronology records alleged automated querying of Denmark's CPR identity register through an authorised private access relationship, with disclosure and review dates in early October. The reported scale of queries is **not automatically a count of unique people whose records were exposed**; repeated queries, access permissions, extracted fields and verified disclosure must be separated.
+
+For the incident ledger, distinguish:
+
+```text
+ACCESS CHANNEL: authorised interface / allegedly abused
+QUERY VOLUME: reported, pending source-level verification
+UNIQUE PEOPLE AFFECTED: not inferred from query count
+DATA ACTUALLY RETURNED OR RETAINED: separately evidenced
+REGISTRY AVAILABILITY: no outage established in the companion record
+RECORD ALTERATION: not established
+IRAN CONNECTION: not established
+```
+
+An identity register can remain available and accurate while its **confidentiality boundary** is tested or crossed. That is precisely why this node distinguishes identity infrastructure from a simple service-availability measure. It does **not** justify describing an alleged querying incident as the destruction or corruption of a national identity register.
+
+### 🏛️ Vicksburg — Continuity does not erase administrative loss
+
+The companion register dates the City of Vicksburg incident to **1 October** and describes disruption to billing and administration while water and gas delivery, 911 and public-safety functions reportedly remained available. This is a useful *provisional* comparison with Suisun City and Darlington County, subject to confirmation from municipal notices or other primary reporting.
+
+The proposition to test is not that emergency services failed. It is that ordinary public-facing state functions can be degraded while higher-priority functions continue.
+
+```text
+PUBLIC-SAFETY SERVICE OUTAGE: not established
+UTILITY DELIVERY INTERRUPTION: not established
+BILLING / ADMINISTRATIVE DISRUPTION: reported
+CONTINUITY MECHANISM: check against municipal account
+DATA THEFT / RECORD TAMPERING: not established by this summary
+COMMON ACTOR WITH EARLIER US CASES: not established
+```
+
+### ☁️ Japan — The cloud customer is not the cloud operator
+
+The **7 October** IDC Frontier entry reports a ransomware-related interruption affecting virtual servers and downstream customers, including public-sector services. The precise affected customer list, scale, recovery status and dates require source-level checking before promotion to established findings.
+
+Even where a municipality's website or hosted system becomes unavailable, distinguish **provider compromise**, **customer outage**, **customer data compromise** and **failure of a statutory service**. A shared cloud incident can produce multiple downstream effects without multiple separate intrusions.
+
+```text
+PROVIDER INCIDENT: assess from operator disclosure
+CUSTOMER SERVICE INTERRUPTION: assess per affected customer
+CUSTOMER NETWORK INTRUSION: do not infer
+PERSONAL-DATA EXFILTRATION: do not infer
+PUBLIC-FUNCTION CONSEQUENCE: specify, do not assume
+IRAN CONNECTION: not established
+```
+
+### 🧾 Switzerland — Pensions are a continuing public function
+
+The companion chronology includes an **8 October disclosure** concerning a supplier used by Publica, the Swiss federal pension fund. It does not establish interruption to pension payments. The significance for this node is the distinction between a supplier-side information incident and actual loss of entitlement, payment continuity or authoritative pension records.
+
+A pension system may be materially relevant to people without a demonstrated payment failure. Record separately the supplier, affected information, entitlement integrity, payment status, notifications and remedy. Do not turn a supplier incident into a finding that pensions stopped.
+
+### 🏫 Education and health — No automatic October escalation
+
+The companion October entries do **not**, merely by their inclusion, demonstrate new attacks on schools, hospitals, courts or safeguarding databases. The September Luminis, Veradigm, Nutex, PaperCut and C-Track examples remain analytically useful, but they should not be silently described as October incidents or linked to the newer identity and cloud entries by a supposed shared campaign.
+
+A general VPN or remote-access advisory may be relevant to healthcare and education defenders without establishing a **healthcare victim**, **student-data breach**, **clinical outage** or **Iranian operation**. The sector-specific victim and effect still need evidence.
+
+---
+
+## 🧮 October Recording Rules — What Changes, What Does Not
+
+The new cases reinforce the existing model but suggest several additional fields for the research ledger:
+
+```text
+EVENT DATE:
+DISCLOSURE / ADVISORY DATE:
+SOURCE AND SOURCE INDEPENDENCE:
+DIRECT VICTIM / PROVIDER / DOWNSTREAM CUSTOMER:
+AUTHORISED ACCESS MISUSED?:
+QUERIES / RECORDS / DISTINCT PEOPLE — SEPARATELY COUNTED:
+SERVICE AVAILABILITY:
+RECORD INTEGRITY:
+CONFIDENTIALITY / ACTUAL EXFILTRATION:
+PAYMENT / ENTITLEMENT / LEGAL PROCESS EFFECT:
+PERSON-CENTRED CONSEQUENCE — OBSERVED OR POSSIBLE:
+PUBLIC AUTHORITY / SUPPLIER RESPONSIBILITY:
+CONTINUITY AND CORRECTION PATHWAY:
+ACTOR CLAIM / TECHNICAL LINK / OFFICIAL ATTRIBUTION:
+IRAN-WAR CONTEXT / IRAN ATTRIBUTION — SEPARATELY SCORED:
+SOURCE VERIFICATION STATUS:
+```
+
+**Disclosure date is not necessarily intrusion date.** A provider incident and three affected public bodies do not automatically make four cyberattacks. An advisory about an exposed product does not establish that any particular hospital, school or government department was compromised. A reported count of queries is not a verified count of distinct affected people.
+
+For the legal and human consequences, preserve three distinct questions:
+
+1. **What happened technically?** Access, disclosure, alteration, loss of availability or confirmed downstream effect.
+2. **What did the institution do?** Contain, restore, reconcile, notify, protect, investigate and provide a route to challenge.
+3. **What happened to the person?** Demonstrated harm, credible continuing exposure, or a risk that has not yet materialised.
+
+These are not interchangeable. The institution can resume operations while the person still needs a remedy; equally, the possibility of future misuse is not proof that misuse has occurred.
+
+### 📚 Evidence hold
+
+The October examples above are drawn from the **companion chronology/register as of 15 October 2026**. They require checking against the original operator, government, regulator or incident-response statements before being treated as independently verified facts. The linked [Sources And Evidence Register](./📚_sources_and_evidence_register.md) predates this update and **must be reconciled**; its September date should not be mistaken for October source coverage.
+
+- [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *chronology and incident/disclosure distinctions*.
+- [📊 Iran War Essential Infrastructure Cyber Timeline (CSV)](./📊_iran_war_essential_infrastructure_cyber_timeline.csv) — *record-level fields, confidence and provenance; verify individual entries before citation*.
+
+---
+
 ## 🌌 Constellations
 
-🏥 🎓 🏢 ⚖️ 🧍 🪪 🧾 🕸️ — health; education; administration; justice; person-centred risk; identity; authoritative records; shared access.
+🏥 🎓 🏢 ⚖️ 🧍 🪪 🧾 🕸️ ☁️ — health; education; administration; justice; person-centred risk; identity; authoritative records; shared access; cloud and supplier dependencies.
 
 ---
 
 ## ✨ Stardust
 
-health infrastructure, education systems, public administration, safeguarding data, justice systems, personal data, civilian infrastructure, state capacity, record integrity, identity infrastructure, authoritative records, communications provenance, shared software, third-party credentials, api access, person-centred recovery, continuity burden, downstream misuse, data dependencies, international humanitarian law
+health infrastructure, education systems, public administration, safeguarding data, justice systems, personal data, civilian infrastructure, state capacity, record integrity, identity infrastructure, authoritative records, communications provenance, shared software, third-party credentials, api access, person-centred recovery, continuity burden, downstream misuse, data dependencies, national identity registers, pension administration, shared cloud providers, disclosure dates, query volume, international humanitarian law
 
 ---
 
-## 🏮 Footer
+## 🏾 Footer
 
 *🏥 Health, Education And Admin Are Not Soft Extras* is a living node of the **Polaris Protocol**.  
 It explains why civilian systems, authoritative public records, identity infrastructure, shared administrative platforms, and person-centred data belong inside essential-infrastructure cyber analysis, including where technical recovery occurs before institutional or human recovery is complete.
@@ -1831,7 +1941,7 @@ It explains why civilian systems, authoritative public records, identity infrast
 > - [📚 Sources And Evidence Register](./📚_sources_and_evidence_register.md) — *source provenance, independence and evidence audit trail*
 > - [🇬🇧 Britain Is Advertising An Exploitable Seam](./🇬🇧_britain_is_advertising_an_exploitable_seam.md) — *fragmented response as adversary-facing weakness*
 > - [👾 Cyber War Crimes](./👾_cyber_war_crimes.md) — *separate legal analysis for wartime cyber operations*
-> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *live incident chronology through 14 September 2026*
+> - [⏱️ Timeline Of Essential Infrastructure Attacks](./⏱️_timeline_of_essential_infrastructure_attacks.md) — *incident chronology through the October 2026 reconciliation*
 > - [🧬 One War, Many Threat Ecosystems](./🧬_one_war_many_threat_ecosystems.md) — *separating healthcare ransomware, administrative compromise and shared-platform access from the Iran-linked OT core*
 >
 > 🏮 Return To:
@@ -1844,4 +1954,4 @@ It explains why civilian systems, authoritative public records, identity infrast
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-09-14_
+_Last updated: 2026-10-15_
