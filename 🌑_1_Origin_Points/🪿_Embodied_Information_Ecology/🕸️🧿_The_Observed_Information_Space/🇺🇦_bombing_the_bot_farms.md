@@ -1,5 +1,5 @@
 # 🇺🇦 Bombing the Bot Farms
-**First created:** 2026-10-11 | **Last updated:** 2026-10-13  
+**First created:** 2026-10-11 | **Last updated:** 2026-10-16  
 *Distributed information operations, partial infrastructure failure, and the unequal human consequences of changes in the observed information space.*  
 
 <!-- Or: being exhausted for Jane Doe. 
@@ -353,7 +353,9 @@ Perhaps several things changed at once. Perhaps the strikes contributed. Perhaps
 - [📹: Disco Barrington, via TikTok: “Down with the bots!”](https://vm.tiktok.com/ZN8BgK86K/)
 - [📹: NM Media Report, via TikTok: “Российские боты исчезли после прилета по «Яндексу»”](https://vm.tiktok.com/ZN8Bg3oMC/)  
 - [📹: Auntie Em, via TikTok: “If anyone is wondering why the Reform supporters are suddenly so quiet…”](https://vm.tiktok.com/ZN8BgsPCC/)
-- [📹: BBC Verify: “Claims that Ukrainian strikes on Russian data centres reduced Kremlin-linked bot networks have spread widely online - but experts have told BBC Verify there is no evidence the attacks have significantly reduced them.”](https://vm.tiktok.com/ZN8B3kBLj/) – *the sources are a really interesting example of how many things can be true at once*   
+- [📹: BBC Verify: “Claims that Ukrainian strikes on Russian data centres reduced Kremlin-linked bot networks have spread widely online - but experts have told BBC Verify there is no evidence the attacks have significantly reduced them.”](https://vm.tiktok.com/ZN8B3kBLj/) – *the sources are a really interesting example of how many things can be true at once*
+- [📹: The Christo Files, via TikTok: “Recent viral posts claimed Ukrainian strikes on Russian data centers caused
+Russian bot networks, AfD online engagement, and sucker carison's newership to collapse overnight.”](https://vm.tiktok.com/ZN8SDcoK9/)  
 
 *If Mamdani is our mayor, Zelenskyy is my president.*  
 
@@ -383,4 +385,4 @@ ukraine, yandex, data centres, runet, livejournal, russian internet, bot traffic
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-13_
+_Last updated: 2026-10-16_
