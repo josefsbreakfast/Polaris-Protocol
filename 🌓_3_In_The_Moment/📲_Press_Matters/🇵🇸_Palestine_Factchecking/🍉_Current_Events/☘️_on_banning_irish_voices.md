@@ -1,7 +1,7 @@
 writing w headache so trusting it not to have shoved anything hugely alarming in will check later x
 
 # ☘️ On Banning Irish Voices
-**First created:** 2026-10-15 | **Last updated:** 2026-10-15  
+**First created:** 2026-10-15 | **Last updated:** 2026-10-16  
 *On the peculiar British habit of restricting Irish voices, the consequences of counterterrorism law reaching a novelist's books, and the public's reasonable desire to know what its government thinks it is protecting.*
 
 ---
@@ -306,6 +306,15 @@ Sources below distinguish documented events from the author's interpretations. C
 ## 🌌 Constellations
 
 ☘️ 📺 🕸️ ⚖️ 🫀 — Irish broadcasting history, exceptional state powers, cross-border information, public accountability and the embodied cost of contemporary media exposure.
+
+*Follow the media:*  
+
+- [📹: MEE: “Leicester police ‘blanket arrest’ journalists under Terrorism Act for covering protest at Israeli drone factory”](https://www.middleeasteye.net/news/police-blanket-arrest-journalists-under-terrorism-act-covering-elbit-protest) – *”Journalists tell MEE that move has set a 'worrying precedent' and that they no longer ‘feel safe’ after reporting on Elbit protests“*
+- [📰: Drop Site News: “Jeffrey Epstein Helped Israel Sell a Surveillance State to Côte d’Ivoire”](https://www.dropsitenews.com/p/jeffrey-epstein-israel-surveillance-state-cote-d-ivoire-ehud-barak-leaked-emails)
+- [📰: Al Jazeera: “Tested on Palestinians: Epstein, Israel’s Barak pushed spy tech in Nigeria”](https://www.aljazeera.com/features/2026/2/18/tested-on-palestinians-epstein-israels-barak-pushed-spy-tech-in-nigeria)
+
+*But Labour leadership is more bothered about the wording of another party’s motion; the performance does not reflect the value that is desired to be projected, and Palestinian lives and British sensibilities are being used as political football.*  
+
 
 ## ✨ Stardust
 
