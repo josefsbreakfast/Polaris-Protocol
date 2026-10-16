@@ -72,6 +72,677 @@ This is why 'the posting bots are still there' is an incomplete systems-level an
 
 ---
 
+## 4. 💣 The Doodlebug Effect
+
+*The first thing hit is not necessarily the thing most damaged.*
+
+The British had a particularly unpleasant introduction to the relationship between a machine, its observable behaviour and the anticipation of catastrophe during the Second World War.
+
+The V-1 flying bomb, affectionately known as the *doodlebug* — because apparently the British response to a horrifying new weapon was to give it a silly little name — made a distinctive buzzing noise as it travelled towards its target.
+
+When the engine stopped, the bomb was about to descend.
+
+The silence was not necessarily reassuring.
+
+Indeed, quite the opposite.
+
+There is a distinction here between the physical event and the information it produces. The sound of the engine communicated something about the weapon's operation. Its cessation communicated something else. People interpreted those signals through their knowledge of what the machine was likely to do next.
+
+The bomb did not need to have struck anything yet for its presence to alter human behaviour.
+
+Nor did its consequences end at the point of impact.
+
+The historical experience of civilian bombardment should not be reduced to an entertaining metaphor for attacking computers. But the doodlebug provides a useful introduction to a wider cybernetic problem: **the first observable disturbance is not necessarily the location, duration or magnitude of the greatest consequence.**
+
+### The first thing hit is not necessarily the most impacted
+
+Consider a data centre.
+
+The immediate physical consequences of an attack might include damaged equipment, interrupted electricity, destroyed storage, disrupted cooling or unavailable network connections.
+
+These are relatively straightforward to conceptualise. Something physical has happened to something physical.
+
+But a data centre is not merely a building containing computers. It is a concentration of relationships between otherwise distributed systems.
+
+Its customers may include organisations that have no obvious relationship with one another. Those organisations may, in turn, provide services to other organisations. Some may be running public-facing websites. Others may be processing transactions, analysing information, managing authentication or providing the infrastructure upon which still more services depend.
+
+The visible destruction may therefore be only the beginning of the consequences.
+
+| Layer | What becomes observable | What may remain less visible |
+|---|---|---|
+| Physical | Damaged buildings and equipment | Exact workloads and service dependencies |
+| Technical | Outages, latency, unavailable services | Partial failures and degraded functions |
+| Operational | Interrupted business activity | Missed deadlines and downstream dependencies |
+| Financial | Delayed payments or unavailable accounts | Settlement failures and liquidity constraints |
+| Informational | Missing updates or altered outputs | Reduced collection, modelling or coordination |
+| Behavioural | Complaints, migration and changes in activity | Anticipation, risk calculations and concealed adaptation |
+
+These layers are not a mandatory sequence. They are possible locations of consequence.
+
+A physical interruption may produce little downstream disruption if redundancy works. Conversely, a comparatively limited technical failure might affect an organisation whose critical operation depends on the unavailable service.
+
+**The magnitude of the consequences is not necessarily proportional to the physical damage.**
+
+And, importantly, the organisation experiencing the greatest consequences need not be the organisation whose infrastructure was attacked.
+
+### The damage travels through relationships
+
+This is the problem of cascading failure.
+
+A disturbance enters a system at one point and propagates through its dependencies.
+
+The direction, extent and severity of that propagation depend on the architecture of the system.
+
+A single data centre might support several services that appear independent to their users. Two businesses might maintain separate websites, different customer databases and distinct commercial identities while relying on the same underlying infrastructure.
+
+Their apparent independence does not necessarily constitute technical independence.
+
+This is particularly important when examining *common-mode failure*: circumstances in which multiple systems are affected because they share a dependency.
+
+It also matters for redundancy.
+
+An organisation may have an emergency recovery arrangement that works beautifully under ordinary conditions but fails when the supposedly independent backup relies on the same unavailable service.
+
+Alternatively, it may successfully move its operations elsewhere, leaving little observable interruption.
+
+The question is not whether the infrastructure is distributed.
+
+**The question is how its dependencies are distributed.**
+
+### The bomb stops. The consequences continue.
+
+A data centre might be restored before its customers have finished dealing with the interruption.
+
+A financial transaction may have missed its settlement deadline.
+
+An information operation may have lost access to time-sensitive data.
+
+A commercial customer may need to reconcile inconsistent records.
+
+An organisation may discover that its disaster-recovery arrangements are inadequate.
+
+Other operators may change their behaviour simply because infrastructure they previously considered relatively secure has demonstrated a vulnerability.
+
+The original disturbance has ended, but the system has not necessarily returned to its previous state.
+
+This introduces a feedback effect.
+
+Operators observe the consequences of an attack, update their expectations and make decisions about redundancy, expenditure, exposure, trust and future risk.
+
+Those decisions can alter the wider system even where no additional physical damage occurs.
+
+The doodlebug analogy is therefore not simply about the moment when the engine stops.
+
+It is about what people understand, anticipate and do in response to information about a threat.
+
+**The first thing hit is not necessarily the thing most damaged. The most damaged thing is not necessarily the most visible. And the consequences do not necessarily end when the original damage is repaired.**
+
+The bomb lands at a point.
+
+The damage travels through relationships.
+
+Which raises a rather interesting question about what else might have been depending on those computers.
+
+---
+
+## 5. 🪙 The Shadow Coin Brokers
+
+*Your blockchain is decentralised. Your business may be rather less so.*
+
+Cryptocurrency is frequently discussed as though decentralisation removes its dependence on conventional infrastructure.
+
+This is true of some aspects of blockchain architecture and rather less true of the financial systems built around it.
+
+A distributed ledger can remain operational while the businesses, intermediaries and payment services through which people access it experience substantial disruption.
+
+Indeed, a cryptocurrency transaction may involve a remarkable collection of entirely conventional dependencies before anybody gets anywhere near purchasing something with the proceeds.
+
+Computers.
+
+Banks.
+
+Payment processors.
+
+Identity verification.
+
+Customer databases.
+
+Network connections.
+
+Someone in accounts who knows which money belongs to whom.
+
+An increasingly unfortunate collection of administrators, really.
+
+### Decentralised money, centralised dependencies
+
+It is necessary to distinguish between the different components of cryptocurrency infrastructure.
+
+A blockchain network maintains its ledger according to its particular consensus rules.
+
+A cryptocurrency exchange provides services through which users can trade assets.
+
+A custodial wallet provider may control the credentials or keys necessary to access customer assets.
+
+An OTC broker may arrange transactions between counterparties.
+
+A stablecoin issuer maintains arrangements supporting its token, including whatever reserve, redemption and governance mechanisms apply.
+
+A payment intermediary may connect cryptocurrency transactions to conventional financial institutions.
+
+These are different functions.
+
+They are not necessarily decentralised simply because the assets involved exist on a blockchain.
+
+| Component | Potential dependency | Possible consequence of interruption |
+|---|---|---|
+| Blockchain network | Distributed nodes and consensus infrastructure | Reduced availability or processing capacity if sufficiently affected |
+| Exchange | Trading systems, databases, hosting and connectivity | Interrupted trading or withdrawals |
+| Custodial service | Key management and authentication | Temporary or prolonged loss of asset access |
+| OTC broker | Communications, counterparties and settlement arrangements | Delayed or failed transactions |
+| Stablecoin services | Issuer systems, banking and redemption arrangements | Redemption or settlement difficulties |
+| Fiat conversion | Banks and payment intermediaries | Reduced convertibility |
+| Transaction reconciliation | Records, databases and accounting systems | Uncertainty about completed or pending obligations |
+
+A blockchain can continue processing transactions while a particular exchange cannot process customer withdrawals.
+
+An asset can remain recorded on-chain while its owner cannot access the credentials needed to move it.
+
+A cryptocurrency payment can be completed while the recipient remains unable to convert the proceeds into the currency required for a purchase.
+
+**Asset preservation, asset access, transaction execution, settlement and real-world purchasing power are not the same thing.**
+
+### Enter the shadow brokers
+
+Russia's financial relationships with international markets have been affected by sanctions imposed following its invasion of Ukraine.
+
+Cryptocurrency has become one of the areas of concern in investigations into sanctions circumvention, cross-border payments and procurement networks.
+
+This does not mean that Russian cryptocurrency activity is inherently illicit. Nor does it mean that every cryptocurrency intermediary is participating in sanctions evasion.
+
+It does mean that the relationships between digital assets, conventional banking and international financial access deserve scrutiny.
+
+Relevant subjects for investigation include Russian-linked cryptocurrency exchanges, OTC brokerage networks, rouble conversion services, USDT settlement and the development of rouble-linked stablecoins such as A7A5.
+
+The important analytical question is not simply how much cryptocurrency moves through Russia.
+
+It is **which intermediaries enable that movement, what infrastructure they depend upon, and what happens when those dependencies fail**.
+
+This is also where the Yandex question becomes more specific.
+
+The reported October 2026 attacks on Yandex infrastructure raise a legitimate question about whether any cryptocurrency exchanges, brokers or financial intermediaries relied on the affected facilities.
+
+But a legitimate question is not an established connection.
+
+We do not presently have a verified inventory demonstrating that particular shadow financial operations were hosted in those facilities.
+
+Nor can Russian cryptocurrency transaction volumes be treated as an estimate of the financial activity exposed to the attacks.
+
+The relevant quantities are different:
+
+1. Total cryptocurrency activity associated with Russia.
+2. Activity passing through particular exchanges or intermediaries.
+3. Activity dependent on services hosted at the affected facilities.
+4. Activity demonstrably interrupted by the reported outages.
+
+Only the last two could establish the relevant exposure and consequences of this particular incident.
+
+### When the broker goes offline
+
+Imagine a financial intermediary whose cryptocurrency assets remain intact but whose conventional payment infrastructure becomes unavailable.
+
+The blockchain is still there.
+
+The assets are still there.
+
+The recipient may even be able to demonstrate that the assets exist.
+
+Unfortunately, the recipient needs to pay somebody who does not accept the cryptocurrency in question.
+
+Or the intermediary cannot reconcile which transactions have settled.
+
+Or the customer cannot authenticate.
+
+Or the payment service connecting the transaction to the conventional economy has stopped working.
+
+These are distinct forms of operational failure.
+
+They may be temporary. They may be recoverable. They may be mitigated through alternative providers.
+
+But their consequences depend on what the affected organisation was attempting to accomplish.
+
+A delay of several hours might be inconsequential for one transaction and extremely consequential for another.
+
+And if the financial activity is associated with time-sensitive procurement, cross-border settlement or restricted commercial relationships, the significance of an interruption may not be visible through cryptocurrency prices alone.
+
+A functioning Bitcoin market does not demonstrate that every financial operation involving cryptocurrency is functioning normally.
+
+**The blockchain may survive. The wallet may survive. The money may remain exactly where it was.**
+
+Whether anybody can spend it is another question.
+
+---
+
+## 6. ☕️ Hot Money? What Hot Money?
+
+*An unfortunate moment to discover that your disaster-recovery arrangements involve explaining where the money came from.*
+
+There is a peculiar administrative problem associated with operating financial networks whose participants would prefer not to disclose their activities.
+
+Ordinary financial institutions generally have established mechanisms for reporting infrastructure failures, contacting service providers, reconciling transactions and seeking assistance from regulators or banking partners.
+
+These mechanisms are not infallible, and legitimate organisations can experience serious recovery difficulties.
+
+But financial operations deliberately structured to conceal participants, evade sanctions or obscure the movement of criminal proceeds may encounter additional constraints.
+
+Their problem is not necessarily that the money has disappeared.
+
+Their problem may be that recovering access to it requires revealing information they were attempting to conceal.
+
+### What exactly happened to the money?
+
+Before declaring a financial catastrophe, we need to distinguish several possible outcomes.
+
+**Destroyed assets** are not the same as inaccessible assets.
+
+**Stolen assets** are not the same as delayed transactions.
+
+**Delayed transactions** are not the same as failed settlements.
+
+And **displaced financial activity** is not the same as financial activity that has ceased.
+
+An interruption might cause transactions to accumulate before processing resumes.
+
+It might cause customers to move to another exchange.
+
+It might produce temporary liquidity problems.
+
+It might have little practical consequence because alternative infrastructure was available.
+
+Or it might interrupt a critical operation whose deadline cannot be recovered.
+
+The difference matters.
+
+A reduction in observed transactions does not establish that the money was lost.
+
+Equally, the absence of a visible cryptocurrency-market collapse does not establish that every dependent financial operation remained unaffected.
+
+### The recovery paradox
+
+Now consider an illicit financial intermediary attempting to restore operations after losing access to a service provider.
+
+A replacement provider might require identity verification.
+
+A banking partner might require beneficial-ownership information.
+
+An emergency transaction might create records linking counterparties who had previously maintained separation.
+
+An insurance claim, legal dispute or request for assistance might require disclosure of the business's activities.
+
+These possibilities create a potential conflict between operational recovery and operational secrecy.
+
+The intermediary may have to choose between restoring access and preserving concealment.
+
+That is not a universal property of illicit finance. Some criminal and sanctions-evading networks possess substantial technical capacity, alternative infrastructure and established recovery arrangements.
+
+The relevant proposition is narrower:
+
+**Where concealment restricts access to ordinary recovery mechanisms, infrastructure disruption may impose costs beyond the original technical failure.**
+
+Those costs may include delays, additional fees, reduced liquidity, damaged relationships or increased exposure to scrutiny.
+
+They must be demonstrated in individual cases rather than assumed.
+
+### When the money needs to move now
+
+Timing introduces another asymmetry.
+
+A financial operation may be able to tolerate a lengthy interruption when no immediate payment is required.
+
+Another may be dependent on completing a transaction within a particular window.
+
+This is especially relevant to the distinction between financial-market measurements and operational consequences.
+
+A market analyst might observe a temporary decline in transaction volume followed by recovery.
+
+An affected organisation might experience a missed procurement deadline, failed contractual obligation or interruption to a supply chain.
+
+Both observations could be accurate.
+
+The market recovered.
+
+The operation did not.
+
+Conversely, a dramatic market movement might have little connection to the affected infrastructure.
+
+**Financial significance is not always captured by transaction volume, and transaction volume is not always captured by the consequences experienced by individual participants.**
+
+### The curious absence of an incident report
+
+There is also a problem of disclosure.
+
+A legitimate financial institution may have regulatory, contractual or commercial reasons to acknowledge an outage.
+
+An illicit intermediary may have reasons to avoid public attention.
+
+This creates an important limitation for anyone attempting to measure the consequences of an attack through publicly reported losses.
+
+The absence of a complaint is not evidence that an organisation was unaffected.
+
+But neither is it evidence that the organisation was secretly affected.
+
+Silence is an observation about the available reporting.
+
+It is not a diagnosis of the underlying system.
+
+Which brings us to the increasingly unfortunate accounts department.
+
+☕️: Terrible news. Our entirely legitimate financial operations have been interrupted.
+
+🪿: Which operations?
+
+☕️: ...
+
+🪿: Which data centre?
+
+☕️: ...
+
+🪿: Why were you using that data centre?
+
+☕️: ...
+
+🪿: **WHY ARE YOU HOLDING A PRESS CONFERENCE?**
+
+There is, of course, a difference between maintaining commercial confidentiality and concealing criminal activity.
+
+A business's reluctance to disclose its customers or infrastructure is not itself evidence of wrongdoing.
+
+But where independent evidence establishes a concealed financial relationship, public reactions to an infrastructure disruption may provide additional information about how that relationship operates.
+
+The important question becomes not merely whether somebody complained.
+
+It becomes **who complained, what they complained about, when they complained, and why they had an interest in the affected infrastructure**.
+
+And occasionally, whether anybody in the communications department had considered the consequences of saying it out loud.
+
+---
+
+## 7. 🗺️ Triangulation: Who Complained & Why?
+
+*Sometimes the most interesting thing about a bomb isn't where it landed. It's who started shouting.*
+
+The Doodlebug Effect establishes that the location of a physical disturbance is not necessarily the location of its greatest consequences.
+
+The Shadow Coin Brokers introduces the possibility that financial intermediaries may depend on conventional infrastructure whose importance is not obvious from the public-facing services.
+
+Hot Money? What Hot Money? introduces the additional problem that some affected participants may have incentives not to disclose their involvement.
+
+We therefore arrive at a question of method.
+
+**How do we investigate the distribution of consequences when the system is only partially observable?**
+
+One approach is triangulation.
+
+Rather than treating any single observation as proof of a relationship, compare independent evidence from different parts of the system.
+
+The objective is to determine whether the observations support a common explanation, whether they can be connected through a documented mechanism, and whether alternative explanations remain plausible.
+
+### Who actually complained?
+
+The first task is to identify the sources of reported consequences.
+
+These may include:
+
+- Infrastructure operators acknowledging damage or interrupted services.
+- Commercial customers reporting outages.
+- Financial institutions reporting transaction difficulties.
+- Cryptocurrency exchanges announcing withdrawal or trading interruptions.
+- Technical researchers identifying changes in network behaviour.
+- Political actors commenting on the attacks.
+- Journalists reporting reactions from affected organisations.
+- Ordinary users describing changes in their digital environments.
+
+These are not equivalent forms of evidence.
+
+An infrastructure operator reporting an outage may have direct knowledge of its systems.
+
+A customer reporting an unavailable service may have direct knowledge of the interruption but not its cause.
+
+A political commentator may be interpreting second-hand information.
+
+A user describing a quieter social-media feed may be providing valuable testimony about exposure without possessing information about the systems responsible.
+
+The provenance of each observation matters.
+
+### When did they start complaining?
+
+Timing can help distinguish possible relationships between events.
+
+An immediate service failure might indicate direct dependence on interrupted infrastructure.
+
+A later interruption might involve a downstream service, scheduled process or settlement cycle.
+
+A complaint following restoration might concern records, reconciliation or other consequences that persisted beyond the original outage.
+
+But these patterns are not diagnostic.
+
+A delayed complaint might simply reflect delayed reporting.
+
+An organisation might have experienced an interruption immediately but waited before making a public statement.
+
+Several unrelated events might occur during the same period.
+
+Therefore, chronology should be treated as an investigative instrument rather than a mechanism of automatic attribution.
+
+For the October 2026 Yandex reports, a useful investigation would compare dated infrastructure announcements with independently documented service failures, financial-market activity, exchange communications and other relevant observations.
+
+The purpose would be to establish whether there were identifiable changes that require explanation.
+
+Not to begin with a preferred explanation and search for somebody willing to confirm it.
+
+### What were they complaining about?
+
+The content of a complaint can reveal which function of a system was affected.
+
+A complaint about unavailable cloud storage is different from a complaint about failed authentication.
+
+A complaint about delayed financial settlement is different from a complaint about an inaccessible website.
+
+And a complaint about reduced online engagement is different from evidence that an influence operation has lost access to its collection infrastructure.
+
+These distinctions matter because the same underlying disturbance may produce different observable effects.
+
+| Observation | Possible information | What remains unproven |
+|---|---|---|
+| Cloud-service outage | A technical dependency failed | Which downstream workloads were affected |
+| Exchange withdrawal delay | Customer access or processing was interrupted | Whether the Yandex attacks caused it |
+| Reduced transaction activity | Financial activity changed | Whether funds were lost, delayed or displaced |
+| Increased activity elsewhere | Possible substitution or migration | Whether the original outage caused the movement |
+| Continued propaganda posting | Visible publishing capacity survived | Whether collection, targeting or amplification remained unchanged |
+| Reduced hostile exposure | A user's information environment changed | Which upstream mechanism produced the change |
+| Public institutional complaint | An organisation acknowledges an interest or consequence | The full nature of its underlying relationships |
+
+The analytical mistake would be to collapse these observations into a single explanation.
+
+The opportunity is to examine how they might fit together.
+
+### Who has an incentive to complain?
+
+Public reactions are shaped by incentives.
+
+A commercial customer may complain to obtain compensation.
+
+A financial institution may acknowledge an interruption to reassure customers.
+
+An infrastructure provider may minimise the extent of an outage to protect confidence.
+
+A political actor may exaggerate the consequences of an attack to support a preferred narrative.
+
+Another may minimise them for precisely the same reason.
+
+An illicit intermediary may avoid public disclosure altogether.
+
+And sometimes an organisation may disclose more than it intended.
+
+This is particularly interesting because **the reaction to an event can itself produce new information about the system**.
+
+A previously undisclosed dependency may become visible when an organisation acknowledges that its operations have been affected by an incident involving a particular provider.
+
+But the disclosure must be interpreted carefully.
+
+A public statement may establish that an organisation claims to have been affected.
+
+It does not automatically establish the precise technical relationship, the magnitude of its losses or the legality of its activities.
+
+Those questions require corroboration.
+
+### The best press office. Or the worst.
+
+There is a further complication.
+
+The loudest person in the room is not necessarily the person who experienced the greatest damage.
+
+Sometimes they simply have the best press office.
+
+Sometimes they have the worst.
+
+Imagine an organisation whose relationship with an affected infrastructure provider was not previously public.
+
+The organisation experiences a disruption.
+
+Its communications department decides that this is an excellent opportunity to explain how terribly inconvenient the situation has become.
+
+Unfortunately, the explanation introduces a new question.
+
+**Why, exactly, was this organisation dependent on that infrastructure?**
+
+☕️: We demand accountability for the interruption to our operations.
+
+🪿: Which operations?
+
+☕️: Our financial operations.
+
+🪿: And which infrastructure were they using?
+
+☕️: The infrastructure that was bombed.
+
+🪿: I see.
+
+☕️: We have suffered considerable inconvenience.
+
+🪿: Yes, but—
+
+☕️: Considerable.
+
+🪿: **DOES YOUR PRESS OFFICE KNOW YOU'RE HERE?**
+
+The joke illustrates a genuine informational mechanism.
+
+An event may not directly reveal a previously concealed relationship.
+
+**The reaction to the event may reveal it instead.**
+
+That does not make every loud complaint suspicious.
+
+It means that public reactions can sometimes supply information about dependencies that were not apparent from the physical incident alone.
+
+### Triangulating the dependency network
+
+The investigation should compare evidence from at least five directions.
+
+**Physical evidence:** What was damaged, where and when?
+
+**Technical evidence:** Which services became unavailable or degraded?
+
+**Financial evidence:** What changes occurred in transaction activity, settlement, liquidity or access?
+
+**Behavioural evidence:** Which organisations or users changed their activity?
+
+**Public reactions:** Who acknowledged consequences, and what did their statements actually establish?
+
+The strength of an inference depends partly on whether these observations are genuinely independent.
+
+Five news articles repeating the same unverified claim do not constitute five independent confirmations.
+
+Nor does a cluster of social-media posts necessarily establish a population-wide change.
+
+Where independent observations converge around a documented dependency, confidence may increase.
+
+Where observations diverge, the discrepancy may help identify alternative mechanisms.
+
+A technical outage may be confirmed while a proposed financial consequence remains unsupported.
+
+A change in transaction volume may be established while its relationship to the outage remains uncertain.
+
+An organisation may complain loudly without having experienced significant losses.
+
+Another may experience serious consequences without issuing a public statement.
+
+The purpose of triangulation is to preserve these distinctions while investigating their relationships.
+
+### What would we need to establish?
+
+For the reported Yandex attacks, a rigorous investigation would require:
+
+1. A verified chronology of the physical incidents and affected services.
+2. Reliable information about the technical functions hosted by those services.
+3. Independent evidence connecting particular organisations or intermediaries to the affected infrastructure.
+4. Dated measurements of relevant operational or financial changes.
+5. Comparison with unaffected services, alternative providers and wider market conditions.
+6. Examination of restoration, substitution and recovery.
+7. A record of public statements distinguishing direct testimony from commentary and speculation.
+
+The investigation should also preserve negative findings.
+
+If a suspected financial intermediary was unaffected, record that.
+
+If an apparent market disturbance began before the reported attacks, record that.
+
+If a change in online exposure coincided with a platform update rather than an infrastructure interruption, investigate that explanation.
+
+**A method that only accepts confirming observations is not triangulation. It is decoration.**
+
+### The observed information space is not the whole system
+
+This brings the financial investigation back to the node's original concern.
+
+A person experiencing less hostile material online is observing a change in their information environment.
+
+A technical researcher measuring continued propaganda posting is observing another part of that environment.
+
+A financial analyst examining blockchain transactions is observing another system again.
+
+An infrastructure operator reporting a restored service is observing the condition of its own infrastructure.
+
+Each observation may be accurate.
+
+None necessarily describes the whole system.
+
+The mistake is to assume that the most accessible measurement must also be the most consequential one.
+
+**What becomes visible depends on where the observer is positioned, which instruments they possess, which functions produce observable outputs, and what participants are willing or required to disclose.**
+
+This is why the question of who complained matters.
+
+Not because complaints automatically identify hidden operators.
+
+Not because silence proves concealed damage.
+
+But because reactions are themselves information produced by a system responding to disturbance.
+
+The first question is where the bomb landed.
+
+The second is what stopped working.
+
+The third is who noticed.
+
+**The fourth is who had a reason to care, but perhaps not a reason to tell anybody.**
+
+And the fifth?
+
+☕️ **WHO LET THAT MAN SPEAK TO THE PRESS?**
+
+--- 
+
 ## 4. 🧠 Cambridge Analytica: We Have Been Here Before
 
 The Cambridge Analytica scandal supplies a documented historical reason to take the combination of personal data, behavioural modelling, political messaging and institutional accountability seriously. It is **not** proof that the Yandex facilities supported a Cambridge Analytica-style operation.
@@ -234,7 +905,139 @@ These diagrams describe **hypothetical dependencies**, not a verified map of the
 
 **Visual implementation rule:** In the final rendered version, label *platform ranking* as a separate actor, not an arm of the alleged operation. Draw more than one infrastructure provider, show failover, and mark the affected component as *hypothetical*. Show at least two differentiated user-exposure paths and a feedback route into collection. Use separate visual conventions for measured facts, user testimony, general technical mechanisms and October-specific hypotheses. A dashed arrow must not become a solid arrow merely because it looks nicer.
 
-**Diagram development note:** these monospace diagrams are semantic scaffolds. A later designed visual should retain separate arrows for collection, modelling, posting, amplification and platform ranking, plus clear boundaries between established relationships and October-specific hypotheses. Do not silently turn a dashed connection into a solid one for aesthetic neatness.
+**Diagram development note:** these monospace diagrams are semantic scaffolds. A later designed visual should retain separate arrows for collection, modelling, posting, amplification and platform ranking, plus clear boundaries between established relationships and October-specific hypotheses. Do not silently turn a dashed connection into a solid one for aesthetic neatness.  
+
+--- 
+
+### C. 💣 The Doodlebug Effect — Physical Impact, Distributed Consequences
+
+*The first thing hit is not necessarily the thing most damaged.*
+
+This diagram illustrates how a physical infrastructure disturbance might propagate through technical, financial, informational and behavioural dependencies.
+
+It is a **hypothetical systems model**, not a verified map of the October 2026 Yandex facilities or their customers.
+
+```text
+                   💣 PHYSICAL IMPACT
+                            │
+                            ▼
+                   DATA-CENTRE DISRUPTION
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+        CLOUD SERVICES   DATA SERVICES   AUTHENTICATION
+             │              │              │
+             ▼              ▼              ▼
+        APPLICATIONS     ANALYTICS      ACCOUNT ACCESS
+             │              │              │
+             └──────────────┼──────────────┘
+                            │
+                            ▼
+                   SHARED DEPENDENCIES
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+        INFORMATION      FINANCIAL      COMMERCIAL
+        OPERATIONS       SERVICES       SERVICES
+             │              │              │
+             ▼              ▼              ▼
+        COLLECTION /     TRADING /      OPERATIONAL
+        MODELLING /      SETTLEMENT /   INTERRUPTIONS
+        AMPLIFICATION    CONVERSION
+             │              │              │
+             ▼              ▼              ▼
+        ALTERED          DELAYED OR     MISSED
+        INFORMATION      DISPLACED      DEADLINES /
+        EXPOSURE         TRANSACTIONS   SERVICE LOSS
+             │              │              │
+             └──────────────┼──────────────┘
+                            │
+                            ▼
+                   OBSERVABLE REACTIONS
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+         COMPLAINTS      CHANGES IN      PUBLIC
+         / SILENCE       ACTIVITY        STATEMENTS
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                    🗺️ TRIANGULATION
+                            │
+                            ▼
+                WHAT CAN WE ACTUALLY
+                  ESTABLISH FROM THE
+                   AVAILABLE EVIDENCE?
+                            │
+                            ▼
+                 🧿 OBSERVED INFORMATION
+                          SPACE
+```
+
+**Reading C:** The point of physical impact is not necessarily the location of the greatest operational, financial or informational consequence. Shared dependencies can transmit disruption across otherwise unrelated organisations. Some effects may remain invisible to observers, while others become apparent through changes in activity, complaints or public statements.
+
+**Important limitation:** The arrows illustrate possible functional relationships. They do not establish that cryptocurrency intermediaries, financial operations or particular influence networks were hosted at the affected Yandex facilities.
+
+### 🗺️ Triangulating the reactions
+
+The diagram also illustrates why the distribution of public reactions cannot be treated as a direct map of the distribution of damage.
+
+Different participants possess different capacities and incentives to disclose what happened.
+
+| Observed reaction | What it may reveal | What it cannot prove alone |
+|---|---|---|
+| Infrastructure operator reports damage | Physical or technical interruption | Full downstream consequences |
+| Customer reports an outage | Service dependency or interruption | Exact infrastructure responsible |
+| Exchange reports delayed withdrawals | Operational or financial disruption | Connection to the reported strikes |
+| Financial activity moves elsewhere | Possible substitution or recovery | Why the movement occurred |
+| Political actor complains | Publicly expressed concern or interest | Covert coordination or operational dependence |
+| Organisation remains silent | No publicly observed disclosure | Absence or presence of damage |
+| User reports a quieter feed | Changed experienced information environment | Which upstream mechanism caused it |
+
+The investigative value comes from comparing **independent observations**, not from assuming that the loudest complainant experienced the greatest consequences.
+
+Sometimes the loudest organisation has the best press office.
+
+Sometimes it has the worst.
+
+And sometimes the press office has inadvertently disclosed a dependency that nobody previously knew existed.
+
+**The bomb did not necessarily reveal the relationship. The reaction might.**
+
+### ♻️ Recovery is not necessarily restoration
+
+The diagram should also be read dynamically.
+
+Restoring a damaged technical service does not necessarily restore the previous state of every dependent operation.
+
+A missed financial deadline may remain missed.
+
+An interrupted information-gathering process may leave a gap in the available data.
+
+A customer may migrate to another provider.
+
+An organisation may alter its risk calculations and recovery arrangements.
+
+A previously concealed relationship may become publicly documented through the response to the incident.
+
+These are possible second-order consequences, not findings about the October attacks.
+
+**The original disturbance can end while its consequences continue to circulate through the system.**
+
+### 🧿 Visual implementation rule
+
+For any later graphical rendering:
+
+- Distinguish reported physical damage from hypothetical downstream effects.
+- Use dashed arrows for unverified dependencies.
+- Show alternative infrastructure and possible failover.
+- Keep information operations, financial services and ordinary commercial services as separate branches.
+- Do not represent public complaints as a direct measure of damage.
+- Include the possibility of silence, delayed reporting and behavioural adaptation.
+- Preserve feedback from observed consequences into future operational decisions.
+- Do not visually imply that the affected Yandex facilities hosted specific financial or influence operations without independent evidence.
+
+**The point of impact is an observation. The network of consequences is the investigation.**
 
 ---
 
