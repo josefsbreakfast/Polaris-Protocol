@@ -1,11 +1,11 @@
 # ☘️ On Targeting Kneecap And Macklemore
 
-**First created:** 2026-09-19 | **Last updated:** 2026-10-08  
+**First created:** 2026-09-19 | **Last updated:** 2026-10-16  
 *Fear is allowed. The question is what happens when fear becomes an instrument — and what the argument about everybody else’s identity is shouting over.*
 
 ---
 
-*☘️🎶 Musical accompaniment — [Deezer version](https://link.deezer.com/s/34zCEEQh88jhTrKppIO3G) (opener via YouTube: [Tá'n Saol Seo Dhúinne](https://youtu.be/lOvDsvY_PMQ?is=Ik0ayIhkFz2maJnH)), [Spotify version](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=Dqkir85BQZy0w6xaq9kYVw&utm_source=copy-link&pi=JWIjNF5IQmWPR)*
+*☘️🎶 Musical accompaniment — [Deezer version](https://link.deezer.com/s/34zCEEQh88jhTrKppIO3G) (opener via YouTube: [Tá'n Saol Seo Dhúinne](https://youtu.be/lOvDsvY_PMQ?is=Ik0ayIhkFz2maJnH)), [Spotify version](https://open.spotify.com/playlist/6oGS8PrMwtI677CwO1ZlVC?si=Dqkir85BQZy0w6xaq9kYVw&utm_source=copy-link&pi=JWIjNF5IQmWPR), NEWLY RECORED: [TIKTOK REEL](https://vm.tiktok.com/ZN8SPW2qV/), [YOUTUBE](https://youtu.be/nscs49X4_lM?is=MStbr0P-x0drmVvj), [BANDCAMP](https://keithobrien13.bandcamp.com/track/mackle-m-r-cant-hold-us-as-gaeilge-by-keith-o-brien).*
 
 <details>
 <summary>☘️🎶 Musical accompaniment — context and sensitivity notes</summary>
@@ -2084,6 +2084,14 @@ Please do not come to me and complain about the words that I use, when there are
 
 ---
 
+## ☕️ On “Feeling Bad” For Public Figures  
+
+I get it. But don’t feel bad for the moment of awkward; feel bad they were insulated from real criticism, feel bad that part of their identity is only acceptable when demilitarised, emasculated, and presented for English condescension. Feel bad, chiefly, for the people still suffering in the land we are forbidden to talk about. Fell bad that a significant portion of your countrymen, however removed from their roots, are still terrorists and traitors on the blink of an eye, and feel bad for the people compared to a much smaller jurisdiction, when advocating for an adjusted budget, because they are *ober there*, and Westminister still only sees the sea between.  
+
+If you’re going to feel the culture, breathe it; you cannot seize it and expect it to bend at will.  
+
+---
+
 ## 🌌 Constellations
 
 ☘️ 🍉 🕸️ 🤖 🫀 — Irish political information, Palestinian civilian life, securitisation, fear as an information resource, solidarity without equivalence, and the machinery underneath contemporary warfare.
@@ -2126,4 +2134,4 @@ palestine, gaza, information ecology, securitisation, instrumentalised fear, con
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-08_
+_Last updated: 2026-10-16_
