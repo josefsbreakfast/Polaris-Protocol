@@ -312,8 +312,14 @@ Sources below distinguish documented events from the author's interpretations. C
 - [📹: MEE: “Leicester police ‘blanket arrest’ journalists under Terrorism Act for covering protest at Israeli drone factory”](https://www.middleeasteye.net/news/police-blanket-arrest-journalists-under-terrorism-act-covering-elbit-protest) – *”Journalists tell MEE that move has set a 'worrying precedent' and that they no longer ‘feel safe’ after reporting on Elbit protests“*
 - [📰: Drop Site News: “Jeffrey Epstein Helped Israel Sell a Surveillance State to Côte d’Ivoire”](https://www.dropsitenews.com/p/jeffrey-epstein-israel-surveillance-state-cote-d-ivoire-ehud-barak-leaked-emails)
 - [📰: Al Jazeera: “Tested on Palestinians: Epstein, Israel’s Barak pushed spy tech in Nigeria”](https://www.aljazeera.com/features/2026/2/18/tested-on-palestinians-epstein-israels-barak-pushed-spy-tech-in-nigeria)
+- [📰: Financial Times: “New ‘zero-click’ spyware hacked phones using targeted ads”](https://www.ft.com/content/b857f1ed-8af6-4d64-b059-912afee1c075?syn-25a6b1a6=1)
+- [📰: The Jerusalem Post: “Ronen Bar files NIS 3 million defamation lawsuit against Netanyahu over shifting Oct. 7 blame”](https://www.jpost.com/israel-news/politics-and-diplomacy/article-911668)  
 
-*But Labour leadership is more bothered about the wording of another party’s motion; the performance does not reflect the value that is desired to be projected, and Palestinian lives and British sensibilities are being used as political football.*  
+*But Labour leadership is more bothered about the wording of another party’s motion; the performance does not reflect the values that are desired to be projected, and Palestinian lives and British sensibilities are being used as political football.*  
+
+*Tl;dr: why are we still protecting a company implicated as part of Epstein’s business interests, which through what is known to the public can appear a disproportionate legal liberty restriction, when you cannot even tell us how you will guarantee even voter safety for Palestinians who are Israeli citizens, let alone safeguard a two-state “solution”, or answer how you promoted friends of Epstein to the US Ambassadorship?*  
+
+*If you think I’m being unfair to Israelis, you should hear some of the allegations from Ronen Bar; respectfully, we are in quite different places in opinion on many things, but on the matter of “wtf intelligence transmission is this”? Turns out we are both standing there with one eyebrow glued to the sky.  
 
 
 ## ✨ Stardust
