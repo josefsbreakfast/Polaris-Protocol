@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-16 13:27:24 UTC_
+_Generated on 2026-10-16 13:29:09 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4014,6 +4014,7 @@ _Generated on 2026-10-16 13:27:24 UTC_
         - [**🧠_How_Violence_Becomes_Meaningful/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🧠_How_Violence_Becomes_Meaningful/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🧠_How_Violence_Becomes_Meaningful/README.md)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/README.md)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/notes.txt)
       - [**🧾_The_Cost_Of_Life/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🧾_The_Cost_Of_Life/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🧾_The_Cost_Of_Life/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🧾_The_Cost_Of_Life/notes.txt)
