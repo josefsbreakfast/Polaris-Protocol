@@ -37,4 +37,8 @@ same bots that stir across spectrum innit.
 
 biting my tongue to try to be in the middle and see their argument as to why this is a good idea; challenging multiple feels like deliberately trying to undermine the terms of a ceasefire, and should be noted that it’s not fair or true to say even all dup or all loyalists agree with this.  
 
+English legal systems are inherently made to try to keep a different kind of “peace” than we understand today, so should be noted that community self protection is very knife’s edge in law here (part of the irony of the cluster/folder name is that one has to use law to “stand one’s ground”, which inherently disempowers large groups of people most likely to be targeted).  
+
+all you need is some apartheid loving billionaire to want to stir up bs and you can make it a hassle.  
+
 --- 
