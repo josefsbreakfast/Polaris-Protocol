@@ -32,3 +32,9 @@ also worth the men understanding that the harassment/abuse towards female mps wo
 same bots that stir across spectrum innit.  
 
 - - -  
+
++/- ormeau road ? is oo systematically trying to challenge the existing system of status quo, ? how English mediated ni and uk legal systems will meet the challenge this presents.  
+
+biting my tongue to try to be in the middle and see their argument as to why this is a good idea; challenging multiple feels like deliberately trying to undermine the terms of a ceasefire, and should be noted that it’s not fair or true to say even all dup or all loyalists agree with this.  
+
+--- 
