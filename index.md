@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-17 15:45:44 UTC_
+_Generated on 2026-10-17 15:52:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4352,6 +4352,7 @@ _Generated on 2026-10-17 15:45:44 UTC_
         - [`🪆_человек_который_хотел_стать_царём.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🐻_Долой_партию_жуликов_и_воров/🪆_человек_который_хотел_стать_царём.md)
       - [**🔥_Jeunesse_En_Feu/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/README.md)
+        - [`_bismillah_cest_les_tenebres.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/_bismillah_cest_les_tenebres.md)
         - [`⏱️_chronologie_de_la_revolte.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/⏱️_chronologie_de_la_revolte.md)
         - [`⚖️_histoire_de_la_police_francaise.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/⚖️_histoire_de_la_police_francaise.md)
         - [`🎓_ce_que_reclame_la_jeunesse.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🎓_ce_que_reclame_la_jeunesse.md)
