@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-17 11:38:16 UTC_
+_Generated on 2026-10-17 14:10:31 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4377,6 +4377,7 @@ _Generated on 2026-10-17 11:38:16 UTC_
         - [`🏝️_concentration_camps_as_distraction_tactics.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🏝️_concentration_camps_as_distraction_tactics.md)
         - [`🐊_what_was_alligator_alcatraz.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🐊_what_was_alligator_alcatraz.md)
         - [`🐏_use_white_privilage_wisely.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🐏_use_white_privilage_wisely.md)
+        - [`💉_the_shitty_history_of_migration_healthcare.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/💉_the_shitty_history_of_migration_healthcare.md)
         - [`💙_why_dem_cities.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/💙_why_dem_cities.md)
         - [`🕎_politicized_identity.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🕎_politicized_identity.md)
         - [`🕯️_what_in_the_1933.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/🕯️_what_in_the_1933.md)
