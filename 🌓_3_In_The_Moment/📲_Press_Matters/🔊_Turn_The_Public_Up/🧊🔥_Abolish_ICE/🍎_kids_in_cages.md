@@ -1,5 +1,5 @@
 # 🍎 Kids in Cages
-**First created:** 2026-10-09 | **Last updated:** 2026-10-15  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-17  
 *How American immigration administration came to confine children — and why invoking trafficking is not the same as protecting them.*
 
 ---
@@ -299,6 +299,10 @@ The long-term task is to build a system in which a child can be identified witho
 - [🛟 But Immigration](./🛟_but_immigration.md) — immigration administration and less coercive alternatives.
 - [⚖️ Oversight and Prevention Failures](./⚖️_oversight_and_prevention_failures.md) — audits, courts and accountability.
 - [🕎 Politicized Identity](./🕎_politicized_identity.md) — racialisation and politically useful suspect populations.
+
+*Follow the media:*  
+
+- [South Park Fan Account, via TikTok](https://vm.tiktok.com/ZN8Ssnv3a/)  
 
 ## ✨ Stardust
 
