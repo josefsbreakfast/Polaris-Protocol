@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-17 14:25:39 UTC_
+_Generated on 2026-10-17 15:45:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4365,6 +4365,7 @@ _Generated on 2026-10-17 14:25:39 UTC_
         - [`🚨_la_police_face_a_la_jeunesse.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🚨_la_police_face_a_la_jeunesse.md)
         - [`🤝_syndicats_et_solidarites.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🤝_syndicats_et_solidarites.md)
         - [`🥖_la_france_fait_greve_et_alors.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🥖_la_france_fait_greve_et_alors.md)
+        - [`🦺_jaunes_et_jeunes_nos_luttes_se_rencontrent.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🦺_jaunes_et_jeunes_nos_luttes_se_rencontrent.md)
       - [**🧊🔥_Abolish_ICE/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/notes.txt)
