@@ -137,3 +137,143 @@ Broader wartime relevance: Significant. These developments demonstrate exploitab
 Current trend judgement: Operational significance increasing; common-campaign confidence remains low.
 
 That is the distinction worth preserving in Polaris: the infrastructure problem can become more serious even while the evidence for a single coordinating attacker remains weak.”
+
+20261017:  
+
+“🛰️ Iran Infrastructure Watch — 16 October 2026
+
+Four developments warrant an update. The strongest are a confirmed disruption to US federal court administration and new evidence that the French refrigeration attacks affected approximately 700 supermarkets.
+
+The pattern is becoming clearer: essential services can be disrupted through shared contractors, remote-control equipment and administrative systems without an attacker reaching a national control network.
+
+None of the four developments below has been publicly attributed to Iran. That distinction matters.
+
+⚖️ 1. United States — Federal bankruptcy courts disrupted
+
+New disclosure: 15 October 2026 | Sector: Government administration and justice
+
+The US federal judiciary has confirmed that a cybersecurity incident affecting BAE Systems has disabled the Bankruptcy Noticing Center, which the contractor operates for federal bankruptcy courts nationwide.
+
+The affected systems produce and distribute official bankruptcy notices. According to the judiciary, their websites and associated noticing processes were unavailable when it issued its statement.
+
+This is a confirmed interruption to a federal judicial function, not merely a contractor reporting that its computers were compromised.
+
+Attribution confidence: The incident and operational disruption are confirmed. The attacker, intrusion method and any data theft remain undisclosed. There is no established Iranian connection, and no evidence that BAE’s defence programmes were affected.
+
+Competing explanations: Criminal intrusion, ransomware, another state-linked actor or a more limited compromise of the contractor’s judicial-service environment all remain possible.
+
+Trend significance: This strengthens the shared-contractor pattern seen since February. A cyberattack on one commercial provider can interrupt a public function across multiple jurisdictions. The particularly important development is that the failure has propagated into the administration of justice.
+
+Sources:  US Courts — official incident statement, 15 October⁠￼;  BleepingComputer — 16 October report⁠￼.  
+
+🧊 2. France — Refrigeration attacks now confirmed at substantial scale
+
+Incident: approximately 11–12 October | New evidence: 13–15 October | Sector: Food infrastructure and operational technology
+
+This is the most significant new cyber-to-physical development.
+
+France’s national cybersecurity authority has confirmed widespread compromises involving several families of internet-connected refrigeration controllers. Its advisory, first issued on 12 October and expanded on 13 October, identifies AK-SM, AK-SC and XWEB equipment.
+
+By 15 October, reporting based on statements from French officials put the affected total at approximately 700 supermarkets.
+
+Reported consequences include refrigeration temperatures reaching 50°C, food destruction, financial losses and fires. At some stores, attackers reportedly manipulated defrost cycles.
+
+This is no longer simply a case of exposed industrial equipment or an unverified attack claim. The operational and physical effects are established.
+
+Attribution confidence: High for controller compromise and physical disruption; unknown for attacker identity. Investigators had not identified a responsible group, and no credible claim of responsibility or ransom demand had emerged.
+
+Competing explanations: Opportunistic exploitation of exposed, outdated controllers is a strong possibility. Deliberate sabotage is also possible. The lack of an extortion demand is interesting but does not establish state sponsorship.
+
+Iran assessment: The activity is compatible with the broad strategic value of disrupting civilian infrastructure during wartime. However, shared incentives and similar technical effects are not evidence of Iranian responsibility.
+
+Trend significance: Since 28 February, the machinery picture has expanded from water and energy into distributed food-storage systems. Hundreds of ordinary commercial premises can collectively constitute an essential-infrastructure problem when the same control technology is compromised.
+
+Reports of similar effects elsewhere in Europe deserve investigation, but they should not yet be counted as one confirmed multinational campaign. Dutch authorities have also cautioned against assuming a connection with the separate supermarket-network incident there.
+
+Sources:  CERT-FR — official refrigeration-controller advisory⁠￼;  SecurityWeek — 15 October investigation⁠￼;  Reuters — investigators and attribution uncertainty⁠￼.  
+
+🏘️ 3. United Kingdom — Housing Ombudsman’s public-service systems disrupted
+
+Disclosure: 13 October; updated 14 October | Sector: Public administration and complaints infrastructure
+
+The Housing Ombudsman Service has confirmed that an incident involving an external IT supplier affected its case-management system.
+
+Its online complaint form, landlord portal and web chat were taken offline. An initial notification also warned that some contact information might have been copied.
+
+The incident was reported as contained, but the extent of any personal-data compromise remained under investigation.
+
+Attribution confidence: High for the supplier-related incident and interruption to online services. No established attacker identity, method or Iranian connection.
+
+Competing explanations: A criminal intrusion into the supplier, unauthorised access to the case-management environment or another supplier security failure remain possible.
+
+Trend significance: This is a smaller event than the US bankruptcy-court disruption, but the mechanism is similar. The affected system is part of how people obtain an accountable institutional response.
+
+The important question is not whether the Ombudsman’s building remained open. It is whether people could still submit complaints, access their cases and receive decisions normally.
+
+Together with the US judicial incident, this is a meaningful concentration of public-administration disruption through outsourced systems. It does not establish common attackers or coordination.
+
+Source:  Housing Ombudsman — official incident statement⁠￼;  original 13 October notification⁠￼.  
+
+⚡ 4. United States — Texas utility breach now quantified
+
+Earlier incident disclosed: 14 September | New regulatory detail: 13–15 October | Sector: Energy and information infrastructure
+
+A new Texas breach disclosure identifies 1,062,060 affected residents in the previously reported cyber incident at CenterPoint Energy.
+
+The reported data categories include names, addresses, Social Security information and driving-licence numbers.
+
+The company previously confirmed that an unauthorised party obtained customer information through an externally accessible system. It has maintained that electricity and gas delivery were not disrupted.
+
+Attribution confidence: High for unauthorised data acquisition and the newly reported Texas exposure figure. No verified Iranian attribution. Larger numbers circulated by the alleged attacker remain unconfirmed.
+
+Competing explanations: Ordinary criminal data theft or opportunistic exploitation of a customer-facing system currently fits the public evidence at least as well as state-directed activity.
+
+Trend significance: This is not a new October attack. It is a substantial increase in what can be established about an earlier incident.
+
+It reinforces an important distinction in the tracker:
+
+Energy delivery intact ≠ customer information secure.
+
+The breach belongs in the essential-infrastructure record because the affected information is held by a utility performing an essential public function. It must not be reclassified as an electricity-grid intrusion.
+
+Sources:  SecurityWeek — 15 October disclosure⁠￼;  local reporting on the Texas filing⁠￼;  Reuters — original September disclosure⁠￼.  
+
+⸻
+
+🧾 Separate retrospective finding — UK Legal Aid Agency
+
+On 14 October, the Legal Aid Agency published new findings concerning its April 2025 breach.
+
+Investigators established that approximately 250,000 compromised records predated 2007, with the earliest verified record dating from 1978. They also identified some probation-service information among the stolen material.
+
+This is significant for understanding the enduring consequences of compromised state records, particularly where justice-system and vulnerable-person data are involved.
+
+It is not a new incident since 28 February 2026 and should not increase the campaign incident count. The government describes the original intrusion as criminal; no Iranian connection is established.  
+
+Source:  Legal Aid Agency — official 14 October update⁠￼.
+
+🧭 Assessment: What has changed since 28 February?
+
+The strongest emerging pattern is not evidence of one expanding Iranian cyber campaign. It is the growing variety of ways in which essential public functions have demonstrably been affected.
+
+The sequence now includes the March Iran-linked destructive activity against medical-technology infrastructure, the summer US water-control incidents, the reported July shutdown of a small British electricity generator, and October’s confirmed manipulation of commercial refrigeration equipment.  
+
+The October findings add two particularly important dimensions.
+
+First, physical effects are spreading beyond conventional utility categories. Refrigeration controllers are not normally what people imagine when discussing critical national infrastructure. Yet the French incidents demonstrate how widely deployed control equipment can produce substantial real-world losses.
+
+Second, the public administration dependency problem is becoming harder to dismiss. The US courts and British Housing Ombudsman incidents both show how a supplier’s compromised systems can interrupt the state’s ability to process people’s affairs.
+
+Neither pattern requires a common sponsor to be strategically significant.
+
+🕸️ Attribution assessment
+
+Confirmed Iranian responsibility for today’s newly identified incidents: None.
+
+Credible new Iranian attribution for the French refrigeration, US courts, UK Ombudsman or Texas utility incidents: None established.
+
+Broader wartime relevance: Significant. These developments demonstrate exploitable infrastructure dependencies in countries exposed to Iranian threats. They do not demonstrate that Iran exploited those dependencies.
+
+Current trend judgement: Operational significance increasing; common-campaign confidence remains low.
+
+That is the distinction worth preserving in Polaris: the infrastructure problem can become more serious even while the evidence for a single coordinating attacker remains weak.”
