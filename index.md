@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-17 15:52:21 UTC_
+_Generated on 2026-10-17 15:53:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4352,13 +4352,13 @@ _Generated on 2026-10-17 15:52:21 UTC_
         - [`🪆_человек_который_хотел_стать_царём.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🐻_Долой_партию_жуликов_и_воров/🪆_человек_который_хотел_стать_царём.md)
       - [**🔥_Jeunesse_En_Feu/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/README.md)
-        - [`_bismillah_cest_les_tenebres.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/_bismillah_cest_les_tenebres.md)
         - [`⏱️_chronologie_de_la_revolte.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/⏱️_chronologie_de_la_revolte.md)
         - [`⚖️_histoire_de_la_police_francaise.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/⚖️_histoire_de_la_police_francaise.md)
         - [`🎓_ce_que_reclame_la_jeunesse.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🎓_ce_que_reclame_la_jeunesse.md)
         - [`🎬_la_haine_na_jamais_disparu.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🎬_la_haine_na_jamais_disparu.md)
         - [`🏛️_le_maire_face_a_la_police.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🏛️_le_maire_face_a_la_police.md)
         - [`🏫_lecole_et_les_inegalites.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🏫_lecole_et_les_inegalites.md)
+        - [`💀_bismillah_cest_les_tenebres.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/💀_bismillah_cest_les_tenebres.md)
         - [`💨_LES_GARS_VOUS_AVEZ_GAZE_LE_MAIRE.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/💨_LES_GARS_VOUS_AVEZ_GAZE_LE_MAIRE.md)
         - [`💰_des_livres_pas_des_bombes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/💰_des_livres_pas_des_bombes.md)
         - [`📣_les_mots_de_la_colere.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/📣_les_mots_de_la_colere.md)
