@@ -1,5 +1,5 @@
 # 🍎 Kids in Cages
-**First created:** 2026-10-09 | **Last updated:** 2026-10-17  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-18  
 *How American immigration administration came to confine children — and why invoking trafficking is not the same as protecting them.*
 
 ---
@@ -302,7 +302,8 @@ The long-term task is to build a system in which a child can be identified witho
 
 *Follow the media:*  
 
-- [South Park Fan Account, via TikTok](https://vm.tiktok.com/ZN8Ssnv3a/)  
+- [South Park Fan Account, via TikTok: Cartman calls ICE on Kyle’s family](https://vm.tiktok.com/ZN8Ssnv3a/)
+- [📰: The Guardian: “Reform candidate filmed saying asylum seekers should be put in ‘concentration camps’”](https://www.theguardian.com/politics/2026/oct/17/reform-candidate-filmed-saying-asylum-seekers-should-be-put-in-concentration-camps)  
 
 ## ✨ Stardust
 
