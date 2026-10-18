@@ -1,5 +1,5 @@
 # 🦐 Krill Wars  
-**First created:** 2026-05-31 | **Last updated:** 2026-06-01  
+**First created:** 2026-05-31 | **Last updated:** 2026-10-18  
 *A current-facing media pack on AUKUS, undersea drones, cables, submarines, AI, hostile-state probing, and the hidden sea layer of modern defence.*  
 
 ---
@@ -374,7 +374,11 @@ If a node cannot answer one of those questions, it probably belongs in a deeper 
 
 ## 🌌 Constellations
 
-🦐 🌊 🐋 🛰️ 🎖️ — undersea technology frontier; cables; submarines; AUKUS; public defence literacy; recruitment meaning.
+🦐 🌊 🐋 🛰️ 🎖️ — undersea technology frontier; cables; submarines; AUKUS; public defence literacy; recruitment meaning.  
+
+*Follow the evidence:*  
+
+- [📺: The Times, via YouTube: “What Happens If Russia Cuts Britain's Undersea Cables?”](https://youtu.be/q1MCJsEVW3M?is=yJnLy5gM7XjXpVBO)  
 
 ---
 
@@ -399,4 +403,4 @@ The cluster exists because the public has been given the nouns but not the syste
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-*Last updated: 2026-06-01*
+_Last updated: 2026-10-18_
