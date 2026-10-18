@@ -277,3 +277,62 @@ Broader wartime relevance: Significant. These developments demonstrate exploitab
 Current trend judgement: Operational significance increasing; common-campaign confidence remains low.
 
 That is the distinction worth preserving in Polaris: the infrastructure problem can become more serious even while the evidence for a single coordinating attacker remains weak.”
+
+20261018:  
+
+“🛰️ Iran Infrastructure Watch — 18 October 2026
+
+One development meets the reporting threshold: the cybersecurity incident affecting European and American food-distribution networks is causing longer operational disruption than initially anticipated.
+
+🥬 Netherlands, Belgium and United States — Food-distribution disruption continues
+
+Incident began: 11 October 2026
+New developments: 16–17 October
+Sector: Food supply, logistics and digital infrastructure
+Attribution: Unknown; no established Iranian connection.
+
+The cybersecurity incident at Ahold Delhaize has now produced a more substantial operational record.
+
+On 16 October, its Dutch supermarket chain, Albert Heijn, confirmed that online grocery deliveries had been cancelled through at least Tuesday 20 October. Customers could not place new orders, and customer-service systems remained unavailable.
+
+This extends the interruption beyond the initial recovery expectations.
+
+The distinction between distribution and delivery is important. Albert Heijn reported that its distribution centres had restarted and normal deliveries to physical shops had resumed by 15 October. Shelves were being replenished, but online fulfilment remained unavailable.
+
+The incident has also affected the group’s American operations. Reporting on 17 October confirmed that the website and app of its US supermarket chain Stop & Shop remained offline, although physical shops continued trading.
+
+In Belgium, Delhaize had also been relying on alternative ordering arrangements during recovery.  
+
+Sources:  Albert Heijn — official incident updates⁠￼;  Reuters — cross-border disruption, 16 October⁠￼;  NL Times — extended delivery suspension, 17 October⁠￼.
+
+🕸️ Attribution and competing explanations
+
+The company has confirmed a cybersecurity incident and precautionary system shutdowns. It has not publicly established the intrusion method, identified an attacker or confirmed data theft.
+
+Criminal intrusion remains a plausible explanation. A shared-network security problem followed by defensive isolation could account for the disruption without requiring an attacker to manipulate each affected logistics system individually.
+
+There is no demonstrated Iranian tasking, sponsorship or operational connection.
+
+The incident is relevant to broader wartime disruption incentives because food distribution is an essential civilian dependency. That relevance does not constitute attribution.
+
+Crucially, Dutch cybersecurity authorities have reported no reason to connect this incident with the separate attacks on refrigeration controllers in France.  
+
+📊 What changes in the trend since 28 February?
+
+The October food-sector incidents now demonstrate two distinct routes from cyber activity to physical disruption.
+
+In France, attackers manipulated refrigeration-control equipment, causing spoilage and physical damage.
+
+In the Netherlands, a cybersecurity incident and the resulting defensive shutdown interrupted distribution centres, online ordering and deliveries. Physical shops largely continued operating, but maintaining that continuity required operational workarounds.
+
+The shared outcome is disrupted food infrastructure. The demonstrated technical mechanisms differ.
+
+This strengthens the wider pattern of essential-service disruption through distributed commercial infrastructure, alongside the previously documented water, energy and public-administration incidents.
+
+It does not strengthen the case for a single coordinated Iranian campaign.
+
+Current assessment: Operational consequences remain significant, with recovery extending beyond initial expectations. Attribution confidence remains low, and common-campaign linkage is unestablished.
+
+The next meaningful threshold would be evidence identifying the intrusion method, connecting incidents through shared infrastructure or operators, or demonstrating that the disruption was deliberately commissioned rather than an unintended consequence of intrusion and containment.”  
+
+- - -  
