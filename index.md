@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-18 08:37:09 UTC_
+_Generated on 2026-10-18 08:50:44 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4203,7 +4203,11 @@ _Generated on 2026-10-18 08:37:09 UTC_
         - [`📁_fightback_plan_leaks.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/📮_RSVPs/📁_fightback_plan_leaks.md)
         - [`😇_conservatives_just_asking_questions.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/📮_RSVPs/😇_conservatives_just_asking_questions.md)
       - [**🦅_Airmail_Par_Avon/**](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/🦅_Airmail_Par_Avon/)
+        - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/🦅_Airmail_Par_Avon/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/🦅_Airmail_Par_Avon/notes.txt)
+        - [`👑_the_worst_three_kings.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/🦅_Airmail_Par_Avon/👑_the_worst_three_kings.md)
+        - [`👑_the_worst_three_kings_parallel_timeline.csv`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/🦅_Airmail_Par_Avon/👑_the_worst_three_kings_parallel_timeline.csv)
+        - [`🔮_great_ex_pm_zoltar_machine_detector.py`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/🦅_Airmail_Par_Avon/🔮_great_ex_pm_zoltar_machine_detector.py)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/README.md)
       - [`⚖️_intent_free_risk.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/⚖️_intent_free_risk.md)
       - [`🌉_the_bridge_is_the_target.md`](🌓_3_In_The_Moment/📲_Press_Matters/💌_Visible_Ink/🌉_the_bridge_is_the_target.md)
