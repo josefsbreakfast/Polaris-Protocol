@@ -1,6 +1,6 @@
 # 🦺 Jaunes et Jeunes : Nos Luttes Se Rencontrent
 
-**First created:** 2026-10-17 | **Last updated:** 2026-10-17  
+**First created:** 2026-10-17 | **Last updated:** 2026-10-18  
 *The yellow vests, the young, and the political engineering of finding one another without becoming the same thing.*
 
 ---
@@ -259,6 +259,10 @@ And the homework concerns the Republic.
 - [📺 Qui raconte la révolte](./📺_qui_raconte_la_revolte.md) — the narratives through which a movement becomes publicly legible.
 - [⚖️ Histoire de la police française](./⚖️_histoire_de_la_police_francaise.md) — historical context for policing and memory.
 - [⏱️ Chronologie de la révolte](./⏱️_chronologie_de_la_revolte.md) — dates, claims and verified events.
+
+*Follow the media:*  
+
+- [📹: Brut., via TikTok: “Un manifestant vient de se faire arracher la main par une grenade policière à Saint-Étienne ce 17 octobre.”](https://vm.tiktok.com/ZN8S3kDV9/) – *But you are all crying for a building? And how are the younger generations supposed to interpret that?*  
 
 ## ✨ Stardust — Sources, Evidence and Open Questions
 
