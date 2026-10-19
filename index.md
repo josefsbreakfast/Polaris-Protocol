@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-18 18:52:46 UTC_
+_Generated on 2026-10-19 07:02:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4239,6 +4239,9 @@ _Generated on 2026-10-18 18:52:46 UTC_
         - [`🫂_reassurance_requires_evidence.md`](🌓_3_In_The_Moment/📲_Press_Matters/📰_Responsible_Reporting/🕯️_Rising_Black_Deaths_In_Public/🫂_reassurance_requires_evidence.md)
       - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/📰_Responsible_Reporting/README.md)
     - [**🔊_Turn_The_Public_Up/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/)
+      - [**🇺🇸_Protecting_The_Constitution/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🇺🇸_Protecting_The_Constitution/)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🇺🇸_Protecting_The_Constitution/notes.txt)
+        - [`👑_no_kings_vote_early.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🇺🇸_Protecting_The_Constitution/👑_no_kings_vote_early.md)
       - [**🌹_Por_Todas_Las_Maricarmen/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/README.md)
         - [`⚖️_el_derecho_a_la_vivienda.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🌹_Por_Todas_Las_Maricarmen/⚖️_el_derecho_a_la_vivienda.md)
@@ -4379,6 +4382,8 @@ _Generated on 2026-10-18 18:52:46 UTC_
         - [`🤝_syndicats_et_solidarites.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🤝_syndicats_et_solidarites.md)
         - [`🥖_la_france_fait_greve_et_alors.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🥖_la_france_fait_greve_et_alors.md)
         - [`🦺_jaunes_et_jeunes_nos_luttes_se_rencontrent.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🦺_jaunes_et_jeunes_nos_luttes_se_rencontrent.md)
+      - [**🦩_Revolucioni_i_Flamingove/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🦩_Revolucioni_i_Flamingove/)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🦩_Revolucioni_i_Flamingove/notes.txt)
       - [**🧊🔥_Abolish_ICE/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🧊🔥_Abolish_ICE/notes.txt)
