@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-19 20:58:58 UTC_
+_Generated on 2026-10-19 21:11:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4382,6 +4382,7 @@ _Generated on 2026-10-19 20:58:58 UTC_
         - [`🤝_syndicats_et_solidarites.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🤝_syndicats_et_solidarites.md)
         - [`🥖_la_france_fait_greve_et_alors.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🥖_la_france_fait_greve_et_alors.md)
         - [`🦺_jaunes_et_jeunes_nos_luttes_se_rencontrent.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🦺_jaunes_et_jeunes_nos_luttes_se_rencontrent.md)
+        - [`🩺_médic_médic.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🩺_médic_médic.md)
         - [`🩺_médic_médic.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🩺_médic_médic.md)
       - [**🦩_Revolucioni_i_Flamingove/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🦩_Revolucioni_i_Flamingove/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🦩_Revolucioni_i_Flamingove/notes.txt)
