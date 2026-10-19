@@ -1,3 +1,9 @@
+a whole set of media sources to add to this but fuck me a lot of self proclaimed liberal voices are fucking quiet when reform are caught out calling people with different tones of skin “animals”, yet you were all the experts on racism when it came to the Green Party motion, huh.  
+
+do we think that talking over Palestinians’ experiences of violence might have been a bit racist?  
+
+---  
+
 # 🇮🇱 Zionism Is Racism
 **First created:** 2026-02-01 | **Last updated:** 2026-10-09  
 *The 2026 Green Party motion as a worked case in Zionism, racism, responsible reporting, attribution hygiene, minority safety, and democratic information defence.*
