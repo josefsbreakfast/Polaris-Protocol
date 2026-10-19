@@ -336,3 +336,38 @@ Current assessment: Operational consequences remain significant, with recovery e
 The next meaningful threshold would be evidence identifying the intrusion method, connecting incidents through shared infrastructure or operators, or demonstrating that the disruption was deliberately commissioned rather than an unintended consequence of intrusion and containment.”  
 
 - - -  
+
+20261019:  
+
+“🛰️ Iran Infrastructure Watch — 19 October 2026
+
+One credible development meets the reporting threshold: a major European food retailer has extended its cyber-related disruption, with online grocery deliveries now expected to remain offline for at least 11 days.
+
+🇳🇱 Netherlands and 🇺🇸 United States — Food distribution and retail logistics
+
+New development: 19 October 2026
+Original incident: 11–12 October
+Affected organisation: Ahold Delhaize and its supermarket brands.
+
+Reuters reports that Dutch supermarket chain Albert Heijn will not resume online deliveries before Thursday 22 October at the earliest. Websites and delivery services for several Dutch and US brands also remained offline on 19 October. Belgian Delhaize deliveries resumed over the weekend. Physical shops remain open, although some have experienced supply difficulties.  
+
+Operational impact: Sustained disruption to online ordering and delivery, with knock-on effects on retail logistics. This is not evidence of a nationwide food shortage or a complete breakdown of supermarket supply.
+
+Attribution confidence: The cybersecurity incident and continuing disruption are confirmed. The attacker, intrusion method and any state involvement remain unestablished. The company has reported no evidence that customer data was stolen.  
+
+Competing explanations: Criminal intrusion remains plausible. The shutdowns may also reflect extensive precautionary isolation while the company investigates and restores systems. There is no verified evidence of Iranian tasking, sponsorship or operational involvement.
+
+Fit with Iranian methods and wartime incentives: Disruption to food distribution could serve broader coercive or economic objectives, but that strategic relevance is not attribution evidence. The current public record does not establish that this incident fits a known Iranian operation.
+
+🧭 What changes since 28 February 2026?
+
+The important change is duration, not attribution. A cross-border retailer’s cybersecurity incident is continuing to affect online services well beyond its initial response period.
+
+Together with the separate French refrigeration-controller attacks, this demonstrates two distinct ways cyber incidents can affect food infrastructure:
+
+* Digital and logistical disruption: ordering, distribution and delivery systems become unavailable.
+* Cyber-to-physical disruption: compromised refrigeration controls cause spoilage and other physical consequences.
+
+Authorities have reported no established connection between the Dutch and French incidents. They should remain separate entries unless technical or investigative evidence establishes a link.  
+
+Overall assessment: Food-sector operational disruption remains significant, but evidence of a coordinated campaign or Iranian involvement remains insufficient. No other newly verified development found in this search materially changes the assessment across the other monitored sectors.”
