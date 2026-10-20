@@ -371,3 +371,66 @@ Together with the separate French refrigeration-controller attacks, this demonst
 Authorities have reported no established connection between the Dutch and French incidents. They should remain separate entries unless technical or investigative evidence establishes a link.  
 
 Overall assessment: Food-sector operational disruption remains significant, but evidence of a coordinated campaign or Iranian involvement remains insufficient. No other newly verified development found in this search materially changes the assessment across the other monitored sectors.”
+
+---  
+
+20261020:  
+
+“🛰️ Iran Infrastructure Watch — 20 October 2026
+
+One meaningful update: investigators have confirmed deliberate malicious activity behind the multinational supermarket disruption. This strengthens the incident classification, but not the case for Iranian involvement.
+
+🇳🇱 🇧🇪 🇺🇸 Food infrastructure — Malicious activity confirmed
+
+Original incident: 11 October 2026
+New confirmation: 19 October 2026
+Sectors: Food distribution, retail logistics and digital infrastructure.
+
+Ahold Delhaize has formally confirmed that its investigation identified malicious activity within its IT infrastructure.
+
+The company filed a police report on 19 October, having already notified Dutch cybersecurity authorities within 24 hours of detecting the incident.
+
+Its  official statement, published 19 October⁠￼ also establishes that:
+
+* Albert Heijn’s website and app have been restored, with home deliveries expected to resume on 23 October.
+* Belgian e-commerce operations are functioning again.
+* American supermarket brands are undergoing phased restoration.
+* Physical shops remained open throughout, although distribution and online services were disrupted.
+* Investigators have not identified evidence that sensitive customer, employee or partner information was stolen.  
+
+🕸️ Attribution assessment
+
+Deliberate malicious activity: Confirmed by the affected company.
+
+Attacker identity: Unknown.
+
+Iranian sponsorship or tasking: No evidence established.
+
+Competing explanations: Criminal intrusion, extortion-related activity, opportunistic exploitation and state-directed disruption remain possible. The public evidence does not yet distinguish between them.
+
+The incident’s cross-border effects are consistent with the strategic value of disrupting essential civilian supply chains during wartime. They do not establish that this was the attacker’s objective.
+
+Dutch authorities have also found no reason to connect this incident directly with the separate French refrigeration-controller attacks.  
+
+📊 What changes since 28 February?
+
+The significant change is evidentiary.
+
+Previously, the company had confirmed suspicious activity and precautionary shutdowns. It has now confirmed that the activity was malicious.
+
+That moves the incident from:
+
+Suspected intrusion with confirmed operational consequences
+
+to:
+
+Confirmed malicious cyber incident with multinational operational consequences.
+
+It does not establish destructive intent, physical-system manipulation or state responsibility.
+
+The wider October pattern remains significant: food distribution and refrigeration infrastructure have both experienced substantial disruption, through apparently different mechanisms.
+
+Trend assessment: Confirmed malicious activity affecting multinational food infrastructure; operational recovery progressing; Iranian attribution unestablished.
+
+This remains one incident, not an additional October attack. The next substantial escalation would be evidence of a common operator, shared technical infrastructure, deliberate sabotage objectives or further disruption spreading into essential supply systems.”  
+--- 
