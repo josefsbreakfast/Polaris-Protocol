@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-20 15:23:57 UTC_
+_Generated on 2026-10-20 16:02:19 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4368,6 +4368,7 @@ _Generated on 2026-10-20 15:23:57 UTC_
       - [**🔥_Jeunesse_En_Feu/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/README.md)
         - [`⏱️_chronologie_de_la_revolte.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/⏱️_chronologie_de_la_revolte.md)
+        - [`♻️_the_cybernetics_of_rlhf.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/♻️_the_cybernetics_of_rlhf.md)
         - [`⚖️_histoire_de_la_police_francaise.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/⚖️_histoire_de_la_police_francaise.md)
         - [`🎓_ce_que_reclame_la_jeunesse.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🎓_ce_que_reclame_la_jeunesse.md)
         - [`🎬_la_haine_na_jamais_disparu.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🎬_la_haine_na_jamais_disparu.md)
