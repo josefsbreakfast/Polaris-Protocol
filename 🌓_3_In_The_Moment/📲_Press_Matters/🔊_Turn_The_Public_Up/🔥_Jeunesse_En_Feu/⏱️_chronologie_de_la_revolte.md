@@ -1,5 +1,5 @@
 # ⏱️ Chronologie de la Révolte
-**First created:** 2026-10-09 | **Last updated:** 2026-10-09  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-20  
 *Jeunesse en Feu: the schools, the streets, the organisations and the Republic's remarkably well-developed capacity to announce things.*
 
 ---
@@ -8,11 +8,11 @@
 
 A chronology ought to be a fairly modest instrument. It answers **what happened, where, when, according to whom, and what happened next?** That modesty becomes politically important when several institutions are simultaneously producing their own accounts of the same autumn. A lycée pupil has a timetable. A rectorat has a staffing establishment. A minister has a press calendar. Parliament has an order paper. None of these is necessarily the same clock.
 
-This is the dated evidence spine for **🔥 Jeunesse en Feu**, covering the reported French lycée mobilisation of September–October 2026, the associated education dispute and the public responses visible **up to 9 October 2026**. It is a living chronology, not a declaration that every report in the research archive has been independently authenticated. The dated entries below are drawn from the constellation's existing [Stage One audit](./🗃️_jeunesse_en_feu_stage_1_evidence_audit.md), [Stage Two voices collection](./📣_jeunesse_en_feu_stage_2_voix_sources.md), and the [chronology plan](./⏱️_chronologie_de_la_revolte_plan.md). **An attempted fresh retrieval of several key online sources on 9 October failed**, so where an original document has not been re-opened, the entry remains an *audit-derived account* rather than a new verification.
+This is the dated evidence spine for **🔥 Jeunesse en Feu**, covering the reported French lycée mobilisation of September–October 2026, the associated education dispute and the public responses visible **up to 20 October 2026**. It is a living chronology, not a declaration that every report in the research archive has been independently authenticated. The earlier edition, closed on 9 October, was assembled from contemporary reporting, official publications and other nodes in this constellation. It also cited four supposed internal research files that **never existed**. Those references have been removed; their supposed existence must not be used to authenticate a single claim. Earlier entries remain attributed to the actual named publications where possible, and open where the underlying reporting has not been rechecked. This revision adds dated reporting through **20 October**, retaining the difference between the event, its publication, an actor's claim and an independently established finding. The 9 October cut-off remains a historical checkpoint, not the endpoint of this chronology.
 
 That distinction is not decorative. A reported shortage is not an official vacancy return; a demonstration called for is not a demonstration counted; a budget proposed is not a budget spent. The Republic may stamp *RECEIVED* on a complaint. The complaint may still be sitting in a classroom without a teacher.
 
-**Reading key:** **[R]** retrospectively reported event; **[A]** attributed actor claim or testimony; **[O]** official announcement or record cited in the working audit; **[P]** proposed policy or future action; **[U]** unresolved lead or incomplete verification; **[E]** editorial/research checkpoint. These are **evidence descriptions, not truth scores**. An official source can conclusively establish that an announcement was made without establishing that the announced remedy worked.
+**Reading key:** **[R]** retrospectively reported event; **[A]** attributed actor claim or testimony; **[O]** attributable official announcement or record; **[P]** proposed policy or future action; **[U]** unresolved lead or incomplete verification; **[E]** editorial/research checkpoint. These are **evidence descriptions, not truth scores**. An official source can conclusively establish that an announcement was made without establishing that the announced remedy worked.
 
 ## 1. 🧭 The Short Route Through the Dates
 
@@ -34,7 +34,14 @@ That distinction is not decorative. A reported shortage is not an official vacan
 | **7 Oct** | National Assembly committee | Education minister appeared | [O] Video/agenda lead; verbatim exchange not audited here |
 | **7 Oct** | National Assembly plenary | Belluco–Geffray exchange on schools and budget | [O/A] Speaker claims use different comparisons |
 | **7 Oct** | Higher-education unions | Inter-union statement concerning ministerial meeting | [A] Specific organisations, not all pupils |
-| **9 Oct** | Polaris | Research cut-off | [E] Not a French protest event |
+| **9 Oct** | Polaris | Original edition's research cut-off | [E] Not a French protest event |
+| **15 Oct** | Gradignan | Ministerial school visit; first consultation figures and possible additional posts reported | [A/R] Reported 16 Oct; proposal not recruitment |
+| **17 Oct** | Nationwide | Large demonstrations and serious disorder in some cities; rival turnout estimates | [R/A] Distinguish peaceful marchers, perpetrators, and different tally times |
+| **17 Oct** | Saint-Étienne | Demonstrator suffers traumatic hand injury; investigation reported | [R/O] Munition model and precise sequence open |
+| **17–18 Oct** | Paris, Boulevard de Magenta | Death after reported medical emergency | [R/A] Underlying cause and any link to police contact unresolved |
+| **17–19 Oct** | Paris, Place de la République | Video allegations involving person described as medic | [U] Identity, role, sequence and welfare unverified; separate case |
+| **19 Oct** | France | Follow-up reporting on injuries, damage, policing and investigations | [R] Publication date, not a second national protest event |
+| **20 Oct** | Polaris | Current verification and correction checkpoint | [E] No inference of event on this date |
 
 A date in this table is an invitation to inspect its evidence, not permission to attach every other event in France to it. The following sections unpack the separate clocks.
 
@@ -42,7 +49,7 @@ A date in this table is an invitation to inspect its evidence, not permission to
 
 It is tempting to begin a protest chronology with a dramatic image: the gates, the banners, the police van, the person with a microphone who has arrived to explain the young to themselves. That is usually too late. Staffing gaps, inaccessible support, degraded buildings and decisions about resources have histories that predate the photograph. Yet **a plausible history is not a dated history**.
 
-The current working archive does not securely establish one national founding day for this mobilisation. Nor does a retrospective description of Saint-Exupéry as a place where blockades began prove that every other lycée copied it. The ten-point programme associated with L'Union Étudiante belongs to the constellation's demands analysis, but its exact first-publication date and revisions require comparison with archived versions before it can be assigned a place in this timeline. See [🎓 Ce Que Réclame La Jeunesse](./🎓_ce_que_reclame_la_jeunesse.md).
+The sources retained in this edition do not securely establish one national founding day for this mobilisation. Nor does a retrospective description of Saint-Exupéry as a place where blockades began prove that every other lycée copied it. The ten-point programme associated with L'Union Étudiante belongs to the constellation's demands analysis, but its exact first-publication date and revisions require comparison with archived versions before it can be assigned a place in this timeline. See [🎓 Ce Que Réclame La Jeunesse](./🎓_ce_que_reclame_la_jeunesse.md).
 
 Likewise, the start of the academic year is not itself the start of a protest. It is the moment when institutional arrangements meet actual pupils. That meeting may reveal problems which were already present on an administrative spreadsheet, or problems which the spreadsheet does not capture at all. The distinction between **a problem existing**, **a person noticing**, **a complaint being filed**, and **a complaint becoming public** is central to this story.
 
@@ -50,7 +57,7 @@ Likewise, the start of the academic year is not itself the start of a protest. I
 
 ### 17 September — staff action enters the record
 
-The working evidence audit, drawing on subsequent reporting, places staff mobilisation at Lycée Saint-Exupéry on **17 September**. That is a useful dated lead, but it does not yet supply a complete original staff notice, signatory list or minute-by-minute account. The appropriate entry is **retrospectively reported staff mobilisation**, not a claim that every employee joined an officially documented strike on that date.
+The 5 October *Le Monde* retrospective reporting, as summarised in the previous edition, places staff mobilisation at Lycée Saint-Exupéry on **17 September**. That is a useful dated lead, but it does not yet supply a complete original staff notice, signatory list or minute-by-minute account. The appropriate entry is **retrospectively reported staff mobilisation**, not a claim that every employee joined an officially documented strike on that date.
 
 Who was missing matters. So does who had the authority to remedy each absence. Teachers, a deputy head, a school nurse, a social worker, vocational support and disability-support assistants do not necessarily sit on one administrative line. A complaint that sounds singular to a pupil — *the school is not properly staffed* — can be divided among multiple authorities before anybody is obliged to answer it.
 
@@ -72,7 +79,7 @@ The 20 September statement called for further action on **21 September**. That e
 
 ## 4. 🚨 23 September: An Incident with Its Own Evidentiary Burden
 
-The 5 October retrospective reporting cited by the working audit describes an incident involving **fireworks directed towards part of Saint-Exupéry** on **23 September**, with injuries reported. The incident deserves serious treatment and a separate entry. The present archive does not securely establish a complete police report, the definitive number or circumstances of injuries, or adjudicated responsibility.
+The 5 October retrospective reporting identified in the previous edition describes an incident involving **fireworks directed towards part of Saint-Exupéry** on **23 September**, with injuries reported. The incident deserves serious treatment and a separate entry. The present archive does not securely establish a complete police report, the definitive number or circumstances of injuries, or adjudicated responsibility.
 
 The chronology therefore must not imply that everyone participating in a blockade was responsible for the incident. Nor should it turn a reported act of violence into proof that earlier staffing grievances were invented. These are different questions. The school can have genuine material problems; pupils can organise collectively; an incident can occur nearby or during a period of mobilisation; and responsibility for that incident still requires evidence.
 
@@ -88,7 +95,7 @@ What *is* historically interesting is the accumulation of local accounts around 
 
 ## 6. 🏫 Week of 28 September: The Gates Reopen
 
-The 5 October *Le Monde* follow-up, as represented in the Stage One audit, reports that lessons resumed **during the week beginning 28 September**, following recruitment decisions by the rectorat. The precise first day on which each class resumed is not established in the retained planning record; **week-level precision** is the appropriate notation.
+The 5 October *Le Monde* follow-up, as described in the previous edition, reports that lessons resumed **during the week beginning 28 September**, following recruitment decisions by the rectorat. The precise first day on which each class resumed is not established in the retained planning record; **week-level precision** is the appropriate notation.
 
 This is a meaningful operational development. Pupils returning to lessons matters. But **a return to lessons is not a certificate that every missing service has been restored**. The follow-up reportedly continued to identify concerns about AESH provision and building maintenance. The chronology therefore preserves two statements at once: a resumption of teaching was reported; comprehensive resolution was not demonstrated.
 
@@ -104,7 +111,7 @@ A school can be *open* while its students are still waiting. This is not a parad
 
 ## 7. 💰 1 October: A Budget Appears, but Not Yet in the Classroom
 
-The working audit identifies **1 October 2026** as the publication date of the ministry's proposed **2027 education budget dossier**. Associated official and press accounts describe a school budget of just over **€64 billion**, an increase of approximately **€1.2 billion**, and a net staffing proposal of **3,257 positions**. The archive also records a figure of **1,588 fewer established teacher positions**, offset by other categories, including trainee teachers and support roles. These are **reported budget claims awaiting direct table-by-table revalidation**, not independently reconciled figures in this draft.
+The previously cited ministry budget dossier identifies **1 October 2026** as the publication date of the ministry's proposed **2027 education budget dossier**. Associated official and press accounts describe a school budget of just over **€64 billion**, an increase of approximately **€1.2 billion**, and a net staffing proposal of **3,257 positions**. The archive also records a figure of **1,588 fewer established teacher positions**, offset by other categories, including trainee teachers and support roles. These are **reported budget claims awaiting direct table-by-table revalidation**, not independently reconciled figures in this draft.
 
 Why the caution? Because different figures may describe different perimeters: ministries versus programmes, headcount versus full-time equivalents, authorised posts versus filled posts, teachers in training versus established teachers, and nominal euros versus inflation-adjusted purchasing power. The working sources also contain variants such as **3,303** instead of **3,257** and **300** versus **304** medical-social posts. A neat single number would be convenient. It would also risk being wrong.
 
@@ -114,15 +121,15 @@ There is a political argument about the relationship between education and defen
 
 ## 8. 📣 2–3 October: Placards, Places and the Date on the Article
 
-The Stage Two quotation audit records **2 October** reporting from **Agen**, including the technology joke **« 404 : prof not found »**. A related report concerns **Cahors**, including accounts of confrontation with police. These are useful contemporary publication anchors, but the article date must not automatically become the exact date every photographed placard was raised.
+The cited *La Dépêche* reporting records **2 October** reporting from **Agen**, including the technology joke **« 404 : prof not found »**. A related report concerns **Cahors**, including accounts of confrontation with police. These are useful contemporary publication anchors, but the article date must not automatically become the exact date every photographed placard was raised.
 
-Another slogan in the source collection, **« On manque nos leçons pour vous en donner une »** — *We're missing our lessons to teach you one* — appears with location distinctions involving Cahors and a credited photograph from **Quimper**. The earlier audit explicitly warned against relocating the image to Montpellier. This sounds like fussy cataloguing until the same photograph is recycled into a supposedly different protest. Then it becomes the difference between a useful archive and a misinformation machine with excellent typography.
+Another slogan in the source collection, **« On manque nos leçons pour vous en donner une »** — *We're missing our lessons to teach you one* — appears with location distinctions involving Cahors and a credited photograph from **Quimper**. The earlier edition warned against relocating the image to Montpellier. This sounds like fussy cataloguing until the same photograph is recycled into a supposedly different protest. Then it becomes the difference between a useful archive and a misinformation machine with excellent typography.
 
 Slogans should therefore carry **original French, faithful translation, date of publication, event date if established, photographer or reporting outlet, and place**. Where any field is missing, it stays missing. A photograph is evidence of a scene; a caption is a claim about the scene; neither is permission to invent a national organiser.
 
 ## 9. 🏛️ 4 October: The Prime Minister Writes to the Lycéens
 
-The working audit identifies a **4 October** letter addressed to lycée pupils, published through the education ministry, setting out **five areas of work**: replacement teachers, school buildings, timetables, transparency around **Parcoursup**, and lycée democracy. Its existence and contents should be checked against the original [ministry publication](https://www.education.gouv.fr/lyceennes-lyceens-vous-avez-la-parole-506143) before direct quotation. The present node records the five areas as **the working audit's account of the letter**, not as a freshly transcribed primary text.
+The earlier edition identifies a **4 October** letter addressed to lycée pupils, published through the education ministry, setting out **five areas of work**: replacement teachers, school buildings, timetables, transparency around **Parcoursup**, and lycée democracy. Its existence and contents should be checked against the original [ministry publication](https://www.education.gouv.fr/lyceennes-lyceens-vous-avez-la-parole-506143) before direct quotation. The present node records the five areas as **the earlier edition's account of the letter**, not as a freshly transcribed primary text.
 
 There is an institutional distinction worth retaining. A letter **acknowledges** an audience and defines what its author proposes to discuss. It does not necessarily adopt the audience's full programme. The constellation's ten-demand comparison belongs in [🎓 Ce Que Réclame La Jeunesse](./🎓_ce_que_reclame_la_jeunesse.md). For the chronology, the question is simpler: **what was offered on this date, and what would have to happen later for us to say it was delivered?**
 
@@ -134,27 +141,27 @@ The ministry's consultation for lycée pupils reportedly opened on **5 October**
 
 Also on **5 October**, *Le Monde* published the Saint-Exupéry follow-up used throughout this chronology. That is a **journalistic publication event**, not a new blockade or government decision. Its retrospective account helps reconstruct September, but it does not move those September events into October.
 
-A reported figure of **35,000 consultation responses in 24 hours** appears in the Stage One audit as a **ministerial claim** subsequently voiced on 7 October. It is not an independently audited count in this node, and no demographic representativeness should be inferred from it. The number of submissions and the number of distinct pupils, for example, are not automatically the same thing.
+A reported figure of **35,000 consultation responses in 24 hours** appears in the earlier edition as a **ministerial claim** subsequently voiced on 7 October. It is not an independently audited count in this node, and no demographic representativeness should be inferred from it. The number of submissions and the number of distinct pupils, for example, are not automatically the same thing.
 
 ## 11. 📣 6 October: Students Continue to Speak
 
-The Stage Two collection identifies reports and interviews involving pupils in **Toulouse, Sevran, Strasbourg** and elsewhere around **6 October**. These should remain distinct testimonies. Their words can illustrate anxieties about schooling, futures, policing and political agency, but no individual pupil should be appointed the spokesperson for an entire generation by the editorial convenience of a heading.
+The cited contemporary reporting identifies reports and interviews involving pupils in **Toulouse, Sevran, Strasbourg** and elsewhere around **6 October**. These should remain distinct testimonies. Their words can illustrate anxieties about schooling, futures, policing and political agency, but no individual pupil should be appointed the spokesperson for an entire generation by the editorial convenience of a heading.
 
 The collection also flags **« Envoyez-nous des profs, pas la police »** — *Send us teachers, not the police* — in reporting associated with **Montpellier**. Its precise publication, display date and attribution should be checked before it is given a standalone dated event ID. As a phrase, it captures an important contrast in what public institutions make visible: the capacity to deploy personnel to manage a gathering, and the difficulty pupils describe in securing personnel to teach them. That is a political comparison made in protest language, **not** proof that police and teaching budgets are administratively interchangeable.
 
-An additional **6 October** lead concerning Saint-Denis mayor **Bally Bagayoko** and reported gas exposure remains **unverified in the present audit**. It is not included as a confirmed event in the master table. Its specialist research route is [💨 LES GARS, VOUS AVEZ GAZÉ LE MAIRE](./💨_LES_GARS_VOUS_AVEZ_GAZE_LE_MAIRE.md). A vivid allegation does not become more established because its potential headline is magnificent.
+An additional **6 October** lead concerning Saint-Denis mayor **Bally Bagayoko** and reported gas exposure remains **unverified in this chronology**. It is not included as a confirmed event in the master table. Its specialist research route is [💨 LES GARS, VOUS AVEZ GAZÉ LE MAIRE](./💨_LES_GARS_VOUS_AVEZ_GAZE_LE_MAIRE.md). A vivid allegation does not become more established because its potential headline is magnificent.
 
 ## 12. 🗳️ 7 October: Parliament Has More Than One Room
 
 ### Committee: hearing and video, not a reconstructed transcript
 
-The working audit identifies a **7 October** appearance by Education Minister **Édouard Geffray** before the National Assembly's cultural affairs committee. The [official video lead](https://videos.assemblee-nationale.fr/video.19505319_6ac5f94426907.commission-des-affaires-culturelles--m-edouard-geffray-ministre-de-l-education-nationale-sur-le--7-octobre-2026) supports a research route to the hearing. The earlier audit did **not** produce a fully checked verbatim question-and-answer transcript. Accordingly, this node does not invent quotations, identify every questioner or treat an index as a record of everything said.
+The earlier edition identifies a **7 October** appearance by Education Minister **Édouard Geffray** before the National Assembly's cultural affairs committee. The [official video lead](https://videos.assemblee-nationale.fr/video.19505319_6ac5f94426907.commission-des-affaires-culturelles--m-edouard-geffray-ministre-de-l-education-nationale-sur-le--7-octobre-2026) supports a research route to the hearing. The earlier edition did **not** produce a fully checked verbatim question-and-answer transcript. Accordingly, this node does not invent quotations, identify every questioner or treat an index as a record of everything said.
 
 ### Plenary: Belluco asks; Geffray responds
 
-A **separate** [7 October plenary sitting](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-07-octobre-2026) is recorded in the working audit as including **Lisa Belluco's** challenge on school conditions, consultation and the real-terms education budget, and **Geffray's** response. Belluco's reported figure of **€650 million less in constant euros** and Geffray's reported **€1.2 billion increase** are **speaker-attributed comparisons**. Without the exact baselines, deflators and budget perimeters, neither should be used to silently disprove the other.
+A **separate** [7 October plenary sitting](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-07-octobre-2026) is described in the earlier edition as including **Lisa Belluco's** challenge on school conditions, consultation and the real-terms education budget, and **Geffray's** response. Belluco's reported figure of **€650 million less in constant euros** and Geffray's reported **€1.2 billion increase** are **speaker-attributed comparisons**. Without the exact baselines, deflators and budget perimeters, neither should be used to silently disprove the other.
 
-The audit notes another subtlety: the minister **orally listed four themes** in this exchange, whereas the earlier letter described **five workstreams**. This is an enumeration difference worth documenting; it is **not**, by itself, proof that a fifth policy area had been abandoned.
+The earlier edition notes another subtlety: the minister **orally listed four themes** in this exchange, whereas the earlier letter described **five workstreams**. This is an enumeration difference worth documenting; it is **not**, by itself, proof that a fifth policy area had been abandoned.
 
 The chamber, the committee, the ministry website and the newspaper are separate sources. *Parliament said* is rarely precise enough. Somebody asked. Somebody answered. The date, office, speaker and exact words matter.
 
@@ -180,19 +187,49 @@ It **does not establish** a complete national census of blockaded schools; a def
 
 For the pupils, the practical questions remain less abstract. Were the lessons taught? Was the promised assistance available? Did the buildings work? Could they participate in decisions affecting their education? An official announcement may be significant, but it cannot answer these questions on its own.
 
-## 16. 📆 Commitments That Were Still in the Future on 9 October
+## 16. 🗓️ 15–16 October: A First Response Is Not the Final Response
 
-| Target | What earlier research identifies | Status **on 9 Oct** | Evidence needed later |
+Reporting published on **16 October** describes Education Minister **Édouard Geffray** visiting the lycée des Graves in **Gradignan on 15 October** and discussing initial responses to the Agora consultation. The report attributes **100,000 responses** to the platform, including **6,000** from the Bordeaux academy, and says the minister had permission to propose **900 additional posts** through amendments to the proposed 2027 budget. These are **reported ministerial figures and intentions**, not an independently deduplicated participation count or proof that 900 people had been hired. The reported promise of forthcoming Parcoursup announcements also needs a subsequent dated publication before it can be counted as delivery.
+
+The ministry's [consultation page](https://www.education.gouv.fr/lyceennes-lyceens-vous-avez-la-parole-506143), dated **6 October**, explicitly says the exercise remains open **until Friday 23 October 2026** and identifies two open questions about difficulties at lycée and desired improvements. This is a firmer source for the deadline than the old untraceable internal audit. A ministry [measures page dated 9 October](https://www.education.gouv.fr/construire-des-solutions-avec-les-lyceens-506143) separately documents the government's public response. A consultation response, an announced amendment and a filled post are three different entries in the ledger.
+
+## 17. 🪧 17 October: The Movement Becomes a Much Wider Street
+
+On **Saturday 17 October**, demonstrations involving students, trade unions and other groups spread across France, with grievances including the cost of living and public services. *Le Monde* reported **550,000 participants according to the government and 800,000 according to organisers**. These are **competing attributed national estimates**, not two crowds to add together. The same day's reporting described largely peaceful demonstrations alongside serious disorder in particular places, including damage and fires in **Limoges**, and clashes and looting elsewhere. It is necessary to record the violence; it is not accurate to attribute every act to every participant in a national mobilisation. [Le Monde's dated live coverage](https://www.lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-le-gouvernement-annonce-550-000-manifestants-les-organisateurs-800-000-environ-400-interpellations-des-violences-urbaines-d-une-gravite-inouie-se-sont-deroulees-et-se-deroulent-encore_6795855_3224.html) and [Associated Press](https://apnews.com/article/44b9d3ba91ffad4029f975dced7e31cb) provide dated reporting.
+
+**Counting warning:** arrest totals in live reports changed as the evening progressed and may describe different geographical and temporal windows. An early figure of approximately **400 interpellations** must not be placed beside later overnight totals as though both describe the same endpoint; an *interpellation* is not a conviction. Police injury counts, demonstrator injuries and damage assessments likewise require their own timestamped registers. The purpose of a chronology is to stop a live ticker becoming a fake final balance sheet.
+
+### Saint-Étienne — a serious injury and an investigation
+
+Reporting on **17–18 October** describes a young demonstrator suffering catastrophic hand injuries in an explosion involving a police munition and being taken to hospital. *Le Monde* and later reports identify him as **17**; the companion medical node notes an early AFP-based report describing a young adult. The exact age, munition model and physical sequence require source reconciliation rather than retrospective tidying. Subsequent reporting describes an investigation involving **IGPN and IGGN**; the investigation is not a finding of individual culpability. See [🩺 « Médic ! Médic ! »](./🩺_médic_médic.md) and [La Dépêche, 18 October](https://www.ladepeche.fr/2026/10/18/manifestations-du-17-octobre-cest-un-warrior-ce-mec-solidarite-autour-du-jeune-homme-a-la-main-arrachee-a-saint-etienne-liggn-et-ligpn-co-saisies-13608611.php).
+
+### Paris — keep the incidents separate
+
+Reporting published on **18 October** described the death of a demonstrator after a medical emergency on **Boulevard de Magenta**. The reported phrase *cardiorespiratory arrest* describes an event, not the established underlying medical cause. It neither proves nor rules out preceding injury or police contact. [TF1 Info, 18 October](https://www.tf1info.fr/justice-faits-divers/mobilisation-du-17-octobre-a-paris-un-manifestant-decede-apres-un-malaise-sur-le-boulevard-magenta-2470584.html).
+
+Separately, circulating footage attributed to **Place de la République** has been described as showing a person subjected to force, with disputed descriptions of whether that person **was a medic** or whether people were **calling for a medic**. The original clips, identity, complete sequence, medical outcome and provenance have **not been authenticated in this chronology**. There is **no established link** between that footage and the Magenta death. They must retain separate event identifiers; see the companion [🩺 incident register](./🩺_médic_médic.md). A frightening video does not authorise us to write somebody else's ending.
+
+## 18. 📰 18–20 October: The Accounting Begins, Not the Answer
+
+Reporting after the demonstrations described damage to public buildings, police injuries, demonstrator injuries, investigations and questions about the preparedness and proportionality of public-order operations. [Le Monde, 18 October](https://www.lemonde.fr/en/france/article/2026/10/18/police-overwhelmed-by-october-17-protest-turnout-with-several-groups-getting-close-to-the-elysee_6758729_7.html) attributed a provisional **150 injured officers** to the prime minister's overnight account. That figure is not a total for everyone injured. As of this revision, there is no independently reconciled, comparable national count of injured demonstrators in the source set used here.
+
+The minister's explanation, the organisers' claims, the hospital record, an officer's account, a witness video and a judicial finding answer different questions. The national story also now exceeds the original lycée mobilisation. That enlargement matters; it must not retroactively transform every September pupil blockade into an action commanded by a later national coalition. Nor does a headline about riots establish that the school staffing complaints were resolved.
+
+**20 October status:** the **23 October consultation deadline has not yet arrived**. The reported 15 October ministerial statements are not proof that budget amendments passed, posts were filled or schools received more teaching hours. This chronology does not assign a settled outcome to the police investigations or the Magenta death. The dates are being kept; the endings are not being invented.
+
+## 19. 📆 Commitments and Checkpoints: As of 20 October
+
+Only a deadline traceable to an identified public source is entered here as a commitment. An earlier draft also listed possible checkpoints on 16 October, at the end of October, at the end of 2026 and before summer 2027. Their original promises and wording have **not** been recovered. They are **not** verified government commitments and have been removed from this tracker rather than perpetuated through an imaginary audit.
+
+| Target | Documented statement | Status **on 20 Oct** | Evidence needed later |
 |---|---|---|---|
-| **16 Oct 2026** | Possible government checkpoint | **Future / wording unverified** | Original commitment and dated output |
-| **23 Oct 2026** | Reported consultation closing date | **Future** | Portal status, closure notice, published counts |
-| **End Oct 2026** | Possible decisions following consultation | **Future / scope unverified** | Formal decision, responsibilities and timetable |
-| **End 2026** | Report or implementation update mentioned in audit | **Future / wording unverified** | Published report and measurable actions |
-| **Before summer 2027** | Building-related target in earlier research | **Future / scope unverified** | School-specific works and completion records |
+| **23 Oct 2026** | The [ministry's consultation page](https://www.education.gouv.fr/lyceennes-lyceens-vous-avez-la-parole-506143) states that pupil submissions remain open until Friday 23 October | **Upcoming** | Closure notice, participation figures with definitions, published findings and any subsequent decisions |
 
-**Update rule:** When a date arrives, create a new dated event: *commitment met*, *partially met*, *missed*, *changed*, or *outcome not evidenced*. Keep the original promise visible. Editing an old promise into a new success story is not a chronology; it is public relations with a time machine.
+The discarded dates may be investigated as **unverified leads**, but must not be restored as promises without the original dated publication and exact wording. If a genuine decision or delivery deadline is found, give it a new source-linked ledger entry. A date that happens to sound administrative is not evidence that an administrator promised anything.
 
-## 17. 🗃️ The Event Ledger: How Future Updates Should Work
+**Update rule:** When a documented deadline arrives, create a new dated event: *commitment met*, *partially met*, *missed*, *changed*, or *outcome not evidenced*. Keep the original promise visible. Editing an old promise into a new success story is not a chronology; it is public relations with a time machine.
+
+## 20. 🗃️ The Event Ledger: How Future Updates Should Work
 
 Each entry should retain: `event_id`, `event_date_start`, `event_date_end`, `date_precision`, `publication_date`, `location`, `actor`, `event_type`, `description_neutral`, `source_url_primary`, `source_url_secondary`, `evidence_class`, `verification_status`, `claims_vs_observations`, `related_event_ids`, `affected_demands`, `related_nodes`, `followup_due`, and `correction_history`. Where the entry uses speech, add `quote_original_fr` and `translation_en_gb`. Where it uses a count, add `count_definition` and the geographical and institutional perimeter.
 
@@ -211,7 +248,7 @@ Suggested IDs are stable rather than clever: `JEF-20260917-CRETEIL-001` for the 
 9. Identify signatories and precise meeting sequence in the **7 October** higher-education inter-union statement.
 10. Return after **23 October** to test promises against outputs, without retroactively marking them fulfilled.
 
-## 18. ♻️ What the Dates Tell Us About Information
+## 21. ♻️ What the Dates Tell Us About Information
 
 The chronology is also an **Embodied Information Ecology** exercise. A shortage may exist before it is recorded. It may be recorded by pupils in terms of lost lessons, by staff in terms of unfilled posts, by the rectorat in terms of recruitment actions, and by ministers in terms of national budget categories. Each description has a different scale and different consequences. None is an adequate substitute for the others.
 
@@ -219,9 +256,9 @@ Collective action changes the transmission channel. A problem that previously ci
 
 The feedback loop is therefore not complete when the ministry says it has listened. It is complete — or at least measurably improved — when the relevant people can report changed conditions and those changes can be corroborated. A teacher taking a class, an AESH providing the required support, a repaired room, a transparent decision process: these are more demanding indicators than a published promise. They are also the reason to keep the dates straight.
 
-## 19. 📚 Source Shelf and Evidence Status
+## 22. 📚 Source Shelf and Evidence Status
 
-**Source-status note:** These links come from the pre-existing Polaris research register. During preparation of this edition, attempts to fetch the ministry, parliamentary and *Le Monde* pages through the available web retrieval service returned cache errors. **Do not treat their inclusion here as fresh source verification.** The working archive's claims remain attributed and should be rechecked against the original pages or preserved copies before direct quotation or numerical finalisation.
+**Source-status note:** Earlier-edition links are retained as research leads, not automatically reverified evidence. The additional 15–20 October reporting was consulted for this revision. A source establishing that an actor said something does not independently certify the truth of that statement.
 
 ### Primary and organisational leads
 
@@ -241,12 +278,21 @@ The feedback loop is therefore not complete when the ministry says it has listen
 - [La Dépêche: Cahors and police, 2 October 2026](https://www.ladepeche.fr/2026/10/02/blocage-des-lycees-nouveaux-affrontements-entre-les-lyceens-et-la-police-dont-un-dispositif-impressionnant-de-forces-de-lordre-a-cahors-13580045.php)
 - [AFP via Boursorama: Education budget 2027 interview](https://www.boursorama.com/actualite-economique/actualites/budget-education-2027-on-ne-fait-pas-d-economies-sur-la-jeunesse-assure-le-ministre-edouard-geffray-2642705a84c74fb5e5930409ee74174b)
 
-### Internal working records
+### Correction notice — fabricated internal citations removed
 
-- [Stage One: evidence audit](./🗃️_jeunesse_en_feu_stage_1_evidence_audit.md)
-- [Stage Two: student voices and sources](./📣_jeunesse_en_feu_stage_2_voix_sources.md)
-- [Quotation verification audit](./📣_les_mots_de_la_colere_verification_audit.md)
-- [Chronology research plan](./⏱️_chronologie_de_la_revolte_plan.md)
+The 9 October edition referred to four non-existent supposed research files (a Stage One evidence audit, Stage Two voices collection, quotation verification audit and chronology plan). **None is an admissible source.** Their links have been deleted. Claims formerly described as “audit-derived” now require the named primary or published source; where that has not been checked, the uncertainty remains explicit. Do not recreate phantom files to make a broken citation appear valid.
+
+### Reporting added for the 20 October edition
+
+- [Ministère de l’Éducation nationale: “Lycéennes, lycéens : vous avez la parole” (6 October 2026)](https://www.education.gouv.fr/lyceennes-lyceens-vous-avez-la-parole-506143)
+- [Ministère de l’Éducation nationale: “Construire des solutions avec les lycéens” (9 October 2026)](https://www.education.gouv.fr/construire-des-solutions-avec-les-lyceens-506143)
+- [L’Instant: “Geffray dresse un premier bilan des doléances lycéennes à Gradignan” (16 October 2026)](https://linstant.news/article/geffray-dresse-un-premier-bilan-des-doleances-lyceennes-a-gradignan-b23f75)
+- [Reuters: “Students, trade unions, yellow vests set to protest across France” (17 October 2026)](https://www.reuters.com/world/students-trade-unions-yellow-vests-set-protest-across-france-2026-10-17/)
+- [Associated Press: “Clashes, fires and looting break out as protesters rally across France” (17 October 2026)](https://apnews.com/article/44b9d3ba91ffad4029f975dced7e31cb)
+- [Le Monde: live reporting on demonstrations (17 October 2026)](https://www.lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-le-gouvernement-annonce-550-000-manifestants-les-organisateurs-800-000-environ-400-interpellations-des-violences-urbaines-d-une-gravite-inouie-se-sont-deroulees-et-se-deroulent-encore_6795855_3224.html)
+- [La Dépêche: Saint-Étienne injury and investigations (18 October 2026)](https://www.ladepeche.fr/2026/10/18/manifestations-du-17-octobre-cest-un-warrior-ce-mec-solidarite-autour-du-jeune-homme-a-la-main-arrachee-a-saint-etienne-liggn-et-ligpn-co-saisies-13608611.php)
+- [TF1 Info: Boulevard de Magenta death (18 October 2026)](https://www.tf1info.fr/justice-faits-divers/mobilisation-du-17-octobre-a-paris-un-manifestant-decede-apres-un-malaise-sur-le-boulevard-magenta-2470584.html)
+- [Le Monde: public-order reporting (18 October 2026)](https://www.lemonde.fr/en/france/article/2026/10/18/police-overwhelmed-by-october-17-protest-turnout-with-several-groups-getting-close-to-the-elysee_6758729_7.html)
 
 ## 🌌 Constellations
 
@@ -257,7 +303,7 @@ The feedback loop is therefore not complete when the ministry says it has listen
 - [📣 Les Mots de la Colère](./📣_les_mots_de_la_colere.md) — original French voices and their provenance.
 - [🤝 Syndicats et Solidarités](./🤝_syndicats_et_solidarites.md) — organisations, relationships and representation.
 - [🚨 La Police Face à la Jeunesse](./🚨_la_police_face_a_la_jeunesse.md) — separate public-order evidence.
-- [📺 Qui Raconte la Révolte](./📺_qui_raconte_la_revolte.md) — how events become narratives.
+- [🩺 « Médic ! Médic ! »](./🩺_médic_médic.md) — October 17 injury and medical-assistance register; the link uses the decomposed-accent filename supplied in this cluster. Confirm the repository filename before publication.
 
 ## ✨ Stardust
 
@@ -265,4 +311,29 @@ French lycée mobilisation · September–October 2026 · Saint-Exupéry · Cré
 
 ---
 
-*Evidence cut-off: 2026-10-09. This is a dated, attributed research narrative. A future announcement is not a historical outcome, and an unverified lead is not a confirmed event.*
+## 🏮 Footer
+
+*⏱️ Chronologie de la Révolte* is the dated evidence spine of **🔥 Jeunesse en Feu** within the **Polaris Protocol**. It preserves the distinction between witnessed events, attributed accounts, official commitments and verified outcomes.
+
+*Evidence cut-off: 2026-10-20. Earlier edition: 2026-10-09. This is a dated, attributed research narrative. A future announcement is not a historical outcome, and an unverified lead is not a confirmed event.*
+
+*Revision record (2026-10-20, SOP repair): Completed footer navigation; removed unsupported future commitments from the tracker; retained the supplied decomposed-accent medic filename pending repository verification. Earlier revision: removed four fabricated internal-source references; reclassified unsupported audit-based attributions; added 15–20 October events, primary ministry consultation information, and separate injury/death leads; preserved outstanding verification questions. Repository-wide routing and live relative-link resolution are not certified by this local-file edit.*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+> 📡 Cross-references:
+>
+> - [🎓 Ce Que Réclame La Jeunesse](./🎓_ce_que_reclame_la_jeunesse.md) — *student demands and institutional responses.*
+> - [📣 Les Mots de la Colère](./📣_les_mots_de_la_colere.md) — *source and translation boundaries for public statements.*
+> - [🚨 La Police Face à la Jeunesse](./🚨_la_police_face_a_la_jeunesse.md) — *public-order responsibilities and evidence limits.*
+> - [🩺 Médic ! Médic !](./🩺_médic_médic.md) — *distinct medical and injury reports; repository filename still to be checked.*
+>
+> 🏮 Return To:
+>
+> - [🔥 Jeunesse En Feu](./README.md) — *1up*
+> - [🔊 Turn The Public Up](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
+_Last updated: 2026-10-20_
