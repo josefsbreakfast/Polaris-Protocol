@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-21 14:53:51 UTC_
+_Generated on 2026-10-21 16:18:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1571,6 +1571,7 @@ _Generated on 2026-10-21 14:53:51 UTC_
         - [`🩸_jura_sanguinis_et_soli_protofascism_risk.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/🛟_Borders_Boats_Walls/🩸_jura_sanguinis_et_soli_protofascism_risk.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/notes.txt)
+      - [`🌹_100_days_of_treading_water.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/🌹_100_days_of_treading_water.md)
       - [`👾_digitally_mediated_zersetzung.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/👾_digitally_mediated_zersetzung.md)
       - [`🦎_the_human_tamagotchi_effect.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/🦎_the_human_tamagotchi_effect.md)
     - [**🕸️_Information_Environments/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️_Information_Environments/)
