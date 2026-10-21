@@ -1,6 +1,6 @@
 # 🦺 Jaunes et Jeunes : Nos Luttes Se Rencontrent
 
-**First created:** 2026-10-17 | **Last updated:** 2026-10-18  
+**First created:** 2026-10-17 | **Last updated:** 2026-10-21  
 *The yellow vests, the young, and the political engineering of finding one another without becoming the same thing.*
 
 ---
@@ -248,7 +248,7 @@ And the homework concerns the Republic.
 
 ---
 
-## 🔗 Constellations
+## 🌌 Constellations
 
 - [🎓 Ce que réclame la jeunesse](./🎓_ce_que_reclame_la_jeunesse.md) — the student programme, on its own terms.
 - [🏫 L'école et les inégalités](./🏫_lecole_et_les_inegalites.md) — the material conditions behind the education demands.
@@ -264,7 +264,11 @@ And the homework concerns the Republic.
 
 - [📹: Brut., via TikTok: “Un manifestant vient de se faire arracher la main par une grenade policière à Saint-Étienne ce 17 octobre.”](https://vm.tiktok.com/ZN8S3kDV9/) – *But you are all crying for a building? And how are the younger generations supposed to interpret that?*  
 
-## ✨ Stardust — Sources, Evidence and Open Questions
+## ✨ Stardust
+
+**Search terms:** Gilets jaunes, Yellow Vests, Jaunes et jeunes, 17 October 2026, lycée mobilisation, Union Étudiante, ten emergency measures, cross-movement solidarity, protest calendars, coalition evidence, political transmission, public services, protest policing, information ecology.
+
+### Sources, Evidence and Open Questions
 
 ### Primary sources consulted
 
@@ -287,3 +291,28 @@ And the homework concerns the Republic.
 An **appeal** is evidence that somebody appealed. A **calendar** is evidence that somebody advertised an event. A **graphic** is evidence that somebody circulated a message. A **signature list** is evidence of publicly stated support, subject to its provenance. An **observed demonstration** requires evidence that it happened. A **political outcome** requires evidence of what changed.
 
 Those distinctions protect the very thing the node is interested in: the possibility of solidarity that does not erase the people doing the solidarising.
+
+
+---
+
+## 🏮 Footer
+
+*🦺 Jaunes et Jeunes : Nos Luttes Se Rencontrent* is a living research node of the **Polaris Protocol**. It records an attempt at cross-movement mobilisation while keeping invitations, endorsements, observed participation and political outcomes evidentially distinct.
+
+**Canonical repository path:** `🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🦺_jaunes_et_jeunes_nos_luttes_se_rencontrent.md`
+
+> 📡 Cross-references: See [🌌 Constellations](#-constellations) for related nodes.
+>
+> 🏮 Return To:
+>
+> - [🔥 Jeunesse En Feu](./README.md) — *1up*
+> - [🔊 Turn The Public Up](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
+**SOP integrity note (2026-10-21):** Structural and voice-fidelity pass only. The 17 October appeal, calendar, media link and petition figures retain the source qualifications above. No new outcome, attendance count, endorsement or allegation has been verified in this pass. Repository-wide relative-link checks and live external-link checks remain outstanding.
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-10-21_
