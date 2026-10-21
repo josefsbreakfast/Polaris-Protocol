@@ -1,5 +1,5 @@
 # 🚨 La Police Face à la Jeunesse
-**First created:** 2026-10-09 | **Last updated:** 2026-10-09  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-21  
 *When pupils protest missing education, the Republic must account for both its public-order decisions and the conditions that brought them into the street.*
 
 ---
@@ -258,4 +258,16 @@ The following are **publication instruments**, not fabricated completed investig
 
 France, lycée mobilisation, October 2026, youth protest, public-order policing, manifestation, blocus, maintien de l'ordre, freedom of assembly, minors' rights, use of force, proportionality, prefecture, police nationale, gendarmerie, Défenseur des droits, accountability, school safeguarding, embodied information ecology, institutional feedback.
 
+---
+
+## 🏮 Footer
+
+**Node:** `🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🚨_la_police_face_a_la_jeunesse.md`  
+**Parent:** [🔥 Jeunesse en Feu](./README.md)  
+**Related:** [📣 Les Mots de la Colère](./📣_les_mots_de_la_colere.md) · [⏱️ Chronologie de la Révolte](./⏱️_chronologie_de_la_revolte.md) · [⚖️ Histoire de la Police Française](./⚖️_histoire_de_la_police_francaise.md)
+
+**Integrity note (2026-10-21):** Structural SOP pass only. The original legal and incident-evidence boundaries remain in force; source URLs and repository-wide cross-links have not been independently revalidated in this pass. The original legal-source consultation date remains 2026-10-09. No allegation or incident lead has been promoted to an established finding.
+
 *Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-10-21_
