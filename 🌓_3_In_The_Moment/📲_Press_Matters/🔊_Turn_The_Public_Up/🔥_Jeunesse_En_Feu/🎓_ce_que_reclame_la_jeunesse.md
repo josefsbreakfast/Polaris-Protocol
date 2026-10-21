@@ -1,5 +1,5 @@
 # 🎓 Ce Que Réclame La Jeunesse
-**First created:** 2026-10-08 | **Last updated:** 2026-10-20  
+**First created:** 2026-10-08 | **Last updated:** 2026-10-21  
 *The students have made demands. The Republic has produced a consultation. These are related activities, but they are not synonyms.*
 
 ---
@@ -16,7 +16,7 @@ All three things matter: **what pupils experienced; what particular organisation
 
 The ten-part programme discussed below belongs to **L’Union Étudiante**, a particular organisation. It is not a referendum on the opinions of every French teenager. Local lycée demands, named pupils' testimony and education-worker union statements are separate sources of information. Where this node uses a working English rendering of a French demand, it is a translation, not an original English quotation.
 
-**Evidence note, 20 October 2026:** This edition checks the ten measures against [L’Union Étudiante’s published programme](https://union-etudiante.fr/10mesures/) and the government response against the [Education Ministry’s published consultation and 4 October letter](https://www.education.gouv.fr/lyceennes-lyceens-vous-avez-la-parole-506143), its [9 October update](https://www.education.gouv.fr/construire-des-solutions-avec-les-lyceens-506143?lang=en), and the [7 October National Assembly record](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-07-octobre-2026). The organisational programme is a statement of demands, not proof of universal pupil agreement; government statements establish announcements, not completed delivery. Contemporary pupil quotations and local staffing figures retain their separate reporting status. Earlier drafts cited purported internal audits and plans that cannot be authenticated: those references have been removed, and claims have been reassessed against identifiable publications. The consultation is scheduled to close **23 October**, which is still in the future at this edition's cut-off.
+**Evidence note, 21 October 2026:** The 20 October edition cross-referenced the ten measures against [L’Union Étudiante’s published programme](https://union-etudiante.fr/10mesures/) and the government response against the [Education Ministry’s published consultation and 4 October letter](https://www.education.gouv.fr/lyceennes-lyceens-vous-avez-la-parole-506143), its [9 October update](https://www.education.gouv.fr/construire-des-solutions-avec-les-lyceens-506143?lang=en), and the [7 October National Assembly record](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-07-octobre-2026). The organisational programme is a statement of demands, not proof of universal pupil agreement; government statements establish announcements, not completed delivery. Contemporary pupil quotations and local staffing figures retain their separate reporting status. Earlier drafts cited purported internal audits and plans that cannot be authenticated: those references have been removed, and claims have been reassessed against identifiable publications. The consultation is scheduled to close **23 October**, which is still in the future at this edition's cut-off.
 
 ---
 
@@ -53,7 +53,7 @@ The distinction is not administrative fussiness. It is the basic question of who
 
 The working primary document is [L’Union Étudiante's ten-measure programme](https://union-etudiante.fr/10mesures/). Its categories range from buildings and staff to admissions, grants, housing and policing. Some concern secondary education, others higher education, and several reach beyond the remit of a single education minister.
 
-The ten areas, summarised from the organisation’s published programme (rather than an imaginary internal research register), are:
+The ten areas, summarised from the organisation’s published programme, are:
 
 | No. | Working demand area | What must be distinguished |
 |---:|---|---|
@@ -68,7 +68,7 @@ The ten areas, summarised from the organisation’s published programme (rather 
 | 9 | Protect and expand student housing | Planned units versus affordable homes occupied |
 | 10 | Oppose repression and police violence | Protest rights, discipline, operational conduct and accountability |
 
-**Source precision:** These are explanatory English category labels, **not verbatim translations of the ten French headings**. The numerical targets below were checked against the programme as displayed on 20 October 2026; its original publication date and subsequent edit history have not been established. Nor does inclusion here prove that every participating lycée collective adopted all ten measures.
+**Source precision:** These are explanatory English category labels, **not verbatim translations of the ten French headings**. The numerical targets below are attributed to the programme as reported in the 20 October edition; this editorial pass has not independently re-opened or archived the source page; its original publication date and subsequent edit history have not been established. Nor does inclusion here prove that every participating lycée collective adopted all ten measures.
 
 That said, the breadth of the programme is itself politically informative. A school is not simply a place in which information is transmitted. Pupils and students must reach it, eat, live somewhere, receive support, navigate admissions and exercise rights while doing so. Those conditions are not decorative extras to education. They determine who can actually use it.
 
@@ -76,7 +76,7 @@ That said, the breadth of the programme is itself politically informative. A sch
 
 The first demand concerns the physical conditions in which education happens. It is easy to describe a building as *in need of renovation*. The phrase sounds calm and reasonably manageable. It can cover anything from peeling paint to inaccessible rooms, unreliable heating or maintenance problems that affect whether lessons can be held.
 
-The working research around Lycée Saint-Exupéry in Créteil records concerns about maintenance alongside staffing. Those reports describe one school at particular dates, not a statistically representative sample of France. Their importance lies in the difference between the scale at which a problem is announced and the scale at which somebody experiences it. A national commitment to improve buildings is an announcement. A repaired, accessible classroom is a condition a pupil can verify.
+Contemporary reporting and a dated local political statement concerning Lycée Saint-Exupéry in Créteil describe concerns about maintenance alongside staffing. Those reports describe one school at particular dates, not a statistically representative sample of France. Their importance lies in the difference between the scale at which a problem is announced and the scale at which somebody experiences it. A national commitment to improve buildings is an announcement. A repaired, accessible classroom is a condition a pupil can verify.
 
 There is also the question of **who is actually responsible**. French education involves several levels of public authority. Secondary-school buildings, national staffing decisions, universities and their estates do not all belong to the same administrative budget. A serious government answer should name the responsible institution rather than sending every complaint on a tour of the Republic until it dies of old age.
 
@@ -84,7 +84,7 @@ The test is not whether renovation appears in a letter. It is whether a specific
 
 ## 5. 🧑‍🏫 Teachers, nurses, psychologists and AESH: a headcount is not a lesson
 
-The second demand is broader than recruitment of classroom teachers. The programme, as recorded in our working source collection, includes nurses, psychologists, guidance professionals and **AESH** staff who support disabled pupils. These are different roles with different consequences when they are absent.
+The second demand is broader than recruitment of classroom teachers. The organisational programme includes nurses, psychologists, guidance professionals and **AESH** staff who support disabled pupils. These are different roles with different consequences when they are absent.
 
 A school may have a nominally funded position that is vacant. It may have appointed somebody who has not started. It may have a temporary replacement who covers only part of the timetable. It may count a staff member in an overall total while particular pupils still do not receive the support they need.
 
@@ -98,7 +98,7 @@ At Saint-Exupéry, a local statement dated 20 September identified multiple alle
 
 This matters when we examine the government's reported workstream on **teacher replacement**. Improving cover for an absent teacher may be worthwhile. It is not automatically the same thing as adding permanent capacity, recruiting a nurse or guaranteeing specialist support. A response can be relevant and still be narrower than the demand.
 
-A working project summary also records a proposed ratio of welfare staff to pupils and an additional AESH target. Those figures are **not repeated here as established numerical commitments** because the exact wording, denominator and programme version have not yet been reconciled against the original page.
+The programme also includes a numerical AESH proposal, but staffing ratios and denominators should be quoted only alongside their exact original wording. Until that wording is recovered and retained, this node does not promote a secondary summary into a numerical commitment.
 
 ## 6. 🕰️ Time belongs to the pupils too
 
@@ -127,7 +127,7 @@ These are different political proposals:
 - **Rules:** alter who is eligible and how applicants are ranked.
 - **Selection:** change or remove the contested principle itself.
 
-Our working Stage One material reports that the government included **Parcoursup transparency** among five lycée workstreams. That is a response in the same policy territory, but it does not establish acceptance of the organisation's demand to end selection. Classifying it as **reframed** is more accurate than marking the demand fulfilled.
+The Education Ministry’s published consultation describes **Parcoursup transparency** among the lycée workstreams. That is a response in the same policy territory, but it does not establish acceptance of the organisation's demand to end selection. Classifying it as **reframed** is more accurate than marking the demand fulfilled.
 
 The programme explicitly demands **250,000 additional higher-education places from the next academic intake**. That is the organisation’s target, not an independently costed capacity plan or an announcement that those places have been created. [Source: L’Union Étudiante, measure 4](https://union-etudiante.fr/10mesures/).
 
@@ -171,7 +171,7 @@ The politics of who gets to study in France should not be reduced to whether the
 
 ## 12. 🏠 Housing: an announcement is not a room
 
-The ninth category addresses student accommodation, including rent protection and additional housing associated with the **CROUS** network. The working research records a target of **15,000 additional units**; its exact timeframe and whether it refers to construction, acquisition or another measure must be verified before presenting it as a settled programme figure.
+The ninth category addresses student accommodation, including rent protection and additional housing associated with the **CROUS** network. The 20 October edition attributes a target of **15,000 additional units** to the organisation’s programme. The numerical demand should be checked against the original wording before treating its timeframe, production stage or precise housing category as settled.
 
 Housing policy is full of quantities that sound similar and mean different things: places announced, projects approved, funding allocated, units built, units ready for occupancy, units available at an affordable rent, and students actually housed. An honest progress report should distinguish them.
 
@@ -219,6 +219,8 @@ The same publication announces a redesign of lycée representation, including mo
 
 ---
 
+**Scope note:** The five ministry workstreams concern lycée consultation. They should not be mistaken for a comprehensive, point-by-point government response to a university organisation’s ten-measure programme. An empty correspondence in the table below means *not addressed in the cited lycée documents*, not *rejected by the French state*.
+
 ## 15. 🧮 The demand-to-response ledger
 
 To avoid turning the node into a dispute between competing summaries, each proposal needs a stable place in a ledger. The following is a **source-mapped status as at 20 October 2026**, comparing the published programme, the 4 October letter and the ministry’s 9 October announcement. `UNMAPPED` means *not identified in the five-workstream account reviewed here*, not *refused*.
@@ -240,7 +242,7 @@ The categories deliberately resist the false choice between *the government list
 
 A more complete ledger would add the **exact French demand**, the **exact French reply**, the institution competent to act, the legislative or financial instrument required, a deadline, the evidence of implementation and the affected group's assessment of whether the change worked.
 
-### 🔢 Numerical demands: verified wording, unverified delivery
+### 🔢 Numerical demands: attributed wording, unverified delivery
 
 | Figure in published programme | Organisational demand | What remains unproven |
 |---|---|---|
@@ -287,7 +289,7 @@ Different demands require different kinds of authority. A ministry may be able t
 
 That complexity is real. It should be explained accurately. It should not be allowed to become an all-purpose device for making the original complaint disappear.
 
-The Stage One research identifies a **7 October parliamentary exchange** between Lisa Belluco and Édouard Geffray concerning the government's response and education spending. It also identifies disputes over the interpretation of the proposed **2027 education budget**, including nominal increases and real-terms arguments. Those figures belong in the separate funding node, where the accounting basis and official tables can be compared properly.
+The cited **7 October National Assembly plenary record** is the appropriate source for examining the exchange between Lisa Belluco and Édouard Geffray concerning the government’s response and education spending. It also identifies disputes over the interpretation of the proposed **2027 education budget**, including nominal increases and real-terms arguments. Those figures belong in the separate funding node, where the accounting basis and official tables can be compared properly.
 
 For this node, the governing question is simpler: **what resources and powers would be required to deliver each demand?** A proposed budget is not enacted expenditure. An authorised post is not a teacher in a classroom. An invitation to participate is not a transfer of authority. An announced housing target is not a student holding a key.
 
@@ -335,7 +337,7 @@ The children have handed in their work. It is the government's turn to show its 
 
 ## 📚 Sources and evidence shelf
 
-**Primary and official publications checked for this edition (20 October 2026):**
+**Primary and official publications cited in the 20 October edition (not independently re-opened on 21 October):**
 
 - [L’Union Étudiante: “10 mesures d’urgence”](https://union-etudiante.fr/10mesures/) — ten published measures and their numerical demands; historical version changes not independently established.
 - [Ministère de l’Éducation nationale: “Lycéennes, lycéens : vous avez la parole”](https://www.education.gouv.fr/lyceennes-lyceens-vous-avez-la-parole-506143) — consultation, five workstreams and reproduced 4 October prime-ministerial letter.
@@ -351,7 +353,7 @@ The children have handed in their work. It is the government's turn to show its 
 - [Le Monde: “Au lycée Saint-Exupéry de Créteil…”](https://www.lemonde.fr/campus/article/2026/10/05/au-lycee-saint-exupery-de-creteil-ou-les-blocages-ont-commence-les-cours-ont-repris-mais-les-revendications-demeurent_6788551_4401467.html) — local conditions and reported changes.
 - [Créteil Citoyenne: “Mobilisation lycée Saint-Exupéry Créteil”](https://www.insoumisdecreteil.fr/2026/09/20/mobilisation-lycee-saint-exupery-creteil/) — dated local political statement; claims require attribution rather than neutral adoption.
 
-**Provenance correction:** An earlier edition listed six purported internal plans, audits and registers that are not established as real files. They have been removed as sources. No claim in this edition is validated merely because an earlier draft described an audit.
+**Provenance correction (21 October):** Earlier editions listed six purported internal plans, audits and registers that are not established as real files. They are not sources. This pass also removed residual phrases such as “Stage One research” and “working project summary” where those phrases risked laundering an unverifiable document into authority. Citations to real public webpages are distinguished from evidence of completed implementation; no fresh live-source audit is claimed for this pass.
 
 **Open verification items:** preserved programme copy and publication history; historical revisions of the ten-measure programme; implementation of the original government letter and consultation instrument; lycée-union meeting responses; committee transcript; post-by-post Saint-Exupéry staffing; responses from other ministries; 2027 budget table reconciliation. No absence of evidence here should be reclassified as proof of refusal, misconduct or non-delivery.
 
@@ -385,4 +387,4 @@ French lycée mobilisation, L’Union Étudiante, ten demands, education policy,
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-20_
+_Last updated: 2026-10-21_
