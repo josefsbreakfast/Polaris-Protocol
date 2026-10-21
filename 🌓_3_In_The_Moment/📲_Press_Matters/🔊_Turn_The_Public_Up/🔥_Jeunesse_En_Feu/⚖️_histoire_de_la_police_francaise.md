@@ -1,5 +1,5 @@
 # ⚖️ Histoire de la Police Française
-**First created:** 2026-10-09 | **Last updated:** 2026-10-09  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-20  
 *Who polices the French Republic, on whose authority, and why history explains institutions without proving the facts of any particular protest.*
 
 ---
@@ -8,7 +8,7 @@
 
 France's young protesters have not merely encountered a government; in some places they have encountered the state's machinery for managing public space. To understand what that means, we need the genealogy of French policing: its institutions, its shifting constitutional justifications, its complicity in historical violence, its contemporary oversight and its relationship with democratic participation.
 
-This is the **historical and institutional** node. It does not adjudicate specific October 2026 allegations. It follows the approved specialist plan while keeping legal and archival verification gates visible. Historical interpretation is not a substitute for evidence about a named incident.
+This is the **historical and institutional** node. It does not adjudicate specific October 2026 allegations. It distinguishes established historical context, cited legal frameworks and matters still requiring archival verification; no unlocated drafting plan is treated as a source. Historical interpretation is not a substitute for evidence about a named incident.
 
 ---
 ## 1. 🏛️ Who Is Standing Outside the School?
@@ -32,13 +32,13 @@ This is a functional map, not a substitute for the current legal provisions gove
 
 Policing existed long before the modern French Republic. Under the ancien régime, maintaining order could mean supervising markets, movement, urban sanitation, trade, public morals, political dissent and the safety of the sovereign’s domain. Those categories do not map neatly onto a modern police service. The important historical question is how administrative knowledge and coercive authority became organised together.
 
-Paris’s **lieutenance générale de police**, created in the seventeenth century, offers a useful entry point. It connected urban regulation with a centralised administrative capacity to observe and intervene. The history is not a tidy origin myth in which a royal office simply becomes the modern Police nationale. The jurisdictions, constitutions, personnel and purposes changed. What persisted as a problem for governments was the question of how to know what a population was doing and how to act upon that knowledge.
+Paris’s **lieutenance générale de police**, created by royal edict in **1667**, offers a useful entry point. **Nicolas de La Reynie**, its first holder (1667–1697), supervised commissioners and a range of responsibilities extending from public safety to economic and moral regulation. The Police nationale’s own historical account identifies these arrangements; it is an institutional retrospective, not a neutral verdict on royal policing. [Source: Police nationale, *Une structuration progressive*.](https://www.police-nationale.interieur.gouv.fr/dossiers/police-nationale-protection-de-population-depuis-des-siecles/structuration-progressive-xiiie-siecle-xviiie-siecle) It connected urban regulation with a centralised administrative capacity to observe and intervene. The history is not a tidy origin myth in which a royal office simply becomes the modern Police nationale. The jurisdictions, constitutions, personnel and purposes changed. What persisted as a problem for governments was the question of how to know what a population was doing and how to act upon that knowledge.
 
 This is already a cybernetic question, although no eighteenth-century official was obliged to call it that. Authorities gathered signals, classified them as risks or needs, and decided what counted as a response. The classifications were not neutral: a market disturbance, a food shortage and a challenge to royal authority could be made to look like the same thing if the governing category was simply *disorder*.
 
 ## 3. 🥖 Revolution: Whose Public Force?
 
-The Revolution changed the declared source of legitimate political authority. The **Declaration of the Rights of Man and of the Citizen (1789)** is a particularly important source because it does not merely proclaim liberty and then forget that coercion exists. Article 12 establishes the need for a public force to guarantee rights and places that force in relation to the advantage of all rather than the private benefit of those entrusted with it. The exact French wording should be checked against the official text before any verbatim quotation is inserted.
+The Revolution changed the declared source of legitimate political authority. The **Declaration of the Rights of Man and of the Citizen (1789)** is a particularly important source because it does not merely proclaim liberty and then forget that coercion exists. Article 12 establishes the need for a public force to guarantee rights and places that force in relation to the advantage of all rather than the private benefit of those entrusted with it. The constitutional principle is grounded in Article 12; this node paraphrases it rather than inventing a verbatim quotation. See the Conseil constitutionnel source below.
 
 That principle contains an enduring argument. If public force is constituted to protect rights, what happens when citizens exercising those rights become the objects of force? There is no automatic contradiction: a state may have to protect people from violence, including at a demonstration. But the purpose, necessity and proportionality of its actions matter. A right is not protected merely because the person restricting it wears a republican insignia.
 
@@ -46,7 +46,7 @@ The Revolution did not produce one stable police settlement. Municipal authoriti
 
 ## 4. 🐎 Gendarmes, Territory and the Reach of the State
 
-The Gendarmerie’s genealogy is commonly traced through the **maréchaussée**, with the revolutionary transformation into the Gendarmerie nationale at the end of the eighteenth century. Its military status and its policing responsibilities need to be understood together rather than treated as a paradox. A force can be organised under military rules while undertaking routine civilian law-enforcement work.
+The Gendarmerie’s genealogy is traced through the **maréchaussée**. The **law of 16 February 1791** reorganised it as the **Gendarmerie nationale**; the law of **28 germinal an VI (17 April 1798)** further specified its functions and organisation. The 1791 settlement retained military status while distinguishing arrest and policing from the former power to judge. That is a meaningful constitutional change, not simply a fresh badge for the same men. [Sources: Gendarmerie, *Le 16 février 1791*](https://www.gendarmerie.interieur.gouv.fr/gendinfo/histoire/le-16-fevrier-1791-la-naissance-de-la-gendarmerie); [*De la maréchaussée à la gendarmerie nationale*](https://www.gendarmerie.interieur.gouv.fr/presentation/histoire-et-patrimoine/de-la-marechaussee-a-la-gendarmerie-nationale). Its military status and its policing responsibilities need to be understood together rather than treated as a paradox. A force can be organised under military rules while undertaking routine civilian law-enforcement work.
 
 Territory matters. Where the state must maintain a presence across rural districts, transport routes and dispersed settlements, its policing institutions develop differently from a metropolitan force concentrated in large cities. The division of work between police and gendarmerie has changed over time; contemporary territorial arrangements cannot simply be projected backwards onto the nineteenth century.
 
@@ -72,7 +72,11 @@ An adequate history should not sort every nineteenth-century incident into a mor
 
 The history of policing under the German occupation and Vichy regime cannot be treated as a footnote to the story of republican public order. French police institutions and personnel participated in persecution and arrests, including actions against Jews; others resisted. These facts require attention to state policy, command, individual responsibility and the postwar reckoning, without erasing either participation or resistance.
 
-The reorganisation of French police administration during the occupation is a key institutional research point. The frequently cited **1941 reorganisation** must be located in the relevant legal instruments before exact organisational claims are made. Equally, post-Liberation changes must be described as changes: a contemporary institution is not literally the same body in the same constitutional environment simply because part of its administrative history passes through that period.
+The **law of 23 April 1941 on the general organisation of police services** is a documented Vichy-era institutional measure, not a phantom reference. The Police nationale’s historical account describes the integration of municipal police personnel into the new national structure; that official retrospective must be read critically alongside the legislation and independent historians. **Article 35 of the law of 21 January 1995 explicitly repealed the 1941 law** — a useful legislative cross-check that also prevents us from treating the Vichy measure as present-day authority. [Sources: Police nationale, *L’État français, la Libération et la IVe République*](https://www.police-nationale.interieur.gouv.fr/dossiers/police-nationale-protection-de-population-depuis-des-siecles/letat-francais-liberation-et-ive-republique-1941-1961); [Légifrance, 1995 law, art. 35](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527998/2026-05-20). The precise clauses of the original 1941 instrument still warrant examination before making claims about every transferred service. Equally, post-Liberation changes must be described as changes: a contemporary institution is not literally the same body in the same constitutional environment simply because part of its administrative history passes through that period.
+
+**The July 1942 Vel d’Hiv roundup is not a hypothetical warning about what an efficient bureaucracy *might* do.** The Mémorial de la Shoah documents the Paris police prefecture’s role in the operation of **16–17 July 1942**, undertaken at the initiative of Nazi authorities, with more than **4,500 police officers mobilised**. It records **12,884 arrests over those two days**, rising to **13,152** as arrests continued to 20 July. Those different totals describe different time windows; they are not a discrepancy to tidy away. Many of those arrested were children. The files, lists, transport and detention arrangements were parts of persecution, not incidental paperwork. [Source: Mémorial de la Shoah, *16 et 17 juillet 1942, la rafle du Vel d’Hiv*.](https://www.memorialdelashoah.org/16-et-17-juillet-1942-la-rafle-du-vel-dhiv.html)
+
+The legal and institutional history matters precisely because **a state can have procedures, chains of command and excellent record-keeping while committing atrocities**. No amount of procedural neatness substitutes for the question of what those procedures were designed to accomplish. This is a historical example of the mechanism, not a claim that modern French policing is identical to Vichy.
 
 This section also illustrates a problem with institutional self-description. A present-day agency may narrate its genealogy as a series of improvements in professional capacity. Historians must also ask what that capacity was used to do, whose records survive, whose experiences were excluded, and how responsibility was allocated afterward. Professional competence is not a moral verdict. Administrative efficiency can serve catastrophically different ends.
 
@@ -80,7 +84,11 @@ This section also illustrates a problem with institutional self-description. A p
 
 French colonial territories were governed through different legal and administrative arrangements. There is no single, uniform institution called “colonial policing” whose methods can be transported unchanged from one place and century to another. Yet colonial rule plainly raised questions about unequal legal status, coercive governance, surveillance, movement and the selective distribution of rights.
 
-The Algerian War and the policing of Algerians in metropolitan France provide a necessary case study. **17 October 1961**, when a demonstration by Algerians in Paris was violently repressed, is central to the historical record. The extent of the violence and the number of people killed have been the subject of archival investigation, historical disagreement and official acknowledgement. A finished citation apparatus must distinguish documented deaths, estimates, and the evidentiary reasons historians disagree; this node does not manufacture a settled number.
+The Algerian War and the policing of Algerians in metropolitan France provide a necessary case study. **17 October 1961**, when a demonstration by Algerians in Paris was violently repressed, is central to the historical record. The extent of the violence and the number of people killed have been the subject of archival investigation, historical disagreement and official acknowledgement. Jim House and Neil MacMaster’s *Paris 1961: Algerians, State Terror, and Memory* is an identified specialist study for the next source-verification pass, not a claim that its pages have been audited here. A finished citation apparatus must distinguish documented deaths, estimates, and the evidentiary reasons historians disagree; this node does not manufacture a settled number.
+
+The **Élysée’s 2021 commemoration** describes the 17 October 1961 demonstration as protesting a discriminatory curfew directed at Algerians, acknowledges violent and bloody repression, refers to **nearly 12,000 arrests** and **several dozen deaths**, and records bodies thrown into the Seine. Its later 2022 statement calls crimes committed under Maurice Papon’s authority inexcusable. These are **official acknowledgements**, not a replacement for archival scholarship; they do, however, establish that the violence cannot responsibly be relegated to a mere unverified allegation. [Élysée, 2021 commemoration](https://www.elysee.fr/emmanuel-macron/2021/10/16/ceremonie-de-commemoration-des-60-ans-du-17-octobre-1961); [Élysée, 2022 statement](https://www.elysee.fr/emmanuel-macron/2022/03/19/60-ans-accords-evian).
+
+There is a revealing asymmetry here: the state could count and process thousands of detainees while the historical record of deaths and disappearances remained contested for decades. **Administrative visibility and human visibility are not the same thing.** The police paperwork is part of the evidence; it is not the outer limit of the event.
 
 The tempting formulation is that colonial techniques simply “came home”. It may describe some demonstrable continuities, but only where the research identifies the transmission: personnel, administrative categories, orders, equipment, training or practices. Similarity alone is not a causal chain. The point is not to soften the history. It is to make its mechanisms visible, which is considerably more useful than allowing a slogan to do the work of an archive.
 
@@ -88,7 +96,7 @@ The tempting formulation is that colonial techniques simply “came home”. It 
 
 *Maintien de l’ordre* translates approximately as **maintenance of public order**, but the French phrase also names a field of doctrine, training, equipment and operational command. It is not synonymous with criminal investigation. Nor is every police officer at a protest a member of a specialist crowd-control formation.
 
-France developed mobile formations for public-order duties, including the **Gendarmerie mobile** and the **Compagnies républicaines de sécurité (CRS)**. Their founding dates, reorganisations and evolving missions should be traced through legislation and institutional histories rather than compressed into a single invented origin story.
+France developed mobile formations for public-order duties, including the **Gendarmerie mobile** and the **Compagnies républicaines de sécurité (CRS)**. The **CRS were created by decree on 8 December 1944**, confirmed by an ordinance of **7 March 1945**; their remit subsequently diversified beyond crowd control. The Gendarmerie mobile has a different institutional genealogy, which should not be collapsed into the CRS timeline. [Source: Police nationale, *Les CRS, 80 ans d’histoire*.](https://www.police-nationale.interieur.gouv.fr/dossiers/80-ans-des-crs/crs-80-ans-dhistoire)
 
 Public-order operations may involve facilitating a demonstration, separating groups, securing routes, managing traffic, preventing violence, dispersing a crowd or arresting suspects. These are different actions, with different justifications and consequences. A lawful objective does not automatically make every means lawful. Necessity and proportionality have to be assessed in context, alongside applicable rules on warnings, equipment and command.
 
@@ -116,6 +124,8 @@ There are real parallels with 2026 worth investigating: student organisation, so
 The late twentieth and early twenty-first centuries brought recurring conflicts over policing, discrimination, social exclusion and the treatment of young people in disadvantaged suburbs. **The 2005 unrest** is a distinct historical episode with its own chronology and precipitating circumstances, not a convenient label for every subsequent confrontation in a banlieue.
 
 To analyse this history responsibly, separate what is measured from what is inferred. Evidence concerning identity checks, unequal exposure to policing, complaints, discrimination or trust should be tied to the population, method and time period studied. Neither a whole neighbourhood nor an entire profession is a single actor.
+
+There is measurable evidence of unequal policing, not merely a collection of impressions. The **Défenseur des droits’ 2017 survey**, involving more than 5,000 respondents, found that **80% of respondents fitting the profile of young men perceived as Black or Arab** reported an identity check in the preceding five years, compared with **16% of other respondents**. The institution also summarises an approximately twentyfold disparity in likelihood of being checked. These measures are related but not interchangeable: the percentages describe reported experience over five years; the likelihood estimate comes from the analysis. They do not establish the motive for any particular officer’s decision in October 2026. [Source: Défenseur des droits, *Contrôles d’identité*.](https://www.defenseurdesdroits.fr/controles-didentite-que-dit-le-droit-et-comment-mettre-fin-aux-controles-discriminatoires-565)
 
 The film *La Haine* belongs in this constellation because cultural works shape memory and the language people use to recognise an experience. But a film is not a police report. Its images can illuminate the questions an audience brings to events; they cannot establish the facts of an incident that happened decades later. The sibling cultural-memory node can enjoy that distinction at greater length.
 
@@ -178,7 +188,7 @@ There is also a positive possibility: proportionate public-order work can protec
 
 ## 17. 🧾 Evidence Ledger and Publication Gates
 
-This node is a historical synthesis and institutional map based on the agreed project plan. It is **not** an archival edition or a fresh independent audit of every historical claim. Before publication, source each dated institutional change and each contested historical episode to an authoritative text or specialist study. The source shelf below identifies starting points, not proof that every page has been checked during this drafting pass.
+This node is a historical synthesis and institutional map, **not** an archival edition or an independently completed audit of every historical claim. Before publication, source each dated institutional change and each contested historical episode to an authoritative text or specialist study. The source shelf below identifies starting points, not proof that every page has been checked during this drafting pass.
 
 | Research item | Source required | Status |
 |---|---|---|
@@ -194,9 +204,13 @@ This node is a historical synthesis and institutional map based on the agreed pr
 | Current authority / oversight | Current legal texts and institutional mandates | Recheck as at October 2026. |
 | Specific October 2026 incidents | Dated contemporary primary records | Deliberately left to sibling incident files. |
 
+**Verified during the 20 October 2026 revision:** Article 12 (via Constitutional Council), the 1667 Paris office (institutional retrospective), the 1791 gendarmerie transition, the 1941 law’s documented existence and later repeal, the July 1942 Vel d’Hiv record, the Élysée’s 1961 acknowledgements, the 1944–45 CRS formation and the Défenseur des droits’ published identity-check figures. **Not verified here:** the original 1941 law clause by clause; archival casualty reconstruction for 1961; every modern operational provision; individual 2026 incidents.
+
 **Source rule:** an institutional history can explain how an organisation describes itself; it does not by itself settle disputed conduct. An archive can establish that a document exists; it does not necessarily establish that the document's claims are true. An eyewitness can establish a situated account; it is not a substitute for every other viewpoint. Preserve all three distinctions.
 
 ## 🌌 Constellations
+
+⚖️ 🏛️ 🚨 🎓 🧿 — institutional authority, public force, student participation and accountability.
 
 - [🚨 La Police Face à la Jeunesse](./🚨_la_police_face_a_la_jeunesse.md) — present-day rights, deployments and incident-evidence rules.
 - [🏛️ Le Maire Face à la Police](./🏛️_le_maire_face_a_la_police.md) — municipal and state authority.
@@ -206,9 +220,11 @@ This node is a historical synthesis and institutional map based on the agreed pr
 - [🏫 L'École et les Inégalités](./🏫_lecole_et_les_inegalites.md) — what the pupils experience.
 - [⏱️ Chronologie de la Révolte](./⏱️_chronologie_de_la_revolte.md) — dated contemporary sequence.
 
+---
+
 ## 📚 Sources and Research Shelf
 
-These are **source routes for verification**, not a claim that each linked text was independently consulted in this drafting pass.
+**Evidence-status key:** Several dated facts now carry claim-adjacent links in the body, including official historical retrospectives, memorial documentation and public legal texts. Institutional retrospectives remain situated sources; the specialist books named below are bibliographic leads, not works checked page by page in this revision. A listed source must not be taken as proof of a claim unless the claim is actually tied to its relevant passage. No invented archive reference, page number or quotation is supplied.
 
 - [Conseil constitutionnel: “Déclaration des droits de l'homme et du citoyen de 1789”](https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/declaration-des-droits-de-l-homme-et-du-citoyen-de-1789)
 - [Légifrance: “Code de la sécurité intérieure”](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000025503132/)
@@ -220,20 +236,36 @@ These are **source routes for verification**, not a claim that each linked text 
 - [Mémorial de la Shoah: historical research and archives](https://www.memorialdelashoah.org/)
 - [CNRS: research institution and historical scholarship](https://www.cnrs.fr/)
 
-**Further historical bibliography required:** specialist studies of the Paris police, nineteenth-century labour and republican order, Vichy policing, colonial policing, 17 October 1961, May 1968 and the 2005 unrest. Add full author/title/page references when checked; do not fabricate archival shelfmarks or direct quotations.
+**Named specialist bibliography — verification leads, not claim-level citations:**
+
+- Jean-Marc Berlière, *Le monde des polices en France, XIXe–XXe siècles* — institutional history; edition and relevant pages to check.
+- Laurent Joly, *L’État contre les Juifs: Vichy, les nazis et la persécution antisémite* — French state participation in anti-Jewish persecution; passages to check before attributing particular decisions or operations.
+- Jim House and Neil MacMaster, *Paris 1961: Algerians, State Terror, and Memory* — historical investigation of 17 October 1961; distinguish its argument and evidentiary basis from official commemorative language.
+
+**Further historical bibliography required:** Paris police administration in 1667; Maréchaussée–Gendarmerie legislative transition; nineteenth-century labour and republican order; the 23 April 1941 law and post-Liberation police changes; mobile-force formation; May 1968; the 2005 unrest. Add edition, page and archival references only after checking them. No shelfmarks or direct quotations have been fabricated.
+
+---
 
 ## ✨ Stardust
 
-French police history, *maintien de l'ordre*, Police nationale, Gendarmerie nationale, police municipale, préfets, revolution, Vichy, Algerian War, 17 October 1961, May 1968, public accountability, school protests, Embodied Information Ecology.
+french policing, public order, national police, gendarmerie, municipal police, 1667, 1791, 1941, vichy, vel d’hiv, antisemitism, colonial policing, 17 october 1961, 1944 CRS, discriminatory identity checks, accountability, embodied information ecology
 
 ---
 
 ## 🏮 Footer
 
-*Histoire de la Police Française* is an institutional-history node within **Polaris Protocol / Jeunesse en Feu**. Historical structures can explain the questions to ask of a contemporary event. They cannot decide its facts in advance.
+*Histoire de la Police Française* is an institutional-history node within **Polaris Protocol / Jeunesse en Feu**. Institutional history helps explain authority; it does not establish what happened in any particular contemporary incident. Outstanding documentary questions remain identified in the evidence ledger above.
 
-> 🏮 Return To: [🔥 Jeunesse En Feu](./README.md) — *parent constellation*.
+### 📡 Cross-references
+
+- [🚨 La Police Face à la Jeunesse](./🚨_la_police_face_a_la_jeunesse.md) — protest rights, police conduct and incident evidence.
+- [🏛️ Le Maire Face à la Police](./🏛️_le_maire_face_a_la_police.md) — municipal versus state authority.
+- [⏱️ Chronologie de la Révolte](./⏱️_chronologie_de_la_revolte.md) — the contemporary sequence.
+
+### 🏮 Return to
+
+[🔥 Jeunesse En Feu](./README.md) · [🔊 Turn The Public Up](../README.md) · [📲 Press Matters](../../README.md) · [🌓 In The Moment](../../../README.md) · [🌌 Polaris Protocol](../../../../README.md)
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-09_
+_Last updated: 2026-10-20_
