@@ -1,5 +1,5 @@
 # 🤝 Syndicats et Solidarités
-**First created:** 2026-10-09 | **Last updated:** 2026-10-09  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-21  
 *Who stood beside the French pupils in autumn 2026, who could speak for whom, and what happens when solidarity becomes an administrative category.*
 
 ---
@@ -296,6 +296,36 @@ The following are **source leads carried forward from the project's earlier rese
 
 ## ✨ Stardust
 
+French lycée protests, Jeunesse en Feu, syndicats, intersyndicale, solidarity, coalition formation, union representation, student autonomy, AESH, education funding, strike notices, political mandate, protest evidence, public-service delivery, information routing, feedback loops, organisational accountability, France, October 2026.
+
 *Solidarity should make people harder to ignore without making them disappear inside somebody else's demands.*
 
-*Polaris Protocol — survivor-authored analysis; evidence-led distinctions; original voices retained. Survivor authorship remains sovereign.*
+---
+
+## 🏮 Footer
+
+*🤝 Syndicats et Solidarités* is a living research and analytical node of the **Polaris Protocol**. It distinguishes visible solidarity from organisational coordination, representation and demonstrable outcomes in the autumn 2026 French education mobilisations.
+
+**Repository path:** `🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🤝_syndicats_et_solidarites.md`
+
+> 📡 Cross-references:
+>
+> - [🎓 Ce que réclame la jeunesse](./🎓_ce_que_reclame_la_jeunesse.md) — *student demands and their authorship*.
+> - [🥖 La France fait grève. Et alors ?](./🥖_la_france_fait_greve_et_alors.md) — *strike traditions and mobilisation*.
+> - [🚒 Les pompiers en grève](./🚒_les_pompiers_en_greve.md) — *parallel labour dispute, not presumed coalition membership*.
+> - [⏱️ Chronologie de la révolte](./⏱️_chronologie_de_la_revolte.md) — *dated claims and source boundaries*.
+>
+> 🏮 Return To:
+>
+> - [🔥 Jeunesse en Feu](./README.md) — *1up*.
+> - [🔊 Turn the Public Up](../README.md) — *2up*.
+> - [📲 Press Matters](../../README.md) — *3up*.
+> - [🌓 In the Moment](../../../README.md) — *4up*.
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*.
+
+**Integrity note (2026-10-21):** SOP structural and voice-fidelity pass only. The source leads, evidence boundaries and all 18 substantive sections are retained without new factual verification. Sibling links are consistent with this cluster's declared filenames; repository-wide existence, reciprocal backlinks and root index entries have **not** been independently validated.
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-10-21_
+

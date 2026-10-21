@@ -1,5 +1,5 @@
 # 🥖 La France fait grève. Et alors?
-**First created:** 2026-10-08 | **Last updated:** 2026-10-08  
+**First created:** 2026-10-08 | **Last updated:** 2026-10-21  
 *The French Republic, collective action, the long history of making the state listen, and the considerably longer process of making it do something.*
 
 ---
@@ -331,7 +331,7 @@ French Revolution, French strikes, droit de grève, manifestation, blocage, popu
 
 ## 📚 Sources and evidence status
 
-**Source boundary (8 October 2026):** Historical exposition uses well-established events and legal landmarks; the linked references below are starting points for a publication-level audit, not a claim that every page was freshly inspected during this drafting pass. The autumn 2026 case draws on the previously assembled Polaris Stage One and Two research files. Specific contemporary staffing counts, quotations, budget totals and government workstream wording remain subject to comparison with the originals. No unverified student quotation is presented as verbatim in this node.
+**Source boundary (original research: 8 October 2026; structural SOP pass: 21 October 2026):** Historical exposition uses well-established events and legal landmarks; the linked references below are starting points for a publication-level audit, not a claim that every page was freshly inspected during this drafting pass. The autumn 2026 case draws on the previously assembled Polaris Stage One and Two research files. Specific contemporary staffing counts, quotations, budget totals and government workstream wording remain subject to comparison with the originals. No unverified student quotation is presented as verbatim in this node.
 
 ### Historical and legal references
 
@@ -365,6 +365,9 @@ French Revolution, French strikes, droit de grève, manifestation, blocage, popu
 
 ## 🏮 Footer
 
+**Integrity note (21 October 2026):** This pass preserves the historical analysis, original claims, citations and authorial voice. It updates document metadata and navigation only; source URLs and repository-wide relative links have not been independently checked, and no new reporting is implied.
+
+
 *🥖 La France fait grève. Et alors?* is a living historical and institutional node of the **Polaris Protocol**. It examines collective action as a way people make neglected conditions politically legible — and the difference between institutional acknowledgement and experienced change.
 
 > 🏮 Return To:
@@ -372,7 +375,9 @@ French Revolution, French strikes, droit de grève, manifestation, blocage, popu
 > - [🔥 Jeunesse en Feu](./README.md) — *immediate constellation*
 > - [🔊 Turn the Public Up](../README.md) — *parent cluster*
 > - [📲 Press Matters](../../README.md) — *wider reporting cluster*
+> - [🌓 In The Moment](../../../README.md) — *higher cluster*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *repository root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-08_
+_Last updated: 2026-10-21_
