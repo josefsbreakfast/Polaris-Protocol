@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-21 07:02:01 UTC_
+_Generated on 2026-10-21 07:31:08 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4373,6 +4373,7 @@ _Generated on 2026-10-21 07:02:01 UTC_
         - [`✏️_la_presse_géniale_vous_navez_jamais été_charlie.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/✏️_la_presse_géniale_vous_navez_jamais été_charlie.md)
         - [`🎓_ce_que_reclame_la_jeunesse.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🎓_ce_que_reclame_la_jeunesse.md)
         - [`🎬_la_haine_na_jamais_disparu.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🎬_la_haine_na_jamais_disparu.md)
+        - [`🎶_police_contre_orchestre.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🎶_police_contre_orchestre.md)
         - [`🏛️_le_maire_face_a_la_police.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🏛️_le_maire_face_a_la_police.md)
         - [`🏫_lecole_et_les_inegalites.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🏫_lecole_et_les_inegalites.md)
         - [`💀_bismillah_cest_les_tenebres.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/💀_bismillah_cest_les_tenebres.md)
