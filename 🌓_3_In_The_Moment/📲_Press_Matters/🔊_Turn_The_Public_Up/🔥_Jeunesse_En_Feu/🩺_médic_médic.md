@@ -1,5 +1,5 @@
 # 🩺 « Médic ! Médic ! »
-**First created:** 2026-10-19 | **Last updated:** 2026-10-19  
+**First created:** 2026-10-19 | **Last updated:** 2026-10-21  
 *France, October 2026: an evolving record of protest injuries, medical assistance, crowd policing, digital amplification and the difference between clearing a street and keeping people alive.*
 
 ---
@@ -217,4 +217,16 @@ France protests October 2026, Place de la République, Médic Médic, street med
 
 This is an evolving journalist-facing research node. Its purpose is to keep the **questions, sources and uncertainties visible**, not to convert circulating allegations into settled findings. Corrections should be dated and traceable. The author retains control of interpretation, emphasis and subsequent revisions.
 
+**SOP integrity note (2026-10-21):** Structural and editorial review only. Original incident register, attribution boundaries, source leads and authorial phrasing preserved. The source links and October 2026 incident claims have **not** been independently reverified in this pass. Original footage, identities, medical outcomes and investigative findings remain open where marked. Repository-wide relative-link resolution and reciprocal index entries require checking against the actual repository tree.
+
+> 🏮 Return To:
+>
+> - [🔥 Jeunesse En Feu — immediate parent](./README.md) — *1up*
+> - [🔊 Turn The Public Up](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-10-21_
