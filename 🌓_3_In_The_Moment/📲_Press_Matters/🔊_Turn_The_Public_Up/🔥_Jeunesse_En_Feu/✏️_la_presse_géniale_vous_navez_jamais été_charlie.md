@@ -10,3 +10,4 @@ You could be investigating just how much the LLMs are dependant on unpaid human 
 
 Instead the bosses have you out here, machine-gunning other workers.  
 
+If you were Charlie in 2015, please remember how easy Hebdo has been on Emmanuel.  
