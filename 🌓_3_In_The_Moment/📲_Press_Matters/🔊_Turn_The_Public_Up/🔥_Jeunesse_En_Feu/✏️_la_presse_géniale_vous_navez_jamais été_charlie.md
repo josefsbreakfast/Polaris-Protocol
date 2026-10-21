@@ -8,7 +8,7 @@
 
 This is an address to the press, not a neutral dispatch from a committee. It asks journalists to remember why their independence matters: not merely to withstand threats against their own profession, but to investigate power rather than accept its preferred targets. The 2015 murders at *Charlie Hebdo*, the historical destruction of independent journalism under fascism, and contemporary disputes over press access make that obligation concrete.
 
-The argument is pointed. The evidentiary standard is not optional. Claims about particular newsrooms, ownership interests or coordinated manipulation require investigation; the fact that an editorial frame is objectionable does not prove its origin. But nor is professional independence something to invoke only when one's own press pass is at stake.
+The press has power. It can use that power to investigate institutions, defend colleagues and make itself impossible to ignore. Or it can spend another afternoon looking for the most inflammatory placard in a crowd of children. This piece has a preference.
 
 ---
 
@@ -28,8 +28,6 @@ Instead the bosses have you out here, machine-gunning other workers.
 
 If you were Charlie in 2015, please remember how easy Hebdo has been on Emmanuel.
 
-The last line is a challenge to scrutinise the record of *Charlie Hebdo*'s criticism of Emmanuel Macron, not a substitute for a systematic review of that record. The charge about whose interests the press serves is political criticism; it is not evidence of undisclosed payments to particular journalists.
-
 ---
 
 ## 🕯️ 1. What *Je suis Charlie* was supposed to mean
@@ -38,7 +36,7 @@ The January 2015 murders at *Charlie Hebdo* were an attack on people exercising 
 
 That principle also protects the right to **criticise** cartoonists, newspapers, governments, religious institutions, political parties and the people who pay for media. Freedom of expression is not a special licence reserved for the editorial desk. It extends to students, protesters, Muslims, secularists, workers, cartoonists and those who disagree with all of them.
 
-The author's provocation — *vous n’avez jamais été Charlie* — is therefore a challenge to the **consistency** of professed commitments, not a claim that journalists must reproduce the politics of *Charlie Hebdo*.
+*Vous n’avez jamais été Charlie* is a question of consistency. Freedom of expression cannot be an occupational benefit that expires when the speaker is somebody else.
 
 ## 📰 2. Please develop a spine; it is occupational equipment
 
@@ -48,7 +46,7 @@ When young people protest, ask what they are demanding, which institutions they 
 
 A single sign, slogan or clip may be genuine and still be unrepresentative. A headline can be factually composed of true fragments and misleading in its selection. A newspaper can publish an official account accurately and still fail to interrogate it.
 
-This is a demand for verification and editorial independence, not an instruction to suppress inconvenient facts about antisemitism, Islamism, intimidation or violence when they are genuinely evidenced.
+Report antisemitism, Islamism, intimidation and violence where the evidence leads. Just do not use those words as a substitute for doing the reporting.
 
 ## 🧭 3. Do not let either the far right or jihadist violence set the terms
 
@@ -58,7 +56,7 @@ First, some far-right narratives frame Muslim presence, international youth soli
 
 Second, the legacy of the 2015 attack must not be converted into an argument for journalists to avoid contentious drawings, abandon scrutiny or police other people's speech out of fear. Terrorist violence must not acquire a retrospective veto over legitimate expression.
 
-Rejecting those pressures does **not** require pretending that every criticism of religion is racist, every concern about extremism is invented, or every media outlet acts with a common purpose. It requires the press to retain the ability to make distinctions.
+The press can criticise religion, investigate extremism and reject collective suspicion at the same time. Distinctions are the job.
 
 **If defending cartoonists means anything, it cannot mean granting extremists — of any persuasion — control of the editorial frame.**
 
@@ -86,7 +84,7 @@ Calling that “globalist” may describe nothing more sinister than the interne
 
 ## 💼 6. Your own industry has a labour problem, too
 
-The author's challenge about large language models is a serious research lead. AI systems may benefit from journalism, public writing, community moderation, volunteer expertise and other human-generated material. The relevant legal and economic questions vary: copyright, licensing, consent, compensation, collective bargaining, substitution of paid work, and the distribution of value.
+The challenge about large language models deserves an investigation. AI systems may benefit from journalism, public writing, community moderation, volunteer expertise and other human-generated material. The relevant legal and economic questions vary: copyright, licensing, consent, compensation, collective bargaining, substitution of paid work, and the distribution of value.
 
 It would be a mistake to claim that the physical absence of students from social media directly interrupts RLHF. RLHF uses selected feedback and optimisation procedures; pretraining corpora, model evaluations, platform signals and journalism are related but distinct information channels.
 
@@ -104,7 +102,7 @@ The presence of Muslims at a protest does not make the protest Islamist. Equally
 
 ## 🕰️ 7A. How the press helped make authoritarianism possible — and how authoritarianism then destroyed the press
 
-*Historical comparison, not an assertion that every present-day polemicist, editor or religious extremist is a Nazi. The point is to identify **repeatable mechanisms** before journalists discover that they have helped dismantle their own working conditions.*
+**The useful historical question is how press freedom was eroded: which habits, incentives and accommodations made the next restriction easier?**
 
 The early twentieth-century German press was not a single obedient institution. Weimar Germany had a varied and substantial newspaper culture, including fierce opposition to the Nazis. The distinction matters: **some publishers actively promoted the movement, some normalised its claims, some accommodated it for commercial or professional survival, and others resisted and were crushed**. None of those positions should be flattened into “the press supported Hitler”.
 
@@ -143,7 +141,7 @@ There is a historical distinction between **satire that scrutinises power** and 
 
 The 2015 attack on *Charlie Hebdo* was a murderous attack on people working in a newsroom. Its perpetrators do not acquire editorial authority because their grievance was religiously expressed. Nor does an authoritarian political movement acquire that authority by claiming that protecting the public requires journalists to demonise an entire minority. **Neither a jihadist threat nor a far-right political campaign gets to appoint itself editor-in-chief.**
 
-The parallel is about **coercive control of the information environment**, not equivalence between every ideology, organisation or historical crime. The far right, al-Qaeda and state authorities have distinct histories, methods and responsibilities. The professional obligation to verify claims and resist intimidation applies regardless of who is applying pressure.
+The histories and methods differ. The professional principle travels: **nobody gets to dictate the editorial line through intimidation.**
 
 ### 🛡️ An inoculation protocol for editors, reporters and publishers
 
@@ -158,7 +156,7 @@ Before running the apparently irresistible story, ask:
 - **Could the newsroom withstand this pressure if directed at itself?** Consider restrictions on assembly, sources, publication, professional licensing, data access and the right to criticise government.
 - **Will we correct the distribution, not just the article?** A buried correction does not repair a viral headline or decontextualised clip.
 
-This is not a request to suppress reporting on actual violence, antisemitism, Islamism, far-right organising or threats to public safety. **Report those things rigorously.** It is a request not to turn a crowd of students into the evidence for a conclusion selected before the investigation began.
+**Report violence, antisemitism, Islamism, far-right organising and threats to public safety rigorously.** And stop treating a crowd of students as evidence for a conclusion selected before the investigation began.
 
 And for the proprietors: the journalists who normalise attacks on other people's rights may discover that **press freedom was one of the rights they needed for themselves**. Historical Germany offers a particularly brutal demonstration of that occupational hazard.
 
@@ -170,15 +168,13 @@ And for the proprietors: the journalists who normalise attacks on other people's
 - **[H04]** [United States Holocaust Memorial Museum: “The Reichstag Fire”](https://encyclopedia.ushmm.org/content/en/article/the-reichstag-fire) — false uprising narrative and emergency decree.
 - **[H05]** [United States Holocaust Memorial Museum: “Nazi Propaganda and Censorship”](https://encyclopedia.ushmm.org/content/en/article/nazi-propaganda-and-censorship) — propaganda ministry, censorship and persecution of dissent.
 
-**Integrity note:** These sources establish the German historical mechanisms; they do **not** establish that any specific contemporary journalist, proprietor or political group has reproduced them. That requires contemporary, case-specific evidence. The modern editorial checklist is an analytical recommendation, not a historical quotation.
-
 ---
 
 ## 📰 7B. You have more power than you think. Please use it brilliantly.
 
 Press freedom is not merely an individual journalist's permission to enter a room. It is a **collective professional good**. When access can be restricted for one outlet because officials dislike its editorial decisions, every newsroom has an interest in challenging the precedent—even those that disagree with the excluded outlet's work.
 
-The 2025 dispute over Associated Press access to White House events provides a concrete case study. Following AP's decision to retain the name *Gulf of Mexico* in its style guidance while acknowledging the US administration's preferred terminology, the White House restricted some AP access. Other news organisations and press-freedom groups objected to the implications for viewpoint-based access. The precise actions, legal proceedings and subsequent outcomes should be checked against contemporaneous records before making stronger claims about a unified 'press strike'. A separate dispute over Pentagon access conditions likewise raises the question of whether journalists can collectively resist terms that compromise independent reporting. **Solidarity should be documented, not romanticised.**
+The 2025 dispute over Associated Press access to White House events provides a concrete case study. Following AP's decision to retain the name *Gulf of Mexico* in its style guidance while acknowledging the US administration's preferred terminology, the White House restricted some AP access. Other news organisations and press-freedom groups objected to the implications for viewpoint-based access. The separate dispute over Pentagon access conditions raises the same practical question: can journalists collectively resist terms that compromise independent reporting? Solidarity is something to organise and demonstrate, not merely praise.
 
 The principle is wider than either American dispute. Defending another outlet's access does not mean endorsing its editorial line. It means recognising that an authority allowed to punish unfavourable reporting can eventually punish yours. Journalists need not write identical stories, adopt a party programme or become a professional protest bloc to defend that boundary.
 
@@ -219,19 +215,11 @@ That loop is neither automatic nor always malign. But journalism is part of it. 
 
 The corrective is not silence. It is **better sensors, transparent provenance, editorial courage, and an ability to update when the evidence changes**.
 
-## 🧾 10. Evidence and verification register
+## 🧾 10. Research desk — claims worth following
 
-| Proposition | Present status | Needed before asserting as fact |
-| --- | --- | --- |
-| 2015 *Charlie Hebdo* attack was a lethal attack on cartoonists and colleagues | Established historical event | Primary court record and authoritative historical reporting for granular detail |
-| British coverage selected protest footage to sustain a preconceived Islamist framing | Authorial concern / hypothesis | Dated examples, provenance comparison, editorial timelines and representative sampling |
-| Specific media owners directed journalists to attack protesting workers | Rhetorical criticism, **not established** | Documents, attributable testimony or verifiable instructions |
-| A foreign or domestic influence operation seeded the selected material | Open hypothesis | Traceable transmission, network or funding evidence |
-| Charlie Hebdo has treated Macron gently | Authorial assessment | Systematic, time-bounded comparison of cartoons and editorial coverage |
-| AI firms rely on human-generated work and may affect journalism's economics | Broad research issue | Specific licensing, labour, copyright and industry studies |
-| Student offline organising changes the digital training-information environment | Testable cybernetic hypothesis | Time-use data, source-provenance audits and model-development evidence |
+The historical sources below support the Third Reich chronology. For the contemporary reporting, the useful next step is to compare dated British headlines and their original footage, trace who supplied the clips, and examine the wider sample from the demonstrations. The *Charlie Hebdo*–Macron question calls for a review of the cartoons themselves. The White House and Pentagon access disputes deserve a sourced chronology of what journalists did together and what changed.
 
-**Research integrity:** This expansion is a conceptual and editorial drafting pass dated 21 October 2026, not a newly verified investigation. The screenshots are the source of the preserved original intervention. No specific newsroom, owner or journalist is alleged here to have secretly coordinated with an extremist organisation.
+For the AI and labour argument, investigate licensing, compensation, newsroom employment, training-data provenance and the distinction between RLHF and broader data collection. Keep the documents and corrections visible so readers can follow the work rather than simply take the paper's word for it.
 
 ---
 
@@ -252,7 +240,7 @@ Charlie Hebdo, Je suis Charlie, January 2015, al-Qaeda in the Arabian Peninsula,
 
 ## 🏮 Footer
 
-*La presse géniale : vous n’avez jamais été Charlie* is an author-led intervention and an evolving research node of the **Polaris Protocol**. Original authorial language is preserved; added analysis and unverified propositions are identified as such.
+*La presse géniale : vous n’avez jamais été Charlie* — **Polaris Protocol**.
 
 **Repository route:** `🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/✏️_la_presse_géniale_vous_navez_jamais été_charlie.md`
 
