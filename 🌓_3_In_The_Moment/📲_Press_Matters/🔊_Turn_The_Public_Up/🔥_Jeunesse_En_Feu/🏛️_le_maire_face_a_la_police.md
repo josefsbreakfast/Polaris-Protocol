@@ -1,5 +1,5 @@
 # 🏛️ Le Maire Face à la Police
-**First created:** 2026-10-09 | **Last updated:** 2026-10-09  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-21  
 *The French Republic has elected a mayor. The French Republic has also deployed the police. Unfortunately, these are not necessarily the same bit of the French Republic.*
 
 ---
@@ -12,7 +12,7 @@ This matters when a local protest about education meets a national public-order 
 
 The question is not whether a mayor enjoys immunity from the ordinary law. They do not. Nor does election confer operational command over national police officers. The question is **how democratic representation, territorial administration and coercive state power are meant to answer to one another**—especially when an elected representative becomes caught up in the operation.
 
-**Evidence boundary:** The wider *Jeunesse en Feu* research records contain an account of a reported October 2026 encounter involving a mayor and tear gas. The precise incident, identity, location, chronology, operational circumstances and official findings have **not been independently established for this node**. The institutional explanation below is therefore separate from the incident allegation. See `💨_LES_GARS_VOUS_AVEZ_GAZE_LE_MAIRE.md` for the incident-specific investigation.
+**Evidence boundary:** A possible October 2026 encounter involving a mayor and tear gas is treated here solely as an **unverified incident lead**. Its identity, location, date, circumstances and outcome are not established by this node. The institutional explanation below does not depend on that allegation. See [💨 LES GARS, VOUS AVEZ GAZÉ LE MAIRE](./💨_LES_GARS_VOUS_AVEZ_GAZE_LE_MAIRE.md) for the separate incident investigation.
 
 ---
 
@@ -22,7 +22,7 @@ A French *maire* is the elected head of a commune's municipal executive, chosen 
 
 The sash, *l'écharpe tricolore*, symbolises a real public office. It does not transform its wearer into the operational commander of every uniformed person inside municipal boundaries. French law divides functions across institutions, and those divisions matter most when everyone is standing in the same street.
 
-Mayors have *police administrative* responsibilities in their communes, including aspects of safety, security and public tranquillity. That phrase does **not** mean that a mayor commands the *Police nationale* in the way a police chief commands officers. It describes a set of administrative powers concerned with preventing disturbances and protecting the public. Municipal police, where established, have their own statutory powers and organisational arrangements. The distinction between an administrative **power to regulate** and an operational **power to command a particular force** is the first necessary piece of the puzzle.
+Under [CGCT Article L2212-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390149/), the mayor is charged with municipal and rural policing under the administrative supervision of the state representative. [Article L2212-2](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006164555/) describes municipal administrative policing in terms of public order, safety, security and public health. These provisions identify legal responsibilities; they do not by themselves identify the command authority for a particular national public-order deployment. That phrase does **not** mean that a mayor commands the *Police nationale* in the way a police chief commands officers. It describes a set of administrative powers concerned with preventing disturbances and protecting the public. Municipal police, where established, have their own statutory powers and organisational arrangements. The distinction between an administrative **power to regulate** and an operational **power to command a particular force** is the first necessary piece of the puzzle.
 
 A mayor also serves certain functions on behalf of the state, including civil-status duties. French municipal government is therefore not a neat little island entirely outside central government. The office sits at a junction of local democracy and national law. This makes the mayor a particularly interesting witness when the national state's account of an event differs from that of residents.
 
@@ -38,19 +38,19 @@ In English, the phrase “the police” can make several organisations disappear
 | **Préfecture / préfet** | Territorial representation of the state and relevant administrative public-order powers | Often central to the authorisation, coordination and oversight of public-order arrangements. |
 | **Judicial authorities** | Investigation and prosecution of offences | Judicial supervision and investigative responsibilities must not be confused with operational crowd management. |
 
-These are functional summaries, not a substitute for the provisions governing a particular place or operation. Paris and certain other territories have special arrangements; a Paris-specific rule must not be casually exported to Saint-Denis, Créteil or any other commune.
+These are functional summaries, not a substitute for the provisions governing a particular place or operation. Paris and surrounding departments have special arrangements. In particular, **Saint-Denis is in Seine-Saint-Denis**, so the geographical and functional jurisdiction of the *préfet de police* must be checked for the particular operation rather than assuming that the Paris administrative boundary determines competence. The relevant territorial rule and any operational delegation remain **unverified for the alleged incident**.
 
 The distinction is not pedantry. If a resident complains about an officer's conduct, the answer to “who gave the order?” depends on identifying the officer's service, mission and chain of command. “The mayor was there” tells us almost nothing about that chain.
 
 ## 3. 🧭 Enter the Prefect, Carrying the State
 
-The *préfet* is the state's territorial representative. Prefects are appointed, not elected by the residents of the department they administer. Their responsibilities include implementing national government policy and, within the applicable legal framework, significant public-order functions.
+The *préfet* is the state's territorial representative. **Administrative public-order authority and tactical command are not the same function**: a prefectural decision may establish an operation's legal or administrative framework, while particular units act through their own command structure. Prefects are appointed, not elected by the residents of the department they administer. Their responsibilities include implementing national government policy and, within the applicable legal framework, significant public-order functions.
 
 A mayor's democratic legitimacy comes from municipal representation. A prefect's authority comes from the state's legal and administrative structure. Neither form of authority makes the other imaginary. They are different answers to different questions: **Who represents the inhabitants? Who is authorised to coordinate this state function?**
 
 During a public demonstration, those questions can collide. A mayor might publicly criticise the policing of a march, seek explanations, or attempt to help constituents. The prefectural chain may still be responsible for decisions about national forces. The mayor's objection is politically important; it is not automatically an operational veto.
 
-A properly sourced account should therefore name the competent prefecture, establish which forces were deployed, identify any relevant orders and distinguish what was publicly announced from what the operational record actually shows. Otherwise, an institutional diagram becomes an elaborate way of pretending to know what happened.
+A properly sourced account should therefore identify the legally competent territorial authority, establish which forces were deployed, identify any relevant orders and distinguish what was publicly announced from what the operational record actually shows. Otherwise, an institutional diagram becomes an elaborate way of pretending to know what happened.
 
 ## 4. 🗳️ Democratic Authority Is Not the Same as Operational Authority
 
@@ -64,7 +64,7 @@ That gap requires other accountability mechanisms: reasons, records, review, com
 
 ## 5. 📍 Before the Headline, Establish the Event
 
-The existing project plan identifies a **reported** incident involving a mayor at a demonstration in October 2026. Some earlier research notes name Saint-Denis and Bally Bagayoko, with 6 October offered as a possible date. Those details remain **leads**, not verified findings in this draft. They must not quietly harden into historical fact merely because they appear in several Polaris planning documents.
+A proposed case for investigation concerns a **possible** October 2026 encounter between a mayor and a public-order deployment. Earlier drafts associated the lead with Saint-Denis, Bally Bagayoko and 6 October. **None of those case-specific details has been independently verified for this revision**, and their appearance in previous drafts is not evidence. This node makes no finding that the event occurred as described. The incident companion must establish its own sources before naming an occurrence as fact.
 
 The incident-specific record needs answers to the following:
 
@@ -231,7 +231,7 @@ Keeping the distinction protects both pieces. The legal explanation does not hav
 
 ## 19. 🧪 What Must Be Checked Before Publication
 
-The legal and institutional account should be checked against the current versions of the **Code général des collectivités territoriales** and **Code de la sécurité intérieure**, including provisions applicable to the municipality and type of demonstration under discussion. Relevant prefectural powers, municipal-police arrangements and public-order rules need article-level citations where specific legal claims are made.
+The general mayoral powers in **CGCT Articles L2212-1 and L2212-2** have been checked against Légifrance (see Sources below). **This does not complete the legal audit**: the relevant provisions of the *Code de la sécurité intérieure*, special territorial rules for Seine-Saint-Denis, prefectural powers, any municipal-police arrangements and the legal basis for a particular crowd-control intervention still require incident-specific article-level verification.
 
 For the reported October encounter, publication requires an independently corroborated identity, date, location and account of the event. Any claim about deliberate targeting needs evidence of intent; any legal conclusion needs the relevant facts and applicable law. If no official inquiry has reported, the node should say so rather than implying one has vindicated either side.
 
@@ -249,31 +249,54 @@ The Republic may have an impressive number of departments. The public would stil
 
 ---
 
-## 📚 Stardust — Sources and Verification Routes
+---
 
-The following are **primary legal and institutional research routes**, not citations proving the reported October incident. The incident-specific source record remains outstanding.
+## 📚 Sources and Verification Routes
 
-- [Légifrance: “Code général des collectivités territoriales”](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070633/)
-- [Légifrance: “Code de la sécurité intérieure”](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000025503132/)
-- [Vie publique: “Institutions et collectivités territoriales”](https://www.vie-publique.fr/)
-- [Ministère de l'Intérieur: “Site officiel”](https://www.interieur.gouv.fr/)
-- [Défenseur des droits: “Site officiel”](https://www.defenseurdesdroits.fr/)
-- [Police nationale: “Site officiel”](https://www.police-nationale.interieur.gouv.fr/)
-- [Gendarmerie nationale: “Site officiel”](https://www.gendarmerie.interieur.gouv.fr/)
+**Checked statutory provisions (general institutional framework, not proof of the alleged incident):**
+
+- [Légifrance: “Code général des collectivités territoriales, Article L2212-1”](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006390149/) — the mayor's municipal and rural policing responsibility, under state administrative supervision.
+- [Légifrance: “Code général des collectivités territoriales, Article L2212-2”](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006164555/) — purposes and illustrative scope of municipal administrative policing.
+
+**Further official legal and institutional routes (not yet verified for the particular incident):**
+
+- [Légifrance: “Code de la sécurité intérieure”](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000025503132/) — specific national-policing and public-order provisions to check.
+- [Défenseur des droits](https://www.defenseurdesdroits.fr/) — rights and professional-conduct oversight.
+- [Ministère de l’Intérieur](https://www.interieur.gouv.fr/) — national administrative responsibilities and official statements.
+- [Police nationale](https://www.police-nationale.interieur.gouv.fr/) and [Gendarmerie nationale](https://www.gendarmerie.interieur.gouv.fr/) — distinct service structures.
+
+**Incident record:** No contemporary account, original video, operational order, complaint, inquiry finding or judgment was authenticated for the alleged mayoral encounter in this revision. This source shelf must not be used to imply otherwise.
+
+---
 
 ## 🌌 Constellations
 
-**Parent:** `🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/`
+🏛️ ⚖️ 🧭 🧩 — municipal representation; state command; incident verification; institutional feedback.
 
-**Companion nodes:**
+- [💨 LES GARS, VOUS AVEZ GAZÉ LE MAIRE](./💨_LES_GARS_VOUS_AVEZ_GAZE_LE_MAIRE.md) — the distinct, unresolved incident investigation.
+- [🚨 La Police Face à la Jeunesse](./🚨_la_police_face_a_la_jeunesse.md) — public-order law and safeguards for young protesters.
+- [⚖️ Histoire de la Police Française](./⚖️_histoire_de_la_police_francaise.md) — institutional history and inherited structures.
+- [🏫 L’École et les Inégalités](./🏫_lecole_et_les_inegalites.md) — the educational conditions that preceded protest.
+- [🎓 Ce Que Réclame la Jeunesse](./🎓_ce_que_reclame_la_jeunesse.md) — demands and institutional responses.
+- [📣 Les Mots de la Colère](./📣_les_mots_de_la_colere.md) — pupils' words and their institutional translation.
+- [⏱️ Chronologie de la Révolte](./⏱️_chronologie_de_la_revolte.md) — dated claims, developments and evidence boundaries.
 
-- `💨_LES_GARS_VOUS_AVEZ_GAZE_LE_MAIRE.md` — the specific reported encounter, subject to incident verification.
-- `🚨_la_police_face_a_la_jeunesse.md` — policing young protesters, legal tests and safeguarding.
-- `⚖️_histoire_de_la_police_francaise.md` — institutional development and historical inheritance.
-- `🏫_lecole_et_les_inegalites.md` — material school conditions and services delivered.
-- `🎓_ce_que_reclame_la_jeunesse.md` — the demands that began the political feedback.
-- `📣_les_mots_de_la_colere.md` — students' own words and the translation of grievances into institutional language.
-- `📺_qui_raconte_la_revolte.md` — media attention, framing and credibility.
-- `⏱️_chronologie_de_la_revolte.md` — dated evidence across the constellation.
+---
 
-*Polaris Protocol — survivor-authored analysis. Institutional power is a subject for investigation, not a substitute for evidence.*
+## ✨ Stardust
+
+french public administration, municipal democracy, administrative policing, public order, prefectural authority, national police, witness credibility, institutional accountability, education protests, feedback failure
+
+---
+
+## 🏮 Footer
+
+*Le Maire Face à la Police* is a living node of the **Polaris Protocol**, mapping the difference between elected representation, administrative authority and coercive operations. Its legal framework is independent of the unresolved mayoral-incident lead.
+
+**📡 Cross-references:** [Incident investigation](./💨_LES_GARS_VOUS_AVEZ_GAZE_LE_MAIRE.md) · [Policing young protesters](./🚨_la_police_face_a_la_jeunesse.md) · [Student demands](./🎓_ce_que_reclame_la_jeunesse.md)
+
+**🏮 Return to:** [🔥 Jeunesse en Feu](./README.md) · [🔊 Turn the Public Up](../README.md) · [📲 Press Matters](../../README.md) · [🌓 In the Moment](../../../README.md) · [Polaris root](../../../../README.md)
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-10-21_

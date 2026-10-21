@@ -1,5 +1,5 @@
 # 💀 Bismillah, C'est les Ténèbres
-**First created:** 2026-10-17 | **Last updated:** 2026-10-17  
+**First created:** 2026-10-17 | **Last updated:** 2026-10-21  
 *An unverified Snapchat message, a racial caricature with a request for group access, and the French students who made the allegation itself part of their protest folklore.*
 
 ---
@@ -8,9 +8,9 @@
 
 There is a particular difficulty with pretending to be a teenager. The teenagers may already know some teenagers.
 
-In the course of the French student mobilisation of autumn 2026, a screenshot circulated of a message attributed to a Snapchat account calling itself *Mamadou 30k*. The sender appeared to be asking about a school blockade and requesting admission to an organising group. In the process, the account reportedly deployed an improbable combination of Arabic expressions, French slang, Algerian flags and an unsolicited declaration that everything was going to be smashed up. The phrase **« Bismillah c'est les ténèbres »** escaped the screenshot and became a joke, a placard and a protest reference.
+According to the contemporary reporting cited in the source draft, during the French student mobilisation of autumn 2026 a screenshot circulated of a message attributed to a Snapchat account calling itself *Mamadou 30k*. The sender appeared to be asking about a school blockade and requesting admission to an organising group. In the process, the account reportedly deployed an improbable combination of Arabic expressions, French slang, Algerian flags and an unsolicited declaration that everything was going to be smashed up. The phrase **« Bismillah c'est les ténèbres »** escaped the screenshot and became a joke, a placard and a protest reference.
 
-The message was widely interpreted as a possible attempt at police infiltration. **That attribution is unverified.** The screenshot does not identify the person behind the account, establish their employer, or demonstrate that an infiltration operation existed. It is possible to take the incident seriously without awarding the French police responsibility for a message whose author has not been established.
+The message was reported as being interpreted by some audiences as a possible attempt at police infiltration. **That attribution is unverified.** The screenshot does not identify the person behind the account, establish their employer, or demonstrate that an infiltration operation existed. It is possible to take the incident seriously without awarding the French police responsibility for a message whose author has not been established.
 
 But that is only the first question. The second is the one an institution concerned with legitimacy should be asking: **why did the idea of police writing this particular racial caricature sound plausible to people receiving and sharing it?** The joke arrived in a society where discriminatory police identity checks are not simply a rumour. French courts and oversight bodies have documented serious problems. The allegation's resonance therefore deserves examination independently of the allegation's truth.
 
@@ -20,7 +20,7 @@ This node distinguishes **what the screenshot shows**, **what journalists report
 
 ## 1. 💀 Bonjour, Fellow Teenagers
 
-The screenshot supplied for this node shows the following message, attributed to an account named *Mamadou 30k*. The wording below is transcribed from the circulated image, **not authenticated against Snapchat's original records**:
+The source draft records the following transcription of a circulated screenshot attributed to an account named *Mamadou 30k*. The image and original Snapchat exchange have **not been independently authenticated for this revision**:
 
 > Salut !  
 > Bismillah c'est les ténèbres  
@@ -60,19 +60,19 @@ Somebody appears to have selected several ethnic signifiers, activated the viole
 
 ## 3. 🕵️ What Is Known About the Sender?
 
-The contemporary article supplied for this research is Middle East Eye's **“‘Bismillah, c'est les ténèbres’: How suspected police infiltration became a protest meme in France”**. The extract supplied in this conversation describes an **unverified Snapchat message** attributed to a user called *Mamadou*, apparently seeking information about a planned school blockade. It reports similar messages attributed to accounts with names associated with North and West African heritage, and describes the phrase appearing on placards, in videos and at demonstrations.
+The contemporary article cited by the source draft is Middle East Eye's **“‘Bismillah, c'est les ténèbres’: How suspected police infiltration became a protest meme in France”**. The extract described in the source draft concerns an **unverified Snapchat message** attributed to a user called *Mamadou*, apparently seeking information about a planned school blockade. It reports similar messages attributed to accounts with names associated with North and West African heritage, and describes the phrase appearing on placards, in videos and at demonstrations.
 
 The wording matters. *Suspected* police infiltration is not verified police infiltration. *Attributed to* an account is not verified authorship. A screenshot records the appearance of text in an image; it does not independently authenticate the platform account, the sender, the context before and after the exchange, or any institutional relationship.
 
 | Question | Status at this editorial checkpoint |
 |---|---|
-| Does a circulated screenshot show this wording? | **Yes**, in the material supplied for this node. |
-| Did a journalist report its circulation and the meme? | **Yes**, in the supplied Middle East Eye extract. |
+| Is this wording recorded in the source draft? | **Yes**. The underlying screenshot has not been reauthenticated for this revision. |
+| Does the source draft attribute the circulation to contemporary reporting? | **Yes**. The article has not been freshly inspected for this revision. |
 | Is the original Snapchat exchange independently authenticated here? | **No.** |
 | Is the account operator identified? | **No.** |
 | Is police authorship or direction established? | **No.** |
 | Is an intention to provoke violence established? | **No.** The wording permits the question; it does not settle intent. |
-| Is there evidence of the phrase's reported uptake by protesters? | **Yes**, through the cited contemporary reporting; the full scale remains unquantified. |
+| Is there evidence of the phrase's reported uptake by protesters? | **Reported** in the cited journalism; original images and scale remain unverified here. |
 
 A police denial, if one is later found, would be evidence of the police position, not by itself conclusive forensic identification of the sender. A journalist's suspicion is likewise not forensic identification. If new evidence emerges, the account of this incident should change. The institutional history discussed below would not thereby disappear.
 
@@ -214,7 +214,7 @@ The job of reporting is not to pretend these questions are identical. A headline
 
 Students are not just the subjects of the reporting. They are interpreters and publishers in their own right. Their jokes, screenshots, placards and social channels are part of how the story is made. That does not make every student interpretation true; it makes the students participants in the production of public meaning.
 
-For the broader framing question, see [📺 Qui raconte la révolte?](./📺_qui_raconte_la_revolte.md) when that companion node is drafted. For the movement's own slogans and voices, see [📣 Les mots de la colère](./📣_les_mots_de_la_colere.md).
+The broader question of who controls the public narrative remains part of this analysis. For the movement's own slogans and voices, see [📣 Les mots de la colère](./📣_les_mots_de_la_colere.md).
 
 ## 15. 💀 The Republic Has Failed the Vibe Check
 
@@ -234,7 +234,7 @@ Apparently, somebody has turned the lights on.
 
 ---
 
-## 🔗 Constellations
+## 🌌 Constellations
 
 - [🚨 La police face à la jeunesse](./🚨_la_police_face_a_la_jeunesse.md) — protest policing, student rights and allegations requiring independent verification.
 - [⚖️ Histoire de la police française](./⚖️_histoire_de_la_police_francaise.md) — the longer institutional history, including racial discrimination and state violence.
@@ -245,14 +245,14 @@ Apparently, somebody has turned the lights on.
 - [🦺 Jaunes et jeunes : nos luttes se rencontrent](./🦺_jaunes_et_jeunes_nos_luttes_se_rencontrent.md) — distinct movements and the communication infrastructure of convergence.
 - [🔥 Jeunesse en Feu](./README.md) — constellation index.
 
-## ✨ Stardust — Sources, Limits and Future Checks
+## 📚 Sources and Verification Notes
 
-**Contemporary reporting and supplied primary material**
+**Contemporary reporting and described source material**
 
-- [Middle East Eye: “‘Bismillah, c'est les ténèbres’: How suspected police infiltration became a protest meme in France”](https://www.middleeasteye.net/trending/bismillah-cest-les-tenebres-how-suspected-police-infiltration-became-protest-meme-france) — source identified by the user; the article extract was supplied in conversation. Direct retrieval of the full article failed at this editorial checkpoint, so details not in the supplied extract are not represented as freshly verified.
-- Circulated Snapchat screenshots supplied in the research conversation, including the message attributed to *Mamadou 30k*. **Screenshot provenance and original account ownership are unverified.** Preserve the original images in the research archive if they are to be used in publication.
+- [Middle East Eye: “‘Bismillah, c'est les ténèbres’: How suspected police infiltration became a protest meme in France”](https://www.middleeasteye.net/trending/bismillah-cest-les-tenebres-how-suspected-police-infiltration-became-protest-meme-france) — source identified by the user; the original draft attributes details to an article extract. The full article has not been independently inspected for this revision; its specific claims remain attributed rather than freshly verified.
+- The source draft describes a circulated Snapchat screenshot attributed to *Mamadou 30k*. **Neither the original image nor the account ownership has been authenticated in this revision.** Obtain and preserve the original image before presenting the transcription as independently inspected primary material.
 
-**French institutional records independently checked for historical context**
+**French institutional records cited for historical context**
 
 - [Conseil d'État: “Contrôles d’identité discriminatoires : la détermination d’une politique publique ne relève pas du juge administratif” (11 October 2023)](https://www.conseil-etat.fr/site/actualites/controles-d-identite-discriminatoires-la-determination-d-une-politique-publique-ne-releve-pas-du-juge-administratif).
 - [Conseil d'État: decision no. 454836 (11 October 2023)](https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2023-10-11/454836).
@@ -260,7 +260,7 @@ Apparently, somebody has turned the lights on.
 - [Défenseur des droits: “Amendes, évictions, contrôles” (9 April 2025)](https://www.defenseurdesdroits.fr/amendes-evictions-controles-une-etude-sur-la-gestion-des-indesirables-par-la-police-850).
 - [Défenseur des droits: “Contrôles d’identité : que dit le droit?” (15 February 2024)](https://www.defenseurdesdroits.fr/controles-didentite-que-dit-le-droit-et-comment-mettre-fin-aux-controles-discriminatoires-565).
 
-**Editorial follow-ups**
+## 🔎 Outstanding Verification
 
 - Locate and authenticate the earliest available original screenshot and establish its publication date.
 - Identify dated, original placard photographs and student accounts of how the meme circulated.
@@ -268,6 +268,22 @@ Apparently, somebody has turned the lights on.
 - Add directly sourced material on Nahel Merzouk's death and subsequent legal developments before expanding that section.
 - Distinguish reports of online uptake from independently counted demonstrations or participants.
 
-**Evidence key:** **[Screenshot]** appearance of text in a circulated image; **[Reported]** attributed journalism; **[Official]** a documented institutional finding or statement; **[Inference]** a proposed explanation of reception or information flow. None automatically proves another.
+### Evidence key
 
-**Editorial principle:** A false allegation can still expose a genuine problem of institutional trust. A genuine problem of institutional trust does not prove the allegation. Both halves of that sentence are required.
+**[Screenshot]** refers only to a described circulated image, not authenticated platform records. **[Reported]** refers to attributed journalism. **[Official]** refers to a documented institutional statement or finding, subject to checking the cited publication. **[Inference]** identifies interpretation rather than direct observation.
+
+None of these categories automatically proves another.
+
+## ✨ Stardust
+
+`French student mobilisation` · `Bismillah c’est les ténèbres` · `Snapchat` · `unverified infiltration allegation` · `racial caricature` · `contrôles au faciès` · `police legitimacy` · `student agency` · `memes` · `Embodied Information Ecology`
+
+---
+
+## 🏮 Footer
+
+[🔥 Return to Jeunesse en Feu](./README.md)
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-10-21_

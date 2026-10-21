@@ -1,5 +1,5 @@
 # 🏫 L’École et les Inégalités
-**First created:** 2026-10-09 | **Last updated:** 2026-10-09  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-21  
 *A school can be open, a position can be funded, and a child can still be missing an education.*
 
 ---
@@ -14,7 +14,7 @@ That is not a trick question. It is the question around which this node turns. F
 
 Our starting point is **Lycée Saint-Exupéry in Créteil**, where pupils and staff publicly raised concerns about provision. It is a case study, not a statistical portrait of every French school. We will follow the complaints, the reported mobilisation, the administrative response and the unresolved questions; then travel outwards to the larger structures that determine whose education is easiest to interrupt and hardest to restore.
 
-**Evidence boundary:** This node is drafted on 9 October from the Polaris Stage One evidence audit and the accompanying plan. Those records preserve original publication links and explicitly identify unresolved checks. This drafting pass does **not** constitute a new independent inspection of the school, a complete audit of rectorat records, or a national statistical analysis. Statements below distinguish reported testimony, organisational claims, proposed government measures and analytical inference. The last substantive contemporary reporting in the working evidence register is dated **5 October 2026**. We do not silently upgrade it into a verified account of conditions on the ninth.
+**Evidence boundary:** This is an analysis of published claims and the gap between administrative provision and lived educational access—not an inspection of Saint-Exupéry, an examination of rectorat staffing returns, or a national statistical study. The source links below were carried in the original draft; their full texts have **not been independently rechecked for this revision**. Dates, quotations and precise staffing or medical-support details therefore remain **attributed claims requiring source inspection**, not newly verified findings. The latest local follow-up identified in the draft is dated **5 October 2026**; no later on-site status is established here.
 
 ---
 
@@ -59,7 +59,7 @@ A staffing announcement may be true. A pupil’s account of missed education may
 
 The distinction is particularly consequential for examinations. Missed instruction can require pupils to catch up independently; inconsistent cover can interrupt the sequence in which a subject is taught; uncertainty can make preparation harder. Those are plausible educational mechanisms, **not evidence that every Saint-Exupéry pupil experienced them**. Establishing their scale would require subject-level timetables, cancelled-hours data, duration of gaps and testimony from the relevant classes.
 
-The project’s Stage One audit notes that *Le Monde*’s **5 October** follow-up reported a teacher’s concern that some pupils had received their first French lesson only the preceding week. The exact French wording, year group and scope of that observation still require checking against the article before anyone turns it into a general statement about the school.
+The draft attributes to *Le Monde*’s **5 October** follow-up a teacher’s concern that some pupils had received their first French lesson only the preceding week. **That specific statement has not been checked against the article**: its wording, year group and scope must be established before treating it as an evidenced account of the school.
 
 A useful audit would ask: how many French lessons were scheduled; how many were delivered; by whom; over what period; and what arrangements existed to make up the missed teaching? A statement that “recruitment has taken place” answers precisely none of those questions by itself.
 
@@ -69,7 +69,7 @@ And no, supervised study is not automatically a French lesson merely because a c
 
 **AESH** are *accompagnants d’élèves en situation de handicap*: staff who support pupils with disabilities in accessing school life and learning. Their work may involve participation in lessons, communication, movement, practical tasks and other assistance depending on the pupil’s assessed needs and the support arrangements in place.
 
-The initial local statement described **one withdrawn AESH allocation**. The 5 October follow-up, as recorded in our evidence audit, described **several disability-support assistants still missing**. Those statements are not necessarily contradictory. One could concern a particular allocation; the other could concern staffing across multiple pupils or classes. We cannot equate them without the underlying decisions and service records.
+The initial local statement is cited for **one withdrawn AESH allocation**. The draft also attributes a claim about **several disability-support assistants still missing** to the 5 October follow-up; that attribution requires checking against the published article. Those statements are not necessarily contradictory. One could concern a particular allocation; the other could concern staffing across multiple pupils or classes. We cannot equate them without the underlying decisions and service records.
 
 For a pupil who requires assistance, “the school is open” does not settle whether they can access the lesson. Nor is an authorised support entitlement the same as support actually provided. The relevant questions are practical: what assistance was recognised as necessary, what was allocated, what was scheduled, what was delivered, and whether the arrangement was continuous enough to be usable.
 
@@ -81,7 +81,7 @@ Disability inclusion is sometimes treated as a specialist footnote to the main e
 
 The local complaint also identified missing nursing and social-work provision. These services are not interchangeable. A nurse provides health-related support; a social worker addresses different welfare and social needs; psychologists, counsellors and educational advisers have their own roles and qualifications. Collapsing them into “support staff” may make a budget table shorter while making the lived problem harder to understand.
 
-The project audit records a **family-reported concern about insulin support** in the 5 October follow-up. That is an important reported service concern. It is **not**, on its own, proof of the precise vacancy status of the nurse’s post, nor grounds for identifying a child or making assumptions about their individual medical arrangements.
+The original draft attributes a **family-reported concern about insulin support** to the 5 October follow-up; this sensitive detail **requires direct verification before being stated as an established incident**. That is an important reported service concern. It is **not**, on its own, proof of the precise vacancy status of the nurse’s post, nor grounds for identifying a child or making assumptions about their individual medical arrangements.
 
 What should be checked? Nursing hours assigned to the school; cover arrangements; whether a qualified professional was available when needed; how parents and staff were informed; and whether gaps affected access to education. The same applies, in different ways, to social work: what is the actual route by which a pupil can obtain help, and does somebody have the capacity to respond?
 
@@ -89,7 +89,7 @@ A school’s capacity to keep pupils learning depends partly on its capacity to 
 
 ## 6. 🪟 Buildings: Apparently the Walls Are Also Part of Education
 
-Parents interviewed in the **5 October** reporting were recorded in our evidence audit as raising concerns about **water leaks and a broken window**. These details need precise rechecking against the published account before being presented as a complete facilities inspection. They are, however, the sort of concerns that demonstrate why buildings belong in an educational inequality node.
+The original draft attributes concerns about **water leaks and a broken window** to parents interviewed in the **5 October** reporting; these details have not been independently checked against that article. These details need precise rechecking against the published account before being presented as a complete facilities inspection. They are, however, the sort of concerns that demonstrate why buildings belong in an educational inequality node.
 
 A building is not simply the box in which education happens. Temperature, ventilation, accessibility, sanitation, safety and usable rooms affect what teaching can take place and who can participate. A defect that one pupil can navigate may be a serious access barrier for another. A building can remain formally open while parts of it are practically unusable.
 
@@ -134,20 +134,20 @@ The Stage Two corpus preserves individual pupils’ interviews from different pl
 
 ## 9. 🚧 How a Local Complaint Became Public Information
 
-The provisional Saint-Exupéry sequence shows how an internal provision problem can become an event that outsiders are obliged to notice:
+The **provisional, source-attributed** Saint-Exupéry sequence shows how an internal provision problem can become an event that outsiders are obliged to notice:
 
-| Date | What the working record supports | Important limit |
+| Date | Claim in the original draft | Important limit |
 |---|---|---|
 | **17 Sep** | Staff mobilisation reported | Precise sequence needs original account |
 | **18 Sep** | Pupil blockade reported | Participant account via journalism |
 | **20 Sep** | Local group publishes staffing complaints | Advocacy statement, not official return |
 | **21 Sep** | Further action announced | Announcement does not prove attendance |
-| **23 Sep** | Serious fireworks incident and injuries reported | Separate incident; no blanket attribution |
+| **23 Sep** | Fireworks incident and injuries described in draft | **Source not established here**; no blanket attribution |
 | **Week of 28 Sep** | Lessons reportedly resume | Reopening does not establish complete restoration |
-| **3 Oct** | TF1 reports resumption and additional resources | Headline is not a post-by-post audit |
+| **3 Oct** | TF1 report mentioned in draft: resumption and additional resources | **Exact report link not supplied**; requires verification |
 | **5 Oct** | Follow-up reports continuing deficiencies | Latest dated local follow-up in this evidence set |
 
-The **23 September** incident requires particular care. Reports of fireworks and injuries must be recorded accurately, without implying that every pupil who organised a blockade was responsible. The wider questions of policing, disorder and accountability belong in the dedicated specialist nodes; they should not displace the original question of educational provision here.
+The **23 September** entry requires particular care. Without a directly identified report, the fireworks-and-injuries description is an **unverified research lead**, not a confirmed event in this node. It must not be used to imply that pupils who organised a blockade were responsible. The wider questions of policing, disorder and accountability belong in the dedicated specialist nodes; they should not displace the original question of educational provision here.
 
 The chronology suggests a pathway: staff complaints became pupil action; pupil action made the school publicly visible; authorities reportedly made recruitment decisions; lessons resumed; some concerns persisted. It does **not** prove that every subsequent appointment was caused exclusively by the blockade. Timing is relevant evidence, not a complete causal explanation.
 
@@ -155,15 +155,15 @@ The chronology suggests a pathway: staff complaints became pupil action; pupil a
 
 The easiest way to overstate the outcome is to treat “additional resources” as a synonym for “every original complaint resolved”. The available evidence does not support that conclusion.
 
-| Service | Initial reported problem | Follow-up in working audit | Responsible conclusion |
+| Service | Initial reported problem | Follow-up claim / evidence gap | Responsible conclusion |
 |---|---|---|---|
-| Deputy leadership | One missing | Appointment mentioned in earlier research, not independently substantiated | **UNKNOWN** |
+| Deputy leadership | One missing | No directly sourced appointment confirmation | **UNKNOWN** |
 | Teaching | Three missing | Lessons resumed; positions not individually reconciled | **PARTIAL OUTCOME REPORTED** |
-| Nursing | Nurse reportedly missing | Family-reported insulin-support concern | **SERVICE CONCERN REPORTED** |
+| Nursing | Nurse reportedly missing | Sensitive concern attributed to article; not rechecked | **UNVERIFIED DETAIL** |
 | Social work | Full-time position reportedly missing | No post-specific update | **UNKNOWN** |
 | Vocational support | Two positions reportedly missing | Earlier appointment claim unconfirmed | **UNKNOWN** |
-| AESH | Allocation reportedly withdrawn | Several assistants reportedly still missing | **SHORTAGE REPORTED** |
-| Building maintenance | Parents raised defects | Unresolved concerns reported 5 October | **ISSUES REPORTED** |
+| AESH | Allocation reportedly withdrawn | Several assistants said to be missing; article not rechecked | **FOLLOW-UP UNVERIFIED** |
+| Building maintenance | Defects attributed to parent accounts | Follow-up not rechecked | **FOLLOW-UP UNVERIFIED** |
 
 This table is deliberately unsatisfying. That is a virtue. It distinguishes what is known from what the evidence has not yet established.
 
@@ -191,13 +191,13 @@ The purpose of mapping authority is not to make blame evaporate. It is to find t
 
 ## 12. 💰 A Budget Is a Proposal About Resources, Not a Delivered Lesson
 
-The project’s Stage One audit records contemporary reporting on the proposed **2027** French education budget: **1,300 additional AESH positions**, **3,041 trainee-teacher positions**, and a reported reduction of **1,588 established teaching posts**. It also records unreconciled differences in total job figures and budget accounting. These are **reported proposals**, not enacted or delivered staffing outcomes, and the official detailed budget tables still require reconciliation.
+The original draft attributes the following figures to contemporary coverage of the proposed **2027** French education budget: **1,300 additional AESH positions**, **3,041 trainee-teacher positions**, and a reported reduction of **1,588 established teaching posts**. Different reported job totals and budget categories have not been reconciled here. These are **reported proposals**, not enacted or delivered staffing outcomes, and the official detailed budget tables still require reconciliation.
 
 The figures should not be casually combined. A trainee post is not an established teaching post. An AESH position is not a French teacher. A net increase in one staffing category can coexist with a reduction in another. And a national increase does not tell us which school receives an additional adult, on what date or for how many hours.
 
 Most obviously, a draft budget for **2027** cannot retroactively supply a French lesson missed in **September 2026**. It may indicate policy priorities, but it is not proof that a local service gap has been closed.
 
-For the detailed fiscal comparison, including the unresolved difference between reported totals, see [💰 Des Livres, Pas des Bombes](./💰_des_livres_pas_des_bombes.md) when that node is completed. This node’s narrower test is the path from **money promised** to **provision experienced**.
+For the detailed fiscal comparison, including the unresolved difference between reported totals, see [💰 Des Livres, Pas des Bombes](./💰_des_livres_pas_des_bombes.md). This node’s narrower test is the path from **money promised** to **provision experienced**.
 
 A larger budget can coexist with a local shortage. A local shortage does not, by itself, prove a national budget cut. Both propositions are possible because they describe different levels of the system.
 
@@ -240,16 +240,18 @@ Very good.
 
 ## 📚 Sources and Evidence Boundaries
 
-The sources below are the **source shelf retained in the project’s research audits**. This drafting pass did not independently reopen all original publications. Where exact article text or official records remain unexamined, the node says so rather than supplying invented quotations or definitive staffing outcomes.
+The following are **publication links supplied in the original node**, not proof that their contents were independently verified during this revision. Where exact article text or official records remain unexamined, the node says so rather than supplying invented quotations or definitive staffing outcomes.
 
 - [Créteil Citoyenne: “Mobilisation au lycée Saint-Exupéry de Créteil” (20 September 2026)](https://www.insoumisdecreteil.fr/2026/09/20/mobilisation-lycee-saint-exupery-creteil/) — original political-support statement reporting staffing deficiencies; not an official staffing return.
 - [Le Monde: “Au lycée Saint-Exupéry de Créteil, où les blocages ont commencé, les cours ont repris, mais les revendications demeurent” (5 October 2026)](https://www.lemonde.fr/campus/article/2026/10/05/au-lycee-saint-exupery-de-creteil-ou-les-blocages-ont-commence-les-cours-ont-repris-mais-les-revendications-demeurent_6788551_4401467.html) — reported resumption, testimony and continuing concerns; exact wording and individual post outcomes require checking.
-- [Ministère de l’Éducation nationale: “Budget 2027 pour l’École” (1 October 2026)](https://www.education.gouv.fr/budget-2027-pour-l-ecole-506131) — official budget dossier landing page; underlying detailed PDF tables not reconciled in the project audit.
+- [Ministère de l’Éducation nationale: “Budget 2027 pour l’École” (1 October 2026)](https://www.education.gouv.fr/budget-2027-pour-l-ecole-506131) — official budget dossier landing page; underlying detailed PDF tables not reconciled in this node.
 - [Le Monde: “Budget 2027 : des crédits en hausse pour l’éducation nationale et 1 588 postes d’enseignants en moins” (1 October 2026)](https://www.lemonde.fr/societe/article/2026/10/01/budget-2027-des-credits-en-hausse-pour-l-education-nationale-et-1-588-postes-d-enseignants-en-moins_6786579_3224.html) — contemporary account of proposed staffing changes.
 - [L’Union Étudiante: “10 mesures d’urgence”](https://union-etudiante.fr/10mesures/) — organisational programme; not the views of every participating pupil.
 - [Le Monde: “Paroles de lycéens dans les blocus” (6 October 2026)](https://www.lemonde.fr/societe/article/2026/10/06/paroles-de-lyceens-dans-les-blocus-je-suis-inquiet-pour-mon-avenir-et-pour-celui-de-tous-les-lyceens-de-france_6788828_3224.html) — individual accounts from different locations; not automatically Saint-Exupéry testimony.
 
-**Outstanding verification:** post-by-post rectorat records; exact details of the 5 October reporting; current statutory division of responsibility; national DEPP/IPS comparisons; anonymised AESH delivery measures; maintenance and repair completion records. The latest local evidence described here is **5 October**, not a verified on-site status report for 9 October.
+**Official verification routes:** [DEPP statistical publications](https://www.education.gouv.fr/les-publications-de-la-depp-41475) for education indicators; [service-public.fr](https://www.service-public.fr/) for current administrative guidance; [Légifrance](https://www.legifrance.gouv.fr/) for binding legal provisions. These are research entry points, **not claim-level proof** for the Saint-Exupéry case.
+
+**Outstanding verification:** post-by-post rectorat records; exact details of the 5 October reporting; current statutory division of responsibility; national DEPP/IPS comparisons; anonymised AESH delivery measures; maintenance and repair completion records. The latest local follow-up cited in the original draft is dated **5 October**; this is not a verified on-site status report for 9 or 21 October. The TF1 and fireworks entries also need direct publication links.
 
 ---
 
@@ -260,10 +262,9 @@ The sources below are the **source shelf retained in the project’s research au
 - [🎓 Ce Que Réclame La Jeunesse](./🎓_ce_que_reclame_la_jeunesse.md) — organisational demands and the government’s response.
 - [📣 Les Mots de la Colère](./📣_les_mots_de_la_colere.md) — students’ language, testimony and political communication.
 - [🥖 La France Fait Grève. Et Alors ?](./🥖_la_france_fait_greve_et_alors.md) — protest history and democratic feedback.
-- [💰 Des Livres, Pas des Bombes](./💰_des_livres_pas_des_bombes.md) — planned analysis of budget choices and accounting.
-- [⏱️ Chronologie de la Révolte](./⏱️_chronologie_de_la_revolte.md) — planned canonical event chronology.
-- [♀️ Les Filles Aussi Sont en Colère](./♀️_les_filles_aussi_sont_en_colere.md) — planned analysis of gender and political visibility.
-- [🚨 La Police Face à la Jeunesse](./🚨_la_police_face_a_la_jeunesse.md) — planned specialist analysis of protest policing.
+- [💰 Des Livres, Pas des Bombes](./💰_des_livres_pas_des_bombes.md) — budget choices and accounting.
+- [⏱️ Chronologie de la Révolte](./⏱️_chronologie_de_la_revolte.md) — event chronology and verification boundaries.
+- [🚨 La Police Face à la Jeunesse](./🚨_la_police_face_a_la_jeunesse.md) — protest policing and accountability.
 
 ---
 
@@ -277,6 +278,8 @@ French education, lycée, Créteil, Saint-Exupéry, educational inequality, teac
 
 *🏫 L’École et les Inégalités* is a living node of the **Polaris Protocol**, within **🔥 Jeunesse en Feu**. It examines the gap between nominal educational provision and the services pupils actually receive.
 
-> 🏮 Return to [🔥 Jeunesse en Feu](./README.md).
+Return to [🔥 Jeunesse en Feu](./README.md).
 
 *Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-10-21_
