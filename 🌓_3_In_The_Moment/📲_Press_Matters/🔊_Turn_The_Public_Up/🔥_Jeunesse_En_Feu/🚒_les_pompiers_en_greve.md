@@ -1,5 +1,5 @@
 # 🚒 Les Pompiers en Grève
-**First created:** 2026-10-09 | **Last updated:** 2026-10-09  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-21  
 *The French firefighters’ strike notice, what the unions actually demanded, and the difference between a public-service warning and an interruption to public service.*
 
 ---
@@ -8,11 +8,12 @@
 
 France's firefighters were not simply added to an autumn 2026 montage of angry people. Their organisations published a national strike notice with a precise timetable and concrete demands about financing, recruitment, occupational health, careers and the changing work of emergency response. That notice is an important primary source in its own right. It is **not** evidence that every firefighter stopped working or that an emergency went unanswered.
 
-This node examines the original French language, the institutions involved, the legal and practical distinction between *préavis* and actual industrial action, and the limits of what we can establish as of **9 October 2026**. It connects to the student protests through public-service capacity and institutional feedback, without inventing a common organising movement.
+This node examines the original French language, the institutions involved, the legal and practical distinction between *préavis* and actual industrial action, and the limits of what the original research established as of **9 October 2026**, with a 21 October editorial status note. It connects to the student protests through public-service capacity and institutional feedback, without inventing a common organising movement.
 
-**Evidence method:** [S01]–[S04] refer to the source shelf below. A union's own publication is primary evidence for its demands and announcements; independent evidence is still needed for disputed operational outcomes. French excerpts are deliberately short; explanations are translations or paraphrases, not invented quotations.
+**Evidence method:** [S01]–[S04] refer to the source shelf below. The substantive 9 October research has been retained; the 21 October SOP pass does not constitute a fresh audit of negotiations, attendance or emergency-service outcomes. A union's own publication is primary evidence for its demands and announcements; independent evidence is still needed for disputed operational outcomes. French excerpts are deliberately short; explanations are translations or paraphrases, not invented quotations.
 
 ---
+
 ## 1. 🚒 France Is On Strike Again. Even the Firefighters?
 
 France is on strike again. An entirely ordinary headline, until someone notices that the people filing the paperwork are firefighters. At this point the British imagination tends to supply a fire engine parked outside a burning building, its crew earnestly explaining that they will return when the collective agreement has been renegotiated. This is an excellent joke and a terrible description of the evidence.
@@ -100,6 +101,10 @@ This creates an analytical trap: if emergency responses continue, some observers
 | **20 October** | Last day covered by the notice; union identifies budget deliberations as an important pressure point | **Future at writing**, not an achieved result [S01][S03] |
 
 This is a chronology of **documented statements, legal notice and announced plans**, not a national register of observed walkouts. The distinction should remain visible in any subsequent update. In particular, the scheduled September gatherings require independent attendance evidence before being narrated as events that definitely took place.
+
+### 📅 21 October editorial status — notice period now elapsed
+
+The notice's stated end date, **20 October 2026**, has now passed. This is a calendar update only. It does **not** establish that all announced actions occurred, that an agreement was reached, that the notice was extended, or that emergency-service capacity changed. The chronology above remains explicitly a **9 October evidence snapshot**; the open questions in sections 8 and 16 still require new primary or operational evidence before they can be closed.
 
 ## 8. 🚒 Did Fire Engines Stop Turning Up?
 
@@ -221,6 +226,29 @@ France has paperwork for the dispute, as France generally does. It has unions, l
 
 ## ✨ Stardust
 
-A strike notice is a message. A stoppage is an event. A service interruption is an outcome. A ministerial promise is not yet a repair.
+french firefighters, strike notice, public service capacity, labour rights, emergency response, civil security, occupational health, institutional feedback, service continuity, france 2026
 
-**The fire engine needs a crew.** 🚒
+---
+
+## 🏮 Footer
+
+*🚒 Les Pompiers en Grève* is a documentary and systems-analysis node of the **Polaris Protocol**, within **🔥 Jeunesse En Feu**. It distinguishes a national inter-union strike notice from actual stoppages, operational disruption and negotiated outcomes. The 21 October SOP pass preserves the original 9 October research and its evidence boundaries; it does not imply a completed follow-up investigation.
+
+> 📡 Cross-references:
+>
+> - [🤝 Syndicats et solidarités](./🤝_syndicats_et_solidarites.md) — *organisational mandates and evidence of coordination.*
+> - [💰 Des livres, pas des bombes](./💰_des_livres_pas_des_bombes.md) — *public spending commitments versus delivered capacity.*
+> - [📣 Les Mots de la Colère](./📣_les_mots_de_la_colere.md) — *how institutional complaints travel and change meaning.*
+> - [🚨 La Police Face à la Jeunesse](./🚨_la_police_face_a_la_jeunesse.md) — *a distinct emergency/public-order system and its powers.*
+>
+> 🏮 Return To:
+>
+> - [🔥 Jeunesse En Feu](./README.md) — *1up*
+> - [🔊 Turn The Public Up](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-10-21_
