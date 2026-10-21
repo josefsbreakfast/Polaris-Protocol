@@ -1,5 +1,5 @@
 # 🎬 La Haine n’a jamais disparu
-**First created:** 2026-10-09 | **Last updated:** 2026-10-09  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-21  
 *The film is thirty-one years old. Its questions about power, visibility and the right to be heard are considerably less settled.*
 
 ---
@@ -40,7 +40,7 @@ One of the film’s enduring provocations concerns the visibility of the state. 
 
 That is an interpretive reading of the film, not a claim that policing is the only state presence in disadvantaged communities. Schools, hospitals, social workers, local government and other services also exist, and their quality varies. The question is which parts of the state become most visible, to whom, and in what circumstances.
 
-Now consider the 2026 education mobilisation. Its documented demands, as assembled in the companion research, concern teaching staff, disability assistance, buildings, admissions, student welfare and representation. Some protests have also involved police deployment and allegations about police conduct. Those are important events to investigate. But an account that begins and ends with the police can make the original reason for the mobilisation vanish.
+Now consider the 2026 education mobilisation. The demands discussed in [🎓 Ce Que Réclame la Jeunesse](./🎓_ce_que_reclame_la_jeunesse.md) concern teaching staff, disability assistance, buildings, admissions, student welfare and representation. Some protests have also involved police deployment and allegations about police conduct. Those are important events to investigate. But an account that begins and ends with the police can make the original reason for the mobilisation vanish.
 
 A pupil asks where their teacher is. The state’s public-order machinery may have an answer about access to the school gates. It does not necessarily have an answer about the teacher.
 
@@ -52,7 +52,7 @@ The distinction is not that one question is illegitimate. Schools must remain sa
 
 Yet the camera’s generosity is selective, as every camera’s must be. A film makes choices about whose interior life becomes available to the audience. Journalism makes similar choices about whom to interview and which quotation to place in a headline. Institutions make choices about whose account enters an official record, and under what heading.
 
-The students of 2026 have supplied their own language. The companion node `📣_les_mots_de_la_colere.md` preserves reported placards, interviews and collective statements in French, with translations and provenance notes. That language ranges from practical complaints to jokes, declarations of rights and demands for political participation.
+The students of 2026 have supplied their own language. The existing companion node [📣 Les Mots de la Colère](./📣_les_mots_de_la_colere.md) preserves reported placards, interviews and collective statements in French, with translations and provenance notes. That language ranges from practical complaints to jokes, declarations of rights and demands for political participation.
 
 A placard about missing teachers is not a line of film dialogue. It belongs to a person or group participating in a real dispute. It must be attributed and contextualised accordingly. The joke can be funny without its speaker becoming a fictional character for the convenience of a cultural essay.
 
@@ -68,7 +68,7 @@ The deaths of teenagers Zyed Benna and Bouna Traoré in Clichy-sous-Bois precede
 
 ### 2026: pupils with a programme
 
-The September–October 2026 education mobilisation, as represented in this project’s working evidence registers, involves school conditions, student organisations, education staff, government consultation and budget proposals. It includes reported police encounters, but it is not identical to either the film’s fictional conflict or the 2005 unrest.
+The September–October 2026 education mobilisation, as discussed in the existing companion nodes and their cited source material, involves school conditions, student organisations, education staff, government consultation and budget proposals. It includes reported police encounters, but it is not identical to either the film’s fictional conflict or the 2005 unrest.
 
 | Question | 1995 | 2005 | 2026 |
 |---|---|---|---|
@@ -97,7 +97,7 @@ That focus gives the film much of its power. It also sets limits on what the fil
 
 The same discipline applies to 2026 coverage. If a newspaper photographs boys at a blockade, that does not establish that girls were absent from organising. If a union spokesperson is a man, it does not establish that the movement’s agenda is male. Equally, a single interview with a girl does not prove equal influence within a collective.
 
-For `♀️_les_filles_aussi_sont_en_colere.md`, the useful evidence will be attributed testimony, organisational roles, speeches, leaflets, photographs with reliable context and any documented differences in participation or treatment. We should ask **who organises, who is quoted, who is believed and who bears the consequences**, rather than simply count faces in a few images.
+For a future investigation of gender and political visibility, useful evidence would include attributed testimony, organisational roles, speeches, leaflets, photographs with reliable context and any documented differences in participation or treatment. We should ask **who organises, who is quoted, who is believed and who bears the consequences**, rather than simply count faces in a few images.
 
 ## 8. 🌍 Race, citizenship and the universal Republic
 
@@ -117,7 +117,7 @@ That can be useful. It can also produce a narrative shortcut: young people are a
 
 **This is a hypothesis to test, not a finding about all October 2026 coverage.** To establish it, we need a dated sample of reporting: headlines, images, who was quoted, whether educational demands were explained, whether official statements were challenged, and whether *La Haine* was actually invoked. No specific 2026 article should be accused of using the film as a frame until we have read it.
 
-The companion `📺_qui_raconte_la_revolte.md` will undertake that media comparison. Here the question is conceptual: when does cultural memory help a reader understand an event, and when does it give the reader permission to stop investigating?
+A separate media-comparison exercise would require a defined article and broadcast sample. Here the question is conceptual: when does cultural memory help a reader understand an event, and when does it give the reader permission to stop investigating?
 
 ## 10. 🧿 Recognition is not proof
 
@@ -182,34 +182,39 @@ The more uncomfortable ending is less cinematic: **the people who raised the pro
 | Gendered media attention shaped the 2026 movement | Research hypothesis | Representative sample and primary testimony |
 | The film demonstrates no institutional change since 1995 | **Not a defensible factual conclusion** | Replace with specific longitudinal indicators |
 
-**Editorial boundary:** This node is an interpretive essay with a source-acquisition register. It is not a verified scene transcript, a comprehensive sociology of the banlieues or an incident finding concerning the 2026 protests. Those are separate research tasks.
+**Editorial boundary:** This node is an interpretive essay with a transparent list of outstanding verification tasks. It is not a verified scene transcript, a comprehensive sociology of the banlieues or an incident finding concerning the 2026 protests. Those are separate research tasks.
 
-## 14. 📚 Sources and research shelf
+## 14. 📚 Sources, evidence and research boundaries
 
-The following are **authoritative starting points and relevant working references**, not a claim that every linked page was freshly retrieved and checked while drafting this file. Film scene timecodes, specific 2026 media comparisons and historical statistics must be added from consulted originals before final publication.
+The sources below are divided between **specific pages consulted for this revision** and **research routes that still require a claim-level document**. A catalogue record establishes film metadata; it does not establish a contemporary police incident. A government definition establishes the meaning of QPV; it does not describe every banlieue.
 
-- [British Film Institute: “BFI” — film catalogue and critical writing](https://www.bfi.org.uk/) — locate the film record, historical criticism and production context.
-- [Centre national du cinéma et de l’image animée: “CNC”](https://www.cnc.fr/) — French film records and cinema history.
-- [Institut national de la statistique et des études économiques: “INSEE”](https://www.insee.fr/) — definitions and geographically specified social indicators.
-- [Agence nationale de la cohésion des territoires: “ANCT”](https://anct.gouv.fr/) — priority-neighbourhood policy and relevant data.
-- [Défenseur des droits: “Official reports and decisions”](https://www.defenseurdesdroits.fr/) — rights, discrimination and policing research.
-- [Ministère de l’Éducation nationale: “Official education statistics and publications”](https://www.education.gouv.fr/) — school provision and comparative indicators.
-- [L’Union Étudiante: “10 mesures”](https://union-etudiante.fr/10mesures/) — working source for the contemporary demands; confirm exact version and date.
-- [Assemblée nationale: “Official parliamentary proceedings”](https://www.assemblee-nationale.fr/) — ministerial statements and scrutiny, with date and speaker attribution.
+### Consulted sources: film and geographical definitions
 
-For the September–October 2026 chronology and quotations, consult the project’s existing Stage One evidence audit and Stage Two verification corpus alongside the original linked publications. Those working documents are not independent confirmation of their own claims.
+- [British Film Institute: “La Haine (1995)”](https://www.bfi.org.uk/film/27a3f852-0819-5ffb-a59e-fd51e5a2bb90/la-haine) — film year, director, writer and principal performers; checked 2026-10-21.
+- [BFI / Sight and Sound: “Mathieu Kassovitz on La Haine”](https://www.bfi.org.uk/sight-and-sound/interviews/mathieu-kassovitz-la-haine-legacy) — retrospective interview with the director, character context and his account of the film's concerns; checked 2026-10-21. His recollections are an attributed account, not an independent record of every event influencing production.
+- [BFI: “Project surrealism: the urban spaces of La Haine”](https://www.bfi.org.uk/features/la-haine-project-surrealism) — critical discussion of setting, space and the narrative; checked 2026-10-21.
+- [BFI: “How La Haine redefined rebellion on screen”](https://www.bfi.org.uk/features/la-haine-redefining-rebellion) — critical retrospective and reception context; checked 2026-10-21.
+- [INSEE: “Quartiers prioritaires de la politique de la ville”](https://www.insee.fr/fr/metadonnees/definition/c2114) — formal definition and selection criteria for QPV; checked 2026-10-21.
+- [ANCT: “Quartiers prioritaires”](https://anct.gouv.fr/quartiers-prioritaires-0) — official explanation of the targeted policy geography; checked 2026-10-21.
+
+### Specific research still needed
+
+- **2005:** Recover contemporary reporting and judicial records for the deaths of Zyed Benna and Bouna Traoré and the subsequent unrest before adding a detailed legal or causal account. The present essay states the broad historical relationship, not the outcome of a particular proceeding.
+- **2026:** Use dated original student and union statements, ministry announcements and incident-specific reports. Companion Polaris nodes are navigational aids, **not independent proof** of their own claims.
+- **Film close reading:** Add timecoded scene references only after reviewing the film itself. This edition does not claim a new scene-by-scene viewing.
+- **Media framing and gender:** Establish a reproducible sample and attributable testimony before drawing quantitative conclusions.
+
+**Provenance correction (2026-10-21):** References to purported internal Stage One audits, Stage Two corpora, working evidence registers and nonexistent companion files have been removed. No claim is to be rescued by inventing a document to cite.
 
 ## 🌌 Constellations
 
-🎬 🚨 🧱 ♀️ ♻️ — cinema, social geography, institutional attention and the politics of whose experience becomes visible.
+🎬 🚨 🧱 ♻️ — cinema, social geography, institutional attention and the politics of whose experience becomes visible.
 
 - [⚖️ Histoire de la Police Française](./⚖️_histoire_de_la_police_francaise.md) — the institutional and historical context.
 - [🚨 La Police Face à la Jeunesse](./🚨_la_police_face_a_la_jeunesse.md) — policing the 2026 mobilisation and assessing incidents.
 - [📣 Les Mots de la Colère](./📣_les_mots_de_la_colere.md) — the pupils’ own language, rather than a film script.
 - [🎓 Ce Que Réclame la Jeunesse](./🎓_ce_que_reclame_la_jeunesse.md) — the demands against which responses can be tested.
 - [🏫 L’École et les Inégalités](./🏫_lecole_et_les_inegalites.md) — the material conditions of schooling.
-- [♀️ Les Filles Aussi Sont en Colère](./♀️_les_filles_aussi_sont_en_colere.md) — planned companion on gender and political visibility.
-- [📺 Qui Raconte la Révolte](./📺_qui_raconte_la_revolte.md) — planned companion on framing and attribution.
 - [🥖 La France Fait Grève. Et Alors ?](./🥖_la_france_fait_greve_et_alors.md) — historical repertoires of collective action.
 
 ## ✨ Stardust
@@ -218,4 +223,14 @@ La Haine, Mathieu Kassovitz, 1995, French cinema, banlieue, QPV, social geograph
 
 ---
 
-*Polaris Protocol — interpretive narrative draft. Survivor authorship is sovereign. The film can teach us how to look; it cannot testify to an event it never witnessed.*
+## 🏾 Footer
+
+*Polaris Protocol — interpretive cultural and institutional analysis.* The film can teach us how to look; it cannot testify to an event it never witnessed.
+
+**Cross-references:** [⏱️ Chronologie de la Révolte](./⏱️_chronologie_de_la_revolte.md) · [📣 Les Mots de la Colère](./📣_les_mots_de_la_colere.md) · [🚨 La Police Face à la Jeunesse](./🚨_la_police_face_a_la_jeunesse.md)
+
+**Return to:** [🔥 Jeunesse en Feu](./README.md)
+
+*Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-10-21_
