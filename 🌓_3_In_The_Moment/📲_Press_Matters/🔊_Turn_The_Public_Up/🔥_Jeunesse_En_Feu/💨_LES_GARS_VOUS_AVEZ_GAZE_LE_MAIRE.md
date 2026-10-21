@@ -38,7 +38,7 @@ Bagayoko is a Black **French** elected official. His authority does not depend o
 
 ---
 
-## 1A. 🏘️ The Manifesto Was About an Actual Place
+### 🏘️ The Manifesto Was About an Actual Place
 
 Bagayoko's political identity is not exhausted by *LFI*, *radical left*, or the convenient photograph of a mayor in a crowd. His long involvement in Saint-Denis matters because local political programmes are made of particulars: which schools lack staff, which estates need maintenance, what housing development means for existing residents, where municipal services meet families, and how young people experience the city. His years as a basketball coach and councillor are not proof that every policy will work; they are evidence of sustained contact with the place whose problems he proposes to address.
 
@@ -46,7 +46,7 @@ In **Angelique Chrisafis's interview of 4 April 2026**, Bagayoko connected racis
 
 A local mandate is not a universal endorsement of every mayoral decision. It is, however, a democratic fact. **If the first thing a British audience learns about the man is a label, and the last thing it learns is that he was tear-gassed, it has been denied the middle of the story.**
 
-## 1B. 🧭 Radical, Far Left, and the Work a Label Does
+### 🧭 Radical, Far Left, and the Work a Label Does
 
 The author is broadly sympathetic to Bagayoko's politics. **That is disclosed political positionality, not a finding of fact.** Other readers may reject his platform, including its proposed changes to policing. The evidence about his elected office, biography, statements and physical conduct must remain assessable independently of the author's preference.
 
@@ -56,7 +56,7 @@ In February 2026 the French Interior Ministry's electoral categorisation of LFI 
 
 Saint-Denis has a long history of communist municipal leadership; **Bagayoko's immediate predecessor, Mathieu Hanotin, was Socialist**, not communist. Neither the city's longer history nor Bagayoko's LFI membership establishes that one administration is automatically to the left or right of another on every issue. **Read the programme. Meet the place. Then have the argument.**
 
-## 1C. 🖤 He Used His Body
+### 🖤 He Used His Body
 
 The defining feature of the October footage is not simply that a mayor attended a march. Reporting describes **a Black French man physically interposing himself between young people and police officers**. He was affected by tear gas; subsequent footage described by the author shows students trying to help him. The original continuous recording and the precise sequence of assistance still need archiving. [1–5]
 
@@ -143,7 +143,7 @@ The operational question is now concrete: **why was tear gas used against an orc
 
 No, a trombone is not inherently a terrorist instrument. No, the existence of a loud brass section does not constitute a demonstrated insurgency. The joke is doing analytical work: when the state's response to music involves a chemical irritant, the burden is on the institution to explain necessity, proportionality and foreseeable consequences. We should not have to pretend the orchestra is imaginary to ask those questions.
 
-## 9A. 🧪 Less-Lethal Is Not Less-Real
+### 🧪 Less-Lethal Is Not Less-Real
 
 Tear gas is not a literary metaphor. **CS (2-chlorobenzalmalononitrile)** is a riot-control chemical irritant associated with acute eye, skin and respiratory effects. It is commonly described as *less-lethal* rather than harmless. The severity of exposure depends on concentration, duration, location, vulnerability, ventilation and access to care. A child, someone with respiratory disease, or someone unable to leave a contaminated space may face particular risks. The precise chemical used in the 6 October encounter should not be inferred solely from the phrase *gaz lacrymogène*. [26–27]
 
@@ -210,7 +210,7 @@ That is a problem for the public, including people who support conventional poli
 
 **Research design for a proper media comparison:** assemble a dated sample of French and British reports; record headline, opening paragraph, who is quoted, whether the students' demands appear, whether policing decisions are described, whether injuries to different groups are included, and whether subsequent findings are reported. Do not call that sampling completed until it has been done.
 
-## 14A. 📰 The Racism You Can Quote, and the Framing You Cannot
+### 📰 The Racism You Can Quote, and the Framing You Cannot
 
 Openly racist language is comparatively easy to identify and document. More difficult is **respectable-sounding framing** that can narrow a reader's understanding without a slur: introduce a Black elected mayor as *far left* before explaining his mandate; introduce children as *disorder* before describing their educational demands; introduce tear gas as *crowd management* without explaining the physical consequences. None of these choices alone proves discriminatory intent. Together, repeated choices may create a systematic imbalance worth measuring.
 
@@ -282,7 +282,7 @@ A Black mayor intervening between police and young demonstrators makes the distr
 
 And when the mayor intervenes, he does not cease to be an elected representative because somebody dislikes LFI. Democratic representation does not operate only for politicians whose views make the executive comfortable.
 
-## 20A. 🧠 Fanon, the Child, and the Republic's Inheritance
+### 🧠 Fanon, the Child, and the Republic's Inheritance
 
 *Britain may enjoy a brief respite from being the principal subject of the colonial post-mortem. Today, France, we are coming for you.*
 
@@ -294,7 +294,7 @@ France's relationship with racialised bodies cannot be separated from its imperi
 
 Yet Fanon gives us language for the political significance of the encounter. A Black French mayor, who has faced racist commentary, uses **his own body** not as a threat but as an attempted barrier between children and force. **The Republic has spent centuries arguing about the Black man's body. Here is a Black man exercising his own judgement about what his body is for.** The interpretive force of that image does not depend on proving that the police consciously reenacted colonial ideology.
 
-### 🧒 Erica Burman: the child is not only an object of protection
+#### 🧒 Erica Burman: the child is not only an object of protection
 
 Erica Burman's **2016** paper, *Fanon and the child: Pedagogies of subjectification and transformation*, provides a research route into childhood, subject formation and the possibility of transformation. [34] **The paper's full argument still needs close reading; the questions below are this node's application, not quotations or conclusions attributed to Burman.**
 
@@ -302,7 +302,7 @@ What changes when a pupil becomes a protester? When does an institution recognis
 
 **The Republic is having a public-order dispute with its children. The humanities would like to know whether anybody has considered listening to them.**
 
-### ⚔️ Administrative Notice: On the Matter of Frenchness
+#### ⚔️ Administrative Notice: On the Matter of Frenchness
 
 Anyone wishing to argue that Bally Bagayoko is insufficiently French on account of being Black is hereby formally prohibited from enjoying the works of **Alexandre Dumas**.
 
@@ -318,25 +318,41 @@ Appeals may be submitted to the ghost of General Dumas. The Republic cannot have
 
 **Bon courage.** ⚔️
 
-## 20B. 🕰️ Empire Is Within Living Memory — and Institutions Have Longer Memories
+### 🕰️ Empire Is Within Living Memory — and Institutions Have Longer Memories
+
+#### 🕰️ Living memory, institutional memory
 
 **Algerian independence was in 1962.** The repression of Algerian demonstrators in Paris on **17 October 1961** was not a medieval episode, nor a story safely confined to an overseas colony. People alive today lived through it; some were already adults. Political and administrative institutions have carried on through subsequent generations. The question is not whether a contemporary official has a colonial relative, but **what the institution learned, what it retained, and what it has publicly undertaken to unlearn**. [30–31]
+
+#### 🧠 What institutions teach without putting it on the syllabus
 
 An adult who was educated during the last years of French Algeria may have inherited assumptions about who belonged to the Republic, whose dissent counted as politics, and whose dissent was understood as a security problem. Younger generations can inherit those assumptions without ever being explicitly taught a defence of empire. **The end of colonial administration is not a software update that removes every colonial category from the operating system.** This is a proposition about socialisation and institutional transmission, not a diagnosis of any named official's private beliefs.
 
 The author is not offering Britain a certificate of postcolonial competence. British readers may recognise the experience of being taught a great deal about Henry VIII and the world wars, while receiving a patchier account of imperial extraction, anti-colonial resistance and the violence of empire. That is a reflection on the author's educational experience and the questions it raises, **not** a claim that every British school or today's national curriculum follows that sequence. What gets selected for teaching matters; so does the sense of what is ordinary that children acquire from what goes unmentioned.
 
+#### ♻️ Unlearning is public work
+
 **Empire and colonisation are not natural, unavoidable human habits.** They are political arrangements made and maintained through coercion, material incentives, law and violence, and through stories that teach people to consider those arrangements legitimate. Not every hierarchy is colonial; not every prejudice comes from empire. But the stories that justified colonial power can survive the formal end of colonial rule. Unlearning them takes work. People who held authority while those arrangements still existed, and people who inherited their institutions, can reasonably be asked to show that work **in public**.
+
+#### 🎓 The Republic is teaching its children
 
 This returns us to the children. They learn about the Republic from textbooks and speeches; they also learn from whether their demands are heard, what happens when they demonstrate, and what an elected mayor does when police force approaches. **The Republic is not merely responding to its children. It is teaching them what kind of Republic they live in.**
 
-## 20C. ⚖️ Whose Body Gets Protection, and Whose Gets Policed?
+### ⚖️ Whose Body Gets Protection, and Whose Gets Policed?
+
+#### 🛡️ Protection, provision, surveillance, coercion
 
 The distribution of state power is not uniform. Race and class can both affect whether people experience the state primarily as protection, provision, surveillance or coercion. Those patterns require evidence by jurisdiction, practice and population; they are not permission to presume an individual officer's motive from a photograph. Nor are poor white people and racialised communities interchangeable categories. They may experience different disadvantages, and sometimes overlapping ones.
 
+#### 🧭 Who gets to explain the grievance?
+
 One politically consequential question is how those experiences are **explained**. People who encounter neglect, humiliation or disproportionate enforcement may recognise a real problem without agreeing on its cause. Political movements then compete to translate grievance into an account of who is responsible. An egalitarian account might focus on housing, services, work, institutional accountability and unequal power. An exclusionary account might redirect anger towards migrants, Black neighbours or other minorities. Far-right support cannot be reduced to poverty, and poor white communities should not be caricatured as inevitable far-right recruits. **The political translation of grievance is contested terrain.**
 
+#### 📰 Recognition is also a framing choice
+
 The press participates in that contest when it decides who is described as dangerous, who is described as brave, whose politics are explained and whose are compressed into a label. This does not establish that an individual newsroom intended to promote an authoritarian narrative. It does mean that an editorial pattern can have consequences beyond any journalist's intention.
+
+#### 🏅 A counterfactual, not a medal nomination
 
 Consider the author's deliberately provocative counterfactual: **if a white mayor had put his body between children and police force, would the story have been narrated as civic courage, perhaps even as medal-worthy?** The *Légion d'honneur* is not being proposed as an actual award. The question asks whether the same conduct receives different moral recognition when the person acting is a Black man. To answer empirically, we would need comparable cases and a coded sample of coverage. But the question should not be made unsayable merely because it is uncomfortable.
 
@@ -390,7 +406,7 @@ The Heritage Foundation's **Project Esther** is a distinct American political do
 
 A teenager demanding a teacher has not become a terrorist because somebody has found a more frightening noun for the headline. Nor does the presence of genuine violence make every participant violent. Distinguishing these propositions is basic analytical hygiene, not indulgence.
 
-## 24A. 🧑‍✈️ Officers Are People, Not Merely Equipment
+### 🧑‍✈️ Officers Are People, Not Merely Equipment
 
 An escalation model that treats police officers as perfectly obedient mechanical outputs misses the people inside the riot gear. Officers may disagree about the proportionality of a tactic, feel distressed by confronting teenagers, or be constrained by command, peer expectations and disciplinary structures. **These are questions for evidence, not claims that a particular French unit was on the verge of refusing orders.**
 
@@ -556,9 +572,23 @@ Bally Bagayoko, colonial unlearning, institutional memory, political socialisati
 
 ## 🏮 Footer
 
-*LES GARS, VOUS AVEZ GAZÉ LE MAIRE* is a living analytical node of the **Polaris Protocol**. It combines incident-specific reporting, legal context, survivor-authored political argument, historically situated interpretation, and explicitly labelled cybernetic models. It does not substitute political interpretation for findings about individual conduct.
+*LES GARS, VOUS AVEZ GAZÉ LE MAIRE* is a living analytical node of the **Polaris Protocol**. It records the October 2026 student demonstrations and Bally Bagayoko’s reported intervention, while distinguishing incident evidence from political interpretation, historical comparison, and unresolved questions. It connects the treatment of young protesters to municipal representation, public-order policing, racialisation, and the stories institutions tell about whose protection matters.
 
-[🏮 Return to Jeunesse en Feu](./README.md)
+> 📡 Cross-references:
+>
+> - [🏛️ Le Maire Face à la Police](./🏛️_le_maire_face_a_la_police.md) — *municipal democratic authority and national police command; the institutional fault line at the centre of the incident*.
+> - [⚖️ Histoire de la Police Française](./⚖️_histoire_de_la_police_francaise.md) — *historical context for policing, colonial legacies, and the limits of claims about continuity*.
+> - [🚨 La Police Face à la Jeunesse](./🚨_la_police_face_a_la_jeunesse.md) — *force, safeguarding, escalation, and accountability when the people being policed are young*.
+> - [🎓 Ce Que Réclame la Jeunesse](./🎓_ce_que_reclame_la_jeunesse.md) — *students’ own demands, rather than a narrative built solely around the authorities’ response*.
+> - [⏱️ Chronologie de la Révolte](./⏱️_chronologie_de_la_revolte.md) — *dated incident sequence and evidence trail; keep distinct October events distinct*.
+>
+> 🏮 Return To:
+>
+> - [🔥 Jeunesse en Feu](./README.md) — *1up*
+> - [🔊 Turn the Public Up](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In the Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
