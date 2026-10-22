@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-22 06:14:45 UTC_
+_Generated on 2026-10-22 06:17:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3660,6 +3660,7 @@ _Generated on 2026-10-22 06:14:45 UTC_
         - [`💧_water_politics.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/💧_water_politics.md)
         - [`🗳️_the_history_of_banning_arab_votes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/🗳️_the_history_of_banning_arab_votes.md)
         - [`🪨_why_hamas_and_hospitals.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/🪨_why_hamas_and_hospitals.md)
+        - [`🫒_treasure_on_trees.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🍉_Current_Events/🫒_treasure_on_trees.md)
       - [**📊_Statistics/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/📊_Statistics/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/📊_Statistics/README.md)
       - [**🧵_Identity_And_Language/**](🌓_3_In_The_Moment/📲_Press_Matters/🇵🇸_Palestine_Factchecking/🧵_Identity_And_Language/)
