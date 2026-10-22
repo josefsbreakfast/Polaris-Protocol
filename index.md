@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-22 14:47:21 UTC_
+_Generated on 2026-10-22 17:27:00 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4694,6 +4694,7 @@ _Generated on 2026-10-22 14:47:21 UTC_
       - [`notes.txt`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/notes.txt)
       - [`🙄_what_if_ai_solves_the_curtis_yarvin_problem.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/🙄_what_if_ai_solves_the_curtis_yarvin_problem.md)
       - [`🚀_rocket_science_and_brain_surgery.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/🚀_rocket_science_and_brain_surgery.md)
+      - [`🛰️_guys_he_does_not_have_a_deathstar_for_votes.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/🛰️_guys_he_does_not_have_a_deathstar_for_votes.md)
       - [`🧪_daddy_hegseths_gender_affirming_care.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/🧪_daddy_hegseths_gender_affirming_care.md)
       - [`🪞_on_the_chirality_of_fentanyl.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/🪞_on_the_chirality_of_fentanyl.md)
       - [`🫂_hugging_but_make_it_a_bomb.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/🫂_hugging_but_make_it_a_bomb.md)
