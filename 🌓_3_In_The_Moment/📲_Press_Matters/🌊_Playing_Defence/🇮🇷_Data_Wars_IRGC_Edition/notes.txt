@@ -816,3 +816,158 @@ https://www.bbc.co.uk/news/articles/cmx23d0k57d3o - “UK working to identify ex
 
 comments section reads v uk public in this moment in the year of our lord 2026 tbf https://vm.tiktok.com/ZN8AqxsN4/ “BBC News •
 Multiple cyber-security agencies urged organisations unable to apply fixes in time to consider taking their sites down, leaving bodies such as the Finnish government, Edinburgh council and the BBC to take pages offline.” bbc getting in the SEO and the hashtags in that one.  
+
+20261022:  
+
+“🛰️ Iran Infrastructure Watch — 22 October 2026
+
+🚨 Three developments meet the reporting threshold. The most important is a confirmed software-supply-chain compromise on 21 October. A newly published multinational law-enforcement advisory also establishes the scale of a ransomware campaign affecting critical infrastructure.
+
+There is no new confirmed Iranian attribution. The findings concern broader infrastructure exposure and the exploitation of trusted software and administrative relationships.
+
+🔴 A. Confirmed malicious activity
+
+1. Global — LiteLLM software-supply-chain compromise
+
+Incident and disclosure: 21 October 2026
+Sector: Cloud administration, AI infrastructure and software supply chains
+Attribution: Malicious activity confirmed; attacker and sponsor unidentified.
+
+LiteLLM confirmed that attackers compromised its release pipeline and distributed malicious version 1.107.0.
+
+The compromised software contained credential-stealing malware and remote-code-execution capabilities.
+
+The exposure windows were:
+
+Distribution	Malicious release available (UTC)
+PyPI packages	11:39–13:23
+Docker images	11:46–14:20
+
+The company identified three compromised developer accounts and believes stolen authentication tokens facilitated the attack. It has withdrawn the affected releases.
+
+Operational consequences: Confirmed malicious software distribution, with potential compromise of downstream systems that installed or executed it. The number of affected organisations, countries and essential-service operators remains unknown. No interruption to a specific government or critical-infrastructure service has been established.
+
+The private enterprise release was unaffected.
+
+Competing explanations: Criminal credential theft, access brokerage and intelligence collection are possible motives. There is no demonstrated connection to Iran or the current war.
+
+Trend significance: Another confirmed example of attackers exploiting trusted software-distribution infrastructure rather than attacking every downstream organisation individually.
+
+Official LiteLLM incident report — 21 October⁠￼.  
+
+2. Multinational — SafePay ransomware campaign formally assessed
+
+New disclosure: 20 October 2026
+Campaign activity: Since August 2024
+Countries: Victims across North America, South America, Europe and Australia
+Sectors: Multiple critical-infrastructure sectors
+Attribution: SafePay criminal operation identified; state sponsorship unestablished.
+
+A joint advisory from CISA, the FBI, US Secret Service and German and British law-enforcement partners identifies at least 600 affected organisations.
+
+Investigators describe recurring methods involving compromised credentials, password attacks, VPN access and exploitation of vulnerable internet-facing systems.
+
+The campaign also attacks recovery capabilities, including deleting shadow copies and interfering with network-attached backups.
+
+Operational consequences: Confirmed ransomware activity involving data theft, encryption and disruption of recovery systems. The advisory does not establish that all 600 victims experienced essential-service outages.
+
+Competing explanations: Financially motivated cybercrime is directly supported by the observed extortion model. A state-directed component is not established.
+
+Trend significance: This is not 600 newly discovered October attacks. It is a new authoritative assessment of a longer-running campaign, strengthening evidence that ordinary administrative and recovery infrastructure remains a major route into critical services.
+
+Joint CISA/FBI SafePay advisory announcement — 20 October⁠￼.  
+
+3. UK/global — UpdraftCentral compromise, important earlier incident recovered
+
+Incident: 17–19 October
+Disclosure: 19 October; further confirmation 21 October
+Sector: Website administration, managed services and backup infrastructure.
+
+TeamUpdraft confirmed unauthorised access to its infrastructure. Attackers used compromised connection keys to issue trusted administrative commands to connected websites, creating accounts and installing malicious plugins.
+
+The company released updated software on 19 October to revoke affected connections and reported that the unauthorised access had been contained.
+
+The number of compromised websites remains uncertain. No specific essential-service disruption or Iranian involvement has been established.
+
+This incident occurred before today’s reporting window, but merits inclusion because it demonstrates the same trusted-administration risk identified in the ConnectWise investigation.
+
+TeamUpdraft incident statement, updated 21 October⁠￼.  
+
+⸻
+
+🔵 B. Non-malicious infrastructure disruption
+
+🇬🇧 🇪🇺 Google Cloud — European regulatory response expands
+
+Original outage: 20 October
+New development: 21 October
+Sectors: Banking, payments and public administration.
+
+The European Banking Authority has contacted Google to assess the implications of its London cloud outage for European financial institutions.
+
+The outage was attributed to a power event at a third-party facility.
+
+This is significant because the disruption has now triggered scrutiny under both British and European critical-third-party oversight arrangements.
+
+It remains one infrastructure failure, not a new cyberattack.
+
+Reuters — European regulators question Google, 21 October⁠￼.  
+
+⸻
+
+🟣 C. Systemic vulnerabilities and emergency responses
+
+🌍 PHP2Shell — New disclosure establishes a longer security history
+
+Vulnerabilities: CVE-2026-109618 and CVE-2026-109619
+Severity: 9.2 each
+Emergency patches: 21 October
+Countries: Global exposure; precautionary government website shutdowns reported internationally.
+
+The PHP Foundation has published a detailed account of the vulnerabilities’ discovery and remediation.
+
+Its disclosure establishes that:
+
+* The underlying out-of-memory problem was recognised during security work in 2024, although a practical exploitation route had not been demonstrated.
+* Independent researchers established serious remote-code-execution implications in August 2026.
+* Information leaked ahead of the planned disclosure, prompting an accelerated release.
+* Public proof-of-concept material circulated before patches became generally available.
+* The Foundation had not identified functional publicly circulating exploits at release time, although security companies separately reported observing attempted exploitation.
+
+Exploitation classification: Vulnerabilities confirmed; successful researcher demonstrations confirmed; attempted real-world exploitation reported. The publicly verified scale of successful malicious compromise remains unknown.
+
+Operational impact: Precautionary website shutdowns and emergency patching. These are defensive service interruptions, not evidence that every affected website was breached.
+
+The Foundation has released PHP versions 8.5.12, 8.4.27, 8.3.36 and 8.2.35. Older unsupported installations require particular attention.
+
+PHP Foundation technical and disclosure account — 21 October⁠￼.  
+
+The  UK NCSC advisory⁠￼ and  NHS England cyber alert⁠￼ independently confirm the seriousness of the vulnerabilities and the need for immediate remediation.
+
+⸻
+
+🧭 Assessment against 28 February 2026
+
+Category	New assessment	Iranian attribution
+🔴 Malicious activity	Confirmed software-supply-chain compromise; expanded official evidence of ransomware affecting critical infrastructure	None established
+🔵 Resilience failures	European regulatory scrutiny expands following a single cloud outage	No malicious cause established
+🟣 Systemic vulnerabilities	PHP2Shell disclosure confirms longstanding software weaknesses, emergency remediation and reported exploitation attempts	None established
+
+The meaningful pattern
+
+The strongest cross-incident observation is the exploitation of trusted administrative relationships.
+
+ConnectWise, UpdraftCentral and LiteLLM involve different technologies and different attack mechanisms. Nevertheless, each demonstrates how compromising credentials, software distribution or administrative authority can expose downstream organisations.
+
+SafePay reinforces the significance of credentials, remote access and recovery infrastructure.
+
+PHP2Shell adds a different mechanism: widespread exposure through a common software component, even without a compromised supplier.
+
+These findings support closer monitoring of shared digital dependencies. They do not establish coordination between the incidents.
+
+Overall trend: 🟠 Increasing evidence of systemic exposure and trusted-access compromise.
+
+Iran-specific trend: No verified change in attribution.
+
+The next material threshold would be confirmed exploitation of PHP2Shell against essential services, identification of critical-infrastructure victims affected by the LiteLLM compromise, or technical evidence connecting otherwise separate incidents to a common operator.”  
+
