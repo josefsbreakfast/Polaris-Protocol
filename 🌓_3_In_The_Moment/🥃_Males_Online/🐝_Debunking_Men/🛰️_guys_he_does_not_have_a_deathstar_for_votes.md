@@ -97,9 +97,9 @@ Those are short excerpts reported by NPR—not a complete reconstruction of the 
 
 This is an especially useful moment to resist the internet's favourite sport: finding a woman in a difficult situation and demanding that she have delivered a perfect technical cross-examination on the spot.
 
-### Mid-20s woman; substantially older, extraordinarily wealthy man
+### Mid-20s woman; substantially older, extraordinarily wealthy man. Sadly not more intelligent, interesting, or mature for it.  
 
-At the time of the 2024 conversations, St. Clair was in her **mid-20s** and Musk in his **early-to-mid-50s**. The age gap is only one part of it. Add immense wealth, specialist institutional access, influence over a large platform, technical authority, and the social dynamics of an intimate relationship.
+At the time of the 2024 conversations, St. Clair was in her **mid-20s** and Musk in his **mid-50s**. <!-- Look. He needs to hear it like that.--> The age gap is only one part of it. Add immense wealth, specialist institutional access, influence over a large platform, technical authority, and the social dynamics of an intimate relationship.
 
 People will disagree about whether relationships with such disparities are acceptable, or inherently exploitative. **A substantial structural risk of exploitation is not proof that exploitation occurred.** Two people might be fond of one another and sincerely try to manage an inequality that remains difficult to manage. The inequality does not evaporate because the intentions are good.
 
