@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-22 08:27:33 UTC_
+_Generated on 2026-10-22 09:10:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4000,6 +4000,7 @@ _Generated on 2026-10-22 08:27:33 UTC_
           - [`🪞_why_the_message_feels_detached_from_daily_life.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/✨_Orientation/🪞_why_the_message_feels_detached_from_daily_life.md)
         - [**🌀_Narrative_And_Power/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🌀_Narrative_And_Power/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🌀_Narrative_And_Power/README.md)
+          - [`♻️_recursions_of_rhetoric.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🌀_Narrative_And_Power/♻️_recursions_of_rhetoric.md)
         - [**🎯_Cases_And_Motives/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🎯_Cases_And_Motives/)
           - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🎯_Cases_And_Motives/README.md)
         - [**🎯_Targets_Methods_And_Effects/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/🎯_Targets_Methods_And_Effects/)
