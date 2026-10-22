@@ -279,7 +279,67 @@ YOU HAVE ACTUAL SPACE LASERS.
 
 **JUST MAKE THE TEA AND TALK TO THE MUSHROOM ROBOT.** 🍵🍄🌳
 
-And stop making the broadband sound like the Death Star.
+And stop making the broadband sound like the Death Star.  
+
+---
+
+## 🐈‍⬛ Post-Credits Scene — Salem Saberhagen, Patient Zero of Posting Through It
+
+There is a character in *Sabrina the Teenage Witch* called Salem Saberhagen.
+
+Salem is a former witch who attempted world domination and was consequently sentenced to spend a century as a cat.
+
+This is already an excellent premise.
+
+But what makes Salem particularly interesting, in retrospect, is that **being turned into a cat did absolutely nothing to cure him of being a man on the internet.**
+
+There is an episode in which Salem is caught pretending to be a woman in online chat rooms.
+
+Why?
+
+Attention.
+
+HE LIKES THE ATTENTION.
+
+This is a character who has already attempted world domination, been stripped of his powers, and been reduced to living in a house with three witches who regularly tell him to behave.
+
+And still.
+
+**THE MAN IS POSTING.**
+
+In the 1990s.
+
+Before Twitter. Before X. Before the modern social-media ecosystem had developed its elaborate machinery for converting attention into money, status and political influence.
+
+Salem was already there.
+
+A disgraced would-be dictator, pretending to be somebody else online, because apparently the validation of strangers remained an irresistible prospect.
+
+**SALEM SABERHAGEN. THE ORIGINAL TERMINALLY ONLINE MAN.**
+
+And perhaps this is the final distinction worth making.
+
+You can give somebody satellites. You can give them rockets. You can give them an enormous communications platform.
+
+None of those things guarantees that they will become any less interested in what strangers think of them.
+
+Nor does an appetite for attention demonstrate the ability to control the people providing it.
+
+Salem didn't need a Death Star.
+
+He needed somebody to close the laptop.
+
+**HILDA. ZELDA. YOUR CAT IS ON THE INTERNET AGAIN.**
+
+---
+
+*No cats were granted access to electoral infrastructure during the preparation of this node.*
+
+*Mosscap would like to know whether Salem needs anything.*
+
+*Salem would like more followers.*
+
+🍄🐈‍⬛
 
 ---
 
