@@ -299,7 +299,7 @@ Why?
 
 Attention.
 
-HE LIKES THE ATTENTION.
+[HE LIKES THE ATTENTION.](https://youtu.be/tt1Zc7Zi9AY?is=WPY5r0avkAO_n4Il)  
 
 This is a character who has already attempted world domination, been stripped of his powers, and been reduced to living in a house with three witches who regularly tell him to behave.
 
