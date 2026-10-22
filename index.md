@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-22 11:18:35 UTC_
+_Generated on 2026-10-22 14:47:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4371,6 +4371,7 @@ _Generated on 2026-10-22 11:18:35 UTC_
         - [`🪆_человек_который_хотел_стать_царём.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🐻_Долой_партию_жуликов_и_воров/🪆_человек_который_хотел_стать_царём.md)
       - [**🔥_Jeunesse_En_Feu/**](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/README.md)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/notes.txt)
         - [`⏱️_chronologie_de_la_revolte.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/⏱️_chronologie_de_la_revolte.md)
         - [`♻️_the_cybernetics_of_rlhf.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/♻️_the_cybernetics_of_rlhf.md)
         - [`⚖️_histoire_de_la_police_francaise.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/⚖️_histoire_de_la_police_francaise.md)
