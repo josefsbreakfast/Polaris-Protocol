@@ -1,5 +1,5 @@
 # ⏱️ Timeline Of Essential Infrastructure Attacks
-**First created:** 2026-08-01 | **Last updated:** 2026-10-15  
+**First created:** 2026-08-01 | **Last updated:** 2026-10-23  
 *A provisional open-source chronology of cyber incidents affecting essential state infrastructure during the Iran war.*
 
 ---
@@ -4649,6 +4649,300 @@ Both propositions can be true simultaneously.
 
 ---
 
+
+---
+
+## 🧩 October 16–23 addendum — Three-track classification
+
+**Editorial status:** Working integration of the supplied daily-watch notes, not an independently reverified primary-source audit. Entries below preserve the notes’ claims while marking unresolved sourcing. This addendum does not replace earlier incident rows; it records disclosures and updates separately.
+
+**🔴 A** malicious incidents · **🔵 B** non-malicious resilience failures · **🟣 C** systemic vulnerabilities and defensive responses. The category is an evidence-routing label, **not** an Iran-attribution label.
+
+**Dates:** Where the notes lack an exact detection date, the incident and publication windows are intentionally kept approximate. The current CSV/XLSX have **not** been reconciled in this pass.
+
+
+---
+
+## 2026-10-11 — Ahold Delhaize: 19 October malicious-activity confirmation
+
+**Record type:** 🔴 A — attribution / incident update  
+**Country / region:** Netherlands / Belgium / United States  
+**Sector:** Food distribution; retail logistics
+
+**What happened / operational effect:** 19 October company confirmation of malicious activity following the 11 October incident; physical shops remained open, online orders and delivery were disrupted across several brands. Restoration was phased, with Dutch home delivery expected 23 October.
+
+**Attribution, evidence and competing explanations:** Company confirmation of malicious activity; no verified public operator or Iran linkage. Criminal intrusion and defensive isolation remain competing mechanisms for the scale of downtime.
+
+**Pattern / deduplication rule:** Do not count as a second incident. Distinct from French refrigeration-controller manipulation.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 2026-10-13–15 — ConnectWise cloud administrative identities
+
+**Record type:** 🔴 A — cyber incident / 19–21 October investigation update  
+**Country / region:** United States supplier / multinational customers  
+**Sector:** Cloud backup; Microsoft 365 administration; security monitoring
+
+**What happened / operational effect:** Trusted application identities used for unauthorised sign-ins and persistence. Researcher telemetry described nearly 1,000 environments with relevant activity, over 300 successful sign-ins, and unsuccessful targeting of 16 strategic organisations. Cloud Backup, SaaS Security and Cloud Management services were suspended.
+
+**Attribution, evidence and competing explanations:** Supplier/researcher reports of malicious access; operator, ultimate customer and state sponsor unresolved. Strategic targeting does not establish successful strategic-sector intrusion.
+
+**Pattern / deduplication rule:** Differentiate observed sign-ins, actual privilege escalation, service suspension and any downstream essential-service effects.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 2026-10-15 — US bankruptcy noticing contractor disruption
+
+**Record type:** 🔴 A — incident disclosure  
+**Country / region:** United States  
+**Sector:** Federal courts; contracted judicial administration
+
+**What happened / operational effect:** Judiciary disclosed disruption of Bankruptcy Noticing Center operated by BAE Systems following a cybersecurity incident; official notices and associated online services affected.
+
+**Attribution, evidence and competing explanations:** Judicial function disruption reported; attacker and technical mechanism unknown; no basis to infer defence-programme compromise or Iranian attribution.
+
+**Pattern / deduplication rule:** Cross-jurisdictional public-service dependency on a contractor.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 2026-10-13–14 — UK Housing Ombudsman supplier incident
+
+**Record type:** 🔴 A — incident disclosure  
+**Country / region:** United Kingdom  
+**Sector:** Housing complaints; government-adjacent administration
+
+**What happened / operational effect:** External IT supplier incident disrupted case-management, complaint forms, landlord portal and web chat; potential contact-data exposure under investigation.
+
+**Attribution, evidence and competing explanations:** Service effects reported by affected body; intrusion scope and attacker unresolved.
+
+**Pattern / deduplication rule:** Access to redress can be disrupted without physical infrastructure damage.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 2026-10-17–19 — UpdraftCentral remote administration compromise
+
+**Record type:** 🔴 A — cyber incident / remediation  
+**Country / region:** United Kingdom supplier / global websites  
+**Sector:** Website administration; managed services; backups
+
+**What happened / operational effect:** Compromised connection keys reportedly enabled malicious administrative commands, account creation and plugin installation on connected sites. Connection-revoking software update issued 19 October.
+
+**Attribution, evidence and competing explanations:** Supplier account of malicious activity; affected-site and essential-service counts unknown; no Iran attribution.
+
+**Pattern / deduplication rule:** Trusted remote administration; do not infer every connected website was compromised.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 2026-10-20 — Google Cloud London power-related outage
+
+**Record type:** 🔵 B — non-malicious cascading infrastructure outage  
+**Country / region:** United Kingdom / European downstream users  
+**Sector:** Cloud; banking; payments; courts; logistics
+
+**What happened / operational effect:** Reported power event affecting London cloud availability zone; interruptions reported in banking applications, payment methods and court video hearings. Some reported telecom, NHS and logistics impacts require independent causal verification. UK and European financial oversight responses followed.
+
+**Attribution, evidence and competing explanations:** Electrical cause reported; malicious activity not established. Individual payment-provider incidents require separate causality checks.
+
+**Pattern / deduplication rule:** Not a cyberattack; shows shared cloud dependency and sectoral spillover.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 2026-10-15–21 — Cloudflare network and certificate-trust developments
+
+**Record type:** 🔵 B / 🟣 C — separate provider events  
+**Country / region:** United Kingdom / United States / global certificate ecosystem  
+**Sector:** CDN; cloud platform; PKI / certificate trust
+
+**What happened / operational effect:** 15 October London network-performance interruption and separately reported eastern-US issues; 19–21 October disclosure concerning compromised eMudhra intermediate-certificate keys. These are distinct events, not one attack.
+
+**Attribution, evidence and competing explanations:** Operational status notices and certificate advisory cited in prior watch; exploitation of certificate keys and attacker identity not established in uploaded notes.
+
+**Pattern / deduplication rule:** Do not count certificate compromise as an outage or assume shared cause with Google.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 2026-10-20–21 — Stripe, Revolut Pay and Adyen payment-service notices
+
+**Record type:** 🔵 B — payment-dependency service disruption  
+**Country / region:** United Kingdom / Europe / Brazil  
+**Sector:** Payment processing; card authentication; bank transfer; settlement
+
+**What happened / operational effect:** Reported Revolut Pay, card authorisation, 3-D Secure and PayByBank failures around 20 October. Adyen reported European maintenance and separate Brazilian Pix-refund delays 21 October. GOV.UK Pay reportedly did not see generalised payment failures.
+
+**Attribution, evidence and competing explanations:** Provider-status summaries in watch; common root cause not established for all notices. No malicious attribution.
+
+**Pattern / deduplication rule:** Distinguish method-specific failures from a nationwide payment-network collapse.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 2026-10-17–23 — PHP2Shell emergency and defensive shutdowns
+
+**Record type:** 🟣 C — systemic vulnerability / exploitation attempts / defensive effects  
+**Country / region:** Global; notably United Kingdom and Japan  
+**Sector:** PHP web servers; government; banking; transport; emergency alerts
+
+**What happened / operational effect:** Earlier watch identifies CVE-2026-109618 and CVE-2026-109619 (each reported CVSS 9.2), emergency PHP patches 21 October; AWS reportedly observed honeypot exploit attempts 17 October and further attempts 21 October. Japanese organisations reportedly suspended digital services; SoftBank emergency alerts reportedly paused 23 October.
+
+**Attribution, evidence and competing explanations:** Treat CVE identifiers, patch-version lists, claimed 70% exposure and NSA social-media screenshot as REQUIRING PRIMARY-SOURCE RECHECK. Attempted exploitation is not confirmed production compromise; precautionary shutdown is not attacker-induced compromise.
+
+**Pattern / deduplication rule:** Pre-disclosure attack window and emergency-service consequences, if independently verified; no Iran link established.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 2026-10-21–22 — GitLab self-managed critical advisory
+
+**Record type:** 🟣 C — vendor patch / CERT advisory  
+**Country / region:** Global / European institutional exposure  
+**Sector:** Source control; CI/CD; software deployment
+
+**What happened / operational effect:** Prior watch reports CVE-2026-110264, CVSS 10.0, GitLab patches and CERT-EU advisory on 22 October; no production exploitation established in uploaded account.
+
+**Attribution, evidence and competing explanations:** Identifier, affected versions and advisory reference require primary-source verification before being marked confirmed.
+
+**Pattern / deduplication rule:** Potential shared deployment credentials; not a confirmed attack.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 2026-10-21 — LiteLLM package release compromise
+
+**Record type:** 🔴 A — malicious software distribution  
+**Country / region:** Global (supplier and customer geography not fully established)  
+**Sector:** AI gateway; software distribution; cloud secrets
+
+**What happened / operational effect:** Prior watch reports malicious LiteLLM version 1.107.0 distributed via PyPI and Docker during short UTC windows on 21 October; credential theft and code-execution payload described; downstream essential-service victims not established.
+
+**Attribution, evidence and competing explanations:** Supplier disclosure reported in notes; malicious distribution reported, but no Iran link and no quantified downstream compromise.
+
+**Pattern / deduplication rule:** Release-pipeline trust compromise; do not equate downloads with successful intrusion.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 2026-10-20 — SafePay joint campaign advisory
+
+**Record type:** 🔴 A — retrospective campaign / enforcement advisory  
+**Country / region:** Multinational  
+**Sector:** Critical-infrastructure IT; VPN; backup and recovery
+
+**What happened / operational effect:** Prior watch describes joint law-enforcement advisory assessing at least 600 SafePay victims since 2024 and recurring credential, VPN, ransomware and backup-targeting methods.
+
+**Attribution, evidence and competing explanations:** Campaign attribution to criminal ransomware group in report; state direction not established. The victim count is historical, not 600 new October incidents.
+
+**Pattern / deduplication rule:** Recurring recovery-infrastructure targeting, not evidence of Iranian commissioning.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 2026-10-19–22 — GMO Onamae.com Desktop Cloud intrusion
+
+**Record type:** 🔴 A — malicious hosting compromise / 22 October impact update  
+**Country / region:** Japan  
+**Sector:** Cloud hosting; financial trading applications
+
+**What happened / operational effect:** Provider reportedly suspended service plans affecting up to 26,739 servers after malware was found on some customer servers; customers reported unauthorised trading-account activity.
+
+**Attribution, evidence and competing explanations:** Provider reports and customer complaints; confirmed compromise count, actual trading losses and operator unresolved. Potentially affected server count is not a confirmed compromise count.
+
+**Pattern / deduplication rule:** Shared-hosting compromise with possible financial spillover; no Iranian connection.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 2026-10-14–15 — French refrigeration controller scale update
+
+**Record type:** 🔴 A — incident impact update  
+**Country / region:** France  
+**Sector:** Food cold chain; industrial refrigeration / OT
+
+**What happened / operational effect:** French authorities and reporting in the notes place impacts at approximately 700 supermarkets; compromised controllers and manipulated defrost cycles reportedly caused spoilage, temperature excursions and some fires.
+
+**Attribution, evidence and competing explanations:** Attribution open; physical effects require site-specific evidence. Do not merge with Dutch retail IT outage.
+
+**Pattern / deduplication rule:** Distributed cyber-to-physical harm across many commercial premises.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 2026-10-13–15 — CenterPoint Energy breach exposure update
+
+**Record type:** 🔴 A — retrospective data-scope update  
+**Country / region:** United States — Texas  
+**Sector:** Energy utility; customer information
+
+**What happened / operational effect:** Regulatory disclosure reportedly identified 1,062,060 affected residents following a September customer-data breach.
+
+**Attribution, evidence and competing explanations:** Customer data exposure distinct from electricity/gas operational disruption; no delivery outage or Iran link established.
+
+**Pattern / deduplication rule:** Earlier attack, new October disclosure; do not add to new-incident tally.
+
+**Iran attribution:** ⚪ Open / none newly established by the supplied reporting.  
+**Source provenance:** Daily watch notes supplied 16–23 October 2026; primary-source links and confidence to be checked during sourcing pass.
+
+
+---
+
+## 🧭 October cross-cluster synthesis — provisional
+
+- **🔴 Malicious activity:** Shared administrative authority, hosted workloads and software-distribution channels recur as mechanisms; no evidence establishes a single operator or Iranian campaign across these October cases.
+- **🔵 Resilience:** A cloud power event and payment-provider notices reveal dependencies, but temporal proximity does not establish common cause.
+- **🟣 Exposure:** Emergency PHP remediation may disrupt essential services without a successful intrusion; exploit attempts, confirmed compromise and protective shutdowns require distinct counts.
+- **Baseline comparison:** Since 28 February, the monitored perimeter has expanded beyond conventional utilities to courts, payment rails, retail cold chains, disaster warnings, software supply and identity/backup infrastructure. This is an expansion in **observed categories**, not proof that all attack rates increased.
+- **Verification queue:** Obtain dated official sources for the PHP CVEs/versions and alleged NSA warning, Japanese emergency-alert shutdowns, GitLab CVE, LiteLLM release compromise, SafePay advisory and cloud/payment provider incident reports. Do not promote unverified prior-watch summaries to independently confirmed findings.
+
+---
+
 ## 🌌 Constellations
 
 ⏱️ 🕸️ 🚰 🧬 🤖 — chronology; attribution; operational technology; overlapping threat ecosystems; AI-assisted capability diffusion.
@@ -4687,4 +4981,4 @@ It provides the chronological evidentiary spine for the *🇮🇷 Data Wars: IRG
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-15_
+_Last updated: 2026-10-23_
