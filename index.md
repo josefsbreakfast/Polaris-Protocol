@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-23 17:15:10 UTC_
+_Generated on 2026-10-23 17:42:04 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4701,6 +4701,7 @@ _Generated on 2026-10-23 17:15:10 UTC_
       - [`🛰️_guys_he_does_not_have_a_deathstar_for_votes.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/🛰️_guys_he_does_not_have_a_deathstar_for_votes.md)
       - [`🤖_could_always_be_worse.PNG`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/🤖_could_always_be_worse.PNG)
       - [`🧪_daddy_hegseths_gender_affirming_care.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/🧪_daddy_hegseths_gender_affirming_care.md)
+      - [`🩺_daddy_hegseths_gender_affirming_care.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/🩺_daddy_hegseths_gender_affirming_care.md)
       - [`🪞_on_the_chirality_of_fentanyl.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/🪞_on_the_chirality_of_fentanyl.md)
       - [`🫂_hugging_but_make_it_a_bomb.md`](🌓_3_In_The_Moment/🥃_Males_Online/🐝_Debunking_Men/🫂_hugging_but_make_it_a_bomb.md)
     - [`README.md`](🌓_3_In_The_Moment/🥃_Males_Online/README.md)
