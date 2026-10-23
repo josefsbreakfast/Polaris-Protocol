@@ -1,5 +1,5 @@
 # 🛰️ Guys, He Does Not Have a Death Star for Votes
-**First created:** 2026-10-22 | **Last updated:** 2026-10-22  
+**First created:** 2026-10-22 | **Last updated:** 2026-10-23  
 *Mel Brooks, Miyazaki, mushroom robots, actual orbital telecommunications, and why a billionaire's impressive infrastructure is not a magical ballot-box override.*
 
 ---
@@ -365,7 +365,11 @@ The documentary account is attributed to reporting; this author has not independ
 ---
 
 ## 🌌 Constellations
-🛰️ 🦚 🍄 🌳 🧿 — technological mythology → gendered authority → optical communications → infrastructural power → democratic resilience.
+🛰️ 🦚 🍄 🌳 🧿 — technological mythology → gendered authority → optical communications → infrastructural power → democratic resilience.  
+
+*Follow the evidence:*  
+
+- [📰: BBC News: “It's a 'shroom boom! Seven amazing mushrooms to spot this autumn”](https://www.bbc.co.uk/newsround/articles/c317keeq5dglo) – *reranked onto front page today; quality mushroom lore*  
 
 ---
 
@@ -387,4 +391,4 @@ Elon Musk, Ashley St. Clair, Alex Gibney, Musk documentary, Starlink, optical in
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-22_
+_Last updated: 2026-10-23_
