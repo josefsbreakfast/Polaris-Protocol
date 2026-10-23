@@ -1,5 +1,5 @@
 # 🧪 Daddy Hegseth’s Gender-Affirming Care
-**First created:** 2026-10-09 | **Last updated:** 2026-10-11  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-23  
 *In which the gentlemen discover that hormones are healthcare, the hypothalamus is not in the chain of command, and a prescription is not a logistics plan.*
 
 ---
@@ -606,4 +606,24 @@ testosterone, hypogonadism, gender-affirming care, cisgender, transgender, SRY, 
 
 ---
 
+---
+
+## 🏮 Footer
+
+*🩺 Daddy Hegseth’s Gender-Affirming Care* is a living node of the **Polaris Protocol**, situated within **🐝 Debunking Men**. Tests testosterone policy rhetoric against endocrine physiology, clinical evidence and military medicine.
+
+> 📡 Cross-references:
+>
+> - [🪞 On the Chirality of Fentanyl](./🪞_on_the_chirality_of_fentanyl.md) — *companion analysis within this cluster*
+> - [🫂 Hugging, But Make It A Bomb](./🫂_hugging_but_make_it_a_bomb.md) — *companion analysis within this cluster*
+>
+> 🏮 Return To:
+>
+> - [🐝 Debunking Men](./README.md) — *immediate parent*
+> - [🥃 Males Online](../README.md) — *parent cluster*
+> - [🌓 In The Moment](../../README.md) — *higher cluster*
+> - [🌌 Polaris Protocol — Root](../../../README.md) — *archive root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-10-23_
