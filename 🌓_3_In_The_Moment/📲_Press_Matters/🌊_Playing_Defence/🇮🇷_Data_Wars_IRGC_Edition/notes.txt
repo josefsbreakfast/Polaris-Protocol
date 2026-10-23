@@ -971,3 +971,173 @@ Iran-specific trend: No verified change in attribution.
 
 The next material threshold would be confirmed exploitation of PHP2Shell against essential services, identification of critical-infrastructure victims affected by the LiteLLM compromise, or technical evidence connecting otherwise separate incidents to a common operator.”  
 
+20261023:  
+
+“🛰️ Iran Infrastructure Watch — 23 October 2026
+
+🚨 Three developments meet the reporting threshold. The most consequential is the expansion of the PHP2Shell emergency into Japanese banking, transport and disaster-warning services. Separately, a Japanese cloud-provider intrusion now has reported financial-account consequences, and European authorities have issued a new critical software warning.
+
+Iranian attribution: No new confirmed connection.
+
+⸻
+
+🔴 A. Malicious cyber incidents
+
+🇯🇵 Japan — Cloud compromise reaches financial trading accounts
+
+Incident discovered: 19–20 October
+Initial disclosure: 21 October
+Material update: 22 October
+Sectors: Cloud hosting, financial trading infrastructure.
+
+GMO Internet has issued a second incident report concerning its Onamae.com Desktop Cloud service.
+
+Attackers installed malware on some customer servers. The provider subsequently suspended all service plans, potentially affecting 26,739 servers.
+
+The important new development is that customers have reported unauthorised activity involving financial trading accounts.
+
+GMO says credentials stored in trading applications, including MetaTrader 4 and 5, may have been accessed and misused.
+
+Evidence assessment:
+
+* Malicious server compromise: confirmed.
+* Customer reports of unauthorised trading activity: confirmed as received by GMO.
+* Number of successfully compromised servers: unknown.
+* Financial losses: not quantified.
+* Attacker identity: unknown.
+* Iranian connection: none established.
+
+The provider’s 22 October statement confirms that its investigation is continuing and service restoration remains unscheduled.  
+
+GMO Internet — Second incident report, 22 October⁠￼
+
+Trend significance: This strengthens the evidence of downstream financial consequences from compromises of shared hosting infrastructure.
+
+⸻
+
+🔵 B. Non-malicious infrastructure failures
+
+No independently verified new major non-malicious cascading outage meets today’s notification threshold.
+
+The 20 October Google Cloud failure remains in the resilience baseline, but should not be counted again.
+
+The PHP-related shutdowns below belong in Category C because they are precautionary responses to a cybersecurity vulnerability, not independent infrastructure failures.
+
+⸻
+
+🟣 C. Systemic vulnerabilities and emergency disruption
+
+🌏 1. PHP2Shell — Japan’s emergency-warning infrastructure affected
+
+Original vulnerability disclosure: 21 October
+New operational consequences: 22–23 October
+Countries: Japan, with related defensive shutdowns internationally.
+
+This is a substantial development.
+
+Reuters reports that Japanese organisations have temporarily suspended services across banking, rail transport, aviation and government administration while addressing the PHP vulnerabilities.
+
+Most importantly, SoftBank announced on 23 October that it was suspending its mobile emergency-alert service during remediation.
+
+Affected warning functions include earthquake, tsunami, disaster and evacuation notifications.
+
+Other reported precautions include:
+
+Organisation or sector	Operational consequence
+SoftBank	Mobile emergency-alert suspension
+East Japan Railway	Some digital services suspended; partial restoration
+Mitsubishi UFJ Financial Group	Some online services temporarily suspended
+Nomura	Some internet services temporarily suspended
+ANA	Some online services temporarily suspended
+Japanese Ministry of Finance	Online-service disruption
+National Tax Agency	Online-service disruption
+Meteorological Agency	Online-service disruption
+
+These are reported defensive shutdowns, not evidence that the organisations were successfully compromised.
+
+Japan also announced a new initiative to simulate cyberattacks using AI to identify weaknesses in its systems.  
+
+Reuters — Japan responds to PHP vulnerabilities, 23 October⁠￼
+
+🕸️ 2. PHP2Shell — Exploitation attempts began before public disclosure
+
+A particularly important retrospective finding comes from Amazon Web Services.
+
+Its threat-intelligence team identified an attempted PHP2Shell exploit in honeypot telemetry dated 17 October 2026.
+
+That predates the coordinated public disclosure by four days.
+
+Amazon subsequently observed additional exploitation attempts on 21 October, originating from multiple anonymised infrastructures.
+
+Classification:
+
+Evidence	Status
+Vulnerabilities exist	Confirmed
+Remote-code-execution capability	Confirmed
+Attempted exploitation on 17 October	Confirmed by Amazon telemetry
+Additional exploitation attempts	Confirmed
+Multiple actors potentially involved	Supported by differing observed activity
+Successful compromise of production systems	Not established by this evidence
+Iranian involvement	Not established
+
+Amazon reports widespread exploitation activity, but its honeypot observations do not establish how many real-world systems were successfully compromised.
+
+This changes the investigation window: defenders cannot assume that attacks began when patches became available.
+
+AWS threat-intelligence findings — 21 October⁠￼
+
+🏛️ 3. GitLab — New critical vulnerability receives European warning
+
+Vendor disclosure: 21 October
+CERT-EU advisory: 22 October
+Vulnerability: CVE-2026-110264
+Severity: CVSS 10.0
+Affected infrastructure: Self-managed software-development and deployment platforms.
+
+GitLab has patched a critical integer-overflow vulnerability that could permit unauthenticated remote-code execution under certain conditions.
+
+The issue affects multiple historical GitLab Community and Enterprise Edition releases.
+
+Patched versions include:
+
+18.11.13, 19.0.10, 19.1.9, 19.2.9, 19.3.6, 19.4.3 and 19.5.1.
+
+GitLab-managed infrastructure is already patched.
+
+The European Union’s computer emergency response team published an advisory on 22 October recommending urgent remediation, particularly for internet-facing systems.
+
+Exploitation status: No confirmed successful exploitation identified in the reviewed evidence.
+
+Why it matters: GitLab servers can hold source code, deployment credentials and CI/CD configuration. Their compromise can potentially provide access to downstream software-development and deployment environments.
+
+This is a newly disclosed vulnerability, not a confirmed infrastructure attack.  
+
+CERT-EU Advisory 2026-019 — 22 October⁠￼
+
+⸻
+
+📊 Trend assessment since 28 February 2026
+
+Category	Today’s change	Confidence
+🔴 Malicious incidents	Japanese hosting compromise now associated with reported unauthorised financial-account activity	High for intrusion; financial scope unresolved
+🔵 Non-malicious outages	No qualifying new independent incident	—
+🟣 Systemic vulnerabilities	PHP2Shell produces documented disruption to disaster-warning and other essential digital services	High
+🟣 Exploitation	Amazon establishes attempted PHP2Shell exploitation before public disclosure	High
+🟣 Software supply chains	New critical GitLab vulnerability creates potential exposure across development infrastructure	High for vulnerability; exploitation unconfirmed
+🇮🇷 Iranian attribution	No verified new connection	No change
+
+🧭 Overall assessment
+
+The most significant change is the confirmed disruption of Japanese disaster-warning services during PHP remediation.
+
+That demonstrates a consequence different from ordinary website downtime: defensive action against a shared software vulnerability can temporarily reduce the availability of systems used for public safety.
+
+The second important development is the retrospective identification of PHP2Shell exploitation attempts beginning on 17 October. This establishes that the exposure window predates public disclosure.
+
+The Japanese hosting compromise is a separate malicious incident with emerging financial consequences. It should not be merged with PHP2Shell or the earlier Google Cloud outage.
+
+Current trend: 🟠 Growing evidence of systemic software exposure and cascading operational consequences.
+
+Iran-specific assessment: No new verified attribution or demonstrated coordination between these incidents.
+
+The next significant thresholds are confirmed PHP2Shell compromises of essential-service operators, evidence establishing the scale of financial losses from the Japanese hosting intrusion, or verified exploitation of the GitLab vulnerability.”
