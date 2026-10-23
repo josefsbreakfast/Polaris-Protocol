@@ -378,16 +378,23 @@ Elon Musk, Ashley St. Clair, Alex Gibney, Musk documentary, Starlink, optical in
 
 ---
 
+---
+
 ## 🏮 Footer
 
-*🛰️ Guys, He Does Not Have a Death Star for Votes* is a living node of the **Polaris Protocol**. It translates technical capabilities into publicly testable questions while protecting the distinction between witness accounts, interpretations, allegations and established facts.
+*🛰️ Guys, He Does Not Have a Death Star for Votes* is a living node of the **Polaris Protocol**, situated within **🐝 Debunking Men**. Distinguishes space communications capability from unsupported claims about electoral control.
 
+> 📡 Cross-references:
+>
+> - [🙄 What If AI Solves the Curtis Yarvin Problem?](./🙄_what_if_ai_solves_the_curtis_yarvin_problem.md) — *companion analysis within this cluster*
+> - [🚀 Rocket Science and Brain Surgery](./🚀_rocket_science_and_brain_surgery.md) — *companion analysis within this cluster*
+>
 > 🏮 Return To:
 >
 > - [🐝 Debunking Men](./README.md) — *immediate parent*
 > - [🥃 Males Online](../README.md) — *parent cluster*
-> - [🌓 In The Moment](../../../README.md) — *higher cluster*
-> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+> - [🌓 In The Moment](../../README.md) — *higher cluster*
+> - [🌌 Polaris Protocol — Root](../../../README.md) — *archive root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 

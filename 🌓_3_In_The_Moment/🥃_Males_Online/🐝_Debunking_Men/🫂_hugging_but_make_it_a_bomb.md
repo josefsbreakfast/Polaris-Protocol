@@ -1,7 +1,7 @@
 <!-- just one bioscience degree. as a veto. -->
 
 # 🫂 Hugging, But Make It A Bomb  
-**First created:** 2026-10-09 | **Last updated:** 2026-10-14  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-23  
 *All I’m hearing is, “please audit our financials”.*
 
 ---
@@ -682,23 +682,24 @@ oxytocin, ADME, bioavailability, peptide hormone, GPCR, OXTR, blood-brain barrie
 
 ---
 
+---
+
 ## 🏮 Footer
 
-*🫂 Hugging, But Make It A Bomb* is a living analytical and satirical node of the **Polaris Protocol**. It tests a speculative biological intervention against actual physiology, human outcomes and the standards of accountability expected of consequential technology.
+*🫂 Hugging, But Make It A Bomb* is a living node of the **Polaris Protocol**, situated within **🐝 Debunking Men**. Examines oxytocin, consent, relationship outcomes and defence procurement through a physiological and ethical audit.
 
 > 📡 Cross-references:
 >
-> - [🕹️ Getting the Tech Bros Back on Script](../../📲_Press_Matters/🔊_Turn_The_Public_Up/🍿_Historical_Democratic_Actions/👾_Debugging_The_Men/🦾_Future_MDT_Working/🕹️_getting_the_tech_bros_back_on_script.md) – *homework, because y’all are making us look weird. again.*
-> - [🐳 See: Our New Deterrence Capability!](../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🐳_see_our_new_deterrence_capability.md) – *please do not test how serious we are*
-> - [🦑 The Mannobjectifier™️](../../../🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🧿_Surveillance_And_Observability/🦑_The_Mannobjectifier/README.md) – *clearly this either wasn’t enough, or the defence tech lads were a little too into it; unclear*  
+> - [🪞 On the Chirality of Fentanyl](./🪞_on_the_chirality_of_fentanyl.md) — *companion analysis within this cluster*
+> - [🩺 Daddy Hegseth’s Gender-Affirming Care](./🩺_daddy_hegseths_gender_affirming_care.md) — *companion analysis within this cluster*
 >
 > 🏮 Return To:
 >
-> - [🐝 Debunking Men](./README.md) — *immediate parent*.
-> - [🥃 Males Online](../README.md) — *parent cluster*.
-> - [🌓 In The Moment](../../README.md) — *higher cluster*.
-> - [🌌 Polaris Protocol — Root](../../../../README.md) — *archive root*.
+> - [🐝 Debunking Men](./README.md) — *immediate parent*
+> - [🥃 Males Online](../README.md) — *parent cluster*
+> - [🌓 In The Moment](../../README.md) — *higher cluster*
+> - [🌌 Polaris Protocol — Root](../../../README.md) — *archive root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-14_
+_Last updated: 2026-10-23_

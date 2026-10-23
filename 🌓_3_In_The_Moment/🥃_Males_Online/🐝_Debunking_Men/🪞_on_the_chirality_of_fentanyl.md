@@ -718,8 +718,7 @@ These links support the identified factual strands; the domestic Nerf dialogue, 
 
 **Further sourcing before publication:** original full CNBC segment and exact air date; named Victorian examination illustration; a dedicated source trail for the Cornell/oxytocin discussion; authoritative clinical references for opioid pharmacodynamics, toxicity and medication interactions; current consolidated UK drug classification; and primary Nebraska execution records. These gaps are not to be filled by confident invention.
 
-## 🕸️ Constellations
-
+## 🌌 Constellations
 - 🫂 *Hugging, But Make It A Bomb* — sibling discussion of oxytocin and the mistaken jump from neurochemistry to social compliance. [Local project companion](./hugging_but_make_it_a_bomb.md).
 - 🕹️ *Getting the Tech Bros Back on Script* — interdisciplinary literacy and the discipline of asking better questions. [Local project companion](./getting_the_tech_bros_back_on_script.md).
 - 🪿 *Embodied Information Ecology* — the body and its contexts are part of the information system, not incidental noise.
@@ -729,8 +728,34 @@ These links support the identified factual strands; the domestic Nerf dialogue, 
 
 - [📹: Yes, Minister, via YouTube: “The Treasury doesn't believe in giving money back!”, from *The Smoke Screen*](https://youtu.be/GX9X_Bk3N98?is=tLCp4s0rD2I0f2ka) – *yes yes yes you want to be taxed, we heard you; the Chancellor needs to feel we can tax the monarchy and the matter is a tender point of the islands*  
 
+## 🌌 Constellations
+
+🧪 🧿 🐝 🏮 — scientific method → public accountability → survivor-authored critique.
+
+---
+
 ## ✨ Stardust
 
 deterrence theory · SSBNs · magic beans · NHS procurement · lipid partitioning · foam darts · fentanyl · achirality · stereoisomerism · 2026 Nobel Prize in Chemistry · asymmetric synthesis · opioid receptors · ADME · norfentanyl · anaesthesia · pain · disability · menstrual pain · medical consent · Alex Karp · Moscow theatre siege · Leonardo da Vinci · bovine placenta · women's health · Brexit · Horizon Europe · COVID · pharmaceutical licensing · regulatory interoperability · AI governance · Nerf warfare · couch forts · cleaning liability · embodied information ecology
 
+---
+
+## 🏮 Footer
+
+*🪞 On the Chirality of Fentanyl* is a living node of the **Polaris Protocol**, situated within **🐝 Debunking Men**. Connects pharmacology, consent, Renaissance anatomy and public procurement to the limits of technological bravado.
+
+> 📡 Cross-references:
+>
+> - [🫂 Hugging, But Make It A Bomb](./🫂_hugging_but_make_it_a_bomb.md) — *companion analysis within this cluster*
+> - [🩺 Daddy Hegseth’s Gender-Affirming Care](./🩺_daddy_hegseths_gender_affirming_care.md) — *companion analysis within this cluster*
+>
+> 🏮 Return To:
+>
+> - [🐝 Debunking Men](./README.md) — *immediate parent*
+> - [🥃 Males Online](../README.md) — *parent cluster*
+> - [🌓 In The Moment](../../README.md) — *higher cluster*
+> - [🌌 Polaris Protocol — Root](../../../README.md) — *archive root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
+
+_Last updated: 2026-10-23_

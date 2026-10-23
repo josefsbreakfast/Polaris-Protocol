@@ -1,5 +1,5 @@
 # 🙄 What If AI Solves the Curtis Yarvin Problem?
-**First created:** 2026-10-11 | **Last updated:** 2026-10-11  
+**First created:** 2026-10-11 | **Last updated:** 2026-10-23  
 *Quantum gravity, the Dark Enlightenment, the difference between intelligence and intellectual peacocking, and the apparently radical suggestion that men explain themselves.*
 
 ---
@@ -660,16 +660,24 @@ The analytical questions remain legitimate even where an individual empirical cl
 
 curtis yarvin, dark enlightenment, quantum gravity, artificial intelligence, mark fisher, nick land, ccru, cybernetics, embodied cognition, scientific method, jewish question, antisemitism, intellectual authority, pickup artistry, gamerGate, jane austen, mr darcy, leonardo da vinci, feedback loops, ai guardrails, pronatalism, peer review, explain it like i'm five
 
+---
+
 ## 🏮 Footer
 
-*What If AI Solves the Curtis Yarvin Problem?* is a living analysis and satire node of the **Polaris Protocol**. It tests the relationship between expertise, social power, machine intelligence and corrective feedback while preserving the author's right to ask inconvenient questions.
+*🙄 What If AI Solves the Curtis Yarvin Problem?* is a living node of the **Polaris Protocol**, situated within **🐝 Debunking Men**. Examines AI mathematics, intellectual authority, antisemitism and the need for accountable corrective feedback.
 
+> 📡 Cross-references:
+>
+> - [🚀 Rocket Science and Brain Surgery](./🚀_rocket_science_and_brain_surgery.md) — *companion analysis within this cluster*
+> - [🛰️ Guys, He Does Not Have a Death Star for Votes](./🛰️_guys_he_does_not_have_a_deathstar_for_votes.md) — *companion analysis within this cluster*
+>
 > 🏮 Return To:
 >
-> - [🐝 Debunking Men](./README.md) — *immediate cluster*
+> - [🐝 Debunking Men](./README.md) — *immediate parent*
 > - [🥃 Males Online](../README.md) — *parent cluster*
-> - [🌓 In The Moment](../../../README.md) — *broader archive*
+> - [🌓 In The Moment](../../README.md) — *higher cluster*
+> - [🌌 Polaris Protocol — Root](../../../README.md) — *archive root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-11_
+_Last updated: 2026-10-23_

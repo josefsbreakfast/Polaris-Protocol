@@ -1,5 +1,5 @@
 # 🐝 Debunking Men
-**First created:** 2026-10-09 | **Last updated:** 2026-10-09  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-23  
 *An evidence-led examination of confidently delivered claims that have encountered the unfortunate obstacle of reality.*
 
 ---
@@ -137,4 +137,4 @@ The purpose is not to manufacture disagreement but to preserve the distinction b
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-09_
+_Last updated: 2026-10-23_

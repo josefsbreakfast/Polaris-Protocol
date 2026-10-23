@@ -1,5 +1,5 @@
 # 🚀 Rocket Science and Brain Surgery
-**First created:** 2026-10-09 | **Last updated:** 2026-10-11  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-23  
 *Neural networks, living tissue, embodied agency, two D&D monsters, and a polite request for some fucking communications discipline.*
 
 ---
@@ -724,11 +724,24 @@ artificial intelligence, large language models, artificial neural networks, Elon
 
 ---
 
+---
+
 ## 🏮 Footer
 
-This node is a survivor-authored scientific and rhetorical analysis. Fictional dialogue is satire; mechanisms and empirical claims are to be assessed against their cited evidence. Its working principle is **respect the differences**: neither biological systems nor computational systems benefit from being described as something they are not.
+*🚀 Rocket Science and Brain Surgery* is a living node of the **Polaris Protocol**, situated within **🐝 Debunking Men**. Distinguishes computational neural networks from biological nervous systems and tests claims of expertise against mechanisms.
+
+> 📡 Cross-references:
+>
+> - [🙄 What If AI Solves the Curtis Yarvin Problem?](./🙄_what_if_ai_solves_the_curtis_yarvin_problem.md) — *companion analysis within this cluster*
+> - [🫂 Hugging, But Make It A Bomb](./🫂_hugging_but_make_it_a_bomb.md) — *companion analysis within this cluster*
+>
+> 🏮 Return To:
+>
+> - [🐝 Debunking Men](./README.md) — *immediate parent*
+> - [🥃 Males Online](../README.md) — *parent cluster*
+> - [🌓 In The Moment](../../README.md) — *higher cluster*
+> - [🌌 Polaris Protocol — Root](../../../README.md) — *archive root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-11_
-
+_Last updated: 2026-10-23_
