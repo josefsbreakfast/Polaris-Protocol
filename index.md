@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-23 17:43:17 UTC_
+_Generated on 2026-10-23 19:26:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2650,6 +2650,7 @@ _Generated on 2026-10-23 17:43:17 UTC_
         - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🫖_Very_British_Fascisms/notes.txt)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/notes.txt)
+      - [`🌲_baiting_metsänviha.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🌲_baiting_metsänviha.md)
       - [`📺_firing_squad_ppv.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📺_firing_squad_ppv.md)
       - [`🤖_the_great_plausible_deniability_machine.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🤖_the_great_plausible_deniability_machine.md)
       - [`🧵_bayeux_redux.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🧵_bayeux_redux.md)
