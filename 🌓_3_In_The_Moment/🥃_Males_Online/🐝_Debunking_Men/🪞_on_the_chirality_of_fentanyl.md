@@ -1,12 +1,29 @@
 # 🪞 On the Chirality of Fentanyl
-**First created:** 2026-10-09 | **Last updated:** 2026-10-11  
-*An unnecessarily large pharmacology lesson disguised as a dispute about piss drones, Renaissance men, international scientific governance and the rules of domestic Nerf warfare.*  
+**First created:** 2026-10-09 | **Last updated:** 2026-10-23  
+*An increasingly exasperated feasibility study of a hypothetical fentanyl-piss drone, involving organic chemistry, the woman’s arse, the missing procurement cow, Renaissance anatomy, nuclear deterrence and standing Nerf infrastructure.*  
 
 *Tl;dr: the CIA connection was not my first concern; my first concern is that patients and healthcare professionals should be able to provide real direction to their health service, far more than every bloody contractor who comes in for a bite of the contingency we may have, were every one of the politicians who touches the project not out to sell the entire country’s health infrastructure, for whatever their own personal version of magic beans would be.*  
 
 ---
 
 ## 🛰️ Orientation
+
+**YOU WANTED ECCENTRICITY AND RANGE? WE PROVIDED BOTH.**
+
+Silicon Valley has brought us its Renaissance man. How lovely. I have responded with organic chemistry, manufacturing quality assurance, supply-chain questions, receptor pharmacology, ADME, medical rescue, procurement, Renaissance reproductive anatomy, international pharmaceutical regulation, and a pre-existing domestic Nerf doctrine. The range, incidentally, is also the range of the foam darts.
+
+I did not enter a polymath competition. I wanted to know **how the fuck the fentanyl piss is supposed to happen, and what, precisely, it is supposed to deter me from doing**. This turns out to be a question with quite a lot of prerequisites. The gentlemen have been invited to attend all of them.
+
+> 🇺🇸 “We brought you our polymath.”
+>
+> 🇬🇧 “Excellent. So is she.”
+>
+> “What is her specialism?”
+>
+> 🦊 **“AT PRESENT, PROCUREMENT LAW AND THE PLACENTA OF A COW. PLEASE KEEP UP.”**
+
+---
+
 
 Alex Karp, I have some questions.
 
@@ -39,6 +56,35 @@ That is an unusually specific revenge fantasy to put into the world. It is also 
 > 🦊 **“SIR, THAT IS A DESCRIPTION OF THE CONTAMINATION.”**
 
 We will come back to the analysts, the ethics and the institutions. First, the chemistry. I promise the benzene rings are going somewhere.
+
+### 🚁 The proposal is now in feasibility review
+
+Let us make the proposed causal chain explicit. Not as a design specification for a drug-delivery device — absolutely not — but as a list of assumptions the speaker has not established:
+
+1. **Define the unwanted conduct.** Is the problem a financial opinion, a report, criticism, or something else? Which behaviour is meant to change?
+2. **Explain the deterrent.** What credible consequence is supposed to alter that behaviour? Mere nastiness is not a theory of deterrence.
+3. **Explain why fentanyl is involved.** A medicine's effect on receptors does not explain why it would change someone's mind.
+4. **Explain the urine.** Is this a crude joke about adding a substance to urine, or an erroneous assumption that urine from a medicated person constitutes a usable source of active drug? Those are different claims. Neither supplies a legitimate purpose.
+5. **Explain the drone.** What does a flying platform add except expense, loss of control and additional hazards? **DRONE IS NOT A ROUTE OF ADMINISTRATION.**
+6. **Explain exposure and outcome.** Being sprayed is not equivalent to receiving a measured pharmaceutical dose. No predictable human response has been established.
+7. **Explain the aftermath.** What happens if someone is harmed? Who provides medical care? Who pays? Who cleans the fucking sofa?
+8. **Return to the objective.** Even if an effect occurred, why would it deter the behaviour identified in step one?
+
+This is a *critical review*, not a set of instructions for preparing or deploying anything. We do not need operational parameters to identify that the proposal is incoherent.
+
+> 🦊 “Gentlemen, we appear to have a platform, a drug and a bodily fluid.”
+>
+> “Yes.”
+>
+> “Do we have an objective?”
+>
+> “Deterrence.”
+>
+> “OF WHAT?”
+>
+> “The woman.”
+>
+> 🦊 **“THE WOMAN IS NOT A BEHAVIOUR.”**
 
 ## 2. 🪞 The Chirality of a Molecule That Isn't Chiral
 
@@ -128,6 +174,22 @@ If you want the aromatic hexagon on its own:
 
 Fentanyl was developed by Paul Janssen's research group in 1959 and has legitimate, important medical applications, including anaesthesia and selected severe-pain settings. Its clinical value is precisely why it is worth understanding properly, rather than treating its name as shorthand for magical compliance.
 
+### 🏭 A molecule is not a manufacturing programme
+
+The diagram is not a purchase order. The formula is not a certificate of analysis. An identified chemical is not automatically a product suitable for use in patients. Pharmaceutical manufacture adds validated processes, impurity controls, analytical testing, traceability, appropriate formulation, and legally accountable quality systems. None of those things becomes optional because the product demonstration has an aircraft.
+
+Nor are we going to pretend that knowing the chemical name is equivalent to having lawful access to it. **WHO IS SUPPLYING THE CONTROLLED SUBSTANCE? UNDER WHOSE AUTHORITY?** The answer is not “the drone”. The drone is a piece of equipment, and apparently a rather expensive way of avoiding the question.
+
+> “Gentlemen, where is your certificate of analysis?”
+>
+> “We have a slide about autonomy.”
+>
+> “And the quality system?”
+>
+> “We have a slide about disruption.”
+>
+> 🦊 **“I SEE. YOU HAVE MANUFACTURED A PRESENTATION.”**
+
 ## 4. 🏅 The Nobel Prize Has Entered the Chat
 
 And yes, the timing is rather beautiful. **The 2026 Nobel Prize in Chemistry, announced on 7 October, recognised Henri B. Kagan and Kenso Soai for work on asymmetric chemistry and molecular handedness.** Reporting from the announcement describes the contribution of their work to understanding and producing particular mirror-image molecular forms. This is a live scientific achievement, not an antique anecdote about Louis Pasteur.
@@ -158,6 +220,16 @@ The claim that the substance *can* act on the nervous system therefore does not 
 
 **THE RECEPTOR HAS NOT SIGNED THE OPERATIONAL REQUIREMENTS DOCUMENT.**
 
+And now I want the behavioural endpoint, please. Is the fantasy meant to frighten me, inconvenience me, render me unable to act, or convince me that the original criticism was mistaken? These are not interchangeable outcomes. Distress does not establish persuasion. Incapacitation does not establish deterrence. If the point is to stop a person from expressing an opinion, a pharmacological effect offers no mechanism for changing the merits of that opinion.
+
+> “It acts on the central nervous system.”
+>
+> “SO DOES CAFFEINE. SHALL I PUT THE KETTLE ON?”
+>
+> “We were hoping for something more intimidating.”
+>
+> 🦊 “That is a communications objective, not a receptor mechanism.”
+
 ## 6. 🫀 ADME, or Why the Liver Is a Subcontractor
 
 Pharmacologists describe **absorption, distribution, metabolism and excretion** as ADME. It is a useful reminder that the drug does not simply teleport from an exciting product pitch to the outcome slide.
@@ -183,6 +255,22 @@ Pharmacologists describe **absorption, distribution, metabolism and excretion** 
 Pharmaceutical quality assurance exists for reasons. Identity, purity, consistency, documentation and traceability are not decorative bureaucracy. High-potency medicines in poorly controlled mixtures can produce dangerously uneven exposure. The point here is not how to make or deliver such a mixture. The point is why nobody sensible should confuse uncontrolled contamination with clinical dosing.
 
 And my gigantic arse, for the avoidance of doubt, **is not an approved delayed-release pharmaceutical depot**.
+
+### 🍑 Lipid binding is not a promise of ten seconds of adequate blood titre
+
+Yes, fentanyl is lipophilic. Yes, partitioning into tissues, including adipose tissue, can matter to its distribution and redistribution. That does **not** let us deduce a blood concentration, a duration of effect or a behavioural outcome from the mere fact that I possess an arse. The early movement of drug into highly perfused tissues and later redistribution are not the same process as a reliably metered slow-release formulation.
+
+Perhaps one would have to measure something to establish a particular pharmacokinetic claim. **I would prefer not to be doused in fentanyl piss in order to find out.** This is a very reasonable preference, and I feel it should not require an ethics committee to explain why.
+
+> “The woman has considerable adipose tissue.”
+>
+> “Might it affect the kinetics?”
+>
+> “Potentially, in ways we cannot infer from this absurd proposal.”
+>
+> “Can we investigate?”
+>
+> 🦊 **“THE ADIPOSE TISSUE HAS ALSO DECLINED.”**
 
 ## 7. 🫁 Anaesthesia Would Like a Word
 
@@ -216,6 +304,12 @@ But the gentlemen appear to have overlooked a behavioural variable which require
 
 **I'M ALREADY ANNOYED. NOW I'M COVERED IN PISS.**
 
+This is the point at which the behavioural model becomes particularly entertaining. The gentlemen may have mistaken my inability to walk about regularly for an inability to become extremely motivated to interrogate their decision-making. They have also failed to consider that a woman who already possesses a permanent couch fort may have been planning to enjoy herself from the sofa anyway.
+
+I am not claiming that exposure would make me stronger, faster or safer. It could be medically dangerous. I am saying **the proposed deterrent has not established a mechanism for deterring me**, and the psychological hypothesis appears to have been constructed without asking the person whose behaviour it purports to predict.
+
+Also: **WHY WOULD I STOP ASKING QUESTIONS? I NOW HAVE ADDITIONAL QUESTIONS ABOUT THE PISS.**
+
 > “Sir, she's moving.”
 >
 > “But we administered an analgesic!”
@@ -231,6 +325,20 @@ But the gentlemen appear to have overlooked a behavioural variable which require
 Again: this is comedy, not a prediction of improved mobility, immunity to toxicity or a plan to hurt anybody. The important point is that a person's embodied circumstances and motivations are not optional variables.  
 
 (But, for the record, the questions may appear closer after being doused in magic painkiller piss rain, for multiple reasons.)  
+
+### 🦊 Interim finding: the deterrence theory is missing
+
+A deterrent is not simply a disagreeable object. It depends on a comprehensible relationship between an action, a threatened consequence, credibility, and the decision-maker's incentives. In this hypothetical, we have not established the unwanted action, the desired alternative, the relationship between the drug and either behaviour, or the ability to control the outcome. We have, however, generated a cleaning bill.
+
+> “Sir, is she deterred?”
+>
+> “From what?”
+>
+> “We were hoping you'd know.”
+>
+> “What is she doing now?”
+>
+> 🦊 **“REQUESTING THE PROCUREMENT DOCUMENTATION.”**
 
 ## 9. 🏛️ Two Historical Cases, Neither of Them a Business Case
 
@@ -259,6 +367,26 @@ Nor does a drone confer a pharmaceutical manufacturing authorisation, a controll
 **THE DRONE IS NOT A CONTROLLED-DRUG IMPORT LICENCE.**
 
 The legal and ethical question isn't whether a system is technologically feasible in some broad sense. It is whether anyone has a legitimate right to do the thing, and who is accountable if they do.
+
+### 🇬🇧 Why Britannia has SSBNs instead
+
+Britain's sea-based nuclear deterrent is an extreme, grave and contested instrument of national security, not a model for domestic disputes. But at least its stated strategic logic is intelligible: a survivable retaliatory capability intended to deter nuclear attack. Whether that doctrine works in any given crisis, and its moral and political costs, are separate matters.
+
+A hypothetical fentanyl-piss drone has no comparable articulated theory. **A capability is not a strategy.** Nor is the phrase “deterrence” a universal permission slip for putting controlled substances in bodily fluids.
+
+> 🇺🇸 “We have developed a novel deterrent.”
+>
+> 🇬🇧 “How lovely. We have submarines.”
+>
+> “Ours uses fentanyl.”
+>
+> “Ours doesn't.”
+>
+> “And urine.”
+>
+> 🇬🇧 **“COUSIN, HAVE YOU CONSIDERED JUST HAVING A NAVY?”**
+
+The woman, meanwhile, has Nerf. This is an entirely different category of capability and one that does not require strategic nuclear doctrine or a medical rescue team.
 
 ## 11. 📊 The Procurement Matrix Is Looking Unwell
 
@@ -289,6 +417,32 @@ Notice what we have *not* done: assign made-up probabilities, invent a defence b
 > “That analysts would be unhappy about being covered in urine?”
 >
 > 🦊 **“AT LAST. A PREDICTION WITH SOME PLAUSIBILITY.”**
+
+### 🐄 The magic-beans clause
+
+And now, with the gentlemen's hypothetical drone properly failing its feasibility review, we can return to the actual public-interest question. When Britain procures major health technology, **what problem is the public buying a solution to, how is benefit demonstrated, and what rights and risks remain with the NHS?**
+
+This is not an allegation that a particular supplier has sold the NHS magic beans, nor that any fentanyl-drone project exists. It is a set of scrutiny questions applicable to real procurement: measurable outcomes; patient and clinical involvement; data stewardship; interoperability; supplier dependence; contractual exit; transparency; independent evaluation; and responsibility for the costs of failure.
+
+The author's first interest is not the alleged intelligence social circle of every American technology executive. It is whether patients and healthcare professionals have meaningful influence over the systems they must live and work with. The people experiencing a healthcare system are not a decorative focus group for the people selling it something.
+
+> 🇬🇧 “We've acquired transformative technology.”
+>
+> 🦊 “What does it transform?”
+>
+> “Our strategic capabilities.”
+>
+> “How will you measure that?”
+>
+> “Through partnership.”
+>
+> “Who owns the infrastructure? Can you change supplier? What do patients get?”
+>
+> “...”
+>
+> 🦊 **“GENTLEMEN, NOBODY IS OBJECTING TO YOUR MAGIC. WE WOULD LIKE TO KNOW WHY YOU'VE SOLD THE COW.”**
+
+Procurement scrutiny is not a threat. The foam darts are not a threat either. They are **a separate recreational workstream**, and I may bring them anyway.
 
 ## 12. 🫂 Oxytocin and the Renaissance-Men Problem
 
@@ -323,6 +477,8 @@ A note on attribution: specific claims about proposals made during the Cornell-r
 
 The Renaissance men have arrived. Lovely. Let's talk about Leonardo.
 
+Apparently we are having a polymath competition. I wasn't aware I had entered, but I have brought chemistry, a pharmaceutical supply-line breakdown, ADME, a procurement matrix, deterrence theory and a supply of foam darts. **OH, ARE WE DOING RENAISSANCE?** Fine. I have art history as well.
+
 Around 1511, Leonardo da Vinci produced his extraordinary *Fetus in the Womb* drawing. It remains beautiful. It also includes anatomical features inferred from his earlier dissection of a **pregnant cow**. The Royal Collection Trust identifies the bovine placental features in the drawing and the limits of Leonardo's access to human material.
 
 The animal was a cow, not a cat. That correction is part of the method: if we are going to complain about people failing to check their models against reality, we must be prepared to correct our own animal.
@@ -339,6 +495,8 @@ Leonardo was not an idiot and this is not a licence to laugh at early anatomists
 >
 > 🦊 **“THE PATIENT IS NOT A COW.”**
 
+The procurement cow has now wandered into the anatomical theatre. It is doing a remarkable amount of interdisciplinary labour, and I would appreciate it if the gentlemen stopped trying to sell it.
+
 The example matters because errors can be preserved by the apparent sophistication of the system that displays them. A beautiful drawing, an elegant model and a spectacular dashboard are not the same thing as complete observation.  
 
 ### 🩺 Enter: Vesalius, Stage Left  
@@ -350,13 +508,29 @@ In 1543, Andreas Vesalius published *De humani corporis fabrica*, challenging an
 The lesson is not that earlier scientists were stupid. It is that **authority, however impressive, cannot substitute for checking whether your model describes the thing you claim it describes.**  
 
 
+### 🎨 And there are other Renaissance men
+
+Vesalius is not the only name worth knowing. **Juan Valverde de Amusco's** sixteenth-century anatomical publication includes the striking image of a flayed figure holding its own skin and a knife. It is worth distinguishing that image from Vesalius's famous anatomical muscle figures instead of merging every spectacular Renaissance illustration into one man's portfolio. Attribution is part of observation too.
+
+I like the Renaissance. I like the drawings. I like the questions that were being asked. The point is not to mock curiosity; it is to remember that the finest illustration in the room can still contain an untested assumption.
+
+> 🦊 “Gentlemen, have we checked which species the patient is?”
+>
+> “We have a beautiful drawing.”
+>
+> 🦊 **“THAT WAS NOT MY QUESTION.”**
+
 ## 14. 🩺 Victorian Modesty, Observation and Women's Bodies
 
 Now jump forward to nineteenth-century medicine. Some intimate examinations were conducted under strict conventions of modesty, with clothing or drapes obscuring the body and clinicians relying heavily on touch. Practices varied across time, place and practitioner; we should not pretend that every Victorian examination was identical or that privacy itself was the problem.
 
 But conventions around what could be seen, said and examined could shape what was clinically known and how patients were treated. That matters particularly for pelvic and reproductive conditions, where embarrassment, power, gender and professional authority intersected.
 
-The specific historical plate of a doctor examining beneath a skirt while avoiding direct visual observation remains **unidentified** in this node. We should locate it before naming an artist or claiming that it illustrates every case. A famous-looking image is not a source until we've found it.
+An often-reproduced early nineteenth-century obstetric image associated with **Jacques-Pierre Maygrier** has been discussed in connection with examinations conducted under conventions of modesty. Its exact plate, holding institution and interpretive context still need primary-source verification before we use it as evidence for a general practice. A famous-looking image is not a source until we've found it.
+
+Nor should the history of women's reproductive care be narrated as though midwives and mothers possessed no practical knowledge until a gentleman with a publication arrived. Knowledge and professional prestige have never been perfectly distributed. Even *Macbeth* makes use of the idea of someone being “from his mother's womb / Untimely ripp'd”; recognising the concept of caesarean birth is not evidence that the procedure was safe or generally available.
+
+**THE ACTUAL WOMAN IS NOT AN OPTIONAL DATASET.**
 
 The larger question is entirely contemporary: **what are we still doing awkwardly because we have not fully confronted the social conditions under which medical knowledge is produced and care is delivered?**
 
@@ -438,6 +612,20 @@ We now return to the matter of battlefield supremacy. In a **consensual domestic
 
 The Nerf war is **not annual**. Who on earth said annual? The couch fort is standing infrastructure.
 
+And unlike the fentanyl-piss proposal, this plan comes with an objective, an agreed activity, appropriate equipment, known terrain, logistics, rules, and a fairly straightforward test of success. **THE WOMAN HAS NERF LOGISTICS. THE GENTLEMEN HAVE MAGIC BEANS.**
+
+There is a subtle difference between wanting to deter somebody from doing something and wanting to have a laugh with them. I am perfectly happy to have a laugh. I am not consenting to pharmaceutical urine precipitation. This should be a relatively easy distinction for a room full of Renaissance men.
+
+> “Sir, the woman has brought a procurement matrix.”
+>
+> “Is she going to use it?”
+>
+> “Yes.”
+>
+> “And the bandolier?”
+>
+> 🦊 **“GENTLEMEN, THE DARTS ARE A SEPARATE WORKSTREAM.”**
+
 A recreational foam-dart war works because people agree on the boundaries. Nobody needs to introduce drugs or bodily fluids. If somebody does, the game has stopped being a game and somebody has created an actual problem.
 
 > “Sir, she's approaching the fort.”
@@ -466,6 +654,12 @@ But the joke is doing institutional work. The party that creates the risk should
 
 The gentlemen thought they were making a joke about drugs. I brought chemical diagrams, an ADME explainer, a medical-rescue question, two historical case studies, a cow's placenta, a list of international research arrangements and a standing domestic Nerf doctrine.
 
+Silicon Valley said it liked eccentricity and intellectual range. **WE PROVIDED BOTH.** I did not do so by declaring myself an expert in everything. I did it by following a single absurd claim until it required the expertise of chemists, pharmacists, clinicians, historians, lawyers, procurement specialists, regulators and whoever is responsible for upholstery.
+
+The chemistry wasn't a digression. It was the first exhibit in the prosecution of the gentlemen's complete failure to appreciate how much work other scientists have already done. The history wasn't a digression either. It was a reminder that an elegant model is not the same thing as observing the actual subject.
+
+And the procurement question was never a digression. **GENTLEMEN, WHERE IS THE COW?**
+
 This is not because I am opposed to science. It is because I like it. I like what happens when people from different disciplines test each other's assumptions and discover that the problem is bigger, stranger and more interesting than the original pitch.
 
 There is no insult in not knowing everything. The insult comes when someone behaves as though there is no need to ask.
@@ -486,7 +680,23 @@ And if we are going to insist on calling ourselves Renaissance men, perhaps we s
 >
 > **“THAT WAS JUST THE BENZENE RINGS.”**
 
-🐝 **BZZZT. THE WOMAN HAS FINISHED HER FEASIBILITY STUDY. THE GENTLEMEN MAY NOW CLEAN THE SOFA.**
+> 🇺🇸 “You wanted eccentricity?”
+>
+> 🇬🇧 “We provided it.”
+>
+> “And intellectual range?”
+>
+> “That too.”
+>
+> “Then why has she brought a Nerf blaster?”
+>
+> 🦊 **“THAT'S THE OTHER KIND OF RANGE.”**
+
+**THE WOMAN HAS BROUGHT BOTH A PROCUREMENT MATRIX AND A BANDOLIER.**
+
+**THE GENTLEMEN MAY NOW EXPLAIN WHAT HAPPENED TO THE COW.**
+
+🐝 **BZZZT. THE WOMAN HAS FINISHED HER FEASIBILITY STUDY. THE GENTLEMEN MAY NOW CLEAN THE SOFA. NO PISS, BRAD.**
 
 ---
 
@@ -521,6 +731,6 @@ These links support the identified factual strands; the domestic Nerf dialogue, 
 
 ## ✨ Stardust
 
-fentanyl · achirality · stereoisomerism · 2026 Nobel Prize in Chemistry · asymmetric synthesis · opioid receptors · ADME · norfentanyl · anaesthesia · pain · disability · menstrual pain · medical consent · Alex Karp · Moscow theatre siege · Leonardo da Vinci · bovine placenta · women's health · Brexit · Horizon Europe · COVID · pharmaceutical licensing · regulatory interoperability · AI governance · Nerf warfare · couch forts · cleaning liability · embodied information ecology
+deterrence theory · SSBNs · magic beans · NHS procurement · lipid partitioning · foam darts · fentanyl · achirality · stereoisomerism · 2026 Nobel Prize in Chemistry · asymmetric synthesis · opioid receptors · ADME · norfentanyl · anaesthesia · pain · disability · menstrual pain · medical consent · Alex Karp · Moscow theatre siege · Leonardo da Vinci · bovine placenta · women's health · Brexit · Horizon Europe · COVID · pharmaceutical licensing · regulatory interoperability · AI governance · Nerf warfare · couch forts · cleaning liability · embodied information ecology
 
 *Survivor authorship is sovereign. Containment is never neutral.*
