@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-24 15:52:57 UTC_
+_Generated on 2026-10-24 15:55:50 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -101,7 +101,9 @@ _Generated on 2026-10-24 15:52:57 UTC_
       - [`🪬_one_can_never_speak_for_all.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🪬_one_can_never_speak_for_all.md)
       - [`🫱_how_not_to_flatten_jewish_plurality.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/📚_Which_Yisrael/🫱_how_not_to_flatten_jewish_plurality.md)
     - [**🕯️_Violent_Parshiyot/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🕯️_Violent_Parshiyot/)
+      - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🕯️_Violent_Parshiyot/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🕯️_Violent_Parshiyot/notes.txt)
+      - [`🫒_lech_lecha_5787.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🕯️_Violent_Parshiyot/🫒_lech_lecha_5787.md)
     - [**🦁_Antifascist_Amidah/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🦁_Antifascist_Amidah/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🦁_Antifascist_Amidah/README.md)
       - [`notes.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🦁_Antifascist_Amidah/notes.md)
