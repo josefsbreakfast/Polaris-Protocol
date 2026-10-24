@@ -1,0 +1,210 @@
+”🚨 Iran Infrastructure Watch — 24 October 2026
+
+Assessment period: 23–24 October 2026, morning BST
+Baseline: 28 February 2026
+Notification threshold: Met — two newly confirmed active-exploitation warnings, a further PHP vulnerability, and a significant escalation in threats against Gulf communications infrastructure.
+
+The most important development is in Category C: systemic vulnerabilities and active exploitation. Two vulnerabilities affecting shared infrastructure were added to the US Known Exploited Vulnerabilities catalogue on 23 October.
+
+There is also a new, explicit Iranian threat against submarine communications cables. That is strategically significant, but it is not evidence that a cable attack has occurred.
+
+A. 🔴 Malicious cyber incidents
+
+No newly confirmed, infrastructure-disrupting cyberattack dated 23–24 October has met the reporting threshold.
+
+However, two vulnerabilities now have authoritative evidence of real-world exploitation:
+
+* VeloCloud Orchestrator: active exploitation confirmed by its vendor.
+* Collabora Online’s Nextcloud integration: exploitation reported during September and October, with the vulnerability added to CISA’s catalogue yesterday.
+
+These belong in Category C as active-exploitation developments, rather than being counted as new October 23 attacks.
+
+Neither has a publicly established Iranian attribution.
+
+🇮🇷 Strategic warning: Gulf submarine cables
+
+On 23 October, Reuters reported that two senior Iranian security officials described plans to attack submarine communications cables if US–Israeli military strikes resume.
+
+The reported threat includes potentially obstructing repairs to prolong disruption.
+
+The distinction is important:
+
+Threatened capability and intent ≠ attempted attack ≠ confirmed infrastructure damage.
+
+Potential consequences include disruption to Gulf telecommunications, financial transactions, cloud connectivity and regional data-centre operations.
+
+The global impact should not be exaggerated: Reuters reports that less than 1% of international bandwidth passes through the Strait of Hormuz, although particular Gulf countries and services may have much greater exposure.
+
+This is a significant escalation in publicly reported infrastructure coercion, not a confirmed cyber incident.  
+
+Reuters — Iran's reported plans to target Gulf submarine cables, 23 October⁠￼
+
+B. 🔵 Non-malicious outages and cascading failures
+
+🇬🇧 Google Cloud London: preliminary investigation clarifies the failure
+
+Incident: 20 October
+Preliminary provider report: 22 October
+Classification: Non-malicious infrastructure failure
+
+Google Cloud's preliminary incident report⁠￼ establishes:
+
+Field	Finding
+Onset	20 October, 07:00 BST
+Provider recovery window	13:10 BST
+Duration	6 hours, 10 minutes
+Initial failure	Electrical interruption in europe-west2-b
+Secondary effects	Network, storage, failover and processing delays
+Data compromise	Not established
+Malicious causation	No evidence identified
+
+The report confirms that a single availability-zone power interruption affected multiple cloud services and produced additional delays elsewhere in the London region.
+
+Banking, payments and court services experienced downstream disruption, with some customer-facing recovery continuing beyond the provider’s main restoration window.  
+
+Trend judgement: This is stronger evidence of correlated technical dependencies, not of a cyberattack.
+
+It is particularly relevant to Polaris’s revised Britain Is Advertising An Exploitable Seam analysis.
+
+I found no comparably significant new cloud or payment-network outage during the latest reporting window.
+
+C. 🟣 Systemic vulnerabilities and active exploitation
+
+1. 🚨 VeloCloud Orchestrator — confirmed active exploitation
+
+CVE-2026-114625
+Vendor disclosure: 22 October
+CISA KEV addition: 23 October
+Severity: CVSS 9.9 (v3.1); 9.4 (v4.0)
+
+Arista Networks confirms active exploitation of a SQL-injection vulnerability affecting on-premises VeloCloud Orchestrator.
+
+An attacker with an authenticated session, including the lowest built-in tenant role, can potentially obtain highly privileged operator access.
+
+Affected versions include:
+
+* 5.2.x before 5.2.3.18
+* 6.1.x before 6.1.3.10
+* 6.4.x before 6.4.2.12
+
+Hosted versions have reportedly already been patched.
+
+The significance is the affected product’s position in network administration. Compromising an orchestrator may expose management functions and information about distributed networks.
+
+However, compromise of an orchestrator does not automatically establish compromise of every downstream network device.
+
+The vendor has not publicly identified an attacker, an Iranian connection or the number of affected customers.
+
+Confidence: 🟢 Vulnerability, affected versions and active exploitation; ⚪ actor attribution and downstream operational consequences.  
+
+Arista Security Advisory 0199⁠￼
+
+2. 🚨 Collabora Online / Nextcloud — exploitation now recognised by CISA
+
+CVE-2026-110447
+Observed attacks: September–October 2026
+Public vulnerability disclosure: 14 October
+CISA KEV addition: 23 October
+Severity: CVSS 9.2
+
+This affects the optional Collabora Online Built-in CODE Server application used with Nextcloud.
+
+The vulnerable component is richdocumentscode before 26.4.303.
+
+Under particular conditions, an unauthenticated attacker can execute operating-system commands.
+
+The vendor states that the vulnerable path becomes available when the built-in CODE server is not running, including during certain restarts or failures.
+
+Standalone Collabora Online installations are not affected by this specific flaw.
+
+This matters for government, education, healthcare and other organisations using self-hosted collaboration infrastructure.
+
+The chronology is especially important:
+
+Exploitation was reported before the formal CVE disclosure.
+
+The 23 October KEV addition is a new authoritative acknowledgement of exploitation, not a new attack onset.
+
+The vendor recommends upgrading or removing the affected application; merely disabling it is insufficient.  
+
+Collabora's original security advisory⁠￼
+
+3. ⚠️ PHP2Shell — third vulnerability disclosed
+
+New CVE: CVE-2026-115560
+Disclosure: 23 October
+Status: Unpatched; mitigation available
+
+This is distinct from the two critical PHP vulnerabilities disclosed earlier in the week.
+
+The existing PHP2Shell vulnerabilities are:
+
+CVE	Severity	Status
+CVE-2026-109618	CVSS 9.2	Patched 21 October
+CVE-2026-109619	CVSS 9.2	Patched 21 October
+CVE-2026-115560	Not yet assigned a public severity score	Disclosed 23 October; awaiting regular release
+
+The newly disclosed issue requires an unusual combination of application behaviour and PHP session configuration.
+
+The PHP security team considers exploitation unlikely under normal configurations.
+
+It recommends disabling session upload progress where relevant until the next regular release.
+
+Importantly, the fixes issued on 21 October do not resolve this third vulnerability.
+
+The Canadian Cyber Centre reports that proof-of-concept material exists for the earlier PHP vulnerabilities but says it has not identified confirmed active exploitation of those vulnerabilities at the time of its 23 October update.
+
+Confidence: 🟢 Vulnerability and mitigation; ⚪ successful exploitation of the newly disclosed issue.  
+
+PHP Security Team — 23 October advisory⁠￼
+
+⸻
+
+🧭 Cross-category assessment
+
+Category	Current judgement	Change
+A — Malicious incidents	No newly confirmed infrastructure-disrupting attack meeting the threshold	No established new attack
+B — Non-malicious failures	Google Cloud investigation strengthens evidence of cascading technical dependencies	Improved causal evidence
+C — Systemic vulnerabilities	Two newly catalogued exploited vulnerabilities; additional PHP flaw	Material escalation in confirmed exposure
+
+What is becoming clearer?
+
+The important pattern is not a demonstrated common attacker.
+
+It is the increasing security significance of shared administrative infrastructure.
+
+Network orchestrators, document-collaboration platforms, programming-language runtimes and cloud providers can each support numerous downstream organisations.
+
+That creates several different risks:
+
+* A compromised management system may provide access beyond the original host.
+* A vulnerable shared software component may expose otherwise unrelated organisations.
+* A non-malicious infrastructure failure may interrupt multiple essential services.
+* Emergency remediation may itself create service-continuity problems.
+
+These are related dependency mechanisms, but they are not evidence of one coordinated campaign.
+
+The Iranian submarine-cable threats introduce a separate concern: deliberate targeting of physical infrastructure supporting digital services.
+
+🇮🇷 Iran attribution assessment
+
+No new Iranian cyber attribution is established by today’s findings.
+
+The reported cable threats are attributable to statements from Iranian officials, but no corresponding cable attack has been confirmed.
+
+The exploited software vulnerabilities remain unattributed.
+
+The Google Cloud incident has a documented non-malicious explanation.
+
+🏮 Polaris implications
+
+The most useful additions to the infrastructure chronology are:
+
+1. 23 October: CVE-2026-114625 added to CISA KEV — update the existing 22 October vulnerability record rather than create a duplicate.
+2. 23 October: CVE-2026-110447 added to CISA KEV — preserve September exploitation dates separately.
+3. 23 October: CVE-2026-115560 disclosed — a distinct PHP vulnerability, not a third confirmed PHP2Shell compromise.
+4. 22 October: Google Cloud preliminary incident report — correct the provider outage duration to six hours and ten minutes.
+5. 23 October: Iranian submarine-cable threat reporting — record as a strategic threat statement, not an attack.
+
+Bottom line: Today’s most consequential verified change is the elevation of two shared-infrastructure vulnerabilities into CISA’s actively exploited category. The Iranian cable threat is strategically important, but the evidence does not connect it to those vulnerabilities or to the London cloud failure.”  
+
