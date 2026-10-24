@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-23 19:48:15 UTC_
+_Generated on 2026-10-24 12:47:36 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4392,6 +4392,7 @@ _Generated on 2026-10-23 19:48:15 UTC_
         - [`💨_LES_GARS_VOUS_AVEZ_GAZE_LE_MAIRE.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/💨_LES_GARS_VOUS_AVEZ_GAZE_LE_MAIRE.md)
         - [`💰_des_livres_pas_des_bombes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/💰_des_livres_pas_des_bombes.md)
         - [`📣_les_mots_de_la_colere.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/📣_les_mots_de_la_colere.md)
+        - [`🕯️_trappes.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🕯️_trappes.md)
         - [`🚒_les_pompiers_en_greve.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🚒_les_pompiers_en_greve.md)
         - [`🚨_la_police_face_a_la_jeunesse.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🚨_la_police_face_a_la_jeunesse.md)
         - [`🤖_when_did_it_become_an_islamist_intifada.md`](🌓_3_In_The_Moment/📲_Press_Matters/🔊_Turn_The_Public_Up/🔥_Jeunesse_En_Feu/🤖_when_did_it_become_an_islamist_intifada.md)
