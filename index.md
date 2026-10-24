@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-24 16:23:55 UTC_
+_Generated on 2026-10-24 19:40:49 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2568,6 +2568,7 @@ _Generated on 2026-10-24 16:23:55 UTC_
         - [`🪰_digital_deet_algorithmic_invasiveness.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🧬_Algorithmic_Endocrinology/🪰_digital_deet_algorithmic_invasiveness.md)
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/notes.txt)
+      - [`🌳_old_man_willow_is_just_a_fairy.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🌳_old_man_willow_is_just_a_fairy.md)
       - [`🌺_the_opium_empire_has_telemetry.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🌺_the_opium_empire_has_telemetry.md)
       - [`🎼_musical_hierarchies.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀♻️_The_Body_In_The_Loop/🎼_musical_hierarchies.md)
     - [**🫀🕸️_Information_Is_Experienced/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/)
