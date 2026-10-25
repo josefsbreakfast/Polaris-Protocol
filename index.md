@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-25 15:54:26 UTC_
+_Generated on 2026-10-25 16:18:56 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1553,6 +1553,7 @@ _Generated on 2026-10-25 15:54:26 UTC_
       - [`✉️_no_one_writes_letters_like_they_used_to_updated.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/✉️_no_one_writes_letters_like_they_used_to_updated.md)
       - [`➰_horror_in_the_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/➰_horror_in_the_loop.md)
       - [`🌹🫏_repeating_2024_dems_shortsightedness.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🌹🫏_repeating_2024_dems_shortsightedness.md)
+      - [`🚀_nationalise_lady_catherine_and_her_rockets_already.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🚀_nationalise_lady_catherine_and_her_rockets_already.md)
       - [`🧵_community_vulnerability_and_early_canaries.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🧵_community_vulnerability_and_early_canaries.md)
     - [**🐣_The_Whole_Ecology/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/)
       - [**.🌱_Still_Growing/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🐣_The_Whole_Ecology/.🌱_Still_Growing/)
