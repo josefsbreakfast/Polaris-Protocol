@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-25 21:28:16 UTC_
+_Generated on 2026-10-25 21:36:25 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -107,6 +107,7 @@ _Generated on 2026-10-25 21:28:16 UTC_
     - [**🦁_Antifascist_Amidah/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🦁_Antifascist_Amidah/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🦁_Antifascist_Amidah/README.md)
       - [`notes.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🦁_Antifascist_Amidah/notes.md)
+      - [`⏰_get_better_timekeepers.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🦁_Antifascist_Amidah/⏰_get_better_timekeepers.md)
       - [`🙅🏻‍♂️_sie_sind_hier_nicht_erwünscht.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🦁_Antifascist_Amidah/🙅🏻‍♂️_sie_sind_hier_nicht_erwünscht.md)
     - [**🪬_Beyond_Zionism/**](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/)
       - [`README.md`](🌑_1_Origin_Points/☁️_Kabbalist_Futurism/🪬_Beyond_Zionism/README.md)
