@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-25 18:35:49 UTC_
+_Generated on 2026-10-25 19:49:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1550,7 +1550,6 @@ _Generated on 2026-10-25 18:35:49 UTC_
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/notes.txt)
       - [`✉️_no_one_writes_letters_like_they_used_to.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/✉️_no_one_writes_letters_like_they_used_to.md)
-      - [`✉️_no_one_writes_letters_like_they_used_to_updated.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/✉️_no_one_writes_letters_like_they_used_to_updated.md)
       - [`➰_horror_in_the_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/➰_horror_in_the_loop.md)
       - [`🌹🫏_repeating_2024_dems_shortsightedness.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🌹🫏_repeating_2024_dems_shortsightedness.md)
       - [`🚀_nationalise_lady_catherine_and_her_rockets_already.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🚀_nationalise_lady_catherine_and_her_rockets_already.md)
