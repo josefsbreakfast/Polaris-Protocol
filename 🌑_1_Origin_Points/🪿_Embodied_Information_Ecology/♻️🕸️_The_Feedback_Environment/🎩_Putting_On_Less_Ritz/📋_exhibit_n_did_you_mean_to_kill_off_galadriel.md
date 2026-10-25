@@ -1,5 +1,5 @@
 # 📋 Exhibit N — Did You Mean To Kill Off Galadriel?
-**First created:** 2026-10-23 | **Last updated:** 2026-10-23  
+**First created:** 2026-10-23 | **Last updated:** 2026-10-25  
 *Dear America: we know you loved the books. That's why we're a little worried about what you've built.*
 
 ---
@@ -503,7 +503,12 @@ And if the answer is no, perhaps we can begin there.
 ---
 
 ## 🌌 Constellations
-🎩 🌳 🪞 💧 🛰️ — commercial incentives and the survival of knowledge; resource allocation; cultural continuity; human dignity; repair without pretending intention and consequence are the same thing.
+🎩 🌳 🪞 💧 🛰️ — commercial incentives and the survival of knowledge; resource allocation; cultural continuity; human dignity; repair without pretending intention and consequence are the same thing.  
+
+*Not unrelated:*  
+
+- [🎶: The Buggles: *Video Killed The Radio Star*](https://youtu.be/W8r-tXRLazs?is=mi2guHuftaxLFoSi) – *They took the credit for your second symphony: Rewritten by machine and new technology, And now I understand the problems, you can see…*  
+
 
 ---
 
@@ -532,4 +537,4 @@ It uses a deliberately affectionate Tolkien thought experiment to examine the mi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-23_
+_Last updated: 2026-10-25_
