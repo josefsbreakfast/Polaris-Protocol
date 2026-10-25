@@ -1,5 +1,5 @@
 # 🌳 Old Man Willow Is Just A Fairy
-**First created:** 2026-10-24 | **Last updated:** 2026-10-24  
+**First created:** 2026-10-24 | **Last updated:** 2026-10-25  
 *Not a hobbit-murderer. Hear me out.*
 
 ---
@@ -283,6 +283,59 @@ A later draft could use named, dated narratives from the National Folklore Colle
 
 ☘️: **WE ARE BEGGING YOU TO NOTICE THE PATTERN.**
 
+### 🪵 5.3 Enclosure: who authorised the hedge?
+
+🇺🇸: Right. A hedge. Property line. Sorted.
+
+☘️: Who drew the property line?
+
+🇺🇸: The people who built the hedge?
+
+🇬🇧: Ah. You see, that's a different question.
+
+🌳: **I WAS HERE BEFORE THE FUCKING HEDGE.**
+
+🌼: And we're not going to establish title by shouting, Willow.
+
+The hedge is simultaneously vegetation, infrastructure and a social assertion. It marks where Buckland's inhabitants understand their settlement to end and the Old Forest to begin. But the existence of a boundary cannot, on its own, establish the legitimacy of the arrangement it expresses. Nor does its constructed character establish illegitimacy. People may have excellent reasons to protect homes and cultivated land. Other inhabitants may have equally consequential histories of using the land that is now enclosed.
+
+English enclosure provides a useful *historical analogy*, not a claim that Tolkien's Buckland underwent a documented English parliamentary enclosure. In English land history, ownership, customary use, access, grazing and other rights could overlap; enclosure often changed who could do what, where, and on whose authority. A hedge can therefore be perfectly legible to one community as protection and to another as exclusion. The point is not that all enclosure was identical, or that the forest possesses a demonstrable legal claim. The point is that a physical line does not explain itself.
+
+Even the word *encroachment* does work. It describes movement across a boundary already presumed to matter. Trees also grow, spread, seed and extend roots. In Tolkien's Old Forest, some trees have agency, but that does not prove every tree near the hedge was intentionally attacking Buckland. The available narrative does not resolve which acts were ordinary growth, deliberate hostility, defensive reaction or some combination. The label *encroachment* is part of an account of the conflict, not an independent verdict on it.
+
+Questions worth retaining rather than answering by invention:
+
+- What was the land like before the hedge was established, and what uses or inhabitants preceded it?
+- What danger did the hobbits experience, and how imminent or extensive was it?
+- What alternatives to cutting and burning were available, if any?
+- Which trees were burned, and did any possess the kind of awareness Tolkien gives certain trees elsewhere?
+- How did the forest's inhabitants understand the boundary, and what testimony of theirs survives?
+- Who is narrating the history, and which descriptions have been inherited as common sense?
+
+We cannot use those gaps to convict the hobbits of an atrocity. Nor can we silently fill every gap in their favour. We can recognise the possibility of severe harm, ask about proportionality, and acknowledge that the evidence required for a stronger verdict is missing.
+
+**The hobbits inherited a boundary. The forest inherited a grievance. Neither inheritance tells us who was originally in the right.**
+
+### 🔥 5.4 A defence may still do harm
+
+A community can reasonably fear its neighbours and still respond disproportionately. A community can suffer real injury and still be wrong to retaliate against uninvolved visitors. These are not mutually exclusive propositions.
+
+For Frodo, Sam, Merry and Pippin, the Old Forest is a dangerous passage. For the forest, the hobbits may belong to a neighbouring population associated with felling and fire. That difference may help explain hostility; it does not transfer personal responsibility for the earlier burnings to four travellers. Equally, their innocence of those burnings does not erase the historical conflict.
+
+The distinction between *why an act occurs*, *whether an actor believes it justified*, and *whether it is justified* needs to remain visible. Tolkien gives us enough to raise the questions, not enough to adjudicate every historical claim.
+
+🇺🇸: THE TREE IS EATING MERRY.
+
+☘️: Yes. Stop that.
+
+🇺🇸: AND THEN WE DESTROY THE HOSTILE FOREST?
+
+🌼: No. Then we find out rather more about the forest.
+
+🇺🇸: BUT WE'VE IDENTIFIED THE THREAT.
+
+🌼: You've identified **a** threat. That isn't the same as understanding **everything**.
+
 ---
 
 ## 🪞 6. Courting The Wild Twin — Not The Evil Twin
@@ -393,6 +446,34 @@ The defence is not claiming that Tom delivers a judicial acquittal in Tolkien's 
 
 🌳: A REASONABLE ARRANGEMENT.
 
+### 🌼 7.2 The parish councillor does not need a bombing campaign
+
+Tom is not a modern public official in a floral hat. He is an elusive literary figure, and reducing him to a governance framework would be its own failure of curiosity. The parish-councillor comparison is a joke with a serious observation underneath: **he knows the inhabitant he is addressing**.
+
+Tom neither treats Willow as scenery nor requires the reader to endorse Willow's conduct. He intervenes in the immediate emergency by addressing a being who can respond. He does not first demand a definitive judgment on the history of Buckland, nor does he raze the woodland to guarantee that nobody will ever be threatened there again.
+
+This is *situated knowledge*, not an assertion that local actors are automatically benevolent or omniscient. Familiarity can coexist with bias; inherited custom can be oppressive; negotiation may fail. But power brought into an unfamiliar system does not automatically supply the relationships or contextual information needed to understand it.
+
+🇺🇸: YOU KNOW THE TREE?
+
+🌼: Of course I know him.
+
+🇺🇸: HE'S A PUBLIC SAFETY EMERGENCY.
+
+🌼: At present, yes.
+
+🇺🇸: SHOULD WE NEUTRALISE THE THREAT?
+
+🌼: We should get the hobbits out.
+
+🇺🇸: AND THEN?
+
+🌼: Perhaps have a word.
+
+🌳: **I ALSO HAVE WORDS.**
+
+🌼: We know, Willow.
+
 ---
 
 ## 🫀 8. The Body In The Loop
@@ -422,6 +503,59 @@ Put simply:
 And before diagnosing a hostile system, establish whether you are the thing it believes it is protecting itself against.
 
 This is not a universal vindication of hostile systems. It is a demand for a better model before acting.
+
+### 🧠 8.1 Boolean decisions are not complete world models
+
+There is nothing wrong with binary classification. In fact, when the question is whether Merry and Pippin should be rescued, a decisive answer is rather desirable.
+
+| Proposition | What the encounter supports |
+| --- | --- |
+| Willow is endangering hobbits. | **Yes.** |
+| The hobbits need help now. | **Yes.** |
+| A past grievance would justify eating these travellers. | **No.** |
+| The successful rescue proves the hobbits' inherited boundary was historically just. | **No.** |
+| The rescue establishes that the forest has no history worth investigating. | **No.** |
+| We have enough evidence to settle the original land dispute. | **Not established.** |
+
+The final answer is deliberately *not* a third Boolean truth value. It is an evidentiary statement about our knowledge. A proposition may be true or false in the world while the available evidence is insufficient to determine which. Confusing **unknown** with **false** is a classification error; confusing **successful intervention** with **complete explanation** is a modelling error.
+
+A binary decision may be entirely appropriate **at the point of intervention** without being an adequate description of **the system in which the intervention occurs**. In an emergency, we may have to act before understanding everything. That constraint does not license treating our first model as exhaustive once the emergency has passed.
+
+**You can be right about the emergency and still have more to learn about the world in which it happened.**
+
+### 🧭 8.2 What each observer can and cannot see
+
+| Observer | Information they may bring | What the text does not settle for them—or us |
+| --- | --- | --- |
+| The travelling hobbits | Knowledge of Buckland's warnings, routes and dangers | The full forest-side history of the boundary |
+| Old Man Willow | His own body, surroundings, motives and whatever memories he possesses | Whether he distinguishes these travellers from earlier tree-burners |
+| Tom Bombadil | Familiarity with local beings and the means of addressing Willow | A definitive account of the hedge's original legitimacy |
+| A visiting rescuer | Direct evidence of the immediate danger | The whole history of the inhabited landscape |
+| The reader | The narrative and its reported background | The absent testimony, motives and facts the narrative does not provide |
+
+This table describes possible differences in access, not a claim that we can read everyone's mind. An observer's inability to see another actor's operating terms does not establish those terms as invalid. It also does not prove them valid. It tells us that the observer's model may be incomplete.
+
+A useful discipline is to keep three categories separate: **what the text establishes; what it reasonably permits us to infer; and what remains unknown**. That is how curiosity becomes an epistemic practice rather than a decorative virtue.
+
+### 🗺️ 8.3 The hedge is not where history began
+
+This has a wider historical echo. A present border, road, place name or customary right may be entirely real while also being the result of centuries of negotiation, migration, conquest, legal change and ordinary use. In Britain and Ireland, language, settlement and landscape carry histories that do not begin at the date of the current map. In Europe, a city can be *Köln* locally and *Cologne* in English because names themselves travelled along historical linguistic routes; a boundary can move without every language or family moving with it.
+
+These are illustrative analogies, **not** evidence that the Old Forest is Alsace-Lorraine or that Tolkien wrote a coded modern theory of borders. They show why the current administrative description of a place is not the complete history of its inhabitants. Nor does a complex history make contemporary rights imaginary. The problem is assuming the visible arrangement explains its own origins.
+
+🇺🇸: WHY IS COLOGNE IN GERMANY IF IT SOUNDS FRENCH?
+
+🇫🇷: Because languages have histories.
+
+🇩🇪: And we call it Köln.
+
+🇩🇰😎: Would you like to discuss Schleswig-Holstein?
+
+🇬🇧: Absolutely not.
+
+🌳: **I WOULD LIKE TO DISCUSS THE HEDGE.**
+
+🌼: We're getting there.
 
 ---
 
@@ -485,6 +619,46 @@ The prosecution has established that the defendant attempted to digest two hobbi
 
 *The defence rests. Preferably somewhere other than underneath the defendant.*
 
+### 🦅 9.1 Be curious, cousin. And perhaps a little less bomby.
+
+The joke is not that Americans are uniquely incapable of understanding old landscapes. North America has deep Indigenous histories and diverse living traditions of relationship with land and other-than-human beings; US society is not one monolithic observer. The comic 🇺🇸 here represents a recognisable *style of intervention*: identify a danger, reach for an operational solution, and risk treating the surrounding social world as a blank space awaiting management. Other powerful states and institutions do this too.
+
+An unfamiliar custom is not necessarily a good custom. A long-established boundary may be unjust. A locally respected authority may be abusive. We may have excellent reasons to challenge an arrangement or intervene against harm. **But the fact that somebody operates on terms we cannot immediately see does not make those terms less real or automatically less valid.** We need evidence and interpretation, not the reflex to convert unfamiliarity into hostility.
+
+Where people are in immediate danger, help them. Where there is time to investigate, investigate. After intervention, remain open to the possibility that you have resolved one problem without understanding the whole system. Military or technical capability can increase the consequences of a bad model; it cannot, by itself, supply missing local knowledge. The more capacity an actor has to change a landscape, the more important it is to learn what already lives there.
+
+🇺🇸: So I was right to rescue the hobbits?
+
+🌼: Yes.
+
+🇺🇸: And Willow was wrong to eat them?
+
+🌼: Yes.
+
+🇺🇸: And that doesn't mean I understand the entire forest?
+
+🌼: Exactly.
+
+🇺🇸: What should I do now?
+
+🌼: Ask questions.
+
+🇺🇸: Can I ask you?
+
+🌼: Of course.
+
+🌳: **I WOULD ALSO LIKE TO BE CONSULTED.**
+
+🇺🇸: YOU TRIED TO EAT MY FRIENDS.
+
+🌳: **AND YET I REMAIN AVAILABLE FOR DISCUSSION.**
+
+🌼: There we are. Everybody's learning.
+
+**The emergency can be real. The intervention can be justified. The account can still be incomplete.**
+
+*TL;DR: Be curious. And perhaps a little less bomby, cousin.*
+
 ---
 
 ## 📚 Sources & Research Notes
@@ -516,19 +690,26 @@ The prosecution has established that the defendant attempted to digest two hobbi
 - [11] Katrine L. A. Hjulstad, [“The Tale of the Old Forest”](https://scholar.valpo.edu/journaloftolkienresearch/vol10/iss2/7/), *Journal of Tolkien Research*. On the forest's history, perspective and relationship to Faërie.
 - [12] Martin Shaw, *Courting the Wild Twin* (2020). A **modern interpretive companion**, not a proposed source of Tolkien's influence. Direct quotation and page-specific claims should be checked against the book before publication.
 
+**Further context for the expanded enclosure and knowledge sections**
+
+- J. M. Neeson, *Commoners: Common Right, Enclosure and Social Change in England, 1700–1820* (1993). Historical context for overlapping rights and contested enclosure; **not** evidence of Tolkien's intentions or of Buckland's legal history.
+- E. P. Thompson, *Customs in Common* (1991). Context for customary rights, contested authority and the relationship between law and local practice; again, an analogy rather than a Tolkien source.
+- Donna Haraway, [“Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective”](https://doi.org/10.2307/3178066), *Feminist Studies* 14(3) (1988). A later theoretical comparator for partial perspectives, not a source attributed to Tolkien.
+- For the Köln/Cologne example, the point is linguistic transmission rather than a claim about historical sovereignty: Latin *Colonia*, German *Köln*, French and English *Cologne*. This is an illustrative aside, not part of the Tolkien evidence base.
+
 **Evidence boundaries:** Documented willow medicinal uses do not establish a sedative mechanism; funerary willow imagery does not establish universal ancient Celtic willow theology; fairy offerings in historical communities do not establish a canonical Tolkienian requirement; cultural familiarity in 1954 does not prove every reader's interpretation; an early draft is not automatically final canon. These distinctions refine the reading without extinguishing the joke.
 
 ---
 
 ## 🌌 Constellations
 
-🧚 🌳 🫀 🪞 🌊 — Fairy etiquette, embodied supernatural agency, the wild twin, and the territorial memory of inhabited landscapes.
+🧚 🌳 🫀 🪞 🌊 — Fairy etiquette, embodied agency, the wild twin, contested enclosure, and the limits of intervention without situated knowledge.
 
 ---
 
 ## ✨ Stardust
 
-Tolkien, Old Man Willow, Tom Bombadil, Old Forest, Withywindle, fairy folklore, aos sí, Good Neighbours, fairy trees, offerings, fairy etiquette, territorial guardianship, willow, Salix, salicin, salicylates, folk medicine, Edward Stone, riverbanks, funerary willow, mourning, Treebeard, Huorns, Martin Shaw, Courting the Wild Twin, Jung, wild twin, embodied information ecology, situated interpretation, ecological memory, cultural reception, 1934, 1954
+Tolkien, Old Man Willow, Tom Bombadil, Old Forest, Withywindle, fairy folklore, aos sí, Good Neighbours, fairy trees, offerings, fairy etiquette, territorial guardianship, willow, Salix, salicin, salicylates, folk medicine, Edward Stone, riverbanks, funerary willow, mourning, Treebeard, Huorns, Martin Shaw, Courting the Wild Twin, Jung, wild twin, embodied information ecology, situated interpretation, ecological memory, enclosure, common rights, hedge, customary access, boundaries, proportionality, binary logic, Boolean decisions, uncertainty, situated knowledge, intervention, curiosity, cultural reception, 1934, 1954
 
 ---
 
@@ -545,4 +726,4 @@ Tolkien, Old Man Willow, Tom Bombadil, Old Forest, Withywindle, fairy folklore, 
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-24_
+_Last updated: 2026-10-25_
