@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-26 07:46:03 UTC_
+_Generated on 2026-10-26 22:39:12 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2661,6 +2661,7 @@ _Generated on 2026-10-26 07:46:03 UTC_
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/notes.txt)
       - [`🌲_baiting_metsänviha.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🌲_baiting_metsänviha.md)
       - [`📺_firing_squad_ppv.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📺_firing_squad_ppv.md)
+      - [`🚰_utility_bargaining.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🚰_utility_bargaining.md)
       - [`🤖_the_great_plausible_deniability_machine.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🤖_the_great_plausible_deniability_machine.md)
       - [`🧵_bayeux_redux.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🧵_bayeux_redux.md)
       - [`🩸_netenyahus_lmp.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🩸_netenyahus_lmp.md)
