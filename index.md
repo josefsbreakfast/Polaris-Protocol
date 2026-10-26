@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-26 02:13:17 UTC_
+_Generated on 2026-10-26 02:16:18 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2684,6 +2684,7 @@ _Generated on 2026-10-26 02:13:17 UTC_
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/notes.txt)
       - [`☘️_why_come_out_ye_black_and_tans_is_on_a_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/☘️_why_come_out_ye_black_and_tans_is_on_a_loop.md)
+      - [`🌼_friends_of_tom_bombadil.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🧿_The_Observed_Body/🌼_friends_of_tom_bombadil.md)
     - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/README.md)
     - [`llm_wheretogo.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/llm_wheretogo.txt)
     - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/notes.txt)
