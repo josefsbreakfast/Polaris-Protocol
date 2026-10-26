@@ -1,5 +1,5 @@
 # 🪲 Mother Is Dealing With All The Bugs
-**First created:** 2026-10-25 | **Last updated:** 2026-10-25  
+**First created:** 2026-10-25 | **Last updated:** 2026-10-26  
 *Robert, we're not accusing you of leaving sugar everywhere. We would like somebody qualified to examine the cupboard.*
 
 ---
@@ -374,11 +374,11 @@ Mother would simply like everyone to stop treating the second task as an optiona
 
 **Publication status:** Analytical draft. The linked items below are starting points for source checking, not a claim that a complete BBC audit has been performed. BBC article access and indexing were inconsistent in the drafting search. Claims about specific alleged operations, defendants, institutional responses and numerical totals must be checked against the underlying reporting and primary documents before promotion to a definitive incident ledger.
 
-- [BBC News: UK response to alleged Chinese spying and recruitment warnings](https://feeds.bbci.co.uk/news/articles/c4gpnz05kr8o) — *article lead from earlier research; verify text and date*.
+- [BBC News: UK will not tolerate Chinese spying, minister says after MI5 alert](https://www.bbc.co.uk/news/articles/c4gpnz05kr8o) – *updated link.*  
 - [BBC News: Reported approach to an MP's aide](https://www.bbc.com/news/articles/c1k091l2w1yo) — *article lead; verify text and date*.
 - [BBC News: Reported academic research-funding concerns](https://www.bbc.com/news/articles/cwy7zrljp527o) — *article lead; verify claims, attribution and institutional responses*.
 - [BBC News: Reported university partnership review](https://www.bbc.com/news/articles/c65yn877dkk0o) — *article lead; verify follow-up*.
-- [UK Parliament: Chinese state threat activities in the UK](https://commonslibrary.parliament.uk/research-briefings/cbp-10417/) — *background briefing; check version and date*.
+- [UK Parliament: Chinese state threat activities in the UK](https://researchbriefings.files.parliament.uk/documents/CBP-10417/CBP-10417.pdf) – *updated link.*  
 - [UK Parliament: Joint Committee on the National Security Strategy publications](https://committees.parliament.uk/committee/111/joint-committee-on-the-national-security-strategy/publications/) — *official oversight source; identify exact relevant report*.
 - [BBC World Service: China and the UK — After the golden era](https://wspartners.bbc.com/schedules/bbc_world_service_core/week/2026-10-19) — *broadcast context, not an incident record*.
 
@@ -418,4 +418,4 @@ observation becomes intervention, cybernetics, counterintelligence, Chinese espi
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-25_
+_Last updated: 2026-10-26_
