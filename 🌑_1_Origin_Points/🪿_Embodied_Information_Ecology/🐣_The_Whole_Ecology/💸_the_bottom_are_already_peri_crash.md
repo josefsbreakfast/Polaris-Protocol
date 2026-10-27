@@ -1,3 +1,7 @@
+lots of difficulties with commits and generating, so to cont.  
+
+tldr: when we discuss taxing wealth, we are discussing entirely different time pressures; the middle class and below have been functionally in a crash for years, and idk man I just thought yall didn’t want uprisings. personally i would prefer less risk of non-egalitarian success in such, so im team “I would rather prefer not”.  
+
 # 💸 The Bottom Are Already Peri-Crash
 **First created:** 2026-10-27 | **Last updated:** 2026-10-27  
 *How households across the income distribution can experience prolonged functional economic breakdown while national indicators continue to describe an operating economy.*
