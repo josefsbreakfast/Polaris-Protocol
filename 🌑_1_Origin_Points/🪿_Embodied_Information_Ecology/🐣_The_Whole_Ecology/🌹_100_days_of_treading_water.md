@@ -1,5 +1,5 @@
 # 🌹 100 Days of Treading Water
-**First created:** 2026-10-21 | **Last updated:** 2026-10-21  
+**First created:** 2026-10-21 | **Last updated:** 2026-10-27  
 *We changed the Prime Minister. Which of the problems that made the change necessary have we actually fixed?*
 
 ---
@@ -307,7 +307,11 @@ The screenshot of WPQ 20754 is an **author-supplied snapshot**, not a live parli
 
 ## 🌌 Constellations
 
-🪿 🏛️ 🌹 🛰️ 🗂️ — Leadership replacement, information routing, political influence, parliamentary accountability and institutional feedback.
+🪿 🏛️ 🌹 🛰️ 🗂️ — Leadership replacement, information routing, political influence, parliamentary accountability and institutional feedback.  
+
+*Follow the media:*  
+
+- [📰: The Guardian: “How has Andy Burnham used his first 100 days in power?”](https://www.theguardian.com/politics/2026/oct/27/how-has-andy-burnham-used-his-first-100-days-in-power) – *”From ‘everyday fixes’, party management and communications to long-term plans for care and pensions, the PM’s six key acts so far”*  
 
 ---
 
@@ -335,4 +339,4 @@ first hundred days, Starmer, Mandelson, Epstein disclosures, Humble Address, Cab
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-21_
+_Last updated: 2026-10-27_
