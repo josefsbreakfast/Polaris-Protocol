@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-27 12:52:39 UTC_
+_Generated on 2026-10-27 14:41:59 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1552,6 +1552,7 @@ _Generated on 2026-10-27 12:52:39 UTC_
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/notes.txt)
       - [`✉️_no_one_writes_letters_like_they_used_to.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/✉️_no_one_writes_letters_like_they_used_to.md)
       - [`➰_horror_in_the_loop.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/➰_horror_in_the_loop.md)
+      - [`🌹_burnham_brecht.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🌹_burnham_brecht.md)
       - [`🌹🫏_repeating_2024_dems_shortsightedness.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🌹🫏_repeating_2024_dems_shortsightedness.md)
       - [`🚀_nationalise_lady_catherine_and_her_rockets_already.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🚀_nationalise_lady_catherine_and_her_rockets_already.md)
       - [`🧵_community_vulnerability_and_early_canaries.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🧿_Observation_Becomes_Intervention/🧵_community_vulnerability_and_early_canaries.md)
