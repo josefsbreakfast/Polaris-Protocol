@@ -1,5 +1,22 @@
+<!--
+To add:  
+
+Re use of sound in folk magic:  
+
+a. silence;  
+b. vocally produced as speech;  
+c. vocally produced as song;  
+d. tool-assisted as tones without melody;  
+e. tool-assisted as tones with melody.  
+
+Examples vary across settings and cultures with reoccurring motifs; area is not clearly explored within literature but some related pieces of interest re neuroscience and potential mechanisms as result of documenting pathophysiology of illness and injury in perception and processing of sound.  
+
+Some (rather adventurous) claims re brain wave typing; absence of conclusive evidence and high resource bar to explore null hypothesis with sufficient reproducibility, ideal imaging uses finite medical gas, best preserved for exploration of higher yield target pathhophys research. (Look someone would do it given the thought, let's save the He2+.)   
+
+--> 
+
 # 🌼 Friends of Tom Bombadil
-**First created:** 2026-10-26 | **Last updated:** 2026-10-26  
+**First created:** 2026-10-26 | **Last updated:** 2026-10-28  
 *On cunning folk, protective magic, ecological competence, and the terrible institutional implications of a man who minds his own business.*
 
 ---
@@ -595,4 +612,4 @@ Tom Bombadil, Goldberry, Barrow-wight, Council of Elrond, Old Man Willow, Old Fo
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-26_
+_Last updated: 2026-10-28_
