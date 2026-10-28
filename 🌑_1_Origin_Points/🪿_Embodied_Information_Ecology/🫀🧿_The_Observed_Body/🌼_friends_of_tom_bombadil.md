@@ -13,6 +13,8 @@ Examples vary across settings and cultures with reoccurring motifs; area is not 
 
 Some (rather adventurous) claims re brain wave typing; absence of conclusive evidence and high resource bar to explore null hypothesis with sufficient reproducibility, ideal imaging uses finite medical gas, best preserved for exploration of higher yield target pathhophys research. (Look someone would do it given the thought, let's save the He2+.)   
 
+These and wards have a few decent books out, subject to "I do be from STEM tho and I like p values innit". There are many similarities with practices in organised religion and in secularised meditative and trance practices. May assist to discuss cf with each in separate node. A lot of this is also what music does to the human brain and why we like it, in general.  
+
 --> 
 
 # 🌼 Friends of Tom Bombadil
