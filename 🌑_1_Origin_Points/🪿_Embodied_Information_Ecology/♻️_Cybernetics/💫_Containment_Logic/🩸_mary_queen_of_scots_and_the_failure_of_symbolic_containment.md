@@ -1,13 +1,13 @@
-# 🩸 Mary, Queen of Scots and the Failure of Symbolic Containment  
-**First created:** 2026-05-08 | **Last updated:** 2026-08-14  
+## 🩸 Mary, Queen of Scots and the Failure of Symbolic Containment  
+**First created:** 2026-05-08 | **Last updated:** 2026-10-28  
 *Why Mary, Queen of Scots could not be safely neutralised through imprisonment alone, and how rival sovereign symbols often remain politically dangerous even when physically contained.*  
 
 ---
 
-# 🛰️ Orientation  
+## 🛰️ Orientation  
 
 This node examines the political problem represented by
-[Mary, Queen of Scots](chatgpt://generic-entity?number=0):
+Mary, Queen of Scots:
 
 > some figures remain dangerous even when physically contained because their symbolic legitimacy continues operating independently of formal power.
 
@@ -50,7 +50,7 @@ This node therefore studies:
 
 ---
 
-# 👑 I. Mary Was More Than A Person  
+## 👑 I. Mary Was More Than A Person  
 
 Mary functioned simultaneously as:
 - monarch,
@@ -63,6 +63,8 @@ Mary functioned simultaneously as:
 This meant:
 > her political significance could not be reduced to her personal freedom alone.
 
+Mary was **a deposed queen of Scotland after 1567**, not a reigning co-sovereign of England. Her hereditary claim and the interpretations placed on it varied by religion, dynasty and political allegiance.
+
 Even imprisoned,
 she continued functioning symbolically.
 
@@ -74,7 +76,7 @@ People could still:
 
 ---
 
-# ⚖️ II. Rival Sovereigns Create Legitimacy Instability  
+## ⚖️ II. Rival Sovereigns Create Legitimacy Instability  
 
 Hereditary monarchy struggles profoundly with:
 - overlapping legitimacy claims.
@@ -95,11 +97,11 @@ The issue was not merely:
 - or diplomacy.
 
 The issue was:
-> two women simultaneously carrying plausible sovereign legitimacy within overlapping political worlds.
+> a reigning English queen faced a deposed Scottish queen whose dynastic claim could be invoked by factions hostile to Elizabeth’s settlement. That does **not** make them joint occupants of the English throne.
 
 ---
 
-# 🩸 III. Imprisonment Did Not Resolve The Symbolic Threat  
+## 🩸 III. Imprisonment Did Not Resolve The Symbolic Threat  
 
 Physical containment restricted:
 - movement,
@@ -122,7 +124,7 @@ There was:
 
 ---
 
-# 💫 IV. Symbolic Containment Often Fails  
+## 💫 IV. Symbolic Containment Often Fails  
 
 States frequently assume:
 - physical restriction neutralises political danger.
@@ -147,10 +149,10 @@ but in:
 
 ---
 
-# 🌹 V. Female Sovereignty Intensified The Crisis  
+## 🌹 V. Female Sovereignty Intensified The Crisis  
 
 Mary and
-[Elizabeth I](chatgpt://generic-entity?number=1)
+Elizabeth I
 created a uniquely destabilising political arrangement.
 
 Both women embodied:
@@ -159,8 +161,7 @@ Both women embodied:
 - legitimacy,
 - and symbolic nationhood simultaneously.
 
-But patriarchal political systems lacked stable frameworks for:
-- competing female sovereign legitimacy.
+Patriarchal political expectations shaped perceptions of both queens, while dynastic claims, confessional division, factional interests and security fears also mattered. The gender argument is an **interpretation to be tested**, not a complete explanation.
 
 This intensified:
 - emotional projection,
@@ -176,7 +177,7 @@ The conflict therefore became:
 
 ---
 
-# 🕯️ VI. Elizabeth Could Not Fully Resolve Mary’s Existence  
+## 🕯️ VI. Elizabeth Could Not Fully Resolve Mary’s Existence  
 
 Elizabeth’s government repeatedly attempted:
 - delay,
@@ -193,12 +194,11 @@ As long as she remained alive:
 - Catholic opposition retained a focal point,
 - and alternative sovereign imagination survived.
 
-The containment architecture therefore gradually became:
-- unsustainable.
+The captivity created persistent political and security dilemmas; its ultimate outcome was shaped by specific plots, intelligence, trials and ministerial choices—not merely by an inevitable collapse of symbolic containment.
 
 ---
 
-# ⚔️ VII. Execution Solved One Problem And Created Another  
+## ⚔️ VII. Execution Solved One Problem And Created Another  
 
 Mary’s execution removed:
 - the living rival claimant.
@@ -219,7 +219,7 @@ for:
 
 ---
 
-# 🎭 VIII. Mary Became Gothic Political Memory  
+## 🎭 VIII. Mary Became Gothic Political Memory  
 
 Over time Mary transformed culturally into:
 - romance,
@@ -239,7 +239,7 @@ She became:
 
 ---
 
-# 🪞 IX. Containment Fails When The System Cannot Resolve The Underlying Contradiction  
+## 🪞 IX. Containment Fails When The System Cannot Resolve The Underlying Contradiction  
 
 Mary represented contradictions the political system could not fully reconcile:
 - female sovereignty,
@@ -258,7 +258,7 @@ It was:
 
 ---
 
-# 🧠 X. Symbolic Containment Is One Of Governance’s Hardest Problems  
+## 🧠 X. Symbolic Containment Is One Of Governance’s Hardest Problems  
 
 Mary, Queen of Scots demonstrates a broader governance principle:
 
@@ -289,6 +289,26 @@ This is why symbolic containment repeatedly becomes unstable across:
 
 ---
 
+## 📚 Chronology and Interpretive Limits
+
+- **1567:** Mary was forced to abdicate the Scottish throne after political crisis and imprisonment in Scotland.
+- **1568:** After escape and military defeat, she entered England and came under Elizabeth I's custody.
+- **1568–1587:** Mary's English captivity restricted her agency while her dynastic position continued to attract political and religious interest.
+- **1586:** The Babington Plot and intercepted correspondence contributed to Mary's trial and conviction; the evidence, its interpretation and Elizabeth's handling remain subjects of historical analysis.
+- **8 February 1587:** Mary was executed at Fotheringhay Castle. The afterlife of her image is not evidence that captivity achieved nothing: it did curtail direct action while failing to erase symbolic significance.
+
+This is a **historically grounded interpretive analogy**, not evidence of a universal law that imprisoning a symbolic figure always strengthens them. Distinguish the actions and interests of Mary, Elizabeth, councillors, Catholic supporters and later storytellers. Elizabeth's hesitation can reflect law, dynasty, reputation, religious conflict and political calculation; an exclusively psychological motive would overstate the record.
+
+### Historical sources
+
+- [National Museums Scotland: Life and deathline of Mary, Queen of Scots](https://www.nms.ac.uk/discover-catalogue/life-and-deathline-of-mary-queen-of-scots)
+- [English Heritage: Mary, Queen of Scots at Carlisle Castle](https://www.english-heritage.org.uk/visit/places/carlisle-castle/history/mary-queen-of-scots/)
+- [Historic Royal Palaces: Elizabeth I](https://www.hrp.org.uk/hampton-court-palace/history-and-stories/elizabeth-i/)
+
+**Comparative test:** when applying this model beyond Tudor politics, show independent evidence for (1) embodied legitimacy, (2) constraints on agency, (3) continued mobilisation and (4) changing symbolism. A compelling analogy is not causal proof.
+
+---
+
 ## 🌌 Constellations  
 🩸 👑 💫 ⚖️ 🌹 — symbolic containment; rival sovereignty; dynastic legitimacy; queenship; emotional governance.  
 
@@ -312,4 +332,4 @@ It examines why Mary, Queen of Scots remained politically dangerous even while i
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-10-28_

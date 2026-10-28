@@ -1,5 +1,5 @@
 # 🩺 Governing Doctors in the UK  
-**First created:** 2025-10-26 | **Last updated:** 2026-08-14  
+**First created:** 2025-10-26 | **Last updated:** 2026-10-28  
 *Mapping the statutory, professional, and covert architectures that regulate medical authority in Britain.*  
 
 ---
@@ -15,9 +15,9 @@ Explores how moral, political, and algorithmic oversight reshape professional ju
 
 - **Statutory frame:** Medical Act 1983, Health and Social Care Act 2008, and revalidation cycles.  
 - **Regulators:** GMC → licensing + fitness-to-practise; CQC → institutional compliance.  
-- **Ministerial chains:** DHSC → policy direction + legislative remit; NHS England → commissioning + discipline.  
+- **Institutional responsibilities:** DHSC shapes England health policy; NHS England has national NHS functions in England, while employment discipline is generally a provider/employer matter and professional regulation remains with the GMC. **UK nations differ.**  
 - **Insurance and liability:** indemnity providers as silent governors of behaviour.  
-- **Prevent + Safeguarding extensions:** security and moral policing within care sectors.  
+- **Prevent and safeguarding:** separately authorised duties and processes that can create tensions with confidentiality and trust; specific misuse requires evidence rather than assumption.  
 - **AI and data governance:** electronic health records, algorithmic triage, and “clinical safety officers” as new gatekeepers.  
 
 ---
@@ -55,14 +55,14 @@ Whistleblowing, coroners, and the disappearing line between clinical risk and re
 
 ### V. Post-Shipman Reforms (Early 2000s)  
 
-The 2000 **Shipman Inquiry** exposed catastrophic failures of self-regulation and oversight in British medicine.  
+The **Shipman Inquiry (established 2001)** exposed catastrophic failures of self-regulation and oversight in British medicine.  
 The **General Medical Council (GMC)** was accused of operating as a “cosy club,” protective of doctors rather than the public.  
 Reforms followed:  
 
 - Lay (non-doctor) representation on disciplinary committees rose from <⅓ to 50 %.  
 - Two independent reviews identified bottlenecks and transparency failures.  
 - The Chief Medical Officer (Sir Liam Donaldson) recommended separating investigation and adjudication.  
-- The **Shipman Inquiry Fifth Report (2004)** demanded patient refusal rights and tighter fitness-to-practise standards.  
+- The **Shipman Inquiry Fifth Report (2004)** examined the regulation of doctors; specific recommendations and the reforms ultimately enacted must be cited separately.  
 
 These measures re-centred public protection and lay oversight, permanently altering the balance between professional autonomy and accountability.  
 
@@ -70,7 +70,7 @@ These measures re-centred public protection and lay oversight, permanently alter
 
 ### VI. Post-Wakefield / Bristol Reforms (Mid-2000s – 2010s)  
 
-The **Wakefield (MMR)** and **Bristol paediatric cardiac** scandals highlighted failures in managing poorly performing doctors.  
+The **Wakefield MMR controversy** and **Bristol paediatric cardiac surgery failures** were distinct events with different histories and regulatory lessons; they should not be presented as a single reform programme.  
 Responses included:  
 
 - Creation of a working party on poor performance.  
@@ -101,12 +101,12 @@ This decade completed the shift to managerialised medical governance: data dashb
 | **2005 – 2008** | Wakefield MMR + Bristol paediatric cardiac failures | Working party on poor performance; CHI collaboration | Introduced clinical governance frameworks across NHS |  
 | **2008** | Health and Social Care Act 2008 → creation of CQC | Institutional inspection and enforcement added to individual regulation | CQC becomes external check on clinical governance |  
 | **2010** | Merger with PMETB | Unified regulation of medical education and practice | Lifecycle oversight model adopted |  
-| **2012** | Revalidation introduced | Five-year cycle of performance review for all doctors | Embedded continuous surveillance as quality assurance |  
+| **2012** | Revalidation began to be introduced | Typically five-year GMC revalidation for licensed doctors, with different training arrangements | Embedded continuous surveillance as quality assurance |  
 | **2013 – 2017** | Governance restructure (Strategy & Policy / Performance & Resources Boards) | Managerial decision-making centralised | Board model aligned with corporate governance norms |  
 | **2016** | Professional Standards Authority audit cycle tightened | Cross-regulator comparative reporting | Raised expectations for fitness-to-practise transparency |  
 | **2018 – 2020** | Digital governance initiatives (Clinical Safety Officer role; data registries) | Algorithmic risk auditing within health IT | Shift toward predictive compliance models |  
 | **2020 – 2022** | COVID-19 pandemic response | Emergency licensing and tele-supervision policies | Expanded DHSC control over workforce mobilisation |  
-| **2023 – 2025** | AI triage and data-governance reforms | Emerging “clinical safety AI” certification layer | Blurring of technical and ethical accountability lines |  
+| **2023 – 2025** | AI triage and data-governance developments | Technology assurance and clinical safety obligations require product- and setting-specific identification | Blurring of technical and ethical accountability lines |  
 
 *Table compiled from Parliamentary records, GMC annual reports, and public inquiries (1998–2025).*
 
@@ -114,6 +114,25 @@ This decade completed the shift to managerialised medical governance: data dashb
 
 ### IX. Reclaiming Professional Sovereignty  
 Toward plural oversight and survivor-informed ethics of care.  
+
+---
+
+## 🧭 Governance Map — Which Institution Does What?
+
+**This is not one national chain of command.** Medical registration and licensing are UK-wide GMC functions, but healthcare commissioning, service inspection, employment, NHS governance and safeguarding diverge across England, Scotland, Wales and Northern Ireland. In England, CQC assesses regulated services; this is not a substitute for individual professional fitness-to-practise decisions. Provider employers operate distinct HR and clinical governance processes, and courts and tribunals can assess specific legal disputes.
+
+**Timeline hygiene:** Bristol, Shipman and Wakefield were **different inquiries and controversies**. Separate the dates of an incident, report, legislative change and operational rollout. Do not treat all organisational restructures, panel reforms or digital assurances in the source timeline as verified without identifying the instrument and primary source.
+
+**Data/AI governance:** clinical safety standards, data-protection obligations, medical-device regulation, professional duties and procurement assurance are overlapping but non-identical. A digital triage product does not become an instrument of Prevent or covert oversight merely because a clinical organisation also has statutory safeguarding or Prevent responsibilities. Trace the actual data flow, legal basis, decision owner and downstream use.
+
+### Sources and verification queue
+
+- [Medical Act 1983](https://www.legislation.gov.uk/ukpga/1983/54/contents)
+- [GMC: When and how a revalidation recommendation is made](https://www.gmc-uk.org/registration-and-licensing/managing-your-registration/revalidation/guidance-for-doctors-requirements-for-revalidation/when-and-how-the-revalidation-recommendation-is-made)
+- [CQC: About us](https://www.cqc.org.uk/about-us)
+- [Professional Standards Authority](https://www.professionalstandards.org.uk/)
+
+**Outstanding source checks:** numerical lay representation claim; Shipman Fifth Report recommendations; CHI/Wakefield sequencing; 2013–2017 GMC board descriptions; 2016 PSA claim; digital/AI chronology; current post-2025 organisational changes. Historic table entries remain **provisional research notes** until matched to primary evidence.
 
 ---
 
@@ -140,4 +159,4 @@ It documents how professional medicine is governed through interlocking legal, b
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-10-28_

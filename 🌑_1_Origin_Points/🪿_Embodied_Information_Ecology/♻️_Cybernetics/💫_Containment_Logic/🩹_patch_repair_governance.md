@@ -1,5 +1,5 @@
 # 🩹 Patch Repair Governance  
-**First created:** 2025-09-25 | **Last updated:** 2026-08-14  
+**First created:** 2025-09-25 | **Last updated:** 2026-10-28  
 *Containment systems as stitched patchwork — holes covered until pressure elsewhere forces old rot to reopen.*  
 
 ---
@@ -9,9 +9,9 @@
 - **Stretched Coverage**  
   Systems survive not through solidity but through distributed patching.  
 - **Patch-Reopen Cycle**  
-  When one breach is covered explicitly, older “repairs” split back open.  
+  Repairing one breach **may expose** dependencies, unresolved defects or new pressure elsewhere; that outcome should be tested rather than assumed.  
 - **Semi-Rot as Structure**  
-  Weakness is embedded: the whole holds only so long as pressure is not evenly applied.  
+  Some patch-dependent systems retain structural weaknesses; a durable fix must be distinguished from a temporary control by testing performance under changed conditions.  
 
 ---
 
@@ -28,6 +28,34 @@
 - Sense of chasing a moving target: one repair always reopens another.  
 - Exhaustion from never receiving whole repair, only surface patches.  
 - Clearer sight of systemic rot when containment is forced to stretch thin.  
+
+---
+
+## 🔬 How to Test a Patch-Reopen Claim
+
+**Patch repair governance is a systems metaphor**, not a finding that every institutional fix is fraudulent. For each proposed case, record the original defect, intervention, intended outcome, responsible owner, affected components, deployment date, monitoring plan and actual outcomes. The key question is whether the patch merely moved failure elsewhere **or** genuinely reduced risk.
+
+| Diagnostic question | Evidence to look for |
+|---|---|
+| Did the repair work for its stated purpose? | Before/after measures and affected-person outcomes |
+| Did another failure emerge? | Incident timeline, dependency map, logs |
+| Was the new failure caused by the repair? | Change-control evidence, alternative causes, comparison cases |
+| Was there whole-system accountability? | Named owner, budget, rollback and remedy route |
+| Is the fix durable? | Regression testing, ongoing maintenance and independent review |
+
+A new defect appearing after a change is not enough to prove causation. A patched system can be responsibly managed; the governance failure occurs when workarounds become permanent without honest ownership, monitoring or a pathway to structural repair.
+
+**Survivor-side safeguard:** don't force an affected person to repeatedly retell the same harm just because the institution has split the repair across teams. Preserve continuity of the complaint and give a single accountable point of contact.
+
+---
+
+## 🌌 Constellations
+🩹 🧀 🧟‍♀️ ⚖️ — failure propagation, patch-dependent design, repair and oversight.
+
+---
+
+## ✨ Stardust
+patch repair governance, containment, technical debt, systemic repair, fault propagation, accountability, change control, survivor burden
 
 ---
 
@@ -53,4 +81,4 @@ It records how systemic containment functions like a rotten hull stitched with p
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-10-28_

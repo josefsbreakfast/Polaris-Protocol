@@ -1,5 +1,5 @@
 # 🪞 Ethical Censorship Continuum  
-**First created:** 2025-11-01 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-01 | **Last updated:** 2026-10-28  
 *Mapping the moral terrain between concealment for protection and concealment for power.*  
 
 ---
@@ -19,12 +19,12 @@ how truth is handled when institutions claim to act in our best interest.
 
 | Philosopher | Principle | Position on Concealment | Modern Resonance |
 |--------------|------------|------------------------|------------------|
-| **Thomas Hobbes** | Stability through authority | Truth is secondary to order; censorship as structural necessity. | Wartime information control, emergency secrecy. |
-| **Immanuel Kant** | Duty and universality | Lying undermines the moral law; truth is an absolute duty. | Human-rights frameworks, whistleblower ethics. |
-| **Jeremy Bentham** | Consequentialism | Concealment justified if it prevents greater harm. | Public-interest tests, national-security exemptions. |
+| **Thomas Hobbes** | Stability through authority | A simplified reading prioritising public order and sovereign authority; **not** a general endorsement of censorship in every circumstance. | Wartime information control, emergency secrecy. |
+| **Immanuel Kant** | Duty and universality | A demanding duty of truthfulness; application to privacy, withholding and disclosure requires separate analysis. | Human-rights frameworks, whistleblower ethics. |
+| **Jeremy Bentham** | Consequentialism | Consequences matter, but costs, evidence and affected interests must be evaluated rather than assuming a beneficial outcome. | Public-interest tests, national-security exemptions. |
 | **Polaris Extension** | Accountability after delay | Concealment tolerated only if fully logged and time-limited. | Survivor voice fidelity; delayed disclosure with audit trail. |
 
-Each stance is defensible in context, catastrophic in excess.
+These are **interpretive sketches**, not direct quotations or complete accounts of any philosopher’s position.
 
 ---
 
@@ -67,9 +67,9 @@ Once moral hygiene becomes brand management, truth is already rationed.
 
 ## 🐦‍🔥 Survivor Voice Fidelity — Restorative Disclosure  
 
-Polaris adds a post-crisis clause: every concealment must carry its own **declassification mechanism**.  
+Polaris adds a post-crisis clause: every **institutionally imposed and reviewable restriction** should carry an accountable reconsideration mechanism. Private information, legally protected identities and consent-based confidences need not become public simply because time passes.  
 If the justification was safety, transparency must follow when safety is restored.  
-Every hidden truth deserves a re-entry plan — the ethical equivalent of repatriation.
+Every restriction imposed in the name of public protection deserves a review plan; eventual disclosure must still respect consent, safety, privacy and statutory protections.
 
 ---
 
@@ -92,10 +92,20 @@ Without the audit stage, the loop collapses into authoritarian inertia.
 
 ## 🪬 Reflection — The Emotional Logic of Withholding  
 
-Every act of censorship is also an act of care in disguise.  
+Some censorship is defended as an act of care; other restrictions are openly about authority, competitive advantage or coercion.  
 Officials convince themselves they are sparing someone — the public, a victim, a reputation — from harm.  
 That conviction, even when sincere, breeds blindness: the sense that silence is the same as kindness.  
 Polaris argues the opposite: silence is ethical only if it carries a built-in method for its own reversal.
+
+---
+
+## 🧭 Proportionality and Review Test
+
+This continuum is a **normative model**, not a claim that all secrecy can be ranked on one universal scale. Distinguish privacy, confidentiality, evidential preservation, operational security, moderation, and suppression of public-interest criticism; they carry different legal duties and interests.
+
+A defensible institutional restriction should record: **lawful authority**, specific anticipated harm, necessity, less restrictive alternatives, whose speech or data is affected, accountable decision-maker, review date, independent challenge route, and conditions for safe partial or full disclosure. A restriction may remain justified for as long as a concrete risk persists; automatic publication can itself harm survivors.
+
+**Disconfirmation:** a limitation supported by independent review, a narrow scope and demonstrable protection should not be categorised as authoritarian erasure merely because information remains unavailable.
 
 ---
 
@@ -124,4 +134,6 @@ ethical censorship, concealment continuum, survivor voice fidelity, hobbes kant 
 
 *Silence without expiry is not ethics; it’s inertia disguised as care.*
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-10-28_
+
+*Survivor authorship is sovereign. Containment is never neutral.*
