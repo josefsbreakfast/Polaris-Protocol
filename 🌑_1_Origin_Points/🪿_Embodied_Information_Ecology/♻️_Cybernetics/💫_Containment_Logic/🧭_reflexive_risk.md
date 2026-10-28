@@ -1,5 +1,5 @@
 # 🧭 Reflexive Risk  
-**First created:** 2025-10-20 | **Last updated:** 2026-09-12  
+**First created:** 2025-10-20 | **Last updated:** 2026-10-28  
 *When systems recognise consequential descriptions of themselves and treat introspection as destabilising.*
 
 ---
@@ -267,6 +267,12 @@ The mature opposite of reflexive risk is not institutional passivity. It is **di
 
 ---
 
+## 🧾 Diagnostic boundary
+
+Reflexive risk remains a **testable Polaris synthesis**, not a finding of coordinated suppression. A contemporaneous institutional record, differential treatment or documented decision pathway is stronger evidence than timing or tonal similarity alone. Legitimate privacy, safety and security restrictions remain possible competing explanations.
+
+---
+
 ## 🌌 Constellations  
 
 🧿 👑 🧠 ⚖️ 🌀 — feedback containment; custody of self-knowledge; escalation vacuums; institutional autoimmunity; mandate misfit.
@@ -281,7 +287,7 @@ reflexive risk, institutional self-defence, feedback suppression, escalation vac
 
 ## 🏮 Footer  
 
-*🧭 Reflexive Risk* is a living node of **Ownership & Control**, within the **Polaris Protocol**. It examines the moment when institutions recognise themselves in critique and begin responding defensively.
+*🧭 Reflexive Risk* is a living node of **Containment Logic**, within the **Polaris Protocol**. It examines the moment when institutions recognise themselves in critique and begin responding defensively.
 
 It maps the governance dynamics that can emerge when structural self-description collides with continuity pressures, reputational management, and fragmented accountability.
 
@@ -296,7 +302,7 @@ It maps the governance dynamics that can emerge when structural self-description
 >   
 > 🏮 Return To:
 >
-> - [👑 Ownership & Control](./README.md) — *1up*
+> - [💫 Containment Logic](./README.md) — *1up*
 > - [♻️ Cybernetics](../README.md) — *2up*
 > - [🪿 Embodied Information Ecology](../../README.md) — *3up*
 > - [🌑 Origin Points](../../../README.md) — *4up*
@@ -304,4 +310,4 @@ It maps the governance dynamics that can emerge when structural self-description
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-09-12_
+_Last updated: 2026-10-28_

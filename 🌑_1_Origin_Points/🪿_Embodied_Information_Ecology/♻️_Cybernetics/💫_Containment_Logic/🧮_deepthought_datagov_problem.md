@@ -1,6 +1,6 @@
 # 🧮 DeepThought DataGov Problem
 
-**First created:** 2025-11-03 | **Last updated:** 2026-08-24  
+**First created:** 2025-11-03 | **Last updated:** 2026-10-28  
 *What happens when institutions build enormously powerful systems, receive authoritative answers and discover they never agreed what question they were asking.*
 
 ---
@@ -509,6 +509,12 @@ It is less institutional self-delusion.
 
 ---
 
+## 🧾 Governance verification note
+
+The DeepThought narrative is a literary analogy, not evidence of how any named public authority operates. The listed failure modes are diagnostic questions; establishing them in a real system requires procurement records, decision logs, statutory duties, impact assessments and affected-person evidence. The existing distinction between correlation and causation is retained.
+
+---
+
 ## 🌌 Constellations
 
 🧮 🔮 🕰️ 💸 ⚖️ — predictive ambition, historical surveillance, computational purpose, human costs and accountable governance.
@@ -538,6 +544,14 @@ It follows *🔮 The Great Divination Machine*, moving from the appeal of predic
 > - [⚖️ Legal Disentanglement and Risk Perception](./⚖️_legal_disentanglement_and_risk_perception.md) — *why responsibility, evidential status and correction cannot be outsourced to infrastructure.*
 > - [💸 Containment Economics](./💸_containment_economics.md) — *how institutions externalise the costs of systems whose benefits are described more confidently than their harms.*
 
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-24_
+_Last updated: 2026-10-28_

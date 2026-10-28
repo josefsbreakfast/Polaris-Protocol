@@ -1,6 +1,6 @@
 # 🧭 Regulating the Regulators — Oversight of Oversight
 
-**First created:** 2025-10-23 | **Last updated:** 2026-08-23  
+**First created:** 2025-10-23 | **Last updated:** 2026-10-28  
 *Who reviews the institutions responsible for accountability, and what happens when supervision becomes fragmented, dependent or unable to examine the evidence beneath a regulatory decision.*
 
 ---
@@ -1005,6 +1005,12 @@ The public remains the only participant unable to see who is doing the watching.
 
 ---
 
+## 🧾 Jurisdiction and source-maintenance note
+
+The oversight table is a general UK orientation, not a universal jurisdiction chart. Powers, exclusions, referral rules and remedies differ by regulator and may change. Before applying this diagnostic to a particular complaint, check the relevant statute, current scheme rules, time limits and appeal route. The linked parliamentary and institutional sources should be rechecked against their current versions.
+
+---
+
 ## 🌌 Constellations
 
 🧭 🧀 🔬 ⚖️ 🕸️ — meta-oversight, regulatory independence, accountability, recursive review and cross-system responsibility.
@@ -1032,6 +1038,14 @@ It examines how regulators remain independent without becoming immune from scrut
 > - [⚖️ Operational Dilemma: Fix It vs Chain of Command](./⚖️_operational_dilemma_fixit_vs_chain_of_command.md) — *the next operational problem: what should happen when a failure is recognised but authority and responsibility remain divided.*
 > - [🐼 Due Diligence and Operational Capacity in Policing](./🐼_due_diligence_and_operational_capacity_in_policing.md) — *how oversight depends on the quality of operational records, professional capacity and the ability to escalate concerns safely.*
 
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-08-23_
+_Last updated: 2026-10-28_

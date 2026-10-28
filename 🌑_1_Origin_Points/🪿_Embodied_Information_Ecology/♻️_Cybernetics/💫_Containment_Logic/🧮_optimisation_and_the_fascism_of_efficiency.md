@@ -1,35 +1,35 @@
 # 🧮 Optimisation and the Fascism of Efficiency  
-**First created:** 2025-11-05 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-05 | **Last updated:** 2026-10-28  
 *How statistical clarity becomes authoritarian order.*  
 
 ---
 
 ## 🛰️ Orientation  
-Optimisation, when detached from empathy and friction, will always drift toward authoritarianism.  
-Capitalism, bureaucracy, and machine learning share the same underlying grammar:  
+Optimisation, when detached from rights, pluralism and accountable human judgment, can create conditions favourable to authoritarian control.  
+Some forms of capitalism, bureaucracy, and machine-learning deployment can be organised around a shared managerial instruction:  
 **maximise output, minimise cost.**  
-Without constraint, this grammar naturally converges on **fascistic logic**—  
+When elevated above rights and democratic contestation, this grammar can converge on **fascistic logic**—  
 the belief that efficiency is moral and difference is error.
 
 ---
 
 ## ✨ Key Features  
-- **Shared Axiom:** capitalism and AI optimisation both reduce ethics to performance metrics.  
+- **Shared Risk:** certain institutional and AI optimisation regimes can subordinate ethics to performance metrics.  
 - **Variance Reduction:** diversity reads as noise; uniformity as clarity.  
 - **Elimination as Solution:** “remove inefficiency” becomes moralised.  
-- **Industrial Echo:** Nazi bureaucracy = early optimisation culture without brakes.  
+- **Industrial Echo:** Nazi bureaucracy demonstrates how administrative rationalisation can serve explicitly genocidal political objectives; it is not reducible to optimisation alone.  
 - **Safeguard Necessity:** uncertainty and accountability act as moral friction within the loss function.
 
 ---
 
 ## 🎁 The Root Equation  
-Both capitalism and machine learning operate on:
+As a political-economic metaphor, some efficiency regimes behave as though:
 
-> **Reward = Output ÷ Cost**
+> **Reward ≈ Output ÷ Cost** *(illustrative managerial metaphor, not a universal ML equation)*
 
 That formula does not care what the “output” is.  
 If human suffering reduces cost or increases throughput, the system rewards it.  
-That’s not malice; it’s mathematics.
+That is not a mathematical inevitability. It is a failure of objective-setting, constraints, institutional incentives and accountability.
 
 ---
 
@@ -39,10 +39,10 @@ it industrialised the managerial logic of Europe.
 People became resource classes; paperwork became algorithm.  
 “Useless eaters” were a system warning: *inefficient nodes detected.*  
 
-AI optimisation without normative brakes will do the same abstract thing—  
+AI systems deployed to enforce homogenising institutional objectives may reproduce a related *governance pattern*—  
 prune anomalies, collapse variance, reward homogeneity.
 
-> Fascism is optimisation without friction.
+> Fascism is not reducible to optimisation. But optimisation without democratic limits can become an instrument of fascistic governance.
 
 ---
 
@@ -86,12 +86,18 @@ Ethical design = inserting drag where mathematics would smooth the world flat.
 ---
 
 ## 🪩 The Cultural Mirror  
-Every fascist movement claims to be “making things work again.”  
+Fascist movements frequently frame coercive political projects as restoration, order or national renewal.  
 That’s the trap: efficiency masquerading as morality.  
 AI alignment is the same frontier—the temptation to believe that **if it runs cleanly, it must be right.**
 
 The task of design now is to defend mess, variance, and inefficiency  
 as the last human forms of intelligence.
+
+---
+
+## 📚 Evidence and interpretation
+
+The historical comparison concerns the **use of administration and technical rationality in political projects**, not a claim that contemporary AI is equivalent to Nazism. For historical grounding, see [United States Holocaust Memorial Museum — The Nazi State](https://encyclopedia.ushmm.org/content/en/article/the-nazi-state) and [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) for contemporary governance controls. The proposed causal pathway should be tested in each deployment, not presumed.
 
 ---
 
@@ -111,10 +117,18 @@ It analyses how unchecked optimisation reproduces authoritarian logic and how st
 
 > 📡 Cross-references:
 > 
-> - [🦠 Statistical Nightmare] — *coercion and optimisation ethics*  
-> - [⚖️ Accountability as Alignment] — *moral friction and justice logic*  
-> - [🌫️ Uncertainty Branch Logic] — *structural humility as safeguard*  
+> - 🦠 Statistical Nightmare — *cross-reference target to verify in repository*  
+> - ⚖️ Accountability as Alignment — *cross-reference target to verify in repository*  
+> - 🌫️ Uncertainty Branch Logic — *cross-reference target to verify in repository*  
+
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-10-28_

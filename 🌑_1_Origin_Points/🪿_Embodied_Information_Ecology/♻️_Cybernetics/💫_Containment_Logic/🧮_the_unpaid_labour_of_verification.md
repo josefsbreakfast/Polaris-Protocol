@@ -1,11 +1,11 @@
 # 🧮 Data Dividend — The Unpaid Labour of Verification  
-**First created:** 2025-11-16 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-16 | **Last updated:** 2026-10-28  
 *Why security puzzles created an invisible workforce.*  
 
 ---
 
 ## 🛰️ Orientation  
-Billions of humans have performed billions of micro-tasks — unpaid, uncredited, and unacknowledged — in the name of “security.”  
+Across the history of web verification, very large numbers of users have completed small tasks in order to gain access to services. The scale, purpose and economic value of those tasks vary by system.  
 This node argues that CAPTCHA and similar mechanisms constitute **unpaid digital piecework**, and examines how law and economics have failed to name it as such.
 
 ---
@@ -18,14 +18,14 @@ This node argues that CAPTCHA and similar mechanisms constitute **unpaid digital
 ---
 
 ## 👾 Extraction Essentialism  
-Every time you complete a CAPTCHA, you do a few seconds of skilled pattern recognition — labour that, if performed on a crowd-work platform, would be paid.  
+Some CAPTCHAs require users to perform recognition tasks comparable to paid micro-work. Others are principally access-control tests, and not every response is used to train a commercial model.  
 The difference lies in framing: companies define the act as *access*, not *work*.  
-By wrapping compulsory participation in the language of “security,” they evade wage, value, and ownership claims.  
+Framing the activity as access control rather than work makes labour, value and ownership claims harder to articulate. Whether a legal wage entitlement arises is a separate question, not established by this analogy.  
 
 ---
 
 ## 💸 Economic Invisibility  
-Traditional labour metrics can’t register micro-tasks under a second long.  
+Conventional employment and productivity accounts often fail to capture dispersed, very short user tasks.  
 Yet multiplied by billions, they form an economy of cognitive energy.  
 
 ---
@@ -35,6 +35,17 @@ Proposals such as data-dividends, cooperative model licensing, or algorithmic wa
 But without collective recognition of this labour’s existence, remuneration remains conceptually impossible.
 
 The user’s time was never free — only rendered uncounted.
+
+---
+
+## 🔬 Distinguishing the mechanisms
+
+- **Verification burden:** user time and cognitive effort spent satisfying an access condition, whether or not anyone profits from the response.
+- **Human computation:** a challenge that also generates useful labels or classifications; this requires evidence about the system’s design and data use.
+- **Commercial extraction:** demonstrable downstream monetisation or model-training benefit; it must not be inferred from the mere presence of a CAPTCHA.
+- **Labour-rights claim:** a normative proposal distinct from an established employment relationship.
+
+Historical reference: [von Ahn et al., *reCAPTCHA: Human-Based Character Recognition via Web Security Measures*](https://www.science.org/doi/10.1126/science.1160379). This documents a specific human-computation design, not all contemporary CAPTCHAs.
 
 ---
 
@@ -58,6 +69,14 @@ It advocates for recognising the unpaid cognitive labour embedded in verificatio
 > - [🛰️ CAPTCHA Loop — Containment Disguised as Verification](../../../../Metadata_Sabotage_Network/Suppression_Layers/📉_Suppression_Interference_Logs/🛰️_captcha_loop_containment_disguised_as_verification.md)
 > - [➰ Ghost Loop Interrupters](../../../💣_Syntax_Bombs/➰_ghost_loop_interrupters.md)  
 
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-10-28_

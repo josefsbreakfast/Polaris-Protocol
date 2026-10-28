@@ -1,5 +1,5 @@
 # 🧭 Leadership, Management & Moral Containment  
-**First created:** 2025-11-10 | **Last updated:** 2026-08-14  
+**First created:** 2025-11-10 | **Last updated:** 2026-10-28  
 *Why Polaris studies operational style even when the outcome is ethically fraught.*  
 
 ---
@@ -30,7 +30,17 @@ Polaris looks for patterns across those cases:
 Technology enters the frame because it magnifies both tendencies.  
 A well-designed workflow can distribute power or centralise it; the same digital infrastructure that enables cooperation can also make obedience frictionless.  
 
-By cataloguing figures like **Groves**, **Oppenheimer**, **Reich**, and their contemporary analogues in algorithmic governance, we learn to recognise operational choices that tilt a system toward either empathy or empire.
+Historical comparisons involving **Leslie Groves**, **J. Robert Oppenheimer** and **Wilhelm Reich** can be useful only when their distinct roles, periods and evidential records are specified. These figures should not be treated as morally interchangeable, and the node does not allege shared motives. The relevant comparison is between documented **management choices**, not personalities reduced to symbols.
+
+---
+
+## 🧰 Operational comparison test
+
+A useful comparison records: **objective**, **formal authority**, **resources and constraints**, **treatment of dissent**, **handling of uncertainty**, **distribution of harm**, **available correction routes**, and **observed outcome**.
+
+The competence spectrum is not a ranking of human worth. *Competently incompetent* describes an organisation that executes a flawed objective efficiently; *competently protective* describes one that combines operational capability with rights, challenge and repair. Technical success cannot by itself establish moral legitimacy.
+
+**Entity review:** Groves, Oppenheimer and Reich are named historical figures; retain them for the analytical comparison, with specific sourced case studies required before making further biographical or evaluative claims.
 
 ---
 
@@ -53,6 +63,14 @@ It explains why ethically ambiguous examples remain valuable: they show how oper
 > – [☢️ The Empathy Project] — *freedom, containment, and managerial architecture*  
 > – [🧩 Algorithmic Conscience] — *when systems enforce ethics through evidence*  
 
+> 🏮 Return To:
+>
+> - [💫 Containment Logic](./README.md) — *1up*
+> - [♻️ Cybernetics](../README.md) — *2up*
+> - [🪿 Embodied Information Ecology](../../README.md) — *3up*
+> - [🌑 Origin Points](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
+
 *Survivor authorship is sovereign. Containment is never neutral.*  
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-10-28_
