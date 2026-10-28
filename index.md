@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-28 12:02:28 UTC_
+_Generated on 2026-10-28 16:37:35 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2332,6 +2332,7 @@ _Generated on 2026-10-28 12:02:28 UTC_
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/notes.txt)
       - [`🇺🇦_bombing_the_bot_farms.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/🇺🇦_bombing_the_bot_farms.md)
       - [`🎖️_very_modern_major_general.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/🎖️_very_modern_major_general.md)
+      - [`💖_bringing_roman_back.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/💖_bringing_roman_back.md)
       - [`💽_why_swifties_need_to_interrogate_her_art.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/💽_why_swifties_need_to_interrogate_her_art.md)
       - [`🦋_the_untrusted_sex.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/🦋_the_untrusted_sex.md)
       - [`🧵🪡_scouting_power_1066.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🕸️🧿_The_Observed_Information_Space/🧵🪡_scouting_power_1066.md)
