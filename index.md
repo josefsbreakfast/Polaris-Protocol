@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-27 23:00:17 UTC_
+_Generated on 2026-10-28 03:32:21 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2654,6 +2654,7 @@ _Generated on 2026-10-27 23:00:17 UTC_
         - [`🤖_general_issue_robots.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🤖_general_issue_robots.md)
         - [`🦊🐺_in_defence_of_furries.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🦊🐺_in_defence_of_furries.md)
         - [`🧄_would_you_like_to_join_a_cult.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🧄_would_you_like_to_join_a_cult.md)
+        - [`🧙‍♀️_from_sjw_to_tlw.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🧙‍♀️_from_sjw_to_tlw.md)
         - [`🧠_ai_ethicswash.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🧠_ai_ethicswash.md)
         - [`🧪_acid_accelerationism.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🧪_acid_accelerationism.md)
         - [`🪧_negotiating_tech_workers_aura_conditions.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🙀_Chronically_Online/🪧_negotiating_tech_workers_aura_conditions.md)
