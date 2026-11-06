@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-10-28 17:01:27 UTC_
+_Generated on 2026-11-06 16:07:33 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -961,6 +961,9 @@ _Generated on 2026-10-28 17:01:27 UTC_
         - [`😶‍🌫️_why_would_a_fascism_hide_the_root_cause.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/😶‍🌫️_why_would_a_fascism_hide_the_root_cause.md)
         - [`🪁_what_if_starmer_had_kept_pursuing_savile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/🪁_what_if_starmer_had_kept_pursuing_savile.md)
       - [**🎩_Putting_On_Less_Ritz/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/)
+        - [**🧬_Experiment_IV/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/)
+          - [`20261106_BBC_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/20261106_BBC_001.PNG)
+          - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/notes.txt)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/README.md)
         - [`☔️_i_still_dream_of_orgonon.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/☔️_i_still_dream_of_orgonon.md)
         - [`🇦🇺_why_did_you_kick_their_snakes_cousin.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🇦🇺_why_did_you_kick_their_snakes_cousin.md)
