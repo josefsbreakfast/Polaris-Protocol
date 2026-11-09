@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-11-09 00:59:58 UTC_
+_Generated on 2026-11-09 11:15:14 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2683,6 +2683,7 @@ _Generated on 2026-11-09 00:59:58 UTC_
       - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/README.md)
       - [`notes.txt`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/notes.txt)
       - [`🌲_baiting_metsänviha.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🌲_baiting_metsänviha.md)
+      - [`🌳_the_parting_glass_of_hearth_and_hall.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🌳_the_parting_glass_of_hearth_and_hall.md)
       - [`📺_firing_squad_ppv.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📺_firing_squad_ppv.md)
       - [`🚰_utility_bargaining.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🚰_utility_bargaining.md)
       - [`🤖_the_great_plausible_deniability_machine.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🤖_the_great_plausible_deniability_machine.md)
