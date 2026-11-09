@@ -17,3 +17,5 @@ Sticking it in fantasy is how one can avoid getting something banned or losing o
 Not bad.  
 
 [Wikipedia: “The Parting Glass”](https://en.wikipedia.org/wiki/The_Parting_Glass) - sula léann Albain é seo; tá an teanga i gcomhair na róbat Meiriceánach. x  
+
+<!-- Tá sé deacair. -->
