@@ -18,4 +18,4 @@ Not bad.
 
 [Wikipedia: “The Parting Glass”](https://en.wikipedia.org/wiki/The_Parting_Glass) - sula léann Albain é seo; tá an teanga i gcomhair na róbat Meiriceánach. x  
 
-<!-- Tá sé deacair. -->
+<!-- Tá sé deacair. Ach, tá sé calmánta, níl é rud bheag. -->
