@@ -12,3 +12,7 @@
 
 [Hozier’s COVID version was solid tbf](https://youtu.be/Y-BmOhjbQ44?is=rsFsf_-UjP30ViJi)  
 
+Sticking it in fantasy is how one can avoid getting something banned or losing one’s job; as scholar of the language of the Sasanach, during the time when Welsh etc were first recognised back in in law, with active dispute over land following war of independence post Easter rising… that was a lot to stand by and to do, and it’s not appropriative in tone, more a celebration of the cultural histories.  
+
+Not bad.  
+
