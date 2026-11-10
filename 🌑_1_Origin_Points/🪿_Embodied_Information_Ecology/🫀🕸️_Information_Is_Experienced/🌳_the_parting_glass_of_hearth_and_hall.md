@@ -19,3 +19,5 @@ Not bad.
 [Wikipedia: “The Parting Glass”](https://en.wikipedia.org/wiki/The_Parting_Glass) - sula léann Albain é seo; tá an teanga i gcomhair na róbat Meiriceánach. x  
 
 <!-- Tá sé deacair. Ach, tá sé calmánta, níl é rud bheag. -->
+
+and I mean, “dún an doras”/“doors of durin”. haven’t looked it up in the other teanga but bro was not hiding the references.  
