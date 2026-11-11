@@ -17,6 +17,8 @@ These and wards have a few decent books out, subject to "I do be from STEM tho a
 
 --> 
 
+cf: everything Blake saw in his lifetime, v at one with the faires, inc the “tree full of angels”. lit same vibe. 
+
 # 🌼 Friends of Tom Bombadil
 **First created:** 2026-10-26 | **Last updated:** 2026-10-28  
 *On cunning folk, protective magic, ecological competence, and the terrible institutional implications of a man who minds his own business.*
