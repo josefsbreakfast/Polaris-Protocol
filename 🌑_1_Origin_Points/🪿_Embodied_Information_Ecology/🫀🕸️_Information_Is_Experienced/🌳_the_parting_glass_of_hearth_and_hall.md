@@ -21,3 +21,5 @@ Not bad.
 <!-- Tá sé deacair. Ach, tá sé calmánta, níl é rud bheag. -->
 
 and I mean, “dún an doras”/“doors of durin”. haven’t looked it up in the other teanga but bro was not hiding the references.  
+
+auld lang syne in the same category if recalling similarities between cultural meanings shared between Hogmanay and Oíche Shamhna (as liminal betweeen last and first glass).  
