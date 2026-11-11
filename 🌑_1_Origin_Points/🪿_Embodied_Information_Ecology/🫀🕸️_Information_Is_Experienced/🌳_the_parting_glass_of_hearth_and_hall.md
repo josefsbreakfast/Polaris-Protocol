@@ -22,4 +22,4 @@ Not bad.
 
 and I mean, “dún an doras”/“doors of durin”. haven’t looked it up in the other teanga but bro was not hiding the references.  
 
-auld lang syne in the same category if recalling similarities between cultural meanings shared between Hogmanay and Oíche Shamhna (as liminal betweeen last and first glass).  
+auld lang syne in the same category if recalling similarities between cultural meanings shared between Hogmanay and Oíche Shamhna (as liminal between last and first glass).  
