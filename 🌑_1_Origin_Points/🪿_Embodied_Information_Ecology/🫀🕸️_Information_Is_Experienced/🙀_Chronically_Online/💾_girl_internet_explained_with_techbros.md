@@ -1,3 +1,11 @@
+[📲: Lili | Conscious Living: “You have to see what the Chinese internet has done to Jensen Huang.”](https://vm.tiktok.com/ZN8PqtqrG/).  
+
+Like when MI6 was like, “you can spy on your country to us via the darkweb it you like 💋”, but more pizzazz.  
+
+I’m not recommending anyone cheats on my wife, I’m just showing what the folkloric beast that be The Internet appears to have done with that information.  
+
+- - - 
+
 # 💾 Girl Internet Explained With Techbros
 **First created:** 2026-08-27 | **Last updated:** 2026-09-15  
 *A translation layer for understanding female online information ecologies through familiar technology, market, network, platform, signalling, and infrastructure concepts.*
