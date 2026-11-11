@@ -2,6 +2,8 @@
 
 Like when MI6 was like, “you can spy on your country to us via the darkweb it you like 💋”, but more pizzazz.  
 
+[(Yes, we did try the ol’ razzle dazzle, but it’s us… so it looked like this.](https://www.gov.uk/government/news/new-dark-web-portal-launched-to-recruit-spies-to-support-uk-security)  
+
 I’m not recommending anyone cheats on my wife, I’m just showing what the folkloric beast that be The Internet appears to have done with that information.  
 
 - - - 
