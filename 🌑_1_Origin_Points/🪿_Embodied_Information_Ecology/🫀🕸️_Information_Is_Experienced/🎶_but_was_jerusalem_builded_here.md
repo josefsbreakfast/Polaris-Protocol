@@ -9,3 +9,9 @@ according to the robot the mericanach know years better than Blake which is mad,
 I’m telling you all you need to do is start a conversation about songs like this one and you’ll see no more than 5 variations of a response that confirms the citizenship.  
 
 it’s not a case of liking it or not, it’s what the person does to transform and respond to the invitation to the conversation.  
+
+Blake wrote while the country was being aesthetically destroyed by an overconsuming dark smoke producing industrial force, ripping up the lands. (a recurring theme of cultural output for some reason who knows it’s almost like humans don’t like widespread environmental alterations in the seeking of monopolies “advancing” technologically or some such thing.) that’s why it gets people, and love it or hate it, there are strong emotional responses to art which strongly emotionally responds to the crazy shit that occurs in ones time.
+
+blake: *looks out at “dark satanic mills”*
+
+also Blake: “and did all of those beautiful myths even happen on a land like this? can we have it back?”  
