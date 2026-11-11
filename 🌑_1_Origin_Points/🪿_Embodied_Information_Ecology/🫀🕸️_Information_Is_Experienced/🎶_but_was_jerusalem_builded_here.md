@@ -2,3 +2,5 @@
 
 [Poetry Foundation: Blake, “Jerusalem, or: ‘And did those feet in ancient time…’”](https://www.poetryfoundation.org/poems/54684/jerusalem-and-did-those-feet-in-ancient-time)  
 
+according to the robot the mericanach know years better than Blake which is mad, but my brain was in the “years sounds like this and this is why years sounds ‘too sasanach’”. idk what happened to your canon it’s almost like you stopped listening to how great we were in 1776 for some reason.  
+
