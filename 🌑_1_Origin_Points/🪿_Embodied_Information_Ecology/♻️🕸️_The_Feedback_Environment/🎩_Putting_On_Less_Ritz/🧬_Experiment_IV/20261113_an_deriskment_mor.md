@@ -6,7 +6,7 @@
 - Seo an chuma atá air nuair a dhéanann "Stáit Aontaithe Mheiriceá" magadh faoi dhuine a bhí ina "dheisitheoir".
 - “Jeff na dheisitheoir“ heh heh heh. Nach bastaird a bhí ann.
 - Bí réidh. Cén fáth a raibh Phang v. Blanche ina dominó? Mór. An-mhór.
-- Conas atá “Microsoft” inniu?
+- [Conas atá “Microsoft” inniu?](https://vm.tiktok.com/ZN85rfQTp/)  
 - Seo mar a úsáideann tú cogadh mar chlúdach deise.
 - An bhfuil clogad stáin ag aon duine? 🤣🤣🤣 Ar ndóigh, an scéal is fearr liom ná go dtagann Dia ar cuairt faoi dheireadh.
 - Ba cheart duit féachaint ar "V for Vendetta". Nó níos fearr fós: léigh é. Ní gá duit "V" (nó "mh", b'fhéidir?) — sin chomh leochaileach is atá réimis. Nó b'fhéidir gurbh é an Iaráin a bhí ann. Cé a fhios? Nílimid ach ina mhoncaí a bhfuil scéalta againn.
