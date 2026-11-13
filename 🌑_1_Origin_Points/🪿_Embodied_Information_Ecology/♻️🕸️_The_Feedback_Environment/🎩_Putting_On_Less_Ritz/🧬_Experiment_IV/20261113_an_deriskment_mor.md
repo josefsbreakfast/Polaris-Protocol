@@ -16,5 +16,7 @@
 - [Speaking of which: “Ar fhaitíos gur chaill sibh é...seo chugaibh cuid de scéalta na seachtaine
 seo ar Tuairisc”](https://vm.tiktok.com/ZN85r5Cmm/)
 - Cén fáth nach ndéanann sibh innéacsú ar an nGaeilge anois? Google even understands “yous”, as to become “sibh” and not “tú”. Má you come and colonise the rest of us with your monopolies, you could at least treat us right, you know?  
+- Honestly, if you know what you’re looking at with the gaps which occur in those DOJ releases, and what you’re looking at with who owns what, you could make a lot from the changeover. Not all that glitters is gold, though, you know.  
+
 
 - - -  
