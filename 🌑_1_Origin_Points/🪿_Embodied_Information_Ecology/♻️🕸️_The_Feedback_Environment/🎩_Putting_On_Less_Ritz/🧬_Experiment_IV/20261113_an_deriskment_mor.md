@@ -10,6 +10,8 @@
 - Seo mar a úsáideann tú cogadh mar chlúdach deise.
 - An bhfuil clogad stáin ag aon duine? 🤣🤣🤣 Ar ndóigh, an scéal is fearr liom ná go dtagann Dia ar cuairt faoi dheireadh.
 - Ba cheart duit féachaint ar "V for Vendetta". Nó níos fearr fós: léigh é. Ní gá duit "V" (nó "mh", b'fhéidir?) — sin chomh leochaileach is atá réimis. Nó b'fhéidir gurbh é an Iaráin a bhí ann. Cé a fhios? Nílimid ach ina mhoncaí a bhfuil scéalta againn.
-- 🍿  
+- 🍿
+- Fiú an rud a chosnaítear — trí nód cumhachta? Is mór an léargas é sin. Tá cuma an-aisteach ar go leor páirtithe polaitíochta faoi láthair. Thaitin an pholaitíocht go mór le Jeff, nach ea?
+- anyway this is the most “úsáideann sí Google Translate” rud I’ve ever seen. An ulchabhán sin thinks I’ve knocked up 1250 foical and I’m here like “how many fucking lentations has this bastard got anois”.     
 
 - - -  
