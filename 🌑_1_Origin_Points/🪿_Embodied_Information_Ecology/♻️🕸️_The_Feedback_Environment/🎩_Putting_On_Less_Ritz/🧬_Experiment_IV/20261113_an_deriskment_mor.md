@@ -17,6 +17,6 @@
 seo ar Tuairisc”](https://vm.tiktok.com/ZN85r5Cmm/)
 - Cén fáth nach ndéanann sibh innéacsú ar an nGaeilge anois? Google even understands “yous”, as to become “sibh” and not “tú”. Má you come and colonise the rest of us with your monopolies, you could at least treat us right, you know?  
 - Honestly, if you know what you’re looking at with the gaps which occur in those DOJ releases, and what you’re looking at with who owns what, you could make a lot from the changeover. Not all that glitters is gold, though, you know.  
-
+<!-- (if I don’t write it down then I’ll get videos upon videos until I do. I don’t even get the Galadriel Basic tariff; it’s just the digital environment will be awful and full of ptsd triggers and digital nudges until I write it down. still can’t get crá, so I’m just saying that if you’d like to get a happier analysis dispenser, we could stretch to murder mystery as Gaeilge.) no I don’t know who/how this occurs, I got harrassed badly for using it democratically, and no the gardai give no fucks.-->
 
 - - -  
