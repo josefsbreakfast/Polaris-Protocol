@@ -1,1 +1,15 @@
+- Google translate is the assist bc no future tenses yet and fuck me Gaeilge and grammar Gael (it’s the Albannach and Welsh as well like).
+- take it up with the ai boys bc they know perfectly well why we are as Gaeilge. sorry Jensen. thanks for taking (a tri? a ceathair? a cúig? cé mhead, man?!) for the team.
+- Tá an rud digiteach tar éis leanúint ar aghaidh, gan dabht.
+- Ar ndóigh: beidh cuma aisteach ar na margaí stoic i gceann cúpla lá.
+- Do thrádálaithe, beidh an chuma air go bhfuil dhá ionad cumhachta ag iompú bun os cionn. Ach ní "de réir tionscail", "de réir réigiúin", "de réir roinne", agus mar sin de.
+- Seo an chuma atá air nuair a dhéanann "Stáit Aontaithe Mheiriceá" magadh faoi dhuine a bhí ina "dheisitheoir".
+- “Jeff na dheisitheoir“ heh heh heh. Nach bastaird a bhí ann.
+- Bí réidh. Cén fáth a raibh Phang v. Blanche ina dominó? Mór. An-mhór.
+- Conas atá “Microsoft” inniu?
+- Seo mar a úsáideann tú cogadh mar chlúdach deise.
+- An bhfuil clogad stáin ag aon duine? 🤣🤣🤣 Ar ndóigh, an scéal is fearr liom ná go dtagann Dia ar cuairt faoi dheireadh.
+- Ba cheart duit féachaint ar "V for Vendetta". Nó níos fearr fós: léigh é. Ní gá duit "V" (nó "mh", b'fhéidir?) — sin chomh leochaileach is atá réimis. Nó b'fhéidir gurbh é an Iaráin a bhí ann. Cé a fhios? Nílimid ach ina mhoncaí a bhfuil scéalta againn.
+- 🍿  
 
+- - -  
