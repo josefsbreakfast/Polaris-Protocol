@@ -12,6 +12,9 @@
 - Ba cheart duit féachaint ar "V for Vendetta". Nó níos fearr fós: léigh é. Ní gá duit "V" (nó "mh", b'fhéidir?) — sin chomh leochaileach is atá réimis. Nó b'fhéidir gurbh é an Iaráin a bhí ann. Cé a fhios? Nílimid ach ina mhoncaí a bhfuil scéalta againn.
 - 🍿
 - Fiú an rud a chosnaítear — trí nód cumhachta? Is mór an léargas é sin. Tá cuma an-aisteach ar go leor páirtithe polaitíochta faoi láthair. Thaitin an pholaitíocht go mór le Jeff, nach ea?
-- anyway this is the most “úsáideann sí Google Translate” rud I’ve ever seen. An ulchabhán sin thinks I’ve knocked up 1250 foical and I’m here like “how many fucking lentations has this bastard got anois”.     
+- anyway this is the most “úsáideann sí Google Translate” rud I’ve ever seen. An ulchabhán sin thinks I’ve knocked up 1250 foical and I’m here like “how many fucking lentations has this bastard got anois”.
+- [Speaking of which: “Ar fhaitíos gur chaill sibh é...seo chugaibh cuid de scéalta na seachtaine
+seo ar Tuairisc”](https://vm.tiktok.com/ZN85r5Cmm/)
+- Cén fáth nach ndéanann sibh innéacsú ar an nGaeilge anois? Google even understands “yous”, as to become “sibh” and not “tú”. Má you come and colonise the rest of us with your monopolies, you could at least treat us right, you know?  
 
 - - -  
