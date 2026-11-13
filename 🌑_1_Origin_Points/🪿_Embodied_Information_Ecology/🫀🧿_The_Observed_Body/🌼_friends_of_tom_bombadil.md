@@ -27,6 +27,8 @@ and I have gripe with Charles over evidence based research and advocacy in the N
 
 if you think only far right can honour remembrance you weren’t watching the events or coverage. idk what to tell you… watch it if you want, instead of commentary over it? just the music, just the parades, just the atmosphere? no pundits. just breathe.  
 
+maybe if Silicon Valley behaves enough to get invited back for dinner (lol), you can do the descent thing and ask him how he thinks Tom bombadill works. infiltration is all the rage, apparently.  
+
 - - -  
 
 --> 
