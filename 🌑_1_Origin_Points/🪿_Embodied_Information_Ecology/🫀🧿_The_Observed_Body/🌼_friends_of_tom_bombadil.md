@@ -15,9 +15,21 @@ Some (rather adventurous) claims re brain wave typing; absence of conclusive evi
 
 These and wards have a few decent books out, subject to "I do be from STEM tho and I like p values innit". There are many similarities with practices in organised religion and in secularised meditative and trance practices. May assist to discuss cf with each in separate node. A lot of this is also what music does to the human brain and why we like it, in general.  
 
---> 
+- - -  
 
-cf: everything Blake saw in his lifetime, v at one with the faires, inc the “tree full of angels”. lit same vibe. 
+cf: everything Blake saw in his lifetime, v at one with the faires, inc the “tree full of angels”. lit same vibe.  
+
+also: to complete loops, Charles has always been coded in these terms to me, and I consider this a positive thing. hilariously, it is the least imperial parts of our culture which hold his publically known characteristics in high regard. not saying he and his family are beyond any scrutiny inc fiscal; saying that I’m the most okay with a king who knows to pay respect to the other life on the island, inc the plants. extremely normal, historically, for some Englishmen to be up to. (have any of you seen the wererabbit plot omg the prize marrow.)
+
+also yes the Welsh language. and the elvish. yes yes I know I DONT KNOW HOW YOU ALL GOT DISTRACTED BY THE CHESP PLASTIC MACHETE MASCULINITY HONESTLY.  
+
+and I have gripe with Charles over evidence based research and advocacy in the NHS, and the general “idk if I like monarchy tho”; this is still the most anyone is going to be “my king”, in terms of the dude is “of these islands” as it’s getting from the 1%. stop pretending he is a religion that is distracting you from the class war instigated in 2008 omg.  
+
+if you think only far right can honour remembrance you weren’t watching the events or coverage. idk what to tell you… watch it if you want, instead of commentary over it? just the music, just the parades, just the atmosphere? no pundits. just breathe.  
+
+- - -  
+
+--> 
 
 # 🌼 Friends of Tom Bombadil
 **First created:** 2026-10-26 | **Last updated:** 2026-10-28  
