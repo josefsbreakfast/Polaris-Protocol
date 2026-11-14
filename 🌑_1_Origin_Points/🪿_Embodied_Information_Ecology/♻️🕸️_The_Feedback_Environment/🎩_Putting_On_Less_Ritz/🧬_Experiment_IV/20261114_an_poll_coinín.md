@@ -15,4 +15,6 @@ poll an choinín inniu:
 
 Tá treoir "Prepare" rialtas na RA (gov.uk/prepare) ann má theastaíonn seicliosta níos iomláine uait."  
 
-istg… bristeann siad internet leis na “dickpics” na Jensen Huang
+istg... brisfidh siad an t-idirlíon le dickpics Jensen Huang.  
+
+“Sreang chopair”, sin é. 🍿
