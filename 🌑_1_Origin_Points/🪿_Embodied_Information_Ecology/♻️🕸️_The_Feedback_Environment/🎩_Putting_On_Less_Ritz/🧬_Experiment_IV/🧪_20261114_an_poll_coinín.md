@@ -29,5 +29,13 @@ That man’s diary manager needs a raise; how does one find the time.
 
 - - -  
 
+Fiú anois.  
 
+So called “left” or “liberal” politicians want to try to say the people cannot have what they want; they have wobbled fascism for you, you would take away their hope?  
+Their right to believe in something they won’t fear growing their children for, and then you wonder why so many do not want to risk their one life for their homeland, their home community, their defence?  
+
+Neoliberalism is quite interesting to me; one wishes to raid the larder and reserve the capacity to complain upon its bare nature.  
+
+
+- - - 
 
