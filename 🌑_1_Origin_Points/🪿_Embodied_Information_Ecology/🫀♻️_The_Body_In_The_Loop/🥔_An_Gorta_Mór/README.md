@@ -1,6 +1,6 @@
 # 🥔 An Gorta Mór
 
-**First created:** 2026-10-06 | **Last updated:** 2026-10-07  
+**First created:** 2026-10-06 | **Last updated:** 2026-11-14  
 *The potato blight explains why potatoes died. This cluster asks why people did.*
 
 ---
@@ -689,17 +689,7 @@ an gorta mór, great hunger, ireland, famine, colonial governance, food entitlem
 
 > 📡 Cross-references:
 >
-> - [🌱 Before The Blight](./🌱_before_the_blight.md) — *pre-Famine land, political and subsistence structures into which the biological disturbance arrived*  
-> - [🌾 There Was Always Food In Ireland](./🌾_there_was_always_food_in_ireland.md) — *food production, trade, ownership, purchasing power and entitlement rather than calorie existence alone*  
-> - [🇬🇧 What Britain Knew](./🇬🇧_what_britain_knew.md) — *information entering the governing system and the distinction between sensing and interpretation*  
-> - [🏛️ What Britain Did](./🏛️_what_britain_did.md) — *relief, administration, policy change and the material consequences of governmental intervention*  
-> - [🕯️ The Lawful Catastrophe](./🕯️_the_lawful_catastrophe.md) — *how ordinary legal and administrative mechanisms can combine into catastrophic embodied harm*  
-> - [🪦 How And Why People Died](./🪦_how_and_why_people_died.md) — *the physiological pathways through which political economy reaches the body*  
-> - [🌫️ What Do We Call It?](./🌫️_what_do_we_call_it.md) — *terminology as an information technology rather than a substitute for causal reconstruction*  
-> - [🩸 Why Call It Genocide?](./🩸_why_call_it_genocide.md) — *classification, intent, responsibility, cultural memory and the contemporary cultural pipe*  
-> - [☘️ Remembering An Gorta Mór](./☘️_remembering_an_gorta_mór.md) — *survivor, family, diaspora and public-memory transmission after catastrophe*  
-> - [🗺️ Translation Is Not Equivalence](./🗺️_translation_is_not_equivalence.md) — *methodological guardrail for allowing questions and mechanisms to travel without collapsing histories into one another*  
-> - [🪶 Tied Twice To Land, Back](./🪶_tied_twice_to_land_back.md) — *outward-facing memory, land, solidarity and recognition without equivalence*  
+> - [📲: Mimi, via TikTok: “She’s definitely my daughter 😂🫣”](https://vm.tiktok.com/ZN85udhoq/) – *Tá sé “hopecore”; ba mhaith liom seo a scríobh an tseachtain seo.*  
 >
 > 🏮 Return To:
 >
@@ -710,4 +700,4 @@ an gorta mór, great hunger, ireland, famine, colonial governance, food entitlem
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-07_
+_Last updated: 2026-11-14_
