@@ -1,3 +1,5 @@
+[🎶](https://open.spotify.com/playlist/5d46PmbB3bbKyV7mzmjkGN?si=s05A3IrCTjqs_VOqi7Cl_Q&utm_source=copy-link&pi=7LmqON5uTzGze), btw. trying to edge to languages ai is not autoreading, so the albanach crew have got some more old school stuff on top of their national anthem apparent, “yes sir, I can boogie”.  
+
 poll an choinín inniu: 
 
 "Smaoinigh air mar "cad a bheadh de dhíth orm dá dtitfeadh cártaí, fóin agus sruthú le chéile ar feadh cúpla uair an chloig go cúpla lá?"
