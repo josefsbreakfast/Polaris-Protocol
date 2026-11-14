@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-11-14 19:04:27 UTC_
+_Generated on 2026-11-14 19:39:13 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -993,6 +993,7 @@ _Generated on 2026-11-14 19:04:27 UTC_
           - [`20261111_survivor_sentiment_data_001.HEIC`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/20261111_survivor_sentiment_data_001.HEIC)
           - [`20261111_times_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/20261111_times_001.PNG)
           - [`20261113_an_deriskment_mor.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/20261113_an_deriskment_mor.md)
+          - [`20261114_BBC_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/20261114_BBC_001.PNG)
           - [`notes.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/notes.md)
           - [`🧬_20261107_as_gaeilge_001.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/🧬_20261107_as_gaeilge_001.md)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/README.md)
