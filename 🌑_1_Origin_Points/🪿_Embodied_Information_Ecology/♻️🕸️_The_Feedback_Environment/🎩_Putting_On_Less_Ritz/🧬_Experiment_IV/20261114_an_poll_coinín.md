@@ -20,3 +20,12 @@ Tá treoir "Prepare" rialtas na RA (gov.uk/prepare) ann má theastaíonn seiclio
 istg... brisfidh siad an t-idirlíon le dickpics Jensen Huang.  
 
 “Sreang chopair”, sin é. 🍿
+
+[Totally refusing to accept his term may be over. Standard.](https://www.timesofisrael.com/mossad-chief-in-us-for-talks-on-iran-netanyahu-didnt-update-eisenkot-on-visit-report/)  
+
+Alternatively: Huang just had that much aura, that it downed US aerospace and called in Mossad.  
+
+That man’s diary manager needs a raise; how does one find the time.  
+
+
+
