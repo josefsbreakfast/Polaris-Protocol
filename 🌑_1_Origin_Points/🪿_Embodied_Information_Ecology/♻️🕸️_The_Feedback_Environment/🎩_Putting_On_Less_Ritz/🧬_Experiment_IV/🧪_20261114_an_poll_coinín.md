@@ -36,6 +36,10 @@ Their right to believe in something they won’t fear growing their children for
 
 Neoliberalism is quite interesting to me; one wishes to raid the larder and reserve the capacity to complain upon its bare nature.  
 
+But to take away hope… Cén fáth? For what purpose? To what end?  
+
+
+
 
 - - - 
 
