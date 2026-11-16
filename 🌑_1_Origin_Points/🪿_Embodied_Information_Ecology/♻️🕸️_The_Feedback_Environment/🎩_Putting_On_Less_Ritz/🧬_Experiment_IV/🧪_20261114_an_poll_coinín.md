@@ -38,8 +38,12 @@ Neoliberalism is quite interesting to me; one wishes to raid the larder and rese
 
 But to take away hope… Cén fáth? For what purpose? To what end?  
 
-
-
-
 - - - 
 
+Feicim mé an agallamh mór le do fhear. Tugaim cén fáth an “sentiment analysis” ag mé.  
+
+I agree, Beebs: a lot of chit chat for a man who did not definitely ever in his life do anything to help some socialists. Nope nope nope.  
+
+Níl bréagadóir maith é, agus tá sé a lá fiailí timpeall sna focail. 
+
+- - -  
