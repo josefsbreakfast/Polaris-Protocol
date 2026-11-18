@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-11-18 15:08:09 UTC_
+_Generated on 2026-11-18 20:29:46 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1020,6 +1020,7 @@ _Generated on 2026-11-18 15:08:09 UTC_
           - [`20261117_telegraph_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/20261117_telegraph_001.PNG)
           - [`20261117_telegraph_002.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/20261117_telegraph_002.PNG)
           - [`20261117_toi_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/20261117_toi_001.PNG)
+          - [`20261118_bbc_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/20261118_bbc_001.PNG)
           - [`notes.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/notes.md)
           - [`🧪_20261114_an_poll_coinín.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/🧪_20261114_an_poll_coinín.md)
           - [`🧬_20261107_as_gaeilge_001.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/🧬_20261107_as_gaeilge_001.md)
