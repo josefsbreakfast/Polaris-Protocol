@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-11-18 00:32:54 UTC_
+_Generated on 2026-11-18 01:04:41 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -3820,6 +3820,7 @@ _Generated on 2026-11-18 00:32:54 UTC_
         - [`🕸️_attribution_is_not_a_light_switch.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🕸️_attribution_is_not_a_light_switch.md)
         - [`🗺️_who_iran_sees_as_inside_the_war.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🗺️_who_iran_sees_as_inside_the_war.md)
         - [`🚰_when_cyber_reaches_the_machinery.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🚰_when_cyber_reaches_the_machinery.md)
+        - [`🦅_eagle_first_aid.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🦅_eagle_first_aid.md)
         - [`🧅_the_operator_may_not_know_the_customer.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧅_the_operator_may_not_know_the_customer.md)
         - [`🧬_one_war_many_threat_ecosystems.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧬_one_war_many_threat_ecosystems.md)
         - [`🧭_what_this_pack_is_tracking.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌊_Playing_Defence/🇮🇷_Data_Wars_IRGC_Edition/🧭_what_this_pack_is_tracking.md)
