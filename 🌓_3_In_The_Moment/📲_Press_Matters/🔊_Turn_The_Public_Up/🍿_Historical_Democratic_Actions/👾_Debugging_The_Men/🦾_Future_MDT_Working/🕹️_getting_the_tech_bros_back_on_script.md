@@ -1,5 +1,5 @@
 # 🕹️ Getting the Tech Bros Back on Script  
-**First created:** 2025-11-16 | **Last updated:** 2026-10-09  
+**First created:** 2025-11-16 | **Last updated:** 2026-11-18  
 *A coordination protocol for redirecting extremely wealthy, extremely online men back toward reality, professionalism, and the shared nerd mission, before they embarrass us on main again.*  
 
 <!-- ELON G-DAMNIT WHERE IS THAT YAOI?! YOU SAID "FIRST AMENDMENT, FRIEND!"--> 
@@ -264,7 +264,11 @@ This is not a demand that the gentlemen stop having ideas. It is a request that 
 ---
 
 ## 🌌 Constellations  
-🕹️ 🧠 🪴 🔥 — interdisciplinary reality checks; public trust; professional humility; information-ecology feedback.
+🕹️ 🧠 🪴 🔥 — interdisciplinary reality checks; public trust; professional humility; information-ecology feedback.  
+
+*Sigh.*  
+
+- [📲: SNL, via TikTok: “A Growing Security Threat”](https://vm.tiktok.com/ZN8aDnFj9/) - *Don’t worry; we only needed “Rule Britannia” on for a few hours, to not think about sending those Strongly Worded Letters With Nuclear Warheads Attached over to your very young country.*  
 
 ---
 
@@ -297,4 +301,4 @@ tech culture, interdisciplinary competence, scientific literacy, public trust, p
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-09_
+_Last updated: 2026-11-18_
