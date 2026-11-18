@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-11-18 23:20:28 UTC_
+_Generated on 2026-11-18 23:21:37 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4075,11 +4075,11 @@ _Generated on 2026-11-18 23:20:28 UTC_
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/notes.txt)
       - [**💀_WTF_Oxon/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/README.md)
-        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/notes.txt)
         - [`⚖️_balancing_rights_and_duties.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/⚖️_balancing_rights_and_duties.md)
         - [`🇺🇸_the_war_on_the_academy.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/🇺🇸_the_war_on_the_academy.md)
         - [`🏛️_academy_and_empire.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/🏛️_academy_and_empire.md)
         - [`💸 _but_think_of_the_donors.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/💸 _but_think_of_the_donors.md)
+        - [`💸_but_think_of_the_donors.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/💸_but_think_of_the_donors.md)
         - [`📣_you_hosted_what.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/📣_you_hosted_what.md)
         - [`🕯️_the_enlightenment_was_not_enlightened.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/🕯️_the_enlightenment_was_not_enlightened.md)
         - [`🦇_proactive_harm_prevention.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/🦇_proactive_harm_prevention.md)
