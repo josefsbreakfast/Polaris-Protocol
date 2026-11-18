@@ -4,6 +4,10 @@
 
 ---
 
+*I cannot stress enough, that this man does not have a STEM background. He belongs to the humanities; respectfully, please talk to your colleagues before making claims against the consensus of their field, or expect the response of a field of academia being ignored.*  
+
+---
+
 ## 🧭 Orientation
 
 The question is not whether an academic may ask an unpopular question. It is whether a claim about human populations is supported by evidence of sufficient quality to bear the causal conclusion being drawn from it. Nathan Cofnas's arguments about race, heredity and intelligence provide a case study in the distinction between **freedom to argue**, **scientific validity** and **institutional endorsement**. [1][2]
