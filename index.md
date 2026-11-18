@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-11-18 14:51:02 UTC_
+_Generated on 2026-11-18 14:52:23 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4074,6 +4074,8 @@ _Generated on 2026-11-18 14:51:02 UTC_
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/notes.txt)
       - [**💀_WTF_Oxon/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/notes.txt)
+        - [`⚖️_balancing_rights_and_duties.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/⚖️_balancing_rights_and_duties.md)
+        - [`🏛️_academy_and_empire.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/🏛️_academy_and_empire.md)
         - [`📣_you_hosted_what.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/📣_you_hosted_what.md)
       - [**🦷_Political_Violence_Today/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/)
         - [**☘️_Demystifying_NI_Reporting/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🦷_Political_Violence_Today/☘️_Demystifying_NI_Reporting/)
