@@ -1,393 +1,205 @@
-⚖️ Balancing Rights and Duties
+# ⚖️ Balancing Rights and Duties
+**First created:** 2026-11-18 | **Last updated:** 2026-11-18  
+*Legal and institutional analysis of free expression, equality, protest rights and proportionate decision-making in the Oriel College Cofnas controversy.*
 
-Repository: 🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/⚖️_balancing_rights_and_duties.md
+---
 
-Last reviewed: 18 November 2026
-Status: Active legal and policy analysis
-Jurisdiction: England and Wales, with relevant UK-wide human-rights and counterterrorism provisions
-Editorial position: Critical of Oriel College’s handling of the Cofnas event, without suggesting that controversial but lawful expression loses statutory protection.
+## 🧭 Orientation
 
-⸻
+The controversy surrounding Nathan Cofnas's appearance at Oriel College on 17 November 2026 raises questions about freedom of expression, academic freedom, equality, institutional responsibility and protest. The existence of a statutory free-speech duty does not end institutional decision-making: it requires institutions to secure lawful expression while considering other applicable duties and proportionate ways to manage competing interests.
 
-🎯 Executive summary
+**The central question is not whether Cofnas had a right to speak, but whether Oriel exercised its responsibilities with adequate judgement, evidence, consultation and transparency.** Objections to his views do not, by themselves, justify prohibition; nor does legal permission resolve every ethical or governance question. [1–5]
 
-The controversy surrounding Nathan Cofnas’s appearance at Oriel College on 17 November 2026 raises questions about the relationship between freedom of expression, academic freedom, equality, institutional responsibilities and the rights of those protesting.
+## ⚖️ Legal framework
 
-The college’s decision cannot be assessed by asking only whether Cofnas was entitled to speak. Equally, objections to his views do not automatically establish that Oriel was entitled — or obliged — to prevent him from speaking.
+| Instrument | Relevant provision | Source |
+|---|---|---|
+| European Convention on Human Rights | Article 10 protects expression; Article 11 protects peaceful assembly and association. Both are qualified rights. | [1] |
+| Human Rights Act 1998 | Gives Convention rights effect in domestic law and imposes duties on public authorities. | [2] |
+| Education (No. 2) Act 1986, s43 | Protection of lawful free speech in higher education; check amendments and application to the relevant institution and date. | [3] |
+| Higher Education and Research Act 2017, Part A1 | Duties concerning lawful speech, codes of practice and academic freedom, as applicable and commenced. | [4] |
+| Higher Education (Freedom of Speech) Act 2023 | Amendments to the higher-education regime, subject to commencement and subsequent changes. | [5] |
+| Equality Act 2010, s149 | Public sector equality duty: due regard to specified equality objectives where applicable. | [6] |
+| Public Order Act 1986 | Relevant offences and powers affecting public order and demonstrations. | [7] |
+| Terrorism Act 2000 | Proscription framework and related offences; a different regime from campus event management. | [8] |
 
-The governing legal framework creates a strong presumption in favour of lawful expression while allowing appropriately justified, proportionate regulation in particular circumstances.
+**Legal caution:** The precise operative version and commencement of provisions must be checked against legislation and OfS guidance for the decision date. Do not assume every provision in the 2023 Act was in force. [4, 5, 9]
 
-The central question is whether Oriel took the reasonably practicable steps required to secure lawful expression while properly considering its other applicable duties, the evidence of foreseeable risks and the available alternatives.
+## 🏛️ Securing lawful speech
 
-The wider policy question concerns consistency: why does the British state provide strong protections for some controversial expression while employing extensive criminal-law powers against other forms of political association and protest?
+The statutory framework creates significant obligations to protect lawful speech, including speech that is unpopular or offensive. Depending on the provision, governing bodies must take reasonably practicable steps to secure speech within the law. This may require positive steps such as appropriate access and security, not merely refraining from cancellation. [3, 4, 9]
 
-These are different legal situations, but the principles of proportionality, necessity, accountability and the protection of fundamental rights remain relevant to both.
+- Lawful expression does not acquire scientific validity simply because it is protected.
+- A visiting speaker's free-speech protections should not be confused with the distinct statutory protections for academic staff's academic freedom.
+- Disagreement with a viewpoint is not, by itself, a sufficient reason to suppress it.
+- Event conditions concerning time, place and manner may be relevant, but any restrictions must be justified within the applicable legal framework. [4, 9]
 
-1. The applicable legal framework
+## 🧭 The regulatory assessment
 
-Instrument	Relevant protection or duty
-European Convention on Human Rights, Article 10	Freedom of expression, subject to lawful and proportionate restrictions for recognised purposes
-ECHR, Article 11	Freedom of peaceful assembly and association, also subject to qualified restrictions
-Human Rights Act 1998	Gives Convention rights effect in domestic law and regulates the conduct of public authorities
-Education (No. 2) Act 1986, s43	Statutory protection for lawful freedom of speech in higher education
-Higher Education and Research Act 2017, Part A1, as amended	Duties to secure lawful speech, maintain codes of practice and promote the importance of freedom of speech and academic freedom
-Higher Education (Freedom of Speech) Act 2023	Strengthens the higher-education framework through amendments to existing legislation, subject to commencement
-Equality Act 2010	Prohibits specified discrimination and harassment and establishes the public sector equality duty
-Public Order Act 1986 and related legislation	Regulates particular forms of threatening conduct, public disorder and protest
-Terrorism Act 2000	Establishes powers to proscribe organisations and offences associated with proscription
+OfS Regulatory Advice 24 is the principal regulatory reference for assessing lawful expression and institutional restrictions. It should be read in its version applicable to November 2026. [9]
 
-Sources: [L1]–[L8], [R1].
+1. **Establish whether the expression is lawful.** Offensive or disputed speech is not automatically unlawful; threats, harassment and other legal limits depend on facts and statutory tests.
+2. **Identify reasonably practicable ways to secure it.** Consider venue, access, staffing, security and the rights of other participants.
+3. **Assess restrictions and competing obligations.** Any interference with protected expression requires careful legal justification and, where relevant, proportionality analysis.
 
-The Office for Students (OfS) updated its free-speech guidance on 5 August 2026 to clarify the relevance of Convention rights and proportionality. The guidance is therefore particularly relevant to decisions taken in November 2026. [R1]
+This is an analytical summary, not a substitute for the regulator's full guidance. [9]
 
-2. Freedom of speech is a positive institutional obligation
+## 🟰 Equality and the public sector equality duty
 
-Under Part A1 of the Higher Education and Research Act 2017, governing bodies of relevant institutions must take reasonably practicable steps to secure freedom of speech within the law, giving particular regard to its importance.
+Section 149 of the Equality Act 2010 requires relevant bodies, when exercising covered functions, to have *due regard* to the need to eliminate unlawful discrimination, harassment and victimisation; advance equality of opportunity; and foster good relations between people sharing protected characteristics and others. [6, 10]
 
-The duty protects students, staff, members and visiting speakers within the applicable statutory framework.
+**Due regard is a decision-making duty, not an automatic veto.** It does not guarantee a particular outcome, require the prevention of all distress, or invariably mandate a separately titled equality impact assessment. The content and intensity of consideration depend on the circumstances. [6, 10]
 
-It is not merely a prohibition against censorship. Institutions may have to take positive steps to enable lawful expression to occur.
+Questions for Oriel include:
 
-The OfS states that higher education institutions should demonstrate substantial tolerance for lawful but controversial expression. [R1][R2]
+- What information about effects on students and staff informed the decision?
+- When were relevant equality issues considered?
+- Were students consulted before material decisions were settled?
+- Were lawful disagreement, possible harassment, educational access and welfare considered separately?
+- Was the reasoning documented, and can a non-sensitive summary be released?
 
-Consequences for Oriel
+Oriel stated publicly that it considered Equality Act duties, obtained legal advice and consulted student groups. **The research question is the adequacy of that process, not whether the college acknowledged those matters at all.** [11]
 
-* The college could not simply prohibit Cofnas’s appearance because his views were offensive or unpopular.
-* It needed to assess the actual legal and practical circumstances of the proposed event.
-* It could consider proportionate arrangements concerning timing, location, access, security and conduct.
-* Restrictions directed at a speaker’s viewpoint require especially careful justification.
-* The statutory protection does not establish the truth or academic quality of the speaker’s claims.
+## 🕯️ Timing, postponement and Professor Jason Arday
 
-Important distinction: Academic freedom has a particular statutory meaning concerning academic staff and their employment-related protections. A visiting speaker may enjoy statutory free-speech protections without necessarily possessing the same employment-related academic-freedom rights at the hosting institution. [R2]
+Postponement is not inherently neutral: it can interfere with speech, especially if indefinite or viewpoint-driven. Equally, a defined change in timing may sometimes be a proportionate event-management option. The legal and practical merits depend on the circumstances. [1, 4, 9]
 
-3. The OfS three-step assessment
+The event's timing was particularly sensitive because Cofnas had publicly made allegations about the late Professor Jason Arday. Arday died in August 2026; an inquest opened on 26 August and was adjourned. The precise status of subsequent coronial proceedings on 17 November requires authoritative verification. [12, 13]
 
-Regulatory Advice 24 provides a framework for assessing institutional decisions affecting expression. [R3]
+**Do not imply Cofnas caused or contributed to Arday's death.** The ethical question about decorum and timing is distinct from causation or legal responsibility.
 
-Step 1 — Is the expression within the law?
+Outstanding questions:
 
-Establish whether the proposed speech is legally protected.
+- Did Oriel consider a defined postponement, and on what grounds?
+- Was a different venue, format or independent moderation evaluated?
+- Did decision-makers expressly address the circumstances of Arday's death and the outstanding coronial process?
+- Which alternatives were rejected, and why?
 
-Controversial, offensive or unpopular expression is not automatically unlawful.
+## 📣 Protest rights and competing freedoms
 
-Relevant legal limits may include harassment, threats, incitement and other offences, depending on the facts.
+Articles 10 and 11 protect expression and peaceful protest, subject to lawful restrictions. Opposition to Cofnas was itself protected expression. Protection of protest does not necessarily include a right to prevent others speaking, and allegations of unlawful obstruction must be assessed on the facts. [1, 7, 9]
 
-Step 2 — What reasonably practicable steps can secure the speech?
+An institution may need to accommodate simultaneously:
 
-Consider the measures available to enable the lawful expression.
+- The speaker's lawful expression.
+- Students' and staff members' lawful criticism and protest.
+- Safe access to premises, teaching and accommodation.
+- Protection against unlawful harassment or intimidation.
 
-These might include alternative premises, security arrangements, adjustments to access or other event-management measures.
+The relevant response may be practical accommodation rather than treating the situation as a contest in which one right extinguishes the others. [1, 9]
 
-Step 3 — Are restrictions lawful and proportionate?
+## 🦇 Safeguarding and proactive prevention
 
-Any restriction must be assessed against applicable legal requirements, including Convention rights where relevant.
+UK government guidance on trauma-informed practice provides useful principles for safety, trust, collaboration and avoiding unnecessary retraumatisation, but is not itself a freestanding legal power to prohibit an event. Foreseeable distress should not be equated automatically with unlawful harm. [14]
 
-The OfS recommends regulating time, place and manner rather than suppressing particular viewpoints wherever possible. [R3]
+Possible measures include consultation, accessible welfare arrangements, clear complaints routes, proportionate security, sensitive communications, and post-event review. The test is whether proposed measures are lawful, evidence-based and proportionate rather than a disguised viewpoint veto. [9, 11, 14]
 
-Application to Oriel
+## 🇵🇸 Comparison: Palestine Action
 
-Oriel’s public statement says it considered equality duties, obtained legal advice, consulted students and introduced event arrangements. [O1]
+The Palestine Action litigation concerns the Home Secretary's proscription powers under the Terrorism Act 2000 and Convention rights. This is **not legally equivalent** to Oriel's management of a visiting speaker. The decision-maker, statutory tests, severity of interference and evidence differ. [1, 8, 15, 16]
 
-That establishes that the college publicly acknowledged these matters.
+The comparison nevertheless raises a legitimate policy question: **how consistently do British institutions justify restrictions on expression, assembly and association, and how clearly do they explain necessity and proportionality?**
 
-It does not establish whether the underlying assessments were adequate or whether alternative arrangements were considered.
+When discussing *Ammori v Secretary of State for the Home Department*, rely on the actual judgments and the Supreme Court case record. Do not treat the political descriptions of Palestine Action or the litigation outcome as substitutes for the courts' reasoning. Check the current appellate status before publication. [15, 16]
 
-The unresolved question is not whether Oriel had a free-speech duty. It is how that duty was exercised.
+| Dimension | Oriel/Cofnas | Palestine Action |
+|---|---|---|
+| Decision-maker | College and relevant university bodies | Home Secretary, subject to judicial review |
+| Primary framework | Higher-education free-speech and equality law | Terrorism Act 2000 and human-rights law |
+| Principal issue | Securing lawful speech alongside competing duties | Justification for proscription and its effects on association and expression |
+| Analytical question | Were arrangements and restrictions lawful and adequately reasoned? | Was the interference legally justified, necessary and proportionate? |
 
-4. Equality law and the public sector equality duty
+## 🔎 Accountability questions
 
-Section 149 of the Equality Act 2010 requires public authorities, and certain other bodies exercising public functions, to have due regard to specified equality objectives.
+- Which decision-makers approved the booking and subsequent changes?
+- What duties and facts did the college's legal analysis address?
+- What alternatives were examined, including postponement?
+- What evidence informed equality and welfare assessments?
+- Can non-operational summaries be released without compromising security or legal privilege?
+- Were protest, access, accommodation and educational continuity assessed distinctly?
+- Was there a post-event review, and will its findings be published?
 
-These include:
+The absence of published documents is **not** proof that assessments were never undertaken. Nor does a public assertion that legal advice was obtained establish that the decision was beyond legitimate scrutiny. [11]
 
-* Eliminating discrimination, harassment and victimisation prohibited by the Act.
-* Advancing equality of opportunity between people sharing protected characteristics and those who do not.
-* Fostering good relations between those groups.
+## 📚 Sources and resources
 
-The duty concerns the quality of decision-making, not simply the eventual outcome. [L5][E1]
+**Primary law**
 
-What the duty does not mean
+1. European Convention on Human Rights, arts 10–11: https://www.echr.coe.int/documents/d/echr/convention_ENG
+2. Human Rights Act 1998: https://www.legislation.gov.uk/ukpga/1998/42/contents
+3. Education (No. 2) Act 1986, s43: https://www.legislation.gov.uk/ukpga/1986/61/section/43
+4. Higher Education and Research Act 2017: https://www.legislation.gov.uk/ukpga/2017/29/contents
+5. Higher Education (Freedom of Speech) Act 2023: https://www.legislation.gov.uk/ukpga/2023/16/contents
+6. Equality Act 2010, s149: https://www.legislation.gov.uk/ukpga/2010/15/section/149
+7. Public Order Act 1986: https://www.legislation.gov.uk/ukpga/1986/64/contents
+8. Terrorism Act 2000: https://www.legislation.gov.uk/ukpga/2000/11/contents
 
-* It does not create an automatic veto over controversial speakers.
-* It does not require universities to prevent all offence or distress.
-* It does not automatically require a formal equality impact assessment in every case.
-* It does not guarantee that equality considerations will prevail over competing statutory obligations.
+**Regulatory and institutional guidance**
 
-What it does require
+9. Office for Students, *Regulatory Advice 24 — Guidance Related to Freedom of Speech*: https://www.officeforstudents.org.uk/publications/regulatory-advice-24-guidance-related-to-freedom-of-speech/
+10. Equality and Human Rights Commission, *Public Sector Equality Duty*: https://www.equalityhumanrights.com/guidance/public-sector-equality-duty-psed
+11. Oriel College, *Information about 17 November talk by Nathan Cofnas* (16 November 2026): https://www.oriel.ox.ac.uk/news/information-about-17-november-talk-by-nathan-cofnas/
 
-Where the duty applies, relevant equality considerations must receive genuine and appropriately informed attention.
+**Contemporary reporting**
 
-The degree of scrutiny depends on the nature and potential consequences of the decision.
+12. *The Guardian*, report on Cofnas event (17 November 2026): https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday
+13. *The Guardian*, report on opening of Jason Arday inquest (26 August 2026): https://www.theguardian.com/uk-news/2026/aug/26/coroner-opens-inquest-due-to-circumstances-surrounding-jason-arday-death
 
-For the Cofnas event, relevant questions include:
+**Additional guidance and litigation**
 
-* What evidence did Oriel consider concerning the possible effects on Black students and staff?
-* Did it distinguish lawful disagreement from legally actionable harassment?
-* Were equality considerations examined before the final decision?
-* Were affected students meaningfully consulted?
-* Did the assessment consider educational access, welfare and the practical use of college premises?
-* Were the reasons for proceeding documented?
+14. UK Government, *Working Definition of Trauma-Informed Practice*: https://www.gov.uk/government/publications/working-definition-of-trauma-informed-practice/working-definition-of-trauma-informed-practice
 
-Oriel says it considered its Equality Act duties. The adequacy of that consideration cannot be established from the public statement alone. [O1]
+15. Court of Appeal, *Ammori v Secretary of State for the Home Department* (2026), judgment: https://www.judiciary.uk/wp-content/uploads/2026/06/Final-open-judgment-Ammori-v-SSHD.pdf
+16. UK Supreme Court, *R (Ammori) v Secretary of State for the Home Department*, case record: https://www.supremecourt.uk/cases/uksc-2026-0099
 
-5. Institutional judgement and the limits of postponement
+*Source-status note:* These are research citations and source links, not a representation that every URL or legal provision has been independently rechecked live on the file-generation date. Verify current legislation, guidance and case status before external publication.
 
-Postponement is not automatically a neutral or legally harmless alternative to cancellation.
+## ⚖️ Closing position
 
-A postponement may interfere with expression, particularly if it is indefinite, discriminatory, repeatedly imposed or used to avoid controversy.
+The right to speak is fundamental. So is the right to criticise speech, protest lawfully and demand accountable decision-making.
 
-However, timing can also be a legitimate subject of proportionate event management.
+**Oriel's legal duties did not necessarily make every aspect of its event arrangements inevitable.** But public anger did not, by itself, authorise the college to suppress lawful expression.
 
-The OfS framework expressly recognises the potential relevance of time, place and manner restrictions. [R3]
+The question is what Oriel knew, what it considered, which alternatives were available and why it decided as it did.
 
-Questions concerning the Cofnas event
+**Freedom of speech deserves rigorous protection. Institutional judgement deserves equally rigorous scrutiny.**
 
-* Was postponement proposed to Oriel?
-* Did the college consider it?
-* Would a definite alternative date have been feasible?
-* Was the proposal based on specific circumstances rather than disagreement with the speaker’s views?
-* Would the delay have imposed disproportionate burdens on the organiser?
-* Did legal advice address the possibility?
-* Were less restrictive alternatives available?
+*WTF, Oxon?*
 
-Professor Jason Arday
+---
 
-The timing of the event raised particular concerns because of Cofnas’s public allegations concerning the late Professor Jason Arday and the reported status of coronial proceedings. [N1][N2]
+## 🌌 Constellations
 
-The relevant ethical issue is whether the college gave appropriate consideration to those circumstances.
+⚖️ 🧿 🧩 🏛️ — competing rights, institutional scrutiny, proportionality and the governance of contested expression.
 
-An unresolved inquest does not, by itself, create a legal prohibition on discussing the deceased or holding an event involving someone who previously criticised them.
+---
 
-Nor should the existence of coronial proceedings be used to imply that Cofnas caused or contributed to Arday’s death.
+## ✨ Stardust
 
-The question of respectful timing remains a legitimate matter of institutional judgement, separate from allegations of legal wrongdoing.
+academic freedom, freedom of expression, equality law, public sector equality duty, protest rights, institutional discretion, proportionality, university governance, oriel college
 
-6. Freedom of protest and the rights of others
+---
 
-Article 10 protects political expression, while Article 11 protects peaceful assembly and association.
+## 🏮 Footer
 
-Students and members of the public were entitled to oppose Cofnas, criticise Oriel and organise lawful demonstrations.
+*⚖️ Balancing Rights and Duties* is a living node of the **Polaris Protocol**. It records the legal frameworks and institutional questions arising from Oriel College's handling of the November 2026 Cofnas event, distinguishing enforceable duties, discretionary decisions and editorial criticism. The node remains subject to review as further institutional documents and legal decisions become available.
 
-Their opposition was itself an exercise of protected expression.
+> 📡 Cross-references:
+>
+> - [📣 You Hosted What?](./📣_you_hosted_what.md) — *event chronology, reported objections and institutional statements*
+> - [🦇 Proactive Harm Prevention](./🦇_proactive_harm_prevention.md) — *foreseeable risk and proportionate event governance*
+> - [🏛️ Academy and Empire](./🏛️_academy_and_empire.md) — *institutional history and colonial accountability*
+> - [🧪 Flat Earth, But Make It Biosciences](./🧪_flat_earth_but_make_it_biosciences.md) — *evidential standards for claims about genetics and intelligence*
+> - [💸 But Think of the Donors](./💸_but_think_of_the_donors.md) — *philanthropy, reputation and institutional risk*
+>
+> 🏮 Return To:
+>
+> - [💀 WTF Oxon](./README.md) — *1up*
+> - [🌱 Prosocial Roots](../README.md) — *2up*
+> - [📲 Press Matters](../../README.md) — *3up*
+> - [🌓 In The Moment](../../../README.md) — *4up*
+> - [🌌 Polaris Protocol — Root](../../../../README.md) — *root*
 
-However, freedom of protest does not automatically include a right to prevent another person from speaking.
+*Survivor authorship is sovereign. Containment is never neutral.*
 
-The OfS distinguishes lawful protest from disruption that prevents other people exercising their rights, including what is commonly described as a heckler’s veto. [R3]
-
-Institutional obligations
-
-A university may need to protect:
-
-* The invited speaker’s ability to speak lawfully.
-* Students’ and staff members’ ability to protest.
-* Access to educational facilities and accommodation.
-* The safety of attendees, protesters and other members of the community.
-* Freedom from conduct amounting to unlawful harassment or intimidation.
-
-These interests may require practical accommodation rather than a simple winner-takes-all decision.
-
-7. Safeguarding, trauma-informed practice and foreseeable harm
-
-The government’s working definition of trauma-informed practice provides useful principles concerning safety, trust, collaboration, empowerment and avoiding unnecessary retraumatisation. [G1]
-
-It is not, by itself, a freestanding statutory duty requiring universities to cancel or postpone particular events.
-
-Similarly, the existence of foreseeable distress does not necessarily establish unlawful conduct.
-
-Nevertheless, institutions can legitimately examine whether their arrangements create avoidable risks.
-
-Relevant measures might include:
-
-* Advance consultation.
-* Accessible welfare support.
-* Clear reporting and complaint procedures.
-* Appropriate security and access arrangements.
-* Sensitive communication about the event.
-* Independent moderation where compatible with the event’s legitimate purpose.
-* A documented review of concerns and incidents afterwards.
-
-Proactive harm prevention should be compatible with lawful expression, rather than becoming an unrestricted power to suppress it.
-
-8. Comparative case study: Palestine Action
-
-The proscription of Palestine Action raises a separate but important question about the state’s treatment of expression and association.
-
-Legal distinction
-
-The Oriel controversy concerns the obligations of a higher-education institution to protect lawful speech.
-
-Palestine Action’s proscription concerns the Home Secretary’s statutory powers under the Terrorism Act 2000 and their compatibility with Convention rights.
-
-The legal tests, decision-makers, available powers and consequences differ substantially.
-
-Proceedings
-
-* The proscription was challenged by Huda Ammori.
-* The Divisional Court initially quashed the proscription decision.
-* In June 2026, the Court of Appeal allowed the Home Secretary’s appeal and upheld the decision.
-* The Court of Appeal considered the balance between individual rights and national security, including evidence of serious property damage and violence.
-* The Supreme Court granted permission to appeal on the question of compatibility with Articles 10 and 11.
-* The Supreme Court heard the appeal on 4–5 November 2026.
-* At the time of this review, a final Supreme Court judgment has not been established from the court’s published case record. [P1][P2]
-
-Why the comparison matters
-
-Question	Oriel/Cofnas	Palestine Action
-Principal decision-maker	College and relevant university authorities	Home Secretary
-Main legal framework	Higher-education free-speech law	Terrorism Act 2000
-Rights engaged	Expression, academic freedom, equality and protest	Expression, assembly and association
-State intervention	Statutory protection of lawful speech	Proscription with criminal-law consequences
-Central scrutiny	Were event decisions lawful, reasonable and proportionate?	Was proscription justified and compatible with Convention rights?
-Relevant public concern	Whether legal compliance displaced broader institutional judgement	Whether exceptionally serious restrictions were necessary and proportionate
-
-The comparison must acknowledge that the courts considered evidence of conduct extending beyond peaceful expression in the Palestine Action litigation. [P1]
-
-The strongest comparative question is not whether these situations are legally identical. They are not.
-
-It is whether British institutions and government apply sufficiently coherent, transparent and evidence-based standards when deciding which forms of expression and association warrant protection and which warrant restriction.
-
-The severity of the restriction should be central to that examination.
-
-9. Institutional discretion is not institutional immunity
-
-A college may comply with its statutory free-speech obligations and still face legitimate criticism of its decisions.
-
-Equally, public criticism does not establish a legal breach.
-
-The relevant categories should remain distinct:
-
-Finding	Meaning
-Legally required	The institution had an enforceable obligation to act or refrain from acting
-Legally permitted	The action was within its lawful discretion
-Procedurally adequate	The relevant considerations and processes were properly addressed
-Ethically justified	The decision can be defended against relevant moral and institutional standards
-Operationally effective	The arrangements achieved their stated practical objectives
-
-These categories may overlap, but they are not interchangeable.
-
-Oriel’s defence principally concerns its legal duties and the arrangements it says it made. [O1]
-
-The wider editorial criticism concerns the adequacy of its judgement, transparency and accountability.
-
-10. Questions requiring documentary answers
-
-Legal reasoning
-
-* What precise statutory obligations did Oriel identify?
-* What alternatives did it consider?
-* What was the legal basis for rejecting or accepting changes?
-* Did the college consider both freedom-of-expression and equality obligations within a documented framework?
-
-Equality
-
-* What information informed its consideration of the public sector equality duty?
-* How were relevant student concerns evaluated?
-* Were specific equality risks identified?
-* Did the college document why its arrangements were considered sufficient?
-
-Proportionality
-
-* Were less restrictive options considered?
-* What justified the chosen venue, date and format?
-* Were the effects on other users of college premises assessed?
-* Was there a meaningful post-event review?
-
-Transparency
-
-* Can Oriel publish a non-sensitive summary of its legal and equality reasoning?
-* Which decisions were taken by the college and which by the central university?
-* Was the governing body informed?
-* Is an independent review appropriate?
-
-📚 11. Source register
-
-Legislation and human rights
-
-[L1] Education (No. 2) Act 1986, section 43.
-https://www.legislation.gov.uk/ukpga/1986/61/section/43
-
-[L2] Higher Education and Research Act 2017, Part A1.
-https://www.legislation.gov.uk/ukpga/2017/29/part/A1
-
-[L3] Higher Education (Freedom of Speech) Act 2023.
-https://www.legislation.gov.uk/ukpga/2023/16/contents
-
-[L4] Human Rights Act 1998.
-https://www.legislation.gov.uk/ukpga/1998/42/contents
-
-[L5] Equality Act 2010, section 149.
-https://www.legislation.gov.uk/ukpga/2010/15/section/149
-
-[L6] European Convention on Human Rights, Articles 10 and 11.
-https://www.echr.coe.int/documents/d/echr/convention_ENG
-
-[L7] Public Order Act 1986.
-https://www.legislation.gov.uk/ukpga/1986/64/contents
-
-[L8] Terrorism Act 2000.
-https://www.legislation.gov.uk/ukpga/2000/11/contents
-
-Regulatory and institutional guidance
-
-[R1] Office for Students, Regulatory Advice 24: Guidance Related to Freedom of Speech, updated 5 August 2026.
-https://www.officeforstudents.org.uk/publications/regulatory-advice-24-guidance-related-to-freedom-of-speech/
-
-[R2] Office for Students, Section 1: Freedom of Speech.
-https://www.officeforstudents.org.uk/publications/regulatory-advice-24-guidance-related-to-freedom-of-speech/section-1-freedom-of-speech/
-
-[R3] Office for Students, Section 2: Framework for Assessment.
-https://www.officeforstudents.org.uk/publications/regulatory-advice-24-guidance-related-to-freedom-of-speech/section-2-framework-for-assessment/
-
-[E1] Equality and Human Rights Commission, Public Sector Equality Duty Guidance.
-https://www.equalityhumanrights.com/guidance/public-sector-equality-duty-psed
-
-[O1] Oriel College, Information about 17 November Talk by Nathan Cofnas, 16 November 2026.
-https://www.oriel.ox.ac.uk/news/information-about-17-november-talk-by-nathan-cofnas/
-
-[G1] UK Government, Working Definition of Trauma-Informed Practice.
-https://www.gov.uk/government/publications/working-definition-of-trauma-informed-practice/working-definition-of-trauma-informed-practice
-
-Contemporary evidence and case law
-
-[N1] The Guardian, reporting on the Cofnas event, 17 November 2026.
-https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday
-
-[N2] The Guardian, reporting on the opening of Jason Arday’s inquest, 26 August 2026.
-https://www.theguardian.com/uk-news/2026/aug/26/coroner-opens-inquest-due-to-circumstances-surrounding-jason-arday-death
-
-[P1] Court of Appeal, Ammori v Secretary of State for the Home Department [2026] EWCA Civ 721, judgment and press summary.
-https://www.judiciary.uk/wp-content/uploads/2026/06/Final-open-judgment-Ammori-v-SSHD.pdf
-
-[P2] UK Supreme Court, R (Ammori) v Secretary of State for the Home Department, UKSC/2026/0099, case record and hearing information.
-https://www.supremecourt.uk/cases/uksc-2026-0099
-
-⸻
-
-🔗 12. Cross-references
-
-* 📣_you_hosted_what.md — event chronology, institutional statements and protest.
-* 🏛️_academy_and_empire.md — historical and institutional context.
-* 🧪_flat_earth_but_make_it_biosciences.md — scientific standards and racial hereditarian claims.
-* 🇺🇸_the_war_on_the_academy.md — political uses of academic-freedom arguments.
-* 🦇_proactive_harm_prevention.md — practical institutional risk management.
-* 💸_but_think_of_the_donors.md — governance, philanthropy and reputation.
-
-⸻
-
-💀 Closing position
-
-The right to speak is fundamental.
-
-So is the right to challenge speech, criticise institutions and demand accountable decision-making.
-
-Universities must protect lawful expression even when it is deeply unpopular. They must also comply with their equality obligations and exercise their powers proportionately.
-
-The fact that Oriel had legal duties does not establish that every aspect of its decision was legally inevitable.
-
-Nor does the existence of public outrage establish that it was entitled to restrict the event.
-
-The appropriate test is more demanding: what did the college know, what did it consider, what alternatives were available, and why did it decide as it did?
-
-Freedom of speech deserves rigorous protection. Institutional judgement deserves equally rigorous scrutiny.
-
-WTF, Oxon?
+_Last updated: 2026-11-18_
