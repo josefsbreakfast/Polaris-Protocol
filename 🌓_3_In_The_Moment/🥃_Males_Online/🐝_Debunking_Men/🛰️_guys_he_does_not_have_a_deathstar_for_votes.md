@@ -370,7 +370,8 @@ The documentary account is attributed to reporting; this author has not independ
 *Follow the evidence:*  
 
 - [📰: BBC News: “It's a 'shroom boom! Seven amazing mushrooms to spot this autumn”](https://www.bbc.co.uk/newsround/articles/c317keeq5dglo) – *reranked onto front page today; quality mushroom lore*
-- [📰: AOL: “'Space Lasers Didn't Work': Elon Musk Mocks Election Losses as Democrats Prepare to Investigate His Business Empire”](https://www.aol.com/articles/space-lasers-didnt-elon-musk-154406000.html) – *…Death Star is from [this franchise](https://vm.tiktok.com/ZGdXtahQx/), bud. Just admit you want one. [They’ve even made it to Cardiff.](https://vm.tiktok.com/ZGdXtHcBT/)*  
+- [📰: AOL: “'Space Lasers Didn't Work': Elon Musk Mocks Election Losses as Democrats Prepare to Investigate His Business Empire”](https://www.aol.com/articles/space-lasers-didnt-elon-musk-154406000.html) – *…Death Star is from [this franchise](https://vm.tiktok.com/ZGdXtahQx/), bud. Just admit you want one. [They’ve even made it to Cardiff.](https://vm.tiktok.com/ZGdXtHcBT/)*
+- *Because it ranked on the same search:* [“Futurism: Elon Musk Posts Bananas Rant About How Chess Is Stupid Because It Doesn’t Have Space Lasers”?!](https://futurism.com/elon-musk-chess-space-lasers) *Dude. What. Who hurt you??*  
 
 ---
 
