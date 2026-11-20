@@ -1,5 +1,5 @@
 # 🛰️ Guys, He Does Not Have a Death Star for Votes
-**First created:** 2026-10-22 | **Last updated:** 2026-10-23  
+**First created:** 2026-10-22 | **Last updated:** 2026-11-20  
 *Mel Brooks, Miyazaki, mushroom robots, actual orbital telecommunications, and why a billionaire's impressive infrastructure is not a magical ballot-box override.*
 
 ---
@@ -369,7 +369,8 @@ The documentary account is attributed to reporting; this author has not independ
 
 *Follow the evidence:*  
 
-- [📰: BBC News: “It's a 'shroom boom! Seven amazing mushrooms to spot this autumn”](https://www.bbc.co.uk/newsround/articles/c317keeq5dglo) – *reranked onto front page today; quality mushroom lore*  
+- [📰: BBC News: “It's a 'shroom boom! Seven amazing mushrooms to spot this autumn”](https://www.bbc.co.uk/newsround/articles/c317keeq5dglo) – *reranked onto front page today; quality mushroom lore*
+- [📰: AOL: “'Space Lasers Didn't Work': Elon Musk Mocks Election Losses as Democrats Prepare to Investigate His Business Empire”](https://www.aol.com/articles/space-lasers-didnt-elon-musk-154406000.html) – *…Death Star is from [this franchise](https://vm.tiktok.com/ZGdXtahQx/), bud. Just admit you want one. [They’ve even made it to Cardiff.](https://vm.tiktok.com/ZGdXtHcBT/)*  
 
 ---
 
@@ -398,4 +399,4 @@ Elon Musk, Ashley St. Clair, Alex Gibney, Musk documentary, Starlink, optical in
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-10-23_
+_Last updated: 2026-11-20_
