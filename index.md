@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-11-21 18:13:15 UTC_
+_Generated on 2026-11-21 18:18:15 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1027,6 +1027,8 @@ _Generated on 2026-11-21 18:13:15 UTC_
           - [`🤖_doj_nasdaq_llm_frontier_002.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/🤖_doj_nasdaq_llm_frontier_002.PNG)
           - [`🤖_doj_nasdaq_llm_frontier_003.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/🤖_doj_nasdaq_llm_frontier_003.PNG)
           - [`🤖_doj_nasdaq_llm_frontier_004.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/🤖_doj_nasdaq_llm_frontier_004.PNG)
+          - [`🤖_doj_nasdaq_llm_frontier_005.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/🤖_doj_nasdaq_llm_frontier_005.PNG)
+          - [`🤖_doj_nasdaq_llm_frontier_006.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/🤖_doj_nasdaq_llm_frontier_006.PNG)
           - [`🧪_20261114_an_poll_coinín.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/🧪_20261114_an_poll_coinín.md)
           - [`🧬_20261107_as_gaeilge_001.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/🧬_20261107_as_gaeilge_001.md)
         - [`README.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/README.md)
