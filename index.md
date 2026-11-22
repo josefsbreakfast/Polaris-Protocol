@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-11-22 20:02:20 UTC_
+_Generated on 2026-11-22 20:03:47 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -1023,6 +1023,8 @@ _Generated on 2026-11-22 20:02:20 UTC_
           - [`20261118_bbc_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/20261118_bbc_001.PNG)
           - [`20261119_guardian_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/20261119_guardian_001.PNG)
           - [`20261122_bbc_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/20261122_bbc_001.PNG)
+          - [`20261122_gbnews_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/20261122_gbnews_001.PNG)
+          - [`20261122_itv_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/20261122_itv_001.PNG)
           - [`notes.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/notes.md)
           - [`🤖_doj_nasdaq_llm_frontier_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/🤖_doj_nasdaq_llm_frontier_001.PNG)
           - [`🤖_doj_nasdaq_llm_frontier_002.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/🤖_doj_nasdaq_llm_frontier_002.PNG)
