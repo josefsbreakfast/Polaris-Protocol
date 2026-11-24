@@ -3403,3 +3403,751 @@ A stronger voice in the exercise of another government’s powers is not the sam
 
 That is the correction to the earlier summary, and it gives us a useful tool for examining not only the Burnham correspondence but the wider architecture of Welsh devolution.”.  
 
+“The primary legislation governing the allocation of powers to Wales
+
+The starting point is the Government of Wales Act 2006, as amended, but it is not the whole settlement. The allocation of powers has been constructed through successive Acts of Parliament, especially the Wales Acts of 2014 and 2017.
+
+I’ll look at this as a constitutional architecture rather than just a list of devolved and reserved subjects. The important questions are: who can legislate, who can exercise executive functions, which matters are reserved, and what happens when the UK and Welsh institutions disagree.
+
+The review reveals something important for our previous discussion: the Welsh settlement is not simply a list of subjects that belong to Cardiff and subjects that belong to Westminster. It is a layered legal arrangement governing legislative competence, executive functions, institutional control and financial powers.
+
+That matters because the different layers do not always line up.
+
+1. The legislative history: how the present settlement was constructed
+
+There are four particularly important Acts.
+
+* Government of Wales Act 1998
+    The original devolution settlement
+    Established the National Assembly for Wales and transferred a range of existing administrative responsibilities. The original Assembly combined legislative and executive functions in one institution. Legislation.gov.uk
+* Government of Wales Act 2006
+    Institutional separation and stronger lawmaking powers
+    Separated the legislature from the Welsh Government, established the modern institutional structure and provided the route towards primary legislative powers. Legislation.gov.uk +1
+* Wales Act 2014
+    Fiscal devolution
+    Established important powers over taxation and borrowing, including the framework for Welsh income-tax rates and devolved taxes. Legislation.gov.uk +1
+* Wales Act 2017
+    The present reserved-powers model
+    Replaced the old conferred-powers model with a reserved-powers model, introduced the current Schedules 7A and 7B, and inserted statutory recognition of the permanence of the Senedd and Welsh Government. Legislation.gov.uk +2
+
+The Senedd and Elections (Wales) Act 2020 subsequently changed the institution’s name and made important changes to its electoral arrangements, including extending the franchise to 16- and 17-year-olds. It did not fundamentally redesign the division of legislative competence. Legislation.gov.uk
+
+The key point: the Government of Wales Act 2006, as amended, is now the central constitutional statute. The 2014 and 2017 Acts substantially changed the powers arranged by it.
+
+2. The four legal layers of the settlement
+
+I think this is the most useful way to understand the legislation.
+
+Layer 1 — Legislative competence
+
+Who has the legal authority to make laws?
+
+Governed principally by section 108A and Schedules 7A and 7B of the 2006 Act.
+
+Layer 2 — Executive functions
+
+Who has the authority to administer, regulate, direct and implement policy?
+
+Governed by Part 2 of the 2006 Act, including sections 58 and 58A, alongside other statutory provisions and transfer instruments.
+
+Layer 3 — Institutional authority
+
+Who controls the public bodies, agencies, tribunals and institutions carrying out those functions?
+
+Governed by the relevant subject-specific legislation, the reserved-authority rules and other statutory arrangements.
+
+Layer 4 — Financial authority
+
+Who raises the money, controls the budget and can borrow?
+
+Governed by the fiscal provisions of the 2006 Act as amended, the Wales Acts and the fiscal framework.
+
+These are distinct legal questions. A transfer at one layer does not automatically transfer the others.
+
+That is a crucial qualification to our earlier discussion of the Participation–Authority Substitution.
+
+3. Layer 1: legislative competence — section 108A and Schedules 7A and 7B
+
+The current model is known as the reserved-powers model.
+
+Section 108A provides that an Act of the Senedd is outside its legislative competence if, among other things, it:
+
+* Extends beyond the permitted territorial limits.
+* Applies outside Wales, subject to certain exceptions.
+* Relates to a reserved matter in Schedule 7A.
+* Breaches restrictions in Schedule 7B.
+* Is incompatible with Convention rights. Legislation.gov.uk
+
+This is important because it means the Senedd does not need Westminster to give it permission to legislate separately on every devolved subject.
+
+The starting presumption is that it can legislate unless a legal restriction applies.
+
+Schedule 7A: what is reserved?
+
+Schedule 7A contains the reserved matters.
+
+Some major categories include:
+
+Category	Examples
+Constitution	The Crown, the Union of Wales and England, the UK Parliament
+National security	Defence, intelligence, national security
+International affairs	Foreign relations and international trade
+Justice	Courts, judges, criminal and civil proceedings
+Crime and policing	Crime prevention, public order, policing and police and crime commissioners
+Crown Estate	Management of the Crown Estate
+Other UK-wide functions	Various transport, energy, economic and regulatory matters
+
+Legislation.gov.uk +2
+
+Two details are especially relevant to our examination.
+
+First, policing is expressly reserved.
+
+Schedule 7A, Part 2, Section B5, paragraphs 39–42 reserves crime prevention and investigation, public order, policing, and police and crime commissioners, subject to a specific exception concerning certain powers of entry, search and seizure relating to devolved offences. Legislation.gov.uk
+
+Second, management of the Crown Estate is expressly reserved.
+
+That is not merely a consequence of the general reservation of constitutional matters. The legislation specifically preserves the reservation of Crown Estate management. Legislation.gov.uk
+
+Schedule 7B: additional restrictions
+
+This schedule is particularly important and deserves more attention than it received in our earlier conversation.
+
+It places restrictions on what the Senedd can do even when legislation concerns a devolved subject.
+
+For example:
+
+* It generally prevents the Senedd from modifying the law on reserved matters.
+* It restricts changes to private law and criminal law.
+* It restricts changes to certain protected legislation.
+* It imposes consent requirements when Senedd legislation would confer, modify or remove certain functions of reserved authorities.
+
+Legislation.gov.uk +1
+
+The last point is significant.
+
+A subject may be devolved, but the public body responsible for carrying out part of it may be a reserved authority. The Senedd can therefore encounter restrictions when trying to make that body participate in a Welsh policy arrangement.
+
+This is a statutory source of the responsibility-authority problems we identified earlier.
+
+The Independent Commission on the Constitutional Future of Wales criticised these rules as complicated and difficult to operate, particularly where Welsh legislation needs to involve UK-controlled public bodies in devolved policy. GOV.WALES
+
+4. Layer 2: executive functions — sections 58 and 58A
+
+This is where the legal arrangement becomes more interesting.
+
+Legislative competence and executive authority are not the same thing.
+
+Section 58 provides a mechanism for transferring ministerial functions from UK Ministers to Welsh Ministers.
+
+It can provide for functions to be:
+
+* Transferred to Welsh Ministers.
+* Exercised concurrently or jointly with UK Ministers.
+* Exercised by UK Ministers only with Welsh ministerial agreement.
+* Exercised by UK Ministers only after consultation with Welsh Ministers.
+
+Legislation.gov.uk
+
+This is directly relevant to our Participation–Authority Substitution concept.
+
+The Act itself provides a legal mechanism for different degrees of Welsh involvement without necessarily transferring the whole policy area.
+
+But those arrangements differ in legal strength.
+
+For example:
+
+Arrangement	Welsh position
+Consultation	Welsh Ministers must be consulted where the instrument requires it
+Agreement	UK Ministers cannot exercise the specified function without Welsh agreement
+Concurrent exercise	Both governments can exercise the specified function
+Transfer	The function is transferred to Welsh Ministers
+
+These are not equivalent arrangements.
+
+Section 58A also provides that executive ministerial functions within devolved competence are exercisable by Welsh Ministers, subject to its provisions and exceptions. Legislation.gov.uk
+
+An important implication: an area can be legally reserved in some respects while Welsh Ministers nevertheless have specific executive responsibilities or participation rights under legislation or transfer arrangements.
+
+This is one reason why simply labelling a subject devolved or reserved can be misleading.
+
+5. Layer 3: institutional authority
+
+This is the part of the settlement I think we should examine more closely in the next stage.
+
+The legislation distinguishes between:
+
+* Devolved Welsh authorities.
+* Reserved authorities.
+
+A devolved Welsh authority is broadly a public body whose functions and institutional accountability meet the statutory tests for that status.
+
+A reserved authority includes UK Ministers, government departments and other public authorities that do not qualify as devolved Welsh authorities.
+
+The distinction matters because Schedule 7B restricts the Senedd’s ability to change the functions, constitution or funding arrangements of reserved authorities without the appropriate UK ministerial consent. Legislation.gov.uk +1
+
+This creates an important legal distinction:
+
+Having legislative competence over a policy subject does not necessarily mean having authority over every public institution involved in delivering that policy.
+
+For example, Welsh legislation concerning public health may need cooperation from a UK-controlled body whose powers are not under Welsh ministerial control.
+
+That is not automatically a constitutional defect. There may be legitimate reasons for maintaining UK-wide institutions.
+
+But it does mean the actual distribution of institutional authority must be examined separately from the distribution of policy responsibilities.
+
+6. Layer 4: financial authority
+
+The Wales Act 2014 and the subsequent amendments to the 2006 Act created a framework for Welsh taxation and borrowing.
+
+The important distinction is between:
+
+* Taxation powers.
+* Budget allocation powers.
+* Borrowing powers.
+* Control over the block grant.
+
+Wales has devolved taxes and income-tax rate-setting powers, but it does not control the whole tax system or the overall UK fiscal settlement.
+
+Section 121 of the Government of Wales Act 2006 provides the statutory basis for Welsh Ministers’ borrowing, including limited resource borrowing and borrowing for capital expenditure subject to Treasury approval. Legislation.gov.uk +1
+
+This reinforces our earlier finding: financial authority is a separate dimension of devolution. Transferring a policy responsibility without the necessary financial powers can leave the receiving government dependent on another government’s budget decisions.
+
+7. The constitutional safeguards
+
+There are three particularly important provisions.
+
+Section A1 — Permanence
+
+The Senedd and Welsh Government are recognised as permanent parts of the UK’s constitutional arrangements.
+
+Section A2 — Recognition of Welsh law
+
+The legislation recognises that the law applying in Wales includes a body of Welsh law made by the Senedd and Welsh Ministers.
+
+Both provisions were introduced through the Wales Act 2017. Legislation.gov.uk +1
+
+Section 107(5) and (6) — Westminster’s legislative authority and the Sewel Convention
+
+Section 107(5) preserves the UK Parliament’s power to legislate for Wales.
+
+Section 107(6) recognises that Westminster will not normally legislate on devolved matters without Senedd consent. Legislation.gov.uk
+
+The combination is important:
+
+* Wales has its own legislature and legal system of devolved law.
+* Westminster retains ultimate legislative sovereignty.
+* The statutory recognition of permanence does not entrench the Senedd against repeal.
+* The Sewel Convention does not create an enforceable legal veto.
+
+There is therefore a distinction between the constitutional recognition of Welsh institutions and the legal entrenchment of their authority.
+
+8. One further mechanism: section 109
+
+This deserves specific attention because it is a mechanism for changing the boundary itself.
+
+Section 109 allows Schedules 7A and 7B to be amended by Order in Council.
+
+A draft order must be approved by both Houses of the UK Parliament and the Senedd. Legislation.gov.uk
+
+This means the reserved-powers settlement is not entirely fixed in the primary legislation.
+
+It can be adjusted through a statutory mechanism involving both legislatures.
+
+That is significant for the current debate: not every change to the allocation of legislative competence requires a completely new Wales Act.
+
+However, section 109 does not mean that all executive functions, institutional arrangements or financial powers can be transferred through that mechanism. The relevant statutory route depends on what exactly is being changed.
+
+9. What this tells us about the Burnham correspondence
+
+We can now make a more precise legal assessment of the four areas.
+
+Area	Relevant statutory question
+Policing	What changes to Schedule 7A and related legislation would be required to transfer legislative competence and executive responsibility?
+Justice	Which individual functions are reserved, which are already devolved, and which can be transferred or shared under existing statutory powers?
+Crown Estate	What legislative changes would be needed to remove the express reservation of its management, and what would happen to ownership, revenue and institutional responsibilities?
+Rail	Which powers concern infrastructure ownership, investment, regulation, passenger services and enhancement governance, and which are already exercisable by Welsh institutions?
+
+This is where I would be particularly careful with the language of the letters.
+
+A commitment to a new board, a transfer of a specific executive function, a change to legislative competence and a transfer of institutional ownership are four different legal outcomes.
+
+They should not be described interchangeably as devolution.
+
+10. My revised constitutional reading
+
+The primary legislation reveals three structural features that we should carry into the next stage of our examination.
+
+First: Wales has a real legislative settlement.
+
+The Senedd is not simply an administrative body. It has primary legislative powers within its competence, and its Acts have legal force.
+
+Second: the settlement contains multiple layers of control.
+
+Legislative competence, executive functions, public-body authority and financial powers do not necessarily sit with the same government.
+
+Third: Westminster retains a constitutional advantage.
+
+It retains legal sovereignty, controls the reserved matters and has substantial influence over the financial and institutional framework. Welsh institutions have meaningful powers, but those powers are not constitutionally entrenched to the same degree as the sovereignty of the UK Parliament.
+
+My main correction to our earlier analysis is this:
+
+The Welsh devolution settlement is not merely a division between devolved and reserved subjects. It is a division of legislative, executive, institutional and financial authority, with different legal rules governing each layer.
+
+That is a more accurate foundation for examining whether the current arrangement is coherent.
+
+Primary legislation: the core reading list
+
+These are the documents I would treat as the legal spine of the project.
+
+* Government of Wales Act 2006 — current revised text⁠￼.
+* Government of Wales Act 1998 — original devolution legislation⁠￼.
+* Wales Act 2014 — taxation and borrowing⁠￼.
+* Wales Act 2017 — explanatory notes and constitutional changes⁠￼.
+* Wales Act 2017, Schedule 1 — reserved matters⁠￼.
+* Wales Act 2017, Schedule 2 — restrictions on Senedd legislation⁠￼.
+* Senedd and Elections (Wales) Act 2020⁠￼.
+
+The next particularly valuable exercise would be a provision-by-provision examination of Schedule 7A and Schedule 7B, identifying which reservations are genuinely UK-wide, which create dependencies on UK-controlled institutions, and which restrict the Senedd’s ability to make its existing devolved responsibilities work effectively.
+
+That would move us from a general debate about the merits of devolution to a precise map of where Welsh authority begins, where it stops, and why.”  
+
+“Before 1998, Wales had administrative devolution, but no elected national legislature or devolved Welsh Government.
+
+The distinction is fundamental. Wales had a recognisable system of Welsh administration, Welsh-specific public institutions and a Secretary of State representing Welsh interests in the UK Cabinet. But ultimate legislative authority remained at Westminster.
+
+In other words, Wales was governed through a combination of UK Government departments, the Welsh Office, local authorities and appointed public bodies—not through a democratically elected Welsh Parliament.
+
+1. The arrangement before 1964: Westminster and administrative decentralisation
+
+Following the Laws in Wales Acts of the sixteenth century, Wales was incorporated into the English legal and administrative system.
+
+Important historical developments included:
+
+* The Acts of Union of 1536 and 1543 integrated Wales into the English legal and governmental structure.
+* The Court of Great Sessions, which had provided a distinctive Welsh judicial structure, was abolished in 1830.
+* Wales and England consequently developed as a single legal jurisdiction.
+* Welsh-specific legislation was still possible, but was generally enacted by the UK Parliament.
+
+There were some Welsh administrative institutions before 1964:
+
+* A Welsh Department within the Board of Education was established in 1907.
+* A Welsh Board of Health followed in 1919.
+* The Council for Wales and Monmouthshire was established in 1948 as an unelected advisory body.
+
+The Council could advise and draw attention to Welsh needs, but it was not a Welsh government. senedd.wales +2
+
+2. 1964–1997: the Welsh Office model
+
+In 1964, the Labour Government created the post of Secretary of State for Wales.
+
+The Welsh Office was established in 1965, with offices in Cardiff and Whitehall.
+
+This was a significant development because it created a dedicated central government department responsible for administering an expanding range of public functions in Wales.
+
+The Secretary of State for Wales was:
+
+* A UK Government minister.
+* A member of the UK Cabinet.
+* Accountable to the UK Parliament.
+* Responsible for administering functions transferred to the Welsh Office.
+* Able to represent Welsh administrative and policy interests within the UK Government.
+
+The Welsh Office gradually acquired responsibilities including:
+
+* Housing.
+* Local government.
+* Planning.
+* Roads and highways.
+* Education.
+* Health.
+* Agriculture.
+* Economic development.
+* Welsh language matters.
+* Environmental and countryside functions.
+
+By 1997, it employed more than 2,500 civil servants. Research Briefings +2
+
+What did this mean in practice?
+
+The UK Parliament passed primary legislation.
+
+The Secretary of State and Welsh Office administered policy and exercised executive powers within the authority given to them by Parliament.
+
+Welsh local authorities and public bodies delivered many services.
+
+The Secretary of State could make decisions specifically affecting Wales, but was accountable to Westminster rather than to a Welsh legislature.
+
+That is what we mean by administrative devolution: government functions are administered separately for Wales, without transferring ultimate legislative authority to a Welsh democratic institution.
+
+3. The quango system: an important part of the picture
+
+There was another layer that deserves attention.
+
+Many public functions were delivered through appointed bodies rather than directly by the Welsh Office.
+
+These were commonly called quangos: quasi-autonomous non-governmental organisations.
+
+Examples included bodies involved in:
+
+* Economic development.
+* Housing.
+* Arts and culture.
+* Education and training.
+* Environmental management.
+* Regional development.
+
+The House of Commons Welsh Affairs Committee reported that the number of quangos in Wales doubled from 40 to 80 between 1979 and 1994. By 1995, approximately 1,400 people had been appointed to them. First Report +1
+
+This matters to our wider examination because it shows that the absence of a Welsh legislature did not mean the absence of Welsh-specific administration.
+
+Rather, Wales had a substantial administrative infrastructure, but many of its governing arrangements were either centrally controlled or populated through appointments.
+
+The democratic accountability question was therefore already present before devolution.
+
+4. The 1979 referendum: an earlier attempt at devolution
+
+The 1970s saw an attempt to establish an elected Welsh Assembly.
+
+The Labour Government’s proposals were developed following the Kilbrandon Commission on the Constitution.
+
+The proposed Assembly would have had executive responsibilities but would not have possessed the kind of primary legislative authority that the Senedd has today.
+
+The Wales Act 1978 provided the legislative framework, subject to approval in a referendum.
+
+Rejected
+
+On 1 March 1979, Welsh voters rejected the proposals:
+
+Vote	Share
+No	79.7%
+Yes	20.3%
+
+The legislation was subsequently repealed. The proposed Assembly was never established. UK Parliament +2
+
+This is important: the 1998 settlement was not the first attempt at Welsh devolution. It followed an earlier rejection and a substantial period in which administrative devolution continued without an elected national legislature.
+
+5. 1997–1999: the transition to democratic devolution
+
+The 1997 Labour Government proposed a new settlement.
+
+On 18 September 1997, Wales voted narrowly in favour of establishing a National Assembly:
+
+Vote	Share
+Yes	50.3%
+No	49.7%
+
+The majority was just 6,721 votes. House of Commons Library +1
+
+The Government of Wales Act 1998 received Royal Assent on 31 July 1998.
+
+The first Assembly election took place on 6 May 1999, and the Assembly began operating in July 1999.
+
+The initial settlement was relatively limited.
+
+The Assembly:
+
+* Could exercise executive functions transferred from the Secretary of State.
+* Could make secondary legislation where authorised by Acts of Parliament.
+* Could scrutinise and approve Welsh policy and spending.
+* Could not pass its own primary legislation.
+* Could not independently raise taxes.
+
+The Assembly initially operated as a single corporate body combining executive and scrutiny functions. First Report +2
+
+This was a significant constitutional change, but it was not yet the modern Senedd settlement.
+
+6. Comparing the arrangements
+
+Before and after devolution
+
+Before 1998
+
+Administrative devolution
+
+* Secretary of State for Wales.
+* Welsh Office.
+* UK Parliament makes primary legislation.
+* Welsh-specific administration.
+* Local authorities and appointed public bodies deliver services.
+* No elected Welsh national legislature.
+
+From 1999
+
+Executive devolution
+
+* Elected National Assembly.
+* Welsh executive functions transferred.
+* Secondary legislative powers.
+* Democratic scrutiny within Wales.
+* Westminster retains primary legislative authority.
+
+From 2007 onwards
+
+Legislative devolution
+
+* Separate Welsh legislature and executive.
+* Primary legislative powers developed in stages.
+* The 2011 referendum approved broader lawmaking powers.
+* The 2017 Wales Act introduced the reserved-powers model.
+* The modern Senedd can legislate within its statutory competence.
+
+7. The deeper constitutional significance
+
+I think there are three historical points particularly relevant to our current examination.
+
+First: Wales already had administrative differentiation before democratic devolution.
+
+The Welsh Office was not simply a London department with a Welsh name. It administered substantial functions specifically for Wales, and its responsibilities grew considerably over time.
+
+Second: administrative devolution did not provide equivalent democratic accountability.
+
+The Secretary of State was accountable to Westminster. Welsh people could vote in UK general elections, but they could not elect a Welsh legislature to scrutinise the Welsh administration independently.
+
+Third: the modern settlement evolved from an administrative structure rather than replacing it wholesale.
+
+The 1998 Act transferred many existing functions into a new democratic structure. Later legislation progressively separated institutions, expanded lawmaking powers and changed the rules governing which matters could be devolved.
+
+That historical inheritance helps explain why some institutional arrangements remain complicated today.
+
+8. A particularly important question for our wider investigation
+
+There is a constitutional question here that I would not want us to overlook:
+
+Was the modern Welsh settlement designed to give Wales democratic control over an existing Welsh administrative apparatus, or to establish a genuinely new distribution of sovereignty and governmental authority?
+
+Historically, it did much more of the former at first, and progressively moved towards the latter.
+
+That helps explain the successive stages:
+
+* 1964–65: administrative devolution through the Welsh Office.
+* 1979: proposed executive devolution rejected.
+* 1997–99: elected executive devolution established.
+* 2007: separation of legislature and executive, with enhanced legislative arrangements.
+* 2011–17: broader lawmaking powers and the reserved-powers model.
+
+My suggestion for the next historical question is the transition from the 1998 Act to the 2006 Act. That is where Wales moved from an Assembly that largely administered powers granted by Westminster towards a legislature with its own primary lawmaking competence. It is also where the present distinction between administrative participation and constitutional authority becomes much easier to understand.
+
+Core historical sources
+
+* Senedd — History of Devolution⁠￼.
+* House of Commons Library — Twenty Years of Devolution in Wales, 1998–2018⁠￼.
+* House of Commons Library — Devolution in Wales: A Process, Not an Event⁠￼.
+* Commission on Devolution in Wales — Empowerment and Responsibility, 2014⁠￼.
+* House of Commons Welsh Affairs Committee — Historical background to the 2006 settlement⁠￼.”  
+
+“A history of modern Welsh nationalism
+
+Modern Welsh nationalism is best understood as a movement that has changed its emphasis several times: from cultural survival, to home rule, to political self-government, and then to a broader debate about national sovereignty and the future of the Union.
+
+It has never been a single, uniform movement. Welsh nationalism has included language campaigners, cultural traditionalists, socialists, liberals, constitutional reformers and advocates of full independence. Some have wanted an independent Wales; others have wanted Wales to govern more of its own affairs while remaining within the United Kingdom.
+
+One important distinction throughout this history is that Welsh national identity is much broader than support for Plaid Cymru or Welsh independence.
+
+1. The nineteenth-century foundations: culture becomes political
+
+The modern movement developed during the nineteenth century, against a background of industrialisation, religious dissent, the growth of Welsh cultural institutions and concern about the decline of the Welsh language.
+
+Several developments mattered:
+
+* Nonconformity: Wales developed a strong tradition of independent Protestant chapels, often in opposition to the established Church of England. This helped create a distinctive Welsh public culture.
+* The language: Welsh remained central to national identity, but industrialisation, migration and the growing dominance of English placed it under pressure.
+* National institutions: the University of Wales was established in 1893; the National Library and National Museum followed in the early twentieth century.
+* Political home rule: campaigners increasingly argued that Wales should have institutions capable of making decisions about Welsh affairs.
+
+One influential figure was Michael D. Jones, a Congregationalist minister who advocated Welsh cultural and political autonomy. He is sometimes described as a father of modern Welsh nationalism.
+
+In 1886, Cymru Fydd (Young Wales) emerged, advocating Welsh home rule. It was associated with prominent Liberal figures, including T. E. Ellis and David Lloyd George.
+
+It is important not to project today’s independence debate backwards: much of this early home-rule movement sought self-government within a wider British political framework, rather than a separate Welsh state. senedd.wales +2
+
+2. 1925: Plaid Cymru and political nationalism
+
+Plaid Genedlaethol Cymru, later known as Plaid Cymru, was founded in 1925 at Pwllheli.
+
+Its establishment marked a shift: Welsh nationalism now had a dedicated political party whose central purpose was to advance Welsh national interests and self-government.
+
+One of its leading founders was Saunders Lewis.
+
+The early party was relatively small and culturally distinctive. It placed considerable emphasis on:
+
+* Protecting and restoring the Welsh language.
+* Preserving Welsh culture and traditions.
+* Establishing Welsh political self-government.
+* Challenging the assumption that Wales should simply be administered as an extension of England.
+
+Early Plaid was not identical to the party of today. Saunders Lewis’s nationalism was culturally conservative, Catholic and strongly language-centred. Later generations of Plaid politicians would develop quite different political and economic approaches.
+
+The party gradually moved towards conventional electoral politics, particularly under Gwynfor Evans. National Library of Wales +2
+
+3. The 1960s and 1970s: language activism, protest and a new political confidence
+
+This was a formative period. Welsh nationalism became more visible, more activist and more diverse.
+
+Three developments were especially important.
+
+The flooding of Tryweryn (1965). Liverpool Corporation’s reservoir project submerged Capel Celyn, a Welsh-speaking community in the Tryweryn valley. The scheme was authorised by an Act of Parliament despite opposition from Welsh local authorities and the community. It became a lasting symbol of the feeling that decisions affecting Wales could be made elsewhere, with Welsh objections overridden.
+
+The language movement. In 1962, Saunders Lewis delivered his radio address Tynged yr Iaith — The Fate of the Language. He warned that Welsh risked disappearing as a community language and called for direct action. This helped inspire the formation of Cymdeithas yr Iaith Gymraeg (the Welsh Language Society), which used civil disobedience and public protest to demand recognition for Welsh.
+
+Its campaigns included bilingual road signs, Welsh-language public services and eventually a Welsh-language television channel. The Welsh Language Act 1967 and Welsh Language Act 1993 were important legislative milestones; S4C began broadcasting in 1982. OpenLearn - Open University +2
+
+Plaid’s electoral breakthrough. Gwynfor Evans won the Carmarthen by-election in 1966, becoming Plaid Cymru’s first MP. The party subsequently won three Welsh seats in the February and October 1974 general elections.
+
+The movement was no longer confined to cultural campaigning or a small circle of intellectuals. It had an electoral presence, a language campaign and a wider argument about who should make decisions for Wales. National Library of Wales +1
+
+The 1979 referendum: a major setback
+
+The proposed Welsh Assembly was rejected in the 1979 referendum by approximately 79.7% to 20.3%.
+
+This was a defeat for constitutional devolution, but it did not end Welsh nationalism. The language movement continued, and political nationalism gradually recovered during the later 1980s.
+
+The distinction matters: opposition to that particular Assembly proposal did not necessarily mean opposition to Welsh identity, language protection or every form of self-government. senedd.wales +1
+
+4. The 1980s and 1990s: language rights and the return of devolution
+
+During the 1980s, Welsh nationalism developed along several connected but distinct paths.
+
+* Language campaigners pursued official recognition, education, broadcasting and protection for Welsh-speaking communities.
+* Plaid Cymru continued to contest elections and broadened its appeal beyond Welsh speakers.
+* Opposition to the Conservative governments of the period contributed to renewed interest in Welsh political representation.
+* The campaign for a Welsh-language television service helped secure S4C in 1982.
+* The Welsh Language Act 1993 strengthened the position of Welsh in public administration and the legal system.
+
+Plaid also moved towards a more explicitly civic conception of Welsh nationalism: Welsh nationhood was not to be defined exclusively by ancestry, birthplace or fluency in Welsh. People who made Wales their home could belong to the political nation.
+
+This was an important change. It made it easier to build alliances with people who supported Welsh self-government but did not speak Welsh, and with people whose primary concerns were economic, social or democratic rather than linguistic. OpenLearn - Open University +2
+
+1997: the constitutional breakthrough
+
+The referendum on establishing a Welsh Assembly passed by a very narrow margin: 50.3% voted Yes and 49.7% No.
+
+The National Assembly for Wales began operating in 1999.
+
+This did not establish independence. It established democratic devolution: a Welsh institution with executive and, initially, limited secondary legislative powers.
+
+But it changed the political landscape. Welsh self-government was no longer simply a demand made by nationalists. It had become an established part of the UK’s constitutional arrangements. senedd.wales +1
+
+5. 1999–2011: nationalism becomes part of governing Wales
+
+The establishment of the Assembly changed Plaid Cymru’s position.
+
+In the first Assembly election in 1999, Plaid became the second-largest party. It was now operating inside the institution that Welsh nationalists had campaigned to establish.
+
+The party increasingly had to address the practical questions of governing:
+
+* Health and social care.
+* Education.
+* Economic development.
+* Transport.
+* Rural communities.
+* Public finance.
+* The distribution of powers between Cardiff and Westminster.
+
+In 2007, Plaid entered a coalition government with Welsh Labour under the One Wales agreement. Plaid’s Ieuan Wyn Jones became Deputy First Minister.
+
+This was a significant development: a party committed to Welsh independence was now participating in the administration of a devolved government within the United Kingdom.
+
+In 2011, a referendum approved the transfer of full primary lawmaking powers to the Assembly in its devolved areas. This was another major step in the development of Welsh political autonomy. OpenLearn - Open University +2
+
+6. 2011–2020: from devolution to the independence debate
+
+During this period, the argument increasingly shifted from whether Wales should have devolution to what devolution should mean.
+
+The Scottish independence referendum in 2014 was particularly influential. It prompted renewed discussion in Wales about the future of the Union and whether Wales should have the same constitutional choices as Scotland.
+
+YesCymru emerged from this environment. It began organising in 2014 and formally launched as a membership organisation in 2016. Unlike Plaid Cymru, it was designed as a non-party campaigning movement specifically for Welsh independence.
+
+That distinction is important:
+
+* Plaid Cymru is a political party with a wider programme of policies and a long-standing constitutional commitment to independence.
+* YesCymru is a campaign organisation whose central objective is independence, and which seeks support across party lines.
+
+The two movements overlap, but they are not interchangeable. Nation.Cymru +1
+
+The 2016 Brexit referendum also affected the constitutional debate. It raised questions about Wales’s relationship with the UK, the European Union and the distribution of power between the different nations of the UK.
+
+The Senedd was renamed in 2020, formally recognising its status as the Welsh Parliament. The institution had developed considerably from the limited Assembly established in 1999. senedd.wales +1
+
+7. The 2020s: a broader and more varied independence conversation
+
+In recent years, Welsh independence has become a more visible subject of public debate.
+
+The arguments advanced by supporters include:
+
+* Democratic self-determination.
+* Greater control over taxation and public spending.
+* The ability to develop economic policy around Welsh circumstances.
+* Control over natural resources and energy.
+* A different relationship with the European Union.
+* Greater accountability for decisions made in Wales.
+
+Opponents and sceptics raise questions about:
+
+* The fiscal and economic viability of independence.
+* The distribution of public spending and taxation.
+* The costs of establishing separate state institutions.
+* Defence, currency, borders and international relations.
+* The practical relationship between an independent Wales and the rest of the UK.
+
+These are questions about the proposed constitutional and economic settlement, not simply questions of national identity.
+
+It is also important not to equate support for more devolution with support for independence. Someone can feel strongly Welsh, want more powers for the Senedd, and still prefer Wales to remain within the UK.
+
+Likewise, someone can support independence without speaking Welsh or having a family history rooted in Wales.
+
+The modern movement contains all these positions.
+
+8. The main transformations
+
+The history can be condensed into this timeline:
+
+Period	Main development	Central concern
+1880s–1900s	Cymru Fydd and home rule	Welsh political recognition
+1925–1950s	Plaid Cymru established	National self-government and cultural survival
+1960s–70s	Language activism and electoral growth	Language rights, democratic voice and control over Welsh affairs
+1979	Devolution referendum rejected	Constitutional setback
+1980s–90s	Language rights and renewed home-rule campaign	Recognition and accountability
+1997–99	Assembly established	Democratic devolution
+2007–11	Plaid enters government; legislative powers expand	Governing and strengthening autonomy
+2014 onwards	YesCymru and renewed independence debate	National sovereignty and the future of the Union
+2020s	Independence becomes a more prominent constitutional question	What powers should Wales ultimately possess?
+
+9. Five things worth keeping distinct
+
+I think these distinctions are particularly important for understanding the correspondence between Burnham and ap Iorwerth.
+
+1. Welsh national identity: a sense of belonging to a Welsh nation. It does not automatically imply a particular constitutional preference.
+
+2. Welsh cultural nationalism: the protection and development of Welsh language, culture, history and institutions.
+
+3. Welsh political nationalism: the belief that Wales should have its own political institutions and greater control over its affairs.
+
+4. Welsh constitutional nationalism: the argument that the present devolution settlement should be substantially strengthened, potentially towards federalism or a much more autonomous Wales.
+
+5. Welsh independence: the proposition that Wales should become a sovereign state.
+
+These strands overlap, but they are not identical.
+
+10. The underlying historical pattern
+
+One recurring theme runs through the whole story: the question of whether Wales is merely a distinctive part of the British state to be administered appropriately, or a nation entitled to exercise political authority in its own right.
+
+That question has appeared in different forms:
+
+* In the nineteenth century, through demands for home rule.
+* In the 1960s, through the reaction to Tryweryn and campaigns for language recognition.
+* In the 1970s, through the first devolution referendum.
+* In the 1990s, through the campaign for an elected Assembly.
+* In the 2010s and 2020s, through debates about fiscal powers, constitutional autonomy and independence.
+
+There is an important connection to our earlier discussion of the Participation–Authority Substitution.
+
+Historically, Welsh nationalists have repeatedly sought more than recognition, consultation or representation. They have sought the capacity to make decisions and to be democratically accountable for them.
+
+That does not mean every Welsh voter wants independence, or that every reserved power should necessarily be transferred. It does mean that a political settlement which offers Wales a stronger voice without addressing where ultimate decision-making authority lies may leave the underlying constitutional question unresolved.
+
+My central observation: modern Welsh nationalism has not simply been a continuous campaign for independence. It has been a changing movement for national recognition, cultural security and democratic authority. Independence is one possible destination within that history, but it was not the original or exclusive objective of everyone involved.
+
+For further reading, the most useful starting points are the National Library of Wales’s Plaid Cymru centenary history⁠￼, the Open University’s history of Welsh nationalism and language activism⁠￼, and the Senedd’s history of devolution⁠￼.”.  
+
