@@ -6472,4 +6472,344 @@ One correction to our earlier discussion is particularly important: when we asse
 
 Those should all be included when judging whether the 20 November response addressed the request as a whole.”.  
 
+“The important distinction is between accepting a transfer of power, accepting a narrower practical change, and offering more Welsh involvement while retaining the power at UK level. Burnham’s reply does not treat all of Rhun ap Iorwerth’s requests alike.
+
+On the correspondence as a whole, the pattern is: some practical cooperation was accepted; several requests were only partly accommodated; the major transfers of constitutional authority were rejected or left for further discussion.
+
+1. The classification
+
+Ap Iorwerth’s request	Burnham’s response	Classification
+Full devolution of policing	Rejected the transfer. Offered the Welsh Government a clearer role in the governance of Welsh police forces within the existing England-and-Wales system.	Partially accepted
+Devolution of justice	Rejected a separate devolved justice system. Offered to explore a bigger, clearer Welsh role in probation funding and oversight, and a wider role in youth justice.	Partially accepted
+Full devolution of rail infrastructure	Rejected. Great British Railways would retain responsibility for infrastructure, working with Transport for Wales. The Wales Rail Board would take on governance of Welsh rail enhancements.	Partially accepted
+Devolution of the Crown Estate in Wales	Rejected both transferring its management and preparing for a future transfer.	Rejected
+Greater fiscal flexibility and removal of restrictions on the Wales Reserve	The Treasury discussions on looser financial rules were continuing. Ap Iorwerth described this as a step forward and asked for agreement quickly.	Partially accepted / still under negotiation
+Greater fiscal and borrowing powers; fairer funding	Burnham pointed to additional funding for Wales and ongoing fiscal discussions, but the response did not accept the wider request for Scotland-level fiscal powers or a comprehensive funding settlement.	Partially accepted at most
+Senedd competence for a Vacant Land Tax	No clear commitment to grant the requested competence is apparent in the reported response.	Not accepted; effectively deferred or unanswered
+More devolved employment support	Burnham proposed looking at how further employment-support responsibilities could be devolved to Wales’s regions and communities.	Accepted in principle; details deferred
+A bigger Welsh role in youth justice	Burnham offered a wider Welsh role in youth justice.	Partially accepted; details deferred
+A bigger Welsh role in probation	Burnham said ministers were exploring a bigger and clearer Welsh role in probation funding and oversight.	Partially accepted; still under discussion
+A Wales Bill to deliver wider constitutional reform	No agreement to the proposed comprehensive legislative programme is apparent.	Deferred / no commitment
+Further devolution discussions on broadcasting, ports, Air Passenger Duty, energy and welfare	No clear commitment to transfer these powers or open a defined programme of negotiations is apparent in the reported reply.	Deferred / unanswered
+Protect the Cynnal Welsh Child Payment from tax and benefit calculations	No clear acceptance of the requested protection is apparent in the reported response.	Unanswered
+Stronger intergovernmental relations and Sewel arrangements	No substantive new safeguard or binding change is apparent.	Unanswered / deferred
+Address the effects of the UK Internal Market Act on devolution	No clear commitment to the requested change is apparent.	Unanswered / deferred
+
+The clearest reporting on the actual offers is that Burnham proposed further employment-support devolution, a larger Welsh role in probation and youth justice, and continued Treasury discussions on financial flexibility. He did not offer the central transfers of authority requested. Swansea Bay News +2
+
+2. What was actually accepted?
+
+There are a few meaningful areas of movement, but they are narrower than the First Minister’s proposals:
+
+* Employment support: an offer to explore further devolution, including a role for Welsh regions and communities.
+* Probation: a possible larger Welsh role in funding and oversight.
+* Youth justice: a possible wider Welsh role.
+* Rail governance: Welsh involvement through the Wales Rail Board in decisions about enhancements, without transferring control of the infrastructure network.
+* Fiscal flexibility: continued negotiations with the Treasury about loosening the rules governing Welsh finances.
+* Economic partnership: the proposed Partnership for Growth is to form part of economic discussions.
+
+These are not all the same kind of concession. Some are offers to explore; some are governance arrangements; some are negotiations that have not yet produced an agreed settlement. Swansea Bay News +1
+
+3. What was rejected outright?
+
+The four major constitutional asks were all refused in substance:
+
+* Policing: no transfer of responsibility to the Welsh Government.
+* Justice: no separate Welsh justice system or transfer of the overall justice settlement.
+* Rail infrastructure: no transfer of ownership or overall infrastructure responsibility to Wales.
+* Crown Estate: no transfer of management, and no preparatory work towards a future transfer.
+
+The distinctions matter. Policing, justice and rail received offers of greater Welsh participation within UK-controlled arrangements. The Crown Estate request received a more categorical refusal: Burnham rejected even preparing for a future handover. Swansea Bay News +1
+
+4. What was deferred or left unanswered?
+
+Several requests do not appear to have received a substantive answer or a defined route forward:
+
+* Vacant Land Tax competence.
+* The proposed comprehensive Wales Bill.
+* Broadcasting, port regulation, Air Passenger Duty, energy regulation and welfare.
+* The Cynnal payment safeguard.
+* Strengthening the Sewel Convention and intergovernmental arrangements.
+* Addressing the UK Internal Market Act’s effects on devolved powers.
+
+I would call these unanswered or deferred, rather than definitively rejected. Silence in the published response is not quite the same as an explicit refusal.
+
+5. The overall balance
+
+The shape of the response
+
+Major transfers of authority
+
+Rejected
+
+Policing, justice, rail infrastructure and Crown Estate management.
+
+Practical Welsh involvement
+
+Some movement
+
+Employment support, probation, youth justice and rail enhancement governance.
+
+Fiscal flexibility
+
+Negotiating
+
+Some willingness to loosen financial rules, but no comprehensive agreement on fiscal autonomy.
+
+Wider constitutional programme
+
+Largely unanswered
+
+Wales Bill, further policy areas, Sewel, UK Internal Market Act and other safeguards.
+
+One qualification: Burnham’s reference to an additional £450 million for the Welsh Government after the Budget is a funding offer, not acceptance of the First Minister’s request for greater control over taxation, borrowing or the Wales Reserve. Those are different forms of financial power. Swansea Bay News +1
+
+My reading: this is not a blanket refusal to work with the Welsh Government. It is a refusal to transfer the central constitutional powers, accompanied by offers to improve Welsh participation in the systems that retain them. That is precisely the distinction we have been calling Participation–Authority Substitution: more influence within a system is not the same as acquiring authority over it.”.  
+
+“I think the source of the confusion is that “England and Wales” is being used here as a Treasury funding classification, not a description of where HS2 actually goes. And that distinction is doing an enormous amount of work.
+
+You’re right about the geography: HS2’s route is in England. No HS2 track is being built in Wales. The Welsh Government has explicitly challenged the classification on that basis. Welsh Government News +1
+
+1. How the UK Government justifies it
+
+The argument goes:
+
+* Heavy rail infrastructure is reserved to the UK Government in Wales.
+* The UK Government therefore has responsibility for heavy rail infrastructure in both England and Wales.
+* It says that when it spends money on HS2 in England, it is spending within a policy area for which it is responsible across both countries.
+* Consequently, it classifies HS2 as an England-and-Wales project for Barnett purposes, rather than giving Wales a population-based share of the expenditure.
+
+That is the Government’s stated position, reiterated in a written answer on 9 November 2026. UK Parliament +1
+
+2. Why that argument is contested
+
+It conflates two different questions:
+
+* Who has constitutional responsibility for a policy area?
+* Where is the money actually being spent, and who benefits from that investment?
+
+The UK Government answers the first question. The Welsh Government is challenging the consequences of that answer for the second.
+
+Scotland and Northern Ireland receive Barnett consequentials from HS2 because heavy rail infrastructure is devolved to them. Wales does not, because it is not devolved on the same basis. UK Parliament +1
+
+There is also a material financial consequence. The National Infrastructure Commission for Wales estimated in its 2026 infrastructure assessment that the cumulative loss to Wales associated with the HS2 classification would reach approximately £845 million by 2029–30. That is its estimate of the funding foregone, not a sum legally owed to Wales under the existing formula. The National Infrastructure Commission for Wales
+
+3. The constitutional circularity
+
+This is the part worth examining closely:
+
+* Wales does not control the relevant rail infrastructure powers.
+* Because it does not control those powers, the UK Government says it must spend directly on rail infrastructure in Wales.
+* Because the UK Government retains those powers, it classifies HS2 expenditure as covering England and Wales.
+* Because of that classification, Wales does not receive the same direct Barnett consequential as Scotland and Northern Ireland.
+
+So the existing distribution of powers helps determine the funding classification, and the funding classification then limits Wales’s ability to invest through its own devolved budget.
+
+That is not proof, by itself, that the classification is unlawful. But it is a legitimate constitutional and fiscal dispute. The Welsh Government’s request to designate HS2 as an England-only project is an attempt to break that circularity.
+
+4. And there is a further problem with Burnham’s response
+
+Ap Iorwerth specifically asked for HS2 to be redesignated as an England-only project. The UK Government’s position, reaffirmed in November 2026, remains that heavy rail expenditure is classified on an England-and-Wales basis. It has not accepted that request. UK Parliament +1
+
+The question I would separate out next is this:
+
+Should a UK-wide government be able to use the fact that a power is reserved to it as sufficient justification for withholding Barnett consequentials on a project that is physically located entirely in England?
+
+That is the real issue. It is not a dispute about where the railway runs. It is a dispute about how the constitutional settlement is being used to allocate public money.”.   
+
+“Yes. Let’s separate the reasons Burnham actually gave from whether those reasons were supported by evidence in the letter. That matters because the reply contains some concrete examples and existing arrangements, but much of its case rests on assertions about the risks of changing the settlement.
+
+The source is Burnham’s five-page letter of 20 November 2026. I’ll take each subject in turn, including what he offered instead. GOV.WALES
+
+1. Policing — retain the England-and-Wales system
+
+Decision: No legislative devolution. Offer to strengthen the Welsh Government’s role in policing governance.
+
+Reasoning given:
+
+* The integrated England-and-Wales policing system is said to be essential for interoperability and seamless cross-border working.
+* Welsh forces benefit from access to national and specialist capabilities.
+* Separating policing would create new operational and constitutional boundaries within the single England-and-Wales jurisdiction.
+* A strategic Wales-wide approach could improve coordination with devolved services without changing the reserved settlement.
+
+Evidence or examples cited:
+
+* The pan-Wales Assistant Chief Constable role.
+* The Policing Partnership Board for Wales.
+* Existing cooperation between the Home Office, Welsh Government and policing partners.
+* The proposed police reforms, including governance arrangements based on local government structures and stronger oversight of specialist capabilities and force-wide efficiencies.
+
+What is missing: The letter does not provide comparative evidence showing that devolving policing would actually damage interoperability, nor does it explain why formal agreements, shared services or joint operational arrangements could not preserve cross-border capabilities under a devolved model.
+
+It identifies a genuine operational consideration, but does not demonstrate that retaining Westminster’s legislative control is necessary to protect it. GOV.WALES
+
+2. Justice — retain the shared jurisdiction
+
+Decision: No transfer of the overall justice system. Continue developing selected Welsh responsibilities.
+
+Reasoning given:
+
+* Wales benefits from the resources, expertise and resilience of a shared England-and-Wales justice system.
+* Different Welsh circumstances can still be accommodated within that shared system.
+* Partnership between justice institutions and devolved services is necessary to improve outcomes for victims, reduce reoffending and build safer communities.
+* The existing Criminal Justice Board for Wales and Wales-specific forums provide mechanisms for coordination.
+
+Evidence or examples cited:
+
+* The Lord Chancellor’s meeting with the Deputy First Minister and the Minister for Government Efficiency in Cardiff.
+* Existing Criminal Justice Board arrangements.
+* An agreement to devolve funding for certain youth justice initiatives.
+* Work exploring a larger Welsh role in probation funding and oversight.
+
+What is missing: The letter does not engage with the central argument for devolution: that Welsh institutions control many of the services which influence offending, rehabilitation and reintegration, while lacking authority over much of the justice system itself.
+
+It gives examples of collaboration, but does not establish that collaboration is an adequate substitute for aligning decision-making powers.
+
+It also does not set out a comparative assessment of the costs, outcomes or institutional risks of a devolved Welsh justice system. GOV.WALES
+
+3. Crown Estate — retain central management
+
+Decision: Reject devolution of management, and explicitly reject even preparing for a possible future transfer.
+
+Reasoning given:
+
+* The Crown Estate’s existing model is said to offer the best way of maximising economic and social benefits for Wales.
+* Its scale, financial capacity and specialist expertise are said to support long-term investment.
+* A diversified portfolio is said to allow risks to be managed across different investments.
+* Coordination with England is described as crucial to investors in floating offshore wind.
+
+Evidence or examples cited:
+
+* The Welsh Government expert group’s identification of Welsh ports, offshore-wind supply chains and wider economic development as key opportunities.
+* UK Government investment in Welsh port infrastructure.
+* The Crown Estate’s Wales-specific annual review and financial reporting.
+* A Wales Commissioner and Wales Forum intended to improve the representation of Welsh priorities.
+* Existing floating offshore wind investments and the connection with developments in England.
+
+What is missing: The letter does not provide financial comparisons showing that central management produces better outcomes for Wales than devolved management would. It does not quantify the supposed advantages of portfolio diversification, demonstrate that investors require central ownership or management, or explain why a devolved Welsh institution could not cooperate with the Crown Estate and investors across borders.
+
+It also does not really answer the democratic-accountability argument: improved reporting and a Wales Forum give Wales a voice, but do not give Welsh institutions control over the decisions.
+
+The most striking point is that the letter rejects not only the transfer but preparation for a future transfer. That makes this a decision about the constitutional destination, not merely the practical timing. GOV.WALES
+
+4. Rail infrastructure — retain Great British Railways control
+
+Decision: Reject full devolution. Transfer governance of Welsh rail enhancements to the Wales Rail Board and develop partnership arrangements.
+
+Reasoning given:
+
+* Welsh rail has significant cross-border connections with England.
+* Infrastructure management and maintenance require consistency on both sides of the border.
+* The network also has connections with the rest of Great Britain, including Scotland.
+* Great British Railways is said to be better placed to coordinate investment in passenger services, maintenance and enhancements.
+* The UK Government argues that separating infrastructure responsibility would fragment the system and harm services.
+
+Evidence or examples cited:
+
+* A Welsh rail investment pipeline valued at up to £14 billion.
+* The agreement to transfer governance of Welsh rail enhancements to the Wales Rail Board.
+* The alliance between Transport for Wales and Network Rail.
+* Partnership delivery of the Burns stations.
+* The proposed Railways Bill, a new Memorandum of Understanding and a developing partnership agreement between Great British Railways and Transport for Wales.
+
+What is missing: The letter does not demonstrate that full devolution would cause fragmentation. It does not compare alternative models, such as Welsh control of infrastructure combined with binding cross-border operating agreements, shared standards and joint investment planning.
+
+Nor does it explain why cross-border coordination requires central ownership or decision-making, rather than cooperation between authorities.
+
+The £14 billion pipeline is evidence of proposed investment, not evidence that Wales needs to remain outside infrastructure control. Investment commitments and constitutional authority are separate questions. GOV.WALES
+
+5. Fiscal flexibility and economic development
+
+Decision: Continue discussions rather than settle the wider fiscal requests in the letter.
+
+Reasoning given:
+
+* Burnham says he wants to support local and regional investment and economic growth.
+* He refers to the Government’s commitment to its fiscal rules.
+* He says a roadmap to further fiscal flexibility was discussed and Treasury discussions are ongoing.
+* He points to additional funding for Wales following the Budget.
+
+Evidence or examples cited:
+
+* £450 million made available to the Welsh Government on top of the devolution settlement.
+* £2.5 billion for nuclear power on Ynys Môn.
+* £500 million for the Port Talbot electric arc furnace.
+* £445 million to support Welsh rail.
+* A commitment to work on a Partnership for Growth.
+
+What is missing: These are examples of spending and investment, not a detailed answer to the requests for greater Welsh control over taxation, borrowing and the Wales Reserve. The letter does not explain which restrictions the Treasury is prepared to remove, on what timetable, or what fiscal powers it is unwilling to transfer.
+
+The reference to fiscal rules is a constraint the UK Government says it intends to maintain, but the letter does not show why particular Welsh borrowing or reserve reforms would breach those rules. GOV.WALES
+
+6. Employment support and regional empowerment
+
+Decision: Offer further exploration of devolving employment support, with greater responsibility potentially reaching Welsh regions and communities.
+
+Reasoning given:
+
+* Economic growth should be driven more directly by local and regional needs.
+* Employment, skills, health and practical support should be joined up around individuals rather than fragmented across services.
+* Welsh regions should be able to use both reserved and devolved powers to support growth.
+
+Evidence or examples cited:
+
+* Alan Milburn’s review, which Burnham invokes in support of integrating employment, skills, health and practical support for young people.
+* The existing division of responsibilities between UK and Welsh Governments.
+
+What is missing: There is no detailed proposal for which employment-support functions would transfer, what funding would accompany them, or whether the Welsh Government would have genuine decision-making authority. The letter commits to developing the idea through policy discussions, not to a completed transfer. GOV.WALES
+
+7. Cynnal Welsh Child Payment
+
+Decision: Officials are working with the Welsh Government to understand the proposed pilot and what UK Government support would be needed.
+
+Reasoning given: The letter gives no substantive policy argument for or against the requested exemption from tax and benefit calculations.
+
+Evidence or examples cited: A meeting between UK and Welsh Government ministers in September, followed by official-level discussions.
+
+What is missing: No decision on the requested tax and benefits treatment, no explanation of the relevant legal or administrative obstacles, and no timetable for resolving them. This is a clear case of further work rather than acceptance. GOV.WALES
+
+8. The other requests in the 1 October letter
+
+There is an important distinction between requests Burnham addresses and requests he largely leaves untouched.
+
+Request	What Burnham’s letter actually says
+Vacant Land Tax competence	No substantive response
+Permanent removal of Wales Reserve restrictions	General reference to a fiscal-flexibility roadmap and Treasury discussions; no specific commitment
+A comprehensive Wales Bill	No commitment to introduce one
+Broadcasting, ports, Air Passenger Duty, energy regulation and welfare	No substantive response to the proposed further devolution of these areas
+Strengthening Sewel and intergovernmental relations	No specific proposal
+UK Internal Market Act’s impact	No substantive response
+
+The letter does refer to ports and energy as areas for economic-development cooperation, but that is not the same as agreeing to devolve port regulation or energy powers. Similarly, officials working on Cynnal is not agreement to the requested welfare safeguard. GOV.WALES +1
+
+9. What kind of evidence is this?
+
+I think this is the most useful way to assess the quality of the response.
+
+Type of reasoning	Where it appears	What it establishes
+Operational argument	Policing, justice and rail	There are real cross-border systems and coordination requirements
+Institutional argument	Crown Estate and justice	Existing institutions have expertise, resources and established arrangements
+Practical examples	Policing Board, Criminal Justice Board, Wales Rail Board	Cooperation already happens and can potentially be expanded
+Financial argument	Crown Estate, fiscal flexibility	The UK Government believes central scale and financial capacity offer advantages
+Political and policy preference	Regional empowerment and shared governance	Burnham prefers collaboration and decentralisation within existing structures
+Comparative evidence	Largely absent	The letter does not systematically compare the existing settlement with the proposed devolved alternatives
+
+10. The central evidential gap
+
+There is a difference between establishing that a shared system has benefits and establishing that the powers must remain reserved.
+
+For example:
+
+* Cross-border policing is necessary. That does not, by itself, establish that policing governance must remain under Westminster.
+* A shared justice system has resources and expertise. That does not, by itself, establish that Wales cannot have its own justice institutions while sharing services or arrangements.
+* Railways need coordination across borders. That does not, by itself, establish that infrastructure ownership and investment decisions must remain centralised.
+* The Crown Estate benefits from financial scale. That does not, by itself, establish that Welsh management could not participate in a shared investment structure.
+
+Those are possible arguments for retaining the current settlement, but they need to be tested against alternative institutional designs.
+
+My assessment of the letter’s reasoning, as a matter of evidence rather than political preference: it explains why the UK Government values the existing arrangements and identifies some practical benefits of cooperation. It does not provide a systematic comparative case demonstrating that devolution would produce worse outcomes, nor does it engage in depth with the independent commissions and reports cited by the Welsh Government.
+
+That last omission matters. Ap Iorwerth was not simply asking Burnham to consider an abstract constitutional preference. He was putting forward a case based on existing Welsh institutions, expert reviews and the practical consequences of divided responsibilities.
+
+The next useful step would be to take the four major refusals and compare Burnham’s stated reasons against the evidence in the relevant independent reports—particularly the Commission on Justice in Wales, the Independent Commission on the Constitutional Future of Wales, and the Welsh rail and Crown Estate work. That would let us test the arguments rather than just repeat the positions.”.  
 
