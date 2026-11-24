@@ -11342,4 +11342,1061 @@ Useful primary references:
 * MOD — Sennybridge estate description⁠￼.
 * Defence (Transfer of Functions) Act 1964⁠￼.”.  
 
-“
+“8.1 Elan Valley: Birmingham and the Severn Trent network
+
+Maximum transfer capacity: approximately 320 million litres per day (Ml/d), through the Elan Valley Aqueduct. The National Infrastructure Commission for Wales (NICW) confirms this figure in its 2026 infrastructure assessment. The National Infrastructure Commission for Wales +1
+
+The important finding is in Severn Trent’s 2024 Water Resources Management Plan:
+
+* The Elan transfer has a stated maximum capacity of 320 Ml/d.
+* Severn Trent reports 282 Ml/d as average utilisation in its baseline 1-in-500-year deployable-output simulation.
+* That is a modelled planning scenario, not a measurement of the actual average water transferred in an ordinary year. severntrent.com
+
+ELAN VALLEY — MODELLED UTILISATION
+
+282 Ml/d
+
+Severn Trent’s 1-in-500-year baseline simulation
+
+Maximum transfer capacity 320 Ml/d
+
+Modelled utilisation as share of capacity 88.1%
+
+That percentage describes the modelled scenario, not the observed annual average.
+
+I have not found a sufficiently clear published annual outturn series that establishes the actual average Elan-to-Birmingham transfer over recent years. We should not substitute the 282 figure for it.
+
+8.2 Lake Vyrnwy: North West England
+
+Here we have a much more useful operational figure.
+
+A United Utilities document submitted to Ofwat in August 2024 describes the Vyrnwy Large Diameter Trunk Main:
+
+* Three parallel pipelines run from Oswestry Water Treatment Works to Prescot Service Reservoir.
+* The system is designed for up to 250 Ml/d.
+* Its stated maximum flow is 210 Ml/d.
+* Its average flow is 165 Ml/d.
+* The system supplies approximately 900,000 people in Cheshire and Merseyside and represents around 20% of regional supply. corporate.unitedutilities.com
+
+VYRNWY AQUEDUCT — REPORTED AVERAGE FLOW
+
+165 Ml/d
+
+United Utilities’ reported average pipeline flow
+
+Maximum flow 210 Ml/d
+
+Average as share of maximum 78.6%
+
+Annualised average volume 60,225 Ml
+
+Annualised calculation: 165 Ml/d × 365 days. It is not a separately reported audited annual volume.
+
+There is a qualification here too: the 165 Ml/d figure describes flow through the trunk-main system from Oswestry to Prescot. The pipeline feeds intermediate service reservoirs and distribution systems along the route. It is therefore not a clean measurement of the volume of water physically crossing the Welsh border or the volume ultimately consumed in England.
+
+The wider NICW report describes United Utilities as able to take up to 205 Ml/d from Lake Vyrnwy and the River Dee. That is a combined system-level maximum, not the actual average Vyrnwy export. The National Infrastructure Commission for Wales +1
+
+8.3 What we can responsibly put in the comparison
+
+Measure	Elan Valley	Vyrnwy
+Published maximum capacity/flow	320 Ml/d	210 Ml/d
+Published actual average	Not established	165 Ml/d, pipeline flow
+Other useful figure	282 Ml/d modelled in a 1-in-500 simulation	Up to 205 Ml/d combined Vyrnwy/Dee system transfer
+Principal receiving area	Birmingham / Severn Trent	Cheshire and Merseyside / wider North West
+
+The two average figures are not directly comparable: one is a modelled planning result, the other a reported average flow through a particular pipeline system.
+
+8.4 Why this matters to the strategic-value argument
+
+The previous combined figure of more than 525 Ml/d should be retained only as a broad statement about maximum transfer capability, not as a statement about the actual amount of water supplied each day.
+
+For the economic and strategic assessment, we need three separate quantities:
+
+* Actual annual transfer: measured water volumes over a defined reporting period.
+* Available capacity: the maximum technically and legally deliverable volume.
+* Drought and resilience contribution: the water that can be delivered under constrained conditions, including the value of reservoir storage and the ability to sustain supply.
+
+The third is particularly important. A water system can have considerable strategic value even if its maximum capacity is not used every day.
+
+8.5 Corrected wording for the master document
+
+Actual average water transfers, not just maximum capacity: The Elan Valley Aqueduct has a published maximum transfer capacity of approximately 320 million litres per day to Severn Trent Water. Severn Trent’s 2024 Water Resources Management Plan reports 282 Ml/d as average utilisation in its baseline 1-in-500-year deployable-output simulation; this is a modelled planning figure, not an observed annual average. A recent actual average transfer from Elan Valley to Birmingham has not yet been established from published outturn data. For Lake Vyrnwy, United Utilities reports an average flow of 165 Ml/d through the Vyrnwy Large Diameter Trunk Main, against a stated maximum flow of 210 Ml/d. This pipeline runs from Oswestry Water Treatment Works to Prescot and supplies intermediate locations as well as the wider North West, so its average flow should not be treated as a precise measurement of water exported from Wales or consumed in England. The separate figure of up to 205 Ml/d refers to the combined potential transfer from the Vyrnwy and Dee systems, not their actual average delivery. Maximum capacity, observed annual transfer and drought-resilience contribution should be recorded separately.
+
+8.6 Evidence still needed
+
+The outstanding item is a proper annual outturn series for Elan Valley. I would request from Severn Trent:
+
+* Annual metered volume entering the Elan Aqueduct, preferably for 2015–16 to 2025–26.
+* Average daily transfer for each financial year.
+* Minimum and maximum daily flows.
+* Any periods of reduced transfer or interruption.
+* The distinction between water delivered to Birmingham and water delivered elsewhere through the network.
+
+For Vyrnwy, I would seek the equivalent annual source abstraction and pipeline-flow records from United Utilities, distinguishing Lake Vyrnwy releases, River Dee contributions and intermediate Welsh and English supply destinations.
+
+Fact-check status: Vyrnwy has a useful published average-flow figure; Elan’s actual average remains unverified. The earlier maximum-capacity figures should not be represented as actual daily transfers.
+
+Sources:
+
+* NICW — Wales Infrastructure Assessment 2026: Water⁠￼.
+* Severn Trent — Water Resources Management Plan 2024, Appendix A⁠￼.
+* United Utilities — Vyrnwy Aqueduct operational and investment evidence⁠￼.
+* United Utilities — North West Transfer feasibility report⁠￼.”.  
+
+“Fact-check 9: Current dependency of Birmingham and the Midlands on Elan Valley
+
+Strong dependence in Birmingham; more limited at regional scale
+
+The claim is substantially correct for Birmingham, but too broad if it implies that the whole Midlands depends on Elan Valley water.
+
+The distinction is between:
+
+* Birmingham’s historical dependence on the Elan Valley Aqueduct (EVA).
+* The wider Severn Trent network’s use of water transferred from Wales.
+* The additional backup supplies now available to reduce the consequences of an aqueduct interruption.
+
+9.1 Birmingham: a major and historically concentrated dependency
+
+Severn Trent has repeatedly described the Elan Valley Aqueduct as Birmingham’s sole source of water supply.
+
+Its own project information states that:
+
+* The aqueduct transports water from Wales to Frankley Water Treatment Works.
+* It supplies more than one million customers in Birmingham and surrounding areas.
+* The aqueduct has historically been the sole source of supply into Birmingham.
+* Frankley Reservoir’s storage capacity meant that the aqueduct could only be taken out of service for a few days at a time without an alternative supply. Severn Trent Water +2
+
+This is significant because it describes an infrastructure dependency, not simply a preference for Welsh water.
+
+However, the position has changed through the Birmingham Resilience Project.
+
+9.2 The Birmingham Resilience Project has reduced the vulnerability
+
+Severn Trent invested approximately £300 million in the Birmingham Resilience Project.
+
+The project includes:
+
+* A new River Severn intake near Lickhill, close to Stourport.
+* A 26 km pipeline to Frankley.
+* Pumping stations and treatment upgrades.
+* Network improvements allowing water to be transferred into Birmingham from elsewhere in the Severn Trent region.
+
+The new arrangements were designed to permit the Elan Valley Aqueduct to be taken out of service for maintenance while maintaining Birmingham’s supply. Severn Trent Water +2
+
+A particularly important development is Severn Trent’s reported testing of its ability to bring water into Birmingham from nine water treatment works outside the city. It describes the new arrangement as providing backup for maintenance and emergencies. Severn Trent Water
+
+This changes the wording we should use:
+
+* Historically, Birmingham was exceptionally dependent on the Elan Valley Aqueduct.
+* The city now has additional network and River Severn backup arrangements.
+* Elan remains a major source, but it is no longer accurate to describe Birmingham as having no alternative supply capability.
+
+The backup system is not evidence that Elan has become unimportant. It is evidence that Severn Trent has spent heavily to reduce the consequences of losing access to it temporarily.
+
+9.3 The wider Midlands: important, but not uniformly dependent
+
+The Elan Valley Aqueduct also feeds into Severn Trent’s wider water network.
+
+Severn Trent explicitly says that water from the aqueduct supplies its wider network, reaching thousands of customers outside Birmingham. Severn Trent Water
+
+Its 2024 Water Resources Management Plan gives a useful indication of the scale:
+
+Measure	Figure
+Elan Valley import capacity	320 Ml/d
+Modelled average import in 1-in-500 simulation	282 Ml/d
+Severn Trent regional supply	Approximately 1,800 Ml/d
+Modelled Elan import as share of regional supply	Approximately 15.7%
+
+The 282 Ml/d figure is a modelled planning result, not a measured average transfer. The approximate 15.7% calculation is therefore an indicative comparison, not a verified annual contribution. severntrent.com +1
+
+This gives us a useful distinction:
+
+* Birmingham: concentrated dependence on the Elan supply route, with new contingency arrangements.
+* Wider Severn Trent region: a substantial imported resource within a much larger, diversified supply system.
+* The Midlands as a whole: not one water supply zone. Different areas have different sources, operators and dependencies.
+
+Severn Trent’s wider system uses groundwater, rivers and reservoirs. Its published resource assessment describes these as contributing approximately 35%, 35% and 30% respectively of its overall water supply. severntrent.com
+
+So it would be misleading to suggest that the Midlands generally depends on Elan Valley water in the same way that Birmingham historically did.
+
+9.4 What happens if the Elan supply is interrupted?
+
+There are now several layers of resilience:
+
+Layer	Function
+Elan Valley reservoirs	Main strategic raw-water resource
+Elan Valley Aqueduct	Long-distance transfer to Frankley
+Frankley treatment and storage	Treatment and short-term buffering
+River Severn intake and new pipeline	Alternative raw-water source
+Wider Severn Trent network	Transfers from other treatment works and supply areas
+Local boreholes	Additional support and emergency resources
+
+Severn Trent’s planning documents also identify boreholes in Edgbaston and other Birmingham locations as additional sources for supply security. severntrent.com
+
+The new infrastructure is particularly valuable because it allows planned maintenance and improves resilience during interruptions. It does not necessarily demonstrate that the alternative sources could replace Elan indefinitely, or meet every level of demand during a prolonged regional drought.
+
+That last point remains important: backup capacity is not the same as equivalent long-term resource availability.
+
+9.5 What this means for Welsh strategic value
+
+I would make three separate claims:
+
+* Historical infrastructure dependency: Birmingham’s water system was built around a major transfer from the Elan Valley, and that relationship has persisted for over a century.
+* Current resource dependency: Elan remains a significant source for Birmingham and contributes materially to Severn Trent’s wider regional supply.
+* Reduced interruption vulnerability: Severn Trent has invested heavily in alternative supplies and network connections, making Birmingham less vulnerable to a temporary interruption of the aqueduct.
+
+The third point strengthens rather than destroys the strategic argument. The £300 million resilience investment demonstrates the importance Severn Trent places on protecting the city’s water supply and maintaining the Elan route.
+
+It also gives us a concrete example of the costs associated with reducing dependence on a single Welsh-located resource.
+
+9.6 Corrected wording for the master document
+
+Current dependency of Birmingham and the Midlands on Elan Valley: Birmingham has historically had a particularly concentrated dependence on the Elan Valley Aqueduct, which transports water from Welsh reservoirs to Frankley Water Treatment Works and supplies more than one million customers in Birmingham and surrounding areas. Severn Trent has described the aqueduct as the sole source of supply into Birmingham. This vulnerability has been reduced by the approximately £300 million Birmingham Resilience Project, which introduced an alternative River Severn supply, a new pipeline to Frankley and improvements allowing water to be transferred from nine treatment works elsewhere in the Severn Trent network. Elan Valley water nevertheless remains an important source for Birmingham and contributes to the wider regional network. Severn Trent’s 2024 Water Resources Management Plan gives an Elan import capacity of 320 Ml/d and a modelled average import of 282 Ml/d in its baseline 1-in-500-year simulation. The latter is not an observed annual average. The modelled figure is equivalent to approximately 16% of Severn Trent’s reported regional supply of around 1,800 Ml/d, but this should be treated as an indicative comparison. The wider Midlands is not uniformly dependent on Elan: Severn Trent uses a diversified portfolio of groundwater, river and reservoir sources, and different areas have different supply arrangements. The strategic significance of Elan therefore lies in its concentrated importance to Birmingham and its substantial contribution to a wider regional network, rather than a claim that the whole Midlands depends on Welsh water.
+
+9.7 Fact-check status
+
+Claim	Finding
+Birmingham historically depended heavily on Elan	
+Elan was the sole source into Birmingham	
+Birmingham still has no alternative supply	
+Elan remains important to Birmingham	
+Elan contributes to the wider Midlands network	
+The whole Midlands depends on Elan	
+Elan contributes roughly 16% of Severn Trent supply	
+
+One particularly useful addition to our research: the £300 million Birmingham Resilience Project should be recorded as an actual investment in reducing dependence on a Welsh water-transfer route. It is not a valuation of Elan Valley itself, but it is evidence of the infrastructure investment required to make the receiving city more resilient.
+
+Sources:
+
+* Severn Trent — Testing Birmingham’s new backup water supply⁠￼.
+* Severn Trent — Birmingham backup pipeline construction⁠￼.
+* Severn Trent — WRMP 2024, Appendix A: Supply resources⁠￼.
+* Severn Trent — Water Resources Management Plan, supply system overview⁠￼.
+* National Infrastructure Commission for Wales — Water Infrastructure Assessment 2026⁠￼.”.  
+
+“Fact-check 10: Current dependency of North West England on Vyrnwy and Dee supplies
+
+Substantial dependency verified
+
+The North West has a significant and continuing dependence on Welsh water, particularly in Cheshire and Merseyside. However, the evidence is stronger for Lake Vyrnwy than for a precise combined Vyrnwy-and-Dee percentage.
+
+The key correction is that Vyrnwy and the Dee are not two interchangeable pipelines serving the whole North West. They are distinct sources within a highly interconnected regional water system.
+
+10.1 Lake Vyrnwy: a substantial, measurable contribution
+
+United Utilities’ March 2025 announcement about its Vyrnwy Aqueduct Modernisation Programme provides a particularly useful current figure:
+
+* The aqueduct consists of three parallel pipelines from Lake Vyrnwy to Merseyside.
+* It supplies approximately one million customers across Cheshire and Merseyside.
+* United Utilities says it accounts for 12% of the company’s raw water across the North West.
+* Its stated maximum transport capacity is 210 million litres per day (Ml/d). unitedutilities.com
+
+VYRNWY — SHARE OF UNITED UTILITIES’ RAW WATER
+
+12%
+
+Company-reported share, March 2025
+
+Customers served: approximately 1 million
+
+Maximum aqueduct capacity: 210 Ml/d
+
+Route: Lake Vyrnwy → Oswestry → Cheshire → Prescot / Merseyside
+
+This is much more useful than simply quoting the maximum transfer capacity. It demonstrates an ongoing contribution to the receiving region’s water supply.
+
+The distinction between ownership and use is also important:
+
+* Hafren Dyfrdwy owns and operates the Lake Vyrnwy dam.
+* United Utilities holds the abstraction licence for water supplied to its North West customers.
+* Releases from the reservoir also support river flows in the Vyrnwy and Severn systems. hdcymru.co.uk +1
+
+So the reservoir has several functions, not just supplying the aqueduct.
+
+10.2 The River Dee: a wider and more complicated dependency
+
+The River Dee is particularly important because it is a regulated water resource, supported by storage reservoirs in Wales.
+
+The system involves:
+
+* Llyn Celyn.
+* Llyn Brenig.
+* Llyn Tegid (Bala Lake).
+* Regulation releases that maintain river flows and support abstraction downstream.
+
+Natural Resources Wales explains that these reservoirs are operated as part of the Dee regulation system. The system can support abstraction of up to approximately 800 Ml/d by three water companies and the Canal & River Trust. Natural Resources Wales +1
+
+Strategic importance established
+
+The draft Dee River Basin Management Plan for 2027–2033 describes the Dee as a strategic source of potable surface water for nearly three million people. This figure covers the wider Dee system and its users; it should not be interpreted as three million United Utilities customers. Natural Resources Wales
+
+The Dee is also important to United Utilities’ own operations:
+
+* Its 2024 Water Resources Management Plan identifies Lake Vyrnwy and the River Dee as sources supplying Cheshire and Merseyside.
+* It describes the Dee and Vyrnwy aqueducts as connected to the Thirlmere and Haweswater systems by two-way pipelines.
+* Those connections allow water resources in the northern and southern parts of the network to be balanced. corporate.unitedutilities.com
+
+That last point is particularly important for the strategic analysis. The value of the Welsh water system is not confined to the water delivered through a single aqueduct. It is also part of a regional network that can move water between resource areas.
+
+10.3 Can we quantify the Dee’s contribution to United Utilities?
+
+Not with the same confidence as Vyrnwy’s 12%.
+
+United Utilities’ public-facing water-supply information says:
+
+* More than two-thirds of its regional water comes from Cumbrian reservoirs, the Pennines and Lake Vyrnwy.
+* Approximately one-quarter comes from rivers, including the Dee.
+* The remainder comes from boreholes. Water to your tap
+
+But the one-quarter river figure covers all river sources, not the Dee alone.
+
+United Utilities’ 2024 ESG reporting gives a more precise breakdown by source type:
+
+Source type	Daily water input	Share
+Reservoirs	1,235.38 Ml/d	62.35%
+Rivers	613.32 Ml/d	30.96%
+Groundwater	132.64 Ml/d	6.69%
+
+These figures are for the company’s reported water inputs, not a breakdown of Welsh versus English sources. They do not allow us to isolate the Dee’s contribution. United Utilities - Corporate
+
+There is, however, an important operational figure in the WRMP24 technical report.
+
+United Utilities identifies 109.3 Ml/d of non-potable bulk supply demand from the Dee, including a 28 Ml/d raw-water export to Dŵr Cymru Welsh Water. This is a planning demand figure, not a measurement of the entire Dee abstraction or the amount delivered to North West households. corporate.unitedutilities.com
+
+That 28 Ml/d export is an interesting reminder that the Dee system is not simply a one-way Welsh-to-English resource transfer.
+
+10.4 How dependent is the wider North West?
+
+We need to be careful about geographical generalisation.
+
+Area	Evidence of Welsh-water dependency
+Cheshire	Strong: Vyrnwy aqueduct supplies the area; Dee is also part of the regional resource system
+Merseyside	Strong: Vyrnwy aqueduct supplies approximately one million customers across Cheshire and Merseyside
+Greater Manchester	Connected to the wider United Utilities resource system, including the Dee/Vyrnwy links, but not directly equivalent to the Vyrnwy-dependent area
+Lancashire	Primarily served through the wider regional network, with major Cumbrian and Pennine sources
+Cumbria	Predominantly dependent on local Cumbrian sources, rather than Welsh transfers
+
+United Utilities describes its regional supply system as serving approximately 7.3 million customers. Its Strategic Resource Zone covers more than 98% of the population served and integrates the different aqueduct and local-source systems. unitedutilities.com +1
+
+So the right conclusion is not that all North West England relies equally on Welsh water. It is that Welsh water is a substantial part of the regional supply architecture, with especially concentrated importance in Cheshire and Merseyside.
+
+10.5 A further strategic point: the Dee is governed through shared arrangements
+
+The River Dee is not simply a reservoir and pipeline controlled by one water company.
+
+Its operation involves:
+
+* Natural Resources Wales.
+* The Environment Agency.
+* United Utilities.
+* Dŵr Cymru Welsh Water.
+* Hafren Dyfrdwy.
+* Severn Trent.
+* The Canal & River Trust.
+
+The Dee General Directions regulate abstraction and reservoir releases. During dry conditions, abstraction reductions are progressively applied to protect reservoir storage and river flows. corporate.unitedutilities.com +1
+
+This has constitutional relevance.
+
+An independent Wales would have sovereignty over its territory and important water infrastructure, but the Dee is a cross-border river system. Its long-term management would require cooperation and legally robust arrangements with English users and regulators.
+
+It would not be sensible to frame this as Wales simply turning off a tap. The river’s environmental needs, existing abstraction arrangements, reservoir operations and downstream users all matter.
+
+10.6 What about resilience and replacement?
+
+The Vyrnwy Aqueduct Modernisation Programme is itself evidence of the importance of this infrastructure.
+
+United Utilities is undertaking an eight-year programme to refurbish 139 km of pipework, with the stated aim of maintaining supply to around one million customers and improving the reliability and quality of water delivered. unitedutilities.com +1
+
+The WRMP24 also confirms that the Vyrnwy and Dee systems are integrated with other regional sources, allowing the company to balance supplies across its network. corporate.unitedutilities.com
+
+However, we still lack a current public assessment of:
+
+* How much Vyrnwy water could be replaced by other sources during a prolonged interruption.
+* How much Dee-derived supply could be replaced.
+* Whether replacement capacity would be available during a simultaneous regional drought.
+* The costs and time required to replace either resource permanently.
+
+Temporary network resilience should not be confused with an equivalent alternative source of water.
+
+10.7 Corrected wording for the master document
+
+Current dependency of North West England on Vyrnwy and Dee supplies: Welsh water remains a substantial component of the North West’s water-supply infrastructure, with particularly important dependencies in Cheshire and Merseyside. United Utilities reported in March 2025 that the Vyrnwy Aqueduct accounts for approximately 12% of its raw water across the North West and supplies around one million customers across Cheshire and Merseyside. Its three parallel pipelines have a stated maximum capacity of 210 million litres per day. The River Dee is a separate but interconnected strategic resource. Its regulated supply system, supported by Llyn Celyn, Llyn Brenig and Llyn Tegid, supports abstraction by several water companies and the Canal & River Trust. Natural Resources Wales describes the Dee as a strategic source of potable water for nearly three million people across its wider supply area; this is not a United Utilities customer figure. United Utilities’ regional network connects the Vyrnwy and Dee aqueducts to the Thirlmere and Haweswater systems, allowing resources to be balanced across the North West. Although the company reports that approximately one-quarter of its water comes from rivers, this includes sources other than the Dee, and a precise current percentage attributable to the Dee has not been established. The evidence therefore supports a substantial Welsh-water dependency, especially in Cheshire and Merseyside, but does not justify treating the whole North West as equally dependent on Vyrnwy and Dee supplies. The Dee’s cross-border regulation arrangements also mean that its strategic value must be assessed alongside environmental obligations and cooperation with English water users.
+
+10.8 Fact-check status
+
+Claim	Finding
+Vyrnwy supplies a significant share of North West water	
+Vyrnwy serves around one million customers	
+Dee is a strategic drinking-water resource	
+Dee supports several water companies and other users	
+Vyrnwy and Dee are integrated into the wider regional network	
+The whole North West depends equally on Welsh water	
+A precise combined Vyrnwy/Dee percentage is established	
+Long-term replacement capacity is known	
+
+10.9 The next useful evidence request
+
+For the next research pass, I would seek a source-by-source breakdown from United Utilities covering its 2024–25 and 2025–26 actual raw-water abstractions:
+
+* Lake Vyrnwy.
+* River Dee.
+* Other Welsh sources.
+* Cumbrian reservoirs.
+* Pennine reservoirs.
+* Other rivers.
+* Groundwater.
+
+That would allow us to calculate the actual Welsh contribution to the North West’s supply, rather than relying on capacity figures and broad source categories.
+
+Fact-check conclusion: Vyrnwy’s 12% share and the Dee’s strategic importance are well supported. The combined Welsh contribution to United Utilities’ current supply remains unquantified. We should keep those as separate evidence entries until actual source-level abstraction figures are available.”.   
+
+“Fact-check 11: The precise relationship between the Severn–Thames Transfer and Welsh water sources
+
+A direct Welsh source is identified — but the scheme is more complicated than a simple Welsh-to-English pipeline
+
+The central finding: Lake Vyrnwy is explicitly part of the proposed Severn–Thames Transfer system. The Elan Valley is not identified as a direct source in the published Gate 2 design.
+
+The scheme combines:
+
+* Natural flows in the River Severn.
+* Existing water licensed to United Utilities from Lake Vyrnwy, redirected through new infrastructure.
+* Other support sources in England, including treated wastewater and reductions in existing abstractions.
+
+It is therefore inaccurate to describe the whole scheme as either an entirely English water transfer or a straightforward additional abstraction from Wales.
+
+11.1 The proposed route
+
+The basic transfer route is:
+
+* Water is made available in the River Severn catchment.
+* It is abstracted from the River Severn near Deerhurst in Gloucestershire.
+* A proposed pipeline, or an alternative involving restored Cotswold canals, carries it towards Culham in Oxfordshire.
+* It is released into the River Thames for abstraction further downstream.
+
+The proposed interconnector has been assessed at capacities of up to 500 million litres per day, although that is a design capacity, not a guaranteed volume of water available to transfer. Thames Water +2
+
+11.2 The Welsh component: Lake Vyrnwy
+
+The November 2022 Gate 2 technical design identifies up to 180 Ml/d of water already licensed to United Utilities from Lake Vyrnwy as a potential source for the scheme.
+
+It divides this into two components:
+
+Component	Proposed arrangement	Volume
+Direct reservoir release	Release into the head of the River Vyrnwy	25 Ml/d
+Aqueduct diversion	Water sent through the existing Vyrnwy Aqueduct to Oswestry, then through a new bypass pipeline to the River Severn	155 Ml/d
+Total	Existing licensed Vyrnwy water	180 Ml/d
+
+The bypass pipeline is intended to carry water from Oswestry to the River Severn, rather than allowing the diverted volume to travel down the lower River Vyrnwy. The design was changed partly to protect environmentally designated habitats in the River Vyrnwy. severntrent.com +2
+
+The proposed Vyrnwy route
+
+Lake Vyrnwy, Wales
+
+Existing United Utilities licensed resource
+
+25 Ml/d
+
+Direct release
+
+River Vyrnwy
+
+155 Ml/d
+
+Via aqueduct to Oswestry
+
+New bypass pipeline
+
+River Severn
+
+Additional flow available for downstream abstraction
+
+Deerhurst → Culham → River Thames
+
+Proposed transfer towards South East England
+
+Illustrative simplification of the Gate 2 design, not a complete hydraulic schematic. severntrent.com +1
+
+11.3 Does this mean additional water is being taken from Wales?
+
+This is where the wording needs care.
+
+Severn Trent explicitly states:
+
+“No additional water will be taken from Wales.” Severn Trent Plc
+
+The companies’ explanation is that the scheme would use water already taken from Vyrnwy for North West England, redirecting some of it towards the Severn and Thames during transfer operations.
+
+The distinction is:
+
+* Not proposed: a new abstraction from an additional Welsh reservoir or a new allocation of water from Wales.
+* Proposed: redirecting an existing licensed Lake Vyrnwy resource, changing where that water goes and how it is used.
+* Required alongside it: replacement water resources and infrastructure to maintain United Utilities’ North West customer supplies.
+
+The third point is crucial. The North West Transfer (NWT) scheme is designed to provide alternative water resources and modifications to the Vyrnwy Aqueduct so that North West customers can continue receiving supplies when Vyrnwy water is being traded elsewhere.
+
+United Utilities’ Gate 2 report says that its maximum proposed 205 Ml/d transfer would require 167 Ml/d of new treated-water output to compensate for the resulting supply deficit. unitedutilities.com +1
+
+In other words, the arrangement is not simply to take water away from North West customers and send it south. It is a proposed inter-regional water-trading system involving replacement sources, new infrastructure and changes to existing water movements.
+
+But it does mean that an existing Welsh water resource would be contributing to supply in South East England.
+
+11.4 What other sources feed the proposed transfer?
+
+The Gate 2 design identifies several additional sources. These are not all Welsh.
+
+Source	Proposed contribution	Geographic relationship
+Lake Vyrnwy	Up to 180 Ml/d	Wales
+Shrewsbury redeployment	25 Ml/d reduction in existing abstraction	England
+Mythe abstraction reduction	15 Ml/d	England
+Minworth treated wastewater	Up to 115 Ml/d	England
+Netheridge treated wastewater	Up to 35 Ml/d	England
+
+These are potential source-support elements, not a promise that all these volumes would be delivered simultaneously. The scheme’s operation depends on river flows, environmental restrictions, available sources and the timing of drought conditions. severntrent.com +1
+
+The main River Severn transfer also relies on natural river flow. This matters geographically: the Severn catchment includes substantial Welsh headwaters and tributaries as well as English catchments. Water abstracted at Deerhurst therefore comes from a cross-border river system, not an exclusively English-origin water resource. GOV.UK +1
+
+That is a different relationship from deliberately releasing water from Lake Vyrnwy.
+
+11.5 What about Elan Valley, the Dee and Clywedog?
+
+The distinction is important for our resource inventory.
+
+Welsh resource	Directly identified as a Gate 2 STT source?	Finding
+Lake Vyrnwy	Yes	Explicitly identified, up to 180 Ml/d in the Gate 2 design
+Elan Valley reservoirs	No	Not identified as a direct STT source
+River Dee	No	Not identified as a direct STT source
+Llyn Clywedog	Not as a direct source	Part of wider Severn river regulation, rather than a separately identified STT source
+
+The Severn’s wider regulation system does involve reservoirs in Wales, including Clywedog and Vyrnwy. Their existing role in managing river flows should not be confused with the specific additional source elements identified in the STT design. severntrent.com +1
+
+So we should not describe the STT as a proposal to transfer Elan Valley or Dee water to the Thames. That would conflate separate water systems and existing supply arrangements.
+
+11.6 Is the scheme actually going ahead?
+
+Not as an approved, committed construction project.
+
+The UK Government’s April 2025 parliamentary answer confirmed:
+
+* The scheme had progressed through Gate 2.
+* It was continuing to be developed towards Gate 3.
+* It was not then a preferred option in the water companies’ water resource management plans.
+* It remained a contingency option, with a possible transfer of up to 500 Ml/d during drought conditions. UK Parliament
+
+There is also a newer development: the three water companies submitted a letter on changes to the scheme since Gate 2 in April 2026, published by Ofwat on 11 May 2026. The project design should therefore be treated as evolving, rather than assuming every 2022 Gate 2 quantity remains the final configuration. Ofwat +1
+
+11.7 What this means for Welsh strategic-resource accounting
+
+I would record this as a separate case from the existing Elan and Vyrnwy supply arrangements.
+
+It demonstrates a potential additional form of strategic value:
+
+The value of an existing Welsh water resource being made available for a different regional purpose through a wider network of infrastructure and water-resource trading.
+
+There are at least four distinct values to record:
+
+* Resource value: the existing licensed Vyrnwy water allocation.
+* Infrastructure value: the aqueduct, proposed bypass pipeline and River Severn–Thames interconnector.
+* Replacement-resource value: the new North West sources needed to maintain United Utilities’ customer supply.
+* System value: the additional drought resilience potentially provided to the South East through the integrated network.
+
+We should also record the environmental conditions and the implications for the River Vyrnwy and River Severn. The proposed system is subject to environmental assessment, licensing and regulatory approval; it is not an unrestricted right to redirect water.
+
+11.8 Corrected wording for the master document
+
+The precise relationship between the Severn–Thames Transfer and Welsh water sources: The proposed Severn–Thames Transfer (STT) is a regional drought-resilience scheme involving natural flows in the River Severn, additional source-support measures and a proposed interconnector carrying water from the Severn to the Thames. Lake Vyrnwy is explicitly identified as a Welsh source in the published Gate 2 design. That design envisages using up to 180 million litres per day of water already licensed to United Utilities from Lake Vyrnwy: 25 Ml/d released directly into the River Vyrnwy and 155 Ml/d diverted through the existing Vyrnwy Aqueduct to Oswestry and then through a proposed bypass pipeline into the River Severn. The companies describe this as using existing Vyrnwy water rather than taking additional water from Wales. However, the arrangement would redirect an existing Welsh water resource towards the South East during transfer operations, and requires alternative water resources and infrastructure to maintain United Utilities’ North West customer supplies. The associated North West Transfer scheme is designed to provide those replacement resources. Other STT support elements include reduced abstractions at Shrewsbury and Mythe and treated wastewater from Minworth and Netheridge in England. The main River Severn transfer also uses natural flows from a cross-border catchment, including water originating in Welsh headwaters, although this is distinct from the explicit Lake Vyrnwy source contribution. The published Gate 2 design does not identify the Elan Valley reservoirs or River Dee as direct STT sources. The scheme remains a developing contingency option rather than an approved operational transfer, and its design has been subject to further review since Gate 2. The distinction should therefore be maintained between existing Welsh water exports, the proposed redirection of existing Vyrnwy water, natural flows in the cross-border Severn catchment and new replacement resources developed elsewhere in the North West.
+
+11.9 Fact-check status
+
+Claim	Finding
+The STT directly involves Lake Vyrnwy	
+The Gate 2 design uses up to 180 Ml/d of existing licensed Vyrnwy water	
+The scheme proposes a new additional abstraction from Wales	
+Existing Vyrnwy water would be redirected towards the Severn and Thames	
+North West replacement resources are required	
+Elan Valley is a direct STT source	
+The Dee is a direct STT source	
+The natural Severn catchment includes Welsh-origin flows	
+The scheme is approved and operational	
+
+The key distinction for the constitutional and economic analysis: the STT does not simply propose taking a new volume of water from Wales. It proposes changing the destination of an existing Welsh water resource, supported by replacement resources elsewhere. That is still strategically relevant to Wales, but it is a different proposition from a new abstraction or a new Welsh export.
+
+Sources:
+
+* Severn Trent — STT Gate 2 Detailed Feasibility and Concept Design (2022)⁠￼.
+* United Utilities — North West Transfer, UU Sources Gate 2 report⁠￼.
+* Thames Water — Severn to Thames Transfer scheme overview⁠￼.
+* Severn Trent — Severn to Thames Transfer overview⁠￼.
+* UK Parliament — Written answer HL6167, 2 April 2025⁠￼.
+* Ofwat — STT changes since Gate 2, published May 2026⁠￼.”.  
+
+“Fact-check 12: Existing cross-border legal and regulatory arrangements
+
+Substantial arrangements verified
+
+England and Wales already have a formal legal and administrative framework for managing shared water resources. It is more developed than informal cooperation between neighbouring authorities: it includes statutory duties on both governments, a formal intergovernmental protocol, joint river-basin management, cross-border regulatory cooperation and specific legislation for important river systems.
+
+But it is not one unified water authority, nor does it give English water companies an unconditional entitlement to Welsh water.
+
+That distinction matters to the independence question. The existing arrangements show that cross-border water management is workable, but they do not establish what the legal relationship would be between two independent states.
+
+12.1 The central instrument: the Intergovernmental Water Protocol
+
+The Intergovernmental Protocol on Water Resources, Water Supply and Water Quality was agreed in November 2017 under section 50 of the Wales Act 2017 and came into force on 1 April 2018. GOV.UK Assets +2
+
+Its purpose is reciprocal:
+
+* Welsh government decisions and actions should not cause serious adverse effects on water resources, supply or quality in England.
+* UK government decisions and actions should not cause serious adverse effects on water resources, supply or quality in Wales.
+* Both administrations must communicate, consult and cooperate where their decisions may affect the other side of the border.
+
+The protocol requires the administrations to:
+
+* Alert each other to relevant policy developments and planned actions.
+* Consult and consider the other administration’s evidence and views.
+* Make reasonable efforts not to undermine the other administration’s responsibilities.
+* Maintain working-level relationships between relevant departments.
+* Escalate disagreements through official and ministerial channels.
+
+It also has a dispute procedure. If a dispute cannot be resolved through discussion, it can be escalated through the intergovernmental dispute-resolution machinery. Pending resolution, the disputed function must be suspended, or, where there is inaction, exercised in a way that mitigates the serious adverse impact. GOV.UK Assets
+
+This is more than a statement of goodwill. Section 50(5) of the Wales Act 2017 requires the Welsh Ministers and Secretary of State to exercise their functions in accordance with the protocol, unless it is revoked by agreement.
+
+Section 51 also imposes reciprocal duties: Welsh Ministers must have regard to the interests of consumers in England, and the Secretary of State must have regard to consumers in Wales. Legislation.gov.uk +1
+
+What it does not do: it does not give English consumers ownership of Welsh water, guarantee a particular transfer volume, or establish an unrestricted right for an English water company to abstract water in Wales.
+
+12.2 Who regulates what?
+
+The present system divides responsibilities geographically and by function.
+
+Institution	Main responsibility
+Welsh Government	Water policy, planning consent and devolved water-resource functions in Wales
+Defra / UK Government	Water policy and relevant government functions in England
+Natural Resources Wales (NRW)	Environmental regulation, abstraction licensing and water-resource management in Wales
+Environment Agency (EA)	Environmental regulation, abstraction licensing and water-resource management in England
+Ofwat	Economic regulation of water and sewerage companies in England and Wales
+Drinking Water Inspectorate (DWI)	Drinking-water quality regulation
+Consumer Council for Water	Consumer representation and complaints
+
+The important point is that the water-company boundaries do not necessarily follow the national border. Some undertakers operate across England and Wales, reflecting historical water networks and river catchments. The Senedd’s research briefing describes this as one of the most complicated aspects of the devolution settlement. Senedd Cymru +2
+
+Planning powers are also relevant. The UK Government confirmed in May 2025 that planning consent for water-resource infrastructure projects in Wales, including reservoirs, is devolved to the Welsh Government. Cross-border projects should involve the relevant administrations and regulators. UK Parliament
+
+12.3 Water-resource management plans must account for cross-border effects
+
+Water companies have statutory duties to plan for secure supplies to their customers.
+
+Their Water Resources Management Plans (WRMPs) set out how they intend to balance supply and demand over the long term. These plans are scrutinised by regulators, with cross-border matters requiring cooperation between the regulators and relevant administrations.
+
+There is particularly useful confirmation in a parliamentary answer dated 15 July 2026. Responding to a question about English water companies obtaining water from Wales, the Government stated:
+
+* Water companies must prepare statutory WRMPs.
+* Where cross-border matters arise, regulators on both sides of the border scrutinise the plans.
+* Decisions on those plans are made in consultation with the relevant administration. UK Parliament
+
+This is direct evidence that the current arrangements recognise the interests of both sides when English companies plan their future use of Welsh resources.
+
+It is also a useful distinction between consultation and consent: the parliamentary answer confirms consultation with the relevant administration, but does not establish a general Welsh veto over every English water-resource proposal.
+
+12.4 Cross-border abstraction licensing
+
+The Environment Agency and NRW have arrangements for dealing with competing abstraction proposals in shared catchments.
+
+Under current Environment Agency guidance, published in November 2025:
+
+* The Environment Agency identifies whether proposals compete for the same available water.
+* In a cross-border catchment, it checks with NRW.
+* If competing proposals exist, the EA and NRW work together to determine which proposals should receive licences, if any.
+* They can consider splitting or sharing the available resource, provided this is environmentally acceptable, enforceable and does not adversely affect existing rights. GOV.UK
+
+This is important because it shows that water allocation is already treated as a cross-border management issue.
+
+It also shows that a water company’s commercial demand is not, by itself, sufficient to establish an entitlement to abstract water. Environmental conditions, existing users and available flows remain relevant.
+
+12.5 The Dee has particularly developed joint arrangements
+
+The Dee is a particularly useful example because it has a bespoke statutory management system.
+
+The Dee and Clwyd River Authority Act 1973 provides the legal basis for the Dee Regulation System.
+
+According to NRW’s draft Dee River Basin Management Plan for 2027–2033:
+
+* NRW and the Environment Agency are jointly responsible for managing the Dee Regulation System.
+* The Dee Consultative Committee oversees the regulation of river flows.
+* Reservoir releases in the upper catchment support drinking-water abstraction, modified flood response, fisheries, recreation and pollution-related benefits.
+* The Dee Steering Committee brings together environmental regulators and four water companies to monitor water quality.
+* The catchment upstream of Chester Weir is a designated Water Protection Zone. Natural Resources Wales
+
+The draft plan also identifies the Dee as a strategic drinking-water source for nearly three million people.
+
+This is a significant example of established joint governance rather than simply two regulators exchanging information when something goes wrong.
+
+12.6 The Severn also has formal cross-border regulation
+
+The Severn system has its own statutory and operational arrangements.
+
+* The Clywedog Reservoir Joint Authority Act 1963 establishes the joint authority framework for the reservoir.
+* The Severn Regulation system uses releases from Llyn Clywedog, Lake Vyrnwy and the Shropshire Groundwater Scheme to support river flows.
+* The Environment Agency manages the relevant flow requirements in consultation with NRW.
+* The Severn River Basin Management Plan is led by the Environment Agency, working with NRW on the cross-border catchment. ymgynghori.cyfoethnaturiol.cymru +3
+
+A particularly current example is the 2026 River Severn drought-order application.
+
+The Environment Agency and NRW jointly applied for an ordinary drought order to modify the Clywedog statutory release requirements and the Shropshire Groundwater Scheme licence. The purpose was to conserve reservoir storage during exceptional drought conditions while maintaining more sustainable river flows. ymgynghori.cyfoethnaturiol.cymru
+
+This demonstrates that joint arrangements are not merely theoretical: they can be used for actual operational decisions under difficult conditions.
+
+12.7 River-basin management plans
+
+There is also a broader environmental-planning framework.
+
+The Environment Agency and NRW coordinate river-basin management across catchments that cross or follow the England–Wales border.
+
+The two important examples for our research are:
+
+* Dee River Basin District: jointly managed by NRW and the Environment Agency, with separate responsibilities for coordinating future water planning in Wales and England.
+* Severn River Basin District: led by the Environment Agency, with NRW collaborating on the Welsh and cross-border parts.
+
+These plans cover water quality, ecological condition, pollution pressures, abstraction, protected habitats and measures to improve the water environment. Natural Resources Wales +2
+
+This means the strategic value of Welsh water cannot be considered independently of the environmental duties attached to the river systems.
+
+12.8 What would happen under Welsh independence?
+
+This is where we must distinguish the existing arrangements from a future settlement.
+
+The present protocol is an agreement between the UK Secretary of State and Welsh Ministers, operating within the constitutional structure of the United Kingdom. It is not an international treaty between two sovereign states.
+
+Consequently, we should not assume that it would automatically continue unchanged after Welsh independence.
+
+An independence settlement would need to establish new arrangements, potentially covering:
+
+Subject	Existing arrangement	Issue for an independent Wales
+Water-resource policy	Devolved Welsh and UK government responsibilities	Separate sovereign policy and coordination
+Abstraction licences	EA and NRW cooperate in cross-border catchments	Mutual recognition, coordination and enforcement
+Dee regulation	Joint statutory management	Continuity or replacement of joint authority arrangements
+Severn regulation	Existing statutory releases and regulatory cooperation	Reservoir operations and cross-border river-flow obligations
+Water-company planning	Cross-border WRMP scrutiny	Continued consultation and agreed planning procedures
+Water quality	Joint monitoring and river-basin planning	Shared standards, data and pollution-response arrangements
+Reservoir construction	Welsh planning consent, with cross-border consultation	Agreements on impacts and downstream interests
+Drought management	Existing joint regulatory mechanisms	Emergency powers, priority rules and dispute resolution
+
+Some of the existing statutory arrangements could potentially be preserved through transitional legislation or a bilateral agreement. Others might need replacement or amendment.
+
+The Dee and Clywedog arrangements are especially important because they are grounded in specific legislation, rather than depending solely on the general intergovernmental protocol.
+
+I would not assume that independence automatically extinguishes every existing right, licence or statutory mechanism. Equally, I would not assume that UK institutions could continue exercising powers inside Wales without an agreed legal basis.
+
+12.9 What this means for the Welsh strategic-resource account
+
+I would add a distinct category:
+
+Cross-border governance and institutional dependency.
+
+For each water system, record:
+
+* The physical resource and its location.
+* The current owner and operator.
+* The relevant abstraction licences and statutory rights.
+* The environmental regulator or regulators.
+* The water companies and receiving populations.
+* Existing statutory and intergovernmental arrangements.
+* Emergency and drought-management provisions.
+* The legal changes required under alternative constitutional arrangements.
+
+This is important because Wales’s strategic contribution is not just the water itself. It also includes the reservoirs, river catchments, flow-regulation infrastructure, environmental management and institutional arrangements that make reliable cross-border supply possible.
+
+12.10 Corrected wording for the master document
+
+Existing cross-border legal and regulatory arrangements: England and Wales currently have a formal framework for managing shared water resources, water supply and water quality. The Intergovernmental Protocol on Water Resources, Water Supply and Water Quality, made under section 50 of the Wales Act 2017 and in force since April 2018, requires the Welsh Ministers and UK Secretary of State to communicate, consult and cooperate where decisions may have cross-border effects. The protocol includes a dispute-resolution process and reciprocal duties to have regard to consumers on the other side of the border. Water companies prepare statutory Water Resources Management Plans, and the UK Government confirmed in July 2026 that cross-border matters in these plans are scrutinised by regulators on both sides and considered in consultation with the relevant administration. Natural Resources Wales and the Environment Agency also cooperate on abstraction licensing and river-basin management in shared catchments. The River Dee has particularly developed statutory arrangements under the Dee and Clwyd River Authority Act 1973, including joint management of river regulation, reservoir releases and water-quality monitoring. The Severn has its own reservoir and river-flow regulation arrangements, including the Clywedog Reservoir Joint Authority Act 1963 and joint operational work by the Environment Agency and NRW. These arrangements demonstrate established institutional cooperation over cross-border water resources, but do not give English water companies unconditional rights to Welsh water. Under a hypothetical Welsh independence settlement, the existing UK intergovernmental protocol could not simply be assumed to continue unchanged. New bilateral or multilateral arrangements would need to address abstraction rights, reservoir operations, environmental standards, drought management, water-company planning, dispute resolution and the continuity of existing statutory river-management systems.
+
+12.11 Fact-check status
+
+Claim	Finding
+A formal England–Wales water protocol exists	
+The protocol has statutory backing	
+Cross-border WRMPs receive regulatory scrutiny on both sides	
+EA and NRW cooperate on cross-border abstraction	
+The Dee has bespoke joint statutory arrangements	
+The Severn has formal reservoir and flow-regulation arrangements	
+English water companies have unconditional rights to Welsh water	
+The current protocol would automatically survive independence	
+Future independent-state arrangements would require negotiation	
+
+Sources
+
+* Intergovernmental Protocol on Water Resources, Water Supply and Water Quality (2017)⁠￼.
+* Wales Act 2017, sections 50–51⁠￼.
+* House of Lords written answer, 15 July 2026: cross-border water-resource planning⁠￼.
+* Environment Agency: Water abstraction licences and competing proposals (2025)⁠￼.
+* NRW: Draft Dee River Basin Management Plan 2027–2033⁠￼.
+* NRW: River Severn drought-order environmental assessment (2026)⁠￼.
+* Severn River Basin Management Plan and cross-border catchments⁠￼.
+* Ofwat: Legislation governing the water industry⁠￼.
+
+The key constitutional finding: cross-border water cooperation is already a normal and legally structured part of managing Welsh resources. Independence would not make cooperation unnecessary; it would change the legal basis on which that cooperation takes place. The existing Dee and Severn arrangements offer concrete starting points for examining what a successor agreement might need to preserve.”.  
+
+“Fact-check 13: What international water law would apply following Welsh independence
+
+The central point is that an independent Wales would not be starting from a legal vacuum. International water law already contains rules for rivers and aquifers shared by more than one state. Those rules could provide a framework for relations between Wales and England (as part of the continuing UK).
+
+However, we need to distinguish three things:
+
+* Customary international law — rules that may bind states independently of whether they have joined a particular treaty.
+* Multilateral water treaties — binding obligations only where the relevant state is party to them, subject to their terms and any succession questions.
+* A Wales–UK agreement — a bilateral settlement that could specify how shared rivers, reservoirs, abstractions and infrastructure would actually be managed.
+
+The distinction is important: it would be unsafe to say that every international water treaty currently applicable to the UK would automatically apply to an independent Wales. Treaty succession would need to be examined treaty by treaty.
+
+13.1 The two principal international water conventions
+
+There are two major international instruments worth examining.
+
+A. The 1992 UNECE Water Convention
+
+Its full title is the Convention on the Protection and Use of Transboundary Watercourses and International Lakes.
+
+It establishes a framework for:
+
+* Preventing, controlling and reducing transboundary impacts.
+* Using shared waters reasonably and equitably.
+* Cooperating between states sharing rivers, lakes and groundwater.
+* Establishing joint bodies and river-basin arrangements.
+* Monitoring water quality and exchanging information.
+
+It is no longer restricted to European states. Since 2016, all UN member states can accede. UNECE +2
+
+Important finding about the UK: the UK signed the Convention on 18 March 1992 but has not ratified it. It is therefore a signatory, not a party. treaties.un.org
+
+B. The 1997 UN Watercourses Convention
+
+Its full title is the Convention on the Law of the Non-Navigational Uses of International Watercourses.
+
+This is a global treaty covering non-navigational uses of international watercourses, including water supply, agriculture, industry, hydropower and environmental protection.
+
+Its central provisions include:
+
+Article	Principle
+5	Equitable and reasonable utilisation
+6	Factors used to assess equitable utilisation
+7	Obligation to take appropriate measures to prevent significant harm
+8	General obligation to cooperate
+9	Regular exchange of relevant data and information
+10	No inherent priority between uses, with special regard to vital human needs
+11–12	Information and notification about planned measures
+20–21	Protection of ecosystems and prevention of pollution
+
+mandates.un.org +1
+
+Important finding about the UK: the UK has not acceded to this Convention either. The UK Government’s own treaty publication confirms that. GOV.UK +1
+
+13.2 The principles that would apply even without treaty membership
+
+This is probably the most important part of the answer.
+
+The absence of UK membership of those two conventions does not mean that the UK, or a future independent Wales, would be free to use shared rivers however it wished.
+
+The UNECE identifies three central principles as part of customary international law:
+
+* Equitable and reasonable utilisation.
+* Prevention of significant transboundary harm.
+* Cooperation between states sharing water resources.
+
+These principles are reflected in both international water conventions. UNECE +1
+
+Customary international law is important because it can bind states independently of whether they have ratified a particular treaty.
+
+What would that mean in practice?
+
+* Wales could use water resources within its territory.
+* England could use the parts of shared watercourses within its territory.
+* Neither state would have an unrestricted right to use shared water resources to the serious detriment of the other.
+* Both would have duties to cooperate and take relevant cross-border impacts into account.
+
+This is not a system of equal quantities divided automatically down the middle. Nor does it give either state absolute control over the entire river.
+
+13.3 What counts as equitable and reasonable use?
+
+Article 6 of the 1997 Convention provides a useful analytical framework.
+
+It lists factors including:
+
+* Geography and hydrology.
+* Climate and ecology.
+* Social and economic needs.
+* Population dependent on the watercourse.
+* Existing and potential uses.
+* Conservation and environmental protection.
+* The availability of alternative resources.
+
+The factors must be considered together; no single factor automatically determines the result. mandates.un.org +1
+
+For Wales, this is particularly interesting.
+
+Imagine a dispute over water from the River Severn. An assessment could consider:
+
+Factor	Welsh interest	English interest
+Geography	Welsh headwaters and upper catchment	Downstream catchment and communities
+Population	Welsh communities and water users	English communities and water users
+Existing use	Reservoirs, abstraction, agriculture, ecology	Downstream abstraction, agriculture, industry
+Environmental needs	Welsh river habitats and ecological flows	Downstream habitats and water quality
+Alternatives	Welsh storage, demand management and other supplies	English reservoirs, transfers and alternative sources
+Future demand	Welsh population and economic development	English population and economic development
+
+The existence of established English users would be relevant. So would Welsh future demand, environmental requirements and the availability of alternative supplies.
+
+This is not a legal guarantee that existing English transfers would continue unchanged.
+
+But neither could Wales simply disregard the downstream consequences of a major alteration to a shared river.
+
+13.4 The no-significant-harm principle is not an absolute veto
+
+A particularly important legal qualification.
+
+The obligation to prevent significant harm is generally understood as an obligation of due diligence: a state must take appropriate measures to prevent foreseeable significant harm. It is not an absolute guarantee that no harm will ever occur.
+
+The International Court of Justice has considered this principle in cases involving shared water resources and environmental impacts. Its reasoning recognises the importance of equitable utilisation alongside the prevention of harm. Justia Law +2
+
+This matters because an English objection to a Welsh water project would not automatically make that project unlawful.
+
+The relevant questions would include:
+
+* What harm is foreseeable?
+* How serious is it?
+* What preventive measures are available?
+* Has the state assessed the consequences properly?
+* Is the proposed use equitable and reasonable in the circumstances?
+
+Where a project carries a risk of significant transboundary environmental harm, international case law also supports a requirement for environmental impact assessment and, where appropriate, notification and consultation. icj-web.leman.un-icc.cloud +1
+
+13.5 Would Wales inherit the UK’s existing treaty obligations?
+
+This requires care. It is a separate question from customary international law.
+
+The 1978 Vienna Convention on Succession of States in Respect of Treaties addresses what happens to treaty obligations when states separate or new states emerge.
+
+Its Article 34 provides for treaty continuity when part of a state separates to form a new state. However, the Convention’s relationship with customary international law is not straightforward: the UN’s own legal materials caution that Article 34 cannot necessarily be treated as reflecting customary international law in every case. Wikisource, the free online library +1
+
+There is another important distinction:
+
+* The Convention’s term newly independent State is specifically defined around a previously dependent territory.
+* An independent Wales emerging from a devolved part of the UK would not straightforwardly fit that definition.
+* The UK is not a party to the 1978 Succession Convention.
+
+Consequently, we should not present treaty succession as an automatic, settled answer.
+
+For the two water conventions, the practical position is clearer:
+
+Instrument	UK position today	Likely position for independent Wales
+1992 UNECE Water Convention	Signed, not ratified	Could accede in its own right
+1997 UN Watercourses Convention	Not a party	Could accede in its own right
+Customary international water law	Applicable to the UK	Would apply to Wales as a state, subject to the relevant rules
+
+The first two would be matters for a new Welsh government to pursue through accession. The customary principles would not depend on that decision.
+
+13.6 An important distinction: shared rivers versus exported water
+
+This is especially relevant to the earlier research on Lake Vyrnwy and the Elan Valley.
+
+International watercourse law is principally concerned with watercourses that physically form a connected system across state territories.
+
+Under Article 2 of the 1997 Convention, an international watercourse is a system of connected surface waters and groundwater, parts of which are situated in different states. mandates.un.org
+
+That gives us two different situations:
+
+Situation A: A river crosses the border
+
+The Severn, Dee and Wye systems are relevant examples. If Wales became independent, the relevant cross-border sections would become international watercourses.
+
+The international principles of equitable utilisation, prevention of significant harm and cooperation would be directly relevant.
+
+Situation B: Water is abstracted in Wales and transported to England
+
+Lake Vyrnwy is the important example.
+
+Water is abstracted from a reservoir in Wales and conveyed through infrastructure to customers in north-west England.
+
+That is not automatically the same legal situation as two states sharing a natural river. The pipeline transfer is an inter-state water supply arrangement, involving infrastructure, abstraction rights, contracts and potentially treaty rights.
+
+International watercourse principles could still be relevant where the abstraction affects a shared watercourse or its ecology. But they do not, by themselves, establish an unconditional right to continue exporting a particular volume through a pipeline.
+
+This distinction should be retained in the research.
+
+13.7 Would historic water transfers give England a permanent entitlement?
+
+Not automatically.
+
+Existing uses are expressly relevant to equitable and reasonable utilisation. The population dependent on a watercourse is also relevant.
+
+That means the long-standing supply of water from Vyrnwy or the Elan Valley could be an important factor in negotiations.
+
+But the existence of a historic transfer does not, by itself, establish a permanent and unrestricted international entitlement to that water.
+
+The International Court of Justice’s 1997 Gabčíkovo–Nagymaros judgment is useful here. It rejected the unilateral appropriation of a shared water resource and emphasised the need to respect equitable and reasonable sharing. Justia Law +1
+
+For the Welsh case, the right questions are therefore:
+
+* What existing legal rights would remain valid?
+* Which are domestic licences, contracts or statutory arrangements?
+* Which would need to be renegotiated?
+* What role would historic use play in an equitable allocation?
+* What would happen if Welsh domestic demand increased?
+* What would happen during prolonged drought?
+
+These are not all questions that international water law answers on its own.
+
+13.8 What a Wales–UK water treaty could establish
+
+An independent Wales and the continuing UK could negotiate a bilateral water agreement, potentially building on the existing Dee and Severn institutions.
+
+I would expect it to address:
+
+Subject	Possible treaty provision
+Water allocation	Agreed abstraction and transfer arrangements
+Existing infrastructure	Access, operation, maintenance and ownership
+Drought	Shared shortage planning and emergency arrangements
+Environmental flows	Minimum flows and ecological protections
+Reservoir operations	Joint operating rules and release requirements
+Data	Hydrological monitoring and information sharing
+New infrastructure	Notification, assessment and consultation
+Disputes	Joint commission, mediation and arbitration
+Compensation	Agreed rules for damage, interruption or infrastructure use
+Review	Periodic review as climate and population demands change
+
+The UNECE Water Convention is particularly useful as a framework for this. It encourages parties sharing transboundary waters to establish specific agreements and joint bodies rather than relying on general principles alone. UNECE +1
+
+13.9 Corrected wording for the master document
+
+International water law following Welsh independence: An independent Wales would be subject to the customary principles of international water law governing shared rivers and other international watercourses. The central principles include equitable and reasonable utilisation, cooperation between states sharing water resources, and the obligation to take appropriate measures to prevent significant transboundary harm. These principles are recognised as customary international law and therefore do not depend solely on membership of a particular water treaty. Two major instruments provide more detailed frameworks: the 1992 UNECE Convention on the Protection and Use of Transboundary Watercourses and International Lakes, and the 1997 UN Convention on the Law of the Non-Navigational Uses of International Watercourses. The UK signed the 1992 Convention but has not ratified it, and is not a party to the 1997 Convention. An independent Wales could pursue accession to both in its own right. The detailed rules of treaty succession should not be assumed to produce automatic Welsh membership or inheritance of every UK treaty obligation. Under international water law, the Severn, Dee and Wye systems would be relevant as shared international watercourses, requiring equitable and reasonable utilisation, cooperation and appropriate protection against significant cross-border harm. Existing English water use and dependent populations would be relevant factors in assessing equitable utilisation, but historic use would not automatically establish an unrestricted or permanent entitlement to Welsh water. Water exported through infrastructure such as the Lake Vyrnwy aqueduct presents an additional question: pipeline transfers, abstraction rights, contracts and infrastructure access would need to be addressed through the applicable legal arrangements and, potentially, a new bilateral treaty. A Wales–UK water agreement could preserve and develop existing Dee and Severn cooperation while establishing new arrangements for allocation, drought management, environmental flows, infrastructure, data-sharing and dispute resolution.
+
+13.10 Fact-check status
+
+Claim	Finding
+International water law would apply to shared rivers after independence	
+Equitable and reasonable utilisation is a central principle	
+Prevention of significant transboundary harm is a customary principle	
+Cooperation is a customary principle	
+The UK is a party to the 1992 Water Convention	
+The UK is a party to the 1997 Watercourses Convention	
+Wales could accede to the two conventions independently	
+Existing English water use would be irrelevant	
+Historic English water use guarantees permanent access	
+International law automatically guarantees continued Vyrnwy pipeline exports	
+A bilateral Wales–UK water agreement would be useful	
+
+Sources
+
+* UNECE — Introduction to the Water Convention⁠￼.
+* UN Treaty Collection — 1992 Water Convention status and UK signature⁠￼.
+* UK Government — 1997 UN Watercourses Convention treaty publication⁠￼.
+* UN — 1997 Watercourses Convention, full text⁠￼.
+* UNECE — Water Convention frequently asked questions and customary international law⁠￼.
+* UN International Law Commission — treaty succession and customary-law limitations⁠￼.
+* ICJ — Gabčíkovo–Nagymaros Project judgment (1997)⁠￼.
+* ICJ — Pulp Mills on the River Uruguay (2010)⁠￼.
+
+My assessment: this is a strong addition to the Welsh strategic-resource analysis. It gives us a legal basis for saying that Welsh water is not simply an internal UK resource whose future use is determined unilaterally by Westminster. Once independence occurred, shared rivers would be governed by international obligations between neighbouring states. But those obligations would require equitable cooperation, not simply transfer the existing domestic settlement into international law.”.  
+
+“you did not break me: I’m still fighting for peace.”.  
+
