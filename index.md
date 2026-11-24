@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-11-24 20:06:21 UTC_
+_Generated on 2026-11-24 22:42:17 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -962,6 +962,7 @@ _Generated on 2026-11-24 20:06:21 UTC_
         - [`🪁_what_if_starmer_had_kept_pursuing_savile.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🍊🔔_PR_Americana/🪁_what_if_starmer_had_kept_pursuing_savile.md)
       - [**🎩_Putting_On_Less_Ritz/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/)
         - [**🧬_Experiment_IV/**](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/)
+          - [`202061124_bbc_004.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/202061124_bbc_004.PNG)
           - [`202061124_dod_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/202061124_dod_001.PNG)
           - [`202061124_gizmodo_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/202061124_gizmodo_001.PNG)
           - [`202061124_gov_uk_001.PNG`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/♻️🕸️_The_Feedback_Environment/🎩_Putting_On_Less_Ritz/🧬_Experiment_IV/202061124_gov_uk_001.PNG)
