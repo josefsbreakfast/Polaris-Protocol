@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-11-24 00:18:52 UTC_
+_Generated on 2026-11-24 13:08:02 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -4123,6 +4123,8 @@ _Generated on 2026-11-24 00:18:52 UTC_
           - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/🪢_Solidarity_Without_Collapse/notes.txt)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/README.md)
         - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🍉_Palestine_As_Rhizome/notes.txt)
+      - [**🐉_Yma_O_Hyd/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🐉_Yma_O_Hyd/)
+        - [`notes.txt`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/🐉_Yma_O_Hyd/notes.txt)
       - [**💀_WTF_Oxon/**](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/)
         - [`README.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/README.md)
         - [`⚖️_balancing_rights_and_duties.md`](🌓_3_In_The_Moment/📲_Press_Matters/🌱_Prosocial_Roots/💀_WTF_Oxon/⚖️_balancing_rights_and_duties.md)
