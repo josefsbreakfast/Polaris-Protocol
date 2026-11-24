@@ -1894,3 +1894,807 @@ That is not the same as saying Wales has no meaningful autonomy. It means that t
 
 The next question I would examine is whether this makes the UK constitution effectively unitary, despite its devolved institutions — or whether it has evolved into something closer to a quasi-federal system in practice. That distinction will help us understand whether the current arrangement is simply unfinished devolution or a structural constitutional contradiction.”  
 
+“3. To what extent does Wales need its own legal jurisdiction to exercise meaningful autonomy?
+
+This is a particularly important question because it exposes a gap in the Welsh constitutional settlement.
+
+Wales already makes its own laws, but it does not have full control over the legal institutions that interpret, administer and enforce them.
+
+That is the starting point. But there is a distinction we need to make before going further: a distinct body of Welsh law is not necessarily the same thing as a separate Welsh legal jurisdiction.
+
+And, interestingly, the Welsh Government has recently been quite explicit about that distinction.
+
+1. What Wales currently has
+
+Wales and England share one legal jurisdiction.
+
+That means they have a common overarching court system, judiciary and legal-professional framework, even though the laws applying in the two countries increasingly differ.
+
+For example:
+
+* Welsh housing law can differ from English housing law.
+* Welsh education legislation can differ from English education legislation.
+* Welsh environmental regulations can differ from English regulations.
+* Welsh health and social care legislation can establish different legal duties.
+
+These are not simply local variations in how the same law is administered. They can be genuinely different legal rules.
+
+The Welsh Government itself explains that Welsh legislation and the case law interpreting it form part of the law of England and Wales, even where the legislation applies only in Wales. GOV.WALES +1
+
+The Senedd has therefore developed a distinct body of Welsh law without Wales having a separate legal jurisdiction.
+
+2. Three different things that are easily confused
+
+I think we need three categories.
+
+Already exists
+
+A distinct body of Welsh law
+
+Welsh legislation applies to Wales and can establish legal rules different from those in England.
+
+A developing concept
+
+Formal recognition of a Welsh legal jurisdiction
+
+Wales would be formally recognised as having its own jurisdictional identity, reflecting its distinct legislation and legal development. This does not necessarily require entirely separate courts or a separate legal profession.
+
+A more extensive institutional change
+
+A separate Welsh court and justice system
+
+Wales would have substantially autonomous arrangements for courts, judicial administration, justice policy and the institutions responsible for administering the law.
+
+These distinctions matter because people sometimes use separate jurisdiction to mean all three things.
+
+The Law Society of England and Wales, in a November 2025 position paper, specifically distinguishes a distinct Welsh jurisdiction from a fully separate one. It supports recognition of the former but opposes the latter, citing institutional costs and potential complications for cross-border legal work. The Law Society +1
+
+3. Why does the current arrangement create difficulties?
+
+The strongest argument is not simply about national identity or constitutional symbolism.
+
+It concerns accountability and the ability to join up public policy.
+
+Consider the relationship between these services:
+
+A person’s route through public services
+
+Housing and homelessness
+
+Welsh Government responsibility
+
+Mental health and healthcare
+
+Welsh Government responsibility
+
+Policing and criminal justice
+
+Substantial UK Government responsibility
+
+Prisons, probation and rehabilitation
+
+Predominantly UK Government responsibility
+
+Illustrative policy pathway, not a compulsory sequence for every individual.
+
+The problem is that many of the services that influence offending, rehabilitation and prevention are devolved, while important justice institutions remain under UK control.
+
+This can create:
+
+* divided accountability;
+* different policy priorities;
+* difficulties sharing information;
+* fragmented budgets;
+* competing institutional objectives;
+* difficulty evaluating outcomes across the whole system.
+
+The Independent Commission on the Constitutional Future of Wales’s justice subgroup identified precisely this problem. It argued that the division between devolved public services and reserved justice institutions makes coherent policy more difficult. GOV.WALES +1
+
+The commission recommended a staged programme of justice devolution, beginning with areas such as policing, probation and youth justice.
+
+It envisaged a programme taking approximately ten years, rather than an overnight transfer of the entire system. GOV.WALES +1
+
+That is an important distinction: the argument for justice devolution is not necessarily an argument for immediately creating a wholly separate legal system.
+
+4. What would a Welsh jurisdiction actually achieve?
+
+There are several potential benefits.
+
+A. Clearer legal identity
+
+As Welsh legislation grows, there is a practical need to make it easier for citizens, lawyers, businesses and public authorities to understand which law applies.
+
+A formal Welsh jurisdiction could clarify that Wales is not simply a place where English law has some local amendments.
+
+It has its own developing body of legislation, legal institutions and democratic law-making authority.
+
+B. Greater judicial leadership
+
+A Welsh jurisdiction could create stronger institutional recognition of Welsh legal expertise and priorities.
+
+The Welsh Government has argued that Wales should benefit from stronger local judicial leadership, drawing comparisons with Scotland and Northern Ireland. GOV.WALES +1
+
+C. Better alignment between legislation and enforcement
+
+If Wales makes a law, it should be possible to develop a coherent system for administering and enforcing that law.
+
+This does not mean every legal function must be controlled exclusively by Welsh institutions. But there is a legitimate question about why responsibility for making policy and responsibility for administering its consequences are divided between governments.
+
+D. Greater democratic accountability
+
+If the Welsh Government has responsibility for a justice policy, Welsh voters should be able to scrutinise the ministers and institutions responsible for implementing it.
+
+That is difficult when the relevant services answer to UK ministers.
+
+The Independent Commission argued that the case for justice devolution rests substantially on this accountability problem, rather than simply on the possibility of making criminal law different in Wales. GOV.WALES +1
+
+5. Does a Welsh jurisdiction mean completely separate courts?
+
+Not necessarily. And this is where a particularly interesting development occurred in the Senedd.
+
+On 20 October 2026, the Counsel General, Elfyn Llwyd, was asked about the implications of establishing a distinct or separate Welsh legal jurisdiction.
+
+He made a clear distinction between the two concepts.
+
+He said the Welsh Government supports the formal establishment of a Welsh legal jurisdiction to provide greater clarity for citizens and legal practitioners as Welsh law develops.
+
+Importantly, he said this would not in practice require:
+
+* a completely separate judiciary;
+* a completely separate court system;
+* a separate legal profession;
+* different professional qualifications;
+* separate regulatory requirements.
+
+He also said lawyers would continue to be able to practise across the border, provided they understood the relevant law. OpenSenedd
+
+This is a significant clarification of what the current Welsh Government is proposing.
+
+It suggests that formal recognition of a Welsh jurisdiction need not mean building an entirely new legal infrastructure.
+
+There is still a distinction between that proposal and transferring all justice responsibilities to Wales. They are related but separate constitutional questions.
+
+6. What are the arguments against it?
+
+There are real practical considerations.
+
+Concern	What would need addressing
+Cost	Court administration, judicial support, technology and institutional capacity
+Workforce	Recruitment, retention and training of legal and judicial personnel
+Cross-border cases	Consistent arrangements for cases involving England and Wales
+Legal profession	Maintaining professional mobility and compatible regulation
+Businesses	Certainty for organisations operating across the border
+Court capacity	Ensuring adequate geographical access and timely hearings
+
+The Law Society’s November 2025 position is particularly useful here. It argues that a distinct Welsh legal identity can be recognised without creating a fully separate legal system, and warns that the latter could introduce unnecessary costs and complexity. The Law Society
+
+The UK Government’s traditional argument has also been that the shared jurisdiction provides efficiencies and established infrastructure.
+
+That should be considered on its practical merits. But it does not establish that every aspect of justice must remain under UK political control.
+
+7. What is the present Welsh Government actually proposing?
+
+There is an important recent development.
+
+The Counsel General’s October 2026 statement indicates support for formally establishing a Welsh legal jurisdiction while retaining shared professional and institutional arrangements.
+
+The Welsh Government’s broader 2026 constitutional paper also argues for a discrete Welsh court system and stronger Welsh judicial leadership. That document sets out a wider constitutional argument, and should not be treated as identical to the more specific clarification given by the Counsel General in October. GOV.WALES +1
+
+The Independent Commission’s 2024 justice subgroup took a staged approach: it considered formal jurisdictional recognition desirable in due course, but not the first priority. Its immediate priority was improving accountability and delivery through justice devolution. GOV.WALES
+
+So there are several strands of policy discussion, not one settled institutional blueprint.
+
+8. The key question: what is the minimum necessary for meaningful autonomy?
+
+I would break this into four levels.
+
+Level	What Wales would control	What it would mean
+1	Existing Welsh law-making	Current arrangement
+2	More justice policy and administration	Greater ability to align justice with Welsh public services
+3	Formal Welsh jurisdiction	Legal recognition of Wales’s distinct body of law
+4	Extensive independent justice institutions	Greater control over courts, judiciary and justice administration
+
+These are not necessarily an all-or-nothing package. Some could be developed together, others in stages.
+
+My analytical distinction would be:
+
+* A separate jurisdiction is not a strict prerequisite for Wales to exercise meaningful autonomy over health, education, housing, environment or many other devolved areas.
+* Greater control over justice institutions becomes increasingly relevant if Wales wants coherent responsibility for policing, criminal justice and the enforcement of its own laws.
+* Formal jurisdictional recognition addresses the constitutional and practical consequences of Wales having its own growing body of law.
+* A wholly separate court system is a much larger institutional choice, and its necessity cannot simply be assumed.
+
+9. How I would frame this in our Burnham examination
+
+There is a question that goes right to the heart of the policing and criminal justice arguments.
+
+Can Westminster reasonably argue that Wales needs to retain UK-level justice institutions for the sake of integration, while simultaneously expecting the Welsh Government to take responsibility for the social policies that are supposed to prevent crime and support rehabilitation?
+
+The answer depends on the functions involved. Some are naturally cross-border or UK-wide; others may be more effectively coordinated at Welsh level.
+
+But the existence of shared legal infrastructure does not, on its own, settle where political accountability should sit.
+
+I would therefore keep three questions separate as we continue:
+
+* Should Wales have greater control over policing and justice?
+* Should Wales have formal recognition as a distinct legal jurisdiction?
+* Should Wales eventually have a substantially separate court and judicial system?
+
+They are connected, but they do not have to be answered identically.
+
+My provisional finding: Wales can exercise meaningful autonomy without immediately establishing an entirely separate legal system. But as its legislative powers and body of Welsh law develop, the case for formal jurisdictional recognition becomes increasingly relevant. And if it wants full responsibility for justice policy, the question of who controls the institutions administering justice becomes much harder to avoid.
+
+The next item in our agenda is fiscal autonomy: how much practical self-government can Wales exercise if it does not control most of the money it spends?”.  
+
+“4. How much practical independence can Wales exercise while relying principally on a UK block grant?
+
+The answer is: Wales has substantial freedom to decide how to spend its allocated budget, but much less freedom to determine the overall size of that budget, raise the money it needs, or manage financial shocks independently.
+
+That distinction is fundamental.
+
+A government can have considerable policy autonomy without having fiscal autonomy. It can decide what to do with its money, but have limited control over how much money is available in the first place.
+
+And the latest Welsh Government budget figures make the scale of that dependence quite clear.
+
+1. How dependent is Wales financially?
+
+The Welsh Government’s November 2026 draft budget for 2027–28 gives this breakdown:
+
+£28.2bn
+
+Total main funding sources, Welsh Government draft budget 2027–28
+
+UK Government settlement
+
+78.8%
+
+£22.3bn
+
+Welsh Rates of Income Tax
+
+14.9%
+
+£4.2bn
+
+Non-domestic rates
+
+4.2%
+
+£1.2bn
+
+Land Transaction and Landfill Disposals taxes
+
+2.1%
+
+£432m
+
+Figures from the Welsh Government’s draft budget, November 2026. Percentages are rounded. GOV.WALES +1
+
+So roughly four-fifths of the main funding comes through the UK Government settlement.
+
+That is a significant financial dependency. But it does not mean Westminster decides how every pound is spent.
+
+2. What does the block grant actually allow Wales to do?
+
+The block grant is not normally a collection of instructions from Westminster about how to run individual Welsh services.
+
+Once funding has been allocated, the Welsh Government can make its own spending choices within the relevant budgetary and legal rules, subject to Senedd approval.
+
+For example, it can decide:
+
+* how much to allocate to the Welsh NHS;
+* how to distribute funding between schools and further education;
+* whether to prioritise social housing or other infrastructure;
+* how much to spend on Welsh-language programmes;
+* whether to direct more resources towards preventative health and social care.
+
+It does not have to reproduce the UK Government’s spending priorities simply because the money originated in the UK settlement.
+
+That is genuine self-government.
+
+The distinction is that Wales has substantial discretion over allocation, but less discretion over the total resources available.
+
+3. How does the Barnett formula affect that?
+
+The Barnett formula is often misunderstood as a formula that calculates exactly how much money Wales deserves.
+
+It doesn’t do that.
+
+It principally calculates changes to the block grant when spending changes in comparable UK Government departments in England.
+
+The calculation takes account of:
+
+* The change in the relevant English departmental budget.
+* The proportion of that department’s responsibilities that are devolved.
+* Wales’s population relative to England.
+* A needs-based factor for Wales.
+
+The resulting adjustment is added to or deducted from the block grant. Wales also has a needs-based funding floor. House of Commons Library +1
+
+This has two important consequences.
+
+First: decisions made in Westminster about spending in England can affect the money available to the Welsh Government.
+
+Second: the Welsh Government cannot independently redesign the whole funding settlement whenever it believes Welsh circumstances require a different approach.
+
+There is a degree of predictability, because the formula operates mechanically rather than requiring the two governments to renegotiate the entire grant every year. But the Welsh Government remains exposed to decisions about UK departmental spending and the timing of UK spending reviews.
+
+That is a form of indirect financial dependence, even when Westminster is not dictating Welsh spending priorities.
+
+4. How much tax freedom does Wales have?
+
+Wales does have tax-raising powers, but they are partial.
+
+There are three particularly important categories.
+
+Tax	Welsh Government’s powers
+Welsh Rates of Income Tax	Can vary the Welsh rates applied to the basic, higher and additional income-tax bands
+Land Transaction Tax	Controls the Welsh equivalent of stamp duty, including rates and bands
+Landfill Disposals Tax	Controls the Welsh tax on landfill disposal
+
+It also has responsibility for non-domestic rates, commonly called business rates.
+
+The income-tax arrangement is particularly interesting. The UK Government reduces the relevant income-tax rates for Welsh taxpayers by 10 pence, and the Welsh Government sets its own Welsh rates on top.
+
+It can therefore choose to maintain parity with England or set different rates. But it does not have the same freedom as a fully sovereign government to redesign the entire income-tax system, including all the tax bands and thresholds.
+
+HMRC continues to collect income tax, including the Welsh rates. GOV.WALES +2
+
+The practical result is that Wales can make some meaningful choices about taxation, but cannot independently redesign its whole revenue system.
+
+5. What about borrowing?
+
+This is arguably where the limits on Welsh fiscal autonomy become especially visible.
+
+An independent national government can generally borrow in financial markets, subject to its creditworthiness, economic circumstances and any applicable fiscal rules.
+
+The Welsh Government has statutory borrowing limits established through its relationship with Westminster.
+
+The Institute for Fiscal Studies’ February 2026 analysis identifies two main forms of Welsh borrowing:
+
+Type	Welsh position
+Capital borrowing	For investment in infrastructure, buildings and other assets
+Resource borrowing	Limited borrowing to manage adverse forecasting errors involving devolved taxes and related grant adjustments
+
+The capital borrowing limit was £1 billion outstanding, with annual borrowing of £150 million in 2025–26. The annual and overall limits were scheduled to increase in subsequent years.
+
+Resource borrowing has a separate limit of £200 million annually and £600 million outstanding. Institute for Fiscal Studies +1
+
+There are also restrictions on the amount Wales can hold in reserves.
+
+This matters because capital investment and day-to-day spending are different things.
+
+Imagine Wales experiences a serious economic downturn:
+
+* tax receipts fall;
+* unemployment rises;
+* demand for public services increases;
+* the Welsh Government wants to support households and local businesses.
+
+It cannot simply borrow unlimited sums to maintain public spending.
+
+It has to work within its fiscal framework, and many of the financial decisions affecting the overall UK economy remain outside Welsh control.
+
+6. What does this mean in practice?
+
+I think there are four particularly important consequences.
+
+A. Wales can choose different priorities, but not always fund them
+
+The Welsh Government might decide that preventative healthcare, affordable housing or economic development should receive greater investment.
+
+It can change spending priorities to some extent.
+
+But if the overall budget is constrained, increasing spending in one area means reducing it elsewhere unless additional funding becomes available.
+
+B. Wales is exposed to economic decisions made elsewhere
+
+UK-wide taxation, monetary policy, interest rates, welfare policy and much of the wider economic framework are not controlled by the Welsh Government.
+
+Those decisions can have substantial consequences for Welsh public finances.
+
+C. Long-term planning is harder
+
+Infrastructure projects, hospitals, transport networks and major economic-development programmes often require commitments over many years.
+
+Restricted borrowing and reserve arrangements can make it harder to plan and manage those commitments independently.
+
+D. Accountability becomes complicated
+
+Welsh ministers are accountable to Welsh voters for public services, but some of the financial conditions under which they operate are determined by UK ministers and HM Treasury.
+
+That creates a potential accountability gap:
+
+The Welsh Government is responsible for delivering the service, but it does not control every financial lever affecting its ability to deliver it.
+
+The Independent Commission on the Constitutional Future of Wales identified this as a significant weakness in the current arrangements. Its analysis noted that the block grant accounted for more than 80% of Welsh Government financing in 2022–23, and that restrictions on budget flexibility made it harder to respond to Welsh circumstances. GOV.WALES +1
+
+7. Does this mean Wales cannot be genuinely autonomous?
+
+No. It means we need to distinguish different kinds of autonomy.
+
+Policy autonomy
+
+Substantial
+
+Wales can make its own choices in many major public-service areas.
+
+Budget allocation autonomy
+
+Substantial, with restrictions
+
+Welsh ministers decide how to distribute much of their available funding.
+
+Tax autonomy
+
+Partial
+
+Wales controls some taxes and income-tax rates, but not the full tax system.
+
+Borrowing and fiscal autonomy
+
+Limited
+
+Borrowing, reserves and financial flexibility are subject to UK-set limits.
+
+Macroeconomic autonomy
+
+Very limited
+
+Monetary policy, most major economic levers and the overall UK fiscal framework remain outside Welsh control.
+
+This is why I would avoid describing Wales as either financially independent or financially powerless. Neither description is accurate.
+
+8. What would greater fiscal autonomy actually look like?
+
+There are several possible reforms that do not require Welsh independence.
+
+Possible reform	What it would change
+Greater control over income tax	More ability to shape the Welsh tax system
+Additional devolved taxes	More independent revenue sources
+Greater borrowing powers	More freedom to invest in long-term infrastructure
+Larger reserves	Greater ability to manage unexpected financial pressures
+More flexible budget rules	Greater ability to move resources between financial years and spending categories
+A revised funding formula	Greater influence over how the UK settlement reflects Welsh needs
+Greater control over natural-resource revenues	More direct connection between Welsh assets and Welsh public finances
+
+The 2024 Independent Commission considered different constitutional options, including enhanced devolution, a federal UK and independence. It identified greater agency and accountability as potential benefits of more extensive constitutional change, while also recognising the financial and economic risks. GOV.WALES +1
+
+An important point: greater fiscal autonomy does not necessarily mean keeping all the money raised in Wales.
+
+A country can retain substantial fiscal autonomy while participating in a redistributive union. The question is how that redistribution is calculated, who controls the tax and spending decisions, and what financial risks each government carries.
+
+That is a perfectly legitimate subject for negotiation within the United Kingdom.
+
+9. Bringing this back to Burnham’s letter
+
+I think this creates an additional dimension to the four issues we have been examining.
+
+Take the Crown Estate.
+
+If Wales has responsibility for economic development, energy policy and planning, but does not control the revenues and investment decisions associated with substantial Welsh natural resources, there is a question about whether its existing fiscal settlement properly supports its devolved responsibilities.
+
+Take rail.
+
+If Wales is expected to plan its economic development around transport infrastructure but does not control all the relevant investment decisions, its ability to deliver its own economic strategy is constrained.
+
+Take policing and justice.
+
+If the Welsh Government is responsible for substantial preventative public services but has limited control over justice expenditure, it may struggle to align its priorities with the institutions responsible for criminal justice.
+
+These are not proof that every power must transfer to Wales. They are reasons to examine the relationship between responsibility, resources and authority.
+
+The question I would put to both governments
+
+If Wales is expected to take responsibility for its own national development, what degree of control over the financial resources necessary to deliver that development should accompany that responsibility?
+
+The UK Government can reasonably argue that fiscal transfers, shared taxation and financial risk-sharing are advantages of the Union.
+
+But it also needs to explain why those advantages require the present degree of central control.
+
+And the Welsh Government needs to explain what additional fiscal powers it wants, how it would use them, and how it would manage the associated risks.
+
+Where this leaves us
+
+The current Welsh settlement permits meaningful policy autonomy, but it does not provide full fiscal autonomy.
+
+That is not necessarily a contradiction: plenty of devolved and federal governments rely on transfers from a central government.
+
+The more interesting question is whether Wales has sufficient financial flexibility to exercise the responsibilities it already possesses, before we even consider transferring additional ones.
+
+I would add one further issue to our examination: the difference between fair funding and financial control. A government can receive a fair share of UK funding while still lacking the freedom to manage that money in ways that reflect its own long-term priorities.
+
+That distinction is going to be important when we examine the argument over whether Wales should have greater control over the Crown Estate and its natural resources.”.  
+
+“5. Are the current reservations coherent, or do they leave gaps between Welsh responsibilities and Welsh authority?
+
+My provisional answer is: the settlement is legally workable, but it is not always coherent as a system of public accountability. Some reservations protect genuinely UK-wide functions. Others create boundaries where the Welsh Government is responsible for the outcome of a policy but does not control all the institutions or powers that materially determine it.
+
+The key distinction is between two questions:
+
+* Is it reasonable for a power to remain reserved to the UK Parliament or Government?
+* Can Wales deliver and be held accountable for its devolved responsibilities when that power remains reserved?
+
+A reservation can make sense in isolation and still create a practical problem when it interacts with devolved responsibilities. The test should be how the whole system works, not simply whether each power has a defensible constitutional label.
+
+1. The clearest gap: justice and public safety
+
+This is the strongest example because the institutional split is unusually visible.
+
+The Welsh Government controls many of the services that shape whether people enter the criminal justice system, and what happens when they leave it:
+
+* Schools, education and skills.
+* Health and mental health services.
+* Housing and homelessness support.
+* Social services and local government.
+* Important aspects of youth provision and prevention.
+
+But the UK Government retains responsibility for policing, prosecution, courts, prisons and probation. The Criminal Justice Board for Wales’s own 2025–26 report describes these interdependencies explicitly. GOV.UK +1
+
+That produces a real accountability problem. A Welsh Government can pursue prevention, rehabilitation and public-health approaches, but it cannot direct all the institutions whose decisions determine whether those approaches succeed.
+
+For example, a person leaving prison may need housing, healthcare, employment support and supervision. Welsh institutions have important responsibilities for the first three, but probation and prisons remain UK-controlled. The two governments therefore need to coordinate a journey for which neither has complete authority.
+
+The Independent Commission’s justice subgroup identified precisely this problem: overlapping accountability can create friction, and devolving policing, probation and youth justice could improve coordination. It proposed a staged process rather than an overnight transfer. GOV.WALES
+
+My assessment: this is more than an untidy constitutional boundary. It is a structural mismatch between responsibility for social outcomes and authority over the institutions that materially affect them.
+
+2. Rail: Welsh policy responsibility without full infrastructure control
+
+Rail is another strong example, although the division is more complicated.
+
+Wales has substantial responsibility for transport policy, bus services and some rail services. The Welsh Government also controls Transport for Wales and the Core Valley Lines. But the wider rail network and much of its infrastructure remain under UK-level control, principally through Network Rail.
+
+The Senedd’s own constitutional evidence describes this as a divided arrangement: Welsh Ministers procure and manage important passenger services, while the UK Government remains responsible for Network Rail infrastructure planning and funding. GOV.WALES +1
+
+That matters because a government can be judged on transport connectivity, economic development and access to jobs while lacking full control over the infrastructure investment needed to deliver them.
+
+There is a legitimate UK-wide case for common railway standards, cross-border services and an integrated network. But those things do not logically require all infrastructure ownership, investment decisions and political accountability to remain centralised.
+
+My assessment: the UK Government has a reasonable case for coordination, but coordination and control are not the same thing. This is a particularly good example of where the argument for retaining a reservation needs to be more specific.
+
+3. Energy and the Crown Estate: responsibility for outcomes, limited control over assets and systems
+
+Energy is a slightly different kind of mismatch.
+
+Wales has devolved responsibilities for planning, environmental policy, climate targets and some renewable-energy consents. But major parts of energy policy—including electricity-market regulation, supply, transmission and strategic energy decisions—remain reserved. The division also varies by project size and technology. House of Commons +2
+
+So Wales can set ambitions for renewable generation and influence where some projects are built, while lacking full authority over the market, grid and infrastructure arrangements that determine whether the energy can be transmitted, sold and used.
+
+The Crown Estate adds another layer. Management of the Crown Estate is expressly reserved, while Welsh institutions have other relevant responsibilities, including planning and marine environmental functions. Legislation.gov.uk +1
+
+That means the Welsh Government can be responsible for aspects of the development environment around natural resources without controlling the institution managing important assets or deciding how its commercial arrangements operate.
+
+There are good reasons for national grid coordination and large-scale investment expertise. But the question of who manages an asset, who receives its revenue, who consents to development and who bears the environmental consequences should not be collapsed into one question.
+
+My assessment: these are not necessarily incoherent reservations individually. But together they can leave Wales with responsibility for the local and environmental consequences of development without equivalent control over the strategic decisions or assets driving it.
+
+4. Are there reservations that are coherent?
+
+Yes. It would be a mistake to treat every reserved power as a defect.
+
+There are strong arguments for UK-level responsibility over matters such as:
+
+* Defence and national security.
+* Foreign affairs and international relations.
+* Immigration and border control.
+* Currency and monetary policy.
+* National intelligence and security services.
+
+These functions involve external sovereignty, national security or systems whose operation depends on UK-wide arrangements. There is a credible case for common authority.
+
+Even there, however, the UK Government should distinguish between retaining strategic authority and preventing Welsh institutions from having a meaningful role in decisions affecting Wales.
+
+The question is not whether every function should be devolved. It is whether the boundary has been drawn at the right level.
+
+5. There is also a technical problem: the boundaries are not always simple
+
+The Welsh Government’s own Cabinet Handbook makes two important admissions.
+
+First, the range of policy areas devolved to Wales remains significantly narrower than in Scotland and Northern Ireland, even though the reserved-powers model is now broadly similar.
+
+Second, Welsh Ministers’ executive powers do not always match the Senedd’s legislative competence. Ministers can sometimes exercise powers in areas where the Senedd cannot pass primary legislation, including certain civil-contingencies functions. GOV.WALES
+
+There are also restrictions on the Senedd imposing functions on reserved authorities, such as UK government departments or the Crown Prosecution Service, without UK ministerial consent.
+
+That creates an additional complication: even where Wales wants to legislate around a problem in a devolved policy area, it may not be able to require the relevant UK institution to participate in the way it would like.
+
+The result is a settlement that can be difficult to explain, administer and hold accountable.
+
+6. My overall assessment
+
+I would distinguish three categories:
+
+Category	Examples	Assessment
+Coherent reservations	Defence, foreign affairs, currency	Strong case for UK-level control
+Shared-system reservations	Rail, energy markets, national infrastructure	UK coordination is justified; exclusive UK control needs a more specific case
+Responsibility-authority gaps	Policing, probation, criminal justice	Strong case that the present division impedes coherent Welsh policy
+
+The third category is the most constitutionally significant. The second is where there is considerable room for negotiation without necessarily changing the basic structure of the Union.
+
+There is also a difference between a reservation being legally clear and being democratically satisfactory. Schedule 7A can tell us who has authority. It cannot, by itself, demonstrate that the allocation produces good government.
+
+7. What would a coherent settlement look like?
+
+I would apply five tests to every contested reservation:
+
+* Responsibility: Which government is publicly accountable for the outcome?
+* Authority: Does that government control the institutions and decisions needed to deliver it?
+* Resources: Does it have the funding and revenue flexibility to discharge that responsibility?
+* Coordination: If authority is shared, are there binding or dependable arrangements for joint decisions?
+* Accountability: Can the public identify who made a decision, who can change it and who should answer when it fails?
+
+A reservation that passes those tests may be entirely reasonable. One that repeatedly fails them deserves reconsideration.
+
+My provisional conclusion: Wales does not simply have too few powers. It has a number of areas where its responsibilities, resources and authority do not line up. Justice is the clearest example; rail and energy illustrate the problem in a more shared-system form.
+
+And this brings us back to the Burnham letter. The UK Government’s argument for retaining particular functions should not stop at saying that integration is valuable. It needs to explain why integration requires the UK Government to retain political control, rather than allowing Welsh democratic control within agreed UK-wide standards and cooperation.
+
+That is a much harder question to answer—and a much more useful one to put to both governments.
+
+The next distinction I would examine is whether shared administration and shared standards genuinely require shared political control. That is arguably the central constitutional assumption underlying the UK Government’s position on policing, rail and the Crown Estate.”.  
+
+“6. The intergovernmental question: Are the existing mechanisms sufficient to protect Wales’s interests when the governments disagree?
+
+The central issue is whether Wales has a reliable way to influence, challenge or resist a UK Government decision when cooperation breaks down.
+
+There are two different situations:
+
+* Disagreement within a shared policy area: the governments need to negotiate how a service, funding arrangement or cross-border system will work.
+* Disagreement over constitutional authority: the UK Government wants to retain a power, or exercise a power, that the Welsh Government believes should be devolved or should require Welsh consent.
+
+A forum for discussion can help with the first. It does not necessarily protect Wales in the second.
+
+I would assess the arrangements against four practical questions: Can Wales get a dispute formally heard? Can it require the UK Government to explain its position? Can it prevent unilateral action? And, if agreement remains impossible, is there an independent process or remedy?
+
+1. What mechanisms actually exist?
+
+The 2022 Intergovernmental Relations Review established a three-tier structure:
+
+Level	Mechanism	Purpose
+Portfolio	Interministerial Groups (IMGs)	Deal with specific policy areas, such as transport, health or agriculture
+Cross-government	Interministerial Standing Committee (IMSC) and Finance IMSC	Handle cross-cutting policy and financial disagreements
+Heads of government	Prime Minister and Heads of Devolved Governments Council	Strategic oversight and final escalation stage
+
+There is also an independent IGR Secretariat, staffed by officials from the governments, intended to support the machinery and facilitate dispute resolution. GOV.WALES +1
+
+In principle, this is a sensible escalation structure: try to resolve the issue where the expertise sits, then raise it politically if necessary.
+
+2. What happens if agreement cannot be reached?
+
+The formal dispute process has several stages:
+
+* The governments first attempt to resolve the disagreement through normal official and ministerial channels.
+* Any government can refer a disagreement to the IGR Secretariat as a potential formal dispute. Another government cannot veto the decision to raise it.
+* The Secretariat considers whether the issue meets the criteria for formal escalation, including whether it has been extensively considered at portfolio level and has implications beyond the individual policy area.
+* Senior officials examine the issue and recommend possible solutions.
+* Ministers consider it through the relevant interministerial committee.
+* Independent advice or mediation may be used, subject to agreement between the governments.
+* If unresolved, it can reach the Prime Minister and Heads of Devolved Governments Council.
+
+The process is intended to produce a resolution, but it does not give an independent mediator or the Council the power to impose a binding settlement. GOV.UK +2
+
+That distinction matters enormously.
+
+Wales can formally raise a dispute, but it cannot necessarily obtain a decision in its favour, or compel the UK Government to change its position.
+
+3. The fundamental weakness: these arrangements are not legally enforceable
+
+The 2022 agreement expressly describes itself as a statement of political intent. It does not create new legal obligations, override existing legal relations or establish justiciable rights. GOV.UK
+
+So there is a difference between:
+
+* A government breaking a political commitment to consult or cooperate.
+* A government acting unlawfully under the devolution legislation.
+
+The second may be challenged through the courts, where the relevant legal conditions are met. The first is generally a matter of political accountability and intergovernmental negotiation.
+
+That leaves a significant gap. If the UK Government fails to engage meaningfully, provides information late, or simply refuses a Welsh request, Wales cannot automatically turn that failure into a legally enforceable claim.
+
+The Sewel Convention illustrates the wider problem: the convention that Westminster will not normally legislate on devolved matters without consent is politically important, but does not give the Senedd a legally enforceable veto.
+
+4. What does the record tell us?
+
+There are two particularly relevant pieces of evidence.
+
+First, the Welsh Government’s March 2026 report.
+
+Covering July 2024 to March 2026, it recorded a stronger overall pattern of formal intergovernmental engagement following the 2024 UK general election. But it also said that improvement was inconsistent, with some areas experiencing limited or uneven engagement. GOV.WALES
+
+That is useful because it avoids two simplistic conclusions:
+
+* The machinery is entirely dysfunctional.
+* The existence of regular meetings means that the relationship is working adequately.
+
+Both would be inaccurate.
+
+Second, the Welsh Government’s Cabinet Handbook, published in February 2026.
+
+It confirms that the formal structures are generally not reflected in law. It also states that no dispute had yet gone through the entire formal resolution process. GOV.WALES
+
+That does not prove the procedure is ineffective: a mechanism may prevent disputes from escalating. But it means there is limited practical experience of the complete process being tested.
+
+We should therefore distinguish the existence of a dispute procedure from evidence that it can resolve a serious constitutional disagreement.
+
+5. Does Wales have equal standing within the machinery?
+
+Formally, yes: the agreements say that the structures should serve all governments equally and fairly, and that each government should have an equal opportunity to influence the agenda.
+
+But there is an important institutional asymmetry.
+
+The Prime Minister chairs the Heads of Governments Council. The UK Government also retains the underlying parliamentary authority to legislate for Wales, including in devolved areas, subject to the political conventions already discussed.
+
+The Welsh Government therefore enters negotiations with a government that has powers Wales does not possess.
+
+This does not mean that the UK Government necessarily abuses that position. It means that procedural equality does not amount to equality of constitutional power.
+
+A meeting in which both governments have an equal right to speak is not necessarily a meeting in which both have equal ability to determine the outcome.
+
+6. What protection does the Senedd provide?
+
+There is another important layer: the relationship between the Welsh Government and its own legislature.
+
+The Inter-Institutional Relationship Agreement between the Senedd and Welsh Government requires reporting and information-sharing about intergovernmental relations. Welsh Ministers provide updates through plenary statements, committees and published correspondence. GOV.WALES +1
+
+That gives the Senedd some ability to scrutinise:
+
+* What Welsh Ministers have asked the UK Government to do.
+* Whether they have obtained meaningful engagement.
+* Whether Welsh interests have been represented.
+* Whether Welsh Ministers have compromised or accepted a UK proposal.
+* What they intend to do when negotiations fail.
+
+But this is scrutiny of the Welsh Government, not a mechanism for compelling the UK Government to negotiate differently.
+
+It can improve accountability within Wales without resolving the underlying constitutional imbalance.
+
+7. What would stronger protection look like?
+
+There are several possible reforms. They are not all-or-nothing.
+
+Possible reform	What it would change
+Statutory duty to cooperate	Give intergovernmental cooperation a legal foundation
+Mandatory consultation and response periods	Make it harder to bypass Wales or provide inadequate notice
+Independent mediation	Give disagreements an impartial forum
+Independent arbitration in defined circumstances	Potentially provide a more authoritative outcome
+Stronger legislative consent protection	Give the Senedd a more secure role when Westminster changes devolved powers
+Published reasons for rejecting Welsh proposals	Make disagreements more transparent and politically accountable
+
+The Welsh Government’s response to the Independent Commission on the Constitutional Future of Wales explicitly supported statutory underpinning for intergovernmental relations, including a duty of cooperation and parity of esteem. GOV.WALES
+
+There is a reasonable counterargument: a highly legalised system could make government less flexible, slow down urgent decisions and create litigation over matters that should be resolved politically. Not every disagreement needs arbitration.
+
+But that does not eliminate the case for enforceable minimum standards of consultation, information-sharing and good-faith engagement.
+
+8. Applying this to the Burnham–ap Iorwerth correspondence
+
+This is where the procedural question becomes particularly useful.
+
+The existence of a bilateral meeting on 30 October and subsequent written correspondence does not, by itself, establish that the Welsh Government had a meaningful opportunity to influence the final UK position.
+
+We would need to know:
+
+* What proposals did the Welsh Government submit before the meeting?
+* What commitments, if any, did the UK Government make during it?
+* Were the four policy areas discussed through the relevant intergovernmental machinery, or mainly through a bilateral political relationship?
+* Was there a joint record of the discussion?
+* Did Welsh Ministers receive the UK Government’s objections in time to respond before the 20 November letter?
+* Has either government formally referred any part of the disagreement to the IGR dispute process?
+
+I would not assume that the letter exchange itself constitutes a formal dispute. That would need to be established from the governments’ records.
+
+9. The central finding
+
+The existing machinery provides Wales with routes to raise concerns, negotiate, escalate disagreements and obtain political scrutiny.
+
+What it does not reliably provide is protection against a determined UK Government deciding to proceed without Welsh agreement.
+
+That is the distinction between a system designed to facilitate cooperation and a system designed to protect the constitutional interests of its participants.
+
+The current arrangements are largely based on mutual restraint, political goodwill and the expectation that governments will respect the spirit of devolution. They are less effective when the governments disagree about the limits of their own authority.
+
+And that raises a question worth keeping separate from the individual policy disputes:
+
+Can a voluntary, largely non-binding system of intergovernmental cooperation adequately protect a devolved nation’s democratic authority when the other government retains ultimate legal sovereignty?
+
+That is not simply a question about whether ministers get on. It is a question about the constitutional security of devolution itself.”.  
+
