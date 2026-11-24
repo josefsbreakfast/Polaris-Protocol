@@ -4151,3 +4151,105 @@ My central observation: modern Welsh nationalism has not simply been a continuou
 
 For further reading, the most useful starting points are the National Library of Wales’s Plaid Cymru centenary history⁠￼, the Open University’s history of Welsh nationalism and language activism⁠￼, and the Senedd’s history of devolution⁠￼.”.  
 
+“MOD control of military bases in Wales under further constitutional separation
+
+The starting point is that the Ministry of Defence currently controls its military estate in Wales as part of the United Kingdom’s defence system. The Welsh Government does not have a general power to direct, close, approve or veto military operations from those bases.
+
+If the Union became more federal, or Wales acquired substantially greater autonomy, that position would not necessarily change. If Wales became independent, however, the question would become much more substantial: would the bases become Welsh assets, remain British military installations under agreement, or be transferred or closed?
+
+Those are three different constitutional scenarios, and they need separating.
+
+1. The current position: defence is reserved to Westminster
+
+The Government of Wales Act 2006, Schedule 7A, paragraph 11, reserves:
+
+* Defence of the realm.
+* The naval, military and air forces of the Crown.
+* Visiting forces.
+* International headquarters and defence organisations.
+
+So defence is not simply an area in which the UK Government happens to retain practical control. It is expressly outside the Senedd’s legislative competence. Legislation.gov.uk +1
+
+There is also a practical agreement between the Welsh Government and MOD: the 2010 Defence Concordat.
+
+It says that:
+
+* Defence of the UK remains the direct responsibility of the UK Government.
+* MOD should consider Welsh Government responsibilities when developing defence policy affecting Wales.
+* Welsh Ministers should consider defence implications when exercising devolved functions.
+* Both sides should consult one another where their responsibilities overlap.
+
+But the Concordat is non-statutory and not legally binding. It establishes cooperation, not Welsh control over defence. GOV.WALES
+
+That is a good example of the distinction we have been examining: consultation and coordination do not amount to decision-making authority.
+
+2. What military infrastructure does the UK currently have in Wales?
+
+Official MOD Defence Footprint 2026; selected sites, not an exhaustive list.
+
+That creates an important practical issue.
+
+An independent Wales might want stronger environmental safeguards, restoration obligations or public-access arrangements. But if the UK retained a military installation under a treaty, the two states would have to agree how those obligations operated alongside military requirements.
+
+That is not merely theoretical. The existing defence relationship already involves negotiations between devolved environmental responsibilities and reserved defence functions.
+
+6. The NATO question
+
+This deserves particular attention.
+
+An independent Wales would not automatically inherit the UK’s NATO membership. Article 10 of the North Atlantic Treaty provides for the invitation of additional European states by unanimous agreement among existing members. NATO Official text +1
+
+There are several possible arrangements:
+
+* Wales joins NATO in its own right.
+* Wales establishes a bilateral defence agreement with the UK.
+* Wales remains outside NATO but develops other security partnerships.
+* Wales negotiates a combination of these arrangements.
+
+If Wales joined NATO, it would have its own obligations as a member state. It would not simply be a region whose security policy was determined in London.
+
+There would also be a question about whether any UK military facilities retained in Wales served NATO purposes, exclusively UK purposes, or both.
+
+Those distinctions would need to be written into agreements.
+
+7. My assessment: the bases are a constitutional question, not just a defence question
+
+I would put this into three separate categories:
+
+Issue	Current position	Under independence
+Command of armed forces	UK Government	Welsh Government would determine its own defence arrangements
+MOD land and installations	UK-controlled estate	Ownership and use negotiated
+Military operations	UK authority	Welsh sovereignty, subject to any agreed foreign military presence
+Environmental regulation	Welsh responsibilities interact with MOD exemptions and arrangements	Welsh law, with any treaty-based exceptions negotiated
+Defence industry	Integrated into UK procurement and supply chains	Commercial and defence relationships negotiated
+NATO	UK membership	Welsh accession would require a separate process
+
+There is also a distinction between the right to own or control a military base and the right to host another country’s armed forces. An independent Wales could retain a UK facility by agreement without surrendering sovereignty over the surrounding territory. Equally, it could decide that a particular installation should close or be transferred.
+
+I would not assume that independence necessarily means the removal of every British military presence. Nor would I assume that Wales would automatically inherit every military asset located within its borders.
+
+8. A point worth investigating further: the defence estate as a negotiating asset
+
+The MOD’s footprint gives Wales a tangible interest in the negotiations that goes beyond abstract constitutional questions.
+
+Consider RAF Valley, Sennybridge, the Welsh training ranges, MOD Sealand and the defence-industrial facilities.
+
+These are not interchangeable assets. Some are military installations, some are training infrastructure, some are testing facilities and some are industrial capabilities.
+
+A future settlement could therefore produce a mixed arrangement:
+
+* Some facilities transferred to Wales.
+* Some closed or repurposed.
+* Some retained by the UK under lease or treaty.
+* Some operated jointly.
+* Some defence-industrial facilities continuing as commercial enterprises, irrespective of the constitutional outcome.
+
+The UK Defence Footprint 2026 also identifies a £50 million Welsh Defence Growth Deal, including support for access to MOD test ranges and defence manufacturing. That demonstrates that the existing relationship has an economic-development dimension as well as a military one. GOV.UK Assets
+
+The central constitutional point is this: if Wales became independent, the UK could no longer rely on its present domestic constitutional authority to operate military bases there. It would need Welsh agreement or some other recognised international legal basis.
+
+That is a substantial change in the relationship between the two governments.
+
+For our wider investigation, I would examine RAF Valley and the Welsh training estate separately. They raise different strategic, territorial, economic and sovereignty questions.”.   
+
+
