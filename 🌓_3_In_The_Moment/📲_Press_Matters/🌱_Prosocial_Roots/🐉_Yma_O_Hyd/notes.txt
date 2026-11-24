@@ -12400,3 +12400,85 @@ My assessment: this is a strong addition to the Welsh strategic-resource analysi
 
 “you did not break me: I’m still fighting for peace.”.  
 
+“Fact-check 14: Latest sheep and cattle populations in Wales
+
+June 2025 headline figures verified
+
+The latest published Welsh Government agricultural survey gives the following figures:
+
+Sheep and lambs
+
+8.81m
+
+Up 0.7% year on year
+
+June 2025
+
+Cattle and calves
+
+1.0795m
+
+Down 1.0% year on year
+
+June 2025
+
+GOV.WALES +1
+
+14.1 Sheep
+
+The June 2025 survey recorded 8.81 million sheep and lambs, compared with approximately 8.75 million in June 2024.
+
+Longer-term context:
+
+* The Welsh flock peaked at approximately 11.8 million in 1999.
+* Numbers declined over the following decade.
+* The June 2023 figure, just under 8.7 million, was the lowest since 2011.
+* Numbers rose slightly in 2024 and 2025. GOV.WALES
+
+Important newer-data qualification: Wales also operates a compulsory annual sheep and goat inventory on 1 December. The UK livestock dataset was updated on 2 October 2026 to incorporate new Welsh sheep data for December 2025. That is a newer reference date than the June 2025 survey, although it is a different measurement series. I could verify the update but not independently retrieve the exact Wales-specific total from the published spreadsheet. GOV.UK +2
+
+So I would retain 8.81 million as the verified June survey figure, but not describe it as the latest available sheep inventory without that qualification.
+
+14.2 Cattle
+
+The June 2025 survey recorded 1,079,500 cattle and calves, down 1.0% from June 2024.
+
+The breeding-herd breakdown is particularly useful:
+
+Category	June 2025
+Dairy females aged 2+ years that had calved	254,100
+Beef females aged 2+ years that had calved	133,700
+Total cattle and calves	1,079,500
+
+The dairy breeding herd increased by 1.1%, while the beef breeding herd fell by 5.0%. GOV.WALES
+
+There is an important data-quality distinction here: cattle figures are derived from the Cattle Tracing System, which covers all cattle holdings. Sheep figures come from the agricultural survey and, separately, the annual keeper inventory. GOV.WALES +1
+
+14.3 What this means for the resource account
+
+The headline numbers establish that Wales has a substantial livestock population, particularly sheep. But animal numbers alone are not a measure of the economic value retained in Wales.
+
+For the wider analysis, I would keep separate records for:
+
+* Livestock stock: sheep, lambs, cattle and calves.
+* Breeding capacity: breeding ewes, dairy herd and beef breeding herd.
+* Production flows: meat, milk, wool and associated products.
+* Economic value: farm-gate output, processing, exports and employment.
+* Land dependency: grazing land, common land and the role of upland farming.
+* Resilience: domestic food production, breeding stock and agricultural supply-chain capacity.
+
+This avoids treating 8.81 million sheep as though they represent 8.81 million units of immediately available food production. The distinction between breeding animals, lambs, finishing stock and other sheep matters.
+
+14.4 Corrected wording for the master document
+
+Welsh sheep and cattle populations: The Welsh Government’s June 2025 agricultural survey recorded 8.81 million sheep and lambs in Wales, an increase of 0.7% on the previous year, and 1,079,500 cattle and calves, a decrease of 1.0%. Within the cattle population, the dairy breeding herd, measured as females aged two or over that had calved, stood at 254,100, while the equivalent beef breeding herd stood at 133,700. The dairy herd increased by 1.1% over the year, while the beef herd decreased by 5.0%. These figures establish the scale of Welsh livestock, but should be distinguished from breeding capacity, annual meat and milk production, farm-gate value and the wider economic contribution of agricultural supply chains. A separate Welsh sheep and goat inventory is taken each December; the UK livestock dataset was updated in October 2026 to include new Welsh sheep data for December 2025, so the June 2025 sheep figure should be labelled by its reference date rather than presented as the latest inventory count.
+
+Sources
+
+* Welsh Government — Survey of agriculture and horticulture: June 2025⁠￼.
+* Defra — Livestock populations in the United Kingdom (updated October 2026)⁠￼.
+* Welsh Government — Sheep and goat annual inventory guidance⁠￼.
+
+My recommendation: use the June 2025 figures as the main comparable agricultural survey baseline, and keep the December 2025 sheep inventory as a separate, newer data point pending extraction of its exact Welsh total.”.  
+
+“
