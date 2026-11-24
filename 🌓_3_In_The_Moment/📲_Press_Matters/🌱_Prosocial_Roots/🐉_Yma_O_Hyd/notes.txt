@@ -1533,3 +1533,364 @@ I suggest we take number 1 — Westminster sovereignty next.
 That is the foundation underneath almost every other dispute. It will help us distinguish what Westminster is legally entitled to do, what it is constitutionally expected to do, and what it might be politically wise to do.”  
 
 
+“2. How secure is the Senedd’s constitutional status?
+
+The short answer is: the Senedd has statutory recognition as a permanent institution, but it does not have absolute legal protection against Westminster.
+
+That sounds contradictory, but it reflects one of the central characteristics of the UK’s uncodified constitution: an institution can be formally recognised as permanent while the sovereign Parliament retains the legal power to change the legislation that establishes it.
+
+There are three different kinds of security to distinguish:
+
+* Statutory security: what the law currently says about the Senedd.
+* Constitutional security: the conventions and commitments that make abolition politically and constitutionally unacceptable without Welsh consent.
+* Practical political security: how realistic it would be for a UK Government to attempt to abolish or fundamentally weaken it.
+
+Let’s take them in order.
+
+1. The statutory protection: section A1
+
+The Wales Act 2017 inserted section A1 into the Government of Wales Act 2006.
+
+It says:
+
+* The Senedd and Welsh Government are permanent parts of the UK’s constitutional arrangements.
+* The provision signifies the commitment of the UK Parliament and Government to those institutions.
+* They are not to be abolished except on the basis of a decision by the people of Wales in a referendum.
+
+This is not merely a statement in a political manifesto. It is part of the legislation governing Wales. Legislation.gov.uk +1
+
+The wording is deliberately significant. It does not say that the UK Government should consider a referendum before abolition. It declares that the institutions are not to be abolished except on that basis.
+
+So the starting legal position is clear: abolishing the Senedd without a Welsh referendum would contradict the statutory commitment in section A1.
+
+2. The weakness: Westminster remains sovereign
+
+Here is the constitutional qualification.
+
+The UK does not have a codified constitution that places the Senedd beyond the legislative reach of the UK Parliament.
+
+Under the orthodox doctrine of parliamentary sovereignty, Westminster can pass legislation changing or repealing earlier Acts of Parliament.
+
+That creates a difficult question: could a future UK Parliament pass an Act abolishing the Senedd without first holding a Welsh referendum?
+
+The orthodox constitutional-law answer is that it could legislate to do so, provided it did so clearly and expressly. It could repeal or amend section A1 and make the necessary changes to the Government of Wales Act.
+
+Section A1 does not contain an entrenched legal mechanism requiring a referendum before Westminster can legislate. It does not give the Senedd a veto over an Act of the UK Parliament.
+
+The distinction is between:
+
+* what Parliament has declared it will do;
+* and what a sovereign Parliament can legally legislate to do.
+
+The Independent Commission on the Constitutional Future of Wales addressed precisely this problem. Its final report noted that parliamentary sovereignty means the permanence provisions may not provide the protection that a straightforward reading of the legislation might suggest. GOV.WALES +1
+
+This is the crucial limitation. The Senedd has a statutory permanence commitment, but not an entrenched constitutional guarantee of the kind that would make abolition legally impossible without Welsh consent.
+
+3. Could the courts stop Westminster?
+
+This is where the position becomes more complicated.
+
+The courts can determine whether the Senedd is acting within its legal powers. They can also review the lawfulness of actions by the UK and Welsh governments.
+
+But the courts do not ordinarily have authority to strike down an Act of the UK Parliament simply because it conflicts with a constitutional convention or an earlier statutory commitment.
+
+The Supreme Court’s decision in Miller (2017) is particularly relevant. It confirmed that the Sewel Convention — the convention that Westminster will not normally legislate on devolved matters without legislative consent — remains a political convention, rather than a legally enforceable rule. House of Commons Library +1
+
+There is a wider constitutional principle here:
+
+The courts can protect the legal boundaries of devolution, but they cannot straightforwardly turn Westminster’s political commitment to devolution into an unchangeable legal settlement.
+
+That does not mean the courts would have nothing to say about a hypothetical abolition bill. Questions of statutory interpretation, the legality of executive action and the proper legislative process could arise. But there is no established judicial mechanism that would give the Senedd an absolute veto over Westminster.
+
+4. What about weakening the Senedd without abolishing it?
+
+This is arguably the more important question for our wider investigation.
+
+Section A1 protects against abolition. It does not guarantee that the Senedd must retain its current powers, budget, responsibilities or institutional capacity.
+
+For example, a UK Parliament could potentially legislate to:
+
+* transfer particular devolved responsibilities back to Westminster;
+* narrow the Senedd’s legislative competence;
+* alter the funding arrangements;
+* change the relationship between Welsh Ministers and UK departments;
+* change the rules governing how the Senedd operates.
+
+Those changes would have to be made through the appropriate legislation. They would not necessarily amount to abolishing the Senedd, so the specific referendum commitment in A1 would not automatically prevent them.
+
+This creates a distinction between institutional survival and meaningful autonomy.
+
+A legislature can continue to exist, hold elections and debate legislation while having substantially less authority than it previously possessed.
+
+That is why permanence alone is not a complete constitutional guarantee.
+
+5. What protects the Senedd in practice?
+
+There are several additional protections, although they are not all legal.
+
+Protection	What it contributes	Limitation
+Section A1	Statutory recognition of permanence and referendum commitment	Does not entrench the provision against express repeal
+Welsh electoral mandate	Democratic legitimacy through Welsh voters	Does not give the Senedd a legal veto over Westminster
+Sewel Convention	Expectation of consent for UK legislation affecting devolved matters	Not enforceable by courts
+Political accountability	A government attempting abolition would face serious political consequences	Consequences cannot be guaranteed in advance
+Welsh national institutions and identity	A wider social and political foundation for self-government	Not an independent legal safeguard
+
+The distinction between the legal and political protections is important. A UK Government might technically have the legislative power to take an action while facing substantial constitutional and political opposition for doing so.
+
+6. Is the Senedd actually in danger of abolition?
+
+We should distinguish constitutional vulnerability from an actual political threat.
+
+The existence of parliamentary sovereignty means that abolition is not legally impossible. It does not mean abolition is a realistic or currently proposed policy.
+
+The Senedd has been operating since 1999. Its authority has expanded through successive constitutional changes, and the 2017 permanence provision was itself a formal recognition of its established place in the UK constitution.
+
+There is now a substantial institutional and democratic history behind it.
+
+A government proposing to abolish the Senedd would have to confront the statutory referendum commitment, the democratic legitimacy of Welsh institutions, and the political consequences of disregarding Welsh consent.
+
+I would not describe the Senedd as institutionally precarious in everyday political terms. But its ultimate legal security is weaker than the word permanent might suggest.
+
+7. The comparison with Scotland
+
+The Scotland Act 1998 contains a similar permanence provision, inserted by the Scotland Act 2016.
+
+It declares the Scottish Parliament and Government to be permanent parts of the UK’s constitutional arrangements and says they are not to be abolished except following a decision of the people of Scotland in a referendum.
+
+It faces essentially the same parliamentary-sovereignty limitation. GOV.WALES +1
+
+So this is not a peculiarity of Wales. It is a wider feature of the UK’s approach to devolution.
+
+The UK has recognised the permanence of devolved institutions without fully converting that recognition into an entrenched federal constitutional settlement.
+
+8. What this means for our wider examination
+
+I think this exposes a particularly important distinction in the Welsh constitutional debate.
+
+Question A: Does Wales have a permanent legislature?
+
+Formally, yes. The legislation recognises the Senedd as permanent and commits to a referendum before abolition.
+
+Question B: Is the Senedd constitutionally protected from Westminster?
+
+Not absolutely. Westminster retains the legal authority to amend the legislation governing devolution.
+
+Question C: Is Welsh self-government guaranteed a stable range of powers?
+
+No. The current allocation of powers can be changed by legislation, subject to political conventions and constitutional considerations.
+
+And this takes us back to your earlier observation about the correspondence.
+
+If the UK Government treats the Senedd as a permanent national institution, but treats its requests for greater authority as something Westminster can simply accept or reject at its discretion, there is a potential tension between the language of permanence and the practical experience of autonomy.
+
+The Welsh Government can say:
+
+We are a permanent part of the UK’s constitutional arrangements. We have our own electoral mandate and legislative responsibilities. We are asking to develop the powers necessary to exercise those responsibilities.
+
+The UK Government can respond:
+
+The existing allocation of powers is a matter for the UK constitutional framework and Parliament.
+
+Both statements can be legally compatible. But they express quite different understandings of what Welsh constitutional autonomy should mean.
+
+My provisional conclusion
+
+The Senedd is politically and institutionally established, statutorily recognised as permanent, but not legally entrenched against Westminster.
+
+That is a rather unusual position for a national legislature.
+
+It also gives us a useful next question:
+
+Should Wales move towards a more entrenched constitutional settlement, in which the powers and permanence of the Senedd cannot be altered unilaterally by Westminster?
+
+That would take us beyond asking for individual transfers of powers and towards asking what kind of constitutional relationship Wales should have with the rest of the UK.”.  
+
+“What Westminster’s continuing legal sovereignty means in practice
+
+The key point is that the UK Parliament remains the ultimate law-making authority for Wales, even though the Senedd has its own democratic mandate and substantial law-making powers.
+
+That has practical consequences. It means Westminster retains powers that a federal central government would not ordinarily possess over a constituent state’s legislature.
+
+But we need to be precise about what “Westminster” means here. It is the UK Parliament — the House of Commons, House of Lords and Crown acting through the legislative process — not simply the Prime Minister or the UK Government. A Prime Minister cannot personally change the Welsh constitution by writing a letter or issuing an instruction.
+
+The Government can propose legislation and use its political authority to pursue it. Parliament makes the law.
+
+1. Westminster can legislate for Wales, including on devolved matters
+
+This is the most direct consequence.
+
+Section 107(5) of the Government of Wales Act 2006 expressly preserves the UK Parliament’s power to make laws for Wales. Section 107(6) then recognises that Westminster will not normally legislate on devolved matters without Senedd consent. Legislation.gov.uk +1
+
+In practice, that means:
+
+* The Senedd can pass an Act on a devolved subject.
+* Westminster can also pass an Act dealing with that subject.
+* If the two Acts conflict, the legal position depends on the legislation and its interpretation, but Westminster can expressly override the Welsh provision.
+* The Senedd cannot declare a valid Act of the UK Parliament invalid.
+
+This is an overlapping legislative authority, not a completely separate division of sovereignty.
+
+Example: suppose the Senedd passed legislation establishing a particular Welsh system of environmental regulation. Westminster could subsequently pass an Act changing that system or imposing a different UK-wide arrangement, even if the subject were devolved.
+
+That would be constitutionally contentious. But the fact that the matter was devolved would not, by itself, make the Westminster Act legally invalid.
+
+2. The Senedd has real powers — it is not merely advisory
+
+It would be a mistake to interpret Westminster’s sovereignty as meaning that the Senedd’s laws are somehow provisional or optional.
+
+The Senedd can pass primary legislation within its competence. Those Acts have legal force, can create rights and duties, establish public bodies, regulate services and bind people and organisations in Wales.
+
+The Senedd’s legislative competence is legally defined. Broadly, an Act must relate to a devolved subject, must not breach the restrictions in the Government of Wales Act, and must comply with other applicable legal requirements.
+
+The courts can determine whether a Senedd Act falls within those limits. If it does not, the relevant provisions can be held outside the Senedd’s competence. Legislation.gov.uk +2
+
+So there are two directions of constitutional control:
+
+* Westminster’s authority: it can legislate for Wales, including in devolved areas.
+* The courts’ authority: they can police the limits of what the Senedd itself is legally allowed to legislate about.
+
+The Senedd is therefore a genuine legislature, but not a sovereign one.
+
+3. The Sewel Convention is a restraint, not a veto
+
+This is probably the most politically important part of the arrangement.
+
+The Sewel Convention says Westminster will not normally legislate on devolved matters without the consent of the relevant devolved legislature.
+
+In Wales, that consent is generally sought through a Legislative Consent Motion.
+
+Suppose Westminster introduces a bill that changes the law on a devolved Welsh matter. The Welsh Government can recommend that the Senedd withhold consent. The Senedd can debate the issue and refuse consent.
+
+But that refusal does not legally prevent Westminster from passing the bill.
+
+The Supreme Court confirmed this in the 2017 Miller judgment: Sewel is a constitutional convention, not a legally enforceable rule. The fact that it is recognised in the Government of Wales Act does not make it enforceable by the courts. House of Commons Library +2
+
+There are therefore three possible outcomes:
+
+* Westminster changes the bill in response to Welsh objections.
+* Westminster removes the provisions affecting Wales.
+* Westminster proceeds despite the Senedd withholding consent.
+
+The third option is legally available. It is also likely to create a political and constitutional dispute.
+
+This is an important distinction: the Senedd has a recognised constitutional voice, but not an absolute legal right to have that voice obeyed.
+
+4. Westminster can change the devolution settlement itself
+
+This goes beyond intervening in an individual policy area.
+
+The UK Parliament can amend the Government of Wales Act 2006 and change the distribution of powers between the two governments.
+
+In principle, it could:
+
+* add or remove reserved matters;
+* change the Senedd’s legislative competence;
+* alter the responsibilities of Welsh Ministers;
+* change the arrangements for Welsh elections;
+* amend the financial framework;
+* change the constitutional institutions themselves.
+
+There are statutory and political commitments that matter, including the permanence provision in section A1. But under the orthodox doctrine of parliamentary sovereignty, a future Parliament can expressly amend or repeal earlier legislation. House of Commons Library +1
+
+This is why devolution is sometimes described as constitutionally reversible.
+
+That does not mean it can be reversed without consequence. It means that the current settlement is not legally entrenched against Westminster.
+
+5. What does this mean for the four issues in Burnham’s letter?
+
+It gives us a useful way to understand the underlying dispute.
+
+Issue	Present constitutional position	What further devolution would change
+Policing	Primarily a UK responsibility	Transfer some or all policing governance and accountability to Wales
+Criminal justice	Much of the system remains UK-wide	Give Welsh institutions responsibility for additional justice functions
+Crown Estate	Managed through UK-level arrangements	Transfer management and potentially revenue responsibilities to Wales
+Rail	Important functions remain at UK level, alongside devolved Welsh responsibilities	Give Wales greater control over infrastructure, investment and management
+
+The precise legal arrangements differ in each case. But the constitutional question is similar: does Westminster retain a particular responsibility because it believes that responsibility should remain UK-wide, or because the existing legislation has never transferred it?
+
+Those are different justifications.
+
+The fact that Westminster currently has the legal power does not establish that it should retain that power permanently.
+
+6. Does this mean Westminster can do whatever it likes?
+
+Legally, parliamentary sovereignty is extremely broad. Politically and constitutionally, however, it operates within a much wider environment.
+
+There are several constraints and pressures:
+
+* Elections: Westminster MPs are accountable to voters.
+* Devolved democratic mandates: the Senedd has its own electoral legitimacy.
+* Constitutional conventions: governments are expected to respect the principles of devolution.
+* The courts: they interpret legislation, review executive action and enforce the statutory boundaries of devolved powers.
+* International obligations: the UK may incur international responsibility if Parliament legislates contrary to an international commitment, even where the domestic legislation remains valid.
+* Political legitimacy: a legally valid decision can still be seen as constitutionally unacceptable.
+
+The House of Commons Library’s November 2025 briefing explains the orthodox doctrine while also discussing the debates about its practical and constitutional limits. House of Commons Library
+
+The important thing is not to confuse legal authority with political legitimacy.
+
+A government can have the legal authority to do something and still face a serious constitutional crisis if it uses that authority in a way that undermines the democratic settlement.
+
+7. A hypothetical example
+
+Imagine the following sequence:
+
+* The Senedd passes a law establishing a new Welsh policing accountability framework, within its existing competence.
+* The UK Government objects, arguing that policing should remain nationally coordinated.
+* Westminster introduces a bill that changes the framework and removes the Welsh arrangements.
+* The Senedd refuses legislative consent.
+* Westminster passes the bill anyway.
+
+Under the existing constitutional arrangements, the Westminster Act could still be legally valid.
+
+But consider what has happened politically:
+
+* The Welsh electorate elected a legislature with responsibility for devolved matters.
+* That legislature made a law within its legal authority.
+* The UK Parliament overrode that decision.
+* The Welsh legislature objected, but could not legally prevent it.
+
+The constitutional argument would then be about more than policing. It would be about the degree to which Welsh democratic decisions are protected from unilateral intervention by Westminster.
+
+This is why the Sewel Convention matters even though it is not legally enforceable. It provides an important political restraint on the use of Westminster’s legal supremacy.
+
+8. The fundamental distinction: sovereignty versus self-government
+
+I think this is the distinction we need to carry forward.
+
+Concept	Meaning
+Parliamentary sovereignty	Westminster retains ultimate legal authority to make or unmake law
+Devolution	Westminster has transferred legislative and executive powers to Welsh institutions
+Democratic self-government	Welsh voters choose representatives who make decisions over devolved matters
+Constitutional entrenchment	The allocation of powers cannot be changed unilaterally through ordinary legislation
+
+Wales has the second and third. It does not have the fourth, and Westminster retains the first.
+
+That is the constitutional structure in a nutshell.
+
+9. The question this raises about the UK Government’s conduct
+
+There is something important here for our examination of the Burnham–ap Iorwerth correspondence.
+
+The UK Government’s legal authority to retain a reserved power is not the same thing as an argument that retaining it is constitutionally appropriate.
+
+For each proposed transfer, we should ask:
+
+* What legal authority does Westminster currently hold?
+* What democratic responsibility does the Welsh Government currently exercise?
+* Is there a practical reason for keeping the power at UK level?
+* Could the benefits of UK-wide cooperation be maintained while transferring political accountability to Wales?
+* If Westminster refuses, what is its constitutional justification beyond simply saying that the matter is reserved?
+
+That fourth question is particularly important. Shared services, common standards and cross-border cooperation do not necessarily require shared political control.
+
+And I think this brings us to the larger issue underneath your original concern.
+
+The UK has created national democratic institutions in Wales, but it has not established a fully federal relationship in which those institutions have constitutionally protected spheres of authority.
+
+The result is a system in which Welsh self-government depends partly on the continuing willingness of Westminster to respect the boundaries and conventions of devolution.
+
+That is not the same as saying Wales has no meaningful autonomy. It means that the ultimate legal security of that autonomy remains asymmetrical.
+
+The next question I would examine is whether this makes the UK constitution effectively unitary, despite its devolved institutions — or whether it has evolved into something closer to a quasi-federal system in practice. That distinction will help us understand whether the current arrangement is simply unfinished devolution or a structural constitutional contradiction.”  
+
