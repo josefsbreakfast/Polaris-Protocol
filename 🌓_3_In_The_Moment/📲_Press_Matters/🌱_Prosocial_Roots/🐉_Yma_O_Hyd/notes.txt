@@ -12481,4 +12481,97 @@ Sources
 
 My recommendation: use the June 2025 figures as the main comparable agricultural survey baseline, and keep the December 2025 sheep inventory as a separate, newer data point pending extraction of its exact Welsh total.”.  
 
-“
+“Fact-check 15: Are the comparative UK percentages based on consistent data?
+
+Broadly comparable, with methodological caveats
+
+The comparison is valid as an approximate comparison of Wales’s share of UK livestock numbers, provided both figures use the June 2025 reference date. But the underlying national data are not collected using identical methods.
+
+That qualification matters. The UK totals are compiled from the four nations’ agricultural data, rather than from one uniform UK-wide livestock census. GOV.UK +1
+
+15.1 Recalculated Welsh shares
+
+Using the June 2025 Welsh figures and the corresponding UK totals:
+
+Livestock	Wales	UK	Wales’s share
+Sheep and lambs	8.81m	30.484m	28.9%
+Cattle and calves	1.0795m	9.292m	11.6%
+
+GOV.WALES +1
+
+These calculations are correct to the precision of the published figures. The sheep percentage is particularly approximate because the Welsh figure is rounded to two decimal places in millions.
+
+15.2 Are the underlying datasets genuinely comparable?
+
+There are important differences.
+
+Nation	Sheep data	Cattle data
+Wales	June agricultural survey; 50% response rate in 2025	Cattle Tracing System
+England	June agricultural survey, based on sampled commercial holdings	Cattle Tracing System
+Scotland	June agricultural census, with sampling of smaller holdings	Cattle Tracing Scheme
+Northern Ireland	June agricultural census, with statistical estimation for non-responders	Northern Ireland Food Animal Information System
+
+GOV.UK +1
+
+Sheep: the four nations use different survey designs, response patterns and approaches to estimating populations on holdings that do not return data.
+
+For example:
+
+* Wales sampled 10,300 farms from approximately 24,000 active holdings, with a 50% response rate.
+* Scotland’s census covered 73% of the estimated sheep population, despite receiving responses from 48% of holdings.
+* England’s survey used a sample of commercial holdings and statistical estimation to produce population totals.
+* Northern Ireland conducted a full census, but still used estimation and imputation for non-responding farms.
+
+These are not identical measurement processes. GOV.UK
+
+Cattle: the comparison is methodologically stronger because all four nations draw on administrative cattle-tracing systems rather than relying solely on sampled farm returns. However, the systems are administered separately, and the UK compilation brings together the national datasets. GOV.UK
+
+15.3 A particularly important date issue
+
+The previous fact-check identified a newer December 2025 Welsh sheep inventory.
+
+That must not be mixed into the June 2025 comparison.
+
+The UK livestock dataset was updated on 2 October 2026 to include new Welsh sheep data for December 2025. This is a different reference date and measurement series from the June agricultural survey. GOV.UK
+
+For a consistent comparison, use:
+
+* June 2025 Welsh sheep count against June 2025 UK sheep count.
+* June 2025 Welsh cattle count against June 2025 UK cattle count.
+
+Do not use a December Welsh inventory figure with a June UK denominator.
+
+15.4 What the percentages actually establish
+
+The comparison supports these statements:
+
+* Wales accounts for approximately 29% of the UK’s sheep and lamb population.
+* Wales accounts for approximately 12% of the UK’s cattle and calf population.
+* Wales has a substantially larger relative concentration of sheep than cattle.
+
+It does not, by itself, establish:
+
+* Wales’s percentage of UK meat production.
+* Wales’s share of breeding capacity.
+* The value of livestock products produced in Wales.
+* The proportion of UK food supply dependent on Welsh farms.
+
+Those require separate production, trade and economic data.
+
+15.5 Corrected wording for the master document
+
+Welsh livestock as a proportion of UK populations: Using comparable June 2025 reference-date figures, Wales held approximately 8.81 million sheep and lambs out of a UK total of 30.484 million, representing around 28.9% of the UK population. Wales also held 1,079,500 cattle and calves out of a UK total of approximately 9.292 million, representing around 11.6%. These are indicative population shares, not exact measures of production or economic contribution. The UK totals are compiled from national agricultural surveys and administrative sources. Although the four nations use the same broad June reference period and compatible livestock categories, their survey designs, response rates and estimation methods differ. Cattle comparisons are methodologically stronger because all four nations use administrative cattle-tracing systems. Sheep comparisons require greater caution because they rely on different national survey and estimation arrangements. December 2025 Welsh sheep inventory figures should not be mixed with June 2025 UK totals.
+
+15.6 Fact-check status
+
+Claim	Finding
+Wales has around 29% of UK sheep and lambs	
+Wales has around 12% of UK cattle and calves	
+Both comparisons can use June 2025 figures	
+All four nations use identical sheep survey methods	
+Cattle figures have stronger methodological comparability	
+The percentages are exact measures of Welsh agricultural output	
+
+My recommendation: retain both percentages, but label them approximate shares of the UK livestock population, June 2025. The sheep figure is a useful indicator of Wales’s distinctive agricultural profile; it should not be treated as a precise measure of its share of UK food production.”.  
+
+ChatGPT now wants more money, Andy, so sos: you’re going to need to wait x
