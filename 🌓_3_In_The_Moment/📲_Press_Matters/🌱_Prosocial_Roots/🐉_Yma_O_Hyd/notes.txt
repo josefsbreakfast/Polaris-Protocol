@@ -483,3 +483,189 @@ One final distinction I’d preserve throughout: criticism of Westminster’s En
 
 That gives us a much stronger argument than simply turning this into an England-versus-Wales dispute.”  
 
+“Yes. And this is a particularly important line of enquiry. I’ve checked the official Welsh Government and UK Government records, and there is a significant piece of context missing if we treat this as simply two letters passing between two leaders.
+
+There have been face-to-face meetings between Burnham and ap Iorwerth, including one shortly before the Prime Minister’s letter.
+
+That changes the procedural picture.
+
+1. The chronology of contact
+
+* 23 July 2026 — Initial meeting
+    Burnham and ap Iorwerth met after Burnham became Prime Minister.
+    Ap Iorwerth publicly said that he had raised the case for parity with Scotland, a new Wales Bill, policing and justice devolution, and fairer funding.
+    He described the meeting as the beginning of a new relationship based on mutual respect. Welsh Government News
+* 13 September 2026 — Public warning about the relationship
+    In an interview with The Guardian, ap Iorwerth said he was encouraged by the initial discussions but concerned about institutional resistance in Westminster.
+    He explicitly warned Burnham not to confuse Welsh national devolution with English regional devolution. The Guardian
+* 1 October 2026 — First Minister’s formal letter
+    Ap Iorwerth wrote to Burnham setting out the Welsh Government’s priorities for further devolution.
+    These included policing and justice, rail infrastructure, the Crown Estate, and fiscal reform. GOV.WALES
+* 30 October 2026 — Face-to-face intergovernmental meetings
+    Burnham and ap Iorwerth met in Glasgow at the National Economic Council and the Prime Minister and Heads of Devolved Governments Council.
+    This is particularly important because it happened after the 1 October letter and before Burnham’s response of 20 November. GOV.UK +2
+* 20 November 2026 — Prime Minister’s response
+    Burnham sent his written response to ap Iorwerth, rejecting the case for transferring several of the major requested responsibilities. GOV.WALES
+* 23 November 2026 — First Minister’s public response
+    Ap Iorwerth published his response, describing the decision as deeply disappointing and asking for urgent further engagement. GOV.WALES +1
+
+2. The crucial discovery: there was a separate bilateral meeting
+
+The Welsh Government’s own written statement of 3 November is unusually useful here.
+
+It distinguishes three separate engagements on 30 October:
+
+Engagement	Nature	Subject
+Heads of Devolved Governments Council	Formal intergovernmental meeting	UK-wide and devolved government priorities
+National Economic Council	Wider ministerial meeting	Economic growth, investment and fiscal arrangements
+Burnham–ap Iorwerth bilateral	Separate meeting between the two leaders	Specifically Welsh constitutional and policy priorities
+
+The third is the one I particularly wanted to establish.
+
+And it wasn’t merely a courtesy conversation.
+
+Ap Iorwerth records that he specifically raised:
+
+* Policing devolution, including the forthcoming Police Reform Bill.
+* Wider devolution of justice.
+* Devolution of the Crown Estate.
+* Full devolution of rail infrastructure and fair funding.
+* Fiscal flexibility, borrowing powers and the Wales Reserve.
+* The HS2 funding classification.
+
+He also says he was encouraged by the nature of the discussion, including Burnham’s commitments on fiscal flexibility and rail funding. GOV.WALES
+
+This is important because it establishes that the Prime Minister had an opportunity to hear the Welsh Government’s case directly, in a dedicated meeting, before sending his written response.
+
+It also establishes that the meeting covered substantially the same subjects as the subsequent correspondence.
+
+3. What does the UK Government say about that meeting?
+
+The UK Government’s public account is rather different in emphasis.
+
+Its 2 November press release concentrates on:
+
+* Empowering Welsh communities.
+* Economic growth.
+* Regional decision-making.
+* Partnership between the UK and Welsh Governments.
+
+Stephen Kinnock describes the meeting as an opportunity to move forward with discussions about where power and responsibility should sit. GOV.UK
+
+Compare that with the Welsh Government’s account.
+
+The Welsh statement records a dedicated bilateral discussion about the actual transfer of constitutional powers.
+
+The UK statement foregrounds economic partnership and regional empowerment.
+
+Neither account necessarily contradicts the other, but they emphasise different things.
+
+That difference is worth preserving in our analysis.
+
+4. What happened after Burnham’s rejection?
+
+This is where the procedural question becomes particularly interesting.
+
+On 23 November, ap Iorwerth called for urgent further talks with the Prime Minister and said that the response was difficult to reconcile with the constructive discussion they had held in Glasgow.
+
+Welsh Labour leader Ken Skates also called for the matter to be negotiated around a table. Nation.Cymru +1
+
+I have not found confirmation of a further bilateral meeting being arranged or held after the 20 November letter.
+
+So the publicly documented sequence is:
+
+* A dedicated discussion takes place.
+* The Welsh First Minister leaves it describing himself as encouraged.
+* The Prime Minister subsequently sends a written response rejecting several central requests.
+* The Welsh First Minister publicly challenges that response and requests urgent further engagement.
+
+That is a rather different sequence from two leaders who have simply exchanged opposing correspondence.
+
+5. Why this matters in terms of diplomatic etiquette and soft power
+
+I think there are four procedural questions worth examining.
+
+A. What was the expectation established by the 30 October meeting?
+
+The Welsh Government’s account suggests that both leaders had engaged substantively on the requested powers.
+
+Ap Iorwerth says he was encouraged by the nature of the discussion.
+
+That does not prove Burnham promised to agree to the transfers. But it does establish an expectation of constructive consideration.
+
+There is a difference between:
+
+* We have heard your case and will consider it.
+* We have heard your case and have already decided against it.
+* We have heard your case and want to negotiate alternative arrangements.
+
+Those are three different political signals.
+
+B. Was the written response a continuation of negotiation or the conclusion of it?
+
+The letter’s contents matter, but so does its procedural position.
+
+If a dedicated bilateral meeting has taken place, one would reasonably expect a substantive response to reflect what was discussed, identify points of agreement and disagreement, and explain what further negotiation remains possible.
+
+A letter can do that.
+
+But if it effectively closes the door on several requested powers without proposing another discussion, it can be received as a decision communicated downwards rather than a negotiation between governments.
+
+C. Was the Welsh Government given an opportunity to respond before the position was finalised?
+
+This is something we should investigate further.
+
+The public documents establish that the meeting happened. They do not establish:
+
+* Whether draft proposals were exchanged.
+* Whether Welsh officials were involved in subsequent negotiations.
+* Whether departmental objections were shared with Cardiff.
+* Whether there were further official-level meetings.
+* Whether the Prime Minister’s letter represented a settled Cabinet position.
+
+We should not assume those things did not happen simply because they are absent from the published record.
+
+D. What happened to the relationship after the disagreement?
+
+The request for urgent talks is significant.
+
+In intergovernmental relations, the willingness to return to the table after a disagreement can matter as much as the original disagreement.
+
+It communicates whether the relationship is still understood as one between negotiating partners.
+
+6. The document trail I’d want to establish next
+
+I’d suggest treating this as a small intergovernmental relations investigation.
+
+Evidence	What it would tell us
+30 October bilateral meeting record	What was actually discussed and agreed
+Meeting agenda and briefing papers	Whether the four devolution issues were formally scheduled
+Welsh Government follow-up correspondence	Whether Cardiff understood further negotiations to be underway
+UK Government departmental submissions	Who developed the objections and when
+20 November response letter	Whether the decision was final or left room for negotiation
+Subsequent meeting requests	Whether further dialogue was offered or accepted
+
+There is also a useful formal accountability route: the Senedd’s Inter-Institutional Relations Agreement provides a framework for reporting and scrutiny of intergovernmental engagement. Ap Iorwerth explicitly submitted his 30 October account under that arrangement. GOV.WALES +1
+
+My overall observation
+
+I would now describe the correspondence as a breakdown in the expectations established through direct intergovernmental engagement, rather than simply a disagreement over constitutional policy.
+
+That is an analytical distinction, not a conclusion about anyone’s motives.
+
+The key fact is that Burnham and ap Iorwerth had already sat down together, separately from the wider intergovernmental meetings, and discussed these very matters.
+
+The Welsh First Minister subsequently said he had been encouraged.
+
+The Prime Minister then sent a response that the Welsh First Minister considered fundamentally disappointing.
+
+That gives us a much more specific question to investigate:
+
+What happened between the conversation on 30 October and the letter of 20 November that caused the two governments to arrive at such different understandings of where the discussion was heading?
+
+I’d put that question before the detailed legal analysis.
+
+Because it takes us into the workings of government: who was advising whom, how decisions were reached, what was communicated between departments, and whether the political leaderships were operating with the same understanding of the negotiation.
+
+That is where the etiquette, institutional culture and soft power questions become much more concrete.”  
+
