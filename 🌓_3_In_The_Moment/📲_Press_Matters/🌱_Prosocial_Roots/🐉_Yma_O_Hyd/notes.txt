@@ -4252,4 +4252,268 @@ That is a substantial change in the relationship between the two governments.
 
 For our wider investigation, I would examine RAF Valley and the Welsh training estate separately. They raise different strategic, territorial, economic and sovereignty questions.”.   
 
+“Yes. We have accumulated quite a substantial set of questions, and I think it would be useful to bring them together into a single research agenda rather than keep opening new branches.
 
+The central thread running through the whole conversation is:
+
+How does Wales exercise meaningful democratic authority within the United Kingdom, what limits that authority in practice, and what would have to change if the constitutional relationship developed further?
+
+I would divide the outstanding work into eight connected investigations. I’ve separated questions we have identified but not yet answered from conclusions we have already established.
+
+Welsh constitutional investigation: outstanding questions
+
+1. The legal architecture of devolution
+
+We have reviewed the history of the Government of Wales Acts, but not yet completed the provision-by-provision examination.
+
+Outstanding questions:
+
+* What exactly is reserved to Westminster under Schedule 7A of the Government of Wales Act 2006?
+* Which reservations are genuinely UK-wide matters, and which preserve particular institutional arrangements?
+* How does Schedule 7B restrict the Senedd’s ability to legislate, even in areas which are ostensibly devolved?
+* How often do reserved-authority consent requirements prevent or complicate Welsh legislation?
+* Which executive functions can be transferred under sections 58 and 58A without transferring legislative competence?
+* What can be changed through section 109 Orders in Council, and what requires primary legislation?
+* How much of the current settlement is protected by statute, and how much depends on political convention?
+
+The important distinction: legislative competence, executive power, institutional control and financial authority are four separate things. We need to understand how they interact.
+
+Our next substantive exercise should be a structured examination of Schedules 7A and 7B.
+
+2. The Burnham–ap Iorwerth correspondence
+
+We have established that the letter of 20 November 2026 does not simply reject every Welsh request. It offers different forms of involvement and selected governance changes, while retaining UK control over important decisions.
+
+There are still significant questions.
+
+About the correspondence itself:
+
+* What precisely did Rhun ap Iorwerth request in his 1 October letter?
+* Which requests were accepted, partially accepted, rejected or deferred?
+* What evidence and reasoning did the UK Government give for each response?
+* Were alternative arrangements genuinely negotiated, or were they primarily devised by the UK Government?
+* What commitments have actually been made, and which are expressions of future intent?
+
+About the process:
+
+* What was discussed at the Glasgow meeting on 30 October?
+* Was there a separate bilateral discussion, and what records exist?
+* Were the relevant Welsh Ministers and UK departmental ministers consulted?
+* Were any objections or alternative proposals recorded?
+* Was the correspondence part of the formal intergovernmental relations machinery, or an informal political exchange?
+* Was any formal dispute procedure initiated or considered?
+
+The meeting, the correspondence and the public announcement need to be treated as separate events until the records establish their relationship.
+
+3. Participation–Authority Substitution
+
+Analytical model to develop
+
+This is the concept we identified when we noticed that greater Welsh involvement in UK-controlled institutions was sometimes being offered instead of the transfer of powers.
+
+The central question is:
+
+When does participation become a meaningful form of shared government, and when does it merely give Wales a voice without giving it authority?
+
+We should apply six tests to each policy area:
+
+Test	Question
+Representation	Does Wales have a seat or voice?
+Decision rights	Can Welsh representatives determine outcomes?
+Consent	Can a decision proceed against Welsh objections?
+Resources	Who controls the money?
+Accountability	Who answers to the Senedd?
+Security	Can Westminster change the arrangement unilaterally?
+
+Then apply them individually to:
+
+* Policing.
+* Justice and probation.
+* Crown Estate.
+* Rail infrastructure.
+
+The key is not to assume that shared governance is necessarily inadequate. It may be a perfectly legitimate arrangement. But we need to establish what rights Wales actually acquires.
+
+4. The responsibility–authority gap
+
+Needs systematic examination
+
+We have identified a recurring problem: the Welsh Government can be responsible for policies whose outcomes depend on institutions it does not control.
+
+We need to investigate this more thoroughly.
+
+Questions:
+
+* Where does Wales have responsibility for outcomes but insufficient authority over the institutions that influence them?
+* Which of these gaps are deliberate constitutional reservations?
+* Which are historical accidents or consequences of institutional complexity?
+* Which could be addressed through better intergovernmental cooperation?
+* Which genuinely require legislative or executive devolution?
+* Does Wales have sufficient funding and fiscal flexibility to discharge its responsibilities?
+
+We should examine five areas:
+
+* Justice and public safety.
+* Rail and transport.
+* Energy and natural resources.
+* Environmental protection.
+* Economic development and industrial policy.
+
+For each, we should map:
+
+The five-part responsibility test
+
+* Responsibility: Who is expected to deliver the outcome?
+* Authority: Who has the legal power to make the decision?
+* Resources: Who controls the money and assets?
+* Coordination: Who must cooperate with whom?
+* Accountability: Who can voters hold responsible?
+
+This could become one of the most useful analytical frameworks in the whole investigation.
+
+5. Fiscal autonomy and the economic foundations of self-government
+
+We have examined the Welsh budget and the distinction between block-grant funding, devolved taxation and borrowing.
+
+But several questions remain.
+
+* How does the Barnett formula compare with a needs-based funding model?
+* How much additional fiscal discretion could Wales exercise without becoming independent?
+* Which taxes could realistically be devolved further?
+* What would greater borrowing powers mean in practice?
+* Could Wales exercise substantially greater fiscal autonomy while retaining shared UK-wide redistribution?
+* What is the difference between having a fair funding settlement and having control over the resources needed to govern?
+* How would changes to Crown Estate revenue, energy income and natural-resource management affect the Welsh fiscal position?
+
+An important distinction here is that fiscal autonomy does not have to mean fiscal separation.
+
+We should examine possible arrangements that allow Wales more control over taxation and spending while retaining shared UK-wide economic institutions.
+
+6. Welsh nationalism and the constitutional mandate
+
+We have traced modern Welsh nationalism from nineteenth-century home-rule movements through Plaid Cymru, language activism, devolution and the modern independence debate.
+
+The next questions are less about chronology and more about political meaning.
+
+* How much Welsh national identity is cultural, linguistic, civic or political?
+* How many people want more devolution without wanting independence?
+* How many support independence as a principle, and how many support it as a practical proposition?
+* What is the relationship between Plaid Cymru’s long-term independence objective and its immediate programme for further devolution?
+* Does the 2026 election provide a mandate for particular constitutional changes, and if so, which ones?
+* How should we distinguish the electoral mandate for a government from a popular mandate for constitutional transformation?
+* Could resistance to particular devolution requests strengthen Welsh national consciousness among people who were previously indifferent to constitutional questions?
+
+That last question connects directly to your earlier observation about political optics.
+
+We should be careful not to treat a Plaid victory as a referendum on independence. The result establishes electoral support for the party’s programme, but not a single shared motivation among its voters.
+
+7. Intergovernmental relations and constitutional safeguards
+
+We have established that the 2022 intergovernmental relations arrangements provide structures for consultation, escalation and dispute resolution.
+
+But they do not create a binding adjudication system or an enforceable Welsh veto.
+
+The outstanding questions are:
+
+* What happens when the UK Government simply declines to agree with the Welsh Government?
+* How effectively can Wales compel consultation or obtain a reasoned response?
+* Can the Prime Minister and Heads of Devolved Governments Council resolve disputes when the UK Government is itself a party?
+* What is the practical independence of the IGR Secretariat?
+* Why has no dispute completed the full formal procedure, as reported in the Welsh Government’s February 2026 Cabinet Handbook?
+* Are disagreements being resolved informally, avoided, or left unresolved?
+* What constitutional safeguards would make the settlement more reliable?
+
+Possible reforms to examine include:
+
+* A statutory duty to cooperate.
+* Mandatory consultation periods.
+* Published reasons for rejecting devolved-government proposals.
+* Independent mediation.
+* More clearly defined dispute escalation.
+* Stronger legislative consent protections.
+
+We should assess these individually rather than assume every disagreement requires binding arbitration.
+
+8. Defence, MOD bases and the territorial implications of independence
+
+Initial overview only
+
+This is the newest branch, and we have only begun to explore it.
+
+The initial question was what happens to MOD control of military bases in Wales if the Union undergoes further separation.
+
+We should now distinguish three scenarios:
+
+* Greater Welsh autonomy while remaining in the UK.
+* A more federal United Kingdom.
+* Welsh independence.
+
+The outstanding questions:
+
+* What is the complete MOD estate in Wales, including military installations, training areas, testing sites and industrial facilities?
+* Which sites are owned by the Crown or MOD, which are leased, and which operate under other arrangements?
+* What military functions does each site perform?
+* Which sites have strategic importance to the UK beyond Wales?
+* What would happen to RAF Valley, Sennybridge, MOD Sealand and the Welsh training estate under each constitutional scenario?
+* Could the UK retain bases in an independent Wales under leases or defence treaties?
+* What would Welsh sovereignty mean for access, policing, environmental regulation and jurisdiction within those installations?
+* How would NATO membership or other defence arrangements be negotiated?
+* What would happen to defence manufacturing, procurement, testing and employment?
+* Could Wales develop its own defence capability while maintaining a close security relationship with the UK?
+
+We should also distinguish the ownership of a site, the command of forces operating there, and the right of another state to maintain a military presence. Those are separate legal questions.
+
+The questions that connect everything
+
+There are four overarching questions which I think are more important than any individual policy dispute.
+
+A. What does self-government actually mean?
+
+Is it sufficient for Wales to administer services, or must it control the laws, institutions, resources and decisions that determine their outcomes?
+
+B. What should remain shared?
+
+Which matters genuinely benefit from UK-wide institutions, common standards and pooled resources, and which require Welsh democratic control?
+
+C. What protects the settlement?
+
+Can Wales rely on political conventions and intergovernmental goodwill, or does it need enforceable constitutional protections?
+
+D. What is the actual constitutional destination?
+
+Is the objective improved devolution, federalism, a confederal arrangement, independence, or a settlement that combines shared and separate institutions?
+
+Suggested order of investigation
+
+I would keep the work sequential. Some questions depend on answers to earlier ones.
+
+Order	Investigation	Why it comes here
+1	Schedules 7A and 7B	Establish the actual legal boundaries
+2	Executive functions and institutional control	Understand what can change without full legislative devolution
+3	Four issues in the Burnham correspondence	Apply the legal framework to real disputes
+4	Participation–Authority Substitution	Test whether proposed arrangements transfer meaningful power
+5	Responsibility–authority gaps	Identify where the settlement creates practical problems
+6	Fiscal autonomy	Establish the resources available to exercise authority
+7	Intergovernmental safeguards	Examine whether the UK settlement protects Welsh interests
+8	Nationalism and democratic mandate	Understand the political context and constitutional choices
+9	MOD estate and defence arrangements	Explore the implications of different constitutional futures
+
+The historical development of nationalism and the history of devolution provide context throughout, rather than needing to be repeated as separate research exercises.
+
+My proposed working principle
+
+I would keep four columns in our research notes for every disputed issue:
+
+Category	What we are trying to establish
+Law	What is legally permitted, required or prohibited?
+Politics	What does each government or party actually want?
+Practicality	What institutional, financial or operational difficulties exist?
+Unresolved	What evidence, negotiation or constitutional decision is still missing?
+
+That should prevent us from confusing a legal restriction with a political preference, or a practical difficulty with proof that a power cannot be devolved.
+
+I suggest we resume at investigation 1: Schedule 7A and Schedule 7B, examining the actual reservations and restrictions one by one. That gives us the legal foundation against which everything else—including the Burnham letter, Welsh nationalism and the future of the MOD estate—can be assessed.
+
+The aim is not to assume that every power should move to Cardiff, or that every UK-wide institution should disappear. It is to establish, carefully and transparently, where authority lies, why it lies there, and what choices Wales actually has.”  
+
+“
