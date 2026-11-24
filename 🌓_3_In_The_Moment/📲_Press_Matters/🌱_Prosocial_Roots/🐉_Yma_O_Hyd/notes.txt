@@ -1,2 +1,269 @@
 glad to see some movement vis a vis wilful ignorance; still need dental, so we will do this today.  
 
+below is c+v within bounds of 69 weeks of RL and written bounding for outputs.  
+
+“Executive summary: Burnham’s legal arguments against further devolution to Wales
+
+The central issue is constitutional, not simply administrative: does Wales need to retain shared UK-wide institutions to make public services work effectively, or should it have its own democratic authority over matters increasingly affected by Welsh law and policy?
+
+Burnham’s arguments, as reported, fall into four areas: policing, criminal justice, the Crown Estate and rail infrastructure.
+
+One important qualification: these are principally arguments about institutional design, operational efficiency and public interest, rather than demonstrations that devolution would be legally impossible.
+
+There is a significant distinction between saying that powers should not be transferred and saying that they cannot lawfully be transferred.
+
+1. Policing: maintaining an integrated England–Wales system
+
+Argument: operational integration
+
+Burnham’s position
+
+The England and Wales policing system should remain integrated because it:
+
+* Enables interoperability between police forces.
+* Facilitates cross-border investigations and operations.
+* Gives Welsh forces access to national and specialist capabilities.
+* Supports a coordinated response to serious threats and public protection.
+
+His underlying argument is that separating governance could introduce institutional fragmentation and weaken operational effectiveness.
+
+Legal and constitutional implications
+
+Policing is currently not devolved to Wales in the way it is to Scotland. The relevant powers remain substantially within the UK Government’s constitutional and legislative framework.
+
+However, there is no inherent legal requirement that Wales and England must have identical policing governance.
+
+Scotland demonstrates that a separate policing structure can coexist with UK-wide security cooperation.
+
+The relevant legal question is therefore whether operational integration requires common political control, or whether it can be maintained through statutory cooperation agreements, shared services and cross-border arrangements.
+
+Executive assessment: Burnham establishes a legitimate operational concern, but does not establish that retaining Westminster control is legally necessary.
+
+2. Criminal justice: the case for retaining a shared legal system
+
+Argument: institutional coherence
+
+Burnham’s position
+
+The existing shared justice arrangements provide Wales with access to:
+
+* Greater institutional resources.
+* Specialist legal and judicial expertise.
+* Shared administrative infrastructure.
+* Greater resilience across the justice system.
+
+He argues that effective partnership between the Welsh and UK Governments is preferable to transferring responsibility for the justice system.
+
+Legal and constitutional implications
+
+This is arguably the most substantial constitutional issue in the letter.
+
+Wales has its own legislature and an increasingly distinct body of Welsh law in devolved areas, including housing, health, education and planning.
+
+Yet the administration of justice remains substantially organised through England-and-Wales institutions.
+
+This creates an increasingly complicated relationship between:
+
+* The legislature making the law.
+* The government implementing policy.
+* The courts interpreting and applying the law.
+* The institutions responsible for administering justice.
+
+The case for a distinct Welsh legal jurisdiction is that legislative divergence creates a corresponding need for appropriate judicial, administrative and institutional capacity.
+
+The counterargument is that a shared jurisdiction can accommodate different laws without requiring separate institutions.
+
+Importantly, creating a separate Welsh jurisdiction would not necessarily mean establishing completely independent courts, prosecution services or prisons. Different models of shared infrastructure are possible.
+
+Executive assessment: Burnham identifies the advantages of shared institutions but does not answer the central constitutional question: whether Wales has sufficient control over the institutions needed to implement and enforce its own laws.
+
+The Commission on Justice in Wales, chaired by Lord Thomas, provides an important independent evidence base for examining this question. Law Gazette +1
+
+3. The Crown Estate: ownership, control and economic benefit
+
+Argument: economic scale and investment capacity
+
+Burnham’s position
+
+The Crown Estate’s existing UK-wide management structure is better placed to maximise economic benefits for Wales because it has:
+
+* Greater financial capacity.
+* A diversified investment portfolio.
+* Specialist expertise.
+* The ability to manage investment risks across different geographical areas.
+* The ability to attract investors into large-scale offshore wind developments.
+
+He particularly emphasises the Celtic Sea offshore wind opportunity and the importance of coordination with England.
+
+Legal and constitutional implications
+
+The Crown Estate is not simply a collection of government-owned properties. It is a statutory corporation operating under the Crown Estate Act 1961, with its own governance and statutory duties.
+
+Its revenues are not automatically available to the Welsh Government. The current arrangements channel its net revenue profit to the UK Consolidated Fund, subject to the statutory framework.
+
+The devolution question has two distinct elements:
+
+* Who controls the management and strategic decisions affecting Crown Estate assets in Wales?
+* Who receives and controls the resulting revenues?
+
+These are related but not identical questions.
+
+Devolving management would not necessarily require transferring ownership of every asset. Nor would it automatically require the Welsh Government to abandon shared investment arrangements.
+
+Scotland provides an important comparator: the management of the Scottish Crown Estate was transferred to Scottish Ministers, with legislation establishing Crown Estate Scotland.
+
+The weakness in Burnham’s argument
+
+Financial scale and investment diversification are arguments for retaining a particular management structure. They are not legal reasons why Welsh management could not operate.
+
+A Welsh institution could potentially:
+
+* Retain joint investment arrangements.
+* Participate in UK-wide offshore energy infrastructure.
+* Share specialist services.
+* Enter into cross-border commercial agreements.
+* Retain or distribute revenues under an agreed statutory settlement.
+
+The question is whether these arrangements would produce better outcomes than the present model.
+
+Executive assessment: This is an economic and institutional argument presented as a reason to retain the status quo. It does not demonstrate that devolving management would undermine investment or require the loss of UK-wide cooperation.
+
+4. Rail infrastructure: the integrity of the cross-border network
+
+Argument: network integration
+
+Burnham’s position
+
+Rail infrastructure should remain under Great British Railways, working with Transport for Wales and the Welsh Government.
+
+His reasoning is that Welsh rail infrastructure is closely connected to the English network, requiring:
+
+* Coordinated investment.
+* Consistent maintenance standards.
+* Integrated passenger services.
+* Cross-border infrastructure planning.
+* Coordination between track and train operations.
+
+He argues that full devolution would fragment the system and potentially damage passenger services.
+
+He also points to proposed safeguards and concessions:
+
+* A Wales Rail Board.
+* A partnership between Transport for Wales and Network Rail.
+* A legislative requirement for Great British Railways to consider Welsh needs.
+* A developing partnership agreement for Wales and Borders.
+
+Legal and constitutional implications
+
+The key issue is the distinction between infrastructure ownership, infrastructure management, funding and operational control.
+
+These do not necessarily have to sit with the same institution.
+
+A devolved Welsh railway infrastructure authority could potentially maintain:
+
+* Shared technical standards.
+* Through-ticketing arrangements.
+* Cross-border timetabling.
+* Joint maintenance contracts.
+* Shared infrastructure investment.
+* Agreements with Great British Railways.
+
+The existence of a cross-border network does not itself establish that infrastructure governance must remain centralised.
+
+There is also an important democratic accountability question: if the Welsh Government is responsible for transport policy but cannot independently determine the infrastructure investment priorities needed to deliver it, how complete is that devolution?
+
+Executive assessment: Burnham makes a credible case for network integration, but integration does not necessarily require centralised political control. The real question is which institutional arrangement delivers the best combination of accountability, investment and passenger outcomes.
+
+5. The overarching constitutional argument: devolution versus delegation
+
+The most important distinction in the correspondence
+
+This is arguably the most consequential argument in the entire letter.
+
+Burnham is offering Wales more influence over decision-making without transferring the underlying legislative competence or full executive responsibility.
+
+His approach includes:
+
+* Greater Welsh Government involvement in policing governance.
+* More influence over youth justice and probation.
+* Welsh representation in Crown Estate decision-making.
+* A Wales Rail Board and partnership arrangements.
+* Greater regional responsibility for employment support.
+* Further fiscal flexibility.
+
+This is a model of enhanced administrative cooperation within the existing constitutional settlement.
+
+The alternative is formal devolution: transferring powers to Welsh institutions through legislation, giving them a more permanent and democratically accountable basis.
+
+The distinction matters because administrative delegation can potentially be changed or withdrawn by the authority that grants it. Legislative devolution changes the allocation of constitutional powers and is considerably more difficult to reverse politically and constitutionally.
+
+The legal question is therefore not simply whether Wales can be given more influence.
+
+It is whether Wales should have the authority to make decisions in its own right, subject to its own democratic accountability.
+
+Laura Hughes, head of public law at Browne Jacobson, makes precisely this distinction in her commentary on the letter. Browne Jacobson +1
+
+Comparative assessment
+
+Subject	Burnham’s principal argument	Main counterargument
+Policing	Operational interoperability	Cooperation does not require common political control
+Justice	Shared expertise and institutional resilience	Distinct Welsh laws need appropriate Welsh justice institutions
+Crown Estate	Investment scale and financial capacity	Devolved management can retain UK-wide commercial partnerships
+Rail	Cross-border network integration	Shared infrastructure agreements can coexist with devolved governance
+Constitutional model	Greater influence within existing structures	Influence is not equivalent to democratic authority
+
+The three biggest legal questions
+
+I would concentrate further scrutiny on three issues.
+
+1. Is there a demonstrated legal necessity for centralisation?
+
+Burnham repeatedly identifies practical advantages of shared systems. But he does not demonstrate that those advantages depend on Westminster retaining the relevant powers.
+
+2. Is the existing constitutional settlement keeping pace with legislative divergence?
+
+Wales increasingly makes its own laws. There is a legitimate question about whether its constitutional arrangements provide sufficient institutional capacity to administer, interpret and enforce those laws.
+
+3. Is the UK Government treating the four nations consistently?
+
+Scotland has devolved policing, justice and Crown Estate management. Wales has not received equivalent powers.
+
+That does not automatically establish a legal entitlement to identical arrangements: the constitutional settlements are different. But it raises a substantial question about the principles used to justify the difference.
+
+The Independent Commission on the Constitutional Future of Wales specifically recommended further devolution of justice, policing, the Crown Estate and rail, with shared governance where necessary. GOV.WALES
+
+My overall conclusion
+
+Burnham’s letter is considerably more sophisticated than a simple refusal to devolve powers. He is proposing an alternative model of governance based on partnership, administrative integration and enhanced Welsh influence.
+
+But there is a weakness running through all four arguments:
+
+He repeatedly treats the benefits of institutional cooperation as evidence for retaining centralised constitutional authority.
+
+Those are not the same proposition.
+
+It is perfectly possible to have:
+
+* Separate democratic accountability.
+* Shared operational infrastructure.
+* Joint investment.
+* Cross-border policing.
+* Integrated transport networks.
+* Common professional standards.
+
+The letter does not sufficiently explain why these arrangements cannot be achieved through devolution.
+
+An important source discovery
+
+Original letter now located
+
+The full five-page letter was actually published by the Welsh Government on 23 November. I have now checked the original rather than relying solely on press extracts.
+
+Read Andy Burnham’s complete letter (official PDF)⁠￼.
+
+The most useful accompanying document is the Welsh Government’s independent commission report:
+
+Independent Commission on the Constitutional Future of Wales – Final Report⁠￼.
+
+My recommendation: read the two documents against each other. The interesting exercise is not simply identifying where they disagree, but identifying where Burnham makes an assertion about operational necessity without addressing the alternative institutional models proposed by the Welsh side.”
+
