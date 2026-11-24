@@ -2698,3 +2698,708 @@ Can a voluntary, largely non-binding system of intergovernmental cooperation ade
 
 That is not simply a question about whether ministers get on. It is a question about the constitutional security of devolution itself.”.  
 
+“Summary: Welsh devolution, constitutional authority and intergovernmental relations
+
+Our discussion has examined whether Wales has sufficient constitutional, legal and practical authority to govern its own affairs, and whether the UK Government’s approach to further devolution is consistent with the principles of democratic accountability and cooperation.
+
+The central theme has been the difference between having responsibility for an outcome and having the authority and resources to deliver it.
+
+1. The Burnham–ap Iorwerth correspondence
+
+* We discussed the November 2026 correspondence between UK Prime Minister Andy Burnham and Welsh First Minister Rhun ap Iorwerth.
+* The full five-page UK Government letter was reported as having been published by the Welsh Government on 23 November.
+* Burnham’s response addressed four main areas:
+    * Policing.
+    * Criminal justice.
+    * The Crown Estate.
+    * Rail infrastructure.
+* The UK Government’s arguments centred on integration, economies of scale, cross-border cooperation, specialist capabilities and national coordination.
+* The Welsh case concerns democratic accountability, the ability to develop Welsh policy coherently, and control over institutions and resources that affect Wales.
+* We considered the political optics: rejecting further devolution requests may strengthen the perception that Westminster is unwilling to recognise Welsh democratic aspirations.
+* We also noted that Burnham should not be treated as the sole author of the UK Government’s position. He is acting within a wider government and institutional framework.
+
+2. Plaid Cymru’s position and the independence question
+
+* We distinguished Plaid Cymru’s long-term constitutional objective from its immediate programme in government.
+* Plaid’s formal objective is Welsh independence.
+* Its immediate programme includes seeking further devolution, establishing a National Commission for Wales, developing constitutional proposals and encouraging public discussion.
+* The distinction matters: a request to devolve policing, rail or Crown Estate powers can have a substantive policy case independently of the party’s longer-term independence objective.
+* We also noted that the current Welsh Government’s stated position was that there would be no independence referendum during the 2026–30 Senedd term.
+* We agreed not to treat the 2026 Senedd election as a straightforward referendum on independence. Voters have multiple motivations, and a party winning the largest number of seats does not establish that a majority of Welsh voters support independence.
+
+3. The constitutional foundations of Welsh devolution
+
+We examined the legal structure of the Welsh settlement.
+
+* Wales has an elected legislature, government, budget and substantial policy responsibilities.
+* The principal legislative framework is the Government of Wales Act 2006, as amended by subsequent Wales Acts.
+* Wales operates under a reserved-powers model: the Senedd can legislate unless a matter is reserved or otherwise restricted.
+* The Senedd has statutory recognition as a permanent part of the UK’s constitutional arrangements under section A1 of the Government of Wales Act 2006.
+* However, that permanence is not legally entrenched against a future Westminster Parliament expressly repealing or amending the provision.
+* Westminster retains legal sovereignty and can legislate for Wales, including in devolved areas.
+* The Sewel Convention says Westminster will not normally legislate on devolved matters without Senedd consent, but it is a political convention rather than a legally enforceable veto.
+* We distinguished legal authority from political legitimacy: Westminster may possess the legal power to act without necessarily having the political legitimacy to do so without serious consequences.
+
+4. Wales’s legal jurisdiction
+
+We explored whether Wales needs its own legal jurisdiction to exercise meaningful autonomy.
+
+Three different ideas were separated:
+
+* A distinct body of Welsh law, which already exists.
+* Formal recognition of a distinct Welsh legal jurisdiction.
+* A fully separate Welsh court and justice system.
+
+The important points were:
+
+* Wales can already make laws that differ from those in England in devolved policy areas.
+* Those laws form part of the shared England and Wales legal jurisdiction.
+* The division between devolved social policy and reserved justice institutions can create problems of coordination and accountability.
+* Formal recognition of a Welsh jurisdiction would not necessarily require separate courts, legal professions or judicial qualifications.
+* A staged approach to justice devolution has been proposed, rather than transferring every responsibility immediately.
+
+The key distinction was between recognising Welsh law and transferring the institutions responsible for administering justice.
+
+5. Fiscal autonomy and the UK block grant
+
+We considered how much practical independence Wales can exercise while relying principally on funding from the UK Government.
+
+The figures discussed came from the Welsh Government’s November 2026 draft budget for 2027–28:
+
+Source of funding	Approximate share
+UK Government settlement	78.8%
+Welsh Rates of Income Tax	14.9%
+Non-Domestic Rates	4.2%
+Fully devolved taxes	2.1%
+
+The figures show that Wales has considerable discretion over how it allocates its budget, but much less control over the overall size and structure of its revenue.
+
+We also discussed:
+
+* The Barnett formula determines changes to the block grant, rather than directly calculating the total amount Wales should receive.
+* Wales has some tax-setting powers, but does not control the entire income-tax system.
+* Borrowing powers are restricted, particularly for day-to-day spending.
+* The Welsh Government has a reserve and limited capital borrowing capacity.
+* UK spending decisions, particularly in England, can influence the funding available to Wales.
+
+Our central distinction was between:
+
+* Fair funding: whether Wales receives an appropriate share of public resources.
+* Fiscal control: whether Wales can decide how to raise, borrow, retain and deploy those resources.
+
+These are related but separate constitutional questions.
+
+6. Do the reserved powers leave gaps between Welsh responsibilities and Welsh authority?
+
+We examined whether the current distribution of reserved and devolved powers is coherent.
+
+Three areas illustrated different types of difficulty.
+
+Justice and public safety
+
+* Wales controls important services including health, education, housing and social services.
+* The UK Government retains policing, prosecution, courts, prisons and probation.
+* This creates practical interdependencies: Welsh institutions may be responsible for services needed to prevent offending and support rehabilitation, while UK institutions control important parts of the criminal justice process.
+* The division can make it harder to coordinate policy and identify who is accountable for outcomes.
+
+Rail
+
+* Wales has significant transport responsibilities and controls Transport for Wales and the Core Valley Lines.
+* Much of the wider rail infrastructure and its investment arrangements remain under UK-level control.
+* Welsh policy ambitions can therefore depend on infrastructure decisions Wales does not fully control.
+* We distinguished the case for an integrated railway from the case for retaining exclusive UK political control over its infrastructure.
+
+Energy and the Crown Estate
+
+* Wales has responsibilities involving planning, environmental policy and some renewable-energy consents.
+* Major aspects of energy-market regulation, electricity transmission and strategic energy policy remain reserved.
+* Crown Estate management is also reserved.
+* This creates questions about who controls natural assets, who receives revenue, who consents to development and who bears environmental consequences.
+
+We also recognised that some reservations have a clear UK-wide rationale, including defence, foreign affairs, immigration, currency and national security.
+
+The key point was that a reservation may be defensible in isolation but still create problems when combined with devolved responsibilities.
+
+7. Are intergovernmental mechanisms sufficient to protect Wales when the governments disagree?
+
+We examined the formal arrangements established by the 2022 Intergovernmental Relations Review.
+
+The main structures are:
+
+* Interministerial Groups for individual policy areas.
+* The Interministerial Standing Committee for cross-cutting matters.
+* The Finance Interministerial Standing Committee.
+* The Prime Minister and Heads of Devolved Governments Council.
+* An independent Intergovernmental Relations Secretariat.
+
+The intended process is to resolve disagreements through officials and portfolio ministers, then escalate them through the intergovernmental structures.
+
+We identified several limitations:
+
+* The arrangements are principally based on political agreement rather than legally enforceable obligations.
+* The formal dispute process can escalate disagreements but cannot compel the UK Government to accept a Welsh position.
+* Independent mediation may be available, but does not automatically produce a binding settlement.
+* The Prime Minister chairs the highest-level forum.
+* Westminster retains legal sovereignty.
+* Equal opportunity to participate in meetings does not mean equal constitutional power.
+
+We also discussed the evidence available:
+
+* The Welsh Government’s March 2026 report described increased intergovernmental engagement overall, but also uneven engagement between policy areas.
+* The Welsh Government’s February 2026 Cabinet Handbook said that the formal arrangements were generally not underpinned by law.
+* The Handbook also reported that no dispute had yet completed the entire formal resolution process.
+
+This means the machinery exists, but its ability to protect Welsh interests in a serious constitutional disagreement has not been fully tested.
+
+8. The Burnham correspondence as a practical test of those arrangements
+
+We returned to the correspondence to identify what still needs establishing.
+
+In particular:
+
+* What proposals did the Welsh Government submit before the 30 October meeting?
+* What commitments or understandings emerged?
+* Were the four policy areas considered through the relevant intergovernmental structures?
+* Was there a jointly agreed record of the meeting?
+* Did Welsh Ministers receive the UK Government’s objections in time to respond?
+* Has either government formally invoked the dispute-resolution procedure?
+
+We agreed that the existence of meetings and letters does not, by itself, establish meaningful consultation or agreement.
+
+We also distinguished an ordinary political disagreement from a formal intergovernmental dispute. The correspondence should not automatically be treated as the latter.
+
+9. The recurring questions running through our discussion
+
+These are the questions that have emerged as the central framework for examining Welsh devolution:
+
+* Democratic authority: Who should make decisions affecting Wales?
+* Accountability: Can Welsh voters identify which government is responsible for a policy outcome?
+* Legal authority: Does the government responsible for an outcome have the powers necessary to deliver it?
+* Financial authority: Does it have the revenue, borrowing and spending flexibility to act?
+* Coordination: Can shared services and cross-border systems operate without requiring all political control to remain centralised?
+* Constitutional protection: What happens when the UK and Welsh governments disagree?
+* Political legitimacy: Does the exercise of Westminster’s legal sovereignty always respect the democratic expectations created by devolution?
+
+10. Sources discussed
+
+The following are the principal sources cited in our earlier answers. They are grouped by subject rather than presented as a new assessment.
+
+Constitutional and intergovernmental arrangements
+
+* Government of Wales Act 2006, including sections A1 and 107.
+* Wales Act 2017.
+* 2022 Review of Intergovernmental Relations. GOV.UK +1
+* Welsh Government Cabinet Handbook, February 2026. GOV.WALES
+* Welsh Government report on intergovernmental relations, March 2026. GOV.WALES
+* Welsh Government–Senedd inter-institutional arrangements. GOV.WALES
+
+Fiscal arrangements
+
+* Welsh Government Draft Budget 2027–28. GOV.WALES +1
+* House of Commons Library, The Barnett formula, January 2026. House of Commons Library
+* Institute for Fiscal Studies, analysis of devolved government borrowing and reserves, February 2026. Institute for Fiscal Studies
+* Independent Commission on the Constitutional Future of Wales, final report and fiscal evidence. GOV.WALES +1
+
+Justice, transport and reserved powers
+
+* Criminal Justice Board for Wales, 2025–26 reporting. GOV.UK +1
+* Welsh Government Cabinet Handbook, including the division of legislative and executive responsibilities. GOV.WALES
+* Senedd evidence on rail infrastructure and transport responsibilities. GOV.WALES +1
+* Senedd and Welsh Government material on energy and Crown Estate responsibilities. House of Commons +4
+
+The correspondence and political positions
+
+* Welsh Government publication of the Burnham–ap Iorwerth correspondence, November 2026.
+* Welsh First Minister’s letter of 1 October 2026.
+* Welsh Government account of the 30 October 2026 meeting.
+* UK Government account of the 30 October 2026 intergovernmental meeting.
+* Plaid Cymru’s 2026 manifesto and constitutional objectives.
+
+The last group was discussed in our earlier examination; its individual claims should be checked against the original documents if we later quote or rely on them in detail.
+
+Overall synthesis
+
+The conversation has moved from the immediate political disagreement over four proposed transfers of power to a wider constitutional question.
+
+Wales has meaningful devolved institutions and substantial policy responsibilities. But its authority is constrained by reserved powers, dependence on UK funding, the continuing sovereignty of Westminster and intergovernmental arrangements that rely heavily on political cooperation.
+
+The recurring issue is not simply whether Wales should receive more powers. It is whether responsibility, authority, resources and democratic accountability are properly aligned.
+
+And the question we have not yet fully resolved is perhaps the most important one:
+
+What constitutional safeguards should exist to ensure that devolution remains meaningful when the UK Government and Welsh Government fundamentally disagree about the future of Wales?”  
+
+“I’ll check the summary against primary legislation and official Welsh and UK Government material, then separate verified facts, claims that need qualification, and points that were too confidently stated.
+
+One important limitation in the previous summary: it listed several source references without giving their titles, publication details or direct links. I’ll make the source trail explicit here rather than treating those earlier citations as sufficient proof.
+
+Fact-check: overall result
+
+Largely accurate
+
+The previous summary is broadly reliable on the constitutional framework, fiscal figures, election result and intergovernmental arrangements. However, I found several points that need correction or more precise wording.
+
+The most important is the description of Andy Burnham’s letter: it was more nuanced than a simple rejection of all further Welsh involvement. It rejected or declined particular transfers of authority while proposing enhanced Welsh participation in some existing UK-controlled arrangements.
+
+1. The correspondence: verified, but the summary flattened important distinctions
+
+Verified
+
+* The First Minister wrote to the Prime Minister on 1 October 2026.
+* Andy Burnham replied on 20 November 2026.
+* The Welsh Government published both letters on 23 November 2026.
+* The Prime Minister’s reply is indeed five pages long. GOV.WALES +2
+
+However, the previous summary described the letter as four broadly equivalent refusals. That misses important distinctions.
+
+Subject	What the letter actually says	More precise description
+Policing	The UK Government is not persuaded legislative devolution is necessary. It offers to strengthen Welsh involvement in policing governance within the reserved model.	Rejects legislative devolution for now; offers enhanced Welsh governance and influence.
+Justice	It defends the shared England and Wales system, but discusses expanding Welsh involvement in youth justice and probation funding and oversight.	Rejects the case for a wholesale change in the settlement, while leaving some practical transfers and expanded roles under discussion.
+Crown Estate	Explicitly rejects devolving its management and preparing now for a future transfer.	Clear rejection of the proposed transfer.
+Rail	Rejects full devolution of rail infrastructure, favouring Great British Railways working with Welsh institutions. It also agrees to transfer governance of Welsh rail enhancements to the Wales Rail Board.	Rejects full devolution while supporting some additional Welsh decision-making.
+
+These distinctions are explicit in the published letter. GOV.WALES +1
+
+There are also important elements missing from the previous summary:
+
+* Burnham refers to a £14 billion pipeline of Welsh rail investment.
+* He says governance of Welsh rail enhancements will transfer to the Wales Rail Board.
+* He refers to an agreement on youth justice initiatives and ongoing discussions about probation.
+* He supports further discussion of fiscal flexibility.
+* He proposes exploring further employment-support devolution and regional empowerment.
+* He refers to the Welsh Government’s proposed child payment pilot.
+
+These are relevant because the disagreement is not simply between a Welsh Government demanding powers and a UK Government refusing everything. It concerns which kinds of authority the UK Government is prepared to transfer, and which it wants to retain. GOV.WALES
+
+2. Plaid Cymru and independence
+
+Verified, with a qualification
+
+The previous summary correctly distinguished Plaid Cymru’s long-term objective from the Welsh Government’s immediate programme.
+
+* Plaid Cymru’s constitution identifies securing independence for Wales in Europe as a party objective. ymuno.plaid.cymru
+* Its 2026 programme for government commits to formally requesting the devolution of the right to decide the timetable, question and process for an independence referendum. GOV.WALES +1
+* The Welsh Government has explicitly stated that there will be no independence referendum during this Senedd term. That was reaffirmed in the Senedd on 10 November 2026. Welsh Parliament +1
+* The National Commission for Wales is intended to support a national constitutional conversation, develop evidence and advise on devolution priorities and wider constitutional reform. GOV.WALES +1
+
+Qualification: The National Commission should not be described as an independence commission. Its stated remit is broader. It is concerned with Wales’s constitutional future, including further devolution and regional and local decision-making.
+
+The previous summary was also right not to interpret the election as an independence referendum.
+
+Official results show:
+
+* Plaid Cymru: 43 seats and 35.4% of valid votes.
+* Reform UK Wales: 34 seats.
+* Plaid became the largest party but did not win a majority of the 96 seats. Vote.Wales +2
+
+3. Constitutional law
+
+Verified
+
+The main legal points in the summary are correct.
+
+* The Government of Wales Act 2006 is the central legislative framework.
+* The Wales Act 2017 introduced the reserved-powers model and the permanence provision.
+* Section A1 says the Senedd and Welsh Government are permanent parts of the UK’s constitutional arrangements and should not be abolished without a decision of the Welsh people in a referendum.
+* Section A2 recognises that the law applying in Wales includes a body of Welsh law made by the Senedd and Welsh Ministers.
+* Section 107(5) preserves Westminster’s power to legislate for Wales.
+* Section 107(6) recognises that Westminster will not normally legislate on devolved matters without Senedd consent. Legislation.gov.uk +2
+
+The previous summary’s qualification about parliamentary sovereignty is also important.
+
+Section A1 is a statutory commitment, but it does not entrench itself against amendment or repeal. Under the orthodox doctrine of parliamentary sovereignty, a future Parliament could expressly amend or repeal it.
+
+One point worth making more clearly: the Senedd’s permanence and the extent of its powers are separate questions. Statutory recognition of the institution does not guarantee that its existing powers, funding or responsibilities will remain unchanged.
+
+4. Wales’s legal jurisdiction
+
+Verified
+
+The summary correctly distinguished:
+
+* A distinct body of Welsh law.
+* Formal recognition of a distinct Welsh legal jurisdiction.
+* A fully separate Welsh court and justice system.
+
+The first already exists. The second and third are different constitutional developments.
+
+The legislation explicitly recognises Welsh law while retaining the wider England and Wales legal jurisdiction. Legislation.gov.uk +1
+
+The Independent Commission on the Constitutional Future of Wales also recommended a staged approach to justice devolution, identifying policing, probation and youth justice as potential starting points. It estimated that full transfer would be a substantial undertaking requiring approximately ten years. GOV.WALES
+
+Qualification: The earlier summary sometimes grouped prosecution, policing, probation, courts and prisons together as though each were subject to precisely the same legal reservation. They are all part of the wider justice settlement, but the statutory boundaries and exceptions differ. In particular, the Senedd can legislate about responsibility for prosecution of devolved offences in certain circumstances. Legislation.gov.uk
+
+5. Fiscal autonomy
+
+Figures verified
+
+The figures in the previous summary match the Welsh Government’s Draft Budget 2027–28.
+
+Funding source	Amount	Share
+UK Government settlement	£22.3bn	78.8%
+Welsh Rates of Income Tax	£4.2bn	14.9%
+Non-Domestic Rates	£1.2bn	4.2%
+Fully devolved taxes	£432m	2.1%
+
+The budget’s total fiscal resource and capital figure is £28.242bn. The table uses rounded amounts and percentages. GOV.WALES +1
+
+Other claims also check out:
+
+* The Barnett formula calculates annual changes in the block grant, not the total size of the grant. House of Commons Library
+* The Welsh Government can vary its income-tax rates, but does not control the entire UK income-tax structure.
+* The six Welsh rates, including property income rates, are proposed at 10p for 2027–28, subject to Senedd approval. GOV.WALES +1
+* Capital borrowing of £168m is planned for 2027–28. GOV.WALES
+
+One useful refinement: the £432m category is specifically the two fully devolved taxes, Land Transaction Tax and Landfill Disposals Tax. Welsh Rates of Income Tax are partially devolved, not fully devolved.
+
+The overall argument—that Wales has substantial spending-allocation discretion but limited control over its overall revenue and borrowing—is a fair interpretation of these figures.
+
+6. Reserved powers and responsibility gaps
+
+Broadly verified
+
+The examples were substantially accurate, but some boundaries need to be stated carefully.
+
+Justice and policing
+
+* Policing and much of the criminal justice system remain reserved.
+* Health, housing, education and many social services are devolved.
+* This creates real interdependencies between Welsh services and UK-controlled justice institutions.
+* The Independent Commission specifically identified these issues in its justice work. GOV.WALES +1
+
+Rail
+
+* Most of the railway system in Wales remains reserved.
+* Welsh Ministers have responsibility for Wales and Borders passenger services through Transport for Wales.
+* The Core Valley Lines transferred to Welsh Government ownership in 2020.
+* Network Rail retains responsibility for most of the wider infrastructure. research.senedd.wales +2
+
+The previous summary was right to mention the Core Valley Lines as an exception. It would be misleading to suggest that Wales has no rail infrastructure authority whatsoever.
+
+Energy and the Crown Estate
+
+* The Crown Estate’s management is reserved.
+* Energy and electricity are subject to significant UK-level reservations.
+* Welsh institutions nevertheless have relevant responsibilities in planning, environmental policy and some renewable-energy consents. Legislation.gov.uk +2
+
+The conclusion that these arrangements can create responsibility-authority gaps is an analytical assessment, rather than a direct statement of law. That distinction should remain explicit.
+
+7. Intergovernmental relations
+
+One important correction
+
+The description of the machinery was mostly right.
+
+The 2022 Review established:
+
+* Portfolio-level Interministerial Groups.
+* The Interministerial Standing Committee.
+* The Finance Interministerial Standing Committee.
+* The Prime Minister and Heads of Devolved Governments Council.
+* A formal dispute-avoidance and resolution process. GOV.UK +1
+
+The previous summary also correctly stated that the arrangements are political commitments, not legally enforceable obligations. The Review expressly says they are not intended to create new legal obligations or be justiciable. GOV.UK
+
+However, there is a nuance about the Secretariat.
+
+The Welsh Government’s February 2026 Cabinet Handbook calls it an independent IGR Secretariat. The 2022 Review explains that it is staffed by officials from all governments, hosted and funded by the Cabinet Office, and accountable to the Council. Its impartiality is intended to come from serving all administrations equally. GOV.WALES +1
+
+So it is more accurate to call it a joint, impartial intergovernmental secretariat, rather than an independent external adjudicator.
+
+The previous summary’s other important points are verified:
+
+* A government can refer a disagreement as a potential formal dispute.
+* The Secretariat assesses whether the agreed criteria have been met.
+* Third-party advice and mediation can be used, but the appointment and scope require agreement between the governments.
+* The Council is the final escalation stage.
+* The process does not give the Council or mediator a binding adjudicative power.
+* The Welsh Government’s Cabinet Handbook says no dispute has yet completed the entire process. GOV.UK +1
+
+The conclusion that this machinery has not yet been fully tested by a completed formal dispute is therefore accurate.
+
+8. The 30 October meeting
+
+Needs more precise wording
+
+The official record confirms that:
+
+* Andy Burnham and Rhun ap Iorwerth met in Glasgow on 30 October.
+* The meeting followed the National Economic Council.
+* The Prime Minister and Heads of Devolved Governments Council also met that day.
+* The UK Government’s public account emphasised regional empowerment, reindustrialisation and growth. GOV.UK +1
+
+Burnham’s 20 November letter describes their 30 October discussions as productive and refers to an agreement to develop policy sprints.
+
+Correction: The previous summary called the meeting a separate bilateral without establishing from the public records reviewed whether it was formally constituted as a distinct bilateral meeting, separate from the Council and NEC discussions. The safer wording is that they met following the NEC, with a Council meeting also taking place that day.
+
+The precise sequence, attendees and minutes remain worth checking.
+
+9. Final corrections to the previous summary
+
+Here is the short list I would actually change in the archived version.
+
+Previous wording or implication	Correction
+Burnham rejected four transfers in essentially the same way.	The responses differed substantially: policing and justice included offers of enhanced Welsh involvement; Crown Estate was a clearer rejection; rail rejected full devolution while agreeing some governance changes.
+The National Commission is part of an independence process.	Its official remit is broader: constitutional advice, public conversation, evidence and devolution priorities.
+The IGR Secretariat is an independent external body.	It is a joint secretariat of officials from the governments, designed to act impartially.
+The 30 October meeting was definitely a separate bilateral.	The meeting is confirmed; its precise formal status relative to the NEC and Council needs qualification.
+The Senedd has permanence protection, so its status is secure.	It has statutory permanence, but the provision is not entrenched against repeal by a future Westminster Parliament.
+Wales has no rail infrastructure authority.	The Core Valley Lines are Welsh-owned; most other infrastructure remains UK-controlled.
+All justice powers are reserved in exactly the same way.	The settlement contains different reservations and exceptions, including for devolved offences.
+
+10. Sources to retain as the core reference set
+
+These are the strongest primary and institutional sources for the material we have examined.
+
+* Prime Minister’s five-page letter, 20 November 2026⁠￼ — the definitive source for the UK Government’s position.
+* First Minister’s letter, 1 October 2026⁠￼ — the Welsh Government’s original proposals.
+* First Minister’s written statement, 23 November 2026⁠￼ — the Welsh Government’s public response.
+* Review of Intergovernmental Relations, 2022⁠￼ — the formal intergovernmental framework.
+* Welsh Government Cabinet Handbook, section 7, February 2026⁠￼ — how the Welsh Government describes the machinery and its practical use.
+* Government of Wales Act 2006⁠￼ — core constitutional legislation.
+* House of Commons Library: The Barnett formula and fiscal devolution, January 2026⁠￼.
+* Independent Commission justice subgroup report⁠￼.
+* Senedd Research: Mind the gap — Wales, Westminster and the Railways Bill, March 2026⁠￼.
+* Official Senedd election results, May 2026⁠￼.
+
+My conclusion: The previous summary does not need to be discarded. Its broad constitutional analysis is supported by the sources. But the letter’s actual proposals and the different degrees of refusal need to be represented more faithfully. That matters because the dispute is not simply about whether the UK Government is willing to devolve powers. It is also about whether it considers enhanced Welsh participation within a reserved system an adequate substitute for transferring authority.
+
+That distinction should be preserved in any Polaris node, briefing or subsequent analysis.”  
+
+“The Participation–Authority Substitution
+
+A constitutional distinction emerging from the Burnham–ap Iorwerth correspondence
+
+The correction I would name is the Participation–Authority Substitution.
+
+It describes a situation in which a government responds to a request for the transfer of constitutional powers by offering the other government greater involvement in the institutions and processes that continue to exercise those powers.
+
+In plain terms:
+
+You are being offered a stronger voice in decisions, rather than the authority to make those decisions yourself.
+
+That is the distinction we need to preserve when examining the November correspondence.
+
+1. The two different propositions
+
+Consider two possible arrangements.
+
+Participation
+
+Welsh influence within UK-controlled institutions
+
+* Welsh representation on governing boards.
+* Consultation before decisions are made.
+* Greater involvement in setting priorities.
+* Shared oversight and reporting.
+* Negotiated influence over investment or delivery.
+
+Authority
+
+Welsh democratic control over devolved functions
+
+* Welsh Ministers hold the relevant executive powers.
+* The Senedd can legislate within the transferred competence.
+* Welsh institutions determine policy priorities.
+* Welsh Ministers answer to the Senedd for decisions.
+* Welsh voters can hold the responsible government accountable.
+
+These arrangements can coexist, but they are not interchangeable.
+
+A seat on a board does not necessarily confer control over that board. A consultation right does not necessarily confer a veto. An agreement to cooperate does not necessarily transfer legal responsibility.
+
+The precise rights matter.
+
+2. How it appears in the four areas
+
+The correspondence provides four different examples of the distinction.
+
+Policy area	UK Government’s approach	Constitutional question
+Policing	Greater Welsh involvement in governance, while retaining the reserved settlement	Does representation give Wales control over policing priorities and accountability?
+Justice	Expanded involvement in selected areas, including youth justice and probation discussions	Does participation address the division between Welsh social policy and UK justice institutions?
+Crown Estate	Retain UK management	Can Welsh interests influence decisions without controlling the institution or its assets?
+Rail	Retain the wider infrastructure settlement, while transferring some enhancement governance	Does governance of particular investments amount to control over the railway system?
+
+GOV.WALES +1
+
+The important point is that the UK Government is not proposing precisely the same alternative in every case.
+
+For example, transferring governance of Welsh rail enhancements is a more substantive change than simply inviting Welsh Ministers to attend a meeting. But it is not equivalent to transferring the whole infrastructure system.
+
+We should therefore examine each offer on its own terms rather than treating all additional participation as cosmetic.
+
+3. Why the substitution matters constitutionally
+
+There are four consequences.
+
+A. Accountability can remain divided
+
+Suppose Welsh Ministers are expected to improve a public service, but a UK-controlled institution retains the power to make a crucial decision affecting it.
+
+Welsh Ministers may be questioned by the Senedd about the outcome, but they cannot necessarily direct the institution responsible.
+
+The public can then encounter an accountability gap:
+
+* The Welsh Government says it does not control the relevant decision.
+* The UK Government says it has consulted Wales or provided Welsh representation.
+* Neither arrangement necessarily gives Welsh voters a clear way to change the decision through Welsh elections.
+
+This is particularly relevant to policing, justice and rail.
+
+B. Influence can be discretionary
+
+Participation arrangements may depend on:
+
+* Ministerial agreement.
+* Board membership.
+* Terms of reference.
+* Consultation protocols.
+* Political relationships.
+* The willingness of the UK Government to accept Welsh representations.
+
+Unless those arrangements confer enforceable rights, they may be altered without the same constitutional process required to amend statutory devolution.
+
+That makes participation potentially less secure than transferred authority.
+
+C. The UK Government retains the final decision
+
+The crucial question is not whether Wales has a voice. It is what happens when the two governments disagree.
+
+Can the Welsh Government:
+
+* Require a decision to be reconsidered?
+* Prevent a particular decision?
+* Set binding Welsh policy?
+* Control the relevant budget?
+* Legislate to change the arrangement?
+
+If the answer to all of these is no, participation may improve influence without changing the underlying distribution of power.
+
+D. It changes the nature of the negotiation
+
+A request for devolution is a request to change the constitutional allocation of responsibility.
+
+An offer of greater participation is a proposal to improve how the existing allocation operates.
+
+Those are different negotiations.
+
+The first asks: Who should hold this power?
+
+The second asks: How can Wales have more influence while the UK retains it?
+
+Both can be legitimate policy options. But one should not be presented as though it automatically satisfies the other.
+
+4. When is participation a meaningful alternative?
+
+It would be unfair to assume that every shared arrangement is inadequate.
+
+There are circumstances where participation may be preferable or more practical:
+
+* Cross-border services need common standards and coordination.
+* Specialist institutions benefit from economies of scale.
+* A transfer could create disproportionate administrative costs.
+* The Welsh Government may prefer shared delivery to building a separate institution.
+* A joint board could genuinely give Wales binding decision-making rights.
+
+But we need to test the arrangements rather than judge them by their titles.
+
+I would use six questions:
+
+Test	What we need to establish
+Representation	Does Wales have a seat and a meaningful voice?
+Decision rights	Can Welsh representatives influence or determine outcomes?
+Veto or consent	Can decisions affecting Wales proceed against Welsh objections?
+Resources	Does Wales control the funding associated with its responsibilities?
+Accountability	Who answers to the Senedd and who answers to Westminster?
+Security	Can the UK Government change the arrangement unilaterally?
+
+A joint institution with binding Welsh decision rights might be a meaningful form of shared authority. A consultative seat without decision rights is a much narrower offer.
+
+5. The deeper issue: participation can conceal constitutional asymmetry
+
+This is where the correction connects to our earlier discussion about intergovernmental relations.
+
+The UK Government can argue that Wales is being treated as a partner because Welsh Ministers are consulted, represented and involved in governance.
+
+But partnership in procedure does not necessarily mean partnership in constitutional authority.
+
+There are two different meanings of partnership:
+
+* Administrative partnership: governments cooperate to deliver services while one retains ultimate authority.
+* Constitutional partnership: governments have protected areas of authority and agreed procedures for resolving disagreements.
+
+The existing UK settlement relies heavily on the first, while the Welsh Government is seeking a stronger role for the second.
+
+This is not an argument that every policy must be devolved. It is an argument that the distinction between influence and authority must be made explicit.
+
+6. A useful addition: the participation ladder
+
+We could use a simple ladder to classify what the UK Government is actually offering.
+
+From consultation to constitutional control
+
+* Information
+    Wales is told what has been decided.
+* Consultation
+    Wales can express a view before a decision.
+* Representation
+    Welsh representatives participate in a governing forum.
+* Influence
+    Welsh representatives can shape priorities and proposals.
+* Shared decision-making
+    Welsh agreement is required for specified decisions.
+* Devolved authority
+    Welsh institutions exercise their own statutory powers and answer democratically for them.
+
+This is an analytical framework, not a formal legal classification. Actual arrangements may combine levels or provide different rights for different decisions.
+
+The ladder helps prevent a common mistake: describing a move from consultation to representation as though it were equivalent to a transfer of power.
+
+7. What should we ask of Burnham and ap Iorwerth?
+
+The question should be put to both governments.
+
+To the UK Government:
+
+If enhanced Welsh participation is considered sufficient, what specific decision-making rights, budgetary powers, consent requirements and protections will accompany it?
+
+To the Welsh Government:
+
+Which functions genuinely require full devolution, which could be exercised through binding shared governance, and which benefits of UK-wide institutions would Wales want to preserve?
+
+That prevents the debate from becoming a simplistic choice between total centralisation and complete institutional separation.
+
+8. The Polaris concept
+
+I would preserve this as a distinct analytical concept:
+
+⚖️ The Participation–Authority Substitution
+
+When increased representation, consultation or involvement is offered as an answer to a demand for transferred constitutional authority.
+
+Core proposition
+
+Participation can increase influence without transferring control. The two should never be treated as equivalent without examining the underlying decision rights.
+
+Diagnostic question
+
+When a government offers another government a stronger voice, what power does the receiving government actually gain?
+
+Related concepts
+
+* Democratic accountability
+* Reserved powers
+* Delegation versus devolution
+* Intergovernmental relations
+* Shared governance
+* Constitutional asymmetry
+* Institutional capture and unilateral discretion
+
+I would keep this concept analytically neutral. Participation is not inherently inadequate, and devolution is not automatically the right answer in every case. The issue is whether the proposed arrangement matches the responsibility, accountability and authority being claimed.
+
+The sentence I would retain is:
+
+A stronger voice in the exercise of another government’s powers is not the same thing as acquiring the authority to exercise those powers yourself.
+
+That is the correction to the earlier summary, and it gives us a useful tool for examining not only the Burnham correspondence but the wider architecture of Welsh devolution.”.  
+
