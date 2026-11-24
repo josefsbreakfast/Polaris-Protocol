@@ -4516,4 +4516,1960 @@ I suggest we resume at investigation 1: Schedule 7A and Schedule 7B, examining t
 
 The aim is not to assume that every power should move to Cardiff, or that every UK-wide institution should disappear. It is to establish, carefully and transparently, where authority lies, why it lies there, and what choices Wales actually has.”  
 
-“
+“Schedule 7A: what is reserved to Westminster?
+
+Schedule 7A of the Government of Wales Act 2006 sets out the matters over which the Senedd does not generally have legislative competence. It was inserted by the Wales Act 2017, which changed Wales from the earlier conferred-powers model to a reserved-powers model.
+
+The basic rule is important:
+
+* The Senedd can legislate on matters that are not reserved, provided it satisfies the other legal limits on its competence.
+* It cannot generally legislate in relation to a matter reserved in Schedule 7A.
+* Schedule 7B adds further restrictions, including restrictions on modifying the functions of certain UK public authorities.
+
+So Schedule 7A is not simply a list of subjects that Westminster administers. It is a list of matters that remain constitutionally protected from ordinary Senedd legislation.
+
+I’ll set out the actual structure and the significant reservations, rather than just give a few examples. There are detailed exceptions within some entries, so the wording of the legislation matters.
+
+1. How the Schedule is organised
+
+Schedule 7A has two main parts:
+
+* Part 1 — General reservations: broad constitutional and governmental matters.
+* Part 2 — Specific reservations: detailed subject-by-subject provisions, arranged under subject headings.
+
+The official revised text is current to 22 November 2026. The Wales Act 2017 brought the new system into force on 1 April 2018. Legislation.gov.uk +1
+
+Part 1: General reservations
+
+These are the seven general reservations.
+
+Paragraph	Reserved subject	What it covers
+1–4	Constitution	The Crown, succession, the Union of Wales and England, Westminster Parliament, and specified Crown matters
+5	Civil Service	The UK Civil Service, including its management, recruitment, discipline and employment conditions
+6–7	Political parties	Registration, funding and accounting of political parties, subject to an exception for support for Senedd members’ duties
+8	Single legal jurisdiction of England and Wales	Courts, judges, civil and criminal proceedings, sentencing, prosecutors, pardons, private international law and judicial review
+9	Tribunals	Tribunal membership, appointments, functions, procedures and appeals, subject to exceptions for qualifying devolved Welsh tribunals
+10	Foreign affairs	International relations, relations with foreign states and international organisations, international trade regulation and international development cooperation
+11	Defence	Defence of the realm, armed forces, visiting forces, international defence organisations and trading with the enemy
+
+There are significant exceptions. For example, the Senedd can legislate about responsibility for prosecuting offences it has competence to create, and can establish and regulate qualifying devolved tribunals. Legislation.gov.uk +1
+
+2. Part 2: Specific reservations
+
+This is the much larger part. It contains the detailed reservations, including the exceptions and interpretations which determine their actual boundaries.
+
+The following is the complete list of subject headings, with the principal matters reserved under each.
+
+The paragraph numbers below refer to the current Schedule 7A. The descriptions summarise the statutory entries rather than reproduce every individual provision verbatim.
+
+Head A — Financial and Economic Matters
+
+Fiscal, economic and monetary policy, including:
+
+* UK taxation and excise duties.
+* Government borrowing and lending.
+* Control of UK public expenditure.
+* The Bank of England.
+* Currency, coinage and legal tender.
+* Financial services and financial regulation.
+
+Important exceptions: devolved taxes, including their collection and management, and local taxes such as council tax and non-domestic rates.
+
+This is why Wales can vary its devolved income-tax rates and operate Land Transaction Tax, but cannot establish its own currency or independently control the UK monetary system. 58612_Ch4-EN v0.2.docx +1
+
+Head B — Home Affairs
+
+This is a particularly important reservation for our investigation.
+
+It includes:
+
+* Elections: Westminster and European elections, and specified aspects of Senedd and Welsh local elections.
+* Nationality and immigration: citizenship, immigration, asylum and travel documents.
+* National security: security policy, terrorism and official secrets.
+* Surveillance: interception of communications, communications data, covert surveillance and surveillance systems.
+* Crime, public order and policing: crime prevention, detection and investigation, public order, policing and police and crime commissioners.
+* Anti-social behaviour.
+* Modern slavery.
+* Prostitution.
+* Emergency powers.
+* Extradition.
+* Rehabilitation of offenders.
+* Criminal records and disclosure and barring.
+* Dangerous items, including firearms, poisons and knives.
+* Misuse of and dealing in drugs and psychoactive substances.
+
+There are exceptions. For example, the Senedd can legislate on certain entry, search and seizure powers relating to offences which it has competence to create.
+
+The policing reservation is particularly direct: paragraphs 39–42 expressly reserve crime prevention and investigation, public order, policing and police and crime commissioners. Legislation.gov.uk +1
+
+Head C — Trade and Industry
+
+This covers a broad range of economic regulation:
+
+* Business associations and business names.
+* Insolvency.
+* Competition and restrictive trade practices.
+* Intellectual property.
+* Import and export control.
+* Sea fishing outside the relevant devolved arrangements.
+* Consumer protection.
+* Product standards, safety and liability.
+* Weights and measures.
+* Telecommunications and wireless telegraphy.
+* Internet services and electronic encryption.
+* Postal services and post offices.
+* UK Research and Innovation and Research Councils.
+* Certain industrial development functions.
+* Protection of trading and economic interests.
+* Regulation of distortive or harmful subsidies.
+
+This is not a general reservation of all economic development. Welsh Government retains substantial powers over economic development, but important parts of the regulatory framework for businesses and markets remain reserved. Legislation.gov.uk +2
+
+Head D — Energy
+
+The reserved areas include:
+
+* Electricity generation, transmission, distribution and supply.
+* Oil and gas, including offshore installations and pipelines.
+* Coal and coal mining.
+* Nuclear energy, nuclear installations and nuclear safety.
+* The Office for Nuclear Regulation.
+* Production, distribution and supply of heat and cooling.
+* Energy conservation where implemented through prohibition or regulation.
+
+There are important exceptions.
+
+For example:
+
+* Welsh Ministers have powers over licensing onshore petroleum extraction within the Welsh onshore area.
+* Land restoration following coal mining is excepted.
+* Certain heat networks and non-regulatory energy-efficiency encouragement are devolved.
+
+This is why Welsh Government can have significant planning, environmental and renewable-energy responsibilities without controlling the electricity system as a whole. Legislation.gov.uk +1
+
+Head E — Transport
+
+The reserved transport matters include:
+
+Roads and vehicles
+
+* Road freight services and goods vehicle operator licensing.
+* Vehicle and trailer construction and equipment standards.
+* Road traffic offences.
+* Driver licensing and driving instruction.
+* Drivers’ hours.
+* Certain traffic regulations and speed-limit exemptions.
+* International road transport.
+* Public service vehicle operator licensing.
+* Vehicle insurance and registration.
+
+Rail
+
+* Railway services.
+* The Channel Tunnel Act 1987.
+
+Other transport
+
+* Marine and air transport matters.
+* Technical specifications for fuels and energy sources used in transport.
+* Carriage of dangerous goods.
+
+There are substantial exceptions, including devolved aspects of traffic management, speed limits, traffic signs, pedestrian crossings, taxi licensing and certain financial assistance for railway services.
+
+The distinction we previously identified is important: railway services are reserved, but this does not mean every aspect of rail investment, infrastructure, local transport planning or public funding is reserved. Legislation.gov.uk +1
+
+Head F — Social Security, Child Support, Pensions and Compensation
+
+This includes:
+
+* Social security schemes supported by public funds.
+* State pensions and benefits.
+* Child support maintenance.
+* Collection and enforcement of specified maintenance payments.
+* Occupational and personal pensions.
+* Civil Service pensions.
+* Compensation schemes for public sector workers.
+* Armed forces compensation and related schemes.
+
+There are specific exceptions for certain Welsh public officeholders and local authority members’ pension arrangements.
+
+This reservation is important because Wales has extensive devolved responsibilities for poverty reduction, education, housing and social services, but does not control the main social security system. 58612_Ch4-EN v0.2.docx +1
+
+Head G — Professions
+
+The regulation of specified professions is reserved:
+
+* Architects.
+* Auditors.
+* Health professionals.
+* Veterinary surgeons.
+
+There are exceptions for the regulation of social work and social care professions.
+
+The distinction is between regulating a profession and delivering a devolved service. For instance, Welsh Government controls much of health-service organisation, but the regulation of doctors, nurses and many other health professionals is reserved. 58612_Ch4-EN v0.2.docx +1
+
+Head H — Employment
+
+This covers:
+
+* Employment rights and duties.
+* Industrial relations.
+* Trade unions and industrial action.
+* Minimum wage.
+* Working time and paid leave.
+* Employment agencies.
+* Employment tribunals.
+* Transfer of undertakings.
+* Industrial training boards.
+* Job-search and employment-support arrangements.
+
+There are exceptions, notably the subject matter of the Agricultural Sector (Wales) Act 2014.
+
+This is a significant reservation because employment is a major part of economic and social policy, but Wales has only limited legislative control over the underlying employment-law framework. Legislation.gov.uk +1
+
+Head J — Health, Safety and Medicines
+
+The reserved matters include:
+
+* Abortion.
+* Xenotransplantation.
+* Embryology, surrogacy and genetics.
+* Medicines and medical products.
+* Medical supplies and poisons.
+* Certain health and safety matters.
+* Certain public-health and radiation-protection matters.
+* Welfare foods.
+
+The details and exceptions matter here. It would be wrong to conclude that health is generally reserved: the organisation and delivery of health services are largely devolved, while particular regulatory and ethically sensitive matters remain reserved. 58612_Ch4-EN v0.2.docx +1
+
+Head K — Media, Culture and Sport
+
+This includes:
+
+* Broadcasting and media regulation.
+* The BBC and Ofcom.
+* Public lending rights.
+* The Government Indemnity Scheme.
+* Property accepted in satisfaction of tax.
+* Specified sporting regulation and safety arrangements.
+
+Broadcasting is particularly significant. Welsh Government can support Welsh-language culture and cultural institutions, but it does not control the overall broadcasting regulatory framework. 58612_Ch4-EN v0.2.docx +1
+
+Head L — Justice
+
+This is separate from the general reservation of the single legal jurisdiction.
+
+It includes:
+
+* Legal professions and legal services.
+* Legal aid.
+* Judicial remuneration.
+* Courts administration and related matters.
+* Prisons and detention institutions.
+* Management of offenders.
+* Probation.
+* Prisoner escort and transfer functions.
+* Certain youth justice functions.
+* Criminal injuries compensation.
+* Miscarriages of justice compensation.
+* Public records and public-sector information.
+
+The reservation of prisons and offender management expressly includes probation and specified youth justice matters.
+
+This is central to our earlier discussion: Welsh Government controls many of the social services and preventative policies that affect offending and rehabilitation, while major parts of the justice system remain reserved. Legislation.gov.uk +1
+
+Head M — Land and Agricultural Assets
+
+This covers:
+
+* Land registration and registration of interests in land.
+* Land Registry functions.
+* Certain land charges and registration systems.
+* Specified Crown and agricultural assets.
+
+This is not a reservation of land-use planning generally. Planning is largely devolved. It concerns particular registration systems and assets, with the detailed statutory boundaries determining what is retained at UK level. 58612_Ch4-EN v0.2.docx
+
+Head N — Miscellaneous
+
+The remaining specific reservations include:
+
+* Equal opportunities, subject to significant Welsh exceptions.
+* Control of weapons of mass destruction and specified weapons matters.
+* Ordnance Survey.
+* Time, time zones and the calendar.
+* Certain registration and civil-status matters.
+* Specified building standards for Crown and other particular buildings.
+
+The equality reservation is not a blanket prohibition on Welsh equality policy. The Senedd can encourage equal opportunities and impose certain duties on devolved Welsh authorities, but cannot generally legislate to replace the UK-wide equality-law framework. Legislation.gov.uk +1
+
+There is no Head I. The Schedule proceeds from H to J. The statutory headings are not a continuous alphabet.
+
+3. What the full list tells us
+
+The list is extensive: it is not simply a collection of traditional sovereign functions such as defence, foreign affairs and currency.
+
+It also reserves numerous matters that affect everyday domestic government.
+
+I would group the reservations into four broad constitutional types:
+
+1. Core state sovereignty
+
+Crown, Union, Westminster Parliament, defence, foreign affairs, nationality, immigration, national security and currency.
+
+2. UK-wide institutional systems
+
+Courts, legal jurisdiction, tribunals, Civil Service, social security, pensions, broadcasting, policing and major regulators.
+
+3. Economic and regulatory frameworks
+
+Employment law, financial services, competition, insolvency, telecommunications, electricity, rail services, medicines and professional regulation.
+
+4. Particular assets, functions and administrative systems
+
+Crown Estate management, Ordnance Survey, land registration, specified research bodies, public records and particular compensation schemes.
+
+This classification is my analytical grouping, not a classification used in the Act.
+
+4. Three corrections to common descriptions of the settlement
+
+There are three points I particularly want to emphasise.
+
+First: a reserved subject is not necessarily a subject with no Welsh involvement.
+
+Welsh Ministers may have executive functions, consultation rights, administrative responsibilities or shared functions in an area where the Senedd does not have general legislative competence.
+
+For example, Wales has some executive and administrative responsibilities relating to justice, despite justice being substantially reserved.
+
+Second: an exception is legally significant.
+
+The Schedule frequently reserves a broad subject and then gives Wales particular powers within it. The exceptions are not informal concessions; they are part of the statutory boundary.
+
+The Wales Act 2017 explanatory notes explain that the total reservation is determined by reading the reservation together with its exceptions and any carve-outs. 58612_Ch4-EN v0.2.docx
+
+Third: Schedule 7A is not the whole story.
+
+Even if a Senedd Bill does not relate to a reserved matter, it can still be outside competence because of Schedule 7B, territorial restrictions or human-rights compatibility requirements.
+
+Schedule 7B also limits the Senedd’s ability to alter the functions of certain reserved authorities. 58612_Ch4-EN v0.2.docx +1
+
+5. What I think we should examine next
+
+There is a particularly revealing distinction in this Schedule.
+
+Some reservations are about matters that are conventionally handled at national level: defence, foreign affairs, currency and immigration.
+
+Others preserve the structure of particular UK-wide institutions: policing, prisons, employment regulation, rail services, professional regulation and broadcasting.
+
+And some reserve individual functions or bodies rather than entire policy areas.
+
+Those are three different constitutional rationales, and they should not be treated as if they were interchangeable.
+
+For our next step, I suggest we examine Head B — Home Affairs and Head L — Justice in detail, paragraph by paragraph. Together they will show exactly how policing, criminal law, courts, prisons, probation and youth justice are divided between Cardiff and Westminster. That will give us a concrete example of the responsibility–authority gap we have been trying to understand.
+
+Primary legal sources
+
+* Government of Wales Act 2006 — Schedule 7A, current revised text⁠￼.
+* Wales Act 2017 — Explanatory Notes, including the explanation of reservations and exceptions⁠￼.
+* Senedd — Powers and the reserved-powers model⁠￼.”.  
+
+“The Senedd can represent Welsh democratic will on matters reserved by Schedule 7A, but it cannot generally turn that democratic mandate into Welsh law or direct the UK institutions responsible for those matters.
+
+That is a central tension in the devolution settlement.
+
+The answer is not that the Senedd has no role. It has several ways to express, scrutinise and advocate Welsh preferences. But those mechanisms vary considerably in strength, and most do not give it final decision-making authority.
+
+The distinction I would make is between:
+
+* Representation — expressing what Welsh voters and their elected representatives want.
+* Influence — attempting to change UK Government decisions.
+* Consent — having a formal right to agree or refuse.
+* Authority — possessing the legal power to make the decision itself.
+
+Schedule 7A limits the fourth, but it does not eliminate the first three.
+
+1. The mechanisms available to the Senedd
+
+There are six principal routes.
+
+Mechanism	What the Senedd can do	Its limitation
+Plenary debates and motions	Formally express the elected legislature’s position	Usually does not bind Westminster
+Committee inquiries	Investigate reserved matters affecting Wales and publish findings	Cannot take over the UK department’s responsibilities
+Questions and scrutiny	Question Welsh Ministers about their dealings with UK Government	Cannot exercise direct ministerial control over UK Ministers
+Intergovernmental relations	Press for negotiations, consultation and agreement	Most arrangements rely on cooperation
+Political advocacy	Make representations to UK Ministers and Parliament	UK Government can disagree
+Constitutional reform proposals	Request transfers of powers or changes to Schedule 7A	The UK Parliament must agree to the necessary legislation
+
+The Senedd’s own explanation confirms that its committees can investigate issues affecting Wales, while its plenary proceedings allow Members to debate and vote on them. senedd.wales +1
+
+This means the Senedd can legitimately debate defence, immigration, policing, broadcasting or social security, even though it cannot generally legislate on those subjects.
+
+It can say, for example:
+
+* Welsh voters want a different approach to policing.
+* Wales needs a different relationship with the Crown Estate.
+* The UK Government’s immigration policy has particular consequences for Welsh communities.
+* Defence installations should be subject to stronger consultation with Welsh institutions.
+
+But expressing that position does not itself change the law or compel the UK Government to act.
+
+2. The important distinction: who represents Wales at Westminster?
+
+There are actually two democratic representation systems operating simultaneously.
+
+Welsh democratic representation
+
+Senedd Members (MSs)
+
+Elected by people in Wales to represent them in the Welsh legislature.
+
+They scrutinise Welsh Government, legislate within devolved competence and represent Welsh interests in constitutional discussions.
+
+UK democratic representation
+
+Members of Parliament (MPs)
+
+Elected by constituencies in Wales to represent their constituents in the UK Parliament.
+
+They participate in legislation and scrutiny on reserved matters, including defence, immigration, policing and social security.
+
+The important point is that Welsh MPs do not collectively constitute a Welsh national delegation with a formal obligation to follow the Senedd’s position.
+
+They are individual UK parliamentarians, subject to their parliamentary responsibilities, party affiliations and constituency mandates.
+
+Consequently, the Senedd might pass a motion expressing a particular Welsh position on policing, while Welsh MPs at Westminster might divide over the issue.
+
+There is no constitutional rule requiring Westminster to treat a Senedd resolution as the authoritative expression of Welsh democratic consent.
+
+The two systems provide representation, but they do not have equal authority over reserved matters.
+
+3. Does the Senedd have any formal consent rights?
+
+This is where we need to be particularly precise.
+
+The Sewel Convention provides that Westminster will not normally legislate on devolved matters without the consent of the relevant devolved legislature.
+
+But it does not give the Senedd a general consent right over legislation concerning reserved matters.
+
+There is an important qualification: a UK Bill dealing principally with a reserved subject may also contain provisions affecting devolved responsibilities or the Senedd’s competence. Those provisions may engage the legislative consent process.
+
+For example, a UK policing Bill might contain provisions concerning devolved Welsh services or alter the functions of Welsh Ministers. The fact that the Bill concerns policing does not automatically mean every provision is outside the consent process.
+
+However, even where legislative consent is required, refusal does not legally prevent Westminster from passing the legislation. The UK Parliament retains legal sovereignty. House of Commons Library +1
+
+So we should distinguish:
+
+* Reserved subject: no general Senedd legislative authority.
+* Devolved subject: Senedd has legislative authority.
+* Legislative consent: a conventionally recognised opportunity to express consent where UK legislation affects devolved matters.
+* Political consultation: an opportunity to influence decisions without necessarily possessing a formal veto.
+
+4. Applying this to the matters we have been discussing
+
+Here are some concrete examples.
+
+Reserved matter	What the Senedd can represent	What it cannot generally do
+Policing	Welsh priorities for public safety, policing outcomes and community confidence	Direct police forces or legislate for policing structures
+Justice	Welsh concerns about courts, prisons, probation and rehabilitation	Control the reserved courts and prison system
+Crown Estate	Welsh views on ownership, management, revenue and natural resources	Direct Crown Estate management
+Defence	Welsh concerns about military installations, employment and environmental effects	Direct MOD operations or determine UK defence policy
+Rail services	Welsh transport priorities and the effects of reserved railway arrangements	Take over reserved railway functions simply by passing a Senedd Act
+Immigration	Represent the interests of migrants and Welsh communities affected by immigration policy	Set immigration rules or determine visa policy
+Social security	Express Welsh priorities concerning poverty and benefit adequacy	Redesign the main UK social security system
+
+The Senedd can also legislate on adjacent devolved matters where doing so does not cross the reserved boundary. For instance, it can make laws about devolved housing and social services even where those services interact with reserved immigration or justice functions. senedd.wales +1
+
+5. The deeper democratic problem
+
+I think this reveals something important about the constitutional arrangement.
+
+Imagine a Senedd election in which Welsh voters give a party a clear mandate to pursue a particular change to policing.
+
+The elected Welsh Government could:
+
+* Publish its proposals.
+* Introduce a motion in the Senedd.
+* Obtain a vote supporting the proposed change.
+* Commission research and committee scrutiny.
+* Formally request negotiations with the UK Government.
+* Ask Welsh MPs to support the proposal at Westminster.
+
+But the UK Government could still refuse.
+
+That refusal would not necessarily be unlawful. The UK Government would be exercising authority within the constitutional settlement.
+
+The Welsh Government could then argue that the refusal disregarded a Welsh democratic mandate. The UK Government could respond that the matter is reserved and that it has its own UK-wide democratic mandate.
+
+Both governments would be invoking democratic legitimacy, but only one would possess the relevant legal authority.
+
+The democratic accountability gap
+
+Welsh voters
+
+Elect a Welsh legislature with a mandate to represent their interests.
+
+Senedd expresses Welsh democratic preference
+
+UK Government retains the relevant reserved power
+
+Decision may be made without Welsh institutional consent
+
+The Senedd can challenge, criticise and seek to change the decision, but cannot generally compel a different outcome.
+
+That is a structural feature of the current settlement, rather than necessarily a failure by any particular government.
+
+6. What could be changed without making Wales independent?
+
+There are several possible constitutional reforms.
+
+Reform	Potential effect
+Stronger statutory consultation	UK Ministers would have to consult the Senedd before specified reserved decisions affecting Wales
+Mandatory reasoned responses	UK Government would have to explain formally why it rejected a Senedd position
+Welsh consent requirements for specified decisions	Certain UK decisions affecting Wales could require Welsh agreement
+Shared decision-making institutions	Welsh and UK representatives could exercise specified functions jointly
+Transfer of executive functions	Welsh Ministers could acquire authority to administer particular reserved functions
+Transfer of legislative competence	The Senedd could acquire the power to legislate in specified areas
+
+These are not equivalent reforms. Consultation gives a voice; consent provides a stronger procedural protection; shared decision-making creates joint authority; transferring competence gives Wales its own legislative power.
+
+Some could be achieved through changes to executive arrangements or intergovernmental agreements. Others would require changes to primary legislation and the devolution settlement.
+
+7. The question I think we have now uncovered
+
+There is a distinction between two propositions:
+
+Proposition A: Wales has democratic representation in relation to reserved matters because Welsh voters elect MPs to Westminster, and those MPs participate in decisions on those matters.
+
+Proposition B: Wales has a distinct national democratic mandate, expressed through the Senedd, which ought to carry formal weight when Westminster makes decisions specifically affecting Wales.
+
+The first is already part of the constitutional arrangement.
+
+The second is a much larger constitutional proposition, and it is not fully recognised in the present settlement.
+
+This is where our earlier Participation–Authority Substitution concept becomes particularly relevant. The Senedd can be consulted, represented on committees, invited into discussions and given opportunities to influence policy. But unless it has defined decision rights, those arrangements do not necessarily give it constitutional authority.
+
+My suggested next question is: should the Senedd have a formal Welsh consent mechanism for reserved decisions that have a substantial and specific impact on Wales, even if the underlying subject remains reserved to Westminster?
+
+That would let us explore a middle ground between the present arrangements and full devolution of every affected policy area.”.  
+
+“The question exposes a possible gap in the Welsh settlement: Westminster can retain responsibility for a policy while making decisions that have particularly significant consequences for Wales, without the Senedd having a formal right to agree or refuse those decisions.
+
+There are arguments for changing that, and important questions about how far such a change should go. I would separate the principle, the scope and the legal mechanism.
+
+1. The case for a Welsh consent mechanism
+
+There are four main arguments.
+
+A. Democratic representation
+
+Welsh voters elect the Senedd to represent Welsh interests. Where a decision has a substantial and specific impact on Wales, there is a case for requiring the Welsh legislature to have a formal role before it is made.
+
+Otherwise, the Senedd can be democratically accountable for the consequences of a decision without having a corresponding right to influence or approve it.
+
+B. Territorial accountability
+
+A UK-wide policy may have very different effects in different parts of the country.
+
+For example:
+
+* A decision about a military installation may have concentrated consequences for a Welsh community.
+* A change to policing arrangements may affect Welsh public safety and devolved services.
+* A decision about Crown Estate assets may have substantial consequences for Welsh coastal communities and public revenue.
+* A decision about rail infrastructure may affect Welsh economic development and connectivity.
+
+The fact that a subject is reserved does not mean its effects are evenly distributed across the UK.
+
+C. Better scrutiny
+
+A formal consent procedure would require the UK Government to explain its proposals and the Senedd to examine their consequences.
+
+It could bring local evidence, Welsh policy priorities and cross-government implications into the decision before it becomes difficult to change.
+
+D. More reliable intergovernmental relations
+
+At present, much depends on consultation, negotiation and political goodwill. A formal mechanism could establish minimum procedural rights which do not depend entirely on the relationship between the governments of the day.
+
+These arguments are consistent with concerns raised by the Senedd’s Legislation, Justice and Constitution Committee about the need for clearer engagement and a more robust constitutional process. Select Committee on the Constitution +1
+
+2. The case against an unrestricted veto
+
+There are also substantial objections.
+
+A. Reserved powers would become conditional powers
+
+If Westminster retained responsibility for defence but needed Senedd permission for every significant defence decision affecting Wales, it would no longer have exclusive decision-making authority in the ordinary sense.
+
+It would be a form of shared or concurrent authority.
+
+That may be a legitimate constitutional arrangement, but it would need to be acknowledged as such.
+
+B. UK-wide decisions can have unavoidable territorial effects
+
+Defence, immigration, national security, macroeconomic policy and international obligations can all have substantial consequences in Wales.
+
+A Welsh veto could potentially prevent a decision which the UK Government considers necessary for the security or operation of the UK as a whole.
+
+C. Defining the threshold could become contentious
+
+What counts as a substantial and specific impact?
+
+A UK-wide immigration policy affects Wales, but so does an individual immigration decision affecting a Welsh employer or family. Those should not necessarily trigger the same constitutional procedure.
+
+D. There could be conflicting democratic mandates
+
+The Senedd represents Welsh voters. Westminster represents the UK electorate, including voters in Wales.
+
+A disagreement between the two institutions would raise a difficult question: when should the territorial democratic mandate prevail, and when should the UK-wide mandate prevail?
+
+The House of Lords Constitution Committee explored these tensions in its recent examination of legislative consent. Witnesses differed over whether stronger legal consent rules would protect devolution or substantially restrict Westminster’s ability to legislate for the whole UK. Select Committee on the Constitution
+
+3. The crucial distinction: not every consent mechanism needs to be a veto
+
+I would distinguish four possible models.
+
+Model 1
+
+Mandatory consultation
+
+Westminster must consult the Senedd before making a qualifying decision.
+
+The UK Government retains the final decision, but must demonstrate that Welsh views were considered.
+
+Model 2
+
+Formal Senedd approval or objection
+
+The Senedd votes on the proposal. An objection triggers a requirement for the UK Government to reconsider and publish a formal response.
+
+The UK Government can ultimately proceed, but must account publicly for doing so.
+
+Model 3
+
+Conditional consent
+
+The decision cannot normally be implemented in Wales without Senedd consent.
+
+Westminster retains responsibility for the reserved subject, but Welsh agreement is required for specified territorial decisions.
+
+Model 4
+
+Joint decision-making
+
+Certain decisions require agreement between UK and Welsh Ministers, or a joint institution.
+
+Neither government has unilateral authority over the specified decision.
+
+These models represent increasingly substantial changes to the constitutional settlement. The fourth would amount to a genuine redistribution of decision-making authority.
+
+4. What would qualify as a substantial and specific Welsh impact?
+
+This is probably the most important design question.
+
+I would propose that a decision qualify when it meets one or more of the following tests:
+
+Test	Meaning
+Territorial concentration	Its consequences fall disproportionately on Wales or a Welsh region
+Institutional impact	It materially affects the functions of Welsh public institutions
+Financial impact	It imposes substantial costs or removes significant revenue from Welsh public services
+Land and resources	It affects significant Welsh land, natural resources or public assets
+Long-term consequences	It creates a lasting commitment or materially changes future Welsh options
+Public-service interaction	It significantly affects the delivery of devolved services
+
+There should also be a materiality threshold. Routine administrative decisions should not require a constitutional consent procedure.
+
+I would distinguish three levels:
+
+* Ordinary impact: information and consultation.
+* Substantial Welsh impact: formal Senedd scrutiny and a reasoned UK Government response.
+* Exceptional or irreversible Welsh impact: a presumption that Welsh consent is required, subject to narrowly defined exceptions.
+
+This would be more proportionate than giving the Senedd a general veto over every reserved decision.
+
+5. Applying the idea to our four main case studies
+
+This is where the proposal becomes concrete.
+
+Area	Possible Welsh consent trigger	What remains UK-wide
+Policing	Major structural changes to policing in Wales or the territorial allocation of policing resources	National security, UK-wide criminal law and cross-border coordination
+Justice	Major changes to Welsh prison provision, court infrastructure or arrangements with direct effects on devolved services	The overall legal jurisdiction and UK justice framework
+Crown Estate	Major decisions about Welsh Crown Estate assets, disposal, management or long-term exploitation	Wider UK Crown Estate governance and UK constitutional arrangements
+Rail	Major Welsh infrastructure closures, strategic investment decisions or changes to Welsh network provision	UK-wide railway standards, cross-border network coordination and reserved rail regulation
+Defence	Establishment, closure or major change of military facilities with substantial Welsh territorial consequences	Operational command, national defence strategy and military deployment
+
+The MOD example illustrates the distinction particularly well.
+
+A decision to deploy British forces abroad is a UK defence decision. It would be difficult to justify a Welsh veto.
+
+But a decision to establish a major permanent military installation in Wales, with substantial land, environmental and community consequences, raises a different question.
+
+A consent mechanism could be designed to distinguish between those two things without transferring general defence authority to Cardiff.
+
+6. Is there already a precedent for strengthening consent?
+
+Yes, although the existing arrangements do not go as far as the proposal we are discussing.
+
+The Sewel Convention, recognised in section 107(6) of the Government of Wales Act 2006, provides that Westminster will not normally legislate on devolved matters without Senedd consent.
+
+But it does not generally cover legislation on reserved matters simply because they have substantial effects in Wales. Nor is it legally enforceable. House of Commons Library +1
+
+There is also a Welsh Statutory Instrument Consent Mechanism. This gives the Senedd an opportunity to consider certain UK secondary legislation which amends primary legislation within its competence. However, the House of Lords Constitution Committee recorded that this mechanism has no legal effect on the UK Government. Select Committee on the Constitution
+
+The House of Lords’ 2025–26 Constitution Committee inquiry into the governance of the Union is especially relevant. It considered stronger legislative consent procedures, early consultation, formal explanations when the Senedd’s wishes are not followed, and the difficulties of making consent legally binding while Westminster remains sovereign. Select Committee on the Constitution
+
+That provides a substantial existing body of constitutional evidence to work from.
+
+7. A possible Welsh territorial consent framework
+
+One way to structure this would be a new statutory framework, perhaps called a Welsh Territorial Impact and Consent Procedure.
+
+It could work as follows:
+
+Proposed decision process
+
+* UK Government identifies a qualifying decision
+    It publishes an assessment of the likely effects on Wales.
+* Senedd receives formal notification
+    The relevant committee examines the proposal and may take evidence from affected communities and institutions.
+* Senedd votes
+    It can approve, reject or approve subject to conditions.
+* Governments negotiate
+    If the Senedd objects, a defined period of ministerial negotiation and, where appropriate, mediation follows.
+* Final decision and accountability
+    The UK Government must either secure agreement or publish a reasoned statement explaining why it is proceeding without it.
+
+For a limited category of particularly significant decisions, the framework could require consent rather than merely a reasoned response.
+
+There would need to be carefully defined exceptions for emergencies, national security and urgent international obligations, with retrospective reporting and scrutiny.
+
+There would also need to be a clear mechanism for resolving disagreements about whether the threshold has been met. Otherwise, the UK Government could simply classify a decision as outside the process.
+
+8. The constitutional issue underneath all this
+
+There are two different ways of understanding the UK.
+
+The first is a parliamentary-sovereignty model: Westminster is the ultimate legislature, and the devolved institutions exercise powers that Parliament has granted.
+
+The second is a shared-sovereignty or quasi-federal model: the nations have their own democratic authority, and certain decisions affecting them require agreement between governments or legislatures.
+
+The present Welsh settlement is much closer to the first model, although it contains some features of shared governance.
+
+A territorial consent mechanism would move it towards the second model without necessarily making Wales independent or transferring the underlying reserved policy area.
+
+It would also need to address whether the same principle should apply to Scotland and Northern Ireland, rather than create an entirely separate Welsh constitutional arrangement.
+
+9. The questions we should settle before designing it
+
+I would not collapse these into one yes-or-no question. There are four distinct decisions:
+
+1. Trigger: Should consent apply to all reserved decisions with a substantial Welsh impact, or only decisions with direct, disproportionate and lasting effects?
+
+2. Strength: Should Senedd objection trigger reconsideration and a reasoned response, or should certain decisions actually require Senedd approval?
+
+3. Exceptions: Which decisions should remain exclusively within UK authority, particularly defence operations, national security and international obligations?
+
+4. Enforceability: Should the procedure be a political commitment, a statutory duty, or a legally enforceable requirement?
+
+These choices determine whether the mechanism is principally about better democratic representation, stronger consultation, or an actual redistribution of constitutional authority.
+
+The most revealing distinction for our investigation is this: the Senedd could acquire a right to be heard, a right to receive reasons, a right to negotiate, or a right to withhold consent. Those are four different constitutional powers. Calling all of them a Welsh consent mechanism would obscure the very issue we are trying to resolve.”.  
+
+“The important distinction is between a matter that needs to be handled at UK-wide level and a matter reserved because the law preserves a particular UK or England-and-Wales institution, system or administrative arrangement.
+
+Those are not the same thing. A function can be reserved because coordination across the UK is genuinely necessary; it can also be reserved because Westminster has chosen to retain a common institutional structure. Sometimes both explanations apply.
+
+I would use three categories rather than a simple UK-wide/not-UK-wide split:
+
+* Inherently or strongly UK-wide: the subject has a compelling cross-border, sovereign or common-market rationale.
+* Institutionally reserved: the reservation protects an existing legal jurisdiction, regulator, public body or administrative system. That arrangement may be defensible, but it is not necessarily the only workable one.
+* Mixed: there is a legitimate UK-wide interest, but the current reservation also preserves a particular allocation of power or institutional design.
+
+1. The strongest cases for genuinely UK-wide reservation
+
+These are the areas where there is a persuasive reason for a common UK-level authority, even if that does not mean every operational function must be centralised.
+
+Reservation	Why a UK-wide approach has a strong rationale
+Defence of the realm	Command of the armed forces, collective defence, military alliances and national defence planning require a coherent sovereign authority.
+Foreign affairs and international relations	The UK needs to speak and act as one state in diplomatic relations and treaty-making. Devolved governments can still have legitimate roles in areas affecting their responsibilities.
+Currency and monetary policy	A common currency, central bank, exchange-rate policy and monetary framework are inherently connected across the UK.
+Macroeconomic and fiscal framework	UK-wide borrowing, debt management, redistribution and control of overall public expenditure have strong common-system arguments. This does not settle how much tax autonomy Wales should have within that framework.
+Immigration and nationality	A common citizenship and immigration system is closely connected to the UK’s international borders and legal status. There can still be a case for devolving integration and some related services.
+National security and intelligence	Intelligence coordination, counter-terrorism and protection against threats to the state have a strong UK-wide rationale.
+
+These are the clearest examples of reservations where the underlying function is genuinely difficult to divide into four independent national systems.
+
+But even here, UK-wide responsibility does not automatically mean UK-only decision-making. Wales can have a voice in how defence investment, immigration policy or economic policy affects Welsh communities without becoming responsible for the sovereign function itself.
+
+The Independent Commission on the Constitutional Future of Wales identifies economic and fiscal policy, foreign affairs, nuclear policy and national security as matters reserved across all three devolved settlements. GOV.WALES +1
+
+2. Reservations that preserve particular institutional arrangements
+
+These are more interesting constitutionally. The question is not simply whether there is a UK-wide interest, but whether the present institutional structure is necessary.
+
+Reservation	What the reservation preserves	Why it is open to examination
+Single legal jurisdiction of England and Wales	A shared court system, judiciary, procedural framework and legal jurisdiction	Scotland and Northern Ireland have their own legal jurisdictions. A distinct Welsh jurisdiction could be recognised without necessarily creating wholly separate courts or legal professions.
+Justice and policing	UK-level control of policing, courts, prisons, probation and much of criminal justice in Wales	Justice and policing are devolved in Scotland and Northern Ireland. The current Welsh arrangement is therefore not an unavoidable UK-wide model.
+Rail infrastructure	A largely UK-controlled railway infrastructure and investment structure	Wales has distinct transport needs and already has devolved transport responsibilities. Cross-border railway coordination does not necessarily require Westminster to retain ultimate control of all Welsh infrastructure.
+Crown Estate management	Centralised management of Crown Estate assets and revenues in Wales	Scotland has a different arrangement, with management devolved. That makes the Welsh reservation look like a constitutional choice rather than an unavoidable UK-wide requirement.
+Broadcasting and media regulation	A UK-wide broadcasting regulatory and institutional framework	Common technical standards and a shared media market may be sensible, but they do not rule out Welsh representation, distinct funding arrangements or some devolved functions.
+Employment law	A common UK-wide framework of employment rights and protections	A common minimum standard may be valuable, but it does not necessarily rule out Welsh powers over enforcement, workplace policy or additional protections.
+
+The first four are particularly revealing. The Independent Commission found that the Welsh settlement differs from Scotland and Northern Ireland on legal jurisdiction, justice and policing, and rail infrastructure. It also observed that the reservation of justice and policing has consequences for areas such as antisocial behaviour and alcohol licensing, which are much more local in character. GOV.WALES +1
+
+That is a significant point: a reservation can reach beyond the subject that originally justified it. It can pull adjacent matters into the reserved sphere because they are legally or administratively attached to a particular institution.
+
+3. The mixed category: legitimate common interests, but not necessarily exclusive UK control
+
+Some reservations have a strong UK-wide rationale, but their current form goes further than that rationale necessarily requires.
+
+* Social security: UK-wide pooling and redistribution protect solidarity and spread financial risk. But Scotland has substantial devolved social security powers, and Northern Ireland has its own arrangements. A common UK safety net does not logically require every benefit, delivery mechanism or supplementary payment to be controlled centrally.
+* Energy: National grid coordination, electricity markets, nuclear policy and strategic energy security have strong UK-wide dimensions. But local generation, energy efficiency, planning, community energy and the management of land and assets have distinctly territorial dimensions.
+* Financial regulation: Common financial markets and prudential regulation have a strong case for UK-wide rules. That does not mean every economic-development or investment decision must be centralised.
+* Employment rights: Common minimum rights can prevent a race to the bottom. But a common floor is different from requiring every aspect of employment policy to be identical.
+
+The Commission’s analysis is useful here: it recognises the case for common employment protections and social-security risk sharing, while also identifying the costs of weak Welsh influence over decisions that affect devolved policy. On energy, it explicitly questioned whether some reservations remained strategically justified. GOV.WALES
+
+4. A further category: reservations that protect the machinery of the state
+
+Schedule 7A also reserves matters such as:
+
+* The Civil Service of the State.
+* Political-party registration and funding.
+* The constitution of specified reserved public authorities, including their establishment, dissolution, functions and funding.
+
+These are not all inherently UK-wide policy questions. They protect the organisation and operation of particular institutions.
+
+There are reasonable arguments for common standards and national coordination. But it is worth asking whether the whole institutional arrangement needs to be reserved, or only particular functions.
+
+For example, reserving the registration of political parties is not the same kind of constitutional necessity as reserving defence or currency. It is a decision about where a particular regulatory function sits.
+
+The distinction is visible in the statute itself: Schedule 7A reserves certain subjects, while paragraph 197 separately protects the constitution and functions of specified authorities. Legislation.gov.uk +1
+
+5. What this tells us about the Welsh settlement
+
+There is a historical dimension here. The Independent Commission found that the powers initially transferred to Wales in 1999 largely reflected the executive responsibilities previously exercised by the Secretary of State for Wales. There was no comprehensive review of what powers a democratically elected Welsh legislature ought to have.
+
+The settlement was subsequently deepened, but not comprehensively redesigned. GOV.WALES
+
+That means some of today’s boundaries may reflect the history of administrative devolution more than a considered constitutional judgement about which level of government is best placed to exercise each function.
+
+I would therefore apply four tests to each reservation:
+
+* Scale: Does the issue genuinely require a UK-wide decision?
+* Interdependence: Would separate Welsh authority create serious practical problems, or could those be managed through agreements and shared institutions?
+* Institutional necessity: Is the existing UK-wide institution essential, or simply the arrangement that has historically been chosen?
+* Accountability: Does retaining the power at UK level produce better outcomes and clearer accountability for people in Wales?
+
+My provisional classification would be:
+
+Strongest case for UK-wide reservation
+
+Defence, foreign affairs, currency, monetary policy, national security, immigration and the overarching fiscal framework.
+
+Strongest case for examining institutional preservation
+
+Legal jurisdiction, justice and policing, rail infrastructure, Crown Estate management and the structure of certain public authorities.
+
+Best candidates for shared or differentiated arrangements
+
+Social security, employment protections, energy regulation, broadcasting and financial or economic development functions.
+
+One qualification matters: a matter being institutionally reserved does not establish that it should be devolved. It establishes that the case for retaining it needs to be made on institutional effectiveness, cost, coordination and democratic accountability — rather than simply asserting that it is a UK-wide matter.
+
+My central observation: the Welsh settlement contains some reservations that protect the integrity of the UK as a state, and others that protect the existing way the UK state has chosen to organise itself. Those are different constitutional arguments. Treating them as interchangeable makes it much harder to have a serious discussion about which powers Wales should hold.
+
+The next useful distinction would be between a common UK-wide standard and a common UK-wide institution. The former often has a strong case even where the latter does not.”.  
+
+“Schedule 7B is important because it creates a second layer of limits beyond the list of reserved subjects in Schedule 7A.
+
+Schedule 7A asks: “Is this subject reserved?” Schedule 7B also asks: “Even if this subject is devolved, is the Senedd trying to change a legal rule or public authority that it is not permitted to change?”
+
+That is how a bill can concern an ostensibly devolved policy area — such as health, education, housing or local government — yet still encounter a competence barrier because of the way it affects a reserved authority, reserved law or protected enactment.
+
+The distinction is between having legislative competence over a policy field and having unrestricted power over every legal and institutional component involved in delivering it.
+
+1. The restrictions, in practical terms
+
+Schedule 7B contains several different kinds of restriction. They should not be treated as one general limitation.
+
+Provision	What it restricts	Practical consequence
+Paragraphs 1–2	Modification of the existing law on reserved matters	A Senedd Act cannot alter reserved law, except for limited changes ancillary to a genuinely devolved provision and no broader than necessary.
+Paragraph 3	Modification of private law	Contract, property, tort, trusts and related law are protected in principle, but can be modified where the modification serves a purpose that is not itself reserved.
+Paragraph 4	Modification of certain criminal law	The Senedd cannot alter specified serious offences or the basic framework of criminal responsibility, mental elements and sentencing.
+Paragraphs 5–7	Protected enactments and specified constitutional or institutional provisions	Certain statutes, provisions of the Government of Wales Act and functions of the Comptroller and Auditor General are protected from Senedd amendment.
+Paragraphs 8–11	Functions and constitution of reserved authorities	Certain changes to public bodies require the consent of a UK Minister, even when the policy purpose is devolved.
+
+These are statutory restrictions, not merely conventions or political understandings. Section 108A(2)(d) of the Government of Wales Act 2006 makes breach of Schedule 7B a ground on which a provision is outside the Senedd’s legislative competence. Legislation.gov.uk +1
+
+2. The reserved-authority problem: the most significant practical constraint
+
+This is the part most directly relevant to your question.
+
+Paragraphs 8–11 distinguish between:
+
+* Devolved Welsh authorities — broadly, public authorities that meet the statutory definition or are listed as such.
+* Reserved authorities — Ministers of the Crown, UK government departments and other public authorities that are not devolved Welsh authorities.
+
+The distinction is about the legal status of the institution, not simply whether it is carrying out a devolved policy function.
+
+Under paragraph 8, the Senedd generally needs the appropriate UK Minister’s consent to legislate to:
+
+* Give a reserved authority a new function or impose a new duty on it.
+* Change its constitution, including relevant provisions concerning assets, liabilities, funding and receipts.
+* Create, change or remove functions specifically exercisable in relation to that authority.
+
+Paragraph 10 also generally requires consent to remove or modify functions of public authorities other than devolved Welsh authorities, subject to exceptions. Paragraph 11 deals separately with certain functions of Ministers of the Crown. The exceptions in paragraph 9 and elsewhere matter, so this is not an absolute requirement for every provision involving a public body. Legislation.gov.uk +2
+
+The important consequence: a Welsh law can be about a devolved subject and still require permission from Westminster because it places a legal obligation on an institution that Westminster classifies as reserved.
+
+Example: safeguarding
+
+The Independent Commission’s written evidence describes the earlier dispute over requiring police participation in Safeguarding Children Boards and Safeguarding Adult Boards.
+
+The policy objective — protecting vulnerable people through multi-agency cooperation — sits naturally within devolved social services and safeguarding responsibilities.
+
+But imposing a statutory duty on the police engages the legal functions of a reserved authority. That can bring the ministerial-consent rules into play.
+
+The Commission highlighted the constitutional asymmetry: the Senedd faced restrictions on placing duties on reserved authorities, whereas Westminster did not face an equivalent statutory restriction when legislating in ways that affected Welsh Government functions. GOV.WALES +1
+
+This is a concrete example of the difference between responsibility for a policy outcome and authority to legislate for every institution needed to achieve it.
+
+3. Private law: devolved policy can require changing general legal rules
+
+Paragraph 3 protects areas of private law, including:
+
+* Contract.
+* Agency and bailment.
+* Tort.
+* Unjust enrichment and restitution.
+* Property.
+* Trusts and succession.
+
+But there is an important exception: the restriction does not apply where the modification has a purpose, other than modifying private law, that does not relate to a reserved matter.
+
+That allows the Senedd to change aspects of private law when doing so is genuinely necessary to implement devolved policy.
+
+For example, legislation on housing, renting, social care or environmental protection may need to alter contractual or property rights. The Senedd is not automatically prevented from doing so merely because the legislation changes private law.
+
+The difficulty is that the boundary must be legally justified. A provision cannot simply be presented as housing legislation if its real purpose is to alter a reserved subject.
+
+4. Criminal law: a common legal framework is protected
+
+Paragraph 4 protects specified serious offences, including:
+
+* Treason.
+* Homicide offences.
+* Certain serious offences against the person.
+* Sexual offences.
+* Offences associated with perjury.
+
+It also protects the general framework governing criminal responsibility and capacity, mental elements such as intention and recklessness, secondary liability, and sentencing and other criminal disposals.
+
+This does not mean the Senedd cannot create criminal offences. It can create offences to enforce legislation within devolved competence, subject to the restrictions.
+
+The distinction is between creating offences to enforce devolved policy and changing the underlying criminal-law framework shared across England and Wales. Legislation.gov.uk +1
+
+5. Protected enactments: a different kind of constitutional lock
+
+Paragraph 5 protects specified enactments from modification by Senedd legislation. The Human Rights Act 1998 and Civil Contingencies Act 2004 are examples.
+
+This is different from the ordinary reservation of a subject. The restriction protects the specified statutory provisions themselves, rather than simply preventing the Senedd from legislating about a reserved policy area.
+
+The Wales Act 2017 explanatory notes make that distinction explicit: protected enactments are protected in their precise content, whereas the ordinary reserved-matters rules operate by reference to the subject matter of legislation and its purpose. 58612_Ch4-EN v0.2.docx +1
+
+There are also restrictions protecting specified provisions of the Government of Wales Act itself and functions of the Comptroller and Auditor General. The exact list has been amended over time, so it is important not to rely on an old reproduction of the original Schedule 7B.
+
+6. Why this can become a hidden constraint
+
+The Independent Commission on the Constitutional Future of Wales examined these restrictions in detail.
+
+It identified two particular problems:
+
+First: institutional classification. To know whether consent is needed, Welsh legislators must establish whether the relevant body is a devolved Welsh authority or a reserved authority. They must also examine which particular function the body is exercising.
+
+Second: functional complexity. A body can exercise both devolved and reserved functions. A provision may therefore be unobjectionable in relation to one function but require consent in relation to another.
+
+The Commission described the paragraphs 8–11 rules as complex, unclear and difficult to operate. It argued that they could act as a hidden impediment to legislation in policy areas generally understood to be devolved. GOV.WALES
+
+This is a significant constitutional observation, although it is the Commission’s assessment rather than a judicial finding that every such restriction is unreasonable.
+
+7. How the restrictions operate in practice
+
+The process is not simply that Westminster can declare a Welsh Bill invalid whenever it dislikes the policy.
+
+* Welsh Government develops a Bill and obtains legal advice on competence.
+* If a provision requires ministerial consent under Schedule 7B, that consent normally needs to be secured before the Bill is introduced.
+* If the Bill is passed and a competence question remains, the Counsel General or Attorney General can refer it to the Supreme Court during the four-week period after passage.
+* The Supreme Court determines the legal competence question. It does not decide whether the policy is desirable.
+
+The Welsh Government’s own legislation handbook says that the UK Government has committed to responding to consent requests within a maximum of 60 working days. GOV.WALES +1
+
+8. The constitutional asymmetry
+
+There is a broader issue here.
+
+Senedd	UK Parliament
+Must stay within section 108A and Schedule 7B.	Can legislate for Wales, including in devolved areas.
+Can encounter ministerial-consent requirements when changing functions of reserved authorities.	Does not face an equivalent general Schedule 7B restriction when changing functions of devolved Welsh authorities.
+Its Acts can be challenged for lack of competence.	Its Acts are not subject to the same devolved-competence test.
+
+The Sewel convention says Westminster will not normally legislate on devolved matters without Senedd consent, but that is not an equivalent legal constraint. The Welsh Government’s Cabinet Handbook explicitly recognises the difference. GOV.WALES +1
+
+9. What is the underlying constitutional issue?
+
+I would distinguish three questions:
+
+* Policy competence: Is the subject devolved?
+* Institutional competence: Can the Senedd legislate for the particular public bodies involved?
+* Legal-system competence: Can the Senedd change the general legal rules necessary to implement its policy?
+
+Schedule 7A principally governs the first question. Schedule 7B adds restrictions on the second and third.
+
+That creates a potentially important gap: Wales may be democratically responsible for a policy area but lack unrestricted authority over the institutions and legal mechanisms needed to deliver it.
+
+It is not necessarily a flaw in every instance. There are legitimate reasons to protect common criminal-law principles, human-rights legislation and the integrity of national institutions. But the restrictions also preserve a particular allocation of institutional authority between Cardiff and Westminster.
+
+The question I would carry forward is this: should the Senedd need Westminster’s permission to place duties on a UK-controlled institution when those duties are necessary to deliver a policy for which Wales is already democratically and financially responsible?
+
+That is a more precise constitutional question than simply asking whether policing, justice or another subject should be devolved.”.  
+
+“The honest answer is: they are a recurring feature of Welsh legislative preparation, but there is no reliable published figure showing how many times they have actually delayed, altered or prevented a Senedd Bill.
+
+There is evidence that the problem is more than theoretical. But we need to distinguish three things:
+
+* A Bill being identified as potentially requiring consent.
+* Consent being requested and granted, possibly after negotiation or changes.
+* Consent being refused, delayed or withheld in a way that prevents the proposed legislation.
+
+Those are different measures, and the available public evidence does not give us a complete count of all three.
+
+1. What the evidence establishes
+
+The Independent Commission on the Constitutional Future of Wales examined the issue in its written evidence.
+
+Its account was particularly striking. It described the Schedule 7B paragraphs 8–11 regime as:
+
+* Complex and difficult to navigate.
+* Difficult to operate in practice.
+* A hidden impediment to legislation in areas generally understood to be devolved.
+* A source of uncertainty even among experienced government lawyers.
+
+It also described the restrictions as a more frequent and frustrating obstacle than some of the other Schedule 7B restrictions. That is the Commission’s assessment, based on its experience of the Welsh settlement; it is not a statistical measurement of the number of affected Bills. GOV.WALES +1
+
+2. Examples of where the problem has arisen
+
+A. Safeguarding and police participation
+
+The clearest historical example is the Social Services and Well-being (Wales) Act 2014.
+
+The Welsh legislation sought to require police participation in Safeguarding Children Boards and Safeguarding Adult Boards.
+
+The policy was about safeguarding and social services — devolved responsibilities. But imposing duties on the police raised the question of whether the Senedd could change the functions of a reserved authority without UK ministerial consent.
+
+The Commission identifies this as one of the reasons the restrictions were introduced. GOV.WALES +1
+
+B. Concurrent functions created by UK legislation
+
+A second, more structural problem arises when Westminster legislation gives Welsh Ministers a function alongside UK Ministers.
+
+The Welsh Government’s evidence to the Commission says it developed a practice of seeking an exemption from paragraph 11 of Schedule 7B when agreeing to certain UK Bills that created concurrent functions.
+
+Why?
+
+Because otherwise the new function could become difficult for the Senedd to modify or remove later without UK ministerial consent.
+
+The Commission records that a growing list of such exemptions has accumulated in paragraph 11(6). GOV.WALES
+
+This is important because the restriction can affect the future shape of devolved government, not just the initial passage of a Bill.
+
+C. Even seemingly minor administrative provisions
+
+The Welsh Government’s evidence also identifies paragraph 8(1)(c), which concerns functions specifically exercisable in relation to reserved authorities.
+
+Its example is a function as apparently modest as allowing Welsh Ministers to send a report to a reserved authority.
+
+Even that can require UK ministerial consent, depending on the precise statutory arrangement. GOV.WALES
+
+That demonstrates why the problem cannot be measured simply by counting major policy disagreements.
+
+3. Why we don’t see a simple count of blocked legislation
+
+The Welsh Government’s legislation handbook requires Bill teams to examine these issues during policy development.
+
+Where consent is necessary, it should normally be secured before the Bill is introduced. The UK Government has committed to responding to requests within a maximum of 60 working days. GOV.WALES +1
+
+That means the problem may be resolved before the public ever sees a Bill.
+
+For example, officials might:
+
+* Identify that a proposed duty would affect a reserved authority.
+* Seek ministerial consent.
+* Negotiate an exception or alternative wording.
+* Remove or narrow the provision.
+* Introduce the Bill once the competence position is settled.
+
+Only some of those outcomes would appear as a visible constitutional dispute.
+
+So a low number of publicly reported refusals would not establish that the restriction rarely matters.
+
+4. An important distinction from legislative consent motions
+
+There is another statistic that is easy to confuse with this issue.
+
+Senedd Research reported that during the Sixth Senedd (2021–26):
+
+* 76 UK Parliament Bills had legislative consent memoranda laid.
+* Those memoranda covered 1,718 clauses.
+* 202 memoranda were laid in total, including supplementary memoranda.
+
+Those figures concern the Senedd being asked to consent to Westminster legislating in devolved areas. They do not measure UK ministerial consent requests under Schedule 7B for Senedd legislation. research.senedd.wales
+
+The distinction matters because the two mechanisms operate in opposite directions.
+
+Mechanism	Who is asking whom?
+Schedule 7B ministerial consent	Senedd legislation needs permission from a UK Minister for specified provisions.
+Legislative consent motion	Westminster seeks the Senedd’s consent to legislate in devolved areas.
+
+5. What would give us a proper answer?
+
+I would want a published annual record containing:
+
+Measure	What it would reveal
+Number of Schedule 7B consent requests	Frequency of the formal process
+Number granted	How often agreement is reached
+Number refused	How often UK Ministers block a provision
+Average response time	Whether the process causes delay
+Number of Bills amended or narrowed	The extent of indirect interference
+Number of provisions abandoned before introduction	The hidden effect on legislative ambition
+Number of paragraph 11(6) exemptions negotiated	How often the Welsh Government has to secure future legislative freedom
+
+I have not found a comprehensive public dataset reporting those figures.
+
+The conclusion I would draw is carefully limited: Schedule 7B consent requirements are an established and recurring constraint in the legislative process, with documented examples and a recorded history of negotiated workarounds. The evidence supports the claim that they complicate Welsh lawmaking. It does not yet support a numerical claim about how many Bills they have stopped.
+
+And there is a constitutional point worth retaining: a system can constrain legislative autonomy without frequently producing an outright refusal. If the Senedd must routinely negotiate with Westminster over the institutions needed to implement devolved policy, that dependence is itself part of the settlement.”.   
+
+“The short answer is: a substantial range of administrative, regulatory, funding, approval and implementation functions can be placed in Welsh Ministers’ hands without changing the subjects on which the Senedd can legislate. Sections 58 and 58A provide two different legal routes to do this.
+
+The distinction is particularly useful when considering whether Wales can acquire more control over a policy without first negotiating a full transfer of legislative competence.
+
+1. Section 58: transfer specific ministerial functions
+
+Section 58 of the Government of Wales Act 2006 allows functions exercised by UK Ministers in relation to Wales to be transferred to:
+
+* Welsh Ministers collectively;
+* The First Minister; or
+* The Counsel General.
+
+It is deliberately flexible. An Order in Council can provide for several different arrangements.
+
+Arrangement	What it means
+Full transfer	Welsh Ministers exercise the function instead of the UK Minister.
+Concurrent exercise	Welsh and UK Ministers can both exercise the function.
+Joint exercise	The function is exercised jointly under the terms of the arrangement.
+Welsh Minister subject to UK agreement	Welsh Ministers can exercise the function only with the relevant UK Minister’s agreement.
+Welsh Minister subject to consultation	Welsh Ministers must consult the UK Minister before exercising it.
+UK Minister subject to Welsh agreement	The UK Minister cannot exercise the function in relation to Wales without Welsh agreement.
+UK Minister subject to Welsh consultation	The UK Minister must consult Welsh Ministers before exercising it.
+
+The Order in Council requires approval by both Houses of Parliament and the Welsh Ministers. It can also make consequential amendments to legislation and other instruments. Legislation.gov.uk +1
+
+What kinds of functions?
+
+Section 58 is broad enough to cover statutory functions already held by UK Ministers, including functions relating to:
+
+* Grant administration and financial assistance.
+* Licensing and regulatory approvals.
+* Inspection and enforcement.
+* Environmental and agricultural administration.
+* Transport administration.
+* Decisions about the exercise of particular statutory powers.
+* The making of subordinate legislation, where the relevant ministerial power is transferred.
+
+That last point needs care. A power to make regulations under a UK Act can be transferred as a ministerial function. This does not give the Senedd additional legislative competence: it gives Welsh Ministers the particular delegated lawmaking power specified in the transfer.
+
+Schedule 3 also allows transfers to cover certain cross-border bodies and, in limited circumstances, English border areas. Legislation.gov.uk +1
+
+2. Section 58A: executive powers that accompany devolved responsibilities
+
+Section 58A was inserted by the Wales Act 2017. It works differently.
+
+It provides that certain executive ministerial functions are exercisable by Welsh Ministers automatically, rather than requiring an individual Order in Council for each function.
+
+The statutory definition is important. These are functions of the Crown of a kind exercisable on its behalf by a Minister of the Crown, including functions involving expenditure or other financial matters, but excluding functions conferred or imposed by legislation or the prerogative.
+
+The legislation describes this as providing Welsh Ministers with common-law-type executive powers. Legislation.gov.uk +1
+
+There are two main routes:
+
+A. Functions within devolved competence
+
+Welsh Ministers can exercise executive functions to the extent that their exercise is within devolved competence.
+
+For example, this supports the ordinary executive activity involved in administering devolved services and pursuing devolved policies.
+
+B. Functions ancillary to a Welsh function outside devolved competence
+
+Welsh Ministers can also exercise executive functions that facilitate or support a function they exercise outside devolved competence.
+
+This is significant because it recognises that Welsh Government responsibilities do not always fit neatly inside the legislative competence boundary.
+
+However, section 58A does not transfer every UK ministerial power. Its definition excludes functions conferred or imposed by legislation or the prerogative. Those statutory functions may instead require a section 58 transfer or another legislative arrangement.
+
+There are also exceptions under which Welsh Ministers exercise certain functions concurrently with UK Ministers, rather than exclusively. Legislation.gov.uk +1
+
+3. What section 58A cannot do
+
+Section 58A contains its own limits on devolved competence.
+
+Under subsections (7) and (8):
+
+* Welsh Ministers cannot use these executive powers to make subordinate legislation containing provisions that the Senedd itself would be outside competence to enact.
+* They cannot exercise a non-legislative function in a way that would require an Act of the Senedd conferring that function to be outside competence.
+
+So section 58A cannot be used as a back door to expand the Senedd’s legislative jurisdiction.
+
+This is an important distinction: executive authority can sometimes extend beyond the boundaries of the Senedd’s legislative competence, but only within the particular limits Parliament has set. Legislation.gov.uk +1
+
+4. What this could mean in particular policy areas
+
+Here are illustrative possibilities, not claims that each function has already been transferred.
+
+Policy area	Possible executive transfer or arrangement	What would remain reserved
+Policing	Welsh approval or oversight functions, funding administration, specified governance functions	General police law, policing powers and the reserved institutional framework
+Justice	Administration of particular youth justice or probation programmes; funding and commissioning functions	Courts, criminal law, prisons and other retained justice powers
+Rail	Specific investment approvals, funding decisions or infrastructure-management functions	Wider reserved railway framework and UK-wide network functions
+Crown Estate	Defined management or administrative functions concerning Welsh assets	Ownership, the wider Crown Estate framework and any functions not transferred
+Energy	Specific consent, administrative or funding functions where legally transferable	Reserved electricity-market, nuclear and strategic energy functions
+
+There is an important distinction between transferring a ministerial function and transferring a public authority’s function. Section 58 is a mechanism for transferring functions of Ministers of the Crown. Where a function belongs to a separate reserved public authority, a different statutory mechanism or legislation may be required. Schedule 7B can also become relevant.
+
+5. The constitutional significance: authority without a new devolution settlement
+
+This gives us three distinct levels of change:
+
+Level 1 — Executive transfer
+
+Welsh Ministers administer, approve, fund, regulate or implement a function previously exercised by UK Ministers.
+
+Sections 58 / 58A
+
+Level 2 — Shared executive authority
+
+Welsh and UK Ministers exercise functions jointly or concurrently, or one government’s exercise is conditional on the other’s agreement or consultation.
+
+Section 58 arrangements
+
+Level 3 — Legislative devolution
+
+The Senedd acquires competence to make primary legislation in a subject or area previously reserved.
+
+Requires a change to legislative competence
+
+The first two levels can be achieved without the third.
+
+That means a government could agree to transfer meaningful responsibility for particular aspects of policing, rail, justice administration or Crown Estate management without first changing the Schedule 7A reservations.
+
+But there is a trade-off. An executive transfer does not necessarily give Wales the ability to redesign the underlying statutory framework. Nor does it necessarily protect the transferred function from later alteration or revocation through the relevant legal process.
+
+6. The question this raises for the Welsh negotiations
+
+There is a useful distinction between three requests that can sound similar in political correspondence:
+
+* Give Wales a voice — consultation, representation or participation in a UK institution.
+* Give Wales executive authority — Welsh Ministers acquire the ability to make specified decisions.
+* Give Wales legislative authority — the Senedd can determine the law governing the subject.
+
+Sections 58 and 58A offer routes to the second, not a substitute for the third.
+
+This is particularly relevant to the policing, justice, rail and Crown Estate discussions. A refusal to transfer legislative competence does not, by itself, establish that executive functions cannot be transferred.
+
+The next question worth examining is whether the UK Government’s current offers in those four areas amount to meaningful executive authority, or mainly enhanced participation in UK-controlled institutions. That would let us apply the distinction directly to Burnham’s letter.”.  
+
+“Yes. The key is to test each offer against a simple question:
+
+Does Wales acquire a decision-making power of its own, or does it acquire a stronger position inside a system whose decisions remain legally controlled elsewhere?
+
+I would assess the four areas separately. A seat on a board, a right to be consulted and a power to approve a decision are constitutionally different things. So is administering a budget from deciding how that budget is raised and allocated.
+
+The documents point to a mixed answer. Justice contains a real, though narrow, transfer of executive responsibility. Rail offers some meaningful shared governance, but not Welsh control of infrastructure. Policing offers the prospect of greater influence, without yet specifying powers. The Crown Estate offer is principally consultation and representation.
+
+Here is the breakdown, using the Prime Minister’s letter of 20 November and the associated agreements available by 24 November 2026.
+
+1. Policing — enhanced participation, not yet transferred authority
+
+No defined transfer of powers
+
+Burnham offers:
+
+* A “clear role” for Welsh Government in policing governance.
+* Further engagement with the Home Office and Wales Office.
+* An opportunity to shape future policing governance arrangements.
+* Stronger coordination between policing and devolved services.
+* A Wales-wide approach to local policing governance.
+
+He also describes a future policing model built around local government structures, with powers and levers for those responsible for governing local policing.
+
+But there is a significant omission: the letter does not specify which statutory decisions Welsh Ministers would acquire the power to make.
+
+It does not identify transferred powers over police budgets, appointments, strategic priorities, inspection, performance intervention or operational accountability.
+
+The existing Policing Partnership Board for Wales and the pan-Wales Assistant Chief Constable role are cited as examples of existing cooperation, not new transfers of authority. GOV.WALES +1
+
+Assessment: primarily enhanced participation, with a possible future governance role. Until the legal powers and decision rights are specified, it cannot be treated as a transfer of executive authority to Welsh Ministers.
+
+2. Justice — some genuine executive transfer, but limited in scope
+
+Specific funding transfer agreed
+
+This is the most substantial example of actual executive devolution among the four areas.
+
+The March 2026 agreement provides for:
+
+* Transfer to Welsh Government of funding to reduce the use of remand for children in Wales.
+* Transfer of remaining early-intervention funding, including the Turnaround programme.
+* Both changes taking effect from April 2027.
+* Welsh Government directing this funding in accordance with Welsh priorities.
+* Further discussions about an expanded role in the Youth Justice Core Grant.
+* Development of a clearer Welsh Government role in youth justice oversight and strategy.
+
+The probation offer is less developed. The two governments and Welsh police and crime commissioners committed to produce an MoU by the end of 2026, focusing on cooperation between probation and devolved services. A wider review of probation governance is also promised. GOV.WALES +2
+
+The distinction is important:
+
+Function	Position
+Certain youth justice funding	Transfer agreed, effective April 2027
+Welsh allocation of that funding	Welsh Government gains meaningful discretion
+Youth justice oversight	Expanded role being developed
+Probation partnership	Cooperation and flexibility being negotiated
+Probation management and statutory authority	Not transferred
+Courts, prisons and wider criminal justice	Remain reserved
+
+Assessment: a genuine but restricted transfer of executive responsibility in youth justice. Much of the wider justice offer remains partnership working rather than devolution.
+
+It is worth noting that transferring a funding stream is not the same as transferring responsibility for the institution or service that the money supports.
+
+3. Crown Estate — representation without management authority
+
+No transfer of management
+
+Burnham explicitly rejects:
+
+* Devolving management of the Crown Estate in Wales.
+* Preparing now for a future transfer.
+
+Instead, he points to:
+
+* A Commissioner with special responsibility for Wales.
+* Wales-specific reporting.
+* A Wales Forum.
+* Greater consideration of Welsh priorities.
+* Continued cooperation on ports, offshore wind supply chains and economic development.
+
+The letter expressly envisages retaining the Crown Estate’s operational independence. GOV.WALES
+
+What is missing?
+
+* Welsh control over management decisions.
+* Welsh authority over the investment strategy for Welsh assets.
+* Control over the relevant revenue.
+* Welsh authority to determine how those assets are managed or developed.
+
+A Wales-specific reporting arrangement may improve transparency. A Wales Forum may improve access and influence. Neither is equivalent to Welsh Ministers acquiring the legal authority to direct the management of the estate.
+
+Assessment: participation, consultation and improved visibility. No meaningful transfer of executive management authority is offered.
+
+4. Rail infrastructure — meaningful joint governance, but ultimate control remains elsewhere
+
+Shared governance and delegated delivery
+
+This one requires more care because there is more substance than simply giving Wales a seat at a meeting.
+
+The Prime Minister identifies several changes:
+
+* Governance of Welsh rail enhancements is to sit with the Wales Rail Board.
+* Great British Railways (GBR) is to work with Transport for Wales.
+* A GBR Wales and Borders structure is intended to have local operational and financial decision-making powers.
+* Welsh Ministers are to be involved in shared objectives and investment planning.
+* GBR will have a statutory obligation to consider Welsh needs.
+* A formal partnership between GBR and Transport for Wales is being developed.
+
+The underlying March 2026 rail MoU gives us a much clearer picture of what these arrangements mean.
+
+What Wales actually gains
+
+The Wales Rail Board is formally recognised as a strategic body. It can:
+
+* Review funding allocations, business plans and performance.
+* Oversee strategic delivery of enhancement programmes.
+* Manage a pipeline of future priorities.
+* Hold delivery partners to account for agreed outcomes.
+* Develop governance arrangements for joint decision-making and changes to projects.
+
+The proposed GBR Wales and Borders structure is also intended to have its own budget allocation and decision-making authority within GBR. GOV.WALES +1
+
+Those are meaningful governance and delivery arrangements.
+
+What Wales does not gain
+
+The same MoU makes several important qualifications:
+
+* The MoU does not alter the statutory functions of either government.
+* It is not legally binding.
+* The Wales Rail Board’s work remains subject to the governance and assurance requirements attached to the relevant funding sources.
+* Shared objectives do not themselves determine funding allocations or statutory functions.
+* GBR retains responsibility for its reserved infrastructure functions.
+* The UK Secretary of State retains the national funding framework and strategic responsibilities.
+
+The Board can therefore influence, scrutinise and oversee the enhancement programme without acquiring independent authority over the whole Welsh rail infrastructure budget or network. GOV.WALES
+
+Assessment: a meaningful increase in shared governance and delegated operational authority within the GBR structure, but not a transfer of rail infrastructure responsibility to Welsh Ministers or the Senedd.
+
+5. Comparison: what kind of power is actually on offer?
+
+Area	What Wales receives	What remains elsewhere	Character of offer
+Policing	Greater governance role to be developed	Statutory policing authority and reserved framework	Participation, prospective governance
+Justice	Specific youth justice funding and discretion over its use	Wider justice institutions and probation authority	Limited executive transfer plus partnership
+Crown Estate	Commissioner, reporting and Wales Forum	Management, investment and operational control	Representation and consultation
+Rail	Wales Rail Board, shared objectives, local GBR decision-making	National infrastructure funding and reserved statutory functions	Shared governance and delegated delivery
+
+6. Apply the six tests of actual authority
+
+This is where the distinction becomes particularly clear.
+
+Test	Policing	Justice	Crown Estate	Rail
+Welsh representation	Yes	Yes	Yes	Yes
+Welsh decision-making power	Not yet specified	Yes, over specified youth funding	No management power	Yes, within defined governance arrangements
+Control of relevant resources	Not specified	Specific funding streams	No	Limited; subject to funding arrangements
+Ability to direct delivery	Not specified	Within transferred funding programmes	No	Some influence and oversight, not overall control
+Accountability to Senedd	Not established for policing	Welsh Government accountable for its funding decisions	No transfer of management accountability	Limited to Welsh functions and arrangements
+Security of authority	No transfer identified	Specific agreement and implementation required	No transfer	MoU is non-binding; statutory functions unchanged
+
+The table needs one qualification: a function can be genuinely delegated within a UK institution without becoming a Welsh Government function. GBR’s internal decision-making authority is an example.
+
+That is still a form of decentralisation, but it is not the same as constitutional devolution.
+
+7. The wider constitutional pattern
+
+There is a common approach running through the four offers:
+
+The UK Government’s preferred model
+
+* Retain the overarching reserved legal framework.
+* Preserve UK-level institutional control.
+* Give Welsh institutions greater involvement in governance.
+* Transfer selected funding or operational responsibilities.
+* Improve coordination between reserved and devolved services.
+* Use boards, forums, partnerships and agreements to manage the interfaces.
+
+That is a recognisable model of administrative and collaborative decentralisation. It is not simply an empty offer: the youth justice funding changes and rail governance arrangements have practical substance.
+
+But it also leaves a major constitutional question unresolved: who has the final authority when the governments disagree?
+
+For example:
+
+* Can Welsh Ministers require a change to policing priorities?
+* Can they direct Crown Estate investment in Wales?
+* Can they determine which rail infrastructure projects receive funding?
+* Can they change the statutory framework governing probation?
+
+The offers do not give Wales general authority to do those things.
+
+There is also a legal durability question. The rail MoU expressly says it does not alter statutory functions and is not legally binding. The youth justice funding agreement is more concrete, but its implementation and scope still matter. The policing and Crown Estate offers do not establish new transferred statutory powers.
+
+8. The distinction I would preserve
+
+I would describe the four offers as follows:
+
+* Policing: enhanced Welsh involvement in reserved governance.
+* Justice: limited executive devolution in youth justice, with wider partnership arrangements.
+* Crown Estate: improved Welsh representation and transparency, without management devolution.
+* Rail: shared governance and delegated operational authority, without full infrastructure devolution.
+
+This is more precise than saying that Burnham simply offered no devolution at all. Equally, it would be inaccurate to present the four offers as equivalent to transferring powers to Wales.
+
+The First Minister’s response makes the underlying disagreement explicit: he argues that cross-border cooperation should be managed through intergovernmental arrangements rather than used as a reason to retain powers in Whitehall. 23 November 2026
+
+The next constitutional question is whether these arrangements give Wales a protected right to participate in decisions, or merely an opportunity to participate at the discretion of UK institutions. That is the difference between institutional partnership and a durable sharing of power.”.  
+
+“The dividing line is that section 109 can change the boundaries of the Senedd’s legislative competence; it is not a general power to redesign the Welsh constitution or transfer every government function.
+
+It is, however, a more substantial mechanism than a simple administrative adjustment. It can change what the Senedd is legally permitted to legislate about.
+
+1. What section 109 can change
+
+Section 109(1) of the Government of Wales Act 2006 expressly authorises an Order in Council to amend Schedule 7A or Schedule 7B.
+
+That permits changes to two important parts of the settlement.
+
+What can be changed	Example
+Reserved subjects in Schedule 7A	Remove or narrow a reservation, or transfer a defined subject into devolved competence.
+Exceptions to reservations	Define particular Welsh powers within a subject that otherwise remains reserved.
+Schedule 7B restrictions	Remove or narrow restrictions on the Senedd modifying private law, criminal law or functions of reserved authorities, within the statutory structure.
+Protected enactment provisions	Amend the relevant competence restrictions, subject to the scope of the Order and its consequential provisions.
+Consequential statutory provisions	Amend other legislation where appropriate in connection with the changes to Schedule 7A or 7B.
+
+The final point is important. Section 109(2) expressly permits modifications to other enactments, prerogative instruments and documents where these are appropriate in connection with the Order. Legislation.gov.uk +1
+
+Example: policing
+
+An Order could amend Schedule 7A to remove or narrow specified policing reservations.
+
+That would expand the Senedd’s legislative competence in the relevant area.
+
+It could also make appropriate consequential amendments to other legislation.
+
+It would not automatically transfer every policing function, police asset, funding stream or operational responsibility to Welsh Ministers. Those matters would need to be addressed separately.
+
+2. What requires a different legal mechanism?
+
+The distinction becomes clearer when we look at the kind of change being proposed.
+
+Proposed change	Legal route
+Remove a defined reservation	Section 109 Order in Council
+Create a Welsh exception to a reservation	Section 109 Order in Council
+Relax a Schedule 7B restriction	Section 109 Order in Council
+Transfer a UK Minister’s existing statutory function to Welsh Ministers	Section 58 Order in Council
+Make a UK Minister’s exercise of a function subject to Welsh agreement	Section 58 Order in Council
+Transfer functions of an independent UK public authority	Usually requires legislation or another specific statutory mechanism
+Create a new statutory Welsh institution with legally defined powers	Usually primary legislation
+Establish new statutory duties, powers or regulatory structures not achievable through existing mechanisms	Primary legislation
+Change the basic constitutional structure of the Senedd or Welsh Government	Primary legislation
+Create a new taxation or borrowing framework outside existing statutory powers	Primary legislation
+
+The word usually matters. Section 109(2) can make consequential amendments to other legislation, so not every amendment to an existing Act necessarily requires a separate Westminster Bill.
+
+But it cannot be treated as an unlimited power to amend unrelated legislation or establish an entirely new constitutional settlement.
+
+3. The approval process for a section 109 Order
+
+There is a significant safeguard built into the procedure.
+
+* Draft Order prepared
+    The proposed changes to Schedule 7A or 7B are drafted.
+* Senedd approval
+    The draft must be approved by resolution of the Senedd.
+* House of Commons approval
+    The draft must also be approved by resolution of the Commons.
+* House of Lords approval
+    The draft must also be approved by resolution of the Lords.
+* Order made in Council
+    Following those approvals, the Order can be made.
+
+This is an affirmative approval procedure. Neither the UK Government acting alone nor the Senedd acting alone can make the change.
+
+Section 109(5) also protects the validity and continuing operation of existing Senedd Acts when the competence schedules are subsequently altered, unless another enactment provides otherwise. Legislation.gov.uk
+
+4. The important distinction between sections 58 and 109
+
+These provisions can be used to achieve different kinds of constitutional change.
+
+Section 109
+
+Change what Wales can legislate about.
+
+The Senedd gains or loses legislative competence over a subject or a particular aspect of it.
+
+Section 58
+
+Change who exercises an existing ministerial function.
+
+Welsh Ministers acquire specified executive powers, potentially concurrently or jointly with UK Ministers.
+
+Primary legislation
+
+Create or redesign the statutory machinery.
+
+New institutions, legal duties, powers, regulatory systems or wider constitutional arrangements can be established or altered where the existing statutory mechanisms are insufficient.
+
+5. Applying this to the four areas we’ve been examining
+
+Area	Possible section 109 change	What might still need other legislation or arrangements
+Policing	Remove or narrow reservations relating to policing	Transfer police governance functions, establish Welsh institutional structures, allocate assets and funding
+Justice	Devolve specified elements of youth justice, probation or other justice matters	Transfer statutory functions, reorganise institutions, establish funding and accountability arrangements
+Crown Estate	Change the relevant reservations affecting the Senedd’s legislative competence	Transfer management, ownership or statutory functions and deal with revenue arrangements
+Rail	Change reservations affecting Welsh legislative authority over specified rail matters	Transfer infrastructure functions, assets, funding and operational responsibilities
+
+This is where the distinction becomes useful in evaluating the UK Government’s position.
+
+A refusal to transfer legislative competence does not necessarily mean that the UK Government cannot transfer executive functions under section 58.
+
+Likewise, an agreement to transfer executive functions does not necessarily require a change to Schedule 7A.
+
+6. A further constitutional point: section 109 is not entrenchment
+
+Although section 109 requires the approval of both the Senedd and both Houses of Parliament, it does not make the resulting settlement permanently protected.
+
+Westminster retains its general legislative power under section 107(5) to legislate for Wales.
+
+Primary legislation could amend the Government of Wales Act itself, including the section 109 mechanism, subject to the ordinary constitutional and political constraints.
+
+So section 109 is a negotiated statutory route for changing the competence settlement, not a guarantee that Westminster can never change it unilaterally.
+
+7. What this means for the constitutional debate
+
+There is a useful distinction between three levels of ambition:
+
+* Adjust the boundaries: use section 109 to amend the reserved-matters list and Schedule 7B restrictions.
+* Transfer the machinery: use section 58 and other available mechanisms to put specific executive functions in Welsh hands.
+* Redesign the settlement: use primary legislation to establish new institutions, statutory powers, funding arrangements and constitutional safeguards.
+
+These are not necessarily competing approaches. They could be combined.
+
+For example, a negotiated policing settlement could use section 109 to devolve specified legislative competence, section 58 to transfer existing ministerial functions, and primary legislation to establish any new Welsh policing governance structure.
+
+The point I would carry forward is that the current settlement already contains a statutory route for changing the boundary between reserved and devolved subjects without passing an entirely new Wales Act. The fact that this route exists makes it important to distinguish a refusal to use the available mechanism from a claim that a change would require wholesale constitutional legislation.
+
+Primary sources: Government of Wales Act 2006, section 109⁠￼ · Section 58, transfer of ministerial functions⁠￼ · Section 108A, legislative competence⁠￼.”.  
+
+“The Welsh devolution settlement is substantially established in statute, but much less securely protected against unilateral change by Westminster.
+
+That distinction is crucial. The law establishes the Senedd, defines its powers, allocates executive responsibilities and provides mechanisms for changing the settlement. But many of the conventions governing how the UK and Welsh Governments should respect one another are political commitments rather than enforceable legal restrictions.
+
+I would separate the settlement into three layers:
+
+* Statutory architecture: what institutions exist, what powers they have and how those powers can be changed.
+* Constitutional conventions: how Westminster and the devolved governments are expected to behave towards one another.
+* Political safeguards: agreements, intergovernmental machinery and expectations that depend on governments choosing to cooperate.
+
+1. What is protected by statute?
+
+The central statute is the Government of Wales Act 2006, substantially amended by the Wales Acts of 2014 and 2017 and the Senedd and Elections (Wales) Act 2020.
+
+Element of the settlement	Statutory basis	What the law provides
+Existence of the Senedd	Government of Wales Act 2006, Part 1	Establishes the legislature and its composition and procedures.
+Welsh Government	Part 2	Establishes the executive and defines its institutional structure.
+Permanence	Section A1, inserted by Wales Act 2017	Declares both institutions permanent and states that they are not to be abolished except on the basis of a decision by the people of Wales in a referendum.
+Recognition of Welsh law	Section A2	Recognises that Wales has a body of law made by the Senedd and Welsh Ministers.
+Legislative competence	Sections 107–108A and Schedules 7A and 7B	Defines what the Senedd can legislate about and the restrictions it must observe.
+Executive functions	Sections 58 and 58A, among others	Provides mechanisms for transferring and exercising executive powers.
+Taxation and borrowing	Government of Wales Act as amended by Wales Act 2014	Establishes devolved taxation and borrowing powers.
+Changing competence	Section 109	Provides a statutory route for changing the reserved-matters and restrictions schedules.
+
+These are legal provisions, not merely political promises. The Senedd’s legislative competence is a legal question which courts can determine. A provision outside competence is not law to the extent of that incompatibility. Legislation.gov.uk +2
+
+The important qualification: permanence is not entrenchment
+
+Section A1 is constitutionally significant, but it does not make the Senedd legally indestructible.
+
+The UK Parliament retains legislative sovereignty. It could expressly amend or repeal section A1 through subsequent primary legislation.
+
+So there are two different propositions:
+
+* The UK Parliament has enacted a statutory commitment that the Senedd and Welsh Government are permanent and should not be abolished without a Welsh referendum.
+* The UK Parliament has not legally surrendered its ability to amend that commitment.
+
+The first is a real statutory protection. The second limits how secure that protection is.
+
+2. What depends on political convention?
+
+This is where the difference becomes much more pronounced.
+
+A. The Sewel Convention
+
+Section 107(6) of the Government of Wales Act recognises that Westminster will not normally legislate on devolved matters without Senedd consent.
+
+But the convention itself is not legally enforceable.
+
+The Supreme Court confirmed in Miller (2017) that statutory recognition did not turn Sewel into a legal rule which courts could enforce. Westminster can legislate without consent, although doing so may carry significant political consequences. House of Commons Library +2
+
+This means the Senedd has:
+
+* A recognised constitutional expectation of consent.
+* A formal legislative consent process.
+* An opportunity to express disagreement.
+
+It does not have a legally enforceable veto over Westminster legislation in devolved areas.
+
+B. Respect for devolved responsibilities
+
+There is a wider convention that the UK Government and Parliament should respect the responsibilities of devolved institutions.
+
+This underpins the practical operation of devolution, but it does not prevent Westminster from legislating in devolved areas.
+
+The Government of Wales Act expressly preserves Westminster’s power to legislate for Wales in section 107(5). Legislation.gov.uk +1
+
+C. Intergovernmental cooperation
+
+The 2022 Intergovernmental Relations Review established:
+
+* The Prime Minister and Heads of Devolved Governments Council.
+* The Interministerial Standing Committee.
+* Portfolio-level Interministerial Groups.
+* The Finance Interministerial Standing Committee.
+* A joint Secretariat.
+* A dispute avoidance and resolution procedure.
+
+These arrangements are important, but the governments explicitly described them as a statement of political intent. They do not create new legal obligations, override existing legal relationships or establish justiciable rights. GOV.UK +1
+
+In practical terms, the dispute process gives governments a way to escalate disagreements. It does not give Wales a binding adjudicator capable of ordering Westminster to change its policy.
+
+3. What about funding? A particularly important vulnerability
+
+The fiscal settlement combines statutory powers with intergovernmental agreements.
+
+Element	Legal or political foundation
+Welsh tax-raising powers	Statute
+Welsh borrowing powers	Statute
+Ability to allocate devolved budgets	Statutory responsibilities and budgetary procedures
+Barnett formula arrangements	Administrative and intergovernmental funding arrangements
+Needs-based funding factor	Fiscal framework agreement
+Block grant adjustment methodology	Fiscal framework agreement
+Disputes about fiscal calculations	Agreed dispute-resolution arrangements
+
+The Welsh fiscal framework agreement sets out the needs-based funding factor, tax adjustments, borrowing arrangements and dispute procedures. It implements statutory powers, but the agreement itself is not equivalent to constitutional entrenchment of those funding arrangements. GOV.WALES +2
+
+That distinction matters enormously.
+
+Wales can have statutory responsibility for delivering a service without having an equally entrenched statutory guarantee of the funding methodology that supports it.
+
+4. Putting the layers together
+
+The Welsh settlement: three levels of protection
+
+Statutory protection
+
+Institutions, powers and legal boundaries
+
+The Senedd and Welsh Government exist in statute. Their responsibilities and legislative competence are defined by law. Courts can enforce those boundaries.
+
+Statutory recognition, political enforcement
+
+The principle of consent
+
+Sewel is recognised in the Government of Wales Act, but the convention is not legally enforceable. Westminster retains the legal power to legislate.
+
+Political agreement
+
+Cooperation, funding and dispute resolution
+
+Intergovernmental arrangements and much of the fiscal framework depend on agreed procedures and governments honouring their commitments.
+
+5. The asymmetry at the heart of the settlement
+
+This is perhaps the most important point in the whole discussion.
+
+The Senedd is legally constrained by the devolution settlement. It cannot simply legislate on reserved matters, modify protected law or disregard the Schedule 7B restrictions.
+
+Westminster, meanwhile, retains the legal power to legislate for Wales, including in devolved areas.
+
+The Senedd’s protection against that power is principally political: the Sewel Convention, the expectation of consent and the political consequences of disregarding Welsh democratic opposition.
+
+The result is an asymmetrical arrangement:
+
+Question	Senedd	Westminster
+Can it legislate on devolved matters?	Yes, within statutory competence	Yes, under parliamentary sovereignty
+Can it legislate on reserved matters?	Generally no	Yes
+Can it change the statutory competence settlement alone?	No	Yes, through primary legislation
+Is there a convention governing legislation in the other’s sphere?	Welsh institutions observe the constitutional settlement	Sewel says Westminster will not normally legislate in devolved areas without consent
+Can a court enforce Sewel?	No	No
+
+The House of Lords Constitution Committee has also examined this imbalance, arguing for more reliable consultation, clearer procedures and better explanations when Westminster proceeds without devolved consent. Select Committee on the Constitution +1
+
+6. What would stronger protection actually require?
+
+There are several possible reforms, each addressing a different weakness.
+
+Reform	What it would protect
+Statutory duty to consult the Senedd	A guaranteed opportunity to participate before UK decisions affecting devolved responsibilities
+Statutory duty to seek consent	A stronger procedural expectation, although not necessarily an absolute veto
+Legally protected consent for defined categories	Welsh authority over specified decisions
+Statutory intergovernmental dispute resolution	A more formal process and potentially enforceable procedural obligations
+Statutory fiscal framework	Greater security for funding calculations and agreed financial arrangements
+Stronger protection of devolved competence	Greater difficulty in changing the boundaries without Welsh agreement
+
+There is an important distinction between making a procedure legally enforceable and making its outcome binding.
+
+For example, legislation could require Westminster to:
+
+* Notify the Senedd.
+* Publish an impact assessment.
+* Seek consent.
+* Allow a defined period for consideration.
+* Publish reasons if it proceeds without consent.
+
+A court might be able to enforce those procedural requirements without having the power to decide the underlying political disagreement.
+
+That would be a different model from giving the Senedd an absolute veto.
+
+7. The central conclusion
+
+The Welsh settlement is not merely a collection of informal arrangements. Its institutional foundations and legislative powers are firmly established in statute.
+
+But the mutual respect, consent and cooperation needed to make an asymmetric devolution settlement work are much less securely protected.
+
+The distinction is:
+
+* Wales has statutory authority over specified responsibilities.
+* Westminster has retained ultimate legal sovereignty.
+* The convention that Westminster should normally respect devolved democratic authority is politically important but not judicially enforceable.
+* The machinery for resolving disagreements is agreed, but not binding.
+
+That leaves a fundamental constitutional question: is Wales a government with legally protected responsibilities but politically negotiated protection against interference, or should it have legally protected authority over at least some of the decisions that currently remain at Westminster’s discretion?
+
+That is the point at which discussion moves from improving the operation of devolution to considering a different constitutional settlement.”.  
+
+“Now that the Welsh Government has published the actual five-page letter, we can be more precise. It is dated 1 October 2026, addressed to Prime Minister Andy Burnham, and follows their July discussion in Glasgow and a letter Burnham sent on 21 September. It is not simply a request for four powers: it sets out a broader constitutional and fiscal programme. GOV.WALES
+
+The letter has six substantive elements.
+
+1. The overarching request: parity with Scotland
+
+Ap Iorwerth’s starting proposition is that Wales should have:
+
+“the same constitutional and fiscal tools already available in Scotland.”
+
+He argues that the May Senedd election gave his government a mandate to secure the powers, funding and financial flexibility needed to improve public services and grow the economy.
+
+He wants a practical programme of constitutional reform, not powers for their own sake. The stated purposes are better integration of public services, improved outcomes and economic growth. GOV.WALES
+
+2. Policing and justice: devolution within a single Welsh framework
+
+This is presented as a particularly urgent request.
+
+He asks for:
+
+* Devolution of policing to Wales.
+* Devolution of justice, bringing policing and justice within a single Welsh devolved framework.
+* A clear pathway towards policing devolution, using the forthcoming Police Reform Bill as an opportunity.
+* Early devolution of youth justice as a practical first step.
+* Welsh influence over the UK Government’s reforms of youth justice across England and Wales.
+
+His argument is that Wales controls many of the services affecting offending, rehabilitation and community safety — health, education, housing and local government — but does not control the corresponding reserved justice system.
+
+He also identifies a financial problem: UK justice decisions can create additional demand and costs for devolved Welsh services without Welsh Government having a decision-making role over the underlying policy or funding.
+
+He specifically points out that more than half of police funding in Wales comes from devolved sources. GOV.WALES
+
+The actual request is therefore broader than improved consultation: he wants responsibility for policing and justice transferred, with youth justice an early step towards that settlement.
+
+3. Rail: full devolution of infrastructure
+
+This is also explicit.
+
+He requests full devolution of rail infrastructure, arguing that Wales needs control over investment decisions and the ability to integrate infrastructure and passenger services.
+
+He uses the Core Valley Lines as evidence that Transport for Wales can own, manage and deliver major rail infrastructure.
+
+He also makes three connected funding requests:
+
+* A fair funding settlement accompanying infrastructure devolution.
+* Redesignation of HS2 as an England-only project, so Wales receives its fair funding consequentials.
+* Wales receiving its fair share of UK transport investment.
+
+He welcomes the UK Government’s commitment to a £14 billion Welsh rail investment programme over 15 years, but treats that as distinct from the constitutional question of who controls the infrastructure. GOV.WALES
+
+That distinction matters: he is not presenting a £14bn investment commitment as a substitute for rail devolution.
+
+4. Crown Estate: transfer of control and economic benefit
+
+He requests devolution of the Crown Estate in Wales.
+
+The stated reasons are:
+
+* Greater democratic accountability for Welsh assets.
+* Welsh priorities determining decisions about Welsh natural resources.
+* Maximising the economic benefits generated by those assets.
+* Supporting investment and communities throughout Wales.
+
+He points to Scotland’s Crown Estate arrangements as evidence that devolution is practicable.
+
+He also acknowledges that the practical implications need work. He identifies the Group on the Future of the Crown Estate in Wales, established to examine the legal, financial, energy, local-government and economic-development dimensions.
+
+He asks the UK Government to engage with that group and agree a path towards devolution as its work progresses. GOV.WALES
+
+5. Funding flexibility and financial fairness
+
+This section contains two immediate requests, as well as a wider fiscal objective.
+
+Request	What he wants
+Wales Reserve	Permanently remove all restrictions on access, bringing Wales into line with Scotland.
+Vacant Land Tax	Progress the transfer of Senedd competence to introduce the tax, beginning with an urgently issued joint consultation with HM Treasury.
+Wider fiscal settlement	Fairer, needs-based funding reflecting Welsh demographic and economic circumstances.
+Borrowing and fiscal powers	Greater and more flexible fiscal and borrowing powers to improve resilience and long-term investment.
+
+He stresses that the Wales Reserve restrictions leave the Welsh Government able to draw down well under 1% of its budget from the reserve in the following financial year.
+
+On the Vacant Land Tax, he says the Welsh Government has been engaging with the UK Government for eight years and wants the joint consultation issued urgently. GOV.WALES
+
+This is important because it shows that his financial requests are not confined to increasing the block grant. He wants greater control over the timing and use of resources, as well as additional tax competence.
+
+6. A Wales Bill: the legislative vehicle for wider reform
+
+The letter proposes a Wales Bill as the most effective way of bringing the reforms together.
+
+He wants early engagement between the governments on its:
+
+* Scope.
+* Timing.
+* Content.
+
+He also identifies additional areas that should be considered in discussions about the Bill:
+
+* Broadcasting.
+* Port regulation.
+* Air Passenger Duty.
+* Energy regulation and pricing.
+* Welfare.
+
+On welfare, he argues that separating reserved welfare policy from devolved services makes it harder to provide coherent, person-centred support.
+
+He uses the Welsh Child Payment pilot, Cynnal, as a practical example. He asks Burnham to ensure that its payments remain exempt from tax and benefit calculations, so families receive their full value. GOV.WALES
+
+Notice the distinction: these additional areas are framed as subjects for further discussion and possible devolution, not all as fully specified immediate transfers.
+
+7. Intergovernmental relations and the UK Internal Market Act
+
+The final section goes beyond the powers being transferred to Wales.
+
+Ap Iorwerth asks for collective discussions involving Wales, Scotland and Northern Ireland on:
+
+* Global events and their consequences.
+* Economic growth.
+* The cost-of-living crisis.
+* The UK–EU relationship.
+* Resilience and community cohesion.
+
+He also specifically calls for:
+
+* Stronger intergovernmental relations.
+* Improvements to the operation of the Sewel Convention.
+* Action to address the negative impact of the UK Internal Market Act on devolved settlements. GOV.WALES
+
+That last point is constitutionally significant. He is asking not only for more powers to be transferred, but also for changes to the rules governing how existing devolved powers operate.
+
+8. The complete request, classified by type
+
+This classification distinguishes the letter’s explicit requests from broader proposals and supporting arguments.
+
+Category	Specific request
+Full devolution	Policing and justice
+Early or staged devolution	Youth justice
+Full devolution	Rail infrastructure
+Full devolution	Crown Estate
+Immediate fiscal change	Remove restrictions on Wales Reserve
+Immediate legislative progress	Vacant Land Tax competence and joint consultation
+Fiscal reform	Fairer needs-based funding, greater fiscal and borrowing powers
+Further devolution discussions	Broadcasting, port regulation, Air Passenger Duty, energy regulation and pricing, welfare
+Legislative programme	Negotiate and introduce a Wales Bill
+Specific welfare safeguard	Protect Cynnal payments from tax and benefit calculations
+Intergovernmental reform	Strengthen Sewel and intergovernmental relations
+Devolution protection	Address the UK Internal Market Act’s effects on devolved settlements
+
+9. What is the underlying constitutional proposition?
+
+I think it is important not to reduce this letter to a list of departmental demands.
+
+There are three connected propositions:
+
+* Parity: Wales should have constitutional and fiscal tools comparable to Scotland.
+* Coherence: powers over interconnected public services should be held together sufficiently to allow Welsh democratic government to coordinate them.
+* Fairness: Wales should have greater control over its resources, a fairer funding settlement and a meaningful role in decisions affecting its economy and communities.
+
+The proposed Wales Bill is the mechanism intended to bring these together.
+
+There is also a notable sentence near the end: the constitutional settlement should ultimately be decided by the people of Wales. That is a statement about the source of constitutional legitimacy, not simply a request for additional administrative powers. GOV.WALES
+
+One correction to our earlier discussion is particularly important: when we assessed Burnham’s response against the four headline areas, we were looking at only part of the original request. The 1 October letter also contains specific demands on the Wales Reserve, Vacant Land Tax, welfare, the Cynnal payment, broadcasting, ports, Air Passenger Duty, energy, Sewel and the UK Internal Market Act.
+
+Those should all be included when judging whether the 20 November response addressed the request as a whole.”.  
+
+
