@@ -10305,3 +10305,1041 @@ My recommendation is to start with the economic and fiscal baseline, but not to 
 
 That gives us a structured research project rather than an argument looking for supporting numbers.”.  
 
+“Fact-check 1: Article 49 TEU — EU accession process and requirements
+
+Verdict: The outline we discussed was broadly correct, but it needs a few legal and procedural refinements.
+
+Article 49 of the Treaty on European Union is the formal treaty route by which a European state can apply to become a member of the EU. It does not provide an automatic route back into membership for a newly independent state, even if that state previously participated in the EU as part of another member state.
+
+The key point is that an independent Wales would need to apply as a state in its own right.### 1.1 What Article 49 actually says
+
+The operative requirements are:
+
+* The applicant must be a European state.
+* It must respect the values in Article 2 TEU and be committed to promoting them.
+* It submits its application to the Council of the EU.
+* The European Parliament and national parliaments are notified.
+* The Council acts unanimously, after:
+    * Consulting the European Commission.
+    * Receiving the European Parliament’s consent, given by a majority of its component members.
+* The eligibility conditions agreed by the European Council must be taken into account.
+* The terms of admission and the necessary adjustments to the EU treaties must be agreed between the applicant and existing member states.
+* That agreement must then be ratified by every contracting state according to its own constitutional requirements. EUR-Lex +1
+
+A useful legal distinction: Article 49 itself does not spell out every administrative stage we normally associate with accession. The candidate-status stage, screening process and detailed negotiations are part of the established enlargement procedure developed around the treaty provision.
+
+1.2 The actual accession stages
+
+The European Commission describes the process in the following sequence:
+
+* Application — the European state submits its application to the Council.
+* Commission opinion — the Commission assesses the application and gives its opinion.
+* Candidate status — member states decide unanimously whether to grant candidate status, following the Commission’s opinion.
+* Opening negotiations — member states must unanimously agree to open accession negotiations.
+* Negotiating framework — the framework governing the negotiations must be agreed.
+* Screening and negotiations — the Commission examines the applicant’s readiness across the relevant areas of EU law and policy.
+* Assessment of readiness — once negotiations have been completed, the Commission assesses whether the country is ready to join.
+* Admission decision — member states decide unanimously on admission, and the European Parliament must give its consent.
+* Accession treaty — the applicant and all existing member states sign and ratify the treaty. EUR-Lex +2
+
+A particularly important point: candidate status does not guarantee that negotiations will open, and opening negotiations does not guarantee membership. There are multiple unanimous political decisions along the way. EUR-Lex +1
+
+1.3 The substantive membership criteria
+
+The Copenhagen criteria are the central framework for assessing whether a candidate is ready to join.
+
+Criterion	What it requires
+Political	Stable institutions guaranteeing democracy, the rule of law, human rights, and respect for and protection of minorities
+Economic	A functioning market economy capable of coping with competitive pressure and market forces within the EU
+Legal and institutional	Ability to take on the obligations of membership, including the aims of political, economic and monetary union
+
+There are also wider considerations, including the EU’s capacity to integrate new members while maintaining the momentum of European integration. European Commission +1
+
+A candidate must also demonstrate that it can actually implement and enforce EU law. This involves more than passing legislation: administrative capacity, judicial institutions, regulatory bodies and effective enforcement all matter. Enlargement and Eastern Neighbourhood +1
+
+1.4 What this means for Wales
+
+We need to be precise about what we can and cannot conclude.
+
+* Wales is geographically a European country.
+* If it became an independent sovereign state, it could seek to apply under Article 49.
+* Its previous experience of EU membership as part of the UK could be relevant to its administrative and regulatory preparation.
+* Its institutions would nevertheless need to demonstrate that they could discharge the responsibilities of an EU member state.
+* The EU institutions and existing member states would assess the application under the applicable accession requirements.
+* Previous participation in the EU would not confer an automatic entitlement to membership or an exemption from the accession procedure.
+
+One point we should leave open rather than assume: Article 49 does not provide a special procedure for a constituent nation becoming independent from a former member state. The precise treatment of a future Welsh application would therefore depend on the circumstances and political decisions at the time.
+
+1.5 Corrections to our earlier wording
+
+Earlier wording	Fact-check adjustment
+“Assessment by the European Commission”	Correct, but distinguish the Commission’s opinion on the application from its ongoing assessment throughout negotiations.
+“Candidate status and accession negotiations”	Correct, but candidate status and the opening of negotiations are separate decisions.
+“Adoption and implementation of the EU acquis”	Correct, but implementation and enforcement capacity are just as important as formal adoption.
+“European Parliament consent”	Correct, but there are distinct parliamentary roles at different stages.
+“Unanimous approval by member states”	Correct. Unanimity is required at important decision points, not merely at the end.
+“Ratification by all relevant parties”	More precisely, ratification by every EU member state and the applicant state, under their respective constitutional requirements.
+
+1.6 Corrected wording for our master document
+
+I would replace the original section with this:
+
+EU accession route: An independent Wales could apply for EU membership under Article 49 of the Treaty on European Union, which permits any European state respecting and committed to promoting the values in Article 2 to apply. The application would be considered through the established EU enlargement procedure. This includes a Commission opinion, a unanimous decision on candidate status, a separate unanimous decision to open negotiations, assessment against the Copenhagen criteria, screening and negotiations on the EU acquis, and a final admission decision requiring unanimous agreement among member states and the consent of the European Parliament. An accession treaty would then need to be signed and ratified by the applicant and every existing member state according to their respective constitutional requirements. Previous participation in the EU as part of the UK could provide Wales with useful administrative and regulatory experience, but would not confer automatic membership or remove the need to satisfy the accession criteria.
+
+Overall assessment: The original account was substantively sound. The main improvement is to make the separate unanimous decisions and the distinction between treaty requirements and established accession practice explicit.
+
+Primary sources
+
+* Article 49 — Treaty on European Union (EUR-Lex)⁠￼.
+* EUR-Lex — Treaty on European Union: Joining the EU⁠￼.
+* European Commission — Steps towards joining⁠￼.
+* European Commission — Enlargement and the Copenhagen criteria⁠￼.
+* European Parliament — Intergovernmental decision-making and Article 49⁠￼.
+
+Fact-check status: Article 49 and the accession criteria — checked against primary EU institutional sources.
+
+The timetable estimates remain unverified: they are scenarios, not legal deadlines or established predictions. We should keep them out of the factual findings until we examine the available precedents and political uncertainties.”.  
+
+“Fact-check 2: Are the 2–4, 4–7 and 8–10-year accession scenarios defensible?
+
+Verdict: They are defensible as broad illustrative scenarios, but not as evidence-based forecasts for Wales. The shorter end is possible only under unusually favourable conditions; the longer ranges are more consistent with the time taken by many recent applicants. There is no treaty timetable requiring the EU to complete accession within a particular number of years.
+
+We should also specify what the clock measures. “Years after independence” is not the same as “years after an application”: Wales could do preparatory work before independence, but could not apply as an independent state until it existed as one.### 2.1 What historical examples tell us
+
+The examples are useful, but they need to be compared carefully. They measure different things: time from application, time from independence, time in negotiations, or time to actual membership.
+
+Country	Relevant timeline	What it tells us
+Finland	Applied March 1992; joined 1 January 1995	A relatively rapid accession, approximately 2 years 9 months from application
+Croatia	Applied February 2003; joined 1 July 2013	Approximately 10 years from application to membership
+Montenegro	Independent in 2006; applied December 2008; candidate December 2010; negotiations opened June 2012	Independence did not lead to rapid accession; it remains a candidate in November 2026
+Albania	Applied April 2009; candidate June 2014; negotiations opened July 2022	Political and institutional obstacles can create long delays
+
+Sources: European Commission and Council records for Finland’s accession⁠￼, Croatia⁠￼, Montenegro⁠￼ and Albania⁠￼. Audiovisual Service +3
+
+There are important differences between these cases:
+
+* Finland was already a well-established sovereign state, with mature democratic institutions and substantial existing European economic integration. It is a useful example of how quickly accession might proceed when a country is highly prepared, but not a direct model for a newly independent Wales.
+* Croatia faced the additional circumstances of post-Yugoslav state-building, war-related issues and reconstruction. Its ten-year application-to-membership period is a useful example of a longer accession.
+* Montenegro is particularly relevant because it became independent and subsequently applied to join the EU. Its experience demonstrates that independence can be followed by a lengthy accession process.
+* Albania illustrates how reforms and political decisions by existing member states can delay progress even after an application has been submitted.
+
+The historical examples do not establish a reliable average for Wales. Finnish Government +3
+
+2.2 Assessing our three scenarios
+
+Scenario A: 2–4 years after independence
+
+Highly optimistic
+
+Possible in principle, but it would require an unusually favourable combination of circumstances:
+
+* Welsh independence negotiations already completed or substantially advanced.
+* A clear and internationally accepted constitutional settlement.
+* Welsh institutions ready to perform all sovereign-state functions.
+* Extensive continuity with EU legislation and regulatory standards.
+* Strong administrative capacity to implement and enforce EU law.
+* No substantial unresolved questions about borders, trade or institutional responsibilities.
+* Unanimous political support among EU member states.
+* A relatively uncomplicated accession negotiation.
+
+Finland provides evidence that a rapid accession can happen, but Wales would not automatically inherit Finland’s starting conditions.
+
+My assessment: Retain this only as an exceptional fast-track possibility, not a realistic central expectation.
+
+Scenario B: 4–7 years after independence
+
+Ambitious
+
+This is more defensible as an optimistic planning scenario.
+
+It would allow time for:
+
+* Establishment of sovereign institutions.
+* Completion of constitutional and administrative arrangements.
+* EU application and assessment.
+* Candidate status.
+* Accession negotiations.
+* Implementation of outstanding EU requirements.
+* Political agreement and ratification.
+
+However, it still assumes considerable preparation and political cooperation. It is not a timetable that we can substantiate from the historical cases.
+
+My assessment: Retain as an ambitious scenario, explicitly conditional on extensive pre-independence preparation and favourable EU politics.
+
+Scenario C: 8–10 years or longer after independence
+
+More defensible as a planning scenario
+
+This is more consistent with the experience of countries that have encountered substantial accession work or political delays.
+
+Croatia took approximately ten years from application to membership. Montenegro demonstrates that the process can take considerably longer.
+
+Even this scenario should not be treated as an upper limit.
+
+My assessment: Retain, but explicitly allow for ten years or more. There is no reliable basis for assuming that ten years would be sufficient.
+
+2.3 The important variable: what happens before independence?
+
+This is where the Welsh case could differ significantly from some historical examples.
+
+Wales already has:
+
+* A devolved legislature and government.
+* A substantial public administration.
+* A legal and regulatory system.
+* Experience administering EU-derived policy.
+* Established relationships with European institutions.
+* Existing businesses and institutions operating within European regulatory and commercial frameworks.
+
+But it does not currently have all the institutions and responsibilities of an independent state.
+
+Preparation before independence could address:
+
+* A Welsh constitutional settlement.
+* Sovereign public-finance arrangements.
+* Independent regulatory and judicial capacity.
+* Customs and border administration.
+* Immigration and external affairs.
+* EU acquis mapping.
+* Public procurement and state-aid arrangements.
+* Agricultural and environmental regulatory alignment.
+* International treaty obligations.
+
+This could reduce the amount of work required after independence.
+
+However, there is a difference between preparing for accession and being legally able to apply. The application under Article 49 would be made by the independent state.
+
+2.4 What I would change in our original document
+
+I would replace the earlier timetable with this more defensible wording:
+
+Indicative accession timescales: There is no fixed treaty timetable for EU accession. Historical examples demonstrate substantial variation. Finland joined approximately two years and nine months after applying, whereas Croatia took approximately ten years from application to membership. Montenegro, which became independent in 2006, applied in 2008 and opened accession negotiations in 2012, but remains outside the EU in November 2026. These examples cannot be treated as direct predictions for Wales.For planning purposes, a Welsh accession within 2–4 years of independence should be regarded as an exceptional, highly optimistic scenario. A 4–7-year period could be considered an ambitious scenario if substantial institutional and regulatory preparation had taken place before independence and political conditions were favourable. An 8–10-year or longer period is a more cautious planning scenario, although accession could take considerably longer or be delayed indefinitely. The timing would depend on Welsh preparedness, the complexity of negotiations and unanimous political agreement among existing member states.
+
+2.5 Final assessment
+
+Original scenario	Assessment	Recommendation
+2–4 years	Possible but exceptional	Keep as fast-track illustration
+4–7 years	Ambitious, conditional	Keep as optimistic planning scenario
+8–10+ years	More cautious, but not a ceiling	Keep as longer planning scenario
+
+One further correction: We should avoid describing 4–7 years as the most likely outcome. We have not established enough evidence to make that prediction. The historical record is too variable, and the Welsh constitutional starting point is unusual.
+
+The proper conclusion is that Wales could potentially prepare for a relatively rapid application, but neither independence nor previous EU participation guarantees rapid accession.
+
+Fact-check status: historical comparisons checked against EU institutional and national government sources. The Welsh timescales remain illustrative scenarios, not statistically derived forecasts.
+
+My recommendation is to retain the three scenarios with the revised qualifications above, rather than invent a more precise forecast.”.  
+
+“Fact-check 3: Is there a direct precedent for Welsh accession following UK withdrawal from the EU?
+
+Core claim supported, with a qualification
+
+Verdict: The statement is accurate if we define the scenario precisely. There is no established direct precedent for a devolved territory of a former EU member state becoming independent after that parent state has left the EU, and then seeking EU membership in its own right.
+
+There are, however, several related historical examples. They are useful comparisons, but none reproduces the Welsh circumstances.
+
+3.1 The closest comparisons
+
+Example	What happened	Why it is not a direct precedent
+Scotland (hypothetical)	Considered independence while the UK was still an EU member	Scotland did not become independent; the UK subsequently left the EU.
+Algeria (1962)	Became independent from France while Algeria was within the territorial scope of the European Economic Community	Algeria’s colonial relationship with France was constitutionally and politically different. It did not become an independent EU member through accession.
+Greenland (1985)	Left the European Communities while remaining part of the Kingdom of Denmark	Greenland did not become an independent sovereign state.
+Czech Republic and Slovakia (1993)	Became independent following the dissolution of Czechoslovakia, subsequently applying separately for EU membership	Czechoslovakia was not an EU member state when it dissolved.
+Slovenia and Croatia	Became independent following the dissolution of Yugoslavia and subsequently joined the EU	Yugoslavia was not an EU member state.
+German reunification (1990)	The former East Germany became part of the Federal Republic of Germany, which was already an EEC member	This was reunification within an existing member state, not the accession of a newly independent state.
+
+The comparisons are supported by parliamentary evidence and academic analysis of territorial separation and EU membership. Cambridge University Press +3
+
+3.2 The particularly relevant EU Commission statement
+
+There is an important primary-source document here.
+
+In March 2004, the European Commission answered a parliamentary question about what would happen if part of an EU member state’s territory became independent.
+
+Commission President Romano Prodi’s response was that:
+
+* EU treaties apply to member states.
+* If a territory ceases to be part of a member state because it becomes independent, the treaties cease to apply to that territory.
+* The newly independent state would become a third country in relation to the EU.
+* It could then apply for membership under Article 49.
+* Admission would require agreement on the conditions of membership and treaty adjustments, followed by ratification by all member states and the applicant.
+
+This is unusually relevant to the Welsh question. EUR-Lex
+
+There is an important legal qualification: this is an official Commission position expressed in a parliamentary answer, not a judgment of the Court of Justice resolving every possible form of state succession.
+
+3.3 The Scotland debate
+
+Before Brexit, Scotland’s potential independence generated extensive legal and political discussion about whether it could:
+
+* Remain within the EU without interruption.
+* Negotiate an accession arrangement before independence.
+* Apply through Article 49 after independence.
+* Obtain some specially negotiated transitional arrangement.
+
+There was no agreed, tested procedure establishing that an independent Scotland could automatically retain EU membership.
+
+The House of Commons Library explicitly identified the absence of a precedent for a devolved part of an EU member state becoming independent and determining its own EU membership. House of Commons Library +1
+
+The later Brexit decision changed the starting conditions. An independent Wales would not be separating from an EU member state: it would be separating from the United Kingdom after the UK’s withdrawal.
+
+That makes the Welsh scenario different from the pre-Brexit Scottish debate.
+
+3.4 What we can safely conclude
+
+There are three distinct propositions:
+
+* There is no direct precedent for the precise Welsh scenario. Supported.
+* There are historical examples of territories becoming independent from other states and subsequently joining the EU. Supported, but those examples are not directly equivalent.
+* The EU would necessarily refuse a special transitional or negotiated arrangement for Wales. Not established. The absence of a precedent does not prove that such an arrangement is legally or politically impossible.
+
+The third point matters. We should not turn the absence of a precedent into an assertion that every aspect of a future Welsh accession process is already legally settled.
+
+3.5 Corrected wording for our master document
+
+I suggest:
+
+Absence of a direct precedent: There is no established precedent for a devolved territory of a former EU member state becoming independent after that state’s withdrawal from the EU and subsequently seeking membership in its own right. Earlier debates about Scottish independence took place while the UK was still an EU member, and therefore involved different circumstances. Other relevant examples, including Algeria, Greenland, the dissolution of Czechoslovakia and Yugoslavia, and German reunification, differ materially in their constitutional and international-law circumstances. The European Commission stated in 2004 that a territory becoming independent from an EU member state would cease to be covered by the EU treaties and would need to apply under Article 49. That statement is relevant institutional guidance, but does not settle every possible negotiated arrangement for a future Welsh application.
+
+Sources
+
+* European Commission, parliamentary answer of 1 March 2004 — newly independent territories and EU membership⁠￼.
+* House of Commons Library — Brexit: what happens next? (Scotland and EU membership)⁠￼.
+* European Constitutional Law Review — Secession from a Member State and EU Membership: The View from the Union⁠￼.
+* UK Government legal opinion — Scottish independence and international law⁠￼.
+* Stephen Tierney — Legal Issues Surrounding the Referendum on Independence for Scotland⁠￼.
+
+Fact-check status: the absence of a direct precedent is supported by parliamentary and academic sources. The exact future legal treatment of a Welsh application remains unsettled.
+
+One distinction worth carrying into the next stages: the legal route to membership, the political willingness of EU member states to admit Wales, and the possibility of transitional arrangements are three separate questions. We should keep them separate throughout the research.”.  
+
+“Fact-check 4: Current ownership and precise area of Sennybridge Training Area
+
+Main figures confirmed; small discrepancies in published figures
+
+Verdict: The earlier description was broadly correct, but we should update the figures and be more precise about the landholding arrangements.
+
+4.1 How much land does Sennybridge cover?
+
+The published figures are:
+
+Landholding	Area	Status
+Ministry of Defence freehold	Approximately 12,400–12,500 hectares	Owned by the MOD
+Forestry land	Approximately 2,400–2,500 hectares	Leased by the MOD
+Combined training area	Approximately 14,800–15,000 hectares	Freehold plus leased land
+
+Sources include:
+
+* An MOD publication giving 12,400 hectares freehold and 2,500 hectares leased. GOV.UK Assets
+* An MOD training-area briefing giving approximately 12,500 hectares. app-cdn.sportity.com
+* The Royal Commission on the Ancient and Historical Monuments of Wales (RCAHMW), which records approximately 12,000 hectares of MOD freehold and 2,500 hectares of forested land. Coflein
+
+The differences appear to reflect rounding and differences between published descriptions. We should not claim a surveyed boundary total accurate to the nearest hectare.
+
+4.2 Who owns the land?
+
+There are two distinct holdings.
+
+A. MOD freehold
+
+* Approximately 12,400–12,500 hectares.
+* Acquired by the Ministry of Defence in 1939.
+* The MOD holds the freehold.
+* This is the principal Mynydd Epynt training estate.
+
+B. Leased forestry land
+
+* Approximately 2,400–2,500 hectares.
+* The MOD leases this land for training.
+* The current GOV.UK description identifies the lessor as Natural Resources Wales (NRW). GOV.UK +1
+
+This distinction matters: the MOD does not own the entire training area outright.
+
+Natural Resources Wales is the public body responsible for managing the Welsh Government Woodland Estate. Its role as lessor should not be confused with ownership of the MOD freehold.
+
+4.3 An important source discrepancy
+
+There is a problem with the current GOV.UK page.
+
+Its Sennybridge description, updated on 16 March 2026, states:
+
+* 125,000 hectares of MOD freehold land.
+* 2,400 hectares leased from NRW. GOV.UK
+
+The 125,000-hectare figure is inconsistent with the MOD’s own other published descriptions, which put the freehold at approximately 12,400–12,500 hectares.
+
+It is also inconsistent with the historic 12,000-hectare description from RCAHMW.
+
+I would treat the 125,000-hectare figure as an apparent tenfold transcription error, not as a genuine change in the training area’s size.
+
+This is worth recording in our research notes rather than silently reproducing it.
+
+4.4 What is the land used for?
+
+The area is not simply an open military estate.
+
+It contains:
+
+* A controlled impact area.
+* Live-fire facilities.
+* Dry training areas.
+* Artillery training facilities.
+* Infantry training facilities.
+* Woodland.
+* Moorland and upland habitats.
+* Archaeological sites.
+* Areas of communal grazing.
+
+The MOD’s published description also identifies approximately 1,500 hectares of woodland within the training area. GOV.UK Assets
+
+RCAHMW describes the wider area as a major live-fire training landscape on Mynydd Epynt. Coflein
+
+4.5 What we can say about ownership in a Welsh independence scenario
+
+This is where we need to be careful not to jump from current ownership to a hypothetical constitutional outcome.
+
+Established facts:
+
+* The MOD owns the freehold of the principal estate.
+* The MOD leases additional forestry land.
+* Both holdings are geographically within Wales.
+* The MOD’s landholding does not make the territory sovereign British territory.
+
+Questions that would need to be addressed in an independence settlement:
+
+* Would the MOD retain its freehold?
+* Would the freehold be transferred, purchased or otherwise dealt with under an agreed settlement?
+* Would existing leases continue?
+* Would NRW continue as landlord of the forestry estate?
+* Would the UK retain training rights under a separate defence agreement?
+* What planning, environmental and operational jurisdiction would apply?
+
+We cannot assume that independence automatically transfers the MOD’s property to Wales. Equally, we cannot assume that British ownership automatically guarantees continuing military access.
+
+4.6 Corrected wording for our master document
+
+Sennybridge Training Area: The training area on Mynydd Epynt covers approximately 14,800–15,000 hectares, comprising around 12,400–12,500 hectares of Ministry of Defence freehold land and approximately 2,400–2,500 hectares of additional forestry land leased by the MOD, currently identified by GOV.UK as land leased from Natural Resources Wales. The principal estate was acquired for military use in 1939. Published figures vary slightly, and a GOV.UK page updated in March 2026 appears to contain a tenfold error in its freehold-area figure, stating 125,000 rather than approximately 12,500 hectares. The MOD’s freehold ownership and its leasehold rights must be distinguished from sovereignty over the territory. Any future Welsh independence settlement would need to address property, leases, access and defence-use arrangements separately.
+
+Sources
+
+* MOD — Access Opportunities on the Defence Estate: Sennybridge⁠￼.
+* GOV.UK — Wales: public access to military areas (updated March 2026)⁠￼.
+* RCAHMW — Sennybridge Military Training Area site record⁠￼.
+* MOD — Sennybridge Training Area briefing notes⁠￼.
+
+Fact-check status: area and broad ownership split established from published MOD and Welsh public-body material. Exact current title boundaries and individual lease terms have not been independently verified against Land Registry records.
+
+Research note: The apparent 125,000-hectare error is itself worth retaining in the audit trail. It illustrates why we should compare official sources rather than assume that the latest webpage necessarily contains the most accurate figure.”.  
+
+“Fact-check 5: Current functions and capabilities of RAF Valley
+
+Scope: RAF Valley, Anglesey, Wales, as at November 2026.
+
+The key distinction is that RAF Valley is not simply an airfield where fast jets are based. It is a specialist military flying-training station, with a training system, aircraft, instructors, simulators, engineering support and access to designated training airspace.
+
+I’ll separate its established functions from the wider strategic significance we might infer from them.### 5.1 Principal function: No. 4 Flying Training School
+
+RAF Valley is home to No. 4 Flying Training School (4 FTS). Its principal role is training RAF and Royal Navy pilots for the fast-jet stream. Royal Air Force +1
+
+The training pipeline has several distinct elements:
+
+Basic fast-jet training — Texan T1
+
+* Operated by 72 Squadron.
+* Develops basic flying skills for students selected for fast-jet training.
+* Prepares pilots for advanced jet training on the Hawk.
+    Royal Air Force +1
+
+Advanced fast-jet training — Hawk T2
+
+* Operated by IV and XXV(F) Squadrons.
+* Provides advanced jet-flying instruction.
+* Includes tactical and weapons training.
+* Prepares pilots to progress to operational aircraft such as Typhoon and F-35.
+    Royal Air Force +2
+
+The RAF’s own description identifies the Hawk T2 as an advanced trainer with synthetic radar and electronic-warfare simulation capabilities. It is a training aircraft, not an operational fighter squadron in its own right. Royal Air Force
+
+5.2 Helicopter and maritime/mountain aircrew training
+
+RAF Valley also has an important rotary-wing training role.
+
+* 202 Squadron is based at RAF Valley.
+* It provides mountain, maritime and search-and-rescue training for helicopter aircrew.
+* It operates:
+    * Juno HT1 (Airbus H135).
+    * Jupiter HT1 (Airbus H145).
+* Training prepares crews for operations in demanding environments, including mountain and maritime conditions.
+* The aircraft and training system support RAF, Royal Navy and Army aircrew training through the wider UK Military Flying Training System. Royal Air Force +2
+
+This is an important additional capability. RAF Valley is not exclusively a fixed-wing fast-jet training establishment.
+
+5.3 RAF Mountain Rescue Service
+
+RAF Valley is also home to the headquarters of the RAF Mountain Rescue Service.
+
+Its responsibilities include:
+
+* High-readiness search and rescue.
+* Aircraft post-crash and incident management.
+* Deployment in difficult terrain and adverse weather.
+* Support to military aviation operations.
+* Assistance to civilian emergency services when required.
+
+There are three RAF Mountain Rescue teams, based at:
+
+* RAF Valley.
+* RAF Leeming.
+* RAF Lossiemouth.
+
+The headquarters at Valley coordinates and allocates taskings across the teams. Royal Air Force +2
+
+Important distinction: this is principally a ground-based military mountain-rescue and aircraft-incident response capability. It should not be confused with the former RAF helicopter search-and-rescue stations that operated dedicated rescue helicopters.
+
+5.4 Training infrastructure and technological capability
+
+RAF Valley’s importance is not limited to the aircraft themselves.
+
+* It has specialist training infrastructure for the Texan and Hawk pipelines.
+* A £175 million MOD investment in basic flying training included expanded facilities, additional training capacity and simulator infrastructure.
+* A 2023 building extension provided additional classrooms, briefing facilities and simulator accommodation.
+* In April 2026, the RAF announced upgrades to 11 Texan and Hawk training devices using mixed-reality technology.
+* These upgrades allow students to practise circuits, formation flying and low-level navigation in simulated environments before flying live sorties.
+* The RAF stated that the programme could save up to £4 million annually in training costs. Royal Air Force +2
+
+This means that relocating the function would involve more than moving aircraft. It would require reproducing the training system, facilities, instructors, simulators, technical support and operating arrangements.
+
+5.5 Airfield and geographical characteristics
+
+RAF Valley’s location on Anglesey is relevant to its operational training role.
+
+* It is situated close to the Irish Sea.
+* It supports training in maritime as well as inland environments.
+* The RAF operates night flying training when required.
+* The station’s flying information identifies RAF Valley and RAF Mona as protected military aerodromes with permanent flight-restriction zones. Royal Air Force
+
+RAF Mona, also on Anglesey, operates as a relief landing ground for RAF Valley. This provides an additional airfield facility associated with Valley’s training operations. Mona Flying Club +1
+
+5.6 What RAF Valley is not
+
+For our strategic assessment, these distinctions are important:
+
+* It is not currently a front-line Typhoon or F-35 operational combat base.
+* It does not operate an operational fast-jet fighter squadron in the same sense as RAF Coningsby or RAF Lossiemouth.
+* Its Hawk T2 aircraft are advanced training aircraft, not substitutes for front-line combat aircraft.
+* Its mountain rescue function is not equivalent to maintaining a fleet of operational search-and-rescue helicopters.
+* Its helicopter training role is separate from its fast-jet training role.
+
+This avoids overstating its military function while recognising its importance.
+
+5.7 What would the UK need to replace if access to RAF Valley were lost?
+
+The UK would need to consider several distinct capabilities.
+
+Capability	What would need to be replaced
+Basic fast-jet training	Texan aircraft, instructors, training facilities and operating capacity
+Advanced fast-jet training	Hawk T2 aircraft, tactical training, weapons instruction and supporting infrastructure
+Helicopter training	Juno/Jupiter aircraft operations and mountain/maritime training environment
+Mountain rescue	Valley-based team and headquarters functions
+Airfield capacity	Runways, maintenance, air-traffic control, engineering and support infrastructure
+Training geography	Access to suitable airspace, coastal environment and training areas
+
+Some of these functions could potentially be relocated to existing UK bases. But that would not establish that equivalent capacity was immediately available.
+
+We should not yet put a monetary replacement cost on this. We would need to establish:
+
+* Which functions could move to existing facilities.
+* Whether those facilities have spare capacity.
+* What additional aircraft or infrastructure would be required.
+* Whether training throughput would be reduced during relocation.
+* What operational or financial consequences would follow.
+
+5.8 Corrected wording for our master document
+
+RAF Valley: RAF Valley on Anglesey is a specialist military flying-training station and a significant component of the UK’s Military Flying Training System. It houses No. 4 Flying Training School, including 72 Squadron, which provides basic fast-jet training using the Texan T1, and IV and XXV(F) Squadrons, which provide advanced fast-jet and tactical training using the Hawk T2. The station also supports helicopter aircrew training through 202 Squadron, operating Juno HT1 and Jupiter HT1 helicopters for mountain, maritime and search-and-rescue training. RAF Valley additionally houses the headquarters of the RAF Mountain Rescue Service, which coordinates three high-readiness teams and provides military search-and-rescue and aircraft post-crash response capabilities. Its importance therefore extends beyond the airfield itself to specialist training systems, instructors, simulators, aircraft support, airspace and geographical training conditions. It is not, however, a front-line operational fighter base.
+
+Sources
+
+* RAF — RAF Valley station overview⁠￼.
+* RAF — 72 Squadron⁠￼.
+* RAF — IV Squadron⁠￼.
+* RAF — XXV(F) Squadron⁠￼.
+* RAF — 202 Squadron⁠￼.
+* RAF — Mountain Rescue Service⁠￼.
+* RAF — Mixed-reality training investment, April 2026⁠￼.
+* Defence Equipment and Support — UK Military Flying Training System investment⁠￼.
+
+Fact-check status: current station functions and listed aircraft verified against RAF material available in November 2026. Exact aircraft numbers, annual training throughput, spare capacity and replacement costs have not yet been established.
+
+The important addition to our wider Wales analysis: RAF Valley is not just a piece of military real estate. It is a functioning training and specialist-response system. Its strategic value therefore includes the institutional and operational capability concentrated there, not simply the value of its land and runways.”.  
+
+also a v nice and v cute bit of wales fwiw.  
+
+“Fact-check 6: Which British training areas could substitute for Sennybridge?
+
+The answer is: several could absorb particular parts of Sennybridge’s training programme, but the evidence does not establish a single like-for-like replacement.
+
+The most relevant alternatives are Otterburn, Dartmoor, Catterick, Warcop and Salisbury Plain. Their suitability depends on the type and scale of training being relocated.
+
+There is an important distinction here: a training area that can host infantry exercises is not necessarily capable of replacing Sennybridge’s combination of upland terrain, live firing, artillery and infantry training, built-up training facilities and available training space.
+
+6.1 What exactly would need replacing?
+
+Sennybridge provides a combination of:
+
+* Upland and rugged terrain for infantry field training.
+* Live-fire training.
+* Artillery and infantry weapons training.
+* Mortar and anti-tank weapons training.
+* Tactical exercises.
+* Training in a built-up environment, including its FIBUA village.
+* Space for larger collective exercises.
+
+The Welsh heritage record describes the Mynydd Epynt area as a major live-fire landscape, with infantry now its predominant users. Coflein +1
+
+The MOD’s 2007 training-estate assessment explicitly categorised Sennybridge as a site for Phase 3 infantry training, while identifying other sites for different training functions. That document is old, so it is useful for understanding the historical division of roles, not proof of current spare capacity. GOV.UK Assets
+
+6.2 The principal alternatives
+
+1. Otterburn Training Area
+
+Strong functional alternative
+
+* More than 22,000 hectares.
+* Largest single live-firing range in the UK, according to the MOD.
+* Upland terrain in the Cheviot foothills.
+* Used for artillery and infantry training.
+* Approximately 30,000 soldiers train there annually.
+
+Assessment: One of the strongest candidates for absorbing some of Sennybridge’s infantry and artillery activity. Its scale is an advantage, although its terrain, existing commitments and available capacity would need examination. GOV.UK +1
+
+2. Dartmoor Training Area
+
+Strong terrain alternative
+
+* Approximately 11,000 hectares used by the MOD.
+* Upland moorland and exposed terrain.
+* Okehampton, Merrivale and Willsworthy ranges support live firing and training on foot.
+* Additional dry-training areas support tactical exercises.
+
+Assessment: A relevant alternative for light infantry, dismounted training and challenging upland conditions. It is not an equivalent replacement for every Sennybridge capability. Its National Park location and environmental constraints also matter. GOV.UK +2
+
+3. Catterick Training Area
+
+Partial alternative
+
+* Established Army training area.
+* Located on the eastern edge of the Yorkshire Dales.
+* Catterick also houses the Infantry Training Centre, which delivers infantry recruit training.
+* The MOD’s older training-estate assessment identifies it for Phase 2 infantry training and mechanised-unit training.
+
+Assessment: Could absorb some infantry training and associated activities. However, the Infantry Training Centre’s recruit-training function should not be confused with replacing Sennybridge’s larger collective field-training role. GOV.UK +2
+
+4. Warcop Training Area
+
+Partial alternative
+
+* Approximately 9,700 hectares.
+* Located in the North Pennines.
+* Includes upland terrain and a live-firing range complex.
+* Used by regular and reserve units.
+* The older MOD assessment identifies it for Phase 2 infantry training.
+
+Assessment: Could absorb some upland and infantry training, but its smaller area and designated environmental land make it inappropriate to assume that it could take over Sennybridge’s whole programme. GOV.UK +1
+
+5. Salisbury Plain Training Area
+
+Different but important alternative
+
+* Just over 38,000 hectares.
+* Major collective training area.
+* Supports large field exercises, tactical engagement simulation and armoured/mechanised manoeuvre.
+* Has extensive live-firing facilities.
+
+Assessment: Could absorb some larger-scale field exercises and other collective training. But its open chalk downland is not a like-for-like substitute for Sennybridge’s upland terrain and training environment. GOV.UK +1
+
+6.3 What about the built-up training village?
+
+This is a useful distinction because it prevents us from treating every facility at Sennybridge as irreplaceable.
+
+* Sennybridge has a recognised FIBUA training village.
+* The MOD has identified numerous other facilities for training in fighting in built-up areas.
+* A 2017 parliamentary answer listed Catterick, Warcop, Stanford, Caerwent, Longmoor, Pirbright, Swynnerton and other sites among the facilities available for this type of training.
+* A 2019 parliamentary answer also listed Sennybridge alongside Salisbury Plain, Dartmoor, Catterick, Warcop and other sites routinely used for urban training. UK Parliament +1
+
+Therefore:
+
+* The urban-training function is not exclusive to Sennybridge.
+* Some of it could be distributed elsewhere.
+* The question would be whether other sites had enough capacity, appropriate facilities and available training time.
+
+6.4 Geographical comparison
+
+The locations help show why there is no simple replacement immediately beside Sennybridge.
+
+The geographical consequences of moving training include:
+
+* Longer journeys for some units.
+* Additional transport and accommodation costs.
+* More pressure on the receiving training areas.
+* Potential competition for firing slots and exercise periods.
+* Changes to the relationship between barracks, training schools and training grounds.
+
+6.5 The biggest issue: spare capacity
+
+This is where the evidence becomes less complete.
+
+A Ministry of Defence assessment published in 2007 made several relevant observations:
+
+* The main UK training areas had substantial competing demands.
+* Their use was constrained by environmental designations, legislation and firing restrictions.
+* The assessment described sites as operating at or near full capacity.
+* It warned that lost training capacity from disposing of or reducing the utility of existing training areas could not easily be absorbed or replaced. GOV.UK Assets
+
+However, that is a 2007 assessment, not a measurement of spare capacity in November 2026.
+
+We cannot use it to claim that every alternative is currently full. Nor can we assume that spare capacity exists.
+
+To establish current substitutability, we would need:
+
+* Current annual utilisation of each training area.
+* Existing training commitments and priority bookings.
+* Available firing days and restrictions.
+* Capacity for different unit sizes.
+* Facilities for artillery, mortars and infantry weapons.
+* Availability of built-up training facilities.
+* Transport and accommodation capacity.
+* Any additional investment required.
+
+6.6 Overall findings
+
+Sennybridge function	Potential alternative(s)	Substitution assessment
+Upland infantry training	Otterburn, Dartmoor, Warcop	Some functional substitution
+Artillery and infantry live firing	Otterburn	Strongest identified alternative for overlapping roles
+Large collective field exercises	Salisbury Plain	Possible, but different terrain and training emphasis
+Infantry training	Catterick, Warcop, Dartmoor	Partial; depends on training phase and exercise type
+Built-up training	Catterick, Salisbury Plain, Stanford and other sites	Distributed substitution possible
+Combined Sennybridge training package	Several sites together	No demonstrated single-site replacement
+
+6.7 Corrected wording for our master document
+
+Alternative UK training areas: The UK has several other military training areas that could absorb parts of Sennybridge’s training programme, including Otterburn, Dartmoor, Catterick, Warcop and Salisbury Plain. Their capabilities overlap with Sennybridge in different ways: Otterburn offers extensive upland live-firing and artillery/infantry training; Dartmoor provides demanding upland and light-infantry training; Catterick and Warcop support infantry training; and Salisbury Plain provides extensive facilities for large collective and mechanised exercises. Built-up training is also available at multiple other sites. However, none has been demonstrated to provide a complete like-for-like replacement for Sennybridge’s combination of terrain, live firing, infantry and artillery facilities, training infrastructure and scale. The MOD’s 2007 assessment warned that existing training capacity could not easily be absorbed or replaced, but current utilisation and spare capacity at alternative sites have not yet been established. Any replacement would therefore need to be assessed as a distributed programme, with associated costs, travel, scheduling, infrastructure and training-capacity implications.
+
+Sources
+
+* MOD — The Defence Training Estate⁠￼.
+* MOD — North England military training areas⁠￼.
+* MOD — South West England military training areas⁠￼.
+* MOD — The Need for Military Training on Defence Training Estate South West (2007)⁠￼.
+* House of Commons — Army facilities for urban training (2017)⁠￼.
+* British Army — Infantry Training Centre Catterick⁠￼.
+* RCAHMW — Sennybridge Training Area⁠￼.
+
+Fact-check status: alternative locations and overlapping functions established. Current spare capacity, precise replacement costs and the feasibility of transferring Sennybridge’s complete training programme remain unverified.
+
+The important correction to our earlier discussion: It is reasonable to say that the UK could redistribute some training currently conducted at Sennybridge. It is not yet justified to say that it could replace Sennybridge without significant cost or loss of capability. Those are different claims, and the second requires a much more detailed MOD capacity assessment.”.  
+
+“Fact-check 7: Actual replacement costs and timescales for Sennybridge
+
+Verdict: I cannot identify a published, current MOD estimate for replacing Sennybridge Training Area in its entirety. That means we should not attach a confident monetary figure or completion date to its replacement.
+
+There is, however, a useful distinction between three different propositions:
+
+* Redistributing some exercises to other training areas.
+* Replacing particular facilities or capabilities, such as a firing range or built-up training village.
+* Replacing the complete training function: the land, terrain, firing capacity, infrastructure, environmental permissions and available training time.
+
+The first two may be achievable without recreating Sennybridge. The third is a much larger undertaking. I’ll keep those separate rather than present the cost of one facility as the cost of replacing the whole training area.
+
+7.1 What the available evidence tells us
+
+A. The MOD has previously identified serious constraints on replacing large training areas.
+
+A particularly relevant MOD study, The Need for Military Training on Defence Training Estate South West, dated August 2007, contains unusually direct evidence.
+
+It found that:
+
+* The MOD did not envisage major acquisitions of new training land.
+* A search for a suitable 13,700-hectare site elsewhere in mainland Britain, after excluding environmentally or otherwise constrained land, failed to identify a suitable location.
+* The study assessed the major UK training areas as operating at or near full capacity, once restrictions were taken into account.
+* It concluded that training lost through disposal or reduction of existing training areas could not easily be absorbed or replaced. GOV.UK Assets +1
+
+It also described Sennybridge as the UK’s principal light-force training area at the time, capable of supporting brigade-level exercises and seven concurrent live-fire company exercises. It recorded utilisation above 70% in 2007. GOV.UK Assets
+
+Important qualification: these are historical figures, not current utilisation statistics. The study is useful evidence of the structural difficulty of replacing large training landscapes, but it cannot establish today’s spare capacity or prove that a replacement is impossible.
+
+B. The MOD’s more recent defence review acknowledges wider infrastructure problems.
+
+The 2025 Strategic Defence Review says that defence infrastructure has been serially underfunded and that capability planning has often failed to account adequately for infrastructure requirements and costs.
+
+It recommends a ten-year infrastructure recapitalisation plan identifying investment priorities, estimated costs and provisional delivery timelines. GOV.UK +1
+
+That is relevant context: replacing Sennybridge would be competing with an existing programme of defence infrastructure renewal. It would not be starting with an unlimited budget and an empty estate.
+
+7.2 What can we use as actual cost benchmarks?
+
+There are some published examples of individual training infrastructure projects.
+
+Project	Published cost	What it tells us
+Copehill Down urban-training improvements, 2015	Over £500,000	Enhancing an existing training village can cost hundreds of thousands
+Herontree North firing range, Catterick, 2014	Multi-million pounds	A new specialist firing range is a substantial infrastructure project
+New trench infrastructure across Salisbury Plain and Stanford, 2026	Over £4.4 million	Modern battlefield training infrastructure can require multi-million-pound investment
+
+Sources: GOV.UK +2
+
+The Catterick project was delivered in just over 18 months. That is a useful construction benchmark, but it concerns two 600-metre electronic target ranges, not a replacement for a major training estate. GOV.UK +1
+
+Do not extrapolate these figures
+
+None of these projects gives us a defensible cost per hectare for replacing Sennybridge. Nor can we multiply the cost of a firing range by the number of ranges and call the result a replacement estimate.
+
+The largest costs may instead arise from land, environmental constraints, infrastructure, additional capacity and the need to maintain training continuity.
+
+7.3 What about the cost of the existing training estate?
+
+There is another figure that could easily be misused.
+
+A 2023 parliamentary answer gave the projected whole-life cost of the MOD’s national Training Estate Support contract as £728 million. This was the cost of the national support contract, not the cost of operating Sennybridge alone and certainly not the cost of replacing it. The contract was scheduled to end in November 2030, with extension provisions. UK Parliament
+
+Similarly, the £5.1 billion Defence Estate Optimisation programme is a much wider investment portfolio, not a Sennybridge replacement budget. GOV.UK
+
+These figures are useful for understanding the scale of defence-estate management, but should not be included in a Sennybridge replacement-cost calculation.
+
+7.4 What timescale could we responsibly put on replacement?
+
+I would separate the timescale into four stages.
+
+Stage	What it involves	What we can say
+Immediate redistribution	Rebook some exercises at existing sites	Could begin relatively quickly, subject to available capacity
+Short-term adaptation	Extend firing periods, upgrade facilities, adjust scheduling	Individual projects can be delivered within roughly 18 months, as the Catterick example shows
+Medium-term expansion	Build additional ranges, accommodation and support infrastructure	No Sennybridge-specific delivery estimate found
+Full replacement	Secure suitable land, establish permissions, develop facilities and reproduce the training programme	No published cost or completion date found
+
+The first two stages are not the same as replacing the complete capability.
+
+A new site or substantial expansion could require:
+
+* Land acquisition or long-term access agreements.
+* Environmental assessment and potentially extensive mitigation.
+* Planning and statutory approvals.
+* Consultation with local communities and landowners.
+* Construction of firing ranges, danger areas and support infrastructure.
+* New accommodation, roads, utilities and maintenance provision.
+* Certification, safety testing and integration into the training calendar.
+
+The 2007 MOD assessment specifically identifies the difficulty of finding suitable large areas and overcoming environmental, social and economic constraints. GOV.UK Assets +1
+
+My judgement: it would be reasonable to plan on a multi-year transition for substantial replacement, but we do not have evidence to say that it would take five, ten or fifteen years. A precise estimate would be invented.
+
+7.5 What would an actual replacement assessment need to cost?
+
+I would want the MOD to provide the following figures, rather than one headline estimate.
+
+Cost category	What needs measuring
+Land	Purchase, leasing, access rights and compensation
+Infrastructure	Ranges, impact areas, roads, camps, utilities and accommodation
+Environmental	Surveys, mitigation, restoration and ongoing monitoring
+Capacity expansion	Additional facilities and firing periods at receiving sites
+Transition	Transport, temporary accommodation and disrupted training
+Operating costs	Additional staffing, maintenance, security and estate management
+Capability loss	Training delays, reduced exercise availability and any training that cannot be replicated
+Long-term resilience	Whether the alternative sites would have sufficient capacity during increased operational demand
+
+There is also an important counterfactual: if the UK retained Sennybridge, it would still incur maintenance and operating costs. Replacement cost should therefore be compared with the additional cost of the alternative arrangement, not treated as the entire cost of running the new sites.
+
+7.6 Corrected wording for the master document
+
+Actual replacement costs and timescales: No current, publicly available MOD estimate has been identified for the cost or timescale of replacing Sennybridge Training Area as a complete training capability. Individual training facilities can be built or upgraded within existing sites: for example, a new firing range at Catterick was delivered in just over 18 months, while urban-training improvements at Copehill Down cost over £500,000 and new trench-training infrastructure across two training areas received more than £4.4 million in investment in 2026. These are component-level benchmarks, not estimates for replacing Sennybridge. An MOD assessment published in 2007 found significant constraints on acquiring large new training areas, assessed existing major sites as operating at or near full capacity, and warned that lost training capacity could not easily be absorbed or replaced. Those findings are historical and require updating, but demonstrate why a full replacement cannot be assumed to be straightforward. A proper assessment would need to include land acquisition or access, environmental and planning requirements, additional infrastructure, receiving-site capacity, transition costs, operating costs and any loss of training capability. Some exercises could be redistributed relatively quickly; full replacement would require a multi-year programme, but its actual duration and cost remain unquantified.
+
+7.7 The next piece of evidence worth pursuing
+
+The most useful question is now not simply “How much would a replacement cost?”
+
+It is:
+
+Has the MOD assessed what would happen to its training capacity if Sennybridge became unavailable, and, if so, what were the identified receiving sites, capacity shortfalls, mitigation measures and costs?
+
+That is a much more answerable parliamentary question than demanding a single hypothetical replacement price. It would also expose whether the MOD has a contingency plan or is relying on the assumption that other training areas could absorb the work.
+
+Fact-check status: no defensible total replacement cost or completion date found. There is historical official evidence of constrained capacity and difficulty acquiring replacement land, plus modern component-level cost and delivery examples. The central uncertainty is the current MOD assessment of spare capacity and contingency planning.”.  
+
+“Fact-check 8: Ownership and legal status of MOD property under a hypothetical Welsh independence settlement
+
+Core distinction verified
+
+The MOD’s ownership of land in Wales would not, by itself, give the UK continuing sovereignty or exclusive jurisdiction over that land after Welsh independence. Equally, Welsh independence would not automatically settle every question about who owns, occupies or uses existing MOD property.
+
+There are two separate legal questions:
+
+* Territorial sovereignty: which state has jurisdiction over the land?
+* Property rights: who holds the freehold, leasehold, buildings, equipment and other interests in it?
+
+An independent Wales would become the sovereign state exercising territorial jurisdiction over its territory, subject to any agreements it entered into. The status of particular UK-owned assets would need to be addressed through the independence settlement and applicable rules of state succession.
+
+Sennybridge is a useful case study because its landholding is not all of one kind.
+
+8.1 What does the MOD actually own at Sennybridge?
+
+The established figures are:
+
+Land	Approximate area	Existing legal relationship
+Mynydd Epynt training area	12,400 hectares	MOD freehold
+Crychan Forest land	2,500 hectares	Leased land
+Combined area	14,900 hectares	Mixed ownership and tenure
+
+The MOD’s own estate material describes the 12,400 hectares as freehold and the additional 2,500 hectares as leased. The Welsh heritage record independently describes the same broad split. GOV.UK Assets +1
+
+The leasehold land is particularly important: it is not simply another 2,500 hectares of MOD-owned land. The MOD has rights under a lease, and those rights would need to be examined separately from the freehold.
+
+8.2 Who is the legal owner?
+
+There is a useful clarification in the Cabinet Office’s current Government Functional Standard for Property, updated 1 April 2026.
+
+It says:
+
+* Government property is held on behalf of the Crown.
+* The Crown is treated as legally indivisible within the UK government property system.
+* Defence property, both domestic and overseas, is generally held in the name of the Secretary of State for Defence.
+* HM Land Registry records the relevant Secretary of State as proprietor, in their capacity as a corporation sole. GOV.UK
+
+The Defence (Transfer of Functions) Act 1964 also provides for the Secretary of State for Defence to hold property, rights and liabilities previously vested in the former defence departments. Legislation.gov.uk +1
+
+This matters because the legal title is not necessarily recorded as belonging to an organisation called the Ministry of Defence. The MOD manages the estate, but the registered proprietor may be the Secretary of State for Defence.
+
+It also means we should avoid casually describing every MOD asset as the personal property of the British monarch. Government property held on behalf of the Crown is a distinct legal arrangement.
+
+8.3 What does international law say about state property when part of a country becomes independent?
+
+The main reference is the 1983 Vienna Convention on Succession of States in Respect of State Property, Archives and Debts.
+
+Its Article 17 addresses the separation of part of a state to form a new state. It provides that, unless the predecessor and successor states agree otherwise:
+
+* Immovable state property situated in the separating territory passes to the successor state.
+* Movable state property connected with the predecessor state’s activities in that territory also passes to the successor state.
+* Other movable state property is divided equitably. The Faculty of Law +1
+
+On the face of that provision, it is highly relevant to MOD-owned freehold land in Wales.
+
+But there is an important legal qualification.
+
+Not a directly binding answer
+
+The Convention is not yet in force. The UN Treaty Collection records seven signatories and seven parties as at 24 November 2026. The UK is not listed among them. It therefore cannot simply be invoked as a binding treaty that automatically settles the hypothetical Welsh case. treaties.un.org
+
+There is also a distinction between:
+
+* The Convention’s proposed rules.
+* Customary international law.
+* The actual terms of a negotiated independence settlement.
+
+A 2025 academic treatment of state succession identifies territoriality as a central principle in state-property allocation, with a default of succession unless the states agree otherwise. That supports taking the territorial location of assets seriously, but it does not remove the need to examine the particular legal circumstances and settlement. OUP Academic
+
+My assessment: there is a substantial international-law argument for Welsh succession to UK state-owned immovable property situated in Wales. It would be wrong, however, to present Article 17 as a guaranteed, automatically enforceable outcome in this particular hypothetical.
+
+8.4 What could happen to Sennybridge in an independence settlement?
+
+There are several plausible settlement models.
+
+Model	Ownership	Military use	Implication
+Transfer to Wales	Freehold transferred to Welsh state	UK use ends or continues under agreement	Wales controls the land and can negotiate future use
+Welsh ownership, UK lease	Freehold transfers to Wales	UK retains a defined lease or licence	Wales receives an asset and a potential rental income
+UK retains ownership by agreement	UK retains freehold	UK operates under a bilateral agreement	Wales retains territorial sovereignty but permits continued UK use
+Sale or compensated transfer	Title transferred through negotiated transaction	Depends on subsequent agreement	Ownership and compensation are settled together
+Phased withdrawal	Agreed interim ownership and use arrangements	UK use winds down over an agreed period	Allows training continuity and an orderly transfer
+
+These are possible negotiating outcomes, not established predictions.
+
+One especially important point: a UK-owned military training area would not automatically become British sovereign territory.
+
+A UK military presence in an independent Wales would ordinarily depend on an agreement with the Welsh state. That agreement could address access, training permissions, policing, criminal jurisdiction, environmental responsibilities, safety and liability.
+
+The existence of a military base or defence facility does not itself create an enclave outside the host state’s sovereignty.
+
+8.5 What happens to the additional leased forestry land?
+
+This needs its own treatment.
+
+The additional 2,500 hectares are leased, rather than part of the MOD freehold. The MOD’s published estate description identifies the land as leased from Forest Enterprise; current MOD public-access material identifies the relevant forestry land as leased from Natural Resources Wales. GOV.UK Assets +1
+
+That raises several questions:
+
+* Who is the legal landlord at the date of independence?
+* Does the lease continue under the applicable law?
+* Does the lease contain provisions relating to changes in sovereignty or government?
+* Would the successor Welsh government or a Welsh public body become the relevant landlord?
+* Could the lease be varied, renewed or terminated?
+* Would the land remain available for military training?
+
+The answers depend on the actual lease, the legal identity of the landlord and the independence settlement. We have not examined the lease itself.
+
+8.6 What about other MOD assets in Wales?
+
+The same principle needs to be applied asset by asset.
+
+Asset type	Main legal question
+MOD freehold land	State-property succession and negotiated settlement
+MOD leasehold land	Existing lease, landlord identity and continuation
+Buildings and fixed infrastructure	Whether they form part of the land or are separately owned
+Aircraft, vehicles and weapons	Movable state property and allocation under settlement
+Equipment used specifically in Wales	Whether it is connected to the Welsh defence establishment
+Shared UK infrastructure	Whether it is transferred, retained or subject to shared-use arrangements
+Private defence-contractor property	Private ownership and contractual rights, not automatically UK state property
+
+The last distinction matters. Not everything on a military estate is owned by the UK government. Contractors may own equipment, buildings or other assets; those rights cannot simply be treated as state property.
+
+8.7 What would Wales need to establish before negotiating?
+
+I would put a formal MOD Property and Defence Estate Schedule into the proposed Welsh Strategic and Economic Contribution Account.
+
+For every relevant site, it should record:
+
+* Exact Land Registry title and registered proprietor.
+* Freehold, leasehold, licence or other tenure.
+* Area and boundary.
+* Buildings, fixed installations and infrastructure.
+* Existing easements, access rights and restrictive covenants.
+* Environmental designations and statutory obligations.
+* Current military use and operational significance.
+* Existing contracts and third-party interests.
+* Estimated market value and replacement cost.
+* Potential transfer, lease, sale or shared-use arrangements.
+
+For Sennybridge in particular, I would want the actual title register, the lease documents for the forestry land, the relevant byelaws and a schedule of fixed infrastructure. The MOD’s public descriptions establish the broad ownership split, but they are not a substitute for the underlying legal documents.
+
+8.8 Corrected wording for the master document
+
+Ownership and legal status of MOD property under a hypothetical independence settlement: MOD property located in Wales would need to be addressed through the legal and financial settlement accompanying independence. Territorial sovereignty and property ownership are distinct: an independent Wales would exercise sovereignty over its territory, but the ownership, possession and continued use of individual defence assets would require legal determination and, where appropriate, agreement between the successor Welsh state and the continuing UK state. The 1983 Vienna Convention on Succession of States in Respect of State Property, Archives and Debts provides a relevant framework. Article 17 envisages immovable state property situated in a territory passing to the successor state when part of a state separates, unless the states agree otherwise. However, the Convention is not yet in force and should not be presented as a directly binding or conclusive answer to the Welsh case. The territoriality principle is also recognised in contemporary legal scholarship on state succession, but the precise customary-law position and its application would require legal advice. Sennybridge illustrates the need for an asset-by-asset assessment: approximately 12,400 hectares are MOD freehold, while a further 2,500 hectares are leased forestry land. Possible outcomes include transfer to Wales, continued UK ownership under a negotiated agreement, a lease or shared-use arrangement, sale or compensated transfer, or phased withdrawal. Any continued UK military presence would require an agreed legal basis; MOD ownership would not itself confer British sovereignty over the site. The actual title registers, lease documents, statutory instruments, third-party interests and infrastructure schedule would need to be examined before any valuation or negotiating position could be established.
+
+8.9 Fact-check status
+
+Established
+
+Verified
+
+* Sennybridge has a mixed freehold/leasehold structure.
+* UK defence property is generally held in the name of the Secretary of State for Defence.
+* International state-succession law provides a relevant territorial-property framework.
+    Not settled
+    Requires legal analysis
+* Whether and how the freehold would pass in the precise Welsh scenario.
+* Whether the parties would agree a different property settlement.
+* The continuation or termination of existing leases.
+* Any continuing UK rights to military use.
+    Evidence still needed
+    Documentary
+* Land Registry title registers.
+* The full forestry lease.
+* Site-specific statutory instruments and applicable byelaws.
+* A complete MOD property and infrastructure schedule.
+
+The larger constitutional point: this is not simply a question of whether Wales could claim an MOD training area. It is a question of how a new state and its predecessor divide state property, contractual rights, liabilities and military arrangements. That distinction is important across the whole Welsh defence estate, not just Sennybridge.
+
+Useful primary references:
+
+* Cabinet Office — Government Functional Standard: Property (updated April 2026)⁠￼.
+* UN Treaty Collection — 1983 State Succession Convention status⁠￼.
+* Vienna Convention — Article 17⁠￼.
+* MOD — Sennybridge estate description⁠￼.
+* Defence (Transfer of Functions) Act 1964⁠￼.”.  
+
+“
