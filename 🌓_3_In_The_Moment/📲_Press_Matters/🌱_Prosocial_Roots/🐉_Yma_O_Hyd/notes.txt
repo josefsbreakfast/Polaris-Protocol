@@ -6813,3 +6813,190 @@ That last omission matters. Ap Iorwerth was not simply asking Burnham to conside
 
 The next useful step would be to take the four major refusals and compare Burnham’s stated reasons against the evidence in the relevant independent reports—particularly the Commission on Justice in Wales, the Independent Commission on the Constitutional Future of Wales, and the Welsh rail and Crown Estate work. That would let us test the arguments rather than just repeat the positions.”.  
 
+“The mechanism is not that refusing devolution automatically produces support for independence. It is that repeated inability to resolve legitimate constitutional and policy disputes can weaken the political relationships that make a union work.
+
+A union depends on more than common institutions and a shared legal framework. It also depends on people believing that:
+
+* their elected institutions can make a meaningful difference;
+* their government can be held responsible for the decisions affecting them;
+* constitutional disagreements can be resolved through negotiation;
+* the centre treats the constituent nations as partners, rather than administrative regions.
+
+The difficulty with Burnham’s response is that it offers more cooperation without resolving the underlying dispute over authority. That creates several potential routes by which the union’s legitimacy can erode.
+
+1. It turns a policy disagreement into a constitutional disagreement
+
+Consider the policing request.
+
+The Welsh Government’s argument is that it controls many of the services that affect crime and prevention, but not policing itself.
+
+The UK Government’s answer is essentially: the existing policing system works across England and Wales, so retain it, but give Wales more involvement.
+
+That leaves the underlying problem intact:
+
+* Welsh Ministers are expected to coordinate public services that influence policing demand.
+* They cannot take full responsibility for policing priorities or the institutional framework.
+* The UK Government retains the decisive authority.
+* The two governments can disagree about priorities, but Wales cannot resolve the disagreement through its own democratic institutions.
+
+The same structural problem appears in justice, rail and the Crown Estate.
+
+The union becomes harder to operate when the division of powers repeatedly prevents governments from delivering coherent policy together.
+
+This is not just a theoretical concern. The Independent Commission on the Constitutional Future of Wales identified the instability of the settlement and the absence of meaningful redress against unilateral UK Government decisions as problems undermining confidence and constructive relations. GOV.WALES +1
+
+2. It creates an accountability problem for voters
+
+This is particularly important politically.
+
+Suppose someone in Wales is unhappy with:
+
+* police performance;
+* rehabilitation and reoffending;
+* railway investment;
+* economic development from Welsh natural resources.
+
+They want to know which government to hold responsible.
+
+But the responsibilities are divided, sometimes between institutions that have different political priorities.
+
+The February 2026 Cardiff University/YouGov survey illustrates the difficulty. Among 1,544 Welsh adults:
+
+* 69% either answered incorrectly or did not know which government was responsible for policing.
+* 45% incorrectly attributed policing to the Welsh Government.
+* Only 31% correctly identified Westminster as responsible. Cardiff University
+
+That produces a particularly awkward situation:
+
+The Welsh Government can be blamed for things it does not control, while the UK Government can retain authority without always being visibly accountable for the consequences.
+
+This makes democratic accountability less effective. It also creates room for constitutional arguments to become part of ordinary complaints about public services.
+
+3. It makes moderate demands harder to satisfy
+
+This is perhaps the most significant political mechanism.
+
+A voter does not need to support independence to want:
+
+* Welsh control over policing;
+* Welsh management of the Crown Estate;
+* a fairer rail funding arrangement;
+* greater control over Welsh finances.
+
+Indeed, the April 2026 Ipsos survey found:
+
+The figures show that support for more Welsh powers was substantially higher than support for independence in that survey. Ipsos
+
+Now consider the political consequence.
+
+If a government refuses a request for independence, it is refusing a demand for independence.
+
+If it refuses a request for more devolved authority from people who do not necessarily want independence, it risks making the existing union appear incapable of accommodating those people.
+
+That can change the question in voters’ minds:
+
+* Initially: Why can’t Wales have more control over this particular service?
+* Later: Why does Westminster keep refusing to let Wales govern itself in these areas?
+* Eventually, for some: If the union cannot accommodate meaningful self-government, what is the point of remaining in it?
+
+That progression is a potential mechanism, not a prediction that every voter will follow it.
+
+4. It gives nationalists an argument that does not depend on persuading people to become nationalists
+
+This is where political inability becomes important.
+
+Plaid Cymru does not have to persuade every dissatisfied voter that independence is economically or constitutionally preferable.
+
+It can point to a sequence of events:
+
+* Welsh voters elect representatives with a mandate for greater Welsh powers.
+* The Welsh Government presents specific proposals.
+* The UK Government refuses the central transfers.
+* It offers participation and cooperation instead.
+* The Welsh Government remains unable to exercise the authority it says it needs.
+* The constitutional dispute remains unresolved.
+
+The resulting argument is about the capacity of the union to accommodate democratic self-government.
+
+That argument can appeal to people who identify strongly as Welsh and British, people who support devolution but oppose independence, and people who simply want public services to work better.
+
+The Independent Commission itself found that enhanced devolution was the most popular of the three broad constitutional options it considered, ahead of federalism and independence. It also warned that the current settlement was vulnerable to erosion. GOV.WALES +1
+
+The implication is important: a government can strengthen the political case for constitutional change without its opponents having to win an argument for independence first.
+
+5. It creates a fiscal grievance that can be attached to the constitutional grievance
+
+HS2 is a particularly clear example.
+
+The argument is not simply that Wales wants more money.
+
+It is that:
+
+* Wales has no rail infrastructure devolution equivalent to Scotland’s.
+* The UK Government retains the relevant authority.
+* HS2 expenditure is classified as benefiting England and Wales.
+* Wales therefore does not receive the same Barnett consequentials as Scotland and Northern Ireland.
+* The Welsh Government argues that this leaves Wales financially disadvantaged.
+
+The UK Government has a constitutional explanation for its treatment of HS2, but the Welsh Government disputes the outcome.
+
+For a Welsh voter, this can become a much more tangible grievance than an abstract debate about constitutional architecture:
+
+Why does Wales not receive funding associated with a railway that does not run through Wales?
+
+The dispute then reinforces the argument that the existing division of powers and funding does not work fairly for Wales.
+
+6. It can damage the relationship between governments even when both want the union to continue
+
+This is not merely a Plaid Cymru argument.
+
+The Welsh Government’s own 2023–24 intergovernmental relations report said that the previous UK Government’s approach had damaged the union, citing failures of engagement and breaches of the Sewel Convention. It also acknowledged areas of constructive cooperation. GOV.WALES
+
+The Independent Commission identified a related institutional problem: intergovernmental cooperation depends on trust, parity of esteem and sustained political commitment. It recommended statutory duties of cooperation rather than relying entirely on political goodwill. GOV.WALES +1
+
+This is the distinction between a union that works through consent and a union that works through the legal supremacy of its central Parliament.
+
+The latter can continue to exist constitutionally while becoming less cooperative politically.
+
+7. The feedback loop
+
+Here is the process I think we should be testing against the correspondence.
+
+Welsh voters express a demand for greater self-government
+
+Not necessarily independence
+
+Welsh Government proposes practical constitutional changes
+
+UK Government retains core authority and offers participation
+
+The original policy and accountability problems remain unresolved
+
+Confidence in the union’s capacity to accommodate Wales may decline
+
+Demand for stronger constitutional guarantees or a different settlement grows
+
+A possible political feedback loop, not an established prediction of voter behaviour.
+
+There is an important counterargument: the UK Government may believe that shared institutions, common standards and cross-border coordination are themselves union-strengthening. That is a legitimate constitutional objective. But it needs to demonstrate that the arrangements deliver effective outcomes and that Welsh participation is meaningful.
+
+If it cannot, the argument for retaining authority becomes increasingly difficult to distinguish from an argument for retaining control.
+
+8. The fundamental political risk
+
+I would frame the risk this way:
+
+The UK Government may be defending the institutional structure of the union while weakening the democratic consent on which the union depends.
+
+Those are not the same thing.
+
+A union can preserve its formal constitutional structure while losing public confidence in its fairness, responsiveness and capacity to accommodate different national interests.
+
+And it does not have to happen through a dramatic constitutional confrontation. It can happen through accumulated experiences of being unable to get decisions changed, funding arrangements revised or democratic mandates translated into practical authority.
+
+The evidence does not establish that Burnham’s letter will cause a shift towards independence. It does establish that the underlying tensions are real, that a substantial constituency wants more Welsh powers, and that independent constitutional work has identified weaknesses in the mechanisms intended to manage those tensions.
+
+The question I would put to the UK Government is therefore not simply whether it believes the Union should remain intact. It is what practical constitutional route it is offering to people in Wales who want the Union to remain intact but want Wales to exercise more meaningful democratic authority within it.
+
+If the answer is effectively more meetings, more consultation and more seats on UK-controlled boards, that is a political problem the UK Government needs to reckon with.”.   
+
