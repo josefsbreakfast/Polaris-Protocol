@@ -14484,3 +14484,520 @@ The key data gap now is a national capacity-and-throughput register, covering ev
 
 oh look tokens have magically run out after less than ten exchanges. yall are pussies. xx.  
 
+can’t take all that firm Welsh timber innit.  
+
+“Ecosystem-service valuations
+
+This is particularly important to the wider assessment of Welsh woodland and natural resources because commercial timber production represents only one of the services forests provide.
+
+Ecosystem services have an economic value even where no market transaction takes place. Some can be valued using established economic and environmental accounting methods; others remain difficult to quantify reliably.
+
+The relevant distinction is between:
+
+* Provisioning services: timber, freshwater and other biological resources.
+* Regulating services: carbon sequestration, flood mitigation, air purification, erosion control and temperature regulation.
+* Cultural services: recreation, tourism, landscape, heritage and physical and mental health benefits.
+* Ecological condition: biodiversity, habitat connectivity, soil health and ecosystem resilience, which underpin the continued provision of those services.
+
+These are recognised categories within natural-capital accounting. They are not speculative additions to conventional economic analysis.
+
+1. Latest Welsh Government valuation
+
+The Welsh Government’s Woodlands for Wales indicators 2026, published on 23 June 2026, provides a recent headline valuation.
+
+Annual woodland ecosystem services, 2023
+
+£800m+
+
+Forestry sector GVA, 2023
+
+£718m
+
+Both figures are reported in the same publication. GOV.WALES
+
+This is a particularly useful comparison because it demonstrates the scale of the estimated environmental and social benefits alongside conventional economic activity.
+
+However, the two figures cannot simply be added together. Some provisioning services are already represented within conventional economic accounts, while other ecosystem services are not.
+
+The Welsh Government also notes that its woodland indicators are not formally classified as official statistics, although it voluntarily applies the Code of Practice for Statistics.
+
+2. ONS valuation of Welsh woodland assets
+
+The ONS Woodland natural capital accounts, UK: 2024 provides a detailed national breakdown of the estimated asset value of Welsh woodland.
+
+The valuation relates to 2021, expressed in 2022 prices.
+
+Estimated natural-capital asset value of Welsh woodland
+
+£33.541 billion
+
+2021 valuation, in 2022 prices
+
+Greenhouse gas regulation
+
+£16.721bn
+
+Recreation — health benefits
+
+£4.701bn
+
+Air pollution regulation
+
+£4.090bn
+
+Recreation and tourism expenditure
+
+£3.427bn
+
+Flood regulation
+
+£2.590bn
+
+Timber provisioning
+
+£1.202bn
+
+Urban heat regulation
+
+£0.488bn
+
+Woodfuel provisioning
+
+£0.255bn
+
+Noise regulation
+
+£0.068bn
+
+Source: ONS, Woodland natural capital accounts 2024, Table 5. Office for National Statistics
+
+The full breakdown is especially revealing.
+
+Timber and woodfuel provisioning together account for approximately £1.457 billion, or just 4.3% of the measured woodland asset value.
+
+95.7%
+
+Non-timber and non-woodfuel services
+
+Other ecosystem services
+
+Timber and woodfuel
+
+This is strong evidence that conventional commercial forestry figures capture only a small proportion of the broader measured natural-capital value of Welsh woodland.
+
+It does not mean timber production is economically unimportant. It means timber production is only one function of the asset.
+
+3. Wales’s share of UK woodland ecosystem services
+
+Using the same ONS accounting framework, we can make a reasonably consistent comparison.
+
+Woodland asset category	Wales	UK	Welsh share
+Total measured asset value	£33.54bn	£381.66bn	8.8%
+Timber provisioning	£1.20bn	£11.77bn	10.2%
+Greenhouse gas regulation	£16.72bn	£149.57bn	11.2%
+Flood regulation	£2.59bn	£27.14bn	9.5%
+Recreation and tourism expenditure	£3.43bn	£32.19bn	10.6%
+Recreation health benefits	£4.70bn	£52.48bn	9.0%
+Air pollution regulation	£4.09bn	£86.53bn	4.7%
+
+Shares calculated from ONS 2021 asset valuations, expressed in 2022 prices. Office for National Statistics
+
+These comparisons use the same publication and valuation framework. Nevertheless, the ONS cautions that underlying data availability and collection methods vary between UK nations.
+
+The figures also show why woodland area alone is not a sufficient indicator of ecosystem-service value. Air pollution removal, for example, depends partly on population exposure and the geographical distribution of trees relative to pollution sources.
+
+4. Physical measurements underpinning the valuations
+
+It is worth recording physical ecosystem-service flows alongside monetary estimates.
+
+The ONS reports the following for Welsh woodland in 2021:
+
+Ecosystem service	Annual physical flow
+Timber provisioning	1.170m m³ overbark standing
+Woodfuel provisioning	248,200 m³ overbark standing
+Greenhouse gas regulation	1.595m tonnes CO₂ equivalent
+Air pollution removal	35,000 tonnes of pollutants
+Recreation and tourism	77.3m visits
+Recreation health benefits	Approximately 300,000 beneficiaries
+
+Office for National Statistics
+
+These physical quantities are useful independently of their monetary valuation.
+
+For instance, the carbon sequestration figure remains informative even if government carbon prices or discount rates change. Similarly, recreational visits provide an indicator of actual woodland use without needing to assign every visit a monetary price.
+
+5. Historical Welsh-specific research
+
+In 2017, Forest Research completed a Welsh Government-commissioned study specifically examining the value of Welsh forest resources.
+
+It estimated the following annual ecosystem-service flows using 2015 prices, with recreation data drawn from 2014.
+
+Measurement	Estimated value
+Combined annual service flows	£606.3m
+Combined natural-capital asset value	Approximately £18bn
+Asset valuation horizon	50 years
+
+Forest Research +1
+
+This is useful historical evidence that Welsh-specific natural-capital research already recognised substantial non-commercial woodland value.
+
+However, it would be incorrect to interpret the £18 billion estimate and the later £33.54 billion ONS estimate as demonstrating an 86% increase in woodland wealth.
+
+The studies use different valuation dates, price bases, methodologies and ranges of ecosystem services.
+
+6. Broader Welsh natural capital, beyond woodland
+
+The Welsh Government-funded Environment and Rural Affairs Monitoring and Modelling Programme (ERAMMP) also produced national natural-capital accounts covering woodland, farmland and freshwater habitats.
+
+Its 2019 report estimated:
+
+* Approximately £30.5 billion in measured natural-capital stocks in 2014.
+* Approximately 76% of that value attributable to services not traditionally captured in GDP, including recreation, pollution removal and carbon sequestration.
+* Only seven ecosystem services included in the assessment.
+
+The study excluded several important services, including flood protection, hydropower and tourism, and did not comprehensively cover coastal, urban, mountain, moorland and heath ecosystems. NORA
+
+Again, the earlier £30.5 billion valuation of several habitats should not be compared directly with, or added to, the later £33.54 billion woodland valuation.
+
+Differences in methodology and coverage explain why an older assessment spanning several habitats can produce a smaller monetary value than a newer assessment of woodland alone.
+
+7. How economists calculate these values
+
+The valuations are not simply arbitrary prices assigned to trees.
+
+Different services require different measurement approaches.
+
+Service	Typical valuation approach
+Timber	Resource rent attributable to the natural resource
+Carbon sequestration	Physical sequestration valued using carbon prices
+Air pollution removal	Estimated avoided health damage
+Flood regulation	Avoided or reduced flood-related damage
+Noise regulation	Reduced adverse effects of noise exposure
+Urban cooling	Avoided heat-related costs and impacts
+Recreation	Relevant expenditure associated with recreational activity
+Recreation health benefits	Estimated health-related economic benefits
+
+Natural-capital asset valuations then estimate the discounted value of expected future service flows.
+
+The ONS accounts follow the UN System of Environmental-Economic Accounting framework, designed to complement conventional national economic accounts. Office for National Statistics +1
+
+This distinction is fundamental:
+
+* Annual ecosystem-service value is a flow.
+* Natural-capital asset value is a discounted estimate of future flows.
+* Commercial property value is what the property interest might command in a transaction.
+* Intrinsic ecological value is not necessarily captured by any of these calculations.
+
+The £33.54 billion figure is consequently not a valuation of what someone could sell Welsh woodland for.
+
+8. What the monetary valuations still miss
+
+Even the expanded ONS accounts are partial.
+
+Some benefits are incompletely captured, while others are difficult to monetise at all.
+
+Additional consideration	Strategic relevance
+Biodiversity	Ecological stability and adaptation
+Genetic diversity	Future disease resistance and biological resources
+Water quality regulation	Drinking-water treatment and catchment health
+Soil formation and retention	Long-term agricultural and forestry productivity
+Habitat connectivity	Species survival and climate adaptation
+Woodland heritage	Ancient woodland, archaeology and cultural continuity
+Emergency resilience	Capacity to moderate environmental shocks
+Future land-use options	Preservation of alternative development opportunities
+Ecological irreversibility	Difficulty or impossibility of replacing mature ecosystems
+
+ERAMMP specifically identifies the importance of ecosystem-condition measurements in understanding resilience to sudden shocks. These include soil condition, habitat diversity and connectivity. ERAMMP +1
+
+This is where the distinction between monetisable services and non-monetised strategic stock becomes especially valuable.
+
+An ancient woodland cannot necessarily be replaced in any meaningful ecological sense by planting an equivalent number of hectares elsewhere.
+
+9. Who actually receives these benefits?
+
+This is the next important layer for the constitutional and economic assessment.
+
+The ONS valuations establish the estimated value of services generated by Welsh woodland. They do not provide a complete accounting of where the beneficiaries live or which institutions capture the value.
+
+Service generated in Wales	Potential beneficiaries
+Carbon sequestration	Wales, wider UK and global climate
+Flood regulation	Local and potentially downstream communities
+Catchment protection	Water companies and water consumers
+Recreation	Welsh residents and visitors
+Tourism expenditure	Local businesses and wider supply chains
+Air pollution removal	Exposed populations
+Timber provisioning	Welsh, cross-border and international processors
+
+These beneficiary categories are an analytical framework, not a measured geographical allocation of the published valuations.
+
+For example, woodland management in a Welsh upstream catchment could reduce flood risk downstream in England. In that situation, the ecosystem service is generated in Wales while some benefits accrue elsewhere.
+
+To quantify that properly would require catchment-specific hydrological modelling and geographical analysis of the beneficiaries.
+
+The published £33.54 billion estimate is therefore neither a measure of benefits exclusively retained in Wales nor a measure of the benefit extracted by the rest of the UK.
+
+10. The accounting implications
+
+For the wider strategic-resource inventory, I would maintain five separate accounts:
+
+Account	Measurement
+Commercial production	Timber sales, output, GVA
+Annual ecosystem services	Estimated annual economic and social benefits
+Natural-capital assets	Discounted future ecosystem-service flows
+Resilience and condition	Physical ecological indicators and shock preparedness
+Beneficiary distribution	Where benefits accrue and who captures associated revenues
+
+This prevents the most obvious forms of double counting while allowing the wider value of Welsh natural resources to be documented.
+
+It also addresses an important limitation of conventional regional fiscal analysis. A fiscal account measures government revenue and expenditure; a natural-capital account measures something substantially different.
+
+Neither can substitute for the other.
+
+11. Corrected wording for the master document
+
+Ecosystem-service valuations: Welsh woodland provides significant economic, environmental and social benefits beyond commercial timber production. The Welsh Government’s Woodlands for Wales indicators 2026 reports that the annual value of woodland ecosystem services exceeded £800 million in 2023, alongside estimated forestry-sector GVA of £718 million. These figures measure different aspects of economic activity and environmental benefit and should not be added without adjusting for overlap.The Office for National Statistics’ Woodland natural capital accounts 2024 estimates the asset value of Welsh woodland ecosystem services at approximately £33.54 billion in 2021, expressed in 2022 prices. This includes £16.72 billion in greenhouse gas regulation, £4.70 billion in recreational health benefits, £4.09 billion in air pollution regulation, £3.43 billion in recreation and tourism expenditure, £2.59 billion in flood regulation and £1.20 billion in timber provisioning. Timber and woodfuel together account for approximately 4.3% of the measured asset value. Welsh woodland represents approximately 8.8% of the total measured UK woodland natural-capital asset value under this accounting framework.These valuations represent estimates of the discounted future flow of measurable ecosystem services, rather than the market price of woodland property or government-owned financial assets. They remain partial and are sensitive to valuation methods, assumptions, discount rates, environmental condition and data availability. Biodiversity, habitat connectivity, ecological irreversibility, cultural heritage and resilience to environmental shocks are not comprehensively represented by these monetary estimates.Earlier Welsh Government-commissioned research estimated annual woodland ecosystem-service flows at approximately £606 million in 2015 prices, with an associated asset value of approximately £18 billion. Separate ERAMMP research estimated measured natural-capital stocks across Welsh woodland, farmland and freshwater habitats at approximately £30.5 billion in 2014. These historical valuations use different methodologies, coverage and price bases and should not be directly compared or aggregated with the later ONS estimates.A comprehensive assessment should distinguish commercial production, annual ecosystem-service flows, natural-capital stocks, ecological condition, resilience and the geographical distribution of beneficiaries. Ecosystem services generated within Wales may benefit Welsh residents, other UK populations and international communities. Establishing the distribution of these benefits requires additional spatial and beneficiary-specific analysis.
+
+12. Fact-check status
+
+Claim	Finding
+Annual Welsh woodland ecosystem services exceed £800m	Verified — 2023 estimate, published June 2026
+Welsh woodland has a measured natural-capital asset value of £33.54bn	Verified — ONS 2021 valuation
+Timber and woodfuel account for approximately 4.3% of that value	Verified — calculated from ONS data
+Ecosystem-service valuations follow an established accounting framework	Verified
+All ecological benefits are monetised	Incorrect
+Asset valuations represent potential property sale proceeds	Incorrect
+Annual ecosystem-service values can simply be added to GVA	Incorrect
+All benefits generated by Welsh woodland accrue within Wales	Not established
+The geographical distribution of benefits is fully quantified	Evidence gap
+
+The outstanding limitation: I have verified the published £800 million annual headline and the detailed £33.54 billion asset valuation, but have not reconciled them service by service against the underlying 2023 accounts. They should remain separately dated entries.
+
+For the wider Welsh strategic-value assessment, this is among the clearest quantitative examples of why commercial output and regional fiscal accounts cannot, by themselves, describe the full value of a territorial resource.”.  
+
+“Woodland contribution to catchment and flood management
+
+Welsh woodland is a component of natural flood-management and water-resource infrastructure, as well as a productive forestry asset. Its contribution is scientifically established, although the magnitude depends heavily on woodland location, soil condition, species, management practices and the characteristics of individual catchments.
+
+Importantly, woodland in Wales can provide flood-management benefits to communities downstream in England. The geographical location of the woodland and the geographical distribution of its benefits need not coincide.
+
+1. How woodland contributes to catchment management
+
+Illustrative catchment processes; not a model of a specific Welsh river.
+
+Woodland can contribute through several mechanisms:
+
+Mechanism	Catchment benefit
+Canopy interception	Some rainfall is retained and evaporates before reaching the ground
+Root systems	Improve soil structure and can increase infiltration
+Vegetation and surface roughness	Slow overland water movement
+Evapotranspiration	Can reduce antecedent soil moisture
+Riparian woodland	Stabilises riverbanks and intercepts sediment
+Floodplain woodland	Can slow floodwater and increase temporary storage
+Erosion control	Reduces sediment entering rivers and reservoirs
+
+The objective is not necessarily to prevent flooding altogether. It is often to reduce peak flows, delay their arrival, reduce sediment movement and improve the overall functioning of the catchment.
+
+2. Strength of the scientific evidence
+
+The Environment Agency’s updated February 2025 natural flood-management evidence review, which applies to England and Wales, gives medium-to-high confidence in the effectiveness of catchment woodland in reducing flood risk.
+
+However, it identifies significant limitations in the evidence for large catchments and extreme flooding events. GOV.UK
+
+Welsh Government-funded ERAMMP research similarly distinguishes between different geographical scales.
+
+Scale or condition	Strength of evidence
+Small catchments below 10 km²	Strong observational evidence
+Medium catchments of 10–100 km²	Moderate confidence, supported by modelling
+Large river catchments	More limited direct evidence
+Smaller, more frequent floods	Stronger evidence of mitigation
+Exceptional flooding events	More uncertain and potentially reduced effectiveness
+Strategically positioned woodland	Evidence of benefits beyond woodland area alone
+
+erammp.wales +1
+
+This is important because woodland’s effectiveness generally declines as soils become saturated and the volume of floodwater increases.
+
+Woodland should therefore be understood as complementary infrastructure, rather than a universal substitute for engineered flood defences.
+
+3. Pontbren: an important Welsh evidence base
+
+The Pontbren catchment in Powys is particularly significant because Welsh research has contributed directly to the wider British understanding of natural flood management.
+
+The research considered how strategically positioned woodland and shelterbelts could reduce runoff from upland agricultural land.
+
+Published modelling results include:
+
+Intervention	Modelled reduction in peak flow
+Strategically positioned cross-slope shelterbelts, frequent flood events	29%
+Complete tree cover, frequent flood events	Approximately 50%
+Catchment-wide afforestation, extreme-event scenario	10–54%, averaging 36%
+
+WTW +1
+
+These are modelled scenarios informed by catchment research, not measured reductions in flooding across Wales.
+
+Nevertheless, they establish an important principle: carefully situated woodland can potentially deliver disproportionate benefits relative to the amount of land planted.
+
+This also means that agricultural production and natural flood management are not necessarily competing land uses. Targeted woodland within working agricultural landscapes can provide additional catchment functions without requiring complete afforestation.
+
+4. Monetary valuation of Welsh woodland flood regulation
+
+The ONS woodland natural-capital accounts provide a directly relevant valuation.
+
+Welsh woodland flood-regulation asset value
+
+£2.590bn
+
+Share of total UK woodland flood-regulation value
+
+9.5%
+
+2021 asset valuations, expressed in 2022 prices. Office for National Statistics
+
+However, there is a particularly important methodological refinement to the previous ecosystem-services discussion.
+
+The ONS woodland flood-regulation valuation uses a replacement-cost approach, rather than directly measuring avoided flood damage.
+
+Forest Research estimates the floodwater-storage function of woodland and considers what equivalent artificial storage might cost in the absence of that woodland. The underlying research uses construction costs from seven reservoirs, averaging £14 per cubic metre of storage capacity. Forest Research +1
+
+The £2.59 billion is consequently:
+
+* Not actual expenditure on Welsh flood defences.
+* Not an estimate of annual flood damage avoided.
+* Not revenue received by Wales.
+* Not a guaranteed bill that would arise if woodland were removed.
+
+It is a model-based natural-capital valuation of a service that might otherwise require engineered provision.
+
+5. The importance of the alternative land use
+
+Forest Research’s valuation is sensitive to what would replace the woodland.
+
+The research compares woodland with two counterfactual land-cover conditions: bare soil and managed grassland.
+
+For Great Britain as a whole:
+
+Replacement land cover	Estimated asset value	Annualised service value
+Bare soil	£25.1bn	£843m
+Managed grassland	£12.5bn	£420m
+
+Forest Research
+
+The difference is substantial. It demonstrates why natural-capital valuations require an explicitly defined counterfactual.
+
+For Wales specifically, Forest Research’s central estimates using managed grassland as the alternative are:
+
+Woodland category	Asset value per hectare	Annualised value per hectare
+All woodland, including trees outside woodland	£2,589	£87
+National Forest Inventory woodland	£2,820	£95
+Trees outside woodland	£1,835	£62
+Floodplain woodland — hydraulic roughness component	£7,117	£239
+
+Forest Research
+
+The floodplain hydraulic-roughness component is a particular mechanism of flood regulation, rather than a directly comparable total woodland valuation.
+
+These figures should also remain separate from the ONS headline valuation unless their land-cover scope, price basis and counterfactual assumptions have been reconciled.
+
+6. Cross-border catchment management
+
+This is where the issue becomes particularly relevant to the wider Welsh territorial-resource assessment.
+
+Three obvious catchments requiring examination are the Severn, Wye and Dee.
+
+Illustrative upstream Welsh and downstream English locations within the three cross-border river systems. This is not a flood-risk or hydrological model.
+
+Catchment	Relevant cross-border relationship
+Severn	Welsh upland headwaters feeding a river system with substantial downstream English settlements
+Wye	Welsh upland and agricultural catchments connected to downstream communities in Herefordshire
+Dee	Welsh headwaters and regulated water resources supporting a cross-border river system
+
+The underlying economic proposition is that upstream land management can influence downstream flood exposure, sediment movement and water quality.
+
+However, the national ONS valuation does not establish how much of Wales’s woodland flood-regulation service specifically benefits English communities.
+
+That would require a geographically disaggregated hydrological and economic assessment.
+
+7. Woodland can also create water-resource trade-offs
+
+It is important not to treat all woodland creation as an unqualified improvement to water security.
+
+The Environment Agency’s 2025 evidence review identifies the possibility that increased woodland cover can reduce low river flows and baseflow, potentially adversely affecting water availability. GOV.UK
+
+Potential benefit	Potential limitation
+Reduced flood peaks	Reduced water yield in some catchments
+Increased interception and evaporation	Less water reaching reservoirs or rivers
+Improved soil infiltration	Benefits depend on soil and drainage condition
+Reduced erosion	Forestry operations can disturb soils and increase sediment
+Increased woodland cover	Inappropriate planting can damage other valuable habitats
+
+For the water-security analysis, flood regulation and drought resilience should therefore be modelled separately.
+
+A management decision that reduces winter flooding does not automatically increase summer water availability.
+
+8. Existing operational capability
+
+Natural Resources Wales already provides spatial mapping to identify opportunities for natural flood management.
+
+Its mapping includes:
+
+* Floodplain woodland planting.
+* Riparian woodland planting.
+* Wider catchment woodland.
+* Floodplain reconnection.
+* Runoff attenuation and gully blocking.
+
+The mapping was developed through joint flood and coastal erosion research managed by the Environment Agency. Natural Resources Wales
+
+The underlying datasets are available through the NRW natural flood-management mapping resource⁠￼.
+
+This provides the beginnings of a more detailed resource inventory. It allows woodland to be assessed according to its geographical function, rather than simply its area or timber-production potential.
+
+9. Implications for Welsh strategic value
+
+For the wider assessment, there are four distinct forms of value.
+
+Value category	Relevant measurement
+Existing natural infrastructure	Floodwater retention and flow regulation
+Replacement-cost value	Equivalent engineered storage provision
+Avoided economic loss	Damage, disruption and recovery costs prevented
+Future resilience and option value	Capacity to expand natural flood management under changing climatic conditions
+
+These should not be added together automatically. In particular, replacement-cost estimates and avoided-damage estimates may represent alternative methods of valuing overlapping benefits.
+
+There is also a distributional question.
+
+If woodland restoration is financed through Welsh agricultural or environmental budgets, while a proportion of its flood-management benefits accrues downstream in England, there may be a geographical separation between:
+
+* The location of the natural asset.
+* The institution paying for its maintenance.
+* The population receiving protection.
+* The businesses, insurers and public authorities benefiting from reduced disruption.
+
+That is a legitimate subject for cross-border economic analysis, although the actual distribution of those costs and benefits remains unquantified here.
+
+10. Corrected wording for the master document
+
+The contribution of woodland to catchment and flood management: Welsh woodland provides natural flood-regulation and catchment-management services through rainfall interception, evapotranspiration, improved soil infiltration and storage, increased hydraulic roughness, erosion control and riverbank stabilisation. The Environment Agency’s February 2025 natural flood-management evidence review identifies medium-to-high confidence in the flood-risk benefits of catchment woodland, although evidence remains more limited for large catchments and extreme flood events. Welsh research at Pontbren has demonstrated the potential importance of strategically positioned woodland within agricultural landscapes, with modelling indicating significant reductions in peak flows under certain planting scenarios.The ONS Woodland natural capital accounts 2024 estimates the natural-capital asset value of Welsh woodland flood-regulation services at approximately £2.59 billion in 2021, expressed in 2022 prices, representing approximately 9.5% of the measured UK total. This valuation uses a replacement-cost approach based on the estimated cost of alternative artificial floodwater storage, rather than directly measuring avoided flood damage. Forest Research demonstrates that these estimates are sensitive to assumptions about alternative land cover, woodland location and hydrological mechanisms.Welsh woodland also forms part of cross-border catchment systems, including the Severn, Wye and Dee. Upstream woodland management in Wales may provide flood-regulation, erosion-control and water-quality benefits to downstream populations in England. The geographical distribution and monetary value of these cross-border benefits have not been established by the national woodland accounts and require catchment-specific modelling.Natural Resources Wales maintains spatial mapping identifying opportunities for woodland planting and other natural flood-management interventions. Woodland should therefore be recognised as a component of Wales’s natural infrastructure and environmental resilience capability. However, its hydrological benefits are location-specific, and woodland expansion can also reduce low flows and water yield in some circumstances. Flood mitigation, drought resilience, water quality and biodiversity should be assessed together, while avoiding double counting between natural-capital valuations, replacement costs and avoided economic losses.
+
+11. Fact-check status
+
+Claim	Finding
+Woodland can reduce downstream flood peaks	Verified
+Strategically positioned woodland can improve flood regulation	Supported by research and modelling
+Welsh woodland flood-regulation asset value is £2.59bn	Verified — ONS 2021 valuation
+£2.59bn represents directly measured avoided flood damage	Incorrect
+Woodland can replace all engineered flood defences	Unsupported
+Welsh woodland can benefit downstream English communities	Hydrologically plausible; distribution unquantified
+Woodland always improves drought resilience	Incorrect
+NRW maintains natural flood-management opportunity maps	Verified
+Cross-border flood-regulation benefits have been comprehensively valued	Evidence gap
+
+Outstanding research requirement: a catchment-by-catchment assessment of the Severn, Wye and Dee, identifying Welsh woodland coverage, existing management expenditure, downstream beneficiaries, flood exposure and the cost of alternative mitigation.
+
+The £2.59 billion figure is already included in the £33.54 billion Welsh woodland natural-capital valuation established in the previous check. It must not be counted again as an additional asset.”.  
+
+I love how unemployable I am.  
+
+anyway. yma o hyd.   
+
