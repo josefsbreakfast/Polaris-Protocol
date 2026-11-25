@@ -127,6 +127,18 @@ Earlier reporting discussed approximately 350 potentially affected farms and fed
 
 A farmer cannot necessarily relocate an agricultural operation on the same timetable as a household. Precautionary restrictions can themselves impose costs, even if subsequent testing finds no significant contamination.
 
+### Thanksgiving — the civilian calendar
+
+> It’s also just before Thanksgiving so v disruptive for locals.
+
+The reported disposal date of Wednesday 25 November 2026 falls immediately before Thanksgiving on Thursday 26 November. The operation date remains subject to verification; the calendar relationship is clear.
+
+The timing matters independently of the toxicological outcome. Families may already have arranged travel, accommodation, meals and care for older relatives or children. Visitors may be unfamiliar with local advisories. Residents who need to relocate may face competing demands on transport and accommodation, whilst agricultural and animal-care obligations continue throughout the holiday.
+
+The relevant question is not whether a holiday should take precedence over an immediate explosives hazard. It is whether earlier planning could have avoided imposing this disruption, and whether the emergency response adequately accounts for holiday travel, accessible accommodation, continuity of care, communication with visitors and the costs of changing arrangements at short notice.
+
+Thanksgiving is another example of the mismatch between institutional time and lived time. The holiday disruption is a foreseeable burden even if subsequent environmental testing finds no significant off-site contamination. Its actual extent remains to be established.
+
 ### Three incompatible clocks
 
 | Institutional clock | Embodied or ecological clock |
@@ -163,6 +175,12 @@ The rhetorical inversion is to ask why the consequences of powerful men's decisi
 This is not a claim that men cannot exercise authority, that women are inherently better decision-makers, or that this particular operation is motivated by a man's emotional state. It is a demand for symmetry in scrutiny and responsibility.
 
 Some of us manage our periods without requiring an environmental remediation programme.
+
+> Idk man. I just think he’s on his period.
+
+The author's recurring joke reverses the familiar attribution of women's anger or inconvenience to menstruation. It is not a literal medical claim. The Thanksgiving timing sharpens the point: the public is expected to rearrange family life around an institutional emergency.
+
+My period has never required FEMA assistance. (Rhetorical rejoinder from the drafting discussion.)
 
 ---
 
