@@ -15001,3 +15001,3372 @@ I love how unemployable I am.
 
 anyway. yma o hyd.   
 
+I paid the money to not get ads for Lawrence’s shittu database company, because that just felt insulting tbqh.  
+
+“Fuel and energy — LNG terminal capacity and throughput
+
+Wales hosts two major liquefied natural gas (LNG) import terminals at Milford Haven:
+
+* South Hook LNG
+* Dragon LNG
+
+Their strategic importance extends well beyond Welsh energy consumption. Both receive LNG from international suppliers, store it, convert it back into gaseous form and feed it into the Great Britain National Transmission System (NTS).
+
+For this assessment, we need to distinguish five measurements: maximum regasification capacity, storage capacity, actual LNG imports, actual gas delivered into the transmission network, and spare capacity available during a supply disruption.
+
+The last of these is particularly important when assessing national energy resilience.
+
+1. Current operational capacity — November 2026
+
+There is an important recent change: South Hook completed a substantial capacity expansion in December 2025. Older figures commonly quoted for Welsh LNG infrastructure therefore understate its current technical capacity.
+
+Capacity measure	South Hook	Dragon
+Annual gas capacity in government security assessment	21 bcm	9 bcm
+Latest operator-rated annual gas capacity	27 bcm	—
+Combined capacity on government assessment basis		30 bcm
+Combined capacity allowing for South Hook expansion		36 bcm
+
+Bcm = billion cubic metres of natural gas, following regasification.
+
+South Hook’s operator now confirms capacity to regasify 19.5 million tonnes of LNG annually, equivalent to approximately 27 bcm of natural gas. Its incremental capacity agreement commenced in December 2025. South Hook Gas +3
+
+The 36 bcm combined figure is a mixed-source estimate of nominal terminal capability, not a verified simultaneous network-delivery capacity.
+
+The government deliberately excludes some additional technical capacity from its security-of-supply calculations because the transmission network can only accommodate it under certain conditions. Both the Grain and South Hook expansions are subject to this qualification. GOV.UK
+
+2. Actual throughput — calendar year 2025
+
+The October 2026 National Risk Assessment on Security of Gas Supply provides particularly useful terminal-level actual import figures, drawn from National Gas transmission data.
+
+Actual GB LNG terminal imports, 2025
+
+10.4 bcm
+
+Delivered through the two Welsh terminals
+
+South Hook, Wales
+
+7.2 bcm
+
+60%
+
+Dragon, Wales
+
+3.2 bcm
+
+26.7%
+
+Isle of Grain, England
+
+1.6 bcm
+
+13.3%
+
+Source: DESNZ, National Risk Assessment on Security of Gas Supply 2026, Table 2. Percentages calculated from rounded figures. GOV.UK Assets
+
+This establishes a particularly important finding:
+
+Approximately 86.7% of the LNG terminal gas volumes recorded in that government assessment for 2025 entered the British transmission system through Wales.
+
+That is actual throughput, not simply theoretical infrastructure capacity.
+
+3. South Hook’s expansion and actual performance
+
+South Hook’s 2025 company accounts provide additional verified operational information.
+
+Measure	2024	2025
+LNG physically received	3.9m tonnes	Over 5.1m tonnes
+Natural gas delivered	58.251 TWh	77.529 TWh
+Base daily regasification capacity	650 GWh	650 GWh
+Expanded daily capacity from December 2025	—	812.5 GWh
+
+Source: South Hook LNG Terminal Company Ltd, annual accounts for the year ending 31 December 2025. Amazon Web Services, Inc. +1
+
+The expansion represents a 25% increase in contracted daily regasification capacity.
+
+The annual accounts also distinguish receipts from gas delivered, and confirm that the company made its full contractual capacity available during 2025.
+
+This distinction between capacity availability and actual usage is directly relevant to the strategic-value argument.
+
+4. Dragon LNG: capacity, storage and future contracts
+
+Dragon LNG’s operator confirms that the terminal can supply approximately 10% of UK annual natural gas demand. The government assessment assigns it an annual capacity of 9 bcm.
+
+In April 2026, Dragon launched a capacity auction for approximately 9.3 bcm per year of firm regasification capacity, available from August 2029, when its existing long-term capacity arrangements expire. Dragon LNG +2
+
+This should be recorded as future commercial availability, not additional capacity coming online in 2029.
+
+5. Combined Welsh LNG storage capacity
+
+There is a separate strategic value associated with temporary LNG storage.
+
+Terminal	Liquid LNG storage capacity
+South Hook	775,000 m³
+Dragon	320,000 m³
+Combined	1,095,000 m³
+
+South Hook Gas +1
+
+LNG occupies approximately one-six-hundredth of the volume of natural gas in its gaseous state.
+
+The combined storage capacity therefore corresponds very approximately to 657 million cubic metres of natural gas.
+
+However, that is a theoretical gas-equivalent conversion of nominal storage capacity, not the actual usable inventory at any particular date.
+
+These facilities are principally commercial import and regasification terminals, not dedicated national strategic gas reserves.
+
+6. Wales’s share of British LNG infrastructure
+
+Using the government’s October 2026 security assessment provides a consistent comparison across all three terminals.
+
+Annual capacity and actual annual imports. Source: National Risk Assessment on Security of Gas Supply 2026. GOV.UK Assets
+
+Measure	Welsh terminals’ share
+Number of GB LNG terminals	66.7%
+Assessed annual LNG import capacity	53.1%
+Recorded LNG terminal imports, 2025	86.7%
+
+These are substantially different measurements.
+
+The capacity share provides an indication of longer-term infrastructure dependency. The throughput share establishes actual use during a particular year.
+
+Neither should be interpreted as Wales supplying 86.7% of all British natural gas. Britain also receives gas from domestic production, Norwegian pipelines and continental European interconnectors.
+
+The government’s assessment records total imports of 34.7 bcm across the infrastructure listed in its Table 2. Welsh LNG terminals account for approximately 30% of that recorded import volume. This is not a percentage of total domestic gas consumption. GOV.UK Assets
+
+7. Indicative utilisation
+
+Using the same government capacity and throughput figures:
+
+Terminal	Indicative 2025 utilisation
+South Hook	34.3%
+Dragon	35.6%
+Combined Welsh terminals	34.7%
+Isle of Grain	6.0%
+
+These are calculated annual throughput-to-capacity ratios, not operator-reported technical availability measurements.
+
+The relatively low annual utilisation does not establish that the infrastructure is economically redundant.
+
+LNG terminals provide flexibility to a market with highly variable seasonal demand. Capacity that is unused during one period may become important during another.
+
+Indeed, South Hook’s accounts explicitly identify the availability of regasification capacity as the basis of its commercial revenue model, independently of how much LNG its customers actually import. Company Information Service +1
+
+This provides a concrete example of infrastructure availability having an identifiable commercial value independently of actual throughput.
+
+8. Ownership and commercial control
+
+Neither terminal is owned by the Welsh Government.
+
+Terminal	Ownership
+South Hook	QatarEnergy 67.5%, ExxonMobil 24.15%, TotalEnergies 8.35%
+Dragon	Shell 50%, VTTI 50%
+
+Company Information Service +1
+
+There is a further distinction between terminal ownership and contractual access to regasification capacity.
+
+South Hook Gas holds the primary commercial capacity rights at South Hook. Dragon’s current capacity arrangements are divided between Shell and Petronas.
+
+Consequently, the constitutional and economic inventory should distinguish:
+
+* Territorial location.
+* Corporate ownership.
+* Contractual capacity rights.
+* Ownership of imported LNG.
+* Gas transmission and market regulation.
+* Economic activity and tax receipts retained within Wales.
+
+The gross value of gas passing through Milford Haven is not equivalent to the economic value added by the terminals, nor is it revenue accruing to Wales.
+
+9. Strategic and resilience value
+
+For the wider assessment, I would record the LNG terminals under five separate headings.
+
+Value category	What should be measured
+Actual productive activity	Annual LNG receipts and regasified gas deliveries
+Infrastructure capability	Technical and commercially available import capacity
+Resilience	Ability to accommodate changes in national supply and demand
+Replacement cost	Capital expenditure and time required to establish equivalent capability
+Local economic return	Employment, GVA, procurement and relevant tax receipts
+
+The government recognises LNG import infrastructure as an important component of British gas supply flexibility, particularly as domestic continental-shelf production declines. It also cautions that infrastructure capacity does not guarantee access to LNG cargoes, whose availability depends partly on international market prices. GOV.UK
+
+The strategic value must therefore be assessed alongside actual supply contracts, market access and transmission-system capability.
+
+10. Corrected wording for the master document
+
+Current LNG terminal capacity and throughput: Wales hosts two of Great Britain’s three major operational LNG import terminals, South Hook and Dragon, at Milford Haven in Pembrokeshire. The UK Government’s October 2026 National Risk Assessment on Security of Gas Supply assigns these terminals annual import capacities of 21 and 9 billion cubic metres of natural gas respectively, representing approximately 53.1% of the assessed national LNG import capacity.South Hook completed a regasification capacity expansion in December 2025, increasing contractual daily capacity from 650 GWh to 812.5 GWh. Its operator now reports technical capacity of 19.5 million tonnes of LNG annually, equivalent to approximately 27 billion cubic metres of natural gas. Combined with Dragon’s assessed capacity, this implies nominal Welsh terminal capability of approximately 36 billion cubic metres annually, although simultaneous delivery of this volume into the transmission system is not established.Actual terminal imports recorded in the government’s 2026 assessment amounted to 7.2 billion cubic metres through South Hook and 3.2 billion cubic metres through Dragon during 2025. The combined Welsh throughput of 10.4 billion cubic metres represented approximately 86.7% of LNG terminal imports recorded in that assessment and approximately 30% of total imports recorded across its listed infrastructure.South Hook’s 2025 company accounts separately confirm receipt of more than 5.1 million tonnes of LNG and delivery of 77.529 TWh of natural gas to the UK market. The two Welsh terminals have combined nominal liquid LNG storage capacity of approximately 1.095 million cubic metres.Both terminals are commercially owned and operated rather than Welsh Government-owned assets. Their strategic importance arises from their contribution to national gas supply, their available import and regasification capacity, international supply-chain access and their role in energy-system flexibility. Annual throughput, technical capacity, commercially accessible capacity, actual storage inventories and economic value retained within Wales should be assessed separately.
+
+11. Fact-check status
+
+Claim	Finding
+Wales hosts two of Britain’s three major LNG terminals	Verified
+Combined assessed annual capacity is 30 bcm	Verified
+South Hook expanded its capacity in December 2025	Verified
+Combined nominal capability is approximately 36 bcm	Calculated; network qualifications apply
+Welsh terminals delivered 10.4 bcm in 2025	Verified
+Wales handled approximately 87% of recorded GB LNG terminal imports in 2025	Verified — assessment basis
+Wales handled approximately 30% of recorded gas imports across listed infrastructure	Verified — assessment basis
+Combined liquid LNG storage capacity is 1.095m m³	Verified
+Both terminals are Welsh Government-owned	Incorrect
+All unused capacity is immediately available during a crisis	Not established
+
+Outstanding evidence gaps: full-year 2026 throughput is not yet available. I have used the latest complete calendar year, 2025, and distinguished it from the subsequent capacity expansion. The government’s assessment volumes also need reconciliation against DESNZ’s wider national gas-import statistics before treating the calculated percentages as definitive across every statistical series.
+
+The central finding for the inventory is that Wales hosts more than half of Britain’s assessed LNG import capacity and handled considerably more than half of its recorded LNG terminal throughput in 2025. Commercial activity and strategic infrastructure value are both present, but they are not the same thing.”.  
+
+“Proportion of UK LNG imports handled at Milford Haven
+
+The previous check established a figure of approximately 86.7% for 2025, using the terminal-level volumes in the UK Government’s October 2026 National Risk Assessment on Security of Gas Supply.
+
+However, there is an important statistical distinction to resolve before adopting that figure as Milford Haven’s definitive share of UK LNG imports: gas delivered from LNG terminals into the transmission network is not necessarily identical to LNG physically imported during the same calendar year.
+
+1. Latest Department for Transport figures
+
+The 2025 annual port freight statistics provide an independent measurement of physical LNG cargo movements.
+
+Milford Haven’s share, 2025
+
+70%
+
+Milford Haven’s share, 2024
+
+58%
+
+Share of all LNG tonnage handled through UK ports, including imports and other cargo movements. GOV.UK +1
+
+Measure	2024	2025
+Total UK LNG port freight	14.0m tonnes	17.0m tonnes
+Milford Haven LNG freight	Approximately 8.0m tonnes	Approximately 11.9m tonnes
+Milford Haven share	58%	70%
+
+Milford Haven’s LNG tonnage increased by 48% during 2025. A major contributor was increased imports from the United States, which rose by approximately 3.5 million tonnes at Milford Haven alone. GOV.UK
+
+The 11.9 million tonnes figure is calculated from the rounded national total and published percentage.
+
+2. DESNZ gas transmission figures
+
+The Department for Energy Security and Net Zero’s assessment, published on 23 October 2026, provides a separate measurement using National Gas transmission data.
+
+Recorded LNG terminal volumes, 2025
+
+South Hook — Wales
+
+7.2 bcm
+
+Dragon — Wales
+
+3.2 bcm
+
+Isle of Grain — England
+
+1.6 bcm
+
+Combined Milford Haven
+
+10.4 bcm
+
+Total recorded GB LNG terminal volume
+
+12.0 bcm
+
+Source: DESNZ, National Risk Assessment on Security of Gas Supply 2026, Table 2. GOV.UK Assets
+
+The calculation is:
+
+\frac{10.4}{12.0}\times100 = 86.7\%
+
+That figure is correctly calculated from the published table.
+
+3. Reconciling the different percentages
+
+We now have three distinct statistical measures of Milford Haven’s importance.
+
+Assessed GB LNG import capacity
+
+53.1%
+
+UK LNG port freight tonnage, 2025
+
+70%
+
+Recorded GB LNG terminal gas volumes, 2025
+
+86.7%
+
+Calculations using DfT port freight statistics and DESNZ security-of-supply assessment. GOV.UK +1
+
+These measures have different denominators:
+
+Measure	What it establishes
+53.1%	Share of assessed annual LNG import infrastructure capacity
+70%	Share of physical LNG tonnage handled through UK ports
+86.7%	Share of LNG terminal gas volumes reported in the DESNZ assessment
+
+The discrepancy between 70% and 86.7% warrants further reconciliation. Differences in stock movements, re-exports, measurement units, reporting coverage and statistical methodology could contribute, but I have not established which factors explain the actual difference.
+
+Nor should the 70% freight figure be described as an exact share of international imports alone, because the freight total includes other cargo movements.
+
+4. What this establishes for energy security
+
+Regardless of which measurement is used, Milford Haven accounts for a substantial majority of actual LNG activity under both 2025 statistical series.
+
+This establishes several separate aspects of strategic value:
+
+* Infrastructure dependency: more than half of Britain’s assessed LNG import capacity is located in Wales.
+* Actual supply dependency: Milford Haven accounted for the majority of recorded LNG activity in 2025.
+* Geographical concentration: two major import terminals are located within the same Welsh port.
+* Resilience capability: the terminals enable Britain to access international gas supplies independently of continental pipeline connections.
+* Potential European benefits: Britain can regasify LNG and subsequently export natural gas through interconnected European markets. GOV.UK +1
+
+This is imported gas handled through Welsh infrastructure, rather than indigenous Welsh gas production. The strategic asset is the import, storage, regasification and transmission capability.
+
+5. Corrected wording for the master document
+
+The proportion of UK LNG imports handled at Milford Haven: Department for Transport port freight statistics show that Milford Haven handled approximately 70% of all LNG tonnage moved through UK ports in 2025, up from 58% in 2024. Total UK LNG port freight reached 17 million tonnes in 2025, implying approximately 11.9 million tonnes handled at Milford Haven. This measure includes imports and other LNG cargo movements.Separately, the UK Government’s October 2026 National Risk Assessment on Security of Gas Supply records 7.2 billion cubic metres of gas imports through South Hook and 3.2 billion cubic metres through Dragon in 2025, compared with 1.6 billion cubic metres through the Isle of Grain. On this assessment’s basis, Milford Haven accounted for approximately 86.7% of recorded British LNG terminal gas volumes.The two Welsh terminals also represent approximately 53.1% of Britain’s assessed annual LNG import capacity, excluding additional technical capability not consistently accommodated by the transmission network.These figures use different statistical measures and should not be treated as interchangeable. Nevertheless, they establish Milford Haven’s substantial contribution to British LNG imports, energy-system flexibility and security of supply.
+
+6. Fact-check status
+
+Claim	Finding
+Milford Haven handled 58% of UK LNG port freight in 2024	Verified
+Milford Haven handled 70% in 2025	Verified
+Milford Haven’s LNG freight increased by 48% in 2025	Verified
+Milford Haven accounted for 86.7% of recorded LNG terminal gas volumes	Verified — DESNZ assessment basis
+Wales hosts 53.1% of assessed GB LNG import capacity	Verified
+Wales provides 86.7% of all UK natural gas	Incorrect
+The two statistical series have been fully reconciled	Outstanding
+
+Remaining evidence gap: the exact import-only percentage should be calculated from the Department for Transport’s underlying port-level freight tables, filtering specifically for international inward LNG cargo. Until that is done, I would retain both the 70% and 86.7% figures with their respective definitions rather than presenting either as an unqualified national LNG import share.”.  
+
+“Pembroke refinery’s actual capacity and production
+
+Pembroke refinery, operated by Valero at Rhoscrowther on the Milford Haven Waterway, is a major UK petroleum-processing facility.
+
+Its strategic function is different from that of the neighbouring LNG terminals. The refinery converts crude oil and other feedstocks into usable petroleum products, rather than simply providing import and distribution infrastructure.
+
+For the inventory, we need to distinguish crude-oil processing capacity, total feedstock throughput, actual finished-product output and the destination of those products.
+
+1. Current operational capacity
+
+Total feedstock throughput capacity
+
+270,000
+
+Barrels per day
+
+Crude distillation capacity
+
+10.8m
+
+Tonnes per year
+
+Valero’s current refinery information and its 2025 annual corporate filing confirm total feedstock throughput capacity of 270,000 barrels per day. The Department for Energy Security and Net Zero’s July 2025 refinery-capacity table separately records atmospheric distillation capacity of 10.8 million tonnes annually. valero.com +2
+
+Capacity measurement	Pembroke
+Total daily feedstock throughput	270,000 barrels
+Theoretical annual feedstock throughput	98.55m barrels
+Atmospheric distillation	10.8m tonnes/year
+Reforming	2.1m tonnes/year
+Cracking and conversion	6.3m tonnes/year
+
+The annual barrel figure is calculated assuming continuous operation for 365 days.
+
+These capacities must not be added together. Reforming and cracking are stages in petroleum processing, meaning that some of the same material passes through multiple units.
+
+There is also a terminological discrepancy. Valero’s parliamentary submission describes the 270,000 barrels as crude-oil capacity, whereas its annual corporate filing describes the figure more precisely as feedstock throughput capacity. I would adopt the latter definition.
+
+2. Wales’s share of surviving British refining capacity
+
+The closure of Grangemouth and Lindsey during 2025 materially changed the British refining landscape. Pembroke is now one of four principal operational fuel refineries identified by the House of Commons Library. Research Briefings
+
+Using the consistent DESNZ July 2025 nameplate capacity figures:
+
+Principal UK fuel refineries — atmospheric distillation capacity
+
+Fawley — England
+
+13.3m tonnes
+
+Humber — England
+
+11.9m tonnes
+
+Pembroke — Wales
+
+10.8m tonnes
+
+Stanlow — England
+
+10.2m tonnes
+
+Source: DESNZ, Oil and oil products methodology note, Annex 2. GOV.UK Assets
+
+Measurement	Capacity	Pembroke share
+Four principal fuel refineries	46.2m tonnes/year	23.4%
+All refineries in DESNZ table, including specialist petrochemical refineries	48.4m tonnes/year	22.3%
+
+This establishes that approximately 23% of Britain’s principal petroleum-refining distillation capacity is located in Wales.
+
+Pembroke also accounts for approximately 24.2% of the cracking and conversion capacity recorded in the DESNZ table.
+
+That is an important additional measurement because the ability to convert petroleum fractions into higher-value products is distinct from basic crude distillation.
+
+3. What Pembroke produces
+
+Valero identifies the following principal product categories:
+
+Operator-reported product mix
+
+Petrol
+
+44%
+
+Distillates
+
+40%
+
+Other products
+
+16%
+
+Indicative product mix, not audited 2025 production volumes. valero.com
+
+Its products include petrol, diesel, aviation turbine fuel, heating oil and low-sulphur fuel oil.
+
+The distillate category includes multiple products, so the 40% figure cannot be treated as diesel production alone.
+
+4. Actual annual production: an important evidence gap
+
+I have verified Pembroke’s current capacity, but have not identified a publicly available, refinery-specific 2025 production table establishing:
+
+* Actual crude-oil receipts and total feedstock processed.
+* Actual annual petrol, diesel and aviation fuel production.
+* Refinery utilisation and production losses during maintenance.
+* Domestic deliveries and international exports.
+* Changes in product inventories.
+
+Valero’s published product proportions establish the general production profile, but do not establish actual output for a specified calendar year.
+
+Consequently, multiplying its 270,000-barrel daily capacity by 365 days and then applying the product percentages would produce a hypothetical full-capacity scenario, not verified annual production.
+
+5. Contribution to UK transport fuel supply
+
+There is, however, a particularly valuable recent statement from Valero itself.
+
+In written evidence to the Energy Security and Net Zero Committee in 2026, Valero reported that Pembroke supplies approximately 14% of UK transport fuels. UK Parliament Committees +1
+
+Share of principal UK refining distillation capacity
+
+23.4%
+
+Share of UK transport fuel supply — Valero estimate
+
+14%
+
+These figures are not contradictory. UK transport fuel supply includes imported finished petroleum products, while domestic refinery capacity also produces non-transport products.
+
+The 14% figure should be explicitly attributed to Valero’s parliamentary evidence rather than presented as an independently audited DESNZ statistic.
+
+6. Associated industrial infrastructure
+
+Pembroke is more than an isolated processing facility.
+
+Valero confirms that the refinery receives its feedstocks through maritime transport and distributes finished products through ships, barges, its Mainline pipeline system and road transport.
+
+It also has an integrated cogeneration installation providing electricity and supplementing its steam requirements. The refinery directly employs approximately 500 people. valero.com +1
+
+The relevant industrial asset therefore encompasses processing equipment, maritime access, distribution infrastructure, energy systems, specialist engineering capability and an established skilled workforce.
+
+These associated capabilities matter when considering whether equivalent production could be relocated or replaced.
+
+7. Strategic value and replacement considerations
+
+The refinery’s value should be assessed separately from the gross market value of the petroleum products it produces.
+
+Value category	Relevant measurement
+Industrial capacity	270,000 barrels/day feedstock throughput
+National refining dependency	Approximately 23.4% of principal refinery distillation capacity
+Transport fuel supply	Approximately 14%, according to Valero
+Industrial employment	Approximately 500 direct refinery employees
+Supply flexibility	Ability to process imported feedstocks domestically
+Replacement capability	Alternative refining capacity and finished-fuel import infrastructure
+Local economic return	GVA, wages, procurement and relevant tax receipts
+
+If Pembroke’s refining capability became unavailable, replacement could potentially involve importing more finished fuels rather than constructing an identical refinery.
+
+However, that would preserve access to products through a different supply model. It would not necessarily preserve domestic processing capability, industrial employment or the same degree of supply flexibility.
+
+No verified cost or timescale for fully replacing Pembroke’s functions has been established in this check.
+
+8. Corrected wording for the master document
+
+Pembroke refinery’s actual capacity and production: Valero’s Pembroke refinery is one of Britain’s four principal operational petroleum fuel refineries following the cessation of refining at Grangemouth and Lindsey in 2025. Valero’s 2025 annual corporate filing records total feedstock throughput capacity of 270,000 barrels per day, equivalent to a theoretical maximum of 98.55 million barrels annually under continuous operation.The Department for Energy Security and Net Zero’s July 2025 refinery-capacity assessment separately identifies atmospheric distillation capacity of 10.8 million tonnes per annum, reforming capacity of 2.1 million tonnes and cracking and conversion capacity of 6.3 million tonnes. Pembroke therefore represents approximately 23.4% of the combined atmospheric distillation capacity of Britain’s four principal fuel refineries, or approximately 22.3% of all refinery capacity recorded in the DESNZ table, including specialist petrochemical facilities.The refinery produces petrol, diesel, aviation fuel, heating oil and low-sulphur fuel oil. Valero reports an indicative product mix comprising approximately 44% petrol and 40% distillates. In written parliamentary evidence submitted in 2026, the company states that Pembroke supplies around 14% of UK transport fuels.These figures establish substantial industrial capability and national supply-chain importance, but do not provide a complete refinery-specific account of actual annual production, utilisation or domestic and export deliveries. Nominal processing capacity must not be confused with actual production.Pembroke is a commercially owned industrial asset located in Wales. Its strategic value includes petroleum-processing capacity, maritime and distribution infrastructure, specialist workforce capability and supply-chain flexibility. The economic value retained within Wales should be assessed separately from the gross value of petroleum products processed and distributed through the refinery.
+
+9. Fact-check status
+
+Claim	Finding
+Pembroke has capacity of 270,000 barrels per day	Verified
+Atmospheric distillation capacity is 10.8m tonnes annually	Verified — DESNZ
+Wales hosts approximately 23% of principal British fuel-refining capacity	Verified — calculated
+Pembroke supplies approximately 14% of UK transport fuels	Operator-reported parliamentary evidence
+Petrol represents approximately 44% of its product mix	Operator-reported
+Distillates represent approximately 40%	Operator-reported
+Pembroke actually processes 98.55m barrels every year	Not established
+Actual 2025 production by fuel category	Evidence gap
+Full replacement cost and timescale	Evidence gap
+
+The central finding: following the 2025 refinery closures, Wales hosts nearly a quarter of Britain’s principal petroleum-refining capacity, alongside more than half of its assessed LNG import capacity.
+
+Those are two distinct energy-system capabilities — petroleum conversion and natural gas import infrastructure — and should be recorded separately in the strategic-resource inventory.”.  
+
+“Composition of Welsh oil exports
+
+The key distinction is that Welsh petroleum exports are predominantly associated with the processing and trading of imported hydrocarbons, rather than indigenous Welsh crude-oil extraction.
+
+Wales has substantial petroleum-processing and maritime infrastructure, particularly around Milford Haven. However, the gross value of petroleum exports cannot be treated as the value of natural oil resources extracted from Welsh territory, nor as the economic value retained within Wales.
+
+There are four different flows to distinguish:
+
+* Imported crude oil and refinery feedstocks.
+* Refined petroleum products produced in Wales and exported internationally.
+* Petroleum products imported and subsequently re-exported.
+* Petroleum products supplied from Wales to the rest of the UK, which are not currently classified as international exports.
+
+1. The latest complete calendar-year figures
+
+The Welsh Government’s March 2026 international trade release provides provisional figures for 2025.
+
+Welsh oil exports, 2025
+
+£2.5bn
+
+Physical export volume
+
+~5.1m tonnes
+
+Share of Welsh goods export value
+
+~13%
+
+Share of Welsh goods export weight
+
+~65%
+
+Source: Welsh Government, Welsh international goods trade, January–December 2025. Percentages and oil export weight calculated from rounded published totals. GOV.WALES
+
+Measure	All Welsh goods	Excluding oil
+Export value	£19.2bn	£16.6bn
+Export weight	7.8m tonnes	2.7m tonnes
+
+Oil was one of Wales’s three largest goods export categories by monetary value, alongside power-generating machinery and other transport equipment.
+
+Its importance is considerably greater when measured by physical volume.
+
+2. What is actually classified as oil?
+
+The Welsh Government uses Standard International Trade Classification (SITC) Division 33: Petroleum, petroleum products and related materials.
+
+This is not exclusively crude oil.
+
+SITC group	Product category
+333	Crude petroleum and oils obtained from bituminous minerals
+334	Refined petroleum products
+335	Residual petroleum products and related materials
+
+Refined products can include petrol, diesel, aviation fuel, heating oil and other petroleum fractions.
+
+Natural gas, including LNG, is classified separately under SITC Division 34. Electricity is classified under Division 35.
+
+The £2.5 billion figure therefore should not include LNG handled at South Hook and Dragon.
+
+The precise division of Welsh oil exports between crude petroleum, refined products and residual products remains an evidence gap. The Welsh Government’s headline publication does not provide that level of commodity detail.
+
+3. What Pembroke refinery tells us about composition
+
+The previous refinery check established the following operator-reported production profile.
+
+Pembroke refinery — indicative production mix
+
+Petrol
+
+44%
+
+Distillates
+
+40%
+
+Other products
+
+16%
+
+Operator-reported refinery production profile established in the preceding check. Not a breakdown of Welsh exports.
+
+This demonstrates that Wales possesses substantial petroleum conversion capability rather than simply acting as a crude-oil transit point.
+
+However, it would be incorrect to assume that the composition of Welsh petroleum exports follows these same percentages. Domestic customers and overseas customers may purchase substantially different product mixes.
+
+4. An important correction to historical export figures
+
+This is a particularly significant statistical finding.
+
+In November 2025, HMRC announced substantial corrections to previously published oil and gas export statistics. Wales was among the areas most affected.
+
+The corrections subsequently incorporated into the March 2026 Welsh Government release included:
+
+Period	Upward revision to Welsh oil export value
+Calendar year 2024	Approximately £1.4bn
+January–September 2025	Approximately £1.5bn
+
+The revision increased the reported value of total Welsh goods exports for 2024 by 7.9%. GOV.WALES +1
+
+This matters because the Welsh Government’s October 2025 Wales Economic and Fiscal Report had previously reported a dramatic fall in petroleum exports, with their contribution to Welsh goods export value declining to approximately 3.9%. GOV.WALES
+
+That assessment predates the HMRC correction.
+
+Any historical analysis of Welsh petroleum exports prepared before the correction needs to be revisited. Apparent changes in industrial activity may partly reflect deficiencies in the earlier trade statistics.
+
+5. Latest rolling annual figures
+
+The most recent Welsh Government release covers July 2025 to June 2026.
+
+HMRC’s accompanying regional trade commentary reports that, compared with the preceding twelve months:
+
+* Welsh petroleum exports to EU countries increased by approximately £400 million, or 32%.
+* Welsh petroleum exports to non-EU countries decreased by approximately £100 million, or 8.8%. GOV.UK
+
+These figures indicate a shift towards EU destinations over that reporting period.
+
+They do not establish which individual petroleum products account for that change.
+
+6. Wales is also a substantial oil importer
+
+Senedd Research’s October 2026 international trade resource identifies petroleum and related products as Wales’s largest individual goods import category, worth approximately £5.5 billion in its 2025 data. Senedd Research
+
+Indicative Welsh international petroleum trade, 2025
+
+Imports
+
+£5.5bn
+
+Exports
+
+£2.5bn
+
+Rounded figures from different 2026 publication dates; subsequent revisions may affect comparability.
+
+This is consistent with a major refining economy importing feedstocks and supplying petroleum products to both domestic and international customers.
+
+However, the approximately £3 billion difference cannot be treated as a Welsh refinery operating loss or a complete petroleum trade deficit. It excludes movements between Wales and the rest of the UK.
+
+7. The missing internal UK trade component
+
+This is especially important for the independence assessment.
+
+A Welsh refinery supplying fuel to customers in England is currently making a domestic UK sale, rather than an international export.
+
+Consequently, HMRC’s regional international trade statistics do not fully capture the petroleum products Wales supplies to the rest of Britain.
+
+Under a hypothetical independence settlement, such movements could become international trade, although their underlying physical and productive economic activity might remain unchanged.
+
+Petroleum flow	Currently captured as Welsh international trade?
+Overseas crude oil imported by Welsh businesses	Generally yes
+Welsh-refined fuel exported to Ireland	Generally yes
+Welsh-refined fuel supplied to England	No
+Welsh-refined fuel supplied to Scotland	No
+Imported fuel consumed within Wales	Recorded as imports, subject to regional allocation
+Refinery processing value added	Requires separate economic accounts
+
+The current £2.5 billion export figure therefore does not establish the full scale of Wales’s petroleum supply relationship with external markets.
+
+8. What this means for strategic and economic value
+
+The petroleum sector should be recorded through separate accounts.
+
+Account	Relevant value
+Gross commodity trade	International import and export values
+Industrial conversion	Value added through refining
+Physical production	Tonnes produced by petroleum product
+Domestic supply	Deliveries from Wales to the rest of Britain
+Infrastructure	Refineries, terminals, storage and distribution
+Resilience	Domestic processing capability and supply flexibility
+Local economic return	Employment, procurement, profits and taxation
+
+The commercial value of imported crude is not itself Welsh production. Equally, the value of maintaining the industrial capability to turn that crude into usable fuel is not captured simply by subtracting international imports from international exports.
+
+9. Corrected wording for the master document
+
+The composition of Welsh oil exports: Welsh Government international goods trade statistics record approximately £2.5 billion of petroleum and related product exports in 2025, representing around 13% of Welsh goods export value. Calculations from rounded published totals indicate approximately 5.1 million tonnes of petroleum exports, equivalent to around 65% of total Welsh goods exports by weight.These statistics use SITC Division 33, encompassing crude petroleum, refined petroleum products and residual petroleum products and related materials. Natural gas, including LNG, is classified separately. Wales possesses substantial petroleum-refining capability at Pembroke, producing petrol, diesel, aviation fuel, heating oil and other petroleum products. However, the precise composition of Welsh international petroleum exports by individual product has not been established from the headline trade statistics, and refinery production proportions should not be substituted for export proportions.Significant HMRC statistical corrections announced in November 2025 increased previously reported Welsh oil export values by approximately £1.4 billion for calendar year 2024 and £1.5 billion for January–September 2025. Historical assessments based on the unrevised statistics require reconsideration.Wales also imports substantial quantities of petroleum and related products, with Senedd Research reporting approximately £5.5 billion of imports in its 2025 data. International trade figures exclude petroleum products supplied from Wales to other parts of the UK and therefore do not establish the full extent of Welsh petroleum production and external supply relationships.A comprehensive assessment should distinguish crude-oil imports, refined-product exports, re-exports, domestic UK deliveries, refinery value added and associated strategic infrastructure. Gross petroleum export values should not be interpreted as indigenous natural-resource income or as economic value retained entirely within Wales.
+
+10. Fact-check status
+
+Claim	Finding
+Welsh oil exports were worth approximately £2.5bn in 2025	Verified
+Oil represented around 13% of Welsh goods export value	Verified — calculated
+Oil represented around 65% of goods exports by weight	Approximate — calculated
+All Welsh oil exports are crude oil	Incorrect
+LNG is included in the oil export category	Incorrect
+All Welsh oil exports originate at Pembroke refinery	Not established
+Historical petroleum export figures were substantially revised	Verified
+International statistics include fuel supplied to England	Incorrect
+Exact refined-product export composition	Evidence gap
+
+Outstanding research requirement: obtain a more granular commodity breakdown covering SITC groups 333, 334 and 335 and, where available, customs commodity headings for crude oil, refined petroleum products, petroleum coke and associated materials.
+
+I have established the aggregate scale of Welsh petroleum exports and the important statistical correction, but have not yet verified the precise crude-versus-refined export proportions. That distinction should remain an open item in the inventory.”.  
+
+“Current Aberpergwm coal output
+
+Aberpergwm, near Glynneath in the Neath Valley, is a deep anthracite coal mine operated by Energybuild Mining Ltd.
+
+Its strategic significance differs from that of conventional thermal coal mines because anthracite has industrial applications beyond electricity generation, including metallurgical processes and carbon-based filtration products.
+
+For the Welsh resource inventory, we need to distinguish actual annual extraction, permitted extraction, productive capacity, remaining geological resources and the industrial markets served.
+
+1. Latest verified production — January to June 2026
+
+The Mining Remediation Authority, formerly the Coal Authority, published its latest available quarterly returns on 4 August 2026.
+
+Actual output, first half of 2026
+
+72,007 tonnes
+
+Average monthly output
+
+12,001 tonnes
+
+Annualised production rate
+
+144,014 tonnes
+
+Workforce, June 2026
+
+247
+
+Production and workforce declarations, including contractors. Annualised production is calculated, not a full-year forecast. GOV.UK +2
+
+2. Recent monthly production
+
+Period	Actual production
+July–September 2025	29,403 tonnes
+October–December 2025	28,534 tonnes
+January–March 2026	37,956 tonnes
+April–June 2026	34,051 tonnes
+Latest twelve months	129,944 tonnes
+
+GOV.UK +3
+
+Production during the first half of 2026 was approximately 24.3% higher than during the second half of 2025.
+
+These are actual reported extraction figures, rather than licensed maximums or estimates of geological resources.
+
+3. Full-year 2025 production
+
+The complete 2025 quarterly returns establish the following annual total.
+
+Quarter	Aberpergwm output
+January–March	31,356 tonnes
+April–June	28,811 tonnes
+July–September	29,403 tonnes
+October–December	28,534 tonnes
+2025 total	118,104 tonnes
+
+GOV.UK +3
+
+This is the appropriate baseline for the latest complete calendar year.
+
+4. Wales’s share of remaining UK coal mining
+
+This is arguably the most significant finding relative to national industrial capability.
+
+Aberpergwm’s share of reported UK licensed coal mine output, 2025
+
+98.7%
+
+Aberpergwm: 118,104 tonnes
+
+Others: ~1,500 tonnes
+
+Calculated from Mining Remediation Authority quarterly returns.
+
+The remaining reported production was principally attributable to Ayle Colliery in England, alongside very small quantities from mines in the Forest of Dean.
+
+However, this percentage excludes coal recovered under incidental coal agreements, which are reported separately. Those agreements accounted for a further 12,960 tonnes nationally in 2025. GOV.UK +1
+
+Aberpergwm is therefore overwhelmingly dominant in surviving UK licensed coal mining.
+
+That does not establish that Wales supplies 98.7% of British coal consumption. Imported coal remains outside this calculation.
+
+5. Permitted extraction versus actual production
+
+Welsh Government documents released in January 2025 contain detailed information about Aberpergwm’s planning and licensing arrangements.
+
+Measurement	Quantity or date
+Actual 2025 production	118,104 tonnes
+Latest annualised production rate	144,014 tonnes
+Initially permitted annual extraction	480,000 tonnes
+Estimated coal reserves cited by Welsh Government	40m tonnes
+Existing extended planning permission expires	2039
+
+GOV.WALES
+
+Actual 2025 production relative to initially permitted annual extraction
+
+24.6%
+
+There are three separate constraints here:
+
+* Geological availability.
+* Legally permitted extraction.
+* Economically and technically achievable production.
+
+The 480,000-tonne figure establishes a planning allowance, not demonstrated operational capacity. I have not independently established whether that original annual limit has subsequently been varied.
+
+Similarly, the 40 million tonnes cited in the government documents is a historical resource estimate, not a newly verified remaining reserve as of November 2026.
+
+6. Extracted coal versus processed anthracite
+
+A particularly useful distinction emerges from Energybuild’s August 2023 community liaison committee records.
+
+The operator reported three separate physical measurements:
+
+April–June 2023	Tonnes
+Run-of-mine material (ROM)	38,997
+Clean coal production	15,008
+Coal sales	27,306
+
+maps.npt.gov.uk
+
+These figures demonstrate that extracted material, cleaned products and sales are different measurements.
+
+Sales can exceed production during a particular period because previously accumulated stocks may be sold.
+
+The precise relationship between the Mining Remediation Authority’s declared tonnage and the operator’s current run-of-mine and clean-coal figures requires further verification.
+
+We should not apply the historical processing yield directly to 2026 output.
+
+7. Industrial applications
+
+Energybuild’s planning documentation identifies six principal specialist markets.
+
+Application	Industrial significance
+Water purification	Anthracite filtration media
+Activated carbon	Industrial purification and adsorption
+Industrial colourants	Specialist manufacturing inputs
+Carbon powders	Carbon-based industrial products
+Carbon electrodes	Electrical and metallurgical applications
+Cement production	Industrial fuel applications
+
+maps.npt.gov.uk
+
+Anthracite’s industrial importance is therefore not adequately explained through an electricity-generation framework.
+
+For the wider strategic-resource inventory, Aberpergwm should potentially sit within both mineral resources and industrial materials, rather than exclusively under fossil fuels.
+
+However, the presence of these markets does not establish the current percentage of production supplied to each one.
+
+8. Commercial performance
+
+Energybuild Ltd’s accounts for the year ending 31 December 2024, filed in February 2026, provide evidence of the commercial scale of the operation.
+
+Financial measure	2023	2024
+Turnover	£32.11m	£31.68m
+Operating profit before exceptional items	£6.77m	£7.88m
+Year-end net assets	£24.18m	£32.00m
+
+Company Information Service +1
+
+These are company-level financial figures, rather than measures of Welsh mineral-resource rent or regional GVA.
+
+It would also be inappropriate to divide the company’s 2024 turnover by the mine’s 2025 production to estimate the selling price of anthracite. The reporting periods and product composition differ.
+
+9. Strategic value and environmental liabilities
+
+The mine represents a surviving combination of geological resources, extraction capability, processing technology and specialist mining expertise.
+
+That does not mean that continued extraction or expansion is necessarily economically or environmentally desirable.
+
+A comprehensive valuation must also account for:
+
+Asset or capability	Associated constraint or liability
+Anthracite deposits	Economically recoverable reserves
+Extraction infrastructure	Operating and maintenance costs
+Specialist workforce	Long-term employment sustainability
+Industrial carbon products	Availability of alternative materials
+Domestic mineral supply	International import competition
+Potential production expansion	Planning permission and climate policy
+Underground workings	Mine methane, restoration and water management
+
+The UK’s 2025 greenhouse gas inventory specifically revised historical emissions estimates following further consultation with Aberpergwm’s operator. Its industrial rather than exclusively thermal markets do not eliminate its environmental impacts. naei.energysecurity.gov.uk
+
+10. Corrected wording for the master document
+
+Current Aberpergwm coal output: Aberpergwm is an operational underground anthracite mine in the Neath Valley, South Wales. Mining Remediation Authority quarterly statistics record total production of 118,104 tonnes during 2025 and 72,007 tonnes during the first six months of 2026. Production over the twelve months ending June 2026 amounted to 129,944 tonnes, with first-half 2026 production equivalent to an annualised rate of approximately 144,000 tonnes. The mine reported a workforce of 247, including contractors, in June 2026.Aberpergwm accounted for approximately 98.7% of reported UK licensed coal mine production in 2025, excluding separately reported incidental coal recovery. This establishes its dominance within surviving British coal mining, rather than its share of total British coal consumption.Welsh Government documentation identifies an initially permitted annual extraction limit of 480,000 tonnes under the planning permission granted in 2018, which expires in 2039. Historical estimates identify approximately 40 million tonnes of anthracite reserves, although current economically recoverable reserves and achievable maximum production require further verification.The mine produces specialist anthracite materials serving markets including water purification, activated carbon, carbon powders, electrodes and cement production. Actual extraction, cleaned product output, sales volumes and permitted extraction should be recorded separately.Aberpergwm’s strategic significance includes domestic mineral availability, specialist industrial materials, processing infrastructure and mining expertise. Its economic assessment must also incorporate operating costs, environmental impacts, methane emissions, restoration liabilities and the availability of alternative materials and imported anthracite.
+
+11. Fact-check status
+
+Claim	Finding
+Aberpergwm remains operational	Verified through June 2026
+2025 production was 118,104 tonnes	Verified
+First-half 2026 production was 72,007 tonnes	Verified
+Latest twelve-month output was 129,944 tonnes	Verified
+Current annualised rate is approximately 144,000 tonnes	Calculated
+Wales accounts for approximately 99% of licensed UK coal mine output	Verified — 2025 basis
+The mine currently produces 480,000 tonnes annually	Incorrect
+Historical reserves are estimated at around 40m tonnes	Documented historical estimate
+Current economically recoverable reserves	Evidence gap
+Current output by industrial application	Evidence gap
+
+Outstanding limitation: the latest official production returns I located cover June 2026. I have not verified subsequent production, current clean-coal yields or a revised geological reserve assessment.
+
+The central finding is that Wales retains almost the entirety of Britain’s remaining licensed coal extraction capability. Its contemporary strategic relevance is increasingly connected to specialist industrial carbon materials, rather than conventional coal-fired electricity generation.”.  
+
+“Current Welsh electricity generation and consumption
+
+Wales has historically generated substantially more electricity than it consumes, making it an important contributor to the wider British electricity system.
+
+For the strategic-resource inventory, six measurements need to remain separate:
+
+* Installed generating capacity, measured in GW.
+* Actual annual electricity generation, measured in TWh.
+* Annual electricity consumption within Wales.
+* Net cross-border electricity transfers.
+* Generation by energy source.
+* Dependable generating capacity available during periods of system stress.
+
+Annual generation exceeding annual consumption does not, by itself, establish that Wales could operate an independent electricity system without imports, balancing arrangements or shared transmission infrastructure.
+
+1. Latest complete Welsh electricity balance
+
+The latest fully detailed national balance I have established is for 2024, published by DESNZ in December 2025.
+
+Gross electricity generation
+
+22.92 TWh
+
+Final electricity consumption
+
+16.56 TWh
+
+Generation after own use and storage
+
+20.69 TWh
+
+Consumption including allocated losses
+
+19.03 TWh
+
+Source: DESNZ, Energy Trends, December 2025, Appendix A. GOV.UK Assets +1
+
+Welsh electricity balance, 2024
+
+Gross generation
+
+22.92 TWh
+
+Generation after own use and storage
+
+20.69 TWh
+
+Consumption including losses
+
+19.03 TWh
+
+Final consumption
+
+16.56 TWh
+
+The distinction between gross generation and final consumption is particularly important because Wales hosts substantial pumped-storage infrastructure.
+
+The simple difference between gross generation and final consumption is 6.36 TWh. However, that is not the amount of electricity exported.
+
+Once electricity used in generation and storage and allocated transmission and distribution losses are accounted for, the implied annual net export balance is approximately 1.66 TWh under the DESNZ accounting framework.
+
+2. Comparison with the Welsh Government’s figures
+
+The Welsh Government commissions a separate annual assessment of energy generation and consumption.
+
+Its first combined Energy Generation and Energy Use in Wales report was published on 18 March 2026 and subsequently revised in August 2026 following the identification of source-data errors. GOV.WALES +1
+
+Measurement	2023	2024
+Total electricity generation	23.2 TWh	~22 TWh
+Renewable electricity generation	7.8 TWh	~8 TWh
+Renewable share of generation	34%	37%
+Renewable generation relative to consumption	—	55%
+
+GOV.WALES +2
+
+The Welsh Government’s consumption and generation estimates use a different methodological framework from the DESNZ national electricity balance.
+
+For consistent UK-wide comparisons and cross-border transfers, I would use DESNZ as the principal statistical series, while retaining the Welsh Government series for Welsh energy policy and technology-specific analysis.
+
+3. Latest 2025 figures: renewable generation
+
+DESNZ published its regional renewable electricity statistics for 2025 on 29 September 2026.
+
+Welsh renewable generation growth, 2025
+
++6.4%
+
+Welsh renewable capacity growth, 2025
+
++3.4%
+
+UK nation	Renewable generation growth	Renewable capacity growth
+England	7.4%	7.2%
+Wales	6.4%	3.4%
+Northern Ireland	4.6%	3.4%
+Scotland	2.3%	1.6%
+UK overall	5.9%	5.3%
+
+GOV.UK Assets
+
+Importantly, DESNZ has also released its updated national electricity generation and supply data tables covering 2004–2025⁠￼, earlier than its usual December publication schedule. GOV.UK
+
+I have located that dataset but have not extracted the full Welsh 2025 electricity balance from its workbook. The 2024 figures should therefore be treated as the latest detailed baseline verified in this check, not the latest available data.
+
+4. Composition of Welsh electricity generation
+
+Welsh generation remains dependent on a mixture of fossil gas and renewable technologies.
+
+Welsh electricity generation mix, 2024 — rounded
+
+Renewable generation
+
+37%
+
+Non-renewable generation
+
+63%
+
+Welsh Government, Wellbeing of Wales 2026. GOV.WALES
+
+Major components of the Welsh electricity system include:
+
+Technology	Examples of Welsh infrastructure
+Gas-fired generation	Pembroke and Connah’s Quay
+Offshore wind	Gwynt y Môr, Rhyl Flats, North Hoyle
+Onshore wind	Pen y Cymoedd and other wind farms
+Solar photovoltaic	Utility-scale and distributed installations
+Conventional hydroelectricity	Upland hydroelectric schemes
+Pumped storage	Dinorwig and Ffestiniog
+Biomass and waste	Industrial and distributed installations
+Nuclear	No current operational generation
+
+Gas-fired generation remains an essential part of the current electricity mix. In 2023, gas accounted for approximately 14.5 TWh, or 62% of Welsh electricity generation. GOV.WALES
+
+Pumped storage should be recorded separately because it stores and subsequently returns electricity to the system rather than providing a net primary energy source.
+
+5. Wales’s contribution to total UK electricity generation
+
+Using the consistent DESNZ 2024 national figures:
+
+Source: DESNZ, Energy Trends, December 2025. Generation and final consumption are not a complete net-transfer balance. GOV.UK Assets
+
+Measurement	Welsh share of UK total
+Gross electricity generation	8.0%
+Final electricity consumption	6.1%
+
+Wales therefore accounts for a larger proportion of UK electricity generation than of final electricity consumption.
+
+However, its contribution to British energy security cannot be inferred exclusively from annual generation figures. The generating technology, controllability and time of delivery also matter.
+
+6. Installed capacity versus actual generation
+
+The Welsh Government’s October 2026 wellbeing report records installed renewable electrical capacity of approximately 3.81 GW at the end of 2024, alongside 956 MW of renewable heat capacity. GOV.WALES
+
+The heat capacity should not be added to electricity generation capacity.
+
+Nor does 1 GW of installed generating capacity imply 1 GW of continuous production.
+
+For illustration, the following calculator demonstrates how annual output varies with utilisation.
+
+Generating capacity and annual output
+
+Installed electrical capacity
+
+1.0 GW
+
+Annual capacity factor
+
+40%
+
+Illustrative annual electricity generation
+
+3.50 TWh
+
+Assumes a 365-day year. This is an illustrative calculation, not a forecast of Welsh generation.
+
+This distinction becomes especially important when comparing gas-fired power stations with wind and solar installations, or assessing reserve capacity.
+
+7. Electricity is not the same as total energy consumption
+
+This is a substantial qualification to claims of Welsh energy self-sufficiency.
+
+The combined Welsh energy report identifies total energy use of approximately 83.2 TWh in its underlying consumption assessment, of which approximately 13 TWh was electricity.
+
+Most remaining energy consumption is associated with heat, transport and industrial processes. regen.co.uk
+
+Consequently, Wales generating more electricity than it consumes does not mean that Wales currently produces enough energy to satisfy all its energy requirements.
+
+Future electrification of transport, industrial processes and heating may also materially increase electricity demand.
+
+8. Renewable electricity targets
+
+The Welsh Government’s stated targets are for renewable electricity generation to equal:
+
+Target year	Share of annual electricity consumption
+2024 — achieved	55%
+2030 — target	70%
+2035 — target	100%
+
+0%55% achieved100%
+
+The original March 2026 publication reported 54% for 2024. Following the August correction, the official figure increased to 55%. The revised figure should be used throughout the inventory. GOV.WALES +1
+
+These are annual energy-equivalence targets, rather than commitments to supply every hour of Welsh electricity demand exclusively through renewable generation.
+
+9. Implications for the sovereignty assessment
+
+The current electricity system operates at an integrated British level, with international interconnections.
+
+The economic and strategic assessment should therefore distinguish the following:
+
+Value category	Relevant measurement
+Productive activity	Actual electricity generation
+Domestic requirements	Welsh electricity consumption
+External supply	Net and gross cross-border flows
+Dispatchable capability	Generation available when required
+System flexibility	Pumped storage, batteries and balancing
+Network infrastructure	Transmission, distribution and interconnection
+Local economic return	GVA, employment, ownership income and taxation
+Future resource potential	Further renewable and other generating capacity
+
+A hypothetical independent Wales could continue to participate in an integrated electricity market, subject to negotiated regulatory, commercial and system-operation arrangements.
+
+Independence would not inherently require electrical isolation.
+
+Equally, the market value of all electricity generated within Wales should not be treated as Welsh Government revenue. Ownership, generation costs, imported fuel, commercial contracts and taxation determine how much economic value is retained.
+
+10. Corrected wording for the master document
+
+Current Welsh electricity generation and consumption: DESNZ’s 2024 national electricity balance records gross Welsh electricity generation of approximately 22.92 TWh and final electricity consumption of 16.56 TWh. After accounting for electricity used in generation and storage and allocated transmission and distribution losses, the implied net annual export balance was approximately 1.66 TWh. Wales accounted for approximately 8.0% of UK gross electricity generation and 6.1% of final electricity consumption.The Welsh Government’s separate energy assessment estimates that renewable electricity accounted for approximately 37% of Welsh generation in 2024 and was equivalent to 55% of Welsh electricity consumption. The latter figure incorporates statistical corrections published in August 2026. DESNZ’s September 2026 regional renewable electricity statistics subsequently report Welsh renewable generation growth of 6.4% and installed renewable capacity growth of 3.4% during 2025.Wales remains a net annual electricity exporter, with significant gas-fired generation, renewable generation and pumped-storage infrastructure. However, gross generation, final consumption, net exports, installed capacity and dependable generating capability represent different measurements. Annual electricity surpluses do not establish continuous electrical self-sufficiency or independence from the wider British transmission and balancing system.Total energy consumption, including transport, heating and industrial fuel requirements, must also be distinguished from electricity consumption. Future electrification is likely to alter the balance between domestic generation and demand.
+
+11. Fact-check status
+
+Claim	Finding
+Wales generates more electricity than it consumes annually	Verified — 2024
+Gross generation was 22.92 TWh	Verified — DESNZ 2024
+Final consumption was 16.56 TWh	Verified — DESNZ 2024
+Annual net exports equal gross generation minus final consumption	Incorrect
+Adjusted net export balance was approximately 1.66 TWh	Calculated — DESNZ 2024
+Renewable electricity equalled 55% of consumption	Verified — revised 2024 estimate
+Renewable generation increased by 6.4% in 2025	Verified
+Wales is entirely energy self-sufficient	Not established
+Full 2025 generation and consumption balance	Published; extraction outstanding
+
+Outstanding limitation: the September 2026 DESNZ workbook contains the newer 2025 national balance. That needs to be extracted before this particular inventory entry can be considered fully current. I have deliberately avoided substituting estimated 2025 totals for verified figures.
+
+The strategic finding is that Wales provides both electricity production and wider electricity-system capability. The value of the latter — particularly dispatchable generation, storage and balancing — warrants its own assessment.”.  
+
+“The extent to which Welsh electricity is exported or supports the wider grid
+
+Welsh electricity infrastructure contributes to the wider British electricity system in two fundamentally different ways:
+
+* Energy supply: electricity generated within Wales and transferred to other parts of Britain.
+* System support: generating capacity, energy storage, frequency response, balancing and other services that help maintain the reliability of the wider electricity network.
+
+The second category is particularly important. An annual net export figure can substantially underrepresent the contribution of infrastructure that provides electricity or stabilises the grid during periods of exceptional demand.
+
+Wales’s pumped-storage facilities are an especially good example of this distinction.
+
+1. Actual electricity exports: a declining historical surplus
+
+There is an important qualification to the historical characterisation of Wales as a major electricity exporter.
+
+Analysis published by the Energy and Climate Intelligence Unit in April 2026 identifies a substantial decline in Welsh net electricity exports since 2016, associated with the closure of coal and nuclear generating capacity and insufficient replacement generation. Welsh electricity independence
+
+Measurement	Electricity
+Peak annual net exports, 2016	Over 21 TWh
+Gross Welsh generation, 2024	22.924 TWh
+Generation after own use and storage, 2024	20.690 TWh
+Consumption including allocated losses, 2024	19.030 TWh
+Implied overall net export balance, 2024	1.660 TWh
+
+Welsh electricity independence +1
+
+Historical contraction in net exports
+
+2016 — more than 21 TWh2024 — approximately 1.66 TWhIndicative comparison: a reduction of more than 92% from the historical peak.
+
+This materially changes the assessment.
+
+Wales retains significant generating infrastructure, but the scale of its current annual electricity surplus should not be inferred from historical levels of production.
+
+2. Net exports to England versus exports to Ireland
+
+The distinction between the two destinations matters immensely.
+
+The ECIU assessment indicates that Wales became a net importer from England in 2024, despite remaining an overall net exporter when international interconnector flows were included.
+
+The DESNZ 2024 electricity balance indicates a net transfer of approximately 1.022 TWh from England into Wales. Welsh electricity independence +1
+
+This means that the following statements are compatible:
+
+* Wales generates more electricity than it consumes annually.
+* Wales exports electricity internationally.
+* Wales receives more electricity from England than it sends to England over a particular year.
+
+The Welsh network serves both as a generation region and as an international electricity transit region.
+
+3. International interconnection: a substantial Welsh infrastructure asset
+
+Wales now hosts two operational electricity interconnectors between Great Britain and the Republic of Ireland.
+
+Interconnector	Operational since	Nominal capacity
+East West Interconnector	2012	500 MW
+Greenlink	2025	500 MW
+Combined		1,000 MW
+
+Gov.ie +2
+
+Both links are bidirectional. Schematic representation, not a geographical route map.
+
+Greenlink’s entry into commercial operation in January 2025 doubled nominal interconnection capacity between Wales and Ireland.
+
+The latest Digest of UK Energy Statistics, published in 2026, records 4.5 TWh of net electricity exports through the Wales–Ireland connection in 2025. GOV.UK Assets
+
+That is equivalent to an average net transfer of approximately 514 MW over the year.
+
+However, electricity exported through a Welsh interconnector is not necessarily electricity generated in Wales. Some may originate elsewhere in the Great Britain network.
+
+This creates a separate strategic asset category: international electricity-market access.
+
+4. Pumped storage: a disproportionate contribution to grid flexibility
+
+Wales hosts two of Britain’s four established large-scale pumped-storage hydroelectric facilities.
+
+Facility	Nominal generating capacity
+Dinorwig	1,728 MW
+Ffestiniog	360 MW
+Combined	2,088 MW
+
+The Welsh Government’s Energy Generation in Wales 2023 report identifies approximately 11 GWh of combined energy storage and describes these facilities as representing around three-quarters of UK pumped-hydro power capacity. GOV.WALES
+
+Combined generating power
+
+2.1 GW
+
+Combined energy storage
+
+~11 GWh
+
+The distinction between power and energy matters: GW measures the rate at which electricity can be delivered, while GWh measures the amount stored.
+
+Pumped storage consumes electricity when pumping water uphill and subsequently returns electricity when water is released through turbines.
+
+Its annual net energy contribution is therefore negative because of conversion losses. Nevertheless, its contribution to grid reliability can be substantial.
+
+Schematic pumped-storage cycle.
+
+The economic function is not to create additional primary energy, but to make previously generated electricity available when it is more valuable to the system.
+
+5. Actual use of Welsh storage infrastructure
+
+Metered Elexon data compiled by GB Electricity indicates the following recent performance at Dinorwig.
+
+Measurement	Twelve months to 16 November 2026
+Electricity generated	1.04 TWh
+Electricity consumed pumping	1.43 TWh
+Net electricity consumption	0.39 TWh
+Energy returned relative to pumping	Approximately 73%
+Days involving both pumping and generation	363
+
+GB Electricity
+
+This is a particularly useful illustration of why annual net energy accounting cannot adequately measure strategic capability.
+
+Dinorwig consumes more electricity than it generates over the year, yet remains a frequently used component of the national electricity system.
+
+Its contribution is primarily the timing, controllability and availability of electricity, rather than net annual energy production.
+
+These figures come from a secondary compilation of Elexon metering data and have not been independently reconstructed from the underlying half-hourly records.
+
+6. Other Welsh contributions to electricity-system stability
+
+The wider electricity network requires more than sufficient annual generation.
+
+System requirement	Contribution Welsh infrastructure can provide
+Peak-demand coverage	Dispatchable gas generation and pumped storage
+Frequency response	Rapid adjustment of electricity output or consumption
+Operating reserves	Capacity available to respond to unexpected supply shortfalls
+Energy balancing	Storage and controllable generation
+Renewable integration	Absorption and later return of surplus electricity
+Voltage regulation	Suitable generating and converter equipment
+International supply flexibility	Bidirectional interconnection with Ireland
+System restoration	Appropriately equipped and contracted restoration resources
+
+EirGrid’s transmission assessment confirms that the East West Interconnector supports voltage control, emergency power control and black-start capability. Greenlink also incorporates independently controllable voltage and reactive power functions. cms.eirgrid.ie
+
+The specific volume of each service contracted from Welsh facilities by the National Energy System Operator (NESO) has not been quantified in this check.
+
+Technical capability should not automatically be equated with a current contracted obligation.
+
+7. What annual electricity exports fail to capture
+
+Consider two illustrative generating assets with identical annual output.
+
+Measurement	Asset A	Asset B
+Annual electricity supplied	1 TWh	1 TWh
+When electricity is available	During favourable weather	On demand, subject to operational limits
+Dispatchability	Limited	High
+Contribution during demand peaks	Variable	Potentially substantial
+Annual energy accounting	Identical	Identical
+System value	Potentially different	Potentially different
+
+Neither technology is inherently more valuable in every circumstance. They perform different functions within a combined system.
+
+This establishes the need for separate valuations of energy production and dependable capacity.
+
+For Wales, it also means that declining annual net exports do not necessarily imply an equivalent decline in the strategic value of its electricity infrastructure.
+
+8. Economic valuation of wider grid support
+
+There are established commercial mechanisms through which electricity-system services can be remunerated.
+
+Value stream	Measurement
+Wholesale electricity	MWh delivered and associated market prices
+Capacity Market	Contracted dependable capacity
+Balancing Mechanism	Accepted adjustments to generation or consumption
+Frequency response	Contracted response capability and delivery
+Reserve services	Available reserve capacity
+Restoration services	Contracted restoration capability
+Interconnection	Revenue associated with cross-market electricity trading
+Avoided infrastructure expenditure	Modelled cost of alternative system provision
+
+For the Welsh inventory, a particularly useful further exercise would be to identify the revenue obtained by Welsh-located assets from these mechanisms.
+
+However, actual commercial revenue and wider system benefit are not necessarily identical. An infrastructure asset could provide substantial security-of-supply benefits without its operator capturing the entire economic value of those benefits.
+
+Conversely, commercial payments should not automatically be added to avoided outage costs or replacement valuations, as these may reflect overlapping benefits.
+
+9. Implications for the sovereignty assessment
+
+The evidence supports an assessment of mutual electricity-system dependency rather than a simple unilateral supply relationship.
+
+Wales benefits from access to:
+
+* Generation elsewhere in Britain.
+* Shared balancing and reserve resources.
+* A larger wholesale electricity market.
+* International electricity connections.
+
+The wider British system benefits from Welsh-located generation, pumped storage, transmission infrastructure and international interconnection.
+
+Under a hypothetical independence settlement, these functions could continue within an integrated electricity market, subject to appropriate legal, regulatory and commercial agreements.
+
+Territorial sovereignty, electricity-market participation and operational integration are separate questions.
+
+Ireland’s existing interconnection with Britain demonstrates that international borders do not inherently prevent substantial electricity-system integration.
+
+10. Corrected wording for the master document
+
+The extent to which Welsh electricity is exported or supports the wider grid: Wales has historically been a significant net electricity exporter, although annual net exports have declined substantially from their peak of more than 21 TWh in 2016. DESNZ’s 2024 electricity balance indicates an overall net export surplus of approximately 1.66 TWh. However, Wales was a net importer from England during that year, demonstrating the importance of distinguishing domestic British transfers from international electricity exports.Wales hosts two operational electricity interconnectors with the Republic of Ireland, the East West Interconnector and Greenlink, providing combined nominal bidirectional capacity of 1 GW. Official UK energy statistics record approximately 4.5 TWh of net exports through the Wales–Ireland connection during 2025. Electricity transmitted through Welsh interconnectors does not necessarily originate from Welsh generating facilities.Wales also hosts approximately 2.1 GW of pumped-storage generating capacity at Dinorwig and Ffestiniog, with combined energy storage of approximately 11 GWh. These facilities represent around three-quarters of established UK pumped-hydro power capacity. Their strategic contribution arises principally from rapid dispatch, energy storage, balancing and system flexibility, rather than net annual electricity production.Welsh electricity infrastructure should therefore be assessed through separate measures of annual generation, domestic consumption, gross and net cross-border transfers, dependable generating capacity, storage, international interconnection and contracted electricity-system services.The wider economic value of these capabilities includes commercial electricity sales, capacity and balancing revenues, supply flexibility and potential avoided expenditure on alternative infrastructure. The geographical distribution of these benefits, their replacement costs and the proportion of associated income retained within Wales require further assessment.
+
+11. Fact-check status
+
+Claim	Finding
+Wales has historically been a major electricity exporter	Verified
+Welsh annual net exports exceeded 21 TWh in 2016	Documented
+Net exports remain at historic levels	Incorrect
+Overall 2024 net exports were approximately 1.66 TWh	Supported by DESNZ balance
+Wales was a net importer from England in 2024	Supported
+Wales hosts 1 GW of Irish electricity interconnection	Verified
+Net exports through Wales to Ireland reached 4.5 TWh in 2025	Verified
+All electricity exported through Wales is generated in Wales	Incorrect
+Wales hosts approximately 75% of UK pumped-hydro power capacity	Verified — Welsh Government assessment basis
+Pumped storage makes a net positive annual energy contribution	Incorrect
+Welsh grid-support services have been comprehensively valued	Evidence gap
+
+Outstanding research requirements: the September 2026 DESNZ workbook containing the complete 2025 Welsh electricity balance could not be retrieved in this check. Facility-level NESO capacity, balancing and ancillary-service contracts also remain unquantified. I have therefore retained the dated 2024 national balance rather than estimating the missing 2025 figures.
+
+The central finding is that Wales’s contribution to British electricity security is no longer adequately characterised by its annual electricity export surplus. Its storage, dispatchable generation and international interconnection capabilities warrant separate strategic and economic valuations.”.  
+
+“Fiscal — the £22.8 billion Welsh fiscal deficit
+
+The first distinction is particularly important for this section: the estimated Welsh fiscal deficit is not the Welsh Government’s budget deficit.
+
+It is an estimate of the difference between total public-sector expenditure attributed to Wales and total public-sector revenue attributed to Wales under the current UK constitutional and fiscal arrangements.
+
+That includes expenditure and taxation administered by the UK Government, not simply the devolved institutions.
+
+It is a legitimate and important economic measurement, but it is not automatically a forecast of the fiscal position of an independent Wales.
+
+1. The £22.8 billion figure is confirmed
+
+The Welsh Government’s Wales Economic and Fiscal Report 2026, published this month, explicitly confirms the figure using the latest ONS regional public-sector finance statistics, released on 26 May 2026.
+
+Welsh fiscal deficit, 2024–25
+
+£22.8bn
+
+Fiscal deficit per person
+
+£7,149
+
+Public expenditure per person
+
+£20,168
+
+Implied public revenue per person
+
+£13,019
+
+Source: Wales Economic and Fiscal Report 2026, p. 93. Revenue per person calculated from expenditure and deficit figures. GOV.WALES +1
+
+The estimated deficit increased from £20.9 billion in 2023–24 to £22.8 billion in 2024–25.
+
+2. The overall fiscal balance
+
+Using the published per-person figures and the headline deficit, we can reconstruct the approximate aggregate fiscal position.
+
+Welsh public-sector finances, 2024–25
+
+Attributed public expenditure
+
+~£64.3bn
+
+Public revenue
+
+~£41.5bn
+
+Fiscal deficit
+
+£22.8bn
+
+Aggregate revenue and expenditure reconstructed from rounded Welsh Government figures, rather than directly extracted from ONS tables.
+
+On this basis, attributed public revenues cover approximately 64.6% of attributed public expenditure.
+
+The remaining 35.4% constitutes the estimated fiscal shortfall.
+
+3. Recent historical position
+
+Financial year	Estimated Welsh fiscal deficit
+2022–23	£21.5bn
+2023–24	£20.9bn
+2024–25	£22.8bn
+
+GOV.WALES +1
+
+The 2022–23 figure comes from an earlier Wales Office analysis. It should be reconciled against the revised ONS historical series before undertaking precise longitudinal analysis.
+
+The increase between the two latest financial years was approximately £1.9 billion, or 9.1%, in nominal terms.
+
+4. What is included in the £22.8 billion?
+
+The ONS statistic covers the public sector as a whole, not merely devolved government.
+
+Included category	Examples
+Devolved expenditure	Health, education and Welsh Government programmes
+Local government	Council services and local infrastructure
+Reserved expenditure	Defence, central government functions
+Social security	State pensions and welfare payments
+Debt servicing	Attributed UK public debt interest
+Capital expenditure	Public infrastructure and investment
+Public-sector revenue	Income tax, VAT, corporation tax, National Insurance and other receipts
+
+The ONS includes expenditure attributed to beneficiaries within a country or region, alongside directly identifiable expenditure. Some expenditure is incurred outside the territory concerned. Office for National Statistics
+
+This is therefore not simply a record of money physically spent within Wales.
+
+5. Actual expenditure versus attributed expenditure
+
+This distinction will be particularly important when examining the components of the deficit.
+
+The Welsh Government’s latest fiscal report explicitly confirms that defence expenditure and debt interest are attributed on a population basis.
+
+Consider a simplified example:
+
+Illustrative allocation — not actual defence expenditure
+
+Total UK programme
+
+£50bn
+
+Welsh population share
+
+4.7%
+
+Expenditure attributed to Wales
+
+£2.35bn
+
+That £2.35 billion would be attributed to Wales regardless of whether the associated expenditure physically occurred within Welsh territory.
+
+This is a recognised statistical allocation method. It is not, by itself, evidence of an accounting error.
+
+However, it answers a different question from how much money is spent geographically within Wales or how much a future Welsh state would spend on equivalent functions.
+
+6. Wales compared with the wider UK
+
+The latest Welsh Government report establishes the following:
+
+Indicator, 2024–25	Wales	UK
+Public expenditure per person	£20,168	£18,628
+Difference	+£1,540	—
+Relative expenditure	Approximately 108%	100%
+Welsh deficit per person	£7,149	—
+
+GOV.WALES
+
+Wales had the fourth-highest public expenditure per person, behind Scotland, London and Northern Ireland.
+
+It also had the second-highest fiscal deficit per person, behind Northern Ireland.
+
+Only London and the South East recorded fiscal surpluses in 2024–25 under this accounting framework.
+
+This establishes that regional fiscal deficits are widespread within the current UK fiscal structure, although the magnitude of Wales’s deficit is substantial.
+
+7. What the fiscal deficit does not establish
+
+This is where the preceding resource inventory becomes relevant.
+
+Question	Answered by the £22.8bn figure?
+Does attributed public expenditure exceed revenue?	Yes
+How much does the Welsh Government itself borrow?	No
+What is Wales’s international trade balance?	No
+What is the value of Wales’s natural resources?	No
+What would replacing Welsh strategic infrastructure cost?	No
+What benefits does the rest of Britain receive from Welsh infrastructure?	Not comprehensively
+What would an independent Wales spend on defence?	No
+What share of UK public debt would Wales inherit?	No
+What would an independent Wales’s fiscal deficit be?	No
+
+The ONS explicitly excludes regional debt and borrowing estimates from this statistical series. Office for National Statistics
+
+The £22.8 billion therefore cannot be described as either the Welsh national debt or the amount borrowed by the Welsh Government.
+
+Nor does it measure the total economic value of Wales to the United Kingdom.
+
+8. Relationship with the strategic-resource inventory
+
+We have been establishing several different forms of economic value throughout the preceding checks.
+
+Resource or capability	Relevant accounting framework
+LNG and petroleum infrastructure	Industrial output, GVA, taxation and infrastructure value
+Electricity storage	Capacity, balancing and commercial revenues
+Water resources	Abstraction, supply contracts and resilience
+Woodland	Commercial production and natural-capital accounts
+Flood regulation	Ecosystem-service and replacement-cost valuations
+Agricultural production	Output, GVA and food-system resilience
+Military training infrastructure	Public expenditure, operational capability and replacement costs
+
+Some of the economic activity associated with these resources is already reflected in attributed tax receipts. Other benefits, particularly non-market ecosystem services and infrastructure availability, are not fully represented in the fiscal account.
+
+That does not mean their monetary valuations can be deducted from the £22.8 billion deficit.
+
+For example, the previously identified £33.54 billion woodland natural-capital valuation represents an asset stock. The fiscal deficit represents an annual flow. Subtracting one from the other would be economically invalid.
+
+The appropriate approach is to maintain complementary fiscal, commercial, natural-capital and strategic-capability accounts.
+
+9. Relevance to an independent Wales
+
+The existing deficit is a necessary starting point for fiscal modelling, but not a complete independence scenario.
+
+Such a scenario would require separately modelling:
+
+Fiscal component	Required assessment
+Existing taxation	Revenue retained and changes to the tax base
+Reserved expenditure	Cost of providing equivalent sovereign functions
+Defence	Future defence policy and commitments
+Debt interest	Negotiated debt and asset settlement
+Pensions	Future liabilities and transitional arrangements
+Public administration	Establishment and operation of sovereign institutions
+Natural-resource revenue	Ownership, taxation and regulatory arrangements
+Trade	Changes to market access and economic activity
+Transition costs	One-off institutional and economic expenditure
+Borrowing	Financing requirements and borrowing costs
+
+Some changes could reduce the estimated expenditure or increase revenue. Others could increase expenditure or reduce revenue.
+
+The direction and magnitude of the overall change cannot be established without a detailed model.
+
+The £22.8 billion deficit should therefore neither be dismissed nor treated as an immutable feature of Welsh economic geography.
+
+10. Corrected wording for the master document
+
+The £22.8 billion Welsh fiscal deficit: The Welsh Government’s Wales Economic and Fiscal Report 2026, using ONS country and regional public-sector finance statistics released in May 2026, confirms an estimated Welsh net fiscal deficit of £22.8 billion for the 2024–25 financial year, up from £20.9 billion in 2023–24.Public-sector expenditure attributed to Wales amounted to £20,168 per person, with a fiscal deficit of £7,149 per person. These figures imply public-sector revenue of approximately £13,019 per person. Rounded aggregate estimates indicate approximately £64.3 billion of expenditure and £41.5 billion of revenue.The fiscal balance incorporates devolved, local and reserved public-sector activity, including expenditure attributed to Wales through statistical allocation methods. Defence expenditure and public debt interest are among the items allocated on a population basis.The estimated fiscal deficit is not the Welsh Government’s budget deficit, actual Welsh Government borrowing, a measure of national debt or a comprehensive valuation of Wales’s economic contribution to the United Kingdom.It provides an essential baseline for assessing Welsh public finances under current constitutional arrangements. An assessment of the fiscal position of an independent Wales would additionally require modelling taxation, expenditure, sovereign institutional costs, debt and asset succession, trade, natural-resource revenues and transitional arrangements.Natural-capital asset values, commercial infrastructure valuations and non-market strategic benefits should be documented in complementary accounts rather than directly offset against the annual fiscal deficit.
+
+11. Fact-check status
+
+Claim	Finding
+Welsh fiscal deficit is £22.8bn	Verified — 2024–25
+This is the latest published annual estimate	Confirmed in November 2026 report
+Deficit increased from £20.9bn	Verified
+Fiscal deficit per person is £7,149	Verified
+Public expenditure per person is £20,168	Verified
+Revenue per person is approximately £13,019	Calculated
+Defence and debt interest are included	Verified
+All attributed expenditure physically occurs in Wales	Incorrect
+£22.8bn is Welsh Government borrowing	Incorrect
+£22.8bn measures Wales’s total economic contribution	Incorrect
+An independent Wales would necessarily inherit this exact annual deficit	Not established
+
+Primary sources
+
+* Welsh Government — Wales Economic and Fiscal Report 2026⁠￼
+* ONS — Country and regional public sector finances, financial year ending 2025⁠￼
+* ONS — Quality and methods guide, revised May 2026⁠￼
+
+Outstanding limitation: I have verified the headline deficit against the latest Welsh Government report, but have not yet extracted and reconciled every revenue and expenditure line from the underlying ONS workbooks. The reconstructed aggregate expenditure and revenue figures are consequently approximate.
+
+The next stage should be the disaggregation of the £22.8 billion itself, particularly distinguishing territorially identifiable expenditure, non-identifiable allocated expenditure, debt interest and the methods used to attribute tax revenues.”.  
+
+“The £41.5 billion Welsh public revenue figure
+
+The £41.5 billion figure refers to estimated total public-sector revenue attributable to Wales, rather than revenue collected or controlled directly by the Welsh Government.
+
+It includes both devolved and reserved taxation, National Insurance contributions, local taxation and other public-sector income.
+
+In the preceding fiscal check, we reconstructed this figure from the published expenditure and deficit statistics. We now need to distinguish that reconstruction from the exact underlying ONS revenue estimate.
+
+1. The headline figure is confirmed
+
+The Welsh Government’s November 2026 Wales Economic and Fiscal Report 2026, page 92, explicitly confirms £41.5 billion in public revenue for the 2024–25 financial year. GOV.WALES
+
+The more precise figures, reproduced from the ONS dataset by Scotfact, are:
+
+Welsh public-sector revenue
+
+£41.487bn
+
+Revenue per person
+
+£13,019
+
+Share of total UK revenue
+
+3.64%
+
+Revenue as proportion of expenditure
+
+64.6%
+
+Financial year 2024–25. Sources: Welsh Government and ONS data reproduced by Scotfact. scotfact.com +1
+
+This also allows us to replace the reconstructed figures from the previous check with more precise totals.
+
+Fiscal measurement	2024–25
+Public-sector revenue	£41.487bn
+Public-sector expenditure	£64.268bn
+Net fiscal deficit	£22.781bn
+Revenue as a proportion of expenditure	64.6%
+
+Composition of attributed public expenditure
+
+Attributed revenue
+
+£41.487bn
+
+Fiscal shortfall
+
+£22.781bn
+
+2. What constitutes public-sector revenue?
+
+The ONS definition is broader than taxation alone.
+
+Revenue category	Examples
+Taxes on personal income	Income tax
+Social contributions	National Insurance
+Consumption taxation	VAT
+Corporate taxation	Corporation tax
+Property taxation	Council tax, non-domestic rates
+Transaction taxation	Land Transaction Tax
+Fuel and environmental taxation	Fuel duty, Landfill Disposals Tax
+Other duties	Alcohol, tobacco and passenger duties
+Public-sector investment income	Interest and dividends
+Property and other income	Rents and relevant transfers
+Public-sector operating surplus	National accounts measures of public-sector production
+
+The ONS records these revenues on an accruals basis rather than exclusively recording cash received during the financial year. Office for National Statistics +1
+
+Consequently, £41.487 billion should not be described simply as Welsh tax receipts.
+
+3. How much revenue is raised relative to other UK nations?
+
+Using the same 2024–25 statistical series:
+
+England
+
+£981.643bn
+
+Scotland
+
+£91.278bn
+
+Wales
+
+£41.487bn
+
+Northern Ireland
+
+£24.388bn
+
+Total UK public-sector revenue: £1,138.796bn. North Sea revenues allocated geographically. scotfact.com
+
+Nation	Share of UK revenue	Revenue coverage of expenditure
+England	86.20%	91.8%
+Scotland	8.02%	77.9%
+Wales	3.64%	64.6%
+Northern Ireland	2.14%	60.6%
+
+Wales’s public revenue per person is lower than that of Scotland and most English regions, but higher than Northern Ireland and the North East of England. GOV.WALES
+
+4. How revenue is geographically attributed
+
+This is the particularly important methodological issue for the wider resource inventory.
+
+The £41.487 billion is not produced simply by adding up payments made into government accounts by businesses with Welsh addresses.
+
+The ONS uses administrative data and statistical apportionment methods to distribute UK-wide receipts geographically. The approach differs according to the tax or revenue stream.
+
+Possible attribution basis	What it measures
+Taxpayer residence	Where the individual lives
+Household consumption	Where relevant expenditure occurs
+Business economic activity	Where relevant activity is estimated to occur
+Administrative records	Directly identifiable regional receipts
+Statistical apportionment	Estimated national or regional share
+Geographical resource location	Relevant territorial resource revenues
+
+The ONS methodology explicitly acknowledges that data availability, timeliness and assumptions about who bears taxation affect these calculations. Where newer regional data are unavailable, previous proportions may be carried forward. Office for National Statistics
+
+This is a legitimate statistical methodology, but it is not the same as a complete territorial revenue audit.
+
+5. VAT provides a particularly useful example
+
+The ONS generally allocates indirect taxation on the assumption that consumers ultimately bear the tax.
+
+Consider an illustrative case:
+
+Production in Wales
+
+Goods manufactured
+
+Consumption in England
+
+Goods purchased
+
+The associated consumption taxation would generally be attributed according to consumption rather than the location of manufacturing.
+
+This does not mean the VAT is incorrectly allocated. VAT is a consumption tax, not a direct measure of manufacturing output.
+
+It does, however, demonstrate why the geography of public revenue differs from the geography of productive economic activity.
+
+The ONS also explicitly distinguishes its current regional VAT methodology from the Scottish VAT assignment model, which estimates receipts under a separate VAT jurisdiction. Office for National Statistics
+
+That distinction is directly relevant to modelling a hypothetical independent Welsh tax jurisdiction.
+
+6. Revenue attribution and corporate headquarters
+
+A further question concerns businesses that operate substantial infrastructure in Wales but have their corporate headquarters elsewhere.
+
+Examples from the preceding inventory include petroleum refining, LNG terminals, electricity generation and water infrastructure.
+
+For these businesses, several geographical relationships may coexist:
+
+Measurement	Potential geographical basis
+Industrial production	Location of the facility
+Employment income	Employees’ residence
+Corporation tax	Relevant apportionment methodology
+VAT	Consumption
+Dividends	Shareholders and ownership
+Business rates	Location of taxable property
+Resource rents	Ownership and contractual rights
+
+A company having its registered office outside Wales does not automatically establish that every tax receipt associated with its Welsh operations is attributed elsewhere.
+
+Equally, a major industrial facility being located in Wales does not establish that all associated corporate profits and taxes are attributed to Wales.
+
+We would need to examine the ONS methodology for each individual tax.
+
+7. Statistical revisions have materially affected Welsh estimates before
+
+There is a documented example worth retaining in the inventory.
+
+On 18 July 2024, the ONS corrected a processing error involving the geographical allocation of visa fees and Immigration Health Surcharge revenue.
+
+The error predominantly affected Wales and Northern Ireland and had appeared in three successive regional public-finance publications. Revenue, expenditure and fiscal-balance tables were affected. Office for National Statistics
+
+This does not establish that the latest £41.487 billion figure is incorrect.
+
+It does establish that:
+
+* Regional attribution methods require scrutiny.
+* Errors can persist across successive publications.
+* Historical figures must be checked against revised datasets.
+* Statistical uncertainty should be distinguished from demonstrated accounting errors.
+
+The May 2026 release also introduced revised classifications and additional revenue items, including the Bank of England Levy and Gambling Levy. Office for National Statistics
+
+8. What the £41.487 billion does not measure
+
+Economic measurement	Captured by headline public revenue?
+Taxation attributable to Wales	Yes
+Certain non-tax government receipts	Yes
+Total Welsh economic production	No
+Gross value of Welsh exports	No
+Private-sector corporate profits	Not directly
+Total wealth generated within Welsh territory	No
+Natural-capital asset values	No
+Replacement value of strategic infrastructure	No
+Potential future resource royalties	No
+Revenue under a different sovereign tax system	No
+
+This distinction connects directly with the preceding work on Welsh natural resources and infrastructure.
+
+The fiscal account measures public receipts arising under existing institutional, economic and taxation arrangements. It does not attempt to value every economic benefit generated by Welsh territory.
+
+However, some of those benefits already generate economic activity and associated taxation included within the £41.487 billion. They must not be counted twice.
+
+9. Implications for a future Welsh fiscal model
+
+The appropriate starting point would be the existing £41.487 billion revenue estimate, followed by a tax-by-tax reconciliation.
+
+Potential adjustment	Required analysis
+Tax attribution	Existing methodology compared with territorial tax arrangements
+Tax policy	Potential changes in rates, allowances and tax bases
+Corporation tax	Treatment of cross-border businesses and profits
+VAT	Separate jurisdiction and place-of-supply rules
+Crown Estate income	Ownership, management rights and future receipts
+Natural-resource taxation	Legally and commercially achievable revenue
+International trade	Changes in economic activity and market access
+Public assets	Income rights under any succession settlement
+Administrative costs	Revenue collection and compliance expenditure
+Behavioural responses	Investment, migration, consumption and business decisions
+
+The resulting fiscal position could be better or worse than the existing estimate, depending on the arrangements adopted and their economic consequences.
+
+There is not yet sufficient evidence to quantify that difference.
+
+10. Corrected wording for the master document
+
+The £41.5 billion public revenue figure: The Welsh Government’s Wales Economic and Fiscal Report 2026 confirms estimated Welsh public-sector revenue of approximately £41.5 billion for the 2024–25 financial year, equivalent to £13,019 per person. The underlying ONS figures, as reproduced in a regional fiscal summary, identify revenue of £41.487 billion, expenditure of £64.268 billion and a net fiscal deficit of £22.781 billion.Welsh public-sector revenue represents approximately 3.64% of total UK public-sector receipts and covers approximately 64.6% of expenditure attributed to Wales.The revenue estimate includes taxation, social contributions and other public-sector receipts recorded on an accruals basis. It incorporates revenues administered by both devolved and reserved institutions and does not represent revenue controlled solely by the Welsh Government.The ONS geographically attributes different revenue streams using administrative records, economic indicators and statistical apportionment methods. The geographical attribution of revenue therefore does not necessarily coincide with the geographical location of industrial production, commercial infrastructure, natural resources or corporate ownership.The estimate provides an essential fiscal baseline under existing UK arrangements but does not constitute a comprehensive valuation of Welsh territorial economic activity or a forecast of revenue under a separate sovereign tax jurisdiction. Further analysis should examine the attribution methodology and potential adjustments for individual revenue streams, while avoiding double counting economic activity already reflected in taxation.
+
+11. Fact-check status
+
+Claim	Finding
+Welsh public revenue is approximately £41.5bn	Verified — 2024–25
+Revenue is precisely £41.487bn	Confirmed through secondary reproduction of ONS data
+Revenue per person is £13,019	Verified
+Wales accounts for 3.64% of UK public revenue	Verified — calculated
+Revenue covers 64.6% of attributed expenditure	Verified — calculated
+All £41.5bn consists of taxation	Incorrect
+All £41.5bn is controlled by the Welsh Government	Incorrect
+Revenue attribution involves statistical estimates	Verified
+Previous attribution errors have affected Wales	Verified
+£41.5bn measures the total economic value generated in Wales	Incorrect
+An independent Wales would necessarily collect exactly £41.5bn	Not established
+
+Primary sources
+
+* Welsh Government — Wales Economic and Fiscal Report 2026⁠￼
+* ONS — Country and regional public-sector revenue tables, 2025 edition⁠￼
+* ONS — Quality and methods guide, May 2026⁠￼
+* ONS — Detailed methodology guide⁠￼
+
+Outstanding research requirement: I have directly verified the rounded £41.5 billion headline against the Welsh Government’s latest report. The more precise £41.487 billion figure comes from a secondary reproduction of the ONS tables; I have not independently extracted the original workbook or reconciled each individual tax line.
+
+The next useful step is to disaggregate the £41.487 billion by revenue stream and examine how each is attributed geographically. That would allow us to distinguish directly recorded revenue, statistically allocated revenue and potential differences under alternative constitutional arrangements.”.  
+
+“Welsh GDP and GVA
+
+For the fiscal assessment, we need both figures, but they perform slightly different functions.
+
+* Gross domestic product (GDP): the value of economic production within Wales at market prices. This is the appropriate denominator for expressing the fiscal deficit as a percentage of the economy.
+* Gross value added (GVA): the value generated by economic activity after deducting intermediate consumption. This is particularly useful for assessing individual industries and their contribution to Welsh economic output.
+
+The relationship is:
+
+GDP = GVA + \text{product taxes} - \text{product subsidies}
+
+Neither figure represents government revenue, national wealth or the total value of Welsh natural and strategic assets.
+
+1. Latest verified annual figures
+
+The latest ONS annual regional accounts were published on 23 September 2026, with supplementary GVA data released on 13 November 2026. The Welsh Government updated its corresponding statistical release on 20 November.
+
+Welsh GDP — 2024
+
+£100.327bn
+
+Welsh GVA — 2024
+
+£87.4bn
+
+GDP per person
+
+£31,484
+
+GVA per person
+
+£27,438
+
+Annual real GDP growth
+
++0.5%
+
+Annual real GVA growth
+
++0.5%
+
+Sources: ONS regional economic accounts and Welsh Government statistical release, updated November 2026. GOV.WALES +1
+
+Wales has now passed £100 billion in annual nominal GDP. The 2024 estimates remain provisional.
+
+2. GDP, GVA and the fiscal figures together
+
+Combining these with the figures established in our preceding fiscal checks gives the following working baseline.
+
+GDP
+
+£100.33bn
+
+GVA
+
+£87.40bn
+
+Public expenditure
+
+£64.27bn
+
+Public revenue
+
+£41.49bn
+
+Fiscal deficit
+
+£22.78bn
+
+GDP and GVA: calendar year 2024. Public finances: financial year 2024–25. These are overlapping measurements, not additive components.
+
+Fiscal indicator	Approximate percentage of GDP
+Public revenue	41.35%
+Public expenditure	64.06%
+Fiscal deficit	22.71%
+GVA	87.11%
+
+Important methodological qualification: these percentages use calendar-year 2024 GDP against financial-year 2024–25 fiscal figures. They are useful indicative ratios, but not precisely period-matched official fiscal ratios.
+
+For definitive fiscal modelling, we should obtain a consistent financial-year GDP denominator.
+
+3. Comparison with the other UK nations
+
+The September 2026 ONS release provides directly comparable GDP estimates for all four nations.
+
+Nation	GDP, 2024	GDP per person	Real GDP growth
+England	£2,472.08bn	£42,171	1.3%
+Scotland	£218.78bn	£39,441	1.2%
+Wales	£100.33bn	£31,484	0.5%
+Northern Ireland	£67.68bn	£35,108	0.7%
+UK	£2,884.01bn	£41,627	1.1%
+
+Office for National Statistics
+
+Wales accounts for approximately:
+
+* 4.6% of the UK population.
+* 3.48% of UK GDP.
+* 3.64% of UK public-sector revenue, using the preceding fiscal estimate.
+
+Welsh GDP per person is approximately 75.6% of the UK average. Welsh GVA per person is 73.8% of the corresponding UK average excluding extra-regional activity. GOV.WALES +1
+
+4. More recent economic activity data
+
+There is also a newer quarterly GDP series, published on 3 August 2026, covering July–September 2025.
+
+This series is particularly interesting for our industrial-resource inventory.
+
+Welsh quarterly economic composition — Q3 2025
+
+£22.1bn
+
+Services
+
+£16.4bn
+
+74%
+
+Production industries
+
+£4.4bn
+
+20%
+
+Construction
+
+£948m
+
+4%
+
+Agriculture, forestry and fishing
+
+£341m
+
+2%
+
+Welsh Government quarterly regional GDP release. Rounded sector shares. GOV.WALES
+
+Manufacturing alone accounted for approximately £3.3 billion, or 15% of quarterly economic activity.
+
+However, there is a significant statistical qualification. The ONS is still developing its quarterly regional methodology following the suspension of the previous series in 2023.
+
+The newer quarterly data are nominal, seasonally adjusted estimates and remain official statistics in development.
+
+I would therefore retain the accredited annual regional accounts as our principal baseline. We should not multiply the £22.1 billion quarterly figure by four and substitute the result for annual GDP.
+
+5. The difference between GDP and GVA
+
+The difference between the latest Welsh GDP and GVA figures is approximately £12.9 billion.
+
+Composition of GDP at market prices — 2024
+
+GVA at basic prices
+
+£87.4bn
+
+Product taxes less product subsidies
+
+~£12.9bn
+
+This difference is not equivalent to the total amount of taxation raised in Wales.
+
+Income tax, corporation tax and National Insurance, for example, are not simply added to GVA to calculate GDP.
+
+The adjustment concerns taxes and subsidies on products.
+
+6. Why GVA matters for the resource inventory
+
+GVA helps distinguish the value of industrial production from the gross value of goods moving through Wales.
+
+For instance, consider an illustrative refinery:
+
+Economic activity	Illustrative value
+Petroleum products sold	£5bn
+Imported crude and other intermediate inputs	£4bn
+Gross value added	£1bn
+
+The refinery contributes £1 billion in GVA, rather than £5 billion.
+
+That GVA encompasses employee compensation, gross operating surplus and relevant production taxes less subsidies. It is not equivalent to either company profit or public revenue.
+
+This is particularly relevant to the sectors we have already examined.
+
+Sector	Measurement to prioritise
+Petroleum refining	GVA rather than gross fuel sales
+LNG terminals	Domestic value added rather than imported gas value
+Agriculture	Farm GVA rather than gross agricultural output
+Forestry	Commercial GVA alongside separate ecosystem accounts
+Electricity	Generation and network-service GVA
+Water	Supply-sector GVA alongside resource and resilience accounts
+Manufacturing	GVA rather than total exports or turnover
+Defence infrastructure	Government production and economic activity alongside operational capability
+
+7. Geographical production versus retained income
+
+This is another important distinction.
+
+GDP and GVA measure production occurring within an economic territory. They do not necessarily establish how much resulting income remains within that territory.
+
+For example, a foreign-owned electricity generating station located in Wales can contribute to Welsh GVA even when some of its profits are subsequently distributed to shareholders outside Wales.
+
+The same applies to a British company headquartered in England with productive facilities in Wales.
+
+For a fuller assessment, we should eventually distinguish:
+
+Measure	What it establishes
+GDP	Territorial economic production
+GVA	Value added by industries
+GNI	Income accruing to resident economic units
+GDHI	Disposable household income
+Public revenue	Government receipts
+National wealth	Accumulated economic assets and liabilities
+Natural capital	Environmental assets and associated services
+
+Gross national income (GNI) would be particularly relevant to examining income flows into and out of Wales. I have not established a comprehensive current Welsh GNI estimate.
+
+8. What GDP does not fully capture
+
+The preceding strategic-resource work remains relevant even after establishing the £100.3 billion GDP figure.
+
+Conventional GDP does not comprehensively measure:
+
+* The insurance value of spare infrastructure capacity.
+* The availability of strategic mineral reserves.
+* Non-market ecosystem services.
+* The replacement cost of geographically specific military infrastructure.
+* The value of avoiding disruption to essential services.
+* The accumulated value of cultural and natural assets.
+
+Some associated economic activity is already included in GDP. Other services require supplementary accounting.
+
+The objective is not to inflate Welsh GDP by adding hypothetical valuations, but to establish a broader account of Welsh productive capacity, wealth and strategic importance.
+
+9. Corrected wording for the master document
+
+Welsh GDP and GVA: The latest ONS annual regional economic accounts, published in September 2026 and supplemented by further data in November 2026, estimate Welsh GDP at £100.327 billion and GVA at approximately £87.4 billion for calendar year 2024, measured at current prices.Welsh GDP per person was £31,484, while GVA per person was £27,438. Both GDP and GVA increased by 0.5% in real terms during 2024, although real GDP per person decreased by 0.1%. Wales accounted for approximately 3.5% of total UK GDP.Comparing calendar-year 2024 GDP with financial-year 2024–25 public finances produces indicative ratios of approximately 41.4% for public revenue, 64.1% for public expenditure and 22.7% for the net fiscal deficit. These ratios are not precisely period-matched and should be refined using a consistent financial-year GDP denominator.GDP and GVA measure territorial economic production rather than public revenue, retained national income or accumulated national wealth. Gross commercial turnover and commodity exports should not be substituted for value added. Natural capital, strategic infrastructure availability and non-market economic benefits should be assessed through complementary accounts.
+
+10. Fact-check status
+
+Claim	Finding
+Welsh GDP exceeds £100bn	Verified
+GDP is £100.327bn	Verified — 2024
+GVA is approximately £87.4bn	Verified — 2024
+GDP per person is £31,484	Verified
+GVA per person is £27,438	Verified
+Real annual economic growth was 0.5%	Verified
+Wales produces approximately 3.5% of UK GDP	Verified
+Fiscal deficit is approximately 22.7% of GDP	Indicative calculation
+GDP measures income retained within Wales	Incorrect
+Complete annual 2025 GDP and GVA estimates	Not yet published
+Comprehensive Welsh GNI estimate	Evidence gap
+
+Primary sources
+
+* Welsh Government — Regional GDP and GVA, updated 20 November 2026⁠￼
+* ONS — Regional economic activity by GDP, 1998–2024⁠￼
+* Welsh Government — Quarterly regional GDP, July–September 2025⁠￼
+* Office for Statistics Regulation — Measuring Welsh economic growth⁠￼
+
+Outstanding limitations: I have verified the latest annual GDP and GVA headlines directly against the official releases. I have not extracted the full industry-level GVA workbook, established a financial-year GDP denominator or independently reconciled the earlier fiscal figures in this check.
+
+Our working fiscal baseline is therefore now:
+
+Indicator	Amount
+GDP	£100.327bn
+GVA	£87.4bn
+Public expenditure	£64.268bn
+Public revenue	£41.487bn
+Fiscal deficit	£22.781bn
+
+The next particularly useful distinction will be between where economic value is produced, where the resulting income accrues, and where public revenue is attributed. Those are three different economic geographies.”.  
+
+“Welsh export figures
+
+For the fiscal and sovereignty assessment, we need to distinguish four categories:
+
+* International goods exports.
+* International services exports.
+* Goods and services supplied to the rest of the UK.
+* Domestic value added embodied in exports, rather than their gross commercial value.
+
+The third category is particularly important. England is an external market from the perspective of the Welsh regional economy, but sales to England are not currently international exports.
+
+Consequently, headline international export statistics alone cannot establish the full extent of Welsh trade beyond its borders.
+
+1. Latest international goods exports
+
+The Welsh Government’s latest release, published on 17 September 2026, covers the twelve months ending June 2026.
+
+International goods exports
+
+£20.0bn
+
++5.3% year-on-year
+
+International goods imports
+
+£21.6bn
+
++4.8% year-on-year
+
+Goods trade deficit
+
+£1.6bn
+
+Physical export volume
+
+7.5m tonnes
+
+−0.7% year-on-year
+
+July 2025–June 2026. Provisional HMRC regional trade statistics, current prices. GOV.WALES
+
+The increase in export value accompanied by a small decline in physical volume means that the monetary growth should not automatically be interpreted as an equivalent increase in physical production.
+
+2. Composition of Welsh international goods exports
+
+Commodity	Export value	Approx. share
+Power-generating machinery and equipment	£4.3bn	21.5%
+Other transport equipment	£3.0bn	15.0%
+Petroleum and related products	£2.8bn	14.0%
+Other goods	£9.9bn	49.5%
+Total	£20.0bn	100%
+
+The three leading categories account for approximately half of Welsh international goods exports. GOV.WALES
+
+The classification matters: power-generating machinery includes aircraft engines and related equipment. It should not be confused with exports of electricity itself.
+
+3. Export destinations
+
+International goods exports by destination
+
+58.3%
+
+41.7%
+
+European Union
+
+£11.7bn
+
+Non-EU countries
+
+£8.3bn
+
+Leading destination	Export value
+Germany	£3.0bn
+United States	£2.9bn
+Ireland	£2.5bn
+
+These three countries accounted for 41.8% of Welsh international goods exports.
+
+The EU accounted for 58.3% of Welsh goods exports, compared with 49.4% across the UK as a whole. GOV.WALES
+
+For the EU accession assessment, this establishes that Wales has a comparatively high existing exposure to European goods markets. It does not, on its own, quantify the economic impact of accession.
+
+4. International services exports
+
+The September 2026 Welsh Government trade release identifies the 2023 ONS regional international trade estimates as the latest available services data.
+
+According to those estimates:
+
+Export type	Approximate share of total international exports
+Goods	70%
+Services	30%
+
+GOV.WALES
+
+Services therefore represent a substantial additional component of Welsh exports that is absent from the £20 billion headline.
+
+However, applying the historical 70:30 split to the latest goods figure would produce a speculative estimate, rather than an official total.
+
+The exact current monetary value of international services exports remains an outstanding item.
+
+5. Trade with the rest of the United Kingdom
+
+This is arguably the most important additional measurement for our purposes.
+
+The Trade Survey for Wales 2022, revised on 5 June 2026, provides estimates of goods and services sold by Welsh businesses to different destinations.
+
+£144.9bn
+
+Total estimated Welsh business sales, 2022
+
+Within Wales
+
+£68.2bn
+
+47%
+
+Rest of the UK
+
+£48.2bn
+
+33%
+
+International
+
+£24.2bn
+
+17%
+
+Unallocated
+
+£4.2bn
+
+3%
+
+Trade Survey for Wales 2022, revised June 2026. Rounded figures. Official statistics in development. GOV.WALES
+
+Combining sales to the rest of the UK and international destinations gives approximately £72.4 billion of external sales by Welsh businesses in 2022.
+
+This is considerably larger than the headline international goods export figure, although it covers a different year and a broader statistical population.
+
+6. Where within the UK do Welsh businesses sell?
+
+The June 2026 revision corrected the geographical breakdown of intra-UK sales.
+
+Revised Trade Survey for Wales, 2022. GOV.WALES
+
+Destination	Sales	Share of rest-of-UK sales
+England	£31.5bn	65%
+Scotland	£1.9bn	4%
+Northern Ireland	£1.1bn	2%
+Unallocated within UK	£13.6bn	28%
+
+England is therefore clearly the largest identified external market for Welsh businesses.
+
+The substantial unallocated component prevents us from determining its precise share.
+
+The November 2026 Wales Economic and Fiscal Report also identifies the importance of intra-UK trade, citing the survey’s estimate that approximately one-third of Welsh business sales go to the rest of Britain and Northern Ireland. GOV.WALES
+
+7. Welsh external sales and purchases
+
+The same survey allows us to construct an indicative comparison of external sales and purchases.
+
+Destination or origin, 2022	Sales	Purchases
+Rest of the UK	£48.2bn	~£25.5bn
+International	£24.2bn	~£10.3bn
+Combined external trade	£72.4bn	~£35.8bn
+
+This might initially suggest a Welsh external trade surplus of approximately £36.6 billion.
+
+We cannot legitimately conclude that from these figures.
+
+The survey does not constitute a comprehensive regional balance of payments. There are substantial differences in coverage, allocation and reporting between sales and purchases.
+
+The Welsh Government itself demonstrates the scale of this problem through a comparison with HMRC data.
+
+International goods trade, 2022	Trade Survey for Wales	HMRC comparison
+Exports	£21.7bn	£20.5bn
+Imports	£8.4bn	£24.1bn
+
+GOV.WALES
+
+The discrepancy in imports is approximately £15.7 billion.
+
+This is a material methodological limitation, not a rounding issue. The survey’s external sales estimates are useful evidence of trading relationships, but its sales-minus-purchases balance cannot be substituted for a national trade balance.
+
+8. Manufacturing’s contribution
+
+Manufacturing is particularly important within the Trade Survey for Wales.
+
+Manufacturing indicator, 2022	Value
+Total manufacturing sales	£41.6bn
+Sales to rest of UK	£18.0bn
+International exports	£19.2bn
+Combined external manufacturing sales	£37.2bn
+Share of international sales accounted for by manufacturing	79%
+Share of rest-of-UK sales accounted for by manufacturing	37%
+
+GOV.WALES
+
+This reinforces the importance of the industrial infrastructure we have been examining, including aerospace, petroleum refining, metals and other manufacturing.
+
+However, manufacturing sales include intermediate inputs and are not equivalent to manufacturing GVA.
+
+9. Geographical attribution and supply-chain limitations
+
+The Welsh Government explicitly acknowledges that its HMRC goods statistics do not capture Welsh-produced components incorporated into finished products elsewhere in Britain and subsequently exported internationally. GOV.WALES
+
+For example:
+
+Wales
+
+Component production
+
+England
+
+Final assembly
+
+Overseas
+
+Finished product sold
+
+Welsh value added may be embodied in the finished export without appearing separately in Welsh international goods export statistics.
+
+The appropriate supplementary measurement would be trade in value added, supported by regional input-output and supply-use tables.
+
+This would help establish both the Welsh value embodied in exports from elsewhere in Britain and the non-Welsh value embodied in exports attributed to Wales.
+
+10. Relationship with GDP and public finances
+
+Our working inventory now contains the following figures.
+
+Measurement	Value	Reference period
+GDP	£100.327bn	2024
+GVA	£87.4bn	2024
+Public revenue	£41.487bn	2024–25
+Public expenditure	£64.268bn	2024–25
+Fiscal deficit	£22.781bn	2024–25
+International goods exports	£20.0bn	Year to June 2026
+International goods imports	£21.6bn	Year to June 2026
+International goods trade deficit	£1.6bn	Year to June 2026
+Sales to rest of UK	£48.2bn	2022
+Combined external business sales	£72.4bn	2022
+
+These figures should remain in separate accounting categories.
+
+A fiscal deficit and a trade deficit are different phenomena. Neither gross export revenues nor commercial sales can be directly deducted from the public-sector fiscal deficit.
+
+11. Corrected wording for the master document
+
+Welsh export figures: Welsh Government statistics published in September 2026 identify international goods exports of £20.0 billion and imports of £21.6 billion during the twelve months ending June 2026, producing an international goods trade deficit of approximately £1.6 billion.International goods export values increased by 5.3% compared with the preceding twelve months, while physical export volumes declined by 0.7%. Power-generating machinery and equipment, other transport equipment and petroleum products together accounted for approximately half of export value. The European Union accounted for 58.3% of international goods exports.These statistics exclude services and trade within the United Kingdom. The latest available ONS regional estimates for 2023 indicate that services represent approximately 30% of Welsh international export value.The Trade Survey for Wales 2022, revised in June 2026, estimates sales of goods and services to the rest of the UK at £48.2 billion and international sales at £24.2 billion, producing combined estimated external business sales of £72.4 billion. England was the largest identified external market.The survey remains an official statistic in development and cannot establish a comprehensive Welsh trade balance. Significant differences exist between its purchase estimates and HMRC import statistics.Conventional regional export statistics also do not separately identify Welsh value added embodied in finished products exported from other parts of Britain. A fuller assessment requires regional supply-use tables, trade-in-value-added analysis and more comprehensive interregional trade accounts.
+
+12. Fact-check status
+
+Claim	Finding
+Welsh international goods exports are £20bn	Verified
+International goods imports are £21.6bn	Verified
+Goods trade deficit is approximately £1.6bn	Calculated
+EU receives 58.3% of Welsh goods exports	Verified
+Services account for approximately 30% of international exports	Supported — 2023
+Sales to rest of UK amount to £48.2bn	Survey estimate — 2022
+Combined external business sales amount to £72.4bn	Calculated survey estimate — 2022
+Wales has an overall £36.6bn trade surplus	Not established
+Welsh intermediate production is fully captured in international export figures	Incorrect
+Complete contemporary Welsh balance of payments	Evidence gap
+
+Primary sources
+
+* Welsh international goods trade: July 2025 to June 2026⁠￼
+* Trade Survey for Wales 2022 — revised June 2026⁠￼
+* Wales Economic and Fiscal Report 2026⁠￼
+
+Outstanding limitations: I have not independently extracted the exact ONS monetary estimates for international services exports or established a newer comprehensive intra-UK trade dataset. I have deliberately kept the HMRC and Trade Survey figures separate rather than combining different years and methodologies into a misleading contemporary export total.
+
+The central finding is that the £20 billion international goods export figure captures only one component of Wales’s external trading relationships. The rest-of-UK market, services and Welsh value added embedded in British supply chains all require separate recognition.”.  
+
+“The precise ONS regional public-finance methodology
+
+This is one of the most important methodological checks in the fiscal section because it establishes what the £22.8 billion deficit actually measures, how it is constructed and what conclusions can legitimately be drawn from it.
+
+The relevant ONS statistical series is Country and regional public sector finances (CRPSF).
+
+Its purpose is to geographically allocate UK public-sector revenue and expenditure to the four nations and nine English regions, within a consistent national accounting framework.
+
+It is not a set of independently audited national government accounts for each constituent country.
+
+The distinction is between three geographical concepts:
+
+Concept	Meaning
+Revenue attribution	Where public revenue is estimated to arise
+Expenditure incidence	Where the intended beneficiaries of public expenditure are located
+Expenditure location	Where money is physically spent and economic activity occurs
+
+These three geographies do not necessarily coincide.
+
+1. The methodological framework
+
+The regional accounts are derived from the UK-wide Public Sector Finances (PSF) statistics and follow national accounting concepts associated with the European System of Accounts (ESA 2010).
+
+They cover central government, local government and public corporations.
+
+The three principal outputs are:
+
+Aggregate	Definition
+Total current revenue	Taxation, social contributions and other public-sector income
+Total expenditure	Current and capital expenditure under national accounting rules
+Net fiscal balance	Difference between attributed expenditure and revenue
+
+Transactions are generally recorded on an accruals basis, rather than simply when cash changes hands.
+
+The ONS expressly distinguishes the regional fiscal balance from regional borrowing and does not produce corresponding regional debt accounts. Office for National Statistics
+
+2. How the figures are constructed
+
+UK-wide public-sector accounts
+
+National revenue and expenditure totals
+
+Revenue allocation
+
+Administrative data, tax-specific indicators and estimated incidence
+
+Expenditure allocation
+
+Treasury expenditure data, beneficiary location and allocation rules
+
+Regional fiscal estimates
+
+Wales — attributed revenue
+
+£41.487bn
+
+Wales — attributed expenditure
+
+£64.268bn
+
+Estimated deficit
+
+£22.781bn
+
+Methodological schematic using the working 2024–25 figures established in the preceding checks.
+
+For revenue where direct regional records are unavailable, the general calculation is:
+
+R_{W,i}=R_{UK,i}\times s_{W,i}
+
+Where is total UK revenue from a particular source and is Wales’s estimated share based on a relevant indicator.
+
+Each revenue category may have a different indicator. The resulting regional estimates are constrained to the UK totals.
+
+This ensures national accounting consistency, but does not independently establish the accuracy of every geographical allocation.
+
+3. Important methodological update — June 2026
+
+There has been a change to the ONS’s methodological documentation.
+
+Document	Status
+Detailed methodology guide, 7 June 2024	Discontinued on 1 June 2026
+Quality and Methods Guide (QMG), 26 May 2026	Current methodological guidance
+Country and regional public-sector finances, FYE 2025	Current statistical baseline
+
+The older guide runs to 44 pages and contains considerably more detail about individual allocation methods than the newer guide.
+
+Both are relevant to our investigation, but the older document should not be assumed to describe every current tax calculation unchanged. Office for National Statistics +1
+
+Revenue methodology
+
+4. Directly recorded versus apportioned revenue
+
+The current methodology explicitly distinguishes between region-specific receipts and revenues allocated using indicators.
+
+Only a small number of categories, primarily devolved taxes, use known regional revenue amounts directly. Other receipts are geographically apportioned.
+
+This is important because the precision of the published £41.487 billion total does not imply that every constituent transaction has been geographically identified to that degree of precision. Office for National Statistics
+
+5. Tax-specific attribution
+
+The following table summarises the principal geographical approaches. It is not yet a complete replication of the tax allocation workbook.
+
+Revenue category	Principal geographical basis
+Personal income tax	Taxpayer residence
+National Insurance	Residence-based attribution
+Land Transaction Tax	Welsh-specific revenue
+Landfill Disposals Tax	Welsh-specific revenue
+VAT	Estimated liabilities across consumer and other sectors
+Corporation tax	Statistical allocation of corporate activity
+Council tax	Regional and local government data
+Public-sector rent	Direct records or economic proxies
+Public-sector operating surplus	Multiple indicators, depending on institution and activity
+
+The essential point is that different taxes are assigned according to different economic relationships.
+
+It would therefore be inappropriate to apply a single correction factor to the entire £41.487 billion revenue estimate.
+
+6. VAT — detailed methodology
+
+The archived ONS guide divides VAT revenue, excluding refunds, into four sectors.
+
+Sector	Allocation method
+Households	Household spending, household numbers and applicable VAT treatment
+Organisations supplying VAT-exempt services	GVA in relevant industries
+Government	Identifiable government service expenditure
+Housing-related investment	Population share
+
+VAT refunds are calculated separately. Office for National Statistics
+
+The model also assumes that the initial division of VAT receipts between those four sectors is consistent across regions.
+
+That assumption creates a legitimate area for sensitivity analysis, particularly where the industrial composition of Wales differs from the UK average.
+
+It does not establish in advance whether Welsh VAT revenue is overestimated or underestimated.
+
+7. The separate-jurisdiction problem
+
+This is a particularly significant finding for our sovereignty assessment.
+
+The current ONS guide, in section 8, distinguishes its methodology from the Scottish VAT assignment model developed by HMRC, HM Treasury and the Scottish Government.
+
+The latter estimates revenue on the basis of a hypothetical separate VAT jurisdiction. The ONS regional model instead allocates revenue under the existing UK system.
+
+The ONS expressly states that these estimates are not comparable on a like-for-like basis. Office for National Statistics
+
+That provides an official methodological precedent for distinguishing:
+
+Model	Question answered
+Existing UK regional tax attribution	What share of existing UK revenue is attributable to Wales?
+Separate Welsh tax jurisdiction	What revenue would accrue under a separate Welsh taxation system?
+Full independence scenario	How would revenue change following institutional, economic and behavioural adjustments?
+
+These are three distinct modelling exercises.
+
+Expenditure methodology
+
+8. Primary expenditure data source
+
+The ONS principally draws on HM Treasury’s Country and Regional Analysis (CRA).
+
+However, the figures are not identical.
+
+Statistical system	Expenditure aggregate
+HM Treasury CRA	Total expenditure on services (TES)
+ONS public-sector finances	Total managed expenditure (TME)
+
+TES covers approximately 90% of TME nationally. ONS accounting adjustments reconcile the two frameworks. Office for National Statistics
+
+The remaining difference is not equivalent to unaccounted spending. It reflects differences in accounting coverage and treatment.
+
+Nor should the national 90% proportion automatically be assumed to apply specifically to Wales.
+
+9. Three categories of expenditure
+
+Identifiable expenditure
+
+Spending whose beneficiaries can be associated with a particular region, such as local public services and relevant welfare expenditure.
+
+Non-identifiable expenditure
+
+Spending considered to benefit the UK generally, rather than a specific constituent territory.
+
+Expenditure outside the UK
+
+Overseas expenditure for which a regional share may nevertheless be assigned in the fiscal accounts.
+
+Accounting adjustments and reconciliation
+
+Conversion from departmental expenditure measures to national accounting aggregates.
+
+Total expenditure attributed to Wales
+
+£64.268bn
+
+The ONS regional accounts therefore go beyond geographically identifiable Treasury expenditure.
+
+10. Non-identifiable expenditure allocation rules
+
+The following allocation rules are documented in section 35 of the archived detailed ONS guide.
+
+Expenditure function	Allocation indicator
+Defence	Population
+Public debt interest	Population, with specific pension-related exceptions
+International services	Population
+Public and common services	Population
+Public order and safety	Population
+Enterprise and economic development	Population
+Science and technology	GVA
+Transport	GVA
+Environmental protection	GVA
+Agriculture, forestry and fisheries	Population
+Health	Population
+Recreation, culture and religion	Population
+Social protection	Population
+
+These rules apply to the relevant non-identifiable component, not necessarily the whole expenditure function. Certain overseas expenditures use different indicators. Office for National Statistics
+
+For example, identifiable transport expenditure is not simply allocated according to GVA. That allocation rule concerns the relevant non-identifiable expenditure.
+
+The distinction matters because it prevents us from treating all Welsh public expenditure as either geographically recorded or population-apportioned.
+
+11. Population versus economic-output allocation
+
+The allocation indicator can materially change the expenditure attributed to Wales.
+
+Using our previously established approximate shares of UK population and GDP, the following calculator illustrates the difference.
+
+Illustrative sensitivity to allocation method
+
+Hypothetical UK-wide expenditure programme
+
+Total programme expenditure
+
+£50bn
+
+Population-based allocation — 4.6%
+
+£2.300bn
+
+GDP-based alternative — 3.48%
+
+£1.740bn
+
+Difference in attributed expenditure
+
+£0.560bn
+
+Illustrative only. GDP is used here as an economic-output proxy, not as a substitute for the ONS’s actual GVA allocation rules.
+
+Neither allocation is inherently correct for every purpose.
+
+A population allocation may be appropriate when estimating the equal per-person benefit of a national service. An economic-output allocation might be appropriate for a function more closely associated with productive activity.
+
+A territorial expenditure approach would answer a different question again.
+
+12. Defence expenditure and the Welsh defence estate
+
+This has direct implications for our earlier assessment of Sennybridge and RAF Valley.
+
+There are at least four separate measurements:
+
+Measurement	Meaning
+Defence spending attributed to Wales	Wales’s estimated share of relevant national expenditure
+Defence spending physically incurred in Wales	Personnel, procurement, maintenance and construction expenditure
+Value of Welsh-located defence assets	Land, buildings, infrastructure and equipment
+Strategic value to UK defence	Operational capability and availability
+
+The population-based allocation of non-identifiable defence spending does not measure the latter three.
+
+Neither does the presence of valuable military infrastructure in Wales establish that the corresponding attributed defence expenditure should simply be removed from the fiscal balance.
+
+An independent-state scenario would require estimating future defence requirements and negotiating the treatment of existing assets.
+
+13. Debt interest versus debt ownership
+
+A similarly important distinction applies to public debt.
+
+The ONS attributes relevant UK public debt interest to Wales, principally using population shares.
+
+However, its regional public-finance series excludes regional debt stocks and borrowing figures.
+
+We therefore have an estimate of annual debt-servicing expenditure attributed to Wales, without a corresponding ONS estimate of Welsh sovereign debt.
+
+Those cannot be treated as an established legal debt-and-interest settlement.
+
+Accounting adjustments and statistical quality
+
+14. Not every expenditure or revenue item is a cash payment
+
+The archived guide documents adjustments involving depreciation, VAT refunds, pensions, rail infrastructure and imputed transactions.
+
+Some public-sector operating surplus also represents consumption of fixed capital rather than commercial profit.
+
+For example, depreciation associated with a public asset can appear in both revenue and expenditure accounting, with offsetting effects on the fiscal balance.
+
+This is why a detailed audit would have to examine both sides of the accounts rather than removing individual expenditure items in isolation.
+
+15. Officially acknowledged limitations
+
+The May 2026 guidance identifies three important limitations:
+
+* Publication typically occurs about 14 months after the reference period.
+* Missing contemporary data may be estimated from earlier observations or updated using national trends.
+* Alternative allocation principles can produce different regional fiscal estimates.
+
+Despite these limitations, the series is designated as accredited official statistics and remains the principal consistent UK-wide regional fiscal dataset. Office for National Statistics +1
+
+Accreditation establishes that the statistics meet recognised professional standards. It does not mean that all underlying allocations are directly observed or uniquely determined.
+
+16. Changes implemented in May 2026
+
+The latest release incorporates several changes that matter for historical reconciliation.
+
+Change	Accounting area
+Bank of England levy	Revenue
+Gambling levy	Revenue
+Pool Reinsurance Nuclear classification	Public-sector classification
+Scottish Warm Home Discount classification	Expenditure
+Revised Air Passenger Duty calculations	Revenue
+Updated Warm Home Discount data	Expenditure
+Revised asset-transfer calculations	Accounting adjustments
+
+These changes demonstrate why we should use a consistent publication vintage when comparing different years. Office for National Statistics
+
+Implications for our wider fiscal assessment
+
+17. Four complementary accounts
+
+I would structure the Welsh assessment into four separate accounting exercises.
+
+Account A — Existing regional fiscal balance
+
+The ONS baseline, including the £22.781 billion attributed fiscal deficit under current arrangements.
+
+Account B — Territorial economic activity
+
+Actual public expenditure geographically incurred, employment, production, procurement and territorial revenue indicators.
+
+Account C — Sovereign fiscal scenario
+
+Revenue under a separate jurisdiction, sovereign institutional expenditure, debt arrangements and transition costs.
+
+Account D — National wealth and strategic capability
+
+Natural capital, infrastructure, resource rights, resilience, cultural assets and operational capabilities.
+
+This preserves the integrity of the existing fiscal statistics while allowing us to investigate questions they were not designed to answer.
+
+18. What we should request from the ONS
+
+To conduct a genuinely reproducible methodological audit, the following information would be useful:
+
+Required data	Purpose
+UK revenue total for every tax line	Establish allocation denominator
+Welsh allocation coefficient for each line	Reproduce Welsh estimate
+Underlying indicator dataset	Assess geographical attribution
+Indicator reference year	Identify lagged inputs
+Direct-record versus modelled status	Distinguish observed and estimated amounts
+Identifiable expenditure	Establish beneficiary-specific spending
+Non-identifiable expenditure	Quantify national allocations
+Overseas expenditure	Identify attributed external spending
+Accounting adjustments	Reconcile Treasury and ONS totals
+Revision history	Track methodological changes
+Alternative allocation estimates	Assess sensitivity
+
+An especially useful output would be an item-by-item Welsh fiscal reconciliation table, rather than simply another headline deficit estimate.
+
+The relevant ONS team is sub-uk.psf@ons.gov.uk.
+
+19. Corrected wording for the master document
+
+The ONS regional public-finance methodology: The Office for National Statistics constructs country and regional public-sector finance estimates from UK-wide public-sector accounts using revenue attribution, expenditure allocation and national accounting adjustments. The methodology distinguishes directly identifiable regional revenue from statistically apportioned receipts and allocates expenditure according to estimated beneficiaries, geographical location and other relevant indicators.Revenue allocation varies by revenue category, including taxpayer residence, consumption, economic activity and directly recorded regional receipts. Expenditure incorporates identifiable, non-identifiable and overseas spending, with relevant national expenditures allocated using population, economic output and other indicators.The resulting net fiscal balance represents an estimate of public finances under existing UK arrangements. It is not a territorial cash-flow statement, a measure of devolved government borrowing or an independently established sovereign debt liability.The ONS acknowledges that alternative allocation principles may produce different regional estimates and that unavailable contemporary data may require statistical approximation. Its current Quality and Methods Guide was revised on 26 May 2026, replacing the detailed methodology guide discontinued on 1 June 2026.Assessment of an alternative constitutional settlement requires separate modelling of territorial revenues, sovereign expenditure, income flows, asset and liability arrangements, and economic responses. Such analysis should retain the existing ONS fiscal balance as its baseline rather than replacing it with unverified adjustments.
+
+20. Fact-check status
+
+Claim	Finding
+ONS regional fiscal statistics are accredited official statistics	Verified
+They originate from UK-wide fiscal accounts	Verified
+All Welsh revenue is directly measured	Incorrect
+All attributed expenditure physically occurs in Wales	Incorrect
+Revenue and expenditure use multiple allocation indicators	Verified
+Relevant defence expenditure is population-apportioned	Documented
+Relevant debt interest is population-apportioned	Documented
+Regional debt and borrowing are included	Incorrect
+Alternative allocation methods can produce different results	Explicitly acknowledged by ONS
+Existing regional VAT estimates equal separate-jurisdiction estimates	Incorrect
+The detailed methodology guide was discontinued in June 2026	Verified
+Current allocation assumptions necessarily disadvantage Wales	Not established
+Every component of the £22.781bn deficit independently reproduced	Outstanding
+
+Primary methodological documents
+
+Current ONS Quality and Methods Guide
+
+26 May 2026 — current framework, limitations and revisions.Read current methodology⁠￼
+
+Detailed archived methodology guide
+
+7 June 2024 — individual revenue and expenditure allocation rules.Read detailed methodology⁠￼PDF version — 44 pages⁠￼
+
+Outstanding limitations: I have checked both the current ONS guidance and the archived detailed methodology. I have not yet reproduced each 2024–25 allocation from the underlying datasets, quantified the proportion of Welsh revenue derived from direct records versus statistical estimates, or confirmed that every archived tax-specific allocation rule remains unchanged.
+
+The most important finding from this check is that the distinction between an existing regional fiscal account and a separate sovereign fiscal account is recognised within the ONS’s own methodological framework. We do not need to dispute the validity of the £22.8 billion estimate to establish the need for a different model when investigating Welsh independence.”.  
+
+“Whether the Welsh regional deficit is being interpreted correctly
+
+The £22.8 billion deficit is a legitimate measure of Wales’s estimated fiscal position under existing UK arrangements. It becomes misleading when treated as a comprehensive measure of Welsh economic viability, economic contribution or the inevitable fiscal position of an independent Wales.
+
+There are two equally important errors to avoid:
+
+* Treating the regional fiscal deficit as proof that Wales cannot function as an independent state.
+* Treating the methodological limitations of the regional fiscal accounts as proof that the deficit does not really exist.
+
+Neither conclusion follows from the statistics.
+
+The issue is not necessarily the accuracy of the headline figure, but the scope of the conclusions drawn from it.
+
+1. What the ONS actually says
+
+The current ONS Quality and Methods Guide, revised on 26 May 2026, confirms that regional public-finance statistics are constructed using two principal approaches:
+
+* Who pays: the estimated geographical incidence of public revenue.
+* Who benefits: the estimated geographical incidence of public expenditure.
+
+The ONS explicitly states that the net fiscal balance is not equivalent to regional borrowing. It also excludes regional debt stocks and financial account data. Office for National Statistics +1
+
+There is an even more explicit qualification in the ONS’s 2019 statistical publication:
+
+They may not be an accurate representation of public finances should fiscal powers be fully devolved among UK countries and regions. Office for National Statistics
+
+That qualification concerns full fiscal devolution, even before considering the additional institutional changes associated with independence.
+
+2. The correct interpretation of the headline numbers
+
+Using our existing working fiscal baseline:
+
+Attributed public expenditure
+
+£64.268bn
+
+Attributed public revenue
+
+£41.487bn
+
+Net fiscal deficit
+
+£22.781bn
+
+Financial year 2024–25. Working figures established in the preceding fiscal checks.
+
+The correct interpretation is that public-sector expenditure attributed to Wales exceeded public-sector revenue attributed to Wales by approximately £22.8 billion.
+
+This is a substantial fiscal imbalance.
+
+It demonstrates that, under current arrangements, Welsh-attributed public receipts do not cover the full cost of public expenditure attributed to Wales.
+
+It does not establish that £22.8 billion in cash was transferred from England into Wales.
+
+3. Fiscal redistribution versus an actual financial transfer
+
+These concepts are frequently conflated.
+
+Measurement	Meaning
+Regional fiscal deficit	Difference between attributed expenditure and revenue
+Welsh block grant	Funding transferred to the devolved administration
+Territorial cash flow	Money physically entering or leaving Wales
+UK public borrowing	Borrowing undertaken by the UK public sector
+Sovereign borrowing requirement	Financing needed by an independent government
+
+The estimated Welsh fiscal deficit reflects the operation of a pooled UK fiscal system, including national borrowing.
+
+It cannot be attributed exclusively to financial transfers from English taxpayers.
+
+Some expenditure attributed to Wales is incurred outside Wales. Some is financed through UK borrowing. Some relates to services provided collectively across the UK.
+
+The deficit nevertheless represents a genuine fiscal benefit of participation in a system that pools expenditure and revenue.
+
+4. The most common interpretations assessed
+
+Interpretation	Assessment
+Attributed Welsh expenditure exceeds attributed revenue by £22.8bn	Correct
+Wales receives substantial net fiscal support under current arrangements	Supported
+Westminster transfers £22.8bn directly to the Welsh Government	Incorrect
+Wales borrows £22.8bn annually	Incorrect
+Wales owes England £22.8bn annually	Incorrect
+Wales consumes £22.8bn more than it produces	Incorrect
+The deficit measures Wales’s international trade balance	Incorrect
+Wales could eliminate the deficit merely through independence	Unsupported
+An independent Wales would necessarily have the same deficit	Unsupported
+Wales has no economic value beyond its public revenue	Incorrect
+Independence would require serious fiscal adjustment or financing arrangements	Supported as a conditional assessment
+
+The central error is treating a regional public-sector account as though it were an entire national economic account.
+
+5. Fiscal viability versus economic viability
+
+Using our previously established GDP estimate, the public-finance figures produce the following indicative ratios.
+
+Welsh GDP
+
+£100.3bn
+
+Regional deficit relative to GDP
+
+22.7%
+
+Public revenue relative to GDP
+
+41.4%
+
+Public expenditure relative to GDP
+
+64.1%
+
+Indicative calculations combining calendar-year 2024 GDP with financial-year 2024–25 public finances. Not precisely period-matched.
+
+If a deficit of approximately 22.7% of GDP persisted under a separate sovereign fiscal system, it would present an exceptionally serious financing challenge.
+
+That should not be understated.
+
+However, the viability of a sovereign economy depends on more than its initial fiscal balance. Relevant factors include its productive capacity, taxation potential, monetary arrangements, access to financing, external trade, debt settlement, institutional capacity and economic growth.
+
+The deficit establishes the scale of the starting fiscal challenge. It does not settle all those other questions.
+
+6. The geographical expenditure problem
+
+This connects directly with our investigation of Welsh defence infrastructure.
+
+Consider Sennybridge and RAF Valley.
+
+Measurement	Relevant question
+Defence expenditure attributed to Wales	What share of UK defence expenditure is assigned to Wales?
+Territorial defence expenditure	How much defence spending physically takes place in Wales?
+Welsh economic benefit	How much employment, procurement and income does Wales receive?
+British operational benefit	What military capability does the wider UK obtain?
+Replacement expenditure	What would equivalent capability elsewhere cost?
+Future sovereign expenditure	What defence arrangements would an independent Wales require?
+
+The regional public-finance methodology primarily addresses the first question.
+
+It cannot be used to answer all six.
+
+However, the operational value of Sennybridge or RAF Valley cannot simply be deducted from the existing fiscal deficit either. Establishing future lease payments, compensation, shared defence arrangements or other commercial terms would require a separate assessment.
+
+7. Does the fiscal deficit capture the wider value of Wales to Britain?
+
+Not comprehensively.
+
+This is where our preceding resource inventory becomes particularly useful.
+
+Welsh resource or capability	Value not necessarily captured by regional fiscal balance
+Water infrastructure	Supply security and drought resilience
+Military training estates	Operational capability and substitution constraints
+LNG terminals	Availability of import capacity
+Petroleum refining	Security of domestic fuel-processing capability
+Pumped hydro	Electricity-system flexibility
+International interconnectors	Access to neighbouring electricity markets
+Anthracite	Domestic industrial mineral availability
+Agricultural land	Food-system resilience and productive potential
+Woodland	Carbon storage and ecosystem services
+Cultural assets	Non-market and accumulated cultural value
+
+Some associated economic benefits are already reflected in taxation, GDP or commercial income.
+
+Others are not fully monetised or are measured through separate accounting frameworks.
+
+Our assessment should therefore recognise these additional forms of value without assuming that they constitute readily available government revenue.
+
+An asset can be strategically indispensable without generating enough taxable income to finance public services. Conversely, a profitable industry can generate substantial public revenue without being strategically indispensable.
+
+8. The stock-versus-flow problem
+
+This is important when comparing the fiscal deficit with the natural-capital and infrastructure valuations we have assembled.
+
+Annual fiscal flow
+
+£22.8bn
+
+Fiscal deficit during one financial year.
+
+Natural-capital asset stock
+
+£33.5bn
+
+Previously identified Welsh woodland valuation, representing discounted future services.
+
+It would be incorrect to subtract the woodland valuation from the fiscal deficit and claim that Wales consequently has a surplus.
+
+It would be equally incorrect to argue that the woodland is economically worthless because its full asset value does not appear in annual public revenue.
+
+Both measurements are useful, but they belong to different accounts.
+
+9. What would happen to the deficit under alternative arrangements?
+
+The correct modelling approach is to begin with the existing deficit and calculate evidenced changes.
+
+D_{\text{future}}=D_{\text{baseline}}+\Delta E-\Delta R
+
+Where:
+
+* represents the fiscal deficit.
+* represents changes in public expenditure.
+* represents changes in public revenue.
+
+Illustrative fiscal sensitivity model
+
+Starting regional deficit: £22.781bn
+
+Additional annual public revenue
+
+£0.0bn
+
+Annual expenditure reductions
+
+£0.0bn
+
+Additional annual expenditure
+
+£0.0bn
+
+Resulting illustrative deficit
+
+£22.78bn
+
+22.7% of baseline GDP, holding GDP constant.Reset to existing baselineThis is arithmetic sensitivity analysis, not a forecast. None of the adjustable amounts represents an established achievable policy outcome.
+
+This demonstrates the magnitude of changes required without making unsupported assumptions about their feasibility.
+
+10. Testing proposed adjustments
+
+Any proposed adjustment to the existing fiscal deficit should pass several tests.
+
+Proposed adjustment	Necessary qualification
+Remove allocated UK defence expenditure	Include future Welsh defence and security costs
+Remove UK debt interest	Establish debt settlement and future financing costs
+Reallocate corporation tax	Demonstrate the alternative tax base and attribution rules
+Introduce resource royalties	Establish ownership, legality, rates and commercial viability
+Receive Crown Estate revenues	Account for management costs and existing commitments
+Increase economic growth	Model the resulting tax revenue, not gross GDP alone
+Receive EU funding	Account for eligibility, contributions and timing
+Monetise infrastructure assets	Distinguish one-off proceeds from recurring revenue
+Reduce administrative duplication	Include the cost of new sovereign institutions
+
+Both optimistic and pessimistic scenarios need to be subjected to the same evidential standards.
+
+11. The question of the remaining UK
+
+The existing deficit also does not establish how much the remaining United Kingdom would save following Welsh independence.
+
+A national expenditure programme does not necessarily become cheaper in direct proportion to the population leaving the jurisdiction.
+
+For example, certain defence, diplomatic and administrative costs may be relatively fixed. Conversely, geographically identifiable expenditure might cease or transfer to Welsh institutions.
+
+There would also be potential consequences involving commercial arrangements, trade, infrastructure access, debt servicing and shared services.
+
+We therefore need to distinguish three fiscal questions.
+
+Existing regional balance
+
+What expenditure and revenue are currently attributable to Wales?
+
+Future Welsh sovereign balance
+
+What would the new Welsh state’s expenditure, revenue and financing requirements be?
+
+Remaining UK fiscal impact
+
+How would separation affect the remaining UK’s revenues, expenditure and economic capabilities?
+
+There is no requirement for the answers to those three questions to be numerically identical.
+
+12. Corrected wording for the master document
+
+Interpretation of the Welsh regional fiscal deficit: The estimated Welsh fiscal deficit of approximately £22.8 billion for 2024–25 represents the difference between public-sector expenditure and revenue attributed to Wales under existing UK constitutional, economic and fiscal arrangements.The ONS constructs these estimates using geographical revenue incidence and expenditure-benefit allocation methods. It explicitly distinguishes regional fiscal balances from actual regional borrowing and does not provide corresponding regional debt accounts. Previous ONS publications have also acknowledged that regional fiscal estimates may not accurately represent public finances under full fiscal devolution.The deficit establishes a substantial existing fiscal imbalance and provides an essential baseline for assessing alternative constitutional arrangements. However, it does not measure the amount of money physically transferred into Wales, the Welsh Government’s borrowing, the country’s external trade balance or its comprehensive economic contribution to the United Kingdom.The prospective fiscal position of an independent Wales requires separate modelling of taxation, public expenditure, defence, pensions, debt succession, institutional costs, trade arrangements and wider economic responses. The fiscal consequences for the remaining UK likewise require independent assessment.Welsh natural resources, strategic infrastructure, productive capacity and non-market economic benefits are relevant to those wider assessments but cannot be directly offset against annual fiscal deficits without establishing corresponding recurring public revenues or expenditure reductions.Accordingly, the existing regional deficit should be treated neither as conclusive evidence against Welsh economic viability nor as an accounting artefact that can be disregarded.
+
+13. Fact-check status
+
+Claim	Finding
+The regional fiscal deficit is a legitimate statistic	Confirmed
+ONS constructs it using allocation methodologies	Confirmed
+It measures actual Welsh Government borrowing	Incorrect
+It establishes an existing substantial fiscal imbalance	Correct
+It measures the full economic cost or benefit of Wales to Britain	Incorrect
+It necessarily predicts the fiscal position after independence	Unsupported
+Alternative fiscal arrangements require separate modelling	Supported by ONS methodological qualifications
+Strategic assets can simply be deducted from the deficit	Incorrect
+The remaining UK would necessarily save £22.8bn annually	Unsupported
+Wales’s sovereign fiscal viability has been established	Outstanding
+
+Primary sources
+
+* ONS — Current Quality and Methods Guide, 26 May 2026⁠￼
+* ONS — Detailed regional public-finance methodology⁠￼
+* ONS — Financial year ending 2019, including explicit qualifications concerning fiscal devolution⁠￼
+
+Outstanding limitations: I have checked the current and historical ONS guidance directly. I have retained our previously established fiscal figures rather than independently auditing them again. I have not examined a representative sample of political or media statements, so this check establishes which interpretations are methodologically justified, not how frequently the figures are misrepresented in public debate.
+
+The central conclusion for our inventory is that the £22.8 billion figure is an answer to a specific accounting question. It is not an answer to the entire question of Welsh economic sovereignty.”.  
+
+it broke briefly for that one. nice.   
+
+yma o hyd.  
+
+“Natural capital and strategic value — the £2.5 billion annual ecosystem-service estimate
+
+The first distinction is between the annual economic value of ecosystem services and the capitalised value of natural assets.
+
+The former estimates the benefits generated during a particular year. The latter estimates the present value of expected future benefits.
+
+The £2.5 billion figure therefore needs checking against its original reference year, geographical coverage, valuation methodology and included ecosystem services before we can incorporate it into the Welsh economic inventory.
+
+It should not be interpreted as £2.5 billion of annual government revenue or additional GDP.
+
+1. The £2.5 billion figure is confirmed — for 2022
+
+The Welsh Government’s Sustainable Farming Scheme: Full Business Case, published in September 2025, provides an explicit breakdown in Table 59.
+
+Annual ecosystem-service value
+
+£2.5bn
+
+Capitalised natural asset value
+
+£95.7bn
+
+Reference year 2022, expressed in 2023 prices. Welsh Government, Sustainable Farming Scheme business case. GOV.WALES
+
+However, this is a historical estimate rather than a fixed annual value. The ONS’s subsequent 2025 natural capital accounts put the Welsh annual value at approximately £2 billion for 2023.
+
+A further edition was published on 19 November 2026, so we should also establish whether that provides a newer Welsh estimate. Office for National Statistics +1
+
+2. What constitutes the £2.5 billion?
+
+The Welsh Government provides the following breakdown:
+
+Ecosystem service	Annual value, £m
+Recreation and tourism expenditure	788.8
+Agricultural biomass	522.0
+Recreation-related health benefits	322.7
+Water provisioning	272.2
+Greenhouse gas regulation	238.7
+Recreation and aesthetic property value	184.5
+Air pollution regulation	120.3
+Minerals and metals	61.3
+Timber	52.0
+Renewable electricity	40.4
+Urban heat regulation	30.8
+Wood fuel	12.5
+Fish	1.5
+Noise regulation	1.3
+Oil and gas	0.0
+Coal	−171.5
+Total	2,477.5
+
+Source: Table 59, Welsh Government Sustainable Farming Scheme business case. Total calculated from published components. GOV.WALES
+
+The underlying figure is therefore approximately £2.478 billion, rounded to £2.5 billion.
+
+Composition by type of ecosystem service
+
+Cultural services
+
+£1296.0m
+
+52.3% of total
+
+Provisioning services
+
+£790.4m
+
+31.9% of total
+
+Regulating services
+
+£391.1m
+
+15.8% of total
+
+Calculated from the Welsh Government table. Provisioning includes the negative coal resource-rent estimate.
+
+More than half of the estimated annual value arises from cultural services, including recreation, tourism and health benefits.
+
+3. How are these services valued?
+
+The ONS natural capital accounts follow the United Nations’ System of Environmental-Economic Accounting framework, complementing conventional national economic accounts.
+
+Different services require different valuation methods.
+
+Service	Principal valuation approach
+Agricultural biomass	Resource rent
+Water provisioning	Resource rent
+Coal and mineral extraction	Resource rent
+Renewable electricity	Resource rent
+Timber	Physical production and valuation prices
+Greenhouse gas regulation	Physical emissions and removals, carbon valuation
+Air pollution regulation	Pollution removal and associated health benefits
+Recreation	Attributable expenditure
+Recreation-related health	Estimated health benefits of physical activity
+Aesthetic services	Contribution of natural surroundings to property values
+
+Office for National Statistics +1
+
+The distinction is particularly significant for the strategic resources we have already investigated.
+
+For example, the £272.2 million water provisioning estimate does not measure the total commercial value of Welsh water supplies, the replacement cost of reservoirs or the economic consequences of a prolonged interruption to supplies in England.
+
+It estimates the economic return attributable to the natural resource itself under the accounting methodology.
+
+4. Why does coal have a negative value?
+
+The negative £171.5 million coal provisioning figure is worth highlighting.
+
+Under the resource-rent methodology, estimated economic returns are calculated after accounting for operating costs and the cost of using produced capital.
+
+A negative resource rent can arise where the industry’s return is insufficient to cover these estimated costs.
+
+The ONS acknowledges that both coal and water provisioning can produce negative annual valuations. Office for National Statistics
+
+This does not necessarily mean:
+
+* The underlying mineral reserves have no strategic utility.
+* Every individual mine is commercially unprofitable.
+* The physical resource has disappeared.
+* Replacing domestic supplies through imports would be costless.
+
+The negative valuation and the strategic availability of specialist Welsh anthracite are separate economic questions.
+
+5. What is excluded from the £2.5 billion?
+
+The ONS explicitly describes its natural capital valuations as incomplete. Flood protection, for example, is not currently included in the main national natural capital aggregate, although it has been valued in separate woodland accounts. Office for National Statistics +1
+
+Resource or service	Coverage
+Agricultural biomass	Included
+Commercial water provisioning	Included
+Carbon sequestration and emissions	Included
+Air pollution removal	Included
+Recreation and tourism	Included
+Natural flood protection	Excluded from main aggregate
+Biodiversity	Not comprehensively valued
+Pollination	Not separately identified in this aggregate
+Soil health and long-term fertility	Not comprehensively valued
+Drought resilience and reserve capacity	Not separately quantified
+Strategic mineral availability	Not separately quantified
+Intrinsic ecological value	Outside the valuation’s scope
+
+This means the £2.5 billion estimate cannot be treated as the comprehensive economic value of Welsh nature.
+
+However, incompleteness does not provide grounds for arbitrarily increasing the figure.
+
+6. Annual valuations fluctuate
+
+Publication	Reference year	Welsh annual ecosystem-service value
+ONS 2023 accounts	2021	Approximately £2bn
+Welsh Government 2025 business case	2022	£2.478bn
+ONS 2025 accounts	2023	Approximately £2bn
+ONS 2026 accounts	New release	Not yet extracted
+
+The ONS advises against directly comparing totals from successive editions because methods, coverage and historical estimates are revised. Office for National Statistics +2
+
+Consequently, we cannot conclude that Welsh natural capital productivity declined by approximately £500 million between 2022 and 2023 without extracting a consistent revised time series.
+
+Changes in profitability, commodity prices, valuation assumptions and physical ecosystem condition can all influence these estimates.
+
+7. Relationship with Welsh GDP and the fiscal deficit
+
+Using the fiscal baseline established in our preceding checks:
+
+Measurement	Amount	Reference period
+Welsh GDP	£100.327bn	2024
+Welsh GVA	£87.4bn	2024
+Public revenue	£41.487bn	2024–25
+Regional fiscal deficit	£22.781bn	2024–25
+Annual ecosystem-service valuation	£2.478bn	2022
+Natural-capital asset valuation	£95.7bn	2022
+
+These measures cannot simply be added together.
+
+The ecosystem-service valuation includes both market-related and non-market benefits. Some commercial activity associated with agriculture, tourism, water and electricity is already represented within GDP.
+
+Other benefits, such as improved health through recreation and pollution removal, extend beyond conventional measurements of economic production.
+
+A proper environmentally extended economic account would identify and reconcile these overlaps.
+
+8. Who receives the benefit?
+
+This is the particularly important outstanding question for our strategic-value inventory.
+
+The location of a natural asset does not necessarily determine the location of its beneficiaries.
+
+Welsh natural asset	Potential beneficiaries
+Reservoir catchments	Welsh and English water consumers
+Woodland carbon sequestration	Global population
+Flood-regulating habitats	Downstream communities, potentially across national borders
+Agricultural land	Domestic and international consumers
+Recreational landscapes	Residents and visitors
+Renewable energy resources	Participants in the interconnected electricity market
+Mineral resources	Domestic and international industrial users
+
+The £2.478 billion aggregate does not establish how much of the associated benefit accrues specifically to Welsh residents, the wider UK or international beneficiaries.
+
+For our purposes, a supplementary beneficiary-incidence account would be particularly valuable, distinguishing:
+
+* Location of the natural asset.
+* Ownership and management rights.
+* Location of beneficiaries.
+* Distribution of financial returns.
+* Non-market benefits.
+* Dependence and availability of substitutes.
+
+This would complement the ONS public-finance methodology, which we have just examined from the perspective of expenditure incidence.
+
+9. Corrected wording for the master document
+
+Annual ecosystem-service valuation: The Welsh Government’s September 2025 Sustainable Farming Scheme Full Business Case identifies an estimated annual value of Welsh ecosystem services of approximately £2.5 billion for 2022, expressed in 2023 prices. The individual published components total approximately £2.478 billion.The estimate includes provisioning, regulating and cultural services, encompassing agricultural biomass, water, renewable energy, mineral resources, greenhouse gas regulation, pollution removal, recreation and tourism. Cultural services account for just over half of the estimated annual value.The associated natural-capital asset valuation was approximately £95.7 billion, representing the capitalised value of anticipated future ecosystem services rather than annual income.The subsequent ONS 2025 natural capital accounts estimate an annual Welsh ecosystem-service value of approximately £2 billion for 2023. Methodological revisions prevent straightforward comparisons between publication editions.These valuations are partial estimates of economic and societal benefits, rather than public revenue or comprehensive measures of strategic importance. They do not fully capture biodiversity, flood protection, resource availability during emergencies or the geographical distribution of beneficiaries. Further analysis should distinguish territorial natural assets, commercial returns, non-market services and cross-border strategic dependencies.
+
+10. Fact-check status
+
+Claim	Finding
+Welsh ecosystem services are valued at £2.5bn annually	Verified for 2022
+Detailed components total approximately £2.478bn	Calculated
+Associated natural-capital assets valued at £95.7bn	Verified for 2022
+£2.5bn is the latest annual estimate	Superseded
+2023 annual estimate is approximately £2bn	Verified
+£2.5bn represents government revenue	Incorrect
+All ecosystem services are included	Incorrect
+Cultural services constitute over half of the 2022 valuation	Verified
+Cross-border beneficiary distribution quantified	Outstanding
+November 2026 valuation independently established	Outstanding
+
+Primary sources
+
+* Welsh Government — Sustainable Farming Scheme Full Business Case, Table 59⁠￼
+* ONS — UK natural capital accounts 2025⁠￼
+* ONS — Natural capital valuation methodology⁠￼
+* ONS — UK natural capital accounts 2026, released 19 November⁠￼
+
+Outstanding limitation: The newest ONS natural capital accounts were released six days ago, but I was unable to retrieve the full 2026 bulletin. I have therefore verified the original £2.5 billion claim and established the subsequent 2023 estimate, but cannot yet confirm the latest revised Welsh valuation.
+
+For the inventory, I would retain £2.5 billion as a documented historical annual estimate, not as a current recurring valuation. The distinction between ecosystem-service value, natural wealth and strategic resource availability should remain explicit throughout this section.”.   
+
+
