@@ -1,6 +1,6 @@
 # Repository Index
 
-_Generated on 2026-11-26 14:46:42 UTC_
+_Generated on 2026-11-26 18:01:58 UTC_
 
 > Folders are bold; items are clickable.
 
@@ -2799,6 +2799,7 @@ _Generated on 2026-11-26 14:46:42 UTC_
       - [`🎶_but_was_jerusalem_builded_here.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🎶_but_was_jerusalem_builded_here.md)
       - [`💣_lead_bombs_for_stephen_millers_period.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/💣_lead_bombs_for_stephen_millers_period.md)
       - [`📺_firing_squad_ppv.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/📺_firing_squad_ppv.md)
+      - [`🕸️_not_fanning_two_tier_policing_flames.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🕸️_not_fanning_two_tier_policing_flames.md)
       - [`🚰_utility_bargaining.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🚰_utility_bargaining.md)
       - [`🤖_the_great_plausible_deniability_machine.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🤖_the_great_plausible_deniability_machine.md)
       - [`🧵_bayeux_redux.md`](🌑_1_Origin_Points/🪿_Embodied_Information_Ecology/🫀🕸️_Information_Is_Experienced/🧵_bayeux_redux.md)
