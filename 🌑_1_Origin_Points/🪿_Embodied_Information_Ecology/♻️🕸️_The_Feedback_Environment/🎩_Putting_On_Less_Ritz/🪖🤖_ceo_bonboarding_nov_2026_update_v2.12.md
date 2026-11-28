@@ -163,6 +163,8 @@ Between you all and the cyberattacks that you have not prevented yet, I am getti
 
 Include the Russian, Hebrew, and Mandarin, like good boys.  
 
+Also acknowledging there is a non-zero chance of NK involvement for the grunt work.  
+
 ---
 
 ## 🧿 Analysis — The executive exception
