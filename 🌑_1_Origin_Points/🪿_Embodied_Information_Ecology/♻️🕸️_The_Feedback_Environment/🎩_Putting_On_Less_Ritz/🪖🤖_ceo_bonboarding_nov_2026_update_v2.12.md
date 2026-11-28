@@ -1,5 +1,5 @@
 # 🪖🤖 CEO bonboarding — November 2026 update v2.12
-**First created:** 2026-11-25 | **Last updated:** 2026-11-25  
+**First created:** 2026-11-25 | **Last updated:** 2026-11-28  
 *Six rules for technology billionaires: defence accountability, professional boundaries, corporate culture and child safeguarding.*
 
 ---
@@ -139,7 +139,29 @@ The policy question is how to attach responsibility to foreseeable and preventab
 
 The proposed sanctions are not statements of existing law. Any real forfeiture, divestiture, executive disqualification or withdrawal of operating authorisation would require a lawful basis, established liability, proportionality, independent adjudication and appeal rights. The proposal must distinguish deliberate misconduct, reckless deployment, systemic failure and isolated incidents despite reasonable controls. It must also protect victims, employees and innocent third parties during enforcement or corporate transition.
 
-No physical or chemical castration is proposed. The financial metaphor is retained as satire.
+No physical or chemical castration is proposed. The financial metaphor is retained as satire.  
+
+Maybe.  
+
+### Rule 7(a) - No Extrajudicial Killings, Please.  
+
+The whole thing gets very messy, and not just the floor.  
+
+No, not even for their pretty data holdings.  
+
+### Rule 7(b) - No Holding Up Transparency For Survivors  
+
+cf. rule 6(b)  
+
+### Rule 7(c) - Do Gamergate *Etcetera* One More Time, And I Will Personally Confiscate All Your Compute.  
+
+Get rid of the lists; don’t be weird.  
+
+### Rule 8 - Assist The Disclosure In Accordance With The Epstein Act  
+
+Between you all and the cyberattacks that you have not prevented yet, I am getting really very tired.  
+
+Include the Russian, Hebrew, and Mandarin, like good boys.  
 
 ---
 
@@ -200,4 +222,4 @@ technology governance, executive accountability, defence ethics, safeguarding, w
 
 *Survivor authorship is sovereign. Containment is never neutral.*
 
-_Last updated: 2026-11-25_
+_Last updated: 2026-11-28_
