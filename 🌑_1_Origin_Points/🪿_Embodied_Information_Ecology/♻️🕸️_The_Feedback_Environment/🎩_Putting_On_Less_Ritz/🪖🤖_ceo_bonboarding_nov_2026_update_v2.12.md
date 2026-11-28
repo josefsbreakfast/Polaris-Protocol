@@ -165,6 +165,8 @@ Include the Russian, Hebrew, and Mandarin, like good boys.
 
 Also acknowledging there is a non-zero chance of NK involvement for the grunt work.  
 
+<!-- On a completely unrelated point, the next one will have to rival the Koh I Noor. Just in case. You never know who gets poked and why; consider it insurance. Perhaps some of you know of people with composite minerals in pretty rocks lying around the place. Also happy to have a lab grow a really buck piece of uniform carbon. Same shit, less blood. -->
+
 ---
 
 ## 🧿 Analysis — The executive exception
